@@ -8,13 +8,15 @@ tags: [river, inland]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-The **Sarvada** rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[place-sthrnwall|the Southern Wall]] and runs south-east to the eastern coast. Its upper valley is defensible hill country and holds the bow-fort janapada that trains half the archers in Vedyara; its middle valley is flat, wet, densely settled and, by a long accident of temple endowment, the copying country of the subcontinent.
+The Sarvada is the river that copies the subcontinent's books.
+
+It rises at [[place-sarvaprbhv|Sarvaprabhava]] on the face of [[place-sthrnwall|the Southern Wall]] and runs south-east to the eastern coast. Its upper valley is defensible hill country and holds the bow-fort janapada that trains half the archers in Vedyara; its middle valley is flat, wet, densely settled and, by a long accident of temple endowment, the copying country of the subcontinent.
 
 ## The Copyists
 
-More palm-leaf is written on the Sarvada than anywhere else in Vedyara. A dozen janapadas along two hundred miles of the middle river keep scriptoria that take commissions from temples, courts and academies the length of the subcontinent, and the scribal sub-castes there have a standing and a rate of literacy that exist nowhere else outside a city.
+More palm-leaf is written on the Sarvada than anywhere else in Vedyara. A dozen janapadas along two hundred miles of the middle river keep scriptoria that take commissions from temples, courts and academies the length of the subcontinent, and the scribal households there have a standing and a rate of literacy that exist nowhere else outside a city.
 
-It has consequences nobody planned. A regional dialect with an unusually conservative grammar; a class of men of the cultivating tharana who can read and are therefore not quite what their caste says they are; and the best-documented land-tenure record in the world, kept up for nine hundred years by people whose day-work is copying somebody else's books.
+The copying has consequences nobody planned. The valley speaks a regional dialect with an unusually conservative grammar. It has a class of Karmāja cultivators who can read and are therefore not quite what their station says they are. And it keeps the best-documented land-tenure record in the world, written up for nine hundred years by people whose day-work is copying somebody else's books.
 
 ## The Water
 
