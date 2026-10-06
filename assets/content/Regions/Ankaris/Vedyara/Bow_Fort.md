@@ -12,7 +12,7 @@ Nobody in [[affiliation-dhnrktjnpd|Dhanurkota]] can tell you who laid the founda
 
 ## The Foundations
 
-The lower courses are megalithic. The blocks are larger than anything the janapada has moved since, they are fitted without mortar, and no living mason can say how the work was done or by whom. The walls raised on top of them are ordinary Vedyari fortification of the last four centuries and are patched like anything else.
+The lower courses are megalithic. The blocks are larger than anything the janapada has moved since, they are fitted without mortar, and nobody living knows how the work was done or who did it. The walls raised on top of them are ordinary Vedyari fortification of the last four centuries and are patched like anything else.
 
 Nobody claims the foundations. The temple does not say the goddess laid them and the academies do not say an ancestor did. The classical chronicles say nothing about them. The Dhanurkoti position is that the stones were here first.
 

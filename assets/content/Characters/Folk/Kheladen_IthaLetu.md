@@ -36,4 +36,4 @@ Khelâden Itha'Letu is a 46-year-old man who stands 5'7" tall with a light build
 
 # Dossier {#dossier}
 
-Khelâden Itha'Letu collects and funds craftsmen of the first rank out of [[place-anlaghzetun|Anlagh-Zetûn]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. A craftsman working for Khelâden learns to deliver before being asked twice.
+Khelâden Itha'Letu collects and funds craftsmen of the first rank out of [[place-anlaghzetun|Anlagh-Zetûn]]. He expects the results to be worth exactly what he has paid for them, and says so when they are not. Craftsmen working for Khelâden deliver before being asked twice.

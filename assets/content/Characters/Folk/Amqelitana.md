@@ -36,4 +36,4 @@ Amqelitâna is a 38-year-old woman who stands 5'5" tall with a light build. She 
 
 # Dossier {#dossier}
 
-Amqelitâna presides as high priestess of [[lore-rethsaardty|Reth'Sa'âr]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. A scholar wanting the old records learns to ask her rather than the archive.
+Amqelitâna presides as high priestess of [[lore-rethsaardty|Reth'Sa'âr]]'s temple in [[place-galezkara|Galezkara]]. Its archives answer to her alone, and what may be read from them is her decision before it is anyone else's. For the old records, she is the one to ask rather than the archive.

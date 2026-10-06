@@ -74,7 +74,7 @@ A Circle is a vast paved clearing, **three hundred yards across**, where buildin
 
 To say a man "owns a house facing the Circle" is to say he is wealthy beyond ordinary reckoning.
 
-By ancient tradition the city holds exactly **twelve** of them—the **Twelve Circles**—their number deliberately echoing _the Twelve_ of the [[affiliation-arldnpnthn|Aurèldían]] pantheon. Lesser squares and market-plazas are scattered everywhere, but only twelve are true Circles, and a Magnápolitan can name them as readily as the gods:
+By ancient tradition the city holds exactly **twelve** of them—the **Twelve Circles**—their number deliberately echoing _the Twelve_ of the [[affiliation-arldnpnthn|Aurèldían]] pantheon. Lesser squares and market-plazas are scattered everywhere, but only twelve are true Circles, and Magnápolitans name them as readily as the gods:
 
 - **The Augustar's Circle**—greatest of all, before the Inner City gate; a colossal statue of the first Augustar presides over accessions, triumphs, and proclamations.
 - **The Circle of Triumph**—its great arches the muster-point of victory processions.
