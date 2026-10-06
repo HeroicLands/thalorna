@@ -49,6 +49,6 @@ Whether the Infernal threat is as immediate as the ruling class claims, or wheth
 ### See Also
 
 - [[lore-clstlpnthn|Celestial Pantheon]]—The administrative order the Infernal Realms exist outside of
-- [[lore-dreadspawn|Dreadspawn]]—Mysterious creatures that may be manifestations of unclassified energy
+- [[lore-dreadspawncrtr|Dreadspawn]]—creatures made, not born, by the gods of creation and classified as Sacred-Creation Life
 - [[lore-celestlrdr|Celestial Order]]—The broader cosmological framework
 - [[affiliation-tanvurempr|Empire of Tānvür]]—The empire defended against these threats

@@ -21,7 +21,7 @@ data:
         reach:
           - place: place-midhalnrgn
             how: >-
-              a tract of good farmland is still bare and still fenced seven centuries later, at the charge of a body that has never dug it and will stop anyone who tries
+              a tract of good farmland is still bare and still fenced nearly eight centuries later, at the charge of a body that has never dug it and will stop anyone who tries
             knowledge: named
           - place: place-helionis
             how: >-
@@ -62,7 +62,7 @@ survive, and a large release levels buildings, depopulates villages and blights 
 generations.
 
 The books burned. Most of the Republic's senior arcanists died. A tract of good Alyssan land is bare
-seven centuries later and is fenced at the [[affiliation-ordoarcanis|Ordo]]'s charge.
+nearly eight centuries later and is fenced at the [[affiliation-ordoarcanis|Ordo]]'s charge.
 
 A deliberate release is the kind of thing that ends sieges, which is precisely why nobody has ever
 been able to say whether this was an accident or an act—and why that question is the Quaesitorium's

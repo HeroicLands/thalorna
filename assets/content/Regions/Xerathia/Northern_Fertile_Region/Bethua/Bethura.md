@@ -3,7 +3,7 @@ shortcode: bethura
 name: {full: Bethûra, aliases: []}
 type: place
 subType: settlement
-description: The capital of the Matriarchy of Bethûa, inland of the orchard-ports—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall.
+description: The capital of the Matriarchy of Bethûa, a harbor city on a bay of the Vylarian Sea—where the Sacred College and the Council of Houses sit, and the Trade-Houses keep their principal hall.
 tags: [city, capital]
 data:
   demonym: null
@@ -16,17 +16,17 @@ data:
 
 ## Overview
 
-> "Up from the coast, are you? Then you have seen our orchards and none of our government. The ports grow the wine and press the oil. Bethûra decides what they owe for it, and whose paper they may be paid in."
+> "Off the ship, are you? Then you have seen our quays and none of our government. The orchard-ports grow the wine and press the oil. Bethûra decides what they owe for it, and whose paper they may be paid in."
 
-That is roughly how a factor of one of the [[affiliation-bthntrdhss|Trade-Houses]] puts it to a foreign trader who has just come inland, and it is a fair summary. Bethûra is the capital of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] and the city where the realm is governed: some thirty-five thousand people in the [[place-bethuargn|Bethûa Region]] on Xerathia's northern shore. Both pillars of the Bethûan state sit here—the **Sacred College** of the high priestesses and the **Council of Houses** of the clan-matriarchs—and the Mêtríssa, Queen and High Priestess, presides over each. The Trade-Houses keep the principal hall of their federation in the same city.
+That is roughly how a factor of one of the [[affiliation-bthntrdhss|Trade-Houses]] puts it to a foreign trader who has just stepped onto the harbor-front, and it is a fair summary. Bethûra is the capital of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] and the city where the realm is governed: some thirty-five thousand people in the [[place-bethuargn|Bethûa Region]] on Xerathia's northern shore. Both pillars of the Bethûan state sit here—the **Sacred College** of the high priestesses and the **Council of Houses** of the clan-matriarchs—and the Mêtríssa, Queen and High Priestess, presides over each. The Trade-Houses keep the principal hall of their federation in the same city.
 
-Bethûra is not one of the realm's harbors. It stands inland of the orchard-ports, in the irrigated interior, where the rain falls away and the country is semi-arid grassland that grows only what water is brought to it. The roads north from the city to the ports of the [[place-vylarianse|Vylarian Sea]] are the ones the **Court of the Veil** watches most closely.
+Bethûra stands on a bay of the [[place-vylarianse|Vylarian Sea]], and a ship bound for the capital enters the calm water of the bay with the whole city in front of it: the quays and bonded warehouses of the harbor-front, which every Bethûan calls the _en-meret_ (quay), and above them the temple roofs and the halls of the Houses climbing the slope. The city sits in the sea-tempered coastal strip, among the same orchards of citrus, olive and vine as the other ports. Behind the orchards the rain falls away, and the country becomes the semi-arid grassland of the interior, which grows only what water is brought to it. The quays of the bay and the coast roads to the other orchard-ports are what the **Court of the Veil** watches most closely.
 
 ## The Water
 
-A factor teaching a newcomer usually starts with the water, because every Bethûan child learns it before anything else: without the engineer-priestesses, the interior would be empty steppe. Say you come up the road in the dry months. On one side of a stone channel the wheat stands green; on the other the grass is the color of straw, and sheep, cattle and the fine Bethûan horses graze it. The line between the two is where the water stops.
+A factor teaching a newcomer usually starts with the water, because every Bethûan child learns it before anything else: without the engineer-priestesses, the interior would be empty steppe. Say you ride inland from the bay in the dry months. On one side of a stone channel the wheat stands green; on the other the grass is the color of straw, and sheep, cattle and the fine Bethûan horses graze it. The line between the two is where the water stops.
 
-That water reaches the city through aqueducts, tunnel qanats, cisterns and canals, and the women who build and keep them are the **Order of the Waters** (_Qanatíssai_, "sisters of the qanat"), sworn priestesses who are half clergy and half engineers. Inside the irrigated strips the farms grow wheat, barley, millet and legumes; between the strips, the open grassland is pasture. The upkeep of the works employs tens of thousands of people across the interior year-round.
+That water reaches the fields, and the capital's own fountains, through aqueducts, tunnel qanats, cisterns and canals, and the women who build and keep them are the **Order of the Waters** (_Qanatíssai_, "sisters of the qanat"), sworn priestesses who are half clergy and half engineers. Inside the irrigated strips the farms grow wheat, barley, millet and legumes; between the strips, the open grassland is pasture. The upkeep of the works employs tens of thousands of people across the interior year-round.
 
 The chief of the order is the **Izet-Mû** (Overseer of the Waters). She answers to the Mêtríssa directly and sits in the Sacred College by right of office, so the woman who keeps the capital's water also has a voice in choosing its queen. Her title is Khelâthi, borrowed during the alliance with the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] that won Bethûa its freedom, and so is the treasurer's, the **Izet-Halzi** (Overseer of the Account). The titles of Bethûra's temples and Houses are Helonic; the titles of its water and its money are Khelâthi.
 

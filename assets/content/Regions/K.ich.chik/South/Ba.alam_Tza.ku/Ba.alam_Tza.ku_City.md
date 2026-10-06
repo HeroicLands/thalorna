@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Come down the great southern _sacbe_ from [[place-kiikbaatergn|Ki'ik Ba'ate]] and the mountains of **Ba'alam Tza'ku** fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm is a city of about 60,000, in the jewel of the southern K'ich'chik territories, a realm whose cities rival the great ones of [[affiliation-balamkul|Balamkul]] in grandeur and influence. The name means "Jaguar's House" in the high speech, and the people revere the spotted predator as an emblem of divine power.
+Come down the great southern white road from [[place-kiikbaatergn|Ki'ik Ba'ate]] and the mountains of **Ba'alam Tza'ku** fill the horizon: a range running north to south, with snow on the peaks, fortress-cities and ceremonial centers on the heights, and jungle in the valleys below. The seat of the realm is a city of about 60,000, in the jewel of the southern K'ich'chik territories, a realm whose cities rival the great ones of [[affiliation-balamkul|Ix'ilankul]] in grandeur and influence. The name means "Jaguar's House" in the high speech, and the people revere the spotted predator as an emblem of divine power.
 
 ## Who Governs
 
