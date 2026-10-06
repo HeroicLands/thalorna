@@ -3,7 +3,7 @@ shortcode: ordoarcanis
 name: {full: Ordo Arcanis, aliases: [The Order]}
 type: affiliation
 subType: guild
-description: "Arcane monopoly born from conquest, wielding state power to regulate all magic, maintain dragon-backed enforcement, and extend control through academy chapterhouses."
+description: "Arcane monopoly chartered by the Senate in 73 BF, wielding state power to regulate all magic and extend control through academy chapterhouses."
 tags: [organization, arcane, guild, vylaria, midhalion]
 data:
   templatePriority: null
@@ -52,12 +52,12 @@ sohl: {system: {commonSkills: []}}
 
 # headquarters: Alyssa, Vylarian Empire
 # region: Western Ankaris
-# founded: Late Republic era (before the Founding)
+# founded: 73 BF, chartered under the Lex Arcana
 ---
 
 The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and—if necessary—elimination.
 
-The Ordo predates even the [[affiliation-vylarinmpr|Vylarian Empire]] itself—it was founded during the days of the Vylarian Republic, making it one of the oldest surviving institutions in western Ankaris. When the Republic became an Empire in Year 1 of the common calendar, the Ordo was already an established power.
+The Ordo predates even the [[affiliation-vylarinmpr|Vylarian Empire]] itself—it was chartered by the Vylarian Republic in 73 BF, making it one of the oldest surviving institutions in western Ankaris. When the Republic became an Empire in Year 1 of the common calendar, the Ordo had held its charter for seventy-three years. Outsiders dispute the date of the founding; the Ordo does not.
 
 ## The Age Before the Ordo
 
@@ -67,7 +67,7 @@ The [[place-helionis|Helionite]] city-states were home to the most sophisticated
 
 ### The Wars of Vylaria and Heliónis
 
-The Vylarian Republic—by 400 BF the dominant military and economic power of the Vylarian Sea—turned its attention to [[place-helionis|Heliónis]] around 300 BF. The conquest of the Helionite city-states should have been straightforward: the Republic's legions were the finest in western Ankaris, and the Helionite poleis were politically fractured and militarily outmatched in conventional terms.
+The Vylarian Republic—by 400 BF the dominant military and economic power of the Vylarian Sea—turned its attention to [[place-helionis|Heliónis]] in 335 BF and took the last of the city-states in 312 BF. The conquest of the Helionite city-states should have been straightforward: the Republic's legions were the finest in western Ankaris, and the Helionite poleis were politically fractured and militarily outmatched in conventional terms.
 
 But the city-states had mages, and they used them.
 
@@ -79,36 +79,42 @@ They found the **dragons**.
 
 The details of how the Republic secured the aid of dragons are among the most debated and poorly documented events in western Ankarian history—the Ordo's own records from the period are suspiciously incomplete, and the Vylarian Senate's archives from those decades have suffered convenient losses. What is known is that certain dragons possess a terrifying property: they destabilize magic in their presence. Arcane forces become unpredictable, unreliable, and actively dangerous near these creatures. Spells misfire. Carefully constructed wards collapse. Enchantments unravel. And for the caster, the consequences are not merely failure but catastrophe—arcane energy, denied its intended shape, turns back on its wielder with devastating and often fatal results.
 
-The Vylarian **Dragon Riders**—warriors bonded to these magic-disrupting dragons—became the Republic's decisive weapon. A Dragon Rider circling above a battlefield turned the enemy's greatest strength into their greatest vulnerability. Mage-generals who had shattered legions with a word found their spells detonating in their own hands. Arcane shields that had turned aside a thousand arrows dissolved into nothing. The Helionite mages, who had built their entire strategy around magical superiority, were broken not by greater magic but by its negation. Against dragon-fire and the chaos of destabilized magic, even the most powerful arcane defenses crumbled. The great mages of the city-states were destroyed. Heliónis fell.
+The Vylarian **Dragon Riders**—warriors bonded to these magic-disrupting dragons—became the Republic's decisive weapon. A Dragon Rider circling above a battlefield turned the enemy's greatest strength into their greatest vulnerability. Mage-generals who had shattered legions with a word found their spells detonating in their own hands. Arcane shields that had turned aside a thousand arrows dissolved into nothing. The Helionite mages, who had built their entire strategy around magical superiority, were broken not by greater magic but by its negation. Against dragon-fire and the chaos of destabilized magic, even the most powerful arcane defenses crumbled. The great mages of the city-states were destroyed. Heliónis fell, one city-state after another, over twenty-three years.
 
 The aftermath was searing. The Republic had conquered Heliónis, but the cost—in lives, in treasure, in devastated land—was staggering. The Senate had seen what uncontrolled magic could do when turned to warfare, and they were determined that it would never happen again. The Epistemium's intellectual framework had produced brilliant theory but had spectacularly failed to prevent its members from becoming weapons of war. The Republic needed something the Epistemium had never been: an institution with the power to compel obedience.
 
 ## The Founding
 
-In the aftermath of the Helionite wars, the Vylarian Senate reached into the [[affiliation-panepistmm|Panepistemium]] and performed what amounted to a vivisection. They extracted the College of Arcane Philosophy—the scholars of magic—and rebuilt it as an instrument of state power. The result was the **Ordo Arcanis**. This was not a negotiation—it was an imposition. The Republic had just used dragons to destroy the most powerful mages in western Ankaris, and the Senate was in no mood for scholarly debate about academic freedom. Every arcanist within the Republic's sphere of influence was given a simple choice: join the Ordo, or face suppression.
+The Ordo was made in stages, across two and a third centuries.
 
-The Helionite scholars—humbled by the catastrophe their own members had helped create—provided the philosophical architecture. The classification of magic into schools, the concept of structured training through progressive ranks, the idea that arcane practice could be systematized and controlled—all of this drew on Helionite theory. But the enforcement mechanism was purely Vylarian: legal authority, military backing, and the implicit threat of the dragons that had just ended the war. It was a marriage of Helionite intellect and Vylarian power, forged not in cooperation but in conquest. The institution bore the marks of both parents—the sophisticated theory of one and the iron discipline of the other.
+In 312 BF, the year the last Helionite city fell, the Vylarian Senate reached into the [[affiliation-panepistmm|Panepistemium]] and performed what amounted to a vivisection. They extracted the College of Arcane Philosophy—the scholars of magic—and placed it under a magistracy, the **Praefectura Arcana**. This was not a negotiation—it was an imposition. The Republic had just used dragons to destroy the most powerful mages in western Ankaris, and the Senate was in no mood for scholarly debate about academic freedom. The Praefectura held the conquered Helionite masters and, in time, every arcanist born inside the Republic, on a register kept by a prefect who changed with the year's magistracies. It had a register and a garrison and no doctrine; its registered mages were lent out to whoever the Senate owed.
+
+The Helionite scholars—humbled by the catastrophe their own members had helped create—provided the philosophical architecture of what followed. The classification of magic into schools, the concept of structured training through progressive ranks, the idea that arcane practice could be systematized and controlled—all of this drew on Helionite theory. But the enforcement mechanism was purely Vylarian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution bore the marks of both parents—the sophisticated theory of one and the iron discipline of the other.
+
+In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alyssan country, to be copied into a single register: the [[lore-recensio|Recensio of Alyssa]]. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alyssan land is bare to this day and is fenced at the Ordo's charge.
+
+In 73 BF the surviving masters drafted their own terms and the Senate took them. This is the **Lex Arcana**, the charter of the Ordo Arcanis and the instrument the Ordo reckons its foundation from. The Ordo accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Quaesitorium is constituted in the same instrument.
 
 The remaining colleges of the Epistemium—ethics, logic, metaphysics, natural philosophy, and the rest—were left in place, diminished and shaken. The Ordo technically remains the College of Arcane Philosophy within the Epistemium to this day. The Ordo likes this arrangement: it gives them a claim to authority over all knowledge, not merely the arcane. In practice, the Ordo dwarfs every other college combined, and the Epistemium has become something closer to a university system run by its military intelligence department.
 
-The founding compact established the Ordo's core principles, which have endured to the present day:
+The Lex Arcana established the Ordo's core principles, which have endured to the present day:
 
 - **Monopoly:** Only members of the Ordo are permitted to practice, research, or teach arcane lore. All other practice is illegal.
 - **Registration:** All children displaying arcane talent must be reported to the Ordo and evaluated for enrollment.
 - **Regulation:** The Ordo sets standards for arcane practice, maintains lists of prohibited magics, and controls the trade in arcane materials and texts.
 - **Accountability:** The Ordo answers to the state (originally the Senate, now the Emperor), and the state grants the Ordo legal authority and institutional protection in return.
 
-Many independent practitioners refused to submit. Some fled to regions beyond Vylarian control; others went underground. The early decades of the Ordo were marked by bitter campaigns to enforce its monopoly—hunting down renegades, destroying rival traditions, and establishing the Quaesitorium as the instrument of arcane compliance. The memory of the Helionite wars gave the Ordo's enforcers a powerful justification: _remember what happened the last time mages were free to do as they pleased._
+Many independent practitioners refused to submit. Some fled to regions beyond Vylarian control; others went underground. The early decades of the Ordo were marked by bitter campaigns to enforce its monopoly—hunting down renegades, destroying rival traditions, and using the Quaesitorium, constituted in the Lex Arcana, as the instrument of arcane compliance. The memory of the Helionite wars gave the Ordo's enforcers a powerful justification: _remember what happened the last time mages were free to do as they pleased._
 
 ### The Betrayal of the Dragons
 
-With the Ordo established and arcane practice brought firmly under institutional control, the Vylarian Dragon Riders were quietly disbanded. The very property that had made the dragons invaluable in war—their destabilization of magic—made them intolerable in peace. The Ordo could not function as a research and regulatory institution with creatures nearby that caused spells to misfire and experiments to end in disaster. The dragons were a weapon for destroying mages, not for living alongside them.
+The Dragon Riders stood as a corps for more than two centuries after the last Helionite city fell. Around 45 BF the Republic did not renew the standing arrangement with the dragons, the Riders were quietly disbanded, and the Eyrie of Mons Aquila was sealed. The reason usually given is that the very property that had made the dragons invaluable in war—their destabilization of magic—made them intolerable in peace, with the Ordo unable to function as a research and regulatory institution beside creatures that caused spells to misfire and experiments to end in disaster.
 
 What followed was a betrayal. The dragons—or the Dragon Riders, or both—had been recruited under terms that the Republic did not honor. The details are among the most closely guarded secrets in western Ankaris; the Ordo's records from the period are not merely incomplete but actively suppressed, and the Vylarian Senate's archives from those decades have suffered losses that no serious historian believes are accidental. What is certain is that within a generation of the Ordo's founding, the Dragon Riders were gone, and the Republic's—and later the Empire's—relationship with dragons had become a matter of silence rather than mere historical distance. Inquiries by curious scholars are not merely discouraged but actively dangerous.
 
 Whether the dragons remember what was done to them—whether they hold grudges across centuries—whether the terms of the broken compact might one day be called to account—these are questions that the Ordo would very much prefer no one asked.
 
-The Ordo survived the Republic's transformation into the Empire—indeed, it helped enable it, as the Ordo's support was instrumental in legitimizing the first Emperor's seizure of power. The common calendar across western Ankaris reckons from that moment: Year 1 is the founding of the Vylarian Empire. Events before it are dated "Before the Founding" (BF). The Ordo's own founding falls sometime in the last century of the Republic—the exact date is debated by scholars, as the Ordo's own records from the period are suspiciously incomplete.
+The Ordo survived the Republic's transformation into the Empire—indeed, it helped enable it, as the Ordo's support was instrumental in legitimizing the first Emperor's seizure of power. The common calendar across western Ankaris reckons from that moment: Year 1 is the founding of the Vylarian Empire. Events before it are dated "Before the Founding" (BF). The Ordo reckons its own founding from the Lex Arcana of 73 BF. Scholars outside the Ordo dispute the date, as the Ordo's own records from the period are suspiciously incomplete; the Ordo does not.
 
 ## Structure
 
