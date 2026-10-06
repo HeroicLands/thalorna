@@ -18,10 +18,6 @@ data:
   packFolder: adventures
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 **Role.** Royal Loremaster of Élavendre and leader of the Panepistemium. At the party given in Sir Aran's honor at [[place-beravel|Béravel]] she proposes sending a party into the [[lore-aralwen|Arálwen]] to retrieve the [[miscgear-heartofdhirikri|Heart of Dhiríkri]], and the ambassador offers members of his mission.
