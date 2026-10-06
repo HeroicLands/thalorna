@@ -298,6 +298,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `frjáls-`           | free, and sworn to no lord                |
 | `frost-`            | frost                                     |
 | `fród-`             | the peace that wisdom buys                |
+| `ginn-`             | the yawning void beyond creation          |
 | `grön-`             | green, and growing                        |
 | `grá-`              | gray                                      |
 | `gull-`             | gold                                      |
@@ -367,6 +368,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | --------------------------- | ---------------------------------------- |
 | `-aett`                     | a kin reckoned together                  |
 | `-ask`                      | an ash-tree                              |
+| `-auga`                     | an eye                                   |
 | `-bandalag`                 | a league of sworn companies              |
 | `-beri`                     | one who bears a thing                    |
 | `-blót`                     | a sacrifice                              |
