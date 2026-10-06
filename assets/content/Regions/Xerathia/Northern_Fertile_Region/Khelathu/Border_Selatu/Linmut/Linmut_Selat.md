@@ -17,26 +17,16 @@ data:
 
 ## Overview
 
-Linmut Selat is the land of the [[affiliation-selatlinmut|Selat of Linmut]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Linmut Selat** is the land of the [[affiliation-selatlinmut|Selat of Linmut]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-A river-island fortress-selat at the second cataract; gateway and toll-gate. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: A river-island fortress-selat at the second cataract; gateway and toll-gate.
-
-## Notable Features
-
-- [[place-linmut|Linmut]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-wethur|Faith of Wethûr]] and its estates
-- A river-island fortress-selat at the second cataract; gateway and toll-gate
+The fortress stands on an island in the river at the second cataract, and the selat is built around that one narrow passage. The river's banks carry the usual Khelâthi villages, estates and temple lands, where farmers owe a share of the harvest and labor on the canals, and the scribes keep the rolls; but the island is what a traveler sees, and the island is what the selat is for. It is a gateway and a toll-gate, and traffic on the river passes under the fortress.
 
 ## Settlements
 
-- [[place-linmut|Linmut]] (~11,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-linmut|Linmut]] (~11,000)—the selat capital and the seat of the Halzi'a, with the chief temple of Wethûr.
+- **The villages and estate-towns:** a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

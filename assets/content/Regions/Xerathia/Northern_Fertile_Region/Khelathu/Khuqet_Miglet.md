@@ -17,8 +17,8 @@ data:
 # terran_analog: "Northern Sinai and the Negev margin—the fortress-wells of the Way of Gewaâtis between the Delta and Canaan: a garrisoned desert land-bridge held for the road that crosses it rather than for anything it grows."
 ---
 
-Khuqet-Miglet—"the northern desert-march"—is the dry country at the
-northeastern edge of [[place-aukhelathrgq|Aû'Khelâthu Region]], beyond the last of the
+**Khuqet-Miglet**, "the northern desert-march," is a road with a country
+attached: the dry country at the northeastern edge of [[place-aukhelathrgq|Aû'Khelâthu Region]], beyond the last of the
 eastern border selatu, where the empire's uplands run out into the semi-desert
 that faces [[place-dunharargn|Dunhara]]. It lies within Aû'Khelâthu's country
 but outside its selatu: no
@@ -49,7 +49,9 @@ graze the wadis, and sheep only after the rains.
 the wadis from the last Khelâthi villages to the first Dunhari oases, most of
 them dug or deepened by the garrisons and every one of them named, walled and
 garrisoned or claimed by a clan. Between the wells there is nothing, and a
-party that misses one does not reach the next.
+party that misses one does not reach the next. "Learn the name of the next
+well before you leave the one you are at," a caravan-master tells a new driver
+on his first crossing, "and learn who owns it."
 
 ## The Road
 
@@ -78,7 +80,7 @@ them: nothing grows to be taxed, no estates can be granted, no temple can be
 endowed from land that yields nothing. A Halzi'a here would be a governor of
 wells. So the march is held instead as a **military command**—a crown
 appointment, not a hereditary seat—and its garrisons are paid, fed and armed
-from the heartland, as the border selatu' are, with even less to show for it in
+from the heartland, as the border selatu are, with even less to show for it in
 return. The court regards it as a cost of the road and of the mines, and
 grumbles at the cost every year.
 

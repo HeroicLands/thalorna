@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Qelt-Len-Legir is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: forward southern forts beyond the first cataract; the empire's hardest postings. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-qeztu|Faith of Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
+The **Selat of Qelt-Len-Legir** holds the forward forts beyond the first cataract, the hardest postings in the empire. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the levies of those forts, collects the selat's taxes and dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is the war-god [[affiliation-qeztu|Qeztu]], and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-qeltlenlegirnome|Qelt-Len-Legir]].
 
 ## Character
 
-Its seat is [[place-qeltlen|Qelt-Len]], where the Halzi'a keeps his court and the selat's chief temple of Qeztu stands.
+"We say the god is stronger out here because the forts need him to be," a priest of the frontier garrisons tells a conscript who has just come up from the valley. The cult of Qeztu is stronger on this frontier than anywhere else in the realm, and the Halzi'a is its first soldier. His seat is [[place-qeltlen|Qelt-Len]], where his court sits and the selat's chief temple of Qeztu stands.
 
 ## Commerce and Currency
 
-Qelt-Len-Legir uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Qelt-Len-Legir uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. The [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

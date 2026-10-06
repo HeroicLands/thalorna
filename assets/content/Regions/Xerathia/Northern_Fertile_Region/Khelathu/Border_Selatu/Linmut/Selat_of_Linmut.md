@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Linmut is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: A river-island fortress-selat at the second cataract; gateway and toll-gate. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-wethur|Faith of Wethûr]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-linmutselat|Linmut Selat]].
+The **Selat of Linmut** is a river-island fortress at the second cataract, and it is both the gateway to the south and its toll-gate. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the fortress and the levies, collects the toll along with the selat's other taxes, dispenses its justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is [[affiliation-wethur|Wethûr]], Lord of Silent Passage, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-linmutselat|Linmut Selat]].
 
 ## Character
 
-Its seat is [[place-linmut|Linmut]], where the Halzi'a keeps his court and the selat's chief temple of Wethûr stands.
+"You are all one thing at the second cataract: somebody going through," a toll-clerk tells a boatman new to the crossing. The fortress on its island commands the passage, and the toll is collected under its walls. Wethûr, who keeps the passage from life to death orderly, is an apt patron for a selat whose whole business is who may pass. The Halzi'a's seat is [[place-linmut|Linmut]], where his court sits and the selat's chief temple of Wethûr stands.
 
 ## Commerce and Currency
 
-Linmut uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Linmut uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. Tolls on the frontier run on weighed silver and gold, and the [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts. See the currency note for the full system.
 
 ## See Also
 

@@ -77,15 +77,15 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Wagaru is one of the border selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the southern gold-road; mines, caravan-stations, and tribute-collection. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-psaqaru|Faith of Psaq'âru]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-wagaruselat|Wagaru Selat]].
+The **Selat of Wagaru** holds the southern gold-road, with its mines, its caravan-stations and its tribute-collection. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, taxes and escorts the traffic of the road, dispenses the selat's justice, and answers to the Gar-Aû at a distance that varies with the strength of the throne. His patron is [[affiliation-psaqaru|Psaq'âru]], god of creation and craft, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-wagaruselat|Wagaru Selat]].
 
 ## Character
 
-Its seat is [[place-wagaru|Wagaru]], where the Halzi'a keeps his court and the selat's chief temple of Psaq'âru stands.
+A caravan-master puts the Halzi'a's work to a driver on his first run north. "On the gold-road three things happen to your load in Wagaru: it is counted, it is taxed, and it is escorted. Do not argue with the first, do not hide anything from the second, and be glad of the third." The garrison is both the collector and the guard, and the stations along the road are the places where each takes place. The Halzi'a's seat is [[place-wagaru|Wagaru]], where his court sits and the selat's chief temple of Psaq'âru stands.
 
 ## Commerce and Currency
 
-Wagaru uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Wagaru uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]], and the gold-road is where the empire's weighed metal moves most. The [[affiliation-garhalzi|Gár-Hálzi]] chapter attached to the chief temple attests the weight-pieces and keeps the granary accounts; its agents follow the garrisons and the caravans. See the currency note for the full system.
 
 ## See Also
 
