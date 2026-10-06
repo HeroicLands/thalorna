@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Vedyari (isolate)}}
+
+# terran_analog: the infinitival accusative shift parallels the move away from older Proto-Indo-European case patterns
 ---
 
 Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -92,7 +94,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 ### Participles and Infinitives
 
 - Participial forms are common as attributive modifiers and in periphrastic constructions
-- Infinitival forms often govern accusative objects rather than datives, marking a shift from older PIE patterns
+- Infinitival forms often govern accusative objects rather than datives, marking a shift from older patterns
 
 ## Script & Literacy
 
