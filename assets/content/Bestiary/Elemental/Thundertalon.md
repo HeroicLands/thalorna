@@ -18,8 +18,6 @@ data:
   gender: null
   species: null
   age: null
-  height: null
-  weight: null
   frame: null
   appearance:
     eye_color: null

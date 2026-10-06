@@ -267,8 +267,8 @@ data:
   species: # lore note associated with the being species, if any (e.g., `humanflk`)
   born: "" # canonical date when born (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
   died: "" # canonical date when died (YYY.DDD, where YYY is the year, and DDD is the day of the year), or `unknown` if unknown
-  height: "" # Height expressed in feet and inches, with `'` for feet and `"` for inches
-  weight: 0 # Weight in pounds, followed by "lbs"
+  height: "" # Height in feet and inches (`6' 3"`), or in metres (`1.91m`)
+  weight: "" # Weight in pounds (`187 lbs`), or in kilograms (`85kg`)
   frame: "" # frame size: scant, light, medium, heavy, massive (see the vocabulary table below)
   appearance: # one value each from the vocabulary table below
     eye_color: ""
