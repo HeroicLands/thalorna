@@ -91,13 +91,13 @@ In 312 BF, the year the last Helionite city fell, the Vylarian Senate reached in
 
 The Helionite scholars—humbled by the catastrophe their own members had helped create—provided the philosophical architecture of what followed. The classification of magic into schools, the concept of structured training through progressive ranks, the idea that arcane practice could be systematized and controlled—all of this drew on Helionite theory. But the enforcement mechanism was purely Vylarian: legal authority, military backing, and the memory of the dragons that had ended the war. The institution bore the marks of both parents—the sophisticated theory of one and the iron discipline of the other.
 
-In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alyssan country, to be copied into a single register. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alyssan land is bare to this day and is fenced at the Ordo's charge.
+In 75 BF the Senate ordered every registered practitioner in the Republic to bring their working-books to one place in the Alyssan country, to be copied into a single register: the [[lore-recensio|Recensio of Alyssa]]. In the fourth month an unchanneled release destroyed the books and killed most of the Republic's senior arcanists. A tract of good Alyssan land is bare to this day and is fenced at the Ordo's charge.
 
 In 73 BF the surviving masters drafted their own terms and the Senate took them. This is the **Lex Arcana**, the charter of the Ordo Arcanis and the instrument the Ordo reckons its foundation from. The Ordo accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Quaesitorium is constituted in the same instrument.
 
 The remaining colleges of the Epistemium—ethics, logic, metaphysics, natural philosophy, and the rest—were left in place, diminished and shaken. The Ordo technically remains the College of Arcane Philosophy within the Epistemium to this day. The Ordo likes this arrangement: it gives them a claim to authority over all knowledge, not merely the arcane. In practice, the Ordo dwarfs every other college combined, and the Epistemium has become something closer to a university system run by its military intelligence department.
 
-The Lex Arcana established the Ordo's core principles the Ordo's core principles, which have endured to the present day:
+The Lex Arcana established the Ordo's core principles, which have endured to the present day:
 
 - **Monopoly:** Only members of the Ordo are permitted to practice, research, or teach arcane lore. All other practice is illegal.
 - **Registration:** All children displaying arcane talent must be reported to the Ordo and evaluated for enrollment.
