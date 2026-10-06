@@ -16354,6 +16354,31 @@
             "note": "_dvarn-_ (hard grade) — a door that is never barred — + `-rinna` (a woman): the first woman, who drank the first grave-ale. `oldName: null` — nothing is retired; coined for the Nordlands canon.",
             "prose": null,
             "boldKind": "none"
+        },
+        {
+            "oldName": "Hroarr",
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Kruldmýl",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_kruld-_ (deep grade) — a load a beast carries without complaint — + `-mýl` (a man): Kruldmýl Hafringr, the Norgaad teamster who fathered Knalthrinna Hafringr; the deep grade gives her hard grade the generation step. A different man from the Compact's Speaker whose Hróarr became Hrindvir.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Knalthrinna_Hafringr.md:430:210"
+            ]
         }
     ],
     "standingCoinages": {
