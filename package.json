@@ -73,7 +73,8 @@
         "lint:drift": "node utils/nordmal-drift.mjs",
         "lint:nordmal-lexicon": "node utils/lexicons/nordmal-lexicon.mjs",
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs",
-        "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs"
+        "lint:varokhi-lexicon": "node utils/lexicons/varokhi-lexicon.mjs",
+        "lint:collision": "node utils/lexicons/collision-check.mjs"
     },
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
