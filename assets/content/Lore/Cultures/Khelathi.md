@@ -140,6 +140,17 @@ Refusing is also not free, which is why it is so common. Being owed is an asset 
 
 Two decisions are made aloud at a Closing and the household hears both. The dying man says **what he calls in and what he leaves open**: what he calls in passes to his heirs, and what he leaves open goes with him. A generous man calls in little and leaves his children much; a grasping one calls in everything, arrives wealthy, and leaves a house with nothing to start on. Then the heir is asked **whether he will assume** what the estate could not cover. Both are lawful, both happen, and both are watched by everyone who will live with the answer.
 
+: From [[lore-readingweigh|The Reading at the Weighing]]
+
+```poetry {form=litany lang=en}
+You to whom the dead owes: stand, and be asked.
+Will you say _I require no more_? The scribe writes it.
+Will you say no? It is lawful, and the scribe writes it.
+Your no costs you nothing, and your no is entered.
+Your yes costs you what was owed, and your name is remembered.
+    Open, or closed, as you have said.
+```
+
 ## When a Person Cannot Close
 
 A man struck down but living—paralyzed, senseless, or gone in his wits—can neither attest nor be released, and he may last ten years that way. The valley has a procedure, and it treats him the way it treats a child.

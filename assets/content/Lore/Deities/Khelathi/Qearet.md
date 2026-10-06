@@ -23,6 +23,15 @@ entry closed or short, and beside it the account the gods kept themselves, which
 and no tablet holds. A soul short on either is taken by **Álgit, the Devourer of the Dead**. A soul
 whose entries close passes onward into the blessed [[place-zulaten|Zulaten]].
 
+: From [[lore-readingweigh|The Reading at the Weighing]]
+
+```poetry {form=litany lang=en}
+Before the assembled gods both accounts are opened.
+Ours is read as it stands; theirs is set beside it.
+The feather is on the scale, and nothing is bought at the scale.
+The lord who endowed a temple late is read as his tenant is read.
+```
+
 That judgment is the foundation of Khelâthi ethics, and its moral force comes from one feature above
 all: **wealth cannot buy a favorable verdict**. A written entry can be closed late or bought out; the
 unwritten account can only be met, and nobody holds a copy to consult. Even the powerful fear it, which makes it a real if
