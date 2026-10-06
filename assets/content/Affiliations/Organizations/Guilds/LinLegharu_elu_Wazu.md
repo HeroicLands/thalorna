@@ -32,13 +32,13 @@ data:
 
 ## Overview
 
-Lin'Legharu elu Wazu is an alliance of alchemists working out of [[place-wazulet|the Wazulet]] who hold no patron among the great houses, bound together for want of one. The alliance exists to defend the standing of a patronless alchemist against houses that would rather deal only with their own retained practitioners. A member who later wins a patron's favor is expected to keep faith with the alliance rather than cut it loose, and most do, since today's patron is no guarantee against tomorrow's.
+**Lin'Legharu elu Wazu** is the alliance of alchemists of [[place-wazulet|the Wazulet]] who hold no patron among the great houses, bound together for want of one. It defends the standing of a patronless alchemist against houses that would rather deal only with their own retained practitioners. A member who later wins a patron's favor is expected to keep faith with the alliance, and most do.
 
 ## Character
 
-"Nobody owes you a hearing," the alchemist at the long table says, filling your cup, "so we owe each other one." The Independent Alchemists Alliance is a loose alliance of alchemists working out of the Wazulet who have no patron among the great houses. It exists for want of one. Its members stand together to defend the standing of those who work without a house's backing, against houses that would rather deal only with their own retained practitioners.
+"Nobody owes you a hearing," the alchemist at the long table says, filling your cup, "so we owe each other one." The **Independent Alchemists Alliance** is a loose alliance of alchemists working out of the Wazulet who have no patron among the great houses. It exists for want of one. Its members stand together to defend the standing of those who work without a house's backing, against houses that would rather deal only with their own retained practitioners.
 
-A **Patronless Alchemist** is someone who practices without a house's patronage, and the alliance asks one thing of such a person: to keep faith with it after winning a patron's favor. Most do. Alchemists know that a house's favor can end with the season, and an alchemist who cut the alliance loose on the way up would come back to it, with no standing, on the way down.
+A Patronless Alchemist is someone who practices without a house's patronage, and the alliance asks one thing of such a person: to keep faith with it after winning a patron's favor. Most do. Alchemists know that a house's favor can end with the season, and an alchemist who cut the alliance loose on the way up would come back to it, with no standing, on the way down.
 
 The quarter shapes the temper of the place. The Wazulet is the faintly shunned corner of the capital by the necropolis-ferry, and its alchemists have learned to work where others would rather not look.
 
@@ -48,7 +48,7 @@ The alliance's quarrel is with the great houses, which prefer to deal with their
 
 ## Commerce and Currency
 
-Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. Members work without a great house's patronage and defend the standing of patronless alchemists against houses that deal only with their own practitioners; the alliance is the hand that steadies them when a house withholds a commission.
+Say a house needs a compound prepared at short notice and its own alchemist is away. The steward sends to the Wazulet for a patronless alchemist, takes the work, and pays. The house would never admit the arrangement, but the alchemist's standing grows with every commission that shows up in the house's accounts. When a house withholds a commission, the alliance is what steadies the member who lost it.
 
 ## See Also
 

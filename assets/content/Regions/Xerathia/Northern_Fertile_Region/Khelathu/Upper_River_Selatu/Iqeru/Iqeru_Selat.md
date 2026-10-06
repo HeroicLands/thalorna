@@ -17,29 +17,21 @@ data:
 
 ## Overview
 
-Iqeru Selat is the land of the [[affiliation-selatiqeru|Selat of Iqeru]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Wheat as far as the canal reaches, and not a furrow past it," a farmer says to a traveler crossing the selat on the canal road. "I owe my share of the harvest and my days on the ditches, and I have never missed either."
+
+**Iqeru Selat** is the land of the [[affiliation-selatiqeru|Selat of Iqeru]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. About 440,000 people live on it, and it is the sun-temple selat: wide irrigated wheatland under the temples of [[lore-uqaadty|Uqa'â]].
 
 ## Character
 
-Sun-temples and wide irrigated wheatland. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: sun-temples and wide irrigated wheatland.
-
-## Notable Features
-
-- [[place-iqeru|Iqeru]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
-- Sun-temples and wide irrigated wheatland
+Canals carry the river's water out across the wheat, and the temples of the solar god stand among the fields. Uqa'â is the sun and more than the sun, the principle of illumination that makes truth visible and drives back chaos, and his priesthood is among the most powerful in the empire. The rest of the selat is ordinary [[lore-khelathiclt|Khelâthi]] country: villages and estate-towns of a few hundred to a few thousand people on the cultivable ground and the temple estates. The grain goes to the granaries, the temples and the crown take their portion of everything, and the scribes among the farmers are the one reliable ladder out of the fields. Beyond the canals lies high desert and chaparral.
 
 ## Settlements
 
-- [[place-iqeru|Iqeru]] (~33,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- [[place-iqeru|Iqeru]] (~33,000)—the selat capital and the seat of the Halzi'a, home of the chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand people each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 
-- [[affiliation-selatiqeru|The Selat of Iqeru]]—The selat that holds this land
-- [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
-- [[place-iqeru|Iqeru]]—Selat capital
+- [[affiliation-selatiqeru|The Selat of Iqeru]]—the selat that holds this land
+- [[place-aukhelathrgq|Aû'Khelâthu Region]]—the enclosing region
+- [[place-iqeru|Iqeru]]—selat capital

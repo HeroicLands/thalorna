@@ -14,4 +14,9 @@ data:
   government: suvrgrjnpd
 ---
 
-**Ratnakūpa** is a lapidary village below Lower Suvarnagiri, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. Its cutters rough out the stones that the jewelers' quarter sets.
+**Ratnakūpa** is a lapidary village below **Lower Suvarnagiri**, in the [[place-suvarnagirijnpd|Suvarnagiri Janapada]]. The stones come up from [[affiliation-chandrapur|Chandrapur]] rough, and the cutters of Ratnakūpa rough them out into the shapes the jewelers' quarter sets in the mountain's own gold. Every stone set in the quarter has passed through their hands first.
+
+## See Also
+
+- [[place-suvarnagirijnpd|Suvarnagiri Janapada]]—the land
+- [[affiliation-suvrgrjnpd|Suvarnagiri Janapada]]—the temple-republic that holds it

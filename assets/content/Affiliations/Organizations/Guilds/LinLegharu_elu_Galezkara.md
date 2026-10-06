@@ -32,7 +32,7 @@ data:
 
 ## Overview
 
-Lin'Legharu elu Galezkara, the Society of Botanical Scholars, gathers those in [[place-galezkara|Galezkara]] who study the properties of plants, from physicians' apprentices to independent researchers. Members meet regularly to compare findings on cultivation, preparation and effect, treating the study as a discipline in its own right. The society spends as much effort defending that claim against the charge that its work is merely trade as it does on the research itself, and a member's standing rests on which side of that argument they are seen to serve.
+**Lin'Legharu elu Galezkara**, the **Society of Botanical Scholars**, gathers the people of [[place-galezkara|Galezkara]] who study the properties of plants, from physicians' apprentices to independent researchers. Members meet to compare findings on cultivation, preparation and effect and treat the study as a discipline in its own right. The society spends nearly as much effort defending that claim against the charge that its work is merely trade as it spends on the research.
 
 ## Character
 
@@ -48,7 +48,7 @@ The society's membership is its relationship: physicians' apprentices and indepe
 
 ## Commerce and Currency
 
-The society sells nothing, and defending that is its commerce. Say an apothecary offers to fund a series of meetings in exchange for first sight of the findings. The members debate the offer for an evening. Some see a patron and some see a purchase. The society defends the study of plants as a discipline against the charge that it is merely trade, and the argument about whether to take the apothecary's money is the same argument in miniature.
+The society sells nothing, and defending that is its commerce. Say an apothecary offers to fund a series of meetings in exchange for first sight of the findings. The members debate the offer for an evening. Some see a patron and some see a purchase. The argument over the apothecary's money is the society's larger argument in miniature.
 
 ## See Also
 

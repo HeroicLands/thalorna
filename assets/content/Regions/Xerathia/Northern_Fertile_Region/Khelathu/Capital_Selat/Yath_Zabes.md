@@ -16,7 +16,9 @@ data:
 
 ## Overview
 
-Yath-Zabes is one of the farm-and-market villages of [[place-galezkaraslt|Galezkara Selat]], a few hundred to a few thousand souls feeding [[place-galezkara|Galezkara]]'s granaries. It draws its own living from the same traffic that carries its grain upriver. A village of this size answers to the capital for its harvest and to no one for much else.
+"We answer to the capital for the harvest," says the headman of **Yath-Zabes**, "and for most else we answer to nobody."
+
+The village is one of the farm-and-market villages of [[place-galezkaraslt|Galezkara Selat]], a few hundred to a few thousand people feeding [[place-galezkara|Galezkara]]'s granaries. It draws its own living from the same traffic that carries its grain to the city.
 
 ## See Also
 

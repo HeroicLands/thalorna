@@ -32,24 +32,14 @@ data:
 
 ## Overview
 
-Genzet'Zabqar, the Circle of Patrons, is an informal fellowship of the wealthy of [[place-galezkara|Galezkara]] who fund the arts and crafts of the capital rather than leave patronage to individual whim. Members pool resources toward projects larger than any one patron would normally back alone, from theatre productions to major commissions. They expect to be consulted on what their money produces, and an artist who ignores that expectation after taking the circle's funding rarely gets a second commission from any of its members.
+A painter who has just won the **Circle of Patrons**' commission is advised by an older colleague: "They are generous, and they read. Show them the sketch before you show them the wall."
 
-## Character
+**Genzet'Zabqar** (the Circle of Patrons) is an informal fellowship of the wealthy of [[place-galezkara|Galezkara]] who fund the arts and crafts of the capital, preferring pooled, deliberate patronage to individual whim. Members pool resources toward projects larger than any one patron would back alone, from theatre productions to major commissions: a single patron can fund a portrait, and the circle funds a hall. They expect to be consulted on what their money produces, so a commission from the circle comes with several opinions attached. The circle sits between a patron and a committee, paying like the first and deliberating like the second.
 
-A painter who has just won the Circle of Patrons' commission is advised by an older colleague: "They are generous, and they read. Show them the sketch before you show them the wall."
+## Taking the Circle's Money
 
-The circle is informal and expects a say in what it pays for. Its members prefer pooled, deliberate patronage to individual whim, so a commission from the circle comes with several opinions attached.
-
-## Relations
-
-The circle is a fellowship of the wealthy of [[place-galezkara|Galezkara]] who fund the arts and crafts of the capital. Artists who take its funding are expected to consult its members, and the consulting is part of the arrangement, not a courtesy. The circle sits somewhere between a patron and a committee: it pays like the first and deliberates like the second.
-
-## Commerce and Currency
-
-Members pool resources toward projects larger than any one patron would back alone, from theatre productions to major commissions. A single patron can fund a portrait; the circle funds a hall.
-
-An artist who ignores the circle's expectations after taking its funding rarely gets a second commission from any of its members. Keep the circle informed and the pool stays open.
+The consulting is part of the arrangement, not a courtesy. An artist who ignores the circle's expectations after taking its funding rarely gets a second commission from any of its members. Keep the circle informed and the pool stays open.
 
 ## See Also
 
-- [[place-galezkara|Galezkara]]—The city whose arts it funds
+- [[place-galezkara|Galezkara]]—the city whose arts it funds

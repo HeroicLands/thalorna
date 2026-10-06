@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-Lin'Zethu elu Galezkara is a consortium of scribes working in [[place-galezkara|Galezkara]] outside the temple schools, taking private commissions the schools themselves will not touch. Members guard the trade in confidential copying closely, since a client paying for private work is usually paying for discretion as much as for the hand that does it. A scribe who breaks that confidence once rarely gets a second commission from this consortium's clients, who talk to each other more than the consortium would like.
+**Lin'Zethu elu Galezkara** is the consortium of the scribes of [[place-galezkara|Galezkara]] who work outside the temple schools. They take private commissions the schools will not touch, and what a client pays for is discretion as much as the hand that does the work. A scribe who breaks a confidence once rarely gets a second commission from those clients, who talk among themselves more than the consortium would like.
 
 ## Character
 
-"Nobody asked you to read it," the senior scribe says, and the junior copyist, who has just read the first line aloud, lowers her eyes. The Scribal Consortium is a body of the capital's scribes working outside the temple schools. Its members take private commissions the schools will not touch, and its clients pay for discretion as much as for the hand. A **Zethu** of the consortium is a scribe paid for both.
+"Nobody asked you to read it," the senior scribe says, and the junior copyist, who has just read the first line aloud, lowers her eyes. The **Scribal Consortium** is a body of the capital's scribes working outside the temple schools. Its members take private commissions the schools will not touch, and its clients pay for discretion as much as for the hand. A Zethu of the consortium is a scribe paid for both.
 
 The consortium is discreet and independent. A letter between two houses, a will not yet read, a contract between partners who do not trust each other: these arrive in the consortium's room by the back stair, and what is copied there stays there. The consortium guards the trade in confidential copying closely, and a scribe who breaks a confidence once is unlikely to be commissioned again by those clients, who talk among themselves more than the consortium would like.
 

@@ -14,13 +14,13 @@ data:
   government: trimurtisampradaya
 ---
 
-The **Sūrya temple** stands on the rock shelf beside the outflow at [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is small, and everything about it is built for two purposes: to survive a winter at that altitude, and to see the sun come over the peak.
+Four priests stay on the shelf through the closed months so that someone is there to see the sun clear the peak on the morning the year turns. The **Sūrya temple** stands on the rock shelf beside the outflow at [[place-chandrprbh|Chandraprabhava]], where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. It is small, and everything about it is built for two purposes: to survive a winter at that altitude, and to see the sun come over the peak.
 
 The building is a single stone cell with a walled forecourt and a sighting terrace above it, cut back into the slope so that the forecourt's eastern parapet carries the marks a sighting is read against. Twelve priests of the [[affiliation-trimurtisampradaya|Trimūrti-sampradāya]] keep it, four of them through the closed months, in quarters dug into the hill behind.
 
 ## The Year
 
-The orthodox civil year of Vedyara is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation.
+The orthodox civil year of [[place-vedyarargn|Vedyara]] is declared from this terrace. The high priests sight the turn against the parapet marks and announce it to every court and temple that keeps the [[lore-mdhvndrcnt|Mādhavendra count]], and the announcement is what fixes a Mela, a Weighing and a coronation.
 
 The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a different day. They have got a different day for as long as anyone has checked. The temple does not argue the point in public and has never had to: the sighting is the one that is announced, and the computation is the one every treasurer keeps beside it.
 
@@ -28,7 +28,7 @@ The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a
 
 Some thirty thousand people a year reach the shelf in the open months, which makes this the most made of the four source-pilgrimages and by a long way the hardest. Perhaps a tenth of them are carried the last stage. The temple's hospitality is four long sheds, a kitchen and a great deal of firewood hauled up from below, and the whole of it is paid for out of the offerings of the lowland temples rather than by anything the pilgrims bring.
 
-Nobody's caste is read at the gate here. The mark is not asked for on the shelf, and a priest asked why will say that the god is looking at the mountain and not at the queue. What happens to the same pilgrim when he gets back down to the terraces is another matter.
+Nobody's station is read at the gate here. The wrist is not asked for on the shelf, and the priests give anyone who raises it the same answer: the god is looking at the mountain and not at the queue. On the terraces below, the same pilgrim is read again at every well.
 
 ## The Slab
 
@@ -38,7 +38,7 @@ The spring beneath the slab does not freeze, which is why there is a temple here
 
 ## The Second Seat
 
-The temple's senior priest is one of the three who sit as the **Council of Three**, with the priests of the Mela temple and the great Mahájaya temple in the south. A joint pronouncement of the three carries nearly everywhere in the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It works as an executive committee, and the priests deny that it is one.
+The temple's senior priest is one of the three who sit as the **Council of Three**, with the priests of the Mela temple and the great [[affiliation-mahajaya|Mahájaya]] temple in the south. A joint pronouncement of the three carries nearly everywhere in the [[affiliation-janpdsvdyr|Mahā-Sangha]]. It works as an executive committee, and the priests deny that it is one.
 
 ## See Also
 

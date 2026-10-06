@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-Lin'Rethu elu Reth'Sa'âr is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'âr]], drawn from those the temple itself has certified to handle its deeper texts. The collective holds those texts apart from the temple's general archive and decides, case by case, who may read them. A scholar refused access by this collective has no other route to the material, since the temple defers to the collective's own judgment on the question.
+**Lin'Rethu elu Reth'Sa'âr** is the collective of scholars attached to [[affiliation-lutrethsaar|the temple of Reth'Sa'âr]], drawn from those the temple has certified to handle its deeper texts. The collective keeps those texts apart from the temple's general archive and decides, case by case, who may read them. The temple defers to its judgment, so a scholar it refuses has nowhere else to ask.
 
 ## Character
 
-The reading room has two doors, and you are admitted only to the first. Beyond the second are the temple's deeper texts, and the collective that guards them is the Scholars' Collective of the Temple of Reth'Sa'âr. A **Certified Scholar** is someone the temple has certified to handle those texts, and who sits with the others on each decision about who may read them.
+The reading room has two doors, and you are admitted only to the first. Beyond the second are the temple's deeper texts, and the collective that guards them is the **Scholars' Collective of the Temple of Reth'Sa'âr**. A Certified Scholar is someone the temple has certified to handle those texts, and who sits with the others on each decision about who may read them.
 
 The collective is guarded and deliberate. It keeps the deeper texts apart from the general archive and decides case by case who may read them. Nobody in it is a gatekeeper by temperament; each has simply learned, by reading, what some texts do to the careless. The decision is taken together, and so it is hard to bribe and hard to hurry.
 
@@ -48,7 +48,7 @@ The collective has one relation: [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]], th
 
 ## Commerce and Currency
 
-Access is the collective's to grant. Say a Helionite scholar lodging near the temple libraries asks to read one of the deeper texts. The collective meets, reads her credentials, and asks what she means to do with the text. If the answer satisfies the members, a Certified Scholar sits with her while she reads. If it does not, she is refused, and the temple defers to the collective's judgment on every request. There is no fee that opens the second door.
+Access is the collective's to grant. Say a [[lore-helioniteclt|Helionite]] scholar lodging near the temple libraries asks to read one of the deeper texts. The collective meets, reads her credentials, and asks what she means to do with the text. If the answer satisfies the members, a Certified Scholar sits with her while she reads. If it does not, she is refused. There is no fee that opens the second door.
 
 ## See Also
 

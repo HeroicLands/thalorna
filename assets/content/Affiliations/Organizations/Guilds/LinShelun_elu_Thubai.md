@@ -32,11 +32,11 @@ data:
 
 ## Overview
 
-Lin'Shelun elu Thubâ'i is a collective of performers and artists working under the patronage of [[lore-thubaidty|Thubâ'i]], whose temple funds their work in exchange for a share of whatever acclaim it earns. Membership draws from musicians, actors and visual artists willing to accept the temple's funding and its claim on their reputation alongside it. Membership is itself a mark of standing among the capital's players, and an artist outside the collective is assumed to lack either the talent or the connections to have been asked.
+**Lin'Shelun elu Thubâ'i** is the collective of performers and artists who work under the patronage of [[lore-thubaidty|Thubâ'i]]. The god's temple funds their work and takes a share of whatever acclaim it earns. Musicians, actors and visual artists enter by invitation, and membership is a mark of standing among the capital's players.
 
 ## Character
 
-"You were asked in, so you play," says the senior musician, handing you the second flute, "and you play the way they paid for." The Artistic Collective of Thubâ'i is a body of performers and artists working under the patronage of the god, and its membership is by invitation. An **Artist of the Collective** is a musician, player or painter who has been asked in and is funded by the temple.
+"You were asked in, so you play," says the senior musician, handing you the second flute, "and you play the way they paid for." The **Artistic Collective of Thubâ'i** is a body of performers and artists working under the patronage of the god, and its membership is by invitation. An **Artist of the Collective** is a musician, player or painter who has been asked in and is funded by the temple.
 
 The collective is prestigious and beholden. Membership is a mark of standing among the capital's players, since an artist outside it is assumed to lack the talent or the connections to have been asked. It also carries the temple's claim on a member's reputation: the temple funds the work and takes a share of the acclaim, and a member's success is also the temple's.
 

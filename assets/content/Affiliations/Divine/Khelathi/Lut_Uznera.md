@@ -44,13 +44,13 @@ data:
 
 ## Overview
 
-Lut-Uznêra is the temple of [[lore-uzneradty|Uznêra]], goddess of fertility and of the balanced partnership that makes creation possible, tended chiefly by women who hold its central rites. The temple admits men to its priesthood, though rarely to its heights, reflecting the balance the goddess herself is held to represent. A petitioner comes here for matters of marriage, birth and inheritance that the empire's other temples leave to this one alone.
+**Lut-Uznêra** is the temple of [[lore-uzneradty|Uznêra]], goddess of fertility and of the balanced partnership that makes creation possible, tended chiefly by women who hold its central rites. The temple admits men to its priesthood, though rarely to its heights, reflecting the balance the goddess herself is held to represent. A petitioner comes here for matters of marriage, birth and inheritance that the empire's other temples leave to this one alone.
 
 ## Character
 
 "You don't have to be brave," the priestess says to the young woman at the temple gate, who has come with her mother to be told whether the child is coming well. "The goddess is not brave. She is patient." Lut-Uznêra is the house of the mother goddess of fertility and renewal, and its gardens are the first thing any visitor sees: lotus pools, fruit trees and rows of healing herbs. The sick come for treatment, mothers come to give birth in a temple chamber, and the priestesses who attend them are trained in herbs, anatomy and the practical work of delivering children.
 
-Women hold the temple's central rites and its highest standing. The priesthood is matriarchal, with a High Priestess, the Thâz'Lekhau, chosen from among the most accomplished priestesses; men are admitted to it and rarely rise to its heights. They serve as healers, as cultivators of the sacred gardens and as students of heredity and bloodlines. Wazu (acolytes), girls and boys alike, apprentice for years to learn hundreds of herbs, the body's systems and the rites of fertility and partnership.
+Women hold the temple's central rites and its highest standing. The priesthood is matriarchal, with a High Priestess, the Thâz'Lekhau, chosen from among the most accomplished priestesses; men are admitted to it and rarely rise to its heights. They serve as healers, as cultivators of the sacred gardens and as students of heredity and bloodlines. Wazu (acolytes), mostly young women, apprentice for years to learn hundreds of herbs, the body's systems and the rites of fertility and partnership.
 
 The temple holds a legal as well as a medical place. The empire's other temples leave the petitions of marriage, birth and inheritance to Lut-Uznêra, and families come here with the most ordinary and most consequential business of a household. The priestesses mark each turn of a woman's life with a rite: the naming of a child, a girl's passage into womanhood, and the honoring of a woman beyond her childbearing years as teacher in her family.
 
@@ -58,7 +58,7 @@ The temple holds a legal as well as a medical place. The empire's other temples 
 
 One body governs what the temple holds. [[affiliation-genzetuznera|Genzet'Uznêra]] is the council that runs the temple's holdings and its calendar, and the festival of the flood, with its processions of women carrying wreaths and grain, is the council's largest annual undertaking.
 
-The temple's other relations are the ones its goddess teaches. It works closely with the temple of Qe'âret, since the two goddesses share a doctrine of balance and the priesthoods cooperate in keeping a woman's legal standing in the law, and it works with the priests of Wethûr in seeing a woman who dies in childbirth honored and her soul guided. Ascetic traditions that regard the body as corrupting find the priestesses unyielding on the point: the body is sacred.
+The temple's other relations are the ones its goddess teaches. It works closely with the temple of [[lore-qearetdty|Qe'âret]], since the two goddesses share a doctrine of balance and the priesthoods cooperate in keeping a woman's legal standing in the law, and it works with the priests of [[lore-wethurdty|Wethûr]] in seeing a woman who dies in childbirth honored and her soul guided. Ascetic traditions that regard the body as corrupting find the priestesses unyielding on the point: the body is sacred.
 
 ## Commerce and Currency
 

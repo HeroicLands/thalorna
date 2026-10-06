@@ -3,7 +3,7 @@ shortcode: passshrineushtakas
 name: {full: The Pass-Shrine Ushtakas, aliases: [The Altitude Ushtakas]}
 type: affiliation
 subType: faithtradition
-description: "The ushtaka sub-caste who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
+description: "The hereditary line of Ritūja ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
 tags: [varnaka, arcane, mountain]
 data:
   banner: faithbnr
@@ -20,11 +20,11 @@ data:
       - level: 0
         title: Sent Down
         description: >-
-          Put off the col and not taken back by any of the five. A shrine states the reason on the cistern wall with the names of the dead, which is where the sub-caste keeps what it will not forget.
+          Put off the col and not taken back by any of the five. A shrine states the reason on the cistern wall with the names of the dead, which is where the line keeps what it will not forget.
       - level: 1
         title: Shrine-born
         description: >-
-          Born to the sub-caste and raised on the cols, keeping the observances and carrying fuel and water before being trusted with anything else.
+          Born to the line and raised on the cols, keeping the observances and carrying fuel and water before being trusted with anything else.
       - level: 2
         title: Fire-watcher
         description: >-
@@ -43,7 +43,7 @@ data:
       Register-writer: >-
         Enters who crossed, with how many beasts, in whose employ and on what day—the only written account of traffic on the wall that is not a customs document.
       Fire-watcher: >-
-        Keeps the fire alive through the closed months; the work by which the sub-caste measures everyone in it.
+        Keeps the fire alive through the closed months; the work by which the line measures everyone in it.
       Reader of the Cistern Wall: >-
         Keeps the count of the dead by name, and recites it at the turn of the closed season.
   seat: pssshrines
@@ -76,15 +76,15 @@ sohl:
 - **Seat:** [[place-pssshrines|The Pass-Shrines]]
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-The **Pass-Shrine Ushtakas** are the sub-caste who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the sub-caste, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
+The **Pass-Shrine Ushtakas** are a hereditary line of **Ritūja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
-They are the only body in Vedyara that works a Varnaka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
+They are the only body in [[place-vedyarargn|Vedyara]] that works a Varnaka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
 
 ### The Two Rites
 
-The **weather-rite** is [[affiliation-meghanatha|Meghanātha]]'s, worked for what the mountain does rather than for what the monsoon does: the shift in the wind at the col, the hour the cloud comes up the valley, the night the snow begins in earnest. It is petition and not command, and a shrine that has worked it and been wrong says so in the register.
+The weather-rite is [[affiliation-meghanatha|Meghanātha]]'s, worked for what the mountain does rather than for what the monsoon does: the shift in the wind at the col, the hour the cloud comes up the valley, the night the snow begins in earnest. It is petition and not command, and a shrine that has worked it and been wrong says so in the register.
 
-The **road-rite** is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where the Wandering Wind is not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnaka practice the [[affiliation-osketguides|Ösket]] and the [[affiliation-hvarnguides|Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
+The road-rite is the [[affiliation-pavanajitras|Pavanajitras]]', worked at a height where the [[affiliation-pavanajitras|Wandering Wind]] is not a figure of speech. A caravan takes it at the summit before it begins the descent and pays what it chooses. This is the one Varnaka practice the [[affiliation-osketguides|Ösket]] and the [[affiliation-hvarnguides|Hvarn]] respect, and they respect it because they have watched it work in weather they know better than anyone alive.
 
 ### The Refusal
 

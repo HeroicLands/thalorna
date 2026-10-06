@@ -36,11 +36,11 @@ data:
 
 ## Overview
 
-Lin'Zamlu elu Aû'Khelâthu is the chartered guild of musicians and singers across [[place-aukhelathrgq|Aû'Khelâthu]], open to any performer willing to pay its dues. Members invoke the guild's name constantly when it serves them, as a credential before an audience or a patron, but attend its own meetings only sporadically. A hiring patron who checks a musician's claimed membership against the guild's own roll finds the claim confirmed more often than the attendance would suggest.
+**Lin'Zamlu elu Aû'Khelâthu** is the chartered guild of the musicians and singers of [[place-aukhelathrgq|Aû'Khelâthu]], open to any performer willing to pay its dues. Members invoke its name constantly, as a credential before an audience or a patron, and attend its meetings only sporadically. A patron who checks a musician's claimed membership against the roll finds the claim confirmed more often than the attendance would suggest.
 
 ## Character
 
-"Oh, I'm Guild," the lute-player says at the door of the patron's house, and the steward lets him in. He has not attended a meeting in two years. The Minstrels' Guild is the chartered guild of the empire's musicians and singers, open to any performer who pays its dues, and its members invoke it constantly and attend it sporadically. A **Minstrel** is a performer on the roll, who claims the guild as a credential. A **Master** holds mastery in the guild, and a recommendation from one carries across the whole empire.
+"Oh, I'm Guild," the lute-player says at the door of the patron's house, and the steward lets him in. He has not attended a meeting in two years. The **Minstrels' Guild** is the chartered guild of the empire's musicians and singers, open to any performer who pays its dues, and its members invoke it constantly and attend it sporadically. A Minstrel is a performer on the roll, who claims the guild as a credential. A Master holds mastery in the guild, and a recommendation from one carries across the whole empire.
 
 The guild is open and loosely held. Nobody is examined for belonging, nobody is struck off for absence, and the roll is a list of people who paid. The guild is nonetheless real, because the credential it gives is real. When a patron asks for proof, the roll confirms the claim more often than attendance would suggest.
 
