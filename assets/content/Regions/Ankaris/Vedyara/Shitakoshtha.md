@@ -14,7 +14,7 @@ The masons who raised the vault could not dress it, could not shift it and could
 
 ## What the Room Does
 
-It does not damp. In a country where palm-leaf goes soft in a wet season and rots in three, the leaves in this room do not, and the library's thirty-year recopying cycle has never been applied to them. What is in the room was last copied four hundred years ago.
+It does not damp. In a country where palm-leaf goes soft in a wet season and rots in three, the leaves in this room do not, and the library's thirty-year recopying cycle has never been applied to them. The originals in it have never been replaced, and the last copies taken from them were made four hundred years ago.
 
 Nothing else about the room is unusual. It is cold, which a stone cellar is; it is dry, which a stone cellar is not. No rite is performed in it, no offering is made in it, and no account exists of how a slab of anything keeps a room dry through a monsoon.
 

@@ -8,15 +8,15 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-The **Academy of the Patient Eye** teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.
+At the **Patient Eye** you get one arrow. A student stands at a distance the master names, shoots once, and is passed or is not; a student who is not may stand the examination again in a year.
 
-Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the Sarvada bank, with the marks set at every hundred and the far butt against a cut in the terrace.
+The Academy of the Patient Eye teaches accuracy at extreme range. Its graduates serve as scouts, as hunters and as fortress sharpshooters, and a good many end as the personal bowmen of Vedyari nobility, which is the most comfortable place an archer of common birth can reach.
+
+Its hall is the smallest of the four and its range is the longest: a cleared lane of six hundred paces running downstream along the [[place-sarvadarivr|Sarvada]] bank, with the marks set at every hundred and the far butt against a cut in the terrace.
 
 ## The Teaching
 
-The academy examines on a single shot. A student stands at a distance the master names, shoots once, and is passed or is not, and the examination may be repeated in a year. Nothing in the teaching is about volume of shooting and everything is about the one arrow that is worth loosing.
-
-That produces graduates who are slow by any battlefield standard and who are hired anyway, because the work is one man at six hundred paces and not a line at eighty.
+Nothing in the teaching is about volume of shooting; everything is about the one arrow worth loosing. That produces graduates who are slow by any battlefield standard and who are hired anyway, because the work is one man at six hundred paces and not a line at eighty.
 
 ## The Waiting
 

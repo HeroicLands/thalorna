@@ -16,7 +16,7 @@ data:
 
 **Chandraprabhava** is where the [[place-chandrmahi|Chandramahī]] comes out of the ice under [[place-suryashkhr|Sūryashikhara]]. The [[affiliation-varakpnthn|Varnaka]] tradition does not treat this as the place the river happens to begin; it treats it as the place the river began, once, at the beginning, and has been beginning ever since.
 
-The Sūrya temple stands on the shelf beside the outflow, and the pilgrimage to it is the most demanding of the four source-pilgrimages and the most made. Some thirty thousand people a year reach the shelf in the open months. Perhaps a tenth of them are carried the last stage.
+The [[place-suryatempl|Sūrya temple]] stands on the shelf beside the outflow, and the pilgrimage to it is the most demanding of the four source-pilgrimages and the most made. Some thirty thousand people a year reach the shelf in the open months. Perhaps a tenth of them are carried the last stage.
 
 ## The Water
 

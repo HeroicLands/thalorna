@@ -14,13 +14,13 @@ data:
   packFolder: vedyara
 ---
 
-Bharanya (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great Mahájaya temple of Bharanya is one of the three largest pilgrim-temples in central Vedyara, and its senior priest is one of the three of the Council of Three.
+**Bharanya** (5,400) stands on the lower [[place-mahanadi|Mahānadi]], and it is there for the temple. The great [[affiliation-mahajaya|Mahájaya]] temple of Bharanya is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of the **Council of Three**.
 
-The town belongs to a janapada of the Mahānadi circuit and holds no seat of its own at the Mela. What it has instead is the temple's standing, which is greater than the janapada's and older.
+The town belongs to a janapada of the Mahānadi circuit and holds no seat of its own at the **Mela**. What it has instead is the temple's standing, which is greater than the janapada's and older.
 
 ## The Mounds
 
-Nothing here is built on the flood-plain proper. Bharanya sits on four artificial mounds raised over generations, joined by causeways that stand about a man's height above the wet-season water, and the temple sits on the largest and oldest of them. In a bad year the causeways go under and the town becomes four islands for a month, which the townspeople treat as weather rather than as disaster.
+Nothing here is built on the flood-plain proper. Bharanya sits on four artificial mounds raised over generations, joined by causeways that stand about a man's height above the wet-season water, and the temple sits on the largest and oldest of them. In a bad year the causeways go under and the town becomes four islands for a month, which the townspeople treat as weather rather than as disaster. A pilgrim-guide of the town tells you to come after the fall of the water, when the causeways are dry and the flood-rites are done.
 
 The river has come at the mounds twice within written record and taken neither. It has taken the landing four times, and the landing has been rebuilt four times, twice in a different place.
 

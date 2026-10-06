@@ -8,13 +8,13 @@ tags: [sacred, river, inland]
 data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **sandstone altar** in the main hall of the great Vyālendra temple at [[place-rajapur|Rājapur]] is the original altar of the temple, cut at the founding of the dynastic capital twelve centuries ago. It is one block, of a workmanship the Rājapuri consider unmatched in the janapada and possibly in the circuit, and it is the oldest object in continuous ritual use in the janapada by three hundred years.
+The **sandstone altar** in the main hall of the great Vyālendra temple at [[place-rajapur|Rājapur]] is the oldest object in continuous ritual use in the janapada, by three hundred years. It is the temple's original altar, cut at the founding of the dynastic capital twelve centuries ago: one block, of a workmanship the Rājapuri consider unmatched in the janapada and possibly in the circuit.
 
 [[affiliation-vyalendra|Vyālendra]] is the creator-deity of the [[affiliation-varakpnthn|Varnaka pantheon]], the world's first light and the shaper from whom all forms emerge. The altar is where his rites are performed at the spring festival, before fifteen thousand visitors in a town of eighteen hundred.
 
 ## The Kings and the Sabhā
 
-The altar was a royal foundation. Every king of the Kingdom of Mahānadi was consecrated at it, including the last one, and the sabhā that dissolved the kingdom met in the hall the altar stands in and has met there ever since.
+The altar was a royal foundation. Every king of the [[lore-mhndkngdm|Kingdom of Mahānadi]] was consecrated at it, including the last one, and the sabhā that dissolved the kingdom met in the hall the altar stands in and has met there ever since.
 
 The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names the altar at every session:
 

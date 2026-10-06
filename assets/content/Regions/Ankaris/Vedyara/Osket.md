@@ -74,19 +74,19 @@ The **Ösket** hold the western and central crossings of [[place-graznmntns|the 
 
 ## What a Lineage Is
 
-An Ösket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body—when a question touches two roads the lineages concerned meet at a col, argue it, and go home, and the Speaker who convenes them is chosen for the meeting and holds nothing afterward.
+An Ösket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body. When a question touches two roads, the lineages concerned meet at a col, argue it, and go home, and the **Speaker of the Cols** who convenes them is chosen for the meeting and holds nothing afterward.
 
-Knowledge runs through the women. A guide-mother holds the road—the weather-signs, the years a shelf has moved, which loads a yak-route will carry, the count of the dead and where each of them stopped—and she says whether a caravan goes today. Men walk it. The distinction is not ceremonial and no lowlander has ever successfully bought round it.
+Inside the lineage the work divides along a line a caravan master learns on the first day. The guide-mother holds the lineage's knowledge of the road and says whether it is open; the road-holder answers for every party that goes over it; men walk it. The cord-keeper, the snow-watcher, the hearth-warden and the fee-reckoner hold the rest of the lineage's offices.
 
 ## Outside the Order
 
-Above the last [[place-pssshrines|Pass-Shrine]] the tharana does not reach. The Ösket are not outcaste, which is a position within the system; they are not addressed by it at all, cannot be placed in it, and have never asked to be. Vedyari jurists have written around this for eight centuries with great ingenuity, and the practical position—that a shrine-ushtaka, priest of the summit temple, will eat in an Ösket house on the col and would not do so in the valley—has never once been tested in a court.
+The tharana does not reach above the last [[place-pssshrines|Pass-Shrine]]. The Ösket are not **Outcastes**, which is a place within the order; the order does not address them at all, cannot place them and has never been asked to. Vedyari jurists have written around the position for eight centuries with great ingenuity, and it has never once been tested in a court.
 
 ## What They Take
 
-Roughly half the value of everything that crosses, paid at the far end. The lineages of [[place-suryadvara|Sūryadvāra]] are rich by any standard, keep [[place-oskhelt|Öskhelt]] provisioned through the closed months out of a common store, and lend at interest to caravan-masters who have miscalculated. The western lineages take two caravans a year and live off their herds.
+Roughly half the value of everything that crosses, paid at the far end. A fee-reckoner at [[place-oskhelt|Öskhelt]], sitting in the open with a caravan master who has never crossed, sets the price against what the caravan is worth and gives him the rule in one breath: "Half of what lands at the far end is ours, and you pay it there, once you have seen what the pass has left you."
 
-Outsiders are told what to do and not why. This is not mystification; it is what a people does when the alternative is arguing at nineteen thousand feet with someone who does not know what he is looking at.
+The lineages of [[place-suryadvara|Sūryadvāra]] are rich by any standard, keep Öskhelt provisioned through the closed months out of a common store, and lend at interest to caravan-masters who have miscalculated. The western lineages take two caravans a year and live off their herds.
 
 ## The Sixth Road
 
