@@ -86,7 +86,7 @@ The **Bright** is the power of light, life, growth, and the flame that keeps bac
 
 What the Bright favors can be inferred from what the Bright is. Warmth, generation, the quickening of green things, the courage to act, the light that reveals what would otherwise be hidden, the visible order of a world that turns without fail. These are the Bright's character.
 
-Áelendan tradition holds that several of the Aurèldían deities are later refractions of the Bright: [[affiliation-arldnpnthn|Lúsinía]] the World-Weaver, [[affiliation-arldnpnthn|Flórania]] the Nurturer, and—by some accounts—[[affiliation-arldnpnthn|Vénusia]] the Bountiful. The Aurèldían clergy disputes this reading, and no outside scholarship has settled the question. The Áelendan offer the reading but do not insist on it.
+Áelendan tradition holds that several of the Aurèldían deities are later refractions of the Bright: [[affiliation-arldnpnthn|Lúsinía]] the World-Weaver, [[affiliation-arldnpnthn|Flórania]] the Nurturer, and—by some accounts—[[affiliation-arldnpnthn|Ólvenía]] the Bountiful. The Aurèldían clergy disputes this reading, and no outside scholarship has settled the question. The Áelendan offer the reading but do not insist on it.
 
 ### The Dark {#the-dark}
 
@@ -101,7 +101,7 @@ The Áelendan do not fear the Dark in the way that outsiders might expect. They 
 
 The Dark is the aspect of the First Gods most frequently misunderstood by outside observers, who tend to map it onto the death-and-evil deities of other pantheons. This is a category error. [[affiliation-ordoarcanis|Ordo Arcanis]] reports that identify the Dark's Kindred with the demons of Aurèldían demonology are, in Áelendan view, examples of what happens when a foreign scholar tries to catalog a faith they have no standing to understand.
 
-Áelendan tradition holds that several Aurèldían deities are later refractions of the Dark: [[affiliation-arldnpnthn|Thánatos]] the Silent Judge, [[affiliation-arldnpnthn|Mórváná]] of the Waning Moon, and—by some readings—[[affiliation-arldnpnthn|Aethería]] the Veiled Dreamer. The Aurèldían clergy regards the equation of their Silent Judge with a "dark power" of tribal shamanism as near-blasphemous, which is one of several reasons the claim is not pressed outside Áelendan company.
+Áelendan tradition holds that several Aurèldían deities are later refractions of the Dark: [[affiliation-arldnpnthn|Sélmoros]] the Silent Judge, [[affiliation-arldnpnthn|Mórváná]] of the Waning Moon, and—by some readings—[[affiliation-arldnpnthn|Aethería]] the Veiled Dreamer. The Aurèldían clergy regards the equation of their Silent Judge with a "dark power" of tribal shamanism as near-blasphemous, which is one of several reasons the claim is not pressed outside Áelendan company.
 
 ## The Kindred
 

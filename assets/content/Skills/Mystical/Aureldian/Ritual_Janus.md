@@ -1,6 +1,6 @@
 ---
 shortcode: janus
-name: {full: "Ritual: Janus", aliases: [The Keeper of the Gates]}
+name: {full: "Ritual: Árdavon", aliases: [The Keeper of the Gates]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-janus|Faith of Janus]]
+See [[affiliation-janus|Faith of Árdavon]]

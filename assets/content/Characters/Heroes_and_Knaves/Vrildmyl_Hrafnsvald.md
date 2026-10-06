@@ -424,11 +424,11 @@ Vrildmýl was born in a rural settlement of the [[affiliation-kngdmvthgrd|Kingdo
 
 At fifteen, his family's lands were attacked by a raider band. Vrildmýl's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-dvrnvrhrfnsvld|Dvarnvir]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 
-At eighteen, Vrildmýl joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain Aldric Stonefist**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Aldric became the father figure Vrildmýl had lacked growing up. For the past eleven years, Vrildmýl has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
+At eighteen, Vrildmýl joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain Bruldthann Stonefist**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Bruldthann became the father figure Vrildmýl had lacked growing up. For the past eleven years, Vrildmýl has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
 
 [[being-dvrnvrhrfnsvld|Dvarnvir]], meanwhile, returned from military service around the same time, settling in Vithgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[being-dvrnvrhrfnsvld|Dvarnvir]]'s part and unresolved anger on Vrildmýl's. They see each other occasionally, and there is love beneath the tension, but neither man finds it easy to bridge the years of absence.
 
-Recently promoted to the rank of sergeant, Vrildmýl stands at a crossroads. **Captain Aldric** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Vrildmýl feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
+Recently promoted to the rank of sergeant, Vrildmýl stands at a crossroads. **Captain Bruldthann** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Vrildmýl feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
 ## Psyche
 
@@ -440,12 +440,12 @@ There is an underlying idealism to Vrildmýl that sometimes puts him at odds wit
 
 ### Motivation
 
-Vrildmýl is motivated by a desire that no one else should suffer what his family endured—to create a world where families need not live in constant fear of violence while those who should protect them are elsewhere. He wants to be the kind of soldier and leader that **Captain Aldric** has shown is possible—someone who acts with both strength and integrity, who is present when it matters. There is also ambition beneath the idealism: a drive to rise in status, to gain the resources and authority to affect larger changes. And somewhere deeper, a need to prove to his father—and to himself—that he became something worth being proud of, despite everything.
+Vrildmýl is motivated by a desire that no one else should suffer what his family endured—to create a world where families need not live in constant fear of violence while those who should protect them are elsewhere. He wants to be the kind of soldier and leader that **Captain Bruldthann** has shown is possible—someone who acts with both strength and integrity, who is present when it matters. There is also ambition beneath the idealism: a drive to rise in status, to gain the resources and authority to affect larger changes. And somewhere deeper, a need to prove to his father—and to himself—that he became something worth being proud of, despite everything.
 
 ### Strengths
 
 - **Exceptional Agility and Reflexes**: Vrildmýl's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
-- **Melee Combat Mastery**: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Aldric** and has extensive real combat experience.
+- **Melee Combat Mastery**: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Bruldthann** and has extensive real combat experience.
 - **Tactical Flexibility**: Though he lacks the long view of older commanders, Vrildmýl adapts rapidly to changing battlefield conditions and thinks creatively about problem-solving.
 - **Inspirational Presence**: Younger militia members naturally follow his lead, and common citizens respond positively to his straightforward manner and evident commitment to their protection.
 - **Quick Learning**: Vrildmýl absorbs lessons rapidly, both from training and from field experience. Each encounter teaches him something new, and he integrates those lessons quickly.
@@ -462,8 +462,8 @@ Vrildmýl is motivated by a desire that no one else should suffer what his famil
 
 ### Patrons
 
-Captain Aldric Stonefist
-: Vrildmýl's commanding officer and mentor. Aldric became the father figure Vrildmýl lacked growing up, and his opinion matters more to Vrildmýl than almost anyone else's.
+Captain Bruldthann Stonefist
+: Vrildmýl's commanding officer and mentor. Bruldthann became the father figure Vrildmýl lacked growing up, and his opinion matters more to Vrildmýl than almost anyone else's.
 
 The Farming Council of Vithgard
 : The communities Vrildmýl's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
@@ -498,12 +498,12 @@ The Followers of Eidgar
 
 ## Plot Hooks
 
-1. **The Coordinated Threat**: Vrildmýl's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Aldric** dismisses his concerns, but Vrildmýl's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
+1. **The Coordinated Threat**: Vrildmýl's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Bruldthann** dismisses his concerns, but Vrildmýl's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
 
 2. **The Impossible Choice**: A village under Vrildmýl's protection is attacked by the **Crimson Raiders**, but at the same time a militia outpost requires urgent reinforcement. Vrildmýl cannot save both. Whatever choice he makes will result in significant loss, and the decision haunts him. The experience forces him to confront the limits of individual heroism and to accept that sometimes good people die despite his best efforts.
 
-3. **The Recruitment**: An organization of mysterious power and resources approaches Vrildmýl, claiming to be conducting a secret war against forces he has only partially perceived. They offer him resources, advanced training, and answers to questions he has been asking. The catch: joining would require operating outside militia authority and potentially deceiving **Captain Aldric**. Vrildmýl must assess whether the group's claims are legitimate or if he is being recruited for purposes he does not understand.
+3. **The Recruitment**: An organization of mysterious power and resources approaches Vrildmýl, claiming to be conducting a secret war against forces he has only partially perceived. They offer him resources, advanced training, and answers to questions he has been asking. The catch: joining would require operating outside militia authority and potentially deceiving **Captain Bruldthann**. Vrildmýl must assess whether the group's claims are legitimate or if he is being recruited for purposes he does not understand.
 
-4. **The Succession Crisis**: **Captain Aldric** suffers a serious injury, forcing him to consider retirement. Vrildmýl and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Vrildmýl must play politics while remaining true to his principles, and must ask himself whether he wants leadership badly enough to compromise his ideals.
+4. **The Succession Crisis**: **Captain Bruldthann** suffers a serious injury, forcing him to consider retirement. Vrildmýl and another ambitious younger officer are both candidates to replace him. The promotion decision becomes embroiled in political considerations beyond either candidate's control. Vrildmýl must play politics while remaining true to his principles, and must ask himself whether he wants leadership badly enough to compromise his ideals.
 
 5. **The Dark Revelation**: Vrildmýl discovers that his mother's death—which he believed to be the tragic result of a random bandit raid—was actually orchestrated by powerful interests as part of a larger scheme. His family's farm sat on land someone wanted, and the raid was no accident. The knowledge that his mother's death was deliberate, and that his father's absence was exploited by those who planned it, transforms Vrildmýl's motivation from abstract idealism to personal vengeance. He must struggle to channel that rage toward justice rather than revenge—and must weigh whether to tell [[being-dvrnvrhrfnsvld|Dvarnvir]] the truth, knowing the guilt might destroy his father entirely.

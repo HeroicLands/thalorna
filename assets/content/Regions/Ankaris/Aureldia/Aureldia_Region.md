@@ -58,11 +58,11 @@ Despite the diversity, Aurèldían high culture shares certain hallmarks: chival
 
 ## The Aurèldían Faith
 
-Aurèldía takes its name from the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Every Aurèldían polity builds temples to the Twelve—Aethería of dreams, Thánatos of death, Táranon of storms, Jánus of order, Ménérva of knowledge, Vénusia of prosperity, Lúsinía of creation, Karnavos of chaos, Múrkír of voyages, Mórváná of decay, Flórania of fertility, and Vúlcan of fire in one of his two contested aspects.
+Aurèldía takes its name from the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Every Aurèldían polity builds temples to the Twelve—Aethería of dreams, Sélmoros of death, Táranon of storms, Árdavon of order, Ménérva of knowledge, Ólvenía of prosperity, Lúsinía of creation, Karnavos of chaos, Múrkír of voyages, Mórváná of decay, Flórania of fertility, and Ústaron of fire in one of his two contested aspects.
 
 The faith extends well beyond Aurèldían borders—it is worshipped in [[affiliation-vylarinmpr|Vylaria]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], [[affiliation-byzarianlg|Byzaría]], and elsewhere across the [[place-midhalnrgn|Mídhalión]] basin—but Aurèldía is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aurèldían lands. A priest educated in Élavendre or a scholar trained in Provènzia carries authority anywhere the Twelve are honored.
 
-The Vúlcani Schism is the faith's great fracture. Five centuries ago the clergy of Vúlcan divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Vúlcan as craftsman, protector, and illuminator—became the mainstream Aurèldían faith. [[affiliation-blackflame|The Black Flame]]—Vúlcan as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aurèldían politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
+The Ústaran Schism is the faith's great fracture. Five centuries ago the clergy of Ústaron divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]]—Ústaron as craftsman, protector, and illuminator—became the mainstream Aurèldían faith. [[affiliation-blackflame|The Black Flame]]—Ústaron as purifier-through-destruction, fire as weapon and instrument of domination—was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aurèldían politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
 [[place-aelwyth|Aelwyth]] is the great partial exception to the Aurèldían religious pattern. Centuries of Nordmen settlement have woven the [[affiliation-asguardian|Asguardian]] gods into the island's religious life, and many Aelwythans revere both pantheons—an uneasy syncretism that the mainland Aurèldían clergy view with curiosity, tolerance, or alarm depending on the decade.
 
@@ -106,7 +106,7 @@ Aurèldía uses the **Common Calendar**—the AF/BF system established by the [[
 - [[affiliation-calypsa|Calypsa]]—Merchant city-state
 - [[place-tarvenirgn|Tarvénia Region]]—The peninsular kingdoms
 - [[place-provenzrgn|Provènzia Region]]—The cultured southern coast (also part of [[place-midhalnrgn|Mídhalión]])
-- [[affiliation-sacredforge|The Sacred Forge]], [[affiliation-blackflame|The Black Flame]]—The rival Vúlcani faiths
+- [[affiliation-sacredforge|The Sacred Forge]], [[affiliation-blackflame|The Black Flame]]—The rival Ústaran faiths
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—Cross-border arcane institution
 - [[place-nrdlndsrgn|Nordlands Region]]—Northern neighbor
 - [[place-midhalnrgn|Mídhalión]]—Southeastern neighbor and trading partner

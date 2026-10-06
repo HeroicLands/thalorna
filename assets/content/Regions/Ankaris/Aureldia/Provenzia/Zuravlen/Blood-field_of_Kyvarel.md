@@ -29,7 +29,7 @@ excellent, it is sold across Provènzia under no particular name, and a good dea
 preserving trades of Zûravlen—which is to say that some meaningful share of the finest fruit
 conserves in Ankaris is grown on a battlefield.
 
-The clergy of [[affiliation-thanatos|Thánatos]] have twice offered to perform the rite of settlement
+The clergy of [[affiliation-thanatos|Sélmoros]] have twice offered to perform the rite of settlement
 here. They were refused both times, courteously, by the tenants rather than the lord—on the grounds
 that nobody knows whether settling a quickened field would end the quickening, and that the district
 cannot afford to find out.

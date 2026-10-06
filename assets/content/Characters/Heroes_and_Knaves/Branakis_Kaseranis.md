@@ -486,7 +486,7 @@ Bránakis is driven by a commitment to excellence that borders on obsession, and
 Master Blacksmith Torvin Arkálmanês
 : The region's most famous blacksmith who specifically seeks out Bránakis' charcoal for his most important commissions. Torvin is perhaps the only person Bránakis considers a true peer.
 
-The Abbey of Vúlcan's Flame
+The Abbey of Ústaron's Flame
 : A monastic order devoted to the fire god, which purchases substantial quantities of charcoal for both practical and spiritual purposes. They also provide some protection and prestige to Bránakis within the religious community.
 
 Guild Master Aldus Garlindrîs
@@ -511,7 +511,7 @@ The Woodworkers' Guild of Nartum
 The Keepers of the Forest
 : An informal network of those devoted to the careful management and preservation of the great woods. Bránakis is one of their most vocal members.
 
-The Abbey of Vúlcan's Flame
+The Abbey of Ústaron's Flame
 : A religious community that views Bránakis' work as spiritually significant.
 
 ## Plot Hooks
@@ -522,6 +522,6 @@ The Abbey of Vúlcan's Flame
 
 3. **The Ancient Formula**: While excavating near an old kiln site, Bránakis discovers evidence of charcoal-making techniques used centuries ago, seemingly abandoned and forgotten. Research reveals these techniques produce charcoal with properties that seem almost magical—superior in ways that shouldn't be possible according to anything known of the craft. He must find the remaining archives or texts describing the method while competing against others who recognize its value.
 
-4. **The Bargain with Fire**: A mysterious figure approaches Bránakis, claiming to represent Vúlcan directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Bránakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
+4. **The Bargain with Fire**: A mysterious figure approaches Bránakis, claiming to represent Ústaron directly, and offers him a way to perfectly control kiln temperatures and hold a consistent quality beyond what he has ever achieved. The price is not gold but his agreement to undertake a secret task—creating a specific batch of charcoal with properties the figure refuses to explain. Bránakis is torn between his desire for perfect mastery of his craft and his deep suspicion of anything involving deception.
 
 5. **The Last Stand**: The Timber Consortium, frustrated by Bránakis' continued resistance to their designs, escalates their campaign, attempting to literally drive him out of business through sabotage, the rigging of prices, and legal challenges. Bránakis finds himself forced to make alliances he never sought and to engage in types of conflict entirely foreign to his nature. He can surrender his independence and fold his works into a larger concern, or make a final stand that might cost him everything.

@@ -429,7 +429,7 @@ Sâbir Âjira was born in the industrial heart of the [[affiliation-kalihara|Kal
 
 By his early twenties, he had begun experimenting, moving beyond his father's traditional methods to understand how different wood types, various kiln designs, and careful temperature management could yield superior product. These innovations earned him guild recognition and the loyalty of the Confederation's finest blacksmiths, who discovered that charcoal from Sâbir's kilns burned hotter, purer, and more controllably than standard product. He established his own workshop fifteen years ago and has since become the most sought-after charcoaler in the region, though his perfectionist methods mean that demand consistently outpaces his supply.
 
-Sâbir's devotion to Vúlcan, the fire-aspect deity of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
+Sâbir's devotion to Ústaron, the fire-aspect deity of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
 
 ## Psyche
 
@@ -441,7 +441,7 @@ His defining characteristic is perfectionism bordering on obsession. He can spen
 
 ### Motivation
 
-Sâbir is driven by a singular, almost monastic vision: to create the perfect charcoal. He understands intellectually that "perfect" is an unreachable horizon, yet this does not discourage him—if anything, it energizes his pursuit. He believes that by constantly improving his craft, he honors both Vúlcan and the wood itself, transforming one noble material into another through discipline and knowledge. Recognition and profit matter less to him than the knowledge that, somewhere, a blacksmith or metalworker is creating something magnificent with his charcoal.
+Sâbir is driven by a singular, almost monastic vision: to create the perfect charcoal. He understands intellectually that "perfect" is an unreachable horizon, yet this does not discourage him—if anything, it energizes his pursuit. He believes that by constantly improving his craft, he honors both Ústaron and the wood itself, transforming one noble material into another through discipline and knowledge. Recognition and profit matter less to him than the knowledge that, somewhere, a blacksmith or metalworker is creating something magnificent with his charcoal.
 
 More subtly, Sâbir seeks to prove that mastery in a craft considered humble or utilitarian can be as profound as any "higher" pursuit. His charcoal feeds industry and creation; he is not a servant to commerce but a servant of transformation itself.
 
@@ -490,7 +490,7 @@ Rival Craftsman Voth
 Charcoalers' Guild of the Kalihara Confederation
 : Member and standard-bearer of quality standards, though increasingly at odds with the guild's push toward mass production.
 
-The Order of Vúlcan's Flame
+The Order of Ústaron's Flame
 : A semi-religious society of craftspeople who work with fire, from smiths to brewers, where Sâbir maintains a contemplative presence.
 
 ## Plot Hooks
@@ -503,4 +503,4 @@ The Order of Vúlcan's Flame
 
 4. **The Innovation Demand**: A brilliant but impetuous young inventor approaches Sâbir with an idea for a revolutionary new kiln design that could triple production while theoretically maintaining quality. The inventor has connections to the Confederation's elite and is offering significant investment. Sâbir is intrigued by the technical possibility but deeply suspicious of speed and scale. He must decide whether to risk his careful legacy on an experimental partnership or watch as others adopt and profit from technology he could have shaped.
 
-5. **The Sacred Affront**: The Temple of Vúlcan announces plans to dismantle the ancient communal kilns that have burned in the city for centuries, replacing them with a modern, unified industrial facility. The temple frames this as "progress" and "honoring the god through technological advancement." Sâbir views it as spiritual vandalism—those ancient kilns are sacred sites where generations of charcoalers have worked and worshipped. He must decide whether to resist a religious authority he respects, and whether he can find allies among those who see technology not as inevitable progress but as a loss of something essential.
+5. **The Sacred Affront**: The Temple of Ústaron announces plans to dismantle the ancient communal kilns that have burned in the city for centuries, replacing them with a modern, unified industrial facility. The temple frames this as "progress" and "honoring the god through technological advancement." Sâbir views it as spiritual vandalism—those ancient kilns are sacred sites where generations of charcoalers have worked and worshipped. He must decide whether to resist a religious authority he respects, and whether he can find allies among those who see technology not as inevitable progress but as a loss of something essential.

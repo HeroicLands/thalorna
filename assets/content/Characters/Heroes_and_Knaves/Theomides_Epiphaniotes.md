@@ -466,7 +466,7 @@ Theomídes is motivated by a desire to preserve the balance of the wild places h
 ### Patrons
 
 The Merchant House of Pelios
-: A family of fur traders who have purchased Theomídes' pelts for two decades. **Kyros Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
+: A family of fur traders who have purchased Theomídes' pelts for two decades. **Kuhánikos Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
 
 Farmer Meydánikos Pelagazûr
 : A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Meydánikos now sends urgent requests whenever predators menace his herds.

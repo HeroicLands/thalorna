@@ -480,13 +480,13 @@ The Urban Craft Guild Leadership
 
 ### Enemies
 
-Master Devani Karthik
-: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Devani now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
+Master Rāmānava Karthik
+: A skilled candle-maker whom Vishvambhārākhila drove into bankruptcy through aggressive undercutting and market manipulation. Rāmānava now works as a mere employee in another workshop and harbors fierce resentment, plotting subtle revenge.
 
 The Artisan Collective
 : An emerging organization of craftspeople attempting to create a cooperative market free from merchants like Vishvambhārākhila. They view him as the exemplar of predatory capitalism and have made his downfall a symbolic goal.
 
-Merchant-Lord Vasilis
+Merchant-Lord Chāndraka
 : A rival merchant whose economic interests frequently conflict with Vishvambhārākhila's. Their competition has occasionally turned vicious, with each attempting to undercut the other's trade routes and relationships.
 
 ### Affiliations
@@ -498,7 +498,7 @@ The Urban Craft Guild
 
 1. **The Quality Problem**: Vishvambhārākhila discovers that his cost-cutting measures have resulted in structural problems with his candles—they release toxic fumes when burned, a quality that could cause widespread illness if discovered. He must decide whether to publicly recall the products and damage both his reputation and profits, attempt to quietly fix future production while leaving dangerous candles in circulation, or find some middle path that involves covering up the problem. Meanwhile, a noble child becomes ill, apparently from candle exposure, and investigators begin looking into his operation.
 
-2. **The Desperate Supplier**: A craftsperson named **Theron**, who supplies Vishvambhārākhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Theron's operation and become partners rather than merchant-supplier. Vishvambhārākhila's instinct is to let Theron fail and acquire the operation at bankruptcy prices. However, Theron possesses secrets about Vishvambhārākhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
+2. **The Desperate Supplier**: A craftsperson named **Dīpānava**, who supplies Vishvambhārākhila with rare scenting oils, faces financial ruin and approaches him with a proposal: invest in Dīpānava's operation and become partners rather than merchant-supplier. Vishvambhārākhila's instinct is to let Dīpānava fail and acquire the operation at bankruptcy prices. However, Dīpānava possesses secrets about Vishvambhārākhila's previous business dealings that, if revealed, could damage his reputation and legal standing. The negotiation becomes a dangerous game of manipulation and blackmail.
 
 3. **The Counterfeit Crisis**: Vishvambhārākhila discovers that someone is manufacturing counterfeit versions of his signature candles—cheap, inferior copies that are nonetheless being sold under his mark. The counterfeits are damaging his reputation while enriching an unknown rival. Investigation reveals a complex smuggling operation that involves members of the Urban Craft Guild and possibly even some of his own employees. Protecting his business requires navigating guild politics, criminal underworlds, and the possibility that those he trusts are complicit.
 

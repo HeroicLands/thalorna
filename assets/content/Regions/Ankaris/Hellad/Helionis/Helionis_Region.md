@@ -31,7 +31,7 @@ Women in Heliónis have varying status depending on the city-state. In some, the
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is deeply woven into Helionite life, and Heliónis considers itself the spiritual heartland of the Aurèldían faith. The great temples of Heliónis are among the most magnificent in the world, and Helionite religious festivals—combining solemn ritual with athletic competitions, theatrical performances, and public feasting—draw pilgrims from across the Vylarian Sea.
 
-[[affiliation-arldnpnthn|Ménérva]] (knowledge and wisdom) holds special prominence, as befits the region's intellectual character. [[affiliation-arldnpnthn|Aethería]] (dreams and visions) is revered by artists and mystics. [[affiliation-arldnpnthn|Jánus]] (order and justice) presides over legal and civic affairs. The mystery cults—secretive religious societies that promise initiates deeper spiritual knowledge through progressive revelation—are a distinctly Helionite institution, and several have significant political influence.
+[[affiliation-arldnpnthn|Ménérva]] (knowledge and wisdom) holds special prominence, as befits the region's intellectual character. [[affiliation-arldnpnthn|Aethería]] (dreams and visions) is revered by artists and mystics. [[affiliation-arldnpnthn|Árdavon]] (order and justice) presides over legal and civic affairs. The mystery cults—secretive religious societies that promise initiates deeper spiritual knowledge through progressive revelation—are a distinctly Helionite institution, and several have significant political influence.
 
 ## Magic and the Birth of the Ordo
 

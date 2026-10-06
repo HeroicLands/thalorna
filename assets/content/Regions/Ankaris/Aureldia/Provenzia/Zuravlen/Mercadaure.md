@@ -51,7 +51,7 @@ For those eight days Mercadaure is one of the wealthiest small towns in Provènz
 
 - **The market hall**, open-sided, with the grading table at its center and the water-rolls in the
   chamber above.
-- **The shrine of [[affiliation-venusia|Vénusia]]**, which receives the first-picked basket from every
+- **The shrine of [[affiliation-venusia|Ólvenía]]**, which receives the first-picked basket from every
   orchard in the barony and is the richest building in the town.
 - **The bell**, rung for frost. It is rung for nothing else, and every soul in the valley knows what
   it means.

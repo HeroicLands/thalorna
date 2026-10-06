@@ -445,7 +445,7 @@ Yet those rare individuals who have penetrated his reserve report discovering un
 
 ### Motivation
 
-Dómeth is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to **Vénusia** and to the unspoken compact between craftsperson and world.
+Dómeth is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to **Ólvenía** and to the unspoken compact between craftsperson and world.
 
 A deeper motivation underlies this: Dómeth builds ships because they are permanent. In a world of flux and change, a well-built vessel can outlast nations, can be repaired and renewed for generations. In creating ships, he creates something that approaches immortality, and through these vessels, some fragment of himself will persist when he is dust.
 
@@ -475,7 +475,7 @@ Captain-Admiral Voren
 Lin'Zuwaret elu Aû'Khelâthu of Tarvénia's Harbor
 : A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
 
-Priestess-Keeper Maristela of Vénusia's Temple
+Priestess-Keeper Maristela of Ólvenía's Temple
 : The keeper of the ocean-goddess's temple considers Dómeth's work a form of worship and sees to it that the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
 ### Enemies
@@ -491,7 +491,7 @@ The Merchant's Association Reform Faction
 Coastal Shipwrights' Guild
 : Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
 
-The Keepers of Vénusia's Temple
+The Keepers of Ólvenía's Temple
 : Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
 
 ## Plot Hooks

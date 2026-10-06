@@ -1,6 +1,6 @@
 ---
 shortcode: blackflame
-name: {full: "Ritual: The Black Flame", aliases: [The Black Flame, Vúlcani Heresy]}
+name: {full: "Ritual: The Black Flame", aliases: [The Black Flame, Ústaran Heresy]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
