@@ -20,4 +20,5 @@ Gar-Irezu stands in the marshes of [[place-garanlghtslt|Gar-Anlaghet Selat]], a 
 
 ## See Also
 
-TBD.
+- [[place-garanlghtslt|Gar-Anlaghet Selat]]—The selat country that holds it
+- [[place-garanlaghet|Gar-Anlaghet]]—The port city of the selat
