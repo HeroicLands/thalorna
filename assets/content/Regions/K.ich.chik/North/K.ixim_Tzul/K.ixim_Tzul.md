@@ -26,7 +26,7 @@ data:
       - level: 2
         title: Commoner
         description: >-
-          Working the milpa and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
       - level: 3
         title: Craftsman
         description: >-
@@ -39,30 +39,30 @@ data:
         description: >-
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
-        title: Ajaw
-        description: A noble lord of the city, holding land, dependents and a place in the k'uhul ajaw's court.
+        title: K'anulmah
+        description: A noble lord of the city, holding land, dependents and a place in the K'inmah's court.
       - level: 7
-        title: Sahal
+        title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the k'uhul ajaw, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the K'inmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: K'uhul Ajaw
+        title: K'inmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      K'uhul Ajaw: >-
+      K'inmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ix Ajaw: >-
+      Ix'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Sahal: Subordinate lord holding a lesser center in the Holy Lord's name.
-      Ajaw: Noble lord of the city, holding land, dependents and a voice at court.
-      Ah K'in: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      Ah Ts'ib: >-
+      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
+      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
+      K'inbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
-      Nacom: War-leader appointed for a campaign, and set aside when it ends.
-      Batab: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ah Kulel: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      Ah Ppolom: >-
+      Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ch'umtz'aq: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
@@ -77,6 +77,7 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
+# terran_analog: the ranks and offices are the Classic Maya court: K'inmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, K'inbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'aq the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview

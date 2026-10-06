@@ -53,7 +53,7 @@ data:
       - level: 8
         title: Presiding K'ul Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Tz'uqal: >-
         Keeper of dreams—head of the branch, and the priest who carries a vision to the K'inmah when one bears on the city.

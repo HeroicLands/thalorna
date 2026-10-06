@@ -53,7 +53,7 @@ data:
       - level: 8
         title: Presiding K'ul Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Pu'itz: >-
         Master of Sacred Work—head of the branch, and almost always a master mason of long experience rather than a theologian.
@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [piqalkulqat]}}
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture
 
-Before time had a name, the world was chaos. P'iqal Kul'qat took clay and stone and obsidian, and she began to build. She raised mountains, carved canyons, dug cenotes, and built the firmament of the sky. Not once but five times—when previous ages ended and the structures crumbled back into chaos, P'iqal Kul'qat came again with her tools and knowledge, rebuilding creation anew, never quite the same, always better, always learning from what came before. The Fifth Age is her masterpiece, the culmination of four previous attempts. Yet her work is not finished, for she teaches that creation is never finished. Every pyramid raised by human hands is a participation in her ongoing cosmic work. She is the goddess of all intentional making—invoked by architects, mothers in labor, farmers breaking new ground, and craftspeople of every kind.
+Before time had a name, the world was chaos. P'iqal Kul'qat took clay and stone and obsidian, and she began to build. She raised mountains, carved canyons, dug sacred pools, and built the firmament of the sky. Not once but five times—when previous ages ended and the structures crumbled back into chaos, P'iqal Kul'qat came again with her tools and knowledge, rebuilding creation anew, never quite the same, always better, always learning from what came before. The Fifth Age is her masterpiece, the culmination of four previous attempts. Yet her work is not finished, for she teaches that creation is never finished. Every pyramid raised by human hands is a participation in her ongoing cosmic work. She is the goddess of all intentional making—invoked by architects, mothers in labor, farmers breaking new ground, and craftspeople of every kind.
 
 ## Worship
 
