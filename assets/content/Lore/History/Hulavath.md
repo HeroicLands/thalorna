@@ -1,20 +1,20 @@
 ---
 shortcode: valdum
-name: {full: Valdúm, aliases: [The Lost City of Valdúm]}
+name: {full: Hulavath, aliases: [The Lost City of Hulavath]}
 type: lore
 subType: history
-description: "Valdúm, the legendary Khazári city of the far north whose people delved too deep and loosed something that destroyed it, and the burnt fragment of a poem that hints where it lies."
+description: "Hulavath, the legendary Khazári city of the far north whose people delved too deep and loosed something that destroyed it, and the burnt fragment of a poem that hints where it lies."
 tags: [lore, legend]
 data: {packFolder: settinglore}
 ---
 
-**Valdúm** is a legend. It is told that Valdúm was an ancient city of the [[lore-flkkhazar|Khazári]], built somewhere in the far north, and that its people delved too deep. They broke into something better left sealed, and what they let out destroyed the city.
+**Hulavath** is a legend. It is told that Hulavath was an ancient city of the [[lore-flkkhazar|Khazári]], built somewhere in the far north, and that its people delved too deep. They broke into something better left sealed, and what they let out destroyed the city.
 
 That is the whole of the tale as it travels. Nobody has confirmed any part of it: not that the city stood, not that it fell, not what came out of the deep.
 
 ## Silence
 
-No Khazári will speak of Valdúm, whether the legend is true or not. A question about it is turned aside, and none of them hint at where the city lies.
+No Khazári will speak of Hulavath, whether the legend is true or not. A question about it is turned aside, and none of them hint at where the city lies.
 
 The legend names no direction beyond the far north and no range or coast, and every account that names one is a guess.
 

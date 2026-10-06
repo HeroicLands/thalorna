@@ -19,8 +19,8 @@ places with no business having them, tunnel-mouths too regular to be natural, an
 cloaked figure appearing at a market to buy specific materials, pay in worked metal of impossible
 quality, and leave without conversation.
 
-The name is Khazári and reached the island through one of those transactions. What it means has never
-been explained.
+Vorgald is the Aelwythan rendering of the Khazári **Varíg**, "farthest", a name that reached the island
+through one of those transactions.
 
 ## Getting There
 

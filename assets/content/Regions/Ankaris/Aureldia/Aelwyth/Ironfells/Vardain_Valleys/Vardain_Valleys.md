@@ -135,7 +135,7 @@ The principles were never given them. They were given the operation—this gate,
 that season—and the operation is all they hold. A Vardain can tell you exactly what to do with a
 conduit and cannot tell you why the conduit runs where it does, why it is that depth, or what would
 happen if it did not. When something breaks they do not attempt it: they report it up the mountain through
-[[place-barakth|Barakth]] and wait, and an engineer comes down in a day or a week and it is dealt with.
+[[place-barakth|Hudhakal]] and wait, and an engineer comes down in a day or a week and it is dealt with.
 
 **And it is dealt with**, which is the part outsiders get wrong when they hear how dependent these
 people are. The dependence runs both ways and the [[lore-flkkhazar|Khazári]] have no more margin than
@@ -166,7 +166,7 @@ economic purpose of the district.
 
 - [[place-vargate|Vargate]]—the town at the foot of the road to the Gate; fifteen hundred people, and
   the only place where Khazári goods enter human hands.
-- [[place-barakth|Barakth]], the oldest village and the tally-keepers.
+- [[place-barakth|Hudhakal]], the oldest village and the tally-keepers.
 - [[place-vellick|Vellick]], where the smiths are.
 - [[place-stonyhaugh|Stonyhaugh]], the quarry.
 - [[place-highfold|Highfold]], the summer pasture.

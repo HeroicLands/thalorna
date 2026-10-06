@@ -21,7 +21,7 @@ The Thâravárkon is the old carved script of the Vylari—angular, incised, and
 
 Vylaria did not abandon it. It kept the runes for everything meant to outlast the person who ordered it cut, and coined the [[skill-semrnscrpt|Sêmarion]] for everything else.
 
-Behind the Pelwar word stands an older and far more awkward question. The staves match Khazári [[skill-drthrkscrpt|Durthrak]] too well for coincidence, and the likeliest account has the **Proto-Pelwar themselves as Khazári subjects**, taught a reduced work-row in the mountains before the migrations—so that Thâravárkon is not a borrowing Vylaria made but one it inherited, already twice simplified, from ancestors who cut tallies for somebody else.
+Behind the Pelwar word stands an older and far more awkward question. The staves match Khazári [[skill-drthrkscrpt|Pirzath]] too well for coincidence, and the likeliest account has the **Proto-Pelwar themselves as Khazári subjects**, taught a reduced work-row in the mountains before the migrations—so that Thâravárkon is not a borrowing Vylaria made but one it inherited, already twice simplified, from ancestors who cut tallies for somebody else.
 
 Vylarian antiquarians have found parts of this congenial for reasons that have little to do with scholarship: it makes the imperial ceremonial script older than the empire, and it demotes the Nordmen claim to have received the runes from a god. The rest of it they handle very carefully indeed. An empire whose sacred letters descend from the tally-marks of a bound people, in the service of a race it has never conquered and cannot reach, is not a finding the Curia wishes published, and the two or three scholars who have put it plainly have found their careers proceeding no further.
 

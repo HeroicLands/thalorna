@@ -1,6 +1,6 @@
 ---
 shortcode: secondvoice
-name: {full: The Second Voice, aliases: [Vrekhal]}
+name: {full: The Second Voice, aliases: [Zughán]}
 type: miscgear
 description: "The relic that severs Grukar from their Ahks and commands them directly—the weapon that destroyed Khazártúrn, the cause of the sundering between the elder races, and lost at sea with six ships and every soul aboard on a crossing from Élavendre that never arrived."
 tags: [artifact]
@@ -11,7 +11,7 @@ sohl: {system: {weightBase: 2, valueBase: 0, durabilityBase: 20}}
 The **Second Voice** is the most dangerous object known to have existed on Thalorna. It has been missing
 for a very long time, and the two peoples who know what it is have spent that time not discussing it.
 
-The [[lore-flkkhazar|Khazári]] call it **Vrekhal**. The [[lore-flksinale|Sinalë]] do not name it aloud.
+The [[lore-flkkhazar|Khazári]] call it **Zughán**. The [[lore-flksinale|Sinalë]] do not name it aloud.
 
 ## Where It Came From
 
