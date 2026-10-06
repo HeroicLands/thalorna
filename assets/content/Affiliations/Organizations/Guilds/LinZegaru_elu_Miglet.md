@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A cooperative of the farming households of the northern selats, pooling harvests into shipments large enough to bargain with buyers directly.
     ranks:
       - level: 1
-        title: "Member"
+        title: Member Household
         description: >-
-          Belongs to a farming household participating in the cooperative's pooled grain shipments and direct bargaining with buyers.
+          A farming household whose harvest goes into the cooperative's pooled shipments.
     offices: {}
   seat: null
   domains: []

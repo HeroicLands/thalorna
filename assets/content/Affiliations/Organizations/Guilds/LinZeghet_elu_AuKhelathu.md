@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's hunters, licensing the taking of game and the handling of dangerous beasts, and setting the terms under which a hunter works a territory.
     ranks:
       - level: 1
-        title: "Member"
+        title: Licensed Hunter
         description: >-
-          Works as a hunter within the guild licensing the taking of game and the handling of dangerous beasts.
+          Holds the guild's license and works a territory on its terms and codes.
     offices: {}
   seat: null
   domains: []

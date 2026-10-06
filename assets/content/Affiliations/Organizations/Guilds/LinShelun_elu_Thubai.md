@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A collective of performers and artists working under the patronage of Thubâ'i, whose temple funds the work and takes a share of the acclaim. Membership is by invitation and is itself a mark of standing.
     ranks:
       - level: 1
-        title: "Member"
+        title: Artist of the Collective
         description: >-
-          Works as a performer or artist in the collective funded by Thubâ'i's temple in exchange for a share of its acclaim.
+          A musician, player or painter asked into the collective and funded by the temple.
     offices: {}
   seat: null
   domains: []

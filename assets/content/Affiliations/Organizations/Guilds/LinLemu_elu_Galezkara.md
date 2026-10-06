@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A mutual aid society of the capital's serving class, open to any household servant who pays into its common fund against sickness, dismissal and burial.
     ranks:
       - level: 1
-        title: "Member"
+        title: Contributor
         description: >-
-          Participates in the servants' mutual aid society, pooling funds against sickness, dismissal and burial.
+          Pays into the common fund and draws on it when sickness, dismissal or a burial comes.
     offices: {}
   seat: null
   domains: []

@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The blacksmiths of the capital, distinct from the imperial guild and answering to their own masters and to the city's magistrates.
     ranks:
       - level: 1
-        title: "Member"
+        title: Smith
         description: >-
-          Practices blacksmithing within Galezkara's guild, making tools, fittings and building ironwork.
+          Takes the ordinary smithing of the capital—tools, fittings and ironwork for building.
+      - level: 2
+        title: Master
+        description: >-
+          One of the masters the city's smiths answer to, rather than to the imperial guild.
     offices: {}
   seat: null
   domains: []

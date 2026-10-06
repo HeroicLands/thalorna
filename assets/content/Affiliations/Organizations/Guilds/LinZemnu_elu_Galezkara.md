@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The masters of the capital's crafts gathered into one body with authority over all of them. It alone decides what may be called master-work, and its elders sit as the council that arbitrates disputes and keeps the standards of the trade.
     ranks:
       - level: 1
-        title: "Member"
+        title: Craftsmaster
         description: >-
-          Participates as a craft master in Galezkara's consortium determining what may be called master-work.
+          A master of one of the capital's crafts, admitted to the consortium.
+      - level: 2
+        title: Elder
+        description: >-
+          Sits on the council that arbitrates disputes and maintains standards across the crafts.
     offices: {}
   seat: null
   domains: []

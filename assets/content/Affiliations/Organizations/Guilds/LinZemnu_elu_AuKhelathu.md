@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's artisans, spanning every craft without a guild of its own, glad of its finest members' prestige and disapproving of their methods.
     ranks:
       - level: 1
-        title: "Member"
+        title: Artisan
         description: >-
-          Practices a craft within the broad guild of artisans whose trades have no separate guild of their own.
+          Practices a craft that has no guild of its own, and holds the guild's good standing.
     offices: {}
   seat: null
   domains: []

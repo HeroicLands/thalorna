@@ -11,13 +11,18 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: autocracy
+    summary: >-
+      A small company gathered around the astrologer who founded it, held together by the prophecy she read in the stars rather than by its trade, and guarding her reputation closely.
     ranks:
       - level: 1
-        title: "Member"
+        title: Companion
         description: >-
-          Belongs to the company gathered around its astrologer founder and the prophecy she read in the stars.
+          Came to the founder for counsel and stayed, keeping the prophecy within the company's own walls.
+      - level: 2
+        title: Founder
+        description: >-
+          The astrologer the company is gathered around, whose reading of the stars binds it.
     offices: {}
   seat: null
   domains: []

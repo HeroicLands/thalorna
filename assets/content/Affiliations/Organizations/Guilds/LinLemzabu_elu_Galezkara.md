@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      A loose association of the stewards who run the great houses of the capital, meeting away from their employers to compare suppliers, wages and the handling of masters.
     ranks:
       - level: 1
-        title: "Member"
+        title: Steward
         description: >-
-          Participates as a household steward in the association exchanging knowledge of suppliers, wages and household management.
+          Runs a great house of the capital, and shares what the work has taught with the others.
     offices: {}
   seat: null
   domains: []

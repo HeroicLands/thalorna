@@ -11,14 +11,19 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's scribes, which sets the hands a document must be written in and examines every pupil before certifying them. It holds the Imperial Library under its hand.
     ranks:
       - level: 1
-        title: "Member"
+        title: Zethu
         description: >-
-          Practices as a guild-certified scribe, producing documents in the hands accepted by the imperial administration.
-    offices: {}
+          A scribe examined and certified by the guild, whose documents a court or a ministry treats as the original record.
+    offices:
+      Examiner: >-
+        Examines the pupils who come before the guild for certification.
+      Keeper of Lut-Zethu: >-
+        Holds the Imperial Library for the guild and grants or refuses a reader's permission.
   seat: null
   domains: []
   population: 0

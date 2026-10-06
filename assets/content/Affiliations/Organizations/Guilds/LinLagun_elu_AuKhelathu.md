@@ -11,13 +11,14 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: council
+    summary: >-
+      The chartered guild of the empire's timber trade, uniting loggers, haulers and timber-merchants. It sets the standard a first-quality shipment must meet, and its members dispute what that standard means.
     ranks:
       - level: 1
-        title: "Member"
+        title: Timberwright
         description: >-
-          Works in the timber trade as one of the guild's loggers, haulers or timber-merchants.
+          A logger, hauler or timber-merchant of the guild, working to its disputed standard.
     offices: {}
   seat: null
   domains: []
