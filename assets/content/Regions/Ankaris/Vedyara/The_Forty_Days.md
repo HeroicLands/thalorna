@@ -8,7 +8,13 @@ tags: [draft]
 data:
   culture: vedyariclt
   form: chronicle
-  subjects: [rajaprjnpd, rajapur, palacecellar, rajavalilib, shitakoshtha, sandstonealtr]
+  subjects:
+    - affiliation-rajaprjnpd
+    - place-rajapur
+    - place-palacecellar
+    - place-rajavalilib
+    - place-shitakoshtha
+    - place-sandstonealtr
   language: vedyarlng
   packFolder: vedyara
 ---

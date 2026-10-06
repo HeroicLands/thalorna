@@ -9,13 +9,13 @@ data:
   culture: vedyariclt
   form: recitation
   subjects:
-    - rajaprjnpd
-    - rajapur
-    - sandstonealtr
-    - palacecellar
-    - rajavalilib
-    - recitationroll
-    - vyalendradty
+    - affiliation-rajaprjnpd
+    - place-rajapur
+    - place-sandstonealtr
+    - place-palacecellar
+    - place-rajavalilib
+    - miscgear-recitationroll
+    - lore-vyalendradty
   language: vedyarlng
   packFolder: vedyara
 ---

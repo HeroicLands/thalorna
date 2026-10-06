@@ -9,7 +9,11 @@ data:
   packFolder: politiesnyaluba
   culture: nyalubaclt
   form: recital and story
-  subjects: [nylbtrblntn, nyalbeagl, eaglengonzispr, nyalbcroc]
+  subjects:
+    - affiliation-nylbtrblntn
+    - affiliation-nyalbeagl
+    - lore-eaglengonzispr
+    - affiliation-nyalbcroc
   language: nyalbnlng
 ---
 

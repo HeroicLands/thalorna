@@ -9,7 +9,7 @@ data:
   packFolder: politiesnyaluba
   culture: nyalubaclt
   form: memory-song
-  subjects: [nylbtrblntn, nyalblion, lionmvuzispr]
+  subjects: [affiliation-nylbtrblntn, affiliation-nyalblion, lore-lionmvuzispr]
   language: nyalbnlng
 ---
 
