@@ -51,7 +51,7 @@ jobs:
             # this repository has no test harness, and introducing one to assert
             # one constant would be the larger change.
             - name: Assert the deployment root's headers
-              run: node --test 'utils/*.test.mjs'
+              run: node --test 'utils/**/*.test.mjs'
 
             - name: Setup Hugo
               uses: peaceiris/actions-hugo@v3
