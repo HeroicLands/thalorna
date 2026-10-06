@@ -3,12 +3,12 @@ shortcode: bjartrdty
 name: {full: Bjartr, aliases: []}
 type: lore
 subType: deity
-description: "The Bright among the Asguardian gods, the northern face of the God of Dreams, holding light, vision and the elder races."
+description: "The Radiant One among the Asguardian gods, the northern face of the God of Dreams, holding light, vision and the elder races."
 tags: []
 data: {packFolder: deitiesasguardian}
 ---
 
-_**The Bright**—sunstone and silver leaf, a light older than the north and only lately theirs to keep._
+_**The Radiant One**—sunstone and silver leaf, a light older than the north and only lately theirs to keep._
 
 A Calathir who tends a grove in **Vithgard**'s long winter dark gives the one account of **Bjartr** every other faith of the **Ten** is missing: he is not a Nordman god who happened to answer northern prayers, but [[lore-goddreams|the God of Dreams]], worshipped by the **Sinalë** and the **Khazári** since before humankind existed, met by northern seers under a name of their own coining. "The other nine gods are ours in a way I cannot claim for him," she says. "We did not make him. We were let in."
 

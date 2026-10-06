@@ -9,7 +9,7 @@ data:
   icon: bjartr
   templatePriority: null
   demonym: null
-  epithet: null
+  epithet: The Radiant One
   symbol: null
   governance:
     model: council

@@ -368,7 +368,7 @@ Mirvrinna stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pou
 
 Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from **Fródvin**, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
 
-The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of Hjartaland, where Fródvin himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fródvin's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
+The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of **Vyldvangr**, where Fródvin himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fródvin's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
 
 ## Psyche
 
@@ -382,7 +382,7 @@ Mirvrinna's goal is simple and profound: to ensure that no one goes hungry. She 
 
 ### Strengths
 
-Mirvrinna's agricultural knowledge combines practical expertise with divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Hjartaland gave her the ability to call rain once per season, a power she uses sparingly and only in genuine emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
+Mirvrinna's agricultural knowledge combines practical expertise with divine blessing; crops she tends grow faster, stronger, and more abundant. She can sense the health of soil and diagnose blight before it becomes visible. Her standing at the stones of Vyldvangr gave her the ability to call rain once per season, a power she uses sparingly and only in genuine emergencies. Her practical skills make her invaluable to any settlement, and her network of farming communities gives her access to food, shelter, and information across the north.
 
 ## Social
 
@@ -390,7 +390,7 @@ Mirvrinna's agricultural knowledge combines practical expertise with divine bles
 
 ### Patrons
 
-**The Standing Stones of Hjartaland**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
+**The Standing Stones of Vyldvangr**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
 
 **The Northern Farmers' Alliance**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: brldsldsnsblsng
-name: {full: Brildselda Sunna's Blessing, given: Brildselda, aliases: [Sunna's Blessing]}
+name: {full: Brildselda Sun-Blessed, given: Brildselda, aliases: [Sun-Blessed]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, clergy]
@@ -362,13 +362,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Brildselda stands 5'6" with a medium, graceful frame, weighing about 140 pounds. Her fair skin has a warm, radiant quality, as though lit faintly from within, and her red hair falls in loose waves past her shoulders, catching the light like copper. Her green eyes are gentle and perceptive, the kind that notice suffering before it is spoken. Her features are soft and pleasant, with a round face, a scattering of freckles across a small nose, full lips quick to offer comfort, and delicate brows that arch expressively. Her hands bear the gentle calluses of an herbalist, stained faintly green from years of working with plants and poultices. Brildselda dresses in layered robes of warm gold and cream, with a healer's satchel at her hip stuffed with dried herbs, bandages, and small clay vials. A crystal phial of sacred water from Blómstjarna hangs from a cord at her neck, catching the light with an inner radiance.
+Brildselda stands 5'6" with a medium, graceful frame, weighing about 140 pounds. Her fair skin has a warm, radiant quality, as though lit faintly from within, and her red hair falls in loose waves past her shoulders, catching the light like copper. Her green eyes are gentle and perceptive, the kind that notice suffering before it is spoken. Her features are soft and pleasant, with a round face, a scattering of freckles across a small nose, full lips quick to offer comfort, and delicate brows that arch expressively. Her hands bear the gentle calluses of an herbalist, stained faintly green from years of working with plants and poultices. Brildselda dresses in layered robes of warm gold and cream, with a healer's satchel at her hip stuffed with dried herbs, bandages, and small clay vials. A crystal phial of sacred water from **Fródfjall** hangs from a cord at her neck, catching the light with an inner radiance.
 
 # Dossier {#dossier}
 
-Brildselda was born during a solar eclipse, a sign of both great power and great responsibility. Her mother, a priestess of Fródvin, believed that Brildselda was chosen by the god to be a healer and bringer of light. As a child, Brildselda was taught the ways of healing, learning to use herbs, chants, and rituals to cure the sick and soothe the wounded. Her touch was said to bring warmth and life, and as she grew, she became known as Sunna's Blessing, a name that reflected her radiant presence. Brildselda dedicated her life to serving Fródvin by healing both people and the land.
+Brildselda was born during a solar eclipse, a sign of both great power and great responsibility. Her mother, a priestess of Fródvin, believed that Brildselda was chosen by the god to be a healer and bringer of light. As a child, Brildselda was taught the ways of healing, learning to use herbs, chants, and rituals to cure the sick and soothe the wounded. Her touch was said to bring warmth and life, and as she grew, she became known as the Sun-Blessed, a name that reflected her radiant presence. Brildselda dedicated her life to serving Fródvin by healing both people and the land.
 
-The saga of Brildselda Sunna's Blessing tells of her quest to heal a land blighted by war. After a long and bloody conflict, the once fertile fields had turned to ash and the rivers ran dry. Brildselda embarked on a perilous journey to the sacred mountain of Blómstjarna, where the waters of life were said to flow from the earth itself. Upon reaching the summit, she discovered the sacred waters guarded by a powerful spirit of the mountain. The spirit tested her resolve, and Brildselda, with humility and wisdom, offered her own life in exchange for the renewal of the land. Moved by her selflessness, the spirit allowed Brildselda to take the waters without harm. She returned to restore the land, and the fields bloomed once more.
+The saga of Brildselda Sun-Blessed tells of her quest to heal a land blighted by war. After a long and bloody conflict, the once fertile fields had turned to ash and the rivers ran dry. Brildselda embarked on a perilous journey to the sacred mountain of Fródfjall, where the waters of life were said to flow from the earth itself. Upon reaching the summit, she discovered the sacred waters guarded by a powerful spirit of the mountain. The spirit tested her resolve, and Brildselda, with humility and wisdom, offered her own life in exchange for the renewal of the land. Moved by her selflessness, the spirit allowed Brildselda to take the waters without harm. She returned to restore the land, and the fields bloomed once more.
 
 ## Psyche
 
@@ -382,7 +382,7 @@ Brildselda seeks to heal not just individuals but the deep wounds that war and h
 
 ### Strengths
 
-Brildselda's healing abilities are extraordinary, combining deep knowledge of herblore and medicine with a divine blessing that accelerates natural healing. She can purify tainted water and soil, and her presence seems to encourage growth in plants and calm in animals. Her reputation as a healer grants her safe passage even through hostile territories, as most warriors fear harming a healer of her renown. She carries sacred water from Blómstjarna that retains some of its restorative power.
+Brildselda's healing abilities are extraordinary, combining deep knowledge of herblore and medicine with a divine blessing that accelerates natural healing. She can purify tainted water and soil, and her presence seems to encourage growth in plants and calm in animals. Her reputation as a healer grants her safe passage even through hostile territories, as most warriors fear harming a healer of her renown. She carries sacred water from Fródfjall that retains some of its restorative power.
 
 ## Social
 
@@ -390,7 +390,7 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 ### Patrons
 
-**The Temple of Fródvin at Blómstjarna**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
+**The Temple of Fródvin at Fródfjall**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
 
 **The Widows' Circle**—An informal network of women across the northern settlements who have lost family to war. They shelter and supply Brildselda during her travels in exchange for her healing services.
 
@@ -404,6 +404,6 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 1. **The Plague Bearer**—A mysterious illness is spreading through the northern settlements, and Brildselda's healing powers are the only thing slowing its advance. The disease has an unnatural origin, and tracking it to its source will require venturing into dangerous territory.
 
-2. **The Corrupted Waters**—The sacred waters of Blómstjarna have been poisoned, and the temple's healing power is fading. Brildselda must ascend the mountain again and confront whatever force has tainted the source.
+2. **The Corrupted Waters**—The sacred waters of Fródfjall have been poisoned, and the temple's healing power is fading. Brildselda must ascend the mountain again and confront whatever force has tainted the source.
 
 3. **The Healer's Dilemma**—A notorious war criminal lies dying, and only Brildselda can save him. Healing him would infuriate his many victims; letting him die would betray her oath as a healer. The situation is further complicated by what the criminal knows about an impending attack.
