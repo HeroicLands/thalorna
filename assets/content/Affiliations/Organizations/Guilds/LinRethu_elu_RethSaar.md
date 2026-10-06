@@ -36,16 +36,17 @@ Lin'Rethu elu Reth'Sa'âr is the collective of scholars attached to [[affiliatio
 
 ## Character
 
-TBD.
+The collective is guarded and deliberate. It keeps the temple's deeper texts apart from the general archive and decides case by case who may read them. A scholar it refuses has no other route to the material.
 
 ## Relations
 
-TBD.
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple that certifies its scholars and defers to the collective on access.
 
 ## Commerce and Currency
 
-TBD.
+Access to the deeper texts is the collective's to grant, and the temple defers to its judgment on every request.
 
 ## See Also
 
-TBD.
+- [[lore-rethsaardty|Reth'Sa'âr]]—The god of knowledge the temple serves
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple the collective is attached to

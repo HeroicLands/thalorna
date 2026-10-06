@@ -42,16 +42,17 @@ Lin'Zaglu elu Aû'Khelâthu is the chartered guild of the makers of figures and 
 
 ## Character
 
-TBD.
+The guild is meticulous and craft-proud. It teaches carving, jointing and the small clockwork that moves a figure's limbs, raises an apprentice to full membership only on the funerary figure every apprentice must produce, and keeps a committee over the quality of the work. The trade is thought slightly unlucky on account of that figure.
 
 ## Relations
 
-TBD.
+- Customers—Attach the trade's funerary side to the guild's name, and prefer that it stay out of sight.
 
 ## Commerce and Currency
 
-TBD.
+The funerary figure is the trade's craft-word piece, and the guild's standards committee sets the quality the guild's work must meet.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's charter covers
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -36,16 +36,17 @@ Lin'Shelun elu Thubâ'i is a collective of performers and artists working under 
 
 ## Character
 
-TBD.
+The collective is prestigious and beholden. It asks musicians, actors and painters in by invitation, and its temple funds their work and takes a share of the acclaim. Membership is itself a mark of standing, and it carries the temple's claim on a member's reputation.
 
 ## Relations
 
-TBD.
+- [[affiliation-lutthubai|Lut-Thubâ'i]]—Funds the collective's work and shares in its acclaim.
 
 ## Commerce and Currency
 
-TBD.
+The temple of Thubâ'i funds the collective's work in exchange for a share of whatever acclaim it earns.
 
 ## See Also
 
-TBD.
+- [[lore-thubaidty|Thubâ'i]]—The god whose patronage the collective works under
+- [[affiliation-lutthubai|Lut-Thubâ'i]]—The temple that funds the collective

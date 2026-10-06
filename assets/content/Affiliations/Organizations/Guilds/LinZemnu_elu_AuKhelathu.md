@@ -36,16 +36,17 @@ Lin'Zemnu elu Aû'Khelâthu is the chartered guild of artisans across [[place-au
 
 ## Character
 
-TBD.
+The guild is broad and ambivalent. It spans every craft that has no guild of its own, takes pride and prestige from its finest members, and disapproves of most of the methods that earn them their reputations. It wants the acclaim without the risk.
 
 ## Relations
 
-TBD.
+- Its finest members—Supply the guild's prestige, and the methods the guild disapproves of.
 
 ## Commerce and Currency
 
-TBD.
+The guild's prestige rests on the reputations of its finest artisans, and the commissions that build those reputations are earned by methods the guild does not endorse.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's membership spans
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

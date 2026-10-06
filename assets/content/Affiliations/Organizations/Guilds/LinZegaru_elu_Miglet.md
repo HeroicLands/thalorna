@@ -36,16 +36,17 @@ Lin'Zegaru elu Miglet is a cooperative of farming households across the northern
 
 ## Character
 
-TBD.
+The cooperative is collective and independent. Farming households pool their harvests so that they can bargain with buyers directly, and they have cut the factor out of the sale entirely. The households that remain outside sell at the factor's price.
 
 ## Relations
 
-TBD.
+- The factors—Are cut out of the sale of the cooperative's grain.
+- Buyers—Bargain directly with the cooperative over its pooled shipments.
 
 ## Commerce and Currency
 
-TBD.
+The cooperative pools harvests into shipments large enough to bargain with buyers directly, and a household that stays outside sells at the factor's price.
 
 ## See Also
 
-TBD.
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

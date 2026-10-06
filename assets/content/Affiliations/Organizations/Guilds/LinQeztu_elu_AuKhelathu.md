@@ -36,16 +36,17 @@ Lin'Qeztu elu Aû'Khelâthu is the chartered body that regulates paid soldiering
 
 ## Character
 
-TBD.
+The guild is businesslike and accountable. It regulates paid soldiering, holds its fighters to its terms of hire, and vouches for their standing and conduct to whoever is hiring. Its charter exists to remove the risk of taking a soldier on trust alone.
 
 ## Relations
 
-TBD.
+- Employers—Hire contract soldiers through the guild in place of levied troops.
 
 ## Commerce and Currency
 
-TBD.
+The guild places its members with employers who need contract soldiers on its terms of hire, and its vouching is what the hire is made against.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire whose paid soldiering the guild regulates
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

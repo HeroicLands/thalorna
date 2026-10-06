@@ -36,16 +36,17 @@ Lin'Zuwaret elu Galezkara, the Merchants' Circle, is an informal association of 
 
 ## Character
 
-TBD.
+The circle is informal and mutual. Independent traders meet outside any guild hall to share prices, routes and buyers, and coordinate when a larger house threatens to undercut or absorb one of them. A trader outside it negotiates alone against houses that can outlast a bad season.
 
 ## Relations
 
-TBD.
+- The larger commercial houses—Are the party the circle coordinates against.
 
 ## Commerce and Currency
 
-TBD.
+Members share information on prices, routes and buyers, and act together when a larger house threatens to undercut or absorb one of their number.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city the circle's traders work in
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

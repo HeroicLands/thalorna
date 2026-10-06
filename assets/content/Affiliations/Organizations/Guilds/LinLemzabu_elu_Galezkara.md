@@ -36,16 +36,17 @@ Lin'Lemzabu elu Galezkara is an association of the stewards who run the great ho
 
 ## Character
 
-TBD.
+The association is discreet and practical. Its stewards meet away from their employers to trade what the work has taught them, from reliable suppliers to fair wages to the handling of a master who cannot be told anything. A newly appointed steward who joins takes on years of that shared practice at once.
 
 ## Relations
 
-TBD.
+- The great houses—Employ the stewards, who meet away from them.
 
 ## Commerce and Currency
 
-TBD.
+Members compare suppliers and wages for household staff, so the prices the great houses of [[place-galezkara|Galezkara]] pay are known to the people who arrange them.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose great houses its stewards run
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -36,16 +36,17 @@ Lin'Zethu elu Galezkara is a consortium of scribes working in [[place-galezkara|
 
 ## Character
 
-TBD.
+The consortium is discreet and independent of the temple schools. It takes private commissions the schools will not touch, and its clients pay for discretion as much as for the hand. A scribe who breaks a confidence is unlikely to be commissioned again by those clients.
 
 ## Relations
 
-TBD.
+- The temple schools—The consortium works outside them and takes the commissions they refuse.
 
 ## Commerce and Currency
 
-TBD.
+A private commission pays for confidential copying, and the consortium guards that trade closely.
 
 ## See Also
 
-TBD.
+- [[affiliation-lutrethsaar|Lut-Reth'Sa'âr]]—The temple whose schools the consortium works outside
+- [[place-galezkara|Galezkara]]—The city the consortium works in

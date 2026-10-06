@@ -44,16 +44,17 @@ Lin'Melnu elu Aû'Khelâthu is the chartered guild of metalworkers across [[plac
 
 ## Character
 
-TBD.
+The guild is conservative and jealous of what it inherited. It trains smiths in the practice of the forge-companies that preceded its charter, certifies work against that practice, and withdraws certification from a smith who departs from it without its sanction.
 
 ## Relations
 
-TBD.
+- The ancient forge-companies—The guild is their acknowledged heir, and its standards descend from theirs.
 
 ## Commerce and Currency
 
-TBD.
+Certification is the commodity: a piece is sold as guild-standard only once the guild has certified it, and a smith struck from the roll loses the certification that makes work sellable.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's charter covers
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

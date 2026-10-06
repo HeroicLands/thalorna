@@ -36,16 +36,17 @@ Lin'Lutgar elu Galezkara is the association of innkeepers of [[place-galezkara|G
 
 ## Character
 
-TBD.
+The association is watchful and stubborn. Its innkeepers share what they learn of the travelers who pass through, an informal intelligence network that serves each house better than it could serve itself alone. They are united in refusing to sell.
 
 ## Relations
 
-TBD.
+- The merchant houses—Would rather own the capital's inns outright, and meet the association's shared refusal to sell.
 
 ## Commerce and Currency
 
-TBD.
+The association's defense against a merchant house's offer to buy an inn outright is the shared refusal of its members to sell.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose inns its members keep
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

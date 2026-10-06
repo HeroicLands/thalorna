@@ -36,16 +36,17 @@ Lin'Melnu-Qenuwa elu Galezkara is the consortium of goldsmiths of [[place-galezk
 
 ## Character
 
-TBD.
+The consortium is exacting and protective of its standards. It admits only smiths whose work is judged fit for temple and tomb, and it scrutinizes a smith whose work has failed a temple's inspection. Its work leaves no room for a careless hand.
 
 ## Relations
 
-TBD.
+- The temples and necropoli of [[place-galezkara|Galezkara]]—Consume the gilded fittings and funerary gold the consortium supplies, and inspect the work.
 
 ## Commerce and Currency
 
-TBD.
+The consortium supplies the gilded fittings and funerary gold the city's temples and necropoli consume in quantity, and a failed temple inspection brings its own review of the smith.
 
 ## See Also
 
-TBD.
+- [[affiliation-linmelnglzkr|Lin'Melnu elu Galezkara]]—The blacksmiths of the same city
+- [[place-galezkara|Galezkara]]—The city the consortium works in

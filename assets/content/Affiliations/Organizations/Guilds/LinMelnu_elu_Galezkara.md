@@ -40,16 +40,18 @@ Lin'Melnu elu Galezkara is the guild of blacksmiths working in [[place-galezkara
 
 ## Character
 
-TBD.
+The guild is local and self-governing. Its smiths answer to their own masters and to the city's magistrates, take the ordinary ironwork a capital needs, and stand apart from the imperial guild's authority.
 
 ## Relations
 
-TBD.
+- [[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]—The empire-wide metalworkers' guild, which shares the trade but not the authority.
+- The city's magistrates—Hold authority over the guild where the imperial guild's charter does not reach.
 
 ## Commerce and Currency
 
-TBD.
+The guild's trade is the ordinary smithing of the capital, tools, fittings and ironwork for building, rather than certified masterwork.
 
 ## See Also
 
-TBD.
+- [[affiliation-linmelnkhlth|Lin'Melnu elu Aû'Khelâthu]]—The imperial guild of metalworkers
+- [[place-galezkara|Galezkara]]—The city the guild works in

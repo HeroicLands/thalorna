@@ -36,16 +36,17 @@ Lin'Zeghet elu Aû'Khelâthu is the chartered guild of hunters across [[place-au
 
 ## Character
 
-TBD.
+The guild is regulatory and territorial. It licenses the taking of game and the handling of dangerous beasts, and it sets the terms under which a hunter works a given territory so that two hunters rarely chase the same ground under conflicting claims. Its license is the assurance that a hunter has answered to someone for the methods used.
 
 ## Relations
 
-TBD.
+- Those who hire hunters for dangerous beasts—Check the guild's license first.
 
 ## Commerce and Currency
 
-TBD.
+Licensing is the guild's trade: a hunter works a territory on the guild's license and terms, and a client hiring for a dangerous beast checks it first.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire the guild's licenses cover
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

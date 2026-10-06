@@ -40,16 +40,17 @@ Lin'Zamlu elu Aû'Khelâthu is the chartered guild of musicians and singers acro
 
 ## Character
 
-TBD.
+The guild is open and loosely held. Any performer who pays its dues may claim it, and its members invoke it constantly as a credential while attending its own meetings only sporadically. A recommendation from one of its masters is nonetheless honored across the empire.
 
 ## Relations
 
-TBD.
+- Hiring patrons—Check a musician's claimed membership against the guild's roll, and find it confirmed more often than attendance suggests.
 
 ## Commerce and Currency
 
-TBD.
+Dues are the price of belonging, and the guild's name serves its members as a credential before an audience or a patron.
 
 ## See Also
 
-TBD.
+- [[place-aukhelathrgq|Aû'Khelâthu]]—The empire across which a master's recommendation carries
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

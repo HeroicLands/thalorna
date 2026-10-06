@@ -40,16 +40,17 @@ Lin'Zemnu elu Galezkara, the Craftsmasters' Consortium, gathers the masters of [
 
 ## Character
 
-TBD.
+The consortium is proud and sensitive to criticism. It holds sole authority over what may be called master-work, a designation that sets a piece's price far above ordinary output, and it resents public criticism of its members' methods. Its elders arbitrate disputes and keep the standards of the trade.
 
 ## Relations
 
-TBD.
+- The crafts of [[place-galezkara|Galezkara]]—Fall under the consortium's authority, each through its master.
 
 ## Commerce and Currency
 
-TBD.
+The consortium alone decides what may be sold as master-work, which sets the price a piece can command far above ordinary craft output.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city whose crafts it governs
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

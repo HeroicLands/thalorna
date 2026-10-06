@@ -36,16 +36,17 @@ Lin'Rethu elu Galezkara, the Scholars' Circle, gathers the learned of [[place-ga
 
 ## Character
 
-TBD.
+The circle is open-minded and independent. Its scholars, liberal merchants and teachers find the temple schools too narrow, commission their own lectures and seminars, and fund the study the temples pass over. Its members judge for themselves what is worth pursuing.
 
 ## Relations
 
-TBD.
+- The temple schools—Dismiss the work the circle funds.
 
 ## Commerce and Currency
 
-TBD.
+The circle's funding pays for the lectures, seminars and stipends it commissions, directed at work the temples do not recognize.
 
 ## See Also
 
-TBD.
+- [[place-galezkara|Galezkara]]—The city the circle meets in
+- [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms
