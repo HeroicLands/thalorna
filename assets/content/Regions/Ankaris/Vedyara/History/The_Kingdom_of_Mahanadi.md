@@ -120,7 +120,7 @@ The people of the villages went to the senior priest of the Vyālendra temple an
 
 The villages became the Rājapur Janapada, and one family has kept the Memory-Keeper's office since the decree. Its holder opens every session of the sabhā by reciting the kings, and on the **Day of the Dissolution** each year the whole town hears the history and the decree read through and renews its compact with a cup of river water. Rājapur has kept no soldiers since.
 
-The dissolution did not stay in Rājapur. Every Vedyari course in political philosophy teaches it as the classical case of a janapada that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rājapuri scholar [[being-anrjhrdvmbjkr|Anuraja Harsadevambujakar]] writes to the kingdoms urging that it should, from [[affiliation-chandrapur|Chandrapur]], and the kingdoms have asked Chandrapur to expel him. Chandrapur has declined.
+The dissolution did not stay in Rājapur. Every Vedyari course in political philosophy teaches it as the classical case of a janapada that replaced a kingdom, and the library's correspondence shelf holds sixty years of letters about whether it should be done again. The Rājapuri scholar [[being-anrjhrdvmbjkr|Anûraja Harshadēvāmbujakar]] writes to the kingdoms urging that it should, from [[affiliation-chandrapur|Chandrapur]], and the kingdoms have asked Chandrapur to expel him. Chandrapur has declined.
 
 ## See Also
 

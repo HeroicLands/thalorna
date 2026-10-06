@@ -12,10 +12,12 @@ import {
     analyse,
     attestedNames,
     builtForm,
+    callingNames,
     join,
     ruleFrom,
     soundProblems,
     suffixed,
+    syllables,
 } from "./vedyari-lexicon.mjs";
 
 const note = fs.readFileSync(NOTE, "utf8");
@@ -218,4 +220,78 @@ test("a listed name that breaks a sound rule is a warning on the language page",
 test("the scholars' spelling is read before the rules apply", () => {
     const broken = edited("### Clan Names\n\n", "### Clan Names\n\n- Kṣemaṇa\n", note);
     assert(!warningsOf(lexicon, broken).some((text) => text.includes("Kṣemaṇa")));
+});
+
+test("a syllable is counted by its vowel, a vowel r included", () => {
+    assert.equal(syllables("Padmàvali", rule), 4);
+    assert.equal(syllables("Prthîmâja", rule), 4);
+    assert.equal(syllables("Chandrakīrtisundarī", rule), 7);
+    assert.equal(syllables("Nárava", rule), 3);
+});
+
+test("a calling name is cut before the second or third vowel, or doubles the first syllable", () => {
+    const ways = callingNames("Rāmachandra", rule);
+    assert.equal(ways.get("rāmu"), "man");
+    assert.equal(ways.get("rāmachi"), "woman");
+    assert(ways.has("rārā"));
+    assert.equal(callingNames("Padmàvali", rule).get("padmi"), "woman");
+    // A vowel r is spoken ri in a calling name.
+    assert(callingNames("Drkshàrana", rule).has("driksha"));
+    assert(!callingNames("Drkshàrana", rule).has("drksha"));
+    assert(callingNames("Prthîmâja", rule).has("prithu"));
+    assert(callingNames("Suvaratika", rule).has("susu"));
+    // A name that opens on a vowel has no doubled form.
+    assert(![...callingNames("Anûraja", rule).keys()].includes("aa"));
+    assert(!callingNames("Padmàvali", rule).has("padu"));
+});
+
+test("a calling name the rule does not cut from the given name is an error", () => {
+    const line = registerLine("Padmi");
+    const broken = edited(line, line.replace("**Padmi**", "**Padu**"));
+    assert(
+        errorsOf(broken).some((text) =>
+            text.includes("**Padu** is not a calling name the rule cuts from Padmàvali"),
+        ),
+    );
+});
+
+test("a calling name whose cell names another given name, or on a note with none, is an error", () => {
+    const line = registerLine("Padmi");
+    assert(
+        errorsOf(edited(line, line.replace("`Padmàvali`", "`Pallàvi`"))).some((text) =>
+            text.includes('**Padmi** is cut from "Pallàvi"'),
+        ),
+    );
+    assert(
+        errorsOf(edited(line, line.replace("[[being-pdmvldhnrvdkrtrj", "[[place-marukupa"))).some(
+            (text) => text.includes("[[place-marukupa]] has no given name"),
+        ),
+    );
+});
+
+test("a long given name with no calling name is an error on the being", () => {
+    const line = registerLine("Padmi");
+    const errors = errorsOf(edited(`${line}\n`, ""));
+    assert(
+        errors.some(
+            (text) =>
+                text.includes("Padmavali_Dhanurvedakirtiraja.md") &&
+                text.includes("[[being-pdmvldhnrvdkrtrj]] carries no calling name"),
+        ),
+    );
+});
+
+test("a calling name closing as the other gender's is a warning", () => {
+    const line = registerLine("Padmi");
+    const swapped = edited(line, line.replace("**Padmi**", "**Padmu**"));
+    assert(
+        warningsOf(swapped).some((text) =>
+            text.includes("**Padmu** closes as a man's calling name"),
+        ),
+    );
+});
+
+test("the calling-name rule must be stated", () => {
+    const { problems } = ruleFrom(note, edited("### Calling names", "### Short names"));
+    assert(problems.some((text) => text.includes('"### Calling names"')));
 });
