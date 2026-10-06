@@ -35,7 +35,7 @@ living politics.
 
 ## Nine Nights Down
 
-A Brunvik tale follows a woman who went down after her dead husband and brought him home. At first he
+A [[place-hvalgvik|Hvalgvík]] tale follows a woman who went down after her dead husband and brought him home. At first he
 remembered her; soon he forgot names and grew hungry. The tale says a Green Warden ended what she had
 brought back. It is told as a warning about trying to reclaim someone from [[affiliation-nahild|Náhild]],
 whose silence offers no bargain. No road beneath the hills or method of return is established by the

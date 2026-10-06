@@ -168,6 +168,91 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 - **"Tvau skip, ein ferd."**—"Two ships, one voyage." (The dual _tvau_, said of two people who answer for one another.)
 - **"Stóraldit lifir í steini ok í minni."**—"The saga lives in stone and in memory." (Two datives in parallel; _minni_ is memory recited, not memory written.)
 
+## Vocabulary
+
+A skald teaching you the tongue starts with the words a hall cannot do without: the words of its verse, its hearth and its boats, the words for the whale and the seal that feed it through the winter, and the words it speaks over its dead. Every one of them is built the way the tongue builds anything. A word is an element of the lexicon standing alone, an element in the strong `-r`, or elements joined at a seam, and many are a stem in the fourth grade that only words take. The third column shows the building, so you can take a word apart the way the skald does.
+
+### Verse and its kinds
+
+A skald's craft has a word for every kind of thing he makes, and a hall judges him partly by whether he knows which one he has made. A _gyldra_ is paid for with a ring; a _hnúra_ is never paid for at all. A piece is called by its kind before anything else, so a lament for a ship's crew is a _skiphnúra_ and needs no other title. The saga itself is _stórald_, one of the words the tongue keeps whole.
+
+| word        | what it names                                        | how it is built                                                              |
+| ----------- | ---------------------------------------------------- | ---------------------------------------------------------------------------- |
+| `gyldra`    | a praise-poem, made for a lord and paid with a ring  | a root of its own; `gyldr-` in front of a seam                               |
+| `hnerv`     | a refrain, the line that returns between stanzas     | _hnarv_, the notch cut to count off a year, in the fourth grade              |
+| `hulma`     | a kenning, a thing named in other words              | a root of its own; `hulm-` in front of a seam                                |
+| `hnúra`     | a lament                                             | a root of its own; `hnúr-` in front of a seam                                |
+| `skreld`    | a flyting, an exchange of insults in verse           | _skrald_, a cry the wind carries further than it should, in the fourth grade |
+| `snerv`     | a prophecy, a seeress's foretelling                  | _snarv_, the hour before weather arrives, in the fourth grade                |
+| `knelth`    | a charm, a binding sung and never written down       | _knalth_, an oath that binds without being written, in the fourth grade      |
+| `relth`     | a telling, a tale short of a saga, given at a hearth | _ralth_, how far a voice carries over water, in the fourth grade             |
+| `dyrma`     | a lay, a poem that tells a story                     | a root of its own                                                            |
+| `haugminni` | the grave-ale, the cup drunk to the dead at the howe | `haug-`, a howe, and `-minni`, a cup drunk to a memory                       |
+
+### The hearth and the hall
+
+The hearth words are the first a child learns and the last a traveler thinks to ask for. Two of them come straight out of the stems: the coal kept alive overnight is the stem for a banked fire turned into a thing, and the stone at the edge of a claim is the stem for something set down that will not be moved. Every hall has one _höfudsveld_, and a king or a jarl who sits at the ting sits in a _tingsveld_.
+
+| word         | what it names                                        | how it is built                                                         |
+| ------------ | ---------------------------------------------------- | ----------------------------------------------------------------------- |
+| `vyld`       | grain                                                | a root of its own                                                       |
+| `gnúm`       | a clay pot                                           | a root of its own                                                       |
+| `breld`      | a coal, an ember kept alive                          | _brald_, a fire banked to keep overnight, in the fourth grade           |
+| `fölm`       | sickness                                             | a root of its own                                                       |
+| `hrend`      | a boundary marker, a stone set at a claim's edge     | _hrand_, a thing set down that will not be moved, in the fourth grade   |
+| `sveld`      | a seat                                               | a root of its own                                                       |
+| `höfudsveld` | the high seat of a hall, where its jarl or king sits | `höfud-`, the head of a body of men, and `-sveld`, with a genitive `-s` |
+| `tingsveld`  | a seat at the ting, held by a king or a jarl         | `ting-` and `-sveld`, with a genitive `-s`                              |
+
+### The boat and the beacon
+
+A boat's keel is named for the sound it makes running up onto shingle, and a beacon for the light it keeps: both words are stems in the fourth grade, and a skald who makes a kenning of either has the stem's sense waiting for him.
+
+| word     | what it names | how it is built                                                  |
+| -------- | ------------- | ---------------------------------------------------------------- |
+| `thresk` | a keel        | _thrask_, a keel taking shingle, in the fourth grade             |
+| `dresk`  | a beacon      | _drask_, a light kept burning on a headland, in the fourth grade |
+
+### Whale and seal
+
+A coast that misses its whales goes hungry before midwinter, so the hunt has its own words and a child on the strand knows them all. The oil is named for what it does on water and in a lamp, and the ice-edge for the shudder the ice gives before it breaks, which is what a sealer on the edge watches for.
+
+| word        | what it names                                      | how it is built                                                                      |
+| ----------- | -------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| `hvelm`     | a whale                                            | a root of its own                                                                    |
+| `dvön`      | a seal                                             | a root of its own                                                                    |
+| `hvelmgeir` | a harpoon                                          | `hvelm-`, a whale, and `-geir`, a spear                                              |
+| `flöm`      | blubber                                            | a root of its own                                                                    |
+| `glerv`     | oil rendered from blubber and burned in a lamp     | _glarv_, light lying flat on water, in the fourth grade                              |
+| `skelfr`    | the ice-edge, where sea ice meets open water       | _skalf_, the shudder in ice before it gives, in the fourth grade and the strong `-r` |
+| `dvönvangr` | a rookery, the shore where seals haul out to breed | `dvön-`, a seal, and `-vangr`, a field                                               |
+
+### The body and the grave
+
+The tongue speaks of the dead plainly and of death slant. A grave is a grave, and a pyre is a fire's grave and a ship-burial a ship's, while death itself is the cold that comes off open water. A howe is _haug_, the barrow raised over a grave, and it stands in the element lexicon.
+
+| word        | what it names | how it is built                                                      |
+| ----------- | ------------- | -------------------------------------------------------------------- |
+| `knerv`     | a body        | _knarv_, a joint made to take strain, in the fourth grade            |
+| `merv`      | a bone        | _marv_, the grain in worked antler, in the fourth grade              |
+| `vrell`     | blood         | a root of its own                                                    |
+| `hnoll`     | a skull       | a root of its own                                                    |
+| `dvern`     | a birth       | _dvarn_, a door that is never barred, in the fourth grade            |
+| `svelth`    | death         | _svalth_, the cold that comes off open water, in the fourth grade    |
+| `dulm`      | a grave       | a root of its own                                                    |
+| `eldsdulm`  | a pyre        | `eld-`, fire, and `-dulm`, with a genitive `-s`: the fire's grave    |
+| `skipsdulm` | a ship-burial | `skip-`, a ship, and `-dulm`, with a genitive `-s`: the ship's grave |
+
+### The making of the world
+
+The giant is _thurs_, the void beyond creation is _ginn_ and an age is _ald_, and all three stand in the element lexicon. The words below are the ones a völva needs when she speaks of how an age ends and what is left for the next.
+
+| word        | what it names                                         | how it is built                                    |
+| ----------- | ----------------------------------------------------- | -------------------------------------------------- |
+| `heimsaldr` | a world-age, the world from its kindling to its end   | `heims-`, the world's, and `-aldr`, an age         |
+| `fösk`      | ash, what a fire leaves                               | a root of its own                                  |
+| `tvelg`     | a remnant, what is left when the greater part is gone | _tvalg_, the lesser of a pair, in the fourth grade |
+
 ## Related Languages
 
 Nordmal stands closest to [[skill-varokhlng|Varokhi]], sharing many archaic Pelwar features and phonetic similarities. The two languages are technically mutually intelligible to speakers with training, though the difference in written forms (Nordmal uses runes, Varokhi has no written form) and regional divergence create barriers.
@@ -178,7 +263,7 @@ The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[ski
 
 ## Naming Traditions
 
-Nordmal builds a name by one of two operations, and every class of name uses one or the other. A **bound** name is a name-stem in a name-ending, and the ending carries no sense of its own: given names and the clan names the ting reads out are built this way. A **compound** name is two or more elements each of which means something on its own: gods, offices, orders, places and earned clan names are built this way. Nothing formed any third way is a Nordmal name.
+Nordmal builds a name by one of two operations, and every class of name uses one or the other. A **bound** name is a name-stem in a name-ending, and the ending carries no sense of its own: given names and the clan names the ting reads out are built this way. A **compound** name is two or more elements each of which means something on its own: gods, offices, orders, places, earned clan names and a seeress's name are built this way. Nothing formed any third way is a Nordmal name.
 
 A Nordman carries a **given name** and a **clan name**, and the tongue builds the two by different operations, so a herald calling a muster never has to ask which he is holding:
 
@@ -186,6 +271,8 @@ A Nordman carries a **given name** and a **clan name**, and the tongue builds th
 2. A **clan name** is a name-stem in one of the four ting-endings, closing on the formal `kh`, or else an earned name built as a compound. The `kh` decides the question one way: a name carrying one is a clan name, and no given name carries one anywhere.
 
 A name-giver therefore chooses two things and not four: the stem, which says what the name is about, and the ending, which says what the name is for. The sense a name carries is the stem's alone, glossed when a stranger asks and never rendered into another tongue, because a stem translated is a stem lost.
+
+**The name lists at the foot of this note are samples, not a roster.** Each list gives one name for every stem in every grade, so you can hear how each stem sounds under an ending, and a hall chooses from the rule rather than from the page. Any stem in any grade under any ending of the right class is as lawful as a listed name: _knirv-_ in the middle grade under `-ynda` gives **Knirvynda**, which no list prints and any hall may give its daughter.
 
 **A clan has more than one member.** A name in these lists is a clan and not a person: brothers, cousins, a widow and her household and three generations of a hall all carry the same one. Reaching for an unused clan name where an existing clan would serve is how a hall of forty comes to be written as forty halls of one.
 
@@ -236,6 +323,8 @@ A Nordmal name is built from two bound pieces, and neither is a word of the lang
 
 Where a stem and an ending meet on the same consonant, one of them is written: _alth-_ and `-thann` give **Althann**, _vrath-_ and `-thýra` give **Vrathýra**. Stress is initial in a name as in every other word, so any of these can be said correctly on sight—AL-thann, VRA-thý-ra, HLARTH-a-rukh.
 
+**The fourth grade is for words.** The three grades above belong to names, and no name takes any other. The tongue's ordinary words keep a fourth grade in _e_ that no name carries, and a word built on it turns the stem's sense into a thing you can point at: _brald_, a fire banked to keep overnight, gives _breld_, a coal, and _drask_, a light kept burning on a headland, gives _dresk_, the beacon itself. A boy named **Draskmýl** hears his name in every beacon on the coast, and nobody mistakes him for one. The words the fourth grade makes stand in § _Vocabulary_.
+
 ### The bestowal endings
 
 A bestowal ending is what a name-giver puts on a stem at a naming. The stems are not gendered and a brother and sister are frequently named from one, so the ending is the whole of the difference.
@@ -280,93 +369,125 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 
 **Elements that open a compound.**
 
-| element             | what it names                             |
-| ------------------- | ----------------------------------------- |
-| `ald-`, `aldar-`    | an age, and the age's                     |
-| `ás-`, `as-`        | a god of the defending kin                |
-| `bandalag-`         | a league of sworn companies               |
-| `berg-`, `bjarg-`   | a crag                                    |
-| `bjarn-`            | a bear                                    |
-| `bjart-`            | bright                                    |
-| `blót-`             | a sacrifice made at a hof                 |
-| `bú-`               | an estate worked for a lord               |
-| `dag-`              | a day                                     |
-| `dreka-`            | a dragon                                  |
-| `drótt-`            | a war-band sworn to one man               |
-| `eid-`              | an oath sworn at a spear-point            |
-| `eld-`              | fire                                      |
-| `frjáls-`           | free, and sworn to no lord                |
-| `frost-`            | frost                                     |
-| `fród-`             | the peace that wisdom buys                |
-| `ginn-`             | the yawning void beyond creation          |
-| `grön-`             | green, and growing                        |
-| `grá-`              | gray                                      |
-| `gull-`             | gold                                      |
-| `haf-`              | the open sea                              |
-| `hallar-`           | a great hall's                            |
-| `hamar-`            | a hammer                                  |
-| `haug-`             | a howe, a barrow                          |
-| `heims-`            | the world's                               |
-| `hers-`             | a host under arms                         |
-| `hird-`             | a king's household troop                  |
-| `hofs-`             | belonging to a hof                        |
-| `höfud-`            | the head of a body of men                 |
-| `hönd-`             | a hand                                    |
-| `hrafn-`            | a raven                                   |
-| `hrím-`             | rime                                      |
-| `hring-`            | a ring given at a hall                    |
-| `hug-`              | thought                                   |
-| `ís-`               | ice                                       |
-| `járn-`             | iron                                      |
-| `jól-`              | the midwinter feast                       |
-| `konungs-`          | the king's                                |
-| `land-`             | the ground a realm holds                  |
-| `lid-`              | a company in the field                    |
-| `lög-`              | the law as it is recited                  |
-| `mál-`              | speech, and a suit at law                 |
-| `mann-`             | a man, and mankind                        |
-| `merki-`            | a standard carried in battle              |
-| `minni-`            | memory held rather than written           |
-| `mót-`              | a shape, a mould                          |
-| `mun-`              | memory recited                            |
-| `ná-`               | a corpse                                  |
-| `njör-`             | the open sea's deep                       |
-| `nótt-`             | night                                     |
-| `ód-`               | fury, and the seer's fit                  |
-| `ódal-`, `odal-`    | land held by inheritance and not by grant |
-| `orm-`              | a wyrm                                    |
-| `rún-`              | a rune                                    |
-| `sár-`              | a wound                                   |
-| `sigr-`             | a victory won                             |
-| `skald-`, `skalda-` | a skald, and the skalds'                  |
-| `skip-`             | a ship                                    |
-| `skjálf-`           | a shaking                                 |
-| `ský-`              | cloud                                     |
-| `smid-`             | a craftsman                               |
-| `sól-`              | the sun                                   |
-| `stál-`             | steel                                     |
-| `stein-`            | stone                                     |
-| `stórald-`          | a saga                                    |
-| `storm-`            | a storm                                   |
-| `svart-`            | black                                     |
-| `tal-`              | speech made on another's behalf           |
-| `thrún-`, `thrumu-` | thunder                                   |
-| `thurs-`            | a giant                                   |
-| `ting-`             | the lawful assembly                       |
-| `úlf-`              | a wolf                                    |
-| `val-`              | the slain                                 |
-| `vatn-`             | water                                     |
-| `vél-`              | a wile                                    |
-| `vetr-`             | winter                                    |
-| `víg-`              | a battle joined                           |
-| `vind-`             | wind                                      |
-| `vörn-`             | a defense held                            |
+| element                   | what it names                             |
+| ------------------------- | ----------------------------------------- |
+| `ald-`, `aldr-`, `aldar-` | an age, and the age's                     |
+| `ás-`, `as-`              | a god of the defending kin                |
+| `bandalag-`               | a league of sworn companies               |
+| `berg-`, `bjarg-`         | a crag                                    |
+| `bjarn-`                  | a bear                                    |
+| `bjart-`                  | bright                                    |
+| `blót-`                   | a sacrifice made at a hof                 |
+| `breld-`                  | a coal, an ember kept alive               |
+| `bú-`                     | an estate worked for a lord               |
+| `dag-`                    | a day                                     |
+| `dreka-`                  | a dragon                                  |
+| `dresk-`                  | a beacon                                  |
+| `drótt-`                  | a war-band sworn to one man               |
+| `dulm-`                   | a grave                                   |
+| `dvern-`                  | a birth                                   |
+| `dvön-`                   | a seal                                    |
+| `eid-`                    | an oath sworn at a spear-point            |
+| `eld-`                    | fire                                      |
+| `flöm-`                   | blubber                                   |
+| `fölm-`                   | sickness                                  |
+| `fösk-`                   | ash, what a fire leaves                   |
+| `frjáls-`                 | free, and sworn to no lord                |
+| `frost-`                  | frost                                     |
+| `fród-`                   | the peace that wisdom buys                |
+| `ginn-`                   | the yawning void beyond creation          |
+| `glerv-`                  | oil rendered for a lamp                   |
+| `gnúm-`                   | a clay pot                                |
+| `grím-`                   | a mask                                    |
+| `grön-`                   | green, and growing                        |
+| `grá-`                    | gray                                      |
+| `gull-`                   | gold                                      |
+| `gyldr-`                  | a praise-poem                             |
+| `haf-`                    | the open sea                              |
+| `hallar-`                 | a great hall's                            |
+| `hamar-`                  | a hammer                                  |
+| `haug-`                   | a howe, a barrow                          |
+| `heims-`                  | the world's                               |
+| `hers-`                   | a host under arms                         |
+| `hird-`                   | a king's household troop                  |
+| `hnerv-`                  | a refrain                                 |
+| `hnoll-`                  | a skull                                   |
+| `hnúr-`                   | a lament                                  |
+| `hofs-`                   | belonging to a hof                        |
+| `höfud-`                  | the head of a body of men                 |
+| `hönd-`                   | a hand                                    |
+| `hrafn-`                  | a raven                                   |
+| `hrend-`                  | a boundary marker                         |
+| `hrím-`                   | rime                                      |
+| `hring-`                  | a ring given at a hall                    |
+| `hug-`                    | thought                                   |
+| `hulm-`                   | a kenning                                 |
+| `hvelm-`                  | a whale                                   |
+| `ís-`                     | ice                                       |
+| `járn-`                   | iron                                      |
+| `jól-`                    | the midwinter feast                       |
+| `knelth-`                 | a charm                                   |
+| `knerv-`                  | a body                                    |
+| `konungs-`                | the king's                                |
+| `land-`                   | the ground a realm holds                  |
+| `lid-`                    | a company in the field                    |
+| `lög-`                    | the law as it is recited                  |
+| `mál-`                    | speech, and a suit at law                 |
+| `mann-`                   | a man, and mankind                        |
+| `merki-`                  | a standard carried in battle              |
+| `merv-`                   | a bone                                    |
+| `minni-`                  | memory held rather than written           |
+| `mót-`                    | a shape, a mould                          |
+| `mun-`                    | memory recited                            |
+| `ná-`                     | a corpse                                  |
+| `njör-`                   | the open sea's deep                       |
+| `nótt-`                   | night                                     |
+| `ód-`                     | fury, and the seer's fit                  |
+| `ódal-`, `odal-`          | land held by inheritance and not by grant |
+| `orm-`                    | a wyrm                                    |
+| `relth-`                  | a telling                                 |
+| `rún-`                    | a rune                                    |
+| `sár-`                    | a wound                                   |
+| `sigr-`                   | a victory won                             |
+| `skald-`, `skalda-`       | a skald, and the skalds'                  |
+| `skelf-`                  | the ice-edge                              |
+| `skip-`                   | a ship                                    |
+| `skjálf-`                 | a shaking                                 |
+| `skreld-`                 | a flyting                                 |
+| `ský-`                    | cloud                                     |
+| `smid-`                   | a craftsman                               |
+| `snerv-`                  | a prophecy                                |
+| `sól-`                    | the sun                                   |
+| `stál-`                   | steel                                     |
+| `stein-`                  | stone                                     |
+| `stórald-`                | a saga                                    |
+| `storm-`                  | a storm                                   |
+| `svart-`                  | black                                     |
+| `sveld-`                  | a seat                                    |
+| `svelth-`                 | death                                     |
+| `tal-`                    | speech made on another's behalf           |
+| `thresk-`                 | a keel                                    |
+| `thrún-`, `thrumu-`       | thunder                                   |
+| `thurs-`                  | a giant                                   |
+| `ting-`                   | the lawful assembly                       |
+| `tvelg-`                  | a remnant                                 |
+| `úlf-`                    | a wolf                                    |
+| `val-`                    | the slain                                 |
+| `vatn-`                   | water                                     |
+| `vél-`                    | a wile                                    |
+| `vetr-`                   | winter                                    |
+| `víg-`                    | a battle joined                           |
+| `vind-`                   | wind                                      |
+| `vörn-`                   | a defense held                            |
+| `vrell-`                  | blood                                     |
+| `vyld-`                   | grain                                     |
 
 **Elements that close a compound.**
 
 | element                     | what it names                            |
 | --------------------------- | ---------------------------------------- |
 | `-aett`                     | a kin reckoned together                  |
+| `-aldr`                     | an age                                   |
 | `-ask`                      | an ash-tree                              |
 | `-auga`                     | an eye                                   |
 | `-bandalag`                 | a league of sworn companies              |
@@ -378,6 +499,8 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `-brunnr`                   | a well                                   |
 | `-dómr`                     | a judgment given                         |
 | `-drengir`                  | warriors                                 |
+| `-dulm`                     | a grave                                  |
+| `-dyrma`                    | a lay                                    |
 | `-efnir`                    | one in the making                        |
 | `-eldr`                     | fire                                     |
 | `-fadir`, `-módir`          | the father or mother of a hof            |
@@ -387,19 +510,25 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `-grímr`                    | a mask                                   |
 | `-grind`                    | a gate                                   |
 | `-guard`                    | an enclosed world                        |
+| `-gyldra`                   | a praise-poem                            |
 | `-hamarr`                   | a hammer                                 |
 | `-heim`                     | a home                                   |
 | `-hild`                     | a battle                                 |
+| `-hnerv`                    | a refrain                                |
+| `-hnúra`                    | a lament                                 |
 | `-höfdingi`                 | a chieftain                              |
 | `-höll`                     | a great hall                             |
 | `-hönd`                     | a hand                                   |
 | `-hringr`, `-ringr`         | a ring, and a circle of sworn men        |
+| `-hulma`                    | a kenning                                |
 | `-káppar`                   | champions                                |
 | `-lid`                      | a company in the field                   |
 | `-lok`                      | a close, an end                          |
 | `-madr`                     | a man holding a station                  |
 | `-maelir`, `-maelendir`     | one that speaks, and ones that speak     |
 | `-mál`                      | speech, and the voice a body speaks with |
+| `-minni`                    | a cup drunk to a memory                  |
+| `-nár`                      | a corpse, and the dead that linger       |
 | `-nótt`                     | night                                    |
 | `-ormr`                     | a wyrm                                   |
 | `-reid`                     | a ride                                   |
@@ -411,7 +540,10 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `-skel`                     | a shell, and a plate of iron             |
 | `-skírdr`                   | one made clean                           |
 | `-skjöldr`                  | a shield                                 |
+| `-skreld`                   | a flyting                                |
+| `-snerv`                    | a prophecy                               |
 | `-stjóri`                   | the master of a thing                    |
+| `-sveld`                    | a seat                                   |
 | `-systur`                   | sisters                                  |
 | `-thur`                     | a giant                                  |
 | `-ting`                     | the lawful assembly                      |
@@ -451,7 +583,7 @@ A place name is an element and a generic, and the generic says what kind of plac
 | `-vatn`   | a lake                             | `-vatnar`       |
 | `-vík`    | an inlet                           | `-víkar`        |
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy and the pattern behind Odinsve, Torsberg and Ullevi; ground held from the man who broke it takes his, as Grimsstadir carries the name of its Grimr; ground held from the assembly takes the assembly's, as Thingvellir and Logberg carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrúnvald's seat is Thrúnborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a genitive `-s` or `-a` at the seam, so Ódvar's hall is Ódvarshöll and Sólrún's is Sólrúnshöll. A founder's given name enters whole, with a genitive at the seam in the same way.
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy and the pattern behind Odinsve, Torsberg and Ullevi; ground held from the man who broke it takes his, as Grimsstadir carries the name of its Grimr; ground held from the assembly takes the assembly's, as Thingvellir and Logberg carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrúnvald's seat is Thrúnborg and his mountain Thrumufjall. Ground the god dwells on rather than merely holds takes the name whole instead, with a genitive `-s` or `-a` at the seam, so Ódvar's hall is Ódvarshöll and Sólrún's is Sólrúnshöll. A founder's given name enters whole, with a genitive at the seam in the same way. Ground named for what it bears takes the element for that thing, so **Askholm** is the islet of the ash-tree and **Ísdal** the dale of ice, and a beach where the seals haul out is named from _dvön-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the King of All Clans convenes at **Dómsey**.
 
 | held from                     | what stands first                                       |
 | ----------------------------- | ------------------------------------------------------- |
@@ -459,7 +591,8 @@ A place name is an element and a generic, and the generic says what kind of plac
 | a god                         | that god's name, clipped to its first element           |
 | a god dwelling there          | that god's whole name, with a genitive `-s` or `-a`     |
 | a founder                     | that founder's given name, with a genitive `-s` or `-a` |
-| the ting and its law          | `ting-`, `lög-`, `mál-`, `hring-`                       |
+| the ting and its law          | `ting-`, `lög-`, `mál-`, `hring-`, `dóms-`              |
+| what the ground bears         | `ask-`, `ís-`, `stein-`, `vyld-`, `hvelm-`, `dvön-`     |
 | a sanctuary cut into the rock | `hola-`, `hofs-`, `hörgs-`                              |
 | the gods' world               | `asgar-`                                                |
 
@@ -482,11 +615,12 @@ An office is an element and one of the office suffixes, and the suffix says what
 | `-fadir`, `-módir`  | the head of a hof             |
 | `-godi`             | a priest-chieftain            |
 | `-madr`             | a man of a station            |
+| `-mál`              | the voice a body speaks with  |
 | `-stjóri`           | the master of a thing         |
 | `-vald`             | one who wields an authority   |
 | `-vördr`, `-verdir` | the ward or keeper of a thing |
 
-**An office suffix answers for something—a hof, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-höfdingi` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. The eight suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+**An office suffix answers for something—a hof, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-höfdingi` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the Giant's Children's chair is the **Sármál**, the Green Wardens' the **Grönmál** and the Storm-Speakers' the **Hamarsmál**, and the Compact names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The nine suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
 
 **The words the tongue keeps.** These are words and not names, given whole rather than formed, and a reader meets them as the north's own vocabulary.
 
@@ -519,6 +653,10 @@ A handful of titles and folk words reach the page the same way, and the list is 
 ### Earned clan names
 
 The Nordmen tradition of _aettarnafn_ stands beside the bestowal endings and is central to the culture: a man performs a great deed, takes a second name for it, and where the deed outlives him the name becomes his line's. An earned name is **granted rather than bestowed**, so it takes no ending and is built as a compound of elements—Járnskel, Sólvargr, Drekanótt, Steinblót, Stormrót. It closes the way a compound closes and not on the ting's `kh`, so position is what tells it from a given name: the second of two Nordmal names is the clan.
+
+### A seeress's name
+
+A völva who takes the high seat of a hall is known by a seeress's name rather than the one she was given at her naming. The name is granted, as an earned clan name is, so it takes no bestowal ending and is built as a compound of elements, closing the way a compound closes. **Aldrhildr**, who taught at [[place-thrunborg|Thrúnborg]] and whom the [[lore-vthgdhstry|Vithgard histories]] name at the burning of Askholm, carries `aldr-`, an age in its strong form, and `-hild`, a battle, closing in the strong `-r`: the woman who stands against the age.
 
 ### Theonyms
 
