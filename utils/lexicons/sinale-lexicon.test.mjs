@@ -163,7 +163,11 @@ test("an attested name the register does not hold is an error", () => {
         (entry) => entry.name === one.name && entry.address === one.address,
     );
     assert(row, `the register holds "${one.name}"`);
-    const line = lexicon.split("\n").find((text) => text.startsWith(`| **${one.name}**`));
+    const line = lexicon
+        .split("\n")
+        .find(
+            (text) => text.startsWith(`| **${one.name}**`) && text.includes(`[[${one.address}\\|`),
+        );
     const broken = edited(`${line}\n`, "", lexicon);
     assert(lexErrorsOf(broken).some((text) => text.includes("does not register it")));
 });

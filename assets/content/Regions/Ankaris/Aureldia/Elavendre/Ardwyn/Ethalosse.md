@@ -13,7 +13,7 @@ data:
   packFolder: elavendre
 ---
 
-**Ethalossë** sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the
+**Ethalossë**, as it is called in [[skill-elvndrlng|Élavendri]], sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the
 high wood thins toward the passes. It is the smallest of Élavendre's [[lore-flksinale|Sinalë]] enclaves—seventy or so—and the only one whose position looks, to an outsider who knew enough to notice,
 **chosen for access rather than for seclusion**.
 

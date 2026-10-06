@@ -63,7 +63,7 @@ Three moves make every built word in this lexicon, and a new word made the same 
 
 **A name.** A given name is a word in its plain form with a naming ending; a lineage name is the same word worn, with the hearth ending. _Tirvali_ "the long road" gives the given names _Tirvalidhe_ and _Tirvalira_ and the lineage name _Sirvalinto_, "the hearth of the long road". The ending _-la_ is not used on _tirvali_, which already ends on _l_.
 
-**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Tyëvimë_ without _-më_ is _tyëvi_, a vision and not a person—so a Sinalë is called by the whole name, worn in address, and the language page's naming section sets out why.
+**No short name.** A given name has no short form. Taking the ending off leaves only the word for the thing—_Ilthoridhe_ without _-dhe_ is _ilthori_, a vision and not a person—so a Sinalë is called by the whole name, worn in address, and the language page's naming section sets out why.
 
 A new root word—one made from nothing in this lexicon—is a larger thing than a built one. It must keep every rule of sound and harmony, and it belongs in the table of its field with `—` in its Built from column.
 
@@ -330,56 +330,57 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 
 ### Song, speech, memory and the telling
 
-| Form         | Class | Gloss                            | Built from         | Attested                             |
-| ------------ | ----- | -------------------------------- | ------------------ | ------------------------------------ |
-| `tellavi`    | n     | the small bell                   | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `kilvë`      | n     | the far call                     | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `syllë`      | n     | the rising note                  | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `olvenne`    | n     | wearing                          | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `luuro`      | v     | sing                             | —                  | [[skill-sinalelng\|Sinalë Language]] |
-| `olnaro`     | n     | a song                           | —                  | —                                    |
-| `tylnë`      | n     | a line of verse                  | —                  | —                                    |
-| `evesi`      | n     | a word                           | —                  | —                                    |
-| `sirne`      | n     | a name                           | —                  | —                                    |
-| `evalla`     | n     | speech, a tongue                 | —                  | —                                    |
-| `evelle`     | n     | a voice                          | —                  | —                                    |
-| `evathe`     | v     | speak                            | —                  | —                                    |
-| `kelsa`      | v     | hear                             | —                  | —                                    |
-| `wandel`     | v     | answer                           | —                  | —                                    |
-| `kessave`    | v     | ask                              | —                  | —                                    |
-| `hissel`     | n     | silence                          | —                  | —                                    |
-| `serdalo`    | n     | memory                           | —                  | —                                    |
-| `olvathe`    | v     | forget                           | —                  | —                                    |
-| `ennedhi`    | n     | a tale                           | —                  | —                                    |
-| `kanthal`    | n     | a harp                           | —                  | —                                    |
-| `hommas`     | n     | a drum                           | —                  | —                                    |
-| `sëvis`      | n     | a note in music                  | —                  | —                                    |
-| `ellanthe`   | n     | a lay, a long song               | —                  | —                                    |
-| `kilthë`     | n     | laughter                         | —                  | —                                    |
-| `hylsë`      | v     | whisper                          | —                  | —                                    |
-| `veldi`      | n     | writing, the written hand        | —                  | —                                    |
-| `tellirë`    | n     | a written sign                   | —                  | —                                    |
-| `thennai`    | adj   | true                             | —                  | —                                    |
-| `kippel`     | n     | a lie                            | —                  | —                                    |
-| `olmis`      | n     | meaning                          | —                  | —                                    |
-| `saumel`     | v     | teach                            | —                  | —                                    |
-| `ruvas`      | v     | learn                            | —                  | —                                    |
-| `ellinë`     | n     | a tune                           | —                  | —                                    |
-| `luuronno`   | n     | a singer                         | `luuro` + `-nno`   | [[skill-sinalelng\|Sinalë Language]] |
-| `luuropi`    | n     | a pipe                           | `luuro` + `-pi`    | [[skill-sinalelng\|Sinalë Language]] |
-| `olnarolu`   | n     | a little song                    | `olnaro` + `-lu`   | —                                    |
-| `ennedhinno` | n     | a teller of tales                | `ennedhi` + `-nno` | —                                    |
-| `evesirno`   | n     | a hoard of words, a speech       | `evesi` + `-rno`   | —                                    |
-| `serdalolta` | v     | remember                         | `serdalo` + `-lta` | —                                    |
-| `serdalorno` | n     | lore, what memory holds together | `serdalo` + `-rno` | —                                    |
-| `veldilta`   | v     | write                            | `veldi` + `-lta`   | —                                    |
-| `veldinno`   | n     | a scribe                         | `veldi` + `-nno`   | —                                    |
-| `kilvëly`    | n     | an echo                          | `kilvë` + `-ly`    | —                                    |
-| `kilvëltë`   | v     | call                             | `kilvë` + `-ltë`   | —                                    |
-| `sirnelta`   | v     | name                             | `sirne` + `-lta`   | —                                    |
-| `thennairsa` | n     | truth                            | `thennai` + `-rsa` | —                                    |
-| `luurosa`    | adj   | singing                          | `luuro` + `-sa`    | —                                    |
-| `evathenno`  | n     | a speaker                        | `evathe` + `-nno`  | —                                    |
+| Form         | Class | Gloss                                | Built from         | Attested                               |
+| ------------ | ----- | ------------------------------------ | ------------------ | -------------------------------------- |
+| `tellavi`    | n     | the small bell                       | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `kilvë`      | n     | the far call                         | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `syllë`      | n     | the rising note                      | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `olvenne`    | n     | wearing                              | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `luuro`      | v     | sing                                 | —                  | [[skill-sinalelng\|Sinalë Language]]   |
+| `olnaro`     | n     | a song                               | —                  | —                                      |
+| `tylnë`      | n     | a line of verse                      | —                  | —                                      |
+| `evesi`      | n     | a word                               | —                  | —                                      |
+| `sirne`      | n     | a name                               | —                  | —                                      |
+| `evalla`     | n     | speech, a tongue                     | —                  | —                                      |
+| `evelle`     | n     | a voice                              | —                  | —                                      |
+| `evathe`     | v     | speak                                | —                  | —                                      |
+| `kelsa`      | v     | hear                                 | —                  | —                                      |
+| `wandel`     | v     | answer                               | —                  | —                                      |
+| `kessave`    | v     | ask                                  | —                  | —                                      |
+| `hissel`     | n     | silence                              | —                  | —                                      |
+| `serdalo`    | n     | memory                               | —                  | —                                      |
+| `olvathe`    | v     | forget                               | —                  | —                                      |
+| `ennedhi`    | n     | a tale                               | —                  | —                                      |
+| `kanthal`    | n     | a harp                               | —                  | —                                      |
+| `hommas`     | n     | a drum                               | —                  | —                                      |
+| `sëvis`      | n     | a note in music                      | —                  | —                                      |
+| `ellanthe`   | n     | a lay, a long song                   | —                  | —                                      |
+| `kilthë`     | n     | laughter                             | —                  | —                                      |
+| `hylsë`      | v     | whisper                              | —                  | —                                      |
+| `veldi`      | n     | writing, the written hand            | —                  | —                                      |
+| `tellirë`    | n     | a written sign                       | —                  | —                                      |
+| `thennai`    | adj   | true                                 | —                  | —                                      |
+| `kippel`     | n     | a lie                                | —                  | —                                      |
+| `olmis`      | n     | meaning                              | —                  | —                                      |
+| `saumel`     | v     | teach                                | —                  | —                                      |
+| `ruvas`      | v     | learn                                | —                  | —                                      |
+| `ellinë`     | n     | a tune                               | —                  | —                                      |
+| `luuronno`   | n     | a singer                             | `luuro` + `-nno`   | [[skill-sinalelng\|Sinalë Language]]   |
+| `luuropi`    | n     | a pipe                               | `luuro` + `-pi`    | [[skill-sinalelng\|Sinalë Language]]   |
+| `olnarolu`   | n     | a little song                        | `olnaro` + `-lu`   | —                                      |
+| `ennedhinno` | n     | a teller of tales                    | `ennedhi` + `-nno` | —                                      |
+| `evesirno`   | n     | a hoard of words, a speech           | `evesi` + `-rno`   | —                                      |
+| `serdalolta` | v     | remember                             | `serdalo` + `-lta` | —                                      |
+| `serdalorno` | n     | lore, what memory holds together     | `serdalo` + `-rno` | —                                      |
+| `veldilta`   | v     | write                                | `veldi` + `-lta`   | —                                      |
+| `veldinno`   | n     | a scribe                             | `veldi` + `-nno`   | —                                      |
+| `veldirno`   | n     | the gathered hand; the Sinalë script | `veldi` + `-rno`   | [[skill-clthndscrpt\|Veldirno Script]] |
+| `kilvëly`    | n     | an echo                              | `kilvë` + `-ly`    | —                                      |
+| `kilvëltë`   | v     | call                                 | `kilvë` + `-ltë`   | —                                      |
+| `sirnelta`   | v     | name                                 | `sirne` + `-lta`   | —                                      |
+| `thennairsa` | n     | truth                                | `thennai` + `-rsa` | —                                      |
+| `luurosa`    | adj   | singing                              | `luuro` + `-sa`    | —                                      |
+| `evathenno`  | n     | a speaker                            | `evathe` + `-nno`  | —                                      |
 
 ### Craft: weaving, wood-shaping, healing and the hand
 
@@ -445,6 +446,7 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 | `ellevi`    | n      | a guest                               | —                 | —                                    |
 | `ulkas`     | n      | a stranger                            | —                 | —                                    |
 | `lirne`     | n      | a person                              | —                 | —                                    |
+| `sinalo`    | n      | one of the Sinalë                     | —                 | [[lore-flksinale\|Sinalë Folk]]      |
 | `thaumel`   | n-coll | the folk                              | —                 | —                                    |
 | `voldan`    | n      | an elder                              | —                 | —                                    |
 | `yëmi`      | adj    | young                                 | —                 | —                                    |
@@ -506,39 +508,42 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 
 ### The fae, the thin places, dream and the god
 
-| Form            | Class  | Gloss                                   | Built from           | Attested |
-| --------------- | ------ | --------------------------------------- | -------------------- | -------- |
-| `olveira`       | n      | a dream                                 | —                    | —        |
-| `seira`         | adj    | sacred                                  | —                    | —        |
-| `audhi`         | n      | the veil between worlds                 | —                    | —        |
-| `sirna`         | adj    | thin, worn thin                         | —                    | —        |
-| `ylkë`          | v      | cross over                              | —                    | —        |
-| `aldevan`       | n      | the far side, beyond                    | —                    | —        |
-| `venalla`       | n-coll | the fae                                 | —                    | —        |
-| `aithevi`       | n      | a spirit                                | —                    | —        |
-| `symmë`         | n      | the art, what humans call magic         | —                    | —        |
-| `orthi`         | n      | a ward                                  | —                    | —        |
-| `kielle`        | n      | a charm                                 | —                    | —        |
-| `ilthori`       | n      | a vision                                | —                    | —        |
-| `rëëvë`         | n      | an omen                                 | —                    | —        |
-| `haunde`        | adj    | hidden                                  | —                    | —        |
-| `veltha`        | n      | a pact                                  | —                    | —        |
-| `hallevi`       | n      | a gift                                  | —                    | —        |
-| `lonthe`        | n      | a rite                                  | —                    | —        |
-| `hëssë`         | v      | wake                                    | —                    | —        |
-| `olveiralta`    | v      | dream                                   | `olveira` + `-lta`   | —        |
-| `olveiranno`    | n      | a dreamer                               | `olveira` + `-nno`   | —        |
-| `sirnasto`      | n      | a thin place, where the veil wears thin | `sirna` + `-sto`     | —        |
-| `sirnalta`      | v      | wear thin                               | `sirna` + `-lta`     | —        |
-| `venallanu`     | n      | one of the fae                          | `venalla` + `-nu`    | —        |
-| `aithevisto`    | n      | the spirit realm                        | `aithevi` + `-sto`   | —        |
-| `orthinno`      | n      | a warden                                | `orthi` + `-nno`     | —        |
-| `orthilta`      | v      | ward                                    | `orthi` + `-lta`     | —        |
-| `haundelta`     | v      | hide                                    | `haunde` + `-lta`    | —        |
-| `seirasalvurno` | n      | a sacred grove                          | `seira` + `salvurno` | —        |
-| `ilthorinno`    | n      | a seer                                  | `ilthori` + `-nno`   | —        |
-| `lonthesto`     | n      | a place of rites                        | `lonthe` + `-sto`    | —        |
-| `symmënnë`      | n      | one who works the art                   | `symmë` + `-nnë`     | —        |
+| Form            | Class  | Gloss                                                        | Built from           | Attested                              |
+| --------------- | ------ | ------------------------------------------------------------ | -------------------- | ------------------------------------- |
+| `olveira`       | n      | a dream                                                      | —                    | —                                     |
+| `seira`         | adj    | sacred                                                       | —                    | —                                     |
+| `audhi`         | n      | the veil between worlds                                      | —                    | —                                     |
+| `sirna`         | adj    | thin, worn thin                                              | —                    | —                                     |
+| `ylkë`          | v      | cross over                                                   | —                    | —                                     |
+| `aldevan`       | n      | the far side, beyond                                         | —                    | —                                     |
+| `venalla`       | n-coll | the fae                                                      | —                    | —                                     |
+| `aithevi`       | n      | a spirit                                                     | —                    | —                                     |
+| `symmë`         | n      | the art, what humans call magic                              | —                    | —                                     |
+| `orthi`         | n      | a ward                                                       | —                    | —                                     |
+| `kielle`        | n      | a charm                                                      | —                    | —                                     |
+| `ilthori`       | n      | a vision                                                     | —                    | —                                     |
+| `rëëvë`         | n      | an omen                                                      | —                    | —                                     |
+| `haunde`        | adj    | hidden                                                       | —                    | —                                     |
+| `veltha`        | n      | a pact                                                       | —                    | —                                     |
+| `hallevi`       | n      | a gift                                                       | —                    | —                                     |
+| `lonthe`        | n      | a rite                                                       | —                    | —                                     |
+| `hëssë`         | v      | wake                                                         | —                    | —                                     |
+| `aulveira`      | n      | light and dream as one; the Sinalë name of the God of Dreams | —                    | [[lore-goddreams\|The God of Dreams]] |
+| `olveiralta`    | v      | dream                                                        | `olveira` + `-lta`   | —                                     |
+| `olveiranno`    | n      | a dreamer                                                    | `olveira` + `-nno`   | —                                     |
+| `sirnasto`      | n      | a thin place, where the veil wears thin                      | `sirna` + `-sto`     | —                                     |
+| `sirnalta`      | v      | wear thin                                                    | `sirna` + `-lta`     | —                                     |
+| `venallanu`     | n      | one of the fae                                               | `venalla` + `-nu`    | —                                     |
+| `aithevisto`    | n      | the spirit realm                                             | `aithevi` + `-sto`   | —                                     |
+| `orthinno`      | n      | a warden                                                     | `orthi` + `-nno`     | —                                     |
+| `orthilta`      | v      | ward                                                         | `orthi` + `-lta`     | —                                     |
+| `haundelta`     | v      | hide                                                         | `haunde` + `-lta`    | —                                     |
+| `seirasalvurno` | n      | a sacred grove                                               | `seira` + `salvurno` | —                                     |
+| `ilthorinno`    | n      | a seer                                                       | `ilthori` + `-nno`   | [[lore-tindesarrnk\|Ilthorinno]]      |
+| `aulirarno`     | n      | the gathering of light; the open convocation of the faith    | `aulira` + `-rno`    | [[lore-goddreams\|The God of Dreams]] |
+| `ansorunno`     | n      | one who keeps the long watch                                 | `ansoru` + `-nno`    | [[lore-calathirrnk\|Ansorunno]]       |
+| `lonthesto`     | n      | a place of rites                                             | `lonthe` + `-sto`    | —                                     |
+| `symmënnë`      | n      | one who works the art                                        | `symmë` + `-nnë`     | —                                     |
 
 ### Death, loss, grief and the Shadow
 
@@ -713,35 +718,35 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 
 ### Names
 
-| Name                      | Note                                        | Tongue           | Built from |
-| ------------------------- | ------------------------------------------- | ---------------- | ---------- |
-| **Sinalë**                | [[lore-flksinale\|Sinalë Folk]]             | `older`          | —          |
-| **Sinalëan**              | [[lore-flksinale\|Sinalë Folk]]             | `translation`    | —          |
-| **Haulonna**              | [[place-haulonna\|Haulonna]]                | `older`          | —          |
-| **Thalmdal**              | [[place-haulonna\|Haulonna]]                | `exonym:nordmal` | —          |
-| **Calenlass Vardamir**    | [[place-haulonna\|Haulonna]]                | `sinale`         | —          |
-| **Calathindë**            | [[skill-clthndscrpt\|Calathindë Script]]    | `sinale`         | —          |
-| **The God of Dreams**     | [[lore-goddreams\|The God of Dreams]]       | `translation`    | —          |
-| **Lúminarë**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Lómëthar**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Calathiri**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`         | —          |
-| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari` | —          |
-| **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal` | —          |
-| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`         | —          |
-| **Calathir**              | [[lore-calathirrnk\|Calathir]]              | `sinale`         | —          |
-| **Light-Watcher**         | [[lore-calathirrnk\|Calathir]]              | `translation`    | —          |
-| **Tindësar**              | [[lore-tindesarrnk\|Tindësar]]              | `sinale`         | —          |
-| **Star-Seeker**           | [[lore-tindesarrnk\|Tindësar]]              | `translation`    | —          |
-| **The Faithful**          | [[lore-faithfulrnk\|The Faithful]]          | `translation`    | —          |
-| **Unaccorded**            | [[lore-unaccordedrnk\|Unaccorded]]          | `translation`    | —          |
-| **Aelirossë**             | [[place-aelirosse\|Aelirossë]]              | `exonym`         | —          |
-| **Ethalossë**             | [[place-ethalosse\|Ethalossë]]              | `exonym`         | —          |
-| **Serenthalë**            | [[place-serenthale\|Serenthalë]]            | `exonym`         | —          |
-| **Ankaris Continent**     | [[place-ankrscntnnt\|Ankaris Continent]]    | `exonym`         | —          |
-| **Aurèldía Region**       | [[place-aureldirgn\|Aurèldía Region]]       | `exonym`         | —          |
-| **Mídhalión Region**      | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`         | —          |
-| **Mídhalión**             | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`         | —          |
-| **Xerathia**              | [[place-xerathia\|Xerathia]]                | `exonym`         | —          |
-| **Central Rainforests**   | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
-| **Xerathian Rainforests** | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
-| **Green Interior**        | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`    | —          |
+| Name                      | Note                                        | Tongue             | Built from                           |
+| ------------------------- | ------------------------------------------- | ------------------ | ------------------------------------ |
+| **Sinalë**                | [[lore-flksinale\|Sinalë Folk]]             | `older`            | —                                    |
+| **Sinalëan**              | [[lore-flksinale\|Sinalë Folk]]             | `translation`      | —                                    |
+| **Sinalo**                | [[lore-flksinale\|Sinalë Folk]]             | `sinale`           | `sinalo`                             |
+| **Haulonna**              | [[place-haulonna\|Haulonna]]                | `older`            | —                                    |
+| **Thalmdal**              | [[place-haulonna\|Haulonna]]                | `exonym:nordmal`   | —                                    |
+| **Ansorudhe Lonvunto**    | [[place-haulonna\|Haulonna]]                | `sinale`           | `ansoru` + `-dhe` · `lonvu` + `-nto` |
+| **Veldirno**              | [[skill-clthndscrpt\|Veldirno Script]]      | `sinale`           | `veldi` + `-rno`                     |
+| **The God of Dreams**     | [[lore-goddreams\|The God of Dreams]]       | `translation`      | —                                    |
+| **Aulveira**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulveira`                           |
+| **Aulirarno**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulira` + `-rno`                    |
+| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari`   | —                                    |
+| **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal`   | —                                    |
+| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`           | —                                    |
+| **Ansorunno**             | [[lore-calathirrnk\|Ansorunno]]             | `sinale`           | `ansoru` + `-nno`                    |
+| **Long-Watcher**          | [[lore-calathirrnk\|Ansorunno]]             | `translation`      | —                                    |
+| **Ilthorinno**            | [[lore-tindesarrnk\|Ilthorinno]]            | `sinale`           | `ilthori` + `-nno`                   |
+| **Seer**                  | [[lore-tindesarrnk\|Ilthorinno]]            | `translation`      | —                                    |
+| **The Faithful**          | [[lore-faithfulrnk\|The Faithful]]          | `translation`      | —                                    |
+| **Unaccorded**            | [[lore-unaccordedrnk\|Unaccorded]]          | `translation`      | —                                    |
+| **Aelirossë**             | [[place-aelirosse\|Aelirossë]]              | `exonym:elavendri` | —                                    |
+| **Ethalossë**             | [[place-ethalosse\|Ethalossë]]              | `exonym:elavendri` | —                                    |
+| **Serenthalë**            | [[place-serenthale\|Serenthalë]]            | `exonym:elavendri` | —                                    |
+| **Ankaris Continent**     | [[place-ankrscntnnt\|Ankaris Continent]]    | `exonym`           | —                                    |
+| **Aurèldía Region**       | [[place-aureldirgn\|Aurèldía Region]]       | `exonym`           | —                                    |
+| **Mídhalión Region**      | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
+| **Mídhalión**             | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
+| **Xerathia**              | [[place-xerathia\|Xerathia]]                | `exonym`           | —                                    |
+| **Central Rainforests**   | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
+| **Xerathian Rainforests** | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
+| **Green Interior**        | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |

@@ -21,7 +21,7 @@ Sinalë is a tongue of the Elder family. Fluency measures the sophistication of 
 
 ## Overview
 
-Sinalë is the language of the **Sinalë** (known in human legends as "elves"), the eldest of the Elder Races to settle on Thalorna. The language predates all human tongues by millennia, surviving as living speech in scattered Sinalë communities hidden in deep forests and remote valleys. The Sinalë are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
+Sinalë is the language of the **Sinalë** (known in human legends as "elves"; one of them is a **Sinalo**), the eldest of the Elder Races to settle on Thalorna. The language predates all human tongues by millennia, surviving as living speech in scattered Sinalë communities hidden in deep forests and remote valleys. The Sinalë are vanishingly rare—fewer than one in ten thousand inhabitants of Thalorna—and their language is nearly as rare, known to outsiders only through legend and fragmentary encounter.
 
 To the human ear, Sinalë is hauntingly beautiful: melodic and vowel-heavy, with open syllables and soft consonants that seem to flow like water. Its consonants are the liquids and the nasals—_l_, _r_ and _n_ above all, doubled and run together—with the breathed _th_ and _dh_ between them, and its vowels are the open _a_, _e_, _i_ and _o_, often held long. No word opens on a voiced stop and there are no guttural sounds. Nearly every syllable ends in a vowel, and the language slides from one to the next without ever stacking consonants at the front of a word. A Sinalë speaker seems to be singing rather than speaking, and the song is a slow one: the language has the sound of a long memory, of starlight and twilight, and of things a long time lost.
 
@@ -294,7 +294,7 @@ The ablative compares: what something exceeds is the place it stands out from. _
 
 ## Script and Literacy
 
-Sinalë is written in the [[skill-clthndscrpt|Calathindë]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
+Sinalë is written in the [[skill-clthndscrpt|Veldirno]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 
@@ -303,25 +303,25 @@ Key features:
 - **Ligatures**: Frequent connections between letters create compound characters
 - **Ornate variants**: Sacred texts employ extremely elaborate, decorated letter forms
 
-The Calathindë is the Sinalë's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[skill-aelendlng|Áelendi]] took the script from the Sinalë, being the humans closest to them; the rest of Aurèldía writes in the Vylarian alphabet and always has.
+The Veldirno is the Sinalë's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[skill-aelendlng|Áelendi]] took the script from the Sinalë, being the humans closest to them; the rest of Aurèldía writes in the Vylarian alphabet and always has.
 
 Literacy in Sinalë is near-universal among the Sinalë themselves—the language and written tradition are central to their culture. However, human literacy in Sinalë is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
-### Setting a romanized word back in the Calathindë
+### Setting a romanized word back in the Veldirno
 
-Every Sinalë word on these pages is a romanization, written in Latin letters for readers who do not have the hand. Setting one back into the Calathindë is not a matter of taste: the mapping below is fixed, so that two scribes working from the same Latin spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
+Every Sinalë word on these pages is a romanization, written in Latin letters for readers who do not have the hand. Setting one back into the Veldirno is not a matter of taste: the mapping below is fixed, so that two scribes working from the same Latin spelling produce the same page. What may differ between one page and another is the cut of the letterforms—an everyday hand, the elaborated sacred one, a carved inscription—and never which sign is which.
 
 **The consonants are the visible line.** One sign to each cell of the inventory in the table above, arranged in the three families the table sets out, so that the stop, the fricative and the nasal of one family are the same shape at three grades. The liquids, the soft sounds and the glide—_l_, _r_, _rh_, _th_, _dh_, _d_ and _w_—stand outside the families and have signs of their own. Because wearing only ever moves a stop to the fricative of its own family, a worn word is the same shape one grade along—which is where the romanization is at its clumsiest, writing _t_ and _s_ as two unrelated letters for what the hand shows as one letter lowered. The back nasal has a sign like the rest, but no word opens on it and so it is never the first thing on a line.
 
-**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Calathindë writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
+**A doubled consonant is one sign and a bar.** The romanization writes a long consonant twice—_mollu_, and the _tt_, _ss_ and _rr_ of the phonology—while the Veldirno writes the sign once and sets a bar beneath it. _Mollu_ and _molu_ therefore differ in the hand by a single stroke, and a damaged page that has lost its bars has lost the difference between a deep pool and the colour of it.
 
 **The vowels ride above.** Seven marks, one each for _a_, _e_, _i_, _o_, _u_, _y_ and _ë_, set over the consonant they follow. A word that begins with a vowel carries its mark on a bare carrier stroke, the one sign in the script that stands for no sound of its own. A doubled vowel in the romanization—_aa_, _ëë_—is a single mark drawn long rather than two marks; a diphthong is two marks over one carrier, in the order they are said.
 
-**What the Latin spelling loses, and what it never needed.** Stress is not marked in the Calathindë, because it never moves: the first syllable of every word, without exception, so a mark over a later one is emphasis and is saying something else. Pitch is marked, and a romanized line drops it entirely, so a romanized line read aloud keeps every word and loses the tune that told how they were meant.
+**What the Latin spelling loses, and what it never needed.** Stress is not marked in the Veldirno, because it never moves: the first syllable of every word, without exception, so a mark over a later one is emphasis and is saying something else. Pitch is marked, and a romanized line drops it entirely, so a romanized line read aloud keeps every word and loses the tune that told how they were meant.
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinalë reader sees.
 
-**This is Sinalë's mapping and not Áelendi's.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Calathindë was never cut for. A passage of [[skill-aelendlng|Áelendi]] wants its own convention and does not follow this one.
+**This is Sinalë's mapping and not Áelendi's.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldirno was never cut for. A passage of [[skill-aelendlng|Áelendi]] wants its own convention and does not follow this one.
 
 ## Historical Development
 
@@ -343,6 +343,8 @@ A handful of the oldest words keep shapes the regular language no longer makes: 
 | ---------- | -------------------------------------------------------- | ---------- |
 | _Sinalë_   | the people's name for themselves and their tongue        | Primordial |
 | _Haulonna_ | the hearth of the unfallen leaf; an enclave of the north | Primordial |
+
+The singular, _Sinalo_ "one of the Sinalë", is not among them. It holds back and neutral vowels only and is a regular word of the language.
 
 ## Regional Dialects
 
@@ -444,9 +446,9 @@ Lineage names have no gendered form.
 
 ### A Name Is Never Shortened
 
-A Sinalë is called by the whole given name, all three or four syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kouvi_ is the pale wood of the birch, so a Sinalë who says _Kouvi_ is talking about trees, and _Kouvimo_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinalë do.
+A Sinalë is called by the whole given name, all three or four syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kalvi_ is the pale wood of the birch, so a Sinalë who says _Kalvi_ is talking about trees, and _Kalvidhe_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinalë do.
 
-Closeness is heard in the call instead. A name spoken to its bearer wears—_Kouvimo_ called is _Houvimo_—so every call already sounds different from talk about a person, and the pitch the speaker lays over the worn name carries the warmth, the summons or the reproach.
+Closeness is heard in the call instead. A name spoken to its bearer wears—_Kalvidhe_ called is _Halvidhe_—so every call already sounds different from talk about a person, and the pitch the speaker lays over the worn name carries the warmth, the summons or the reproach.
 
 A Sinalë known for something more carries it as an epithet, which stands worn after the full name and adds to it without taking its place. Among the Sinalë a name grows by addition and never by subtraction.
 
