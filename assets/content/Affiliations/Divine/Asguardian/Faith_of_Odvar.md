@@ -111,7 +111,7 @@ In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir
 
 **High Ceremonies:**
 
-- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom.
+- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom. The Hofgodi of Ódholm, whose rune-hall the faith's hofs acknowledge as the first among them, will not delegate it: the draft is taken at the one hour of the year the rune-staves are recast for the coming season.
 
 **Festivals:**
 
