@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gekhenu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: library-temples and astronomers; the calendar-keepers of the middle river. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-rethsaar|Faith of Reth'Sa'âr]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gekhenuselat|Gekhenu Selat]].
+"If you want a date, go to the astronomers. If you want a tax, go to the bureau. If you want either of them to move, come to me," the Halzi'a's steward tells a clerk newly posted to Gekhenu. "The Halzi'a signs for all three."
+
+The **Selat of Gekhenu** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of library-temples and astronomers, the calendar-keepers of the middle river, with about 400,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-rethsaar|Faith of Reth'Sa'âr]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gekhenuselat|Gekhenu Selat]].
 
 ## Character
 
-Its seat is [[place-gekhenu|Gekhenu]], where the Halzi'a keeps his court and the selat's chief temple of Reth'Sa'âr stands.
+The seat is [[place-gekhenu|Gekhenu]], where the Halzi'a keeps his court and the chief temple of [[lore-rethsaardty|Reth'Sa'âr]] stands. The steward administers the selat's revenue, its granaries and its corvée, and beside him the temple keeps the count of the year. A selat whose patron is the scribe of the gods keeps its authority in writing: the tax rolls, the granary accounts and the calendar all pass through scribal hands.
 
 ## Commerce and Currency
 
-Gekhenu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gekhenu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-gekhenu|Gekhenu]]—Selat capital
-- [[affiliation-rethsaar|Faith of Reth'Sa'âr]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-gekhenuselat|Gekhenu Selat]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-gekhenu|Gekhenu]]—selat capital
+- [[affiliation-rethsaar|Faith of Reth'Sa'âr]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-gekhenuselat|Gekhenu Selat]]—the land the selat holds

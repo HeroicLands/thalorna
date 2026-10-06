@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gar-Lût is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: A small, devout selat of healing-shrines and herb-gardens. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garlutselat|Gar-Lût Selat]].
+"Water first, then everything else," the Canal-Warden of Gar-Lût tells a surveyor sent to look at his works. "The gardens, the shrines and the grain all stand or fall on the ditches, and a ditch that is not cleared in its season does not forgive you."
+
+The **Selat of Gar-Lût** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a small, devout selat of healing-shrines and herb-gardens with about 240,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-uznera|Faith of Uznêra]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garlutselat|Gar-Lût Selat]].
 
 ## Character
 
-Its seat is [[place-garlut|Gar-Lût]], where the Halzi'a keeps his court and the selat's chief temple of Uznêra stands.
+The seat is [[place-garlut|Gar-Lût]], where the Halzi'a keeps his court and the chief temple of [[lore-uzneradty|Uznêra]] stands. The Canal-Warden keeps the irrigation works on which the selat's harvest and its tax depend. Uznêra's teaching, that creation needs the partnership of a masculine and a feminine principle, is the foundation of the standing Khelâthi women hold in law, and her priestesses take high office in the temples.
 
 ## Commerce and Currency
 
-Gar-Lût uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gar-Lût uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-garlut|Gar-Lût]]—Selat capital
-- [[affiliation-uznera|Faith of Uznêra]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-garlutselat|Gar-Lût Selat]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-garlut|Gar-Lût]]—selat capital
+- [[affiliation-uznera|Faith of Uznêra]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-garlutselat|Gar-Lût Selat]]—the land the selat holds

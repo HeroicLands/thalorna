@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gadju-Mûlu is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: "Green Waters"—marshy floodbasin, flax and waterfowl, the wettest of the upper selatu. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gadjumuluslt|Gadju-Mûlu Selat]].
+"Learn which book you are writing in," the Halzi'a's steward tells a young clerk on his first morning in Gadju-Mûlu. "The temple of Thubâ'i, the Halzi'a's granary and the tax bureau all keep ledgers, and they do not keep the same ones."
+
+The **Selat of Gadju-Mûlu** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the "Green Waters" selat of marshy flood-basin, flax and waterfowl, the wettest of the upper selatu, with about 360,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-thubai|Faith of Thubâ'i]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-gadjumuluslt|Gadju-Mûlu Selat]].
 
 ## Character
 
-Its seat is [[place-gadjumulu|Gadju-Mûlu]], where the Halzi'a keeps his court and the selat's chief temple of Thubâ'i stands.
+The seat is [[place-gadjumulu|Gadju-Mûlu]], where the Halzi'a keeps his court and the chief temple of [[lore-thubaidty|Thubâ'i]] stands. The Halzi'a's steward administers the selat's revenue, its granaries and its corvée. The patron god is among the best loved in the empire, and his priests teach that pleasure is a form of gratitude, which sits easily on a selat of marsh, flax and waterfowl.
 
 ## Commerce and Currency
 
-Gadju-Mûlu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gadju-Mûlu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]], attached to the chief temple, attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-gadjumulu|Gadju-Mûlu]]—Selat capital
-- [[affiliation-thubai|Faith of Thubâ'i]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-gadjumuluslt|Gadju-Mûlu Selat]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-gadjumulu|Gadju-Mûlu]]—selat capital
+- [[affiliation-thubai|Faith of Thubâ'i]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-gadjumuluslt|Gadju-Mûlu Selat]]—the land the selat holds
