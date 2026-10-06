@@ -186,10 +186,10 @@ kept for three thousand years.
 
 And it is **completely dark, and completely silent.**
 
-Anyone who ever got in—and no one has—would see it by whatever light they carried, and would find the
-splendor entirely intact and entirely unable to do what it was built for. Halls raised to hold daylight,
+No one has ever got in, and the
+splendor within is entirely intact and entirely unable to do what it was built for. Halls raised to hold daylight,
 holding none. Market circles painted as open sky, under torchlight. Vaults hundreds of feet up, out of
-reach of any lamp, so that the greatest rooms ever made would register only as a cold draft and an echo
+reach of any lamp, so that the greatest rooms ever made are only a cold draft and an echo
 and no ceiling at all.
 
 Bright and airy, made dim and vast. That is the whole of what the Khazári did to Khazártúrn in order to

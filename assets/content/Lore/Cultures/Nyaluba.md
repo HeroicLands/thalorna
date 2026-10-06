@@ -64,7 +64,7 @@ A Nyáluban asked whether he believes in the spirits finds the question strange.
 
 Wealth is cattle among the Mvuzi, gold among the Ngonzi, trade among the Sengala, grain among the Bombwe and the river among the Kambezi, and each clan quietly believes its own kind is the real kind.
 
-Decision is by consensus, and consensus here is a technique and not a sentiment. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Mvuzi paramount and the Bombwe griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and a foreigner who mistakes the slowness for indecision has misread the most sophisticated thing in Nyáluban public life.
+Decision is by consensus, and consensus here is a technique and not a sentiment. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Mvuzi paramount and the Bombwe griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and the slowness is not indecision but the most sophisticated thing in Nyáluban public life.
 
 Feuds between clans are forsworn. Feuds within a clan are not, and elders settle them in cattle.
 

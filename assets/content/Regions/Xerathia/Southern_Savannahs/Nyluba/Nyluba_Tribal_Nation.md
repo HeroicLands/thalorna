@@ -202,7 +202,7 @@ To the **south and southeast**, beyond the Kambezi wetlands and the Ngonzi highl
 
 **Bonzimbe of the Bombwe**, senior griot of the Long Pact. The official memory-bearer of the Pact's terms, the genealogies of all five paramounts, and the recorded judgments of the previous twenty-three Indabas. Approximately seventy years old, blind, and considered by all five clans to be the closest living thing to a neutral arbiter the Nyáluba possess.
 
-**Mvura wa Kambezi**, senior _mwalimu wa roho_ of the Kambezi, said to have walked into a particular Old Kraal during her initiation and emerged speaking the Stone Tongue—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Bombwe griots have entered it into the Indaba record. What the Stone Tongue is for, no one will say.
+**Mvura wa Kambezi**, senior _mwalimu wa roho_ of the Kambezi, said to have walked into a particular Old Kraal during her initiation and emerged speaking the Stone Tongue—the language no living Nyáluban understands but which the Ngonzi elders say was the speech of the lost stone-builders. The Ngonzi confirm the report; the Bombwe griots have entered it into the Indaba record. What the Stone Tongue is for has not been said.
 
 The griots' recital of the record, set beside a fireside telling in [[lore-stonetongue|The Stone Tongue]], keeps the entry short:
 

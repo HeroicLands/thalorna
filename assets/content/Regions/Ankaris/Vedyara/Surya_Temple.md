@@ -28,7 +28,7 @@ The [[place-ganakahall|reckoners at Chandrapur]] compute the same turn and get a
 
 Some thirty thousand people a year reach the shelf in the open months, which makes this the most made of the four source-pilgrimages and by a long way the hardest. Perhaps a tenth of them are carried the last stage. The temple's hospitality is four long sheds, a kitchen and a great deal of firewood hauled up from below, and the whole of it is paid for out of the offerings of the lowland temples rather than by anything the pilgrims bring.
 
-Nobody's caste is read at the gate here. The mark is not asked for on the shelf, and a priest asked why will say that the god is looking at the mountain and not at the queue. What happens to the same pilgrim when he gets back down to the terraces is another matter.
+Nobody's caste is read at the gate here. The mark is not asked for on the shelf, and the priests' reason is that the god is looking at the mountain and not at the queue. What happens to the same pilgrim when he gets back down to the terraces is another matter.
 
 ## The Slab
 

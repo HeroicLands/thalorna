@@ -49,7 +49,7 @@ A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is unde
 
 Ask a Kaliharan of the interior what a person owes, and he answers: the balance first, then the household, then whatever council has asked something of him this season.
 
-He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and observable by anyone who cares to look, which he will point out is a stricter arrangement than judgment after death.
+He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and observable, which he holds is a stricter arrangement than judgment after death.
 
 ## See Also
 

@@ -39,7 +39,7 @@ data:
       Keeper of the Weights: >-
         Attests the measures the markets trade by. A false weight is the ward's commonest charge and its most reliable revenue.
       Clerk of the Roll: >-
-        Holds the licenses and the record of every ruling made in the ward—including, for anyone who can read a register, the pattern of which premises are inspected and which are not.
+        Holds the licenses and the record of every ruling made in the ward—including the pattern of which premises are inspected and which are not.
   seat: magnapolis
   domains: []
   population: null
