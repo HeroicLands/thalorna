@@ -431,6 +431,14 @@ The stems are not gendered and are freely shared: a brother and a sister are com
 
 Lineage names have no gendered form.
 
+### A Name Is Never Shortened
+
+A Sinalë is called by the whole given name, all three or four syllables of it, by a mother and by a stranger alike. The language has no shorter form to call by. Take the ending away and what is left is the stem, and the stem is the thing itself: _kouvi_ is the pale wood of the birch, so a Sinalë who says _Kouvi_ is talking about trees, and _Kouvimo_ has not been called. Cut further and the syllable that remains names nothing at all. A name chosen slowly, sometimes over years, and held to shape what its bearer becomes is not trimmed for convenience, and four syllables stressed always on the first are no burden to a people who live as long as the Sinalë do.
+
+Closeness is heard in the call instead. A name spoken to its bearer wears—_Kouvimo_ called is _Houvimo_—so every call already sounds different from talk about a person, and the pitch the speaker lays over the worn name carries the warmth, the summons or the reproach.
+
+A Sinalë known for something more carries it as an epithet, which stands worn after the full name and adds to it without taking its place. Among the Sinalë a name grows by addition and never by subtraction.
+
 ## Name Lists
 
 ### Male Given Names
