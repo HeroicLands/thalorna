@@ -145,7 +145,7 @@ export function tables(text, base = 0) {
             continue;
         }
         const cells = line
-            .split("|")
+            .split(/(?<!\\)\|/)
             .slice(1, -1)
             .map((cell) => cell.trim());
         if (cells.every((cell) => /^:?-+:?$/.test(cell))) continue;
@@ -868,7 +868,7 @@ export function lexiconFrom(text) {
     }));
 
     const classTable = tableOf(text, "## Classes");
-    const classes = classTable.rows.map(({ cells }) => ticked(cells[0])[0]);
+    const classes = classTable.rows.map(({ cells }) => ticked(cells[0])[0] ?? plain(cells[0]));
 
     const skeletonTable = tableOf(text, "## Skeletons");
     const sForm = column(skeletonTable, "skeleton");
