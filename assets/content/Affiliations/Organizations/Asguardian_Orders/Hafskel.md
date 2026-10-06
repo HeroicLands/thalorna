@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hafskel, the Seaforged, trains fighters of [[affiliation-thrunvald|Thrúnvald]]'s faith at sea rather than ashore, drilling them into masters of naval combat and the defense of a ship under way. A member serves aboard the vessels that carry Thrúnvald's faithful, where the order's own standing counts for more than any crew's rank but the captain's.
+Hafskel, the Seaforged, trains fighters of [[affiliation-thrunvald|Thrúnvald]]'s faith at sea rather than ashore, drilling them into masters of naval combat and the defense of a ship under way. A member serves aboard the vessels that carry [[lore-thrunvalddty|Thrúnvald]]'s faithful, where the order's own standing counts for more than any crew's rank but the captain's.

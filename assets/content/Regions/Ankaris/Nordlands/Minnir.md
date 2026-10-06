@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Minnir appears in the [[affiliation-odvar|Faith of Ódvar]] as a severed head from whom [[lore-odvardty|Ódvar]] continues to seek counsel. The well bearing Minnir’s name holds wisdom-bestowing waters, for a drink of which the god sacrifices an eye. Ódholm’s rune-hall tells that Ódvar seeks knowledge of the world’s end there and learns his own death at [[lore-aldarlok|Aldarlok]]. Its Rite of Minnir’s Well uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, expressing the faith’s teaching that wisdom must be paid for.
+Minnir appears in the [[affiliation-odvar|Faith of Ódvar]] as a severed head from whom [[lore-odvardty|Ódvar]] continues to seek counsel. The well bearing Minnir’s name holds wisdom-bestowing waters, for a drink of which the god sacrifices an eye. [[place-odholm|Ódholm]]’s rune-hall tells that Ódvar seeks knowledge of the world’s end there, that the runes stand in the water he drinks, and that the first thing they spell for him is his own death at [[lore-aldarlok|Aldarlok]]. The eye is the only price the god pays for the runes, and the well is the only place he pays it. Its Rite of Minnir’s Well uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, expressing the faith’s teaching that wisdom must be paid for.
 
 : The Mouth Beside the Well
 

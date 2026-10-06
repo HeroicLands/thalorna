@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eidverdir, the Oathkeepers, are warriors sworn to [[affiliation-eidgar|Eidgar]] under oaths heavier than an ordinary soldier's, dedicating their lives to the protection and defense of the faith and the hofs where its tings sit. A member who breaks that oath forfeits the order's shelter for good, the same discipline Eidgar's own priesthood holds itself to.
+Eidverdir, the Oathkeepers, are warriors sworn to [[affiliation-eidgar|Eidgar]] under oaths heavier than an ordinary soldier's, dedicating their lives to the protection and defense of the faith and the hofs where its tings sit. A member who breaks that oath forfeits the order's shelter for good, the same discipline [[lore-eidgardty|Eidgar]]'s own priesthood holds itself to.

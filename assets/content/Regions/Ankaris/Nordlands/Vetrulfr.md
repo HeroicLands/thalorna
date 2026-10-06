@@ -8,4 +8,4 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Vetrúlfr is the Winter-Wolf chained by [[lore-eidgardty|Eidgar]] at the cost of the god’s own hand. The [[affiliation-eidgar|Faith of Eidgar]] reads that sacrifice as a binding whose cost falls first on the binder, and the [[affiliation-eidhond|Order of the Sworn Hand]] bears the broken-handed sigil in memory of it. In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrúlfr slips his chain and the wolf-winter comes down. [[lore-odvardty|Ódvar]] falls to the wolf, and the wolf falls to [[lore-odvardty|Ódvar]]’s son.
+Vetrúlfr is the Winter-Wolf chained by [[lore-eidgardty|Eidgar]] at the cost of the god’s own hand. The [[affiliation-eidgar|Faith of Eidgar]] reads that sacrifice as a binding whose cost falls first on the binder, and the [[affiliation-eidhond|Order of the Sworn Hand]] bears the broken-handed sigil in memory of it. In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrúlfr slips his chain and the wolf-winter comes down. [[lore-odvardty|Ódvar]] falls to the wolf, and the wolf falls to Ódvar’s son, **Aldvar**, the first of the [[lore-tvelgaett|Tvelgaett]].

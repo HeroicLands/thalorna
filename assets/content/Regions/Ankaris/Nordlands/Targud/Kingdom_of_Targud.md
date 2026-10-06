@@ -93,7 +93,7 @@ The Kingdom of Targud holds the land of [[place-targud|Targud]]. It is the most 
 
 ## Character
 
-Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat—they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other Nordmen kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
+Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat—they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other [[lore-nordheimnclt|Nordmen]] kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
 
 Targud maintains a network of frontier forts manned by warriors who serve rotating duty—a system that ensures every able-bodied person in the kingdom has combat experience.
 
@@ -101,7 +101,7 @@ Despite the grim reputation, Targud is also the kingdom with the most knowledge 
 
 ## Commerce and Currency
 
-Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the Nordlands. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the [[place-nrdlndsrgn|Nordlands]]. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
 
 ## See Also
 

@@ -27,7 +27,7 @@ He answers for the hofs and godar he has consecrated and ordained, and keeps the
 
 ## Offices Open at This Standing
 
-None above it within the faith; the Landsgodi who hallows the ting island at Dómsey is an office of the King of All Clans assembly rather than a further rank of any one faith.
+None above it within the faith; the Landsgodi who hallows the ting island at [[place-domsey|Dómsey]] is an office of the King of All Clans assembly rather than a further rank of any one faith.
 
 ## Where This Standing Is Held
 

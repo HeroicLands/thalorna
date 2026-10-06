@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Fródvin, the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fródvin's blessings are vital to those who work the land.
+[[lore-frodvindty|Fródvin]], the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fródvin's blessings are vital to those who work the land.
 
 ## Aspects
 

@@ -396,7 +396,7 @@ Dvulgynda's stealth abilities border on the supernatural; she can move through g
 
 ### Enemies
 
-**Jarl Eirik the Vengeful**—The jarl from whom Dvulgynda stole the Crown of Ages. He has dedicated considerable resources to finding and punishing her, including hiring the most skilled trackers in the north.
+**Jarl Gnarthvir the Vengeful**—The jarl from whom Dvulgynda stole the Crown of Ages. He has dedicated considerable resources to finding and punishing her, including hiring the most skilled trackers in the north.
 
 **The Crown of Ages itself**—The artifact is rumored to be semi-sentient and to bear a grudge against those who steal it. Strange misfortunes have plagued Dvulgynda since the heist.
 

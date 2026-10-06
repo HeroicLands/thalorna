@@ -390,7 +390,7 @@ Since his transformation, Hlarthvir can communicate with trees and forest creatu
 
 ### Patrons
 
-**The Forest of the Heartwood**—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
+**The Forest of Hlarthmark**—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
 
 **The Woodcutters' Guild**—The local woodsmen who knew Hlarthvir in life still leave offerings at his shrine and follow his guidance on which trees may be harvested and which must be spared.
 

@@ -398,12 +398,12 @@ Krildthann's defensive combat style is nearly impenetrable; his ability to read 
 
 **The Blackfang Company**—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
 
-**Jarl Hreidmar the Cruel**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
+**Jarl Vruthmýl the Cruel**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 
 ## Plot Hooks
 
 1. **The Unbreakable Shield**—Krildthann's blessed shield has developed a crack for the first time. The priests of Eidgar believe it is a sign that the god is testing Krildthann's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
 
-2. **The Siege of Hornburg**—A fortress protecting refugees has come under siege by a vastly superior force. Krildthann must organize the defense and hold the walls long enough for reinforcements to arrive—if they come at all.
+2. **The Siege of Driskborg**—A fortress protecting refugees has come under siege by a vastly superior force. Krildthann must organize the defense and hold the walls long enough for reinforcements to arrive—if they come at all.
 
 3. **The Defender's Choice**—Two communities are under simultaneous attack, and Krildthann can only reach one in time. The choice will haunt him regardless of which he makes, and the community he does not choose may never forgive him.

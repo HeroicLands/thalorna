@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Ormgeir, the Serpentfangs, fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before a fight is ever joined. A member carries venom prepared at one of the hidden hofs in Malagna's ports, and is relied on to finish what a blade alone would leave unsettled.
+Ormgeir, the Serpentfangs, fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before a fight is ever joined. A member carries venom prepared at one of the hidden hofs in [[place-malagna|Malagna]]'s ports, and is relied on to finish what a blade alone would leave unsettled.

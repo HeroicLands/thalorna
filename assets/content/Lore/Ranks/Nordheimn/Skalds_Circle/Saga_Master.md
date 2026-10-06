@@ -19,7 +19,7 @@ His compositions are what the Circle itself now stands on: the repertoire he has
 
 ## Privileges
 
-His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skálds gives his judgment particular weight when a Skaldating resolves a disputed recitation.
+His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skalds gives his judgment particular weight when a Skaldating resolves a disputed recitation.
 
 ## Obligations
 

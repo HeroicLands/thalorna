@@ -392,7 +392,7 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 **Gnuldrthýra the Forsaken**—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
 
-**Elder Thorbjorn**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
+**Elder Hrundorv**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
 
 ### Enemies
 

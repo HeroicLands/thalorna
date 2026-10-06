@@ -27,7 +27,7 @@ He answers to the ting for the realm as a jarl answers for a province: its peace
 
 ## Offices Open at This Standing
 
-None above it. The King of All Clans assembly, which convenes at Dómsey and is held by whichever kingdom holds that island, is an office of that separate assembly rather than a further rank of any one kingdom.
+None above it. The King of All Clans assembly, which convenes at [[place-domsey|Dómsey]] and is held by whichever kingdom holds that island, is an office of that separate assembly rather than a further rank of any one kingdom.
 
 ## Where This Standing Is Held
 
