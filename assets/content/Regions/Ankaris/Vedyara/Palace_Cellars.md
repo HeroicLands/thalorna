@@ -22,6 +22,17 @@ Nothing was hidden and nothing was buried. The granaries became common stores, t
 
 The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the Memory-Keeper's recitation names rooms that a listener can then go and stand in.
 
+: From the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] {#recitation-excerpt}
+
+```poetry {form=recitation lang=en}
+His guard went from the barrack to the grain
+  while he sat in the hall.
+His cook had neighbors in the hungry lanes
+  and could not bear their cry.
+So the tradition runs: the kitchen's cup
+  was the last the king drank.
+```
+
 Once a year, at the Day of the Dissolution, the recitation is given in the temple precinct and not here. The Rājapuri position is that the cellars are not a monument and are not to be treated as one.
 
 ## See Also

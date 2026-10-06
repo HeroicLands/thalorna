@@ -18,6 +18,10 @@ The Memory-Keeper keeps it, as one of the four duties his family has held in unb
 
 Palm-leaf does not last in a wet country. The library recopies on a thirty-year cycle, hand for hand, and a page is checked against the page it came from by two readers before the old leaf is burned. The scriptoria of the temple do the work, and the manuscript trade the town lives on is the same men selling their spare capacity.
 
+: From [[lore-fortydays|The Forty Days]] {#forty-days-excerpt}
+
+> The council-chamber was kept, and with it the record. This is the clause the commentary returns to most. The dissolution was a judgment, and a judgment is only as good as the record behind it.
+
 ## Who Comes
 
 Historians come from across the region and are admitted. The Rājapuri answer to anyone who asks why a dissolved dynasty is archived in this detail is that the dissolution was a judgment, and that a judgment is only as good as the record behind it.
