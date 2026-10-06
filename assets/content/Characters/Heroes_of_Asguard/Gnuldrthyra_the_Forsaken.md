@@ -368,6 +368,8 @@ Gnuldrthýra stands 5'5" with a lithe, predatory frame, weighing about 130 pound
 
 Gnuldrthýra was one of [[lore-motefnirdty|Mótefnir]]'s early creations, a being of both human and monstrous traits. She was born in one of Mótefnir's laboratories, a fusion of different beings, but was quickly abandoned by her creator when he deemed her unworthy of his attention. Left to wander the world, Gnuldrthýra struggled with her identity, torn between her human emotions and her monstrous nature. Despite the rejection, she never lost faith in Mótefnir, believing that her existence had a purpose, even if Mótefnir had not yet seen it. Gnuldrthýra became known as the Forsaken, a title she wore with pride as she sought to prove her worth to her creator.
 
+A hero made directly by a god is a celestial, a retainer of the god itself and set above all mortals. Gnuldrthýra is a celestial of Mótefnir by her making, so she holds no rank in the mortal ladder of his faith or of any other.
+
 The saga of Gnuldrthýra the Forsaken tells of her journey to reclaim her place in Mótefnir's creation. She heard rumors of the Heart of the Firstborn, hidden deep within one of Mótefnir's oldest and most dangerous laboratories. This relic was said to hold the essence of Mótefnir's first and most beloved creation. The journey was perilous, filled with traps and hostile Dreadspawn, but Gnuldrthýra's determination drove her forward. In the heart of the laboratory, she faced a guardian created by Mótefnir himself. In a fierce battle, Gnuldrthýra defeated the guardian, claiming the Heart of the Firstborn. Rather than offering it to Mótefnir, she absorbed its essence into herself, transforming into a being of immense power and beauty—a champion of Mótefnir's path.
 
 ## Psyche

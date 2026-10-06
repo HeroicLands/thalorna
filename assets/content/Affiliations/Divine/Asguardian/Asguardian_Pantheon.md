@@ -403,7 +403,7 @@ The Asguardian calendar is organized around four great seasonal blóts, suppleme
 
 [[lore-vetrnaetr|Vetrnaetr]] (the Winter Nights, at the turn toward winter in late autumn) is the most somber of the four. The livestock that will not be kept through the winter are slaughtered in a great blót, the meat preserved, the bones read, the dead honored. Náhild's name is spoken with caution; Sólrún receives the greatest portion, for she is the keeper of half the honored dead; Ódvar is invoked as the wanderer of the coming long dark.
 
-Between these four, each faith maintains its own calendar of high rites—the Feast of Valsal for Ódvar, the Reaver's Thanksgiving for Thrúnvald, the Rite of [[lore-minnir|Minnir]]'s Well among the rune-priests, the Fire-Weeks of Svartbrandr's extreme ascetics, and the secret observances of Náhild's clergy which are known only to their own initiates.
+Between these four, each faith maintains its own calendar of high rites—the [[affiliation-odvar|Feast of Valsal]] for Ódvar, the [[affiliation-thrunvald|Reaver's Thanksgiving]] for Thrúnvald, the [[affiliation-odvar|Rite of Minnir's Well]] among the rune-priests, the [[lore-fireweeks|Fire-Weeks]] of Svartbrandr's extreme ascetics, and the secret observances of Náhild's clergy which are known only to their own initiates.
 
 ## The Cosmic Struggle: Aldarlok
 
