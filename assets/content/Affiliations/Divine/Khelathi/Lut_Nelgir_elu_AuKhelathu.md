@@ -40,7 +40,7 @@ Lut-Nelgir elu Aû'Khelâthu names the great temple-estates of [[place-aukhelath
 
 "I'll tell you what the altar is built on," says the Steward of the Temple Estates, nodding toward the long mudbrick granaries at the edge of the village. "That." He runs a temple's landholdings from an estate-town. The people who work its fields live in tenant-villages that belong to the temple, and he is the one who gathers their grain, their labor and their livestock into its stores. He is proud of the tallies. He does not think of himself as a priest, and he does not need to.
 
-This is the part of the faith that a pilgrim does not see from the front courtyard. Lut-Nelgir elu Aû'Khelâthu names the temple-estates taken together: the granaries, the workshops and the tenant-villages the temples hold in common. Between them they command land, labor and resources enough to rival the Gar-Aû's own palace. The Temple Tenant is the ordinary member—someone who works a temple's land, its granaries or its workshops, or lives as one of the temple's dependents.
+This is the part of the faith that a pilgrim does not see from the front courtyard. The Temple Tenant is the ordinary member of the estates: someone who works a temple's land, its granaries or its workshops, or lives as one of the temple's dependents, and whose labor fills the stores the steward counts.
 
 Each temple's council answers for its own share, so the estates act as a confederation of proprietors with no single will. They treat a dispute over temple land as a political matter as much as a sacred one, because the estate behind the altar is both.
 
