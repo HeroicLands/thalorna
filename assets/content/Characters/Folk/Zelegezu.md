@@ -1,6 +1,6 @@
 ---
 shortcode: zelegezu2
-name: {full: Zelegezu, aliases: []}
+name: {full: Zelegezu, aliases: [Zelê]}
 type: being
 subType: npc
 description: "A calculating noble of middling talent who compensates for the talent with the calculation"

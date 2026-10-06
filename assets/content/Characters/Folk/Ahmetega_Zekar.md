@@ -1,6 +1,6 @@
 ---
 shortcode: ahmetegazek2
-name: {full: Ahmetega Zekar, aliases: []}
+name: {full: Ahmetega Zekar, aliases: [Ahmê]}
 type: being
 subType: npc
 description: "A decorated officer of the river fleet, whose service is a matter of record and whose opinions on the fleet's present command are not"

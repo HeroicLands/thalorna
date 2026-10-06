@@ -479,7 +479,7 @@ The Bridge District Militia
 
 ### Enemies
 
-Master Khelamose the Embellisher
+Master [[being-khelamose|Khelamose]] the Embellisher
 : A rival craftsman who specializes in ornate, jeweled weapons intended for nobility. Khelamose publicly mocks Shezur's "crude militarism" and has twice attempted to undercut his prices at military auctions.
 
 [[affiliation-linmlnqnwglz|Lin'Melnu-Qenuwa elu Galezkara]]

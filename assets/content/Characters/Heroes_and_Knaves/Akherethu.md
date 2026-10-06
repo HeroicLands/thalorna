@@ -1,6 +1,6 @@
 ---
 shortcode: akherethu2
-name: {full: Akherethu, given: Akherethu, aliases: []}
+name: {full: Akherethu, given: Akherethu, aliases: [Akhê]}
 type: being
 subType: character
 description: "Commander of the Imperial Guard, answerable to the Gar-Aû alone, and careful never to be seen taking a side at court"

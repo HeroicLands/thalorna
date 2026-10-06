@@ -483,7 +483,7 @@ Gatnefur is driven by a belief that he has not yet created his masterpiece—the
 Lord [[being-qeltiemhequ2|Qelti Emhequ]]
 : A wealthy merchant lord with an obsession with rare fragrances. He has become Gatnefur's greatest patron and champion, commissioning custom fragrances and defending him against accusations from traditionalist guild members. There are rumors that their relationship is more intimate than mere patron and artisan.
 
-High Priestess Legirtari of the Temple of Hathor
+High Priestess [[being-legirtari|Legirtari]]
 : A spiritual leader who commissioned from Gatnefur a special fragrance intended to heighten participants' awareness during sacred rituals. She values his work and offers him access to rare and sacred ingredients.
 
 The Royal Perfumer of the Gar-Aû's Court
