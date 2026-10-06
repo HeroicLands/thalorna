@@ -978,6 +978,16 @@ Dashes and hyphens follow the **Chicago Manual of Style**. Three marks do three 
   `temple - treasury` or `temple—treasury`.
 - **A See Also gloss uses a closed em-dash:** `[[place-x|Name]]—what it is`.
 
+## Leave poetry alone
+
+Everything above governs prose. Poetry is composed, not reference writing, and
+none of these rules apply to it: a poem, song, epic excerpt or verse passage is
+never reworded, trimmed, reflowed, re-punctuated or respelled to meet them—not
+its dashes, not its spelling, not its sentence length. That holds for verse in a
+poetry fence, verse quoted in a blockquote, and every `literature` note, verse or
+prose. A pass over a note rewrites the prose around the verse and keeps the
+verse and its caption exactly as they stand.
+
 ## Keep the reference usable
 
 - **State facts where readers expect them.** Put locations, leaders, boundaries, normal weather, and other lookup information in clear prose or structured fields. Let narrative add meaning around them.
