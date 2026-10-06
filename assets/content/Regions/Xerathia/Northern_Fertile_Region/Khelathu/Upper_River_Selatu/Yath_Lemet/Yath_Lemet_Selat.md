@@ -32,7 +32,7 @@ Yath-Lemet runs on the flood and the harvest on a smaller scale than any other u
 ## Notable Features
 
 - [[place-yathlemet|Yath-Lemet]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]] and its estates
+- The chief temple of [[affiliation-tjelsuk|Faith of Tjelsur]] and its estates
 - The narrow gorge where the valley pinches to almost nothing
 
 ## Settlements

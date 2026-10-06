@@ -1,6 +1,6 @@
 ---
 shortcode: selatlttjlsk
-name: {full: The Selat of Lut-Tjelsuk, aliases: []}
+name: {full: The Selat of Lut-Tjelsur, aliases: []}
 type: affiliation
 subType: polity
 description: "Eastern marsh; the great crocodile cult and the river-beast hunters—one of the delta selatu of Aû'Khelâthu."
@@ -77,23 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-[[place-luttjelsuk|Lut-Tjelsuk]] is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-tjelsuk|Tjelsuk]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsuk Selat]].
+[[place-luttjelsuk|Lut-Tjelsur]] is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-tjelsuk|Tjelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-luttjelskslt|Lut-Tjelsur Selat]].
 
 "Learn the rule before you learn the god," says the treasurer of the temple's [[affiliation-garhalzi|Gár-Hálzi]] chapter, laying a weight-piece on the scale. "The beast is sacred, and the beast eats our children. So a cull is a religious act before it is a commercial one, and somebody must license it."
 
 ## Character
 
-The seat is [[place-luttjelsuk|Lut-Tjelsuk]], where the Halzi'a keeps court and the selat's chief temple of Tjelsuk stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
+The seat is [[place-luttjelsuk|Lut-Tjelsur]], where the Halzi'a keeps court and the selat's chief temple of Tjelsur stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
 
 ## Commerce and Currency
 
-Lut-Tjelsuk uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of Gár-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a hunter paid for a season's work is paid in pieces the chapter has weighed. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Lut-Tjelsur uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of Gár-Hálzi attached to the chief temple attests the weight-pieces and holds the granary accounts, and a hunter paid for a season's work is paid in pieces the chapter has weighed. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-luttjelsuk|Lut-Tjelsuk]]—Selat capital
-- [[affiliation-tjelsuk|Faith of Tjelsuk]]—Patron cult
+- [[place-luttjelsuk|Lut-Tjelsur]]—Selat capital
+- [[affiliation-tjelsuk|Faith of Tjelsur]]—Patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-luttjelskslt|Lut-Tjelsuk Selat]]—The land the selat holds
+- [[place-luttjelskslt|Lut-Tjelsur Selat]]—The land the selat holds

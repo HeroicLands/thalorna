@@ -21,10 +21,10 @@ The cult therefore sits inside a noble family's charter rather than inside a pri
 
 ## The Question the Hunters Leave Open
 
-Whether Igel'Nâru is a god in his own right or [[lore-tjelsukdty|Tjelsuk]] under a river-name is unsettled. The two share the water, the river-beasts and the problem of the cull. The hunting companies who would know do not explain themselves.
+Whether Igel'Nâru is a god in his own right or [[lore-tjelsukdty|Tjelsur]] under a river-name is unsettled. The two share the water, the river-beasts and the problem of the cull. The hunting companies who would know do not explain themselves.
 
 ## See Also
 
 - [[affiliation-igelnaru|Faith of Igel'Nâru]]—the cult and its offices
-- [[lore-tjelsukdty|Tjelsuk]]—the crocodile-god whose water he shares
+- [[lore-tjelsukdty|Tjelsur]]—the crocodile-god whose water he shares
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries the cult
