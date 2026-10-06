@@ -39,7 +39,7 @@ This section focuses on establishing the political and social instability within
 
 ### Act II: The Quest for the Relics
 
-Gróa’s visions tell her of the three ancient relics—**The Spear of Sigrid**, **The Crown of the Wyrm**, and **The Horn of Njörvar**—needed to seal away Njörven. Each relic presents unique challenges, and retrieving them will require more than magical power; it will demand diplomacy, strategy, and careful decision-making.
+Gróa’s visions tell her of the three ancient relics—**The Spear of Sigrid**, **The Crown of the Wyrm**, and **The Horn of Hafvald**—needed to seal away Njörven. Each relic presents unique challenges, and retrieving them will require more than magical power; it will demand diplomacy, strategy, and careful decision-making.
 
 - **The Spear of Sigrid:** This relic is hidden within an ancient shrine, guarded by a powerful **spirit guardian**. To gain the Spear, Gróa must confront this guardian not through battle but by journeying into the spirit world. There, she will face trials that test her wisdom, wit, and resolve. The spirit world will reflect not only the physical realm but also the deep fears and desires of Gróa and her companions. Solving these trials will unlock the Spear, but brute strength will lead to failure.
 - **Hlirthselda’s Role in the Defense of the Realm:** After defending the village, Hlirthselda’s influence among the coastal clans grows. When Gróa and her companions need support on their quest, Hlirthselda’s new allies from the village defense will come to their aid, offering ships, supplies, or warriors to help the group continue their journey. This assistance will be crucial in navigating the dangers posed by foreign raiders and the storm-wracked seas as they pursue the other relics.

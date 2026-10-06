@@ -392,13 +392,13 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 **The Storm Temple of [[place-thrumufjall|Thrumufjall]]**—The priests of Thrúnvald's sacred mountain recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
-**Widow Astridr of Kystvik**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
+**Widow Hvarnselda of Ralthvík**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 
 **The Serpent Cult**—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
-**Jarl Brynjar Stormbreaker**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
+**Jarl Skraldvir Stormbreaker**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
 
 ## Plot Hooks
 

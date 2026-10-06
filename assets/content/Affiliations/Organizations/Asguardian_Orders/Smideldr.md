@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Smideldr, the Order of the Inferno, trains priests of [[affiliation-svartbrandr|Svartbrandr]] in the mastery of fire, serving his forge-hofs as blacksmiths and forge-masters through the **[[lore-fireweeks|Fire-Weeks]]** and beyond them. A member tends the bellows that keep a forge-hof's ordeals burning, and is judged on the work as much as on the devotion behind it.
+Smideldr, the Order of the Inferno, trains priests of [[affiliation-svartbrandr|Svartbrandr]] in the mastery of fire, serving his forge-hofs as blacksmiths and forge-masters through the [[lore-fireweeks|Fire-Weeks]] and beyond them. A member tends the bellows that keep a forge-hof's ordeals burning, and is judged on the work as much as on the devotion behind it.

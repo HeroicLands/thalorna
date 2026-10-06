@@ -15,7 +15,7 @@ consists of getting it performed.
 ## Requirements
 
 - **All three regalia.** The [[miscgear-sprsigrid|Spear of Sigrid]], the
-  [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njörvar]]. Two will
+  [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Hafvald]]. Two will
   not do.
 - **A specific place.** The rite must be worked at a **hidden coastal temple**, and nowhere else. Its
   location is part of the quest.
@@ -32,7 +32,7 @@ campaign is not a duel but a defense, in which the party protects someone who is
 helpless while everything that has been building arrives at once.
 
 It is also not a purely magical solution. Sealing Njörven ultimately turns on knowledge, strategy and
-diplomacy as much as on the rite—on having brought Malagna's fractured clans to the point where the
+diplomacy as much as on the rite—on having brought [[place-malagna|Malagna]]'s fractured clans to the point where the
 temple can be held at all. A party that has the regalia and no allies will not finish it.
 
 ## Binding, Not Destroying

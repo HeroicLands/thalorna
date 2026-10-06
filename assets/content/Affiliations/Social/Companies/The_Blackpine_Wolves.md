@@ -37,11 +37,11 @@ sohl: {system: {commonSkills: []}}
 
 ![The Blackpine Wolves](https://cdn.heroiclands.org/images/blackpine_wolves.webp)
 
-The Blackpine Wolves are a small, vicious band of road bandits who prey on travelers along the crumbling old Vylarian trade road that threads through the dark pine forests of Vrystwald. They are not a disciplined military company or a romantic band of outlaws—they are desperate, violent men and one very dangerous woman, held together by fear of their leader and the absence of better options.
+The Blackpine Wolves are a small, vicious band of road bandits who prey on travelers along the crumbling old Vylarian trade road that threads through the dark pine forests of [[place-vrystwald|Vrystwald]]. They are not a disciplined military company or a romantic band of outlaws—they are desperate, violent men and one very dangerous woman, held together by fear of their leader and the absence of better options.
 
 ## Organization
 
-The gang is led by [[being-dagulfvthr|Dágulf Véthar]], a Varokh runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald Hildskorn]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
+The gang is led by [[being-dagulfvthr|Dágulf Véthar]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald Hildskorn]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
 
 The current membership stands at six:
 
@@ -49,7 +49,7 @@ The current membership stands at six:
 - [[being-thrwldhldskrn|Thráwald Hildskorn]]—Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
 - [[being-skthldfrdbn|Skathilda Fródbán]]—Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dágulf himself. Everyone is afraid of her.
 - [[being-vndrcgrwld|Vandaric Garwald]]—The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
-- [[being-hrodrrnthl|Hródar Arnthúl]]—Woodsman and fighter. A bitter former timber cutter who hates the Vylarian Empire with a cold, personal fury.
+- [[being-hrodrrnthl|Hródar Arnthúl]]—Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a cold, personal fury.
 - [[being-brunjarskathhel|Brunjár Skathhelm]]—Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
 ## Territory

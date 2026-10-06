@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Grönhönd, the Order of the Green Hand, trains priests of [[affiliation-frodvin|Fródvin]] as herbalists and caretakers of the sacred groves attached to his valley infirmaries. A member tends the sick alongside the hof's own clergy and keeps the herb-lore that Fródvin's healing depends on, laboring in the fields as readily as at a bedside.
+Grönhönd, the Order of the Green Hand, trains priests of [[affiliation-frodvin|Fródvin]] as herbalists and caretakers of the sacred groves attached to his valley infirmaries. A member tends the sick alongside the hof's own clergy and keeps the herb-lore that [[lore-frodvindty|Fródvin]]'s healing depends on, laboring in the fields as readily as at a bedside.

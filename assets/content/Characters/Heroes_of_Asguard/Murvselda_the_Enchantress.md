@@ -390,7 +390,7 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 ### Patrons
 
-**King Haraldr of the Northern Court**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
+**King Vrildthann of the Northern Court**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
 
 **The Sólrún Sisterhood**—A secret order of women devoted to Sólrún who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
 
@@ -398,7 +398,7 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 **The Fallen Advisor's Family**—The relatives of the corrupt advisor Murvselda exposed have sworn revenge. They work through proxies and hired assassins to discredit and destroy her.
 
-**Jarl Thorvald Embersteel**—A warlike lord who distrusts Murvselda's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
+**Jarl Braldorv Embersteel**—A warlike lord who distrusts Murvselda's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
 
 ## Plot Hooks
 

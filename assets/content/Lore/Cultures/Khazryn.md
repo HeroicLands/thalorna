@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Khazryn—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Canaanites of the post-Conquest period, and the Persianate oasis belt of Central Asia (Uzbek and Tajik analog): an old, literate, urban oasis people with princely houses, a learned priesthood and a devotion to an oasis-mother. Carries over: urban polytheist civilization dispossessed of its cities by a newcomer fire-cult, hereditary princes in exile, a subject diaspora, polytheist Āsháian observance with particular devotion to the oasis-mother and order-keeper, and an enduring blood-feud with the newcomer fire-cult that took the choicest land. Departs: the exile houses keep legal and genealogical records for recovering their cities."
 ---
 
 The desert is named for the Khazryn, and they will mention it early, because four of their seven cities are held by someone else and the name is one of the few things nobody has been able to take. They are an old, literate, urban people who lost. Ninety years ago the Ātárzád came into the oasis-belt as refugees, were taken in under the hospitality the desert extends to anyone in extremity, were settled on marginal land by princely patronage, and waited.

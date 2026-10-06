@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Náhild, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute—a place of endless torment and despair, reflecting her contempt for living beings.
+[[lore-nahilddty|Náhild]], the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute—a place of endless torment and despair, reflecting her contempt for living beings.
 
 ## The Eye of the Void
 
@@ -61,7 +61,7 @@ Náhild draws upon the twisted power and madness of the [[lore-ginnauga|Eye of t
 
 Náhild's followers are fanatically devoted to the propagation of death and chaos. Her priests perform ritual human sacrifices, believing these offerings increase chaos and Náhild's power and hasten the end of all life. Through these grim ceremonies, they seek her favor and seek to be granted dominion in the ruined world she envisions.
 
-Náhild commands an army of the undead—[[lore-nagengir|nágengir]] (the favored and terrible) and [[lore-haugverdir|haugverdir]] (corpses of the weak and dishonored)—reanimated by her dark magic to serve as her relentless minions.
+Náhild commands an army of the undead—[[lore-nagengir|nágengir]] (the favored and terrible) and [[lore-haugverdir|hrúmverdir]] (corpses of the weak and dishonored)—reanimated by her dark magic to serve as her relentless minions.
 
 She is often depicted as a ghastly figure, her eyes burning with a baleful light, and a morbid grin permanently etched on her face. Around her neck hangs the Eye of the Void, a source of her unholy strength and the symbol of her eternal hatred for all living things.
 
@@ -88,7 +88,7 @@ She is often depicted as a ghastly figure, her eyes burning with a baleful light
 ## Divine Servants
 
 - [[lore-nagengir|nágengir]]: Elite undead warriors and sorcerers, favored by Náhild, who serve as guardians of her temples and leaders of her undead armies.
-- [[lore-haugverdir|haugverdir]]: Reanimated mindless corpses (esp. of the weak, cowards, or dishonored) used as servants and soldiers in Náhild's legions.
+- [[lore-haugverdir|hrúmverdir]]: Reanimated mindless corpses (esp. of the weak, cowards, or dishonored) used as servants and soldiers in Náhild's legions.
 
 ## Ceremonies and Festivals
 

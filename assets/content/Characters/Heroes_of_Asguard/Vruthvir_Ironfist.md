@@ -392,18 +392,18 @@ Vruthvir's smithing skill is legendary; weapons and armor from his forge are pri
 
 **The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
 
-**Jarl Thorvald Embersteel**—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
+**Jarl Braldorv Embersteel**—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
 
 ### Enemies
 
 **The Stone Giant remnants**—Survivors of the army Vruthvir defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**Kolbjorn the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
+**Knirvmýl the Envious**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than genuine skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 
 1. **The Masterwork**—Vruthvir has located a vein of star-metal deep in giant territory that could allow him to forge his ultimate creation. He needs an escort to reach the deposit and protect him while he works.
 
-2. **The Forge-Curse**—Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Kolbjorn, the stone giants, or something far more sinister.
+2. **The Forge-Curse**—Someone has placed a curse on Vruthvir's forge, causing every weapon he creates to shatter within days. The culprit could be Knirvmýl, the stone giants, or something far more sinister.
 
 3. **The Last Battle**—Vruthvir's old wounds are worsening, and a healer has told him he has months to live. He seeks one final battle worthy of a servant of Svartbrandr—a death in fire and glory rather than a slow fade.

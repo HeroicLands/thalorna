@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Nordheimn—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blót offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Aelwyth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---
 
 The **Nordheimn**, or **Nordmen**, live by the sea and by what their neighbors remember. Their homeland, the [[place-nrdlndsrgn|Nordlands]], has thin fields and long winters. People gather along the coast and inland rivers; the vast mountain interior holds few residents or travelers. Stories of [[lore-flkkhazar|Khazári]] holds hidden there remain rumors, not known neighbors on whom a household can depend.
@@ -85,7 +87,7 @@ The kingdom's Lawspeaker keeps and recites the law. Skalds preserve judgments an
 
 Civil and religious offices can meet in one person, but they do different work. A godi or gydja keeps rites, witnesses bonds and speaks on belonging; a cleric's judgment does not alone make a civil sentence. Disputed obligations reach the appropriate court or ting. Each faith governs its own clergy, and the Circle answers for its own recital. There is no pontiff or common religious court to settle every conflict between those bodies.
 
-The five kingdoms hold their own assemblies. Every seventh year their kings and leading jarls meet on the sacred island for the **King of All Clans** assembly. It addresses quarrels beyond one kingdom's writ and matters of war and peace. It has no standing officers, revenue or means of compulsion. Its weight comes from the gathered rulers and the consequences of refusing their judgment.
+The five kingdoms hold their own assemblies. Every seventh year their kings and leading jarls meet on [[place-domsey|Dómsey]], the sacred island, for the **King of All Clans** assembly. It addresses quarrels beyond one kingdom's writ and matters of war and peace. It has no standing officers, revenue or means of compulsion. Its weight comes from the gathered rulers and the consequences of refusing their judgment.
 
 ## Rites under the Ting's Peace
 
@@ -107,7 +109,7 @@ At [[lore-aldarlok|Aldarlok]], the defending gods and their honored dead face th
 
 The Ten also teach that oath-breakers, those who turn from duty, and those who die of sickness without distinction pass to [[place-nulthey|Nulthey]], where they fade. Sólrún's faithful affirm that a life need not include battle to earn honor. Illness and honor therefore remain a difficult question; a family's duty to feed an incapacitated member does not depend on claiming certainty about their eventual fate.
 
-This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
+This belief reaches ordinary work. It weighs against a false oath and in favor of defending a neighbor, preserving a craft or giving away wealth. Offerings and shared feasts cost food and drink a house could keep. At funeral feasts and divisions of an estate, kin reckon the dead person's obligations rather than treating death as cancellation; [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]] follows a death from the first night to the grave-ale. Care for graves and their goods preserves the dead's place in local memory. It also keeps the living from provoking a presence they cannot safely judge.
 
 ## The Dead near Home
 
@@ -115,7 +117,7 @@ The living include ancestors in offerings and may seek a völva's contact with t
 
 Nordmen fear **restless dead**, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. These practices concern particular places rather than a single rite that prevents all hauntings.
 
-If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local godi or gydja, and a völva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no universal cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the [[lore-haugverdir|haugverdir]] of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. Their presence does not establish that they died dishonorably, inhabit Nulthey, or are [[lore-nagengir|nágengir]] raised to serve [[affiliation-nahild|Náhild]].
+If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local godi or gydja, and a völva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no universal cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the [[lore-haugverdir|hrúmverdir]] of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. Their presence does not establish that they died dishonorably, inhabit Nulthey, or are [[lore-nagengir|nágengir]] raised to serve [[affiliation-nahild|Náhild]].
 
 ## What a Person Owes
 
@@ -153,6 +155,9 @@ A hall gathers a lord's close kin and sworn followers under one roof. Oath and a
 
 - [[place-nrdlndsrgn|Nordlands Region]]—the fjords, the five kingdoms and the ships
 - [[lore-nrdlndsraid|The Raid and the Longship]]—the crew, its share and its levy
+- [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]—the pyre, the ship-burial, the howe and the grave-ale
+- [[lore-nrdlndswhal|The Whale Strand]] and [[lore-nrdlndsseal|The Ice-Edge and the Rookery]]—the whale and the seal that feed the coasts
+- [[lore-aldarhringr|Aldarhringr]]—the ring of ages, and where the world, people and death come from
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten, their rites and the final reckoning
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—public memory as security for an obligation
 - [[affiliation-skaldscrcl|Skalds' Circle]]—the trained keepers of genealogy, judgment and debt

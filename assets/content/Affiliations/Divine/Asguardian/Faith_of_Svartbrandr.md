@@ -60,13 +60,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Svartbrandr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Svartbrandr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Aldarlok.
+[[lore-svartbrandrdty|Svartbrandr]], the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Svartbrandr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of [[lore-aldarlok|Aldarlok]].
 
 ## Aspects
 
 Svartbrandr is depicted as a massive, menacing figure, his skin blackened by the eternal flames that engulf him. He wields a colossal sword, often described as being made of fire, capable of incinerating anything in its path—the weapon that will set the world ablaze during Aldarlok.
 
-In the cosmic struggle, Svartbrandr is the embodiment of chaos and destruction, standing in direct opposition to Eidgar, who represents order and justice. This conflict between Svartbrandr and Eidgar is not just a battle of physical might, but a deeper, existential struggle over the fate of the cosmos itself.
+In the cosmic struggle, Svartbrandr is the embodiment of chaos and destruction, standing in direct opposition to [[lore-eidgardty|Eidgar]], who represents order and justice. This conflict between Svartbrandr and Eidgar is not just a battle of physical might, but a deeper, existential struggle over the fate of the cosmos itself.
 
 Followers of Svartbrandr are warriors who embrace the chaos and brutality of battle. They see war as a purifying force, one that burns away the weak and the unworthy, leaving only the strong to claim victory. Worship of Svartbrandr is intense and often involves acts of ritualistic violence or symbolic destruction. His altars are typically simple, often made of stone or metal, and are located in places associated with fire—volcanoes, forges, or the aftermath of a great fire.
 

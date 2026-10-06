@@ -18,7 +18,7 @@ data:
 
 Norgaad is the land of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands]] between its western and eastern kingdoms.
 
-Norgaad occupies the central position among the five Nordmen kingdoms, straddling the great fjords and mountain passes that connect the western and eastern reaches of the frozen north.
+Norgaad occupies the central position among the five [[lore-nordheimnclt|Nordmen]] kingdoms, straddling the great fjords and mountain passes that connect the western and eastern reaches of the frozen north.
 
 ## Character
 

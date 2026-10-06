@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Mótefnir is the god of making. He invents, he builds, and what he builds that is alive comes out of his hands once and never breeds; the faith that keeps his name is kept almost entirely by people who make things for a living, and it reads his work as the standard theirs is measured against.
+[[lore-motefnirdty|Mótefnir]] is the god of making. He invents, he builds, and what he builds that is alive comes out of his hands once and never breeds; the faith that keeps his name is kept almost entirely by people who make things for a living, and it reads his work as the standard theirs is measured against.
 
 ## Aspects
 

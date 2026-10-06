@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {}
+  affiliations: {linzamlkhlth: {rank: 2}}
   gender: "female"
   species: humanflk
   born: "670.151"

@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Byzarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonic, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---
 
 Byzarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities is to be named Warden of the Weights—the officer whose inspections make the city's word good. A Byzarian understands that his cities have no natural defenses worth the name, no great river, and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
