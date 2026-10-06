@@ -52,11 +52,11 @@ _Nordmal: Eidhönd—"the Oath-Hand"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-eidgar|Eidgar]]—Asguardian god of law, oath, and just war
-- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
+- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in [[place-vithgard|Vithgard]]
 
 ## Overview
 
-The Order of the Sworn Hand is the militant arm of Eidgar's faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
+The Order of the Sworn Hand is the militant arm of [[lore-eidgardty|Eidgar]]'s faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
 
 The order's existence is the practical answer to the persistent Nordlands problem of corrupted local justice. A ting convened in the hall of the jarl whose interests are at issue is, in practice, not always able to rule against that jarl. The kings of the five kingdoms have, over centuries, found it useful to maintain an institution to which contested matters can be referred—and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice; it stands behind it, and steps forward when called.
 
@@ -92,7 +92,7 @@ Procedurally, the order observes three working forms:
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—the order is religiously subordinate to Eidgar's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
+- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—the order is religiously subordinate to Eidgar's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
 - **The five Nordland Crowns**—the order serves all five; the kings maintain the order's chapter halls and grant the wand of office passage through their territories. Tensions occasionally arise when a knight's ruling is contrary to a crown's interest.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—the order and the Compact have a standing agreement that any signed company member subject to order judgment will be surrendered to order custody on demand. The agreement holds.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—religious peer; the two orders occasionally cooperate when a matter requires both legal and ritual authority.

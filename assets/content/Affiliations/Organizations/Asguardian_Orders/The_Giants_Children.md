@@ -60,7 +60,7 @@ _Nordmal: Thursbörn—"the Giant's Children"_
 
 ## Overview
 
-The Giant's Children are the most theologically severe of the Asguardian fighting orders, and the one most regarded with cautious distance by the others. Where the Sworn Hands serve the law and the Green Wardens defend the harvest, the Giant's Children pursue something less domesticated: the cultivation, within themselves, of the strength the world was cut out of. The order's central doctrine—that creation was an act of violence done to the body of the Rime-Giant Hrímthur, and that the world's continued existence depends on the periodic renewal of that founding violence—is taken with absolute seriousness by its members and with a certain wariness by everyone else.
+The Giant's Children are the most theologically severe of the Asguardian fighting orders, and the one most regarded with cautious distance by the others. Where the Sworn Hands serve the law and the Green Wardens defend the harvest, the Giant's Children pursue something less domesticated: the cultivation, within themselves, of the strength the world was cut out of. The order's central doctrine—that creation was an act of violence done to the body of the Rime-Giant [[lore-hrimthurspr|Hrímthur]], and that the world's continued existence depends on the periodic renewal of that founding violence—is taken with absolute seriousness by its members and with a certain wariness by everyone else.
 
 This does not make the order's members lawless. They are, by most accounts, exceptionally disciplined; the order's training is grueling, its initiations more so, and the surviving membership is small (perhaps four hundred sworn brothers across the Nordlands) and selective. What it does make them is theologically committed to combat as a sacred act, and to the cultivation of personal strength as a religious vocation. A Child of Hrímthur does not fight for hire (the order forbids mercenary work absolutely), does not fight for crown or for jarl, does not fight in personal quarrel—but when the order calls him to fight, he fights with the conviction that he is participating in the world's foundational act.
 
@@ -92,7 +92,7 @@ The order's combat doctrine emphasizes individual prowess, heavy axe and hammer 
 ## Notable Members
 
 - **Voice Hrungnir Steinhand**—current Voice from the Wound; an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation.
-- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Sveinn Eldskari** at the Northern Hall in Targud, who commands the order's largest standing chapter.
+- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Sveinn Eldskari** at the Northern Hall in [[place-targud|Targud]], who commands the order's largest standing chapter.
 
 ## Field Practice
 
@@ -102,7 +102,7 @@ Day-to-day, the order's brothers serve as chapter staff, as armed presence at re
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—religious foundation; the order's senior initiations include rites at Holafell, the hof cut into the rock.
+- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—religious foundation; the order's senior initiations include rites at Holafell, the hof cut into the rock.
 - **The five Nordland Crowns**—careful tolerance. The kings respect the order, depend on its occasional interventions, and would prefer not to be in its way. No crown levies brothers of the order.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]**—peer; mutual respect across theological distance.
 - **The [[affiliation-gronverdir|Green Wardens]]**—the order most theologically opposite, since the Wardens revere cultivation and the Children revere founding violence. The two orders' members deal with one another correctly and seldom voluntarily.

@@ -55,7 +55,7 @@ _Nordmal: "Pay-Troop Compact"—the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]
-- **Seat:** The Compact-Hall at Hringstead, on the border of Nordheim and Vithgard—a neutral ground guaranteed by all five kingdoms
+- **Seat:** The Compact-Hall at Hringstead, on the border of [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]]—a neutral ground guaranteed by all five kingdoms
 
 ## Overview
 
@@ -71,7 +71,7 @@ The Compact confers three ranks. A captain who signs his company's muster before
 
 Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 
-There are presently thirty-four signed companies of meaningful size, ranging from twelve-sword scouting bands to the **Hringstead Long-Ship Fellowship** of nearly four hundred warriors and twelve ships. The largest signed company in living memory was the Stormhand Brotherhood at six hundred swords—disbanded a generation ago after a disastrous campaign in Vrystwald, an incident still spoken of in cautionary tones.
+There are presently thirty-four signed companies of meaningful size, ranging from twelve-sword scouting bands to the **Hringstead Long-Ship Fellowship** of nearly four hundred warriors and twelve ships. The largest signed company in living memory was the Stormhand Brotherhood at six hundred swords—disbanded a generation ago after a disastrous campaign in [[place-vrystwald|Vrystwald]], an incident still spoken of in cautionary tones.
 
 The Compact does not sign every free company. Some bands—small, regional, or notorious—never apply, or are refused. Unsigned companies are not illegal but operate without the Compact's protection or testimony. An employer hiring an unsigned company knows the price of a worse warranty.
 
@@ -89,8 +89,8 @@ The Compact's standing rules are simple and short. A captain who breaks any of t
 
 - **The Hringstead Long-Ship Fellowship**—largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Brynhildr Eldskari.
 - **The Wolves of Vithgard**—long-standing inland heavy infantry; specialty is sieges.
-- **Skjöldungar of Norgaad**—coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of Aelwyth.
-- **The Iron-Beard Company**—smaller, elite, expensive; the only signed company that operates routinely outside the Nordlands. They have taken contracts as far south as Heliónis.
+- **Skjöldungar of [[place-norgaad|Norgaad]]**—coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of [[place-aelwyth|Aelwyth]].
+- **The Iron-Beard Company**—smaller, elite, expensive; the only signed company that operates routinely outside the Nordlands. They have taken contracts as far south as [[place-helionis|Heliónis]].
 
 Unsigned and notable: **The [[affiliation-blckpnwlvs|Blackpine Wolves]]** of Vrystwald (refused by the Compact for repeated oath-breaking under their previous captain).
 

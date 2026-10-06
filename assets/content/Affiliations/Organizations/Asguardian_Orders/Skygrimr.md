@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Skýgrímr, the Order of the Shifting Veil, trains priests of [[affiliation-velgrimr|Vélgrímr]] in illusion and disguise, serving his hidden hofs in Malagna's ports as spies and infiltrators. A member moves through a port city under a face not his own, and reports back to a hof whose location he alone may be trusted to know.
+Skýgrímr, the Order of the Shifting Veil, trains priests of [[affiliation-velgrimr|Vélgrímr]] in illusion and disguise, serving his hidden hofs in [[place-malagna|Malagna]]'s ports as spies and infiltrators. A member moves through a port city under a face not his own, and reports back to a hof whose location he alone may be trusted to know.
