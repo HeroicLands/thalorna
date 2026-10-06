@@ -22,7 +22,7 @@ The city is the last place on the river a hull of any size can reach and the fir
 
 ## The Nine Quarters
 
-The city is divided into nine quarters and a tenth that is nobody's, and the nine belong to the Nine Houses. A quarter is not a grant of the crown. It is where a house has always been, and the house's charter names its trade and its street rather than its acres. The quarter walls are low, ornamental and old, and they mark a jurisdiction rather than a defence: a dispute between two men of one quarter goes to its **Kulina**, and a dispute across a wall goes to the court.
+The city is divided into nine quarters and a tenth that is nobody's, and the nine belong to the Nine Houses. A quarter is not a grant of the crown. It is where a house has always been, and the house's charter names its trade and its street rather than its acres. The quarter walls are low, ornamental and old, and they mark a jurisdiction rather than a defense: a dispute between two men of one quarter goes to its **Kulina**, and a dispute across a wall goes to the court. Learn which side of a wall you are standing on before you lose your temper; the same insult is heard by one Kulina on this side and by the whole court on that.
 
 The tenth district is the waterfront and the market ground, and it is the crown's. So are the customs, the assay and the mint. The arrangement has held for four centuries because neither half of it can do without the other: the Houses cannot clear a cargo and the crown cannot cut a stone.
 
@@ -30,7 +30,7 @@ The tenth district is the waterfront and the market ground, and it is the crown'
 
 Rough stone comes to Chandrapur from every workable ground in Vedyara and from beyond it—the upper Chandramahī's river-workings, the mountain kingdoms, and whatever the caravans bring down from the passes. It is cut here. The finished work goes out by sea.
 
-The trade is organised as a sequence and not as a craft. A stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds one stage of the work has held it for generations and does no other. The valley villages behind the city hold the coarser stages, and the finest cutting is done within the walls and nowhere else. An apprentice serves years before he is trusted with a workshop of his own, and nobody in four centuries has managed to spoil the city's name for the work.
+The trade is organized as a sequence and not as a craft. A stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds one stage of the work has held it for generations and does no other. The valley villages behind the city hold the coarser stages, and the finest cutting is done within the walls and nowhere else. An apprentice serves years before he is trusted with a workshop of his own, and nobody in four centuries has managed to spoil the city's name for the work.
 
 The temples bless a stone before it is cut, and a cutter who begins without the blessing is not employed again. Whether the blessing is piety or a very old form of quality control is a question the city does not find interesting.
 

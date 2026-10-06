@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFo
 
 The gem trade of [[place-chandrapur2|Chandrapur]] is organized as a sequence and not as a craft: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth. Between any two of those a stone has to be somewhere, under a seal, with nobody in particular attending to it. **The Waiting House** is one of the places it is.
 
-It is a plain square-fronted building of the city's pale limestone, two storeys and a yard, kept washed like everything else on the street. It holds sealed parcels for a fee, by the day, for any house that asks, and it has done since the charter that names its trade was granted. Strangers come to it at all hours carrying small things they do not open. That is the business.
+It is a plain square-fronted building of the city's pale limestone, two stories and a yard, kept washed like everything else on the street. It holds sealed parcels for a fee, by the day, for any house that asks, and it has done since the charter that names its trade was granted. Strangers come to it at all hours carrying small things they do not open. That is the business.
 
 A line of the [[affiliation-chayavrata|Chaya-vrata]] has been taught in the upper rooms for most of the building's history.
 
@@ -18,7 +18,7 @@ A line of the [[affiliation-chayavrata|Chaya-vrata]] has been taught in the uppe
 
 The vow has no houses. A holder takes one or two students, answers to nobody, and a line that ends with its holder is not recorded as having ended; there is no body to build for and nothing a chapter hall would do.
 
-What a line does need is a room, an income that explains the room, and a reason for people it has never met to come to the door and leave again. The Waiting House supplies all three out of its ordinary trade, and the trade is genuine—the parcels are real, the fee is real, the seals are honoured, and the house has never lost a consignment in four generations, which is a better reputation than most of its competitors keep.
+What a line does need is a room, an income that explains the room, and a reason for people it has never met to come to the door and leave again. The Waiting House supplies all three out of its ordinary trade, and the trade is honest work—the parcels are real, the fee is real, the seals are honored, and the house has never lost a consignment in four generations, which is a better reputation than most of its competitors keep.
 
 ## The Broker's Room
 

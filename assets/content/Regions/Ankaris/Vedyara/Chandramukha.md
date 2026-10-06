@@ -39,11 +39,11 @@ The merchant houses build their coasting hulls on the west side, in yards they o
 
 Every foreign trade Vedyara has by sea lands on this beach. The Khelâthi factors keep a street of their own, walled and gated, with their own well and their own weights, and the argument about the weights is older than the street. Tānvüri junks come round the eastern capes in the late season and lie outside the bar rather than take a pilot, which the pilots regard as an insult and the junk-masters as a precaution. Jürthāti hulls come irregularly and are dealt with warily.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor here, and that is the whole of the Ordo's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the licence yearly in a ceremony designed to make the yearly part conspicuous.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] keeps one licensed factor here, and that is the whole of the Ordo's standing in the subcontinent. He is licensed to trade and to carry letters. He is not licensed to teach, to examine anybody, or to hold a working in the town, and the Council that licenses him renews the license yearly in a ceremony designed to make the yearly part conspicuous.
 
-## Caste at the Waterside
+## Stations at the Waterside
 
-The town has the coast's habit, and has it worse than the coast. A crew signs on at the quay and nobody asks to see a wrist. The stevedores are drawn from whoever is standing on the beach at dawn. Men who could not draw water from a well fifty miles inland handle the cargo that feeds the temples that would refuse them, and the temples of Chandramukha—there are four, all small—have long since stopped saying anything about it.
+The town keeps the coast's habit of ignoring station, and keeps it more thoroughly than any other port. A crew signs on at the quay and nobody asks to see a wrist. The stevedores are drawn from whoever is standing on the beach at dawn. Men who could not draw water from a well fifty miles inland handle the cargo that feeds the temples that would refuse them, and the temples of Chandramukha—there are four, all small—have long since stopped saying anything about it.
 
 What the town does not have is any way for a man to stay. A deck is a place to be, not a place to belong. A runaway who reaches Chandramukha is safe until the season ends and is safe afterwards only if he sails.
 

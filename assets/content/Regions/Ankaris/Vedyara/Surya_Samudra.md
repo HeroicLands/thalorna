@@ -36,7 +36,7 @@ The harbors speak a simplified trade pidgin of their own, and a captain who has 
 
 ## The Deck
 
-A ship's crew works outside caste, and this is the one settled exception in Vedyara. Nobody aboard asks to see a wrist, and the harbor does not ask either while a man is signed. A coastal city that lives by its ships lives by men its own temples will not admit, and the arrangement is old enough that the temples have stopped raising it.
+A ship's crew works outside the order of stations, and this is the one settled exception in Vedyara. Nobody aboard asks to see a wrist, and the harbor does not ask either while a man is signed. A coastal city that lives by its ships lives by men its own temples will not admit, and the arrangement is old enough that the temples have stopped raising it.
 
 What the deck gives, it gives only afloat. A sailor who takes his pay and stays ashore is what he was before he signed.
 

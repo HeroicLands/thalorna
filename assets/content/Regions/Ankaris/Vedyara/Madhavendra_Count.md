@@ -52,7 +52,7 @@ The count begins with the standardization of Classical Vedyari, "roughly 1,200 y
 
 The count divides the sun's year and not the moon's. Twelve months carry it, seven of thirty days and five of thirty-one, and the twelve together fill the whole of the year. Nothing stands outside a month and nothing is added at either end to close the count.
 
-The year opens at the vernal equinox, on the first day of Prabhavakāla, and each of the world's four fixed days opens a month: the summer solstice opens Purnakāla, the autumnal equinox Dhanyakāla, and the winter solstice Koshthakāla. A reckoner will point at that and say it is the whole argument for the calendar—a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
+The year opens at the vernal equinox, on the first day of Prabhavakāla, and each of the world's four fixed days opens a month: the summer solstice opens Purnakāla, the autumnal equinox Dhanyakāla, and the winter solstice Koshthakāla. The reckoners of the Ganaka-shala call this the whole argument for the calendar: a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
 
 1. **Prabhavakāla** (30 days), the month of the sources—the glacier-springs open above [[place-sthrnwall|the Southern Wall]], the rivers rise on snowmelt, and the pilgrim roads to the four heads go up. The year opens on its first day.
 2. **Pushpakāla** (31 days), the flowering—the plateau and the forest country come into flower, and the garland trade that serves the great temples runs at its height.
@@ -69,7 +69,7 @@ The year opens at the vernal equinox, on the first day of Prabhavakāla, and eac
 
 ## The Six Seasons
 
-The months run in pairs, and a pair is a season. Six of them frame the year, and they are what a Vedyaran actually plans by: a contract for a season, a posting for a season, a debt due at a season's turn. Four seasons run sixty-one days and one sixty-one again; only the cold one is shorter, at sixty.
+The months run in pairs, and a pair is a season. Six of them frame the year, and they are what a Vedyaran actually plans by: a contract for a season, a posting for a season, a debt due at a season's turn. Five of the seasons run sixty-one days; only the cold one is shorter, at sixty.
 
 - **Haritaritu**, the green season—Prabhavakāla and Pushpakāla, sixty-one days. Snowmelt water and flower, and the season a long pilgrimage is begun in.
 - **Diptaritu**, the blazing season—Jvalakāla and Meghamukhakāla, sixty-one days. The heat, broken at the very end of it by the first rain.
