@@ -98,10 +98,11 @@
         },
         {
             "literal": "Devotee",
-            "why": "the Azuathis rank and the generic vow-bound standing are not the retired Nordheimn devotional-order rank Dróttmadr",
+            "why": "the Azuathis rank and the generic vow-bound standing, and the Varnaka pantheon's link to that standing, are not the retired Nordheimn devotional-order rank Dróttmadr",
             "paths": [
                 "assets/content/Affiliations/Divine/Khelathi/Faith_of_Azuathis.md",
-                "assets/content/Lore/Ranks/Vow_Bound_Devotee.md"
+                "assets/content/Lore/Ranks/Vow_Bound_Devotee.md",
+                "assets/content/Affiliations/Divine/Varnaka/Varnaka_Pantheon.md"
             ],
             "kinds": []
         },
@@ -114,19 +115,6 @@
         {
             "literal": "Sons of Muspell",
             "why": "the complete name of the Black Flame military order is distinct from the retired Asguardian fire-realm name; bare Muspell remains retired",
-            "kinds": []
-        },
-        {
-            "literal": "Royal Kin",
-            "why": "these are ranks of Dunhari and Vedyaran polities, not the retired Nordheimn rank Konungsaett",
-            "paths": [
-                "assets/content/Regions/Ankaris/Dunhara/Amradad/Sultanate_of_Amradad.md",
-                "assets/content/Regions/Ankaris/Vedyara/Bharyastan.md",
-                "assets/content/Regions/Ankaris/Vedyara/Bhumipala.md",
-                "assets/content/Regions/Ankaris/Vedyara/Chandrapur.md",
-                "assets/content/Regions/Ankaris/Vedyara/Gomarga.md",
-                "assets/content/Regions/Ankaris/Vedyara/Vindhyalaya.md"
-            ],
             "kinds": []
         },
         {

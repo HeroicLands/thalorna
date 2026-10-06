@@ -13,7 +13,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka ushtakas.
+      Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka ushtakas. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
       - level: 0
         title: Outcaste
@@ -40,9 +40,6 @@ data:
       - level: 6
         title: Sāmanta
         description: A clan-chieftain holding land of the Mahārāja and sitting on the martial council.
-      - level: 7
-        title: Royal Kin
-        description: Of the Mahārāja's house by blood or marriage, eligible for the throne and its regencies.
       - level: 8
         title: Mahārāja
         description: >-
