@@ -38,7 +38,7 @@ The book presents two ways to find what is distinctive about a setting. A **hook
 
 ## Choose a voice that suits the subject
 
-**The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable, and it is the default for every subject a person in the setting could teach.
+**The natural voice is someone who knows the subject teaching it to someone new.** A god and that god's festival are best explained by one of the god's priests—a high priest, or a low priest with the patience for a newcomer—speaking to a person who has just arrived at the temple. A region is described by someone who has lived and worked in it, talking to a traveler who has not. A guild is explained by a member bringing on an apprentice, a law by the person who enforces it, a road by the carter who drives it. The speaker knows what a newcomer needs first, what a newcomer gets wrong, and which story makes the point stick. That teaching stance is what makes a note approachable, and it is the default for every subject a person in the setting could teach. The speaker addresses the newcomer directly, so second person is the ordinary form of these passages.
 
 The manual suggests describing society **from within** through the voices of people who occupy different places in it: a farmer, noble, soldier, ruler, or person outside the law. It also suggests **outside views** from travelers, merchants, pilgrims, diplomats, and others. These perspectives reveal living conditions, motives, assumptions, and conflicts that a neutral description can miss. They should not all sound alike or claim to speak for an entire culture.
 
@@ -168,10 +168,14 @@ _reflects_ adds no fact.
   _…, and you will find…_—is filler. Stop at the fact, or make the consequence the
   subject. A named or specified speaker whose account the note attributes is a
   different thing, and is welcome.
-- **Talking to the reader in explanatory prose.** No rhetorical questions, no
-  exclamations, no contractions. Second-person address belongs where a note type
-  calls for it—a creature's first-encounter Appearance, a scenario's read-aloud
-  text—and in an attributed speaker's own words.
+- **Talking at the reader instead of to them.** Second person is natural and
+  welcome wherever the teacher addresses the newcomer—the priest telling you
+  what the festival asks of you, the local telling you which ford floods in
+  spring—and in a creature's first-encounter Appearance or a scenario's
+  read-aloud text. Keep the address steady through a passage rather than
+  slipping in and out of it. What fails is the hectoring form: a rhetorical
+  question the passage never answers, or exclamation in place of a fact worth
+  exclaiming over.
 
 ## State the facts plainly
 
