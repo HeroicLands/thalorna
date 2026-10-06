@@ -42,14 +42,46 @@
  *    table and with the copy in the Sinalë note. While the Sinalë note states no
  *    copy, that is a warning rather than an error.
  *
+ * The lexicon note is read the same way: its field list, class list, skeleton
+ * table, word tables and register are parsed at run time, and every word is
+ * recomputed through the language note's frames.
+ *
+ * 9. **The lexicon** — every skeleton is three consonants of the inventory,
+ *    listed once, with a sense and a declared field, and yields at least one
+ *    word. Every word is its skeleton through its frame (a noun may add a gender
+ *    suffix), of a class its frame makes, in the field of its section, listed
+ *    once, and keeps the syllable shape. A grammar word carries no skeleton and
+ *    agrees with the language note's own tables where it stands in them. An
+ *    attested word stands in the note its address names. Every skeleton the
+ *    language note lists, and every skeleton its name lists use, is a lexicon
+ *    skeleton, the first with the same sense.
+ * 10. **The register** — every name in scope stands in the register under the
+ *     address it comes from, with a declared language tag. Scope is derived:
+ *     the `name.full` and aliases of every note whose `data.lore` names the
+ *     Khazári folk note, every note whose own name or alias carries a word older
+ *     than the rules, every note whose body says its name is Khazári, and every
+ *     note the language note links to; and every bold term following a phrase
+ *     that says the Khazári call, name or have a word for something. A name
+ *     tagged `khazari` recomputes from its derivation; one whose derivation is
+ *     `—` is a warning, so a name the tree holds that keeps no rule is visible
+ *     without failing the run. A name tagged `older` stands in the language
+ *     note's table of words older than the rules; an `exonym:` renders a
+ *     lexicon word.
+ *
  * Findings are `file:line:column: severity: message`.
  */
 
 import fs from "node:fs";
 import path from "node:path";
+import YAML from "yaml";
 
 export const NOTE = "assets/content/Skills/Languages/Khazari.md";
 export const SINALE = "assets/content/Skills/Languages/Sinale.md";
+export const LEXICON = "assets/content/Lore/Khazari_Lexicon.md";
+export const CONTENT = "assets/content";
+
+/** The shortcode of the Khazári folk note, whose `data.lore` mentions put a note in scope. */
+export const FOLK = "flkkhazar";
 
 /** A cell's forms in code spans, ticks off. */
 export function ticked(cell) {
@@ -809,11 +841,505 @@ export function check(text, sinale) {
     return out;
 }
 
+/** The address a wikilink cell names, or null. */
+function linked(cell) {
+    return (cell ?? "").match(/\[\[([^\]|\\]+)/)?.[1] ?? null;
+}
+
+/** Fold a name for comparison: lowercase, marks off. */
+function fold(word) {
+    return word.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
+}
+
+/**
+ * The lexicon, read off its note.
+ *
+ * @param {string} text - The lexicon note.
+ * @returns {object} Fields, classes, skeletons, words, register and language tags.
+ */
+export function lexiconFrom(text) {
+    const fieldTable = tableOf(text, "## Fields");
+    const fId = column(fieldTable, "field");
+    const fName = column(fieldTable, "name");
+    const fields = fieldTable.rows.map(({ cells, offset }) => ({
+        id: ticked(cells[fId])[0],
+        name: plain(cells[fName]),
+        offset,
+    }));
+
+    const classTable = tableOf(text, "## Classes");
+    const classes = classTable.rows.map(({ cells }) => ticked(cells[0])[0]);
+
+    const skeletonTable = tableOf(text, "## Skeletons");
+    const sForm = column(skeletonTable, "skeleton");
+    const sSense = column(skeletonTable, "sense");
+    const sField = column(skeletonTable, "field");
+    const skeletons = skeletonTable.rows.map(({ cells, offset }) => ({
+        form: ticked(cells[sForm])[0],
+        sense: plain(cells[sSense] ?? ""),
+        field: ticked(cells[sField] ?? "")[0] ?? plain(cells[sField] ?? ""),
+        offset,
+    }));
+
+    const words = [];
+    const { text: body, offset: base } = section(text, "## Words");
+    const heads = [...body.matchAll(/^### (.+)$/gm)];
+    heads.forEach((head, i) => {
+        const start = head.index;
+        const end = i + 1 < heads.length ? heads[i + 1].index : body.length;
+        for (const table of tables(body.slice(start, end), base + start)) {
+            const at = (word) => column(table, word);
+            const [form, cls, gloss, skel, frame, attested] = [
+                "form",
+                "class",
+                "gloss",
+                "skeleton",
+                "frame",
+                "attested",
+            ].map(at);
+            for (const { cells, offset } of table.rows) {
+                words.push({
+                    form: ticked(cells[form])[0],
+                    cls: ticked(cells[cls])[0] ?? plain(cells[cls]),
+                    gloss: plain(cells[gloss] ?? ""),
+                    skeletons: ticked(cells[skel] ?? ""),
+                    frame: plain(cells[frame] ?? ""),
+                    attested: linked(cells[attested]),
+                    heading: head[1].trim(),
+                    offset,
+                });
+            }
+        }
+    });
+
+    const registerTable = tableOf(text, "## Attested names");
+    const [rName, rAddress, rLanguage, rDerivation] = [
+        "name",
+        "address",
+        "language",
+        "derivation",
+    ].map((w) => column(registerTable, w));
+    const register = registerTable.rows.map(({ cells, offset }) => ({
+        name: plain(cells[rName]),
+        address: linked(cells[rAddress]),
+        language: ticked(cells[rLanguage] ?? "")[0] ?? plain(cells[rLanguage] ?? ""),
+        derivation: cells[rDerivation] ?? "",
+        offset,
+    }));
+    const languages = tableOf(text, "### Language tags").rows.map(
+        ({ cells }) => ticked(cells[0])[0],
+    );
+
+    return { fields, classes, skeletons, words, register, languages };
+}
+
+/**
+ * Every note of the content tree, with its frontmatter and address.
+ *
+ * @param {string} [root] - The content root.
+ * @returns {{file: string, text: string, fm: object, address: string, body: number}[]}
+ */
+export function corpus(root = CONTENT) {
+    const out = [];
+    const walk = (dir) => {
+        for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+            const full = path.join(dir, entry.name);
+            if (entry.isDirectory()) walk(full);
+            else if (entry.name.endsWith(".md")) {
+                const text = fs.readFileSync(full, "utf8");
+                const m = text.match(/^---\n([\s\S]*?)\n---\n/);
+                if (!m) continue;
+                let fm;
+                try {
+                    fm = YAML.parse(m[1]);
+                } catch {
+                    continue;
+                }
+                if (!fm?.shortcode || !fm?.type) continue;
+                out.push({
+                    file: full,
+                    text,
+                    fm,
+                    address: `${fm.type}-${fm.shortcode}`,
+                    body: m[0].length,
+                });
+            }
+        }
+    };
+    walk(root);
+    return out;
+}
+
+/** A note's name and aliases. */
+function namesOf(note) {
+    const n = note.fm.name;
+    if (typeof n === "string") return [n];
+    return [n?.full, ...(n?.aliases ?? [])].filter((x) => typeof x === "string" && x);
+}
+
+/** Every bold term of a note's body. */
+function boldTerms(note) {
+    return [...note.text.slice(note.body).matchAll(/\*\*([^*\n]+)\*\*/g)].map((m) => m[1]);
+}
+
+/**
+ * Every name the register must hold, with where it comes from.
+ *
+ * @param {object[]} notes - From `corpus`.
+ * @param {object} rules - The language note's rules.
+ * @param {string} noteText - The language note.
+ * @returns {{name: string, address: string, file: string, text: string, offset: number}[]}
+ */
+export function scope(notes, rules, noteText) {
+    const older = rules.older.map((o) => fold(o.form));
+    const links = new Set([...noteText.matchAll(/\[\[([^\]|\\]+)/g)].map((m) => m[1]));
+    const out = [];
+    const seen = new Set();
+    const add = (note, name, at) => {
+        const key = `${note.address}\u0000${name}`;
+        if (seen.has(key)) return;
+        seen.add(key);
+        const offset = at ?? Math.max(0, note.text.indexOf(name));
+        out.push({ name, address: note.address, file: note.file, text: note.text, offset });
+    };
+    for (const note of notes) {
+        const lore = note.fm.data?.lore;
+        const body = note.text.slice(note.body);
+        const names = namesOf(note);
+        const inScope =
+            (Array.isArray(lore) && lore.includes(FOLK)) ||
+            names.some((n) => older.some((o) => fold(n).includes(o))) ||
+            /\bname\s+is\s+Khazári\b/u.test(body) ||
+            links.has(note.address);
+        if (inScope) for (const n of names) add(note, n);
+        const said =
+            /Khazári(?:\]\])?\s+(?:call|calls|called|name|names|named|word|words)\b[^.;]*?\*\*([^*\n]+)\*\*/gu;
+        for (const m of body.matchAll(said)) {
+            add(note, m[1], note.body + m.index + m[0].length - m[1].length - 2);
+        }
+    }
+    return out;
+}
+
+/**
+ * Every finding over the lexicon note and its register.
+ *
+ * @param {string} lexText - The lexicon note.
+ * @param {string} noteText - The language note.
+ * @param {object[]} notes - From `corpus`.
+ * @returns {{file: string, text: string, offset: number|null, severity: string, message: string}[]}
+ */
+export function checkLexicon(lexText, noteText, notes) {
+    const out = [];
+    const add = (offset, severity, message, file = LEXICON, text = lexText) =>
+        out.push({ file, text, offset, severity, message });
+    const rules = rulesFrom(noteText);
+    const lex = lexiconFrom(lexText);
+    const byAddress = new Map(notes.map((n) => [n.address, n]));
+    const frames = new Map(rules.frames.map((f) => [f.name, f]));
+    const fieldIds = new Set(lex.fields.map((f) => f.id));
+    const fieldByName = new Map(lex.fields.map((f) => [f.name, f.id]));
+    const genders = rules.genders.map((g) => g.form).filter(Boolean);
+
+    // Skeletons.
+    const skeletons = new Map();
+    for (const s of lex.skeletons) {
+        const parts = radicals(s.form ?? "");
+        if (parts.length !== 3 || parts.some((p) => !rules.consonants.includes(p))) {
+            add(
+                s.offset,
+                "error",
+                `skeleton \`${s.form}\` is not three consonants of the inventory`,
+            );
+        }
+        if (skeletons.has(s.form)) add(s.offset, "error", `skeleton \`${s.form}\` is listed twice`);
+        if (!s.sense) add(s.offset, "error", `skeleton \`${s.form}\` carries no sense`);
+        if (!fieldIds.has(s.field))
+            add(
+                s.offset,
+                "error",
+                `skeleton \`${s.form}\` names \`${s.field}\`, which is no declared field`,
+            );
+        skeletons.set(s.form, s);
+    }
+
+    // Words.
+    const forms = new Map();
+    const used = new Set();
+    const grammar = new Map(rules.words.map((w) => [w.form, w]));
+    for (const w of lex.words) {
+        const field = fieldByName.get(w.heading);
+        if (!field)
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` stands under "${w.heading}", which names no field`,
+            );
+        if (!lex.classes.includes(w.cls))
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` is of class \`${w.cls}\`, which is no declared class`,
+            );
+        if (forms.has(w.form)) add(w.offset, "error", `\`${w.form}\` is listed twice`);
+        forms.set(w.form, w);
+        for (const p of shape(w.form, rules)) add(w.offset, "error", `\`${w.form}\` ${p}`);
+
+        if (w.skeletons.length === 0) {
+            const g = grammar.get(w.form);
+            if (g && g.cls !== w.cls && !(g.cls === "num" && w.cls === "num"))
+                add(
+                    w.offset,
+                    "error",
+                    `\`${w.form}\` is \`${w.cls}\` here and \`${g.cls}\` in ${NOTE}`,
+                );
+            continue;
+        }
+        if (grammar.has(w.form))
+            add(w.offset, "error", `\`${w.form}\` is also a grammar word in ${NOTE}`);
+        const frame = frames.get(w.frame);
+        if (!frame || makes(frame, "name")) {
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` names the frame "${w.frame}", which makes no word`,
+            );
+            continue;
+        }
+        const want = frame.parts ? 2 : 1;
+        if (w.skeletons.length !== want) {
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` is the ${frame.name} frame, which takes ${want} skeleton(s)`,
+            );
+            continue;
+        }
+        const missing = w.skeletons.filter((s) => !skeletons.has(s));
+        if (missing.length) {
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` is built on \`${missing.join("`, `")}\`, which the skeleton table does not list`,
+            );
+            continue;
+        }
+        for (const s of w.skeletons) used.add(s);
+        if (field && !w.skeletons.some((s) => skeletons.get(s).field === field))
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` stands under "${w.heading}" and none of its skeletons is of that field`,
+            );
+        if (!makes(frame, w.cls))
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` is \`${w.cls}\`, which the ${frame.name} frame does not make`,
+            );
+        const stem =
+            frame.parts ?
+                compound(frame, w.skeletons[0], w.skeletons[1], rules)
+            :   pour(frame.shape, w.skeletons[0], rules);
+        const ok =
+            w.form === stem ||
+            (w.cls === "n" && genders.some((g) => join(stem, g, rules) === w.form));
+        if (!ok)
+            add(
+                w.offset,
+                "error",
+                `\`${w.form}\` is not the ${frame.name} frame on \`${w.skeletons.join(" + ")}\`, which gives \`${stem}\``,
+            );
+        if (w.attested) {
+            const note = byAddress.get(w.attested);
+            if (!note)
+                add(
+                    w.offset,
+                    "error",
+                    `\`${w.form}\` is attested at \`${w.attested}\`, which no note holds`,
+                );
+            else {
+                const found = new RegExp(`(?<![\\p{L}])${w.form}(?![\\p{L}])`, "iu").test(
+                    note.text.slice(note.body),
+                );
+                if (!found)
+                    add(
+                        w.offset,
+                        "error",
+                        `\`${w.form}\` is attested at \`${w.attested}\`, which does not use it`,
+                    );
+            }
+        }
+    }
+    for (const s of lex.skeletons)
+        if (!used.has(s.form)) add(s.offset, "error", `skeleton \`${s.form}\` yields no word`);
+
+    // The language note's skeletons and names rest on the lexicon.
+    for (const s of rules.skeletons) {
+        const mine = skeletons.get(s.form);
+        if (!mine)
+            add(
+                s.offset,
+                "error",
+                `skeleton \`${s.form}\` stands in no lexicon row`,
+                NOTE,
+                noteText,
+            );
+        else if (mine.sense !== s.sense)
+            add(
+                s.offset,
+                "error",
+                `skeleton \`${s.form}\` is "${s.sense}" here and "${mine.sense}" in ${LEXICON}`,
+                NOTE,
+                noteText,
+            );
+    }
+    const lists = nameLists(noteText);
+    const consonantsOf = (name) =>
+        sounds(name.toLowerCase(), rules)
+            .filter((x) => x.kind === "C")
+            .map((x) => x.sound);
+    for (const { name, offset } of [...lists.male, ...lists.female]) {
+        const s = consonantsOf(name).slice(0, 3).join("-");
+        if (!skeletons.has(s))
+            add(
+                offset,
+                "error",
+                `\`${name}\` is built on \`${s}\`, which stands in no lexicon row`,
+                NOTE,
+                noteText,
+            );
+    }
+    for (const { name, offset } of lists.house) {
+        const c = consonantsOf(name);
+        for (const s of [c.slice(0, 3).join("-"), c.slice(3).join("-")])
+            if (!skeletons.has(s))
+                add(
+                    offset,
+                    "error",
+                    `\`${name}\` is built on \`${s}\`, which stands in no lexicon row`,
+                    NOTE,
+                    noteText,
+                );
+    }
+
+    // The register.
+    const tags = lex.languages;
+    const declared = (tag) =>
+        tags.some((t) =>
+            t.endsWith(":") || t.includes(":<") ? tag.startsWith(t.split(":")[0] + ":") : t === tag,
+        );
+    const registered = new Set();
+    for (const r of lex.register) {
+        const key = `${r.address}\u0000${r.name}`;
+        if (registered.has(key)) add(r.offset, "error", `${r.name} is registered twice`);
+        registered.add(key);
+        if (!declared(r.language))
+            add(
+                r.offset,
+                "error",
+                `${r.name} is tagged \`${r.language}\`, which is no declared language`,
+            );
+        const note = byAddress.get(r.address);
+        if (!note)
+            add(
+                r.offset,
+                "error",
+                `${r.name} is registered at \`${r.address}\`, which no note holds`,
+            );
+        else if (!namesOf(note).includes(r.name) && !boldTerms(note).includes(r.name))
+            add(
+                r.offset,
+                "error",
+                `${r.name} is neither a name nor a bold term of \`${r.address}\``,
+            );
+        const spans = ticked(r.derivation);
+        if (r.language === "khazari") {
+            if (!spans.length) {
+                add(
+                    r.offset,
+                    "warning",
+                    `${r.name} is tagged khazari and derives from no skeleton and frame`,
+                );
+                continue;
+            }
+            const frame = frames.get(
+                plain(r.derivation.replace(/`[^`]*`/g, ""))
+                    .replace(/^[\s,+]+/, "")
+                    .trim(),
+            );
+            if (!frame) {
+                add(r.offset, "error", `${r.name} names no frame in its derivation`);
+                continue;
+            }
+            const missing = spans.filter((s) => !skeletons.has(s));
+            if (missing.length) {
+                add(
+                    r.offset,
+                    "error",
+                    `${r.name} is built on \`${missing.join("`, `")}\`, which the skeleton table does not list`,
+                );
+                continue;
+            }
+            const low = r.name.toLowerCase();
+            const ok =
+                frame.parts ? compound(frame, spans[0], spans[1], rules) === low
+                : makes(frame, "name") ?
+                    rules.short.some((v) => pour(frame.shape, spans[0], rules, v) === low)
+                :   pour(frame.shape, spans[0], rules) === low;
+            if (!ok)
+                add(
+                    r.offset,
+                    "error",
+                    `${r.name} is not the ${frame.name} frame on \`${spans.join(" + ")}\``,
+                );
+        } else if (r.language === "older") {
+            if (!rules.older.some((o) => o.form === r.name))
+                add(
+                    r.offset,
+                    "error",
+                    `${r.name} is tagged older and stands in no row of the words older than the rules`,
+                );
+        } else if (r.language.startsWith("exonym:")) {
+            if (!spans.length || !forms.has(spans[0]))
+                add(r.offset, "error", `${r.name} is an exonym and renders no lexicon word`);
+        }
+    }
+    for (const s of scope(notes, rules, noteText)) {
+        if (!registered.has(`${s.address}\u0000${s.name}`)) {
+            const rel = path.relative(process.cwd(), path.resolve(s.file));
+            add(
+                s.offset,
+                "error",
+                `${s.name} is in scope and stands in no row of the register in ${LEXICON}`,
+                rel,
+                s.text,
+            );
+        }
+    }
+    return out;
+}
+
+/** Per-field counts of skeletons and words. */
+export function fieldCounts(lexText) {
+    const lex = lexiconFrom(lexText);
+    const byName = new Map(lex.fields.map((f) => [f.name, f.id]));
+    const counts = new Map(lex.fields.map((f) => [f.id, { skeletons: 0, words: 0 }]));
+    for (const s of lex.skeletons) if (counts.has(s.field)) counts.get(s.field).skeletons += 1;
+    for (const w of lex.words) {
+        const id = byName.get(w.heading);
+        if (counts.has(id)) counts.get(id).words += 1;
+    }
+    return counts;
+}
+
 /** A finding as a line: path first, field dropped rather than guessed. */
 export function format(file, text, finding) {
-    if (finding.offset == null) return `${file}: ${finding.severity}: ${finding.message}`;
-    const { line, column } = position(text, finding.offset);
-    return `${file}:${line}:${column}: ${finding.severity}: ${finding.message}`;
+    const where = finding.file ?? file;
+    const body = finding.text ?? text;
+    if (finding.offset == null) return `${where}: ${finding.severity}: ${finding.message}`;
+    const { line, column } = position(body, finding.offset);
+    return `${where}:${line}:${column}: ${finding.severity}: ${finding.message}`;
 }
 
 /** Run the guard over the tree. */
@@ -821,17 +1347,37 @@ export function main() {
     const text = fs.readFileSync(NOTE, "utf8");
     const sinale = fs.existsSync(SINALE) ? fs.readFileSync(SINALE, "utf8") : null;
     const findings = check(text, sinale);
+    const lexText = fs.existsSync(LEXICON) ? fs.readFileSync(LEXICON, "utf8") : null;
+    if (lexText == null)
+        findings.push({
+            file: LEXICON,
+            offset: null,
+            severity: "error",
+            message: "the lexicon note does not exist",
+        });
+    else findings.push(...checkLexicon(lexText, text, corpus()));
     for (const f of findings) console.error(format(NOTE, text, f));
     const rules = rulesFrom(text);
     for (const o of rules.older)
         console.log(`exempt as older than the rules: ${o.form} (${o.gloss})`);
     const errors = findings.filter((f) => f.severity === "error").length;
+    const warnings = findings.length - errors;
     const lists = nameLists(text);
     console.log(
         `Khazári: ${rules.skeletons.length} skeletons, ${rules.frames.length} frames, ` +
             `${lists.male.length} male / ${lists.female.length} female given names, ` +
-            `${lists.house.length} house names, ${errors} error(s).`,
+            `${lists.house.length} house names.`,
     );
+    if (lexText != null) {
+        const lex = lexiconFrom(lexText);
+        console.log(
+            `Khazári lexicon: ${lex.skeletons.length} skeletons, ${lex.words.length} words, ` +
+                `${lex.register.length} registered names.`,
+        );
+        for (const [id, c] of fieldCounts(lexText))
+            console.log(`  ${id}: ${c.skeletons} skeletons, ${c.words} words`);
+    }
+    console.log(`${errors} error(s), ${warnings} warning(s).`);
     if (errors) process.exitCode = 1;
 }
 
