@@ -508,5 +508,7 @@ Several practical consequences follow from the cosmology established here.
 
 - [[being-damut|Damut]]—The driven one: the mindless undead
 
+- [[lore-theshadow|The Shadow]]—The corrupting force from outside creation that every undead carries
+
 -
 -

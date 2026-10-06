@@ -102,6 +102,14 @@ The sabhā was convened. It met for forty days. It declared the kingdom dissolve
 
 The classical chronicles put this at **−240 AF** in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], about nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
+[[lore-fortydays|The Forty Days]] records the sabhā's answer:
+
+: They Asked for No King {#forty-days-excerpt}
+
+> They asked for no king.
+>
+> _Gloss._ The last four words are the whole of the matter, and the chronicler wrote them without comment.
+
 ## The Memory-Keeper
 
 Rājapur's governance carries one office no other janapada has, the **Memory-Keeper**. A single family has held it in continuous succession since the dissolution. The Memory-Keeper's responsibilities are:
@@ -110,6 +118,17 @@ Rājapur's governance carries one office no other janapada has, the **Memory-Kee
 - To recite the dynastic history at the opening of every formal sabhā session—in full, from the founding ancestor through the dissolution, and concluding with the formal acknowledgment that the kingdom is no more and the janapada governs in its place.
 - To advise the sabhā on questions where the precedents of the old kingdom might bear on present decisions. The Memory-Keeper does not vote and does not have policy authority; the role is consultative and ceremonial.
 - To keep the **Rājavalī Library**—the archive of every chronicle, treaty, and legal text from the kingdom-period, plus the continuous archive of every sabhā session since the dissolution. The library is housed in what was once the royal council-chamber, now an annex of the temple complex.
+
+Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] closes on the janapada itself:
+
+: The Acknowledgment {#recitation-excerpt}
+
+```poetry {form=recitation lang=en}
+The Mahānadi kingdom is no more;
+  it ended with its due.
+The janapada governs in its place,
+  and does so by your leave.
+```
 
 The Memory-Keepers are now one of the most respected scholarly families in inland Vedyara. Historians from across the region consult their library. Their authority on questions of Vedyari political history is unmatched, and their ceremonial role in the sabhā is taken with great seriousness. The current Memory-Keeper, **Rāmavāhana Smrti-Bhāra**, is a man in his late fifties, quiet and scholarly, and the author of the most respected modern commentary on the dissolution.
 

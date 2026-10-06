@@ -17,6 +17,17 @@ The terms are deliberately few, and a Nyáluban child can recite them: the five 
 
 What the Pact does not do is make a state. There is no Nyáluban king, no capital, no standing army and no central religious authority—only a covenant renewed face to face by people who could in principle decline. That none of them ever has is both the whole strength of the confederation and the whole of its fragility.
 
+The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], ends its account of the Pact on that point:
+
+: The Yes Worth Carrying {#swearing-yes}
+
+```poetry {form=praise lang=en}
+Nine generations, and the five come back.
+Each could say no. None of them has said it.
+That is why the yes is worth carrying.
+  _None of them has said it._
+```
+
 ## Five Nations, One Grammar
 
 The **Mvuzi** are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the Great Indaba and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
