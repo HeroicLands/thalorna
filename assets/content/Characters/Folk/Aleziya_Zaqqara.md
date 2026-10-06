@@ -1,6 +1,6 @@
 ---
 shortcode: aleziyazaqq2
-name: {full: Aleziya Zaqqara, aliases: []}
+name: {full: Aleziya Zaqqara, aliases: [Alê]}
 type: being
 subType: npc
 description: "A merchant's widow of considerable means, who manages what her husband left and is courted by everyone who wants a share of it"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "688.318"
   died: null
-  height: 1.69
-  weight: 68
+  height: 5' 7"
+  weight: 150 lbs
   frame: medium
   appearance:
     eye_color: dark_brown

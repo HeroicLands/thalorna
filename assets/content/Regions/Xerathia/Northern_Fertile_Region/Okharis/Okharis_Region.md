@@ -10,6 +10,7 @@ data:
   demonym: Okháric
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]
+  borders: [{to: bethuargn, bearing: E}]
   population: 4000000
   packFolder: okharis
   government: okharis
@@ -53,7 +54,7 @@ them and the clans is the Three-Flame Settlement.
 The region is the territory of [[affiliation-okharis|Okháris]]. Its village tribes
 owe fealty to the crown, and their chieftains and elders attend the moots held
 in the temple-cities. Its frontier clans to
-the north pay tribute to [[place-bethuargn|Bethûan]] authorities in exchange for
+the east pay tribute to [[place-bethuargn|Bethûan]] authorities in exchange for
 grazing rights, and a Khelâthi attempt centuries ago to bring the western
 temple-cities into a tributary relationship collapsed within a generation.
 

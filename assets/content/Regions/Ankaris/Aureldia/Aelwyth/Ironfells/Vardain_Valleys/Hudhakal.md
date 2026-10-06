@@ -17,7 +17,7 @@ data:
 [[place-vorgald|Vorgald]], and it is the oldest Vardain settlement—old enough that it bears a
 Khazári name, Hudhakal, "the tally-house".
 
-Six hundred and twenty people, and the **tallies**. Every delivery owed up the mountain and every
+Seven hundred and eighty people, and the **tallies**. Every delivery owed up the mountain and every
 consignment coming down is reckoned here before it reaches [[place-vargate|Vargate]], on tally-sticks
 and in ledgers kept by four families who have kept them for longer than Aldorath has had kings. The
 system is exact to a degree outsiders find unnerving, and the Khazári have never once queried a figure.

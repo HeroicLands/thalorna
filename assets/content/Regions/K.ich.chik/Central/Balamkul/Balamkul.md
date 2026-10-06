@@ -1,6 +1,6 @@
 ---
 shortcode: balamkul
-name: {full: Balamkul, aliases: []}
+name: {full: Ix'ilankul, aliases: []}
 type: affiliation
 subType: polity
 description: Paramount realm and beating heart of K'ich'chik civilization—a plateau of pyramid-temples, mathematics, and blood-priesthood.
@@ -76,32 +76,32 @@ data:
   packFolder: balamkul
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Central Mexico
+# terran_analog: Central Mexico; Ix'ilankul (ix'ilan star + -kul seat, "Seat of the Stars") is kept clear of the Maya site Balamkú and of the near-identical form Balamkul
 ---
 
 ## Overview
 
-Balamkul is the paramount realm of [[place-kchchkcntnnt|K'ich'chik]] civilization—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-balamkulrgn|Balamkul Region]].
+Ix'ilankul (the Seat of the Stars) is the paramount realm of [[place-kchchkcntnnt|K'ich'chik]] civilization—the beating heart from which all other regions draw their spiritual and political authority. The land it holds is [[place-balamkulrgn|Ix'ilankul Region]].
 
-The dominance of Balamkul rests not merely on religious authority but on political and military might. Here, the greatest K'inmah (Sun Lords) command the largest tribute networks, ruling sprawling city-states that combine monumental architecture with sophisticated water management and agricultural innovation.
+The dominance of Ix'ilankul rests not merely on religious authority but on political and military might. Here, the greatest K'inmah (Sun Lords) command the largest tribute networks, ruling sprawling city-states that combine monumental architecture with sophisticated water management and agricultural innovation.
 
-Balamkul's influence extends far beyond its borders. Tributary states in [[affiliation-kankul|K'ankul]], [[affiliation-kiikbaate|Ki'ik Ba'ate]], and [[affiliation-tzikin|Tz'ikin]] pay homage and send young nobles to the great temples for ritual training and priestly initiation. Merchant caravans radiating from Balamkul's markets carry obsidian, cacao, and sacred textiles to every corner of the known world. To be Balamkul-born is to carry the weight of divine destiny.
+Ix'ilankul's influence extends far beyond its borders. Tributary states in [[affiliation-kankul|K'ankul]], [[affiliation-kiikbaate|Ki'ik Ba'ate]], and [[affiliation-tzikin|Tz'ikin]] pay homage and send young nobles to the great temples for ritual training and priestly initiation. Merchant caravans radiating from Ix'ilankul's markets carry obsidian, cacao, and sacred textiles to every corner of the known world. To be Ix'ilankul-born is to carry the weight of divine destiny.
 
 ## City-States and Realms
 
-The political landscape of Balamkul is one of competing K'inmah (Sun Lords), each ruling a network of satellite settlements and towns that acknowledge the supreme authority of whichever city-state currently holds the respect of the K'ul Tq'an and the great temples.
+The political landscape of Ix'ilankul is one of competing K'inmah (Sun Lords), each ruling a network of satellite settlements and towns that acknowledge the supreme authority of whichever city-state currently holds the respect of the K'ul Tq'an and the great temples.
 
-Every major city-state maintains a rival relationship with its neighbors, competing in displays of architecture, astronomical achievement, and the scale of their sacrificial ceremonies. The K'inmah are bound by an intricate code of honor that channels their ambitions into ritual warfare (the sacred captive-hunts known as ch'utik'at) rather than total warfare. A captured enemy noble is a prize of tremendous value—their blood, offered to the gods at the temple summit at the moment of the sun's zenith, is believed to carry far greater power than the blood of common prisoners. Thus, the greatest warriors of Balamkul are athletes and priests simultaneously, trained from childhood in the rituals of combat and the theology of sacrifice.
+Every major city-state maintains a rival relationship with its neighbors, competing in displays of architecture, astronomical achievement, and the scale of their sacrificial ceremonies. The K'inmah are bound by an intricate code of honor that channels their ambitions into ritual warfare (the sacred captive-hunts known as ch'utik'at) rather than total warfare. A captured enemy noble is a prize of tremendous value—their blood, offered to the gods at the temple summit at the moment of the sun's zenith, is believed to carry far greater power than the blood of common prisoners. Thus, the greatest warriors of Ix'ilankul are athletes and priests simultaneously, trained from childhood in the rituals of combat and the theology of sacrifice.
 
-The Itzáni priesthood maintains strict hierarchical control within Balamkul's cities, with the K'ul Tq'an wielding authority over spiritual matters and the K'inmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious K'ul Tq'an may orchestrate the downfall of a K'inmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful K'inmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
+The Itzáni priesthood maintains strict hierarchical control within Ix'ilankul's cities, with the K'ul Tq'an wielding authority over spiritual matters and the K'inmah responsible for tribute, tribute-armies, and secular governance. In practice, the line between these powers is fluid and often contested. A particularly ambitious K'ul Tq'an may orchestrate the downfall of a K'inmah who fails to collect sufficient tribute or loses a key battle; conversely, a powerful K'inmah may attempt to install a more compliant high priest. These struggles are conducted with ritual formality and do not usually descend into open conflict, for to undermine the priesthood is to risk the anger of the gods themselves.
 
-Balamkul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ix'lan is administered entirely by the [[affiliation-itzanpnthn|Itzáni]] priesthood—not by any K'inmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|K'in'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where tz'ib'al (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the K'ul Tq'an's inner circle. No K'inmah—not even the most powerful Sun Lord in Balamkul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ix'lan way-stations within Balamkul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the K'ul Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
+Ix'ilankul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'umbal runners that binds [[place-kchchkcntnnt|K'ich'chik]] civilization together. The Ch'um Ix'lan is administered entirely by the [[affiliation-itzanpnthn|Itzáni]] priesthood—not by any K'inmah or temporal authority. The Ch'umbal are ordained as minor religious functionaries, sworn to the service of [[affiliation-itzanpnthn|K'in'ul Tq'an]] (god of order), and no secular lord may command, delay, or interfere with a runner on the Speaking Road. Kul'taq'an houses the central dispatch, where tz'ib'al (knotted cord records) are decoded, copied, and redistributed by priestly scribes, and where the most sensitive intelligence from distant provinces is received and interpreted by the K'ul Tq'an's inner circle. No K'inmah—not even the most powerful Sun Lord in Ix'ilankul—receives intelligence from the Speaking Road except through the priesthood's hands. The density of Ch'um Ix'lan way-stations within Ix'ilankul is unmatched anywhere in the realm—a message can cross the entire plateau region in a single day, giving the K'ul Tq'an awareness of events almost as they unfold. This monopoly on long-distance communication is perhaps the priesthood's most potent instrument of power, for no rebellion can be coordinated and no alliance formed without the knowledge of the priests who read the knotted cords.
 
 ## See Also
 
-- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Balamkul's religious authority
+- [[affiliation-kankul|K'ankul]]—The limestone lowlands to the east, tributary to Ix'ilankul's religious authority
 - [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
 - [[affiliation-tzikin|Tz'ikin]]—The eastern frontier, source of exotic goods and sacred materials
-- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Balamkul its religious authority
+- [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Ix'ilankul its religious authority
 - Tz'aqal K'ul—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
-- [[place-balamkulrgn|Balamkul Region]]—The land Balamkul holds
+- [[place-balamkulrgn|Ix'ilankul Region]]—The land Ix'ilankul holds

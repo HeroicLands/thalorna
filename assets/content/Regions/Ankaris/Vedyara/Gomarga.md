@@ -86,19 +86,21 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 **Gomārga** is the kingdom of [[place-vandhyabhumi|Vandhyabhūmi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _go_ (cattle) _mārga_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.
 
-It is a kingdom in form and a water authority in fact.
+It is a kingdom in form and a water authority in fact, and the people who run it are the keepers of the wells.
+
+A **Kūpapāla** at one of the circuit wells, watching a lowland drover bring a herd up to the trough for the first time, gives him the lesson the plateau teaches everyone. "Graze where you like; the grass is whoever gets to it first, and nobody here will judge a quarrel over it. But your beasts drink at this well on my terms. The lineage that cut it named me to keep it, I set what a herd pays, and the crown stands behind the lineage. Argue the price with me if you want. Do not argue it with the crown's escort."
 
 ## What the Crown Holds
 
 Gomārga holds the wells and the droveways and does not hold the grazing. The distinction is a hundred generations old and is stated at every accession: the grass belongs to whoever brings stock to it first in the season, and the crown does not adjudicate grass.
 
-It adjudicates everything else, because everything else happens at a well. A herd that does not drink does not move, and a herd that does not move is dead by the end of the dry season, so a crown that sets what a herd pays to drink sets the terms of every journey on the plateau without ever claiming an acre. Neighbouring kingdoms that measure a realm in ploughland read Gomārga as a small power and are corrected the first time they try to move cattle across it.
+It adjudicates everything else, because everything else happens at a well. A herd that does not drink does not move, and a herd that does not move is dead by the end of the dry season, so a crown that sets what a herd pays to drink sets the terms of every journey on the plateau without ever claiming an acre. Neighboring kingdoms that measure a realm in plowland read Gomārga as a small power and are corrected the first time they try to move cattle across it.
 
-The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a **Kūpapāla** the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time.
+The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kūpapāla the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time.
 
 ## The Moving Court
 
-There is no capital. The Mahārāja's court travels a circuit of the principal wells through the year, arriving at each as the herds do, and it is the arrival of the court rather than any summons that brings a district's business forward. A petition waits for the circuit. A judgment given at one well is remembered at the next because the same people walk between them.
+There is no capital, and a newcomer with business before the crown should not go looking for one. The Mahārāja's court travels a circuit of the principal wells through the year, arriving at each as the herds do, and it is the arrival of the court rather than any summons that brings a district's business forward. A petition waits for the circuit. A judgment given at one well is remembered at the next because the same people walk between them.
 
 The **Rājñī** keeps the one fixed establishment, at the winter wells in the north-east where the tanks are largest: the treasury, the written record, the granary bought out of the river valleys, and such hostages as the crown is holding. The division is deliberate. A rival who takes the standing camp has taken the records and not the kingdom, and a rival who takes the crown has taken a man on a horse.
 
@@ -112,7 +114,7 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 Gomārga sells into the river valleys and the coast and buys grain, cloth and iron back. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the Mela at all in most cycles. The assembly meets on the Mahānadi in the season the herds move, and the crown is on its circuit.
+The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janapadas and not the kingdom, which is ordinary; a rājya is not a janapada. What is not ordinary is that Gomārga sends nobody to the **Mela** at all in most cycles. The assembly meets on the [[place-mahanadi|Mahānadī]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 
@@ -122,6 +124,6 @@ Gomārga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered thro
 
 - [[place-vandhyabhumi|Vandhyabhūmi]]—the plateau the kingdom holds
 - [[place-vedyarargn|Vedyara Region]]—parent region
-- [[lore-mdhvndrcnt|The Mādhavendra Count]]—the year-count dated from the ruined capital on the plateau
+- [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the ruined capital on the plateau
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
 - [[skill-vedyarlng|Vedyari]]—language and naming conventions

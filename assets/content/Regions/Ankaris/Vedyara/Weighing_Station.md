@@ -22,7 +22,7 @@ The whole mechanism rests on this. The gold is visible. Nobody accumulates quiet
 
 A family's wage is fixed and its yield is not, so the weighing is also where a bad month is established as a fact rather than an accusation. A panning family that comes up light three months running is asked about it in the open, at the rail, by whoever cares to ask.
 
-The scale itself is the temple's and is touched by [[affiliation-mahajaya|Mahájaya]]'s rite once a year. Suvarnagiri holds that a weight sworn on that scale is not arguable, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors, who may not set foot in the yard, have never found a way to test the claim.
+The scale itself is the temple's and is touched by [[affiliation-mahajaya|Mahājaya]]'s rite once a year. Suvarnagiri holds that a weight sworn on that scale is not arguable, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s factors, who may not set foot in the yard, have never found a way to test the claim.
 
 ## See Also
 

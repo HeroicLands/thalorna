@@ -17,7 +17,11 @@ data:
 
 ## Overview
 
-Balqu is the capital of the empire's [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], a fortified hill-town set at the mouth of the chief mining district where the desert roads come down out of the hills. It is the place where the empire's eastern gold is gathered, weighed, and sealed for the long guarded journey to the capital: its assay-house and treasury are the selat's strongroom, its garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders, and its great temple of [[lore-psaqarudty|Psaq'âru]] the smith presides over a town of mine-captains, smelters, engineers, and hard frontier labor. Walled, watchful, and built for control rather than comfort, Balqu is the seat of the soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who guards a fortune in rock and the men who dig it.
+**Balqu** (about 22,000 people) is the capital of the empire's [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], a fortified hill-town at the mouth of the chief mining district where the desert roads come down out of the hills. The eastern gold is gathered here, weighed and sealed for the long guarded journey to the capital.
+
+"Look at the walls and you know what the town is for," a mine overseer tells a newcomer riding in behind a convoy. "They face outward at the desert and inward at the strongroom, and the second is the harder to get past." The assay-house and treasury are the selat's strongroom, and the garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders. The great temple of [[lore-psaqarudty|Psaq'âru]] the smith presides over a town of mine-captains, smelters, engineers and hard frontier labor.
+
+Balqu is walled, watchful and built for control rather than comfort, and it is the seat of the soldier-[[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who guards a fortune in rock and the men who dig it.
 
 ## Notable Features
 

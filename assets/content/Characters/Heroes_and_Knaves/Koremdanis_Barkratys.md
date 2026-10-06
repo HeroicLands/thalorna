@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: 686.99
-  height: 1.83
-  weight: 79.8
+  height: 6'
+  weight: 176 lbs
   frame: medium
   appearance:
     eye_color: amber
@@ -490,7 +490,7 @@ Swordmaster Lysandor the Undefeated
 The Iron Circle
 : A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
 
-Her Own Ambition
+Her own ambition, an inner enemy
 : In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
 
 ### Affiliations

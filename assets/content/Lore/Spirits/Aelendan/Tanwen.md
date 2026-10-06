@@ -73,4 +73,4 @@ the ember came from Eshálosha, the new hall's hearth-kin is held to be Tanwen's
 of that village stands in a particular relation to the Lodge ever afterward. This is as close as
 the Áelendan come to a political hierarchy, and they would not call it one.
 
-TBD—the tribes whose halls were kindled from Eshálosha, and what the relation obliges.
+Which tribes' halls were kindled from Eshálosha, and what the relation obliges them to, the Áelendan do not set out for outsiders.

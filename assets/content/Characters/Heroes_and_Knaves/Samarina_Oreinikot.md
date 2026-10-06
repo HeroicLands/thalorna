@@ -17,8 +17,8 @@ data:
   gender: female
   species: humanflk
   born: 688.132
-  height: 1.78
-  weight: 69.9
+  height: 5' 10"
+  weight: 154 lbs
   frame: light
   appearance:
     eye_color: green
@@ -496,8 +496,8 @@ Landowner Theron Vaspas
 The Competitive Herders Collective
 : Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
 
-Her Own Doubts
-: More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
+Her own doubts, an inner enemy
+: More dangerous than any external foe is Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
 
 ### Affiliations
 

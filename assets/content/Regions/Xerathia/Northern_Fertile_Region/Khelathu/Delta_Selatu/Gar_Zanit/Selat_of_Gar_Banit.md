@@ -77,15 +77,17 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Gar-Zanit is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: flax fields and the linen-weaving towns whose cloth clothes the empire. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-psaqaru|Faith of Psaq'âru]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-garzanitselt|Gar-Zanit Selat]].
+Look at the hem of your own tunic: if it is linen and it came from the delta, it probably began in [[place-garzanit|Gar-Zanit]]. The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a country of flax fields and linen-weaving towns whose cloth clothes the empire. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-psaqaru|Psaq'âru]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-garzanitselt|Gar-Zanit Selat]].
+
+"A flax field is a promise made in the flood season," says a Canal-Warden, kicking a sluice-gate that has just been shut. "Too much water and the stems rot. Too little and the fibers are short and the weavers curse my name. I keep the number of days between the two."
 
 ## Character
 
-Its seat is [[place-garzanit|Gar-Zanit]], where the Halzi'a keeps his court and the selat's chief temple of Psaq'âru stands.
+The seat is [[place-garzanit|Gar-Zanit]], where the Halzi'a keeps court and the selat's chief temple of Psaq'âru stands. Psaq'âru is the god of creation and craftsmanship, and a selat of weavers keeps his name for the work of the hands.
 
 ## Commerce and Currency
 
-Gar-Zanit uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Gar-Zanit uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, which means a weaver's bolt of linen and a farmer's sack of grain are measured against the same attested standard. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 

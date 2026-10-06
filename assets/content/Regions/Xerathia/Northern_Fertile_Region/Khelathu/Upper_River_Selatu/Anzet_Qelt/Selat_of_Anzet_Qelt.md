@@ -77,21 +77,23 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-Anzet-Qelt is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: jackal-cult and desert-edge tombs; embalmers and tomb-guards. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Gar-Aû at a distance that varies with the strength of the throne. Its patron is [[affiliation-hezmuiri|Faith of Hezmuîri]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-anzetqeltnome|Anzet-Qelt]].
+"Two things get weighed in [[place-anzetqeltnome|Anzet-Qelt]]," the assayer of the [[affiliation-garhalzi|Gár-Hálzi]] chapter tells a clerk newly posted from the capital. "The metal that crosses this counter, and the heart at the end. The second is not my office."
+
+The **Selat of Anzet-Qelt** is one of the upper-river selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a selat of jackal-cult and desert-edge tombs, embalmers and tomb-guards, with about 320,000 people. Like every selat it is held by a hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]], who commands its levies, collects its taxes and dispenses its justice, and who answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. Its patron is [[affiliation-hezmuiri|Faith of Hezmuîri]], and the selat's religious life runs through that cult's temples and their estates. The land it holds is [[place-anzetqeltnome|Anzet-Qelt]].
 
 ## Character
 
-Its seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the selat's chief temple of Hezmuîri stands.
+The seat is [[place-anzet|Anzet]], where the Halzi'a keeps his court and the chief temple of [[lore-hezmuiridty|Hezmuîri]] stands. In a selat of embalmers and tomb-guards the two authorities sit close together: the Halzi'a holds the levies, the taxes and the courts, and the temple holds the dead. The priesthood of Hezmuîri is among the largest and most powerful in the empire, and every household in the selat will need its services in the end.
 
 ## Commerce and Currency
 
-Anzet-Qelt uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], with the local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to its chief temple attesting the weight-pieces and holding the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Anzet-Qelt uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The Gár-Hálzi chapter attached to the chief temple attests the weight-pieces and holds the granary accounts, so a payment at Anzet is weighed by the same house that keeps the selat's grain in ledger. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-anzet|Anzet]]—Selat capital
-- [[affiliation-hezmuiri|Faith of Hezmuîri]]—Patron cult
-- [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-anzetqeltnome|Anzet-Qelt]]—The land the selat holds
+- [[affiliation-upperrivrslt|The Upper River Selatu]]—parent selat class
+- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
+- [[place-anzet|Anzet]]—selat capital
+- [[affiliation-hezmuiri|Faith of Hezmuîri]]—patron cult
+- [[affiliation-garhalzi|Gár-Hálzi]]—temple-treasuries
+- [[place-anzetqeltnome|Anzet-Qelt]]—the land the selat holds

@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Tz'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -90,7 +90,7 @@ P'uqil Ch'aqun is the most terrifying and most desperately worshipped deity in t
 
 Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the **k'ixkan ch'alix** (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic Ki'ichek while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic—water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished cenotes.
 
-The rain-calling escalates by fixed stages as the dry season lengthens, and every Ki'ichek can read the stage from the street. A short procession and poured water is routine. A procession that returns without descending—the priests remaining on the peak through a second night—tells the city the rains are late. When the **K'ul Ha'tq'an** himself ascends, fasting, the city understands that the ordinary measures have failed, and the granaries begin to be rationed before any official word is given. Beyond that stage lie the captive sacrifices, and beyond those, in living memory only twice, the abandonment of the city.
+The rain-calling escalates by fixed stages as the dry season lengthens, and the people in the streets below the pyramid read each stage as it comes. A short procession and poured water is routine. A procession that returns without descending—the priests remaining on the peak through a second night—tells the city the rains are late. When the **K'ul Ha'tq'an** himself ascends, fasting, the city understands that the ordinary measures have failed, and the granaries begin to be rationed before any official word is given. Beyond that stage lie the captive sacrifices, and beyond those, in living memory only twice, the abandonment of the city.
 
 In his destructive aspect, worship takes the form of the **Tz'umaq'tzuqalil** ("Binding of the Serpent"), conducted when the god is believed most restless. The ceremony requires mass bloodletting, offerings of jade and maize, and ritual recitation of the names of all four previous ages and their destructions. The purpose is twofold: to symbolically bind the serpent with chains of blood and word, and to provide an outlet for the existential anxiety of living under an apocalyptic shadow.
 

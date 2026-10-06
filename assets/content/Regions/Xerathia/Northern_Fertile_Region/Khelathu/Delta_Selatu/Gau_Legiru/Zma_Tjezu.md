@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-Zma-Tjezu is one of the orchard villages of the [[place-gaulegirunome|Gau-Legiru]] garden strip. It lives by its groves and its press, like its neighbours along the strip, sending on what the household does not keep for itself. A bad frost here costs a year of oil before it costs anything else.
+**Zma-Tjezu** is one of the orchard villages of the [[place-gaulegirunome|Gau-Legiru]] garden strip. It lives by its groves and its press like its neighbors along the strip, and sends on whatever the household does not keep for itself. A bad frost here costs a year of oil before it costs anything else.
 
 ## See Also
 
-TBD.
+- [[place-gaulegirunome|Gau-Legiru]]—The selat country that holds it

@@ -17,26 +17,18 @@ data:
 
 ## Overview
 
-Lut-Tjelsuk Selat is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsuk]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Lut-Tjelsuk Selat** is the land of the [[affiliation-selatlttjlsk|Selat of Lut-Tjelsuk]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is the eastern marsh of the delta, where the great crocodile cult and the river-beast hunters make their living.
+
+"Never put a foot in the water at dusk, and never put it where a reed has been bent," a river-beast hunter tells a new hand, shoving a pole into the mud to test the bottom. "The beast watches the bank. We watch the beast. That is all the arrangement there is out here."
 
 ## Character
 
-Eastern marsh; the great crocodile cult and the river-beast hunters. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
-
-## Economy
-
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: eastern marsh; the great crocodile cult and the river-beast hunters.
-
-## Notable Features
-
-- [[place-luttjelsuk|Lut-Tjelsuk]]—the selat capital and the Halzi'a's seat
-- The chief temple of [[affiliation-tjelsuk|Faith of Tjelsuk]] and its estates
-- Eastern marsh; the great crocodile cult and the river-beast hunters
+The selat is marsh, and the hunters are its particular trade. On the firmer ground the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-tjelsuk|Tjelsuk]] and its estates hold the marsh's richest ground.
 
 ## Settlements
 
 - [[place-luttjelsuk|Lut-Tjelsuk]] (~38,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

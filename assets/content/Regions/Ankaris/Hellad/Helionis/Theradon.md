@@ -98,6 +98,5 @@ Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 - [[place-helionis|Heliónis]]—Regional overview
 - [[place-theradon2|Therádon]]—The city itself
 - [[skill-helonclng|Helonic]]—Naming tradition
-- [[skill-helonclng|Helonic]]—Naming tradition
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious tradition
 - [[affiliation-panepistmm|Panepistemium]]—Scholarly institution

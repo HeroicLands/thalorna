@@ -11,26 +11,10 @@ data: {packFolder: regkhdeit}
 
 _Shaper of the Eternal World—a chisel carving a star._
 
-Psaq'âru is the supreme architect of creation, the divine craftsman whose hands and mind shaped the
-cosmos out of formless void. Temple theology holds the universe to be his masterwork: every
-mountain, every star, every creature exists because Psaq'âru conceived its form and brought it into
-being through perfect artistry. He is shown with hammer and chisel, or as something more abstract—the invisible force of creative intention that reaches the world through human hands.
+"Stand back and look at it," a master builder tells an apprentice at the foot of a new obelisk, "and then ask yourself whose hands you are working with." **Psaq'âru** is the supreme architect of creation, the divine craftsman whose hands and mind shaped the cosmos out of formless void. Temple theology holds the universe to be his masterwork: every mountain, every star and every creature exists because he conceived its form and brought it into being through perfect artistry. He is shown with hammer and chisel, or as something more abstract, the invisible force of creative intention that reaches the world through human hands.
 
-The distinctive claim of his faith is that **creation did not cease at the world's beginning**.
-Every builder who raises a structure, every artisan who shapes raw material into beauty, every
-architect who envisions a city yet unbuilt participates in the ongoing work. And the god grants not
-success but _inspiration itself_: the ability to see potential in stone and wood, to understand
-proportion, to perceive the hidden forms waiting inside materials.
+The distinctive claim of his faith is that _creation did not cease at the world's beginning_. Every builder who raises a structure, every artisan who shapes raw material into beauty and every architect who envisions a city not yet built takes part in the ongoing work. The god grants _inspiration itself_ and not mere success: the ability to see potential in stone and wood, to understand proportion and to perceive the hidden forms waiting inside materials.
 
-Aû'Khelâthu's monumental architecture is understood as his presence made concrete. The builders of
-the pyramids and the obelisks regard themselves not as servants of the Gar-Aû but as high priests of
-Psaq'âru, their works prayers in stone—which is why the precision is itself devotional and why
-innovation in form is not valued over perfection of it.
+[[affiliation-empireakhlth|Aû'Khelâthu]]'s monumental architecture is understood as his presence made concrete. The builders of the pyramids and obelisks regard themselves as high priests of Psaq'âru and not as servants of the [[lore-garauu|Gar-Aû]], and their works as prayers in stone. That is why their precision is itself devotional, and why perfecting a form is valued above innovating on it.
 
-One strand of theology holds that **Psaq'âru made Uqa'â**—that the universe came into being through
-Psaq'âru's creative will and that [[lore-uqaadty|Uqa'â]] is the animating principle moving through his
-creation. It has never caused conflict; the priesthoods treat the aspects of creation as
-complementary rather than ranked.
-
-TBD—whether the Psaq'âru-made-Uqa'â position is ever actually pressed in the temple schools, or only
-conceded and left alone.
+One strand of theology holds that _Psaq'âru made Uqa'â_: the universe came into being through Psaq'âru's creative will, and [[lore-uqaadty|Uqa'â]] is the animating principle moving through his creation. The teaching has never caused conflict, because the priesthoods treat the aspects of creation as complementary and not ranked.
