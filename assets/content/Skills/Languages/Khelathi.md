@@ -373,6 +373,22 @@ What a commoner's byname names when it names a trade rather than a place.
 
 Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `lagar`.
 
+### The counting-house, the quay and the water-works
+
+The words of the realm's working life, and the ones its neighbors borrowed with
+the methods they name.
+
+| Word     | Sense                                      |
+| -------- | ------------------------------------------ |
+| `qaṭlun` | a hidden channel, the tunnel-well          |
+| `ḍegan`  | a tax, the impost on goods crossing a line |
+| `qathur` | a seal, and the warrant it closes          |
+| `ṭelqas` | a quay                                     |
+| `ḥabṭun` | a storehouse                               |
+| `halzat` | the weighing, built on `halzi`             |
+| `qinlat` | sweet oil, unguent                         |
+| `ḍuras`  | washing-salt                               |
+
 ### The realm, its people and its hands
 
 | Term             | Sense                      |

@@ -17,6 +17,7 @@ sohl:
   flags: {"thalorna": {lang_family: Helonic}}
 
 # terran_analog: Bethuan stands to Helonic as Spanish to Latin, and the Khelâthi superstrate parallels the Arabic stratum in Spanish.
+# terran_analog: the fossilized article is Arabic al- frozen into Spanish loans such as alcázar and almacén.
 ---
 
 Bethuan is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -171,22 +172,22 @@ The borrowing followed the realm's history. When Aû'Khelâthu backed Bethûan i
 
 The loans are overwhelmingly **concrete nouns**, and they pile up exactly where the modern state and economy do:
 
-| Domain                 | Bethuan loan (illustrative) | Meaning                           | Khelâthi source / note                                                                            |
-| ---------------------- | --------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------- |
-| Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Khelâthi taught                                                           |
-|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                          |
-|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                          |
-| Money & administration | _gezan_, _qelu_             | the weight-currency units         | the realm has no native coinage                                                                   |
-|                        | _et-makhs_                  | customs-toll, the impost          | from a Khelâthi root for "tax"                                                                    |
-|                        | _khetem_                    | seal; a sealed warrant            | Khelâthi _ḫtm_, "to seal"                                                                         |
-|                        | _zethu_                     | an official document, the writ    | Khelâthi _sš_, "scribe/writing"                                                                   |
-| Commerce & the sea     | _en-meret_                  | quay, the harbor-front            | Khelâthi _mryt_, "quay"                                                                           |
-|                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                                |
-| Calendar & measure     | _selkûr_                    | year (in era-reckoning)           | Khelâthi _selqur_, as in _Selqur Qet Telgu_                                                       |
-|                        | _Azlet, Gelet, Shelu_       | the three seasons                 | the Khelâthi agricultural year                                                                    |
-| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Khelâthi _mḫat_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
-| Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                 |
-|                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                           |
+| Domain                 | Bethuan loan (illustrative) | Meaning                           | Khelâthi source / note                                                                                   |
+| ---------------------- | --------------------------- | --------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Water & engineering    | _katelûn_                   | underground tunnel-well           | Khelâthi _qaṭlun_, "hidden channel"; the irrigation form the Khelâthi taught                             |
+|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                                 |
+|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                                 |
+| Money & administration | _gezan_, _qelu_             | the weight-currency units         | the realm has no native coinage                                                                          |
+|                        | _et-degân_                  | customs-toll, the impost          | Khelâthi _ḍegan_, "tax," with its article                                                                |
+|                        | _kathûr_                    | seal; a sealed warrant            | Khelâthi _qathur_, "seal"                                                                                |
+|                        | _zethu_                     | an official document, the writ    | Khelâthi _zethu_, "writing"                                                                              |
+| Commerce & the sea     | _en-telekâs_                | quay, the harbor-front            | Khelâthi _ṭelqas_, "quay," with its article                                                              |
+|                        | _khabetûn_                  | bonded warehouse, store           | Khelâthi _ḥabṭun_, "storehouse"                                                                          |
+| Calendar & measure     | _selkûr_                    | year (in era-reckoning)           | Khelâthi _selqur_, as in _Selqur Qet Telgu_                                                              |
+|                        | _Azlet, Gelet, Shelu_       | the three seasons                 | the Khelâthi agricultural year                                                                           |
+| Faith & divination     | _halzât_                    | the scales; the oracular weighing | Khelâthi _halzat_, "the weighing"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
+| Luxury & material      | _kinelât_                   | fragrant oil, unguent             | Khelâthi _qinlat_, "sweet oil"                                                                           |
+|                        | _durâs_                     | natron, cleaning-salt             | Khelâthi _ḍuras_, "washing-salt"                                                                         |
 
 _(These forms are illustrative; the pattern matters more than any single coinage.)_
 
@@ -200,7 +201,7 @@ Khelâthi has sounds Bethuan does not, and they are regularly smoothed away on t
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
-The single most recognizable mark of a Khelâthi loan, though, is the **fossilized article**. Khelâthi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-meret_, "the quay," article and all, exactly as an older world's _al-_ froze into *al*cázar and *al*macén. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Khelâthi borrowing.
+The single most recognizable mark of a Khelâthi loan, though, is the **fossilized article**. Khelâthi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-telekâs_, "the quay," article and all. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Khelâthi borrowing.
 
 ### The Register Split
 
@@ -208,7 +209,7 @@ The most telling fact about the superstrate is **where it does and does not appe
 
 The **feminine register**—the language of the temple, the law, philosophy, and high poetry—is **deliberately purist Helonic**. A hymn to [[affiliation-arldnpnthn|Lúsinía]] or a formal judgment will contain almost no Khelâthi vocabulary; where a loanword exists for a thing, the cultivated speaker reaches past it for the inherited Helonic synonym. To lard formal or sacred speech with Khelâthi loans is to mark oneself as ill-bred—"talking like a counting-house," in the Bethuan phrase.
 
-The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Khelâthi stratum. One simply cannot run the qanats, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [[affiliation-mtrrchybth|Order of the Waters]] and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Khelâthi jargon, the other in Helonic poetry.
+The **masculine and practical register**—and all technical, administrative, mercantile, and maritime speech regardless of who is speaking—is **saturated** with the Khelâthi stratum. One simply cannot run the tunnel-wells, keep the treasury's books, clear cargo on the quay, or reckon the calendar without it, and within those domains the loanwords carry their own prestige: they are the vocabulary of competence. An engineer-priestess of the [[affiliation-mtrrchybth|Order of the Waters]] and a hymn-singing priestess of the same temple will speak about water in two almost different languages—one in Khelâthi jargon, the other in Helonic poetry.
 
 The result is a productive irony that runs through all of Bethûan life: the most prestigious register is the most linguistically _purist_, while the actual machinery of the state speaks the patron's tongue. Among the fashionable, a sprinkling of Khelâthi vocabulary in conversation signals worldliness and good connections at Galezkara; among the priestly conservatives, the same habit signals exactly the creeping foreign dependence they distrust. A character's Bethuan can therefore say a great deal about where she stands—Helonic purism for the temple traditionalist, Khelâthi-flavored speech for the engineer, the merchant, and the cosmopolitan.
 
@@ -216,7 +217,7 @@ The result is a productive irony that runs through all of Bethûan life: the mos
 
 Where the feminine examples above (see Sample Constructions) run on pure Helonic vocabulary, ordinary practical speech mixes the strata freely:
 
-- _En-meret'sh makhzen pleôs et-makhs_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'sh_, reduced inflection, three Khelâthi loans—_en-meret, makhzen, et-makhs_—carried on a Helonic frame).
+- _En-telekâs'sh khabetûn pleôs et-degân_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'sh_, reduced inflection, three Khelâthi loans—_en-telekâs, khabetûn, et-degân_—carried on a Helonic frame).
 
 ## Regional Dialects
 
