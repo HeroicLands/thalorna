@@ -11,14 +11,17 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: confederation
+    summary: >-
+      The temple-estates of Aû'Khelâthu taken together: granaries, workshops and tenant-villages held by the temples in common, each temple's council answering for its own share. It confers no priestly grade; those belong to each temple.
     ranks:
       - level: 1
-        title: "Member"
+        title: Temple Tenant
         description: >-
-          Belongs to the network of temple-estates whose granaries, workshops and tenant-villages support the temples' holdings.
-    offices: {}
+          Works the land, the granaries or the workshops of a temple-estate, or lives as one of a temple's dependents.
+    offices:
+      Steward of the Temple Estates: >-
+        Runs a temple's landholdings from an estate-town, gathering the grain, labor and livestock of its tenant-villages into the temple's stores.
   seat: null
   domains: []
   population: 0

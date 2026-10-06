@@ -11,13 +11,26 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: theocracy
+    summary: >-
+      The temple of Uznêra, tended chiefly by women who hold its central rites, served by the three-rank Khelâthi priesthood and governed in its holdings and its calendar by Genzet'Uznêra. Men are admitted to its priesthood and rarely to its heights.
     ranks:
-      - level: 1
-        title: "Priest"
+      - level: 0
+        title: Name Struck
         description: >-
-          Serves in Uznêra's temple priesthood, tending the rites of fertility and balanced partnership.
+          Struck from the record of the temple of Uznêra, the heaviest sentence a temple passes short of death.
+      - level: 1
+        title: Wazu
+        description: >-
+          "Purified One"—an acolyte in the temple's education, girl or boy, learning the rites of fertility and partnership.
+      - level: 2
+        title: Lem'Nelgir
+        description: >-
+          "Servant of the God"—an ordained priestess or priest of the goddess, hearing the petitions of marriage, birth and inheritance that the empire's other temples leave to this one.
+      - level: 3
+        title: Thâz'Lekhau
+        description: >-
+          "Great of Sacred Power"—the High Priestess of Uznêra, a standing the temple rarely gives to a man.
     offices: {}
   seat: null
   domains: []

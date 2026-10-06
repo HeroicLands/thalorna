@@ -11,14 +11,33 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: ""
-    summary: ""
+    model: theocracy
+    summary: >-
+      The temple of Reth'Sa'âr, holding the archives, the observatory and the scribal schools, and served by the three-rank Khelâthi priesthood. What it has not catalogued is, for most purposes, lost.
     ranks:
-      - level: 1
-        title: "Priest"
+      - level: 0
+        title: Name Struck
         description: >-
-          Serves in Reth'Sa'âr's temple, cataloguing records, tracking the stars or training scribes.
-    offices: {}
+          Struck from the record of the temple of Reth'Sa'âr, the heaviest sentence a temple passes short of death.
+      - level: 1
+        title: Wazu
+        description: >-
+          "Purified One"—an acolyte in the temple's long education, learning the sacred hand among the archives.
+      - level: 2
+        title: Lem'Nelgir
+        description: >-
+          "Servant of the God"—an ordained priest of the god of knowledge, cataloguing the records, tracking the stars or training scribes.
+      - level: 3
+        title: Thâz'Lekhau
+        description: >-
+          "Great of Sacred Power"—the High Priest of Reth'Sa'âr, at the head of the archives, the observatory and the schools.
+    offices:
+      Keeper of the Archives: >-
+        Catalogues what the empire knows and answers for what the temple holds.
+      Watcher of the Stars: >-
+        Tracks the stars for the calendar the administration runs on, and supplies the regnal and temple reckonings.
+      Teacher of Scribes: >-
+        Trains the scribes who staff the administration in the temple's schools.
   seat: null
   domains: []
   population: 0
