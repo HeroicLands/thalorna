@@ -7,11 +7,13 @@ type: doc
 subType: reference
 description: "Reference estimate of the population of Thalorna by continent and region—a pre-industrial, agrarian world of roughly 370 million, with the eastern giants Tānvür and Vedyara holding the majority of humankind."
 tags: [reference, demographics, worldbuilding]
+
+# terran_analog: the agrarian share matches Earth before the modern age; the eastern majority mirrors China and India holding about half of humanity in the pre-modern era; a 1M capital compares to Rome (~1M) atop Roman Italy (~12–14M).
 ---
 
 ## The Population of Thalorna
 
-A working demographic model of the inhabited world. Thalorna in **720 AF** is a pre-industrial, overwhelmingly agrarian world; like Earth before the modern age, some **85–90% of people live on the land**, in countless small villages and farms, and only a thin urban crust lives in the named cities and towns. The figures below are population _totals_ for whole regions—not the sum of named settlements, which are only the notable places.
+A working demographic model of the inhabited world. Thalorna in **720 AF** is a pre-industrial, overwhelmingly agrarian world in which some **85–90% of people live on the land**, in countless small villages and farms, and only a thin urban crust lives in the named cities and towns. The figures below are population _totals_ for whole regions—not the sum of named settlements, which are only the notable places.
 
 Every figure here is **derived from the region and polity notes themselves**, rounded to two significant digits. Where a region's note states a number, that number governs and this page follows it; where the region's own note states nothing, the figure is the sum of the lands inside it. The world comes to roughly **370 million** souls, comparable to Earth around the 14th–15th centuries.
 
@@ -102,11 +104,11 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 ### Notes and Sanity Checks
 
-**The east holds the majority of humankind.** Tānvür and Vedyara together (~230M) are roughly **62% of the world's people**—mirroring Earth, where China and India alone held about half of humanity throughout the pre-modern era. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
+**The east holds the majority of humankind.** Tānvür and Vedyara together (~230M) are roughly **62% of the world's people**. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
 
 **Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west—larger than any single Aurèldían kingdom—but only ~6% of the world, and barely a fifth the size of Tānvür or Vedyara. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
-**A 1-million capital is feedable.** [[place-magnapolis|Magnápolis]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hylen]]'s grain, [[affiliation-provincvld|Vald]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-curiaurbis|Curator of the Grain]]. Compare the city of Rome (~1M) atop Roman Italy (~12–14M).
+**A 1-million capital is feedable.** [[place-magnapolis|Magnápolis]] at ~1M is ~5% of Vylaria proper—high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hylen]]'s grain, [[affiliation-provincvld|Vald]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-curiaurbis|Curator of the Grain]].
 
 **The Aurèldían kingdoms are itemized, not estimated.** Provènzia, Élavendre, Tarvénia, Aelwyth and Calypsa each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aurèldían crown can face Magnápolis alone and why the Twelve, not a treaty, are what hold the west together.
 
