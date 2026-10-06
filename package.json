@@ -36,7 +36,7 @@
         "build:assets": "package-build assets",
         "build:compiledb": "package-build package compile",
         "build:unpackdb": "package-build package unpack",
-        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:reference-people lint:labels",
+        "lint": "run-s lint:format lint:markdown lint:lang lint:addresses lint:content-links lint:reference-people lint:khazari-lexicon lint:labels",
         "lint:format": "package-build format",
         "lint:markdown": "package-build markdown",
         "lint:markdown:fix": "package-build markdown --fix",
