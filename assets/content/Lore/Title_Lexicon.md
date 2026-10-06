@@ -19,10 +19,12 @@ exercised, and one day handed on. They move independently. Three of the Nine
 Houses of Chandrapur share a standing and hold no office at all between them,
 while the man who keeps the canal has an office and very little standing.
 
-So the tables below are two, and they are read differently. Standing is looked
-up **by function** — you know what the thing is and want each people's word for
-it. Office is looked up **by people** — you have met a word and want to know
-what its holder does.
+So the tables below are two kinds, and they are read differently. Standing is a
+place on one body's own ladder, so it is looked up **by people** or **by
+tradition**: find the people, then the rung, and the description says what that
+rung is. Office is a charge rather than a rung, so it is tabled separately, also
+**by people**: find the people, then the word, and the entry says what its holder
+does.
 
 ## Standing among the peoples
 
@@ -126,10 +128,10 @@ ORDER BY t.tradition, r.level, r.title COLLATE NOCASE, "Bodies"
 
 ## Offices, people by people
 
-There is no common reckoning for offices as there is for standing — a people
-divides the work of governing as its own history left it, and no two divide it
-alike. So these are read the other way about: find the people, then the word.
-Each entry says what its holder actually does.
+A people divides the work of governing as its own history left it, and no two
+divide it alike, so an office has no counterpart in another people's table to be
+set beside. Find the people, then the word. Each entry says what its holder
+actually does.
 
 ```sql {section-level=3}
 WITH peoples AS (
