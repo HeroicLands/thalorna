@@ -20,4 +20,5 @@ Yath-Mulu sits on the east bank of [[place-khelzuretslt|Khelzuret Selat]], worki
 
 ## See Also
 
-TBD.
+- [[place-khelzuretslt|Khelzuret Selat]]—The selat country that holds it
+- [[place-khelzuret|Khelzuret]]—The temple city of the selat
