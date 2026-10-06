@@ -269,12 +269,6 @@ export function rulesFrom(text) {
     };
 }
 
-/** A pattern matching one consonant of the inventory, digraphs first. */
-function consonantPattern(rules) {
-    const sorted = [...rules.consonants].sort((a, b) => b.length - a.length);
-    return sorted.map((c) => c.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")).join("|");
-}
-
 /**
  * A word cut into its sounds: consonants (digraphs whole), vowels and the glottal.
  *

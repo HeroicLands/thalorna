@@ -361,11 +361,11 @@ Beyond that instinct the two agree on:
 
 The shared ancestor is extinct and no text preserves it, but scholars of both tongues have reconstructed three of its case endings from the forms its daughters keep:
 
-| Case       | Proto-Elder (reconstructed by scholars in-world) | Sinalë        | Khazári |
-| ---------- | ------------------------------------------------ | ------------- | ------- |
-| accusative | `*-am`                                           | `-n`          | `-am`   |
-| dative     | `*-man`                                          | `-men`/`-mën` | `-an`   |
-| locative   | `*-khom`                                         | `-ho`/`-hë`   | `-um`   |
+| Case       | Proto-Elder | Sinalë        | Khazári |
+| ---------- | ----------- | ------------- | ------- |
+| accusative | `*-am`      | `-n`          | `-am`   |
+| dative     | `*-man`     | `-men`/`-mën` | `-an`   |
+| locative   | `*-khom`    | `-ho`/`-hë`   | `-um`   |
 
 Each daughter shows its own sound changes. Sinalë turned a final _m_ into _n_ and the back scrape _kh_ into _h_, having no _kh_ of its own; Khazári lost an _m_ or a _kh_ standing before the vowel of a suffix. Scholars debate whether the Elder Races deliberately drove their languages apart or whether geography and craft pulled them.
 
