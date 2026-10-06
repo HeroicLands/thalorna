@@ -1,6 +1,6 @@
 ---
 shortcode: vrgskhrmdkn
-name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: []}
+name: {full: Vīrāngashikharam Dukshana, given: Vīrāngashikharam, clan: Dukshana, aliases: [Vīru]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: "687.34"
-  height: 1.83
-  weight: 73.9
+  height: 6'
+  weight: 163 lbs
   frame: medium
   appearance:
     eye_color: hazel
@@ -467,7 +467,7 @@ Vīrāngashikharam is driven by a fundamental belief that leadership carries wit
 The Vedyara Farmers' Collective
 : A loose association of agricultural workers who view Vīrāngashikharam as their advocate within the nobility, having improved working conditions and payment structures across the entire region.
 
-Merchant Lord Tâvâros
+Merchant Lord Tāvāros
 : A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukshana lands and has become a reliable buyer of the finest harvest.
 
 The Council of Progressive City-States
@@ -475,13 +475,13 @@ The Council of Progressive City-States
 
 ### Enemies
 
-Lord Sharvâdhara of the Eastern Reaches
+Lord Sharvādhara of the Eastern Reaches
 : A powerful and conservative noble whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukshana's example. He views Vīrāngashikharam as an existential threat to his way of life.
 
 The Syndicate of Merchant Guilds
 : Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukshana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
 
-Vyâdhar the Silent
+Vyādhar the Silent
 : A former steward of the Dukshana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the manor's prosperity and prove Vīrāngashikharam's methods ultimately unsustainable.
 
 ### Affiliations

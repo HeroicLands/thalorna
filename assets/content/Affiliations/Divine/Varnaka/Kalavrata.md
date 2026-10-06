@@ -54,34 +54,32 @@ sohl: {system: {commonSkills: [kalavrata, sohl-sohl-skill-pysn, sohl-sohl-skill-
 - **Pronunciation:** _KAH-lah-vrah-tah_
 - **Pantheon:** [[affiliation-varakpnthn|Varnaka Pantheon]]
 
-Kālavrata is a solitary god, the warden of the threshold between the life that has ended and the life that is to come. He is revered throughout [[place-vedyarargn|Vedyara Region]], and the veneration is austere. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage. He guides the soul from one body to the next, impartially, and the Vedyaran faithful hold him high for it.
+"Do not bring him an offering, and do not ask him for anything," says the keeper of a village shrine to the young wife who has married into a house that has not yet seen a death in her time there. "Light the lamp when the illness turns. Keep your voice down while it burns. The rest is his." The instruction is close to the whole of the cult. [[lore-kalavratadty|Kālavrata]] is revered throughout [[place-vedyarargn|Vedyara Region]], and the reverence is austere: he grants no personal favor, answers no petition for long life or safe passage, and guides every soul from one body to the next without partiality. The faithful hold him high for exactly that.
 
-[[affiliation-rasikara|Rásikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what happens after. The cremation-fires end the body; his conch calls the soul onward.
+[[affiliation-rasikara|Rāsikara]] is the god of the fire that unmakes the body. Kālavrata is the god of what comes after, and his conch calls the soul onward when the cremation-fires end.
 
-### Aspects
+### What You See at His Shrines
 
-Kālavrata is depicted as a tall, shrouded figure with a dark conch at his lips, standing at a bridge or a threshold. His face is not depicted; the iconographic tradition holds that no living soul may look on it before the hour of its own passage. His color is the indigo-black of deepest night. His presence is still, cool and absolute.
+Kālavratan households keep no elaborate shrine, because the threshold itself is the god's honor. A small dark conch hangs above the doorpost. A lamp is set in the window on the anniversary of each family member's passing.
 
-### Sacred Objects
+Where the god is pictured, he is a tall, shrouded figure standing at a bridge or a threshold with a dark conch at his lips. The face is left blank. No living soul may look on it before the hour of its own passage, and so the painter does not try. His color is the indigo-black of deepest night, and the figure is still, cool and absolute.
 
-- **Black conch**—the deity's signature relic. Temple conches are sounded at the threshold-moments of life: birth, coming-of-age, the final breath.
-- **Threshold lamp**—a small oil lamp kept burning through the night in which a family member is dying, signifying the readiness of the household to release the soul.
-- **Coin of Passage**—a small copper disc placed in the hand of the deceased at cremation; the coin is not an offering to the god but a reminder that every soul stands, at the threshold, with only what it has made of its life.
+Three objects carry the cult. The black conch is the god's signature relic, and temple conches are sounded at the threshold-moments of life: birth, coming-of-age and the final breath. The threshold lamp is a small oil lamp kept burning through the night in which a family member is dying, and it signifies the household's readiness to release the soul. The [[miscgear-coinpassage|Coin of Passage]] is a small copper disc placed in the hand of the deceased at cremation. It is no offering to the god. It reminds the dead that every soul stands at the threshold with only what it has made of its life.
 
-### Divine Servants
+The **Mārgapālas** are the guiding spirits who lead souls along the paths of the afterlife until they reach the gate of rebirth. They have no names, and the faithful pray to them as a kind and never to a particular guide.
 
-- **Mārgapālas**—the guiding spirits, who lead the souls of the dead along the paths of the afterlife until they reach the gate of rebirth. The Mārgapālas are not named; the faithful pray not to particular guides but to the Mārgapālas as a kind.
+### What the Devout Do
 
-### Veneration
-
-Kālavratan households keep no elaborate shrine, and the threshold itself is the god's honor. A small dark conch hangs above the doorpost. A lamp is set in the window on the anniversary of each family member's passing. At the onset of a final illness the household lamp is lit and tended until the passage is complete, and no one of the house speaks loudly or quarrels while it burns. The Coin of Passage is placed in the hand of the dead before cremation, and no part of the burial rites may be hurried.
+At the onset of a final illness the household lamp is lit and tended until the passage is complete, and nobody in the house speaks loudly or quarrels while it burns. The Coin of Passage goes into the dead person's hand before cremation, and no part of the rites that follow may be hurried.
 
 ### Ordeals for Favor
 
-- **The Vigil of Final Breath**—the devotee attends a dying stranger from the moment the Lamp is lit until the Conch has been sounded, without sleeping, without speaking, without flinching.
-- **The Walk Between Fires**—an ordeal in which the devotee walks, at night and alone, between the cremation grounds of three villages, meditating on what is released at each.
-- **The Silent Year**—a year observed in total silence, broken only to speak the rites of passage for the dying.
+- **The Vigil of Final Breath**—the devotee attends a dying stranger from the moment the lamp is lit until the conch has been sounded, without sleeping, without speaking, without flinching.
+- **The Walk Between Fires**—the devotee walks at night and alone between the cremation grounds of three villages, meditating on what is released at each.
+- **The Silent Year**—a year of total silence, broken only to speak the rites of passage for the dying.
 
 ### See Also
 
 - [[affiliation-varakpnthn|Varnaka Pantheon]]
+- [[lore-kalavratadty|Kālavrata]]—the god, and the theology of the threshold
+- [[affiliation-thresholdkeepers|The Threshold-keepers]]—who work the gap between the conch and the pyre, without petitioning him

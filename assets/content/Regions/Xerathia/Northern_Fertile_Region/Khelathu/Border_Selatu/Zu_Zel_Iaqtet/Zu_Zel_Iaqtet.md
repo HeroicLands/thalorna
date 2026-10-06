@@ -17,17 +17,17 @@ data:
 
 ## Overview
 
-Zu-Zel-Iaqtet is the land of the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+**Zu-Zel-Iaqtet** is the land of the [[affiliation-selatzuzlqtt|Selat of Zu-Zel-Iaqtet]], one of the [[affiliation-borderselatu|Border Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
-Zu-Zel-Iaqtet—"the Land of the Eastern Hills"—is the great mining march of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], a rugged border selat where the river-valley gives way to the mineral-rich uplands east of the water. This is where the empire digs its wealth out of the ground: gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone that the monuments of the whole realm are raised from.
+Zu-Zel-Iaqtet, "the **Land of the Eastern Hills**," is where the empire digs its wealth out of the ground. The river-valley gives way here to the mineral-rich uplands east of the water, and out of them come gold and copper from the hill-mines, turquoise and other fine stones from the desert diggings, and the hard building-stone from which the monuments of the whole realm are raised.
 
 ## Character
 
-Zu-Zel-Iaqtet is hard country and hard people. The selat is a landscape of stony hills, dry wadis, and sun-blasted desert tracks, dotted with mine-heads, smelter-towns, quarry-camps, and the small forts that guard them.
+"Stone, dust and the next water-station," an escort sergeant of the desert quarry-roads says, when a clerk new to the east asks what there is to see. The selat is hard country and hard people: stony hills, dry wadis and sun-blasted desert tracks, dotted with mine-heads, smelter-towns, quarry-camps and the small forts that guard them.
 
 ## Economy
 
-Mining and quarrying are the whole of it. The selat's gold and copper feed the empire's coinage, ornament, and bronze; its turquoise and fine stones supply the jewelers and the ceremonial trades; its hard stone is quarried and barged or dragged to the great construction projects across the realm. Around the extractive core the selat grows almost nothing and imports its grain, water-management and all, from the valley; it is a pure producer-selat, valued for what it pulls from the rock and for nothing else.
+Mining and quarrying are the whole of it. The gold and copper feed the empire's coinage, ornament and bronze; the turquoise and fine stones supply the jewelers and the ceremonial trades; the hard stone is quarried and barged or dragged to the great construction projects across the realm. Around that extractive core the selat grows almost nothing and imports its grain, water-management and all, from the valley. It is a pure producer-selat, valued for what it pulls from the rock and for nothing else.
 
 ## Notable Features
 
@@ -39,8 +39,8 @@ Mining and quarrying are the whole of it. The selat's gold and copper feed the e
 
 ## Settlements
 
-- [[place-balqu|Balqu]] (~22,000)—the selat capital, a fortified hill-town at the mouth of the chief mining district; the seat of the soldier-Halzi'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Psaq'âru the smith.
-- **The mine-and-quarry camps:** scattered through the hills and desert are mining settlements, smelter-towns, and quarry-camps of 500–4,000—among them Balia-Zalu (the copper diggings), Melgat (the turquoise camps), Inulu-Ledju (the white-stone quarry), and the convict-station of Kheset—each clustered around its diggings and its guard-fort, supplied by water-caravan from the river.
+- [[place-balqu|Balqu]] (~22,000)—the selat capital, a fortified hill-town at the mouth of the chief mining district: the seat of the soldier-Halzi'a, the assay-house and treasury where the gold is weighed and sealed for the capital, the garrison barracks, and the great temple of Psaq'âru the smith.
+- The mine-and-quarry camps: mining settlements, smelter-towns and quarry-camps of 500–4,000 people lie scattered through the hills and desert, each clustered around its diggings and its guard-fort and supplied by water-caravan from the river. Among them are [[place-baliazalu|Balia-Zalu]] (the copper diggings), [[place-melgat|Melgat]] (the turquoise camps), [[place-inululedju|Inulu-Ledju]] (the white-stone quarry) and the convict-station of **Kheset**.
 
 ## See Also
 

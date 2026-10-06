@@ -153,3 +153,20 @@ test("every field of the lexicon reaches its words", () => {
         assert(c.words >= c.skeletons, `${id} has a word per skeleton`);
     }
 });
+
+test("the vocabulary of rock, caves, the face, listening and writing is present", () => {
+    const planned = { rock: 16, cave: 9, face: 6, listen: 17, letter: 7 };
+    const counts = fieldCounts(lexText);
+    for (const [id, least] of Object.entries(planned)) {
+        const c = counts.get(id);
+        assert(c, `the lexicon declares the \`${id}\` field`);
+        assert(c.skeletons >= least, `\`${id}\` holds ${c.skeletons} skeletons, wants ${least}`);
+        assert(c.words >= c.skeletons * 3, `\`${id}\` builds at least three words per skeleton`);
+    }
+});
+
+test("a fissure is the rock's own line, not a shadow", () => {
+    const lex = lexiconFrom(lexText);
+    const fissure = lex.skeletons.find((s) => s.form === "h-l-gh");
+    assert.equal(fissure?.field, "rock");
+});

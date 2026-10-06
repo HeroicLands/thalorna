@@ -16,8 +16,8 @@ data:
 
 ## Overview
 
-Gar-Anpuqa works the flood-basin of [[place-anlaghztnslt|Anlagh-Zetûn Selat]], one of the scores of villages that share that country between them. It renders grain upward to the selat's stores once the water has done the heaviest part of the farming for it. A basin village's whole year turns on how high and how long the flood stood, which no farmer here can do anything about but plant for.
+**Gar-Anpuqa** works the flood-basin of [[place-anlaghztnslt|Anlagh-Zetûn Selat]], one of the scores of villages that share that country between them. The water does the heaviest part of the farming, and what the village renders to the selat's stores afterward depends on how high the river stood and how long it stayed. "The river decides that," a farmer here tells the tally-man. "We decide where the seed goes." Nobody in Gar-Anpuqa can do more, and nobody pretends otherwise.
 
 ## See Also
 
-TBD.
+- [[place-anlaghztnslt|Anlagh-Zetûn Selat]]—the selat country that holds it

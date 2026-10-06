@@ -8,15 +8,17 @@ tags: [hall, military, inland]
 data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
 ---
 
-The **Academy of the High Draw** is the oldest of the four halls inside [[place-bowfort|the Bow-Fort]] and teaches the great longbow. Its foundation is placed in the dim past by its own account and is not dated by anybody else's. Its graduates serve in infantry-support roles, standing behind a line and shooting over it, which is the oldest use a Vedyari army has for an archer.
+In your first year at the **High Draw** you are handed a bow you cannot yet pull, and you are expected to keep pulling it.
+
+The Academy of the High Draw is the oldest of the four halls inside [[place-bowfort|the Bow-Fort]] and teaches the great longbow. Its foundation is placed in the dim past by its own account and is not dated by anybody else's. Its graduates serve in infantry-support roles, standing behind a line and shooting over it, which is the oldest use a Vedyari army has for an archer.
 
 The hall is a long stone shed open down one side, with the shooting ground beyond it running two hundred paces to the butts under the north wall. It is the only one of the four whose ground is inside the fort.
 
 ## The Draw
 
-The bow the academy is known for is taller than the man who draws it and is drawn to the ear. A student spends his first year on the bow he cannot yet pull, and the academy's reputation for sending a quarter of each intake home inside the year rests largely on that year.
+The bow the academy is known for is taller than the man who draws it and is drawn to the ear. The first year on the bow that will not bend is where the academy's reputation for sending a quarter of each intake home rests.
 
-What a graduate takes away with him, besides the bow, is the academy's mark on the grip and a place in a hiring queue that four kingdoms keep open.
+What a graduate takes away, besides the bow, is the academy's mark on the grip and a place in a hiring queue that four kingdoms keep open.
 
 ## Standing
 

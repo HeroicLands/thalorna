@@ -11,12 +11,15 @@ data:
   parents: [galezkaraslt]
   population: 180
   packFolder: regkhsett
+  government: capitalselat
   banner: khelathubnr
 ---
 
 ## Overview
 
-Gar-Zekhemu is a grain-village of 180 people in the farm-and-market country of [[place-galezkaraslt|Galezkara Selat]], within a half-day's barge of [[place-galezkara|Galezkara]]'s markets. Its harvest helps feed the capital and its temples, and its people render grain, beer, and labour to them.
+"There are two of them," the scribe at the granary door says, pen already lifted, "so tell me which one you came from."
+
+**Gar-Zekhemu** is a grain-village of 180 people in the farm-and-market country of [[place-galezkaraslt|Galezkara Selat]], within a half-day's barge of [[place-galezkara|Galezkara]]'s markets. Its harvest helps feed the capital and its temples, and its people render grain, beer and labor to them.
 
 It shares its name with a distinct [[place-garzekhemu2|Gar-Zekhemu in Anlagh-Zetûn Selat]]. A scribe entering a consignment has to write which Gar-Zekhemu sent it, and the joke of the two has outlasted several generations of scribes.
 

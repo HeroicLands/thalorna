@@ -28,7 +28,7 @@ The dais is one step and no more. A Mahārāja of Chandrapur sits above his cour
 
 The rule against rebuilding the old court is the crown's argument for itself in three dimensions. The Houses rise and fall—a house that loses its trade loses its seat inside a generation—and the crown is the thing in the city that has not moved. The palace makes that claim by standing still while nine quarters rebuild themselves around it.
 
-The temples make a different claim, and make it at an accession: the rites are performed in the old court, by the Purohita, and the man is not king until they are done. The building the crown uses to say it does not change is also the room in which the priesthood says the crown is theirs to give.
+The temples make a different claim, and make it at an accession: the rites are performed in the old court, by the **Purohita** with the [[affiliation-varakpnthn|Varnaka]] ushtakas, and the man is not king until they are done. The building the crown uses to say it does not change is also the room in which the priesthood says the crown is theirs to give.
 
 ## See Also
 

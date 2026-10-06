@@ -18,10 +18,6 @@ data:
   packFolder: malagna
 ---
 
-# Appearance {#appearance}
-
-TBD
-
 # Dossier {#dossier}
 
 A king of the Nordlands, seated at Gnarthborg.

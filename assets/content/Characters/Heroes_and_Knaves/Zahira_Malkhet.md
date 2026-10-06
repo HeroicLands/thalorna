@@ -21,8 +21,8 @@ data:
   gender: female
   species: humanflk
   born: 692.338
-  height: 1.7
-  weight: 68
+  height: 5' 7"
+  weight: 150 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -446,7 +446,7 @@ Zahira has now been engaged for the most dangerous hunt of her life, and by the 
 
 What sets this hunt apart is what Zahira has _not_ been told. Her handlers at the Veil have given her only the shape of the thing—that Rashîra stole secrets that would be catastrophic in the wrong hands—and bound her with one standing order above all others: **she is never to read the stolen papers, and never to let Rashîra speak her case.** The fugitive is a liar, they warn, a silver-tongued clerk who will say anything to save her own neck, and a single conversation could turn a loyal woman. So Zahira's charge is as simple as it is absolute—recover the rolls or destroy them, kill their keeper, and learn nothing of what they contain. She does not know that the order to keep her ignorant is the whole point, nor that the truth written on that purple vellum would damn the very masters who loosed her.
 
-Rashîra did not run for the northern ports as a defector is expected to, but the other way—south, into the [[affiliation-jcklsthmrchs|South Marches]] beyond the matriarchy's frontier, and through them west: her goal is [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands—and into the territory of [[being-yasurajckl|Yâsûra the Jackal]], the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent [[being-casiaveric|Cassia Verric]] works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Khelâthi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
+Rashîra did not run for the northern ports as a defector is expected to, but the other way—south, into the [[affiliation-jcklsthmrchs|South Marches]] beyond the matriarchy's frontier, and through them east: her goal is [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the betrayed patron, the one power with reason and strength enough to act on the proof she carries. So the hunt has carried Zahira south into the lawless drylands—and into the territory of [[being-yasurajckl|Yâsûra the Jackal]], the exiled warlord who blames Zahira for her own ruin and has been paid, through unseen hands, to see the Hound of the Veil dead. Nor is the Veil the only hunter: the Vylarian agent [[being-casiaveric|Cassia Verric]] works the same country, courting Rashîra and closing the roads east, for Vylaria wants the register for itself and fears a Bethûan recovery more than a Khelâthi one. In this tangle Zahira can call on the resources of **Dómissa Othris of [[affiliation-bthntrdhss|House Othris-Khanu]]**, the great maritime House whose own secrets sit among the stolen rolls and who wants them recovered as badly as the Veil does.
 
 ### End Goal
 

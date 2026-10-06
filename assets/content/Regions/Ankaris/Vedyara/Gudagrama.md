@@ -3,7 +3,7 @@ shortcode: gudagrama
 name: {full: Gudagrāma, aliases: []}
 type: place
 subType: settlement
-description: "The sugar village of the Mahānadi floodplain, where the cane is cut and the pale grade is boiled."
+description: "The sugar village of the Mahānadī floodplain, where the cane is cut and the pale grade is boiled."
 tags: [village, river, inland]
 data:
   demonym: null
@@ -14,7 +14,7 @@ data:
   government: rajaprjnpd
 ---
 
-Gudagrāma (890) boils the Mahānadi sugar. The cane grows on the wet ground either side of the village, and the boiling-sheds work from the cutting in the cold season until the last of the crop is through, about eleven weeks.
+Gudagrāma (890) boils the Mahānadī sugar. The cane grows on the wet ground either side of the village, and the boiling-sheds work from the cutting in the cold season until the last of the crop is through, about eleven weeks.
 
 The sugar goes down river in jars of forty pounds, and the jars are thrown here too. What the trade is known for is the pale grade, which takes a second boiling and a slow settling, and which the coastal houses buy at twice the price of the dark. About a fifth of the crop makes that grade in a good year and none of it in a wet one.
 

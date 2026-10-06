@@ -17,26 +17,28 @@ data:
 
 ## Overview
 
-Zebt-Relepet Selat is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
+"Cut it from the left," a natron-cutter at [[place-zebtrelepet|Zebt-Relepet]] tells the new hand beside him, as the crust on the flat breaks into gray plates under their picks. "The embalmers will have it by evening, and the first thing they will ask is whether it is dry."
+
+**Zebt-Relepet Selat** is the land of the [[affiliation-selatzbtrlpt|Selat of Zebt-Relepet]], one of the [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]].
 
 ## Character
 
-Cavern-tombs and natron; a workmanlike mortuary selat. Beyond the capital the selat is the ordinary Khelâthi landscape of villages, estates and temple lands, worked by farmers who owe a share of the harvest and labor on the canals, and lettered by the scribes who are the one reliable ladder out of the fields.
+The land is the river strip with a desert edge that does the mortuary trade's work. Fields and villages lie along the water, and where the flood stops the high desert and chaparral begin, with the natron flats and the cliffs that hold the cavern-tombs. The farms are ordinary [[lore-khelathiclt|Khelâthi]] farms, and the dead are the selat's other crop.
 
 ## Economy
 
-Like every Khelâthi selat it runs on the flood, the harvest and the render—grain to the granaries, labor to the canals and the flood-season works, and a share of everything to the temples and the crown. What it contributes to the empire beyond that is what its character names: cavern-tombs and natron; a workmanlike mortuary selat.
+The selat runs on the flood, the harvest and the render like every Khelâthi selat. What it adds is the mortuary trade in its plain, steady form: cavern-tombs cut into the cliffs and natron dug from the flats for the embalmers, without the pilgrimage that makes [[place-khelzuret|Khelzuret]] famous.
 
 ## Notable Features
 
 - [[place-zebtrelepet|Zebt-Relepet]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-wethur|Faith of Wethûr]] and its estates
-- Cavern-tombs and natron; a workmanlike mortuary selat
+- The cavern-tombs and the natron workings of the mortuary trade
 
 ## Settlements
 
 - [[place-zebtrelepet|Zebt-Relepet]] (~28,000)—the selat capital and the seat of the Halzi'a.
-- **The villages and estate-towns:** the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
+- The villages and estate-towns: the ordinary settlements of the selat, from a few hundred to a few thousand each, clustered on the cultivable ground and the temple estates.
 
 ## See Also
 

@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Kaliharans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---
 
 There are two kinds of Kaliharan and they are not much alike. The Kaliharan of the interior is heir to eighty centuries of continuous custodianship, has probably never met a foreigner, and does not expect to. The Kaliharan of the ports has met a great many, speaks three trade tongues, and has more in common with a factor in Heliónis than with a custodian in a highland sanctuary. Both understand the division and neither resents it: it is, in the Kaliharan view, the cost of keeping an interface with the outside world without letting that world come any further in than it should.
@@ -38,6 +40,10 @@ The ports run on a separate and frankly pragmatic structure, because foreign tra
 The Kaliharan temperament is unhurried to a degree that foreign merchants find maddening and foreign diplomats find impenetrable. A people who measure in cycles, and who have been doing one thing for eighty centuries, do not experience a season's delay as delay.
 
 A Kaliharan of the interior is courteous, watchful and extremely difficult to hurry into a commitment. He answers a direct question accurately and volunteers nothing, and he is not being evasive: he regards unsolicited explanation as a form of presumption, and assumes that anyone who needed to know would already have been told. Reticence about the interior is not policy handed down from a council—it is manners, held so consistently that it functions as policy.
+
+## The Name the House Uses
+
+You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ in her own doorway, and the second name is not yours to use. A long Kalihári given name has a short **household name**, the end of the name from its stressed syllable on, formed by the same rule in every house on the island. Kin say it, and so does anyone raised under that roof. Nobody else does: the full name is the one written in her [[affiliation-tharivaan|sílhari manuals]] and her lineage's records, and the one every council and custodian uses. Use one you overheard and she does not correct you: she gives you her full name back, evenly, and from then on the conversation is very formal. A name of three syllables or fewer has no household name, and you may say it as freely as anyone. The [[skill-kalihrlng|Kalihári]] language note sets out how the short name is formed.
 
 ## The Ports
 

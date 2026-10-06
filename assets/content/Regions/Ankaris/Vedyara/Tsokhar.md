@@ -23,7 +23,7 @@ By the standards of [[place-oskhelt|Öskhelt]] it is poor. Two caravans a year c
 
 The lineages of Tsökhar hold the sixth road. That is the village's real position, and it is not spoken of in the village any more than anywhere else. A settlement of three hundred and eighty herders is visited, in most years, by at least one person who has come a very long way and will not say from where.
 
-The money that arrives by this route is not spent here. It buys winter grain, salt and iron carried up out of the marches by drovers who are paid in coin and asked nothing. A stranger who noticed how much iron a poor village was buying would be the first in four hundred years to make anything of it.
+The money that arrives by this route is not spent here. It buys winter grain, salt and iron carried up out of the marches by drovers who are paid in coin and asked nothing. The iron is the odd item: nobody has made anything of how much of it a poor village buys.
 
 ## The Watch
 

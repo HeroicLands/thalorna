@@ -1,6 +1,6 @@
 ---
 shortcode: svapnadevasdty
-name: {full: Svapnadēvas, aliases: []}
+name: {full: Svapnadevas, aliases: []}
 type: lore
 subType: deity
 description: "The Dreaming Host of the Varnaka pantheon—a celestial host of dreams honored at the edges of the day, with no priesthood of its own."
@@ -10,7 +10,7 @@ data: {packFolder: deitiesvarnaka}
 
 _The Dreaming Host—slender, silver-robed figures moving together in a gentle dance, half-lit by moonlight._
 
-The Svapnadēvas are a celestial court, a host of spirits who weave dreams, carry omens and stand between the mortal mind and the divine order.
+The Svapnadevas are a celestial court, a host of spirits who weave dreams, carry omens and stand between the mortal mind and the divine order.
 
 The Varnaka hold them servants of [[lore-goddreams|The God of Dreams]], the elder deity known under many names elsewhere in [[place-ankrscntnnt|Ankaris Continent]]. They do not name that greater deity directly and do not venerate it as the organized pantheons of the west venerate theirs. What is revered is the Host, the vessel through which the elder god's dream-power reaches the world. Seers, mystics and healers of disturbed minds are its particular devotees.
 

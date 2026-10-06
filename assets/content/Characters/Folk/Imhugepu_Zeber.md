@@ -1,6 +1,6 @@
 ---
 shortcode: imhugepuzebr
-name: {full: Imhûgepu Zeber, aliases: []}
+name: {full: Imhûgepu Zeber, aliases: [Imhû]}
 type: being
 subType: npc
 description: "Ritualist and warrior of the Zeghet'Nelgu, keeper of the old rites"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "680.266"
   died: null
-  height: 1.66
-  weight: 61
+  height: 5' 5"
+  weight: 134 lbs
   frame: light
   appearance:
     eye_color: brown

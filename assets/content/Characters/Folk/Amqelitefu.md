@@ -1,6 +1,6 @@
 ---
 shortcode: amqelitefu2
-name: {full: Amqelitefu, aliases: []}
+name: {full: Amqelitefu, aliases: [Amqê]}
 type: being
 subType: npc
 description: "A kitchen servant who takes outside work reordering the households of other noble families, and resents the steward who will not promote her"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "679.305"
   died: null
-  height: 1.64
-  weight: 54
+  height: 5' 5"
+  weight: 119 lbs
   frame: light
   appearance:
     eye_color: dark_brown

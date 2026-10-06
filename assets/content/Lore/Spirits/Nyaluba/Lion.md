@@ -26,5 +26,4 @@ Prohibitions it is understood to enforce upon the Mvuzi: not to hunt lions, not 
 flesh, not to take by ambush what could be taken by open challenge, and not to abandon a herd
 under threat.
 
-TBD—the accounts of its witness at the Pact-baobab, which the Mvuzi and Bombwe griots tell
-differently.
+The Mvuzi and Bombwe griots tell differently what the lion-guide witnessed at the Pact-baobab.

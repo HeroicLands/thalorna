@@ -13,7 +13,7 @@ data:
   packFolder: aelwyth
 ---
 
-**Coldbeck** stands on the fastest water in the valleys and uses all of it. Three hundred and thirty
+**Coldbeck** stands on the fastest water in the valleys and uses all of it. Five hundred
 people, four mills—two grinding, one fulling, one driving a set of trip-hammers that
 [[place-vellick|Vellick]] built and Coldbeck maintains.
 

@@ -18,8 +18,8 @@ data:
   gender: male
   species: humanflk
   born: "672.260"
-  height: 1.78
-  weight: 66.7
+  height: 5' 10"
+  weight: 147 lbs
   frame: heavy
   appearance:
     eye_color: hazel
@@ -425,7 +425,7 @@ Thotkar stands 5'10" tall with a heavy build. He has tawny skin, graying black h
 
 ### The Scholar's Path
 
-Born in 676 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant Aqenhophis, a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 676 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhophis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 
@@ -490,7 +490,7 @@ The Widow Zabuia
 Lord Magistrate Qelti
 : The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Qelti consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
-Master Scribe Zeshelegezu
+Master Scribe [[being-zeshelegezu2|Zeshelegezu]]
 : A former rival who has come to respect Thotkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
 
 ### Enemies
@@ -516,7 +516,7 @@ Litigant's Guild
 
 1. **The Case of Impossible Innocence**: A young person convicted of murder through what appears to be airtight legal procedure approaches Thotkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Thotkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Thotkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Thotkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
 
-2. **The Scholar's Rival**: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhophis, thought dead for over a decade. Aqenhophis is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
+2. **The Scholar's Rival**: Another litigant arrives in the city—Thotkar's former mentor, the famed Master Aqenhophis, thought dead for over a decade. Aqê is now elderly and infirm, and he approaches Thotkar with a startling revelation: he has discovered that virtually his entire life's work has been subtly orchestrated by a powerful shadow organization using law as a vehicle for their own political purposes. He suspects Thotkar's practice may be similarly manipulated without his knowledge. Together they begin investigating, and the trail leads into shadowy politics involving multiple realms and suggests that some of Thotkar's greatest victories may have served the interests of those he would oppose if he knew. The revelation threatens to undermine his faith in his own judgment and his fundamental belief in the possibility of justice.
 
 3. **The Contract with Consequences**: A desperate client—a woman whose daughter has been enslaved through legal machinery—approaches Thotkar with an extraordinary proposal: she has discovered a loophole in the legal code that would free her daughter, but it requires Thotkar to argue for an interpretation that would destabilize significant commercial practices and provoke violent opposition from wealthy merchants. The client is willing to pay an enormous fee and can provide evidence that her daughter's enslavement was technically illegal. Yet Thotkar recognizes that winning this case would likely trigger legal backlash and potentially create precedents that could be weaponized against those he typically represents.
 

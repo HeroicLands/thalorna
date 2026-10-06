@@ -18,8 +18,8 @@ data:
   gender: male
   species: humanflk
   born: "670.34"
-  height: 1.83
-  weight: 83.9
+  height: 6'
+  weight: 185 lbs
   frame: heavy
   appearance:
     eye_color: brown
@@ -495,7 +495,7 @@ Karûsh
 Lord Varkûn
 : The regional noble who hired the Iron Wolves to massacre the village still rules the region. Kyriákos fears that if his identity were known, Varkûn might move against him or the village he's come to protect.
 
-His Own Conscience
+His own conscience, an inner enemy
 : More than any external enemy, Kyriákos battles himself—his guilt, his memories, his conviction that he deserves punishment for what he has done.
 
 ### Affiliations

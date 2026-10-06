@@ -1,6 +1,6 @@
 ---
 shortcode: zabeglegezu2
-name: {full: Zâbeglegezu, aliases: []}
+name: {full: Zâbeglegezu, aliases: [Zâbê]}
 type: being
 subType: npc
 description: "A lord who has employed the same household for over a decade and grants stable, respectful service in return for exacting standards"
@@ -18,8 +18,8 @@ data:
   species: humanflk
   born: "683.071"
   died: null
-  height: 1.78
-  weight: 75
+  height: 5' 10"
+  weight: 165 lbs
   frame: medium
   appearance:
     eye_color: dark_brown
