@@ -719,14 +719,17 @@ export function shape(written, rule) {
 
 /** A form worn by the wearing table; a form not opening on a radical is returned as it is. */
 export function worn(form, rule) {
-    for (const [radical, soft] of rule.wearing)
-        if (form.startsWith(radical)) return soft + form.slice(radical.length);
-    return form;
+    const [first] = sounds(form, rule);
+    const soft = rule.wearing.get(first);
+    return soft === undefined ? form : soft + form.slice(first.length);
 }
 
-/** Whether a word opens on a radical the wearing table moves. */
+/**
+ * Whether a word opens on a radical the wearing table moves. The opening sound
+ * is read with digraphs whole, so a word opening on _th_ does not open on _t_.
+ */
 export function opensOnRadical(word, rule) {
-    return [...rule.wearing.keys()].some((radical) => word.startsWith(radical));
+    return rule.wearing.has(sounds(word, rule)[0]);
 }
 
 /** An affix's form for a harmony, and the form it would wrongly take. */

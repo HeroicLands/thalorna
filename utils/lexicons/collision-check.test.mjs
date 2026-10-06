@@ -71,12 +71,29 @@ test("a one-edit near match is a review note at five letters and not at four", (
 
 test("near matches alone leave the exit status at 0", () => {
     const near = path.join(dir, "near.md");
-    fs.writeFileSync(near, "| `zorvakan` | n |\n| `belma` | n |\n| `quiet` | n |\n");
+    fs.writeFileSync(
+        near,
+        "| form | class |\n| --- | --- |\n| `zorvakan` | n |\n| `belma` | n |\n| `quiet` | n |\n",
+    );
     const { status, err, out } = run(["--wordlists", lists, near]);
     assert.equal(status, 0);
     assert.equal(err.length, 2);
     assert(err.every((line) => /: note: /.test(line)));
     assert(/0 findings, 2 near matches for review/.test(out.join("\n")));
+});
+
+test("a table of class or tongue labels is not compared", () => {
+    const labels = path.join(dir, "labels.md");
+    fs.writeFileSync(
+        labels,
+        "| Class | Meaning |\n| --- | --- |\n| `belmo` | a label |\n\n| Tongue | Meaning |\n| --- | --- |\n| `zorvakin` | a label |\n\n| Form | Gloss |\n| --- | --- |\n| `belmo` | a word |\n",
+    );
+    const { status, err } = run(["--wordlists", lists, labels]);
+    assert.equal(status, 1);
+    assert.deepEqual(
+        err.map((line) => line.replace(/^.*?:(\d+):.*$/, "$1")),
+        ["11"],
+    );
 });
 
 test("skeleton mode matches a skeleton against a root", () => {

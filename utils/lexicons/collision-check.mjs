@@ -33,7 +33,9 @@
  * Only first-column cells that are words are compared: a form needs at least
  * three letters after normalization, so single letters, digraphs in phonology
  * tables, suffix stubs, punctuation and numbers are skipped. A skeleton is
- * exempt from the length floor because its radicals are the letters.
+ * exempt from the length floor because its radicals are the letters. A table
+ * whose first header cell is `Class` or `Tongue` lists a lexicon's labels for
+ * word classes and name tongues, not words, and is skipped.
  *
  * Findings: a form matching a list entry exactly after normalization. A
  * skeleton (three radicals joined by hyphens, each radical one letter or one of
@@ -101,6 +103,8 @@ const MIN_FORM_LENGTH = 3;
 const DEFAULT_SKELETON_LISTS = ["khuzdul", "akkadian"];
 const RADICAL = "(?:th|kh|gh|sh|zh|dh|ch|ph|\\p{L})";
 const SKELETON_SHAPE = new RegExp(`^${RADICAL}(?:-${RADICAL}){2}$`, "iu");
+/** First header cells of tables that hold labels, not words: a lexicon's word classes and name tongues. */
+const LABEL_HEADERS = new Set(["class", "tongue"]);
 
 /**
  * Forms in the first column of every markdown table row of a note.
@@ -110,7 +114,17 @@ const SKELETON_SHAPE = new RegExp(`^${RADICAL}(?:-${RADICAL}){2}$`, "iu");
  */
 export function extractForms(text, forceSkeleton = false) {
     const rows = [];
+    let header = null;
     text.split("\n").forEach((raw, index) => {
+        if (!/^\s*\|/.test(raw)) {
+            header = null;
+            return;
+        }
+        if (header === null) {
+            header = raw.split("|")[1]?.trim().toLowerCase() ?? "";
+            return;
+        }
+        if (LABEL_HEADERS.has(header)) return;
         const match = /^\s*\|\s*`([^`]+)`/.exec(raw);
         if (!match) return;
         const form = match[1];
