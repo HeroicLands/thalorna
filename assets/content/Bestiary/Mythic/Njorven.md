@@ -18,8 +18,6 @@ data:
   species: null
   age: null
   born: "unknown"
-  height: null
-  weight: null
   frame: null
   appearance:
     eye_color: null

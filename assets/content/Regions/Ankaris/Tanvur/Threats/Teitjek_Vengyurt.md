@@ -20,8 +20,6 @@ data:
   species: humanflk
   age: null
   born: "unknown"
-  height: null
-  weight: null
   frame: null
   appearance:
     eye_color: null

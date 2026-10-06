@@ -17,8 +17,8 @@ data:
   gender: male
   species: humanflk
   born: 698.353
-  height: 1.75
-  weight: 60
+  height: 5' 9"
+  weight: 132 lbs
   frame: light
   appearance:
     eye_color: amber
