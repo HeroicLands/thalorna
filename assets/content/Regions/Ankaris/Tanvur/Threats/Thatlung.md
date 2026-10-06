@@ -18,7 +18,7 @@ What makes the Thātlüng particularly dangerous is their resilience. Only the f
 
 ### The Aftermath of the Earthquake
 
-The earthquake, which has come to be known as the **Kōtjür Tūrhürn** ("The Millennial Earthshatter"), has devastated the northwest territories. Khazárian strongholds have collapsed, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.
+The earthquake, which has come to be known as the **Kōtjür Tūrhürn** ("The Millennial Earthshatter"), has devastated the northwest territories. cliffs that held Khazári cities have come down, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.
 
 ### The Threat Beyond the Mountains
 
