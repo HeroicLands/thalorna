@@ -19,11 +19,11 @@ Good is accord with the mountain: work that follows the grain, opens what the ro
 
 Listening is not passivity. Knowing what a face of limestone will bear, where a granite will part cleanly and where a slate will flake takes deep knowledge, long patience and real skill, and a Khazár who waits without understanding is no better than one who strikes without understanding. The word for patience, _pazal_, is a word of the workshop before it is a word of temperament.
 
-A clumsy cut is therefore a serious matter. It is entered in the record of the work, it is answered by the person who made it, and it stays in the stone after everyone who saw it made is dead.
+A clumsy cut, a _gharp_, is therefore a serious matter. It is entered in the record of the work, it is answered by the person who made it, and it stays in the stone after everyone who saw it made is dead.
 
 ## The Light Hand
 
-A master is judged by how little she had to cut. The finest Khazári work is barely noticeable as work at all: a stair the rock nearly held, finished; a passage widened along a joint until it admits a laden carrier; a hall whose pillars are the columns the rock left standing. Praise goes to the economy of a solution, never to its size.
+A master is judged by how little she had to cut, and restraint, _khasp_, is the virtue the workshops prize above skill. The finest Khazári work, a _khispath_, is barely noticeable as work at all: a stair the rock nearly held, finished; a passage widened along a joint until it admits a laden carrier; a hall whose pillars are the columns the rock left standing. Praise goes to the economy of a solution, never to its size.
 
 Social success follows from that. A Khazár who is trusted with the first cut of a new passage, whose name is read in the craft-records beside work no apprentice could have done, and who is asked to look at another house's problem has succeeded. Failure is the reverse: a name attached to scars, to props, to rubble that had to be carried away because nobody listened first. Wealth matters less than either. Khazári gold is of extraordinary purity, and nobody inside a hold is admired for holding it.
 
@@ -35,9 +35,9 @@ They hold display, haste and waste in contempt. A thing made to be looked at fro
 
 ## A City Found in the Cliff
 
-A hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them in their own way, and a settlement takes the form of the caves its mountain already has. Large karst caverns in limestone become halls, shrines, cisterns and storehouses. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. Founding a hold means finding its cave.
+A hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them in their own way, and a settlement takes the form of the caves its mountain already has. Large karst caverns in limestone become halls, shrines, cisterns and storehouses. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. Founding a hold means finding its cave, and a _fakar_, a cave newly found, is the first thing any hold has.
 
-The Khazári disdain a straight line. Tunnels wind because they follow the rock's contours along joints, bedding planes, faults and overhangs, and a straight cut reads to them as proof that the stone was forced. Their curves are not the exact, deliberate curves of the [[lore-theithari|Ithári]]. A Khazári curve is irregular, because it is the rock's line and not the maker's.
+The Khazári disdain a straight line. Tunnels wind because they follow the rock's contours along joints, bedding planes, faults and overhangs, and a straight cut reads to them as proof that the stone was forced. The true line, _varn_, is the line the rock runs. Their curves are not the exact, deliberate curves of the [[lore-theithari|Ithári]]. A Khazári curve is irregular, because it is the rock's line and not the maker's.
 
 No two holds are alike, because no two mountains are, and none is laid out on a grid. Most homes are shallow, set into the cliff face rather than deep in the mountain, and nearly every one has an outer face with openings for air and daylight, shaped to follow the rock's natural lines so that they never jar the eye. Passages run inside the rock, linking homes, workshops and common rooms, so no road or worn path scars the face.
 
@@ -57,7 +57,7 @@ The aim is harmony, not invisibility, and a hold makes no extreme effort to hide
 
 Depth carries weight. The deeper a space lies, the older, holier or more serious its purpose: shrines, tombs, mine workings, the _hukhard_ that is a hold's inmost hall, and the refuge all lie deep, and they are used less in daily life than the rooms near the light.
 
-Every hold keeps a **refuge** deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defence is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
+Every hold keeps a **refuge**, a _famgadurákh_, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defence is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
 
 Ordinary life happens near the light, in the shallow homes and the courts between them. People go down into the mountain for funerals, festivals, oaths and worship, and in times of war or catastrophe. A Khazár who is asked to come down is being told that something serious is about to happen.
 
@@ -71,11 +71,11 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 Mining is central to Khazári life and is not in tension with the listening ethic. Ore and minerals are necessary and desirable, and freeing them from the stone is honourable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports. A mine that needs propping shows that the miners did not listen, and a prop is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a _narvavutám_, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
-Apprenticeship begins with listening. An apprentice spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year.
+Apprenticeship begins with listening, _samgh_. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little".
 
 The ladder of a life follows the same order:
 
@@ -94,7 +94,7 @@ What makes him admired rather than merely skilled is restraint under pressure. W
 
 ## The Finder Admired
 
-The admired Khazári woman is a finder: the one who reads a mountain from outside and says where its caves run, where its water moves and which face will take a home. A hold's founding is the finding of its cave, so a finder's judgement is what every later generation lives inside. She knows limestone and its hollows, granite and its joints, where a spring will come through and where a cliff will shed in frost.
+The admired Khazári woman is a finder, a _fakarir_: the one who reads a mountain from outside and says where its caves run, where its water moves and which face will take a home. A hold's founding is the finding of its cave, so a finder's judgement is what every later generation lives inside. She knows limestone and its hollows, granite and its joints, where a spring will come through and where a cliff will shed in frost.
 
 Her standing does not borrow from anyone else's. Khazári women carry beards as men do, hold the same crafts, and are named from the same skeletons, and the senior craft of a hold descends through sisters as readily as through brothers. A finder is honoured because a hold is only as sound as the cave it was given.
 
@@ -102,7 +102,7 @@ Her standing does not borrow from anyone else's. Khazári women carry beards as 
 
 The [[skill-khazarlng|Khazári]] tongue has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[doc-khazarilex|Khazári Lexicon]] holds the words.
 
-[[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath** is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath** is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
+[[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath**, _dalkapuráz_, is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath**, _milgath_, is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
 
 The Khazári keep no single founding scripture. Their artifacts are records and objects:
 
@@ -116,7 +116,7 @@ The Khazári keep no single founding scripture. Their artifacts are records and 
 
 The god of the Khazári is [[lore-goddreams|Luváth]], the light that endures in deep places and the wisdom found in patient craft. Shaping stone and metal with skill and patience is itself a form of prayer, and an ordinary Khazár prays chiefly by working well. Listening before a cut is the commonest act of devotion in a hold, and it is performed every working day.
 
-Formal worship is done below. Each hold keeps its shrines, _huzafal_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazári go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
+Formal worship is done below. Each hold keeps its shrines, _huzafal_, and its deepest sanctuary, the _famgafudhán_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazári go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
 
 ## The Year Going Down
 
