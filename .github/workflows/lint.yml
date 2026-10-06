@@ -60,6 +60,11 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@v7
+              with:
+                  # The utility tests read pinned revisions with `git show`
+                  # (the concordance test cites a file at a fixed commit), so
+                  # the job needs the history a shallow checkout leaves out.
+                  fetch-depth: 0
 
             - name: Setup Node
               uses: actions/setup-node@v7
