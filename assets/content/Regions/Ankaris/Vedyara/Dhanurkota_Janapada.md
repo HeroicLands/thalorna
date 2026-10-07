@@ -152,7 +152,7 @@ Within the [[affiliation-janpdsvdyr|Mahā-Sangha]], Dhanurkota's standing is hig
 
 ## Commerce and Currency
 
-Dhanurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], and the bow trade and the academies' retainers run through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters as readily as through coin. Like every janapada it strikes only its own copper [[miscgear-tamra|tāmra]], good at face within its borders. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Dhanurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], and the bow trade and the academies' retainers run through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters as readily as through coin. Like every janapada it strikes no coin of its own. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

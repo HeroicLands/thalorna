@@ -181,7 +181,7 @@ The janapada has not been seriously threatened in living memory. The last armed 
 
 ## Commerce and Currency
 
-Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhā has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that the [[affiliation-mrchntclctvvdyr|Merchant Collective]] runs. Like every janapada it strikes only its own copper [[miscgear-tamra|tāmra]], good at face within the janapada; its river traders deal in the silver chandra the [[place-moonhouse|Moon House]] strikes at Chandrapur, and the copper that comes up the river with them is taken by weight. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhā has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that the [[affiliation-mrchntclctvvdyr|Merchant Collective]] runs. Like every janapada it strikes no coin of its own; its river traders deal in the silver chandra the [[place-moonhouse|Moon House]] strikes at Chandrapur and in whatever copper comes up the river. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 

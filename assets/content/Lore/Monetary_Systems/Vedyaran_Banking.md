@@ -3,7 +3,7 @@ shortcode: vdyrnbnkng
 name: {full: Vedyaran Banking, aliases: [Vedyaran Currency, Vedyaran Monetary System]}
 type: lore
 subType: economy
-description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chandrapur's gold suvarna and silver chandra, which carry their metal, and the copper tāmra every treasury strikes as token money."
+description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chandrapur's gold suvarna and silver chandra, which carry their metal, and the copper tāmra the kingdoms and city-states strike as token money."
 tags: [reference, currency, vedyara, economy]
 ---
 
@@ -15,7 +15,7 @@ The Vedyaran banking system is the money and credit the Collective runs across t
 
 - **Paper.** The Collective is the principal banking institution of Vedyaran commerce as well as the federation of its great hereditary trading families, the _kulinas_. Its letter of credit sits above the coined system: a house that trusts another house's paper moves value between janapadas and city-states without moving coin at all.
 - **The five seats.** [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]], [[affiliation-vindhyalay|Shikharālaya]] through its capital, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]] share the system, and the Collective's standing above any one realm gives the banking infrastructure the whole subcontinent for its range. [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its own weighing and its own treasury and holds no seat.
-- **Who strikes coin.** Chandrapur alone strikes the gold and the silver. Every treasury in Vedyara strikes its own copper—each janapada's, each kingdom's and each city-state's—and anything above a day's wages runs on Chandrapur's coin and the Collective's paper.
+- **Who strikes coin.** Kingdoms and city-states strike coin and the janapadas do not. Chandrapur alone strikes the gold and the silver, and every kingdom and city-state strikes its own copper. A janapada's commerce runs on the tāmra of its neighbors' markets and on Chandrapur's silver, cleared through the Collective and not minted locally.
 
 ## The Three Coins
 
@@ -25,9 +25,9 @@ The clerk draws the table on a slate and has the factor copy it before saying an
 | ----------------------------- | ------ | ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
 | [[miscgear-suvarna\|Suvarna]] | Gold   | [[affiliation-chandrapur\|Chandrapur]], from Suvarnagiri gold bought at the **Weighing**                                | Land, dowries, tribute, the largest commercial settlements | 16 chandra |
 | [[miscgear-candra\|Chandra]]  | Silver | The [[place-moonhouse                                                                    \| Moon House]], at Chandrapur | Ordinary formal commerce—contracts, tolls, rents           | 8 tāmra    |
-| [[miscgear-tamra\|Tāmra]]     | Copper | Every janapada, kingdom and city-state, each for itself                                                                 | Everyday trade—bread, wages, market change                 | 1 tāmra    |
+| [[miscgear-tamra\|Tāmra]]     | Copper | Every kingdom and city-state, independently                                                                             | Everyday trade—bread, wages, market change                 | 1 tāmra    |
 
-A suvarna is therefore worth 128 tāmra. The suvarna and the chandra carry their metal, so either is assayed and exchanged for its gold or silver wherever it goes, and the metal comes to its face: by its metal a suvarna is four-fifths of a Vylarian Aurion and a chandra eight Argentus. The tāmra does not leave the janapada or the realm that struck it at face value. A Dhanurkota tāmra pays Dhanurkota's taxes and temple offerings and is redeemed at Dhanurkota's treasury; in Rājapur it is a scrap of copper.
+A suvarna is therefore worth 128 tāmra. The suvarna and the chandra carry their metal, so either is assayed and exchanged for its gold or silver wherever it goes, and the metal comes to its face: by its metal a suvarna is four-fifths of a Vylarian Aurion and a chandra eight Argentus. The tāmra does not leave the realm that struck it at face value. A Shikharālaya tāmra pays Shikharālaya's taxes and temple offerings and is redeemed at Shikharālaya's treasury; in Chandrapur it is a scrap of copper.
 
 ## Exchange With What the Coin Actually Meets
 
