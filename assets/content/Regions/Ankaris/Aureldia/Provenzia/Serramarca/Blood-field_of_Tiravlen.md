@@ -20,7 +20,9 @@ move out across the lake in ranks, and sound carries off the surface with the pa
 water gives it—orders, horses, the noise of a line breaking—all of it perfectly audible from
 villages a mile off and never from anywhere close enough to see.
 
-Nobody is harmed. Nothing has ever come ashore.
+Nothing has ever come ashore. The harm is a lesser field's harm, done at night and to the mind: a
+household that keeps watch over the water on those nights sleeps badly for weeks, and the lakeside
+villages remember people who watched too often and never came back to themselves.
 
 ## The Observance
 

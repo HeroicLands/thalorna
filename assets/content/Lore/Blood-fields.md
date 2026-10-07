@@ -16,12 +16,12 @@ This note sets out what the peoples of Thalorna agree a blood-field is, how they
 
 An [[lore-aralwen|arálwen]] is a natural thinness, old beyond reckoning, where the two worlds lie close enough to cross. A blood-field is an injury. It is made at a moment that can be dated, it takes its character from the battle that made it, and nobody keeps it the way the [[affiliation-alndnwrdns|Áelendan Wardens]] keep the arálwain.
 
-|              | Arálwen                                | Blood-field                                                                  |
-| ------------ | -------------------------------------- | ---------------------------------------------------------------------------- |
-| Origin       | Natural, and older than any record     | Made by slaughter, at a moment that can be dated                             |
-| Character    | Takes its nature from the land—a _way_ | Takes its nature from the battle                                             |
-| What crosses | Things pass both ways                  | The dead and the hunters of the dead come out; nothing living goes in bodily |
-| Who keeps it | The Áelendan Wardens and long custom   | Nobody by office                                                             |
+|              | Arálwen                                  | Blood-field                                                                  |
+| ------------ | ---------------------------------------- | ---------------------------------------------------------------------------- |
+| Origin       | Natural, and older than any record       | Made by slaughter, at a moment that can be dated                             |
+| Character    | Takes its nature from the land—a passage | Takes its nature from the battle                                             |
+| What crosses | Things pass both ways                    | The dead and the hunters of the dead come out; nothing living goes in bodily |
+| Who keeps it | The Áelendan Wardens and long custom     | Nobody by office                                                             |
 
 ## What Makes One
 
@@ -69,7 +69,7 @@ From the field's side, two kinds of thing come through.
 
 **The hunters.** The predator spirits gather where unreceived souls are, and a blood-field is a place where they never stop being. On a thin field some of them cross into this world in a semi-material form, and in that form they can act on it: they are seen close to, they take hold, they attack, and they kill. This is the reason a thin field is called cursed. A body found at the edge of one in the morning is a thing every such district has seen.
 
-**Nothing living crosses bodily the other way.** A traveler on a blood-field never walks into the spirit realm, however thin the field. That is the plainest difference between a blood-field and an arálwen, which is a _way_ and goes somewhere: a boat that follows a second bank seen on a blood-field comes back to the same reach at dawn.
+**Nothing living crosses bodily the other way.** A traveler on a blood-field never walks into the spirit realm, however thin the field. That is the plainest difference between a blood-field and an arálwen, which is a passage and goes somewhere: a boat that follows a second bank seen on a blood-field comes back to the same reach at dawn.
 
 ## Who Keeps One
 
