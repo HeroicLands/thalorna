@@ -12,7 +12,7 @@ data: {packFolder: settinglore}
 
 - **Common Names:** The Deep Folk, the Stone-Wrights, the Under-Kin, the Forge-Born
 - **Self-Name:** Khazári (singular: _Khazár_; adjective: _Khazárian_)
-- **Origins:** Unknown; arrived on Thalorna from an undisclosed prior realm roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinalë]]—in a period when most human populations were still hunter-gatherers
+- **Origins:** Humadhan, "the middle place", a realm they seldom speak of; arrived on Thalorna roughly six millennia ago (~5300 BF), about two thousand years after the [[lore-flksinale|Sinalë]]—in a period when most human populations were still hunter-gatherers
 - **Population:** Vanishingly rare (<0.01% of world population). Most humans have never seen one.
 - **Enclaves:** Scattered throughout Thalorna, invariably in mountain fastnesses, in the cliff faces and the cave systems behind them, far from human settlement
 
@@ -32,7 +32,7 @@ Their magic, like the Sinalë's, bears no resemblance to the [[affiliation-ordoa
 
 Like the Sinalë, the Khazári keep their own history and do not share it with humans. What fragments have reached human knowledge come from the oldest oral traditions of mountain peoples and from the rare, cryptic encounters between Khazárian individuals and human scholars.
 
-The Khazári came after the Sinalë—the Second People, as some traditions call them. Like the Sinalë, they arrived on Thalorna from a prior realm whose nature they do not disclose; whether it was the same realm the Sinalë came from, or a different one, neither people will say. How long after the Sinalë they followed is also uncertain, though the oldest mountain traditions place the gap at roughly two thousand years. The Khazári do not discuss their origins with outsiders, and the Sinalë will not speak of the Khazári at all. What is clear is that for a time—an age, an era, a period that human chronology cannot measure—the two elder races coexisted. More than coexisted: they worked together.
+The Khazári came after the Sinalë—the Second People, as some traditions call them. They arrived on Thalorna from Humadhan, "the middle place", a realm they seldom speak of; their tales tell of a war there between the powers of good and evil, of rings that warp the mind and the soul, and of seven clans who fled with their god. How long after the Sinalë they followed is also uncertain, though the oldest mountain traditions place the gap at roughly two thousand years. The Khazári seldom discuss their origins with outsiders, and the Sinalë will not speak of the Khazári at all. What is clear is that for a time—an age, an era, a period that human chronology cannot measure—the two elder races coexisted. More than coexisted: they worked together.
 
 The fragments that survive describe a golden age of collaboration. The Sinalë, with their affinity for the living world and the intangible, and the Khazári, with their mastery of stone and metal and the enduring, created together what neither could have created alone. Structures that blended living wood with shaped stone. Artifacts that married Sinalëan enchantment with Khazárian craft. A shared civilization—or at least a shared accord—that spanned much of Thalorna under what some traditions call the Old Compact.
 
@@ -45,7 +45,9 @@ They did not withdraw cleanly. Before the retreat there were centuries in which 
 ## The Seven Clans
 
 The Khazári who came to Thalorna came as **seven clans**, and the number has never lost its significance
-to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
+to them. The seven are Summágh, Dullák, Rummák, Gullád, Vurrán, Gurráz and Lummáv, each named for the
+master craft it holds, and the tale of their flight from Humadhan is told in
+[[lore-khazararrv|The Coming of the Khazári]]. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
 [[lore-khazarturn|Khazártúrn]] was built for all seven together—seven spurs the cliff of a mountain
