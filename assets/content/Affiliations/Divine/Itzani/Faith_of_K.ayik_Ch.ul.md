@@ -53,7 +53,7 @@ data:
       - level: 8
         title: Presiding K'ul Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Ch'ayik: >-
         Keeper of the fire-keepers—head of the branch, and the priest who must find the expiation if an eternal flame goes out.
@@ -65,10 +65,10 @@ data:
         Fixes the hour at which each flame is fed, since the timing is prayer conducted through material action and an early feeding is a fault.
       Keeper of the Ash: >-
         Gathers and grades the ash—the most sacred substance the branch handles—and issues it to healers and to the painters of sacred pigment.
-      Master of the New Fire: >-
+      Master of the Living Flame: >-
         Holds the obsidian mirrors and polished jade with which the sun's rays are drawn into tinder at the fifty-two-year ceremony.
       Kindler: >-
-        Runs the sacred fire from the pyramid to the hearths of the city when the New Fire catches; the runners are chosen a year in advance.
+        Runs the sacred fire from the pyramid to the hearths of the city when the new flame catches; the runners are chosen a year in advance.
       Master of the Scars: >-
         Conducts the ritual burning by which initiates mark their forearms, and refuses those he judges to be seeking the scar rather than the service.
   seat: null
@@ -80,6 +80,8 @@ data:
   relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: [kayikchul]}}
+
+# terran_analog: the K'ayik Kul'al is the Mesoamerican New Fire ceremony, and the Master of the Living Flame its fire-maker
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice
@@ -96,7 +98,7 @@ Every rite performed by every other branch passes through this one at some point
 
 Domestic worship mirrors the temple's. A household hearth is kindled from the temple flame at the new year and is not permitted to go out during the five liminal days at the year's end, when the boundary between worlds grows thin; a family whose fire dies in that period is held to have opened a door, and a fire-priest must be fetched to close it. Ash from the year's hearth is kept, and a pinch of it is worked into the plaster when a house is repaired.
 
-Every fifty-two years, when the K'in Cycle and the Tq'an Cycle realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples go dark; for a day and a night the city keeps silence; then the **Master of the New Fire** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
+Every fifty-two years, when the K'in Cycle and the Tq'an Cycle realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples go dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
 
 ## Organization
 
@@ -112,7 +114,7 @@ The fire-priests work in intimate coordination with the solar priests, for the s
 
 ## Relations
 
-With [[affiliation-kinultqan|K'in'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the New Fire Ceremony the highest fire-priests ascend the pyramid beside the Presiding K'ul Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
+With [[affiliation-kinultqan|K'in'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the **K'ayik Kul'al** ("the Living Flame") the highest fire-priests ascend the pyramid beside the Presiding K'ul Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
 
 Toward [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the relationship is one of divided territory. Fire transforms and the earth dissolves, and the two branches have long since agreed that a body is the death-walkers' and an offering is the fire-keepers', with cremation practiced only where the Ix'bal'ob concede it. The Pik'ob's sky burials, which give a body to neither fire nor water, are the exception the fire-priests find hardest to accept.
 

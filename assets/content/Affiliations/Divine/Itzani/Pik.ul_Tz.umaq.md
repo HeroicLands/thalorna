@@ -52,7 +52,7 @@ data:
           The highest standing any mortal reaches, and still a servant: the owl itself stands above every rank and is not of them.
     offices:
       Keeper of the Door: >-
-        Holds a place where the boundary has been opened before and can be opened again—a cave mouth, a drowned cenote, a grave-field.
+        Holds a place where the boundary has been opened before and can be opened again—a cave mouth, a drowned sinkhole, a grave-field.
       Speaker for the Owl: >-
         Carries what the owl has said, which is rarely much and never written down.
       Reclaimer: >-

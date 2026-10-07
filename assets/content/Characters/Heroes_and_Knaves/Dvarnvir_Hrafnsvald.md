@@ -440,7 +440,7 @@ When Dvarnvir finally returned from the wars at thirty-three, he found his wife 
 
 ### The Apprenticeship
 
-After leaving the military with an old injury to his shoulder, Dvarnvir apprenticed with **Master Torsten Roofmaker**, learning not just the mechanics of tent-construction but the deep philosophy of shelter as salvation. He spent six years mastering the art of working canvas and leather, understanding how fabric could be treated to withstand rain, how seams could be sealed to hold against howling wind, how a well-made shelter could be the difference between life and death. He proved to be a brilliant student, combining his intimate knowledge of soldiers' needs with Torsten's technical expertise.
+After leaving the military with an old injury to his shoulder, Dvarnvir apprenticed with **Master Hlarthmýl Roofmaker**, learning not just the mechanics of tent-construction but the deep philosophy of shelter as salvation. He spent six years mastering the art of working canvas and leather, understanding how fabric could be treated to withstand rain, how seams could be sealed to hold against howling wind, how a well-made shelter could be the difference between life and death. He proved to be a brilliant student, combining his intimate knowledge of soldiers' needs with Hlarthmýl's technical expertise.
 
 ### Present Days
 
@@ -483,8 +483,8 @@ Dvarnvir is driven by a simple but profound conviction: good shelter saves lives
 Captain Hnarvthann Skalfarukh
 : A decorated military officer who has become Dvarnvir's best customer and closest friend. Hnarvthann purchases tents for his unit and regularly refers other soldiers and adventurers to Dvarnvir's workshop.
 
-Master Torsten Roofmaker (Retired Mentor)
-: Though now elderly and mostly retired, Torsten still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
+Master Hlarthmýl Roofmaker (Retired Mentor)
+: Though now elderly and mostly retired, Hlarthmýl still consults with Dvarnvir on particularly difficult projects and has referred many of his own clients to his former apprentice.
 
 The Merchant Kalvin
 : A wealthy trader who commissions custom tents for his expedition caravans and has paid premium prices for Dvarnvir's work, trusting his quality absolutely.

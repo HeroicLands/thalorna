@@ -478,8 +478,8 @@ Princess Solveig of Malagna
 
 ### Enemies
 
-Master Craftsman Thorvald the Practical
-: An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Thorvald publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
+Master Craftsman Knarvorv the Practical
+: An older male tentmaker who represents the "function-first" philosophy Glirvrinna's father stood for. Knarvorv publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
 
 Draskselda the Copyist
 : A jealous rival artisan who specializes in producing close imitations of Glirvrinna's original designs at lower cost. Draskselda's plagiarism has cost Glirvrinna several clients, though legal action has proven difficult given the custom nature of textile work.

@@ -444,7 +444,7 @@ Thornak's father, **Hrodgar**, was a fierce warrior who led the tribe’s warban
 
 ### Hunter Training
 
-As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Hrothgar**, Thornak was taught the skills of a hunter and warrior. He learned how to survive in the forest, track animals, interpret signs both physical and spiritual, and perform sacred rituals to invoke the blessings of the village’s boar wesk and the forest spirits both before and after the hunt. Gurnulf often reminded him that the power of a hunter-warrior lay in their ability to hunt and in their ability to lead the tribe through times of hardship and battle.
+As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Druthgar**, Thornak was taught the skills of a hunter and warrior. He learned how to survive in the forest, track animals, interpret signs both physical and spiritual, and perform sacred rituals to invoke the blessings of the village’s boar wesk and the forest spirits both before and after the hunt. Gurnulf often reminded him that the power of a hunter-warrior lay in their ability to hunt and in their ability to lead the tribe through times of hardship and battle.
 
 In battle, Thornak could enter a berserker state, driven by the spirit of the boar, becoming a nearly unstoppable force of nature. His war club, carved from a boar’s skull and reinforced with iron, became both a symbol of his dedication to Eichengrund’s boar wesk and a tool of destruction in his hands.
 
@@ -454,13 +454,13 @@ Thornak holds the standing of [[lore-hrodthulrnk|Hródthúl]], Respected, among 
 
 The Vrystwald tribes have always faced threats from outside their lands, but in recent years, these threats have intensified. Settlers from the southern kingdoms, backed by well-armed militias, have begun encroaching on Vrystwald territory. They cut down sacred trees, hunt in forbidden lands, and build fortifications on ancestral sites. These actions have sparked numerous skirmishes, and the Eichengrund tribe, assisted by Thornak’s leadership, has been at the forefront of the resistance.
 
-However, the greatest threat to the Vrystwalds comes from the [[affiliation-sonsmuspell|Sons of Muspell]], a military order of the [[affiliation-blackflame|Black Flame]] dedicated to fire, destruction, and conquest. The Sons have gained ground in [[affiliation-jrldmstrmvld|Stormveld]] and seek a route into the Nordlands by taking Varokhi land. Their brutal raids have devastated several Vrystwald villages, and Thornak has sworn vengeance on them. He believes that they aim to seize control of Vrystwald and enslave its people, forcing them to labor or to feed Ústaron's bloody rituals.
+However, the greatest threat to the Vrystwalds comes from the [[affiliation-sonsmuspell|Sons of Eldheim]], a military order of the [[affiliation-blackflame|Black Flame]] dedicated to fire, destruction, and conquest. The Sons have gained ground in [[affiliation-jrldmstrmvld|Stormveld]] and seek a route into the Nordlands by taking Varokhi land. Their brutal raids have devastated several Vrystwald villages, and Thornak has sworn vengeance on them. He believes that they aim to seize control of Vrystwald and enslave its people, forcing them to labor or to feed Ústaron's bloody rituals.
 
 Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that Eichengrund should replace its boar wesk with the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak can confront Sigulf directly or attempt to win him over to his side.
 
 ### Current Goal
 
-Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the [[affiliation-sonsmuspell|Sons of Muspell]]. He has been leading raids against their outposts and ambushing their patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vrystwald ancestors.
+Thornak’s immediate goal is to defend the Eichengrund tribe from the continued encroachments of southern settlers and the [[affiliation-sonsmuspell|Sons of Eldheim]]. He has been leading raids against their outposts and ambushing their patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vrystwald ancestors.
 
 Thornak’s plan is to commune with the spirits of these ancient ancestors and unlock the secrets of their power. He believes that by doing so, he will be able to call upon the full might of the Boar Spirit and drive the invaders from Vrystwald lands once and for all. However, the journey to the Forgotten Barrows is perilous, and there are rumors that the barrows are guarded by malevolent spirits that do not take kindly to the living disturbing their rest.
 
@@ -505,7 +505,7 @@ Thornak hopes the barrows can give him enough renown to rally other villages aga
 Captain Varlan Keldros
 : A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
 
-[[affiliation-sonsmuspell|The Sons of Muspell]]
+[[affiliation-sonsmuspell|The Sons of Eldheim]]
 : This Black Flame military order seeks to seize Varokhi lands in Vrystwald as a route into the Nordlands. Its **Blazewarden Malekir** has personally sworn to burn the Vrystwald forests and offer the villages' Shamans as sacrifices to Ústaron. Thornak has clashed with Malekir's forces on several occasions, but the Sons are numerous and well armed, making them a deadly threat.
 
 Sigulf the Crowcaller
@@ -515,7 +515,7 @@ Sigulf the Crowcaller
 
 The barrow stories below are adventure possibilities, not established accounts of a shared Varokhi past. Thornak’s visions and the spirits’ claims can be mistaken or deceptive; discovering what is true is part of play. Seeking ancestral power for battle also breaches the ordinary prohibition on questioning the dead about combat or revenge, giving Eichengrund’s Weskár grounds to oppose his quest.
 
-1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Muspell]] plan a larger invasion of Vrystwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Malekir in a climactic battle.
+1. **War with the Sons**: The [[affiliation-sonsmuspell|Sons of Eldheim]] plan a larger invasion of Vrystwald, and Thornak must lead his people in a desperate defense. Players could assist the villages, raid the Sons' camps, or confront Blazewarden Malekir in a climactic battle.
 
 2. **Rivalry of the Crow**: As Sigulf gathers power, the rivalry between him and Thornak could erupt into a full-blown conflict that threatens the unity of the Eichengrund tribe. Players may have to choose sides, either supporting Thornak’s vision of strength through the Boar Spirit or aiding Sigulf in his quest for a new path.
 

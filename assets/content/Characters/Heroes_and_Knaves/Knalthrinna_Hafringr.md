@@ -427,7 +427,7 @@ Knalthrinna stands 5'11" tall with a medium build. She has pale fair skin, blond
 
 ### The Teamster's Inheritance
 
-Knalthrinna was born into the Hafringr clan of [[place-norgaad|Norgaad]], a family of modest means whose primary wealth lay in a small string of reliable draft horses and two heavy-laden wagons. Her father, **Hroarr Hafringr**, was a respected if unexceptional teamster whose reputation rested upon consistency and honest dealing rather than ambition. From her earliest childhood, Knalthrinna worked alongside her father, learning to gauge road conditions, manage animals, and read the subtle signs of mechanical failure before it crippled a wagon mid-journey. While her older brother pursued his father's dream of minor merchant status, Knalthrinna became obsessed with the work itself and how to do it faster.
+Knalthrinna was born into the Hafringr clan of [[place-norgaad|Norgaad]], a family of modest means whose primary wealth lay in a small string of reliable draft horses and two heavy-laden wagons. Her father, **Kruldmýl Hafringr**, was a respected if unexceptional teamster whose reputation rested upon consistency and honest dealing rather than ambition. From her earliest childhood, Knalthrinna worked alongside her father, learning to gauge road conditions, manage animals, and read the subtle signs of mechanical failure before it crippled a wagon mid-journey. While her older brother pursued his father's dream of minor merchant status, Knalthrinna became obsessed with the work itself and how to do it faster.
 
 ### Building an Empire of Wheels
 

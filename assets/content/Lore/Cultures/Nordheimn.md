@@ -113,7 +113,7 @@ This belief reaches ordinary work. It weighs against a false oath and in favor o
 
 ## The Dead near Home
 
-The living include ancestors in offerings and may seek a völva's contact with the dead. She is fed at the jarl's table, sleeps by the hearth and receives hospitality for her counsel. Further gifts follow custom; there is no common fixed coin fee. The household's ordinary prayer, willing spirit contact and a meeting with a corporeal draugr are distinct experiences.
+The living include ancestors in offerings and may seek a völva's contact with the dead. She is fed at the jarl's table, sleeps by the hearth and receives hospitality for her counsel. Further gifts follow custom; there is no common fixed coin fee. The household's ordinary prayer, willing spirit contact and a meeting with a corporeal [[lore-haugverdir|hrúmverdir]] are distinct experiences.
 
 Nordmen fear **restless dead**, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. These practices concern particular places rather than a single rite that prevents all hauntings.
 
