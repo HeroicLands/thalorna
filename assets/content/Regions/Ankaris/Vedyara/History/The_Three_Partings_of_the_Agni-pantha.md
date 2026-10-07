@@ -12,7 +12,6 @@ data:
       precision: century
       kind: schism
       depth: region
-      era: lore-agecopyists
       sources: [affiliation-agnipantha, affiliation-trimurtisampradaya]
       summary: >-
         The sect refuses the orthodox teaching that the unburned dead are Kālavrata's affair and not a priest's, and is put out of the city temples. Its priests take to the road with their vessels, and the sect has been itinerant since.
@@ -26,7 +25,6 @@ data:
       precision: century
       kind: schism
       depth: region
-      era: lore-hundredcrwn
       sources: [affiliation-agnipantha]
       summary: >-
         Kings of the Hundred Crowns forbid the sect's priests the field of Gajasthalī, which some of them hold to be their own dead's business. The sect goes anyway, burns the slope in lines for a season, and is banned from three capitals for it. The field is a recurrence before and after.
@@ -37,7 +35,6 @@ data:
       precision: century
       kind: schism
       depth: region
-      era: lore-agepatrons
       sources: [affiliation-agnipantha, affiliation-vyalendra2, place-vyalendra3]
       summary: >-
         The sect performs the Scouring of the Temple at the sanctuary of Mahājaya in Vyālendra, kindling a fire at its threshold and staying until the matter it named is addressed. The Loom-Council bans the sect from the city; a generation later the same council puts up a statue of the priest it banned in the cloth-court.

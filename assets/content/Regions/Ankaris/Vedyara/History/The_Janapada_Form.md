@@ -12,7 +12,6 @@ data:
       precision: century
       kind: founding
       depth: region
-      era: lore-unnumbrdage
       sources: [affiliation-janpdsvdyr]
       summary: >-
         The janapadas date their form to nearly three thousand years before the present: a cluster of villages that owns its land through a temple, keeps its water, granary and records in the temple, and governs itself through a sabhā meeting in the temple's hall. They hold that the form has run unbroken since, through burned temples, emptied villages and kingdoms that absorbed and released them.

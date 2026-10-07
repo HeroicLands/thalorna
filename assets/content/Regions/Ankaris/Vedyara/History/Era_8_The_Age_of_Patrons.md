@@ -5,18 +5,7 @@ type: lore
 subType: history
 description: "About 525 AF to the present: protection arrangements replace wars, successions carry the danger, and the age runs into the quarrels a traveler meets today."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: ~525
-      precision: century
-      kind: era
-      depth: region
-      sources: [lore-rjprprotct, lore-widowaccl, lore-cutthread, lore-nineice, lore-agnipartng]
-      summary: >-
-        Protection replaces war: Rājapur goes under Chandrapur, the mountain kingdoms stand patron to Dhanurkota and Suvarnagiri, and the Collective presses for factors everywhere. Successions carry the danger now, from a widow acclaimed at Sūryagarha to a House refused at the Moon House and a thread cut by the Ādānashrenī. The age runs into the present.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 A Vedyari polity of the present rarely fears a neighbor's army. It fears its patron's displeasure, its own succession and the Collective's factor at the gate, and the **Age of Patrons** is the two centuries in which that became true. It is the age a traveler walks into.

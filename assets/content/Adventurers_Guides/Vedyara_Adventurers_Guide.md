@@ -89,7 +89,7 @@ Vedyari share a pantheon, but its schools give a traveler different doors to kno
 
 ## Ritual and Arcane Traditions
 
-Powerful ritual work belongs chiefly to ordained schools, or sampradāyas, rather than to an unlicensed individual claiming a god's name. The Council of the Triyāchāryas within the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] licenses public working. Other traditions have narrower roles: the [[affiliation-ganakashala|Ganaka-shala]] computes calendars, tides, and assays; [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] serve dangerous crossings; [[affiliation-thresholdkeepers|Threshold-keepers]] may put one question to a newly dead person before the funeral pyre, under a restricted warrant. Folk magic and herbal practice remain part of ordinary life. Meditation, mantra, calculation, and rite all have a place, but they are not interchangeable practices. The foreign [[affiliation-ordoarcanis|Ordo Arcanis]] has only a licensed factor below Chandrapur; its scholars and Vedyari practitioners approach one another cautiously.
+Powerful ritual work belongs chiefly to ordained schools, or _sampradāyas_, rather than to an unlicensed individual claiming a god's name. The Council of the Triyāchāryas within the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] licenses public working. Other traditions have narrower roles: the [[affiliation-ganakashala|Ganaka-shala]] computes calendars, tides, and assays; [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] serve dangerous crossings; [[affiliation-thresholdkeepers|Threshold-keepers]] may put one question to a newly dead person before the funeral pyre, under a restricted warrant. Folk magic and herbal practice remain part of ordinary life. Meditation, mantra, calculation, and rite all have a place, but they are not interchangeable practices. The foreign [[affiliation-ordoarcanis|Ordo Arcanis]] has only a licensed factor below Chandrapur; its scholars and Vedyari practitioners approach one another cautiously.
 
 :::secret
 **For the GM:** The public year is sighted by priests and computed by the Ganaka-shala. Their answers can differ by a day, moving a festival, a coronation, or a gold weighing. A court's choice of calendar can therefore become a choice of authority. The [[affiliation-chayavrata|Chāya-vrata]] dream-line offers another fault line: its work is condemned, but the bodies that could pursue it do not agree on doing so.
@@ -134,40 +134,21 @@ Choose the road that catches your interest and begin there. The [[place-vedyarar
 
 ## Glossary
 
-These are the Vedyari words a traveler meets every day. They are written plain in these pages, the way a Vedyari says them.
+These are the Vedyari words a traveler meets most often. They are written plain in these pages, the way a Vedyari says them.
 
-| Word          | Meaning                                                                           |
-| ------------- | --------------------------------------------------------------------------------- |
-| Āchārya       | a master who teaches a school                                                     |
-| candra        | the silver coin of ordinary formal commerce                                       |
-| Darshaka      | a seer; a dream-reader of the Svapnasāri-samāja                                   |
-| devabhoga     | an estate given to a god in perpetuity, the god's portion                         |
-| Dhanāja       | the station of merchants, herd-owners and landholders                             |
-| Ganaka        | a reckoner of calendars, tides and assays                                         |
-| janapada      | a temple-republic: a cluster of villages that governs itself through its temple   |
-| Jvālita       | a Kindled One, an ordinary priest of the Agnī-panthā                              |
-| Karmāja       | the station of those who work the land and the crafts                             |
-| Koshādhyaksha | the treasurer of a crown or a temple                                              |
-| kula          | a lineage, marked on the wrist beside the station                                 |
-| Kulina        | the head of a great house; in Chandrapur, one of the Nine                         |
-| Kūpapāla      | the keeper of a well on the plateau                                               |
-| Mahā-Sangha   | the confederation of the janapadas                                                |
-| Mahārāja      | a great king                                                                      |
-| Mantrin       | a minister of a crown                                                             |
-| Mela          | the great assembly of the janapadas at Sangama, for worship and business together |
-| Purohita      | the priest who performs the rites a king's legitimacy rests on                    |
-| Rājñī         | the chief queen, with her own revenues and household                              |
-| Ritūja        | the priestly station, which bears arms for the temple and never for pay           |
-| sabhā         | the assembly of a janapada, meeting in its temple hall                            |
-| Sabhāpati     | the priest who convenes and presides over a sabhā or the Mela                     |
-| sampradāya    | a school of the faith                                                             |
-| Sāmanta       | a lord who holds land and a fort of a king                                        |
-| Senāja        | the warrior station, which bears arms by right and owes service in the host       |
-| Senāpati      | the commander of a host                                                           |
-| suvarna       | the gold coin, struck in Chandrapur from Suvarnagiri gold                         |
-| tāmra         | the copper coin every court strikes                                               |
-| tharana       | a person's inherited station, marked on the wrist at birth                        |
-| Triyāchārya   | a master of the three; a senior priest of the orthodox school                     |
-| ushtaka       | a priest of the Varnaka who keeps a pass-shrine or sits in a priestly court       |
-| vrata         | a vow                                                                             |
-| Yuvarāja      | the heir to a crown                                                               |
+| Word     | Meaning                                                                           |
+| -------- | --------------------------------------------------------------------------------- |
+| janapada | a temple-republic: a cluster of villages governing itself through its temple      |
+| kula     | a lineage; the kin within a station, marked on the wrist                          |
+| Kulina   | the head of a great house; in Chandrapur, one of the Nine                         |
+| Mahārāja | a great king                                                                      |
+| Mela     | the great assembly of the janapadas at Sangama, for worship and business together |
+| Ritūja   | the priestly station, which bears arms for the temple and never for pay           |
+| sabhā    | the assembly of a janapada, meeting in its temple hall                            |
+| Sāmanta  | a lord who holds land and a fort of a king                                        |
+| Senāja   | the warrior station, which bears arms by right and owes service in the host       |
+| tāmra    | the copper coin every court strikes                                               |
+| tharana  | a person's inherited station, marked on the wrist at birth                        |
+| ushtaka  | a priest of the Varnaka who keeps a pass-shrine or sits in a priestly court       |
+
+The [[lore-vedyariclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

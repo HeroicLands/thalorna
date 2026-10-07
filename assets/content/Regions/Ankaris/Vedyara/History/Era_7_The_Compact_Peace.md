@@ -3,21 +3,9 @@ shortcode: compactpeace
 name: {full: The Compact Peace, aliases: []}
 type: lore
 subType: history
-description: "About 335 to 540 AF: roads and watch posts built in common under the Third Compact, the Highland War stopped at a gorge-mouth below the gold road, Gomārga's second broken bargain and its empty century, and the Council of the Dream's condemnation of the Chaya-vrata."
+description: "335 to 524 AF, 1 CP to 190 CP in the Madhusthāna count: roads and watch posts built in common under the Third Compact, the Highland War stopped at a gorge-mouth below the gold road, Gomārga's second broken bargain and its empty century, and the Council of the Dream's condemnation of the Chaya-vrata."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: ~335
-      until: ~540
-      precision: century
-      kind: era
-      depth: region
-      sources: [lore-thirdcmpct, lore-hghlndwar, lore-emptycrct, lore-chayacondm]
-      summary: >-
-        Roads, caravanserai and watch posts are built in common under the Compact, and the Collective learns to be the connective tissue between the seats. The peace is not quiet: a mountain kingdom marches on the gold road and is stopped at a gorge-mouth by Bharyastān's horse and Dhanurkota's recalled graduates; Gomārga breaks its well bargain a second time and loses a century to an empty circuit; the Council of the Dream condemns the Chaya-vrata. It ends when the plateau's lineages walk back onto the circuit.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 The **Compact Peace** is two centuries in which no Vedyari polity destroyed another, and they were not quiet centuries. The [[lore-thirdcmpct|Third Compact]] made unification unnecessary: the seats built roads, caravanserai and watch posts in common, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] learned to be the thing that crossed every border. Wars went on. They stopped ending kingdoms.
@@ -39,7 +27,7 @@ About 470 the Council of the Dream condemned the dream-line that works on the wa
 
 ## Its End
 
-About 540 the plateau's great lineages walked back onto the circuit, and the empty century ended. By then Rājapur had already gone under Chandrapur's protection, and the [[lore-agepatrons|Age of Patrons]] had begun.
+The age ends in 524 AF, 190 CP, the year before a kingdom up the river took Rājapur's head-gate and the janapada went under Chandrapur's protection. The [[lore-agepatrons|Age of Patrons]] opens with that protection. The plateau's empty century outlasted the peace by fifteen years: the great lineages walked back onto Gomārga's circuit about 540, in the new age.
 
 ## See Also
 

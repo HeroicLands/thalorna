@@ -12,7 +12,6 @@ data:
       precision: century
       kind: raising
       depth: region
-      era: lore-hardgenrtn
       sources: [affiliation-bhumipala, place-sandhyapur, place-marchroad]
       summary: >-
         The Bhūmipāla clan, Sāmantas of the salt coast who rode out the Storm on boats behind the spit at Sandhyāpur, take the march Marupāla left empty. They seat their court at the far end of the road, swear the first treaty with the Sultanate of Amradad, hire the first companies and begin the forts, every one of them built with the host in mind. Kāvravīra is the first Mahārāja, confirmed by a council of the men who built the forts.

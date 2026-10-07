@@ -12,7 +12,6 @@ data:
       precision: century
       kind: raising
       depth: region
-      era: lore-agecopyists
       sources: [affiliation-vyalendra2, place-vyalendra3, lore-vylndrkngs]
       summary: >-
         Nīlapati, a lord of the indigo valleys, takes the cloth city and is crowned in it. His line lays out the palace quarter, the audience hall and the street-plan the guild republic still lives in, and reigns for eleven kings, until about 150 AF. The guilds' pattern-book rule is older than the crown.

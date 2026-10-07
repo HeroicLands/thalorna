@@ -5,26 +5,7 @@ type: lore
 subType: history
 description: "From the dissolution of Mahānadī in 241 BF to the end of the Vyālendri kingship about 150 AF: a quiet, recorded age of libraries and endowments, the last gold raid on Suvarnagiri, the Vyālendri crown, the charter of the pass-road, and a royal seat the river drowned."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: -241
-      until: ~150
-      stated: {calendar: madhavendra, text: "M 240"}
-      precision: century
-      kind: era
-      depth: region
-      sources:
-        - lore-fortydays
-        - lore-lastgldrd
-        - lore-vylndrcrwn
-        - lore-passcharter
-        - lore-drwnngseat
-        - lore-vylndrkngs
-      summary: >-
-        A quiet age and a recorded one. Rājapur keeps its whole record, the copying country, the endowments and the land-tenure record begin, and Madhusthāna empties without an event. Suvarnagiri loses its gold to a raid for the last time and Bharyastān's treaty begins; Vyālendra raises a crown that lasts eleven reigns; the highland clans charter a king to hold the great pass; the river drowns a royal seat. It ends when the last Vyālendri king's line ends and the weavers sit down in his hall.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 If the **Age of Copyists** has a sound, it is a stylus on a palm leaf. For four centuries after [[lore-fortydays|the Forty Days]], [[place-vedyarargn|Vedyara]] wrote things down: [[place-rajavalilib|the Rājavalī Library]] kept the dissolved kingdom's record whole, the copying country of the Sarvada began, endowments were written and land-tenure was recorded, and the jurists began to write their commentaries. [[place-madhavendra|Madhusthāna]] emptied in the same centuries without any event to explain it, and the scholars who name the age do not try.

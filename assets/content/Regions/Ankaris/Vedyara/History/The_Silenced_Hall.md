@@ -12,7 +12,6 @@ data:
       precision: century
       kind: loss
       depth: region
-      era: lore-hardgenrtn
       sources: [lore-conchdoor, place-sangama, affiliation-janpdsvdyr]
       summary: >-
         Taking the eastern janapadas one at a time, the conch-door adventurer makes an example of the one that will not submit: he shuts the sabhā of Thirnugrāma in its temple hall and fires the roof. The hall is its own pyre, so the dead pass, but the janapada's record, survey and genealogies burn with it and the janapada does not survive. The Mela of 320 mourns it on the roll in the same ten days it swears the Third Compact, divides its land among its neighbors, bricks up the hall, and the priests strike the adventurer's name from their speech.

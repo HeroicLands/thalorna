@@ -19,7 +19,7 @@ data:
   packFolder: vedyara
 ---
 
-**The Forty Days** is the dissolution of the Kingdom of Mahānadi as the [[place-rajavalilib|Rājavalī Library]] keeps it: the chronicle's entries, flat and dated by the [[lore-mdhvndrcnt|Madhusthāna count]], each followed by the gloss that [[affiliation-rajaprjnpd|Rājapur]]'s current Memory-Keeper, Rāmavāhana Smrti-Bhāra, gives it in his commentary on the dissolution. The year of the entries, M 240, is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshtha]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
+**The Forty Days** is the dissolution of the Kingdom of Mahānadi as the [[place-rajavalilib|Rājavalī Library]] keeps it: the chronicle's entries, flat and dated by the [[lore-mdhvndrcnt|Madhusthāna count]], each followed by the gloss that [[affiliation-rajaprjnpd|Rājapur]]'s current Memory-Keeper, Rāmavāhana Smrti-Bhāra, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of the Age of Copyists (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshtha]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
 
 : The Forty Days {#chronicle}
 

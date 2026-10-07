@@ -109,3 +109,66 @@ Revolt against the order is rare to the point of curiosity. Reform inside it is 
 - [[skill-vdykshrscrpt|Vedyākshara Script]]—the syllabary the learning is written in
 - [[affiliation-janpdsvdyr|Janapadas of Vedyara]]—the roll of the janapadas
 - [[lore-vdyrnbnkng|Vedyaran Banking]]—the letters of credit that move a household's money
+
+## Glossary {#glossary}
+
+Every Vedyari word and term of art these pages use, with its meaning. The common words a traveler meets every day are written plain; the rest are set in italics where they appear.
+
+| Term            | Meaning                                                                                           |
+| --------------- | ------------------------------------------------------------------------------------------------- |
+| _Āchārya_       | a master who teaches a school                                                                     |
+| _antevāsin_     | an acolyte, one who lives near the teacher he serves                                              |
+| _Bhasma_        | a novice of the Agnī-panthā, five years on the road before he is given an ember-vessel            |
+| _candra_        | the silver coin of ordinary formal commerce, struck at the Moon House                             |
+| _Dahana-Mūla_   | the senior priest of a regional chapter of the Agnī-panthā                                        |
+| _dandanāyaka_   | a magistrate of the rod, who enforces a court's judgments                                         |
+| _Darshaka_      | a seer; a dream-reader of the Svapnasāri-samāja                                                   |
+| _devabhoga_     | the god's portion: an estate given to a temple in perpetuity to feed it                           |
+| _devapati_      | the lord of a temple's domain                                                                     |
+| _Dhanāja_       | the station of those born to wealth: merchants, herd-owners and landholders                       |
+| _Dhanurāchārya_ | the master of one of Dhanurkota's four archery academies                                          |
+| _dharma_        | duty; the law                                                                                     |
+| _dūta_          | an envoy to a neighboring court, sabhā or the Mela                                                |
+| _Ganaka_        | a reckoner of calendars, tides and assays, of the Ganaka-shala                                    |
+| _ghūrakshetra_  | a cursed field: a blood-field thin enough to kill                                                 |
+| janapada        | a temple-republic: a cluster of villages governing itself through its temple                      |
+| _Jvālita_       | a Kindled One, an ordinary itinerant priest of the Agnī-panthā                                    |
+| _Karmāja_       | the station of those born to labor, in the fields and the crafts                                  |
+| _Koshādhyaksha_ | the treasurer of a crown or a temple                                                              |
+| _kshetrapāla_   | a keeper of fields                                                                                |
+| kula            | a lineage; the kin within a station, marked on the wrist                                          |
+| Kulina          | the head of a great house; in Chandrapur, one of the Nine                                         |
+| _Kūpapāla_      | the keeper of a well on the plateau, named by the lineage that cut it                             |
+| _mahāprasāda_   | the great offering                                                                                |
+| Mahārāja        | a great king                                                                                      |
+| _Mantrin_       | a minister of a crown                                                                             |
+| _mārgapāla_     | a keeper of a road                                                                                |
+| Mela            | the great assembly of the janapadas at Sangama, for worship and business together                 |
+| Memory-Keeper   | the officer who keeps a janapada's genealogies, boundary records and precedents, and recites them |
+| _nidrāpāla_     | a keeper of sleep                                                                                 |
+| _Patita_        | fallen: one put out of the order for good, the mark branded on the face                           |
+| _Purohita_      | the priest who performs the rites a king's legitimacy rests on                                    |
+| _rājaguru_      | a king's teacher                                                                                  |
+| _Rājñī_         | the chief queen, with her own revenues, household and voice                                       |
+| Ritūja          | the priestly station, which bears arms for the temple and never for pay                           |
+| sabhā           | the assembly of a janapada, meeting in its temple hall                                            |
+| _Sabhāpati_     | the priest who convenes and presides over a sabhā or the Mela                                     |
+| _samāja_        | a society, an assembly of the faithful                                                            |
+| Sāmanta         | a lord who holds land and a fort of a king                                                        |
+| _sampradāya_    | a tradition; a school of the faith                                                                |
+| Senāja          | the warrior station, which bears arms by right and owes service in the host                       |
+| _Senāpati_      | the commander of a host                                                                           |
+| _sevaka_        | a servant                                                                                         |
+| _shorukshetra_  | a blood-field: ground where the dead lie unburned and the way behind them never closed            |
+| _suvarna_       | the gold coin, struck in Chandrapur from Suvarnagiri gold                                         |
+| tāmra           | the copper coin every court strikes                                                               |
+| tharana         | a person's inherited station, marked on the wrist at birth                                        |
+| _thirnu_        | a bell                                                                                            |
+| _Triyāchārya_   | a master of the three; a senior priest of the orthodox school                                     |
+| _upāsaka_       | a lay devotee                                                                                     |
+| ushtaka         | a priest of the Varnaka who keeps a pass-shrine or sits in a priestly court                       |
+| _vāda_          | a doctrine                                                                                        |
+| _vanapāla_      | a forester                                                                                        |
+| _vrata_         | a vow                                                                                             |
+| _vratin_        | one under a vow                                                                                   |
+| _Yuvarāja_      | the heir to a crown                                                                               |

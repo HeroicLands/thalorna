@@ -12,7 +12,6 @@ data:
       precision: century
       kind: founding
       depth: region
-      era: lore-agekingdoms
       sources: [affiliation-agnipantha]
       summary: >-
         A decade after the slaughter at the ford, the wandering ascetic Bhasmadāsa walks onto Olūratarana with a borrowed lamp and spends a season trying to burn a field no pyre will catch on. One fire takes on the east bank. He burns what he can, carries the ember away in a clay pot, and every ember the Agnī-panthā carries descends from it.
@@ -42,7 +41,7 @@ data:
         - whether the fire that took was the founder's lamp or a grass-fire he walked across the bank
 ---
 
-A Jvālita (Kindled One) of [[affiliation-agnipantha|the Agnī-panthā]] will open the clay vessel in the crook of his arm and show you the ember, and if you ask where it came from he will tell you: from the founding fire, carried forward vessel to vessel since a man burned a field nobody else would burn. The sect calls that man **Bhasmadāsa**, the servant of ash. The orthodox temples call the story a story. The **Kindling at the Ford** is the account the sect keeps.
+A _jvālita_ (Kindled One) of [[affiliation-agnipantha|the Agnī-panthā]] will open the clay vessel in the crook of his arm and show you the ember, and if you ask where it came from he will tell you: from the founding fire, carried forward vessel to vessel since a man burned a field nobody else would burn. The sect calls that man **Bhasmadāsa**, the servant of ash. The orthodox temples call the story a story. The **Kindling at the Ford** is the account the sect keeps.
 
 ## The Season on the Ford
 
@@ -54,7 +53,7 @@ He burned what he could. Then he put the ember of that fire in a clay pot and ca
 
 ## What It Left
 
-- **The vessel.** The clay vessel with a living ember in it is the one thing a Jvālita will not give up, and carrying it is what ordination in the sect confers.
+- **The vessel.** The clay vessel with a living ember in it is the one thing a _jvālita_ will not give up, and carrying it is what ordination in the sect confers.
 - **The rite.** The sect's burning of a _shorukshetra_ (blood-field)—a fast, a confession of the district's sins before the ember, and grass-fires walked across the field in lines—is the founder's season repeated.
 - **The doctrine.** The purging fire is owed to the dead before it is owed to anyone else. The orthodox teaching that the unburned dead are the gods' affair and not a priest's is the quarrel behind the sect's first parting from the city temples ([[lore-agnipartng|the Three Partings]]).
 - **The Night of the Kindled Road.** At every autumn equinox the priests light their vessels into a common fire at a rendezvous and carry new embers out. In every twelfth year the rendezvous is the east bank of Olūratarana.

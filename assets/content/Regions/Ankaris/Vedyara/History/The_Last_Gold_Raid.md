@@ -12,7 +12,6 @@ data:
       precision: century
       kind: treaty
       depth: region
-      era: lore-agecopyists
       sources: [affiliation-suvrgrjnpd, affiliation-bharyastan, place-weighingstn]
       summary: >-
         Raiders out of a neighboring hill kingdom fall on the weighing-station at the new moon and carry off the month's gold. Bharyastān's king, Dhūrsavīra, rides them down in the gorges below the mountain road and returns the gold by weight, and the treaty of horse for gold is sworn at the next weighing. Suvarnagiri has not lost gold to a raid since.

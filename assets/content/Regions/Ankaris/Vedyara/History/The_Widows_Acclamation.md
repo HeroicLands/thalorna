@@ -12,7 +12,6 @@ data:
       precision: century
       kind: accession
       depth: region
-      era: lore-agepatrons
       sources: [affiliation-vindhyalay, place-suryagarha]
       summary: >-
         A Mahārāja of Shikharālaya dies suddenly in the open season with his son a child. The Priestly Court puts forward a candidate of its own; the Martial Council, sitting at Sūryagarha while the far chieftains are there to vote, refuses him and acclaims the late king's widow, Jvalasundarī. She reigns until her son is of age and for some years after.

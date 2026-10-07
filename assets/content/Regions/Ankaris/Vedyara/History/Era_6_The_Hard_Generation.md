@@ -3,27 +3,9 @@ shortcode: hardgenrtn
 name: {full: The Hard Generation, aliases: []}
 type: lore
 subType: history
-description: "About 313 to 335 AF: the Storm of the Hundred Banners, the fall of the march kingdom of Marupāla on the thinnest shorukshetra in Vedyara, the conch-door adventurer and the Silenced Hall, the Third Compact, and the raising of Bhūmipāla."
+description: "313 to 334 AF, 1 HG to 22 HG in the Madhusthāna count: the Storm of the Hundred Banners, the fall of the march kingdom of Marupāla on the thinnest shorukshetra in Vedyara, the conch-door adventurer and the Silenced Hall, the Third Compact, and the raising of Bhūmipāla."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: ~313
-      until: ~335
-      precision: century
-      kind: era
-      depth: region
-      sources:
-        - lore-hndrdbnnrs
-        - lore-marupalafl
-        - lore-conchdoor
-        - lore-silenthall
-        - lore-thirdcmpct
-        - lore-bhmplraise
-      summary: >-
-        The crisis generation. The Storm comes round the wall's western end and the old march kingdom dies with its last king on the third shorukshetra; the conch-door adventurer burns a sabhā in its hall and is put out by the janapadas' third army; the Mela of 320 mourns the lost janapada in the same ten days it swears the Third Compact; and a salt-coast clan takes the empty march and builds every fort on its road.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 The **Hard Generation** is the crisis of Vedyari history, and the shape of the present was set in it. In about twenty years [[place-vedyarargn|Vedyara]] was invaded from both ends at once, lost a kingdom and a janapada, raised an army it had no mechanism for raising, and signed the law it has lived under since.
@@ -44,7 +26,7 @@ On the empty march a clan of the salt coast, the Bhūmipāla, took the land, sea
 
 ## Its End
 
-The age ends when the Compact's roads and the march forts stand, a little after 330. The [[lore-compactpeace|Compact Peace]] follows.
+The age ends in 334 AF, 22 HG, when the Compact's roads and the march forts stand. The [[lore-compactpeace|Compact Peace]] follows.
 
 ## See Also
 

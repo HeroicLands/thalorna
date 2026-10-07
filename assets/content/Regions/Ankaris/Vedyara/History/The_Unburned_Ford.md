@@ -12,7 +12,6 @@ data:
       precision: century
       kind: battle
       depth: region
-      era: lore-agekingdoms
       sources: [lore-rcitkngsmhnd, lore-mhndkngdm, place-rajavalilib]
       summary: >-
         Dandavīra, the second of the six worsening kings of Mahānadī, meets a rising of the upper-river villages at a ford of the upper Mahānadī and destroys it. He forbids the pyre to the rebel dead as he forbade petitions to the living, and some thousands lie where they fell through a monsoon. The ford becomes Olūratarana, the ford of the restless dead, the oldest dated shorukshetra in Vedyara.

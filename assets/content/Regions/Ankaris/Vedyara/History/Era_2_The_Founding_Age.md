@@ -5,19 +5,7 @@ type: lore
 subType: history
 description: "About 780 to 481 BF: the highland temples, the four academies of the bow and the first forest gift, and the Mahānadī kings on the upper river at a seat their library never recorded."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: ~-780
-      until: -481
-      precision: century
-      kind: era
-      depth: region
-      sources: [lore-hghlndfndn, lore-mhndkngdm, place-puranasthana]
-      summary: >-
-        The highland janapadas raise Suvarnagiri's three gold temples, found Dhanurkota's four academies and make the first forest gift of the Bhārava, and the Mahānadī line takes the upper river from a seat its library never recorded. The oldest things in Vedyara that carry a date are temple foundations, and the age ends with the reign of the philosopher-kings that fixes the language and starts the count.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 The oldest things in [[place-vedyarargn|Vedyara]] that carry a date are temples, and that is the whole character of the **Founding Age**. Its states are hardly remembered. Its institutions are still running.
@@ -34,7 +22,7 @@ The Mahānadī line traces itself to a heroic ancestor the recitation names only
 
 ## Its End
 
-The age ends with the reign of the philosopher-kings of Madhusthāna, who fix the classical tongue and start [[lore-mdhvndrcnt|the count]] that every Vedyari court still keeps. Their first year, M 1, opens the [[lore-agekingdoms|Age of Kingdoms]].
+The age ends with the reign of the philosopher-kings of Madhusthāna, who fix the classical tongue and start [[lore-mdhvndrcnt|the count]] that every Vedyari court still keeps. Their first year, 1 AK, opens the [[lore-agekingdoms|Age of Kingdoms]], the first age of the count.
 
 ## See Also
 

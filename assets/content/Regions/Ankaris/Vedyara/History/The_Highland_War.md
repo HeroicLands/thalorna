@@ -12,7 +12,6 @@ data:
       precision: century
       kind: battle
       depth: region
-      era: lore-compactpeace
       sources:
         - affiliation-dhnrktjnpd
         - affiliation-suvrgrjnpd

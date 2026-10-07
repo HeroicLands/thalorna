@@ -13,7 +13,6 @@ data:
       precision: century
       kind: loss
       depth: region
-      era: lore-compactpeace
       sources: [affiliation-gomarga, place-vandhyabhumi]
       summary: >-
         A raid out of the river country takes a great lineage's wells, and King Vishānapāla does not ride to them; the guarantee half of the well bargain fails. The great lineages move their herds off the circuit and keep them off. For a century the moving court arrives at wells with nobody at them, the plateau's well-villages empty, and a filled well becomes the plateau's sign for a broken word. The lineages walk back onto the circuit about 540.
@@ -33,7 +32,7 @@ data:
       accounts:
         - by: affiliation-gomarga
           says: >-
-            The kingdom's worst century followed the second breaking. The Rājñī's standing camp keeps the records and the hostages because of it.
+            The kingdom's worst century followed the second breaking. The chief queen's standing camp keeps the records and the hostages because of it.
           agrees: full
       unresolved:
         - why Vishānapāla did not ride; the standing camp's record enters that he did not, and not why
@@ -55,7 +54,7 @@ They kept them out for a century. The moving court went on traveling the circuit
 
 ## The Return
 
-About 540 the great lineages walked back onto the circuit, on terms the crown has kept since: the Rājñī keeps a standing camp at the winter wells with the treasury, the written record and the hostages, so that the crown's word is held somewhere the crown cannot walk away from.
+About 540 the great lineages walked back onto the circuit, on terms the crown has kept since: the _rājñī_ keeps a standing camp at the winter wells with the treasury, the written record and the hostages, so that the crown's word is held somewhere the crown cannot walk away from.
 
 ## What It Left
 

@@ -12,7 +12,6 @@ data:
       precision: century
       kind: accession
       depth: region
-      era: lore-hundredcrwn
       sources: [affiliation-chandrapur, place-chandrapur2, place-moonhouse]
       summary: >-
         Chandrapur's temples refuse to crown Ratnasūra, the dead king's son, the first of their two refusals. The nine great cutting houses broker a cousin, Elvunātha, onto the throne on their own terms: nine seats of one height in the Moon House, each House's quarter its own, and the crown's revenue the tenth district, the waterfront and market ground that belongs to no house.

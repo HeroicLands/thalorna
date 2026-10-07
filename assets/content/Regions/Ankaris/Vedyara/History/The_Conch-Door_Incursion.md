@@ -12,7 +12,6 @@ data:
       precision: century
       kind: conquest
       depth: region
-      era: lore-hardgenrtn
       sources:
         - place-sanghafort
         - place-sankhadvra

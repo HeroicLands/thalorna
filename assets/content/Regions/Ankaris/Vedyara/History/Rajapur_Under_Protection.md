@@ -12,7 +12,6 @@ data:
       precision: century
       kind: treaty
       depth: region
-      era: lore-agepatrons
       sources: [affiliation-rajaprjnpd, affiliation-chandrapur, place-khandapura]
       summary: >-
         A kingdom up the river takes Rājapur's head-gate village, Khandāpura, for a season and holds the janapada's water. Chandrapur's money and a hired company put it out. The janapada, which has kept no soldiers since the dissolution, signs a formal protection with the city: Chandrapur answers for its defense, and Rājapur pays in grain and in the work of its copyists.

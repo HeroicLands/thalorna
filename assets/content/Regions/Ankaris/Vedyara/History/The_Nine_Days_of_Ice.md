@@ -12,7 +12,6 @@ data:
       precision: year
       kind: catastrophe
       depth: region
-      era: lore-agepatrons
       sources: [place-chandrprbh, place-himashila, place-suryatempl]
       summary: >-
         The spring at Chandraprabhava, which had never frozen in the temple's record, ices over for nine days and runs again. The slab of Himashilā is unchanged before, during and after. The priests of the Sūrya temple do not enter it in the record, and the reckoners of the Ganaka-shala want to know why.

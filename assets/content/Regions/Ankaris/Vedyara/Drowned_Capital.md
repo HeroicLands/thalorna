@@ -22,8 +22,15 @@ A fisherman of the reach gives a newcomer one rule for these waters: do not set 
 
 The move that took it came a long time after the dissolution, so the town the river drowned was governed by a sabhā and not by a king. The kingly name has stuck anyway, because the buildings that make the hazard are the royal ones, and because a drowned palace is a better story than a drowned market.
 
+## The Other Three Moves
+
+The drowning is the one move anyone dates. The Mahānadī has moved three other times within written record, and the record gives none of them a year. Each time the river took a new bed miles from the old one, and each time it left towns behind on dry ground.
+
+Those are the **oxbow towns**: river-towns stranded in the floodplain, their landing stairs going down to grass. A dead channel runs past each of them as a long crescent of marsh and reed-bed, wet in the rains and cracked in the dry season, and the stone steps where boats once tied up end in pasture. Most were abandoned within a generation. A few kept their people, and the best known of those is [[place-rushaghatta|Rūshaghatta]], the dust landing, whose ghat-steps lead down to a field.
+
 ## See Also
 
 - [[place-mahanadi|The Mahānadī]]—the river that moved
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the move, dated
+- [[place-rushaghatta|Rūshaghatta]]—an oxbow town the river left on dry ground
 - [[place-rajapur|Rājapur]] · [[place-rajapurjnpd|Rājapur Janapada]]

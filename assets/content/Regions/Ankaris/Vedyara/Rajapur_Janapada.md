@@ -107,7 +107,7 @@ The sabhā met for forty days. It declared the kingdom dissolved and the dynasti
 - The royal army was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janapada.
 - The council-chamber was kept, and the record in it was kept whole.
 
-The classical chronicles put this at M 240 in the [[lore-mdhvndrcnt|Madhusthāna count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
+The classical chronicles put this in the first year of the Age of Copyists (1 AC) in the [[lore-mdhvndrcnt|Madhusthāna count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhā's answer:
 

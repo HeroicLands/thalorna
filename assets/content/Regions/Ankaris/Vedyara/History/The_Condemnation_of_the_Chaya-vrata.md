@@ -12,7 +12,6 @@ data:
       precision: century
       kind: schism
       depth: region
-      era: lore-compactpeace
       sources: [affiliation-chayavrata, affiliation-svapnasarisamaja, place-waitinghouse]
       summary: >-
         The Council of the Dream of the Svapnasāri-samāja condemns the line that works the waking dream on a person who is awake and unwilling, and holds the condemnation open. The Samāja's monasteries will not seat a Chaya-vrata and will not name one; the vow goes on being taught outside them, one student at a time, and the shadow-brotherhoods grow from it.

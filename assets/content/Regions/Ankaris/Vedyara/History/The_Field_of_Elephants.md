@@ -12,7 +12,6 @@ data:
       precision: century
       kind: battle
       depth: region
-      era: lore-hundredcrwn
       sources: [affiliation-gomarga, affiliation-mrchntclctvvdyr, being-vdyrnelphnt]
       summary: >-
         A coalition under Gomārga comes down off the plateau against the river kingdom of Purnatīra on the middle Mahānadī, and the two hosts meet with their war-elephants at the plateau's foot. Both lines break. The field is left to the rains with more dead than the villages can burn, and Purnatīra never recovers; its villages pass to janapadas within a generation. The slope is Gajasthalī, the elephant ground, the second shorukshetra in Vedyara.

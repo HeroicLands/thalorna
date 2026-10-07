@@ -12,7 +12,6 @@ data:
       precision: century
       kind: conquest
       depth: region
-      era: lore-hundredcrwn
       sources: [affiliation-gomarga, place-vandhyabhumi]
       summary: >-
         Raising a host for a war on the river, Gomārga's king Vrishasūra takes three great lineages' wells into the crown's own hand and spends their earnings. The lineages walk their herds off the circuit. The war is lost at the Field of Elephants, the crown returns the wells, and the accession oath, that the crown does not adjudicate grass, gains a clause binding the crown never to take a lineage's well.

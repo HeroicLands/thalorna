@@ -12,7 +12,6 @@ data:
       precision: century
       kind: fall
       depth: region
-      era: lore-hardgenrtn
       sources: [lore-hndrdbnnrs, affiliation-bhumipala, place-marchroad, place-wstrndscnt]
       summary: >-
         In the spring of 315 the march kingdom of Marupāla meets the Storm of the Hundred Banners where the foothills of the Western Descent open onto the march road, and its whole host dies there with its last king, Ashvakīrti. The khanate burns the capital, Lūdrapur, sweeps the march and turns west across Dunhara in the same year. Nobody is left to burn the dead of either side, and the field is Lanthusthalī, the banner ground, the third and thinnest shorukshetra in Vedyara.

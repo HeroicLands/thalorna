@@ -3,7 +3,7 @@ shortcode: mhndkngdm
 name: {full: The Kingdom of Mahānadī, aliases: [Kingdom of Mahānadī, The Dissolution of Mahānadī]}
 type: lore
 subType: history
-description: "The kingdom that held the upper Mahānadī for some four centuries, from its founding around 640 BF through the move of its capital to Rājapur in M 1 to the forty-day sabhā that dissolved it in M 240."
+description: "The kingdom that held the upper Mahānadī for some four centuries, from its founding around 640 BF through the move of its capital to Rājapur in the first year of the Madhusthāna count to the forty-day sabhā that dissolved it in the first year of the Age of Copyists."
 tags: [history, vedyara]
 data:
   packFolder: vedyara
@@ -12,7 +12,6 @@ data:
       precision: century
       kind: founding
       depth: region
-      era: lore-foundingage
       sources: [lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
         The Mahānadī dynasty takes the upper Mahānadī and its fields, about a century and a half before the standardization at Madhusthāna. It traces itself to a heroic ancestor of legendary virtue.
@@ -34,14 +33,13 @@ data:
         - the founding ancestor's name and history, which the recitation gives as legend and not as record
         - where the kings kept their seat before Rājapur
     - when: -480
-      stated: {calendar: madhavendra, text: "M 1"}
+      stated: {calendar: mdhvndrcnt, text: "1 AK"}
       precision: year
       kind: founding
       depth: region
-      era: lore-agekingdoms
       sources: [place-sandstonealtr, lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
-        The kings of Mahānadī make Rājapur their capital and cut the sandstone altar of Vyālendra in the temple beside the new palace. Every king who reigns from Rājapur is consecrated at that altar, the last included. The move falls in the year of the standardization at Madhusthāna, and the kingdom's chronicle counts its years from M 1.
+        The kings of Mahānadī make Rājapur their capital and cut the sandstone altar of Vyālendra in the temple beside the new palace. Every king who reigns from Rājapur is consecrated at that altar, the last included. The move falls in the year of the standardization at Madhusthāna, and the kingdom's chronicle counts its years from the first year of the count.
       standing: single-source
       where:
         locus: [place-rajapur]
@@ -55,11 +53,10 @@ data:
           how: enabled
           note: the capital is founded in the reign of the philosopher-kings, and its chronicle is dated by their count
     - when: -241
-      stated: {calendar: madhavendra, text: "M 240"}
+      stated: {calendar: mdhvndrcnt, text: "1 AC"}
       precision: year
       kind: dissolution
       depth: region
-      era: lore-agekingdoms
       sources:
         - lore-fortydays
         - lore-rcitkngsmhnd
@@ -121,13 +118,13 @@ The junior scribe who meets you at the gate of [[place-rajavalilib|the Rājaval�
 
 The line was founded on the upper [[place-mahanadi|Mahānadī]] around 640 BF, about a century and a half before the first year of [[lore-mdhvndrcnt|the Madhusthāna count]]. The dynasty traced itself to a heroic ancestor of legendary virtue, as Vedyari dynasties do, and the Memory-Keeper's recitation hedges that ancestor as legend. Where the first kings kept their seat, the library does not record. The upper-river villages call a terraced hill on the pilgrim road [[place-puranasthana|Purānasthāna]], the old seat, and say the first kings were hallowed there; the library keeps that as legend.
 
-In 480 BF, the year of [[lore-stndrdmdhv|the standardization at Madhusthāna]], the kings made [[place-rajapur|Rājapur]] their capital. They cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the new palace, and every king who reigned from Rājapur, the last included, was consecrated at it. The chronicle the library keeps counts its years from M 1, and Rājapur's recitation speaks of the line as though it began at that altar.
+In 480 BF, the year of [[lore-stndrdmdhv|the standardization at Madhusthāna]], the kings made [[place-rajapur|Rājapur]] their capital. They cut [[place-sandstonealtr|the sandstone altar]] of [[affiliation-vyalendra|Vyālendra]] in the temple beside the new palace, and every king who reigned from Rājapur, the last included, was consecrated at it. The chronicle the library keeps counts its years from the first year of the count, and Rājapur's recitation speaks of the line as though it began at that altar.
 
 From Rājapur the kings held the upper river and its fields for two and a half centuries more. It was a middling kingdom of the early classical period: a respectable army, a great deal of temple patronage, and several monarchs the chronicles hold up as exemplary. The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahānadi]] names those just kings at their places before it reaches the six who end the line—a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant and a drunkard. The second of them, whom the chronicle names **Dandavīra**, destroyed a rising of the upper-river villages and forbade the pyre to their dead ([[lore-unburnford|the Unburned Ford]]), and the ford is [[place-oluratarna|Olūratarana]] still.
 
 ## The Forty Days
 
-The end came in M 240, which is 241 BF by the western count. There was famine in the villages and grain in the palace, and the drunkard's household guard opened the royal granaries and took from them while he looked on. Then the king died without an heir of his body. The chronicle enters the death and not its manner; that his own cook poisoned him is tradition, and the recitation says so when it tells it.
+The end came in the first year of the Age of Copyists, 1 AC, which is 241 BF by the western count. There was famine in the villages and grain in the palace, and the drunkard's household guard opened the royal granaries and took from them while he looked on. Then the king died without an heir of his body. The chronicle enters the death and not its manner; that his own cook poisoned him is tradition, and the recitation says so when it tells it.
 
 The people of the villages went to the senior priest of the Vyālendra temple and asked him to convene a sabhā. They asked for no king. The sabhā sat in the great hall before the altar for forty days, and on the fortieth it declared the kingdom dissolved and the line ended, with full honors to the line for its better generations. Each clause of the decree settled what to keep and what to unmake:
 

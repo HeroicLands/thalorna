@@ -12,7 +12,6 @@ data:
       precision: decade
       kind: schism
       depth: region
-      era: lore-agepatrons
       sources: [affiliation-adanasreni]
       summary: >-
         The Ādānashrenī cuts off the craft-lines that reject the guild's taboos, chiefly the prohibition on killing during a taking. The lines cut off become the Chinnasūtra. Crowns and councils read a Chinnasūtra killing as a guild killing, and charters have been suspended for it.

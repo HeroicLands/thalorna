@@ -3,26 +3,9 @@ shortcode: hundredcrwn
 name: {full: The Hundred Crowns, aliases: []}
 type: lore
 subType: history
-description: "About 150 to 312 AF: the small kingdoms the notes count by the hundred fight for water, ore and fields; Gomārga breaks its well bargain to pay for a river war and loses it on the Field of Elephants; Chandrapur's temples refuse a king and the Nine Houses take their seats."
+description: "About 150 to 312 AF, 1 HC to 163 HC in the Madhusthāna count: the small kingdoms the notes count by the hundred fight for water, ore and fields; Gomārga breaks its well bargain to pay for a river war and loses it on the Field of Elephants; Chandrapur's temples refuse a king and the Nine Houses take their seats."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: ~150
-      until: ~312
-      precision: century
-      kind: era
-      depth: region
-      sources:
-        - affiliation-bharyastan
-        - affiliation-mrchntclctvvdyr
-        - lore-wellbrk1
-        - lore-fieldelephnt
-        - lore-moonsettle
-      summary: >-
-        The small kingdoms of Vedyara, the hundred crowns of common speech, fight each other for water, ore and fields, and three generations of merchant princes work across them toward the law that becomes the Compact. Gomārga breaks its well bargain for the first time to pay for a river war and loses the war at the plateau's foot on the second shorukshetra. The age ends in Chandrapur, when the temples refuse a claimant and the Nine Houses take their seats.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 "One of the hundred small kingdoms of Vedyara" is still how a Vedyari describes a court of forty people and a fort above each valley, and the phrase comes from this age. In the **Hundred Crowns** the kingdoms really were that many, and they were at war with each other for most of a century and a half: for water on the rivers, for ore in the hills, for fields wherever a field could be taken. Kingdoms absorbed janapadas and released them again, and mountain dynasties rose and fell fast enough that their names changed every few reigns.

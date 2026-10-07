@@ -12,7 +12,6 @@ data:
       precision: century
       kind: founding
       depth: region
-      era: lore-agecopyists
       sources: [affiliation-vindhyalay, place-suryagarha, place-slvrgorges, place-estrnreach]
       summary: >-
         The clans of the northern highlands and the Pass-Shrine line charter a king, Himavīra, to hold the road through Sūryadvāra, build the citadel across its throat and keep its customs. The Martial Council's hall is raised with the citadel. The smithing clans of the Silver Gorges hold that the grant was the road and not the rock on either side of it.
@@ -43,7 +42,6 @@ data:
       precision: century
       kind: founding
       depth: region
-      era: lore-hundredcrwn
       sources: [place-suryagarha, affiliation-vindhyalay]
       summary: >-
         The Priestly Court of Shikharālaya wins a voice the charter had not given it, and its hall is raised at Sūryagarha forty paces from the Martial Council's, two centuries younger. In the same years the Martial Council acclaims a younger brother over the expected heir.

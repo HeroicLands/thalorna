@@ -5,24 +5,7 @@ type: lore
 subType: history
 description: "Vedyara before anyone kept a count of years: the janapada form, Gomārga's law of wells, and the stones nobody laid within memory, ending about 780 BF when the highland temples began keeping an age of their own."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: unknown
-      until: ~-781
-      precision: century
-      kind: era
-      depth: region
-      sources:
-        - lore-janpdform
-        - affiliation-gomarga
-        - place-bowfort
-        - place-chandrapur2
-        - place-himashila
-      summary: >-
-        Everything the janapadas say of themselves and nothing anyone can date: the janapada form, the plateau's law that the crown holds wells and not grass, the unmortared courses under the Bow-Fort and under Chandrapur, the slab at the head of the Chandramahī, and the foothill names older than the classical tongue. The age ends when the highland temples start keeping a reckoning of their own.
-      standing: legendary
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
 The **Unnumbered Age** is everything [[place-vedyarargn|Vedyara]] remembers from before it counted. A Vedyari scholar calls it the age of residue: stones nobody laid within memory, customs nobody can source, and names on the foothills older than the language the scholars write. None of it carries a year, and the [[affiliation-ganakashala|Ganaka-shala]]'s reckoners will not give it one.

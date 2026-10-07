@@ -10,20 +10,25 @@
 
 import assert from "node:assert/strict";
 import test from "node:test";
-import { canonicalYear, check, readTree, stepYears, yearOf } from "./chronology.mjs";
+import { check, readTree, yearOf } from "./chronology.mjs";
+
+const WORLD = { file: "World.md", fm: { type: "place", data: { year: { days: 365 } } } };
 
 const MADHU = {
     file: "Madhu.md",
-    address: "lore-madhu",
-    lineOf: () => null,
     fm: {
         shortcode: "madhu",
+        type: "lore",
+        subType: "calendar",
         data: {
             epoch: "-480.1",
+            months: [{ name: "Long", days: 365 }],
             eras: [
-                { shortcode: "bmc", name: "Before the Count", start: null },
-                { shortcode: "madhavendra", name: "The Madhusthāna Count", start: 1 },
+                { shortcode: "before", name: "Before the Count", abbreviation: "BC", start: null },
+                { shortcode: "kings", name: "The Kings", abbreviation: "AK", start: 1 },
+                { shortcode: "copyists", name: "The Copyists", abbreviation: "AC", start: 240 },
             ],
+            formats: { std: "D MMMM [yearInEra] GGG" },
         },
     },
 };
@@ -33,47 +38,38 @@ function note(shortcode, events) {
     return {
         file: `${shortcode}.md`,
         address: `lore-${shortcode}`,
-        lineOf: () => null,
         fm: { shortcode, type: "lore", subType: "history", data: { events } },
     };
 }
 
-const ERA = note("agekings", [{ when: -480, until: -241, kind: "era", depth: "region" }]);
-
-/** The findings for a tree of the given history notes and the one calendar. */
+/** The findings for a tree of the given history notes, the one calendar and the world. */
 function run(...history) {
-    return check({ history, calendars: [MADHU] });
+    return check({ history, calendars: [MADHU], world: [WORLD] });
 }
 
 test("the content tree's chronology is consistent", () => {
     assert.deepEqual(check(readTree()), []);
 });
 
-test("a canonical year steps over zero", () => {
+test("a date's year is read as written", () => {
     assert.equal(yearOf("~-300"), -300);
     assert.equal(yearOf("720.136"), 720);
     assert.equal(yearOf("unknown"), null);
-    assert.equal(stepYears(-1, 1), 1);
-    assert.equal(canonicalYear(-480, 1), -480);
-    assert.equal(canonicalYear(-480, 240), -241);
-    assert.equal(canonicalYear(-480, 481), 1);
-    assert.equal(canonicalYear(-480, 1200), 720);
-    assert.equal(canonicalYear(-2110, 2378), 268);
 });
 
 test("a clean tree has no findings", () => {
     assert.deepEqual(
         run(
-            ERA,
+            note("start", [{ when: -480, stated: { calendar: "madhu", text: "1 AK" } }]),
             note("forty", [
                 {
                     when: -241,
-                    stated: { calendar: "madhavendra", text: "M 240" },
-                    era: "lore-agekings",
+                    stated: { calendar: "madhu", text: "1 AC" },
                     depth: "region",
                     names: [{ name: "the Forty Days" }],
                 },
             ]),
+            note("after", [{ when: 5, stated: { calendar: "madhu", text: "246 AC" } }]),
         ),
         [],
     );
@@ -90,35 +86,27 @@ test("depth-is-closed", () => {
 });
 
 test("stated-calendar-resolves", () => {
-    const [found] = run(note("lost", [{ when: 5, stated: { calendar: "nowhere", text: "N 5" } }]));
+    const [found] = run(note("lost", [{ when: 5, stated: { calendar: "nowhere", text: "5 AC" } }]));
     assert.match(found, /stated-calendar-resolves/u);
 });
 
-test("stated-agrees: the count read with a year zero is one year off", () => {
+test("stated-agrees: a year counted with a year zero is one year off", () => {
+    const [found] = run(note("off", [{ when: -240, stated: { calendar: "madhu", text: "1 AC" } }]));
+    assert.match(found, /stated-agrees: "1 AC" in madhu is not the year/u);
+});
+
+test("stated-agrees: a text the calendar cannot read", () => {
     const [found] = run(
-        note("off", [{ when: -240, stated: { calendar: "madhavendra", text: "M 240" } }]),
+        note("bad", [{ when: -241, stated: { calendar: "madhu", text: "M 240" } }]),
     );
-    assert.match(found, /stated-agrees: "M 240" is -241/u);
+    assert.match(found, /stated-agrees: "M 240" does not read/u);
 });
 
-test("era-resolves", () => {
-    const [found] = run(note("orphan", [{ when: -300, era: "lore-nosuchera" }]));
-    assert.match(found, /era-resolves/u);
-});
-
-test("within-era", () => {
-    const [found] = run(ERA, note("late", [{ when: -200, era: "lore-agekings" }]));
-    assert.match(found, /within-era: `when: -200`/u);
-});
-
-test("within-era reads an event's until", () => {
-    const [found] = run(ERA, note("long", [{ when: -300, until: -100, era: "lore-agekings" }]));
-    assert.match(found, /within-era: `until: -100`/u);
-});
-
-test("era-is-ordered", () => {
-    const [found] = run(note("backward", [{ when: 100, until: 50, kind: "era" }]));
-    assert.match(found, /era-is-ordered/u);
+test("stated-agrees reads no text without a year", () => {
+    assert.deepEqual(
+        run(note("zero", [{ when: -480, stated: { calendar: "madhu", text: "the first day" } }])),
+        [],
+    );
 });
 
 test("one-date-per-event", () => {

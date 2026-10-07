@@ -3,30 +3,12 @@ shortcode: agekingdoms
 name: {full: The Age of Kingdoms, aliases: []}
 type: lore
 subType: history
-description: "From the standardization at Madhusthāna in 480 BF to the forty-day sabhā of 241 BF: Rājapur raised, the just kings and the six, the first shorukshetra at the Unburned Ford, and the kindling of the Agnī-panthā."
+description: "480 to 242 BF, 1 AK to 239 AK in the Madhusthāna count, from the standardization at Madhusthāna to the eve of the forty-day sabhā: Rājapur raised, the just kings and the six, the first shorukshetra at the Unburned Ford, and the kindling of the Agnī-panthā."
 tags: [history, vedyara]
-data:
-  packFolder: vedyara
-  events:
-    - when: -480
-      until: -241
-      stated: {calendar: madhavendra, text: "M 1"}
-      precision: year
-      kind: era
-      depth: region
-      sources:
-        - lore-stndrdmdhv
-        - lore-mhndkngdm
-        - lore-rcitkngsmhnd
-        - lore-unburnford
-        - lore-kindlford
-      summary: >-
-        The scholars' own name for the age between M 1 and M 240. Madhusthāna is raised and the classical tongue fixed, the Mahānadī kings move to Rājapur and cut the altar, and kingdoms absorb janapadas. The just kings of the recitation reign, then the six; the second of the six refuses the pyre to a rebel host at a ford of the upper river and makes the first shorukshetra, and the Agnī-panthā is kindled on it. It ends with the famine and the forty-day sabhā.
-      standing: attested
-      where: {locus: [place-vedyarargn]}
+data: {packFolder: vedyara}
 ---
 
-Every Vedyari student of political philosophy learns the **Age of Kingdoms** by its last forty days, and that is a pity, because the two and a half centuries before them are the age the classical tongue was written in. The name is the scholars' own, from the [[skill-vedyarlng|Vedyari]] grammars: it runs from M 1 to M 240, 480 to 241 BF.
+Every Vedyari student of political philosophy learns the **Age of Kingdoms** by the forty days that ended it, and that is a pity, because the two and a half centuries before them are the age the classical tongue was written in. The name is the scholars' own, from the [[skill-vedyarlng|Vedyari]] grammars: it is the first age of [[lore-mdhvndrcnt|the Madhusthāna count]], 1 AK to 239 AK, which is 480 to 242 BF.
 
 ## What Happened
 
@@ -51,7 +33,7 @@ The recitation names the six by their vices and never by name; Dandavīra's name
 
 ## Its End
 
-In M 240 the drunkard died without an heir in a famine, after his guard had opened the royal granaries, and the villages asked a priest for a sabhā and no king. [[lore-fortydays|The Forty Days]] dissolved the kingdom and opened the [[lore-agecopyists|Age of Copyists]].
+In the next year, 241 BF, the drunkard died without an heir in a famine, after his guard had opened the royal granaries, and the villages asked a priest for a sabhā and no king. [[lore-fortydays|The Forty Days]] dissolved the kingdom, and the count marks that year as the first of the [[lore-agecopyists|Age of Copyists]], 1 AC.
 
 ## See Also
 
