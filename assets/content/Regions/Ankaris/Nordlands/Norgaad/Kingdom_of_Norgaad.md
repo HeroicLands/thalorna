@@ -89,24 +89,39 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]]. This central location has made Norgaad the traditional meeting ground for inter-kingdom disputes, alliances, and the occasional great moot where all five kingdoms gather to address threats that concern them all.
+"In Norgaad the king does not tell the ting what the law is," the Lawspeaker's apprentice at [[place-asgarthul|Asgarthul]] tells the newcomer beside him while he drills the day's recitation. "The Lawspeaker does, and I am learning to be the one who remembers it after him."
 
-## Character
+The Kingdom of Norgaad holds the land of [[place-norgaad|Norgaad]], at the center of the [[place-nrdlndsrgn|Nordlands]], and about 400,000 people live under its crown, the second most of the five [[lore-nordheimnclt|Nordmen]] kingdoms. Its seat is Asgarthul. Norgaad is considered the most traditional of the five, the heartland of the old ways, and its central position has made it the traditional meeting ground for quarrels between the kingdoms, for their alliances, and for the occasional **Great Moot**, where all five gather to answer a threat that concerns them all. An outsider knows it for its mines, its seers and its moot.
 
-Norgaad is considered the most traditional of the [[lore-nordheimnclt|Nordmen]] kingdoms—the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's ting tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
+## How Norgaad Is Ruled
+
+Norgaad is a hereditary monarchy with a ting tradition, and its ting is the strongest in the north. Its kings are the most constrained by customary law and assembly consensus of any in the Nordlands: the king is chosen from the royal clans and acclaimed at the ting, holds the realm on the assembly's continuing consent, and can be refused his arm-ring when the ting will not hand it back. The same layers of standing that hold the other kingdoms hold this one. A _jarl_ holds a province by the king's grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance and speaks at the ting in his own name.
+
+Of the king's household, the _Lawspeaker_ matters most here. He keeps the law in memory and recites it at the assembly, and in Norgaad his is the voice that can call the Great Moot at Asgarthul when a kingdom wants a meeting between the septennial sittings of the **King of All Clans** on [[place-domsey|Dómsey]]. On Dómsey, Norgaad's king takes one seat and its jarls five, and the kingdom holds that five seats undercount a realm of four hundred thousand.
+
+The crown carries one open question of right. A king's brother led an expedition up the road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]] thirty-two years ago, seeking mithral, and he and most of his forty companions never came back; the loss sustains a claim that the brother's line had the better right to the crown. The account is in [[lore-nrgadhstry|Histories and Legends of Norgaad]].
+
+## The People and the Old Ways
+
+Norgaad's people are herders, hunters and miners more than sailors, though the coastal settlements keep respectable fleets. [[place-thraskvik|Thraskvík]] builds the longships the kingdom is famous for, and [[place-vrathavn|Vrathavn]], its principal port on the southern coast, keeps a garrison of professional warriors, the closest thing Norgaad has to a standing army. In the interior, [[place-flarnbrekka|Flarnbrekka]] works silver ore out of a frost-split mountainside, and the miners of [[place-skulfheim|Skulfheim]] knock on their timber and listen before they enter a gallery. [[place-tvarnmark|Tvarnmark]] is a stone-built trade town of weavers and merchant families, and [[place-hvarnvik|Hvarnvík]] has the one harbor that stays open through winter.
+
+The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]], and the kingdom's völvur, its seers and shamans, are the most powerful and respected in the north. The seidr of [[place-gnaldrfjord|Gnaldrfjord]] receives pilgrims from across the kingdom, and at [[place-holafell|Holafell]] stands the oldest hof of [[lore-hrimthurspr|Hrímthur]], where the Wound is renewed at the turn of every winter.
 
 ## Relations
 
-Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace. When the [[place-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. This diplomatic role gives Norgaad influence beyond its military strength, and its kings have historically been among the most politically skilled of the Nordmen rulers.
+Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace, and when the [[place-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. The role gives the kingdom influence beyond its military strength, and its kings have been among the most politically skilled of the Nordmen rulers. Norgaad is unaligned with each of its four sister kingdoms, Nordheim, Malagna, [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]].
 
 ## Commerce and Currency
 
-Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the [[place-nrdlndsrgn|Nordlands]]. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Norgaad's iron and silver mines are the richest in the north, which makes it the wealthiest kingdom in raw resources, if not in trade. A district's officer weighs each camp's ore against what the king's smiths at Asgarthul are owed, and the road from the mountains carries iron, timber and salt south to the market at Tvarnmark.
+
+The kingdom strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian coinage]] (aurion, argo and bit), and no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Nordlands. Vylarian paper is _not_ honored here, so a traveler's note has to be exchanged for coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 
-- [[place-norgaad|Norgaad]]—The land the kingdom holds
+- [[place-norgaad|Norgaad]]—the land the kingdom holds
+- [[place-asgarthul|Asgarthul]]—the seat, where the Great Moot meets
 - [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the kingdom's remembered past
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
-- [[place-grkrhlmrgn|Grukarholm Region]]—Eastern threat
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]]—the pantheon
+- [[place-grkrhlmrgn|Grukarholm Region]]—the eastern threat

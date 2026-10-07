@@ -5,18 +5,31 @@ type: place
 subType: settlement
 description: "Market Town / Seat of Local Nobility"
 tags: [town, market]
-data: {demonym: null, lore: [], parents: [norgaad], population: 400, packFolder: norgaad}
+data:
+  demonym: null
+  lore: []
+  parents: [norgaad]
+  population: 400
+  packFolder: norgaad
+  government: kingdmnrgd
 ---
 
 ## Overview
 
-Asgarthul sits in the rolling heartland of central [[place-norgaad|Norgaad]], a prosperous settlement of perhaps 400 souls built around the hall of a powerful local jarl. The name—[[place-asguard|Asguard]]'s Hall—reflects the jarl's pretensions and his devotion to the old gods, though whether he truly believes in such apotheosis or merely enjoys the grandeur of the name is a matter of local speculation. The settlement is ringed by farmland that produces extraordinary crops by northern standards, and the fertile river valley has made Asgarthul a natural gathering place for the scattered inland communities.
+"Ask what the name means and you will get a smile before you get an answer," a clerk of the market tells a southern buyer who has just come in from the road. The name is [[place-asguard|Asguard]]'s Hall. It reflects the jarl's pretensions and his devotion to the old gods, and whether he believes he has earned such a name or merely likes the grandeur of it is a matter of local speculation.
 
-The jarl's hall dominates the settlement, a structure of impressive timber construction with high carved rafters and a reputation for lavish hospitality. It is here that alliances are forged, disputes are settled, and the great feasts of the year are held. The jarl is known for his appreciation of craftsmanship and beauty—unusual in Norgaad—and he has commissioned works of extraordinary artistry. Most famously, he commissioned a wedding gown of such intricacy that it became the talk of three kingdoms, sewn from linen and silk with embroidery so fine it seemed to contain the light of the northern stars. The craftspeople who created such masterworks have made Asgarthul a destination for those seeking the finest handiwork.
+Asgarthul sits in the rolling heartland of central [[place-norgaad|Norgaad]], a prosperous settlement of perhaps 400 people built around that jarl's hall. It is the seat of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]], and Norgaad's Lawspeaker can call the **Great Moot** here. The farmland around it produces extraordinary crops by northern standards, and the fertile river valley has made the town a natural gathering place for the scattered inland communities.
 
-The settlement functions as a market town and administrative center for the inland regions, with a permanent fair-ground where goods are traded year-round. The combination of nobility, commerce, and a reputation for patronage of the arts gives Asgarthul a character distinct from other Norgaad settlements—more refined, perhaps, but no less fierce in its loyalties.
+## The Hall
+
+The jarl's hall dominates the settlement: a timber structure with high carved rafters and a reputation for lavish hospitality. Alliances are forged here, disputes are settled, and the great feasts of the year are held. The jarl values craftsmanship and beauty, which is unusual in Norgaad, and he has commissioned works to match. The most famous is a wedding gown of linen and silk, embroidered so finely that it seemed to hold the light of the northern stars, and it became the talk of three kingdoms. The craftspeople who made it have turned Asgarthul into a destination for anyone seeking the finest handiwork.
+
+## The Fair-Ground
+
+Asgarthul is a market town and the administrative center for the inland regions, with a permanent fair-ground where goods are traded year-round. Nobility, commerce and patronage of the arts together give it a character distinct from the other settlements of Norgaad: more refined, but no less fierce in its loyalties.
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—[[lore-nordheimnclt|Nordmen]] seafaring kingdom
-- [[affiliation-asguardian|Asguardian Pantheon]]—Gods of the north
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose seat it is
+- [[place-norgaad|Norgaad]]—the land the town stands in
+- [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north

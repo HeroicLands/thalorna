@@ -10,13 +10,13 @@ data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: 
 
 ## Overview
 
-Wildwood Manor stands above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]], the seat of **Lady Elenora of Wildwood Manor**. Below it the village lives on fish; behind it the manor's forest climbs from the house to the high ground, and the forest is what the manor is for.
+Above the fishing village of [[place-thraldfjord|Thraldfjord]] in [[place-nordheim|Nordheim]] stands Wildwood Manor, the seat of **Lady Elenora of Wildwood Manor**. The village below lives on fish. Behind the manor a forest climbs from the house to the high ground, and the forest is what the manor is for.
 
 ## The Forest and Its Keeper
 
-For fifteen years the forest has been kept by the lady's chief huntsman, [[being-gnrthrvsnrvrkh|Gnarthorv Snarvarukh]], a fisherman's son of Thraldfjord who preferred the wood and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge carries, and which stands can be hunted this year and which must be left; he keeps the manor's table in game and its guests in sport, and he ranks in the lady's retinue just below her steward. The clans of the fjord bring him their hunting quarrels.
+For fifteen years the forest has been kept by the lady's chief huntsman, [[being-gnrthrvsnrvrkh|Gnarthorv Snarvarukh]], a fisherman's son of Thraldfjord who preferred the wood and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge carries, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport, and he ranks in the lady's retinue just below her steward. The clans of the fjord bring him their hunting quarrels.
 
-Lady Elenora brings guests to Wildwood Manor to hunt, and Gnarthorv guides them, outfits them, and—when the season or the ground demands it—refuses them. He serves Lady Elenora because she lets him keep the forest his way, for the manor after him.
+Lady Elenora brings guests to Wildwood Manor to hunt, and Gnarthorv guides and outfits them and, when the season or the ground demands it, refuses them. He serves her because she lets him keep the forest his own way, and keep it for the manor after him.
 
 ## See Also
 
