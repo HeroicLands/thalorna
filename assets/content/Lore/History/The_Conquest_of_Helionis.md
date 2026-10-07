@@ -73,8 +73,8 @@ data:
         - what the standing appropriation was keeping, which the chancery's own word for it does not say
 ---
 
-The Vylarian Republic turned its legions against the Helionite city-states in 335 BF and took the
-last of them twenty-three years later. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
+In 335 BF the Vylarian Republic turned its legions against the Helionite city-states, and twenty-three years later it took
+the last of them. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own
 city-states could not fully control. The [[affiliation-panepistmm|Epistemium]], which had theorized
@@ -88,7 +88,7 @@ that arm is [[lore-thebargain|a separate matter]], and it is not in any account 
 
 The last city fell in 312 BF.
 
-What the Senate made afterward was not a college but a **magistracy**. The
+What the Senate made afterward was a _magistracy_. The
 **Praefectura Arcana** held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under a prefect who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property, lent out to whoever the Senate

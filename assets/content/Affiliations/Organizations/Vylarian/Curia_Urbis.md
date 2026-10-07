@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 
 ## The Courts of Magnápolis
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall**—its administration, its courts, its Watch, and its daily supply—is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall**—its administration, its courts, its Watch, and its daily supply—is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **Officia Imperii** compound, answerable to the Augustar, the emperor, alone.
 
 ### The Curia Urbis—the Council of the City
 
@@ -70,6 +70,8 @@ The chair rotates among them so that none becomes "the" head of the city, and th
 
 Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|City Watch]] enforces and investigates; it does not judge. Judgment belongs to the courts.
 
+A ward clerk of the Aediles, asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the Aedile of their ward. Everything above him is something that happens to somebody else."
+
 - **The Aediles**—the magistrates of the wards, and the only court most Magnápolitans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
 - **The Iudicia**—the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Iudices** drawn from the propertied orders, the weightier disputes before panels.
 - **The Criminal Tribunal**—for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the arena and the executioner.
@@ -78,13 +80,13 @@ Appeals, and the gravest civic cases, rise to the **Curia Urbis** sitting as a b
 
 ### The Imperial Tribunals
 
-Entirely separate from the civic courts stand the **imperial tribunals**—the courts of the throne itself. They sit within the Inner City, in the [[affiliation-aerarimmpr|Officia Imperii]], the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Augustar and his appointed judges, never to the Curia Urbis.
+Entirely separate from the civic courts stand the **imperial tribunals**—the courts of the throne itself. They sit within the Inner City, in the Officia Imperii, the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Augustar and his appointed judges, never to the Curia Urbis.
 
 Their jurisdiction is everything the civic courts cannot touch. Any matter involving a member of the nobility, any cause touching the [[affiliation-curiavylar|Senate]] or the imperial house, the great suits between provinces and crowns, and **treason** above all, are imperial business from the first moment—and a case can be lifted out of the civic courts into the imperial tribunals at the throne's word. For senatorial persons in the gravest matters, judgment may rise higher still, to the [[affiliation-curiavylar|Curia Vylaria]] itself. To be summoned from the Aediles' bench to the Officia is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
 ### The Reach of Influence
 
-For all its tiers and titles, the law of Magnápolis runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse, or the right patron finds the courts remarkably accommodating; one without learns how heavy they can be. The Aediles are famously bribable; a Curator's favor can move a case between courts or bury it in the Officia's bottomless archives; and the perpetual rivalry of the Curia Urbis means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move remarkably fast for the right consideration. Justice is real in Magnápolis—but it is also, always, a currency.
+For all its tiers and titles, the law of Magnápolis runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The Aediles are famously bribable; a Curator's favor can move a case between courts or bury it in the Officia's bottomless archives; and the perpetual rivalry of the Curia Urbis means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Magnápolis—but it is also, always, a currency.
 
 ### See Also
 

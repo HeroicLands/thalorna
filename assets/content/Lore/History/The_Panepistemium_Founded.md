@@ -49,7 +49,7 @@ data:
       unresolved: []
 ---
 
-The most significant of the Helionite institutions was the
+The most significant of the [[place-helionis|Helionite]] institutions was the
 [[affiliation-panepistmm|Panepistēmion]]—the _place of all knowledge_, which Vylarian tongues
 later wore down to the Panepistemium and the Common tongue calls simply the Academy of Knowledge.
 
