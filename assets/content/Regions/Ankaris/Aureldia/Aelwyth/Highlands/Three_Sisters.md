@@ -67,7 +67,7 @@ because the Migration had run out of land against the western coast and there wa
 
 It should be understood what that means.
 
-Aelwyth lies something like a hundred and twenty sea-miles off the coast. That is not a distance
+Aelwyth lies something like two hundred and thirty sea-miles off the coast. That is not a distance
 barbarian peoples cross—not in the craft they had, not with families and stock aboard, not without
 pilots or charts or any notion of what the weather does out there. The early Pelwar had come as
 **passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 1200 BF
@@ -80,7 +80,7 @@ never accounted for by anybody.
 
 Which is the fact that ought to govern any judgment of what followed. **Tens of thousands arrived**, and
 that means something on the order of a hundred thousand set out. They were not a host and not an
-expedition. They were the surviving third of a people who had looked at a hundred and twenty miles of
+expedition. They were the surviving third of a people who had looked at two hundred and thirty miles of
 open sea with families in tow and concluded it was the _better_ option.
 
 Nobody attempts that crossing unless staying is worse. What was behind them was worse. And behind the Pelwar, in smaller numbers but not small enough, came the

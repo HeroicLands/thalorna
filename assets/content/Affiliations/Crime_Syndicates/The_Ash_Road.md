@@ -81,7 +81,7 @@ Where the coastal syndicates fight over harbors and docks, the Ash Road commands
 
 ## Territory
 
-**Primary:** Varoshan (the crossroads where Harad's coast meets the overland routes), the Dunhari caravan routes, the Khazryn Desert approaches, Khelathu's desert border
+**Primary:** Varoshan (the Haradian island port where goods from the overland routes come over the strait), the Dunhari caravan routes, the Khazryn Desert approaches, Khelathu's desert border
 
 **Secondary:** Trading posts and caravanserais along the major overland routes. The Road maintains agents in Haradian ports (especially Varoshan and Kethara) where overland goods meet maritime shipping, and in Khelathu's delta cities where stolen antiquities find wealthy buyers.
 

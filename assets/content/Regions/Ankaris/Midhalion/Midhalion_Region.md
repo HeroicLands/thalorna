@@ -24,12 +24,13 @@ A supercargo who has ridden merchant hulls along both shores puts it to a newcom
 
 The region takes its shape from the [[place-vylarianse|Vylarian Sea]] and the coasts that enclose it.
 
-- **The northern, Ankarian shore** holds [[affiliation-vylarinmpr|Vylaria]] and the territories it still claims; the independent successor-states of [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]; the city-states of [[place-heladrgn|Hellád]], philosophical [[affiliation-ctysttshlns|Heliónis]] and the merchant cities of the [[affiliation-byzarianlg|Byzarian League]]; and the [[affiliation-cnfdrtnhrdnstts|Haradian]] lands toward the eastern sea. The western Aurèldían realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
+- **The northern, Ankarian shore** holds [[affiliation-vylarinmpr|Vylaria]] and the territories it still claims; the independent successor-states of [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]; and the city-states of [[place-heladrgn|Hellád]], philosophical [[affiliation-ctysttshlns|Heliónis]] and the merchant cities of the [[affiliation-byzarianlg|Byzarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aurèldían realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
+- **The eastern shore** holds the [[affiliation-sultntmrdd|Sultanate of Amradad]], the Āsháian sultanate of the north-western Dunhara, and off it the islands of the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago.
 - **The southern, Xerathian shore** holds the ancient [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the three-flamed kingdom of [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 
 These polities share no sovereign, no law and no faith. What they share is the sea, and three millennia of commerce and quarrel across it are what make Mídhalión one place.
 
-Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of Heliónis, the great river of Aû'Khelâthu, and the dryland grain belts of Harad and Bethua. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
+Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of Heliónis, the great river of Aû'Khelâthu, the dryland farms of the Haradian islands, and the grain belts of Bethua. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
 
 ## Peoples and Culture
 
@@ -41,7 +42,7 @@ The ports have more in common with each other than with the land behind them. A 
 
 ## Religion
 
-Ask a dock-porter in any large port which gods are honored there, and the honest answer is all of them that trade into the harbor. On the northern shore the [[affiliation-arldnpnthn|Aurèldían Pantheon]] dominates, though Heliónis and the Haradian archipelago keep their own denominational variants, and the [[affiliation-ashanpnthn|Āsháian]] faith is a substantial minority along the eastern shore. On the southern shore the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu and the [[affiliation-nkaruthar|Nkaru'thar]] faith of Okháris dominate, with the matriarchal religion of Bethua as a distinct third tradition.
+Ask a dock-porter in any large port which gods are honored there, and the honest answer is all of them that trade into the harbor. On the northern shore the [[affiliation-arldnpnthn|Aurèldían Pantheon]] dominates, though Heliónis and the Haradian archipelago keep their own denominational variants. On the eastern shore the [[affiliation-ashanpnthn|Āsháian]] faith of the Sultanate of Amradad dominates, and it is a substantial minority in the Haradian islands. On the southern shore the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu and the [[affiliation-nkaruthar|Nkaru'thar]] faith of Okháris dominate, with the matriarchal religion of Bethua as a distinct third tradition.
 
 The great ports house temples of every major faith that trades there, and shrines for the faiths too small to keep a temple. Coexistence rests on commercial necessity: nobody antagonizes a partner whose ships fill the harbor. It is not agreement. Aurèldían priests and Khelâthi hierophants each hold the other sincerely wrong, but riot and persecution over religion are much rarer in Mídhalión than in the interiors of most of its polities.
 
@@ -70,7 +71,7 @@ All of it is taxed, transshipped and marked up on the way, and the port cities a
 
 ## Relations with Neighboring Regions
 
-Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it reaches the far-eastern empire of [[place-tanvuregin|Tānvür]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
+Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]], whose Sultanate of Amradad holds the eastern shore, and [[place-vedyarargn|Vedyara]] to the east. Through the Byzarian League and the Khazryn it reaches the far-eastern empire of [[place-tanvuregin|Tānvür]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 

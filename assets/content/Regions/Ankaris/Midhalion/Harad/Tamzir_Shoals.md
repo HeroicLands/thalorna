@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 0, packFolder
 
 ## Overview
 
-The Tamzîr Shoals lie in the channels of the **Haradian archipelago**, the chain of islands divided from the mainland of [[place-haradregin|Harad]] by a strait, and every pilot on the coast gives a newcomer the same first warning about them: do not take a deep-keeled ship into those waters without someone aboard who knows them. The Shoals are a maze of sandbars, submerged rocks and hard currents, and a ship that does not know the channels finds the sand.
+The Tamzîr Shoals lie in the channels of the **Haradian archipelago**, the islands of [[place-haradregin|Harad]] that lie across a strait from the Amradi coast, and every pilot on the coast gives a newcomer the same first warning about them: do not take a deep-keeled ship into those waters without someone aboard who knows them. The Shoals are a maze of sandbars, submerged rocks and hard currents, and a ship that does not know the channels finds the sand.
 
 ## The Battle of Tamzîr Shoals
 

@@ -25,7 +25,7 @@ The region shares its language family, its pantheon and its alphabet with [[plac
 
 Byzaría rises in three steps from the sea.
 
-The coast, along the northern shore of the Vylarian Sea, is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its islands and straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
+The coast is short: Byzaría reaches the Vylarian Sea only at its western end, beside Heliónis and opposite the Haradian islands. It is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
 
 The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds of sheep, goats and horses move between seasonal pastures and the villages grow hardy grain in the valley bottoms. The coastal hills climb to it in a series of escarpments, and [[affiliation-altinkale|Altinkale]], the League's capital, sits at the seam where the lowland road from Denizara reaches the plateau's edge. In the lusher valleys of the plateau's eastern hills lies [[affiliation-yesilhan|Yeşilhan]], the caravan city where the roads east and south divide. On the arid highland inland from Denizara sprawls [[place-nekropolis|Nékropolis]], the city of the dead, where every great house of the League keeps its tombs.
 
@@ -37,7 +37,7 @@ Between the great cities lie the lesser towns: [[place-byzaris|Byzaris]], the ar
 
 The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Gümüşhisar.
 
-- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Gümüşhisar, facing the Khazryn steppe and the hinterland of [[affiliation-cnfdrtnhrdnstts|Harad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
+- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Gümüşhisar, facing the Khazryn steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Yeşilhan, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
 - The [[place-northrnmrch|Northern March]] is the upland frontier toward Velanthia, along which the grain that feeds the coastal cities comes down. It is the quietest of the three and the one the council thinks about least.
 
@@ -85,9 +85,9 @@ To the north, across the uplands of the Northern March, lies [[place-velanthrgn|
 
 To the east, beyond Gümüşhisar's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe confederations that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
 
-To the south and east, where the coast bends toward the eastern shore of the Vylarian Sea, lies [[affiliation-cnfdrtnhrdnstts|Harad]]—the League's great rival at sea and its nearest neighbor on land—and beyond Harad's hinterland the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March.
+To the south, along the whole of the League's southern border, lies the Sultanate of Amradad, which holds the eastern shore of the Vylarian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtnhrdnstts|Harad]], the League's great rival at sea.
 
-To the south, across the sea, lies the [[place-midhalnrgn|Mídhalión]] basin and the coasts of [[place-xerathia|Xerathia]], with which Denizara's captains have traded for a thousand years.
+Across the sea beyond the Haradian islands lie the coasts of [[place-xerathia|Xerathia]], with which Denizara's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Mídhalión]].
 
 ## See Also
 
@@ -100,4 +100,6 @@ To the south, across the sea, lies the [[place-midhalnrgn|Mídhalión]] basin an
 - [[place-helionis|Heliónis]]—western neighbor
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern neighbor
 - [[place-velanthrgn|Velanthia Region]]—northern neighbor
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], [[place-dunharargn|Dunhara Region]]—southeastern neighbors
+- [[affiliation-sultntmrdd|Sultanate of Amradad]]—southern neighbor
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the islands off its coast
+- [[place-dunharargn|Dunhara Region]]—the caravan country beyond Amradad

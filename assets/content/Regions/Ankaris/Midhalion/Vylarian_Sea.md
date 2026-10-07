@@ -27,12 +27,13 @@ A sailing master out of [[place-mercavia|Mercavia]] gives every new hand the sam
 
 The sea is a long east-west ellipse, wider at its eastern and western ends and narrow in the middle, where the peninsulas of [[place-provenzrgn|Provènzia]] and northern [[affiliation-empireakhlth|Aû'Khelâthu]] reach toward each other and leave a chain of islands between them.
 
-| Shore    | Held by                                                                                                                                                                                          |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Northern | [[affiliation-vylarinmpr\|Vylaria]], [[place-provenzrgn\|Provènzia]], [[place-tarvenirgn\|Tarvénia]], [[place-helionis\|Heliónis]] and the [[affiliation-cnfdrtnhrdnstts\|Haradian]] archipelago |
-| Southern | The [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]], [[affiliation-okharis\|Okháris]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                               |
+| Shore    | Held by                                                                                                                                                                                |
+| -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Northern | [[affiliation-vylarinmpr\|Vylaria]], [[place-provenzrgn\|Provènzia]], [[place-tarvenirgn\|Tarvénia]], [[place-helionis\|Heliónis]] and the [[affiliation-byzarianlg\|Byzarian League]] |
+| Eastern  | The [[affiliation-sultntmrdd\|Sultanate of Amradad]], and off it the [[affiliation-cnfdrtnhrdnstts\|Haradian]] archipelago                                                             |
+| Southern | The [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]], [[affiliation-okharis\|Okháris]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                     |
 
-Hundreds of islands stud the sea. The largest—the Haradian home archipelago, the islands off Heliónis, and the [[place-aelwyth|Misty Isle]] far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
+Hundreds of islands stud the sea. The largest—the Haradian archipelago and the [[place-aelwyth|Misty Isle]] far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
 
 The **western strait**, between [[place-tarvenirgn|Tarvénia]] and the Xerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Mídhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
 
@@ -79,6 +80,7 @@ Sailors are practical polytheists. They honor whichever god of the sea seems lik
 - [[place-midhalnrgn|Mídhalión Region]]—the region the sea holds together
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the northern imperial power
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the eastern naval power
+- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the eastern shore
 - [[affiliation-bethuanflt|Bethûan Fleet]]—the southern raiders
 - [[place-helionis|Heliónis]]—central intellectual and maritime presence
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—dominant southern-shore power

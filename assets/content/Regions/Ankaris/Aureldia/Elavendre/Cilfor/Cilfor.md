@@ -50,8 +50,8 @@ it before Béravel took much notice.
 
 - **Fish, and a great deal of it.** Cold northern water and a sheltered bay make the best fishery in
   Élavendre. Salt-fish and oil go south to Tirwen and out through Calypsa.
-- **Calypsan transit.** [[affiliation-calypsa|Calypsa]] lies some forty miles north-north-west off the
-  coast, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
+- **Calypsan transit.** [[affiliation-calypsa|Calypsa]] lies some seventy-five miles off the coast
+  to the north, just outside the mouth of the bay, and a great deal of Élavendre's northern trade is handled
   through it—including goods nobody wishes to declare.
 - **Timber and pitch** from the coastal forest, for the shipyards.
 - **Furs**, most of which are not Élavendren. They come across the bay in small boats, traded quietly

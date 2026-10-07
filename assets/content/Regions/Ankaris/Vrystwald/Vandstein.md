@@ -12,7 +12,7 @@ data:
   borders: [{to: vylariargn, bearing: SE}]
   routes:
     - {to: skathwald, bearing: NW, mode: land, days: 45, terrain: [mountains, forest]}
-    - {to: vrystwald, bearing: NW, mode: land, days: 90, terrain: [forest, mountains]}
+    - {to: vrystwald, bearing: NW, mode: land, days: 20, terrain: [forest, mountains]}
   packFolder: vrystwald
 ---
 

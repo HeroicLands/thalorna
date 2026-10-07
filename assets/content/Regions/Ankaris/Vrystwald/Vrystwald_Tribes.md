@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: [varokhlng]}}
 
 ## Overview
 
-The Vrystwald Tribes are the [[lore-varokhiclt|Varokh]] clans and villages of the vast forests between the [[lore-nordheimnclt|Nordmen]] kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
+The Vrystwald Tribes are the [[lore-varokhiclt|Varokh]] clans and villages of the dense forests between the [[lore-nordheimnclt|Nordmen]] kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
 
 ## Government
 
