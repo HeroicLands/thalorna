@@ -17,49 +17,69 @@ data:
 # terran_analog: The Mediterranean Sea
 ---
 
-The Vylarian Sea is the great inland sea at the heart of [[place-midhalnrgn|Mídhalión]]—the body of water around which the central civilizations of Thalorna have arranged themselves for three thousand years. Enclosed by [[place-ankrscntnnt|Ankaris]] to the north and [[place-xerathia|Xerathia]] to the south, and open to the ocean only through a narrow western strait, the sea is simultaneously a highway, a frontier, a marketplace, and a battleground. Every empire that has sought to dominate the central continents has sought first to dominate it, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself in part by its relationship to these waters.
+For three thousand years the central civilizations of Thalorna have arranged themselves around the water at the heart of [[place-midhalnrgn|Mídhalión]], the Vylarian Sea. [[place-ankrscntnnt|Ankaris]] encloses it to the north and [[place-xerathia|Xerathia]] to the south, and it opens on the ocean only through a narrow western strait. It is a highway, a frontier, a marketplace and a battleground at once. Every empire that has tried to dominate the central continents has tried to dominate this sea first, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself partly by how it stands on these waters.
 
-The Vylarian Sea gives its name to the empire that once ruled it, to the region that still bears its economic shape, and to the pidgin-trade language that is spoken in its every port. To sail the Vylarian Sea is to enter the common life of two continents simultaneously.
+The sea gives its name to the empire that once ruled it and to the region that still has its economic shape, and its trade pidgin is spoken in every port. To sail it is to enter the common life of two continents.
+
+A sailing master out of [[place-mercavia|Mercavia]] gives every new hand the same first lesson: "Two winds and one door. In summer the wind comes down from the north and you run west with it; in winter it drops and you work back east. And there is one door to the ocean, at the western strait, and both sides of it are fortified. Whatever your owner tells you about the cargo, those three things decide when and where you are going."
 
 ## Geography
 
-The sea is a long, east-west ellipse—wider at its eastern and western ends, narrower in the center where the peninsulas of [[place-provenzrgn|Provènzia Region]] and northern [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] approach one another and leave a chain of islands between them. The northern shore is held by the Ankarian powers: [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia]], [[place-helionis|Heliónis]], and the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago. The southern shore is held by the great Xerathian civilizations of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
+The sea is a long east-west ellipse, wider at its eastern and western ends and narrow in the middle, where the peninsulas of [[place-provenzrgn|Provènzia]] and northern [[affiliation-empireakhlth|Aû'Khelâthu]] reach toward each other and leave a chain of islands between them.
 
-Hundreds of islands stud the sea. The largest—including the Haradian home archipelago, the islands off Heliónis, and the [[place-aelwyth|Misty Isle]] far to the west—support substantial populations and significant polities of their own. Smaller islands are variously inhabited by fishing communities, religious orders, pirate havens, or nothing at all.
+| Shore    | Held by                                                                                                                                                                                          |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Northern | [[affiliation-vylarinmpr\|Vylaria]], [[place-provenzrgn\|Provènzia]], [[place-tarvenirgn\|Tarvénia]], [[place-helionis\|Heliónis]] and the [[affiliation-cnfdrtnhrdnstts\|Haradian]] archipelago |
+| Southern | The [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]], [[affiliation-okharis\|Okháris]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                               |
 
-The western strait, between [[place-tarvenirgn|Tarvénia]] and the Xerathian coast, is the sea's only connection to the open ocean. The strait is narrow, heavily fortified from both sides, and has been the object of every serious Mídhalion naval strategy for the past six hundred years. Whoever controls the strait controls the sea's access to the wider world—and, consequently, a very large fraction of Thalorna's long-distance maritime trade.
+Hundreds of islands stud the sea. The largest—the Haradian home archipelago, the islands off Heliónis, and the [[place-aelwyth|Misty Isle]] far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
 
-The sea's climate is warm-coastal: hot, dry summers and mild, rainy winters, with the northerly winds of late summer that the Vylarian sailors call the _Aëstrai_ and the Helionites call the _meltemi_. These winds set the shape of the sailing year: east-to-west voyages run with the wind in summer, west-to-east in the calmer winters.
+The **western strait**, between [[place-tarvenirgn|Tarvénia]] and the Xerathian coast, is the sea's only connection to the open ocean. It is narrow and heavily fortified from both shores, and every serious naval plan in Mídhalión for the past six hundred years has turned on it, because whoever holds the strait holds the sea's access to the wider world and a very large share of Thalorna's long-distance trade.
+
+The climate is warm and coastal: hot, dry summers and mild, rainy winters. The northerly winds of late summer, which Vylarian sailors call the _Aëstrai_, set the sailing year. East-to-west voyages run with them in summer, and west-to-east voyages wait for the calmer winters.
 
 ## Peoples and Culture
 
-The Vylarian Sea is genuinely shared between Ankaris and Xerathia—the only body of water in Thalorna of which this is true. Its cultural life reflects the mixing. Sailors speak [[skill-valtarlng|Valtári]] on every dock from Tarvénia to Harad, priests of the Aurèldían, Āsháian, and Khelâthi faiths preach in neighboring quarters of the same port cities, and merchant families maintain branches on both shores with the same unconcern with which a Helionite scholar would maintain a winter house and a summer one.
+The Vylarian Sea is shared between Ankaris and Xerathia, and no other body of water in Thalorna is. Sailors speak [[skill-valtarlng|Valtári]] on every dock from Tarvénia to Harad. Priests of the Aurèldían, Āsháian and Khelâthi faiths preach in neighboring quarters of the same port cities. Merchant families keep branches on both shores as easily as a Helionite scholar keeps a winter house and a summer one.
 
-Port cities on both shores are polyglot, pluralistic, and in some ways more similar to one another than to the interiors of their own regions. A Vylarian sailor and a Khelâthi sailor share more daily culture—the superstitions of the sea, the codes of shipboard discipline, the taste for taverns and brothels that their respective inland kinfolk regard with disapproval—than either shares with an inland landsman of their own nation.
+The port cities on both shores are polyglot and plural, and in some ways closer to one another than to the interiors of their own regions. A Vylarian sailor and a Khelâthi sailor share more of daily life—the superstitions of the sea, the codes of shipboard discipline, and a taste for taverns and brothels that their inland kin disapprove of—than either shares with a landsman of his own nation.
 
 ## Maritime Powers
 
-Three major navies contest the sea. The [[affiliation-vylarinmpr|Vylarian navy]] was once dominant and, despite long decline, remains formidable in home waters; its heavy galleys and the institutional knowledge of its admiralty are not easily replaced. The [[affiliation-cnfdrtnhrdnstts|Haradian fleet]], ascendant since the war of independence, is the most modern navy on the sea—fast, well-led, and politically eager to prove itself. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] maintains a large navy devoted primarily to defending the southern shore and controlling the southern portion of the central narrows; its reach has rarely extended into strategic northern operations.
+Three major navies contest the sea:
 
-Several smaller naval powers matter locally. Foremost among them is the [[affiliation-mtrrchybth|Matriarchy of Bethua]], whose renowned navy of fast purple-sailed galleys holds the southern waters and projects menace far beyond them: too small to stand in a line-of-battle against the great fleets, Bethua instead excels at commerce-raiding and the deniable private war, and is widely understood to serve as the maritime proxy of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], carrying Khelâthi pressure into the northern trade-lanes that Galezkara's own ships will not enter (see [[affiliation-bethuanflt|the Bethûan Fleet]]). [[place-helionis|Heliónis]] has a small but extraordinarily skilled fleet whose captains are prized as mercenary commanders across the sea—including, often, in the hunt for Bethûan privateers. [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia]] maintain coastal defense squadrons adequate to their own harbors. The [[affiliation-okharis|Okhárian]] port of [[being-takorozanethar|Tak'oro Zanethar]] controls a small but capable naval force on the southwestern waters.
+- **The [[affiliation-vylarinmpr|Vylarian]] navy** was once dominant and, despite its long decline, remains formidable in home waters. Its heavy galleys and the accumulated knowledge of its admiralty are not easily replaced.
+- **The [[affiliation-cnfdrtnhrdnstts|Haradian]] fleet**, ascendant since the war of independence, is the most modern navy on the sea: fast, well led, and politically eager to prove itself.
+- **The navy of [[affiliation-empireakhlth|Aû'Khelâthu]]** is large and given mainly to defending the southern shore and holding the southern half of the central narrows. It has rarely reached into strategic operations in the north.
 
-Piracy is endemic. Some pirate fleets are operated openly by petty lords of uncontested islands; others are the barely-disguised deniable arms of major states—the licensed Bethûan privateers who sail under the crown's **Purple Warrant** against [[affiliation-vylarinmpr|Vylarian]] shipping are the archetype, private enterprise and state policy fused into a single hull; and some are genuinely independent operators who raid the shipping of everyone who cannot afford to hire them off. The great powers expend continuous effort on piracy suppression, with fluctuating success. In periods when the great navies are otherwise distracted, piracy swells to the point of seriously disrupting trade; when the navies turn their attention back to it, the pirate fleets disperse into the islands and wait.
+Several smaller powers matter locally. Foremost is the [[affiliation-mtrrchybth|Matriarchy of Bethua]], whose fast purple-sailed galleys hold the southern waters and carry menace far beyond them. Too small to stand in a line of battle against the great fleets, Bethua excels at commerce-raiding and the deniable private war. It is widely understood to act as the maritime proxy of Aû'Khelâthu, carrying Khelâthi pressure into northern trade lanes that Galezkara's own ships will not enter (see [[affiliation-bethuanflt|the Bethûan Fleet]]). [[place-helionis|Heliónis]] keeps a small fleet of very skilled seamen whose captains are hired as mercenary commanders all over the sea, often for the hunt for Bethûan privateers. [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]] keep coastal squadrons adequate to their own harbors, and [[affiliation-okharis|Okháris]] keeps a small but capable naval force in the southwestern waters.
+
+**Piracy is endemic.** Some pirate fleets belong openly to petty lords of uncontested islands. Others are the thinly disguised arms of major states, and the Bethûan privateers who sail against Vylarian shipping under the crown's **Purple Warrant** are the type of them, private enterprise and state policy in one hull. Still others are independent raiders who take the shipping of anyone who cannot afford to buy them off. The great powers spend continuous effort on suppression with uneven results: when the navies are busy elsewhere, piracy swells until it disrupts trade, and when they turn back to it, the pirates scatter into the islands and wait.
 
 ## Trade
 
-Virtually every commodity of Thalorna that moves any significant distance passes through the Vylarian Sea at some point. Vylarian steel and wine, Helionite olive oil and philosophical manuscripts, Haradian spices and textiles, Provenzian art and luxury goods, Tarvénan grain, Khelâthi papyrus and grain and gold, Okhárian bronze and worked metal, Bethuan textiles and worked leather, and the far-eastern goods—silk, porcelain, tea, jade—that arrive through Haradian and Byzarian intermediaries all flow across these waters.
+Nearly every commodity in Thalorna that travels any real distance crosses the Vylarian Sea at some point: Vylarian steel and wine, Helionite olive oil and philosophical manuscripts, Haradian spices and textiles, Provenzian art and luxuries, Tarvénan grain, Khelâthi papyrus, grain and gold, Okhárian bronze and worked metal, Bethuan textiles and leather, and the far-eastern silk, porcelain, tea and jade that arrive through Haradian and Byzarian middlemen.
 
-The sea's economic gravity is so great that inland polities a thousand miles from its shores are effectively priced off its markets: it is usually cheaper to move bulk goods across the sea than to move them overland for even a fraction of that distance. This economic reality is why the Mídhalion region exists as a coherent thing at all.
+Moving bulk goods across the sea is usually cheaper than moving them overland for a fraction of the distance, so inland polities a thousand miles from the shore are priced out of its markets. That arithmetic is why Mídhalión holds together as one region at all.
 
 ## Religion
 
-No single faith governs the sea. The [[affiliation-arldnpnthn|Aurèldían Pantheon]] holds the northern ports and the west; the [[affiliation-ashanpnthn|Āsháian Pantheon]] holds the eastern and southeastern shores; the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu holds the southern shore east of Bethua; the [[affiliation-nkaruthar|Nkaru'thar]] cult holds Okháris; the matriarchal religion of Bethua holds the central southern shore. Sailors, typically, are practical polytheists who honor whichever god of the sea is most likely to be paying attention to the current stretch of water.
+No single faith governs the sea:
+
+- The [[affiliation-arldnpnthn|Aurèldían Pantheon]] holds the northern ports and the west.
+- The [[affiliation-ashanpnthn|Āsháian Pantheon]] holds the eastern and southeastern shores.
+- The [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu holds the southern shore east of Bethua.
+- The [[affiliation-nkaruthar|Nkaru'thar]] faith holds Okháris.
+- The matriarchal religion of Bethua holds the central southern shore.
+
+Sailors are practical polytheists. They honor whichever god of the sea seems likeliest to be paying attention to the water they are on.
 
 ## See Also
 
-- [[place-midhalnrgn|Mídhalión Region]]—the broader socio-economic region the sea anchors
-- [[affiliation-vylarinmpr|Vylarian Empire]]—northern imperial inheritor
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—eastern naval power
+- [[place-midhalnrgn|Mídhalión Region]]—the region the sea holds together
+- [[affiliation-vylarinmpr|Vylarian Empire]]—the northern imperial power
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the eastern naval power
+- [[affiliation-bethuanflt|Bethûan Fleet]]—the southern raiders
 - [[place-helionis|Heliónis]]—central intellectual and maritime presence
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—dominant southern-shore power
 - [[affiliation-okharis|Okháris]]—southwestern shore

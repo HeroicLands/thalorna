@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 5000, governm
 
 ## Castra Praetoria—The Imperial Barracks
 
-Within the walls of [[place-urbsaquiln|Urbs Aquilion]], hard against the flank of the palace hill, stands the **Castra Praetoria**—the fortified barracks of the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard. It is the Augustar's own fortress at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true castra raised inside the Inner Wall, where no field legion is ever quartered.
+Within the walls of [[place-urbsaquiln|Urbs Aquilion]], hard against the flank of the palace hill, stands the **Castra Praetoria**—the fortified barracks of the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard. It is the fortress of the Augustar, the emperor, at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true castra raised inside the **Inner Wall**, where no field legion is ever quartered.
 
 ### The Fortress
 
@@ -20,7 +20,7 @@ The Castra is built to the legionary pattern but turned inward, a compact stone 
 
 To hold the Castra is, in a real sense, to hold the capital. The body best placed to defend an Augustar is also the body best placed to unmake one, and more than one reign in Vylarian history has turned on which way the gates of the Castra opened on a decisive night. Every reigning Augustar therefore courts the guard with care—with donatives, with privileges, with the careful cultivation of the officers who command the watches—and a wise throne keeps a close and personal eye on who rises within these walls. The Castra's politics are the court's politics in their most concentrated and dangerous form.
 
-The guard's writ, and the Castra's reach, stop at the **Inner Wall**. The policing of the city beyond is no part of their charge; that falls to the [[affiliation-vylrnmltry|City Watch]], whose watch-houses ring the Twelve Circles below and whose vigiles the praetorians of the Castra regard with lordly contempt. Within the Inner City, however, order and justice are the guard's to keep, and the Castra is where that authority is mustered, drilled, and—when the throne requires it—unleashed.
+The guard's writ, and the Castra's reach, stop at the Inner Wall. The policing of the city beyond is no part of their charge; that falls to the [[affiliation-vylrnmltry|City Watch]], whose watch-houses ring the Twelve Circles below and whose vigiles the praetorians of the Castra regard with lordly contempt. A veteran of the Watch, who has spent his working life on the street side of that gate, puts the arrangement in a sentence: "The Castra's gate does not open for us, and we do not knock." Within the Inner City, however, order and justice are the guard's to keep, and the Castra is where that authority is mustered, drilled, and—when the throne requires it—unleashed.
 
 ### See Also
 

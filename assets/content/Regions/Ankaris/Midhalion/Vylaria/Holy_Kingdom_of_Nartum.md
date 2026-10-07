@@ -125,28 +125,32 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] but maintains its own sovereignty under a theocratic monarchy. Where the empire's power rests on legions and senators, Nartum's rests on faith—the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]].
+A sacred king, blessed by the gods, rules the Holy Kingdom of Nartûm, an independent Vylari-speaking realm that shares its cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. Vylaria's power rests on legions and senators. Nartûm's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]] and is ruled from the holy city of [[place-nartum|Nartûm]].
+
+The secretary of a Nartûmese priest-noble, briefing a visiting Vylarian envoy before an audience, begins with the point the envoy is least likely to expect: "You come from a state that has a Senate and a faith. We have a faith, and a kingdom that takes its character from it. If you remember that when you speak, you will be heard. If you forget it, you will be received politely and not heard at all."
 
 ## Character
 
-Nartûm occupies a position somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of Vylari, practice the Aurèldían faith with an intensity that makes even Vylarian priests uncomfortable, and regard their kingdom as the true spiritual heir of Vylarian civilization—purified of the empire's corruption and moral decay.
+Nartûm sits somewhere between the Vylarian Empire and the independent western kingdoms. Its people speak an archaic dialect of Vylari and practice the Aurèldían faith with an intensity that makes even Vylarian priests uncomfortable. They regard their kingdom as the true spiritual heir of Vylarian civilization, purified of the empire's corruption and moral decay.
 
-The kingdom is governed by a priestly aristocracy. Noble families derive their authority from religious office, and advancement in Nartumese society requires both lineage and demonstrated piety. The king is anointed by the high priesthood and is expected to embody the virtues of [[affiliation-arldnpnthn|Árdavon]] (justice) and [[affiliation-arldnpnthn|Ménérva]] (wisdom). Kings who fail to live up to these expectations have been deposed—the priesthood's power is real, not merely ceremonial.
+A priestly aristocracy governs the kingdom. Noble families derive their authority from religious office, and advancement in Nartûmese society requires both lineage and demonstrated piety. The high priesthood anoints the king, who is expected to embody [[lore-janusdty|Árdavon]] (justice) and [[lore-menervadty|Ménérva]] (wisdom). Kings who fail to meet those expectations have been deposed, because the priesthood's power is real and not ceremonial.
 
-Nartûm is not expansionist, but it is not weak. Its military is small but professional, and its knights—the Order of the Sacred Flame—are among the finest heavy cavalry in western Ankaris. The kingdom's true power, however, is moral authority. Nartum's pronouncements on matters of faith carry weight across the Aurèldían world, and its scholars and theologians are sought out by rulers and churchmen throughout [[place-midhalnrgn|Mídhalión Region]].
+Nartûm is not expansionist, and it is not weak. Its army is small but professional, and its knights, the **Order of the Sacred Flame**, are among the finest heavy cavalry in western Ankaris. The kingdom's chief strength is moral authority. Its pronouncements on matters of faith carry weight across the Aurèldían world, and rulers and churchmen throughout [[place-midhalnrgn|Mídhalión Region]] seek out its scholars and theologians.
 
 ## Relations
 
-Nartûm maintains correct but cool relations with the [[affiliation-vylarinmpr|Vylarian Empire]]. The empire regards Nartûm as a wayward province that should be reabsorbed; Nartûm regards the empire as a corrupted institution that has strayed from the true path. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm—the kingdom views the Ordo's secular power and political manipulation as antithetical to proper spiritual life, and mages operating in Nartûm answer to the priesthood, not the Ordo.
+Nartûm keeps correct but cool relations with the Vylarian Empire. The empire regards Nartûm as a wayward province that should be reabsorbed, and Nartûm regards the empire as a corrupted institution that has strayed from the true path.
+
+The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm. The kingdom holds the Ordo's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartûm answer to the priesthood, not to the Ordo.
 
 ## Commerce and Currency
 
-Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Holy Kingdom of Nartûm uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[place-nartumkngdm|Nartûm Kingdom]]—The land the kingdom holds
-- Nartûm—The holy city, its seat
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Cultural parent, political rival
-- [[affiliation-arldnpnthn|Aurèldían]]—State pantheon
-- [[skill-vylarilng|Vylari]]—Naming conventions
+- [[place-nartumkngdm|Nartûm Kingdom]]—the land the kingdom holds
+- [[place-nartum|Nartûm]]—the holy city, its seat
+- [[affiliation-vylarinmpr|Vylarian Empire]]—cultural parent, political rival
+- [[affiliation-arldnpnthn|Aurèldían]]—the state pantheon
+- [[skill-vylarilng|Vylari]]—the language and its naming conventions

@@ -3,8 +3,8 @@ shortcode: vylariargn
 name: {full: Vylaría Region, aliases: []}
 type: place
 subType: region
-description: ""
-tags: [draft]
+description: "The heartland of the Vylarian Empire on the northern shore of the Vylarian Sea—four imperial provinces and the independent Holy Kingdom of Nartûm, with the Áelendan-held Cervaron Spine on its western frontier."
+tags: []
 data:
   demonym: null
   lore: []
@@ -20,33 +20,50 @@ data:
 
 ## Overview
 
-Vylaría Region is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], on the northern shore of the [[place-vylarianse|Vylarian Sea]] within [[place-midhalnrgn|Mídhalión Region]].
+Vylaría is the heartland of an empire that is smaller than its maps: a warm peninsula on the northern shore of the [[place-vylarianse|Vylarian Sea]], within [[place-midhalnrgn|Mídhalión Region]], that once stood at the summit of civilization and still governs as though it did. It is the land of the [[affiliation-vylarinmpr|Vylarian Empire]] and of the independent [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]. An outsider remembers it for three things: its steel, its roads, and its capital, [[place-magnapolis|Magnápolis]].
 
-Vylaría, once the pinnacle of civilization, lies east of [[place-tarvenirgn|Tarvénia]], west of the [[place-heladrgn|Hellád]], south of [[place-velanthrgn|Velanthia]], and southeast of [[place-vrystwald|Vrystwald]], on the northern shores of the [[place-vylarianse|Vylarian Sea]].
+Vylaría lies east of [[place-tarvenirgn|Tarvénia]], west of [[place-heladrgn|Hellád]], south of [[place-velanthrgn|Velanthia]], and southeast of [[place-vrystwald|Vrystwald]].
+
+| Land                                  | Held by                                                            | People    | Seat                           |
+| ------------------------------------- | ------------------------------------------------------------------ | --------- | ------------------------------ |
+| [[place-alyssa\|Alyssa]]              | [[affiliation-provinclys\|Province of Alyssa]], the heartland      | 7,000,000 | [[place-alyssar\|Alyssar]]     |
+| [[place-hylen\|Hylen]]                | [[affiliation-provnchyln\|Province of Hylen]], the breadbasket     | 7,000,000 | [[place-aravantia\|Aravantia]] |
+| [[place-vald\|Vald]]                  | [[affiliation-provincvld\|Province of Vald]], the coast and fleet  | 5,000,000 | [[place-mercavia\|Mercavia]]   |
+| [[place-moktur\|Moktur]]              | [[affiliation-provncmktr\|Province of Moktur]], the northern march | 2,000,000 | [[place-tyrellan\|Tyrellan]]   |
+| [[place-nartumkngdm\|Nartûm Kingdom]] | [[affiliation-hlykngdmnrtm\|Holy Kingdom of Nartûm]], independent  | 2,500,000 | [[place-nartum\|Nartûm]]       |
+
+The imperial capital, Magnápolis, with something under a million people, stands in Alyssa and is counted with it.
 
 ## Geography
 
-Vylaria proper occupies a broad peninsula and surrounding coastal territories on the northern shore of the Vylarian Sea. The terrain is Vylarian in character: sun-drenched coastal lowlands, terraced hillsides of olive groves and vineyards, and a mountainous interior that rises toward the forests of [[place-vrystwald|Vrystwald]]. The climate is warm and dry in summer, mild in winter, with the sea moderating temperatures year-round.
+Vylaria proper is a broad peninsula and the coastal country around it. The coast is sun-drenched lowland; the hills behind it are terraced for olive groves and vineyards; and the interior climbs into mountains that rise toward the forests of [[place-vrystwald|Vrystwald]]. Summers are warm and dry and winters mild, and the sea tempers the climate all year.
 
-The great Vylarian roads, once the arteries of an empire, still connect the major cities and extend into former provinces. Many are now in disrepair, but their engineering remains impressive—straight, paved, and bridging rivers and gorges with arches of cut stone.
+The **Vylarian roads** still join the great cities and run on into provinces the empire no longer holds. Many are in disrepair. The engineering still shows: they run straight, they are paved, and they cross rivers and gorges on arches of cut stone. They remain the main overland trade routes of the region, and a carter who has driven one learns to read the empire's fortunes by where the paving has been patched and where it has simply been left.
 
 ### The Cervaron Spine {#the-cervaron-spine}
 
-The empire's western frontier rises into the **Cervaron Spine**—a great arc of high mountains separating the Vylarian peninsula from the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia Region]]. The Cervaron is one of the most striking geographic features of western Ankaris: snow-capped peaks, deep forested valleys, glacier-fed rivers, high alpine pastures that bloom for two months of the year, and the dozen narrow passes that constitute the only practicable east-west crossings of the range.
+The empire's western frontier rises into the **Cervaron Spine**, a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of [[place-tarvenirgn|Tarvénia Region]]. It is snow on the peaks, forest in the deep valleys, glacier-fed rivers, and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west.
 
-The Vylarian imperial chancery has claimed the Cervaron as Vylarian territory since the early Republic, on the strength of legionary expeditions that planted boundary-stones at the principal passes during the height of imperial expansion. In practice, the empire has never controlled the range. The Cervaron is and always has been the sacred country of the [[place-alndntrblnds|Áelendan]]—the eastern Pelwar tribes whose religious tradition holds the high peaks as the dwelling-places of the [[affiliation-firstgods|First Gods]] and the great glacier-springs as the sources from which the world's first waters poured. The Áelendan recognize no Vylarian claim, treat the imperial boundary-stones as ritual objects of obscure foreign meaning, and have repulsed every Vylarian punitive expedition that has attempted to enforce the chancery's writ—sometimes through pitched battle, more often through the simple and devastating tactic of letting an imperial column climb deep into the range and then quietly sealing the passes behind it.
+A mule-train master who has taken Vylarian goods over the Cervaron every summer of his working life explains the arrangement to the factors who hire him: "The Senate lists the range as imperial territory, and you will see the boundary-stones at the passes to prove it. Do not mention them to the clans. You pay the passage-gift at the first camp, they see you through, and nobody calls it a toll or a treaty. That is the whole law up there."
 
-The arrangement has settled, over many generations, into a workable equilibrium. The Vylarian Senate continues to list the Cervaron among the empire's territories. The Áelendan continue to hold it. Vylarian merchants pay informal "passage-gifts" to the local clans when they need to cross with goods, and the clans accept these gifts and grant safe passage; both sides find this preferable to attempting either conquest or formal treaty. The Áelendan name for the range—given only in their own tongue and rarely shared with outsiders—is said to mean _"the bones of the world's first dawn."_ The Vylarians use **Cervaron**, an old chancery word whose original meaning is contested but most commonly translated as _"the stag-walked place."_ The [[place-elavendre|Pelwar]] of [[place-elavendre|Élavendre]], who descend from the same root-population as the Áelendan and treat the range with comparable reverence, use a Pelwar form of the Áelendan name and quietly support their tribal cousins in any matter that touches the Cervaron—a fact the Vylarian chancery is aware of and has not raised diplomatically in nearly a century.
+The claim is old. The imperial chancery has listed the Cervaron as Vylarian since the early Republic, on the strength of legionary expeditions that planted boundary-stones at the principal passes at the height of expansion. The empire has never controlled the range. The Cervaron is the sacred country of the [[place-alndntrblnds|Áelendan]], the eastern Pelwar tribes, whose religion holds the high peaks to be the dwellings of the [[affiliation-firstgods|First Gods]] and the great glacier-springs to be the sources from which the world's first waters poured. The Áelendan recognize no Vylarian claim and treat the boundary-stones as ritual objects of obscure foreign meaning. They have repulsed every punitive expedition sent to enforce the chancery's writ, sometimes in pitched battle, more often by letting an imperial column climb deep into the range and then quietly sealing the passes behind it.
+
+Over many generations this has settled into a working balance. The Senate keeps the Cervaron on its list of territories, the Áelendan keep the range, and Vylarian merchants who need to cross with goods pay informal **passage-gifts** to the local clans, who accept them and grant safe passage. Both sides prefer this to conquest or to a formal treaty.
+
+The names differ with the speaker. The Áelendan name the range only in their own tongue and rarely share it with outsiders; it is said to mean _"the bones of the world's first dawn."_ **Cervaron** is an old chancery word whose original meaning is disputed and most often rendered _"the stag-walked place."_ The Pelwar of Élavendre, who descend from the same root population as the Áelendan and hold the range in comparable reverence, use a Pelwar form of the Áelendan name and quietly back their tribal cousins in anything that touches the Cervaron. The chancery knows it and has not raised the matter diplomatically in nearly a century.
 
 ## Notable Features
 
-- **Vylarian Steel:** The empire's most famous export, a superior steel alloy whose secrets are closely guarded.
-- **The Vylarian Roads:** An engineering marvel that once connected the empire's vast territories. Many still stand and remain the primary overland trade routes.
+- **Vylarian Steel:** the empire's most famous export, an alloy of unmatched quality whose forging is a closely guarded secret.
+- **The Vylarian Roads:** the engineering that once joined the empire's territories; many stand and remain the main overland trade routes.
+- **The [[place-vylarisrvr|River Vylaris]]:** the river the heartland is named for, running through Alyssa and Vald to the sea.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—The empire that holds this land
-- [[place-midhalnrgn|Mídhalión Region]]—The enclosing region
-- [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]], [[place-vald|Vald]]—The four provinces' lands
-- [[place-nartumkngdm|Nartûm Kingdom]]—The Holy Kingdom's land
-- [[place-magnapolis|Magnápolis City]]—The imperial capital
+- [[affiliation-vylarinmpr|Vylarian Empire]]—the empire that holds this land
+- [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]—the independent Vylari-speaking kingdom
+- [[place-midhalnrgn|Mídhalión Region]]—the enclosing region
+- [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]], [[place-vald|Vald]]—the four provinces' lands
+- [[place-nartumkngdm|Nartûm Kingdom]]—the Holy Kingdom's land
+- [[place-magnapolis|Magnápolis City]]—the imperial capital
+- [[lore-vylarianclt|Vylarian]]—the people and their manners
