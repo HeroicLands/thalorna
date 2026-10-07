@@ -157,7 +157,7 @@ In the deep hall, speak to what is written. If you remember otherwise, say so on
 
 Four things are entered on the day they happen and never on the day after: a cut, a mending, an oath sworn below, and a death. Everything else can wait for the turning of the year.
 
-Once in a sixty of years, and some sixties not at all, the elders of several holds sit together and compound a house name for a hand no house can account for. Do not work toward it. The ones it was given to were doing something else.
+Once in sixty years, and often not even then, the elders of several holds sit together and compound a house name for a hand no house can account for. Do not work toward it. The ones it was given to were doing something else.
 
 You honored **Puthakun** this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
 
@@ -191,7 +191,7 @@ Holbon of Lakamakhulán, of [[lore-khazararrv|Lummáv]], kept the archive, and r
 
 Vutamu has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
 
-The channel that takes the eastern stream along the valley floor: cut by this hold, four sixties and twelve paces, following the stream's old bed, no prop in it, warranted by three names. It waters their fields before it reaches our cistern.
+The channel that takes the eastern stream along the valley floor: cut by this hold, 252 paces, following the stream's old bed, no prop in it, warranted by three names. It waters their fields before it reaches our cistern.
 
 The terraces of the southern slope: forty-one, set to the lie of the ground. Two slipped in the thaw of a wet year and were entered against the name of **Gorzon of Khardavurán**, who had set them; he reset both along the lie of the ground at his own labor, with a master of Ramkasumád watching, and the mending is entered under the fault in the same hand.
 
@@ -199,9 +199,9 @@ The drains of the lower fields: twenty-three.
 
 The granary at the gate: a chamber in sound rock, dry in the wet years, theirs to fill and ours to keep sound. It has been kept sound.
 
-The wall below the lower fields, which holds the river off them in the thaw: three sixties and forty paces.
+The wall below the lower fields, which holds the river off them in the thaw: 220 paces.
 
-The sluice at the channel head: one gate, opened by their hands and shut by their hands, and the hold has not opened or shut it in six sixties of years.
+The sluice at the channel head: one gate, opened by their hands and shut by their hands, and the hold has not opened or shut it in 360 years.
 
 The road up from the valley: there is none. No track scars the slope. The gate is reached by the stair inside the rock, which was cut for laden carriers and has carried them.
 
