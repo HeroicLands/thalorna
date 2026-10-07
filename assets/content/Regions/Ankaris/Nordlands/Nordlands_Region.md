@@ -29,7 +29,7 @@ The Nordlands are the frozen north of [[place-ankrscntnnt|Ankaris Continent]]: j
 
 The Nordlands occupy northwestern Ankaris, with [[place-aureldirgn|Aurèldía]] to the southwest, [[place-vrystwald|Vrystwald]] and [[place-velanthrgn|Velanthia]] to the south and east, and the open northern ocean off every coast. The coast decides everything else. Glaciers carved it into granite and basalt as a saw-toothed line of thousands of natural harbors, and the fjords run so far inland that each one is a sheltered road for a fleet. A ship goes where a cart cannot, and every settlement of any size stands where a keel can reach it.
 
-Behind the fjords the land climbs into mountain tracts of wind-scoured stone and ice. Few people travel or live there; the most reclusive clans keep to high plateaus where the caribou migrate. People on the coast tell of [[lore-flkkhazar|Khazári]] holds hidden in those mountains, and the tales are rumors, not neighbors anyone trades with. South and east of the mountains the ground settles into boreal forest, spruce and pine without end, cut by glacier-fed rivers that run south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast a chain of volcanic islands breaks the weather. Their hot springs and fertile volcanic soils make them coveted holdings, however far out they lie.
+Behind the fjords the land climbs into mountain tracts of wind-scoured stone and ice. Few people travel or live there; the most reclusive clans keep to high plateaus where the caribou migrate. People on the coast tell of [[lore-flkkhazar|Khazári]] holds hidden in those mountains, and the tales are rumors, not neighbors anyone trades with. South and east of the mountains the ground settles into boreal forest of spruce and pine, cut by glacier-fed rivers that run south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast a chain of volcanic islands breaks the weather. Their hot springs and fertile volcanic soils make them coveted holdings, however far out they lie.
 
 The climate is brutal by any Ankarian measure. Winter lasts for months and draws a near-total darkness over the far north; summer is short, flooded with light and violently alive. "You learn the land's moods young," the skipstjóri says, "or you do not get old."
 
@@ -89,7 +89,7 @@ Succession is hereditary in name and qualified by the ting in fact. A king whose
 
 The Nordlands are woven into Ankaris's trade whatever their reputation. Nordmen longships reach as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies from [[place-aelwyth|Aelwyth]] to [[place-tanvuregin|Tānvür]]. The region exports amber, furs, whale ivory, iron, smoked fish and slaves, and imports wine, fine cloth, grain, silver and the luxuries only a warmer country grows. Commerce in coin runs on [[lore-vylrncrncy|Vylarian money]], since the north strikes none of its own; larger dealings run on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|hall credit]].
 
-Aelwyth is the closest trading partner. The two share a coast, a family of gods through the Aelwythan syncretism of the Twelve and the Asguardians, and centuries of intermarriage, feud and quiet alliance.
+Aelwyth is the closest trading partner. The two face each other across some three hundred miles of open sea, and they share a family of gods through the Aelwythan syncretism of the Twelve and the Asguardians, and centuries of intermarriage, feud and quiet alliance.
 
 ## The Neighbors
 

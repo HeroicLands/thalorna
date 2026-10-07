@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [haradilng]}}
 ---
 
-The **House of Factors** stands above Azhûn's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Azhûn is one of the five coastal city-states of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], some 2.5 million people around the city of [[place-azhun2|Azhûn]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert, the caravan towns of the interior and the sea routes that connect Harad to the western realms.
+The **House of Factors** stands above Azhûn's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Azhûn is one of the five island city-states of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], some 2.5 million people around the city of [[place-azhun2|Azhûn]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect Harad to the western realms.
 
 - **Kind:** port city-state, governed by its merchant guilds
 - **Language:** [[skill-haradilng|Haradi]], which also governs its naming

@@ -3,7 +3,7 @@ shortcode: malagna
 name: {full: Malagna, aliases: []}
 type: place
 subType: region
-description: "The land of the Kingdom of Malagna, between Nordheim and Targud in the northern Nordlands."
+description: "The land of the Kingdom of Malagna, between Norgaad and Targud in the northern Nordlands."
 tags: [region]
 data:
   demonym: Malagnan
@@ -18,9 +18,9 @@ data:
 
 "Everything that leaves Malagna leaves by water," a farmer tells the stranger on the next bench at [[place-malstead|Málstead]], where both of them are waiting for the Lawspeaker's circuit to reach the marked stone in the market square. "Everything that gets decided here gets decided at Málstead or at Gnarthborg. You are in the right place for one of them."
 
-Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], between [[place-nordheim|Nordheim]] to the southwest and [[place-targud|Targud]] to the northeast.
+Malagna is the land of the [[affiliation-kingdomlgn|Kingdom of Malagna]], between [[place-norgaad|Norgaad]] to the southwest and [[place-targud|Targud]] to the northeast; [[place-nordheim|Nordheim]] lies beyond Norgaad.
 
-Malagna occupies the northern Nordlands between Nordheim's coastal country and Targud's eastern frontier. Its own coast faces the northern ocean, while [[place-velanthrgn|Velanthia]] lies beyond its southeastern border.
+Malagna occupies the northern Nordlands between Norgaad's fjords and Targud's eastern frontier. Its own coast faces the northern ocean, while [[place-velanthrgn|Velanthia]] lies beyond its southeastern border.
 
 ## Character
 

@@ -13,8 +13,8 @@ data: {demonym: null, lore: [], parents: [cilfor], population: null, packFolder:
 **backward C**. It is roughly fifty miles across and fifty deep; at the narrows, where the two horns
 come nearest, northern Élavendre and southern Vrystwald are only about **thirty miles apart**.
 
-[[affiliation-calypsa|Calypsa]] lies outside the mouth, some forty miles north-north-west off the Élavendren
-shore, and commands the approaches to the whole bay.
+[[affiliation-calypsa|Calypsa]] lies outside the mouth, some seventy-five miles off the Élavendren
+shore to the north, and commands the approaches to the whole bay.
 
 ## What the Shape Means
 
