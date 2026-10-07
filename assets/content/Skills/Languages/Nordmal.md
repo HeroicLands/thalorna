@@ -127,7 +127,7 @@ instead:
 | long vowels                   | `á é í ó ú ý` | —        |
 
 The assembly is the one place the rule bends toward the older hard _t_. Spelled
-_th_ the word comes out _thing_, which is an ordinary English noun and would bury
+_th_ the word comes out _thing_, which is an ordinary noun and would bury
 it past finding, so the northern word for a lawful gathering is the **ting**—and
 the handful of names that traveled with it, Torvald among them, keep the same
 hard opening.

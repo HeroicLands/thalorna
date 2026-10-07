@@ -51,7 +51,7 @@ data:
 
 The most significant of the [[place-helionis|Helionite]] institutions was the
 [[affiliation-panepistmm|Panepistēmion]]—the _place of all knowledge_, which Vylarian tongues
-later wore down to the Panepistemium and the Common tongue calls simply the Academy of Knowledge.
+later wore down to the Panepistemium, called in plain words simply the Academy of Knowledge.
 
 It was conceived as a federation of all philosophical inquiry. Each city-state had its own scholarly
 traditions—some emphasizing natural philosophy, others ethics, others the arcane—and the

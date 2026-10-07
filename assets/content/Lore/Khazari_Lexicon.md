@@ -1639,56 +1639,56 @@ Every name the setting gives to a Khazári thing, and every name of a note about
 here with the note it names and the language it is in. A Khazári name carries its skeletons and frame;
 a name older than the rules is listed among the words older than the rules in [[skill-khazarlng|Khazári]].
 
-| Name                             | Address                                         | Language  | Derivation                            |
-| -------------------------------- | ----------------------------------------------- | --------- | ------------------------------------- |
-| Khazár Folk                      | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | an English name on the word `Khazár`  |
-| Khazári                          | [[lore-khazariclt\|Khazári]]                    | `older`   | a word older than the rules           |
-| Khazar                           | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | an unmarked spelling of `Khazár`      |
-| The Deep Folk                    | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
-| The Stone-Wrights                | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
-| The Under-Kin                    | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
-| The Forge-Born                   | [[lore-flkkhazar\|Khazár Folk]]                 | `english` | —                                     |
-| Khazári Language                 | [[skill-khazarlng\|Khazári Language]]           | `english` | an English name on the word `Khazári` |
-| Khazári                          | [[skill-khazarlng\|Khazári Language]]           | `older`   | a word older than the rules           |
-| Khazari                          | [[skill-khazarlng\|Khazári Language]]           | `english` | an unmarked spelling of `Khazári`     |
-| Dwarven                          | [[skill-khazarlng\|Khazári Language]]           | `english` | —                                     |
-| Elder Tongue                     | [[skill-khazarlng\|Khazári Language]]           | `english` | —                                     |
-| Khazári Lexicon                  | [[doc-khazarilex\|Khazári Lexicon]]             | `english` | —                                     |
-| Khazári Word List                | [[doc-khazarilex\|Khazári Lexicon]]             | `english` | —                                     |
-| Pirzath Script                   | [[skill-drthrkscrpt\|Pirzath Script]]           | `english` | —                                     |
-| Pirzath                          | [[skill-drthrkscrpt\|Pirzath Script]]           | `khazari` | `p-r-z` done thing                    |
-| Khazártúrn                       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `older`   | a word older than the rules           |
-| The Fall of Khazártúrn           | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `english` | —                                     |
-| The Valley of Seven Towers       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `english` | —                                     |
-| The Fall of Khazártúrn           | [[lore-fallkhazturn\|The Fall of Khazártúrn]]   | `english` | —                                     |
-| The Sundering of the Elder Races | [[lore-fallkhazturn\|The Fall of Khazártúrn]]   | `english` | —                                     |
-| The Raising of Khazártúrn        | [[lore-khazturnrsd\|The Raising of Khazártúrn]] | `english` | —                                     |
-| The Cutting of the Seven Towers  | [[lore-khazturnrsd\|The Raising of Khazártúrn]] | `english` | —                                     |
-| The Coming of the Khazári        | [[lore-khazararrv\|The Coming of the Khazári]]  | `english` | —                                     |
-| The Arrival of the Seven Clans   | [[lore-khazararrv\|The Coming of the Khazári]]  | `english` | —                                     |
-| Humadhan                         | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `m-dh-n` place                        |
-| Dagarakurágh                     | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `d-g-r` + `k-r-gh` compound           |
-| Summágh                          | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `s-m-gh` mastery                      |
-| Dullák                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `d-l-k` mastery                       |
-| Rummák                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `r-m-k` mastery                       |
-| Gullád                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `g-l-d` mastery                       |
-| Vurrán                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `v-r-n` mastery                       |
-| Gurráz                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `g-r-z` mastery                       |
-| Lummáv                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `l-m-v` mastery                       |
-| Puthakun                         | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `p-th-k` given name, man              |
-| The Cutting of Vorgald           | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
-| The Khazári Reach Aelwyth        | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
-| Vorgald                          | [[place-vorgald\|Vorgald]]                      | `human`   | —                                     |
-| Hudhakal                         | [[place-barakth\|Hudhakal]]                     | `khazari` | `dh-k-l` place                        |
-| Hulavath                         | [[lore-valdum\|Hulavath]]                       | `khazari` | `l-v-th` place                        |
-| The Lost City of Hulavath        | [[lore-valdum\|Hulavath]]                       | `english` | —                                     |
-| Luváth                           | [[lore-goddreams\|The God of Dreams]]           | `khazari` | `l-v-th` deed                         |
-| Zughán                           | [[miscgear-secondvoice\|The Second Voice]]      | `khazari` | `z-gh-n` deed                         |
-| Ankaris Continent                | [[place-ankrscntnnt\|Ankaris Continent]]        | `human`   | —                                     |
-| Aurèldía Region                  | [[place-aureldirgn\|Aurèldía Region]]           | `human`   | —                                     |
-| Mídhalión Region                 | [[place-midhalnrgn\|Mídhalión Region]]          | `human`   | —                                     |
-| Mídhalión                        | [[place-midhalnrgn\|Mídhalión Region]]          | `human`   | —                                     |
-| Xerathia                         | [[place-xerathia\|Xerathia]]                    | `human`   | —                                     |
+| Name                             | Address                                         | Language  | Derivation                           |
+| -------------------------------- | ----------------------------------------------- | --------- | ------------------------------------ |
+| Khazár Folk                      | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | a glossed name on the word `Khazár`  |
+| Khazári                          | [[lore-khazariclt\|Khazári]]                    | `older`   | a word older than the rules          |
+| Khazar                           | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | an unmarked spelling of `Khazár`     |
+| The Deep Folk                    | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | —                                    |
+| The Stone-Wrights                | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | —                                    |
+| The Under-Kin                    | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | —                                    |
+| The Forge-Born                   | [[lore-flkkhazar\|Khazár Folk]]                 | `gloss`   | —                                    |
+| Khazári Language                 | [[skill-khazarlng\|Khazári Language]]           | `gloss`   | a glossed name on the word `Khazári` |
+| Khazári                          | [[skill-khazarlng\|Khazári Language]]           | `older`   | a word older than the rules          |
+| Khazari                          | [[skill-khazarlng\|Khazári Language]]           | `gloss`   | an unmarked spelling of `Khazári`    |
+| Dwarven                          | [[skill-khazarlng\|Khazári Language]]           | `gloss`   | —                                    |
+| Elder Tongue                     | [[skill-khazarlng\|Khazári Language]]           | `gloss`   | —                                    |
+| Khazári Lexicon                  | [[doc-khazarilex\|Khazári Lexicon]]             | `gloss`   | —                                    |
+| Khazári Word List                | [[doc-khazarilex\|Khazári Lexicon]]             | `gloss`   | —                                    |
+| Pirzath Script                   | [[skill-drthrkscrpt\|Pirzath Script]]           | `gloss`   | —                                    |
+| Pirzath                          | [[skill-drthrkscrpt\|Pirzath Script]]           | `khazari` | `p-r-z` done thing                   |
+| Khazártúrn                       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `older`   | a word older than the rules          |
+| The Fall of Khazártúrn           | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `gloss`   | —                                    |
+| The Valley of Seven Towers       | [[lore-khazarturn\|The Fall of Khazártúrn]]     | `gloss`   | —                                    |
+| The Fall of Khazártúrn           | [[lore-fallkhazturn\|The Fall of Khazártúrn]]   | `gloss`   | —                                    |
+| The Sundering of the Elder Races | [[lore-fallkhazturn\|The Fall of Khazártúrn]]   | `gloss`   | —                                    |
+| The Raising of Khazártúrn        | [[lore-khazturnrsd\|The Raising of Khazártúrn]] | `gloss`   | —                                    |
+| The Cutting of the Seven Towers  | [[lore-khazturnrsd\|The Raising of Khazártúrn]] | `gloss`   | —                                    |
+| The Coming of the Khazári        | [[lore-khazararrv\|The Coming of the Khazári]]  | `gloss`   | —                                    |
+| The Arrival of the Seven Clans   | [[lore-khazararrv\|The Coming of the Khazári]]  | `gloss`   | —                                    |
+| Humadhan                         | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `m-dh-n` place                       |
+| Dagarakurágh                     | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `d-g-r` + `k-r-gh` compound          |
+| Summágh                          | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `s-m-gh` mastery                     |
+| Dullák                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `d-l-k` mastery                      |
+| Rummák                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `r-m-k` mastery                      |
+| Gullád                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `g-l-d` mastery                      |
+| Vurrán                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `v-r-n` mastery                      |
+| Gurráz                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `g-r-z` mastery                      |
+| Lummáv                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `l-m-v` mastery                      |
+| Puthakun                         | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `p-th-k` given name, man             |
+| The Cutting of Vorgald           | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `gloss`   | —                                    |
+| The Khazári Reach Aelwyth        | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `gloss`   | —                                    |
+| Vorgald                          | [[place-vorgald\|Vorgald]]                      | `human`   | —                                    |
+| Hudhakal                         | [[place-barakth\|Hudhakal]]                     | `khazari` | `dh-k-l` place                       |
+| Hulavath                         | [[lore-valdum\|Hulavath]]                       | `khazari` | `l-v-th` place                       |
+| The Lost City of Hulavath        | [[lore-valdum\|Hulavath]]                       | `gloss`   | —                                    |
+| Luváth                           | [[lore-goddreams\|The God of Dreams]]           | `khazari` | `l-v-th` deed                        |
+| Zughán                           | [[miscgear-secondvoice\|The Second Voice]]      | `khazari` | `z-gh-n` deed                        |
+| Ankaris Continent                | [[place-ankrscntnnt\|Ankaris Continent]]        | `human`   | —                                    |
+| Aurèldía Region                  | [[place-aureldirgn\|Aurèldía Region]]           | `human`   | —                                    |
+| Mídhalión Region                 | [[place-midhalnrgn\|Mídhalión Region]]          | `human`   | —                                    |
+| Mídhalión                        | [[place-midhalnrgn\|Mídhalión Region]]          | `human`   | —                                    |
+| Xerathia                         | [[place-xerathia\|Xerathia]]                    | `human`   | —                                    |
 
 ### Language tags
 
@@ -1697,5 +1697,5 @@ a name older than the rules is listed among the words older than the rules in [[
 | khazari | a Khazári name                                                                                               |
 | older   | a word older than the rules, which keeps a shape no frame makes                                              |
 | exonym: | another people's rendering of a Khazári word, with the people after the colon; the derivation names the word |
-| english | an English name or epithet                                                                                   |
+| gloss   | a glossed name or epithet                                                                                    |
 | human   | a name in a human tongue                                                                                     |
