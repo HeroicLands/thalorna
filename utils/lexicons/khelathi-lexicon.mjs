@@ -156,8 +156,9 @@ export function lexiconFrom(text) {
     const places = rows(section(text, "### Place-building elements")).flatMap((cells) =>
         ticked(cells[0]),
     );
-    // A rank morpheme and a particle are bound; a trade, a temple word and the
-    // realm's own names stand alone.
+    // A rank morpheme and a particle are bound; a trade, a temple word, a word of
+    // the counting-house, the name of a kind of work and the realm's own names
+    // stand alone.
     const bound = ["### Particles", "### The morphemes a rank is built from"].flatMap((heading) =>
         rows(section(text, heading)).flatMap((cells) => ticked(cells[0])),
     );
@@ -165,6 +166,8 @@ export function lexiconFrom(text) {
         "### Occupation words",
         "### Temple, arcane and cosmology",
         "### The realm, its people and its hands",
+        "### The counting-house, the quay and the water-works",
+        "### The written and the recited",
     ].flatMap((heading) => rows(section(text, heading)).flatMap((cells) => ticked(cells[0])));
 
     // Split on the headings rather than lookahead past them: JavaScript has no
@@ -345,8 +348,8 @@ export function analyse(text, beings, texts = []) {
     // Rule 4 governs a word. A name element and a place morpheme never stand alone —
     // `Gar-` opens a compound and `zab` sits inside one — and the word they build
     // does comply, so holding a morpheme to a word's rule would refuse the note's own
-    // vocabulary. The gods, the trades, the temple words and the realm's own names
-    // are words, and they are held to it.
+    // vocabulary. The gods, the trades, the temple words, the counting-house words,
+    // the kinds of work and the realm's own names are words, and they are held to it.
     for (const form of [...lex.gods, ...lex.words]) {
         if (form.startsWith("-") || form.endsWith("-") || form.endsWith("'")) continue;
         if (!FINAL.test(form)) {

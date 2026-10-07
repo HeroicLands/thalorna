@@ -399,6 +399,24 @@ the methods they name.
 | `Khelâthi-zethu` | the sacred hand            |
 | `Qalezu`         | the common hand            |
 
+### The written and the recited
+
+What a scribe calls a work when he enters it in a catalogue, and what a reader
+announces before he begins. A title is a construct like a body's name: the kind of
+work, _elu_, and the god, the ruler or the author it belongs to, as in _Zamlet elu
+Uqa'â_, a hymn of the sun-lord. The collective _-u_ makes a gathering of works, so
+a roll of hymns is _zamletu_.
+
+| Word       | Sense                                                        | Built on                                         |
+| ---------- | ------------------------------------------------------------ | ------------------------------------------------ |
+| `zamlet`   | a hymn, a song sung before a god                             | `zamlu`, music                                   |
+| `lekhunet` | a spell, a working spoken aloud over the dead or the living  | `lekhau`, as `Halzunet` is built on `halzi`      |
+| `rethet`   | an instruction, the teaching a father or a master hands down | `reth`, the name, and `rethu`, lore              |
+| `qethunet` | a tale, a telling in prose of how a thing was                | `qethar`, the old way, as `Halzunet` on `halzi`  |
+| `ṭazlet`   | a lament, the keening raised over the dead before the burial | a root of its own, _ṭ-z-l_, to bow down and keen |
+| `genzat`   | a suit at law, and a tale of one, gods' or men's             | `genzet`, the court, as `halzat` on `halzi`      |
+| `qedlet`   | an inscription, a text cut in stone                          | the root of `qedlu`, the quarryman               |
+
 ### Retired names
 
 Some forms are kept out of the setting because the rules above refuse them. Each

@@ -148,3 +148,25 @@ test("a retired form written back into the note's own lists is refused", () => {
     assert.equal(found.length, 1);
     assert.match(found[0], /`Wal'Enrauqo` is a retired form; the setting writes `Wal'Enraqu`/);
 });
+
+/** The findings of the word-ending rule alone. */
+const endingFindings = (text) =>
+    analyse(text, beings).filter((line) => /ends in none of/.test(line));
+
+test("every table of standalone words is read for the word-ending rule", () => {
+    const words = lexiconFrom(note).words;
+    for (const form of ["qathur", "ṭelqas", "zamlet", "qedlet"]) {
+        assert(words.includes(form), `the guard does not read \`${form}\``);
+    }
+    assert.deepEqual(endingFindings(note), []);
+});
+
+test("a word of the counting-house or a kind of work that ends wrongly is refused", () => {
+    for (const [from, to] of [
+        ["| `qathur` |", "| `qathul` |"],
+        ["| `zamlet`   |", "| `zamlel`   |"],
+    ]) {
+        const found = endingFindings(edited(from, to));
+        assert.equal(found.length, 1, `${to} was not refused`);
+    }
+});
