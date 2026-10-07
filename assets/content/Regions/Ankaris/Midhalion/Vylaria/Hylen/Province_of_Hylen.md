@@ -26,11 +26,11 @@ data:
       - level: 3
         title: Peregrine
         description: >-
-          A provincial living under imperial authority without the citizenship—the great majority of the empire's people.
+          A resident living under imperial authority without the citizenship—born to the empire, taxed by it, and holding no share in it, as the great majority of its people do.
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship by birth, grant or service, with its protections at law and its liability to its taxes.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
@@ -78,29 +78,35 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Province of Hylen holds the land of [[place-hylen|Hylen]]. Its landed aristocracy are the most conservative faction in Vylarian politics: traditionalist, suspicious of change, and deeply invested in the old social order.
+The Province of Hylen holds the land of [[place-hylen|Hylen]], and its landed aristocracy is the most conservative faction in Vylarian politics: traditionalist, suspicious of change, and deeply invested in the old social order. The governor sits at [[place-aravantia|Aravantia]].
+
+A steward of one of the great estates, asked by a visiting equestrian what Hylen makes of the [[affiliation-ordoarcanis|Ordo Arcanis]] and its growing weight at court, does not trouble to be polite: "The empire was built on soldiers and farmers. The mages and the money-changers came afterward, and they will be gone before the vines are."
 
 ## Character
 
-The estate lords live well—not with the ostentatious wealth of the capital, but with the quiet confidence of people who know that everyone else depends on what they grow.
+The estate lords live well, though not with the ostentatious wealth of the capital. Theirs is the quiet confidence of people who know that everyone else depends on what they grow.
 
-Hylen's aristocracy resists the growing influence of the merchant class and the [[affiliation-ordoarcanis|Ordo Arcanis]] alike. They see themselves as the true guardians of Vylarian tradition—the empire was built on the backs of soldiers and farmers, not mages and money-changers. This conservatism makes Hylen a bastion of the Imperial Cult and traditional Aurèldían practice.
+They resist the growing influence of the merchant class and of the Ordo alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hylen a bastion of the **Imperial Cult** and of traditional [[affiliation-arldnpnthn|Aurèldían]] practice.
 
 ## Notable Features
 
-- Conservative stronghold of traditional Vylarian values
-- Minimal Ordo Arcanis presence—the aristocracy keeps them at arm's length
+- The conservative stronghold of traditional Vylarian values
+- A minimal Ordo Arcanis presence, because the aristocracy keeps the Ordo at arm's length
 
-## For the Worldbuilder
+## Life in the Province
 
-Hylen is settled but not urban: a managed countryside of latifundia, vineyards, olive groves, and the imperial game-forests the crown reserves from the plow. Power is held by the old landed families, not by merchants or the Ordo (both kept firmly at arm's length), and the prevailing temper is conservative, pious, and slow to change. Adventure here turns on land: estate and inheritance disputes, tenant grievances and the occasional rising, banditry in the wooded margins, poaching against the imperial deer (a hanging matter around [[place-cervalia|Cervalia]]), and the quiet feuds of neighboring great houses. What is abundant is food, wine, and labor; what is scarce is hard coin, news, and anyone who welcomes change. A settlement here sits on or beside a great estate, and its real lord is whichever family owns the land.
+Hylen is settled but not urban. It is a managed countryside of great estates, vineyards, olive groves and the imperial game-forests that the crown reserves from the plow. Power belongs to the old landed families, not to merchants or the Ordo, and the prevailing temper is conservative, pious and slow to change. A settlement here sits on or beside a great estate, and its real lord is whichever family owns the land.
+
+Trouble in Hylen is trouble over land: estate and inheritance disputes, tenant grievances and the occasional rising, banditry in the wooded margins, and the quiet feuds of neighboring great houses. Poaching is the sharpest of them. A game-warden at [[place-cervalia|Cervalia]] tells each new forester the rule before he is handed a bow: "A hungry man who takes the emperor's deer is a hanged man, and it does not matter whose tenant he was. Do not argue the case with him in the forest. Argue it with the magistrate, after."
+
+What is abundant is food, wine and labor. What is scarce is hard coin, news, and anyone who welcomes change.
 
 ## Commerce and Currency
 
-Province of Hylen uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Hylen uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Parent polity
-- [[place-hylen|Hylen]]—The land the province holds
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
+- [[place-hylen|Hylen]]—the land the province holds
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—sister provinces
