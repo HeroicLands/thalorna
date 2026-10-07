@@ -62,15 +62,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-thrunvalddty|Thrúnvald]], the thunderous god of war, reavers, and the sea, stands as a formidable protector and champion of both gods and humans. Known for his immense strength and unyielding courage, Thrúnvald is the embodiment of the warrior spirit, a force of nature who defends the realms from the chaos of giants and other threats. His domain extends over the seas, making him a patron of sailors and reavers, who invoke his name for safe passage and victory in their raids.
+A Storm-Speaker who watches from a ledge of [[place-thrumufjall|Thrumufjall]] while the hof there blesses a ship describes what she sees first, which is the stone. The hammer stone is lifted over the bow, the crew bows, and the ship goes out through the harbor mouth under the god's protection. "I read the weather and the hof does something I do not," she says. "It asks the god to stand at the bow. Neither of us is lying about what the sea can do."
 
-## Aspects
+[[lore-thrunvalddty|Thrúnvald]] is the thunderous god of war, reavers and the sea, a formidable protector and champion of both gods and humans. He is known for immense strength and unyielding courage, a force of nature who defends the worlds from the chaos of giants and other threats. His domain extends over the seas, which makes him the patron of sailors and reavers, who call on his name for safe passage and victory in their raids.
 
-Thrúnvald is most famously depicted wielding his mighty hammer, [[lore-thrunhamarr|Thrúnhamarr]], a weapon of immense power that can crush mountains and summon thunder and lightning. [[lore-thrunhamarr|Thrúnhamarr]] is not only a symbol of Thrúnvald's might in battle but also a tool of protection, used to bless and sanctify.
+## The God of Hammer and Storm
 
-Thrúnvald's physical appearance is that of a giant among men, muscular and bearded, with a fierce yet protective demeanor. His followers include warriors, seafarers, and those who live by the strength of their arms. Temples dedicated to Thrúnvald are often located near the coast, filled with symbols of war and the sea—shields, swords, anchors, and depictions of fierce sea storms.
-
-In artistic representations, Thrúnvald is often shown driving his chariot pulled by two goats across the sky, creating thunder with each strike of [[lore-thrunhamarr|Thrúnhamarr]].
+Thrúnvald is most famously shown wielding his hammer, [[lore-thrunhamarr|Thrúnhamarr]], which can crush mountains and summon thunder and lightning. The hammer is a symbol of his might in battle and also a tool of protection, used to bless and to sanctify. He appears as a giant among men, muscular and bearded, fierce yet protective, and artists often show him driving a chariot pulled by two goats across the sky, making thunder with each strike of the hammer. His followers include warriors, seafarers and those who live by the strength of their arms, and his temples stand near the coast, filled with the symbols of war and the sea: shields, swords, anchors and pictures of fierce sea storms.
 
 : The Hammer Raised
 
@@ -214,54 +212,31 @@ Thunder goes forth
 over those sailing onward.
 ```
 
-## Sacred Objects
+## Objects, Relics and Servants
 
-- **Hammer Stone:** Represents strength and protection, symbolizing [[lore-thrunhamarr|Thrúnhamarr]].
-- **Iron Nail:** Symbolizes the hardiness and resilience of warriors.
-- **Sea Shell:** Represents the god's dominion over the seas.
-- **Stormwater:** Collected during a thunderstorm, it symbolizes Thrúnvald's power over storms.
+A worshipper carries a hammer stone for strength and protection, which stands for Thrúnhamarr; an iron nail for the hardiness and resilience of warriors; a sea shell for the god's dominion over the seas; or stormwater, collected during a thunderstorm, for his power over storms. Three relics belong to the faith. **Thrúnhamarr's Fragment** is a shard of the god's hammer that crackles with energy within a faint aura of lightning, and those who carry it into battle are granted great might and the power to summon storms. The **Stormcaller's Amulet** is a pendant of polished sky iron, worn by priests and warriors and said to bolster their strength in battle. The **Thunderstruck Ring** is a plain iron band said to be infused with the essence of lightning and forged during a thunderstorm, and it gives the wearer greater speed and reflexes.
 
-## Relics
+Two kinds of servant belong to Thrúnvald. The **Storm Giants** are massive beings who command storms and wield great power over the seas. The **Thunderbears** are massive, imposing bears whose fur shimmers like storm clouds and whose eyes glow with the light of distant lightning; their roars echo like thunder and their footsteps make the ground tremble, and they serve as the god's guardians and enforcers.
 
-- **[[lore-thrunhamarr|Thrúnhamarr]]'s Fragment:** A shard from Thrúnvald's legendary hammer, imbued with the thunder god's power, crackling with energy and surrounded by a faint aura of lightning. Those who carry it into battle are granted unparalleled might and the power to summon storms.
-- **Stormcaller's Amulet:** A pendant crafted from a polished piece of sky iron, worn by Thrúnvald's priests and warriors, said to bolster their strength in battle.
-- **Thunderstruck Ring:** A simple iron band said to be infused with the essence of lightning, forged during a thunderstorm. Provides the wearer with increased speed and reflexes.
+## The Clergy
 
-## Clergy
+Every rung belongs to a coastal hof:
 
-- **Refused the Blót**—denied the offering at a coastal hof, cut from the clergy and from the crew that shares its blessing.
-- **Blótmadr**—attends the blót at a coastal hof and shares its sea-blessing.
-- **Hofsmadr**—given to a coastal hof young, laboring at its nets and its storm-rites before any claim to the priesthood.
-- **Godi / Gydja**—ordained to keep a coastal hof's rites and bless its ships.
-- **Hofgodi / Hofgydja**—consecrates coastal hofs, ordains their godar, and performs the great blót at a season's turning.
+- Refused the Blót: denied the offering at a coastal hof, and cut from the clergy and from the crew that shares its blessing.
+- Blótmadr: attends the blót at a coastal hof and shares its sea-blessing.
+- Hofsmadr: given to a coastal hof young, laboring at its nets and its storm-rites before any claim to the priesthood.
+- Godi / Gydja: ordained to keep a coastal hof's rites and bless its ships.
+- Hofgodi / Hofgydja: consecrates coastal hofs, ordains their godar, and performs the great blót at a season's turning.
 
-**Key Skills:** Weather manipulation and storm calling, Combat training and weapon mastery, Seafaring and navigation, Protection and blessing rituals
-
-## Divine Servants
-
-- **Storm Giants:** Massive beings who control storms and wield immense power over the seas.
-- **Thunderbears:** Massive, imposing bears with fur that shimmers like storm clouds and eyes that glow with the light of distant lightning. Their roars echo like thunder, and their footsteps can cause the ground to tremble. They serve as Thrúnvald's guardians and enforcers.
+The faith teaches weather manipulation and storm calling, combat training and weapon mastery, seafaring and navigation, and the rites of protection and blessing.
 
 ## Ceremonies and Festivals
 
-### Low Ceremonies
-
-- **The Hammer's Blessing:** A ritual where the faithful receive a blessing for strength and protection in their daily lives.
-
-### High Ceremonies
-
-- **The Hammer's Vigil:** A ceremony where high priests stand guard over sacred relics, calling upon Thrúnvald's protection through the night.
-- **The Reaver's Thanksgiving:** The high rite of Thrúnvald's own calendar, kept between the four great seasonal blóts of the Asguardian year.
-
-### Festivals
-
-- **The Ocean's Roar:** A festival dedicated to seafaring and exploration, with races, competitions, and rituals to honor Thrúnvald's dominion over the seas.
+The low ceremony is the **Hammer's Blessing**, in which the faithful receive a blessing for strength and protection in their daily lives. There are two high ceremonies. At the **Hammer's Vigil** high priests stand guard over sacred relics through the night and call on Thrúnvald's protection. The **Reaver's Thanksgiving** is the high rite of Thrúnvald's own calendar, kept between the four great seasonal blóts of the Asguardian year. The festival is the **Ocean's Roar**, given to seafaring and exploration, with races, competitions and rites that honor his dominion over the seas.
 
 ## Ordeals for Favor
 
-- **The Hammer's Trial:** A test where the faithful must lift and carry a heavy hammer over a great distance, dedicating their strength to Thrúnvald.
-- **The Ocean's Challenge:** An ordeal where participants must navigate treacherous waters, trusting in Thrúnvald to guide them safely.
-- **The Iron Vigil:** An ordeal where participants must remain vigilant through a stormy night, protecting a sacred site from any threat.
+Three ordeals win the god's favor. In the **Hammer's Trial** the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrúnvald. In the **Ocean's Challenge** participants navigate treacherous waters, trusting the god to guide them safely. In the **Iron Vigil** they remain watchful through a stormy night and protect a sacred site from any threat.
 
 ## See Also
 

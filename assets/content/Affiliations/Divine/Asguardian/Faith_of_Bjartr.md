@@ -56,60 +56,31 @@ sohl: {system: {commonSkills: []}}
 #   symbol: Sunstone and silver leaf
 ---
 
-"[[lore-bjartrdty|Bjartr]]" is the Asguardian name for [[lore-goddreams|The God of Dreams]]—a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
+You will not find Bjartr's faithful gathered in a hof. They gather under trees. At the **Blessing of Light**, a priest stands a worshipper in a forest clearing at dusk and asks that the light come between that person and despair, and for most of Bjartr's followers that one ceremony is the whole of their devotion. A pilgrim who walks to a northern grove each autumn puts it plainly: "I will never be a priest, and nobody there expects it of me. I take the blessing, I sleep easier for a season, and I go home. The faith asks nothing more than that I came."
 
-Among northern humans, the Faith of Bjartr draws worshippers primarily through the deity's dream aspect—the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Bjartr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
+[[lore-bjartrdty|Bjartr]] is the Asguardian name for [[lore-goddreams|the God of Dreams]], a deity older than any human pantheon, honored by the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] since before humankind existed. The Aurèldían peoples know the same god as [[lore-theriadty|Aethería]]. Among northern humans the faith draws its worshippers through the god's dream aspect, the power to guide, inspire and foretell through the landscapes of sleep. That makes it unusual among the [[affiliation-asguardian|Ten]]: where most northern faiths are led by warriors, jarls and seafarers, Bjartr's human followers tend to be seers, healers and people who look for wisdom in vision rather than in the sword.
 
-## Aspects
+## What the Light Means
 
-As the god of light, Bjartr embodies purity and enlightenment, casting away shadows and bringing clarity. This light is not merely physical but symbolic—hope, truth, and the power to overcome darkness. It nurtures life and fosters growth, harmonizing with the natural world.
+Ask the pilgrim what Bjartr's light is and the answer is wider than the sun. It is clarity and hope and the truth that drives off shadow, and it feeds living things and lets them grow in step with the natural world. Images of the god show an aura of radiance around a serene figure of boundless compassion, ringed by the things that carry the elder races' bond with the world: ancient trees, intricate runes, luminous crystals. That bond is older than human memory.
 
-Bjartr is often depicted with an aura of radiant light, serene and filled with boundless compassion. Around the deity, symbols of nature and the elder races—ancient trees, intricate runes, luminous crystals—serve as testaments to a divine connection with the world that predates human memory.
+A worshipper carries one of four objects. A sunstone stands for light and clarity, an owl's feather for wisdom and guidance in dreams, a silver leaf for purity and the tie to living growth, and a crystal dewdrop for the ethereal nature of dreams. The faith's one named relic is **The Lightstone**, a radiant gem believed to be a fragment of Bjartr's divine essence.
 
-## Sacred Objects
+## Who Keeps the Rites
 
-- **Sunstone:** Represents light and clarity.
-- **Feather of an Owl:** Symbolizes wisdom and guidance in dreams.
-- **Silver Leaf:** Reflects purity and the connection to nature.
-- **Crystal Dewdrop:** Signifies purity and the ethereal nature of dreams.
+Human adherents of Bjartr have taken the Sinalëan clergy structure, the only faith of the Ten to do so; [[lore-goddreams|The God of Dreams]] sets out the whole of it. The structure is nearly flat. The faithful come to the rites and take the priests' blessing. An [[lore-tindesarrnk|Ilthorinno]] ("seer") is newly called and learns dream-reading, healing and the tending of groves under an Ansorunno's guidance, in a bond closer to apprentice and mentor than to subordinate and superior. Every [[lore-calathirrnk|Ansorunno]] ("long-watcher") keeps the rites, cares for the faithful and stewards the sacred places, and every Ansorunno stands equal to every other. Any one of them may call the **Aulirarno** ("council of radiance"), an open convocation with no presiding officer that decides what touches the whole faith by deliberation rather than decree.
 
-## Relics
-
-- **The Lightstone:** A radiant gem believed to be a fragment of Bjartr's divine essence.
-
-## Clergy
-
-Human adherents of Bjartr have adopted the Sinalëan clergy structure—the only Asguardian faith to do so. See [[lore-goddreams|The Sinalëan Tradition]] for the full structure (Ilthorinno, Ansorunno, and the Aulirarno convocation).
-
-**Key Skills:** Dream interpretation, Archery, Survival, Tracking, Trance, Communication with elder races, Prophecy
-
-## Divine Servants
-
-- **Luminae:** Beings of pure light who serve as the deity's messengers.
-- **Dreamwardens:** Spirits who roam the spirit realm and guide souls through their dreams.
+The faith's skills are the ones a seer and a grove-keeper need: dream interpretation, archery, survival, tracking, trance, communication with the elder races and prophecy. Two kinds of servant belong to the god. The **Luminae**, beings of pure light, carry his messages, and the **Dreamwardens** are spirits who roam the spirit realm and guide souls through their dreams.
 
 ## Ceremonies and Festivals
 
-**Low Ceremonies:**
+The Blessing of Light is the faith's low ceremony, held by preference in a forest, where the faithful receive a blessing to inspire their connection to light and nature and to ward off darkness and despair. The high ceremonies belong to the clergy. At the **Rite of Illumination** the clergy gather to deepen their connection with Bjartr's light, and the gathering often brings visions or inspiration; at the **Weaving of Dreams** the high-ranking priests raise protective wards and dreamscapes over the community, so that its sleep is peaceful and its dreams useful.
 
-- **The Blessing of Light:** A ceremony, preferentially held in a forest, where the faithful receive a blessing from the priests to inspire connection to light and nature and ward against darkness and despair.
-
-**High Ceremonies:**
-
-- **The Rite of Illumination:** A sacred ritual where the clergy gather to deepen their connection with Bjartr's light, often resulting in visions or divine inspiration.
-- **The Weaving of Dreams:** A ceremony where high-ranking priests create protective wards and dreamscapes for the community, ensuring peaceful and insightful dreams.
-
-**Festivals:**
-
-- **Festival of the Radiant Dawn:** Celebrated at the summer solstice, this festival honors Bjartr's light with grand processions, music, and the lighting of massive bonfires.
-- **The Night of Dreams:** An annual event where the faithful gather to share their dreams and visions, seeking wisdom and guidance from Bjartr.
+Two festivals mark the year. The **Festival of the Radiant Dawn** falls at the summer solstice, the season of [[lore-midsumar|Midsumar]], and honors Bjartr's light with grand processions, music and the lighting of massive bonfires. The **Night of Dreams** is the annual gathering where the faithful share their dreams and visions and look to Bjartr for wisdom and guidance. Of the two, the Night of Dreams is the one a newcomer should attend first: it asks only that you listen.
 
 ## Ordeals for Favor
 
-- **The Dreamwalk:** A journey through the spirit realm, where the faithful must navigate and confront their fears and desires to emerge enlightened.
-- **The Elder's Blessing:** A pilgrimage to the ancient groves or halls of the elder races, seeking their wisdom and Bjartr's favor.
-- **The Luminous Quest:** A task where the faithful must retrieve a lost artifact of light from a dark and dangerous place.
-- **The Rite of Pure Vision:** An ordeal involving a period of sensory deprivation, allowing the participant to experience true vision and clarity.
+Four ordeals win Bjartr's particular favor, and each tests a different part of a seer. In the **Dreamwalk** the faithful travel through the spirit realm, facing their fears and desires until they emerge enlightened. The **Elder's Blessing** is a pilgrimage to the ancient groves or halls of the elder races, seeking their wisdom and Bjartr's favor. The **Luminous Quest** sends the faithful to retrieve a lost artifact of light from a dark and dangerous place. In the **Rite of Pure Vision** a participant endures a period of sensory deprivation and comes out, if the rite works, with true vision and clarity.
 
 ## See Also
 

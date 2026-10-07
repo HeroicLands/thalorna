@@ -62,68 +62,39 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-odvardty|Ódvar]] is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters. Ódvar's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.
+When a rune-hall casts the staves for the whole community, a Blótmadr stands at the back with the mead cup. A Blótmadr at a hall of Ódvar is not a caster and never claims to be. "I pour, I listen, I carry the cup round afterward," he says. "The runes do not tell the hall what to do. They show the shape of the current a choice will run in, and the hall decides what to do with the shape. Anyone who tells you more than that has not watched many casts."
 
-## Aspects
+[[lore-odvardty|Ódvar]] is the god of knowledge, wisdom and the pursuit of understanding. The faith's founding story is his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters, and his wisdom reaches beyond the scholar's into the mystical and the arcane: the runes, the secrets of the cosmos and the mysteries of life and death. His reach extends further still. He is a god of poetry, war and honorable death, who guides souls to [[place-valsal|Valsal]] and inspires warriors with the courage to fight and the judgment to know when to use their power. The faith calls him a god of paradoxes, creator and destroyer, wise and warlike, loving and fearsome.
 
-Ódvar is often depicted as an imposing figure, with a long, flowing beard and a wide-brimmed hat that casts a shadow over his single, all-seeing eye. He is accompanied by his two ravens, [[lore-hugvin|Hugvin]] (thought) and [[lore-munvin|Munvin]] (memory), who fly across the world each day, gathering knowledge and news to bring back to their master.
+## Images and Objects
 
-His influence extends far beyond mere intellectual pursuits; he is also a god of poetry, war, and honorable death, guiding souls to [[place-valsal|Valsal]] and inspiring warriors with the courage to fight and the wisdom to know when to wield their power. His complex nature makes him a god of paradoxes—both creator and destroyer, wise and warlike, loving and fearsome.
+Ódvar is shown as an imposing figure with a long, flowing beard and a wide-brimmed hat that shadows his single eye. Two ravens accompany him, [[lore-hugvin|Hugvin]] (thought) and [[lore-munvin|Munvin]] (memory), who fly across the world each day to gather knowledge and news for their master. In art he holds the spear [[lore-skjalfgeir|Skjálfgeir]], which never misses its mark and stands for his precision and authority, and sometimes he carries the severed head of Minnir, from whom he still takes counsel.
 
-In artistic depictions, Ódvar is often shown holding a spear, [[lore-skjalfgeir|Skjálfgeir]], which never misses its mark, symbolizing his precision and authority. He may also be depicted with the severed head of [[lore-minnir|Minnir]], from whom he continues to seek counsel.
+A worshipper carries a raven feather for thought and memory, a runestone for the power of knowledge and ancient wisdom, well water taken from a sacred well for the quest for understanding, or a worn scroll for learning and the preservation of knowledge. Three relics belong to the faith. **Skjálfgeir's Echo** is a fragment of the god's spear, believed to give its bearer exact precision and authority in combat and in leadership. **Wisdom's Eye** is a small, blessed, polished stone said to give its holder sharper intuition and the ability to see through deception. The **Raven's Feather Quill** is a pen cut from a feather said to have fallen from Hugvin or Munvin, prized by scribes and seers and believed to channel Ódvar's wisdom directly into the written word.
 
-## Sacred Objects
+## The Clergy
 
-- **Raven Feather:** Represents thought and memory, symbolizing [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]].
-- **Runestone:** Symbolizes the power of knowledge and ancient wisdom.
-- **Well Water:** Taken from sacred wells, it represents the quest for understanding.
-- **Worn Scroll:** A symbol of learning and the preservation of knowledge.
+Every rung of the ladder belongs to a rune-hall:
 
-## Relics
+- Refused the Blót: denied the mead and rune-offering at a rune-hall, and cut from the clergy and from the hall's reckoning of him.
+- Blótmadr: attends the blót at a rune-hall and shares its mead and meal.
+- Hofsmadr: given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
+- Godi / Gydja: ordained to keep a rune-hall's rites and the rune-casting that guides its people.
+- Hofgodi / Hofgydja: consecrates rune-halls, ordains their godar, and performs the great blót at a season's turning.
 
-- **[[lore-skjalfgeir|Skjálfgeir]]'s Echo:** A fragment of Ódvar's legendary spear, [[lore-skjalfgeir|Skjálfgeir]], believed to grant its bearer unparalleled precision and authority in both combat and leadership.
-- **Wisdom's Eye:** A small, blessed polished stone said to offer the holder enhanced intuition and the ability to see through deception.
-- **Raven's Feather Quill:** A writing instrument made from a feather said to have fallen from [[lore-hugvin|Hugvin]] or [[lore-munvin|Munvin]]. Prized by scribes and seers, this quill is believed to channel Ódvar's wisdom directly into the written word.
-
-## Clergy
-
-- **Refused the Blót**—denied the mead and rune-offering at a rune-hall, cut from the clergy and from the hall's reckoning of him.
-- **Blótmadr**—attends the blót at a rune-hall and shares its mead and meal.
-- **Hofsmadr**—given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
-- **Godi / Gydja**—ordained to keep a rune-hall's rites and the rune-casting that guides its people.
-- **Hofgodi / Hofgydja**—consecrates rune-halls, ordains their godar, and performs the great blót at a season's turning.
-
-**Key Skills:** Rune casting and divination, Shamanic journeying, Poetic inspiration and storytelling, Battle wisdom and strategic insight, Intrigue and Politics, Arcane arts
-
-## Divine Servants
-
-- **Valkyries:** Choosers of the slain, they select fallen warriors to bring to Valsal.
-- [[lore-valdrengir|Valdrengir]]: The honored dead who reside in Valsal, training for the final battle of [[lore-aldarlok|Aldarlok]].
-- [[lore-hugvin|Hugvin]]: One of Ódvar's ravens, representing thought, who flies across the world gathering knowledge and wisdom.
-- [[lore-munvin|Munvin]]: The other of Ódvar's ravens, symbolizing memory, who travels far and wide to bring back insights from all corners of the world.
+The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Ódvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead go instead to Sólrún's field at [[place-solvangr|Sólvangr]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
 
 ## Ceremonies and Festivals
 
-**Low Ceremonies:**
+The low ceremonies are two. Rune-casting is a public ritual, performed to give the community guidance. The **All-Father's Blessing** is the ceremony at which the faithful receive a blessing for wisdom and protection in their endeavors.
 
-- **Rune Casting:** A public ritual where runes are cast to provide guidance for the community.
-- **The All-Father's Blessing:** A ceremony where the faithful receive a blessing for wisdom and protection in their endeavors.
+The high ceremony is the **Rite of Minnir's Well**, in which the clergy drink from a blessed chalice said to stand for the well itself and so deepen their connection to Ódvar's wisdom. The Hofgodi of [[place-odholm|Ódholm]], whose rune-hall the faith's hofs acknowledge as first among them, will not delegate it: the draft is taken at the one hour of the year the rune-staves are recast for the coming season.
 
-**High Ceremonies:**
-
-- **The Rite of [[lore-minnir|Minnir]]'s Well:** A sacred ritual where the clergy ritualistically drink from a blessed chalice said to represent [[lore-minnir|Minnir]]'s Well to deepen their connection to Ódvar's wisdom. The Hofgodi of [[place-odholm|Ódholm]], whose rune-hall the faith's hofs acknowledge as the first among them, will not delegate it: the draft is taken at the one hour of the year the rune-staves are recast for the coming season.
-
-**Festivals:**
-
-- **The Feast of Valsal:** An annual celebration in honor of fallen warriors, filled with feasting, storytelling, and the retelling of heroic sagas.
+The faith's festival is the **Feast of Valsal**, an annual celebration in honor of fallen warriors, filled with feasting, storytelling and the retelling of heroic sagas.
 
 ## Ordeals for Favor
 
-- **The Trial of the Runes:** An ordeal where the faithful must accurately interpret a complex rune casting in a time of crisis.
-- **The Vision Quest:** A solitary journey into the wilderness to seek visions from Ódvar, often involving fasting and meditation.
-- **The Saga's Challenge:** An ordeal where participants must compose and recite a saga that honors Ódvar, testing their poetic skill.
-- **The Warrior's Vigil:** A night-long vigil where the faithful must stay awake, guarding a sacred site or artifact.
-- **The Raven's Oath:** A binding oath made under the watch of ravens, pledging commitment to a task or goal that must then be achieved.
+Five ordeals win the All-Father's favor. In the **Trial of the Runes** the faithful must interpret a complex rune casting correctly in a time of crisis. The **Vision Quest** is a solitary journey into the wilderness to seek visions from Ódvar, often with fasting and meditation. In the **Saga's Challenge** participants compose and recite a saga that honors Ódvar, which tests their poetic skill. The **Warrior's Vigil** is a night-long vigil in which the faithful must stay awake and guard a sacred site or artifact. In the **Raven's Oath** the participant makes a binding oath under the watch of ravens, pledging themselves to a task or goal that must then be achieved.
 
 ## See Also
 
