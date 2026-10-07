@@ -54,7 +54,7 @@ A stranger meets smaller offices first. The agoranomos is warden of the market�
 
 > In Thyrenae, you go to the agora for oil and find a crowd in the shade of the colonnade, packed around a trestle table. The marble underfoot is cool and gritty with the morning's sweepings; someone is selling figs from a basket, and the smell of them mixes with lamp oil and sweat. At the table a thin man in a plain brown cloak turns the pages of a ledger with one wet finger, slowly. Across from him stands a magistrate in a white mantle with a purple border, his traveling chest at his feet and a porter waiting beside it. "When the books balance," the auditor says, without looking up, "and not an hour before." He turns another page. The crowd settles in to watch, and a boy runs off to tell the porter's master that the ship will sail without its passenger.
 
-Standing runs in a short ladder. The citizen, by descent, votes and serves in the militia. Below him are the metic, a resident foreigner who pays tax and stands the levy with no vote and no right to own land; the freedman, who works and trades but is barred from the assembly for life; and the slave. Below them all is the atimos, stripped of civic honor by the courts and barred from the assembly, the agora and the temples while still living among those who barred him. A foreign student who stays is a metic, and can earn the most prestigious education in the west in Thyrenae without ever voting there.
+Standing runs in a short ladder. The citizen, by descent, votes and serves in the militia. Below him are the metic, a resident foreigner who pays tax and stands the levy with no vote and no right to own land; the freedman, who works and trades but is barred from the assembly for life; and the slave. Below them all is the _atimos_, stripped of civic honor by the courts and barred from the assembly, the agora and the temples while still living among those who barred him. A foreign student who stays is a metic, and can earn the most prestigious education in the west in Thyrenae without ever voting there.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -163,17 +163,15 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 | agora         | The public square of a city: market, meeting place and arena of argument         |
 | agoranomos    | Warden of the market, ruling on weights, coin, quality and disputes              |
 | archon        | Presiding magistrate for one year, who gives the year his name                   |
-| Argo          | The everyday silver coin of Vylarian money; formally the Argentus                |
-| atimos        | A person stripped of civic honor by the courts and barred from public life       |
-| Aurion        | The gold coin of Vylarian money, worth 160 Argo and seldom seen                  |
-| Bit           | A silver wedge worth one-eighth of an Argo; formally the Octus                   |
 | gymnasiarch   | Patron and warden of a gymnasium, paid from his own purse                        |
 | hetaira       | An educated companion trained in music, philosophy, rhetoric and the social arts |
 | honor-trial   | A trial of civic honor judged by the Temple of Árdavon in Korinthea              |
 | mage-warlord  | A Helionite mage of the conquest war who commanded forces his own city could not |
 | metic         | A resident foreigner, taxed and levied, with no vote and no land                 |
 | mystery cult  | A secret religious society that reveals its teaching to initiates in stages      |
-| nomophylax    | Guardian of the laws, who may halt a decree that contradicts them                |
 | patron family | One of the wealthy families that govern a city and fund its theater and temples  |
-| priest-judge  | A judge of the Temple of Árdavon, holding priesthood and civic office together   |
 | strategos     | Elected commander of a city's forces, re-electable without limit                 |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+
+The [[lore-helioniteclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

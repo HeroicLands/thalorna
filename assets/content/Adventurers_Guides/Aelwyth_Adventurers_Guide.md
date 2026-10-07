@@ -42,12 +42,18 @@ A Tarvennese merchant hires you to get a relic past the officers at Ravenmoor, a
 
 ## Glossary
 
-| Word            | Meaning                                                                          |
-| --------------- | -------------------------------------------------------------------------------- |
-| Argo            | The silver coin of ordinary commerce, one-hundred-sixtieth of an Aurion          |
-| Aurion          | The Vylarian gold coin, used for land, inheritance and great contracts           |
-| Bit             | A wedge of silver, one-eighth of an Argo; the coin of daily life                 |
-| chantry         | A house of the Ordo; the Synod at Ravenmoor is the central chantry of the island |
-| compulsory call | The Synod's rule that every crossing ship puts in at Ravenmoor first             |
-| jarl            | A Nordman lord of Stormveld                                                      |
-| Knight-Captain  | A commander of the Order of the Just Blade, Dúnavarre's army                     |
+| Word            | Meaning                                                                                      |
+| --------------- | -------------------------------------------------------------------------------------------- |
+| bordered mantle | The garment of a Tarvennese senator, copied from Vylarian report                             |
+| chantry         | A house of the Ordo; the Synod at Ravenmoor is the central chantry for the island            |
+| compulsory call | The Synod's rule that every ship crossing to or from the mainland puts in at Ravenmoor first |
+| court seer      | A seer of the Aldorathi court, heeded on prophecy as much as any commander                   |
+| Knight-Captain  | A commander of the Order of the Just Blade, which serves as Dúnavarre's army                 |
+| observance      | The offering an Aelwythan leaves at a stone, a crossroads or a lake                          |
+| shunning        | The Synod's first sanction: a realm's Ordo advisors withdraw and no others can be had        |
+| trackstone      | A standing marker of the old trackways in the Peshtar country, older than the Peshtar        |
+| war-chief       | The martial leader of a Peshtar clan, chosen by the acclamation of its warriors              |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and thrall are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].
+
+The [[lore-aelwythanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

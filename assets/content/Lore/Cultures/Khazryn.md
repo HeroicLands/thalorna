@@ -68,3 +68,31 @@ Above all of it he owes the record. A Khazryn who lets a genealogy lapse, or let
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the conquerors, and the other half of the quarrel
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the twelve, as the Khazryn Mōbads systematized them
 - [[affiliation-zurathra|Faith of Zúráthrä]]—the Mother of the Oasis, and the shrine at every spring
+
+## Glossary {#glossary}
+
+| Term                       | Meaning                                                                                                  |
+| -------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Āsha                       | The cosmic order of truth that Āhúrdáén sustains and the faithful serve                                  |
+| Āthravān                   | An initiate studying for the priesthood of Āhúrdáén                                                      |
+| blood-debtor               | One under an unsettled feud and outside the houses' protection until it is paid or avenged               |
+| Druj                       | The force of disorder and the lie that presses against Āsha                                              |
+| envoy to the Sultanate     | A princely house's representative at Amradad, where the Council of the Princes meets                     |
+| exile court                | A dispossessed house's household, archive and ceremonial, kept in Amradad                                |
+| exile house                | One of the four princely houses that rule their lost cities in exile                                     |
+| fire-temple                | A temple of the Āsháian faith built around its sacred fire                                               |
+| first of the seven         | The senior prince, who speaks first at the Council of the Princes and commands nothing by it             |
+| heir-in-exile              | The person who would rule a lost city if its house were restored                                         |
+| Hērbad                     | A priest of Āhúrdáén below the Mōbad, who keeps a fire-temple, judges and teaches                        |
+| High Mōbad                 | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes     |
+| intercalary festival       | The five days that close the Khazryn year before the spring equinox                                      |
+| keeper of the feud         | Recorder of blood owed and blood paid between the houses and against the Ātárzád                         |
+| keeper of the tablets      | Archivist of the baked-clay record on which a house's claim to its city rests                            |
+| lost cities                | Shirvan, Ashkarad, Zargandûr and Kethramír, the four Khazryn cities the Ātárzád hold                     |
+| Mōbad                      | Priest and judge, ordained after fifteen to twenty years' study, who keeps a community's law and records |
+| Mōbadate                   | The body of Mōbads, which keeps the faith, the calendar, the law and the records                         |
+| steward of the exile court | Administrator of a dispossessed house's revenues, clients and claims in Amradad                          |
+| warden of the oasis        | Keeper of a still-held oasis's water, walls and gates                                                    |
+| water-tax                  | The tribute the Ātárzád levy on Khazryn heads of household for the use of city water                     |
+
+Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

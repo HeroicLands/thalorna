@@ -143,20 +143,21 @@ Campaigns start well from a debt. A house calls in a loan from a captain who can
 
 ## Glossary
 
-| Word                  | Meaning                                                                                        |
-| --------------------- | ---------------------------------------------------------------------------------------------- |
-| Argo                  | The silver coin, struck to full Vylarian weight; 160 make an Aurion.                           |
-| Arch-Consul           | The presiding office of the Grand Council, rotating among the cities and mostly ceremonial.    |
-| Aurion                | The gold coin, struck in Harad about 7 percent lighter than the Vylarian standard.             |
-| Bayt script           | Paper credit issued by the Haradian treasury, honored by its moneylenders and no Vylarian one. |
-| Bit                   | The smallest coin, an eighth of an Argo.                                                       |
-| First of the Council  | The presiding officer of a city's council, holding the city's seal for a fixed term.           |
-| freeman of the city   | One enrolled in a city's register, free to trade in its markets and plead in its courts.       |
-| Gizbar                | The treasurer of the Sôd-Naqîrîn, who runs the Confederation's banking.                        |
-| house factor          | The manager of a great house's warehouses, ships or correspondents abroad.                     |
-| merchant prince       | The head of a great trading house; the class that financed the war and governs the peace.      |
-| naqîr                 | A guild-warden; the senior naqîr of each trade sits on the Sôd-Naqîrîn's council.              |
-| pāqîd                 | An overseer of the Sôd-Naqîrîn, who inspects guilds and prosecutes charter violations.         |
-| Rab-Naqîr             | The elected head of the Sôd-Naqîrîn.                                                           |
-| struck from the roll  | Expelled from a city's register: no charter, no court, and every contract void.                |
-| Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                               |
+| Word                  | Meaning                                                                                                         |
+| --------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Arch-Consul           | The presiding office of the Grand Council, rotating among the cities and mostly ceremonial.                     |
+| Bayt script           | Paper credit issued by the Haradian treasury, honored by its moneylenders and no Vylarian one.                  |
+| First of the Council  | The presiding officer of a city's council, holding the city's seal for a fixed term.                            |
+| freeman of the city   | One enrolled in a city's register, free to trade in its markets and plead in its courts.                        |
+| Gizbar                | The treasurer of the Sôd-Naqîrîn, who runs the Confederation's banking.                                         |
+| house head            | The master of a merchant house, its capital and its name, and an elector of its city's council.                 |
+| merchant prince       | The head of a great trading house; the class that financed the war and governs the peace.                       |
+| naqîr                 | A guild-warden; the senior naqîr of each trade sits on the Sôd-Naqîrîn's council.                               |
+| pāqîd                 | An overseer of the Sôd-Naqîrîn, who inspects guilds and prosecutes charter violations.                          |
+| Rab-Naqîr             | The elected head of the Sôd-Naqîrîn.                                                                            |
+| struck from the roll  | Expelled from a city's register: no charter, no protection, no standing in its courts, and every contract void. |
+| Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                                                |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+
+The [[lore-haradianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

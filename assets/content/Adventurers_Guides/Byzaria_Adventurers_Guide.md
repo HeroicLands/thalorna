@@ -163,20 +163,19 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 
 | Word                  | Meaning                                                                           |
 | --------------------- | --------------------------------------------------------------------------------- |
-| Argo                  | The everyday silver coin of Vylarian money; formally the Argentus                 |
-| Aurion                | The gold coin of Vylarian money, worth 160 Argo and seldom seen                   |
-| Bit                   | A silver wedge worth one-eighth of an Argo; formally the Octus                    |
 | caravansary master    | Keeper of a caravanserai; in Yeşilhan, a member of the governing council          |
 | caravanserai          | A fortified inn-complex housing merchants, servants and pack animals              |
 | eastern rite          | The Byzarian practice of the Aurèldían faith, contemplative and served by monks   |
 | First of the Council  | A city council's presiding officer for a fixed term, holding the city's seal      |
 | house factor          | Manager of a great house's warehouses, ships and correspondents abroad            |
-| house name            | A family name whose hard final ending says what the house answers for             |
+| house head            | Master of a house's capital and name, and an elector of the council               |
 | Lord Commander        | The League's commander of the Eastern March and its senior soldier                |
 | march                 | A frontier district outside any city's charter, held for the League council       |
 | merchant-prince       | Head of one of the great houses that sit on a city's council                      |
 | paper-script          | Bankers' paper that carries large sums in place of coin                           |
-| struck from the roll  | Expelled from a city's register, with every contract void                         |
-| tomb-keeper           | A hereditary keeper of the tombs of Nékropolis                                    |
 | Warden of the Weights | Inspector of measures, coin and quality; the highest civic honor in a League city |
 | way-fort              | A fortified post on a pass road, a day's march from the next                      |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+
+The [[lore-byzarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

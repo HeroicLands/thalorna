@@ -56,3 +56,38 @@ Last he owes the Pact—the old arrangement with the Áelendan and with what was
 - [[place-elavendre|Élavendre Region]]—the woodland kingdom and its cities
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods as the kingdom keeps them
 - [[skill-elvndrlng|Élavendri]]—the tongue of the houses and the bards
+
+## Glossary {#glossary}
+
+Every Élavendri word and term of art these notes use, with the Áelendan terms the kingdom lives beside.
+
+| Term             | Meaning                                                                                       |
+| ---------------- | --------------------------------------------------------------------------------------------- |
+| ael              | Light, radiance; an Élavendri root common in names                                            |
+| arálwen          | A place where the material world and the spirit world lie naturally thin; pl. arálwain        |
+| arálwen-water    | A river that is arálwen along its length, running partly in each world                        |
+| crown's guide    | A courteous, skilled escort the crown provides to lead Ordo parties to nothing of consequence |
+| Death-Speaker    | An Áelendan who goes to the owl-spirit to ask whether the recently dead have gone             |
+| en               | The Élavendri copula, is; borrowed into Provenzal verse                                       |
+| fae-touched      | Said of land, magic or people marked by the fae                                               |
+| great grove      | One of the nineteen groves that hold a seat on the Grove Council                              |
+| grove-elder      | The druid who holds a great grove and its seat on the Grove Council                           |
+| grovekeeper      | A druid serving a lesser grove, wearing an unworked band                                      |
+| hedge-affiliate  | A village healer, herbalist or folk-magician who walks in the Grove Council's tradition       |
+| hinge-days       | The equinoxes and solstices, when the Grove Council gathers                                   |
+| leaf-mark        | The wrist tattoo of an initiate's home grove, renewed by its elder and fading with absence    |
+| memory-shaping   | A bardic art that works through voice and narrative on memory                                 |
+| offering-stone   | The stone at a seated place where offerings are left                                          |
+| old blood        | Descent from the Áelendan, the source of a noble house's prestige and the crown's claim       |
+| seated           | Said of a spirit bound to a place, such as a tree, a fall or a hollow                         |
+| shadow name      | The true name, used only among intimates and at night                                         |
+| síl              | Song, enchantment; an Élavendri root common in names                                          |
+| song-binding     | A bardic art that binds through song                                                          |
+| sun name         | The name used in formal and public life                                                       |
+| thal             | Shadow, mystery; an Élavendri root common in names                                            |
+| thin place       | Ground where the boundary between this world and the fae realm wears thin                     |
+| Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies        |
+| wandering circle | An itinerant druid who serves groves without a permanent staff                                |
+| Warden           | One of the Áelendan Wardens, who guard the sacred sites and the tree line                     |
+
+Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

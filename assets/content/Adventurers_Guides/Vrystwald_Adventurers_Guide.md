@@ -26,7 +26,7 @@ Vrystwald falls into five reaches, each named for the country it faces. None of 
 - [[place-skathwald|Skathwald]] lies where [[lore-grukarfolk|Grukar]] nests grow thicker toward [[place-grkrhlmrgn|Grukarholm]]. Its villages watch their paths through every season and are the poorest and most embattled in the forest.
 - [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaría, where overgrown imperial forts tempt treasure-hunters and the pass scouts serve no foreign claimant.
 
-At the center of the forest stands [[place-vethwald|Véthwald]], the Deepwood, where the canopy lets in little light even at midsummer. [[place-dunkelwald|Dunkelwald]] keeps the oldest rites there under its Shaman, and [[place-eichengrnd|Eichengrund]] follows a woman War Chief whose visions some call blessed and some call demonic. Along the rivers, [[place-grimholt|Grimholt]] trades furs down and grain up, and [[place-waldburg|Waldburg]], at 800 people the largest gathering in the forest, holds a seasonal market at its crossing. Its market peace, the Frithmund's peace, rests on one plain rule: a killing at the market is answered at once by every tribe present.
+At the center of the forest stands [[place-vethwald|Véthwald]], the Deepwood, where the canopy lets in little light even at midsummer. [[place-dunkelwald|Dunkelwald]] keeps the oldest rites there under its Shaman, and [[place-eichengrnd|Eichengrund]] follows a woman War Chief whose visions some call blessed and some call demonic. Along the rivers, [[place-grimholt|Grimholt]] trades furs down and grain up, and [[place-waldburg|Waldburg]], at 800 people the largest gathering in the forest, holds a seasonal market at its crossing. Its market peace, kept by the _Frithmund_, rests on one plain rule: a killing at the market is answered at once by every tribe present.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -39,25 +39,25 @@ WHERE type = 'place'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The [[place-vrystwldrvrs|rivers]] change with the year. A river party covers ground far faster than walkers in summer, the spring thaw stops both, and in grema, deep winter, the frozen channels carry sleds, traders and raiders alike.
+The [[place-vrystwldrvrs|rivers]] change with the year. A river party covers ground far faster than walkers in summer, the spring thaw stops both, and in _grema_, deep winter, the frozen channels carry sleds, traders and raiders alike.
 
 ## Three Seats, No Throne
 
 > Hródwyn's hall is long and low, its roof posts carved with fish and knots, its air thick with smoke from a fire banked under ash. At the near end a gray man sits mending a net. At the far end the War Chief, a young man with a split lip, sits on a bench with his axe across his knees and does not look up. Hródwyn walks you past both of them to a third bench, where a woman in a russet hood is counting knots on a cord, and puts your bales down in front of her.
 
-Each village has three coequal elders, the Fródrád, with one vote each, so a vote of the three never ties. The Weskár, the Shaman, keeps the village's totem and rules on sacred breaches. The War Chief, the Hárthúl, leads the war-band and keeps the peace. The Other Chief, the Theódár, hears trade, custom, debts, inheritance and blood-payment before witnesses, and in most villages answers for its dealings with outsiders. A matter that crosses their duties goes to the three together. Each seat passes its own way: the Shaman trains and names an apprentice, band leaders contest the War Chief's seat by their deeds, and the people acclaim an Other Chief from among the proven assistants. A village can withdraw its support from any of them.
+Each village has three coequal elders, the Fródrád, with one vote each, so a vote of the three never ties. The Weskár, the Shaman, keeps the village's totem and rules on sacred breaches. The War Chief, the _Hárthúl_, leads the war-band and keeps the peace. The Other Chief, the _Theódár_, hears trade, custom, debts, inheritance and blood-payment before witnesses, and in most villages answers for its dealings with outsiders. A matter that crosses their duties goes to the three together. Each seat passes its own way: the Shaman trains and names an apprentice, band leaders contest the War Chief's seat by their deeds, and the people acclaim an Other Chief from among the proven assistants. A village can withdraw its support from any of them.
 
-Below the seats runs a ladder of standing. A Druthmund is a full member of a kindred, holding a true name earned at eth-kethrun, the rite of adulthood, through a deed of significance. A Hródthúl bears a charge on renown already won, as a Shaman's apprentice or a hunting-band leader. An Edrmund is free and sheltered by a household not of their blood, without a voice at the moot. An Óthmund is enslaved and answers to the óthris, the mistress of the house. At the bottom stands the Vrystrith, cast out by their own kin and claimed by nobody, owed neither shelter nor vengeance.
+Below the seats runs a ladder of standing. A Druthmund is a full member of a kindred, holding a true name earned at eth-kethrun, the rite of adulthood, through a deed of significance. A Hródthúl bears a charge on renown already won, as a Shaman's apprentice or a hunting-band leader. An Edrmund is free and sheltered by a household not of their blood, without a voice at the moot. An Óthmund is enslaved and answers to the _óthris_, the mistress of the house. At the bottom stands the Vrystrith, cast out by their own kin and claimed by nobody, owed neither shelter nor vengeance.
 
 Only imminent danger lets several villages' elders meet, acclaim a common War Chief and call a muster, and that command ends with the response. The brief unity has broken more than one Vylarian legion without leaving a government behind it.
 
 ## Who Trades, Who Fights
 
-The work divides three ways, and a stranger meets all three on the first day. Slaves do the labor: they tend stock, haul wood and water and work the fields. Men train for war as their whole occupation, from boyhood. Women run everything else—the traplines and the fur trade from end to end, the boats and the mórth, the landings where they put in, the stores and the household, the prices and the languages of trade.
+The work divides three ways, and a stranger meets all three on the first day. Slaves do the labor: they tend stock, haul wood and water and work the fields. Men train for war as their whole occupation, from boyhood. Women run everything else—the traplines and the fur trade from end to end, the boats and the _mórth_, the landings where they put in, the stores and the household, the prices and the languages of trade.
 
-So a foreigner who comes to trade deals only with women. They have been down the rivers, know what a skurn, a pelt prepared for market, fetches in three markets, and speak enough of two or three tongues to know when they are lied to. A foreigner who comes to fight meets men who have mostly never left the forest. No chief bargains at a landing.
+So a foreigner who comes to trade deals only with women. They have been down the rivers, know what a _skurn_, a pelt prepared for market, fetches in three markets, and speak enough of two or three tongues to know when they are lied to. A foreigner who comes to fight meets men who have mostly never left the forest. No chief bargains at a landing.
 
-Furs are the great export, with amber, wax, honey, hides, tallow, timber and river fish behind them, and slaves. People taken on the Velanthian frontier or off raided coasts go down the rivers to Nordmal buyers and eastern traders, and Vrystwald is a conduit for them more than a destination. A tribe pays hóva, ransom, for its own captives as a matter of course, and Nordlanders are usually ransomed too; a captive from a southern coast seldom has kin within reach to pay, and stays as household labor. Vylarian coin is the money where money is used at all, though no Vylarian paper is honored; most dealing runs on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|clan credit]].
+Furs are the great export, with amber, wax, honey, hides, tallow, timber and river fish behind them, and slaves. People taken on the Velanthian frontier or off raided coasts go down the rivers to Nordmal buyers and eastern traders, and Vrystwald is a conduit for them more than a destination. A tribe pays _hóva_, ransom, for its own captives as a matter of course, and Nordlanders are usually ransomed too; a captive from a southern coast seldom has kin within reach to pay, and stays as household labor. Vylarian coin is the money where money is used at all, though no Vylarian paper is honored; most dealing runs on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|clan credit]].
 
 ## Keeping Faith
 
@@ -74,13 +74,13 @@ What gets a newcomer into trouble is usually a broken obligation:
 
 > At dusk Hródwyn takes you to the edge of the clearing, where an old oak stands inside a ring of stones. Nobody speaks there. A boy sets down a wooden bowl of fish broth at its roots and backs away, and a gray-haired man with bone beads in his beard, the Shaman, kneels and presses his forehead to the bark for a long time.
 
-The Varokh have no gods, no temples and no priesthood. Each village keeps one wesk, its totem spirit, and its Weskár tends the rites at the sacred grove and the oldest trees. Wesketh binds a person or a village to that spirit; an eldwesk is an ancestor addressed through it. Some people also carry a personal totem suited to their temper, beside the village's and never in its place. The [[lore-sturgeonttm|sturgeon]], the [[lore-boarttm|boar]] and dozens of other animals each mean something particular about the people who follow them. A foreign god may come home with a captive, a spouse or a returning traveler, but it gets no place beside the totem.
+The Varokh have no gods, no temples and no priesthood. Each village keeps one wesk, its totem spirit, and its Weskár tends the rites at the sacred grove and the oldest trees. The _wesketh_ binds a person or a village to that spirit; an _eldwesk_ is an ancestor addressed through it. Some people also carry a personal totem suited to their temper, beside the village's and never in its place. The [[lore-sturgeonttm|sturgeon]], the [[lore-boarttm|boar]] and dozens of other animals each mean something particular about the people who follow them. A foreign god may come home with a captive, a spouse or a returning traveler, but it gets no place beside the totem.
 
-The dead go into the spirit world to be with their clan's wesk, and over generations they merge into the land itself. The ancestors judge there, and those they banish wander among hungry things that hunt the weak; the living do not know the grounds of that judgment. Most of the dead go into sacred ground with useful goods, warriors are often burned with their weapons, and the most revered lie in a hróm, a mound holding generations of a kindred's dead.
+The dead go into the spirit world to be with their clan's wesk, and over generations they merge into the land itself. The ancestors judge there, and those they banish wander among hungry things that hunt the weak; the living do not know the grounds of that judgment. Most of the dead go into sacred ground with useful goods, warriors are often burned with their weapons, and the most revered lie in a _hróm_, a mound holding generations of a kindred's dead.
 
 In trance the Shaman travels among the spirits and may speak with the dead, within strict limits. A Shaman may **never** ask the dead about the future, about the spirit world beyond generalities, about combat or revenge, or about anyone banished. A warrior who wants an ancestor's counsel for a vendetta, or a merchant who wants a dead father's forecast, will not get it from a Shaman who keeps faith. Herbalism, reading signs in the forest and communion with forest spirits are the rest of Varokh magic. The [[affiliation-ordoarcanis|Ordo Arcanis]] has tried to extend its reach here and been rebuffed every time.
 
-The year turns at the seasons with rites of its own. **Weskskald**, the Totem Reciter, is a deep-winter evening when each household recites its eldskorn, the tally of its dead, name by name. **Weskmund**, the Totem Protection, is a late-summer day spent tending sacred ground. A child is named and introduced to the clan at three months, earns a true name at eth-kethrun, and goes to the grave with the Shaman guiding the rite.
+The year turns at the seasons with rites of its own. **Weskskald**, the Totem Reciter, is a deep-winter evening when each household recites its _eldskorn_, the tally of its dead, name by name. **Weskmund**, the Totem Protection, is a late-summer day spent tending sacred ground. A child is named and introduced to the clan at three months, earns a true name at eth-kethrun, and goes to the grave with the Shaman guiding the rite.
 
 ## Neighbors and Dangers
 
@@ -132,33 +132,19 @@ Campaigns start well from a claim on a village. A captive taken in a failed raid
 
 ## Glossary
 
-| Word        | Meaning                                                                                  |
-| ----------- | ---------------------------------------------------------------------------------------- |
-| Athalthúl   | One sent by a village to treat with a settled power, protected by custom while doing so. |
-| Dómrád      | An arbiter of a village's customs, or of a dispute whose parties accept the judgment.    |
-| Druthmund   | A full member of a kindred, holding a true name, a share and a voice.                    |
-| Edrmund     | A free person sheltered by a household not of their blood, with no voice at the moot.    |
-| eldskorn    | The tally of a kindred's dead, recited name by name at Weskskald.                        |
-| eldwesk     | An ancestor spirit addressed through the village's totem.                                |
-| eth-kethrun | The rite of adulthood, at which a deed earns a true name.                                |
-| feud-cord   | A knotted cord a kindred keeps for blood owed, untied when the blood is paid.            |
-| Frithmund   | The holder of the peace at a meeting or seasonal market.                                 |
-| Fródrád     | One of the three elders who govern a village.                                            |
-| grema       | Deep winter, when the frozen rivers become roads.                                        |
-| Hárthúl     | The War Chief of a village, who leads its war-band and keeps its peace.                  |
-| hóva        | Ransom, the price a kindred pays to have its own back.                                   |
-| Hródthúl    | One who bears a charge on renown already won, assisting the three elders.                |
-| hróm        | A burial mound holding generations of a kindred's dead.                                  |
-| mórth       | A landing, where boats put in.                                                           |
-| Óthmund     | An enslaved person, answering to the mistress of the house; not a hereditary standing.   |
-| óthris      | The mistress of a household, who keeps its stores, debts and slaves.                     |
-| Other Chief | Theódár; the elder who hears trade, custom, debts and blood-payment.                     |
-| Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                     |
-| skurn       | A pelt prepared for the river trade.                                                     |
-| Thalthúl    | The keeper of a village's wells, springs or pastures and the order of their use.         |
-| Theódár     | The Other Chief.                                                                         |
-| Véthrith    | A guide who knows the routes, their water, seasons and dangers, hired at a price.        |
-| Vrystrith   | One cast out by their own kin and claimed by none, owed neither shelter nor vengeance.   |
-| wesk        | The one totem spirit a village keeps, and the bond with it.                              |
-| Weskár      | The Shaman, who keeps the village's totem and walks among the spirits.                   |
-| wesketh     | The rite binding a person or a village to its totem.                                     |
+| Word        | Meaning                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Druthmund   | A full member of a kindred by a true name earned at eth-kethrun, entitled to its protection, feud and share. |
+| Edrmund     | A free person sheltered by a household not of their blood, with no independent voice at the moot.            |
+| eth-kethrun | The taking of a true name by a deed, and the rite that marks adulthood.                                      |
+| Fródrád     | One of the three elders who govern a village together: the Shaman, the War Chief or the Other Chief.         |
+| Hródthúl    | One who bears a charge on renown already won, assisting the three elders.                                    |
+| Other Chief | The Theódár: the elder who hears trade, custom, debts, inheritance and blood-payment.                        |
+| Óthmund     | One taken in war or bought, answering to the mistress of the house; the standing is not hereditary.          |
+| Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                                         |
+| Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance.                   |
+| War Chief   | The Hárthúl: the elder who leads the war-band and keeps the village's physical safety.                       |
+| wesk        | The one totem a village keeps, and the bond with its spirit.                                                 |
+| Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                      |
+
+The [[lore-varokhiclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

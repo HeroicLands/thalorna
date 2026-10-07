@@ -18,7 +18,7 @@ The [[affiliation-tanvurempr|Empire of Tānvür]] is the oldest continuously gov
 
 ## The Eight and the Ledger
 
-From the top: the [[lore-zheklung|Zhëklüng]], sons of the Dragon, the Emperor's family and the Warlords; the [[lore-venduk|Vëndük]], sorcerers ranked second and owned as property; the [[lore-vushok|Vüshōk]] warrior nobility; the [[lore-tanthei|Tānthëi]] scholars, who read omens, keep the sacred texts and run the administration; the [[lore-zathuk|Zāthük]] artisans and common soldiers; the [[lore-nokvur|Nōkvür]] farmers; the [[lore-shukren|Shükrën]] merchants, ranked below the farmers however rich they are; and the [[lore-nutzok|Nützōk]], slaves and outcasts. Every traveler carries a Zhāk Müt, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
+From the top: the [[lore-zheklung|Zhëklüng]], sons of the Dragon, the Emperor's family and the Warlords; the [[lore-venduk|Vëndük]], sorcerers ranked second and owned as property; the [[lore-vushok|Vüshōk]] warrior nobility; the [[lore-tanthei|Tānthëi]] scholars, who read omens, keep the sacred texts and run the administration; the [[lore-zathuk|Zāthük]] artisans and common soldiers; the [[lore-nokvur|Nōkvür]] farmers; the [[lore-shukren|Shükrën]] merchants, ranked below the farmers however rich they are; and the [[lore-nutzok|Nützōk]], slaves and outcasts. Every traveler carries a _Zhāk Müt_, a palm-sized hardwood tablet stating caste, clan, district and issuing seal. Forging one is punished by public execution.
 
 Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit and default are recorded, carried and inherited, and a family that neglects its rites is in debt to its own dead. A Tānvüri introduces himself by lineage and caste, in that order, and most people of the lower castes have no personal name at all. Manners are formal and exact. A Tānvüri does not say no outright; he declines in ways a foreigner has to learn to hear. A Tānthëi's reading of the omens can postpone a campaign.
 
@@ -45,18 +45,19 @@ Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit a
 
 ## Glossary
 
-| Word                   | Meaning                                                                      |
-| ---------------------- | ---------------------------------------------------------------------------- |
-| Zhëklüng               | The first caste: the Emperor, his family and the Warlords                    |
-| Vëndük                 | The second caste: sorcerers bound as property to the Zhëklüng                |
-| Vüshōk                 | The third caste: warrior nobility, commanders and administrators             |
-| Tānthëi                | The fourth caste: scholars, omen-readers and keepers of the sacred texts     |
-| Zāthük                 | The fifth caste: artisans, craftsmen and common soldiers                     |
-| Nōkvür                 | The sixth caste: peasant farmers and laborers                                |
-| Shükrën                | The seventh caste: merchants and usurers                                     |
-| Nützōk                 | The eighth caste: slaves and outcasts                                        |
-| omen-reader            | A Tānthëi who reads the heavens for the timing of imperial acts              |
-| caste-registrar        | An official who records each person's classification                         |
-| Zhāk Müt               | The hardwood tablet every traveler carries to show caste, clan and seal      |
-| trading classification | A bureau's temporary standing for a foreign merchant, with a tablet to match |
-| unclassified           | Outside the castes, and so outside the law's protection                      |
+| Word     | Meaning                                                                            |
+| -------- | ---------------------------------------------------------------------------------- |
+| Zhëklüng | The first caste: Sons of the Dragon, the Emperor's family and the Warlords         |
+| Vëndük   | The second caste: sorcerers bound as property to the Zhëklüng                      |
+| Vüshōk   | The third caste: warrior nobility, commanders and administrators                   |
+| Tānthëi  | The fourth caste: celestial scholars, omen-readers and keepers of the sacred texts |
+| Zāthük   | The fifth caste: artisans, craftsmen and common warriors                           |
+| Nōkvür   | The sixth caste: peasant farmers and laborers                                      |
+| Shükrën  | The seventh caste: merchants and usurers                                           |
+| Nützōk   | The eighth caste: slaves and outcasts                                              |
+| Lëi      | Spirit, soul or vital energy, the substance the classification orders              |
+| Lëigürt  | "Spirit Master": a Nōkvür who communes with the dead for their households          |
+| Yātvōr   | The healers of the empire, a profession of the Zāthük caste                        |
+| Hürnlëi  | The primordial chaos of the Unclassified                                           |
+
+The [[lore-tanvuriclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

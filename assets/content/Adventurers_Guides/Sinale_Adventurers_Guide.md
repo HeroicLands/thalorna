@@ -43,11 +43,17 @@ An Ordo chapterhouse in [[place-beravel|Béravel]] holds an object taken from a 
 
 ## Glossary
 
-| Word             | Meaning                                                                      |
-| ---------------- | ---------------------------------------------------------------------------- |
-| carry            | To pass the Sinalë's words to others exactly, adding nothing                 |
-| deeper places    | The country beyond the enclaves that the Sinalë do not claim                 |
-| Elder Races      | The Sinalë and the Khazári, the two peoples older than humankind             |
-| hearth           | A Sinalë lineage, named for the thing it keeps and inherited from the mother |
-| Tradition Keeper | An Áelendan memorizer who holds the Pact, the songs and the genealogies      |
-| Warden           | One of the Áelendan Wardens, who guard the sacred sites and the approaches   |
+| Word          | Meaning                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| carry         | What the Áelendan do for the Sinalë: pass their words exactly, adding nothing, never speaking for them |
+| deeper places | The country beyond the enclaves, which the Sinalë distinguish from their own and do not rule           |
+| Elder Races   | The Sinalë and the Khazári, the two speaking peoples older than humankind                              |
+| hearth        | A Sinalë lineage, named for the thing it keeps and inherited through the mother                        |
+| luuro         | Sing                                                                                                   |
+| nuuva         | Starlight                                                                                              |
+| Sinalo        | One of the Sinalë                                                                                      |
+| wearing       | The change at the head of a word that leans on another; the worn consonant is the grammar              |
+
+Tradition Keeper and Warden are terms from [[lore-elavendriclt#glossary|Élavendre]].
+
+The [[lore-flksinale#glossary|full glossary]] at the end of the Sinalë folk note lists every term these pages use.

@@ -14,7 +14,7 @@ data: {packFolder: adventurersguides}
 
 The [[lore-flkkhazar|Khazári]] are the second of the elder peoples, younger than the [[lore-flksinale|Sinalë]] and ancient beyond any human reckoning. They came to Thalorna about 5300 BF as seven clans fleeing another realm, and they live in holds: cities found in the caves behind mountain cliffs, on every continent, far from human settlement. There are very few of them, and most humans never see one. A party does not usually belong to this people. It meets them at a gate: a door in a cliff, a weighing yard at the end of a mountain road, a Khazári engineer on an imperial work. What happens next depends on whether the party has understood the one thing every Khazár judges by.
 
-**The one thing to understand first: the Khazári ask what the stone wants, and judge everyone by how little they force.** Good work follows the grain of the rock and opens what the mountain already almost holds; evil is forcing, a cut made where none was needed. A master is admired for how little she had to cut. The same measure falls on a stranger. A visitor who demands, hurries or pushes past a refusal has shown in one breath what kind of person he is, and he is not asked in. Being brought inside a hold is tamk, an act of trust, and it is rarely extended.
+**The one thing to understand first: the Khazári ask what the stone wants, and judge everyone by how little they force.** Good work follows the grain of the rock and opens what the mountain already almost holds; evil is forcing, a cut made where none was needed. A master is admired for how little she had to cut. The same measure falls on a stranger. A visitor who demands, hurries or pushes past a refusal has shown in one breath what kind of person he is, and he is not asked in. Being brought inside a hold is _tamk_, an act of trust, and it is rarely extended.
 
 ## Counting in Sixteens
 
@@ -22,7 +22,7 @@ The [[lore-flkkhazar|Khazári]] are the second of the elder peoples, younger tha
 
 The Khazári count in sixteens. What the tally-keeper called is "two sixteen and four": two rows of sixteen and four sacks over, which a human clerk writes as thirty-six. Every number up to fifteen has its own word. Sixteen is girm, said after the count of sixteens and joined to what is left over by _bek_, "and". Sixteen sixteens, 256, is a vazath, a great count.
 
-Sixteen and 256 are the Khazári round numbers, as ten and a hundred are for most human peoples, and 64, four sixteens, is a round figure too. Sixteen halves cleanly to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over, and the craft-records reckon a measure of ore or a length of tunnel in fadhaz, sixteenths. A human clerk who reckons a hold's delivery in tens has his figures accepted, converted and quietly corrected.
+Sixteen and 256 are the Khazári round numbers, as ten and a hundred are for most human peoples, and 64, four sixteens, is a round figure too. Sixteen halves cleanly to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over, and the craft-records reckon a measure of ore or a length of tunnel in _fadhaz_, sixteenths. A human clerk who reckons a hold's delivery in tens has his figures accepted, converted and quietly corrected.
 
 These pages give Khazári counts as ordinary numbers. The sixteens appear only where the reckoning itself is the point.
 
@@ -38,21 +38,21 @@ Human scholars place holds in the mountains of every major continent: above [[pl
 
 ## How a Hold Lives
 
-A hold is found before it is made. The Khazári take the caves a mountain already holds and adapt them, so great limestone caverns become halls, shrines, cisterns and storehouses, and digging is the exception. A hold begins with its fakar, its cave, found by a fakarir, a finder who reads a mountain from outside. Tunnels wind along the varn, the true line the rock runs, because a straight cut is proof that the stone was forced.
+A hold is found before it is made. The Khazári take the caves a mountain already holds and adapt them, so great limestone caverns become halls, shrines, cisterns and storehouses, and digging is the exception. A hold begins with its fakar, its cave, found by a _fakarir_, a finder who reads a mountain from outside. Tunnels wind along the _varn_, the true line the rock runs, because a straight cut is proof that the stone was forced.
 
 Ordinary life happens near the light, in shallow homes set into the face with openings shaped to the rock's cracks. Smoke leaves by natural fissures and disperses on the face, water comes from seeps and a hutavar, a cistern the rock already held, and passages inside the mountain link everything, so no road scars the face.
 
-Depth carries weight. The deeper a room, the holier or more serious its purpose: the hukhard, the inmost hall; the huzafal, the shrines; the tombs and mines; and the famgadurákh, the refuge where the whole hold can be sealed in with stores, light and air. People go down for funerals, festivals, oaths and worship, and in war, and a Khazár who asks you to come down is telling you something serious is about to happen.
+Depth carries weight. The deeper a room, the holier or more serious its purpose: the _hukhard_, the inmost hall; the _huzafal_, the shrines; the tombs and mines; and the famgadurákh, the refuge where the whole hold can be sealed in with stores, light and air. People go down for funerals, festivals, oaths and worship, and in war, and a Khazár who asks you to come down is telling you something serious is about to happen.
 
 A hold grows nothing of its own. It eats what its farmers send up to the gate, and when the harvest fails, the elders open the refuge caches and share them out by need.
 
 ## Listening, the Cut and the Record
 
-Before any cut, a worker listens. She taps the stone and hears how it rings, finds the seam and follows it with her hand—luváz, to follow a seam—and only then decides the day's work. Much of a working day is spent deciding not to cut. Pazal, patience, is a word of the workshop before it is a word of temperament, and khasp, restraint, is the virtue the workshops prize above skill. The finest work, a khispath, barely looks like work at all: a stair the rock nearly held, finished; a hall standing on the pillars the rock left. A narvavutám, a long tunnel cut along the grain that needs no prop, is a miner's masterpiece. A sakap, a prop, is a mark of shame on the working and on the name entered beside it.
+Before any cut, a worker listens. She taps the stone and hears how it rings, finds the seam and follows it with her hand—_luváz_, to follow a seam—and only then decides the day's work. Much of a working day is spent deciding not to cut. _Pazal_, patience, is a word of the workshop before it is a word of temperament, and _khasp_, restraint, is the virtue the workshops prize above skill. The finest work, a _khispath_, barely looks like work at all: a stair the rock nearly held, finished; a hall standing on the pillars the rock left. A narvavutám, a long tunnel cut along the grain that needs no prop, is a miner's masterpiece. A _sakap_, a prop, is a mark of shame on the working and on the name entered beside it.
 
-A life climbs the same ladder. Children learn the hand form of [[skill-drthrkscrpt|Pirzath]] on slate and learn to tell sound stone from rotten by ear. A nabaf, an apprentice, spends years in samgh, listening, sounding stone and watching masters decide where not to cut, and an apprentice who asks too early for a hammer is told to listen another year. Workers strike under a master's eye. Masters strike as a master does, thummár, and are trusted with the first cut of a passage. The old, whose hands fail before their ears do, teach listening and keep the records.
+A life climbs the same ladder. Children learn the hand form of [[skill-drthrkscrpt|Pirzath]] on slate and learn to tell sound stone from rotten by ear. A _nabaf_, an apprentice, spends years in samgh, listening, sounding stone and watching masters decide where not to cut, and an apprentice who asks too early for a hammer is told to listen another year. Workers strike under a master's eye. Masters strike as a master does, _thummár_, and are trusted with the first cut of a passage. The old, whose hands fail before their ears do, teach listening and keep the records.
 
-Everything is written down. The craft-records of every hold name each worker against each cut, and a finished piece carries its warrant, signed, dated and specified on the object itself in dalkapuráz, carved Pirzath, whose angled strokes cross the grain and whose lines follow the seams. Everyday writing is milgath, the flowing hand form. A gharp, a clumsy cut, goes into the record against its maker's name and stays in the stone after everyone who saw it made is dead.
+Everything is written down. The craft-records of every hold name each worker against each cut, and a finished piece carries its warrant, signed, dated and specified on the object itself in _dalkapuráz_, carved Pirzath, whose angled strokes cross the grain and whose lines follow the seams. Everyday writing is _milgath_, the flowing hand form. A gharp, a clumsy cut, goes into the record against its maker's name and stays in the stone after everyone who saw it made is dead.
 
 Penalties rise in a plain order: a gharp entered against your name; mending your own forced cut while a master of another house watches; your tools set aside and a return to the apprentice's rung; and, for a broken oath sworn below, the loss of the right to go down at all. Past all of that lies exile, with no house, no hold and no place in the refuge. Some exiles live by selling to humans what a hold would not have sold.
 
@@ -66,7 +66,7 @@ Quarrels are tried in the deep hall, before the elders of a house, of the hold, 
 
 The Khazári are not much given to worship. The one they venerate, and do not worship, is [[lore-khazararrv|Puthakun]], the servant of [[lore-goddreams|Luváth]] who led the seven clans out of **Humadhan**, "the middle place", held the passage against pursuit until the last clan was through, and sealed it behind them. Every Khazár alive descends from someone he brought out. His name is kept, his deed is remembered below, and good work is the thanks. Luváth they recognize as his master, the light that endures in deep places, and they ask little of the god.
 
-Craft is the prayer, and listening before a cut is the commonest act of devotion. There is no priesthood apart from the masters and elders. The whole hold goes down to its famgafudhán, its deepest sanctuary, at the turning of the year to hear the year's craft-records read by lamplight, on the day of its finding, for the reading of the account of Khazártúrn's fall, and on oath-days, when an undertaking is sworn below and cut where it was spoken. Joy lives near the light, in the courts on the face, with singing that carries along the passages.
+Craft is the prayer, and listening before a cut is the commonest act of devotion. There is no priesthood apart from the masters and elders. The whole hold goes down to its _famgafudhán_, its deepest sanctuary, at the turning of the year to hear the year's craft-records read by lamplight, on the day of its finding, for the reading of the account of Khazártúrn's fall, and on oath-days, when an undertaking is sworn below and cut where it was spoken. Joy lives near the light, in the courts on the face, with singing that carries along the passages.
 
 The dead go down into the mountain's keeping, and their work stays behind them. A dead Khazár answers for a clumsy passage as long as the passage is walked, and a descendant who mends a forebear's flawed cut sets the forebear's record right. At a funeral the hold keeps khullán, silence over the dead, broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
 
@@ -116,34 +116,19 @@ Campaigns start well from something a hold needs and will not leave the rock to 
 
 ## Glossary
 
-| Word         | Meaning                                                                                  |
-| ------------ | ---------------------------------------------------------------------------------------- |
-| craft-record | A hold's written account naming each worker against each cut.                            |
-| dalkapuráz   | Carved Pirzath, cut across the grain along a seam, for oaths, laws, tombs and foundings. |
-| fadhaz       | A sixteenth, the part into which the craft-records divide a measure.                     |
-| fakar        | A cave newly found, the first thing any hold has.                                        |
-| fakarir      | A finder, who reads a mountain from outside and says where its caves and water run.      |
-| famgadurákh  | A hold's refuge, deep in the rock, where its whole people can be sealed in.              |
-| famgafudhán  | A hold's deepest sanctuary, lit by lamps, forges and deep crystal.                       |
-| gharp        | A clumsy cut, entered in the record against its maker's name.                            |
-| girm         | Sixteen, the base of Khazári counting and its first round number.                        |
-| hukhard      | A hold's inmost hall.                                                                    |
-| hutavar      | A cistern, usually a hollow the rock already held.                                       |
-| huzafal      | A shrine deep in the rock.                                                               |
-| khasp        | Restraint, the virtue the workshops prize above skill.                                   |
-| khispath     | Work so fine it barely looks like work at all.                                           |
-| khullán      | The silence kept over the dead.                                                          |
-| luváz        | To follow a seam.                                                                        |
-| madhak       | The living rock.                                                                         |
-| milgath      | The hand form of Pirzath, the everyday writing.                                          |
-| nabaf        | An apprentice, who listens for years before striking anything that matters.              |
-| narvavutám   | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.             |
-| pazal        | Patience, first a word of the workshop.                                                  |
-| sakap        | A prop in a working, and a mark of shame on it.                                          |
-| samgh        | Listening, where every apprenticeship begins.                                            |
-| tamk         | Trust; the act of bringing an outsider inside a hold.                                    |
-| thummár      | To strike as a master does.                                                              |
-| tob          | One.                                                                                     |
-| vagaz        | An outsider.                                                                             |
-| varn         | The true line, the line the rock runs.                                                   |
-| vazath       | A great count: sixteen sixteens, 256.                                                    |
+| Word         | Meaning                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------ |
+| craft-record | A hold's written account naming each worker against each cut and warranting each finished piece. |
+| fakar        | A finding: a cave newly found, the first thing any hold has.                                     |
+| famgadurákh  | A hold's refuge, deep in the rock, where its whole people can be sealed in.                      |
+| gharp        | A clumsy cut, a wound in the stone, entered in the record against its maker's name.              |
+| girm         | Sixteen, the base of Khazári counting and its first round number.                                |
+| hutavar      | A cistern, usually a hollow the rock already held.                                               |
+| khullán      | The silence kept over the dead.                                                                  |
+| narvavutám   | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.                     |
+| samgh        | Listening, attention to stone, where every apprenticeship begins.                                |
+| tob          | One.                                                                                             |
+| vazath       | A great count: sixteen sixteens, 256.                                                            |
+| warrant      | The signature, date and specification cut in carved Pirzath on a finished piece.                 |
+
+The [[lore-khazariclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

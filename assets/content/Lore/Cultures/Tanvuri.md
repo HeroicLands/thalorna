@@ -74,3 +74,64 @@ Beneath all four he owes the sorting itself—the small daily correctness of doi
 - [[lore-celestlrdr|Celestial Order]]—the Bureaucracy, the Dragon and the Unclassified
 - [[lore-ancstrwrshp|Ancestor Worship]]—the ledger and its rites
 - [[skill-tanvurlng|Tānvüri]]—the tongue and what a name states in it
+
+## Glossary {#glossary}
+
+| Term             | Meaning                                                                                              |
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
+| Dāk Rën Thōk     | "The Great Person Record": the imperial census of every person in the empire                         |
+| Dāk Zhāklëi      | The Great Sorting, by which the Celestial Dragon separated and classified the world                  |
+| Dākyāt           | A renowned healer, third rank of the Yātvōr                                                          |
+| Güngvüs          | "Official's guard": the second who assists at a Zëisīk                                               |
+| Hëk              | The dark flow of Lëi, toward dissolution and the undifferentiated                                    |
+| Hōk              | Neutral, balanced Lëi, neither Lëng nor Hëk                                                          |
+| Hōk Lëi          | The harmonized phase, the middle nine years of a celestial generation                                |
+| Hōk Vōr          | The sealing, the closing rite of a marriage                                                          |
+| Hürnlëi          | The primordial chaos of the Unclassified                                                             |
+| Jöng Lëi         | The descending phase, the last nine years of a celestial generation                                  |
+| Kōt Lëi Vōk      | The ancestor consultation held before a marriage                                                     |
+| Kōt Thōk         | "Last Record": the final document composed before a Zëisīk and burned after it                       |
+| Kōt Thōk Dōk     | The tablet transfer, when ancestor tablets pass from the bride's family shrine to the groom's        |
+| Lëi              | Spirit, soul or vital energy, the substance the classification orders                                |
+| Lëi Sëi Thōk     | The petition to the spirit bureaus that opens a marriage                                             |
+| Lëigürt          | "Spirit Master": a Nōkvür who communes with the dead for their households                            |
+| Lëithëi          | "Spirit-Wisdom": the daily meditative movement that realigns the body with its classification        |
+| Lëng             | The bright flow of Lëi, toward classification, distinction and order                                 |
+| moral ledger     | The account of merit and default each person carries and each descendant inherits                    |
+| Nōkvür           | The sixth caste: peasant farmers and laborers                                                        |
+| Nützōk           | The eighth caste: slaves and outcasts                                                                |
+| Rëitsīk          | State-ordered ritual suicide, imposed as a punishment                                                |
+| Sëi Zhāklüt      | Bureau classification of a foreigner by the office his presence touches                              |
+| Shükrën          | The seventh caste: merchants and usurers                                                             |
+| Shükrën Dōk Thōk | The temporary trading classification a foreign merchant receives                                     |
+| Tānthëi          | The fourth caste: celestial scholars, omen-readers and keepers of the sacred texts                   |
+| Tëng Dāk         | A celestial generation of twenty-seven years, the unit of the Celestial Calendar                     |
+| Tëng Lüt         | "Heavenly Law": the legal code of the empire                                                         |
+| Tëngvōr          | The Mandate of Heaven, the cosmic appointment by which the Emperor rules                             |
+| Tëngzhëi         | "Heaven-Child": the Emperor, the Son of Heaven                                                       |
+| Tëngzhëi Zhāklüt | Classification of a foreigner by the Emperor's own decree                                            |
+| Thëizhëit        | An apprentice healer, first rank of the Yātvōr                                                       |
+| Thëng Lëi        | The ascending phase, the first nine years of a celestial generation                                  |
+| Unclassified     | Whatever lies outside the Great Sorting, from chaos to the unregistered foreigner                    |
+| Vëndük           | The second caste: sorcerers bound as property to the Zhëklüng                                        |
+| Vōrjëk           | "Sacred blade": the ceremonial dagger of a Zëisīk, often a family heirloom                           |
+| Vōrlëi           | Spirit, the element the celestial bureaus govern collectively                                        |
+| Vōryāt           | A grand healer, highest rank of the Yātvōr                                                           |
+| Vüs Hōk Lüt      | The Vüshōk code of honor                                                                             |
+| Vüshōk           | The third caste: warrior nobility, commanders and administrators                                     |
+| Vüsrën           | A common soldier, of the Zāthük caste                                                                |
+| Vüszhük          | A warlord, who governs a province with its armies                                                    |
+| Yātgüng          | A licensed practitioner, second rank of the Yātvōr                                                   |
+| Yātvōr           | The healers of the empire, a profession of the Zāthük caste                                          |
+| Yātzāt           | An herbal master or apothecary, one of the two branches of the Yātvōr                                |
+| Yökvëng          | The entities of the Infernal Realms, called demons for convenience                                   |
+| Zāt Vōr Zhëk     | "Sacred-Creation Life": creatures made deliberately by the gods that do not reproduce                |
+| Zāthük           | The fifth caste: artisans, craftsmen and common warriors                                             |
+| Zātkür           | "Hearth Monitor": the spirit official who observes a household's conduct and files its yearly report |
+| Zëisīk           | "Self-death": ritual suicide performed to atone for dishonor or to protest                           |
+| Zhāk Müt         | The hardwood classification tablet every traveler carries to show caste, clan, district and seal     |
+| Zhāklüt          | The Caste Laws, which fix every caste's rights, duties and restrictions                              |
+| Zhāklüt Hōk      | The contract that binds two families in a marriage                                                   |
+| Zhëk Zōk         | "Life-Groups": naturally reproducing species, each a classified category                             |
+| Zhëklüng         | The first caste: Sons of the Dragon, the Emperor's family and the Warlords                           |
+| Zhëkyāt          | A physician or surgeon, one of the two branches of the Yātvōr                                        |

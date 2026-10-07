@@ -121,7 +121,7 @@ A character might be a temple-trained scribe whose skill opens an archive, a boa
 
 ## Bodies to Belong To
 
-Institutions announce themselves in their names, and the opening word tells you what kind of thing you are dealing with before you know anything else. A guild opens on Lin', a temple or estate on Lut-, a house or office on Gar-, an order of a god's servants on Lem', a council or court on Genzet', and a company that goes out on Zeghet'. The genitive is elu: [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]] is the scribes' guild of the empire, and the smiths of the capital are a different body from the smiths of the empire, with their own masters and their own quarrel.
+Institutions announce themselves in their names, and the opening word tells you what kind of thing you are dealing with before you know anything else. A guild opens on _Lin'_, a temple or estate on _Lut-_, a house or office on _Gar-_, an order of a god's servants on _Lem'_, a council or court on Genzet', and a company that goes out on _Zeghet'_. The genitive is elu: [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]] is the scribes' guild of the empire, and the smiths of the capital are a different body from the smiths of the empire, with their own masters and their own quarrel.
 
 A character almost certainly belongs to one of these, and the tie is the most useful thing on the sheet: it supplies patrons, obligations, somewhere to sleep in a strange city, and someone with a claim on you.
 
@@ -189,30 +189,19 @@ Begin with the river, a city, and a claim on the party. Follow the questions tha
 
 ## Glossary
 
-| Word        | Meaning                                                                 |
-| ----------- | ----------------------------------------------------------------------- |
-| Azlet       | The inundation, first season of the year, when the fields lie drowned   |
-| elu         | Of: the genitive that joins a body's name to its place                  |
-| Gar-        | The opening of a house's or an office's name                            |
-| Gar-Aû      | The divine sovereign of the empire                                      |
-| Gelet       | The emergence, the season of planting the black silt                    |
-| Genzet      | A court of law; Genzet' opens the name of a council or court            |
-| gezan       | The temple-attested weight-piece of copper, silver or gold; ten qelu    |
-| Halzi'a     | The hereditary governor of a selat                                      |
-| Iru'palu    | The rank below the Gar-Aû, held by the royal family and a few houses    |
-| Legha'lutu  | Master of an estate, its lands and its village                          |
-| lekhau      | Sacred power, trained in the temple schools and licensed by the temples |
-| Lem'        | The opening of the name of an order of a god's servants                 |
-| Lin'        | The opening of a guild's name                                           |
-| Lut-        | The opening of a temple's or an estate's name                           |
-| Name Struck | The rank of a person whose name has been struck from the records        |
-| near name   | The shortened given name, used only by those a tie already binds        |
-| qelu        | A tenth of a gezan, the smaller weight-piece                            |
-| selat       | A province of the empire; pl. selatu                                    |
-| Shelu       | The harvest, third season of the year                                   |
-| Thâz'Lekhau | The high priest of a god's temple                                       |
-| Wazu        | A temple acolyte, who reads accounts aloud on the public reading-days   |
-| Zabet       | A woman of rank at court                                                |
-| Zabet'lutu  | Mistress of an estate, its lands and its village                        |
-| Zeghet'     | The opening of the name of a company that goes out                      |
-| Zemelu      | A companion of the Gar-Aû, a mark of favor and access                   |
+| Word        | Meaning                                                                                         |
+| ----------- | ----------------------------------------------------------------------------------------------- |
+| elu         | Of, upon: the genitive that joins a body's name to its place                                    |
+| entry       | A promise witnessed and written down; it opens when made and closes when its outcome is entered |
+| Gar-Aû      | The divine sovereign of the empire                                                              |
+| Genzet      | A council, and the court of law                                                                 |
+| gezan       | The temple-attested weight-piece of copper, silver or gold; ten qelu                            |
+| Halzi'a     | The hereditary governor of a selat                                                              |
+| lekhau      | Sacred power, trained in the temple schools and licensed by the temples                         |
+| Lem'Nelgir  | An ordained priest, the servant of a god                                                        |
+| qelu        | A tenth of a gezan, the smaller weight-piece                                                    |
+| selat       | A province of the empire; pl. selatu                                                            |
+| Thâz'Lekhau | The high priest or high priestess of a god's temple                                             |
+| Wazu        | A temple acolyte                                                                                |
+
+The [[lore-khelathiclt#glossary|full glossary]] at the end of the culture note lists every Khelâthi word and term these pages use.

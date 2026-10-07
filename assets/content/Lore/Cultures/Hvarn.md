@@ -65,3 +65,29 @@ Hvarn words are short and heavy, and a word may be spoken with no vowel in it at
 - [[place-estrnreach|The Eastern Reach]]—the two crossings and the weather on them
 - [[place-sanghafort|The Fort]]—the garrison the pack-trains feed
 - [[lore-osketclt|Ösket]]—the other guide-people of the wall
+
+## Glossary {#glossary}
+
+| Term           | Meaning                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| bone-bringer   | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
+| closed months  | The winter months, when the crossings are shut and the people live at Nürvhrn                        |
+| fort-carrier   | Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers |
+| hearth name    | The family name a hearth gives, which changes when a person is taken into another hearth             |
+| hearth-head    | Head of a winter hearth, who sits on the winter council and speaks for those who eat at his fire     |
+| hearth-kin     | One of a hearth's blood, with a place at its fire and a share of its winter store                    |
+| long house     | The single turf-roofed house at Nürvhrn where the whole people winters; the winter house             |
+| open season    | The months the eastern crossings can be walked                                                       |
+| paired forms   | The verb forms that separate what a speaker did himself from what he did as one of a party           |
+| reach-guide    | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
+| roadwalker     | A guide taking parties over the crossings in another's charge, learning the weather                  |
+| roll           | The recited record of the Hvarn dead and where each was found, from which children are named         |
+| rotation       | The yearly sharing out of the crossings, and of the debts it leaves between hearths                  |
+| storm-reader   | Reader of the eastern weather, whose refusal ends a day's travel                                     |
+| taken-in       | One sheltered by a hearth without being of it                                                        |
+| turn-keeper    | Keeper of the rotation and of what each hearth owes another                                          |
+| unhoused       | One put out of the winter house for a fault the council has named, and fed by nobody                 |
+| winter council | The gathering of hearth-heads after midwinter that shares out the crossings and settles debts        |
+| winter-speaker | Presiding officer of the winter council, with no authority once it rises                             |
+
+Janapada, Mela, shreni and ushtaka are loanwords from [[lore-vedyariclt|Vedyara]].

@@ -46,21 +46,19 @@ A party usually arrives as a caravan's escort. Escort duty passes from tribe to 
 
 ## Glossary
 
-| Word               | Meaning                                                                            |
-| ------------------ | ---------------------------------------------------------------------------------- |
-| sheikh             | Leader of a tribe, holding by descent, standing and the elders' consent together   |
-| poet-scholar       | Keeper of a tribe's law, genealogy and treaties in recited verse                   |
-| oasis of right     | An oasis a confederation holds by long usage rather than by border                 |
-| hospitality gift   | Payment a sheikh takes from a caravan crossing his territory                       |
-| kinless            | One cast out by kin and claimed by none, owed no water and no vengeance            |
-| water-warden       | Keeper of shared wells and pastures and of the order in which they are used        |
-| truce-warden       | Holder of the peace at a council or a seasonal market                              |
-| keeper of the feud | Recorder of blood owed and paid, without whom no settlement can be reckoned        |
-| desert mystic      | An ascetic who seeks the divine alone in the deep desert                           |
-| pîr                | A recognized storm-cult practitioner who reads the weather for council and warband |
-| sar-pîr            | Senior elder of a storm-cult lineage                                               |
-| wind-reader        | Storm-cult diviner who reads omens in the wind                                     |
-| rain-caller        | Storm-cult practitioner who conducts the rain rites                                |
-| vessel             | One in whom Báhrámiš is held to speak, recognized by the cults' assembled elders   |
-| bahâr              | A member of the Warrior's Circle, named by acclamation                             |
-| vâst-bahâr         | The indigo leather armband a member of the Warrior's Circle wears                  |
+| Word                 | Meaning                                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| sheikh               | Leader of a tribe, holding by descent, standing and the elders' consent together                                       |
+| vessel               | One in whom Báhrámiš is held to speak, recognized by the storm cults' assembled elders                                 |
+| pîr                  | A recognized storm-cult practitioner, who reads the weather for council and warband                                    |
+| sar-pîr              | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                                |
+| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; bâdkhwân                                                   |
+| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; bârân-âvar                     |
+| lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; sang-zad |
+| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; tufân-row                                      |
+| desert mystic        | An ascetic who seeks the divine alone in the deep desert; one whose visions prove true is followed for life            |
+| season-turn          | The turn of a season, when the storm cults' elders gather at the Stone of Ranâz                                        |
+| Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                    |
+| vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm            |
+
+The [[lore-dunhariclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

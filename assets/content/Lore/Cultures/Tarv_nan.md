@@ -57,3 +57,49 @@ A lord is owed what was agreed and not a penny more. A Tarvénan will fight for 
 - [[place-tarvenirgn|Tarvénia Region]]—the fiefdoms, the free city and the free territory
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, kept without much establishment
 - [[skill-tarvenlng|Tarvéni]]—the shared tongue of the patchwork
+
+## Glossary {#glossary}
+
+Every Tarvéni word and term of art these notes use, with the ranks of the two Árdavonian orders whose mother-houses stand at Ólvestria.
+
+| Term                 | Meaning                                                                                                               |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ban                  | The High King's general military levy                                                                                 |
+| Consejárath          | The council of great merchant houses that governs Valthári under royal charter                                        |
+| drengáko             | Warrior                                                                                                               |
+| dun                  | With                                                                                                                  |
+| ek                   | And                                                                                                                   |
+| enthráth             | Between                                                                                                               |
+| First Magister       | The chair of the Order of the Sealed Word, chosen by the Magisters for fifteen years; Magister Primus                 |
+| Frater Bifrons       | A Sworn Twinblade                                                                                                     |
+| Frater Senior        | A Senior Brother of the Sealed Word, or a Senior Twinblade                                                            |
+| Frater Signati       | A Sworn Brother of the Seal                                                                                           |
+| gárevárren           | Ancestors                                                                                                             |
+| grándh               | Honor                                                                                                                 |
+| High King            | The sovereign of Tarvénia, elected by the great lords, with the right to call the ban and judge between lords         |
+| kávren               | River                                                                                                                 |
+| kórath               | Heart                                                                                                                 |
+| kóthren              | Brother                                                                                                               |
+| Magister             | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
+| Magister of the Gate | The leader of a Twinblade chapter house; Magister Portae                                                              |
+| Magister Ordinis     | A Magister of the Sealed Word                                                                                         |
+| Magister Portae      | A Magister of the Gate                                                                                                |
+| Magister Primus      | The First Magister                                                                                                    |
+| Mál Portae Geminae   | The Voice of the Twin Gate                                                                                            |
+| méro                 | My                                                                                                                    |
+| oath-hearing         | A hearing on a broken oath, convened by the Sealed Word                                                               |
+| prá                  | For                                                                                                                   |
+| prèdhen              | Peace                                                                                                                 |
+| Senior Brother       | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
+| Senior Twinblade     | A Twinblade elevated by chapter vote to command a station of importance                                               |
+| Sworn Brother        | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
+| Sworn Twinblade      | A working knight of the Twinblade Order who serves a station or a circuit of stations                                 |
+| thérrá               | Land                                                                                                                  |
+| thórren              | Runs                                                                                                                  |
+| Twinblade            | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
+| vérath               | Truth                                                                                                                 |
+| vílkrath             | Blood                                                                                                                 |
+| Voice                | The chair of the Twinblade Order, the Voice of the Twin Gate, chosen for life by the Magisters                        |
+| vókath               | Speaks                                                                                                                |
+
+Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

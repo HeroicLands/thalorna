@@ -28,11 +28,11 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] once ruled most of [[place-midhal
 
 The Augustar rules in name, and four parties contest the power in practice. The Augustar and his court hold tradition and the loyalty of the armies. The [[affiliation-curiavylar|Senate]] holds the great families, debating in a bronze-doored chamber whose procedure is immaculate and whose authority erodes a little every decade. The military holds the swords, above all the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard in the [[place-urbsaquiln|Inner City]], who are best placed to guard an Augustar and best placed to unmake one. The Ordo Arcanis holds magic, and is woven deeper into the state every reign. Weak Augustars become puppets of the Senate or the Ordo; strong ones face conspiracies from both.
 
-The old offices are still filled: a consul presides over the year, a praetor declares the law, and the Augustar is himself Pontifex Maximus, chief priest of the state cult. In the capital, the inspectors of the [[affiliation-aediles|Aediles]] can shutter a shop, fine its keeper, or order a building pulled down, and bribing them is one of the city's oldest industries. Below the Senate the daily state runs through the [[affiliation-imprlscrblgld|Imperial Scribal Guild]], the tax courts of the [[affiliation-curiafscls|Curia Fiscalis]], and the treasury of the [[affiliation-aerarimmpr|Aerarium Imperii]]. The capital beyond the Inner Wall answers to the five Curators of the [[affiliation-curiaurbis|Curia Urbis]], and the guilds answer to the [[affiliation-magnumclgm|Magnum Collegium]].
+The old offices are still filled: a consul presides over the year, a praetor declares the law, a quaestor answers for the treasury's revenue, a censor keeps the citizen roll, and the Augustar is himself Pontifex Maximus, chief priest of the state cult. In the capital, the inspectors of the [[affiliation-aediles|Aediles]] can shutter a shop, fine its keeper, or order a building pulled down, and bribing them is one of the city's oldest industries. Below the Senate the daily state runs through the [[affiliation-imprlscrblgld|Imperial Scribal Guild]], the tax courts of the [[affiliation-curiafscls|Curia Fiscalis]], and the treasury of the [[affiliation-aerarimmpr|Aerarium Imperii]]. The capital beyond the Inner Wall answers to the five Curators of the [[affiliation-curiaurbis|Curia Urbis]], and the guilds answer to the [[affiliation-magnumclgm|Magnum Collegium]].
 
 ## Citizen and Resident
 
-The deepest line in Vylarian society is not between rich and poor but between citizen and resident. Most people under the empire are residents, born to it and taxed by it with no share in it. A citizen holds the dole, a guaranteed ration of grain, and may live inside the capital's pomerium by right, appeal his case up to the imperial tribunals, and expect a trial and a clean death, never the lash.
+The deepest line in Vylarian society is not between rich and poor but between citizen and resident. Most people under the empire are residents, born to it and taxed by it with no share in it. A citizen holds the dole, a guaranteed ration of grain, and may live inside the capital's _pomerium_ by right, appeal his case up to the imperial tribunals, and expect a trial and a clean death, never the lash.
 
 Citizenship is earned, not inherited, and for the common-born there is one road to it. A boy takes the legion's oath no earlier than his fifteenth birthday and serves twenty years, and if he lives he walks out a citizen at thirty-five. His sons are not citizens unless they walk the same road; only the nobility pass it heir to heir, and grants are rare. So the citizen body of Magnápolis is an old soldiers' city, and the [[affiliation-vylrnmltry|City Watch]] that polices it is drawn from veteran-citizens.
 
@@ -44,19 +44,19 @@ A resident who wants to sleep inside the capital needs a waiver from the courts,
 
 Every Vylarian schoolchild learns the four words that open the military manual: _Sub Aquila stant fines_, "beneath the eagle stand the borders." Each legion carries an Aquila, a gilt eagle on a pole, and a legion that loses it is disbanded.
 
-What a newcomer has to grasp about the [[affiliation-vylrnmltry|legions]] is that each one holds two armies in one mess hall. The noble track buys its commissions, from Cadetar at fifteen to Legar in command, at prices set by the family's estate: Aurelian, Argentean, Aerean, or Adlect. The commoner track earns every rank from Tironar to Primar, and no coin changes hands at any promotion. The two meet at a single rank, the Praefar Castorum, a commoner raised to officer for distinguished service perhaps twice in a decade. An eighteen-year-old Subtribunar outranks a fifty-year-old Primar on paper, and every unwritten rule of the army says he takes the Primar's counsel. A Subtribunar who ignores it and gets his men cut up is quietly sent home.
+What a newcomer has to grasp about the [[affiliation-vylrnmltry|legions]] is that each one holds two armies in one mess hall. The noble track buys its commissions, from _Cadetar_ at fifteen to _Legar_ in command, at prices set by the family's estate: Aurelian, Argentean, Aerean, or Adlect. The commoner track earns every rank from _Tironar_ to _Primar_, and no coin changes hands at any promotion. The two meet at a single rank, the _Praefar Castorum_, a commoner raised to officer for distinguished service perhaps twice in a decade. An eighteen-year-old _Subtribunar_ outranks a fifty-year-old _Primar_ on paper, and every unwritten rule of the army says he takes the _Primar_'s counsel. A _Subtribunar_ who ignores it and gets his men cut up is quietly sent home.
 
-The reform after the Haradian war, an examination set by the Dux Bellorum and a panel of generals, tightened only the commoner's road into the officer ranks, and the senior centurions count it an insult. Mercenaries, often Tarvénan or Nordmen, fill gaps in the line, and the loyalty of the auxiliaries has been a live question since Haradian units defected.
+The reform after the Haradian war, an examination set by the _Dux Bellorum_ and a panel of generals, tightened only the commoner's road into the officer ranks, and the senior centurions count it an insult. Mercenaries, often Tarvénan or Nordmen, fill gaps in the line, and the loyalty of the auxiliaries has been a live question since Haradian units defected.
 
 :::secret
-**For the GM:** The gap between the tracks is the best tension in the empire: a noble who needs a centurion's counsel and cannot be seen to take it, or a Primar failed by an examination rigged against him. The [[affiliation-vylrnmltry|military note]] carries six hooks built on it, among them a lost Aquila that may have been found.
+**For the GM:** The gap between the tracks is the best tension in the empire: a noble who needs a centurion's counsel and cannot be seen to take it, or a _Primar_ failed by an examination rigged against him. The [[affiliation-vylrnmltry|military note]] carries six hooks built on it, among them a lost Aquila that may have been found.
 :::
 
 ## The Ordo Arcanis
 
 Magic in Vylaria belongs to the state. Under the Lex Arcana only members of the Ordo may practice, research, or teach arcane lore, and every child who shows talent must be reported and enrolled. A practitioner outside it is a rogue mage, hunted by the **Quaesitorium**, the Ordo's enforcement arm, whose Quaesitors prefer recruitment, then confiscation, then restriction, then prison, and kill only at the end of that list. Ordinary Vylarians regard the Ordo as one more arm of government; provincials find that unnerving.
 
-The ranks run from Initiatus, a newly inducted child, through Discipulus and Adeptus to Magister, the governing rank. Above them the Praelati sit on the **Concilium Magnum**, and the Archmagister presides for life. Two rules bind every member: draw no attention to the Ordo, and never teach magic to an outsider, not even a single trick to a sister. Its chapter houses wear the seal of the [[affiliation-panepistmm|Panepistemium]] and teach law and mathematics to the children of the gentry. Most Vylarians never see a spell cast. The capital is the exception: glow-lamps light the great avenues, and in the [[place-palatimgnm|Grand Palace]] the clockwork legionaries and gilded provinces of the [[place-magngndorery|Grand Orrery]] parade past the throne at the great hours for every ambassador to see.
+The ranks run from _Initiatus_, a newly inducted child, through _Discipulus_ and _Adeptus_ to _Magister_, the governing rank. Above them the _Praelati_ sit on the **Concilium Magnum**, and the _Archmagister_ presides for life. Two rules bind every member: draw no attention to the Ordo, and never teach magic to an outsider, not even a single trick to a sister. Its chapter houses wear the seal of the [[affiliation-panepistmm|Panepistemium]] and teach law and mathematics to the children of the gentry. Most Vylarians never see a spell cast. The capital is the exception: glow-lamps light the great avenues, and in the [[place-palatimgnm|Grand Palace]] the clockwork legionaries and gilded provinces of the [[place-magngndorery|Grand Orrery]] parade past the throne at the great hours for every ambassador to see.
 
 Two silences sit at the root of the Ordo, and scholars who pursue either are discouraged. In 75 BF an unchanneled release killed most of the Republic's arcanists, gathered with their books in the Alyssan country to be registered ([[lore-recensio|the Recensio of Alyssa]]). The land is fenced at the Ordo's charge to this day. Around 45 BF the Dragon Riders were disbanded and the **Eyrie of Mons Aquila**, under the palace hill, was sealed. The reason given is that the dragons made the Ordo's work impossible. The Helionite academies hold that there were never any dragons, and the [[place-alndntrblnds|Áelendan]] peoples hold that the mounts were drakes.
 
@@ -68,7 +68,7 @@ Two silences sit at the root of the Ordo, and scholars who pursue either are dis
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the state faith, and its Twelve give Magnápolis the number of its great public squares. [[lore-janusdty|Árdavon]], keeper of the gates, lord of order and justice, is patron of the empire in name. On top of the pantheon sits the **Imperial Cult**, the veneration of dead Augustars as divine or half-divine. Its temples stand in every city, and taking part is a religious act and a declaration of loyalty in one gesture, and it binds subjects of every faith to one ritual of allegiance.
 
-Beneath that order, Vylarian religion is busy and fickle. The capital is a bazaar of cults: [[affiliation-ashanpnthn|Āsháian]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian]] warrior-cults draw officers, and Helionite mysteries draw curious aristocrats. The dead of the capital lie outside the pomerium in the [[place-necropolismagnapolis|Necropolis]], tended jointly by the clergy of [[affiliation-thanatos|Sélmoros]], the Silent Judge, and the Asguardian priests of [[affiliation-nahild|Náhild]], whose deeper vaults are spoken of in lowered voices. The schismatic [[affiliation-blackflame|Black Flame]], which holds that fire purifies and the strong should rule, works through hidden shrines.
+Beneath that order, Vylarian religion is busy and fickle. The capital is a bazaar of cults: [[affiliation-ashanpnthn|Āsháian]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian]] warrior-cults draw officers, and Helionite mysteries draw curious aristocrats. The dead of the capital lie outside the _pomerium_ in the [[place-necropolismagnapolis|Necropolis]], tended jointly by the clergy of [[affiliation-thanatos|Sélmoros]], the Silent Judge, and the Asguardian priests of [[affiliation-nahild|Náhild]], whose deeper vaults are spoken of in lowered voices. The schismatic [[affiliation-blackflame|Black Flame]], which holds that fire purifies and the strong should rule, works through hidden shrines.
 
 ## Magnápolis
 
@@ -124,9 +124,9 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can arrive by sea at Mercavia, by grain ship up the Vylaris, over the Cervaron passes, or down the old paved roads from provinces the empire no longer holds. A Vylarian character might be a veteran newly discharged a citizen, a Subtribunar whose family bought a commission he never wanted, an Adeptus of the Ordo sent to a provincial chapter, a scribe whose fine hand has drawn the wrong patron, or a resident whose waiver ends with a master's death. At the first gate, court, or dinner, three questions place a character in the empire: **Are you a citizen? Whom do you serve? Whose guest are you?**
+A party can arrive by sea at Mercavia, by grain ship up the Vylaris, over the Cervaron passes, or down the old paved roads from provinces the empire no longer holds. A Vylarian character might be a veteran newly discharged a citizen, a _Subtribunar_ whose family bought a commission he never wanted, an _Adeptus_ of the Ordo sent to a provincial chapter, a scribe whose fine hand has drawn the wrong patron, or a resident whose waiver ends with a master's death. At the first gate, court, or dinner, three questions place a character in the empire: **Are you a citizen? Whom do you serve? Whose guest are you?**
 
-Campaigns start well from the forms. A patron needs a client to stand beside him in court. A household's waiver is about to lapse, and its servants must find a new master or leave the city. A child in a market town has shown talent nobody reported. A Primar wants proof that his examination was rigged. A grain convoy is late and the Circles are turning ugly.
+Campaigns start well from the forms. A patron needs a client to stand beside him in court. A household's waiver is about to lapse, and its servants must find a new master or leave the city. A child in a market town has shown talent nobody reported. A _Primar_ wants proof that his examination was rigged. A grain convoy is late and the Circles are turning ugly.
 
 :::secret
 **For the GM:** A forged waiver, a commission bought with worthless script, a dole short by a measure, or an unregistered mage in a senator's household each tests whether the forms still hold, and each draws the Watch, the Quaesitorium, or the Senate's lobbies into the answer.
@@ -146,37 +146,19 @@ Begin with a landing, a patron, and a waiver with a date on it, and follow the q
 
 ## Glossary
 
-| Word             | Meaning                                                                                      |
-| ---------------- | -------------------------------------------------------------------------------------------- |
-| Adeptus          | A licensed practitioner of the Ordo Arcanis, free to work without supervision                |
-| Adlect           | The estate of houses raised to the nobility within two generations                           |
-| aedile           | A civic magistrate of markets, licenses, streets, and petty order                            |
-| Aerean           | The estate of the minor nobility, the provincial gentry                                      |
-| Aquila           | A legion's consecrated eagle standard; to lose it is to disband the legion                   |
-| Archmagister     | The head of the Ordo Arcanis, elected by the Praelati for life                               |
-| Argentean        | The estate of established noble houses with four or more generations at court                |
-| Argentus         | The silver coin of everyday account, called the Argo; 160 make an Aurion                     |
-| Argo             | The everyday name for the Argentus, the silver coin of account                               |
-| Augustar         | The emperor                                                                                  |
-| Aurelian         | The highest noble estate, the founding-era houses                                            |
-| Aurion           | The gold coin, minted only at Magnápolis and seldom seen outside a vault                     |
-| Bit              | The everyday name for the Octus, a silver wedge worth one-eighth of an Argo                  |
-| Cadetar          | A noble cadet, the lowest purchased commission, held from fifteen                            |
-| consul           | The chief magistrate of the year, high in prestige and modest in power                       |
-| Discipulus       | An apprentice of the Ordo, practicing only under a Magister's eye                            |
-| dole             | The citizen's guaranteed grain ration, with oil and the price of the games in the capital    |
-| Dux Bellorum     | The chief war-minister, presiding over the imperial war council                              |
-| Initiatus        | A newly inducted member of the Ordo, often a child                                           |
-| Legar            | The commander of a legion                                                                    |
-| Magister         | A master of the Ordo, holding a vote in a chapter's council                                  |
-| Octus            | A wedge of silver cut or struck as one-eighth of an Argentus, called the Bit                 |
-| pomerium         | The sacred and legal boundary of Magnápolis, inside which citizens live and no legion enters |
-| Pontifex Maximus | The chief priest of the state cult, an office the Augustar holds himself                     |
-| Praefar Castorum | A legion's camp prefect, the one rank both noble and commoner can reach                      |
-| Praelatus        | A senior master of the Ordo, seated on its supreme council                                   |
-| praetor          | The magistrate who declares the law in the courts for his year                               |
-| Primar           | The senior centurion of a legion, the top of the commoner track                              |
-| Quaesitor        | An investigator and hunter of the Ordo's enforcement arm                                     |
-| Subtribunar      | A junior noble officer of seventeen to twenty-two, one of five in a legion                   |
-| Tironar          | A recruit in his first year of training, not yet sworn                                       |
-| waiver           | A court registration letting a resident live inside the pomerium while in a patron's service |
+| Word      | Meaning                                                                                                     |
+| --------- | ----------------------------------------------------------------------------------------------------------- |
+| Aquila    | A legion's consecrated eagle standard; a legion that loses it is disbanded                                  |
+| Argentus  | The silver coin of account, 160 to the Aurion                                                               |
+| Argo      | The everyday name of the Argentus                                                                           |
+| Augustar  | The emperor                                                                                                 |
+| Aurion    | The gold coin, minted only at Magnápolis and seldom seen outside a vault                                    |
+| censor    | Keeper of the citizen roll; also an auditor of the treasury, the tax courts, the guilds or the moneylenders |
+| Circle    | One of the paved clearings of Magnápolis, three hundred yards across, where building is forbidden           |
+| Curator   | One of the five members of the Curia Urbis, which governs the capital beyond the Inner Wall                 |
+| dole      | The citizen's guaranteed ration of grain, with oil and the price of the games in the capital                |
+| Octus     | A silver wedge worth one-eighth of an Argentus; called the Bit                                              |
+| quaestor  | An officer of the treasury, answerable for revenue and disbursement                                         |
+| Quaesitor | An investigator and hunter of the Ordo's enforcement arm, the Quaesitorium                                  |
+
+The [[lore-vylarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

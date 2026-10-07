@@ -46,15 +46,19 @@ The exile houses fund shrines and schools and keep agents in the lost cities, so
 
 ## Glossary
 
-| Word                  | Meaning                                                                       |
-| --------------------- | ----------------------------------------------------------------------------- |
-| heir-in-exile         | The person who would rule a lost city if its house were restored              |
-| exile court           | A dispossessed house's household and archive, kept in Amradad                 |
-| first of the seven    | The senior prince, who speaks first at the Council and commands nothing by it |
-| Mōbad                 | Priest and judge, ordained after fifteen to twenty years of study             |
-| Mōbadate              | The body of Mōbads, which keeps the faith, the law and the records            |
-| High Mōbad            | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad                  |
-| keeper of the tablets | Archivist of a house's clay record and of its claim to its lost city          |
-| warden of the oasis   | Keeper of a still-held oasis's water, walls and gates                         |
-| water-tax             | The tribute the Ātárzád levy on Khazryn households for the city's water       |
-| blood-debtor          | One under an unsettled feud and outside the houses' protection                |
+| Word          | Meaning                                                                                                  |
+| ------------- | -------------------------------------------------------------------------------------------------------- |
+| Mōbad         | Priest and judge, ordained after fifteen to twenty years' study, who keeps a community's law and records |
+| Mōbadate      | The body of Mōbads, which keeps the faith, the calendar, the law and the records                         |
+| High Mōbad    | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes     |
+| Hērbad        | A priest of Āhúrdáén below the Mōbad, who keeps a fire-temple, judges and teaches                        |
+| fire-temple   | A temple of the Āsháian faith built around its sacred fire                                               |
+| Āsha          | The cosmic order of truth that Āhúrdáén sustains and the faithful serve                                  |
+| Druj          | The force of disorder and the lie that presses against Āsha                                              |
+| exile house   | One of the four princely houses that rule their lost cities in exile                                     |
+| exile court   | A dispossessed house's household, archive and ceremonial, kept in Amradad                                |
+| heir-in-exile | The person who would rule a lost city if its house were restored                                         |
+| water-tax     | The tribute the Ātárzád levy on Khazryn heads of household for the use of city water                     |
+| lost cities   | Shirvan, Ashkarad, Zargandûr and Kethramír, the four Khazryn cities the Ātárzád hold                     |
+
+The [[lore-khazrynclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

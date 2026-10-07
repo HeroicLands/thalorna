@@ -44,19 +44,20 @@ A party can come up with a lowland factor for the contract renewal, or be hired 
 
 ## Glossary
 
-| Word           | Meaning                                                                           |
-| -------------- | --------------------------------------------------------------------------------- |
-| hearth name    | The family name a hearth gives, which changes when a person is taken into another |
-| hearth-head    | Head of a hearth, sitting on the winter council and speaking for it               |
-| winter council | The gathering of hearth-heads after midwinter that shares out the crossings       |
-| winter-speaker | Presiding officer of the winter council, with no authority once it rises          |
-| rotation       | The yearly sharing out of the crossings and of the debts they leave               |
-| turn-keeper    | Keeper of the rotation and of what each hearth owes another                       |
-| reach-guide    | A guide entrusted with a crossing alone, answerable for whoever does not return   |
-| roadwalker     | A guide learning the crossings under another's charge                             |
-| storm-reader   | Reader of the eastern weather, whose refusal ends a day's travel                  |
-| fort-carrier   | Holder of the contract that feeds the Sangha-fort                                 |
-| bone-bringer   | Recoverer of the dead from the gorges and keeper of the roll                      |
-| roll           | The recited record of the dead and where each was found                           |
-| taken-in       | One sheltered by a hearth without being of its blood                              |
-| unhoused       | One put out of the winter house for a fault the council has named                 |
+| Word           | Meaning                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| roll           | The recited record of the Hvarn dead and where each was found, from which children are named         |
+| rotation       | The yearly sharing out of the crossings, and of the debts it leaves between hearths                  |
+| long house     | The single turf-roofed house at Nürvhrn where the whole people winters; the winter house             |
+| winter council | The gathering of hearth-heads after midwinter that shares out the crossings and settles debts        |
+| hearth name    | The family name a hearth gives, which changes when a person is taken into another hearth             |
+| hearth-head    | Head of a winter hearth, who sits on the winter council and speaks for those who eat at his fire     |
+| fort-carrier   | Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers |
+| bone-bringer   | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
+| reach-guide    | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
+| closed months  | The winter months, when the crossings are shut and the people live at Nürvhrn                        |
+| paired forms   | The verb forms that separate what a speaker did himself from what he did as one of a party           |
+
+Janapada is a loanword from [[lore-vedyariclt|Vedyara]].
+
+The [[lore-hvarnclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

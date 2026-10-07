@@ -62,3 +62,26 @@ And he owes the truth an argument. A Helionite holds that a person who lets a fa
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods and the shared festivals
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the order born at the Panepistemium
 - [[skill-helonclng|Helonic]]—the tongue of the academies
+
+## Glossary {#glossary}
+
+| Term          | Meaning                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------- |
+| agora         | The public square of a city: market, meeting place and arena of argument                      |
+| agoranomos    | Warden of the market, ruling on its weights, coin, quality and disputes                       |
+| archon        | Presiding magistrate for one year, who gives the year his name and hands the office back      |
+| atimos        | A person stripped of civic honor by the courts, barred from the assembly, agora and temples   |
+| gymnasiarch   | Patron and warden of a gymnasium, who pays for it from his own purse as an honor              |
+| hetaira       | An educated companion trained in music, philosophy, rhetoric and the social arts              |
+| honor-trial   | A trial of civic honor judged by the Temple of Árdavon in Korinthea                           |
+| mage-warlord  | A Helionite mage of the war of 335–312 BF who commanded forces his own city could not control |
+| metic         | A resident foreigner, taxed and liable to the levy, with no vote and no right to own land     |
+| mystery cult  | A secret religious society that reveals its teaching to initiates in stages                   |
+| nomophylax    | Guardian of the laws, who may halt a decree of the assembly that contradicts them             |
+| patron family | One of the wealthy families that hold a city's government and fund its theater and temples    |
+| priest-judge  | A judge of the Temple of Árdavon, holding priesthood and civic office together                |
+| strategos     | Elected commander of a city's forces by land and sea, re-electable without limit              |
+| synkrysis     | The bringing together of all inquiry, the idea on which the Panepistemium was founded         |
+| trierarch     | Commander of a Pelagoran war-galley                                                           |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

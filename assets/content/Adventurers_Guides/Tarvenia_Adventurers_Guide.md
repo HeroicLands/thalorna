@@ -42,12 +42,19 @@ A company signs you on for a season abroad, and the employer begins to bend the 
 
 ## Glossary
 
-| Word           | Meaning                                                                           |
-| -------------- | --------------------------------------------------------------------------------- |
-| Argo           | The silver coin of ordinary commerce, one-hundred-sixtieth of an Aurion           |
-| Aurion         | The Vylarian gold coin, used for land, inheritance and great contracts            |
-| Bit            | A wedge of silver, one-eighth of an Argo; the coin of daily life                  |
-| High King      | The elected sovereign of Tarvénia, with the right to call the ban and judge lords |
-| oath-hearing   | A hearing on a broken oath, held by a brother of the Sealed Word                  |
-| Senior Brother | A brother of the Sealed Word who may hold hearings alone and sits on its council  |
-| Sworn Brother  | A working knight of the Sealed Word who rides a circuit hearing petitions         |
+| Word           | Meaning                                                                                                               |
+| -------------- | --------------------------------------------------------------------------------------------------------------------- |
+| ban            | The High King's general military levy                                                                                 |
+| Consejárath    | The council of great merchant houses that governs Valthári under royal charter                                        |
+| First Magister | The chair of the Order of the Sealed Word, chosen by the Magisters for fifteen years; Magister Primus                 |
+| High King      | The sovereign of Tarvénia, elected by the great lords, with the right to call the ban and judge between lords         |
+| Magister       | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
+| oath-hearing   | A hearing on a broken oath, convened by the Sealed Word                                                               |
+| Senior Brother | A brother of the Sealed Word elevated by chapter vote, who may hold hearings alone and sit on the Council of the Seal |
+| Sworn Brother  | A working knight of the Sealed Word who rides a circuit or answers petitions                                          |
+| Twinblade      | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
+| Voice          | The chair of the Twinblade Order, the Voice of the Twin Gate, chosen for life by the Magisters                        |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+
+The [[lore-tarvenanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

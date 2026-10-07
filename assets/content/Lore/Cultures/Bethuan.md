@@ -65,3 +65,59 @@ A Bethûan man, asked the same question, answers that he owes everything to the 
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, and the three goddess-orders that govern
 - [[skill-bethunlng|Bethûan]]—the tongue and its Helonic kinship
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the patron
+
+## Glossary {#glossary}
+
+Every Bethûan word and term of art these notes use, the Khelâthi loanwords among them.
+
+| Term          | Meaning                                                                                                      |
+| ------------- | ------------------------------------------------------------------------------------------------------------ |
+| agháthin      | A good thing                                                                                                 |
+| An'Bet        | The matriarchs of the Great Trade-Houses, who make up the Council of Matriarchs                              |
+| árshidhin     | To rule; árshidhir, rules                                                                                    |
+| Charíssa      | The Grace: the open-hand and kicking art of Bethûan women; a master is a Charíssa                            |
+| dókhanir      | To think, to value; dókhémir, we value                                                                       |
+| Dómissa       | A House-Mother, matriarch of a House and member of the Council of Houses; pl. Dómissai                       |
+| dôrashin      | A gift                                                                                                       |
+| durâs         | Natron, washing-salt                                                                                         |
+| en-meret      | The quay, the harbor-front                                                                                   |
+| en-mûna       | A cistern or reservoir                                                                                       |
+| en-telekâs    | The quay, the harbor-front                                                                                   |
+| et-degân      | The customs-toll, the impost                                                                                 |
+| et-tareb      | An aqueduct                                                                                                  |
+| Grammatíssa   | A scribe or civil clerk of the realm; pl. Grammatíssai                                                       |
+| Great House   | One of the dozen leading Trade-Houses, whose letters of credit any other Great House honors                  |
+| halzât        | The scales, the oracular weighing of a candidate's worth                                                     |
+| harmôdhin     | Harmony                                                                                                      |
+| Hégissa       | A provincial governess over a canton; pl. Hégissai                                                           |
+| Hiéra         | An ordained priestess, the working clergy of a temple; pl. Hiérai                                            |
+| Hiérissa      | A high priestess, head of a goddess-order or a great temple, and member of the Sacred College; pl. Hiérissai |
+| Hieróssa      | The Sacred College                                                                                           |
+| Izet-Halzi    | The Overseer of the Account, the state treasurer                                                             |
+| Izet-Mû       | The Overseer of the Waters, chief of the engineer-priestesses                                                |
+| Junior House  | A Trade-House whose letters are rarely taken outside the city that issued them                               |
+| katelûn       | A tunnel-well, the qanat                                                                                     |
+| kathûr        | A seal, and a sealed warrant                                                                                 |
+| khabetûn      | A bonded warehouse, a store                                                                                  |
+| kinelât       | Fragrant oil, unguent                                                                                        |
+| kýros         | Master: a courtesy for a valued man that grants him no property, rights or voice                             |
+| Lesser House  | A Trade-House whose letters are good only at Houses that have agreed to honor them                           |
+| Lonkhai       | The Spear-Sisterhood, the female warrior class                                                               |
+| Lonkhíssa     | An officer commanding a company of the Lonkhai; pl. Lonkhíssai                                               |
+| Mêtríssa      | The sovereign: queen of Bethûa and high priestess of Lúsinía                                                 |
+| Naukléra      | A warrant-captain, a privateer sailing under the Purple Warrant                                              |
+| Naukrátissa   | The admiral of the fleet                                                                                     |
+| pântha        | All things                                                                                                   |
+| Parthéna      | A novice in the long temple education; pl. Parthénai                                                         |
+| Próhiérissa   | The First Sacred One, deputy of the state cult and the likeliest next Mêtríssa                               |
+| Qanatíssai    | The sisters of the qanat, the Order of the Waters                                                            |
+| selkûr        | A year in the era count                                                                                      |
+| sôthira       | Wisdom                                                                                                       |
+| Spádon        | A sworn eunuch-warrior, the only kind of man permitted arms; pl. Spádai                                      |
+| Stratégissa   | The supreme war-leader, commanding army and fleet                                                            |
+| Sünédra       | The Council of Houses                                                                                        |
+| take the Veil | To be raised to the throne; to set down the Veil is to abdicate or die                                       |
+| thásira       | Goddess                                                                                                      |
+| theus         | God                                                                                                          |
+
+Azlet, Gelet, Shelu, gezan, qelu and zethu are loanwords from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

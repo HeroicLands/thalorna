@@ -44,17 +44,18 @@ A party can be hired as a caravan's guard over Sūryadvāra, where a misjudged s
 
 ## Glossary
 
-| Word                | Meaning                                                                                |
-| ------------------- | -------------------------------------------------------------------------------------- |
-| road-holder         | Holder of a crossing by descent, answerable for every party taken over it              |
-| guide-mother        | Senior woman of a lineage, who holds its knowledge and says whether the road is open   |
-| speaker of the cols | Convener of a meeting between lineages, chosen for that meeting alone                  |
-| herdholder          | One who holds beasts and a stake in a high pasture                                     |
-| hearth-kin          | One of a hearth's blood, sharing its shelter, herds and fees                           |
-| roadless            | One put out of every lineage for selling a road or losing a party through carelessness |
-| hearth-warden       | Keeper of the winter stores and of the duty to shelter whoever reaches the door        |
-| fee-reckoner        | Setter of a season's price against what a caravan is worth                             |
-| snow-watcher        | Reader of the summit at first light, whose word moves or halts a caravan               |
-| cord-keeper         | Keeper of a lineage's knotted route-record                                             |
-| guide-cord          | A knotted hide cord recording a route, unreadable outside the blood                    |
-| road-pidgin         | The two hundred or so words of Ösket that lowlanders are taught                        |
+| Word                | Meaning                                                                                                      |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ |
+| guide-cord          | A knotted hide cord recording a route, unreadable outside the blood                                          |
+| road-pidgin         | The two hundred or so words of Ösket that lowlanders are taught, without evidential marks                    |
+| guide-mother        | Senior woman of a lineage, who holds its knowledge of the road and says whether it is open                   |
+| road-holder         | Holder of a crossing by descent, answerable for every party taken over it                                    |
+| roadless            | One put out of every lineage for selling a road or losing a party through carelessness                       |
+| hearth-warden       | Keeper of the winter stores and of the duty to shelter whoever reaches the door                              |
+| fee-reckoner        | Setter of a season's price against what a caravan is worth, and keeper of what lineages owe each other       |
+| cord-keeper         | Keeper of a lineage's knotted route-record, taught to one person in a generation                             |
+| snow-watcher        | Reader of the summit at first light, whose word moves or halts a caravan                                     |
+| speaker of the cols | Convener of a meeting between lineages, chosen for that meeting and binding none of them                     |
+| common store        | Öskhelt's shared winter store, held by the hearth-wardens and provisioned from the Sūryadvāra lineages' fees |
+
+The [[lore-osketclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

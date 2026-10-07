@@ -42,20 +42,21 @@ A Trade-House pays you in paper and a rival House refuses to honor it three port
 
 ## Glossary
 
-| Word        | Meaning                                                                   |
-| ----------- | ------------------------------------------------------------------------- |
-| Charíssa    | The Grace: the open-hand and kicking art of Bethûan women                 |
-| Dómissa     | A House-Mother, matriarch of a House and member of the Council of Houses  |
-| gezan       | The Khelâthi weight-piece of copper, silver or gold; ten qelu             |
-| Grammatíssa | A scribe or civil clerk of the realm                                      |
-| Hégissa     | A provincial governess over a canton                                      |
-| Hiéra       | An ordained priestess, the working clergy of a temple                     |
-| Hiérissa    | A high priestess and member of the Sacred College                         |
-| Izet-Mû     | The Overseer of the Waters, chief of the engineer-priestesses             |
-| kýros       | Master: a courtesy for a valued man that grants him nothing               |
-| Mêtríssa    | The sovereign, queen of Bethûa and high priestess of Lúsinía              |
-| Naukrátissa | The admiral of the fleet                                                  |
-| Parthéna    | A novice in the long temple education                                     |
-| qelu        | A tenth of a gezan, the smaller weight-piece                              |
-| Spádon      | One of the Spádai, the sworn eunuch-warriors, the only men permitted arms |
-| Stratégissa | The supreme war-leader, commanding army and fleet                         |
+| Word        | Meaning                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| Charíssa    | The Grace: the open-hand and kicking art of Bethûan women; a master is a Charíssa                            |
+| Dómissa     | A House-Mother, matriarch of a House and member of the Council of Houses; pl. Dómissai                       |
+| Grammatíssa | A scribe or civil clerk of the realm; pl. Grammatíssai                                                       |
+| Great House | One of the dozen leading Trade-Houses, whose letters of credit any other Great House honors                  |
+| Hiérissa    | A high priestess, head of a goddess-order or a great temple, and member of the Sacred College; pl. Hiérissai |
+| Izet-Halzi  | The Overseer of the Account, the state treasurer                                                             |
+| Izet-Mû     | The Overseer of the Waters, chief of the engineer-priestesses                                                |
+| Lonkhai     | The Spear-Sisterhood, the female warrior class                                                               |
+| Mêtríssa    | The sovereign: queen of Bethûa and high priestess of Lúsinía                                                 |
+| Naukrátissa | The admiral of the fleet                                                                                     |
+| Spádon      | A sworn eunuch-warrior, the only kind of man permitted arms; pl. Spádai                                      |
+| Stratégissa | The supreme war-leader, commanding army and fleet                                                            |
+
+Gezan and qelu are loanwords from [[lore-khelathiclt#glossary|Aû'Khelâthu]].
+
+The [[lore-bethuanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.
