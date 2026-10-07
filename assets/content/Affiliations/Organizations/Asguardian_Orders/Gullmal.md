@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Gullmál, the Gilded Voices, are priests of [[affiliation-solrun|Sólrún]] prized for their persuasiveness, serving her faith as diplomats, negotiators and ambassadors wherever a dispute turns on charm rather than force. A member speaks for a feast-hall's temple in dealings no blunter envoy could carry.
+Where a dispute turns on charm rather than force, [[affiliation-solrun|Sólrún]]'s temple sends a Gilded Voice.
+
+Gullmál, the Gilded Voices, are priests prized for their persuasiveness, serving the faith as diplomats, negotiators and ambassadors. A member speaks for a feast-hall's temple in dealings no blunter envoy could carry. A Dróttmadr speaks for the temple in minor dealings and is not yet a full diplomat; a Dróttstjóri negotiates and carries embassies.

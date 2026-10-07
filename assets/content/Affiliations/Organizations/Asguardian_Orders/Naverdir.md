@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Náverdir, the Keepers of the Abyss, guard [[lore-nahilddty|Náhild]]'s hidden hofs and the rituals kept inside them, standing as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats both duties as inseparable.
+What outsiders fear most about a hidden hof of [[lore-nahilddty|Náhild]] is the person who guards it.
+
+Náverdir, the Keepers of the Abyss, guard the hidden hofs and the rituals kept inside them, and serve as the cult's own inquisitors against anyone who threatens its secrecy. A member protects a sacred site first and its congregation second, and treats the two duties as inseparable.

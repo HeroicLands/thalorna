@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Lögbrandr, the Order of the Sword, trains priests of [[affiliation-eidgar|Eidgar]] in the mastery of combat and the upholding of justice, serving the hofs where the local ting sits as judges and defenders in one. A member hears a dispute as readily as he draws a blade in its enforcement, and answers to the hof's own godi for both.
+At a hof where the local ting sits, the person who hears your dispute may be the same person who enforces the ruling. In [[affiliation-eidgar|Eidgar]]'s faith that person is often of the Order of the Sword.
+
+Lögbrandr, the Order of the Sword, trains priests in the mastery of combat and the upholding of justice. They serve the hofs where the ting sits as judges and defenders in one, hearing a dispute as readily as they draw a blade to enforce its outcome, and they answer to the hof's own godi for both. A Dróttmadr serves the hof, hears disputes and trains in the combat that enforces a ruling; a Dróttstjóri leads the order's work there.
