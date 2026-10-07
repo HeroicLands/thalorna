@@ -87,7 +87,7 @@ A culture keeps two glossaries.
 
 **The full glossary** closes the culture note under the heading `## Glossary {#glossary}`, whose anchor the guide's link names. It lists every in-world word and term of art the culture's notes use in prose, with the common words among them, so that a reader who meets an unfamiliar word anywhere in the culture's notes can find it.
 
-The common words set a word's type everywhere in the corpus. A common word is set in roman wherever it appears. Every other word of a culture's own tongue that is not a name is set in italics, including the rest of the full glossary; a term of art in plain words is never italic. Names (people, places, gods, houses, clans and works) are never glossary entries and never italic. A culture without a guide has no common words yet, so all of its terms stay italic until its guide and glossary exist.
+The common words set a word's type everywhere in the corpus. A common word is set in roman wherever it appears. Every other word of a culture's own tongue that is not a name is set in italics, including the rest of the full glossary; a term of art in plain words is never italic. Names (people, places, gods, houses, clans, festivals and works) are never glossary entries and never italic. A culture without a guide has no common words yet, so all of its terms stay italic until its guide and glossary exist.
 
 ## Working from the source
 
