@@ -8,4 +8,14 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Munvin is the raven of memory in the [[affiliation-odvar|Faith of Ódvar]], paired with [[lore-hugvin|Hugvin]], the raven of thought. The faith depicts the two traveling across the world each day to bring knowledge and news back to [[lore-odvardty|Ódvar]], and reads the raven feather as their shared sign. Inside Ódvar’s rune-hall, some hold them literal, memory and thought made bird-shaped, departing at dawn and returning in the evening; ordained acolytes are taught instead that the birds are a teaching figure for the unordained, and that waiting on their reports means neglecting the work of the runes. [[being-hnirvmylwise|Hnirvmýl the Wise]] claims to hear their whispers in the wind guiding him toward hidden knowledge and lost lore.
+"Memory goes out every day and comes home every night," an acolyte at [[place-odholm|Ódholm]] says, "and what it brings back is what you meant to forget." The acolyte, newly ordained, has just been taught the stricter reading of **Munvin**, the raven of memory in the [[affiliation-odvar|Faith of Ódvar]]. Munvin flies beside [[lore-hugvin|Hugvin]], the raven of thought, across the world each day to bring knowledge and news back to [[lore-odvardty|Ódvar]], and the raven feather is the faith's sign for the pair.
+
+The unordained meet the birds as messengers, and some in the rune-hall keep that reading as literal: memory and thought made bird-shaped, away at dawn and home by evening. Ordination changes the lesson. The birds become a teaching figure for the unordained, and a rune-caster who waits on their reports has stopped doing the work of the runes, so the stricter reading sends him back to the staves.
+
+[[being-hnirvmylwise|Hnirvmýl the Wise]] claims to hear Munvin's whisper in the wind, guiding him toward hidden knowledge and lost lore. The claim is his own.
+
+## See Also
+
+- [[lore-hugvin|Hugvin]]—the raven of thought, who flies beside Munvin
+- [[lore-odvardty|Ódvar]]—the god the ravens serve
+- [[affiliation-odvar|Faith of Ódvar]]—the faith that takes the raven feather as its sign

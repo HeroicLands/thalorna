@@ -8,6 +8,8 @@ tags: []
 data: {banner: creaturebnr}
 ---
 
+"Ask which kind before you ask anything else," says a gravedigger who claims to have met a hrúmverdir in its howe. "The goddess raises one kind and sends it against the living. The other keeps its own mound and its own tale, and nobody can tell you ahead of time what it wants."
+
 _Hrúmverdir_, the howe-wardens, is a northern word for [[lore-undead|undead]] put to two uses. Both name a body that moves after death, and both name something touched by [[lore-theshadow|the Shadow]], which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.
 
 ## Náhild's Raised Dead
