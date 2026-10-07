@@ -3,6 +3,7 @@ shortcode: azhun
 name: {full: Azhûn, aliases: []}
 type: affiliation
 subType: polity
+description: "The river-mouth city-state of Harad whose merchant guilds, meeting in the House of Factors, govern the flow of goods between the Dunhari desert and the sea."
 data:
   templatePriority: null
   demonym: null
@@ -70,28 +71,30 @@ data:
 sohl: {system: {commonSkills: [haradilng]}}
 ---
 
-- **Type:** Port City
-- **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]
-- **Language:** Haradi
-- **Naming Convention:** [[skill-haradilng|Haradi]]
-- **Pantheon:** [[affiliation-arldnpnthn|Aurèldían Pantheon]], [[affiliation-ashanpnthn|Āsháian Pantheon]]
+The **House of Factors** stands above Azhûn's harbor, and the merchant guilds that meet in it hold absolute power in the city-state. Azhûn is one of the five coastal city-states of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], some 2.5 million people around the city of [[place-azhun2|Azhûn]] at the mouth of the [[place-alzriver|Alz River]], and it is the conduit through which goods flow between the Dunhari desert, the caravan towns of the interior and the sea routes that connect Harad to the western realms.
 
-## Overview
+- **Kind:** port city-state, governed by its merchant guilds
+- **Language:** [[skill-haradilng|Haradi]], which also governs its naming
+- **Faiths:** the [[affiliation-arldnpnthn|Aurèldían Pantheon]] and the [[affiliation-ashanpnthn|Āsháian Pantheon]]
 
-The city-state holds [[place-azhun2|Azhûn]] itself. One of the five coastal city-states of the Haradian Confederation, Azhûn is the conduit through which goods flow between the Dunhari desert, the caravan towns of the interior, and the maritime routes that connect Harad to the western realms.
+## Who Decides
 
-The city's merchant guilds hold absolute power here, and their councils meet in the towering House of Factors that overlooks the harbor. Competition between guilds is fierce but disciplined; they maintain an elaborate system of tariffs, trading monopolies, and agreements that regulate commerce with surgical precision. A ship's captain who violates guild protocol finds no harbor master willing to accept her vessel, no crew willing to work for her. The guilds have learned that stability, however rigidly maintained, yields greater wealth than chaos.
+The guilds' councils decide, and nothing else in Azhûn does. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, and their means of keeping it are simple. A ship's captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to work for her.
 
-Azhûn's population is a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests, and adventurers from every corner of the known world. The city maintains an uneasy religious balance, with temples of the Aurèldían pantheon standing near shrines to the Āsháian deities—both recognized as legitimate paths by the merchant councils.
+## Who Lives Here
+
+Azhûn's people are a polyglot mixture of Haradi merchants, Dunhari traders, Āsháian priests and adventurers from every corner of the known world. The city keeps an uneasy religious balance, with temples of the Aurèldían gods standing near shrines of the Āsháian ones, and the merchant councils recognize both as legitimate paths.
 
 ## Commerce and Currency
 
-Azhûn uses the [[lore-hardncrncy|Haradian currency system]]—the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
+The tariffs the House of Factors sets are paid in the [[lore-hardncrncy|Haradian currency]], issued under the **Bayt al-Khazînah** of the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]. Its denominations are the Vylarian ones—Aurion, Argo and Bit—on Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt's moneylenders carry the banking; Vylarian script goes unhonored on Azhûn's quays, as Haradian script does in Vylarian territory.
 
 ## See Also
 
-- [[place-azhun2|Azhûn]]—The city itself
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Regional overview
-- [[skill-haradilng|Haradi]]—Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Western religious tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Eastern religious tradition
+- [[place-azhun2|Azhûn]]—the city itself
+- [[place-alzriver|Alz River]]—the river whose mouth makes the harbor
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the parent polity
+- [[skill-haradilng|Haradi]]—the naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the western religious tradition
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the eastern religious tradition
+- [[affiliation-tamavar|Tamavar]], [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]]—the sister city-states

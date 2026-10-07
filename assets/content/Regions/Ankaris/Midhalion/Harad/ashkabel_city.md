@@ -10,11 +10,13 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 150000, gover
 
 ## Overview
 
-Ask an Ashkabeli captain where his ship was drawn, and he will say Ashkabel, even if she was built somewhere else. This is a city of 150,000 on the southern coast of Harad, and it is the cultural heart of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]: smaller and less wealthy than [[place-tamavar2|Tamavar]], less martial than [[place-kethara2|Kethara]], less cosmopolitan than [[place-varoshan2|Varoshan]], and unlike all three in the creative energy of its scholars, artists, shipwrights and dreamers. Haradian art, music, theater and literature flourish here, and the Confederation's finest ships are designed here, if not always built here.
+The colorful buildings and open-air theaters of the **Painted Harbor** line Ashkabel's waterfront, and a ship coming in sees the city's character before she ties up. Ashkabel is a city of 150,000 on the southern coast of [[place-haradregin|Harad]] and the cultural heart of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]: smaller and less wealthy than [[place-tamavar2|Tamavar]], less martial than [[place-kethara2|Kethara]] and less cosmopolitan than [[place-varoshan2|Varoshan]], and unlike all three in the creative energy of its scholars, artists, shipwrights and dreamers. Haradian art, music, theater and literature flourish here, and the Confederation's finest ships are designed here, if not always built here.
 
-## The City
+## The Yards and the Academy
 
-Ashkabel's shipwright guilds work more like artistic studios than industrial workshops. A vessel designed in the city is recognizable by its elegant lines and inventive rigging, and the designers are counted as artists as much as engineers. The Design Yards are where those ships are conceived. The Academy of the Tides teaches navigation, astronomy and natural philosophy, and its character is practical: it turns out good navigators, cartographers and physicians, and the best astronomers in the Confederation. Its charts are prized by captains across the [[place-vylarianse|Vylarian Sea]]. The waterfront is the Painted Harbor, famous for its colorful buildings and open-air theaters.
+The **Design Yards** are where Ashkabel's ships are conceived. The shipwright guilds work more like artists' studios than industrial workshops, the designers are counted artists as much as engineers, and a vessel drawn in Ashkabel is recognizable by its elegant lines and inventive rigging wherever she was built.
+
+The **Academy of the Tides** teaches navigation, astronomy and natural philosophy, and its character is practical: it turns out good navigators, cartographers and physicians, and the best astronomers in the Confederation. Its charts are prized by captains across the [[place-vylarianse|Vylarian Sea]].
 
 ## Who Governs
 

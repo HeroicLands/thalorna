@@ -68,32 +68,30 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## The Merchantry of the Veil
+The agent wears a ring with a sigil cut into it and says a phrase that sounds like small talk, and if you know the answering phrase, you are doing business with the Merchantry of the Veil. It is the least understood and most whispered-about of Harad's great guilds. Officially it is a trade association of dealers in luxury goods: silks, spices, rare alchemical ingredients, exotic animals and fine art. Unofficially it deals in something worth more, which is information, and where the information trade meets the goods trade it will move cargo the other guilds will not touch.
 
-- **Type:** Trade guild (luxury goods, information brokerage, smuggling)
-- **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] (with shadow networks across [[place-midhalnrgn|Mídhalión Region]])
-- **Headquarters:** Ostensibly [[affiliation-tamavar|Tamavar]]; in practice, operates from everywhere and nowhere
+- **Kind:** trade guild in luxury goods, information brokerage and smuggling
+- **Reach:** the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], with shadow networks across [[place-midhalnrgn|Mídhalión Region]]
+- **Headquarters:** [[affiliation-tamavar|Tamavar]] in name; in practice everywhere and nowhere
 
-### Overview
+## The Veil
 
-The Merchantry of the Veil is the least understood and most whispered-about of Harad's major guilds. Officially, it is a trade association for dealers in luxury goods—silks, spices, rare alchemical ingredients, exotic animals, and fine art. Unofficially, the Merchantry deals in something far more valuable: information. And when the information trade intersects with the goods trade, the Merchantry is perfectly willing to move cargo that other guilds won't touch.
+The Merchantry cultivates mystery. Its membership rolls are not public, its meetings are private, and its agents identify themselves by sigil rings and coded phrases instead of guild badges. The secrecy is partly affectation, since the luxury trade has always traded on exclusivity, and partly necessity. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
 
-### Character
+Its clients show what that means. A Vylarian senator who needs a message carried to a Haradian rival without either government knowing comes to the Merchantry. So does an [[affiliation-ordoarcanis|Ordo Arcanis]] mage who needs alchemical ingredients banned under imperial law, and so does a fugitive who needs passage out of a Haradian port with no questions asked: the Merchantry knows which captains do not check manifests.
 
-The Merchantry cultivates an air of mystery. Its membership rolls are not public. Its meetings are held in private. Its agents identify themselves by sigil rings and coded phrases rather than guild badges. This secrecy is partly affectation—the luxury trade has always cultivated exclusivity—but partly functional. The Merchantry's real business is brokering connections between people who cannot afford to be seen dealing with each other.
+## Agents
 
-A Vylarian senator who needs a message delivered to a Haradian rival without either government knowing? The Merchantry handles it. An [[affiliation-ordoarcanis|Ordo Arcanis]] mage who needs alchemical ingredients banned under imperial law? The Merchantry can arrange delivery. A fugitive who needs passage out of a Haradian port without questions? The Merchantry knows which captains don't check manifests.
+The Merchantry works through agents placed in every port city, caravan stop and aristocratic court in Mídhalión. Most are legitimate merchants who do the Merchantry's business alongside their own: a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
 
-### Methods
+## The Other Guilds
 
-The Merchantry operates through a network of agents embedded in every port city, caravan stop, and aristocratic court in [[place-midhalnrgn|Mídhalión Region]]. These agents are often legitimate merchants who conduct Merchantry business alongside their own affairs—a spice trader who also carries sealed letters, a jeweler who also appraises stolen goods, a courtesan who also listens.
+The other great guilds live with the Merchantry as a tolerated parasite. The [[affiliation-auricompct|Auric Compact]] officially disapproves of its shadowy dealings and quietly buys its information. The [[affiliation-corsairleg|Corsair League]] calls it a pack of spies and smugglers and accepts that some cargoes are more profitably moved in the dark.
 
-The Merchantry's relationship with the other guilds is parasitic but tolerated. The [[affiliation-auricompct|Auric Compact]] officially disapproves of the Merchantry's shadowy dealings but quietly uses its information services. The [[affiliation-corsairleg|Corsair League]] considers the Merchantry a pack of spies and smugglers but accepts that some cargoes are more profitably moved discreetly.
+Of the three, the Merchantry is the one most likely to approach the crew of the [[affiliation-thetamzir|Tamzîr]] with an offer of work instead of a threat, because a vessel that sails outside the normal guild channels is exactly what its less conventional shipments need.
 
-The Merchantry is the guild most likely to approach the crew of the [[affiliation-thetamzir|Tamzîr]] with offers of work rather than threats—a vessel operating outside normal guild channels is exactly what the Merchantry needs for its less conventional shipments.
+## See Also
 
-### See Also
-
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Parent polity
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]—Rival guilds
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—Occasional unwilling client
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the parent polity
+- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]]—the rival guilds
+- [[affiliation-ordoarcanis|Ordo Arcanis]]—an occasional, unwilling client

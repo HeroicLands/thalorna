@@ -71,21 +71,21 @@ data:
 sohl: {system: {commonSkills: [haradilng]}}
 ---
 
-## Overview
+The constitution of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] names no capital. The **Grand Council** meets in Tamavar all the same, the Arch-Consul keeps his residence here, and the headquarters of the most powerful merchant guilds line its harbor, so the largest and wealthiest of the five city-states is the Confederation's capital in everything but law. The city-state holds the city of [[place-tamavar2|Tamavar]] and the country around it, some three million people in all.
 
-Tamavar is the largest and wealthiest city in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the de facto capital, though the Confederation's constitution grants no city that formal status. The Grand Council meets here, the Arch-Consul's residence is here, and the headquarters of the most powerful merchant guilds line its harbor. If Harad has a beating heart, Tamavar is it. The city-state holds [[place-tamavar2|Tamavar]] itself.
+## Who Decides
 
-## Character
+Two governments sit in Tamavar, and a newcomer with business here needs to know which one he is dealing with. The city's official government is a **Council of Elders**, elected by property-owning citizens; its First of the Council holds the city's seal for his term, and its Chancellor, Treasurer and Harbormaster keep the charters, the revenue and the port. That council serves largely at the pleasure of the three great guilds—the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]] and the [[affiliation-mrchntryvl|Merchantry of the Veil]]—whose representatives control the Grand Council as well.
 
-The city's politics are dominated by the three great guilds—the [[affiliation-auricompct|Auric Compact]], the [[affiliation-corsairleg|Corsair League]], and the [[affiliation-mrchntryvl|Merchantry of the Veil]]—whose representatives effectively control the Grand Council. The city's official government, a Council of Elders elected by property-owning citizens, serves largely at the guilds' pleasure.
+The Compact is the one a visitor feels first. Its headquarters is the old Vylarian governor's palace, and from there it finances the ships in the harbor, insures their cargoes and lends to the Confederation that meets down the street. Standing in the city follows the register, as everywhere on the coast: a freeman is enrolled, trades in the markets and pleads in the courts, a resident works under the city's protection without a vote, and a house head's wealth is what sends him to the council.
 
 ## Commerce and Currency
 
-Tamavar uses the [[lore-hardncrncy|Haradian currency system]]—the post-secession monetary system administered through the [[affiliation-sodnaqirin|Sôd-Naqîrîn]]'s Bayt al-Khazînah. The Haradian system uses the same denomination structure as the Vylarian (Aurion / Argo / Bit) but is backed by Haradian reserves rather than the Vylarian [[affiliation-aerarimmpr|The Aerarium Imperii]]; the Haradian Aurion is slightly underweight by the Vylarian standard. The Bayt-affiliated moneylender network handles the banking infrastructure; Vylarian script is _not_ honored here, and Haradian script is not honored in Vylarian territory. See [[lore-hardncrncy|Haradian Currency]] for the full system.
+Tamavar's harbor counts its dues in the [[lore-hardncrncy|Haradian currency]], whose treasury, the **Bayt al-Khazînah** of the [[affiliation-sodnaqirin|Sôd-Naqîrîn]], has its strongroom here. The coins carry the Vylarian denominations (Aurion, Argo and Bit) on Haradian reserves rather than on the Vylarian [[affiliation-aerarimmpr|Aerarium Imperii]], and the Haradian Aurion is slightly underweight by the Vylarian standard. Bayt-affiliated moneylenders carry the city's banking; they refuse Vylarian script, and no Vylarian house takes theirs.
 
 ## See Also
 
-- [[place-tamavar2|Tamavar]]—The city itself
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Parent polity
-- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—Major guilds
-- [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]]—Sister city-states
+- [[place-tamavar2|Tamavar]]—the city itself
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the confederation whose Council meets here
+- [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the great guilds
+- [[affiliation-kethara|Kethara]], [[affiliation-varoshan|Varoshan]], [[affiliation-ashkabel|Ashkabel]], [[affiliation-azhun|Azhûn]]—the sister city-states
