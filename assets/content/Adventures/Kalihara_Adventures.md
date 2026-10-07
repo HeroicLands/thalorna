@@ -15,7 +15,7 @@ data:
   packFolder: adventureskalihara
 ---
 
-Here are five seeds and one campaign, designed so the seeds can be run independently as one-offs or woven together to form the opening arc of the campaign. I've deliberately made each seed hit a different beat—dungeon, horror/investigation, heist, extraction, diplomatic—so they don't feel like the same job five times. Specific Kalihari personal names I've left as placeholders; those should come from the Kalihari_Language naming conventions in your vault.
+Five adventure seeds and one campaign begin on the Kaliharan coast. Each seed runs on its own as a single adventure, and together they form the opening arc of the campaign. Each asks something different of a party: a wilderness expedition, a quiet investigation, a heist, an extraction and a negotiation.
 
 ## Seed 1—The Starfall Quarry
 
@@ -33,7 +33,7 @@ _Flavor: investigation / quiet horror._
 
 A minor official in Qasirah (not the port council proper—someone adjacent, a harbor-warden or a customs scribe) engages the party under unusual circumstances: the commission comes through back channels, and the official is anxious about being seen to issue it. A coastal village half a day's ride from the port has gone silent. No trade, no messenger, no response. The official wants the party to investigate and report back. They are emphatically not to contact anyone else about what they find.
 
-What actually went wrong: the small Ithári structure that protected the village's fishing grounds and fresh-water spring failed completely three months ago. The local Ithári'kaan elder, unable to admit this to the orthodox hierarchy in the interior, tried something—a foreign ritual, a bargain with a minor undead entity, a half-remembered fragment of old lore, take your pick—and it has taken the village over. The survivors, if any, are not quite themselves. The elder is alive but will beg the party not to report what they find: to do so is to expose the whole decay problem in a way that will fracture Kaliharan society.
+What actually went wrong: the small Ithári structure that protected the village's fishing grounds and fresh-water spring failed completely three months ago. The local Ithári'kaan elder, unable to admit this to the orthodox hierarchy in the interior, tried something—a foreign ritual, a bargain with a minor undead entity, or a half-remembered fragment of old lore—and it has taken the village over. The survivors, if any, are not quite themselves. The elder is alive but will beg the party not to report what they find: to do so is to expose the whole decay problem in a way that will fracture Kaliharan society.
 
 Stakes: the party has to decide whether to report honestly (which damages the Ithári'kaan and accelerates the schism) or lie by omission (which protects orthodoxy but leaves the actual problem in place). Either way, they now _know_ something that most people in Thalorna do not. That knowledge is worth money, and it is also dangerous to possess.
 

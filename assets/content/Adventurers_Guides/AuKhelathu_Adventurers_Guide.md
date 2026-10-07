@@ -26,7 +26,7 @@ Choose the season and you choose the journey. During the inundation, fields disa
 
 ## Who Holds Power
 
-The [[lore-garauu|Gar-Aû]] is addressed as divine, and the empire's order rests on that claim. Daily power passes through scribes and the hereditary Halzi'a who govern its **selatu**, or provinces. A decree from the throne still needs a provincial governor to act and a clerk to enter what was done. A traveler with a petition may have to win over all three.
+The [[lore-garauu|Gar-Aû]] is addressed as divine, and the empire's order rests on that claim. Daily power passes through scribes and the hereditary Halzi'a who govern its selatu, or provinces. A decree from the throne still needs a provincial governor to act and a clerk to enter what was done. A traveler with a petition may have to win over all three.
 
 The priesthood is the other power, and on a bad century the greater one. A major temple holds land, lends money, teaches scribes, hears disputes, and employs the people who keep it running. Its high priest speaks to the throne as something between a subject and a rival. The throne needs the temples to affirm its divinity; the temples need the throne to confirm their land. A party carrying news between them can find that both sides want the message delivered differently.
 
@@ -61,7 +61,7 @@ An entry **opens** when a promise is witnessed and written down. It **closes** w
 
 An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
 
-Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. At the judgement after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
+Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. At the judgment after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
 
 ## The Gods
 
@@ -121,7 +121,7 @@ A character might be a temple-trained scribe whose skill opens an archive, a boa
 
 ## Bodies to Belong To
 
-Institutions announce themselves in their names, and the opening word tells you what kind of thing you are dealing with before you know anything else. A guild opens on _Lin'_, a temple or estate on _Lut-_, a house or office on _Gar-_, an order of a god's servants on _Lem'_, a council or court on _Genzet'_, and a company that goes out on _Zeghet'_. The genitive is _elu_: [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]] is the scribes' guild of the empire, and the smiths of the capital are a different body from the smiths of the empire, with their own masters and their own quarrel.
+Institutions announce themselves in their names, and the opening word tells you what kind of thing you are dealing with before you know anything else. A guild opens on Lin', a temple or estate on Lut-, a house or office on Gar-, an order of a god's servants on Lem', a council or court on Genzet', and a company that goes out on Zeghet'. The genitive is elu: [[affiliation-linzethkhlth|Lin'Zethu elu Aû'Khelâthu]] is the scribes' guild of the empire, and the smiths of the capital are a different body from the smiths of the empire, with their own masters and their own quarrel.
 
 A character almost certainly belongs to one of these, and the tie is the most useful thing on the sheet: it supplies patrons, obligations, somewhere to sleep in a strange city, and someone with a claim on you.
 
@@ -186,3 +186,33 @@ Begin with the river, a city, and a claim on the party. Follow the questions tha
 - [[place-zumeleshrvr|The river]], [[place-aukhelathrgq|the region]] and the four classes of province for the geography
 - [[skill-khelathlng|The language]] for names, the two hands, and how to coin one that fits
 - [[lore-aukhlthcrncy|Money]], [[lore-khelathclndr|the calendar]] and [[lore-khelunulekha|the sacred power]] for the systems a campaign touches most
+
+## Glossary
+
+| Word        | Meaning                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| Azlet       | The inundation, first season of the year, when the fields lie drowned   |
+| elu         | Of: the genitive that joins a body's name to its place                  |
+| Gar-        | The opening of a house's or an office's name                            |
+| Gar-Aû      | The divine sovereign of the empire                                      |
+| Gelet       | The emergence, the season of planting the black silt                    |
+| Genzet      | A court of law; Genzet' opens the name of a council or court            |
+| gezan       | The temple-attested weight-piece of copper, silver or gold; ten qelu    |
+| Halzi'a     | The hereditary governor of a selat                                      |
+| Iru'palu    | The rank below the Gar-Aû, held by the royal family and a few houses    |
+| Legha'lutu  | Master of an estate, its lands and its village                          |
+| lekhau      | Sacred power, trained in the temple schools and licensed by the temples |
+| Lem'        | The opening of the name of an order of a god's servants                 |
+| Lin'        | The opening of a guild's name                                           |
+| Lut-        | The opening of a temple's or an estate's name                           |
+| Name Struck | The rank of a person whose name has been struck from the records        |
+| near name   | The shortened given name, used only by those a tie already binds        |
+| qelu        | A tenth of a gezan, the smaller weight-piece                            |
+| selat       | A province of the empire; pl. selatu                                    |
+| Shelu       | The harvest, third season of the year                                   |
+| Thâz'Lekhau | The high priest of a god's temple                                       |
+| Wazu        | A temple acolyte, who reads accounts aloud on the public reading-days   |
+| Zabet       | A woman of rank at court                                                |
+| Zabet'lutu  | Mistress of an estate, its lands and its village                        |
+| Zeghet'     | The opening of the name of a company that goes out                      |
+| Zemelu      | A companion of the Gar-Aû, a mark of favor and access                   |
