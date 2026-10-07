@@ -10,9 +10,9 @@ data: {packFolder: nordlands}
 
 "Everything he makes, he makes once," the Hofgydja at [[place-vithgard|Vithgard]]'s great hof of [[lore-motefnirdty|Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.
 
-## The Mould and the Clay
+## The Mold and the Clay
 
-When the [[affiliation-asguardian|Ten]] had cut [[place-worldthlrn|Mannguard]] out of [[lore-hrimthurspr|Hrímthur]]'s body in the [[lore-thursblot|Thursblót]], the world was ground, sea and weather with nobody on it. Mótefnir walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mould—the same mould his hofs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
+When the [[affiliation-asguardian|Ten]] had cut [[place-worldthlrn|Mannguard]] out of [[lore-hrimthurspr|Hrímthur]]'s body in the [[lore-thursblot|Thursblót]], the world was ground, sea and weather with nobody on it. Mótefnir walked it. Where the giant's flesh lay against the meltwater coming off his rime the ground was clay, and the Maker pressed two figures out of it in his mold—the same mold his hofs carry as his sign beside an unfinished casting. He set them down on the strand to dry.
 
 The first two have names, and the names are older than any hall. **Hrandmýl** is the man, named from _hrand_, a thing set down that will not be moved, because he was the first thing set down on the world and he stayed. **Dvarnrinna** is the woman, named from _dvarn_, a door that is never barred. Both names stand in the hard grade, the first of the three, and that is why the skalds teach that every hall's genealogy, counted back far enough, rings home to a hard-grade name: the first two were the first naming, and the grades have turned from them ever since.
 

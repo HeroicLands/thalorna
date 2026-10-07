@@ -8,15 +8,19 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Ginnauga, the **Eye of the Void**, is the primordial relic from which [[lore-nahilddty|Náhild]] draws her power. It is a powerful source of [[lore-theshadow|the Shadow]], the chaos from outside creation that corrupts whatever it touches, mortal or divine, and that is what makes the Eye so terrible. Its influence corrupts everything near it, and a caustic shadow of dread and hopelessness seeps from it into the mortal world.
+Ask a rune-priest at [[place-odholm|Ódholm]] what the Eye of the Void sees and he will tell you what it is, who wears it and what it costs, and then he will stop. "Past that," he says, "the question is the dangerous part." **Ginnauga**, the Eye of the Void, is the primordial relic from which [[lore-nahilddty|Náhild]] draws her power, and the tradition holds it to be a powerful source of [[lore-theshadow|the Shadow]]: the chaos from outside creation that corrupts whatever it touches, mortal or divine.
 
-Náhild wears the Eye of the Void at her neck, and her depictions show it there. Her need to gaze into it drives her further into madness, and she is one of the most feared beings in the pantheon because of it. Nearly every god who tampers with the Shadow is at least partly insane from the contact, and Náhild is among them.
+That corruption is what makes the Eye terrible. Its influence spreads to everything near it, and a caustic shadow of dread and hopelessness seeps from it into the mortal world. The name is built from _ginn-_, the yawning void beyond creation, and _-auga_, an eye.
+
+## The Eye at Her Neck
+
+Náhild wears the Eye at her neck, and her depictions show it there. The tradition says that her need to gaze into it drives her further into madness, and that this is a large part of why she is among the most feared beings in the pantheon. It holds, too, that nearly every god who tampers with the Shadow is at least partly insane from the contact, and that Náhild is among them.
+
+The [[affiliation-asguardian|pantheon]]'s own account names the Eye as the source of her power, a primordial artifact of raw corruption, and says no more about where it came from or what else it does.
 
 ## In Náhild's Faith
 
 The [[affiliation-nahild|Faith of Náhild]] takes an obsidian shard and the Eye of the Void together as its symbol. It venerates the Eye in every one of its hidden hofs and holds that the relic amplifies the powers of death and chaos. In the [[affiliation-nahild|Rite of Eternal Darkness]], a secret ceremony of the clergy, the cult beseeches power from the Eye to deepen its bond with Náhild. [[affiliation-nalok|Nálok]], the Order of the Void, works in secret to widen the Eye's influence over whatever ground its members can reach.
-
-The [[affiliation-asguardian|pantheon]]'s own account names the Eye as the source of Náhild's power, a primordial artefact of raw corruption. Ginnauga takes its name from _ginn-_, the yawning void beyond creation, and _-auga_, an eye.
 
 ## See Also
 

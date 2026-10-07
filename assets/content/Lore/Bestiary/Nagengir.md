@@ -22,7 +22,7 @@ This name marks a particular kind of [[lore-undead|undead]], not every dead pres
 
 ## The Watch Beneath the Hidden Roof
 
-One northern warning tale follows an unnamed traveller past a hidden hof of [[affiliation-nahild|Náhild]]. Its terror lies in a guardian that thinks, speaks, and commands the driven dead. The teller leaves its fate unanswered and carries the warning back to a living hearth.
+One northern warning tale follows an unnamed traveler past a hidden hof of [[affiliation-nahild|Náhild]]. Its terror lies in a guardian that thinks, speaks, and commands the driven dead. The teller leaves its fate unanswered and carries the warning back to a living hearth.
 
 : The Watch Beneath the Hidden Roof {#hidden-roof}
 

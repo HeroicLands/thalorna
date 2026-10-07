@@ -8,7 +8,9 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Thrúnhamarr is the hammer of [[lore-thrunvalddty|Thrúnvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as both the god’s weapon against the forces pressing on the ordered world and a tool of blessing and protection, joining battle and the sanctifying of ships in one symbol. The hammer stone represents that strength and protection. In the saga of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]], [[place-thrumufjall|Thrumufjall]] is the mountain where the god is said to have struck the earth with his hammer.
+"When the thunder comes up the seamount," a Storm-Speaker on [[place-thrumufjall|Thrumufjall]] says, "the hof says you are hearing the hammer. I read the storm; I do not argue with the hof." **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrúnvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.
+
+In the saga of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]], Thrumufjall is the mountain where the god is said to have struck the earth with the hammer. In the standard telling of [[lore-aldarlok|Aldarlok]] it lies where Thrúnvald drops it, and **Hamarberi**, his daughter and one of the [[lore-tvelgaett|Tvelgaett]], lifts it out of the fire.
 
 ## The Hammer Held
 
