@@ -71,7 +71,7 @@ sohl: {system: {commonSkills: []}}
 # subtype: social
 ---
 
-The Iron Wolves are the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. They are known as the Iron Wolves, and Byzarian calls them _Lupi Ferri_, and they are the company that takes the contract nobody else will sign.
+The Iron Wolves are the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. In Byzarian they are the Lupi Ferri, the company that takes the contract nobody else will sign.
 
 - Type: independent mercenary company
 - Region: [[place-byzariargn|Byzaría]] principally; operates throughout western [[place-ankrscntnnt|Ankaris]] under contract
