@@ -18,7 +18,7 @@ data:
 
 **Sandhyāpur** (12,000, market 4) is the capital of [[affiliation-bhumipala|Bhūmipāla]] and the only town of any size on [[place-vedyarargn|Vedyara]]'s western shore. It stands behind a sand spit at the mouth of a seasonal river, at the southern end of [[place-marchroad|the march road]]. It is a court, a customs house and a salt town, in that order of dignity and the reverse order of income.
 
-The Mahārāja's court is here because the road ends here and the water is reliable. The palace is a walled compound of one story with a tower at each corner, built to hold against a raid and not against a siege. The town has grown round it in three quarters: the road quarter inside the wall, the salt quarter east along the flats, and the boat quarter on the spit.
+The Mahārāja's court is here because the road ends here and the water is reliable. The palace is a walled compound of one story with a tower at each corner, built to hold against a raid and not against a siege. The town has grown round it in three quarters: the road quarter inside the wall, the salt quarter east along the flats, and the boat quarter on the spit. It is also here because the ruling clan was: the Bhūmipāla were lords of the salt coast who rode out the steppe host of 315 in boats behind the spit, and kept their court on the coast when they took the march ([[lore-bhmplraise|the Raising of Bhūmipāla]]).
 
 ## The Roadstead
 

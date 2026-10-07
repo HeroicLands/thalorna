@@ -73,7 +73,7 @@ sohl:
 
 The [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] works the dream of a sleeper who has come and asked for it. The **Chaya-vrata** works the dream of a person who is awake and has not.
 
-That is the whole of the difference, and it is enough. The Council of the Dream condemned the vow and holds the condemnation open; the Samāja's monasteries will not seat a Chaya-vrata and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open.
+That is the whole of the difference, and it is enough. The Council of the Dream condemned the vow and holds the condemnation open; the Samāja's monasteries will not seat a Chaya-vrata and will not name one; and the vow has gone on being taught, one student at a time, for as long as the condemnation has been open. The condemnation dates from about 470 AF ([[lore-chayacondm|the Condemnation of the Chaya-vrata]]).
 
 ### What It Does
 

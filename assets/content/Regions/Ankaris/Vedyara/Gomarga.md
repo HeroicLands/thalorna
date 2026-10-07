@@ -93,7 +93,7 @@ Gomārga holds the wells and the droveways and does not hold the grazing. The di
 
 It adjudicates everything else, because everything else happens at a well. A herd that does not drink does not move, and a herd that does not move is dead by the end of the dry season, so a crown that sets what a herd pays to drink sets the terms of every journey on the plateau without ever claiming an acre. Neighboring kingdoms that measure a realm in plowland read Gomārga as a small power and are corrected the first time they try to move cattle across it.
 
-The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kūpapāla the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time.
+The wells themselves are not the crown's. Each was cut by a named lineage, is heritable and divisible among that lineage's households, and is kept by a Kūpapāla the lineage names and the crown confirms. The crown takes a share of what the well earns and guarantees the lineage against anyone who tries to take the well. Both halves of that bargain have been broken, and the kingdom's worst century followed the second time. The crown broke the first half about 265 to pay for a war on the river ([[lore-wellbrk1|the First Breaking of the Well Bargain]]); a king failed the second about 440, and the herds stayed off the circuit for a century ([[lore-emptycrct|the Empty Circuit]]), which is why the Rājñī's standing camp keeps the hostages.
 
 ## The Moving Court
 

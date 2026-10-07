@@ -45,7 +45,7 @@ data:
 
 ## The Clan on the Spit
 
-The Bhūmipāla, the earth-keepers, were _sāmantas_ of the salt coast: a family with a fort, a stretch of salt pans and boats behind the spit at [[place-sandhyapur|Sandhyāpur]]. When [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] swept the march in 315, they put their people and their horses into the boats and stood off behind the spit until the host had turned west. They were the one fighting family of the march left whole.
+The Bhūmipāla, the earth-keepers, were Sāmantas of the salt coast: a family with a fort, a stretch of salt pans and boats behind the spit at [[place-sandhyapur|Sandhyāpur]]. When [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] swept the march in 315, they put their people and their horses into the boats and stood off behind the spit until the host had turned west. They were the one fighting family of the march left whole.
 
 The march was empty. Its king, **Ashvakīrti** of Marupāla, had died with his host at [[place-lanthusthli|Lanthusthalī]] ([[lore-marupalafl|the Fall of Marupāla]]), and its capital, [[place-ludrapur|Lūdrapur]], was ash. About 325 the clan rode up the road and held it.
 
@@ -56,7 +56,7 @@ The first Mahārāja, **Kāvravīra**, did four things in his reign, and the kin
 - **The court on the coast.** He kept his court at Sandhyāpur, where the water is reliable and the boats are. Lūdrapur was never reoccupied.
 - **The treaty.** He swore the first treaty with [[affiliation-sultntmrdd|the Sultanate of Amradad]] for the pilgrim caravans and the merchants arrested on either side. It has been renewed every generation since.
 - **The companies.** He kept no standing host. He hired companies of horse and foot by the season, Vedyari and Dunhari, and paid them out of the escort money.
-- **The forts.** He began the forts of [[place-marchroad|the march road]], one at each stage of water, and his _sāmantas_ finished them over the following generation. Every one was built with the host of 315 in mind.
+- **The forts.** He began the forts of [[place-marchroad|the march road]], one at each stage of water, and his Sāmantas finished them over the following generation. Every one was built with the host of 315 in mind.
 
 The men who built the forts became the **Martial Council** that confirmed him, and the council has confirmed every Mahārāja of the march since.
 

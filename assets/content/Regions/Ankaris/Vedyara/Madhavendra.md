@@ -28,7 +28,7 @@ Under the plateau's law a well is heritable, divisible and pledgeable, and the g
 
 ## Why It Is Still Here
 
-Stone is not scarce on the plateau and timber is, so there was never anything in Madhusthāna worth carting away that a man could not cut closer to home. The city was abandoned rather than sacked, over a long enough period that nothing about the abandonment is remembered as an event. What is remembered is the reign.
+Stone is not scarce on the plateau and timber is, so there was never anything in Madhusthāna worth carting away that a man could not cut closer to home. The city was abandoned rather than sacked, over a long enough period that nothing about the abandonment is remembered as an event. What is remembered is the reign. The [[affiliation-agnipantha|Agnī-panthā]]'s priests, who camp anywhere on the road, will not camp inside its walls, and nobody has asked them why.
 
 That reign standardized Classical Vedyari and produced the commentaries, the legal codes and the epics an educated Vedyari still studies, and every court and temple from the passes to the southern sea dates its year from it. The inscriptions in the ruin are in the standardized hand, which is what a scholar goes there to see: the language every literate person in the region writes, cut at the moment it stopped changing, on a wall with a cow tied to it.
 

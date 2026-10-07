@@ -129,7 +129,7 @@ The Mahājaya temple at Dhanurkota is the religious heart of the janapada and on
 The temple keeps the standard Mahājaya cycle of daily, weekly, seasonal and annual rites and adds three observances of its own:
 
 - The Festival of the Drawn Bow, at the spring equinox, when each year's incoming students present themselves at the temple for blessing.
-- **The Festival of the Returning**, in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed home.
+- **The Festival of the Returning**, in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed home. It was first kept for the graduates who answered the masters' recall in [[lore-hghlndwar|the Highland War]].
 - **The Watch of the Bow-String**, the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests keep vigil for their own.
 
 Shrines to the other Varnaka gods stand throughout the villages. [[place-vyalsrctmp|The temple of Vyālendra]] at the Sarvada source-spring is a popular pilgrimage for those seeking children, and the [[affiliation-rasikara|Rāsikara]] shrine in the cremation-ground outside the town receives the dead.
@@ -142,7 +142,7 @@ The janapada is moderately wealthy by janapada standards and not rich by a city-
 
 Dhanurkota is defended far better than a janapada of its size usually is. The four academies keep their own training-corps, which field eight hundred elite archers between them on short notice, and the villages can muster another two thousand fighting men of the Senāja households. The bow-fort stands on megalithic foundations that no siege technique short of sustained heavy magic will breach, and in extremity it shelters the whole janapada.
 
-Dhanurkota has not been seriously threatened in three centuries. Its reputation is its first defense, since no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground, and every Dhanurkoti engagement in recent memory has been fought by academy graduates serving abroad in the wars of patron kingdoms.
+Dhanurkota has not been seriously threatened in three centuries. Its reputation is its first defense, since no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground, and every Dhanurkoti engagement in recent memory has been fought by academy graduates serving abroad in the wars of patron kingdoms. The last threat was [[lore-hghlndwar|the Highland War]], about 415, stopped at [[place-sharamukha|Sharamukha]].
 
 ## Relations
 

@@ -97,7 +97,7 @@ The temples of the [[affiliation-varakpnthn|Varnaka]] are the older seat of powe
 
 Chandrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Mahārāja of the Moon House** rules by descent, and the temples confirm the rule: the rites the Varnaka ushtakas perform at an accession are what make the man king, and no claimant they would not crown has ever reigned.
 
-The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as Kulina. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulina. The seats descend within the houses; the crown confirms each succession and has twice refused one.
+The Mahārāja rules with a court, and the court is the **Nine Houses**. Their heads sit as Kulina. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulina. The seats descend within the houses; the crown confirms each succession and has twice refused one. The temples' first refusal of a king, about 312, is [[lore-moonsettle|the Moon House Settlement]] that set the Nine on their seats.
 
 A Kulina is not a **Sāmanta** and holds no land of the king's grant. His standing is his house's charter, and a house that loses its trade loses its seat within a generation. That is the difference between this court and a kingdom's.
 
@@ -119,7 +119,7 @@ A galley's crew works outside the order of stations, as every crew on this coast
 
 ## Relations
 
-Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rājapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] and the bows of [[affiliation-dhnrktjnpd|Dhanurkota]], and stands on good terms with [[affiliation-vindhyalay|Shikharālaya]]. Its standing rival is Vyālendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Ordo Arcanis]] is licensed to stand at Chandramukha and nowhere else in Vedyara.
+Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a formal protection arrangement nearly two centuries old, and it has declined the kingdoms' requests to expel the Rājapuri scholar who argues for more dissolutions. It buys the gold of [[affiliation-suvrgrjnpd|Suvarnagiri]] and the bows of [[affiliation-dhnrktjnpd|Dhanurkota]], and stands on good terms with [[affiliation-vindhyalay|Shikharālaya]]. Its standing rival is Vyālendra, whose cloth its galleys carry under a hire neither city has ever made last more than a year. The [[affiliation-ordoarcanis|Ordo Arcanis]] is licensed to stand at Chandramukha and nowhere else in Vedyara. It dates from the season a kingdom up the river held Rājapur's head-gate ([[lore-rjprprotct|Rājapur Under Protection]]).
 
 ## Commerce and Currency
 

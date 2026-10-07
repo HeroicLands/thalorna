@@ -18,7 +18,7 @@ Nobody claims the foundations. The temple does not say the goddess laid them and
 
 ## What It Is Worth
 
-No siege technique short of sustained heavy magic will breach the place. Dhanurkota has not been seriously threatened in three centuries, and the fort shares the credit with the janapada's reputation: no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground.
+No siege technique short of sustained heavy magic will breach the place. Dhanurkota has not been seriously threatened in three centuries, and the fort shares the credit with the janapada's reputation: no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground. The last kingdom to try sent a column here in [[lore-hghlndwar|the Highland War]], about 415, and it turned back at the sight of the walls.
 
 The fort's value to the janapada is not only military. It is where the sabhā sits, where the students are examined and where the temple keeps the granary that carries the villages through a bad year.
 

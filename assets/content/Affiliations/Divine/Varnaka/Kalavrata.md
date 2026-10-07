@@ -70,7 +70,7 @@ The **Mārgapālas** are the guiding spirits who lead souls along the paths of t
 
 ### What the Devout Do
 
-At the onset of a final illness the household lamp is lit and tended until the passage is complete, and nobody in the house speaks loudly or quarrels while it burns. The Coin of Passage goes into the dead person's hand before cremation, and no part of the rites that follow may be hurried.
+At the onset of a final illness the household lamp is lit and tended until the passage is complete, and nobody in the house speaks loudly or quarrels while it burns. The Coin of Passage goes into the dead person's hand before cremation, and no part of the rites that follow may be hurried. Ground where thousands died with no lamp, no conch and no pyre is a _shorukshetra_ ([[lore-bloodfield|blood-field]]), and the temples hold its dead to be the god's affair and nobody else's.
 
 ### Ordeals for Favor
 

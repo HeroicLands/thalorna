@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 **Vyālendra**, "the City of Ten Thousand Looms," is governed by its weavers. It keeps no king and no fleet, and for generations it has been the textile capital of southern [[place-vedyarargn|Vedyara]]: its silk and cotton cloth carries patterns and dyes made nowhere else, the result of centuries of refinement and techniques passed from master weavers to their apprentices and to nobody else. Vyālendri cloth has dressed the courts of emperors and the robes of high priests, and no rival city matches its output or its artistry. The city-state holds [[place-vyalendraland|Vyālendra Land]], the cotton and indigo valleys of the **Nilacharī**, and [[place-vyalendra3|Vyālendra]] is its seat.
 
-A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is."
+A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is." It is older than [[lore-vylndrcrwn|the kings]] too, whose hall the Council sits in.
 
 ## The Guilds
 

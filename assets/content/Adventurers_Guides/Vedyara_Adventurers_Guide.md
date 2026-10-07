@@ -73,7 +73,7 @@ You can cross Vedyara by riverboat with pilgrims, climb toward a pass shrine wit
 
 ## Household, Station, and Everyday Life
 
-Vedyara is overwhelmingly human. At an introduction, a Vedyari usually gives a village, then a **kula**, or lineage, before naming a trade. The household holds land or use-rights, answers at the assembly, pays its temple share, and carries obligations across generations. A person's **tharana**, or inherited station, shapes rights to land, arms, temple space, and a voice in public affairs. Two marks on the inside of the wrist identify station and lineage. At a temple gate or an assembly, someone may read those marks before hearing a name. The [[lore-vedyariclt|Vedyari culture]] note explains the stations and what that encounter can mean.
+Vedyara is overwhelmingly human. At an introduction, a Vedyari usually gives a village, then a kula, or lineage, before naming a trade. The household holds land or use-rights, answers at the assembly, pays its temple share, and carries obligations across generations. A person's tharana, or inherited station, shapes rights to land, arms, temple space, and a voice in public affairs. Two marks on the inside of the wrist identify station and lineage. At a temple gate or an assembly, someone may read those marks before hearing a name. The [[lore-vedyariclt|Vedyari culture]] note explains the stations and what that encounter can mean.
 
 The order is strict, and it is not experienced everywhere in the same way. An outcaste can be barred from a village well or court yet travel where nobody asks to see a wrist mark. A merchant ship, a mountain road, and a city offer different room to conceal or contest a station. A bonded servant's debt can be paid; an ascetic can leave an office; reformers argue within the system. These openings matter because the household and its obligations remain the ordinary frame of life for most people.
 
@@ -89,7 +89,7 @@ Vedyari share a pantheon, but its schools give a traveler different doors to kno
 
 ## Ritual and Arcane Traditions
 
-Powerful ritual work belongs chiefly to ordained schools, or **sampradāyas**, rather than to an unlicensed individual claiming a god's name. The Council of the Triyāchāryas within the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] licenses public working. Other traditions have narrower roles: the [[affiliation-ganakashala|Ganaka-shala]] computes calendars, tides, and assays; [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] serve dangerous crossings; [[affiliation-thresholdkeepers|Threshold-keepers]] may put one question to a newly dead person before the funeral pyre, under a restricted warrant. Folk magic and herbal practice remain part of ordinary life. Meditation, mantra, calculation, and rite all have a place, but they are not interchangeable practices. The foreign [[affiliation-ordoarcanis|Ordo Arcanis]] has only a licensed factor below Chandrapur; its scholars and Vedyari practitioners approach one another cautiously.
+Powerful ritual work belongs chiefly to ordained schools, or sampradāyas, rather than to an unlicensed individual claiming a god's name. The Council of the Triyāchāryas within the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] licenses public working. Other traditions have narrower roles: the [[affiliation-ganakashala|Ganaka-shala]] computes calendars, tides, and assays; [[affiliation-passshrineushtakas|Pass-Shrine Ushtakas]] serve dangerous crossings; [[affiliation-thresholdkeepers|Threshold-keepers]] may put one question to a newly dead person before the funeral pyre, under a restricted warrant. Folk magic and herbal practice remain part of ordinary life. Meditation, mantra, calculation, and rite all have a place, but they are not interchangeable practices. The foreign [[affiliation-ordoarcanis|Ordo Arcanis]] has only a licensed factor below Chandrapur; its scholars and Vedyari practitioners approach one another cautiously.
 
 :::secret
 **For the GM:** The public year is sighted by priests and computed by the Ganaka-shala. Their answers can differ by a day, moving a festival, a coronation, or a gold weighing. A court's choice of calendar can therefore become a choice of authority. The [[affiliation-chayavrata|Chāya-vrata]] dream-line offers another fault line: its work is condemned, but the bodies that could pursue it do not agree on doing so.
@@ -111,6 +111,19 @@ WHERE type = 'being'
 ORDER BY name.full COLLATE NOCASE
 ```
 
+## Old Ground
+
+Vedyara is old, and some of its oldest ground is dangerous. Three of its battlefields are _shorukshetras_ (blood-fields), where the dead were never burned and the way behind them never closed; locals keep off them after dark, and the [[lore-bloodfield|Blood-fields]] note explains why. Each of these places has a question waiting in it:
+
+- [[place-oluratarna|Olūratarana]], a ford of the upper Mahānadī where no flame stays lit on the west bank. Will the Agnī-panthā's fire still catch on the east bank when the priests come in their twelfth year?
+- [[place-gajasthali|Gajasthalī]], the elephant ground below the plateau, where drums sound at dusk in the first storms. Who will pay to dig there by night?
+- [[place-lanthusthli|Lanthusthalī]], the banner ground on the march road, a cursed field whose road is chained at sunset. What lies past the whitewashed stones, and who drove a caravan onto them?
+- [[place-ludrapur|Lūdrapur]], the burned capital of the march kingdom the steppe destroyed. Where did its treasury go?
+- [[place-thirnuhall|The Silenced Hall of Thirnugrāma]], bricked up with a sabhā's ashes inside. Who rang the bell?
+- [[place-madhavendra|Madhusthāna]], the empty capital the count of years is named for. Why did it empty, when nothing sacked it?
+
+The eras of Vedyari history, from the [[lore-unnumbrdage|Unnumbered Age]] to the [[lore-agepatrons|Age of Patrons]], explain how each of these places came to be.
+
 ## Beginning an Adventure
 
 A party can arrive by ship, over the northern passes, or by the dry road from Dunhara. One character might be a temple student carrying a disputed calendar, another a guide owed payment by a caravan, and another a weaver sent to find out why a shipment never reached port. A local character might belong to a farming household, a merchant house, a craft guild, or an ascetic's following. Each tie offers help and asks something in return.
@@ -118,3 +131,43 @@ A party can arrive by ship, over the northern passes, or by the dry road from Du
 Start with a place and a claim on the party: a household wants its water restored; a patron needs a road kept open; a pilgrim cannot find the person meant to meet them. At the first temple, market, or toll post, ask three questions: **Who holds this place? Which household or institution speaks for you? Which road or rite brought you here?** The answers give the party allies, obligations, and somewhere to go next.
 
 Choose the road that catches your interest and begin there. The [[place-vedyarargn|region]] and [[lore-vedyariclt|culture]] notes take you farther into the land and its people; the [[affiliation-janpdsvdyr|janapadas]], [[affiliation-mrchntclctvvdyr|merchant houses]], [[affiliation-varakpnthn|pantheon]], and [[lore-vdyrnbnkng|banking]] notes are ready when the party meets them.
+
+## Glossary
+
+These are the Vedyari words a traveler meets every day. They are written plain in these pages, the way a Vedyari says them.
+
+| Word          | Meaning                                                                           |
+| ------------- | --------------------------------------------------------------------------------- |
+| Āchārya       | a master who teaches a school                                                     |
+| candra        | the silver coin of ordinary formal commerce                                       |
+| Darshaka      | a seer; a dream-reader of the Svapnasāri-samāja                                   |
+| devabhoga     | an estate given to a god in perpetuity, the god's portion                         |
+| Dhanāja       | the station of merchants, herd-owners and landholders                             |
+| Ganaka        | a reckoner of calendars, tides and assays                                         |
+| janapada      | a temple-republic: a cluster of villages that governs itself through its temple   |
+| Jvālita       | a Kindled One, an ordinary priest of the Agnī-panthā                              |
+| Karmāja       | the station of those who work the land and the crafts                             |
+| Koshādhyaksha | the treasurer of a crown or a temple                                              |
+| kula          | a lineage, marked on the wrist beside the station                                 |
+| Kulina        | the head of a great house; in Chandrapur, one of the Nine                         |
+| Kūpapāla      | the keeper of a well on the plateau                                               |
+| Mahā-Sangha   | the confederation of the janapadas                                                |
+| Mahārāja      | a great king                                                                      |
+| Mantrin       | a minister of a crown                                                             |
+| Mela          | the great assembly of the janapadas at Sangama, for worship and business together |
+| Purohita      | the priest who performs the rites a king's legitimacy rests on                    |
+| Rājñī         | the chief queen, with her own revenues and household                              |
+| Ritūja        | the priestly station, which bears arms for the temple and never for pay           |
+| sabhā         | the assembly of a janapada, meeting in its temple hall                            |
+| Sabhāpati     | the priest who convenes and presides over a sabhā or the Mela                     |
+| sampradāya    | a school of the faith                                                             |
+| Sāmanta       | a lord who holds land and a fort of a king                                        |
+| Senāja        | the warrior station, which bears arms by right and owes service in the host       |
+| Senāpati      | the commander of a host                                                           |
+| suvarna       | the gold coin, struck in Chandrapur from Suvarnagiri gold                         |
+| tāmra         | the copper coin every court strikes                                               |
+| tharana       | a person's inherited station, marked on the wrist at birth                        |
+| Triyāchārya   | a master of the three; a senior priest of the orthodox school                     |
+| ushtaka       | a priest of the Varnaka who keeps a pass-shrine or sits in a priestly court       |
+| vrata         | a vow                                                                             |
+| Yuvarāja      | the heir to a crown                                                               |

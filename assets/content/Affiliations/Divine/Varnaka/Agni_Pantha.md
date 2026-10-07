@@ -79,11 +79,11 @@ sohl:
 
 The Agnī-panthā is an ascetic, reformist sect centered on [[affiliation-rasikara|Rāsikara]]'s purging fire. Its priests hold that a city, a household or a soul in decline wants the discipline of the flame. They hold that the orthodox tradition, which keeps Rāsikara in balance with the other forms, is too comfortable to confront the lesser sins of Vedyaran civic life. Their hosts call them uncomfortable guests and indispensable ones.
 
-The sect has raised several celebrated reforms and has broken with the orthodox hierarchy at least three times. Its priests have been praised as saints, banned from city limits, and put up in statuary by the councils that banned them. The Agnī-panthā takes the uneven reception as proof that it is needed.
+The sect has raised several celebrated reforms and has broken with the orthodox hierarchy at least three times. Its priests have been praised as saints, banned from city limits, and put up in statuary by the councils that banned them. The Agnī-panthā takes the uneven reception as proof that it is needed. The sect counts [[lore-agnipartng|three partings]].
 
 ### Sending for a Flame-Priest
 
-A community or a householder calls one when some trouble has settled in: a feud, a sickness of spirit, a corruption in the civic body. Flame-priests own little. Each carries the clay vessel holding a living ember brought forward from the sect's founding fire, and the vessel is the one thing a Flame-priest will not give up. They travel continually and go where they are invited.
+A community or a householder calls one when some trouble has settled in: a feud, a sickness of spirit, a corruption in the civic body. Flame-priests own little. Each carries the clay vessel holding a living ember brought forward from the sect's founding fire, and the vessel is the one thing a Flame-priest will not give up. They travel continually and go where they are invited. That fire was kindled about 290 BF on [[place-oluratarna|Olūratarana]], the unburned ford of the upper Mahānadī, by the ascetic the sect calls its founder ([[lore-kindlford|the Kindling at the Ford]]), and the sect's burning of a [[lore-bloodfield|blood-field]] is his season repeated.
 
 The rite they come for is the **Purgation**, and you should know what it asks before you send. It begins with a fast. You confess formally before the ember-vessel, and the priest burns an object that stands for what you mean to release. It may last hours or days, depending on what is being released, and it can be done for one person, a household or a whole community.
 
@@ -105,7 +105,7 @@ A **Dahana-Mūla** ("Root of the Burning") is the senior priest of a regional ch
 
 ### Festivals
 
-The **Night of the Kindled Road** falls at the autumn equinox. Priests gather at a rendezvous site, light their ember-vessels into a common fire, renew their vows and carry new embers out along the year's routes. The **Mendicant's Welcome** is a local festival in communities that host a Flame-priest on his route: the priest is given a feast in exchange for a blessing of the community hearth.
+The **Night of the Kindled Road** falls at the autumn equinox. Priests gather at a rendezvous site, light their ember-vessels into a common fire, renew their vows and carry new embers out along the year's routes. The **Mendicant's Welcome** is a local festival in communities that host a Flame-priest on his route: the priest is given a feast in exchange for a blessing of the community hearth. In every twelfth year the rendezvous is the east bank of Olūratarana.
 
 ### Ordeals for Favor
 

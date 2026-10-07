@@ -103,7 +103,7 @@ Those ten days settle the next twelve years, in open consultation between delega
 - trade conventions and the reaffirmation of the great pilgrimage routes;
 - boundary disputes that have outgrown settlement between the two parties;
 - the public denunciation of a janapada judged to have behaved shamefully;
-- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Mela.
+- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Mela. The mourning remembered longest is **Thirnugrāma**'s, burned in its own hall by the conch-door adventurer ([[lore-silenthall|the Silenced Hall]]).
 
 The Mela keeps only the offices the gathering itself needs, and none of them holds anything between gatherings. The **Sabhāpati of the Mela**, the senior priest of [[place-sangama|Sangama]], the temple on the ground, convenes the assembly and puts its business. Decisions come from consensus among the senior priests, reached in the open. A janapada that ignores the consensus meets its peers' disapproval and a slow withdrawal of cooperation, and the sanction has teeth: most janapadas live on inter-janapada trade and water-sharing arrangements that can be quietly degraded once the Sangha turns against them.
 

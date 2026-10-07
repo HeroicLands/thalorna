@@ -100,7 +100,7 @@ Two things, and no third.
 
 ### What It Is Forbidden For
 
-**War.** A dead scout is not asked where the army is. Every polity that issues warrants has written this one down, and the warrants say so on their face.
+**War.** A dead scout is not asked where the army is. Every polity that issues warrants has written this one down, and the warrants say so on their face. Nothing on a _shorukshetra_ ([[lore-bloodfield|blood-field]]) is asked of its dead, which is why the courts cannot learn from such a field what happened on it.
 
 **Trade.** A dead factor is not asked where the money went, a dead master is not asked what the cargo was worth, and a dead partner is not asked what the terms were. The prohibition is the older of the two and is the one that gets tested.
 

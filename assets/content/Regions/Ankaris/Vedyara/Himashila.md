@@ -34,7 +34,7 @@ The [[affiliation-trimurtisampradaya|Triyanga]] priests hold it the god's footst
 
 Two winters ago the spring iced over, and stayed iced for nine days, which had never happened in the temple's record. Then it ran again.
 
-The slab was unchanged throughout—gray, warm, giving—and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry.
+The slab was unchanged throughout—gray, warm, giving—and is unchanged now. There is nothing to show and nothing to point at, and the temple has entered nothing in the record, on the ground that nine days of weather is not an entry. The reckoners of the Ganaka-shala want it entered ([[lore-nineice|the Nine Days of Ice]]).
 
 ## See Also
 
