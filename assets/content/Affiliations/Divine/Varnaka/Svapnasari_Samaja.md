@@ -110,7 +110,7 @@ The **Night of Silver** falls at the full moon nearest the autumn equinox, when 
 
 ### Orders
 
-The **Order of the Crescent** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **Council of the Dream** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned the [[affiliation-chayavrata|Chaya-vrata]], the dream-line that turned the Host's reach on people who never asked for it.
+The **Order of the Crescent** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **Council of the Dream** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned the [[affiliation-chayavrata|Chaya-vrata]], the dream-line that turned the Host's reach on people who never asked for it. It condemned the dream-line that works on the waking about 470 AF and holds that condemnation open ([[lore-chayacondm|the Condemnation of the Chaya-vrata]]).
 
 ### Geographic Presence
 

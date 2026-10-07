@@ -152,7 +152,7 @@ The **Weighing** is Suvarnagiri's own rite. At each new moon, at the weighing-st
 
 The gold makes Suvarnagiri a better target than most janapadas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its **Senāja** households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
 
-The help is the more important defense. Two neighboring kingdoms stand as Suvarnagiri's formal patrons, and several nearby janapadas help it by informal arrangement. The small mountain kingdom of [[affiliation-bharyastan|Bharyastān]] is bound by standing treaty to send military assistance in exchange for an annual gold tribute. Suvarnagiri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries.
+The help is the more important defense. Two neighboring kingdoms stand as Suvarnagiri's formal patrons, and several nearby janapadas help it by informal arrangement. The small mountain kingdom of [[affiliation-bharyastan|Bharyastān]] is bound by standing treaty to send military assistance in exchange for an annual gold tribute. Suvarnagiri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries. The last raid and the treaty that followed it are [[lore-lastgldrd|the Last Gold Raid]], and the last serious attack is [[lore-hghlndwar|the Highland War]].
 
 ## Outside the Compact
 

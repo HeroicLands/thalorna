@@ -1,6 +1,6 @@
 ---
 shortcode: bloodfields
-name: {full: The Blood-fields of Provènzia, aliases: [Blood-fields, Blood-field]}
+name: {full: The Blood-fields of Provènzia, aliases: []}
 type: lore
 subType: history
 description: "Provènzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
@@ -41,7 +41,9 @@ The distinction matters in every practical respect:
 | Who keeps it | The Áelendan Wardens and long custom   | Nobody. That is much of the problem     |
 
 Blood-fields have no equivalent of the [[affiliation-alndnwrdns|Áelendan Wardens]], who keep the
-arálwain of Élavendre; nobody has ever been made responsible for a blood-field.
+arálwain of Élavendre; nobody has ever been made responsible for a blood-field. What every people
+agrees a blood-field is, how thin one runs and what crosses it, are set out in
+[[lore-bloodfield|Blood-fields]].
 
 An arálwen is a feature of the world. A blood-field is an injury to it, and injuries do not
 necessarily heal.
@@ -49,12 +51,12 @@ necessarily heal.
 ## The Resonances
 
 What a blood-field _does_ varies, and Provenzians classify them by it as readily as a farmer
-classifies soil. Most are not dangerous. A few are ruinous.
+classifies soil. Most do no harm by day and a great deal of it after dark. A few are ruinous.
 
 - **Recurrence**—the commonest by far. The battle repeats: sounds carried on a certain wind, lights
   along a treeline, ranks of figures seen at distance and never close to. Recurrent fields are
-  frightening and almost entirely harmless, and the villages beside them treat the anniversary as a
-  night to stay indoors rather than as a crisis.
+  harmless by day and terrible by night, and the villages beside them keep indoors after dark and
+  treat the anniversary as the night nobody goes out at all.
 - **The Quickening**—the ground grows too well. Grass comes early, crops come heavy, and the fruit is
   larger than it has any business being. Quickened fields are farmed, because they are the best land
   in the district, and the farming of them is a subject nobody raises at table.
@@ -109,5 +111,6 @@ not need a name to be a blood-field.
 
 ## See Also
 
+- [[lore-bloodfield|Blood-fields]]—what every people agrees a blood-field is, and the register of fields
 - [[place-provenzrgn|Provènzia Region]] · [[lore-aralwen|Arálwen]]
 - [[affiliation-thanatos|Faith of Sélmoros]] · [[affiliation-blackflame|The Black Flame]]

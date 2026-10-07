@@ -110,3 +110,5 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 - [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year Vedyara keeps
 - [[lore-stndrdmdhv|The Standardization at Madhusthāna]]—the reign the count begins from
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|The Conch-Door Incursion]] and [[lore-thirdcmpct|The Third Compact]]—the crisis generation of four centuries ago
+- [[lore-unnumbrdage|The Unnumbered Age]], [[lore-foundingage|The Founding Age]], [[lore-agekingdoms|The Age of Kingdoms]], [[lore-agecopyists|The Age of Copyists]], [[lore-hundredcrwn|The Hundred Crowns]], [[lore-hardgenrtn|The Hard Generation]], [[lore-compactpeace|The Compact Peace]] and [[lore-agepatrons|The Age of Patrons]]—the eras of Vedyari history
+- [[lore-bloodfield|Blood-fields]]—the _shorukshetras_ of Olūratarana, Gajasthalī and Lanthusthalī, and what they are

@@ -81,7 +81,7 @@ It is one of the hundred small kingdoms of [[place-vedyarargn|Vedyara]] in the e
 
 ## The Gold Treaty
 
-Bharyastān is bound by standing treaty to send military assistance to Suvarnagiri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side.
+Bharyastān is bound by standing treaty to send military assistance to Suvarnagiri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side. Its first king, **Dhūrsavīra**, swore it after riding down the raiders of [[lore-lastgldrd|the last gold raid]].
 
 The arrangement suits both. Suvarnagiri keeps three hundred guards of its own and would rather not keep three thousand. Bharyastān keeps four hundred horse it could not otherwise afford, in a district that grows barley and walnuts and exports neither in quantity. The tribute is weighed at the janapada's own station and carried up in one party each spring, under an escort both parties provide and neither commands.
 
@@ -91,7 +91,7 @@ The gold reaches nobody else on the way. It leaves the **Gold Constitution**'s r
 
 The Mahārāja rules with a martial council of the eight valley **Sāmantas** and a small priestly court drawn from the temples of the upper valleys. The Sāmantas are the kingdom's real weight. Several of them hold estates down on the plain below the janapada's wedge of upland, outside Suvarnagiri's territory and outside its constitution. A Sāmanta with land in both countries is the man both courts send for when something needs settling quietly.
 
-Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time.
+Succession is hereditary and is confirmed by the council, as it is in the larger kingdoms. The kingdom has changed hands by acclamation twice in four hundred years and by inheritance every other time. One of the two followed [[lore-hghlndwar|the Highland War]], when the council passed over an heir who had not ridden to Sharamukha.
 
 ## Relations
 

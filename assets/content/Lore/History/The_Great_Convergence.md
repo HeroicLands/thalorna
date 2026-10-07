@@ -10,7 +10,7 @@ data:
   events:
     - when: -6239
       derived: 6,958 years ago
-      stated: {calendar: celestial, text: the zero of the Celestial Calendar}
+      stated: {calendar: clndrstrlgy, text: the zero of the Celestial Calendar}
       precision: year
       kind: founding
       depth: world

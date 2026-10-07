@@ -48,6 +48,10 @@ data:
             how: >-
               the passes the kingdom holds are never tried, and its claim that no horde has ever forced a Grazian pass rests on this
             knowledge: named
+          - place: place-lanthusthli
+            how: >-
+              in the spring the march kingdom of Marupāla meets the host where the Western Descent opens onto the march road and dies there with its last king; nobody is left to burn the dead, and the field is the thinnest shorukshetra in Vedyara
+            knowledge: named
       accounts:
         - by: place-khzryndsrtrgn
           says: >-
@@ -80,6 +84,7 @@ The storm opened a hard generation for Vedyara. While the kingdoms were looking 
 
 - [[place-wstrndscnt|The Western Descent]] · [[place-marchroad|The march road]]—the way the host came
 - [[affiliation-bhumipala|Bhūmipāla]]—the march kingdom whose forts were built after it
+- [[lore-marupalafl|The Fall of Marupāla]] · [[place-lanthusthli|Lanthusthalī]]—the march kingdom that died under it, and the field it left
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe it came from
 - [[affiliation-sultntmrdd|Sultanate of Amradad]]—the walls it reached
 - [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the rest of the crisis generation

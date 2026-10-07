@@ -14,7 +14,7 @@ data:
   government: varakpnthn
 ---
 
-**Mahāprabhava** is where the [[place-mahanadi|Mahānadī]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make.
+**Mahāprabhava** is where the [[place-mahanadi|Mahānadī]] leaves the ice, in a broad cirque at the head of the central valleys where [[place-sthrnwall|the Southern Wall]] stands back a little from the plain. The road to it is a road and not a track. A fit person walks up from the last town in six days, and this is accordingly the source-pilgrimage the ordinary devout make. Above the last fields it passes [[place-puranasthana|Purānasthāna]], the terraced hill the upper river calls the old seat of its first kings.
 
 In a good year a quarter of a million people come up. The valley below the cirque holds a seasonal town of tents, kitchens, water-sellers, barbers, clerks, thieves and physicians that exists for eleven weeks and is gone by the twelfth, and the janapadas whose land it stands on have a standing arrangement about the rubbish which is the longest-running piece of inter-janapada administration anybody can name.
 

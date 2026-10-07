@@ -119,7 +119,7 @@ Vedyara is a subcontinent, and the Ādānashrenī is dominant without being sole
 
 - **The port syndicates.** The coastal city-states support outward-facing organizations that deal in what the charters do not cover: trafficking, contraband, and business with the [[affiliation-graytide|Gray Tide]], the [[affiliation-theashroad|Ash Road]] and the shippers of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The guild regards them as unchartered and beneath contempt, and does business with them constantly.
 - **Local gangs.** As everywhere in Thalorna, every town has its own petty operators, who subcontract to the guild and are the first casualties of any dispute.
-- **The Chinnasūtra.** A schism, perhaps two generations old, of craft-lines that rejected the taboos, chiefly the prohibition on killing, and were cut off. They are the only rivals the guild treats as an existential matter, because crowns and councils read a Chinnasūtra killing during a taking as a guild killing, and charters have been suspended over it. The guild pays outsiders very well to deal with them, precisely because it cannot be seen to.
+- **The Chinnasūtra.** A schism, perhaps two generations old, of craft-lines that rejected the taboos, chiefly the prohibition on killing, and were cut off. They are the only rivals the guild treats as an existential matter, because crowns and councils read a Chinnasūtra killing during a taking as a guild killing, and charters have been suspended over it. The guild pays outsiders very well to deal with them, precisely because it cannot be seen to. The cutting is [[lore-cutthread|the Cut Thread]], about 660 AF.
 - The hill and forest raiders stand outside any charter, any polity and any conversation.
 
 ## Adventure Hooks

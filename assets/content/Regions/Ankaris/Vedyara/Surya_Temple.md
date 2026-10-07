@@ -34,7 +34,7 @@ Nobody's station is read at the gate here. The wrist is not asked for on the she
 
 [[place-himashila|Himashilā]] lies at the head of the outflow, a few paces from the forecourt wall. The temple washes it at the turn of every season, holds it to be the god's footstool, and does not say whose footstool in so many words. Nothing the temple has ever done to it has altered it in any way.
 
-The spring beneath the slab had never frozen in the temple's record until two winters ago, which is why there is a temple here rather than at one of the other three sources, and why [[place-suryadvara|Sūryadvāra]] below has drinkable water in months when the other passes have none.
+The spring beneath the slab had never frozen in the temple's record until two winters ago, which is why there is a temple here rather than at one of the other three sources, and why [[place-suryadvara|Sūryadvāra]] below has drinkable water in months when the other passes have none. The temple has not entered the [[lore-nineice|nine days of ice]] in its record.
 
 ## The Second Seat
 
