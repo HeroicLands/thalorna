@@ -23,9 +23,9 @@ Two words of the text need glossing. The _marg_ (bone) of a name is its three co
 
 _From the record of Basrakhunák, as the holds copy it._
 
-In the fourth year of the hold's ninth sixty the snow lay on the gate-road from the first day of the cold to the forty-first day of the thaw. Of the herd of the gate, two sixties of head driven up in the autumn, nine stood at the thaw. Of the tribe at the gate, three sixties and twenty-six at the autumn count; two sixties and fifty-eight at the thaw. The hold's share from the gate was short by a third at the autumn count, and the elders opened the caches to the houses by need, and none to the gate.
+In the year of the hold 484 the snow lay on the gate-road from the first day of the cold to the forty-first day of the thaw. Of the herd of the gate, 120 head driven up in the autumn, nine stood at the thaw. Of the tribe at the gate, 206 at the autumn count; 178 at the thaw. The hold's share from the gate was short by a third at the autumn count, and the elders opened the caches to the houses by need, and none to the gate.
 
-Gisvin of Tanvaguráz, keeper of the gate, sworn below in the third year of the hold's eighth sixty that nothing of the hold's goes out by the gate but by the elders' word, went down to the caches on the thirty-second night of the cold, on the fortieth and on the fifty-first, and carried out by the gate: barley, twelve sacks by the gate-measure; dried meat, four; salt, one; oil, two jars. **Dhonko** of Famgadurákh, keeper of the caches, saw him on the third night and entered it. He was called down. He was asked. He said: I opened it. He said nothing else.
+Gisvin of Tanvaguráz, keeper of the gate, sworn below in the year of the hold 423 that nothing of the hold's goes out by the gate but by the elders' word, went down to the caches on the thirty-second night of the cold, on the fortieth and on the fifty-first, and carried out by the gate: barley, twelve sacks by the gate-measure; dried meat, four; salt, one; oil, two jars. **Dhonko** of Famgadurákh, keeper of the caches, saw him on the third night and entered it. He was called down. He was asked. He said: I opened it. He said nothing else.
 
 The council sat in the deep hall on the fifty-fourth day. The oath was read from the stone where it was cut; the record was read; the record stood. An oath sworn below is broken: he does not go down again. The hold's stores were carried out of the hold: he is put out of the hold, with no house and no place in the refuge. His tools to Tanvaguráz. Both were cut under the oath. He went out by the gate on the fifty-fifth day, in snow. The caches were made good by the houses before the thaw.
 
@@ -43,7 +43,7 @@ Somebody draws them, at the hour I drew them,
 
 The lamp in the gate is lit.
   I did not light it.
-Sixty years and one I lit it, every evening,
+Sixty-one years I lit it, every evening,
   oil from the jar on the second shelf,
 the wick trimmed, the shutter half across
   so the face shows nothing.
@@ -74,7 +74,7 @@ the third cut was the one that made it,
   and it is walked.
 One groove for the bar to run in, the year of the quake,
   when the old groove sheared.
-That is all the stone I cut in sixty years and one.
+That is all the stone I cut in sixty-one years.
   It is enough.
 No prop in it. No scar on the face.
   Nothing carried away.
@@ -184,10 +184,10 @@ The snow came on the first day of the cold and lay
   to the forty-first of the thaw.
 The hold's share from the gate was short by a third.
   I had tallied it. It was short.
-Two sixties of head were driven up in the autumn.
+A hundred and twenty head were driven up in the autumn.
   Nine stood at the thaw.
-Three sixties and twenty-six at the autumn count.
-  Two sixties and fifty-eight at the thaw.
+Two hundred and six at the autumn count.
+  A hundred and seventy-eight at the thaw.
 The record is right. It is always right.
   I kept the gate-tally myself.
 Twenty-eight.
@@ -340,9 +340,9 @@ They sound the same in frost.
 
 The holds that read the song to workers stop, in most of them, before the course in which he says the words over himself, and the workers hear the rest after they have sworn or not at all. Every copy then closes with an entry from the record of Basrakhunák, and the entry is kept in two forms.
 
-_The first._ In the twelfth sixty of the hold, **Verne** of Thalgahunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She cut the third letter again, on the seam's side, and scored the binding _i_. The mending is entered to her name. The cut it mends is entered to no name.
+_The first._ In the third great count of the hold, **Verne** of Thalgahunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She cut the third letter again, on the seam's side, and scored the binding _i_. The mending is entered to her name. The cut it mends is entered to no name.
 
-_The second._ In the twelfth sixty of the hold, Verne of Thalgahunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She left it as she found it. Entered: found. The cave was not taken.
+_The second._ In the third great count of the hold, Verne of Thalgahunáth, apprenticed to the finders, reading the east face of the valley above the gate's fields for a watch-post, found a cave, dry, facing east, with a name cut in it in the gate-row: the bone g-s-v, cut in a straight row across a seam, split at the third letter where the row crossed it, and no binding. She left it as she found it. Entered: found. The cave was not taken.
 
 ## See Also
 
