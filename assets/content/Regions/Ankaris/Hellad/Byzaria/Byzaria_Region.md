@@ -25,17 +25,17 @@ The region shares its language family, its pantheon and its alphabet with [[plac
 
 Byzaría rises in three steps from the sea.
 
-The _coast_, along the northern shore of the Vylarian Sea, is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its islands and straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
+The coast, along the northern shore of the Vylarian Sea, is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its islands and straits make natural fortresses: [[affiliation-denizara|Denizara]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrysamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
 
-The _plateau_ behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds of sheep, goats and horses move between seasonal pastures and the villages grow hardy grain in the valley bottoms. The coastal hills climb to it in a series of escarpments, and [[affiliation-altinkale|Altinkale]], the League's capital, sits at the seam where the lowland road from Denizara reaches the plateau's edge. In the lusher valleys of the plateau's eastern hills lies [[affiliation-yesilhan|Yeşilhan]], the caravan city where the roads east and south divide. On the arid highland inland from Denizara sprawls [[place-nekropolis|Nékropolis]], the city of the dead, where every great house of the League keeps its tombs.
+The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds of sheep, goats and horses move between seasonal pastures and the villages grow hardy grain in the valley bottoms. The coastal hills climb to it in a series of escarpments, and [[affiliation-altinkale|Altinkale]], the League's capital, sits at the seam where the lowland road from Denizara reaches the plateau's edge. In the lusher valleys of the plateau's eastern hills lies [[affiliation-yesilhan|Yeşilhan]], the caravan city where the roads east and south divide. On the arid highland inland from Denizara sprawls [[place-nekropolis|Nékropolis]], the city of the dead, where every great house of the League keeps its tombs.
 
-The _mountains_ close the region to the east and north. In the mountainous interior, [[affiliation-karatas|Karataş]] quarries its black basalt and mines the iron and copper that make it the League's forge. Further east the ranges rise higher and drier, and the principal pass through them is held by [[affiliation-gumushisar|Gümüşhisar]], the Silver Citadel, whose mines in the surrounding peaks pay for the League's defense. Beyond Gümüşhisar the land falls away into the steppe and stone of the Khazryn. To the north the plateau climbs into rougher uplands that descend, on their far side, into the grain country of [[place-velanthrgn|Velanthia]].
+The mountains close the region to the east and north. In the mountainous interior, [[affiliation-karatas|Karataş]] quarries its black basalt and mines the iron and copper that make it the League's forge. Further east the ranges rise higher and drier, and the principal pass through them is held by [[affiliation-gumushisar|Gümüşhisar]], the Silver Citadel, whose mines in the surrounding peaks pay for the League's defense. Beyond Gümüşhisar the land falls away into the steppe and stone of the Khazryn. To the north the plateau climbs into rougher uplands that descend, on their far side, into the grain country of [[place-velanthrgn|Velanthia]].
 
 Between the great cities lie the lesser towns: [[place-byzaris|Byzaris]], the artisan city of the guilds; [[place-selimara|Selímara]], a market town on the inland roads; and dozens of villages, caravanserais and shrines that the maps of Altinkale's counting houses record only as tolls collected.
 
 ## The Marches
 
-The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a _march_—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Gümüşhisar.
+The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Gümüşhisar.
 
 - The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Gümüşhisar, facing the Khazryn steppe and the hinterland of [[affiliation-cnfdrtnhrdnstts|Harad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Yeşilhan, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
@@ -45,7 +45,7 @@ The marches exist because the cities distrust one another: a frontier held by G�
 
 ## Peoples and Culture
 
-Byzaría holds some _eight million_ people, nearly all of them citizens or subjects of one of the five cities:
+Byzaría holds some eight million people, nearly all of them citizens or subjects of one of the five cities:
 
 | City-state                             | People     |
 | -------------------------------------- | ---------- |
@@ -79,15 +79,15 @@ The region's own exports are the silver of Gümüşhisar, the iron, arms and met
 
 ## Relations with Neighboring Regions
 
-To the _west_ lies [[place-helionis|Heliónis]], cultural cousin and commercial rival. The two share roots and a coastline and have diverged in everything else; the relationship is close, prickly and profitable.
+To the west lies [[place-helionis|Heliónis]], cultural cousin and commercial rival. The two share roots and a coastline and have diverged in everything else; the relationship is close, prickly and profitable.
 
-To the _north_, across the uplands of the Northern March, lies [[place-velanthrgn|Velanthia]], whose grain feeds the coastal cities and whose **Hosts** patrol the far side of the frontier. Relations are steady and commercial. Beyond Velanthia, the [[place-nrdlndsrgn|Nordlands]] send merchants and mercenaries who are a familiar sight in Byzarian ports.
+To the north, across the uplands of the Northern March, lies [[place-velanthrgn|Velanthia]], whose grain feeds the coastal cities and whose **Hosts** patrol the far side of the frontier. Relations are steady and commercial. Beyond Velanthia, the [[place-nrdlndsrgn|Nordlands]] send merchants and mercenaries who are a familiar sight in Byzarian ports.
 
-To the _east_, beyond Gümüşhisar's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe confederations that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
+To the east, beyond Gümüşhisar's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe confederations that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
 
-To the _south and east_, where the coast bends toward the eastern shore of the Vylarian Sea, lies [[affiliation-cnfdrtnhrdnstts|Harad]]—the League's great rival at sea and its nearest neighbor on land—and beyond Harad's hinterland the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March.
+To the south and east, where the coast bends toward the eastern shore of the Vylarian Sea, lies [[affiliation-cnfdrtnhrdnstts|Harad]]—the League's great rival at sea and its nearest neighbor on land—and beyond Harad's hinterland the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March.
 
-To the _south_, across the sea, lies the [[place-midhalnrgn|Mídhalión]] basin and the coasts of [[place-xerathia|Xerathia]], with which Denizara's captains have traded for a thousand years.
+To the south, across the sea, lies the [[place-midhalnrgn|Mídhalión]] basin and the coasts of [[place-xerathia|Xerathia]], with which Denizara's captains have traded for a thousand years.
 
 ## See Also
 

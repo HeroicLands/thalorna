@@ -61,7 +61,7 @@ The monopoly is an aspiration more than a fact. The guild is the most prestigiou
 
 ## Membership and Structure
 
-The guild has three grades, and the road through them takes a minimum of fifteen years. An _apprentice_ is admitted by examination, typically between twelve and sixteen years of age, and trained in geometry, drafting, surveying and the foundational pigments and inks. A _journeyman_ is qualified by an examined survey of an assigned territory and may take paid commissions under a master's seal. A _master_ is qualified by a vote of the sitting masters after a presented original work, and may seal commissions, take apprentices and sit on guild councils.
+The guild has three grades, and the road through them takes a minimum of fifteen years. An apprentice is admitted by examination, typically between twelve and sixteen years of age, and trained in geometry, drafting, surveying and the foundational pigments and inks. A journeyman is qualified by an examined survey of an assigned territory and may take paid commissions under a master's seal. A master is qualified by a vote of the sitting masters after a presented original work, and may seal commissions, take apprentices and sit on guild councils.
 
 At the apex sits the **Council of Masters**, presently nine seats, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities. Its chair, the Grand Cartographer, is presently **Olára Mareniês**, an elderly woman whose late husband was a consul and whose own work is mostly administrative now. She is widely respected, modestly capable and politically isolated, which is why the rot has run as deep as it has.
 
