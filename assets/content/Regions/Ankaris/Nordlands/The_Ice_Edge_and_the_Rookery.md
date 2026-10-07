@@ -18,7 +18,7 @@ The danger is the ice itself. A floe that breaks free carries its hunters out to
 
 ## The Rookery
 
-In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the Hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvön-_ for that reason.
+In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvön-_ for that reason.
 
 The rookery hunt is shorter and safer than the ice, and it is where a boy is first taken. Taking seals on another holder's rookery without leave is theft, the same as driving off his sheep; seals taken out on the ice belong to whoever took them, because the ice is nobody's ground and never stays where it was.
 

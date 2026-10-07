@@ -8,7 +8,13 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [], population: null, packFolder: nordlands}
 ---
 
-Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. The exposed summit serves their weather-craft training and the receptive examination held during thunderstorms. The god’s Hofgodi keeps the hof’s rites and sea-blessings beside the order, whose craft answers to different vows. In [[being-skrldmylstrmbrn|Skrildmýl Stormborn]]’s saga, the mountain is where Thrúnvald is said to have struck the earth with [[lore-thrunhamarr|Thrúnhamarr]], and the hero leads his people there through winter storms that cease after his appeal at the summit.
+"There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the Nordheim run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.
+
+## One Summit, Two Callings
+
+The summit serves the Storm-Speakers' weather-craft training and the receptive examination held during thunderstorms. The god's Hofgodi keeps the hof's rites and sea-blessings beside the order, whose craft answers to different vows. The hof and the mother-hall share the height and keep separate promises.
+
+In the saga of [[being-skrldmylstrmbrn|Skrildmýl Stormborn]], the mountain is where Thrúnvald is said to have struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. The hero leads his people up it through winter storms, and the storms cease after his appeal at the summit.
 
 ## The Climb Through White Weather
 
@@ -237,3 +243,10 @@ the threatened coast remembers you.
 Come. Keep close through whiteness;
 carry the hands reaching backward.
 ```
+
+## See Also
+
+- [[affiliation-ordrstrmspkrs|The Order of the Storm-Speakers]]—the order whose mother-hall stands on the summit
+- [[lore-thrunvalddty|Thrúnvald]]—the god whose hof crowns it
+- [[lore-thrunhamarr|Thrúnhamarr]]—the hammer that struck the mountain
+- [[place-nordheim|Nordheim]]—the coast it stands on
