@@ -112,22 +112,22 @@ A _shorukshetra_ (blood-field) is ground where thousands died with no conch, no 
 
 **How the Vedyari live beside one.** A village near a _shorukshetra_ keeps indoors after dark and shuts its doors on the field's side. The roads bend round the fields, and a drover who must cross waters his beasts first and crosses at noon. The saying given to a traveler is the same in every district: "Cross where the sun can see you, and do not answer anything that calls." A thin field is a _ghūrakshetra_ (cursed field), and nobody near one says the word after sunset. The road round it is barred at dusk, its edge is marked with stones, and the march companies tell new men the names of those who went in and were found at the edge in the morning.
 
-Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janapada battle has ever made one.
+Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war: [[place-oluratarna|Olūratarana]], where a king forbade the pyre to a rebel host about 300 BF; [[place-gajasthali|Gajasthalī]], where two armies broke among their own elephants about 270 AF; and [[place-lanthusthli|Lanthusthalī]], where the march kingdom died under the steppe host in 315 AF, the one _ghūrakshetra_ among them. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janapada battle has ever made one.
 
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                | People whose ground it is | Battle                     | Made    | Kind       | Thin            |
-| ------------------------------------ | ------------------------- | -------------------------- | ------- | ---------- | --------------- |
-| **Olūratarana**                      | Vedyara                   | **The Unburned Ford**      | ~300 BF | silence    | moderate        |
-| **Gajasthalī**                       | Vedyara                   | **The Field of Elephants** | ~270 AF | recurrence | slight          |
-| **Lanthusthalī**                     | Vedyara                   | **The Fall of Marupāla**   | 315 AF  | dread      | thin            |
-| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids         | ~520 AF | withering  | thin, worked on |
-| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                          | —       | recurrence | —               |
-| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                          | —       | recurrence | —               |
-| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                          | —       | quickening | —               |
-| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                          | —       | silence    | —               |
+| Field                                | People whose ground it is | Battle                                        | Made    | Kind       | Thin            |
+| ------------------------------------ | ------------------------- | --------------------------------------------- | ------- | ---------- | --------------- |
+| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]        | ~300 BF | silence    | moderate        |
+| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]] | ~270 AF | recurrence | slight          |
+| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]     | 315 AF  | dread      | thin            |
+| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                            | ~520 AF | withering  | thin, worked on |
+| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                             | —       | recurrence | —               |
+| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                             | —       | recurrence | —               |
+| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                             | —       | quickening | —               |
+| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                             | —       | silence    | —               |
 
 ## See Also
 

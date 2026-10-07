@@ -12,6 +12,7 @@ data:
       precision: century
       kind: dissolution
       depth: region
+      era: lore-agecopyists
       sources:
         - place-vyalendra3
         - affiliation-vyalendra2

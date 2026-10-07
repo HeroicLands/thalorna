@@ -22,7 +22,10 @@ Say you are a headman from a village below the gate, come up for the three days.
 
 The village holds the head-gate itself, and has held it since before the dissolution. No sabhā has ever proposed moving the office somewhere more convenient.
 
+The gate-house is walled, and the wall is the one piece of fortification in the janapada. About 525 AF a kingdom up the river took the village and held the gate shut through a planting season, until [[affiliation-chandrapur|Chandrapur]]'s money and a hired company put it out, and the sabhā walled the gate-house the same year and signed the protection the janapada lives under ([[lore-rjprprotct|Rājapur Under Protection]]). The headmen of the three days still sit with their backs to that wall.
+
 ## See Also
 
 - [[place-rajapurjnpd|Rājapur Janapada]]—the land
 - [[affiliation-rajaprjnpd|Rājapur Janapada]]—the temple-republic that holds it
+- [[lore-rjprprotct|Rājapur Under Protection]]—the season the gate was lost

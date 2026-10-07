@@ -12,6 +12,7 @@ data:
       precision: year
       kind: treaty
       depth: region
+      era: lore-hardgenrtn
       sources:
         - affiliation-assmblycmpct
         - affiliation-mrchntclctvvdyr

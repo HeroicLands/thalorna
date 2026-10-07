@@ -12,6 +12,7 @@ data:
       precision: century
       kind: founding
       depth: region
+      era: lore-foundingage
       sources: [affiliation-suvrgrjnpd, place-goldmountain, place-bhrvdvsthna]
       summary: >-
         The villages of the Bhārava highlands raise three great temples of Mahājaya around the gold-bearing mountain, within a century of each other, and begin the constitution that keeps the gold from making any one priesthood or family rich. Half of the mountain's yield goes to the temples, and out of that share they keep the pilgrim hostels of the Bhārava road.
@@ -37,6 +38,7 @@ data:
       precision: century
       kind: founding
       depth: region
+      era: lore-foundingage
       sources: [affiliation-dhnrktjnpd, place-bowfort, place-highdraw]
       summary: >-
         The four archery academies are founded inside the bow-fort on the upper Sarvada, and from them Dhanurkota begins to staff the missile companies of every major Vedyari kingdom. The bow comes into the janapada's name after them.
@@ -60,6 +62,7 @@ data:
       precision: century
       kind: founding
       depth: region
+      era: lore-foundingage
       sources: [affiliation-bhrvdvbhog, place-bharavavana]
       summary: >-
         The first forest of the lower Bhārava is given to a temple in perpetuity, as the god's portion out of which it is fed. The gift is made again many times over the following centuries, and what accumulates is the Bhārava-Devabhoga, the one country in Vedyara where no assembly sits.

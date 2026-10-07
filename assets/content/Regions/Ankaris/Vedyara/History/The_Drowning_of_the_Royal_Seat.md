@@ -12,6 +12,7 @@ data:
       precision: century
       kind: catastrophe
       depth: region
+      era: lore-agecopyists
       sources: [place-drownedcptl, place-mahanadi, place-rajavalilib]
       summary: >-
         The Mahānadī changes its channel in the reach below Rājapur, by miles, and drowns a town that was a royal seat of the Kingdom of Mahānadī and has been governed by a sabhā since the dissolution. It is one of four moves of the river within written record, and the one everybody names.

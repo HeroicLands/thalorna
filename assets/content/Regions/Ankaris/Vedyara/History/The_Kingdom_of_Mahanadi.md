@@ -12,6 +12,7 @@ data:
       precision: century
       kind: founding
       depth: region
+      era: lore-foundingage
       sources: [lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
         The Mahānadī dynasty takes the upper Mahānadī and its fields, about a century and a half before the standardization at Madhusthāna. It traces itself to a heroic ancestor of legendary virtue.
@@ -37,6 +38,7 @@ data:
       precision: year
       kind: founding
       depth: region
+      era: lore-agekingdoms
       sources: [place-sandstonealtr, lore-rcitkngsmhnd, affiliation-rajaprjnpd]
       summary: >-
         The kings of Mahānadī make Rājapur their capital and cut the sandstone altar of Vyālendra in the temple beside the new palace. Every king who reigns from Rājapur is consecrated at that altar, the last included. The move falls in the year of the standardization at Madhusthāna, and the kingdom's chronicle counts its years from M 1.
@@ -57,6 +59,7 @@ data:
       precision: year
       kind: dissolution
       depth: region
+      era: lore-agekingdoms
       sources:
         - lore-fortydays
         - lore-rcitkngsmhnd
