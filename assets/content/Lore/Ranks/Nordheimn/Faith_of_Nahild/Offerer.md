@@ -7,11 +7,11 @@ description: "One who has turned to Náhild and brings her offering, holding non
 tags: []
 ---
 
-One who has turned to Náhild and brings her offering, holding none of the cult's observances, in the faith of Náhild.
+Every other faith of the Ten treats [[affiliation-nahild|Náhild]]'s worship as heresy, so turning to her is already an act. An offerer has turned and brings a hidden hof the offering it asks, and holds none of the cult's secret observances yet.
 
 ## What This Standing Is
 
-Her offerer is one who has turned to Náhild and brings the offering a hidden hof asks, without holding any of the secret observances known only to the cult's own initiates. Turning to her is itself an admission of a kind, in a worship every other faith of the Ten treats as heretical.
+Her offerer brings the offering a hidden hof asks, without holding any of the secret observances known only to the cult's own initiates. Turning to her is itself an admission of a kind.
 
 ## How the Law Treats a Person Here
 

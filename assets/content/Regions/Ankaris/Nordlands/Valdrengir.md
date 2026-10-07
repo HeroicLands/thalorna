@@ -8,7 +8,11 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Valdrengir names the honored dead gathered into the defending gods’ halls to wait and train for [[lore-aldarlok|Aldarlok]]. The Asguardian account includes fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarshöll]] in [[place-valsal|Valsal]] and [[place-solvangrhall|Sólrúnshöll]] on [[place-solvangr|Sólvangr]]. In Valsal, the warriors arm and fight each day, recover their wounds by evening, and feast at the hall. The standard telling musters the honored dead on [[place-vigvoll|Vígvöll]] beside the defending gods for a war they know is lost; their willingness to gather expresses the faith’s virtue of defiance.
+"I cannot tell you where your brother is," a völva says at a howe-wake to the household that has asked her. "I can tell you what the halls teach about the honored dead, and that is a different gift." What the halls teach concerns the **Valdrengir**, the honored dead gathered into the defending gods' halls to wait and train for [[lore-aldarlok|Aldarlok]].
+
+The Asguardian account names who is gathered: fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarshöll]] in [[place-valsal|Valsal]] and [[place-solvangrhall|Sólrúnshöll]] on [[place-solvangr|Sólvangr]]. In Valsal the warriors arm and fight each day, recover their wounds by evening and feast at the hall.
+
+The standard telling musters the honored dead on [[place-vigvoll|Vígvöll]] beside the defending gods for a war they know is lost. Their willingness to gather is the faith's virtue of defiance, and the völva leaves it at that.
 
 : The Muster of the Worthy
 

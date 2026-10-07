@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eidringr, the Oathsworn, are priests of [[affiliation-eidgar|Eidgar]] who oversee the swearing of oaths and the keeping of honor, standing as mediators wherever a dispute turns on a man's sworn word. A member witnesses the oath, keeps its memory, and is called on by either side of a quarrel precisely because he answers to neither.
+An oath is only as good as the person who remembers it, and in [[affiliation-eidgar|Eidgar]]'s faith the person who remembers it is an Oathsworn.
+
+Eidringr, the Oathsworn, are priests who oversee the swearing of oaths and the keeping of honor, and who mediate wherever a dispute turns on a man's sworn word. A member witnesses the oath and keeps its memory. Either side of a quarrel can call on him, because he answers to neither. A Dróttmadr witnesses and remembers but does not yet mediate a quarrel alone; the mediating belongs to the Dróttstjóri.

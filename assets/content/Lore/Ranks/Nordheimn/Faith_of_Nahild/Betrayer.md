@@ -7,11 +7,11 @@ description: "What the cult of Náhild does to a man who gives away its hidden r
 tags: []
 ---
 
-What the cult of Náhild does to a man who gives away its hidden rites, in the faith of Náhild.
+The cult of [[affiliation-nahild|Náhild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hofs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.
 
 ## What This Standing Is
 
-Náhild's is the one worship the pantheon itself holds heretical: her clergy are suppressed in every kingdom, her hofs kept hidden, and her offerings refused by the community around them. A man who betrays the cult's secrecy—naming a hidden hof, an initiate, or a godi to outsiders—is cast from it and marked as the reason its secrecy failed.
+A man who betrays the cult's secrecy—naming a hidden hof, an initiate, or a godi to outsiders—is cast from it and marked as the reason its secrecy failed. The community around a hidden hof refuses Náhild's offerings.
 
 ## How the Law Treats a Person Here
 

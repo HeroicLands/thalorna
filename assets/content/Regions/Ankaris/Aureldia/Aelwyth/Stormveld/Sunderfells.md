@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "Stormveld's southern mountain march—the northern arm of the Ironfells, holding the two passes that are the only ways between the Jarldom and Aldorath."
 tags: [region, mountain, frontier]
-data: {demonym: null, lore: [], parents: [stormveld], population: 16000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [stormveld]
+  population: 16000
+  packFolder: aelwyth
+  government: jrldmstrmvld
 ---
 
 The **Sunderfells** are Stormveld's southern march: the northern arm of the [[place-ironfells|Ironfells]]
@@ -14,7 +20,7 @@ in high, wet, difficult country, and the most strategically important ground on 
 
 ## The Passes
 
-**Two passes** cross the range, and they are the only routes between the north-east and the rest of the
+_Two passes_ cross the range, and they are the only routes between the north-east and the rest of the
 island that do not involve a sea voyage. Both are approached through deep wilderness on either side,
 both are shut by snow for months, and both can be held at the top by a force far smaller than one
 attempting to cross.
@@ -30,7 +36,7 @@ to be worth.
 
 ## The Wilderness
 
-The approaches on both sides are genuinely wild—steep forest, no roads worth the name, and communities
+The approaches on both sides are wild—steep forest, no roads worth the name, and communities
 in the folds of it that answer to neither realm and trade with both. Smuggling over the Sunderfells is
 constant, seasonal and impossible to prevent, and a good deal of what Stormveld's thralls know about the
 outside world comes over these mountains on a pack-pony.

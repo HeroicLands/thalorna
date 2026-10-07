@@ -35,10 +35,10 @@ The Sinalë do not "worship" Aulveira in any way a human would recognize. There 
 
 The Sinalëan tradition has no hierarchy. Its structure is flat, unhurried, and governed by consensus rather than authority. There are only two roles.
 
-- **Ilthorinno** ("seer")—Acolyte. Those newly called to Aulveira's service, learning the arts of dream-reading, healing, and the tending of sacred groves. A Ilthorinno serves under the guidance of a Ansorunno, though the relationship is closer to apprentice and mentor than subordinate and superior.
+- **Ilthorinno** ("seer")—Acolyte. Those newly called to Aulveira's service, learning the arts of dream-reading, healing, and the tending of sacred groves. An Ilthorinno serves under the guidance of an Ansorunno, though the relationship is closer to apprentice and mentor than subordinate and superior.
 - **Ansorunno** ("long-watcher")—Priest. Entrusted with the rites, the care of the faithful, and the stewardship of sacred places. All Ansorunno are equal in standing.
 
-When matters arise that affect the faith as a whole, the Ansorunno gather in a **Aulirarno** ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. A Aulirarno may be called by any Ansorunno and has no presiding officer; the gathering speaks until it reaches accord.
+When matters arise that affect the faith as a whole, the Ansorunno gather in an **Aulirarno** ("council of radiance"), an open convocation where decisions are reached by deliberation, not decree. An Aulirarno may be called by any Ansorunno and has no presiding officer; the gathering speaks until it reaches accord.
 
 ## The Khazári Tradition
 

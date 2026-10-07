@@ -7,11 +7,11 @@ description: "Declined the offering and the shared meal by a hof's godi, in the 
 tags: []
 ---
 
-Declined the offering and the shared meal by a hof's godi, in the eight faiths of the Ten that keep the blót.
+A godi at the door of his hof can refuse a man the offering and a place at the meal. The blót ties a man to his clan as well as to his god, so the refusal cuts both at once.
 
 ## What This Standing Is
 
-The godi of a hof declines a man the offering and the shared meal that make up the blót. A blót not attended is a blót not accomplished, and because the rite ties a man to his clan as well as to his god, being refused it severs both at once.
+The godi of a hof can decline a man the offering and the shared meal that make up the blót, and a blót he does not attend is a blót not accomplished.
 
 ## How the Law Treats a Person Here
 

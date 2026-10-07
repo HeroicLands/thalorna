@@ -7,7 +7,7 @@ description: "The ordinary member of a devotional order of the faiths of the Ten
 tags: []
 ---
 
-The ordinary member of a devotional order of the faiths of the Ten, holding the least standing it confers.
+A newly admitted devotee of a devotional order is in: he does the order's work now, under its authority, and he does not speak for it yet.
 
 ## What This Standing Is
 

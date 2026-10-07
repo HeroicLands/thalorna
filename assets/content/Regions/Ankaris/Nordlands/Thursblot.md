@@ -30,7 +30,7 @@ The [[affiliation-thursborn|Giant's Children]] stand closest to Holafell's readi
 
 ## What the Cutting Asks of You
 
-A newcomer to the north meets the Thursblót in small things before anyone explains it. A hof of Hrímthur counts its grey chips, struck from its own floor, aloud against the roll of its dead at the **Naming of the Stone**, and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a hörgr on high ground. At every blót of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
+A newcomer to the north meets the Thursblót in small things before anyone explains it. A hof of Hrímthur counts its gray chips, struck from its own floor, aloud against the roll of its dead at the **Naming of the Stone**, and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a hörgr on high ground. At every blót of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
 
 ## See Also
 

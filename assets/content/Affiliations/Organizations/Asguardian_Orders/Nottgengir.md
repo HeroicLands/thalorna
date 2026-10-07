@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Nóttgengir, the Nightstalkers, are [[lore-nahilddty|Náhild]]'s elite assassins, carrying out her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in secrecy as rigorous as the cult's own hofs keep, and answers to no authority outside the cult's hidden chain.
+A killing chosen to frighten a whole district as much as to remove one man is what people fear from the Nightstalkers.
+
+Nóttgengir are [[lore-nahilddty|Náhild]]'s elite assassins, carrying out her will through killings chosen for the chaos and fear they spread as much as for the target. A member trains in a secrecy as rigorous as the cult's own hofs keep, and answers to no authority outside the cult's hidden chain.

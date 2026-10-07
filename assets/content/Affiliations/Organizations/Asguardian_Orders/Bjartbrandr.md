@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Bjartbrandr, the Lightning Swords, are fighters trained by the elder races themselves in techniques and magic that uphold [[affiliation-bjartr|Bjartr]]'s will. A member carries that training into the world on the elder races' behalf, standing apart from the faith's priests, the one body in [[lore-bjartrdty|Bjartr]]'s service built for battle.
+"Most of us heal and dream," an Ilthorinno of [[affiliation-bjartr|Bjartr]] tells a newcomer who has asked about swords. "The Lightning Swords are the exception."
+
+Bjartbrandr, the Lightning Swords, are fighters trained by the elder races themselves in the techniques and magic that uphold Bjartr's will. They are the one body in [[lore-bjartrdty|Bjartr]]'s service built for battle, and they stand apart from the faith's priests. Those who lead its fighters are Dróttstjóri; a new Dróttmadr trains under the elder races and carries none of the order's authority yet.

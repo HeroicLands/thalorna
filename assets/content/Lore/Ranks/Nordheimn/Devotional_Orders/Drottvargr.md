@@ -7,11 +7,11 @@ description: "Put out of a devotional order of the faiths of the Ten, forfeiting
 tags: []
 ---
 
-Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike.
+Ask how one of the twenty-nine devotional orders puts a devotee out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.
 
 ## What This Standing Is
 
-A devotee is put out by whatever authority his order answers to—a hof's own godi where the order is a clerical one, a senior member or the cult's own chain where it is secret or militant. Each of the twenty-nine orders words its own expulsion in its own terms, and most record no more of it than the fact that it happens; the standing itself is the same wherever it is found.
+A devotee is put out by whatever authority his order answers to—a hof's own godi where the order is a clerical one, a senior member or the cult's own chain where it is secret or militant. The standing is the same wherever it is found.
 
 ## How the Law Treats a Person Here
 

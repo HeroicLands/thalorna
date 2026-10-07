@@ -7,11 +7,11 @@ description: "Holds Hrímthur's work in awe without attaching to any faction, in
 tags: []
 ---
 
-Holds Hrímthur's work in awe without attaching to any faction, in the faith of Hrímthur.
+The faith of Hrímthur has no door to stand at. An admirer holds [[lore-hrimthurspr|Hrímthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.
 
 ## What This Standing Is
 
-An admirer holds Hrímthur's work in awe without attaching to any of the scattered factions that keep his worship. There is no rite of entry, because there is nothing to enter: the faith has no formal hierarchy and no structured organization to admit him into.
+There is no rite of entry, because there is nothing to enter: the faith has no formal hierarchy and no structured organization to admit an admirer into.
 
 ## How the Law Treats a Person Here
 

@@ -43,62 +43,58 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Nordmal: Grönverdir—"the Green Wardens"_
+A Green Warden newly come to a steading helps with the calving and stands in the gate if raiders come, and takes no side in the household's inheritance quarrels, a rule the household is wise to learn the first night, since it will be tempted to forget it before spring. The Guardian means all three parts of it.
 
-- **Type:** Fighting religious order
-- **Patron:** [[affiliation-frodvin|Fródvin]]—Asguardian god of peace, fertility, harvest, and the sun
-- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in rural valleys across the five kingdoms, with no single mother-hall; the order rotates its annual chapter between the three largest active halls
+The Green Wardens, _Grönverdir_, are a fighting order sworn to a god of peace, and the paradox is their doctrine. [[lore-frodvindty|Fródvin]]'s peace is the peace of the cultivated valley: the harvest stored, the herd unmolested, the household whole. In a region where raiders, wolves, hard winters and the casual cruelty of passing warbands are all standing threats, only people willing to stand against those things hold that peace. One does not protect peace by refusing to fight, the order teaches; one protects it by fighting only what threatens it.
 
-## Overview
+- Type: fighting religious order
+- Patron: [[affiliation-frodvin|Fródvin]], Asguardian god of peace, fertility, harvest and the sun
+- Region: [[place-nrdlndsrgn|the Nordlands]], with stations in rural valleys across the five kingdoms
+- Seat: none. The order has no single mother-hall; its annual chapter rotates between the three largest active halls
 
-The Green Wardens are a paradox: a fighting order sworn to a god of peace. The paradox is, however, the order's central doctrine. [[lore-frodvindty|Fródvin]]'s peace is the peace of the cultivated valley—the harvest stored, the herd unmolested, the household whole—and that peace is not a passive state. It is held, in a region where raiders, wolves, hard winters, and casual cruelty from passing warbands are all standing threats, only by those willing to stand against the things that would take it. The Guardians are those who stand. Their working principle is that one does not protect peace by refusing to fight; one protects it by fighting only what threatens it.
+## Settling In
 
-The order operates differently from its Eidgar-sworn siblings. The Sworn Hands ride; the Green Wardens settle. A Guardian is typically attached to a particular valley or cluster of farmsteads for years at a time, working alongside the household and serving as their armed presence in any contest with bandits, beasts, raiding parties, or the occasional warband whose discipline has slipped. The Guardian helps with the harvest. The Guardian helps with the calving. The Guardian also kills, when called to, with the trained competence of a sworn warrior whose vows specify exactly what kinds of killing are within his calling and which are not.
+The Sworn Hands ride, and the Green Wardens settle. A Guardian is attached to a valley or a cluster of farmsteads for years at a time, working beside the household and serving as its armed presence against bandits, beasts, raiding parties and the occasional warband whose discipline has slipped. The Guardian helps with the harvest and helps with the calving. The Guardian also kills when called to, with the trained competence of a sworn warrior whose vows say exactly which kinds of killing fall within his calling and which do not.
 
-## Membership and Structure
+The order's training matches what the work needs: defensive infantry standing before a steading's gate, polearm work in narrow spaces, archery from a barn loft, and the suppression of dangerous beasts such as wolves, bears and the occasional incursion of Helspawn, the [[lore-undead|undead]]. Against raiders, a Guardian answers in escalating steps that begin with a show of force and end, when necessary, with practical lethality.
 
-A candidate for the order is sponsored by a sitting Guardian and presented at the annual chapter. Examinations are martial (the order's training emphasizes defensive infantry, polearm and bow, and the suppression of larger beasts) and devotional (the candidate must recite the order's vow, know the harvest cycle in detail, and demonstrate the patient temperament that the long station of a Guardian requires). The order admits women and men on equal terms; the founding tradition was that fertility-warden work is by nature open to both, and the order has preserved the principle.
+## Becoming a Guardian
 
-The order holds three ranks. It admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
+A sitting Guardian sponsors a candidate and presents him at the annual chapter. The examination is martial, since the training stresses defensive infantry, polearm and bow, and the suppression of larger beasts, and it is devotional: the candidate recites the order's vow, shows he knows the harvest cycle in detail, and demonstrates the patient temperament a Guardian's long station demands. The order admits women and men on equal terms. The founding tradition holds that fertility-warden work is open to both by nature, and the order has kept the principle.
 
-- **Put from the Order** (_Eidvargr_)—cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
-- **Sworn Guardian** (_Grönvördr_)—the working warden; assigned to a station or, occasionally, riding as a circuit relief.
-- **Elder Guardian** (_Eidhöfdingi_)—senior member, called _Eldri Grönvördr_ among the Wardens themselves; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
+The order holds three ranks, and it admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
-The order's chair, the **Speaker of the Green** (_Grönmál_), is elected by the Chapter for a five-year term—one position, acting as administrative coordinator rather than as a commander.
+- Put from the Order (_Eidvargr_): cast out by vote of the Chapter, which closes every valley station's hospitality and every sibling order's recognition for good.
+- Sworn Guardian (_Grönvördr_): the working warden, assigned to a station or, occasionally, riding as a circuit relief.
+- Elder Guardian (_Eidhöfdingi_): the senior member, called _Eldri Grönvördr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
 
-The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
+The chair is the Speaker of the Green, _Grönmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is **Thulmrinna Grönmál**, a former station-warden of a contested [[place-vrystwald|Vrystwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
 
-## Doctrine and Practice
+The Chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. A major harvest rite is part of it. Administration between chapters is light and mostly conducted by correspondence among Elder Guardians.
 
-The order swears three things in its working vow:
+## The Working Vow
 
-- **The Defended Hearth**—that no household under a Guardian's care shall come to harm by hand the Guardian could have prevented. The vow does not require omnipresence; it requires diligence.
-- **The Refused Quarrel**—that a Guardian does not take part in quarrels not his own. Feuds between households, disputes over inheritance, raids of revenge, contracts of mercenary work—these are forbidden to a sworn Guardian even when his employer's household is involved. The principle is that the Guardian's sword is committed to protection from outside, not to participation within.
-- **The Honored Earth**—that the order's working warden is also a workman of the household to which he is attached: he labors at the harvest, the planting, the calving, the woodcutting. A Guardian who refuses ordinary work is no longer of the order.
+The Guardian swears three things.
 
-The order's training emphasizes the kinds of combat the Defended Hearth requires: defensive infantry standing in front of a steading's gate, polearm work in narrow spaces, archery from a barn loft, the suppression of dangerous beasts (wolves, bears, the occasional incursion of helspawn—the [[lore-undead|undead]]), and the careful, escalating response to raiders that begins with show of force and ends, when necessary, with practical lethality.
-
-## Notable Members
-
-- **Speaker Thulmrinna Grönmál**—current Speaker of the Green; a former station-warden of a contested [[place-vrystwald|Vrystwald]] valley; widely regarded as the moral conscience of the contemporary order.
-- The standing Chapter—perhaps sixty Elder Guardians across the five kingdoms; meets in annual rotation.
+- **The Defended Hearth.** No household under a Guardian's care comes to harm by a hand the Guardian could have prevented. The vow does not demand omnipresence; it demands diligence.
+- **The Refused Quarrel.** A Guardian takes no part in quarrels that are not his own. Feuds between households, disputes over inheritance, raids of revenge and contracts of mercenary work are forbidden to a sworn Guardian even when his host's household is involved. His sword is committed to protection from outside, not to taking part within.
+- **The Honored Earth.** The working warden is also a workman of the household he is attached to, laboring at the harvest, the planting, the calving and the woodcutting. A Guardian who refuses ordinary work is no longer of the order.
 
 ## Relations
 
-- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—religious foundation. Many Guardians are also lay priests of Fródvin; the order's annual chapter includes a major harvest-rite.
-- **The five Nordland Crowns**—the kingdoms grant the order's stations land-use rights and informal exemption from levy (since a stationed Guardian's value to the crown is precisely that he is _not_ in the field with the king's host). The relationship is generally cordial and occasionally strained when a crown wishes to raise a levy that includes valley folk under Guardian protection.
-- **The [[affiliation-malldbndlg|Málalidabandalag]]**—wary mutual respect. The Compact's signed companies and the order's Guardians are sometimes on opposing sides of the same raid—the company hired to take a farmstead, the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
-- **The [[affiliation-eidhond|Order of the Sworn Hand]]**—sibling order; mutual recognition and occasional cooperation when a matter of contested harvest or steading involves judgment.
-- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—formal cooperation in winter. The Storm-Speakers' weather-magic and the Guardians' practical valley defense overlap in the hard months.
+- **Fródvin's priesthood** is the order's religious foundation, and many Guardians are also lay priests of Fródvin.
+- **The five Nordland crowns** grant the stations land-use rights and informal exemption from levy, since a stationed Guardian's value to a crown is that he is not in the field with the king's host. The relationship is generally cordial and sometimes strained when a crown wants to raise a levy that includes valley folk under Guardian protection.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** and the Guardians keep a wary mutual respect. A signed company and a Guardian are sometimes on opposite sides of the same raid, the company hired to take a farmstead and the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
+- **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a sibling order. The two recognize each other and sometimes cooperate when a matter of contested harvest or steading involves judgment.
+- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** cooperate with the Wardens formally in winter, when the Speakers' weather-craft and the Guardians' practical valley defense overlap.
 
-## Identifying Marks
+## What a Guardian Wears
 
-A Sworn Guardian wears the green cloak of the order—undyed wool dyed with the _grönujurt_ plant—over working clothes. The clasp at the throat bears Fródvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
+A Sworn Guardian wears the order's green cloak, undyed wool dyed with the _grönujurt_ plant, over working clothes. The clasp at the throat bears Fródvin's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians add a small bronze pin in the shape of the sheaf alone, and the Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
 
-## Plot Hooks
+## Vows in Conflict
 
-- **The Compromised Vow.** A Sworn Guardian, stationed in a [[place-vithgard|Vithgard]] valley, has been drawn into the inheritance dispute of his host household—has, in the heat of the dispute, taken up arms on behalf of one party against another. The Defended Hearth and the Refused Quarrel are in direct conflict. The Chapter will be summoned. Either ruling—that the household's defense overrode the prohibition, or that the prohibition overrode the defense—will reshape the order's doctrine.
-- **The Hired Company.** A signed company of the [[affiliation-malldbndlg|Málalidabandalag]] has been hired to take a farmstead under a Guardian's protection; the company's captain knows the Guardian personally and respects him. The convention of warfare requires the engagement to proceed; the personal respect makes the engagement intolerable. Both men are looking for any plausible alternative to the field.
-- **The Failed Harvest.** The valley a senior Guardian has protected for twenty years has lost its harvest to blight three years running. The household is starving; the priesthood says the land is cursed; the Guardian must decide whether to leave the post (a vow violation) or to remain at the side of a household that may not survive the winter.
-- **The Foreign Petition.** A Vrystwald village under the protection of a Guardian has petitioned for adoption by a different Nordlands crown's authority—a politically explosive request. The Guardian's station puts him at the center of the petition's diplomatic handling, whether he wishes the role or not.
+- **The Compromised Vow.** A Sworn Guardian stationed in a [[place-vithgard|Vithgard]] valley has been drawn into the inheritance dispute of his host household and, in the heat of it, has taken up arms for one party against another. The Defended Hearth and the Refused Quarrel are in direct conflict, and the Chapter will be summoned. Either ruling, that the household's defense overrode the prohibition or that the prohibition overrode the defense, will reshape the order's doctrine.
+- **The Hired Company.** A signed company of the Málalidabandalag has been hired to take a farmstead under a Guardian's protection. The company's captain knows the Guardian personally and respects him. The convention of warfare requires the engagement to proceed, and the personal respect makes it intolerable. Both men are looking for any plausible alternative to the field.
+- **The Failed Harvest.** The valley a senior Guardian has protected for twenty years has lost its harvest to blight three years running. The household is starving, the priesthood says the land is cursed, and the Guardian must decide whether to leave his post, which breaks his vow, or to stay beside a household that may not survive the winter.
+- **The Foreign Petition.** A Vrystwald village under a Guardian's protection has petitioned to be adopted under a different Nordlands crown's authority, a politically explosive request. His station puts him at the center of the petition's diplomatic handling, whether he wants the role or not.

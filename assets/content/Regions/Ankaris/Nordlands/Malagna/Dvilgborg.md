@@ -10,11 +10,17 @@ data: {demonym: null, lore: [], parents: [malagna], population: 0, packFolder: m
 
 ## Overview
 
-Dvilgborg is a garrisoned stronghold on a height in [[place-malagna|Malagna]], and its name is the soldier's discipline: _dvilg-_, sleep taken standing, on watch, before the generic for a stronghold on a height. **The Garrison at Dvilgborg** keeps a watch that does not sleep, and the recruits who come to it learn that lesson before any other.
+At Dvilgborg the garrison keeps a watch that does not sleep, and a recruit learns that lesson before any other. The stronghold stands on a height in [[place-malagna|Malagna]], and its name is the soldier's discipline: _dvilg-_, sleep taken standing, on watch, before the generic for a stronghold on a height. **The Garrison at Dvilgborg** is what the name asks of it.
 
 ## The Garrison
 
 The garrison's Master-at-Arms is [[being-gnldrthnslvrgr|Gnaldrthann Sólvargr]] of [[place-hvalgvik|Hvalgvík]], who trains its recruits and manages its daily operations. A recruit at Dvilgborg answers to him for drill, for kit and for every watch kept or missed, and a garrison that holds its height is the measure of how well he does that work.
+
+## At a Glance
+
+- Kind: a garrisoned stronghold on a height.
+- Land: [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].
+- Master-at-Arms: Gnaldrthann Sólvargr, who answers for drill, kit and the watch.
 
 ## See Also
 

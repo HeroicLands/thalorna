@@ -7,7 +7,7 @@ description: "Outlawed at the ting and set beyond the law's protection, in the f
 tags: []
 ---
 
-Outlawed at the ting and set beyond the law's protection, in the five kingdoms and the Jarldom of Stormveld.
+"Once the ting has spoken, he is outside the ladder, not at the bottom of it," a Lawspeaker tells the clerk who must record the sentence. "Nobody owes him anything and he owes nothing. Killing him costs no wergild. Hide him or feed him, and you answer to the ting yourself."
 
 ## What This Standing Is
 

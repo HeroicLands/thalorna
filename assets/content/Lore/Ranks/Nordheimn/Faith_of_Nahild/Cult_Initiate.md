@@ -7,11 +7,11 @@ description: "Taught the secret observances known only to Náhild's own, in the 
 tags: []
 ---
 
-Taught the secret observances known only to Náhild's own, in the faith of Náhild.
+The cult of [[affiliation-nahild|Náhild]] admits by teaching. A hidden hof's godi shows an offerer it has come to trust the secret observances only the cult's own initiates know, and the teaching is the admission.
 
 ## What This Standing Is
 
-An initiate is taught the secret observances of Náhild's worship, known only to their own initiates and to nobody outside the cult. Teaching is the cult's own act of admission, conferred by a hidden hof's godi on an offerer it has come to trust.
+An initiate keeps the secret observances of Náhild's worship, known to the cult's own initiates and to nobody outside it. The hidden hof's godi confers the teaching on an offerer it has come to trust, and that act is the cult's own admission.
 
 ## How the Law Treats a Person Here
 

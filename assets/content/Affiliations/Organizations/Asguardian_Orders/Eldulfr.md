@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eldúlfr, the Infernal Blades, are elite warriors of [[affiliation-svartbrandr|Svartbrandr]]'s faith, known through the forge-hofs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the [[lore-fireweeks|Fire-Weeks]] and by the fights that follow them, not by any rite a hof's godi alone can grant.
+No godi can make an Eldúlfr. The [[lore-fireweeks|Fire-Weeks]] do.
+
+Eldúlfr, the Infernal Blades, are elite warriors of [[affiliation-svartbrandr|Svartbrandr]]'s faith, known through the forge-hofs for a ferocity in battle that the god's own ordeals are built to prove. A member earns standing by surviving the Fire-Weeks and the fights that follow, and no rite a hof's godi alone can perform confers the same. Surviving them is what makes a Dróttmadr, and the order's warriors answer to a Dróttstjóri.

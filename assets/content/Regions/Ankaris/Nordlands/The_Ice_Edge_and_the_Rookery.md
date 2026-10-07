@@ -8,7 +8,7 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands}
 ---
 
-"Listen to the ice before you trust it," a sealer tells the boy going out with him for the first time. "It will tell you before it goes. It always does. The men who drown are the ones who were busy." The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.
+Ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.
 
 ## The Ice-Edge
 
@@ -18,7 +18,7 @@ The danger is the ice itself. A floe that breaks free carries its hunters out to
 
 ## The Rookery
 
-In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the Hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvön-_ for that reason.
+In autumn the seals come ashore on their rookeries—skerries, shingle beaches and rocky points they return to year after year—and the hunt moves to land. A rookery is ground, and ground is held: most belong to the holder of the shore they lie on, and the larger ones to a district, shared out among its households by a reckoning the hersvald keeps. A beach where the seals haul out is named for them before anyone thinks to name it for a man, and many shore names along the western coast begin with _dvön-_ for that reason.
 
 The rookery hunt is shorter and safer than the ice, and it is where a boy is first taken. Taking seals on another holder's rookery without leave is theft, the same as driving off his sheep; seals taken out on the ice belong to whoever took them, because the ice is nobody's ground and never stays where it was.
 
