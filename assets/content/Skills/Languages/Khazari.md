@@ -289,9 +289,9 @@ Khazári counts in sixteens. Sixteen halves cleanly to eight, four, two and one,
 | `kabr`  |     8 |
 | `khozm` |     9 |
 | `zund`  |    10 |
-| `bukh`  |    11 |
-| `sakht` |    12 |
-| `gharb` |    13 |
+| `dolb`  |    11 |
+| `mazk`  |    12 |
+| `fegd`  |    13 |
 | `vunth` |    14 |
 | `thulk` |    15 |
 | `girm`  |    16 |
