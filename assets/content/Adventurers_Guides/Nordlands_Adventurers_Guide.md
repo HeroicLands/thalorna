@@ -53,7 +53,7 @@ The numbers are small on purpose: fifteen hundred people make Knalthstead the la
 
 A [[lore-konungrnk|king]] is chosen from the royal clans and acclaimed at the ting, and he holds his realm on the assembly's continuing consent. The ting has deposed kings before. Under him, a [[lore-jarlrnk|jarl]] holds a province by royal grant, a grant the crown can move elsewhere; a [[lore-hersvaldrnk|hersvald]] leads a district's men to the muster by the district's own consent and can be set aside by it; and a [[lore-bondirnk|bóndi]] holds his _odal_ land by inheritance, bears arms and speaks at the ting in his own name. A _landvördr_ collects the king's dues and holds his courts, and a _skipstjóri_ answers for a ship in the levy. The Lawspeaker recites the law from memory, and a skald of the [[affiliation-skaldscrcl|Skalds' Circle]] recites the last judgment on a point as evidence.
 
-Not everyone is heard equally. A _[[lore-lidmadrrnk|lidmadr]]_ is free but has no clan, and answers through the following that vouches for him; a newcomer who settles in the north starts there. A [[lore-thrallrnk|thrall]] is owned outright and has no voice at all. Beyond them all stands the _[[lore-nidingrnk|níding]]_, outlawed by the ting for a crime no wergild settles: anyone may kill him without penalty, and a hall that feeds him answers for it.
+Not everyone is heard equally. A _[[lore-lidmadrrnk|lidmadr]]_ is free but has no clan, and answers through the following that vouches for him; a newcomer who settles in the north starts there. A [[lore-thrallrnk|thrall]] is owned outright and has no voice at all. Beyond them all stands the _[[lore-nidingrnk|níding]]_, outlawed by the ting for a crime no wergild, the compensation that settles a wrong, can settle: anyone may kill him without penalty, and a hall that feeds him answers for it.
 
 Every seventh year, at Sumarmál, the five kings and their principal jarls land on Dómsey for the **King of All Clans**. A priest of the land walks the island's bounds first, striking each _hrend_ (boundary stone), and from then on a blow struck inside the stones is an offense no wergild settles. Twenty-seven stone seats ring the law-rock; Nordheim holds eight, and Norgaad and Vithgard both say their share undercounts them. The assembly has no officers and no revenue, only the weight of the rulers who agreed.
 
@@ -177,9 +177,7 @@ Campaigns start well from the remembered word. A dead man's reckoning names a de
 | jarl        | The holder of a province by the king's grant                                         |
 | Lawspeaker  | The keeper of a kingdom's law in memory, who recites it at the assembly              |
 | skald       | A sworn poet whose recital is a hall's memory and counts as evidence                 |
-| thrall      | A person owned outright, without voice or rights of their own                        |
 | ting        | The lawful assembly of free people, where disputes are judged and laws proclaimed    |
 | völva       | A wandering seeress bound to no hof; plural völvur                                   |
-| wergild     | The compensation that settles a claim for a wrong                                    |
 
 The [[lore-nordheimnclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

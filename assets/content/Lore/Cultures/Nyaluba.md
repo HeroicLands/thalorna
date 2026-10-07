@@ -86,26 +86,11 @@ Below all three he owes the spirits their proper posture, which is not devotion 
 
 ## Glossary {#glossary}
 
-| Term            | Meaning                                                                                                             |
-| --------------- | ------------------------------------------------------------------------------------------------------------------- |
-| age-set         | Young people initiated together, who form a regiment, share a totem and stay bound for life                         |
-| ancestor-spirit | A named ancestor of a clan, a guide personal to its lineage                                                         |
-| drum-language   | The tonal encoding of the Nyáluban tongue carried by drum across the relay stations                                 |
-| drum-master     | Keeper of a central relay station of the drum network; the Sengala post has no public holder                        |
-| drum-speaker    | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                         |
-| elder shaman    | A long-practiced spirit-speaker who teaches initiates and sits on the council                                       |
-| griot           | Professional keeper of memory: genealogies, boundaries, debts, judgments and the terms of the Pact                  |
-| guide           | A spirit of totem, land, water, hunt, weather, ancestor or hearth, and the object of religious life                 |
-| hearth-spirit   | The guide of a household, compound or communal fire                                                                 |
-| hunt-spirit     | The guide of a particular game or hunting ground, addressed before the hunt                                         |
-| land-spirit     | The guide of a place: a gathering-tree, a hill, a crossing                                                          |
-| Mwána-Mvuzi     | "Daughter of the Lion": the hereditary title of the senior Mvuzi woman, the paramount who convenes the Great Indaba |
-| Old Kraal       | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                    |
-| spirit-speaker  | One taken through the ordeal and trained to address and negotiate with the guides for a clan                        |
-| standing pact   | A clan's lasting agreement with the guides whose territory or lineage overlaps its own                              |
-| three postures  | Venerate, appease, ward against: the three ways a guide is treated according to its nature                          |
-| totem           | The guide a clan is kin to; its members do not hunt or eat it and keep the bearing it embodies                      |
-| totem law       | The rules of marriage, diet, hunting, greeting and bearing that a totem lays on its clan                            |
-| trail-reader    | A Fénjara tracker who follows trails across the spirit world                                                        |
-| water-spirit    | The guide of a river, pool, waterfall or lake                                                                       |
-| weather-spirit  | The guide of storm, rain, wind or sun                                                                               |
+| Term           | Meaning                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| drum-master    | Keeper of a central relay station of the drum network; the Sengala post has no public holder                        |
+| drum-speaker   | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                         |
+| Mwána-Mvuzi    | "Daughter of the Lion": the hereditary title of the senior Mvuzi woman, the paramount who convenes the Great Indaba |
+| Old Kraal      | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                    |
+| spirit-speaker | One taken through the ordeal and trained to address and negotiate with the guides for a clan                        |
+| trail-reader   | A Fénjara tracker who follows trails across the spirit world                                                        |

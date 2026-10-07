@@ -74,7 +74,7 @@ ORDER BY data.population DESC, name.full COLLATE NOCASE
 
 A hired hand meets a city through its Harbormaster, who keeps the port and the dues on every hull, and its Warden of the Weights, who inspects measures, coin and quality in the markets. The Warden's inspections make the city's word good, and to be named to the office is the highest civic honor in any League city.
 
-Standing runs from the register outward. A freeman is enrolled in it and may trade in the city's markets and plead in its courts; a resident lives under the city's protection without either. Above the freeman stand the guild master, the house factor, the house head and the councillor. Below everyone is the man struck from the roll, whose contracts are void and whom no court will hear.
+Standing runs from the register outward. A freeman is enrolled in it and may trade in the city's markets and plead in its courts; a resident lives under the city's protection without either. Above the freeman stand the guild master, the house factor who runs a great house's trade abroad, the house head and the councillor. Below everyone is the man struck from the roll, whose contracts are void and whom no court will hear.
 
 The League's foreign policy is neutrality. The [[affiliation-vylarinmpr|Vylarian Empire]] would absorb it, the guilds of [[affiliation-cnfdrtnhrdnstts|Harad]]—the islands off the League's coast, and its great rival at sea—would dominate its trade, and the powers east of the desert find it useful and unreliable. It survives by being indispensable to all of them and subservient to none. Its wars are border wars, fought by conscripts under the march lords and by mercenary companies hired when the frontier turns dangerous.
 
@@ -163,19 +163,10 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 
 | Word                  | Meaning                                                                           |
 | --------------------- | --------------------------------------------------------------------------------- |
-| caravansary master    | Keeper of a caravanserai; in Yeşilhan, a member of the governing council          |
-| caravanserai          | A fortified inn-complex housing merchants, servants and pack animals              |
-| eastern rite          | The Byzarian practice of the Aurèldían faith, contemplative and served by monks   |
 | First of the Council  | A city council's presiding officer for a fixed term, holding the city's seal      |
-| house factor          | Manager of a great house's warehouses, ships and correspondents abroad            |
-| house head            | Master of a house's capital and name, and an elector of the council               |
 | Lord Commander        | The League's commander of the Eastern March and its senior soldier                |
-| march                 | A frontier district outside any city's charter, held for the League council       |
-| merchant-prince       | Head of one of the great houses that sit on a city's council                      |
-| paper-script          | Bankers' paper that carries large sums in place of coin                           |
 | Warden of the Weights | Inspector of measures, coin and quality; the highest civic honor in a League city |
-| way-fort              | A fortified post on a pass road, a day's march from the next                      |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Argo, Aurion, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 
 The [[lore-byzarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

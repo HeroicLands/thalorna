@@ -62,26 +62,10 @@ He will add, if pressed, that a man owes the truth about a defect in his own goo
 
 | Term                  | Meaning                                                                                          |
 | --------------------- | ------------------------------------------------------------------------------------------------ |
-| bazaar Byzarian       | The loose, rapid spoken register of the markets, full of slang and eastern particles             |
 | byzar                 | The old Byzarian word for a workshop, "the place of making", from which Byzaris is named         |
-| caravansary master    | Keeper of a great caravanserai; in Yeşilhan, a member of the governing council                   |
-| caravanserai          | A fortified inn-complex housing merchants, their servants and their pack animals                 |
-| cursive Byzarian      | The abbreviated commercial hand, quick to write and hard for the untrained to read               |
-| eastern rite          | The Byzarian practice of the Aurèldían faith: mystical, contemplative and served by monks        |
 | First of the Council  | A city council's presiding officer, elected for a fixed term and holding the city's seal         |
-| house factor          | Manager of a great house's warehouses, ships and correspondents abroad                           |
-| house head            | Master of a merchant house's capital and name, and an elector of the council                     |
-| house name            | A family name whose hard final ending says what the house answers for                            |
 | house-suffix          | One of the four endings of a house name: -ákit, -íkot, -ídek and -zát                            |
 | Lord Commander        | The League's commander of the Eastern March and its senior soldier                               |
-| march                 | A frontier district outside any city's charter, held for the League council by a lord            |
-| march lord            | The lord commissioned by the League council to hold a march                                      |
-| merchant-prince       | Head of one of the great houses that sit on a city's council                                     |
-| paper-script          | The bankers' paper of the Collegium Argentariorum that carries large sums in place of coin       |
-| sophrosyne            | The Byzarian martial virtue of measured wisdom wedded to discipline                              |
-| struck from the roll  | Expelled from a city's register, with no charter, no standing in court and every contract void   |
-| tomb-keeper           | A hereditary keeper of the tombs of Nékropolis                                                   |
 | Warden of the Weights | Inspector of measures, coin and quality in the markets; the highest civic honor in a League city |
-| way-fort              | A fortified post on a League pass road, a day's march from the next                              |
 
-Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
+Argo, Aurion, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

@@ -146,19 +146,15 @@ Begin with a landing, a patron, and a waiver with a date on it, and follow the q
 
 ## Glossary
 
-| Word      | Meaning                                                                                                     |
-| --------- | ----------------------------------------------------------------------------------------------------------- |
-| Aquila    | A legion's consecrated eagle standard; a legion that loses it is disbanded                                  |
-| Argentus  | The silver coin of account, 160 to the Aurion                                                               |
-| Argo      | The everyday name of the Argentus                                                                           |
-| Augustar  | The emperor                                                                                                 |
-| Aurion    | The gold coin, minted only at Magnápolis and seldom seen outside a vault                                    |
-| censor    | Keeper of the citizen roll; also an auditor of the treasury, the tax courts, the guilds or the moneylenders |
-| Circle    | One of the paved clearings of Magnápolis, three hundred yards across, where building is forbidden           |
-| Curator   | One of the five members of the Curia Urbis, which governs the capital beyond the Inner Wall                 |
-| dole      | The citizen's guaranteed ration of grain, with oil and the price of the games in the capital                |
-| Octus     | A silver wedge worth one-eighth of an Argentus; called the Bit                                              |
-| quaestor  | An officer of the treasury, answerable for revenue and disbursement                                         |
-| Quaesitor | An investigator and hunter of the Ordo's enforcement arm, the Quaesitorium                                  |
+| Word         | Meaning                                                                                |
+| ------------ | -------------------------------------------------------------------------------------- |
+| Aquila       | A legion's consecrated eagle standard; a legion that loses it is disbanded             |
+| Argentus     | The silver coin of account, 160 to the Aurion                                          |
+| Argo         | The everyday name of the Argentus                                                      |
+| Augustar     | The emperor                                                                            |
+| Aurion       | The gold coin, minted only at Magnápolis and seldom seen outside a vault               |
+| Octus        | A silver wedge worth one-eighth of an Argentus; called the Bit                         |
+| paper-script | Bankers' paper of the Collegium Argentariorum that carries large sums in place of coin |
+| Quaesitor    | An investigator and hunter of the Ordo's enforcement arm, the Quaesitorium             |
 
 The [[lore-vylarianclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

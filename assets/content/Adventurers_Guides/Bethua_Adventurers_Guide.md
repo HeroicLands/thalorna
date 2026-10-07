@@ -47,7 +47,6 @@ A Trade-House pays you in paper and a rival House refuses to honor it three port
 | Charíssa    | The Grace: the open-hand and kicking art of Bethûan women; a master is a Charíssa                            |
 | Dómissa     | A House-Mother, matriarch of a House and member of the Council of Houses; pl. Dómissai                       |
 | Grammatíssa | A scribe or civil clerk of the realm; pl. Grammatíssai                                                       |
-| Great House | One of the dozen leading Trade-Houses, whose letters of credit any other Great House honors                  |
 | Hiérissa    | A high priestess, head of a goddess-order or a great temple, and member of the Sacred College; pl. Hiérissai |
 | Izet-Halzi  | The Overseer of the Account, the state treasurer                                                             |
 | Izet-Mû     | The Overseer of the Waters, chief of the engineer-priestesses                                                |

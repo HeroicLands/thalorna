@@ -158,19 +158,16 @@ Campaigns start well from a contest. A city needs a team for the games and its b
 
 ## Glossary
 
-| Word          | Meaning                                                                          |
-| ------------- | -------------------------------------------------------------------------------- |
-| agora         | The public square of a city: market, meeting place and arena of argument         |
-| agoranomos    | Warden of the market, ruling on weights, coin, quality and disputes              |
-| archon        | Presiding magistrate for one year, who gives the year his name                   |
-| gymnasiarch   | Patron and warden of a gymnasium, paid from his own purse                        |
-| hetaira       | An educated companion trained in music, philosophy, rhetoric and the social arts |
-| honor-trial   | A trial of civic honor judged by the Temple of Árdavon in Korinthea              |
-| mage-warlord  | A Helionite mage of the conquest war who commanded forces his own city could not |
-| metic         | A resident foreigner, taxed and levied, with no vote and no land                 |
-| mystery cult  | A secret religious society that reveals its teaching to initiates in stages      |
-| patron family | One of the wealthy families that govern a city and fund its theater and temples  |
-| strategos     | Elected commander of a city's forces, re-electable without limit                 |
+| Word         | Meaning                                                                          |
+| ------------ | -------------------------------------------------------------------------------- |
+| agora        | The public square of a city: market, meeting place and arena of argument         |
+| agoranomos   | Warden of the market, ruling on weights, coin, quality and disputes              |
+| archon       | Presiding magistrate for one year, who gives the year his name                   |
+| gymnasiarch  | Patron and warden of a gymnasium, paid from his own purse                        |
+| hetaira      | An educated companion trained in music, philosophy, rhetoric and the social arts |
+| honor-trial  | A trial of civic honor judged by the Temple of Árdavon in Korinthea              |
+| mage-warlord | A Helionite mage of the conquest war who commanded forces his own city could not |
+| strategos    | Elected commander of a city's forces, re-electable without limit                 |
 
 Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 

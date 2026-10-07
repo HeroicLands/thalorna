@@ -97,7 +97,6 @@ Beneath all four he owes the sorting itself—the small daily correctness of doi
 | Lëigürt          | "Spirit Master": a Nōkvür who communes with the dead for their households                            |
 | Lëithëi          | "Spirit-Wisdom": the daily meditative movement that realigns the body with its classification        |
 | Lëng             | The bright flow of Lëi, toward classification, distinction and order                                 |
-| moral ledger     | The account of merit and default each person carries and each descendant inherits                    |
 | Nōkvür           | The sixth caste: peasant farmers and laborers                                                        |
 | Nützōk           | The eighth caste: slaves and outcasts                                                                |
 | Rëitsīk          | State-ordered ritual suicide, imposed as a punishment                                                |
@@ -112,7 +111,6 @@ Beneath all four he owes the sorting itself—the small daily correctness of doi
 | Tëngzhëi Zhāklüt | Classification of a foreigner by the Emperor's own decree                                            |
 | Thëizhëit        | An apprentice healer, first rank of the Yātvōr                                                       |
 | Thëng Lëi        | The ascending phase, the first nine years of a celestial generation                                  |
-| Unclassified     | Whatever lies outside the Great Sorting, from chaos to the unregistered foreigner                    |
 | Vëndük           | The second caste: sorcerers bound as property to the Zhëklüng                                        |
 | Vōrjëk           | "Sacred blade": the ceremonial dagger of a Zëisīk, often a family heirloom                           |
 | Vōrlëi           | Spirit, the element the celestial bureaus govern collectively                                        |

@@ -64,16 +64,9 @@ Beneath all four he owes the observances—the stone, the crossroads, the lake�
 
 Every term of art these notes use. Aelwythans speak Élavendri, so its terms are in the [[lore-elavendriclt#glossary|Élavendri glossary]]; the Nordmen of Stormveld keep their own words.
 
-| Term            | Meaning                                                                                      |
-| --------------- | -------------------------------------------------------------------------------------------- |
-| bordered mantle | The garment of a Tarvennese senator, copied from Vylarian report                             |
-| chantry         | A house of the Ordo; the Synod at Ravenmoor is the central chantry for the island            |
-| compulsory call | The Synod's rule that every ship crossing to or from the mainland puts in at Ravenmoor first |
-| court seer      | A seer of the Aldorathi court, heeded on prophecy as much as any commander                   |
-| Knight-Captain  | A commander of the Order of the Just Blade, which serves as Dúnavarre's army                 |
-| observance      | The offering an Aelwythan leaves at a stone, a crossroads or a lake                          |
-| shunning        | The Synod's first sanction: a realm's Ordo advisors withdraw and no others can be had        |
-| trackstone      | A standing marker of the old trackways in the Peshtar country, older than the Peshtar        |
-| war-chief       | The martial leader of a Peshtar clan, chosen by the acclamation of its warriors              |
+| Term           | Meaning                                                                               |
+| -------------- | ------------------------------------------------------------------------------------- |
+| Knight-Captain | A commander of the Order of the Just Blade, which serves as Dúnavarre's army          |
+| trackstone     | A standing marker of the old trackways in the Peshtar country, older than the Peshtar |
 
-Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl and thrall are loanwords from [[lore-nordheimnclt#glossary|the Nordlands]].
+Argentus (Argo), Aurion, Octus (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl is a loanword from [[lore-nordheimnclt#glossary|the Nordlands]].

@@ -143,7 +143,6 @@ Campaigns start well from a claim on a village. A captive taken in a failed raid
 | Óthmund     | One taken in war or bought, answering to the mistress of the house; the standing is not hereditary.          |
 | Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                                         |
 | Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance.                   |
-| War Chief   | The Hárthúl: the elder who leads the war-band and keeps the village's physical safety.                       |
 | wesk        | The one totem a village keeps, and the bond with its spirit.                                                 |
 | Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                      |
 

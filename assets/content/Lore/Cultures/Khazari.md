@@ -227,74 +227,68 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 
 ## Glossary {#glossary}
 
-| Term            | Meaning                                                                                                     |
-| --------------- | ----------------------------------------------------------------------------------------------------------- |
-| account         | The account of Khazártúrn's fall, kept in every hold's archive and read aloud below at appointed intervals. |
-| bek             | And; joins the sixteens of a number to its units.                                                           |
-| binding         | The vowels scored between a name's three consonants, which say why the name was given.                      |
-| bozd            | Four.                                                                                                       |
-| craft-record    | A hold's written account naming each worker against each cut and warranting each finished piece.            |
-| dalkapuráz      | Carved Pirzath, cut across the grain along a seam, for oaths, laws, tombs and foundings.                    |
-| dolb            | Eleven.                                                                                                     |
-| fadhaz          | A part; a sixteenth, into which the craft-records divide a measure.                                         |
-| fakar           | A finding: a cave newly found, the first thing any hold has.                                                |
-| fakarir         | A finder, who reads a mountain from outside and says where its caves and water run.                         |
-| famgadurákh     | A hold's refuge, deep in the rock, where its whole people can be sealed in.                                 |
-| famgafudhán     | A hold's deepest sanctuary, the deep hallowed.                                                              |
-| fegd            | Thirteen.                                                                                                   |
-| filnath         | An account; a telling written and kept.                                                                     |
-| fozd            | Seven.                                                                                                      |
-| gate-row        | The reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath.                       |
-| gharp           | A clumsy cut, a wound in the stone, entered in the record against its maker's name.                         |
-| girm            | Sixteen, the base of Khazári counting and its first round number.                                           |
-| havadh          | A song; a deep song.                                                                                        |
-| hukhard         | The heart of a hold, its inmost hall.                                                                       |
-| hutavar         | A cistern, usually a hollow the rock already held.                                                          |
-| huzafal         | A shrine.                                                                                                   |
-| kabr            | Eight.                                                                                                      |
-| kamgh           | A lament.                                                                                                   |
-| khadhal         | The crossing: the seven clans' flight from Humadhan.                                                        |
-| khardev         | A hold.                                                                                                     |
-| khasp           | Restraint, the little cut; the virtue the workshops prize above skill.                                      |
-| khatab          | A ruled line, a straight cut.                                                                               |
-| khispath        | A work cut so sparingly that it barely shows.                                                               |
-| khozm           | Nine.                                                                                                       |
-| khullán         | The silence kept over the dead.                                                                             |
-| kimghath        | A set lament, one kept and sung again.                                                                      |
-| kirghath        | A ring of the old realm, forged to bend a mind and a soul.                                                  |
-| luváz           | To follow a seam.                                                                                           |
-| madhak          | Living rock, the bedrock.                                                                                   |
-| maghar          | The grain, the way the rock runs.                                                                           |
-| makas           | A cache of stores.                                                                                          |
-| marg            | A bone; the three consonants of a name, which carved Pirzath cuts deep.                                     |
-| mazadh          | A claim of work, said before others.                                                                        |
-| mazk            | Twelve.                                                                                                     |
-| memorial object | A preserved tool or weapon of an ancestor, which no outsider may touch.                                     |
-| milgath         | The hand form of Pirzath, the everyday writing.                                                             |
-| nabaf           | An apprentice, who listens for years before striking anything that matters.                                 |
-| naghal          | A quake.                                                                                                    |
-| narvavutám      | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.                                |
-| nefk            | Six.                                                                                                        |
-| oath-day        | A day on which an undertaking is sworn below and cut where it was spoken.                                   |
-| palgh           | A rockfall.                                                                                                 |
-| pamdh           | A foretelling.                                                                                              |
-| pazal           | Patience, a word of the workshop before it is a word of temperament.                                        |
-| sakap           | A prop, a timber set where the miners did not listen; a mark of shame.                                      |
-| samgh           | Listening, attention to stone, where every apprenticeship begins.                                           |
-| sending         | A party sent out from a hold with its share of the stores to found a new hold.                              |
-| tamk            | Trust; the act of bringing an outsider inside a hold.                                                       |
-| thulk           | Fifteen.                                                                                                    |
-| thummár         | To strike as a master does.                                                                                 |
-| tob             | One.                                                                                                        |
-| vagaz           | An outsider.                                                                                                |
-| varn            | The true line, the line the rock runs.                                                                      |
-| vazan           | A saying, a proverb.                                                                                        |
-| vazath          | A great count: sixteen sixteens, 256.                                                                       |
-| vem             | Three.                                                                                                      |
-| vunth           | Fourteen.                                                                                                   |
-| warrant         | The signature, date and specification cut in carved Pirzath on a finished piece.                            |
-| zagar           | A fault, where the rock has slipped.                                                                        |
-| zalm            | A charm.                                                                                                    |
-| zik             | Two.                                                                                                        |
-| zom             | Five.                                                                                                       |
-| zund            | Ten.                                                                                                        |
+| Term        | Meaning                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| bek         | And; joins the sixteens of a number to its units.                                        |
+| bozd        | Four.                                                                                    |
+| dalkapuráz  | Carved Pirzath, cut across the grain along a seam, for oaths, laws, tombs and foundings. |
+| dolb        | Eleven.                                                                                  |
+| fadhaz      | A part; a sixteenth, into which the craft-records divide a measure.                      |
+| fakar       | A finding: a cave newly found, the first thing any hold has.                             |
+| fakarir     | A finder, who reads a mountain from outside and says where its caves and water run.      |
+| famgadurákh | A hold's refuge, deep in the rock, where its whole people can be sealed in.              |
+| famgafudhán | A hold's deepest sanctuary, the deep hallowed.                                           |
+| fegd        | Thirteen.                                                                                |
+| filnath     | An account; a telling written and kept.                                                  |
+| fozd        | Seven.                                                                                   |
+| gate-row    | The reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath.    |
+| gharp       | A clumsy cut, a wound in the stone, entered in the record against its maker's name.      |
+| girm        | Sixteen, the base of Khazári counting and its first round number.                        |
+| havadh      | A song; a deep song.                                                                     |
+| hukhard     | The heart of a hold, its inmost hall.                                                    |
+| hutavar     | A cistern, usually a hollow the rock already held.                                       |
+| huzafal     | A shrine.                                                                                |
+| kabr        | Eight.                                                                                   |
+| kamgh       | A lament.                                                                                |
+| khadhal     | The crossing: the seven clans' flight from Humadhan.                                     |
+| khardev     | A hold.                                                                                  |
+| khasp       | Restraint, the little cut; the virtue the workshops prize above skill.                   |
+| khatab      | A ruled line, a straight cut.                                                            |
+| khispath    | A work cut so sparingly that it barely shows.                                            |
+| khozm       | Nine.                                                                                    |
+| khullán     | The silence kept over the dead.                                                          |
+| kimghath    | A set lament, one kept and sung again.                                                   |
+| kirghath    | A ring of the old realm, forged to bend a mind and a soul.                               |
+| luváz       | To follow a seam.                                                                        |
+| madhak      | Living rock, the bedrock.                                                                |
+| maghar      | The grain, the way the rock runs.                                                        |
+| makas       | A cache of stores.                                                                       |
+| marg        | A bone; the three consonants of a name, which carved Pirzath cuts deep.                  |
+| mazadh      | A claim of work, said before others.                                                     |
+| mazk        | Twelve.                                                                                  |
+| milgath     | The hand form of Pirzath, the everyday writing.                                          |
+| nabaf       | An apprentice, who listens for years before striking anything that matters.              |
+| naghal      | A quake.                                                                                 |
+| narvavutám  | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.             |
+| nefk        | Six.                                                                                     |
+| oath-day    | A day on which an undertaking is sworn below and cut where it was spoken.                |
+| palgh       | A rockfall.                                                                              |
+| pamdh       | A foretelling.                                                                           |
+| pazal       | Patience, a word of the workshop before it is a word of temperament.                     |
+| sakap       | A prop, a timber set where the miners did not listen; a mark of shame.                   |
+| samgh       | Listening, attention to stone, where every apprenticeship begins.                        |
+| tamk        | Trust; the act of bringing an outsider inside a hold.                                    |
+| thulk       | Fifteen.                                                                                 |
+| thummár     | To strike as a master does.                                                              |
+| tob         | One.                                                                                     |
+| vagaz       | An outsider.                                                                             |
+| varn        | The true line, the line the rock runs.                                                   |
+| vazan       | A saying, a proverb.                                                                     |
+| vazath      | A great count: sixteen sixteens, 256.                                                    |
+| vem         | Three.                                                                                   |
+| vunth       | Fourteen.                                                                                |
+| zagar       | A fault, where the rock has slipped.                                                     |
+| zalm        | A charm.                                                                                 |
+| zik         | Two.                                                                                     |
+| zom         | Five.                                                                                    |
+| zund        | Ten.                                                                                     |

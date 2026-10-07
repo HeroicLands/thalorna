@@ -47,17 +47,9 @@ Most outsiders arrive with Sengala traders, and a party that carries goods south
 
 | Word           | Meaning                                                                                                             |
 | -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| guide          | A spirit of totem, land, water, hunt, weather, ancestor or hearth, and the object of religious life                 |
-| griot          | Professional keeper of memory: genealogies, boundaries, debts, judgments and the terms of the Pact                  |
-| totem          | The guide a clan is kin to; its members do not hunt or eat it and keep the bearing it embodies                      |
-| three postures | Venerate, appease, ward against: the three ways a guide is treated according to its nature                          |
-| totem law      | The rules of marriage, diet, hunting, greeting and bearing that a totem lays on its clan                            |
 | spirit-speaker | One taken through the ordeal and trained to address and negotiate with the guides for a clan                        |
 | drum-speaker   | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                         |
 | Old Kraal      | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                    |
 | Mwána-Mvuzi    | "Daughter of the Lion": the hereditary title of the senior Mvuzi woman, the paramount who convenes the Great Indaba |
-| land-spirit    | The guide of a place: a gathering-tree, a hill, a crossing                                                          |
-| age-set        | Young people initiated together, who form a regiment, share a totem and stay bound for life                         |
-| standing pact  | A clan's lasting agreement with the guides whose territory or lineage overlaps its own                              |
 
 The [[lore-nyalubaclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

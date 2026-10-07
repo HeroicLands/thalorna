@@ -44,19 +44,11 @@ A party can come up with a lowland factor for the contract renewal, or be hired 
 
 ## Glossary
 
-| Word           | Meaning                                                                                              |
-| -------------- | ---------------------------------------------------------------------------------------------------- |
-| roll           | The recited record of the Hvarn dead and where each was found, from which children are named         |
-| rotation       | The yearly sharing out of the crossings, and of the debts it leaves between hearths                  |
-| long house     | The single turf-roofed house at Nürvhrn where the whole people winters; the winter house             |
-| winter council | The gathering of hearth-heads after midwinter that shares out the crossings and settles debts        |
-| hearth name    | The family name a hearth gives, which changes when a person is taken into another hearth             |
-| hearth-head    | Head of a winter hearth, who sits on the winter council and speaks for those who eat at his fire     |
-| fort-carrier   | Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers |
-| bone-bringer   | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
-| reach-guide    | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
-| closed months  | The winter months, when the crossings are shut and the people live at Nürvhrn                        |
-| paired forms   | The verb forms that separate what a speaker did himself from what he did as one of a party           |
+| Word         | Meaning                                                                                              |
+| ------------ | ---------------------------------------------------------------------------------------------------- |
+| fort-carrier | Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers |
+| bone-bringer | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
+| reach-guide  | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
 
 Janapada is a loanword from [[lore-vedyariclt|Vedyara]].
 

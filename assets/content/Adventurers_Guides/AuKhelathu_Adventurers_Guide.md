@@ -189,19 +189,18 @@ Begin with the river, a city, and a claim on the party. Follow the questions tha
 
 ## Glossary
 
-| Word        | Meaning                                                                                         |
-| ----------- | ----------------------------------------------------------------------------------------------- |
-| elu         | Of, upon: the genitive that joins a body's name to its place                                    |
-| entry       | A promise witnessed and written down; it opens when made and closes when its outcome is entered |
-| Gar-Aû      | The divine sovereign of the empire                                                              |
-| Genzet      | A council, and the court of law                                                                 |
-| gezan       | The temple-attested weight-piece of copper, silver or gold; ten qelu                            |
-| Halzi'a     | The hereditary governor of a selat                                                              |
-| lekhau      | Sacred power, trained in the temple schools and licensed by the temples                         |
-| Lem'Nelgir  | An ordained priest, the servant of a god                                                        |
-| qelu        | A tenth of a gezan, the smaller weight-piece                                                    |
-| selat       | A province of the empire; pl. selatu                                                            |
-| Thâz'Lekhau | The high priest or high priestess of a god's temple                                             |
-| Wazu        | A temple acolyte                                                                                |
+| Word        | Meaning                                                                 |
+| ----------- | ----------------------------------------------------------------------- |
+| elu         | Of, upon: the genitive that joins a body's name to its place            |
+| Gar-Aû      | The divine sovereign of the empire                                      |
+| Genzet      | A council, and the court of law                                         |
+| gezan       | The temple-attested weight-piece of copper, silver or gold; ten qelu    |
+| Halzi'a     | The hereditary governor of a selat                                      |
+| lekhau      | Sacred power, trained in the temple schools and licensed by the temples |
+| Lem'Nelgir  | An ordained priest, the servant of a god                                |
+| qelu        | A tenth of a gezan, the smaller weight-piece                            |
+| selat       | A province of the empire; pl. selatu                                    |
+| Thâz'Lekhau | The high priest or high priestess of a god's temple                     |
+| Wazu        | A temple acolyte                                                        |
 
 The [[lore-khelathiclt#glossary|full glossary]] at the end of the culture note lists every Khelâthi word and term these pages use.

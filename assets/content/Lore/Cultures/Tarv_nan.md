@@ -64,7 +64,6 @@ Every Tarvéni word and term of art these notes use, with the ranks of the two �
 
 | Term                 | Meaning                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| ban                  | The High King's general military levy                                                                                 |
 | Consejárath          | The council of great merchant houses that governs Valthári under royal charter                                        |
 | drengáko             | Warrior                                                                                                               |
 | dun                  | With                                                                                                                  |
@@ -76,7 +75,6 @@ Every Tarvéni word and term of art these notes use, with the ranks of the two �
 | Frater Signati       | A Sworn Brother of the Seal                                                                                           |
 | gárevárren           | Ancestors                                                                                                             |
 | grándh               | Honor                                                                                                                 |
-| High King            | The sovereign of Tarvénia, elected by the great lords, with the right to call the ban and judge between lords         |
 | kávren               | River                                                                                                                 |
 | kórath               | Heart                                                                                                                 |
 | kóthren              | Brother                                                                                                               |
@@ -99,7 +97,6 @@ Every Tarvéni word and term of art these notes use, with the ranks of the two �
 | Twinblade            | A knight of the Twinblade Order, keeper of gates and thresholds                                                       |
 | vérath               | Truth                                                                                                                 |
 | vílkrath             | Blood                                                                                                                 |
-| Voice                | The chair of the Twinblade Order, the Voice of the Twin Gate, chosen for life by the Magisters                        |
 | vókath               | Speaks                                                                                                                |
 
 Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

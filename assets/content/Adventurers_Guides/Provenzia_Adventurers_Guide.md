@@ -47,20 +47,11 @@ A patron sends you north with a letter for an Élavendren house in Batáren, and
 
 ## Glossary
 
-| Word         | Meaning                                                                             |
-| ------------ | ----------------------------------------------------------------------------------- |
-| blood-field  | Ground where a battle tore the boundary with the spirit world, and it did not close |
-| courtly love | The code of conduct that governs admiration, obligation, patronage and romance      |
-| dread        | A blood-field that returns the panic, rage or steadiness once felt on it            |
-| quickening   | A blood-field where the ground grows too well                                       |
-| recurrence   | A blood-field where the battle repeats in sound and light; the commonest kind       |
-| règa         | The system of channels that carries river water along the valley terraces           |
-| resonance    | What a blood-field does: the trace of the battle that does not fade                 |
-| síladòr      | A poet-singer of the courtly tradition, and the high poetic register itself         |
-| silence      | A blood-field where nothing sings and nothing will settle                           |
-| unattached   | Without a patron, and therefore without protection                                  |
-| water-turn   | A holding's appointed turn to draw water from the règa                              |
-| withering    | The rarest blood-field, where the land dies and the sickness spreads                |
+| Word        | Meaning                                                                             |
+| ----------- | ----------------------------------------------------------------------------------- |
+| blood-field | Ground where a battle tore the boundary with the spirit world, and it did not close |
+| règa        | The system of channels that carries river water along the valley terraces           |
+| síladòr     | A poet-singer of the courtly tradition, and the high poetic register itself         |
 
 Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Arálwen is a loanword from [[lore-elavendriclt#glossary|Élavendre]].
 

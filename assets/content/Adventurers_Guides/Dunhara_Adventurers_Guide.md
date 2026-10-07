@@ -26,7 +26,7 @@ The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith of fire and light
 
 ## Places and Dangers
 
-- [[place-stoneofranaz|The Stone of Ranâz]] is the hill-shrine where three tribal territories meet. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers there each quarter to renew the indigo vâst-bahâr in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god. Uninvited foreigners are received with courtesy and sent away with nothing.
+- [[place-stoneofranaz|The Stone of Ranâz]] is the hill-shrine where three tribal territories meet. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers there each quarter to renew the indigo vâst-bahâr in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
 - [[place-dunashir|Dûn Ashir]], the oasis seat of the tribes, is where a caravan hires its guide.
 - The open sand kills fast. Summer heat is lethal within hours, winter nights freeze, and a windstorm can bury a camp in minutes.
 - [[place-khuqetmiglet|Khuqet-Miglet]], in the southwest, is a desert-march the empire of [[place-aukhelathrgq|Aû'Khelâthu]] garrisons and the western clans contest, with toll and well-disputes on both sides.
@@ -48,16 +48,12 @@ A party usually arrives as a caravan's escort. Escort duty passes from tribe to 
 
 | Word                 | Meaning                                                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| sheikh               | Leader of a tribe, holding by descent, standing and the elders' consent together                                       |
-| vessel               | One in whom Báhrámiš is held to speak, recognized by the storm cults' assembled elders                                 |
 | pîr                  | A recognized storm-cult practitioner, who reads the weather for council and warband                                    |
 | sar-pîr              | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                                |
 | wind-reader          | Storm-cult diviner who reads omens and weather in the wind; bâdkhwân                                                   |
 | rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; bârân-âvar                     |
 | lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; sang-zad |
 | storm-walker         | Storm-cult practitioner who walks into storms to read them from within; tufân-row                                      |
-| desert mystic        | An ascetic who seeks the divine alone in the deep desert; one whose visions prove true is followed for life            |
-| season-turn          | The turn of a season, when the storm cults' elders gather at the Stone of Ranâz                                        |
 | Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                    |
 | vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm            |
 

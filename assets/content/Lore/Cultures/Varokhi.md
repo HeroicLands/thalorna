@@ -203,7 +203,6 @@ A captive still worth ransoming is kept rather than absorbed into an owning hous
 | vrysteld    | One of the dead the ancestors have cast out of the totem's land.                                             |
 | Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance.                   |
 | vyrel       | A pine.                                                                                                      |
-| War Chief   | The Hárthúl: the elder who leads the war-band and keeps the village's physical safety.                       |
 | wern        | A lake.                                                                                                      |
 | wesk        | The one totem a village keeps, and the bond with its spirit.                                                 |
 | Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                      |

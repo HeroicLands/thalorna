@@ -184,7 +184,6 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | bóndi                      | A free farmer of full clan membership, holding odal land and speaking at the ting                           |
 | breld                      | A coal, an ember kept alive overnight                                                                       |
 | búvördr                    | The steward of an estate, who also seats a hall's honored old at Vetrnaetr                                  |
-| door-seat                  | The bench by a hall's door where its honored old sit and are served first                                   |
 | drengr                     | A warrior of standing                                                                                       |
 | dresk                      | A beacon                                                                                                    |
 | Dróttmadr                  | The ordinary member of a devotional order of the faiths of the Ten                                          |
@@ -202,7 +201,6 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | ergi                       | The shame attached to seidr when a man practices it                                                         |
 | flöm                       | Blubber                                                                                                     |
 | fölm                       | Sickness                                                                                                    |
-| fort-duty                  | The weeks each free farmer of Targud stands in turn at the frontier forts                                   |
 | fösk                       | Ash, what a fire leaves                                                                                     |
 | frídr                      | The peace a hall owes a guest                                                                               |
 | frjálsalid                 | The free companies of the north, warriors for hire                                                          |
@@ -218,9 +216,7 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | Grönvördr                  | A Sworn Guardian, the working warden of the Green Wardens                                                   |
 | gyldra                     | A praise-poem made for a lord and paid with a ring                                                          |
 | hafthur                    | A sea-thing in fishers' tales: an island that rises without birds and takes boats down                      |
-| hall credit                | Debt announced at a feast and kept in the hall's memory by its skald until it is paid                       |
 | Hallarfadir                | The Father of the Hall, who leads one chapter hall of the Giant's Children                                  |
-| harbor-reeve               | The keeper of a haven, who takes its tolls and settles disputes on its wharves                              |
 | heimsaldr                  | A world-age, the world from its kindling to its end                                                         |
 | Hershönd                   | The Hand of the Host, a senior brother of the Giant's Children                                              |
 | hersvald                   | The leader of a district's men at the muster, holding the post by the district's consent; plural hersvaldar |
@@ -239,7 +235,6 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | Höndskjöldr                | A hand's shield, the admitted candidate of the Order of the Sworn Hand                                      |
 | hörgr                      | An open stone altar or cairn for everyday offerings                                                         |
 | Host-Caller                | The Stormveld officer who bears the war-arrow summoning the jarldoms to a common muster                     |
-| howe-wake                  | A night spent awake on a burial mound or at a crossroads to hear the dead                                   |
 | hrend                      | A boundary stone set at a claim's edge                                                                      |
 | Hrímblenn                  | The rime-cleansed, candidates of the Giant's Children                                                       |
 | Hrímmadr                   | An adherent of the Faith of Hrímthur                                                                        |
@@ -251,15 +246,12 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | hrúmsmódir                 | The mothers of the oldest lines, said to lie beneath the stones of Hörgsvangr                               |
 | hrúmverdir                 | Howe-wardens, dead who walk in their own bodies                                                             |
 | hulma                      | A kenning, a thing named in other words; plural hulmur                                                      |
-| huscarl                    | A sworn household warrior of a lord                                                                         |
 | hvelm                      | A whale                                                                                                     |
 | hvelmgeir                  | A harpoon                                                                                                   |
 | jarl                       | The holder of a province by the king's grant                                                                |
 | Jól-Ride                   | The dead denied their grave-ale, riding abroad on the worst nights of Jól                                   |
-| kin-fell                   | The cliff of the Three Winters tale, over which the old of the poorest halls went                           |
 | knelth                     | A charm, a binding sung and never written down                                                              |
 | knerv                      | A body                                                                                                      |
-| land-taking                | The claiming of new land by setting old hall-posts and walking its bounds with fire                         |
 | landormr                   | The guardian Grímvar tellers say lies beneath the Crown of the Wyrm                                         |
 | Landsgodi                  | The priest of the land, who hallows Dómsey and speaks for the Ten with one voice                            |
 | landvördr                  | The king's reeve in a district, collecting dues and holding courts                                          |
@@ -279,7 +271,6 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | rúnameistari               | A rune-master                                                                                               |
 | Sárborinn                  | Born of the Wound, a full member of the Giant's Children                                                    |
 | seidr                      | The völva's craft of trance, spirit-walking and foretelling                                                 |
-| shield-maiden              | A woman who takes up arms as a warrior                                                                      |
 | Signed Captain             | A captain who has sworn his company into the Málalidabandalag                                               |
 | skald                      | A sworn poet whose recital is a hall's memory and counts as evidence                                        |
 | Skáld                      | The Skalds' Circle's sworn rank                                                                             |
@@ -298,17 +289,13 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | sveld                      | A seat                                                                                                      |
 | svelth                     | Death                                                                                                       |
 | svelthfell                 | The death-fell above Marvstead, told of in the Three Winters                                                |
-| thrall                     | A person owned outright, without voice or rights of their own                                               |
 | thresk                     | A keel                                                                                                      |
 | thursar                    | Giant-kin                                                                                                   |
 | ting                       | The lawful assembly of free people, where disputes are judged and laws proclaimed                           |
 | tingfridr                  | The peace a ting holds                                                                                      |
 | tingsveld                  | A stone seat at the ting, marked with its holder's sign                                                     |
 | Truce-Warden               | The Stormveld officer who holds the moot's peace and may kill to keep it                                    |
-| truth of the recital       | A sworn skald's duty to recite accurately even against his patron                                           |
 | tvelg                      | A remnant, what is left when the greater part is gone                                                       |
 | völva                      | A wandering seeress bound to no hof; plural völvur                                                          |
 | vrell                      | Blood                                                                                                       |
 | vyld                       | Grain                                                                                                       |
-| wergild                    | The compensation that settles a claim for a wrong                                                           |
-| wyrd                       | Fate, layered and partly knowable through the runes                                                         |

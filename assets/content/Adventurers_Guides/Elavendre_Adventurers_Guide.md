@@ -48,17 +48,10 @@ A noble house hires you to escort its bard to the Elanmere fair, where its claim
 | Word             | Meaning                                                                                 |
 | ---------------- | --------------------------------------------------------------------------------------- |
 | arálwen          | A place where the material world and the spirit world lie naturally thin; pl. arálwain  |
-| fae-touched      | Said of land, magic or people marked by the fae                                         |
-| grove-elder      | The druid who holds a great grove and its seat on the Grove Council                     |
-| grovekeeper      | A druid serving a lesser grove, wearing an unworked band                                |
 | hedge-affiliate  | A village healer, herbalist or folk-magician who walks in the Grove Council's tradition |
-| old blood        | Descent from the Áelendan, the source of a noble house's prestige and the crown's claim |
-| seated           | Said of a spirit bound to a place, such as a tree, a fall or a hollow                   |
 | shadow name      | The true name, used only among intimates and at night                                   |
 | sun name         | The name used in formal and public life                                                 |
-| thin place       | Ground where the boundary between this world and the fae realm wears thin               |
 | Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies  |
-| Warden           | One of the Áelendan Wardens, who guard the sacred sites and the tree line               |
 
 Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
 

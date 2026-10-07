@@ -116,19 +116,17 @@ Campaigns start well from something a hold needs and will not leave the rock to 
 
 ## Glossary
 
-| Word         | Meaning                                                                                          |
-| ------------ | ------------------------------------------------------------------------------------------------ |
-| craft-record | A hold's written account naming each worker against each cut and warranting each finished piece. |
-| fakar        | A finding: a cave newly found, the first thing any hold has.                                     |
-| famgadurákh  | A hold's refuge, deep in the rock, where its whole people can be sealed in.                      |
-| gharp        | A clumsy cut, a wound in the stone, entered in the record against its maker's name.              |
-| girm         | Sixteen, the base of Khazári counting and its first round number.                                |
-| hutavar      | A cistern, usually a hollow the rock already held.                                               |
-| khullán      | The silence kept over the dead.                                                                  |
-| narvavutám   | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.                     |
-| samgh        | Listening, attention to stone, where every apprenticeship begins.                                |
-| tob          | One.                                                                                             |
-| vazath       | A great count: sixteen sixteens, 256.                                                            |
-| warrant      | The signature, date and specification cut in carved Pirzath on a finished piece.                 |
+| Word        | Meaning                                                                             |
+| ----------- | ----------------------------------------------------------------------------------- |
+| fakar       | A finding: a cave newly found, the first thing any hold has.                        |
+| famgadurákh | A hold's refuge, deep in the rock, where its whole people can be sealed in.         |
+| gharp       | A clumsy cut, a wound in the stone, entered in the record against its maker's name. |
+| girm        | Sixteen, the base of Khazári counting and its first round number.                   |
+| hutavar     | A cistern, usually a hollow the rock already held.                                  |
+| khullán     | The silence kept over the dead.                                                     |
+| narvavutám  | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.        |
+| samgh       | Listening, attention to stone, where every apprenticeship begins.                   |
+| tob         | One.                                                                                |
+| vazath      | A great count: sixteen sixteens, 256.                                               |
 
 The [[lore-khazariclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

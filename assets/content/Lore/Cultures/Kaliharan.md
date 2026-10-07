@@ -66,26 +66,16 @@ He will not say he owes anything to a god, because there is none, and he will no
 
 ## Glossary {#glossary}
 
-| Term                        | Meaning                                                                                                                    |
-| --------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| first records               | The carved slabs and inscribed plaques in the deepest sanctuary archives, the oldest Kaliharan writing                     |
-| held stone                  | A piece taken from a dead Ithári work, bone-white and hard; every sanctuary keeps one                                      |
-| household name              | The short form of a long given name, said only by those of the household                                                   |
-| Ithári'kaan                 | "Keepers of What Was Left": the custodians of the Ithári works and of Thári'vaan                                           |
-| ithári'sul                  | "Precursor stone": the substance of the Ithári works, which takes no mark while the work lives                             |
-| kaan'sari'val               | "The keepers' threads": the knotted palm-fiber cord recording a custodian's line of teachers                               |
-| kaan'sili                   | "One who watches": a custodian in training, apprenticed at a sanctuary from childhood                                      |
-| kaan'thári                  | "One who keeps what came before": a senior custodian of forty or fifty years' service                                      |
-| kaan'vaar                   | "One who holds": a custodian who performs the tending liturgies; also the observance of keeping inherited practice exactly |
-| keeper of the failing works | The office charged with the structures that falter and those that have ended                                               |
-| master of the terraces      | Warden of the island's agriculture and of the weather-works it depends on                                                  |
-| port Kaliharan              | A Kaliharan of the coast, who deals with foreigners and is not admitted inland                                             |
-| sari'kaan                   | "The tending-acts": the custodians' maintenance liturgies                                                                  |
-| severed                     | One cut off from the lineages and the structures' service, permitted to live and spoken to by no one                       |
-| sílhari                     | "Clear looking": the daily habit of attentive watching every Kaliharan keeps                                               |
-| sílhari manual              | The observation journal every Kaliharan keeps from childhood                                                               |
-| sílhari'kaan                | "Clear-seer of the keepers": one of the dozen custodians who coordinate custodial practice across the island               |
-| speaker for the island      | Presiding officer of the Council and the only Kaliharan authorized to treat with a foreign power                           |
-| unkept                      | One put outside the keeping of the Ithári'kaan                                                                             |
-| vaan'ari                    | "Right tending": the care of the part of the world that is one's own to tend                                               |
-| warden of the approaches    | Keeper of the sea-lanes, the pilots and the reception of anyone who arrives                                                |
+| Term           | Meaning                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Ithári'kaan    | "Keepers of What Was Left": the custodians of the Ithári works and of Thári'vaan                                           |
+| ithári'sul     | "Precursor stone": the substance of the Ithári works, which takes no mark while the work lives                             |
+| kaan'sari'val  | "The keepers' threads": the knotted palm-fiber cord recording a custodian's line of teachers                               |
+| kaan'sili      | "One who watches": a custodian in training, apprenticed at a sanctuary from childhood                                      |
+| kaan'thári     | "One who keeps what came before": a senior custodian of forty or fifty years' service                                      |
+| kaan'vaar      | "One who holds": a custodian who performs the tending liturgies; also the observance of keeping inherited practice exactly |
+| sari'kaan      | "The tending-acts": the custodians' maintenance liturgies                                                                  |
+| sílhari        | "Clear looking": the daily habit of attentive watching every Kaliharan keeps                                               |
+| sílhari manual | The observation journal every Kaliharan keeps from childhood                                                               |
+| sílhari'kaan   | "Clear-seer of the keepers": one of the dozen custodians who coordinate custodial practice across the island               |
+| vaan'ari       | "Right tending": the care of the part of the world that is one's own to tend                                               |

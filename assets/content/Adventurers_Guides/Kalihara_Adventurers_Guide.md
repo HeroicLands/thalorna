@@ -59,8 +59,5 @@ A party arrives as crew, guards or factors on a spice ship, and the work is at t
 | vaan'ari       | "Right tending": the care of the part of the world that is one's own to tend                                               |
 | sílhari manual | The observation journal every Kaliharan keeps from childhood                                                               |
 | ithári'sul     | "Precursor stone": the substance of the Ithári works, which takes no mark while the work lives                             |
-| held stone     | A piece taken from a dead Ithári work, bone-white and hard; every sanctuary keeps one                                      |
-| household name | The short form of a long given name, said only by those of the household                                                   |
-| port Kaliharan | A Kaliharan of the coast, who deals with foreigners and is not admitted inland                                             |
 
 The [[lore-kaliharanclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

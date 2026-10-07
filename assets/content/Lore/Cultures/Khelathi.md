@@ -255,104 +255,88 @@ Above all of it he owes a true heart at the weighing—and he owes it whether or
 
 Every Khelâthi word and term of art these notes use. The [[skill-khelathlng|language note]] gives the grammar behind them.
 
-| Term           | Meaning                                                                                             |
-| -------------- | --------------------------------------------------------------------------------------------------- |
-| agu            | Shall: the particle marking what is undertaken rather than what is done                             |
-| assumption     | Taking up another's open entry so that it closes in his account and opens in yours                  |
-| Aû             | Great, of the throne and the realm, and reserved to them                                            |
-| Azlet          | The inundation, first season of the year, when the fields lie drowned                               |
-| burial club    | The body that pays a member's funeral and carries his widow when his house fails                    |
-| Closing        | The deathbed settlement at which the dying man's open entries are called in or left open            |
-| ḍegan          | A tax, the impost on goods crossing a line                                                          |
-| died open      | Said of one who died leaving undertakings nobody can now resolve                                    |
-| ḍumaṭu         | The driven one, the mindless undead; abroad, damut                                                  |
-| ḍuras          | Washing-salt, natron                                                                                |
-| elu            | Of, upon: the genitive that joins a body's name to its place                                        |
-| entry          | A promise witnessed and written down; it opens when made and closes when its outcome is entered     |
-| ez             | Of, toward: the genitive a commoner's byname hangs on                                               |
-| ezu            | In                                                                                                  |
-| finding        | The witnessed ruling that a living person can no longer attest, which puts his account in ward      |
-| Gar-           | The opening of a house's or an office's name                                                        |
-| Gar-Aû         | The divine sovereign of the empire                                                                  |
-| Gelet          | The emergence, the season of planting the black silt                                                |
-| Genzet         | A council, and the court of law; Genzet' opens the name of a council or court                       |
-| gethar         | Potter                                                                                              |
-| Gethunu        | The arcane order                                                                                    |
-| gezan          | The temple-attested weight-piece of copper, silver or gold, about 22.7 grams; ten qelu              |
-| githar         | The loom, and the weavers' work-word                                                                |
-| ḥabṭun         | A storehouse                                                                                        |
-| halzat         | The weighing                                                                                        |
-| halzi          | Heart, and the account a heart answers for                                                          |
-| Halzi'a        | The hereditary governor of a selat, who commands its levies, taxes and justice                      |
-| Halzunet       | The noon denials, the heart's account declared aloud                                                |
-| house name     | A name carrying the collective plural, which asserts a claim to land, a shrine or a descent         |
-| igelar         | Boatman                                                                                             |
-| igelu          | The river, and the mariners' work-word                                                              |
-| in ward        | Said of an account held by a warden after a finding                                                 |
-| Iru'palu       | The hereditary standing below the Gar-Aû, reserved to the royal family and a few houses             |
-| Khelâthi-zethu | The sacred hand, the script of temple and tomb                                                      |
-| lagar          | A measure of grain                                                                                  |
-| lagaru         | Bulk, volume; the work-word of merchants who deal by volume                                         |
-| lagun          | Timber                                                                                              |
-| Legha'lutu     | Master of an estate, its lands and its attached village                                             |
-| legharu        | The herb, and the apothecaries' work-word                                                           |
-| legzar         | Brewer                                                                                              |
-| lekhau         | Sacred power, trained in the temple schools and licensed by the temples                             |
-| Lem'           | Servant of; the opening of the name of an order of a god's servants                                 |
-| Lem'Nelgir     | An ordained priest, the servant of a god                                                            |
-| lemu           | Service, and the servants' work-word                                                                |
-| lemzabu        | A great house's steward                                                                             |
-| lemzu          | Bondsman                                                                                            |
-| Lin'           | The opening of a guild's name                                                                       |
-| Lut-           | The opening of a temple's or an estate's name                                                       |
-| meglu          | Herder                                                                                              |
-| melnu          | The forge, and the metalworkers' work-word                                                          |
-| Name Struck    | The rank of one whose name has been struck from the records, the heaviest sentence short of death   |
-| near name      | The given name broken off after its second vowel, used only by those a tie already binds            |
-| nelgir         | God                                                                                                 |
-| noon denials   | The Halzunet, the heart's account declared aloud                                                    |
-| people's hand  | Qalezu, the script of the counting-house, the tax roll and the contract                             |
-| performance    | Closing an entry by doing what was promised                                                         |
-| Qalezu         | The people's hand                                                                                   |
-| qathur         | A seal, and the warrant it closes                                                                   |
-| qaṭlun         | A hidden channel, the tunnel-well                                                                   |
-| qedlu          | Quarryman                                                                                           |
-| qelt           | The soul-component that is embalmed                                                                 |
-| qelu           | A tenth of a gezan, the smaller weight-piece                                                        |
-| qelzu          | The lock, and the locksmiths' work-word                                                             |
-| qenuwa         | Gold                                                                                                |
-| Qet Telgu      | The First Occasion, from which the temple chronicles count                                          |
-| qethar         | The old way, and the traditionalists' work-word                                                     |
-| qezelet        | The formal, temple form of qelu, written on attestations                                            |
-| qeztu          | War, and the mercenaries' work-word                                                                 |
-| qinlat         | Sweet oil, unguent                                                                                  |
-| Reading        | The public reading of a dead person's account at the weighing, where creditors are asked to release |
-| release        | Closing an entry by the word of the person owed; it may be refused                                  |
-| reth           | The soul-component that is inscribed                                                                |
-| rethu          | Lore, and the scholars' work-word                                                                   |
-| sacred hand    | Khelâthi-zethu, the script of temple and tomb                                                       |
-| selat          | A province of the empire; pl. selatu                                                                |
-| selqur         | A year of the count from the Qet Telgu                                                              |
-| settlement     | Closing an entry on other terms the parties agree                                                   |
-| shebar         | Reed-cutter                                                                                         |
-| Shelu          | The harvest, third season of the year                                                               |
-| shelun         | Performance, and the players' work-word                                                             |
-| ṭelqas         | A quay                                                                                              |
-| ṭerebu         | The cloaked one, the sentient undead; abroad, tereb                                                 |
-| Thâz           | Great, of rank and extent                                                                           |
-| Thâz'Lekhau    | The high priest or high priestess of a god's temple                                                 |
-| walir          | Weaver                                                                                              |
-| warden         | The person appointed to close the open entries of an account in ward                                |
-| Wazu           | A temple acolyte; also the word for pure                                                            |
-| Zabet          | A woman of rank at court                                                                            |
-| Zabet'lutu     | Mistress of an estate, its lands and its attached village                                           |
-| zaglu          | The made figure: a funerary figure that answers for its owner, and the toymakers' work-word         |
-| zamlu          | Music, and the minstrels' work-word                                                                 |
-| zegaru         | The field, and the farmers' work-word                                                               |
-| zeghet         | The hunt; Zeghet' opens the name of a company that goes out                                         |
-| Zemelu         | A companion of the Gar-Aû, a mark of favor and access                                               |
-| zemnu          | Craft, and the artisans' work-word                                                                  |
-| zethu          | Writing, the scribe, and the scribes' work-word                                                     |
-| Zulaten        | The realm of the dead                                                                               |
-| zuqat          | Tiller                                                                                              |
-| zuwaret        | Trade, and the merchants' work-word                                                                 |
+| Term           | Meaning                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| agu            | Shall: the particle marking what is undertaken rather than what is done                           |
+| Aû             | Great, of the throne and the realm, and reserved to them                                          |
+| Azlet          | The inundation, first season of the year, when the fields lie drowned                             |
+| ḍegan          | A tax, the impost on goods crossing a line                                                        |
+| ḍumaṭu         | The driven one, the mindless undead; abroad, damut                                                |
+| ḍuras          | Washing-salt, natron                                                                              |
+| elu            | Of, upon: the genitive that joins a body's name to its place                                      |
+| ez             | Of, toward: the genitive a commoner's byname hangs on                                             |
+| ezu            | In                                                                                                |
+| Gar-           | The opening of a house's or an office's name                                                      |
+| Gar-Aû         | The divine sovereign of the empire                                                                |
+| Gelet          | The emergence, the season of planting the black silt                                              |
+| Genzet         | A council, and the court of law; Genzet' opens the name of a council or court                     |
+| gethar         | Potter                                                                                            |
+| Gethunu        | The arcane order                                                                                  |
+| gezan          | The temple-attested weight-piece of copper, silver or gold, about 22.7 grams; ten qelu            |
+| githar         | The loom, and the weavers' work-word                                                              |
+| ḥabṭun         | A storehouse                                                                                      |
+| halzat         | The weighing                                                                                      |
+| halzi          | Heart, and the account a heart answers for                                                        |
+| Halzi'a        | The hereditary governor of a selat, who commands its levies, taxes and justice                    |
+| Halzunet       | The noon denials, the heart's account declared aloud                                              |
+| igelar         | Boatman                                                                                           |
+| igelu          | The river, and the mariners' work-word                                                            |
+| Iru'palu       | The hereditary standing below the Gar-Aû, reserved to the royal family and a few houses           |
+| Khelâthi-zethu | The sacred hand, the script of temple and tomb                                                    |
+| lagar          | A measure of grain                                                                                |
+| lagaru         | Bulk, volume; the work-word of merchants who deal by volume                                       |
+| lagun          | Timber                                                                                            |
+| Legha'lutu     | Master of an estate, its lands and its attached village                                           |
+| legharu        | The herb, and the apothecaries' work-word                                                         |
+| legzar         | Brewer                                                                                            |
+| lekhau         | Sacred power, trained in the temple schools and licensed by the temples                           |
+| Lem'           | Servant of; the opening of the name of an order of a god's servants                               |
+| Lem'Nelgir     | An ordained priest, the servant of a god                                                          |
+| lemu           | Service, and the servants' work-word                                                              |
+| lemzabu        | A great house's steward                                                                           |
+| lemzu          | Bondsman                                                                                          |
+| Lin'           | The opening of a guild's name                                                                     |
+| Lut-           | The opening of a temple's or an estate's name                                                     |
+| meglu          | Herder                                                                                            |
+| melnu          | The forge, and the metalworkers' work-word                                                        |
+| Name Struck    | The rank of one whose name has been struck from the records, the heaviest sentence short of death |
+| near name      | The given name broken off after its second vowel, used only by those a tie already binds          |
+| nelgir         | God                                                                                               |
+| Qalezu         | The people's hand                                                                                 |
+| qathur         | A seal, and the warrant it closes                                                                 |
+| qaṭlun         | A hidden channel, the tunnel-well                                                                 |
+| qedlu          | Quarryman                                                                                         |
+| qelt           | The soul-component that is embalmed                                                               |
+| qelu           | A tenth of a gezan, the smaller weight-piece                                                      |
+| qelzu          | The lock, and the locksmiths' work-word                                                           |
+| qenuwa         | Gold                                                                                              |
+| Qet Telgu      | The First Occasion, from which the temple chronicles count                                        |
+| qethar         | The old way, and the traditionalists' work-word                                                   |
+| qezelet        | The formal, temple form of qelu, written on attestations                                          |
+| qeztu          | War, and the mercenaries' work-word                                                               |
+| qinlat         | Sweet oil, unguent                                                                                |
+| reth           | The soul-component that is inscribed                                                              |
+| rethu          | Lore, and the scholars' work-word                                                                 |
+| selat          | A province of the empire; pl. selatu                                                              |
+| selqur         | A year of the count from the Qet Telgu                                                            |
+| shebar         | Reed-cutter                                                                                       |
+| Shelu          | The harvest, third season of the year                                                             |
+| shelun         | Performance, and the players' work-word                                                           |
+| ṭelqas         | A quay                                                                                            |
+| ṭerebu         | The cloaked one, the sentient undead; abroad, tereb                                               |
+| Thâz           | Great, of rank and extent                                                                         |
+| Thâz'Lekhau    | The high priest or high priestess of a god's temple                                               |
+| walir          | Weaver                                                                                            |
+| Wazu           | A temple acolyte; also the word for pure                                                          |
+| Zabet          | A woman of rank at court                                                                          |
+| Zabet'lutu     | Mistress of an estate, its lands and its attached village                                         |
+| zaglu          | The made figure: a funerary figure that answers for its owner, and the toymakers' work-word       |
+| zamlu          | Music, and the minstrels' work-word                                                               |
+| zegaru         | The field, and the farmers' work-word                                                             |
+| zeghet         | The hunt; Zeghet' opens the name of a company that goes out                                       |
+| Zemelu         | A companion of the Gar-Aû, a mark of favor and access                                             |
+| zemnu          | Craft, and the artisans' work-word                                                                |
+| zethu          | Writing, the scribe, and the scribes' work-word                                                   |
+| Zulaten        | The realm of the dead                                                                             |
+| zuqat          | Tiller                                                                                            |
+| zuwaret        | Trade, and the merchants' work-word                                                               |

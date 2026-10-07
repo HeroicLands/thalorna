@@ -68,21 +68,14 @@ The names carry two front rounded vowels no lowland tongue has, and a Vedyari wh
 
 ## Glossary {#glossary}
 
-| Term                | Meaning                                                                                                      |
-| ------------------- | ------------------------------------------------------------------------------------------------------------ |
-| carrier             | One who walks the roads under another's word, carrying loads and learning the ground                         |
-| common store        | Öskhelt's shared winter store, held by the hearth-wardens and provisioned from the Sūryadvāra lineages' fees |
-| cord-keeper         | Keeper of a lineage's knotted route-record, taught to one person in a generation                             |
-| fee-reckoner        | Setter of a season's price against what a caravan is worth, and keeper of what lineages owe each other       |
-| guide-cord          | A knotted hide cord recording a route, unreadable outside the blood                                          |
-| guide-mother        | Senior woman of a lineage, who holds its knowledge of the road and says whether it is open                   |
-| hearth-kin          | One of a hearth's blood, entitled to its shelter, its herds and its share of a season's fee                  |
-| hearth-warden       | Keeper of the winter stores and of the duty to shelter whoever reaches the door                              |
-| herdholder          | One who holds beasts and a stake in a high pasture                                                           |
-| road-holder         | Holder of a crossing by descent, answerable for every party taken over it                                    |
-| road-pidgin         | The two hundred or so words of Ösket that lowlanders are taught, without evidential marks                    |
-| roadless            | One put out of every lineage for selling a road or losing a party through carelessness                       |
-| snow-watcher        | Reader of the summit at first light, whose word moves or halts a caravan                                     |
-| speaker of the cols | Convener of a meeting between lineages, chosen for that meeting and binding none of them                     |
+| Term          | Meaning                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| cord-keeper   | Keeper of a lineage's knotted route-record, taught to one person in a generation                       |
+| fee-reckoner  | Setter of a season's price against what a caravan is worth, and keeper of what lineages owe each other |
+| guide-cord    | A knotted hide cord recording a route, unreadable outside the blood                                    |
+| guide-mother  | Senior woman of a lineage, who holds its knowledge of the road and says whether it is open             |
+| hearth-warden | Keeper of the winter stores and of the duty to shelter whoever reaches the door                        |
+| road-holder   | Holder of a crossing by descent, answerable for every party taken over it                              |
+| snow-watcher  | Reader of the summit at first light, whose word moves or halts a caravan                               |
 
 Ritūja, tharana, ushtaka and wrist-line are loanwords from [[lore-vedyariclt|Vedyara]].

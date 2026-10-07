@@ -46,14 +46,10 @@ A clan hires you to drive its herd to the festival through country where a rival
 | --------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ashmark               | Temple hearth-ash mixed with sacred oils, applied to forehead and hands at passage, mourning and consecration |
 | Crown Moneylender     | One of the crown-chartered moneylenders who keep accounts with the Gár-Hálzi and issue letters of credit      |
-| grazing right         | A clan's customary claim to a valley in a season, the commonest cause of bloodshed in the realm               |
 | High Pyremant         | The supreme spiritual leader of Okháris, who rules Zarhánis and advises the Overlord                          |
-| priest-noble          | A member of the priestly aristocracy whose council rules Kaljékor                                             |
 | pyrestone             | A fragment of volcanic glass carried by the faithful as a link to the Eternal Flame                           |
 | Spirit Blade          | A weapon blessed by the zohira, kept by the Magara                                                            |
 | Steward of the Trades | The officer who presides over the crown-chartered trades                                                      |
-| temple-city           | One of the three pyramid cities that tend an aspect of the Eternal Flame                                      |
-| three-wick lamp       | The prayer lamp of the faith, one wick for each aspect; a wick put out before the others is ill-omened        |
 | Warden of the Flame   | The warrior-priest who rules Vuthráka and commands the armies in war                                          |
 | zohira                | The intermediary spirits of fertility, storm, river, death and the hunt, servants of the Eternal Flame        |
 

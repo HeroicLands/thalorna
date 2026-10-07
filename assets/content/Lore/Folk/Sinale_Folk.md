@@ -110,81 +110,76 @@ The Sinalë also maintain some form of connection with the peoples of [[place-kc
 
 Every Sinalë word and term of art these notes use. The [[doc-sinalelexcn|Sinalë Lexicon]] holds the whole word-hoard, and the [[skill-sinalelng|language note]] the rules that make it.
 
-| Term          | Meaning                                                                                                |
-| ------------- | ------------------------------------------------------------------------------------------------------ |
-| almari        | The cupped hand                                                                                        |
-| ansoru        | The long watch                                                                                         |
-| ansorunno     | One who keeps the long watch                                                                           |
-| aulirarno     | The gathering of light; the open convocation of the faith                                              |
-| aulveira      | Light and dream as one; the Sinalë name of the God of Dreams                                           |
-| carry         | What the Áelendan do for the Sinalë: pass their words exactly, adding nothing, never speaking for them |
-| deeper places | The country beyond the enclaves, which the Sinalë distinguish from their own and do not rule           |
-| eho           | Be, exist                                                                                              |
-| eilava        | The wide sky                                                                                           |
-| Elder Races   | The Sinalë and the Khazári, the two speaking peoples older than humankind                              |
-| ëlvyri        | The evening star                                                                                       |
-| esseli        | The still surface                                                                                      |
-| hallesi       | White frost                                                                                            |
-| halvilonvu    | A birch stand within the forest                                                                        |
-| hearth        | A Sinalë lineage, named for the thing it keeps and inherited through the mother                        |
-| huoma         | The first warmth                                                                                       |
-| hyssë         | The held breath                                                                                        |
-| ileva         | The clear place                                                                                        |
-| ilthorinno    | A seer                                                                                                 |
-| ilvy          | Thin ice                                                                                               |
-| kalvi         | Pale wood                                                                                              |
-| kalvirno      | A stand of birch                                                                                       |
-| kelvasi       | The cold spring                                                                                        |
-| kilvë         | The far call                                                                                           |
-| kinsa         | The new shoot                                                                                          |
-| lanthavo      | The slow river                                                                                         |
-| lavuri        | Running water                                                                                          |
-| lenthi        | The tall grass                                                                                         |
-| liseri        | Still water                                                                                            |
-| lonvu         | The deep wood                                                                                          |
-| loova         | The far bank                                                                                           |
-| lorrami       | Woven cloth                                                                                            |
-| luuro         | Sing                                                                                                   |
-| luuronno      | A singer                                                                                               |
-| luuropi       | A pipe                                                                                                 |
-| masseri       | The deep ground                                                                                        |
-| mollu         | Deep pool                                                                                              |
-| mollursa      | Depth                                                                                                  |
-| molu          | The colour of a deep pool                                                                              |
-| nelyvë        | The first frost                                                                                        |
-| nuomi         | The still hour                                                                                         |
-| nuuva         | Starlight                                                                                              |
-| nuuvanu       | A single star                                                                                          |
-| nuuvasa       | Starlit                                                                                                |
-| nuuvasto      | A place of starlight                                                                                   |
-| nylvi         | The deep root                                                                                          |
-| olmarna       | The heartwood                                                                                          |
-| olmasi        | Moss on stone                                                                                          |
-| olvenne       | Wearing                                                                                                |
-| olvessa       | The long dusk                                                                                          |
-| pehe          | Give                                                                                                   |
-| pelvai        | The low cloud                                                                                          |
-| pelvailu      | A wisp of cloud                                                                                        |
-| porvi         | The split log                                                                                          |
-| ressi         | The plaited mat                                                                                        |
-| rhoveli       | The lifted stone                                                                                       |
-| rivy          | The turning leaf                                                                                       |
-| sëlvi         | The woven light                                                                                        |
-| sëly          | Stand                                                                                                  |
-| Sinalo        | One of the Sinalë                                                                                      |
-| solmeri       | The smell of rain                                                                                      |
-| sulme         | The first thaw                                                                                         |
-| syllë         | The rising note                                                                                        |
-| tellavi       | The small bell                                                                                         |
-| tëlvi         | The falling drop                                                                                       |
-| thalve        | The low fog                                                                                            |
-| thalvelta     | Fog over                                                                                               |
-| thilvai       | The seam of light                                                                                      |
-| tirvali       | The long road                                                                                          |
-| toiru         | The turning year                                                                                       |
-| tuve          | Hold                                                                                                   |
-| unturo        | Winter                                                                                                 |
-| vauli         | Tall                                                                                                   |
-| wearing       | The change at the head of a word that leans on another; the worn consonant is the grammar              |
+| Term       | Meaning                                                      |
+| ---------- | ------------------------------------------------------------ |
+| almari     | The cupped hand                                              |
+| ansoru     | The long watch                                               |
+| ansorunno  | One who keeps the long watch                                 |
+| aulirarno  | The gathering of light; the open convocation of the faith    |
+| aulveira   | Light and dream as one; the Sinalë name of the God of Dreams |
+| eho        | Be, exist                                                    |
+| eilava     | The wide sky                                                 |
+| ëlvyri     | The evening star                                             |
+| esseli     | The still surface                                            |
+| hallesi    | White frost                                                  |
+| halvilonvu | A birch stand within the forest                              |
+| huoma      | The first warmth                                             |
+| hyssë      | The held breath                                              |
+| ileva      | The clear place                                              |
+| ilthorinno | A seer                                                       |
+| ilvy       | Thin ice                                                     |
+| kalvi      | Pale wood                                                    |
+| kalvirno   | A stand of birch                                             |
+| kelvasi    | The cold spring                                              |
+| kilvë      | The far call                                                 |
+| kinsa      | The new shoot                                                |
+| lanthavo   | The slow river                                               |
+| lavuri     | Running water                                                |
+| lenthi     | The tall grass                                               |
+| liseri     | Still water                                                  |
+| lonvu      | The deep wood                                                |
+| loova      | The far bank                                                 |
+| lorrami    | Woven cloth                                                  |
+| luuro      | Sing                                                         |
+| luuronno   | A singer                                                     |
+| luuropi    | A pipe                                                       |
+| masseri    | The deep ground                                              |
+| mollu      | Deep pool                                                    |
+| mollursa   | Depth                                                        |
+| molu       | The colour of a deep pool                                    |
+| nelyvë     | The first frost                                              |
+| nuomi      | The still hour                                               |
+| nuuva      | Starlight                                                    |
+| nuuvanu    | A single star                                                |
+| nuuvasa    | Starlit                                                      |
+| nuuvasto   | A place of starlight                                         |
+| nylvi      | The deep root                                                |
+| olmarna    | The heartwood                                                |
+| olmasi     | Moss on stone                                                |
+| olvenne    | Wearing                                                      |
+| olvessa    | The long dusk                                                |
+| pehe       | Give                                                         |
+| pelvai     | The low cloud                                                |
+| pelvailu   | A wisp of cloud                                              |
+| porvi      | The split log                                                |
+| ressi      | The plaited mat                                              |
+| rhoveli    | The lifted stone                                             |
+| rivy       | The turning leaf                                             |
+| sëlvi      | The woven light                                              |
+| sëly       | Stand                                                        |
+| Sinalo     | One of the Sinalë                                            |
+| solmeri    | The smell of rain                                            |
+| sulme      | The first thaw                                               |
+| syllë      | The rising note                                              |
+| tellavi    | The small bell                                               |
+| tëlvi      | The falling drop                                             |
+| thalve     | The low fog                                                  |
+| thalvelta  | Fog over                                                     |
+| thilvai    | The seam of light                                            |
+| tirvali    | The long road                                                |
+| toiru      | The turning year                                             |
+| tuve       | Hold                                                         |
+| unturo     | Winter                                                       |
+| vauli      | Tall                                                         |
 
-Tradition Keeper and Warden are terms from [[lore-elavendriclt#glossary|Élavendre]].
+Tradition Keeper is a term from [[lore-elavendriclt#glossary|Élavendre]].
