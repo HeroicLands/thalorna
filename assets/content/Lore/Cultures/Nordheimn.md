@@ -9,9 +9,11 @@ tags: []
 # terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blót offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Aelwyth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---
 
-The **Nordheimn**, or **Nordmen**, live by the sea and by what their neighbors remember. Their homeland, the [[place-nrdlndsrgn|Nordlands]], has thin fields and long winters. People gather along the coast and inland rivers; the vast mountain interior holds few residents or travelers. Stories of [[lore-flkkhazar|Khazári]] holds hidden there remain rumors, not known neighbors on whom a household can depend.
+Sit one evening at a northern fire and three things come up before the ale is gone: whose kin you are, what you have sworn, and what people say of your grandmother. A skald of the [[affiliation-skaldscrcl|Skalds' Circle]] who teaches the fosterlings of a Norgaad hall gives them the whole culture in two sentences: "We live by the sea and by what our neighbors remember of us. The sea feeds you for a season; the remembering feeds your children."
 
-Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. Nordmen often explain raiding as the arithmetic of a land that cannot feed them. That explanation shows how they justify taking another people's food and freedom.
+The **Nordheimn**, or Nordmen, are the people of the [[place-nrdlndsrgn|Nordlands]], a homeland of thin fields and long winters. They live along the coast and the inland rivers. The vast mountain interior holds few residents or travelers, and the stories of [[lore-flkkhazar|Khazári]] holds hidden there are rumors, not neighbors a household can call on.
+
+Ships carry amber, furs, whale ivory and iron south to [[place-midhalnrgn|Mídhalión]], and bring grain, wine, cloth and silver home. A longship can run up a river or cross open ocean. The same crew may trade at one port and raid the next. Ask a Nordman why, and he gives the arithmetic of a land that cannot feed its people; that is how the north justifies taking another people's food and freedom.
 
 ## The Oath and the Shame
 
@@ -39,13 +41,13 @@ Women manage holdings during long voyages, own property in their own names and m
 
 The tales of [[being-vrldrvonhnd|Vraldorv One-Hand]] offer a male ideal. In the epics he loses a hand defending a village, learns to serve with the other, and becomes renowned for fair judgment. His injury gives his courage a cost; his fairness makes him more than a successful fighter. He refuses to favor allies when they lie and seeks to end the feuds that consume the clans.
 
-Vraldorv belongs to the **Heroes of Asguard**, figures who may or may not have lived. Their songs and adventures show what audiences admire. A tale of his judgment or his defeat of a cruel jarl carries that moral weight without establishing an actual court or a rule for removing rulers. Ordinary law belongs to the ting and the kingdom's officers.
+Vraldorv belongs to the [[doc-heroessgrd|Heroes of Asguard]], figures the skalds sing whether or not they ever lived, and the songs show what a hall admires. When a tale has him judge a quarrel or bring down a cruel jarl, the hall cheers the judgment; nobody takes the tale for a law. Real quarrels go to the ting and the kingdom's officers.
 
 ## The Healer's Cost
 
 [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] is a living female ideal. She heals a sick child at cost to her own strength, wanders between clans in service, and brings warnings her people may fear to hear. Her authority rests on knowledge, resolve and what she gives of herself. She does not need a husband's office or a warrior's victory to make that service worthy.
 
-The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] celebrate feeding and teaching through famine; those of [[being-krldthnshldbr|Krildthann Shieldbearer]] praise defence of the infirm. Like Vraldorv, these are figures of story rather than proof of a historical institution. Their appeal makes provision and protection recognizable forms of courage.
+The epic repertoire praises other forms of care. Tales of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] celebrate feeding and teaching through famine; those of [[being-krldthnshldbr|Krildthann Shieldbearer]] praise defence of the infirm. Like Vraldorv, they are figures of song, and the songs make feeding and protecting people count as courage.
 
 ## Rings, Runes and Remembered Words
 
@@ -57,7 +59,7 @@ The [[affiliation-skaldscrcl|Skalds' Circle]] trains singers to keep genealogies
 
 ## Near Gods and Daily Offerings
 
-The [[affiliation-asguardian|Asguardian Ten]] are near, demanding powers rather than distant abstractions. Worship joins shared stories, oaths and offerings across separate faiths. A household may keep a hörgr, a stone altar or cairn, for the first pour of the day's mead, a portion from slaughter or an offering before a journey. An ordinary person takes part without becoming a priest of any one god.
+The [[affiliation-asguardian|Asguardian Ten]] are near and demanding powers. Worship joins shared stories, oaths and offerings across separate faiths. A household may keep a hörgr, a stone altar or cairn, for the first pour of the day's mead, a portion from slaughter or an offering before a journey. An ordinary person takes part without becoming a priest of any one god.
 
 The central act is the blót: an offering and meal shared by gods, living people and the dead. Small household offerings fit daily work; the great communal blóts mark the seasons. At a hof, a shrine-house or hall, the local godi or gydja keeps the rites and witnesses public oaths. Domestic rune-staves guide small choices, while trained rune-priests interpret deeper currents of fate.
 
@@ -91,9 +93,9 @@ The five kingdoms hold their own assemblies. Every seventh year their kings and 
 
 ## Rites under the Ting's Peace
 
-At [[lore-sumarmal|Sumarmál]] a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the landvördr. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a person whose kin refuse that duty may return carrying the stone, still asking where to set it. The story makes a disputed boundary harder to forget; a ghost's word does not settle title before the ting.
+At [[lore-sumarmal|Sumarmál]] a frontier bóndi walks the boundary stones with the neighboring householder and a witness for the landvördr. They read each mark aloud and strike its stone so that both households can later say where the boundary lay. A stone found moved becomes a ting matter: the mover, or the mover's kin after death, must answer the claim. Tales say a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears the tale does not forget where a boundary runs, though the ting still settles title on the word of living witnesses.
 
-The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnaetr]] or on the ninth night of [[lore-jol|Jól]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. A private revelation cannot be entered as a skald's witnessed record; someone who acts on it must find living evidence. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace. Contact with the dead gives the seeker no authority to pronounce that sentence.
+The howe-wake seeks a different kind of answer. At [[lore-vetrnaetr|Vetrnaetr]] or on the ninth night of [[lore-jol|Jól]], a seeker may sit awake on a burial mound or at a crossroads to hear the dead. A völva's leave is customary and seldom given, for the dead may demand a truthful answer to a question of their own. What the dead tell one seeker in the dark is no skald's witnessed record, and anyone who acts on it must find living evidence first. When the wake is worked against a named person, the ting may judge the act a grave wrong and withdraw its peace from the seeker; the dead give no one the right to pronounce that sentence.
 
 ## Bonds and Claims at the Hall
 
@@ -101,7 +103,7 @@ Before a raiding season, sworn fighters may become oath-friends by passing benea
 
 Settlers making a land-taking carry posts from their former hall, set them where the draft animals stop, and walk the claimed bounds with fire before the next sunset. A woman may lead a heifer around land she means to hold. The walk gives witnesses a boundary to remember; it does not silence another household's earlier claim. On the Vrystwald frontier, walking fire around a grove claimed by a Varokhi clan brings two accounts of rightful land before people who may not recognize the same witnesses.
 
-At [[lore-vetrnaetr|Vetrnaetr]] the hall's búvördr seats its honored old by the door and serves them first. Tellers connect the door-seat to the Three Winters and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. Accounts differ over the alleged oath, while the present custom is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
+At [[lore-vetrnaetr|Vetrnaetr]] the hall's búvördr seats its honored old by the door and serves them first. Tellers connect the door-seat to the **Three Winters** and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath; the custom itself is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
 
 ## The Reckoning after Death
 
@@ -113,11 +115,11 @@ This belief reaches ordinary work. It weighs against a false oath and in favor o
 
 ## The Dead near Home
 
-The living include ancestors in offerings and may seek a völva's contact with the dead. She is fed at the jarl's table, sleeps by the hearth and receives hospitality for her counsel. Further gifts follow custom; there is no common fixed coin fee. The household's ordinary prayer, willing spirit contact and a meeting with a corporeal [[lore-haugverdir|hrúmverdir]] are distinct experiences.
+The living include ancestors in offerings and may seek a völva's contact with the dead. She is fed at the jarl's table, sleeps by the hearth and receives hospitality for her counsel. Further gifts follow custom; there is no common fixed coin fee. A household's prayer, a völva's willing contact with a spirit and a meeting with one of the corporeal [[lore-haugverdir|hrúmverdir]] are three different things, and the north keeps them apart.
 
-Nordmen fear **restless dead**, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. These practices concern particular places rather than a single rite that prevents all hauntings.
+Nordmen fear _restless dead_, local presences said to haunt some places and protect others. A guardian may protect a place or people with whom it has a bond without making strangers safe there. Travelers ask local custodians before approaching a known site. They avoid taking grave goods and may offer a gift where honoring the dead is customary. Each practice belongs to its own place; no single rite keeps every haunting away.
 
-If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local godi or gydja, and a völva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no universal cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the [[lore-haugverdir|hrúmverdir]] of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. Their presence does not establish that they died dishonorably, inhabit Nulthey, or are [[lore-nagengir|nágengir]] raised to serve [[affiliation-nahild|Náhild]].
+If a haunting harms people, kin first look for a disturbed site or unmet obligation. The local godi or gydja, and a völva when needed, mediate; a continuing threat can lead the community to bar the place or confront its guardian. The tales give these dead no single cause or destination. A presence without a body is a spirit; where the dead walk in their own bodies, as the hrúmverdir of the howes are said to, they carry [[lore-theshadow|the Shadow]] that every undead carries, whatever the local tale gives as the reason. A walking dead man is not thereby proven to have died dishonorably, to belong to Nulthey, or to be one of the [[lore-nagengir|nágengir]] raised to serve [[affiliation-nahild|Náhild]].
 
 ## What a Person Owes
 
@@ -137,7 +139,7 @@ A person who cannot work is still owed food and shelter by kin, then by the clan
 
 In a failed winter the jarl opens stores, and the ting allocates grain publicly by need and capacity. Children, incapacitated adults and elders retain a claim. Generosity is then measured in fair rationing rather than a splendid feast. A household's poverty makes the wider duty necessary; it does not turn abandonment into honorable conduct.
 
-The remembered **Three Winters** famine gives this duty a shameful story. Accounts of the kin-fell, in which elders were cast from a cliff, differ. Some skalds present the five kings' later oath as history; others see it as the form that famine memory took. The story's details do not establish the origin of hall credit. The present duty to honor and feed the old stands without proof of the cliff story.
+The remembered Three Winters famine gives this duty its shameful story: in the telling, the old of the poorest halls went over the kin-fell, a cliff, so that the young would eat. Some skalds recite the five kings' later oath as history; others call it the shape the famine's memory took. Nobody at the door-seat waits for the argument to finish, because the duty to honor and feed the old stands either way.
 
 ## When Kin Cannot Teach or Defend
 
