@@ -94,7 +94,7 @@ Visiting scholars are met at the gate of the [[place-rajavalilib|Rājavalī Libr
 
 ## The Fall of the Kingdom
 
-Rājapur was the capital of the [[lore-mhndkngdm|Kingdom of Mahānadī]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some two and a half centuries of flourishing, from the founding of its capital in the generation of [[lore-stndrdmdhv|the standardization at Madhusthāna]], in which it dominated the upper Mahānadī valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
+Rājapur was the later capital of the [[lore-mhndkngdm|Kingdom of Mahānadī]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some four centuries of flourishing. For the last two and a half of them it ruled from Rājapur, where its kings founded their capital in the year of [[lore-stndrdmdhv|the standardization at Madhusthāna]]. Across the four centuries it dominated the upper Mahānadī valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
 
 It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors.
 
@@ -181,7 +181,7 @@ The janapada has not been seriously threatened in living memory. The last armed 
 
 ## Commerce and Currency
 
-Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhā has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that the [[affiliation-mrchntclctvvdyr|Merchant Collective]] runs. Like every janapada it strikes no coin of its own; its river traders deal in the silver candra the [[place-moonhouse|Moon House]] strikes at Chandrapur and in whatever copper comes up the river. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+Rājapur holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], so its sabhā has a voice in the [[lore-vdyrnbnkng|Vedyaran banking system]] that the [[affiliation-mrchntclctvvdyr|Merchant Collective]] runs. Like every janapada it strikes no coin of its own; its river traders deal in the silver chandra the [[place-moonhouse|Moon House]] strikes at Chandrapur and in whatever copper comes up the river. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
 
 ## See Also
 
