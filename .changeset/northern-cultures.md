@@ -6,4 +6,4 @@
 
 **Undead lore** — Nágengir have their own account as Náhild's sentient servants, distinct from the local dead said to haunt or protect places.
 
-**Black Flame** — The Sons of Muspell now have a military order in Stormveld, with a campaign against Varokhi villages aimed at the Nordlands.
+**Black Flame** — The Sons of Eldheim now have a military order in Stormveld, with a campaign against Varokhi villages aimed at the Nordlands.

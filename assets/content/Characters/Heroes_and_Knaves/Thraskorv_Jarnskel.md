@@ -471,7 +471,7 @@ Thraskorv is consumed by two intertwined motivations: the visceral desire for fr
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Astrid the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Thilmynda the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Eidgar, once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
@@ -496,6 +496,6 @@ Thraskorv is forbidden from formal associations, but he maintains unofficial con
 
 3. **The Raid of the Unfree**: Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a genuine threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
 
-4. **The Jarl's Ambitious Son**: Jarl Hrandorv's younger son, **Ivar the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is genuine but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
+4. **The Jarl's Ambitious Son**: Jarl Hrandorv's younger son, **Hrindthann the Scholar**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is genuine but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
 
 5. **The Slave's Justice**: When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.

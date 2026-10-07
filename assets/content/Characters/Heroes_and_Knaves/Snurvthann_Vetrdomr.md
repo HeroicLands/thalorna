@@ -430,11 +430,11 @@ Snurvthann Vetrdómr is a man shaped by nearly five decades of exposure to wind,
 
 # Dossier {#dossier}
 
-Snurvthann was born in a small village in the Kingdom of Malagna to Hafthórr Vetrdómr, a thatcher of considerable skill, and Sigrun, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
+Snurvthann was born in a small village in the Kingdom of Malagna to Hafthórr Vetrdómr, a thatcher of considerable skill, and **Snirvselda**, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, Snurvthann spent his days watching his father repair and construct roofs, learning that thatching was a demanding craft requiring an understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
 
 Apprenticed at ten years old—when many would consider him too young—Snurvthann spent ten years training under his father, gradually building the strength, balance, and nerve required to work confidently at height. At twenty, Snurvthann took his first solo commission, and by thirty, had established himself as a master craftsperson whose work outlasted anyone else's in the region. His roofs last decades longer than typical—not through superior materials but through careful craftsmanship and understanding of the craft's finer points.
 
-At thirty-five, Snurvthann married Unthynda, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter Sigrun (named after his mother) left the village at twenty to seek opportunities in the capital; his son Hlarthann initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
+At thirty-five, Snurvthann married Unthynda, a farmer's daughter, and they had two children before she died in childbirth bearing a third five years into their marriage. Rather than withdraw into grief, Snurvthann threw himself into his work, eventually raising his two surviving children while maintaining his reputation. His daughter **Snarvselda** (named from his mother's stem) left the village at twenty to seek opportunities in the capital; his son Hlarthann initially worked alongside him but eventually chose the trade of shipwright instead, a disappointment Snurvthann has never entirely overcome. Now a widower of twelve years with adult children pursuing their own paths, Snurvthann works with undiminished dedication, though the physical demands are beginning to visibly weigh upon him.
 
 ## Psyche
 
@@ -471,7 +471,7 @@ Snurvthann seeks to maintain the highest standards of his craft, so that knowled
 The Farmer's Collective of Malagna's Outer Reaches
 : Agricultural families throughout the region contract Snurvthann for roof work, often waiting months for his availability. They consider his work worth the wait and the expense, trusting him implicitly with their family's primary shelter.
 
-Dún Ragnarsson, Local Hersvald
+Snilthmýl, Local Hersvald
 : The district leader maintains Snurvthann on semi-retainer, so that the Hersvald's hall and outlying buildings receive maintenance from the finest craftsperson available. This provides Snurvthann with steady work and prestige.
 
 The Temple of Mótefnir

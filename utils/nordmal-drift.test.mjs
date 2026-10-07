@@ -44,9 +44,8 @@ for (const [literal, retired] of [
     });
 }
 
-test("the order name is kept in any file but bare Muspell remains retired", () => {
-    const keep = table.keep.find((entry) => entry.literal === "Sons of Muspell");
-    assert.equal(keep.paths, undefined);
+test("a kept phrase protects the retired name inside it, and the bare name is still found", () => {
+    const keep = { literal: "Sons of Muspell", kinds: [] };
     const file = "assets/content/Lore/Bestiary/Constructs.md";
     const findings = checkDrift(
         [{ retired: "Muspell", replacement: "Eldheim", group: "mythfurniture", scoped: false }],

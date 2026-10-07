@@ -402,7 +402,7 @@ Gnirthann sits between two worlds in Thraldfjord society—too much a man of the
 
 ### Patrons
 
-**Harbor Master Thorvald Hnirvendikh**—The official administrator of Thraldfjord harbor. Thorvald is aging and has come to rely on Gnirthann absolutely for the actual working of the port's watch. He has explicitly protected Gnirthann from the new directives arriving from the capital, allowing him to continue managing the watch according to his own methods rather than the stricter enforcement the capital wants.
+**Harbor Master Hvalgthann Hnirvendikh**—The official administrator of Thraldfjord harbor. Hvalgthann is aging and has come to rely on Gnirthann absolutely for the actual working of the port's watch. He has explicitly protected Gnirthann from the new directives arriving from the capital, allowing him to continue managing the watch according to his own methods rather than the stricter enforcement the capital wants.
 
 ### Enemies
 
@@ -410,7 +410,7 @@ Gnirthann sits between two worlds in Thraldfjord society—too much a man of the
 
 ## Plot Hooks
 
-1. **The New Order**—Thraldfjord harbor receives new orders from the capital demanding stricter enforcement and elimination of the "gray market" practices that Gnirthann has been managing carefully. The new rules will disrupt lawful commerce and will require Gnirthann to actively persecute minor infractions that he has previously overlooked. Harbor Master Thorvald retires before the directives take effect. Gnirthann can enforce the new rules or keep to his established approach, knowing that refusing will cost him his position.
+1. **The New Order**—Thraldfjord harbor receives new orders from the capital demanding stricter enforcement and elimination of the "gray market" practices that Gnirthann has been managing carefully. The new rules will disrupt lawful commerce and will require Gnirthann to actively persecute minor infractions that he has previously overlooked. Harbor Master Hvalgthann retires before the directives take effect. Gnirthann can enforce the new rules or keep to his established approach, knowing that refusing will cost him his position.
 
 2. **The Captain's Mercy**—Gnirthann discovers definitive proof that Captain Helgen Svaltharukh is operating a slave trading operation through Thraldfjord harbor. The evidence is solid and prosecutable. But Gnirthann also discovers that one of the merchant captains he respects—**Captain Alsía Thraskendikh**—has inadvertently become entangled with Svaltharukh's operation through trading partnerships she did not realize were connected to slavery. Gnirthann can prosecute and destroy both Svaltharukh and Alsía, or he can suppress evidence about Alsía while moving against Svaltharukh separately. Thorough justice and mercy toward someone he respects cannot both be had.
 
@@ -418,4 +418,4 @@ Gnirthann sits between two worlds in Thraldfjord society—too much a man of the
 
 4. **The Corrupt Officer**—Gnirthann discovers that a younger harbor watch officer is taking bribes from Svaltharukh and feeding him information about guard movements and cargo inspections. The officer is talented and had seemed committed. Gnirthann realizes the officer is likely blackmailed (Gnirthann finds evidence that Svaltharukh has compromising letters between the officer and another man—homosexuality being illegal). Gnirthann can arrest his officer, which destroys him, or protect him, which makes Gnirthann complicit in corruption.
 
-5. **The Port Master's Dying Request**—Harbor Master Thorvald, now in his final illness, calls Gnirthann to his bedside and confesses that he has known about Svaltharukh's operations for years but has allowed them to continue. His reason: Svaltharukh has agreed to carry refugees fleeing political persecution, using his slave-trading as cover for their passage. The refugee network has saved hundreds of lives. Thorvald asks Gnirthann to continue protecting the operation after his death, knowing that it makes Gnirthann complicit in slavery while saving refugees. Clean hands and the greater good cannot both be kept.
+5. **The Port Master's Dying Request**—Harbor Master Hvalgthann, now in his final illness, calls Gnirthann to his bedside and confesses that he has known about Svaltharukh's operations for years but has allowed them to continue. His reason: Svaltharukh has agreed to carry refugees fleeing political persecution, using his slave-trading as cover for their passage. The refugee network has saved hundreds of lives. Hvalgthann asks Gnirthann to continue protecting the operation after his death, knowing that it makes Gnirthann complicit in slavery while saving refugees. Clean hands and the greater good cannot both be kept.

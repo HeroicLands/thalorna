@@ -90,7 +90,7 @@ The entry-level initiates are called Acolytes of Ash or simply Aspirants. These 
 
 Importantly, the Black Flame recognizes no single Grand Pontifex or supreme authority. Each Flame-Warden operates independently, though they may forge temporary alliances with other warlords for larger campaigns. This decentralized structure makes the faith difficult to suppress—destroying one leader or cell does not significantly weaken the faith as a whole. It also creates frequent internal conflicts, as competing warlords vie for dominance and followers. These conflicts are sometimes resolved through single combat, sometimes through open warfare, and sometimes through political maneuvering.
 
-The [[affiliation-sonsmuspell|Sons of Muspell]] are one of its military orders. They have gained ground in Stormveld and now try to seize Varokhi land as a route toward the wider Nordlands.
+The [[affiliation-sonsmuspell|Sons of Eldheim]] are one of its military orders. They have gained ground in Stormveld and now try to seize Varokhi land as a route toward the wider Nordlands.
 
 In Vylaria, where the Black Flame operates openly, the structure is somewhat more formalized. The faith maintains temples in several major cities where priests are registered with the imperial authorities. The High Flame-Warden of Vylaria (currently a position of considerable power and prestige) oversees the temples and maintains order between competing factions. However, even in Vylaria, the fundamental character of the faith remains: strength is the primary virtue, and authority is earned through demonstrated capability rather than bestowed by ecclesiastical rank.
 

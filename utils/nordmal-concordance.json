@@ -121,11 +121,6 @@
             "kinds": []
         },
         {
-            "literal": "Sons of Muspell",
-            "why": "the complete name of the Black Flame military order is distinct from the retired Asguardian fire-realm name; bare Muspell remains retired",
-            "kinds": []
-        },
-        {
             "literal": "Royal Kin",
             "why": "these are ranks of Dunhari and Vedyaran polities, not the retired Nordheimn rank Konungsaett",
             "paths": [
@@ -140,34 +135,10 @@
             "kinds": []
         },
         {
-            "literal": "Astrid",
-            "why": "several distinct, uncatalogued background figures across the corpus share this old name (patrons and an oracle in Torvald_Greenshield, Skuli_Vetrdomr, Snorri_Jarnskel, Sigfuss_Stormrot, Rakhimea_Khalithon and Athalwa_Vithrund); none is Astrid the Forsaken, and #605 does not extend to them",
-            "kinds": []
-        },
-        {
             "literal": "Ragnar",
-            "why": "distinct, uncatalogued figures share this old name (a high priest's title in Faith_of_Hel, patrons in Edwin_Garmon and Unnr_Eldskari); none is Ragnar the Reforged, and #605 does not extend to them",
-            "kinds": []
-        },
-        {
-            "literal": "Hrothgar",
-            "why": "distinct, uncatalogued patrons in Thornak_Mahnlin and Wulfhar_Theodwald share this old name; neither is Hrothgar Ironfist, and #605 does not extend to them",
-            "kinds": []
-        },
-        {
-            "literal": "Freydis",
-            "why": "a distinct, uncatalogued patron in Tabisa_Marinades shares this old name; not Freydis Silverhand, and #605 does not extend to her",
-            "kinds": []
-        },
-        {
-            "literal": "Björn",
-            "why": "a distinct, uncatalogued mentor (Björn Ashstrider, in Thjotharr_Hrafnsvald) shares this old name; not Björn Vetrdómr or Bjorn Stormborn, and #605 does not extend to him",
-            "kinds": []
-        },
-        {
-            "literal": "Sigurd",
-            "why": "a distinct, uncatalogued trader in Kiroba_of_the_Shokuma shares this old name; not Sigurd the Deceiver, and #605 does not extend to him",
-            "kinds": []
+            "why": "Edwin_Garmon is an Aelwythan being, and his patron Lord Ragnar is named under Aelwyth's own rule rather than Nordmal's; not Ragnar the Reforged",
+            "kinds": [],
+            "paths": ["assets/content/Characters/Occupations/Edwin_Garmon.md"]
         },
         {
             "literal": "Thórir",
@@ -418,36 +389,9 @@
             "membershipLevel": 1
         },
         {
-            "literal": "Thorvald",
-            "why": "distinct background figures outside the Heroes of Asguard share this Earth name; not Braldorv Embersteel, and the dossier rename does not extend to them",
-            "paths": [
-                "assets/content/Characters/Heroes_and_Knaves/Glirvrinna_Stormrot.md",
-                "assets/content/Characters/Occupations/Gnirthann_Vetrdomr.md"
-            ],
-            "kinds": []
-        },
-        {
-            "literal": "Torsten",
-            "why": "distinct background figures outside the Heroes of Asguard share this Earth name; not Hvilgmýl the Shipwright, and the dossier rename does not extend to them",
-            "paths": [
-                "assets/content/Characters/Heroes_and_Knaves/Dvarnvir_Hrafnsvald.md",
-                "assets/content/Characters/Heroes_and_Knaves/Knilthann_Skraldumakh.md"
-            ],
-            "kinds": []
-        },
-        {
-            "literal": "Ivar",
-            "why": "a distinct background figure outside the Heroes of Asguard shares this Earth name; not Thulmorv the Silencer, and the dossier rename does not extend to him",
-            "paths": ["assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md"],
-            "kinds": []
-        },
-        {
             "literal": "Sigrún",
-            "why": "an Aelwythan guard and a background priestess share this name; not Skilfrinna Eldhrund of the Storm-Speakers, and the order rename does not extend to them",
-            "paths": [
-                "assets/content/Characters/Occupations/Sigrun_Hafringr.md",
-                "assets/content/Characters/Heroes_and_Knaves/Kraldmyl_Vetrdomr.md"
-            ],
+            "why": "Sigrun_Hafringr is an Aelwythan guard named under Aelwyth's own rule rather than Nordmal's; not Skilfrinna Eldhrund of the Storm-Speakers",
+            "paths": ["assets/content/Characters/Occupations/Sigrun_Hafringr.md"],
             "kinds": []
         }
     ],
@@ -13977,7 +13921,15 @@
         },
         {
             "oldName": "Haugbúar",
-            "oldAliases": ["haugbúar", "Haugbúi", "Haugverdir", "haugverdir"],
+            "oldAliases": [
+                "haugbúar",
+                "Haugbúi",
+                "Haugverdir",
+                "haugverdir",
+                "Hélthrall",
+                "Hélthralls",
+                "draugr"
+            ],
             "oldPath": null,
             "oldShortcode": null,
             "oldAddress": null,
@@ -13993,14 +13945,18 @@
             "type": "lore",
             "subType": "bestiary",
             "description": "The north's howe-wardens: Náhild's mindless raised dead, and the dead said to keep their own mounds.",
-            "note": "howe-wardens, a common noun: _hrúm-_ \"a howe\" + `-verdir` \"wardens\". Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, written out rather than matched through an inflection; _Haugverdir_ and _haugverdir_ — built on _haug-_, the Old Norse word for a howe, which the Norse review recoined as _hrúm-_.",
+            "note": "howe-wardens, a common noun: _hrúm-_ \"a howe\" + `-verdir` \"wardens\". Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, written out rather than matched through an inflection; _Haugverdir_ and _haugverdir_ — built on _haug-_, the Old Norse word for a howe, which the Norse review recoined as _hrúm-_. Hélthrall and Hélthralls, the coinage from Hél for Náhild's mindless raised dead, and draugr, the Earth Norse word for the dead in their mounds, are retired into it; both uses are what the note already calls hrúmverdir.",
             "prose": "Hrúmverdir, the howe-wardens, is a northern word for undead put to two uses. Both name a body that moves after death, and both name something touched by the Shadow, which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.",
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5",
                 "754a84b67:assets/content/Lore/Bestiary/Undead.md:36:319",
                 "6e137b8c0:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:98:75",
                 "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Bestiary/Haugverdir.md:3:14",
-                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Bestiary/Haugverdir.md:15:82"
+                "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Lore/Bestiary/Haugverdir.md:15:82",
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Bestiary/Undead/Damut.md:3:39",
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_of_Asguard/Hvirnorv_the_Deathmage.md:372:275",
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Lore/Cultures/Nordheimn.md:116:335",
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_of_Asguard/Rilthorv_Runaskald.md:405:186"
             ],
             "boldKind": "phrase"
         },
@@ -15000,13 +14956,13 @@
         {
             "oldName": "Ivar",
             "oldAliases": null,
-            "oldPath": null,
+            "oldPath": "assets/content/Characters/Heroes_of_Asguard/Rilthorv_Runaskald.md",
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
             "newName": "Thulmorv",
             "newAliases": null,
-            "newPath": null,
+            "newPath": "assets/content/Characters/Heroes_of_Asguard/Rilthorv_Runaskald.md",
             "newShortcode": null,
             "newAddress": null,
             "newImage": null,
@@ -15075,13 +15031,13 @@
         {
             "oldName": "Torsten",
             "oldAliases": null,
-            "oldPath": null,
+            "oldPath": "assets/content/Characters/Heroes_of_Asguard/Hvulgselda_Sea_Bane.md",
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
             "newName": "Hvilgmýl",
             "newAliases": null,
-            "newPath": null,
+            "newPath": "assets/content/Characters/Heroes_of_Asguard/Hvulgselda_Sea_Bane.md",
             "newShortcode": null,
             "newAddress": null,
             "newImage": null,
@@ -15200,13 +15156,13 @@
         {
             "oldName": "Thorvald",
             "oldAliases": null,
-            "oldPath": null,
+            "oldPath": "assets/content/Characters/Heroes_of_Asguard/Murvselda_the_Enchantress.md",
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
             "newName": "Braldorv",
             "newAliases": null,
-            "newPath": null,
+            "newPath": "assets/content/Characters/Heroes_of_Asguard/Murvselda_the_Enchantress.md",
             "newShortcode": null,
             "newAddress": null,
             "newImage": null,
@@ -15892,13 +15848,13 @@
         {
             "oldName": "Sigrún",
             "oldAliases": null,
-            "oldPath": null,
+            "oldPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
             "oldShortcode": null,
             "oldAddress": null,
             "oldImage": null,
             "newName": "Skilfrinna",
             "newAliases": null,
-            "newPath": null,
+            "newPath": "assets/content/Affiliations/Organizations/Asguardian_Orders/Order_of_Storm_Speakers.md",
             "newShortcode": null,
             "newAddress": null,
             "newImage": null,
@@ -16378,6 +16334,381 @@
             "boldKind": "none",
             "oldRefPaths": [
                 "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Knalthrinna_Hafringr.md:430:210"
+            ]
+        },
+        {
+            "oldName": "Ragnar",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Althynda_Eldskari.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Draskorv",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Althynda_Eldskari.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_drask-_ (hard grade) — a light kept burning on a headland — + `-orv` (a man): Master Chandler Draskorv, Althynda Eldskari's rival chandler.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Althynda_Eldskari.md:496:17"
+            ]
+        },
+        {
+            "oldName": "Astrid",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Braldthann_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Knarvselda",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Braldthann_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_knarv-_ (hard grade) — a joint made to take strain — + `-selda` (a woman): Knarvselda Ringbinder, Braldthann Vetrdómr's former apprentice.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Braldthann_Vetrdomr.md:493:105"
+            ]
+        },
+        {
+            "oldName": "Torsten",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Dvarnvir_Hrafnsvald.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hlarthmýl",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Dvarnvir_Hrafnsvald.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_hlarth-_ (hard grade) — the slope a hall is set on — + `-mýl` (a man): Master Hlarthmýl Roofmaker, Dvarnvir Hrafnsvald's mentor.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Dvarnvir_Hrafnsvald.md:443:99"
+            ]
+        },
+        {
+            "oldName": "Thorvald",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Glirvrinna_Stormrot.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Knarvorv",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Glirvrinna_Stormrot.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_knarv-_ (hard grade) — a joint made to take strain — + `-orv` (a man): Master Craftsman Knarvorv the Practical, Glirvrinna Stormrót's critic.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Glirvrinna_Stormrot.md:481:18"
+            ]
+        },
+        {
+            "oldName": "Astrid",
+            "oldAliases": ["Astrid Gylvedóttir"],
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Hvarnthann_Stormrot.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Thruldynda",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Hvarnthann_Stormrot.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_thruld-_ (deep grade) — the pull of a current under calm water — + `-ynda` (a woman): Merchant Princess Thruldynda, Hvarnthann Stormrót's patron.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Hvarnthann_Stormrot.md:467:19"
+            ]
+        },
+        {
+            "oldName": "Torsten",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Knilthann_Skraldumakh.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Vrildorv",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Knilthann_Skraldumakh.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_vrild-_ (middle grade) — the weight a rope will take — + `-orv` (a man): Jarl Vrildorv the Unyielding.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Knilthann_Skraldumakh.md:471:6"
+            ]
+        },
+        {
+            "oldName": "Sigrún",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Kraldmyl_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Snarvthýra",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Kraldmyl_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_snarv-_ (hard grade) — the hour before weather arrives — + `-thýra` (a woman): High Priestess Snarvthýra in Kraldmýl Vetrdómr's dossier.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Kraldmyl_Vetrdomr.md:480:16"
+            ]
+        },
+        {
+            "oldName": "Björn",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Tvirnmýl",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_tvirn-_ (middle grade) — two things that must be counted as one — + `-mýl` (a man): Master Tailor Tvirnmýl Ashstrider, who joins cloth to cloth.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Skraldthann_Hrafnsvald.md:430:337"
+            ]
+        },
+        {
+            "oldName": "Sigrun",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Snirvselda",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_snirv-_ (middle grade) — the hour before weather arrives — + `-selda` (a woman): Snurvthann Vetrdómr's weather-wise mother, whose deep-graded son names his daughter Snarvselda from the same stem in the hard grade.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md:433:126"
+            ]
+        },
+        {
+            "oldName": "Dún Ragnarsson",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Snilthmýl",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_snilth-_ (middle grade) — the line frost leaves along a stone — + `-mýl` (a man): the local hersvald in Snurvthann Vetrdómr's dossier.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Snurvthann_Vetrdomr.md:474:1"
+            ]
+        },
+        {
+            "oldName": "Astrid",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Thilmynda",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_thilm-_ (middle grade) — the still air inside a drift — + `-ynda` (a woman): Thilmynda the Healer, who treats thrall injuries.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md:474:180"
+            ]
+        },
+        {
+            "oldName": "Ivar",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hrindthann",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_hrind-_ (middle grade) — a thing set down that will not be moved — + `-thann` (a man): Hrindthann the Scholar, the younger son Jarl Hrandorv named from his own stem.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Thraskorv_Jarnskel.md:499:65"
+            ]
+        },
+        {
+            "oldName": "Ragnarr",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Heroes_and_Knaves/Tvalgthann_Blotholl.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Vraldthann",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Heroes_and_Knaves/Tvalgthann_Blotholl.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_vrald-_ (hard grade) — the weight a rope will take — + `-thann` (a man): Duke Vraldthann of Vithgard.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Heroes_and_Knaves/Tvalgthann_Blotholl.md:470:6"
+            ]
+        },
+        {
+            "oldName": "Thorvald",
+            "oldAliases": null,
+            "oldPath": "assets/content/Characters/Occupations/Gnirthann_Vetrdomr.md",
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hvalgthann",
+            "newAliases": null,
+            "newPath": "assets/content/Characters/Occupations/Gnirthann_Vetrdomr.md",
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": null,
+            "note": "_hvalg-_ (hard grade) — a bay that shelters in any wind — + `-thann` (a man): Harbor Master Hvalgthann Hnirvendikh of Thraldfjord.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Characters/Occupations/Gnirthann_Vetrdomr.md:405:17"
+            ]
+        },
+        {
+            "oldName": "The Sons of Muspell",
+            "oldAliases": ["Sons of Muspell"],
+            "oldPath": "assets/content/Affiliations/Organizations/Aureldian_Orders/Sons_of_Muspell.md",
+            "oldShortcode": "sonsmuspell",
+            "oldAddress": "affiliation-sonsmuspell",
+            "oldImage": null,
+            "newName": "The Sons of Eldheim",
+            "newAliases": ["Sons of Eldheim"],
+            "newPath": "assets/content/Affiliations/Organizations/Aureldian_Orders/Sons_of_Eldheim.md",
+            "newShortcode": "sonsmuspell",
+            "newAddress": "affiliation-sonsmuspell",
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "affiliation",
+            "subType": "order",
+            "description": null,
+            "note": "The Black Flame order in Stormveld takes the north's own name for the fire-realm, Eldheim, in place of the Earth Norse Muspell it was named for; the shortcode keeps the old name.",
+            "prose": null,
+            "boldKind": "none",
+            "oldRefPaths": [
+                "4fcf51ec7be901bb2c11d956111be3703884ea75:assets/content/Affiliations/Organizations/Aureldian_Orders/Sons_of_Muspell.md:3:14"
             ]
         }
     ],
