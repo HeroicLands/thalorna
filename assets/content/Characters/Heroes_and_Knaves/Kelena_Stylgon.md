@@ -462,7 +462,7 @@ Kêlena operates from multiple, sometimes contradictory motivations. On the surf
 
 ### Patrons
 
-The Duke of Ravenshold
+The Duke of [[place-ravenshold|Ravenshold]]
 : A powerful noble of considerable influence who has maintained a relationship with Kêlena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
 
 Merchant-Prince Hávral Covens

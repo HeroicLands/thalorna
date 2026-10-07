@@ -421,7 +421,7 @@ Sélvara was born in a coastal village in northern [[place-tarvenirgn|Tarvénia]
 
 ### The War
 
-Sélvara joined the Haradian rebellion the same night, following Shâ into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Shâ led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of Tamzîr Shoals, where she earned a reputation for cold-blooded efficiency under fire. By the war's end, she was a hardened veteran at eighteen.
+Sélvara joined the Haradian rebellion the same night, following Shâ into a conflict that would consume the next four years of her life. She proved to be a natural warrior—disciplined, fearless, and relentlessly competent. Where Shâ led with charisma and tactical cunning, Sélvara was the steady hand that turned his plans into reality. She fought in the brutal Battle of [[place-tamzirshoals|Tamzîr Shoals]], where she earned a reputation for cold-blooded efficiency under fire. By the war's end, she was a hardened veteran at eighteen.
 
 ### After the War
 

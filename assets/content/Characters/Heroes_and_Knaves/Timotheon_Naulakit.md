@@ -492,7 +492,7 @@ Lady Merchant Theresia
 
 ### Enemies
 
-The Ravenswood Brigands
+The [[place-ravenswood|Ravenswood]] Brigands
 : A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Timothéon famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
 
 Merchant Castellan Thorne

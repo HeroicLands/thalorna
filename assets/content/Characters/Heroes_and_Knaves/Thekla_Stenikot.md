@@ -461,7 +461,7 @@ Thêkla is motivated by a desire to protect those who cannot protect themselves.
 
 ### Patrons
 
-The Village Council of Marshfeld
+The Village Council of [[place-marshfeld|Marshfeld]]
 : A agrarian community that hires Thêkla annually to protect against bandits and raiders. **Elder Magistrate Tomás** has become a mentor figure, offering wisdom and support.
 
 Lady Khatunéla Lysandáhr

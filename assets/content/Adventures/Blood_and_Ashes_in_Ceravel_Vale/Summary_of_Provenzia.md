@@ -33,15 +33,15 @@ The kingdom's religious tolerance is another area of cultural complexity. While 
 
 - **King Aldrévan alrí Lédravren**: The reigning monarch of Provènzia, King Aldrévan strives to maintain unity in a kingdom marked by cultural and political divisions. Known for his pragmatic leadership, he faces challenges from both ambitious nobles and external threats from Tarvénia.
 
-- **Princess of Gwéfavel**: A powerful magnate whose clan's influence was diminished under the previous king. Resentful of past failures, she focuses on restoring her family’s prestige, leveraging her stronghold in Gwéfavel to exert significant regional influence.
+- **Princess of [[place-gwefavel|Gwéfavel]]**: A powerful magnate whose clan's influence was diminished under the previous king. Resentful of past failures, she focuses on restoring her family’s prestige, leveraging her stronghold in Gwéfavel to exert significant regional influence.
 
-- **Earl of Dégavel (Rútal alrí Pélanvri)**: A prominent and influential noble, the Earl of Dégavel is embroiled in political rivalries, particularly with the Count of Áthavel. His leadership in the southern regions of Provènzia gives him significant sway in both court politics and military strategy.
+- **Earl of [[place-degavel|Dégavel]] (Rútal alrí Pélanvri)**: A prominent and influential noble, the Earl of Dégavel is embroiled in political rivalries, particularly with the Count of [[place-athavel|Áthavel]]. His leadership in the southern regions of Provènzia gives him significant sway in both court politics and military strategy.
 
-- **Jârvel al Pélanvri**: Brother to the Earl of Dégavel and a key military leader, Jârvel serves as the Élgâr of Céravel Castle and **Marshal of the Western Army** of Provènzia. Tasked with defending the kingdom’s easternmost frontier, his command is critical in managing both banditry and incursions from Tarvénia.
+- **Jârvel al Pélanvri**: Brother to the Earl of Dégavel and a key military leader, Jârvel serves as the Élgâr of [[place-caerceravel|Céravel Castle]] and **Marshal of the Western Army** of Provènzia. Tasked with defending the kingdom’s easternmost frontier, his command is critical in managing both banditry and incursions from Tarvénia.
 
 - **Count of Áthavel**: A politically embattled noble facing internal family disputes. His clashes with the Earl of Dégavel reflect broader struggles among the magnates, which weaken the kingdom’s cohesion during times of external threat.
 
-- **Álegar alrí Zûravel**: Baron of Zûravlen and Kývarel, Álegar is a prominent supporter of the Order of the Burning Brand. His clan’s alignment with this religious faction places him at the center of significant political and spiritual influence.
+- **Álegar alrí Zûravel**: Baron of [[place-zuravlenrgn|Zûravlen]] and [[place-kyvarel|Kývarel]], Álegar is a prominent supporter of the Order of the Burning Brand. His clan’s alignment with this religious faction places him at the center of significant political and spiritual influence.
 
 - **Avaârl alrí Zylávren**: Earl of Hárivren and the most senior Black Flame noble in Provènzia, Avaârl commands great respect and power. As Álegar’s overlord, he exemplifies the integration of nobility with the religious hierarchy, further complicating Provènzia’s cultural and political landscape.
 
@@ -65,8 +65,8 @@ Externally, Provènzia remains under constant threat from Tarvénia, whose ruler
 
 #### Céravel, Tarvénia, and Léravren
 
-**Céravel** serves as a critical frontier region for Provènzia, encompassing several manorial estates and villages anchored by its castle town. Céravel is commanded by Jârvel al Pélanvri, who manages defenses against Tarvénia. The area is also troubled by banditry, which local lords, such as **Târlas al Pélanvri**, work to suppress. Its position near the southeastern border makes it a frequent flashpoint for conflict, with local lords balancing the demands of defense, governance, and trade.
+[[place-ceravelvale|Céravel]] serves as a critical frontier region for Provènzia, encompassing several manorial estates and villages anchored by its castle town. Céravel is commanded by Jârvel al Pélanvri, who manages defenses against Tarvénia. The area is also troubled by banditry, which local lords, such as **Târlas al Pélanvri**, work to suppress. Its position near the southeastern border makes it a frequent flashpoint for conflict, with local lords balancing the demands of defense, governance, and trade.
 
-**Léravren** lies to the northeast of Céravel and serves as a gateway to the mountains and forests vital for resources and trade. The region is also closely associated with the Black Flame Order, particularly through the Zur clan. **Kâldin al Lénavel**, lord of Léravren, is a key player in the unfolding political and religious conflicts. His connections to the Zur clan and the Black Flame faith deepen the complexity of both local governance and regional intrigue.
+[[place-leravren|Léravren]] lies to the northeast of Céravel and serves as a gateway to the mountains and forests vital for resources and trade. The region is also closely associated with the Black Flame Order, particularly through the Zur clan. **Kâldin al Lénavel**, lord of Léravren, is a key player in the unfolding political and religious conflicts. His connections to the Zur clan and the Black Flame faith deepen the complexity of both local governance and regional intrigue.
 
 **Tarvénia** remains the greatest external threat to Provènzia, persistently challenging its southeastern borders. A larger and more unified neighbor, Tarvénia exploits Provènzia’s internal divisions and vulnerabilities. Its skirmishes along the contested territories exacerbate tensions, draining resources and testing the kingdom’s fragile unity.

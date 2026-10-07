@@ -465,7 +465,7 @@ Captain Merillos
 Merchant House Polytimós
 : A trading concern that occasionally employs him for high-value cargo transport, respecting the family name connection and the competence he represents.
 
-The Harbor Master of Thessálon
+The Harbor Master of [[place-thessalon|Thessálon]]
 : A bureaucrat who values Akákios's honest assessments of vessel condition and occasionally redirects ship repair contracts his way.
 
 ### Enemies

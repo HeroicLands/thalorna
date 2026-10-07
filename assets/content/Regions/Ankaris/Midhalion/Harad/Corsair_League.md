@@ -32,7 +32,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 # headquarters: city-of-kethara
 ---
 
-The Corsair League is Harad's maritime guild—an organization that blurs the line between legitimate shipping, naval power, and outright piracy depending on the political weather. Founded by the captains and admirals who won the [[affiliation-cnfdrtnhrdnstts|Battle of Tamzîr Shoals]], the League was originally a fraternity of war veterans. It has since evolved into a powerful shipping cartel that controls much of Harad's merchant marine and provides the Confederation's de facto navy.
+The Corsair League is Harad's maritime guild—an organization that blurs the line between legitimate shipping, naval power, and outright piracy depending on the political weather. Founded by the captains and admirals who won the Battle of [[place-tamzirshoals|Tamzîr Shoals]], the League was originally a fraternity of war veterans. It has since evolved into a powerful shipping cartel that controls much of Harad's merchant marine and provides the Confederation's de facto navy.
 
 ## Character
 

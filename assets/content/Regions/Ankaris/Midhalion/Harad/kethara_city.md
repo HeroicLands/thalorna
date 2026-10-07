@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 180000, gover
 
 ## Overview
 
-Every year Kethara holds a Fleet Review, and the whole city turns out to watch its own ships. The Review commemorates the Battle of Tamzîr Shoals, and it draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]. Kethara is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the strait between the mainland and the Haradian archipelago, and it built the fleet that won that battle. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
+Every year Kethara holds a Fleet Review, and the whole city turns out to watch its own ships. The Review commemorates the Battle of [[place-tamzirshoals|Tamzîr Shoals]], and it draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]. Kethara is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the strait between the mainland and the Haradian archipelago, and it built the fleet that won that battle. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
 
 ## The Fortress and the Yards
 

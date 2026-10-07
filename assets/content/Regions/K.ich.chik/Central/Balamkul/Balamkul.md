@@ -104,5 +104,5 @@ Ix'ilankul is also the hub of the Ch'um Ix'lan, the great relay network of Ch'um
 - [[affiliation-kiikbaate|Ki'ik Ba'ate]]—The isthmus gateway, where highland and coastal trade routes intersect
 - [[affiliation-tzikin|Tz'ikin]]—The eastern frontier, source of exotic goods and sacred materials
 - [[affiliation-itzanpnthn|Itzáni Pantheon]]—The divine framework that grants Ix'ilankul its religious authority
-- Tz'aqal K'ul—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
+- [[place-tzaqalkul|Tz'aqal K'ul]]—The Sacred Foundation, holiest pilgrimage site in K'ich'chik
 - [[place-balamkulrgn|Ix'ilankul Region]]—The land Ix'ilankul holds

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 3000, governm
 
 ## Palatium Magnum—The Grand Palace
 
-Rising above everything else within [[place-urbsaquiln|Urbs Aquilion]], over the crown of **Mons Aquila**, stands the **Palatium Magnum**—the largest and grandest single structure in [[place-magnapolis|Magnápolis]], and therefore in all the known western world. To call it a building flatters the word. It is less a palace than a small city of its own: tier upon tier of marble halls, colonnaded courtyards, hanging gardens, private baths, throne rooms, and audience chambers, climbing in terraces up and over the hill until the whole summit seems carved into one continuous work of architecture. From the city below, the eye cannot tell where the living rock of the Eagle Hill ends and the masonry of the palace begins.
+Rising above everything else within [[place-urbsaquiln|Urbs Aquilion]], over the crown of [[place-monsaquila|Mons Aquila]], stands the **Palatium Magnum**—the largest and grandest single structure in [[place-magnapolis|Magnápolis]], and therefore in all the known western world. To call it a building flatters the word. It is less a palace than a small city of its own: tier upon tier of marble halls, colonnaded courtyards, hanging gardens, private baths, throne rooms, and audience chambers, climbing in terraces up and over the hill until the whole summit seems carved into one continuous work of architecture. From the city below, the eye cannot tell where the living rock of the Eagle Hill ends and the masonry of the palace begins.
 
 ### The Fabric
 

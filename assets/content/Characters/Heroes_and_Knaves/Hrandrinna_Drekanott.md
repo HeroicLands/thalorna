@@ -491,7 +491,7 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 ### Patrons
 
-The Thegn of Vallsey, Lord Erikson
+The Thegn of [[place-glarvey|Glarvey]], Lord Erikson
 : The regional lord has engaged Hrandrinna for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within what he can pay. Lord Erikson has become one of her most consistent and reliable clients.
 
 The Farmers' Collective of the Northern Reach

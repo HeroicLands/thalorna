@@ -504,7 +504,7 @@ The Royal Guard of Malagna
 The Order of the Lion's Heart
 : An informal fraternity of veteran soldiers who have survived significant military engagements. They meet occasionally to share war stories and honor fallen comrades.
 
-The Garrison at Stonewatch
+The Garrison at [[place-dvilgborg|Dvilgborg]]
 : The specific military installation where Gnaldrthann is Master-at-Arms, training recruits and managing daily operations.
 
 ## Plot Hooks

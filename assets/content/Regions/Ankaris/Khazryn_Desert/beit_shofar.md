@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [swoasisbelt], population: 3000, govern
 
 ## Overview
 
-For most of the year **Beit-Shōfár** is a settlement of 3,000 at the foot of Mt. Shōfar. At the summer festival it is a camp of fifty thousand. The priestly seat of the [[affiliation-tribestrzd|Tribes of Ātárzád]] holds the Council of the Twelve, the common treasury and the Unconsuming Flame, and every adult of the Flame-born is expected to make the pilgrimage here at least once before death. Many come every year.
+For most of the year **Beit-Shōfár** is a settlement of 3,000 at the foot of [[place-mountshofar|Mt. Shōfar]]. At the summer festival it is a camp of fifty thousand. The priestly seat of the [[affiliation-tribestrzd|Tribes of Ātárzád]] holds the Council of the Twelve, the common treasury and the Unconsuming Flame, and every adult of the Flame-born is expected to make the pilgrimage here at least once before death. Many come every year.
 
 ## The Flame
 

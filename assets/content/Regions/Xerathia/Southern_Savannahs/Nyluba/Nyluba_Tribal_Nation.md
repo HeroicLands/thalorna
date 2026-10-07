@@ -142,7 +142,7 @@ Second: a spear against one is a spear against five.
 
 ## The Great Indaba
 
-The **Great Indaba** is the working institution of the Nyáluba. It convenes every fourth dry season at **Indala-Bomba**, an ancient stone enclosure in the southeastern highlands—one of the great Old Kraals—that the Ngonzi maintain as the Indaba ground. It lasts roughly six weeks, during which delegations from each of the five clans camp in apportioned grounds outside the enclosure and conduct their business in formal session within.
+The **Great Indaba** is the working institution of the Nyáluba. It convenes every fourth dry season at [[place-indalabomba|Indala-Bomba]], an ancient stone enclosure in the southeastern highlands—one of the great Old Kraals—that the Ngonzi maintain as the Indaba ground. It lasts roughly six weeks, during which delegations from each of the five clans camp in apportioned grounds outside the enclosure and conduct their business in formal session within.
 
 Each clan sends a delegation of the same size—usually thirty to fifty people—composed of the clan's paramount, the paramount's senior advisors, the paramount's senior griot, the clan's three or four most experienced shamans, and a contingent of younger lineage representatives who are present primarily to observe and learn. The total assembled body is around two hundred people, plus several hundred more in support roles outside the enclosure.
 

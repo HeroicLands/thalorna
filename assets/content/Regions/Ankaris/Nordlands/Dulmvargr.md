@@ -12,7 +12,7 @@ There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a
 
 ## The Hound at the Landing
 
-Dulmvargr lies chained at the landing of [[place-nulthey|Nulthey]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthey. It keeps them in. A Hofgodi at **Lögstead**, where Eidgar's hof and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
+Dulmvargr lies chained at the landing of [[place-nulthey|Nulthey]], the island where the dead who kept nothing pass to fade. It does not keep the dead out; nobody needs to be kept out of Nulthey. It keeps them in. A Hofgodi at [[place-logstead|Lögstead]], where Eidgar's hof and the kingdom's ting sit under one roof, teaches the hound as the law's oldest problem made into a beast: a judgment that holds a man must hold him for as long as the judgment stands, and a chain is only as good as the hand on its other end.
 
 Nobody has seen it, and the tellings describe it by what it does rather than what it looks like. It bays when a ship of the unworthy dead touches the shore, and the skalds say a dying oath-breaker hears that baying before he hears anything else. It is a hound and not a wolf, which is the one point of its shape every hall agrees on.
 

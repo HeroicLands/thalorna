@@ -13,7 +13,7 @@ they were and what they are.
 
 For most of the island's history they held the whole of the north-east—the great plain, the mountains
 above it and the valleys within them, something like **a fifth of Aelwyth's land area**—in a nation
-the Aelwythans called **Vardanreach**, and and they were the one human people in the world with a standing,
+the Aelwythans called [[place-vardanreach|Vardanreach]], and they were the one human people in the world with a standing,
 mutually valued relationship with the [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]]. That
 lasted thousands of years.
 
