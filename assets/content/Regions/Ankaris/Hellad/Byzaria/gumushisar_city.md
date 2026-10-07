@@ -18,7 +18,7 @@ A military governor and a council of merchant-princes govern Gümüşhisar. The 
 
 ## Character
 
-The city is more austere than the other League cities: less ornate, more functional, with the disciplined air of a garrison. The silver mines in the surrounding peaks fund the League's collective defense and give the city a political weight beyond its size, and the mines support a community of skilled engineers and metalworkers. The monasteries of the eastern rite are especially influential here. Their monks serve as chroniclers and healers, and as occasional diplomatic intermediaries with the peoples beyond the passes.
+The city is more austere than the other League cities: less ornate, more functional, with the disciplined air of a garrison. The silver mines in the surrounding peaks fund the League's collective defense and give the city a political weight beyond its size, and the mines support a community of skilled engineers and metalworkers. The monasteries of the eastern rite are especially influential here. Their monks are the city's chroniclers and healers and its occasional diplomatic intermediaries with the peoples beyond the passes.
 
 ## See Also
 

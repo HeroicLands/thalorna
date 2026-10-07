@@ -22,7 +22,7 @@ A council of merchant-princes and the admiralty govern Denizara. The admiralty m
 
 ## Making a Living
 
-Denizara lives on transfer. Eastern goods arrive from [[place-altinkale2|Altinkale]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of Mídhalión and Xerathia for a thousand years.
+Denizara lives on transfer. Eastern goods arrive from [[place-altinkale2|Altinkale]] by the lowland road and leave in League and foreign hulls; western goods make the journey in reverse. Its captains have traded with the coasts of [[place-midhalnrgn|Mídhalión]] and [[place-xerathia|Xerathia]] for a thousand years.
 
 ## See Also
 

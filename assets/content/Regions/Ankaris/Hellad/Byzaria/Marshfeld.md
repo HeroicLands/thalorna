@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [byzariargn], packFolder: byzaria}
 
 ## Overview
 
-Marshfeld is a farming village of [[place-byzariargn|Byzaría]] governed by **the Village Council of Marshfeld**, and like many farming villages on the open country it cannot keep its own fields safe through the raiding season. Its answer is a contract. Every year the council hires [[being-theklastnkt|Thêkla Steníkot]], a mercenary of [[place-kostaros|Kostaros]], to protect the village against bandits and raiders.
+Marshfeld is a farming village of [[place-byzariargn|Byzaría]] that cannot keep its own fields safe through the raiding season, so it hires someone who can. Every year its governing body, **the Village Council of Marshfeld**, contracts [[being-theklastnkt|Thêkla Steníkot]], a mercenary of [[place-kostaros|Kostaros]], to protect the village against bandits and raiders. A mercenary who returns every year is worth more to the council than a stranger who takes the money once, and Thêkla has returned for years.
 
 ## The Magistrate
 
-The council's senior figure is **Elder Magistrate Tomás**, who has become a mentor to Thêkla over the years of her contract, offering her wisdom and support beyond the business of the season.
+The council's senior figure is **Elder Magistrate Tomás**, who has become a mentor to Thêkla over the years of her contract and offers her wisdom and support beyond the business of the season.
 
 ## See Also
 
