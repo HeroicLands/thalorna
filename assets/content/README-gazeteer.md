@@ -65,12 +65,21 @@ A real-world comparison that helps a later author belongs in a `# terran_analog:
 comment in the note's frontmatter. It is a comment, never a field, and never
 visible prose, so it does not reach the content index or the built pages.
 
-Two cases sit outside the rule. A pronunciation aid may cite a real language
-("front-rounded, as in German _schön_"), because it tells a reader how a sound
-is made and says nothing about the setting. An in-world name that derives from a
-real place is the owner's to approve; where a note has no approved name, it
-refers to the place by its role ("the island trading port off the coast") and
-leaves the Earth name in the comment.
+**No Earth proper name appears in the corpus.** That covers languages,
+countries, regions, cities, peoples, religions, mythologies, real persons and
+works of fiction, and the reader's own language and a "Common tongue" with them.
+Only the Terran analogs note and `# terran_analog:` comments may name them. The
+rule concerns names, not vocabulary: a word a culture's tongue shares with a real
+language may stand, and no page names that language.
+
+- A romanization is called a romanization, never "Latin" spelling.
+- A pronunciation guide describes the sound ("a rasp at the back of the throat,
+  as when clearing it") and names no language.
+- An in-world name that derives from a real place is the owner's to approve;
+  where a note has no approved name, it refers to the place by its role ("the
+  island trading port off the coast") and leaves the Earth name in the comment.
+
+`utils/no-earth-names.test.mjs` enforces the rule.
 
 ## Explain through concrete moments
 

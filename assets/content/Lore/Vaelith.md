@@ -13,7 +13,7 @@ data:
   packFolder: setting
 ---
 
-**Vaelith** is Thalorna's only moon, 3,800 kilometers across on a circular and inclined orbit some 388,600 kilometers out. It is a large moon, nearly thirty percent of the planet's own diameter, and it hangs visibly bigger in the sky than the moon a Terran reader remembers. Its orbit never varies, so its distance never varies either, and the world has no notion of a moon that looms larger at some times than others.
+**Vaelith** is Thalorna's only moon, 3,800 kilometers across on a circular and inclined orbit some 388,600 kilometers out. It is a large moon, nearly thirty percent of the planet's own diameter, and it hangs visibly bigger in the sky than a moon of ordinary size would. Its orbit never varies, so its distance never varies either, and the world has no notion of a moon that looms larger at some times than others.
 
 ## The Cycle
 
@@ -23,7 +23,7 @@ Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, 
 **For the GM:** A campaign that opens on that date begins under a new moon, on the first morning of spring.
 :::
 
-The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a Terran coastline knows. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of [[affiliation-kinultqan|K'in'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
+The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a smaller moon would raise. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of [[affiliation-kinultqan|K'in'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
 
 ## The Five Days, Three Times Over
 

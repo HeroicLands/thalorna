@@ -68,7 +68,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Pronunciation: _kheh-LAH-thee_, the _kh_ as in Scottish _loch_
+Pronunciation: _kheh-LAH-thee_, the _kh_ a rasp at the back of the throat, as when clearing it
 
 "Leave the contract at the archive," a priest tells a merchant who has come to the temple forecourt to pray about a debt. "The scribe will read it back to you for a fee, and nothing I say changes a word of it. Come in here when you want to ask whether you have been a good son. That one only the gods are keeping."
 

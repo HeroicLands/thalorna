@@ -41,7 +41,7 @@ Across Thalornan barter economies, certain goods recur as the practical _stores 
 - **Grain** (wheat, barley, rye, oats—varies by region). The most universal money-good. Stored in granaries against future need, transported in standardized measures, accepted everywhere.
 - **Livestock** (sheep, goats, cattle, horses). Self-transporting, self-reproducing, accepted everywhere that animals can be kept. The dominant store of wealth in pastoral economies.
 - **Furs** (in the Nordlands, Vrystwald, and northern regions). High value-to-weight ratio; trade-grade furs (sable, ermine, fox, beaver) are essentially currency.
-- **Sealskins and walrus-ivory** (Nordic coastal regions). Specialty money-goods of the northern coasts.
+- **Sealskins and walrus-ivory** (Nordland coastal regions). Specialty money-goods of the northern coasts.
 - **Fine cloth** (linen, wool, silk where available). High value-to-weight; widely accepted in all sophisticated cultures.
 - **Iron tools** (axes, plowshares, knives). Durable; valuable; useful even when not used as money.
 - **Salt** (in inland and deep-interior regions far from coastal salt sources). Essential for food preservation; consistent demand.
@@ -79,7 +79,7 @@ Barter has structural limitations that drive cultures toward currency once the c
 - **Long-distance trade.** Most barter operates within a region; long-distance commerce nearly always requires either currency or a credit system, because the goods can't be reliably carried across the distance.
 - **Time horizon.** Most money-goods have a shelf life (livestock die, grain spoils, even furs degrade) that limits how long value can be held in barter form.
 
-Where these limitations bite hard enough, cultures develop formal currency. Where they don't, barter persists indefinitely—as it has in the Khazryn steppe, the Nordic interior, and the southern savannahs for generations.
+Where these limitations bite hard enough, cultures develop formal currency. Where they don't, barter persists indefinitely—as it has in the Khazryn steppe, the Nordland interior, and the southern savannahs for generations.
 
 ## See Also
 

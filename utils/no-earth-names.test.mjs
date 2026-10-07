@@ -42,7 +42,7 @@ const EXEMPT_FILES = new Set([
  * The concordance records the Earth names the corpus replaced; these keys hold
  * the replaced name or the path it sat at, which is the record's whole purpose.
  */
-const RECORDED_KEY = /^\s*"(?:oldName|oldAliases|oldPath|oldRefPaths)"/;
+const RECORDED_KEY = /^\s*(?:"(?:oldName|oldAliases|oldPath|oldRefPaths)"|"[0-9a-f]{7,}:assets\/)/;
 const CONCORDANCE = "utils/nordmal-concordance.json";
 
 /** A line carrying this marker is a comment for later authors. */
@@ -339,6 +339,10 @@ export const CURATED = [
     "Shiva",
     "Vishnu",
     "Brahma",
+    "Indra",
+    "Rudra",
+    "Ayodhya",
+    "Ayodhyā",
     "Ganesha",
     "Krishna",
     "Kali",

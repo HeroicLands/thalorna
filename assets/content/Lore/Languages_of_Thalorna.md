@@ -109,7 +109,7 @@ The Khazári treat the matter as obvious and deny it was any kind of uplift—wh
 ## Romanizing Thalorna
 
 Thalorna's tongues are written in their own hands—runic rows, the Sêmarion
-alphabet, the Khelâthi signs, or nothing at all. Every Latin spelling in these
+alphabet, the Khelâthi signs, or nothing at all. Every spelling in these
 pages is therefore a romanization, and one rule governs all of them, in every
 language and not only the northern ones: **a romanized name has to be typeable.**
 
@@ -120,7 +120,7 @@ name that has been hidden rather than decorated.
 
 The line falls in a precise place, and it is not where it looks. An accented
 letter is an ordinary letter wearing a mark: á, ê, ö, ñ and š all reduce to
-a, e, o, n and s on their own, so a search for _harn_ finds Hârn without
+a, e, o, n and s on their own, so a search for _khelathi_ finds Khelâthi without
 anybody arranging it. Thorn, eth, ash, slashed o and eszett are not accented
 letters at all—they are separate letters, with no plain letter inside them to
 reduce to, so a search for _thorr_ can never reach a name spelled with a thorn.
@@ -136,7 +136,7 @@ so a page of them either falls back to some unrelated face or prints as empty
 boxes.
 
 So the language notes describe their sounds the way a traveler's phrasebook
-does—_the "a" of "about"_, _the rasp of Scottish "loch"_—and tone is
+does—_the "a" of "about"_, _the rasp at the back of the throat, as when clearing it_—and tone is
 numbered 1 to 5 rather than drawn as pitch bars. It is a plainer instrument, and
 it reaches a reader who has never studied phonetics. Nobody searched for a schwa
 either.

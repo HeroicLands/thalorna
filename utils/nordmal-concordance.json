@@ -1243,7 +1243,7 @@
             "type": "lore",
             "subType": "mythfurniture",
             "description": null,
-            "note": "_aldar_ \"the age's\" + _lok_ \"close\" — the Age's Close; the skalds' kenning \"the Fall of the Ash\". The one address this programme moves: the note held `lore-ragnarok`, nothing in `assets/content` referenced it, and name, shortcode and path now agree. `renamedFrom:` is the toolchain's way to declare a vacated address and `package-build lint` rejects the key, so the move is recorded here alone. Other forms: _Ragnarök_ — marked spelling of Ragnarok.",
+            "note": "_aldar_ \"the age's\" + _lok_ \"close\" — the Age's Close; the skalds' kenning \"the Fall of the Ash\". The one address this programme moves: the note held `lore-ragnarok`, nothing in `assets/content` referenced it, and name, shortcode and path now agree. `renamedFrom:` is the toolchain's way to declare a vacated address and `package-build lint` rejects the key, so the move is recorded here alone.",
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Regions/Ankaris/Nordlands/Ragnarok.md:3:14",
@@ -2308,7 +2308,7 @@
             "type": "place",
             "subType": "settlement",
             "description": null,
-            "note": "held from a god under the theophoric clause: Ódinn's settled name _Ódvar_ (concordance, deity) clipped to its first element _ód-_, + _-holm_ (unchanged) — the note is explicit that the settlement grew up around Odin's own temple and \"was founded in the age of heroes, when Odin himself walked the earth,\" the corpus's clearest case of a place held from a god rather than from the ground alone",
+            "note": "held from a god under the theophoric clause: Ódinn's settled name _Ódvar_ (concordance, deity) clipped to its first element _ód-_, + _-holm_ (unchanged) — the note is explicit that the settlement grew up around the god's own temple and \"was founded in the age of heroes, when the god himself walked the earth,\" the corpus's clearest case of a place held from a god rather than from the ground alone",
             "prose": null,
             "oldRefPaths": [
                 "b71855eb9:assets/content/Regions/Ankaris/Nordlands/Nordheim/Ravensholm.md:3:14"
@@ -5827,7 +5827,7 @@
             "type": "lore",
             "subType": "deity",
             "description": null,
-            "note": "the deity's own lore article, sharing thorr's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _thrún-_ \"thunder\" + _-vald_ \"wielder\". No art: the lore article carries no icon slot. Other forms: _Thór_ — bare form without the strong -r, written only as the decoration on a rank-ladder rung (\"Thór Allsherjargodi\", \"Thor High Priest\"); gone with the ladder.",
+            "note": "the deity's own lore article, sharing thorr's theonym with the affiliation row (a shortcode is unique only within one type, so the rename touches all three independently) — see that row for the etymology: _thrún-_ \"thunder\" + _-vald_ \"wielder\". No art: the lore article carries no icon slot. Other forms: _Thór_ — bare form without the strong -r, written only as the decoration on a rank-ladder rung (\"Thór Allsherjargodi\"); gone with the ladder.",
             "prose": null,
             "oldRefPaths": [
                 "6e137b8c0:assets/content/Lore/Deities/Asguardian/Thorr.md:3:14",
@@ -7866,7 +7866,7 @@
             "subType": "theology",
             "description": "The giant-kin defeated by the Ten, with Hrímthur killed and the rest banished to Thursguard.",
             "prose": "Thursaett names the giant-kin the Ten fought before the world stood. In the Asguardian account, the gods defeated them and drove the surviving kin into Thursguard, a plane of their own. Hrímthur alone was killed rather than banished, and the Ten cut Mannguard from his body. The tradition gives the giant-kin their place on the defeated side of that founding war without describing their life inside the plane that confines them.",
-            "note": "`thurs-` \"a giant\" + `-aett` \"a kin reckoned together\" — built to stand against Ásvinir, the defending kin, which is the same shape: a kin-word for the gods' side wants a kin-word for the side they beat. The plain word is \"giant\", which the corpus already writes for Hrímthur and for the Giant's Children; a Greek term for the class would be the same borrowing as Aesir, which this programme retires.",
+            "note": "`thurs-` \"a giant\" + `-aett` \"a kin reckoned together\" — built to stand against Ásvinir, the defending kin, which is the same shape: a kin-word for the gods' side wants a kin-word for the side they beat. The plain word is \"giant\", which the corpus already writes for Hrímthur and for the Giant's Children; a term from an Earth tongue for the class would be the same borrowing as Aesir, which this programme retires.",
             "oldRefPaths": [
                 "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Asguardian_Pantheon.md:71:111",
                 "f974870e6450b556fbf78c96cb2365c0ad9ccade:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hrimthur.md:42:84",
@@ -13941,7 +13941,7 @@
             "type": "lore",
             "subType": "bestiary",
             "description": "The north's howe-wardens: Náhild's mindless raised dead, and the dead said to keep their own mounds.",
-            "note": "howe-wardens, a common noun: _hrúm-_ \"a howe\" + `-verdir` \"wardens\". Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, written out rather than matched through an inflection; _Haugverdir_ and _haugverdir_ — built on _haug-_, the Old Norse word for a howe, which the Norse review recoined as _hrúm-_. Hélthrall and Hélthralls, the coinage from Hél for Náhild's mindless raised dead, and draugr, the Earth Norse word for the dead in their mounds, are retired into it; both uses are what the note already calls hrúmverdir.",
+            "note": "howe-wardens, a common noun: _hrúm-_ \"a howe\" + `-verdir` \"wardens\". Other forms: _haugbúar_ — lower-case form; _Haugbúi_ — singular of Haugbúar, written out rather than matched through an inflection; _Haugverdir_ and _haugverdir_ — built on _haug-_, the Earth word for a howe, which the northern-tongue review recoined as _hrúm-_. Hélthrall and Hélthralls, the coinage from Hél for Náhild's mindless raised dead, and draugr, the Earth word for the dead in their mounds, are retired into it; both uses are what the note already calls hrúmverdir.",
             "prose": "Hrúmverdir, the howe-wardens, is a northern word for undead put to two uses. Both name a body that moves after death, and both name something touched by the Shadow, which binds every undead to every other across every belief and culture. The two uses keep their own meanings, and the word does not make one of the other.",
             "oldRefPaths": [
                 "e13afb5f2:assets/content/Affiliations/Divine/Asguardian/Faith_of_Hel.md:73:5",
@@ -14618,7 +14618,7 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": "The mothers of the older clans laid beneath the stones at Hörgsvangr.",
-            "note": "_hrúm-_ \"a howe\" with a genitive `-s` + `-módir` \"a mother\": the howe's mothers. haugmaedr carried _haug-_, recoined as _hrúm-_ because it was the Old Norse word for a howe, and _maedr_, which is no published element.",
+            "note": "_hrúm-_ \"a howe\" with a genitive `-s` + `-módir` \"a mother\": the howe's mothers. haugmaedr carried _haug-_, recoined as _hrúm-_ because it was the Earth word for a howe, and _maedr_, which is no published element.",
             "prose": null,
             "oldRefPaths": [
                 "8f18005fcbb4abb47f472f6c83f84ca4e1b6c4f2:assets/content/Regions/Ankaris/Nordlands/Nordheim/History/Nordheim_Histories.md:64:57"
@@ -14693,7 +14693,7 @@
             "type": "namestock",
             "subType": "mythfurniture",
             "description": "The praise-poem a skald's apprentice presents at a Skaldating to be sworn into the Circle.",
-            "note": "_gyldr-_ \"a praise-poem\", a root of its own, in the vocabulary's own form _gyldra_. drápa is the Old Norse word for the same thing, so the owner retired it. An ordinary word rather than a name, so the name rules do not judge it.",
+            "note": "_gyldr-_ \"a praise-poem\", a root of its own, in the vocabulary's own form _gyldra_. drápa is the Earth word for the same thing, so the owner retired it. An ordinary word rather than a name, so the name rules do not judge it.",
             "prose": null,
             "oldRefPaths": [
                 "c94d79e1074901c1a13ce87a9a670a2e15f60ff8:assets/content/Affiliations/Organizations/Skalds_Circle.md:18:83",
@@ -14720,7 +14720,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hlask-_ (hard grade) — the hush that follows heavy snow — + `-ynda` (a woman): the jarl of Hvulgdal. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier. The old name Astrid already has a row of its own, so this row records it here rather than entering it twice.",
+            "note": "_hlask-_ (hard grade) — the hush that follows heavy snow — + `-ynda` (a woman): the jarl of Hvulgdal. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier. The old name Astrid already has a row of its own, so this row records it here rather than entering it twice.",
             "prose": null,
             "boldKind": "none"
         },
@@ -14742,7 +14742,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_gnarth-_ (hard grade) — the set of a jaw that will not open — + `-vir` (a man): Jarl Gnarthvir the Vengeful. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_gnarth-_ (hard grade) — the set of a jaw that will not open — + `-vir` (a man): Jarl Gnarthvir the Vengeful. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14767,7 +14767,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_snarv-_ (hard grade) — the hour before weather arrives — + `-thann` (a man): the corrupt jarl Dvirnmýl ruined. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_snarv-_ (hard grade) — the hour before weather arrives — + `-thann` (a man): the corrupt jarl Dvirnmýl ruined. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14792,7 +14792,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_dvalg-_ (hard grade) — sleep taken standing, on watch — + `-mýl` (a man): the captain of the city watch at Gnaldrholm. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_dvalg-_ (hard grade) — sleep taken standing, on watch — + `-mýl` (a man): the captain of the city watch at Gnaldrholm. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14817,7 +14817,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_svulth-_ (deep grade) — the cold that comes off open water — + `-orv` (a man): the warlock Hvilgthýra banished. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_svulth-_ (deep grade) — the cold that comes off open water — + `-orv` (a man): the warlock Hvilgthýra banished. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14842,7 +14842,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_krald-_ (hard grade) — a load a beast carries without complaint — + `-orv` (a man): Jarl Kraldorv the Miser. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_krald-_ (hard grade) — a load a beast carries without complaint — + `-orv` (a man): Jarl Kraldorv the Miser. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14867,7 +14867,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_snirv-_ (middle grade) — the hour before weather arrives — + `-ynda` (a woman): the madam called the Silver-Tongued. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_snirv-_ (middle grade) — the hour before weather arrives — + `-ynda` (a woman): the madam called the Silver-Tongued. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14892,7 +14892,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_vruld-_ (deep grade) — the weight a rope will take — + `-mýl` (a man): the slaver who sold Knirvthýra. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_vruld-_ (deep grade) — the weight a rope will take — + `-mýl` (a man): the slaver who sold Knirvthýra. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14917,7 +14917,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hrund-_ (deep grade) — a thing set down that will not be moved — + `-vir` (a man): Jarl Hrundvir Blackwood, his glossed title Lord made a jarl. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_hrund-_ (deep grade) — a thing set down that will not be moved — + `-vir` (a man): Jarl Hrundvir Blackwood, his glossed title Lord made a jarl. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14942,7 +14942,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_tvarn-_ (hard grade) — two things that must be counted as one — + `-mýl` (a man): the merchant Tvarnmýl Ironfist. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_tvarn-_ (hard grade) — two things that must be counted as one — + `-mýl` (a man): the merchant Tvarnmýl Ironfist. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14967,7 +14967,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_thulm-_ (deep grade) — the still air inside a drift — + `-orv` (a man): Thulmorv the Silencer. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_thulm-_ (deep grade) — the still air inside a drift — + `-orv` (a man): Thulmorv the Silencer. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -14992,7 +14992,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hvurn-_ (deep grade) — water that will not freeze — + `-mýl` (a man): the jarl of Snarvfjord. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_hvurn-_ (deep grade) — water that will not freeze — + `-mýl` (a man): the jarl of Snarvfjord. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15017,7 +15017,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_gnildr-_ (middle grade) — floes grinding on one another — + `-mýl` (a man): the rival seer Gnildrmýl Iron-Eye. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_gnildr-_ (middle grade) — floes grinding on one another — + `-mýl` (a man): the rival seer Gnildrmýl Iron-Eye. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15042,7 +15042,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hvilg-_ (middle grade) — a bay that shelters in any wind — + `-mýl` (a man): Hvulgselda's father, one grade before hers and on her onset, as a hall names its generations. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_hvilg-_ (middle grade) — a bay that shelters in any wind — + `-mýl` (a man): Hvulgselda's father, one grade before hers and on her onset, as a hall names its generations. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15067,7 +15067,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_gnaldr-_ (hard grade) + `-rinna` (a woman), one `r` written at the bound seam: Jarl Gnaldrinna the Reaver. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_gnaldr-_ (hard grade) + `-rinna` (a woman), one `r` written at the bound seam: Jarl Gnaldrinna the Reaver. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15092,7 +15092,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_snulth-_ (deep grade) — the line frost leaves along a stone — + `-vir` (a man): Hersvald Snulthvir the Acquitted, his glossed title Thane made a hersvald. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_snulth-_ (deep grade) — the line frost leaves along a stone — + `-vir` (a man): Hersvald Snulthvir the Acquitted, his glossed title Thane made a hersvald. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15117,7 +15117,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_vruth-_ (deep grade) — the temper iron takes from the fire — + `-mýl` (a man): Jarl Vruthmýl the Cruel. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_vruth-_ (deep grade) — the temper iron takes from the fire — + `-mýl` (a man): Jarl Vruthmýl the Cruel. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15142,7 +15142,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_vrild-_ (middle grade) — the weight a rope will take — + `-thann` (a man): the king of the Northern Court. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_vrild-_ (middle grade) — the weight a rope will take — + `-thann` (a man): the king of the Northern Court. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15167,7 +15167,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_brald-_ (hard grade) — a fire banked to keep overnight — + `-orv` (a man): Jarl Braldorv Embersteel, patron of Vrithorv and Vruthvir. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_brald-_ (hard grade) — a fire banked to keep overnight — + `-orv` (a man): Jarl Braldorv Embersteel, patron of Vrithorv and Vruthvir. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15192,7 +15192,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hvarn-_ (hard grade) — water that will not freeze — + `-selda` (a woman): the widow of Ralthvík. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_hvarn-_ (hard grade) — water that will not freeze — + `-selda` (a woman): the widow of Ralthvík. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15217,7 +15217,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_skrald-_ (hard grade) — a cry the wind carries further than it should — + `-vir` (a man): Jarl Skraldvir Stormbreaker. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_skrald-_ (hard grade) — a cry the wind carries further than it should — + `-vir` (a man): Jarl Skraldvir Stormbreaker. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15242,7 +15242,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_vrath-_ (hard grade) + `-thann` (a man), one `th` written at the bound seam: Jarl Vrathann Wolfson. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_vrath-_ (hard grade) + `-thann` (a man), one `th` written at the bound seam: Jarl Vrathann Wolfson. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15267,7 +15267,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_brild-_ (middle grade) — a fire banked to keep overnight — + `-mýl` (a man): the Hofgodi of Braldfjall, his glossed title High Priest made the faith's own. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_brild-_ (middle grade) — a fire banked to keep overnight — + `-mýl` (a man): the Hofgodi of Braldfjall, his glossed title High Priest made the faith's own. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15292,7 +15292,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_knirv-_ (middle grade) — a joint made to take strain — + `-mýl` (a man): the envious rival smith. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_knirv-_ (middle grade) — a joint made to take strain — + `-mýl` (a man): the envious rival smith. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15317,7 +15317,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hrund-_ (deep grade) + `-orv` (a man): the village elder Tvilgorv saved. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_hrund-_ (deep grade) + `-orv` (a man): the village elder Tvilgorv saved. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15342,7 +15342,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_skruld-_ (deep grade) — a cry the wind carries further than it should — + `-orv` (a man): the deposed jarl. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_skruld-_ (deep grade) — a cry the wind carries further than it should — + `-orv` (a man): the deposed jarl. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15367,7 +15367,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_gnurth-_ (deep grade) — the set of a jaw that will not open — + `-mýl` (a man): Hersvald Gnurthmýl Gnirthvirsen, his glossed title Thane made a hersvald; his patronymic Ketilsson becomes _Gnirthvirsen_, his father Gnirthvir one grade before him. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_gnurth-_ (deep grade) — the set of a jaw that will not open — + `-mýl` (a man): Hersvald Gnurthmýl Gnirthvirsen, his glossed title Thane made a hersvald; his patronymic Ketilsson becomes _Gnirthvirsen_, his father Gnirthvir one grade before him. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15418,7 +15418,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_flurn-_ (deep grade) — a flake of stone split off by frost — + `-ynda` (a woman): Flurnynda Flirnvirsdóttir, the widow who funds Rilthorv; her patronymic Halvsdottir becomes _Flirnvirsdóttir_, her father Flirnvir one grade before her. Freya is also an Earth goddess's name. a name-stem in a bestowal ending under the given-name rule; replaces an Earth Norse name in a Heroes of Asguard dossier.",
+            "note": "_flurn-_ (deep grade) — a flake of stone split off by frost — + `-ynda` (a woman): Flurnynda Flirnvirsdóttir, the widow who funds Rilthorv; her patronymic Halvsdottir becomes _Flirnvirsdóttir_, her father Flirnvir one grade before her. The old name is also an Earth goddess's name. a name-stem in a bestowal ending under the given-name rule; replaces an Earth name in a Heroes of Asguard dossier.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15834,7 +15834,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_thrild-_ (middle grade) — the pull of a current under calm water — + `-mýl` (a man): Voice Thrildmýl Hamarsmál of the Storm-Speakers. replaces an Earth Norse given name on a leader of a northern order or the Compact.",
+            "note": "_thrild-_ (middle grade) — the pull of a current under calm water — + `-mýl` (a man): Voice Thrildmýl Hamarsmál of the Storm-Speakers. replaces an Earth given name on a leader of a northern order or the Compact.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15859,7 +15859,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_skilf-_ (middle grade) — the shudder in ice before it gives — + `-rinna` (a woman): Captain Skilfrinna Eldhrund. replaces an Earth Norse given name on a leader of a northern order or the Compact.",
+            "note": "_skilf-_ (middle grade) — the shudder in ice before it gives — + `-rinna` (a woman): Captain Skilfrinna Eldhrund. replaces an Earth given name on a leader of a northern order or the Compact.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15884,7 +15884,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_hrund-_ (deep grade) + `-thann` (a man): Voice Hrundthann Steinhönd of the Giant's Children. Hrungnir is also an Earth giant's name. replaces an Earth Norse given name on a leader of a northern order or the Compact.",
+            "note": "_hrund-_ (deep grade) + `-thann` (a man): Voice Hrundthann Steinhönd of the Giant's Children. Hrungnir is also an Earth giant's name. replaces an Earth given name on a leader of a northern order or the Compact.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15909,7 +15909,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_svilth-_ (middle grade) — the cold that comes off open water — + `-vir` (a man): Father Svilthvir Eldskari. replaces an Earth Norse given name on a leader of a northern order or the Compact.",
+            "note": "_svilth-_ (middle grade) — the cold that comes off open water — + `-vir` (a man): Father Svilthvir Eldskari. replaces an Earth given name on a leader of a northern order or the Compact.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15934,7 +15934,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_thulm-_ (deep grade) — the still air inside a drift — + `-rinna` (a woman): Speaker Thulmrinna Grönmál. replaces an Earth Norse given name on a leader of a northern order or the Compact.",
+            "note": "_thulm-_ (deep grade) — the still air inside a drift — + `-rinna` (a woman): Speaker Thulmrinna Grönmál. replaces an Earth given name on a leader of a northern order or the Compact.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -15959,7 +15959,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_knilth-_ (middle grade) — an oath that binds without being written — + `-vir` (a man): Voice Knilthvir Lögstadar of the Sworn Hand. replaces an Earth Norse given name on a leader of a northern order or the Compact. The old name Hróaldr already has a row of its own, so this row records it here rather than entering it twice.",
+            "note": "_knilth-_ (middle grade) — an oath that binds without being written — + `-vir` (a man): Voice Knilthvir Lögstadar of the Sworn Hand. replaces an Earth given name on a leader of a northern order or the Compact. The old name Hróaldr already has a row of its own, so this row records it here rather than entering it twice.",
             "prose": null,
             "boldKind": "none"
         },
@@ -15981,7 +15981,7 @@
             "type": "being",
             "subType": "given",
             "description": null,
-            "note": "_vrild-_ (middle grade) — the weight a rope will take — + `-selda` (a woman): Captain Vrildselda Eldskari of the Hringstead Long-Ship Fellowship. replaces an Earth Norse given name on a leader of a northern order or the Compact. The old name Brynhildr already has a row of its own, so this row records it here rather than entering it twice.",
+            "note": "_vrild-_ (middle grade) — the weight a rope will take — + `-selda` (a woman): Captain Vrildselda Eldskari of the Hringstead Long-Ship Fellowship. replaces an Earth given name on a leader of a northern order or the Compact. The old name Brynhildr already has a row of its own, so this row records it here rather than entering it twice.",
             "prose": null,
             "boldKind": "none"
         },
@@ -16053,7 +16053,7 @@
             "type": "namestock",
             "subType": "rank",
             "description": null,
-            "note": "`hrím-`, rime, + `-blenn`, one made clean: what the Giant's Children call a candidate. Respelled because `-skírdr` was recoined as `-blenn` in the Norse review.",
+            "note": "`hrím-`, rime, + `-blenn`, one made clean: what the Giant's Children call a candidate. Respelled because `-skírdr` was recoined as `-blenn` in the northern-tongue review.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
@@ -16957,7 +16957,7 @@
             "type": "affiliation",
             "subType": "order",
             "description": null,
-            "note": "The Black Flame order in Stormveld takes the north's own name for the fire-realm, Eldheim, in place of the Earth Norse Muspell it was named for; the shortcode keeps the old name.",
+            "note": "The Black Flame order in Stormveld takes the north's own name for the fire-realm, Eldheim, in place of the Earth Muspell it was named for; the shortcode keeps the old name.",
             "prose": null,
             "boldKind": "none",
             "oldRefPaths": [
