@@ -88,7 +88,7 @@ that arm is [[lore-thebargain|a separate matter]], and it is not in any account 
 
 The last city fell in 312 BF.
 
-What the Senate made afterward was not a college but a **magistracy**. The
+What the Senate made afterward was a _magistracy_. The
 **Praefectura Arcana** held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under a prefect who changed with the year's magistracies. It had a register and a
 garrison and no doctrine. Its registered mages were state property, lent out to whoever the Senate
