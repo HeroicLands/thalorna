@@ -53,11 +53,11 @@ data:
       - level: 8
         title: Presiding K'ul Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
     offices:
       Presiding K'ul Tq'an: >-
         High priest of the solar pyramid and first hierarch of the city-state; his reading of the cycle fixes when every other temple may act.
-      Ah K'in: >-
+      K'inbal: >-
         Sun-Sayer—computes the solstice hours and the length of the year, and announces the day on which the great rites fall.
       Keeper of the Binding: >-
         Leads the chant that holds the sun to its path of return at the winter solstice, when the K'inmah opens his own veins into the eternal flames.
@@ -80,6 +80,8 @@ data:
   relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
 sohl: {system: {commonSkills: [kinultqan]}}
+
+# terran_analog: the K'inbal is the Maya ah k'in, the sun-priest and day-keeper; the K'ayik Kul'al is the New Fire ceremony
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle
@@ -100,7 +102,7 @@ Vows made to K'in'ul Tq'an are the heaviest a Ki'ichek can undertake, because th
 
 The great solar pyramids of K'in'ul Tq'an are always the tallest structures in any city, their peaks the first to catch dawn light. The K'ul Tq'an of K'in'ul Tq'an's temple is the most politically powerful religious figure in any city-state—the supreme voice of cosmic order. When a king dies, it is the K'ul Tq'an who determines whether the gods approve the heir's succession, a power that has elevated and destroyed dynasties.
 
-Beneath him the solar branch is the largest and the most rigidly ordered of the specialist branches, and alone among them it is organized as a chain of command rather than as a college of experts. The **Ah K'in** and his computers hold the solar calculations; the **Keeper of the Binding** and the **Master of the Channels** hold the solstice rites themselves; the **Master of Ascent** holds the terraces, and with them the visible order of precedence by which every noble house in the city learns each year where it stands. That last office is trivial in doctrine and enormous in practice, and its holder is courted accordingly.
+Beneath him the solar branch is the largest and the most rigidly ordered of the specialist branches, and alone among them it is organized as a chain of command rather than as a college of experts. The **K'inbal** and his computers hold the solar calculations; the **Keeper of the Binding** and the **Master of the Channels** hold the solstice rites themselves; the **Master of Ascent** holds the terraces, and with them the visible order of precedence by which every noble house in the city learns each year where it stands. That last office is trivial in doctrine and enormous in practice, and its holder is courted accordingly.
 
 Recruitment favors the well-born, in deliberate contrast to the meritocratic astronomers of [[affiliation-ixilanchalix|Ix'ilan Ch'alix]]. A solar Tq'an'ik is usually the second or third son of a noble house, given to the temple young; the branch argues that the rites require men who can stand unmoved before a crowd of thousands and that such bearing is bred rather than taught. The astronomers reply, privately, that the solar priests need well-born initiates because they borrow the calculations they cannot make themselves. Both claims are partly true, and the friction between them is a permanent feature of temple politics.
 
@@ -108,7 +110,7 @@ The branch's wealth comes from the tribute of the K'inmah's own estates, from a 
 
 ## Relations
 
-The solar branch's closest and least troubled partnership is with the fire-keepers of [[affiliation-kayikchul|K'ayik Ch'ul]]. The two priesthoods share a single theological premise—that the sun is the fire at the world's edge and the hearth-flame its lesser kin—and they share the eternal flames themselves, which the fire-keepers tend and the solar priests use. At the New Fire Ceremony the two act as one body, and the Presiding K'ul Tq'an ascends the pyramid with the highest fire-priests beside him rather than behind him, a precedence granted to no other branch.
+The solar branch's closest and least troubled partnership is with the fire-keepers of [[affiliation-kayikchul|K'ayik Ch'ul]]. The two priesthoods share a single theological premise—that the sun is the fire at the world's edge and the hearth-flame its lesser kin—and they share the eternal flames themselves, which the fire-keepers tend and the solar priests use. At the **K'ayik Kul'al** ("the Living Flame") the two act as one body, and the Presiding K'ul Tq'an ascends the pyramid with the highest fire-priests beside him rather than behind him, a precedence granted to no other branch.
 
 With the astronomers of Ix'ilan Ch'alix the relationship is cooperative in fact and resentful in tone. The solstice hours, the eclipse warnings and the fifty-two-year realignment all come from the observatories, and the solar priesthood cannot function without them; but the goddess of knowledge is held to know when the Fifth Age will end, which is precisely the knowledge the solar branch claims to guard. Presiding K'ul Tq'ans have more than once ordered an astronomical prediction suppressed, and the astronomers have more than once let it be known that they were overruled.
 

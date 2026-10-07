@@ -43,9 +43,8 @@ for (const [literal, retired] of [
     });
 }
 
-test("the order name is kept in any file but bare Muspell remains retired", () => {
-    const keep = table.keep.find((entry) => entry.literal === "Sons of Muspell");
-    assert.equal(keep.paths, undefined);
+test("a kept phrase protects the retired name inside it, and the bare name is still found", () => {
+    const keep = { literal: "Sons of Muspell", kinds: [] };
     const file = "assets/content/Lore/Bestiary/Constructs.md";
     const findings = checkDrift(
         [{ retired: "Muspell", replacement: "Eldheim", group: "mythfurniture", scoped: false }],
@@ -69,6 +68,62 @@ test("a global keep entry still protects its spelling everywhere", () => {
         [keep],
         files,
         new Set(),
+        tally(),
+    );
+    assert.deepEqual(findings, []);
+});
+
+test("a retired name written without its marks is found in Nordmal material", () => {
+    const file = "assets/content/Characters/Heroes_and_Knaves/Example.md";
+    const findings = checkDrift(
+        [{ retired: "Hróarr", replacement: "Hrindvir", group: "given", scoped: false }],
+        [],
+        [{ file, raw: "Her father, Hroarr, and Hróarr's wagons." }],
+        new Set([file]),
+        tally(),
+    );
+    assert.equal(findings.length, 2);
+    assert(findings.some((one) => one.startsWith(`${file}:1:13: error: retired name "Hroarr"`)));
+    assert(findings.some((one) => one.startsWith(`${file}:1:25: error: retired name "Hróarr"`)));
+});
+
+test("the unmarked spelling is another tongue's word outside Nordmal material", () => {
+    const file = "assets/content/Skills/Languages/Vylari.md";
+    const findings = checkDrift(
+        [{ retired: "Magnús", replacement: "Flurnvir", group: "given", scoped: false }],
+        [],
+        [{ file, raw: "Magnus is a Vylarian name; Magnús is not." }],
+        new Set(),
+        tally(),
+    );
+    assert.equal(findings.length, 1);
+    assert(findings[0].includes(`retired name "Magnús" survives`));
+});
+
+test("a row that retires only a spelling's marks is matched as written", () => {
+    const file = "assets/content/Regions/Ankaris/Nordlands/Example.md";
+    const pair = { retired: "Lögskaldar", replacement: "Lögskáld", group: "rank", scoped: false };
+    const files = [{ file, raw: "the Lögskáldar sit, and the Lögskaldar do not" }];
+    const asWritten = checkDrift(
+        [{ ...pair, foldable: false }],
+        [],
+        files,
+        new Set([file]),
+        tally(),
+    );
+    assert.equal(asWritten.length, 1);
+    assert(asWritten[0].startsWith(`${file}:1:29:`));
+    const folded = checkDrift([pair], [], files, new Set([file]), tally());
+    assert.equal(folded.length, 2);
+});
+
+test("a kept word protects its unmarked spelling from the fold", () => {
+    const file = "assets/content/Regions/Ankaris/Nordlands/Example.md";
+    const findings = checkDrift(
+        [{ retired: "Sígrun", replacement: "x", group: "given", scoped: false }],
+        [{ literal: "Sigrún", kinds: [] }],
+        [{ file, raw: "Sigrun speaks" }],
+        new Set([file]),
         tally(),
     );
     assert.deepEqual(findings, []);

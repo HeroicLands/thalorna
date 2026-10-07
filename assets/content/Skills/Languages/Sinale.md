@@ -337,12 +337,13 @@ The language has **absorbed almost no borrowings** from other tongues, and the r
 
 ### Words older than the rules
 
-A handful of the oldest words keep shapes the regular language no longer makes: the people's name for itself, which holds a back vowel and a front one together, and a few names as old, which close on the hearth ending of the Primordial layer, _-nna_. They are spoken as they have always been spoken, and nothing new is made on their pattern:
+A handful of the oldest words keep shapes the regular language no longer makes: the people's name for itself, which holds a back vowel and a front one together, and a few names as old, which close on the hearth ending of the Primordial layer, _-nna_, or on its front form _-nnë_, which that layer set after a stem of neutral vowels. They are spoken as they have always been spoken, and nothing new is made on their pattern:
 
-| Form       | Gloss                                                    | Layer      |
-| ---------- | -------------------------------------------------------- | ---------- |
-| _Sinalë_   | the people's name for themselves and their tongue        | Primordial |
-| _Haulonna_ | the hearth of the unfallen leaf; an enclave of the north | Primordial |
+| Form       | Gloss                                                             | Layer      |
+| ---------- | ----------------------------------------------------------------- | ---------- |
+| _Sinalë_   | the people's name for themselves and their tongue                 | Primordial |
+| _Haulonna_ | the hearth of the unfallen leaf; an enclave of the north          | Primordial |
+| _Sirmennë_ | the hearth of the first stone; a ruin in the northern borderlands | Primordial |
 
 The singular, _Sinalo_ "one of the Sinalë", is not among them. It holds back and neutral vowels only and is a regular word of the language.
 

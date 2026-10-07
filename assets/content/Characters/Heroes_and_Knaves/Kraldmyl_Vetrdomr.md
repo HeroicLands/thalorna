@@ -477,7 +477,7 @@ Master Carpenter Thorgrim
 The Builders' Collective
 : An informal association of craftsmen engaged in major construction projects in Nordheim's cities depends on Kraldmýl for special timber that must meet exacting standards; they pay well and do not question his methods.
 
-High Priestess Sigrún
+High Priestess Snarvthýra
 : The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
 Alderman Bórrin

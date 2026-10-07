@@ -1,6 +1,6 @@
 ---
 shortcode: sonsmuspell
-name: {full: The Sons of Muspell, aliases: [Sons of Muspell]}
+name: {full: The Sons of Eldheim, aliases: [Sons of Eldheim]}
 type: affiliation
 subType: order
 description: "A Black Flame military order established in Stormveld and campaigning to seize Varokhi land as a way into the Nordlands."
@@ -18,7 +18,7 @@ data:
       - level: 1
         title: Order Warrior
         description: >-
-          A warrior of the Sons of Muspell, fighting in a military band of the Black Flame under its Blazewarden.
+          A warrior of the Sons of Eldheim, fighting in a military band of the Black Flame under its Blazewarden.
     offices: {Blazewarden: Commander of an order warband and its campaign.}
   seat: null
   domains: []
@@ -30,7 +30,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Sons of Muspell** are a military order within [[affiliation-blackflame|the Black Flame]], the Ústaran faith that treats fire as a means of purification and conquest. They fight under their own name and commanders rather than forming the whole faith's army.
+The **Sons of Eldheim** are a military order within [[affiliation-blackflame|the Black Flame]], the Ústaran faith that treats fire as a means of purification and conquest. They fight under their own name and commanders rather than forming the whole faith's army.
 
 ## From Stormveld toward the North
 

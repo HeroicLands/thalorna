@@ -399,7 +399,7 @@ Ràkhîmêa Khalîthôn is a 27-year-old woman who stands 6'1" tall and is of mo
 
 Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
 
-Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Astrid, Ràkhîmêa aims to show that women can be just as formidable as men on the battlefield. Her confidence and determination inspire those around her.
+Ràkhîmêa has always been driven to prove herself in a male-dominated field. She trained as a huscarl alongside her brothers and quickly became known for her fierce combat skills and tactical mind. Serving Lady Lômâris, Ràkhîmêa aims to show that women can be just as formidable as men on the battlefield. Her confidence and determination inspire those around her.
 
 Now at 27 years of age, Ràkhîmêa Khalîthôn has established herself as a known figure among the huscarls of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
@@ -419,7 +419,7 @@ Skilled in combat and tactics, resilient, inspirational leader.
 
 ## Social
 
-Ràkhîmêa is affiliated with Lady Astrid's retinue.
+Ràkhîmêa is affiliated with Lady Lômâris's retinue.
 
 As a Helionite huscarl, Ràkhîmêa occupies a recognized social niche within Heliónis society.
 
@@ -427,7 +427,7 @@ As a Helionite huscarl, Ràkhîmêa occupies a recognized social niche within He
 
 ### Patrons
 
-Ràkhîmêa's primary patron is Lady Astrid and her household.. This relationship provides both opportunity and obligation.
+Ràkhîmêa's primary patron is Lady Lômâris and her household.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

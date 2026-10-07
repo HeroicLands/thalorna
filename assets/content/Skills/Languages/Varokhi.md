@@ -41,7 +41,7 @@ Varokhi carries a heavier stock of stops than Nordmal and a lighter stock of clu
 
 ### Openings and closings
 
-Two inventories decide whether a name can be Varokhi at all, and both are closed. A name that opens or closes outside them belongs to some other tongue however well its middle behaves. Ordinary words keep the same openings and take a wider range of closings, so _shal_ and _eth_ are Varokhi words and neither is a possible name.
+Two inventories decide whether a name can be Varokhi at all, and both are closed. A name that opens or closes outside them belongs to some other tongue however well its middle behaves. Ordinary words are held to neither inventory: they write the same letters but may open and close more widely and run to a single beat, so _shal_ and _eth_ are Varokhi words and neither is a possible name.
 
 **The letters are a closed set.** Varokhi writes the consonants `b c d f g h j k l m n r s t v w` and the digraphs `ch th`, and the vowels `a e i o u y`, each of the six having a long partner written `á é í ó ú ý`. It writes no `p`, no `q`, no `x` and no `z`, and it writes no `ö`. The `c` stands only where a closing carries it, and the `ch` only where an opening does.
 
@@ -128,7 +128,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 Varokhi has no writing, so almost nothing of ordinary speech reaches the page at all—a name, a clan's gloss, a handful of words a clan's dealings with outsiders have carried south. What survives whole is small:
 
 - **"Hródar vel Fródbán."** – "Hródar, and Fródbán." (Two names joined by _vel_, the particle a longer sentence would turn on the same way.)
-- **"Eth shal."** – "This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, both built on the openings a name takes.)
+- **"Eth shal."** – "This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, and _shal_ opening on a pair no name opens on.)
 
 ## Related Languages
 
@@ -181,10 +181,12 @@ Several spellings may share one row. A long vowel and a short one are two spelli
 | `brunj-`           | a mail coat, war-gear burnished bright          | Brunjár, Brunjahelm           |
 | `dág-`             | daylight                                        | Dágulf, Dágskald              |
 | `dóm-`             | judgement, a thing settled                      | Dómhár, Dómric                |
+| `dorg-`            | a giant, one of the great ones of the old wood  | Dorgulf, Dorgbán              |
 | `druth-`           | what is trusted                                 | Druthgar, Druthric            |
 | `dunkel-`          | dark, unlit                                     | Dunkelwald                    |
 | `edr-`             | a hedge, the bound set about a holding          | Edrígar, Edrathúl             |
 | `eich-`            | an oak                                          | Eichengrund, Eichrúnd         |
+| `eld-`             | an ancestor, one of the remembered dead         | Eldrún, Eldskald              |
 | `erm-`             | whole, entire, unbroken                         | Ermína, Ermahild              |
 | `erth-`            | the earth, the ground underfoot                 | Erthran, Erthwald             |
 | `falk-`            | a falcon                                        | Falkenstein, Falkhelm         |
@@ -231,6 +233,8 @@ Several spellings may share one row. A long vowel and a short one are two spelli
 | `-helm`              | a helm                                           | Balthhelm, Skathhelm                     |
 | `-hild`, `-ild`      | battle                                           | Ríkhild, Skathilda                       |
 | `-holt`              | a copse, a stand of trees                        | Grimholt                                 |
+| `-hreth`             | a ford, a crossing made on foot                  | Vithhreth                                |
+| `-hróm`              | a burial mound of a kindred's dead               | Véthhróm                                 |
 | `-il`, `-ín`, `-lin` | the younger or the lesser of a kindred           | Thornila, Ermína, Mahnlin                |
 | `-jagár`             | a hunter                                         | Wuldjagár                                |
 | `-mund`              | protection, a guardian's hand                    | Ármund, Hármund                          |
@@ -240,6 +244,7 @@ Several spellings may share one row. A long vowel and a short one are two spelli
 | `-ris`               | a ruler, said of a woman                         | Theódris, Hildris                        |
 | `-rith`              | a rider                                          | Skáldrith, Erthrith                      |
 | `-rún`               | a secret kept                                    | Rádrún, Athalrún                         |
+| `-ruvan`             | a river, slow brown water that carries boats     | Thalruvan                                |
 | `-rúnd`              | a shield's rim, and the shield                   | Vithrúnd                                 |
 | `-rýth`              | a clearing cut from the forest                   | Sundrýth, Thalrýth                       |
 | `-skald`             | a reciter of verse                               | Gárskald, Hildskald                      |
@@ -250,6 +255,7 @@ Several spellings may share one row. A long vowel and a short one are two spelli
 | `-vith`              | valor, what withstands                           | Hildvith, Athalvith                      |
 | `-wa`                | a woman born to what the opening names           | Athalwa                                  |
 | `-wald`              | rule in a person's name, a wood in a ground one  | Thráwald, Theódwald, Garwald, Dunkelwald |
+| `-wern`              | a lake, still water among trees                  | Falkwern                                 |
 | `-win`               | a friend                                         | Óthwin, Athalwin                         |
 | `-wír`               | a drawn band of metal, a torc                    | Sundwíra                                 |
 | `-wyn`               | joy, said of a woman                             | Fródwyn, Árwyn                           |
@@ -265,9 +271,13 @@ A place name is an element and a **ground-closing**, and the ground-closing says
 | `-grund`       | bottom land, the floor of a valley     | Eichengrund           |
 | `-haven`       | a haven, ground that shelters          | Thornhaven            |
 | `-holt`        | a copse                                | Grimholt              |
+| `-hreth`       | a ford                                 | Vithhreth             |
+| `-hróm`        | a burial mound                         | Véthhróm              |
+| `-ruvan`       | a river                                | Thalruvan             |
 | `-rýth`        | a clearing cut from the forest         | Thalrýth              |
 | `-stein`       | a crag, a standing stone               | Falkenstein           |
 | `-wald`        | a wood                                 | Dunkelwald, Vrystwald |
+| `-wern`        | a lake                                 | Falkwern              |
 
 **What stands first is what the ground is held from.** Ground a kindred holds takes that kindred's own opening element, so the kindred and its country are named from one piece. Ground held from nothing but itself takes the element naming what stands on it—the oak, the falcon, the thorn. A people with no writing names the ground it walks, so a Varokhi ground name states what the ground is and never a title or a founder.
 
@@ -382,16 +392,59 @@ The animal words are the spoken names of possible village totems. _Arn_, _falk_ 
 
 Six totems have no Varokhi animal word here: [[lore-bisonttm|bison]], [[lore-jaguarttm|jaguar]], [[lore-leopardttm|leopard]], [[lore-lionttm|lion]], [[lore-parrotttm|parrot]] and [[lore-turkeyttm|turkey]]. None is established in Vrystwald or its waters, so giving a forest village one as its totem would invent a contact the setting does not describe. Shore villages can meet sea bass, shark, tuna and whale through their fishing and trade; the inland villages need not use those words.
 
+The reciters keep a further stock of ordinary words: the names of the things they recite, and the words for the dead, the spirits, war, craft, kin and water that the tellings turn on. Each is a root of the tongue or is built from pieces the tables above publish, and the third column says which. Where a word also serves as a name element, the element tables state that use separately.
+
+| word       | what it is                                                                                      | how it is formed                                                         |
+| ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| vorth      | a telling: a tale in prose told at the hearth, its details free to change from hearth to hearth | a root                                                                   |
+| drúnga     | a lay: a deed sung in stanzas of long lines and held word for word by the one who learned it    | a root                                                                   |
+| meldra     | the lament the women of a household raise over their dead before the burial or the pyre         | a root                                                                   |
+| vreld      | a charm: a few spoken lines laid on a hurt, a lame horse, a sick child or a spirit kept off     | a root                                                                   |
+| eldskorn   | the tally of the ancestors: a kindred's dead recited name by name at Weskskald                  | `eld-` and `-skorn`, a tally                                             |
+| ráthel     | a sign read in the forest—a track, a bird's flight, a wind turning—to judge what to do next     | a root                                                                   |
+| vóra       | a vow spoken aloud before the war-band, binding before its witnesses                            | a root                                                                   |
+| eld        | an ancestor, one of the remembered dead                                                         | read out of _eldwesk_; the Nordmal `eld-`, fire, is a different word     |
+| weskgrund  | the totem's land, where the dead are with their village's wesk                                  | _wesk_ and `-grund`                                                      |
+| vrysteld   | one of the dead the ancestors have cast out of the totem's land                                 | `vryst-`, held by nobody, and _eld_                                      |
+| hrág       | a hungry spirit, one of those that hunt the weak beyond the totem's land                        | a root                                                                   |
+| skómel     | the Shaman's trance, the going-out to the spirits while kin keep the body warm                  | a root                                                                   |
+| hróm       | a burial mound holding generations of a kindred's dead                                          | a root, cognate with the Nordmal _hrúm_; closes a ground name as `-hróm` |
+| brenth     | a pyre                                                                                          | a root                                                                   |
+| glóm       | a banked fire, the hearth covered over to keep it alive until morning                           | a root                                                                   |
+| dorg       | a giant, one of the great ones said to have walked the forest before the clans                  | a root; opens a name as `dorg-`                                          |
+| frath      | a war-band, the company a village sends out                                                     | attested in the Waldburg Frath, `being-hrdrskldrth`                      |
+| brúth      | a raid for cattle, goods and captives                                                           | a root                                                                   |
+| dreth      | a cord, a knotted string                                                                        | a root                                                                   |
+| skathdreth | a feud-cord, knotted for blood owed and untied for blood paid                                   | `skath-`, harm, and _dreth_                                              |
+| hóva       | ransom, the price a kindred pays to have its own back                                           | a root                                                                   |
+| bryld      | an axe                                                                                          | a root                                                                   |
+| hraldi     | iron                                                                                            | a root                                                                   |
+| hraldar    | a smith, one who works iron                                                                     | _hraldi_ and `-ar`                                                       |
+| vrid       | a figure carved in wood                                                                         | a root                                                                   |
+| skurn      | a pelt prepared for the river trade                                                             | a root                                                                   |
+| ámra       | amber                                                                                           | a root                                                                   |
+| ruvan      | a river                                                                                         | a root; closes a ground name as `-ruvan`                                 |
+| hreth      | a ford                                                                                          | a root; closes a ground name as `-hreth`                                 |
+| wern       | a lake                                                                                          | a root; closes a ground name as `-wern`                                  |
+| mórth      | a landing, where boats put in                                                                   | a root                                                                   |
+| grema      | deep winter, when the frozen rivers become roads                                                | a root                                                                   |
+| vyrel      | a pine                                                                                          | a root                                                                   |
+| óthlin     | a son, the younger of the holding                                                               | `óth-` and `-lin`                                                        |
+| óthwa      | a daughter, a woman born to the holding                                                         | `óth-` and `-wa`                                                         |
+| óthris     | the mistress of a household                                                                     | `óth-` and `-ris`                                                        |
+| frithwin   | a brother, a kinsman within the kindred's peace                                                 | `frith-` and `-win`                                                      |
+| frithwina  | a sister                                                                                        | _frithwin_ and the `-a`                                                  |
+
 The particle `vel` is a word and no element is spelled the same way, so a sentence never carries an element on its own and a name is never built from a kept word.
 
 ## Male Given Names
 
-Ármund, Arnmund, Arnrád, Arnulf, Athalric, Athalwin, Balthgar, Balthrith, Balthulf, Brunjár, Brunjulf, Dágrith, Dágulf, Dómric, Dómvith, Dómwin, Druthric, Druthulf, Edrarith, Edrígar, Ermaric, Erthmund, Erthran, Erthric, Falkwin, Frithgár, Frithrád, Fródhelm, Fródric, Garbán, Gárstein, Garulf, Grimbán, Grimhár, Grimric, Hármund, Hárskald, Hildric, Hildulf, Hildwin, Hródar, Hródmund, Mahnrád, Mahnulf, Óthgar, Óthwin, Rádulf, Rádwin, Ríkmund, Skaldár, Skáldwin, Skathric, Sundgar, Sundrith, Sundric, Thalrith, Thalwin, Theódhár, Theódmund, Theódric, Thornak, Thornulf, Thrágrim, Thrástein, Thráwald, Vandaric, Vandhelm, Véthar, Véthgar, Vithár, Vithmund, Vithskorn, Vrystmund, Waldaric, Waldhár, Waldulf, Wítharic, Wulfbán, Wulfhár, Wulfrád, Wulfstein
+Ármund, Arnmund, Arnrád, Arnulf, Athalric, Athalwin, Balthgar, Balthrith, Balthulf, Brunjár, Brunjulf, Dágrith, Dágulf, Dómric, Dómvith, Dómwin, Dorgulf, Druthric, Druthulf, Edrarith, Edrígar, Ermaric, Erthmund, Erthran, Erthric, Falkwin, Frithgár, Frithrád, Fródhelm, Fródric, Garbán, Gárstein, Garulf, Grimbán, Grimhár, Grimric, Hármund, Hárskald, Hildric, Hildulf, Hildwin, Hródar, Hródmund, Mahnrád, Mahnulf, Óthgar, Óthwin, Rádulf, Rádwin, Ríkmund, Skaldár, Skáldwin, Skathric, Sundgar, Sundrith, Sundric, Thalrith, Thalwin, Theódhár, Theódmund, Theódric, Thornak, Thornulf, Thrágrim, Thrástein, Thráwald, Vandaric, Vandhelm, Véthar, Véthgar, Vithár, Vithmund, Vithskorn, Vrystmund, Waldaric, Waldhár, Waldulf, Wítharic, Wulfbán, Wulfhár, Wulfrád, Wulfstein
 
 ## Female Given Names
 
-Árhilda, Árwyn, Arnhilda, Arnwyn, Athalrún, Athalwa, Balthilda, Balthwyn, Brunjara, Dágrún, Dágwyn, Dómhilda, Dómrica, Dómrún, Druthilda, Druthwyn, Edrarún, Edrilda, Ermawyn, Ermína, Erthilda, Erthwyn, Falkilda, Falkwyn, Frithilda, Frithwyn, Fródhilda, Fródrún, Fródwyn, Gárhilda, Garwyn, Grimhilda, Grimwyn, Hárwyn, Hildawyn, Hildris, Hildrún, Hródara, Hródila, Hródwyn, Mahnilda, Óthrún, Óthwyn, Rádhilda, Rádrún, Ríkhilda, Ríkwyn, Skaldrún, Skáldwyn, Skathilda, Skathrún, Skathwyn, Sundilda, Sundwíra, Sundwyn, Thaldrá, Thalrún, Thalwyn, Theódris, Theódrún, Theódwyn, Thornila, Thornína, Thornwyn, Thrárún, Thráwyn, Vandilda, Véthwyn, Vithilda, Vithwyn, Vrystwyn, Waldrún, Waldwyn, Wíthilda, Wíthrún, Wulfrún, Wulfwyn
+Árhilda, Árwyn, Arnhilda, Arnwyn, Athalrún, Athalwa, Balthilda, Balthwyn, Brunjara, Dágrún, Dágwyn, Dómhilda, Dómrica, Dómrún, Druthilda, Druthwyn, Edrarún, Edrilda, Eldrún, Ermawyn, Ermína, Erthilda, Erthwyn, Falkilda, Falkwyn, Frithilda, Frithwyn, Fródhilda, Fródrún, Fródwyn, Gárhilda, Garwyn, Grimhilda, Grimwyn, Hárwyn, Hildawyn, Hildris, Hildrún, Hródara, Hródila, Hródwyn, Mahnilda, Óthrún, Óthwyn, Rádhilda, Rádrún, Ríkhilda, Ríkwyn, Skaldrún, Skáldwyn, Skathilda, Skathrún, Skathwyn, Sundilda, Sundwíra, Sundwyn, Thaldrá, Thalrún, Thalwyn, Theódris, Theódrún, Theódwyn, Thornila, Thornína, Thornwyn, Thrárún, Thráwyn, Vandilda, Véthwyn, Vithilda, Vithwyn, Vrystwyn, Waldrún, Waldwyn, Wíthilda, Wíthrún, Wulfrún, Wulfwyn
 
 ## Clan Names
 
-Arnhelm – "Eagle Helms", Arnrúnd – "Eagle Shields", Arnthúl – "Eagle Bearers", Árskald – "Honour Reciters", Árthúl – "Honour Bearers", Athalvith – "Noble Valor", Athalwald – "Noble Holders", Balthhelm – "Bold Helms", Balthskorn – "Bold Tallies", Balthvith – "Bold Valor", Brunjahelm – "Mail Helms", Dágskald – "Daylight Reciters", Dágvith – "Daylight Valor", Dómhár – "Judgement Hosts", Dómrúnd – "Judgement Shields", Dómwald – "Judgement Holders", Druthgar – "Trusted Spears", Druthhelm – "Trusted Helms", Druthrith – "Trusted Riders", Edrahelm – "Hedge Helms", Edrathúl – "Hedge Wardens", Eichthúl – "Oak Wardens", Eichrith – "Oak Riders", Eichrúnd – "Oak Shields", Ermahild – "Unbroken in Battle", Erthrúnd – "Earth Shields", Erthwald – "Earth Holders", Falkhelm – "Falcon Helms", Falkrith – "Falcon Riders", Frithhelm – "Peace Helms", Frithvith – "Peace Valor", Fródbán – "Wise Slayers", Fródrúnd – "Wise Shields", Fródskald – "Wise Reciters", Garhelm – "Spear Helms", Garwald – "Spear Holders", Gárskald – "Speakers of the Spear", Gárthúl – "Spear Bearers", Grimskorn – "Grim Tallies", Grimwald – "Grim Holders", Hárskorn – "Host Tallies", Hárvith – "Host Valor", Hildhár – "Battle Hosts", Hildskorn – "Battle Tallies", Hildvith – "Battle Valor", Hildwald – "Battle Holders", Hródskald – "Renown Reciters", Hródvith – "Renowned Valor", Mahnlin – "Younger Kinsmen", Mahnrúnd – "Kinsmen's Shields", Mahnvith – "Kinsmen of Valor", Óthvith – "Valor of the Holding", Óthwald – "Keepers of the Holding", Rádskald – "Counsel Reciters", Rádvith – "Counsel Valor", Ríkhild – "Rulers in Battle", Ríkskald – "Rule Reciters", Ríkwald – "Rule Holders", Skaldhelm – "Reciter Helms", Skáldrith – "Reciter Riders", Skathhelm – "Harm Helms", Skathrúnd – "Harm Shields", Skathwald – "Harm Holders", Sundhelm – "Sound Helms", Sundrýth – "Keepers of the Clearing", Sundvith – "Sound Valor", Thalhelm – "Dale Helms", Thalvith – "Dale Valor", Theódhild – "Battles of the People", Theódskald – "Reciters of the People", Theódwald – "Holders of the People", Thornhelm – "Thorn Helms", Thornvith – "Thorn Valor", Thráhelm – "Unyielding Helms", Thrárúnd – "Unyielding Shields", Vandvith – "Exacting Valor", Vandwald – "Exacting Holders", Véthar – "The Hallowed", Véthrúnd – "Hallowed Shields", Véthskald – "Hallowed Reciters", Vithhelm – "Valor Helms", Vithrúnd – "Shields of Valor", Vithskald – "Valor Reciters", Vrystvith – "Free Valor", Waldskorn – "Rule Tallies", Wuldvith – "Wood Valor", Wulfhelm – "Wolf Helms", Wulfskorn – "Wolf Tallies", Wulfvith – "Wolf Valor"
+Arnhelm – "Eagle Helms", Arnrúnd – "Eagle Shields", Arnthúl – "Eagle Bearers", Árskald – "Honour Reciters", Árthúl – "Honour Bearers", Athalvith – "Noble Valor", Athalwald – "Noble Holders", Balthhelm – "Bold Helms", Balthskorn – "Bold Tallies", Balthvith – "Bold Valor", Brunjahelm – "Mail Helms", Dágskald – "Daylight Reciters", Dágvith – "Daylight Valor", Dómhár – "Judgement Hosts", Dómrúnd – "Judgement Shields", Dómwald – "Judgement Holders", Dorgbán – "Giant Slayers", Druthgar – "Trusted Spears", Druthhelm – "Trusted Helms", Druthrith – "Trusted Riders", Edrahelm – "Hedge Helms", Edrathúl – "Hedge Wardens", Eichthúl – "Oak Wardens", Eichrith – "Oak Riders", Eichrúnd – "Oak Shields", Eldskald – "Ancestor Reciters", Ermahild – "Unbroken in Battle", Erthrúnd – "Earth Shields", Erthwald – "Earth Holders", Falkhelm – "Falcon Helms", Falkrith – "Falcon Riders", Falkwern – "Falcons of the Lake", Frithhelm – "Peace Helms", Frithvith – "Peace Valor", Fródbán – "Wise Slayers", Fródrúnd – "Wise Shields", Fródskald – "Wise Reciters", Garhelm – "Spear Helms", Garwald – "Spear Holders", Gárskald – "Speakers of the Spear", Gárthúl – "Spear Bearers", Grimskorn – "Grim Tallies", Grimwald – "Grim Holders", Hárskorn – "Host Tallies", Hárvith – "Host Valor", Hildhár – "Battle Hosts", Hildskorn – "Battle Tallies", Hildvith – "Battle Valor", Hildwald – "Battle Holders", Hródskald – "Renown Reciters", Hródvith – "Renowned Valor", Mahnlin – "Younger Kinsmen", Mahnrúnd – "Kinsmen's Shields", Mahnvith – "Kinsmen of Valor", Óthvith – "Valor of the Holding", Óthwald – "Keepers of the Holding", Rádskald – "Counsel Reciters", Rádvith – "Counsel Valor", Ríkhild – "Rulers in Battle", Ríkskald – "Rule Reciters", Ríkwald – "Rule Holders", Skaldhelm – "Reciter Helms", Skáldrith – "Reciter Riders", Skathhelm – "Harm Helms", Skathrúnd – "Harm Shields", Skathwald – "Harm Holders", Sundhelm – "Sound Helms", Sundrýth – "Keepers of the Clearing", Sundvith – "Sound Valor", Thalhelm – "Dale Helms", Thalruvan – "Keepers of the Dale River", Thalvith – "Dale Valor", Theódhild – "Battles of the People", Theódskald – "Reciters of the People", Theódwald – "Holders of the People", Thornhelm – "Thorn Helms", Thornvith – "Thorn Valor", Thráhelm – "Unyielding Helms", Thrárúnd – "Unyielding Shields", Vandvith – "Exacting Valor", Vandwald – "Exacting Holders", Véthar – "The Hallowed", Véthhróm – "Keepers of the Hallowed Mound", Véthrúnd – "Hallowed Shields", Véthskald – "Hallowed Reciters", Vithhelm – "Valor Helms", Vithhreth – "Valor of the Ford", Vithrúnd – "Shields of Valor", Vithskald – "Valor Reciters", Vrystvith – "Free Valor", Waldskorn – "Rule Tallies", Wuldvith – "Wood Valor", Wulfhelm – "Wolf Helms", Wulfskorn – "Wolf Tallies", Wulfvith – "Wolf Valor"

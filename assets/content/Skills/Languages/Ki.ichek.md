@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: lang
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Ki'ichek (independent isolate)}}
+
+# terran_analog: the titles K'anulmah, Kulmah, K'inbal, P'ilambal, Xok'almah, Ch'umtz'aq and P'ik'ulmah stand for the Maya ajaw, sajal, ah k'in, aj tz'ib, nacom, ah kulel and ppolom; the K'ayik Kul'al is the Mesoamerican New Fire ceremony
 ---
 
 Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -403,6 +405,14 @@ Ki’ichek nouns have six cases:
 
 - Ha’mal - Bucket
 
+- P’ilam - Glyph
+
+- Xok’al - War, a campaign
+
+- K’ayik - Flame
+
+- Kul - Seat (of a lord, and so of the city he rules from)
+
 ### Adjectives
 
 #### Size and Shape
@@ -617,14 +627,16 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 2.  **Ch’ulba** - Ancient Tree/Sacred Grove
 
-3.  **Member of Tribe**:
+3.  **K’ayik Kul’al** - The Living Flame: the rite that kindles every hearth anew from one fire when the K’in and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
+
+4.  **Member of Tribe**:
     - **Ki’ichek**: _Tz’aqalil_ (_tz’aq_ = connection or belonging, _alil_ = of the group)
 
     - **Meaning**: "One Who Belongs"
 
     - **Example**: _Ix’balam Tz’aqalil K’inix_ ("Jaguar of the Tribe of the Sun")
 
-4.  **Leader of Tribe**:
+5.  **Leader of Tribe**:
     - **Ki’ichek**: _Mah’alil_ (_mah_ = lord, _alil_ = of the group)
 
     - **Meaning**: "Lord of the Tribe"
@@ -672,3 +684,31 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 10. **Slave**:
     - **Ki’ichek**: _Tz’ik’ibal_ (_tz’ik’i_ = shadow, _bal_ = person)
     - **Meaning**: "Shadowed One"
+
+11. **Noble Lord**:
+    - **Ki’ichek**: _K’anulmah_ (_k’anul_ = golden, _mah_ = lord)
+    - **Meaning**: "Golden Lord," a noble of a city's court
+
+12. **Subordinate Lord**:
+    - **Ki’ichek**: _Kulmah_ (_kul_ = seat, _mah_ = lord)
+    - **Meaning**: "Lord of a Seat," who holds a lesser center for the K’inmah
+
+13. **Sun-Priest**:
+    - **Ki’ichek**: _K’inbal_ (_k’in_ = sun, _bal_ = servant)
+    - **Meaning**: "Servant of the Sun," keeper of the count of days
+
+14. **Scribe**:
+    - **Ki’ichek**: _P’ilambal_ (_p’ilam_ = glyph, _bal_ = servant)
+    - **Meaning**: "Servant of the Glyphs"
+
+15. **War-Leader**:
+    - **Ki’ichek**: _Xok’almah_ (_xok’al_ = war, _mah_ = lord)
+    - **Meaning**: "Lord of the War," named for one campaign
+
+16. **Herald**:
+    - **Ki’ichek**: _Ch’umtz’aq_ (_ch’um_ = to speak, _tz’aq_ = connection)
+    - **Meaning**: "The Speaking Link," who carries a lord's word
+
+17. **Master Merchant**:
+    - **Ki’ichek**: _P’ik’ulmah_ (_p’ik’ul_ = craft or trade, _mah_ = lord)
+    - **Meaning**: "Lord of the Trade"

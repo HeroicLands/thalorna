@@ -402,7 +402,7 @@ Rilthorv's voice carries supernatural resonance when he sings the old sagas, cap
 
 ## Plot Hooks
 
-1. **The Lost Saga**—Rilthorv has heard rumors of a saga so old it predates the founding of the northern kingdoms. The only surviving copy is said to be hidden in a barrow guarded by a draugr king who demands a worthy story in exchange for the text.
+1. **The Lost Saga**—Rilthorv has heard rumors of a saga so old it predates the founding of the northern kingdoms. The only surviving copy is said to be hidden in a barrow guarded by a [[lore-haugverdir|hrúmverdir]] king who demands a worthy story in exchange for the text.
 
 2. **The Silencer's March**—Thulmorv the Silencer is burning his way through the northern settlements, destroying libraries and killing anyone who keeps the old stories. Rilthorv must rally the scattered skalds and loremasters to stand against him before the old knowledge is lost forever.
 

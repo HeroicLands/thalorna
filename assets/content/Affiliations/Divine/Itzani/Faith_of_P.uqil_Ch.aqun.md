@@ -53,7 +53,7 @@ data:
       - level: 8
         title: Presiding K'ul Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the New Fire Ceremony, and rules whether the gods approve a K'inmah's succession.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
     offices:
       K'ul Ha'tq'an: >-
         Keeper of the water-priests—head of the nourishing branch, answerable to the city when the rains do not come.
@@ -88,7 +88,7 @@ P'uqil Ch'aqun is the most terrifying and most desperately worshipped deity in t
 
 ## Worship
 
-Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the **k'ixkan ch'alix** (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic Ki'ichek while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic—water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished cenotes.
+Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the **k'ixkan ch'alix** (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic Ki'ichek while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic—water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished sacred pools.
 
 The rain-calling escalates by fixed stages as the dry season lengthens, and the people in the streets below the pyramid read each stage as it comes. A short procession and poured water is routine. A procession that returns without descending—the priests remaining on the peak through a second night—tells the city the rains are late. When the **K'ul Ha'tq'an** himself ascends, fasting, the city understands that the ordinary measures have failed, and the granaries begin to be rationed before any official word is given. Beyond that stage lie the captive sacrifices, and beyond those, in living memory only twice, the abandonment of the city.
 

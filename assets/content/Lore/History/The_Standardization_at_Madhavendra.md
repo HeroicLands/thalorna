@@ -60,4 +60,4 @@ The count is Vedyara's alone. Nobody west of the march road or north of the wall
 - [[lore-mdhvndrcnt|The Madhusthāna Count]]—the year-count dated from the reign
 - [[place-madhavendra|Madhusthāna]]—the ruined capital
 - [[skill-vedyarlng|Vedyari]]—the language the reign standardized
-- [[lore-mhndkngdm|The Kingdom of Mahānadī]]—a dynasty founded in the same generation
+- [[lore-mhndkngdm|The Kingdom of Mahānadī]]—an older dynasty that moved its capital to Rājapur in the same year
