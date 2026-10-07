@@ -71,11 +71,23 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Denizara—the Sea-Between—is the [[affiliation-byzarianlg|Byzarian League]]'s principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. The city-state holds [[place-denizara2|Denizara]] itself.
+The fast war-galleys that keep pirates and Haradian competitors off League cargoes are Denizara's, built in its own yards and kept by its own admiralty. That fleet is the city-state's weight in the [[affiliation-byzarianlg|Byzarian League]], and it is why a council of merchants shares its authority with admirals. The city-state governs about 1.8 million people from [[place-denizara2|Denizara]], the fortress isle in the straits that carry its name, and the League's principal seaport on the [[place-vylarianse|Vylarian Sea]] coast. Altinkale has the gold, as the Denizaran saying goes, but Denizara has the ships.
 
-## Character
+## The Council and the Admiralty
 
-Denizara is the most cosmopolitan of the five city-states, its docks crowded with [[affiliation-cnfdrtnhrdnstts|Haradian]] merchantmen, Vylarian galleys, and the occasional vessel from as far as [[affiliation-kalihara|Kalihara]]. The city has a powerful admiralty that maintains a fleet of fast war-galleys to protect League shipping from pirates and competitors. Denizara's shipwrights are among the finest in the eastern sea, and the city's naval strength gives it considerable influence within the League—Altinkale has the gold, but Denizara has the ships.
+A council of merchant-princes and the admiralty govern Denizara together. The admiralty keeps the fleet of war-galleys, and the city's shipwrights are among the finest in the eastern sea. The council elects a First of the Council for a fixed term, and he holds the city's seal. Denizara's weight at the League council's table is the weight of its hulls.
+
+In a port the office that matters most is the Harbormaster's, who keeps the pilots, the wharves and the dues levied on every hull that enters. The Consul Abroad, the city's resident agent in a foreign port, holds its seal for trade disputes there, and a city whose captains have traded with the coasts of Mídhalión and Xerathia for a thousand years has plenty of use for the post.
+
+## Standing and Disputes
+
+A quarrel between two Denizaran houses opens at an arbitrator's table, and the arbitrator's scribe reads both sets of terms aloud before anyone argues. Say the scribe reads a freight contract's third clause and the factor of one house stops him: that is the dispute, found in the first quarter hour, and the arbitrator settles it on the clause rather than on the houses' names. The arbitrator is a professional named by both sides, and his standing depends on being thought fair.
+
+Standing follows the register, as in every League city. The freeman is enrolled, trades in the markets and pleads in the courts; the resident works under the city's protection without a vote. A captain's rise to guild master, or a house factor's to house head, is how a Denizaran of the waterfront comes to sit near the council, and the council's own seats go by the weight of the houses behind them.
+
+## Relations
+
+Denizara and Haradian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtnhrdnstts|Harad]] is the League's great rival at sea, and Denizara's galleys are what the League sets against Haradian competition. [[place-chrysamar|Chrysamar]], a coastal port that rivals Denizara's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Denizara is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]].
 
 ## Commerce and Currency
 
@@ -83,7 +95,8 @@ Denizara uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[place-denizara2|Denizara]]—The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose joint fleet Denizara keeps
+- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-denizara2|Denizara]]—the city on its fortress isle
+- [[place-chrysamar|Chrysamar]]—the rival port
+- [[affiliation-altinkale|Altinkale]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—the other four city-states

@@ -78,11 +78,27 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Korinthea is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. The city-state holds [[place-korinthea2|Korinthea]] itself. _To be expanded._
+The Council of Korinthea consults the Temple of [[lore-janusdty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
+
+- **Government:** oligarchy of wealthy patron families, working through a council
+- **Patron deity:** [[lore-janusdty|Árdavon]], god of order and justice
+- **High Judge of the Temple:** [[being-dumarsrfrs|Dûmàrês Râfîrôs]]
+
+## Who Decides
+
+Two bodies share the work. The council governs inside the forms every Helionite city-state keeps: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strategos and an archon who names the year. The temple judges. A priest-judge of Árdavon explains the division in a sentence: "The council writes the rules, and the temple says what they mean when two men disagree about them."
+
+The High Judge, Dûmàrês Râfîrôs, is consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases. Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together.
+
+## Standing and Relations
+
+Standing in Korinthea is the common Helionite ladder, from the citizen by descent down to the metic who pays tax without a vote. Korinthea is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]], and it shares the Helonic tongue, its gods and its festivals with the other six city-states.
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—The confederation
-- [[place-helionis|Heliónis]]—Regional overview
-- [[place-korinthea2|Korinthea]]—The city itself
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]], [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]]—Sister city-states
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
+- [[place-helionis|Heliónis]]—the region
+- [[place-korinthea2|Korinthea]]—the city itself
+- [[being-dumarsrfrs|Dûmàrês Râfîrôs]]—High Judge of the Temple of Árdavon
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
+- [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven

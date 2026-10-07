@@ -71,13 +71,21 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-The city-state of Yeşilhan holds [[place-yesilhan2|Yeşilhan]] itself.
+"I will feed you, stable your camels and find you a buyer," a caravansary master of Yeşilhan tells a Dunhari trader on his first crossing, "and by morning you will know what each of them cost me and what each will cost you." That is the whole city-state in one welcome. Yeşilhan sits where the caravan road from the east divides toward the Khazryn and toward [[place-dunharargn|Dunhara]], its river valley green against the dry hills around it, and about 1.2 million people live under its council. The men who run its great caravanserais sit on that council beside the merchant-princes, and their influence rivals the merchant-princes' own.
 
-## Character
+## Who Decides
 
-The caravansary masters who run these establishments are legendarily shrewd negotiators, and their political influence within the city rivals that of the merchant-princes.
+A council of caravansary masters and merchant-princes governs the city-state from [[place-yesilhan2|Yeşilhan]], and a First of the Council, elected by the council for a fixed term, holds the seal while he presides. The caravansary masters are shrewd and known for it. Their power comes from what passes through their yards: eastern goods first come into League hands in Yeşilhan's bazaars and caravanserais, so the people who house the caravans are the first in the League to see the silk, spice and incense. The Warden of the Weights, who inspects measures, coin and quality, has the bazaars as his working ground.
 
-The city has a stronger eastern character than the other League members. [[affiliation-ashanpnthn|Āsháian]] worship has a significant following here, particularly among the Dunhari and Khazryni merchant communities who maintain permanent trading quarters.
+## Standing
+
+The Dunhari and Khazryni merchants who keep permanent trading quarters in the city keep their own tongues, faiths and law there. Standing in the city's own courts is a separate matter and follows the register: the freeman, enrolled in it, trades in the markets and pleads in the courts, while the resident lives under the city's protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head, the councillor and the First of the Council.
+
+## Relations
+
+Yeşilhan has a stronger eastern character than the other League cities, and [[affiliation-ashanpnthn|Āsháian]] worship has a significant following in it, above all among the Dunhari and Khazryni merchants. The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]]; its reputation is for gardeners, merchants and a peaceful culture.
+
+Its closest tie is to the [[place-southrnmrch|Southern March]], whose lord holds the Dunhara road. The caravansary masters depend on the March to keep that road open and its wells clean, and they pay for it in tolls and in gifts to the lord. The lord in turn depends on Yeşilhan for grain, coin and a market for the March's wool, and both would rather the League council did not look closely at how the road's revenue is divided.
 
 ## Commerce and Currency
 
@@ -85,7 +93,8 @@ Yeşilhan uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[place-yesilhan2|Yeşilhan]]—The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation
+- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-yesilhan2|Yeşilhan]]—the city and its bazaars
+- [[place-southrnmrch|Southern March]]—the dry upland on its road to Dunhara
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—the other four city-states

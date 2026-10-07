@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 80000, govern
 
 ## Overview
 
-Nothing from the east reaches the western sea without passing through **Altinkale**, and a caravan master will tell you so before you have seen the city. Say you are on the lowland road from [[place-denizara2|Denizara]]: the road climbs the last escarpment to the edge of the plateau, and the first thing in sight is the gilded domes of the counting houses. This is the Golden Fortress, the largest city of the [[affiliation-byzarianlg|Byzarian League]] at 80,000 people and its wealthiest and most influential, and its banking houses finance trade across half of the continent. Eastern goods cross the plateau to Altinkale, are banked here, and then descend to the coast to be shipped west.
+Nothing from the east reaches the western sea without passing through **Altinkale**. The lowland road from [[place-denizara2|Denizara]] climbs the last escarpment to the edge of the plateau, and the first thing in sight is the gilded domes of the counting houses. This is the Golden Fortress, the largest city of the [[affiliation-byzarianlg|Byzarian League]] at 80,000 people and its wealthiest and most influential, and its banking houses finance trade across half of the continent. Eastern goods cross the plateau to Altinkale, are banked here, and then descend to the coast to be shipped west.
 
 ## Who Governs
 
-A council of merchant-princes governs Altinkale, and the ruling families have held their seats for generations. Politics here is a long exchange of alliances, marriages and financial maneuvers. The League council meets in the Merchant Hall, a vast, ornate building that serves as both parliament and exchange, so the city's representatives have dominated League policy through the plain weight of their money.
+A council of merchant-princes governs Altinkale, and the ruling families have held their seats for generations. Politics here is a long exchange of alliances, marriages and financial maneuvers. The League council meets in the **Merchant Hall**, a vast, ornate building that is parliament and exchange at once, and the city's representatives have dominated League policy through the plain weight of their money.
 
 ## Character
 

@@ -89,35 +89,51 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-[[place-helionis|Heliónis]] has never been unified under a single ruler and likely never will be. Its people are too proud, too argumentative, and too convinced of the superiority of their own city's particular form of government to submit to another's. The city-states of Heliónis are instead bound by a shared culture, a common language, and a network of festivals, athletic games, and religious observances that provide social cohesion without political unity.
+A foreign envoy who asks to be taken to the government of Heliónis has asked for something that does not exist. [[place-helionis|Heliónis]] has never been united under one ruler, and its people are too proud, too argumentative and too sure of their own city's constitution to submit to another's. Seven sovereign city-states share the region and its three million people. What binds them is a common culture, the Helonic tongue, the [[affiliation-arldnpnthn|Aurèldían]] gods, and a network of festivals, athletic games and religious observances that holds them together socially while leaving each of them free.
 
-## The Three Great Cities
+## Who Decides
 
-Heliónis is home to three major city-states, each a power in its own right. They share a common language, religion, and cultural identity, but compete fiercely in trade, athletics, artistic achievement, and occasionally open warfare.
+Each city decides for itself. Three of them lead the region, and each is a power in its own right:
 
-- [[affiliation-thyrenae|Thyrenae]]—The oldest and most prestigious of the three, Thyrenae is the intellectual capital of Heliónis and arguably of all western [[place-ankrscntnnt|Ankaris Continent]]. The great academies—including the original seat of the [[affiliation-panepistmm|Epistemium]]—are centered here. Thyrenae is governed by a philosophical council drawn from the senior scholars of its academies and the heads of its oldest families. Its patron is [[affiliation-arldnpnthn|Ménérva]], goddess of knowledge and wisdom.
-- [[affiliation-pelagora|Pelagora]]—The naval power of Heliónis, Pelagora commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, and its fleet is the largest in the region. Pelagora is a democracy—its assembly of free citizens votes on matters of war, trade, and law—and its politics are loud, passionate, and occasionally violent. Its patron is [[affiliation-arldnpnthn|Árdavon]], god of order and justice.
-- [[affiliation-kalydria|Kalydria]]—Renowned across [[place-midhalnrgn|Mídhalión Region]] for its artists, playwrights, and musicians, Kalydria is the cultural jewel of Heliónis. The famous [[place-helionis|Academy of the Silver Veil]] is based here, and the city's great theater festivals draw audiences from across the Vylarian Sea. Kalydria is governed by an oligarchy of wealthy patron families who compete to fund the most lavish artistic productions. Its patron is [[affiliation-arldnpnthn|Aethería]], goddess of dreams and visions.
+- [[affiliation-thyrenae|Thyrenae]], the oldest and most prestigious, is the intellectual capital of Heliónis and, by its own reckoning, of all western [[place-ankrscntnnt|Ankaris]]. The great academies are centered there, including the original seat of the [[affiliation-panepistmm|Epistemium]]. A philosophical council drawn from the senior scholars of the academies and the heads of the oldest families governs it. Its patron is [[lore-menervadty|Ménérva]], goddess of knowledge and wisdom.
+- [[affiliation-pelagora|Pelagora]] is the naval power. It commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]; its citizen-sailors are formidable fighters, and its fleet is the largest in the region. It is a democracy whose assembly of free citizens votes on war, trade and law, and its politics are loud, passionate and occasionally violent. Its patron is [[lore-janusdty|Árdavon]], god of order and justice.
+- [[affiliation-kalydria|Kalydria]] is known across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. The **Academy of the Silver Veil** is based there, and its theater festivals draw audiences from across the Vylarian Sea. An oligarchy of wealthy patron families governs it, competing to fund the most lavish productions. Its patron is [[lore-theriadty|Aethería]], goddess of dreams and visions.
 
-The cities compete constantly—in trade, in athletic games, in artistic achievement, and occasionally in war. Helionite warfare is ritualized and relatively restrained by western Ankaris standards (though this is cold comfort to the people caught in it), but it is frequent enough to keep the city-states' citizen-militias in fighting trim.
+The other four are [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]] and [[affiliation-kostaros2|Kostaros]], the last a small coastal city-state that governs the district around it. Their constitutions run to oligarchy, government by the wealthy patron families or by the wealthiest and most educated citizens.
+
+Whatever a city calls its constitution, it works through the same forms, and they are the same in all seven. The citizen body, citizens by descent, meets in the assembly, which stays sovereign. A council chosen by lot prepares the assembly's business for a single year, and no one sits on it twice. Magistrates are elected or allotted to the city's markets, walls, treasury and courts, and an auditor examines every magistrate's accounts at the end of his year; until he clears them, the magistrate may not leave the city. The _strategos_ commands the city's forces by land and sea and is the one officer the citizens elect, without term limit. The _archon_ presides for a year, gives the year his name and hands the office back.
+
+Around them stand the offices a stranger is likeliest to meet. The _agoranomos_ is warden of the market: its weights, its coin, its quality and its disputes. The _nomophylax_ guards the laws and may halt a decree of the assembly that contradicts them. The herald speaks for the assembly and for the city abroad, and his person is inviolable even among enemies. An ambassador is elected to treat with another city and answers to the assembly for what he agrees. The _gymnasiarch_ keeps the gymnasium and pays for it from his own purse, which makes the office an honor.
+
+Standing runs in a short ladder. At the bottom is the _atimos_ (the dishonored), stripped of civic honor by the courts and barred from the assembly, the agora and the temples while still living among those who barred him. Above him come the slave, owned outright; the freedman, who works and trades but is barred from the assembly for life; and the metic, a resident foreigner who is taxed and liable to the levy, with no vote and no right to own land. The citizen votes and serves in the militia. Councillor, magistrate, strategos and archon are the rungs a citizen climbs by lot and election.
+
+## War Between Neighbors
+
+The cities compete constantly in trade, athletic games and artistic achievement, and sometimes in war. Helionite warfare is ritualized and restrained by the standards of western Ankaris, which is cold comfort to the people caught in it, and it comes often enough to keep the citizen militias in fighting trim.
 
 ## Character
 
-What unites the Helionites is a shared conviction that the examined life is the only life worth living. Philosophy, rhetoric, and public debate are not elite pursuits in Heliónis—they are civic duties. The agora (public square) of every Helionite city is the center of political, commercial, and intellectual life, where citizens argue about everything from grain prices to the nature of the gods.
+What unites the Helionites is a shared conviction that the examined life is the only life worth living. Philosophy, rhetoric and public debate are civic duties in Heliónis, and the agora of every Helionite city is the center of its political, commercial and intellectual life. Citizens argue there about everything from grain prices to the nature of the gods.
 
-The [[place-helionis|Academy of the Silver Veil]]—the famous institution that trains hetairai (courtesans)—represents the Helionite belief that education, social grace, and intellectual accomplishment are inseparable. Its graduates are among the most sought-after companions, conversationalists, and intelligence-gatherers in [[place-midhalnrgn|Mídhalión Region]].
+The Academy of the Silver Veil, which trains the hetairai (educated companions), stands for the Helionite belief that education, social grace and intellectual accomplishment are inseparable. Its graduates are among the most sought-after companions, conversationalists and gatherers of intelligence in Mídhalión.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] is more deeply rooted in Heliónis than anywhere outside [[affiliation-provinclys|Alyssa]]. This is no accident—the Ordo's intellectual foundations were laid here, by the scholars of the [[affiliation-panepistmm|Panepistemium]], the great Helionite scholarly federation that the Vylarian Republic vivisected when it conquered Heliónis between 335 and 312 BF. The Senate extracted the College of Arcane Philosophy in 312 BF and chartered it as the Ordo in 73 BF; the remaining colleges—ethics, logic, metaphysics, natural philosophy, and the rest—were left diminished but intact. Heliónis remains the place where those non-arcane colleges are strongest, and the Helionite academies carry the last real echo of the Epistemium's original vision: a federation of _all_ knowledge, where arcane study was one domain among equals. Helionites regard the Ordo as their intellectual offspring, which makes the relationship simultaneously closer and more contentious than elsewhere.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] is more deeply rooted in Heliónis than anywhere outside [[affiliation-provinclys|Alyssa]], and for a plain reason: the Ordo's intellectual foundations were laid here by the scholars of the Panepistemium, the great Helionite federation of learning that the Vylarian Republic vivisected when it conquered the cities between 335 and 312 BF. The Senate took out the College of Arcane Philosophy in 312 BF and chartered it as the Ordo in 73 BF, and the other colleges—ethics, logic, metaphysics, natural philosophy and the rest—were left diminished but intact. Those colleges are strongest in Heliónis, and the Helionite academies keep the last real echo of the Epistemium's first vision: a federation of _all_ knowledge, in which arcane study was one domain among equals. Helionites regard the Ordo as their intellectual offspring, so their relationship with it is closer and more contentious than anywhere else.
+
+## Relations
+
+The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] is their trading partner across the eastern sea.
 
 ## Commerce and Currency
 
-City-States of Heliónis uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The City-States of Heliónis use the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as their standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]], and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[place-helionis|Heliónis]]—Regional overview
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—The three city-states
-- [[place-provenzrgn|Provènzia Region]]—Cultural rival and partner
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Eastern trading partner
-- [[affiliation-arldnpnthn|Aurèldían]]—Pantheon
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—Present but contested
+- [[place-helionis|Heliónis]]—the region, its gods and its history
+- [[lore-helioniteclt|Helionite]]—the culture and what it holds a person owes
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
+- [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the other four
+- [[place-provenzrgn|Provènzia Region]]—cultural rival and partner
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—eastern trading partner
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods the cities share
+- [[affiliation-ordoarcanis|Ordo Arcanis]]—present, and contested

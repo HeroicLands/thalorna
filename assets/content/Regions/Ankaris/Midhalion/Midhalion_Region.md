@@ -24,7 +24,7 @@ A supercargo who has ridden merchant hulls along both shores puts it to a newcom
 
 The region takes its shape from the [[place-vylarianse|Vylarian Sea]] and the coasts that enclose it.
 
-- **The northern, Ankarian shore** holds [[affiliation-vylarinmpr|Vylaria]] and the territories it still claims; the independent successor-states of [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]; the philosophical city-states of [[affiliation-ctysttshlns|Heliónis]]; and the [[affiliation-cnfdrtnhrdnstts|Haradian]] lands toward the eastern sea. The western Aurèldían realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
+- **The northern, Ankarian shore** holds [[affiliation-vylarinmpr|Vylaria]] and the territories it still claims; the independent successor-states of [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]; the city-states of [[place-heladrgn|Hellád]], philosophical [[affiliation-ctysttshlns|Heliónis]] and the merchant cities of the [[affiliation-byzarianlg|Byzarian League]]; and the [[affiliation-cnfdrtnhrdnstts|Haradian]] lands toward the eastern sea. The western Aurèldían realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
 - **The southern, Xerathian shore** holds the ancient [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the three-flamed kingdom of [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 
 These polities share no sovereign, no law and no faith. What they share is the sea, and three millennia of commerce and quarrel across it are what make Mídhalión one place.
@@ -70,7 +70,7 @@ All of it is taxed, transshipped and marked up on the way, and the port cities a
 
 ## Relations with Neighboring Regions
 
-Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-heladrgn|Hellád]] to the north, [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it reaches the far-eastern empire of [[place-tanvuregin|Tānvür]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
+Mídhalión touches every other major region of Ankaris. It fronts the [[place-aureldirgn|Aurèldían]] heartlands to the northwest, [[place-velanthrgn|Velanthia]] to the north beyond Hellád's uplands, [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-khzryndsrtrgn|Khazryn]] to the northeast, and [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]] to the east. Through Harad and the Khazryn it reaches the far-eastern empire of [[place-tanvuregin|Tānvür]]. Through the western strait it reaches [[affiliation-kalihara|Kalihara]] and, in principle, [[place-kchchkcntnnt|K'ich'chik]] and the southern continents.
 
 ## Reckoning
 

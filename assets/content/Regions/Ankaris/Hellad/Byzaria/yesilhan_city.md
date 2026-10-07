@@ -18,7 +18,7 @@ Eastern goods first pass into League hands here: spices, silk, incense and gemst
 
 ## Who Governs
 
-A council of caravansary masters and merchant-princes governs Yeşilhan. The caravansary masters are legendarily shrewd negotiators, and the political influence of the men who run the great caravanserais rivals that of the merchant-princes, so a traveler who needs lodging, a guide, or an introduction deals with them. Beyond the city the [[place-southrnmrch|Southern March]] carries the road toward Dunhara.
+A council of caravansary masters and merchant-princes governs Yeşilhan. The caravansary masters are shrewd negotiators, and the political influence of the men who run the great caravanserais rivals that of the merchant-princes, so a traveler who needs lodging, a guide, or an introduction deals with them. Beyond the city the [[place-southrnmrch|Southern March]] carries the road toward Dunhara.
 
 ## Character
 

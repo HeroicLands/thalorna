@@ -8,14 +8,22 @@ tags: [city, craft]
 data: {demonym: null, lore: [], parents: [byzariargn], population: 30000, packFolder: byzaria}
 ---
 
-Byzaris is the foremost artisan quarter and craft hub of the [[affiliation-byzarianlg|Byzarian League]], though its exact location has shifted historically as it has expanded from a small workshop district into a substantial city-state in its own right. The name derives from the ancient Byzarian word _byzar_, meaning "the place of making" or "the workshop"—a fitting etymology for a settlement that has become legendary throughout the eastern Mídhalión for the quality and innovation of its craftspeople.
+"Your master's name opens the door," a guild examiner of Byzaris tells a journeyman who has arrived with a letter of introduction, "and what you made opens the workshop."
 
-The city is organized around guild halls and workshop complexes, with the Hideworkers' Collective maintaining one of their most prestigious chapters here. Ceramicists, metalworkers, jewelers, and textile artisans crowd the narrow streets, competing for supremacy in their respective crafts while maintaining the fierce loyalty characteristic of Byzarian professional societies. The city lacks the political grandeur of [[affiliation-altinkale|Altinkale]] or the military reputation of [[affiliation-karatas|Karataş]], but its merchants command respect and considerable wealth—a master ceramicist or weaponsmith from Byzaris carries credentials that open doors from [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] to [[affiliation-jurthatempr|Jürthāt]].
+Byzaris is the foremost artisan quarter and craft hub of the [[affiliation-byzarianlg|Byzarian League]], though its exact location has shifted historically as it has expanded from a small workshop district into a substantial city-state in its own right. The name comes from the ancient Byzarian word _byzar_, meaning "the place of making" or "the workshop." About 30,000 people live in it, and it is known across the eastern [[place-midhalnrgn|Mídhalión]] for the quality and innovation of its craftspeople.
 
-Byzaris maintains careful neutrality in League politics, understanding that its influence depends upon remaining indispensable to all its rivals. The city's council comprises the heads of the twelve greatest guilds, making it the only League city-state with formal guild governance. This arrangement produces both stability and endless subtle negotiation, as artisan interests constantly jockey for precedence and resources.
+## Workshops and Guilds
+
+The city is organized around guild halls and workshop complexes. The [[affiliation-hideworkerscltv|Hideworkers' Collective]] keeps one of its most prestigious chapters here, and the herds of the [[place-southrnmrch|Southern March]] send Byzaris the greater part of their leather. Ceramicists, metalworkers, jewelers and textile artisans crowd the narrow streets and compete for supremacy in their crafts, holding all the while to the fierce loyalty that marks Byzarian professional societies.
+
+The city lacks the political grandeur of [[affiliation-altinkale|Altinkale]] and the military reputation of [[affiliation-karatas|Karataş]], but its merchants command respect and considerable wealth. A master ceramicist or weaponsmith from Byzaris carries credentials that open doors from the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] to [[affiliation-jurthatempr|Jürthāt]].
+
+## The Council of Twelve
+
+The heads of the twelve greatest guilds make up the city's council, which makes Byzaris the only League city-state with formal guild governance. The arrangement gives the city stability and endless subtle negotiation, as artisan interests jockey for precedence and resources. In League politics Byzaris keeps a careful neutrality, because its influence depends on staying indispensable to all of its rivals.
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation of city-states
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- Hideworkers' Collective—Major guild presence
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation of city-states
+- [[place-byzariargn|Byzaría Region]]—regional overview
+- [[affiliation-hideworkerscltv|Hideworkers' Collective]]—a major guild presence

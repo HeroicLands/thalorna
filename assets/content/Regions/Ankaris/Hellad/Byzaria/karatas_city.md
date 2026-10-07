@@ -18,7 +18,7 @@ The mountains around the city are riddled with mines, and the roads leading out 
 
 ## Who Governs
 
-A guild council and merchant-princes govern Karataş, and the guild masters sit on the city council with as much authority as the merchant-princes. The craft guilds control the quality and quantity of production, so a visitor who wants a blade, a cast or a commission negotiates with a guild. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack, which makes Karataş a working-class city whose politics run more egalitarian, or at least more contentious, than the merchant oligarchies of Altinkale and Denizara. A master's seal from Karataş or Byzaris opens doors from Harad to Jürthāt.
+A guild council and merchant-princes govern Karataş, and the guild masters sit on the city council with as much authority as the merchant-princes. The craft guilds control the quality and quantity of production, so a visitor who wants a blade, a cast or a commission negotiates with a guild. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack, which makes Karataş a working-class city whose politics run more egalitarian, or at least more contentious, than the merchant oligarchies of Altinkale and Denizara. A master's seal from Karataş or [[place-byzaris|Byzaris]] opens doors from [[affiliation-cnfdrtnhrdnstts|Harad]] to [[affiliation-jurthatempr|Jürthāt]].
 
 ## See Also
 
