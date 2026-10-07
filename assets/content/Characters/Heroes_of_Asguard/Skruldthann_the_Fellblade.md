@@ -386,7 +386,7 @@ Skruldthann seeks to build an army that will conquer the entire northern coast, 
 
 ### Strengths
 
-Skruldthann is a devastating melee combatant whose cursed fellblade can shatter enchanted steel and drain the life force of those it wounds. As a Nightwight, he possesses supernatural strength, speed, and resilience. His army of Hélthralls and living raiders is the most organized military force in Náhild's service, capable of conducting sustained campaigns rather than mere raids. His tactical instincts, honed over years of raiding, make him a formidable battlefield commander.
+Skruldthann is a devastating melee combatant whose cursed fellblade can shatter enchanted steel and drain the life force of those it wounds. As a Nightwight, he possesses supernatural strength, speed, and resilience. His army of [[lore-haugverdir|hrúmverdir]] and living raiders is the most organized military force in Náhild's service, capable of conducting sustained campaigns rather than mere raids. His tactical instincts, honed over years of raiding, make him a formidable battlefield commander.
 
 ## Social
 

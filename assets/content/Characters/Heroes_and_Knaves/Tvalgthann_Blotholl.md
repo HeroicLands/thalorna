@@ -467,7 +467,7 @@ Tvalgthann seeks to discover whether his talents for performance and persuasion 
 
 ### Patrons
 
-Duke Ragnarr of Vithgard
+Duke Vraldthann of Vithgard
 : The primary patron who employs Tvalgthann's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 
 Sigrid Blóthöll

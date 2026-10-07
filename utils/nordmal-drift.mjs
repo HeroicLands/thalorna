@@ -88,6 +88,16 @@
  *    through an inflection, so a spelling the sweep has not yet met is not
  *    silently assumed to be covered.
  *
+ * 4. **A retired name written without its marks.** `Hroarr` is `Hróarr` with
+ *    the acute dropped, and a reader meets the same name. Marks are folded off
+ *    both the retired form and the text, so the bare spelling is reached
+ *    without being written out as a form of its own. A fold also lands on
+ *    words other tongues write — `Magnus` beside a retired `Magnús` — so a
+ *    spelling that differs from the form only in its marks is swept in Nordmal
+ *    and Varokhi material alone, the scope a standing phrase is held to. A
+ *    form whose fold is a current name or a kept word, and every form of a
+ *    row that retires a spelling's marks themselves, is matched as written.
+ *
  * A guard proves completeness, never accuracy. Whether `Ódvar` is the right
  * name for the Fury-Ward is a judgement; whether it reached every sentence is
  * arithmetic, and only the second is answered here.
@@ -200,6 +210,31 @@ function escape(text) {
     return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
+/** Texts already folded, since the whole tree is read on every run. */
+const foldCache = new Map();
+
+/**
+ * A text with every combining mark folded off its letters, one character for
+ * one, so an offset into the fold is an offset into the text. A character
+ * whose fold is not one character long is kept as written.
+ *
+ * @param {string} text - The text, in NFC.
+ * @returns {string} The text without its marks, the same length.
+ */
+export function fold(text) {
+    const known = foldCache.get(text);
+    if (known !== undefined) return known;
+    const bare =
+        /^[\x00-\x7f]*$/.test(text) ? text : (
+            text.replace(/[^\x00-\x7f]/g, (char) => {
+                const stripped = char.normalize("NFD").replace(/\p{M}/gu, "");
+                return stripped.length === char.length ? stripped : char;
+            })
+        );
+    foldCache.set(text, bare);
+    return bare;
+}
+
 /**
  * The pattern one retired token is matched by.
  *
@@ -217,6 +252,16 @@ function patternFor(pair) {
     const before = "(?<![\\p{L}\\p{M}])";
     const after = "(?![\\p{L}\\p{M}])(?:(?=['’]s(?![\\p{L}\\p{M}]))|(?!['’]))";
     return new RegExp(`${before}${escape(String(pair.retired))}${after}`, "gu");
+}
+
+/**
+ * The pattern one retired token is matched by in a folded text.
+ *
+ * @param {object} pair - The mapping row.
+ * @returns {RegExp} The pattern, over the form with its marks folded off.
+ */
+function foldedPatternFor(pair) {
+    return patternFor({ retired: fold(String(pair.retired).normalize("NFC")) });
 }
 
 /**
@@ -509,11 +554,15 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
             `(?<![\\p{L}\\p{M}])${escape(String(entry.literal))}(?![\\p{L}\\p{M}])`,
             "gu",
         ),
+        foldedRx: new RegExp(
+            `(?<![\\p{L}\\p{M}])${escape(fold(String(entry.literal).normalize("NFC")))}(?![\\p{L}\\p{M}])`,
+            "gu",
+        ),
     }));
     // Longest first, so an overlapping row is found at its full length and a
     // shorter row cannot claim part of it.
     const patterns = pairs
-        .map((pair) => ({ ...pair, rx: patternFor(pair) }))
+        .map((pair) => ({ ...pair, rx: patternFor(pair), foldedRx: foldedPatternFor(pair) }))
         .sort((a, b) => String(b.retired).length - String(a.retired).length);
 
     for (const { file, raw } of files) {
@@ -521,13 +570,37 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
         const ownTongue = scoped.has(file);
         /** @type {Array<[number, number]>} Spans a keep-list word or an earlier row has taken. */
         const taken = [];
-        const overlaps = (from, to) => taken.some(([a, b]) => from < b && to > a);
+        /** @type {Array<[number, number]>} Spans a keep-list word takes once both are folded. */
+        const foldedKept = [];
+        const overlaps = (spans, from, to) => spans.some(([a, b]) => from < b && to > a);
+        const report = (pair, from, written) => {
+            const { line, column } = positionOf(text, from);
+            const says =
+                pair.drop ?
+                    `the ${pair.group} table retires it and replaces it with nothing`
+                :   `the ${pair.group} table replaces it with "${pair.replacement}"`;
+            out.push(
+                finding(file, line, column, "error", `retired name "${written}" survives; ${says}`),
+            );
+            tally.byGroup.set(pair.group, (tally.byGroup.get(pair.group) ?? 0) + 1);
+            tally.byToken.set(pair.retired, (tally.byToken.get(pair.retired) ?? 0) + 1);
+        };
+        const abbreviatesHelonic = (from, to) => {
+            if (text.slice(from, to) !== "Hel" || !HEL_ABBREVIATION.test(text.slice(to)))
+                return false;
+            tally.excluded.set(
+                "Hel followed by /\\./",
+                (tally.excluded.get("Hel followed by /\\./") ?? 0) + 1,
+            );
+            return true;
+        };
 
         for (const entry of keepPatterns) {
             if (entry.paths && !entry.paths.includes(file)) continue;
             if (Object.hasOwn(entry, "membershipLevel")) {
                 const spans = membershipTitleSpans(entry, file, raw);
                 taken.push(...spans);
+                foldedKept.push(...spans);
                 tally.kept.set(entry.literal, (tally.kept.get(entry.literal) ?? 0) + spans.length);
                 continue;
             }
@@ -539,6 +612,7 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
             }
         }
 
+        // The form as written, in every file its row reaches.
         for (const pair of patterns) {
             if (pair.scoped && !ownTongue) continue;
             pair.rx.lastIndex = 0;
@@ -546,33 +620,32 @@ export function checkDrift(pairs, keep, files, scoped, tally) {
             while ((match = pair.rx.exec(text)) !== null) {
                 const from = match.index;
                 const to = from + match[0].length;
-                if (overlaps(from, to)) continue;
-
-                if (pair.retired === "Hel" && HEL_ABBREVIATION.test(text.slice(to))) {
-                    tally.excluded.set(
-                        "Hel followed by /\\./",
-                        (tally.excluded.get("Hel followed by /\\./") ?? 0) + 1,
-                    );
-                    continue;
-                }
-
+                if (overlaps(taken, from, to)) continue;
+                if (abbreviatesHelonic(from, to)) continue;
                 taken.push([from, to]);
-                const { line, column } = positionOf(text, from);
-                const says =
-                    pair.drop ?
-                        `the ${pair.group} table retires it and replaces it with nothing`
-                    :   `the ${pair.group} table replaces it with "${pair.replacement}"`;
-                out.push(
-                    finding(
-                        file,
-                        line,
-                        column,
-                        "error",
-                        `retired name "${match[0]}" survives; ${says}`,
-                    ),
-                );
-                tally.byGroup.set(pair.group, (tally.byGroup.get(pair.group) ?? 0) + 1);
-                tally.byToken.set(pair.retired, (tally.byToken.get(pair.retired) ?? 0) + 1);
+                report(pair, from, match[0]);
+            }
+        }
+
+        // The form with its marks folded off, in Nordmal and Varokhi material.
+        if (!ownTongue) continue;
+        const bare = fold(text.normalize("NFC"));
+        if (bare.length !== text.length) continue;
+        for (const entry of keepPatterns) {
+            if (entry.paths && !entry.paths.includes(file)) continue;
+            if (Object.hasOwn(entry, "membershipLevel")) continue;
+            for (const match of bare.matchAll(entry.foldedRx))
+                foldedKept.push([match.index, match.index + match[0].length]);
+        }
+        for (const pair of patterns) {
+            if (pair.foldable === false) continue;
+            for (const match of bare.matchAll(pair.foldedRx)) {
+                const from = match.index;
+                const to = from + match[0].length;
+                if (overlaps(taken, from, to) || overlaps(foldedKept, from, to)) continue;
+                if (abbreviatesHelonic(from, to)) continue;
+                taken.push([from, to]);
+                report(pair, from, text.slice(from, to));
             }
         }
     }
@@ -824,6 +897,20 @@ function main() {
     const live = new Set(
         entries.flatMap((entry) => [...asList(entry.newName), ...asList(entry.newAliases)]),
     );
+    // A form whose fold is a current name or a kept word is matched only as
+    // written, so the fold never reports the name the table put in its place.
+    const liveFolded = new Set(
+        [...live, ...(table.keep ?? []).map((entry) => String(entry.literal))].map((form) =>
+            fold(form.normalize("NFC")),
+        ),
+    );
+    // A row whose new name differs from its old only in marks retires the
+    // marks themselves, so its forms are never folded.
+    const retiresMarks = (entry) =>
+        entry.oldName != null &&
+        asList(entry.newName).some(
+            (name) => fold(name.normalize("NFC")) === fold(String(entry.oldName).normalize("NFC")),
+        );
     const pairs = entries.flatMap((entry) =>
         isGovernanceOffice(entry) ?
             []
@@ -835,6 +922,7 @@ function main() {
                 scoped: entry.type === "lore" && entry.subType === "rank",
                 note: entry.note,
                 path: entry.oldPath ?? null,
+                foldable: !liveFolded.has(fold(form.normalize("NFC"))) && !retiresMarks(entry),
             })),
     );
     if (pairs.length === 0) {

@@ -15,6 +15,8 @@ sohl:
     parentSkillCode: script
     initSkillMult: 0
   flags: {"thalorna": {script_family: Logographic}}
+
+# terran_analog: the P'ilambal is the Maya aj tz'ib and the K'inbal the ah k'in; the K'ayik Kul'al is the New Fire ceremony
 ---
 
 Ch'alix Ts'ib—"the writing of Ch'alix," after **Ix'ilan Ch'alix**, who composed the first codex and whose sign is a star within an open book—is the glyph-writing of the [[place-kchchkcntnnt|K'ich'chik]] city-states. Each glyph may stand for a whole concept or for a syllable, and which it is doing is settled by the small **phonetic complements** set beside it and by dots, bars and flourishes that modify the reading. It is written in **paired columns, top to bottom, left to right**, in blocks that are as much composition as text.
@@ -29,11 +31,11 @@ Sacred contexts use an elaborated ceremonial variant of the same glyphs—denser
 
 ## The count of days
 
-Most of what is written is calendrical. The K'in of 365 days, the 260-day Tq'an, the lunar Tz'uqal and the stellar Ix'ilan run simultaneously, and a date is written as the intersection of several of them; the fifty-two-year New Fire Ceremony falls where two of the counts come back into phase. A scribe who cannot compute cannot read, because half the glyphs on a stela are numbers doing work.
+Most of what is written is calendrical. The K'in of 365 days, the 260-day Tq'an, the lunar Tz'uqal and the stellar Ix'ilan run simultaneously, and a date is written as the intersection of several of them; the fifty-two-year **K'ayik Kul'al** ("the Living Flame") falls where two of the counts come back into phase. A scribe who cannot compute cannot read, because half the glyphs on a stela are numbers doing work.
 
 ## Who has it
 
-The **Ah Ts'ib**—scribe and painter, keeper of the glyphs and of the monuments that assert the genealogies—and the **Ah K'in**, priest of the sun and keeper of the count of days. Both rank with the high nobility of a city-state such as [[affiliation-balamkul|Ix'ilankul]], and the office is hereditary in practice. Commoners know a few dozen glyphs: numerals, calendar markers, the titles of the men who own them. Nobody else reads at all, and this is enforced rather than merely customary.
+The **P'ilambal**—scribe and painter, keeper of the glyphs and of the monuments that assert the genealogies—and the **K'inbal**, priest of the sun and keeper of the count of days. Both rank with the high nobility of a city-state such as [[affiliation-balamkul|Ix'ilankul]], and the office is hereditary in practice. Commoners know a few dozen glyphs: numerals, calendar markers, the titles of the men who own them. Nobody else reads at all, and this is enforced rather than merely customary.
 
 ## In play
 
