@@ -49,7 +49,7 @@ Hrímthur is therefore worshipped as substance rather than as a person. He grant
 
 Where he is depicted at all he is shown as a slope rather than a figure—a white ridge with a wound in it, or a jaw of grey stone breaking the snow. The [[affiliation-thursborn|Giant's Children]] carry the wound as a cut pattern across the chest, which is the faith's only universal image.
 
-His hofs are few and hard to reach. Holafell in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the Northern Hall in [[place-targud|Targud]] is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
+His hofs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the Northern Hall in [[place-targud|Targud]] is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
 
 ## Sacred Objects
 

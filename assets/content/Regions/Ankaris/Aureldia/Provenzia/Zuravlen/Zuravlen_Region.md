@@ -18,7 +18,7 @@ data:
 it, and the source of the finest peaches in Ankaris and some of its more highly regarded wine.
 
 The barony is held of the Crown at [[place-lunacorte|Lunacorte]] by **Álegar alrí Zûravel**, who is
-also Baron of Kývarel, and who sits at [[place-mercadaure|Mercadaure]]. His clan's prominent support of
+also Baron of [[place-kyvarel|Kývarel]], and who sits at [[place-mercadaure|Mercadaure]]. His clan's prominent support of
 the Order of the Burning Brand gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.
 

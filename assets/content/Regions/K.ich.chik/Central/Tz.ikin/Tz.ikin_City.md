@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [tzikinrgn], population: 60000, governm
 
 ## Overview
 
-In **Tz'ikin**, the road is a river. The seat of the realm of [[affiliation-tzikin|Tz'ikin]], the Land of Birds, is a city of about 60,000 in the river-bound jungle on the eastern edge of the K'ich'chik heartland, where the Ha'nal Tz'uma, the Ha'nal Xilik and a thousand smaller waterways matter more than roads or temples, and pu'utz, the sheer-walled table mountains, rise from the canopy like islands. Where Ix'ilankul is built on volcanic stone and K'ankul on limestone, Tz'ikin is built on water.
+In **Tz'ikin**, the road is a river. The seat of the realm of [[affiliation-tzikin|Tz'ikin]], the Land of Birds, is a city of about 60,000 in the river-bound jungle on the eastern edge of the K'ich'chik heartland, where the [[place-hanaltzuma|Ha'nal Tz'uma]], the [[place-hanalxilik|Ha'nal Xilik]] and a thousand smaller waterways matter more than roads or temples, and pu'utz, the sheer-walled table mountains, rise from the canopy like islands. Where Ix'ilankul is built on volcanic stone and K'ankul on limestone, Tz'ikin is built on water.
 
 ## What the North Needs
 

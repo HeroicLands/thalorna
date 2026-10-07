@@ -11,7 +11,7 @@ The warrior-judge of the Order of the Sworn Hand, riding circuit to render and e
 
 ## What This Standing Is
 
-A Sworn Hand takes contracts from the order or rides his own circuit by elder permission, convening a ting under Eidgar's white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the Council of Hands at Lögstead.
+A Sworn Hand takes contracts from the order or rides his own circuit by elder permission, convening a ting under Eidgar's white wand to hear a matter and render or enforce the ruling. He is admitted after passing the order's examinations—martial competence, legal memory of all five kingdoms' laws, the rules of judgment by combat, and a ting's rhetorical and procedural conduct—and a final interview before the Council of Hands at [[place-logstead|Lögstead]].
 
 ## How the Law Treats a Person Here
 

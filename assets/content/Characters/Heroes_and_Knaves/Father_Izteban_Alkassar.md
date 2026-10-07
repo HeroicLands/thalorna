@@ -436,7 +436,7 @@ Although Iztéban’s family hoped he would follow in his father’s footsteps a
 
 ### Joining the Árdavonian Church
 
-Iztéban was sent to the **Great Temple of Árdavon** in the capital city of **Valderas**, where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Iztéban excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
+Iztéban was sent to the **Great Temple of Árdavon** in the city of [[place-valderas|Valderas]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Iztéban excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
 
 At the age of 20, Iztéban took his vows and was ordained as a priest dedicated to serving Árdavon’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Árdavonian church.
 

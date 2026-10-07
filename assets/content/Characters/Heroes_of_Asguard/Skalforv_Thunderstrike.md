@@ -392,7 +392,7 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 **The Storm Temple of [[place-thrumufjall|Thrumufjall]]**—The priests of Thrúnvald's sacred mountain recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
-**Widow Hvarnselda of Ralthvík**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
+**Widow Hvarnselda of [[place-ralthvik|Ralthvík]]**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 

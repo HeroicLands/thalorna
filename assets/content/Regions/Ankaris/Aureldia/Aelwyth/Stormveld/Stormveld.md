@@ -31,7 +31,7 @@ Their settlements cluster around the fjords—fortified longhouses and harbors b
 Stormveld occupies the **north-east** of Aelwyth and is enormous—something like **a fifth of the
 island's land area**, more than any other realm holds.
 
-All of it was **Vardanreach** before the conquest: the plain, the [[place-nordfells|Nordfells]], the
+All of it was [[place-vardanreach|Vardanreach]] before the conquest: the plain, the [[place-nordfells|Nordfells]], the
 [[place-sunderfells|Sunderfells]] and the high valleys within them, held by the
 [[lore-vardain|Vardain]] for thousands of years.
 

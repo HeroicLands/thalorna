@@ -17,7 +17,7 @@ data:
 
 ## Teaser
 
-Céravel Vale, a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. Târlas Pélanvri, Lord of Bélsaren, has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to Tarvénia, the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
+[[place-ceravelvale|Céravel Vale]], a prosperous region of manorial estates and thriving villages, has come under siege—not by armies, but by brigands. Once scattered bands of highwaymen have united under a cunning leader, disrupting trade and plundering travelers across the Vale. Târlas Pélanvri, Lord of [[place-belsaren|Bélsaren]], has been tasked with eliminating the threat. Yet rumors persist that the brigands may have powerful allies, perhaps even tied to Tarvénia, the enemy land to the southeast. Adventurers are summoned to confront the bandits, but in a land rife with intrigue and shifting loyalties, their task may reveal dangers far greater than mere outlaws.
 
 ## Campaign Summary
 
@@ -29,9 +29,9 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 
 - **Thárion al Dracáen**—Deposed former lord of Bélsaren, now a charismatic bandit leader fighting for the Thânevar peasants. Sympathetic but increasingly desperate and violent.
 - **Élgâr Târlas al Pélanvri nâ Bélsaren**—Current lord of Bélsaren. Harsh, self-interested, and oppressive toward the Thânevar. Hires the adventurers.
-- **Khiráta Jârvel al Pélanvri nâ Caêr Céravel**—Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.
-- **Nâlor Kílan alrí Ilóvrel nâ Ilóvren**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.
-- **Kâldin al Lénavel nâ Léravren**—Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.
+- **Khiráta Jârvel al Pélanvri nâ [[place-caerceravel|Caêr Céravel]]**—Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.
+- **Nâlor Kílan alrí Ilóvrel nâ [[place-ilovren|Ilóvren]]**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.
+- **Kâldin al Lénavel nâ [[place-leravren|Léravren]]**—Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.
 - **Darisen al Olrûn**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Thanatine with his own designs on the artifact.
 
 ## The Three Parts

@@ -75,7 +75,7 @@ The imperial response was effective on land—until
 [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], seeing an opportunity to weaken a northern rival, covertly
 supplied the rebels with gold, weapons and military advisors. Khelâthi gold kept the rebellion solvent
 and Khelâthi naval expertise turned a ragtag flotilla into a fighting force; the destruction of a
-Vylarian squadron at the Battle of Tamzîr Shoals broke the empire's ability to sustain its eastern
+Vylarian squadron at the Battle of [[place-tamzirshoals|Tamzîr Shoals]] broke the empire's ability to sustain its eastern
 garrisons, and Harad's independence was recognized within the year.
 
 Today the empire has retreated to its core territories around the Vylarian peninsula, though it still

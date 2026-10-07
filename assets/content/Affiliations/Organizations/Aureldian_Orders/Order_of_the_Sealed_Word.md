@@ -52,7 +52,7 @@ _Aurèldían: Ordo Verbi Signati—"The Order of the Sealed Word"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-janus|Árdavon]]—Aurèldían god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses in all five Aurèldían kingdoms, with the mother-house at Ólvestria in [[place-tarvenirgn|Tarvénia]]
+- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses in all five Aurèldían kingdoms, with the mother-house at [[place-olvestria|Ólvestria]] in [[place-tarvenirgn|Tarvénia]]
 
 ## Overview
 

@@ -51,7 +51,7 @@ _Aurèldían: Ordo Bifrons—"The Order of Two Faces"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-janus|Árdavon]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
-- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of Ólvestria
+- **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of [[place-olvestria|Ólvestria]]
 
 ## Overview
 

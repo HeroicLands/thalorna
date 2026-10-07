@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 200000, gover
 
 ## Overview
 
-The harbor at **Azhûn** never sleeps. The city sprawls along a natural harbor at the mouth of the Alz River, and merchant vessels arrive and depart with the tides, their holds brimming with spices, silks and rare woods. About 200,000 people live behind its white-walled warehouses, in the largest of the Haradian city-states. The street markets overflow with languages, accents and goods so exotic that locals joke the sea itself disgorges treasures at Azhûn's feet.
+The harbor at **Azhûn** never sleeps. The city sprawls along a natural harbor at the mouth of the [[place-alzriver|Alz River]], and merchant vessels arrive and depart with the tides, their holds brimming with spices, silks and rare woods. About 200,000 people live behind its white-walled warehouses, in the largest of the Haradian city-states. The street markets overflow with languages, accents and goods so exotic that locals joke the sea itself disgorges treasures at Azhûn's feet.
 
 ## What It Does
 

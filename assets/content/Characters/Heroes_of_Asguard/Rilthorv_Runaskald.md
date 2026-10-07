@@ -368,7 +368,7 @@ Rilthorv stands 5'10" with a lean, wiry frame, weighing about 165 pounds. His fa
 
 Rilthorv Runaskald was a wandering skald, known throughout the lands for his enchanting voice and his mastery of the ancient runes. Unlike many warriors of his time, Rilthorv chose the path of the bard, believing that words and knowledge held a power greater than any sword. He traveled from village to village, sharing stories of **Ódvar** and the gods, teaching the secrets of the runes, and recording the sagas of great heroes. Rilthorv was revered not only for his musical talents but for his deep understanding of the mystical arts, which he used to heal, protect, and inspire.
 
-The most famous saga of Rilthorv Runaskald is the tale of how he saved a kingdom with nothing but his voice and a single rune. When the realm of **Flurnheim** was beset by a terrible blight, which no healer could cure, the people turned to Rilthorv for help. Guided by Ódvar, Rilthorv spent three days and nights in a trance, seeking the root of the curse. On the third night, he emerged with a single rune inscribed on a piece of bark. Rilthorv traveled to the heart of Flurnheim, where he sang the ancient verses of Ódvar and pressed the rune into the earth. As he did, the blight lifted, the land healed, and the crops began to grow once more. The people of Flurnheim hailed Rilthorv as a savior, and his song became a part of their harvest rituals for generations to come.
+The most famous saga of Rilthorv Runaskald is the tale of how he saved a kingdom with nothing but his voice and a single rune. When the realm of [[place-flurnheim|Flurnheim]] was beset by a terrible blight, which no healer could cure, the people turned to Rilthorv for help. Guided by Ódvar, Rilthorv spent three days and nights in a trance, seeking the root of the curse. On the third night, he emerged with a single rune inscribed on a piece of bark. Rilthorv traveled to the heart of Flurnheim, where he sang the ancient verses of Ódvar and pressed the rune into the earth. As he did, the blight lifted, the land healed, and the crops began to grow once more. The people of Flurnheim hailed Rilthorv as a savior, and his song became a part of their harvest rituals for generations to come.
 
 ## Psyche
 
@@ -390,7 +390,7 @@ Rilthorv's voice carries supernatural resonance when he sings the old sagas, cap
 
 ### Patrons
 
-**The Skalds' Hall of Rilthheim**—This prestigious gathering of northern bards and loremasters considers Rilthorv one of their finest, granting him the right to speak with their authority and access their archives of ancient sagas.
+**The Skalds' Hall of [[place-rilthheim|Rilthheim]]**—This prestigious gathering of northern bards and loremasters considers Rilthorv one of their finest, granting him the right to speak with their authority and access their archives of ancient sagas.
 
 **Flurnynda Flirnvirsdóttir**—A wealthy merchant's widow who funds Rilthorv's travels in exchange for first hearing of any new sagas he discovers. She harbors a quiet affection for the skald that he pretends not to notice.
 

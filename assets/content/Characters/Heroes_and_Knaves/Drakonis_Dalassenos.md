@@ -461,7 +461,7 @@ A more personal motivation underlies this: the wilderness is the only place wher
 
 ### Patrons
 
-Lord Harren of the Frontier Territories
+Lord Harren of the frontier
 : A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is one of business but carries unusual mutual respect.
 
 The Kozna Collective of Woodsmen

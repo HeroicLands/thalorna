@@ -30,7 +30,7 @@ shelter their own does not depend on proving the oath. Nor does the story establ
 ## The Nalthmark Land-Taking
 
 Twelve years ago, Nordheim settlers carried their old hall-posts down the [[place-nalthmark|Nalthmark]] road and planted
-them at **Hrindstead** in a grove claimed by the **Eichthúl**, a [[lore-varokhiclt|Varokhi]] clan. They walked bounds with fire and treated the
+them at [[place-hrindstead|Hrindstead]] in a grove claimed by the **Eichthúl**, a [[lore-varokhiclt|Varokhi]] clan. They walked bounds with fire and treated the
 rite as a claim witnessed by their gods. The Eichthúl burned the first stockade; the settlers raised
 another on the same posts. The grove's oaks remain a claim the two peoples cannot both satisfy. The
 Nordmen's rite is part of the dispute, not proof that the land was theirs to take.

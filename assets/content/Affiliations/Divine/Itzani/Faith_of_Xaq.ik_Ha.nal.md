@@ -86,7 +86,7 @@ sohl: {system: {commonSkills: [xaqikhanal]}}
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life
 
-Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to Ch'al Tz'umaq. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
+Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the sacred pools (_ch'uqil_)—the natural sinkholes where underground rivers break through to daylight, understood as literal portals to [[place-chaltzumaq|Ch'al Tz'umaq]]. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
 
 ## Worship
 

@@ -56,7 +56,7 @@ _Nordmal: Skaldahringr—"the Ring of the Skalds"_
 
 - **Type:** Pan-regional bardic fellowship
 - **Region:** [[place-nrdlndsrgn|The Nordlands]]—all five kingdoms, plus [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]] where Asguardian custom holds
-- **Founded:** Tradition holds that the Circle was sworn at the great gathering at Hringstead five generations before the founding of any present Nordland kingdom
+- **Founded:** Tradition holds that the Circle was sworn at the great gathering at [[place-hringstead|Hringstead]] five generations before the founding of any present Nordland kingdom
 
 ## Overview
 

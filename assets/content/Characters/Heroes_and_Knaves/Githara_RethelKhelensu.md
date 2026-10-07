@@ -502,7 +502,7 @@ The Craft Collective
 
 ## Plot Hooks
 
-1. **The Foreign Commission**: A mysterious agent from the distant Kingdom of Vel'Khara arrives in Aû'Khelâthu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Aû'Khelâthu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
+1. **The Foreign Commission**: A mysterious agent from the distant [[place-velkhara|Kingdom of Vel'Khara]] arrives in Aû'Khelâthu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Githara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Aû'Khelâthu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
 
 2. **The Cursed Log**: A merchant brings Githara a single enormous log of wood so perfect, so ancient, and so radiantly beautiful that it seems to defy nature. However, it bears marks she cannot explain and emanates a faint wrongness that troubles her. Investigation reveals the log was harvested from a sacred grove protected by an ancient curse—and the merchant promises Githara a fortune if she'll work with it. The curse, if real, may pass to anyone who shapes the wood, but refusing means allowing an unscrupulous craftsperson to claim the prize instead.
 
