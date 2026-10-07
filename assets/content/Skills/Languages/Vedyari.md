@@ -38,7 +38,7 @@ Vedyari employs a rich consonantal inventory marked by articulatory precision:
 - Unvoiced: p, t, ṭ (retroflex), k
 - Voiced: b, d, ḍ (retroflex), g
 - Affricates: ch (TS), j (DZH)
-- Aspirated: kh, gh, th, dh, ph, bh—each stop with a breath after it, so that _th_ is the _t_ of English _hothouse_ and never the _th_ of _thin_
+- Aspirated: kh, gh, th, dh, ph, bh—each stop with a breath after it, so that _th_ is a _t_ followed by a breath and never the _th_ of _thin_
 
 **Fricatives:**
 

@@ -52,7 +52,7 @@
  * reader's tongue that a standing bore before its culture had a word of its
  * own. `Elder` and `Hunter` are ordinary words, so those forms are swept only
  * in material of the culture whose ladder they name. An office has no note or
- * aliases; its former English phrase is also an ordinary word, even there.
+ * aliases; its former glossed phrase is also an ordinary word, even there.
  * The Varokhi lexicon guard checks every `data.governance.offices` key, so the
  * prose sweep skips a row verified as a current office key. No second list of
  * office words is kept here.
@@ -352,7 +352,7 @@ function frontmatterOf(raw) {
  * Whether a retired rank row names a current governance office.
  *
  * Office rows have no standalone note or shortcode. Check the current key in
- * the note named by the row before leaving its old English phrase to the
+ * the note named by the row before leaving its old glossed phrase to the
  * Varokhi lexicon guard. A missing or changed key keeps the row in this sweep
  * rather than silently treating it as an office.
  *
@@ -527,7 +527,7 @@ export function romanisationFrom(text, heading) {
  * writes any of them by accident, and a pantheon that compares its own maker to
  * the north's writes the north's name in its own note, so these are swept
  * across the whole corpus and a comparison made from anywhere is reached. The
- * English phrase a standing bore before its culture had a word of its own is
+ * glossed phrase a standing bore before its culture had a word of its own is
  * the other case: `Elder` and `Hunter` are ordinary words of the reader's
  * tongue, so retired standing phrases are swept only in their culture's
  * material, the same scope the romanisation holds to. `Guide` and `Healer`
@@ -672,7 +672,7 @@ export function checkRomanisation(spec, rule, files, tally) {
         ),
     }));
     // The assembly keeps its hard opening, so the word the note refuses is the
-    // one that buries it in an English noun. Only a capital is read: written
+    // one that buries it in a plain noun. Only a capital is read: written
     // small it is that ordinary noun.
     const assembly = new RegExp(
         `(?<![\\p{L}\\p{M}])(?:Al)?Thing(?:s|stead)?(?![\\p{L}\\p{M}])`,
@@ -890,9 +890,9 @@ function main() {
     // — deity, rank, order — and `type` is the fallback where a row states no
     // subType. `newName: null` is `drop`: retired with nothing to replace it.
     //
-    // A `lore`/`rank` row for a standing retires an English phrase and is swept
+    // A `lore`/`rank` row for a standing retires a glossed phrase and is swept
     // only where its culture is written. Office keys are checked directly by
-    // the Varokhi lexicon guard, so their ordinary English phrases are omitted.
+    // the Varokhi lexicon guard, so their ordinary glossed phrases are omitted.
     const entries = table.entries ?? [];
     const live = new Set(
         entries.flatMap((entry) => [...asList(entry.newName), ...asList(entry.newAliases)]),

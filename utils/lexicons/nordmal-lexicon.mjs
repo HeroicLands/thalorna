@@ -1029,7 +1029,7 @@ export function checkConcordance(table, rule, tally) {
                 // keep-list's terms and with the keep-list's meaning: empty for
                 // a name written in another tongue or in the reader's, which is
                 // never claimed as a lawful Nordmal form and so never judged as
-                // one. A Varokhi standing and an English rank label are both
+                // one. A Varokhi standing and a glossed rank label are both
                 // that case, and the note's rules have no jurisdiction over
                 // either.
                 kind:

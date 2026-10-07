@@ -33,7 +33,7 @@ The same five-day remainder, carried across years instead of months, gives Thalo
 
 ## What Each People Calls It
 
-**Vaelith** is the Vylarian name for the moon, met first in this corpus because the corpus is written in the Common tongue—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
+**Vaelith** is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
 
 **Tz'uqal** is Itzani for moonlight, glossed beside _K'inix_ (Sunlight) and _Ix'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, the [[affiliation-naliktzuqal|Dreamer in Moonlight]], whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by the [[skill-chlxtsbscrpt|Chalix Tsib]] script.
 
