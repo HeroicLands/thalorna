@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 45000, governme
 
 ## Overview
 
-Say you reach **Kalydria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thyrenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this city of 45,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Heliónis]]. Its patron is [[affiliation-arldnpnthn|Aethería]], goddess of dreams and visions.
+Say you reach **Kalydria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thyrenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this city of 45,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Heliónis]]. Its patron is [[lore-theriadty|Aethería]], goddess of dreams and visions.
 
 ## Who Governs
 
@@ -18,7 +18,7 @@ An oligarchy of wealthy patron families governs Kalydria, and the families compe
 
 ## The Academy of the Silver Veil
 
-The city's most distinctive institution is the Academy of the Silver Veil, which trains the hetairai: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across [[place-midhalnrgn|Mídhalión]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalydria, small in military strength, matters in rooms where armies do not.
+The city's most distinctive institution is the **Academy of the Silver Veil**, which trains the hetairai: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across [[place-midhalnrgn|Mídhalión]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalydria, small in military strength, matters in rooms where armies do not.
 
 ## Making a Living
 

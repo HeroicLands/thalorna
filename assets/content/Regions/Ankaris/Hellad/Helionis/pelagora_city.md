@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## Overview
 
-**Pelagora** settles things by shouting, and the shouting decides a fleet. The city of 40,000 is the naval power of [[place-helionis|Heliónis]], a democracy in which an assembly of free citizens votes on war, trade and law, and every citizen is expected to serve in the fleet or the militia. Its patron is [[affiliation-arldnpnthn|Árdavon]], god of order and justice, and the assembly is the loudest place in the city: debates turn into shouting matches, demagogues rise and fall with the public mood, and the city lives with it because a man who owns a share of the city fights for it.
+**Pelagora** settles things by shouting, and the shouting decides a fleet. The city of 40,000 is the naval power of [[place-helionis|Heliónis]], a democracy in which an assembly of free citizens votes on war, trade and law, and every citizen is expected to serve in the fleet or the militia. Its patron is [[lore-janusdty|Árdavon]], god of order and justice, and the assembly is the loudest place in the city: debates turn into shouting matches, demagogues rise and fall with the public mood, and the city lives with it because a man who owns a share of the city fights for it.
 
 ## The Harbor
 

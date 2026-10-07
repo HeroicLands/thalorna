@@ -78,13 +78,28 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of Myrtillos. The city-state holds the land of [[place-kostarosdst|Kostaros District]]. _To be expanded._
+"Twenty years I have paid the tax and stood the levy," says a metic who has kept a shop on the Kostaros coast for that long, "and the assembly has never once asked what I think." A resident foreigner's lot is the same in every Helionite city-state, and what marks Kostaros is its land. It is a coastal city-state of about 40,000 people that governs the district around it, the [[place-kostarosdst|Kostaros District]], which takes in the town of [[place-myrtillos|Myrtillos]]. An oligarchy of its wealthy patron families holds the government.
 
 > Not to be confused with the Byzarian port town of the same name in the [[affiliation-byzarianlg|Byzarian League]].
 
+- **Government:** oligarchy of wealthy patron families
+- **Land held:** [[place-kostarosdst|Kostaros District]], including Myrtillos
+
+## Who Decides
+
+Kostaros works inside the forms the seven city-states share. The assembly of citizens is sovereign, a council chosen by lot prepares its business for a year, magistrates answer to an auditor, the citizens elect a strategos and the archon names the year. The patron families hold the city's government within those forms.
+
+Standing is the common Helionite ladder, and the metic's complaint belongs to its middle rung: a resident foreigner is taxed and liable to the levy, with no vote and no right to own land. A citizen by descent votes in the assembly and serves in the militia.
+
+## Relations
+
+Kostaros is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and shares the Helonic tongue and the festivals of the other six cities. Within its land lies Myrtillos, a town of 4,000.
+
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—The confederation
-- [[place-helionis|Heliónis]]—Regional overview
-- [[place-kostarosdst|Kostaros District]]—The land the city-state holds
-- Myrtillos—Coastal town within its territory
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
+- [[place-helionis|Heliónis]]—the region
+- [[place-kostarosdst|Kostaros District]]—the land the city-state holds
+- [[place-myrtillos|Myrtillos]]—coastal town within its territory
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
+- [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]]—the rest of the seven

@@ -83,11 +83,22 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Therádon is one of the smaller yet distinguished city-states of Heliónis, built upon terraced hillsides overlooking the Theradic Gulf. The city's significance derives not from military might or mercantile wealth, but from its role as a center of philosophical inquiry and the home of an important Panepistemium chapterhouse. Scholars from across the realms travel to Therádon to study with its renowned philosophers, physicians, and natural historians. The city's libraries contain some of the oldest written texts in western Ankaris, and its marble colonnades echo with the voices of students engaged in rigorous dialectic with their teachers. The city-state holds [[place-theradon2|Therádon]] itself.
+Therádon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the **Theradic Gulf**, known for its philosophers, physicians and natural historians and for a [[affiliation-panepistmm|Panepistemium]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Therádon]].
 
-Therádon's constitution is oligarchic, governed by an assembly of the wealthiest and most educated citizens who believe themselves uniquely qualified to guide the polis toward justice and virtue. This system produces remarkable intellectual achievement but also profound arrogance—the city's citizens often express barely concealed disdain for the "barbarous" territories beyond Heliónis. Yet despite their airs, Therádon's philosophers have grappled seriously with difficult questions about justice, knowledge, and the good life, and their work continues to influence thought throughout the civilized world.
+- **Government:** oligarchic assembly of the wealthiest and most educated citizens
+- **Seat:** the city of [[place-theradon2|Therádon]]
 
-The city's character is one of intellectual ferment mixed with civic pride. The temples of the Aurèldían pantheon maintain high standards of ritual propriety, but the true center of Therádon's spiritual life is its academy, where the pursuit of wisdom and understanding is treated as a sacred duty. Markets are orderly and regulated; art and architecture are designed to elevate the soul and sharpen the intellect. Visitors remark that Therádon can feel simultaneously sublime and stifling—a place of extraordinary beauty and insight, but also of narrow certainty about what constitutes truth and proper living.
+## Who Decides
+
+The constitution is oligarchic, and it works inside the forms the seven city-states share: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strategos and a year-naming archon. What sets Therádon apart is who it admits to the work. The wealthiest and most educated citizens run the city, and they treat government as a branch of philosophy.
+
+The result is real intellectual achievement beside real arrogance. A student from abroad who has been called a barbarian in Therádon describes it this way: "They call everyone beyond the last olive terrace a barbarian, and they say it so kindly that you cannot even be offended properly." The citizens' disdain for the "barbarous" lands beyond Heliónis is barely concealed, yet their philosophers have taken the hard questions of justice, knowledge and the good life seriously, and their work is argued over throughout the civilized world.
+
+## Learning and Faith
+
+Scholars from across the realms come to study with Therádon's philosophers, physicians and natural historians. The city's libraries hold some of the oldest written texts in western Ankaris, and its colonnades are full of students in dialectic with their teachers. The Panepistemium chapterhouse, part of the federation [[lore-panepistfnd|founded around 400 BF]], gives the city its standing as a place of study.
+
+The temples of the [[affiliation-arldnpnthn|Aurèldían pantheon]] keep high standards of ritual propriety, but the academy is the center of spiritual life, because the pursuit of wisdom is treated here as a sacred duty. Markets are orderly and regulated, and art and architecture are built to elevate the soul and sharpen the intellect. Therádon is sublime and stifling in the same afternoon: beauty and insight beside a narrow certainty about what counts as truth and a proper life.
 
 ## Commerce and Currency
 
@@ -95,8 +106,10 @@ Therádon uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 
 ## See Also
 
-- [[place-helionis|Heliónis]]—Regional overview
-- [[place-theradon2|Therádon]]—The city itself
-- [[skill-helonclng|Helonic]]—Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious tradition
-- [[affiliation-panepistmm|Panepistemium]]—Scholarly institution
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
+- [[place-helionis|Heliónis]]—the region
+- [[place-theradon2|Therádon]]—the city itself
+- [[skill-helonclng|Helonic]]—the naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the shared faith
+- [[affiliation-panepistmm|Panepistemium]]—the scholarly federation
+- [[lore-dragondead|The Dragon Dead at Therádon]]
