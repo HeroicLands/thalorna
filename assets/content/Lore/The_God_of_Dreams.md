@@ -42,7 +42,7 @@ When matters arise that affect the faith as a whole, the Ansorunno gather in a *
 
 ## The Khazári Tradition
 
-Almost nothing is known of how the Khazári worship Luváth. The Deep Folk share even less with outsiders than the Sinalë do. What fragments exist—from pre-Compact artifacts and the rare oblique reference a Khazár has let slip—suggest a tradition centered on craft as devotion: the act of shaping stone and metal with skill and patience is itself a form of prayer. Light, in the Khazári understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
+The Khazári recognize Luváth and ask little of the god. The Deep Folk share even less with outsiders than the Sinalë do, but the fragments that exist—from pre-Compact artifacts and the rare oblique reference a Khazár has let slip—agree on where their regard goes. They venerate [[lore-khazararrv|Pathakan]], Luváth's servant, who led the seven clans out of Humadhan and is remembered as the savior of their people; Luváth they hold to be his master. Their devotion centers on craft: shaping stone and metal with skill and patience is itself a form of prayer, work offered in Pathakan's memory and in accord with the mountain. Light, in the Khazári understanding, is not the open radiance of sun and star but the glow of the forge and the luminescence of deep crystal—light that endures in places the sun has never touched.
 
 ## The Old Compact
 
