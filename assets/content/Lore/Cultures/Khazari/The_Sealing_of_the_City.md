@@ -172,7 +172,7 @@ _Zom_
 In the tower of Rummák the layers of courses
   were laid in the halls.
 **Ramkan** of Ramkasumád in the hall he had raised,
-  two hundred and forty feet to the vault.
+  two hundred and fifty-six feet to the vault.
 **Rimki** of Vatamarumák, who took up her forebear's work,
   on the stair her forebear began.
 **Thalgan** of Thalgahunáth, who made the roads,

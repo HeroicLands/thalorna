@@ -23,7 +23,7 @@ Two words of the text need glossing. The _marg_ (bone) of a name is its three co
 
 _From the record of Basrakhunák, as the holds copy it._
 
-In the year of the hold 484 the snow lay on the gate-road from the first day of the cold to the forty-first day of the thaw. Of the herd of the gate, 120 head driven up in the autumn, nine stood at the thaw. Of the tribe at the gate, 206 at the autumn count; 178 at the thaw. The hold's share from the gate was short by a third at the autumn count, and the elders opened the caches to the houses by need, and none to the gate.
+In the year of the hold 484 the snow lay on the gate-road from the first day of the cold to the forty-first day of the thaw. Of the herd of the gate, 128 head driven up in the autumn, nine stood at the thaw. Of the tribe at the gate, 206 at the autumn count; 178 at the thaw. The hold's share from the gate was short by a third at the autumn count, and the elders opened the caches to the houses by need, and none to the gate.
 
 Gisvin of Tanvaguráz, keeper of the gate, sworn below in the year of the hold 423 that nothing of the hold's goes out by the gate but by the elders' word, went down to the caches on the thirty-second night of the cold, on the fortieth and on the fifty-first, and carried out by the gate: barley, twelve sacks by the gate-measure; dried meat, four; salt, one; oil, two jars. **Dhonko** of Famgadurákh, keeper of the caches, saw him on the third night and entered it. He was called down. He was asked. He said: I opened it. He said nothing else.
 
@@ -184,7 +184,7 @@ The snow came on the first day of the cold and lay
   to the forty-first of the thaw.
 The hold's share from the gate was short by a third.
   I had tallied it. It was short.
-A hundred and twenty head were driven up in the autumn.
+A hundred and twenty-eight head were driven up in the autumn.
   Nine stood at the thaw.
 Two hundred and six at the autumn count.
   A hundred and seventy-eight at the thaw.
