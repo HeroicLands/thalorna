@@ -60,65 +60,35 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-eidgardty|Eidgar]], the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Eidgar is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice—losing his hand to the great wolf [[lore-vetrulfr|Vetrúlfr]]—exemplifies his dedication to justice and the protection of the world, even at great personal cost.
+Bring a dispute to a hof of Eidgar and the first question is what you are prepared to swear. A jarl who patronizes the hof beside her province's ting explains why she carries her quarrels there: "A ruling given in the open binds me as hard as it binds my neighbor, and a ruling sworn on the god's own oath ring binds us both harder. I would rather lose a boundary than be known to have walked away from that oath."
 
-## Aspects
+[[lore-eidgardty|Eidgar]] is the god of justice and honorable combat, the judge whose standard is fairness, valor and sacrifice. He gave his hand to the great wolf [[lore-vetrulfr|Vetrúlfr]], and his faith reads the loss as the model of what it asks: a decision that costs the one who makes it nothing is not worth trusting. Temples of Eidgar are places of law and order, where disputes are settled and oaths are sworn. Warriors are trained there in the ethics that govern their weapons as well as in the weapons themselves, and the faithful are expected to fight with honor and never to use deceit or unnecessary cruelty.
 
-Eidgar is depicted as a noble and stoic figure, often shown with his one remaining hand holding a sword or scales, symbolizing his role as both a warrior and a judge. His presence commands respect, as he represents the moral compass by which warriors and leaders are guided.
+## The God and His Standing
 
-In the cosmic struggle between order and chaos, Eidgar is a stalwart defender of justice, standing in direct opposition to [[lore-svartbrandrdty|Svartbrandr]]. Their battles are seen as symbolic of the eternal struggle between order and chaos.
+Images show Eidgar as a noble, stoic figure whose one remaining hand holds a sword or a pair of scales, for he is warrior and judge together, and he commands respect as the moral compass for warriors and leaders. In the cosmic struggle between order and chaos he stands in direct opposition to [[lore-svartbrandrdty|Svartbrandr]], and the faithful read their battles as that eternal contest in miniature. His bond with [[lore-frodvindty|Fródvin]] runs the other way, toward mutual respect and shared purpose: Fródvin nurtures the earth and fosters peace, and Eidgar makes certain that justice prevails, which gives growth and order a balance.
 
-Eidgar's bond with [[lore-frodvindty|Fródvin]] is one of deep mutual respect and shared purpose. While Fródvin nurtures the earth and fosters peace, Eidgar ensures that justice prevails, creating a harmonious balance between growth and order.
+A worshipper carries an iron scale for balance and fairness in judgment, a broken sword for sacrifice for the greater good, a shield fragment for the defense of justice, or an oath ring, which is used in the rites that bind oaths and keep honor. Three relics belong to the faith. **The Hand of Justice** is unique, a finely made gauntlet of silver and iron forged to replace the god's lost hand; its wearer can tell truth from lies. **Oathkeeper's Sword** is a ceremonial blade inscribed with runes of truth and justice, found in the larger or more important temples, and any oath sworn on it is held unbreakable, bound by Eidgar's authority. The **Shield of Honor** is a sturdy shield painted with the scales of justice, believed to give its bearer better protection against treachery and deceit.
 
-Temples dedicated to Eidgar serve as places of law and order, where disputes are settled and oaths are sworn. Within these walls, warriors are trained not just in the art of combat, but in the ethical principles that should guide their actions. His followers are expected to fight with honor, never resorting to deceit or unnecessary cruelty.
+## The Clergy
 
-## Sacred Objects
+Every rung of the clergy centers on the hof where the local ting sits:
 
-- **Iron Scale:** Represents balance and fairness in judgment.
-- **Broken Sword:** Symbolizes sacrifice for the greater good.
-- **Shield Fragment:** Represents protection and the defense of justice.
-- **Oath Ring:** Used in rituals of binding oaths and maintaining honor.
+- Refused the Blót: denied the offering at the hof where the local ting sits, and cut from the clergy and from the assembly's standing.
+- Blótmadr: attends the blót at the hof where the ting sits and shares the meal that binds the law to the god.
+- Hofsmadr: given to the hof where the ting sits, laboring at its observances before standing in the priesthood that judges there.
+- Godi / Gydja: ordained to keep the hof where the ting sits, swearing its oaths and keeping its rites.
+- Hofgodi / Hofgydja: consecrates the hofs where tings sit, ordains their godar, and performs the great blót at a season's turning.
 
-## Relics
-
-- **The Hand of Justice:** (Unique) A finely crafted gauntlet made of silver and iron, forged to replace Eidgar's lost hand. When worn, it grants the bearer the power to discern truth from lies.
-- **Oathkeeper's Sword:** A ceremonial blade inscribed with runes of truth and justice. Any oath sworn upon this blade is unbreakable, bound by Eidgar's divine authority. Found in larger or more important temples of Eidgar.
-- **Shield of Honor:** A sturdy shield emblazoned with the scales of justice. Believed to provide its bearer with enhanced protection against treachery and deceit.
-
-## Clergy
-
-- **Refused the Blót**—denied the offering at the hof where the local ting sits, cut from the clergy and from the assembly's standing.
-- **Blótmadr**—attends the blót at the hof where the ting sits and shares the meal that binds the law to the god.
-- **Hofsmadr**—given to the hof where the ting sits, laboring at its observances before standing in the priesthood that judges there.
-- **Godi / Gydja**—ordained to keep the hof where the ting sits, swearing its oaths and keeping its rites.
-- **Hofgodi / Hofgydja**—consecrates the hofs where tings sit, ordains their godar, and performs the great blót at a season's turning.
-
-**Key Skills:** Legal knowledge and judgment, Combat and strategy, Oathbinding and mediation, Sacrifice and self-discipline
-
-## Divine Servants
-
-- **Honorguard:** Divine warriors who protect the sanctity of law and order.
-- **Vetrúlfr's Bane:** Spirits that uphold justice, often appearing in times of conflict to ensure fairness.
+The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrúlfr's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
 
 ## Ceremonies and Festivals
 
-### Low Ceremonies
-
-- **The Shield's Blessing:** A ceremony where the faithful receive blessings for protection and courage in upholding justice.
-
-### High Ceremonies
-
-- **The Trial of Valor:** A ceremony where high priests undergo trials of combat and judgment, proving their worthiness to lead.
-
-### Festivals
-
-- **The Day of Honor:** An annual celebration of Eidgar's justice, filled with tournaments, oaths, and ceremonies honoring the god's sacrifice.
+The low ceremony is the **Shield's Blessing**, in which the faithful receive blessings for protection and courage in upholding justice. The high ceremony is the **Trial of Valor**, where high priests undergo trials of combat and judgment to prove they are worthy to lead. The festival is the **Day of Honor**, an annual celebration of Eidgar's justice filled with tournaments, oaths and ceremonies honoring the god's sacrifice.
 
 ## Ordeals for Favor
 
-- **The Sword's Trial:** An ordeal where participants must defend a sacred site or person from harm, proving their valor and dedication.
-- **The Oathkeeper's Challenge:** A test where the faithful must uphold a difficult oath, showing their commitment to justice and honor.
-- **The Sacrifice of the Hand:** An ordeal where participants must symbolically sacrifice a part of themselves, showing their willingness to give all for justice.
+Three ordeals win the god's favor. In the **Sword's Trial** a participant must defend a sacred site or person from harm. The **Oathkeeper's Challenge** asks the faithful to keep a difficult oath, showing their commitment to justice and honor. In the **Sacrifice of the Hand**, a participant symbolically gives up a part of themselves, to show willingness to give all for justice.
 
 ## See Also
 

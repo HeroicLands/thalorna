@@ -60,66 +60,37 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-frodvindty|Fródvin]], the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fródvin's blessings are vital to those who work the land.
+The first thing a hofsmadr learns at a hof of Fródvin is to carry water. Nobody explains it; you carry it to the herb beds in the morning, to the sickroom at noon and out to the field benches when the Blessing of the Fields comes round, and sometime in the second year you notice that all three trips are the same prayer. A young hofsmadr bent over a drying rack of yarrow says it better: "People come here wanting to be told the god is kind. He is. But what he does with his kindness is hand you a bucket."
 
-## Aspects
+[[lore-frodvindty|Fródvin]] is the compassionate god of fertility, agriculture, peace and healing, and the faith holds a special place among farmers and rural folk, whose harvests and herds depend on his blessing. Temples of Fródvin are rare, and they are invariably attached to hospitals: they serve the sick first. The clergy are mendicant, humble in dress and in habit, and are most often found working beside their flock in fields and glens. They hold their services outdoors, under the open sky, so that worshippers meet the god directly through the earth and what it yields.
 
-A god of peace, Fródvin tirelessly works to bring harmony among people. He is a divine mediator, striving to resolve conflicts and promote understanding. His influence is crucial in maintaining unity and preventing discord within communities.
+## The God of Peace and Healing
 
-Fródvin is also the revered god of healing, and his mendicant clergy reflect his humility and dedication. These priests are often found working hand-in-hand with their flock in fields and glens, embodying the close bond between divinity and nature. They perform services outdoors, under the open sky, connecting worshippers directly with the earth and its bounties. The rare temples dedicated to Fródvin serve dual purposes; they are invariably attached to hospitals and primarily cater to the needs of the sick.
+Fródvin is also a god of peace, a divine mediator who strives to resolve conflicts and promote understanding, and his influence keeps a community together and prevents discord. He is shown as a serene, nurturing figure who radiates kindness and warmth, usually with sheaves of wheat or fruits, in simple dress that reflects his closeness to humble rural life.
 
-Fródvin is often depicted as a serene and nurturing figure, radiating kindness and warmth, commonly shown with symbols of agriculture such as sheaves of wheat or fruits. His attire is simple, reflecting his close connection to humble rural life.
+A worshipper carries a sheaf of wheat for fertility and agriculture, an oak leaf for strength and growth in nature, a healing herb bundle for the rites of healing and blessing, or a river stone for the flow of life and the nurturing aspect of water. Two relics belong to the faith. **The Staff of Growth** is unique, a divine staff said to carry Fródvin's power and to make barren land fertile. The **Healing Chalice** is a sacred cup used in rituals, believed to hold the power of healing when it is filled with blessed water.
 
-## Sacred Objects
+## The Clergy
 
-- **Sheaf of Wheat:** Represents fertility and agriculture.
-- **Oak Leaf:** Symbolizes strength and growth in nature.
-- **Healing Herb Bundle:** Used in rituals of healing and blessing.
-- **River Stone:** Represents the flow of life and the nurturing aspect of water.
+The ladder is the one every blót-keeping faith of the Ten shares, and in Fródvin's faith each rung belongs to a valley infirmary's hof:
 
-## Relics
+- Refused the Blót: denied the offering at a valley infirmary's hof, and cut from the clergy and from the care it extends to the sick.
+- Blótmadr: attends the blót at a valley infirmary's hof and shares its harvest-offering.
+- Hofsmadr: given to a valley infirmary's hof young, laboring at its herb-lore and its sick before any claim to the priesthood.
+- Godi / Gydja: ordained to keep a valley infirmary's rites and tend its sick.
+- Hofgodi / Hofgydja: consecrates valley infirmaries' hofs, ordains their godar, and performs the great blót at a season's turning.
 
-- **The Staff of Growth:** (Unique) A divine staff said to be imbued with Fródvin's power, capable of making barren land fertile.
-- **Healing Chalice:** A sacred cup used in rituals, believed to hold the power of healing when filled with blessed water.
-
-## Clergy
-
-- **Refused the Blót**—denied the offering at a valley infirmary's hof, cut from the clergy and from the care it extends to the sick.
-- **Blótmadr**—attends the blót at a valley infirmary's hof and shares its harvest-offering.
-- **Hofsmadr**—given to a valley infirmary's hof young, laboring at its herb-lore and its sick before any claim to the priesthood.
-- **Godi / Gydja**—ordained to keep a valley infirmary's rites and tend its sick.
-- **Hofgodi / Hofgydja**—consecrates valley infirmaries' hofs, ordains their godar, and performs the great blót at a season's turning.
-
-**Key Skills:** Herbalism, Physician, Survival, Animalcraft, Agriculture
-
-## Divine Servants
-
-- **Sylvans:** Forest spirits who aid in the growth and protection of the natural world.
-- **Healing Wisps:** Ethereal beings that assist in the healing arts, subtly guiding the hands of Fródvin's priests.
+The skills the faith teaches are herbalism, the physician's art, survival, animalcraft and agriculture. Two kinds of servant belong to the god: the **Sylvans**, forest spirits who aid the growth and protection of the natural world, and the **Healing Wisps**, ethereal beings that guide the hands of Fródvin's priests in the healing arts.
 
 ## Ceremonies and Festivals
 
-**Low Ceremonies:**
+The low ceremony is the **Blessing of the Fields**, a monthly ritual, held preferably outdoors, at which the faithful bless their crops to ensure a bountiful harvest and the sick and wounded receive the priests' blessing. There are two high ceremonies. At the **Rite of Renewal** the clergy renew the earth's fertility, often by planting sacred seeds. At the **Grove's Embrace** high priests enter a sacred grove to commune with Fródvin and seek his guidance for the coming seasons.
 
-- **The Blessing of the Fields:** A monthly ritual where the faithful gather to bless their crops and ensure a bountiful harvest and where the sick and wounded receive blessings from the priests. Preferably held outdoors.
-
-**High Ceremonies:**
-
-- **The Rite of Renewal:** A sacred ritual performed by the clergy to renew the earth's fertility, often involving the planting of sacred seeds.
-- **The Grove's Embrace:** A ceremony where high priests enter a sacred grove to commune with Fródvin, seeking his guidance for the coming seasons.
-
-**Festivals:**
-
-- **Festival of the First Harvest:** Held at the beginning of the harvest season, this festival celebrates the bounty of the earth with feasts, music, and communal blessings.
-- **The Day of Peace:** An annual event dedicated to promoting harmony among communities, with rituals focused on conflict resolution and reconciliation.
+Two festivals mark the year. The **Festival of the First Harvest** opens the harvest season with feasts, music and communal blessings. The **Day of Peace** is an annual event given to harmony among communities, with rites of conflict resolution and reconciliation.
 
 ## Ordeals for Favor
 
-- **The Pilgrimage of Growth:** A journey to sacred sites, where the faithful plant trees and restore life to barren lands.
-- **The Healing Trial:** A test where participants must heal a grievously injured creature, using only the natural remedies provided by Fródvin.
-- **The Peacewalk:** A task where the faithful must mediate a dispute between feuding families or tribes, bringing them to a peaceful resolution.
-- **The Blessing of the Wild:** An ordeal where the participant must survive alone in the wilderness, relying on their connection to nature and Fródvin's guidance.
-- **The Seed of Life:** A ritual where the faithful must nurture a seedling through harsh conditions, ensuring its growth into a strong and healthy tree.
+Five ordeals win Fródvin's favor, and each asks for something a field or a sickbed would ask. The **Pilgrimage of Growth** is a journey to sacred sites where the faithful plant trees and restore life to barren land. In the **Healing Trial** a participant must heal a grievously injured creature using only the natural remedies Fródvin provides. The **Peacewalk** asks the faithful to mediate a dispute between feuding families or tribes and bring them to peace. In the **Blessing of the Wild** a participant survives alone in the wilderness, relying on the connection to nature and on Fródvin's guidance. In the **Seed of Life** the faithful nurture a seedling through harsh conditions until it grows into a strong, healthy tree.
 
 ## See Also
 

@@ -60,64 +60,37 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-velgrimrdty|Vélgrímr]], the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
+A harbor-reeve in one of [[place-malagna|Malagna]]'s ports will tell you he has never seen a hof of Vélgrímr, and in the same breath admit that he has walked past the same unmarked door every morning for years. "I collect tolls and I hear wharf quarrels," he says. "What goes on behind a shuttered chandler's is somebody else's reckoning. I will say this much for them: they have never given me cause to open that door."
 
-## Aspects
+[[lore-velgrimrdty|Vélgrímr]] is the god of cunning, deception and thieves, the archetypal trickster, an unpredictable force of chaos and disruption. He is revered and feared in equal measure, a shape-shifting energy that defies the status quo and undermines conventional power. His followers are a mixed company of assassins, thieves and the downtrodden, those who live in society's shadows and know its underworld.
 
-Known for his sharp intellect and silver tongue, Vélgrímr is a master of disguise and manipulation. His trickery knows no bounds, and he delights in orchestrating elaborate schemes that bring downfall to the powerful and instigate disorder. His ultimate goal is not to elevate the marginalized but to sow chaos and dismantle established order.
+## The God of the Hidden Door
 
-Temples dedicated to Vélgrímr are rare and typically hidden from plain sight, often disguised as common establishments or concealed in the darkest corners of cities. Rituals in his name often involve acts of trickery and subversion, as well as offerings of stolen goods or other symbols of defiance.
+Vélgrímr is known for a sharp intellect and a silver tongue and is a master of disguise and manipulation. He delights in elaborate schemes that bring down the powerful and stir up disorder, and his aim is not to lift up the marginalized but to sow chaos and take established order apart. Images show a charismatic, enigmatic figure whose expression always carries a hint of a knowing smile, with sharp, alert eyes that gleam with mischief and intelligence. In his hands he may hold a dagger or a coin, which stand for assassination and thievery, or a mask, which stands for his mastery of deception and disguise.
 
-Vélgrímr is depicted as a charismatic and enigmatic figure, his expression always carrying a hint of a knowing smile. His eyes, sharp and alert, gleam with mischief and intelligence. In his hands, Vélgrímr might hold a dagger or a coin, icons of his domains of assassination and thievery, or a mask, symbolizing his mastery over deception and disguise.
+His temples are rare and are usually hidden from plain sight, disguised as ordinary establishments or tucked into the darkest corners of cities. Rites in his name often involve acts of trickery and subversion and offerings of stolen goods or other symbols of defiance. A worshipper carries serpent skin for cunning and transformation, shifting sand for change and the instability of illusions, a broken chain link for breaking free from constraints through cleverness, or shadowed glass used in rites of deception and hidden truths. Two relics belong to the faith. **The Mask of Deception** is unique, a sacred artifact that lets its wearer take on any identity. The **Dagger of Shadows** is a ceremonial blade used in clandestine rites, believed to pierce through lies and illusions.
 
-## Sacred Objects
+## The Clergy
 
-- **Serpent Skin:** Represents cunning and transformation.
-- **Shifting Sand:** Symbolizes change and the instability of illusions.
-- **Broken Chain Link:** Signifies breaking free from constraints through cleverness.
-- **Shadowed Glass:** Used in rituals of deception and hidden truths.
+Every rung belongs to a hidden hof in Malagna's ports:
 
-## Relics
+- Refused the Blót: denied the offering at a hidden hof in Malagna's ports, and cut from the clergy and from the secrecy that protects it.
+- Blótmadr: attends the blót at a hidden hof in Malagna's ports and shares an offering rarely spoken of outside it.
+- Hofsmadr: given young to a hidden hof in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
+- Godi / Gydja: ordained to keep a hidden hof's rites in Malagna's ports.
+- Hofgodi / Hofgydja: consecrates the hidden hofs of Malagna's ports, ordains their godar, and performs the great blót at a season's turning.
 
-- **The Mask of Deception:** (Unique) A sacred artifact that allows its wearer to assume any identity.
-- **Dagger of Shadows:** A ceremonial blade used in clandestine rites, believed to be able to pierce through lies and illusions.
-
-## Clergy
-
-- **Refused the Blót**—denied the offering at a hidden hof in [[place-malagna|Malagna]]'s ports, cut from the clergy and from the secrecy that protects it.
-- **Blótmadr**—attends the blót at a hidden hof in Malagna's ports and shares an offering rarely spoken of outside it.
-- **Hofsmadr**—given young to a hidden hof in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
-- **Godi / Gydja**—ordained to keep a hidden hof's rites in Malagna's ports.
-- **Hofgodi / Hofgydja**—consecrates the hidden hofs of Malagna's ports, ordains their godar, and performs the great blót at a season's turning.
-
-**Key Skills:** Disguise and infiltration, Espionage and subterfuge, Manipulation and persuasion, Alchemy and Herbalism (Poisons), Intrigue, Stealth
-
-## Divine Servants
-
-- **Shadow Serpents:** Ethereal snakes that serve as messengers and agents of Vélgrímr, often appearing in times of deception or mischief.
-- **Whispering Winds:** Spirits that carry secrets and lies, aiding Vélgrímr's followers in their schemes.
+The faith teaches disguise and infiltration, espionage and subterfuge, manipulation and persuasion, alchemy and herbalism in the service of poisons, intrigue and stealth. Two kinds of servant belong to the god: the **Shadow Serpents**, ethereal snakes that carry his messages and appear in times of deception or mischief, and the **Whispering Winds**, spirits that carry secrets and lies and help his followers with their schemes.
 
 ## Ceremonies and Festivals
 
-**Low Ceremonies:**
+The low ceremony is the **Masked Vigil**, a monthly ritual at which followers put on masks and share secrets, calling on Vélgrímr's blessing for their cunning and craft. The high ceremony is the **Rite of Shadows**, a secretive gathering of the clergy that deepens their connection with Vélgrímr and often brings new insight and ability in the art of deception.
 
-- **The Masked Vigil:** A monthly ritual where followers don masks and share secrets, invoking Vélgrímr's blessings for their cunning and craft.
-
-**High Ceremonies:**
-
-- **The Rite of Shadows:** A secretive ritual where the clergy gather to deepen their connection with Vélgrímr, often resulting in new insights and abilities in the art of deception.
-
-**Festivals:**
-
-- **Festival of Masks:** Held in the autumn, this festival celebrates Vélgrímr's mastery of disguise and deception with elaborate masquerades and games of wit.
-- **The Night of Whispers:** An annual event where the faithful engage in a night of intrigue and subterfuge, with prizes awarded to the most cunning participants.
+Two festivals mark the year. The **Festival of Masks** is held in autumn and celebrates his mastery of disguise and deception with elaborate masquerades and games of wit. The **Night of Whispers** is an annual event given to intrigue and subterfuge, with prizes for the most cunning participants.
 
 ## Ordeals for Favor
 
-- **The Shadow Walk:** A task where participants must infiltrate a heavily guarded location and retrieve a valuable item, relying solely on their skills in stealth and deception.
-- **The Trial of Lies:** A challenge where the faithful must weave a web of lies so intricate that it ensnares a powerful figure.
-- **The Serpent's Maze:** An ordeal where the participant must navigate a deadly labyrinth filled with traps, illusions, and false leads.
-- **The Whispering Hunt:** A task where participants must gather valuable secrets from influential figures, using them to manipulate events in Vélgrímr's favor.
+Four ordeals win his favor. In the **Shadow Walk** participants infiltrate a heavily guarded location and retrieve a valuable item, relying on stealth and deception alone. The **Trial of Lies** asks the faithful to weave a web of lies so intricate that it ensnares a powerful figure. In the **Serpent's Maze** the participant navigates a deadly labyrinth of traps, illusions and false leads. In the **Whispering Hunt** participants gather valuable secrets from influential figures and use them to turn events in Vélgrímr's favor.
 
 ## See Also
 

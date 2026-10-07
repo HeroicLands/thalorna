@@ -66,7 +66,7 @@ sohl: {system: {commonSkills: []}}
 
 The faith teaches three things about him and holds that everything else is speculation. He makes each living thing he makes exactly once. He releases much of it unfinished. And he does not come back for any of it. Where he works is not known: his hofs preserve several accounts of vast laboratories, agree on none of them, and teach that the question matters less than the answer walking around in the world.
 
-He is therefore the only god of the Ten whose work a traveler can meet on a road. The [[lore-dreadspawncrtr|Dreadspawn]] are his, and the faith names them his without hedging—a troll on a ford, a drake in a high valley, a thing assembled out of parts that do not belong together. None of them reproduces. Many of them were set down mid-project. His clergy teach the abandonment as doctrine: he is finished with a thing the moment it has taught him what it had to teach, which is neither cruelty nor mercy but the whole of his temper.
+He is therefore the only god of the [[affiliation-asguardian|Ten]] whose work a traveler can meet on a road. The [[lore-dreadspawncrtr|Dreadspawn]] are his, and the faith names them his without hedging—a troll on a ford, a drake in a high valley, a thing assembled out of parts that do not belong together. None of them reproduces. Many of them were set down mid-project. His clergy teach the abandonment as doctrine: he is finished with a thing the moment it has taught him what it had to teach, which is neither cruelty nor mercy but the whole of his temper.
 
 He is not a destroyer and his clergy will not have him confused with one. [[affiliation-svartbrandr|Svartbrandr]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
 
@@ -80,13 +80,13 @@ Depictions give him hands and little else that is fixed—a pair of hands over a
 
 ## Clergy
 
-- **Refused the Blót**—declined the offering by his own hof's godi, cut from the clergy and from the standing his craft held through it.
-- **Blótmadr**—attends the blót, setting a tool on the stone before the rite.
-- **Hofsmadr**—given to a hof, keeping its workshops as well as its floors before standing in its priesthood.
-- **Godi / Gydja**—ordained to keep a hof's rites and to bless a piece of work begun in it.
-- **Hofgodi / Hofgydja**—consecrates hofs, ordains their godar, and performs the great blót at a season's turning.
+- Refused the Blót: declined the offering by his own hof's godi, cut from the clergy and from the standing his craft held through it.
+- Blótmadr: attends the blót, setting a tool on the stone before the rite.
+- Hofsmadr: given to a hof, keeping its workshops as well as its floors before standing in its priesthood.
+- Godi / Gydja: ordained to keep a hof's rites and to bless a piece of work begun in it.
+- Hofgodi / Hofgydja: consecrates hofs, ordains their godar, and performs the great blót at a season's turning.
 
-**Key Skills:** A craft held to mastery, Design and improvisation, Reading a material's grain, Judging a made thing's soundness, The recitation of the makings
+Key skills: A craft held to mastery, Design and improvisation, Reading a material's grain, Judging a made thing's soundness, The recitation of the makings
 
 ## Divine Servants
 
