@@ -8,13 +8,19 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-## Overview
+"You see the fires long before you see the mountain," a pilgrim of [[lore-svartbrandrdty|Svartbrandr]] tells the cousin who has come with her on her first climb, and points up the slope at an orange smear on the dark where the summit ought to be. "That is the temple. Keep your eyes on it when the path gets bad."
 
-Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands]] sacred to [[lore-svartbrandrdty|Svartbrandr]], and its name suits the god's fire: _brald-_, a fire banked to keep overnight, before the generic for a mountain. On it stands **the Flame Temple of Braldfjall**, the god's most sacred temple and the primary seat of the [[affiliation-svartbrandr|Faith of Svartbrandr]]. A pilgrim climbing toward it sees the temple's fires long before the temple itself.
+Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands]] sacred to Svartbrandr. On it stands **the Flame Temple of Braldfjall**, the god's most sacred temple and the primary seat of the [[affiliation-svartbrandr|Faith of Svartbrandr]].
 
-## The Temple and Its Priests
+## The High Priests
 
-The temple's high priests decide whom the god has blessed, and they back their judgment with arms, provisions and spiritual guidance: they recognize [[being-vrthrvflmhrt|Vrithorv Flameheart]] as blessed by Svartbrandr and supply him accordingly. The ranking priest is **Hofgodi Brildmýl of Braldfjall**, who regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor and protects her from political enemies within the faith. That protection is the clearest sign that the faith at Braldfjall has politics of its own.
+The temple's high priests decide whom the god has blessed, and they back that judgment with arms, provisions and spiritual guidance. They recognize [[being-vrthrvflmhrt|Vrithorv Flameheart]] as blessed by Svartbrandr and supply him accordingly, so the champion who carries the god's name into a fight is one the temple has chosen to arm.
+
+The ranking priest, **Hofgodi Brildmýl of Braldfjall**, regards [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]] as a potential successor and protects her from political enemies within the faith. That protection is the clearest sign that the faith at Braldfjall has politics of its own.
+
+## The Name
+
+The name suits the god's fire: _brald-_ is a fire banked to keep overnight, and the generic that follows it is the one for a mountain.
 
 ## See Also
 

@@ -23,7 +23,7 @@ What the fire leaves is gathered into a _gnúm_ (clay pot), set in the ground an
 
 ## The Ship
 
-The _skipsdulm_ (ship-burial) belongs to those whose life was a ship or a hall that kept ships: a king, a jarl, a Skipstjóri who answered for a vessel in the levy, and a hersvald whose district gives a ship for him. The dead are laid in a ship with their weapons, their horse and dogs, their bed and their cooking-gear, because a jarl keeps hall among the gods on the same terms he kept it here. Two practices stand side by side, and the coasts argue over which is older. Inland and in the royal seats the ship is dragged ashore and buried under a howe whole. Along the outer coasts, a sea-captain's ship is set alight in the surf and pushed off on the ebb, and his kin watch it until it sinks or the light fails.
+The _skipsdulm_ (ship-burial) belongs to those whose life was a ship or a hall that kept ships: a king, a jarl, a _skipstjóri_ (shipmaster) who answered for a vessel in the levy, and a hersvald whose district gives a ship for him. The dead are laid in a ship with their weapons, their horse and dogs, their bed and their cooking-gear, because a jarl keeps hall among the gods on the same terms he kept it here. Two practices stand side by side, and the coasts argue over which is older. Inland and in the royal seats the ship is dragged ashore and buried under a howe whole. Along the outer coasts, a sea-captain's ship is set alight in the surf and pushed off on the ebb, and his kin watch it until it sinks or the light fails.
 
 ## The Howe
 
