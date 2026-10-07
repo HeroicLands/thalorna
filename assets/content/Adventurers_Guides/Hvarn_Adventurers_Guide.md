@@ -50,6 +50,6 @@ A party can come up with a lowland factor for the contract renewal, or be hired 
 | bone-bringer | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
 | reach-guide  | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
 
-Janapada is a loanword from [[lore-vedyariclt|Vedyara]].
+Janapada is a loanword from [[lore-vedyariclt#glossary|Vedyara]].
 
 The [[lore-hvarnclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

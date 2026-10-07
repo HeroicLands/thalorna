@@ -230,6 +230,7 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | hof                        | A shrine-hall where a blót is made, oaths are sworn and a ting may gather                                   |
 | Hofgodi, Hofgydja          | The high priest or priestess who consecrates a hof and performs the great blót                              |
 | Hofsmadr                   | One given to a hof young, years short of the priesthood                                                     |
+| huscarl                    | A sworn household warrior of a lord                                                                         |
 | höfudsveld                 | The high seat of a hall, where its lord sits                                                                |
 | Höfudvald                  | The High Jarl of Stormveld, the head who wields the authority the jarls lend him                            |
 | Höndskjöldr                | A hand's shield, the admitted candidate of the Order of the Sworn Hand                                      |
@@ -289,6 +290,7 @@ These are the in-world words and terms of art the Nordmen's notes use. The [[doc
 | sveld                      | A seat                                                                                                      |
 | svelth                     | Death                                                                                                       |
 | svelthfell                 | The death-fell above Marvstead, told of in the Three Winters                                                |
+| thrall                     | A person owned outright, without voice or rights of their own                                               |
 | thresk                     | A keel                                                                                                      |
 | thursar                    | Giant-kin                                                                                                   |
 | ting                       | The lawful assembly of free people, where disputes are judged and laws proclaimed                           |

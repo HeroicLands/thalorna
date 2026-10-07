@@ -78,4 +78,4 @@ The names carry two front rounded vowels no lowland tongue has, and a Vedyari wh
 | road-holder   | Holder of a crossing by descent, answerable for every party taken over it                              |
 | snow-watcher  | Reader of the summit at first light, whose word moves or halts a caravan                               |
 
-Ritūja, tharana, ushtaka and wrist-line are loanwords from [[lore-vedyariclt|Vedyara]].
+Ritūja, tharana, ushtaka and wrist-line are loanwords from [[lore-vedyariclt#glossary|Vedyara]].

@@ -78,4 +78,4 @@ Hvarn words are short and heavy, and a word may be spoken with no vowel in it at
 | turn-keeper    | Keeper of the rotation and of what each hearth owes another                                          |
 | winter-speaker | Presiding officer of the winter council, with no authority once it rises                             |
 
-Janapada, Mela, shreni and ushtaka are loanwords from [[lore-vedyariclt|Vedyara]].
+Janapada, Mela, shreni and ushtaka are loanwords from [[lore-vedyariclt#glossary|Vedyara]].

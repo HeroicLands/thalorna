@@ -174,9 +174,11 @@ Campaigns start well from the remembered word. A dead man's reckoning names a de
 | godi, gydja | A priest or priestess who keeps a hof's rites, often also leading the district       |
 | hersvald    | The leader of a district's men at the muster, holding the post by its consent        |
 | hof         | A shrine-hall where a blót is made, oaths are sworn and a ting may gather            |
+| huscarl     | A sworn household warrior of a lord                                                  |
 | jarl        | The holder of a province by the king's grant                                         |
 | Lawspeaker  | The keeper of a kingdom's law in memory, who recites it at the assembly              |
 | skald       | A sworn poet whose recital is a hall's memory and counts as evidence                 |
+| thrall      | A person owned outright, without voice or rights of their own                        |
 | ting        | The lawful assembly of free people, where disputes are judged and laws proclaimed    |
 | völva       | A wandering seeress bound to no hof; plural völvur                                   |
 
