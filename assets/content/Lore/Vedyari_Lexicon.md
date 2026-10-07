@@ -500,16 +500,18 @@ Where the first word of a compound closes on a vowel and the second opens on one
 
 ### Death, the dead and the ancestors
 
-| Form          | Class | Gloss                             | Built from         | Attested |
-| ------------- | ----- | --------------------------------- | ------------------ | -------- |
-| `lumbha`      | n     | a corpse                          | —                  | —        |
-| `dahanashilā` | n     | the slab of the burning, a pyre   | `dahana` + `shilā` | —        |
-| `dhuvāsa`     | n     | a grave, a burial-place           | —                  | —        |
-| `olūra`       | n     | a ghost, one of the restless dead | —                  | —        |
-| `sorhu`       | n     | an ancestor; the ancestors        | —                  | —        |
-| `virnu`       | n     | mourning                          | —                  | —        |
-| `dhaku`       | n     | a bone                            | —                  | —        |
-| `dhaush-`     | v     | die                               | —                  | —        |
+| Form           | Class | Gloss                                                                                  | Built from          | Attested                          |
+| -------------- | ----- | -------------------------------------------------------------------------------------- | ------------------- | --------------------------------- |
+| `lumbha`       | n     | a corpse                                                                               | —                   | —                                 |
+| `dahanashilā`  | n     | the slab of the burning, a pyre                                                        | `dahana` + `shilā`  | —                                 |
+| `dhuvāsa`      | n     | a grave, a burial-place                                                                | —                   | —                                 |
+| `olūra`        | n     | a ghost, one of the restless dead                                                      | —                   | —                                 |
+| `sorhu`        | n     | an ancestor; the ancestors                                                             | —                   | —                                 |
+| `virnu`        | n     | mourning                                                                               | —                   | —                                 |
+| `dhaku`        | n     | a bone                                                                                 | —                   | —                                 |
+| `dhaush-`      | v     | die                                                                                    | —                   | —                                 |
+| `shorukshetra` | n     | a blood-field, ground where the dead lie unburned and the way behind them never closed | `shoru` + `kshetra` | [[lore-bloodfield\|Blood-fields]] |
+| `ghūrakshetra` | n     | a cursed field, a blood-field thin enough to kill                                      | `ghūra` + `kshetra` | [[lore-bloodfield\|Blood-fields]] |
 
 ### War, arms and the host
 
