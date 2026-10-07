@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 While a forge-hof keeps its [[lore-fireweeks|Fire-Weeks]], the Flameguard watch its gate, and a threat to the hof is answered with the same flame the rite uses.
 
-Eldverdir is a militant order sworn to protect [[lore-svartbrandrdty|Svartbrandr]]'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle. A Dróttmadr stands watch over a hof through its Fire-Weeks; a Dróttstjóri leads the order's defense of the forge-hofs and the faithful.
+Eldverdir is a militant order sworn to protect [[lore-svartbrandrdty|Svartbrandr]]'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle.

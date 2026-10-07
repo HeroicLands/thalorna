@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-"A saga is heard here before it is read, and it is read only by those the Hall has taken in," a skald of the Hall tells the traveler who has come to Rilthheim asking for one, and seats the traveler on the long bench to listen. The settlement is known across the [[place-nrdlndsrgn|Nordlands]] for one building and the people who gather in it: **the Skalds' Hall of Rilthheim**, a prestigious gathering of northern skalds and loremasters.
+At Rilthheim a saga is heard before it is read, and it is read only by those the Hall has taken in; a traveler who asks for one is seated on the long bench to listen. The settlement is known across the [[place-nrdlndsrgn|Nordlands]] for one building and the people who gather in it: **the Skalds' Hall of Rilthheim**, a prestigious gathering of northern skalds and loremasters.
 
 ## The Hall and Its Archives
 

@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-"Memory goes out every day and comes home every night," an acolyte at [[place-odholm|Ódholm]] says, "and what it brings back is what you meant to forget." The acolyte, newly ordained, has just been taught the stricter reading of **Munvin**, the raven of memory in the [[affiliation-odvar|Faith of Ódvar]]. Munvin flies beside [[lore-hugvin|Hugvin]], the raven of thought, across the world each day to bring knowledge and news back to [[lore-odvardty|Ódvar]], and the raven feather is the faith's sign for the pair.
+Memory goes out every day and comes home every night, and what it brings back is what you meant to forget: so an acolyte at [[place-odholm|Ódholm]] reads **Munvin**, the raven of memory in the [[affiliation-odvar|Faith of Ódvar]], once newly ordained. Munvin flies beside [[lore-hugvin|Hugvin]], the raven of thought, across the world each day to bring knowledge and news back to [[lore-odvardty|Ódvar]], and the raven feather is the faith's sign for the pair.
 
 The unordained meet the birds as messengers, and some in the rune-hall keep that reading as literal: memory and thought made bird-shaped, away at dawn and home by evening. Ordination changes the lesson. The birds become a teaching figure for the unordained, and a rune-caster who waits on their reports has stopped doing the work of the runes, so the stricter reading sends him back to the staves.
 

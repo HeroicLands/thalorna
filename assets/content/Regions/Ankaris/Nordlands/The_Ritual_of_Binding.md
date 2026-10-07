@@ -8,7 +8,7 @@ tags: [ritual, nordlands]
 data: {packFolder: nordlands}
 ---
 
-"It is not a rite for the strong," an old völva tells the young seeker who has asked what it takes to bind the Sea Wraith. "It is a rite for the patient, and for the ones who stand around the patient." The **Ritual of Binding** is the rite by which [[being-njorven|Njörven]] is sealed away. It is the object of [[scenario-groascmpgn|Gróa's Campaign]], and the campaign's final act consists of getting it performed.
+The rite that binds the Sea Wraith is not for the strong; it is for the patient, and for the ones who stand around the patient. The **Ritual of Binding** is the rite by which [[being-njorven|Njörven]] is sealed away. It is the object of [[scenario-groascmpgn|Gróa's Campaign]], and the campaign's final act consists of getting it performed.
 
 ## What the Rite Needs
 

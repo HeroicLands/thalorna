@@ -8,7 +8,7 @@ tags: []
 data: {packFolder: lorespiritsasguardian}
 ---
 
-_**The Rime-Giant**—rime-scored bone and a chip of gray stone, not a person and never built to be one._
+_**The Rime-Giant**—rime-scored bone and a chip of grey stone, not a person and never built to be one._
 
 An Adherent attached to [[place-holafell|Holafell]] for most of a long life gives the flattest theology any northern faith teaches: **Hrímthur** is not a maker, never was one, and grants nothing because there is nothing in him shaped to grant anything. "The Ten have gods who listen," the Adherent says. "I have a giant who is listened to, in the sense that the ground is listened to when a blade cuts into it. He does not answer. He was never built to." The world, on this account, was cut from a living giant's body at the close of the war the Ten fought against the [[lore-thursaett|Thursaett]], and what holds the two pieces of that act together—the ground and the gods who stand on it—is that the cutting is renewed rather than left to scar over.
 

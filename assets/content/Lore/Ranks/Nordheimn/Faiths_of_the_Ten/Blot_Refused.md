@@ -7,7 +7,7 @@ description: "Declined the offering and the shared meal by a hof's godi, in the 
 tags: []
 ---
 
-Picture a godi at the door of his hof telling a man: "I will not offer for you, and there is no place for you at the meal." The blót ties a man to his clan as well as to his god, so the refusal cuts both at once.
+A godi at the door of his hof can refuse a man the offering and a place at the meal. The blót ties a man to his clan as well as to his god, so the refusal cuts both at once.
 
 ## What This Standing Is
 

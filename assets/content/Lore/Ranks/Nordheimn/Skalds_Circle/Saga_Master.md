@@ -7,7 +7,7 @@ description: "Acclaimed by his peers when his composed sagas enter the standing 
 tags: []
 ---
 
-"The ones whose sagas we teach every apprentice," a master of the [[affiliation-skaldscrcl|Skalds' Circle]] says when asked what a stóraldstjóri is. "Perhaps a dozen at any time, across all the kingdoms."
+A stóraldstjóri is one of the skalds whose sagas the [[affiliation-skaldscrcl|Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.
 
 ## What This Standing Is
 

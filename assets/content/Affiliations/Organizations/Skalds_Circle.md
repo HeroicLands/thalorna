@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Nobody writes it down," a master skald tells the apprentice who will present a gyldra at the next **Skaldating**. "Parchment burns in a night and can be forged in an afternoon. You will be asked, on some day in your life, to say what was sworn in a hall, and you will say it as it was said, even if the man who feeds you has stopped listening."
+Nothing a skald recites is written down, because parchment burns in a night and can be forged in an afternoon. An apprentice who will present a gyldra at the next **Skaldating** learns that some day he will be asked to say what was sworn in a hall, and that he will say it as it was said, even if the man who feeds him has stopped listening.
 
 The Skalds' Circle, the Skaldahringr or "Ring of the Skalds," is the fellowship of every sworn skald in the north and the keeper of the north's spoken record. An outsider remembers it for the truth of the recital: a skald's account of an oath, a genealogy or a judgment counts in the Asguardian courts as documentary evidence, and the Circle breaks the ring of any skald who falsifies one.
 

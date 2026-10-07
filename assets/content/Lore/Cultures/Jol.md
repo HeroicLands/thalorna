@@ -7,7 +7,7 @@ description: "The twelve nights of midwinter feasts, vigil and remembrance."
 tags: [asguardian]
 ---
 
-"Keep the lamp lit in the doorway," a hof's acolyte tells the two boys who have been sent to trim the wicks on the first of the twelve nights. "Everything else we do this week is for the same reason." Behind them the hof is blazing, every sconce and brazier lit, and across the water the jarl's hall has opened its doors for the feast.
+On the first of the twelve nights the lamp in the hof's doorway is kept lit, and the boys sent to trim the wicks learn that everything else done that week is for the same reason. Behind them the hof is blazing, every sconce and brazier lit, and across the water the jarl's hall has opened its doors for the feast.
 
 Jól is the twelve-night midwinter season around the solstice, when hofs keep their lights burning and halls open their feasts. The dead are invited to the table, and the living keep vigil against the long dark.
 

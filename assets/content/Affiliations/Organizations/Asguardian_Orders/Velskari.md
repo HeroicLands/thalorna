@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 A temple that must hide cannot post an armored guard at its gate. It posts a knight of the Shifting Shadow, and you will not see him.
 
-Vélskari is a militant order sworn to protect [[affiliation-velgrimr|Vélgrímr]]'s hidden temples and his followers, working by stealth and strategy to protect a secrecy that open force would break. A member guards a hof's secrecy as closely as its stores, since a failure of the one exposes the other. A Dróttmadr guards a hof's secrecy by stealth; a Dróttstjóri leads the defense of the hidden temples.
+Vélskari is a militant order sworn to protect [[affiliation-velgrimr|Vélgrímr]]'s hidden temples and his followers, working by stealth and strategy to protect a secrecy that open force would break. A member guards a hof's secrecy as closely as its stores, since a failure of the one exposes the other.

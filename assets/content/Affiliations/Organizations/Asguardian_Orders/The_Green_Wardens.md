@@ -43,7 +43,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A Green Warden newly come to a steading tells the household: "Yes, I will help with the calving, and I will stand in your gate if raiders come. I will not take a side in your cousin's inheritance. Learn that last part tonight, because you will be tempted to forget it before spring." The Guardian means all three parts of it.
+A Green Warden newly come to a steading helps with the calving and stands in the gate if raiders come, and takes no side in the household's inheritance quarrels, a rule the household is wise to learn the first night, since it will be tempted to forget it before spring. The Guardian means all three parts of it.
 
 The Green Wardens, _Grönverdir_, are a fighting order sworn to a god of peace, and the paradox is their doctrine. [[lore-frodvindty|Fródvin]]'s peace is the peace of the cultivated valley: the harvest stored, the herd unmolested, the household whole. In a region where raiders, wolves, hard winters and the casual cruelty of passing warbands are all standing threats, only people willing to stand against those things hold that peace. One does not protect peace by refusing to fight, the order teaches; one protects it by fighting only what threatens it.
 

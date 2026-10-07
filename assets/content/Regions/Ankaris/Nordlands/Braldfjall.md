@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: 0, packFolder: nordlands}
 ---
 
-"You see the fires long before you see the mountain," a pilgrim of [[lore-svartbrandrdty|Svartbrandr]] tells the cousin who has come with her on her first climb, and points up the slope at an orange smear on the dark where the summit ought to be. "That is the temple. Keep your eyes on it when the path gets bad."
+The fires at Braldfjall show long before the mountain does: an orange smear on the dark where the summit ought to be, which is the temple, and the mark a pilgrim of [[lore-svartbrandrdty|Svartbrandr]] keeps her eyes on when the path gets bad.
 
 Braldfjall is a mountain of the [[place-nrdlndsrgn|Nordlands]] sacred to Svartbrandr. On it stands **the Flame Temple of Braldfjall**, the god's most sacred temple and the primary seat of the [[affiliation-svartbrandr|Faith of Svartbrandr]].
 

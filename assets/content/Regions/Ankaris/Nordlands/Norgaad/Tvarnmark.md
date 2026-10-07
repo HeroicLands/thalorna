@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Ask the militia which stretch of road is quiet this month before you load a single mule," a pass-guide tells the merchant who has just ridden down into Tvarnmark with a string of loaded mules. "The road is not always peaceful, and the town knows it." Tvarnmark rises on the southern edge of the **Flarnfjall** mountains, at the confluence of two swift rivers, where merchants from the coast meet traders from the high passes and the interior valleys. About 600 people live there, in a town built of stone quarried from the surrounding hills, which is unusual for a [[lore-nordheimnclt|Nordmen]] settlement. Its sturdy buildings seem to grow out of the rock.
+The road out of Tvarnmark is not always peaceful, and a merchant asks the militia which stretch is quiet this month before loading a single mule. Tvarnmark rises on the southern edge of the **Flarnfjall** mountains, at the confluence of two swift rivers, where merchants from the coast meet traders from the high passes and the interior valleys. About 600 people live there, in a town built of stone quarried from the surrounding hills, which is unusual for a [[lore-nordheimnclt|Nordmen]] settlement. Its sturdy buildings seem to grow out of the rock.
 
 The marketplace is the heart of the town: a broad square ringed by warehouses, where furs, amber and whale bone from the coastal settlements meet the timber, iron and salt brought south from the mining regions beyond the mountains. Tvarnmark is close enough to the coast to feel the maritime culture of [[place-norgaad|Norgaad]] and rooted in trade and craft.
 

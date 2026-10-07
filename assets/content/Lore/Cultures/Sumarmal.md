@@ -7,7 +7,7 @@ description: "The seasonal return of ships, warriors and cattle, with offerings 
 tags: [asguardian]
 ---
 
-"Stand clear of the gate and let them run," a cattle-herd tells the fosterling who has come to help drive the herd up. "They know the way better than you do." It is the first morning of summer in the high country of [[place-norgaad|Norgaad]], and the cattle are going up to the pasture while, down on the water, the boats that sat all winter on the strand are being dragged back into the fjord.
+Cattle going up to the high pasture are let run, and a fosterling sent to help drive the herd stands clear of the gate, since they know the way better than he does. It is the first morning of summer in the high country of [[place-norgaad|Norgaad]], and the cattle are going up to the pasture while, down on the water, the boats that sat all winter on the strand are being dragged back into the fjord.
 
 Sumarmál is the seasonal blót of return, kept at the beginning of summer, roughly the first month of the Ankarian calendar. Three things come back at once: ships to the water, warriors from winter quarters, and cattle to the high pastures. Every household has someone in one of the three, and the offerings that follow are for the year to come.
 

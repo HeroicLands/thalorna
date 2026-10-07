@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: 
 
 ## Overview
 
-"Check the lines before you check your sword," [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] tells a young levyman who is hammering in his first tent-pegs. "I will tell you why once, and you will not need it twice." He has been telling levymen for years, and the reason is a night at Inthstead.
+Check the lines before you check your sword: that is the rule [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] has given levymen for years, and the reason is a night at Inthstead.
 
 Inthstead is a steading on the borders of [[place-vithgard|Vithgard]]. The levies of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] have camped near it in the border conflicts, and the place is remembered for one night of them. Its name says where it stands: _inth-_, the far side of a pass, before the generic for a farmstead.
 

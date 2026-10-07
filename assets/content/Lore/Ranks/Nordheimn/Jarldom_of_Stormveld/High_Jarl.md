@@ -7,7 +7,7 @@ description: "The sovereign standing of the Jarldom of Stormveld, held by a jarl
 tags: []
 ---
 
-"My lord holds his jarldom himself and owes the High Jarl nominal allegiance, no more," says a huscarl of Stormveld. "The jarls chose the High Jarl from among themselves, and they can choose another. He is first among them, and he is not our king."
+A High Jarl is first among the jarls of Stormveld and is not their king: each jarl holds his jarldom himself and owes the High Jarl nominal allegiance, no more, and the jarls chose him from among themselves and can choose another.
 
 ## What This Standing Is
 

@@ -8,7 +8,7 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands}
 ---
 
-"Listen to the ice before you trust it," a sealer tells the boy going out with him for the first time. "It will tell you before it goes. It always does. The men who drown are the ones who were busy." The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.
+Ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.
 
 ## The Ice-Edge
 

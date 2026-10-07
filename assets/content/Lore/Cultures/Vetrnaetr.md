@@ -7,7 +7,7 @@ description: "The Winter Nights of late autumn, when households prepare for scar
 tags: [asguardian]
 ---
 
-"Count it again," the mistress of a [[place-nordheim|Nordheim]] hall tells her steward, and he goes back down the row of the storehouse with his tally-stick: the barrels of salted fish, the barley sacks, the hams on their hooks. It is late autumn, and everything in the hall that cannot be fed through the winter is about to be killed. The count decides how many animals that is.
+In late autumn the mistress of a [[place-nordheim|Nordheim]] hall has the storehouse counted again, and the steward goes back down the row with his tally-stick: the barrels of salted fish, the barley sacks, the hams on their hooks. Everything in the hall that cannot be fed through the winter is about to be killed. The count decides how many animals that is.
 
 Vetrnaetr, the Winter Nights, marks the turn toward winter. It is the most somber of the four great festivals. Livestock that cannot be kept through the scarcity are slaughtered in a great blót, the meat is preserved, the bones are read, and the dead are honored.
 

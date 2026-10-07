@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 When raiders come to a coastal hof of [[affiliation-thrunvald|Thrúnvald]], the war-hammers that meet them belong to the Hammer of Thrúnvald.
 
-Hamardrengir are the faith's fighting order: elite warriors who wield mighty war-hammers and carry the thunder-god's strength into battle. Their members defend his coastal hofs and the ships that sail under his blessing, and stand apart from the ordinary clergy as the faith's answer to raiders and worse. A Dróttmadr defends a coastal hof without yet leading its defense; a Dróttstjóri leads the defense of the hofs and ships.
+Hamardrengir are the faith's fighting order: elite warriors who wield mighty war-hammers and carry the thunder-god's strength into battle. Their members defend his coastal hofs and the ships that sail under his blessing, and stand apart from the ordinary clergy as the faith's answer to raiders and worse.

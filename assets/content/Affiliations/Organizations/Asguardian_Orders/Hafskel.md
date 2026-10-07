@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 Aboard a ship that carries [[affiliation-thrunvald|Thrúnvald]]'s faithful, nobody outranks the captain, and no one else in the crew outranks a Seaforged.
 
-Hafskel, the Seaforged, trains fighters of the faith at sea rather than ashore, drilling them into masters of naval combat and of a ship's defense under way. A member serves aboard the vessels that carry the faithful, where the order's own standing counts for more than any crew rank but the captain's. A Dróttmadr trains aboard ship; a Dróttstjóri leads the order's work at sea.
+Hafskel, the Seaforged, trains fighters of the faith at sea rather than ashore, drilling them into masters of naval combat and of a ship's defense under way. A member serves aboard the vessels that carry the faithful, where the order's own standing counts for more than any crew rank but the captain's.

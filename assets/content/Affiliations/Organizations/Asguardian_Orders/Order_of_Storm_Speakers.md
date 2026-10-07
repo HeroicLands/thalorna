@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The first thing a Storm-Captain says to a candidate on the exposed summit of [[place-thrumufjall|Thrumufjall]], as the thunderheads pile up over the sea, is: "Stop talking and stand still. Everyone else on this rock can hear the weather. I am asking whether you can feel it coming." The examiners watch for the trained signs that a candidate has registered the storm, and one who shows none is dismissed, whatever else he can do.
+A candidate for the order is stood on the exposed summit of [[place-thrumufjall|Thrumufjall]] as the thunderheads pile up over the sea, and asked whether he can feel the storm coming when everyone else on the rock can only hear the weather. The examiners watch for the trained signs that a candidate has registered the storm, and one who shows none is dismissed, whatever else he can do.
 
 The Order of the Storm-Speakers, _Stormmaelendir_, is the warrior-shaman order of [[lore-thrunvalddty|Thrúnvald]], the god whose hammer holds back the chaos beyond the walls of the world. Its members fight as the storm fights: they swing a heavy two-handed hammer with an order-bred warrior's skill, and they read the weather and, within the limits Thrúnvald's faith allows, call it. A Speaker can call wind, read an approaching storm with great precision and, in certain circumstances, draw down a localized lightning strike. No other tradition in the Nordlands cultivates the combination, which is what the order is for.
 

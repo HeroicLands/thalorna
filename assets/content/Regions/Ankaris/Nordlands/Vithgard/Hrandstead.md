@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Read the contract aloud before you sign, and have the clerk read it back," a market clerk at Hrandstead tells the Norgaad trader who has taken a stall for the first time. "Here the jarl's garrison enforces what is written, and nobody has to like it." The trader reads it aloud, and the clerk reads it back.
+A stall at Hrandstead comes with a contract that is read aloud before signing and read back by the clerk, because the jarl's garrison enforces what is written and nobody has to like it.
 
 Hrandstead sprawls across a plateau in the heart of [[place-vithgard|Vithgard]], a fortified settlement of roughly 1,000 souls that is the seat of its own province and one of the kingdom's principal strongholds. Wild bears roam the forests around it, and the noble line that has held power here for three generations, the **Bjarnaett**, takes its name from them, its banner showing a rampant bear worked in silver thread. A massive timber fortress with stone foundations dominates the settlement, its walls twice as tall as a man and its watchtowers visible for leagues across the plateau.
 

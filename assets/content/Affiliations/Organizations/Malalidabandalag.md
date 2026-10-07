@@ -40,7 +40,7 @@ data:
       Speaker of the Compact: >-
         Elected by the Council of the Hall for a five-year term; one position, holding the Compact's day-to-day administration.
       Council of the Hall: >-
-        Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grá-káppar, retired captains of particular standing.
+        Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grákáppar, retired captains of particular standing.
   seat: hringstead
   domains: []
   population: null
@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Keep your hands on the table," Captain **Vrildselda Eldskari** tells a captain who has come to [[place-hringstead|Hringstead]] to swear his company into the Compact. She commands the **Hringstead Long-Ship Fellowship**, the largest signed company and the garrison of the **Compact-Hall**, and she has watched men who hunted each other across three kingdoms share one board there. Every signed warrior on Compact-Hall ground is under truce, and to kill a man at Hringstead, even one's worst enemy, is an act for which there is no expiation.
+Hands stay on the table at the Compact-Hall in [[place-hringstead|Hringstead]], where captains come to swear their companies into the Compact; it is Captain **Vrildselda Eldskari**'s first word to each of them. She commands the **Hringstead Long-Ship Fellowship**, the largest signed company and the garrison of the **Compact-Hall**, and she has watched men who hunted each other across three kingdoms share one board there. Every signed warrior on Compact-Hall ground is under truce, and to kill a man at Hringstead, even one's worst enemy, is an act for which there is no expiation.
 
 The Málalidabandalag, the "Pay-Troop Compact" in the north's own speech, is the league of the free companies of the Nordlands: sworn warriors-for-hire who serve kingdoms, jarls and merchant lords. Its Hall keeps the trade honest, and an outsider remembers it for two things, the Truce and the bronze ring that signed captains wear on the thumb.
 

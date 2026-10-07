@@ -14,7 +14,7 @@ data:
   government: jrldmstrmvld
 ---
 
-"There is no tenantry here to speak of," a steward on the plain tells the jarl's sworn man who has drawn his first holding. "There is you, your household and the thralls of the land. Learn what the land grows and when. The rest will teach itself."
+A jarl's sworn man who draws his first holding on the Stormplain finds no tenantry to speak of: there is himself, his household and the thralls of the land, and the rest follows from learning what the land grows and when.
 
 The **Stormplain** is the broad, low, wind-scoured plain that fills the center of [[affiliation-jrldmstrmvld|Stormveld]] between the [[place-nordfells|Nordfells]] and the [[place-sunderfells|Sunderfells]]. It is the only substantial farmland in the Jarldom and it holds the great majority of its people, something over a hundred and ten thousand, four in five of them thralls.
 

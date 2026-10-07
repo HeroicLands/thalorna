@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "Who speaks for the elder races?" a pilgrim asks the Ansorunno who tends a grove of [[affiliation-bjartr|Bjartr]]. "Usually no one," comes the answer. "The standing is claimed when it arises, not filled on a schedule."
 
-Aldarmál, the Elder's Voice, is that standing: the one who speaks between the elder races and mortals in Bjartr's name, preserving ancient knowledge and keeping harmony between the two. No more than one or two members hold it at once, and the faith is often served by none. A Dróttmadr learns the ancient knowledge without yet speaking for the elder races; a Dróttstjóri speaks between them and mortals.
+Aldarmál, the Elder's Voice, is that standing: the one who speaks between the elder races and mortals in Bjartr's name, preserving ancient knowledge and keeping harmony between the two. No more than one or two members hold it at once, and the faith is often served by none. The Dróttstjóri speaks between the elder races and mortals; the Dróttmadr beneath him is still learning the ancient knowledge and does not yet speak for them.

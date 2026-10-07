@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Fire first, then water, then wait," a Flarnbrekka miner tells the new hand holding a bar against the slope. "The frost has already done half of this for you. Do not undo it by being clever." Two hundred and fifty people work a scree-scarred mountainside for the silver ore running through it, prying loose with fire and cold water what the frost has half-loosened. The settlement takes its name from the same frost: _flarn-_ is a flake of stone split off by it. [[place-norgaad|Norgaad]]'s mines are the richest in the north, and Flarnbrekka is one of the smaller camps that feeds the kingdom's reputation for them, not one of the great workings.
+The order of work at Flarnbrekka is fire first, then water, then wait, because the frost has already done half of it and cleverness only undoes that. Two hundred and fifty people work a scree-scarred mountainside for the silver ore running through it, prying loose with fire and cold water what the frost has half-loosened. The settlement takes its name from the same frost: _flarn-_ is a flake of stone split off by it. [[place-norgaad|Norgaad]]'s mines are the richest in the north, and Flarnbrekka is one of the smaller camps that feeds the kingdom's reputation for them, not one of the great workings.
 
 ## The Camp
 

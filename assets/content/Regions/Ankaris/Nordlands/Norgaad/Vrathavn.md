@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Learn the bells first," a watch-sergeant of the garrison tells the young fighters who come off the coast road hoping for a berth in a raider's crew. "Dawn and dusk, every day, as reliable as the tide. Everything else in Vrathavn keeps their time." Iron bells hang from the stone-faced watchtowers of the town's timber palisade, and their chiming sets the day of about 800 people.
+At Vrathavn the bells come first: dawn and dusk, every day, as reliable as the tide, and everything else in the town keeps their time. Iron bells hang from the stone-faced watchtowers of the town's timber palisade, and their chiming sets the day of about 800 people.
 
 Vrathavn is [[place-norgaad|Norgaad]]'s principal port on the southern coast, a fortified settlement built around a natural harbor protected by towering headlands. The name is the Temper-Haven: _vrath-_ is the temper iron takes from the fire, and the town gives the name its due. The streets are laid out with military precision, and a longship berth can shelter a dozen raiders at a time.
 

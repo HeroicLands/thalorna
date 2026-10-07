@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [norgaad], government: kingdmnrgd, pack
 
 ## Overview
 
-"Shut your eyes on the strand and tell me what you hear," a yard-master at Thraskvík says to the child just sent to learn the work. Hulls drawn up the shingle, hulls shoved off it, and in the yards above the waterline the adzes of the shipwrights: that is the sound the town is named for, since _thrask-_ is a keel taking shingle, set before the generic for an inlet.
+Shut your eyes on the strand at Thraskvík and the town can be heard: hulls drawn up the shingle, hulls shoved off it, and in the yards above the waterline the adzes of the shipwrights. That is the sound the town is named for, since _thrask-_ is a keel taking shingle, set before the generic for an inlet.
 
 Thraskvík is a port town on the coast of [[place-norgaad|Norgaad]], counted among the most vital coastal towns of the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. Its shipwright families build the sleek longships the kingdom is famous for.
 

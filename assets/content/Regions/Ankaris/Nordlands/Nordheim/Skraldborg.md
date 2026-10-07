@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Look at the headland, not the water, and you will know the sail before the sail knows you," a watchman at Skraldborg tells the boy sent up to learn the watch. From the hill fort a cry carries over the water further than any hill of its size has a right to, and the fort was raised to use exactly that: a watchman here is heard on the water long before a longship rounds the headland. That has made Skraldborg the [[place-nordheim|Nordheim]] coast's standing alarm for longer than any of its two hundred people can date, and the name says as much: _skrald-_ is a cry the wind carries further than it should.
+The watch at Skraldborg looks at the headland, not the water, and knows the sail before the sail knows it. From the hill fort a cry carries over the water further than any hill of its size has a right to, and the fort was raised to use exactly that: a watchman here is heard on the water long before a longship rounds the headland. That has made Skraldborg the [[place-nordheim|Nordheim]] coast's standing alarm for longer than any of its two hundred people can date, and the name says as much: _skrald-_ is a cry the wind carries further than it should.
 
 ## The Hersvald and the Cove
 

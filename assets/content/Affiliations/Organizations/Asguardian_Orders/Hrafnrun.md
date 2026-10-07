@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 A blót asks the gods for a good year; it does not tell a warband whether to sail this week. For that, send for a Raven.
 
-Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Ódvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blót alone does not supply. A member studies under a rune-hall's own godar and acts as advisor and seer wherever Ódvar's faithful call for one. A Dróttmadr studies rune-lore and divination; a Dróttstjóri leads the order's study and serves as its senior seer.
+Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Ódvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blót alone does not supply. A member studies under a rune-hall's own godar and acts as advisor and seer wherever Ódvar's faithful call for one.

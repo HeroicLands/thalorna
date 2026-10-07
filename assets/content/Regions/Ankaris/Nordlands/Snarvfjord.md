@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-"Put your case to Hnirvmýl first," a steward of the hall at Snarvfjord tells the envoy who has ridden three days to see the jarl. "The jarl will ask him anyway." An envoy who tries to hurry the jarl past his counselor finds the hall suddenly in no hurry at all.
+An envoy who has ridden three days to see the jarl at Snarvfjord is sent to put his case to Hnirvmýl first, because the jarl will ask him anyway. An envoy who tries to hurry the jarl past his counselor finds the hall suddenly in no hurry at all.
 
 Snarvfjord is a fjord seat of the [[place-nrdlndsrgn|Nordlands]], the court of **Jarl Hvurnmýl of Snarvfjord**. The court sits at the head of the fjord, where a hall can see what is coming up the water a long way off, and squalls come down the fjord fast. The boatmen read the sky before they read anything else.
 

@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-"Sixty years ago this was somebody else's plain," a jarl's huscarl tells the cousin who has just crossed from [[place-nordheim|Nordheim]] to take service in the hall at [[place-stormveil|Stormveil]]. "Now it feeds the hall, and the hall feeds you. Learn to like barley."
+Sixty years ago this was somebody else's plain; now it feeds the hall at [[place-stormveil|Stormveil]], and the hall feeds the kinsfolk who cross from [[place-nordheim|Nordheim]] to take service in it, who are advised to learn to like barley.
 
 The Jarldom of Stormveld holds the land of [[place-stormveld|Stormveld]], the north-east of [[place-aelwyth|Aelwyth]], and it is not, in the sense the other realms of the island are, an Aelwythan polity at all. Nordmen took it about sixty years ago and hold it still. About 150,000 people live in it, around 30,000 of them Nordmen and around 120,000 native Aelwythan thralls, and an outsider knows it as the one place on the island where the north rules.
 

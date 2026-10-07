@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Take the boat if the weather lets you," a pilgrim who walked in over the pass tells a newcomer waiting on the quay. "I came over the mountain, and I will not do it twice." Gnaldrfjord lies deep in a narrow fjord on the western coast of [[place-norgaad|Norgaad]], reached only by sea or through treacherous mountain passes, and about 300 people live there in turf-roofed houses clustered at the water's edge. The mountains that tower above it give the place an air of isolation and mystery. The fjord runs cold and deep, and the villagers speak in hushed tones of currents that pull wrongly and of lights that dance beneath the ice in winter.
+The boat is the way into Gnaldrfjord when the weather allows, since the mountain pass is not one a traveler crosses twice by choice. Gnaldrfjord lies deep in a narrow fjord on the western coast of [[place-norgaad|Norgaad]], reached only by sea or through treacherous mountain passes, and about 300 people live there in turf-roofed houses clustered at the water's edge. The mountains that tower above it give the place an air of isolation and mystery. The fjord runs cold and deep, and the villagers speak in hushed tones of currents that pull wrongly and of lights that dance beneath the ice in winter.
 
 The name comes from the deep-winter groan of pack-ice grinding against itself out on the fjord, a sound the villagers say carries all the way to the turf roofs on a still night. Ravens wheel above the cliffs, birds believed to be messengers of [[lore-odvardty|Ódvar]], and the villagers regard them with a reverence close to awe.
 

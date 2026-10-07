@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "The ting has ruled, and the loser will not pay," a godi of [[affiliation-eidgar|Eidgar]] says. "That is when you send for a sword."
 
-Eidkáppar, the Sword of Eidgar, is a fighting order of the faith: elite warriors who carry a blade in the god's name and stand for his followers when a ting's ruling needs an arm to enforce it. A member trains to the standard of honorable combat the faith preaches, and the standard binds him as tightly as it binds any priest. A Dróttmadr stands ready to enforce a ruling when called; a Dróttstjóri leads the order's warriors and carries Eidgar's name into the field.
+Eidkáppar, the Sword of Eidgar, is a fighting order of the faith: elite warriors who carry a blade in the god's name and stand for his followers when a ting's ruling needs an arm to enforce it. A member trains to the standard of honorable combat the faith preaches, and the standard binds him as tightly as it binds any priest. The Dróttstjóri leads the order's warriors and carries Eidgar's name into the field, and a Dróttmadr stands ready to enforce a ruling when called.

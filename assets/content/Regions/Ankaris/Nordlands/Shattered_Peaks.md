@@ -16,7 +16,7 @@ data:
 # terran_analog: "A compact alpine massif of the Norwegian or Swedish interior—the Sunnmøre Alps or the Kebnekaise group—a single shattered knot of peaks rather than a range."
 ---
 
-"I crossed the saddle once, in three days of good weather, and I would not call that luck to anyone going up behind me," says a prospector who came back down to [[place-tvarnmark|Tvarnmark]] with the last sledge of a party that went up hunting mithral. "The Peaks don't hate you. They don't notice you, and that is worse."
+The Shattered Peaks do not hate those who climb them; they do not notice them, and that is worse. A prospector who came back down to [[place-tvarnmark|Tvarnmark]] with the last sledge of a party that went up hunting mithral crossed the saddle once, in three days of good weather, and would not call that luck to anyone going up behind him.
 
 The Shattered Peaks are a compact massif in the mountain interior of the [[place-nrdlndsrgn|Nordlands]], within the [[affiliation-kingdmnrgd|Kingdom of Norgaad]]. They are small, about five leagues across, but no stretch of country on [[place-ankrscntnnt|Ankaris]] packs more broken stone into so little ground, and the [[lore-nordheimnclt|Nordmen]] who live around them reckon the five leagues as a wall.
 

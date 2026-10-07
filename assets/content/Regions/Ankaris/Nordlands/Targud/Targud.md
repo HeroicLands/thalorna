@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Nobody crosses the east alone," a Targudian trapper tells a fur-buyer from the south, "not us and not them."
+Nobody crosses the east alone, neither the Targudians nor the Grukar beyond them, and a fur-buyer from the south learns it from the first trapper he hires.
 
 Targud is the land of the [[affiliation-kingdmtrgd|Kingdom of Targud]], the eastern edge of the [[place-nrdlndsrgn|Nordlands]] against the [[place-grkrhlmrgn|Grukar]]. It is the easternmost [[lore-nordheimnclt|Nordmen]] kingdom, a deep-forest and tundra borderland bordering the territories of the Grukar tribes, and about 300,000 people live in it.
 

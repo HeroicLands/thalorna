@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "You do not see them fight," a Malagna harbor guard says of the Serpentfangs. "You see the other man slow down."
 
-Ormgeir fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hofs in [[place-malagna|Malagna]]'s ports and is relied on to finish what a blade alone would leave unsettled. A Dróttmadr trains in the toxins; a Dróttstjóri leads the poison-fighters.
+Ormgeir fight for [[affiliation-velgrimr|Vélgrímr]] by poison as much as by blade, trained in the toxins that weaken a foe before the fight is joined. A member carries venom prepared at one of the hidden hofs in [[place-malagna|Malagna]]'s ports and is relied on to finish what a blade alone would leave unsettled.

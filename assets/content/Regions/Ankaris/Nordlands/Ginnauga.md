@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Ask a rune-priest at [[place-odholm|Ódholm]] what the Eye of the Void sees and he will tell you what it is, who wears it and what it costs, and then he will stop. "Past that," he says, "the question is the dangerous part." **Ginnauga**, the Eye of the Void, is the primordial relic from which [[lore-nahilddty|Náhild]] draws her power, and the tradition holds it to be a powerful source of [[lore-theshadow|the Shadow]]: the chaos from outside creation that corrupts whatever it touches, mortal or divine.
+At [[place-odholm|Ódholm]] the rune-priests will say what the Eye of the Void is, who wears it and what it costs, and then they stop, since past that the question is the dangerous part. **Ginnauga**, the Eye of the Void, is the primordial relic from which [[lore-nahilddty|Náhild]] draws her power, and the tradition holds it to be a powerful source of [[lore-theshadow|the Shadow]]: the chaos from outside creation that corrupts whatever it touches, mortal or divine.
 
 That corruption is what makes the Eye terrible. Its influence spreads to everything near it, and a caustic shadow of dread and hopelessness seeps from it into the mortal world. The name is built from _ginn-_, the yawning void beyond creation, and _-auga_, an eye.
 

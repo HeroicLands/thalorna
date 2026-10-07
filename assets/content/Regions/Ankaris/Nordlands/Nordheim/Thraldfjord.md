@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Flat water is the dangerous kind," a Thraldfjord fisher tells her grandson as they push off. "Rough water tells you what it means to do." The fjord's surface lies silent and flat while a current moves hard beneath it, and every fisher among the two hundred who live here learns to read the difference before anyone lets a child out on it alone. The village is named for that current: _thrald-_ is the pull of a current under calm water.
+At Thraldfjord flat water is the dangerous kind, since rough water tells a fisher what it means to do. The fjord's surface lies silent and flat while a current moves hard beneath it, and every fisher among the two hundred who live here learns to read the difference before anyone lets a child out on it alone. The village is named for that current: _thrald-_ is the pull of a current under calm water.
 
 The drowning the fjord has caused over the generations is recorded nowhere but in which households will not marry into which others. [[being-knlthvrstrmrt|Knulthvir Stormrót]]'s standing dispute over a drowned kinsman's nets has gone to the district's Lawspeaker twice without a ruling either side accepts.
 

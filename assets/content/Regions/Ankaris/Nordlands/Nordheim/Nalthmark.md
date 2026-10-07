@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Past the last fence you are in nobody's writ," a paid watchman tells a traveler on the palisade at Nalthmark, nodding down the road. "Here we can at least tell you where that is." Nalthmark sits where [[place-nordheim|Nordheim]]'s claim runs out. The name pairs _nalth-_, the last hour of a watch, with _-mark_, ground held at an edge, and the place is the last reckoned boundary before the land turns to country that no hersvald's writ reaches and no bóndi has fenced. The road beyond it runs down to [[place-hrindstead|Hrindstead]] and the forest frontier.
+Past the last fence at Nalthmark a traveler is in nobody's writ, and the palisade watchmen are paid to say where that begins. Nalthmark sits where [[place-nordheim|Nordheim]]'s claim runs out. The name pairs _nalth-_, the last hour of a watch, with _-mark_, ground held at an edge, and the place is the last reckoned boundary before the land turns to country that no hersvald's writ reaches and no bóndi has fenced. The road beyond it runs down to [[place-hrindstead|Hrindstead]] and the forest frontier.
 
 Two hundred and fifty people hold the frontier farms and the single palisaded yard that gives them somewhere to stand together when the plateau clans, or something worse, come down out of the high country. [[being-vrldrvdrtgr|Vruldorv Dróttgar]] is one of several who stand a paid watch on that yard instead of farming it.
 

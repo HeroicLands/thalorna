@@ -7,7 +7,7 @@ description: "The summer-solstice festival of coastal bonfires, shared feasts an
 tags: [asguardian]
 ---
 
-"Don't wait for the sun to set," a boy tells the southern clerk who has been sent up the headland to sit beside him. "It only dips. Watch the other headlands." Down the coast, one promontory after another, fires are catching, and by the time the last of them is lit the whole shore from here to the next fjord is a string of orange points under a sky that never goes dark.
+A southern clerk sent up the headland for Midsumar learns not to wait for the sun to set, since it only dips, and to watch the other headlands instead. Down the coast, one promontory after another, fires are catching, and by the time the last of them is lit the whole shore from here to the next fjord is a string of orange points under a sky that never goes dark.
 
 Midsumar is the summer-solstice festival, the brightest night of the northern year. The sun barely sets, the gods of light are at their strongest, and every promontory along the northern coasts carries a bonfire. [[lore-bjartrdty|Bjartr]] is central to it, and the feast belongs to him.
 

@@ -7,7 +7,7 @@ description: "The full member of the Order of the Giant's Children, admitted by 
 tags: []
 ---
 
-A Giant's Child tells a Frost-Touched candidate who asks what the ordeal is for: "We hold that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrímthur]]'s body. So we fight at the order's call and nowhere else, never for pay, crown, jarl or grudge, because sacred strength is not for sale."
+The ordeal exists because the order holds that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrímthur]]'s body, so its members fight at the order's call and nowhere else, never for pay, crown, jarl or grudge: sacred strength is not for sale.
 
 ## What This Standing Is
 

@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 At a coastal hof of [[affiliation-thrunvald|Thrúnvald]], the priest minding the stores may be the one minding the gate.
 
-Thrumuskjöldr, the Order of the Hammer, trains priests in combat and protection, and its members serve the coastal hofs and the crews that sail from them as warriors as readily as clergy. A member guards a hof's stores and its people, and takes up arms where the blessing of the sea-rites alone will not hold a threat off. The faith's warrior order is [[affiliation-hamardrengir|Hamardrengir]]; the Order of the Hammer stays priests first. A Dróttmadr serves a hof's people and stores; a Dróttstjóri leads the guard over a hof and its crews.
+Thrumuskjöldr, the Order of the Hammer, trains priests in combat and protection, and its members serve the coastal hofs and the crews that sail from them as warriors as readily as clergy. A member guards a hof's stores and its people, and takes up arms where the blessing of the sea-rites alone will not hold a threat off. The faith's warrior order is [[affiliation-hamardrengir|Hamardrengir]]; the Order of the Hammer stays priests first.

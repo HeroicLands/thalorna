@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-"Pay now, and keep your purse out of sight until you reach the quay," the ferryman tells the traveler he is taking across to the islet. "Gnaldrholm is rich, and it knows how to keep what it earns." The port city stands on an islet of the [[place-nrdlndsrgn|Nordlands]] coast, rich enough to support a class of influential figures who trade in secrets as readily as in goods, and organized enough to support a criminal network that runs heists and cons the way other cities run guilds.
+The ferry to Gnaldrholm is paid before the crossing, and a purse stays out of sight until the quay: the islet is rich, and it knows how to keep what it earns. The port city stands on an islet of the [[place-nrdlndsrgn|Nordlands]] coast, rich enough to support a class of influential figures who trade in secrets as readily as in goods, and organized enough to support a criminal network that runs heists and cons the way other cities run guilds.
 
 ## Who Holds Gnaldrholm
 

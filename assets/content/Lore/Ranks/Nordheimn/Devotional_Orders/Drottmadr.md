@@ -7,7 +7,7 @@ description: "The ordinary member of a devotional order of the faiths of the Ten
 tags: []
 ---
 
-"You are in," a senior member tells the newest devotee of a devotional order. "You do the order's work now, and you do it under its authority. You do not speak for us yet."
+A newly admitted devotee of a devotional order is in: he does the order's work now, under its authority, and he does not speak for it yet.
 
 ## What This Standing Is
 

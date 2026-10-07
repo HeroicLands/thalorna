@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"You do not blow it to be heard," the hersvald's horn-blower tells the apprentice who is to take the horn from him. "You blow it so the farthest farm knows whose horn it is." The levy of Raltholm is called from the holm itself, and a farmstead three fjords away that cannot see a beacon can still hear the call carried over the water on a clear day. The name is the reason: Raltholm is named for how far a shout carries over flat water on a still morning, and the hersvald who holds the district has made that fact an institution.
+The hersvald's horn at Raltholm is not blown to be heard; it is blown so the farthest farm knows whose horn it is. The levy of Raltholm is called from the holm itself, and a farmstead three fjords away that cannot see a beacon can still hear the call carried over the water on a clear day. The name is the reason: Raltholm is named for how far a shout carries over flat water on a still morning, and the hersvald who holds the district has made that fact an institution.
 
 Seven hundred people answer to the horn. They work scattered farmsteads and the holm's own waterfront, and they are not packed behind a wall, because Raltholm has never needed [[place-knalthstead|Knalthstead]]'s ramparts to hold what it has.
 

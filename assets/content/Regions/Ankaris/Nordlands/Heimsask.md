@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Ask a rune-priest to teach a child the shape of the world and he will scratch one long line in the dirt, put roots under it and a crown over it, and say, "Two worlds, one tree. Learn that before you learn a single god's name." The line is **Heimsask**, the world-ash. It is rooted in [[place-asguard|Asguard]], the gods' world, and crowned over [[place-worldthlrn|Mannguard]], the world the living stand on, and it holds the two in one growth.
+The shape of the world is taught to a child as one long line scratched in the dirt, with roots under it and a crown over it: two worlds, one tree, learned before a single god's name. The line is **Heimsask**, the world-ash. It is rooted in [[place-asguard|Asguard]], the gods' world, and crowned over [[place-worldthlrn|Mannguard]], the world the living stand on, and it holds the two in one growth.
 
 The tradition ties the fate of both worlds to the tree. While it stands, both stand; when it burns, both burn with it. That is why the skalds call [[lore-aldarlok|Aldarlok]] the Fall of the Ash, naming the end of the age for the one thing whose falling closes it.
 

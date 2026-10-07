@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-A gate-ward at Thrúnborg meets the hersvald's fosterling who has come in with the first snow to winter inside the walls, and tells the boy what the town is for. "The king's hall is in the middle, the garrison is at the gate, and every hersvald in the kingdom comes here for the dark. Keep your cloak on. Hold your tongue while the ting's business is done by firelight." The boy keeps his cloak on.
+With the first snow every hersvald in the kingdom comes to Thrúnborg for the dark: the king's hall stands in the middle, the garrison holds the gate, and the ting's business is done by firelight, with cloaks kept on and tongues held.
 
 Thrúnborg is the seat of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], a fortified town of roughly 700 souls built around the royal hall where the king holds court and the kingdom's jarls gather to settle disputes and plan its defense. The town's garrison guards the approach from the ice-choked coast, and its markets draw traders from across [[place-vithgard|Vithgard]]'s scattered settlements. In winter the kingdom's hersvaldar come within its walls for the long dark, when the ting's business is conducted by firelight and the völvur read the season's portents for the year ahead.
 

@@ -7,7 +7,7 @@ description: "Held in high regard and given a named place for it, in the five ki
 tags: []
 ---
 
-Here is how a king's Hringvördr, who keeps the rings the king gives, puts the standing to a huscarl newly sworn: "The ring is a seat. The hall hears you before it hears a common bóndi, and in return the service you swore stays sworn."
+The ring a king gives is a seat in his hall: the huscarl who holds one is heard before a common bóndi, and in return the service he swore stays sworn. The king's Hringvördr, who keeps the rings the king gives, puts it to a huscarl newly sworn in just those words.
 
 ## What This Standing Is
 

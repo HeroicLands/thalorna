@@ -7,7 +7,7 @@ description: "Full clan membership, holding odal land and a voice at the ting, i
 tags: []
 ---
 
-Here is what a Lawspeaker tells a young man who has just come into his father's odal land: "Your land is yours because your father's was. No jarl granted it, so no jarl can take it back at will. When the ting rules, the ruling binds the jarl over you as it binds you."
+A bóndi's odal land is his because his father's was. No jarl granted it, so no jarl can take it back at will, and when the ting rules, the ruling binds the jarl over him as it binds him.
 
 ## What This Standing Is
 

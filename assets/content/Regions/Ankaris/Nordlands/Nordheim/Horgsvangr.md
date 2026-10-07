@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"The road is the first thing the place asks of you, and the last day of it is the hardest," a pilgrim who has made the journey to Hörgsvangr twice tells the newcomer beside her at the final farm. Hörgsvangr, the Altar-Field, lies in the interior of [[place-nordheim|Nordheim]], far from the coast and the merchant routes, and reaching it means crossing difficult ground that few outsiders choose to cross. The remoteness is deliberate.
+The road to Hörgsvangr is the first thing the place asks of a pilgrim, and the last day of it, from the final farm, is the hardest. Hörgsvangr, the Altar-Field, lies in the interior of [[place-nordheim|Nordheim]], far from the coast and the merchant routes, and reaching it means crossing difficult ground that few outsiders choose to cross. The remoteness is deliberate.
 
 It is the oldest inhabited settlement in Nordheim, and it predates the present kingdoms by centuries, perhaps millennia. About 300 people live there, in a settlement small and austere, built around a sacred grove and standing stones of unknown origin.
 

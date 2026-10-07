@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-"Load the heavy panniers low and the amber high, and never argue with the lead pony," a pony-train master at Kraldstead tells a boy hired for his first season. A hundred and fifty people keep the yard where pack-ponies from the inland valleys are loaded for the coast road and unloaded again on the way back, and nothing about the settlement exists for any other reason. The name is the pack-beast's own: Kraldstead is named for the animal that carries its load without complaint.
+At Kraldstead the heavy panniers are loaded low and the amber high, and nobody argues with the lead pony. A hundred and fifty people keep the yard where pack-ponies from the inland valleys are loaded for the coast road and unloaded again on the way back, and nothing about the settlement exists for any other reason. The name is the pack-beast's own: Kraldstead is named for the animal that carries its load without complaint.
 
 There is no hall here, no hersvald and no ting. Kraldstead's business is settled over the scale and the tally-stick, and a dispute too large for that waits for whichever Lawspeaker next passes through on his circuit.
 

@@ -8,7 +8,7 @@ tags: [draft]
 data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 ---
 
-"Bring a witness, and bring patience," a court-suitor on the steps of the Court of Justice tells the man from the next district who has come to ask whether his case belongs there. "Lögthul takes the cases the district tings cannot." The town is built around its court. The **Court of Justice at Lögthul** is the oldest seat of law in the northern territories, and it is the court the north reaches for when a case is too great for a district ting.
+A suitor at the Court of Justice brings a witness and brings patience, because Lögthul takes the cases the district tings cannot. The town is built around its court. The **Court of Justice at Lögthul** is the oldest seat of law in the northern territories, and it is the court the north reaches for when a case is too great for a district ting.
 
 ## The Great Trial
 

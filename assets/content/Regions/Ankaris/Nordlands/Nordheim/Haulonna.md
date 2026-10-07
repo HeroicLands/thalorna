@@ -6,7 +6,7 @@ subType: site
 data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}
 ---
 
-A trapper of the highland clans who hunts near the edge of Thalmdal gives a newcomer one rule: when the birdsong stops and the air turns cold and stale in the middle of summer, turn back and do not argue with your feet. The valley that no hunter could once find twice is now the one nobody can avoid, because its blight spreads a little further every year.
+Near the edge of Thalmdal the one rule is that when the birdsong stops and the air turns cold and stale in the middle of summer, a hunter turns back and does not argue with his feet. The valley that no hunter could once find twice is now the one nobody can avoid, because its blight spreads a little further every year.
 
 - **Type:** destroyed [[lore-flksinale|Sinalëan]] enclave
 - **Location:** the deep interior of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys

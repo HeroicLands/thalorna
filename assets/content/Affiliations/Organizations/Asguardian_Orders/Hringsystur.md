@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 The woman at the door of a feast-hall of [[affiliation-solrun|Sólrún]] stands armed, and she also keeps the hall's ledgers.
 
-The Hringsystur, the Ring-Sisters, are Sólrún's own women, sworn to make wealth and give it away and to guard the halls and the gold that pass through her rites. A member stands at a hall's door as readily as she keeps its ledgers, and the generosity her faith measures standing stands behind both duties. A Dróttmadr keeps the ledgers and stands armed at the door; a Dróttstjóri leads the guard over Sólrún's halls and the gold passing through her rites.
+The Hringsystur, the Ring-Sisters, are Sólrún's own women, sworn to make wealth and give it away and to guard the halls and the gold that pass through her rites. A member stands at a hall's door as readily as she keeps its ledgers, and the generosity her faith measures standing stands behind both duties. A Dróttmadr keeps the ledgers and stands armed at the door, and the guard over Sólrún's halls and the gold passing through her rites is led by a Dróttstjóri.
