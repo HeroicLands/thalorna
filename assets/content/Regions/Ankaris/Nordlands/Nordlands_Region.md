@@ -81,7 +81,7 @@ Beside the priesthood go the wandering _völvur_, seeresses who travel from sett
 
 ## Kings on Sufferance
 
-The Nordlands are five sovereign kingdoms in a loose confederation. Nordheim is first among equals, but every kingdom guards its sovereignty, and anyone who reaches for power beyond his own jarldom meets the same reflexive resistance the Aurèldíans keep for would-be emperors.
+The Nordlands are five sovereign kingdoms in a loose confederation. Nordheim is first among equals, but every kingdom guards its sovereignty. A jarl who reaches for power beyond his own jarldom meets the same reflexive resistance the Aurèldíans keep for would-be emperors.
 
 Succession is hereditary in name and qualified by the ting in fact. A king whose clans reject him cannot rule, and the assembly has deposed kings more than once. Outsiders take this for chaos. It is a system that asks a king to show his competence in public, constantly, and the skipstjóri puts it in a trader's terms: "A king up here is like a ship's master. The crew follows him while he brings them home."
 

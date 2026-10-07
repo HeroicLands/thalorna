@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-Targud skalds sing a last stand as often as a victory, because the wall sees both, and a bóndi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it will want to know how the second one is done.
+Targud skalds sing a last stand as often as a victory, because the wall sees both. A bóndi who comes in to [[place-tvalgard|Tvalgard]] for his first weeks on it hears the last stands first.
 
 The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against [[lore-grukarfolk|Grukar]] raids and incursions, and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
