@@ -53,7 +53,7 @@ The whole region holds perhaps **fifty thousand Grukar**, which surprises everyo
 They are foragers—hunters, trappers, fishers, gatherers of what the marshes give—and forager
 densities are low everywhere. Grukar densities are lower than human ones, because a Grukar tribe converts
 food into warriors at a rate no human band attempts: a Hai clutch is an enormous quantity of meat, and
-the dosing cannot outrun the larder. Fifty thousand spread across a country the size of a kingdom means
+the dosing cannot outrun the larder. Fifty thousand spread through the forests and marshes on either side of Velanthia's western border means
 tribes of a few hundred to a couple of thousand, and a raiding party of dozens.
 
 **They hold themselves there.** The endless Grukar-on-Grukar fighting that outsiders take for mindless

@@ -16,8 +16,8 @@ data:
     - {to: vylariargn, bearing: SE}
   population: 500000
   routes:
-    - {to: falkhaven, bearing: W, mode: land, days: 90, terrain: [forest]}
-    - {to: vandstein, bearing: SE, mode: land, days: 90, terrain: [forest, mountains]}
+    - {to: falkhaven, bearing: W, mode: land, days: 30, terrain: [forest]}
+    - {to: vandstein, bearing: SE, mode: land, days: 20, terrain: [forest, mountains]}
   packFolder: vrystwald
 
 # terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt. The Visigoths."
@@ -29,9 +29,9 @@ South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless in
 
 ## Geography
 
-Vrystwald occupies the forest belt between the western Nordmal kingdoms, Aurèldía to the south, and Velanthia to the east. Its southern margins approach the northern lands of [[place-vylariargn|Vylaría]]. The landscape is dominated by:
+Vrystwald occupies the forest country between the Nordmal kingdoms of [[place-vithgard|Vithgard]] and [[place-nordheim|Nordheim]] to the north, Velanthia to the east, and [[place-tarvenirgn|Tarvénia]] and the [[affiliation-vylarinmpr|Vylarian Empire]]'s [[place-vylariargn|Vylaría]] to the south. It covers some eighty-five thousand square miles: a main block about 370 miles east to west and 300 north to south, and a western arm that runs another 250 miles along the north shore of the bay facing [[place-elavendre|Élavendre]]. The landscape is dominated by:
 
-- The **northern taiga**—endless boreal forest of spruce, pine, fir, and birch, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vrystwaldi export.
+- The **northern taiga**—a belt of boreal forest of spruce, pine, fir, and birch along the Nordmal border, lightly populated by hunter-fisher-trapper Varokh clans whose lifeways look more taiga-clan than Nordmal. The taiga's furs are a major Vrystwaldi export.
 - The **central mixed-forest belt**—the heartland: dense mixed woodlands of pine, spruce, oak, beech, and birch, broken by clearings, rivers, and the great inland lakes. Most of the Varokh population lives here, scattered across innumerable small forest-clearings and along the river-courses.
 - The [[place-vrystwldrvrs|great river systems]]—slow brown rivers that cross the interior and link its settlements. Some waters leave the forest to the west; others pass through neighboring lands toward the inland sea, which does not touch Vrystwald. In winter the frozen rivers become highways for sleds and warbands.
 - The **eastern frontier**—the fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
@@ -72,8 +72,8 @@ anyone could have said so the question had stopped meaning anything.
 
 ## Population
 
-Vrystwald holds about **500,000** people, spread very thinly across an enormous territory—perhaps one
-soul to two square miles of it, averaged out, which is a figure that means nothing until you stand in the
+Vrystwald holds about **500,000** people, spread thinly across some eighty-five thousand square miles—about
+six souls to the square mile, averaged out, which is a figure that means nothing until you stand in the
 forest and understand that the average is a lie in both directions.
 
 The taiga is sparsely inhabited by hunters, fishers and trappers; most people live in mixed-forest clearings and along river courses. The river landings and the [[place-thornwald|Velanthian reach]] draw more people than the deep interior. These patterns cross the five frontier reaches rather than defining village governments of their own.
@@ -97,7 +97,7 @@ under no obligation whatever to be brought.
 
 ## Villages, and Nothing Larger
 
-There are **no cities in Vrystwald and no towns**. There never have been. At roughly 350 people per village, the region's half million people imply about **1,400 villages**; the twenty villages with their own notes and sixty more in the roster below are examples, not a complete census. At roughly 350 people per village, the region's half million people imply about **1,400 villages**; the twenty villages with their own notes and sixty more in the roster below are examples, not a complete census.
+There are **no cities in Vrystwald and no towns**. There never have been. At roughly 350 people per village, the region's half million people imply about **1,400 villages**; the twenty villages with their own notes and sixty more in the roster below are examples, not a complete census.
 
 What there is, is villages—thousands of them, scattered through forest clearings and strung along the
 riverbanks, ordinarily holding about 200 to 500 people behind a palisade. Below 200 a village cannot send

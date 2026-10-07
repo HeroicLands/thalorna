@@ -121,7 +121,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] is more deeply rooted in Heliónis 
 
 ## Relations
 
-The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] is their trading partner across the eastern sea.
+The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] is their trading partner across the water to the south.
 
 ## Commerce and Currency
 

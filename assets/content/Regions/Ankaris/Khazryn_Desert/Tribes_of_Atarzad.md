@@ -90,7 +90,7 @@ The Exodus narrative is dense, much-elaborated, and central to Ātárzád identi
 
 The route of the Exodus is by tradition divided into three legs.
 
-The **first leg** carried the Flame-born northeast out of Aû'Khelâthu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and into the southern reaches of [[affiliation-cnfdrtnhrdnstts|Harad]]. The Haradian merchant-states of the time, recognizing both an opportunity and a moral obligation, granted the Flame-born safe passage through their territories and provisioned the host with grain, fresh water, and what Haradian chroniclers euphemistically call "discounted iron." Ātárzád law to this day forbids raiding into Harad, and the Ardashír merchant-houses maintain especially scrupulous trading relationships with Haradian counterparts in continued recognition of the obligation.
+The **first leg** carried the Flame-born northeast out of Aû'Khelâthu, across the narrow desert that joins the [[place-nrthrnfrtlrgn|Northern Fertile Region]] to the southern coast of the [[place-vylarianse|Vylarian Sea]], and up the eastern shore of that sea, opposite the islands of [[affiliation-cnfdrtnhrdnstts|Harad]]. The Haradian merchant-states of the time, recognizing both an opportunity and a moral obligation, shipped supplies across the strait and provisioned the host with grain, fresh water, and what Haradian chroniclers euphemistically call "discounted iron." Ātárzád law to this day forbids raiding into Harad, and the Ardashír merchant-houses maintain especially scrupulous trading relationships with Haradian counterparts in continued recognition of the obligation.
 
 The **second leg** carried the Flame-born east-and-north through the **Dunhari uplands**—the long traverse of the high Dunhari plateau that runs between the [[affiliation-sultntmrdd|Sultanate]] (whose southern marches the Ātárzád skirted with care) and the open [[place-dunharargn|Dunhari]] tribal interior to the south. The Dunhari sheikhs of the day were too occupied with their own internal feuds to oppose the migration; the Flame-born paid passage in temple-gold and proceeded.
 
@@ -202,5 +202,5 @@ Tribes of Ātárzád's commerce operates primarily through [[lore-bartercnmy|bar
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the wider faith from which the Ātárzád diverge
 - [[affiliation-sultntmrdd|Sultanate of Amradad]]—the regional Āsháian power and host of the Khazryn exile community
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the place of bondage
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the people who granted the Exodus safe passage and provisions during its first leg
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the people who provisioned the Exodus during its first leg
 - Ātárzādi Language—the language of the Twelve Tribes

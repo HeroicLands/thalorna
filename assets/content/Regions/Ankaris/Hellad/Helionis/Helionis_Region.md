@@ -11,13 +11,13 @@ data: {demonym: null, lore: [], parents: [heladrgn], population: 3000000, packFo
 
 ## Overview
 
-When the cities of Heliónis meet at a sacred site for the games, they send runners, wrestlers and chariot teams against one another, and they treat taking part as a duty owed to the gods. A season later the same cities may be at war. Heliónis is seven independent city-states that share a tongue, a pantheon, a calendar of festivals and an unshakable confidence in their own civilization, and agree about almost nothing else. Three million people live there, on the coasts and hills east of [[place-vylariargn|Vylaría]]. An outsider remembers Heliónis for its philosophers and its theaters, for the hetairai of Kalydria, and for the fact that the [[affiliation-ordoarcanis|Ordo Arcanis]] was born out of its academies.
+When the cities of Heliónis meet at a sacred site for the games, they send runners, wrestlers and chariot teams against one another, and they treat taking part as a duty owed to the gods. A season later the same cities may be at war. Heliónis is seven independent city-states that share a tongue, a pantheon, a calendar of festivals and an unshakable confidence in their own civilization, and agree about almost nothing else. Three million people live there, in the hills and valleys east of [[place-vylariargn|Vylaría]] and along one short stretch of coast. An outsider remembers Heliónis for its philosophers and its theaters, for the hetairai of Kalydria, and for the fact that the [[affiliation-ordoarcanis|Ordo Arcanis]] was born out of its academies.
 
 Heliónis was once the cultural heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and it is still the place the rest of the west goes to learn. Philosophy, art and magic are its traditions, old gods and heroes are its history, and it carries all of them forward while the empire that conquered it fades.
 
 ## The Country
 
-Heliónis lies east of Vylaría, south of [[place-velanthrgn|Velanthia]] and north of [[affiliation-cnfdrtnhrdnstts|Harad]], with its coastal cities facing the [[place-vylarianse|Vylarian Sea]]. The land is a patchwork of rocky coastlines, olive-clad hills, narrow fertile valleys and abrupt mountain ranges. The coast and the islands close offshore form a web of sea-roads that connects the cities and, as often, divides them.
+Heliónis lies east of Vylaría, south of [[place-velanthrgn|Velanthia]] and west of [[place-byzariargn|Byzaría]], and it reaches the [[place-vylarianse|Vylarian Sea]] only along a short coast at its south-western corner, where its port cities face the water and, across it to the south, the islands of [[affiliation-cnfdrtnhrdnstts|Harad]]. The land is a patchwork of olive-clad hills, narrow fertile valleys and abrupt mountain ranges, with rocky shores along its one stretch of coast. The roads through the valleys and over the passes connect the cities and, as often, divide them.
 
 The climate is warm and dry. The sun is bright, the sea is blue to the horizon, and the light has a clarity that artists and philosophers have celebrated for millennia. The soil is thin but productive: olive groves, vineyards and hardy grain grow on terraces cut into the hillsides.
 
@@ -49,7 +49,7 @@ Heliónis has the oldest continuous tradition of organized arcane scholarship in
 
 ### The Panepistemium
 
-The greatest of these Helionite institutions was the [[affiliation-panepistmm|Panepistēmion]], _the place of all knowledge_. Vylarian tongues wore the name down to **Panepistemium**, often clipped to **Epistemium**, and the Common tongue calls it the Academy of Knowledge. Founded around 400 BF, it was a federation of scholars across the city-states that took in every domain of inquiry: metaphysics, ethics, logic, natural philosophy, political thought, aesthetics and more. It was neither a guild nor a government body. Its scholars shared research and debated theory, and they kept their standards by peer reputation and scholarly consensus, with no legal authority behind them.
+The greatest of these Helionite institutions was the [[affiliation-panepistmm|Panepistēmion]], _the place of all knowledge_. Vylarian tongues wore the name down to **Panepistemium**, often clipped to **Epistemium**; rendered, the name is the Academy of Knowledge. Founded around 400 BF, it was a federation of scholars across the city-states that took in every domain of inquiry: metaphysics, ethics, logic, natural philosophy, political thought, aesthetics and more. It was neither a guild nor a government body. Its scholars shared research and debated theory, and they kept their standards by peer reputation and scholarly consensus, with no legal authority behind them.
 
 In its original form the Epistemium gave equal standing to every college. The study of ethics, logic, law, the mind and the natural world stood level with the arcane, and the College of Arcane Philosophy was one college among many. That college developed the foundational theories of elemental classification, of opposed forces, and of structured magical practice that became the Ordo's [[affiliation-hexhodai|Héx Hodäi]].
 
@@ -77,7 +77,7 @@ The Republic conquered Heliónis between 335 and 312 BF, during its expansion ac
 
 Across the southern sea, the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is an ancient civilization with which Heliónis has exchanged ideas for centuries. Helionite philosophy has shaped Khelâthi theological debate, and Khelâthi mathematics, astronomy and architecture have enriched Helionite scholarship. That relationship is warmer and more equal than the entanglement with Vylaria.
 
-Harad, across the eastern sea, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Haradian ports to markets across the world. [[place-provenzrgn|Provènzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with [[place-byzariargn|Byzaría]] to the east are complicated: the two share cultural roots and have grown apart over centuries.
+Harad, across the water to the south, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Haradian ports to markets across the world. [[place-provenzrgn|Provènzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with Byzaría to the east are complicated: the two share cultural roots and have grown apart over centuries.
 
 ## What Heliónis Is Known For
 

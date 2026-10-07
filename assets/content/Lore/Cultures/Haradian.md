@@ -29,7 +29,7 @@ The middle—independent merchants, skilled craftspeople and ship captains—is 
 
 The harbor districts are cramped, poor and increasingly restless. Dock workers and sailors carried the war, and a decade of being told that liberty has been achieved has not improved their temper.
 
-Apart from all three stand the inland tribes, culturally distinct, speaking archaic dialects, keeping older traditions, and resenting the coast. They supplied a great many of the foot soldiers for independence and have seen almost none of the benefit, and coastal Haradians tend to forget they exist until a levy is needed.
+Apart from all three stand the hill tribes of the larger islands, culturally distinct, speaking archaic dialects, keeping older traditions, and resenting the port cities. They supplied a great many of the foot soldiers for independence and have seen almost none of the benefit, and harbor Haradians tend to forget they exist until a levy is needed.
 
 ## The Bargain as a Social Form
 
@@ -60,7 +60,7 @@ He owes his creditors payment and his debtors patience, and by the coast's recko
 ## See Also
 
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the twelve-year-old confederation
-- [[place-haradregin|Harad Region]]—the coast and its islands
+- [[place-haradregin|Harad Region]]—the islands and their harbors
 - [[affiliation-auricompct|Auric Compact]]—the banking cartel and the real leverage
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, and the ones sailors actually address
 - [[skill-haradilng|Haradi]]—the tongue of the ports

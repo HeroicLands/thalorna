@@ -3,7 +3,7 @@ shortcode: kethara
 name: {full: Kethara, aliases: []}
 type: affiliation
 subType: polity
-description: "Naval stronghold of the Confederation of Haradian States on the strait between mainland and archipelago—fortress-city whose admirals command the confederation's most powerful warships."
+description: "Naval stronghold of the Confederation of Haradian States on the narrows between the Haradian islands—fortress-city whose admirals command the confederation's most powerful warships."
 data:
   templatePriority: null
   demonym: Haradian
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [haradilng]}}
 ---
 
-In Kethara a family's standing is counted in ships commanded and battles won. The city built the fleet that won the Battle of [[place-tamzirshoals|Tamzîr Shoals]], and it is military as much as mercantile: its admirals command the [[affiliation-cnfdrtnhrdnstts|Confederation's]] most powerful warships, and its marine infantry are the nearest thing Harad has to a professional standing army. The city-state holds the fortified city of [[place-kethara2|Kethara]] on the strait between the mainland and the Haradian archipelago, and some 2.2 million people.
+In Kethara a family's standing is counted in ships commanded and battles won. The city built the fleet that won the Battle of [[place-tamzirshoals|Tamzîr Shoals]], and it is military as much as mercantile: its admirals command the [[affiliation-cnfdrtnhrdnstts|Confederation's]] most powerful warships, and its marine infantry are the nearest thing Harad has to a professional standing army. The city-state holds the fortified city of [[place-kethara2|Kethara]] on the narrows between the Haradian islands, and some 2.2 million people.
 
 ## Who Decides
 

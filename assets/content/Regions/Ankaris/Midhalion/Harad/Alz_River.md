@@ -3,14 +3,14 @@ shortcode: alzriver
 name: {full: Alz River, aliases: [The Alz]}
 type: place
 subType: feature
-description: "The river whose mouth makes Azhûn's harbor, conduit between the Dunhari desert and the western sea routes, its upper valley wooded hill country of timberwrights."
+description: "The island river whose mouth makes Azhûn's harbor, its upper valley wooded hill country of timberwrights."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [haradregin], population: 0, packFolder: harad}
 ---
 
 ## Overview
 
-The Alz River reaches the sea at [[place-azhun2|Azhûn]], and the natural harbor at its mouth is the reason that city-state stands where it does. The river is the conduit between the [[place-dunharargn|Dunhari]] desert and the western sea routes: goods come down the Alz to the white-walled warehouses on the harbor and go out from there on every tide.
+The Alz River runs down from the hills of one of the Haradian islands and reaches the sea at [[place-azhun2|Azhûn]], and the natural harbor at its mouth is the reason that city-state stands where it does. The harbor is the conduit between the [[place-dunharargn|Dunhari]] desert trade and the western sea routes: goods brought over the strait fill the white-walled warehouses on the quays and go out from there on every tide.
 
 ## The Alz Valley
 
