@@ -13,9 +13,9 @@ data:
   language: khazarlng
 ---
 
-**The Crossing of the Clans**, _Sarghakhudhál_, is the deep song (_havadh_) the [[lore-flkkhazar|Khazári]] sing of their own beginning, and a hold sings it once a year, below, on the night of [[lore-khazariclt|the turning of the year]]. The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: **Summágh**, **Dullák**, **Rummák**, **Gullád**, **Vurrán**, **Gurráz** and **Lummáv**, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the English below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through [[lore-khazararrv|the crossing]] into [[place-worldthlrn|Thalorna]], **Puthakun**, the servant of [[lore-goddreams|Luváth]], who had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
+**The Crossing of the Clans**, _Sarghakhudhál_, is the deep song (_havadh_) the [[lore-flkkhazar|Khazári]] sing of their own beginning, and a hold sings it once a year, below, on the night of [[lore-khazariclt|the turning of the year]]. The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: **Summágh**, **Dullák**, **Rummák**, **Gullád**, **Vurrán**, **Gurráz** and **Lummáv**, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the rendering below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through [[lore-khazararrv|the crossing]] into [[place-worldthlrn|Thalorna]], **Puthakun**, the servant of [[lore-goddreams|Luváth]], who had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
 
-The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Luváth is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Puthakun's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
+The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Luváth is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Puthakun's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The song reckons the years since the crossing in its own count, a sixteen of great counts and great counts over that: more than 4,000 years, left unsummed on purpose. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
 
 : The Crossing of the Clans {#song}
 
@@ -118,7 +118,7 @@ Count seven.
   _Counted._
 
 Seven counted.
-The sixties of sixties are on the lead. Seven is in the song.
+The sixteens of sixteens are on the lead. Seven is in the song.
 No eighth was counted. None of the seven was lost on the way.
 The count at the far mouth was the count at the near mouth,
 head for head.
@@ -263,10 +263,10 @@ What was cut that first year, the record keeps, cut by cut, and the names agains
 Some of those cuts were clumsy. The names are against them still.
 The song does not sing the names. The record is read for that.
 
-How long since, the record keeps, in sixties.
-The song says: a sixty of sixties, and sixties over that.
-A year is a course. A sixty of years is a wall.
-A sixty of sixties is a hold, and we are living in it.
+How long since, the record keeps, in sixteens.
+The song says: a sixteen of great counts, and great counts over that.
+A year is a course. A sixteen of years is a wall.
+A great count of years is a hold, and we are living in it.
 Count the years up if you like, on your fingers, in the dark.
 The old do, some nights, and get a different sum each,
 and the record settles it in the morning, as the record does.

@@ -381,7 +381,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `dh-r-z`  | to walk away from, to abandon                             | `motion`  |
 | `dh-n-v`  | first                                                     | `grammar` |
 | `dh-p-l`  | few                                                       | `grammar` |
-| `f-dh-z`  | a part; a sixtieth                                        | `grammar` |
+| `f-dh-z`  | a part; a sixteenth                                       | `grammar` |
 | `f-v-z`   | last                                                      | `grammar` |
 | `kh-p-v`  | other                                                     | `grammar` |
 | `l-dh-p`  | same                                                      | `grammar` |
@@ -389,7 +389,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `r-v-z`   | many, a great number                                      | `grammar` |
 | `t-gh-v`  | whole, all of it                                          | `grammar` |
 | `t-v-z`   | each, one by one                                          | `grammar` |
-| `v-z-th`  | a sixty of sixties, a great count                         | `grammar` |
+| `v-z-th`  | a sixteen of sixteens, a great count                      | `grammar` |
 
 ## Words
 
@@ -1578,7 +1578,7 @@ attested stands, in exactly this form, in the note linked.
 | -------- | ------ | ----------------------------------------------- | -------- | --------- | ------------------------------------- |
 | `taghav` | `n`    | the whole                                       | `t-gh-v` | bare      | —                                     |
 | `taghív` | `adj`  | whole, entire                                   | `t-gh-v` | adjective | —                                     |
-| `fadhaz` | `n`    | a part, a sixtieth                              | `f-dh-z` | bare      | —                                     |
+| `fadhaz` | `n`    | a part, a sixteenth                             | `f-dh-z` | bare      | —                                     |
 | `fudház` | `v`    | to divide                                       | `f-dh-z` | deed      | —                                     |
 | `padhal` | `n`    | a half                                          | `p-dh-l` | bare      | —                                     |
 | `pudhál` | `v`    | to halve                                        | `p-dh-l` | deed      | —                                     |
@@ -1592,7 +1592,7 @@ attested stands, in exactly this form, in the note linked.
 | `khapív` | `adj`  | other                                           | `kh-p-v` | adjective | —                                     |
 | `ladhap` | `n`    | the same                                        | `l-dh-p` | bare      | —                                     |
 | `ladhíp` | `adj`  | same, alike                                     | `l-dh-p` | adjective | —                                     |
-| `vazath` | `n`    | a great count                                   | `v-z-th` | bare      | —                                     |
+| `vazath` | `n`    | a great count, two hundred fifty-six            | `v-z-th` | bare      | —                                     |
 | `vazíth` | `adj`  | countless                                       | `v-z-th` | adjective | —                                     |
 | `dhanv`  | `n`    | the first                                       | `dh-n-v` | bare      | —                                     |
 | `dhanív` | `adj`  | first                                           | `dh-n-v` | adjective | —                                     |
@@ -1631,7 +1631,12 @@ attested stands, in exactly this form, in the note linked.
 | `kabr`   | `num`  | eight                                           | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `khozm`  | `num`  | nine                                            | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `zund`   | `num`  | ten                                             | —        | —         | [[skill-khazarlng\|Khazári Language]] |
-| `girm`   | `num`  | sixty                                           | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `dolb`   | `num`  | eleven                                          | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `mazk`   | `num`  | twelve                                          | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `fegd`   | `num`  | thirteen                                        | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `vunth`  | `num`  | fourteen                                        | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `thulk`  | `num`  | fifteen                                         | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `girm`   | `num`  | sixteen                                         | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 
 ## Attested names
 
