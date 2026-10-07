@@ -19,7 +19,7 @@ Mahājaya is the preserver-goddess of the [[affiliation-varakpnthn|Varnaka panth
 The temple keeps the standard Mahājaya devotional cycle and adds three observances:
 
 - **The Festival of the Drawn Bow** falls at the spring equinox, when each year's incoming academy students present themselves for blessing.
-- **The Festival of the Returning** falls in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed.
+- **The Festival of the Returning** falls in autumn, when graduates back from service abroad ritually re-enter the janapada and are welcomed. The festival was first kept for the graduates who came home at the recall of [[lore-hghlndwar|the Highland War]].
 - **The Watch of the Bow-String** is kept the night before any major engagement involving Dhanurkoti graduates anywhere in Vedyara, when the temple's bowmen-priests hold vigil for the safety of their own.
 
 The Watch is the one that costs. A janapada of thirty thousand people has graduates in the field of half a dozen kingdoms at once, and the temple keeps the vigil for every engagement it hears of in time.

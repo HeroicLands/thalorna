@@ -17,7 +17,7 @@ The **Silver Gorges** are a system of steep, narrow valleys cut into the Vedyari
 
 ## Who Holds Them
 
-The workings are held by hereditary smithing clans. Their right to the ore is not a grant from the crown and is not described in the royal charter, because it is older than the charter; the clans' own account is that the Mahārāja's predecessors were given the pass-road on the understanding that the rock on either side of it was not theirs, and the crown's account is that this was a courtesy and courtesies lapse.
+The workings are held by hereditary smithing clans. Their right to the ore is not a grant from the crown and is not described in the royal charter, because it is older than the charter; the clans' own account is that the Mahārāja's predecessors were given the pass-road on the understanding that the rock on either side of it was not theirs, and the crown's account is that this was a courtesy and courtesies lapse. The grant is [[lore-passcharter|the Charter of the Pass-Road]], about 60 AF, and its wording on the rock has never been tested.
 
 Neither account has been tested, because neither side wants the answer. What the clans do instead is lease: the ore goes out under arrangements made directly with the [[affiliation-mrchntclctvvdyr|Merchant Collective]], at prices the customs-house at [[place-suryagarha|Sūryagarha]] sees only after the fact. The crown collects on the road and not on the rock, and has been careful for four generations not to ask what the difference is worth.
 

@@ -9,7 +9,7 @@ data:
   packFolder: regkhhist
   events:
     - when: ~-2110
-      stated: {calendar: qettelgu, text: "Selqur Qet Telgu, year 1"}
+      stated: {calendar: khelathclndr, text: "1 ST"}
       precision: century
       kind: founding
       depth: world

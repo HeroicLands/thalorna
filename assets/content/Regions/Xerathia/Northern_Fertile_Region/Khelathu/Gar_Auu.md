@@ -9,7 +9,7 @@ data:
   packFolder: regkhlaw
   events:
     - when: ~268
-      stated: {calendar: qettelgu, text: "Selqur Qet Telgu, year 2378"}
+      stated: {calendar: khelathclndr, text: "2378 ST"}
       precision: decade
       kind: fall
       depth: region
@@ -59,7 +59,7 @@ data:
           withholds: the commander's own name
       unresolved: ["the commander's Vylarian name, which no Khelâthi record gives"]
     - when: ~470
-      stated: {calendar: qettelgu, text: "Selqur Qet Telgu, year 2580"}
+      stated: {calendar: khelathclndr, text: "2580 ST"}
       precision: decade
       kind: founding
       depth: region

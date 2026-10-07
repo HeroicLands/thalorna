@@ -24,7 +24,7 @@ The fair is the crown's, and the crown's officer weighs and records every sale. 
 
 ## The Escort Stage
 
-Ashvapada is the second stage of the escort. A caravan pays here for the run west to the wells of [[place-marukupa|Marukūpa]], and the captain who takes the money is answerable for what happens on the stage. The arrangement is old, the rates are posted, and a caravan that refuses is not hindered and is also not looked for.
+Ashvapada is the second stage of the escort. A caravan pays here for the run west to the wells of [[place-marukupa|Marukūpa]], and the captain who takes the money is answerable for what happens on the stage. The arrangement is old, the rates are posted, and a caravan that refuses is not hindered and is also not looked for. The stage passes [[place-lanthusthli|Lanthusthalī]], the cursed field of the march, and a caravan that leaves Ashvapada late in the day camps short of the chain.
 
 ## The Monastery
 

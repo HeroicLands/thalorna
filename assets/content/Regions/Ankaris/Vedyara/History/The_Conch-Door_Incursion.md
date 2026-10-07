@@ -79,7 +79,7 @@ A priest of the Bhārava circuit who has served his turn at [[place-sanghafort|t
 
 [[place-sankhadvra|Shankhadvāra]], the conch-door, is the last crossing of the wall and the worst: a shelf cut above a gorge under the black face of [[place-kalashkhra|Kālashikhara]], two months from anywhere in [[place-tanvuregin|Tānvür]] worth reaching, and crossed by two or three parties in a good year. About 320 AF, in the generation [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came down the western end of the range, an adventurer brought a force over it from the Tānvüri side.
 
-It was not a host. The conch-door carries no army, and the **Conch-Door Incursion** came over it as a few hundred picked men, which was enough. A janapada fields a few hundred militia on short notice and a few thousand on a long call-up, and it fields them alone. The adventurer went through the eastern janapadas one at a time, subjugated a series of them and threatened more, and no single sabhā could raise enough to stop him.
+It was not a host. The conch-door carries no army, and the **Conch-Door Incursion** came over it as a few hundred picked men, which was enough. A janapada fields a few hundred militia on short notice and a few thousand on a long call-up, and it fields them alone. The adventurer went through the eastern janapadas one at a time, subjugated a series of them and threatened more, and no single sabhā could raise enough to stop him. The one that refused him, **Thirnugrāma**, he burned in its own temple hall with its sabhā inside ([[lore-silenthall|the Silenced Hall]]), and that is why the priests do not speak his name.
 
 ## The Third Army
 

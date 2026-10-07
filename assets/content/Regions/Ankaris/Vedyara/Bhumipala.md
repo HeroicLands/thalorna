@@ -78,7 +78,7 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 ## Overview
 
-**Bhūmipāla** ("earth-protector") is a kingdom that exists for one road. It holds [[place-vedyarargn|Vedyara]]'s northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|the Western Descent]], the road that goes round the range's end into [[place-dunharargn|Dunhara]], and the arid shore of the [[place-sandhysmdr|Sandhyā-samudra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Mahārāja keeps his court at [[place-sandhyapur|Sandhyāpur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhūmipāla]].
+**Bhūmipāla** ("earth-protector") is a kingdom that exists for one road. It holds [[place-vedyarargn|Vedyara]]'s northwestern march: the dry foothills where the [[place-graznmntns|Grazian]] wall comes apart into [[place-wstrndscnt|the Western Descent]], the road that goes round the range's end into [[place-dunharargn|Dunhara]], and the arid shore of the [[place-sandhysmdr|Sandhyā-samudra]] south of them. The name is the ruling clan's before it is the kingdom's. Two million people live in it, nearly all of them within a day's walk of water. The Mahārāja keeps his court at [[place-sandhyapur|Sandhyāpur]] on the coast, and the kingdom holds the land of [[place-bhumipalaland|Bhūmipāla]]. The clan held the salt coast before the march was a kingdom of theirs; the kingdom before it was **Marupāla**, which died with its last king under the steppe host in 315 ([[lore-marupalafl|the Fall of Marupāla]]), and the clan took the empty march about 325 ([[lore-bhmplraise|the Raising of Bhūmipāla]]).
 
 [[place-marchroad|The march road]] is the one frontier of the subcontinent a loaded camel crosses without climbing, and the one by which a steppe host has come down into Vedyara. The court, the companies, the customs and the treaty all stand on that.
 
@@ -113,7 +113,7 @@ The formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]] is Bh
 
 The treaty binds the Sultanate. It does not bind the [[affiliation-dunhartrbs|Dunhara tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
 
-Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind.
+Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind. Marupāla's host lies unburned where the Descent opens onto the road, on [[place-lanthusthli|Lanthusthalī]], a cursed field the road bends round and the companies chain off at dusk, and its burned capital, [[place-ludrapur|Lūdrapur]], is where the companies winter.
 
 ## Economy
 

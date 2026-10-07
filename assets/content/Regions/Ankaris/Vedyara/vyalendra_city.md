@@ -20,7 +20,7 @@ Eleven thousand looms are chartered within the walls. The count is kept by the g
 
 ## The Council and the Hall
 
-The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since [[lore-vylndrkngs|the eleventh and last Mahārāja's line ended]]. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it.
+The [[affiliation-vyalendra2|Loom-Council]] sits in the audience hall of the kings, in the palace quarter at the top of the city, and has done since [[lore-vylndrkngs|the eleventh and last Mahārāja's line ended]]. The hall was built for a throne and holds sixty-one seats instead, one to each chartered guild, set in a ring on the floor where the dais was. The dais was taken out. The step it stood on was not, and a Speaker addresses the Council from beside it and never on it. The kings who built the hall, the palace quarter and the street-plan below it reigned for eleven generations from [[lore-vylndrcrwn|the raising of the crown]] about 125 BF.
 
 The rest of the palace quarter is the Council's offices, the treasury, the cloth-court and the guild archives, and the private houses of the loom households are built into and against it. A visitor from a kingdom finds the arrangement disorderly and says so. A Vyālendri finds a court disorderly, on the grounds that a court's business is conducted where nobody can hear it.
 
@@ -33,6 +33,8 @@ The dyers work outside the walls on the upstream water, where the indigo compoun
 ## The Temples
 
 The temples stand between the halls and not apart from them, and the sanctuary of [[affiliation-mahajaya|Mahājaya]] is first among them. She is the serene matriarch and the patron of honest measure, and every bolt that leaves a hall leaves under her. The **Triyāchārya** of her temple sanctions the Council's acts as a priest sanctions a sabhā's inland. A decision the temples will not sanction does not take effect, and the Council has learned to ask beforehand.
+
+In the cloth-court a flame-priest of the [[affiliation-agnipantha|Agnī-panthā]] stands in stone with his ember-vessel in the crook of his arm. About 560 AF he and his fellows scoured Mahājaya's sanctuary, kindling a fire at its threshold until the matter they had named was addressed, and the Council banned the sect from the city for it. A generation later the same Council put up his statue ([[lore-agnipartng|the Three Partings]]). An Agnī-panthā priest who comes to the city today points at it.
 
 The [[affiliation-vyalendravada|Vyālendravāda]] keeps the mother-house of the **Academy of the Shining Pattern** here, which is why the city's public works are better built than its politics would suggest. Its **Āchāryas** designed the water-gate, the four bridges and the clerestories of the great halls, and they are consulted on any hall a guild proposes to raise.
 
@@ -50,4 +52,5 @@ The watch is two thousand men and is commanded by a graduate of the [[affiliatio
 - [[place-vyalendraland|Vyālendra Land]]—the land it holds
 - [[place-nilatira|Nīlatīra]]—the port the cloth leaves by
 - [[place-sandhyagrha|Sandhyāgriha]]—the house in the palace quarter
+- [[lore-vylndrcrwn|The Raising of the Vyālendri Crown]] · [[lore-vylndrkngs|The End of the Vyālendri Kingship]]—the kings who built the hall
 - [[affiliation-dhnrktjnpd|Dhanurkota Janapada]]—where the watch commander is found

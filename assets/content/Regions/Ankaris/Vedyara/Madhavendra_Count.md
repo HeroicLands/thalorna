@@ -1,6 +1,6 @@
 ---
 shortcode: mdhvndrcnt
-name: {full: The Madhusthāna Count, aliases: [Madhusthāna Count, M-reckoning]}
+name: {full: The Madhusthāna Count, aliases: [Madhusthāna Count]}
 type: lore
 subType: calendar
 description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Madhusthāna, with the moon kept beside it in a temple almanac."
@@ -36,19 +36,38 @@ data:
     - {name: Shitaritu, abbreviation: Shi, start: 245}
     - {name: Tāmraritu, abbreviation: Tam, start: 305}
   eras:
-    - {shortcode: bmc, name: Before the Madhusthāna Count, abbreviation: BMC, start: null}
-    - {shortcode: madhavendra, name: The Madhusthāna Count, abbreviation: M, start: 1}
-  formats: {std: "D MMMM GGG Y"}
+    - shortcode: bmc
+      name: Before the Madhusthāna Count
+      abbreviation: BMC
+      marker: BMC
+      start: null
+    - {shortcode: kingdoms, name: The Age of Kingdoms, abbreviation: AK, marker: MAK, start: 1}
+    - {shortcode: copyists, name: The Age of Copyists, abbreviation: AC, marker: MAC, start: 240}
+    - shortcode: hundredcrowns
+      name: The Hundred Crowns
+      abbreviation: HC
+      marker: MHC
+      start: 630
+    - shortcode: hardgeneration
+      name: The Hard Generation
+      abbreviation: HG
+      marker: MHG
+      start: 793
+    - {shortcode: compactpeace, name: The Compact Peace, abbreviation: CP, marker: MCP, start: 815}
+    - {shortcode: patrons, name: The Age of Patrons, abbreviation: AP, marker: MAP, start: 1005}
+  formats: {std: "D MMMM [yearInEra] GGG"}
   packFolder: vedyara
 
 # terran_analog: an Indian regnal era such as the Vikrama Samvat, counted from a capital; the name keeps clear of Mādhava, an epithet of Krishna, and is built from madhu, sweetness, and sthāna, a seat
 ---
 
-The **Madhusthāna count** is [[place-vedyarargn|Vedyara]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date is written M followed by the year number; the present year is M 1200. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
+The **Madhusthāna count** is [[place-vedyarargn|Vedyara]]'s own year-count, kept alongside—and never converted from—the BF/AF reckoning the western kingdoms date from the founding of the [[affiliation-vylarinmpr|Vylarian]] state. A Vedyaran date names the year of its age: the present year is the hundred and ninety-sixth of the Age of Patrons, written 196 AP. It is a solar calendar: twelve months of fixed length paired into six seasons, a week of seven days running through them, and the moon kept separately, in a temple almanac, for everything the rites require it for.
 
 ## The Epoch
 
-The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhusthāna, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its zero from that reign, and from no Vylarian, Khelâthi or Tānvüri event. M 1 falls in 480 BF. A date given in M converts to the [[lore-commoncal|Common Calendar]] by the rule AF year = M year − 480. A result at or below zero is read as a BF date instead, counting back from AF 1.
+The count begins with [[lore-stndrdmdhv|the standardization of Classical Vedyari]], "roughly 1,200 years before the present," under the philosopher-kings of Madhusthāna, whose capital gave the era its name. That reign produced the great philosophical commentaries, legal codes and epic narratives that are still the prestige texts of the civilization. Vedyaran reckoning takes its first year from that reign, and from no Vylarian, Khelâthi or Tānvüri event. That year, 1 AK, falls in 480 BF. The count runs on unbroken from it, twelve hundred years to the present, and the scholars divide it into six ages, each of which numbers its own years from 1. A year before the count is numbered backwards from it and written BMC, Before the Madhusthāna Count: the year before 1 AK is 1 BMC, which is 481 BF.
+
+To carry a date to the [[lore-commoncal|Common Calendar]], add the age's own year to the year the age began, less one, and read the result on the table below; the year 1 AF falls in the Age of Copyists, at 242 AC.
 
 ## The Year and Its Months
 
@@ -99,6 +118,34 @@ Vedyara keeps the sun for its civil year and the moon for its rites, and makes n
 Everything in the ritual year hangs off that document. A [[place-weighingstn|Weighing]] at [[affiliation-suvrgrjnpd|Suvarnagiri]] falls at a new moon; the janapadas of the middle [[place-chandrmahi|Chandramahī]] plant by their almanac and not by the water, because the water has fooled them; a **Mela**, a marriage and a coronation are all taken from it. A court with no almanac is a court that cannot say when anything is.
 
 The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaelith]] turns new to new in exactly thirty days, so a lunar day is a day—the two counts never slip against each other, and neither is ever dropped or written twice to bring them level. A fortnight is fifteen days and is fifteen every time. The almanac is therefore not a repair but an arrangement: it states which day of the sun carries which day of the moon, which god's day it falls on, and what is consequently owed on it. Vedyari reckoners are proud of the instrument, and an almanac a reader can find an error in is a house's embarrassment for a generation.
+
+## The Ages of the Count
+
+A Vedyari scholar names a year by the age it falls in, the way a chronicle names it by the reign. The ages are the scholars' own divisions, taught in every temple school, and each takes its name from what Vedyara did in it.
+
+| Age                                       | Written | Its years                        | Common Calendar       |
+| ----------------------------------------- | ------- | -------------------------------- | --------------------- |
+| Before the Madhusthāna Count              | BMC     | counted back from 1 BMC          | 481 BF and earlier    |
+| [[lore-agekingdoms\|The Age of Kingdoms]] | AK      | 1 AK to 239 AK                   | 480 to 242 BF         |
+| [[lore-agecopyists\|The Age of Copyists]] | AC      | 1 AC to 390 AC                   | 241 BF to 149 AF      |
+| [[lore-hundredcrwn\|The Hundred Crowns]]  | HC      | 1 HC to 163 HC                   | 150 to 312 AF         |
+| [[lore-hardgenrtn\|The Hard Generation]]  | HG      | 1 HG to 22 HG                    | 313 to 334 AF         |
+| [[lore-compactpeace\|The Compact Peace]]  | CP      | 1 CP to 190 CP                   | 335 to 524 AF         |
+| [[lore-agepatrons\|The Age of Patrons]]   | AP      | from 1 AP; the present is 196 AP | 525 AF to the present |
+
+**Before the count.** Everything older than the standardization is written BMC. The scholars tell two ages in it without numbering either: the [[lore-unnumbrdage|Unnumbered Age]], everything the janapadas say of themselves and nothing anyone can date, and the [[lore-foundingage|Founding Age]], from the highland temples of about 300 BMC (780 BF) to the eve of the count, when the Mahānadī kings held the upper river from a seat the library never recorded.
+
+**The Age of Kingdoms** opens with the count itself. Rājapur is raised, the kingdoms grow along the rivers, and the six last kings of Mahānadī end the age in a famine.
+
+**The Age of Copyists** opens in the year of the Forty Days, 1 AC, when the kingdom of Mahānadī was dissolved. Four quiet centuries of libraries and endowments follow, and the Vyālendri crown rises and falls inside them.
+
+**The Hundred Crowns** opens with the end of the Vyālendri kingship, about 150 AF, and its small kingdoms fight each other until Chandrapur's temples refuse a king in about 163 HC.
+
+**The Hard Generation** opens in 1 HG and runs twenty-two years: the steppe host, the conch-door adventurer and the Third Compact, sworn at the Mela of 8 HG.
+
+**The Compact Peace** opens in 1 CP with the march forts standing and runs to the year before Rājapur went under Chandrapur's protection.
+
+**The Age of Patrons** opens in 1 AP with that protection, and runs to the present.
 
 ## Who Keeps It
 

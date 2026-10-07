@@ -96,7 +96,7 @@ Visiting scholars are met at the gate of the [[place-rajavalilib|Rājavalī Libr
 
 Rājapur was the later capital of the [[lore-mhndkngdm|Kingdom of Mahānadī]], a middling Vedyari kingdom of the early classical period. Its ruling dynasty traced its descent from a heroic ancestor of legendary virtue, as Vedyari dynasties generally do. The chronicles give it some four centuries of flourishing. For the last two and a half of them it ruled from Rājapur, where its kings founded their capital in the year of [[lore-stndrdmdhv|the standardization at Madhusthāna]]. Across the four centuries it dominated the upper Mahānadī valley, fielded a respectable army, kept extensive temple-patronage, and produced several monarchs the classical chronicles recount as exemplary.
 
-It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors.
+It collapsed from within, in the standard Vedyari narrative of kingly decline. The Memory-Keepers recite the last six monarchs as a procession of progressively worse rulers: a dilettante, a cruel man, an incompetent, a paranoiac, a child-tyrant, and a drunkard who let his own household guards loot the granaries while a famine ran in the villages around him. Tradition holds that the last king was poisoned by his own cook, who could no longer endure the suffering of his neighbors. The cruel man is the king the chronicle names **Dandavīra**, and his slaughter at [[lore-unburnford|the Unburned Ford]] is the first count in the indictment; the upper-river villages send no delegate to any assembly that sits here on its anniversary.
 
 The people sought no other king. They went to the senior priest of the great Vyālendra temple, which stood beside the royal palace on centuries of dynastic patronage, and asked him to convene a sabhā.
 
@@ -107,7 +107,7 @@ The sabhā met for forty days. It declared the kingdom dissolved and the dynasti
 - The royal army was disbanded, and its men were given parcels of land and taken into the cultivating and artisan households of the new janapada.
 - The council-chamber was kept, and the record in it was kept whole.
 
-The classical chronicles put this at M 240 in the [[lore-mdhvndrcnt|Madhusthāna count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
+The classical chronicles put this in the first year of the Age of Copyists (1 AC) in the [[lore-mdhvndrcnt|Madhusthāna count]], 241 BF in the [[affiliation-vylarinmpr#the-common-calendar|Common Calendar]], some nine hundred and sixty years ago. Rājapur has governed itself by the same arrangement ever since, with adjustments at the margins.
 
 [[lore-fortydays|The Forty Days]] records the sabhā's answer:
 
@@ -169,7 +169,7 @@ The manuscript trade is the town's steadiest income, and the sugar the janapada 
 
 ## Defense
 
-Rājapur has had no army since the dissolution. Its villages can muster perhaps a thousand fighting men at need, cultivators and artisans. Its answer to a military threat is threefold: an appeal to its patron city-state, [[affiliation-chandrapur|Chandrapur]], under a formal protection arrangement nearly two centuries old; an appeal to the Mahā-Sangha for inter-janapada disapproval of the aggressor; and the Mahānadī floodplain itself, which is hard ground for a sustained campaign in the wet season.
+Rājapur has had no army since the dissolution. Its villages can muster perhaps a thousand fighting men at need, cultivators and artisans. Its answer to a military threat is threefold: an appeal to its patron city-state, [[affiliation-chandrapur|Chandrapur]], under a formal protection arrangement nearly two centuries old; an appeal to the Mahā-Sangha for inter-janapada disapproval of the aggressor; and the Mahānadī floodplain itself, which is hard ground for a sustained campaign in the wet season. The arrangement dates from the season a kingdom up the river held the head-gate at Khandāpura ([[lore-rjprprotct|Rājapur Under Protection]]).
 
 The janapada has not been seriously threatened in living memory. The last armed conflict on Rājapuri ground was a bandit-clearing carried out jointly with two neighboring janapadas eighty-three years ago.
 

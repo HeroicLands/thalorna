@@ -42,11 +42,11 @@ The [[place-moonhouse|Moon House]] is the palace above the river stair, the seat
 
 The [[place-ganakahall|Ganaka-shala]] is the reckoners' college, whose tables set the tides, the eclipses and the hour the year is declared in, and whose graduates keep the accounts of every court in Vedyara.
 
-Above all of them stand the temples of the [[affiliation-varakpnthn|Varnaka]], which are older than the crown, confirm it, and have twice refused to.
+Above all of them stand the temples of the [[affiliation-varakpnthn|Varnaka]], which are older than the crown, confirm it, and have twice refused to. The first refusal is [[lore-moonsettle|the Moon House Settlement]], when the Nine Houses put a cousin on the throne in the refused son's place.
 
 ## The River Stair
 
-A stone stair a quarter-mile long runs the whole of the city's river face, and the city's public life happens on it. The boats come up to it from [[place-chandrmukha|Chandramukha]] on the tide. Pilgrims wash on it. Accessions are proclaimed from the head of it. In the dry months the water drops far enough to expose the oldest courses, which are of a heavier and plainer stonework than anything above them and belong to a city the present one was built on top of.
+A stone stair a quarter-mile long runs the whole of the city's river face, and the city's public life happens on it. The boats come up to it from [[place-chandrmukha|Chandramukha]] on the tide. Pilgrims wash on it. Accessions are proclaimed from the head of it. In the dry months the water drops far enough to expose the oldest courses, which are of a heavier and plainer stonework than anything above them and belong to a city the present one was built on top of. [[place-lowercourses|The lower courses]] show under the cellars of the oldest quarters as well.
 
 ## See Also
 
@@ -54,3 +54,5 @@ A stone stair a quarter-mile long runs the whole of the city's river face, and t
 - [[place-chandrapurland|Chandrapur Land]]—the land
 - [[place-chandrmukha|Chandramukha]]—the port at the river's mouth
 - [[place-chandrmahi|The Chandramahī]]—the river
+- [[place-lowercourses|The lower courses of Chandrapur]]—the older city under this one
+- [[lore-moonsettle|The Moon House Settlement]]—how the Nine Houses took their seats
