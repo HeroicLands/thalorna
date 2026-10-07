@@ -121,13 +121,13 @@ An ordinary person keeps every layer at once: the Twelve at the great festivals,
 | -------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | [[affiliation-igelnaru\|Faith of Igel'Nâru]] | The river                      | The [[place-zumeleshrvr\|Zumélesh]] itself; the cult travels with the water                           |
 | [[affiliation-qeztu\|Faith of Qeztu]]        | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]                            |
-| [[affiliation-tjelsuk\|Faith of Tjelsuk]]    | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
+| [[affiliation-tjelsuk\|Faith of Tjelsur]]    | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
 | [[affiliation-shebazet\|Faith of Shebazet]]  | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                                       |
 | [[affiliation-pelgun\|Faith of Pelgun]]      | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults                          |
 | [[affiliation-linhur\|Faith of Linhur]]      | The hunt                       | Paired with [[lore-linqurdty\|Linqur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
 | [[affiliation-linqur\|Faith of Linqur]]      | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
 
-Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsuk]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igel'Nâru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
+Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igel'Nâru]] holds the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
 
 ## The Cosmic Order
 

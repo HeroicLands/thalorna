@@ -29,7 +29,7 @@ In this part, the adventurers track down Kílan's true motives and confront him.
 
 ## Key Players
 
-- **Darisen al Olrûn**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kílan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Thanatine with his own designs to acquire the artifact for Thánatos.
+- **Darisen al Olrûn**: An erudite and seemingly benign individual with deep knowledge of Black Flame history. Darisen offers assistance in understanding Kílan, his motives, deciphering the cryptic clues, and tracking the shrine's location. Unbeknownst to everyone, Darisen is actually a Thanatine with his own designs to acquire the artifact for Sélmoros.
 - **Kílan alrí Ilóvrel nâ Ilóvren**: Lord of Ilóvren
 - **Kâldin al Lénavel nâ Léravren**: Lord of Léravren, and member of the Zûravel clan of the Black Flame.
 

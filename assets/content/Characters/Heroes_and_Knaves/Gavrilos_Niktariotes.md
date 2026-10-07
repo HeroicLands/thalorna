@@ -469,7 +469,7 @@ Gávrilos is driven by two conflicting forces: the desire to cement his legacy a
 ### Patrons
 
 House Markedon
-: A wealthy merchant dynasty that has employed Gávrilos as a private weapons master for fifteen years. Their eldest son, **Theron Markedon**, now commands the garrison, a position Gávrilos helped him prepare for.
+: A wealthy merchant dynasty that has employed Gávrilos as a private weapons master for fifteen years. Their eldest son, **Aléxion Markedon**, now commands the garrison, a position Gávrilos helped him prepare for.
 
 Captain-General Isidore of the City Guard
 : The supreme military commander of Chrysamar personally consults with Gávrilos on matters of combat doctrine and maintains him on an annual retainer.
@@ -493,7 +493,7 @@ His own reputation, an inner enemy
 Byzarian Swordmasters' Guild
 : A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
 
-The Scholars of Vénusia
+The Scholars of Ólvenía
 : A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
 
 ## Plot Hooks

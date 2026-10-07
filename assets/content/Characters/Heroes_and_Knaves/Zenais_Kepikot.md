@@ -494,7 +494,7 @@ Arslanikos the Cruel
 The Feathered Syndicate
 : A mysterious criminal organization involved in smuggling rare and exotic birds for black market operations; they view Zênais's knowledge as either an asset to control or a liability to eliminate
 
-Theron the Beast Master
+Gohárikos the Beast Master
 : A rival trainer whose brutal methods stand in direct opposition to Zênais's philosophy; he views her success as evidence that his approach is inferior and has challenged her reputation publicly
 
 ### Affiliations
@@ -502,7 +502,7 @@ Theron the Beast Master
 Urban Animal Trainers' Guild
 : - Her guild, where she sits on the committee that sets standards of care for trained animals
 
-The Sanctuary of Vénusia
+The Sanctuary of Ólvenía
 : - A spiritual fellowship devoted to the goddess of prosperity and natural harmony, which sponsors rehabilitation work with injured and mistreated animals
 
 ## Plot Hooks

@@ -5,7 +5,7 @@ name:
   aliases: [The Pantheon, Temple of the Twelve, The Temple of the Twelve]
 type: place
 subType: settlement
-description: "The Pantheon Aurèldiānum, the colossal domed sanctuary at the heart of the Regio Templum of Magnápolis that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Jánus, its impossible dome raised with the quiet help of the Ordo Arcanis."
+description: "The Pantheon Aurèldiānum, the colossal domed sanctuary at the heart of the Regio Templum of Magnápolis that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Ordo Arcanis."
 tags: [temple, aureldian, vylaria, imperial, magnapolis, precinct]
 data: {demonym: null, lore: [], parents: [vylariargn], population: 400}
 ---
@@ -20,28 +20,28 @@ What every visitor remembers is the dome. It rises in a single unbroken span so 
 
 ### The Keepers
 
-The Pantheon is not the property of any one of the Twelve. It is kept, by ancient arrangement, by the priests of [[affiliation-janus|Jánus]]—the Keeper of the Gates, god of order, thresholds, and the frameworks within which all else is held. That the god of doors should hold the keys to the house of the whole pantheon is a logic no Vylarian needs explained: where the Twelve are gathered under one roof, it is Jánus who governs the roof itself. The Jánite custodians tend the common rites that honor the pantheon entire, marshal the great calendar of festivals so that twelve priesthoods may each process to the center in their season without treading on one another, and adjudicate the endless small precedences and jealousies of a building shared by a dozen proud clergies. It is a quiet, formidable power—and a partisan one, for Jánus is no neutral arbiter but a god with his own loves and hatreds among the Twelve.
+The Pantheon is not the property of any one of the Twelve. It is kept, by ancient arrangement, by the priests of [[affiliation-janus|Árdavon]]—the Keeper of the Gates, god of order, thresholds, and the frameworks within which all else is held. That the god of doors should hold the keys to the house of the whole pantheon is a logic no Vylarian needs explained: where the Twelve are gathered under one roof, it is Árdavon who governs the roof itself. The Jánite custodians tend the common rites that honor the pantheon entire, marshal the great calendar of festivals so that twelve priesthoods may each process to the center in their season without treading on one another, and adjudicate the endless small precedences and jealousies of a building shared by a dozen proud clergies. It is a quiet, formidable power—and a partisan one, for Árdavon is no neutral arbiter but a god with his own loves and hatreds among the Twelve.
 
 ### The Twelve Within
 
-Within, twelve great niches ring the floor beneath the dome, one to each deity, each with its altar, its image, and its perpetual offerings: [[affiliation-menerva|Ménérva]] of the open book, bountiful [[affiliation-venusia|Vénusia]], [[affiliation-taranon|Táranon]] the Thunderer, [[affiliation-thanatos|Thánatos]] the Silent Judge, and all the rest in their order. The individual priesthoods keep their own great temples elsewhere in the district; here, at the center, their gods stand together as a single pantheon, and the rite that matters most is the one that honors all Twelve at once.
+Within, twelve great niches ring the floor beneath the dome, one to each deity, each with its altar, its image, and its perpetual offerings: [[affiliation-menerva|Ménérva]] of the open book, bountiful [[affiliation-venusia|Ólvenía]], [[affiliation-taranon|Táranon]] the Thunderer, [[affiliation-thanatos|Sélmoros]] the Silent Judge, and all the rest in their order. The individual priesthoods keep their own great temples elsewhere in the district; here, at the center, their gods stand together as a single pantheon, and the rite that matters most is the one that honors all Twelve at once.
 
-The one delicate seam is the niche of **Vúlcan**, the Forge-Lord—for Vúlcan's worship is sundered, and the City must decide which of his warring faiths attends his flame in the house of unity. The Pantheon's answer is the orthodox one: the central fire belongs to the [[affiliation-sacredforge|Sacred Forge]], whose creed the other eleven priesthoods can abide and whose smiths and knight-orders are woven into the civic fabric of the capital. The [[affiliation-blackflame|Black Flame]] has no altar here. It is eschewed by the rest of the pantheon and keeps its own magnificent temple apart in the district—and that exclusion is the standing scandal of the Regio Templum, for the Black Flame's harsh creed sits closer to the Vylarian imperial temper than the Pantheon's gentler priests care to admit, and its patrons in the Senate have never forgiven the house of the Twelve for shutting their god's truest face outside its doors. The Jánite keepers, who count the Black Flame a cosmic enemy, intend to keep it that way. So the most sacred building in the Empire holds, at its very heart, a small cold war: a religious settlement the priests prefer and a political grievance the throne's own sympathies keep alive.
+The one delicate seam is the niche of **Ústaron**, the Forge-Lord—for Ústaron's worship is sundered, and the City must decide which of his warring faiths attends his flame in the house of unity. The Pantheon's answer is the orthodox one: the central fire belongs to the [[affiliation-sacredforge|Sacred Forge]], whose creed the other eleven priesthoods can abide and whose smiths and knight-orders are woven into the civic fabric of the capital. The [[affiliation-blackflame|Black Flame]] has no altar here. It is eschewed by the rest of the pantheon and keeps its own magnificent temple apart in the district—and that exclusion is the standing scandal of the Regio Templum, for the Black Flame's harsh creed sits closer to the Vylarian imperial temper than the Pantheon's gentler priests care to admit, and its patrons in the Senate have never forgiven the house of the Twelve for shutting their god's truest face outside its doors. The Jánite keepers, who count the Black Flame a cosmic enemy, intend to keep it that way. So the most sacred building in the Empire holds, at its very heart, a small cold war: a religious settlement the priests prefer and a political grievance the throne's own sympathies keep alive.
 
 ### See Also
 
 - [[place-urbsaquiln|Urbs Aquilion]]—the Inner City and the Regio Templum in which the Pantheon stands
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—_the Twelve_, the state religion honored here
-- [[affiliation-janus|Jánus]]—the keeper-priesthood of the Pantheon · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
+- [[affiliation-janus|Árdavon]]—the keeper-priesthood of the Pantheon · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—whose wards hold the impossible dome
 - [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]
 
-### The Altar of Vúlcan
+### The Altar of Ústaron
 
-The Pantheon holds a shrine to every one of the Twelve, which makes Vúlcan's altar a standing problem.
+The Pantheon holds a shrine to every one of the Twelve, which makes Ústaron's altar a standing problem.
 Its fires are tended by the priests of the [[affiliation-sacredforge|Sacred Forge]], who hold the
 Forge-Lord's creative aspect and who regard the altar as theirs by right of being the mainstream faith.
 
 The priests of the [[affiliation-blackflame|Black Flame]] **eschew the Pantheon entirely** and keep
 their own temple elsewhere in the city. They do not dispute the altar; they deny that what is tended on
-it is Vúlcan. See [[lore-vulcanischism|The Vúlcani Schism]].
+it is Ústaron. See [[lore-vulcanischism|The Ústaran Schism]].

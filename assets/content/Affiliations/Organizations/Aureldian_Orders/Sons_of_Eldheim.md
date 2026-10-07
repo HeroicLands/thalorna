@@ -30,16 +30,16 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Sons of Eldheim** are a military order within [[affiliation-blackflame|the Black Flame]], the Vúlcani faith that treats fire as a means of purification and conquest. They fight under their own name and commanders rather than forming the whole faith's army.
+The **Sons of Eldheim** are a military order within [[affiliation-blackflame|the Black Flame]], the Ústaran faith that treats fire as a means of purification and conquest. They fight under their own name and commanders rather than forming the whole faith's army.
 
 ## From Stormveld toward the North
 
 The order has gained a foothold in [[affiliation-jrldmstrmvld|Stormveld]] on [[place-aelwyth|Aelwyth]], among Nordmen whose Asguardian beliefs it seeks to displace. From there the Sons attempt to make inroads into the wider Nordlands. Their principal campaign is to take land from the [[affiliation-vrystwldtrbs|Varokhi villages]] of [[place-vrystwald|Vrystwald]] and use it as a base for further incursions. Raids have brought them into direct conflict with [[being-thrnkbldtscbr|Thornak Blodtusc Bar]] and Eichengrund, but control of Vrystwald is still their aim, not an accomplished conquest.
 
-Malekir holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to Vúlcan. The threat gives the villages a common enemy without placing them under a lasting unified command.
+Malekir holds the order's **Blazewarden** title and commands forces in that campaign. He has sworn to burn the Varokhi forest and sacrifice its Shamans to Ústaron. The threat gives the villages a common enemy without placing them under a lasting unified command.
 
 ## See Also
 
-- [[affiliation-blackflame|The Black Flame]]—the destructive Vúlcani faith to which the order belongs
+- [[affiliation-blackflame|The Black Flame]]—the destructive Ústaran faith to which the order belongs
 - [[affiliation-jrldmstrmvld|Jarldom of Stormveld]]—the order's foothold on Aelwyth
 - [[place-vrystwald|Vrystwald]]—the forest whose villages the Sons seek to seize

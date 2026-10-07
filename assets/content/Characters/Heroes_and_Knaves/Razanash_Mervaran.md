@@ -481,7 +481,7 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 
 ### Patrons
 
-Elder Shaman Qelti
+Elder Shaman Tahmîzar
 : The oldest and most respected shaman in the tribe; he has mentored Razanash since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 
 Chief Amara

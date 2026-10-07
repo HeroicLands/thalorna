@@ -459,7 +459,7 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 [[affiliation-lingnztglzkr|Lin'Genzet elu Galezkara]]
 : Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 
-Lord Merchant Vasilis
+Lord Merchant Simázion
 : A major trader whose commercial interests Kallíxenos has protected through countless suits at law, maintaining a mutually beneficial relationship of considerable depth.
 
 The Byzarian Consortium of Shipping Merchants

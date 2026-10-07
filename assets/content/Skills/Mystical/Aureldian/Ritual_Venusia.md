@@ -1,6 +1,6 @@
 ---
 shortcode: venusia
-name: {full: "Ritual: Venusia", aliases: [Vénusia, The Bountiful One]}
+name: {full: "Ritual: Ólvenía", aliases: [Ólvenía, The Bountiful One]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-venusia|Faith of Venusia]]
+See [[affiliation-venusia|Faith of Ólvenía]]

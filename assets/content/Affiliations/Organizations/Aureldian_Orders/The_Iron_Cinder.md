@@ -41,7 +41,7 @@ sohl: {system: {commonSkills: []}}
 _Aurèldían: Cinis Ferreus—"Iron Cinder"_
 
 - **Type:** Covert fighting religious order (heretical to the mainstream Aurèldían faith)
-- **Patron:** [[affiliation-blackflame|The Black Flame]]—Vúlcan as the conflagration of the mailed fist
+- **Patron:** [[affiliation-blackflame|The Black Flame]]—Ústaron as the conflagration of the mailed fist
 - **Region:** [[place-aureldirgn|Aurèldía]]—no fixed bases; operates as a network of cells with no permanent stations; coordinated from sites that change every season
 
 ## Overview
@@ -50,7 +50,7 @@ Where the [[affiliation-ordershnvw|Order of the Ashen Vow]] is the Black Flame's
 
 The Iron Cinder is small. Estimates by the orthodox authorities put its sworn membership at perhaps forty operatives across the whole of Aurèldía, though the precision of these estimates is suspect because the order has been very effective at concealing its own numbers. It is also, by the consistent report of those who have encountered it, exceptionally capable: members are recruited from the most physically and tactically gifted of Ashen Vow candidates, are trained beyond ordinary order discipline, and operate with a level of professional ruthlessness that orthodox investigators have privately compared to the [[affiliation-velvethand|Velvet Hand]]'s direct-action cadre. The comparison would offend both organizations equally.
 
-The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. The Sacred Forge would condemn it; the Aurèldían Crowns would suppress it; the Ordo Arcanis would hunt it; the Jánus orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
+The Iron Cinder operates on the central assumption that, if exposed, it will be destroyed. The Sacred Forge would condemn it; the Aurèldían Crowns would suppress it; the Ordo Arcanis would hunt it; the Árdavon orders would refuse it sanctuary; even the Ashen Vow's sympathetic noble protectors would be unable to publicly defend it. The order's structure, its operational discipline, and its working culture all reflect this assumption.
 
 ## Membership and Structure
 
@@ -80,7 +80,7 @@ The order does not maintain weapons of military scale. Operations are conducted 
 ## Notable Operations (attributed; none formally confirmed)
 
 - The arson at the Sacred Forge cathedral library at Provenzal, twelve years ago, that destroyed a substantial portion of the Forge's catalog of suppressed Black Flame doctrine; widely attributed to the Cinder but never investigated to conclusion.
-- The death of the Vénustrian Magister of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
+- The death of the Ólvestrian Magister of the [[affiliation-ordrsldwrd|Order of the Sealed Word]] seven years ago, ruled to be from natural causes; the timing—three days before he was to issue a major writ against a Black Flame-sympathetic baron—has produced persistent suspicion.
 - The disappearance of three Ordo Arcanis investigators in the Tarvénian highlands four years ago; bodies never recovered; investigation closed.
 
 The order has, by its own discipline, neither confirmed nor denied involvement in any of these.
@@ -89,7 +89,7 @@ The order has, by its own discipline, neither confirmed nor denied involvement i
 
 - **The [[affiliation-ordershnvw|Order of the Ashen Vow]]**—sister order; theological foundation; operational coordination. The two orders share doctrine and senior leadership lines but maintain strict operational separation. An Ashen Vow brother does not know which of his former brothers have been selected into the Cinder.
 - **The [[affiliation-sacredforge|Sacred Forge]]**—the primary theological enemy and the primary investigative threat. The Forge maintains a small cadre of investigators dedicated specifically to identifying Cinder operatives.
-- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]**—formal enemies; both orders carry standing arrangements with the Sacred Forge for cooperation against Cinder activity. The Cinder regards the Jánus orders as professional opponents to be respected, evaded where possible, and removed where evasion fails.
+- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]] and [[affiliation-twinbldrdr|Twinblade Order]]**—formal enemies; both orders carry standing arrangements with the Sacred Forge for cooperation against Cinder activity. The Cinder regards the Árdavon orders as professional opponents to be respected, evaded where possible, and removed where evasion fails.
 - **The Aurèldían Crowns**—formally suppressive; informally less so where Black Flame protection extends.
 - **The [[affiliation-velvethand|Velvet Hand]]**—operational counterparty. The two organizations occasionally find themselves on opposite sides of the same operation; the recognition of professional capability has produced an informal protocol by which each will withdraw rather than engage the other if the recognition is mutual and the operations are not mutually exclusive.
 

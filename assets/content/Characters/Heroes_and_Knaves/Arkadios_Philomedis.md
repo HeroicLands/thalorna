@@ -476,8 +476,8 @@ Duke Stávron Pylíkot
 
 ### Enemies
 
-Kael the Dirge, Captain of the Crimson Wolves
-: A rival mercenary company leader whose contract was chosen over his own by a major client. Kael harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
+Nishánikos the Dirge, Captain of the Crimson Wolves
+: A rival mercenary company leader whose contract was chosen over his own by a major client. Nishánikos harbors deep resentment and seeks opportunities to undermine Arkádios's reputation.
 
 The Shadow Syndicate
 : A criminal organization whose operations Arkádios destroyed on behalf of a client five years ago. Several high-ranking members survive and hunger for vengeance.
@@ -490,7 +490,7 @@ The Byzarian League
 The Independent Mercenary Council
 : A loose association of mercenary captains who maintain professional standards and negotiate pay rates. Arkádios holds significant influence.
 
-The Order of Jánus (Order Aspect)
+The Order of Árdavon (Order Aspect)
 : A practicing worshipper who attends temples regularly, finding the god's emphasis on structure and discipline spiritually resonant with his own worldview.
 
 ## Plot Hooks
@@ -499,7 +499,7 @@ The Order of Jánus (Order Aspect)
 
 2. **The Deserter's Daughter**: A young woman approaches Arkádios claiming to be the daughter of **Langárion Kyriákash**, a soldier he fought alongside in the Silver Vipers who deserted the company under mysterious circumstances decades ago. She carries a letter purportedly from her father, begging Arkádios to investigate something hidden in the Vipers' old fortress. Investigation leads to the discovery of a conspiracy that goes to the highest levels of the League—one that both he and Vex were manipulated into participating.
 
-3. **The Redemption Contract**: A noble priest of Jánus approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
+3. **The Redemption Contract**: A noble priest of Árdavon approaches Arkádios with a contract: protect a refugee camp of displaced civilians from raiders and warlords—with no payment, only spiritual counsel about the possibility of redemption. The contract becomes personal when Arkádios discovers that the camp shelters women and children from a faction he himself once fought for, and his presence there creates dangerous division among the refugees who fear him.
 
 4. **The Immortal Warrior**: During a contract in a remote region, Arkádios encounters a warrior of impossible age—a man who claims to have fought for over two centuries and to recognize Arkádios as his reincarnated rival. The mysterious fighter challenges Arkádios to a series of tests, hinting that survival requires understanding a truth about himself and his past that has been deliberately hidden. The physical and psychological tests force Arkádios to confront the possibility that his memories may be false.
 

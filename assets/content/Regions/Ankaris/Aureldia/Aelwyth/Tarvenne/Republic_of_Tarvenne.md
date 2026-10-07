@@ -183,7 +183,7 @@ from the corruption rather than sitting beside it.
 
 ### The Black Flame
 
-The [[affiliation-blackflame|Black Flame]]—Vúlcan's destructive aspect, suppressed across most of
+The [[affiliation-blackflame|Black Flame]]—Ústaron's destructive aspect, suppressed across most of
 the Aurèldían world and reduced elsewhere to hidden shrines and secretive orders—has **enormous
 influence** in Tarvenne, and does not especially trouble to hide it.
 
@@ -198,9 +198,9 @@ The Flame's other western stronghold is across the water in [[place-provenzrgn|P
 [[place-harivrencity|Hárivren]]'s earl holds it openly. Whether the two are coordinated is a question
 the Forge asks loudly and cannot answer.
 
-### Thánatos
+### Sélmoros
 
-The other great presence is [[affiliation-thanatos|Thánatos]], the Silent Judge—and he is
+The other great presence is [[affiliation-thanatos|Sélmoros]], the Silent Judge—and he is
 prominent for precisely the opposite reason.
 
 In a republic where the courts work for those who can pay them to work, the god who judges everyone

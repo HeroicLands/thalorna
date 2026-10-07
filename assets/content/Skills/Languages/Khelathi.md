@@ -77,7 +77,7 @@ pause; `Mani` and `Dari` do not.
 **Openings.** `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` are the characteristic ones.
 Initial clusters are otherwise rare and restricted to consonant + semi-vowel
 (`y`, `w`) or fricative + stop: `Ps-` and `Tj-` are the licensed instances, as in
-`Psaq'âru` and `Tjelsuk`. Stop + stop is not Khelâthi, so no word opens `Pt-`.
+`Psaq'âru` and `Tjelsur`. Stop + stop is not Khelâthi, so no word opens `Pt-`.
 
 - **Syllable Structure:** CV or CVC; a word may begin with a vowel, which the glottal marks
 - **Word Length:** Often moderate (two to three morphemes); compound names are less frequent than in Vedyari, though hieratic epithets create lengthy formal designations
@@ -270,7 +270,7 @@ pause and the local gods do not.
 | `Gewaâtis`   | voyages                     |
 | `Azu'âthis`  | chaos                       |
 | `Qeztu`      | war                         |
-| `Tjelsuk`    | river-beasts                |
+| `Tjelsur`    | river-beasts                |
 | `Shebazet`   | the marsh                   |
 | `Pelgun`     | desert roads                |
 | `Linhur`     | the hunt, the hunter        |
@@ -341,7 +341,7 @@ What a commoner's byname names when it names a trade rather than a place.
 | Word     | Trade       |
 | -------- | ----------- |
 | `zethu`  | scribe      |
-| `zuqal`  | tiller      |
+| `zuqat`  | tiller      |
 | `meglu`  | herder      |
 | `igelar` | boatman     |
 | `shebar` | reed-cutter |
@@ -398,6 +398,19 @@ the methods they name.
 | `Khelâthi`       | its people, and its tongue |
 | `Khelâthi-zethu` | the sacred hand            |
 | `Qalezu`         | the common hand            |
+
+### Retired names
+
+Some forms are kept out of the setting because the rules above refuse them. Each
+stands below with the form the setting writes for the same thing, and no page
+writes them. A literature note quotes its work in the work's own words and a poem
+keeps its own, so a retired form may stand in either.
+
+| Retired       | Written instead | Why                                    |
+| ------------- | --------------- | -------------------------------------- |
+| `Tjelsuk`     | `Tjelsur`       | ends in none of a vowel, n, t, s or r  |
+| `zuqal`       | `zuqat`         | ends in none of a vowel, n, t, s or r  |
+| `Wal'Enrauqo` | `Wal'Enraqu`    | a house name that does not end in `-u` |
 
 ## Naming Traditions
 
@@ -732,7 +745,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Anlaghesi
 - Anlaghesna
 - Anlaghîra
-- Anlaghi
+- Anlaghet
 - Anmetraqe
 - Asneteqe
 - Balaquzu
@@ -926,4 +939,4 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Thoten'Râlu
 - Retha'Ganu
 - Gaset'Zabu
-- Wal'Enrauqo
+- Wal'Enraqu

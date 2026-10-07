@@ -98,7 +98,7 @@ The Synod's rule gives Dúnavarre a character unlike any other Aelwythan polity:
 
 Dúnavarre's culture is a blend of Aelwythan mysticism and Élavendren refinement, filtered through the Ordo's scholarly discipline. The kingdom has absorbed considerable cultural influence from [[place-elavendre|Élavendre]] through centuries of close contact, giving its aristocracy a polish that contrasts with the rougher manners of Aldorath's feudal lords or the Peshtar barbarians. Education and literacy are prized—the Synod encourages learning as a matter of policy, and Dúnavarre's schools and libraries are among the finest on the island.
 
-The kingdom is devoutly [[affiliation-arldnpnthn|Aurèldían]], with [[affiliation-arldnpnthn|Jánus]] (god of order, justice, and honorable struggle) holding particular prominence—a natural fit for a realm that values structure and discipline above all. The militant Order of the Just Blade, a Jánusian knightly order, serves as the kingdom's military arm and moral authority. Its Knight-Captains answer to the Synod but command enormous respect in their own right.
+The kingdom is devoutly [[affiliation-arldnpnthn|Aurèldían]], with [[affiliation-arldnpnthn|Árdavon]] (god of order, justice, and honorable struggle) holding particular prominence—a natural fit for a realm that values structure and discipline above all. The militant Order of the Just Blade, a Árdavonian knightly order, serves as the kingdom's military arm and moral authority. Its Knight-Captains answer to the Synod but command enormous respect in their own right.
 
 ## Relations
 
@@ -111,7 +111,7 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 ## Notable Institutions
 
 - **The Synod:** The governing body of Dúnavarre, composed of senior mages of the [[affiliation-ordoarcanis|Ordo Arcanis]]. The Synod functions as both legislature and executive, with individual members overseeing portfolios of governance (diplomacy, defense, commerce, justice).
-- **The Order of the Just Blade:** A militant knightly order dedicated to [[affiliation-arldnpnthn|Jánus]], god of order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
+- **The Order of the Just Blade:** A militant knightly order dedicated to [[affiliation-arldnpnthn|Árdavon]], god of order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
 
 - **The Umbral Court:** The Synod's position is that there is no such organization. See
   [[affiliation-umbralcourt|The Umbral Court]].

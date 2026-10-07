@@ -401,11 +401,11 @@ Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in [[place-thornhaven|Thornhaven]] to a Varokh family with Velanthian kin, Thornila Ríkhild became a priestess of Jánus through the traders and mixed households of the frontier.
+Born in [[place-thornhaven|Thornhaven]] to a Varokh family with Velanthian kin, Thornila Ríkhild became a priestess of Árdavon through the traders and mixed households of the frontier.
 
-Thornila is devoted to the teachings of Jánus and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
+Thornila is devoted to the teachings of Árdavon and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
 
-At thirty-five, she is known to the small circle of Jánus worshippers along the Velanthian frontier.
+At thirty-five, she is known to the small circle of Árdavon worshippers along the Velanthian frontier.
 
 ## Psyche
 
@@ -423,13 +423,13 @@ She is passionate about her beliefs, and a strong leader.
 
 ## Social
 
-Thornila serves the few followers of Jánus at Thornhaven, where Velanthian visitors and mixed households have brought the faith across the frontier. She is a priestess of that faith, while the village’s Shaman keeps its totem and rites.
+Thornila serves the few followers of Árdavon at Thornhaven, where Velanthian visitors and mixed households have brought the faith across the frontier. She is a priestess of that faith, while the village’s Shaman keeps its totem and rites.
 
 ## Companions
 
 ### Patrons
 
-Her supporters are traders and households who keep Jánus’s rites. They shelter her work by choice, while other villagers keep the fox totem and ask their own Shaman for spiritual help.
+Her supporters are traders and households who keep Árdavon’s rites. They shelter her work by choice, while other villagers keep the fox totem and ask their own Shaman for spiritual help.
 
 ### Enemies
 

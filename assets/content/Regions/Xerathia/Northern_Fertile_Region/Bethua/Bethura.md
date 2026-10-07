@@ -32,7 +32,7 @@ The chief of the order is the **Izet-Mû** (Overseer of the Waters). She answers
 
 ## The Seat of the Two Pillars
 
-The **Sacred College** (_the Hieróssa_) is the assembly of the Hiérissai, the high priestesses of the three goddess-orders of Lúsinía, Aethería and Vénusia and of the great temples. In Bethûra it sits as the realm's spiritual authority and its highest religious court. When a Mêtríssa sets down the Veil, the College meets as a conclave and elects her successor from the priestesses of the royal line, and the oracle of Aethería confirms the choice.
+The **Sacred College** (_the Hieróssa_) is the assembly of the Hiérissai, the high priestesses of the three goddess-orders of Lúsinía, Aethería and Ólvenía and of the great temples. In Bethûra it sits as the realm's spiritual authority and its highest religious court. When a Mêtríssa sets down the Veil, the College meets as a conclave and elects her successor from the priestesses of the royal line, and the oracle of Aethería confirms the choice.
 
 The **Council of Houses** (_the Sünédra_) is the assembly of the Dómissai, the matriarchs of the recognized clans. In Bethûra it ratifies law, votes the levies and taxes, judges disputes between Houses, and speaks for the land-holding aristocracy against the temple. The College holds the realm's legitimacy; the Houses hold its land, grain and levies. Neither can govern without the other.
 
