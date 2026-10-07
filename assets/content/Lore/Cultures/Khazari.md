@@ -100,7 +100,7 @@ Her standing is her own. Khazári women carry beards as men do, hold the same cr
 
 ## Words for Stone, Two Forms of Letters
 
-The [[skill-khazarlng|Khazári]] tongue has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[doc-khazarilex|Khazári Lexicon]] holds the words.
+The [[skill-khazarlng|Khazári]] tongue has a rich vocabulary for rock, fracture, water and the character of stone, as a seafaring people has many words for wind and sea. To follow a seam, _luváz_, is one verb, and the living rock, _madhak_, is one noun. The [[doc-khazarilex|Khazári Lexicon]] holds the words. They count in sixteens, which halve to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over.
 
 [[skill-drthrkscrpt|Pirzath]] has two forms. **Carved Pirzath**, _dalkapuráz_, is for what must last: oaths, laws, tombs and the founding of a hold, cut in stone, metal or wood. Its strokes are short and angled across the grain, never along it, and its line of text follows a seam, bedding line or natural edge of the stone rather than a ruled baseline, so no inscription runs straight. Reading carved Pirzath well means reading the stone. **The hand form of Pirzath**, _milgath_, is the everyday writing, flowing, curved and joined: slate and chalk for teaching, tallies and notes; wax tablets for drafts and accounts; ink on hide or parchment for letters and books; and thin sheets of lead or copper cut with a stylus for records meant to last without being monumental.
 
