@@ -26,7 +26,7 @@ still follow the line the first ones did.
 
 Hárivren is the seat of **Avaârl alrí Zylávren, Earl of Hárivren**, who holds the western march for the
 Crown and commands great respect and considerable power. Among his vassals is **Álegar alrí Zûravel**,
-Baron of Zûravlen and Kývarel; the fruit and wine that make Zûravlen famous pass through Avaârl's city
+Baron of Zûravlen and [[place-kyvarel|Kývarel]]; the fruit and wine that make Zûravlen famous pass through Avaârl's city
 and pay his tolls.
 
 He is also **the most senior noble of the [[affiliation-blackflame|Black Flame]] in Provènzia**, and he

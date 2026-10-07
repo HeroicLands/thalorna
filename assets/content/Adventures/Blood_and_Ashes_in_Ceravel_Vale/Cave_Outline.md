@@ -59,6 +59,6 @@ data:
 
 - **Description:** After Thárion’s defeat, the adventurers have the opportunity to explore his chamber and uncover his personal belongings, maps, and any remaining supplies.
 
-- **Reward:** Among the loot, they find a stash of silver, valuable goods taken from raids, and a written note or symbol connecting him indirectly to Kílan’s machinations. There may also be a cryptic map leading deeper into Céravel Vale, hinting at future threats or hidden treasures.
+- **Reward:** Among the loot, they find a stash of silver, valuable goods taken from raids, and a written note or symbol connecting him indirectly to Kílan’s machinations. There may also be a cryptic map leading deeper into [[place-ceravelvale|Céravel Vale]], hinting at future threats or hidden treasures.
 
 - **Resolution:** The adventurers must decide what to do with Thárion (if he survived), his remaining men, and any villagers who supported him. They may also choose to follow up on Kílan’s potential involvement or focus on collecting their reward for quelling the bandit threat.

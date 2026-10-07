@@ -21,7 +21,7 @@ ago and the survivors came up the passes, Kalm had the room and the food, and a 
 present households descend from people who arrived that winter with nothing.
 
 Those families are Vardain like anyone else and are not treated otherwise. But Kalm is where the
-memory of **Vardanreach** is freshest, where the thralls of the [[place-stormplain|Stormplain]] are
+memory of [[place-vardanreach|Vardanreach]] is freshest, where the thralls of the [[place-stormplain|Stormplain]] are
 spoken of as cousins rather than as history, and where the valleys' careful silence about doing anything
 for them is hardest to keep.
 

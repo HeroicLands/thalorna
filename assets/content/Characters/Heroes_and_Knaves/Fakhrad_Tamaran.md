@@ -467,7 +467,7 @@ Fakhrad's primary motivation is to prove that genuine wisdom and utility need no
 Farmer Torvan of the Eastern Fields
 : A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 
-The Village Elders of Sarath
+The Village Elders of [[place-sarath|Sarath]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
 Merchant Caravan Master Saffan

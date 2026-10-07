@@ -76,7 +76,7 @@ the first, came after six centuries of being assured there would not be another.
 
 ## The Humans
 
-What the Khazári did instead was turn to the people of the plain below. **Vardanreach**—the
+What the Khazári did instead was turn to the people of the plain below. [[place-vardanreach|Vardanreach]]—the
 [[lore-vardain|Vardain]] nation of the north-east—kept the Deep Folk's friendship for thousands of
 years afterward, and it was a real friendship, mutually useful and mutually respected, and the only one
 of its kind in the world.

@@ -11,7 +11,7 @@ Swears the Compact before the Council of the Hall and wears the bandalagshringr,
 
 ## What This Standing Is
 
-A signed captain swears his company into the Compact before the Council of the Hall at Hringstead, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandalagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
+A signed captain swears his company into the Compact before the Council of the Hall at [[place-hringstead|Hringstead]], binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandalagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
 
 ## How the Law Treats a Person Here
 

@@ -96,7 +96,7 @@ Tarvennan legions—disciplined, well-drilled, and motivated by civic duty rathe
 
 ## Relations
 
-Tarvenne has cultivated its own diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]], trading military expertise for political recognition. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Tarvennan legions regularly patrol the frontier. The free city of Veldareth, on the coast between Tarvenne and Dúnavarre, serves as a neutral meeting ground and center of learning.
+Tarvenne has cultivated its own diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]], trading military expertise for political recognition. Relations with [[affiliation-kingdmdnvr|Dúnavarre]] are respectful but wary—the two polities share a border and compete for influence over the southern coast. The [[place-pshtrwldrns|Peshtar tribes]] to the north are a chronic security concern, and Tarvennan legions regularly patrol the frontier. The free city of [[place-veldareth|Veldareth]], on the coast between Tarvenne and Dúnavarre, serves as a neutral meeting ground and center of learning.
 
 ## Commerce and Currency
 

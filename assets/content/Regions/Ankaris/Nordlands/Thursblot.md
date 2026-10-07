@@ -24,7 +24,7 @@ That is why the hofs of the Ten speak of the cutting with pride rather than unea
 
 ## Why Holafell Refuses the Word
 
-The adherents of the [[affiliation-hrimthur|Faith of Hrímthur]] call it the first cutting and nothing else. A blót, they say, is given willingly by a household that owns what it gives, and nobody asked the giant. Their rites are not poured on an altar but cut into the rock, because what was done to him was a cutting, and the **Renewal of the Wound** cut at **Holafell** at the turn of every winter keeps that cut open on purpose. An Adherent there gives the dispute its shortest form: "They call it a feast because they ate. He calls it nothing, because he is the plate."
+The adherents of the [[affiliation-hrimthur|Faith of Hrímthur]] call it the first cutting and nothing else. A blót, they say, is given willingly by a household that owns what it gives, and nobody asked the giant. Their rites are not poured on an altar but cut into the rock, because what was done to him was a cutting, and the **Renewal of the Wound** cut at [[place-holafell|Holafell]] at the turn of every winter keeps that cut open on purpose. An Adherent there gives the dispute its shortest form: "They call it a feast because they ate. He calls it nothing, because he is the plate."
 
 The [[affiliation-thursborn|Giant's Children]] stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction. The hofs of the Ten do not condemn either faith for its reading; they treat the Renewal as accurate and the word they refuse as Holafell's own business.
 

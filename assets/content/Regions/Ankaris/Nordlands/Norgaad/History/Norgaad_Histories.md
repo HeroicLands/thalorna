@@ -29,7 +29,7 @@ the whole account of the guard is exact remains a matter for those who inherit t
 
 ## The Thursar of the Saddle
 
-Miners near **Skulfheim** knock on their timber before entering a gallery. They say the _thursar_ knock
+Miners near [[place-skulfheim|Skulfheim]] knock on their timber before entering a gallery. They say the _thursar_ knock
 back when a mountain is unsafe. A great stone on the saddle has acquired cloaks left for lost
 travelers, among them men of the king's brother's expedition. The claim that these stones are the
 Rime-Giant's walking remnants belongs to mountain lore. The memorials and the miners' caution stand
@@ -53,7 +53,7 @@ living claimant's testimony.
 
 ## Holafell's Wound
 
-The [[affiliation-thursborn|Giant's Children]] at **Holafell** tell the Three Winters differently from the halls below. In their
+The [[affiliation-thursborn|Giant's Children]] at [[place-holafell|Holafell]] tell the Three Winters differently from the halls below. In their
 account, a predecessor failed to keep open the world's wound and winter did not end until the next
 elder did so. It is their explanation of the famine, not an attested cause of it. Others remember
 failed harvests, deaths and disputed acts at the kin-fell without accepting the Children’s claim.

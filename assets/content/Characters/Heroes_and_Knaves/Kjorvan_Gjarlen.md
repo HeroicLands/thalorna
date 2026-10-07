@@ -486,7 +486,7 @@ Noble Houses of Provènzia
 The Slave Traders of the Shadowmarch
 : Criminal organizations that occasionally pass through the crossroads. Kjôrvan refuses them service, and they view him as an obstacle to their operations.
 
-The Road Bandits of Thornwood
+The Road Bandits of [[place-thornwood|Thornwood]]
 : A band of brigands led by the cruel **Captain Rogûn** who have attempted to steal valuable horses from the inn. Kjôrvan has helped facilitate the recovery of stolen animals.
 
 Rival Ostlers
