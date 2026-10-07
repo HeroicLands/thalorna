@@ -162,7 +162,7 @@ Five rules settle the whole of it.
 
 **A clan has more than one member.** A name in the clan list is a clan and not a person: brothers, cousins, a widow's household and three generations of a kindred all carry the same one.
 
-**A clan name is glossed by its people.** Every gloss in the list below is plural and names people—"Eagle Helms", "Wise Slayers", "Battle Valor"—so the English supplies the kindred and the two elements supply what the kindred is about. A closing element may therefore name a person (`-skald`, a reciter) or a thing (`-helm`, a helm), and the gloss reads the same either way: Wulfhelm is the kindred that goes helmed as the wolf goes.
+**A clan name is glossed by its people.** Every gloss in the list below is plural and names people—"Eagle Helms", "Wise Slayers", "Battle Valor"—so the gloss supplies the kindred and the two elements supply what the kindred is about. A closing element may therefore name a person (`-skald`, a reciter) or a thing (`-helm`, a helm), and the gloss reads the same either way: Wulfhelm is the kindred that goes helmed as the wolf goes.
 
 ### The element lexicon
 

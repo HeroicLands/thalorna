@@ -66,7 +66,7 @@ Each word table has five columns:
 | `kh`, `gh`, `th`, `dh`, `ph`, `bh` | consonant                                 | the same stops with a breath after them; `th` is never _thin_ |
 | `ch`, `j`                          | consonant                                 | _church_, _judge_                                             |
 | `m`, `n`, `ñ`                      | consonant                                 | the nasals; `ñ` stands only after `j`, as in _jñāna_          |
-| `l`, `y`, `v`, `h`, `s`, `sh`, `z` | consonant                                 | as in English; `z` is rare                                    |
+| `l`, `y`, `v`, `h`, `s`, `sh`, `z` | consonant                                 | as the letters read; `z` is rare                              |
 | `r`                                | consonant, and a vowel between consonants | a tapped _r_; between two consonants it is a vowel of its own |
 | `a`, `i`, `u`                      | short vowel                               | _cut_, _bit_, _put_                                           |
 | `ā`, `ī`, `ū`                      | long vowel                                | _father_, _machine_, _rule_                                   |

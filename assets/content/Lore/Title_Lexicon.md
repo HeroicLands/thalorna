@@ -182,7 +182,7 @@ ORDER BY p.people, e.key COLLATE NOCASE
 ## Reading the tables
 
 **A word standing under many peoples is not a translation.** Where the same
-English word appears in a dozen rows—`Bondservant`, `Chieftain`, `Elder`,
+A glossed word appears in a dozen rows—`Bondservant`, `Chieftain`, `Elder`,
 `Greater Nobility`—it is the reckoning showing through rather than a word any
 of those peoples uses at home. Read those rows as a statement about the account,
 not about the people.

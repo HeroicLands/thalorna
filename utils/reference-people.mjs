@@ -167,7 +167,7 @@ function lineOf(raw, key) {
 
 /**
  * One finding. The rule is carried beside the message so the self-test can ask
- * which rule fired without reading English.
+ * which rule fired without reading prose.
  *
  * @param {object} note - The note the finding is about.
  * @param {number | null} line - The line, or `null` when only the file is known.

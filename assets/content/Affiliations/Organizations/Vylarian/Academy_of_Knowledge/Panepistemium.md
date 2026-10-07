@@ -44,7 +44,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-_Helonic: **Panepistēmion**—"the place of all knowledge," the Helonic word for a university. Worn smooth by Vylarian tongues into the **Panepistemium** (often clipped to the **Epistemium**), and rendered in the Common tongue simply as the Academy of Knowledge._
+_Helonic: **Panepistēmion**—"the place of all knowledge," the Helonic word for a university. Worn smooth by Vylarian tongues into the **Panepistemium** (often clipped to the **Epistemium**), and called, in plain words, simply the Academy of Knowledge._
 
 A lecturer of the College of Ethics, asked what the Epistemium is, takes you to the gate of a chapterhouse and points at the sign. "That is the seal of the oldest scholarly body in the west. It teaches law, logic, language and natural philosophy, and a farmer's son can learn his letters under it. Now ask me who pays for the roof, who appoints the head of the house, and whose students are quietly counted for a talent the Ordo wants. My college refused its seal to the charter that made the Ordo, and the seal is on the door anyway."
 

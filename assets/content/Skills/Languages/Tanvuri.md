@@ -39,7 +39,7 @@ The Tānvüri language—known natively as **Tānvüri Thëitōk** ("Celestial-C
 | l         | as in "let"                      |                           |
 | m         | as in "man"                      |                           |
 | n         | as in "net"                      |                           |
-| r         | as in English "red", not trilled |                           |
+| r         | a tapped r, not trilled          |                           |
 | s         | as in "sit"                      |                           |
 | sh        | as in "ship"                     |                           |
 | t         | as in "top"                      |                           |

@@ -204,7 +204,7 @@ _reflects_ adds no fact.
    _no one has counted them_, never _further work is needed_.
 8. **Report both sides of a quarrel in the same voice.** Never _of course, in
    reality_.
-9. **Gloss a native term in parentheses at first use,** in one or two English
+9. **Gloss a native term in parentheses at first use,** in one or two plain
    words: _Wazu (acolyte)_. Later uses stand alone.
 10. **Prefer the active voice,** chiefly because rewriting a passive usually finds
     the person rule 4 wants. Where the actor is unknown or does not matter, the
@@ -377,11 +377,11 @@ data:
     being-kaldas: rival
 ```
 
-**Gender, frame and the appearance colors each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. The English column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
+**Gender, frame and the appearance colors each hold one value from a closed list.** They belong to `character` and `npc` beings; a `creature` states none of them. The Gloss column is the words a reader meets, and the third column is what the value means, because several of these are words people use loosely.
 
 #### `data.gender`
 
-| Value       | English   | What it means                                                      |
+| Value       | Gloss     | What it means                                                      |
 | ----------- | --------- | ------------------------------------------------------------------ |
 | `female`    | Female    | Female.                                                            |
 | `male`      | Male      | Male.                                                              |
@@ -391,7 +391,7 @@ data:
 
 #### `data.frame`
 
-| Value     | English | What it means                                 |
+| Value     | Gloss   | What it means                                 |
 | --------- | ------- | --------------------------------------------- |
 | `scant`   | Scant   | Very thin, with little flesh over the bone.   |
 | `light`   | Light   | Slender, narrow through shoulder and hip.     |
@@ -401,7 +401,7 @@ data:
 
 #### `data.appearance.eye_color`
 
-| Value        | English    | What it means                                                                                  |
+| Value        | Gloss      | What it means                                                                                  |
 | ------------ | ---------- | ---------------------------------------------------------------------------------------------- |
 | `amber`      | Amber      | Golden or coppery, with no gray or green in it; the honey-toned eye.                           |
 | `blue`       | Blue       | Unmixed blue, from pale ice to deep sea.                                                       |
@@ -414,7 +414,7 @@ data:
 
 #### `data.appearance.hair_color`
 
-| Value           | English       | What it means                                                           |
+| Value           | Gloss         | What it means                                                           |
 | --------------- | ------------- | ----------------------------------------------------------------------- |
 | `auburn`        | Auburn        | Red-brown with the red dominant.                                        |
 | `black`         | Black         | True black, with no brown cast in sunlight.                             |
@@ -432,7 +432,7 @@ data:
 
 #### `data.appearance.skin_color`
 
-| Value        | English    | What it means                                                                     |
+| Value        | Gloss      | What it means                                                                     |
 | ------------ | ---------- | --------------------------------------------------------------------------------- |
 | `pale`       | Pale       | The lightest skin, which burns rather than browns; also skin carrying no pigment. |
 | `fair`       | Fair       | Light with a pink cast, burning before it browns.                                 |
@@ -448,7 +448,7 @@ data:
 
 #### `data.appearance.complexion`
 
-| Value         | English     | What it means                                                                                                                                      |
+| Value         | Gloss       | What it means                                                                                                                                      |
 | ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `ashen`       | Ashen       | Gray and drained; the skin of serious illness, shock or terror.                                                                                    |
 | `blotchy`     | Blotchy     | Uneven in color, patched red or pale.                                                                                                              |
@@ -947,15 +947,25 @@ Three things are not names, and none of them takes bold:
   two apart. Italics are the right mark wherever a word or phrase needs stress.
 
 Taking the bold off a common noun or a rank leaves it **plain**, not italic.
-Italics have three uses and no others: a word in another tongue (_jarl_,
-_gyldra_), the title of a work (_The Seven Towers_), and stress a speaker would
-actually give, which is rare in prose. An ordinary word set in italics because
-it seemed important—_the mountains_, _the coast_, _eight million_—is as
-distracting as a stray bold, and it is the commonest mark of careless prose.
+Italics have two uses and no others: an in-world word that is not a name, and
+stress a speaker would actually give, which is rare in prose. An ordinary word
+set in italics because it seemed important—_the mountains_, _the coast_, _eight
+million_—is as distracting as a stray bold, and it is the commonest mark of
+careless prose.
+
+**An in-world word that is not a name is italic every time:** _tob_, _havadh_,
+_filnath_. **A name is never italic**—a person, place, god, house, clan or named
+work: Sarghakhudhál, Lakamakhulán, The Crossing of the Clans.
+
+**A culture's common words are set in roman.** The in-world terms players and
+GMs are expected to know are listed in the **Glossary** table of that culture's
+Adventurer's Guide, and a listed word is never italic. Every in-world word that
+is not a name and is not in its culture's glossary stays italic. A culture with
+no Adventurer's Guide has no common words, so all its terms stay italic.
 
 ## Spelling and punctuation
 
-Notes are written in **American English**. The common traps:
+Notes are written with **American spelling and punctuation**. The common traps:
 
 | Write this                                                                | Not this                                                                        |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
