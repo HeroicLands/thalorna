@@ -275,7 +275,7 @@ A pronoun takes case like a noun. The demonstratives take no suffix and stand be
 
 ### Numbers
 
-Khazári counts in sixties, and within a sixty in tens. A number under sixty is said tens first and units after, the tens as a unit before the word for ten: thirty-seven is _vem zund fozd_, "three ten seven". Sixty is _girm_, and a count of sixties is said the same way: a hundred and twenty is _zik girm_. A noun after a number above one takes the plural.
+Khazári counts in sixteens. Sixteen halves cleanly to eight, four, two and one, so ore, stores, gate-shares and lengths of course divide among houses by halving with no fraction left over, and a share is always a whole number of parts. Every number up to fifteen has a word of its own, and sixteen is _girm_. A larger number is said sixteens first and units after, the count of sixteens as a unit before _girm_, joined to the units by _bek_: thirty-seven is _zik girm bek zom_, "two sixteen and five", and a hundred is _nefk girm bek bozd_, "six sixteen and four". Sixteen sixteens is a great count, two hundred fifty-six, with a noun of its own in the [[doc-khazarilex|Khazári Lexicon]], and a count of great counts is said the same way. A noun after a number above one takes the plural.
 
 | Word    | Value |
 | ------- | ----: |
@@ -289,9 +289,14 @@ Khazári counts in sixties, and within a sixty in tens. A number under sixty is 
 | `kabr`  |     8 |
 | `khozm` |     9 |
 | `zund`  |    10 |
-| `girm`  |    60 |
+| `bukh`  |    11 |
+| `sakht` |    12 |
+| `gharb` |    13 |
+| `vunth` |    14 |
+| `thulk` |    15 |
+| `girm`  |    16 |
 
-The craft-records keep their own arithmetic in this count, and divide a measure of ore or a length of course into sixtieths.
+The craft-records keep their own arithmetic in this count, and divide a measure of ore or a length of course into sixteenths.
 
 ### Compounds
 
