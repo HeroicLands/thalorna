@@ -78,36 +78,40 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-Moktur is the empire's northern shield—a mountainous province bordering the [[place-vrystwald|Vrystwald]], responsible for defending the frontier against Varokh raids and incursions. Its military governors command significant autonomy, and some function as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The Province of Moktur holds the land of [[place-moktur|Moktur]].
+Moktur is the empire's northern shield, a mountainous province on the [[place-vrystwald|Vrystwald]] border that answers for the defense of the frontier against Varokh raids and incursions. Its military governors command wide autonomy, and some behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its governor sits at [[place-tyrellan|Tyrellan]].
 
 ## Character
 
-Moktur is the most martial province of the empire.
+Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in the [[affiliation-vylrnmltry|Vylarian military]].
 
-The people of Moktur are proud, self-reliant, and faintly contemptuous of the soft southerners in [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service is not just honored—it is expected. The province produces the empire's best soldiers, and its legions are the most battle-tested in the Vylarian military.
-
-The frontier with [[place-vrystwald|Vrystwald]] is not a clean line. There are Varokh communities within Moktur's nominal borders, and some Mokturan border lords have more in common with the barbarian chiefs across the line than with the senators in the capital. Intermarriage, trade, and occasional truces create a complex border culture that neither side fully controls.
+The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the senators in Magnápolis. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
 
 ## Economy
 
-The province also profits from the overland trade routes that pass through its mountain passes—tolls and customs duties are a major source of revenue for the military governors.
+Beyond the mines and timber described under [[place-moktur|Moktur]], the province profits from the overland trade routes that pass through its mountain passes. Tolls and customs duties are a major source of revenue for the military governors.
 
 ## Notable Features
 
 - Semi-autonomous military governors with their own armies
 - A hybrid border culture blending Vylarian and Varokh traditions
 
-## For the Worldbuilder
+## Life in the Province
 
-Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers, and a short hard growing season. This is the province for mines, logging, hunting, and frontier soldiering—and the one place inside the empire where the wilderness, and the people who live by it, are genuinely beyond the capital's reach. Power is held by the military governors and border-lords, some little better than warlords, whose loyalty to Magnápolis is a matter of convenience. Adventure here is frontier adventure: raids and reprisals across the Vrystwald march, feuds between border-lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-barbarian borderland. What is abundant is metal, timber, game, and danger; what is scarce is imperial authority, soft living, and trust. A settlement here is walled, watchful, and loyal first to whoever can defend it.
+Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers and a short, hard growing season. It is the province for mines, logging, hunting and frontier soldiering, and the one place inside the empire where the wilderness, and the people who live by it, lie beyond the capital's reach.
+
+Power belongs to the military governors and the border lords, some little better than warlords, and their loyalty to [[place-magnapolis|Magnápolis]] is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
+
+Trouble in Moktur is frontier trouble: raids and reprisals across the Vrystwald march, feuds between border lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-Varokh borderland. Where the Varokh tribes themselves are meant, rather than the communities inside the border, see [[affiliation-vrystwldtrbs|the tribes of Vrystwald]].
+
+What is abundant is metal, timber, game and danger. What is scarce is imperial authority, soft living and trust.
 
 ## Commerce and Currency
 
-Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Parent polity
-- [[place-moktur|Moktur]]—The land the province holds
-- [[place-vrystwald|Vrystwald]]—Northern frontier threat
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]]—Sister provinces
+- [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
+- [[place-moktur|Moktur]]—the land the province holds
+- [[place-vrystwald|Vrystwald]]—the northern frontier
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]]—sister provinces
