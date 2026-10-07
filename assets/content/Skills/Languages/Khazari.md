@@ -102,6 +102,7 @@ Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of ex
 | `z-v-k`  | to be, to stand                       |
 | `s-m-gh` | to listen to stone; listening         |
 | `kh-s-p` | restraint, the little cut             |
+| `l-m-v`  | a record; to record                   |
 
 Every skeleton the language is known to use, with the words its frames make, is set out in the [[doc-khazarilex|Khazári Lexicon]].
 
@@ -384,18 +385,32 @@ Each daughter shows its own sound changes. Sinalë turned a final _m_ into _n_ a
 
 ### Structure and Philosophy
 
-A Khazári carries a **given name** and a **house name**, and the two are built by different frames, so no Khazári has ever mistaken one for the other:
+A Khazári carries a **given name**, a **house name** and belongs to a **clan**, and the three are built by different frames, so no Khazári has ever mistaken one for another:
 
 1. A **given name** is a single skeleton in a **given-name frame**. It is short—two or three syllables—it never carries an acute, and it always ends in a vowel or in that vowel followed by _n_.
 2. A **house name** is **two skeletons compounded**, exactly as any other Khazári compound is built. It is four or five syllables, it always carries the acute of the deed frame, and it always ends in a consonant.
 
-Length, the acute and the final sound therefore separate the two on sight, which matters in a culture that carves both onto the same lintel.
+3. A **clan name** is **one skeleton in the mastery frame**, the frame of the doing of a craft as a master does it. It is two syllables, it carries the acute, and it ends in a consonant, and each of the seven names the master craft its clan holds.
+
+Length, the acute and the final sound therefore separate the three on sight, which matters in a culture that carves them onto the same lintel: a given name is short and has no acute, a house name is long and compounded, and a clan name is short and has an acute. The acute alone parts a clan name from a given name, and length alone parts it from a house name.
 
 Khazári hold that a name is not a label but a **charge**: it names work the bearer is expected to do, and a name given carelessly is an insult to the child. Naming is performed by the elders of the house, who choose the skeleton and are held to account for the choice.
 
 ### Clans and Houses
 
-The Khazári are seven **clans**, the seven who came to Thalorna together; a **house** is a line within a clan. A Khazári's house name says which line he belongs to, and the line says which of the seven it descends from.
+The Khazári are seven **clans**, the seven who fled to Thalorna together with their god Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In Khazártúrn each clan held one of the seven towers.
+
+| Clan      | Skeleton | Master craft                                                                |
+| --------- | -------- | --------------------------------------------------------------------------- |
+| `Summágh` | `s-m-gh` | listening to stone: the finders, who choose where a hold is cut             |
+| `Dullák`  | `d-l-k`  | cutting stone                                                               |
+| `Rummák`  | `r-m-k`  | laying courses: halls, stairs and made roads                                |
+| `Gullád`  | `g-l-d`  | fire: the forge and smithing                                                |
+| `Vurrán`  | `v-r-n`  | the true line: following the rock's run, the work of miners and prospectors |
+| `Gurráz`  | `g-r-z`  | guarding: the gates and the approaches                                      |
+| `Lummáv`  | `l-m-v`  | the record: the archive and the account                                     |
+
+Each name is its skeleton in the mastery frame, so _Dullák_ is the same word as _dullák_ "to cut stone as a master does", and _Summágh_ is the listening of a master. The clan is named for the craft, and the craft is the whole of what the name says.
 
 ### Given Names
 

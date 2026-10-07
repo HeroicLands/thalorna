@@ -45,7 +45,9 @@ They did not withdraw cleanly. Before the retreat there were centuries in which 
 ## The Seven Clans
 
 The Khazári who came to Thalorna came as **seven clans**, and the number has never lost its significance
-to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
+to them. The seven are Summágh, Dullák, Rummák, Gullád, Vurrán, Gurráz and Lummáv, each named for the
+master craft it holds, and the tale of their flight from Humadhan is told in
+[[lore-khazararrv|The Coming of the Khazári]]. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
 Khazár can recite a line back to one of the seven without hesitation or notes.
 
 [[lore-khazarturn|Khazártúrn]] was built for all seven together—seven spurs the cliff of a mountain
