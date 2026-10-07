@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Nálok, the Order of the Void, serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the [[lore-ginnauga|Eye of the Void]] over whatever ground its members can reach. A member answers only to a hidden hof's own godi, and the order's work is never done where an outsider can see it.
+"If you ever see the work of Nálok," says a godi who keeps a farm hof in the [[place-norgaad|Norgaad]] passes, "you will not see it done."
+
+Nálok, the Order of the Void, serves [[affiliation-nahild|Náhild]]'s hidden cult in secret, working to widen the influence of the [[lore-ginnauga|Eye of the Void]] over whatever ground its members can reach. A member answers only to a hidden hof's own godi. The order's work is never done where an outsider can see it, and what outsiders know of it is what they fear.
