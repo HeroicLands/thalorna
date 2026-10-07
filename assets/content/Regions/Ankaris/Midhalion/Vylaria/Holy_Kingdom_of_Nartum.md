@@ -125,7 +125,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Holy Kingdom of Nartûm is an independent Vylari-speaking realm that shares its cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. The empire's power rests on legions and senators. Nartûm's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon, and its king rules as a sacred figure blessed by the gods. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]] and is ruled from the holy city of [[place-nartum|Nartûm]].
+A sacred king, blessed by the gods, rules the Holy Kingdom of Nartûm, an independent Vylari-speaking realm that shares its cultural and linguistic roots with the [[affiliation-vylarinmpr|Vylarian Empire]] and keeps its own sovereignty under a theocratic monarchy. Vylaria's power rests on legions and senators. Nartûm's rests on faith: the kingdom defines itself through its devotion to the [[affiliation-arldnpnthn|Aurèldían]] pantheon. The kingdom holds the land of [[place-nartumkngdm|Nartûm Kingdom]] and is ruled from the holy city of [[place-nartum|Nartûm]].
 
 The secretary of a Nartûmese priest-noble, briefing a visiting Vylarian envoy before an audience, begins with the point the envoy is least likely to expect: "You come from a state that has a Senate and a faith. We have a faith, and a kingdom that takes its character from it. If you remember that when you speak, you will be heard. If you forget it, you will be received politely and not heard at all."
 

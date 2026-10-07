@@ -73,8 +73,8 @@ data:
         - what the standing appropriation was keeping, which the chancery's own word for it does not say
 ---
 
-The Vylarian Republic turned its legions against the Helionite city-states in 335 BF and took the
-last of them twenty-three years later. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
+In 335 BF the Vylarian Republic turned its legions against the Helionite city-states, and twenty-three years later it took
+the last of them. The city-states fought back with the most devastating weapon at their disposal: their mages. Desperate to resist
 superior conventional forces, they unleashed sorceries that shattered formations, poisoned the land
 and killed on a scale that swords could not. Some of the most powerful became mage-warlords their own
 city-states could not fully control. The [[affiliation-panepistmm|Epistemium]], which had theorized

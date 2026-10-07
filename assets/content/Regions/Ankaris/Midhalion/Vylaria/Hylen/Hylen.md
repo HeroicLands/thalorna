@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Hylen is the land that feeds the empire. It is the territory of the [[affiliation-provnchyln|Province of Hylen]] in the [[affiliation-vylarinmpr|Vylarian Empire]], seven million people on the fertile lowlands and terraced hillsides of [[place-vylariargn|Vylaría Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantia]].
+Grain, wine and olive oil: the empire lives on what Hylen grows. It is the territory of the [[affiliation-provnchyln|Province of Hylen]] in the [[affiliation-vylarinmpr|Vylarian Empire]], seven million people on the fertile lowlands and terraced hillsides of [[place-vylariargn|Vylaría Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantia]].
 
 An estate steward, riding the boundary with a newly hired bailiff on his first morning, gives the whole lesson in a few sentences: "Everything between this road and that ridge belongs to the house. Everything past the ridge belongs to the neighbors, and they sit in the Senate too. Between us we send the capital its bread, and in all my years nobody in Magnápolis has asked how it gets there."
 

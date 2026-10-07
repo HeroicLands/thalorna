@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Mercavia is the largest city of [[affiliation-provincvld|Vald]], its provincial capital, and the busiest commercial harbor still under imperial control. With about fifty thousand people it is the empire's great trading face to the sea.
+Mercavia is the busiest commercial harbor still under imperial control. With about fifty thousand people it is the largest city of [[affiliation-provincvld|Vald]] and its provincial capital, the trading face the province shows to the sea.
 
 A Haradian factor who has kept a counting-room in its foreign quarter for twenty years describes the quays to a newly arrived partner: "Merchantmen two deep along the wharves, warehouses full of goods bound inland and abroad, and our quarter and the Heliónite one a short walk apart. The shipping houses of Vald keep their counting-rooms here, and since Harad's secession squeezed their eastern trade they have been loud about wanting it back."
 

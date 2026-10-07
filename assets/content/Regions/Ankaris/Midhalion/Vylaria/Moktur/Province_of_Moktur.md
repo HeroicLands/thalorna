@@ -78,7 +78,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-Moktur is the empire's northern shield, a mountainous province on the [[place-vrystwald|Vrystwald]] border that answers for the defense of the frontier against Varokh raids and incursions. Its military governors command wide autonomy, and some behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its governor sits at [[place-tyrellan|Tyrellan]].
+In the Province of Moktur the governor is a soldier, and some governors behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vrystwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military governors command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its governor sits at [[place-tyrellan|Tyrellan]].
 
 ## Character
 

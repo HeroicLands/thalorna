@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Solheim is a coastal pilgrimage town of about three thousand in [[affiliation-provincvld|Vald]], and it draws the faithful to a shrine above the sea. It is quieter than the fishing towns and far quieter than the great ports, and it lives on the pilgrim trade: lodging-houses, votive-sellers, and the offerings left at the shrine.
+A shrine above the sea draws the faithful to Solheim, a coastal pilgrimage town of about three thousand in [[affiliation-provincvld|Vald]]. It is quieter than the fishing towns and far quieter than the great ports, and it lives on the pilgrim trade: lodging-houses, votive-sellers, and the offerings left at the shrine.
 
 A pilgrim who has made the walk up from the coast road to the shrine tells a first-timer to go in the morning, when the lodging-houses are still quiet and the climb is cool, and to buy the votive from the sellers at the top of the town rather than the bottom. The sellers at the bottom, she says, know exactly who is tired.
 

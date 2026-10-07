@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Vald is the empire's face to the sea. It is the land of the [[affiliation-provincvld|Province of Vald]] of the [[affiliation-vylarinmpr|Vylarian Empire]]: five million people on the coast of [[place-vylariargn|Vylaría Region]] along the [[place-vylarianse|Vylarian Sea]], a working shore of shipyards, naval bases and fishing towns with agrarian estate-country behind it. Its seat is [[place-mercavia|Mercavia]].
+The coast of [[place-vylariargn|Vylaría Region]] along the [[place-vylarianse|Vylarian Sea]] is a working shore of shipyards, naval bases and fishing towns, with agrarian estate-country behind it. This is Vald, the land of the [[affiliation-provincvld|Province of Vald]] of the [[affiliation-vylarinmpr|Vylarian Empire]], and five million people live here. Its seat is [[place-mercavia|Mercavia]].
 
 A Mercavia sailing master, taking a new mate along the quays on his first morning, gives him the lay of the province in one pass: "Warships that way, at Castamar. Merchantmen here. Fishing boats everywhere in between, and every one of them is feeding somebody in Magnápolis who has never seen the sea. Learn which harbor you're in before you talk to anyone, because the three of them want different things from you."
 

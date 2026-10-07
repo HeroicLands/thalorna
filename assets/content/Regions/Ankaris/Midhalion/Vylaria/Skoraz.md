@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], government: vylarinmpr, p
 
 ## Overview
 
-Skoraz is one of the lesser cities of the [[affiliation-vylarinmpr|Empire of Vylaria]], large enough to carry a provincial administration, local courts and a set of old houses who measure themselves against one another. It lies far enough from the capital that a family's name counts for more in its courts than in any ledger at [[place-magnapolis|Magnápolis]]. Its life is the life of the empire's provinces: magistrates, bureaucrats, land, and the slow rise and fall of houses.
+In Skoraz a family's name counts for more in the courts than in any ledger at [[place-magnapolis|Magnápolis]], because the city lies far enough from the capital. It is one of the lesser cities of the [[affiliation-vylarinmpr|Empire of Vylaria]], large enough to carry a provincial administration, local courts and a set of old houses who measure themselves against one another. Its life is the life of the empire's provinces: magistrates, bureaucrats, land, and the slow rise and fall of houses.
 
 ## Houses Rising and Falling
 

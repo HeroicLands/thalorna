@@ -17,7 +17,7 @@ data:
 # terran_analog: The Mediterranean Sea
 ---
 
-The Vylarian Sea is the water at the heart of [[place-midhalnrgn|Mídhalión]], and the central civilizations of Thalorna have arranged themselves around it for three thousand years. [[place-ankrscntnnt|Ankaris]] encloses it to the north and [[place-xerathia|Xerathia]] to the south, and it opens on the ocean only through a narrow western strait. It is a highway, a frontier, a marketplace and a battleground at once. Every empire that has tried to dominate the central continents has tried to dominate this sea first, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself partly by how it stands on these waters.
+For three thousand years the central civilizations of Thalorna have arranged themselves around the water at the heart of [[place-midhalnrgn|Mídhalión]], the Vylarian Sea. [[place-ankrscntnnt|Ankaris]] encloses it to the north and [[place-xerathia|Xerathia]] to the south, and it opens on the ocean only through a narrow western strait. It is a highway, a frontier, a marketplace and a battleground at once. Every empire that has tried to dominate the central continents has tried to dominate this sea first, and every successor-state of the [[affiliation-vylarinmpr|Vylarian Empire]] defines itself partly by how it stands on these waters.
 
 The sea gives its name to the empire that once ruled it and to the region that still has its economic shape, and its trade pidgin is spoken in every port. To sail it is to enter the common life of two continents.
 
