@@ -148,6 +148,6 @@ The company serves a game master in several ways:
 
 - [[place-zumeleshrvr|The Zumélesh]]—the river whose southern reach the company holds
 - [[affiliation-igelnaru|Faith of Igel'Nâru]]—the river god the hunt appeases
-- [[affiliation-tjelsuk|Faith of Tjelsuk]]—the crocodile cult, aligned with the hunt
+- [[affiliation-tjelsuk|Faith of Tjelsur]]—the crocodile cult, aligned with the hunt
 - [[affiliation-garnuw|Gar'Nuw]]—the guild that licenses the river's professional cullers
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods

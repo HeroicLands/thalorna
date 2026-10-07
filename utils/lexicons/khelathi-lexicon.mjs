@@ -20,7 +20,7 @@
  * specification are one document, and a rule the note stops stating is a rule the
  * guard stops enforcing.
  *
- * Six predicates:
+ * Seven predicates:
  *
  * 1. **A word ends in a vowel or in `n`, `t`, `s`, `r`.** A prefix ending in `-`
  *    and a suffix opening with one are bound morphemes and close no word, so
@@ -38,11 +38,17 @@
  *    broken off after its second vowel, that vowel held long. Every row of the
  *    note's worked table is that form of its given name, and every Khelâthi being
  *    whose given name reaches the threshold carries it among its aliases.
+ * 7. **No note writes a retired form.** A form the note's retired table lists,
+ *    written in any note of the content tree, is an error at the place it is
+ *    written. Marks are ignored and case is kept, so an address, which is lower
+ *    case, never matches. A literature note, a poetry fence, a `terran_analog`
+ *    comment and the retired table itself are not read.
  */
 
 import fs from "node:fs";
 import path from "node:path";
 import YAML from "yaml";
+import { retiredIn } from "./vedyari-lexicon.mjs";
 
 export const NOTE = "assets/content/Skills/Languages/Khelathi.md";
 
@@ -170,7 +176,20 @@ export function lexiconFrom(text) {
         const [heading, ...body] = chunk.split("\n");
         lists.set(heading.trim(), bullets(body.join("\n")));
     }
-    return { elements, gods, houseForms, places, bound, words, lists };
+    // The forms retired from the setting, and the span of the note that lists them.
+    const retiredHeading = "### Retired names";
+    const retiredBody = text.includes(`\n${retiredHeading}\n`) ? section(text, retiredHeading) : "";
+    const retiredFrom = retiredBody ? text.indexOf(`\n${retiredHeading}\n`) + 1 : -1;
+    const retired = rows(retiredBody)
+        .map((cells) => ({
+            name: ticked(cells[0])[0] ?? "",
+            instead: ticked(cells[1] ?? "")[0] ?? null,
+        }))
+        .filter((one) => one.name);
+    const retiredAt =
+        retiredBody ? { from: retiredFrom, to: retiredFrom + retiredBody.length } : null;
+
+    return { elements, gods, houseForms, places, bound, words, lists, retired, retiredAt };
 }
 
 /** A vowel run: one syllable, however many letters spell it. */
@@ -275,13 +294,47 @@ export function khelathiBeings(root = CONTENT) {
 }
 
 /**
- * Every finding over the note and the beings that speak it.
+ * Every note of the content tree, and whether it is a literature note.
+ *
+ * @param {string} [root] - The content tree.
+ * @returns {{file: string, text: string, literature: boolean}[]} The notes.
+ */
+export function contentTexts(root = CONTENT) {
+    const out = [];
+    for (const file of markdownFiles(root)) {
+        const text = fs.readFileSync(file, "utf8");
+        const head = text.match(/^---\n([\s\S]*?)\n---/);
+        let front = null;
+        try {
+            front = head ? YAML.parse(head[1]) : null;
+        } catch {
+            front = null;
+        }
+        out.push({
+            file: path.relative(process.cwd(), file).split(path.sep).join("/"),
+            text,
+            literature: front?.type === "lore" && front?.subType === "literature",
+        });
+    }
+    return out;
+}
+
+/** The 1-based line and column of an offset into a text. */
+function lineColumn(text, offset) {
+    const before = text.slice(0, offset).split("\n");
+    return { line: before.length, column: before.at(-1).length + 1 };
+}
+
+/**
+ * Every finding over the note, the beings that speak it and the notes of the tree.
  *
  * @param {string} text - The language note.
  * @param {{file: string, line: number, given: string, aliases: string[]}[]} beings - The beings.
+ * @param {{file: string, text: string, literature: boolean}[]} [texts] - The notes read for
+ *   retired forms. The language note among them is read as `text`, its retired table skipped.
  * @returns {string[]} One finding per line.
  */
-export function analyse(text, beings) {
+export function analyse(text, beings, texts = []) {
     const lex = lexiconFrom(text);
     const out = [];
     const report = (literal, severity, message) =>
@@ -398,12 +451,30 @@ export function analyse(text, beings) {
             );
         }
     }
+
+    // 7. No note writes a retired form.
+    for (const note of texts) {
+        if (note.literature) continue;
+        const own = path.resolve(note.file) === path.resolve(NOTE);
+        const body = own ? text : note.text;
+        const skip = own && lex.retiredAt ? [lex.retiredAt] : [];
+        for (const hit of retiredIn(body, lex.retired, skip)) {
+            const { line, column } = lineColumn(body, hit.at);
+            const instead =
+                hit.instead ?
+                    `the setting writes \`${hit.instead}\``
+                :   "and the setting writes none in its place";
+            out.push(
+                `${note.file}:${line}:${column}: error: \`${hit.written}\` is a retired form; ${instead}`,
+            );
+        }
+    }
     return out;
 }
 
 function main() {
     const text = fs.readFileSync(NOTE, "utf8");
-    const out = analyse(text, khelathiBeings());
+    const out = analyse(text, khelathiBeings(), contentTexts());
     for (const line of out) console.error(line);
     if (out.length) {
         console.error(`${out.length} Khelâthi lexicon finding(s).`);
@@ -412,7 +483,8 @@ function main() {
         const lex = lexiconFrom(text);
         console.log(
             `The note publishes ${lex.elements.length} element form(s), ${lex.gods.length} gods, ` +
-                `${lex.places.length} place morphemes and ${[...lex.lists.values()].flat().length} names.`,
+                `${lex.places.length} place morphemes, ${[...lex.lists.values()].flat().length} names ` +
+                `and ${lex.retired.length} retired forms.`,
         );
     }
 }
