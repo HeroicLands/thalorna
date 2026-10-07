@@ -75,7 +75,7 @@ hands.
 It reached further than craft. Both peoples honored [[lore-goddreams|the god of dreams]] together, or at
 least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
 with it. The Khazári also venerate the god's servant
-[[lore-khazararrv|Pathakan]], who led the seven clans out of Humadhan and saved their people, and the
+[[lore-khazararrv|Puthakun]], who led the seven clans out of Humadhan and saved their people, and the
 Sinalë give him no honor at all. The two traditions have diverged so completely since that whether the Sinalë's
 Aulveira and the Khazári's Luváth would recognize each other's rites is an
 open question, and one neither race has any interest in answering.

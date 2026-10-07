@@ -27,7 +27,7 @@ data:
       accounts:
         - by: lore-flkkhazar
           says: >-
-            We came from Humadhan, the middle place, where a great war between the powers of good and evil forged rings that warp the mind and the soul; some were given to our ancestors and corrupted them, and seven clans fled with Luváth, saved by Pathakan, the god's servant, who led us out, held the passage behind us and sealed it. A Khazár can recite a line back to one of the seven without hesitation or notes.
+            We came from Humadhan, the middle place, where a great war between the powers of good and evil forged rings that warp the mind and the soul; some were given to our ancestors and corrupted them, and seven clans fled with Luváth, saved by Puthakun, the god's servant, who led us out, held the passage behind us and sealed it. A Khazár can recite a line back to one of the seven without hesitation or notes.
           agrees: partly
           withholds: the tale of Humadhan beyond its outline, which they seldom tell
         - by: lore-flksinale
@@ -48,12 +48,12 @@ _kirghathez_. Some were given to the Khazári's ancestors, and the rings corrupt
 to Thalorna with their god [[lore-goddreams|Luváth]], and that flight is the crossing, the _khadhal_,
 of about 5300 BF.
 
-The flight had a leader, and the Khazári hold him to be the one who saved their people. **Pathakan**,
+The flight had a leader, and the Khazári hold him to be the one who saved their people. **Puthakun**,
 a servant of Luváth, led the seven clans out of Humadhan, and his name carries the charge "to open a
 way". Before the crossing he had every one of the clans swear before the god.
 When pursuit came after them, he stood at the passage and held the pursuers there until the last of
 the seven was through, and then he sealed the way behind them, so that nothing of Humadhan followed
-the clans into Thalorna. Every Khazár alive descends from someone Pathakan brought out alive, and
+the clans into Thalorna. Every Khazár alive descends from someone Puthakun brought out alive, and
 that is the whole reason the Khazári venerate him: as their savior, the one who did the deed, whose
 name is kept, remembered below and answered with good work. Luváth they recognize as his master and
 as the light kept below. The deed is carried in the tellings; the record of the crossing counts the
