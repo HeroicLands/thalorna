@@ -3,18 +3,18 @@ shortcode: kethara2
 name: {full: Kethara, aliases: []}
 type: place
 subType: settlement
-description: "The Confederation's naval stronghold on the strait to the archipelago, where admirals' families govern and independence-war veterans wait on promises."
+description: "The Confederation's naval stronghold on the narrows between the islands of Harad, where admirals' families govern and independence-war veterans wait on promises."
 tags: [city, naval]
 data: {demonym: null, lore: [], parents: [haradregin], population: 180000, government: kethara}
 ---
 
 ## Overview
 
-Every year Kethara holds its **Fleet Review**, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the Battle of [[place-tamzirshoals|Tamzîr Shoals]] and draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], because Kethara built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the strait between the mainland of [[place-haradregin|Harad]] and the Haradian archipelago. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
+Every year Kethara holds its **Fleet Review**, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the Battle of [[place-tamzirshoals|Tamzîr Shoals]] and draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], because Kethara built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the narrows between the islands of [[place-haradregin|Harad]]. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
 
 ## The Fortress and the Yards
 
-The **Strait Fortress**, a massive coastal fortification, commands the passage to the archipelago, and no hull goes through the strait without passing under its walls. The **Naval Yards** build and maintain the Confederation's warships. The city's admirals command the most powerful of those warships, and its marine infantry are the nearest thing Harad has to a professional standing army.
+The **Strait Fortress**, a massive coastal fortification, commands the passage through the archipelago, and no hull goes through the narrows without passing under its walls. The **Naval Yards** build and maintain the Confederation's warships. The city's admirals command the most powerful of those warships, and its marine infantry are the nearest thing Harad has to a professional standing army.
 
 ## Who Governs
 

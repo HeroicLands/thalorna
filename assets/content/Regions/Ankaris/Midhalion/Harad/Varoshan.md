@@ -3,7 +3,7 @@ shortcode: varoshan
 name: {full: Varoshan, aliases: []}
 type: affiliation
 subType: polity
-description: "Easternmost city-state of Harad at the crossroads of coastal and caravan routes—dusty, polyglot gateway where Haradian merchants negotiate with Dunhari caravaneers and desert nomads."
+description: "Easternmost city-state of Harad, facing the mainland across the strait, at the crossroads of sea and caravan routes—dusty, polyglot gateway where Haradian merchants negotiate with Dunhari caravaneers and desert nomads."
 data:
   templatePriority: null
   demonym: Varoshanian
@@ -71,7 +71,7 @@ data:
 sohl: {system: {commonSkills: [haradilng, dunharlng]}}
 ---
 
-Varoshan's council keeps seats for men who do not live in the city. Representatives of the inland tribes sit on it beside the urban merchants, because Varoshan lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-varoshan2|Varoshan]], the [[affiliation-cnfdrtnhrdnstts|Confederation's]] gateway to the east, and some 2.3 million people: a sprawling, dusty, polyglot country where Haradian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as [[place-vedyarargn|Vedyara Region]] and [[place-byzariargn|Byzaría Region]].
+Varoshan's council keeps seats for men who do not live in the city. Representatives of the hill tribes sit on it beside the urban merchants, because Varoshan lives by its dealings with peoples who do not recognize guild authority and will not deal with guild enforcers. The city-state holds the city of [[place-varoshan2|Varoshan]], the [[affiliation-cnfdrtnhrdnstts|Confederation's]] gateway to the east, and some 2.3 million people: a sprawling, dusty, polyglot country where Haradian merchants bargain with Dunhari caravaneers, Khazryn nomads and, now and then, traders from as far as [[place-vedyarargn|Vedyara Region]] and [[place-byzariargn|Byzaría Region]].
 
 ## Who Decides
 

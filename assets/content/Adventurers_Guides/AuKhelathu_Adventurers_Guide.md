@@ -166,7 +166,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can arrive by sea into the delta, by caravan from [[affiliation-mtrrchybth|Bethûa]] or [[affiliation-cnfdrtnhrdnstts|Harad]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
+A party can arrive by sea into the delta, perhaps on a [[affiliation-cnfdrtnhrdnstts|Haradian]] hull, by caravan from [[affiliation-mtrrchybth|Bethûa]], or by riverboat with the cargo. Start where the journey meets a claim: a boat cannot pass until its manifest is produced, a survey crew needs a witness, or a household asks a stranger to carry word upriver. At the first temple, market or toll post, three questions place a character in the empire: **What is entered against your name? Which hand were you taught? Whose house speaks for you?**
 
 Campaigns here start well from an open entry. Someone died with something unclosed and the party is asked, hired or compelled to close it. A house claims a name it cannot prove. An archive burns and half a province's obligations become arguable. A foreign patron wants something done that cannot be entered, and finding a way to do it undocumented is the job.
 

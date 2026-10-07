@@ -102,7 +102,7 @@ To the **west** lies [[place-vrystwald|Vrystwald]]—the Varokh forest country b
 
 To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn confederations conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great khan rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
 
-To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther southeast, beyond the Khazryn, lie the [[affiliation-sultntmrdd|Sultanate of Amradad]] and the broader [[place-dunharargn|Dunhara]].
+To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-sultntmrdd|Sultanate of Amradad]] on the eastern shore of the Vylarian Sea and the broader [[place-dunharargn|Dunhara]].
 
 ## See Also
 
