@@ -30,7 +30,7 @@ data:
         title: Ilthorinno
         lore: tindesarrnk
         description: >-
-          Newly called to learn dream-reading, healing and the tending of groves under a Ansorunno's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
+          Newly called to learn dream-reading, healing and the tending of groves under an Ansorunno's guidance, in a bond closer to apprentice and mentor than to subordinate and superior.
       - level: 3
         title: Ansorunno
         lore: calathirrnk

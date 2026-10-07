@@ -23,7 +23,7 @@ He may attend the Blessing of Light and the Night of Dreams, and receive the pri
 
 ## Obligations
 
-None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service a Ilthorinno takes up.
+None beyond attending the rites he takes part in; the faith asks nothing further of the faithful short of a call to the deeper service an Ilthorinno takes up.
 
 ## Offices Open at This Standing
 
