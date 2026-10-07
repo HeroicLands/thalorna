@@ -55,7 +55,7 @@ An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylari
 
 **Secondary influence:**
 
-- Eastern [[affiliation-cnfdrtnhrdnstts|Harad]]—significant following among eastern city-states and inland tribes
+- Eastern [[affiliation-cnfdrtnhrdnstts|Harad]]—significant following among eastern city-states and hill tribes
 - [[place-byzariargn|Byzaría]]—presence among merchant communities with eastern connections
 
 ## [[affiliation-khelathpnthn|Khelâthi Pantheon]]

@@ -434,7 +434,7 @@ The naqîr of the compact, an old timber-dealer who has said in council that a w
 
 1. **The Keel**—A galley built on a keel Nûlazî refused and another timberwright passed has broken its back in the first heavy sea. The yard wants her to say so before the compact; the naqîr wants her silent.
 
-2. **The Hill Stand**—The best oak she has found in years stands on ground the inland tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
+2. **The Hill Stand**—The best oak she has found in years stands on ground the hill tribes up the valley say is theirs, and the compact's charter says nothing about tribes.
 
 3. **The Examination**—The compact has called Nûlazî to re-examination on a complaint about her marks. The complaint is the naqîr's, and the examiners are his.
 

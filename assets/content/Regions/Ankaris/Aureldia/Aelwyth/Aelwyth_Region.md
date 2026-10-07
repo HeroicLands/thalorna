@@ -6,7 +6,7 @@ subType: region
 description: "Great island off Élavendre's western coast—deeply legendary. The Peshtar Wilderness occupies the west, the kingdom-belt the east, joined at the misty north."
 data: {demonym: null, lore: [], parents: [aureldirgn], population: 710000, packFolder: aelwyth}
 
-# terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the Scottish-and-southern-British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
+# terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
 ---
 
 Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as Stormveld and Tarvenne. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
@@ -279,7 +279,7 @@ Three things about that table matter more than the numbers.
 
 **Stormveld is not an Aelwythan realm.** Nordmen took the north-east some sixty years ago and enslaved
 the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are native thralls. A
-Nordmen holding a third of the island's settled people sits a hundred and twenty sea-miles from
+Nordmen holding a third of the island's settled people sits under four hundred sea-miles from
 [[place-elavendre|Élavendre]], which explains a good deal of Élavendren foreign policy.
 
 **Aldorath is the largest**, with Stormveld and Tarvenne close behind, and the most conventionally feudal: four in five of its people are

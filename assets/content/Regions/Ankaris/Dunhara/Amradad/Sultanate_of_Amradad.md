@@ -3,7 +3,7 @@ shortcode: sultntmrdd
 name: {full: Sultanate of Amradad, aliases: [Amradad]}
 type: affiliation
 subType: polity
-description: "Sultanate ruling the Dunhara Desert—settled kingdom of oases, merchant cities, and Islamic-flavored culture distinct from the nomadic tribes."
+description: "Sultanate on the eastern shore of the Vylarian Sea, in the north-western Dunhara—settled kingdom of oases, merchant cities, and an Āsháian court culture distinct from the nomadic tribes."
 data:
   templatePriority: null
   demonym: Amradi
@@ -74,7 +74,8 @@ data:
   relations:
     ashanpnthn: aligned
     dunhartrbs: unaligned
-    cnfdrtnhrdnstts: unaligned
+    cnfdrtnhrdnstts: aligned
+    vylarinmpr: rival
     vindhyalay: unaligned
   packFolder: amradad
 sohl: {system: {commonSkills: [dunharlng]}}
@@ -84,15 +85,17 @@ sohl: {system: {commonSkills: [dunharlng]}}
 
 ## Overview
 
-The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation—a settled, urban, and comparatively wealthy state built around a cluster of major oases in the heart of the desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.
+The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation—a settled, urban, and comparatively wealthy state built around a cluster of major oases in the north-western Dunhara, between the eastern shore of the [[place-vylarianse|Vylarian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.
 
 ## Character
 
-Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes—the point where the roads from [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-byzariargn|Byzaría Region]], [[place-vedyarargn|Vedyara Region]], and the [[place-khzryndsrtrgn|Khazryn Desert Region]] all converge. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.
+Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes—the point where the roads from [[place-byzariargn|Byzaría Region]], [[place-vedyarargn|Vedyara Region]], and the [[place-khzryndsrtrgn|Khazryn Desert Region]] all converge on the coast that faces the islands of [[affiliation-cnfdrtnhrdnstts|Harad]] across the strait. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.
 
 The Sultan's court is a center of learning and patronage. Scholars of theology, astronomy, mathematics, and medicine gather in Amradad's libraries and academies. The [[affiliation-ashanpnthn|Āsháian Pantheon]] faith finds its most elaborate expression here—the great fire-temples of Amradad are architectural wonders, and the theological debates of its priestly scholars set the standard for Āsháian orthodoxy.
 
 Amradad's relationship with the nomadic tribes is complicated. The Sultan claims authority over all Dunhari peoples; the tribes consider this claim laughable. In practice, the two coexist through a web of trade agreements, marriage alliances, and carefully negotiated border arrangements. The Sultan's standing army is strong enough to defend the oases but not to project power into the open desert, where the nomads are uncatchable.
+
+Across the strait from the Sultanate's coast lie the islands of the Confederation of Haradian States, and relations with them are cordial. The Sultanate's relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been antagonistic, and when Harad, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped the Haradians win their breakaway.
 
 ## Commerce and Currency
 

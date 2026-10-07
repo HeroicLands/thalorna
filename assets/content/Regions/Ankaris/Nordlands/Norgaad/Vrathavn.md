@@ -18,7 +18,7 @@ data:
 
 At Vrathavn the bells come first: dawn and dusk, every day, as reliable as the tide, and everything else in the town keeps their time. Iron bells hang from the stone-faced watchtowers of the town's timber palisade, and their chiming sets the day of about 800 people.
 
-Vrathavn is [[place-norgaad|Norgaad]]'s principal port on the southern coast, a fortified settlement built around a natural harbor protected by towering headlands. The name is the Temper-Haven: _vrath-_ is the temper iron takes from the fire, and the town gives the name its due. The streets are laid out with military precision, and a longship berth can shelter a dozen raiders at a time.
+Vrathavn is [[place-norgaad|Norgaad]]'s principal port on the northern coast, a fortified settlement built around a natural harbor protected by towering headlands. The name is the Temper-Haven: _vrath-_ is the temper iron takes from the fire, and the town gives the name its due. The streets are laid out with military precision, and a longship berth can shelter a dozen raiders at a time.
 
 ## The Shield-Hall
 
@@ -32,6 +32,6 @@ A smith of Vrathavn is the center of one of the kingdom's grimmer tales, of a gu
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose southern port it is
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]]—the kingdom whose principal port it is
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the north
 - [[lore-nrgadhstry|Histories and Legends of Norgaad]]—the Iron-Man of Vrathavn

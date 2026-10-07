@@ -112,7 +112,7 @@ To the **south** stands the [[place-graznmntns|Grazian]] wall and, below it, [[p
 
 To the **east** lie the passes that lead to [[place-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade, and Tānvür has spent centuries managing its frontier with the easternmost of them as a permanent strategic problem.
 
-To the **northwest** lies [[place-vrystwald|Vrystwald]] across a long mountain-and-forest frontier. Contact is sparse—the mountains are bad terrain for everyone, and the Varokh forest tribes have little appetite for the open steppe—but the few crossings that exist carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous cross-border culture along this frontier.
+To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vrystwald]]. Contact is sparse—the two are nearly a thousand miles apart, and the Varokh forest tribes have little appetite for the open steppe—but the few routes that cross Velanthia carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous contact between the two.
 
 ## See Also
 

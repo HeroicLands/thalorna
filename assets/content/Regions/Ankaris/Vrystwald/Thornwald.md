@@ -13,7 +13,7 @@ data:
   routes:
     - {to: edrwald, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: skathwald, bearing: E, mode: land, days: 45, terrain: [forest]}
-    - {to: vrystwldrvrs, bearing: SW, mode: boat, days: 90, terrain: [river]}
+    - {to: vrystwldrvrs, bearing: SW, mode: boat, days: 20, terrain: [river]}
   packFolder: vrystwald
 ---
 

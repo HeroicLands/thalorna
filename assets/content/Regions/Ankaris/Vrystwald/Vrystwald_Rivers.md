@@ -10,8 +10,8 @@ data:
   parents: [vrystwald]
   population: null
   routes:
-    - {to: falkhaven, bearing: W, mode: boat, days: 90, terrain: [river]}
-    - {to: thornwald, bearing: NE, mode: boat, days: 90, terrain: [river]}
+    - {to: falkhaven, bearing: W, mode: boat, days: 20, terrain: [river]}
+    - {to: thornwald, bearing: NE, mode: boat, days: 20, terrain: [river]}
   packFolder: vrystwald
 ---
 

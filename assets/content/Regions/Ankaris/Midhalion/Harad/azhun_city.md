@@ -3,7 +3,7 @@ shortcode: azhun2
 name: {full: Azhûn, aliases: []}
 type: place
 subType: settlement
-description: "A white-walled port at the mouth of the Alz River whose guilds govern the flow of goods between the desert, the inland cities and the sea."
+description: "A white-walled port at the mouth of the Alz River whose guilds govern the flow of goods between the desert trade, the island towns and the sea."
 tags: [port, city]
 data: {demonym: null, lore: [], parents: [haradregin], population: 200000, government: azhun}
 ---
@@ -14,7 +14,7 @@ The harbor at Azhûn never sleeps. The city sprawls along a natural harbor at th
 
 ## What It Does
 
-Azhûn is the conduit through which goods flow between the Dunhari desert, the caravan towns of the interior and the sea routes that connect [[affiliation-cnfdrtnhrdnstts|Harad]] to the western realms. One of the five coastal city-states of the Confederation, it earns its living from what passes through it.
+Azhûn is the conduit through which goods flow between the Dunhari desert trade that crosses the strait, the market towns of the islands and the sea routes that connect [[affiliation-cnfdrtnhrdnstts|Harad]] to the western realms. One of the five island city-states of the Confederation, it earns its living from what passes through it.
 
 ## Who Governs
 
