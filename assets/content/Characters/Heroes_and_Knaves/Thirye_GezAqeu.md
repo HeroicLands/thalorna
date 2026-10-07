@@ -481,7 +481,7 @@ Thirye is driven by an insatiable hunger to create beauty and truthfulness in ar
 Lord Architect [[being-amqelenset2|Amqelenset]]
 : A powerful nobleman and principal patron of the City Theater Company who is captivated by Thirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
-Master Playwright Qelti
+Master Playwright Khelemûr
 : Lin'Shelun elu Galezkara's head writer who has become something of a mentor figure and advocate; he deliberately writes roles showcasing Thirye's particular gifts and has begun to champion her for imperial commissions.
 
 Priestess [[being-lintayet2|Lintayet]]

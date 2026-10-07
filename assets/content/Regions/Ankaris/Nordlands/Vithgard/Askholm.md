@@ -1,8 +1,8 @@
 ---
-shortcode: brildholm
-name: {full: Brildholm, aliases: []}
+shortcode: askholm
+name: {full: Askholm, aliases: []}
 type: place
-subType: site
+subType: feature
 description: "The skerry off Dvarnvík where eleven people accused of working the winds were burned, forty-one years ago."
 tags: [draft]
 data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: vithgard}
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: 
 
 ## Overview
 
-Brildholm is a bare skerry in the waters off [[place-dvarnvik|Dvarnvík]] in [[place-vithgard|Vithgard]], and nobody lives on it. Forty-one years ago, after a winter of failed whaling, a ting at Dvarnvík accused eleven people of working the winds, and all eleven were burned here: seven women, two plateau men who had sold wind-knots, and two Dvarnvík men accused of _ergi_. The boatmen who row past it still name the rock and say nothing more.
+Askholm is a bare skerry in the waters off [[place-dvarnvik|Dvarnvík]] in [[place-vithgard|Vithgard]], and nobody lives on it. Forty-one years ago, after a winter of failed whaling, a ting at Dvarnvík accused eleven people of working the winds, and all eleven were burned here: seven women, two plateau men who had sold wind-knots, and two Dvarnvík men accused of _ergi_. The boatmen who row past it still name the rock and say nothing more.
 
 ## The Judgment That Survived
 
@@ -19,4 +19,4 @@ Brildholm is a bare skerry in the waters off [[place-dvarnvik|Dvarnvík]] in [[p
 ## See Also
 
 - [[place-dvarnvik|Dvarnvík]]—the town whose ting made the accusation
-- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the Burning at Brildholm
+- [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the Burning at Askholm

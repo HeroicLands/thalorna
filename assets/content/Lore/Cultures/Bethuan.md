@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Bethûan—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Maghreb and Carthage (Mediterranean coast shading into the Saharan interior): a naval, mercantile coast state. Carries over: seafaring, fleets and privateering, a patron relationship with the Nile-valley empire. Departs: a matriarchy in which men are property, with sworn eunuch-warriors (Spádai) as the one armed exception and a women's open-hand martial art; no real-world counterpart for that order."
 ---
 
 Bethûa is a matriarchy, and not the gentle kind a foreigner imagines on hearing the word. Property, title and authority pass from mother to daughter; men hold no political, religious or military standing; and—uniquely among the realms of the region—men hold no standing as free persons either. A Bethûan explains this without embarrassment, because to her it is not a policy but the order of things, sanctioned by goddesses, and the arrangements she sees in foreign ports strike her as both unnatural and badly run.
@@ -37,9 +39,9 @@ Above the army stands the fleet, which is what Bethûa is actually famous for: t
 
 ## The Goddesses on the Bench
 
-Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Jánus, a smith to the Sacred Forge, a sailor to Táranon. What is distinctively Bethûan is the state cult.
+Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Árdavon, a smith to the Sacred Forge, a sailor to Táranon. What is distinctively Bethûan is the state cult.
 
-Sacred authority descends through goddesses: Lúsinía of creation and beauty, who is the sovereign's own patron; Aethería of dreams and the unseen; Vénusia of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Mêtríssa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethûan finds this any stranger than that a fisherman does not sit in the Council of Houses.
+Sacred authority descends through goddesses: Lúsinía of creation and beauty, who is the sovereign's own patron; Aethería of dreams and the unseen; Ólvenía of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Mêtríssa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethûan finds this any stranger than that a fisherman does not sit in the Council of Houses.
 
 ## Learning and the Foreign Eye
 

@@ -14,11 +14,11 @@ Fródfjall is a sacred mountain of the [[place-nrdlndsrgn|Nordlands]] held from 
 
 ## The Climb and the Waters
 
-The saga of [[being-brldsldsnsblsng|Brildselda Sunna's Blessing]] is the account every pilgrim hears before the climb. After a long war had turned the fields to ash and the rivers dry, she went up the mountain, met the spirit at the summit, and offered her own life for the renewal of the land; moved by the offer, the spirit let her take the waters unharmed, and the fields bloomed again. The temple counts her its most gifted healer, supplies and trains her, and she carries a crystal phial of the summit water at her neck that keeps some of its restorative power.
+The saga of [[being-brldsldsnsblsng|Brildselda Sun-Blessed]] is the account every pilgrim hears before the climb. After a long war had turned the fields to ash and the rivers dry, she went up the mountain, met the spirit at the summit, and offered her own life for the renewal of the land; moved by the offer, the spirit let her take the waters unharmed, and the fields bloomed again. The temple counts her its most gifted healer, supplies and trains her, and she carries a crystal phial of the summit water at her neck that keeps some of its restorative power.
 
 The danger the temple fears most is to the source itself. If the summit waters were ever poisoned, the temple's healing would fade with them, and someone would have to go up the mountain again to face whatever had fouled them.
 
 ## See Also
 
-- [[being-brldsldsnsblsng|Brildselda Sunna's Blessing]]—the temple's most gifted healer
+- [[being-brldsldsnsblsng|Brildselda Sun-Blessed]]—the temple's most gifted healer
 - [[affiliation-frodvin|Faith of Fródvin]]—the faith whose temple keeps the mountain

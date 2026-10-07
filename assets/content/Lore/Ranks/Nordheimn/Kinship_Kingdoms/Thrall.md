@@ -11,7 +11,7 @@ Owned outright, owing labor rather than rent and holding no voice at the ting, i
 
 ## What This Standing Is
 
-A thrall is a man owned outright, bought or taken rather than born free. The Nordmen buy people at Skarnethra and along the **Nalthmark** road, and what a thrall owes his owner is labor itself rather than a share of what his labor produces.
+A thrall is a man owned outright, bought or taken rather than born free. The Nordmen buy people at [[place-kruldheim|Kruldheim]] and along the [[place-nalthmark|Nalthmark]] road, and what a thrall owes his owner is labor itself rather than a share of what his labor produces.
 
 ## How the Law Treats a Person Here
 

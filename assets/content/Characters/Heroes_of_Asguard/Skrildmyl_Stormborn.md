@@ -396,7 +396,7 @@ Skrildmýl is a natural leader whose presence on the battlefield can turn the ti
 
 ### Enemies
 
-**Jarl Skarpi Wolfson**—A rival clan leader who views Skrildmýl's unification efforts as a threat to his own power. Skarpi has been building alliances with other jarls to oppose Skrildmýl.
+**Jarl Vrathann Wolfson**—A rival clan leader who views Skrildmýl's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrildmýl.
 
 **The Winter Witch**—A mysterious sorceress who claims the storms that beset Skrildmýl's village were her doing, not Thrúnvald's test. She hints at darker plans for the northern lands.
 

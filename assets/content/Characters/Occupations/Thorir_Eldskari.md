@@ -407,7 +407,7 @@ Thórir is respected by guards and soldiers, invisible to most nobility, and reg
 
 ### Enemies
 
-**Lord Kael Draven**—A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Draven is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thórir into increasingly harsh discipline, and when Thórir did not comply, Draven began spreading rumors that Thórir is "soft" and "a relic of the old guard." Thórir ignores this, which infuriates Draven more than direct confrontation would.
+**Lord Cynewulf Draven**—A younger noble who arrived at Stormveil five years ago as the regional lord's military advisor. Draven is ambitious, aristocratic, and disdainful of soldiers who serve for pay. He has attempted to force Thórir into increasingly harsh discipline, and when Thórir did not comply, Draven began spreading rumors that Thórir is "soft" and "a relic of the old guard." Thórir ignores this, which infuriates Draven more than direct confrontation would.
 
 ## Plot Hooks
 

@@ -52,11 +52,11 @@ _Nordmal: Eidhönd—"the Oath-Hand"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-eidgar|Eidgar]]—Asguardian god of law, oath, and just war
-- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at [[place-logstead|Lögstead]] in Vithgard
+- **Region:** [[place-nrdlndsrgn|The Nordlands]]—chapter halls in each of the five kingdoms, with the order's mother-hall at [[place-logstead|Lögstead]] in [[place-vithgard|Vithgard]]
 
 ## Overview
 
-The Order of the Sworn Hand is the militant arm of Eidgar's faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
+The Order of the Sworn Hand is the militant arm of [[lore-eidgardty|Eidgar]]'s faith—a sworn brotherhood and sisterhood of warrior-judges whose vocation is to ride to where a judgment is required, hear the matter at the gathering of the local ting, render or enforce the ruling, and depart. The order does not claim sovereign authority; it operates within the law of each Nordlands kingdom and submits to that law's structures. What it provides is the trained, impartial, unbribed presence that the law's structures often lack: a knight of the order will not refuse a hard ruling to spare a powerful man, and a knight of the order will not, in living memory, have been bought.
 
 The order's existence is the practical answer to the persistent Nordlands problem of corrupted local justice. A ting convened in the hall of the jarl whose interests are at issue is, in practice, not always able to rule against that jarl. The kings of the five kingdoms have, over centuries, found it useful to maintain an institution to which contested matters can be referred—and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice; it stands behind it, and steps forward when called.
 
@@ -68,10 +68,10 @@ Membership is open to any sworn devotee of Eidgar who can pass the order's exami
 
 The order holds four ranks:
 
-- **Put from the Order**—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
-- **Hand-Squire** (_Höndskjöldr_)—the admitted candidate; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
+- **Put from the Order** (_Eidvargr_)—cast out at trial before the Council of Hands, for softening a ruling, taking a gift from an interested party, or refusing a hard case; every chapter's hospitality is closed to them for good.
+- **Hand-Squire** (_Eidefnir_)—the admitted candidate, whom the knights call a _Höndskjöldr_, a hand's shield; serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
 - **Sworn Hand** (_Eidhönd_)—the working knight; takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.
-- **Elder Hand** (_Eldri Eidhönd_)—senior member, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.
+- **Elder Hand** (_Eidhöfdingi_)—senior member, called _Eldri Eidhönd_ among the knights themselves, recognized for many years of service or for notable rulings; permitted to take apprentices, to strip a knight of rank on the spot pending trial, and to sit on the Council of Hands.
 
 The order's chair, the **Voice of Lögstead** (_Lögstadar Mál_), is elected from the Council of Hands for life—one position, acting as first among equals rather than as a commander.
 
@@ -82,17 +82,17 @@ The order's central principle is **the unblunted ruling**—that judgment must b
 Procedurally, the order observes three working forms:
 
 - **The Riding**—a knight on circuit hears cases brought to him at successive halls along his route; rulings are delivered orally and recorded by a present skald (or, in skald absence, by the knight's own hand on a sealed parchment delivered to the nearest chapter hall).
-- **The Convened Ting**—for matters too weighty for a riding ruling, a knight convenes a formal ting under the order's wand of office, with local witnesses, the contesting parties, and (where available) a Lögskald for procedural recitation.
+- **The Convened Ting**—for matters too weighty for a riding ruling, a knight convenes a formal ting under the order's wand of office, with local witnesses, the contesting parties, and (where available) a Lögskáld for procedural recitation.
 - **The Judgment by Combat**—where the law of the kingdom in question permits and the parties demand, a knight will arbitrate or personally undertake trial by combat. The order's knights are competent in combat by design; a party demanding judgment by combat against a Sworn Hand is choosing to fight a trained warrior, and that prospect is itself a settling influence on the more frivolous demands.
 
 ## Notable Members
 
-- **Voice Hróaldr Lögstadar**—current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
+- **Voice Knilthvir Lögstadar**—current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
 - The Council of Hands—twelve Elder Hands, drawn from the five kingdoms; meets quarterly at Lögstead.
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood**—the order is religiously subordinate to Eidgar's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
+- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—the order is religiously subordinate to Eidgar's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
 - **The five Nordland Crowns**—the order serves all five; the kings maintain the order's chapter halls and grant the wand of office passage through their territories. Tensions occasionally arise when a knight's ruling is contrary to a crown's interest.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]**—the order and the Compact have a standing agreement that any signed company member subject to order judgment will be surrendered to order custody on demand. The agreement holds.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—religious peer; the two orders occasionally cooperate when a matter requires both legal and ritual authority.

@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Provenzians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, independent city governments (noble, council or guild), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vylarian or a Nordman."
 ---
 
 Provènzia is rich, clever, and entirely convinced that being both is a moral achievement. Its cities are marble and aqueduct and amphitheater, half of it inherited from the Vylarian Empire and half built since out of trade money. What holds a Provenzian life together is not a realm, since there is no single realm, but three things: the city he belongs to, the patron above him and the clients below, and the exhausting and genuinely serious business of being seen to have taste.
@@ -39,7 +41,7 @@ Education is valued and the valuing is sincere. The academies at the great citie
 
 The result is a society where a merchant quotes philosophy at dinner and means it, and where a man's ability to speak well is a legible asset. Rhetoric is the skill the culture actually rewards most: a Provenzian will admire a well-made argument he disagrees with, and remember it longer than the conclusion.
 
-Ménérva of knowledge and Vénusia of prosperity and pleasure are the best-loved gods here, which is a fair summary of Provenzian priorities. The Sacred Forge is honored by the region's very considerable population of skilled craftsmen, who are better paid and better regarded than their equivalents anywhere west of them.
+Ménérva of knowledge and Ólvenía of prosperity and pleasure are the best-loved gods here, which is a fair summary of Provenzian priorities. The Sacred Forge is honored by the region's very considerable population of skilled craftsmen, who are better paid and better regarded than their equivalents anywhere west of them.
 
 ## Manners
 

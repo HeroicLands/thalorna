@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Tarvénans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Central Spain, Andorra and southeastern France up to the southern Alps (a patchwork of feudal kingdoms, free cities and contested mountain marches). Carries over: independent feudal kingdoms and free cities, mercenary swordsmen and crossbowmen, women running holdings while men are under contract. Departs: a deep skepticism of institutional magic and of the Ordo Arcanis."
 ---
 
 Tarvénia is not a country so much as a standing argument that has never been settled and is not going to be: three kingdoms, a free city, a free territory, and a patchwork of fiefdoms between them, bound by a shared tongue, a shared faith, and a shared conviction that nobody is going to tell a Tarvénan what to do. What holds a Tarvénan life together is his own name, the band or household he has sworn to, and the blade he is expected to be able to use.
@@ -39,7 +41,7 @@ Marriage is arranged but not dictated, and a Tarvénan who forced a daughter int
 
 ## Faith Without an Establishment
 
-The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Jánus of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Ordo, applied to priests.
+The Aurèldían pantheon is kept honestly and without much clerical supervision. Tarvénans favor Árdavon of gates and oaths, Karnavos of the wild, and the Sacred Forge, and they are cooler than their neighbors toward the grand temple establishments—the same objection as to the Ordo, applied to priests.
 
 A village keeps its shrine, its own priest who is usually a local man, and its own festival calendar, and it resists any attempt to regularize any of the three.
 

@@ -368,7 +368,7 @@ Knalthann stands 5'8" with a slight, scholarly frame, weighing about 155 pounds.
 
 Knalthann was born into a family of judges and lawmen, known for their strict adherence to the principles of fairness and justice. From a young age, he displayed a keen understanding of the law and an unwavering commitment to the truth. Knalthann traveled the lands, settling disputes and bringing justice to those who had been wronged. He was known for his impartiality and his ability to see through deception, earning the respect and admiration of both common folk and nobility. Knalthann carried with him a staff inscribed with Eidgar's runes, which he used to administer justice and maintain order.
 
-The saga of Knalthann Lawgiver is told in the context of a great trial that took place in the town of [[place-malthul|Málthul]]. A powerful thane was accused of treason against the king, but the evidence was scarce, and the witnesses were divided. Knalthann arrived and spent days listening to testimonies, examining evidence, and meditating on the principles of Eidgar. On the day of the verdict, Knalthann revealed that he had discovered a hidden piece of evidence—an incriminating rune hidden within the accused's personal items. This revelation turned the trial on its head, leading to the thane's conviction. Knalthann's wisdom and dedication to justice earned him the title of Lawgiver, and his staff became a symbol of justice throughout the land.
+The saga of Knalthann Lawgiver is told in the context of a great trial that took place in the town of [[place-logthul|Lögthul]]. A powerful hersvald was accused of treason against the king, but the evidence was scarce, and the witnesses were divided. Knalthann arrived and spent days listening to testimonies, examining evidence, and meditating on the principles of Eidgar. On the day of the verdict, Knalthann revealed that he had discovered a hidden piece of evidence—an incriminating rune hidden within the accused's personal items. This revelation turned the trial on its head, leading to the hersvald's conviction. Knalthann's wisdom and dedication to justice earned him the title of Lawgiver, and his staff became a symbol of justice throughout the land.
 
 ## Psyche
 
@@ -392,11 +392,11 @@ Knalthann's legal knowledge is encyclopedic, encompassing the traditions of doze
 
 **Vraldorv One-Hand**—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
 
-**The Althing of Nordheim**—The great assembly of northern leaders has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
+**The Ting of Nordheim**—The great assembly of northern leaders has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
 
 ### Enemies
 
-**Thane Skuli the Acquitted**—A powerful lord whom Knalthann suspects of treason but could not convict due to insufficient evidence. Skuli now uses his influence to undermine Knalthann's authority.
+**Hersvald Snulthvir the Acquitted**—A powerful lord whom Knalthann suspects of treason but could not convict due to insufficient evidence. Snulthvir now uses his influence to undermine Knalthann's authority.
 
 **The Rune Forgers**—A criminal network that creates false runic evidence to manipulate trials. Knalthann has been dismantling their operation, and they have responded with threats against his family.
 

@@ -3,7 +3,7 @@ shortcode: trgdahstry
 name: {full: Histories and Legends of Targud, aliases: []}
 type: lore
 subType: history
-description: "Targud's frontier memory and the disputed tale of Drékhar, the sword bound behind its king's seat."
+description: "Targud's frontier memory and the disputed tale of Vrellbrandr, the sword bound behind its king's seat."
 tags: []
 data: {packFolder: targud}
 ---
@@ -15,7 +15,7 @@ frontier's history, not evidence of a peace bought from a nest.
 
 ## The Sword Named Thirst
 
-The [[place-tvalgard|Tvalgard]] hall is said to hold **Drékhar**, a sword named Thirst, behind the king's seat. In the
+The [[place-tvalgard|Tvalgard]] hall is said to hold **Vrellbrandr**, the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
 story its hilt and scabbard are bound together with nine knots, checked each morning. Its making is
 placed before the land to the east was burned. A teller warns that it must drink when drawn or turn
 on the one who draws it. One older king's kinsman is said to have spared his own men by killing a

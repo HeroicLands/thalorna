@@ -63,11 +63,11 @@ For "making change," the temples and most market stalls maintain small balances 
 
 The conversion ratio between the Vylarian and Khelâthi systems is fixed by the metal in the pieces. An Argentus carries the silver of half a silver qelu, and an Aurion the gold of eight-tenths of a gold gezan, so the par of exchange is:
 
-| Vylarian | Khelâthi                                         |
-| -------- | ------------------------------------------------ |
-| 1 Bit    | 1/16 silver qelu (⅝ copper qelu)                 |
-| 1 Argo   | ½ silver qelu (5 copper qelu)                    |
-| 1 Aurion | 80 silver qelu (= 8 silver gezan = ⅘ gold gezan) |
+| Vylarian | Khelâthi                                           |
+| -------- | -------------------------------------------------- |
+| 1 Bit    | 1/16 silver qelu (5/8 copper qelu)                 |
+| 1 Argo   | ½ silver qelu (5 copper qelu)                      |
+| 1 Aurion | 80 silver qelu (= 8 silver gezan = 4/5 gold gezan) |
 
 Working the other way:
 

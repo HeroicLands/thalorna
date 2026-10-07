@@ -75,7 +75,7 @@ sohl: {system: {commonSkills: [varokhlng]}}
 
 ## Overview
 
-The Vrystwald Tribes are the Varokh clans and villages of the vast forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
+The Vrystwald Tribes are the [[lore-varokhiclt|Varokh]] clans and villages of the vast forests between the [[lore-nordheimnclt|Nordmen]] kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They share a language and a fierce commitment to their ancestral forests, but distrust other tribes and fight among themselves. This name gathers a people, not a government over them.
 
 ## Government
 
@@ -83,11 +83,11 @@ Each village is governed by three co-equal Fródrád elders: the **Weskár** (Sh
 
 The seats pass in different ways. The Shaman trains and designates one apprentice to succeed him. The War Chief's band leaders earn their claim by what they have done, and succession among them is contested. The people acclaim an Other Chief from the Hródthúl Respected who have proved themselves in the village's work. These assistants also serve the other two elders, but their standing gives them no seat until they take one of the three offices.
 
-Nothing solidly organized sits above a village. Varokh generally distrust other tribes. Only when danger is imminent and several villages need one another may their elders agree on a joint response, acclaim a common War Chief and call a muster. That command and the council that agreed it end as soon as the response ends. Trade and the market peace at Waldburg depend on custom and each party's interest; they grant no tribe authority over another and do not keep a council sitting between dangers.
+Nothing solidly organized sits above a village. Varokh generally distrust other tribes. Only when danger is imminent and several villages need one another may their elders agree on a joint response, acclaim a common War Chief and call a muster. That command and the council that agreed it end as soon as the response ends. Trade and the market peace at [[place-waldburg|Waldburg]] depend on custom and each party's interest; they grant no tribe authority over another and do not keep a council sitting between dangers.
 
 ## Character
 
-The Varokh are descendants of the Pelwar nomads who migrated across Ankaris millennia ago—the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Nordmen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
+The Varokh are descendants of the [[lore-pelwarpepl|Pelwar]] nomads who migrated across Ankaris millennia ago—the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Nordmen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
 
 The Vrystwald's frontier with [[affiliation-provncmktr|Moktur province]] is the [[affiliation-vylarinmpr|Vylarian Empire]]'s most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything—punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes—but the forest always wins.
 

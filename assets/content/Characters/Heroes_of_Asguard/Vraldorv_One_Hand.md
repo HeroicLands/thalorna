@@ -390,13 +390,13 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**The Court of Justice at [[place-malthul|Málthul]]**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+**The Court of Justice at [[place-logthul|Lögthul]]**—The oldest seat of law in the northern territories, where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
 **Knalthann Lawgiver**—A fellow devotee of Eidgar who works alongside Vraldorv, providing legal expertise to complement Vraldorv's martial authority.
 
 ### Enemies
 
-**The former Jarl Halvdan**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Halvdan still commands loyal followers and plots revenge.
+**The former Jarl Skruldorv**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldorv still commands loyal followers and plots revenge.
 
 **The Blood Eagle Clan**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
 

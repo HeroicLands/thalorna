@@ -13,7 +13,7 @@ data:
   population: 63000
   packFolder: aelwyth
 
-# terran_analog: "Ireland—the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior that the Peshtar tribes have held against every outside ambition for as long as Aelwyth has had recorded history."
+# terran_analog: "Ireland—the great western arm of the inverted-V Aelwythan island, a country of bog, peat moor, ancient mixed forest, glens, and the highland-and-lake interior."
 ---
 
 The Peshtar Wilderness is the ungoverned highland quarter of [[place-aelwyth|Aelwyth]]—rugged mountains, old-growth forests, boggy upland moors, and mist-choked valleys that have resisted every attempt at conquest, incorporation, or civilization for as long as Aelwyth has kept written records. Nominally part of the Misty Isle, it lies entirely beyond the writ of any crowned king, and the Peshtar tribes who inhabit it regard all outside authority as trespass. The region is a running scandal to the lowland kingdoms, an opportunity for mercenary recruiters, and a spiritual mystery to the older Aurèldían clergy who suspect that some of what the Peshtar worship may be older than any pantheon on record.

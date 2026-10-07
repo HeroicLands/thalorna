@@ -1,6 +1,6 @@
 ---
 shortcode: sacredforge
-name: {full: "Ritual: The Sacred Forge", aliases: [The Sacred Forge, Vúlcani Orthodox]}
+name: {full: "Ritual: The Sacred Forge", aliases: [The Sacred Forge, Ústaran Orthodox]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]

@@ -3,7 +3,7 @@ shortcode: grimvar
 name: {full: Grímvar, aliases: []}
 type: affiliation
 subType: polity
-description: "A polity of Malagna, under the crown of Lögnheim."
+description: "A polity of Malagna, under the crown at Gnarthborg."
 tags: [draft]
 data:
   templatePriority: null
@@ -13,12 +13,12 @@ data:
   governance:
     model: council
     summary: >-
-      A polity of Malagna, under the crown of Lögnheim.
+      A polity of Malagna, under the crown at Gnarthborg.
     ranks:
       - level: 1
         title: Member of the Polity
         description: >-
-          Belongs to Grímvar, a polity of Malagna under the crown of Lögnheim.
+          Belongs to Grímvar, a polity of Malagna under the crown at Gnarthborg.
     offices: {}
   seat: null
   domains: []
@@ -31,4 +31,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A polity of Malagna, under the crown of Lögnheim.
+A polity of [[place-malagna|Malagna]], under the crown at [[place-gnarthborg|Gnarthborg]].

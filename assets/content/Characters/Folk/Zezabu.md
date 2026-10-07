@@ -1,6 +1,6 @@
 ---
 shortcode: zezabu2
-name: {full: Zezabu, aliases: []}
+name: {full: Mathaku, aliases: []}
 type: being
 subType: npc
 description: "A celebrated builder and engineer whose works stand, which in his trade is the whole of the argument"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Zezabu is a 49-year-old man who stands 6'3" tall with a heavy build. He has tawny skin, dark brown hair, and dark brown eyes.
+Mathaku is a 49-year-old man who stands 6'3" tall with a heavy build. He has tawny skin, dark brown hair, and dark brown eyes.
 
 # Dossier {#dossier}
 
-Zezabu builds and engineers out of [[place-galezkara|Galezkara]]. His works stand, which in this trade is the whole of the argument anyone needs. Nobody asks for his credentials twice once they have seen one of the buildings.
+Mathaku builds and engineers out of [[place-galezkara|Galezkara]]. His works stand, which in this trade is the whole of the argument anyone needs. Nobody asks for his credentials twice once they have seen one of the buildings.

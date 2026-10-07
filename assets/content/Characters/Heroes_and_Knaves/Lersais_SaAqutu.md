@@ -486,7 +486,7 @@ At a deeper level, Lersaîs fears chaos and loss of control, and he has organize
 ### Patrons
 
 [[lore-garauu|The Gar-Aû]]
-: Lersaîs serves the Gar-Aû directly and is one of his most trusted military advisors; the Gar-Aû has rewarded his service with lands, authority, and respect.
+: Lersaîs serves the Gar-Aû directly and is one of her most trusted military advisors; the Gar-Aû has rewarded his service with lands, authority, and respect.
 
 [[affiliation-genzetqeztu|Genzet'Qeztu]]
 : Lersaîs remains influential within the military hierarchy and maintains relationships with younger commanders whom he has trained and who seek his counsel.

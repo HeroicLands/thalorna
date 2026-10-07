@@ -433,7 +433,7 @@ Born to a merchant family of moderate wealth in the [[place-khzryndsrtrgn|Khazry
 
 ### The Fall from Grace
 
-For nearly two decades, Kayvonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, Doctor Theron Casix, published a paper demonstrating mathematical errors in Kayvonad's foundational work. Rather than acknowledging the corrections gracefully, Kayvonad publicly attacked Casix's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kayvonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
+For nearly two decades, Kayvonad published extensively and achieved considerable renown throughout the academic world. His new catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **Dârvazad Kesvarûn**, published a paper demonstrating mathematical errors in Kayvonad's foundational work. Rather than acknowledging the corrections gracefully, Kayvonad publicly attacked Kesvarûn's methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though Kayvonad retained his position, he was stripped of his leadership role and relegated to diminished research funding.
 
 ### Present Isolation
 
@@ -449,7 +449,7 @@ He has few friends and considers most company an exhausting necessity. He drinks
 
 ### Motivation
 
-Kayvonad is motivated primarily by a need for vindication. He is convinced that Theron Casix deliberately ruined his standing out of jealousy, and that the academic establishment failed in their duty to recognize this injustice. He works obsessively to achieve discoveries that will prove his theories correct and restore his reputation to what he believes it should have been. Underlying this is a deeper, more melancholic motivation: a desperate wish to prove that his life's work mattered, that his contribution to human knowledge was not overshadowed by personal failures and petty academic politics.
+Kayvonad is motivated primarily by a need for vindication. He is convinced that Dârvazad Kesvarûn deliberately ruined his standing out of jealousy, and that the academic establishment failed in their duty to recognize this injustice. He works obsessively to achieve discoveries that will prove his theories correct and restore his reputation to what he believes it should have been. Underlying this is a deeper, more melancholic motivation: a desperate wish to prove that his life's work mattered, that his contribution to human knowledge was not overshadowed by personal failures and petty academic politics.
 
 ### Strengths
 
@@ -479,8 +479,8 @@ The Mineral Consortium of Khazryn
 
 ### Enemies
 
-Doctor Theron Casix
-: His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Casix has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
+Dârvazad Kesvarûn
+: His former colleague whose mathematical critique became the basis for Kayvonad's fall from prominence. Kesvarûn has since become the favored elder statesman of the University's alchemical research, a position Kayvonad considers his by right.
 
 The Cabal of Progressive Theorists
 : A faction of younger scholars at the University who have openly criticized Kayvonad's methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
@@ -495,11 +495,11 @@ The Alchemists' Society
 
 ## Plot Hooks
 
-1. **The Impossible Transmutation**: Kayvonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Doctor Casix himself appears to be behind the discovery, and Kayvonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kayvonad himself decades ago.
+1. **The Impossible Transmutation**: Kayvonad discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has made a real breakthrough. The investigation reveals that Kesvarûn himself appears to be behind the discovery, and Kayvonad must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against Kayvonad himself decades ago.
 
 2. **The Forbidden Formula**: In his private library, Kayvonad discovers a fragmentary ancient text describing a transmutation that could theoretically convert lead into a substance with properties approaching that of mithril or other fabled materials. The process requires executing a ritual of dangerous complexity that would require the party's assistance and likely put them all at serious personal risk. He offers substantial payment for their help but refuses to fully explain what he's attempting until they're committed to the endeavor. When partial results suggest the ritual might succeed, darker questions emerge about whether the transmutation is safe, and whether creating such powerful materials has consequences the ancient alchemists deliberately hid.
 
-3. **The Casix Conspiracy**: The party discovers evidence that Doctor Casix did, in fact, plagiarize critical components of his work from Kayvonad's private notes, and that the mathematical "errors" Casix claimed to find may have been doctored. Kayvonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kayvonad expose Casix would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kayvonad grows increasingly focused on revenge rather than truth.
+3. **The Kesvarûn Conspiracy**: The party discovers evidence that Kesvarûn did, in fact, plagiarize critical components of his work from Kayvonad's private notes, and that the mathematical "errors" Kesvarûn claimed to find may have been doctored. Kayvonad's vindication seems within reach, but the evidence is fragmentary and circumstantial. And helping Kayvonad expose Kesvarûn would damage the University's reputation and shake confidence in decades of accepted research. The party must pick its way through questions of academic integrity, justice, and the University's self-preservation while Kayvonad grows increasingly focused on revenge rather than truth.
 
 4. **The Material Crisis**: A shipment of rare mineral samples meant for Kayvonad's research is hijacked by bandits or agents of a rival faction. These materials are essential for an ongoing transmutation project that has consumed his life's savings and his remaining credibility at the University. If he fails to complete the work, his funding will be terminated and his theories will be abandoned. The party must recover the stolen materials, but in doing so they discover that the theft was orchestrated by someone within the University who questions whether Kayvonad's research is leading him toward transmutations that should not be permitted.
 

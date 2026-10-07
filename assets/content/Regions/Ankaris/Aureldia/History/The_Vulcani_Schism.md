@@ -1,17 +1,17 @@
 ---
 shortcode: vulcanischism
-name: {full: The Vúlcani Schism, aliases: [The Schism]}
+name: {full: The Ústaran Schism, aliases: [The Schism]}
 type: lore
 subType: history
-description: "The five-hundred-year-old split of the Aurèldían Vúlcani over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."
+description: "The five-hundred-year-old split of the Aurèldían Ústaran over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."
 tags: []
 data: {packFolder: aureldia}
 ---
 
-**Vúlcan** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
+**Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno
 that consumes—and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire
-makes and what it takes. Roughly **five hundred years ago** a faction within the Vúlcani clergy
+makes and what it takes. Roughly **five hundred years ago** a faction within the Ústaran clergy
 declared that this was an evasion: that the god's true nature was destruction, purification through
 fire, and the dominance of the strong over the weak, and that the forge was merely destruction put to
 temporary use.
@@ -46,5 +46,5 @@ tolerates and which it burns.
 
 ## See Also
 
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, of whom Vúlcan is one
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, of whom Ústaron is one
 - [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]

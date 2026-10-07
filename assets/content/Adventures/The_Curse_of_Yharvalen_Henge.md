@@ -57,7 +57,7 @@ The party investigates the blight's source and discovers the Cult of the Black F
 **Research Reveals:**
 
 - The cult worships [[affiliation-blackflame|The Black Flame]], a creed of destruction and blood sacrifice
-- The cult has grown in secret within [[place-provenzrgn|Provènzia Region]] over decades, hidden among Vúlcan's legitimate congregations
+- The cult has grown in secret within [[place-provenzrgn|Provènzia Region]] over decades, hidden among Ústaron's legitimate congregations
 - Members include renegade priests, disgraced nobles, and mercenaries drawn to its promise of power through destruction
 - The cult's goal appears to be awakening and expanding the curse as a prelude to larger plans
 - They perform dark rituals at the henge, drawing power from the blood-field to fuel their corrupted fire-magic
@@ -142,7 +142,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 - The blight-lands begin to recover (slowly)
 - The affected peoples are grateful and recover hope
 - The party gains renown as defenders of [[place-provenzrgn|Provènzia Region]]
-- The corrupted Vúlcan cult is exposed, raising questions about what darkness hides within the Aurèldían faith
+- The corrupted Ústaron cult is exposed, raising questions about what darkness hides within the Aurèldían faith
 
 **Complications:**
 

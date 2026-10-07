@@ -465,7 +465,7 @@ Kêlena operates from multiple, sometimes contradictory motivations. On the surf
 The Duke of [[place-ravenshold|Ravenshold]]
 : A powerful noble of considerable influence who has maintained a relationship with Kêlena for the past four years. Their arrangement is more transactional than intimate, though he is fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
 
-Merchant-Prince Aldric Covens
+Merchant-Prince Hávral Covens
 : A wealthy merchant who profits considerably from the wine and luxury goods trade. Covens views Kêlena as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
 
 ### Enemies

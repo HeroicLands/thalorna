@@ -41,4 +41,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Ódvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blót alone does not supply. A member studies under the rune-halls' own godar and serves as advisor and seer wherever Ódvar's faithful call for one.
+Hrafnrún, the Order of the Raven, gathers priests of [[affiliation-odvar|Ódvar]] who give their working lives to rune-lore and divination, casting the staves for warbands, jarls and households who need counsel a blót alone does not supply. A member studies under the rune-halls' own godar and serves as advisor and seer wherever [[lore-odvardty|Ódvar]]'s faithful call for one.

@@ -479,7 +479,7 @@ Raiyaqu Gasezabu is driven by a vision of the Empire of Aû'Khelâthu as a place
 Lady [[being-qeketqeltag2|Qeket Qelt'Agetu]]
 : An elder noblewoman of celebrated taste who has been Raiyaqu's mentor in artistic patronage and cultural politics. She provides counsel on the shifting alliances of the factions.
 
-Master Architect Qelti
+Master Architect Lâraket
 : A celebrated designer and builder who has benefited tremendously from Raiyaqu's commissions and patronage; he is devoted to her vision of elevating artisan crafts and advises her on building and public works.
 
 [[affiliation-genzetuznera|Genzet'Uznêra]]

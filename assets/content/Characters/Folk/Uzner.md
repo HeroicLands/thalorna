@@ -1,6 +1,6 @@
 ---
 shortcode: uzner
-name: {full: Uzner, aliases: []}
+name: {full: Lemani, aliases: []}
 type: being
 subType: npc
 description: "Master of the Lin'Zamlu elu Aû'Khelâthu and patron to a celebrated performer, whose recommendation carries across the empire"
@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {}
+  affiliations: {linzamlkhlth: {rank: 2}}
   gender: "female"
   species: humanflk
   born: "670.151"
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Uzner is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, gray hair, and amber eyes.
+Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, gray hair, and amber eyes.
 
 # Dossier {#dossier}
 
-Uzner holds mastery of the [[affiliation-linzamlkhlth|Lin'Zamlu elu Aû'Khelâthu]] out of [[place-galezkara|Galezkara]], and patronizes a celebrated performer besides. A recommendation from this master carries across the whole empire, not merely the capital. Performers seeking that reach know exactly whose approval to court first.
+Lemani holds mastery of the [[affiliation-linzamlkhlth|Lin'Zamlu elu Aû'Khelâthu]] out of [[place-galezkara|Galezkara]], and patronizes a celebrated performer besides. A recommendation from this master carries across the whole empire, not merely the capital. Performers seeking that reach know exactly whose approval to court first.

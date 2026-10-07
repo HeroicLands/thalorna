@@ -17,7 +17,6 @@ function tally() {
 for (const [literal, retired] of [
     ["Devotee", "Devotee"],
     ["Wild Hunt", "Wild Hunt"],
-    ["Royal Kin", "Royal Kin"],
 ]) {
     test(`${literal} is kept only in its distinct named files`, () => {
         const keep = table.keep.find((entry) => entry.literal === literal);

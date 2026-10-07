@@ -1,6 +1,6 @@
 ---
-shortcode: rulthheim
-name: {full: Rulthheim, aliases: []}
+shortcode: rilthheim
+name: {full: Rilthheim, aliases: []}
 type: place
 subType: settlement
 description: "The settlement of the Skalds' Hall, a prestigious gathering of northern skalds and loremasters that keeps archives of ancient sagas."
@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nrdlndsrgn], packFolder: nordlands}
 
 ## Overview
 
-Rulthheim is known across the [[place-nrdlndsrgn|Nordlands]] for one building and the people who gather in it: **the Skalds' Hall of Rulthheim**, a prestigious gathering of northern skalds and loremasters. The name suits it. _Rulth-_ is how far a voice carries over water, and the settlement that grew up around the Hall is a place where voices are the trade.
+Rilthheim is known across the [[place-nrdlndsrgn|Nordlands]] for one building and the people who gather in it: **the Skalds' Hall of Rilthheim**, a prestigious gathering of northern skalds and loremasters. The name suits it. _Rilth-_ is how far a voice carries over water, and the settlement that grew up around the Hall is a place where voices are the trade.
 
 ## The Hall and Its Archives
 

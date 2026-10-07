@@ -390,13 +390,13 @@ Hvulgselda is an exceptional sailor and navigator who can read the weather, curr
 
 ### Patrons
 
-**Torsten the Shipwright**—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
+**Hvilgmýl the Shipwright**—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
 
 **The Coastal Watch**—An informal alliance of fishing villages that pool resources to fund Hvulgselda's patrols of the shipping lanes in exchange for her protection.
 
 ### Enemies
 
-**Jarl Gunhild the Reaver**—A pirate queen who views Hvulgselda's patrols as an obstacle to her raiding operations. Gunhild has placed a substantial bounty on Hvulgselda's head.
+**Jarl Gnaldrinna the Reaver**—A pirate queen who views Hvulgselda's patrols as an obstacle to her raiding operations. Gnaldrinna has placed a substantial bounty on Hvulgselda's head.
 
 **The Deep Ones**—Mysterious creatures from beneath the waves who have taken a personal interest in Hvulgselda since she reclaimed the Ship of Thunder. They send storms and sea monsters to test and torment her.
 
@@ -404,6 +404,6 @@ Hvulgselda is an exceptional sailor and navigator who can read the weather, curr
 
 1. **Beyond the Edge**—Hvulgselda has discovered an ancient map that shows lands beyond the known seas. She needs a crew bold enough to sail into uncharted waters where the Ship of Thunder's protections may not hold.
 
-2. **The Pirate Queen's Challenge**—Gunhild the Reaver has captured a fleet of merchant vessels and demands Hvulgselda face her in single ship-to-ship combat. Refusing would embolden every pirate on the northern seas.
+2. **The Pirate Queen's Challenge**—Gnaldrinna the Reaver has captured a fleet of merchant vessels and demands Hvulgselda face her in single ship-to-ship combat. Refusing would embolden every pirate on the northern seas.
 
 3. **The Ship's Voice**—The Ship of Thunder has begun speaking to Hvulgselda in her dreams, showing her visions of a great underwater temple. Whether this is Thrúnvald's guidance or a trap set by the Deep Ones remains unclear.

@@ -69,7 +69,7 @@ The Argentariorum is organized in three tiers.
 
 ### The Great Houses
 
-Perhaps twenty-five **great houses** dominate the guild. These are the moneylender families whose reserves, chapter affiliations, and political connections place them at the apex of the trade. Each great house operates across multiple cities—the **House of Calventian** maintains offices in Magnápolis, [[place-venustria|Vénustria]], Provenzal, Béravel, and Byzaría; the **House of Maximian Tertian** has a similar geographic footprint; the **House of Verrius** focuses on Vylarian commercial cities; the **House of Therion** is Heliónite in origin but has become continent-spanning; the **House of Aldovardian** is Tarvénian and unusual in that respect (most great houses originated in Vylaria or Heliónis and expanded outward).
+Perhaps twenty-five **great houses** dominate the guild. These are the moneylender families whose reserves, chapter affiliations, and political connections place them at the apex of the trade. Each great house operates across multiple cities—the **House of Calventian** maintains offices in Magnápolis, [[place-olvestria|Ólvestria]], Provenzal, Béravel, and Byzaría; the **House of Maximian Tertian** has a similar geographic footprint; the **House of Verrius** focuses on Vylarian commercial cities; the **House of Therion** is Heliónite in origin but has become continent-spanning; the **House of Aldovardian** is Tarvénian and unusual in that respect (most great houses originated in Vylaria or Heliónis and expanded outward).
 
 Each great house holds standing accounts with the Aerarium Imperii (or with the Argentariorum's chapter clearing arrangement in non-imperial territory) on a scale that smaller houses cannot approach. The great houses are the principal issuers of master notes drawn directly on Aerarium accounts; the principal redeemers of large traveler's notes; the principal counterparties for Aurèldían crown borrowing; and the principal political actors when the guild has a position to take.
 
@@ -93,7 +93,7 @@ The Argentariorum maintains **chapterhouses** in every member city of consequenc
 
 Each chapterhouse is administered by an **Argentarius Praepar**—a senior moneylender, typically of one of the lesser houses, elected by the local member moneylenders for a five-year term. The Praepar's authority is significant: he manages the chapter strongroom (jointly with two appointed Censores), he authorizes admissions of new members, he countersigns master notes drawn against chapter reserves, and he represents the chapter at the Council of the Argentarii.
 
-The largest chapterhouses—at Magnápolis, Vénustria, Byzaría, Aelissium, Béravel, Tarvenia (the city), and the principal Heliónite ports—are substantial institutions with permanent staff numbering in the dozens, including clerks, auditors, security details, and the household needed to host visiting members of standing.
+The largest chapterhouses—at Magnápolis, Ólvestria, Byzaría, Aelissium, Béravel, Tarvenia (the city), and the principal Heliónite ports—are substantial institutions with permanent staff numbering in the dozens, including clerks, auditors, security details, and the household needed to host visiting members of standing.
 
 ## Governance
 

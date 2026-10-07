@@ -29,7 +29,7 @@ At [[lore-sumarmal|Sumarmál]], ships return to the water and offerings seek a g
 
 Raids from the Nordlands to [[place-aelwyth|Aelwyth]] and [[place-elavendre|Élavendre]], and as far south as [[place-provenzrgn|Provènzia]], are not uncommon. Such voyages require stores and time that the hall must reckon against the work left to those ashore.
 
-The north's thin fields and long winters help explain the pressure to sail south. They do not make every voyage a raid, or absolve a crew of what it does when it lands. Malagnan sailors trade and negotiate as well as fight; Targud's frontier calls people to defend forts and settlements. A longship can bring food home by exchange as readily as by force.
+The north's thin fields and long winters help explain the pressure to sail south. They do not make every voyage a raid, or absolve a crew of what it does when it lands. Malagnan sailors trade and negotiate as well as fight; [[place-targud|Targud]]'s frontier calls people to defend forts and settlements. A longship can bring food home by exchange as readily as by force.
 
 ## Shield-Wall and Levy
 

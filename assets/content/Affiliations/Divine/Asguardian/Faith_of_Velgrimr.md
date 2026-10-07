@@ -60,7 +60,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Vélgrímr, the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
+[[lore-velgrimrdty|Vélgrímr]], the god of cunning, deception, and thieves, is the archetypal trickster—an unpredictable force of chaos and disruption. He is revered and feared in equal measure, embodying a dynamic, shape-shifting energy that defies the status quo and undermines conventional power structures. His followers are a diverse group, including assassins, thieves, and the downtrodden—those who lurk in society's shadows and navigate its underworld.
 
 ## Aspects
 
@@ -84,7 +84,7 @@ Vélgrímr is depicted as a charismatic and enigmatic figure, his expression alw
 
 ## Clergy
 
-- **Refused the Blót**—denied the offering at a hidden hof in Malagna's ports, cut from the clergy and from the secrecy that protects it.
+- **Refused the Blót**—denied the offering at a hidden hof in [[place-malagna|Malagna]]'s ports, cut from the clergy and from the secrecy that protects it.
 - **Blótmadr**—attends the blót at a hidden hof in Malagna's ports and shares an offering rarely spoken of outside it.
 - **Hofsmadr**—given young to a hidden hof in Malagna's ports, laboring at its secrecy before any claim to the priesthood.
 - **Godi / Gydja**—ordained to keep a hidden hof's rites in Malagna's ports.

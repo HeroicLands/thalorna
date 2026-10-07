@@ -22,7 +22,7 @@ In the frozen north of [[place-ankrscntnnt|Ankaris Continent]], Nordheim is a la
 
 ## Geography
 
-Nordheim occupies the northwestern coast of Ankaris, where jagged mountain ranges plunge into icy fjords. The interior is a mix of boreal forests, glacial valleys, and high tundra. Winters are long and brutal, with months of near-total darkness, while brief summers bring an explosion of life to the coastal lowlands. The coastline is deeply indented, creating thousands of natural harbors that have made the Nordmen the foremost sailors of the northern seas.
+Nordheim occupies the northwestern coast of Ankaris, where jagged mountain ranges plunge into icy fjords. The interior is a mix of boreal forests, glacial valleys, and high tundra. Winters are long and brutal, with months of near-total darkness, while brief summers bring an explosion of life to the coastal lowlands. The coastline is deeply indented, creating thousands of natural harbors that have made the [[lore-nordheimnclt|Nordmen]] the foremost sailors of the northern seas.
 
 Key geographic features include the great fjords that cut deep into the mountains, providing sheltered harbors for longship fleets; the high interior plateau where caribou herds migrate and where the most isolated clans dwell; and the volcanic islands off the northwestern coast, where hot springs warm the earth even in the depths of winter.
 
@@ -30,4 +30,4 @@ Key geographic features include the great fjords that cut deep into the mountain
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—The kingdom that holds this land
 - [[place-nrdlndsrgn|Nordlands Region]]—The enclosing region
-- Knalthstead—The seat
+- [[place-knalthstead|Knalthstead]]—The seat

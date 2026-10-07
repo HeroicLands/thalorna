@@ -39,7 +39,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hrímthur is the Rime-Giant out of whose body the world was cut. He is one of the [[lore-thursaett|Thursaett]], the giant-kin the Ten fought and beat before the world stood, and the only one of them killed rather than driven into [[place-thursguard|Thursguard]]. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
+[[lore-hrimthurspr|Hrímthur]] is the Rime-Giant out of whose body the world was cut. He is one of the [[lore-thursaett|Thursaett]], the giant-kin the Ten fought and beat before the world stood, and the only one of them killed rather than driven into [[place-thursguard|Thursguard]]. He is not a maker and never was one: he is the material every maker works, the stone under the fields and the rime on it, and the faith that keeps his name keeps the memory of what was done to him.
 
 ## Aspects
 
@@ -49,7 +49,7 @@ Hrímthur is therefore worshipped as substance rather than as a person. He grant
 
 Where he is depicted at all he is shown as a slope rather than a figure—a white ridge with a wound in it, or a jaw of grey stone breaking the snow. The [[affiliation-thursborn|Giant's Children]] carry the wound as a cut pattern across the chest, which is the faith's only universal image.
 
-His hofs are few and hard to reach. [[place-holafell|Holafell]] in Norgaad is the oldest, a sanctuary cut into rock, and the Northern Hall in Targud is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
+His hofs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the Northern Hall in [[place-targud|Targud]] is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
 
 ## Sacred Objects
 

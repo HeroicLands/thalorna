@@ -472,7 +472,7 @@ Thrildvir's deepest motivation is fundamentally about creating beauty and meanin
 
 ### Patrons
 
-Lord Aldwyn Voss
+Lord Gnaldrvir Voss
 : A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from Thrildvir and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is cordial in business but personally distant.
 
 The Royal Costume Master

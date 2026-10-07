@@ -398,7 +398,7 @@ Glurvselda is one of the wealthiest individuals in the northern lands, and her t
 
 **The Pirate Lords of the Eastern Seas**—Maritime raiders who target Glurvselda's trade ships and view her growing trade network as a threat to their control of the sea lanes.
 
-**Jarl Knut the Miser**—A lord who has built his power on controlling trade through his territory and views Glurvselda's alternative trade routes as an existential threat to his wealth.
+**Jarl Kraldorv the Miser**—A lord who has built his power on controlling trade through his territory and views Glurvselda's alternative trade routes as an existential threat to his wealth.
 
 ## Plot Hooks
 

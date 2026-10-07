@@ -5,6 +5,8 @@ type: lore
 subType: culture
 description: "The Tānvüri—their beliefs, their mores, and what they hold a person owes."
 tags: []
+
+# terran_analog: "Imperial China (celestial bureaucracy, caste, mandate of heaven) and the mainland eastern sphere of river civilizations and tributary kingdoms. Carries over: formal, indirect manner, omen-reading, a written bureaucratic record of persons. Departs: an eight-caste order in which a name is a privilege attached to classification and states caste, lineage and generation."
 ---
 
 Tānvür holds that the cosmos was made by sorting, that the sorting is incomplete, and that the work of holding the sorted world apart from the unsorted one is the business of every living person. Everything else about the Tānvüri follows from that sentence, including the parts a foreigner finds cruel. A Tānvüri does not experience his caste as an injustice or as a blessing—he experiences it as his classification, in the same way a comet has one, and the ministry that records his is a branch of the ministry that records the comet's.

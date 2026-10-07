@@ -81,7 +81,7 @@ By ancient tradition the city holds exactly **twelve** of them—the **Twelve Ci
 - **The Circle of the Twelve**—fronting the Temple District, crowned by a towering obelisk; the stage for the city's religious festivals.
 - **The Circle of Ménérva**—heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
 - **The Grand Market Circle**—the largest licensed market in the Empire.
-- **The Circle of Jánus**—Jánus of the Gates, lord of order and justice; the forum of the law-courts.
+- **The Circle of Árdavon**—Árdavon of the Gates, lord of order and justice; the forum of the law-courts.
 - **The Legions' Circle**—on the approach to the [[place-castraprtr|Castra Praetoria]]; a war-monument to Táranon; the ground of musters and military reviews.
 - **The River Circle**—by the river gate and the docks, around a great aqueduct-fountain; the haunt of watermen and mariners.
 - **The Spire Circle**—built about a soaring spire hauled from a conquered province.
@@ -115,7 +115,7 @@ Magnápolis is governed by an intricate and jealously enforced body of **distric
 
 Because the foul and heavy trades are banished and the draft animals stabled outside, Magnápolis within its bounds is overwhelmingly a city of **consumption, exchange, governance, worship, and residence** rather than of making. Why pay the ruinous rents inside to forge iron or tan hides, when the same goods can be made cheaply beyond the bounds and simply _sold_ inside through the chandlers and the markets? So the work that remains within the city is the work that must stay: selling, service, and the few clean and costly crafts whose buyers are the rich who live here. The quarters reflect it:
 
-- **The Forum District**—the civic heart, in the central saddle below Mons Aquila around the **Circle of Jánus**: the basilicas of the civic courts, the chambers of the [[affiliation-curiaurbis|Curia Urbis]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
+- **The Forum District**—the civic heart, in the central saddle below Mons Aquila around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-curiaurbis|Curia Urbis]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
 - **The Grand Market**—the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], and the administrative guild-halls of the [[affiliation-magnumclgm|Magnum Collegium]]'s trades (their workshops, like everything else, kept outside).
 - **The Wharves**—the river port beneath **Mons Rípae** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Haradian, Nordling, and Khelâthi traders.
 - **The Scholars' District**—the [[affiliation-panepistmm|Panepistemium]], on **Mons Sápiens** around the Circle of Ménérva (detailed below).
@@ -248,7 +248,7 @@ Beyond the Clearance, along the River Vylaris and well apart from the Necropolis
 
 A short way beyond the city, set apart from the living on the open plain, sprawls the **Necropolis**—a vast city of the dead that has grown for as long as Magnápolis itself. A metropolis of a million souls produces a great many corpses, and the Necropolis is the answer to them: mile upon mile of tombs, mausolea, grave-terraces, and memorial avenues, ranked by wealth from the marble house-tombs of the senatorial families down to the pauper-trenches of the destitute, with augustars entombed in monuments visible from the city's edge.
 
-It is tended jointly by two priesthoods that, anywhere else, would have little to say to one another: the Aurèldían clergy of [[affiliation-thanatos|Thánatos]], the Silent Judge, and the Asguardian clergy of **Náhild**. Their shared custody of the dead is the root of Náhild's surprising power in the capital. The Necropolis is a city in its own right—with its own watch, its own quiet economy of funerary trades, and its own silent avenues—and the rumors of what the Náhild-priests keep, and tend, in its deeper vaults are enough that even bold Magnápolitans speak of the place with lowered voices.
+It is tended jointly by two priesthoods that, anywhere else, would have little to say to one another: the Aurèldían clergy of [[affiliation-thanatos|Sélmoros]], the Silent Judge, and the Asguardian clergy of **Náhild**. Their shared custody of the dead is the root of Náhild's surprising power in the capital. The Necropolis is a city in its own right—with its own watch, its own quiet economy of funerary trades, and its own silent avenues—and the rumors of what the Náhild-priests keep, and tend, in its deeper vaults are enough that even bold Magnápolitans speak of the place with lowered voices.
 
 ## At a Glance
 

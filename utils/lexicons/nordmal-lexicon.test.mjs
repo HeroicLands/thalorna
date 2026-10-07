@@ -6,11 +6,20 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import test from "node:test";
-import { corpus, judge, lexiconFrom, withGods } from "./nordmal-lexicon.mjs";
+import {
+    checkLists,
+    checkVocabulary,
+    corpus,
+    judge,
+    lexiconFrom,
+    vocabularyFrom,
+    withGods,
+} from "./nordmal-lexicon.mjs";
 
 const rule = withGods(
     lexiconFrom(fs.readFileSync("assets/content/Skills/Languages/Nordmal.md", "utf8")),
 );
+const note = fs.readFileSync("assets/content/Skills/Languages/Nordmal.md", "utf8");
 const table = JSON.parse(fs.readFileSync("utils/nordmal-concordance.json", "utf8"));
 
 test("explicit given-name exemptions preserve clan validation and published lists", () => {
@@ -73,4 +82,56 @@ test("published seasonal vocabulary is accepted without compound derivation", ()
         assert(judge(entry.newName, "realm", rule).length > 0);
     }
     assert(judge("Unpublished", "compound", rule).length > 0);
+});
+
+test("the published name lists are samples, held to the rules and not to a count", () => {
+    const sample = [
+        { name: "Hlarthvir", kind: "given", listed: "## Male Given Names" },
+        { name: "Knirvynda", kind: "given", listed: "## Female Given Names" },
+    ];
+    assert.deepEqual(checkLists(sample), []);
+    const twice = [...sample, { ...sample[0] }];
+    assert.equal(checkLists(twice).length, 1);
+    const listed = corpus(rule).names.filter((row) => row.listed);
+    assert(!listed.some((row) => row.name === "Knirvynda"));
+    assert.deepEqual(judge("Knirvynda", "given", rule), []);
+    assert(judge("Knirvkhynda", "given", rule).length > 0);
+});
+
+test("a seeress's name is a compound, judged apart from the bestowal rule", () => {
+    assert.deepEqual(judge("Aldrhildr", "seeress", rule), []);
+    assert(judge("Aldrhildr", "given", rule).length > 0);
+    assert(judge("Hlarthvir", "seeress", rule).length > 0);
+    const row = table.entries.find((entry) => entry.newName === "Aldrhildr");
+    assert.deepEqual(row?.kinds, ["seeress"]);
+});
+
+test("every published word is built from the lexicon and keeps the tongue's sounds", () => {
+    const words = vocabularyFrom(note).map((entry) => entry.word);
+    for (const word of ["gyldra", "hvelm", "hvelmgeir", "eldsdulm", "höfudsveld"])
+        assert(words.includes(word), `the vocabulary publishes "${word}"`);
+    assert.deepEqual(checkVocabulary(note, rule), []);
+});
+
+test("the vocabulary check refuses a foreign letter, a bad opening, a bare stem and an unbuilt word", () => {
+    const text = [
+        "",
+        "## Vocabulary",
+        "",
+        "| word | sense |",
+        "| ---- | ----- |",
+        "| `wyrd` | fate |",
+        "| `zvork` | nothing |",
+        "| `hlarth` | a slope |",
+        "| `thongar` | nothing |",
+        "| `hvelmgeir` | a harpoon |",
+        "",
+    ].join("\n");
+    const found = checkVocabulary(text, rule);
+    for (const word of ["wyrd", "zvork", "hlarth", "thongar"])
+        assert(
+            found.some((line) => line.includes(`"${word}"`)),
+            `"${word}" is reported`,
+        );
+    assert(!found.some((line) => line.includes('"hvelmgeir"')));
 });
