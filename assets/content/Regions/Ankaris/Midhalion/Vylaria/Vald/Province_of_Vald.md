@@ -26,11 +26,11 @@ data:
       - level: 3
         title: Peregrine
         description: >-
-          A provincial living under imperial authority without the citizenship—the great majority of the empire's people.
+          A resident living under imperial authority without the citizenship—born to the empire, taxed by it, and holding no share in it, as the great majority of its people do.
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship by birth, grant or service, with its protections at law and its liability to its taxes.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
