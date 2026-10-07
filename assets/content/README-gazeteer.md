@@ -946,6 +946,13 @@ Three things are not names, and none of them takes bold:
   never bold: bold on a statement reads as a name, and a reader cannot tell the
   two apart. Italics are the right mark wherever a word or phrase needs stress.
 
+Taking the bold off a common noun or a rank leaves it **plain**, not italic.
+Italics have three uses and no others: a word in another tongue (_jarl_,
+_gyldra_), the title of a work (_The Seven Towers_), and stress a speaker would
+actually give, which is rare in prose. An ordinary word set in italics because
+it seemed important—_the mountains_, _the coast_, _eight million_—is as
+distracting as a stray bold, and it is the commonest mark of careless prose.
+
 ## Spelling and punctuation
 
 Notes are written in **American English**. The common traps:
