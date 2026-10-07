@@ -90,26 +90,45 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Kingdom of Malagna holds the land of [[place-malagna|Malagna]]. Its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at [[place-gnarthborg|Gnarthborg]]. Of all the [[lore-nordheimnclt|Nordmen]] realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
+"Run your hand down that keel," a master shipwright at [[place-gnarthborg|Gnarthborg]] tells the Vylarian buyer he is walking along the slip, "and then ask me how it was cut." The buyer asks. The shipwright smiles and shows him the next hull. "Look at anything in this yard you like," he says later. "The clans that work here have never given up a hull's lines or a keel's proportions to a stranger, and your price is not the first one offered."
 
-## Character
+The Kingdom of Malagna holds the land of [[place-malagna|Malagna]], and its crown is held by [[being-knghlrthni|King Hlurthann III]], acclaimed at the ting and seated at Gnarthborg. About 340,000 people live under him. Of all the [[lore-nordheimnclt|Nordmen]] realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world. An outsider knows it for its longships, the finest in the north.
 
-Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Nordmen culture—Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
+## How Malagna Is Ruled
+
+Malagna keeps the same law as its sister kingdoms: a crown that the ting can take back. Hlurthann III was acclaimed at the ting like every king before him and answers to the same assembly for every arm-ring he is handed back. He sits with the other four kings on [[place-domsey|Dómsey]], and four jarls' seats stand behind his.
+
+Below the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance. A _landvördr_ collects the king's dues and holds his courts, and in every haven a _harbor-reeve_ takes the tolls and settles disputes on the wharves. At Gnarthborg that second office is a diplomat's job as much as a collector's: the town's hersvaldar and harbor-reeves spend as much of their working lives brokering a toll dispute with a foreign factor as they do mustering men for the king.
+
+"The king has the hall and the levy," the shipwright says. "The yards have the keels." A shipwright's skill is the one thing in the kingdom a hersvald's levy cannot muster by force, so a crown that leans too hard on one clan's yards risks a strike it has no way to compel. Hlurthann III does not try to rule Gnarthborg the way he rules the rest of Malagna.
+
+Law reaches the farms through [[place-malstead|Málstead]]. When Gnarthborg's own ting is not sitting, a dispute from the western farms is heard at a marked stone in Málstead's market square before whichever Lawspeaker is riding circuit that season. A verdict given there binds until a losing party appeals it to the king's own ting.
+
+## Two Clans and One Quarrel
+
+Malagna's two great clans, the [[affiliation-grimvar|Grímvar]] and the [[affiliation-hrafnvar|Hrafnvar]], remember one broken settlement differently, and the difference runs beneath the kingdom's present division. It began three generations ago with a killing in a Gnarthborg shipyard, and the peace a priest of [[affiliation-frodvin|Fródvin]] sought by walking between [[place-braldheim|Braldheim]] and Málstead did not settle it. It is remembered as the Málstead wergild. The Grímvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and the Hrafnvar say that fear, not piety, keeps their rivals from wearing it. [[lore-mlgnahstry|Histories and Legends of Malagna]] gives each side its account.
+
+## The People and Their Ports
+
+Malagna's western position gives it a more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, the merchant households of Gnarthborg keep standing arrangements with foreign traders that a more insular eastern kingdom would never tolerate, and the kingdom's port towns host small communities of foreign traders. The exposure has softened some of the harsher edges of Nordmen culture. Malagna's people are still warriors and sailors, and they are diplomats and deal-makers too.
+
+The land shows the same range. Gnarthborg's forges run on charcoal that Braldheim's homesteads cut, bank and burn down slow through the long nights. Málstead is the second-busiest market in the kingdom, and it holds that rank by default, because the law sits there. [[place-hvalgvik|Hvalgvík]] holds a bay that gives shelter in any wind. [[place-glarvey|Glarvey]] is an island holding whose roofs are its thegn's pride, and [[place-dvilgborg|Dvilgborg]] is the garrisoned height where recruits learn to keep a watch that does not sleep.
 
 ## Relations
 
-Malagna maintains trading relationships with [[place-elavendre|Élavendre]], the northern communities of [[place-aelwyth|Aelwyth]], and occasionally even [[affiliation-provincvld|Vald]] and the [[place-vylarianse|Vylarian Sea]] ports. Relations with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal but competitive—the two kingdoms have historically vied for dominance among the Nordmen peoples. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms.
+Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[affiliation-provincvld|Vald]] and the ports of the [[place-vylarianse|Vylarian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Malagna nor against it.
 
 ## Commerce and Currency
 
-Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the [[place-nrdlndsrgn|Nordlands]]. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Malagna strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (aurion, argo and bit), and no chapter of [[affiliation-clgmrgntrrm|the Collegium Argentariorum]] operates in the [[place-nrdlndsrgn|Nordlands]]. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 
-- [[place-malagna|Malagna]]—The land the kingdom holds
+- [[place-malagna|Malagna]]—the land the kingdom holds
+- [[place-gnarthborg|Gnarthborg]]—the seat and the king's hall
 - [[lore-mlgnahstry|Histories and Legends of Malagna]]—the kingdom's remembered past
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—Sister kingdom, primary rival
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
-- [[place-elavendre|Élavendre]]—Western trading partner
-- [[place-aelwyth|Aelwyth]]—Maritime neighbor
-- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—sister kingdom and chief rival
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the other sister kingdoms
+- [[place-elavendre|Élavendre]]—western trading partner
+- [[place-aelwyth|Aelwyth]]—maritime neighbor
+- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north

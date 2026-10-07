@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The northern mountains of Stormveld—half the Jarldom's ground and almost none of its people, facing the northern sea the Nordmen came over."
 tags: [region, mountain, coastal]
-data: {demonym: null, lore: [], parents: [stormveld], population: 22000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [stormveld]
+  population: 22000
+  packFolder: aelwyth
+  government: jrldmstrmvld
 ---
 
 The **Nordfells** run along the whole northern edge of [[affiliation-jrldmstrmvld|Stormveld]], from the
@@ -13,7 +19,7 @@ The **Nordfells** run along the whole northern edge of [[affiliation-jrldmstrmvl
 Jarldom's territory and hold about twenty-two thousand of its people—which is to say they are nearly
 empty.
 
-The name is Nordmen and recent. What the Aelwythans called them before the conquest is recorded in
+The name is a Nordmen one, and recent. What the Aelwythans called them before the conquest is recorded in
 places and is not used.
 
 ## The Country

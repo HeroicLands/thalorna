@@ -89,24 +89,39 @@ sohl: {system: {commonSkills: [nordmalng]}}
 
 ## Overview
 
-The Kingdom of Targud holds the land of [[place-targud|Targud]]. It is the most militaristic of the five kingdoms, its entire culture shaped by the need to defend against Grukar raids and incursions. Targud's warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
+"We sing a last stand as often as a victory," a Targud skald tells the bóndi who has come in to [[place-tvalgard|Tvalgard]] for his first weeks on the wall, "because the wall sees both, and you will want to know how the second one is done." The young man laughs, and the skald does not.
 
-## Character
+The Kingdom of Targud holds the land of [[place-targud|Targud]], on the eastern edge of the [[place-nrdlndsrgn|Nordlands]], and about 300,000 people live under its crown. It is the most militaristic of the five kingdoms, its whole culture shaped by the need to defend against [[lore-grukarfolk|Grukar]] raids and incursions, and an outsider knows it for the Grukar frontier and the forts that rotate their duty along it. Its warriors are hardened by constant frontier warfare, and its fortified settlements are built for survival first and comfort second.
 
-Life in Targud is defined by the eastern frontier. The Grukar are not a distant threat—they are a daily reality. Raids come with the seasons, and Targud's people live with one hand on a weapon at all times. This produces a culture that is grimmer and more fatalistic than the other [[lore-nordheimnclt|Nordmen]] kingdoms. Targud's people worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor, and their skalds sing of heroic last stands and glorious defeats as often as victories.
+## How Targud Is Ruled
 
-Targud maintains a network of frontier forts manned by warriors who serve rotating duty—a system that ensures every able-bodied person in the kingdom has combat experience.
+Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds the realm on the assembly's consent. He keeps his hall at Tvalgard, on the last defensible ridge before the burned ground, because the frontier is where a king of Targud has to be seen. Three jarls' seats stand behind the king's on [[place-domsey|Dómsey]].
 
-Despite the grim reputation, Targud is also the kingdom with the most knowledge of the Grukar—their castes, watch paths and the places where nests divide. That knowledge comes from patrols and survivors, not from trading partners. A Targudan border lord cannot buy peace from a nest or ransom back someone taken in a raid.
+Under the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance. A bóndi of Targud owes something the other kingdoms' farmers do not: the rotating fort-duty the frontier lays on every free farmer in his turn.
+
+The forts are the kingdom's whole system of defense. A network of frontier forts is manned by warriors who serve rotating duty, and the rotation is mustered through Tvalgard. Every able-bodied person in the kingdom therefore has combat experience, and nobody in Targud reaches middle age without having stood the wall at least once. A farmer walks in, stands his weeks, and goes home to land his neighbors have minded.
+
+## The Frontier and the People
+
+Life in Targud is defined by its eastern frontier. The Grukar are a daily reality, and raids come with the seasons, so Targud's people live with one hand on a weapon at all times. That makes the kingdom grimmer and more fatalistic than the other [[lore-nordheimnclt|Nordmen]] kingdoms. They are hunters, trappers and fur-traders in deep forest and tundra, and they worship the war-gods of the [[affiliation-asguardian|Asguardian Pantheon]] with particular fervor. Their skalds sing heroic last stands and glorious defeats as often as victories.
+
+## What the Watch Knows
+
+Targud's grim reputation hides one distinction: it is the kingdom with the most knowledge of the Grukar. The watch knows their castes, their watch paths and the places where nests divide, and none of it came from trade. It came from patrols and survivors. A border lord of Targud cannot buy peace from a nest, or ransom back a person taken in a raid. [[lore-trgdahstry|Histories and Legends of Targud]] keeps the frontier's memory, including the sword said to be bound behind the king's seat at Tvalgard.
+
+## Relations
+
+Targud lives with one fixed enemy, the Grukar of [[place-grkrhlmrgn|Grukarhölm]] to the east. Its dealings with the other four kingdoms are those of an equal at the table on Dómsey: [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Targud nor against it.
 
 ## Commerce and Currency
 
-Kingdom of Targud uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) as its _de facto_ currency for transactions conducted in money—no native coin exists, and no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate in the [[place-nrdlndsrgn|Nordlands]]. The Vylarian script system is **not** honored here: traveler's notes and other paper instruments must be exchanged for physical coin before crossing into the region. Practical commerce above coin-carryable amounts operates through [[lore-bartercnmy|barter]] (furs, sealskins, smoked meat, ale, iron tools) and through [[lore-kinhalcrdt|hall credit]] customs that have no relationship with the Vylarian banking system.
+Targud strikes no coin. Where a deal is made in money, the money is [[lore-vylrncrncy|Vylarian]] (aurion, argo and bit), and no chapter of [[affiliation-clgmrgntrrm|the Collegium Argentariorum]] operates in the Nordlands. Vylarian paper is _not_ honored: a traveler's note or any other paper instrument has to be turned into coin before it crosses the border. Anything larger than a purse can carry moves by [[lore-bartercnmy|barter]] in furs, sealskins, smoked meat, ale and iron tools, and by the running obligations of [[lore-kinhalcrdt|hall credit]], which have no connection to the Vylarian banking houses.
 
 ## See Also
 
-- [[place-targud|Targud]]—The land the kingdom holds
+- [[place-targud|Targud]]—the land the kingdom holds
+- [[place-tvalgard|Tvalgard]]—the seat and the king's hall
 - [[lore-trgdahstry|Histories and Legends of Targud]]—the kingdom's remembered past
-- [[place-grkrhlmrgn|Grukarholm Region]]—Eastern enemy
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—Sister kingdoms
-- [[affiliation-asguardian|Asguardian Pantheon]]—Pantheon
+- [[place-grkrhlmrgn|Grukarhölm]]—the eastern enemy
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the sister kingdoms
+- [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
