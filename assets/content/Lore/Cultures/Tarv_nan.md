@@ -64,7 +64,6 @@ Every Tarvéni word and term of art these notes use, with the ranks of the two �
 
 | Term                 | Meaning                                                                                                               |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Consejárath          | The council of great merchant houses that governs Valthári under royal charter                                        |
 | drengáko             | Warrior                                                                                                               |
 | dun                  | With                                                                                                                  |
 | ek                   | And                                                                                                                   |

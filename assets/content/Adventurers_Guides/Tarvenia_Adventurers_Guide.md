@@ -44,7 +44,6 @@ A company signs you on for a season abroad, and the employer begins to bend the 
 
 | Word           | Meaning                                                                                                               |
 | -------------- | --------------------------------------------------------------------------------------------------------------------- |
-| Consejárath    | The council of great merchant houses that governs Valthári under royal charter                                        |
 | First Magister | The chair of the Order of the Sealed Word, chosen by the Magisters for fifteen years; Magister Primus                 |
 | Magister       | The leader of a chapter house of the Sealed Word or the Twinblades                                                    |
 | oath-hearing   | A hearing on a broken oath, convened by the Sealed Word                                                               |
