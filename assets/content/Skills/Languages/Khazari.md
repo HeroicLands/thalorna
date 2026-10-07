@@ -398,7 +398,7 @@ Khazári hold that a name is not a label but a **charge**: it names work the bea
 
 ### Clans and Houses
 
-The Khazári are seven **clans**, the seven who fled to Thalorna together with their god Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In Khazártúrn each clan held one of the seven towers.
+The Khazári are seven **clans**, the seven who fled to Thalorna together with [[lore-khazararrv|Puthakun]], the agent of their god Luváth. A clan holds one **master craft**, and each of its **houses** holds a craft within it: a house name states that craft as an act, and the craft says which of the seven the house descends from. In Khazártúrn each clan held one of the seven towers.
 
 | Clan      | Skeleton | Master craft                                                                |
 | --------- | -------- | --------------------------------------------------------------------------- |

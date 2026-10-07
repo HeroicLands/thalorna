@@ -13,9 +13,9 @@ data:
   language: khazarlng
 ---
 
-**The Crossing of the Clans**, _Sarghakhudhál_, is the deep song (_havadh_) the [[lore-flkkhazar|Khazári]] sing of their own beginning, and a hold sings it once a year, below, on the night of [[lore-khazariclt|the turning of the year]]. The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: **Summágh**, **Dullák**, **Rummák**, **Gullád**, **Vurrán**, **Gurráz** and **Lummáv**, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the English below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through [[lore-khazararrv|the crossing]] into [[place-worldthlrn|Thalorna]], **Pathakan**, the servant of [[lore-goddreams|Luváth]], who had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
+**The Crossing of the Clans**, _Sarghakhudhál_, is the deep song (_havadh_) the [[lore-flkkhazar|Khazári]] sing of their own beginning, and a hold sings it once a year, below, on the night of [[lore-khazariclt|the turning of the year]]. The keepers of the archive read the year's craft-records first, and the lamps of the deepest hall are put out one at a time as the reading goes, so the song begins by the last lamp and ends when that lamp is put out and the hold climbs in the dark toward the face. The eldest masters sing it. The eldest present sings the courses of the lamp and the course of the old realm, and seven of the old sing the seven courses of the count, one clan each: **Summágh**, **Dullák**, **Rummák**, **Gullád**, **Vurrán**, **Gurráz** and **Lummáv**, in that order, whether or not a house of that clan lives in the hold, so a hold with no house of Gurráz still hears Gurráz counted. A deep song is laid in courses, as a wall is, each line bonded to the line under it by taking up the same root in another shape, and the English below keeps that bond audible where it can. The song names the realm the seven left once, in the mouth of the eldest, and nobody younger says it that night; it gives the war there, and the rings forged in it, as the thing the clans fled; it says who went first through [[lore-khazararrv|the crossing]] into [[place-worldthlrn|Thalorna]], **Puthakun**, the servant of [[lore-goddreams|Luváth]], who had the seven swear before it, held the passage behind the last of them and sealed it, and which clan went last of the seven; and of the end of the world it says that nobody has read it.
 
-The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Luváth is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Pathakan's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
+The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]], sold in a mountain market by a Khazár with no house name, which is how a song sung only below reaches a page at all: some exiles live by selling what a hold would not have sold. The sheet keeps the variant lines of more than one hold side by side, as the song itself does, and it is scored through in one place, where a line stood that the seller did not want read. No hold acknowledges the sheet. Luváth is the glow kept below, acknowledged in the song and not addressed by it; the veneration is Puthakun's, the one who brought the seven out alive, and the song pays it the way a hold pays anything, by counting. The whole hall answers each count with one word, and the indented lines in italics below are that answer; the indented lines that begin "Some holds sing" are the variant lines the sheet keeps side by side.
 
 : The Crossing of the Clans {#song}
 
@@ -44,7 +44,7 @@ That is the order of the count.
 Summágh.
 Listening, the listeners, the listened-for.
 Summágh listened before there was a stone here to listen to.
-They went in front. In front of them went Pathakan.
+They went in front. In front of them went Puthakun.
 What they heard they did not say until they were sure.
 When they were sure they said one word: here.
 They had a hammer each, a small one, for sounding, and no chisel,
@@ -98,7 +98,7 @@ Count five.
 Gurráz.
 Guarding, the guards, the guarded.
 Gurráz went last. Last is the guard's place.
-Last of the seven; behind the seven, Pathakan, and behind Pathakan, what Pathakan held.
+Last of the seven; behind the seven, Puthakun, and behind Puthakun, what Puthakun held.
 At the narrows Gurráz turned and looked back.
 Nothing followed. Gurráz says nothing followed.
 They set the shields down at the narrows and took up the tools.
@@ -111,7 +111,7 @@ Lummáv stood at the far mouth and counted.
 Each one through was counted. Seven clans, and the heads of seven.
 The count of heads is on the lead. The song does not carry it.
 The song would drop it on the stair, as a song does.
-Did Lummáv count Pathakan through? The record does not say.
+Did Lummáv count Puthakun through? The record does not say.
 Lummáv counted Lummáv first, which a recorder does not like to do,
 and did.
 Count seven.
@@ -125,7 +125,7 @@ head for head.
 Say it again:
 head for head.
 Seven are counted because seven came through.
-Came through, the coming-through; the one who brought them through was Pathakan.
+Came through, the coming-through; the one who brought them through was Puthakun.
 He brought them out alive, and the count is the whole of what we say to him.
 No song is sung to him. The count is sung. Hear it: seven.
 
@@ -140,7 +140,7 @@ Seven holds sing seven names for who said it, and the lead gives none,
 and the lead is right.
 Before the gathering there was a swearing.
 Sworn, the swearers; the oath sworn.
-Pathakan had the seven swear, seven mouths and one oath,
+Puthakun had the seven swear, seven mouths and one oath,
 before the wall was tapped, before anyone knew there was a far side.
 The oath was not cut. There was no stone of ours to cut it in.
 It was kept instead, and the count is the keeping of it.
@@ -184,8 +184,8 @@ and the hollow behind rang long, as a hollow does that goes somewhere.
 A wall that rings long is a wall with a far side.
 Summágh tapped it the length of a day. The song says a day.
 Nobody struck it. A struck wall is a wall you have decided about.
-Nobody had decided. Then Pathakan went in.
-Pathakan went in. Pathakan went first, and in front of the first, nothing.
+Nobody had decided. Then Puthakun went in.
+Puthakun went in. Puthakun went first, and in front of the first, nothing.
 Then the seven, as the count has them, Gurráz last.
 The way was a narrows, a squeeze, and it was not cut for us.
 Nobody cut it. We came through what was there.
@@ -198,21 +198,21 @@ and the chisels came through wrapped, as they had gone in.
 Nothing was dropped. Nothing is sung as dropped.
 If something was dropped, it is on the lead, and the lead is read on another night.
 
-Pathakan did not come through with the seven.
-Pathakan stood in the narrows behind the last of them,
+Puthakun did not come through with the seven.
+Puthakun stood in the narrows behind the last of them,
 and what came after came that far and no farther.
 What came after, the song does not say.
-Gurráz looked back and saw Pathakan, and saw nothing follow.
-When the last was through, Pathakan sealed the way.
+Gurráz looked back and saw Puthakun, and saw nothing follow.
+When the last was through, Puthakun sealed the way.
 Sealed, the sealing, the sealed place; nothing was cut to shut it.
-Then Pathakan came through, after the last, and the way behind was wall.
+Then Puthakun came through, after the last, and the way behind was wall.
 Summágh tapped it. It rang short.
 
-  Some holds sing: Pathakan carried the glow through,
+  Some holds sing: Puthakun carried the glow through,
   cupped, as a hand cups a lamp in a draught on a stair.
   Some holds sing: the glow was here already,
   in the crystal, in the deep, in the dark, kept, waiting,
-  and Pathakan found it, by listening for it.
+  and Puthakun found it, by listening for it.
 Both are sung. Both are sung in one hall, by the same mouths, on the same night,
 and the two who sing them sit side by side at the lamp.
 The record keeps neither. The record keeps the count.
@@ -229,15 +229,15 @@ The caves were hollow already. The dripstone was already as long as it was.
 There were others here before us, in the trees, under the open sky.
 The song counts them as it counts the trees: there.
 
-Pathakan went up to the first face and listened to it, as a finder listens.
+Puthakun went up to the first face and listened to it, as a finder listens.
 The finder does not say what the finder wants. The finder says what is there.
-Pathakan said what was there.
+Puthakun said what was there.
 Limestone, that the water eats, and hollows.
 Granite, that parts at the joint and nowhere else.
 Slate, that flakes in the frost and is honest about it.
 A seep, where the rock sweats. A spring, where it weeps.
 Stone, with its grain. Water, with its course. Dark, with a glow kept in it.
-Pathakan read the face and said: here.
+Puthakun read the face and said: here.
 Summágh heard it, and said it after: here.
 Those are the two words. The record has them in that order.
 
