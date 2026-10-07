@@ -7,7 +7,7 @@ description: "Attached to one of Hrímthur's scattered factions and doing its wo
 tags: []
 ---
 
-Attached to one of Hrímthur's scattered factions and doing its work, in the faith of Hrímthur.
+An adherent of one of [[lore-hrimthurspr|Hrímthur]]'s scattered factions, asked by a newcomer who gave them their standing, answers: "Nobody gave it. I hold it for what I have made or understood, and my faction lets me keep it for as long as it agrees. There is nobody above my faction to say otherwise, because there is nobody above any of us."
 
 ## What This Standing Is
 

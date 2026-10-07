@@ -7,11 +7,11 @@ description: "Given to a hof young and years short of the priesthood, in the eig
 tags: []
 ---
 
-Given to a hof young and years short of the priesthood, in the eight faiths of the Ten that keep the blót.
+Not every young Nordman spends years at a hof. A hofsmadr (hof acolyte) is given to a hof young, takes up its labor and learns its observances, and stands years short of the priesthood a godi holds.
 
 ## What This Standing Is
 
-A hofsmadr is given to a hof young, taking its observances and its labor for years short of the priesthood a godi holds. The hof admits a candidate on its own terms and may dismiss him on the same terms: a rank the hof confers, and not a stage every young Nordman passes through alike.
+The hof admits a candidate on its own terms and may dismiss him on the same terms; the rank belongs to the hof to confer.
 
 ## How the Law Treats a Person Here
 

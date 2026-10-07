@@ -7,11 +7,11 @@ description: "The leading standing of a devotional order of the faiths of the Te
 tags: []
 ---
 
-The leading standing of a devotional order of the faiths of the Ten, holding its fullest claim on what it confers.
+Every one of the twenty-nine devotional orders has a leader, and in every one the leader's standing is the last the order records. A dróttstjóri carries the order's purpose furthest and speaks or acts for it where a devotee cannot.
 
 ## What This Standing Is
 
-A leader holds an order's fullest standing, the rung above which none of the twenty-nine orders records a further one. He carries the order's purpose furthest—leading its study, its healing, its guardianship or its fight—and speaks or acts for it where a devotee cannot.
+A leader holds an order's fullest standing, the rung above which none of the twenty-nine orders records a further one. He leads its study, its healing, its guardianship or its fight, whichever the order was formed for.
 
 ## How the Law Treats a Person Here
 

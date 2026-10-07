@@ -7,11 +7,11 @@ description: "The full member of the Order of the Giant's Children, admitted by 
 tags: []
 ---
 
-The full member of the Order of the Giant's Children, admitted by a rite of ordeal and theological examination.
+A Giant's Child tells a Frost-Touched candidate who asks what the ordeal is for: "We hold that a fight properly fought shares in the violence that cut the world from [[lore-hrimthurspr|Hrímthur]]'s body. So we fight at the order's call and nowhere else, never for pay, crown, jarl or grudge, because sacred strength is not for sale."
 
 ## What This Standing Is
 
-The Born of the Wound is admitted after a formal rite that involves both severe physical ordeal and theological examination, following a year or more as a Frost-Touched candidate. Wearing the order's mark, he is a full member, sworn to the doctrine that combat properly conducted participates in the cosmogonic violence that cut the world from Hrímthur's body.
+The Born of the Wound is admitted after a formal rite that involves both severe physical ordeal and theological examination, following a year or more as a Frost-Touched candidate. Wearing the order's mark, he is a full member, sworn to the order's doctrine of sacred combat.
 
 ## How the Law Treats a Person Here
 
@@ -23,7 +23,7 @@ He wears the order's mark, fights at the order's call believing the act sacred, 
 
 ## Obligations
 
-He keeps the Renewal of Founding, the Cultivation of the Body, and the Refusal of Hire: he trains without allowing his body to weaken, fights only at the order's call and never for payment, and holds the order's doctrine with the seriousness it demands.
+He keeps the **Renewal of Founding**, the **Cultivation of the Body**, and the **Refusal of Hire**: he trains without allowing his body to weaken, fights only at the order's call and never for payment, and holds the order's doctrine with the seriousness it demands.
 
 ## Offices Open at This Standing
 

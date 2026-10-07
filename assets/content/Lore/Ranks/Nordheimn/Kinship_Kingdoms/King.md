@@ -7,7 +7,7 @@ description: "The sovereign, chosen from the royal clans and acclaimed at the ti
 tags: []
 ---
 
-The sovereign, chosen from the royal clans and acclaimed at the ting, in the five kingdoms.
+A king keeps his arm-ring on the ting's consent. The assembly that acclaims him can decline to hand it back, and a king who loses that consent loses the throne with it.
 
 ## What This Standing Is
 
@@ -15,7 +15,7 @@ A king is chosen from the royal clans and acclaimed at the ting, holding the rea
 
 ## How the Law Treats a Person Here
 
-The assembly that acclaims him can refuse his arm-ring back: the ting's consent is not a formality performed once at his accession but a standing condition of his rule, and a king who loses it loses the throne with it.
+The assembly that acclaims him can refuse his arm-ring back. Its consent stands behind his rule for as long as he reigns.
 
 ## Privileges
 
@@ -27,7 +27,7 @@ He answers to the ting for the realm as a jarl answers for a province: its peace
 
 ## Offices Open at This Standing
 
-None above it. The King of All Clans assembly, which convenes at [[place-domsey|Dómsey]] and is held by whichever kingdom holds that island, is an office of that separate assembly rather than a further rank of any one kingdom.
+None above it. The King of All Clans assembly meets every seventh year on [[place-domsey|Dómsey]], the island Nordheim holds. It is a separate assembly with no standing officers, and it adds no further rank to any one kingdom.
 
 ## Where This Standing Is Held
 

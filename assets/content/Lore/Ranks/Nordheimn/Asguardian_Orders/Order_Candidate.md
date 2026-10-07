@@ -7,7 +7,7 @@ description: "Admitted on a sworn order's own terms and dismissible on them, in 
 tags: []
 ---
 
-Admitted on a sworn order's own terms and dismissible on them, in three of the four Asguardian fighting orders.
+Here is how a senior of the [[affiliation-eidhond|Order of the Sworn Hand]] puts it to a new Hand-Squire: "You wear nothing yet. You eat the order's bread, you learn at my elbow, and a senior can send you home, because you have sworn nothing that a council would have to try you under." The [[affiliation-ordrstrmspkrs|Storm-Speakers]] say the same to a Storm-Aspirant and the [[affiliation-thursborn|Giant's Children]] to a Frost-Touched, each in its own words. A candidate is the one standing in a sworn order that the order can set aside at will.
 
 ## What This Standing Is
 

@@ -7,11 +7,11 @@ description: "The full member of the Order of the Storm-Speakers, acting on the 
 tags: []
 ---
 
-The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands.
+"You have passed the martial examination and the devotional one," a Sworn Speaker tells a Storm-Aspirant at [[place-thrumufjall|Thrumufjall]]. "The third is the storm. If it finds nothing in you, you go home, however good you are."
 
 ## What This Standing Is
 
-A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a Storm-Aspirant after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity conducted at [[place-thrumufjall|Thrumufjall]] during a thunderstorm, which dismisses a candidate regardless of other merit if it finds nothing in him.
+A Sworn Speaker is permitted to act on the order's behalf and to draw on its hospitality across the Nordlands. He is elevated from a [[lore-ordrcandidrnk|Storm-Aspirant]] after passing three examinations—martial, devotional, and the receptive test of latent weather-sensitivity, conducted during a thunderstorm.
 
 ## How the Law Treats a Person Here
 
@@ -23,7 +23,7 @@ He acts on the order's behalf, draws its hospitality anywhere in the Nordlands, 
 
 ## Obligations
 
-He keeps the Hammer Held, the Storm Honored, and the Reading and the Speaking: his craft serves the ordered world's defense rather than personal gain, he does not summon weather for convenience or sport, and he reads before he intervenes.
+He keeps the **Hammer Held**, the **Storm Honored**, and the **Reading and the Speaking**: his craft serves the ordered world's defense rather than personal gain, he does not summon weather for convenience or sport, and he reads before he intervenes.
 
 ## Offices Open at This Standing
 

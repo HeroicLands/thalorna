@@ -7,7 +7,7 @@ description: "Held in high regard and given a named place for it, in the five ki
 tags: []
 ---
 
-Held in high regard and given a named place for it, in the five kingdoms and the Jarldom of Stormveld.
+Here is how a king's Hringvördr, who keeps the rings the king gives, puts the standing to a huscarl newly sworn: "The ring is a seat. The hall hears you before it hears a common bóndi, and in return the service you swore stays sworn."
 
 ## What This Standing Is
 
