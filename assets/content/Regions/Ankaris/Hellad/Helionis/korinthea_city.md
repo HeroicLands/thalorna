@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## Overview
 
-In **Korinthea**, a dispute between a merchant and a noble is more likely to end at the Temple of [[affiliation-arldnpnthn|Árdavon]] than before a magistrate. The temple operates as the city's de facto court, and Árdavon is the god of order and justice. This is a Helionite city of 40,000, governed by an oligarchy of its wealthy patron families through a council, and its civic life turns on law and honor.
+In **Korinthea**, a dispute between a merchant and a noble is more likely to end at the Temple of [[lore-janusdty|Árdavon]] than before a magistrate. The temple operates as the city's de facto court, and Árdavon is the god of order and justice. This is a Helionite city of 40,000, governed by an oligarchy of its wealthy patron families through a council, and its civic life turns on law and honor.
 
 ## Who Governs
 
-The Council of Korinthea is the visible government, with an Archon at its head and the city's high nobility behind it. The council consults the temple on matters of law and civic honor, so the judges of Árdavon carry weight in the city well beyond the temple's walls. The High Judge of the Temple settles disputes between merchants and nobles alike, and his judgment is final in most of them. A visitor with a grievance finds that Korinthea has a place for it, and that the place is a sanctuary with a bench.
+The Council of Korinthea is the visible government, with an archon at its head and the city's high nobility behind it. The council consults the temple on matters of law and civic honor, so the judges of Árdavon carry weight in the city well beyond the temple's walls. The High Judge of the Temple, [[being-dumarsrfrs|Dûmàrês Râfîrôs]], settles disputes between merchants and nobles alike, and his judgment is final in most of them. A visitor with a grievance finds that Korinthea has a place for it, and that the place is a sanctuary with a bench.
 
 ## Character
 
