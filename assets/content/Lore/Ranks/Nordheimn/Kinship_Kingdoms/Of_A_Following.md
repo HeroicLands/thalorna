@@ -7,7 +7,7 @@ description: "Free and of no clan, answering through a following rather than thr
 tags: []
 ---
 
-Free and of no clan, answering through a following rather than through kinship, in the five kingdoms and the Jarldom of Stormveld.
+A free person with no clan has nobody to answer for them, so the law finds someone else. A lidmadr is vouched for by a following in place of kin, whether that is a former master, a company under a captain or the terms on which a settler was welcomed.
 
 ## What This Standing Is
 

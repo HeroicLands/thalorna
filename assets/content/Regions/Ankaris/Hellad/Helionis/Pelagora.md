@@ -81,20 +81,28 @@ data:
 sohl: {system: {commonSkills: [helonclng]}}
 ---
 
-- **Patron Deity:** [[affiliation-arldnpnthn|Árdavon]] (order and justice)
-- **Government:** Democratic assembly of free citizens
-
 ## Overview
 
-Pelagora is the naval power of [[place-helionis|Heliónis]]—the city-state that commands the most important harbors and controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]]. Its citizen-sailors are formidable fighters, its fleet the largest in the region, and its harbor one of the finest natural anchorages in the central sea. Where [[affiliation-thyrenae|Thyrenae]] leads in philosophy, Pelagora leads in ships, trade, and the projection of military force. The city-state holds [[place-pelagora2|Pelagora]] itself.
+"Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Heliónis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]], and keeps the largest fleet in the region. About 410,000 people live under its assembly, and 40,000 of them in the city of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
 
-## Character
+- **Patron deity:** [[lore-janusdty|Árdavon]], god of order and justice
+- **Government:** democratic assembly of free citizens
 
-Pelagora is a democracy in the Helionite tradition: its assembly of free citizens votes on matters of war, trade, and law, and every citizen is expected to serve in the fleet or the militia. The result is a city-state that is loud, passionate, and politically volatile—assembly debates can turn into shouting matches, and demagogues rise and fall with the public mood. But the system also produces a fiercely patriotic citizenry who fight for their city because they own a share of it.
+## Who Decides
 
-Pelagora's shipwrights build the fastest galleys in the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions, and the occasional pirate fleet with equal determination.
+Pelagora is a democracy in the Helionite tradition, and the assembly is its government. Free citizens meet there to vote on war, trade and law, and each is expected to serve in the fleet or the militia, so every voter carries a personal stake in the decision he votes for. The assembly is no quiet room: a speaker who reads its mood well rises fast, and falls as fast when the mood turns. The same arrangement gives the city citizens who fight hard because the city is partly theirs.
 
-Pelagora is more commercially minded than scholarly Thyrenae. Its merchants are wealthy and influential, its markets are well-stocked with goods from across the sea, and the city's economic power gives it a practical leverage that balances Thyrenae's intellectual prestige. The two cities are natural rivals—and natural partners, since Thyrenae needs Pelagora's fleet and Pelagora needs Thyrenae's diplomatic connections.
+The assembly elects the strategos, who commands the city's forces by land and sea, and the year takes its archon's name as in every Helionite city. Neither office overrides the assembly. Freedmen and metics trade in Pelagora's markets and vote on nothing.
+
+## The Fleet and the Sea
+
+Pelagoran shipwrights build the fastest galleys on the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions and the occasional pirate fleet with the same determination each time.
+
+Pelagora is more commercial than scholarly Thyrenae. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city a practical leverage that balances the prestige of its scholarly neighbor.
+
+## Relations
+
+Pelagora is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]]. Its dealings with [[affiliation-thyrenae|Thyrenae]] show how the leading cities work: each is rival and partner to the other, because a fleet without diplomats can win a battle and still lose the peace, and a city of diplomats without a fleet has nothing to back its words.
 
 ## Commerce and Currency
 
@@ -102,7 +110,7 @@ Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—The polity
-- [[place-helionis|Heliónis]]—Regional overview
-- [[place-pelagora2|Pelagora]]—The city itself
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-kalydria|Kalydria]]—Sister city-states
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
+- [[place-helionis|Heliónis]]—the region
+- [[place-pelagora2|Pelagora]]—the city itself
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-kalydria|Kalydria]]—the other two leading city-states

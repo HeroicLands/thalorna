@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Námaelendir, the Harbingers of Despair, carry [[affiliation-nahild|Náhild]]'s doctrine beyond her hidden hofs, spreading it through fear and terror since open preaching is a risk her hidden cult cannot take. A member works alone or in pairs, finding converts in places a public blót could never reach.
+"They do not preach in the market," a harbor-reeve says of the Harbingers of Despair. "They cannot."
+
+Námaelendir carry [[affiliation-nahild|Náhild]]'s doctrine beyond her hidden hofs and spread it through fear and terror, since open preaching is a risk the hidden cult cannot take. A member works alone or in pairs, and finds converts in places a public blót could never reach.

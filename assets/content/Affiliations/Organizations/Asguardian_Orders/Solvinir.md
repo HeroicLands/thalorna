@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Sólvinir, the Order of the Enchanted Rose, trains priests of [[affiliation-solrun|Sólrún]] in the arts of love and beauty, serving as advisors to the powerful and the influential who seek her favor. A member is as likely to be found counseling a jarl's court as attending a feast-hall's own rites.
+Those who seek [[affiliation-solrun|Sólrún]]'s favor and have power to lose often take counsel from the Order of the Enchanted Rose.
+
+Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjóri advises jarls and others of influence in Sólrún's name; a Dróttmadr trains in those arts at a feast-hall's hof and does not yet counsel the powerful.

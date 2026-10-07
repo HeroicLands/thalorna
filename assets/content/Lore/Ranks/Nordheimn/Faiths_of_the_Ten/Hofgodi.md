@@ -7,7 +7,7 @@ description: "The high priest who consecrates a hof and performs the great blót
 tags: []
 ---
 
-The high priest who consecrates a hof and performs the great blót at a season's turning, in the eight faiths of the Ten that keep it.
+No hof of the faith stands unless a hofgodi has consecrated it, and no godi keeps the blót unless a hofgodi has ordained him. That is the whole reach of the standing, and nothing in the faith sits over it.
 
 ## What This Standing Is
 

@@ -78,11 +78,23 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Athenikos is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. The city-state holds [[place-athenikos2|Athenikos]] itself. _To be expanded._
+A magistrate of Athenikos cannot leave the city until the auditor says his accounts agree. At the end of the year an auditor's clerk, bent over a retiring magistrate's ledgers, puts it plainly: "He may sail when I say the books balance, and not an hour before." The rule holds in every Helionite city-state, and Athenikos is one of them: a city-state of about 560,000 people governed by an oligarchy of its wealthy patron families. [[place-athenikos2|Athenikos]], with 55,000 of them, is its seat.
+
+- **Government:** oligarchy of wealthy patron families
+- **Seat:** the city of [[place-athenikos2|Athenikos]]
+
+## Who Decides
+
+The patron families hold the city, and they hold it inside the forms the seven city-states share. The assembly of citizens stays sovereign. A council chosen by lot prepares its business and changes every year. The strategos, the one officer the citizens elect, commands the city's forces. The archon presides for a year and lends it his name, so every record in Athenikos is dated by whoever held the office.
+
+## Standing and Relations
+
+Standing in Athenikos is the Helionite ladder. A citizen by descent votes and serves in the militia, a freedman works and trades without a vote for life, and a metic pays tax and stands the levy as a resident foreigner. Athenikos is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and shares the Helonic tongue, its gods and its festivals with the other six city-states, among which it competes in everything else.
 
 ## See Also
 
-- [[affiliation-ctysttshlns|City-States of Heliónis]]—The confederation
-- [[place-helionis|Heliónis]]—Regional overview
-- [[place-athenikos2|Athenikos]]—The city itself
-- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]], [[affiliation-theradon|Therádon]], [[affiliation-korinthea|Korinthea]]—Sister city-states
+- [[affiliation-ctysttshlns|City-States of Heliónis]]—the seven cities and how they are governed
+- [[place-helionis|Heliónis]]—the region
+- [[place-athenikos2|Athenikos]]—the city itself
+- [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
+- [[affiliation-theradon|Therádon]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the rest of the seven

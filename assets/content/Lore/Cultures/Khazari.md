@@ -114,9 +114,11 @@ The Khazári keep no single founding scripture. Their artifacts are records and 
 
 ## Craft as Prayer
 
-The god of the Khazári is [[lore-goddreams|Luváth]], the light that endures in deep places and the wisdom found in patient craft. Shaping stone and metal with skill and patience is itself a form of prayer, and an ordinary Khazár prays chiefly by working well. Listening before a cut is the commonest act of devotion in a hold, and it is performed every working day.
+The Khazári are not much given to worship. The one they venerate is [[lore-khazararrv|Puthakun]], the servant of [[lore-goddreams|Luváth]] who led the seven clans out of Humadhan alive: he is the savior of the Khazári, and every line on Thalorna runs back to someone he brought through. They honor him the way they honor any worker whose deed outlasts him. His name is kept, his deed is remembered below, and good work is the thanks a Khazár gives him. Luváth they recognize as Puthakun's master, the light that endures in deep places and the wisdom found in patient craft, and they ask little of the god and say little to it.
 
-Formal worship is done below. Each hold keeps its shrines, _huzafal_, and its deepest sanctuary, the _famgafudhán_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazári go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
+Shaping stone and metal with skill and patience is itself a form of prayer: work offered in Puthakun's memory and in accord with the mountain, and an ordinary Khazár keeps faith chiefly by working well. Listening before a cut is the commonest act of devotion in a hold, and it is performed every working day.
+
+The remembering is done below. Each hold keeps its shrines, _huzafal_, and its deepest sanctuary, the _famgafudhán_, deep in the rock, where the light is the light of lamps, forges and deep crystal rather than the sun. Most Khazári go down to them a few times in a season and at every turning of the year. There is no priesthood apart from the masters and the elders: the eldest masters of a hold lead its rites, because the rites are about the same discipline the workshops teach.
 
 ## The Year Going Down
 
@@ -138,6 +140,8 @@ Penalties run the other way, and an apprentice learns them in the order he is li
 ## The Elders of the Houses
 
 Humans who deal with a hold speak of a lord of the mountain. Inside the rock you answer to the council of the elders: a hold is governed by the elders of its houses sitting together, and the same elders lead the rites below. The faces that judge your quarrel in the deep hall are the faces you see by lamplight at the turning of the year.
+
+There is no lord inside the rock, and the rule comes from the city every hold was measured against. In the early centuries of [[lore-khazarturn|Khazártúrn]] one clan held the leadership of the city, the other clans contested it over farmland, mines and a fair share, and houses of two or three clans left to cut the first outlying holds. The record counts those departures as sendings, and every hold since has been governed by its council so that no single house can lead it.
 
 Which elders hear you depends on whom you quarrel with. A dispute inside your own house goes to its elders; a dispute with another house goes to the council of the hold; a matter that crosses holds goes to the elders of several holds together.
 

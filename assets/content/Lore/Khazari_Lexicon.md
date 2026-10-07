@@ -1675,6 +1675,7 @@ a name older than the rules is listed among the words older than the rules in [[
 | Vurrán                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `v-r-n` mastery                       |
 | Gurráz                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `g-r-z` mastery                       |
 | Lummáv                           | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `l-m-v` mastery                       |
+| Puthakun                         | [[lore-khazararrv\|The Coming of the Khazári]]  | `khazari` | `p-th-k` given name, man              |
 | The Cutting of Vorgald           | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
 | The Khazári Reach Aelwyth        | [[lore-vorgaldcut\|The Cutting of Vorgald]]     | `english` | —                                     |
 | Vorgald                          | [[place-vorgald\|Vorgald]]                      | `human`   | —                                     |

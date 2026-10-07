@@ -71,15 +71,25 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Gümüşhisar—the Silver Citadel—is a fortified mountain city that guards the eastern passes into [[place-byzariargn|Byzaría Region]]. It is the [[affiliation-byzarianlg|Byzarian League]]'s military backbone, maintaining the garrison and patrols that keep the mountain routes open for trade and discourage the ambitions of eastern warlords, desert raiders, and bandits. The city-state holds [[place-gumushisar2|Gümüşhisar]] itself.
+The smallest of the five League cities pays for the League's defense. [[place-gumushisar2|Gümüşhisar]] holds about 35,000 people inside its walls, and the silver mines in the peaks around it are the League's single greatest source of revenue, so the city-state of 1.4 million that it governs carries a political weight no one would guess from the size of the town. It guards the principal eastern pass into [[place-byzariargn|Byzaría]], and that fact settles most of what the other four cities think of it: the [[affiliation-byzarianlg|Byzarian League]] trades in peace because Gümüşhisar is ready for war.
 
-## Character
+## Who Decides
 
-Gümüşhisar is the most martial of the five city-states. While its sister cities trade and negotiate, Gümüşhisar fights—or more accurately, maintains a visible readiness to fight that makes actual fighting largely unnecessary.
+A military governor and a council of merchant-princes govern the city-state. The governor sits on the League council beside the merchant-princes, and his seat there is a reminder of whose garrison the League's prosperity rests on. The city's own council elects a First of the Council for a fixed term, who holds the city's seal.
 
-The city's silver mines in the surrounding mountains fund the League's collective defense, and the income gives Gümüşhisar a political weight that belies its smaller population. The mining operations also support a community of skilled engineers and metalworkers. The city's military governor sits on the League council alongside the merchant-princes, a reminder that the League's prosperity ultimately rests on the security of its trade routes.
+The garrison's work is deterrence. It keeps the mountain routes open for trade and keeps eastern warlords, desert raiders and bandits from testing them, and its visible readiness to fight is meant to make fighting unnecessary. The command beyond the pass is a separate one. The Lord Commander of the [[place-eastrnmrch|Eastern March]] answers to the League council, not to the governor, and the two commands are meant to check each other; because they face the same country they cooperate closely, with a mounted reserve at Gümüşhisar able to reach any post on the March within two days.
 
-Its monasteries of the eastern rite are particularly influential here, and the city's monks serve as chroniclers, healers, and occasional diplomatic intermediaries with the peoples beyond the passes.
+## The Monasteries
+
+The monasteries of the eastern rite are especially influential here, and they are the city's chroniclers and healers and its go-betweens with the peoples beyond the passes. One monk of Gümüşhisar describes the arrangement to a visitor from the coast: "The garrison keeps the pass. We keep the record of what crosses it, and we are the ones the other side will speak to." The monastic tradition of chronicling here is the most serious in the region, and its ascetic discipline shapes the city's whole austere character.
+
+## Standing
+
+Gümüşhisar keeps the League's ladder of standing. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts; the resident lives and labors under its protection without its freedom or a vote. Above the freeman stand the guild master, the house factor, the house head and the councillor, and the military governor holds a place on the League council that no rung of the ladder describes: he is there for the garrison.
+
+## Relations
+
+Gümüşhisar is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Its silver goes into the common treasury that pays the March's garrison and the joint army all five cities raise by conscription, and that arrangement is the reason the other four cities put up with a soldier at the council table.
 
 ## Commerce and Currency
 
@@ -87,7 +97,8 @@ Gümüşhisar uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus 
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[place-gumushisar2|Gümüşhisar]]—The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]]—Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose defense its silver pays for
+- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-gumushisar2|Gümüşhisar]]—the citadel city
+- [[place-eastrnmrch|Eastern March]]—the frontier district beyond the pass
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-karatas|Karataş]]—the other four city-states

@@ -7,15 +7,15 @@ description: "The priest who takes Náhild's sacrifices in hiding, in the faith 
 tags: []
 ---
 
-The priest who takes Náhild's sacrifices in hiding, in the faith of Náhild.
+Outsiders cannot name the person who keeps one of [[affiliation-nahild|Náhild]]'s hidden hofs, and that is what the secrecy is for. A godi or gydja takes the sacrifices of a hof in hiding, and every initiate and offerer keeps silent chiefly to protect that one person and the rite they keep.
 
 ## What This Standing Is
 
-Her godi or gydja takes the sacrifices of a hidden hof, in a worship every other faith of the Ten holds heretical. No rank sits above this one: a hidden hof has no keeper anyone outside may name, and there is no great public blót for a higher standing to perform.
+In a worship every other faith of the Ten holds heretical, no rank sits above this one: a hidden hof has no keeper anyone outside may name, and there is no great public blót for a higher standing to perform.
 
 ## How the Law Treats a Person Here
 
-He carries the whole of the hof's exposure: naming him to the wrong ears is the act that turns a man into a betrayer, and the secrecy every initiate and offerer keeps exists chiefly to protect him and the rite he keeps.
+He carries the whole of the hof's exposure: naming him to the wrong ears is the act that turns a man into a betrayer, and the secrecy every initiate and offerer keeps protects him and the rite he keeps.
 
 ## Privileges
 

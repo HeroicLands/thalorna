@@ -7,15 +7,15 @@ description: "Sworn keeper of a hall's record, entitled to food, shelter and saf
 tags: []
 ---
 
-Sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall, in the Skalds' Circle.
+When an inheritance, a contested oath or a tribute owed three winters ago is in dispute, the courts ask a skald what was said, and they bind their rulings to the answer as they bind them to no unsworn witness.
 
 ## What This Standing Is
 
-A skald is sworn into the Circle by his own master once his gyldra is accepted at a Skaldating, and wears the silver arm-ring, the skaldhringr, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
+A skald is sworn into the Circle by his own master once his first saga, the _gyldra_, is accepted at the **Skaldating**, and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
 
 ## How the Law Treats a Person Here
 
-His recitation is treated as documentary evidence: an inheritance dispute, a contested oath, a question of tribute owed three winters ago is settled by his recital, and the courts bind their rulings to what he recites in a way they bind them to no unsworn witness's word.
+His recitation is treated as documentary evidence, and a dispute over what was said or owed is settled by his recital.
 
 ## Privileges
 

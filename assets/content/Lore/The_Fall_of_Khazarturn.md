@@ -55,6 +55,12 @@ and Lummáv, the seven that fled to Thalorna together around 5300 BF (see
 [[lore-khazararrv|The Coming of the Khazári]])—and each tower was that clan's, and the city was theirs jointly and severally in a way the
 Khazári have never bothered to explain to anyone else.
 
+A **lake** lies on the valley floor below the cliff, so still that the songs see the towers twice, and
+at noon it shines like worked silver. The seven looked down on it day and night, because each tower
+was a **watch-tower** as well as a clan's seat. Every clan kept its own tower manned at every hour,
+and the Gurráz, the clan whose craft is guarding, kept the rota that said who stood the watch in
+which tower and when.
+
 ## Seen From Within
 
 Every one of the seven was built to be **indistinguishable, from outside, from a natural feature of the
@@ -124,6 +130,27 @@ along the great ways, and stood seven towers out from the cliff. And they fed it
 reshaped the country around it for twenty-seven centuries. Seven clans, in a world where nobody else
 was building, made one thing together for joy at the height of their skill, and every Khazár
 knows it as the finest thing their people ever made and as the thing no hold has made since.
+
+## The Quarrel
+
+The city was not always held by seven equals. This part comes from the Khazári record, and the
+holds keep it for themselves: in Khazártúrn's early centuries one clan held the
+**leadership of the city**, and the other six contested it. The quarrel was over three things a city
+inside a mountain never has enough of—the farmland of the valley and the country around it, the
+mines in the mountain, and a fair share of what both produced. Which of the seven held the
+leadership is not said outside a hold.
+
+The quarrel ended in departures. Houses of two or three of the clans left the valley with their tools
+and their records and cut the first outlying holds. The record enters each departure as a **sending**, the same word it uses for every
+hold the city sent out afterward, so that a hold founded in anger and a hold founded by plan stand in
+the record side by side, each with its date and its count of founders. The sendings went on for
+centuries after the quarrel was settled, and [[place-vorgald|Vorgald]], cut about 3100 BF across the
+sea, is a late one.
+
+What stayed behind was the city as the account knows it: seven towers held jointly by seven clans,
+with no clan over the others, from the quarrel's settling until the city fell in 2427 BF. Every hold
+on Thalorna governs itself on the lesson. A hold answers to the council of its elders, no single
+house leads it, and the Khazári put the rule in one phrase: there is no lord inside the rock (see [[lore-khazariclt|Khazári]]).
 
 ## The Judgment
 

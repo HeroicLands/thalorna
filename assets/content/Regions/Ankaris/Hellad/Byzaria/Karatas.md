@@ -71,13 +71,21 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Karataş—Blackstone—is the [[affiliation-byzarianlg|Byzarian League]]'s mining and manufacturing heart. The city-state holds [[place-karatas2|Karataş]] itself.
+Karataş is the one League city where the people who make the goods have a say in how the city is run. The craft guilds control the quality and quantity of what its forges and workshops produce, and their masters sit on the city council with as much authority as the merchant-princes. About 1.6 million people live in the city-state, whose seat is [[place-karatas2|Karataş]], Blackstone, in the mountainous interior of [[place-byzariargn|Byzaría]], and the others in the [[affiliation-byzarianlg|Byzarian League]] regard it as the least glamorous of the five and the one they could least do without.
 
-## Character
+## Who Decides
 
-Where Altinkale glitters and Denizara bustles, Karataş works. The city is less glamorous than its sister states but no less essential—the League's commerce ultimately depends on having goods to sell, and Karataş provides them. The city's craft guilds are powerful institutions that control the quality and quantity of production, and the guild masters sit on the city council with as much authority as the merchant-princes.
+A guild council and the merchant-princes share the government. The guilds control the quality and quantity of production, so a buyer who wants a blade, a cast or a commission negotiates with a guild before any merchant-prince. That makes Karataş a working-class city whose politics run more egalitarian than the oligarchies of Altinkale and Denizara, or at least more contentious. An ore-wagon driver on the mountain road says it from his own seat: "I know whose seal is on my load before I know its weight."
 
-Karataş has a distinctive working-class character that sets it apart from the other League cities. Its population includes a large community of miners, smiths, and craftspeople, and the city's politics tend to be more egalitarian—or at least more contentious—than the merchant oligarchies of Altinkale or Denizara. The guild system gives ordinary craftsmen a political voice that workers in other League cities lack.
+The council elects a First of the Council for a fixed term, who holds the city's seal. In Karataş the Guild Master, who speaks before the council for a chartered trade and answers for his members' conduct, sits at that table with the same authority as a merchant-prince.
+
+## Standing
+
+Standing runs from the register outward. The freeman is enrolled in the city's register, trades in its markets and pleads in its courts. Above him the guild master heads a chartered trade; a house factor runs a great house's warehouses and ships; the house head, councillor and First of the Council govern. Below the freeman the resident labors under the city's protection without its freedom, and the unfree are bound in service or debt. The guild system gives ordinary craftsmen a political voice that workers in the other League cities lack.
+
+## Relations
+
+Karataş makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and Gümüşhisar lie the **Sycâni holds**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Karataş brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]].
 
 ## Commerce and Currency
 
@@ -85,7 +93,8 @@ Karataş uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oct
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[place-karatas2|Karataş]]—The city itself
-- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]]—Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation
+- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-karatas2|Karataş]]—the forge city
+- [[place-eastrnmrch|Eastern March]]—the frontier whose Sycâni holds Karataş brokers with
+- [[affiliation-altinkale|Altinkale]], [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]]—the other four city-states

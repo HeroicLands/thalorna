@@ -159,7 +159,7 @@ Four things are entered on the day they happen and never on the day after: a cut
 
 Once in a sixty of years, and some sixties not at all, the elders of several holds sit together and compound a house name for a hand no house can account for. Do not work toward it. The ones it was given to were doing something else.
 
-You honored **Pathakan** this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
+You honored **Puthakun** this morning when you tapped the face and waited. Everything you have said in his name since has been repeating yourself.
 
 An apprentice copied the whole chain onto one slate and brought it to Kevale to be told that he had it. She set the slate on the assay balance against a blank one from the shelf and read him the weight. She said: It is heavier than it was. You are not.
 

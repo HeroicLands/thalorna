@@ -16,7 +16,7 @@ the witnesses who first heard it; a tale can change while the place it names rem
 Forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
 of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. **Völva Aldrhildr** was accused but not tried. A
-Sworn Hand ruled that foretelling alone was no working against a named person.
+[[lore-swornhandrnk|Sworn Hand]] ruled that foretelling alone was no working against a named person.
 
 The ruling survives as a precedent, while the deaths remain a grievance. Some plateau clans avoid
 Dvarnvík. Descendants of the accused keep their own accounts of who spoke against whom. Repeating the

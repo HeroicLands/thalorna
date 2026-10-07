@@ -11,14 +11,14 @@ The **Fire-Weeks** are the defining ordeal of [[affiliation-svartbrandr|Svartbra
 
 ## The Ordeal
 
-A postulant proves devotion here. The [[lore-svartbrandrdty|Svartbrandr]] account of the rite names the **Ashen Walk** across hot coals as its trial: the postulant either survives it on his own feet or does not undertake it again. The faith's ceremonies describe the same walk as the rite in which high priests cross coals or flames to show their devotion and their immunity to fire.
+"You walk it on your own feet," a forge-hof's Hofgodi tells a postulant, "or you do not walk it again." A postulant proves devotion here. The [[lore-svartbrandrdty|Svartbrandr]] account of the rite names the **Ashen Walk** across hot coals as its trial: the postulant either survives it on his own feet or does not undertake it again. The faith's ceremonies describe the same walk as the rite in which high priests cross coals or flames to show their devotion and their immunity to fire.
 
 ## Who Keeps Them
 
-- A **Hofsmadr** is given to a forge-hof young and labors at its bellows and its Fire-Weeks for years before any claim on the priesthood.
-- A **Godi** or **Gydja** is ordained to keep a hof's rites and its Fire-Weeks outright.
-- A **Hofgodi** or **Hofgydja** performs the Fire-Weeks, with the great blót, at a season's turning.
-- A **Hofsgodi** keeps a named forge-hof together with its Fire-Weeks, its stores and its blót.
+- A _Hofsmadr_ is given to a forge-hof young and labors at its bellows and its Fire-Weeks for years before any claim on the priesthood.
+- A _Godi_ or _Gydja_ is ordained to keep a hof's rites and its Fire-Weeks outright.
+- A _Hofgodi_ or _Hofgydja_ performs the Fire-Weeks, with the great blót, at a season's turning.
+- A _Hofsgodi_ keeps a named forge-hof together with its Fire-Weeks, its stores and its blót.
 
 ## Refusal
 

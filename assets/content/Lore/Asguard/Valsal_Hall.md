@@ -18,4 +18,4 @@ data:
 
 Seating is the hall's whole government. A man's place along the bench is his standing, the standing is what he died with, and it is reckoned once and not revisited—no deed is done in Ódvarshöll that could move a man up the room. The high seat is Ódvar's, the seats beside it are the ones the sagas argue over, and the door-seat is nobody's disgrace.
 
-The Feast of Valsal is kept in [[place-worldthlrn|Mannguard]] on the same account: the mead poured at a hof on that night is poured for men who are eating already. Ódvar's clergy are careful to say that the living are joining the hall's feast rather than sending anything up to it.
+The [[affiliation-odvar|Feast of Valsal]] is kept in [[place-worldthlrn|Mannguard]] on the same account: the mead poured at a hof on that night is poured for men who are eating already. Ódvar's clergy are careful to say that the living are joining the hall's feast rather than sending anything up to it.

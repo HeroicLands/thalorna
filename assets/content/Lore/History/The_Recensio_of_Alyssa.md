@@ -51,7 +51,7 @@ data:
 ---
 
 The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their
-working-books to one place in the Alyssan country, a day's ride from what is now Velysâra, to be
+working-books to one place in the Alyssan country, a day's ride from what is now [[place-velysara|Velysâra]], to be
 copied into a single register the Senate could hold—and for a season it put the whole of the
 Republic's arcane knowledge, and very nearly the whole of its arcane manpower, inside one set of
 walls.

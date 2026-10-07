@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hallarvinir, the Healers of the Hearth, are priests of [[affiliation-frodvin|Fródvin]] devoted to the body and the soul together, caring for the sick and comforting the distressed at the valley infirmaries his faith keeps. A member's work is indoor and constant, set beside [[affiliation-gronhond|Grönhönd]]'s own work in the fields and groves outside.
+Say you are carried into a valley infirmary of [[affiliation-frodvin|Fródvin]] with a fever. The one who sits with you tends your body and your fear together, and does not distinguish between them.
+
+Hallarvinir, the Healers of the Hearth, are priests devoted to the body and the soul at once, caring for the sick and comforting the distressed at the infirmaries the faith keeps. Their work is indoor and constant, set beside the outdoor work of [[affiliation-gronhond|Grönhönd]] in the fields and groves.

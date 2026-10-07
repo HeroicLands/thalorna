@@ -60,66 +60,37 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-[[lore-solrundty|Sólrún]], the goddess of love, beauty, and prosperity, stands as an alluring and multifaceted figure in the pantheon. She inspires passion and enchantment, capturing the hearts of all who seek her favor. As the goddess of prosperity, she is a powerful patroness for merchants, usurers, and all who pursue wealth.
+A trader who holds a Blótmadr's seat at a feast-hall describes her faith's arithmetic: "I came to the hof with a ledger and the first thing the Hofgydja did was ask me what I had given away that season. Not what I had earned. I understood by midwinter that the earning is my business and the giving is hers, and that she is the better accountant."
 
-## Aspects
+[[lore-solrundty|Sólrún]] is the goddess of love, beauty and prosperity, an alluring, many-sided figure among the Ten. She inspires passion and enchantment and draws the hearts of those who seek her favor, and as goddess of prosperity she is patroness of merchants, usurers and everyone who pursues wealth. She and [[lore-odvardty|Ódvar]] hold the craft of seidr in their keeping, which is why most of the itinerant völvur count themselves her servants or his, and half of the honored dead pass to her field at [[place-solvangr|Sólvangr]] and to her hall, [[place-solvangrhall|Sólrúnshöll]].
 
-Sólrún's temples are grand structures that serve dual purposes as centers of commerce and pleasure palaces, adorned with opulent decorations blending the awe of divine beauty with the wealth of mercantile success. Inside, one may find luxurious halls where transactions are made, alongside sumptuous chambers dedicated to hedonistic pursuits.
+## The Hof and the Priestesses
 
-The priestesses of Sólrún are renowned for their mastery of the art of seduction. They are not just spiritual guides but also enchantresses who embody the goddess's alluring qualities. Skilled in the ways of attraction, charm, and negotiation, they serve as intermediaries who can turn desires into reality, be they of the heart or of the purse.
+Her temples are grand structures that serve as centers of commerce and as pleasure palaces, and their rich decoration joins the awe of divine beauty to the wealth of mercantile success. Inside are luxurious halls where bargains are struck and sumptuous chambers given to hedonistic pursuits. The priestesses are renowned for their mastery of seduction, and they are enchantresses as well as spiritual guides, skilled in attraction, charm and negotiation. They serve as intermediaries who can turn desires into reality, whether the desire is of the heart or of the purse.
 
-Sólrún is depicted as a radiant and sensual goddess, her beauty unparalleled and her charm irresistible, often shown adorned with elegant garments and precious jewels. In her hands, she may hold a mirror, a symbol of beauty and self-reflection, or a cornucopia, representing prosperity and abundance.
+Sólrún is shown as a radiant and sensual goddess of striking beauty and irresistible charm, dressed in elegant garments and jewels. In her hands she may hold a mirror, which stands for beauty and self-reflection, or a cornucopia, which stands for prosperity and abundance. A worshipper carries a rose petal for love and beauty, a silver coin for prosperity and wealth, a mirror shard used in rites of self-reflection, or a honeycomb for abundance and sweetness in life. Two relics belong to the faith. The **Mirror of Desire** is a sacred mirror said to show a person's truest desires. **The Cornucopia of Abundance** is unique, a divine horn that pours out endless wealth and prosperity.
 
-## Sacred Objects
+## The Clergy
 
-- **Rose Petal:** Represents love and beauty.
-- **Silver Coin:** Symbolizes prosperity and wealth.
-- **Mirror Shard:** Used in rituals of self-reflection.
-- **Honeycomb:** Signifies abundance and sweetness in life.
+The faith's highest rank, Hofgodi or Hofgydja, is held by women alone. Every rung belongs to a feast-hall:
 
-## Relics
+- Refused the Blót: denied the offering at a feast-hall, and cut from the clergy and from the generosity that measures standing there.
+- Blótmadr: attends the blót at a feast-hall and shares its meal and the gold given away there.
+- Hofsmadr: given to a feast-hall's hof young, laboring at its stores and its rites before any claim to the priesthood.
+- Godi / Gydja: ordained to keep a feast-hall's rites and the giving-away of its gold.
+- Hofgodi / Hofgydja: consecrates feast-hall hofs, ordains their godar, and performs the great blót at a season's turning.
 
-- **Mirror of Desire:** A sacred mirror said to reflect one's truest desires.
-- **The Cornucopia of Abundance:** (Unique) A divine horn that pours forth endless wealth and prosperity.
-
-## Clergy
-
-The faith's highest rank, Hofgodi/Hofgydja, is held by women alone.
-
-- **Refused the Blót**—denied the offering at a feast-hall, cut from the clergy and from the generosity that measures standing there.
-- **Blótmadr**—attends the blót at a feast-hall and shares its meal and the gold given away there.
-- **Hofsmadr**—given to a feast-hall's hof young, laboring at its stores and its rites before any claim to the priesthood.
-- **Godi / Gydja**—ordained to keep a feast-hall's rites and the giving-away of its gold.
-- **Hofgodi / Hofgydja**—consecrates feast-hall hofs, ordains their godar, and performs the great blót at a season's turning.
-
-**Key Skills:** Seduction and charm, Mercantilism, Mathematics
-
-## Divine Servants
-
-- **Seraphs of Desire:** Ethereal beings who embody Sólrún's allure, serving as guides in rituals of love and beauty.
-- **Gilded Wisps:** Spirits that bring wealth and prosperity to Sólrún's followers, often appearing as shimmering lights.
+The faith teaches seduction and charm, mercantilism and mathematics. Two kinds of servant belong to the goddess: the **Seraphs of Desire**, ethereal beings who embody her allure and guide the rites of love and beauty, and the **Gilded Wisps**, spirits that bring wealth and prosperity to her followers and often appear as shimmering lights.
 
 ## Ceremonies and Festivals
 
-**Low Ceremonies:**
+The low ceremonies are two. At the **Blessing of Wealth** the faithful offer tokens of gold or precious items to Sólrún and ask for prosperity and financial success. The **Golden Veil** is a mystery rite for those who have proved their devotion, at which the clergy put on transparent golden garments and perform sacred rites of seduction with the faithful. The high ceremony is the **Rite of Enchantment**, in which high priests call on Sólrún's power to bless objects, people or places with beauty, charm and wealth.
 
-- **The Blessing of Wealth:** A ritual where the faithful offer tokens of gold or precious items to Sólrún, asking for prosperity and financial success.
-- **The Golden Veil:** A mystery rite for those who have proven their devotion to Sólrún where the clergy don transparent golden garments and perform sacred rituals of seduction with the faithful.
-
-**High Ceremonies:**
-
-- **The Rite of Enchantment:** A sacred ceremony where high priests invoke Sólrún's power to bless objects, people, or places with beauty, charm, and wealth.
-
-**Festivals:**
-
-- **Festival of the Rose:** Held in spring, this festival celebrates love and beauty with grand banquets, elaborate dances, and rituals to honor Sólrún.
-- **The Day of Silver:** An annual event focused on wealth and prosperity, where the faithful gather to share their successes and offer thanks to Sólrún for her blessings.
+Two festivals mark the year. The **Festival of the Rose** is held in spring and celebrates love and beauty with grand banquets, elaborate dances and rites in Sólrún's honor. The **Day of Silver** is an annual event given to wealth and prosperity, when the faithful gather to share their successes and thank the goddess for her blessings.
 
 ## Ordeals for Favor
 
-- **The Golden Pilgrimage:** A journey to Sólrún's grandest temples, where the faithful offer their most prized possessions in hopes of receiving her blessings.
-- **The Blessing of the Mirror:** A ritual where the faithful must gaze into the Mirror of Desire for an entire night, contemplating their deepest desires.
-- **The Gilded Harvest:** A task where participants must accumulate a significant amount of wealth through trade, negotiation, or other means, dedicating it to Sólrún's temples.
+Three ordeals win her favor. The **Golden Pilgrimage** is a journey to Sólrún's grandest temples, where the faithful offer their most prized possessions in hope of her blessings. In the **Blessing of the Mirror** the faithful look into the Mirror of Desire for a whole night and contemplate their deepest desires. The **Gilded Harvest** asks participants to accumulate a significant amount of wealth through trade, negotiation or other means and dedicate it to her temples.
 
 ## See Also
 

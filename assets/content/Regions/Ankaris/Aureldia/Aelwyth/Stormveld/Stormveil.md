@@ -14,12 +14,11 @@ data:
   government: jrldmstrmvld
 ---
 
-**Stormveil** is the seat of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern
-coast of Aelwyth, facing the water the Nordmen came over sixty years ago and still use.
-
-It is not a city and does not aspire to be one. Six thousand people: the jarl's hall on the height, the
-houses of his sworn men about it, the harbor below, and—down the slope and set apart—the quarters
-of the thralls who do the work.
+**Stormveil** is not a city and does not aspire to be one. It is the seat of the
+[[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern coast of Aelwyth, facing the water
+the Nordmen came over sixty years ago and still use, and its six thousand people fall into four
+places: the jarl's hall on the height, the houses of his sworn men about it, the harbor below, and—down
+the slope and set apart—the quarters of the thralls who do the work.
 
 ## The Hall and the Harbor
 
@@ -29,7 +28,7 @@ in front of everybody. Aelwythan forms have not been adopted and are not admired
 
 The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands]]—which is to say to the
 world it actually belongs to. Timber, hides and thrall-worked produce go north; iron, ships, men and
-quarrels come south. Nothing calls at [[place-ravenmoor|Ravenmoor]] and nothing is inspected, the Synod
+quarrels come south. Nothing calls at [[place-ravenmoor|Ravenmoor]] and nothing is inspected, the **Synod**
 having no interest in northern traffic.
 
 ## The Thralls

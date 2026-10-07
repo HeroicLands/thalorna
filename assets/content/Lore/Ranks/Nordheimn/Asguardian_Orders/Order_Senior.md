@@ -9,7 +9,7 @@ description: "Instructs candidates and sits in the body that chooses its order's
 tags: []
 ---
 
-Instructs candidates and sits in the body that chooses its order's chair, across the four Asguardian fighting orders.
+Seniority in a sworn order brings candidates to teach, heavier stations to hold and a seat in the body that chooses the order's chair. Each of the four orders names the standing in its own way.
 
 ## What This Standing Is
 
@@ -17,7 +17,7 @@ A senior member instructs the order's candidates, holds a heavier station than a
 
 ## How the Law Treats a Person Here
 
-He may act on the order's authority in ways a working member cannot: an Elder Hand may strip a knight of rank on the spot pending trial, and every order's senior sits in the council—the Council of Hands, the Chapter, the conclave of Storm-Captains, the assembled Fathers of the Halls—that elects or chooses the order's own chair.
+He may act on the order's authority in ways a working member cannot: an Elder Hand may strip a knight of rank on the spot pending trial, and every order's senior sits in the council—the **Council of Hands**, the **Chapter**, the conclave of Storm-Captains, the assembled Fathers of the Halls—that elects or chooses the order's own chair.
 
 ## Privileges
 

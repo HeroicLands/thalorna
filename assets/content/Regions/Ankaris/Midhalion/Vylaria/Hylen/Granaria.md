@@ -5,14 +5,23 @@ type: place
 subType: settlement
 description: "Market Town"
 tags: [town, market]
-data: {demonym: null, lore: [], parents: [hylen], population: 7000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [hylen]
+  population: 7000
+  packFolder: vylaria
+  government: provnchyln
 ---
 
 ## Overview
 
-Granaria is the chief grain-market of central [[affiliation-provnchyln|Hylen]], its great granaries and weighing-yards the point where the harvest of a hundred estates is gathered, measured, and sent on toward the capital and the legions. In a good year it overflows with sacked grain; in a lean one its empty granaries are the first warning that the empire's bread is short.
+Granaria is where Hylen's bread is counted. The chief grain-market of central [[affiliation-provnchyln|Hylen]], a town of seven thousand, is built around its granaries and weighing-yards, and the harvest of a hundred estates is gathered there, measured, and sent on toward the capital and the legions.
+
+A weighing-yard clerk tells you he knows the state of the empire before the Senate does. In a good year the town overflows with sacked grain and there is nowhere to stand. In a lean year the granaries are empty, and that is the first warning that the empire's bread is short.
 
 ## See Also
 
-- [[affiliation-provnchyln|Province of Hylen]]—Parent province
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview
+- [[affiliation-provnchyln|Province of Hylen]]—parent province
+- [[place-hylen|Hylen]]—the land whose harvest the town gathers
+- [[affiliation-vylarinmpr|Vylarian Empire]]—imperial overview

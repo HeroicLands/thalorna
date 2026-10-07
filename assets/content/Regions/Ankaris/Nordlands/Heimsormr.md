@@ -8,11 +8,15 @@ tags: [asguardian]
 data: {packFolder: nordlands}
 ---
 
-Heimsormr is the World-Wyrm in the standard Asguardian telling of [[lore-aldarlok|Aldarlok]]. [[lore-thrunvalddty|Thrúnvald]] strikes it down, walks nine steps, and dies of its venom; his priesthood reads those steps as the victory possible against a fixed doom. A separate saga gives [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] a battle with the sea serpent, large enough to encircle the earth, whose thrashing threatens coastal villages with floods. That tale ends with Skalforv splitting its head and sending it into the depths. The hero’s saga and the telling of the god’s last battle give different encounters with the same named wyrm.
+Ask for the World-Wyrm on a northern coast and you are offered two stories for the price of one. A skald at a coastal hall will sing both, one after the other, and stop between them. **Heimsormr** is the wyrm of both.
+
+In the standard Asguardian telling of [[lore-aldarlok|Aldarlok]], [[lore-thrunvalddty|Thrúnvald]] strikes the World-Wyrm down, walks nine steps and dies of its venom. His priesthood reads those nine steps as the whole of the victory that is possible against a doom already fixed.
+
+The other story belongs to a hero. A saga gives [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] a battle with a sea serpent large enough to encircle the earth, whose thrashing threatens the coastal villages with floods. It ends with Skalforv splitting the serpent's head and sending it down into the depths. The saga and the telling of the god's last battle give two different encounters with the same named wyrm.
 
 ## The Wyrm in Two Tellings
 
-A paired coastal recitation sets Skalforv's sea battle beside the standard account of Thrúnvald's death at Aldarlok. A pause marks the shift from the hero's return to the future doom; the singers leave the difference between the two accounts unresolved.
+A paired coastal recitation sets Skalforv's sea battle beside the standard account of Thrúnvald's death at Aldarlok. A pause marks the shift from the hero's return to the future doom, and the singers leave the difference between the two accounts unresolved.
 
 : The Wyrm in Two Tellings
 

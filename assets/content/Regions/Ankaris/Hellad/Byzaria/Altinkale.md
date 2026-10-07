@@ -71,11 +71,25 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Altinkale—the Golden Fortress—is the wealthiest and most politically influential of the five city-states that make up the [[affiliation-byzarianlg|Byzarian League]]. It serves as the League's de facto capital, hosting the council sessions where the merchant-princes of all five cities debate trade policy, tariffs, and collective defense. The city-state holds [[place-altinkale2|Altinkale]] itself.
+Do not mistake the council that meets in Altinkale for the council of Altinkale. The first belongs to the whole [[affiliation-byzarianlg|Byzarian League]]: it sits in the **Merchant Hall**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from [[place-altinkale2|Altinkale]], the Golden Fortress on the edge of the plateau. Altinkale is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
-## Character
+## Who Decides
 
-Altinkale's wealth is old and deeply entrenched. Its ruling merchant families have held power for generations, and the city's politics are an elaborate dance of alliances, marriages, and financial maneuvers. The League council meets in the Altinkale Merchant Hall—a vast, ornate building that serves as both parliament and exchange—and the city's representatives have historically dominated League policy through sheer economic leverage.
+A council of merchant-princes governs the city-state, and the same families have held their seats for generations. Seats are weighed by the house behind the councillor, so the first thing to learn in Altinkale is whose house stands behind whom; politics here is a long exchange of alliances, marriages and loans. The council elects its presiding officer, the First of the Council, for a fixed term, and he holds the city's seal while he presides.
+
+The offices are the ones every League city keeps, and in a city of bankers three of them matter to anyone doing business. The Treasurer keeps the customs, the tolls and the loans raised against them. The Chancellor keeps the charters, treaties and correspondence on which those loans rest. The Warden of the Weights inspects measures, coin and quality in the markets, and his is the office that makes the city's word good.
+
+## Standing
+
+Standing in Altinkale runs outward from the city's register. Say a porter has worked the Merchant Hall's loading yards for twenty years without being enrolled: he is a resident, so the city protects him and does not count him, and he has no vote and no freedom of its markets. Enrolled, he would be a freeman, who trades in the markets and pleads in the courts. Below the resident are the unfree, bound by service or debt with no property and no right to contract, and below them the man struck from the roll, whose contracts are void and whom no court will hear.
+
+Above the freeman the rungs are earned by weight. A guild master speaks for a chartered trade before the council. A house factor runs a great house's warehouses, ships and agents abroad. A house head masters the house's capital and its name and helps elect the council. A councillor sits by the weight of his house, and the First of the Council presides over them all.
+
+## Relations
+
+Inside the League, Altinkale's weight is money; Denizara's is ships and Gümüşhisar's is the garrison, and the three together decide more than any vote. The north is Altinkale's own concern. The grain road leaves the city for Velanthia, Altinkale's bankers hold the grain contracts and its merchants own the wagons, and the Lord of the Northern March is by custom a younger son of an Altinkalan house. The other four cities accept this because the council's commission can be revoked, which would not be true if the March were simply Altinkale's.
+
+The city-state is aligned with the [[affiliation-arldnpnthn|Aurèldían Pantheon]], the civic faith of the League.
 
 ## Commerce and Currency
 
@@ -83,7 +97,8 @@ Altinkale uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Oc
 
 ## See Also
 
-- [[affiliation-byzarianlg|Byzarian League]]—The confederation
-- [[place-byzariargn|Byzaría Region]]—Regional overview
-- [[place-altinkale2|Altinkale]]—The city itself
-- [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—Sister city-states
+- [[affiliation-byzarianlg|Byzarian League]]—the confederation whose council meets in Altinkale's hall
+- [[place-byzariargn|Byzaría Region]]—the League's country
+- [[place-altinkale2|Altinkale]]—the city itself
+- [[place-northrnmrch|Northern March]]—the frontier district Altinkale's houses hold by custom
+- [[affiliation-denizara|Denizara]], [[affiliation-yesilhan|Yeşilhan]], [[affiliation-gumushisar|Gümüşhisar]], [[affiliation-karatas|Karataş]]—the other four city-states

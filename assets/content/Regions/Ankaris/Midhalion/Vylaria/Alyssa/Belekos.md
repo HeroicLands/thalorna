@@ -5,19 +5,36 @@ type: place
 subType: settlement
 description: "Merchant City"
 tags: [city, merchant]
-data: {demonym: null, lore: [], parents: [alyssa], population: 25000, packFolder: vylaria}
+data:
+  demonym: null
+  lore: []
+  parents: [alyssa]
+  population: 25000
+  packFolder: vylaria
+  government: provinclys
 ---
 
 ## Overview
 
-Belekos has earned its reputation as a city of wealthy merchant families, its opulent townhouses and manicured gardens overlooking the fertile river valleys that supply much of Alyssa's grain. The city's prosperity derives not from manufacturing or artisanship, but from the control of agricultural surplus and trade. The great mercantile families—houses that have accumulated wealth and influence over centuries—operate from elaborate estates that blend palatial residence with warehousing and counting rooms, blurring the line between domicile and commercial enterprise.
+Belekos is a city of wealthy merchant families, with opulent townhouses and manicured gardens that look down on the fertile river valleys supplying much of Alyssa's grain. It makes nothing that anyone travels to buy. Its prosperity comes from controlling the agricultural surplus of the valleys and the trade that carries it away.
 
-The atmosphere in Belekos is one of calculated sophistication. The merchant elite maintain libraries, sponsor scholars, and collect art with the self-conscious awareness that such patronage demonstrates both refinement and power. Yet beneath the veneer of civility runs a sharp current of competition; while the great houses maintain public courtesy and formal alliance networks, they engage in constant maneuvering for advantage—securing favorable trade agreements, engineering advantageous marriages, and positioning themselves for imperial contracts. A merchant family's fall from grace can be swift and absolute.
+A grain factor of one of the great houses, walking a newly hired clerk through the city on his first morning, makes the point at the first gate he comes to: "You came in by the front door, and you are standing in the counting room. Here the family sleeps upstairs, the sacks are stored behind, and the ledger is read in the hall where the guests are received. A house in Belekos does not keep its business out of sight, and you should not be surprised to find how much of the family's life you are expected to keep out of the ledger."
 
-Belekos has begun to feel the weight of empire's decline, but differently than provincial cities like Velysâra. Rather than bemoaning lost grandeur, the merchant families of Belekos are beginning to quietly relocate their assets, establish trading partnerships with other realms, and hedge their bets against an empire that may not endure. Some whisper that true power is already shifting away from the imperial court—that merchants in cities like Belekos, not senators in the capital, increasingly control the flow of goods and gold that sustains civilization itself.
+## The Great Houses
+
+The mercantile families have accumulated wealth and influence over centuries, and they work from elaborate estates that blend palatial residence with warehousing and counting rooms. The line between home and enterprise is deliberately blurred.
+
+The atmosphere is one of calculated sophistication. The merchant elite keep libraries, sponsor scholars and collect art, knowing that such patronage shows both refinement and power. Beneath the civility runs sharp competition. The houses keep up public courtesy and formal alliance networks, and meanwhile they maneuver constantly for advantage: favorable trade agreements, advantageous marriages, and a position to win imperial contracts. A family's fall from grace can be swift and absolute, and every house in the city has watched one happen.
+
+## Hedging Against the Empire
+
+Belekos feels the weight of the empire's decline differently from provincial cities like [[place-velysara|Velysâra]]. Its merchants do not mourn lost grandeur. They are quietly relocating assets, establishing trading partnerships with other realms and hedging their bets against an empire that may not endure.
+
+The factors say among themselves that true power is already shifting away from the imperial court, and that the merchants of cities like Belekos, not the senators in the capital, increasingly control the flow of goods and gold that sustains civilization. The great houses do not say it where a senator can hear.
 
 ## See Also
 
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Imperial overview
-- [[skill-vylarilng|Vylari]]—Naming tradition
-- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—Religious tradition
+- [[affiliation-provinclys|Province of Alyssa]]—the parent province
+- [[affiliation-vylarinmpr|Vylarian Empire]]—the imperial overview
+- [[skill-vylarilng|Vylari]]—the naming tradition
+- [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the religious tradition

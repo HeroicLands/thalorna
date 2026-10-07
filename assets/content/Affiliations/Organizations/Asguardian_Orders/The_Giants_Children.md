@@ -52,72 +52,68 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Nordmal: Thursbörn—"the Giant's Children"_
+"You think the labor is the test," a Born of the Wound tells the candidate working beside him at a chapter hall. "The labor is how we learn who stays. The rite that follows asks the harder thing, which is whether you can carry what the world was cut from, and carry it as a vow." Many candidates leave before the rite, some of their own will and some at a brother's word.
 
-- **Type:** Initiatic fighting religious order
-- **Patron:** [[affiliation-hrimthur|Hrímthur]]—the Rime-Giant out of whose body the world was cut
-- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strongest concentrations in the colder northern reaches; smaller chapters in [[place-vrystwald|Vrystwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
+The Giant's Children, _Thursbörn_, are an initiatic fighting order of [[affiliation-hrimthur|Hrímthur]], the Rime-Giant out of whose body the world was cut. They are the most severe of the Asguardian fighting orders in belief, and the other orders keep a careful distance from them. The Sworn Hands serve the law and the Green Wardens defend the harvest; the Children cultivate in themselves the strength the world was made from. An outsider remembers the order for two things: its refusal of hire, and its permanent mark.
 
-## Overview
+- Type: initiatic fighting religious order
+- Patron: [[affiliation-hrimthur|Hrímthur]], the Rime-Giant
+- Region: [[place-nrdlndsrgn|the Nordlands]], with the strongest concentrations in the colder northern reaches, and smaller chapters in [[place-vrystwald|Vrystwald]] and the more remote valleys of [[place-aelwyth|Aelwyth]]
+- Seats: nine chapter halls, each led by a Father of the Hall
 
-The Giant's Children are the most theologically severe of the Asguardian fighting orders, and the one most regarded with cautious distance by the others. Where the Sworn Hands serve the law and the Green Wardens defend the harvest, the Giant's Children pursue something less domesticated: the cultivation, within themselves, of the strength the world was cut out of. The order's central doctrine—that creation was an act of violence done to the body of the Rime-Giant [[lore-hrimthurspr|Hrímthur]], and that the world's continued existence depends on the periodic renewal of that founding violence—is taken with absolute seriousness by its members and with a certain wariness by everyone else.
+## What They Believe
 
-This does not make the order's members lawless. They are, by most accounts, exceptionally disciplined; the order's training is grueling, its initiations more so, and the surviving membership is small (perhaps four hundred sworn brothers across the Nordlands) and selective. What it does make them is theologically committed to combat as a sacred act, and to the cultivation of personal strength as a religious vocation. A Child of Hrímthur does not fight for hire (the order forbids mercenary work absolutely), does not fight for crown or for jarl, does not fight in personal quarrel—but when the order calls him to fight, he fights with the conviction that he is participating in the world's foundational act.
+The order teaches that creation was an act of violence done to the body of [[lore-hrimthurspr|Hrímthur]], and that the world's continued existence depends on renewing that founding violence from time to time. Its members take the teaching with absolute seriousness, and everyone else takes it warily.
 
-The order is exclusively male in present practice. The historical record includes some women among the founding generations; their absence from the contemporary order is a matter of internal debate that has, so far, never produced a change in policy.
+The doctrine does not make the members lawless. By most accounts they are very disciplined. The order's training is grueling, its initiations are worse, and the membership is small, perhaps four hundred sworn brothers across the Nordlands, and selective. What the doctrine does make them is committed to combat as a sacred act and to personal strength as a religious vocation. A Child of Hrímthur does not fight for hire, for crown or jarl, or in personal quarrel. When the order calls him, he fights with the conviction that he is taking part in the world's foundational act.
 
-## Membership and Structure
+The order is exclusively male in present practice. The historical record includes some women among the founding generations, and their absence from the order today is a matter of internal debate that has never changed the policy.
 
-Initiation is in stages, modeled on the order's understanding of the cosmogony. The order holds four ranks:
+## The Four Ranks
 
-- **Put from the Order** (_Eidvargr_)—cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
-- **The Frost-Touched** (_Eidefnir_)—the candidate stage, whose brothers-to-be are called _Hrímblenn_, the rime-cleansed; a young man (typically sixteen to twenty) sponsored by a sitting brother and tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
-- **The Born of the Wound** (_Sárborinn_)—admitted after a formal rite that involves both severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
-- **The Hand of the Host** (_Hershönd_)—senior brother; advanced rite of initiation; permitted to lead the order's gathered brothers in the field and to instruct candidates.
+Initiation comes in stages that follow the order's account of the cosmogony. The order holds four ranks:
 
-Two offices sit above the ranks. The **Father of the Hall** (_Hallarfadir_) leads a single chapter hall—one per hall, nine in all—and presides over initiations and the chapter's standing affairs. The **Voice from the Wound** (_Sármál_) is the order's chair, chosen by the assembled Fathers of the Halls in conclave following the death or retirement of the prior Voice.
+- Put from the Order (_Eidvargr_): cast out by the assembled Fathers of the Halls, which closes every one of the nine chapter halls' hospitality for good.
+- The Frost-Touched (_Eidefnir_): the candidate stage, whose members are called _Hrímblenn_, the rime-cleansed. A sitting brother sponsors a young man, typically sixteen to twenty, and he is tested through a year of physical labor at one of the chapter halls. Many candidates withdraw or are dismissed.
+- The Born of the Wound (_Sárborinn_): admitted after a formal rite of severe physical ordeal and theological examination. The Born of the Wound wear the order's mark and are full members.
+- The Hand of the Host (_Hershönd_): the senior brother, who has passed an advanced rite of initiation. He may lead the order's gathered brothers in the field and instruct candidates.
 
-The order maintains nine chapter halls across the Nordlands, each commanded by a Father of the Hall. The chapter halls are typically remote—high valleys, coastal cliffs, the northern frontier—chosen for the harshness of their settings, which the order considers spiritually formative.
+Two offices sit above the ranks. The Father of the Hall, _Hallarfadir_, leads a single chapter hall and presides over its initiations and standing affairs; there are nine, one to a hall. The Voice from the Wound, _Sármál_, is the order's chair, chosen by the assembled Fathers of the Halls in conclave after the death or retirement of the prior Voice. The present Voice is **Hrundthann Steinhönd**, an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation. The most prominent Father is **Svilthvir Eldskari** at the **Northern Hall** in [[place-targud|Targud]], who commands the order's largest standing chapter.
 
-## Doctrine and Practice
+The chapter halls are remote on purpose: high valleys, coastal cliffs and the northern frontier. The order holds that the harshness of the setting shapes the spirit.
 
-The order's working theology is dense and not entirely shared with outsiders. Its three publicly known principles are:
+## The Three Vows
 
-- **The Renewal of Founding**—that combat, properly conducted, participates in the cosmogonic violence of Hrímthur's slaying and shaping. The order's brothers fight with the understanding that the act of fighting is itself sacred, regardless of who wins.
-- **The Cultivation of the Body**—that physical strength, endurance, and the mastery of pain are religious virtues, cultivated by the order through training that approaches the punitive. A brother who allows his body to weaken in inactivity is failing his vow as surely as one who breaks it actively.
-- **The Refusal of Hire**—that the order does not accept payment for its members' work. Brothers labor for their hall's support during peacetime; in the field, they take no contracts. The principle is that the cultivation of sacred strength cannot coexist with the commercial sale of it.
+The order's working theology is dense and not shared in full with outsiders. Three principles are publicly known.
 
-The order's combat doctrine emphasizes individual prowess, heavy axe and hammer work, the breaking of formations through personal force, and the famous (and frequently exaggerated) practice of fighting in only the lower clothing even in deep winter—a discipline the order regards as a continuous testimony of the body's mastery over the elements.
+- **The Renewal of Founding.** Combat, properly conducted, shares in the cosmogonic violence of Hrímthur's slaying and shaping. The brothers fight knowing that the act of fighting is itself sacred, whoever wins.
+- **The Cultivation of the Body.** Strength, endurance and the mastery of pain are religious virtues, and the order trains for them in ways that approach the punitive. A brother who lets his body weaken through inactivity fails his vow as surely as one who breaks it outright.
+- **The Refusal of Hire.** The order does not accept payment for its members' work. Brothers labor for their hall's support in peacetime, and in the field they take no contracts. The cultivation of sacred strength cannot coexist with the commercial sale of it.
 
-## Notable Members
+The combat doctrine stresses individual prowess, heavy axe and hammer work, and the breaking of formations through personal force. It includes the famous and frequently exaggerated practice of fighting in only the lower clothing even in deep winter, which the order regards as a continuous testimony to the body's mastery over the elements.
 
-- **Voice Hrundthann Steinhönd**—current Voice from the Wound; an austere man in his late fifties, regarded by his brothers as the most theologically rigorous Voice in a generation.
-- The nine Fathers of the Halls—each presiding over a chapter; the most prominent is **Father Svilthvir Eldskari** at the Northern Hall in [[place-targud|Targud]], who commands the order's largest standing chapter.
+## In the Field
 
-## Field Practice
+The order keeps no standing field force. When it calls its brothers to a cause, the Voice from the Wound issues the call through the chapter halls, and the brothers travel to the gathering point on their own arrangements. The Voice or his designated deputy commands the gathered force. Such gatherings are rare, perhaps three in the last fifty years. They have answered large Helspawn ([[lore-undead|undead]]) incursions, threats to the cosmological order that the order treats as its own concern, and once the open emergence of a Black Flame faction in northern Aurèldía.
 
-The order does not maintain a standing field force. When the order calls its brothers to a particular cause, the call is issued by the Voice from the Wound through the chapter halls, and brothers travel to the gathering point under their own arrangements. The gathered force is then commanded by the Voice or his designated deputy. Such gatherings are rare—perhaps three in the last fifty years—and have typically responded to large-scale Helspawn ([[lore-undead|undead]]) incursions, threats to the cosmological order that the order regards as falling within its proper concern, or (once) the open emergence of a Black Flame faction operating in northern Aurèldía.
-
-Day-to-day, the order's brothers serve as chapter staff, as armed presence at remote settlements that have requested formal Thursbörn protection (a relatively rare arrangement that involves theological as well as practical commitments on the settlement's part), and as itinerant teachers of the order's combat doctrine to selected younger warriors who are not order members but who are judged by sitting brothers to be of sufficient seriousness.
+Day to day, the brothers serve as chapter staff, as an armed presence at remote settlements that have formally requested the order's protection, and as itinerant teachers of its combat doctrine to chosen younger warriors who are not members but whom sitting brothers judge serious enough. The protection arrangement is rare and carries theological as well as practical commitments on the settlement's part.
 
 ## Relations
 
-- **The [[affiliation-asguardian|Asguardian Pantheon]]'s Priesthood**—religious foundation; the order's senior initiations include rites at [[place-holafell|Holafell]], the hof cut into the rock.
-- **The five Nordland Crowns**—careful tolerance. The kings respect the order, depend on its occasional interventions, and would prefer not to be in its way. No crown levies brothers of the order.
-- **The [[affiliation-eidhond|Order of the Sworn Hand]]**—peer; mutual respect across theological distance.
-- **The [[affiliation-gronverdir|Green Wardens]]**—the order most theologically opposite, since the Wardens revere cultivation and the Children revere founding violence. The two orders' members deal with one another correctly and seldom voluntarily.
-- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]**—the order most theologically congenial; both share an interest in primal forces. Cooperation in the field is more frequent than with the other orders.
-- **The [[affiliation-blackflame|Black Flame]] of Aurèldía**—direct theological rival in the south; the order's only formal recent campaign was against a Black Flame faction that had begun making converts in border valleys.
+- **The Asguardian priesthood** is the order's religious foundation, and its senior initiations include rites at [[place-holafell|Holafell]], the hof cut into the rock.
+- **The five Nordland crowns** tolerate the order carefully. The kings respect it, depend on its occasional interventions, and would prefer to stay out of its way. No crown levies a brother.
+- **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a peer, and the two orders keep a mutual respect across their theological distance.
+- **The [[affiliation-gronverdir|Green Wardens]]** are the order's opposite in belief, since the Wardens revere cultivation and the Children revere founding violence. Members of the two orders deal with each other correctly and seldom by choice.
+- **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** are the order's nearest neighbors in belief; both take an interest in primal forces. Cooperation in the field is more frequent with the Speakers than with any other order.
+- **The [[affiliation-blackflame|Black Flame]] of Aurèldía** is a direct theological rival in the south. The order's only recent formal campaign was against a Black Flame faction that had begun making converts in border valleys.
 
-## Identifying Marks
+## The Mark
 
-A Born of the Wound bears the order's permanent mark—a tattooed scar-pattern across the chest, in the design of the founding cosmogony, given at initiation by ritualized cutting. The mark is the inviolable testimony of membership; an attempt to falsify the mark on someone not initiated is regarded as one of the most serious offenses the order recognizes.
+A Born of the Wound bears the order's permanent mark, a tattooed scar-pattern across the chest in the design of the founding cosmogony, given at initiation by ritual cutting. The mark is the inviolable testimony of membership, and falsifying it on someone who has not been initiated is one of the most serious offenses the order recognizes. Outside the hall the brothers wear plain dark clothing without insignia, and senior brothers wear a heavy ring of bog iron on the left forefinger.
 
-Outside the hall, brothers wear plain dark clothing without insignia. Senior brothers wear a heavy ring of bog iron on the left forefinger.
+## Hooks
 
-## Plot Hooks
-
-- **The False Mark.** A man bearing the founding cosmogony mark has been seen in a port town, claiming to be a Child of the Wound. The order has no record of him. The mark is impressively accurate but, on close examination, slightly wrong in a detail no genuine brother would miss. The Voice from the Wound has dispatched a senior brother to determine whether the man is an impostor, a heretic, or something the order has not previously encountered.
-- **The Gathering Call.** The Voice from the Wound has called a gathering—the first in twelve years—without publicly disclosing the cause. Brothers are traveling to the rendezvous from across the Nordlands. The crowns are alarmed; the priesthood is silent; the cause, when revealed, will define the season.
-- **The Border Convert.** A young Vrystwald warrior, deeply impressed by an itinerant teaching brother, has applied for candidacy. The Vrystwald authorities (who have their own complicated relationship with Asguardian religion) have formally objected. The Father of the relevant chapter must rule on the application, knowing that acceptance will create a diplomatic incident and that refusal will damage the order's standing in Vrystwald for a generation.
-- **The Theological Schism.** A small faction within the order has begun arguing publicly that the Refusal of Hire should be relaxed to permit defensive contracts in cases of clear moral necessity. The Voice from the Wound regards this argument as a fundamental theological corruption and is preparing to call a full conclave to suppress it. The faction's leader is a respected Father of one of the smaller halls.
+- **The False Mark.** A man bearing the founding mark has been seen in a port town, claiming to be a Child of the Wound. The order has no record of him. The mark is accurate but slightly wrong in a detail no real brother would miss. The Voice from the Wound has sent a senior brother to learn whether the man is an impostor, a heretic, or something the order has not met before.
+- **The Gathering Call.** The Voice from the Wound has called a gathering, the first in twelve years, without disclosing the cause. Brothers are traveling to the rendezvous from across the Nordlands. The crowns are alarmed, the priesthood is silent, and the cause, once revealed, will define the season.
+- **The Border Convert.** A young Vrystwald warrior, deeply impressed by an itinerant teaching brother, has applied for candidacy. The Vrystwald authorities, who have their own complicated relationship with Asguardian religion, have objected formally. The Father of the relevant chapter must rule on the application, knowing that acceptance will cause a diplomatic incident and refusal will damage the order's standing in Vrystwald for a generation.
+- **The Theological Schism.** A small faction inside the order argues publicly that the Refusal of Hire should relax to allow defensive contracts in cases of clear moral necessity. The Voice from the Wound calls the argument a corruption of the doctrine and is preparing a full conclave to suppress it. The faction's leader is a respected Father of one of the smaller halls.

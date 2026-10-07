@@ -45,7 +45,7 @@ data:
           withholds: when it began, what it covered, and what ended it
         - by: lore-flkkhazar
           says: >-
-            A golden age of collaboration. What we made together neither people could have made alone. The breach was final and the fault was not ours alone.
+            A golden age of collaboration. Soon after it began their envoy asked us to withdraw from the world's troubles as they do, and we answered that we had not come so far to hide. What we made together neither people could have made alone. The breach was final and the fault was not ours alone.
           agrees: partly
           withholds: the accord's terms, and why it broke
         - {by: lore-flksinale, says: Nothing whatever., agrees: silent}
@@ -60,6 +60,11 @@ ground together. The accord opens within a generation of the Khazári arriving a
 [[lore-khazturnrsd|Khazártúrn was cut]], and it closes on the single day in 2427 BF when that city
 was killed. Nothing in the world has ever recorded what its terms were.
 
+The Khazári account opens the accord with a refusal. Soon after the two peoples first met, a Sinalë
+envoy came to the clans and urged them to do as the Sinalë do: to draw back from the world's
+troubles and leave them to whoever stayed in it. The clans refused. Their answer, as their account
+keeps it, is that they had not come so far to hide. The Sinalë say nothing of the envoy, as they say nothing of the Khazári at all.
+
 What it produced is the part the world can still touch. The Sinalë had the living world and the
 intangible; the Khazári had stone and metal and the enduring; and the fragments describe structures
 that blended living wood with shaped stone and artifacts that married Sinalëan enchantment to
@@ -67,9 +72,11 @@ Khazárian craft. Humans meet these as ruins and as priceless curiosities from a
 humanity, and cannot reproduce either half of one. They are not usually recognized as the work of two
 hands.
 
-It reached further than craft. Both peoples worshipped [[lore-goddreams|the god of dreams]] together, or at least in
-parallel, under the accord's terms—and when the accord shattered, the shared worship shattered with
-it. The two traditions have diverged so completely since that whether the Sinalë's
+It reached further than craft. Both peoples honored [[lore-goddreams|the god of dreams]] together, or at
+least in parallel, under the accord's terms—and when the accord shattered, the shared rites shattered
+with it. The Khazári also venerate the god's servant
+[[lore-khazararrv|Puthakun]], who led the seven clans out of Humadhan and saved their people, and the
+Sinalë give him no honor at all. The two traditions have diverged so completely since that whether the Sinalë's
 Aulveira and the Khazári's Luváth would recognize each other's rites is an
 open question, and one neither race has any interest in answering.
 

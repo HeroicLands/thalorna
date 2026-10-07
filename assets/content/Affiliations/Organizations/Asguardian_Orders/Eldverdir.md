@@ -41,4 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Eldverdir, the Flameguard, is a militant order sworn to protect [[lore-svartbrandrdty|Svartbrandr]]'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle. A member stands watch over a hof through its [[lore-fireweeks|Fire-Weeks]] and answers any threat to it with the same flame the rite itself uses.
+While a forge-hof keeps its [[lore-fireweeks|Fire-Weeks]], the Flameguard watch its gate, and a threat to the hof is answered with the same flame the rite uses.
+
+Eldverdir is a militant order sworn to protect [[lore-svartbrandrdty|Svartbrandr]]'s forge-hofs and his followers, fighting with fire-based techniques that carry the god's own ordeal into battle.
