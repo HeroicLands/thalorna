@@ -81,9 +81,13 @@ Keep the guide readable as an introduction. A short account of a major region si
 
 ## The Glossary
 
-Every guide closes with a `## Glossary`: a table of the culture's **common words**, the in-world terms a player or GM is expected to know. They are the ranks and offices, institutions, money, rites and festivals, and everyday things that the culture's notes use again and again. Each entry gets a one-line meaning. An entry is either a word of the culture's own tongue (strategos, jarl, Aurion) or a term of art: a rendered name for something particular to the culture, which a reader cannot understand from ordinary speech (winter-speaker, oasis of right, honor-trial). An ordinary word used in its ordinary sense (citizen, council, festival, charter, apprentice) is never an entry. A full guide lists up to forty entries and a draft guide up to twenty; a culture with fewer lists fewer rather than padding with ordinary words.
+A culture keeps two glossaries.
 
-The glossary is what sets a word's type everywhere in the corpus. A word in a culture's glossary is set in roman wherever it appears. Every other in-world word that is not a name is set in italics. Names (people, places, gods, houses, clans and works) are never glossary entries and never italic. A culture without a guide has no common words yet, so all of its terms stay italic until its guide and glossary exist.
+**The common words** close the guide in a `## Glossary` table. They are the ten to twelve in-world terms a player or GM meets most often in that culture: its commonest ranks and offices, institutions, money, rites and everyday things. Each gets a one-line meaning. An entry is either a word of the culture's own tongue (strategos, jarl, Aurion) or a term of art: a rendered name for something particular to the culture that a reader cannot understand from ordinary speech (winter-speaker, oasis of right, honor-trial). An ordinary word used in its ordinary sense (citizen, council, festival, charter, apprentice) is never an entry. A culture with fewer than ten such words lists fewer, never padding with ordinary ones. Directly after the table, the guide links to the full glossary.
+
+**The full glossary** closes the culture note in a `## Glossary` table. It lists every in-world word and term of art the culture's notes use in prose, with the common words among them, so that a reader who meets an unfamiliar word anywhere in the culture's notes can find it.
+
+The common words set a word's type everywhere in the corpus. A common word is set in roman wherever it appears. Every other word of a culture's own tongue that is not a name is set in italics, including the rest of the full glossary; a term of art in plain words is never italic. Names (people, places, gods, houses, clans and works) are never glossary entries and never italic. A culture without a guide has no common words yet, so all of its terms stay italic until its guide and glossary exist.
 
 ## Working from the source
 
