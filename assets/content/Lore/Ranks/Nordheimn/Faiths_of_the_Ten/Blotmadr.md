@@ -7,11 +7,11 @@ description: "One who attends the blót, the laity of the eight faiths of the Te
 tags: []
 ---
 
-One who attends the blót, the laity of the eight faiths of the Ten that keep it.
+Most of the faithful never become more than this. A blótmadr comes to the hof when the blót is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.
 
 ## What This Standing Is
 
-A blótmadr is one who attends the blót—the sacrifice and shared meal a hof's godi offers—and is the whole of what most of the faithful ever are. Admission is the offering itself: whoever is not refused it and comes to a hof's rite holds this standing.
+A blótmadr attends the blót, the sacrifice and shared meal a hof's godi offers. Admission is the offering itself: whoever is not refused it and comes to a hof's rite holds this standing.
 
 ## How the Law Treats a Person Here
 

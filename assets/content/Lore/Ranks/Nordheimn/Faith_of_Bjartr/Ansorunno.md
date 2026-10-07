@@ -7,11 +7,11 @@ description: "Entrusted with the rites, the care of the faithful and the steward
 tags: []
 ---
 
-Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjartr.
+"Long-watcher is what the word means, and it describes the work," an Ansorunno tells the ilthorinno newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorunno stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the **Aulirarno**, the council of radiance, and we talk until we agree."
 
 ## What This Standing Is
 
-An Ansorunno, "long-watcher," is entrusted with the faith's rites, the care of its faithful, and the stewardship of its sacred places. All Ansorunno are equal in standing, and any one of them may call the Aulirarno, the council of radiance in which the faith's collective decisions are made.
+An Ansorunno is entrusted with the faith's rites, the care of its faithful and the stewardship of its sacred places. The faith's collective decisions are made in the Aulirarno, which any Ansorunno may call.
 
 ## How the Law Treats a Person Here
 

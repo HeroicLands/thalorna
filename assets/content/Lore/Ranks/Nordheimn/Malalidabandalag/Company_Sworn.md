@@ -7,7 +7,7 @@ description: "A common warrior of a Compact-signed company, testified by his cap
 tags: []
 ---
 
-A common warrior of a Compact-signed company, testified by his captain, in Málalidabandalag.
+A clerk at the Compact-Hall in [[place-hringstead|Hringstead]] tells a warrior leaving one signed company for another: "You hold no ring and no standing of your own before the **Council of the Hall**. Your old captain's oath and your new captain's are all you have." The captain testifies to the standing; the warrior does not swear it.
 
 ## What This Standing Is
 

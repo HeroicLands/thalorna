@@ -7,15 +7,15 @@ description: "Acclaimed by his peers when his composed sagas enter the standing 
 tags: []
 ---
 
-Acclaimed by his peers when his composed sagas enter the standing repertoire, in the Skalds' Circle.
+"The ones whose sagas we teach every apprentice," a master of the [[affiliation-skaldscrcl|Skalds' Circle]] says when asked what a stóraldstjóri is. "Perhaps a dozen at any time, across all the kingdoms."
 
 ## What This Standing Is
 
-A stóraldstjóri is a senior skáld whose composed sagas have been accepted into the standing repertoire the Circle as a whole teaches to every apprentice. He is acclaimed to the standing by his peers rather than appointed to it, and perhaps a dozen hold it at any time across the kingdoms.
+A stóraldstjóri is a senior skáld whose composed sagas have been accepted into the standing repertoire the Circle as a whole teaches to every apprentice. His peers acclaim him to the standing; nobody appoints him.
 
 ## How the Law Treats a Person Here
 
-His compositions are what the Circle itself now stands on: the repertoire he has added to is reviewed and verified by collective recitation at every Skaldating, and a dispute over a contested verse is resolved against the standard his and his peers' accepted sagas set.
+His compositions are what the Circle itself now stands on: the repertoire he has added to is reviewed and verified by collective recitation at every **Skaldating**, and a dispute over a contested verse is resolved against the standard his and his peers' accepted sagas set.
 
 ## Privileges
 

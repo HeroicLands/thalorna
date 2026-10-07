@@ -7,7 +7,7 @@ description: "The clan's own head, leading a district's men in war and speaking 
 tags: []
 ---
 
-The clan's own head, leading a district's men in war and speaking for them in peace by their consent, in the five kingdoms and the Jarldom of Stormveld.
+At [[place-raltholm|Raltholm]] the hersvald's horn calls the levy, and the men who answer it are the same men whose consent keeps him in his hall. That is the standing in one picture: a hersvald leads a district because the district agrees to be led.
 
 ## What This Standing Is
 
@@ -15,7 +15,7 @@ A hersvald leads the men of a district in war and speaks for them in peace, hold
 
 ## How the Law Treats a Person Here
 
-Consent rather than grant is the whole of what sets him apart from a jarl: a weak hersvald's own grown sons can find themselves led instead by a cousin the district judges better, because the standing is held on the district's continued agreement and not on descent.
+Consent is what sets him apart from a jarl: a weak hersvald's own grown sons can find themselves led instead by a cousin the district judges better, because the standing is held on the district's continued agreement and not on descent.
 
 ## Privileges
 

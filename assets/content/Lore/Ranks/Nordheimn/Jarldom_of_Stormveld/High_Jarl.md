@@ -7,7 +7,7 @@ description: "The sovereign standing of the Jarldom of Stormveld, held by a jarl
 tags: []
 ---
 
-The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers.
+"My lord holds his jarldom himself and owes the High Jarl nominal allegiance, no more," says a huscarl of Stormveld. "The jarls chose the High Jarl from among themselves, and they can choose another. He is first among them, and he is not our king."
 
 ## What This Standing Is
 
@@ -15,7 +15,7 @@ The Jarldom of Stormveld is a loose confederation of jarldoms, each ruled by a j
 
 ## How the Law Treats a Person Here
 
-He is addressed by the jarldoms collectively rather than commanded absolutely: the confederation's own jarls owe him nominal allegiance, which the jarldoms' note itself marks as an allegiance rather than a subjection, and the vote that seats him can seat another when he is gone.
+The jarldoms answer to him collectively, and each jarl owes him nominal allegiance, an allegiance and not a subjection; the vote that seats him can seat another when he is gone.
 
 ## Privileges
 

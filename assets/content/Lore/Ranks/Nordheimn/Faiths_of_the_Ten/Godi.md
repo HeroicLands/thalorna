@@ -7,15 +7,15 @@ description: "The ordained priest or priestess who keeps a hof's rites, in the e
 tags: []
 ---
 
-The ordained priest or priestess who keeps a hof's rites, in the eight faiths of the Ten that keep the blót.
+"I keep this hof's rites and I answer for the people who gather at it," says a godi who keeps a farm hof in the Norgaad passes. "If I refuse a man the blót, he is out of the faith's law, the way a ting's sentence puts a man out of his clan. That much of the ting's power I hold over the people of this hof."
 
 ## What This Standing Is
 
-A godi or gydja is ordained to keep a named hof's rites—the blót, the observances, and the people who gather for them. Ordination is the faith's own act of admission, conferred by a hof already holding the standing rather than by the laity it serves.
+A godi or gydja is ordained to keep a named hof's rites: the blót, the observances and the people who gather for them. Ordination is the faith's own act of admission, performed by a hofgodi, with no part for the laity the godi serves.
 
 ## How the Law Treats a Person Here
 
-A godi is the faith's master, level for level with a full clan member: he keeps the rites of a hof and the people who gather at it, and his refusal of the blót is the act that casts a man out of the faith's law—the same authority a ting holds over a clan member, held here over a hof's people.
+A godi stands level with a full clan member. He keeps the rites of a hof and the people who gather at it, and his refusal of the blót casts a man out of the faith's law, the same authority a ting holds over a clan member, held here over a hof's people.
 
 ## Privileges
 

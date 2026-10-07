@@ -7,11 +7,11 @@ description: "Expelled from the Compact by Council vote, the bronze thumb-ring s
 tags: []
 ---
 
-Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in Málalidabandalag.
+When the **Council of the Hall** votes a captain out of the Compact, the bronze thumb-ring is the first thing he gives up and his company's contracts are the next.
 
 ## What This Standing Is
 
-A captain is expelled by vote of the Council of the Hall for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandalagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
+A captain is expelled by vote of the Council for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandalagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
 
 ## How the Law Treats a Person Here
 
