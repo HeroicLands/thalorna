@@ -1,6 +1,6 @@
 ---
 shortcode: ritualtjelsk
-name: {full: "Ritual: Tjelsuk", aliases: []}
+name: {full: "Ritual: Tjelsur", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-tjelsuk|Faith of Tjelsuk]]
+See [[affiliation-tjelsuk|Faith of Tjelsur]]

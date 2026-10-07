@@ -25,7 +25,7 @@ The way to plan a journey through this selat is by its wells. The quarries lie o
 
 ## Settlements
 
-- [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-tjelsukdty|Tjelsuk]].
+- [[place-iaqetleqa|Iaqet-Leqa]] (~12,000)—the selat capital and the seat of the Halzi'a, with the chief temple of [[lore-tjelsukdty|Tjelsur]].
 - The villages and estate-towns: a few hundred to a few thousand people each, clustered on the ground the water reaches and on the temple estates.
 
 ## See Also
