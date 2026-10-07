@@ -14,25 +14,21 @@ data:
   government: tamavar
 ---
 
-## Overview
+A ship bound for Tamavar passes between fortified islands and long breakwaters before the city opens in front of her, and inside them lies the **Grand Harbor**, a deep natural bay that can shelter hundreds of vessels at once. It is the finest anchorage on the [[place-vylarianse|Vylarian Sea]] and the largest and best protected. Tamavar, a city of about 400,000 on the coast of [[place-haradregin|Harad]], is the seat of the city-state of [[affiliation-tamavar|Tamavar]], the largest and wealthiest of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], and the place where the Confederation's Grand Council meets.
 
-Tamavar is the city of the city-state of [[affiliation-tamavar|Tamavar]], the largest and wealthiest of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], on the coast of Harad Region.
+## The Harbor
 
-## Character
+The harbor has two arms with two trades. The naval yards on the northern arm build warships and merchantmen; the southern arm belongs to the fishing fleet and the smaller traders. In a dry-dock on the waterfront stands the **Tamzîr Monument**, a captured Vylarian warship kept as a memorial to the Battle of [[place-tamzirshoals|Tamzîr Shoals]].
 
-Tamavar is a city of staggering contrasts. The guild quarter along the great harbor is a canyon of marble-faced warehouses, counting houses, and palatial guild halls, where fortunes are made and destroyed over a single shipment of eastern spice. Behind the harbor, the old city rises in a maze of narrow streets, covered bazaars, and tenement blocks where dock workers, sailors, and craftspeople live in the shadow of wealth they will never share.
+## Two Cities in One
 
-Tamavar's harbor is the finest on the [[place-vylarianse|Vylarian Sea]]—a deep natural bay protected by breakwaters and fortified islands, capable of sheltering hundreds of vessels. The naval yards on the harbor's northern arm produce warships and merchantmen; the southern arm is given over to the fishing fleet and smaller traders.
+Tamavar is a city of staggering contrasts. Along the harbor runs the **Guild Quarter**, a canyon of marble-faced warehouses, counting houses and palatial guild halls where the major merchant guilds keep their headquarters and fortunes are made and lost over a single shipment of eastern spice. The **Grand Council Hall**, where the Confederation's governing body meets, stands among them.
 
-## Notable Features
-
-- The Grand Harbor—largest and most protected port on the Vylarian Sea
-- The Guild Quarter—headquarters of the major merchant guilds
-- The Grand Council Hall—meeting place of the Confederation's governing body
-- The Tamzîr Monument—a captured Vylarian warship, preserved in dry-dock as a memorial to the Battle of [[place-tamzirshoals|Tamzîr Shoals]]
+Behind the harbor the old city climbs in a maze of narrow streets, covered bazaars and tenement blocks. The dock workers, sailors and craftspeople who live there work in the shadow of wealth they will never share, and a visitor who leaves the marble for the bazaars crosses from one Tamavar to the other in the length of a street.
 
 ## See Also
 
-- [[affiliation-tamavar|Tamavar]]—The city-state
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—The confederation it leads
-- Harad Region—Regional overview
+- [[affiliation-tamavar|Tamavar]]—the city-state
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the confederation it leads
+- [[place-tamzirshoals|Tamzîr Shoals]]—the battle its monument remembers
+- [[place-haradregin|Harad Region]]—the regional overview

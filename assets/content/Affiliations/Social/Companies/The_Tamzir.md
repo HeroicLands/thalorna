@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The **Tamzîr** is a weathered trading vessel that works the [[affiliation-vylarinmpr|Vylarian]] Sea, named after the Battle of [[place-tamzirshoals|Tamzîr Shoals]]—the decisive naval engagement of the Haradian War of Independence. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
+The Tamzîr is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzîr Shoals]], the decisive naval engagement of the Haradian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
 
 ## Background
 
@@ -80,7 +80,7 @@ The Tamzîr operates in the gray spaces of maritime law—legitimate trade when 
 
 ## The Fugitive Siblings
 
-The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of extraordinary and erratic power—damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
+The crew's most dangerous entanglement is the Serentia siblings. [[being-lucernsrnt|Lucerian Serentia]], a physician from a respected Vylarian family, sacrificed everything to rescue his sister [[being-cibelasrnt|Cibella]] from the [[affiliation-ordoarcanis|Ordo Arcanis]], who had been experimenting on her. Cibella is an arcane prodigy of great and erratic power—damaged by what the Ordo did to her, unpredictable, and desperately wanted back. The Ordo operates through [[affiliation-vylarinmpr|Vylarian]] court intrigue: imperial agents, bounty hunters, and political leverage. Having the Serentias aboard makes the Tamzîr a target.
 
 ## Shared Enemies
 
@@ -88,13 +88,13 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo
 
 ## Crew
 
-- [[being-esharumtrz|Eshârum Tarûzî]] (Captian)
+- [[being-esharumtrz|Eshârum Tarûzî]] (Captain)
 - [[being-slvrvlskyr|Sélvara Válskyr]] (First Mate)
 - [[being-fethardhrl|Féthar Dhárel]] (Pilot)
 - [[being-kasuradmzr|Kasûra Damzarû]] (Shipwright)
 - [[being-grlfdrthgr|Garulf Druthgar]] (Sellsword)
 - [[being-isarakhldr|Isâra Khalîdra]] (Courtesan)
-- [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Preist)
+- [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Priest)
 - [[being-lucernsrnt|Lucerian Serentia]] (Physician)
 - [[being-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
 - [[being-svlthrnskrsdtr|Svalthrinna Skorrsdottir]] (Warrior)
@@ -107,4 +107,4 @@ The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coasta
 
 1. **Ghosts of Tamzîr Shoals**: A survivor of the original battle contacts the captain with evidence that the Haradian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
 2. **The Ordo Closes In**: An Ordo Arcanis Quaesitor arrives in port with a writ of seizure for the Tamzîr itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
-3. **A Paying Passenger**: A wealthy traveler offers an extraordinary sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.
+3. **A Paying Passenger**: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.

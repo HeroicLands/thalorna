@@ -14,24 +14,18 @@ data:
   government: varoshan
 ---
 
-## Overview
+A traveler coming east along the Haradian coast notices the walls change first: the Vylarian stone of the harbor cities gives way in Varoshan to mudbrick and tile, and the bazaars smell of desert spice and camel. Varoshan, a city of about 220,000, is the easternmost of Harad's major cities and the seat of the city-state of [[affiliation-varoshan|Varoshan]] in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]. It sits at the crossroads where the coastal trade routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]].
 
-Varoshan is the city of the city-state of [[affiliation-varoshan|Varoshan]], the easternmost of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], in Harad Region.
+## The Gate and the Caravansaries
 
-Varoshan is the easternmost of Harad's major cities, sitting at the crossroads where the coastal trade routes meet the overland caravan trails from [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]].
+The overland trade arrives at the **Caravan Gate**, the great eastern market, and spreads from there into the **Caravansary Quarter**, a vast complex of hostels, stables and warehouses built to serve it. A caravan that has crossed the desert unloads, waters its animals and sells in the same quarter, and a coastal merchant who wants eastern goods first-hand goes to the Gate to meet it.
 
-## Character
+## Two Fires
 
-Varoshan feels different from the coastal cities. The architecture shifts from Vylarian stone to mudbrick and tile; the bazaars smell of desert spice and camel; and the dominant religion is [[affiliation-ashanpnthn|Āsháian]] rather than [[affiliation-arldnpnthn|Aurèldían]].
-
-## Notable Features
-
-- The Caravan Gate—the great eastern market where overland trade arrives
-- The Temple of Two Fires—a syncretic shrine where Aurèldían and Āsháian rites are practiced side by side
-- The Caravansary Quarter—a vast complex of hostels, stables, and warehouses serving the overland trade
+Varoshan feels different from the coastal cities, and its faith is the clearest sign: the dominant religion here is the [[affiliation-ashanpnthn|Āsháian Pantheon]], not the [[affiliation-arldnpnthn|Aurèldían]]. In the **Temple of Two Fires**, a syncretic shrine, the rites of both are practiced side by side under one roof.
 
 ## See Also
 
-- [[affiliation-varoshan|Varoshan]]—The city-state
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—The confederation
-- Harad Region—Regional overview
+- [[affiliation-varoshan|Varoshan]]—the city-state
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the confederation
+- [[place-haradregin|Harad Region]]—the regional overview

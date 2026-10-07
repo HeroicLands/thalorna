@@ -10,22 +10,23 @@ data: {demonym: null, lore: [], parents: [haradregin], population: 180000, gover
 
 ## Overview
 
-Every year Kethara holds a Fleet Review, and the whole city turns out to watch its own ships. The Review commemorates the Battle of [[place-tamzirshoals|Tamzîr Shoals]], and it draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]. Kethara is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the strait between the mainland and the Haradian archipelago, and it built the fleet that won that battle. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
+Every year Kethara holds its **Fleet Review**, and the whole city turns out on the walls and quays to watch its own ships go by. The Review commemorates the Battle of [[place-tamzirshoals|Tamzîr Shoals]] and draws visitors from across the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], because Kethara built the fleet that won that battle. It is the Confederation's naval stronghold, a heavily fortified city of about 180,000 on the strait between the mainland of [[place-haradregin|Harad]] and the Haradian archipelago. Where [[place-tamavar2|Tamavar]] runs on money, Kethara runs on pride.
 
 ## The Fortress and the Yards
 
-The Strait Fortress, a massive coastal fortification, controls the passage to the archipelago. The Naval Yards build and maintain the Confederation's warships. The city's admirals command the Confederation's most powerful warships, and its marine infantry are the closest thing Harad has to a professional standing army.
+The **Strait Fortress**, a massive coastal fortification, commands the passage to the archipelago, and no hull goes through the strait without passing under its walls. The **Naval Yards** build and maintain the Confederation's warships. The city's admirals command the most powerful of those warships, and its marine infantry are the nearest thing Harad has to a professional standing army.
 
 ## Who Governs
 
-The Admiral's Council is Kethara's governing body, drawn heavily from naval families. The great families here are admirals' families, status is measured in ships commanded and battles won, and the city's festivals center on martial display rather than commercial spectacle.
+The **Admiral's Council** governs Kethara, drawn heavily from the naval families. The great families here are admirals' families, a family's status is measured in ships commanded and battles won, and the city's festivals turn on martial display rather than commercial spectacle.
 
 ## The Veterans' Quarter
 
-Kethara is home to a large community of sailors and marines from the war of independence who settled here afterward. They were promised land, status and guild membership, and none of it was honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance, and the veterans regard the guilds as traitors to a cause the guilds financed but never bled for. The Veterans' Quarter is politically potent and increasingly frustrated. The [[affiliation-corsairleg|Corsair League]] has its strongest roots here, and the captain of the [[affiliation-thetamzir|Tamzîr]] has more connections in Kethara than anywhere else, and more enemies.
+Kethara is home to a large community of sailors and marines from the war of independence who settled here afterward, and the **Veterans' Quarter** is where they live. They were promised land, status and guild membership, and none of it was honored. The [[affiliation-auricompct|Auric Compact]] and the other great guilds regard them as a nuisance; the veterans regard the guilds as traitors to a cause the guilds financed and never bled for. The quarter is politically potent and grows more frustrated every year. The [[affiliation-corsairleg|Corsair League]] has its strongest roots in the city, and the captain of the [[affiliation-thetamzir|Tamzîr]] has more connections in Kethara than anywhere else, and more enemies.
 
 ## See Also
 
 - [[affiliation-kethara|Kethara]]—the city-state and its Admiral's Council
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the confederation
 - [[affiliation-corsairleg|Corsair League]]—the guild with the strongest roots here
+- [[place-tamzirshoals|Tamzîr Shoals]]—the battle the Fleet Review remembers

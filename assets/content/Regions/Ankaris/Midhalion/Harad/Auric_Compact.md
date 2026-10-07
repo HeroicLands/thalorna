@@ -68,28 +68,28 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-- **Type:** Merchant guild (banking, trade finance, commodity markets)
-- **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] (with agents across [[place-midhalnrgn|Mídhalión Region]])
+A letter of credit under the Auric Compact's seal is accepted as currency across [[place-midhalnrgn|Mídhalión]], and a contract that carries the seal binds as tightly as any court order. That seal is how most people meet the most powerful institution in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—more powerful, in practice, than the Grand Council it nominally serves. The Compact is a cartel of banking houses, trading firms and commodity brokers, and it controls the flow of capital that Haradian commerce runs on. Ships sail because the Compact finances them, cargoes move because it insures them, and governments function because it lends to them.
+
+- **Kind:** merchant guild in banking, trade finance and commodity markets
+- **Reach:** the Confederation, with agents across Mídhalión
 - **Headquarters:** [[affiliation-tamavar|Tamavar]]
 
-## Overview
+## Counting Houses and Agents
 
-The Auric Compact is the most powerful institution in the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—more powerful, in practice, than the Grand Council it nominally serves. A cartel of banking houses, trading firms, and commodity brokers, the Compact controls the flow of capital that makes Haradian commerce possible. Ships sail because the Compact finances them. Cargoes move because the Compact insures them. Governments function because the Compact lends to them.
+The Compact works through counting houses in every major Haradian city and most of the major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]].
 
-## Character
+## The Debt That Rules Harad
 
-The Compact operates through a network of counting houses in every major Haradian city and most major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors, and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The Compact's letter of credit is accepted as currency across Mídhalión; its seal on a contract is as binding as any court order.
-
-The Compact financed the Haradian War of Independence—a calculated investment that paid off spectacularly when the post-war government fell under guild control. The Compact now holds the Confederation's debt and uses this leverage to ensure that government policy serves commercial interests. Taxes are kept low on guild operations; tariffs protect guild monopolies; and the courts enforce guild contracts with enthusiasm.
+The Compact financed the Haradian War of Independence. It was a calculated investment, and it paid off spectacularly when the post-war government fell under guild control. The Compact now holds the Confederation's debt and uses that leverage to make government policy serve commercial interest: taxes stay low on guild operations, tariffs protect guild monopolies, and the courts enforce guild contracts with enthusiasm.
 
 ## Methods
 
-The Compact prefers economic pressure to violence, but it is not above either. Merchants who default on Compact loans find their credit revoked across every port in the Confederation. Ship captains who carry cargo for Compact rivals find their vessels denied harbor services. And when softer methods fail, the Compact employs enforcers—discreet, professional, and ruthless—who collect debts through intimidation and, when necessary, force.
+The Compact prefers economic pressure to violence and is not above either. A merchant who defaults on a Compact loan finds his credit revoked in every port of the Confederation. A captain who carries cargo for the Compact's rivals finds her vessel refused harbor services. When the softer methods fail, the Compact sends enforcers—discreet, professional and ruthless—who collect through intimidation and, when they must, by force.
 
-These enforcers are the people most likely to cross paths with the crew of the [[affiliation-thetamzir|Tamzîr]]. Old debts from the war, broken contracts, and the captain's refusal to work within the guild system make the Tamzîr a persistent irritant to the Compact's sense of order.
+Those enforcers are the people most likely to cross paths with the crew of the [[affiliation-thetamzir|Tamzîr]]. Old debts from the war, broken contracts and the captain's refusal to work inside the guild system make the ship a persistent irritant to the Compact's sense of order.
 
 ## See Also
 
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Parent polity
-- [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—Rival guilds
-- [[affiliation-tamavar|Tamavar]]—Headquarters
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the parent polity
+- [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—the rival guilds
+- [[affiliation-tamavar|Tamavar]]—the headquarters
