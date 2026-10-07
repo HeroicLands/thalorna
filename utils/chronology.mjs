@@ -12,10 +12,11 @@
  */
 
 /**
- * The chronology guard over every history note.
+ * The chronology guard over every dated event.
  *
- * A history note is a `lore` note with `subType: history`. Its dated events are
- * the entries of `data.events`, each with a `when` in the canonical year of the
+ * A dated event is an entry of a `lore` note's `data.events`: most are on
+ * history notes, and a few on law or custom notes that record their own
+ * origins. Each entry has a `when` in the canonical year of the
  * Common Calendar: signed, negative for a year Before the Founding, and with no
  * year zero, because 1 BF is followed directly by 1 AF.
  *
@@ -28,7 +29,7 @@
  *
  * The rules:
  *
- * 1. **`no-year-zero`** — no `when` or `until` in a history note is year 0.
+ * 1. **`no-year-zero`** — no `when` or `until` is year 0.
  * 2. **`depth-is-closed`** — `depth` is `world` or `region`.
  * 3. **`stated-calendar-resolves`** — a `stated.calendar` names a calendar note.
  * 4. **`stated-agrees`** — a `stated.text` carrying a year reads, in that
@@ -121,7 +122,7 @@ function readNote(file) {
 }
 
 /**
- * Every history note, every calendar note and the world's place note in a tree.
+ * Every lore note with events, every calendar note and the world's place note.
  *
  * @param {string} [content] - The content tree.
  * @returns {{history: object[], calendars: object[], world: object[]}}
@@ -134,7 +135,7 @@ export function readTree(content = CONTENT) {
         const note = readNote(file);
         if (!note) continue;
         const entry = { file, address: `${note.fm.type}-${note.fm.shortcode}`, ...note };
-        if (note.fm.type === "lore" && note.fm.subType === "history") history.push(entry);
+        if (note.fm.type === "lore" && Array.isArray(note.fm.data?.events)) history.push(entry);
         if (note.fm.type === "lore" && note.fm.subType === "calendar") calendars.push(entry);
         if (note.fm.type === "place" && note.fm.data?.year?.days) world.push(entry);
     }
@@ -282,7 +283,7 @@ export function main(content = CONTENT) {
     const findings = check(tree);
     for (const line of findings) console.error(line);
     console.log(
-        `chronology: ${tree.history.length} history notes, ${findings.length} finding${findings.length === 1 ? "" : "s"}`,
+        `chronology: ${tree.history.length} notes with dated events, ${findings.length} finding${findings.length === 1 ? "" : "s"}`,
     );
     return findings.length === 0 ? 0 : 1;
 }
