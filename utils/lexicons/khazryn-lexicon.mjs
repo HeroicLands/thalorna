@@ -49,6 +49,9 @@
  *    read off the lexicon: notes whose `data.packFolder`, `data.culture`,
  *    `data.lore` or `data.parents` names a listed value, listed addresses, the
  *    tongue notes, and the lexicon itself.
+ *    A name tagged `older` stands in the lexicon's table of names older than
+ *    the rules and is exempt from the tongues' rules; one that is not listed
+ *    there is an error.
  *    A name tagged `pending` or `faith` is a warning, so a name awaiting its
  *    coinage is visible without failing the run.
  * 6. **Dunhari** — no stem and no derived name equals a name or word the
@@ -86,6 +89,9 @@ export const CONTENT = "assets/content";
 /** Tags that are not tongues and carry their own meaning. */
 export const GLOSS = "gloss";
 export const WARNED = ["pending", "faith"];
+
+/** The tag of a name that keeps no rule because it is older than the rules. */
+export const OLDER = "older";
 
 /** A cell with its bold, italic and link marks off. */
 export function plain(cell = "") {
@@ -499,7 +505,14 @@ export function lexiconFrom(text) {
         }
     }
 
-    return { tongues, scope, senses, stems, register, tags, derived };
+    const older = [];
+    const olderTable = tableOf(text, "## Names older than the rules", false);
+    if (olderTable) {
+        const oName = column(olderTable, "name");
+        for (const { cells } of olderTable.rows) older.push(lower(plain(cells[oName])));
+    }
+
+    return { tongues, scope, senses, stems, register, tags, derived, older };
 }
 
 /**
@@ -858,6 +871,13 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
                         `${r.name} glosses \`${w}\`, which the register does not hold under a tongue`,
                     );
             }
+        } else if (r.language === OLDER) {
+            if (!lex.older.includes(lower(r.name)))
+                add(
+                    r.offset,
+                    "error",
+                    `${r.name} is tagged \`${OLDER}\` and stands in no row of the names older than the rules`,
+                );
         } else if (WARNED.includes(r.language)) {
             add(
                 r.offset,

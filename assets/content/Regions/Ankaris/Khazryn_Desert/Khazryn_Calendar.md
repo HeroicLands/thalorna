@@ -1,6 +1,6 @@
 ---
 shortcode: khzrnclndr
-name: {full: The Khazryn Calendar, aliases: [Khazryn Calendar]}
+name: {full: The Tellumi Calendar, aliases: [Tellumi Calendar]}
 type: lore
 subType: calendar
 description: "The ancient Khazryn calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate against the Ātárzád's own ritual reckoning."
