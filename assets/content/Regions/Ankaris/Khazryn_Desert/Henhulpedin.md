@@ -3,7 +3,7 @@ shortcode: henhulpedin
 name: {full: Henhulpedin, aliases: [The Blood-field of the Breaking]}
 type: place
 subType: site
-description: "The stretch of horse-pasture beyond Zargandûr's northern wall where the war-house's last riders were killed in the second year of the Breaking, about 630 AF: a moderate blood-field of recurrence that brings night terrors and breaks minds, but sends no hunters, and that the Bāhrām keep for their own use."
+description: "The stretch of horse-pasture beyond Zargandûr's northern wall where the war-house's last riders were killed in the second year of the Breaking, about 620 AF: a moderate blood-field of recurrence that brings night terrors and breaks minds, but sends no hunters, and that the Bāhrām keep for their own use."
 tags: []
 data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolder: khazryndesert}
 ---
