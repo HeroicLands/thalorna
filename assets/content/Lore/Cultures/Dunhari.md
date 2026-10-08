@@ -58,3 +58,27 @@ Last and underneath he owes the account of himself that the poets will carry, an
 - [[place-dunharargn|Dunhara Region]]—the desert, the circuits and the confederations
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the fire-and-light faith
 - [[skill-dunharlng|Dunhari]]—the tongue the poets keep the law in
+
+## Glossary {#glossary}
+
+| Term                 | Meaning                                                                                                                |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| bâdkhwân             | A wind-reader, in the storm cults' own name for the lineage                                                            |
+| bahâr                | A member of the Warrior's Circle, named by acclamation; plural bahârân                                                 |
+| bârân-âvar           | A rain-caller, in the storm cults' own name for the lineage                                                            |
+| lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; sang-zad |
+| pîr                  | A recognized storm-cult practitioner, who reads the weather for council and warband                                    |
+| pîravân              | "Followers": the Dunhari at large as the storm cults count them                                                        |
+| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; bârân-âvar                     |
+| sang-zad             | A lightning-marked, in the storm cults' own name for the lineage                                                       |
+| sar-pîr              | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                                |
+| shâgerd              | An apprentice of a storm-cult lineage                                                                                  |
+| sokhan-bar           | A voice-bearer, in the storm cults' own name for the lineage                                                           |
+| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; tufân-row                                      |
+| tufân-row            | A storm-walker, in the storm cults' own name for the lineage                                                           |
+| vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm            |
+| Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                    |
+| voice-bearer         | Storm-cult orator who carries the repertoire of myth, hymn and ritual formula; sokhan-bar                              |
+| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; bâdkhwân                                                   |
+
+Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

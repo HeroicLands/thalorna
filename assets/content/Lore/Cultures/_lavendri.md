@@ -56,3 +56,27 @@ Last he owes the Pact—the old arrangement with the Áelendan and with what was
 - [[place-elavendre|Élavendre Region]]—the woodland kingdom and its cities
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods as the kingdom keeps them
 - [[skill-elvndrlng|Élavendri]]—the tongue of the houses and the bards
+
+## Glossary {#glossary}
+
+Every Élavendri word and term of art these notes use, with the Áelendan terms the kingdom lives beside.
+
+| Term             | Meaning                                                                                    |
+| ---------------- | ------------------------------------------------------------------------------------------ |
+| ael              | Light, radiance; an Élavendri root common in names                                         |
+| arálwen          | A place where the material world and the spirit world lie naturally thin; pl. arálwain     |
+| arálwen-water    | A river that is arálwen along its length, running partly in each world                     |
+| Death-Speaker    | An Áelendan who goes to the owl-spirit to ask whether the recently dead have gone          |
+| en               | The Élavendri copula, is; borrowed into Provenzal verse                                    |
+| hedge-affiliate  | A village healer, herbalist or folk-magician who walks in the Grove Council's tradition    |
+| hinge-days       | The equinoxes and solstices, when the Grove Council gathers                                |
+| leaf-mark        | The wrist tattoo of an initiate's home grove, renewed by its elder and fading with absence |
+| memory-shaping   | A bardic art that works through voice and narrative on memory                              |
+| shadow name      | The true name, used only among intimates and at night                                      |
+| síl              | Song, enchantment; an Élavendri root common in names                                       |
+| song-binding     | A bardic art that binds through song                                                       |
+| sun name         | The name used in formal and public life                                                    |
+| thal             | Shadow, mystery; an Élavendri root common in names                                         |
+| Tradition Keeper | An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies     |
+
+Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

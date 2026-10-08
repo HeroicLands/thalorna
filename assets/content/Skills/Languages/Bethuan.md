@@ -49,7 +49,7 @@ Bethuan's vowels are notably fuller and longer-holding than Helonic:
 - **ô**—long, closing on a rounded "oh"
 - **u**—short, the "u" of "put"
 - **û**—long, the "oo" of "boot"
-- **ö**—front-rounded, as in German "schön" (rare, in older loanwords)
+- **ö**—front-rounded, the lips rounded as for _o_ while the tongue says _e_ (rare, in older loanwords)
 
 Diphthongs are richer and more common than in Byzarian: -ia, -io, -ea, -eo are glided smoothly, and -ou (a long "oh") and -au (a long "ah" gliding to "oo") are native. **Hiatus** (two adjacent vowels not forming a diphthong) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
@@ -62,7 +62,7 @@ Bethuan's consonants are fewer and less harsh than Byzarian's, though richer tha
 **Distinctive features:**
 
 - **th**—as in "thin" (common, especially in formal feminine register)
-- **kh**—a rasp at the back of the throat, as in Scottish "loch" (present but less frequent than in Byzarian)
+- **kh**—a rasp at the back of the throat, as when clearing it (present but less frequent than in Byzarian)
 - **gh**—the same rasp voiced, a throaty "g" that never quite closes (more common in Bethuan than western Helonic)
 - **Soft consonants:** Before front vowels (i, e), many consonants soften, taking on a "y" glide: t and d become roughly "ty" and "dy"; k and g become "ky" and "gy"
 - **Liquid gemination:** Doubled r and l (_rr_, _ll_) are common in formal speech, signaling emphasis or prestige

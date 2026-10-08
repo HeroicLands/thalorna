@@ -3,7 +3,7 @@ shortcode: balamkiahkrgn
 name: {full: Ba'alam Ki'ahk Region, aliases: []}
 type: place
 subType: region
-description: "Pacific fjords, cedar rainforest and a volcanic mountain spine—the land of Ba'alam Ki'ahk, westernmost of Northern K'ich'chik."
+description: "Western fjords, cedar rainforest and a volcanic mountain spine—the land of Ba'alam Ki'ahk, westernmost of Northern K'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -20,7 +20,7 @@ data:
 
 Ba'alam Ki'ahk Region is the land of [[affiliation-balamkiahk|Ba'alam Ki'ahk]], and lies within [[place-nrthrnkchchk|Northern K'ich'chik]] on the [[place-kchchkcntnnt|K'ich'chik Continent]].
 
-Ba'alam Ki'ahk—"Jaguar-Eagle Place" in the K'ich'chik tongue—is the westernmost expanse of the northern frontier. Towering cedar and redwood forests stretch from the rugged Pacific coastline inland to the spine of snow-crowned peaks, with volcanic mountains rising like the sacred guardians of an elder age.
+Ba'alam Ki'ahk—"Jaguar-Eagle Place" in the K'ich'chik tongue—is the westernmost expanse of the northern frontier. Towering cedar and redwood forests stretch from the rugged western coastline inland to the spine of snow-crowned peaks, with volcanic mountains rising like the sacred guardians of an elder age.
 
 From Ba'alam Ki'ahk's high valleys, one can see across the great water to distant lands.
 

@@ -25,7 +25,7 @@ The system works because it rests on a structural condition the formal banking s
 
 The fundamental principle is consistent across the regions where kin-and-hall credit operates, but the specific institutional forms vary substantially.
 
-### Nordic Hall-Credit
+### Nordland Hall-Credit
 
 In the [[place-nrdlndsrgn|Nordlands]] and to a lesser extent in [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]], the principal unit of credit is the **hall**—a noble household centered on a great timber building where the lord (jarl, thegn, or king) lives with his immediate kin and his sworn retainers. The hall's debts are the hall's collective obligations; the hall's credits are owed to the hall's collective benefit.
 

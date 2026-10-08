@@ -99,7 +99,7 @@ A **kaan'vaar**—"one who holds"—is the working rank, and the one that most K
 
 A **kaan'thári**—"one who keeps what came before"—is the senior rank, reached after forty or fifty years of service. Kaan'thári are the memory of the tradition: the Kaliharans to whom other Kaliharans turn when a practice has drifted, when a procedure has been half-forgotten, when a structure has begun to fail in a way that no living kaan'vaar has seen before. There are perhaps two hundred kaan'thári in Kalihara at any time, scattered across the major sanctuaries, and their counsel is sought on matters well beyond the strictly custodial.
 
-A **sílhari'kaan**—"clear-seer of the keepers"—is the rarest rank, held by perhaps a dozen individuals at any time. These are Kaliharans of extraordinary discernment and encyclopaedic knowledge, responsible for coordinating custodial practice across the whole island, for convening the councils that decide when an ancient procedure must be adjusted in the face of structural failure, and for carrying—in strict confidence—the knowledge of how deep the crisis of the failing structures has actually become.
+A **sílhari'kaan**—"clear-seer of the keepers"—is the rarest rank, held by perhaps a dozen individuals at any time. These are Kaliharans of extraordinary discernment and encyclopedic knowledge, responsible for coordinating custodial practice across the whole island, for convening the councils that decide when an ancient procedure must be adjusted in the face of structural failure, and for carrying—in strict confidence—the knowledge of how deep the crisis of the failing structures has actually become.
 
 #### The Sanctuaries
 

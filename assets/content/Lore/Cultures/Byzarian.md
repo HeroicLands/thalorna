@@ -57,3 +57,15 @@ He will add, if pressed, that a man owes the truth about a defect in his own goo
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the civic faith in its eastern rite
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the caravan-road faith, openly kept
 - [[skill-byzarnlng|Byzarian]]—the tongue and its vocabulary of agreement
+
+## Glossary {#glossary}
+
+| Term                  | Meaning                                                                                          |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| byzar                 | The old Byzarian word for a workshop, "the place of making", from which Byzaris is named         |
+| First of the Council  | A city council's presiding officer, elected for a fixed term and holding the city's seal         |
+| house-suffix          | One of the four endings of a house name: -ákit, -íkot, -ídek and -zát                            |
+| Lord Commander        | The League's commander of the Eastern March and its senior soldier                               |
+| Warden of the Weights | Inspector of measures, coin and quality in the markets; the highest civic honor in a League city |
+
+Argo, Aurion, Bit and paper-script are loanwords from [[lore-vylarianclt#glossary|Vylaria]].

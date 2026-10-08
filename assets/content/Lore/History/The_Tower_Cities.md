@@ -22,7 +22,7 @@ The league rises about 1000 BF, four centuries after the Varkhad send their kin 
 
 ## What Is Left
 
-The great ruins sit in three places. [[place-wilud|Wilud]], in the sands of the Hosikor, is the city a moving dune sea drowned when its well failed. [[place-ruinsarkor|Bolid, the Ruins of Arkor]], at the western margin, is the city the league founded closest to the Eastern March, and lies buried. Jilaq, the league's chief city, stands in the central waste, and the road bends three days round it. Beyond those three, a hundred miles of the road are lined with fallen light-towers that serve now as landmarks, and the tribes who water at their wells still leave a lamp at the foot of the tower on the night the last city fell.
+The great ruins sit in three places. [[place-wilud|Wilud]], in the sands of the Hosikor, is the city a moving dune sea drowned when its well failed. [[place-ruinsarkor|Bolid, the Ruins of Arkor]], at the western margin, is the city the league founded closest to the Eastern March, and lies buried. [[place-jilaq|Jilaq]], the league's chief city, stands in the central waste, and the road bends three days round it. Beyond those three, a hundred miles of the road are lined with fallen light-towers that serve now as landmarks, and the tribes who water at their wells still leave a lamp at the foot of the tower on the night the last city fell.
 
 ## What the League Left Unanswered
 

@@ -2,7 +2,7 @@
 shortcode: dhal
 name: {full: Dhal, aliases: []}
 type: weapongear
-description: "Brass-bossed circular shield; Damascus prestige and practical deflection."
+description: "Brass-bossed circular shield; prestige and practical deflection."
 tags: []
 data: {icon: icon-roundshield, templatePriority: null, packFolder: weapons}
 sohl:

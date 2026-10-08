@@ -96,7 +96,7 @@ In modern times, some Varokhi speakers have adopted the scripts of neighboring r
 
 ### Romanizing Varokhi
 
-Varokhi is unwritten, so every Latin spelling in these pages is a romanization rather than the language's own writing, and [[skill-nordmalng|Nordmal]] § _Romanizing Nordmal_ states the table it is read off: the same table the north uses, with the row for the rounded back vowel struck out. The rule governing both is that a romanized name must be typeable, which is why the dental fricatives are written out as letters and the length mark is left as a mark an ordinary search folds away.
+Varokhi is unwritten, so every spelling in these pages is a romanization rather than the language's own writing, and [[skill-nordmalng|Nordmal]] § _Romanizing Nordmal_ states the table it is read off: the same table the north uses, with the row for the rounded back vowel struck out. The rule governing both is that a romanized name must be typeable, which is why the dental fricatives are written out as letters and the length mark is left as a mark an ordinary search folds away.
 
 | sound                          | written       | never                   |
 | ------------------------------ | ------------- | ----------------------- |

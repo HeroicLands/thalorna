@@ -28,19 +28,19 @@ The rest of the Khazryn lies off the road. [[place-gwtkrrgn|Gwatekor]] is forest
 
 East-bound; the road west reverses them.
 
-| Mile           | Day      | Waypoint                               | What happens                                                          |
-| -------------- | -------- | -------------------------------------- | --------------------------------------------------------------------- |
-| 0              | 0        | the last caravanserai of the March     | the League's claim ends                                               |
-| 120            | 7        | the first toll-camp                    | the first price; the first tribe's rider joins                        |
-| 120 to 550     | 7 to 30  | the springs of Welqator                | a day or two apart; raiders test unescorted strings                   |
-| 550            | 30       | [[place-yemokwell\|Yemok]]             | the first hand-off well                                               |
-| 600 to 710     | 32 to 38 | the Long Dry                           | five waterless days; the horses drink from skins                      |
-| 800            | 44       | the towers of **Jilaq** on the horizon | the road bends three days south round a thin blood-field              |
-| 1,150          | 66       | [[place-qisomrktcmp\|Qìso]]            | the central market-camp; most goods change hands; the costliest water |
-| 1,150 to 1,700 | 66 to 96 | the Central Sands                      | wells three to five days apart                                        |
-| 1,700          | 96       | [[place-sowidwell\|Sowid]]             | the second hand-off well                                              |
-| 2,150          | 115      | the first Tānvüri patrols              | an escort of the Empire's riders for the last stretch                 |
-| 2,500          | 130      | the western pass of Tānvür             | the garrison and customs-house; the Empire's claim begins             |
+| Mile           | Day      | Waypoint                                            | What happens                                                          |
+| -------------- | -------- | --------------------------------------------------- | --------------------------------------------------------------------- |
+| 0              | 0        | the last caravanserai of the March                  | the League's claim ends                                               |
+| 120            | 7        | the first toll-camp                                 | the first price; the first tribe's rider joins                        |
+| 120 to 550     | 7 to 30  | the springs of Welqator                             | a day or two apart; raiders test unescorted strings                   |
+| 550            | 30       | [[place-yemokwell\|Yemok]]                          | the first hand-off well                                               |
+| 600 to 710     | 32 to 38 | the Long Dry                                        | five waterless days; the horses drink from skins                      |
+| 800            | 44       | the towers of [[place-jilaq\|Jilaq]] on the horizon | the road bends three days south round a thin blood-field              |
+| 1,150          | 66       | [[place-qisomrktcmp\|Qìso]]                         | the central market-camp; most goods change hands; the costliest water |
+| 1,150 to 1,700 | 66 to 96 | the Central Sands                                   | wells three to five days apart                                        |
+| 1,700          | 96       | [[place-sowidwell\|Sowid]]                          | the second hand-off well                                              |
+| 2,150          | 115      | the first Tānvüri patrols                           | an escort of the Empire's riders for the last stretch                 |
+| 2,500          | 130      | the western pass of Tānvür                          | the garrison and customs-house; the Empire's claim begins             |
 
 **Branches.** A northern branch comes down from Velanthia's eastern reach and joins the road before Qìso, carrying furs and amber. A southern spur leaves Qìso, crosses [[place-dkrqrrgn|Dikraqor]] in about twenty days and reaches the Tellumel. From there roads run west to Amradad and south to the pass-towns of [[place-meghadvara|Meghadvāra]] and [[place-suryadvara|Sūryadvāra]].
 

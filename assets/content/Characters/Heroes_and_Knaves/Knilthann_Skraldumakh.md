@@ -426,7 +426,7 @@ Knilthann was born into the Skraldumakh clan during an age when the old ways sti
 
 **The Skald's Mastery**
 
-As a young man, Knilthann earned his scar defending the honor of the Skalds' Guild against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordic Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
+As a young man, Knilthann earned his scar defending the honor of the Skalds' Guild against a rival skald who sought to corrupt the ancient stories with borrowed foreign tales. That duel of hands—before the duel of voices could commence—left him marked but victorious, and his reputation thereafter was unassailable. He rose through the ranks of the Nordland Skalds' Guild with steady determination, eventually becoming the Guild's Master of Lore and keeper of the most sacred sagas. For the past twenty years, his performances have been commissioned by the greatest noble houses of Targud, his voice commanding fees that secure his comfort in the winter of his life.
 
 **The Current Twilight**
 
@@ -484,7 +484,7 @@ Kveld of the Eastern Reaches
 
 ### Affiliations
 
-Nordic Skalds' Guild
+Nordland Skalds' Guild
 : As the Guild's Master of Lore and most celebrated active member, Knilthann holds substantial influence over certification, dispute resolution, and the maintenance of traditional standards.
 
 ## Plot Hooks
