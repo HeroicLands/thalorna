@@ -192,7 +192,7 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `pìlok`  | banner                             |
 | `mirjol` | herd                               |
 | `sowid`  | rider, escort                      |
-| `kiput`  | token                              |
+| `kipud`  | token                              |
 | `bedaq`  | owned water, a tribe's oasis       |
 | `dikraq` | stone                              |
 | `hamek`  | skull                              |

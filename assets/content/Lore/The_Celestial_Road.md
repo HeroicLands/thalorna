@@ -89,7 +89,7 @@ A caravan that has bought none of these, or leaves the named wells, is lawful pr
 | The tribe whose range it is | water at its named wells; a rider; restitution for its people's theft; vengeance on others | nothing beyond its range                                                                               |
 | The rider                   | the route, the wells and the hand-off; his life as surety                                  | a rider who loses his caravan is not taken back by his tribe                                           |
 | The caravan-master          | payment, in goods or in the credit of his backing house                                    | the road-peace: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track |
-| The next tribe              | takes the caravan over against the _kiput_, the token the outgoing rider carries           | nothing until the token is shown                                                                       |
+| The next tribe              | takes the caravan over against the _kipud_, the token the outgoing rider carries           | nothing until the token is shown                                                                       |
 
 The token is a tally of cord or clay cut with the sign of the tribe that issued it. A string of tokens is a caravan's passport, and at the two hand-off wells the riders of one stretch give the caravan to the riders of the next in front of witnesses from both. Backing houses stand surety by the practice described in [[lore-kinhalcrdt|Kin and Hall Credit]], and a master who cannot pay a tribe in goods pays in his house's name.
 

@@ -29,7 +29,7 @@ Camp at one of them uninvited and the owners arrive in the morning. What they do
 
 ## The Stranger and the Price of Passage
 
-A stranger without a sponsor is fair game, and everything the tribes do toward travelers follows from that. A caravan crossing the steppe pays each tribe whose wells and grazing it uses, and each payment buys three things: the right to water at the tribe's wells, a guide (sowid, "rider," the same word the Sowides use for themselves) who knows the next three days of country, and the tribe's token (_kiput_), which a rider of another tribe will honor at the border because the mark on it is the one he would have to answer to.
+A stranger without a sponsor is fair game, and everything the tribes do toward travelers follows from that. A caravan crossing the steppe pays each tribe whose wells and grazing it uses, and each payment buys three things: the right to water at the tribe's wells, a guide (sowid, "rider," the same word the Sowides use for themselves) who knows the next three days of country, and the tribe's token (_kipud_), which a rider of another tribe will honor at the border because the mark on it is the one he would have to answer to.
 
 The price is set tribe by tribe and changes with the season, the size of the caravan, the dowek's mood and the state of the tribe's feuds. A caravan master's real asset is the list of agreements he carries in his head: which dowek, which wells, what price last year, and which tribe is at war with which this season. The Sowides keep no written ledger, and a bargain is witnessed aloud before the elders of both parties and held in their memory. A master who cheats a tribe is not pursued by an army; he finds, three tribes along, that nobody will sell him a guide.
 
@@ -87,7 +87,7 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 | jadek         | A raid, planned in moot and led by a war captain                                                                               |
 | jutjen        | A moot of elders, a tribe's own or that of the tribes whose ranges meet at a well                                              |
 | kèdoq         | A blood-field: ground where many died at once and none received their rite                                                     |
-| kiput         | The token a tribe issues for passage, a tally of cord or clay cut with its sign                                                |
+| kipud         | The token a tribe issues for passage, a tally of cord or clay cut with its sign                                                |
 | lusiq         | A ransom, the price for which a captive taken in a raid goes home                                                              |
 | orqwen        | A leader who forces many tribes together by the sword, for one lifetime                                                        |
 | orqwenoq      | The union an orqwen forces, which breaks up on the orqwen's death                                                              |
