@@ -337,4 +337,3 @@ Now the bone. Say it back to me.
 - [[place-dunkelwald|Dunkelwald]]—the household's village, under the bear wesk
 - [[lore-bearttm|Bear]]—the village's totem
 - [[lore-boarttm|Boar]]—the beast of the first charm's precedent
-- [[doc-soulspirts|Souls and Spirits]]—the hungry things the fourth charm keeps off

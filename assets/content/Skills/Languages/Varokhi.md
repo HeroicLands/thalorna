@@ -285,13 +285,18 @@ A place name is an element and a **ground-closing**, and the ground-closing says
 
 | ground name | its pieces                  | what it names              |
 | ----------- | --------------------------- | -------------------------- |
+| Dorghreth   | `dorg-` + `-hreth`          | the giants' ford           |
+| Dorghróm    | `dorg-` + `-hróm`           | the giant's mound          |
 | Dunkelwald  | `dunkel-` + `-wald`         | the dark wood              |
 | Edrak       | `edr-` + `-ak`              | the thicket at the bound   |
 | Eichengrund | `eich-` + `-en-` + `-grund` | the oaks' bottom land      |
+| Eichwern    | `eich-` + `-wern`           | the oaks' lake             |
 | Falkenstein | `falk-` + `-en-` + `-stein` | the falcons' crag          |
 | Grimholt    | `grim-` + `-holt`           | the fierce copse           |
+| Mahnhróm    | `mahn-` + `-hróm`           | the kindred's mound        |
 | Thalrýth    | `thal-` + `-rýth`           | the clearing in the dale   |
 | Thornhaven  | `thorn-` + `-haven`         | the haven among the thorns |
+| Vandhreth   | `vand-` + `-hreth`          | the exacting ford          |
 | Vrystwald   | `vryst-` + `-wald`          | the free wood              |
 | Waldburg    | `wald-` + `-burg`           | the wood's stronghold      |
 
@@ -443,7 +448,7 @@ The particle `vel` is a word and no element is spelled the same way, so a senten
 
 ## Female Given Names
 
-Árhilda, Árwyn, Arnhilda, Arnwyn, Athalrún, Athalwa, Balthilda, Balthwyn, Brunjara, Dágrún, Dágwyn, Dómhilda, Dómrica, Dómrún, Druthilda, Druthwyn, Edrarún, Edrilda, Eldrún, Ermawyn, Ermína, Erthilda, Erthwyn, Falkilda, Falkwyn, Frithilda, Frithwyn, Fródhilda, Fródrún, Fródwyn, Gárhilda, Garwyn, Grimhilda, Grimwyn, Hárwyn, Hildawyn, Hildris, Hildrún, Hródara, Hródila, Hródwyn, Mahnilda, Óthrún, Óthwyn, Rádhilda, Rádrún, Ríkhilda, Ríkwyn, Skaldrún, Skáldwyn, Skathilda, Skathrún, Skathwyn, Sundilda, Sundwíra, Sundwyn, Thaldrá, Thalrún, Thalwyn, Theódris, Theódrún, Theódwyn, Thornila, Thornína, Thornwyn, Thrárún, Thráwyn, Vandilda, Véthwyn, Vithilda, Vithwyn, Vrystwyn, Waldrún, Waldwyn, Wíthilda, Wíthrún, Wulfrún, Wulfwyn
+Árhilda, Árwyn, Arnhilda, Arnwyn, Athalrún, Athalwa, Balthilda, Balthwyn, Brunjara, Dágrún, Dágwyn, Dómhilda, Dómrica, Dómrún, Druthilda, Druthwyn, Edrarún, Edrilda, Eldrún, Ermawyn, Ermína, Erthilda, Erthwyn, Falkilda, Falkwyn, Frithilda, Frithwyn, Fródhilda, Fródrún, Fródwyn, Gárhilda, Garwyn, Grimhilda, Grimwyn, Hárwyn, Hildawyn, Hildris, Hildrún, Hródara, Hródila, Hródwyn, Mahnilda, Óthrún, Óthwyn, Rádhilda, Rádrún, Ríkhilda, Ríkwyn, Skaldrún, Skáldwyn, Skathilda, Skathrún, Skathwyn, Sundilda, Sundwíra, Sundwyn, Thaldrá, Thalrún, Thalwyn, Theódris, Theódrún, Theódwyn, Thornila, Thornína, Thornwyn, Thrárún, Thráwyn, Vandilda, Véthrún, Véthwyn, Vithilda, Vithwyn, Vrystwyn, Waldrún, Waldwyn, Wíthilda, Wíthrún, Wulfrún, Wulfwyn
 
 ## Clan Names
 
