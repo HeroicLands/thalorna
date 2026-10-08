@@ -31,7 +31,6 @@ data:
             how: >-
               the capital of the philosopher-kings stands roofless on open pasture, and its tanks are the watering places of two drover lineages under the plateau's law of wells
             knowledge: named
-      who: [{ref: place-madhavendra, role: actor}]
       accounts:
         - by: lore-mdhvndrcnt
           says: >-
