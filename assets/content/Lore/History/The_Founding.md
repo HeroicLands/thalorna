@@ -19,7 +19,7 @@ data:
       names:
         - name: Year 1
           by: affiliation-vylarinmpr
-          gloss: the epoch of the Common Calendar, from which BF and AF are counted
+          gloss: the epoch of the Vylarian Calendar, from which BF and AF are counted
       where:
         locus: [place-vylariargn]
         reach:
@@ -81,7 +81,7 @@ The calendar is the part of it that outlived the Empire. Events before this year
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
 Mídhalión, Aurèldía, Heliónis, Harad, Provènzia, Tarvénia, Élavendre and Aelwyth—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
-own, and the Common Calendar's reach is itself a visible measure of where the Empire's cultural
+own, and the Vylarian Calendar's reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.
 
 The record does not give the Senator's name.

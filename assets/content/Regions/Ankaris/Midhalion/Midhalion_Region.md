@@ -75,14 +75,14 @@ Mídhalión touches every other major region of Ankaris. It fronts the [[place-a
 
 ## Reckoning
 
-Mídhalión dates by the [[lore-commoncal|Common Calendar]]: years counted After the Founding (AF) and Before the Founding (BF) of the [[affiliation-vylarinmpr|Vylarian Empire]], kept across the empire's former and present sphere.
+Mídhalión dates by the [[lore-commoncal|Vylarian Calendar]]: years counted After the Founding (AF) and Before the Founding (BF) of the [[affiliation-vylarinmpr|Vylarian Empire]], kept across the empire's former and present sphere.
 
 ## See Also
 
 - [[place-vylarianse|Vylarian Sea]]—the water the region is built around
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the declining imperial power
 - [[place-vylariargn|Vylaría Region]]—the empire's heartland
-- [[lore-commoncal|Common Calendar]]—the reckoning the region dates by
+- [[lore-commoncal|The Vylarian Calendar]]—the reckoning the region dates by
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the ascendant eastern maritime rival
 - [[place-helionis|Heliónis]]—philosophical and intellectual center
 - [[place-provenzrgn|Provènzia Region]]—artistic heartland of the northern shore

@@ -96,7 +96,7 @@ To the **east**, beyond the [[place-drenavrspn|Drenavar Spine]], lie the interio
 
 ## Reckoning
 
-Aurèldía uses the **Common Calendar**—the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#the-common-calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
+Aurèldía uses the **Vylarian Calendar**—the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#the-vylarian-calendar|the Vylarian Empire's calendar]] for the full reckoning.
 
 ## See Also
 

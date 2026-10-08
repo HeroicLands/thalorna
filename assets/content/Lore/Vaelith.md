@@ -17,7 +17,7 @@ data:
 
 ## The Cycle
 
-Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day the [[lore-commoncal|Common Calendar]] opens its year and the day the setting's present begins.
+Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, the same day the [[lore-commoncal|Vylarian Calendar]] opens its year and the day the setting's present begins.
 
 :::secret
 **For the GM:** A campaign that opens on that date begins under a new moon, on the first morning of spring.
@@ -44,7 +44,7 @@ The **Court of the Nine Moons**, met in the dossier of [[being-amqltzlmlglq|Amqe
 ## See Also
 
 - [[place-worldthlrn|The World of Thalorna]]—the 365-day year Vaelith's cycle runs against
-- [[lore-commoncal|The Common Calendar]]—opens its year on the day Vaelith was last new
+- [[lore-commoncal|The Vylarian Calendar]]—opens its year on the day Vaelith was last new
 - [[lore-khzrnclndr|The Khazryn Calendar]]—keeps five days outside its months, the same five the moon does not count
 - [[lore-khelathclndr|The Khelâthi Calendar]]—keeps the same five days at its own year's end
 - [[affiliation-naliktzuqal|Faith of Nal'ik Tz'uqal]]—the goddess who shares Tz'uqal's name with the moon's Itzani word
