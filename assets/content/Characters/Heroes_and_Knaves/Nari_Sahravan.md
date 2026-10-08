@@ -11,9 +11,9 @@ data:
   occupation: Shaman
   stations: []
   lore: []
-  culture: khazrynclt
+  culture: sowidesclt
   homes: [oasishirvn]
-  affiliations: {khzrncnfdrtn: {rank: 5}, korsadra: {rank: 1}}
+  affiliations: {sahritrb: {rank: 4, office: Shaman}, korsadra: {rank: 1}}
   gender: female
   species: humanflk
   born: 687.198
@@ -419,7 +419,7 @@ Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and b
 
 # Dossier {#dossier}
 
-Nari Sahravân is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[affiliation-khzrncnfdrtn|Khazryn Confederation]], far to the north and east, where the nomad tribes keep the old ways and the old gods. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
+Nari Sahravân is a daughter of the deep [[place-khzryndsrtrgn|Khazryn]]—the steppe and desert of the [[lore-sowidesclt|Sowides]] tribes, far to the north and east, where each tribe keeps the old ways and the old gods and answers to no one beyond its own dowek. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who traveled between camps—until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
 Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern [[place-midhalnrgn|Mídhalion]] borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness—the gentle healer and the killer-for-hire made an uneasy pair—they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her—above all what the matriarchy does to its men—and she does not always keep that disquiet to herself.
 

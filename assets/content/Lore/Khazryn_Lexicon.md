@@ -456,6 +456,11 @@ The setting's names of places, peoples and persons are older than the three tong
 | Razanash Mervaran | a name |
 | Sharmînah Tahvân  | a name |
 | Zevârad Dathvarûn | a name |
+| Âzardan           | a name |
+| Dûrmand           | a name |
+| Sahri             | a name |
+| Shirzâri          | a name |
+| Zarnûsh           | a name |
 
 ## Attested names
 
@@ -503,6 +508,13 @@ Every name of every note in the region stands here with the note it names and it
 | Razanash Mervaran             | [[being-rznshmrvrn\|Razanash Mervaran]]             | `older`   | a name older than the rules                               |
 | Sharmînah Tahvân              | [[being-shrmnhthvn\|Sharmînah Tahvân]]              | `older`   | a name older than the rules                               |
 | Zevârad Dathvarûn             | [[being-zevaradthvrn\|Zevârad Dathvarûn]]           | `older`   | a name older than the rules                               |
+| Âzardan                       | [[affiliation-zrdntrb\|Âzardan]]                    | `older`   | a name older than the rules                               |
+| Dûrmand                       | [[affiliation-drmndtrb\|Dûrmand]]                   | `older`   | a name older than the rules                               |
+| Sahri                         | [[affiliation-sahritrb\|Sahri]]                     | `older`   | a name older than the rules                               |
+| Shirzâri                      | [[affiliation-shrzrtrb\|Shirzâri]]                  | `older`   | a name older than the rules                               |
+| Zarnûsh                       | [[affiliation-zrnshtrb\|Zarnûsh]]                   | `older`   | a name older than the rules                               |
+| Ruweles                       | [[affiliation-rwlstrb\|Ruweles]]                    | `sowides` | `ruwel` + `-es`                                           |
+| Hidden-Water Bands            | [[affiliation-rwlstrb\|Ruweles]]                    | `gloss`   | —                                                         |
 | The League of Princely Houses | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`   | —                                                         |
 | The Desert Mystic             | [[being-narisahrvn\|Nari Sahravân]]                 | `gloss`   | —                                                         |
 | Tribes of Ātárzád             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`   | —                                                         |

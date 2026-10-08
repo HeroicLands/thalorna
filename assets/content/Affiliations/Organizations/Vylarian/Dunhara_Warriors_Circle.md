@@ -55,7 +55,7 @@ The Warrior's Circle is older than any of the present Dunhara tribes. Tradition 
 
 Membership is by recognition. A warrior is named to the Circle by acclamation of the existing members, never by application and never by tribal appointment. The criteria are unwritten and uncontested: the candidate must have demonstrated, over years, a combination of personal skill in arms, leadership of warriors in the field, and a record of judgment that other warriors trust. Chieftains are common in the Circle but not automatic; many chieftains have never been named, and the Circle includes warriors of low birth who have nevertheless earned the recognition.
 
-The Circle's authority is moral, not coercive. It does not levy. It does not adjudicate inter-tribal disputes (the Orqwens' Council does that, and the two bodies maintain a careful, jealous separation). What the Circle does is coordinate. When an undead incursion threatens the southern grazing lands, when the Tellumi Confederation tests the borders, when a heresy among the storm-priests requires concerted suppression—the Circle gathers, debates, and rides. Tribes whose warriors are members feel the obligation deeply; tribes whose warriors are not feel the pressure to produce a candidate.
+The Circle's authority is moral, not coercive. It does not levy. It does not adjudicate inter-tribal disputes (the common council of the tribes does that, and the two bodies maintain a careful, jealous separation). What the Circle does is coordinate. When an undead incursion threatens the southern grazing lands, when the Tellumi Confederation tests the borders, when a heresy among the storm-priests requires concerted suppression—the Circle gathers, debates, and rides. Tribes whose warriors are members feel the obligation deeply; tribes whose warriors are not feel the pressure to produce a candidate.
 
 ## Membership
 
@@ -80,9 +80,9 @@ The Circle's coordinated actions are conducted by the members themselves and by 
 
 ## Relations
 
-- **The Orqwens' Council** (the chieftains' political body)—careful separation. The Circle does not adjudicate disputes between tribes; the Orqwens do not direct the Circle's coordinated actions. When the two bodies disagree (rarely but consequentially), the Circle defers on questions of policy and the Orqwens defer on questions of war.
+- **The common council of the tribes** (the chieftains' political body)—careful separation. The Circle does not adjudicate disputes between tribes; the chieftains do not direct the Circle's coordinated actions. When the two bodies disagree (rarely but consequentially), the Circle defers on questions of policy and the chieftains defer on questions of war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Báhrámiš]]**—interwoven. Many Circle members are also storm-cultists; the cults provide the ritual framework for the Circle's openings and closings. The relationship is reciprocal: the cults' standing depends in part on the Circle's recognition.
-- **The Khazryn Confederation** to the east—perennial rival; the Circle's coordinated actions are most often directed at Khazryn raiding parties or wells contested with Khazryn tribes.
+- **The steppe tribes** to the east—perennial rivals; the Circle's coordinated actions are most often directed at raiding parties of the [[lore-sowidesclt|Sowides]] or wells contested with one of their tribes. The Circle treats with each tribe separately, because no body speaks for them all.
 - **Foreign powers**—minimal engagement. The Circle does not negotiate with non-Dunhari polities. Foreign emissaries who arrive at the Stone of Ranâz uninvited are received with formal courtesy and dismissed without commitment.
 
 ## Identifying Marks

@@ -11,9 +11,9 @@ data:
   occupation: Shaman
   stations: []
   lore: []
-  culture: khazrynclt
+  culture: sowidesclt
   homes: [kethramir]
-  affiliations: {khzrncnfdrtn: {rank: 5}, zurathra: {rank: 3}}
+  affiliations: {zrdntrb: {rank: 4, office: Shaman}, zurathra: {rank: 3}}
   gender: female
   species: humanflk
   born: 686.235

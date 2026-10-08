@@ -3,7 +3,7 @@ shortcode: eastrnmrch
 name: {full: Eastern March, aliases: []}
 type: place
 subType: region
-description: The Byzarian League's eastern frontier district—the mountain passes beyond Gümüşhisar and the steppe margin below them, held by the Lord Commander and the League's joint army against the Khazryn.
+description: The Byzarian League's eastern frontier district—the mountain passes beyond Gümüşhisar and the steppe margin below them, held by the Lord Commander and the League's joint army against the tribes of the Khazryn steppe.
 tags: [region]
 data:
   icon: null
@@ -30,7 +30,7 @@ Water is the March's governing fact. The passes have snowmelt and the foothills 
 
 ## What It Guards Against
 
-The March faces three kinds of trouble. _Raiders_ from the steppe—small mounted bands of the Khazryn confederations, testing the foothills for unguarded herds and unescorted caravans—are the constant one, and the garrison's patrols exist to make raiding unprofitable rather than impossible. _Bandits_ in the passes themselves, often deserters or ruined muleteers, are a police problem that the way-forts handle. The great orqwenoqs that form in the central Khazryn once in a few generations are the reason the walls are as thick as they are; when one rises, the March is where the League learns of it first, and the Lord Commander's dispatches are what decide whether the council hires mercenary companies or calls up the reserves.
+The March faces three kinds of trouble. _Raiders_ from the steppe—small mounted bands of a single tribe, testing the foothills for unguarded herds and unescorted caravans—are the constant one, and the garrison's patrols exist to make raiding unprofitable rather than impossible. _Bandits_ in the passes themselves, often deserters or ruined muleteers, are a police problem that the way-forts handle. The great orqwenoqs, which a rare dictator forces together in the central Khazryn once in a few generations, are the reason the walls are as thick as they are; each dies with its orqwen, but when one rises, the March is where the League learns of it first, and the Lord Commander's dispatches are what decide whether the council hires mercenary companies or calls up the reserves.
 
 The Amradi frontier to the south is a different matter—a border with a neighbor that trades, not one with an enemy that raids. The March's southern forks are watched for the Sultan's customs officers as carefully as for Dunhari raiders, and the Lord Commander's correspondence with the Sultan's walis across the line is as much diplomacy as soldiering.
 
