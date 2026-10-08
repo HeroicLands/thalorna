@@ -158,7 +158,7 @@ The cities are taxed; the herding tribes pay a tithe of cattle and horses; the C
 
 Each tribe maintains its own warrior society—the **Sárdá** of the Bāhrām, the **Ārmán** of the Khorshad, the **Zhárván** of the Mihrān, and so on. The warrior societies are age-graded; young men enter them at sixteen and serve through their forties. There is no professional standing army; mobilization is by tribal call, with the twelve societies coordinating through the Council in time of inter-tribal action.
 
-The Ātárzád fighting style is built around mounted archery, fast-moving cavalry detachments, the use of the great horses of the uplands to outpace and outmaneuver heavier forces, and a distinctive willingness to take heavy losses for theologically-significant objectives. The Tellumi were defeated in the Conquest in part because they faced an enemy whose acceptable casualty rate exceeded any rate a normal professional force would have countenanced. The Ātárzád have retained that institutional willingness, and any commander on their borders is wise to remember it.
+The Ātárzád fighting style is built around mounted archery, fast-moving cavalry detachments, the use of the great horses of the uplands to outpace and outmaneuver heavier forces, and a distinctive willingness to take heavy losses for theologically-significant objectives. The Tellumi were defeated in the Conquest in part because they faced an enemy whose acceptable casualty rate exceeded any rate a normal professional force would have countenanced. The Ātárzád have retained that institutional willingness.
 
 ## Relations with Other Peoples
 
