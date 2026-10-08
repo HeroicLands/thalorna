@@ -69,7 +69,7 @@ The [[affiliation-ashanpnthn|Āsháian Pantheon]] has a substantial following am
 
 The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Altinkale's **Merchant Hall** settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Altinkale's bankers dominate the council by weight of money, Denizara's admiralty by weight of ships, and Gümüşhisar's military governor by the plain fact that the League's prosperity rests on his garrison.
 
-The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vylarian Empire]] would absorb it, the Haradian guilds would dominate its trade, and the Āsháian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them and subservient to none. Its wars are border wars—against desert raiders, steppe confederations and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
+The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vylarian Empire]] would absorb it, the Haradian guilds would dominate its trade, and the Āsháian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them and subservient to none. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
 
 ## Trade
 
@@ -83,7 +83,7 @@ To the west lies [[place-helionis|Heliónis]], cultural cousin and commercial ri
 
 To the north, across the uplands of the Northern March, lies [[place-velanthrgn|Velanthia]], whose grain feeds the coastal cities and whose **Hosts** patrol the far side of the frontier. Relations are steady and commercial. Beyond Velanthia, the [[place-nrdlndsrgn|Nordlands]] send merchants and mercenaries who are a familiar sight in Byzarian ports.
 
-To the east, beyond Gümüşhisar's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe confederations that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
+To the east, beyond Gümüşhisar's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe tribes that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
 
 To the south, along the whole of the League's southern border, lies the Sultanate of Amradad, which holds the eastern shore of the Vylarian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtnhrdnstts|Harad]], the League's great rival at sea.
 

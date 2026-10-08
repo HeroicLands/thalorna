@@ -76,7 +76,7 @@ Outsiders who hear "the Khazryn" often picture this corner. It holds most of the
 
 ## Ruins and Dangers
 
-Under the sand and in the stone lie the cities of peoples who vanished before the tribes arrived or before the Tellumi wrote their first tablet. Some were buried by moving dunes, and the dunes uncover a street every generation or so. Some stand whole and empty, their towers still upright over dry harbors. Some were sacked, every inhabitant killed, and those are [[lore-bloodfield|blood-fields]]: three are known, and the road bends round two of them. Their oases dried up, or sit in the middle of ground that kills. Caverns and labyrinths open in the foothills and the ridges, cut by no hand the tribes will name.
+Under the sand and in the stone lie the cities of peoples who vanished before the tribes arrived or before the Tellumi wrote their first tablet. Some were buried by moving dunes, and the dunes uncover a street every generation or so. Some stand whole and empty, their towers still upright over dry harbors. Some were sacked, every inhabitant killed, and those are [[lore-bloodfield|blood-fields]]: four are known, [[place-jilaq|Jilaq]], [[place-wemaq|Wemaq]], [[place-qimod|Qìmod]] and [[place-henhulpedin|Henhulpedin]], and the road bends round two of them. Their oases dried up, or sit in the middle of ground that kills. Caverns and labyrinths open in the foothills and the ridges, cut by no hand the tribes will name.
 
 Treasure lies in all of them, and tomb-robbers and scholars go after it in about equal numbers. The tribes that own the nearest water charge for the privilege or bar it.
 

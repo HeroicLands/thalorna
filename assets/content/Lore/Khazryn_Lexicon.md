@@ -11,7 +11,7 @@ This is the word-hoard of the three tongues of the [[place-khzryndsrtrgn|Khazryn
 The three tongues sound nothing alike, and every stem carries sounds that only its own tongue allows:
 
 - [[skill-khazrilng|Tellumi]], the tongue of the old oasis cities at the foot of the Grazian Mountains, is soft and liquid: syllables that close only on _l_, _m_, _n_ or _r_, those four doubled where two stems meet, no _o_ and no marks. _Tellumi_, _Tennelimar_, _Talbemun_.
-- [[skill-sowideslng|Sowides]], the tongue of the steppe confederations, is clipped and hard: a throaty _q_, lip-rounded _kw_, _gw_ and _qw_, words closing on _k_, _q_, _d_, _n_, _r_ or _s_, long vowels marked with a grave, and every two-syllable stem swinging between a front and a back vowel. _Orqwen_, _Kweduhes_, _Dikraqor_.
+- [[skill-sowideslng|Sowides]], the tongue of the steppe tribes, is clipped and hard: a throaty _q_, lip-rounded _kw_, _gw_ and _qw_, words closing on _k_, _q_, _d_, _n_, _r_ or _s_, long vowels marked with a grave, and every two-syllable stem swinging between a front and a back vowel. _Orqwen_, _Kweduhes_, _Dikraqor_.
 - [[skill-atarzadilng|Ātárzādi]], the tongue of the twelve tribes who took four of the Tellumi cities, is harsh and long-voweled: _kh_, _gh_, _sh_ and _zh_, long vowels marked with a macron, and every word closed by a consonant. _Zhōqarōd_, _Shēkhulēz_, _Gherōsōr_.
 
 Each language note sets out its tongue's sounds, its syllables, how its parts join and the suffixes names use. This note holds the stems and what has been built on them, and the register of every name the setting gives in the region.
@@ -45,7 +45,7 @@ They are the words a traveler in the Khazryn needs first, and the words most nam
 
 ## How a name is made
 
-A name is a stem, two stems set together, or a stem with a suffix after it, joined by its tongue's rules. In Tellumi, _te_ "high" and _lu_ "spring" make _tellu_, because a stem ending in a vowel doubles the sonorant that opens the next stem, and the people suffix _-mi_ makes _Tellumi_. In Sowides, _orqwen_ "paramount chief" and the confederation suffix _-oq_ make _Orqwenoq_. In Ātárzādi, _zhōqar_ "war" and the tribe suffix _-ōd_ make _Zhōqarōd_, "the sons of war".
+A name is a stem, two stems set together, or a stem with a suffix after it, joined by its tongue's rules. In Tellumi, _te_ "high" and _lu_ "spring" make _tellu_, because a stem ending in a vowel doubles the sonorant that opens the next stem, and the people suffix _-mi_ makes _Tellumi_. In Sowides, _orqwen_ "paramount chief" and the union suffix _-oq_ make _Orqwenoq_. In Ātárzādi, _zhōqar_ "war" and the tribe suffix _-ōd_ make _Zhōqarōd_, "the sons of war".
 
 A word no table lists is still good in its tongue if it is a listed stem through that tongue's joins and suffixes. A meaning no stem covers needs a new stem, and a new stem is added here, with its sense, before any name uses it. No stem is a word of any language outside the setting.
 
@@ -270,6 +270,8 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `holqen` | unification, a gathering of tribes |
 | `qìmod`  | silent, still                      |
 | `kòjid`  | cursed, forbidden                  |
+| `kèdoq`  | blood-ground, a blood-field        |
+| `wèsuk`  | cursed ground, a thin blood-field  |
 
 ### Ātárzādi
 
@@ -381,15 +383,15 @@ Worked names and words, each built from the stems above.
 | Tellumel    | `tellumi`  | the land of the Tellumi                                       | `te` + `lu` + `-mi` + `-el` |
 | Tennelimar  | `tellumi`  | high-water town                                               | `te` + `nelim` + `-ar`      |
 | Talbemun    | `tellumi`  | the house of the tower                                        | `talbem` + `-un`            |
-| Velkunar    | `tellumi`  | the lost town                                                 | `velkun` + `-ar`            |
+| Turem       | `tellumi`  | the Breaking: the Ātárzád conquest, as the Tellumi call it    | `turem`                     |
+| Velkun      | `tellumi`  | the lost one: the ruin of old Vahúrdash                       | `velkun`                    |
 | Vurinul     | `tellumi`  | a man's name: holy                                            | `vurin` + `-ul`             |
 | Lisene      | `tellumi`  | a woman's name: moon                                          | `lisen` + `-e`              |
 | Sowides     | `sowides`  | the riders, the steppe peoples' name for themselves           | `sowid` + `-es`             |
-| Orqwenoq    | `sowides`  | a confederation under one paramount chief                     | `orqwen` + `-oq`            |
+| Orqwenoq    | `sowides`  | the union an orqwen forces over tribes                        | `orqwen` + `-oq`            |
 | Kweduhes    | `sowides`  | the horse people                                              | `kwedu` + `-es`             |
 | Kweduruweq  | `sowides`  | horse of the wind                                             | `kwedu` + `ruweq`           |
 | Jedoroqid   | `sowides`  | road camp, a caravan halt                                     | `jedor` + `roqid`           |
-| Gweranoq    | `sowides`  | the storm confederation                                       | `gweran` + `-oq`            |
 | Dikraqor    | `sowides`  | the stone range                                               | `dikraq` + `-or`            |
 | Jadekud     | `sowides`  | a raider                                                      | `jadek` + `-ud`             |
 | Wogeltolis  | `sowides`  | a man's name: wolf-spear                                      | `wogel` + `tolis`           |
@@ -433,8 +435,8 @@ Worked names and words, each built from the stems above.
 | Yiqnotud    | `sowides`  | the hunter: the steppe hunter                                 | `yiqnot` + `-ud`            |
 | Henhulpedin | `tellumi`  | blood-field: the field of the Breaking outside Zargandûr      | `henhul` + `pedin`          |
 | Sirvelpedin | `tellumi`  | cursed field: a thin blood-field                              | `sirvel` + `pedin`          |
-| Rùhiqjonhik | `sowides`  | blood-ground: a blood-field                                   | `rùhiq` + `jonhik`          |
-| Kòjidjonhik | `sowides`  | cursed ground: a thin blood-field                             | `kòjid` + `jonhik`          |
+| Kèdoq       | `sowides`  | blood-ground: a blood-field                                   | `kèdoq`                     |
+| Wèsuk       | `sowides`  | cursed ground: a thin blood-field                             | `wèsuk`                     |
 
 ## Names older than the rules
 
@@ -557,8 +559,8 @@ Every name of every note in the region stands here with the note it names and it
 | The Legion Fort                               | [[place-roqid\|Roqid]]                                             | `gloss`   | a glossed name on `Roqid`                                 |
 | Bolid                                         | [[place-ruinsarkor\|Ruins of Arkor]]                               | `sowides` | `bolid`                                                   |
 | The Buried Tower City                         | [[place-ruinsarkor\|Ruins of Arkor]]                               | `gloss`   | a glossed name on `Bolid`                                 |
-| Velkunar                                      | [[place-velkunar\|Velkunar]]                                       | `tellumi` | `velkun` + `-ar`                                          |
-| The Lost Town                                 | [[place-velkunar\|Velkunar]]                                       | `gloss`   | a glossed name on `Velkunar`                              |
+| Velkun                                        | [[place-velkunar\|Velkun]]                                         | `tellumi` | `velkun`                                                  |
+| The Lost Town                                 | [[place-velkunar\|Velkun]]                                         | `gloss`   | a glossed name on `Velkun`                                |
 | Gurdi                                         | [[place-gurdi\|Gurdi]]                                             | `tellumi` | `gurdi`                                                   |
 | The Way Down                                  | [[place-gurdi\|Gurdi]]                                             | `gloss`   | a glossed name on `Gurdi`                                 |
 | Ruins and Labyrinths of the Grazian Mountains | [[place-grazruins\|Ruins and Labyrinths of the Grazian Mountains]] | `gloss`   | a glossed name on `Gurdi`                                 |
