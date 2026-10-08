@@ -48,7 +48,6 @@ data:
       Temple Architect: >-
         The Āchārya charged with a building work, this tradition's priesthood and its building trade being the same people.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [vyalendradty]

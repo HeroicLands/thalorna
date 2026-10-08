@@ -71,7 +71,6 @@ data:
       Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
       Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers that sail from it.
   seat: bethura
-  domains: [bethuargn]
   population: 3000000
   economy: [lore-aukhlthcrncy, affiliation-bthntrdhss, affiliation-garhalzi]
   lore: [humanflk]

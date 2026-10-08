@@ -104,7 +104,6 @@ data:
       Manorial Officer: >-
         Any office serving a single manor rather than the realm, held of the manor's lord and answerable to him rather than to the crown.
   seat: marendal
-  domains: [galvaren]
   population: 1000000
   economy: [lore-vylrncrncy, affiliation-clgmrgntrrm, affiliation-magnumclgm]
   lore: [humanflk]

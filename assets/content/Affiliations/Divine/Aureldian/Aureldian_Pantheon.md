@@ -31,7 +31,6 @@ data:
       Magistra: >-
         The style used where a faith's apex is a mistress of an art—wisdom, life, death, flowers.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

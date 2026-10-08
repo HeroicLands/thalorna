@@ -53,7 +53,6 @@ data:
       Tide-reader: >-
         Publishes the harbor tables the coastal polities' pilots work from, revised each season.
   seat: chandrapur2
-  domains: []
   population: null
   economy: []
   lore: []

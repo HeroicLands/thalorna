@@ -44,7 +44,6 @@ data:
       Second of the Watch: >-
         A practitioner seconded from another House for a term, who returns to it afterward and is thereafter watched for life.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [khelunulekha]

@@ -45,7 +45,6 @@ data:
       Praefar of the Strongroom: >-
         Holds the reserves and the strongroom at Magnápolis, which has never been breached in three centuries.
   seat: null
-  domains: []
   population: null
   economy:
     - affiliation-clgmrgntrrm

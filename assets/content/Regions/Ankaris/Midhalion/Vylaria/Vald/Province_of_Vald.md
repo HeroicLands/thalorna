@@ -61,7 +61,6 @@ data:
       Flamen: >-
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: mercavia
-  domains: [vald]
   population: 5000000
   economy:
     - affiliation-aerarimmpr

@@ -29,7 +29,6 @@ data:
           Head of a college, convened with the other colleges' heads in common assembly to set institutional policy, resolve disputes and maintain the Epistemium's standards.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

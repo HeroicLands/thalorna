@@ -62,7 +62,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: eshalshldg
-  domains: [alndntrblnds]
   population: 150000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

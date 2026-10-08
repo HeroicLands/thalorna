@@ -47,7 +47,6 @@ data:
       Doctrine of the Balanced Partnership: >-
         This cult supplies the theological basis for Khelâthi women's unusual legal standing—that creation requires the balanced partnership of masculine and feminine divine principles. Khelâthi women own property, initiate divorce, plead in the Genzet, practice medicine and magic, conduct business independently, and serve as priestesses including in high offices; several of the ablest rulers in Khelâthi history governed as Gar-Aû in their own right.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [uzneradty]

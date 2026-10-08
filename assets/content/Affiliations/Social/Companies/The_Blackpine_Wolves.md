@@ -25,7 +25,6 @@ data:
       Balthár: >-
         Held by Dágulf Véthar, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

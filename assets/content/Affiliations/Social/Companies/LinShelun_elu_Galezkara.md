@@ -29,7 +29,6 @@ data:
       Director: >-
         Directs a production on the company's stage.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

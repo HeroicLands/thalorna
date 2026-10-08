@@ -37,7 +37,6 @@ data:
       Grand Cartographer: >-
         Chair of the Council of Masters, presently Olára Mareniês, governing examination standards, commission disputes and the guild's relations with the League's civilian and military authorities.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

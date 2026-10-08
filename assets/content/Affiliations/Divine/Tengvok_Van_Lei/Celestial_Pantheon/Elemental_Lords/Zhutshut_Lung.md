@@ -72,7 +72,6 @@ data:
       Zhütshüt Lüng: >-
         Zhütshüt Lüng—The Lord of Water—the being this bureau or cultus is organized around.
   seat: null
-  domains: []
   population: null
   economy: [lore-tanvrcrncy]
   lore: [zhtshtlngdty]

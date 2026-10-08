@@ -39,7 +39,6 @@ data:
       Teacher of Scribes: >-
         Trains the scribes who staff the administration in the temple's schools.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [rethsaardty]

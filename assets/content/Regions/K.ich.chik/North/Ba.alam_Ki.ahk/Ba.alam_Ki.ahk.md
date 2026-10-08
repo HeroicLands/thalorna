@@ -67,7 +67,6 @@ data:
       Ballcourt Keeper: >-
         Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
   seat: balamkiahk2
-  domains: [balamkiahkrgn]
   population: null
   economy: []
   lore: [humanflk]

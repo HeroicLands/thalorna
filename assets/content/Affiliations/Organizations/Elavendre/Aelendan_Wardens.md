@@ -25,7 +25,6 @@ data:
     offices:
       Runner: Carrier of messages between territories, through whom coordination across tribal boundaries passes.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

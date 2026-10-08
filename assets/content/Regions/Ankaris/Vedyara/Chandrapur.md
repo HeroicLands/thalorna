@@ -64,7 +64,6 @@ data:
       Nau-senāpati: >-
         Commander of the fleet, who answers for the river mouth and the coast and lets the galleys out by the sailing season.
   seat: chandrapur2
-  domains: [chandrapurland, chandrapur2, chandrmukha, greatbazaar, moonhouse, ganakahall]
   population: 6000000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

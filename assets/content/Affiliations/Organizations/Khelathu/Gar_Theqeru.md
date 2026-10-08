@@ -25,7 +25,6 @@ data:
           Answers at law for the house and holds its patronage of physicians and remedies.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

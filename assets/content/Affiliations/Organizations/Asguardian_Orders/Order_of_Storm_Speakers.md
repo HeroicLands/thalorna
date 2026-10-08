@@ -43,7 +43,6 @@ data:
       Voice of the Hammer: >-
         The order's chair, chosen for life by conclave of the Storm-Captains; one position.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

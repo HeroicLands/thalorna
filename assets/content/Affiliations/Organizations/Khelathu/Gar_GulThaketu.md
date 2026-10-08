@@ -25,7 +25,6 @@ data:
           Answers at law for the house, and for every smith it vouches for.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

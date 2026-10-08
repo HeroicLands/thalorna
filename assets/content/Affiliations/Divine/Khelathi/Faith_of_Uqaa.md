@@ -55,7 +55,6 @@ data:
       Keeper of the Solstice Rites: >-
         The two climaxes of the year, when the whole capital turns out to watch the god born and the god die along his own road: the midsummer Festival of the Coming-Forth, when the dawn breaks straight down the eastern road, and the midwinter Festival of the Going-Down, when the sun sets straight down the corridor of the royal dead into the necropolis. The sightlines are kept clear by a law older than memory, and nothing may stand in that line.
   seat: yathtelgu
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [uqaadty]

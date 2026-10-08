@@ -44,7 +44,6 @@ data:
       Priest of the Chariot-Corps: >-
         Attached to the garrison heartland of Gar-Qeztu, where the chariot-corps drill-grounds and the officer schools are.
   seat: balehen
-  domains: []
   population: null
   economy: []
   lore: [qeztudty]

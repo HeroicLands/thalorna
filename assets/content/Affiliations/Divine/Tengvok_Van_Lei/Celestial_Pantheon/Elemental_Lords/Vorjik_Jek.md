@@ -72,7 +72,6 @@ data:
       Vōrjīk Jëk: >-
         Vōrjīk Jëk—The Lord of Fire—the being this bureau or cultus is organized around.
   seat: null
-  domains: []
   population: null
   economy: [lore-tanvrcrncy]
   lore: [vorjikjekdty]

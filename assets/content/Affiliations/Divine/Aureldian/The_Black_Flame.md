@@ -47,7 +47,6 @@ data:
       Ashlord: >-
         An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [vulcandty]

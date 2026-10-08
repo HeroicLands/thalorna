@@ -51,7 +51,6 @@ data:
       Bursar: Keeper of the tradition's endowment, its houses and its stipends.
       Envoy: The tradition's representative to a court or a rival school.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

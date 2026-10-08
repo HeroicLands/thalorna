@@ -61,7 +61,6 @@ data:
       Initiator: Conductor of the ordeal by which an aspirant becomes an initiate.
       Keeper of the Tally: Recorder of the offerings owed and made, without which the reckoning cannot be kept.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

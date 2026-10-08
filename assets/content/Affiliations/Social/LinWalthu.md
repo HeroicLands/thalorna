@@ -21,7 +21,6 @@ data:
           A traveling performer or itinerant who extends the fellowship's courtesy on the road.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

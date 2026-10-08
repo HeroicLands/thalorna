@@ -49,7 +49,6 @@ data:
       Storm-Reader: >-
         Sells predictions to maritime merchants—a specialism many Vestales settle into.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [taranondty]

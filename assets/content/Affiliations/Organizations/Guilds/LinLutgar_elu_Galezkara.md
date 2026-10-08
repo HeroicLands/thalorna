@@ -21,7 +21,6 @@ data:
           Keeps a house that takes in travelers for pay, and refuses to sell it to the merchant houses.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

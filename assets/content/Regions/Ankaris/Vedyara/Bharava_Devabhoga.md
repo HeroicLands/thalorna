@@ -63,7 +63,6 @@ data:
       Dūta: >-
         The envoy the mother-temples send jointly to a patron court, to the Mela and to the coastal houses that buy the timber.
   seat: null
-  domains: [bharavavana]
   population: 2400000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]

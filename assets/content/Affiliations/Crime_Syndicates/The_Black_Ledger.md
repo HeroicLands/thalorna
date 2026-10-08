@@ -65,7 +65,6 @@ data:
       Master of Lookouts: Runner of the network of eyes on which every operation depends.
       Courier: Carrier of what may not be written, between people who may not meet.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

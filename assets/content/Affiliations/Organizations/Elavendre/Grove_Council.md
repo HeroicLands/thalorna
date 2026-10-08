@@ -29,7 +29,6 @@ data:
           Holder of one of the nineteen seats, one to each recognized great grove. Chosen by the grove through long apprenticeship and confirmed by the Council gathered, with the grovekeepers below and the Áelendan Wardens patrolling on his writ.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

@@ -65,7 +65,6 @@ data:
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
       Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his own person.
   seat: magnapolis
-  domains: [vylariargn]
   population: 21000000
   economy:
     - affiliation-aerarimmpr

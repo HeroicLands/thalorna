@@ -25,7 +25,6 @@ data:
           The astrologer the company is gathered around, whose reading of the stars binds it.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

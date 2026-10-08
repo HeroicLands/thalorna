@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: kethara2
-  domains: [kethara2]
   population: 2200000
   economy: [affiliation-aerarimmpr, lore-hardncrncy]
   lore: [humanflk]

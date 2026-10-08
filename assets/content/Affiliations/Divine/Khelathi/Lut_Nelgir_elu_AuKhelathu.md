@@ -23,7 +23,6 @@ data:
       Steward of the Temple Estates: >-
         Runs a temple's landholdings from an estate-town, gathering the grain, labor and livestock of its tenant-villages into the temple's stores.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

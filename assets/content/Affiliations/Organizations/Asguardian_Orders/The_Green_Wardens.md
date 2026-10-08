@@ -34,7 +34,6 @@ data:
       Speaker of the Green: >-
         The order's chair, elected by the Chapter for a five-year term; one position, acting as administrative coordinator rather than as a commander.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

@@ -31,7 +31,6 @@ data:
       Disputes Committee: >-
         Arbiter of the quarrels between members that the parties would rather not carry into a ruler's court.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: []

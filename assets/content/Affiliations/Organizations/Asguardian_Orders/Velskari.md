@@ -32,7 +32,6 @@ data:
           Leads the order's defense of Vélgrímr's hidden temples and his followers.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

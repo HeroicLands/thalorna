@@ -32,7 +32,6 @@ data:
           Leads the order's fighters, the one body in Bjartr's service built for battle.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

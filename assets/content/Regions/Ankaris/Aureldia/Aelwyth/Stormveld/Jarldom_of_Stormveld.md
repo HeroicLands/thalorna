@@ -65,7 +65,6 @@ data:
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
   seat: stormveil
-  domains: [stormveld]
   population: 150000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

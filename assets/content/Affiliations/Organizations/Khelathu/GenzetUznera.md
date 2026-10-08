@@ -21,7 +21,6 @@ data:
           A senior priestess, or one of the few men raised high enough, seated in the council.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [uzneradty]

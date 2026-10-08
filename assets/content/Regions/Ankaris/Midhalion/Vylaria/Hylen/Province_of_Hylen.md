@@ -61,7 +61,6 @@ data:
       Flamen: >-
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: aravantia
-  domains: [hylen]
   population: 7000000
   economy:
     - affiliation-aerarimmpr

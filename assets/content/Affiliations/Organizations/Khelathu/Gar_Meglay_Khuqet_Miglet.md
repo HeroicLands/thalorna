@@ -29,7 +29,6 @@ data:
           Answers for the frontier command and the road it holds open.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

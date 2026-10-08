@@ -70,7 +70,6 @@ data:
       Ambassador: Envoy to a foreign power, instructed by the senate and reporting to it on return.
       Clerk of the Senate: Keeper of the senate's record, its decrees and its correspondence.
   seat: thornbury
-  domains: [tarvenne]
   population: 150000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

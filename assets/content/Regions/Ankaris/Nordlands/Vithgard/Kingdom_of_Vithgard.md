@@ -72,7 +72,6 @@ data:
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: thrunborg
-  domains: [vithgard]
   population: 300000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
   lore: [nordheimnclt]

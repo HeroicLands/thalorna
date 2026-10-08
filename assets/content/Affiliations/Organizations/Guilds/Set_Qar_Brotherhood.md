@@ -51,7 +51,6 @@ data:
       Warden of the Shrines: >-
         Keeps the village's own shrines, which it maintains apart from the great temples it works for.
   seat: zelqar
-  domains: []
   population: null
   economy: []
   lore: []

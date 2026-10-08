@@ -64,7 +64,6 @@ data:
       Ambassador: >-
         Envoy to a foreign court, invariably a mage, and invariably assumed to be more than an envoy.
   seat: ravenmoor
-  domains: [dunavarre]
   population: 75000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

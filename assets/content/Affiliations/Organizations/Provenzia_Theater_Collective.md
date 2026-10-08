@@ -47,7 +47,6 @@ data:
       Almoner: Administrator of the fellowship's relief to members in need.
       Master of Ceremonies: Keeper of the forms the fellowship's gatherings follow.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

@@ -37,7 +37,6 @@ data:
       The Silent Year: >-
         A year in total silence, broken only to speak the rites of passage for the dying.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [kalavratadty]

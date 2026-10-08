@@ -39,7 +39,6 @@ data:
       Curator of the Rolls: >-
         Curator Tabularum—the census, the citizen-rolls, the city's records and its correspondence with the throne; by custom the council's coordinating seat.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-aerarimmpr, affiliation-curiafscls]
   lore: []

@@ -37,7 +37,6 @@ data:
       The Contest of Open Questions: >-
         A public ordeal: the devotee answers any question put by any member of the community, from dawn to sunset.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [jnanasuradty]

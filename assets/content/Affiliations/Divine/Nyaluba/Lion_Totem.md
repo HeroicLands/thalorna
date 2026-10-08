@@ -48,7 +48,6 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made where the herds cross the guide's ground.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [lionmvuzispr, nyalbsprts]

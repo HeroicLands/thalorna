@@ -21,7 +21,6 @@ data:
           Seated in the court's hidden body, trading influence and favor out of the Gar-Aû's hearing.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

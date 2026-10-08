@@ -71,7 +71,6 @@ data:
       Watcher: >-
         Keeps the cell ahead of the Tz'umaq'ob who hunt it—routes, informers, and the point at which a village must be abandoned.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

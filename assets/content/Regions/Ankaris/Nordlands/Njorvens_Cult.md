@@ -21,7 +21,6 @@ data:
           Belongs to the cult that venerates Njörven.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

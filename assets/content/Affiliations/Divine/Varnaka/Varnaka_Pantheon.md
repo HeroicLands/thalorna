@@ -40,7 +40,6 @@ data:
       Āchārya: >-
         The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   seat: null
-  domains: [pssshrines, mahaprbhva, bhrvprbhav]
   population: null
   economy: []
   lore: []

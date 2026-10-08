@@ -21,7 +21,6 @@ data:
           Certified by the temple to handle its deeper texts, and party to the collective's decisions on access.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -58,7 +58,6 @@ data:
       Steward of the Temple Estates: >-
         Runs a temple's landholdings from an estate-town—gathering the grain, beer, livestock and labor of a ring of tenant-villages and rendering them to the temple's granaries and workshops. Multiplied across a selat, this is what makes the great temples economic powers rivaling the Halzi'a.
   seat: yathtelgu
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: []

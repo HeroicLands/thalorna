@@ -25,7 +25,6 @@ data:
           A priest of Reth'Sa'âr training the pupils in the schools.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [rethsaardty]

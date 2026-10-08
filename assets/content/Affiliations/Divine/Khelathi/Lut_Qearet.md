@@ -37,7 +37,6 @@ data:
       Overseer of the Provincial Temples: >-
         The nominal supervisory authority the Thâz'Lekhau of the great temple holds over the provincial temples of Qe'âret.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [qearetdty]

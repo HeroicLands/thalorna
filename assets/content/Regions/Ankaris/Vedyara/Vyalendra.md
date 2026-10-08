@@ -60,7 +60,6 @@ data:
       Commander of the Watch: >-
         Captain of the city watch, by long custom a graduate of the Dhanurkota academies and by as long a custom not a Vyālendri.
   seat: vyalendra3
-  domains: [vyalendraland, vyalendra3, nilatira]
   population: 6000000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

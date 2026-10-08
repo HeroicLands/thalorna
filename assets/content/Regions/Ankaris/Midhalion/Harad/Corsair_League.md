@@ -20,7 +20,6 @@ data:
           A ship captain, fleet owner or naval officer operating under the League's umbrella, granted preferential access to harbor facilities, customs exemptions and the right to carry weapons in Haradian ports.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

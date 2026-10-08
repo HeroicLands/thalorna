@@ -72,7 +72,6 @@ data:
       Keeper of the Craft Rolls: >-
         Holds the register of masons, plasterers, carvers and carpenters admitted to sacred work, and strikes from it.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [piqalkulqatdty]

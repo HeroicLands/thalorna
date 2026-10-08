@@ -29,7 +29,6 @@ data:
           Registered with the guild and paying its dues, with work certified as guild-standard.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

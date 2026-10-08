@@ -25,7 +25,6 @@ data:
       Keeper of Lut-Zethu: >-
         Holds the Imperial Library for the guild and grants or refuses a reader's permission.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

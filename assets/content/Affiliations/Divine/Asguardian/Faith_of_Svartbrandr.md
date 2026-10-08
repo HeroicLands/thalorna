@@ -50,7 +50,6 @@ data:
       Hofsgodi: >-
         Keeper of a named forge-hof and its Fire-Weeks, its stores and its blót.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [svartbrandrdty]

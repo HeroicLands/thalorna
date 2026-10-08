@@ -42,7 +42,6 @@ data:
       Witness of the Elevation: >-
         Conducts the guild's senior elevation in tandem with the temple of Linqur; neither rite counts without the other.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [linhurdty]

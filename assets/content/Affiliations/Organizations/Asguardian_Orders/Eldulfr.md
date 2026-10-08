@@ -32,7 +32,6 @@ data:
           Leads the order's warriors, proven by the ferocity the god's own ordeals are built to test.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

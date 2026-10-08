@@ -41,7 +41,6 @@ data:
       Adôn: >-
         One of the Adônîm al-Mudunîn ("Lords of the City-States")—the provincial deputies, one per major Haradian state, who administer the Sôd's operations in their cities and report to the Rab-Naqîr.
   seat: null
-  domains: []
   population: null
   economy:
     - affiliation-aerarimmpr

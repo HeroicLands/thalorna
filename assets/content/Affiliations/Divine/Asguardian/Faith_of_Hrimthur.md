@@ -29,7 +29,6 @@ data:
           A man of the rime's station, attached to a faction that keeps the giant's worship. Attached to one of the scattered factions tied to a hof and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [hrimthurspr]

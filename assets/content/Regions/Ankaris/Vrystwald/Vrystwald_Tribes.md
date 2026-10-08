@@ -63,7 +63,6 @@ data:
       Athalthúl: Sent by a village to treat with a settled power and protected by custom while carrying its word.
       Skathár: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
-  domains: [vrystwald]
   population: 500000
   economy: [affiliation-clgmrgntrrm, lore-bartercnmy, lore-kinhalcrdt, lore-vylrncrncy]
   lore: [varokhiclt]

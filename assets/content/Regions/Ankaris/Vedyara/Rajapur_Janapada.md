@@ -61,20 +61,6 @@ data:
       Senānī: >-
         Captain of the militia, raised from the villages at the sabhā's call and dismissed when the need ends.
   seat: rajapur
-  domains:
-    - rajapurjnpd
-    - rajapur
-    - khandapura
-    - mukteshvara
-    - gudagrama
-    - lipigrama
-    - setugrama
-    - uttaratira
-    - vrihisthali
-    - mashakshetra
-    - puranagrama
-    - nadipada
-    - pushpavana
   population: 25000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

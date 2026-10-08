@@ -52,7 +52,6 @@ data:
       Rune-caster: >-
         Reads the carved rune-staves to discern the currents of wyrd, a practice properly this clergy's own.
   seat: null
-  domains: [valsalhall]
   population: null
   economy: []
   lore: [odvardty]

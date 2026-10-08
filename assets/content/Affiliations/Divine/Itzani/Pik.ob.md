@@ -66,7 +66,6 @@ data:
       Warden of the Drifting: >-
         Watches those whose philosophy is moving from acceptance toward acceleration, and is the reason the order can still be trusted with the argument at all.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

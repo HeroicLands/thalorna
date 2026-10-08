@@ -49,7 +49,6 @@ data:
       House of Sleep: >-
         The temple-house in which petitioners sleep to receive their dreams.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [theriadty]

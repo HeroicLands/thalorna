@@ -32,7 +32,6 @@ data:
           Leads the order's work aboard ship, its standing counting for more than any rank but the captain's.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

@@ -72,7 +72,6 @@ data:
       Master of Ascent: >-
         Marshals the procession up the pyramid and the order of precedence upon its terraces, by which the whole city reads its own hierarchy.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [kinultqandty]

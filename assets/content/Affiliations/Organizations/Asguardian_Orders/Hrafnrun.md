@@ -32,7 +32,6 @@ data:
           Leads the order's rune-study and serves as Ódvar's senior seer and advisor where called.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

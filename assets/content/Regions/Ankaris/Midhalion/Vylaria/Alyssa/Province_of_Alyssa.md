@@ -61,7 +61,6 @@ data:
       Flamen: >-
         Priest of the provincial cult, presiding over the rites that bind the province to the capital.
   seat: alyssar
-  domains: [alyssa]
   population: 7000000
   economy:
     - affiliation-aerarimmpr

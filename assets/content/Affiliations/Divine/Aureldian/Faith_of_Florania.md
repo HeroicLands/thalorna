@@ -47,7 +47,6 @@ data:
       House of Healing: >-
         The infirmary the priesthood keeps, and the face the faith shows the sick.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [floraniadty]

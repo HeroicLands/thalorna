@@ -32,7 +32,6 @@ data:
           Mediates a dispute that turns on a sworn word, trusted by both sides for answering to neither.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

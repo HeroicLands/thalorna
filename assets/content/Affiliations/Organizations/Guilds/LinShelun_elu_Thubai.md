@@ -21,7 +21,6 @@ data:
           A musician, player or painter asked into the collective and funded by the temple.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [thubaidty]

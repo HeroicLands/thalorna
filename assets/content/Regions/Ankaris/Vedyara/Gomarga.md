@@ -65,7 +65,6 @@ data:
       Dūta: >-
         Envoy to a river court or a janapada sabhā, and in practice the kingdom's cattle-broker as well.
   seat: null
-  domains: [vandhyabhumi]
   population: 1200000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]

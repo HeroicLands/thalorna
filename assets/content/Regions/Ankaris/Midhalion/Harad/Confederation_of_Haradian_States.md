@@ -62,7 +62,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: tamavar2
-  domains: [midhalnrgn]
   population: 12000000
   economy: [affiliation-aerarimmpr, lore-hardncrncy]
   lore: [humanflk]

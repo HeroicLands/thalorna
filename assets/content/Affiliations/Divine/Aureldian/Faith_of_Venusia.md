@@ -47,7 +47,6 @@ data:
       Temple Companion: >-
         A practitioner of courtesanship consecrated to the goddess and understood as a sacred priestess in her own right—a formally recognized office of this faith.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [venusiadty]

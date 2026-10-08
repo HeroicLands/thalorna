@@ -67,7 +67,6 @@ data:
       Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes there.
       Clerk of the Council: Keeper of the Council's record, its charters and its correspondence.
   seat: calypsacity
-  domains: [aureldirgn]
   population: 45000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

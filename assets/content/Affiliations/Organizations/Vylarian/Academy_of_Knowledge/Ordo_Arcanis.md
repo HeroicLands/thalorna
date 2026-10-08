@@ -41,7 +41,6 @@ data:
           The single most powerful position in the arcane world, elected by the Praelati for life, presiding over the Concilium Magnum and speaking for the Ordo to foreign powers.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

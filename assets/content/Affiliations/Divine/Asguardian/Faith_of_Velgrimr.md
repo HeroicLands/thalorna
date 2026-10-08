@@ -50,7 +50,6 @@ data:
       Hofsgodi: >-
         Keeper of one of the hidden hofs tucked into Malagna's ports, its stores and its blót.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [velgrimrdty]

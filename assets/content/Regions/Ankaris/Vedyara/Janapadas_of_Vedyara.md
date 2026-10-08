@@ -57,7 +57,6 @@ data:
       Circuit-Speaker: >-
         The voice of one river-circuit's janapadas at the Mela, chosen by the circuit for the gathering and holding nothing between gatherings.
   seat: null
-  domains: [vedyarargn, sanghafort, naughatta, bharavamukha]
   population: 84250000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

@@ -32,7 +32,6 @@ data:
           Is reckoned among the most learned of Ódvar's faithful and keeps a temple's libraries and archives.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

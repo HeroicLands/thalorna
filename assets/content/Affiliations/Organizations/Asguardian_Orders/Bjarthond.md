@@ -32,7 +32,6 @@ data:
           Leads the order's medics and counselors in Bjartr's service.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

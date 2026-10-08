@@ -21,7 +21,6 @@ data:
           Gathers and trades what the circle's ledgers hold, and is named in none of them.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

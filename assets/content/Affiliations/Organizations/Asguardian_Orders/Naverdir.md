@@ -32,7 +32,6 @@ data:
           Leads the order's guard over Náhild's hidden hofs and acts as the cult's own inquisitor.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

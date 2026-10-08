@@ -37,7 +37,6 @@ data:
       High Speaker of the Collective: >-
         Elected by the kulinas from among themselves for a seven-year term, presiding over the Assembly of the Compact.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

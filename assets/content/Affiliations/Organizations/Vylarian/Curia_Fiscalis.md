@@ -39,7 +39,6 @@ data:
       Censor Maximus Fisci: >-
         Senior of the twenty Censores Fiscales, reporting to the Council and to the Praetar directly, and answerable for the discipline arm's case-rate against the Publicarii.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-aerarimmpr, affiliation-clgmrgntrrm, affiliation-magnumclgm]
   lore: []

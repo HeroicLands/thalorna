@@ -32,7 +32,6 @@ data:
           Leads the order's poison-fighters, relied on to finish what a blade alone would leave unsettled.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

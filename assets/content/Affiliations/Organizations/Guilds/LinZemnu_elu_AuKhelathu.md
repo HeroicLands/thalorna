@@ -21,7 +21,6 @@ data:
           Practices a craft that has no guild of its own, and holds the guild's good standing.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

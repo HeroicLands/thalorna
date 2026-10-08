@@ -54,7 +54,6 @@ data:
       Chamber-Warden: >-
         The Nidrāpāla on watch over a sleeping petitioner, answerable for what happens while they sleep.
   seat: null
-  domains: [svapnastambha]
   population: null
   economy: []
   lore: [svapnadevasdty]

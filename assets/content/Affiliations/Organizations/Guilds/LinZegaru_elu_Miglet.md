@@ -21,7 +21,6 @@ data:
           A farming household whose harvest goes into the cooperative's pooled shipments.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

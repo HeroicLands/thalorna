@@ -32,7 +32,6 @@ data:
           Leads the order's secret work, answering only to a hidden hof's own godi.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

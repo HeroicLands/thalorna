@@ -21,7 +21,6 @@ data:
           A member of the militant order of the Faith of Árdavon, serving its principles of order and justice.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

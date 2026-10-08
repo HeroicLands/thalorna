@@ -65,24 +65,6 @@ data:
       The Twenty-Eight: >-
         The heads of the twenty-eight hereditary panning-families, who meet quarterly, settle disputes among themselves and speak with one voice on the panning regime.
   seat: suvarnagiri
-  domains:
-    - suvarnagirijnpd
-    - suvarnagiri
-    - hiranyadhara
-    - tamravana
-    - vandhyadhara
-    - kanakasetu
-    - nilakshetra
-    - madhuvana
-    - shilamukha
-    - dhanyagrama
-    - vrishatira
-    - sarasapada
-    - jalaghatta
-    - ratnakupa
-    - girimarga
-    - haritagrama
-    - vanapada
   population: 35000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

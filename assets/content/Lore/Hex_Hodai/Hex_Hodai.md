@@ -21,7 +21,6 @@ data:
           Reckons the arcane by the six Eídmata and holds that reckoning as the structure of magic itself. Every mage of the Ordo stands here, whatever Eídma admits them, and a scholar may hold the framework without ever being admitted to one.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

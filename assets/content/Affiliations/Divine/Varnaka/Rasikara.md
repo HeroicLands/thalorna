@@ -37,7 +37,6 @@ data:
       The Firebrand's Year: >-
         A year of itinerant service carrying a lit torch from settlement to settlement, kindling purgation-fires wherever asked.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [rasikaradty]

@@ -21,7 +21,6 @@ data:
           A senior or retired commander whose counsel the officers he trained still seek.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

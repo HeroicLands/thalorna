@@ -26,7 +26,6 @@ data:
           Of the royal house and the most exalted families, the highest hereditary rank below the throne. The council's de facto mediators come from among them, and wield enormous informal power.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

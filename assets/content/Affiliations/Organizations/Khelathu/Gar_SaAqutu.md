@@ -25,7 +25,6 @@ data:
           Holds the land and answers at law for the house, and sets the course of its placements.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]
