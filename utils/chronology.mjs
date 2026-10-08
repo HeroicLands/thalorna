@@ -39,6 +39,17 @@
  *    under `names` give it the same `when`.
  * 6. **`follows-in-order`** — an event that `follows` another note's event is
  *    not dated before the earliest event of that note.
+ * 7. **`qet-telgu-pair`** — a year of the Qet Telgu written beside a western
+ *    year in prose (`1006 ST (1105 BF)`, `2378 ST, 268 AF`) converts to it: an AF
+ *    year is the count less 2,110, and a BF year is 2,111 less the count, because
+ *    the western reckoning has no year zero.
+ * 8. **`throne-numeral`** — the king-list numbers a throne name across its whole
+ *    length, so each throne name's numerals rise with the crowning year, a bare
+ *    name counting as I. The list is read from the Gar-Aûu note's tables: a Near
+ *    Count row gives its crowning year, and a Middle Count abstract row gives its
+ *    stretch, with a name's own `crowned N` where it states one.
+ * 9. **`throne-listed`** — a throne name written with a numeral anywhere in the
+ *    content tree is a reign the king-list holds.
  *
  * Findings are written `file:line:column: severity: message`, the path first on
  * the line and relative to the working directory, with a field dropped rather
@@ -59,6 +70,32 @@ export const CONTENT = "assets/content";
 
 /** The `depth` values an event may carry. */
 export const DEPTHS = Object.freeze(["world", "region"]);
+
+/** The note that holds the Khelâthi king-list. */
+export const KING_LIST = "garauu";
+
+/**
+ * A Khelâthi throne name: a name element, the seam, and a god's house-form, with
+ * an optional numeral after it.
+ */
+const THRONE =
+    /(?<![\p{L}'])([A-Z][a-zâêîôû]+'(?:el')?(?:Uqa|Qar|Retha|Psaqa|Uzner))(?![\p{L}'])(?:\s+([IVXL]+)\b)?/gu;
+
+/** A Qet Telgu year beside a western one, in either order, within a clause. */
+const PAIR =
+    /\b(\d{1,2},?\d{3}|\d{1,3}) ST\b[^.;\n]{0,40}?\b(\d{1,4}) (AF|BF)\b|\b(\d{1,4}) (AF|BF)\b[^.;\n]{0,40}?\b(\d{1,2},?\d{3}|\d{1,3}) ST\b/gu;
+
+/** A Roman numeral's value. */
+export function roman(text) {
+    const value = { I: 1, V: 5, X: 10, L: 50 };
+    let total = 0;
+    for (let i = 0; i < text.length; i += 1) {
+        const here = value[text[i]];
+        const next = value[text[i + 1]] ?? 0;
+        total += here < next ? -here : here;
+    }
+    return total;
+}
 
 /** The content package the tree belongs to. */
 const PACKAGE = "thalorna";
@@ -131,15 +168,134 @@ export function readTree(content = CONTENT) {
     const history = [];
     const calendars = [];
     const world = [];
+    const prose = [];
     for (const file of markdownFiles(content)) {
         const note = readNote(file);
         if (!note) continue;
         const entry = { file, address: `${note.fm.type}-${note.fm.shortcode}`, ...note };
+        prose.push(entry);
         if (note.fm.type === "lore" && Array.isArray(note.fm.data?.events)) history.push(entry);
         if (note.fm.type === "lore" && note.fm.subType === "calendar") calendars.push(entry);
         if (note.fm.type === "place" && note.fm.data?.year?.days) world.push(entry);
     }
-    return { history, calendars, world };
+    return { history, calendars, world, prose };
+}
+
+/** The 1-based line and column of an offset in a text. */
+function position(text, offset) {
+    const before = text.slice(0, offset).split("\n");
+    return { line: before.length, column: before.at(-1).length + 1 };
+}
+
+/**
+ * Every reign the king-list's tables hold, in the order of the count.
+ *
+ * @param {string} raw - The Gar-Aûu note.
+ * @returns {{name: string, numeral: number, written: string, year: number, offset: number}[]}
+ */
+export function kingList(raw) {
+    const reigns = [];
+    let offset = 0;
+    for (const line of raw.split("\n")) {
+        const here = offset;
+        offset += line.length + 1;
+        if (!line.trim().startsWith("|")) continue;
+        const cells = line.split("|").slice(1, -1);
+        const stretch = cells[0]?.trim().match(/^(\d+)\s*[–-]\s*\d+$/u);
+        const crowned = cells.map((cell) => cell.trim()).find((cell) => /^\d{3,4}$/u.test(cell));
+        if (!stretch && !crowned) continue;
+        let order = 0;
+        for (const match of line.matchAll(THRONE)) {
+            const after = line.slice(
+                match.index + match[0].length,
+                match.index + match[0].length + 40,
+            );
+            const own = after.match(/^\**\s*\(crowned (\d+)/u);
+            const year =
+                own ? Number(own[1])
+                : stretch ? Number(stretch[1]) + order / 1000
+                : Number(crowned);
+            order += 1;
+            reigns.push({
+                name: match[1],
+                numeral: match[2] ? roman(match[2]) : 1,
+                written: match[0],
+                year,
+                offset: here + match.index,
+            });
+        }
+    }
+    return reigns.sort((a, b) => a.year - b.year);
+}
+
+/**
+ * The Khelâthi findings: Qet Telgu pairs in prose, and the king-list's numerals.
+ *
+ * @param {object[]} prose - Every note, from {@link readTree}.
+ * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @returns {string[]} Findings.
+ */
+export function checkKhelathi(prose, relative) {
+    const findings = [];
+    for (const note of prose) {
+        for (const match of note.raw.matchAll(PAIR)) {
+            const count = Number((match[1] ?? match[6]).replace(",", ""));
+            const year = Number(match[2] ?? match[4]);
+            const side = match[3] ?? match[5];
+            const expected = side === "AF" ? count - 2110 : 2111 - count;
+            if (expected === year && expected > 0) continue;
+            const { line, column } = position(note.raw, match.index);
+            const right = count > 2110 ? `${count - 2110} AF` : `${2111 - count} BF`;
+            findings.push(
+                finding(
+                    relative(note.file),
+                    line,
+                    column,
+                    "error",
+                    `qet-telgu-pair: ${count} ST is ${right}, not ${year} ${side}`,
+                ),
+            );
+        }
+    }
+
+    const list = prose.find((note) => note.fm?.shortcode === KING_LIST);
+    if (!list) return findings;
+    const reigns = kingList(list.raw);
+    const last = new Map();
+    for (const reign of reigns) {
+        const prior = last.get(reign.name);
+        if (prior && reign.numeral <= prior.numeral) {
+            const { line, column } = position(list.raw, reign.offset);
+            findings.push(
+                finding(
+                    relative(list.file),
+                    line,
+                    column,
+                    "error",
+                    `throne-numeral: ${reign.written} is crowned in ${Math.floor(reign.year)} ST, after ${prior.written} in ${Math.floor(prior.year)} ST, so its numeral must be higher`,
+                ),
+            );
+        }
+        last.set(reign.name, reign);
+    }
+
+    const held = new Set(reigns.map((reign) => `${reign.name} ${reign.numeral}`));
+    for (const note of prose) {
+        for (const match of note.raw.matchAll(THRONE)) {
+            if (!match[2] || held.has(`${match[1]} ${roman(match[2])}`)) continue;
+            const { line, column } = position(note.raw, match.index);
+            findings.push(
+                finding(
+                    relative(note.file),
+                    line,
+                    column,
+                    "error",
+                    `throne-listed: ${match[0]} is no reign the king-list in ${relative(list.file)} holds`,
+                ),
+            );
+        }
+    }
+    return findings;
 }
 
 /** The axis year of an authored date, through package-build's parser. */
@@ -156,7 +312,7 @@ function axisYear(value, context) {
  * @param {{history: object[], calendars: object[], world?: object[]}} tree - From {@link readTree}.
  * @returns {string[]} Findings, one per line.
  */
-export function check({ history, calendars, world = [] }) {
+export function check({ history, calendars, world = [], prose = [] }) {
     const findings = [];
     const context = reckoningContext({
         notes: [...calendars, ...world].map(({ fm, file, raw }) => ({ fm, file, raw })),
@@ -274,6 +430,7 @@ export function check({ history, calendars, world = [] }) {
             }
         }
     }
+    findings.push(...checkKhelathi(prose, relative));
     return findings;
 }
 

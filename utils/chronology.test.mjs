@@ -10,7 +10,7 @@
 
 import assert from "node:assert/strict";
 import test from "node:test";
-import { check, readTree, yearOf } from "./chronology.mjs";
+import { check, checkKhelathi, kingList, readTree, roman, yearOf } from "./chronology.mjs";
 
 const WORLD = { file: "World.md", fm: { type: "place", data: { year: { days: 365 } } } };
 
@@ -123,4 +123,89 @@ test("follows-in-order", () => {
         note("effect", [{ when: 310, follows: [{ event: "lore-cause", how: "caused" }] }]),
     );
     assert.match(found, /follows-in-order/u);
+});
+
+/** A note whose whole text is the given prose. */
+function prose(raw, shortcode = "page") {
+    return { file: `${shortcode}.md`, fm: { shortcode }, raw };
+}
+
+/** A king-list note with a Middle Count stretch and a Near Count table. */
+const LIST = prose(
+    [
+        "| Count (ST) | Houses | Reigns | What the list holds |",
+        "| --- | --: | --: | --- |",
+        "| 1–620 | 1 | 2 | **Amqel'Uqa** (150), **Zab'Uzner** (90) |",
+        "| 1006–1390 | 9 | 41 | **Zu'Amqeletu**: **Anlagh'el'Qar I** (crowned 1006) |",
+        "",
+        "| House | Throne name | Crowned (ST) | Years | AF | The list enters |",
+        "| --- | --- | --: | --: | --: | --- |",
+        "| Zu'Letetu | **Zab'Uzner II** | 2470 | 10 | 360 | went to the West |",
+    ].join("\n"),
+    "garauu",
+);
+
+const same = (file) => file;
+
+test("a Roman numeral reads as its value", () => {
+    assert.equal(roman("III"), 3);
+    assert.equal(roman("XIV"), 14);
+    assert.equal(roman("XL"), 40);
+});
+
+test("the king-list is read in the order of the count", () => {
+    assert.deepEqual(
+        kingList(LIST.raw).map((reign) => [reign.name, reign.numeral, Math.floor(reign.year)]),
+        [
+            ["Amqel'Uqa", 1, 1],
+            ["Zab'Uzner", 1, 1],
+            ["Anlagh'el'Qar", 1, 1006],
+            ["Zab'Uzner", 2, 2470],
+        ],
+    );
+});
+
+test("qet-telgu-pair: a pair that converts passes", () => {
+    assert.deepEqual(
+        checkKhelathi(
+            [LIST, prose("In 1006 ST (1105 BF) and 2378 ST, 268 AF, and 2,830 ST, or 720 AF.")],
+            same,
+        ),
+        [],
+    );
+});
+
+test("qet-telgu-pair: a BF year counted with a year zero is one year off", () => {
+    const [found] = checkKhelathi([LIST, prose("The crossing, 1006 ST (1104 BF).")], same);
+    assert.match(
+        found,
+        /^page\.md:1:\d+: error: qet-telgu-pair: 1006 ST is 1105 BF, not 1104 BF$/u,
+    );
+});
+
+test("qet-telgu-pair: the western year may come first", () => {
+    const [found] = checkKhelathi([LIST, prose("In 269 AF, which is 2378 ST.")], same);
+    assert.match(found, /qet-telgu-pair: 2378 ST is 268 AF, not 269 AF/u);
+});
+
+test("throne-numeral: a numeral that does not rise with the count", () => {
+    const bad = prose(
+        LIST.raw.replace("**Anlagh'el'Qar I** (crowned 1006)", "**Zab'Uzner II** (crowned 1006)"),
+        "garauu",
+    );
+    const found = checkKhelathi([bad], same);
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /throne-numeral: Zab'Uzner II is crowned in 2470 ST, after Zab'Uzner II in 1006 ST/u,
+    );
+});
+
+test("throne-listed: a numbered throne name the list does not hold", () => {
+    const found = checkKhelathi(
+        [LIST, prose("Anlagh'el'Qar I and Anlagh'el'Qar II reigned.")],
+        same,
+    );
+    assert.equal(found.length, 1);
+    assert.match(found[0], /^page\.md:1:\d+: error: throne-listed: Anlagh'el'Qar II is no reign/u);
 });
