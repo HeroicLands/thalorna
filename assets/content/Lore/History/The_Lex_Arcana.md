@@ -11,7 +11,7 @@ data:
     - when: -73
       kind: charter
       depth: world
-      sources: [decided-midhalion, affiliation-ordoarcanis]
+      sources: [affiliation-ordoarcanis]
       summary: >-
         The surviving masters—a few score, Helionite and Vylarian together—draft their own terms and the Senate takes them, because there is nobody else to ask. The Ordo Arcanis accepts the monopoly and its enforcement, registration of every talent, and war service on demand; in exchange it holds its own property, elects its own head, tries its own members in its own court, and answers to the state as a body and never as men. The Quaesitorium is constituted in the same instrument and a clause earlier, its first commission to establish what happened at Alyssa. The six Sodalitates begin as six sealed workshops rebuilding the burned corpus, one to each current, sealed from each other on the Quaesitorium's order.
       standing: attested

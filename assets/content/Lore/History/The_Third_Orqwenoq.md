@@ -47,13 +47,7 @@ data:
       summary: >-
         In the week of the autumn market the union's orqwen rides south down the spur to Qìmod, where the gate stands open for the fair and Tellumi, Vedyari, Byzarian, Tānvüri and Sowides traders are gathered. By nightfall everyone in the walls is dead. The host rides on at dawn with the stock and leaves the people where they lie, and the town becomes a thin blood-field of the silence.
       standing: reconstructed
-      where:
-        locus: [place-qimod]
-        reach:
-          - place: place-shrzrtrb
-            how: >-
-              the Shirzâri hold the well and sell its water from outside the gate
-            knowledge: named
+      where: {locus: [place-qimod]}
       accounts:
         - by: place-khzryndsrtrgn
           says: >-

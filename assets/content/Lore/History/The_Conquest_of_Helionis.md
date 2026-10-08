@@ -13,8 +13,6 @@ data:
       kind: conquest
       depth: world
       sources:
-        - decided-midhalion
-        - decided-chronology
         - place-helionis
         - affiliation-ctysttshlns
         - affiliation-vylarinmpr
