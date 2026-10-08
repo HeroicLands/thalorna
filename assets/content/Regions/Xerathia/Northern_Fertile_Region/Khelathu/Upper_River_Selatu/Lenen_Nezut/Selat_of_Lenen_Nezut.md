@@ -85,7 +85,7 @@ The **Selat of Lenen-Nezut** is one of the eighteen [[affiliation-upperrivrslt|U
 
 ## Character
 
-The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The seat is [[place-lenennezut|Lenen-Nezut]], where the Halzi'a keeps his court and the chief temple of Uqa'â stands.
+The authority of the Halzi'a here has an older pedigree than his office. The dynasty that ruled from Lenen-Nezut is gone, and the pride of having been the center stays with the Halzi'a, the temple and the town. The Halzi'a's house is **Geze'el'Anlaghu**, descended from the Lenen-Nezut Gar-Aûu ([[lore-thronelnz|the Throne at Lenen-Nezut]]), and it keeps their tombs, [[place-lnzways|the Lenen-Nezut Ways]], and the claim of royal blood that sits awkwardly beside the question of the next succession. The seat is [[place-lenennezut|Lenen-Nezut]], where the Halzi'a keeps his court and the chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
@@ -93,6 +93,8 @@ Lenen-Nezut uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[aff
 
 ## See Also
 
+- [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty behind the house
+- [[place-zelhalzi|Zel-Halzi]]—the unmeasured field below the town
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
 - [[place-lenennezut|Lenen-Nezut]]—Selat capital

@@ -23,8 +23,11 @@ Iqeru is the capital of the [[affiliation-selatiqeru|Selat of Iqeru]] and the se
 
 Uqa'â's demand on a life is a hard one, clarity, purpose and righteous intensity, and his cult holds the throne itself, because the [[lore-garauu|Gar-Aû]] is understood as his earthly manifestation. The **Great Temple of Uqa'â** stands on [[place-yathtelgu|Yath-Telgu]] at the capital; Iqeru keeps the selat's own chief temple.
 
+The wheat outside the town is the **Field at Iqeru**, where the war between Lenen-Nezut and Galezkara ended in 1531 ST (580 BF) with the death of the Gar-Aû Zab'el'Psaqa III ([[lore-twothrones|the War of the Two Thrones]]). It is an ordinary battlefield: the dead were carried home to their tombs and rites, and the field is farmed like any other.
+
 ## See Also
 
+- [[lore-twothrones|The War of the Two Thrones]]—the battle fought in the town's wheat
 - [[affiliation-selatiqeru|The Selat of Iqeru]]—parent selat
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview

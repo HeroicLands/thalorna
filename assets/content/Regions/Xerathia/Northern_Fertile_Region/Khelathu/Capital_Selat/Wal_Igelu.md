@@ -16,7 +16,7 @@ data:
 
 "You are walking in the river's old bed," a steward of one of the noble houses tells a guest on the garden path. "Mind the lotus pools."
 
-**Wal-Igelu**, the **Drowned Way**, is an old channel of the river, silted up and long dead, that runs through the **High City** of [[place-zuleri|Zu-Leri]]. The noble houses have made it into a chain of pleasure gardens and lotus pools, so that a vanished arm of the river has become the capital's most prized and exclusive walk. The name records what the channel was: a way the water once took.
+**Wal-Igelu**, the **Drowned Way**, is an old channel of the river, silted up and long dead, that runs through the **High City** of [[place-zuleri|Zu-Leri]]. The noble houses have made it into a chain of pleasure gardens and lotus pools, so that a vanished arm of the river has become the capital's most prized and exclusive walk. The name records what the channel was: a way the water once took. The arm silted up and died in the age of [[lore-akhsunroad|the Sun's Road]].
 
 ## See Also
 

@@ -102,7 +102,7 @@ The roster stands at eight:
 
 The company works about eighty miles of the Zumélesh, from the **Shattered Delta** in the north to the **Twin Rock** narrows in the south. The river is sacred ground, belonging to the Halzi'a in law and to Igel'Nâru in spirit, and sacred stones and boundary shrines mark it. Unauthorized hunting or fishing inside them is punishable by death, a law the Zeghet'Nelgu enforces with the seriousness it brings to the hunt. Two camps serve as bases, the Summer Lodge at the Shattered Delta and the **Winter Fort** at Twin Rock, and the party moves between them following the hippopotami, the crocodiles and the great river cats.
 
-The southern marshes, where the current crisis centers, are a labyrinth of reed beds, mud islands and channels that shift with every flood. Even the Khetai do not know them perfectly. The marsh-dwelling fishermen tell of more than hippopotami and crocodiles out there: half-submerged ruins in the muck, stone markers in scripts older than the current dynasty, and lights that move beneath the water at night.
+The southern marshes, where the current crisis centers, are a labyrinth of reed beds, mud islands and channels that shift with every flood. Even the Khetai do not know them perfectly. The marsh-dwelling fishermen tell of more than hippopotami and crocodiles out there: half-submerged ruins in the muck, stone markers in scripts older than the current dynasty, and lights that move beneath the water at night. The ruins are [[place-drownstones|the Drowned Stones]], and the Khelâthi do not date what the stones record.
 
 ## Methods
 
@@ -147,6 +147,7 @@ The company serves a game master in several ways:
 ## See Also
 
 - [[place-zumeleshrvr|The Zumélesh]]—the river whose southern reach the company holds
+- [[place-drownstones|The Drowned Stones]]—the carved walls beneath the southern marsh
 - [[affiliation-igelnaru|Faith of Igel'Nâru]]—the river god the hunt appeases
 - [[affiliation-tjelsuk|Faith of Tjelsur]]—the crocodile cult, aligned with the hunt
 - [[affiliation-garnuw|Gar'Nuw]]—the guild that licenses the river's professional cullers

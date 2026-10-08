@@ -97,3 +97,4 @@ Zu-Ger uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliat
 - [[affiliation-hezmuiri|Faith of Hezmuîri]]—Patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-zugernome|Zu-Ger]]—The land the selat holds
+- [[place-firsttablets|The Ground of the First Tablets]]—The burial-ground of the first two houses

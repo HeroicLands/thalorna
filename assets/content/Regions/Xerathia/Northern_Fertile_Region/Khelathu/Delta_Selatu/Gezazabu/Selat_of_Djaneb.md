@@ -3,7 +3,7 @@ shortcode: selatgezazab
 name: {full: The Selat of Gezazabu, aliases: []}
 type: affiliation
 subType: polity
-description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethûa—one of the delta selatu of Aû'Khelâthu."
+description: "Western delta port; salt-fish, curing-houses, and the trade road to Bethûa—one of the delta selatu of Aû'Khelâthu."
 data:
   banner: khelathubnr
   templatePriority: null
@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"Hold it to the light," says a [[affiliation-garhalzi|Gár-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. [[place-gezazabu|Gezazabu]] sells salt-fish, and the whole selat smells of it." The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], an eastern delta port of salt-fish and curing-houses, with the trade road to **Bethûa**. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
+"Hold it to the light," says a [[affiliation-garhalzi|Gár-Hálzi]] assayer, turning a weight-piece between finger and thumb for a newly arrived carter. "Every selat on this coast tells you what it is by what it sells. [[place-gezazabu|Gezazabu]] sells salt-fish, and the whole selat smells of it." The selat is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], an western delta port of salt-fish and curing-houses, with the trade road to **Bethûa**. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Aû]] at a distance that varies with the strength of the throne. The patron is [[affiliation-thubai|Thubâ'i]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-gezazabuselt|Gezazabu Selat]].
 
 ## Character
 

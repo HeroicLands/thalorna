@@ -22,9 +22,9 @@ data:
     - {name: Shelu IV, days: 30}
     - {name: The Five Intercalary Days, days: 5}
   seasons:
-    - {name: Azlet, abbreviation: Akh, start: 1}
-    - {name: Gelet, abbreviation: Per, start: 121}
-    - {name: Shelu, abbreviation: She, start: 241}
+    - {name: Azlet, abbreviation: Azl, start: 1}
+    - {name: Gelet, abbreviation: Gel, start: 121}
+    - {name: Shelu, abbreviation: Shl, start: 241}
   eras:
     - {shortcode: bst, name: Before the Qet Telgu, abbreviation: BST, start: null}
     - {shortcode: septepy, name: The Qet Telgu, abbreviation: ST, start: 1}
@@ -48,8 +48,45 @@ Three counts run side by side in [[affiliation-empireakhlth|Aû'Khelâthu]], and
 
 [[lore-sheluessn|Shelu]], the Harvest, closes the twelve months. Crops come in before the next flood, and the five days that follow belong to no month at all: the year's own reckoning is finished before the new one begins.
 
+## The Ages of the Count
+
+The Qet Telgu runs on unbroken from its first year, and a Khelâthi date gives the year of the count and nothing else: the judgment of the struck king is 2378 ST, and the present is 2830 ST. The Keepers of the King-Lists and the temple teachers still divide the count into ages, the way a reader divides a long scroll into its columns, and every schoolroom in the valley learns them in order. An age takes its name from what the throne did in it, and it opens and closes on an event the king-list enters.
+
+| Age                                         | Its years (ST)            | Vylarian reckoning |
+| ------------------------------------------- | ------------------------- | ------------------ |
+| Before the Occasion                         | written BST, counted back | before 2110 BF     |
+| [[lore-akhfirsttab\|The First Tablets]]     | 1 to 1006                 | 2110 to 1105 BF    |
+| [[lore-akhsunroad\|The Sun's Road]]         | 1006 to 1390              | 1105 to 721 BF     |
+| [[lore-akhdivriver\|The Divided River]]     | 1390 to 1671              | 721 to 440 BF      |
+| [[lore-akhrestcrown\|The Restored Crown]]   | 1671 to 1990              | 440 to 121 BF      |
+| [[lore-akhcountmon\|The Count of Months]]   | 1990 to 2281              | 121 BF to 171 AF   |
+| [[lore-akhstruckhs\|The Struck House]]      | 2281 to 2378              | 171 to 268 AF      |
+| [[lore-akhpriestthr\|The Priests' Thrones]] | 2378 to 2580              | 268 to 470 AF      |
+| [[lore-akhhsmeqes\|The House of Meqes]]     | 2580 to the present, 2830 | 470 to 720 AF      |
+
+An age shares its last year with the first year of the next, because the event that closes one opens the other, as a reign shares its last year with its successor's first. To carry a year of the count to the [[lore-commoncal|Vylarian Calendar]], subtract 2,110 for a year after the Founding and subtract the count from 2,111 for a year before it, since the western reckoning has no year zero.
+
+**Before the Occasion.** The temple will not date it, and says so plainly: what cannot be counted is not history. The [[lore-firstoccasion|First Occasion]] calls it chaos, the dark and the serpent and the water without a bank. What the valley shows of it nonetheless is a country of several polities ("the valley was many"), farming and water-works whose first teachers no human record remembers, and carved stones in a script older than Khelâthi reading: the [[place-anlaghura|Anlaghura]] monolith, and [[place-drownstones|the Drowned Stones]] under the southern marsh.
+
+**The First Tablets** (1 to 1006 ST) hold eleven Gar-Aûu in two houses, with reigns of a length no man lives and nothing entered but a name, a length and _his deeds are the god's_. The sacred hand is fixed under the fifth of them, and the first two houses are buried upriver, in the Great Land of Zu-Ger, at [[place-firsttablets|the Ground of the First Tablets]]. The age closes when the second house ends and the court crosses to Galezkara.
+
+**The Sun's Road** (1006 to 1390 ST) opens with [[lore-crossmound|the Crossing to the Mound]]. Nine houses rule from Galezkara, the ceremonial axis and its sightline law are laid down, and the royal necropolis of Zu-Gezer opens across the river. The age closes without a catastrophe, as houses rise upriver and the throne begins to move.
+
+**The Divided River** (1390 to 1671 ST) is the age of two banks. An upriver house rules from Lenen-Nezut, a Galezkara house destroys it in the War of the Two Thrones, and the hill-nomads of the western margins come down on a valley still weak from that war and take the throne at Zel-Halzi, the first blood-field in Khelâthi memory. Their house closes in 1671, its kin settled on the western horse-pastures.
+
+**The Restored Crown** (1671 to 1990 ST) is the longest stretch of unity before the Near Count. A house of the sun builds Magu-Athen and rules from it for a generation, the same generation's venture to make the Okháric temple-cities tributary collapses, and sea-raiders take the throne in 1960 and hold it for thirty years.
+
+**The Count of Months** (1990 to 2281 ST) is the clerks' age: the king-list begins to give months, the people's hand is cut from the sacred one, and the delta's weigh-house rule and its homebound navy date from its opening.
+
+**The Struck House** (2281 to 2378 ST) is a century of six reigns, ending with the False Uqa'â: the floods fail, the granaries are held shut, and the rising and the judgment of 2378 strike his house from every wall.
+
+**The Priests' Thrones** (2378 to 2580 ST) are two centuries of priest-raised houses, children crowned and regents crowned after them. The Storm of the Hundred Banners reaches the eastern road in 2425, and a Vylarian army takes the throne in 2487.
+
+**The House of Meqes** (2580 ST to the present) opens when a regent is crowned in his ward's second year. Every Gar-Aû since has been crowned Meqes, and the sixteenth reigns now.
+
 ## See Also
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the people whose calendar this is, and its regnal and Qet Telgu dating
+- [[lore-garauu|Gar-Aûu]]—the king-list the ages are read from
 - [[place-worldthlrn|The World of Thalorna]]—the 365-day year the months and the five days together fill
 - [[place-vaelith|Vaelith]]—the moon, whose thirty-day cycle leaves the same five days over

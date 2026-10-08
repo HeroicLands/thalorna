@@ -20,6 +20,8 @@ Every cargo that reaches [[affiliation-empireakhlth|Aû'Khelâthu]] by water cro
 
 "Weigh first and argue afterward," a weigh-house clerk tells a [[lore-haradianclt|Haradian]] shipmaster who is still shaking the tide out of his boots. "Nobody's cargo has ever been worth what he swore it was until the beam said so. After the beam it has a weight and a duty on it, and that is the only form in which it may go up the river." A merchant's fortune is made or broken at that scale, before the goods reach any market that will pay a fair price for them.
 
+The rule dates from the reign of Gez'Uzner I, the first Gar-Aû after the sea-raiders' throne ([[lore-seahouse|the Closing of the Sea House]]).
+
 ## Character
 
 The **Delta Quays** are flat, brackish and cut by tidal channels where the river's fresh water gives way to the sea twice a day, so the harbors are built to ride a mudflat as much as a shoreline. Hulls lean on the silt at low water, and cargo comes ashore on whichever tide serves.

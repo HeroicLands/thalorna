@@ -19,7 +19,7 @@ data:
 
 "Count the barges on the grain quay and then count the mouths," a granary clerk tells a new tally-boy at the [[place-galezkara|Galezkara]] docks. "There are two and a half million of them in this selat, and the barges have to keep up."
 
-**Galezkara Selat** is the land of the [[affiliation-capitalselat|Capital Selat]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelâthi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the dynasties of three thousand years lie buried. With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Xerathia]].
+**Galezkara Selat** is the land of the [[affiliation-capitalselat|Capital Selat]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It holds the palace and the throne, the central bureaucracy, the greatest temples of the [[affiliation-khelathpnthn|Khelâthi Pantheon]], the [[affiliation-genzetpalu|Genzet'Palu]] council, and, across the river on the western bank, the royal necropolis where the houses that have ruled from Galezkara since the Crossing lie buried ([[lore-crossmound|the Crossing to the Mound]], 1006 ST, 1105 BF). With some two and a half million people it is the most populous selat in the empire, and the densest concentration of power, wealth and people in [[place-xerathia|Xerathia]].
 
 ## Character
 
@@ -35,7 +35,7 @@ The great temple-complexes are economic enterprises in their own right, owning f
 
 - The imperial palace and the throne of the [[lore-garauu|Gar-Aû]], at the heart of [[place-galezkara|Galezkara]]
 - The great temples—the cult of [[lore-uqaadty|Uqa'â]] that defines official doctrine chief among them
-- The royal necropolis on the western bank—pyramids and rock-cut tombs of three thousand years of dynasties
+- The royal necropolis on the western bank—pyramids and rock-cut tombs of eighteen centuries of dynasties, from the Crossing to the Mound onward
 
 ## Settlements
 

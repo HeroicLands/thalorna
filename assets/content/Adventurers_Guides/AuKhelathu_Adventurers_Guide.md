@@ -18,6 +18,10 @@ The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] counts its rulers back 
 
 **The one thing to understand before anything else: in Aû'Khelâthu, a written promise can follow you anywhere.** A witnessed entry gives strangers a way to hold one another to their word, and an entry left open follows its maker toward death. Unwritten duties to kin and household matter just as deeply, though no court can read them back. Come looking for a lost record, a disputed witness, or a name missing from an archive, and you have an adventure before you ever leave the city.
 
+## A History in Brief
+
+The Khelâthi count their years from the first coronation, the [[lore-qettelgu|Qet Telgu]], and the present is 2830 ST, which the western kingdoms call 720 AF. The temple teachers divide that count into ages, set out in the [[lore-khelathclndr|calendar]]: god-kings of impossible length in the First Tablets, then houses at Galezkara, a river divided between two thrones, conquerors from the hills, the sea and Vylaria, and a king so proud that his name was struck from every wall. Three of those wars left their dead unread, and the fields where they lie are still cursed ground that the roads bend round. The house of Zu'Mequ has reigned since 470 AF, longer than any house of the near past. Every ruin, feud and law in the valley has an age behind it, and the [[affiliation-empireakhlth|Empire]] note lists them.
+
 ## The Flood and the Year
 
 The year runs in three seasons of four months, each named for what the water is doing, beginning with the inundation. A farmer reckons everything by that cycle; tax rolls and contracts carry the regnal year of the reigning [[lore-garauu|Gar-Aû]], and temple chronicles count from a beginning so far back that the counting itself is an argument. The full reckoning is in [[lore-khelathclndr|the Khelâthi calendar]].
@@ -170,6 +174,8 @@ A party can arrive by sea into the delta, perhaps on a [[affiliation-cnfdrtnhrdn
 
 Campaigns here start well from an open entry. Someone died with something unclosed and the party is asked, hired or compelled to close it. A house claims a name it cannot prove. An archive burns and half a province's obligations become arguable. A foreign patron wants something done that cannot be entered, and finding a way to do it undocumented is the job.
 
+A campaign can also open on a field of the unread dead. A Vylarian envoy asks leave to visit [[place-chariotfld|the Chariot Field]] at Khelaga, where a legion's dead have lain beside the chariot corps since 377 AF; the court means to set a price on the visit, and somebody has to escort the envoy onto ground the boatmen will not moor beside.
+
 :::secret
 **For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened — and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
 
@@ -184,6 +190,7 @@ Begin with the river, a city, and a claim on the party. Follow the questions tha
 - [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through — the ledgers, the closures, the weighing, and what happens to the widow and the orphan
 - [[affiliation-khelathpnthn|The pantheon]] for the gods, their domains and their temples
 - [[place-zumeleshrvr|The river]], [[place-aukhelathrgq|the region]] and the four classes of province for the geography
+- [[lore-khelathclndr|The calendar]]'s ages and the [[lore-garauu|king-list]] for the history, from the First Tablets to the House of Meqes
 - [[skill-khelathlng|The language]] for names, the two hands, and how to coin one that fits
 - [[lore-aukhlthcrncy|Money]], [[lore-khelathclndr|the calendar]] and [[lore-khelunulekha|the sacred power]] for the systems a campaign touches most
 

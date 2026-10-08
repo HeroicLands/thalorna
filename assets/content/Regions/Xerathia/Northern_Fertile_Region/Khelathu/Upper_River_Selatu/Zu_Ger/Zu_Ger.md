@@ -33,7 +33,7 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 - [[place-tjegu|Tjegu]]—the selat capital and the Halzi'a's seat
 - The chief temple of [[affiliation-hezmuiri|Faith of Hezmuîri]] and its estates
-- The old burial-ground of the first dynasties
+- The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
 ## Settlements
 
@@ -45,3 +45,4 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 - [[affiliation-selatzuger|The Selat of Zu-Ger]]—The selat that holds this land
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
 - [[place-tjegu|Tjegu]]—Selat capital
+- [[place-firsttablets|The Ground of the First Tablets]]—The burial-ground of the first two houses

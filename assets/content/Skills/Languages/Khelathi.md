@@ -130,11 +130,11 @@ Khelâthi is an isolate language with no widely-accepted external relatives. Its
 
 ### Classical Period (Age of Monuments)
 
-The standardization of Classical Khelâthi occurred during the early dynasties of the Khelâthi Empire, roughly 2,300 years before present. This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
+The standardization of Classical Khelâthi occurred during the early dynasties of the Khelâthi Empire, roughly 2,300 years before present, under **Zab'Uzner**, the fifth Gar-Aû of the First House ([[lore-sacredhand|the Fixing of the Sacred Hand]]). This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
 ### Development of the People's Hand
 
-Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelâthi. While structurally identical to Classical Khelâthi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
+Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelâthi, sanctioned by the queen **Gith'el'Retha I** of Amqelu'Gatau ([[lore-peopleshand|the People's Hand]]). While structurally identical to Classical Khelâthi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
 
 ### Modern Divergence
 
@@ -370,6 +370,9 @@ What a commoner's byname names when it names a trade rather than a place.
 | `Azlet`     | the season of flood                                  |
 | `Gelet`     | the season of growing                                |
 | `Shelu`     | the season of low water                              |
+| `qezat`     | a battle, built on `Qeztu` as `halzat` on `halzi`    |
+| `zelqezat`  | a blood-field, the place of a battle left unread     |
+| `zelalgit`  | a thin blood-field, the Devourer's place, on `Álgit` |
 
 Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `lagar`.
 
@@ -512,7 +515,7 @@ it claims a tie that does not exist. A title always takes the given name:
 - Frequently compound with elements meaning "true," "beloved," "strength," or "protection"
 - Consonant-heavy phonology with frequent emphatics
 - Written as a single word, however many elements they are built from, and never with the collective _-u_, which belongs to the house
-- Examples: _Khelâfirahu_ (the bold one), _Thûlmês_ (moon-born)
+- Examples: _Thûlmês_ (moon-born), _Zinlegir_ (fair of soul)
 
 **Given Names (Female):**
 
@@ -657,6 +660,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Akherethu
 - Akhrelu
 - Amruzi
+- Amqelzinet
 - Azûnmat
 - Athunotepu
 - Aguri
@@ -672,6 +676,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Gajegulu
 - Gari
 - Gezebari
+- Gezanlaghur
 - Lâraket
 - Larosê
 - Lenni
@@ -705,6 +710,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Meranlaghu
 - Minraqi
 - Quztar
+- Quzlegir
 - Latari
 - Zabmeht
 - Zaborêt
@@ -739,6 +745,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Shezur
 - Zînuri
 - Ziprahu
+- Zinlegir
 - Zobagulu
 - Thara
 - Thefnutî

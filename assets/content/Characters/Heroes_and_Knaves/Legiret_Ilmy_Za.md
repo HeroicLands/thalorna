@@ -474,7 +474,7 @@ Legiret is driven by a desire for discovery and recognition. She believes that h
 
 ## Plot Hooks
 
-1. **The Forbidden Archive**: Legiret learns of a hidden chamber in the Lut-Zethu of Aû'Khelâthu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] is studying. Gaining access requires navigating political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal.
+1. **The Forbidden Archive**: Legiret learns of a hidden chamber in the Lut-Zethu of Aû'Khelâthu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] is studying. Gaining access requires navigating political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal. The chamber is the one in the library-temple of [[place-khelunu|Khelunu]] that holds the doctrine of the house of the sun, walled up when the house closed ([[lore-sunhouse|the Sun-House at Magu-Athen]]).
 
 2. **The Glyph of Summoning**: While deciphering an ancient tablet, Legiret accidentally activates a ward, conjuring a spectral guardian bound to the artifact. The spirit demands she fulfill a forgotten oath tied to its creation or face retribution. To unravel the truth, Legiret must delve into the tablet’s history while managing the increasingly erratic behavior of the summoned entity.
 

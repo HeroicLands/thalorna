@@ -55,8 +55,9 @@ The region is the territory of [[affiliation-okharis|Okháris]]. Its village tri
 owe fealty to the crown, and their chieftains and elders attend the moots held
 in the temple-cities. Its frontier clans to
 the east pay tribute to [[place-bethuargn|Bethûan]] authorities in exchange for
-grazing rights, and a Khelâthi attempt centuries ago to bring the western
-temple-cities into a tributary relationship collapsed within a generation.
+grazing rights, and a Khelâthi attempt centuries ago to bring the eastern
+temple-cities into a tributary relationship collapsed within a generation
+([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
 ## See Also
 

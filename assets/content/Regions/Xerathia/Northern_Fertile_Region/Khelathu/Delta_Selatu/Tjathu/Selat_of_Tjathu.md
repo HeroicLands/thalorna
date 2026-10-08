@@ -85,6 +85,8 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 The seat is [[place-tjathu|Tjathu]], where the Halzi'a keeps court and the selat's chief temple of Wethûr stands. Wethûr is the god who guides souls through the underworld and keeps the tombs, and a selat whose natron dries the dead has a natural claim on him.
 
+The selat's coast is where the sea-raiders landed in 1960 ST (151 BF) and burned the port of [[place-zelamqelu|Zel-Amqelu]], which the selat never rebuilt ([[lore-searaiders|the Sea-Raiders' Throne]]).
+
 ## Commerce and Currency
 
 Tjathu uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]. The local chapter of [[affiliation-garhalzi|Gár-Hálzi]] attached to the chief temple attests the weight-pieces and holds the granary accounts, and in a selat that sells salt and natron by weight, the chapter's scales settle most disputes. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.

@@ -94,7 +94,7 @@ Garrison** and of its commander, the **Overseer of the March**, who answers
 to the [[lore-garauu|Gar-Aû]]'s military officers at the capital and to no Halzi'a. The
 garrison's whole duty is the road: to patrol the wells, escort the caravans,
 collect the road-toll, and keep the peace with the clans on the other side
-of it.
+of it. The line dates from the host of the Storm of the Hundred Banners, which struck the eastern road in 315 AF: the forts were walled in the decades after ([[lore-eastroad|the Storm on the Eastern Road]]). Beside the first of them lie the Burned Wells, a ring of wells filled with carcasses in the host's wake and never cleared, which the garrison and the clans each blame on the other.
 
 That peace is nominal and growing thin. It rests on custom rather than treaty—on the clans' right to water at the wells and the caravans' right to pass
 unmolested, which each side keeps as long as the other does—and it depends
@@ -153,3 +153,4 @@ of the peace it is the garrison that is tolerated, not the clans.
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the clans who contest it
 - [[being-mthrnshrdr|Mithran Shiradar]]—the sheikh the garrison has made an enemy of
 - [[place-khzryndsrtrgn|Khazryn Desert]]—where the road goes on to
+- [[lore-eastroad|The Storm on the Eastern Road]]—the year the fort line began

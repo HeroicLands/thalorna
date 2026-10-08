@@ -36,4 +36,4 @@ Azûnmat Khelâfirahu is a 42-year-old woman who stands 5'10" tall with a medium
 
 # Dossier {#dossier}
 
-Azûnmat Khelâfirahu steers for the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]] and leads the sacred hunt itself. The company under this leadership is one the temple priesthood would rather see disbanded than renewed. Anyone measuring the hunt's standing with the temple starts with that disagreement.
+Azûnmat Khelâfirahu steers for the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]] and leads the sacred hunt itself. The company under this leadership is one the temple priesthood would rather see disbanded than renewed. Anyone measuring the hunt's standing with the temple starts with that disagreement. The byname she carries, Khelâfirahu, is the name the oldest servants of the necropolis whisper for the [[being-falseuqaa|False Uqa'â]] ([[lore-judgfalseuq|the Judgment of the False Uqa'â]]); the law does not forbid it, and it draws a second look wherever the temple hears it.

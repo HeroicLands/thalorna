@@ -126,11 +126,11 @@ The worst humiliation came roughly twelve years ago, when Harad, the empire's we
 
 The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Harad's trade revenue has sped the fiscal decline, and direct Haradian–Khelâthi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Aû'Khelâthu's hand was behind it, festers in the Senate and the officer corps.
 
-### The Common Calendar {#the-common-calendar}
+### The Vylarian Calendar {#the-vylarian-calendar}
 
-The [[lore-commoncal|Common Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian senator seized supreme power. That moment is **Year 1**. Events before it are dated **Before the Founding (BF)** and events after it **After the Founding (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
+The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian senator seized supreme power. That moment is **Year 1**. Events before it are dated **Before the Founding (BF)** and events after it **After the Founding (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Common Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
@@ -215,7 +215,7 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 - **[[affiliation-cnfdrtnhrdnstts|Harad]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Haradian merchant guilds are pushing hard into markets the empire once dominated.
 - **[[place-helionis|Heliónis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Heliónis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even as imperial authority there fades.
 - **[[place-vrystwald|Vrystwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
-- **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
+- **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
 
 ## Notable Features
 

@@ -8,6 +8,8 @@
  *
  * A language, country, region, city, people, religion, mythology, real person or
  * work of fiction is an Earth name, and so are "English" and "Common tongue".
+ * "Common Calendar" is refused beside them: the shared year-count belongs to the
+ * Vylarian Empire, and prose calls it the Vylarian Calendar.
  * Each is refused in every note, README and table under `assets/content`, and in
  * the lexicon data files, wherever it stands: prose, a tag, a pronunciation
  * guide or a comment. A name is recast as a gloss or a rendering, and a sound is
@@ -598,6 +600,8 @@ function matcher(names) {
 const ENGLISH = /\benglish\b/gi;
 // Capitalized only: "common speech" in lower case is an in-setting lingua franca.
 const COMMON = /\bCommon[- ](?:tongue|Tongue|Speech)\b/g;
+// Any case: no people in the setting calls its year-count common.
+const COMMON_CALENDAR = /\bcommon calendar\b/gi;
 
 /**
  * @param {string} file path relative to the working directory
@@ -614,6 +618,10 @@ export function findEarthNames(file, text, names = NAMES) {
         for (const [re, what] of [
             [ENGLISH, "the reader's language"],
             [COMMON, "a Common tongue"],
+            [
+                COMMON_CALENDAR,
+                'the Vylarian Calendar\'s name in the tooling; write "the Vylarian Calendar"',
+            ],
             [names, "an Earth proper name"],
         ]) {
             for (const m of line.matchAll(re)) {
@@ -636,6 +644,8 @@ test("an Earth name is found, with its column", () => {
     assert.equal(findEarthNames("a.md", "as in English").length, 1);
     assert.equal(findEarthNames("a.md", "the Common tongue calls it").length, 1);
     assert.equal(findEarthNames("a.md", "a Common-tongue name").length, 1);
+    assert.equal(findEarthNames("a.md", "dated in the Common Calendar").length, 1);
+    assert.equal(findEarthNames("a.md", "the common calendar calls it").length, 1);
     assert.equal(findEarthNames("a.md", "Latin letters, and Tolkien").length, 2);
     assert.equal(findEarthNames("a.md", "from France to Japan").length, 2);
     assert.equal(findEarthNames("a.md", "speaking Norwegian").length, 1);
