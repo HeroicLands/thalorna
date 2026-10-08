@@ -24,7 +24,7 @@ Jilaq is a recurrence, and it is thin.
 
 On the anniversary of the sack, and on still nights through the dry months, the towers light themselves. The lamp-chambers fill with a steady light, bells ring in the yards though every bell was carried off or melted, and long ranks of figures can be seen at a distance in the harbor court, forming and breaking, never nearer than the length of a bowshot.
 
-That is the part a traveler sees from the road. The rest is closer. Hunters gather where unreceived dead are, and Jilaq has held thousands of them for two thousand years. On any night of the year they cross onto the ring wall's ground in a form half made of the place: tall, wet-looking shapes that move between the towers and that can be touched, and that touch back. A man who camps within a mile of the wall is found in the morning with the sand around him scored in wide arcs and his face turned toward the lit towers. Tribes who graze the southern ranges lose a camel or two a decade to it, and a rider every generation or so.
+That is the part a traveler sees from the road. The rest is closer. The hunters the steppe tribes call [[being-yiqnotud|Yiqnotud]] gather where unreceived dead are, and Jilaq has held thousands of them for two thousand years. On any night of the year they cross onto the ring wall's ground in a form half made of the place: tall, wet-looking shapes that move between the towers and that can be touched, and that touch back. A man who camps within a mile of the wall is found in the morning with the sand around him scored in wide arcs and his face turned toward the lit towers. Tribes who graze the southern ranges lose a camel or two a decade to it, and a rider every generation or so.
 
 ## How the Road Lives with It
 

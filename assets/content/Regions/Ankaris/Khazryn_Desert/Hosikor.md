@@ -28,7 +28,7 @@ For five days after Yemok the road has no water at all, and the camels carry ski
 
 The tribes of Hosikor hold the most important ranges on the road and charge the dearest passage, because a well lost here cannot be replaced. The strictest custom on the road governs them: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track. A stranger who breaks it is taken for ransom or sold as a thrall.
 
-Among them live the **Ruweles**, "the water people", small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides. A caravan that loses its way, or its water, or a tribe's favor, pays a Ruwel guide to take it where no tribe will look for it. The guides do not talk about where they have been.
+Among them live the **[[affiliation-rwlstrb|Ruweles]]**, "the water people", small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides. A caravan that loses its way, or its water, or a tribe's favor, pays a Ruwel guide to take it where no tribe will look for it. The guides do not talk about where they have been.
 
 ## Dangers
 

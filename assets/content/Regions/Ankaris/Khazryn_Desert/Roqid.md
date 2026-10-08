@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "A Vylarian fort on the western margin of the Khazryn, built when the empire's reach ran this far: stone walls, a cistern that still fills, and a strongroom no one has opened."
 tags: []
-data: {demonym: null, lore: [], parents: [khzryndsrtrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: khazryndesert}
 ---
 
 ## Overview

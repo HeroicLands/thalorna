@@ -29,7 +29,7 @@ Dûnshâk pointing is a prosodic instrument as much as a phonetic one. A pointed
 
 ## Where the writing actually is
 
-Among the nomads, almost nowhere. Law, genealogy, precedent and treaty terms are held by poet-scholars in memory and recited; written records exist and are treated as afterthoughts to the recitation, useful for reminding a man of what he already knows. Writing accumulates instead where the desert stops: in the oasis-belt of the [[affiliation-khzrncnfdrtn|Khazryn]], whose temple archives run back two thousand years, and in the libraries and fire-temples of [[affiliation-sultntmrdd|Amradad]], where theology, astronomy, mathematics and medicine are all committed to the page. The [[affiliation-ashanpnthn|Āsháian]] orders are the script's real institution: the threefold path is inscribed on every temple wall, and a Hērbad's competence is measured by his handling of the sacred texts.
+Among the nomads, almost nowhere. Law, genealogy, precedent and treaty terms are held by poet-scholars in memory and recited; written records exist and are treated as afterthoughts to the recitation, useful for reminding a man of what he already knows. Writing accumulates instead where the desert stops: in the oasis-belt of the [[affiliation-khzrncnfdrtn|Tellumi]], whose temple archives run back two thousand years, and in the libraries and fire-temples of [[affiliation-sultntmrdd|Amradad]], where theology, astronomy, mathematics and medicine are all committed to the page. The [[affiliation-ashanpnthn|Āsháian]] orders are the script's real institution: the threefold path is inscribed on every temple wall, and a Hērbad's competence is measured by his handling of the sacred texts.
 
 ## Who has it
 
