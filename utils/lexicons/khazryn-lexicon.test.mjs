@@ -119,7 +119,7 @@ const OTHER = tongueNote({
 });
 
 /** A lexicon note in the shape the guard reads. */
-function lexicon({ toyStems, otherStems, register, senses = "`water` `road`" }) {
+function lexicon({ toyStems, otherStems, register, senses = "`water` `road`", derived = "" }) {
     return `---
 shortcode: lex
 type: doc
@@ -137,6 +137,7 @@ type: doc
 | Kind | Value |
 | --- | --- |
 | folder | \`toyfolder\` |
+| parent | \`toyregion\` |
 | culture | \`toyclt\` |
 
 ## Required senses
@@ -157,6 +158,15 @@ ${toyStems}
 | --- | --- |
 ${otherStems}
 
+${
+    derived &&
+    `## Derived words
+
+| Word | Tongue | Gloss | Derivation |
+| --- | --- | --- | --- |
+${derived}
+`
+}
 ## Attested names
 
 | Name | Address | Language | Derivation |
@@ -182,6 +192,7 @@ const GOOD = {
         "| Tallumi | [[place-tallumi\\|Tallumi]] | `toy` | `ta` + `lum` + `-i` |",
         "| Tallumi Road | [[place-tallumi\\|Tallumi]] | `gloss` | a glossed name on `Tallumi` |",
         "| Old Place | [[place-old\\|Old Place]] | `pending` | — |",
+        "| Old Place | [[place-site\\|Old Place]] | `pending` | — |",
     ].join("\n"),
 };
 
@@ -202,6 +213,12 @@ const NOTES = [
         fm: { name: { full: "Old Place" }, data: { culture: "toyclt" } },
     },
     { file: "c.md", text: "", address: "place-elsewhere", fm: { name: "Elsewhere", data: {} } },
+    {
+        file: "d.md",
+        text: "",
+        address: "place-site",
+        fm: { name: "Old Place", data: { parents: ["toyregion"] } },
+    },
 ];
 
 const tongueNotes = new Map([
@@ -248,6 +265,16 @@ test("sound words keep the shape and broken ones are refused with a reason", () 
     assert.match(reasons("tásumá"), /more than one stress mark/);
     assert.match(reasons("tapku"), /cannot stand between two vowels/);
     assert.match(reasons("pkatu"), /cannot start a word/);
+    const strict = rulesFrom(
+        OTHER.replace(
+            "| Initial vowel | yes |",
+            "| Initial vowel | yes |\n| Final vowel | no |\n| Mixed vowels | `e` / `a` `o` |",
+        ),
+    );
+    assert.match(shape("bedo", strict).join(";"), /ends in a vowel/);
+    assert.deepEqual(shape("bedo", strict, { bound: true }), []);
+    assert.match(shape("bado", strict, { bound: true }).join(";"), /one vowel group/);
+    assert.deepEqual(shape("bado", strict, { bound: false }).length, 1);
     assert.deepEqual(shape("shabo", other), []);
     assert.deepEqual(shape("aboket", other), []);
 });
@@ -272,7 +299,10 @@ test("a sound lexicon passes, and a pending name is a warning", () => {
     assert.deepEqual(errors(findings), []);
     assert.deepEqual(
         findings.filter((f) => f.severity === "warning").map((f) => f.message),
-        ["Old Place is held as `pending`, awaiting its coinage"],
+        [
+            "Old Place is held as `pending`, awaiting its coinage",
+            "Old Place is held as `pending`, awaiting its coinage",
+        ],
     );
 });
 
@@ -333,10 +363,28 @@ test("register names must recompute from listed pieces and carry declared tags",
     );
 });
 
+test("derived words recompute, carry a gloss and may be quoted by a glossed name", () => {
+    const derived = "| Kirunun | `toy` | the salt place | `kirun` + `-un` |";
+    const register = `${GOOD.register}\n| Salt Road | [[place-tallumi\\|Tallumi]] | \`gloss\` | on \`Kirunun\` |`;
+    assert.deepEqual(errors(run({ derived, register })), []);
+    const bad = errors(
+        run({
+            derived: `${derived}\n| Kirunun | \`toy\` | | \`kirun\` + \`-i\` |\n| Bedo | \`gloss\` | water | \`bedo\` |`,
+        }),
+    ).join("\n");
+    assert.match(bad, /Kirunun carries no gloss/);
+    assert.match(bad, /Kirunun is listed twice/);
+    assert.match(bad, /Kirunun does not recompute/);
+    assert.match(bad, /Bedo stands under `gloss`, which is not a tongue/);
+});
+
 test("every name in scope must stand in the register under its address", () => {
     const register = GOOD.register.split("\n").slice(0, 2).join("\n");
     const found = errors(run({ register }));
-    assert.deepEqual(found, ["Old Place is in scope and not in the register under place-old"]);
+    assert.deepEqual(found, [
+        "Old Place is in scope and not in the register under place-old",
+        "Old Place is in scope and not in the register under place-site",
+    ]);
 });
 
 test("Earth words, Earth morphemes and Dunhari forms are refused", () => {

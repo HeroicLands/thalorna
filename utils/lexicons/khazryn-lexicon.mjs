@@ -30,19 +30,23 @@
  *    in its tongue's consonant or vowel table, and a mark limited to one in a
  *    word appears at most once.
  * 2. **Syllable shape** — a word starts with a listed onset (or a vowel, where
- *    the tongue allows one), ends in a listed final, holds between two vowels
- *    at most a coda and an onset, doubles only the listed letters, and sets two
- *    vowels together only where the tongue allows it.
+ *    the tongue allows one), ends in a listed final (or a vowel, unless the
+ *    tongue forbids it), holds between two vowels at most a coda and an onset,
+ *    doubles only the listed letters, and sets two vowels together only where
+ *    the tongue allows it. A stem may end in any coda, and where the tongue
+ *    states mixed vowel groups, a stem of two or more vowels holds one of each.
  * 3. **Stems** — each has a sense, is listed once in its tongue, stands in no
  *    other tongue, and every tongue covers every required sense.
- * 4. **Derivation** — every name tagged with a tongue recomputes from the stems
- *    and suffixes its derivation lists, through the tongue's joins; every word a
- *    glossed name quotes stands in the register under a tongue or another
- *    non-gloss tag.
+ * 4. **Derivation** — every name tagged with a tongue, and every derived word,
+ *    recomputes from the stems and suffixes its derivation lists, through the
+ *    tongue's joins; a derived word carries a gloss and is listed once; every
+ *    word a glossed name quotes stands among the derived words or in the
+ *    register under a tongue or another non-gloss tag.
  * 5. **The register** — every name of every note in scope stands in the
  *    register under the address it comes from, with a declared tag. Scope is
- *    read off the lexicon: notes whose `data.packFolder`, `data.culture` or
- *    `data.lore` names a listed value, the tongue notes, and the lexicon itself.
+ *    read off the lexicon: notes whose `data.packFolder`, `data.culture`,
+ *    `data.lore` or `data.parents` names a listed value, listed addresses, the
+ *    tongue notes, and the lexicon itself.
  *    A name tagged `pending` or `faith` is a warning, so a name awaiting its
  *    coinage is visible without failing the run.
  * 6. **Dunhari** — no stem and no derived name equals a name or word the
@@ -156,7 +160,11 @@ export function rulesFrom(text) {
     const syllable = new Map(
         tableOf(text, "### Syllables").rows.map(({ cells }) => [
             plain(cells[0]).toLowerCase(),
-            { forms: ticked(cells[1]).map(lower), words: plain(cells[1]).toLowerCase() },
+            {
+                forms: ticked(cells[1]).map(lower),
+                words: plain(cells[1]).toLowerCase(),
+                raw: cells[1],
+            },
         ]),
     );
     const rule = (key) => {
@@ -177,6 +185,14 @@ export function rulesFrom(text) {
         doubled: rule("doubled").forms,
         pairs: rule("vowel pairs").forms,
         initialVowel: /^yes\b/.test(rule("initial vowel").words),
+        finalVowel: !/^no\b/.test(syllable.get("final vowel")?.words ?? "yes"),
+        mixed:
+            syllable.has("mixed vowels") ?
+                syllable
+                    .get("mixed vowels")
+                    .raw.split("/")
+                    .map((part) => ticked(part).map(lower))
+            :   null,
     };
 
     const joins = new Map();
@@ -299,6 +315,12 @@ export function shape(word, rules, { bound = false } = {}) {
             if (r[i] === r[i + 1] && !syl.doubled.includes(r[i] + r[i + 1]))
                 problems.push(`\`${r[i]}${r[i + 1]}\` is not a doubled letter the tongue allows`);
         }
+    }
+    if (final.length === 0 && !bound && !syl.finalVowel) problems.push("ends in a vowel");
+    if (bound && syl.mixed && vowelsBefore > 1) {
+        const vs = s.filter((x) => x.kind === "V").map((x) => fold(x.sound));
+        if (!syl.mixed.every((group) => vs.some((v) => group.map(fold).includes(v))))
+            problems.push("keeps to one vowel group, and a stem of two vowels mixes them");
     }
     if (final.length > 1) problems.push(`\`${final.join("")}\` cannot end a word`);
     const ends = bound ? [...syl.finals, ...syl.codas] : syl.finals;
@@ -448,7 +470,24 @@ export function lexiconFrom(text) {
         ({ cells }) => ticked(cells[0])[0] ?? plain(cells[0]),
     );
 
-    return { tongues, scope, senses, stems, register, tags };
+    const derived = [];
+    const derivedTable = tableOf(text, "## Derived words", false);
+    if (derivedTable) {
+        const [dWord, dTongue, dGloss, dDerivation] = ["word", "tongue", "gloss", "derivation"].map(
+            (w) => column(derivedTable, w),
+        );
+        for (const { cells, offset } of derivedTable.rows) {
+            derived.push({
+                name: plain(cells[dWord]),
+                language: ticked(cells[dTongue] ?? "")[0] ?? plain(cells[dTongue] ?? ""),
+                gloss: plain(cells[dGloss] ?? ""),
+                derivation: cells[dDerivation] ?? "",
+                offset,
+            });
+        }
+    }
+
+    return { tongues, scope, senses, stems, register, tags, derived };
 }
 
 /**
@@ -569,7 +608,7 @@ export function earthHits(form, earth) {
         if (hit && n !== m.form) out.push(`contains the Earth morpheme \`${m.form}\``);
         else if (hit) out.push("is an Earth morpheme or proper name");
     }
-    return out;
+    return [...new Set(out)];
 }
 
 /** A note's name and aliases. */
@@ -589,6 +628,7 @@ function inScope(note, scope, fixed) {
         if (kind === "culture" && values.includes(data.culture)) return true;
         if (kind === "lore" && lore.some((l) => values.includes(l))) return true;
         if (kind === "address" && values.includes(note.address)) return true;
+        if (kind === "parent" && (data.parents ?? []).some((x) => values.includes(x))) return true;
     }
     return false;
 }
@@ -709,6 +749,59 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
         }
     }
 
+    const recompute = (r) => {
+        const rules = rulesByTag.get(r.language);
+        const pieces = ticked(r.derivation);
+        if (!pieces.length) {
+            add(
+                r.offset,
+                "error",
+                `${r.name} is tagged \`${r.language}\` and states no derivation`,
+            );
+            return;
+        }
+        const stems = stemsByTag.get(r.language);
+        for (const p of pieces) {
+            const isSuffix = p.startsWith("-");
+            const known =
+                isSuffix ?
+                    rules.suffixes.some((s) => s.form === lower(p))
+                :   stems.some((s) => s.form === lower(p));
+            if (!known)
+                add(
+                    r.offset,
+                    "error",
+                    `${r.name}: \`${p}\` is not a listed ${isSuffix ? "suffix" : "stem"} of its tongue`,
+                );
+        }
+        const made = derive(pieces, rules);
+        if (made !== unstressed(r.name, rules))
+            add(
+                r.offset,
+                "error",
+                `${r.name} does not recompute: its derivation makes \`${made}\``,
+            );
+        for (const p of shape(r.name, rules)) add(r.offset, "error", `${r.name}: ${p}`);
+        earthCheck(r.name, r.offset, "name");
+    };
+
+    // Derived words.
+    const derivedForms = new Set();
+    for (const d of lex.derived) {
+        if (!rulesByTag.has(d.language)) {
+            add(
+                d.offset,
+                "error",
+                `${d.name} stands under \`${d.language}\`, which is not a tongue`,
+            );
+            continue;
+        }
+        if (!d.gloss) add(d.offset, "error", `${d.name} carries no gloss`);
+        if (derivedForms.has(lower(d.name))) add(d.offset, "error", `${d.name} is listed twice`);
+        derivedForms.add(lower(d.name));
+        recompute(d);
+    }
+
     // The register.
     const tagSet = new Set(lex.tags);
     const registered = new Map();
@@ -718,48 +811,17 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
             add(r.offset, "error", `${r.name} is registered twice under ${r.address}`);
         registered.set(key, r);
     }
-    const anyTongueOrKept = new Set(
-        lex.register.filter((r) => r.language !== GLOSS).map((r) => lower(r.name)),
-    );
+    const anyTongueOrKept = new Set([
+        ...lex.register.filter((r) => r.language !== GLOSS).map((r) => lower(r.name)),
+        ...derivedForms,
+    ]);
     for (const r of lex.register) {
         if (!tagSet.has(r.language)) {
             add(r.offset, "error", `${r.name} carries the undeclared tag \`${r.language}\``);
             continue;
         }
-        const rules = rulesByTag.get(r.language);
-        if (rules) {
-            const pieces = ticked(r.derivation);
-            if (!pieces.length) {
-                add(
-                    r.offset,
-                    "error",
-                    `${r.name} is tagged \`${r.language}\` and states no derivation`,
-                );
-                continue;
-            }
-            const stems = stemsByTag.get(r.language);
-            for (const p of pieces) {
-                const isSuffix = p.startsWith("-");
-                const known =
-                    isSuffix ?
-                        rules.suffixes.some((s) => s.form === lower(p))
-                    :   stems.some((s) => s.form === lower(p));
-                if (!known)
-                    add(
-                        r.offset,
-                        "error",
-                        `${r.name}: \`${p}\` is not a listed ${isSuffix ? "suffix" : "stem"} of its tongue`,
-                    );
-            }
-            const made = derive(pieces, rules);
-            if (made !== unstressed(r.name, rules))
-                add(
-                    r.offset,
-                    "error",
-                    `${r.name} does not recompute: its derivation makes \`${made}\``,
-                );
-            for (const p of shape(r.name, rules)) add(r.offset, "error", `${r.name}: ${p}`);
-            earthCheck(r.name, r.offset, "name");
+        if (rulesByTag.has(r.language)) {
+            recompute(r);
         } else if (r.language === GLOSS) {
             for (const w of ticked(r.derivation)) {
                 if (!anyTongueOrKept.has(lower(w)))
