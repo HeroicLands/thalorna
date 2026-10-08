@@ -32,6 +32,7 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 ## Notable Features
 
 - [[place-lenennezut|Lenen-Nezut]]—the selat capital and the Halzi'a's seat
+- [[place-lnzways|The Lenen-Nezut Ways]]—the royal tombs of the house of Geze'el'Anlaghu, the Halzi'a's line
 - The chief temple of [[affiliation-uqaa|Faith of Uqa'â]] and its estates
 - The ram-cult of Uqa'â and the horse-pastures of the margins
 
@@ -42,6 +43,8 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 ## See Also
 
+- [[lore-thronelnz|The Throne at Lenen-Nezut]]—the dynasty the old capital remembers
+- [[place-zelhalzi|Zel-Halzi]]—the unmeasured field on the west-bank floodplain below the town
 - [[affiliation-selatlennnzt|The Selat of Lenen-Nezut]]—The selat that holds this land
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
 - [[place-lenennezut|Lenen-Nezut]]—Selat capital

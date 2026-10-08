@@ -91,7 +91,7 @@ The Jackals are [[being-yasurajckl|Yâsûra the Jackal's]] creation and hers alo
 
 ## Territory
 
-**Primary:** The South Marches—the drylands and pastoral borderlands south of [[affiliation-mtrrchybth|Bethûa's]] settled frontier, country Bethûa claims on its maps but does not truly hold.
+**Primary:** The South Marches—the drylands and pastoral borderlands south of [[affiliation-mtrrchybth|Bethûa's]] settled frontier, country Bethûa claims on its maps but does not truly hold. Its lairs are the abandoned forts of [[place-khuqetzalu|Khuqet-Zalu]], the chain of walled wells that the Khelâthi sun-house built across the Marches centuries ago ([[lore-templetrib|the Tribute of the Temple-Cities]]).
 
 **Range:** The Jackals ride well beyond their home country when a contract or a feud warrants, raiding into the southern cantons and, for the right price, taking work along the [[place-midhalnrgn|Mídhalión Region]] coast and the shores of the [[place-vylarianse|Vylarian Sea]]. Away from the marches and the saddle, however, much of their advantage falls away.
 

@@ -38,6 +38,7 @@ The Thâz'Lekhau of Reth'Sa'âr is less wealthy than the heads of the great sola
 - The scribal schools, the gold standard of literate training
 - The observatory and the calendar-service that keeps the realm's time
 - The priestly archives and the unbroken king-lists since the Qet Telgu
+- A sealed chamber of the library-temple, walled up since the house of the sun was closed and its doctrine declared heretical ([[lore-sunhouse|the Sun-House at Magu-Athen]])
 - The scriptoria and the medical, legal and mathematical learning of the temple
 
 ## See Also
@@ -46,5 +47,6 @@ The Thâz'Lekhau of Reth'Sa'âr is less wealthy than the heads of the great sola
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—the selat class
 - [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'âr]]—the scribal schools
 - [[lore-khelunulekha|Khelunu Lekhau]]—the arcane tradition that takes its name from the city
+- [[lore-sunhouse|The Sun-House at Magu-Athen]]—the doctrine behind the sealed chamber
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—imperial overview
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—Reth'Sa'âr among the Twelve

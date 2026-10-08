@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFold
 
 ## Overview
 
-Chenosolis is highland country of [[place-aukhelathrgq|Aû'Khelâthu]], and what draws anyone up into it is a mountain shrine where the oldest records of the empire's astrologers are kept. The shrine is one of the sacred places of the early astrologers of Aû'Khelâthu, and an astrologer who wants to read the sky the way the first ones read it has to climb to it.
+Chenosolis is highland country of [[place-aukhelathrgq|Aû'Khelâthu]], and what draws anyone up into it is a mountain shrine where the oldest records of the empire's astrologers are kept. The shrine is one of the sacred places of the early astrologers of Aû'Khelâthu, and its oldest records were laid down in the age of [[lore-akhfirsttab|the First Tablets]]. An astrologer who wants to read the sky the way the first ones read it has to climb to it.
 
 ## The Shrine and Its Records
 

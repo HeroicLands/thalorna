@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Character
 
-The seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps court and the selat's chief temple of Uqa'â stands. Uqa'â, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides.
+The seat is [[place-khelaga|Khelaga]], where the Halzi'a keeps court and the selat's chief temple of Uqa'â stands. Uqa'â, the sun, is the patron here, and the selat's old shrines and customs-stations stand at the point where the river first divides. The apex forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the selat's western bank holds [[place-chariotfld|the Chariot Field]], where the chariot corps broke in 377 AF ([[lore-vylconquest|the Vylarian Conquest]]).
 
 ## Commerce and Currency
 

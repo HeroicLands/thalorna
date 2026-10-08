@@ -56,7 +56,7 @@ than any home-grown tradition.
 
 ## Politics and Power
 
-The region is the territory of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]].
+The region is the territory of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], which won its separation from its Helonic metropole about 615 AF with Khelâthi backing ([[lore-bethuasep|the Separation of Bethûa]]).
 Along its western margins, Okháric frontier clans pay tribute to Bethûan
 authorities in exchange for grazing rights; its eastern frontier with
 [[place-aukhelathrgq|Aû'Khelâthu Region]] is poorly defined and a recurring source of

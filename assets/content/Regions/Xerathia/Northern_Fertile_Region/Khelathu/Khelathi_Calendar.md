@@ -52,17 +52,17 @@ Three counts run side by side in [[affiliation-empireakhlth|Aû'Khelâthu]], and
 
 The Qet Telgu runs on unbroken from its first year, and a Khelâthi date gives the year of the count and nothing else: the judgment of the struck king is 2378 ST, and the present is 2830 ST. The Keepers of the King-Lists and the temple teachers still divide the count into ages, the way a reader divides a long scroll into its columns, and every schoolroom in the valley learns them in order. An age takes its name from what the throne did in it, and it opens and closes on an event the king-list enters.
 
-| Age                                          | Its years (ST)                  | Vylarian reckoning      |
-| -------------------------------------------- | ------------------------------- | ----------------------- |
-| Before the Occasion                          | written BST, counted back       | before 2110 BF          |
-| [[lore-akhfirsttab\|The First Tablets]]      | 1 to 1006                       | 2110 to 1105 BF         |
-| [[lore-akhsunroad\|The Sun's Road]]          | 1006 to 1390                    | 1105 to 721 BF          |
-| [[lore-akhdivriver\|The Divided River]]      | 1390 to 1671                    | 721 to 440 BF           |
-| [[lore-akhrestcrown\|The Restored Crown]]    | 1671 to 1990                    | 440 to 121 BF           |
-| [[lore-akhcountmon\|The Count of Months]]    | 1990 to 2281                    | 121 BF to 171 AF        |
-| [[lore-akhstruckhs\|The Struck House]]       | 2281 to 2378                    | 171 to 268 AF           |
-| [[lore-akhpriestthr\|The Priests' Thrones]]  | 2378 to 2580                    | 268 to 470 AF           |
-| [[lore-akhhsmeqes\|The House of Meqes]]      | 2580 to the present, 2830       | 470 to 720 AF           |
+| Age                                         | Its years (ST)            | Vylarian reckoning |
+| ------------------------------------------- | ------------------------- | ------------------ |
+| Before the Occasion                         | written BST, counted back | before 2110 BF     |
+| [[lore-akhfirsttab\|The First Tablets]]     | 1 to 1006                 | 2110 to 1105 BF    |
+| [[lore-akhsunroad\|The Sun's Road]]         | 1006 to 1390              | 1105 to 721 BF     |
+| [[lore-akhdivriver\|The Divided River]]     | 1390 to 1671              | 721 to 440 BF      |
+| [[lore-akhrestcrown\|The Restored Crown]]   | 1671 to 1990              | 440 to 121 BF      |
+| [[lore-akhcountmon\|The Count of Months]]   | 1990 to 2281              | 121 BF to 171 AF   |
+| [[lore-akhstruckhs\|The Struck House]]      | 2281 to 2378              | 171 to 268 AF      |
+| [[lore-akhpriestthr\|The Priests' Thrones]] | 2378 to 2580              | 268 to 470 AF      |
+| [[lore-akhhsmeqes\|The House of Meqes]]     | 2580 to the present, 2830 | 470 to 720 AF      |
 
 An age shares its last year with the first year of the next, because the event that closes one opens the other, as a reign shares its last year with its successor's first. To carry a year of the count to the [[lore-commoncal|Vylarian Calendar]], subtract 2,110 for a year after the Founding and subtract the count from 2,111 for a year before it, since the western reckoning has no year zero.
 

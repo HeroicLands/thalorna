@@ -95,11 +95,11 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 ## The Names
 
-| People    | Word           | What it means                                                        |
-| --------- | -------------- | -------------------------------------------------------------------- |
-| Provènzia | blood-field    | The Provenzian word, which these pages use for every people's fields |
-| Vedyara   | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"        |
-| Aû'Khelâthu | _zelqezat_   | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place" |
+| People      | Word           | What it means                                                               |
+| ----------- | -------------- | --------------------------------------------------------------------------- |
+| Provènzia   | blood-field    | The Provenzian word, which these pages use for every people's fields        |
+| Vedyara     | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"               |
+| Aû'Khelâthu | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place" |
 
 ## Vedyara: the Shorukshetra
 
@@ -131,19 +131,19 @@ Aû'Khelâthu has three _zelqezat_ in twenty-eight centuries, all made by war an
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                | People whose ground it is | Battle                                        | Made    | Kind       | Thin            |
-| ------------------------------------ | ------------------------- | --------------------------------------------- | ------- | ---------- | --------------- |
-| [[place-zelhalzi\|Zel-Halzi]] | Aû'Khelâthu | [[lore-thaulgau\|The Coming of the Tha'Ulgau]] | 499 BF | recurrence | moderate |
-| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]        | ~300 BF | silence    | moderate        |
-| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu | [[lore-sealedgran\|The Battle of the Sealed Granaries]] | 268 AF | withering, contained | moderate, worse in lean years |
-| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]] | ~270 AF | recurrence | slight          |
-| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]     | 315 AF  | dread      | thin            |
-| [[place-chariotfld\|The Chariot Field]] | Aû'Khelâthu | [[lore-vylconquest\|The Vylarian Conquest]] | 377 AF | recurrence | thin |
-| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                            | ~520 AF | withering  | thin, worked on |
-| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                             | —       | recurrence | —               |
-| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                             | —       | recurrence | —               |
-| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                             | —       | quickening | —               |
-| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                             | —       | silence    | —               |
+| Field                                        | People whose ground it is | Battle                                                  | Made    | Kind                 | Thin                          |
+| -------------------------------------------- | ------------------------- | ------------------------------------------------------- | ------- | -------------------- | ----------------------------- |
+| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]          | 499 BF  | recurrence           | moderate                      |
+| [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                  | ~300 BF | silence              | moderate                      |
+| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]] | 268 AF  | withering, contained | moderate, worse in lean years |
+| [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]           | ~270 AF | recurrence           | slight                        |
+| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]               | 315 AF  | dread                | thin                          |
+| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]             | 377 AF  | recurrence           | thin                          |
+| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                      | ~520 AF | withering            | thin, worked on               |
+| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
+| [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
+| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                       | —       | quickening           | —                             |
+| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                 | —                                                       | —       | silence              | —                             |
 
 ## See Also
 

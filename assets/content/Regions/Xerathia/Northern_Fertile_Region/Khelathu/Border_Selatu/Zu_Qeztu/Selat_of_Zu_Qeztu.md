@@ -81,7 +81,7 @@ The **Selat of Zu-Qeztu** holds the western grazing margin, the horse-pasture wh
 
 ## Character
 
-"The raiders carry [[affiliation-cnfdrtnhrdnstts|Haradian]] arms," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. His seat is [[place-zileti|Zileti]], where his court sits and the selat's chief temple of Uqa'â stands.
+"The raiders carry [[affiliation-cnfdrtnhrdnstts|Haradian]] arms," a patrol-leader says to the new troopers at [[place-zileti|Zileti]], "and I will not explain it to you, because nobody has explained it to me." The Halzi'a's work is to keep the pastures and the watch: the horses graze the margin, the levies ride its edge, and the herding clans beyond it are traded with warily and watched always. The Halzi'a house is **Tha'Ulgau**, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and it makes the yearly offering at [[place-zelhalzi|Zel-Halzi]]. His seat is [[place-zileti|Zileti]], where his court sits and the selat's chief temple of Uqa'â stands.
 
 ## Commerce and Currency
 
@@ -95,3 +95,4 @@ Zu-Qeztu uses the [[lore-aukhlthcrncy|Aû'Khelâthu currency]]. The [[affiliatio
 - [[affiliation-uqaa|Faith of Uqa'â]]—Patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-zuqeztunome|Zu-Qeztu]]—The land the selat holds
+- [[lore-thaulgau|The Coming of the Tha'Ulgau]]—How the Halzi'a house came to the west

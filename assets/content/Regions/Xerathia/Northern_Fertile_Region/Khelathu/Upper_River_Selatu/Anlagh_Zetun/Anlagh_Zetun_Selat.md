@@ -23,7 +23,7 @@ data:
 
 ## Character
 
-The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetûn]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment.
+The survey scribe's year has five verbs, and [[place-anlaghzetun|Anlagh-Zetûn]] runs on them: the fields are drowned, re-measured, planted, harvested and rendered, season upon season and generation upon generation. Here more than anywhere the surveyor's cord and the scribe's tally rule the calendar. This is the heartland's heartland, broad, fertile, settled and stubbornly traditional. It is not an exciting selat, and it would take that as a compliment. The Halzi'a's house is **Anlaghet'Zaru**, which raised the basin against the god-king's guard in 268 AF ([[lore-sealedgran|the Battle of the Sealed Granaries]]) and keeps the sealed dome of [[place-eleventhgran|the Eleventh Granary]] shut to this day.
 
 ## Economy
 

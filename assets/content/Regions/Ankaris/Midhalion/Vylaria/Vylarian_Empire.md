@@ -215,7 +215,7 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 - **[[affiliation-cnfdrtnhrdnstts|Harad]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Haradian merchant guilds are pushing hard into markets the empire once dominated.
 - **[[place-helionis|Heliónis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Heliónis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even as imperial authority there fades.
 - **[[place-vrystwald|Vrystwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
-- **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
+- **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
 
 ## Notable Features
 

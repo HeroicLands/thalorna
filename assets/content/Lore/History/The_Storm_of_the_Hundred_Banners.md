@@ -52,6 +52,10 @@ data:
             how: >-
               in the spring the march kingdom of Marupāla meets the host where the Western Descent opens onto the march road and dies there with its last king; nobody is left to burn the dead, and the field is the thinnest shorukshetra in Vedyara
             knowledge: named
+          - place: place-khuqetmiglet
+            how: >-
+              the host strikes the wells of Aû'Khelâthu's eastern road the same year; a frontier commander seizes the throne to meet it, and the empire walls the wells in the decades after
+            knowledge: named
       accounts:
         - by: place-khzryndsrtrgn
           says: >-

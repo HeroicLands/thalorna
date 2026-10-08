@@ -3,7 +3,7 @@ shortcode: gezazabuselt
 name: {full: Gezazabu Selat, aliases: []}
 type: place
 subType: region
-description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethûa—the land of the Selat of Gezazabu, one of the delta selatu of Aû'Khelâthu."
+description: "Western delta port; salt-fish, curing-houses, and the trade road to Bethûa—the land of the Selat of Gezazabu, one of the delta selatu of Aû'Khelâthu."
 tags: [region]
 data:
   banner: khelathubnr
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Gezazabu Selat** is the land of the [[affiliation-selatgezazab|Selat of Gezazabu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is an eastern delta port and its hinterland: the selat's trade is salt-fish and the curing-houses that make it, and the trade road to **Bethûa** runs out of it.
+**Gezazabu Selat** is the land of the [[affiliation-selatgezazab|Selat of Gezazabu]], one of the [[affiliation-deltaselatu|Delta Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and it lies within the [[place-aukhelathrgq|Aû'Khelâthu Region]]. It is an western delta port and its hinterland: the selat's trade is salt-fish and the curing-houses that make it, and the trade road to **Bethûa** runs out of it.
 
 "Boats go out at night and come back with the dawn tide," says a curing-house hand, rinsing a scaled blade in a trough as the first baskets are hauled up the ramp. "By noon the fish is split and under salt. By the time the barrels are on a cart, they are already somebody's dinner."
 

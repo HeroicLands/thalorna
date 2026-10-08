@@ -86,7 +86,7 @@ The **Selat of Anlagh-Zetûn** holds the land of [[place-anlaghztnslt|Anlagh-Zet
 
 ## Character
 
-The great families of the selat have farmed the same flood-basins for longer than the current dynasty has existed. They guard their land, their grain-rents and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is [[lore-qearetdty|Qe'âret]], goddess of order, truth and right measure, a fit patron for a country whose life turns on the survey of fields, the assessment of harvests and the honest filling of granaries.
+The great families of the selat have farmed the same flood-basins for longer than the current dynasty has existed. They guard their land, their grain-rents and their ancient privileges with the patience of men who measure time in floods rather than reigns. The selat's patron is [[lore-qearetdty|Qe'âret]], goddess of order, truth and right measure, a fit patron for a country whose life turns on the survey of fields, the assessment of harvests and the honest filling of granaries. The house that holds the Halzi'a's seat is **Anlaghet'Zaru**, whose head raised the upper river in 2378 ST (268 AF) ([[lore-sealedgran|the Battle of the Sealed Granaries]]); the house keeps [[place-eleventhgran|the Eleventh Granary]] shut by order, and the selat marks the anniversary each year with the Bread for the Gate.
 
 ## For the Worldbuilder
 

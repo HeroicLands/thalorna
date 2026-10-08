@@ -52,6 +52,11 @@ data:
           agrees: partly
           withholds: how much of Harad's war was bought
         - {by: affiliation-empireakhlth, says: Humanitarian commerce., agrees: denies}
+        - by: affiliation-empireakhlth
+          says: >-
+            The court of Meqes XVI sent gold, weapons and military advisors across the sea to the Haradian rising, as an earlier queen had sent gold and engineers to Bethûa, and it entered the aid in no king-list and no tax roll.
+          agrees: partly
+          withholds: which officers sailed, and what the Gár-Hálzi lent
         - by: place-helionis
           says: >-
             A grown child to an aging parent—respectful, complicated, and occasionally resentful.
