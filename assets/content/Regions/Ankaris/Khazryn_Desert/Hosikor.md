@@ -32,15 +32,15 @@ Among them live the **Ruweles**, "the water people", small kin-groups of the dee
 
 ## Dangers
 
-The dead cities are the region's reputation. A league of caravan towns once stood on the first Celestial Road, and its towers were lighthouses, lit at night so that strings could march in the cool and steer for the next well. The road bends three days south round **Jilaq**, "the lantern", the league's chief city, where a dozen towers still stand over a ring wall and the ground is a blood-field of the thin kind, crossed at night by hunters in semi-material form. A smaller tower city, [[place-wilud|Wilud]], "the wonder", is half drowned in a moving dune sea, and every generation or so the dunes uncover whole streets of it.
+The dead cities are the region's reputation. A league of caravan towns once stood on the first Celestial Road, and its towers were lighthouses, lit at night so that strings could march in the cool and steer for the next well. The road bends three days south round [[place-jilaq|Jilaq]], "the lantern", the league's chief city, where a dozen towers still stand over a ring wall and the ground is a blood-field of the thin kind, crossed at night by hunters in semi-material form. A smaller tower city, [[place-wilud|Wilud]], "the wonder", is half drowned in a moving dune sea, and every generation or so the dunes uncover whole streets of it.
 
-The dry lake [[place-ewod|Ewod]] is crusted with salt over brine mud, and stepped mounds at its old shore hold glazed tiles and sealed jars. A cut stair-well, [[place-qelod|Qelod]], drops three hundred feet to a water table that has fallen below its bottom. A green oasis of sweet water and heavy palms, **Wemaq**, "the dead", lies near the road and nobody camps there, for it is a blood-field of the moderate kind where everything grows too well and the dreams that come with it are of a battle. A caravan town on the southern spur, **Qìmod**, "the silent", is sacked and whole and empty; no bird sings in it and no flame stays lit, and it is a thin blood-field too.
+The dry lake [[place-ewod|Ewod]] is crusted with salt over brine mud, and stepped mounds at its old shore hold glazed tiles and sealed jars. A cut stair-well, [[place-qelod|Qelod]], drops three hundred feet to a water table that has fallen below its bottom. A green oasis of sweet water and heavy palms, [[place-wemaq|Wemaq]], "the dead", lies near the road and nobody camps there, for it is a blood-field of the moderate kind where everything grows too well and the dreams that come with it are of a battle. A caravan town on the southern spur, [[place-qimod|Qìmod]], "the silent", is sacked and whole and empty; no bird sings in it and no flame stays lit, and it is a thin blood-field too.
 
 Beyond the cities there are giant camel spiders at every well, bone scorpions in the shade of the standing towers, and the dune collapses that take a camel and its load in a breath.
 
 ## Hooks
 
-- A Byzarian factor will pay a fortune for one lens of tower-glass from Jilaq, the clearest anyone has seen, and the road bends three days round it for a reason.
+- A Byzarian factor will pay a fortune for one lens of tower-glass from [[place-jilaq|Jilaq]], the clearest anyone has seen, and the road bends three days round it for a reason.
 - A Ruwel band has found that a street of Wilud has opened this season and is selling the news to two buyers at once.
 - A salt-cutter's son broke through the crust at Ewod and found a dry stair going down. His father wants to know whether he was lying.
 - The tribe that holds Qelod wants it cleared, and nobody of theirs will go down.

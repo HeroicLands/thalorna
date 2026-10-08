@@ -160,6 +160,7 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `valsum` | lake                        |
 | `pedin`  | field                       |
 | `harmin` | waste, desert               |
+| `sirvel` | cursed, forbidden           |
 
 ### Sowides
 
@@ -268,6 +269,7 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `jonhik` | ground, earth                      |
 | `holqen` | unification, a gathering of tribes |
 | `qìmod`  | silent, still                      |
+| `kòjid`  | cursed, forbidden                  |
 
 ### Ātárzādi
 
@@ -429,6 +431,10 @@ Worked names and words, each built from the stems above.
 | Yolequd     | `sowides`  | salt-doer: the salt-dust spirit                               | `yoleq` + `-ud`             |
 | Numek       | `sowides`  | night: the tower-roost colony                                 | `numek`                     |
 | Yiqnotud    | `sowides`  | the hunter: the steppe hunter                                 | `yiqnot` + `-ud`            |
+| Henhulpedin | `tellumi`  | blood-field: the field of the Breaking outside Zargandûr      | `henhul` + `pedin`          |
+| Sirvelpedin | `tellumi`  | cursed field: a thin blood-field                              | `sirvel` + `pedin`          |
+| Rùhiqjonhik | `sowides`  | blood-ground: a blood-field                                   | `rùhiq` + `jonhik`          |
+| Kòjidjonhik | `sowides`  | cursed ground: a thin blood-field                             | `kòjid` + `jonhik`          |
 
 ## Names older than the rules
 
@@ -529,6 +535,14 @@ Every name of every note in the region stands here with the note it names and it
 | Zevârad Dathvarûn                             | [[being-zevaradthvrn\|Zevârad Dathvarûn]]                          | `older`   | a name older than the rules                               |
 | Wilud                                         | [[place-wilud\|Wilud]]                                             | `sowides` | `wilud`                                                   |
 | The Half-Buried Towers                        | [[place-wilud\|Wilud]]                                             | `gloss`   | a glossed name on `Wilud`                                 |
+| Jilaq                                         | [[place-jilaq\|Jilaq]]                                             | `sowides` | `jilaq`                                                   |
+| The Lantern City                              | [[place-jilaq\|Jilaq]]                                             | `gloss`   | a glossed name on `Jilaq`                                 |
+| Wemaq                                         | [[place-wemaq\|Wemaq]]                                             | `sowides` | `wemaq`                                                   |
+| The Green Oasis                               | [[place-wemaq\|Wemaq]]                                             | `gloss`   | a glossed name on `Wemaq`                                 |
+| Qìmod                                         | [[place-qimod\|Qìmod]]                                             | `sowides` | `qìmod`                                                   |
+| The Silent Market                             | [[place-qimod\|Qìmod]]                                             | `gloss`   | a glossed name on `Qìmod`                                 |
+| Henhulpedin                                   | [[place-henhulpedin\|Henhulpedin]]                                 | `tellumi` | `henhul` + `pedin`                                        |
+| The Blood-field of the Breaking               | [[place-henhulpedin\|Henhulpedin]]                                 | `gloss`   | a glossed name on `Henhulpedin`                           |
 | Ewod                                          | [[place-ewod\|Ewod]]                                               | `sowides` | `ewod`                                                    |
 | The Salt Basin                                | [[place-ewod\|Ewod]]                                               | `gloss`   | a glossed name on `Ewod`                                  |
 | Qelod                                         | [[place-qelod\|Qelod]]                                             | `sowides` | `qelod`                                                   |

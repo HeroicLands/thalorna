@@ -35,7 +35,7 @@ East-bound; the road west reverses them.
 | 120 to 550     | 7 to 30  | the springs of Welqator                | a day or two apart; raiders test unescorted strings                   |
 | 550            | 30       | [[place-yemokwell\|Yemok]]             | the first hand-off well                                               |
 | 600 to 710     | 32 to 38 | the Long Dry                           | five waterless days; the horses drink from skins                      |
-| 800            | 44       | the towers of **Jilaq** on the horizon | the road bends three days south round a thin blood-field              |
+| 800            | 44       | the towers of [[place-jilaq\|Jilaq]] on the horizon | the road bends three days south round a thin blood-field              |
 | 1,150          | 66       | [[place-qisomrktcmp\|Qìso]]            | the central market-camp; most goods change hands; the costliest water |
 | 1,150 to 1,700 | 66 to 96 | the Central Sands                      | wells three to five days apart                                        |
 | 1,700          | 96       | [[place-sowidwell\|Sowid]]             | the second hand-off well                                              |
