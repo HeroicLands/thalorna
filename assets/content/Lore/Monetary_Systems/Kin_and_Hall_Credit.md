@@ -45,7 +45,7 @@ The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates p
 
 ### Steppe Tribal Credit
 
-The tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe answer to no common authority, so their credit is a web of agreements between single tribes and single houses, struck one stretch of road at a time. The system is similar to the Dunhari but operates over wider distances, because [[lore-celestialroad|the Celestial Road]] connects strangers across thousands of miles. A **caravan-master** crossing it buys passage from some thirty-five tribes in turn and carries not only his own commercial relationships but the obligations of his backing house, which stand surety for every tribe he owes.
+The [[lore-sowidesclt|Sowides]] tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe answer to no common authority, so their credit is a web of agreements between single tribes and single houses, struck one stretch of road at a time. The system is similar to the Dunhari but operates over wider distances, because [[lore-celestialroad|the Celestial Road]] connects strangers across thousands of miles. A **caravan-master** crossing it buys passage from some thirty-five tribes in turn and carries not only his own commercial relationships but the obligations of his backing house, which stand surety for every tribe he owes.
 
 A tribe takes goods in hand when it can get them. A master short of goods pays in his house's name: the tribe cuts the debt on a tally, and its rider carries word of it to the next tribe along the road. If the house defaults, every tribe holding its name closes its wells to the house's next caravan, and the word travels with the riders faster than any camel.
 
@@ -78,7 +78,7 @@ Kin-and-hall credit is the dominant commercial credit system in:
 - The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)—the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
 - [[place-vrystwald|Vrystwald]]—similar; the cities have minor moneylender activity but the interior runs on clan-credit
 - The [[place-dunharargn|Dunhara]]—tribal kin-credit is the only credit infrastructure
-- The steppe tribes of the [[place-khzryndsrtrgn|Khazryn]]—each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
+- The [[lore-sowidesclt|Sowides]] tribes of the [[place-khzryndsrtrgn|Khazryn]]—each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
 - The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]—clan-credit operates in the partially-settled communities
 - The deep rural areas of every settled polity—even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
 

@@ -459,6 +459,11 @@ The setting's names of places, peoples and persons are older than the three tong
 | Razanash Mervaran | a name |
 | Sharmînah Tahvân  | a name |
 | Zevârad Dathvarûn | a name |
+| Âzardan           | a name |
+| Dûrmand           | a name |
+| Sahri             | a name |
+| Shirzâri          | a name |
+| Zarnûsh           | a name |
 
 ## Attested names
 
@@ -552,6 +557,13 @@ Every name of every note in the region stands here with the note it names and it
 | Atarzad                                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `faith`   | —                                                         |
 | The Flame-born                                | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `gloss`   | —                                                         |
 | The Twelve Tribes                             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `gloss`   | —                                                         |
+| Âzardan                                       | [[affiliation-zrdntrb\|Âzardan]]                                   | `older`   | a name older than the rules                               |
+| Dûrmand                                       | [[affiliation-drmndtrb\|Dûrmand]]                                  | `older`   | a name older than the rules                               |
+| Sahri                                         | [[affiliation-sahritrb\|Sahri]]                                    | `older`   | a name older than the rules                               |
+| Shirzâri                                      | [[affiliation-shrzrtrb\|Shirzâri]]                                 | `older`   | a name older than the rules                               |
+| Zarnûsh                                       | [[affiliation-zrnshtrb\|Zarnûsh]]                                  | `older`   | a name older than the rules                               |
+| Ruweles                                       | [[affiliation-rwlstrb\|Ruweles]]                                   | `sowides` | `ruwel` + `-es`                                           |
+| Hidden-Water Bands                            | [[affiliation-rwlstrb\|Ruweles]]                                   | `gloss`   | —                                                         |
 
 ### Language tags
 
