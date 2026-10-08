@@ -21,7 +21,7 @@ sohl:
 
 ## Overview
 
-Ösket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with Khazri, with Tānvüri or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Öskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
+Ösket is related to nothing in any lowland family. It shares no root stock with [[skill-vedyarlng|Vedyari]], with Tellumi, with Tānvüri or with anything else that has been compared with it, and the comparisons have been made: a Vedyari grammarian spent four seasons at [[place-oskhelt|Öskhelt]] two centuries ago and published a careful, competent account whose conclusion was that there was nothing to connect it to.
 
 Almost no outsider speaks it. What lowlanders learn is a road-pidgin of perhaps two hundred words—loads, weather, halt, go, water, rope, dead—and the Ösket teach that pidgin willingly and the language not at all. There is no prohibition. There is simply no occasion on which an Ösket has ever needed a lowlander to understand more.
 

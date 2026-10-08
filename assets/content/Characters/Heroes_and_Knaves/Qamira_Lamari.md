@@ -489,7 +489,7 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 ### Patrons
 
-The House of Khán
+The House of Varendi
 : A powerful noble family that has patronized Qâmira for thirty years. They consult her before major decisions and have consistently paid her handsomely for her counsel. The current patriarch, Lord Devendra, views her as essential to his political strategy, though Qâmira considers most of his decisions foolish.
 
 The Council of the Panepistemium

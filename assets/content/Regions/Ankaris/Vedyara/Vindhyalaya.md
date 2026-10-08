@@ -130,7 +130,7 @@ The rock is another matter. Silver and lapis out of [[place-slvrgorges|the Silve
 
 To the south, Shikharālaya's dealings with the river-valley kingdoms are long-standing and mostly cordial. Trade bonds are strong, marriages between Shikharālayan princesses and southern courts are a regular feature of Vedyari diplomacy, and southern merchants treat the kingdom as an indispensable partner. Border friction flares from time to time over grazing rights and customs rates, and outright war is rare.
 
-To the north, beyond the wall, lie the southern edge-towns of the Khazryn and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Shikharālaya in force, and no horde has ever forced a Grazian pass; the one armed force to come over the wall came by the conch-door, which the kingdom does not hold. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
+To the north, beyond the wall, lie the southern edge-towns of the Khazryn and the confederations that hold them. Neither the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] nor the [[affiliation-tribestrzd|Ātárzád]] can reach Shikharālaya in force, and no horde has ever forced a Grazian pass; the one armed force to come over the wall came by the conch-door, which the kingdom does not hold. The relationship is commercial, conducted through the edge-town markets and renegotiated season by season as tolls, escort fees and the quality of the year's horses require. The kingdom keeps no garrison beyond the summits and none stands against it.
 
 To the **northeast**, by the eastern branch of the pass-roads, lie the western marches of [[affiliation-tanvurempr|Tānvür]]. The branch is longer, higher and lightly traveled. Tānvüri scholarly envoys appear at the Shikharālayan court every few decades, and a Tānvüri community has lived in Sūryagarha for centuries.
 
@@ -149,7 +149,7 @@ Shikharālaya holds a seat in the [[affiliation-assmblycmpct|Assembly of the Com
 - [[place-suryadvara|Sūryadvāra]]—the pass the capital stands across
 - [[place-graznmntns|The Grazian Mountains]]—the wall the kingdom's passes cross
 - [[affiliation-osketguides|The Ösket]] and [[affiliation-hvarnguides|the Hvarn]]—the guide-peoples above the shrines
-- [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-tribestrzd|Ātárzád]]—trading partners beyond the summits
+- [[affiliation-khzrncnfdrtn|Tellumi Confederation]], [[affiliation-tribestrzd|Ātárzád]]—trading partners beyond the summits
 - [[affiliation-chandrapur|Chandrapur]], [[affiliation-vyalendra2|Vyālendra]]—southern trade partners
 - [[affiliation-varakpnthn|Varnaka Pantheon]]—religious tradition
 - [[place-vedyarargn|Vedyara Region]]—regional overview
