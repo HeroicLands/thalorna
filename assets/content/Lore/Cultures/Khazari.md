@@ -19,7 +19,7 @@ Good is accord with the mountain: work that follows the grain, opens what the ro
 
 Listening is hard work. Knowing what a face of limestone will bear, where a granite will part cleanly and where a slate will flake takes deep knowledge, long patience and real skill, and a Khazár who waits without understanding is no better than one who strikes without understanding. The word for patience, _pazal_, is a word of the workshop before it is a word of temperament.
 
-A clumsy cut, a _gharp_, is therefore a serious matter. It is entered in the record of the work, it is answered by the person who made it, and it stays in the stone after everyone who saw it made is dead.
+A clumsy cut, a gharp, is therefore a serious matter. It is entered in the record of the work, it is answered by the person who made it, and it stays in the stone after everyone who saw it made is dead.
 
 ## The Light Hand
 
@@ -35,7 +35,7 @@ They hold display, haste and waste in contempt. A thing made to be looked at fro
 
 ## A City Found in the Cliff
 
-A hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them in their own way, and a settlement takes the form of the caves its mountain already has. Large karst caverns in limestone become halls, shrines, cisterns and storehouses. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. Founding a hold means finding its cave, and a _fakar_, a cave newly found, is the first thing any hold has.
+A hold is found before it is made. Where a mountain holds caves, the Khazári take them and adapt them in their own way, and a settlement takes the form of the caves its mountain already has. Large karst caverns in limestone become halls, shrines, cisterns and storehouses. Digging is the exception, and what they do cut is the least that joins, levels or opens what the rock already almost holds. Founding a hold means finding its cave, and a fakar, a cave newly found, is the first thing any hold has.
 
 The Khazári disdain a straight line. Tunnels wind because they follow the rock's contours along joints, bedding planes, faults and overhangs, and a straight cut reads to them as proof that the stone was forced. The true line, _varn_, is the line the rock runs. The [[lore-theithari|Ithári]] draw exact, deliberate curves; a Khazári curve is irregular, because it is the rock's line and the maker only follows it.
 
@@ -51,13 +51,13 @@ A hold aims at harmony with its mountain and makes no great effort to hide that 
 - **Smoke.** Flues follow natural fissures and let smoke disperse along the face, so a hold does not sit under a plume.
 - **Movement.** The passages are inside the rock, so the face carries no roads, switchbacks or tracks.
 - **Spoil.** Little is cut, so little spoil is made. What is removed is reused or carried away, never dumped as a scar on the mountain.
-- **Water.** Cisterns and natural seeps inside the mountain, fed by channels along existing watercourses. A _hutavar_, a cistern, is usually a hollow the rock already held.
+- **Water.** Cisterns and natural seeps inside the mountain, fed by channels along existing watercourses. A hutavar, a cistern, is usually a hollow the rock already held.
 
 ## Depth
 
 Depth carries weight. The deeper a space lies, the older, holier or more serious its purpose: shrines, tombs, mine workings, the _hukhard_ that is a hold's inmost hall, and the refuge all lie deep, and they are used less in daily life than the rooms near the light.
 
-Every hold keeps a **refuge**, a _famgadurákh_, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defense is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
+Every hold keeps a **refuge**, a famgadurákh, deep in the rock, where the whole population can be gathered and sealed off from an attacker. It is provisioned with stored food and with shafts and channels for light and air, so the hold can hold out for a long time. Defense is always a consideration, and a hold's founding is not complete until its refuge is found and readied.
 
 Ordinary life happens near the light, in the shallow homes and the courts between them. People go down into the mountain for funerals, festivals, oaths and worship, and in times of war or catastrophe. A Khazár who is asked to come down is being told that something serious is about to happen.
 
@@ -71,11 +71,11 @@ Before any cut, a worker listens. She taps the stone and hears how it rings, loo
 
 Mining is central to Khazári life. Ore and minerals are necessary and desirable, and freeing them from the stone is honorable work. It is done in an old and almost ritual manner, by techniques that do the stone as little harm as they can.
 
-Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a _narvavutám_, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
+Tunnels follow the rock's own lines, so the stone provides its own buttressing. That lets the Khazári drive long tunnels without timber or masonry supports, and a narvavutám, a long tunnel that needs no prop, is the miner's masterpiece. A mine that needs propping shows that the miners did not listen, and a prop, a _sakap_, is a mark of shame on the working and on the name in its record. The mines Khazári engineers lay out for [[affiliation-tanvurempr|Tānvür]] follow the rock in the same way and need no timber.
 
 ## Years of Listening
 
-Apprenticeship begins with listening, _samgh_. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little."
+Apprenticeship begins with listening, samgh. An apprentice, a _nabaf_, spends years learning to read stone (its kinds, its flaws, its stresses and its moods) before being trusted to strike it. The first years are spent sounding stone, following seams, watching masters decide where not to cut, and writing down what the stone did. An apprentice who asks too early for a hammer is told to listen another year, and taught the proverb _Dalkir sumágh-ak dalkam, dalkir khusáp-ak_: "the mason listens to the stone; the mason cuts little."
 
 The ladder of a life follows the same order:
 
@@ -155,7 +155,7 @@ The Khazári hold that the dead go down into the mountain's keeping, to the ligh
 
 That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: a house spends its effort on keeping the dead's work sound and little on furnishing a tomb.
 
-At a funeral the hold goes down and keeps silence over the dead, _khullán_. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
+At a funeral the hold goes down and keeps silence over the dead, khullán. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
 
 ## Keeping the Work of the Dead
 
@@ -224,3 +224,71 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 - [[lore-elderraces|Elder Races]]—the Khazári in Tānvür
 - [[lore-khazarturn|The Fall of Khazártúrn]]—the city of the seven towers
 - [[lore-goddreams|The God of Dreams]]—Luváth
+
+## Glossary {#glossary}
+
+| Term        | Meaning                                                                                  |
+| ----------- | ---------------------------------------------------------------------------------------- |
+| bek         | And; joins the sixteens of a number to its units.                                        |
+| bozd        | Four.                                                                                    |
+| dalkapuráz  | Carved Pirzath, cut across the grain along a seam, for oaths, laws, tombs and foundings. |
+| dolb        | Eleven.                                                                                  |
+| fadhaz      | A part; a sixteenth, into which the craft-records divide a measure.                      |
+| fakar       | A finding: a cave newly found, the first thing any hold has.                             |
+| fakarir     | A finder, who reads a mountain from outside and says where its caves and water run.      |
+| famgadurákh | A hold's refuge, deep in the rock, where its whole people can be sealed in.              |
+| famgafudhán | A hold's deepest sanctuary, the deep hallowed.                                           |
+| fegd        | Thirteen.                                                                                |
+| filnath     | An account; a telling written and kept.                                                  |
+| fozd        | Seven.                                                                                   |
+| gate-row    | The reduced row of Pirzath a hold taught its tribe for tally, mark, measure and oath.    |
+| gharp       | A clumsy cut, a wound in the stone, entered in the record against its maker's name.      |
+| girm        | Sixteen, the base of Khazári counting and its first round number.                        |
+| havadh      | A song; a deep song.                                                                     |
+| hukhard     | The heart of a hold, its inmost hall.                                                    |
+| hutavar     | A cistern, usually a hollow the rock already held.                                       |
+| huzafal     | A shrine.                                                                                |
+| kabr        | Eight.                                                                                   |
+| kamgh       | A lament.                                                                                |
+| khadhal     | The crossing: the seven clans' flight from Humadhan.                                     |
+| khardev     | A hold.                                                                                  |
+| khasp       | Restraint, the little cut; the virtue the workshops prize above skill.                   |
+| khatab      | A ruled line, a straight cut.                                                            |
+| khispath    | A work cut so sparingly that it barely shows.                                            |
+| khozm       | Nine.                                                                                    |
+| khullán     | The silence kept over the dead.                                                          |
+| kimghath    | A set lament, one kept and sung again.                                                   |
+| kirghath    | A ring of the old realm, forged to bend a mind and a soul.                               |
+| luváz       | To follow a seam.                                                                        |
+| madhak      | Living rock, the bedrock.                                                                |
+| maghar      | The grain, the way the rock runs.                                                        |
+| makas       | A cache of stores.                                                                       |
+| marg        | A bone; the three consonants of a name, which carved Pirzath cuts deep.                  |
+| mazadh      | A claim of work, said before others.                                                     |
+| mazk        | Twelve.                                                                                  |
+| milgath     | The hand form of Pirzath, the everyday writing.                                          |
+| nabaf       | An apprentice, who listens for years before striking anything that matters.              |
+| naghal      | A quake.                                                                                 |
+| narvavutám  | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.             |
+| nefk        | Six.                                                                                     |
+| oath-day    | A day on which an undertaking is sworn below and cut where it was spoken.                |
+| palgh       | A rockfall.                                                                              |
+| pamdh       | A foretelling.                                                                           |
+| pazal       | Patience, a word of the workshop before it is a word of temperament.                     |
+| sakap       | A prop, a timber set where the miners did not listen; a mark of shame.                   |
+| samgh       | Listening, attention to stone, where every apprenticeship begins.                        |
+| tamk        | Trust; the act of bringing an outsider inside a hold.                                    |
+| thulk       | Fifteen.                                                                                 |
+| thummár     | To strike as a master does.                                                              |
+| tob         | One.                                                                                     |
+| vagaz       | An outsider.                                                                             |
+| varn        | The true line, the line the rock runs.                                                   |
+| vazan       | A saying, a proverb.                                                                     |
+| vazath      | A great count: sixteen sixteens, 256.                                                    |
+| vem         | Three.                                                                                   |
+| vunth       | Fourteen.                                                                                |
+| zagar       | A fault, where the rock has slipped.                                                     |
+| zalm        | A charm.                                                                                 |
+| zik         | Two.                                                                                     |
+| zom         | Five.                                                                                    |
+| zund        | Ten.                                                                                     |

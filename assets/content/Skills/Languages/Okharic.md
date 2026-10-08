@@ -39,7 +39,7 @@ Okháric employs a moderately-complex consonantal inventory influenced by areal 
 
 **Fricatives:**
 
-- Unvoiced: f, s, sh (as in "ship"), kh (as in Scottish "loch")
+- Unvoiced: f, s, sh (as in "ship"), kh (a rasp at the back of the throat, as when clearing it)
 - Voiced: z, zh (as the "s" in "measure")
 
 **Nasals:** m, n, ng (ŋ, particularly in final position)

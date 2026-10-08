@@ -65,3 +65,17 @@ Hvarn words are short and heavy, and a word may be spoken with no vowel in it at
 - [[place-estrnreach|The Eastern Reach]]—the two crossings and the weather on them
 - [[place-sanghafort|The Fort]]—the garrison the pack-trains feed
 - [[lore-osketclt|Ösket]]—the other guide-people of the wall
+
+## Glossary {#glossary}
+
+| Term           | Meaning                                                                                              |
+| -------------- | ---------------------------------------------------------------------------------------------------- |
+| bone-bringer   | Recoverer of the dead from the eastern gorges and keeper of the roll                                 |
+| fort-carrier   | Holder of the contract that feeds the Sangha-fort, and the one Hvarn who deals with lowland officers |
+| reach-guide    | A guide entrusted with a crossing of the Eastern Reach alone, answerable for whoever does not return |
+| roadwalker     | A guide taking parties over the crossings in another's charge, learning the weather                  |
+| storm-reader   | Reader of the eastern weather, whose refusal ends a day's travel                                     |
+| turn-keeper    | Keeper of the rotation and of what each hearth owes another                                          |
+| winter-speaker | Presiding officer of the winter council, with no authority once it rises                             |
+
+Janapada, Mela, shreni and ushtaka are loanwords from [[lore-vedyariclt#glossary|Vedyara]].

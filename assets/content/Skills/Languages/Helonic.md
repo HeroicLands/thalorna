@@ -50,7 +50,7 @@ The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -e
 Helonic maintains a moderate consonant inventory with some distinctive features:
 
 - **Stops:** p, b, t, d, k, g
-- **Fricatives:** f, th (as in "thin"), s, sh (as in "ship"), kh (the rasp of Scottish "loch"), gh (that same rasp voiced, softer than "g")
+- **Fricatives:** f, th (as in "thin"), s, sh (as in "ship"), kh (a rasp at the back of the throat, as when clearing it), gh (that same rasp voiced, softer than "g")
 - **Nasals:** m, n
 - **Liquids:** r, l
 - **Semivowels:** y (as in "yes"), w

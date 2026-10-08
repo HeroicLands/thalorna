@@ -59,3 +59,14 @@ Beneath all four he owes the observances—the stone, the crossroads, the lake�
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods of the southern and eastern realms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the conquered plain
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the Synod, and the only accurate map on the island
+
+## Glossary {#glossary}
+
+Every term of art these notes use. Aelwythans speak Élavendri, so its terms are in the [[lore-elavendriclt#glossary|Élavendri glossary]]; the Nordmen of Stormveld keep their own words.
+
+| Term           | Meaning                                                                               |
+| -------------- | ------------------------------------------------------------------------------------- |
+| Knight-Captain | A commander of the Order of the Just Blade, which serves as Dúnavarre's army          |
+| trackstone     | A standing marker of the old trackways in the Peshtar country, older than the Peshtar |
+
+Argentus (Argo), Aurion, Octus (Bit) and compulsory call are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Jarl is a loanword from [[lore-nordheimnclt#glossary|the Nordlands]].
