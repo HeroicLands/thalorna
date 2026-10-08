@@ -1,6 +1,6 @@
 ---
 shortcode: oasishirvn
-name: {full: Kenbel, aliases: []}
+name: {full: Oasis of Shirvan, aliases: []}
 type: place
 subType: settlement
 description: "Oasis Settlement"

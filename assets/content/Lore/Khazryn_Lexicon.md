@@ -373,189 +373,154 @@ A word no table lists is still good in its tongue if it is a listed stem through
 
 Worked names and words, each built from the stems above.
 
-| Word        | Tongue     | Gloss                                                                             | Derivation                  |
-| ----------- | ---------- | --------------------------------------------------------------------------------- | --------------------------- |
-| Tellumi     | `tellumi`  | the people of the high springs                                                    | `te` + `lu` + `-mi`         |
-| Tellumel    | `tellumi`  | the land of the Tellumi                                                           | `te` + `lu` + `-mi` + `-el` |
-| Tennelimar  | `tellumi`  | high-water town                                                                   | `te` + `nelim` + `-ar`      |
-| Talbemun    | `tellumi`  | the house of the tower                                                            | `talbem` + `-un`            |
-| Velkunar    | `tellumi`  | the lost town                                                                     | `velkun` + `-ar`            |
-| Vurinul     | `tellumi`  | a man's name: holy                                                                | `vurin` + `-ul`             |
-| Lisene      | `tellumi`  | a woman's name: moon                                                              | `lisen` + `-e`              |
-| Sowides     | `sowides`  | the riders, the steppe peoples' name for themselves                               | `sowid` + `-es`             |
-| Orqwenoq    | `sowides`  | a confederation under one paramount chief                                         | `orqwen` + `-oq`            |
-| Kweduhes    | `sowides`  | the horse people                                                                  | `kwedu` + `-es`             |
-| Kweduruweq  | `sowides`  | horse of the wind                                                                 | `kwedu` + `ruweq`           |
-| Jedoroqid   | `sowides`  | road camp, a caravan halt                                                         | `jedor` + `roqid`           |
-| Gweranoq    | `sowides`  | the storm confederation                                                           | `gweran` + `-oq`            |
-| Dikraqor    | `sowides`  | the stone range                                                                   | `dikraq` + `-or`            |
-| Jadekud     | `sowides`  | a raider                                                                          | `jadek` + `-ud`             |
-| Wogeltolis  | `sowides`  | a man's name: wolf-spear                                                          | `wogel` + `tolis`           |
-| Tijòdye     | `sowides`  | a woman's name: star                                                              | `tijòd` + `-ye`             |
-| Qūrbelūkhem | `atarzadi` | the council of the well                                                           | `qūrbel` + `lūkhem`         |
-| Zhōqarōd    | `atarzadi` | a tribe: the sons of war                                                          | `zhōqar` + `-ōd`            |
-| Hōmzelūn    | `atarzadi` | the whole people                                                                  | `hōmzel` + `-ūn`            |
-| Shēkhulēz   | `atarzadi` | the place of the flame                                                            | `shēkhul` + `-ēz`           |
-| Zhōqarekh   | `atarzadi` | a warrior                                                                         | `zhōqar` + `-ekh`           |
-| Gherōsōr    | `atarzadi` | a man's name: horse                                                               | `gherōs` + `-ōr`            |
-| Yūremāt     | `atarzadi` | a woman's name: song                                                              | `yūrem` + `-āt`             |
-| Kenbel      | `tellumi`  | the first: the first and holiest city, under the cliff                            | `kenbel`                    |
-| Yisurel     | `tellumi`  | salt land: the city by the salt pans at the west end of the belt                  | `yisur` + `-el`             |
-| Himbar      | `tellumi`  | the market: the merchant city                                                     | `himbar`                    |
-| Gudelun     | `tellumi`  | the house of the wall: the war-house's fortress city                              | `gudel` + `-un`             |
-| Hulenul     | `tellumi`  | a man's name, Dawn: the junction city named for its founder                       | `hulen` + `-ul`             |
-| Tenhur      | `tellumi`  | the peak: the remote city under the Eastern Reach                                 | `tenhur`                    |
-| Dēlkosh     | `atarzadi` | the word: the later college city of the belt                                      | `dēlkosh`                   |
-| Tekevar     | `tellumi`  | the high cliff, beneath which Kenbel's spring rises                               | `te` + `kevar`              |
-| Genbunel    | `tellumi`  | the land of the descent: the Western Descent of the Grazian Mountains             | `genbun` + `-el`            |
-| Turem       | `tellumi`  | the Breaking: the Ātárzád conquest of the four cities                             | `turem`                     |
-| Gurdi       | `tellumi`  | the pass: the passages in the Grazian north face                                  | `gurdi`                     |
-| Velkun      | `tellumi`  | the lost: the ruins beneath the reclaimed settlement of Velkunar                  | `velkun`                    |
-| Murele      | `tellumi`  | a woman's name: memory (scholar-theologian of the senior house)                   | `murel` + `-e`              |
-| Sunhemul    | `tellumi`  | a man's name: gold (the wealthy trader of the merchant house)                     | `sunhem` + `-ul`            |
-| Kirelul     | `tellumi`  | a man's name: spear (the young soldier of the war-house)                          | `kirel` + `-ul`             |
-| Vurine      | `tellumi`  | a woman's name: holy (the Mōbad of the priest-house)                              | `vurin` + `-e`              |
-| Bernirul    | `tellumi`  | a man's name: oath (the cautious prince of the western oasis)                     | `bernir` + `-ul`            |
-| Karvemul    | `tellumi`  | a man's name: stone (the hard prince of the far east)                             | `karvem` + `-ul`            |
-| Revunul     | `tellumi`  | a man's name: to return (head of the revived house)                               | `revun` + `-ul`             |
-| Nelimul     | `tellumi`  | a man's name: water (keeper of the water-shrine teaching)                         | `nelim` + `-ul`             |
-| Talvulun    | `tellumi`  | a house name: the house of the palm                                               | `talvul` + `-un`            |
-| Danilul     | `tellumi`  | a man's name: gift                                                                | `danil` + `-ul`             |
-| Hudelun     | `tellumi`  | a house name: the house of the goat                                               | `hudel` + `-un`             |
-| Tamkere     | `tellumi`  | a woman's name: copper (an armorer)                                               | `tamker` + `-e`             |
-| Budilun     | `tellumi`  | a house name: the house of the shield                                             | `budil` + `-un`             |
-| Perime      | `tellumi`  | a woman's name: hearth-fire (a chandler)                                          | `perim` + `-e`              |
-| Nebalun     | `tellumi`  | a house name: the house of the sheep                                              | `nebal` + `-un`             |
-| Yalgeme     | `tellumi`  | a woman's name: garden (a perfumer)                                               | `yalgem` + `-e`             |
-| Lisenun     | `tellumi`  | a house name: the house of the moon                                               | `lisen` + `-un`             |
-| Zēlum       | `atarzadi` | going out (the prophet of the Exodus)                                             | `zēlum`                     |
-| Zūrkhem     | `atarzadi` | the one who takes (the successor who conquered the cities)                        | `zūrkhem`                   |
-| Lūkhemēz    | `atarzadi` | the place of the council: the priestly seat where the Council of the Twelve meets | `lūkhem` + `-ēz`            |
-| Tōqēl       | `atarzadi` | to keep: Keeper of the Unconsuming Flame                                          | `tōqēl`                     |
-| Dūkhen      | `atarzadi` | judge: the leader acclaimed in a crisis                                           | `dūkhen`                    |
-| Rēzhul      | `atarzadi` | prince of a tribe: a tribe's hereditary chieftain                                 | `rēzhul`                    |
-| Khēmōz      | `atarzadi` | sword: the warrior society of the war-tribe                                       | `khēmōz`                    |
-| Tūlqen      | `atarzadi` | shield: the warrior society of the keeper-tribe                                   | `tūlqen`                    |
-| Bīzhun      | `atarzadi` | spear: the warrior society of the uncompromising tribe                            | `bīzhun`                    |
-| Būshkelōd   | `atarzadi` | sons of the market: the merchant tribe                                            | `būshkel` + `-ōd`           |
-| Shēkhulōd   | `atarzadi` | sons of the flame: the keeper tribe                                               | `shēkhul` + `-ōd`           |
-| Tōzhirōd    | `atarzadi` | sons of the law: the scholar tribe                                                | `tōzhir` + `-ōd`            |
-| Ēlqushōd    | `atarzadi` | sons of the oath: the uncompromising tribe                                        | `ēlqush` + `-ōd`            |
-| Gherōsōd    | `atarzadi` | sons of the horse                                                                 | `gherōs` + `-ōd`            |
-| Bōzekhōd    | `atarzadi` | sons of the camel                                                                 | `bōzekh` + `-ōd`            |
-| Nōghezōd    | `atarzadi` | sons of the herd                                                                  | `nōghez` + `-ōd`            |
-| Kēlumōd     | `atarzadi` | sons of the sheep                                                                 | `kēlum` + `-ōd`             |
-| Hōzhīrōd    | `atarzadi` | sons of the date palm                                                             | `hōzhīr` + `-ōd`            |
-| Lēqoshōd    | `atarzadi` | sons of the garden                                                                | `lēqosh` + `-ōd`            |
-| Sēkholōd    | `atarzadi` | sons of the spring                                                                | `sēkhol` + `-ōd`            |
-| Tōshel      | `atarzadi` | kin (the patriarch of the twelve tribes)                                          | `tōshel`                    |
-| Sīghot      | `atarzadi` | elder (the Keeper of the Flame)                                                   | `sīghot`                    |
-| Nōzhik      | `atarzadi` | victory (the chief of the war-tribe)                                              | `nōzhik`                    |
-| Āqesh       | `atarzadi` | dawn (the young prophet)                                                          | `āqesh`                     |
-| Hāmekh      | `atarzadi` | to wander (the excommunicated merchant-prince)                                    | `hāmekh`                    |
-| Ghāzur      | `atarzadi` | great (the war-leader repudiated by the Council)                                  | `ghāzur`                    |
-| Zōghelōr    | `atarzadi` | a man's name: gold (an alchemist)                                                 | `zōghel` + `-ōr`            |
-| Tēqemāt     | `atarzadi` | a woman's name: holy (a priest of the Flame)                                      | `tēqem` + `-āt`             |
-| Ruweles     | `sowides`  | the water people: the hidden-water bands of the Central Sands                     | `ruwel` + `-es`             |
-| Yoweqes     | `sowides`  | the dog people: the jackal band                                                   | `yoweq` + `-es`             |
-| Wogeles     | `sowides`  | the wolf people                                                                   | `wogel` + `-es`             |
-| Kesuqes     | `sowides`  | the eagle people                                                                  | `kesuq` + `-es`             |
-| Hilodes     | `sowides`  | the sun people                                                                    | `hilod` + `-es`             |
-| Dikraqes    | `sowides`  | the stone people                                                                  | `dikraq` + `-es`            |
-| Gwatekor    | `sowides`  | the forest range: the northern taiga                                              | `gwatek` + `-or`            |
-| Welqator    | `sowides`  | the grass range: the Western Margin                                               | `welqat` + `-or`            |
-| Hosikor     | `sowides`  | the sand range: the Central Sands                                                 | `hosik` + `-or`             |
-| Idwakor     | `sowides`  | the east range: the Eastern Stone Desert                                          | `idwak` + `-or`             |
-| Pulekor     | `sowides`  | the dust range: the barren tract below the Eastern March                          | `pulek` + `-or`             |
-| Bolid       | `sowides`  | tower: the westernmost buried tower city                                          | `bolid`                     |
-| Jilaq       | `sowides`  | lantern: the tower league's chief city                                            | `jilaq`                     |
-| Wilud       | `sowides`  | wonder: the half-buried tower city                                                | `wilud`                     |
-| Ewod        | `sowides`  | lake: the dry salt lake                                                           | `ewod`                      |
-| Qelod       | `sowides`  | well: the stepped well                                                            | `qelod`                     |
-| Wemaq       | `sowides`  | the dead: the oasis nobody uses                                                   | `wemaq`                     |
-| Qìmod       | `sowides`  | silent: the sacked caravan town on the spur                                       | `qìmod`                     |
-| Osikor      | `sowides`  | the bone range: the rock-cut tombs of the uplands                                 | `osik` + `-or`              |
-| Ruweq       | `sowides`  | wind: the hollow hills                                                            | `ruweq`                     |
-| Roqid       | `sowides`  | camp: the Vylarian fort                                                           | `roqid`                     |
-| Qìso        | `sowides`  | price: the Central Road's seasonal market-camp                                    | `qìso`                      |
-| Qelodud     | `sowides`  | well-doer: the well-lurker                                                        | `qelod` + `-ud`             |
-| Orkesud     | `sowides`  | heat-doer: the mirage-stalker                                                     | `orkes` + `-ud`             |
-| Hosikud     | `sowides`  | sand-doer: the pit-maker                                                          | `hosik` + `-ud`             |
-| Budeq       | `sowides`  | vulture: the road-vulture                                                         | `budeq`                     |
-| Gwirador    | `sowides`  | camel of the range: the wild bull camel                                           | `gwirad` + `-or`            |
-| Yolequd     | `sowides`  | salt-doer: the salt-dust spirit                                                   | `yoleq` + `-ud`             |
-| Numek       | `sowides`  | night: the tower-roost colony                                                     | `numek`                     |
-| Yiqnotud    | `sowides`  | the hunter: the steppe hunter                                                     | `yiqnot` + `-ud`            |
-| Òwinye      | `sowides`  | a woman's name: sky (a shaman)                                                    | `òwin` + `-ye`              |
-| Ruweqes     | `sowides`  | a tribe: the wind people                                                          | `ruweq` + `-es`             |
-| Kwedutolis  | `sowides`  | a man's name: horse-spear (an animal trainer)                                     | `kwedu` + `tolis`           |
-| Gwirades    | `sowides`  | a tribe: the camel people                                                         | `gwirad` + `-es`            |
-| Huwenye     | `sowides`  | a woman's name: deer (a hunter's daughter and shaman)                             | `huwen` + `-ye`             |
-| Gwatekes    | `sowides`  | a tribe: the forest people                                                        | `gwatek` + `-es`            |
+| Word        | Tongue     | Gloss                                                         | Derivation                  |
+| ----------- | ---------- | ------------------------------------------------------------- | --------------------------- |
+| Tellumi     | `tellumi`  | the people of the high springs                                | `te` + `lu` + `-mi`         |
+| Tellumel    | `tellumi`  | the land of the Tellumi                                       | `te` + `lu` + `-mi` + `-el` |
+| Tennelimar  | `tellumi`  | high-water town                                               | `te` + `nelim` + `-ar`      |
+| Talbemun    | `tellumi`  | the house of the tower                                        | `talbem` + `-un`            |
+| Velkunar    | `tellumi`  | the lost town                                                 | `velkun` + `-ar`            |
+| Vurinul     | `tellumi`  | a man's name: holy                                            | `vurin` + `-ul`             |
+| Lisene      | `tellumi`  | a woman's name: moon                                          | `lisen` + `-e`              |
+| Sowides     | `sowides`  | the riders, the steppe peoples' name for themselves           | `sowid` + `-es`             |
+| Orqwenoq    | `sowides`  | a confederation under one paramount chief                     | `orqwen` + `-oq`            |
+| Kweduhes    | `sowides`  | the horse people                                              | `kwedu` + `-es`             |
+| Kweduruweq  | `sowides`  | horse of the wind                                             | `kwedu` + `ruweq`           |
+| Jedoroqid   | `sowides`  | road camp, a caravan halt                                     | `jedor` + `roqid`           |
+| Gweranoq    | `sowides`  | the storm confederation                                       | `gweran` + `-oq`            |
+| Dikraqor    | `sowides`  | the stone range                                               | `dikraq` + `-or`            |
+| Jadekud     | `sowides`  | a raider                                                      | `jadek` + `-ud`             |
+| Wogeltolis  | `sowides`  | a man's name: wolf-spear                                      | `wogel` + `tolis`           |
+| Tijòdye     | `sowides`  | a woman's name: star                                          | `tijòd` + `-ye`             |
+| Qūrbelūkhem | `atarzadi` | the council of the well                                       | `qūrbel` + `lūkhem`         |
+| Zhōqarōd    | `atarzadi` | a tribe: the sons of war                                      | `zhōqar` + `-ōd`            |
+| Hōmzelūn    | `atarzadi` | the whole people                                              | `hōmzel` + `-ūn`            |
+| Shēkhulēz   | `atarzadi` | the place of the flame                                        | `shēkhul` + `-ēz`           |
+| Zhōqarekh   | `atarzadi` | a warrior                                                     | `zhōqar` + `-ekh`           |
+| Gherōsōr    | `atarzadi` | a man's name: horse                                           | `gherōs` + `-ōr`            |
+| Yūremāt     | `atarzadi` | a woman's name: song                                          | `yūrem` + `-āt`             |
+| Gurdi       | `tellumi`  | the pass: the passages in the Grazian north face              | `gurdi`                     |
+| Tōqēl       | `atarzadi` | to keep: Keeper of the Unconsuming Flame                      | `tōqēl`                     |
+| Dūkhen      | `atarzadi` | judge: the leader acclaimed in a crisis                       | `dūkhen`                    |
+| Rēzhul      | `atarzadi` | prince of a tribe: a tribe's hereditary chieftain             | `rēzhul`                    |
+| Ruweles     | `sowides`  | the water people: the hidden-water bands of the Central Sands | `ruwel` + `-es`             |
+| Gwatekor    | `sowides`  | the forest range: the northern taiga                          | `gwatek` + `-or`            |
+| Welqator    | `sowides`  | the grass range: the Western Margin                           | `welqat` + `-or`            |
+| Hosikor     | `sowides`  | the sand range: the Central Sands                             | `hosik` + `-or`             |
+| Idwakor     | `sowides`  | the east range: the Eastern Stone Desert                      | `idwak` + `-or`             |
+| Jilaq       | `sowides`  | lantern: the tower league's chief city                        | `jilaq`                     |
+| Wilud       | `sowides`  | wonder: the half-buried tower city                            | `wilud`                     |
+| Ewod        | `sowides`  | lake: the dry salt lake                                       | `ewod`                      |
+| Qelod       | `sowides`  | well: the stepped well                                        | `qelod`                     |
+| Wemaq       | `sowides`  | the dead: the oasis nobody uses                               | `wemaq`                     |
+| Qìmod       | `sowides`  | silent: the sacked caravan town on the spur                   | `qìmod`                     |
+| Osikor      | `sowides`  | the bone range: the rock-cut tombs of the uplands             | `osik` + `-or`              |
+| Ruweq       | `sowides`  | wind: the hollow hills                                        | `ruweq`                     |
+| Roqid       | `sowides`  | camp: the Vylarian fort                                       | `roqid`                     |
+| Qìso        | `sowides`  | price: the Central Road's seasonal market-camp                | `qìso`                      |
+| Qelodud     | `sowides`  | well-doer: the well-lurker                                    | `qelod` + `-ud`             |
+| Orkesud     | `sowides`  | heat-doer: the mirage-stalker                                 | `orkes` + `-ud`             |
+| Hosikud     | `sowides`  | sand-doer: the pit-maker                                      | `hosik` + `-ud`             |
+| Budeq       | `sowides`  | vulture: the road-vulture                                     | `budeq`                     |
+| Gwirador    | `sowides`  | camel of the range: the wild bull camel                       | `gwirad` + `-or`            |
+| Yolequd     | `sowides`  | salt-doer: the salt-dust spirit                               | `yoleq` + `-ud`             |
+| Numek       | `sowides`  | night: the tower-roost colony                                 | `numek`                     |
+| Yiqnotud    | `sowides`  | the hunter: the steppe hunter                                 | `yiqnot` + `-ud`            |
+
+## Names older than the rules
+
+The setting's names of places, peoples and persons are older than the three tongues' rules, and a name keeps its shape however the rules read. Only vocabulary (titles, offices, ranks and common terms) is held to them. A register row tagged `older` names a note whose name stands here.
+
+| Name              | Kind   |
+| ----------------- | ------ |
+| Ashkarad          | a name |
+| Caldar            | a name |
+| Desert of Hek'ar  | a name |
+| Kethramír         | a name |
+| Mehrnāgord        | a name |
+| Mount Shōfar      | a name |
+| Mt. Shōfar        | a name |
+| Beit-Shōfár       | a name |
+| Oasis of Shirvan  | a name |
+| Ruins of Arkor    | a name |
+| Ushtra-bēr        | a name |
+| Vahúrdash         | a name |
+| Zargandûr         | a name |
+| Afzandah Parnâzar | a name |
+| Bazûdar Shahrûn   | a name |
+| Kamîd Khâvandar   | a name |
+| Kayvonad Zârîd    | a name |
+| Khârânah Khafûr   | a name |
+| Nari Sahravân     | a name |
+| Nushir Narsâfî    | a name |
+| Razanash Mervaran | a name |
+| Sharmînah Tahvân  | a name |
+| Zevârad Dathvarûn | a name |
 
 ## Attested names
 
 Every name of every note in the region stands here with the note it names and its tag. A name in one of the three tongues carries its derivation.
 
-| Name                          | Address                                             | Language   | Derivation                                                |
-| ----------------------------- | --------------------------------------------------- | ---------- | --------------------------------------------------------- |
-| Tellumi Language              | [[skill-khazrilng\|Tellumi Language]]               | `gloss`    | a glossed name on `Tellumi`                               |
-| Tellumi                       | [[skill-khazrilng\|Tellumi Language]]               | `tellumi`  | `te` + `lu` + `-mi`                                       |
-| Sowides Language              | [[skill-sowideslng\|Sowides Language]]              | `gloss`    | a glossed name on `Sowides`                               |
-| Sowides                       | [[skill-sowideslng\|Sowides Language]]              | `sowides`  | `sowid` + `-es`                                           |
-| Ātárzādi Language             | [[skill-atarzadilng\|Ātárzādi Language]]            | `faith`    | built on the people's name                                |
-| Atarzadi Language             | [[skill-atarzadilng\|Ātárzādi Language]]            | `faith`    | an unmarked spelling of the above                         |
-| Khazryn Lexicon               | [[doc-khazrynlex\|Khazryn Lexicon]]                 | `gloss`    | a glossed name on `Khazryn`                               |
-| Khazryn Word List             | [[doc-khazrynlex\|Khazryn Lexicon]]                 | `gloss`    | a glossed name on `Khazryn`                               |
-| Khazryn Desert Region         | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`    | a glossed name on `Khazryn`                               |
-| Khazryn Desert                | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`    | a glossed name on `Khazryn`                               |
-| Khazryn                       | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `kept`     | the region's name, which stands outside the three tongues |
-| Tellumel                      | [[place-swoasisbelt\|Tellumel]]                     | `tellumi`  | `te` + `lu` + `-mi` + `-el`                               |
-| Tellumi                       | [[lore-khazrynclt\|Tellumi]]                        | `tellumi`  | `te` + `lu` + `-mi`                                       |
-| Tellumi Confederation         | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`    | a glossed name on `Tellumi`                               |
-| Princes of Tellumel           | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`    | a glossed name on `Tellumel`                              |
-| The Tellumi Calendar          | [[lore-khzrnclndr\|The Tellumi Calendar]]           | `gloss`    | a glossed name on `Tellumi`                               |
-| Tellumi Calendar              | [[lore-khzrnclndr\|The Tellumi Calendar]]           | `gloss`    | a glossed name on `Tellumi`                               |
-| Himbar                        | [[place-ashkarad\|Himbar]]                          | `tellumi`  | `himbar`                                                  |
-| Dēlkosh                       | [[place-caldar\|Dēlkosh]]                           | `atarzadi` | `dēlkosh`                                                 |
-| Desert of Pulekor             | [[place-hekardesert\|Desert of Pulekor]]            | `gloss`    | a glossed name on `Pulekor`                               |
-| Hulenul                       | [[place-kethramir\|Hulenul]]                        | `tellumi`  | `hulen` + `-ul`                                           |
-| Yisurel                       | [[place-mehrnagord\|Yisurel]]                       | `tellumi`  | `yisur` + `-el`                                           |
-| Mount Shēkhulēz               | [[place-mountshofar\|Mount Shēkhulēz]]              | `gloss`    | a glossed name on `Shēkhulēz`                             |
-| Mt. Shēkhulēz                 | [[place-mountshofar\|Mount Shēkhulēz]]              | `gloss`    | a glossed name on `Shēkhulēz`                             |
-| Lūkhemēz                      | [[place-beitshofar\|Lūkhemēz]]                      | `atarzadi` | `lūkhem` + `-ēz`                                          |
-| Kenbel                        | [[place-oasishirvn\|Kenbel]]                        | `tellumi`  | `kenbel`                                                  |
-| Bolid                         | [[place-ruinsarkor\|Bolid]]                         | `sowides`  | `bolid`                                                   |
-| Tenhur                        | [[place-ushtraber\|Tenhur]]                         | `tellumi`  | `tenhur`                                                  |
-| Velkunar                      | [[place-vahurdash\|Velkunar]]                       | `tellumi`  | `velkun` + `-ar`                                          |
-| Gudelun                       | [[place-zargandur\|Gudelun]]                        | `tellumi`  | `gudel` + `-un`                                           |
-| Tamkere Budilun               | [[being-afzndhprnzr\|Tamkere Budilun]]              | `gloss`    | a glossed name on `Tamkere` and `Budilun`                 |
-| Kwedutolis Gwirades           | [[being-bazdrshhrn\|Kwedutolis Gwirades]]           | `gloss`    | a glossed name on `Kwedutolis` and `Gwirades`             |
-| Danilul Hudelun               | [[being-kamdkhvndr\|Danilul Hudelun]]               | `gloss`    | a glossed name on `Danilul` and `Hudelun`                 |
-| Zōghelōr Būshkelōd            | [[being-kayvondzrd\|Zōghelōr Būshkelōd]]            | `gloss`    | a glossed name on `Zōghelōr` and `Būshkelōd`              |
-| Yalgeme Lisenun               | [[being-kharnhkhfr\|Yalgeme Lisenun]]               | `gloss`    | a glossed name on `Yalgeme` and `Lisenun`                 |
-| Òwinye Ruweqes                | [[being-narisahrvn\|Òwinye Ruweqes]]                | `gloss`    | a glossed name on `Òwinye` and `Ruweqes`                  |
-| Perime Nebalun                | [[being-nushirnrsf\|Perime Nebalun]]                | `gloss`    | a glossed name on `Perime` and `Nebalun`                  |
-| Huwenye Gwatekes              | [[being-rznshmrvrn\|Huwenye Gwatekes]]              | `gloss`    | a glossed name on `Huwenye` and `Gwatekes`                |
-| Tēqemāt Tōzhirōd              | [[being-shrmnhthvn\|Tēqemāt Tōzhirōd]]              | `gloss`    | a glossed name on `Tēqemāt` and `Tōzhirōd`                |
-| Nelimul Talvulun              | [[being-zevaradthvrn\|Nelimul Talvulun]]            | `gloss`    | a glossed name on `Nelimul` and `Talvulun`                |
-| The League of Princely Houses | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`    | —                                                         |
-| The Desert Mystic             | [[being-narisahrvn\|Òwinye Ruweqes]]                | `gloss`    | —                                                         |
-| Tribes of Ātárzád             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`    | —                                                         |
-| Ātárzádegan                   | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`    | —                                                         |
-| Ātárzád                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`    | —                                                         |
-| Atarzad                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`    | —                                                         |
-| The Flame-born                | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `gloss`    | —                                                         |
-| The Twelve Tribes             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `gloss`    | —                                                         |
+| Name                          | Address                                             | Language  | Derivation                                                |
+| ----------------------------- | --------------------------------------------------- | --------- | --------------------------------------------------------- |
+| Tellumi Language              | [[skill-khazrilng\|Tellumi Language]]               | `gloss`   | a glossed name on `Tellumi`                               |
+| Tellumi                       | [[skill-khazrilng\|Tellumi Language]]               | `tellumi` | `te` + `lu` + `-mi`                                       |
+| Sowides Language              | [[skill-sowideslng\|Sowides Language]]              | `gloss`   | a glossed name on `Sowides`                               |
+| Sowides                       | [[skill-sowideslng\|Sowides Language]]              | `sowides` | `sowid` + `-es`                                           |
+| Ātárzādi Language             | [[skill-atarzadilng\|Ātárzādi Language]]            | `faith`   | built on the people's name                                |
+| Atarzadi Language             | [[skill-atarzadilng\|Ātárzādi Language]]            | `faith`   | an unmarked spelling of the above                         |
+| Khazryn Lexicon               | [[doc-khazrynlex\|Khazryn Lexicon]]                 | `gloss`   | a glossed name on `Khazryn`                               |
+| Khazryn Word List             | [[doc-khazrynlex\|Khazryn Lexicon]]                 | `gloss`   | a glossed name on `Khazryn`                               |
+| Khazryn Desert Region         | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`   | a glossed name on `Khazryn`                               |
+| Khazryn Desert                | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`   | a glossed name on `Khazryn`                               |
+| Khazryn                       | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `kept`    | the region's name, which stands outside the three tongues |
+| Tellumel                      | [[place-swoasisbelt\|Tellumel]]                     | `tellumi` | `te` + `lu` + `-mi` + `-el`                               |
+| Tellumi                       | [[lore-khazrynclt\|Tellumi]]                        | `tellumi` | `te` + `lu` + `-mi`                                       |
+| Tellumi Confederation         | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`   | a glossed name on `Tellumi`                               |
+| Princes of Tellumel           | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`   | a glossed name on `Tellumel`                              |
+| The Tellumi Calendar          | [[lore-khzrnclndr\|The Tellumi Calendar]]           | `gloss`   | a glossed name on `Tellumi`                               |
+| Tellumi Calendar              | [[lore-khzrnclndr\|The Tellumi Calendar]]           | `gloss`   | a glossed name on `Tellumi`                               |
+| Ashkarad                      | [[place-ashkarad\|Ashkarad]]                        | `older`   | a name older than the rules                               |
+| Caldar                        | [[place-caldar\|Caldar]]                            | `older`   | a name older than the rules                               |
+| Desert of Hek'ar              | [[place-hekardesert\|Desert of Hek'ar]]             | `older`   | a name older than the rules                               |
+| Kethramír                     | [[place-kethramir\|Kethramír]]                      | `older`   | a name older than the rules                               |
+| Mehrnāgord                    | [[place-mehrnagord\|Mehrnāgord]]                    | `older`   | a name older than the rules                               |
+| Mount Shōfar                  | [[place-mountshofar\|Mount Shōfar]]                 | `older`   | a name older than the rules                               |
+| Mt. Shōfar                    | [[place-mountshofar\|Mount Shōfar]]                 | `older`   | a name older than the rules                               |
+| Beit-Shōfár                   | [[place-beitshofar\|Beit-Shōfár]]                   | `older`   | a name older than the rules                               |
+| Oasis of Shirvan              | [[place-oasishirvn\|Oasis of Shirvan]]              | `older`   | a name older than the rules                               |
+| Ruins of Arkor                | [[place-ruinsarkor\|Ruins of Arkor]]                | `older`   | a name older than the rules                               |
+| Ushtra-bēr                    | [[place-ushtraber\|Ushtra-bēr]]                     | `older`   | a name older than the rules                               |
+| Vahúrdash                     | [[place-vahurdash\|Vahúrdash]]                      | `older`   | a name older than the rules                               |
+| Zargandûr                     | [[place-zargandur\|Zargandûr]]                      | `older`   | a name older than the rules                               |
+| Afzandah Parnâzar             | [[being-afzndhprnzr\|Afzandah Parnâzar]]            | `older`   | a name older than the rules                               |
+| Bazûdar Shahrûn               | [[being-bazdrshhrn\|Bazûdar Shahrûn]]               | `older`   | a name older than the rules                               |
+| Kamîd Khâvandar               | [[being-kamdkhvndr\|Kamîd Khâvandar]]               | `older`   | a name older than the rules                               |
+| Kayvonad Zârîd                | [[being-kayvondzrd\|Kayvonad Zârîd]]                | `older`   | a name older than the rules                               |
+| Khârânah Khafûr               | [[being-kharnhkhfr\|Khârânah Khafûr]]               | `older`   | a name older than the rules                               |
+| Nari Sahravân                 | [[being-narisahrvn\|Nari Sahravân]]                 | `older`   | a name older than the rules                               |
+| Nushir Narsâfî                | [[being-nushirnrsf\|Nushir Narsâfî]]                | `older`   | a name older than the rules                               |
+| Razanash Mervaran             | [[being-rznshmrvrn\|Razanash Mervaran]]             | `older`   | a name older than the rules                               |
+| Sharmînah Tahvân              | [[being-shrmnhthvn\|Sharmînah Tahvân]]              | `older`   | a name older than the rules                               |
+| Zevârad Dathvarûn             | [[being-zevaradthvrn\|Zevârad Dathvarûn]]           | `older`   | a name older than the rules                               |
+| The League of Princely Houses | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`   | —                                                         |
+| The Desert Mystic             | [[being-narisahrvn\|Nari Sahravân]]                 | `gloss`   | —                                                         |
+| Tribes of Ātárzád             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`   | —                                                         |
+| Ātárzádegan                   | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`   | —                                                         |
+| Ātárzád                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`   | —                                                         |
+| Atarzad                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `faith`   | —                                                         |
+| The Flame-born                | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `gloss`   | —                                                         |
+| The Twelve Tribes             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]       | `gloss`   | —                                                         |
 
 ### Language tags
 
-| Tag      | Meaning                                                                  |
-| -------- | ------------------------------------------------------------------------ |
-| tellumi  | a Tellumi name, built from Tellumi stems                                 |
-| sowides  | a Sowides name, built from Sowides stems                                 |
-| atarzadi | an Ātárzādi name, built from Ātárzādi stems                              |
-| gloss    | a glossed name or epithet; any in-world word it quotes is registered too |
-| kept     | a name that stands outside the three tongues by the owner's ruling       |
-| faith    | a name built on a word of the Āsháian faith                              |
-| pending  | a name that keeps no rule of the three tongues                           |
+| Tag      | Meaning                                                                                       |
+| -------- | --------------------------------------------------------------------------------------------- |
+| tellumi  | a Tellumi name, built from Tellumi stems                                                      |
+| sowides  | a Sowides name, built from Sowides stems                                                      |
+| atarzadi | an Ātárzādi name, built from Ātárzādi stems                                                   |
+| gloss    | a glossed name or epithet; any in-world word it quotes is registered too                      |
+| kept     | a name that stands outside the three tongues by the owner's ruling                            |
+| faith    | a name built on a word of the Āsháian faith                                                   |
+| older    | a name older than the rules, kept as it stands; it is listed under Names older than the rules |
+| pending  | a name that keeps no rule of the three tongues                                                |

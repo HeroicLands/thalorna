@@ -1,6 +1,6 @@
 ---
 shortcode: kethramir
-name: {full: Hulenul, aliases: []}
+name: {full: Kethramír, aliases: []}
 type: place
 subType: settlement
 description: "Caravan Waypoint"

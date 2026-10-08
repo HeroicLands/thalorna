@@ -1,6 +1,6 @@
 ---
 shortcode: caldar
-name: {full: Dēlkosh, aliases: []}
+name: {full: Caldar, aliases: []}
 type: place
 subType: settlement
 description: "A city of the Khazryn country and seat of the University of Caldar, whose alchemical faculty is famous for the study of mineral transmutation."

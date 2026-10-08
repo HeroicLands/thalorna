@@ -1,6 +1,6 @@
 ---
 shortcode: zevaradthvrn
-name: {full: Nelimul Talvulun, given: Nelimul, clan: Talvulun, aliases: []}
+name: {full: Zevârad Dathvarûn, given: Zevârad, clan: Dathvarûn, aliases: []}
 type: being
 subType: character
 description: "The elder who keeps the water-shrine teaching at Kethramír, and who has not taught all of it to anyone"

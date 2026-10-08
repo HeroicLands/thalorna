@@ -121,7 +121,14 @@ const OTHER = tongueNote({
 });
 
 /** A lexicon note in the shape the guard reads. */
-function lexicon({ toyStems, otherStems, register, senses = "`water` `road`", derived = "" }) {
+function lexicon({
+    toyStems,
+    otherStems,
+    register,
+    senses = "`water` `road`",
+    derived = "",
+    older = "",
+}) {
     return `---
 shortcode: lex
 type: doc
@@ -169,6 +176,15 @@ ${
 ${derived}
 `
 }
+${
+    older &&
+    `## Names older than the rules
+
+| Name | Kind |
+| --- | --- |
+${older}
+`
+}
 ## Attested names
 
 | Name | Address | Language | Derivation |
@@ -184,6 +200,7 @@ ${register}
 | gloss | a glossed name |
 | pending | awaiting coinage |
 | faith | held for the faith pass |
+| older | a name older than the rules |
 `;
 }
 
@@ -383,6 +400,17 @@ test("register names must recompute from listed pieces and carry declared tags",
     assert.match(
         bad("| Tallumi | [[place-tallumi\\|Tallumi]] | `toy` | `ta` + `lum` + `-i` |"),
         /registered twice/,
+    );
+});
+
+test("a name tagged older must stand in the table of names older than the rules", () => {
+    const row = "| Old Gate | [[place-old\\|Old Place]] | `older` | — |";
+    const register = `${GOOD.register}\n${row}`;
+    const listed = run({ register, older: "| Old Gate | a place |" });
+    assert.deepEqual(errors(listed), []);
+    assert.match(
+        errors(run({ register })).join("\n"),
+        /Old Gate is tagged `older` and stands in no row of the names older than the rules/,
     );
 });
 

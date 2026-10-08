@@ -1,6 +1,6 @@
 ---
 shortcode: shrmnhthvn
-name: {full: Tēqemāt Tōzhirōd, given: Tēqemāt, clan: Tōzhirōd, aliases: []}
+name: {full: Sharmînah Tahvân, given: Sharmînah, clan: Tahvân, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, todo, clergy]

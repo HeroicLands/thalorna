@@ -1,6 +1,6 @@
 ---
 shortcode: mehrnagord
-name: {full: Yisurel, aliases: []}
+name: {full: Mehrnāgord, aliases: []}
 type: place
 subType: settlement
 description: "The largest oasis still in Khazryn hands, on the western fringe, ruled by the cautious Prince Pārván and known for its salt."

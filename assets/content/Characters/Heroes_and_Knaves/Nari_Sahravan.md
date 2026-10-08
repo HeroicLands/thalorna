@@ -1,6 +1,6 @@
 ---
 shortcode: narisahrvn
-name: {full: Òwinye Ruweqes, given: Òwinye, clan: Ruweqes, aliases: [The Desert Mystic]}
+name: {full: Nari Sahravân, given: Nari, clan: Sahravân, aliases: [The Desert Mystic]}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, clergy]

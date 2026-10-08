@@ -1,6 +1,6 @@
 ---
 shortcode: kayvondzrd
-name: {full: Zōghelōr Būshkelōd, given: Zōghelōr, clan: Būshkelōd, aliases: []}
+name: {full: Kayvonad Zârîd, given: Kayvonad, clan: Zârîd, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, mages]

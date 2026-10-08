@@ -1,6 +1,6 @@
 ---
 shortcode: afzndhprnzr
-name: {full: Tamkere Budilun, given: Tamkere, clan: Budilun, aliases: []}
+name: {full: Afzandah Parnâzar, given: Afzandah, clan: Parnâzar, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

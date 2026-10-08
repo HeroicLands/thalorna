@@ -1,6 +1,6 @@
 ---
 shortcode: beitshofar
-name: {full: Lūkhemēz, aliases: []}
+name: {full: Beit-Shōfár, aliases: []}
 type: place
 subType: settlement
 description: "The priestly seat of the Ātárzád at the foot of Mt. Shōfar, a settlement of 3,000 that holds the Council of the Twelve and receives fifty thousand pilgrims at midsummer."
