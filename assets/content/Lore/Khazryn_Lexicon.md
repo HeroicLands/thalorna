@@ -418,6 +418,8 @@ Worked names and words, each built from the stems above.
 | Ruweq       | `sowides`  | wind: the hollow hills                                        | `ruweq`                     |
 | Roqid       | `sowides`  | camp: the Vylarian fort                                       | `roqid`                     |
 | Qìso        | `sowides`  | price: the Central Road's seasonal market-camp                | `qìso`                      |
+| Yemok       | `sowides`  | oath: the hand-off well at the west of the Central Sands      | `yemok`                     |
+| Sowid       | `sowides`  | rider: the hand-off well at the east of the Central Sands     | `sowid`                     |
 | Qelodud     | `sowides`  | well-doer: the well-lurker                                    | `qelod` + `-ud`             |
 | Orkesud     | `sowides`  | heat-doer: the mirage-stalker                                 | `orkes` + `-ud`             |
 | Hosikud     | `sowides`  | sand-doer: the pit-maker                                      | `hosik` + `-ud`             |
@@ -474,6 +476,22 @@ Every name of every note in the region stands here with the note it names and it
 | Khazryn Desert Region         | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`   | a glossed name on `Khazryn`                               |
 | Khazryn Desert                | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `gloss`   | a glossed name on `Khazryn`                               |
 | Khazryn                       | [[place-khzryndsrtrgn\|Khazryn Desert Region]]      | `kept`    | the region's name, which stands outside the three tongues |
+| Gwatekor                      | [[place-gwtkrrgn\|Gwatekor]]                        | `sowides` | `gwatek` + `-or`                                          |
+| The Northern Taiga            | [[place-gwtkrrgn\|Gwatekor]]                        | `gloss`   | a glossed name on `Gwatekor`                              |
+| Welqator                      | [[place-wlqtrrgn\|Welqator]]                        | `sowides` | `welqat` + `-or`                                          |
+| The Western Margin            | [[place-wlqtrrgn\|Welqator]]                        | `gloss`   | a glossed name on `Welqator`                              |
+| Hosikor                       | [[place-hskrrgn\|Hosikor]]                          | `sowides` | `hosik` + `-or`                                           |
+| The Central Sands             | [[place-hskrrgn\|Hosikor]]                          | `gloss`   | a glossed name on `Hosikor`                               |
+| Dikraqor                      | [[place-dkrqrrgn\|Dikraqor]]                        | `sowides` | `dikraq` + `-or`                                          |
+| The Stone Uplands             | [[place-dkrqrrgn\|Dikraqor]]                        | `gloss`   | a glossed name on `Dikraqor`                              |
+| Idwakor                       | [[place-idwkrrgn\|Idwakor]]                         | `sowides` | `idwak` + `-or`                                           |
+| The Eastern Stone Desert      | [[place-idwkrrgn\|Idwakor]]                         | `gloss`   | a glossed name on `Idwakor`                               |
+| Qìso                          | [[place-qisomrktcmp\|Qìso]]                         | `sowides` | `qìso`                                                    |
+| The Central Market-Camp       | [[place-qisomrktcmp\|Qìso]]                         | `gloss`   | a glossed name on `Qìso`                                  |
+| Yemok                         | [[place-yemokwell\|Yemok]]                          | `sowides` | `yemok`                                                   |
+| The Oath Well                 | [[place-yemokwell\|Yemok]]                          | `gloss`   | a glossed name on `Yemok`                                 |
+| Sowid                         | [[place-sowidwell\|Sowid]]                          | `sowides` | `sowid`                                                   |
+| The Riders' Well              | [[place-sowidwell\|Sowid]]                          | `gloss`   | a glossed name on `Sowid`                                 |
 | Tellumel                      | [[place-swoasisbelt\|Tellumel]]                     | `tellumi` | `te` + `lu` + `-mi` + `-el`                               |
 | Tellumi                       | [[lore-khazrynclt\|Tellumi]]                        | `tellumi` | `te` + `lu` + `-mi`                                       |
 | Tellumi Confederation         | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]] | `gloss`   | a glossed name on `Tellumi`                               |

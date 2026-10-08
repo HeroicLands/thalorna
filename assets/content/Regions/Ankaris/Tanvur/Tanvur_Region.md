@@ -57,7 +57,7 @@ The Empire has never been seriously threatened from the west. Its worst enemies 
 
 ## Trade
 
-The Tānvür Region stands at the eastern terminus of the **Celestial Roads**—the great overland trade routes that stretch westward through the Khazryn Desert and ultimately connect to [[place-midhalnrgn|Mídhalión]]. Silk, porcelain, tea, lacquer, jade, spices, and finished metalwork flow west; silver, gold, amber, wine, horses, and wool flow east. The imperial bureaucracy taxes, documents, and classifies every significant movement of goods; smuggling, accordingly, is a highly developed profession.
+The Tānvür Region stands at the eastern terminus of the **Celestial Roads**—the great overland trade routes that stretch westward through the Khazryn Desert and ultimately connect to [[place-midhalnrgn|Mídhalión]]. Silk, porcelain, tea, lacquer, jade, spices, and finished metalwork flow west; silver, gold, amber, coral, glass, and horses flow east. The imperial bureaucracy taxes, documents, and classifies every significant movement of goods; smuggling, accordingly, is a highly developed profession.
 
 Coastal trade is secondary in prestige but enormous in volume: Tānvüri junks work the southern ports and reach as far as [[place-vedyarargn|Vedyara]] and the northern coasts of [[place-xerathia|Xerathia]]. Port cities support large foreign merchant quarters—carefully walled, carefully surveilled, carefully taxed.
 
