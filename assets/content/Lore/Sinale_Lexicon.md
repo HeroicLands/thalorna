@@ -607,45 +607,46 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 
 ### Death, loss, grief and the Shadow
 
-| Form           | Class  | Gloss                                    | Built from          | Attested |
-| -------------- | ------ | ---------------------------------------- | ------------------- | -------- |
-| `selvoro`      | n      | death                                    | —                   | —        |
-| `ilvaro`       | n      | grief                                    | —                   | —        |
-| `rhyvë`        | n-coll | tears                                    | —                   | —        |
-| `nelthava`     | n      | a lament                                 | —                   | —        |
-| `mylthë`       | n      | loss                                     | —                   | —        |
-| `talkevi`      | n      | a wound                                  | —                   | —        |
-| `rëhtë`        | n      | a scar                                   | —                   | —        |
-| `ulthara`      | n      | the Shadow                               | —                   | —        |
-| `aamas`        | n      | the void                                 | —                   | —        |
-| `rhendalo`     | n      | rot, corruption                          | —                   | —        |
-| `sauldi`       | n      | a grave                                  | —                   | —        |
-| `hylsin`       | n-coll | ashes                                    | —                   | —        |
-| `hëkky`        | n      | fear                                     | —                   | —        |
-| `tahke`        | v      | break                                    | —                   | —        |
-| `vierka`       | n      | an outlaw                                | —                   | —        |
-| `nauldi`       | v      | bind                                     | —                   | —        |
-| `vailis`       | n      | a farewell                               | —                   | —        |
-| `ollevi`       | n-coll | the dead, those gone from us             | —                   | —        |
-| `aivelo`       | n      | a lingering spirit, one who would not go | —                   | —        |
-| `pausse`       | v      | loose, set free                          | —                   | —        |
-| `oivalle`      | v      | forgive, let a wrong go                  | —                   | —        |
-| `kaumis`       | n      | shame                                    | —                   | —        |
-| `selvorolta`   | v      | die                                      | `selvoro` + `-lta`  | —        |
-| `selvorosa`    | adj    | dead                                     | `selvoro` + `-sa`   | —        |
-| `ilvarolta`    | v      | mourn                                    | `ilvaro` + `-lta`   | —        |
-| `rhyvëny`      | n      | a single tear                            | `rhyvë` + `-ny`     | —        |
-| `ultharasa`    | adj    | of the Shadow                            | `ulthara` + `-sa`   | —        |
-| `hëkkyrsë`     | n      | dread                                    | `hëkky` + `-rsë`    | —        |
-| `nauldinno`    | n      | a binder of the dead                     | `nauldi` + `-nno`   | —        |
-| `sauldisto`    | n      | a burial ground                          | `sauldi` + `-sto`   | —        |
-| `talkevilta`   | v      | wound                                    | `talkevi` + `-lta`  | —        |
-| `aamassa`      | adj    | empty                                    | `aamas` + `-sa`     | —        |
-| `ollevinu`     | n      | one of the dead                          | `ollevi` + `-nu`    | —        |
-| `nauldisto`    | n      | a place of binding, a prison             | `nauldi` + `-sto`   | —        |
-| `selvorosalvu` | n      | a tree planted for one of the dead       | `selvoro` + `salvu` | —        |
-| `sauldilonthe` | n      | a burial rite                            | `sauldi` + `lonthe` | —        |
-| `olvairsa`     | n      | a walking away, a desertion              | `olvai` + `-rsa`    | —        |
+| Form           | Class  | Gloss                                                                  | Built from          | Attested                                        |
+| -------------- | ------ | ---------------------------------------------------------------------- | ------------------- | ----------------------------------------------- |
+| `selvoro`      | n      | death                                                                  | —                   | —                                               |
+| `ilvaro`       | n      | grief                                                                  | —                   | —                                               |
+| `rhyvë`        | n-coll | tears                                                                  | —                   | —                                               |
+| `nelthava`     | n      | a lament                                                               | —                   | —                                               |
+| `mylthë`       | n      | loss                                                                   | —                   | —                                               |
+| `talkevi`      | n      | a wound                                                                | —                   | —                                               |
+| `rëhtë`        | n      | a scar                                                                 | —                   | —                                               |
+| `ulthara`      | n      | the Shadow                                                             | —                   | —                                               |
+| `aamas`        | n      | the void                                                               | —                   | —                                               |
+| `rhendalo`     | n      | rot, corruption                                                        | —                   | —                                               |
+| `sauldi`       | n      | a grave                                                                | —                   | —                                               |
+| `hylsin`       | n-coll | ashes                                                                  | —                   | —                                               |
+| `hëkky`        | n      | fear                                                                   | —                   | —                                               |
+| `tahke`        | v      | break                                                                  | —                   | —                                               |
+| `vierka`       | n      | an outlaw                                                              | —                   | —                                               |
+| `nauldi`       | v      | bind                                                                   | —                   | —                                               |
+| `vailis`       | n      | a farewell                                                             | —                   | —                                               |
+| `ollevi`       | n-coll | the dead, those gone from us                                           | —                   | —                                               |
+| `aivelo`       | n      | a lingering spirit, one who would not go                               | —                   | —                                               |
+| `pausse`       | v      | loose, set free                                                        | —                   | —                                               |
+| `oivalle`      | v      | forgive, let a wrong go                                                | —                   | —                                               |
+| `kaumis`       | n      | shame                                                                  | —                   | —                                               |
+| `selvorolta`   | v      | die                                                                    | `selvoro` + `-lta`  | —                                               |
+| `selvorosa`    | adj    | dead                                                                   | `selvoro` + `-sa`   | —                                               |
+| `ilvarolta`    | v      | mourn                                                                  | `ilvaro` + `-lta`   | —                                               |
+| `rhyvëny`      | n      | a single tear                                                          | `rhyvë` + `-ny`     | —                                               |
+| `ultharasa`    | adj    | of the Shadow                                                          | `ulthara` + `-sa`   | —                                               |
+| `hëkkyrsë`     | n      | dread                                                                  | `hëkky` + `-rsë`    | —                                               |
+| `nauldinno`    | n      | a binder of the dead                                                   | `nauldi` + `-nno`   | —                                               |
+| `sauldisto`    | n      | a burial ground                                                        | `sauldi` + `-sto`   | —                                               |
+| `talkevilta`   | v      | wound                                                                  | `talkevi` + `-lta`  | —                                               |
+| `aamassa`      | adj    | empty                                                                  | `aamas` + `-sa`     | —                                               |
+| `ollevinu`     | n      | one of the dead                                                        | `ollevi` + `-nu`    | —                                               |
+| `nauldisto`    | n      | a place of binding, a prison                                           | `nauldi` + `-sto`   | —                                               |
+| `selvorosalvu` | n      | a tree planted for one of the dead                                     | `selvoro` + `salvu` | —                                               |
+| `sauldilonthe` | n      | a burial rite                                                          | `sauldi` + `lonthe` | —                                               |
+| `olvairsa`     | n      | a walking away, a desertion                                            | `olvai` + `-rsa`    | —                                               |
+| `ollevirno`    | n      | the gathering of the dead; the far realm where Aulveira takes the dead | `ollevi` + `-rno`   | [[lore-lamenthaulonna\|The Lament of Haulonna]] |
 
 ### Other peoples
 
@@ -793,36 +794,77 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 
 ### Names
 
-| Name                      | Note                                        | Tongue             | Built from                           |
-| ------------------------- | ------------------------------------------- | ------------------ | ------------------------------------ |
-| **Sinalë**                | [[lore-flksinale\|Sinalë Folk]]             | `older`            | —                                    |
-| **Sinalëan**              | [[lore-flksinale\|Sinalë Folk]]             | `translation`      | —                                    |
-| **Sinalo**                | [[lore-flksinale\|Sinalë Folk]]             | `sinale`           | `sinalo`                             |
-| **Haulonna**              | [[place-haulonna\|Haulonna]]                | `older`            | —                                    |
-| **Thalmdal**              | [[place-haulonna\|Haulonna]]                | `exonym:nordmal`   | —                                    |
-| **Ansorudhe Lonvunto**    | [[place-haulonna\|Haulonna]]                | `sinale`           | `ansoru` + `-dhe` · `lonvu` + `-nto` |
-| **Sirmennë**              | [[place-sirmenne\|Sirmennë]]                | `older`            | —                                    |
-| **Veldirno**              | [[skill-clthndscrpt\|Veldirno Script]]      | `sinale`           | `veldi` + `-rno`                     |
-| **The God of Dreams**     | [[lore-goddreams\|The God of Dreams]]       | `translation`      | —                                    |
-| **Aulveira**              | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulveira`                           |
-| **Aulirarno**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulira` + `-rno`                    |
-| **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari`   | —                                    |
-| **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal`   | —                                    |
-| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`           | —                                    |
-| **Ansorunno**             | [[lore-calathirrnk\|Ansorunno]]             | `sinale`           | `ansoru` + `-nno`                    |
-| **Long-Watcher**          | [[lore-calathirrnk\|Ansorunno]]             | `translation`      | —                                    |
-| **Ilthorinno**            | [[lore-tindesarrnk\|Ilthorinno]]            | `sinale`           | `ilthori` + `-nno`                   |
-| **Seer**                  | [[lore-tindesarrnk\|Ilthorinno]]            | `translation`      | —                                    |
-| **The Faithful**          | [[lore-faithfulrnk\|The Faithful]]          | `translation`      | —                                    |
-| **Unaccorded**            | [[lore-unaccordedrnk\|Unaccorded]]          | `translation`      | —                                    |
-| **Aelirossë**             | [[place-aelirosse\|Aelirossë]]              | `exonym:elavendri` | —                                    |
-| **Ethalossë**             | [[place-ethalosse\|Ethalossë]]              | `exonym:elavendri` | —                                    |
-| **Serenthalë**            | [[place-serenthale\|Serenthalë]]            | `exonym:elavendri` | —                                    |
-| **Ankaris Continent**     | [[place-ankrscntnnt\|Ankaris Continent]]    | `exonym`           | —                                    |
-| **Aurèldía Region**       | [[place-aureldirgn\|Aurèldía Region]]       | `exonym`           | —                                    |
-| **Mídhalión Region**      | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
-| **Mídhalión**             | [[place-midhalnrgn\|Mídhalión Region]]      | `exonym`           | —                                    |
-| **Xerathia**              | [[place-xerathia\|Xerathia]]                | `exonym`           | —                                    |
-| **Central Rainforests**   | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
-| **Xerathian Rainforests** | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
-| **Green Interior**        | [[place-cntrlrnfrsts\|Central Rainforests]] | `translation`      | —                                    |
+| Name                                | Note                                                  | Tongue             | Built from                                                      |
+| ----------------------------------- | ----------------------------------------------------- | ------------------ | --------------------------------------------------------------- |
+| **Sinalë**                          | [[lore-flksinale\|Sinalë Folk]]                       | `older`            | —                                                               |
+| **Sinalëan**                        | [[lore-flksinale\|Sinalë Folk]]                       | `translation`      | —                                                               |
+| **Sinalo**                          | [[lore-flksinale\|Sinalë Folk]]                       | `sinale`           | `sinalo`                                                        |
+| **Haulonna**                        | [[place-haulonna\|Haulonna]]                          | `older`            | —                                                               |
+| **Thalmdal**                        | [[place-haulonna\|Haulonna]]                          | `exonym:nordmal`   | —                                                               |
+| **Ansorudhe Lonvunto**              | [[place-haulonna\|Haulonna]]                          | `sinale`           | `ansoru` + `-dhe` · `lonvu` + `-nto`                            |
+| **Sirmennë**                        | [[place-sirmenne\|Sirmennë]]                          | `older`            | —                                                               |
+| **Veldirno**                        | [[skill-clthndscrpt\|Veldirno Script]]                | `sinale`           | `veldi` + `-rno`                                                |
+| **The God of Dreams**               | [[lore-goddreams\|The God of Dreams]]                 | `translation`      | —                                                               |
+| **Aulveira**                        | [[lore-goddreams\|The God of Dreams]]                 | `sinale`           | `aulveira`                                                      |
+| **Aulirarno**                       | [[lore-goddreams\|The God of Dreams]]                 | `sinale`           | `aulira` + `-rno`                                               |
+| **Luváth**                          | [[lore-goddreams\|The God of Dreams]]                 | `exonym:khazari`   | —                                                               |
+| **Bjartr**                          | [[lore-goddreams\|The God of Dreams]]                 | `exonym:nordmal`   | —                                                               |
+| **Aethería**                        | [[lore-goddreams\|The God of Dreams]]                 | `exonym`           | —                                                               |
+| **Ansorunno**                       | [[lore-calathirrnk\|Ansorunno]]                       | `sinale`           | `ansoru` + `-nno`                                               |
+| **Long-Watcher**                    | [[lore-calathirrnk\|Ansorunno]]                       | `translation`      | —                                                               |
+| **Ilthorinno**                      | [[lore-tindesarrnk\|Ilthorinno]]                      | `sinale`           | `ilthori` + `-nno`                                              |
+| **Seer**                            | [[lore-tindesarrnk\|Ilthorinno]]                      | `translation`      | —                                                               |
+| **The Faithful**                    | [[lore-faithfulrnk\|The Faithful]]                    | `translation`      | —                                                               |
+| **Unaccorded**                      | [[lore-unaccordedrnk\|Unaccorded]]                    | `translation`      | —                                                               |
+| **Aelirossë**                       | [[place-aelirosse\|Aelirossë]]                        | `exonym:elavendri` | —                                                               |
+| **Ethalossë**                       | [[place-ethalosse\|Ethalossë]]                        | `exonym:elavendri` | —                                                               |
+| **Serenthalë**                      | [[place-serenthale\|Serenthalë]]                      | `exonym:elavendri` | —                                                               |
+| **Ankaris Continent**               | [[place-ankrscntnnt\|Ankaris Continent]]              | `exonym`           | —                                                               |
+| **Aurèldía Region**                 | [[place-aureldirgn\|Aurèldía Region]]                 | `exonym`           | —                                                               |
+| **Mídhalión Region**                | [[place-midhalnrgn\|Mídhalión Region]]                | `exonym`           | —                                                               |
+| **Mídhalión**                       | [[place-midhalnrgn\|Mídhalión Region]]                | `exonym`           | —                                                               |
+| **Xerathia**                        | [[place-xerathia\|Xerathia]]                          | `exonym`           | —                                                               |
+| **Central Rainforests**             | [[place-cntrlrnfrsts\|Central Rainforests]]           | `translation`      | —                                                               |
+| **Xerathian Rainforests**           | [[place-cntrlrnfrsts\|Central Rainforests]]           | `translation`      | —                                                               |
+| **Green Interior**                  | [[place-cntrlrnfrsts\|Central Rainforests]]           | `translation`      | —                                                               |
+| **Guest-Right**                     | [[lore-ellevirsa\|Guest-Right]]                       | `translation`      | —                                                               |
+| **Ellevirsa**                       | [[lore-ellevirsa\|Guest-Right]]                       | `sinale`           | `ellevi` + `-rsa`                                               |
+| **Nylvidhë Esselinto**              | [[lore-ellevirsa\|Guest-Right]]                       | `sinale`           | `nylvi` + `-dhë` · `esseli` + `-nto`                            |
+| **The Long-Watcher's Sayings**      | [[lore-saunari\|The Long-Watcher's Sayings]]          | `translation`      | —                                                               |
+| **Ansorunnoren saunari**            | [[lore-saunari\|The Long-Watcher's Sayings]]          | `sinale`           | `ansorunno` + `-ren` · `saunari`                                |
+| **Olmasidhe Rhovelinto Sorvelsa**   | [[lore-saunari\|The Long-Watcher's Sayings]]          | `sinale`           | `olmasi` + `-dhe` · `rhoveli` + `-nto` · `torvel` + `-sa`, worn |
+| **Ilevala Huomanto**                | [[lore-saunari\|The Long-Watcher's Sayings]]          | `sinale`           | `ileva` + `-la` · `huoma` + `-nto`                              |
+| **Ollevirno**                       | [[lore-saunari\|The Long-Watcher's Sayings]]          | `sinale`           | `ollevi` + `-rno`                                               |
+| **The Lament of Haulonna**          | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `translation`      | —                                                               |
+| **Haulonnaren nelthava**            | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | —                                                               |
+| **Ollevirno**                       | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `ollevi` + `-rno`                                               |
+| **Pelvaila Velvainto**              | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `pelvai` + `-la` · `pelvai` + `-nto`                            |
+| **Velvaila**                        | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `pelvai` + `-la`, worn                                          |
+| **Kinsadhe Hallesinto**             | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `kinsa` + `-dhe` · `hallesi` + `-nto`                           |
+| **Hinsadhe**                        | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `kinsa` + `-dhe`, worn                                          |
+| **Kelvasira Nuominto**              | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `kelvasi` + `-ra` · `nuomi` + `-nto`                            |
+| **Helvasira**                       | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `kelvasi` + `-ra`, worn                                         |
+| **Toiruvo Sulmento**                | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `toiru` + `-vo` · `sulme` + `-nto`                              |
+| **Soiruvo**                         | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `toiru` + `-vo`, worn                                           |
+| **Porvila Ilevanto**                | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `porvi` + `-la` · `ileva` + `-nto`                              |
+| **Vorvila**                         | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `porvi` + `-la`, worn                                           |
+| **Ansorudhe Lonvunto**              | [[lore-lamenthaulonna\|The Lament of Haulonna]]       | `sinale`           | `ansoru` + `-dhe` · `lonvu` + `-nto`                            |
+| **The Gathering on the End**        | [[lore-gatheringend\|The Gathering on the End]]       | `translation`      | —                                                               |
+| **Olvandiren aulirarno**            | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `olvandi` + `-ren` · `aulira` + `-rno`                          |
+| **Ollevirno**                       | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `ollevi` + `-rno`                                               |
+| **Tellavira Eilavanto**             | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `tellavi` + `-ra` · `eilava` + `-nto`                           |
+| **Sellavira**                       | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `tellavi` + `-ra`, worn                                         |
+| **Rivydhë Syllëntë**                | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `rivy` + `-dhë` · `syllë` + `-ntë`                              |
+| **Lenthila Thalvento**              | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `lenthi` + `-la` · `thalve` + `-nto`                            |
+| **Hyssëdhë Soirunto**               | [[lore-gatheringend\|The Gathering on the End]]       | `sinale`           | `hyssë` + `-dhë` · `toiru` + `-nto`                             |
+| **The Long Road**                   | [[lore-longroad\|The Long Road]]                      | `translation`      | —                                                               |
+| **Tirvali**                         | [[lore-longroad\|The Long Road]]                      | `sinale`           | `tirvali`                                                       |
+| **Tirvalira Solmerinto**            | [[lore-longroad\|The Long Road]]                      | `sinale`           | `tirvali` + `-ra` · `solmeri` + `-nto`                          |
+| **Sirvalira**                       | [[lore-longroad\|The Long Road]]                      | `sinale`           | `tirvali` + `-ra`, worn                                         |
+| **Tirvalira Sirvali**               | [[lore-longroad\|The Long Road]]                      | `sinale`           | `tirvali` + `-ra` · `tirvali`, worn                             |
+| **The Praise of the One Who Stays** | [[lore-onewhostays\|The Praise of the One Who Stays]] | `translation`      | —                                                               |
+| **Sendevinnoren thellame**          | [[lore-onewhostays\|The Praise of the One Who Stays]] | `sinale`           | `sendevinno` + `-ren` · `thellame`                              |
+| **Lavurinto**                       | [[lore-onewhostays\|The Praise of the One Who Stays]] | `sinale`           | `lavuri` + `-nto`                                               |
+| **Halvinto**                        | [[lore-onewhostays\|The Praise of the One Who Stays]] | `sinale`           | `kalvi` + `-nto`                                                |
+| **Nuuvanto**                        | [[lore-onewhostays\|The Praise of the One Who Stays]] | `sinale`           | `nuuva` + `-nto`                                                |
+| **Unturonto**                       | [[lore-onewhostays\|The Praise of the One Who Stays]] | `sinale`           | `unturo` + `-nto`                                               |
