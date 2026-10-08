@@ -128,6 +128,12 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vrystwald]], near
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—primary pantheon, shared with Dunhara and Harad
 - [[skill-sowideslng|Sowides Language]]—the tongue of the tribes
 - [[doc-khazrynlex|Khazryn Lexicon]]—the words and names of the three tongues
+- Creatures of the Khazryn:
+  - At the wells and on the road: [[being-gntcmlsp|Giant Camel Spider]], [[being-bnscrpn|Bone Scorpion]], [[being-gntscrpn|Giant Scorpion]], [[being-sndstlkr|Sand Stalker]], [[being-qelodud|Qelodud]], [[being-budeq|Budeq]], [[being-gwirador|Gwirador]], [[being-mghyn|Mega Hyena]]
+  - In the sands and on the salt: [[being-sandwurm|Sand Wurm]], [[being-dnstrdr|Dune Strider]], [[being-duneclaw|Duneclaw]], [[being-hosikud|Hosikud]], [[being-orkesud|Orkesud]], [[being-yolequd|Yolequd]], [[being-numek|Numek]]
+  - In the stone uplands and the badlands: [[being-brmblspn|Bramblespine Dartel]], [[being-nsvrroth|Nüsvōrroth]], [[being-rcksclan|Rockscale Anklyte]], [[being-vnmspttr|Venomspitter]], [[being-ironjaw|Ironjaw]], [[being-erthrvr|Earthreaver]]
+  - On the Grazian north face: [[being-crglrkr|Crag Lurker]], [[being-clffstlk|Cliff Stalker]], [[being-stoneram|Stone Ram]], [[being-roc|Roc]]
+  - On the blood-fields and in the ruins: [[being-yiqnotud|Yiqnotud]], [[being-spctrwlf|Specterwolf]], [[being-grmshdw|Grimshadow]], [[being-glmhnd|Gloomhound]], [[being-damut|Damut]], [[being-trrkthsn|Terrakith Sentinel]]
 - [[place-heladrgn|Hellád Region]]—western gateway
 - [[place-dunharargn|Dunhara Region]]—southern desert cousin
 - [[place-vedyarargn|Vedyara Region]]—southern neighbor beyond the Grazian wall
