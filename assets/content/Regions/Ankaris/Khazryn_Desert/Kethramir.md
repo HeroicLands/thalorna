@@ -1,6 +1,6 @@
 ---
 shortcode: kethramir
-name: {full: Kethramír, aliases: []}
+name: {full: Birvalar, aliases: []}
 type: place
 subType: settlement
 description: "Caravan Waypoint"

@@ -1,6 +1,6 @@
 ---
 shortcode: vahurdash
-name: {full: Vahúrdash, aliases: []}
+name: {full: Velkunar, aliases: []}
 type: place
 subType: settlement
 description: "The fifth of the seven Khazryn cities, lost to the desert in an ancient drought and reclaimed in the last generation as a small settlement among its ruins."

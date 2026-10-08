@@ -1,6 +1,6 @@
 ---
 shortcode: mountshofar
-name: {full: Mount Shōfar, aliases: [Mt. Shōfar]}
+name: {full: Mount Shēkhulēz, aliases: [Mt. Shēkhulēz]}
 type: place
 subType: feature
 description: "The black-rock peak of the southeastern Khazryn highlands where Ātáröš gave the Promise in the Unconsuming Flame, holiest ground of the Ātárzád."

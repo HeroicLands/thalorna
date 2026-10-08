@@ -1,6 +1,6 @@
 ---
 shortcode: bazdrshhrn
-name: {full: Bazûdar Shahrûn, given: Bazûdar, clan: Shahrûn, aliases: []}
+name: {full: Kwedutolis Gwirades, given: Kwedutolis, clan: Gwirades, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]

@@ -1,6 +1,6 @@
 ---
 shortcode: zargandur
-name: {full: Zargandûr, aliases: []}
+name: {full: Gudelar, aliases: []}
 type: place
 subType: settlement
 description: "Town"

@@ -226,6 +226,355 @@ export const RETIRED = [
         replacement: "the host culture's given names",
         scope: ["assets/content/Characters/Folk/Aleziya.md"],
     },
+    { retired: ["Oasis of Shirvan", "Shirvan"], replacement: "Kenbellar", scope: "corpus" },
+    { retired: ["Mehrnāgord"], replacement: "Yisurel", scope: "corpus" },
+    { retired: ["Ashkarad"], replacement: "Pelimar", scope: "corpus" },
+    { retired: ["Zargandûr"], replacement: "Gudelar", scope: "corpus" },
+    { retired: ["Kethramír"], replacement: "Birvalar", scope: "corpus" },
+    { retired: ["Vahúrdash"], replacement: "Velkunar", scope: "corpus" },
+    { retired: ["Ushtra-bēr"], replacement: "Dalyimel", scope: "corpus" },
+    { retired: ["Caldar"], replacement: "Dēlkoshēz", scope: "corpus" },
+    { retired: ["Mōrávar"], replacement: "Tekevar", scope: "corpus" },
+    { retired: ["Dranavár"], replacement: "Genbunel", scope: "corpus" },
+    { retired: ["Vēštákán"], replacement: "Turem", scope: "corpus" },
+    {
+        retired: ["Southwestern Oasis-Belt", "southwestern oasis-belt"],
+        replacement: "Tellumel",
+        scope: "corpus",
+    },
+    {
+        retired: ["Mōrá-Shirván"],
+        replacement: "Murele",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md"],
+    },
+    {
+        retired: ["Sāmīm"],
+        replacement: "Sunhemul",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md"],
+    },
+    {
+        retired: ["Khávar"],
+        replacement: "Kirelul",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md"],
+    },
+    {
+        retired: ["Yázdín"],
+        replacement: "Vurine",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md"],
+    },
+    {
+        retired: ["Pārván"],
+        replacement: "Bernirul",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Mehrnagord.md",
+        ],
+    },
+    {
+        retired: ["Vāhrām"],
+        replacement: "Karvemul",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Ushtra-ber.md",
+        ],
+    },
+    {
+        retired: ["Khoršád-Vahūr"],
+        replacement: "Revunul",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Confederation.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Vahurdash.md",
+        ],
+    },
+    {
+        retired: ["Zevârad"],
+        replacement: "Nelimul",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zevarad_Dathvarun.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Dathvarûn"],
+        replacement: "Talvulun",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zevarad_Dathvarun.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Kamîd"],
+        replacement: "Danilul",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Kamid_Khavandar.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Khâvandar"],
+        replacement: "Hudelun",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Kamid_Khavandar.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Afzandah"],
+        replacement: "Tamkere",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+            "assets/content/README-gazeteer.md",
+        ],
+    },
+    {
+        retired: ["Parnâzar"],
+        replacement: "Budilun",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Afzandah_Parnazar.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Nushir"],
+        replacement: "Perime",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Nushir_Narsafi.md"],
+    },
+    {
+        retired: ["Narsâfî"],
+        replacement: "Nebalun",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Nushir_Narsafi.md"],
+    },
+    {
+        retired: ["Khârânah"],
+        replacement: "Yalgeme",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Kharanah_Khafur.md"],
+    },
+    {
+        retired: ["Khafûr"],
+        replacement: "Lisenun",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Kharanah_Khafur.md"],
+    },
+    {
+        retired: ["Mūshárā"],
+        replacement: "Zēlumōr",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Mount_Shofar.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/beit_shofar.md",
+        ],
+    },
+    {
+        retired: ["Yáhōshí"],
+        replacement: "Zūrkhemōr",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/beit_shofar.md",
+        ],
+    },
+    {
+        retired: ["Mount Shōfar", "Mt. Shōfar", "Shōfar"],
+        replacement: "Shēkhulēz",
+        scope: "corpus",
+    },
+    { retired: ["Beit-Shōfár"], replacement: "Lūkhemēz", scope: "corpus" },
+    { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēlekh", scope: "corpus" },
+    { retired: ["Shōfet"], replacement: "Dūkhen", scope: "corpus" },
+    { retired: ["nasi"], replacement: "Rēzhul", scope: "corpus" },
+    { retired: ["Sárdá"], replacement: "Khēmōzekh", scope: "corpus" },
+    { retired: ["Ārmán"], replacement: "Tūlqenekh", scope: "corpus" },
+    { retired: ["Zhárván"], replacement: "Bīzhunekh", scope: "corpus" },
+    { retired: ["Bāhrām"], replacement: "Zhōqarōd", scope: "corpus" },
+    { retired: ["Ardashír"], replacement: "Būshkelōd", scope: "corpus" },
+    { retired: ["Khorshad"], replacement: "Shēkhulōd", scope: "corpus" },
+    { retired: ["Zarvān"], replacement: "Tōzhirōd", scope: "corpus" },
+    { retired: ["Mihrān"], replacement: "Ēlqushōd", scope: "corpus" },
+    { retired: ["Ráhmān"], replacement: "Gherōsōd", scope: "corpus" },
+    { retired: ["Vaspūr"], replacement: "Bōzekhōd", scope: "corpus" },
+    { retired: ["Sāvash"], replacement: "Nōghezōd", scope: "corpus" },
+    { retired: ["Yazdānbar"], replacement: "Kēlumōd", scope: "corpus" },
+    { retired: ["Pārmīda"], replacement: "Hōzhīrōd", scope: "corpus" },
+    { retired: ["Dārvāz"], replacement: "Āmūlezōd", scope: "corpus" },
+    { retired: ["Ardvī"], replacement: "Sēkholōd", scope: "corpus" },
+    {
+        retired: ["Ātarpāt"],
+        replacement: "Ēbōzōr",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md"],
+    },
+    {
+        retired: ["Aspánsár"],
+        replacement: "Dōkhīmōr",
+        scope: [
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/beit_shofar.md",
+        ],
+    },
+    {
+        retired: ["Yázdarmīd"],
+        replacement: "Nōzhikōr",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md"],
+    },
+    {
+        retired: ["Hānā"],
+        replacement: "Āqeshāt",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md"],
+    },
+    {
+        retired: ["Pārvīz"],
+        replacement: "Hāmekhōr",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md"],
+    },
+    {
+        retired: ["Ártáz"],
+        replacement: "Ghāzurōr",
+        scope: ["assets/content/Regions/Ankaris/Khazryn_Desert/Tribes_of_Atarzad.md"],
+    },
+    {
+        retired: ["Kayvonad"],
+        replacement: "Zōghelōr",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Caldar.md",
+        ],
+    },
+    {
+        retired: ["Sharmînah"],
+        replacement: "Tēqemāt",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Sharminah_Tahvan.md"],
+    },
+    {
+        retired: ["Tahvân"],
+        replacement: "Tōzhirōd",
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Sharminah_Tahvan.md"],
+    },
+    {
+        retired: ["Zârîd", "Zarid"],
+        replacement: "Būshkelōd",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Caldar.md",
+        ],
+    },
+    {
+        retired: ["Sahri"],
+        replacement: "Yoweqes",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Amqelet_Zelemu_Leguluaqun.md",
+            "assets/content/Characters/Heroes_and_Knaves/Atenheru.md",
+            "assets/content/Folders/Dunhara_Tribes_dunharatribes.md",
+        ],
+    },
+    {
+        retired: ["Zarnûsh"],
+        replacement: "Wogeles",
+        scope: [
+            "assets/content/Affiliations/Companies.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+        ],
+    },
+    {
+        retired: ["Âzardan"],
+        replacement: "Kesuqes",
+        scope: ["assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md"],
+    },
+    {
+        retired: ["Shirzâri"],
+        replacement: "Hilodes",
+        scope: [
+            "assets/content/Affiliations/Companies.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+        ],
+    },
+    {
+        retired: ["Dûrmand"],
+        replacement: "Dikraqes",
+        scope: ["assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md"],
+    },
+    { retired: ["Desert of Hek'ar", "Hek'ar"], replacement: "Pulekor", scope: "corpus" },
+    { retired: ["Ruins of Arkor", "Arkor"], replacement: "Bolidbodik", scope: "corpus" },
+    {
+        retired: ["Nari"],
+        replacement: "Òwinye",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Nari_Sahravan.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zahira_Malkhet.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Sahravân"],
+        replacement: "Ruweqes",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Nari_Sahravan.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zahira_Malkhet.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Bazûdar"],
+        replacement: "Kwedutolis",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Bazudar_Shahrun.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Shahrûn"],
+        replacement: "Gwirades",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Bazudar_Shahrun.md",
+            "assets/content/Folders/Khazryn_Desert_ankariskhazryndesert.md",
+        ],
+    },
+    {
+        retired: ["Razanash"],
+        replacement: "Huwenye",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zevarad_Dathvarun.md",
+        ],
+    },
+    {
+        retired: ["Mervaran"],
+        replacement: "Gwatekes",
+        scope: [
+            "assets/content/Characters/Heroes_and_Knaves/Razanash_Mervaran.md",
+            "assets/content/Characters/Heroes_and_Knaves/Zevarad_Dathvarun.md",
+        ],
+    },
+    {
+        retired: ["Khazryn Confederation", "Khazryn confederation"],
+        replacement: "Tellumi Confederation",
+        scope: "corpus",
+    },
+    {
+        retired: ["Khazryn Calendar", "Khazryn calendar"],
+        replacement: "Tellumi Calendar",
+        scope: "corpus",
+    },
+    { retired: ["Khazri"], replacement: "Tellumi", scope: "corpus" },
+    {
+        retired: ["khanates", "khanate", "Khans", "Khan", "khan"],
+        replacement: "orqwen (a khanate is an orqwenoq)",
+        scope: [
+            "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bahramish.md",
+            "assets/content/Affiliations/Organizations/Vylarian/Dunhara_Warriors_Circle.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+            "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
+            "assets/content/Regions/Ankaris/Hellad/Byzaria/Eastern_March.md",
+            "assets/content/Regions/Ankaris/Hellad/Byzaria/Northern_March.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Desert_Region.md",
+            "assets/content/Regions/Ankaris/Vedyara/History/Era_6_The_Hard_Generation.md",
+            "assets/content/Regions/Ankaris/Vedyara/History/The_Fall_of_Marupala.md",
+            "assets/content/Regions/Ankaris/Vedyara/Lanthusthali.md",
+            "assets/content/Regions/Ankaris/Vedyara/Ludrapur.md",
+            "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
+        ],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";

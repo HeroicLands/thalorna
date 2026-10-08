@@ -1,6 +1,6 @@
 ---
 shortcode: rznshmrvrn
-name: {full: Razanash Mervaran, given: Razanash, clan: Mervaran, aliases: []}
+name: {full: Huwenye Gwatekes, given: Huwenye, clan: Gwatekes, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, clergy]

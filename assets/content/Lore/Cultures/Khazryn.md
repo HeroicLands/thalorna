@@ -1,6 +1,6 @@
 ---
 shortcode: khazrynclt
-name: {full: Khazryn, aliases: []}
+name: {full: Tellumi, aliases: []}
 type: lore
 subType: culture
 description: "The Khazryn—their beliefs, their mores, and what they hold a person owes."

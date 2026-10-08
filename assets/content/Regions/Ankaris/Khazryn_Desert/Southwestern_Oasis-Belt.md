@@ -1,6 +1,6 @@
 ---
 shortcode: swoasisbelt
-name: {full: Southwestern Oasis-Belt, aliases: []}
+name: {full: Tellumel, aliases: []}
 type: place
 subType: region
 description: "The irrigated corner of the Khazryn Desert—the string of well-watered oasis cities and agricultural districts along its southern margin, held by the Ātárzád and the Khazryn and claimed by both."

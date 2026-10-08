@@ -1,6 +1,6 @@
 ---
 shortcode: kharnhkhfr
-name: {full: Khârânah Khafûr, given: Khârânah, clan: Khafûr, aliases: []}
+name: {full: Yalgeme Lisenun, given: Yalgeme, clan: Lisenun, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

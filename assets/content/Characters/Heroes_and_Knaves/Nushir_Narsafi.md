@@ -1,6 +1,6 @@
 ---
 shortcode: nushirnrsf
-name: {full: Nushir Narsâfî, given: Nushir, clan: Narsâfî, aliases: []}
+name: {full: Perime Nebalun, given: Perime, clan: Nebalun, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]

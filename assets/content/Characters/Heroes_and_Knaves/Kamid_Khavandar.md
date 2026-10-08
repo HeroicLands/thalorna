@@ -1,6 +1,6 @@
 ---
 shortcode: kamdkhvndr
-name: {full: Kamîd Khâvandar, given: Kamîd, clan: Khâvandar, aliases: []}
+name: {full: Danilul Hudelun, given: Danilul, clan: Hudelun, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]

@@ -1,6 +1,6 @@
 ---
 shortcode: ushtraber
-name: {full: Ushtra-bēr, aliases: []}
+name: {full: Dalyimel, aliases: []}
 type: place
 subType: settlement
 description: "A remote oasis of the deep northern Khazryn, still ruled by its own austere house, whose court keeps ceremonial forms forgotten elsewhere."
