@@ -110,7 +110,7 @@ The [[affiliation-arldnpnthn|Aurèldían]] pantheon is the dominant faith, in a 
 
 The League steers between the great powers with careful neutrality. The [[affiliation-vylarinmpr|Vylarian Empire]] would like to absorb it; the [[affiliation-cnfdrtnhrdnstts|Haradian]] guilds would like to dominate its trade, and Harad is the League's great rival at sea; the Āsháian-worshipping peoples to the east regard it as a useful but unreliable partner. The League survives by being indispensable to all of them and subservient to none.
 
-Its wars are border wars, against desert raiders, steppe confederations and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
+Its wars are border wars, against desert raiders, steppe tribes and the occasional eastern warlord. Conscripts fight them under the march lords, and the council contracts mercenary companies when the frontier turns dangerous.
 
 ## Commerce and Currency
 

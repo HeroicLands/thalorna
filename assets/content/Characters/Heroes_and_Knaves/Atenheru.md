@@ -15,9 +15,9 @@ data:
   occupation: Hunter
   stations: []
   lore: []
-  culture: dunhariclt
+  culture: sowidesclt
   homes: [kharalsulr]
-  affiliations: {dunhartrbs: {rank: 3}, korsadra: {rank: 1}}
+  affiliations: {sahritrb: {rank: 3}, korsadra: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.59
@@ -428,7 +428,7 @@ Atenheru stands 6'2\" tall with a medium build. He has olive-tanned skin, dark h
 
 # Dossier {#dossier}
 
-Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri** nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atenheru, known as “The Silent Jackal,” was a desert ranger from the **[[affiliation-sahritrb|Sahri]]** nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
 Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] and brought him to a hidden oasis. It was there, as [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
@@ -450,7 +450,7 @@ Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector
 - **Eloquence**: He prefers silence over speaking, communicating only when necessary.
 - **Morality**: Atenheru’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
 - **Voice**: Atenheru’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
-- **Desert Survivalist**: Atenheru’s mastery of the **Khazryn Desert** allows him to navigate the harsh environment with ease, ensuring the group can find shelter, water, and food even in the most desolate areas.
+- **Desert Survivalist**: Atenheru’s mastery of the **[[place-khzryndsrtrgn|Khazryn Desert]]** allows him to navigate the harsh environment with ease, ensuring the group can find shelter, water, and food even in the most desolate areas.
 - **Silent Tracker**: As a ranger, Atenheru can move unnoticed through almost any terrain, making him invaluable as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
 - **Spiritual Connection to the Jackal Spirit**: Atenheru feels a deep bond with the **Jackal Spirit**, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
 

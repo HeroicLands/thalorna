@@ -25,13 +25,13 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | -------------------------------- | --------------- |
 | [[place-midhalnrgn\|Mídhalión]]  | ~47,000,000     |
 | [[place-aureldirgn\|Aurèldía]]   | ~11,000,000     |
-| [[place-khzryndsrtrgn\|Khazryn]] | ~5,000,000      |
+| [[place-khzryndsrtrgn\|Khazryn]] | ~3,000,000      |
 | [[place-dunharargn\|Dunhara]]    | ~3,000,000      |
 | [[place-nrdlndsrgn\|Nordlands]]  | ~2,000,000      |
 | [[place-vrystwald\|Vrystwald]]   | ~500,000        |
 | [[place-grkrhlmrgn\|Grukarholm]] | ~50,000         |
 | Other minor western regions      | ~5,000,000      |
-| **Western Ankaris subtotal**     | **~74,000,000** |
+| **Western Ankaris subtotal**     | **~72,000,000** |
 
 **Within Mídhalión**, the west's demographic heart:
 
@@ -95,7 +95,7 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 | Continent / bloc     | Population |
 | -------------------- | ---------- |
-| Ankaris (west)       | ~74M       |
+| Ankaris (west)       | ~72M       |
 | Ankaris (east)       | ~230M      |
 | Xerathia             | ~29M       |
 | K'ich'chik           | ~34M       |

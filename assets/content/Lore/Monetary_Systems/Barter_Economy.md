@@ -55,7 +55,7 @@ A trader operating in a deep barter economy carries some mix of these—typicall
 Barter is the dominant economic system in:
 
 - The **Nordlands** and **Vrystwald** for all commerce above coin-carryable amounts (Vylarian coin handles small transactions; barter handles large ones). See [[lore-vylrncrncy|Vylarian Currency]] for the Nordlands' coin-only situation.
-- The **Khazryn Confederation** outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
+- The **steppe tribes of the Khazryn**, the [[lore-sowidesclt|Sowides]], outside the few urbanized trading-cities; the tribal interior runs almost entirely on barter and tribal credit.
 - The **Dunhara Tribes** in their entirety; the pastoral economy has not monetized.
 - The **Southern Savannahs** including the **Nyáluba Tribal Nation**.
 - The **rural hinterlands** of every settled polity (most rural commerce is barter even where coined currency is available in the cities).
@@ -86,4 +86,4 @@ Where these limitations bite hard enough, cultures develop formal currency. Wher
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—the credit-system extension of barter customs in clan- and tribal-based polities
 - [[lore-vylrncrncy|Vylarian Currency]]—the formal currency that operates in the Nordlands without script infrastructure
 - [[lore-aukhlthcrncy|Aû'Khelâthu Currency]]—the formal currency system that operates in the Northern Fertile Region
-- Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[affiliation-khzrncnfdrtn|Khazryn Confederation]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]
+- Polity-specific notes for barter-dominated regions: [[affiliation-dunhartrbs|Dunhara Tribes]], [[lore-sowidesclt|Sowides]], [[affiliation-vrystwldtrbs|Vrystwald Tribes]], [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]

@@ -114,20 +114,36 @@ A _shorukshetra_ (blood-field) is ground where thousands died with no conch, no 
 
 Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war: [[place-oluratarna|Olūratarana]], where a king forbade the pyre to a rebel host about 300 BF; [[place-gajasthali|Gajasthalī]], where two armies broke among their own elephants about 270 AF; and [[place-lanthusthli|Lanthusthalī]], where the march kingdom died under the steppe host in 315 AF, the one _ghūrakshetra_ among them. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janapada battle has ever made one.
 
+## The Khazryn: Kèdoq and Henhulpedin
+
+The [[skill-sowideslng|Sowides]] of the steppe lay their dead out. A body is carried to the laying-out ground (_yelos_), left with its face to the sky-father, and its name is spoken to the four winds, and the name is what the sky takes up. A soul no one named is not found by the sky, and the hunters find it first. A kèdoq (blood-ground) is a place where many died and none were laid out or named, and the steppe holds that the dead there are still waiting to be called. A thin one is a wèsuk (cursed ground), and the riders who guide a caravan past one do not say the word after sunset.
+
+The Tellumi hold the same from the other side. A Tellumi dead is received by a Mōbad, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. A _henhulpedin_ (blood-field) is ground where the names were never read, and a thin one is a _sirvelpedin_ (cursed field). [[place-henhulpedin|Henhulpedin]], outside [[place-zargandur|Zargandûr]], where the war-house fell in the Breaking, is the field that carries the word as its name.
+
+**The three unions.** Each of the three great unions of the steppe made one: the first at [[place-jilaq|Jilaq]], where a city of strangers was killed and no rite was said for it; the second at [[place-wemaq|Wemaq]], where a tribe was killed and forbidden its laying-out; the third at [[place-qimod|Qìmod]], where a market town was killed on its fair day. The dead of a sacked town belong to a dozen peoples, which leaves the town's field with no one to settle it. The Breaking made the fourth, a lesser field.
+
+**What quiets one.** A laying-out performed late for the dead of a field, with every name spoken to the four winds, quiets a blood-ground for as long as the winds carry the names. It needs the names, and a field of strangers has none to give. The Tellumi reading is the same rite in a Mōbad's voice, and in Zargandûr it is forbidden under the Ātárzád prohibition on the worship of Āhúrdáén, so the reader risks his life for it.
+
+**How the steppe lives beside one.** Tribes mark nothing and wall nothing. The road bends, a rider turns a string off by force, a lamp is left at the edge on the anniversary, and the guides who would sell anything else will not sell a path across. The Tellumi paint stakes and shut gates.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                | People whose ground it is | Battle                                        | Made    | Kind       | Thin            |
-| ------------------------------------ | ------------------------- | --------------------------------------------- | ------- | ---------- | --------------- |
-| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]        | ~300 BF | silence    | moderate        |
-| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]] | ~270 AF | recurrence | slight          |
-| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]     | 315 AF  | dread      | thin            |
-| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                            | ~520 AF | withering  | thin, worked on |
-| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                             | —       | recurrence | —               |
-| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                             | —       | recurrence | —               |
-| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                             | —       | quickening | —               |
-| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                             | —       | silence    | —               |
+| Field                                | People whose ground it is | Battle                                                | Made    | Kind       | Thin            |
+| ------------------------------------ | ------------------------- | ----------------------------------------------------- | ------- | ---------- | --------------- |
+| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                | ~300 BF | silence    | moderate        |
+| [[place-jilaq\|Jilaq]]               | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                | ~190 BF | recurrence | thin            |
+| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]         | ~270 AF | recurrence | slight          |
+| [[place-wemaq\|Wemaq]]               | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]] | ~312 AF | quickening | moderate        |
+| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]             | 315 AF  | dread      | thin            |
+| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                                    | ~520 AF | withering  | thin, worked on |
+| [[place-qimod\|Qìmod]]               | The Khazryn steppe        | the sack of the spur town                             | ~548 AF | silence    | thin            |
+| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~620 AF | recurrence | moderate        |
+| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
+| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
+| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                                     | —       | quickening | —               |
+| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                                     | —       | silence    | —               |
 
 ## See Also
 

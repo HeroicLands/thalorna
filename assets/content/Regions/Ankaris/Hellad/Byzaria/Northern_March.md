@@ -30,7 +30,7 @@ Two roads cross the March. The grain road runs from Altinkale north over the low
 
 The March's business is not war. Velanthia and the Hellád have rarely quarreled, and the Hosts on the far side of the frontier are farmer-warriors with their own steppe border to worry about. What the March guards is the grain road—against bandits in the passes, against smugglers who would rather not pay the League's tariff, and against the possibility that the wagons stop coming. The coastal cities cannot feed themselves from their own terraces, and a bad year in Velanthia is felt in Denizara's bread prices within the season. The Lord of the Northern March is expected to know the state of the Velanthian harvest before the council does, and his dispatches are read in the counting houses of Altinkale as closely as any merchant's letter.
 
-The March's other duty is the one the League never says aloud: it watches the north. When a great khanate rises in the central [[place-khzryndsrtrgn|Khazryn]], Velanthia's eastern fringe is among its first targets, and a Velanthia overrun would bring the steppe to the League's northern passes rather than its eastern ones. The way-forts are built, and the pass roads walled, with that possibility in mind.
+The March's other duty is the one the League never says aloud: it watches the north. When an orqwen forces the tribes of the central [[place-khzryndsrtrgn|Khazryn]] into a great orqwenoq, Velanthia's eastern fringe is among its first targets, and a Velanthia overrun would bring the steppe to the League's northern passes rather than its eastern ones. The way-forts are built, and the pass roads walled, with that possibility in mind.
 
 ## Garrison and Governance
 

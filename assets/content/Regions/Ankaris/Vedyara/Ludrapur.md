@@ -24,7 +24,7 @@ The dead of Lūdrapur were the townspeople, killed in their streets, and the tow
 
 ## Hooks
 
-- **The treasury.** Marupāla's treasury was never found. It was not in the palace when the host burned it, and the steppe did not carry it off, because the khanate's camps at Amradad had no march gold in them. A company sergeant has found a stair going down under the palace platform, below the cisterns.
+- **The treasury.** Marupāla's treasury was never found. It was not in the palace when the host burned it, and the steppe did not carry it off, because the orqwenoq's camps at Amradad had no march gold in them. A company sergeant has found a stair going down under the palace platform, below the cisterns.
 - **The seal.** Bhūmipāla's title to the march rests on Marupāla having left no heir. A claimant arrives at Sandhyāpur with a seal cut with Ashvakīrti's name and a genealogy that runs through a daughter nobody recorded, and the companies, who are owed arrears, are listening.
 - **The image.** The Sandhyāpur temple's image came from here. Its priests are quietly asking a party to find out whether the god went with the statue or stayed in the empty house.
 
