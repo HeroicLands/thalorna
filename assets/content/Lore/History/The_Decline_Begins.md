@@ -9,8 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~520
-      precision: century
-      derived: roughly two hundred years ago
       kind: secession
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]

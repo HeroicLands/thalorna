@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~-300
-      precision: century
       kind: battle
       depth: region
       sources: [lore-rcitkngsmhnd, lore-mhndkngdm, place-rajavalilib]

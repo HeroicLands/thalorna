@@ -8,8 +8,8 @@ tags: [history]
 data:
   packFolder: settinglore
   events:
-    - when: ~-2600
-      precision: century
+    - id: founding
+      when: ~-2600
       kind: founding
       depth: region
       sources: [place-khzryndsrtrgn, place-ewod, place-qelod, place-osikor]
@@ -35,8 +35,8 @@ data:
       unresolved:
         - what the builders called themselves, or the lake
         - why the wells were cut to a water table far below a lake that already gave water
-    - when: ~-2200
-      precision: span
+    - id: catastrophe
+      when: ~-2200
       until: ~-1700
       kind: catastrophe
       depth: region

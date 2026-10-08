@@ -7,8 +7,8 @@ description: "The Tellumi—their beliefs, their mores, and what they hold a per
 tags: []
 data:
   events:
-    - when: ~-2300
-      precision: century
+    - id: migration
+      when: ~-2300
       kind: migration
       depth: region
       sources: [affiliation-khzrncnfdrtn, place-graznmntns, place-wstrndscnt, place-swoasisbelt]
@@ -35,8 +35,8 @@ data:
       unresolved:
         - what drove the first lineages down from the high country
         - which lineage settled which spring
-    - when: ~619
-      precision: span
+    - id: conquest
+      when: ~619
       until: ~630
       kind: conquest
       depth: region

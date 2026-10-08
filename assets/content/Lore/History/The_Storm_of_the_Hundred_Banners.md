@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~315
-      precision: century
       kind: conquest
       depth: world
       sources:

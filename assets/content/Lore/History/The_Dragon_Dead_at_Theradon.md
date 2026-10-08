@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -330
-      precision: year
       kind: discovery
       depth: world
       sources: [decided-midhalion, decided-chronology, place-theradon2, doc-soulspirts]

@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-2500
-      precision: century
       kind: founding
       depth: world
       sources: [lore-clndrstrlgy, affiliation-tanvurempr, lore-khazarturn]

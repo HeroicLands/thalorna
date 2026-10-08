@@ -8,8 +8,8 @@ tags: [history]
 data:
   packFolder: settinglore
   events:
-    - when: ~-1000
-      precision: century
+    - id: founding
+      when: ~-1000
       kind: founding
       depth: region
       sources: [place-khzryndsrtrgn, place-jilaq, place-wilud, place-ruinsarkor]
@@ -35,8 +35,8 @@ data:
       unresolved:
         - what the league called itself, and what its counting-houses wrote
         - why its cities stood so far apart that a string needed three nights between them
-    - when: ~-190
-      precision: decade
+    - id: dissolution
+      when: ~-190
       kind: dissolution
       depth: region
       sources: [place-khzryndsrtrgn, place-jilaq]
@@ -51,7 +51,7 @@ data:
               the tribes of the sand country take the wells of the road and sell water to every string that crosses
             knowledge: named
       follows:
-        - event: lore-frstorqwnq
+        - event: lore-frstorqwnq#raising
           how: caused
           note: the first union demanded tribute that the cities refused
       accounts:

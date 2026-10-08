@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~312
-      precision: year
       kind: battle
       depth: region
       sources: [place-wemaq, lore-hndrdbnnrs, lore-celestialroad, lore-swdsclndr]

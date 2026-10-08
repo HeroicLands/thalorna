@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -7300
-      precision: year
       kind: departure
       depth: world
       sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt, lore-longnhrtnc]

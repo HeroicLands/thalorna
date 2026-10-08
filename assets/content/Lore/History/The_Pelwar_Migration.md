@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -1400
-      precision: span
       until: -1100
       kind: migration
       depth: world

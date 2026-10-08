@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -984
-      precision: year
       kind: battle
       depth: world
       sources: [place-threesisters, place-aelwyth, place-hallowwood]

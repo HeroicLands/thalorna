@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -1919
-      precision: year
       kind: loss
       depth: world
       sources: [decided-chronology, miscgear-secondvoice, place-aelwyth, place-ironfells]

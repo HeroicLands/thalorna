@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~265
-      precision: century
       kind: conquest
       depth: region
       sources: [affiliation-gomarga, place-vandhyabhumi]

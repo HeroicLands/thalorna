@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: 718
-      precision: year
       kind: catastrophe
       depth: region
       sources: [place-chandrprbh, place-himashila, place-suryatempl]

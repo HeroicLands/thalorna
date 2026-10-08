@@ -9,8 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-280
-      precision: century
-      derived: over a thousand years ago
       kind: secession
       depth: world
       sources: [affiliation-jurthatempr, affiliation-tanvurempr]

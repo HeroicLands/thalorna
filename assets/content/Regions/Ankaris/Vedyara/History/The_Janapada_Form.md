@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~-2250
-      precision: century
       kind: founding
       depth: region
       sources: [affiliation-janpdsvdyr]

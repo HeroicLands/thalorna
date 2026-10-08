@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~525
-      precision: century
       kind: treaty
       depth: region
       sources: [affiliation-rajaprjnpd, affiliation-chandrapur, place-khandapura]

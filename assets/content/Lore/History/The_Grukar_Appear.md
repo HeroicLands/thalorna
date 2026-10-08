@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-3000
-      precision: century
       kind: arrival
       depth: world
       sources: [lore-grukarfolk, lore-khazarturn]

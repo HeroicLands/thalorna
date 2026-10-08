@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -5274
-      precision: span
       until: -2427
       kind: treaty
       depth: world

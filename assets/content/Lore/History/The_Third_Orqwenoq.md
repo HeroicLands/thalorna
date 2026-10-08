@@ -8,8 +8,8 @@ tags: [history]
 data:
   packFolder: settinglore
   events:
-    - when: ~548
-      precision: year
+    - id: raising
+      when: ~548
       kind: raising
       depth: region
       sources: [place-khzryndsrtrgn, place-velanthrgn, place-tanvuregin, lore-swdsclndr]
@@ -39,8 +39,8 @@ data:
       unresolved:
         - the founding orqwen's name and tribe
         - how long the union held before the orqwen died
-    - when: ~548
-      precision: year
+    - id: fall
+      when: ~548
       kind: fall
       depth: region
       sources: [place-qimod, lore-bloodfield]

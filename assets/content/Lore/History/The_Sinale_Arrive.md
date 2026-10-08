@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-7500
-      precision: century
       kind: arrival
       depth: world
       sources: [lore-flksinale, lore-theithari, place-ankrscntnnt]

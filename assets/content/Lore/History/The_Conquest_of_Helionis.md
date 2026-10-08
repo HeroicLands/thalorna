@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -335
-      precision: span
       until: -312
       kind: conquest
       depth: world

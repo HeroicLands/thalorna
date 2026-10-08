@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~312
-      precision: century
       kind: accession
       depth: region
       sources: [affiliation-chandrapur, place-chandrapur2, place-moonhouse]
