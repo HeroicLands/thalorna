@@ -74,14 +74,14 @@ On the Vedyari side the trade is governed as well as taxed. The kingdom of [[aff
 
 ## The Drenavar Confusion
 
-Vedyari and Khazri folk-tradition sometimes confuses the Grazian Mountains with the [[place-drenavrspn|Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aurèldían world. The two share no geology, no culture and no mythology. The Khazryn name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
+Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with the [[place-drenavrspn|Drenavar Spine]] of [[place-elavendre|Élavendre]], a range half a continent away in the western Aurèldían world. The two share no geology, no culture and no mythology. The Khazryn name for the Western Descent, [[place-wstrndscnt|Dranavár]], is close enough to the Áelendan name for the Drenavar that travelers mistake one for the other in stories, and the two ranges are entirely separate.
 
 ## See Also
 
 - [[place-vedyarargn|Vedyara]]—Southern lowlands, fed by Grazian rivers
 - [[place-khzryndsrtrgn|Khazryn Desert]]—Northern lowlands, fed by Grazian springs
 - [[place-dunharargn|Dunhara]]—Western desert, where the range runs out
-- [[affiliation-khzrncnfdrtn|Khazryn Confederation]]—Indigenous Khazryn peoples whose origin is traced to the Western Descent
+- [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—Indigenous Khazryn peoples whose origin is traced to the Western Descent
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Eastern empire across the Eastern Reach
 - [[affiliation-vindhyalay|Shikharālaya]]—The kingdom holding the greatest of the passes
 - [[place-suryagarha|Sūryagarha]]—The fortress-city across its throat

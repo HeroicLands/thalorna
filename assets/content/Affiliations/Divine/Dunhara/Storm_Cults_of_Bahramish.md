@@ -131,7 +131,7 @@ The cults do not impose theological orthodoxy. The five lineages disagree, somet
 
 ## Relations
 
-- **The Khans' Council** (the chieftains' political body)—the cults' principal political counterparty. The relationship is one of mutual dependence: the chieftains need the cults' ritual sanction; the cults need the chieftains' material support. Tensions arise when a chieftain's policy and a cult ruling come into direct conflict.
+- **The Orqwens' Council** (the chieftains' political body)—the cults' principal political counterparty. The relationship is one of mutual dependence: the chieftains need the cults' ritual sanction; the cults need the chieftains' material support. Tensions arise when a chieftain's policy and a cult ruling come into direct conflict.
 - **The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]**—interwoven, structurally and personally. Many Circle members are also cult initiates; the cults provide the ritual framework for the Circle's openings and closings; the cults hold custody of the marked stones. The relationship is mutually reinforcing.
 - **The Khazryn Confederation's storm-religion**—direct rival; the cults regard Khazryn storm-worship as a corrupt variant of the true Bahârâmî tradition and have, on occasion, organized formal denunciations of Khazryn shamans attempting to operate in Dunhari territory.
 - **Foreign faiths**—minimal engagement. The Aurèldían and Vylarian missionary efforts have not penetrated significantly into Dunhari country; where individual Dunhari have adopted foreign faiths, the cults have generally treated the conversions as private failures rather than as institutional threats.

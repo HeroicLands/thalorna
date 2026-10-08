@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [lore-hndrdbnnrs, affiliation-bhumipala, place-marchroad, place-wstrndscnt]
       summary: >-
-        In the spring of 315 the march kingdom of Marupāla meets the Storm of the Hundred Banners where the foothills of the Western Descent open onto the march road, and its whole host dies there with its last king, Ashvakīrti. The khanate burns the capital, Lūdrapur, sweeps the march and turns west across Dunhara in the same year. Nobody is left to burn the dead of either side, and the field is Lanthusthalī, the banner ground, the third and thinnest shorukshetra in Vedyara.
+        In the spring of 315 the march kingdom of Marupāla meets the Storm of the Hundred Banners where the foothills of the Western Descent open onto the march road, and its whole host dies there with its last king, Ashvakīrti. The orqwenoq burns the capital, Lūdrapur, sweeps the march and turns west across Dunhara in the same year. Nobody is left to burn the dead of either side, and the field is Lanthusthalī, the banner ground, the third and thinnest shorukshetra in Vedyara.
       standing: attested
       where:
         locus: [place-lanthusthli]
@@ -43,7 +43,7 @@ data:
           withholds: the treasury of Marupāla, which was never found
       unresolved:
         - how old Marupāla's crown was; no record of the march survives the burning of Lūdrapur
-        - how many of the khanate's dead lie on the field
+        - how many of the orqwenoq's dead lie on the field
 ---
 
 A captain of the march companies puts it shortly to a new man: "The road goes round that ground, and so do you." The ground is [[place-lanthusthli|Lanthusthalī]], and the **Fall of Marupāla** is why it is there.
@@ -54,11 +54,11 @@ Before [[affiliation-bhumipala|Bhūmipāla]], [[place-vedyarargn|Vedyara]]'s nor
 
 ## The Spring of 315
 
-In the spring of 315 a steppe khanate came down [[place-wstrndscnt|the Western Descent]] ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, **Ashvakīrti**, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|the march road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
+In the spring of 315 a steppe orqwenoq came down [[place-wstrndscnt|the Western Descent]] ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, **Ashvakīrti**, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|the march road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
 
-The host overran his line there. Ashvakīrti died with his army, and the chronicles of the river country, which are all the record left, say that none of the host came home. The khanate went on down the road, burned Lūdrapur, swept the march and turned west across Dunhara the same year, toward the walls of Amradad, and broke up over the winter on its khan's death.
+The host overran his line there. Ashvakīrti died with his army, and the chronicles of the river country, which are all the record left, say that none of the host came home. The orqwenoq went on down the road, burned Lūdrapur, swept the march and turned west across Dunhara the same year, toward the walls of Amradad, and broke up over the winter on its orqwen's death.
 
-Nobody was left to burn the dead. Marupāla's dead had no households near enough to sound a conch, and the khanate's dead were not received by their own rites either. The field is Lanthusthalī, the banner ground: the third _shorukshetra_ (blood-field) in Vedyara, and the thinnest.
+Nobody was left to burn the dead. Marupāla's dead had no households near enough to sound a conch, and the orqwenoq's dead were not received by their own rites either. The field is Lanthusthalī, the banner ground: the third _shorukshetra_ (blood-field) in Vedyara, and the thinnest.
 
 ## What It Left
 

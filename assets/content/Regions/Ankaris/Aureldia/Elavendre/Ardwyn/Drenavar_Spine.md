@@ -59,4 +59,4 @@ The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar S
 - [[place-silvrfrsts|The Silver Forests]]—The fae-touched woodland at the mountains' edge
 - [[place-elavendre|Élavendre]]—The kingdom whose interior contains the Drenavar
 - [[place-vylariargn#the-cervaron-spine|The Cervaron Spine]]—The contested eastern arm of the same Áelendan sacred uplift
-- [[place-graznmntns|The Grazian Mountains]]—A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Khazri folk-confusion)
+- [[place-graznmntns|The Grazian Mountains]]—A separate, far-eastern range between Vedyara and Khazryn (no relation to the Drenavar despite occasional Tellumi folk-confusion)
