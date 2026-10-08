@@ -3,11 +3,11 @@ shortcode: khzryndsrtrgn
 name: {full: Khazryn Desert Region, aliases: [Khazryn Desert, Khazryn]}
 type: place
 subType: region
-description: Vast steppe-desert of central and eastern Ankaris—a barrier of dunes, oases, and nomadic confederations along the Silk-Road corridor between east and west.
+description: The largest and emptiest country of Ankaris—desert and dry grassland more than two thousand miles across, crossed by one camel road that the tribes sell by the mile, with dead cities under its sand and an old people clinging to the foot of the Grazian Mountains.
 tags: [region]
 data:
   icon: null
-  demonym: Khazryn
+  demonym: null
   lore: [humanflk]
   parents: [ankrscntnnt]
   borders:
@@ -20,106 +20,115 @@ data:
     - {to: gudesroad, bearing: S, mode: land, days: 45}
     - {to: suryadvara, bearing: S, mode: land, days: 30}
     - {to: tamradvara, bearing: S, mode: land, days: 30}
-  population: 5000000
+  population: 3000000
   packFolder: khazryndesert
+  government: null
 
-# terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The southwestern Persianate oasis-belt (Uzbek/Tajik analog) is held by the Khazryn and Ātárzád; the vast northern, central, and eastern steppes, taiga, and Gobi-analog dryland are home to Turkic and Mongolic horse-nomad confederations and Siberian forest peoples."
+# terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The Persianate oasis-belt along the southern mountains (Uzbek/Tajik analog) is held by the Tellumi and the Ātárzád; the northern taiga is the Siberian analog; the steppe and the stone desert are home to Turkic and Mongolic horse-nomad tribes and their short-lived empires."
 ---
 
-The Khazryn Desert spreads across the central and eastern interior of [[place-ankrscntnnt|Ankaris Continent]]—an immense expanse of dune, salt flat, gravel plain, and rocky plateau that forms the continent's largest single geographic obstacle. For a thousand miles and more it stretches from [[place-velanthrgn|Velanthia]] toward the mountain passes of the far east, separating the western heartlands from [[place-tanvuregin|Tānvür]] and lying north of [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]]. Caravans take months; armies, almost without exception, die.
+Before dawn a rider sits on a ridge above a spring that no caravan has marked on any list, watching a cloth tied to a horse skull and the three strangers who wait beside it without touching the water. That is the Khazryn as the people who live in it know it: a country so wide that every well has an owner, and the owner is usually watching from somewhere you cannot see.
 
-The desert is not empty. Nomadic confederations, oasis settlements, and the long-running Celestial Road trade system have made the Khazryn one of the most economically consequential regions on the continent, despite holding only a fraction of the population of any of its neighbors. To cross the Khazryn successfully is to reach the other half of the known world; to control any significant oasis on the route is to be wealthy beyond the imagination of any settled peasant.
+The Khazryn measures about 2,350 miles from west to east and 1,400 from north to south, desert and dry grassland from the forests of [[place-velanthrgn|Velanthia]] to the mountain passes of [[place-tanvuregin|Tānvür]], north of [[place-dunharargn|Dunhara]] and [[place-vedyarargn|Vedyara]]. About 3,000,000 people live in it, most of them crowded into a narrow strip at the foot of the mountains, so that the rest is a waste of sand, stone and thin grass where you can ride for a week and meet nobody. Cities rose and died in that waste before anyone wrote them down, and their ruins still stand in it.
 
-## Geography
+One road crosses it. [[lore-celestialroad|The Celestial Road]] carries the silk of Tānvür west and the silver of [[place-midhalnrgn|Mídhalión]] east, on camels only, and the independent tribes through whose ranges it runs sell passage over it a stretch at a time. The crossing takes more than four months. That price, and the fortunes it makes, are what outsiders remember the Khazryn for.
 
-The Khazryn occupies an enormous central-and-eastern band of Ankaris, dwarfing every other region of the continent in sheer extent. It runs from the eastern frontier of [[place-velanthrgn|Velanthia]] in the west, across the high steppes and the great central sand-and-stone deserts, to the eastern passes that descend into [[place-tanvuregin|Tānvür]] and the southern passes that descend through the [[place-graznmntns|Grazian Mountains]] into [[place-vedyarargn|Vedyara]]. North to south, it stretches from its cold northern taiga and steppe down to the southern oasis-belt where it shades into [[place-dunharargn|Dunhara]].
+## Scale and Sub-regions
 
-The region's vastness produces extraordinary internal variation. Five distinct zones can be distinguished:
+The region falls into six zones, five of them named in the tongue of the tribes and one in the tongue of the south. No border separates them. Each shades into the next over a hundred miles or more of changing ground, and the tribes who graze one zone follow their herds into its neighbors.
 
-The **northern taiga**—vast cold-temperate boreal forest along the Khazryn's far northern margin. It is sparsely populated by hunter-fisher-trapper peoples whose lifeways are closer to the Nordmal than to anything in the southern Khazryn. The taiga's furs (sable, ermine, marten) are valuable trade goods that flow south through Khazryn merchants to the cities of Mídhalión.
+| Zone                            | Where                                                 | Land and water                                                                  | Who uses it                                                         |
+| ------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [[place-gwtkrrgn\|Gwatekor]]    | the northern third, to the icy coast                  | taiga, bogs, rivers and frozen coast                                            | small bands of sealers, fishers and deer hunters                    |
+| [[place-wlqtrrgn\|Welqator]]    | the western margin, facing Velanthia and Byzaría      | grass and scrub in spring, dust by midsummer; a spring every day or two         | the most practiced tribes on the road                               |
+| [[place-hskrrgn\|Hosikor]]      | the heart, the widest stretch                         | sand seas and gravel reaches round a dead basin; wells three to five days apart | the tribes of the sands and the hidden-water bands; the market-camp |
+| [[place-dkrqrrgn\|Dikraqor]]    | between the sands and the southern belt               | black rock plateau, mesas, dry ravines, cisterns cut in stone                   | hard, poor tribes; the Ātárzád herds on its southern edge           |
+| [[place-idwkrrgn\|Idwakor]]     | the approaches to Tānvür and to Tāmradvāra            | stone desert rising to cold high steppe; long waterless stages                  | the tribes who sell the last and hardest passage                    |
+| [[place-swoasisbelt\|Tellumel]] | a strip along the north foot of the Grazian Mountains | snowmelt streams and springs; irrigated gardens                                 | the Tellumi and the Ātárzád                                         |
 
-The **northern and central steppes**—the great open grasslands that dominate the region by area: cold-winter, hot-summer, treeless or thinly-treed plains supporting enormous seasonal herds of horses, sheep, and cattle. This is the country of the great horse-nomad confederations whose mounted warriors have been the terror of every settled neighbor for as long as records have been kept. Their khanates rise and fall on roughly the same generational cycles as the desert sand-seas advance and retreat.
+The Tellumel is narrow, forty to eighty miles deep where the streams reach it and broken where they do not, and it runs perhaps seven hundred miles along the mountains. It holds the great majority of the region's people on a small fraction of its ground.
 
-The **central desert**—the truly arid heart of the Khazryn, a complex of great sand seas and stone-and-gravel reaches interrupted by rocky mesas, occasional dry riverbeds, and the scattered oases that make long-distance travel possible at all. The great caravan routes—what the merchants call the **Celestial Road**—are essentially chains of oases, each a waypoint worth killing and dying for.
+## Climate and Water
 
-The **southwestern oasis-belt**—the irrigated corner of the Khazryn, a string of well-watered lowland cities and agricultural districts along the southern margin where Khazryn meets [[place-dunharargn|Dunhara]]. This is the country of the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Ātárzád]], whose civilizational density is utterly unlike anything elsewhere in the Khazryn. The southwestern oasis-belt has urban populations in the hundreds of thousands, written archives going back two thousand years, an established temple-priesthood, and trade-and-political relations with [[affiliation-sultntmrdd|Amradad]] and beyond. Outsiders who hear "the Khazryn" usually picture this corner; in reality it accounts for less than a fifth of the region's population and a tiny fraction of its area.
+The Khazryn is dry and continental: hot summers, bitter winters, and a wide swing between a noon and the night after it. A thin spring rain falls on the north and the western margin and almost never on the sands. Everything a traveler drinks comes from one of three sources.
 
-The **eastern dryland**—the stone deserts and the high cold steppe approaches to the Tānvüri passes. This is the country of the easternmost steppe confederations, whose relationship with the Tānvüri court is a matter of perpetual frontier-management on both sides.
+- **Snowmelt.** The glaciers of the [[place-graznmntns|Grazian Mountains]] feed the streams of the Tellumel, and nothing north of it.
+- **Deep wells.** Stepped shafts dug into old aquifers along the road, most of them cut by the builders of the tower cities and kept open by the tribes whose ranges they lie in. A tribe that closes a well closes the road.
+- **Small springs and seeps.** Hundreds of them, each too small to settle and each owned by a tribe. [[lore-ownedoasis|The Owned Oasis]] describes how a stranger finds one and what the owners do about it.
 
-Oases are precious throughout the region but are densest in the southwestern oasis-belt and along the central caravan routes. Some support permanent walled cities—Khazryn-or-Ātárzád in the southwest, smaller and more nomad-controlled in the central desert—while others are merely seasonal waterings known to the local tribes and tightly concealed from outsiders.
+Two seasons kill. Sandstorms come in late spring and bury a camp in an hour, and the cold winds of autumn close the northern and eastern stretches. A caravan reckons both into its departure, and the road runs in spring and autumn only.
 
-The climate is punishing. Summer daytime temperatures can be lethal within hours to the unprepared; winter nights are bitter; sandstorms can bury a camp or scour the paint from a caravan's chests in minutes. The desert's native inhabitants have developed over generations the physiological, technological, and social adaptations to thrive here; outsiders who attempt the crossing without hired guides rarely reach the other side.
+## The Tribes
 
-## Peoples and Culture
+Between the mountains and the forest live the tribes of the steppe and the desert, who call themselves Sowides, "the riders", and speak [[skill-sowideslng|Sowides]]. They herd horses, camels and sheep on seasonal circuits between waters they own, and no polity unites them. A tribe is a few thousand people under a chief, the _dowek_, whose rule rests on the loyalty of the heads of its clans, and a tribe's range is the wells and grazing it will fight for.
 
-The Khazryn houses three quite different human populations, each with its own language family, social structure, and economic base. Treating them as one people—as outsiders typically do—is a mistake every traveler eventually pays for.
+Now and then one person, man or woman, forces a number of tribes together. The title of such a leader is _orqwen_, and the union, held by the sword and sworn to the _orqwen_ alone, is an _orqwenoq_. It lasts as long as its maker lives. At the death of the _orqwen_ the tribes drift apart again, and old feuds reopen where the union had closed them. Three of these unions are great enough to have a place in the histories of the settled lands, and the [[lore-hndrdbnnrs|Storm of the Hundred Banners]] is the best known; the smaller ones rise and fall every few generations, and the [[place-eastrnmrch|Eastern March]] is where [[affiliation-byzarianlg|Byzaría]] first hears of them.
 
-### The Steppe Confederations
+The tribes are hostile to outsiders as a rule and sell exceptions to the rule. A caravan buys passage, guest-right and guides from each tribe whose range it crosses, and a stranger who has bought nothing is fair game. A guest who has eaten a tribe's salt is protected even against the host's own kin; a thief, a well-fouler and a trespasser are not. Blood-feud among the tribes can span generations, and the rites that close a feud are as exact as the ones that open it. Their dead are laid out under open sky with the faces to the sky-father and the names spoken to the four winds.
 
-The dominant population by area, though not by absolute numbers, is the **horse-nomad confederations** of the great central and eastern steppes—many distinct peoples in the central and northwestern grasslands, related but distinct peoples in the dry-stone steppe approaches to the east. They are master horsemen, organized into clans and tribes that travel in seasonal circuits between well-known waterings. A typical confederation comprises a few dozen tribes recognizing a paramount khan whose authority rests on personal prowess, descent, and the willingness of the constituent chiefs to keep paying him tribute.
+[[lore-ownedoasis|The Owned Oasis]] and [[lore-celestialroad|The Celestial Road]] set out how this works at the water and on the road.
 
-The confederations rise and fall on generational cycles. A particularly capable khan may unite three or four lesser confederations into a great khanate that briefly dominates a sixth of the continent's interior; a generation after his death the unifying alliance fragments back into the baseline patchwork. This rhythm has been the central political fact of the Khazryn for as long as records have been kept on its borders.
+## The Tellumel
 
-Their honor code is uncompromising. Hospitality is sacred—a stranger who has eaten salt at a confederation's hearth is owed protection even against the host's own kin, even at the cost of open war. Blood-feud can span generations; the rituals for concluding a feud are equally precise. Outsiders who master these codes can move safely; those who violate them, however innocently, find themselves hunted across a thousand miles.
+At the foot of the mountains, in the strip where the snowmelt reaches, lives a civilization older than any tribe's memory and unlike them in everything. The Tellumi came down out of the Grazian Mountains by the Western Descent, founded seven walled cities at the great springs, and kept two thousand years of records on baked clay. They worship the full pantheon of the [[affiliation-ashanpnthn|Āsháian Pantheon]], and three generations ago the [[affiliation-tribestrzd|Ātárzád]], twelve tribes with a single god, took four of their greatest cities. See [[place-swoasisbelt|Tellumel]], the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] and the [[affiliation-tribestrzd|Tribes of Ātárzád]] for the full account.
 
-### The Northern Forest Peoples
+Outsiders who hear "the Khazryn" often picture this corner. It holds most of the region's people, and it has almost nothing to do with the tribes of the waste, who regard it as foreign and raid its outer gardens when they dare. The nomads camped two days' ride to the north are less like the Tellumi than the Sultanate of Amradad is.
 
-The **taiga peoples** of the Khazryn's far north are a smaller and quite distinct population—hunter-fisher-trapper bands whose lifeways depend on the boreal forest, the cold rivers, and the seasonal movements of the elk, the salmon-analog runs, and the great furred beasts of the Siberian-analog wilderness. They share little culturally with either the steppe nomads or the southwestern oasis-civilizations. Their numbers are small (perhaps a hundred thousand all told), their political organization is loose (band-level, with seasonal larger gatherings), and their interactions with the wider Khazryn are mostly mediated by Khazryn merchants who venture north each summer to buy furs.
+## Ruins and Dangers
 
-### The Southwestern Oasis Civilization
+Under the sand and in the stone lie the cities of peoples who vanished before the tribes arrived or before the Tellumi wrote their first tablet. Some were buried by moving dunes, and the dunes uncover a street every generation or so. Some stand whole and empty, their towers still upright over dry harbors. Some were sacked, every inhabitant killed, and those are [[lore-bloodfield|blood-fields]]: three are known, and the road bends round two of them. Their oases dried up, or sit in the middle of ground that kills. Caverns and labyrinths open in the foothills and the ridges, cut by no hand the tribes will name.
 
-The **southwestern oasis-belt** houses the [[affiliation-khzrncnfdrtn|Khazryn]] and the [[affiliation-tribestrzd|Ātárzád]], whose civilization is utterly unlike either the steppe confederations or the taiga peoples. Urban, literate, polytheistic (Khazryn) or monolatrous (Ātárzád), bound to the [[affiliation-ashanpnthn|Āsháian Pantheon]] in ways that the steppe peoples regard as foreign even when they nominally share the same faith—the southwestern civilizations have more in common with the [[affiliation-sultntmrdd|Sultanate of Amradad]] (with which they share long trade and exile relations) than with the nomads camped two days' ride north.
+Treasure lies in all of them, and tomb-robbers and scholars go after it in about equal numbers. The tribes that own the nearest water charge for the privilege or bar it.
 
-The story of the Ātárzád conquest of the four great Khazryn cities (Zargandûr, Ashkarad, Kethramír, and the holy Oasis of Shirvan) is the central political drama of the southwestern Khazryn and is recited with bitter precision by both sides. See [[affiliation-khzrncnfdrtn|Khazryn Confederation]] and [[affiliation-tribestrzd|Tribes of Ātárzád]] for the full account.
+Living creatures gather where water is. [[being-gntcmlsp|Giant camel spiders]] come in to the scraps of a camp at night, [[being-sndstlkr|sand stalkers]] hunt what comes to drink, and [[being-bnscrpn|bone scorpions]] wait in the shade of any wall. [[being-dnstrdr|Dune striders]] run in herds on the open sand, and a [[being-sandwurm|sand wurm]] in a deep desert makes a caravan reroute for a season. The tribes know the hours when each is abroad.
 
-### Pre-Khazryn Ruins
+## The North and the Mountains
 
-Rumor and tradition hold that beneath the sands of the central desert lie ancient cities—the remains of a pre-Khazryn civilization that flourished when the central wasteland was green. A minority of oasis scholars maintain learned interest in these ruins; a larger population of tomb-robbers and would-be adventurers pursue them with more mercenary motives. What actually lies beneath the sand is an open question that occasionally surfaces as a story, or a curse, or a surprising artifact in a merchant's hands.
+The northern third of the region is not desert. [[place-gwtkrrgn|Gwatekor]] is the same cold forest that covers upper Velanthia, all of [[place-targud|Targud]] and much of [[place-malagna|Malagna]]: taiga, bog and frozen river, with a few thousand hunters scattered over a land the size of a kingdom. Some hunters take seals along the icy coast; others follow deer inland. They have no leaders to speak of and no part in the road. Hunters tell of walls and passages in the forest that no one of theirs cut, and travelers say they are halls of the [[lore-khazariclt|Khazári]] or works of the [[lore-theithari|Ithári]]; no one has been far enough in to say.
+
+Along the south the [[place-graznmntns|Grazian Mountains]] stand as a wall of year-round glaciers and enormous peaks, with six crossings in two thousand miles and the Tellumi cities below them. The range is old ground for ruins and labyrinths, and the Tellumi trace their ancestry to peaks above its north face. Its passes lead into Vedyara; the road across the Khazryn does not use them.
 
 ## Religion
 
-Religious practice in the Khazryn varies enormously by sub-population. The [[affiliation-ashanpnthn|Āsháian Pantheon]] is the _nominal_ faith of the entire region, and is genuinely the faith of the southwestern oasis-belt—the Khazryn practice the full twelve-deity pantheon with [[affiliation-ahurdaen|Āhúrdáén]] supreme, while the Ātárzád practice their monolatrous devotion to [[affiliation-ataros|Ātáröš]] alone. But the steppe confederations honor the Āsháian gods only loosely, layered on top of their own ancestral sky-father / earth-mother cults and shamanic traditions. The taiga peoples have their own animist tradition that the Āsháian priesthood scarcely acknowledges as religion at all.
+The [[affiliation-ashanpnthn|Āsháian Pantheon]] is the nominal faith of the entire region and the lived faith of the Tellumel, where the Tellumi keep the full pantheon under [[affiliation-ahurdaen|Āhúrdáén]] and the Ātárzád give their devotion to [[affiliation-ataros|Ātáröš]] alone. The tribes honor the Āsháian gods loosely, laid over their own sky-father and earth-mother cults and their shamans. [[affiliation-bahramis|Báhrámiš]] (storms and protection) and [[affiliation-korsadra|Khóršádrä]] (the eternal sky-light) are the two who matter to them, because the sky is the supreme presence in their cosmology and storms are its will. An _orqwen_ is raised under open sky, and treaties are sworn before lightning.
 
-Among the steppe nomads, [[affiliation-bahramis|Báhrámiš]] (storms and protection) and [[affiliation-korsadra|Khóršádrä]] (the eternal sky-light) are the two Āsháian deities who genuinely matter—both have been fitted naturally into pre-existing nomad cosmology, where the sky is the supreme presence and storms are the manifestations of divine will. Khans are inaugurated under open sky; treaties are sworn before lightning; the dead are exposed to the four winds rather than buried.
+The desert itself is charged. Particular mesas, springs and old shrines are holy to whoever lives nearest, and pilgrimage to them is recognized practice in all three peoples, though the three read the sites differently. The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here; the Tellumi regard it as foreign and the tribes have never heard of it.
 
-The desert itself is religiously charged. Particular mesas, springs, and ancient shrines are treated as sacred by whichever population happens to live near them. Pilgrimage to these sites is a recognized spiritual practice across all three Khazryn populations, even when their interpretations of what the sites _mean_ differ utterly.
+## Power
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has almost no presence here. The southwestern oasis-civilizations regard the Ordo as a foreign institution; the steppe and taiga peoples have never heard of it.
+No one rules the Khazryn. Power sits with the individual tribes, each answering only to its own _dowek_; with the Tellumi houses and the Ātárzád in the Tellumel, quarreling over four conquered cities; with the hunting bands of Gwatekor, who answer to nobody; and with a handful of oases on the road, whose masters grow rich on caravans.
 
-## Politics and Power
+Foreign powers have given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height held a handful of fortified outposts on the western margin, and their ruins are still watered, for a fee, by the tribes that camp there. [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes. The Sultanate of Amradad keeps formal relations with the Tellumel and avoids any adventure further north.
 
-No single ruler holds the Khazryn. Power is distributed among (a) the steppe confederations, perhaps a dozen major and many smaller, dominating the central and northern grasslands; (b) the [[affiliation-khzrncnfdrtn|Khazryn]] and [[affiliation-tribestrzd|Ātárzád]] in the southwestern oasis-belt, locked in their generations-long blood-feud over the four conquered cities; (c) the loose band-organization of the northern taiga peoples; and (d) the oasis settlements of the central caravan routes, whose allegiances shift with changing confederation fortunes.
-
-The steppe confederations occasionally unite into a great khanate in response to a charismatic warlord—and have, on three occasions in recorded history, threatened the settled neighbors with consequences serious enough to provoke continent-wide alarm. The most famous such episode, the [[lore-hndrdbnnrs|Storm of the Hundred Banners]] four centuries ago, took the one road a horde can take. It went round the [[place-graznmntns|Grazian]] wall rather than over it, down the broken country of the Western Descent at the range's western end, and overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern marches; from there it turned west across the [[place-dunharargn|Dunhara]] and reached the eastern walls of the [[affiliation-sultntmrdd|Sultanate of Amradad]] before fragmenting on the death of its founding khan. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The southwestern oasis-civilizations were largely spared on that occasion (the storm-khan respected the Sultanate's diplomatic missions); the next such unification may not be so fortunate.
-
-Foreign powers have generally given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height maintained a handful of fortified outposts on the western margin; [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes; the Sultanate of Amradad maintains formal diplomatic and trade relations with the southwestern oasis-civilizations and avoids any military adventure further north.
+The Storm of the Hundred Banners took the one road a host can take. It went round the Grazian wall by the Western Descent, overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern marches, and turned west across the Dunhara to the walls of the Sultanate before it broke on the death of its founding _orqwen_. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The Tellumel was largely spared, because the storm-chief respected the Sultanate's missions to its cities.
 
 ## Trade
 
-The Khazryn is the central overland artery between the Aurèldían west and the Tānvüri east—the **Celestial Road** system that carries silk, porcelain, tea, jade, lacquer, and finished metalwork westward, and silver, amber, wine, horses, and wool eastward. The tribal confederations tax every caravan that crosses their territory; the oasis settlements house, provision, and bank the merchants; the whole system is held together by a thousand small local agreements and the constant threat that any breakdown will make the route impassable for a generation.
+The Khazryn is the one overland artery between the Aurèldían west and the Tānvüri east. Silk, fine porcelain, brick tea, lacquer, jade, spices and medicines go west on camels, and silver and gold by weight, amber, coral, glass and horses go east. Everything on the list is light and dear, because nothing heavier is worth the price of crossing and no cart can cross.
 
-Byzarian and Haradi merchants dominate the western end of the trade; Tānvüri and Vedyari merchants the eastern. The Khazryn tribes themselves do relatively little long-distance trading—they are the road, not the travelers on it—but their control of the chokepoints makes them wealthier and more politically significant than any outside observer would guess from their nomadic appearance.
+The tribes do little long-distance trading of their own. They are the road, and their hold on its wells makes them richer and more powerful than their tents suggest. Byzarian and Haradi merchants dominate the western end of the trade and Tānvüri and Vedyari merchants the eastern; the middle belongs to whoever owns the water. [[lore-celestialroad|The Celestial Road]] gives the route, the costs, the waypoints and the reason merchants pay them.
 
-## Relations with Neighboring Regions
+## Neighbors
 
-To the **west** lies [[place-velanthrgn|Velanthia]], the transitional zone of forest-steppe and grain-belt that separates the Khazryn proper from the [[place-nrdlndsrgn|Nordlands]] forests further west. Velanthian-Khazryn relations are continuous along a long, fluid frontier: Velanthian grain flows east, Khazryn furs and horses flow west, and steppe-confederation raiders periodically test Velanthian frontier defenses with limited success.
+To the **west** lies [[place-velanthrgn|Velanthia]], the forest-steppe and grain belt between the Nordlands forests and the open grass. Velanthian grain goes east, Khazryn horses and furs come west, and tribal raiders test Velanthia's frontier defenses and its [[place-eastrnmrch|Eastern March]] neighbors with limited success.
 
-To the **southwest** lies the [[affiliation-sultntmrdd|Sultanate of Amradad]] (in the broader [[place-dunharargn|Dunhara]]). The Sultanate is the principal external power with which the southwestern oasis-civilizations maintain sustained diplomatic and trade relations, and is the host of the Khazryn exile community.
+To the **southwest** lies the [[affiliation-sultntmrdd|Sultanate of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Āsháian pantheon and many customs.
 
-Beyond the Sultanate, the rest of the [[place-dunharargn|Dunhara]] wraps around the Khazryn's southwestern corner—the wider Dunhari world. The two regions share the Āsháian pantheon and many cultural patterns; the southwestern Khazryn especially functions as an extension of the Dunhari sphere.
+To the **south** stands the Grazian wall and, below it, Vedyara. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the Tellumel lives partly on it.
 
-To the **south** stands the [[place-graznmntns|Grazian]] wall and, below it, [[place-vedyarargn|Vedyara]]. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the southwestern oasis-belt lives partly on it.
+To the **east** lie the passes to Tānvür, where the tribes of Idwakor sell the last stage and the Empire has spent centuries treating its frontier with them as a standing problem.
 
-To the **east** lie the passes that lead to [[place-tanvuregin|Tānvür]]. The eastern steppe confederations mediate most of the overland trade, and Tānvür has spent centuries managing its frontier with the easternmost of them as a permanent strategic problem.
-
-To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vrystwald]]. Contact is sparse—the two are nearly a thousand miles apart, and the Varokh forest tribes have little appetite for the open steppe—but the few routes that cross Velanthia carry a steady trickle of furs, amber, and (in the other direction) horses and Khazryn silver. The taiga peoples of the Khazryn's northern margin and the northeastern Varokh maintain the only continuous contact between the two.
+To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vrystwald]], nearly a thousand miles off. Contact is sparse, since the [[lore-varokhiclt|Varokhi]] forest tribes have little use for open steppe, but the few routes across Velanthia carry a trickle of furs, amber and Khazryn silver, with horses going the other way. The hunters of Gwatekor and the northeastern Varokhi keep the only continuous contact between the two.
 
 ## See Also
 
+- [[lore-celestialroad|The Celestial Road]]—the caravan road to Tānvür
+- [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who finds it
+- [[place-qisomrktcmp|Qìso]]—the market-camp at the road's heart
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—primary pantheon, shared with Dunhara and Harad
-- [[skill-dunharlng|Dunhari]]—the related naming tradition
+- [[skill-sowideslng|Sowides Language]]—the tongue of the tribes
+- [[doc-khazrynlex|Khazryn Lexicon]]—the words and names of the three tongues
 - [[place-heladrgn|Hellád Region]]—western gateway
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—western trading partner
 - [[place-dunharargn|Dunhara Region]]—southern desert cousin
 - [[place-vedyarargn|Vedyara Region]]—southern neighbor beyond the Grazian wall
 - [[place-tanvuregin|Tānvür Region]]—far eastern pass-end
