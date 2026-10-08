@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-**Ashkarad** is the second of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and the one the rest of the belt buys its tools, harness and glazed jars from. About thirty-eight thousand people live inside the walls, and the workshops outnumber the houses in the old quarter, where every street takes its name from the craft that fills it. Since the Breaking the city has belonged to the **Ardashír**, the merchant tribe of the Ātárzád, who hold its gates and its caravans. The craft families still hold the workshops, and the councils that govern each craft still meet.
+**Ashkarad** is the second of the seven Tellumi cities, in the heart of [[place-swoasisbelt|Tellumel]], and the one the rest of the belt buys its tools, harness and glazed jars from. About thirty-eight thousand people live inside the walls, and the workshops outnumber the houses in the old quarter, where every street takes its name from the craft that fills it. Since the Breaking the city has belonged to the **Ardashír**, the merchant tribe of the Ātárzád, who hold its gates, the point where the caravan road from the steppe comes into the belt, and its caravans. The craft families still hold the workshops, and the councils that govern each craft still meet.
 
 ## Water
 

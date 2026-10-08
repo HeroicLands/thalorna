@@ -37,7 +37,7 @@ data:
           Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
       - level: 5
         title: Mōbad
-        description: Ordained to the fire and the law, keeping the rites the Catastrophe did not extinguish.
+        description: Ordained to the fire and the law, keeping the rites the Breaking did not extinguish.
       - level: 6
         title: Elder of a House
         description: Senior of a princely house, whose counsel binds its head in practice if not in form.
