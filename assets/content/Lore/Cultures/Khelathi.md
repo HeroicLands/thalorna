@@ -313,6 +313,7 @@ Every Khelâthi word and term of art these notes use. The [[skill-khelathlng|lan
 | Qet Telgu      | The First Occasion, from which the temple chronicles count                                        |
 | qethar         | The old way, and the traditionalists' work-word                                                   |
 | qezelet        | The formal, temple form of qelu, written on attestations                                          |
+| qezat          | A battle                                                                                          |
 | qeztu          | War, and the mercenaries' work-word                                                               |
 | qinlat         | Sweet oil, unguent                                                                                |
 | reth           | The soul-component that is inscribed                                                              |
@@ -334,6 +335,8 @@ Every Khelâthi word and term of art these notes use. The [[skill-khelathlng|lan
 | zamlu          | Music, and the minstrels' work-word                                                               |
 | zegaru         | The field, and the farmers' work-word                                                             |
 | zeghet         | The hunt; Zeghet' opens the name of a company that goes out                                       |
+| zelalgit       | A thin blood-field, cursed and lethal; the Devourer's place                                       |
+| zelqezat       | A blood-field, the place of a battle whose dead were left unread                                  |
 | Zemelu         | A companion of the Gar-Aû, a mark of favor and access                                             |
 | zemnu          | Craft, and the artisans' work-word                                                                |
 | zethu          | Writing, the scribe, and the scribes' work-word                                                   |

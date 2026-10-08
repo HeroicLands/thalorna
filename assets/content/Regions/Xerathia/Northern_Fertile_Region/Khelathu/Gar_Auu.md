@@ -77,7 +77,7 @@ The tables give each reign as the list enters it: the throne name, the crowning 
 
 ### The Struck House
 
-The house the necropolis calls Gar-Zin'el'Rêlu stood barely a century, from 2281 to 2378 of the count. The list keeps its six reigns as years under struck names: 31, 22, 4, 19, 13 and 14. The last of them is the False Uqa'â, crowned in 2365 and thrown down in 2378, which is 268 AF—four and a half centuries before the present Gar-Aû. The list gives no name for any of the six and no name for the house; it enters the house's close as _the house is closed, and its name with it_.
+The house the necropolis calls Gar-Zin'el'Rêlu stood barely a century, from 2281 to 2378 of the count. The list keeps its six reigns as years under struck names: 31, 22, 4, 19, 13 and 14. The last of them is the False Uqa'â, crowned in 2365 and thrown down in 2378, which is 268 AF—four and a half centuries before the present Gar-Aû. His reign is [[lore-failfloods|the Failing Floods]]; its end is [[lore-sealedgran|the Battle of the Sealed Granaries]] and [[lore-judgfalseuq|the Judgment of the False Uqa'â]]. The list gives no name for any of the six and no name for the house; it enters the house's close as _the house is closed, and its name with it_.
 
 ### From the Fall to the Reigning House
 
@@ -109,11 +109,11 @@ The priesthood of Uqa'â raised the first of these houses in the year of the fal
 |                   | **Quz'el'Retha II**    |         2576 |     4 | 466 | went to the West in his fourth year                                                  |
 |                   | **Quz'el'Retha III**   |         2579 |     2 | 469 | a child of three floods; **Zu'Mequ** stood beside him; went to the West in the night |
 
-The Amralo'Methu are the Vylarian occupation. A Vylarian army at the height of [[affiliation-vylarinmpr|Vylaria]]'s reach took the throne in 377 AF, and the priesthood crowned its commander Zab'el'Qar—"lord in order," a name that told the valley what was expected of him. His son reigned after him as a Khelâthi, and when he went to the West in the night the house was closed and no Vylarian claimed it. The list gives the commander's throne name and nothing else, and no Khelâthi record gives the name he was born to.
+The one-reign house of Shethes'Râlu is a frontier commander crowned in the year of [[lore-eastroad|the Storm on the Eastern Road]]. The Amralo'Methu are the Vylarian occupation ([[lore-vylconquest|the Vylarian Conquest]]). A Vylarian army at the height of [[affiliation-vylarinmpr|Vylaria]]'s reach took the throne in 377 AF, and the priesthood crowned its commander Zab'el'Qar—"lord in order," a name that told the valley what was expected of him. His son reigned after him as a Khelâthi, and when he went to the West in the night the house was closed and no Vylarian claimed it ([[lore-foreignhs|the Closing of the Foreign House]]). The list gives the commander's throne name and nothing else, and no Khelâthi record gives the name he was born to.
 
 ### The Reigning House
 
-The house of Zu'Mequ took the throne in 470 AF, when its head, **Meqes**, stood beside the child Quz'el'Retha III and was crowned in the child's second year. He kept his own given name as his throne name, and every Gar-Aû of the house since has been crowned Meqes. The house is two and a half centuries old, the longest-lived in the Near Count, and at the height of its power **Meqes VI** carried the older houses out from the river-front of the royal necropolis at [[place-zugezer|Zu-Gezer]] by the **Great Removal** and set the house's own Way at the head of the death-road.
+The house of Zu'Mequ took the throne in 470 AF, when its head, **Meqes**, stood beside the child Quz'el'Retha III and was crowned in the child's second year ([[lore-childfloods|the Child of Three Floods]]). He kept his own given name as his throne name, and every Gar-Aû of the house since has been crowned Meqes. The house is two and a half centuries old, the longest-lived in the Near Count, and at the height of its power **Meqes VI** carried the older houses out from the river-front of the royal necropolis at [[place-zugezer|Zu-Gezer]] by [[lore-greatremovl|the Great Removal]] and set the house's own Way at the head of the death-road.
 
 | Throne name    | Crowned (ST) | Years |  AF | The list enters                                                                            |
 | -------------- | -----------: | ----: | --: | ------------------------------------------------------------------------------------------ |
@@ -159,6 +159,6 @@ Only the houses that ruled from Galezkara lie in the royal necropolis across the
 - [[being-garaumeqesxv|Gar-Aû Meqes XVI]]—the reigning Gar-Aû
 - [[affiliation-garzinelrelu|Gar-Zin'el'Rêlu]]—the struck house
 - [[place-zugezer|Zu-Gezer]]—the royal necropolis, where each house that ruled from Galezkara has its Way
-- [[lore-khelathclndr|The Khelâthi Calendar]]—regnal years beside the count from the [[lore-firstoccasion|First Occasion]]
+- [[lore-khelathclndr|The Khelâthi Calendar]]—regnal years beside the count from the [[lore-firstoccasion|First Occasion]], and the ages the Keepers divide the list into
 - [[lore-qettelgu|The Qet Telgu]]—where the king-list begins
 - [[affiliation-rethsaar|Faith of Reth'Sa'âr]]—the priesthood that keeps the list
