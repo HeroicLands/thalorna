@@ -57,7 +57,7 @@ and the result was the Varokh. The same process, further west and north, produce
 
 So a Varokh defending Vrystwald against an invader is descended from the people who were here first
 **and** from the people who invaded them, and has no way of telling which ancestor is doing the
-defending. Nobody up there distinguishes, and after three thousand years there is nobody who could.
+defending. Nobody up there distinguishes, and after two thousand years there is nobody who could.
 
 What is not in doubt is which half the **ferocity** came from. The Pelwar who stayed to be conquered were
 not the ones who broke armies in the forest. The Varokh are, and they got the temperament from the people

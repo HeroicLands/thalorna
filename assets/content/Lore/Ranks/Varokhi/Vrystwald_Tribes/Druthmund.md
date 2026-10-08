@@ -27,7 +27,7 @@ He answers for his own oath before the war-band that heard it, and owes his kind
 
 ## Offices Open at This Standing
 
-The Hildskald, who summons the common muster when a threat concerns every tribe; the Frithmund, who holds the peace at the council and the seasonal markets; the Thalthúl, keeper of the wells, springs, or pastures the tribes share; the Véthrith, holder of the routes; and the Athalthúl, sent to treat with a settled power.
+The Hildskald, who recites a battle before the villages that fought it; the Frithmund, who holds the peace at the council and the seasonal markets; the Thalthúl, keeper of the wells, springs, or pastures the tribes share; the Véthrith, holder of the routes; and the Athalthúl, sent to treat with a settled power.
 
 ## Where This Standing Is Held
 

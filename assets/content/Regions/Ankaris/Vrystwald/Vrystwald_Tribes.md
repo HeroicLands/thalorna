@@ -54,7 +54,7 @@ data:
         Answers for the village in everything that is neither war nor the spirit's business—its trade and custom, a particular dispute it accepts for arbitration, and blood owed and paid between kindreds.
       Dómrád: >-
         Arbiter of a village's customs, or of a particular dispute whose parties accept the judgment; no common court stands above the villages.
-      Hildskald: Summoner of a joint muster agreed by villages facing the same imminent danger; the charge ends with the muster.
+      Hildskald: Recites a battle before the villages that fought it, keeping the deeds of each war-band in the order they were done.
       Frithmund: Holder of the peace at a meeting or seasonal market by the custom observed by those present, without a wider command.
       Thalthúl: >-
         Keeper of a village's wells, springs or pastures and of the order in which they are used.

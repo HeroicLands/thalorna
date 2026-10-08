@@ -170,7 +170,7 @@ A captive still worth ransoming is kept rather than absorbed into an owning hous
 | glóm        | A banked fire, the hearth covered to keep it alive until morning.                                            |
 | grema       | Deep winter, when the frozen rivers become roads.                                                            |
 | Hárthúl     | The War Chief of a village; also the common War Chief acclaimed for a single danger.                         |
-| Hildskald   | An office the notes gloss two ways: the one who recites a battle, or the summoner of a joint muster.         |
+| Hildskald   | A battle-reciter, the one who recites a battle before the villages that fought it.                           |
 | hóva        | Ransom, the price a kindred pays to have its own back.                                                       |
 | hrág        | A hungry spirit, one of those that hunt the weak beyond the totem's land.                                    |
 | hraldar     | A smith, one who works iron.                                                                                 |
