@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~-80
-      precision: century
       kind: treaty
       depth: region
       sources: [affiliation-suvrgrjnpd, affiliation-bharyastan, place-weighingstn]

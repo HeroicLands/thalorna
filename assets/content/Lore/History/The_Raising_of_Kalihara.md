@@ -9,8 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-9280
-      precision: millennium
-      derived: ten thousand years
       kind: founding
       depth: world
       sources: [lore-theithari, affiliation-kalihara, place-klhrcntnnt]

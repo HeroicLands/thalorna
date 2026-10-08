@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-10000
-      precision: millennium
       kind: arrival
       depth: world
       sources: [lore-theithari, place-himashila, place-shitakoshtha, place-shunydvara]

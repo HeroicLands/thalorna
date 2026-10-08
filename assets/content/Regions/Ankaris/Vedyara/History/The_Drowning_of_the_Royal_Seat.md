@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~120
-      precision: century
       kind: catastrophe
       depth: region
       sources: [place-drownedcptl, place-mahanadi, place-rajavalilib]
@@ -29,7 +28,7 @@ data:
             knowledge: named
       who: [{ref: affiliation-rajaprjnpd, role: victim}]
       follows:
-        - event: lore-mhndkngdm
+        - event: lore-mhndkngdm#dissolution
           how: enabled
           note: the town was the kingdom's before it was the janapada's, and its royal buildings are what make the hazard
       accounts:

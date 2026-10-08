@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~150
-      precision: century
       kind: dissolution
       depth: region
       sources:

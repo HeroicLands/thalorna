@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-5300
-      precision: century
       kind: making
       depth: world
       sources: [place-ankrscntnnt, lore-flkkhazar, lore-vardain, lore-pelwarpepl, lore-longnhrtnc]

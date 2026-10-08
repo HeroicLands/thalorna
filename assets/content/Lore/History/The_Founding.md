@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: 1
-      precision: year
       kind: accession
       depth: world
       sources: [affiliation-vylarinmpr, place-ankrscntnnt]

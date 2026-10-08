@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~590
-      precision: century
       kind: accession
       depth: region
       sources: [affiliation-vindhyalay, place-suryagarha]

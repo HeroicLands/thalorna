@@ -8,8 +8,8 @@ tags: [history, vedyara]
 data:
   packFolder: vedyara
   events:
-    - when: ~60
-      precision: century
+    - id: founding
+      when: ~60
       kind: founding
       depth: region
       sources: [affiliation-vindhyalay, place-suryagarha, place-slvrgorges, place-estrnreach]
@@ -38,8 +38,8 @@ data:
             The king was given the road. The rock on either side of it was never part of the gift.
           agrees: disputes
       unresolved: ["the wording of the charter on the rock, which neither side has tested"]
-    - when: ~260
-      precision: century
+    - id: foundingsecond
+      when: ~260
       kind: founding
       depth: region
       sources: [place-suryagarha, affiliation-vindhyalay]

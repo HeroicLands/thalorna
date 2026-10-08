@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-45
-      precision: decade
       kind: dissolution
       depth: world
       sources: [decided-midhalion]

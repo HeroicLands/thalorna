@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~315
-      precision: century
       kind: fall
       depth: region
       sources: [lore-hndrdbnnrs, affiliation-bhumipala, place-marchroad, place-wstrndscnt]

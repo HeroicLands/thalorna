@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -73
-      precision: year
       kind: charter
       depth: world
       sources: [decided-midhalion, affiliation-ordoarcanis]

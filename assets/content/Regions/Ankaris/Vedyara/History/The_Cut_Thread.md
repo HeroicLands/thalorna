@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~660
-      precision: decade
       kind: schism
       depth: region
       sources: [affiliation-adanasreni]

@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~320
-      precision: century
       kind: loss
       depth: region
       sources: [lore-conchdoor, place-sangama, affiliation-janpdsvdyr]

@@ -10,7 +10,6 @@ data:
   events:
     - when: ~440
       until: ~540
-      precision: century
       kind: loss
       depth: region
       sources: [affiliation-gomarga, place-vandhyabhumi]
@@ -24,10 +23,6 @@ data:
             how: >-
               the lineage whose wells were taken fills its own great well with stones so that the raiders cannot water at it
             knowledge: named
-      follows:
-        - event: lore-wellbrk1
-          how: echoed
-          note: the other half of the same bargain, broken by the crown's absence and not its greed
       who: [{ref: affiliation-gomarga, role: actor}]
       accounts:
         - by: affiliation-gomarga

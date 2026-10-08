@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~470
-      precision: century
       kind: schism
       depth: region
       sources: [affiliation-chayavrata, affiliation-svapnasarisamaja, place-waitinghouse]

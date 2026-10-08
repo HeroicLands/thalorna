@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~270
-      precision: century
       kind: battle
       depth: region
       sources: [affiliation-gomarga, affiliation-mrchntclctvvdyr, being-vdyrnelphnt]

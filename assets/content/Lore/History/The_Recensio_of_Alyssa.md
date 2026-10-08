@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -75
-      precision: year
       kind: catastrophe
       depth: world
       sources: [decided-midhalion]

@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-400
-      precision: decade
       kind: founding
       depth: world
       sources: [affiliation-panepistmm, place-helionis]

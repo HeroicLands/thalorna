@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~325
-      precision: century
       kind: raising
       depth: region
       sources: [affiliation-bhumipala, place-sandhyapur, place-marchroad]

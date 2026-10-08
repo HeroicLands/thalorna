@@ -10,7 +10,6 @@ data:
   events:
     - when: ~-2110
       stated: {calendar: khelathclndr, text: "1 ST"}
-      precision: century
       kind: founding
       depth: world
       sources: [place-ankrscntnnt, affiliation-empireakhlth]

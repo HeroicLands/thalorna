@@ -8,8 +8,8 @@ tags: [history, vedyara]
 data:
   packFolder: vedyara
   events:
-    - when: ~-780
-      precision: century
+    - id: foundingtemples
+      when: ~-780
       kind: founding
       depth: region
       sources: [affiliation-suvrgrjnpd, place-goldmountain, place-bhrvdvsthna]
@@ -33,8 +33,8 @@ data:
           agrees: full
       unresolved:
         - which of the three temples was raised first; the janapada holds them of a size and rotates the convening among them so that the question does not matter
-    - when: ~-780
-      precision: century
+    - id: foundingacademies
+      when: ~-780
       kind: founding
       depth: region
       sources: [affiliation-dhnrktjnpd, place-bowfort, place-highdraw]
@@ -56,8 +56,8 @@ data:
           withholds: any date, which nobody else's account supplies either
       unresolved:
         - who laid the fort's megalithic foundations, which are older than the academies, the janapada and perhaps the language
-    - when: ~-780
-      precision: century
+    - id: foundingforest
+      when: ~-780
       kind: founding
       depth: region
       sources: [affiliation-bhrvdvbhog, place-bharavavana]

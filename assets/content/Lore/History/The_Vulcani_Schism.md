@@ -9,8 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~220
-      precision: century
-      derived: five hundred years ago
       kind: schism
       depth: world
       sources: [lore-vulcanischism, affiliation-blackflame]

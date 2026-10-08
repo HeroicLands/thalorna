@@ -8,8 +8,8 @@ tags: [history, vedyara]
 data:
   packFolder: vedyara
   events:
-    - when: ~-640
-      precision: century
+    - id: founding
+      when: ~-640
       kind: founding
       depth: region
       sources: [lore-rcitkngsmhnd, affiliation-rajaprjnpd]
@@ -32,9 +32,9 @@ data:
       unresolved:
         - the founding ancestor's name and history, which the recitation gives as legend and not as record
         - where the kings kept their seat before Rājapur
-    - when: -480
+    - id: foundingcapital
+      when: -480
       stated: {calendar: mdhvndrcnt, text: "1 AK"}
-      precision: year
       kind: founding
       depth: region
       sources: [place-sandstonealtr, lore-rcitkngsmhnd, affiliation-rajaprjnpd]
@@ -52,9 +52,9 @@ data:
         - event: lore-stndrdmdhv
           how: enabled
           note: the capital is founded in the reign of the philosopher-kings, and its chronicle is dated by their count
-    - when: -241
+    - id: dissolution
+      when: -241
       stated: {calendar: mdhvndrcnt, text: "1 AC"}
-      precision: year
       kind: dissolution
       depth: region
       sources:

@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~-125
-      precision: century
       kind: raising
       depth: region
       sources: [affiliation-vyalendra2, place-vyalendra3, lore-vylndrkngs]

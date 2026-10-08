@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: ~-3100
-      precision: century
       kind: raising
       depth: world
       sources: [place-ironfells, lore-flkkhazar, lore-grukaraelwyth]

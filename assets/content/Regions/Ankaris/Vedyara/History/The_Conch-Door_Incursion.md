@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: ~320
-      precision: century
       kind: conquest
       depth: region
       sources:

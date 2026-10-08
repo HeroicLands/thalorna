@@ -8,9 +8,9 @@ tags: [draft]
 data:
   packFolder: regkhlaw
   events:
-    - when: ~268
+    - id: fall
+      when: ~268
       stated: {calendar: khelathclndr, text: "2378 ST"}
-      precision: decade
       kind: fall
       depth: region
       sources: [place-zugezer, place-yathtelgu, affiliation-garzinelrelu, being-falseuqaa]
@@ -39,8 +39,8 @@ data:
           withholds: what was sealed into the tomb with him
       unresolved:
         - the name he reigned under, which the oldest servants of the necropolis still whisper
-    - when: ~377
-      precision: decade
+    - id: conquest
+      when: ~377
       kind: conquest
       depth: region
       sources: [affiliation-empireakhlth]
@@ -58,9 +58,9 @@ data:
           agrees: partly
           withholds: the commander's own name
       unresolved: ["the commander's Vylarian name, which no Khelâthi record gives"]
-    - when: ~470
+    - id: founding
+      when: ~470
       stated: {calendar: khelathclndr, text: "2580 ST"}
-      precision: decade
       kind: founding
       depth: region
       sources: [place-zugezer, being-garaumeqesxv]

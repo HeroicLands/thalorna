@@ -8,8 +8,8 @@ tags: [history, vedyara]
 data:
   packFolder: vedyara
   events:
-    - when: ~-200
-      precision: century
+    - id: schismfirst
+      when: ~-200
       kind: schism
       depth: region
       sources: [affiliation-agnipantha, affiliation-trimurtisampradaya]
@@ -21,8 +21,8 @@ data:
         - event: lore-kindlford
           how: caused
           note: the doctrine the founder's season taught is the doctrine the temples refused
-    - when: ~280
-      precision: century
+    - id: schismsecond
+      when: ~280
       kind: schism
       depth: region
       sources: [affiliation-agnipantha]
@@ -31,8 +31,8 @@ data:
       standing: single-source
       where: {locus: [place-gajasthali]}
       follows: [{event: lore-fieldelephnt, how: caused, note: the field the kings forbade}]
-    - when: ~560
-      precision: century
+    - id: schismthird
+      when: ~560
       kind: schism
       depth: region
       sources: [affiliation-agnipantha, affiliation-vyalendra2, place-vyalendra3]

@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -2427
-      precision: year
       kind: fall
       depth: world
       sources:

@@ -10,7 +10,6 @@ data:
   events:
     - when: -480
       stated: {calendar: mdhvndrcnt, text: "1 AK"}
-      precision: year
       kind: founding
       depth: world
       sources: [lore-mdhvndrcnt, place-madhavendra, place-vandhyabhumi, skill-vedyarlng]

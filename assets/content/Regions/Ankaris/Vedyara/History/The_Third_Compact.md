@@ -9,7 +9,6 @@ data:
   packFolder: vedyara
   events:
     - when: 320
-      precision: year
       kind: treaty
       depth: region
       sources:

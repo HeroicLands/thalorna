@@ -9,7 +9,6 @@ data:
   packFolder: settinglore
   events:
     - when: -5123
-      precision: year
       kind: raising
       depth: world
       sources: [lore-khazarturn, lore-flkkhazar]
