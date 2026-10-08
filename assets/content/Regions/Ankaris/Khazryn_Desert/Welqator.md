@@ -26,7 +26,7 @@ In the southwest the grass gives out into the [[place-hekardesert|Desert of Hek'
 
 ## The People
 
-The tribes of Welqator are the best practiced with outsiders on the whole road, because they have had the longest dealings with the League and with Velanthia. They sell passage at the edge of the March and expect it bought. A caravan that arrives with silver and the right courtesies finds a _sowid_, a rider, waiting to join it and a price ready; a stranger who arrives with neither is stripped of everything but his clothes and sent back west, and killed only if he fights.
+The tribes of Welqator are the best practiced with outsiders on the whole road, because they have had the longest dealings with the League and with Velanthia. They sell passage at the edge of the March and expect it bought. A caravan that arrives with silver and the right courtesies finds a sowid, a rider, waiting to join it and a price ready; a stranger who arrives with neither is stripped of everything but his clothes and sent back west, and killed only if he fights.
 
 Their herds are horses and sheep, and the tribes test the March's herds and unescorted strings in spring. They also carry the Velanthian frontier trade, grain east and horses and furs west, and some of their chiefs are as comfortable in a Velanthian host's hall as in their own tents. No tribe here holds more than a stretch of road a few days long. A caravan crosses perhaps eight ranges in the first five hundred miles, and the master pays each separately.
 

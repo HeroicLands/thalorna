@@ -152,14 +152,26 @@ Above all of it he owes the record. A Tellumi who lets a genealogy lapse, or let
 
 ## Glossary {#glossary}
 
-| Term       | Meaning                                                                                                  |
-| ---------- | -------------------------------------------------------------------------------------------------------- |
-| Āsha       | The cosmic order of truth that Āhúrdáén sustains and the faithful serve                                  |
-| Āthravān   | An initiate studying for the priesthood of Āhúrdáén                                                      |
-| Druj       | The force of disorder and the lie that presses against Āsha                                              |
-| Hērbad     | A priest of Āhúrdáén below the Mōbad, who keeps a fire-temple, judges and teaches                        |
-| High Mōbad | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes     |
-| Mōbad      | Priest and judge, ordained after fifteen to twenty years' study, who keeps a community's law and records |
-| Mōbadate   | The body of Mōbads, which keeps the faith, the calendar, the law and the records                         |
+| Term                  | Meaning                                                                                                  |
+| --------------------- | -------------------------------------------------------------------------------------------------------- |
+| Āsha                  | The cosmic order of truth that Āhúrdáén sustains and the faithful serve                                  |
+| Āthravān              | An initiate studying for the priesthood of Āhúrdáén                                                      |
+| balem                 | Exile; a princely house that keeps its court abroad while it claims its city                             |
+| Druj                  | The force of disorder and the lie that presses against Āsha                                              |
+| gaben                 | Day; in _lirun gaben_, "a free day", a greeting                                                          |
+| garen                 | A prince, the hereditary head of one of the seven houses                                                 |
+| henhulpedin           | A blood-field: ground where the names of the dead were never read                                        |
+| Hērbad                | A priest of Āhúrdáén below the Mōbad, who keeps a fire-temple, judges and teaches                        |
+| High Mōbad            | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes     |
+| Keeper of the Tablets | The officer of the court of Ushtra-bēr who reads each petition aloud and records each decision in clay   |
+| lirun                 | Free; in _lirun gaben_, "a free day", a greeting                                                         |
+| Mōbad                 | Priest and judge, ordained after fifteen to twenty years' study, who keeps a community's law and records |
+| Mōbadate              | The body of Mōbads, which keeps the faith, the calendar, the law and the records                         |
+| nartem                | Law and custom, as a community's Mōbad keeps them                                                        |
+| neyin                 | A guest, owed food and shelter without question in time of need                                          |
+| ninel                 | A household, which keeps its own tablets                                                                 |
+| revun                 | The return: the recovery of the lost cities that the exile houses work for                               |
+| sirvelpedin           | A cursed field: a thin blood-field                                                                       |
+| tenyul                | A clay tablet; a household's or a house's written record                                                 |
 
-Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].
+Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]]. Dowek is a loanword from [[lore-sowidesclt#glossary|the Sowides]].

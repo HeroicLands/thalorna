@@ -20,7 +20,7 @@ For ten days the camp is the busiest place for a thousand miles in any direction
 
 ## Who Keeps It
 
-No polity does. The tribes whose ranges meet here hold a moot, the _jutjen_, before each season. Their chiefs, the _dowek_, swear a peace on the well-stone, and the peace holds for the ten days of the market. In the camp no blood is shed, no weapon is drawn, and a quarrel is carried to the moot and priced. A man who breaks the peace is killed outside the ring by the tribe he wronged, and the tribe that holds his water pays the blood-price.
+No polity does. The tribes whose ranges meet here hold a moot, the jutjen, before each season. Their chiefs, the dowek, swear a peace on the well-stone, and the peace holds for the ten days of the market. In the camp no blood is shed, no weapon is drawn, and a quarrel is carried to the moot and priced. A man who breaks the peace is killed outside the ring by the tribe he wronged, and the tribe that holds his water pays the blood-price.
 
 The moot sells everything it can: stands, water, grazing for the beasts, the services of its riders, and its word. Its clerks keep tally with knotted cords and remember more than any ledger holds.
 

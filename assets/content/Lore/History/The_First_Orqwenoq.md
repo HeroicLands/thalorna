@@ -62,7 +62,7 @@ The first of the steppe's great unions is remembered by what it did at one city,
 
 ## The Union
 
-The tribes of the [[place-khzryndsrtrgn|Khazryn]] are independent, each under its own dowek, and nothing binds them to one another. For a few years about 190 BF one will did. An _orqwen_ rose who forced the tribes together under a personal dictatorship, and the union he or she made, the _orqwenoq_, is the first of the three that the tribes count their years from. The tribes tell nothing of the orqwen's name. They tell what the union asked for and what it cost.
+The tribes of the [[place-khzryndsrtrgn|Khazryn]] are independent, each under its own dowek, and nothing binds them to one another. For a few years about 190 BF one will did. An orqwen rose who forced the tribes together under a personal dictatorship, and the union he or she made, the orqwenoq, is the first of the three that the tribes count their years from. The tribes tell nothing of the orqwen's name. They tell what the union asked for and what it cost.
 
 ## The Demand
 

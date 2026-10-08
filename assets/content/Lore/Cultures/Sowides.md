@@ -15,7 +15,7 @@ The Sowides call themselves "the riders," and the rest of the world calls them t
 
 A tribe is a few hundred families who share wells, a mark and a chief. The chief is the dowek, a man or a woman chosen by the elders from the strongest line, who holds the office for as long as the herds are fat and the wells are held. A dowek who loses either is replaced, usually quietly, by a cousin the elders have been counting for years.
 
-The elders (_todwe_) meet in the moot (_jutjen_) at the central well, and the dowek speaks last. A dowek cannot raise a raid, move a camp or sell passage across the tribe's land without the moot's assent, and a dowek who tries finds the camp has moved without him. The war captain is a second post, held by whoever the warband will follow, and a tribe at war may have a captain whose word outweighs the dowek's for a season.
+The elders (_todwe_) meet in the moot (jutjen) at the central well, and the dowek speaks last. A dowek cannot raise a raid, move a camp or sell passage across the tribe's land without the moot's assent, and a dowek who tries finds the camp has moved without him. The war captain is a second post, held by whoever the warband will follow, and a tribe at war may have a captain whose word outweighs the dowek's for a season.
 
 Tribes are not equal. A middling tribe is three hundred families on three wells; a strong one holds a dozen, and the weaker tribes around it bargain, marry upward and pay. Strength shifts with the rain. A tribe whose wells held in a drought year takes the herds of the tribe whose wells failed, and the tribes nearby remember who did what in a dry year for a generation.
 
@@ -29,7 +29,7 @@ Camp at one of them uninvited and the owners arrive in the morning. What they do
 
 ## The Stranger and the Price of Passage
 
-A stranger without a sponsor is fair game, and everything the tribes do toward travelers follows from that. A caravan crossing the steppe pays each tribe whose wells and grazing it uses, and each payment buys three things: the right to water at the tribe's wells, a guide (_sowid_, "rider," the same word the Sowides use for themselves) who knows the next three days of country, and the tribe's token (_kiput_), which a rider of another tribe will honor at the border because the mark on it is the one he would have to answer to.
+A stranger without a sponsor is fair game, and everything the tribes do toward travelers follows from that. A caravan crossing the steppe pays each tribe whose wells and grazing it uses, and each payment buys three things: the right to water at the tribe's wells, a guide (sowid, "rider," the same word the Sowides use for themselves) who knows the next three days of country, and the tribe's token (_kiput_), which a rider of another tribe will honor at the border because the mark on it is the one he would have to answer to.
 
 The price is set tribe by tribe and changes with the season, the size of the caravan, the dowek's mood and the state of the tribe's feuds. A caravan master's real asset is the list of agreements he carries in his head: which dowek, which wells, what price last year, and which tribe is at war with which this season. The Sowides keep no written ledger, and a bargain is witnessed aloud before the elders of both parties and held in their memory. A master who cheats a tribe is not pursued by an army; he finds, three tribes along, that nobody will sell him a guide.
 
@@ -37,7 +37,7 @@ Once a stranger has eaten at a dowek's fire, he is a guest. The Sowides hold the
 
 ## Raiding and the Feud
 
-The Sowides raid one another, and they raid the settled marches. A raid (_jadek_) is a tribe's business, planned in moot and led by a war captain: herds are driven off, wells are held or fouled, and captives are taken for ransom (_lusiq_) and not for slaves. A raid that kills is a feud. Blood-feud (_badwe_) between kindreds runs for generations and has its own ending, a payment of horses or a marriage arranged between the families, and until the ending is made, a man of one line does not eat in the tent of the other.
+The Sowides raid one another, and they raid the settled marches. A raid (jadek) is a tribe's business, planned in moot and led by a war captain: herds are driven off, wells are held or fouled, and captives are taken for ransom (_lusiq_) and not for slaves. A raid that kills is a feud. Blood-feud (badwe) between kindreds runs for generations and has its own ending, a payment of horses or a marriage arranged between the families, and until the ending is made, a man of one line does not eat in the tent of the other.
 
 Raiding is how a young rider earns a place and how a poor tribe lives through a bad year, and it follows rules. Women, children and shamans are not killed. A well is not poisoned, because the next tribe to need it may be your own. A raid on a caravan that has paid the tribe's toll is a raid on the tribe's honor, and the tribe answers it. A raid on a caravan that has paid nobody is not a raid but a collection, and a complaint to the tribe that made it gets the caravan master nowhere.
 
@@ -78,4 +78,27 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 
 ## Glossary {#glossary}
 
-The glossary of Sowides words used in these pages is set out here.
+| Term          | Meaning                                                                                                                        |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| badwe         | A blood-feud between two kindreds, closed by a payment of horses or a marriage                                                 |
+| bedaq         | Owned water: a spring or seep too small to settle, the property of one tribe                                                   |
+| dowek         | The chief of a tribe, chosen by its elders and bound by its moot                                                               |
+| hand-off well | A well where the riders of one stretch of the road give a caravan to the riders of the next, before witnesses                  |
+| jadek         | A raid, planned in moot and led by a war captain                                                                               |
+| jutjen        | A moot of elders, a tribe's own or that of the tribes whose ranges meet at a well                                              |
+| kèdoq         | A blood-field: ground where many died at once and none received their rite                                                     |
+| kiput         | The token a tribe issues for passage, a tally of cord or clay cut with its sign                                                |
+| lusiq         | A ransom, the price for which a captive taken in a raid goes home                                                              |
+| orqwen        | A leader who forces many tribes together by the sword, for one lifetime                                                        |
+| orqwenoq      | The union an orqwen forces, which breaks up on the orqwen's death                                                              |
+| road-peace    | What a caravan owes the tribes it pays: no hunting, no drawing at unnamed water, no fouling a well, no armed men off the track |
+| semoq         | A guest who has eaten a tribe's salt and is protected to the edge of its range                                                 |
+| skull-pole    | A horse skull on a pole at the approach to owned water, facing the way strangers come                                          |
+| sowid         | A rider of a tribe who travels with a caravan across the tribe's range and answers for it                                      |
+| todwe         | An elder of a tribe, with a voice in its moot                                                                                  |
+| well-stone    | The flat stone over the mouth of an owned well, cut with the tribe's sign                                                      |
+| wèsuk         | A thin blood-field, where the hunters cross and kill                                                                           |
+| yelos         | The laying-out ground, where the dead are left to the four winds                                                               |
+| yoleq         | Salt, the first thing a tribe gives a guest                                                                                    |
+
+Tenyul is a loanword from [[lore-khazrynclt#glossary|the Tellumi]].

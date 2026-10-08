@@ -66,7 +66,7 @@ The third of the steppe's great unions is named for a town that was full of stra
 
 ## The Union
 
-About 548 AF an _orqwen_ forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tanvuregin|Tānvür]] to threaten it. It broke up when its orqwen died, and the tribes went back to their wells.
+About 548 AF an orqwen forced the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] together for the third time. The union overran the eastern fringe of [[place-velanthrgn|Velanthia]], as the steppe has done more than once, and it never came near enough to [[place-tanvuregin|Tānvür]] to threaten it. It broke up when its orqwen died, and the tribes went back to their wells.
 
 ## The Fair
 

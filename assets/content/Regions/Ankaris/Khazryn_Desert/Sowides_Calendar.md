@@ -23,7 +23,7 @@ data:
 
 The steppe tribes count years from the last great union. A rider asked how old a well-bond is answers with the banner it was sworn under: "the ninth year of the Silent Market." The present year is the hundred and seventy-third of the **Silent Market**, written 173 SM, and the next union that rises will end the count and begin another from its first day.
 
-No tribe keeps a count of its own. Each [[skill-sowideslng|Sowides]] tribe is independent, with its own dowek, its own wells and its own grazing, and the only thing the tribes of the whole steppe share is the memory of the three times a single will forced them together. An _orqwen_ is a rare dictator who does that, and the union he or she makes, the _orqwenoq_, falls apart on the day the orqwen dies. The three great ones are the reckoning's eras. The count therefore resets at each union: a year is numbered inside the banner it was lived under, and nobody adds the banners together.
+No tribe keeps a count of its own. Each [[skill-sowideslng|Sowides]] tribe is independent, with its own dowek, its own wells and its own grazing, and the only thing the tribes of the whole steppe share is the memory of the three times a single will forced them together. An orqwen is a rare dictator who does that, and the union he or she makes, the orqwenoq, falls apart on the day the orqwen dies. The three great ones are the reckoning's eras. The count therefore resets at each union: a year is numbered inside the banner it was lived under, and nobody adds the banners together.
 
 ## The Year
 
