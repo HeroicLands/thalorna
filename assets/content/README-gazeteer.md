@@ -6,7 +6,7 @@ Thalorna's supporting notes form a **complete reference**. The Adventurer's Guid
 
 Completeness and readability belong together. A settlement's population, harvest, ruler, and defenses may be essential facts, but a string of figures alone rarely helps a player imagine being there or a GM bring the place to life. Explain what those facts mean to the people who live with them. Keep precise information easy to find; give it context that makes it memorable and useful.
 
-This document draws on Deborah Teramis Christian and Bruce A. Heard's _The Gazetteer Writer's Manual: Creating Travel Guides to Fictional Worlds_ to guide the **supporting corpus**. The manual's most useful principle here is that a detailed reference can also offer a tour of a place. Its accounts of history, land, society, and power should help readers understand how the place works and why its details matter.
+This document guides the **supporting corpus**. Its central principle is that a detailed reference can also offer a tour of a place. Its accounts of history, land, society, and power should help readers understand how the place works and why its details matter.
 
 ## The central distinction
 
@@ -20,7 +20,7 @@ Each reference note answers the questions its subject raises. A settlement note 
 
 Cover the detail appropriate to the subject. Use a table, field, map, or concise paragraph when that form helps a reader retrieve a measurement or roster. Follow with prose that interprets the information. A crop yield becomes easier to understand when the note also shows who tends the fields, who collects the surplus, what a poor harvest changes, and which neighboring settlement depends on it. A rainfall figure means more when the reader can picture the road it closes or the cistern it fills.
 
-The manual offers a broad checklist for developing and checking the setting. Different notes give these subjects the space they need:
+A broad checklist helps develop and check the setting. Different notes give these subjects the space they need:
 
 - **History:** origins, turning points, recent events, timelines, and the myths people tell about them. History explains present customs and conflicts; recent events give people something to argue about and adventurers something to do.
 - **Place:** landforms, climate, seasons, ecology, resources, waterways, routes, settlements, and maps. Geography should shape where people live, trade, travel, and build defenses. If magic changes the expected pattern, show its consequences. Where a feature defies the land around it—a desert between forest and sea—give the reason, even in a sentence.
@@ -34,7 +34,7 @@ The authors stress cause and effect. A resource changes trade; trade changes roa
 
 ## Hook and history
 
-The book presents two ways to find what is distinctive about a setting. A **hook-first** approach chooses a compelling idea and develops a world that supports it. A **history-first** approach lets the setting's geography, institutions, and events develop, then identifies what has become most interesting. The manual's practical chapters mostly use the first approach, while Christian favors the internal consistency that can emerge from the second. For an established corpus, the useful question is what is already distinctive about this place, and how its history, geography, and institutions explain that distinction. Do not force every note toward a single dramatic hook.
+There are two ways to find what is distinctive about a setting. A **hook-first** approach chooses a compelling idea and develops a world that supports it. A **history-first** approach lets the setting's geography, institutions, and events develop, then identifies what has become most interesting. For an established corpus, the useful question is what is already distinctive about this place, and how its history, geography, and institutions explain that distinction. Do not force every note toward a single dramatic hook.
 
 One test serves every region and polity overview: it says in a sentence what this place is about. Pair that sentence with the specialty an outsider remembers the place for—its swords, its wine, its archives, its flood—and the overview has its hook.
 
@@ -44,7 +44,7 @@ One test serves every region and polity overview: it says in a sentence what thi
 
 A teacher orders the lesson. Begin with **common knowledge**—what a local grows up knowing and a newcomer has to be told—and move from what any child knows to what an informed adult knows: who rules, then on what terms, then who opposes them this year. A warning is one of the strongest teaching devices: what gets a newcomer into trouble carries a rule and the attitude behind it in one sentence, and it is often the first thing a priest or a local says.
 
-The manual suggests describing society **from within** through the voices of people who occupy different places in it: a farmer, noble, soldier, ruler, or person outside the law. It also suggests **outside views** from travelers, merchants, pilgrims, diplomats, and others. These perspectives reveal living conditions, motives, assumptions, and conflicts that a neutral description can miss. They should not all sound alike or claim to speak for an entire culture.
+Describe society **from within** through the voices of people who occupy different places in it: a farmer, noble, soldier, ruler, or person outside the law. Add **outside views** from travelers, merchants, pilgrims, diplomats, and others. These perspectives reveal living conditions, motives, assumptions, and conflicts that a neutral description can miss. They should not all sound alike or claim to speak for an entire culture.
 
 A sage, guide, priest, steward, farmer, merchant, or other knowledgeable local can explain a subject in a way that feels like a story. Choose the speaker for what they plausibly know. A temple scholar may know the formal history of a shrine; a boat pilot may know its approach and the river's moods. Give the speaker a reason to address the reader, and let their perspective reveal something specific. A short anecdote, remembered conversation, or explanation offered to a visitor can make an important fact stick.
 
@@ -67,12 +67,12 @@ visible prose, so it does not reach the content index or the built pages.
 
 **No Earth proper name appears in the corpus.** That covers languages,
 countries, regions, cities, peoples, religions, mythologies, real persons and
-works of fiction, and the reader's own language and a "Common tongue" with them.
+works of fiction, and the reader's own language, or any common tongue standing in for it.
 Only the Terran analogs note and `# terran_analog:` comments may name them. The
 rule concerns names, not vocabulary: a word a culture's tongue shares with a real
 language may stand, and no page names that language.
 
-- A romanization is called a romanization, never "Latin" spelling.
+- A romanization is called a romanization, never named for an Earth script.
 - A pronunciation guide describes the sound ("a rasp at the back of the throat,
   as when clearing it") and names no language.
 - An in-world name that derives from a real place is the owner's to approve;
@@ -83,11 +83,11 @@ language may stand, and no page names that language.
 
 ## Explain through concrete moments
 
-The manual recommends anecdotes, tales, quotations, and character voices to make history and social change easier to grasp. Use them when they add information or perspective that a bare entry does not. A succession dispute becomes clearer when a local recalls which household refused the new ruler. A law becomes more revealing when the note shows who enforces it and who can evade it. A festival can show the calendar, a faith, the year's work, and a community's fears in one scene.
+Anecdotes, tales, quotations, and character voices make history and social change easier to grasp. Use them when they add information or perspective that a bare entry does not. A succession dispute becomes clearer when a local recalls which household refused the new ruler. A law becomes more revealing when the note shows who enforces it and who can evade it. A festival can show the calendar, a faith, the year's work, and a community's fears in one scene.
 
 Vary the scale of explanation. Begin with a concrete sight, sound, smell, action, or encounter when it illuminates the subject, then move to the names, relationships, and facts the reader needs. Use specific local terms and explain them naturally. A short sentence can mark a consequence; a longer one can carry the texture of a place. Narrative should help the reader understand the reference, not delay the answer to a straightforward question.
 
-The manual's treatment of organizations is particularly useful: name what a group does, what it wants, why it wants it, who helps it, and who stands in its way. Give important people the same depth. For creatures, explain their place in the environment and their relationship with neighboring communities. These connections make the notes useful for play without requiring every entry to contain an explicit adventure hook.
+For an organization, name what a group does, what it wants, why it wants it, who helps it, and who stands in its way. Give important people the same depth. For creatures, explain their place in the environment and their relationship with neighboring communities. These connections make the notes useful for play without requiring every entry to contain an explicit adventure hook.
 
 ## Write sentences a reader understands on the first pass
 
@@ -240,7 +240,7 @@ place the compiler's voice relaxes; use it once in a note, or not at all.
 
 ## Guidance by note type
 
-The note types below are those in `package-build/docs/reference/note-types.md`. The reference covers their data fields; this section addresses the body text. The book offers principles for setting description, perspective, and presentation, while the choices for rules and package records are an application of those principles to Thalorna. Choose a voice for the subject and the reader's task. Narration is most valuable when it explains a culture or place; lookup and mechanical entries need direct language first.
+The note types below are those in `package-build/docs/reference/note-types.md`. The reference covers their data fields; this section addresses the body text. Choose a voice for the subject and the reader's task. Narration is most valuable when it explains a culture or place; lookup and mechanical entries need direct language first.
 
 ### being
 
@@ -781,7 +781,7 @@ TBD.
 
 ### map
 
-**Voice:** Cartographic and navigational. State what the map depicts, its scale or limits, how to orient it, and what its symbols and marked sites mean. The manual treats maps as a way to locate resources, routes, borders, settlements, and story possibilities. Use map pins or a short traveler's observation to direct attention to meaningful features; do not make readers decipher a tale to find an entrance or distance.
+**Voice:** Cartographic and navigational. State what the map depicts, its scale or limits, how to orient it, and what its symbols and marked sites mean. A map locates resources, routes, borders, settlements, and story possibilities. Use map pins or a short traveler's observation to direct attention to meaningful features; do not make readers decipher a tale to find an entrance or distance.
 
 ### place
 
@@ -977,7 +977,7 @@ Adventurer's Guide has no common words, so all its terms stay italic.
 
 ## Spelling and punctuation
 
-Notes are written with **American spelling and punctuation**. The common traps:
+Notes follow one spelling and punctuation standard, shown by the common traps below:
 
 | Write this                                                                | Not this                                                                        |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
@@ -1000,7 +1000,7 @@ attached to a name (_the king_, against _King Hlurthann III_).
 
 ### Dashes and hyphens
 
-Dashes and hyphens follow the **Chicago Manual of Style**. Three marks do three jobs:
+Dashes and hyphens follow these rules. Three marks do three jobs:
 
 | Mark          | Job                                                                                   | Written                                                               |
 | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
