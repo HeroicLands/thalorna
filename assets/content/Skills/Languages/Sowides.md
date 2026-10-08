@@ -3,7 +3,7 @@ shortcode: sowideslng
 name: {full: Sowides Language, aliases: [Sowides]}
 type: skill
 subType: language
-description: "The hard, clipped tongue of the steppe confederations of the Khazryn, spoken from the cold northern coast to the stone desert before Tānvür."
+description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tānvür."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {lang_family: Sowides (isolate)}}
 ---
 
-Sowides is the tongue of the herding confederations of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _Sowides_, "the riders", from _sowid_ "rider" and _-es_ "a people". Each confederation speaks it with its own turns of phrase, and a rider of one confederation is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Sowides is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _Sowides_, "the riders", from _sowid_ "rider" and _-es_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Sounds
 
@@ -99,30 +99,29 @@ Every other meeting leaves both parts as they are.
 | Suffix | Sense                |
 | ------ | -------------------- |
 | `-es`  | a people or tribe    |
-| `-oq`  | a confederation      |
+| `-oq`  | a union, a binding   |
 | `-or`  | a range or grazing   |
 | `-ud`  | one who does         |
 | `-ye`  | a woman's given name |
 
 ### The paramount chief
 
-Each tribe has its chief, the _dowek_. A confederation raised over many tribes has one paramount chief, the _orqwen_, to whom every _dowek_ in it has sworn, and the confederation an _orqwen_ holds is his _orqwenoq_. An _orqwen_ is made under open sky, before the chiefs, and his confederation lasts as long as he can hold it; at his death it may pass whole to a son, split among rivals, or fall to a stronger _orqwen_.
+Each tribe has its chief, the _dowek_. The tribes stand alone. Now and then a dictator, the _orqwen_, forces several of them together by the sword, and the binding he holds over them is his _orqwenoq_. It lasts only as long as he lives: when the _orqwen_ dies, the union dies with him and every tribe goes its own way again.
 
 ### Names
 
-| Name       | Built from        | Meaning                             |
-| ---------- | ----------------- | ----------------------------------- |
-| Sowides    | _sowid_ + _-es_   | the riders                          |
-| Kweduhes   | _kwedu_ + _-es_   | the horse people                    |
-| Orqwenoq   | _orqwen_ + _-oq_  | a confederation under one paramount |
-| Gweranoq   | _gweran_ + _-oq_  | the storm confederation             |
-| Dikraqor   | _dikraq_ + _-or_  | the stone range                     |
-| Jadekud    | _jadek_ + _-ud_   | a raider                            |
-| Wogeltolis | _wogel_ + _tolis_ | a man's name: wolf-spear            |
-| Tijòdye    | _tijòd_ + _-ye_   | a woman's name: star                |
+| Name       | Built from        | Meaning                    |
+| ---------- | ----------------- | -------------------------- |
+| Sowides    | _sowid_ + _-es_   | the riders                 |
+| Kweduhes   | _kwedu_ + _-es_   | the horse people           |
+| Orqwenoq   | _orqwen_ + _-oq_  | the union an orqwen forces |
+| Dikraqor   | _dikraq_ + _-or_  | the stone range            |
+| Jadekud    | _jadek_ + _-ud_   | a raider                   |
+| Wogeltolis | _wogel_ + _tolis_ | a man's name: wolf-spear   |
+| Tijòdye    | _tijòd_ + _-ye_   | a woman's name: star       |
 
-**A confederation** is named by the stem of its emblem or its country with _-oq_, and its people by the same stem with _-es_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-ye_.
+**A union** is named by the stem of its emblem or its country with _-oq_, and a tribe by the same stem with _-es_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-ye_.
 
 ## Writing
 
-The Sowides write nothing but signs. Each tribe has a mark, cut into the stone over its wells and the trunks of its oldest palms, and a rider carries his confederation's passage-token, which bears the sign of the _orqwen_ who issued it. Records, treaties and debts are kept in memory and witnessed aloud.
+The Sowides write nothing but signs. Each tribe has a mark, cut into the stone over its wells and the trunks of its oldest palms, and a rider carries his tribe's passage-token, which bears the sign of the tribe that issued it. Records, treaties and debts are kept in memory and witnessed aloud.

@@ -70,11 +70,11 @@ A scattered but persistent population of Āsháian worshippers exists in the eas
 Velanthia has no single sovereign. The region is governed jointly by:
 
 - The **river-prince kingdoms** of the heartland—perhaps a dozen substantial princely states, plus several smaller ones, each ruled by a hereditary princely house and centered on a fortified river-junction capital. The major kingdoms are loosely confederated through dynastic intermarriage, occasional joint councils, and a shared body of Velanthian customary law that all the princely houses recognize as binding.
-- The **Velanthian Hosts** of the southern frontier—formally subordinate to nearby river-princes, practically self-governing under their atamans and Host councils. Each Host musters its own forces, makes its own peace with the steppe confederations across the frontier, and sometimes makes its own war.
+- The **Velanthian Hosts** of the southern frontier—formally subordinate to nearby river-princes, practically self-governing under their atamans and Host councils. Each Host musters its own forces, makes its own peace with the steppe tribes across the frontier, and sometimes makes its own war.
 - The **monastic establishments** of the grain belt—large endowed houses whose abbots wield genuine political and economic power, often as third-party mediators among the princely houses and the Hosts.
 - The **merchant houses** of the major grain-belt towns—wealthy, well-connected, and influential through grain credit and trade financing.
 
-Coordination across these power centers happens through ad-hoc councils called when joint action is needed: a major steppe-confederation incursion, a Nordmal pressure-play in the west, a famine year, a particularly egregious dispute between major princely houses. The councils have no permanent existence and no executive authority; they advise, negotiate, and sometimes (when the threat is large enough) coordinate joint military response.
+Coordination across these power centers happens through ad-hoc councils called when joint action is needed: a major steppe incursion, a Nordmal pressure-play in the west, a famine year, a particularly egregious dispute between major princely houses. The councils have no permanent existence and no executive authority; they advise, negotiate, and sometimes (when the threat is large enough) coordinate joint military response.
 
 The system is fragile in theory and durable in practice. Foreign observers regularly predict Velanthian collapse; Velanthian centuries continue to accumulate.
 

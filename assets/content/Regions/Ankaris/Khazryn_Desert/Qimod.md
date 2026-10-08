@@ -28,7 +28,7 @@ A traveler notices it at the gate. Wind goes through the lanes and makes no soun
 
 No fire stays lit. A lamp wick catches and the flame stands, then lies down and goes out. A tinder spark dies in the pan. The cold and the dark come at the same moment.
 
-The hunters come into that. On any night of the year, shapes half made of the town's dead and half of the things that feed on them cross into the lanes and take hold of whoever sleeps within the walls. They cannot be heard coming. The first a man knows of them is a hand at his throat and the silence of his own cry. The Tellumi factors who have tried the town have been found in their blankets in the morning, mouths open, with nothing on them but a cold that did not belong to the season.
+The hunters come into that, the [[being-yiqnotud|Yiqnotud]] of the steppe tribes. On any night of the year, shapes half made of the town's dead and half of the things that feed on them cross into the lanes and take hold of whoever sleeps within the walls. They cannot be heard coming. The first a man knows of them is a hand at his throat and the silence of his own cry. The Tellumi factors who have tried the town have been found in their blankets in the morning, mouths open, with nothing on them but a cold that did not belong to the season.
 
 ## How the Spur Lives with It
 

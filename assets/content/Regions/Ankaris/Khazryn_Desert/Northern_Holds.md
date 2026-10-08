@@ -5,7 +5,7 @@ type: place
 subType: feature
 description: "Rumored abandoned holds in the forest north of the Khazryn: cut stone under moss, sea-cliff doorways and dry halls that the seal-hunters and deer-herders report and no one has surveyed."
 tags: []
-data: {demonym: null, lore: [], parents: [khzryndsrtrgn], population: 0, packFolder: khazryndesert}
+data: {demonym: null, lore: [], parents: [gwtkrrgn], population: 0, packFolder: khazryndesert}
 ---
 
 ## Overview
