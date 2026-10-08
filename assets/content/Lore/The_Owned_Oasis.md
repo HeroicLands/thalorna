@@ -10,7 +10,7 @@ data: {packFolder: settinglore}
 
 You come over a rise at dusk and the spring is there: a dozen palms, a ring of green, a pool the width of a cart, and no one. No tent, no fire, no herd, no track in the mud but your own. The camels have smelled it, and the guide you hired at the last well has gone quiet. He does not say why. He gets down from his saddle and begins to look at the ground.
 
-Most of the water in the [[place-khzryndsrtrgn|Khazryn]] is of this kind. A _bedaq_, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a _bedaq_ is that it is never as empty as it looks.
+Most of the water in the [[place-khzryndsrtrgn|Khazryn]] is of this kind. A bedaq, "owned water", is a spring or seep too small to settle, and every one belongs to a tribe. It is the tribe's winter fallback and its reserve for a drought, and it stands empty because the tribe is grazing elsewhere and comes only in its season. The owners rarely sit at it. They watch from a ridge more often than a stranger knows, and the first thing a traveler learns about a bedaq is that it is never as empty as it looks.
 
 ## The Marks
 

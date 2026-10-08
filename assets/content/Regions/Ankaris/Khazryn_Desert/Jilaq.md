@@ -16,7 +16,7 @@ A caravan sees Jilaq two nights before it will be nearest to it, and it sees it 
 
 ## How It Was Made
 
-About 190 BF the first of the great unions forced the tribes together under a single _orqwen_, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the _orqwen_ led have been walking round the result ever since.
+About 190 BF the first of the great unions forced the tribes together under a single orqwen, and the cities of the league were asked for tribute. Jilaq refused, as the league's charter said it must, and the host sat down before the ring wall for a season. When the wall was opened, the city was killed in a day and a night: the factors of a dozen peoples, the yard-hands, the lamp-keepers, the families of all of them. The union's riders took what they could carry and rode out. They did not lay the dead out, and no tribe's shaman said a name over any of them, because the city's dead were strangers to every rite the riders kept. The dead of the Tower League had no rite that anyone alive could perform for them, and the tribes the orqwen led have been walking round the result ever since.
 
 ## What Comes Back
 

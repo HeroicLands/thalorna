@@ -77,7 +77,7 @@ That margin is what makes the goods dear and the tribes rich. It also explains w
 No one sells the road whole. Each tribe sells its own stretch, a few days to a week or more of wells, and the master buys from every one: about thirty-five tribes between the March and Tānvür. A tribe's price covers three things.
 
 - **Water.** The right to draw at the tribe's named wells and nowhere else.
-- **A rider.** A _sowid_ of the tribe who joins the caravan, speaks for it to every herdsman he meets, and answers for it with his own life.
+- **A rider.** A sowid of the tribe who joins the caravan, speaks for it to every herdsman he meets, and answers for it with his own life.
 - **The tribe's word.** A promise of restitution if its own people rob the caravan, and of a feud fought on the caravan's behalf if outsiders do inside its range.
 
 A caravan that has bought none of these, or leaves the named wells, is lawful prey to anyone who finds it. The master's real asset is his list of agreements: which tribes he has paid and which he owes, which rider is whose cousin, which two ranges are at feud this year and must be crossed in a particular order. Masters pass the lists to their sons.
@@ -114,8 +114,8 @@ The sea passage costs as many months as the camels and loses a larger share of w
 
 ## Trouble on the Road
 
-- A tribe has closed its wells to every caravan because its _dowek_ was killed by a rider of a neighboring tribe, and the rider's tribe has sworn that its range was never at fault.
-- A great leader is gathering tribes along the road into an _orqwenoq_, and his first act has been to double every price.
+- A tribe has closed its wells to every caravan because its dowek was killed by a rider of a neighboring tribe, and the rider's tribe has sworn that its range was never at fault.
+- A great leader is gathering tribes along the road into an orqwenoq, and his first act has been to double every price.
 - A caravan master has died on the march and the heir cannot read his father's list.
 - A string has come out of the Long Dry with half its camels dead and its water gone, and a guide of the hidden-water bands at the edge of the sand is offering to sell it more than water.
 

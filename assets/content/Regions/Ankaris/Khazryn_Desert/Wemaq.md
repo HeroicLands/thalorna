@@ -16,7 +16,7 @@ The water at Wemaq is the best on the whole road. It comes up cold through white
 
 ## How It Was Made
 
-About 312 AF the _orqwen_ who would lead [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came to the oasis at the head of the tribes already sworn to him, and the last tribe that refused to swear was camped at it. Some four thousand people were there, with their herds. The _orqwen_ put them to the sword over a morning and forbade anyone to lay them out. Their names were not spoken to the four winds. The tribe's dowek was made to watch.
+About 312 AF the orqwen who would lead [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] came to the oasis at the head of the tribes already sworn to him, and the last tribe that refused to swear was camped at it. Some four thousand people were there, with their herds. The orqwen put them to the sword over a morning and forbade anyone to lay them out. Their names were not spoken to the four winds. The tribe's dowek was made to watch.
 
 The water was sweet that year, as it was every year, and the dates fell on the bodies. The next spring the dead were gone to a skin of bone in grass already knee-high, and the grass has never been less.
 
@@ -35,7 +35,7 @@ A caravan short of water that draws here in daylight and moves off before dusk t
 
 - **Nobody camps.** Each string that draws water here fills its skins by day, rinses nothing and leaves before the light turns yellow.
 - **The dates stay on the palm.** What falls is left to lie, and the guides will not eat the fruit. The sweetness is what gets into the dreams.
-- **No tribe claims it.** A _bedaq_ is a tribe's property, and Wemaq is the water on the road that belongs to nobody. The tribes of the Hosikor say so quietly.
+- **No tribe claims it.** A bedaq is a tribe's property, and Wemaq is the water on the road that belongs to nobody. The tribes of the Hosikor say so quietly.
 
 ## What Is Still There
 
@@ -44,7 +44,7 @@ The gear of the dead is in the grass: saddle-trees gone grey, iron fittings in t
 ## Hooks
 
 - **Sweet dates.** A hidden-water guide at [[place-qisomrktcmp|Qìso]] has been selling jars of Wemaq dates to a Byzarian spice-buyer who thinks they come from a private grove. The buyer's cook has stopped sleeping.
-- **The names.** The few who escaped were taken in by a neighboring tribe, whose elders still hold the names of the dead by heart and have never agreed to speak them at the oasis. Saying them would mean naming the _orqwen_'s part in it aloud, before every tribe on the road, and that tribe sells passage to all of them.
+- **The names.** The few who escaped were taken in by a neighboring tribe, whose elders still hold the names of the dead by heart and have never agreed to speak them at the oasis. Saying them would mean naming the orqwen's part in it aloud, before every tribe on the road, and that tribe sells passage to all of them.
 - **The caravan that camped.** A merchant's string stands at the oasis in good order, tents pitched and animals fat, and the drivers lie asleep and breathing. None has woken in four days. The tribe whose range it is has offered a price to anyone who will carry them out before dusk, in daylight, without lingering.
 
 ## See Also
