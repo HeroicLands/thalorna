@@ -106,7 +106,7 @@ Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscrip
 
 ### Romanizing Nordmal
 
-Nordmal is written in runes. Every Latin spelling in these pages is therefore a
+Nordmal is written in runes. Every spelling in these pages is therefore a
 romanization rather than the language's own writing, and the rule governing it is
 that **a romanized name must be typeable**: a reader who meets Sólrún in a saga and
 goes looking for her has to find him by typing what they saw.

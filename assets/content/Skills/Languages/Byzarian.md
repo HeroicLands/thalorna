@@ -56,7 +56,7 @@ Byzarian maintains the Helonic consonant base but with significant eastern modif
 
 **Eastern additions and modifications:**
 
-- **kh**—a throaty rasp, as in Scottish "loch" (stronger, more frequent than in Helonic)
+- **kh**—a throaty rasp, as when clearing the throat (stronger, more frequent than in Helonic)
 - **gh**—a voiced throaty rasp, softer than a hard "g" (present but less common)
 - **z**—as in "zeal" (from eastern languages, used for plurals and grammatical marking)
 - **zh**—the "s" of "measure" (eastern loanword marker)

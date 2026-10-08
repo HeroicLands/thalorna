@@ -63,3 +63,33 @@ Below those he owes the gods their festivals and the academies their endowment, 
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, and the two this region prefers
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the inheritance the marble came from
 - [[skill-provnzlng|Provenzal]]—the tongue of the cities
+
+## Glossary {#glossary}
+
+Every Provenzal word and term of art these notes use.
+
+| Term        | Meaning                                                                             |
+| ----------- | ----------------------------------------------------------------------------------- |
+| aelcòre     | Radiant heart                                                                       |
+| aelvòis     | Bright voice                                                                        |
+| blood-field | Ground where a battle tore the boundary with the spirit world, and it did not close |
+| chanvòr     | Song, the native word the síladòr tradition passes over for síl                     |
+| còre        | Heart                                                                               |
+| dàren       | Memory, deep-knowing, from Élavendri                                                |
+| ès          | Is: the native copula                                                               |
+| èvren       | To be                                                                               |
+| jhòrne      | Day                                                                                 |
+| luchèrne    | Light, the native word, held too prosaic for verse                                  |
+| luèrne      | Light, the native word                                                              |
+| nàrthen     | To tell                                                                             |
+| prèdha      | Peace                                                                               |
+| règa        | The system of channels that carries river water along the valley terraces           |
+| síladòr     | A poet-singer of the courtly tradition, and the high poetic register itself         |
+| tàlv        | With                                                                                |
+| thalnùit    | Shadow-night                                                                        |
+| thalrèv     | Mystery-dream, shadow-dream                                                         |
+| thèl        | Light, beauty, from Élavendri                                                       |
+| thràves     | Travels                                                                             |
+| vé          | Truly: an emphatic particle of oaths and poetry                                     |
+
+Argentus (Argo), Aurion and Octus (Bit) are loanwords from [[lore-vylarianclt#glossary|Vylaria]]. Ael, arálwen, en, síl and thal are loanwords from [[lore-elavendriclt#glossary|Élavendre]].

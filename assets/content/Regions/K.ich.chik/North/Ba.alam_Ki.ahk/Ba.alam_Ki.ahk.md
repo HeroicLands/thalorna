@@ -3,7 +3,7 @@ shortcode: balamkiahk
 name: {full: Ba'alam Ki'ahk, aliases: []}
 type: affiliation
 subType: polity
-description: Pacific rainforest and volcanic coastline of the Xak'nal—the Eagle People—westernmost of the northern tribal nations.
+description: Coastal rainforest and volcanic coastline of the Xak'nal—the Eagle People—westernmost of the northern tribal nations.
 tags: [polity]
 data:
   icon: null

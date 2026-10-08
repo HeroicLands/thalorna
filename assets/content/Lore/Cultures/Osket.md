@@ -65,3 +65,17 @@ The names carry two front rounded vowels no lowland tongue has, and a Vedyari wh
 - [[place-tsokhar|Tsökhar]]—the western village and the watch it keeps
 - [[place-pssshrines|The Pass-Shrines]]—the priests at the summits and the register they keep
 - [[lore-hvarnclt|Hvarn]]—the other guide-people of the wall
+
+## Glossary {#glossary}
+
+| Term          | Meaning                                                                                                |
+| ------------- | ------------------------------------------------------------------------------------------------------ |
+| cord-keeper   | Keeper of a lineage's knotted route-record, taught to one person in a generation                       |
+| fee-reckoner  | Setter of a season's price against what a caravan is worth, and keeper of what lineages owe each other |
+| guide-cord    | A knotted hide cord recording a route, unreadable outside the blood                                    |
+| guide-mother  | Senior woman of a lineage, who holds its knowledge of the road and says whether it is open             |
+| hearth-warden | Keeper of the winter stores and of the duty to shelter whoever reaches the door                        |
+| road-holder   | Holder of a crossing by descent, answerable for every party taken over it                              |
+| snow-watcher  | Reader of the summit at first light, whose word moves or halts a caravan                               |
+
+Ritūja, tharana, ushtaka and wrist-line are loanwords from [[lore-vedyariclt#glossary|Vedyara]].

@@ -50,21 +50,21 @@ The Tānvüri language—known natively as **Tānvüri Thëitōk** ("Celestial-C
 
 ### Vowels
 
-| Letter | Pronunciation                  | Notes                        |
-| ------ | ------------------------------ | ---------------------------- |
-| a      | as in "father", cut short      |                              |
-| ā      | a long "ah", as in "father"    | Macron indicates lengthening |
-| e      | as in "bet"                    |                              |
-| **ë**  | the unstressed "a" of "about"  | Distinctive Tānvüri vowel    |
-| i      | as in "ski", cut short         |                              |
-| ī      | a long "ee", as in "machine"   |                              |
-| o      | as in "note", cut short        |                              |
-| ō      | a long "oh", as in "note"      |                              |
-| **ö**  | front-rounded, German "schön"  | Distinctive Tānvüri vowel    |
-| u      | as in "boot", cut short        |                              |
-| ü      | front-rounded, German "über"   |                              |
-| ëi     | "about" gliding into "ee"      |                              |
-| ōk     | a long "oh" closed by a hard k |                              |
+| Letter | Pronunciation                                     | Notes                        |
+| ------ | ------------------------------------------------- | ---------------------------- |
+| a      | as in "father", cut short                         |                              |
+| ā      | a long "ah", as in "father"                       | Macron indicates lengthening |
+| e      | as in "bet"                                       |                              |
+| **ë**  | the unstressed "a" of "about"                     | Distinctive Tānvüri vowel    |
+| i      | as in "ski", cut short                            |                              |
+| ī      | a long "ee", as in "machine"                      |                              |
+| o      | as in "note", cut short                           |                              |
+| ō      | a long "oh", as in "note"                         |                              |
+| **ö**  | front-rounded, lips as for _o_, tongue as for _e_ | Distinctive Tānvüri vowel    |
+| u      | as in "boot", cut short                           |                              |
+| ü      | front-rounded, lips as for _u_, tongue as for _i_ |                              |
+| ëi     | "about" gliding into "ee"                         |                              |
+| ōk     | a long "oh" closed by a hard k                    |                              |
 
 ### Distinctive Features
 

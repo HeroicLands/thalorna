@@ -103,7 +103,7 @@ for addressing purposes is narrower than its display title — a deity's own
 name inside a "Faith of X" affiliation, a kenning that has become an order's
 working name — from that narrower identity instead). The steps:
 
-1. **Fold diacritics to plain Latin letters.** `Ódinn` folds to `Odinn`,
+1. **Fold diacritics to plain unaccented letters.** `Ódinn` folds to `Odinn`,
    `Þórgeir` to `Thorgeir`, `Ærla` to `Aerla`; `þ`/`Þ` > `th`/`Th`, `ð`/`Ð` >
    `d`/`D`, `æ`/`Æ` > `ae`/`Ae`, `œ`/`Œ` > `oe`/`Oe`, `ø`/`Ø` > `o`/`O`, `ß` >
    `ss`.

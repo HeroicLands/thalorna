@@ -1335,9 +1335,9 @@ Some names are kept out of the setting: the gods, persons, places and terms of E
 | `Madhuvindra`         | `Madhusthāna`      | carries indra, an Earth god's name              |
 | `Mādhava`             | —                  | an Earth god's epithet                          |
 | `Trimūrti`            | `Triyanga`         | the triad of three Earth gods                   |
-| `Āyodhyārājavardhan`  | `Jayarājavardhana` | Ayodhyā, a city of Earth                        |
-| `Vishnusha`           | `Shilāvīra`        | Vishnu, an Earth god                            |
-| `Rudrata`             | `Sūtrapāla`        | Rudra, an Earth god                             |
+| `Āyodhyārājavardhan`  | `Jayarājavardhana` | a city of Earth                                 |
+| `Vishnusha`           | `Shilāvīra`        | an Earth god's name                             |
+| `Rudrata`             | `Sūtrapāla`        | an Earth god's name                             |
 | `Mahādeva`            | `Mahākīrti`        | a name of an Earth god                          |
 | `Mahādheva`           | `Mahākīrti`        | a name of an Earth god                          |
 | `Mahādhevavikramapāl` | —                  | a name of an Earth god                          |
@@ -1346,9 +1346,9 @@ Some names are kept out of the setting: the gods, persons, places and terms of E
 | `Rāvana`              | —                  | a figure of Earth epic                          |
 | `Rāmānujaśekhara`     | —                  | an Earth saint                                  |
 | `Harivikrāmajīva`     | —                  | Hari, an Earth god                              |
-| `Indrāshena`          | —                  | Indra, an Earth god                             |
-| `Indrāṭa`             | —                  | Indra, an Earth god                             |
-| `Indrakaṇtha`         | —                  | Indra, an Earth god                             |
+| `Indrāshena`          | —                  | an Earth god's name                             |
+| `Indrāṭa`             | —                  | an Earth god's name                             |
+| `Indrakaṇtha`         | —                  | an Earth god's name                             |
 | `Mādhavīndhra`        | —                  | Mādhava, an Earth god's epithet                 |
 | `Mādhavendrānanda`    | —                  | Mādhava, an Earth god's epithet                 |
 | `Āshalakshmī`         | —                  | Lakshmī, an Earth goddess                       |
@@ -1363,7 +1363,7 @@ Some names are kept out of the setting: the gods, persons, places and terms of E
 | `Īravati`             | —                  | Irāvatī, a river of Earth                       |
 | `Bhāratiyaśomat`      | —                  | Bhārata, a land of Earth                        |
 | `Bhadrakāliyāgadhipa` | —                  | Kālī, an Earth goddess                          |
-| `Vishnutara`          | —                  | Vishnu, an Earth god                            |
+| `Vishnutara`          | —                  | an Earth god's name                             |
 | `Vṛtraṭa`             | —                  | Vṛtra, a figure of Earth myth                   |
 | `Kashīpari`           | —                  | Kāśī, a city of Earth                           |
 | `Vāsukina`            | —                  | Vāsuki, a figure of Earth myth                  |

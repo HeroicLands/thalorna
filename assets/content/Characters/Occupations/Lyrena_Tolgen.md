@@ -417,7 +417,7 @@ Charismatic, skilled in poetry and oral storytelling, expressive.
 
 ## Social
 
-Lýrena is affiliated with Nordic Skalds' Guild.
+Lýrena is affiliated with Nordland Skalds' Guild.
 
 As a Provenzian skald, Lýrena occupies a recognized social niche within Provènzia society.
 
@@ -425,7 +425,7 @@ As a Provenzian skald, Lýrena occupies a recognized social niche within Provèn
 
 ### Patrons
 
-Lýrena's primary patron is Nordic leaders and wealthy families who value her craft.. This relationship provides both opportunity and obligation.
+Lýrena's primary patron is Nordland leaders and wealthy families who value her craft.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 

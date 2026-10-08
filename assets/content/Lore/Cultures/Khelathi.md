@@ -38,9 +38,9 @@ Military service raises a family over two or three generations, and commercial s
 
 ## Titles
 
-Six titles of rank are in ordinary use, and they run downward in a ladder a foreigner can learn in a morning. The Gar-Aû is the divine sovereign. The Iru'palu stands immediately below him, reserved to the royal family and a handful of exalted houses. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. A Legha'lutu or a Zabet'lutu—master and mistress of the estate—holds a manor, its lands and its attached village. A Zabet is a woman of rank at court, and a Zemelu is a companion of the Gar-Aû, which indicates favor and access, not territory.
+Six titles of rank are in ordinary use, and they run downward in a ladder a foreigner can learn in a morning. The Gar-Aû is the divine sovereign. The _Iru'palu_ stands immediately below him, reserved to the royal family and a handful of exalted houses. A Halzi'a governs a selat, commanding its levies, collecting its taxes and dispensing its justice. A _Legha'lutu_ or a _Zabet'lutu_—master and mistress of the estate—holds a manor, its lands and its attached village. A _Zabet_ is a woman of rank at court, and a _Zemelu_ is a companion of the Gar-Aû, which indicates favor and access, not territory.
 
-In address the title precedes the personal name in every case: Halzi'a **Lersaîs**, Zabet'lutu **Thaminra**, Zemelu **Quztar**. The western practice of placing a title after the family name strikes the Khelâthi as charmingly backward, and they say so.
+In address the title precedes the personal name in every case: Halzi'a **Lersaîs**, _Zabet'lutu_ **Thaminra**, _Zemelu_ **Quztar**. The western practice of placing a title after the family name strikes the Khelâthi as charmingly backward, and they say so.
 
 ## What a Woman May Do
 
@@ -56,7 +56,7 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every selat keeps the rank of Name Struck for exactly that purpose.
 
-A long given name also has a shorter one, and you should wait to be offered it. The _near name_ is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anlâ to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and no [[lore-readingweigh|Reading]] speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thâz'Lekhau Anlagherhafu, never Thâz'Lekhau Anlâ.
+A long given name also has a shorter one, and you should wait to be offered it. The near name is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anlâ to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and no [[lore-readingweigh|Reading]] speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thâz'Lekhau Anlagherhafu, never Thâz'Lekhau Anlâ.
 
 ## Two Ledgers
 
@@ -102,9 +102,9 @@ None of this makes the Khelâthi solemn. Their calendar is dense with festivals,
 
 ## What the Dead Carry
 
-The Zulaten is not a rest. It is a place, and the dead must work, eat and get on there as anyone does. Every practice in the valley's vast funerary industry follows from that.
+The _Zulaten_ is not a rest. It is a place, and the dead must work, eat and get on there as anyone does. Every practice in the valley's vast funerary industry follows from that.
 
-_Grave goods are starting capital._ The rich take servants, gold, furniture, tools, grain and linen because those are the means of a life and not ornaments of one, and the zaglu are labor—they answer for their owner, do the work he would otherwise do himself, and guard the capital they are part of. The retainers who go down with a lord went by contract, attested like any other undertaking and paid in advance to their families, which is voluntary because an attestation needs both sides and horrible for exactly that reason. The poorest take a copper piece on the breast, and a family that can manage two puts in two.
+_Grave goods are starting capital._ The rich take servants, gold, furniture, tools, grain and linen because those are the means of a life and not ornaments of one, and the _zaglu_ are labor—they answer for their owner, do the work he would otherwise do himself, and guard the capital they are part of. The retainers who go down with a lord went by contract, attested like any other undertaking and paid in advance to their families, which is voluntary because an attestation needs both sides and horrible for exactly that reason. The poorest take a copper piece on the breast, and a family that can manage two puts in two.
 
 _Offerings are income._ The names said at the household shrine, the endowed readings, the annual rites: those are not remembrance. They are remittance against a real balance, and a house that lets them lapse is defaulting on somebody who cannot chase it.
 
@@ -140,7 +140,7 @@ Anyone may refuse. A neighbor, a rival, a woman who was slighted twenty years ag
 
 One kind of promise death completes rather than breaks. A man who undertook never to tell, never to retaliate, never to claim, has kept it to the end, and the entry closes with him unbreached. The Khelâthi find that consoling: a poor man with one long-kept silence has discharged the hardest undertaking there is.
 
-Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the Zulaten, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
+Refusing is also not free, which is why it is so common. Being owed is an asset a person carries into the _Zulaten_, and a release writes it off. So a household will offer payment for one and nobody thinks that shabby, and the people who give a release for nothing are remembered for it by name.
 
 Two decisions are made aloud at a Closing and the household hears both. The dying man says _what he calls in and what he leaves open_: what he calls in passes to his heirs, and what he leaves open goes with him. A generous man calls in little and leaves his children much; a grasping one calls in everything, arrives wealthy, and leaves a house with nothing to start on. Then the heir is asked _whether he will assume_ what the estate could not cover. Both are lawful, both happen, and both are watched by everyone who will live with the answer.
 
@@ -161,7 +161,7 @@ Your yes costs you what was owed, and your name is remembered.
 
 A man struck down but living—paralyzed, senseless, or gone in his wits—can neither attest nor be released, and he may last ten years that way. The valley has a procedure, and it treats him the way it treats a child.
 
-Physicians and witnesses make a _finding_, and the finding is entered. From that day the man's account is _in ward_. He opens nothing further, which protects him from anyone who would have him sign, and a _warden_ is appointed to close what stands open: a son, a wife, a brother, or the temple where there is nobody.
+Physicians and witnesses make a finding, and the finding is entered. From that day the man's account is in ward. He opens nothing further, which protects him from anyone who would have him sign, and a warden is appointed to close what stands open: a son, a wife, a brother, or the temple where there is nobody.
 
 The protection is the whole point. _A ward cannot fail._ His acts are no longer his own, exactly as a child's are his father's and an apprentice's are his master's, so nothing done or left undone after the finding is a flaw in his piece. He cannot die open on any of it. If he recovers, a second finding lifts the ward and he resumes his own account, and the years between are simply blank—neither credit nor debit.
 
@@ -199,7 +199,7 @@ They are not charity. _They are the surviving parties to entries that are still 
 
 A man's marriage was an entry and his children were entered in his account, and his undertaking to maintain them was made long before any loan he took afterward. Entries are dated, and seniority runs by date, so _maintenance of a widow and her children is answered out of the estate ahead of later creditors_. The rule produces a decent outcome without anyone appealing to decency.
 
-In most cases nothing dramatic happens at all. The household is the unit, not the couple, so a widow and her children do not go anywhere—the head of the house changes, and often enough the widow becomes it, holding the account in her own right as a Zabet'lutu does. Her husband's brothers do not inherit her; she inherits the position.
+In most cases nothing dramatic happens at all. The household is the unit, not the couple, so a widow and her children do not go anywhere—the head of the house changes, and often enough the widow becomes it, holding the account in her own right as a _Zabet'lutu_ does. Her husband's brothers do not inherit her; she inherits the position.
 
 The exposed case is the house with no kin behind it: a migrant family, a soldier's household in a garrison town. Then the estate answers, then whoever takes the residue is offered the standing obligation to maintain them, and then—if no one will—the temple takes it up. A fostered child, a widow, an infant and a beast all share one difficulty: they cannot attest, so they cannot release anybody. The temple therefore stands opposite them as the party of record, which is what lets it demand performance on their behalf, and what obliges it to perform when nobody else will.
 
@@ -247,6 +247,96 @@ Above all of it he owes a true heart at the weighing—and he owes it whether or
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—the valley, the delta and the desert margins
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the Twelve and the selat gods
 - [[skill-khelathlng|Khelâthi Language]]—the tongue, its two hands, and how a name is built
-- [[lore-garauu|Gar-Aûu]]—the throne and what it claims
+- [[lore-garauu|Gar-Aû]]—the throne and what it claims
 - [[lore-khelunulekha|Khelunu Lekhau]]—the order that teaches magic
 - [[affiliation-garhalzi|Gár-Hálzi]]—the temple-treasury houses
+
+## Glossary {#glossary}
+
+Every Khelâthi word and term of art these notes use. The [[skill-khelathlng|language note]] gives the grammar behind them.
+
+| Term           | Meaning                                                                                           |
+| -------------- | ------------------------------------------------------------------------------------------------- |
+| agu            | Shall: the particle marking what is undertaken rather than what is done                           |
+| Aû             | Great, of the throne and the realm, and reserved to them                                          |
+| Azlet          | The inundation, first season of the year, when the fields lie drowned                             |
+| ḍegan          | A tax, the impost on goods crossing a line                                                        |
+| ḍumaṭu         | The driven one, the mindless undead; abroad, damut                                                |
+| ḍuras          | Washing-salt, natron                                                                              |
+| elu            | Of, upon: the genitive that joins a body's name to its place                                      |
+| ez             | Of, toward: the genitive a commoner's byname hangs on                                             |
+| ezu            | In                                                                                                |
+| Gar-           | The opening of a house's or an office's name                                                      |
+| Gar-Aû         | The divine sovereign of the empire                                                                |
+| Gelet          | The emergence, the season of planting the black silt                                              |
+| Genzet         | A council, and the court of law; Genzet' opens the name of a council or court                     |
+| gethar         | Potter                                                                                            |
+| Gethunu        | The arcane order                                                                                  |
+| gezan          | The temple-attested weight-piece of copper, silver or gold, about 22.7 grams; ten qelu            |
+| githar         | The loom, and the weavers' work-word                                                              |
+| ḥabṭun         | A storehouse                                                                                      |
+| halzat         | The weighing                                                                                      |
+| halzi          | Heart, and the account a heart answers for                                                        |
+| Halzi'a        | The hereditary governor of a selat, who commands its levies, taxes and justice                    |
+| Halzunet       | The noon denials, the heart's account declared aloud                                              |
+| igelar         | Boatman                                                                                           |
+| igelu          | The river, and the mariners' work-word                                                            |
+| Iru'palu       | The hereditary standing below the Gar-Aû, reserved to the royal family and a few houses           |
+| Khelâthi-zethu | The sacred hand, the script of temple and tomb                                                    |
+| lagar          | A measure of grain                                                                                |
+| lagaru         | Bulk, volume; the work-word of merchants who deal by volume                                       |
+| lagun          | Timber                                                                                            |
+| Legha'lutu     | Master of an estate, its lands and its attached village                                           |
+| legharu        | The herb, and the apothecaries' work-word                                                         |
+| legzar         | Brewer                                                                                            |
+| lekhau         | Sacred power, trained in the temple schools and licensed by the temples                           |
+| Lem'           | Servant of; the opening of the name of an order of a god's servants                               |
+| Lem'Nelgir     | An ordained priest, the servant of a god                                                          |
+| lemu           | Service, and the servants' work-word                                                              |
+| lemzabu        | A great house's steward                                                                           |
+| lemzu          | Bondsman                                                                                          |
+| Lin'           | The opening of a guild's name                                                                     |
+| Lut-           | The opening of a temple's or an estate's name                                                     |
+| meglu          | Herder                                                                                            |
+| melnu          | The forge, and the metalworkers' work-word                                                        |
+| Name Struck    | The rank of one whose name has been struck from the records, the heaviest sentence short of death |
+| near name      | The given name broken off after its second vowel, used only by those a tie already binds          |
+| nelgir         | God                                                                                               |
+| Qalezu         | The people's hand                                                                                 |
+| qathur         | A seal, and the warrant it closes                                                                 |
+| qaṭlun         | A hidden channel, the tunnel-well                                                                 |
+| qedlu          | Quarryman                                                                                         |
+| qelt           | The soul-component that is embalmed                                                               |
+| qelu           | A tenth of a gezan, the smaller weight-piece                                                      |
+| qelzu          | The lock, and the locksmiths' work-word                                                           |
+| qenuwa         | Gold                                                                                              |
+| Qet Telgu      | The First Occasion, from which the temple chronicles count                                        |
+| qethar         | The old way, and the traditionalists' work-word                                                   |
+| qezelet        | The formal, temple form of qelu, written on attestations                                          |
+| qeztu          | War, and the mercenaries' work-word                                                               |
+| qinlat         | Sweet oil, unguent                                                                                |
+| reth           | The soul-component that is inscribed                                                              |
+| rethu          | Lore, and the scholars' work-word                                                                 |
+| selat          | A province of the empire; pl. selatu                                                              |
+| selqur         | A year of the count from the Qet Telgu                                                            |
+| shebar         | Reed-cutter                                                                                       |
+| Shelu          | The harvest, third season of the year                                                             |
+| shelun         | Performance, and the players' work-word                                                           |
+| ṭelqas         | A quay                                                                                            |
+| ṭerebu         | The cloaked one, the sentient undead; abroad, tereb                                               |
+| Thâz           | Great, of rank and extent                                                                         |
+| Thâz'Lekhau    | The high priest or high priestess of a god's temple                                               |
+| walir          | Weaver                                                                                            |
+| Wazu           | A temple acolyte; also the word for pure                                                          |
+| Zabet          | A woman of rank at court                                                                          |
+| Zabet'lutu     | Mistress of an estate, its lands and its attached village                                         |
+| zaglu          | The made figure: a funerary figure that answers for its owner, and the toymakers' work-word       |
+| zamlu          | Music, and the minstrels' work-word                                                               |
+| zegaru         | The field, and the farmers' work-word                                                             |
+| zeghet         | The hunt; Zeghet' opens the name of a company that goes out                                       |
+| Zemelu         | A companion of the Gar-Aû, a mark of favor and access                                             |
+| zemnu          | Craft, and the artisans' work-word                                                                |
+| zethu          | Writing, the scribe, and the scribes' work-word                                                   |
+| Zulaten        | The realm of the dead                                                                             |
+| zuqat          | Tiller                                                                                            |
+| zuwaret        | Trade, and the merchants' work-word                                                               |
