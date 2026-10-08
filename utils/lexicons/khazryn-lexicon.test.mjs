@@ -38,6 +38,7 @@ function tongueNote({
     doubled = "none",
     pairs = "never",
     initial = "no",
+    signature = "",
     joins,
     suffixes,
 }) {
@@ -71,7 +72,7 @@ ${marks}
 | Doubled | ${doubled} |
 | Vowel pairs | ${pairs} |
 | Initial vowel | ${initial} |
-
+${signature ? `| Signature | ${signature} |\n` : ""}
 ### Joins
 
 | Meeting | Rule | Letters |
@@ -114,6 +115,7 @@ const OTHER = tongueNote({
     codas: "any",
     finals: "any",
     initial: "yes",
+    signature: "`sh` `o` `k`",
     joins: "| `V+V` | `insert` | `d` |",
     suffixes: "| `-od` | a camp |",
 });
@@ -275,6 +277,17 @@ test("sound words keep the shape and broken ones are refused with a reason", () 
     assert.deepEqual(shape("bedo", strict, { bound: true }), []);
     assert.match(shape("bado", strict, { bound: true }).join(";"), /one vowel group/);
     assert.deepEqual(shape("bado", strict, { bound: false }).length, 1);
+    const signed = rulesFrom(
+        OTHER.replace(
+            "| Initial vowel | yes |",
+            "| Initial vowel | yes |\n| Signature | `sh` `o` |",
+        ),
+    );
+    assert.deepEqual(shape("bade", signed, { bound: true }), [
+        "carries none of the tongue's signature sounds",
+    ]);
+    assert.deepEqual(shape("shabe", signed, { bound: true }), []);
+    assert.deepEqual(shape("bade", signed), []);
     assert.deepEqual(shape("shabo", other), []);
     assert.deepEqual(shape("aboket", other), []);
 });
@@ -285,6 +298,14 @@ test("the joins drop, double, insert and merge as the note says", () => {
     assert.equal(join("kirun", "nu", toy), "kirunu");
     assert.equal(join("bedo", "a", other), "bedoda");
     assert.equal(derive(["ta", "lum", "-i"], toy), "tallumi");
+    const between = rulesFrom(
+        TOY.replace("| Meeting | Rule | Letters |", "| Meeting | Rule | Letters | Where |")
+            .replace("| --- | --- | --- |\n| `V+V`", "| --- | --- | --- | --- |\n| `V+V`")
+            .replace("| `V+C` | `double` | `l` |", "| `V+C` | `double` | `l` | between stems |"),
+    );
+    assert.equal(join("ta", "lum", between), "tallum");
+    assert.equal(join("ta", "-lu", between), "talu");
+    assert.equal(join("ta", "-lu", toy), "tallu");
 });
 
 test("a word is parsed back to its stems and suffixes", () => {
@@ -324,6 +345,8 @@ test("stems are refused for shape, a missing sense, a repeat, a second tongue an
         toyStems: `${GOOD.toyStems}\n| \`pa\` | sky |`,
     });
     assert.match(errors(both).join("\n"), /`pa` stands in both Toy and Other/);
+    const keeps = run({ toyStems: `${GOOD.toyStems}\n| \`paka\` | sky |` });
+    assert.match(errors(keeps).join("\n"), /Toy stem `paka` also keeps the sound rules of Other/);
     const salt = check({
         lexText: lexicon({ ...GOOD, senses: "`water` `road` `salt`" }),
         tongueNotes,

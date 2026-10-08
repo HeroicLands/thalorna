@@ -33,10 +33,12 @@
  *    the tongue allows one), ends in a listed final (or a vowel, unless the
  *    tongue forbids it), holds between two vowels at most a coda and an onset,
  *    doubles only the listed letters, and sets two vowels together only where
- *    the tongue allows it. A stem may end in any coda, and where the tongue
- *    states mixed vowel groups, a stem of two or more vowels holds one of each.
+ *    the tongue allows it. A stem may end in any coda; where the tongue states
+ *    mixed vowel groups, a stem of two or more vowels holds one of each; and
+ *    where it states signature sounds, every stem holds at least one.
  * 3. **Stems** — each has a sense, is listed once in its tongue, stands in no
- *    other tongue, and every tongue covers every required sense.
+ *    other tongue and keeps no other tongue's sound rules, so a stem heard
+ *    alone tells whose it is; and every tongue covers every required sense.
  * 4. **Derivation** — every name tagged with a tongue, and every derived word,
  *    recomputes from the stems and suffixes its derivation lists, through the
  *    tongue's joins; a derived word carries a gloss and is listed once; every
@@ -186,6 +188,7 @@ export function rulesFrom(text) {
         pairs: rule("vowel pairs").forms,
         initialVowel: /^yes\b/.test(rule("initial vowel").words),
         finalVowel: !/^no\b/.test(syllable.get("final vowel")?.words ?? "yes"),
+        signature: syllable.has("signature") ? syllable.get("signature").forms : null,
         mixed:
             syllable.has("mixed vowels") ?
                 syllable
@@ -201,10 +204,12 @@ export function rulesFrom(text) {
         const [jMeet, jRule, jLetters] = ["meeting", "rule", "letters"].map((w) =>
             column(joinTable, w),
         );
+        const jWhere = joinTable.header.findIndex((cell) => /^where/i.test(plain(cell)));
         for (const { cells } of joinTable.rows) {
             joins.set(ticked(cells[jMeet])[0], {
                 rule: ticked(cells[jRule])[0],
                 letters: ticked(cells[jLetters] ?? "").map(lower),
+                stemsOnly: jWhere !== -1 && /between stems/i.test(plain(cells[jWhere] ?? "")),
             });
         }
     }
@@ -317,6 +322,8 @@ export function shape(word, rules, { bound = false } = {}) {
         }
     }
     if (final.length === 0 && !bound && !syl.finalVowel) problems.push("ends in a vowel");
+    if (bound && syl.signature && !s.some((x) => syl.signature.includes(x.sound)))
+        problems.push("carries none of the tongue's signature sounds");
     if (bound && syl.mixed && vowelsBefore > 1) {
         const vs = s.filter((x) => x.kind === "V").map((x) => fold(x.sound));
         if (!syl.mixed.every((group) => vs.some((v) => group.map(fold).includes(v))))
@@ -345,12 +352,17 @@ export function unstressed(word, rules) {
 /**
  * Join two pieces through a tongue's join rules.
  *
+ * A rule the note limits to the meeting of two stems is skipped before a
+ * suffix.
+ *
  * @param {string} a - What stands so far.
- * @param {string} b - The next piece, a suffix's hyphen off.
+ * @param {string} piece - The next piece; a suffix keeps its leading hyphen.
  * @param {object} rules - From `rulesFrom`.
  * @returns {string} The joined form.
  */
-export function join(a, b, rules) {
+export function join(a, piece, rules) {
+    const suffix = piece.startsWith("-");
+    const b = suffix ? piece.slice(1) : piece;
     if (!a) return b;
     const left = sounds(a, rules);
     const right = sounds(b, rules);
@@ -359,7 +371,7 @@ export function join(a, b, rules) {
     if (!last || !first) return a + b;
     const key = `${last.kind === "V" ? "V" : "C"}+${first.kind === "V" ? "V" : "C"}`;
     const j = rules.joins.get(key);
-    if (!j) return a + b;
+    if (!j || (j.stemsOnly && suffix)) return a + b;
     if (j.rule === "drop") return a.slice(0, a.length - last.sound.length) + b;
     if (j.rule === "insert") return a + (j.letters[0] ?? "") + b;
     if (j.rule === "double" && j.letters.includes(first.sound)) return a + first.sound + b;
@@ -369,7 +381,7 @@ export function join(a, b, rules) {
 
 /** The form a list of pieces makes. */
 export function derive(pieces, rules) {
-    return pieces.reduce((acc, p) => join(acc, lower(p).replace(/^-/, ""), rules), "");
+    return pieces.reduce((acc, p) => join(acc, lower(p), rules), "");
 }
 
 /**
@@ -390,7 +402,7 @@ export function parse(word, rules, stems) {
             ...(pieces.length ? suffixForms.map((f) => ({ f, suffix: true })) : []),
         ];
         for (const { f, suffix } of options) {
-            const next = join(acc, f.replace(/^-/, ""), rules);
+            const next = join(acc, f, rules);
             if (next === target) {
                 found.push([...pieces, f]);
                 continue;
@@ -731,6 +743,21 @@ export function check({ lexText, tongueNotes, notes, earth, dunhari, lexFile = L
         earthCheck(s.form, s.offset, `${s.tongue} stem`);
     }
 
+    // Distinct tongues: no stem keeps another tongue's sound rules.
+    for (const t of lex.tongues) {
+        for (const s of stemsByTag.get(t.tag) ?? []) {
+            for (const u of lex.tongues) {
+                if (u.tag === t.tag || !rulesByTag.has(u.tag)) continue;
+                if (shape(s.form, rulesByTag.get(u.tag), { bound: true }).length === 0)
+                    add(
+                        s.offset,
+                        "error",
+                        `${t.name} stem \`${s.form}\` also keeps the sound rules of ${u.name}`,
+                    );
+            }
+        }
+    }
+
     // Required senses.
     for (const t of lex.tongues) {
         const mine = stemsByTag.get(t.tag);
@@ -895,7 +922,8 @@ export function checkWords(words, { lexText, tongueNotes, earth, dunhari }) {
                 );
             } else if (problems.length)
                 lines.push(`${word} breaks ${t.name}: ${problems.join("; ")}`);
-            else lines.push(`${word} keeps ${t.name}'s sounds but derives from no listed stem`);
+            else
+                lines.push(`${word} keeps the sounds of ${t.name} but derives from no listed stem`);
         }
         if (!derives) ok = false;
         return { word, ok, lines };
