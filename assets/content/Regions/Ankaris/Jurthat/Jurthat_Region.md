@@ -27,7 +27,7 @@ The archipelago takes its name—"Nine Mountains"—from the nine principal isla
 
 The strait separating Jürthāt from the mainland is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tānvüri invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tngvkvnlei|Celestial Order]] stand at every significant headland.
 
-Beyond the Nine, scores of smaller islands and islets stretch out in braided chains toward the open Pacific. Many of these lesser islands are uninhabited or only seasonally occupied by fishermen, smugglers, and hermit-priests. The volcanic activity that built the chain is still active: eruptions, hot springs, and periodic earthquakes are part of ordinary Jürthāti life and are interpreted theologically as heaven's continuing attention to its favored land.
+Beyond the Nine, scores of smaller islands and islets stretch out in braided chains toward the open ocean. Many of these lesser islands are uninhabited or only seasonally occupied by fishermen, smugglers, and hermit-priests. The volcanic activity that built the chain is still active: eruptions, hot springs, and periodic earthquakes are part of ordinary Jürthāti life and are interpreted theologically as heaven's continuing attention to its favored land.
 
 The climate is temperate with a sharp maritime character: wet summers, mild winters in the south, and harsh winters in the north where the outermost islands feel the ocean's teeth. Typhoons arrive every summer and are read as divine warnings, tests, or blessings depending on the year and the Great Lord's fortunes.
 

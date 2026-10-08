@@ -420,7 +420,7 @@ Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
 
 ## Social
 
-Dalzûru is affiliated with Nordic Skalds' Guild.
+Dalzûru is affiliated with Nordland Skalds' Guild.
 
 As a Haradian skald, Dalzûru occupies a recognized social niche within Harad society.
 
