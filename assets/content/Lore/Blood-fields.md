@@ -127,6 +127,18 @@ A _zelqezat_ (blood-field) is ground where thousands died and none of it was don
 
 Aû'Khelâthu has three _zelqezat_ in twenty-eight centuries, all made by war and none older than the hill-nomads: [[place-zelhalzi|Zel-Halzi]], the Unmeasured Field, where the Tha'Ulgau destroyed the last Galezkara army in 1612 ST (499 BF); [[place-eleventhgran|the Eleventh Granary]] at Anlagh-Zetûn, where the dead of the granary rising were sealed in an empty granary without rites in 2378 ST, 268 AF; and [[place-chariotfld|the Chariot Field]] at Khelaga, where the chariot corps broke under a Vylarian army in 2487 ST, 377 AF, the one _zelalgit_ among them. The cursed Way of the False Uqa'â at Zu-Gezer is sealed ground and not a _zelqezat_, because a curse made it and not a slaughter.
 
+## The Khazryn: Kèdoq and Henhulpedin
+
+The [[skill-sowideslng|Sowides]] of the steppe lay their dead out. A body is carried to the laying-out ground (_yelos_), left with its face to the sky-father, and its name is spoken to the four winds, and the name is what the sky takes up. A soul no one named is not found by the sky, and the hunters find it first. A kèdoq (blood-ground) is a place where many died and none were laid out or named, and the steppe holds that the dead there are still waiting to be called. A thin one is a wèsuk (cursed ground), and the riders who guide a caravan past one do not say the word after sunset.
+
+The Tellumi hold the same from the other side. A Tellumi dead is received by a Mōbad, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. A _henhulpedin_ (blood-field) is ground where the names were never read, and a thin one is a _sirvelpedin_ (cursed field). [[place-henhulpedin|Henhulpedin]], outside [[place-zargandur|Zargandûr]], where the war-house fell in the Breaking, is the field that carries the word as its name.
+
+**The three unions.** Each of the three great unions of the steppe made one: the first at [[place-jilaq|Jilaq]], where a city of strangers was killed and no rite was said for it; the second at [[place-wemaq|Wemaq]], where a tribe was killed and forbidden its laying-out; the third at [[place-qimod|Qìmod]], where a market town was killed on its fair day. The dead of a sacked town belong to a dozen peoples, which leaves the town's field with no one to settle it. The Breaking made the fourth, a lesser field.
+
+**What quiets one.** A laying-out performed late for the dead of a field, with every name spoken to the four winds, quiets a blood-ground for as long as the winds carry the names. It needs the names, and a field of strangers has none to give. The Tellumi reading is the same rite in a Mōbad's voice, and in Zargandûr it is forbidden under the Ātárzád prohibition on the worship of Āhúrdáén, so the reader risks his life for it.
+
+**How the steppe lives beside one.** Tribes mark nothing and wall nothing. The road bends, a rider turns a string off by force, a lamp is left at the edge on the anniversary, and the guides who would sell anything else will not sell a path across. The Tellumi paint stakes and shut gates.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
@@ -135,11 +147,15 @@ In order of their making. A dash marks a field whose battle no record dates.
 | -------------------------------------------- | ------------------------- | ------------------------------------------------------- | ------- | -------------------- | ----------------------------- |
 | [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]          | 499 BF  | recurrence           | moderate                      |
 | [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                  | ~300 BF | silence              | moderate                      |
+| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                  | ~190 BF | recurrence           | thin                          |
 | [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]] | 268 AF  | withering, contained | moderate, worse in lean years |
 | [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]           | ~270 AF | recurrence           | slight                        |
+| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]   | ~312 AF | quickening           | moderate                      |
 | [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]               | 315 AF  | dread                | thin                          |
 | [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]             | 377 AF  | recurrence           | thin                          |
 | [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                      | ~520 AF | withering            | thin, worked on               |
+| [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                               | ~548 AF | silence              | thin                          |
+| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                  | the Breaking                                            | ~620 AF | recurrence           | moderate                      |
 | [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
 | [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
 | [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                       | —       | quickening           | —                             |

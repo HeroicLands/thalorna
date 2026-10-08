@@ -12,7 +12,7 @@ The **Hard Generation** is the crisis of Vedyari history, and the shape of the p
 
 ## What Happened
 
-In the spring of 315 a steppe khanate came down the Western Descent ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march kingdom of **Marupāla** met it where the foothills open onto the road and died there with its last king ([[lore-marupalafl|the Fall of Marupāla]]); the field is [[place-lanthusthli|Lanthusthalī]], the thinnest _shorukshetra_ in Vedyara. The host burned the capital, [[place-ludrapur|Lūdrapur]], swept the march, and turned west across Dunhara.
+In the spring of 315 a steppe orqwenoq came down the Western Descent ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march kingdom of **Marupāla** met it where the foothills open onto the road and died there with its last king ([[lore-marupalafl|the Fall of Marupāla]]); the field is [[place-lanthusthli|Lanthusthalī]], the thinnest _shorukshetra_ in Vedyara. The host burned the capital, [[place-ludrapur|Lūdrapur]], swept the march, and turned west across Dunhara.
 
 While the kingdoms were looking west, an adventurer brought a few hundred picked men over the conch-door in the east ([[lore-conchdoor|the Conch-Door Incursion]]) and took the eastern janapadas one at a time. The one that would not submit he shut in its temple hall and burned ([[lore-silenthall|the Silenced Hall]]). The janapadas' third confederation army put him out, and at the Mela of 320 the assembly mourned the dead janapada on the roll in the same ten days it swore [[lore-thirdcmpct|the Third Compact]].
 
@@ -22,7 +22,7 @@ On the empty march a clan of the salt coast, the Bhūmipāla, took the land, sea
 
 - **Marupāla:** **Ashvakīrti**, the last king, dead at Lanthusthalī.
 - **Bhūmipāla:** **Kāvravīra**, the first Mahārāja, confirmed by a council of the men who built the forts.
-- The storm-khan and the conch-door adventurer are unnamed in every Vedyari account, the first because nobody recorded his name and the second because the priests will not speak it.
+- The storm-orqwen and the conch-door adventurer are unnamed in every Vedyari account, the first because nobody recorded his name and the second because the priests will not speak it.
 
 ## Its End
 

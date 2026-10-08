@@ -11,9 +11,9 @@ data:
   occupation: Animal Trainer
   stations: []
   lore: []
-  culture: khazrynclt
+  culture: sowidesclt
   homes: [oasishirvn]
-  affiliations: {khzrncnfdrtn: {rank: 2}, zurathra: {rank: 1}}
+  affiliations: {drmndtrb: {rank: 3}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.38

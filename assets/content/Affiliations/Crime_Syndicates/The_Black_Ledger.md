@@ -109,7 +109,7 @@ Among working members, the principal informal distinction is between **cartograp
 
 - **The [[affiliation-crtgrphrsgldbyzrnlg|Cartographers' Guild]]**—parasitic dependence. The Ledger could not exist without the guild's training apparatus; the guild cannot eliminate the Ledger without expelling a substantial fraction of its own membership. The two institutions maintain a kind of mutual non-recognition; senior figures on each side often know senior figures on the other and pretend, in public, not to.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]**—major clients. The [[affiliation-velvethand|Velvet Hand]] buys document specialists; the [[affiliation-crimsnldgr|Crimson Ledger]] (no relation despite the similar name) buys financial-route maps; the [[affiliation-theashroad|Ash Road]] buys desert and caravan charts; the Theft Syndicate of the Eastern Docks buys city-interior surveys.
-- **Foreign powers**—Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Khazryn Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
+- **Foreign powers**—Tarvénia, an unidentified northern confederation, at least one Vylarian province, and irregularly the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] all maintain standing arrangements with brokers for procurement of League maps.
 - **The League's City Guard**—the Ledger's only true enemy. The Guard knows the Ledger exists, knows roughly who is involved, and has not assembled sufficient evidence to indict any senior member.
 
 ## Identifying Marks

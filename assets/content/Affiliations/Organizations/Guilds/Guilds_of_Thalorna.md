@@ -104,7 +104,7 @@ The [[affiliation-mrchntclctvvdyr|Merchant Collective]] is the most powerful fed
 
 The pastoral and tribal regions do not have guilds in the southern sense. Trades are organized through the same lineage and tribal structures that organize everything else. A Dunhari smith is the smith of his tribe; his apprentice is his son or his nephew; his standards are those his father taught him; his recourse in disputes is the chieftain's hall. The institutional form of the guild is incompatible with the tribal organization of production and has, where attempted, failed to take hold.
 
-The Khazryn Confederation has, in its urbanized trading-cities, begun to develop formal guild structures along Vedyaran lines; the development is recent, uneven, and shows no Collegium influence.
+The Tellumi Confederation has, in its urbanized trading-cities, begun to develop formal guild structures along Vedyaran lines; the development is recent, uneven, and shows no Collegium influence.
 
 ### Southern Xerathia and the Far Continents
 

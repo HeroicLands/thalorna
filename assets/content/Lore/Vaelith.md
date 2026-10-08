@@ -45,6 +45,6 @@ The **Court of the Nine Moons**, met in the dossier of [[being-amqltzlmlglq|Amqe
 
 - [[place-worldthlrn|The World of Thalorna]]—the 365-day year Vaelith's cycle runs against
 - [[lore-commoncal|The Vylarian Calendar]]—opens its year on the day Vaelith was last new
-- [[lore-khzrnclndr|The Khazryn Calendar]]—keeps five days outside its months, the same five the moon does not count
+- [[lore-khzrnclndr|The Tellumi Calendar]]—keeps five days outside its months, the same five the moon does not count
 - [[lore-khelathclndr|The Khelâthi Calendar]]—keeps the same five days at its own year's end
 - [[affiliation-naliktzuqal|Faith of Nal'ik Tz'uqal]]—the goddess who shares Tz'uqal's name with the moon's Itzani word

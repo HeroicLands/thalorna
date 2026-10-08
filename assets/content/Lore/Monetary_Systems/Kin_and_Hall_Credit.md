@@ -43,11 +43,13 @@ A Dunhari trader extends substantial credit to a kin-member with the understandi
 
 The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates particularly contentious credit disputes between tribal groups (a debt that has crossed inter-tribal lines and threatens the Old Promise that holds the confederation together), but most credit operates within the kin-network without external institutional involvement.
 
-### Khazryn Tribal Credit
+### Steppe Tribal Credit
 
-The [[affiliation-khzrncnfdrtn|Khazryn]] system is similar to the Dunhari but operates over wider distances and through tighter trade-relationships. The Khazryn trading caravans that move between settled markets carry obligations that span entire tribal territories; the **caravan-master** carries not only his own commercial relationships but the obligations of his backing clan, which extend across the caravan's entire route.
+The [[lore-sowidesclt|Sowides]] tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe answer to no common authority, so their credit is a web of agreements between single tribes and single houses, struck one stretch of road at a time. The system is similar to the Dunhari but operates over wider distances, because [[lore-celestialroad|the Celestial Road]] connects strangers across thousands of miles. A **caravan-master** crossing it buys passage from some thirty-five tribes in turn and carries not only his own commercial relationships but the obligations of his backing house, which stand surety for every tribe he owes.
 
-Khazryn kin-credit relationships have historically been the principal credit infrastructure of the steppe—more so than in Dunhari country, because Khazryn commerce reaches further and connects more strangers. Customary practices for inter-tribal credit have developed accordingly: standing protocols for the recognition of obligations between non-kin parties when their respective kin-networks vouch for them, formal ceremonies for the closure of debts when the parties' descendants finally meet for settlement, traditions of hostage-exchange between great trading families whose obligations span generations.
+A tribe takes goods in hand when it can get them. A master short of goods pays in his house's name: the tribe cuts the debt on a tally, and its rider carries word of it to the next tribe along the road. If the house defaults, every tribe holding its name closes its wells to the house's next caravan, and the word travels with the riders faster than any camel.
+
+Kin-credit relationships have been the principal credit infrastructure of the steppe, more so than in Dunhari country, because the road's commerce reaches further and connects more strangers. Customary practices for inter-tribal credit have developed accordingly: standing protocols for recognizing obligations between non-kin parties when their respective kin-networks vouch for them, formal ceremonies for closing debts when the parties' descendants finally meet for settlement, and traditions of hostage-exchange between great trading houses whose obligations span generations. A tribe grants no credit to a stranger on his own word; it grants credit to a house that has hostages to give and a name that has crossed the waste before.
 
 ### Áelendan and Aurèldían Variants
 
@@ -76,7 +78,7 @@ Kin-and-hall credit is the dominant commercial credit system in:
 - The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)—the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
 - [[place-vrystwald|Vrystwald]]—similar; the cities have minor moneylender activity but the interior runs on clan-credit
 - The [[place-dunharargn|Dunhara]]—tribal kin-credit is the only credit infrastructure
-- The [[affiliation-khzrncnfdrtn|Khazryn Confederation]]—tribal credit dominates outside the few urbanized trading-cities
+- The [[lore-sowidesclt|Sowides]] tribes of the [[place-khzryndsrtrgn|Khazryn]]—each tribe extends and calls credit on its own account, and a house's name is its security from one range to the next
 - The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]—clan-credit operates in the partially-settled communities
 - The deep rural areas of every settled polity—even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
 

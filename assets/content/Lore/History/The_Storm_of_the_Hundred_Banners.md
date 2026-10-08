@@ -3,7 +3,7 @@ shortcode: hndrdbnnrs
 name: {full: The Storm of the Hundred Banners, aliases: [Storm of the Hundred Banners]}
 type: lore
 subType: history
-description: "About 315 AF a steppe khanate goes round the western end of the Grazian wall, overruns Vedyara's northwestern march, crosses Dunhara to the walls of Amradad, and breaks up on its khan's death—without forcing a single pass."
+description: "About 315 AF a steppe orqwenoq goes round the western end of the Grazian wall, overruns Vedyara's northwestern march, crosses Dunhara to the walls of Amradad, and breaks up on its orqwen's death—without forcing a single pass."
 tags: [history, spine]
 data:
   packFolder: settinglore
@@ -19,7 +19,7 @@ data:
         - affiliation-bhumipala
         - place-graznmntns
       summary: >-
-        The steppe confederations of the Khazryn unite under a charismatic khan into a great khanate. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Sultanate of Amradad from the wrong side. It fragments on the death of its founding khan. No pass is forced, and none could be.
+        The steppe tribes of the Khazryn unite under a charismatic orqwen into a great orqwenoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Sultanate of Amradad from the wrong side. It fragments on the death of its founding orqwen. No pass is forced, and none could be.
       standing: attested
       names:
         - name: the Storm of the Hundred Banners
@@ -42,7 +42,11 @@ data:
             knowledge: named
           - place: place-khzryndsrtrgn
             how: >-
-              the southwestern oasis-cities are largely spared, because the storm-khan respects the Sultanate's diplomatic missions
+              the southwestern oasis-cities are largely spared, because the storm-orqwen respects the Sultanate's diplomatic missions
+            knowledge: named
+          - place: place-wemaq
+            how: >-
+              the orqwen opens the union at the Green Oasis by killing the last tribe that refuses his banner, and the oasis is a blood-field no tribe claims
             knowledge: named
           - place: place-vindhyalayaland
             how: >-
@@ -69,16 +73,16 @@ data:
           says: No horde has ever forced a Grazian pass.
           agrees: full
       unresolved:
-        - the founding khan's name
+        - the founding orqwen's name
         - whether the tribes of Dunhara rode with the host or only stood out of its way
         - what the other two steppe unifications of recorded history were, and when
 ---
 
-The **Storm of the Hundred Banners** is the reason every fort on Vedyara's march road was built, and it is the most famous of the three times in recorded history that the steppe has united behind one khan. About 315 AF a charismatic warlord drew the confederations of the [[place-khzryndsrtrgn|Khazryn]] into a single khanate, and the khanate went south.
+The **Storm of the Hundred Banners** is the reason every fort on Vedyara's march road was built, and it is the most famous of the three times in recorded history that the steppe has united behind one orqwen. About 315 AF a charismatic warlord drew the independent tribes of the [[place-khzryndsrtrgn|Khazryn]] into a single orqwenoq, and the orqwenoq went south.
 
-It took the one road a horde can take. The [[place-graznmntns|Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The khanate went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto [[place-marchroad|the march road]].
+It took the one road a horde can take. The [[place-graznmntns|Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orqwenoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto [[place-marchroad|the march road]].
 
-What followed is told in four regions in nearly the same words. The host overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-sultntmrdd|the Sultanate of Amradad]] from the side nobody had built them to face. Then its founding khan died, and the khanate broke into the confederations it had been made from. The southwestern oasis-cities were largely spared; the Khazryn account credits the storm-khan's respect for the Sultanate's diplomatic missions.
+What followed is told in four regions in nearly the same words. The host overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-sultntmrdd|the Sultanate of Amradad]] from the side nobody had built them to face. Then its founding orqwen died, and the orqwenoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the Tellumi account credits the storm-orqwen's respect for the Sultanate's diplomatic missions.
 
 On the Vedyari side the march has been arranged around that season ever since. [[affiliation-bhumipala|Bhūmipāla]] built every fort on the road afterward, and with the host in mind, and the kingdom's court, companies and customs all stand on the fact that the march road is the one frontier of the subcontinent a loaded camel—or a steppe host—crosses without climbing. In the passes, [[affiliation-vindhyalay|Shikharālaya]] keeps the other half of the record: no horde has ever forced a Grazian pass.
 

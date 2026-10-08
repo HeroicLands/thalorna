@@ -226,6 +226,43 @@ export const RETIRED = [
         replacement: "the host culture's given names",
         scope: ["assets/content/Characters/Folk/Aleziya.md"],
     },
+    {
+        retired: ["Southwestern Oasis-Belt", "southwestern oasis-belt"],
+        replacement: "Tellumel",
+        scope: "corpus",
+    },
+    { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēl", scope: "corpus" },
+    { retired: ["Shōfet"], replacement: "Dūkhen", scope: "corpus" },
+    { retired: ["nasi"], replacement: "Rēzhul", scope: "corpus" },
+    {
+        retired: ["Khazryn Confederation", "Khazryn confederation"],
+        replacement: "Tellumi Confederation",
+        scope: "corpus",
+    },
+    {
+        retired: ["Khazryn Calendar", "Khazryn calendar"],
+        replacement: "Tellumi Calendar",
+        scope: "corpus",
+    },
+    { retired: ["Khazri"], replacement: "Tellumi", scope: "corpus" },
+    {
+        retired: ["khanates", "khanate", "Khans", "Khan", "khan"],
+        replacement: "orqwen (a khanate is an orqwenoq)",
+        scope: [
+            "assets/content/Affiliations/Divine/Dunhara/Storm_Cults_of_Bahramish.md",
+            "assets/content/Affiliations/Organizations/Vylarian/Dunhara_Warriors_Circle.md",
+            "assets/content/Affiliations/Social/Companies/TighSavaran_of_the_Zarnush.md",
+            "assets/content/Lore/History/The_Storm_of_the_Hundred_Banners.md",
+            "assets/content/Regions/Ankaris/Hellad/Byzaria/Eastern_March.md",
+            "assets/content/Regions/Ankaris/Hellad/Byzaria/Northern_March.md",
+            "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Desert_Region.md",
+            "assets/content/Regions/Ankaris/Vedyara/History/Era_6_The_Hard_Generation.md",
+            "assets/content/Regions/Ankaris/Vedyara/History/The_Fall_of_Marupala.md",
+            "assets/content/Regions/Ankaris/Vedyara/Lanthusthali.md",
+            "assets/content/Regions/Ankaris/Vedyara/Ludrapur.md",
+            "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
+        ],
+    },
 ];
 
 const LETTER = "\\p{L}\\p{M}";
