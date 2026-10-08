@@ -45,7 +45,7 @@ The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] occasionally adjudicates p
 
 ### Khazryn Tribal Credit
 
-The [[affiliation-khzrncnfdrtn|Khazryn]] system is similar to the Dunhari but operates over wider distances and through tighter trade-relationships. The Khazryn trading caravans that move between settled markets carry obligations that span entire tribal territories; the **caravan-master** carries not only his own commercial relationships but the obligations of his backing clan, which extend across the caravan's entire route.
+The [[lore-sowidesclt|Sowides]] system is similar to the Dunhari but operates over wider distances and through tighter trade-relationships. The trading caravans that move between settled markets carry obligations that span entire tribal territories; the **caravan-master** carries not only his own commercial relationships but the obligations of his backing clan, which extend across the caravan's entire route, tribe by tribe.
 
 Khazryn kin-credit relationships have historically been the principal credit infrastructure of the steppe—more so than in Dunhari country, because Khazryn commerce reaches further and connects more strangers. Customary practices for inter-tribal credit have developed accordingly: standing protocols for the recognition of obligations between non-kin parties when their respective kin-networks vouch for them, formal ceremonies for the closure of debts when the parties' descendants finally meet for settlement, traditions of hostage-exchange between great trading families whose obligations span generations.
 
@@ -76,7 +76,7 @@ Kin-and-hall credit is the dominant commercial credit system in:
 - The [[place-nrdlndsrgn|Nordlands]] (all five kingdoms)—the formal Vylarian banking system does not operate here; hall-credit handles all substantial commerce
 - [[place-vrystwald|Vrystwald]]—similar; the cities have minor moneylender activity but the interior runs on clan-credit
 - The [[place-dunharargn|Dunhara]]—tribal kin-credit is the only credit infrastructure
-- The [[affiliation-khzrncnfdrtn|Khazryn Confederation]]—tribal credit dominates outside the few urbanized trading-cities
+- The [[lore-sowidesclt|Sowides]] tribes of the [[place-khzryndsrtrgn|Khazryn]]—tribal credit dominates outside the few urbanized trading-cities
 - The [[affiliation-nylbtrblntn|Nyáluba]] and the broader [[place-sthrnsvnhs|Southern Savannahs]]—clan-credit operates in the partially-settled communities
 - The deep rural areas of every settled polity—even where the formal banking system reaches the cities, the rural kin-network operates substantially on this older credit pattern
 
