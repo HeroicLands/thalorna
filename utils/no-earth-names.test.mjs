@@ -31,16 +31,11 @@ const CONTENT_DIR = "assets/content";
 const DATA_FILES = ["utils/nordmal-concordance.json"];
 
 /** Files that may name Earth. */
-const EXEMPT_FILES = new Set([
-    "assets/content/Reference/Terran_Analogs.md",
-    // Source credits for the writing manuals; ownership of the decision is open.
-    "assets/content/README-gazeteer.md",
-    "assets/content/Adventurers_Guides/README.md",
-]);
+const EXEMPT_FILES = new Set(["assets/content/Reference/Terran_Analogs.md"]);
 
 /**
- * The concordance records the Earth names the corpus replaced; these keys hold
- * the replaced name or the path it sat at, which is the record's whole purpose.
+ * The concordance records every name the corpus replaced, Earth or not; these keys
+ * hold the replaced name or the path it sat at, which is the record's whole purpose.
  */
 const RECORDED_KEY = /^\s*(?:"(?:oldName|oldAliases|oldPath|oldRefPaths)"|"[0-9a-f]{7,}:assets\/)/;
 const CONCORDANCE = "utils/nordmal-concordance.json";

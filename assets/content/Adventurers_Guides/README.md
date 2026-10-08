@@ -2,13 +2,11 @@
 
 An Adventurer's Guide is a **travel guide for play** and the front door to a culture for players and GMs. It should make readers want to visit and give them enough orientation to decide where to go, how to travel, who they might meet, and what matters when they arrive. A reader should finish it with a feel for the place, a character who belongs there or has reason to visit, and several directions an adventure could take. The guide offers a way in; the setting notes hold the detail. The [Vedyara](Vedyara_Adventurers_Guide.md) and [Aû'Khelâthu](AuKhelathu_Adventurers_Guide.md) guides show how different cultures can meet that purpose in their own voices.
 
-The _Sword Coast Adventurer's Guide_ is a model for the job: welcome a traveler, make the setting vivid, and connect its places and people to play. Draw on its approach to orientation and invitation, using original wording and Thalorna's own material.
-
 ## Voice
 
 Write with the warmth and confidence of someone who knows the country and wants to show it to a newcomer. Start with a journey, an encounter, or a choice a character can picture. Put a temple hall, a toll gate, a workshop, or a flood crossing in view before explaining the institution behind it. The guide teaches a newcomer, so it addresses the reader directly as **you**; second person is its ordinary form, not an occasional device. Let each culture sound like itself.
 
-[Writing Thalorna's gazetteer notes](../README-gazeteer.md) governs a guide's prose as it does every other note's: its teaching voice, the sentence rules, the reference boundary, name marking, American spelling, and Chicago dashes all apply here. This document adds what is particular to a guide.
+[Writing Thalorna's gazetteer notes](../README-gazeteer.md) governs a guide's prose as it does every other note's: its teaching voice, the sentence rules, the reference boundary, name marking, spelling, and dashes all apply here. This document adds what is particular to a guide.
 
 Give the reader reasons to be curious. A useful paragraph says what makes a place distinctive **and** what a party might do there. Tension can be a disputed claim, a journey that needs a guide, a festival that gathers rivals, or an obligation someone cannot settle. Wonder and ordinary life matter too: food, craft, worship, learning, hospitality, and the rhythms of the year give characters something to care about.
 
