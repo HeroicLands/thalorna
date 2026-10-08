@@ -139,7 +139,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]             | 315 AF  | dread      | thin            |
 | [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                                    | ~520 AF | withering  | thin, worked on |
 | [[place-qimod\|Qìmod]]               | The Khazryn steppe        | the sack of the spur town                             | ~548 AF | silence    | thin            |
-| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~630 AF | recurrence | moderate        |
+| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~620 AF | recurrence | moderate        |
 | [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
 | [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
 | [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                                     | —       | quickening | —               |
