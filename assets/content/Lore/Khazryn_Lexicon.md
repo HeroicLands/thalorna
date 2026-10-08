@@ -510,6 +510,8 @@ Every name of every note in the region stands here with the note it names and it
 | Princes of Tellumel                           | [[affiliation-khzrncnfdrtn\|Tellumi Confederation]]                | `gloss`   | a glossed name on `Tellumel`                              |
 | The Tellumi Calendar                          | [[lore-khzrnclndr\|The Tellumi Calendar]]                          | `gloss`   | a glossed name on `Tellumi`                               |
 | Tellumi Calendar                              | [[lore-khzrnclndr\|The Tellumi Calendar]]                          | `gloss`   | a glossed name on `Tellumi`                               |
+| The Sowides Reckoning                         | [[lore-swdsclndr\|The Sowides Reckoning]]                          | `gloss`   | a glossed name on `Sowides`                               |
+| Steppe Reckoning                              | [[lore-swdsclndr\|The Sowides Reckoning]]                          | `gloss`   | a glossed name on `Sowides`                               |
 | Ashkarad                                      | [[place-ashkarad\|Ashkarad]]                                       | `older`   | a name older than the rules                               |
 | Caldar                                        | [[place-caldar\|Caldar]]                                           | `older`   | a name older than the rules                               |
 | Desert of Hek'ar                              | [[place-hekardesert\|Desert of Hek'ar]]                            | `older`   | a name older than the rules                               |

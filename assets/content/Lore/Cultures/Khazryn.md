@@ -5,6 +5,86 @@ type: lore
 subType: culture
 description: "The Tellumi—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  events:
+    - when: ~-2300
+      precision: century
+      kind: migration
+      depth: region
+      sources: [affiliation-khzrncnfdrtn, place-graznmntns, place-wstrndscnt, place-swoasisbelt]
+      summary: >-
+        The first Tellumi come down from the Grazian Mountains by the Western Descent, one lineage after another, and settle the great springs at the foot of the foothills. Each house roots its genealogy in a named peak above the Descent, and most of those peaks no living member of the house has seen.
+      standing: single-source
+      where:
+        locus: [place-wstrndscnt]
+        reach:
+          - place: place-swoasisbelt
+            how: >-
+              the springs of the belt are settled one by one, and the seven cities are built on one another's foundations
+            knowledge: named
+          - place: place-oasishirvn
+            how: >-
+              Shirvan is founded first, at the great spring under the Mōrávar cliff
+            knowledge: named
+      who: [{ref: affiliation-khzrncnfdrtn, role: actor}]
+      accounts:
+        - by: affiliation-khzrncnfdrtn
+          says: >-
+            We came down from the mountains. It is the one fact about us that no conqueror has been able to revise.
+          agrees: full
+      unresolved:
+        - what drove the first lineages down from the high country
+        - which lineage settled which spring
+    - when: ~619
+      precision: span
+      until: ~630
+      kind: conquest
+      depth: region
+      sources: [affiliation-khzrncnfdrtn, affiliation-tribestrzd, place-swoasisbelt]
+      summary: >-
+        The Ātárzád, taken in as refugees and settled on marginal land, turn on their hosts and in twelve years take four of the seven Tellumi cities: Zargandûr in the second year, Ashkarad in the fifth, Kethramír in the eighth and Shirvan in the eleventh. The Tellumi call it Turem, the Breaking, and the Ātárzád the War of the Twelve Years. Mehrnāgord and Ushtra-bēr stand, and Vahúrdash lies empty.
+      standing: attested
+      names:
+        - name: Turem
+          by: affiliation-khzrncnfdrtn
+          gloss: the Breaking, recited at every festival and every princely funeral
+        - name: the War of the Twelve Years
+          by: affiliation-tribestrzd
+          gloss: the Conquest, as the Flame-born tell it
+      where:
+        locus: [place-swoasisbelt]
+        reach:
+          - place: place-zargandur
+            how: >-
+              the war-house falls first, and its last riders die on the pasture north of the gate
+            knowledge: named
+          - place: place-ashkarad
+            how: >-
+              taken in the fifth year and held since
+            knowledge: named
+          - place: place-kethramir
+            how: >-
+              taken in the eighth year and held since
+            knowledge: named
+          - place: place-oasishirvn
+            how: >-
+              the holiest city falls in the eleventh year, its archive burns and a fire-temple is raised over the spring
+            knowledge: named
+      who:
+        - {ref: affiliation-tribestrzd, role: actor}
+        - {ref: affiliation-khzrncnfdrtn, role: victim}
+      accounts:
+        - by: affiliation-khzrncnfdrtn
+          says: >-
+            The Ātárzád arrived as guests, waited until they were strong enough and turned on their hosts. The Promise they cite is a legal fiction.
+          agrees: partly
+        - by: affiliation-tribestrzd
+          says: >-
+            The Flame promised the oases to the Flame-born, and the Promise was kept.
+          agrees: partly
+      unresolved:
+        - how much of the seven-city confederation's fall was decline and how much was Ātárzád skill
+        - why the Sultanate of Amradad did not intervene
 
 # terran_analog: "The Canaanites of the post-Conquest period, and the Persianate oasis belt of Central Asia (Uzbek and Tajik analog): an old, literate, urban oasis people with princely houses, a learned priesthood and a devotion to an oasis-mother. Carries over: urban polytheist civilization dispossessed of its cities by a newcomer fire-cult, hereditary princes in exile, a subject diaspora, polytheist Āsháian observance with particular devotion to the oasis-mother and order-keeper, and an enduring blood-feud with the newcomer fire-cult that took the choicest land. Departs: the exile houses keep legal and genealogical records for recovering their cities."
 ---

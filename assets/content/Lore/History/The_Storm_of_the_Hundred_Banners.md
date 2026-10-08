@@ -19,7 +19,7 @@ data:
         - affiliation-bhumipala
         - place-graznmntns
       summary: >-
-        The steppe confederations of the Khazryn unite under a charismatic orqwen into a great orqwenoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Sultanate of Amradad from the wrong side. It fragments on the death of its founding orqwen. No pass is forced, and none could be.
+        The steppe tribes of the Khazryn unite under a charismatic orqwen into a great orqwenoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Sultanate of Amradad from the wrong side. It fragments on the death of its founding orqwen. No pass is forced, and none could be.
       standing: attested
       names:
         - name: the Storm of the Hundred Banners
@@ -43,6 +43,10 @@ data:
           - place: place-khzryndsrtrgn
             how: >-
               the southwestern oasis-cities are largely spared, because the storm-orqwen respects the Sultanate's diplomatic missions
+            knowledge: named
+          - place: place-wemaq
+            how: >-
+              the orqwen opens the union at the Green Oasis by killing the last tribe that refuses his banner, and the oasis is a blood-field no tribe claims
             knowledge: named
           - place: place-vindhyalayaland
             how: >-

@@ -5,7 +5,62 @@ type: lore
 subType: history
 description: "A league of caravan cities on the first road across the Khazryn, from about 1000 BF to about 190 BF, whose tall towers were lit at night so a string of camels could march in the cool hours and steer for the next well; the steppe sacked the last of them, and the road still drinks from the wells they dug."
 tags: [history]
-data: {packFolder: settinglore}
+data:
+  packFolder: settinglore
+  events:
+    - when: ~-1000
+      precision: century
+      kind: founding
+      depth: region
+      sources: [place-khzryndsrtrgn, place-jilaq, place-wilud, place-ruinsarkor]
+      summary: >-
+        The caravan cities of the Tower League rise along the first road across the Khazryn, each with a light-tower in its crown that burns from sunset to dawn. They dig the deep wells the road still drinks from and hold together by one interest, the safe passage of goods, and one rule, that a city's light is never allowed to go out.
+      standing: reconstructed
+      where:
+        locus: [place-jilaq]
+        reach:
+          - place: place-wilud
+            how: >-
+              a city of the league is drowned by moving dunes when its well fails
+            knowledge: named
+          - place: place-ruinsarkor
+            how: >-
+              the league's westernmost city, nearest the Eastern March, is buried
+            knowledge: named
+      accounts:
+        - by: place-khzryndsrtrgn
+          says: >-
+            The tribes call every tall ruin in the waste a lamp-tower, and most of them were. They hold the wells in trust until the owners return.
+          agrees: full
+      unresolved:
+        - what the league called itself, and what its counting-houses wrote
+        - why its cities stood so far apart that a string needed three nights between them
+    - when: ~-190
+      precision: decade
+      kind: dissolution
+      depth: region
+      sources: [place-khzryndsrtrgn, place-jilaq]
+      summary: >-
+        The league ends when the steppe is forced into its first great union and the cities that refuse tribute are taken one after another. The wells pass to the tribes, who keep them and sell passage, and the towers go dark.
+      standing: reconstructed
+      where:
+        locus: [place-jilaq]
+        reach:
+          - place: place-hskrrgn
+            how: >-
+              the tribes of the sand country take the wells of the road and sell water to every string that crosses
+            knowledge: named
+      follows:
+        - event: lore-frstorqwnq
+          how: caused
+          note: the first union demanded tribute that the cities refused
+      accounts:
+        - by: place-khzryndsrtrgn
+          says: >-
+            The league grew rich, the steppe grew hungry, and the lights went out in order.
+          agrees: partly
+          withholds: that the league's merchants could have paid the toll and chose not to
+      unresolved: ["how many cities fell, and in what order"]
 ---
 
 A caravan that leaves a well at dusk and marches through the cool of the night needs one thing the desert does not give it, a mark to steer by. The Tower Cities supplied it. Each city of the league raised a tall, slender tower at its edge, lit a fire in its crown from sunset to dawn, and set its caravan yard at the foot. A string coming in from the open waste saw the nearest light on the horizon two nights before it saw the walls, and steered for it as a ship steers for a harbor.
