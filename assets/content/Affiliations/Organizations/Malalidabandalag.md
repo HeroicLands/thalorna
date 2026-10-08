@@ -42,7 +42,6 @@ data:
       Council of the Hall: >-
         Nine seats: three held by the longest-standing signed companies, three rotating and elected from junior signed companies, and three reserved for the grákáppar, retired captains of particular standing.
   seat: hringstead
-  domains: []
   population: null
   economy: []
   lore: []

@@ -21,7 +21,6 @@ data:
           Studies cultivation, preparation and effect, and brings findings to the society's meetings.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -62,7 +62,6 @@ data:
       Envoy: >-
         Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: qasirah
-  domains: [kaliharargn]
   population: 3000000
   economy: [lore-bartercnmy]
   lore: [humanflk]

@@ -50,7 +50,6 @@ data:
       Hofsgodi: >-
         Keeper of a named hof where the local ting sits, its stores and its blót.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [eidgardty]

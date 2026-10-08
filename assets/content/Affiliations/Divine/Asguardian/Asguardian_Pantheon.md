@@ -26,7 +26,6 @@ data:
       Landsgodi: >-
         Priest of the land, who hallows the ting island and speaks for the Ten with one voice.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

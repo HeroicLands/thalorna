@@ -37,7 +37,6 @@ data:
       The Silent Year of Thunder: >-
         A year speaking only the chants of the temple, and only while the drum is sounding.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [meghanathadty]

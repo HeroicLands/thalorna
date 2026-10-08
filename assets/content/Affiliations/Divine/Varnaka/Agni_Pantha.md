@@ -48,7 +48,6 @@ data:
       Chapter Root: >-
         The Dahana-Mūla of a region, on the rare occasions a chapter is settled enough to have one.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [rasikaradty]

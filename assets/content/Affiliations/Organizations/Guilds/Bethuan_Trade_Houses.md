@@ -33,7 +33,6 @@ data:
       Speaker of the Council: >-
         Chosen by consensus from among the present matriarchs for each session; presides over the session, frames the questions and announces the rulings, but carries prestige rather than standing executive authority.
   seat: null
-  domains: []
   population: null
   economy:
     - affiliation-clgmrgntrrm

@@ -21,7 +21,6 @@ data:
           A fighter who submits to the guild's terms of hire and is vouched for by it.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

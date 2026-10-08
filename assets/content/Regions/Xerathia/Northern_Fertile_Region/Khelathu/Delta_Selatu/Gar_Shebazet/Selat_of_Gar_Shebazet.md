@@ -65,7 +65,6 @@ data:
       Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
       Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: garshebazet
-  domains: [garshebztslt]
   population: 650000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]

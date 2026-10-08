@@ -108,7 +108,6 @@ data:
       Royal Chaplain: Keeper of the king's own devotions and of the sacred character of his office.
       Inquisitor: Examiner of doctrine within the realm, answerable to the priesthood rather than the crown.
   seat: nartum
-  domains: [nartumkngdm]
   population: 2500000
   economy:
     - lore-vylrncrncy

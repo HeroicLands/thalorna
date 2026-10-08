@@ -63,7 +63,6 @@ data:
       Envoy to the Sultanate: A house's representative at Amradad, where the Council meets on the Sultan's courtesy.
       Keeper of the Feud: Recorder of blood owed and blood paid between houses and against the Ātárzád.
   seat: oasishirvn
-  domains: [khzryndsrtrgn]
   population: 800000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]

@@ -35,7 +35,6 @@ data:
       The Perfect Stone: >-
         A single stone shaped by hand to proportions dictated by a senior priest, to such precision that no flaw can be found.
   seat: null
-  domains: [sarvaprbhv]
   population: null
   economy: []
   lore: [vyalendradty]

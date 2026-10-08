@@ -23,7 +23,6 @@ data:
       Keeper of the Further Door: >-
         Holds the door to the library's texts on the spirit-realm, open to fewer readers than the rest.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

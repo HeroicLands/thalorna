@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: varoshan2
-  domains: [varoshan2]
   population: 2300000
   economy: [affiliation-aerarimmpr, lore-hardncrncy]
   lore: [humanflk]

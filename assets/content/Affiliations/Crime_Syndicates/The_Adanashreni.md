@@ -57,7 +57,6 @@ data:
       Dūta: >-
         The envoy who carries the guild's business to courts, to the temples and to the Twilight House.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

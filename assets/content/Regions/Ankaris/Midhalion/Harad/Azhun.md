@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: azhun2
-  domains: [azhun2]
   population: 2500000
   economy: [affiliation-aerarimmpr, lore-hardncrncy]
   lore: [humanflk]

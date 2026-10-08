@@ -63,23 +63,6 @@ data:
       Dhanurāchārya: >-
         Master of one of the four archery academies, holding its reserved seat on the sabhā. The four are seated together and answer together on any question of war.
   seat: dhanurkota
-  domains:
-    - dhanurkotajnpd
-    - dhanurkota
-    - venuvana
-    - sharavana
-    - taranaghatta
-    - ashvatira
-    - karpasagrama
-    - ikshukshetra
-    - tilavana
-    - shaligrama
-    - virasthali
-    - gokshetra
-    - madhupada
-    - nilavana
-    - vishanagrama
-    - vanasthali
   population: 30000
   economy: [affiliation-mrchntclctvvdyr, lore-vdyrnbnkng]
   lore: [vedyariclt]

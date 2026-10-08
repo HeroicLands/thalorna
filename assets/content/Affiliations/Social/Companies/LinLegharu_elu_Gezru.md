@@ -21,7 +21,6 @@ data:
           Harvests and sells what moves fastest, sharing in the consortium's trade.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -66,7 +66,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: kalydria2
-  domains: [kalydria2]
   population: 460000
   economy:
     - affiliation-aerarimmpr

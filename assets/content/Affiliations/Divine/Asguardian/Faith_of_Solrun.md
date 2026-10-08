@@ -50,7 +50,6 @@ data:
       Hofsgodi: >-
         Keeper of a named feast-hall hof, its stores and its blót.
   seat: null
-  domains: [solvangrhall]
   population: null
   economy: []
   lore: [solrundty]

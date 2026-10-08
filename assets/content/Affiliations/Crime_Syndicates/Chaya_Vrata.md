@@ -41,7 +41,6 @@ data:
       Preparer: >-
         Works the misdirection in advance of someone else's business and is gone before it happens; the rank of the trade most lines will admit to.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

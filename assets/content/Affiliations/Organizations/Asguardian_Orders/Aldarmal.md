@@ -32,7 +32,6 @@ data:
           Speaks between the elder races and mortals in Bjartr's name, keeping harmony between the two.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

@@ -21,7 +21,6 @@ data:
           Holds the guild's license and works a territory on its terms and codes.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

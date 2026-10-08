@@ -65,7 +65,6 @@ data:
       Halzi'a's Steward: Administrator of the selat's revenue, its granaries and its corvée.
       Canal-Warden: Keeper of the irrigation works on which the selat's harvest—and its tax—depends.
   seat: tjathu
-  domains: [tjathuselat]
   population: 550000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]

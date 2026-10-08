@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: denizara2
-  domains: [denizara2]
   population: 1800000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

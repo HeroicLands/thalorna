@@ -21,7 +21,6 @@ data:
           A former soldier put out of the military for serious conduct, whatever the prior record.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

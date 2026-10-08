@@ -21,7 +21,6 @@ data:
           One of the Saelvri people of Aelwyth, against whom Dúnavarre prosecuted a crusade of extermination.
     offices: {}
   seat: aelwyth
-  domains: []
   population: null
   economy: []
   lore: []

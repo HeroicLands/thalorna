@@ -42,7 +42,6 @@ data:
       Sanctioner of the Cull: >-
         The rite that permits the killing of a beast sacred to the god. Gar'Nuw's cullers answer when crocodiles threaten the villages along the Zumélesh, and the guild's own doctrine holds that wantonness in the killing offends the gods as well as the imperial order—so the cull is a religious act before it is a commercial one.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [tjelsukdty]

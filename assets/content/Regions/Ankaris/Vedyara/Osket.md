@@ -56,7 +56,6 @@ data:
       Fee-reckoner: >-
         Setter of a season's price against a caravan's worth, and keeper of what is owed between lineages.
   seat: oskhelt
-  domains: [oskhelt, tsokhar, shunydvara]
   population: 21000
   economy: [lore-bartercnmy]
   lore: [osketclt]

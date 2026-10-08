@@ -66,7 +66,6 @@ data:
       Keeper of the Feud: >-
         Recorder of blood owed and blood paid between kindreds, without whom a settlement cannot be reckoned.
   seat: beitshofar
-  domains: [swoasisbelt]
   population: 1000000
   economy: [lore-bartercnmy, lore-kinhalcrdt, lore-vdyrnbnkng]
   lore: [humanflk]

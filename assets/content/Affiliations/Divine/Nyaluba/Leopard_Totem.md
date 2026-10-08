@@ -48,7 +48,6 @@ data:
       Initiator: >-
         Conductor of the ordeal, undertaken alone and at night.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [leopardsengalaspr, nyalbsprts]

@@ -75,7 +75,6 @@ data:
       Steward of the Temple Estates: >-
         Administers the lands, granaries, workshops, tribute and fees on which the whole priestly caste subsists.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

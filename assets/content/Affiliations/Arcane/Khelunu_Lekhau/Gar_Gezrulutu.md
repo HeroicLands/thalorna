@@ -42,7 +42,6 @@ data:
       Keeper of the Sealed Forms: >-
         Holds the House's plague and drought formulae, which are kept under the same restriction as Gar-Zelgút's treatises though they are not themselves Chaos.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [khelunulekha]

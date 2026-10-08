@@ -43,7 +43,6 @@ data:
       Route-Counsellor: >-
         The Lem'Nelgir advising a military commander planning a campaign or a merchant guild planning a caravan.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [gewaatisdty]

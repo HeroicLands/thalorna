@@ -43,7 +43,6 @@ data:
       Shrine-Keeper: >-
         Maintains the shrines and prepares the incense and offerings.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [nehleatdty]

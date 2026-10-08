@@ -72,7 +72,6 @@ data:
       Warden of the Sealed Chambers: >-
         Guards the serpent-skin codices in their triple-sealed vaults, and is one of the few permitted to read the calculation of the end.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [puqilchaqundty]

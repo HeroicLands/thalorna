@@ -32,7 +32,6 @@ data:
           Leads the order's guard over Sólrún's halls and the gold passing through her rites.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

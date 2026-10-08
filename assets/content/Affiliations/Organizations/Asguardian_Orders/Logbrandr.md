@@ -32,7 +32,6 @@ data:
           Leads the order's work at a hof, judging and enforcing in Eidgar's name alike.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

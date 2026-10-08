@@ -21,7 +21,6 @@ data:
           Of a titled family that sits in the district's council.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

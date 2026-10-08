@@ -50,7 +50,6 @@ data:
       Caravan Priest: >-
         A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [zurathradty]

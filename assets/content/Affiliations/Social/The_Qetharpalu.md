@@ -21,7 +21,6 @@ data:
           Holds a seat on a council and votes with the faction against revision.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

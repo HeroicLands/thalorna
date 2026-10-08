@@ -21,7 +21,6 @@ data:
           Tracks, guides and clears a path through country the road crews leave alone.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -21,7 +21,6 @@ data:
           A tanner, currier or leatherdresser belonging to the Hideworkers' Collective.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

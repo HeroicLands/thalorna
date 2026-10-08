@@ -35,7 +35,6 @@ data:
       The Fair Measure: >-
         A year of public measurement—grain, cloth, wine, oil—completed without one complaint of short weight from any party.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [mahajayadty]

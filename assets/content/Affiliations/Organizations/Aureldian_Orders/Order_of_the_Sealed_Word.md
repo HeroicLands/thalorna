@@ -39,7 +39,6 @@ data:
       Councillor of the Seal: >-
         One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Ólvestria.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

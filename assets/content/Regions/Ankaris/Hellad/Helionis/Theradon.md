@@ -66,7 +66,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: theradon2
-  domains: [theradon2]
   population: 510000
   economy:
     - affiliation-aerarimmpr

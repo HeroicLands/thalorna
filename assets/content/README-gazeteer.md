@@ -796,9 +796,7 @@ TBD.
 positive population must specify it; an explicit `null` means complete anarchy.
 When population is missing or zero, government is optional. Omit the field when
 government is unknown rather than writing `null`. `data.parents` records geographic
-containment and does not identify government. Legacy affiliation `data.domains`
-is accepted temporarily but ignored by the build and omitted from metadata. New
-notes should omit it; preserve ownership and influence facts in prose.
+containment and does not identify government.
 
 SQL government columns must join each place’s explicit `data.government` to the
 affiliation’s canonical address or its `documentation` journal address. Exclude

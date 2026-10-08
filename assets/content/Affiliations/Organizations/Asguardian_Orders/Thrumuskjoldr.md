@@ -32,7 +32,6 @@ data:
           Leads the order's guard over a coastal hof and its crews, armed as readily as ordained.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

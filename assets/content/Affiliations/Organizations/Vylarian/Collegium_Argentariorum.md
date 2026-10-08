@@ -39,7 +39,6 @@ data:
       Censores: >-
         Twelve discipline officers reporting to the Council who conduct admission examinations, audit member houses' books and investigate complaints.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-aerarimmpr, affiliation-magnumclgm]
   lore: []

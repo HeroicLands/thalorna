@@ -38,7 +38,6 @@ data:
       Magister of the Gate: Leader of a chapter house, presiding over its affairs and its stations.
       Station Commander: A Senior Twinblade in command of a station of importance or a short circuit of stations.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

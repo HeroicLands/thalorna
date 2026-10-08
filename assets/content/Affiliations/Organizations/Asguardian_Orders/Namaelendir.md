@@ -32,7 +32,6 @@ data:
           Leads the order's spread of Náhild's doctrine through fear and terror beyond her hidden hofs.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

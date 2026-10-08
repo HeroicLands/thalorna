@@ -72,7 +72,6 @@ data:
       Keeper of the First Codex: >-
         Holds the doctrine that all human calendars are imperfect copies of the goddess's original, and the record of every correction made toward it.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [ixilanchalixdty]

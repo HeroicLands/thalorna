@@ -66,7 +66,6 @@ data:
       Keeper of the Marked Stones: >-
         Holds, between gatherings, the marked stones by which the Warrior's Circle chooses its Voice of the Quarter—a small function of real constitutional weight.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

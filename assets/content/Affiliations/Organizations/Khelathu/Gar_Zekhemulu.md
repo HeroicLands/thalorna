@@ -27,7 +27,6 @@ data:
       Steward: >-
         Manages the household's affairs on the master's behalf, and is replaced when the work falls short.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -25,7 +25,6 @@ data:
           Answered for the house and its charter to the Gar-Aû.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

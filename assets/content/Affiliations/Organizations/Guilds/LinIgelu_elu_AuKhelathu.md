@@ -21,7 +21,6 @@ data:
           A riverman or sea-captain who meets the guild's standard of seamanship and holds its charter.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -45,7 +45,6 @@ data:
       Channel-Warden: >-
         The Wazu charged with the lightning-conducting channels on the high roofs—the cult's most dangerous ordinary duty.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [tjaqurdty]

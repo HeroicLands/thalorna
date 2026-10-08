@@ -40,7 +40,6 @@ data:
       Warden of the Sacred Stones: >-
         Keeps the boundary shrines and sacred stones that mark the god's reach. Unauthorized hunting or fishing within them is punishable by death.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [igelnarudty]

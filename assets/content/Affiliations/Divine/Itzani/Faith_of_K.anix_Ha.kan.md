@@ -72,7 +72,6 @@ data:
       Speaker of the Sheaves: >-
         Receives the K'inmah at the harvest festival, where the king processes as a supplicant and not as a sovereign.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [kanixhakandty]

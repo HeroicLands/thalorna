@@ -23,7 +23,6 @@ data:
       Gar-Aû: >-
         The throne, held by the house's head while the dynasty stood.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

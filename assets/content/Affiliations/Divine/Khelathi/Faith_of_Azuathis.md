@@ -39,7 +39,6 @@ data:
       The Sect of the Waking: >-
         The cult the priesthood of Uqa'â fears in its bones: the sect that seeks the cursed road across the water and would wake the False Uqa'â—the sorcerer-king embalmed alive, his death-magic sealed into the tomb with him, who loosed would rise a ṭerebu with his wits and his sorcery entire, and is held to mean famine and worse across the empire. That any such cult exists at all is a secret the temple keeps close, and the reason the kill-on-sight order on the cursed road has never once been relaxed.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [azuathisdty]

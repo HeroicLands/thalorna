@@ -25,7 +25,6 @@ data:
           Keeps the line's techniques and answers for the work done under its name.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

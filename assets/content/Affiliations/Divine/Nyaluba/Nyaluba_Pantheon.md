@@ -55,7 +55,6 @@ data:
       Keeper of the Tally: >-
         Recorder of the offerings owed and made under each standing pact, without which the reckoning cannot be kept.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [nyalbsprts, mwangadty]

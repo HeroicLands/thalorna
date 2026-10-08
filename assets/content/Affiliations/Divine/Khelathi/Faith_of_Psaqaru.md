@@ -47,7 +47,6 @@ data:
       Master of the Line: >-
         Khelâthi geometry was developed in service of architecture and land surveying, the annual flood erasing property boundaries and requiring constant re-measurement. Art and building alike are held to be magical acts: a properly executed tomb painting does not merely depict the afterlife, it is the afterlife, made real through correct form—which is why perfection of the established form is valued over innovation.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [psaqarudty]

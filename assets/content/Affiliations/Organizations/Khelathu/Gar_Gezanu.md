@@ -23,7 +23,6 @@ data:
       Weighmaster: >-
         Keeps the service's weights at a market or ford worth taxing.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

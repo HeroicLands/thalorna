@@ -25,7 +25,6 @@ data:
           One of the masters the city's smiths answer to, rather than to the imperial guild.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

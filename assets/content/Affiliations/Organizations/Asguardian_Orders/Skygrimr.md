@@ -32,7 +32,6 @@ data:
           Leads the order's spies and infiltrators and alone may be trusted with a hof's location.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

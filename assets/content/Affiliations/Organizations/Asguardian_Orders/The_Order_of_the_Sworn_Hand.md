@@ -39,7 +39,6 @@ data:
       Voice of Lögstead: >-
         The order's chair, elected from the Council of Hands for life; one position, acting as first among equals rather than as a commander.
   seat: logstead
-  domains: []
   population: null
   economy: []
   lore: []

@@ -59,7 +59,6 @@ data:
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of the passes.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: suryagarha
-  domains: [vindhyalayaland, suryagarha]
   population: 8000000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]

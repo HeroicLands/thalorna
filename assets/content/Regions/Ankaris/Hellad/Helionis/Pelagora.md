@@ -66,7 +66,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: pelagora2
-  domains: [pelagora2]
   population: 410000
   economy:
     - affiliation-aerarimmpr

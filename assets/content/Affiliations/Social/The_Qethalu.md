@@ -21,7 +21,6 @@ data:
           "Servant of the God"—an ordained priest of Qe'âret who holds with the Qethalu.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [qearetdty]

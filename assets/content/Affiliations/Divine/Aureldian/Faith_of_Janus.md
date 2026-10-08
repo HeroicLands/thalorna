@@ -55,7 +55,6 @@ data:
       Ordo Equestris Iuris: >-
         The faith's knightly order.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [janusdty]

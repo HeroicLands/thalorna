@@ -66,7 +66,6 @@ data:
       Court Physician: Keeper of the Sultan's health, and by that a confidant of unusual reach.
       Court Astrologer: Reader of the heavens for the timing of campaigns, marriages and journeys.
   seat: shamsun
-  domains: [amradadrgn]
   population: 2000000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt, lore-hardncrncy]
   lore: [humanflk]

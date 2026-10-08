@@ -33,7 +33,6 @@ data:
           Of the royal family or one of the handful of exalted houses, immediately below the throne.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -40,7 +40,6 @@ data:
       First Hunter of the Gar-Aû: >-
         Ilmy-Qelt Nuw—chair of the Council of the Long Spear, presently Germeryt Qeltawes, unifying the guild's specialty divisions and speaking for it to the imperial administration.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

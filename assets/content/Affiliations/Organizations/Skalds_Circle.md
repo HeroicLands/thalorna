@@ -43,7 +43,6 @@ data:
       Lögskáld: >-
         Specialized in the recitation of legal precedents and the witnessing of formal proceedings; few in number but indispensable to Nordland legal practice.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

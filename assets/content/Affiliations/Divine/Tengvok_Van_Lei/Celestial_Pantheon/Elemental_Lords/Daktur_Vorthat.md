@@ -72,7 +72,6 @@ data:
       Dāktūr Vōrthāt: >-
         Dāktūr Vōrthāt—The Lord of Metal—the being this bureau or cultus is organized around.
   seat: null
-  domains: []
   population: null
   economy: [lore-tanvrcrncy]
   lore: [dktrvrthtdty]

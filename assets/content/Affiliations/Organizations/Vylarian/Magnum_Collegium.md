@@ -43,7 +43,6 @@ data:
       Provincialis: >-
         One of the Magistri Provinciarum ("provincial deputies")—twelve in all, one per Vylarian province, one per Aurèldían kingdom and two for Hellád—who administer the Collegium's operations in their regions.
   seat: null
-  domains: []
   population: null
   economy:
     - affiliation-aerarimmpr

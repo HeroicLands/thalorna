@@ -47,7 +47,6 @@ data:
       Way-Shrines: >-
         The shrines along the roads at which the Custodes are stationed and travelers are blessed.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [murkirdty]

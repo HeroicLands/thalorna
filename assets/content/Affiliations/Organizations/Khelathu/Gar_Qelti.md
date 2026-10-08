@@ -25,7 +25,6 @@ data:
           Holds mastery of the house and lends its name to the ventures it expects to profit by.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

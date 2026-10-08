@@ -27,7 +27,6 @@ data:
       Keeper of the Flood-Records: >-
         Holds the records that set the planting season, against which the granary stores and the tax assessments are set.
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [thubaidty]

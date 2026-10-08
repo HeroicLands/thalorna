@@ -53,7 +53,6 @@ data:
       Bibliothecae Magnae: >-
         The great libraries the priesthood maintains and to which its scholars are attached.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [menervadty]

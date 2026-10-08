@@ -47,7 +47,6 @@ data:
       Collegium of Growing Things: >-
         The body in which the faith's practical knowledge of cultivation is held and taught.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [lusiniadty]

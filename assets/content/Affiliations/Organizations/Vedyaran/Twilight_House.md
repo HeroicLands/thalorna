@@ -54,7 +54,6 @@ data:
       Doorkeeper: Warden of the threshold, who knows every client's face and admits no servant behind him.
       House Physician: Keeper of the Companions' health, and of a great deal that is never written down.
   seat: sandhyagrha
-  domains: []
   population: null
   economy: []
   lore: [vedyariclt]

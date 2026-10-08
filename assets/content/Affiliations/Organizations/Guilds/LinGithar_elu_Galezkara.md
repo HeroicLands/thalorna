@@ -21,7 +21,6 @@ data:
           A weaver or dyer whose cloth goes into the cooperative's shared consignments.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [humanflk]

@@ -32,7 +32,6 @@ data:
           Is sought by both sides of a dispute to mediate it, trusted because Fródvin's peace serves neither party over the other.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

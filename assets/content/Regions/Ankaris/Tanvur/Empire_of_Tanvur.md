@@ -67,7 +67,6 @@ data:
       Censor of Purity: >-
         Inspector of the ritual purity of provincial officials, and the most feared visitor in any prefecture.
   seat: null
-  domains: [tanvuregin]
   population: 120000000
   economy: []
   lore: [humanflk]

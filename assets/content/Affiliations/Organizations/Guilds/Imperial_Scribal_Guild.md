@@ -43,7 +43,6 @@ data:
           Manus prima—the Guild's chair, one position, held for life or until resignation.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: [affiliation-magnumclgm]
   lore: []

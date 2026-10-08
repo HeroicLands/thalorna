@@ -49,7 +49,6 @@ data:
       Legal Arbiter: >-
         Legal arbitration is one of the recognized Lem'Nelgir specializations, and this cult supplies it. Women plead in the Genzet as well as men.
   seat: null
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [qearetdty]

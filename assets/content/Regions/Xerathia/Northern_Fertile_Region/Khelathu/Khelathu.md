@@ -70,7 +70,6 @@ data:
         Purified One—acolyte in the temple schools, years from ordination and already better educated than most.
       Overseer of Scribes: Head of a bureau of the administration, commanding the lettered men who actually govern.
   seat: galezkara
-  domains: [aukhelathrgq]
   population: 19000000
   economy: [affiliation-bthntrdhss, affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]

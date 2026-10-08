@@ -25,7 +25,6 @@ data:
           A senator of a founding Gilded house, traceable to the empire's first century, whose name carries weight in the chamber before he rises and whose custom the chamber's ancient forms are.
     offices: {}
   seat: null
-  domains: []
   population: null
   economy: []
   lore: []

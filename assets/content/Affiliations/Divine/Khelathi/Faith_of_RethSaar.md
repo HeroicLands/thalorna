@@ -53,7 +53,6 @@ data:
       Warden of the Library-Temple: >-
         Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among the very few foreigners ever admitted.
   seat: khelunu
-  domains: []
   population: null
   economy: [affiliation-garhalzi]
   lore: [rethsaardty]

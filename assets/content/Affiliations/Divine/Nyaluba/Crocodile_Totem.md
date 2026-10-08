@@ -48,7 +48,6 @@ data:
       Initiator: >-
         Conductor of the ordeal, which is conducted in the water.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [crocodilekambezispr, nyalbsprts]

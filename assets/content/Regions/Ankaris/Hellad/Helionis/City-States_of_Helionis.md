@@ -67,7 +67,6 @@ data:
       Gymnasiarch: >-
         Patron and warden of the gymnasium, an office of honor funded from the holder's own purse.
   seat: null
-  domains: [helionis]
   population: 3000000
   economy:
     - affiliation-aerarimmpr

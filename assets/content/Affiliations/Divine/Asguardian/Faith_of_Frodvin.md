@@ -50,7 +50,6 @@ data:
       Hofsgodi: >-
         Keeper of a named hof attached to a valley infirmary, its stores and its blót.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [frodvindty]

@@ -52,7 +52,6 @@ data:
       Sea Warden: >-
         Wards a coast's hof, blessing ships and guiding sailors under Thrúnvald's dominion over the sea.
   seat: null
-  domains: []
   population: null
   economy: []
   lore: [thrunvalddty]

@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: ashkabel2
-  domains: [ashkabel2]
   population: 2000000
   economy: [affiliation-aerarimmpr, lore-hardncrncy]
   lore: [humanflk]

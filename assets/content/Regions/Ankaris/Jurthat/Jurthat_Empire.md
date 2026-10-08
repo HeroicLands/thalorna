@@ -66,7 +66,6 @@ data:
       Censor of Purity: >-
         Inspector of the ritual purity of provincial officials, and the most feared visitor in any prefecture.
   seat: null
-  domains: [jurthatrgn]
   population: 500000
   economy: []
   lore: [humanflk]

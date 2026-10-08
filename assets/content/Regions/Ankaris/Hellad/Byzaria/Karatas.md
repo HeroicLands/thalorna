@@ -61,7 +61,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: karatas2
-  domains: [karatas2]
   population: 1600000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

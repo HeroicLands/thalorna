@@ -62,7 +62,6 @@ data:
       Arbitrator: >-
         Professional settler of disputes between houses under the commercial custom, whose rulings the Council enforces.
   seat: valthari
-  domains: [valthari]
   population: 300000
   economy: [affiliation-clgmrgntrrm, affiliation-magnumclgm, lore-vylrncrncy]
   lore: [humanflk]

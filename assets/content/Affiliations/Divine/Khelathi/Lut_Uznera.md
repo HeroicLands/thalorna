@@ -33,7 +33,6 @@ data:
           "Great of Sacred Power"—the High Priestess of Uznêra, a standing the temple rarely gives to a man.
     offices: {}
   seat: null
-  domains: []
   population: 0
   economy: []
   lore: [uzneradty]
