@@ -7,75 +7,6 @@ description: "The plural of Gar-Aû—the line of divine sovereigns of Aû'Khel�
 tags: [draft]
 data:
   packFolder: regkhlaw
-  events:
-    - when: ~268
-      stated: {calendar: khelathclndr, text: "2378 ST"}
-      precision: decade
-      kind: fall
-      depth: region
-      sources: [place-zugezer, place-yathtelgu, affiliation-garzinelrelu, being-falseuqaa]
-      summary: >-
-        The last Gar-Aû of Gar-Zin'el'Rêlu, who proclaimed himself Uqa'â in the flesh and hid a failing flood, is thrown down, judged at the Great Temple and sealed living into his tomb. His name and his house's are struck from every wall, and the king-list keeps the house's years without its names.
-      standing: attested
-      names:
-        - name: the False Uqa'â
-          by: affiliation-empireakhlth
-          gloss: the only name the records give him
-      where:
-        locus: [place-yathtelgu, place-zugezer]
-        reach:
-          - place: place-zugezer
-            how: the dynasty's Way is given over to the god and left to ruin, four crossing-roads back from the river-front
-            knowledge: named
-      who:
-        - {ref: being-falseuqaa, role: victim}
-        - {ref: affiliation-uqaa, role: actor}
-        - {ref: affiliation-garzinelrelu, role: victim}
-      accounts:
-        - by: affiliation-uqaa
-          says: >-
-            A judgment. The heart of even a Gar-Aû is weighed, the next flood came full, and the famine broke.
-          agrees: full
-          withholds: what was sealed into the tomb with him
-      unresolved:
-        - the name he reigned under, which the oldest servants of the necropolis still whisper
-    - when: ~377
-      precision: decade
-      kind: conquest
-      depth: region
-      sources: [affiliation-empireakhlth]
-      summary: >-
-        A Vylarian army at the height of Vylaria's reach takes the throne of Aû'Khelâthu. The priesthood crowns its commander under the throne name Zab'el'Qar and enters his line as a house of the Gar-Aûu; his son reigns after him as a Khelâthi, and the house is closed in 395 AF.
-      standing: single-source
-      where: {locus: [place-galezkara]}
-      who:
-        - {ref: affiliation-vylarinmpr, role: actor}
-        - {ref: affiliation-empireakhlth, role: victim}
-      accounts:
-        - by: affiliation-empireakhlth
-          says: >-
-            The king-list enters two Gar-Aûu of a house it names Amralo'Methu, by their throne names alone, and says nothing of where the first of them came from.
-          agrees: partly
-          withholds: the commander's own name
-      unresolved: ["the commander's Vylarian name, which no Khelâthi record gives"]
-    - when: ~470
-      stated: {calendar: khelathclndr, text: "2580 ST"}
-      precision: decade
-      kind: founding
-      depth: region
-      sources: [place-zugezer, being-garaumeqesxv]
-      summary: >-
-        Meqes of Zu'Mequ, who stood beside the throne of a child Gar-Aû of Qelt'Gultau, is crowned in the child's second year and founds the reigning house. Every Gar-Aû of the house takes his name, and the sixteenth of them reigns now.
-      standing: single-source
-      where: {locus: [place-galezkara]}
-      who: [{ref: affiliation-empireakhlth, role: ruler}]
-      accounts:
-        - by: affiliation-empireakhlth
-          says: >-
-            The throne passed to the one who stood beside it. The king-list enters the child's death in the night and the regent's crowning in the same year, and offers no comment on either.
-          agrees: partly
-          withholds: how the child died
-      unresolved: ["whether the child was murdered, which the record does not enter"]
 ---
 
 **Gar-Aû** is the title of the divine sovereign of [[affiliation-empireakhlth|Aû'Khelâthu]], and Gar-Aûu, its collective plural, names the whole line of them taken together, from the first to the one who sits now. The throne is the first thing a scribe learns to write, because everything else is dated by it.
@@ -134,7 +65,7 @@ The foreign scholars who read the list at Khelunu count the First Tablets on the
 
 The regnal year turns with the calendar year, on the first day of [[lore-azletssn|Azlet]]. Year 1 of a reign runs from the crowning to the next flood, and Year 2 begins with it. So a reign of nine regnal years may be eight years long, and the year a Gar-Aû died is also Year 1 of the next.
 
-To date a document, find its reign in the list and count: the year in the count from the Qet Telgu is the crowning year plus the regnal year, less one, and the western year is that figure less 2,110.
+To date a document, find its reign in the list and count: the year in the count from the Qet Telgu is the crowning year plus the regnal year, less one, and the western year is that figure less 2,110. For a year before the Founding, subtract the count from 2,111 instead, because the western reckoning has no year zero: 1006 ST is 1105 BF.
 
 A lease of farmland in the Zu-Ger flood-basins is dated "Year 9 of Gar-Aû **Gez'el'Psaqa I**, the second month of Gelet." Gez'el'Psaqa I was crowned in 2535 of the count, so Year 9 is 2543, which is 433 AF in the western calendar. The same lease dated "Year 9 of Gez'el'Psaqa" with no numeral is a lease nobody can place until someone has checked which Gez'el'Psaqa was meant, and in a dispute that question is itself the dispute.
 
@@ -213,12 +144,12 @@ The Keepers abstract the older list for the scholars who ask for it, and the abs
 | ---------- | -----: | -----: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1–620      |      1 |      5 | **The First House**, entered by no name: the first Gar-Aû by title alone (150 years), **Amqel'Uqa** (150), **Gez'el'Retha** (110), **Legir'el'Psaqa** (120), **Zab'Uzner** (90) |
 | 621–1006   |      1 |      6 | **Azlet'Qûtu**: **Quz'el'Psaqa** (100), **Legir'Uqa** (80), **Gul'el'Psaqa** (70), **Amqel'Uqa II** (60), **Gez'el'Retha II** (50), **Lin'Uzner** (26)                          |
-| 1006–1390  |      9 |     41 | Houses ruling from [[place-galezkara\|Galezkara]]; the first reigns that overlap as real ones do                                                                                |
-| 1390–1612  |      7 |     33 | Houses at Galezkara and upriver; one of them rules from [[place-lenennezut\|Lenen-Nezut]] and is buried there                                                                   |
-| 1612–1671  |      1 |      4 | **Tha'Ulgau**, the hill-nomads of the western margins, the first of them crowned **Quz'Uqa**                                                                                    |
-| 1671–1960  |     12 |     61 | Houses at Galezkara again; one house of the sun lays out [[place-maguathen\|Magu-Athen]] and rules from it for a generation                                                     |
+| 1006–1390  |      9 |     41 | Houses ruling from [[place-galezkara\|Galezkara]]; the first reigns that overlap as real ones do. **Zu'Amqeletu**, the first of them: **Anlagh'el'Qar I** (crowned 1006), who crossed to the mound ([[lore-crossmound\|the Crossing to the Mound]])                                                                                |
+| 1390–1612  |      7 |     33 | Houses at Galezkara and upriver; one of them rules from [[place-lenennezut\|Lenen-Nezut]] and is buried there. **Geze'el'Anlaghu** at Lenen-Nezut: **Zab'el'Psaqa I** (crowned 1462), **Zab'el'Psaqa III** (crowned 1519, killed in 1531). **Zu'Magetu** at Galezkara: **Quz'el'Qar I** (crowned 1531), **Amqel'Uzner I** (crowned 1599, killed in 1612)                                                                   |
+| 1612–1671  |      1 |      4 | **Tha'Ulgau**, the hill-nomads of the western margins, the first of them crowned **Quz'Uqa**; the fourth and last, **Legir'Uzner I** (crowned 1648), went to the West in 1671                                                                                    |
+| 1671–1960  |     12 |     61 | Houses at Galezkara again; one house of the sun lays out [[place-maguathen\|Magu-Athen]] and rules from it for a generation. **Azlet'Râlu**: **Gez'el'Retha III** (crowned 1671). **Âthen'Rêlu**, the house of the sun: **Anleth'Uqa I** (crowned 1790), **Anleth'Uqa II** (crowned 1808)                                                     |
 | 1960–1990  |      1 |      3 | **Malu'Thenoru**, the sea-raiders out of the north, the first of them crowned **Gul'el'Retha**                                                                                  |
-| 1990–2281  |     14 |     64 | Houses at Galezkara; the list begins to give a reign's months beside its years                                                                                                  |
+| 1990–2281  |     14 |     64 | Houses at Galezkara; the list begins to give a reign's months beside its years. **Gezer'Quru**: **Gez'Uzner I** (crowned 1990). **Amqelu'Gatau**: the queen **Gith'el'Retha I** (crowned 2025)                                                                                                  |
 
 Only the houses that ruled from Galezkara lie in the royal necropolis across the river from it. The First House and Azlet'Qûtu lie at Zu-Ger, the house of Lenen-Nezut in its own old capital, and the house of Magu-Athen in its own half-empty city, so the row of Ways at Zu-Gezer is the list with whole stretches missing.
 
