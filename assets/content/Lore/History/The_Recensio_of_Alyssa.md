@@ -11,7 +11,6 @@ data:
     - when: -75
       kind: catastrophe
       depth: world
-      sources: [decided-midhalion]
       summary: >-
         The prefect of the year orders every registered practitioner in the Republic to bring their working-books to one place in the Alyssan country, to be copied into a single register the Senate can hold. It puts the whole of the Republic's arcane knowledge and very nearly the whole of its arcane manpower inside one set of walls for a season. In the fourth month there is an unchanneled release. The books burn, most of the Republic's senior arcanists die, and a tract of good land is left bare. Whether it was accident or act has never been established, and the inventory taken afterward did not balance.
       standing: single-source

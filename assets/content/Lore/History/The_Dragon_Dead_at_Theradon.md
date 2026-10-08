@@ -11,7 +11,7 @@ data:
     - when: -330
       kind: discovery
       depth: world
-      sources: [decided-midhalion, decided-chronology, place-theradon2, doc-soulspirts]
+      sources: [place-theradon2, doc-soulspirts]
       summary: >-
         A Helionite mage-warlord of Therádon kills dragons and, at the transit of death, takes their souls and binds them into sealed jars. The Republic takes Therádon in the war's early years, takes his workshop with it, and carries the jars away. A dragon cannot be threatened with its body: it is a mortal creature of vast Aura, and its dead belong in the ancestor pool that is its totem and its afterlife at once. What the Republic now holds is the one thing in the world that can be held over a dragon, and it is still holding it.
       standing: single-source

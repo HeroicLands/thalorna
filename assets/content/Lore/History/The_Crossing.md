@@ -11,7 +11,7 @@ data:
     - when: -1919
       kind: loss
       depth: world
-      sources: [decided-chronology, miscgear-secondvoice, place-aelwyth, place-ironfells]
+      sources: [miscgear-secondvoice, place-aelwyth, place-ironfells]
       summary: >-
         Five centuries after Khazártúrn, the Sinalë have recovered the Second Voice and the two Elder Races have agreed the only thing they agree on: that it is to be held on Aelwyth by both peoples together, the one country where they still share ground. Six ships sail from Élavendre carrying it, with crews and an escort chosen for being above reproach. They do not arrive. There is no storm of any note, and no wreckage, spar, cargo or body comes ashore on any coast in any year since. The relic has not been found.
       standing: attested

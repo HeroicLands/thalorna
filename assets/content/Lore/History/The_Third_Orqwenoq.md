@@ -50,7 +50,7 @@ data:
       where:
         locus: [place-qimod]
         reach:
-          - place: place-shrzrtrb
+          - place: place-qimod
             how: >-
               the Shirzâri hold the well and sell its water from outside the gate
             knowledge: named
