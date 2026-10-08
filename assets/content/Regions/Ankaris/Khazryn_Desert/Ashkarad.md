@@ -1,6 +1,6 @@
 ---
 shortcode: ashkarad
-name: {full: Pelimar, aliases: []}
+name: {full: Himbar, aliases: []}
 type: place
 subType: settlement
 description: "Craft Town"

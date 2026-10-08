@@ -1,6 +1,6 @@
 ---
 shortcode: ushtraber
-name: {full: Dalyimel, aliases: []}
+name: {full: Tenhur, aliases: []}
 type: place
 subType: settlement
 description: "A remote oasis of the deep northern Khazryn, still ruled by its own austere house, whose court keeps ceremonial forms forgotten elsewhere."

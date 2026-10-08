@@ -1,6 +1,6 @@
 ---
 shortcode: ruinsarkor
-name: {full: Bolidbodik, aliases: []}
+name: {full: Bolid, aliases: []}
 type: place
 subType: site
 description: "An ancient city buried beneath the sands of the Desert of Hek'ar, where the Black Flame's Blazing Oath seeks the Eye of Velok."
