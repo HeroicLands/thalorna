@@ -49,13 +49,13 @@ Each clan's wesk, its sacred grove and its ancestral burial places hold its shar
 
 ## The Forest Is the Temple
 
-Each village keeps one _wesk_, its totem, and its Weskár, or Shaman, tends its rites and spiritual needs. The _wesketh_ binds a person or village to that spirit; _eldwesk_ names an ancestral spirit addressed through it. Anyone may pray to the ancestors or totem spirits. The Shaman mediates with them and tends the grove at the seasonal turnings.
+Each village keeps one wesk, its totem, and its Weskár, or Shaman, tends its rites and spiritual needs. The _wesketh_ binds a person or village to that spirit; _eldwesk_ names an ancestral spirit addressed through it. Anyone may pray to the ancestors or totem spirits. The Shaman mediates with them and tends the grove at the seasonal turnings.
 
 Some people also have a personal totem suited to their personality. Women tend toward herbivores and men toward predators or carnivores, with exceptions. A personal bond does not replace the clan's wesk. Hunting the clan's totem animal requires the Shaman's approval and a rite the Shaman performs to protect the hunter and appease the spirit. The animal is not untouchable under every circumstance.
 
 No one takes from a protected grove without the Shaman's consent or disturbs a clan mound and its grave goods. The year's harvest must leave the forest able to replace what was taken. That is practical duty as well as reverence: a clan that strips its country leaves its children none.
 
-The Shaman guides a child's naming and introduction to the clan at three months, participates in adulthood and marriage rites, and guides funerals. At _eth-kethrun_, the passage to adulthood, a significant deed earns a true name. Before that passage, the young learn the work and obligations they will carry; the rite recognizes a claim they must continue to uphold.
+The Shaman guides a child's naming and introduction to the clan at three months, participates in adulthood and marriage rites, and guides funerals. At eth-kethrun, the passage to adulthood, a significant deed earns a true name. Before that passage, the young learn the work and obligations they will carry; the rite recognizes a claim they must continue to uphold.
 
 A foreign god may enter through captivity, marriage or long residence abroad. That personal devotion gives no foreign pantheon a place beside the village totem and changes no duty to the forest.
 
@@ -138,3 +138,74 @@ A captive still worth ransoming is kept rather than absorbed into an owning hous
 - [[place-vrystwald|Vrystwald Region]]—the taiga, rivers and villages
 - [[affiliation-vrystwldtrbs|Vrystwald Tribes]]—standing and the three seats
 - [[skill-varokhlng|Varokhi]]—the unwritten tongue
+
+## Glossary {#glossary}
+
+| Term        | Meaning                                                                                                      |
+| ----------- | ------------------------------------------------------------------------------------------------------------ |
+| ámra        | Amber.                                                                                                       |
+| Athalthúl   | One sent by a village to treat with a settled power, protected by custom while carrying its word.            |
+| bar         | A boar; the word in Thornak's byname.                                                                        |
+| blod        | Blood.                                                                                                       |
+| brenth      | A pyre.                                                                                                      |
+| brúth       | A raid for cattle, goods and captives.                                                                       |
+| bryld       | An axe.                                                                                                      |
+| Dómrád      | An arbiter of a village's customs, or of a particular dispute whose parties accept the judgment.             |
+| dorg        | A giant, one of the great ones said to have walked the forest before the clans.                              |
+| dreth       | A cord, a knotted string.                                                                                    |
+| drúnga      | A lay: a deed sung in stanzas of long lines, held word for word by the one who learned it.                   |
+| Druthmund   | A full member of a kindred by a true name earned at eth-kethrun, entitled to its protection, feud and share. |
+| Edrmund     | A free person sheltered by a household not of their blood, with no independent voice at the moot.            |
+| eld         | An ancestor, one of the remembered dead.                                                                     |
+| eldskorn    | The tally of the ancestors: a kindred's dead recited name by name at Weskskald.                              |
+| eldwesk     | An ancestor spirit addressed through the village's totem.                                                    |
+| Erthrith    | One who rides a boundary.                                                                                    |
+| eth-kethrun | The taking of a true name by a deed, and the rite that marks adulthood.                                      |
+| feud-cord   | A cord a kindred keeps knotted for blood owed and untied for blood paid.                                     |
+| frath       | A war-band, the company a village sends out.                                                                 |
+| Frithmund   | The holder of the peace at a meeting or seasonal market, by the custom of those present.                     |
+| frithwin    | A brother; a kinsman within the kindred's peace.                                                             |
+| frithwina   | A sister.                                                                                                    |
+| Fródrád     | One of the three elders who govern a village together: the Shaman, the War Chief or the Other Chief.         |
+| glóm        | A banked fire, the hearth covered to keep it alive until morning.                                            |
+| grema       | Deep winter, when the frozen rivers become roads.                                                            |
+| Hárthúl     | The War Chief of a village; also the common War Chief acclaimed for a single danger.                         |
+| Hildskald   | An office the notes gloss two ways: the one who recites a battle, or the summoner of a joint muster.         |
+| hóva        | Ransom, the price a kindred pays to have its own back.                                                       |
+| hrág        | A hungry spirit, one of those that hunt the weak beyond the totem's land.                                    |
+| hraldar     | A smith, one who works iron.                                                                                 |
+| hraldi      | Iron.                                                                                                        |
+| hreth       | A ford.                                                                                                      |
+| Hródthúl    | One who bears a charge on renown already won, assisting the three elders.                                    |
+| hróm        | A burial mound holding generations of a kindred's dead.                                                      |
+| meldra      | The lament the women of a household raise over their dead before the burial or the pyre.                     |
+| mórth       | A landing, where boats put in.                                                                               |
+| Other Chief | The Theódár: the elder who hears trade, custom, debts, inheritance and blood-payment.                        |
+| óthlin      | A son, the younger of the holding.                                                                           |
+| Óthmund     | One taken in war or bought, answering to the mistress of the house; the standing is not hereditary.          |
+| óthris      | The mistress of a household, who keeps its stores, debts and slaves.                                         |
+| óthwa       | A daughter, a woman born to the holding.                                                                     |
+| ráthel      | A sign read in the forest—a track, a bird's flight, a wind turning—to judge what to do next.                 |
+| Ríkár       | The chair of a council called to answer imminent danger; the charge ends when the council disperses.         |
+| ruvan       | A river.                                                                                                     |
+| Skathár     | The keeper of the reckoning of blood owed and paid between kindreds.                                         |
+| skathdreth  | A feud-cord.                                                                                                 |
+| skómel      | The Shaman's trance, the going-out to the spirits while kin keep the body warm.                              |
+| skurn       | A pelt prepared for the river trade.                                                                         |
+| Thalthúl    | The keeper of a village's wells, springs or pastures and the order of their use.                             |
+| Theódár     | The Other Chief.                                                                                             |
+| tusc        | A tusk.                                                                                                      |
+| Véthrith    | A holder of the routes—their water, seasons and dangers—hired at a price.                                    |
+| vóra        | A vow spoken aloud before the war-band, binding before its witnesses.                                        |
+| vorth       | A telling: a hearth tale in prose whose details change from hearth to hearth.                                |
+| vreld       | A charm: a few spoken lines laid on a hurt, a sick child or a spirit kept off.                               |
+| vrid        | A figure carved in wood.                                                                                     |
+| vrysteld    | One of the dead the ancestors have cast out of the totem's land.                                             |
+| Vrystrith   | One cast out by their own kin and claimed by none, owed neither hospitality nor vengeance.                   |
+| vyrel       | A pine.                                                                                                      |
+| wern        | A lake.                                                                                                      |
+| wesk        | The one totem a village keeps, and the bond with its spirit.                                                 |
+| Weskár      | The Shaman, who keeps the village's totem and every rite of its people.                                      |
+| wesketh     | The rite binding a person or a village to its totem.                                                         |
+| weskgrund   | The totem's land, where the dead are with their village's wesk.                                              |
+| Wuldjagár   | The one who hunts the wood; the office of a hunting company.                                                 |

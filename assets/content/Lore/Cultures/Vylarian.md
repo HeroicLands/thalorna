@@ -66,3 +66,106 @@ Underneath all of it he holds that a person owes the law his obedience even wher
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods and the imperial cult
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the chartered arcane order
 - [[skill-vylarilng|Vylari]]—the tongue the Common Calendar and the law are written in
+
+## Glossary {#glossary}
+
+| Term                                      | Meaning                                                                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| Adeptus (pl. _Adepti_)                    | A practitioner of the Ordo Arcanis licensed to work independently, with a voice in chapter meetings and no vote                 |
+| Adlect (pl. Adlecti)                      | The noble estate of houses raised within the last two generations by commerce, distinguished service or imperial favor          |
+| Aerean (pl. Aerei)                        | The noble estate of the Bronze Houses, the provincial gentry                                                                    |
+| Aëstrai                                   | The steady northerly winds of late summer that set the sailing year on the Vylarian Sea                                         |
+| Alaria                                    | A cavalry wing: about 120 horse in a legion, up to 500 in an auxiliary formation                                                |
+| Aquila                                    | A legion's consecrated eagle standard; a legion that loses it is disbanded                                                      |
+| Aquilar                                   | The bearer of a legion's Aquila                                                                                                 |
+| Architar                                  | A legion's field engineer, for siege works, roads and camps                                                                     |
+| Archmagister                              | The head of the Ordo Arcanis, elected by the Praelati for life                                                                  |
+| Argentarius (pl. _Argentarii_)            | A moneylender of the Collegium Argentariorum; the Argentarius Magnar heads it and an Argentarius Praepar runs each chapterhouse |
+| Argentean (pl. Argentei)                  | The noble estate of the Silver Houses, established families with four or more generations at court                              |
+| Argentus (pl. Argenti)                    | The silver coin of account, 160 to the Aurion; called the Argo in ordinary speech                                               |
+| Argo                                      | The everyday name of the Argentus                                                                                               |
+| arká-                                     | Noble, in Vylari                                                                                                                |
+| Árkan                                     | An ancestor                                                                                                                     |
+| Ârkân                                     | A noble house                                                                                                                   |
+| Augurar                                   | A legion's diviner and chaplain, licensed jointly by the army and the Ordo                                                      |
+| Augustar                                  | The emperor                                                                                                                     |
+| Aurelian (pl. Aurelii)                    | The highest noble estate, the Gilded Houses of the empire's first century                                                       |
+| Aurion                                    | The gold coin, worth 160 Argo, minted only at Magnápolis and seldom seen outside a vault                                        |
+| Auxilarium                                | An auxiliary unit of non-citizens, of any specialty                                                                             |
+| Bit                                       | The everyday name of the Octus                                                                                                  |
+| Cadetar                                   | A noble cadet of fifteen to seventeen, the lowest purchased commission                                                          |
+| Centaria (pl. _Centariae_)                | A century of about 80 soldiers, the basic administrative unit                                                                   |
+| centesima rerum venalium                  | The imperial sales tax, levied chiefly on military commission sales                                                             |
+| Centurius                                 | The career soldier who commands a century                                                                                       |
+| Classar                                   | The fleet, and a fleet of 20 to 60 warships under a Magistar Classis                                                            |
+| Comar Augustari (pl. _Comares Augustari_) | An imperial companion on the war council, holding nominal command titles                                                        |
+| compulsory call                           | The Synod's rule that every ship crossing to or from the mainland puts in at Ravenmoor first                                    |
+| Cornar                                    | A signal-horn player relaying orders within a century                                                                           |
+| dáemâ                                     | A lord                                                                                                                          |
+| Decanum (pl. _Decana_)                    | A squad and mess group of eight                                                                                                 |
+| Decar                                     | The leader of an eight-man squad                                                                                                |
+| Decurar                                   | The leader of a _Turma_ of cavalry                                                                                              |
+| Dux Bellorum                              | The chief war-minister, presiding over the imperial war council                                                                 |
+| Equar                                     | A cavalry trooper; cavalry officers add the suffix _-equestris_ to their rank                                                   |
+| Fabricar                                  | A legion's armorer and smith                                                                                                    |
+| Funditar                                  | An auxiliary slinger                                                                                                            |
+| glow-lamp                                 | A cold-fire lamp of the Ordo lighting the great avenues and the Grand Palace by night                                           |
+| horrea                                    | The state granaries under imperial seal                                                                                         |
+| horti                                     | The walled suburban garden-villas of the very rich                                                                              |
+| Imaginar                                  | The bearer of a legion's portrait-standard of the reigning Augustar                                                             |
+| Initiatus (pl. _Initiati_)                | A newly inducted member of the Ordo, often a child                                                                              |
+| insulae                                   | The many-storied tenement blocks of brick and timber                                                                            |
+| Iudex (pl. _Iudices_)                     | A judge of the civil courts, drawn from the propertied orders                                                                   |
+| Legar                                     | The commander of a legion                                                                                                       |
+| Legio (pl. _Legiones_)                    | A legion of about 5,000, the basic strategic formation                                                                          |
+| Legionar                                  | A sworn common soldier                                                                                                          |
+| Magi-Artificer                            | A master of the Ordo who knows the workings of the Grand Orrery                                                                 |
+| Magistar Vexilii                          | The commander of a field army                                                                                                   |
+| Magister (pl. _Magistri_)                 | A master of the Ordo with a vote in a chapter's council; also the provincial deputies of the treasury and the guilds            |
+| Magnar                                    | A theater commander, the senior field general                                                                                   |
+| Magnatum                                  | A theater force of 30,000 to 100,000 or more                                                                                    |
+| Marinar                                   | A marine of the fleet                                                                                                           |
+| Medicar                                   | A legion's field surgeon                                                                                                        |
+| Nautar                                    | A sailor of the fleet                                                                                                           |
+| Naverum                                   | A warship, captained by a _Naverar_                                                                                             |
+| Numar                                     | An irregular formation, tribal or specialist                                                                                    |
+| Octus (pl. Octi)                          | A silver wedge, one-eighth of an Argentus, cut from the coin or struck at the mint; called the Bit                              |
+| Optar                                     | A century's second in command                                                                                                   |
+| paper-script                              | Paper notes issued by the moneylenders against the treasury's reserves                                                          |
+| passage-gift                              | The informal payment merchants give the Áelendan clans to cross the Cervaron passes                                             |
+| pomerium                                  | The sacred and legal boundary of Magnápolis, inside which citizens live by right and no legion may march                        |
+| portoria                                  | Customs duties on goods crossing imperial frontiers and provincial boundaries                                                   |
+| Praefar Aerarii                           | One of the three senior deputies of the imperial treasury                                                                       |
+| Praefar Alariae                           | A legion's prefect of cavalry and specialists, a noble commission                                                               |
+| Praefar Castorum                          | A legion's camp prefect, third in command and the one rank both noble and commoner can reach                                    |
+| Praefar Vigilum                           | The Prefect of the City Watch                                                                                                   |
+| Praelatus (pl. _Praelati_)                | A senior master of the Ordo with a seat on the Concilium Magnum                                                                 |
+| Praepar                                   | The commander of a cohort; also a moneylenders' chapterhouse head and a naval squadron commander                                |
+| Primar                                    | The senior centurion of a legion, the top of the commoner track                                                                 |
+| Primar Sectaris                           | The senior centurion of a cohort                                                                                                |
+| Princeps Collegii                         | The chair of the Magnum Collegium                                                                                               |
+| Publicar (pl. _Publicarii_)               | A private tax-farmer under contract to the Curia Fiscalis                                                                       |
+| Quaesitor (pl. Quaesitores)               | An investigator, hunter and executioner of the Ordo's Quaesitorium                                                              |
+| Quatera (pl. _Quaterae_)                  | A four-man fire team, the smallest tactical element                                                                             |
+| Quaterar                                  | The leader of a fire team                                                                                                       |
+| Sagittarium                               | An archer auxiliary                                                                                                             |
+| Scribar                                   | A legion's quartermaster's clerk, trained by the Imperial Scribal Guild                                                         |
+| Sectara (pl. _Sectarae_)                  | A cohort of about 480, the basic tactical formation                                                                             |
+| Sigliar                                   | The bearer of a century's standard                                                                                              |
+| Sodalitas (pl. _Sodalitates_)             | One of the six fellowships of the Ordo, joining mages who share a school of magic                                               |
+| Squadrarium                               | A naval squadron of 4 to 10 ships                                                                                               |
+| Subtribunar                               | A junior noble officer of seventeen to twenty-two, one of five in a legion                                                      |
+| Tesserar                                  | A century's watch officer and third in command                                                                                  |
+| Tironar                                   | A recruit in his first year of training, not yet sworn                                                                          |
+| Tribunar                                  | A tribune, the second noble commission                                                                                          |
+| Tribunar Magnar                           | A legion's senior tribune and second in command                                                                                 |
+| tributum agrorum                          | The annual land tax                                                                                                             |
+| tributum hereditatium                     | The inheritance tax                                                                                                             |
+| tributum metallorum                       | The royalty on imperial-claim mines                                                                                             |
+| Tubar                                     | A legion's trumpeter                                                                                                            |
+| Turma                                     | A cavalry squadron of about 30 horse                                                                                            |
+| Velitar                                   | A light infantryman or skirmisher                                                                                               |
+| Veteranar                                 | A soldier of privileged status after sixteen years or for distinguished service                                                 |
+| Vexilium (pl. _Vexilia_)                  | A field army of 10,000 to 30,000 raised for a campaign                                                                          |
+| Vexillar                                  | The bearer of a cohort's banner                                                                                                 |
+| vigiles                                   | The watchmen of the City Watch                                                                                                  |

@@ -83,3 +83,14 @@ Below all three he owes the spirits their proper posture, which is not devotion 
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the totems, the spirits and the three postures
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the spirits themselves and how they are handled
 - [[skill-nyalbnlng|Nyáluban]]—the tongue the five clans share
+
+## Glossary {#glossary}
+
+| Term           | Meaning                                                                                                             |
+| -------------- | ------------------------------------------------------------------------------------------------------------------- |
+| drum-master    | Keeper of a central relay station of the drum network; the Sengala post has no public holder                        |
+| drum-speaker   | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                         |
+| Mwána-Mvuzi    | "Daughter of the Lion": the hereditary title of the senior Mvuzi woman, the paramount who convenes the Great Indaba |
+| Old Kraal      | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                    |
+| spirit-speaker | One taken through the ordeal and trained to address and negotiate with the guides for a clan                        |
+| trail-reader   | A Fénjara tracker who follows trails across the spirit world                                                        |

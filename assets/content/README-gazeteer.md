@@ -957,11 +957,14 @@ careless prose.
 _filnath_. **A name is never italic**—a person, place, god, house, clan or named
 work: Sarghakhudhál, Lakamakhulán, The Crossing of the Clans.
 
-**A culture's common words are set in roman.** The in-world terms players and
-GMs are expected to know are listed in the **Glossary** table of that culture's
-Adventurer's Guide, and a listed word is never italic. Every in-world word that
-is not a name and is not in its culture's glossary stays italic. A culture with
-no Adventurer's Guide has no common words, so all its terms stay italic.
+**A culture's common words are set in roman.** The in-world terms, a dozen at most, that
+players and GMs are expected to know are listed in the **Glossary** table of that
+culture's Adventurer's Guide, and a listed word is never italic, in any note. The
+**full glossary** at the end of the culture note lists every term the culture's
+notes use. Every other word of a culture's own tongue that is not a name stays
+italic; a coined compound written in plain words never is, and an ordinary word is
+never a glossary entry, however particular its use. A culture with no
+Adventurer's Guide has no common words, so all its terms stay italic.
 
 ## Spelling and punctuation
 

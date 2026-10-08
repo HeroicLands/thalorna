@@ -68,3 +68,17 @@ Above all of it he owes the record. A Khazryn who lets a genealogy lapse, or let
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the conquerors, and the other half of the quarrel
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the twelve, as the Khazryn Mōbads systematized them
 - [[affiliation-zurathra|Faith of Zúráthrä]]—the Mother of the Oasis, and the shrine at every spring
+
+## Glossary {#glossary}
+
+| Term       | Meaning                                                                                                  |
+| ---------- | -------------------------------------------------------------------------------------------------------- |
+| Āsha       | The cosmic order of truth that Āhúrdáén sustains and the faithful serve                                  |
+| Āthravān   | An initiate studying for the priesthood of Āhúrdáén                                                      |
+| Druj       | The force of disorder and the lie that presses against Āsha                                              |
+| Hērbad     | A priest of Āhúrdáén below the Mōbad, who keeps a fire-temple, judges and teaches                        |
+| High Mōbad | Senior Mōbad of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes     |
+| Mōbad      | Priest and judge, ordained after fifteen to twenty years' study, who keeps a community's law and records |
+| Mōbadate   | The body of Mōbads, which keeps the faith, the calendar, the law and the records                         |
+
+Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

@@ -59,3 +59,22 @@ He does not put the king high on that list and will not pretend otherwise. What 
 - [[place-okharisrgn|Okháris Region]]—the rain-fed west and the eastern savanna
 - [[affiliation-nkaruthar|Nkaru'thar]]—the eternal flame and its three aspects
 - [[skill-okharclng|Okháric]]—the tongue of the clans and the cities
+
+## Glossary {#glossary}
+
+Every Okháric word and term of art these notes use.
+
+| Term                  | Meaning                                                                                                       |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ashmark               | Temple hearth-ash mixed with sacred oils, applied to forehead and hands at passage, mourning and consecration |
+| Crown Moneylender     | One of the crown-chartered moneylenders who keep accounts with the Gár-Hálzi and issue letters of credit      |
+| High Pyremant         | The supreme spiritual leader of Okháris, who rules Zarhánis and advises the Overlord                          |
+| né thalé              | Greetings                                                                                                     |
+| Okháré                | Okháric one: the form of address in the common greeting                                                       |
+| pyrestone             | A fragment of volcanic glass carried by the faithful as a link to the Eternal Flame                           |
+| Spirit Blade          | A weapon blessed by the zohira, kept by the Magara                                                            |
+| Steward of the Trades | The officer who presides over the crown-chartered trades                                                      |
+| Warden of the Flame   | The warrior-priest who rules Vuthráka and commands the armies in war                                          |
+| zohira                | The intermediary spirits of fertility, storm, river, death and the hunt, servants of the Eternal Flame        |
+
+Gezan and qelu are loanwords from [[lore-khelathiclt#glossary|Aû'Khelâthu]].

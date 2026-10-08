@@ -64,3 +64,22 @@ He owes his creditors payment and his debtors patience, and by the coast's recko
 - [[affiliation-auricompct|Auric Compact]]—the banking cartel and the real leverage
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods, and the ones sailors actually address
 - [[skill-haradilng|Haradi]]—the tongue of the ports
+
+## Glossary {#glossary}
+
+| Term                  | Meaning                                                                                                    |
+| --------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Adônîm al-Mudunîn     | "Lords of the City-States": the Sôd-Naqîrîn's five deputies, one for each city-state.                      |
+| Arch-Consul           | The presiding office of the Grand Council, rotating among the cities and mostly ceremonial.                |
+| Bayt script           | Paper credit issued by the Bayt al-Khazînah, honored by its moneylenders and by no Vylarian house.         |
+| compact-house         | The hall of a city's merchant princes in the centuries before the Vylarian conquest.                       |
+| compact-treaty        | An agreement negotiated between the compact-houses of two cities, by which trade between them ran.         |
+| First of the Council  | The presiding officer of a city's council, elected by it for a fixed term and holding the city's seal.     |
+| Gizbar                | The treasurer of the Sôd-Naqîrîn and keeper of the Bayt al-Khazînah, the Confederation's banking.          |
+| naqîr                 | A guild-warden; the senior naqîr of each trade holds its seat on the Sôd-Rabbânîn.                         |
+| pāqîd                 | One of the Sôd-Naqîrîn's eight overseers, who inspect guilds and prosecute charter violations on referral. |
+| Rab-Naqîr             | "Chief of Chiefs": the elected head of the Sôd-Naqîrîn, serving a seven-year term.                         |
+| Rab-Pāqîd             | "Chief Overseer": the senior of the pāqîds.                                                                |
+| Warden of the Weights | The inspector of measures, coin and quality in a city's markets.                                           |
+
+Argo, Aurion and Bit are loanwords from [[lore-vylarianclt#glossary|Vylaria]].
