@@ -34,7 +34,7 @@ In the south, the Ātárzád graze their flocks on the uplands' southern slopes 
 
 Falls, floods and collapse take more lives here than raiders. A ravine floor that is dry at noon can run with a flash flood from a storm forty miles away. [[being-gntscrpn|Giant scorpions]] hunt the warm rocks at dusk, and [[being-crglrkr|crag lurkers]] wait on the ledges above the narrow places.
 
-In the ravines of the northern plateau, rock-cut tombs open into the cliffs, **Osikor**, "the bone range", the burial ground of a people who vanished long before the tribes. Their galleries are painted and furnished with grave-goods, and in the deepest a [[being-damut|damut]] walks. The Ātárzád hold them unclean and forbid approach.
+In the ravines of the northern plateau, rock-cut tombs open into the cliffs, [[place-osikor|Osikor]], "the bone range", the burial ground of a people who vanished long before the tribes. Their galleries are painted and furnished with grave-goods, and in the deepest a [[being-damut|damut]] walks. The Ātárzád hold them unclean and forbid approach.
 
 ## Hooks
 

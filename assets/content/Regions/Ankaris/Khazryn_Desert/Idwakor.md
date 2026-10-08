@@ -34,7 +34,7 @@ They live in the shadow of the Empire. Tānvür has treated its western frontier
 
 The cold takes animals first and men second. [[being-sandwurm|Sand wurms]] live in the deeper desert, and the caravans reroute for a season when one is reported. [[being-erthrvr|Earthreavers]] tunnel under the cavern floors in the ridges.
 
-The tribes hold the caverns as the country's own lungs and bar them to strangers. In one of them, **Ruweq**, "the wind", cisterns cut in the rock hold sweet water in a waterless land, and the walls beside them are painted with a script no one reads. Whoever cut the cisterns left no name behind.
+The tribes hold the caverns as the country's own lungs and bar them to strangers. In one of them, [[place-ruweq|Ruweq]], "the wind", cisterns cut in the rock hold sweet water in a waterless land, and the walls beside them are painted with a script no one reads. Whoever cut the cisterns left no name behind.
 
 ## Hooks
 
