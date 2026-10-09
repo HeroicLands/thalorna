@@ -3,6 +3,8 @@ name: Version and Release
 # The whole release process, from a merged pull request to a downloadable
 # module. Nothing here is started by hand.
 #
+# Releasing is gated by the repository variable HL_RELEASE_ENABLED.
+#
 #   1. A pull request declares its bump as a `.changeset/*.md` file.
 #   2. Merging it to `main` opens or updates the **Version Packages** pull
 #      request: the version bump plus the rewritten CHANGELOG.md.
@@ -33,17 +35,16 @@ on:
 # grant itself more than its caller holds, so a fixed block there would have
 # capped every caller at the narrowest set.
 permissions:
-    contents: write # push the version branch, create the tag and Release
-    pull-requests: write # open and update the Version Packages pull request
+    contents: read
 
 jobs:
     release:
-        uses: HeroicLands/.github/.github/workflows/release-foundry-package.yml@main
+        uses: HeroicLands/.github/.gitea/workflows/release-foundry-package.yml@main
         with:
             package-kind: module
-        # The release app opens the Version Packages pull request, so its
-        # checks run (HeroicLands/.github README, "The release app"). Absent
-        # secrets fall back to GITHUB_TOKEN.
+        # The release bot opens the Version Packages pull request, so its
+        # checks run (HeroicLands/.github README, "Releasing from Gitea").
+        # Named, never `secrets: inherit`.
         secrets:
-            RELEASE_APP_ID: ${{ secrets.RELEASE_APP_ID }}
-            RELEASE_APP_PRIVATE_KEY: ${{ secrets.RELEASE_APP_PRIVATE_KEY }}
+            RELEASE_BOT_TOKEN: ${{ secrets.RELEASE_BOT_TOKEN }}
+            GH_RELEASE_TOKEN: ${{ secrets.GH_RELEASE_TOKEN }}

@@ -24,6 +24,7 @@ concurrency:
 
 jobs:
     deploy:
+        if: ${{ github.server_url != 'https://github.com' && vars.HL_DEPLOY_ENABLED == 'true' }}
         runs-on: ubuntu-latest
         # Job-level, so each step's `if` can ask whether the credentials exist:
         # a secret cannot be tested directly in a condition.
