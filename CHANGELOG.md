@@ -1,5 +1,693 @@
 # thalorna
 
+## 0.2.0
+
+### Minor Changes
+
+Add fourteen Vrystwald village notes and a sixty-village regional roster, with totems, triad tensions, neighboring borders, and forest travel routes.
+
+### Patch Changes
+
+Bethûra, the Matriarchy of Bethûa's capital, has a page describing its councils and Houses, and Bethûa's notes now agree that Aû'Khelâthu lies to its east.
+
+Treat names still current anywhere in the concordance as live when checking retired-name drift, so the King's retained Konungr alias is not reported as retired.
+
+The Quilted Monsoon Coat, the Dhanurkoti Longbow and the Swift-Hand Horse-Bow now show a cloak and a longbow icon.
+
+- **Svartbrandr's faith:** the Fire-Weeks have their own page, gathering what the faith, its clergy and its three orders say of the ordeal.
+
+- **Named rites:** the Rite of Minnir's Well and the Reaver's Thanksgiving are explained in their faiths' accounts, and the Asguardian calendar links to them.
+
+- Follow Jól, Sumarmál, Midsumar and Vetrnaetr to accounts of the northern seasonal feasts, assemblies and household observances.
+
+Readers can follow the giant-kin, their banishment to Thursguard, and the world-ash Heimsask to accounts of their place in Asguardian cosmology.
+
+- Broad cultural regions no longer appear to be ruled by a single city or tribal umbrella; Naughatta’s local government remains unspecified.
+
+Explain why Grukar cannot be kept as slaves or bargained with as a tribe, distinguish their taste for human flesh from the inheritance rite, and align the Grukarholm, bestiary, language, and neighboring region accounts with those facts.
+
+The Harad Region page introduces the Haradian coast and archipelago: its five city-states and their towns, its people and faiths, its ruling guilds, its coin and its neighbors.
+
+A named character devoted to a faith now shows standing there rather than bare membership — the lay faithful, or the clergy rank their dossier actually describes, read off that faith's own ladder.
+
+Add the Maker's casting-mould icon to Mótefnir's faith and ritual.
+
+Therethu, Lenti and Uzner, and the last Gar-Aû of Gar-Zin'el'Rêlu, now show their standing in the Khelâthi bodies they lead.
+
+The embassy characters, King Hlurthann III, Bāthür Hürtzhük, Tëitjëk Vëngyürt and Tákoro Zanethar no longer show "TBD" as their appearance.
+
+Place four Heroes of Asguard in the Nordlands instead of Vrystwald.
+
+Correct the Nordmal hard grade for the far side of a pass and update Anthorv's name, identifier, and image path.
+
+Assign three Nordheimn artisans to the Maker's faith and a Norgaad teamster to general Asguardian adherence, clearing their unrelated Hrímthur affiliations.
+
+Readers can follow Ódvar’s legendary spear and Minnir to their accounts, and Náhild’s favored undead to their existing bestiary entry.
+
+- Meet ten village tribes of Okháris, each with its seat, from the fishers of Ngorásha and the horse-breeding Magara to the forest-dwelling Shókuma.
+
+- Okháris now ranks its people from Outcast to King, with village and temple offices beneath the crown.
+
+- Kiroba of the Shókuma and Eshe wa Magara now belong to their own tribes and to Okháris.
+
+- The Okháris Region is hot and fertile in the west, drying eastward to semi-arid savanna at the Bethûa border.
+
+Affiliations with incomplete membership data now declare their ordinary standing, so characters can belong to them. The Green Wardens' existing Sworn Guardian standing is recorded at level 1.
+
+The Ordo Arcanis is chartered in 73 BF, after the arcane college is seized in 312 BF, wherever the Ordo, the Vylarian Empire, Heliónis, the Panepistemium and the dragons' fate are told.
+
+Readers can follow the Asguardian pantheon's deity names to each god's account and Hrímthur's account to his spirit note.
+
+Places now name the governing bodies recorded in their affiliations' holdings, including the Pass-Shrine Ushtakas and the Empire of Aû'Khelâthu in its heartland.
+
+- Readers can follow Hugvin and Munvin to accounts of Ódvar’s ravens that preserve their differing meanings within the faith.
+
+Dagmar the Skaald returns under his restored name and address, with his storytelling role and ties to Gróa preserved.
+
+- **New lore:** _The Seven Towers_, a Sinalëan elegy kept by Élavendre's bards and the Áelendan, remembers a city of light cut into a cliff and the night it fell.
+
+- Its verses are quoted in the entries for the Sinalë, Aelirossë and the fall of Khazártúrn.
+
+- **The Shadow** has its own page: chaos from outside creation that corrupts mortals and gods alike, and the force behind the undead.
+
+- Náhild's relic, the Eye of the Void, now has its own page under its northern name, Ginnauga.
+
+- The undead pages, and a new page for the north's hrúmverdir, explain that every undead is bound to the Shadow, whatever its culture.
+
+Royal seats, provincial capitals, and directly administered towns now identify their governing bodies, including the northern capitals and Khelâthi selat seats.
+
+Eichengrund’s named residents now share its clan name and boar wesk. Personal totems remain possible, and Thornak’s story no longer assigns common Kemlar worship.
+
+Readers can follow the World-Wyrm, Thrúnvald’s hammer, the honored dead, and Thrumufjall to accounts of their place in northern faith and saga.
+
+Three Varokhi heroes bring campfire tales and playable character sheets: Véthar journeys to protect his clan, Dómvith earns back trust, and Wíthrún learns to defend others after losing her family. The Sturgeon Road tells Véthar's spirit journey in verse.
+
+Varokhi workers and warriors now answer to village households, war-bands and river traders in their character accounts. Thornila's Árdavon ministry belongs to the Velanthian frontier, where its followers live alongside Thornhaven's totem tradition.
+
+The Varokhi language now names the village totem, its shaman and binding rite, and the animals a Vrystwald village may take as its totem. Thornak's boar byname retains its Varokhi form and meaning.
+
+Readers can follow the Winter-Wolf and Vígvöll to accounts of Eidgar’s sacrifice and the final muster at Aldarlok.
+
+Correct Galezkara’s district descriptions and distinguish the two Gar-Zekhemu villages with their own locations and populations. Okháris’s three temple-cities now use the names Zarhánis, Kaljékor, and Vuthráka, with Ithrákor removed. Ékunda gains linked village and tribe records, and the Nyáluba confederation no longer lists a capital.
+
+**Adventurer's Guides**
+
+- Every culture now has an Adventurer's Guide: full guides for the Nordlands, Vylaria, Heliónis, Byzaría, Harad, Vrystwald and the Khazári, and shorter draft guides for fourteen more.
+- Each guide opens on an arrival and a local's greeting in their own tongue, then covers who holds power, daily life, faith, places, people and ways into play.
+- Each guide closes with a glossary of the culture's common words, which these pages set in roman type.
+- The Khazári guide explains how the Khazári count in sixteens.
+
+**Affiliations** — Wuldjagâr erund Gárskald and the Blackpine Wolves now list
+
+the government that actually rules them: a huntmaster answering to the clan
+chief, and a boss who holds command only as long as no one dares to challenge
+him.
+
+criminal rings of Aû'Khelâthu now say how each is governed and what standing a
+member holds, from a temple's Wazu up to its Thâz'Lekhau.
+
+- Varnakan Patita are marked by a brand on the face that every house and sampradāya recognizes; the sentence can be forgiven, and the forgiven carry proof of it for life.
+
+- Gnuldrthýra the Forsaken is a celestial of Mótefnir, set above the mortal ranks of any faith.
+
+**The Asguardian gods** — Each of the Ten carries a senior priest's account of its
+own: what the god is held to be, what a hof asks of the faithful, and what
+devotion costs or wins.
+
+**The northern culture note** — Names the pantheon as the Ten, and names the
+
+- Athalwa Eichengrund follows no foreign faith; Eichengrund's spiritual authority rests with its boar wesk.
+- Her elders, allies and plot hooks test whether her visions are true, not which god sends them.
+
+**Names**
+
+- Four Aurèldían gods carry names of their own: Árdavon keeps the gates, Sélmoros judges the dead, Ólvenía brings prosperity and Ústaron rules the forge; the Tarvénian city named for Ólvenía is Ólvestria.
+- Background figures in character notes who shared a handful of stock names now carry names from their own cultures, so two unrelated people no longer answer to one name.
+- Társia Torvaleth's commander is the Warden of the March, and the visitors to Afzandah's forge carry Khazryn names.
+- K'ich'chik realms title their lords, priests, scribes, war-leaders and merchants in Ki'ichek, and the Itzáni rekindling rite is the K'ayik Kul'al.
+- Bethûan's Khelâthi loanwords come from Khelâthi words, now listed in the Khelâthi lexicon.
+- Northern background figures carry Nordmal names, the Black Flame's order is the Sons of Eldheim, and Náhild's raised dead are hrúmverdir throughout.
+- People of Aû'Khelâthu with long names have a near name, used only by those already bound to them and never written.
+- K'ich'chik nobles go by their house name among kin and equals; a Kaliharan's household name belongs to the house alone.
+- The Sinalë never shorten a name: the language notes explain why.
+
+**Standings**
+
+- The five Vedyaran kingdoms and the Sultanate of Amradad no longer list royal kin as a standing of its own; a king's or sultan's kinsman holds the station his birth or appointment gives him.
+
+affiliation that confers it, rather than to a separate page that said nothing
+beyond the standing's own name.
+
+holds one house, province or branch of a larger body and answers upward for
+everything it does, and the former magistrate, whose standing comes of having
+served a body's chief magistracy and handed it back.
+
+the aspirant, the child of the faith, the supplicant, the licensed
+practitioner, the vow-bound devotee, the sworn of the rite, the committed, the
+transfigured, the teaching elder, the seated elder, the senior member, the
+vowed debtor, the kin by marriage, the cadet line, the outcaste, and the
+officer dismissed from a charge.
+
+**Beings** — Character and NPC profiles show the roles they can fill in an
+adventure, including common folk, entertainers, and established professionals.
+
+**Standing** — Every being that belongs to a body now states the standing it holds
+there, on that body's own ladder. A sheet that showed a membership and no rank
+shows both.
+
+**Dates** — A birth, a death or a calendar's epoch whose day ends in a zero keeps
+
+that zero. Five reckonings and several hundred people were reading a day months
+away from the one written.
+
+- The Great Convergence stands 6,958 years ago, counted without a year zero.
+
+**Currency** — The Au Khelathu, Haradian and Vylarian currency pages write their fractions as 5/8, 4/5 and 3 1/3.
+
+**The Ten's devotional orders** — Twenty-nine priesthoods and militant bands, from
+Ódvar's rune-readers to Bjartr's elder-trained swords, each stand as their own
+compendium affiliation with a cast-out, a member and a leading standing.
+
+**Each order answers to a northern name** — Eldverdir, Grönhönd, Hrafnrún and the
+rest are named in Nordmal, with the English phrase each is known by beside it.
+
+**One ladder across all of them** — An order's three standings are Dróttvargr,
+Dróttmadr and Dróttstjóri, whatever the order.
+
+**A faith names its orders once** — Each faith of the Ten points to the orders that
+answer to it.
+
+**Patrons, enemies and affiliations** — Where a patron, enemy or affiliation names
+
+- The Dúnavarre embassy to Tānvür is commissioned by the Synod, and its cast and dossiers read accordingly.
+
+- The Royal Loremaster of Élavendre is Aelithra Enéwyn, with her own character entry, distinct from the alchemist Alananor Enéavel.
+
+affiliations now read as a term and its explanation rather than a bulleted
+line, so the name of a house or a guild stands clear of the account of what
+it wants.
+
+**Guilds and temples** — Guild and temple pages describe each body's character, relations and commerce.
+
+**Harad**
+
+- The Confederation of Haradian States, its five city-states and their cities now read as a guide to a newcomer: each opens on what the place is known for and says who decides there and what a visitor meets.
+- The Auric Compact, the Corsair League, the Merchantry of the Veil, the Sôd-Naqîrîn and the Tamzîr are described on their own terms, with the lookup facts kept in short lists.
+- Míravel, Qadhirun and Sulûn have real entries, and the Azhûn and Alz River pages no longer call Azhûn the largest city-state.
+
+**Geography** — Harad is an archipelago off the coast of the Sultanate of
+
+Amradad, with no shore on the mainland; caravan goods reach its island ports
+across the strait.
+
+Vylarian Sea, south of the Byzarian League, and a friend of Harad.
+
+**Hellád**
+
+- Hellád, Heliónis, the Byzarian League and their cities now read as a guide teaching a newcomer: each note opens on what the place is known for and says what a traveler should expect.
+- The Helionite city-states, the League's five cities and its three marches, and the towns and companies around them are written on their own terms, with each standing in them reading as a rank a person can hold.
+- Hellád is placed on Mídhalión's northern shore, and the Héx Hodäi appears under its own name in Heliónis.
+
+**The Héx Hodäi** — The framework is a tradition a mage belongs to, not only a
+doctrine described. Every mage taught to reckon the arcane by the six Eídmata
+holds a standing in it, and each of the six schools reads as one of its parts.
+
+**The six Eídma** — A school's ladder now begins where membership begins: the
+initiate received and bound by its oaths, the adept trusted to work the art
+alone, then the master competent to teach it. Someone outside a school simply
+has no standing in it.
+
+**The Khazári** — their holds are cities in the cliff face, with daylight in every home, passages that wind with the rock, and caves found and adapted rather than dug. The deep places are kept for the serious things: refuges, tombs, oaths and worship.
+
+- The Coming of the Khazári tells their origin: they fled Humadhan, "the middle place", with their god Luváth.
+- The tale names the Dagarakurágh, the rings forged in Humadhan's war that warp mind and soul.
+- The seven clans are named for their master crafts: Summágh, Dullák, Rummák, Gullád, Vurrán, Gurráz and Lummáv.
+- The Khazári language and lexicon gain words for the middle place, the rings and the clan names.
+- A new culture entry: how the Khazári listen to stone, live in the cliff face, mine without props, teach, honor their dead and treat outsiders.
+- Khazártúrn is the one work where they built what they wanted rather than what the stone offered; its seven towers are spurs the cliff already held, and its refuge failed against a horde that neither tired nor broke.
+- The Khazári word list gains the vocabulary of rock, caves, the cliff face and listening to stone, and the words for ink, chalk, wax and both forms of Pirzath.
+
+**Pirzath** — Khazári writing has two forms: angular carved letters that follow the seam of the stone, and a flowing, joined hand for everyday use on slate, wax, hide and thin sheets of lead or copper.
+
+**Khazári literature**
+
+- _Vargafukár_ (The Finding at the Far Edge) — the founding account of how the refuge at the sea-cliff was found by listening.
+- _Zagathavughán_ (The Sealing of the City) — the lament sung after the account of Khazártúrn, as the dead are laid down and the city is shut.
+- _Gatharirezith vazanez_ (The Sayings of the Masters) — the sayings of twelve masters, handed down in a named chain.
+- _Sarghakhudhál_ (The Crossing of the Clans) — the deep song of the seven clans, led by Puthakun out of the old realm into a world already standing.
+- _Narvavutám_ (The Long Tunnel) — the account of a hold's water-line, cut after a quake, with its master's claim of work.
+- _Balvafunád_ (The Going of the Exile) — the exile's lament for a gate-keeper put out of the rock.
+- _Sarghadugár_ (The Quarrel of the Clans): the council record of the quarrel that sent the first houses out of Khazártúrn to cut their own holds, and the reason every hold is governed by its elders and no single house leads.
+
+**Khazári**
+
+- The Khazári language page now covers the whole grammar: plurals, gender endings, the passive and causative, pronouns, negation, questions and counting in sixteens.
+- The sample phrases are corrected to follow those rules.
+- Some given names and house names have new forms.
+- A Khazári Lexicon joins the setting lore: some two hundred skeletons and seven hundred words, from stone and the forge to the sealed city, for naming holds, houses and things in play.
+- The lexicon shows how to build a new Khazári word and lists every Khazári name the setting uses.
+
+**Khazári names** — The Khazári call their god Luváth, their script Pirzath, the Second Voice Zughán, their lost city Hulavath and the Vardain tally village Hudhakal.
+
+- Vorgald is the Aelwythan rendering of the Khazári Varíg, "farthest".
+
+**Khazári history**
+
+- Khazártúrn's valley has a silver-bright lake on its floor, and each clan's tower is a watch-tower manned day and night.
+- The Khazári venerate Puthakun, the servant of Luváth who saved their people by leading the seven clans out of Humadhan.
+- The early quarrel over the leadership of Khazártúrn explains why every hold is ruled by its council of elders and never by a lord.
+- The Khazári recall a Sinalë envoy who urged them to withdraw from the world, and their refusal.
+
+**The Khazryn Desert**
+
+- The Khazryn is now a vast desert and steppe crossed by one camel road to Tānvür, where caravans buy passage, water and guides from each independent tribe along the way.
+- The steppe tribes, the Sowides, have their own culture, tongue and reckoning of years, and a rare orqwen can force them together for one lifetime.
+- Small springs belong to tribes, and a traveler who camps at one uninvited meets its owners at dawn.
+- The old oasis people at the foot of the Grazian Mountains are the Tellumi, with three free oases and four cities held by the Ātárzád.
+- The waste holds dead cities, mountain labyrinths, four blood lands, the northern taiga and eight new creatures.
+- New Adventurer's Guides cover the Khazryn Desert and the Tellumi.
+
+**Khelâthi institutions and places** — Khelâthi houses, councils, companies and fellowships now describe their character, relations and trade, and the towns, quarters and lore notes of Aû'Khelâthu close with links to related pages.
+
+**Seventy-seven Khelathi affiliations** — Every temple, guild, noble house,
+faction and company of Aû'Khelâthu reads as a page: what it is, who belongs,
+what it does, and what dealing with it costs a person.
+
+**Marked as drafts** — Each carries its template's full set of fields, with
+what nobody has researched yet left honestly empty rather than guessed at.
+
+**The Khelâthi crocodile-god** — Is named Tjelsur, and his temple city and
+selat are Lut-Tjelsur.
+
+**The Khelâthi language** — The word for a tiller is _zuqat_, the house of
+Wal'Enraqu takes the collective ending every house name carries, and Anlaghi is
+a man's name only.
+
+**Khelâthi folk** — Officers, priests, scribes, traders, hunters, and nobles of
+Aû'Khelâthu now carry an appearance and a dossier — what they look like, who
+they are, what they do, and what it costs or buys to deal with them — in
+place of a single repeated line.
+
+**The reigning court** — The Gar-Aû, the Imperial Guard's commander, the high
+priest of Qe'âret, and the Imperial treasurer each carry the same fuller
+account.
+
+**Aû'Khelâthu**
+
+- The Gar-Aûu page now carries the temple king-list: every house and reign from the fall of the False Uqa'â to Meqes XVI, an abstract of the older reigns, and how to date a document by its reign.
+- Years from the First Occasion are written _Selqur Qet Telgu_, and the noon recitation of Qe'âret's temples is the Halzunet, the noon denials.
+- The False Uqa'â fell about four and a half centuries ago, and Meqes XVI is named a woman wherever she appears.
+- **The Reading at the Weighing**: the Khelâthi temple litany spoken over a dead person's account, with passages quoted under Qe'âret and the Khelâthi people.
+- **The First Occasion**: the opening of the Khelâthi temple chronicle, from the mound lifting out of the waters to the first single crown, quoted under the Qet Telgu and Yath-Telgu.
+- The empire's region, province, city, temple, guild and office pages now read as a local teaching a newcomer, each opening on what the place or body is known for.
+- Every selat's polity, land and seat pages have their own entries, each in a different voice, instead of one repeated line.
+- The country beyond the flood is high desert and chaparral, consistent with its neighbors.
+
+**Coinage**
+
+- Khelâthi silver and gold pieces are lighter and carry values that match the Khelâthi price lists: a silver qelu is worth 2 Argo, a gold gezan 200.
+- Khelâthi copper pieces are token money backed by silver: the Gár-Hálzi issues and redeems them at face, and unsealed copper is bought only by weight.
+- The Argentus is a small 1.5-gram silver coin worth one Argo, and the Aurion holds about 15 grams of gold, so coin weights match their value.
+- Exchange tables between Vylarian, Haradian and Khelâthi money agree with each other and with the prices they quote.
+
+**Khelâthu's villages, quarters and selats** — A generated settlement, site,
+structure, feature or region reads as a place: where it stands, what it lives
+by, and one consequence of that for the people there, in place of its own
+description repeated back as the whole entry.
+
+**Two halves of one tradition** — Gezru'lutu and Ithnetáu each explain the
+half of the world they govern against the half its companion governs, rather
+than standing alone.
+
+**The season of low water** — Shelu explains what four months of falling
+water lets the empire do that the rest of the year will not allow.
+
+**The World of Thalorna** — The world page answers to _Mannguard_, the name the
+north calls the world underfoot, beside _Thalorna_.
+
+**Vylaria and Mídhalión**
+
+- The Mídhalión, Vylarian Sea, Vylaría and Vylarian Empire pages now read as a guide teaching a newcomer: each opens on what the place or institution is known for and says what a traveler or a petitioner should expect.
+- The thin town, province and Magnápolis district pages have real entries, and the Vylarian offices, the Panepistemium, the Ordo Arcanis, the currency and the army are described on their own terms.
+- The history of the Republic, the Bargain, the Lex Arcana and the Alyssa Recensio is retold in the same teaching voice.
+
+**A tenth god** — Mótefnir the Maker holds craft and invention among the Ten,
+with his own article, a faith on the ordinary blót ladder, and a faith skill. The
+Dreadspawn are his, he makes each living thing once, and he does not come back
+for any of it.
+
+**The Rime-Giant** — Hrímthur is one of the giant-kin the Ten fought and beat,
+killed instead of banished and cut into the ground the world stands on. His faith
+is kept in the north and stands outside the Ten.
+
+**What the pantheon is for** — The Ten are the ten who won that war, and the
+making of the world is the only thing all of them ever did together. Everything
+the sagas quarrel about dates from after the victory.
+
+**Three ways a creature is made** — A dreadspawn is alive and a celestial hand
+made it so; a construct is matter moved by a mage's working, dead flesh included;
+an undead is a body its spirit has left, raised under necrotic force.
+
+**Craftsmen know who they pray to** — The roofers, the weaver, the völva and the
+laboratory-born of the north name the Maker.
+
+**People** — A character or NPC's profile names the settlement they call home rather than the region around it, so a reader lands on the town or waypoint itself.
+
+**Cities and regions**
+
+- Capital cities in Heliónis, Byzaría, Harad, K'ich'chik and elsewhere now read as real entries: what the place is known for, who governs it, and how people live there.
+- No city or region page carries a "To be written" placeholder, and the Central K'ich'chik page reads "central" instead of "centralern".
+
+**Nordlands literature**
+
+- _Mótmál_, the Mould's Speech: the hof poem in which Ódvar breathes life into the first two clay figures and names them.
+- _Skipskreld_, the Ship-Flyting: the Midsumar contest between Thrúnvald and Vélgrímr on a becalmed boat, with the Thraldfjord and Raltholm tellings.
+- _Hvelmsnerv_, the Whale-Prophecy: a völva's foretelling from a Dvarnvík high seat in the winter the whales failed.
+- _Vyldgyldra_, the Grain-Praise: the Skalds' Circle's model praise-poem for a jarl's failed winter, with a master's gloss.
+- _Fölmhnúra_, the Sickness-Lament: a shipwright's lament for her daughter, sung at grave-ales for sickness deaths.
+- _Stórald of Draskborg_: a fort-duty saga of a moved boundary stone and the grave-ale that settled it.
+
+**The Nordlands**
+
+- The Nordlands, their five kingdoms and the Jarldom of Stormveld now read as a guide teaching a newcomer: each opens on what the land or place is known for and says what a traveler should expect.
+- The gods, faiths and cosmology of the north, and the Asguardian orders, the Compact and the Skalds' Circle, are described on their own terms, and every standing in them reads as a rank a person can hold.
+- The thin festivals, places and orders became real entries.
+- New pages tell where the north's world came from: the ring of ages, the giant the world was cut from, how Mótefnir made people and how death came in, and the gods' heirs who outlive the last fire.
+- New pages on the ting island of Dómsey, on northern funerals from the pyre to the grave-ale, and on the whale and seal hunts; the Jól page tells of the Jól-Ride.
+- Heroes, order leaders, places and the old sea-power that carried real-world Norse names now carry the north's own, and Bjartr is the Radiant One throughout.
+- The Nordmal page gains the north's own words for verse, hearth, boat, whale, seal and grave, explains a seeress's name, and treats its name lists as samples.
+- Northern names that broke the tongue's rules are renamed, and names across the Nordlands and Vrystwald pages now link to their own accounts.
+- The orders' rank lists use the shared standing words, and Nordheim's midsummer blót is Midsumar, with Ódvar's eye at the well as the price of the runes.
+
+**The north** — The Nordlands' people and settlements, the Ten and their
+rites, and the sworn orders are all found under the names the Nordmen give
+them. Each page, compendium entry and portrait is reached by its own name, and
+the links between them land there.
+
+**The Ten in prose** — Every page that names a god of the Asguardian pantheon
+names him in Nordmal, and so do its devotional orders.
+
+**The north's lore** — The two ravens, the thunder-hammer, the world-wyrm, the
+winter-wolf, the defending kin of the gods and the storm-god's holy mountain
+carry the north's own names.
+
+**Words of the north** — The undead the Faith of Náhild favours, the elder
+sea-power the coastal clans placated, the king's reeve, Vithgard's royal clan
+and a frontier settlement of Nordheim take northern names.
+
+**Northern cultures** — Nordheimn and Varokhi accounts now show how kinship, leadership, spiritual duties, and care shape everyday life from childhood through death.
+
+**Undead lore** — Nágengir have their own account as Náhild's sentient servants, distinct from the local dead said to haunt or protect places.
+
+**Black Flame** — The Sons of Eldheim now have a military order in Stormveld, with a campaign against Varokhi villages aimed at the Nordlands.
+
+- Northern epic poems tell of the honored dead, sacred hammer and mountain, World-Wyrm, and the age’s last battle.
+- Linked sagas recount Skrildmýl Stormborn’s winter journey and Skalforv Thunderstrike’s sea battle, while Thrúnvald’s faithful gain a song of his hammer.
+- Songs of Skjálfgeir, Minnir, and Nágengir carry the spear’s precision, wisdom’s cost, and fear of the sentient dead into northern storytelling.
+- Regional polity and settlement tables show the governments recorded on places.
+
+**Northern history and custom** — Five kingdom histories gather their remembered events and legends, with disputed tales identified as such. The Nordheimn account now explains rites of the ting and hall, including how the old are honored at Vetrnaetr.
+
+**Raids and longships** — A new note follows a crew through its share, sailing season, shield-wall and kingdom levy. Northern region notes link people to their cultures and describe the settled coasts, rivers and sparse mountain interior.
+
+**Northern rank ladders** — The five kingdoms, the Jarldom of Stormveld, and the
+Vrystwald Tribes each list the standings their own law confers, from the
+lowest to the highest, with what the law actually does to a person who holds
+one.
+
+**Offices kept apart from rank** — A king's marshal, a province's reeve, a
+tribe's war-chief, and the other posts a person of standing may take up and
+lay down appear separately from that person's rank, naming what each post
+actually does.
+
+**Twenty-four northern settlements** — Every market town, fishing village, mining
+camp, frontier fort and Vrystwald clearing reads as a place: who holds it, what
+its people live on, and what they argue about.
+
+**Authority by title** — A settlement's holder is a named office over a named
+district or province, or a Vrystwald chieftain in his own hall.
+
+**Northern standings**
+
+- Nordmal titles name the existing candidate, sworn, senior and excluded standings of northern orders, faiths, the Mercenary Compact and Stormveld.
+- **The Swearing Under the Baobab**: the Nyáluba lion cult's memory-song of the Long Pact, sung by a griot and answered by the gathered.
+- **The Stone Tongue**: how Mvura wa Kambezi came out of an Old Kraal speaking a dead tongue, told once as the griots recite the record and once as it is told at the fire.
+
+**Faith standing** — An occupation character who belongs to a faith now shows the
+standing they hold in it, not merely that they belong.
+
+**What a pantheon confers** — A pantheon grants the standing it actually grants.
+Where one priesthood serves every god, its ladder runs the whole way up; where each
+god keeps its own clergy, the pantheon offers adherence and the priesthoods keep
+their grades. Someone who merely holds to the Ten, or reckons magic by the Six Ways,
+stands as an adherent of it.
+
+**Nyaluba** — A person living under the totem law and the clan's pacts without
+having been initiated is an observant of them, which is a standing of its own.
+
+**Orders** — The Ashen Vow, the Sealed Word, the Iron Cinder, the Twinblade Order and the Áelendan Wardens rank their members by the grades each order's own account describes, and list their heads and house leaders as offices.
+
+**Twilight House** — Apprentices, Companions, Senior Companions, Elders and the Mistress of the Long Evening form its ladder; handlers and satellite mistresses are offices, and household servants stand outside it.
+
+**The Nordlands' sworn orders and companies** — The four Asguardian fighting
+orders, the Mercenary Compact, the Blackpine Wolves, the Wuldjagâr hunters and
+the Skalds' Circle each list the ranks a member actually climbs, from candidate
+to senior, with the same ranks named on the page and on the sheet.
+
+**Chairs are offices** — The Voice of Lögstead, the Speaker of the Compact and
+the other orders' and companies' chairs each appear as the office it is, held
+by whoever is elected to it.
+
+**Places and peoples**
+
+- The paramount K'ich'chik realm and its capital are now named Ix'ilankul, the Seat of the Stars, and the K'ich'chik roads are the white roads.
+- Bethûra, capital of the Matriarchy of Bethûa, is a harbor city on a bay of the Vylarian Sea.
+- The Haradian Confederation's seat is Tamavar, where its Grand Council meets.
+- The Ordo Arcanis is described as still, on paper, the College of Arcane Philosophy within the Epistemium, nearly eight centuries after its charter.
+- The Dreadspawn have one account, which now includes how the Empire of Tānvür classifies and fights them.
+- Enemies that are a character's own failings are labeled as inner enemies rather than people.
+- Aran Célavren, ambassador of Dúnavarre's embassy, is now a mage of the Ordo Arcanis, matching the kingdom's Ambassador office.
+- Astúrath's High King sits at Peñalthár and Léonrik's capital is Torváleth, on the kingdom pages as well as the region pages.
+- Vardain settlement populations and the Nordheim comparison in the Nordlands page agree with their stated figures; Knurvthann Hafringr is 40 throughout.
+- Pages end with sections drawn from the rest of the setting: **Within**, **Governed by**, **Governed places**, **Chronology**, **Events**, **Accounts**, **What followed**, **In song and story** and **From here**, each listing what touches that entry.
+- The book ends with an index of every entry, with the pages that mention it.
+- Affiliations, skills and other items without their own art show their default icons.
+- Each Astrokýklos birthsign links to the Birthsign overview.
+
+**New places**
+
+- About eighty places the setting named without describing now have draft entries of their own.
+- They include Lögstead, the Tamzîr Shoals, the Céravel Vale lordships, the Khazryn oases and the K'ich'chik underworld.
+- A few more northern and Vrystwald places named in stories now carry Nordmál and Varokhi names.
+
+**Ladders** — A rung points at the standing it describes, so a bureau's
+
+provincial temple head reads apart from the head of its whole establishment, a
+specialist branch of a temple complex apart from the complex, and a presiding
+magistrate of the year apart from a master of an order.
+
+hereditary exclusion reads as one, a hired practitioner is not a vowed
+religious, and an elder who teaches is told apart from an elder who votes.
+
+**Pages a standing has** — High Priest and Grand Master say what the standing
+
+- Thornak’s spirit hunt belongs to Vrystwald, and his barrow quests follow oral clues with uncertain ancestral claims.
+
+- Thornak and Athalwa seek wider allegiance as personal ambitions; village elders grant common command only for an immediate danger.
+
+- Ásvinir now has an account of the defending gods’ kinship, linked from the Horn of Hafvald and Njörven’s story.
+
+what it costs and wins.
+
+**The Sinalë tongue** — The language page states its grammar in full: pronouns,
+negation, questions, numbers counted in twenties, the singular and the
+collective, and the suffixes that make new words. Its examples now follow its own
+rules.
+
+**New name forms** — Most Sinalë given names and every lineage name take new
+
+- A Sinalë word list for players and GMs: more than five hundred words grouped by subject, from starlight and the deep wood to the fae, grief and the Shadow.
+- Each built word shows how it is made, with worked examples for coining new words and names at the table.
+- A register lists every Sinalë name in the setting and the page where it is met.
+- Sinalë sounds softer and older: more _l_, _r_, _n_ and _th_, open vowels and long syllables, and far fewer _y_, _ë_ and clipped double consonants.
+- Every word in the Sinalë word list, every example on the language page and every Sinalë given and lineage name is re-coined in that sound, with its meaning unchanged.
+- Sinalë men's given names end in _-dhe_ or _-vo_.
+- The Sinalë call the God of Dreams Aulveira and their script the Veldirno; the faith's acolytes are the Ilthorinno ("seer"), its priests the Ansorunno ("long-watcher") and its convocation the Aulirarno.
+- Haulonna's fallen guardian is Ansorudhe Lonvunto, and one of the Sinalë is a Sinalo.
+- The Élavendre enclaves Aelirossë, Ethalossë and Serenthalë are named in Élavendri.
+
+**Sinalë** — The Sinalë word list gains the words their songs need: kinds of song and saying, king and council, gods and offerings, the dead and their rites, arms and battle, and the ruin of Sirmennë among the names older than the rules.
+
+**Order of the Storm-Speakers** — The order answers to _The Hammer Held_, one
+
+- Thalorna shows its own artwork in Foundry's package list and setup screen: a knight-and-dragon battle for its setup image, banner, logo and icon.
+- The Thalorna homepage opens on the same battle as its banner.
+
+**Pages** — A page whose note names its own hero image shows that image rather than the stock banner for its kind.
+
+**The Weighing** — Qe'âret's judgement reads what a Khelâthi owed and whether he
+closed it, not his heart against a feather. Both of a person's accounts are
+opened: the temple account a scribe took, and the account the gods kept where no
+scribe was present. A written entry can be closed late or bought out; the
+unwritten one can only be met, which is why a Khelâthi spends his last years
+asking rather than paying.
+
+**Three people, not one name** — The elder who keeps the water-shrine teaching at
+Kethramír and the mercenary captain who equips her two hundred better than her
+contracts require each have a note of their own, and the playwright of Galezkara
+keeps his. Following a mention of any of the three now reaches that person
+rather than a page explaining that the name could mean anybody.
+
+**The throne and the augur** — The Gar-Aû's reliance on the judicial auguries of
+Qe'âret's high priest is stated again, which is also why his judgement is so
+hard to move against.
+
+**Title Lexicon**—the standing tables now list every rung of every people's, faith's and tradition's ladder, with its level and a short description, instead of a handful of rows.
+
+**Totems** — The totem descriptions list Sturgeon once, in alphabetical order, and the appearance list includes Bass.
+
+- Read the legend of Hulavath, the lost Khazári city of the far north, and the damaged poem fragment Lady Alfrúd Glarvarukh has uncovered.
+
+**The Varokhi tongue** — The language note publishes what a Varokhi name is made
+of: the elements a kindred names itself from, each traced to a name on the page,
+and the rules that join them into a given name, a clan name, a ground name, a
+rank and an office.
+
+**Plenty of names to pick from** — Eighty-one men's names, seventy-five women's
+and eighty-eight clans, the clans glossed by their people, so a household can be
+named without coining anything.
+
+**A woman's name and a man's** — A woman's name closes on `-a`, or on `-wyn`,
+`-rún` or `-ris`. A man's closes on a consonant and on none of those three.
+
+**Telling the forest from the north** — Varokhi writes `w` and `c` where Nordmal
+writes neither, and Nordmal writes `ö` where Varokhi does not. Both tongues write
+the acute for a long vowel, and both write out the thorn and the eth as letters.
+
+**Varokh standings** — every Varokh carries a standing on the Vrystwald
+Tribes' own ladder, read from what the person does, rather than a flat
+Nordmen-style rank.
+
+**Varokh spirits** — Varokh characters answer to their tribe and its totems
+on the sheet, not to a god of the Ten.
+
+**Ransom** — a captive's treatment turns on whether his own people can buy
+him back: a fellow Varokh is ransomed and treated well, a Nordlander often
+enough to matter, and a southerner almost never, which is why the labor base
+is foreign.
+
+**Contempt, graded** — the Varokh regard the Nordmen as the least foreign
+people there are and the Vylarian Empire as a nemesis, rather than treating
+both the same.
+
+**Corrected names** — five Varokh names lose a misspelling or a mark neither
+tongue of the region writes.
+
+**Varokhi tribes and companies name their own standings** — The Vrystwald
+tribes, the Wuldjagár hunting company and the Blackpine Wolves name every
+standing and office a member can hold in their own tongue, from the kinless
+to the elders who share a village's three seats, from the council's speaker
+to the hunt's tracker. Each standing also lists the plain English name it was
+known by, so the old word still finds it.
+
+**A village has no single chieftain** — A Vrystwald village answers to three
+co-equal elders instead of one: a Shaman for the spirits, a War Chief for the
+warband, and an Other Chief for everything between. A new standing, Respected,
+sits just below them, naming the few who assist each seat and from whom every
+seat is eventually filled.
+
+**A spelling corrected** — The Wuldjagár company's own name carries the long
+vowel Varokhi marks, not the mark a southern tongue would write.
+
+**A phrasebook that keeps to its own vocabulary** — The handful of Varokhi
+sentences on the page are built from words the tongue's own sound rules
+allow, rather than from sounds the forest does not speak.
+
+**Languages** — The Varokhi language page gives the words the forest's reciters use for their tellings, lays, laments and charms, for the dead and the spirits, and for war, craft, kin and water, along with new name pieces for fords, rivers, lakes, burial mounds, giants and ancestors.
+
+**Varokh villages** — The region now explains why ordinary villages hold 200 to
+500 people and split when they grow too large. Waldburg's 800 people are named
+as an exception needing their own account.
+
+**Village government** — The Vrystwald Tribes note describes the three equal
+elders, their different successions, and the brief joint command villages may
+raise only against imminent danger. The culture and region notes distinguish
+village totems and shamans from foreign pantheons, and captives held for ransom
+from those absorbed into households.
+
+**Waldburg's place** — The Vrystwald Tribes no longer claims it as a seat of
+power. Its crossing is a market and a meeting place for brief crisis councils,
+while its own crowded triad still governs the village.
+
+**Vedyara**
+
+- The Vedyaran region, polity, place, faith and trade pages now read as a local teaching a newcomer: each opens on what the place is known for and gives the warnings a traveler needs.
+- The thin village pages have real entries, and the region page gains tables of the six mountain crossings, the four rivers and the ten polities.
+- Vedyaran society is described by its own stations rather than as castes.
+- Vedyara's history runs in eight eras, from the Unnumbered Age to the Age of Patrons, with the rulers each era remembers.
+- Nineteen new events explain the present: the Unburned Ford and the Agnī-panthā's founding fire, the last gold raid, the Field of Elephants, the fall of the march kingdom, the Silenced Hall, the Highland War, Gomārga's broken well bargains and more.
+- Eleven new sites carry that history on the ground, from the burned capital of Lūdrapur to the filled well of Shūnyakūpa, each with adventure hooks.
+- The Adventurer's Guide gains a section on Vedyara's old ground and a glossary of everyday Vedyari words.
+
+**Blood-fields**
+
+- A new setting note sets out what every people agrees a blood-field is: the five kinds, how thin a field runs, why the lesser fields break minds at night and the thin ones kill, and what ends one.
+- **New works from Vedyara:** the _Recitation of the Kings of Mahānadi_, the verse Rājapur's Memory-Keeper speaks at every sabhā, and _The Forty Days_, the chronicle of the kingdom's dissolution with the Memory-Keeper's commentary.
+- Rājapur, its palace cellars, its sandstone altar and the Rājavalī Library quote passages from both.
+- Vedyara has a written history: nine new entries cover the year-count's beginning, the Kingdom of Mahānadi and its dissolution, the highland foundations, the steppe host, the conch-door incursion, the Third Compact and more.
+- Dates across Vedyara now agree: the Mahānadi kingdom lasted about two and a half centuries, and the steppe host, the conch-door incursion and the Third Compact belong to one generation four centuries ago.
+- The janapadas number about six thousand and some eighty-four million people, matching Vedyara's hundred and ten million.
+- Vedyara's sailors serve in Chandrapur's war-fleet, the only standing fleet on the subcontinent.
+
+**Vedyaran coin** — The gold suvarna and silver chandra now weigh what their
+metal is worth, and pass at face abroad. The copper tāmra is token money, good
+at face only where it was struck.
+
+**Vedyara history** — The Kingdom of Mahānadī ruled about four centuries,
+
+- Vedyarans now carry a short calling name beside their long formal name, used by kin and friends and offered rather than taken; the Vedyari culture and language pages explain the custom.
+- Vedyaran characters with long given names list their calling name, so Padmāvali Dhanurvedakīrtirāja is Padmi to her family.
+- A Vedyari word list for players and GMs: some four hundred words grouped by subject, from the monsoon and the passes to the stations, the gods, the dead and the host.
+- The page shows how Vedyari names are put together, so a GM can read a map of Vedyara or name a village, a priest or a clan at the table.
+- A register lists every Vedyari name in the setting, the page where it is met and the words it is made from.
+- The Vedyari language page now explains how its letters are spelled in names and points to the word list.
+- Several Vedyaran names change: the mountain kingdom is Shikharālaya, the ruined capital and the year-count named for it are Madhusthāna, and the orthodox faith is the Triyanga-sampradāya.
+- Vedyaran names are spelled one way on every page, with the macron for a long vowel, as in Mahājaya, Rāsikara and Āchārya.
+- The Vedyari language page's name lists drop the names taken from Earth's gods and places and complete the names that were cut short.
+
+**The compass** — Velanthia and the Grukar lie to the northeast of the Varokh
+forest, and Vylaria lies far to the east, beyond the mountains.
+
+**The Grukar ground** — It thickens and thins rather than drawing a line,
+since the Grukar hold no polity and no border exists to hold.
+
+**The Grukar themselves** — Wholly alien rather than a rival people: no
+trade, envoy, intermarriage or ransom crosses that ground, and a captive
+taken there is eaten rather than held.
+
+**Why they never mass** — Every tribe answers only to its own spawner, so
+Grukar nests never combine into one war, and a breakaway tribe can appear
+deep in Varokh country without crossing any border.
+
+**Vrystwald's frontiers** — Five named reaches now lead from the western ocean to the Vylarian mountains, each with its own neighboring people, trade, and danger.
+
+**Forest journeys** — The Deepwood and river network have their own entries, and the existing villages can be found beneath the ground they occupy.
+
+**The inland sea** — Vrystwald's rivers may reach it through neighboring lands, but the forest has no shore on it.
+
+**The six Vrystwald villages** — Each keeps its own totem animal now, from
+Eichengrund's boar to Waldburg's dove.
+
+**Their governing councils** — Each village note now reads as a place a
+referee can run: which of the three seats that govern a Varokh village
+actually holds sway there, and which two resent it and why.
+
+**Openings** — The homepage and The World of Thalorna open on the Sinalë, the Khazári and the year every people counts differently.
+
+**Places and lore** — The Tz'ikin rivers, the Divine Action heroes and the Nyáluban language note carry concrete detail in place of generic phrasing.
+
+**K'ich'chik names** — The rivers, cities, islands, mountains and marshes of the K'ich'chik lands, the Itzáni underworld and the dawn-and-dusk star of the K'ankul calendar carry names in the Ki'ichek tongue.
+
 ## 0.1.0
 
 ### Minor Changes
