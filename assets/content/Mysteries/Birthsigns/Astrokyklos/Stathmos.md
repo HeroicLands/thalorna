@@ -46,4 +46,4 @@ Stathmos, the Balance, is the sign of the tested body. Its natives are robust an
 | Spirit  | Lore, Mystical            | +5  |
 | Water   | Language, Social          | −5  |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

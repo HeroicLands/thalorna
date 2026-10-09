@@ -46,4 +46,4 @@ Opsar, the Fish, closes the wheel of the year. Its natives are attuned to living
 | Spirit  | Lore, Mystical            | —   |
 | Water   | Language, Social          | +10 |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
