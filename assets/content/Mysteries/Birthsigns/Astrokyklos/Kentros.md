@@ -46,4 +46,4 @@ Kentros, the Goad, drives its children inward toward hidden things. Strong of fr
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | —   |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

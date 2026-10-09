@@ -46,4 +46,4 @@ Tragyx, the Stag, gives an eloquent tongue and a searching mind. Born orators, l
 | Spirit  | Lore, Mystical            | +10 |
 | Water   | Language, Social          | +10 |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].

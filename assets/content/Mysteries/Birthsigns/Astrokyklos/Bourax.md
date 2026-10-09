@@ -46,4 +46,4 @@ Bourax, the Ox, lends steadiness of hand and patience of mind. Its children take
 | Spirit  | Lore, Mystical            | −10 |
 | Water   | Language, Social          | —   |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-note-doc-brthsgn|Birthsign]].
