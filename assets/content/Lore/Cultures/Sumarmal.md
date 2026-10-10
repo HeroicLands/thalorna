@@ -2,7 +2,7 @@
 shortcode: sumarmal
 name: {full: Sumarmál, aliases: []}
 type: lore
-subType: culture
+subType: custom
 description: "The seasonal return of ships, warriors and cattle, with offerings and great assemblies."
 tags: [asguardian]
 ---

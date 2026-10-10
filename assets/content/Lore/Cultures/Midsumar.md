@@ -2,7 +2,7 @@
 shortcode: midsumar
 name: {full: Midsumar, aliases: []}
 type: lore
-subType: culture
+subType: custom
 description: "The summer-solstice festival of coastal bonfires, shared feasts and light."
 tags: [asguardian]
 ---

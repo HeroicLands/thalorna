@@ -2,7 +2,7 @@
 shortcode: geletssn
 name: {full: Gelet, aliases: [The Emergence]}
 type: lore
-subType: culture
+subType: custom
 description: "The season of growing: four months from the flood's retreat to the standing crop"
 tags: [generated]
 data: {packFolder: regkhcult}
