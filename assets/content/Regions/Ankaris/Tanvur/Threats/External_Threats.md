@@ -2,7 +2,7 @@
 shortcode: extrnlthrts
 name: {full: External Threats, aliases: []}
 type: doc
-subType: settingguide
+subType: concept
 tags: [gm]
 data: {packFolder: threats}
 ---

@@ -2,7 +2,7 @@
 shortcode: divineactn
 name: {full: The Truth of Divine Action, aliases: [Divine Action (GM), The Balance]}
 type: doc
-subType: settingguide
+subType: concept
 tags: [religion, theology, metaphysics, gm]
 data: {packFolder: settinglore}
 

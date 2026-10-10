@@ -2,10 +2,10 @@
 shortcode: bethuaadvguide
 name: {full: Bethûa Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Bethûa—the matriarchy, its Houses and its law on men, its water and its fleet, and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: bethuanclt}
 ---
 
 > The ship comes into the bay of Bethûra in the cool of the morning, oars dipping slow, and the water inside the headlands lies flat and green as glass. The whole city faces you as it rises: the quays and the long stone warehouses along the harbor-front, then roofs of red tile climbing the slope among orchards, then the temple roofs at the top, white columns catching the early sun. A breeze off the land brings orange blossom, wet stone and the brine smell of the murex vats, where the dyers' cloth hangs drying in sheets of deep purple. The quay is busy and orderly. Bare-chested men in linen kilts roll oil jars down the gangplanks and stack them without a word wasted, and a woman in a gray mantle walks the line of them with a wax tablet, marking each jar as it passes. Two women of the Spear-Sisterhood stand at the head of the quay in bronze and white linen, spears grounded, watching the porters, not the ships.

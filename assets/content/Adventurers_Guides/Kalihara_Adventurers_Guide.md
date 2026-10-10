@@ -2,10 +2,10 @@
 shortcode: kaliharaadvguide
 name: {full: Kalihara Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Kalihara—the closed island civilization of the custodians, the open ports where foreigners trade, and the ways a campaign begins at the boundary between them.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: kaliharanclt}
 ---
 
 > The pilot came aboard at dawn, a silent Kaliharan who took the helm without asking, and for three hours you watched him thread the ship through water that boiled and slid sideways over reefs you could not see. Now the trade wind drops behind the breakwater and [[place-qasirah|Qasirah]] opens ahead in the full morning light: whitewashed warehouses along the quay, merchant palaces with carved wooden balconies above them, and behind it all the jungle rising green and black to volcanic peaks wrapped in cloud. The air is wet and hot as breath and smells of cloves, tar and low tide. On the quay Vedyari traders in white cotton argue over sacks of cardamom; a Haradian captain with a gold ring in one ear shouts at his crew in two languages; a gem dealer holds a green stone up to the sun and squints. Among them the Kaliharans move more slowly, tall and brown-skinned, in plain wraps dyed leaf-green and rust, watching more than they speak.

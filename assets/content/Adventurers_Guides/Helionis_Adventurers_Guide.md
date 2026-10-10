@@ -2,10 +2,10 @@
 shortcode: helionisadvguide
 name: {full: Heliónis Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the seven city-states of Heliónis—their assemblies, academies, games and gods, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: helioniteclt}
 ---
 
 > The galley rounds the headland at first light, and the oars come in together on a shout from the stern. The bay opens all at once: a great natural harbor between two arms of gray rock, its water so clear in the early sun that you can count the stones on the bottom beside the hull. Masts crowd the waterfront—war-galleys drawn up in their sheds, fat merchantmen, fishing boats nosing in with the night's catch. Above them Pelagora climbs its hill in white walls and red tile, terrace over terrace, with the olive-gray hills behind it and a colonnade along the crest catching the light like a row of teeth. The air is already warm. It smells of pitch, fish, wet rope and woodsmoke from the shipyards, where the adzes have started.

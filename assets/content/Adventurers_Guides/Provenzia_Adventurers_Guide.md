@@ -2,10 +2,10 @@
 shortcode: provenziaadvguide
 name: {full: Provènzia Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Provènzia—its cities and patrons, its blood-fields and its frontier, and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: provenzianclt}
 ---
 
 > The ship comes into Válaren in the full heat of the afternoon, and the light off the harbor is so white that you squint at the city through your fingers. White stone rises from the water in tiers, every gallery shuttered in green or blue against the sun, and the breeze off the Vylarian Sea carries tar, hot dust and the sweetness of fruit going soft in the sun. The quay is loud. Porters argue the weight of a crate in quick, rising voices that sound like a quarrel and end in laughter; a boy runs past with a basket of peaches packed in straw, each one wrapped in its own leaf; a glassblower's runner carries a rack of green goblets on his head and calls a running string of compliments to anyone who steps out of his way. A merchant in a doublet slashed with saffron silk reads a letter under an awning while a clerk at his elbow fans him with a ledger.

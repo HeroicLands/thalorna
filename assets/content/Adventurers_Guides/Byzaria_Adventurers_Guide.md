@@ -2,10 +2,10 @@
 shortcode: byzariaadvguide
 name: {full: Byzarian League Adventurer's Guide, aliases: [Byzaría Adventurer's Guide]}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Byzarian League—its caravan cities, guilds and arbitrators, its marches and monasteries, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: byzarianclt}
 ---
 
 > The road has been dust for six days: pale limestone, red earth, thorn and juniper, and gorges where last winter's streams have shrunk to green pools. Late in the afternoon it tips over a ridge, and the valley below is green. Poplars and planes line the river. Gardens step down to the water in rows of melons and vines. And across the valley floor, wall after wall, stand the caravanserais of Yeşilhan—square fortified inns the size of villages, their gates wide enough for a loaded camel, the domes and arcades of the city rising behind them in the low gold light. The heat goes out of the air as you come down among the trees. You smell water before you see it, then dung, woodsmoke, cumin and something sweeter that turns out to be a cart of incense resin ahead of you in the line.

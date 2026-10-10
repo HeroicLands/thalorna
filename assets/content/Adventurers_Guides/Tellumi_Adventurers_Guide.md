@@ -2,10 +2,10 @@
 shortcode: tellumiadvguide
 name: {full: Tellumi Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Tellumi—the old oasis people at the foot of the Grazian Mountains, their three free oases and four conquered cities, the house records they keep, and the ways a campaign begins among them.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: khazrynclt}
 ---
 
 > You come down to [[place-mehrnagord|Mehrnāgord]] past the salt pans at first light, when the crust underfoot is still cold and the whole dry lake glitters pink and white to the foot of the hills. Ahead the oasis is a dark line of date palms and a mud-brick wall, its lowest courses older and paler than the rest, as though the town had been rebuilt on top of itself many times over. Inside the gate the air is thick with the smell of boiling palm-sugar and wet clay. Salt-cutters stack gray blocks on a donkey's panniers. Two gardeners argue over a sluice in low, exact voices, each holding a clay tablet. At the spring a young mother in a saffron shawl lifts a swaddled baby before a small shrine, and the old woman beside her sprinkles water on its forehead from a copper bowl. Nobody hurries, and nobody raises a voice.

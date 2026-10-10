@@ -2,10 +2,10 @@
 shortcode: nyalubaadvguide
 name: {full: Nyáluba Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Nyáluba—five clan-nations of the Southern Savannahs bound by the Long Pact, the drums, the griots and the spirits.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: nyalubaclt}
 ---
 
 > The baobab comes into sight long before the town does: a gray trunk as wide as a house, its bare branches spread against a white dry-season sky like roots turned upward. By the time you reach its shade the heat has pressed the color out of everything but the red dust on your legs. Round the tree spreads a market. A tall Mvuzi herder with a single lion's tooth on a thong at his throat leans on his staff beside a knot of cattle, debating the price of a heifer in long, unhurried sentences. A woman whose hair is braided close in a pattern of lines and knots sets out baskets of sorghum. Kambezi fishermen from the eastern wetlands have spread papyrus mats with smoked fish and gray cakes of salt; a Sengala trader in a cloth of northern blue lays out iron hoe-blades and glass beads, and a quiet Ngonzi smith keeps his small gold ornaments wrapped until a buyer asks. From somewhere beyond the grass comes the sound of a drum, rising and falling in phrases like speech, and from nearer a second drum answers it.

@@ -2,10 +2,10 @@
 shortcode: khazariadvguide
 name: {full: Khazári Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Khazári, the elder people of the cliff-face holds—what a party meets at a hold's gate, how a hold lives and judges, what it remembers, and the ways a campaign reaches it.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: khazariclt}
 ---
 
 > The mule track has climbed since before dawn, and now the sun clears the eastern ridge and lays a hard white light across the mountain's western face. The air is thin and cold enough to sting your teeth; frost still furs the thorn scrub in the shadows. Ahead there is only cliff—gray limestone streaked with rust and black where water runs, a few dark hollows, ledges crusted with lichen. Then a hollow puts out a thread of smoke that spreads flat along the rock and vanishes, and you see that the ledge under it is a sill, and the hollow a window, and the stain a flue. Your eyes go up the face and find another, and another, dozens of openings shaped to the rock's own cracks, until the whole cliff becomes a city looking down at you.

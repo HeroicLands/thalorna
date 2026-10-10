@@ -2,10 +2,10 @@
 shortcode: tarveniaadvguide
 name: {full: Tarvénia Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Tarvénia—its kingdoms and free city, its mercenary companies and the public word, and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: tarvenanclt}
 ---
 
 > It is barely past dawn in Valthári and already hot. The sun comes off the sea in a hard gold bar and lies along the harbor wall, and the stones of the quay are warm through the soles of your boots. Wine casks stand in ranks waiting for the lighters, oil jars sweat in the shade of a warehouse built of gray stone bound with black iron, and the whole waterfront smells of tar, olive pressings and fish frying in a cookshop doorway. Somewhere behind the customs house a crossbow string slaps, then another, and a man counts the hits aloud. Valthári talks loudly and all at once: a Haradi factor bargains in two tongues, a woman in a black headscarf calls numbers to a clerk from a ledger she will not let him hold, and three young men in patched brigandines sit on an upturned boat oiling their swords and arguing about a contract they have not yet signed.

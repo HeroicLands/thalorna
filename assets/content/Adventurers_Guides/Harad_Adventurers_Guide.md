@@ -2,10 +2,10 @@
 shortcode: haradadvguide
 name: {full: Harad Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the island city-states of the Confederation of Haradian States—their harbors, houses, guilds and quarrels, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: haradianclt}
 ---
 
 > Late in the afternoon your ship clears the last breakwater, and Tamavar opens across the water all at once. The Grand Harbor is a deep blue bowl ringed by fortified islands and crowded with hulls at anchor, their furled sails gone amber in the low sun. The sea breeze cools the sweat at your collar, but the quay stones still give back the day's heat through your boots. Along the waterfront the Guild Quarter stands in a row of marble faces—warehouses, counting houses, guild halls with bronze doors—and behind it the old city climbs in a jumble of tile roofs, washing lines and the domed roofs of covered bazaars. The air smells of tar, roasting coffee, cumin and fish laid out on wet stone. On the northern arm of the harbor, shipwrights' mallets keep time; in a dry-dock by the water a captured Vylarian warship sits on her keel blocks with her gilded stern flaking, and boys climb her props.

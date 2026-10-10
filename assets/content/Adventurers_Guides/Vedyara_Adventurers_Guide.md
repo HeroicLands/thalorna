@@ -2,10 +2,10 @@
 shortcode: vedyaraadventurersguide
 name: {full: Vedyara Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to Vedyara's lands, peoples, institutions, faiths, and ways into adventure.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: vedyariclt}
 ---
 
 > At first light, the air in the northern pass stings your nose. Pine smoke curls above a shrine built low into the rock: a walled court and a hall where travelers crowd in from the cold. Below, the stone walls of Sūryagarha close across the gorge. Beyond them, rice terraces catch the sun one green step at a time.

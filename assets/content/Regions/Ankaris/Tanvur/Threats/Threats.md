@@ -2,7 +2,7 @@
 shortcode: threats
 name: {full: Threats, aliases: []}
 type: doc
-subType: settingguide
+subType: concept
 tags: [gm]
 data: {packFolder: threats}
 ---

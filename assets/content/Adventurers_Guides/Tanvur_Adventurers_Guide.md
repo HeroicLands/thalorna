@@ -2,10 +2,10 @@
 shortcode: tanvuradvguide
 name: {full: Tānvür Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Empire of Tānvür—its eight castes, its celestial bureaucracy, the foreigner's place outside the sorted world, and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: tanvuriclt}
 ---
 
 > The escort met your party at the col, exactly there and not a step sooner, and for two days the soldiers have walked ahead of you in silence down a road of fitted stone. On the third evening the way-station rises out of the pines: a walled court of gray brick with green-glazed tiles on its roofs and red-lacquered gates, the last light catching on a bronze bell hung under the eaves. Inside the gate everything happens in order. Porters in undyed hemp set your bales down in a chalked square and step back from them. A soldier in lacquered scale checks a wooden tablet on a cord at a passing groom's belt, turns it over to the seal, and hands it back without a word. Through an open screen you see a long room of low desks, where clerks in dark blue robes write in columns with fine brushes, and you smell ink, pine smoke and steamed millet. No one raises a voice. Your [[affiliation-hvarnguides|Hvarn]] guides, who will not come a step farther, are already being fed at a separate table.

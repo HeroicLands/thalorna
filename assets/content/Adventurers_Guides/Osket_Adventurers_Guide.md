@@ -2,10 +2,10 @@
 shortcode: osketadvguide
 name: {full: Ösket Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Ösket—the hereditary guide-lineages who hold the western and central crossings of the Grazian wall and the one road nobody else can find.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: osketclt}
 ---
 
 > You reach [[place-oskhelt|Öskhelt]] on the fourth morning of the climb from [[place-suryagarha|Sūryagarha]], so high that the air is thin as water and the sun burns your face while your fingers stay numb. The village is stacked up the south-facing slope like a flight of gray steps: stone houses roofed in slate and green turf, each one sharing a wall with the next, yaks lowing and shifting in the dark beast-floors beneath the living-floors. It is market season, and the slope is loud with it. Smiths work three deep at the forges, hammering shoes onto yak hooves in showers of orange sparks. Caravan-masters from the lowlands, bundled in quilted cotton, squat in the open across from Ösket men in heavy felt who listen, say little and never hurry. A boy shifts bales from a mule onto a yak, two to a side, and his father reties every knot after him without a word. The smell is of dung smoke, hot iron and butter tea.

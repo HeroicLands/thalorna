@@ -2,10 +2,10 @@
 shortcode: dunharaadvguide
 name: {full: Dunhara Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Dunhari tribes of the open desert—salt, feud, poets, storm-readers, and the ways a campaign begins among them.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: dunhariclt}
 ---
 
 > The caravan comes into [[place-dunashir|Dûn Ashir]] an hour before dusk, when the heat lets go of the sand and the dunes to the south turn the color of an old copper pot. Palms crowd a hollow in the gravel plain, and the air under them is cool enough to make you shiver; it smells of wet earth, dung smoke and crushed dates. Black goat-hair tents run out from the water in long rows. Camels kneel and complain while boys haul dripping leather buckets up from the well. A woman in an indigo veil weighs a bolt of red wool against a sack of salt; a herder with sun-cracked hands drives goats through the press; a broad-shouldered warrior with a strip of deep-blue leather bound round his left arm watches the newcomers without seeming to. Behind the tents a man is reciting verse, and everyone within earshot has stopped talking to hear it.

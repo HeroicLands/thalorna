@@ -2,10 +2,10 @@
 shortcode: aelwythadvguide
 name: {full: Aelwyth Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Aelwyth—the island's four realms, the Synod's harbor, the fae country and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: aelwythanclt}
 ---
 
 > Dawn on the crossing is gray, and it stays gray. Fog lies on the water so thick that the ship's lantern makes a yellow room around the bow and nothing more; the deck is slick, the rigging drips, and the cold works through your cloak to the skin. Then the fog thins, and a brown moor rises out of it, heather and black peat cut in steps, and below it the sheltered anchorage of Ravenmoor. Stone houses roofed in gray slate crowd the slope, peat smoke lies flat over the chimneys, and gulls scream over a fishing boat unloading herring in silver baskets. Nobody on the quay is in a hurry. A cooper hoops a barrel with slow taps of his mallet, two women in dun shawls mend a net between them, and a line of ships rides at anchor waiting its turn: Aldorathi cogs riding low under bales of fleece, and a Tarvennese trader with a red mantle painted on her stern.

@@ -2,10 +2,10 @@
 shortcode: vylariaadvguide
 name: {full: Vylaria Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Vylarian Empire—Magnápolis, the four provinces, the legions, the Ordo Arcanis, the citizenship, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: vylarianclt}
 ---
 
 > The grain ship noses in to the Wharves an hour after dawn, and Magnápolis rises over you in tiers. Six hills of white marble, red tile and gilded bronze climb from the river, and the low sun sets the domes on the highest of them burning gold. Along the great avenue on the far slope the night's lamps still glow, cold and blue against the daylight, though no flame burns in them. The air is mild and already warm on your face. It smells of river mud and tar, of brine and gutted fish from the market sheds, of hot bread, and of the woodsmoke of a hundred thousand hearths.

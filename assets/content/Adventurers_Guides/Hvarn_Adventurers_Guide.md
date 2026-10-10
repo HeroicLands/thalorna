@@ -2,10 +2,10 @@
 shortcode: hvarnadvguide
 name: {full: Hvarn Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Hvarn—the drovers who keep the two eastern crossings of the Grazian wall, winter under one roof, and go down for their dead.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: hvarnclt}
 ---
 
 > You climb the last of the head-valley into [[place-nurvhrn|Nürvhrn]] in the blue hour after sunset, with the first hard frost squeaking under your boots and your breath freezing in your scarf. There is no village to see, only a long low hump of turf, white with old snow, running across the valley floor like a sleeping animal. Smoke leaks from a dozen holes along its back. A door of bound planks opens and lets out heat, the smell of yak butter and wet wool, and a roar of voices. Inside, the long house runs away from you into firelit dimness: hearth after hearth along a packed-earth floor swept clean as a table, children asleep in heaps of hides, a girl working grease into a coil of rope, two old men bent over a broken pack-saddle, a woman stirring a pot and arguing with three people at once without looking up from it. Nobody here has a room of their own, and nobody seems to want one.
