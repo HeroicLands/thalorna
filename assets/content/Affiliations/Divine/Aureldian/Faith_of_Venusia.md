@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Prosperity."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: venusia
   templatePriority: null

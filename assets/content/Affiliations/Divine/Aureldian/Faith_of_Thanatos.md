@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Death."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: thanatos
   templatePriority: null

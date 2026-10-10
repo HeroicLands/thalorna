@@ -6,6 +6,7 @@ subType: region
 description: The western heartland of the Aurèldían faith—a mosaic of kingdoms, city-states, and island realms bound by the Twelve rather than by crown.
 tags: [region, aureldia]
 data:
+  culture: aureldianclt
   icon: null
   demonym: Aurèldían
   lore: [humanflk, grukarfolk, flksinale, flkkhazar]

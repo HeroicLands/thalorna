@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Order."
 tags: [aureldian, religion, janus]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: janus
   templatePriority: null

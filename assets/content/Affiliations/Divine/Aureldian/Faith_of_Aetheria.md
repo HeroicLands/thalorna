@@ -8,6 +8,7 @@ subType: faithtradition
 description: "Dreams."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: aetheria
   templatePriority: null

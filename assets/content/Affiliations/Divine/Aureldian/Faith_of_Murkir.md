@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Voyages."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: murkir
   templatePriority: null

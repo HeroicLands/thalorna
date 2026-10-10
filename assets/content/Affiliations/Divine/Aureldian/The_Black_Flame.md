@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Fire (destructive aspect)."
 tags: [aureldian, religion, black-flame]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: blackflame
   templatePriority: null

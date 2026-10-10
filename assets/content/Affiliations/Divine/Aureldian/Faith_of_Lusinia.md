@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Creation."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: lusinia
   templatePriority: null
