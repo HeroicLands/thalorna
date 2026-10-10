@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The sea-facing Sinalë enclave of the western deep forest—older and far more withdrawn than the mountain enclaves, and the one no Áelendan will guide anyone to."
 tags: [village, woodland, coastal]
-data: {demonym: null, lore: [flksinale], parents: [glanmor], population: 90, packFolder: elavendre}
+data:
+  demonym: null
+  lore: [flksinale]
+  parents: [glanmor]
+  population: 90
+  packFolder: elavendre
+  culture: sinaleclt
 ---
 
 **Serenthalë**, as it is called in [[skill-elvndrlng|Élavendri]], stands in the old forest of [[place-glanmor|Glanmor]], somewhere in the country between

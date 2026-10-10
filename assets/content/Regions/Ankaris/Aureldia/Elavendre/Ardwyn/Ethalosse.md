@@ -11,6 +11,7 @@ data:
   parents: [alndntrblnds]
   population: 70
   packFolder: elavendre
+  culture: sinaleclt
 ---
 
 **Ethalossë**, as it is called in [[skill-elvndrlng|Élavendri]], sits at the eastern margin of the [[place-alndntrblnds|Áelendan Tribal Lands]], where the

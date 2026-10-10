@@ -11,6 +11,7 @@ data:
   parents: [silvrfrsts]
   population: 120
   packFolder: elavendre
+  culture: sinaleclt
 ---
 
 **Aelirossë**, as it is called in [[skill-elvndrlng|Élavendri]], lies deep in the [[place-silvrfrsts|Silver Forests]], within the
