@@ -6,6 +6,7 @@ subType: settlement
 description: "The western Ösket village between the storm-door and the sixth road—herders who take two caravans a year and keep something worth a great deal more."
 tags: [village, caravan, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

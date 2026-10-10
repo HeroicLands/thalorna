@@ -6,6 +6,7 @@ subType: site
 description: "The easternmost cosmic source, under the shoulder of the Eastern Reach—the spring of the Bhārava, and the one the hostel-network was built for."
 tags: [sacred, pilgrimage, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

@@ -6,6 +6,7 @@ subType: polity
 description: The guide-people of the Eastern Reach—fewer, poorer and better connected than the Ösket, keeping the two eastern crossings and supplying the one fort on the wall.
 tags: []
 data:
+  culture: hvarnclt
   templatePriority: null
   demonym: Hvarn
   epithet: null

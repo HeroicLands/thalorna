@@ -6,6 +6,7 @@ subType: feature
 description: "The storm-peak above Meghadvāra, where the monsoon cloud piles against the wall and decides how long the western door stays open."
 tags: [mountain, sacred, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

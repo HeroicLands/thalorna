@@ -5,7 +5,13 @@ type: place
 subType: structure
 description: "The Shaper's temple at the head of the Sarvada—rebuilt on the same footing eleven times, each time within one open season, and keeping the nine-hundred-year melt record of the wall."
 tags: [sacred, pilgrimage, mountain]
-data: {demonym: null, lore: [], parents: [sarvaprbhv], population: null, packFolder: vedyara}
+data:
+  culture: osketclt
+  demonym: null
+  lore: []
+  parents: [sarvaprbhv]
+  population: null
+  packFolder: vedyara
 ---
 
 The [[lore-vyalendradty|Vyālendra]] source-temple is taken down and rebuilt every century or two, and the priests who do the work are the men who live in it.

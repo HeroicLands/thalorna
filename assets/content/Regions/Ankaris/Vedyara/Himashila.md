@@ -6,6 +6,7 @@ subType: site
 description: "The slab at the head of the Chandramahī's source—gray, warm, giving under a thumb, unmarked by anything the ice or the temple has done to it in four hundred years."
 tags: [sacred, strange, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

@@ -6,6 +6,7 @@ subType: site
 description: "The source of the Mahānadī—the widest of the four glacier-mouths, the easiest to reach, and the one the great pilgrimage actually goes to."
 tags: [sacred, pilgrimage, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

@@ -6,6 +6,7 @@ subType: feature
 description: "The greatest of the northern passes—the road under Sūryagarha that forks beyond the throat for the Khazryn and for Tānvür, and the one crossing a caravan can plan a year around."
 tags: [pass, caravan, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

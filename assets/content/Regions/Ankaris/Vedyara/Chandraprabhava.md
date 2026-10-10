@@ -6,6 +6,7 @@ subType: site
 description: "The glacier-spring under Sūryashikhara where the Chandramahī begins—the first of the four cosmic sources, and the one that does not freeze."
 tags: [sacred, pilgrimage, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]
