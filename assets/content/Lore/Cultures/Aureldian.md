@@ -68,7 +68,7 @@ Six peoples share the Aureldian culture. Each is a culture in its own right, and
 - [[lore-vylarianclt|Vylarian]]: the people of the Empire of Vylaria.
 - [[lore-elavendriclt|Élavendri]]: the people of Élavendre.
 - Calypsan: the people of [[affiliation-calypsa|Calypsa]], a free port city on a small island off Élavendre's northern coast. They have no culture note of their own.
-- [[lore-aelwythanclt|Aelwythan]]: the people of the island of Aelwyth. They are one people in three realms, [[place-aldorathrgn|Aldorath]], [[affiliation-kingdmdnvr|Dunavarre]] and [[place-tarvenne|Tarvenne]], who share essentially one culture and are governed differently: Aldorath is a [[affiliation-kngdmldrth|feudal monarchy]] advised by a council of barons, Dunavarre is ruled directly by a synod of Ordo Arcanis mages, and Tarvenne is a [[affiliation-repblctrvn|senatorial republic]]. The realms share no political order.
+- [[lore-aelwythanclt|Aelwythan]]: the people of the island of Aelwyth. They are one people in three realms, [[place-aldorathrgn|Aldorath]], [[affiliation-kingdmdnvr|Dúnavarre]] and [[place-tarvenne|Tarvenne]], who share essentially one culture and are governed differently: Aldorath is a [[affiliation-kngdmldrth|feudal monarchy]] advised by a council of barons, Dúnavarre is ruled directly by a synod of Ordo Arcanis mages, and Tarvenne is a [[affiliation-repblctrvn|senatorial republic]]. The realms share no political order.
 - [[lore-tarvenanclt|Tarvénan]]: the people of Tarvénia.
 - [[lore-provenzianclt|Provenzian]]: the people of Provènzia.
 
