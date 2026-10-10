@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "A liminal and faintly shunned quarter of Galezkara by the necropolis-ferry, where the trades that handle the dead keep their houses"
 tags: [generated]
-data: {packFolder: regkhsett}
+data: {packFolder: regkhsett, culture: khelathiclt}
 ---
 
 "I carry them across, and they carry the dead down to me," says the ferryman at the necropolis landing, nodding at the lanes behind him. "Both of us are paid for it, and neither of us is invited to dinner."

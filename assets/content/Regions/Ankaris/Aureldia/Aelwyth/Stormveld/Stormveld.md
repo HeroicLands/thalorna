@@ -12,6 +12,7 @@ data:
   population: 150000
   packFolder: aelwyth
   government: jrldmstrmvld
+  culture: nordheimnclt
 
 # terran_analog: "Northeastern Scotland—the fjord-cut Highland coast (Caithness, Sutherland, Orkney-and-Shetland-analog islands). The northeastern tip of the eastern arm of the inverted-V Aelwythan island."
 ---

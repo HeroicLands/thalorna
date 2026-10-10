@@ -11,6 +11,7 @@ data:
   population: 3500000
   packFolder: tarvenia
   government: kingdmtrvn
+  culture: tarvenanclt
 
 # terran_analog: "The bulk of Spain (including Andorra) and southeastern France up to the southern Alps—a peninsular patchwork of feudal kingdoms, free cities, and contested mountain marches between the Aurèldían west and the Vylarian east."
 ---

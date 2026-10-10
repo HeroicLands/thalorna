@@ -11,6 +11,7 @@ data:
   population: 5000000
   packFolder: provenzia
   government: kngdmprvnz
+  culture: provenzianclt
 
 # terran_analog: "Southwestern France, the Atlantic coast of Spain, and all of Portugal—the southwestern Aurèldían sphere of vineyards and river-mouth ports along the Atlantic seaboard."
 ---

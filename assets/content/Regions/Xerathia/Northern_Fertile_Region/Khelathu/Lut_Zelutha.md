@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "An ancient sanctuary hidden deep in the sands of Lareshu, where the astrologers' road is held to end"
 tags: [generated]
-data: {packFolder: regkhsite}
+data: {packFolder: regkhsite, culture: khelathiclt}
 ---
 
 Astrologers tell the story of **Lut-Zelutha** the way a teacher tells a lesson whose last page is missing. An ancient sanctuary, the **Temple of the Eternal Heavens**, lies hidden deep in the sands of [[place-lareshu|Lareshu]], and a certain prophecy points to it. What is kept there is supposed to be the last of a sequence of clues: the thing that says whether what the stars foretold can be stopped, or only survived.

@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "A waste of deep sand beyond the settled country, holding a site the astrologers' road ends at"
 tags: [generated]
-data: {packFolder: regkhregn}
+data: {packFolder: regkhregn, culture: khelathiclt}
 ---
 
 **Lareshu** is a waste of deep sand beyond the settled country, crossed by nobody who has a choice and by few who have an errand. The canals and cisterns of the valley carry water a little way into the dry country; they do not carry it here.

@@ -19,6 +19,7 @@ data:
     - {to: falkhaven, bearing: W, mode: land, days: 30, terrain: [forest]}
     - {to: vandstein, bearing: SE, mode: land, days: 20, terrain: [forest, mountains]}
   packFolder: vrystwald
+  culture: varokhiclt
 
 # terran_analog: "A forest-and-river frontier between the northwestern kingdoms and the eastern grain belt. The Visigoths."
 ---
