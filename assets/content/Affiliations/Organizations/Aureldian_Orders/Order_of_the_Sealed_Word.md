@@ -8,6 +8,7 @@ subType: order
 description: "Sworn knightly enforcers of binding oaths and contracts under Árdavon—answering when civil law fails to compel the oath-breaker who once swore the binding word."
 tags: [organization, aureldia, fighting-order, janus, oath]
 data:
+  culture: aureldianclt
   templatePriority: null
   demonym: null
   epithet: null

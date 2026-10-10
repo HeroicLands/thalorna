@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Decay."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: morvana
   templatePriority: null

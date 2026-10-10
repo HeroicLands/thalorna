@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Chaos."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: karnavos
   templatePriority: null

@@ -8,6 +8,7 @@ subType: order
 description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Árdavon's two faces, one for what was sworn and one for what comes after the breach."
 tags: [organization, aureldia, fighting-order, janus, thresholds]
 data:
+  culture: aureldianclt
   templatePriority: null
   demonym: null
   epithet: null

@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Storms."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: taranon
   templatePriority: null
