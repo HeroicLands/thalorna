@@ -18,6 +18,7 @@ data:
   population: 19000000
   packFolder: regkhregn
   government: empireakhlth
+  culture: khelathiclt
 ---
 
 ## Overview

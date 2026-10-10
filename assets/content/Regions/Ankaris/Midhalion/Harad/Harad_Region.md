@@ -12,6 +12,7 @@ data:
   parents: [midhalnrgn]
   population: 12000000
   packFolder: harad
+  culture: haradianclt
 
 # terran_analog: ""
 ---

@@ -16,6 +16,7 @@ data:
   population: 24000000
   packFolder: vylaria
   government: vylarinmpr
+  culture: vylarianclt
 ---
 
 ## Overview

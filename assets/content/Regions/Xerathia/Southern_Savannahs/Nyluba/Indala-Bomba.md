@@ -11,6 +11,7 @@ data:
   parents: [sthrnsvnhs]
   population: 0
   packFolder: southernsavannahs
+  culture: nyalubaclt
 ---
 
 ## Overview

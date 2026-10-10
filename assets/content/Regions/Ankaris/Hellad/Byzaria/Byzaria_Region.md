@@ -13,6 +13,7 @@ data:
   population: 8000000
   packFolder: byzaria
   government: byzarianlg
+  culture: byzarianclt
 
 # terran_analog: Classical Anatolia (philosophical city-states and crossroads)
 ---

@@ -14,6 +14,7 @@ data:
   population: 3000000
   packFolder: bethua
   government: mtrrchybth
+  culture: bethuanclt
 ---
 
 ## Overview

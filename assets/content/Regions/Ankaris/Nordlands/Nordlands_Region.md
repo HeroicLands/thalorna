@@ -17,6 +17,7 @@ data:
     - {to: velanthrgn, bearing: SE}
   population: 2000000
   packFolder: nordlands
+  culture: nordheimnclt
 
 # terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland—the great northern temperate-and-boreal belt of kingdoms."
 ---

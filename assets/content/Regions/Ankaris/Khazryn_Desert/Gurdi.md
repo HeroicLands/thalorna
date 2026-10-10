@@ -5,7 +5,13 @@ type: place
 subType: site
 description: "A labyrinth of cut passages climbing into the Grazian Mountains from the foot of the north face, which the Tellumi hold to be the road their ancestors came down."
 tags: []
-data: {demonym: null, lore: [], parents: [graznmntns], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [graznmntns]
+  population: 0
+  packFolder: khazryndesert
+  culture: khazrynclt
 ---
 
 ## Overview

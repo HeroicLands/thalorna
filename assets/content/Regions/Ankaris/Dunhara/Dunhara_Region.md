@@ -19,6 +19,7 @@ data:
     - {to: vylarianse, bearing: W}
   population: 3000000
   packFolder: dunhara
+  culture: dunhariclt
 
 # terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---

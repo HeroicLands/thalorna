@@ -23,6 +23,7 @@ data:
   population: 3000000
   packFolder: khazryndesert
   government: null
+  culture: khazrynclt
 
 # terran_analog: "Central Asia in the broadest sense—Siberia, Mongolia, Kazakhstan, Uzbekistan, Tajikistan, Kyrgyzstan, and the Gobi. The Persianate oasis-belt along the southern mountains (Uzbek/Tajik analog) is held by the Tellumi and the Ātárzád; the northern taiga is the Siberian analog; the steppe and the stone desert are home to Turkic and Mongolic horse-nomad tribes and their short-lived empires."
 ---
