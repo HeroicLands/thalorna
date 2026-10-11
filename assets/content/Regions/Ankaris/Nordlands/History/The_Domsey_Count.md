@@ -77,15 +77,17 @@ A date is written as the night and the turn, then the count year and its age: th
 
 The skalds divide the count into ages, each named for what the north did in it, and a Nordman who cannot give a year can usually give the age. The ages are the Circle's teaching, not a law, and the kingdoms argue about where one ends and the next begins.
 
-| Age                       | Written | Count years                  | Vylarian years     |
-| ------------------------- | ------- | ---------------------------- | ------------------ |
-| Before the Sittings       | BS      | counted back from 1 BS       | 286 AF and earlier |
-| The Five Crowns           | FC      | 1 to 133                     | 287 to 419         |
-| The Kin-Wars              | KW      | 134 to 225                   | 420 to 511         |
-| The Hunger and the Fleets | HF      | 226 to 288                   | 512 to 574         |
-| The Burned Ground         | BG      | 289 to 373                   | 575 to 659         |
-| The Stormveld Generation  | SG      | 374 to 414                   | 660 to 700         |
-| The Present Reckoning     | PR      | from 415; the present is 434 | 701 to the present |
+| Age                       | Written | Its years (count)       | Vylarian years     |
+| ------------------------- | ------- | ----------------------- | ------------------ |
+| Before the Sittings       | BS      | counted back from 1 BS  | 286 AF and earlier |
+| The Five Crowns           | FC      | 1 to 134                | 287 to 420         |
+| The Kin-Wars              | KW      | 134 to 226              | 420 to 512         |
+| The Hunger and the Fleets | HF      | 226 to 289              | 512 to 575         |
+| The Burned Ground         | BG      | 289 to 374              | 575 to 660         |
+| The Stormveld Generation  | SG      | 374 to 415              | 660 to 701         |
+| The Present Reckoning     | PR      | 415 to the present, 434 | 701 to the present |
+
+An age shares its last year with the first year of the next, and the shared year is entered under the age it opens: year 134 is the first of the Kin-Wars.
 
 ### Before the Sittings
 

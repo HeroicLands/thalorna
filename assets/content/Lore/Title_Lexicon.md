@@ -78,7 +78,7 @@ SELECT min(lr.address.slug)                   AS _ref,
        p.people                                AS _section,
        r.title                                 AS "Title",
        r.level                                 AS "Level",
-       string_agg(DISTINCT p.name.full, ' · ') AS "Polities",
+       string_agg(DISTINCT p.name.full, ' · ' ORDER BY p.name.full) AS "Polities",
        coalesce(
            nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
            r.description
@@ -114,7 +114,7 @@ SELECT min(lr.address.slug)                   AS _ref,
        t.tradition                             AS _section,
        r.title                                 AS "Title",
        r.level                                 AS "Level",
-       string_agg(DISTINCT t.name.full, ' · ') AS "Bodies",
+       string_agg(DISTINCT t.name.full, ' · ' ORDER BY t.name.full) AS "Bodies",
        coalesce(
            nullif(regexp_extract(r.description, '^(.*?[.!?])(\s|$)', 1), ''),
            r.description

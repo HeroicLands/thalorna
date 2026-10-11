@@ -63,7 +63,7 @@ The House exists because you cannot ward what you cannot describe. Every seal, t
 
 The Warden of the Treatises holds the sealed accounts of Azu'âthis—his nature, his manifestations, his methods of attack—and decides who may read them. The **Reader of Broken Work** is called to a working that has failed or been tampered with, to determine which of its forms is live, which is bluff and which has been turned. The **Second of the Watch** is a practitioner seconded from another House for a term, who returns to it afterward and is thereafter watched for life.
 
-A seconded practitioner is also counted stained. The Purifier of [[affiliation-garathenuqa|Gar-Athen'Uqa]] conducts the cleansing.
+A seconded practitioner is also counted stained. The Purifier of [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] conducts the cleansing.
 
 ## See Also
 

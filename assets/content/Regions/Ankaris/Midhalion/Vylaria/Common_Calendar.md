@@ -1,9 +1,9 @@
 ---
 shortcode: commoncal
-name: {full: The Common Calendar, aliases: [Common Calendar, Vylarian Reckoning]}
+name: {full: The Vylarian Calendar, aliases: [Vylarian Reckoning]}
 type: lore
 subType: calendar
-description: "The Vylarian Common Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
+description: "The Vylarian Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
 tags: [reference, calendar]
 data:
   epoch: "1.1"
@@ -50,9 +50,9 @@ data:
   packFolder: vylaria
 ---
 
-A temple calendar-keeper teaches a novice the Common Calendar in one afternoon, and starts with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
+A temple calendar-keeper teaches a novice the Vylarian Calendar in one afternoon, and starts with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
 
-The **Common Calendar** counts twelve months from Floralis to Janar, running thirty and thirty-one days by turns and breaking that turn once, where Venuris and Karnavar both run thirty. The twelve sum to a full solar year. Floralis opens on the vernal equinox, and the calendar's own name for that day is **1 Floralis**.
+The **Vylarian Calendar** counts twelve months from Floralis to Janar, running thirty and thirty-one days by turns and breaking that turn once, where Venuris and Karnavar both run thirty. The twelve sum to a full solar year. Floralis opens on the vernal equinox, and the calendar's own name for that day is **1 Floralis**.
 
 Four days in the year are fixed and never move: the vernal equinox on **1 Floralis**, the summer solstice on **1 Vulcar**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 Thanaris**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
 
@@ -62,7 +62,7 @@ Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vyla
 
 ## Who Keeps It
 
-The Common Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vylarian Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
 Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] reckon from the [[lore-qettelgu|Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent dating systems of their own.
 

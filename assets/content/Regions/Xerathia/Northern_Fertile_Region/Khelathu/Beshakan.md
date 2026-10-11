@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [aukhelathrgq], population: 0, packFold
 
 ## Overview
 
-Beshakan is desert, and the astrologers of [[place-aukhelathrgq|Aû'Khelâthu]] count its deep reaches among the sacred places of their craft. Forgotten ruins stand there with star maps carved into their stones by the earliest astronomers of the empire, and an astrologer who wants to see the sky as they recorded it goes deep into Beshakan to read them.
+Beshakan is desert, and the astrologers of [[place-aukhelathrgq|Aû'Khelâthu]] count its deep reaches among the sacred places of their craft. Forgotten ruins stand there with star maps carved into their stones by the earliest astronomers of the empire in the age of [[lore-akhfirsttab|the First Tablets]], and an astrologer who wants to see the sky as they recorded it goes deep into Beshakan to read them.
 
 ## The Pilgrim's Road
 

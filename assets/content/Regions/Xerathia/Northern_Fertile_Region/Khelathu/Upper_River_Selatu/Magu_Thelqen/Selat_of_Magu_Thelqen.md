@@ -1,6 +1,6 @@
 ---
 shortcode: selatmaguthn
-name: {full: The Selat of Magu-Athen, aliases: []}
+name: {full: The Selat of Magu-Thelqen, aliases: []}
 type: affiliation
 subType: polity
 description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited—one of the upper-river selatu of Aû'Khelâthu."
@@ -78,21 +78,21 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 "The streets were laid for more people than we are, so we use the half that has roofs," a Legha'lutu whose estate runs up to the edge of the empty quarter tells a visitor from the capital.
 
-The **Selat of Magu-Athen** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 300,000 people live on its land, [[place-maguathenslt|Magu-Athen Selat]]. It is a planned temple-city of one zealous dynasty, half-abandoned and still inhabited. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
+The **Selat of Magu-Thelqen** is one of the eighteen [[affiliation-upperrivrslt|Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], and about 300,000 people live on its land, [[place-maguathenslt|Magu-Thelqen Selat]]. It is a planned temple-city of one zealous dynasty, half-abandoned and still inhabited. The patron is [[affiliation-uqaa|Faith of Uqa'â]], the god of the sun, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in [[place-maguathen|Magu-Athen]] those estates carry the weight the empty city cannot. The seat is [[place-maguathen|Magu-Athen]], where the Halzi'a keeps his court and the chief temple of [[lore-uqaadty|Uqa'â]] stands.
+The estates are the working part of the selat. The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] governs through the Legha'lutu who rule them, each answerable to him for the manor, the fields and the village that belong to it, and in [[place-maguathen|Magu-Thelqen]] those estates carry the weight the empty city cannot. The city is the work of the house of Thelqen'Rêlu, the house of the sun, and it emptied when the temples of Qe'âret and Reth'Sa'âr refused the house's doctrine and the court went home to Galezkara ([[lore-sunhouse|the Sun-House at Magu-Thelqen]]). The seat is [[place-maguathen|Magu-Thelqen]], where the Halzi'a keeps his court and the chief temple of [[lore-uqaadty|Uqa'â]] stands.
 
 ## Commerce and Currency
 
-Magu-Athen uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
+Magu-Thelqen uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], and the [[affiliation-garhalzi|Gár-Hálzi]] chapter at the chief temple attests the weight-pieces and holds the granary accounts. See [[lore-aukhlthcrncy|Aû'Khelâthu Currency]] for the full system.
 
 ## See Also
 
 - [[affiliation-upperrivrslt|The Upper River Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
-- [[place-maguathen|Magu-Athen]]—Selat capital
+- [[place-maguathen|Magu-Thelqen]]—Selat capital
 - [[affiliation-uqaa|Faith of Uqa'â]]—Patron cult
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
-- [[place-maguathenslt|Magu-Athen Selat]]—The land the selat holds
+- [[place-maguathenslt|Magu-Thelqen Selat]]—The land the selat holds

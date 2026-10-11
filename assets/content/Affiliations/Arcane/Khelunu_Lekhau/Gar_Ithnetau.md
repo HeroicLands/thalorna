@@ -65,7 +65,7 @@ The **Keeper of the Twelve Hours** holds the litany by which a soul is guided th
 
 The **Reader of the Sealed Work** is the only office permitted to open a sealed chamber to correct a failed binding, and must reseal it the same night.
 
-The House is the second half of the circuit [[affiliation-garathenuqa|Gar-Athen'Uqa]] begins. [[lore-ithnetau|Ithnetáu]] is the dead, passage, gates, resurrection and the night, and the tradition holds the two as a single road.
+The House is the second half of the circuit [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] begins. [[lore-ithnetau|Ithnetáu]] is the dead, passage, gates, resurrection and the night, and the tradition holds the two as a single road.
 
 ## See Also
 

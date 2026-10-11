@@ -100,6 +100,7 @@ A settlement rite performed over the field, in the rite of the people whose dead
 | Provènzia     | blood-field    | The Provenzian word, which these pages use for every people's fields                                       |
 | Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"                                              |
 | The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on |
+| Aû'Khelâthu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                |
 
 ## Vedyara: the Shorukshetra
 
@@ -114,6 +115,18 @@ A _shorukshetra_ (blood-field) is ground where thousands died with no conch, no 
 **How the Vedyari live beside one.** A village near a _shorukshetra_ keeps indoors after dark and shuts its doors on the field's side. The roads bend round the fields, and a drover who must cross waters his beasts first and crosses at noon. The saying given to a traveler is the same in every district: "Cross where the sun can see you, and do not answer anything that calls." A thin field is a _ghūrakshetra_ (cursed field), and nobody near one says the word after sunset. The road round it is barred at dusk, its edge is marked with stones, and the march companies tell new men the names of those who went in and were found at the edge in the morning.
 
 Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war: [[place-oluratarna|Olūratarana]], where a king forbade the pyre to a rebel host about 300 BF; [[place-gajasthali|Gajasthalī]], where two armies broke among their own elephants about 270 AF; and [[place-lanthusthli|Lanthusthalī]], where the march kingdom died under the steppe host in 315 AF, the one _ghūrakshetra_ among them. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janapada battle has ever made one.
+
+## Aû'Khelâthu: the Zelqezat
+
+In [[affiliation-empireakhlth|Aû'Khelâthu]] a soul goes on because it is kept. The body is embalmed so the part of the soul that stays with it has a house, the name is cut in stone and read aloud so the part that is inscribed is never lost, and the rites see the rest across to the Weighing, where both of its accounts are opened before the gods, and Álgit, the Devourer of the Dead, takes a soul that is short on either. One that closes passes to [[place-zulaten|Zulaten]]. A Khelâthi who has no tomb, no name read aloud and no rites has no continuation at all. The whole civilization is built to keep that from happening to anyone.
+
+A _zelqezat_ (blood-field) is ground where thousands died and none of it was done for them. The word means only "the place of a battle", because a battle whose dead were carried off, wrapped and read leaves no place behind: the Khelâthi say that every field in the valley has seen fighting and only these few remember it. The dead on a _zelqezat_ were never entered, so they are not lost souls in the ordinary sense. They are souls with nothing to be found by, and the predators of the spirit realm find them.
+
+**The Reading for the unnamed.** The temples' answer is a Reading held at the field's edge by a priest of [[lore-hezmuiridty|Hezmuîri]], who reads aloud for the dead whose names were never written. It quiets a field for the night it is held. It cannot end one, because a Reading closes on a name and these have none; a family that can prove an ancestor lay on the field and bring his name to the edge is the one thing that settles any part of it, and in twelve centuries that has happened a handful of times.
+
+**How the Khelâthi live beside one.** A _zelqezat_ is entered in no survey roll, so nobody farms it, nobody owns it and its render is remitted for as long as it lies there. The road goes round it, the villages on its side keep their doors shut after dark, and the house nearest it, by custom and never by office, makes an offering at the edge each year. A thin field is a _zelalgit_, the Devourer's place, because the things that come out of it are Álgit's kind and they hunt the living as they hunt the dead; boatmen will not moor beside one and the families that tend it go to its edge in a body, with lamps.
+
+Aû'Khelâthu has three _zelqezat_ in twenty-eight centuries, all made by war and none older than the hill-nomads: [[place-zelhalzi|Zel-Halzi]], the Unmeasured Field, where the Tha'Ulgau destroyed the last Galezkara army in 1612 ST (499 BF); [[place-eleventhgran|the Eleventh Granary]] at Anlagh-Zetûn, where the dead of the granary rising were sealed in an empty granary without rites in 2378 ST, 268 AF; and [[place-chariotfld|the Chariot Field]] at Khelaga, where the chariot corps broke under a Vylarian army in 2487 ST, 377 AF, the one _zelalgit_ among them. The cursed Way of the False Uqa'â at Zu-Gezer is sealed ground and not a _zelqezat_, because a curse made it and not a slaughter.
 
 ## The Khazryn: Kèdoq and Henhulpedin
 
@@ -141,27 +154,31 @@ Three fields in the north, one to each great war, and a fourth that northern han
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                | People whose ground it is | Battle                                                | Made    | Kind       | Thin                          |
-| ------------------------------------ | ------------------------- | ----------------------------------------------------- | ------- | ---------- | ----------------------------- |
-| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                | ~300 BF | silence    | moderate                      |
-| [[place-jilaq\|Jilaq]]               | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                | ~190 BF | recurrence | thin                          |
-| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]         | ~270 AF | recurrence | slight                        |
-| [[place-domsey\|Dómsey]]             | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]    | 287 AF  | silence    | thin, quieted at each sitting |
-| [[place-wemaq\|Wemaq]]               | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]] | ~312 AF | quickening | moderate                      |
-| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]             | 315 AF  | dread      | thin                          |
-| [[place-skalfvatn\|Skalfvatn]]       | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                    | 466 AF  | recurrence | moderate                      |
-| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                                    | ~520 AF | withering  | thin, worked on               |
-| [[place-qimod\|Qìmod]]               | The Khazryn steppe        | the sack of the spur town                             | ~548 AF | silence    | thin                          |
-| [[place-dvulgvangr\|Dvulgvangr]]     | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]         | 613 AF  | dread      | thin                          |
-| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~620 AF | recurrence | moderate                      |
-| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                                     | —       | recurrence | —                             |
-| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                                     | —       | recurrence | —                             |
-| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                                     | —       | quickening | —                             |
-| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                                     | —       | silence    | —                             |
+| Field                                        | People whose ground it is | Battle                                                  | Made    | Kind                 | Thin                          |
+| -------------------------------------------- | ------------------------- | ------------------------------------------------------- | ------- | -------------------- | ----------------------------- |
+| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]          | 499 BF  | recurrence           | moderate                      |
+| [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                  | ~300 BF | silence              | moderate                      |
+| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                  | ~190 BF | recurrence           | thin                          |
+| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]] | 268 AF  | withering, contained | moderate, worse in lean years |
+| [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]           | ~270 AF | recurrence           | slight                        |
+| [[place-domsey\|Dómsey]]                     | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]      | 287 AF  | silence              | thin, quieted at each sitting |
+| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]   | ~312 AF | quickening           | moderate                      |
+| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]               | 315 AF  | dread                | thin                          |
+| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]             | 377 AF  | recurrence           | thin                          |
+| [[place-skalfvatn\|Skalfvatn]]               | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                      | 466 AF  | recurrence           | moderate                      |
+| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                      | ~520 AF | withering            | thin, worked on               |
+| [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                               | ~548 AF | silence              | thin                          |
+| [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]           | 613 AF  | dread                | thin                          |
+| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                  | the Breaking                                            | ~620 AF | recurrence           | moderate                      |
+| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
+| [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
+| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                       | —       | quickening           | —                             |
+| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                 | —                                                       | —       | silence              | —                             |
 
 ## See Also
 
 - [[lore-aralwen|Arálwen]]—the natural thin places, which a blood-field is not
 - [[lore-bloodfields|The Blood-fields of Provènzia]]—the kingdom with more fields than anywhere else
 - [[affiliation-agnipantha|Agnī-panthā]]—the sect that burns the fields of Vedyara
+- [[lore-khelathiclt|Khelâthi]]—the rites whose absence makes a _zelqezat_
 - [[affiliation-blackflame|The Black Flame]]—the cult that works fields to deepen them

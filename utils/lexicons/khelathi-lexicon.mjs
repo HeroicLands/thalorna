@@ -459,6 +459,8 @@ export function analyse(text, beings, texts = []) {
         const body = own ? text : note.text;
         const skip = own && lex.retiredAt ? [lex.retiredAt] : [];
         for (const hit of retiredIn(body, lex.retired, skip)) {
+            // The Vylari infinitive suffix -âthen is a grammatical ending.
+            if (hit.written === "âthen" && body[hit.at - 1] === "-") continue;
             const { line, column } = lineColumn(body, hit.at);
             const instead =
                 hit.instead ?

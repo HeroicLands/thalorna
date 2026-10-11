@@ -80,7 +80,6 @@ Every Bethûan word and term of art these notes use, the Khelâthi loanwords amo
 | Dómissa     | A House-Mother, matriarch of a House and member of the Council of Houses; pl. Dómissai                       |
 | dôrashin    | A gift                                                                                                       |
 | durâs       | Natron, washing-salt                                                                                         |
-| en-meret    | The quay, the harbor-front                                                                                   |
 | en-mûna     | A cistern or reservoir                                                                                       |
 | en-telekâs  | The quay, the harbor-front                                                                                   |
 | et-degân    | The customs-toll, the impost                                                                                 |

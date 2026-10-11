@@ -39,6 +39,29 @@
  *    under `names` give it the same `when`.
  * 6. **`follows-in-order`** — an event that `follows` another note's event is
  *    not dated before the earliest event of that note.
+ * 7. **`qet-telgu-pair`** — a year of the Qet Telgu written beside a western
+ *    year in prose (`1006 ST (1105 BF)`, `2378 ST, 268 AF`) converts to it: an AF
+ *    year is the count less 2,110, and a BF year is 2,111 less the count, because
+ *    the western reckoning has no year zero.
+ * 8. **`throne-numeral`** — the king-list numbers a throne name across its whole
+ *    length, so each throne name's numerals rise with the crowning year, a bare
+ *    name counting as I. The list is read from the Gar-Aûu note's tables: a Near
+ *    Count row gives its crowning year, and a Middle Count abstract row gives its
+ *    stretch, with a name's own `crowned N` where it states one.
+ * 9. **`throne-listed`** — a throne name written with a numeral anywhere in the
+ *    content tree is a reign the king-list holds.
+ * 10. **`eras-agree`** — a calendar that counts its years straight through and
+ *     divides them into ages (its `std` format prints `Y`, and it has two or
+ *     more eras with a numeric `start`) states each age three times, and the
+ *     three agree: the `data.eras` row, the row of the body's ages table (the
+ *     table whose first header cell is `Age`), and the description of the lore
+ *     note that table row links. The table row's years open with the era's
+ *     `start` and close with the next era's `start`, or say `present` for the
+ *     last; the linked note exists, and its description names the same opening
+ *     year and, except for the last age, the same closing year. An era with no
+ *     table row is reported, so an age cannot be added to the rows and left out
+ *     of the body. The toolchain itself refuses a `stated` date whose age mark
+ *     does not cover its year, so that case needs no rule here.
  *
  * Findings are written `file:line:column: severity: message`, the path first on
  * the line and relative to the working directory, with a field dropped rather
@@ -59,6 +82,32 @@ export const CONTENT = "assets/content";
 
 /** The `depth` values an event may carry. */
 export const DEPTHS = Object.freeze(["world", "region"]);
+
+/** The note that holds the Khelâthi king-list. */
+export const KING_LIST = "garauu";
+
+/**
+ * A Khelâthi throne name: a name element, the seam, and a god's house-form, with
+ * an optional numeral after it.
+ */
+const THRONE =
+    /(?<![\p{L}'])([A-Z][a-zâêîôû]+'(?:el')?(?:Uqa|Qar|Retha|Psaqa|Uzner))(?![\p{L}'])(?:\s+([IVXL]+)\b)?/gu;
+
+/** A Qet Telgu year beside a western one, in either order, within a clause. */
+const PAIR =
+    /\b(\d{1,2},?\d{3}|\d{1,3}) ST\b[^.;\n]{0,40}?\b(\d{1,4}) (AF|BF)\b|\b(\d{1,4}) (AF|BF)\b[^.;\n]{0,40}?\b(\d{1,2},?\d{3}|\d{1,3}) ST\b/gu;
+
+/** A Roman numeral's value. */
+export function roman(text) {
+    const value = { I: 1, V: 5, X: 10, L: 50 };
+    let total = 0;
+    for (let i = 0; i < text.length; i += 1) {
+        const here = value[text[i]];
+        const next = value[text[i + 1]] ?? 0;
+        total += here < next ? -here : here;
+    }
+    return total;
+}
 
 /** The content package the tree belongs to. */
 const PACKAGE = "thalorna";
@@ -131,15 +180,291 @@ export function readTree(content = CONTENT) {
     const history = [];
     const calendars = [];
     const world = [];
+    const prose = [];
     for (const file of markdownFiles(content)) {
         const note = readNote(file);
         if (!note) continue;
         const entry = { file, address: `${note.fm.type}-${note.fm.shortcode}`, ...note };
+        prose.push(entry);
         if (note.fm.type === "lore" && Array.isArray(note.fm.data?.events)) history.push(entry);
         if (note.fm.type === "lore" && note.fm.subType === "calendar") calendars.push(entry);
         if (note.fm.type === "place" && note.fm.data?.year?.days) world.push(entry);
     }
-    return { history, calendars, world };
+    return { history, calendars, world, prose };
+}
+
+/** The 1-based line and column of an offset in a text. */
+function position(text, offset) {
+    const before = text.slice(0, offset).split("\n");
+    return { line: before.length, column: before.at(-1).length + 1 };
+}
+
+/**
+ * Every reign the king-list's tables hold, in the order of the count.
+ *
+ * @param {string} raw - The Gar-Aûu note.
+ * @returns {{name: string, numeral: number, written: string, year: number, offset: number}[]}
+ */
+export function kingList(raw) {
+    const reigns = [];
+    let offset = 0;
+    for (const line of raw.split("\n")) {
+        const here = offset;
+        offset += line.length + 1;
+        if (!line.trim().startsWith("|")) continue;
+        const cells = line.split("|").slice(1, -1);
+        const stretch = cells[0]?.trim().match(/^(\d+)\s*[–-]\s*\d+$/u);
+        const crowned = cells.map((cell) => cell.trim()).find((cell) => /^\d{3,4}$/u.test(cell));
+        if (!stretch && !crowned) continue;
+        let order = 0;
+        for (const match of line.matchAll(THRONE)) {
+            const after = line.slice(
+                match.index + match[0].length,
+                match.index + match[0].length + 40,
+            );
+            const own = after.match(/^\**\s*\(crowned (\d+)/u);
+            const year =
+                own ? Number(own[1])
+                : stretch ? Number(stretch[1]) + order / 1000
+                : Number(crowned);
+            order += 1;
+            reigns.push({
+                name: match[1],
+                numeral: match[2] ? roman(match[2]) : 1,
+                written: match[0],
+                year,
+                offset: here + match.index,
+            });
+        }
+    }
+    return reigns.sort((a, b) => a.year - b.year);
+}
+
+/**
+ * The Khelâthi findings: Qet Telgu pairs in prose, and the king-list's numerals.
+ *
+ * @param {object[]} prose - Every note, from {@link readTree}.
+ * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @returns {string[]} Findings.
+ */
+export function checkKhelathi(prose, relative) {
+    const findings = [];
+    for (const note of prose) {
+        for (const match of note.raw.matchAll(PAIR)) {
+            const count = Number((match[1] ?? match[6]).replace(",", ""));
+            const year = Number(match[2] ?? match[4]);
+            const side = match[3] ?? match[5];
+            const expected = side === "AF" ? count - 2110 : 2111 - count;
+            if (expected === year && expected > 0) continue;
+            const { line, column } = position(note.raw, match.index);
+            const right = count > 2110 ? `${count - 2110} AF` : `${2111 - count} BF`;
+            findings.push(
+                finding(
+                    relative(note.file),
+                    line,
+                    column,
+                    "error",
+                    `qet-telgu-pair: ${count} ST is ${right}, not ${year} ${side}`,
+                ),
+            );
+        }
+    }
+
+    const list = prose.find((note) => note.fm?.shortcode === KING_LIST);
+    if (!list) return findings;
+    const reigns = kingList(list.raw);
+    const last = new Map();
+    for (const reign of reigns) {
+        const prior = last.get(reign.name);
+        if (prior && reign.numeral <= prior.numeral) {
+            const { line, column } = position(list.raw, reign.offset);
+            findings.push(
+                finding(
+                    relative(list.file),
+                    line,
+                    column,
+                    "error",
+                    `throne-numeral: ${reign.written} is crowned in ${Math.floor(reign.year)} ST, after ${prior.written} in ${Math.floor(prior.year)} ST, so its numeral must be higher`,
+                ),
+            );
+        }
+        last.set(reign.name, reign);
+    }
+
+    const held = new Set(reigns.map((reign) => `${reign.name} ${reign.numeral}`));
+    for (const note of prose) {
+        for (const match of note.raw.matchAll(THRONE)) {
+            if (!match[2] || held.has(`${match[1]} ${roman(match[2])}`)) continue;
+            const { line, column } = position(note.raw, match.index);
+            findings.push(
+                finding(
+                    relative(note.file),
+                    line,
+                    column,
+                    "error",
+                    `throne-listed: ${match[0]} is no reign the king-list in ${relative(list.file)} holds`,
+                ),
+            );
+        }
+    }
+    return findings;
+}
+
+/**
+ * The ages table of a calendar note's body: the rows of the first table whose
+ * first header cell is `Age`, each with its name, its linked address and the
+ * text of its years cell.
+ *
+ * @param {string} raw - The calendar note.
+ * @returns {{name: string, link: string|null, years: string, offset: number}[]}
+ */
+export function agesTable(raw) {
+    const rows = [];
+    let offset = 0;
+    let inTable = false;
+    let yearsColumn = -1;
+    for (const line of raw.split("\n")) {
+        const here = offset;
+        offset += line.length + 1;
+        if (!line.trim().startsWith("|")) {
+            if (inTable) break;
+            continue;
+        }
+        const cells = line
+            .split(/(?<!\\)\|/u)
+            .slice(1, -1)
+            .map((cell) => cell.trim());
+        if (!inTable) {
+            if (cells[0]?.toLowerCase() !== "age") continue;
+            inTable = true;
+            yearsColumn = cells.findIndex((cell) => /^its years\b/iu.test(cell));
+            continue;
+        }
+        if (/^:?-+:?$/u.test(cells[0] ?? "")) continue;
+        const link = cells[0].match(/^\[\[([a-z]+-[a-z0-9]+)\\?\|([^\]]+)\]\]$/u);
+        rows.push({
+            name: link ? link[2] : cells[0].replace(/\*\*/gu, ""),
+            link: link ? link[1] : null,
+            years: yearsColumn === -1 ? "" : (cells[yearsColumn] ?? ""),
+            offset: here,
+        });
+    }
+    return rows;
+}
+
+/** Every whole number written in a text, in order. */
+function numbersIn(text) {
+    return [...String(text).matchAll(/\d[\d,]*/gu)].map((match) =>
+        Number(match[0].replace(/,/gu, "")),
+    );
+}
+
+/**
+ * The eras findings: a straight-count calendar's ages agree with its body table
+ * and the notes the table links. A calendar with no body has no table to agree with
+ * and is skipped.
+ *
+ * @param {object[]} calendars - Every calendar note, from {@link readTree}.
+ * @param {object[]} prose - Every note, from {@link readTree}.
+ * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @returns {string[]} Findings.
+ */
+export function checkEras(calendars, prose, relative) {
+    const findings = [];
+    const notes = new Map(prose.map((note) => [note.address, note]));
+    for (const calendar of calendars) {
+        const std = String(calendar.fm.data?.formats?.std ?? "");
+        if (/\[yearInEra/u.test(std) || !/\bY\b|YYYY/u.test(std)) continue;
+        if (typeof calendar.raw !== "string") continue;
+        const eras = (calendar.fm.data?.eras ?? [])
+            .map((row, index) => ({ ...row, index }))
+            .filter((row) => Number.isInteger(row.start) && row.start >= 1)
+            .sort((a, b) => a.start - b.start);
+        if (eras.length < 2) continue;
+        const table = agesTable(calendar.raw);
+        const file = relative(calendar.file);
+        eras.forEach((era, order) => {
+            const next = eras[order + 1];
+            const row = table.find((entry) => entry.name === era.name);
+            const at = calendar.lineOf(["data", "eras", era.index, "start"]);
+            if (!row) {
+                findings.push(
+                    finding(
+                        file,
+                        at,
+                        null,
+                        "error",
+                        `eras-agree: the era "${era.name}" (start ${era.start}) has no row in the ages table of the note's body`,
+                    ),
+                );
+                return;
+            }
+            const { line } = position(calendar.raw, row.offset);
+            const years = numbersIn(row.years);
+            if (years[0] !== era.start) {
+                findings.push(
+                    finding(
+                        file,
+                        line,
+                        null,
+                        "error",
+                        `eras-agree: the ages table opens "${era.name}" at ${years[0] ?? "no year"}, and its era row starts it at ${era.start}`,
+                    ),
+                );
+            }
+            if (next && years.at(-1) !== next.start) {
+                findings.push(
+                    finding(
+                        file,
+                        line,
+                        null,
+                        "error",
+                        `eras-agree: the ages table closes "${era.name}" at ${years.at(-1) ?? "no year"}, and the next era row, "${next.name}", starts at ${next.start}`,
+                    ),
+                );
+            }
+            if (!next && !/\bpresent\b/iu.test(row.years)) {
+                findings.push(
+                    finding(
+                        file,
+                        line,
+                        null,
+                        "error",
+                        `eras-agree: the ages table closes "${era.name}", the last era, without saying it runs to the present`,
+                    ),
+                );
+            }
+            if (!row.link) return;
+            const linked = notes.get(row.link);
+            if (!linked) {
+                findings.push(
+                    finding(
+                        file,
+                        line,
+                        null,
+                        "error",
+                        `eras-agree: the ages table links "${era.name}" to ${row.link}, which names no note`,
+                    ),
+                );
+                return;
+            }
+            const stated = numbersIn(linked.fm.description ?? "");
+            const wanted = next ? [era.start, next.start] : [era.start];
+            const missing = wanted.filter((year) => !stated.includes(year));
+            if (missing.length) {
+                findings.push(
+                    finding(
+                        relative(linked.file),
+                        linked.lineOf(["description"]),
+                        null,
+                        "error",
+                        `eras-agree: the description of ${row.link} does not name ${missing.join(" or ")}, the ${missing.length === 2 ? "years" : "year"} the calendar ${file} gives "${era.name}"`,
+                    ),
+                );
+            }
+        });
+    }
+    return findings;
 }
 
 /** The axis year of an authored date, through package-build's parser. */
@@ -156,7 +481,7 @@ function axisYear(value, context) {
  * @param {{history: object[], calendars: object[], world?: object[]}} tree - From {@link readTree}.
  * @returns {string[]} Findings, one per line.
  */
-export function check({ history, calendars, world = [] }) {
+export function check({ history, calendars, world = [], prose = [] }) {
     const findings = [];
     const context = reckoningContext({
         notes: [...calendars, ...world].map(({ fm, file, raw }) => ({ fm, file, raw })),
@@ -274,6 +599,8 @@ export function check({ history, calendars, world = [] }) {
             }
         }
     }
+    findings.push(...checkKhelathi(prose, relative));
+    findings.push(...checkEras(calendars, prose, relative));
     return findings;
 }
 

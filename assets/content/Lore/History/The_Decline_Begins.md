@@ -52,7 +52,10 @@ data:
             The empire retains nominal authority over its provinces, and the knowledge that Aû'Khelâthu's hand was behind Harad festers in the Senate and the officer corps.
           agrees: partly
           withholds: how much of Harad's war was bought
-        - {by: affiliation-empireakhlth, says: Humanitarian commerce., agrees: denies}
+        - by: affiliation-empireakhlth
+          says: Humanitarian commerce.
+          agrees: denies
+          withholds: the gold, weapons and officers the court of Meqes XVI sent, which stand in no king-list and no tax roll
         - by: place-helionis
           says: >-
             A grown child to an aging parent—respectful, complicated, and occasionally resentful.

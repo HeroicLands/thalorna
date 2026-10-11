@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- PLACEHOLDER ART — provisional mark for Aten'ré (Sun), to be replaced with final artwork.
+<!-- PLACEHOLDER ART — provisional mark for Gar-Thelqen'Uqa (the sun), to be replaced with final artwork.
      Filled shapes only, fill as an attribute: utils/svg-theme.mjs rewrites fill (not
      stroke), so a stroked placeholder would stay black and vanish on dark ground. -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
