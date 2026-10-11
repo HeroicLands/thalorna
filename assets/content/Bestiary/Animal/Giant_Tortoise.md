@@ -237,47 +237,59 @@ sohl:
 
 ![[gnttrts|Giant Tortoise]]{float=top-left}
 
-The ground trembles with each step of the creature—a slow, rhythmic vibration that speaks to immense mass. The creature itself is almost unbelievable in size: a tortoise as large as a house, moving with ponderous inevitability across the landscape. The shell dominates the creature—domed and ancient-looking, its surface carved and scarred by centuries of existence, colored in weathered browns and grays with patterns that suggest deep age. The creature's head extends periodically from within, each emergence slow and deliberate, allowing small dark eyes to survey the world with calm patience. The legs are thick as tree trunks, and the sound they make is the sound of the earth itself moving.
+The ground shakes under your feet, slowly, once every few breaths, and the dune-grass ahead of you is going down in a swath. A shell the size of a cart comes over the rise, domed and scarred and the color of old leather, with a head on a long wrinkled neck swinging from side to side as it crops, and legs like tree-stumps that come down one at a time with a thud you feel in your knees. It stops when it sees you. It looks at you for a long moment with two small, dark, untroubled eyes, and then it goes back to eating.
 
 # Dossier {#dossier}
 
-The Giant Tortoise is a walking fortress of overwhelming durability, a creature grown over centuries to be nearly indestructible. These herbivorous creatures can live for hundreds of years, and a truly ancient tortoise is a living record of centuries. They are generally peaceful and indifferent to smaller creatures, focusing entirely on the slow business of consuming vegetation. Adventurers most commonly encounter them while traveling through warm lands, deserts, or temperate forests where tortoises establish feeding routes.
+The Giant Tortoise is a grazing tortoise eight feet long and more, with a domed shell that turns a spear, which lives for centuries on the desert margins of [[place-dunharargn|Dunhara]] and in the dry southwestern reaches of the [[place-sthrnsvnhs|Southern Savannahs]], walking the same grazing circuit through the same seasons for longer than any tribe has kept count. It eats grass, scrub, leaves and fallen fruit, it fears nothing because nothing can hurt it, and it is dangerous only to what stands in its way. The Dunhari count the years of a lineage by the tortoise that grazes its wells, and a tribe that has had the same one for seven generations treats it as a kinsman.
 
 ## Presentation
 
-The Giant Tortoise is an absolutely massive creature, capable of exceeding twenty feet in length and weighing many tons. The body is entirely dominated by the shell—a domed, scaly carapace in earth tones of brown, gray, and weathered tan. The shell is heavily scarred and patterned with accumulated age, each scar and wear mark representing a century or more of existence. The plastron (underside) is flat and equally well-armored, providing protection from below as well as above. The head is relatively small compared to the body, with ancient-looking skin that is deeply wrinkled and scaled. The eyes are small and dark, expressing a great calm and wisdom. The legs are thick and powerful, capable of supporting the creature's enormous weight.
+A huge tortoise under a domed shell of weathered brown, gray and tan, the plates worn, scarred and ringed with age, with a flat plastron below as thick as the shell above. The head is small for the body and sits on a long, deeply wrinkled neck that draws back into the shell; the eyes are small, dark and calm. The jaws are a horny beak that shears a branch. The legs are columns with heavy claws, and the whole animal weighs as much as a horse. An old one carries a garden of lichen on its back.
+
+## In the Land
+
+Giant Tortoises graze the scrub and grass where the Dunhari desert meets the farmed margins, the dry pans and acacia country of the southwestern savanna, and the river-margins of both in the dry season when the grass is gone elsewhere. Each walks a circuit of its own, miles long, that brings it to the same wells, the same shade trees and the same wallows at the same time of year, and the tribes who share the circuit know where it will be in any month. They are not territorial and several share a stretch of country in peace. They are not found in the deep sand or the deep forest.
 
 ## Key Behaviors
 
-Giant Tortoises are herbivorous and spend much of their time methodically consuming vegetation—grass, shrubs, leaves, and occasionally fruits. They are slow-moving and methodical, showing no apparent concern for predators or other threats. Their lifespan is measured in centuries, and some individuals are believed to be over a thousand years old. A tortoise establishes feeding routes and follows them with minimal variation, appearing at the same places during the same seasons. They are solitary creatures but are not territorial—multiple tortoises may share the same general area without conflict.
+A tortoise eats for most of the day and sleeps in the shade or half-buried in sand through the heat, and it walks its circuit at a pace a child keeps up with. It is unmoved by predators, by people and by weather. It lives for centuries, and the oldest the Dunhari know of has been grazing the same wells since before the tribe that waters there came out of the deep desert. A female digs a nest in sand once a year and leaves it; the hatchlings are the size of a hand and most are eaten. An adult has no enemies but the pit-trap and the flood.
+
+## What the Tribes Do
+
+The Dunhari treat a lineage's tortoise as a thing that belongs to the lineage and the lineage to it. It is named, its circuit is the tribe's own, and a sheikh's household water it from a trough at the well when it comes. Its passing is mourned and its shell roofs the grave of a sheikh. A tortoise with no lineage is left alone; the meat is good and the shell is worth a fortune, and killing one is a day's work with a pick for a tribe that has camels to eat. The savanna clans of the southwest, who keep no such custom, ride on them for a joke and count the shell-rings to settle arguments about the age of a well. A stranger who kills a named tortoise on Dunhari ground has killed a kinsman, and is treated as a man who has.
+
+## Signs
+
+- A swath of cropped grass and broken scrub as wide as a cart, running straight across country.
+- Round prints the size of a shield, pressed deep, in a line a child could step between.
+- A domed rock on a hillside at dusk that was not there at dawn.
+- A shallow pit in the sand of a dry riverbank, with broken white eggshells scattered round it.
+- Dunhari watering a trough at a well for no animal anyone can see.
 
 ## Combat Strategy
 
-A Giant Tortoise is not an aggressive creature and rarely initiates combat. When threatened, its first response is to simply ignore the threat and continue about its business. If forced to engage, the tortoise relies entirely on its overwhelming armor and mass. It will attempt to shove or crush attackers using its body, or it may bite if something interferes with its movement. If seriously threatened, the tortoise withdraws completely into its shell and scarcely responds to anything, becoming essentially immobile and nearly indestructible. A tortoise will remain withdrawn until it determines the threat has passed.
+The tortoise does not fight. Attacked, it ignores the attack and goes on eating, and a party that goes on hitting it blunts its weapons. Pressed, it draws head and legs into the shell and waits, and in that state nothing a man carries will open it. If a man stands between it and where it is going it walks over him, and if something has hold of its head it bites and does not let go. The soft points are the neck and the legs when they are out, which they are not when anyone is attacking it.
 
 ## Attack Methods
 
-### Crushing Advance
-
-The tortoise uses its massive bulk as a weapon, simply moving forward and crushing anything in its path beneath its weight or shell. This attack is slow but tremendously powerful.
-
 ### Powerful Bite
 
-The tortoise can bite with surprising force—the bite is slow and deliberate but capable of causing serious injury to anything caught within the jaws.
+The beak shears what is between the jaws, a wrist or a spear-shaft, slowly and once.
+
+### Crushing Advance
+
+The tortoise walks forward, and whatever is under its feet or its shell is crushed. It is slow and it does not stop.
 
 ## Special Abilities
 
 ### Impenetrable Shell
 
-The tortoise's shell is nearly indestructible—normal weapons have difficulty penetrating or damaging it. The shell distributes force across its surface, protecting the creature from nearly any ordinary blow. The plastron (belly) is slightly less heavily armored but still very tough.
+Sword, spear, arrow and mace do nothing to the shell, and the plastron below is nearly as thick. A blow spreads across the dome and is lost.
 
 ### Withdrawal Defense
 
-When the tortoise fully withdraws into its shell, it becomes an immobile fortress. In this state, it is nearly impossible to harm—most weapons cannot penetrate the shell, and the creature simply waits, inert, for the threat to pass.
-
-## Additional Information
-
-A Giant Tortoise's shell, when shed (which occurs naturally over centuries), can be worked into extraordinary armor or decorative pieces. The creature's age can be determined by counting the rings on the shell, and truly ancient tortoises are honored as living monuments. Some have attempted to ride tortoises, though the creatures are indifferent to riders and will not change their course for them.
+Drawn in, the tortoise is a boulder with nothing to strike. It waits for as long as the danger lasts and comes out when it has gone.
 
 ## Attributes
 

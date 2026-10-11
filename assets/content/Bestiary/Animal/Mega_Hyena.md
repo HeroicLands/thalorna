@@ -227,47 +227,63 @@ sohl:
 
 ![[mghyn|Mega Hyena]]{float=top-left}
 
-The sound of it hits you first—a deep, whooping laugh that seems to vibrate from the very ground, raising hair on the back of your neck. Then the shape emerges from the scrubland, massive and wrong, its sloped back and barrel chest giving it a predatory crouch even while standing still. Its coarse, mottled fur bristles, each hair catching the light in a way that makes the creature seem larger than it already is. Its yellow eyes glow with ancient malevolence, and its jaws—underslung and bristling with oversized teeth—seem capable of consuming whole limbs. When it laughs again, the sound carries the promise of tearing flesh and crushing bone.
+The laugh starts somewhere out in the scrub after the moon has set: a rising, whooping cackle, and then another voice joining it, and another, until the whole dark beyond the camels is laughing. The night-herd's dogs have stopped barking. At the edge of the firelight a shape comes up out of the brush, high in the shoulder and sloping away behind like a hill, as tall at the withers as a pony, with a heavy head held low and yellow eyes that catch the fire. Its coat is coarse and blotched brown on dun. It opens its mouth, and the teeth in it are thicker than your thumbs.
 
 # Dossier {#dossier}
 
-The Mega Hyena is a colossal version of its smaller relatives, standing nearly 4 feet tall at the shoulder and weighing 350-450 pounds. Its body is heavily muscled and compact, built for tremendous bite force and endurance rather than speed. The fur is coarse and bristling, mottled with dark brown and black patches, though individual coloration varies. The head is broad and powerful, with the distinctive sloped back and muscular front quarters of its kind. The tail is relatively short and held low.
+The Mega Hyena is the great hyena of the Khazryn: four feet at the shoulder, built heavy in front and sloping to small hindquarters, with a head that is mostly jaw and a bite that cracks a camel's thigh-bone. It runs in clans of five to twenty along the camel road and on the grass and scrub of the [[place-wlqtrrgn|Welqator]] and the steppe margins, and it lives on what the road leaves behind: the camels that fall on the march, the remains of a caravan's slaughter, the dead of a raid. It is also a hunter that takes wild asses, gazelle and the stragglers of a herd, and a clan that is hungry takes a sleeping drover from the edge of a camp. The tribes count it with the [[being-budeq|Budeq]] as one of the two things that follow a string, and the hyena is the one that comes in at night.
 
 ## Presentation
 
-Mega Hyenas display enormous musculature throughout their frame, particularly in the neck, shoulders, and forelimbs. The head is proportionally massive, with jaws capable of opening to an impressive width. The eyes are large and bright yellow, set forward for good binocular vision. The ears are rounded and alert. The legs are thickly built but less elegant than a true feline predator, suggesting power over finesse. The musk surrounding them is powerful and immediately recognizable. The mouth is often held slightly open, displaying the prominent teeth and creating the appearance of a perpetual snarl. Individual Mega Hyenas often bear extensive scarring from territorial disputes and pack conflicts.
+A huge, deep-chested hyena with a back that slopes steeply from high, heavily muscled shoulders to low hindquarters, on thick forelegs and shorter hind legs that give it a rolling, tireless lope. The coat is coarse and bristling, sandy dun to gray, blotched with dark brown and black, with a short stiff mane along the neck that stands up when the animal is roused. The head is broad and massive, the muzzle short and blunt, the jaws deep and set with heavy conical teeth made for crushing; the ears are round and the eyes yellow. The tail is short and carried low. Most adults carry scars about the face and neck from fights within the clan. The animal stinks of musk and carrion, and the musk is on every rock it has marked.
+
+## In the Land
+
+Mega hyenas range the whole western half of the road, from the grass of the Welqator across the gravel reaches of the [[place-hskrrgn|Hosikor]] to the edge of the deep sands, and the stone uplands of the [[place-dkrqrrgn|Dikraqor]] where the ravines give them dens. A clan holds a stretch of road and the country on either side, marks its edges with musk and dung-heaps, and fights any other clan that crosses them. They follow the strings along their own stretch and stop at its boundary, where the next clan takes over. They den in caves, under rock shelves and in the collapsed cellars of the dead towns, and they come to every place where animals and men die: the wells, the camps, the scene of a raid and the [[lore-sowidesclt|Sowides]]' laying-out grounds (_yelos_).
 
 ## Key Behaviors
 
-Mega Hyenas are scavengers as much as hunters, thriving in arid savannas and broken terrain. They live in large packs with rigid hierarchies dominated by one or more leaders whose status is determined through combat. Pack size typically ranges from 5-20 individuals. They hunt large prey cooperatively, but are also opportunistic and will steal kills from other predators, defend carcasses from competitors, or hunt smaller prey when the chance arises. Lone Mega Hyenas are typically outcasts or young individuals seeking to establish a new pack, and they are considerably more aggressive and unpredictable than pack members.
+A clan is ruled by its females, which are larger than the males, and the leading female and her daughters eat first. They forage by night and lie up in the heat. They eat everything of a carcass, bone and hide included, and leave nothing but the horns and a white chalky dung. They hunt as well as scavenge: a clan runs down a wild ass or a gazelle over miles of ground at a lope it holds all night, and takes the weak, the old and the young from any herd. They drive cats and lone wolves off their kills and mob a camel spider for sport. They laugh and whoop when they gather, quarrel over food and call across miles of open country, and a clan in full voice round a camp is the worst sound the night on the road makes. A lone hyena is a young male driven out of its clan, and it is bolder and more dangerous than a clan animal.
+
+## What the Tribes Do
+
+A Sowides camp keeps its dogs loose at night for the hyenas and its camels couched in a ring with the baggage inside it, and the night-herd carries a torch and a spear. A string that loses an animal on the march butchers it at once and carries the meat, rather than leave the clan a reason to follow; a dead camel left by the track has the hyenas at it by dark and the hyenas at the camp by midnight. A tribe that has laid out its dead keeps watch over the laying-out ground until the name has been spoken to the four winds, and drives the clans off with fire. The hide is too coarse for anything but sandals. The tribes trade the jaws, which a smith at [[place-qisomrktcmp|Qìso]] sets with a handle as a bone-breaker for marrow.
+
+## Signs
+
+- A whooping, cackling laugh after moonset, taken up by several voices at once.
+- Chalk-white dung in heaps at a rock or a track junction, and a strong smell of musk.
+- A camel carcass reduced overnight to horns, hooves and a stain on the sand.
+- Broad four-toed prints, larger in front than behind, in a loose pack along a caravan's own trail.
+- Dogs that stop barking and press against the tents.
 
 ## Combat Strategy
 
-Mega Hyenas rely on pack tactics and overwhelming force. In a pack, they coordinate attacks, surrounding prey and attacking from multiple angles simultaneously while the prey is distracted. They target the weakest or most vulnerable opponent first, attempting to separate and isolate individuals from the group. A lone Mega Hyena uses direct aggression, relying on its massive bite force to disable or crush bone in a quick strike. Hyenas do not fight intelligently or tactically on an individual basis; rather, they rely on pack instinct and sheer ferocity.
+A clan surrounds, worries and waits. It circles at the edge of the light, darts in to bite at the nearest legs and pulls back, and keeps it up until something falls or runs, and then the whole clan is on it. It goes for the weakest thing in reach: a child, a sick man, a camel that cannot rise. A single hyena closes, bites once with its whole weight behind the jaws, and holds or tears free. The clan breaks off before it takes heavy losses, but it comes back the next night, and the next. A camp that keeps its fire high and its people together loses nothing to it; a man who wanders from the fire alone, or a party that breaks and runs, is taken.
 
 ## Attack Methods
 
 ### Bone-Crushing Bite
 
-The Mega Hyena lunges to clamp its enormous jaws on the target, aiming for limbs, throat, or belly; the bite crushes bone, shatters light armor, and pins an opponent in place until they can wrench themselves free by main strength.
-
-### Pack Overwhelm
-
-Multiple Mega Hyenas attack simultaneously from different directions, each attempting to knock the opponent down or distract them; attacks pressed from several sides at once land far more often and can incapacitate isolated opponents quickly.
+The hyena lunges and clamps its jaws on a limb, the throat or the belly, and the bite crushes bone and splits a light shield. Once it has a grip it holds and drags, pulling the man off his feet for the rest of the clan.
 
 ## Special Abilities
 
 ### Crushing Jaws
 
-The Mega Hyena’s bite force is extraordinary, capable of breaking bone, shattering weapons or shields, and penetrating armor; a bite that lands does terrible harm and may incapacitate the victim if it closes on a vital area.
+The hyena's bite breaks a thigh-bone, cracks a spear-shaft and crushes a hand inside a gauntlet. A bite on the throat or the head is the end of the fight.
 
-### Pack Instincts
+### Pack Overwhelm
 
-Mega Hyenas fighting alongside their pack strike more often, bite harder, and shrug off what would stop a lone animal; a pack of hyenas is more dangerous than its numbers would suggest.
+Hyenas attacking together come from every side at once, each one biting and pulling back, so that a man who turns to one is bitten by another. A clan brings down an armed man who could fight off any one of them.
 
-### Territorial Defense
+### Tireless Lope
 
-When defending a kill, den, or pack, a Mega Hyena becomes considerably more aggressive and fights with more skill and fury than at any other time; they will fight to the death to protect the pack's kill, den, or standing.
+A clan follows a string or a wounded animal all night at a loping pace that never slackens, and a man on foot does not outrun it.
+
+### Territorial Fury
+
+On its own kill, at its den or against a rival clan, a hyena fights with a savagery it does not show anywhere else, and it fights to the death for the clan's kill.
 
 ## Attributes
 

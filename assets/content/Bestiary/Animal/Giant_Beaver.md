@@ -252,47 +252,59 @@ sohl:
 
 ![[gntbvr|Giant Beaver]]{float=top-left}
 
-The sound reaches you first—the rhythmic crack and splinter of a tree trunk being systematically gnawed. You push through the brush and find yourself staring at a creature the size of a pony, its fur dark and slick with water, its massive teeth clearly visible as it works the wood with mechanical precision. The thing does not look up, focused entirely on its labor—but you feel the weight of its attention nonetheless. Around its territory, you notice the scope of its engineering: trees felled in geometric perfection, their trunks stripped and woven into a massive dam that has entirely reshaped the river. The water level has risen dramatically, drowning the forest and creating a landscape of flooded timber and still, dark water. When the beaver finally turns to look at you, its tail—a massive, paddle-like weapon—rises and slaps the water with a thunderous crack that sends spray to your chest.
+The river has gone wrong. Where the boatman says there should be a run of fast water between birches there is a flat brown lake with drowned trees standing in it, and across its foot, from bank to bank, a wall of stripped trunks woven together higher than a man. Something the size of a pony is working at the top of it, dark fur slick with water, dragging a birch into place with its teeth. It stops when the boat comes into the open. The flat tail comes up, and the crack it makes on the water is as loud as a split log.
 
 # Dossier {#dossier}
 
-The Giant Beaver is an intelligent, industrious creature standing four feet at the shoulder and weighing several hundred pounds. These are master engineers that fundamentally reshape their environment, constructing elaborate dam systems and lodge structures that entirely redirect watercourses and create new landscapes. A giant beaver's territory is instantly recognizable by its engineering—lakes that did not exist before, waterways redirected, forests partially drowned. These creatures are territorial and aggressive in defense of their domain, particularly during construction seasons. Adventurers most commonly encounter them while traveling through beaver-infested waterways or when they attempt to cross a dam that blocks their passage.
+The Giant Beaver is a three-hundred-pound water rodent four feet high at the shoulder, which fells trees, dams rivers and builds lodges on a scale that changes the map, and it lives on [[place-vrystwldrvrs|the slow rivers of Vrystwald]] and in the marsh country of [[place-grkrhlmrgn|Grukarhölm]] to the east. A family's dams turn a mile of river into a chain of lakes, drown a stand of forest and close a boat-road, and the family defends the work against anything that touches it. The Varokh who live by the rivers deal with it as they deal with a flood: by moving, by waiting, or, when they must, by breaking the dam at night with the whole village and running.
 
 ## Presentation
 
-The Giant Beaver is a powerful aquatic mammal with a body built for both water and land. Its fur is dense and waterproof, typically dark brown with hints of red or lighter undertones, and it sits wet and slick whether the creature is in or out of water. The shoulders and hindquarters are powerfully muscled, and the hind feet are partially webbed, providing propulsion in water. The front paws are smaller and more dexterous, equipped with sharp claws used for felling trees and manipulating materials. The tail is the creature's most distinctive feature—a flat, paddle-like appendage covered in scales and nearly as long as the body, used for balance, signaling, and as a powerful weapon. The head is blocky and powerful, with prominent incisors that never stop growing and are kept sharp by constant gnawing. The eyes are small and set to the sides of the head, providing good peripheral vision. The overall impression is of a creature designed for a specific purpose—water, wood, and creation.
+A heavy-bodied aquatic rodent in dense, waterproof fur, dark brown with a reddish cast, that lies wet and slick whether the animal is in the water or out of it. The shoulders and hindquarters are thick with muscle and the hind feet are webbed; the forepaws are small, clawed and clever. The tail is flat, scaled, nearly as long as the body and as wide as a shovel-blade, used for steering, for warning and as a club. The head is blocky, with small side-set eyes and a pair of orange incisors as long as a man's hand that never stop growing and are kept sharp by use.
+
+## In the Land
+
+Giant Beavers hold the slow brown rivers of the central forest belt wherever the banks carry birch, aspen and willow, and the marsh and lake systems of Grukarhölm, where the water is already slow and a dam floods a league of bog. A family's territory is a reach of river with one great dam or a chain of several, a lodge of logs and mud in the pond behind it, and a felling-ground on each bank. The Vrystwald landings know which reaches are beaver water and which season a dam is building, and a boat-road is rerouted round a new lake the year it appears.
 
 ## Key Behaviors
 
-Giant Beavers are highly intelligent and work with singular focus on constructing and maintaining their territories. A territory includes elaborate dam systems (sometimes consisting of multiple dams on a single watercourse), lodge structures that are homes and defensible positions, and carefully maintained foraging areas. Beavers spend much of the day gathering wood and materials, felling trees with their teeth and transporting the material through water or by dragging. They are social within family units but fiercely territorial toward other beavers. They are primarily nocturnal but will work during daylight hours if urgent construction demands it. A beaver that perceives a threat to its dam or lodge responds with immediate, focused aggression.
+A family works by night and on gray days, felling trees with its teeth, floating them to the dam and weaving them in, and plastering the face with mud. It eats bark and the soft wood under it, water plants and roots, and stores branches under the ice for winter. The family is the pair and two or three years of young, and it holds its reach against every other beaver. Any creature on the dam, in the lodge or in the water near either is attacked; a man on the bank is watched and warned with a tail-slap, and a man who goes on cutting the dam is attacked in the water. The animals do not hunt and do not pursue onto dry land for far.
+
+## What the Villages Do
+
+A Varokh river village with a beaver family above it loses a mill-race or gains a fish-pond, and the village council argues about which for a year. A dam that drowns a field or closes the landing is broken in winter, when the family is in the lodge under the ice, by the whole village working with axes on the frozen face in a single night, and the river takes the rest. The family builds again a mile upstream by midsummer. A pelt is worth more than any other fur of its weight, and the castor from the glands trades to the Nordmal and south to the Vylarian physicians at a price that makes a hunter's winter; a beaver is hunted with nets staked across the channel under the lodge and spears from the ice above it, and a hunter in the water with one is a drowned hunter. A tail, roasted, is the one meat of the animal worth eating.
+
+## Signs
+
+- Birch and aspen stumps cut to a point, three feet high, with wood chips the size of a hand around them.
+- A river that runs still and brown where the map shows a riffle, with dead trees standing in it.
+- Drag-paths down the bank worn smooth, with stripped branches in the water at their foot.
+- A crack like a split log carrying across the water at dusk, repeated.
+- A mound of logs and mud in the pond with a thread of warm air rising from it on a cold morning.
 
 ## Combat Strategy
 
-A Giant Beaver defends its territory with absolute commitment. When threatened, it typically retreats to water where it has supreme advantage, then attacks from there—using the water as both weapon and escape route. In direct combat, the beaver uses its powerful tail as a crushing weapon and its bite for grappling and damage. The creature fights methodically and without hesitation, showing no fear of larger opponents and no inclination to flee once combat has begun. A beaver defending its dam will draw attackers into complex terrain of water, flooded timber, and narrow passages where its knowledge provides advantage.
+The beaver fights in the water and from the water. It slaps a warning, and then it comes in under the surface and bites at the legs of anything standing in the shallows, dragging a man down and holding him under. On the dam it meets an axe-man with its teeth and knocks him off the face with its tail. It does not fear a larger animal and does not break off while the danger is on its dam, but it does not follow onto dry land beyond a few yards. In the drowned timber behind the dam, among the stumps and the deep channels it has cut, nothing on two legs moves as fast as it does, and a party that wades in after it is fighting in its house.
 
 ## Attack Methods
 
 ### Powerful Bite
 
-The beaver's incisors are capable of cutting through wood and are equally effective against flesh and bone. A beaver clamps onto a target and holds, attempting to drag the target into water or closer to the beaver's body for additional attacks.
+The incisors cut through a wrist-thick branch and do the same to a wrist. The beaver clamps on a leg or an arm and pulls the man into deep water and under.
 
 ### Tail Slam
 
-The flat, powerful tail is brought to bear as a bludgeoning weapon—the beaver swings or brings it down with force sufficient to break bones, knock creatures off balance, or drive them into water. The tail can also be used to slap the water, creating waves or splashes that obscure vision.
+The tail comes round or down with weight enough to break ribs or a knee, knock a man off a dam face, or throw up a sheet of water that blinds him for the next bite.
 
 ## Special Abilities
 
 ### Aquatic Master
 
-In water, the Giant Beaver is supremely graceful and fast—it can navigate submerged passages, hold its breath for extended periods, and move at speeds that land creatures cannot match. On land, the beaver is slower and more vulnerable. In its own territory with its dam and dam-adjacent waters, the beaver gains significant tactical advantage.
+In the water the beaver is fast, silent and at home. It swims under the ice and through flooded timber, stays under for a long while, and chooses where and when it surfaces. On land it is slow and heavy and knows it.
 
 ### Tireless Engineering
 
-The beaver can fell trees and move materials at great speed, reshaping waterways and constructing barriers. This ability is useful for trapping or isolating enemies within the beaver's territory.
-
-## Additional Information
-
-A beaver's territory can be extremely valuable—a well-constructed dam provides water power for mills, the lake behind the dam provides resources, and the flooded timber can be harvested. Negotiating with a giant beaver for access to its territory is theoretically possible but practically difficult—the creatures are not interested in non-wood-related payment. A dead beaver's tail is prized for various purposes including cloaks and trophies. The teeth are sometimes worked into decorative items or tools.
+A family fells and moves timber at a pace that puts a dam across a small river in a season, floods a valley floor and cuts channels through the drowned ground that only it can find. The work is its weapon as much as its home: an enemy on its water is in a maze it built.
 
 ## Attributes
 

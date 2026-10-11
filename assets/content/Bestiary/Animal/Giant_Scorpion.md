@@ -187,47 +187,61 @@ sohl:
 
 ![[gntscrpn|Giant Scorpion]]{float=top-left}
 
-Movement at the edge of vision makes you turn—and a chill of primal horror runs down your spine. Out from under a rock outcropping comes a creature easily ten feet long from the tip of its pincers to the end of its tail. The exoskeleton gleams in shades of dark brown and rust, armored like a knight in chitinous plate. The pincers are massive and cruel, each one ending in a curved point sharp enough to pierce armor. But worse is the tail—it curves high above the creature's body, segmented and sinuous, and at its tip a stinger glints with clear, oily venom that drips to the ground and hisses where it falls. The creature's multiple eyes fix on you, and you have the absolute conviction that you are being measured, evaluated, and found edible.
+The rocks on the ravine floor are still warm from the day, and one of them is walking. Ten feet of it comes out from under the overhang, dark brown and rust, plated like a man in armor, the two pincers held open before it and the tail curled up over its back with a stinger at the tip the length of a short sword. A drop falls from the stinger onto the stone and hisses. It stops at the edge of the firelight with its small eyes catching the flame, and the pincers open a little wider.
 
 # Dossier {#dossier}
 
-The Giant Scorpion is a predatory arachnid combining overwhelming armor, crushing strength, and lethal venom. Reaching ten feet in total length, a single giant scorpion claims a territory of several square miles and defends it with territorial aggression. These are ambush hunters that spend much of their time perfectly motionless, waiting for prey to wander within striking distance. Adventurers most commonly encounter them in rocky deserts, canyon systems, and badlands where the scorpion's coloration provides effective camouflage.
+The Giant Scorpion is the big dark scorpion of the black-rock plateau of the [[place-dkrqrrgn|Dikraqor]] and the ravines and badlands round it, ten feet from pincer-tip to tail and plated in brown, rust and near-black chitin that matches the warm rock it hunts across. It is an ambush hunter that lies still for a day among the boulders and takes whatever comes within reach, and in its country it is the thing that comes to the fire at night. The tribes of the plateau rank it with floods and falls among the killers of the ravines, and the pale [[being-bnscrpn|Bone Scorpion]] of the wells is a cousin it never meets.
+
+Its venom is worth a camel-load of salt to the right buyer, and the men who sell it do not grow old.
 
 ## Presentation
 
-The Giant Scorpion is a heavily armored creature with a body profile that is recognizable but scaled to monstrous proportions. The cephalothorax (head-body region) is squat and heavily muscled, covered in overlapping plates of thick chitin in shades of dark brown, rust, or nearly black. The abdomen is segmented and curves upward in a vicious arc, ending in a stinger. The creature is supported on eight jointed legs that position it slightly above the ground, allowing movement across rough terrain. The pincers are massive, each longer than a human arm, capable of independent movement and controlled with frightening precision. The eyes are multiple—arranged around the front of the head to provide excellent sensory coverage. The overall impression is of a creature designed entirely for predation.
+A heavily plated scorpion with a squat, muscular forebody and a segmented tail that curves high over the back and ends in a stinger the length of a short sword, with a bead of clear venom at its point. The pincers are each longer than a man's arm, toothed, and move independently. It stands on eight jointed legs with its body clear of the ground, and it crosses broken rock without slowing. The plates are dark brown, rust or black, and dull, so that a still scorpion among sun-warmed boulders is one more boulder. Several small eyes sit around the front of the head.
+
+## In the Land
+
+Giant Scorpions live on the mesas and in the dry ravines of the Dikraqor between the sands and the oasis belt, where they hunt the warm rocks at dusk, and in the badlands and stone uplands around the plateau's edges, among the fallen stone of the old tomb-ravines of [[place-osikor|Osikor]] and the cisterns the plateau tribes depend on. Each holds several square miles of rock and ravine against every other and is out at dusk and in the first of the night, when the stone still holds the day's heat. They are not found on open sand or in the cold north.
 
 ## Key Behaviors
 
-Giant Scorpions are perfectly adapted ambush predators that remain motionless for hours or days, waiting for prey. They prefer rocky, arid environments where their coloration provides camouflage and where prey is abundant. They are strictly solitary except during breeding, and they aggressively defend territory against rivals and intruders. A scorpion will attack anything within its territory that it perceives as either prey or threat—it does not distinguish. The creature hunts primarily insects, lizards, small mammals, and birds, but a hungry or threatened scorpion will attack humanoids.
+A scorpion lies motionless for hours or days in the shade of a rock or the mouth of a cleft and takes what comes within reach of the pincers: lizards, hares, foxes, goats, and anything larger that stops in the shade. It does not distinguish prey from threat and attacks whatever enters its ground. It hunts by feel and by scent, reading a footfall through the rock, and it comes to a fire at night because the fire draws the small animals it eats and because a fire is warm. It mates in spring, when the males wander and are met on the open plateau in daylight, and a wandering male is a bold one.
+
+## What the Tribes Do
+
+The hard, poor tribes of the plateau water their flocks at a cistern by day and camp well above the ravine floor, with the goats inside a thorn ring and a fire that is kept small. A man does not sit down in the shade of a rock he has not looked under, and nobody sleeps on a ravine floor in the warm months. A scorpion that has taken up near a cistern is killed, by the tribe together, with long spears from above and stones rolled onto it, and the tribe loses a man or a boy at it as often as not. The venom is milked from a pinned animal into a horn by men who do nothing else, and sold at [[place-kethramir|Kethramir]] to the physicians and the poisoners; the plates are worked into light armor for the forearms and the shins, and the pincers are hung over a tent door.
+
+## Signs
+
+- Bleached goat and fox bones heaped in the shade of one boulder in a ravine.
+- A dark, ten-foot shape on warm rock at dusk that was a boulder at noon.
+- Eight-legged tracks as wide as a cart in the dust of a ravine floor, with a drag-mark between them.
+- A hiss and a smoking spot on the stone where a drop of venom fell.
+- Goats that will not go into one stretch of a ravine, however thirsty.
 
 ## Combat Strategy
 
-A Giant Scorpion's preferred method is complete surprise—a target is completely unaware of the scorpion until it strikes. The initial attack combines pincer grapple with tail strike, attempting to immobilize and inject venom simultaneously. Once prey is held by the pincers, the tail can be brought to bear repeatedly, delivering multiple stings. A scorpion that misses its initial ambush is less effective in direct combat but retains significant advantage through armor and strength. A scorpion will continue attacking until prey is dead or until the scorpion itself is seriously wounded—they show no instinct to retreat.
+The scorpion lets the prey come within reach and strikes with the pincers and the tail together: the pincers to hold, the tail to sting. A held thing is stung again and again while it struggles, and the pincers tighten. If the first strike misses the scorpion comes on and fights in the open, where its plates turn a blade and its pincers reach further than a sword; it does not retreat, and it fights until it is dead or its prey is. The soft places are the joints and the underside, which a man reaches only from close in, past the pincers; a long spear from above a ledge, or a heavy mace, is the plateau tribes' answer.
 
 ## Attack Methods
 
 ### Pincer Crush
 
-The massive pincers deliver a crushing force capable of splintering bones and breaking armor. A target caught by the pincers is held fast and crushed harder the longer it is held.
+A pincer closes on a limb or a body and crushes. A man held in one has a broken arm; held in both, he is pulled in toward the mouthparts and the tail comes down.
 
 ### Tail Sting
 
-Once prey is grappled or helpless, the tail can strike repeatedly—injecting a fast-acting venom designed to paralyze or kill. The venom is potent enough to incapacitate humanoids.
+The stinger drives into a held or close victim and injects a venom that paralyzes and kills. The tail strikes again while the pincers hold, and the second and third stings finish what the first began.
 
 ## Special Abilities
 
 ### Exoskeletal Armor
 
-The Giant Scorpion's chitin provides superb protection against slashing and piercing weapons, deflecting many attacks entirely. Blunt weapons are more effective than edged ones. The soft undersides and joints between segments are more vulnerable.
+The plates turn a cut and a thrust that lands square. A heavy blow cracks them; a point finds the joints and the underside.
 
 ### Ambush Predator
 
-A scorpion that remains motionless gains near-invisibility—particularly in rocky terrain where its coloration matches stone. A target caught unaware by a scorpion strike has little chance to defend itself.
-
-## Additional Information
-
-Giant Scorpion venom is extremely valuable to alchemists and poisoners—a single sting's venom can sell for significant coin. Harvesting venom is extraordinarily dangerous. The scorpion's exoskeleton can be worked into armor. A scorpion's territory is recognizable by bleached bones and exoskeletons of previous kills scattered around the ambush site.
+Among warm rock a still scorpion is a rock, and a man who comes within reach of the pincers before he sees it has no time to do anything about it.
 
 ## Attributes
 

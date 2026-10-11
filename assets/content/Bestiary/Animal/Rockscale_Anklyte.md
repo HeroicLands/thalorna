@@ -278,67 +278,75 @@ sohl:
 
 ![[rcksclan|Rockscale Anklyte]]{float=top-left}
 
-The ground beneath your feet sends a warning first—a deep, subsonic vibration that you feel more than hear, resonating in your chest and bones. The creature rises slowly from the terrain it was indistinguishable from moments before, its rough, stone-like scales shedding dust and gravel as it shifts its massive weight. The eyes open—a dim, faintly luminescent red that seems to glow from within the skull—and fix upon you with an unsettling awareness. The air itself seems to thicken as the creature's presence expands, and you catch the acrid smell of something sulfurous and mineral, ancient and wrong. A low growl emerges, and the ground trembles in response.
+You feel it through your boots before you hear it, a low hum in the rock like a struck bell gone quiet. The gray mound you took for an outcrop at the edge of the scrub has moved. It rises on four thick legs, shedding gravel and dust from a back of overlapping stone-gray plates, and turns a small blunt head toward you with two dull red eyes in it. It is twelve feet long, most of it body and the rest a tail that ends in a knob of bone the size of a water-jar. The tail swings once, slowly, and a smell of sulfur comes over the rock.
 
 # Dossier {#dossier}
 
-The Rockscale Anklyte is a massive quadrupedal herbivore reaching 10-12 feet in length and weighing over 800 pounds, found in rocky badlands, high plateaus, and mountain foothills where sparse vegetation provides sustenance. Despite their herbivorous nature, anklytes are dangerous territorial defenders that will attack threats with overwhelming force. Adventurers might encounter them while traveling through badlands, claiming resources from anklyte territory, or navigating plateau regions where the creatures establish grazing grounds.
+The Rockscale Anklyte is the armored grazer of the Khazryn's badlands: twelve feet long, eight hundred pounds, low and barrel-bodied on four legs, plated in gray and brown scales that look and feel like rock, with a tail that ends in a heavy bone club. It eats the saltbush, thorn and tough grasses of the stone uplands, lives in small herds of three to eight, and holds its grazing ground against everything that walks onto it, by warning first and then by charging. It hunts nothing. It is dangerous to people because the ground it grazes is the same thin ground the plateau tribes need for their goats, and a herd that has settled near a cistern has settled there for years.
 
 ## Presentation
 
-The Rockscale Anklyte presents a squat, powerful form covered entirely in rough, stone-like scales that blend so effectively with rocky terrain that the creature becomes nearly invisible when still. The scales are various shades of gray and brown with occasional lighter striations that mimic natural rock patterning. The head is small relative to body size, with a narrow snout suitable for browsing vegetation and small, forward-facing eyes that glow with a faint red luminescence. The eyes appear almost intelligent despite their beady appearance, suggesting an awareness that belies the creature's herbivorous nature. The body is barrel-shaped and massive, supported by four sturdy legs that allow surprisingly quick movement despite the weight. The tail is the most distinctive feature—thick at the base and tapering to a heavy, clubbed end that appears capable of serious impact. The body is marked by faint ridges and protrusions that run along the spine and flanks, enhancing both the armored appearance and actual protective capability.
+A squat, broad animal, wider than it is high, on four short, columnar legs. The whole back and flanks are covered in thick, rough plates of gray and brown with lighter streaks, ridged along the spine and the flanks so that a resting anklyte is an outcrop. The belly is paler and softer. The head is small for the body, low and narrow-snouted for cropping between stones, with small eyes that shine a dull red in shadow. The tail is thick at the root and tapers to a club of fused bone and plate. The animal smells of sulfur, and its breath smells worse. A herd hums: a low sound, more felt through the ground than heard, that carries a long way over rock.
+
+## In the Land
+
+Anklytes graze the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]: the mesas and ravine floors of the [[place-dkrqrrgn|Dikraqor]], the black-rock margins above the oasis strip of [[place-swoasisbelt|Tellumel]], and the broken ridges of the eastern stone desert. A herd holds a range of a few square miles round a source of water—a cistern, a seep, a rock-pool that fills in the spring rains—and keeps it for as long as the grazing lasts, which on the plateau may be a generation. They are not found on sand, which will not carry their weight, and avoid the steep ravine walls. They graze at dawn and dusk and lie up through the heat in a tight ring, plates outward, looking like a heap of stones.
 
 ## Key Behaviors
 
-Anklytes are herbivorous but intensely territorial, maintaining exclusive grazing grounds against all intruders including other anklytes. They are highly social within established herds but those herds are small (typically 3-8 individuals) and each herd maintains fierce territorial boundaries. The creatures produce low-frequency vocalizations that travel through the ground and across substantial distances, creating communication networks between herd members and warning calls to whatever approaches. When threatened, anklytes escalate through warning displays before actual combat, giving intruders opportunity to retreat. However, once the decision to defend is made, anklytes commit completely to the defense and will continue until the threat is gone or the anklyte is dead. They are most active during dawn and dusk, resting during the heat of day.
+A herd keeps to its range and moves slowly round it from one patch of grazing to the next. It warns before it fights: the hum deepens until it can be felt in the chest, the animals turn broadside to show their bulk, and the lead animal swings its tail and breathes out a cloud of foul sulfurous breath. An intruder who backs away is let go. One who stays is charged. A herd defends its young by putting the adults round them in a ring, tails out, and a ring of anklytes cannot be broken into by anything that walks. Two herds meeting at a boundary hum at each other for a day and settle it with a short, crashing fight of tail against plate.
+
+## What the Tribes Do
+
+The plateau tribes give an anklyte range the room it asks for and water their goats elsewhere when they can, and they cannot always. A herd that has taken a cistern a tribe depends on is moved by fire—brush fires lit upwind at dusk for several nights—which works slowly and costs the tribe its grazing too. Nobody fights a herd. A single old animal driven out of its herd is hunted, by a whole tribe with spears from above in a ravine, and the plates are worth the trouble: they are cut and drilled into scale-coats and cistern-covers, and an anklyte's tail-club hung over a tent door is a mark of the household that took it. The Tellumi buy the plates at the oasis towns for the facing of walls.
+
+## Signs
+
+- A low hum felt through the soles of the feet near a patch of grazing.
+- Ground cropped to the stones across a broad stretch, with heaps of dung like dark stones.
+- A ring of what look like boulders on open rock at midday, which is not there in the evening.
+- A sulfurous smell on the wind in country with no hot springs.
+- Rock scarred and broken at knee-height where a tail-club has hit it.
 
 ## Combat Strategy
 
-The anklyte's combat strategy is direct and effective—the creature charges at threats with surprising speed for its mass, attempting to ram and knock opponents off their feet. Once an opponent is down or vulnerable, the anklyte uses its tail as a primary weapon, swinging the heavy club in wide arcs designed to crush and incapacitate. The creature uses terrain to advantage, charging downhill to increase impact and positioning itself to prevent escape. An enraged anklyte becomes almost uncontrollable, attacking with relentless force until the threat is neutralized or the anklyte itself is critically injured.
+An anklyte warns, then charges, then clubs. It runs at a threat with its head down, faster than its bulk suggests, and knocks it over with its body; then it turns and brings the tail round on whatever is on the ground or within reach. A man who gets behind it is kicked. It uses a slope to put weight into the charge and stands in a narrow place to keep a party in front of it. Once committed it fights until the threat is gone or it is dead. The plates turn a blade; the belly, the neck under the jaw and the joints of the legs do not, and a party that wants to kill one does it from a ledge above, where the tail cannot reach.
 
 ## Attack Methods
 
-### Tail Club Strike
+### Tail Club
 
-The anklyte swings its massive clubbed tail in a wide arc, generating tremendous striking force capable of crushing bone and armor. A successful hit launches opponents backward and can knock even armored combatants off their feet.
+The anklyte swings its tail in a wide, flat arc and the club of bone at its end strikes with enough force to break a leg, crush a shield and the arm behind it, or throw a man several yards.
 
 ### Charging Ram
 
-The anklyte lowers its head slightly and charges forward, using its barrel-shaped body as a battering ram. The impact has sufficient force to knock opponents off balance or directly off their feet, creating openings for follow-up attacks.
+Head down, the animal charges and hits with its whole barrel-shaped body, knocking a man flat or off a ledge, and then wheels to use the tail.
 
 ### Rear Leg Kick
 
-Using its hind legs, the anklyte delivers backward kicks that carry surprising force and precision. These kicks are effective against opponents approaching from behind or attempting to grapple.
-
-### Crushing Stomp
-
-If an opponent is on the ground, the anklyte may attempt to simply step on them, using the creature's considerable weight to crush and injure.
+Something behind it or at its flank is kicked with a hind leg, hard and quick, from a stance that does not need to turn.
 
 ## Special Abilities
 
 ### Stone Armor
 
-The rough, dense scales that cover the anklyte's body provide protection equivalent to scale armor, turning cuts and thrusts. The armor is part of the creature's living tissue and regenerates if damaged.
+The plates are as good as scale armor and turn cuts and thrusts. A damaged plate grows back over a season.
+
+### Crushing Stomp
+
+A man knocked down within its reach is trodden on, and eight hundred pounds of animal breaks ribs and legs under its feet.
 
 ### Ground Tremor
 
-When the anklyte strikes the ground with its tail or charges with full force, it creates small but detectable tremors in the earth. These tremors are disorienting and can knock loose objects over or disturb balance in standing creatures.
+A charging or fighting anklyte shakes the rock under it enough to make a man stagger and a stack of loads fall.
 
-### Territorial Aggression
+### Herd Hum
 
-The anklyte becomes significantly more dangerous when defending its established territory, striking harder and more surely within its grazing grounds. Outside of territory, the anklyte is less aggressive and more likely to avoid conflict.
+The herd's low hum carries across miles of rock and calls the herd together, and close to, at its deepest, it leaves a man queasy and unsteady.
 
-### Low-Frequency Communication
+### Sulfurous Breath
 
-The anklyte can produce low-frequency vocalizations that travel through ground and air over substantial distances, allowing communication with other anklytes and coordination of herd responses to threats. These vocalizations can create discomfort and disorientation in humanoid listeners.
-
-### Sulfurous Exhalation
-
-When threatened, the anklyte exhales a foul-smelling, sulfurous breath that causes discomfort and nausea in nearby creatures. While not toxic, the smell is intensely unpleasant and can cause distraction and disorientation.
-
-### Additional Information
-
-Anklytes are herbivorous and can be deterred from conflict by abandoning disputed territory or moving away from established grazing grounds. A herd of anklytes presents a significantly greater threat than a solitary individual, as they coordinate defense and support each other. Anklyte herds can be avoided by careful route planning around their established territories. The creatures' stone-like scales can be harvested after death by expert craftspeople and used to create armor or defensive architecture, making anklyte remains valuable.
+Threatened, the anklyte breathes out a cloud of foul, sulfurous breath. It does no lasting harm, and a man in it gags and loses his footing.
 
 ## Attributes
 

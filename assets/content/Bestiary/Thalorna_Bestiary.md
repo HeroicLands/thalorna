@@ -35,11 +35,11 @@ See [[lore-dreadspawncrtr|Dreadspawn]].
 
 See [[lore-elemcrtr|Elementals]].
 
-## Grukar - A Blight Upon the Land
+## Grukar
 
 See [[lore-grukarfolk|Grukar]].
 
-## Goblins - The Cunning Tricksters
+## Goblins
 
 See [[lore-goblinfolk|Goblins]].
 

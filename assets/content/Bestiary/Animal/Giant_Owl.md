@@ -246,51 +246,63 @@ sohl:
 
 ![[giantowl|Giant Owl]]{float=top-left}
 
-There is no warning. Only the sudden conviction that something is wrong—a shift in air pressure, a shadow that moves where no shadow should—and then the impact. The creature is already above you before you fully register its presence, wings folding with terrible grace. The wingspan is enormous, each feather the length of a sword blade, and the plumage is mottled brown-and-gray, seemingly woven from the darkness itself. The eyes are terrible: great golden orbs ringed with facial discs that give an expression of dreadful intelligence. The talons are the size of scythes. The worst part is the silence—a creature this enormous should make sound, should announce itself through wind and motion, but instead it glides through the night with absolute quiet, a predator so perfectly adapted that the darkness itself seems to carry it.
+The dog went quiet first, and now you understand why. There was no sound. There was only the fire's light going out across the clearing as something passed between it and the trees, and now the thing is sitting on the broken spruce at the clearing's edge with its back to the moon: taller than a man, broad as a cart, two round golden eyes in a disc of feathers turned full upon the fire. The head turns a little further than a head should turn. Then the eyes close, and in the dark you cannot find where it was.
 
 # Dossier {#dossier}
 
-The Giant Owl is a nocturnal apex predator of phenomenal power and terrifying silence. With a wingspan exceeding twenty-five feet and talons capable of piercing armor, a single Giant Owl can devastate a settlement or hunting party. These are supremely intelligent creatures that hunt alone, establishing vast territories across multiple valleys or regions. They are territorial and aggressive in defense of their domain, particularly during nesting season. Adventurers most often encounter them when traveling at night through owl territory or when they camp within a territory the owl claims.
+The Giant Owl is the great owl of the northern forests, with a wingspan of twenty-five feet and a flight that makes no sound at all, which hunts the old woods of [[place-vrystwald|Vrystwald]] and the spruce forest behind the [[place-nrdlndsrgn|Nordlands]] fjords by night and sleeps in a hollow trunk or a cliff-cave by day. It takes hares, foxes, fawns, lynx, goats and dogs, and a man alone on a forest path after dark, and it is the one hunter of the north that a traveler does not hear coming. The Varokh keep it as a wesk, and the shamans of the owl villages read its calls.
 
 ## Presentation
 
-The Giant Owl is a creature built entirely for silent, deadly hunting. The body is large and heavily muscled, with the characteristic upright posture of owls. The wings are enormous and perfectly suited for silent flight, with a feather structure that allows movement without sound. The plumage is mottled brown and gray with subtle patterns that provide perfect camouflage in shadow. The head is large and rotates with unsettling mobility. The eyes are the defining feature—enormous golden orbs set in facial discs of feathers that can rotate with the head, providing both binocular vision and nearly complete rotational awareness. The hooked beak is powerful and capable of piercing armor. The talons are among the deadliest weapons in nature—long, curved, wickedly sharp, and capable of piercing through thick leather, light armor, and bone.
+A huge owl in mottled brown and gray that vanishes against bark and shadow, standing upright on heavy feathered legs. The wings are enormous and their feathers are fringed and soft, so that the air makes no sound over them. The head is large and turns almost right round on the neck. The eyes are great golden discs set in the facial feathers, forward-looking, and they catch firelight at a distance. The beak is hooked and strong and the talons are long, curved and needle-pointed, and they go through leather and light mail. It weighs forty pounds and carries a goat.
+
+## In the Land
+
+Giant Owls hold the deep timber of Vrystwald's central forest belt and its deepwood, [[place-vethwald|Véthwald]], where the great trees give them hollows to roost in, and the spruce and pine forest south and east of the Nordlands mountains, up to the edge of the caribou plateaus. Each holds a range of many square miles alone, and a pair in the nesting season holds it together and fiercely. They want old forest with clearings and river-meadows to hunt over. Each of the Varokh owl villages—[[place-vethholt|Véthholt]] in Thornwald, and **Fródstein**, **Dómrýth** and **Fródhaven** elsewhere in the forest—has a pair in its woods, and its shaman knows the roost.
 
 ## Key Behaviors
 
-Giant Owls are solitary predators that establish and defend vast hunting territories spanning hundreds of square miles. They are strictly nocturnal and most active during the deepest darkness, though they will hunt in twilight or under moonlight if prey is available. A hunting owl spends much of the night in silent flight, covering enormous distances while listening and watching for prey movement. They hunt primarily large mammals, birds, and reptiles, but a hungry owl will attack humanoids if the opportunity seems favorable. An owl pair during breeding season is far more aggressive and will pursue and harass intruders relentlessly.
+The owl hunts in the dark hours, quartering its range in long silent glides and listening, and stoops on whatever moves on the ground or in the lower branches. It kills by striking with the talons and carrying the prey to a perch. It eats hares, grouse, foxes, martens, fawns and the young of larger animals, and in a lean winter it takes a dog from a village edge and a sheep from a fold. A pair with young in the nest strike at anything that passes under the tree and follow an intruder through the forest for miles. A fed owl is an idle one and sits out the night on a snag. It learns the paths people use at night and the hour the herd-boy brings the goats in.
+
+## What the Villages Do
+
+A Varokh village with an owl in its woods brings the goats in before dusk and the dogs in with them, and nobody walks the forest paths alone after dark in the nesting weeks. In an owl village the bird is the wesk and the shaman who leads the village keeps its roost as a holy place: the owl's calls are read for the dead, a feather found under the roost is given to the shaman, and killing one is an offense against the village itself. Elsewhere in the forest an owl that has taken a child is hunted by day at its roost, with fire under the hollow tree and bows round it, and the hunters count it a bad night's work. The flight feathers, which make no sound, are prized by hunters for fletching, and the great facial discs are worked into a shaman's mask.
+
+## Signs
+
+- A dog or a goat gone from a village edge at night with no track and no sound.
+- Pellets the size of a fist under a tree, full of fox fur and hare bones.
+- A sudden silence of the night birds along one stretch of path.
+- Two round points of gold reflecting the fire from the forest edge, high up, that go out together.
+- A hollow in an old trunk, big enough for a man to sleep in, with a litter of bones at its foot.
 
 ## Combat Strategy
 
-A Giant Owl's preferred tactic is the silent approach and devastating strike—a target is completely unaware of the owl's presence until talons rake across them. An owl in combat with an aware opponent will circle and make repeated diving attacks, using altitude to its advantage. If wounded or if a strike fails to incapacitate, the owl climbs high and circles for another pass. An owl defending a nest or young becomes nearly suicidal in its commitment—it will pursue attackers for miles, making repeated assaults regardless of risk. An owl that has fed recently is less aggressive and more likely to retreat.
+The owl comes silently from behind and above and strikes with both feet before anyone has looked up. If the first strike does not finish the prey it climbs away into the dark and comes again from another quarter, as many times as it takes, and in the dark nobody sees where the next pass is coming from. It does not land to fight if it can help it, and on the ground it is awkward. It gives up on a party that keeps a bright fire and stays close to it, because the fire hurts its eyes, and it does not stoop into thick brush. A nesting bird keeps coming until it is dead.
 
 ## Attack Methods
 
 ### Talon Rend
 
-The owl's primary attack—powerful talons delivered from above or in close combat, raking with force sufficient to cripple or kill. The initial diving strike is particularly devastating due to velocity and momentum.
+The talons strike from above with the weight of the stoop behind them and rake deep; on a perch or on the ground the owl strikes again and again with one foot and then the other.
 
 ### Piercing Beak
 
-Once prey is grasped, the owl uses its hooked beak to deliver precise, lethal strikes at vulnerable points (eyes, throat, etc.). The beak can pierce armor and bone.
+A thing held under the talons is torn by the hooked beak at the eyes, the throat and the neck, where the beak goes through mail and bone.
 
 ## Special Abilities
 
 ### Silent Wings
 
-The Giant Owl moves through air with absolute silence—its wings and feathers are specialized to eliminate the sound of flight. An owl can close to melee range without any auditory warning whatsoever.
+The flight feathers are soft-edged and the owl makes no sound in the air. It is beside a man before he hears anything, and he hears nothing then either.
 
 ### Supreme Night Vision
 
-The owl's large eyes are made for seeing in low light. In darkness, the owl hunts with perfect clarity and accuracy while opponents are effectively blinded. Moonlight is bright daylight to the owl.
+In starlight the owl sees as a man sees at noon; moonlight is bright to it, and a fire is painful. Its prey in the dark is blind and it is not.
 
 ### Rotational Head
 
-The owl can rotate its head through angles seemingly impossible for other creatures, providing nearly 360-degree visual awareness and allowing it to see behind itself without turning its body.
-
-## Additional Information
-
-A Giant Owl territory is marked by the remains of its kills—scattered bones and feathers, grim reminders of the owl's dominion. An owl that has learned that humanoid prey is available will begin to deliberately hunt settlements, making travel after dark supremely dangerous. A dead owl's feathers are incredibly valuable for fletching and decoration. Some magical practitioners claim to have negotiated with owls, though the wisdom of trusting such an arrangement is questionable.
+The head turns nearly all the way round, so that the owl on its perch sees behind it without moving its body, and nothing walks up to it from any side.
 
 ## Attributes
 

@@ -237,58 +237,80 @@ sohl:
 
 ![[nsvrroth|Nüsvōrroth]]{float=top-left}
 
-The smell reaches you before anything else—the thick, sweet rot of old carrion baking in the sun. Scattered bones litter the rocky ground, cracked and stripped clean. Then movement catches your eye: something enormous unfolds from behind a boulder, dark feathers bristling as it rises to its full seven-foot height. A bare, leathery head swivels toward you, and that hooked beak—massive, stained dark—opens with a low, rattling hiss. The thing spreads its wings wide, not to fly but to make itself bigger, and the stench intensifies as it begins to stalk forward on taloned feet that click against the stone.
+The ravine smells of carrion long before you see the bones: a heap of them against the rock wall, cracked and scraped white, goat and ass and something with a skull too round for either. Then the boulder beside the heap stands up. It is a bird, black and seven feet tall, with a bare gray-and-red head on a long wrinkled neck and a hooked beak as long as your forearm, stained dark to the nostrils. It spreads a pair of short, heavy wings wide, not to fly but to make itself bigger, and hisses with a rattle in the throat. Then it starts toward you, and its feet click on the stone.
 
 # Dossier {#dossier}
 
-The Nüsvōrroth is a giant flightless predatory bird that dominates barren, rocky wastelands. Primarily a carrion-eater, it is savagely territorial and will attack anything that enters its domain without hesitation. Adventurers crossing desolate highlands or following trails through badlands may stumble into its territory, often warned only by the scattered remains of previous intruders.
+The Nüsvōrroth is the great flightless carrion bird of the Khazryn's stone uplands: seven feet tall, twelve from beak to tail, four hundred pounds, black-feathered with a bare, leathery head and a foot-long hooked beak. It eats the dead of the badlands—goats, wild asses, fallen camels and fallen men—and it kills to defend the ground it eats on. Each bird holds a long stretch of ravine and broken plateau as its own and attacks anything that walks into it, by leaping from behind a rock with no warning but the smell. It is the bird the guides mean when they tell a party on the black rock to keep to the track and to turn back from any ravine with bones at its mouth.
 
 ## Presentation
 
-Standing seven feet tall and stretching up to twelve feet from beak to tail, the Nüsvōrroth is built like a massive, predatory ratite. Its body is covered in sleek, dark plumage—almost black in direct sunlight, with an oily iridescence. The head and upper neck are featherless, covered instead in tough, wrinkled, leathery skin mottled gray and red. Its hooked beak is enormous, easily a foot long, designed for tearing flesh from bone. Bloodshot eyes sit deep in the skull, constantly scanning. Its powerful legs are thick as a man's thigh, ending in three-toed feet armed with curved talons. The wings, though incapable of sustained flight, are muscular and broad, used for balance during leaps and for intimidation displays.
+A massive running bird built on the lines of a great ratite, deep-bodied on two legs as thick as a man's thigh, with three-toed feet carrying curved talons as long as fingers. The plumage is coarse and nearly black, with an oily green sheen in sunlight, ragged and often missing in patches. The head and the upper neck are bare skin, wrinkled and mottled gray and red, and the beak is huge, hooked and dark-stained at the tip. The eyes are small, deep-set and bloodshot. The wings are short and too weak to lift it, but heavily muscled; it spreads them to balance in a leap and to frighten. It smells of what it eats.
+
+## In the Land
+
+Nüsvōrroths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Dikraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idwakor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nüsvōrroth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
 
 ## Key Behaviors
 
-Nüsvōrroths are solitary and fiercely territorial, claiming expansive stretches of desolate, rocky landscape as their own. They are primarily scavengers, using their acute sense of smell to detect carrion from great distances, but they kill without hesitation when their territory is violated. Their domain is easy to identify: scattered bone piles, the reek of decay, and claw-scored boulders mark the borders.
+The bird spends its day walking its range, nose to the wind. It smells carrion and blood a mile off and goes to it, and it drives off anything already at a carcass, from a [[being-mghyn|mega hyena]] clan to a man skinning his own dead camel. It kills what it finds within its range when the thing is small enough or alone enough: a goat, an ass, a sleeping man, a wounded one. It watches before it strikes. A bird that has seen a party will follow it unseen along the ravine rim for an hour, crouched behind boulders, until one of them falls behind or stops to drink, and then it leaps. It does not retreat from its own ground, and a wounded bird attacks harder.
 
-The creature is unusually patient and cunning for a bird. When it detects intruders, it often observes from a concealed position—crouching behind boulders or blending into rocky terrain with its dark plumage—before launching a sudden, explosive ambush. It commits fully to attacks and rarely retreats, even when injured.
+## What the Tribes Do
+
+The hard, poor tribes of the plateau know every range and keep their flocks out of them; a herdsman who loses a goat into a nüsvōrroth ravine lets it go. A party that must cross one keeps together, in daylight, with spears out, and walks the middle of the ravine rather than the rocky edge. The birds are killed, when they must be, by the bird's own refusal to give ground: men show themselves at the mouth of the ravine, the bird comes out at them, and archers on the rim shoot it as it comes. A flash of sunlight off a polished blade into its eyes stops it for a moment, and plateau guides carry a bronze mirror for the purpose. The beak makes the best skinning-knife on the plateau and the feathers are worn by young men of the plateau tribes who have killed one.
+
+## Signs
+
+- A heap of cleaned and broken bones at the mouth of a ravine or against a boulder.
+- A heavy, sweet stench of carrion on the wind in country with no visible carcass.
+- Three-toed tracks as long as a man's forearm, with the talon-points dug deep.
+- Boulders scored by claws at the height of a man's chest.
+- A black shape on the ravine rim above a party, that ducks down when anyone looks up.
 
 ## Combat Strategy
 
-The Nüsvōrroth opens combat with a devastating leap from concealment, using its powerful legs and wing-assisted bounds to close distance in a single explosive movement. The impact of a leaping strike can knock a person off their feet. It then presses the attack relentlessly with beak and claws, attempting to overwhelm its target before they can organize a defense. It uses terrain aggressively, driving prey toward cliffs, loose scree, or narrow passages where escape is difficult. It does not retreat willingly—its territorial instinct overrides self-preservation.
+The bird leaps from concealment, landing on its target with its weight and talons, and presses the attack at once with beak and claws before the party has formed up. It goes for the one who is apart from the others, the one carrying the heaviest load, or the one who is already hurt. It drives prey toward loose scree, a drop or a dead-end gully. It does not retreat while it stands on its own ground, and it does not stop for wounds. It cannot fly, so a man on a ledge above it or across water is safe, and it is clumsy in a narrow space. A bright light flashed in its eyes, or a thrown torch, makes it flinch and gives a spearman his chance.
 
 ## Attack Methods
 
 ### Hooked Beak
 
-A tearing strike with its massive beak, targeting the head, neck, or shoulders. Capable of shearing through leather and cracking bone, this is its primary killing tool.
+The beak strikes down at the head, the neck and the shoulders, tearing rather than stabbing. It shears leather and cracks bone, and it is the bird's killing stroke.
 
 ### Raking Talons
 
-Slashing kicks with its powerful legs, each talon capable of opening deep gashes. Often used in combination with beak strikes to overwhelm a target from multiple angles.
-
-### Leaping Strike
-
-A wing-assisted bound covering up to thirty feet, landing with crushing force on the target. The impact alone can stagger or knock down, setting up follow-up attacks.
+The bird kicks forward and down with one foot and then the other, and each talon opens a long, deep gash. It rakes as it lands from a leap and keeps raking a man who is down.
 
 ## Special Abilities
 
+### Leaping Strike
+
+With a wing-assisted bound the bird covers thirty feet from a crouch and lands on its target with crushing force, knocking a man down before he has seen it.
+
 ### Camouflage Plumage
 
-Its dark feathers blend naturally with rocky, barren terrain. When crouching motionless, the Nüsvōrroth is very difficult to spot, giving it a significant advantage in ambush.
+Crouched among black rock, the bird is one more boulder. It is seen when it moves.
 
 ### Carrion Sense
 
-An acute sense of smell allows it to detect carrion—or the blood of wounded creatures—from over a mile away. It can track injured prey relentlessly across its territory.
+It smells carrion or a fresh wound a mile off, and follows a bleeding animal across its whole range.
 
 ### Terrifying Presence
 
-Its sheer size, ragged plumage, and aggressive display—wings spread wide, beak open, hissing—can freeze lesser creatures in place. Animals and mounts may panic and bolt when confronted by a charging Nüsvōrroth.
+Wings spread, beak open and hissing, it makes pack animals bolt and freezes smaller creatures where they stand.
 
-### Tactician's Patience
+### Patience
 
-The creature observes intruders from concealment before striking, choosing the moment of maximum advantage. It targets isolated individuals, stragglers, or those weighed down by gear.
+It watches from cover before striking and chooses its moment, and it will follow a party along the rim for an hour to get it.
 
-## Additional Information
+## Attributes
 
-Despite its power, the Nüsvōrroth has notable vulnerabilities. It cannot fly, limiting its ability to pursue prey that reaches high ground or crosses water. Its heavy build makes it clumsy in dense forest or tight enclosed spaces. Its bloodshot eyes are sensitive to sudden bright light—a flash of reflected sunlight or a thrown torch can disorient it momentarily. Most critically, its refusal to retreat from territorial confrontations means it can be lured into traps or disadvantageous positions by adventurers who understand its behavior. The feathers and talons of a Nüsvōrroth are prized by some cultures as trophies, and its beak can be fashioned into an excellent skinning tool.
+- **Strength:** 16-21 (1d6+15)
+- **Endurance:** 14-19 (1d6+13)
+- **Dexterity:** 9-14 (1d6+8)
+- **Agility:** 10-15 (1d6+9)
+- **Perception:** 14-19 (1d6+13)
+- **Aura:** 10-15 (1d6+9)
+- **Will:** 14-19 (1d6+13)
+- **Reasoning:** 6-9 (1d4+5)
+- **Creativity:** 5-8 (1d4+4)

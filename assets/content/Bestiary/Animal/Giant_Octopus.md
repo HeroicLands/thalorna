@@ -187,51 +187,63 @@ sohl:
 
 ![[gntoctps|Giant Octopus]]{float=top-left}
 
-The water darkens before you see the creature itself. A massive bulbous form rises from the depths, slick and rubbery, its coloration shifting from moment to moment—now browns and grays to match the rock, now a flushed crimson that radiates intent. Eight tentacles unfurl around the central body, each as thick as a man's torso, lined with powerful suction cups that ripple as they move. The creature's large, luminous eyes fix on you, and they hold something that makes your blood chill: unmistakable intelligence, alien and absolute. Then comes a sound that travels through the water and into your chest—a beak clicking, tasting the current, preparing.
+The water under the boat goes dark, as if a cloud had crossed the sun, and the sealers at the oars stop rowing. Something is coming up from under the keel. It takes shape slowly: a sack of mottled flesh the size of a skin tent, two eyes as large as plates, and eight arms, each as thick as a man's body, unrolling toward the surface with their undersides pale and ridged with suckers. The nearest arm comes over the gunwale without haste and lies along the thwart. The boat heels.
 
 # Dossier {#dossier}
 
-The Giant Octopus is an underwater apex predator standing as one of the most intelligent non-humanoid creatures known to exist. With a body that can exceed twenty feet in total length and tentacles capable of crushing the hull of a small boat, a single giant octopus can devastate a ship or fishing fleet. These creatures are solitary and fiercely territorial, claiming deep-water hunting grounds and defending them with cunning and overwhelming force. Encounters typically occur when ships or divers venture into octopus territory or when an octopus pursues prey into shallow water.
+The Giant Octopus is a deep-water octopus with arms that span twenty feet and a body of three hundred pounds, which lives in the cold fjords and off the rocky coasts of the [[place-nrdlndsrgn|Nordlands]], and is reported from the deeps of the [[place-vylarianse|Vylarian Sea]] by sailors who are not always believed. It holds a den and a hunting ground on the sea floor, eats fish, crab, seal and anything else it can hold, and it is clever beyond any other animal of the sea. The sealers and whalers of the fjords know it as a thing that takes a man from a boat and a boat from the water, and they know the dens.
 
 ## Presentation
 
-The Giant Octopus is a marvel of malleability and power—its body is essentially boneless, allowing it to compress through impossibly small spaces while remaining capable of exerting crushing force. The central body (mantle) is bulbous and muscular, with two large, prominent eyes set to provide excellent forward and lateral vision. The skin is covered in chromatophores that allow rapid color and pattern changes for camouflage and communication. Eight tentacles radiate from the central body, each lined with powerful suction cups and capable of independent movement and sensation. Each tentacle is functionally an arm with its own sensory organs and a measure of its own judgment. The mouth is a hard, sharp beak capable of piercing bone, and it is surrounded by a funnel used for jet propulsion.
+A boneless, bag-like body with two large, prominent eyes set at its widest point, and eight arms radiating from the mouth, each lined with two rows of suckers and able to move and feel on its own. The skin changes color and texture in a moment, from the gray of rock to the red of anger to the pale of sand, and a resting octopus is the bottom it lies on. The mouth, under the body where the arms meet, is a hard black beak that cracks a crab's shell and a man's thigh-bone alike. A funnel beside it drives the animal backward through the water in a rush and pours out ink.
+
+## In the Land
+
+Giant Octopuses den in the rock of the fjord walls below the tide-line and in the broken ground off the headlands, where the water is deep, cold and full of fish and seal. Each holds its den alone and a hunting ground round it, and the sealing crews of [[lore-nrdlndsseal|the ice-edge and the rookeries]] know a den by the heap of cleaned shells and seal bones below it. They are thickest where the seals haul out. In the south they are a sailor's story from the deep channels of the Vylarian Sea, told in the harbors with the usual enlargements and a few true details.
 
 ## Key Behaviors
 
-Giant Octopuses are supremely intelligent creatures that demonstrate problem-solving ability, learning, and apparent communication through color display and gesture. They are solitary and claim vast territories in deep water where they establish dens and hunting grounds. An octopus spends much of its time at rest in a protected lair, emerging to hunt when prey is abundant or when hunger demands it. They hunt primarily large fish, crustaceans, and mollusks, but a hungry octopus will attack anything that looks edible, including humanoids. An octopus that has learned humanoid weakness becomes particularly dangerous as it begins to hunt ships and divers with apparent deliberation.
+An octopus lies in its den by day and hunts at dusk and by night, crawling over the bottom and jetting between rocks, taking crab and lobster from the stones and fish from the kelp, and a seal from under a haul-out. It kills by holding and biting. It learns: a den-octopus that has once taken a seal from a sealer's line takes the next one, and one that has been struck from a particular boat knows the boat. It opens a lobster-pot, lifts a stone, and carries a shell home to block its door. It changes color to show its temper, and a red octopus is an angry one. It comes into the shallows after a wounded seal and after bait, and that is where boats meet it.
+
+## What the Sealers Do
+
+A fjord crew that works a haul-out with a den under it hauls its seals into the boat fast and does not trail a carcass. A boat that feels an arm over the gunwale cuts at it with the flensing knives at once, because the second arm follows the first and the boat goes over when three are on it. Dens are marked and left alone, and a den that has taken a man is dealt with at low water on a still day: the crews fill the mouth with stones and pour fish-oil and burning tow on the water, and sometimes it works. The beak is kept as a trophy and carved; the arms are eaten, and the fjord people say the meat of an old one tastes of the men it has had.
+
+## Signs
+
+- A heap of cleaned crab shells, mussel shells and seal bones at the foot of a rock wall under clear water.
+- Lobster-pots hauled up open and empty, with the bait gone and the lid unlatched.
+- A stretch of bottom that changes color when the boat's shadow crosses it.
+- Seals hauled out high and nervous on a skerry, watching the water and not the boat.
+- A dark cloud spreading under the surface after a splash, and nothing visible in it.
 
 ## Combat Strategy
 
-A Giant Octopus uses its intelligence to its absolute advantage. It approaches prey stealthily, using camouflage to remain undetected until the moment of attack. When it strikes, tentacles lash out to grapple and draw prey toward the central body where the beak can deliver lethal damage. If a tentacle is damaged or severed, the octopus shows no hesitation in using the remaining limbs with even greater focus. An octopus in serious trouble releases a cloud of ink to obscure pursuit and retreats into deep water. An octopus defending a lair becomes an absolute terror—it protects its home with cunning and desperation, potentially hunting a threat across considerable distances.
+The octopus lies on the bottom in the color of the bottom until the prey is close, then seizes it with two or three arms and draws it in to the beak, holding the rest of its arms ready for whatever else comes. Against a boat it takes hold of the gunwale and the men together and pulls, and the boat capsizes before the men can cut it free. It does not let go of an arm that is being cut; it brings another. Hurt, it fills the water with ink and jets away into deep water, and it is not caught there. It defends its den with everything it has and follows a thing that has robbed it for a long way. In the water a man has no defense but a knife at the suckers; in the boat he has the knife and his friends, and he uses them in the first moments or not at all.
 
 ## Attack Methods
 
 ### Tentacle Grapple
 
-The powerful tentacles wrap around prey and squeeze with force sufficient to crush bones—the suction cups create a grip that is nearly impossible to break without cutting the tentacle. Multiple tentacles can grapple multiple targets or work together to crush a single victim.
+An arm takes hold with its suckers and squeezes with the strength to crack ribs, and the grip does not come loose without cutting. Several arms take several men, or wind together round one and crush him.
 
 ### Beak Bite
 
-Once prey is held by tentacles, the octopus brings it toward the central body where the hard, sharp beak can bite and pierce. The bite can crack armor, splinter bone, and cause grievous wounds.
+A held thing is drawn under the body to the beak, which bites through mail, splinters bone and opens the belly.
 
 ## Special Abilities
 
 ### Chromatic Camouflage
 
-The octopus can change its color and pattern in seconds to match its surroundings—rocky bottom, sandy floor, or kelp forest. An octopus using this ability requires careful observation to spot even when in open water.
+The skin takes the color and the grain of rock, sand or weed in a moment. On the bottom the octopus cannot be seen until it moves, and in open water it is hard to follow.
 
 ### Ink Defensive Barrage
 
-When threatened or when escaping, the octopus releases a cloud of jet-black ink from its siphon—this cloud obscures vision, tastes foul to predators, and provides concealment for escape. The ink is thick and clouds water effectively.
+The funnel pours a cloud of black ink that blinds anything in the water and tastes foul, and the octopus is gone behind it before the cloud thins.
 
 ### Remarkable Intelligence
 
-The octopus demonstrates problem-solving ability unusual in animals—it can learn routes, remember locations, and appear to set traps for prey. It can open containers, manipulate objects, and understand cause-and-effect relationships.
-
-## Additional Information
-
-A giant octopus territory should be avoided by reasonable people—the potential for profit does not offset the danger. Some fishermen claim that old octopuses develop personalities and preferences, hunting specific ships or harbors with apparent vendetta. An octopus's beak is sometimes harvested for armor reinforcement or carved into jewelry. Some magical practitioners claim the ability to negotiate with octopuses through telepathic means, with mixed results.
+It learns a boat, a line and a trap, remembers a place and a face, opens what is closed and sets a snare of its own with a baited stone. Its arms think for themselves, and the whole animal thinks better than most of the men who hunt it.
 
 ## Attributes
 

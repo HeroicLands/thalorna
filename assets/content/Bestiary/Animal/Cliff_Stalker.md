@@ -246,59 +246,77 @@ sohl:
 
 ![[clffstlk|Cliff Stalker]]{float=top-left}
 
-The rock face is pale gray and mottled patches until suddenly it isn't stone at all—the shape resolves into a colossal predator resting on a ledge fifty feet above. Its pale coat, spotted with dark rosettes, is so perfectly matched to the stone that it seems less like camouflage and more like the creature is made of rock itself. The moment it catches your scent, its ears rotate forward, and long amber eyes fix directly on you with singular purpose. The tail, extraordinarily long, begins to move in slow arcs, almost hypnotic—this is not a creature scanning for food. This is a hunter that has already decided.
+The ledge is fifty feet above the path, pale gray rock mottled with lichen, and you have looked straight at it twice. The third time a patch of the mottling has ears. They turn toward you. A long tail, longer than the body it belongs to, lifts off the stone and begins to swing in slow arcs, and two amber eyes hold on you without blinking while the rest of the animal stays exactly as still as the mountain.
 
 # Dossier {#dossier}
 
-The Cliff Stalker is an apex predator of high mountain terrain: a massive feline built for vertical terrain and precision ambush. Standing three feet tall at the shoulder and measuring up to seven feet in length including its long tail, these solitary hunters are significantly larger than snow leopards while retaining the mountainous habitat. They are extraordinarily patient predators, capable of stalking prey for hours or days, waiting for the perfect opportunity to strike. A Cliff Stalker is a creature of calculation—every movement is deliberate, every attack rehearsed mentally before execution. These creatures view humans as prey rather than threats, and they have learned that human travelers carry food and are generally less capable of defending themselves than mountain goats or rams. Adventurers traversing mountain passes, exploring high-altitude ruins, or camping in alpine terrain may become prey without ever knowing a predator watches from the rocks above.
+The Cliff Stalker is the great cat of the high ledges of the [[place-graznmntns|Grazian Mountains]]: three feet at the shoulder, seven feet from nose to tail-tip with the tail making up nearly half of that, a hundred and thirty pounds of a hunter built for rock. Its coat is pale gray spotted with dark rosettes, and on the stone it lives on it cannot be seen until it moves. It kills the wild goats and rams of the high country by dropping on them from above, and it has learned that a pack train on a mountain road is slower than a goat and carries food.
+
+It is one of the four creatures the guides of the passes name when a lowlander asks what the mountains hold, with the [[being-crglrkr|Crag Lurker]], the [[being-stoneram|Stone Ram]] and the [[being-roc|Roc]]. Of the four it is the one most likely to take a sleeping man out of a camp.
 
 ## Presentation
 
-A powerfully built feline with the frame of a lion scaled for mountain terrain. The body is compact and muscular, with very powerful hindquarters and shoulders. The head is proportionally smaller than a lion's, with high-set eyes positioned forward for binocular vision. The ears are small and rounded, capable of independent rotation. The coat is thick and luxuriously soft, pale gray or silvery in base color, marked with dark rosettes or spots that provide perfect camouflage against rock and stone. The paws are unusually large with prominent calluses on the paw pads, adapted for gripping stone even when wet or icy. The claws are sharp and slightly curved. The tail is extraordinarily long—often longer than the body—and muscular, used extensively for balance on narrow surfaces. Scars marking successful predation or intra-species conflicts are common, particularly around the face and shoulders. The overall impression is of a creature perfectly matched to its environment, almost indistinguishable from the terrain until movement betrays its presence.
+A compact, deep-chested cat with the frame of a lion built smaller and lower, heavy through the shoulders and hindquarters, with a head small for the body and eyes set forward for judging a drop. The ears are short and rounded and turn independently. The coat is thick and soft, silver-gray with dark rosettes, and the paws are very large, padded with hard callus that grips wet or iced stone. The tail is thicker than a man's wrist and does the work of a balancing pole on a ledge a hand's breadth wide. Older animals carry scars about the face and shoulders from fights over territory.
+
+## In the Land
+
+Cliff Stalkers hold the ledges and gullies of the Grazian north face, above the [[place-dkrqrrgn|Dikraqor]] and along the approaches to the high passes, and the [[place-grazruins|ruins and labyrinths]] under the glaciers, where the cut passages open onto cliff. Each cat holds ten to thirty square miles of broken rock and marks its edges with scent; two never share a range outside the mating season. They follow the goats, and the goats follow the thin grass, so a cat's range runs from the scree below the snowline down to the ravine mouths where the plateau tribes water their flocks. They dislike deep cold and lie up in high caves through the worst of the winter, which is the one season a guide crosses the north face without watching the ledges.
 
 ## Key Behaviors
 
-Cliff Stalkers are strictly solitary, with each individual claiming and defending a territory spanning ten to thirty square miles of mountainous terrain. They are territorial toward other Cliff Stalkers and will patrol boundaries, mark with scent, and fight rivals to maintain control. They hunt alone by preference and only tolerate proximity to other Cliff Stalkers during mating season. Their prey is typically mountain goats, ibex, or other high-altitude ungulates, which they hunt through patient stalking. A typical hunt involves identifying prey, tracking it for hours or days, getting into position above the prey, and then striking from above with explosive violence. They can remain perfectly motionless for hours, controlling breathing and heartbeat to minimize vibration and scent dispersal. Between kills, they rest extensively, sleeping much of the day and hunting primarily during hours when prey is most active. They have learned to recognize human settlements and livestock, and a Cliff Stalker that has successfully killed humans or domestic animals will repeat the behavior. They have poor tolerance for cold and prefer to hunt in warmer months, retiring to high caves during winter.
+A Cliff Stalker hunts alone, by stalking and then by ambush. It finds its prey from a height, works round above it over hours or a day, and lies flat on a ledge over the path, breathing slow, until the animal is directly below; then it drops. It sleeps most of the day between kills and hunts at the hours its prey is moving. It is a learning animal: a cat that has taken a goat from a flock, or a mule from a string, comes back to the same bend of the same path, and a cat that has killed a man has learned that men are slow.
+
+## What the Guides Do
+
+The guides who lead caravans over the passes keep a man walking above the string on any stretch where a ledge overhangs the path, and they camp in the open, away from the foot of a cliff, with the animals inside the ring of fires. A string that has lost a mule to a Stalker moves the next day's camp a long way off, because the cat will be back. The plateau tribes below set a boy with a sling on a rock above the flock and lose a goat a season anyway. A pelt brings a good price at the pass shrines and in [[place-kethramir|Kethramir]], silver-gray and spotted and the size of a man, and the hunters who take them do it with dogs to find the lie and a crossbow from below.
+
+## Signs
+
+- Goat bones on a ledge no goat could reach, cracked for the marrow.
+- A drag-trail up a scree slope, with blood on the stones at intervals.
+- Pack animals that stop and stare at one place on a cliff and will not go under it.
+- Four-toed prints as wide as a man's hand in snow or mud, with no claw marks, in a straight line.
+- A patch of mottled rock on a ledge that was not there an hour ago.
 
 ## Combat Strategy
 
-A Cliff Stalker's ideal strategy is ambush from above. The creature positions itself above a travel route or camp, waits for prey to settle or become distracted, then attacks with explosive force from above. The goal is to pin the prey, control its head and neck, and deliver a bite to the spine or throat that causes rapid death. Against multiple opponents, the Cliff Stalker prefers to target the weakest or most isolated individual, attempting to drag them away from the group and kill them in isolation. If an attack fails or the Cliff Stalker is injured, it will retreat to high ground where it is difficult to pursue and can observe from relative safety. The creature is intelligent enough to learn defensive patterns and will avoid repeating failed tactics. Once it has wounded prey, it will follow at distance, waiting for exhaustion to make the prey vulnerable. A Cliff Stalker will fight if cornered or defending a kill, but such combat is a last resort.
+The cat attacks from above. It waits until a man or an animal is below it and alone, or asleep, and drops onto the back, driving the prey face-down and biting for the neck. Against a group it takes the one at the edge, tries to drag it off the path and out of reach, and kills it where the others cannot follow. A failed drop ends the attack: the cat goes up the rock faster than anyone can shoot and watches from a height. A wounded animal it has let go, it follows at a distance for a day. It fights to the finish only when it is cornered or standing over a kill; then it does not stop for wounds, and a hurt Stalker is more dangerous than a whole one.
 
 ## Attack Methods
 
-### Pouncing Ambush
-
-The Cliff Stalker launches from a position above or behind, attempting to knock the target down and control movement. The impact, combined with the creature's weight, is often sufficient to incapacitate human-sized targets immediately. The creature attempts to drive the target to the ground face-first, compromising ability to defend.
-
 ### Throat Bite
 
-Once prey is pinned, the Cliff Stalker attempts to deliver a killing bite to the throat, severing arteries and causing death through blood loss within minutes. The jaw strength is sufficient to crush the larynx and cervical spine. A successful bite to the throat is typically fatal.
+With the prey pinned, the jaws close on the throat and crush the windpipe and the great vessels. A full bite kills within minutes.
 
-### Spine Bite
+### Raking Claws
 
-If the prey is down, the Cliff Stalker will bite the spinal column, attempting to paralyze the target through spinal cord damage. A successfully targeted spine bite paralyzes the hindquarters or lower body, rendering escape impossible.
-
-### Raking with Claws
-
-When fighting from a position other than on top of prey, the Cliff Stalker uses its claws to rake, attempting to open wounds that bleed freely. Multiple rake attacks to the same area can sever tendons and cause loss of limb function.
+Standing off from the prey, the cat rakes with its forepaws to open the long muscles of a limb and bleed it. Several rakes in the same place cut tendon and the limb fails.
 
 ## Special Abilities
 
+### Pouncing Ambush
+
+The cat drops from a ledge or launches from behind, and its weight and the fall knock a man flat before he knows what has him. It tries to land the prey face-down.
+
+### Spine Bite
+
+A prey animal lying on its front takes the bite at the back of the neck or the spine, and its hindquarters stop working.
+
 ### Superlative Ambush Predator
 
-The Cliff Stalker is made for ambush: patience, camouflage, accuracy, and explosive violence. An attack from ambush is usually decisive—targets are often incapacitated by impact before they can mount defense. The creature's patience is limitless; it will stalk prey for days if necessary, waiting for the perfect opportunity. Its ability to remain completely motionless for extended periods makes detection extraordinarily difficult.
+The Stalker's camouflage, stillness and patience make its first blow the one that counts: a man taken from above is usually down and bitten before anyone can draw. It will wait on a ledge for a day for the right moment.
 
 ### Surefooted on Vertical Terrain
 
-The Cliff Stalker moves on nearly vertical rock faces with the same confidence humans have on level ground. Its wide paws and pad structure provide extraordinary grip even on smooth, slick, or icy stone. The creature is nearly impossible to knock off balance or cause to fall, even when forced to fight on terrain that would be deadly for humans.
+The cat crosses near-vertical rock, wet or iced, as a man crosses a floor. It cannot be shaken off a ledge, and it fights on footing that would kill a man.
 
 ### Exceptional Vision and Hearing
 
-Despite preferring ambush, the Cliff Stalker's senses are extraordinarily acute. It can see prey from considerable distances, identify movement at extreme range, and hear sounds that human ears cannot perceive. This sensory advantage makes its hunting sure and allows the creature to detect threats before they become dangerous.
+It sees a moving goat across a valley and hears a boot on gravel far below. In its own country it knows a party is coming long before the party knows anything.
 
 ### Extreme Pain Tolerance and Killer Instinct
 
-A Cliff Stalker that has committed to an attack will complete it regardless of injury or resistance. Pain does not cause retreat or hesitation. Injured Cliff Stalkers become more aggressive, not less. This combination of pain tolerance and killer instinct makes them extraordinarily dangerous even when fighting a superior force.
+A Stalker that has committed finishes the attack whatever it takes. Wounds do not turn it back; they make it savage.
 
 ## Attributes
 

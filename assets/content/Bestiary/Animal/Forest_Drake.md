@@ -295,51 +295,65 @@ sohl:
 
 ![[frstdrk|Forest Drake]]{float=top-left}
 
-The forest seems to shift as your eyes pass across the canopy, a ripple in the green that makes you stop and stare. For a moment you see nothing—then the pattern resolves into scales. Emerald bright yet dappled with lighter shades that mirror the play of leaves in sunlight, the creature becomes visible only once you know it is there. A sinuous form eight feet long coils around a branch, and when it turns its angular head toward you, two luminous yellow eyes open like twin flames. The air grows warm on your face as the creature's nostrils flare, and you hear the sound of scales sliding across bark—a sound like whispered warnings.
+The oak over the path has a branch as thick as a horse, and the branch has been looking at you for some time. You see the eyes first, two slits of yellow in the dapple of leaf and shadow, and then the scales resolve round them, emerald flecked with lighter green, and the shape of a head the length of your arm. Eight feet of it is wound along the limb. A forked tongue tastes the air in your direction, and a long tail with a spine at its tip uncoils from the far side of the trunk.
 
 # Dossier {#dossier}
 
-The Forest Drake is a semi-arboreal reptilian predator that dominates the canopy and understory of deep woodlands. Though draconic in appearance with scaled hide and vestigial wings, it is a relatively small creature compared to true dragons, rarely exceeding eight feet in total length. These intelligent hunters are solitary and territorial, establishing home ranges within their preferred forest and aggressively defending them from rivals. Adventurers most commonly encounter forest drakes when traveling deep woodlands or when they make the mistake of camping in a drake's territory.
+The Forest Drake is the drake of the old forest of [[place-vrystwald|Vrystwald]] and its deepwood, [[place-vethwald|Véthwald]]: eight feet from snout to tail-tip, scaled in greens that match the canopy, with four taloned limbs, a prehensile tail and a pair of leathery wings on which it glides from crown to crown and makes short, heavy flights. It lives in the trees, holds a hunting range of several square miles of old growth, and takes birds, squirrels, martens, fawns and whatever else comes under its branch. It is clever enough to learn a hunter's habits and to lie up where he passes.
+
+The Varokh count it among the beasts of the forest and give it a wide berth.
 
 ## Presentation
 
-The Forest Drake is a sleek, muscular predator built for arboreal life. Its body is covered in fine, overlapping scales in shades of emerald green, broken by lighter flecks and patterns that create the illusion of foliage and shadow. A row of sharp-tipped spines runs along its spine from neck to the base of its tail, and smaller ridges bracket its eyes, giving it an expression of perpetual alertness. Its forelimbs end in three sharp-curved talons designed for gripping bark and flesh alike. The tail is long and prehensile, muscular enough to support the drake's weight in climbing and ending in a wickedly sharp spine. The head is angular and reptilian with a powerful jaw, and the eyes are large and bright yellow, set to provide excellent forward and lateral vision. The vestigial wings are leathery and colorfully patterned—used for display and for regulating its warmth rather than flight.
+A sleek, long-bodied reptile built for climbing, with fine overlapping scales in emerald and paler greens broken by lighter flecks, so that a drake lying along a limb in sunlight looks like leaf and shadow. A row of short spines runs down the back from neck to tail, and smaller ridges bracket the eyes. The forelimbs end in three curved talons that grip bark and flesh alike, and the hind limbs are stronger. The tail is long, muscular and prehensile, and ends in a hard spine. The head is angular with a deep jaw of backward-curving teeth and large yellow eyes. The wings are leathery, patterned in brighter green and gold on the underside, and folded along the body when the drake is at rest.
+
+## In the Land
+
+Forest Drakes live in the central mixed-forest belt of Vrystwald, in the oldest timber, and are thickest in Véthwald, where the oaks are large enough to hold one along a branch. They are met along the rivers where the old forest comes down to the water and rarely in the northern taiga, where the trees are too thin. Each drake holds its range alone and drives out any other, and a range with a Varokh clearing in it is a range where goats and dogs go missing. In winter the drake dens in a hollow trunk and is seldom seen.
 
 ## Key Behaviors
 
-Forest Drakes are solitary and fiercely territorial, with each individual controlling a hunting range of several square miles of old-growth forest. They are primarily nocturnal hunters, though they will hunt in dappled daylight when prey presents itself. The drake spends much of the day coiled on high branches, remaining motionless for hours as it watches the forest floor below. They are omnivorous but primarily carnivorous, hunting birds, small mammals, reptiles, and occasionally larger prey that ventures into their territory. A forest drake is intelligent and will set simple ambushes, recognizing returning prey animals and learning the habits of creatures in their range.
+A drake hunts chiefly at night and in the dusk, and spends the day coiled on a high limb watching the ground. It drops on prey from above or strikes from cover as it passes beneath, and it carries what it can lift back into the canopy to eat. It eats birds and their eggs, squirrels, martens, hares, fawns and, on a clearing's edge, lambs, kids and dogs. It learns: it marks where a hunter walks and when the herd-boy brings the goats to the stream, and it is there. It understands speech after a fashion, and the few who have tried to talk to one report that it listened and did as it pleased.
+
+## What the Villages Do
+
+A Varokh village with a drake in its woods keeps its goats and dogs in at night and sends the children for firewood in pairs. The hunters do not go after it in the trees. When a drake has taken too much, the village stakes out a kid in a clearing at dusk and waits with bows under cover, and a drake that comes down to the bait on the ground is killed there; one that drops from a branch and goes straight back up with the kid is not. The hide is scaled and tough and the Varokh make it into belts and the covers of their shields; the wing-leather makes fine gloves and is traded downriver.
+
+## Signs
+
+- A goat or a dog gone from a clearing with no track leading away and a scrape of claw-marks on the nearest big trunk.
+- Shed scales, green and the size of a thumbnail, at the foot of an old oak.
+- Bones and feathers lodged in the crotch of a high branch.
+- A sudden silence of birds in one stand of trees while the forest round it goes on singing.
+- A patch of dappled green on a limb that does not move with the wind.
 
 ## Combat Strategy
 
-A forest drake's primary tactic is the ambush from above or from dense cover. It will wait in the canopy, then drop onto prey with sudden violence or strike from concealment as prey passes beneath. If the target is small enough to carry, the drake will flee upward toward the canopy; if not, it will press quick, vicious attacks while keeping escape routes open. A forest drake uses the terrain ruthlessly, climbing higher than any land-bound pursuer can follow and using the broken sight lines of the forest to lose trackers. If cornered, a drake fights with total commitment, but it strongly prefers not to—a wounded drake will flee rather than continue a fight it cannot easily win.
+The drake strikes from above or from cover and does not stay to fight. It drops on a man, bites and holds, and if he is small enough it goes back up the trunk with him; if he is not, it bites and rakes quickly and climbs out of reach, then glides to another tree and watches. On the ground it is a competent fighter and no more, and it does not stay on the ground by choice. Cornered in a hollow trunk or wounded so that it cannot climb it fights to the end, and the tail-spine and the hind talons do as much as the jaws. A drake that has been hurt in a fight it could leave, leaves, and remembers who hurt it.
 
 ## Attack Methods
 
 ### Fanged Bite
 
-The drake's bite is powerful and its teeth are sharp backward-curving fangs designed to catch and hold struggling prey. A bite is typically preceded by an attempt to grapple the target with talons and body coils, though a diving drake may bite as its initial attack.
+The jaws close and the curved teeth hold a struggling animal fast. A drake usually bites after it has seized the prey with its talons or wrapped it in a coil of the tail; a drake dropping from a branch bites first.
 
 ### Talon Rend
 
-A quick, hooking strike with the sharp talons on the drake's forelimbs, raking across the target's body or limbs. These attacks are used to create distance and maintain advantage during a fight.
+A hooking rake with the fore-talons across a body or a limb, used to open a wound and win room.
 
 ### Tail Strike
 
-The drake's muscular tail can be brought to bear with significant force, striking like a whip and ending in a sharp spike. This attack is typically used to knock an opponent off balance or to drive them away from the drake's body.
+The tail lashes like a whip with the spine at its end, hard enough to knock a man off his feet or drive him back from the trunk.
 
 ## Special Abilities
 
 ### Arboreal Mastery
 
-The Forest Drake moves through the canopy with perfect grace and security—it climbs at full speed without pause or effort, and trees that would be impassable to other creatures are highways for the drake. On the ground, the drake is competent but no more; in its native forest canopy, it has every advantage.
+The drake climbs at full speed, head up or head down, crosses between crowns on its wings, and goes where no man or dog can follow. In the canopy everything favors it; on open ground nothing does.
 
 ### Camouflage Scales
 
-The drake's coloration is perfectly adapted to the green and shadow of the forest canopy. When stationary among foliage, the drake takes careful observation to spot; when moving, it is easier to detect but still blends well with its surroundings. In full sunlight away from trees, the camouflage counts for nothing.
-
-## Additional Information
-
-Forest Drakes are territorial enough that anyone settled in their range will face constant low-level predation—missing livestock, disturbing encounters at the margins of civilization, intimidation through presence and threat display. Some hunters will take contracts to remove troublesome drakes, though the work is dangerous and the payment poor. A drake's scales are valuable for armor and decoration. Some practitioners of the arcane arts have attempted to communicate with drakes due to their obvious intelligence, with mixed results—drakes seem to understand language but rarely care for bargains.
+Lying still in leaf-shadow the drake is a branch until it opens its eyes. Moving, it is harder to lose in the green than anything else of its size, and in full sun on open ground its colors hide nothing.
 
 ## Attributes
 

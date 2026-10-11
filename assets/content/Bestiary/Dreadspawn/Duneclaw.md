@@ -186,59 +186,73 @@ sohl:
 
 ![[duneclaw|Duneclaw]]{float=top-left}
 
-Sand shifts in ways the wind cannot explain. Something immense lurks just beneath the surface—a shadow that moves with purpose. Then it erupts: an armored scorpion-thing, each segment of its carapace the size of a boulder, its pincers as thick as tree limbs. The stinger curves above its back, black and dripping, and its faceted eyes—clusters of lenses—swivel to track your movement with inhuman intelligence. Hot wind rises from where it emerged, carrying the stench of venom and baked chitin.
+The salt flat glares white to the horizon on your left, and on your right the old shore dunes lie in a long gray line, and the guide keeps the string on the narrow strip between them at a fast walk. Something moves in the lee of a dune. The sand there slides downward in a sheet, and out of it comes a scorpion the length of a river barge, black-brown and scarred, its pincers as thick as a man's body, its tail arched high over its back with a stinger that drips something that shines like oil. A cluster of eyes on its head turns, all together, toward the last camel in the string. It does not hurry. It knows how far the camel is from the salt.
 
 # Dossier {#dossier}
 
-Duneclaws are apex predators of sand and sun-scorched waste, massive arthropods driven by predatory instinct and surprising cunning. These creatures rule their desert territories with crushing force and venomous precision, hunting anything smaller than themselves. Adventurers encounter them in deep deserts, in dune-fields far from civilization, and in places where underground chambers breach the sand below.
+The Duneclaw is a dreadspawn, a made thing: a scorpion twenty feet long and more, armored in dark chitin with a faint sheen like oil on water, with pincers each the size of a man and a stinger that drives a paralyzing venom through plate. One lives in the old shore dunes at the edge of [[place-ewod|Ewod]], the dead lake basin of the [[place-hskrrgn|Hosikor]], and has lived there longer than any tribe remembers, striking from the lee of a dune at whatever crosses between the salt and the sand. The herders who graze the edge of the basin lose a goat a season to it and do not go near the shore dunes at night. Others of the same shape are met elsewhere in the deep sands, far apart, and nobody has seen two together; like every dreadspawn it has no young, and no one knows whether the ones in the deep sands were made at the same time as the one at Ewod or long after.
+
+The tribes call it by the stars. The Sahri star-song of the lake under the sand, [[lore-waterunder|The Buried Water]], sets the Claw—three bright stars bent like a hook that rise out of the Salt at midnight in the cold season—over the duneclaw at the edge of the white, and the herders say it comes out when the Claw is up.
 
 ## Presentation
 
-The Duneclaw is a creature of immense size—roughly twenty to thirty feet in length—resembling a monstrous scorpion with chitinous armor. Its exoskeleton is dark brown to black, weathered and scarred by sand and time, with a faint iridescence suggesting magic in its construction. Massive pincers—each as large as a man—dominate its front segments. Its abdomen curves upward into a tail tipped with a curved stinger dripping with iridescent venom. The creature has multiple compound eyes arranged in clusters on its head, each eye a lens of perfect geometry. Its legs are jointed and powerful, each foot enormous and capable of supporting immense weight. When it moves, the ground trembles; when it burrows, it leaves passages feet deep and yards wide. The sound of its movement is the scraping of chitin against sand, like entire buildings grinding together.
+A vast scorpion, low and broad, its body a chain of plates each as big as a cart-bed, dark brown to black and scoured dull by sand except where the faint sheen of its making shows through. The pincers are as long as a man is tall and as thick, toothed along their inner edges. The tail rises in a high arch of narrowing segments to a curved stinger as long as a sword, wet with a venom that catches the light in colors. The eyes are clusters of lenses round the front of the head, and they move together. It stands on eight jointed legs with broad feet that hold on sand. Moving, it scrapes, a sound like a millstone on grit, and the ground shakes under it.
+
+## In the Land
+
+The Duneclaw of Ewod holds the old shore dunes along the western edge of the basin, in the lee of the dunes where the salt meets the sand, and it lairs in a burrow under them that no one has found. Its ground is the strip a traveler must cross to get on or off the salt, and it knows every hardpan and every place a herd passes. The lake people's brick stairs and stepped mounds stand along that old shore, and the [[being-yolequd|Yolequd]] walks the salt beyond it, so a party that has come for what the Basin Builders left has the duneclaw behind it and the salt-spirit in front. The others of its kind live in the deep sands of the Hosikor, each alone on a stretch of dune many miles across.
 
 ## Key Behaviors
 
-The Duneclaw is a solitary, apex predator that claims vast desert territories as its exclusive hunting ground. It dwells in deep burrows below the sand, emerging to hunt during cooler hours. The creature knows its territory—every dune, every hardpan, every place prey habitually passes—and it uses this knowledge with calculated patience. When not hunting, it remains beneath the sand, relatively dormant. When hunting, it becomes active and aggressive. It marks territory through pheromone trails and crushed remains of failed hunters who dared to encroach. It shows no sign of social behavior; multiple Duneclaws in the same region maintain strict separation through violent defense of boundaries.
+The duneclaw spends most of its life buried in its burrow, still, and comes up to hunt in the cool hours. It feels a footfall through the sand from a long way off, moves under the surface toward it, and waits in the lee of a dune until the thing is in reach. It takes goats, gazelle, wild asses, a straggling camel, and any man who crosses its strip alone. It knows its ground as a herdsman knows his pasture, and it sets itself where prey habitually passes. It marks the edges of its ground with crushed carcasses left in the open. It does not feed often. A duneclaw that has fed goes back under the sand for weeks.
+
+## What the Tribes Do
+
+The herders who graze the margins of Ewod keep their flocks off the shore dunes and away from the edge of the salt after dusk, and they count the goat they lose each season as the price of the grazing. A string going onto the salt crosses the shore strip at noon, fast and close together, never strung out, because the duneclaw takes the last animal in a line. The slab-cutters who work the salt for trade come and go by one crossing they trust, and leave an old goat tethered on the dunes at the start of the season; whether that keeps the duneclaw off them or only feeds it, they do not argue. Nobody has killed the one at Ewod. A stinger from one of the deep-sand duneclaws, brought into [[place-qisomrktcmp|Qìso]] by a tribe that found the creature dead, sold to a Tellumi alchemist for more than the tribe's herd was worth.
+
+## Signs
+
+- A goat carcass left crushed and uneaten on open sand, at the edge of a stretch of dunes.
+- The lee slope of a dune slumped and smoothed in a broad fan, as if something had gone down under it.
+- A trench in the sand a yard wide, running from the dunes toward the salt and ending in nothing.
+- A smell of hot chitin and something sharp and oily on the wind off the dunes.
+- The Claw rising out of the salt at midnight, which the herders treat as a warning.
 
 ## Combat Strategy
 
-The Duneclaw attacks with overwhelming force, attempting to grapple and crush prey with its massive pincers while using its stinger to deliver venom. If prey escapes initial grapple, the creature pursues with relentless determination. It uses its burrowing ability to escape combat briefly when severely wounded, retreating beneath sand to allow venom or wounds to take effect. When threatened by forces it judges superior, it retreats deep into its burrow and seals the entrance, becoming essentially unreachable. It does not fight to establish dominance over creatures its own size—it fights to kill and consume.
+The duneclaw rises out of the sand beside its prey, seizes it in a pincer and crushes, and drives the stinger in at once. It holds a struggling thing and stings it again until it stops moving. If the prey gets away it pursues across the sand, faster than a camel on soft ground, and tramples what it catches. It goes for the last in a line, the one apart, the one already hurt. Against a force it judges too strong it goes back under the sand and is gone; a badly wounded duneclaw goes down into its burrow and does not come out until it has mended. Cold slows it badly, and on a winter night it is sluggish and fights poorly.
 
 ## Attack Methods
 
-### Crushing Pincer Grasp
+### Crushing Pincer
 
-The creature attempts to seize prey in its massive pincers. Once seized, prey is crushed harder and harder as the pincers contract. Breaking free takes great strength. The creature can lift and tear apart large prey.
+A pincer closes on a man or a camel and tightens. It breaks bones through mail, and a man held in one cannot pull free without great strength or the pincer being struck open. The duneclaw lifts what it holds and tears it apart between both pincers.
 
 ### Stinger Strike
 
-The Duneclaw's curved tail whips downward with tremendous force, attempting to pierce through armor and inject venom into the target. The stinger is capable of penetrating even plate armor with sufficient force.
-
-### Trampling Charge
-
-The creature can build momentum in a charge across open ground, using its full weight and armor as a weapon. Targets struck are battered and likely knocked off their feet.
+The tail whips down over the body and the stinger drives in with force enough to pierce plate, and the venom goes with it.
 
 ## Special Abilities
 
 ### Venomous Injection
 
-The creature's stinger delivers a paralytic venom that weakens muscles and impairs movement and fine motor control. A stung victim grows weaker and clumsier with each dose; multiple injections can render prey completely immobilized.
+The venom weakens the muscles and spoils the hands' grip. Each sting makes a man weaker and clumsier, and three or four leave him unable to move.
 
 ### Chitinous Armor
 
-The Duneclaw's exoskeleton is a superb natural defense against physical attack. Slashing and piercing attacks do little; blunt force does more but is still resisted.
+The plates turn cuts and thrusts. A heavy blunt blow does more, and still less than it would to anything else.
+
+### Trampling Charge
+
+Across open sand the duneclaw builds speed and runs down what it is chasing, battering it flat under its weight and plates.
 
 ### Sand Tunneling
 
-The creature can burrow through sand and compact earth with ease, moving beneath the surface at substantial speed. It can emerge from sand unexpectedly, surprising prey above ground.
+It moves under the sand at a good pace, comes up where it pleases, and sinks out of reach in a few breaths.
 
 ### Vibration Sensing
 
-The Duneclaw perceives its environment through vibrations in sand and stone, detecting anything moving across its territory. It is effectively blind to distant threats but keenly aware of movement, footfalls, and ground disturbances within miles of its lair.
-
-## Additional Information
-
-Cold-based attacks significantly hamper the Duneclaw's mobility and effectiveness. Extreme cold can freeze venom in the stinger, preventing injection. Creatures that can track across sand or sense through earth are better placed to pursue or predict Duneclaw movement. Some desert cultures maintain peace with local Duneclaws through ritualistic offerings, using the creatures as both deterrent and waste disposal.
+It feels every footfall on its ground through the sand and knows where a thing is, how heavy and how fast, though it sees little beyond a few yards.
 
 ## Attributes
 

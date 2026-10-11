@@ -308,59 +308,69 @@ sohl:
 
 # Appearance {#appearance}
 
-The scream reaches you first—not the cry of any bird you have ever heard, but something between a woman's shriek and the hunting call of a raptor, multiplied and echoing off canyon walls until you cannot tell if it comes from one creature or a dozen. Then they emerge from the thermals above, silhouettes against the sky that resolve into nightmare. Each is humanoid from waist to head—a woman's torso, grotesquely thin-limbed and pale, dark hair whipping in wind that has no source—but from the waist down, the transition becomes alien. Where legs should be, massive feathered wings erupt, scallop-shaped and mottled in sickly greens and purples, their surfaces glistening with something that might be slime or might be mucus. The claws on their feet are wickedly long, curved and cruel, clearly evolved for gripping and tearing. Their faces are striking in a way that horrifies rather than attracts: sharp-featured and achingly beautiful, with eyes that burn with an intelligence that is wholly wrong and wholly hostile. As they circle, you hear the sound of their wings—wet, mucilaginous, organic—and beneath that, the scrape of claw on stone. They scream again, that same terrible sound, and you understand with nauseating clarity that they are calling to each other, coordinating, picking which of you will die first. The smell rolls down from them: carrion and decay, copper and something chemical that burns the inside of your nose. One of them speaks in a voice like grinding glass: "Fresh prey. How... delicious."
+The scream comes off the cliff above the beach and goes on too long for any gull. There are three of them on the ledges, hunched and pale, and as you watch, one spreads a pair of mottled wings fourteen feet across where its legs should be and drops into the wind. It has a woman's head and shoulders, gaunt and sharp-faced, and under them nothing a woman has: chitinous legs, clawed feet, and wings that glisten wet. It passes over you low enough to smell, carrion and copper, and a stone the size of a fist comes down out of the sky behind it and bursts on the shingle at your feet.
 
 # Dossier {#dossier}
 
-Harpies are semi-intelligent flying humanoids that inhabit high mountain ranges, isolated peaks, and coastal cliff faces throughout the world. Standing roughly five and a half feet tall (when measured from head to the beginning of the wing joint, though the wing span extends twelve to fourteen feet), harpies are quasi-reptilian creatures that combine predatory intelligence with an animalistic, territorial ferocity. They are hostile to all humanoid races—humans, dwarves, elves—viewing them as prey or territorial threats. Harpies hunt in flocks that vary from solitary individuals to coordinated groups of twenty or more, using tactics refined over centuries to isolate, overwhelm, and consume targets. They are not mindlessly bestial; harpies can set traps, plan ambushes, and understand cause and effect at a level that suggests real intelligence—yet they lack any coherent language beyond simple vocalizations, show no interest in tools or culture, and seem incapable of abstract reasoning. They breed in the spring, and during breeding season they become even more aggressive, defending nesting territories with suicidal ferocity. Adventurers who travel through mountain passes or climb to high altitudes risk encountering harpy flocks, particularly during nesting season when the creatures' territorial aggression peaks.
+The harpy is a flying hunter with the head, arms and torso of a gaunt woman set on the wings and clawed legs of something that is neither bird nor lizard, five and a half feet from crown to wing-root and fourteen feet across the wings. It nests in flocks on the sea-cliffs of the volcanic islands off the northwest coast of the [[place-nrdlndsrgn|Nordlands]] and on the fjord headlands, and on isolated peaks inland, and it hunts by stooping, by driving, and by dropping stones from a height. It eats seal pups, sea-birds, goats and people, and it treats all people alike. The fjord crews that take eggs on the island cliffs lose a man to the harpies most seasons and go on taking the eggs.
+
+It has the cunning to set an ambush and no speech, no tools and no interest in either. It is a very dangerous animal that looks like something else.
 
 ## Presentation
 
-The harpy is a grotesque hybrid: a woman's head and torso—gaunt, pale-skinned, with sharp cheekbones and a cruel mouth full of small, vicious teeth—mounted upon the lower body and wings of some alien creature. The wings extend from where the hips should be, massive affairs of overlapped feathers and thin membranes in sickly colors: mottled greens, purples, browns, blacks. The feathers are perpetually wet-looking, slick with a mucilaginous secretion that smells of decay. The legs are chitinous and skeletal, ending in three-toed feet equipped with curved claws each as long as a finger. The hair is long and dark, usually matted and filthy. The eyes are large, forward-facing, with pupils that can dilate to enormous size in darkness. The hands end in sharp nails, more effective for rending than grasping tools. The overall appearance is of something that should not exist—a violation of natural form that triggers visceral disgust in any observer.
+A gaunt, pale torso with a woman's head, dark matted hair, sharp features and a mouth of small pointed teeth, set on a body that is all wing and leg. The wings grow from the hips, overlapping feathers and thin membrane in mottled greens, purples and browns, slick with a secretion that smells of decay. The legs are thin, hard and jointed like an insect's, ending in three-toed feet with claws as long as fingers that grip rock and tear flesh. The hands have long nails. The eyes are large and forward-set and open wide in poor light. On a ledge it crouches on its feet with the wings folded like a cloak.
+
+## In the Land
+
+Harpy flocks nest on the volcanic islands off the Nordlands' northwest coast, where the hot springs keep the cliffs clear of ice and the sea-bird colonies feed them, and on the sheer fjord headlands and inland crags along the northern coast; smaller flocks hold peaks in the mountain tracts behind the fjords. A flock is three to fifty birds on one cliff, with the biggest and oldest on the highest ledges. They range a day's flight from the nest and come back to it. They are not found in forest or on flat ground, where they cannot stoop and cannot climb away.
 
 ## Key Behaviors
 
-Harpies are pack hunters that maintain loose flocks centered on traditional nesting sites—high cliffs, isolated peaks, abandoned towers. A single flock can number anywhere from three to fifty individuals, with loose hierarchies based on size and age. They hunt during daylight hours, using altitude to scout prey, and attack with coordinated rushes that attempt to separate individuals from groups. They are crepuscular, particularly active at dawn and dusk when poor light hinders return fire from bows and crossbows. They are carnivorous and show no preference among humanoid races—all are equally prey. Harpies cache food in inaccessible locations and can consume enormous quantities at once, feasting for days after a successful hunt. They communicate through a complex system of shrieks, screams, and wing-beats that convey emotional state and tactical information. Solitary harpies are territorial and avoid one another except during breeding season. During spring mating, males engage in elaborate aerial displays and occasionally kill rivals, while females select nesting sites with obsessive care and defend them with suicidal aggression.
+Harpies hunt by day and are at their worst at dawn and dusk, when the light is poor for a bowman. They quarter the sea and the shore from a height and come down on seal pups, nesting birds, a stray goat, a man alone on a beach or a boat under the cliff. A flock drives prey off a ledge or into a gully and takes it there, and the birds drop stones on a thing they cannot reach. They cache meat on high ledges and gorge for days after a good kill. They talk to each other in shrieks and wing-beats and plan an ambush well enough to lay one for a party coming back along a known path. In spring the males fight in the air and the females defend their nests to the death.
+
+## What the Fjord People Do
+
+The egg-crews that work the island cliffs go down on ropes in parties, with a man at the top holding a bow and another a shield over the climber, and they work the harpy ledges last or not at all. A boat under a harpy cliff keeps a sail or a hide stretched over the rowers against the stones. A flock that has taken to a headland near a steading is burned off: men climb to the nests at night with torches and pitch and come down fast. Harpy wing-feathers make a poor fletching and nobody wants the rest. The fjord people hold that a harpy was a woman once and do not say what she did; a godi asked about it says the Ten have never claimed the harpies and the harpies have never asked.
+
+## Signs
+
+- A scream off a cliff that goes on too long for a bird and is answered from several ledges.
+- Bones of seals and goats on a ledge, with the skulls broken from above.
+- Stones lying on a beach or a path far from any slope they could have fallen from, some of them bloody.
+- Sea-birds rising all at once from a colony and wheeling without settling.
+- A smell of carrion on a clean sea wind.
 
 ## Combat Strategy
 
-A harpy flock's basic strategy is to use altitude and speed to conduct coordinated dives, striking from above and behind where shield defense is weakest. Individual harpies attempt to isolate targets from groups, driving them toward cliff edges or into terrain that favors aerial combat. Once a target is wounded, the flock circles tightly, preventing escape and pressing attacks until the target collapses. Harpies are intelligent enough to recognize weapons that pose threats—arrows, spears—and will focus on eliminating archers first, then shift to isolated targets. A solitary harpy is cautious but not cowardly; if retreat is necessary, it will flee to altitude where ground-based pursuers cannot follow. Harpies show some ability to set traps: they have been observed driving prey into prepared ambush sites, and their understanding of terrain allows them to exploit natural hazards effectively.
+The flock stoops from above and behind, where a shield does no good, several birds at once, each one striking and climbing away for the next. They go for the archers first and then for whoever is alone. From a height they drop stones, which they pick up from the ledges and the shingle and let fall with an aim that improves with practice; a flock over a boat sinks it. They drive a running man toward a drop or a dead end and finish him there. A harpy that is hurt goes up where nothing can follow. Under trees, under a roof or in a narrow gully they lose the wind and the height and fight badly, and that is where they are killed.
 
 ## Attack Methods
 
-### Raking Talons
+### Claw
 
-The harpy dives from above, raking with the claws on feet and hands, attempting to open wounds and drive targets to the ground. The impact of the dive itself can stagger targets.
+The foot-claws rake on the pass, opening long wounds across the back and shoulders, and the hands tear at the face and eyes of a man who is down. The weight of the stoop knocks a man off his feet.
 
-### Beak Strike
+### Thrown Stone
 
-Using the sharp, pointed beak, the harpy pecks at eyes and exposed flesh, aiming to blind or disfigure. This attack is particularly dangerous to targets without helmets.
-
-### Pack Tear
-
-When multiple harpies engage a single target, they coordinate attacks from different angles, each strike designed to create openings for the others. A target surrounded by three or more harpies is in mortal danger.
-
-### Aerial Entanglement
-
-Harpies use their wings to tangle an opponent's arms or trip them, then press attacks while the target is disoriented.
+From a height a harpy lets fall a stone the size of a fist or a head, picked up from its ledge, and a flock drops a dozen at once. A head-sized stone from a hundred feet breaks a shield arm or a skull.
 
 ## Special Abilities
 
 ### Aerial Superiority
 
-Harpies are creatures of the air, capable of maneuvering in three dimensions that ground-based opponents cannot match. A harpy in open sky against ground-based opponents gains enormous advantage. Enclosed spaces, forests, and low ceilings significantly reduce harpy effectiveness.
+In open sky a harpy is out of reach of everything but a bow, and it comes from any quarter faster than a man can turn. Trees, low roofs and narrow places take all of this from it.
 
 ### Flock Coordination
 
-Harpies hunting together develop an uncanny synchronization, each member anticipating the actions of others. A flock shows a tactical cunning that individual harpies lack, executing multi-pronged attacks and feints that isolate targets.
+A flock hunting together moves as one, each bird knowing the others' lines, and lays a two-sided ambush that a lone harpy could not. A flock is far cleverer than any bird in it.
 
 ### Shriek of Terror
 
-Harpies emit piercing shrieks—pure vocalizations evolved for communication—that distress any creature that hears them. The sound is so discordant and unnatural that it triggers primal fear responses, potentially disorienting or panicking targets.
+The harpy's scream is pitched to carry and to hurt, and a party under a screaming flock loses its nerve and its order; animals bolt and men run for the wrong cover.
 
 ### Cliff Dwelling
 
-Harpies nest on cliff faces and rocky terrain inaccessible to ground-based pursuers. They can cling to vertical surfaces and maintain footing in places where humanoids would fall.
+Harpies nest and perch where no man can climb, cling to vertical rock, and keep their footing on ledges a goat would refuse.
 
 ## Attributes
 

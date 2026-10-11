@@ -285,95 +285,81 @@ sohl:
 
 # Appearance {#appearance}
 
-There is a moment before you see it when you sense wrongness in the forest—not danger, but the presence of something your mind struggles to categorize. The light seems to bend slightly, and for an instant, you cannot quite focus on the space between the trees. Then she steps through, and the world resolves itself.
-
-She is a horse—this is your first and lasting impression—a horse of such absolute perfection that all other horses you have ever seen become, in retrospect, rough sketches and approximations. Her coat is a white so pure it seems to glow in the green-dappled forest shade, without blemish or discoloration, yet with an opalescent sheen that shifts between silver and soft pearl depending on how the light touches her. Her mane and tail flow like spun silk, and every movement she makes is liquid grace—there is no wasted motion, no earthiness. It is neither the working perfection of a war-horse nor the beauty of a noble steed; it lies beyond those categories entirely.
-
-And then you see the horn. Spiraling upward from the center of her brow, it rises perhaps two feet into the air, tapering to a point of such sharpness you cannot bear to look directly at it. The horn is ivory shot through with veins of pale gold, and it seems to shift in the light—now solid, now translucent, now radiating a faint luminescence that has nothing to do with the sun filtering through the leaves. The horn moves with her as she turns her head toward you, and in that moment you understand, with a certainty that bypasses reason, that you are in the presence of something magical—not in the sense of spells and incantations, but in the older, deeper sense: a being that exists partially outside the ordinary rules of the world. Her eyes meet yours, and there is intelligence there—not the clever awareness of a horse, but something far older and more knowing. She does not regard you with predatory interest or herd instinct. She regards you as one sentient being regarding another, and in that gaze is the weight of centuries and a kind of infinite, patient sadness.
+The stream in the hollow runs clearer than any stream has a right to, and the birds have stopped. Between two beeches on the far bank stands a white horse that was not there a breath ago, with a spiral horn of pale gold rising two feet from the center of its brow. It is drinking. When it lifts its head the water runs off its muzzle in drops that catch light the sun is not giving, and it looks at you across the stream, steadily, for as long as it takes you to understand that it has decided to let you see it.
 
 # Dossier {#dossier}
 
-The unicorn is perhaps the rarest and most elusive of all mythic creatures—so rare that some question whether they exist at all, or exist only in the human wish to believe in something magical and incorruptible. Those few who have met one speak with certainty: the unicorn is real, and its state of being is almost impossible to describe to anyone who has not witnessed it.
+The unicorn is a white horse of perfect proportion, four feet eight inches at the shoulder, seven feet long, seven hundred pounds, with a single spiral horn of eighteen inches to two feet rising from the center of its brow, and it is met, when it is met at all, in the thin places of [[place-elavendre|Élavendre]]: the deep forest and the mountain valleys where the material world and the spirit world lie close, and the fae are met more often than anywhere else. It is so seldom seen that the scholars of the lowland kingdom doubt it, and the [[lore-aelendnppl|Áelendan]] who live beside the [[lore-aralwen|arálwen]] do not. Its horn makes foul water clean and draws poison from a wound, and nothing made by men holds it.
 
-In physical form, a unicorn resembles a horse of the finest breeding and proportions. Standing approximately four feet eight inches at the shoulder and measuring about seven feet in length, a mature unicorn weighs approximately seven hundred pounds. The musculature is refined but powerful, built for endurance and speed rather than the brute pulling strength of a draft horse. The proportions are perfectly symmetrical, almost mathematically ideal—if one were to use a unicorn as a model, one could construct a standard of beauty that would be universally applicable.
-
-The distinguishing feature is the horn: a single, spiraling protrusion of ivory that rises from the center of the brow, typically eighteen inches to two feet in length. The horn is composed of a substance that has proven resistant to all attempts at magical or metallurgical analysis—it is neither bone nor mineral but something unique to unicorns. The horn is the seat of the unicorn's magical power.
-
-Unicorns live for centuries—estimates place their lifespan at three hundred years or more. Very few humans ever see a unicorn, and fewer still see the same unicorn twice. They are not territorial in the manner of gryphons or aggressive as hippogriffs can be. Rather, they move through the world as though slightly apart from it, inhabiting the most pristine and untouched places: ancient forests far from human settlement, high mountain valleys, and the deep places of the world where human corruption has not reached. A unicorn's presence is said to purify and bless the land—water touched by a unicorn's horn becomes fresh and potent, poisons are neutralized, and sickness is mitigated in proximity to the creature.
-
-Unicorns cannot be captured, compelled, or enslaved through any mundane means. This owes nothing to strength or speed; it is the nature of the creature. A unicorn cannot be held in a corral or cage that can hold other creatures; the boundaries simply fail to contain it. Chains will not bind it; they slip away as though the unicorn exists partly in a different space. A unicorn cannot be forced to accept a rider or companion—only a human deemed worthy by the unicorn itself will the creature permit on its back, and such an occurrence is rarer than the unicorn's appearance itself.
+What it is—a beast of this world, a thing of the arálwen that walks in from the other side, or one of the fae in a shape the fae chose—the Áelendan do not say and the Ordo Arcanis has not found out. What is agreed is that it comes and goes where the world is thin, and that a place it has been in is better for it.
 
 ## Presentation
 
-A unicorn, when examined in detail, displays a perfection of form that approaches the unsettling. Its coat is uniformly white, without the off-white, cream, or gray tones that appear in horses of any other lineage. The hair is silken, impossibly fine, and reflects light in a way that no normal hair can—it has a pearlescent quality that makes viewing the unicorn at certain angles almost painful to the eye, like looking at something too bright.
+A horse of the finest make rendered without flaw: a coat of pure white with a sheen that shifts between silver and pearl as it moves, a mane and tail like floss that stir when there is no wind, large dark eyes under long lashes, a pale muzzle, and legs straight and clean with hooves as hard and dark as flint. The horn is a single tight spiral of a substance like ivory veined with gold, which no smith or alchemist has been able to name, and it carries a faint light of its own in shade. The unicorn moves without sound, through brush that does not stir and over leaves that do not break.
 
-The mane and tail are of the same pearlescent silk, and they move with an independence that suggests they are not always obeying gravity in the conventional sense—a unicorn's mane will sometimes rise as though caught in wind even when the air is still. The face is refined, with large, dark eyes set with lashes of astonishing length and delicacy. The nose and lips are pale pink, and the overall proportions of the face speak of noble breeding taken to its logical extreme.
+## In the Land
 
-The body is a horse's body rendered perfect—no sway in the back, no thickness in the belly, the legs straight and powerful, the hooves dark and hard as stone. The overall impression is of controlled power in a form of absolute grace. When a unicorn moves, it seems to float rather than trot or canter. Its gait is silent; watchers have reported that a unicorn can move through the forest without disturbing a single leaf or breaking a twig beneath its hooves.
-
-The horn is the focus of any observer's attention. Rising from the center of the brow, it is perfectly spiraled, tapering to a point of incredible sharpness. The substance appears to be ivory, but it has a luminescence that no ordinary ivory possesses. It shifts in color from pale white to pale gold to the faintest hint of blue depending on the light and the unicorn's emotional state. The horn is always the first thing to be painted by artists attempting to capture a unicorn's likeness, and yet all such paintings universally fall short—they capture a fact of appearance but miss entirely the quality of strangeness that makes a unicorn's horn something that draws the eye and will not release it.
+Unicorns are met in the oldest forest of Élavendre's interior, in the high valleys of its mountains, and along the arálwen-waters that run partly in the material world and partly in the other: the country of the Áelendan tribes and the Wardens, where the [[place-silvrfrsts|Silver Forests]] stand and the Fae Courts are said to hold. A unicorn ranges across hundreds of square miles on a round that seems to answer to the seasons and the moon, and it is seen twice in the same place only by people the Áelendan say it has chosen to be seen by. It leaves a country where blood has been shed in wrong and lingers where the land is at peace, and a stretch of forest that has had a unicorn in it that year has clean springs and no sickness in its villages.
 
 ## Key Behaviors
 
-Unicorns are solitary creatures by nature, though they are not hostile to one another. Two unicorns encountering in the wild typically acknowledge each other with a ritual touch of their horns—a gesture of greeting and respect—before moving on. They breed rarely, and young unicorns remain with their mother for approximately five years before striking out into the world alone. A unicorn's entire territory may encompass hundreds of square miles, and it will range through this territory on cycles that seem to correlate with the seasons and celestial events rather than simple hunger or resource necessity.
+A unicorn goes alone. Two meeting touch horns and part. It eats as no horse eats, choosing particular herbs, flowers that open in certain moons and a moss of the high stones, and the Áelendan hold that it eats to keep its nature rather than to fill its belly. It watches people from the edge of sight the way a person watches birds, and once in a long while it lets one come near, and the one it lets near is never a cruel one. It is not territorial and it does not fight for food. A mare keeps her foal five years and then it goes alone. It lives three centuries or more, and the oldest Áelendan songs name a unicorn that the oldest singer's grandmother's grandmother saw.
 
-They are herbivorous but do not graze after the manner of horses. Instead, they eat specific plants—rare herbs, flowers that bloom only during certain moons, and a particular type of high-altitude moss that grows on ancient stones. Scholars believe unicorns eat not out of hunger but out of a need to maintain their magical nature; a unicorn denied its specific diet for extended periods might gradually lose its supernatural properties.
+## What the Áelendan Do
 
-Unicorns appear to have a relationship with purity—not moral purity, but purity in the sense of things that are untouched and untainted. They are drawn to places of great natural beauty and seem to avoid places of corruption or wrongdoing. There are recorded instances of unicorns leaving an area after humans committed atrocities there, and conversely, of unicorns lingering in places where peace and growth flourish.
+The Áelendan tribes do not hunt the unicorn, do not speak of where one was last seen to anyone outside the tribe, and hold a man who has tried to take one to be cursed with his line; the Wardens have turned back more than one party from the lowlands that came with nets and a lord's writ, and did not turn them back gently. An Áelendan healer who has found a unicorn's drinking-pool draws water there for the dying. In the lowland kingdom the horn is the stuff of a hundred false relics and the court physicians test every one; a true horn would buy a county, and the Áelendan say that a man who sold one would not live to spend the price, because the unicorn's kin would know.
 
-Solitary as they are, unicorns are not unaware of human activity. They are thought to watch humans from afar, studying them with the same curiosity a human might feel watching birds. Very rarely, a unicorn will permit a human to observe it at close range—a privilege that seems to be granted only to those humans who have shown themselves to be pure of heart, free from cruelty, and respectful of the natural world. Attempting to harm or capture a unicorn is said to curse one's entire lineage with misfortune.
+## Signs
+
+- A spring or a pool in deep forest that runs clear when every other is brown with the autumn, with no track in the mud but a single line of hoofprints that do not sink.
+- A stretch of woodland where nothing is sick: no blight on the trees, no fever in the clearing.
+- Birds and deer that go quiet and still together, unafraid, all looking the same way.
+- A single white hair, longer than any horse's, caught on a thorn, that shines in shade.
+- An Áelendan guide who will take a party no further.
 
 ## Combat Strategy
 
-Unicorns almost never engage in combat. They are far too rare and far too aware of their own rarity to risk injury in combat with lesser creatures. If threatened directly, a unicorn's first recourse is always to flee—and given its speed and agility, and the fact that it can navigate terrain no horse could traverse, escape is virtually guaranteed. The unicorn can move through deep forest as though on open plain, can leap distances that should be impossible, and can ascend and descend mountainsides that would defeat even gryphons.
-
-However, if a unicorn is cornered, if its young is threatened, or if it has chosen to stand its ground for reasons known only to itself, the creature is a dangerous combatant. The change is marked—the serene, almost melancholic creature becomes an instrument of focused violence, its movements precise and deadly. The unicorn fights with its horn as a spear, with its hooves as crushing instruments, and with a kind of tactical intelligence that suggests centuries of accumulated knowledge.
-
-Unicorns also possess a form of combat power that is not physical. Some accounts suggest that in combat, a unicorn's magical essence becomes weaponized—that it strikes not only with horn and hoof but with a force that is fundamentally opposed to wrongdoing and corruption. There are stories of evil-doers who pressed combat with a unicorn and found that their blades would not bite, that wounds would not open, that they were slowly ground down by a force against which physical resistance was meaningless. These accounts may be literal or may describe the unicorn's overwhelming power figuratively, but the results are consistent: when a unicorn decides to fight, its opponents do not prevail.
+A unicorn does not fight if it can leave, and it can almost always leave: it is faster than any horse, silent, goes through forest as over open ground and up a mountainside no horse could climb, and once it has turned away it is not caught. It stands when its foal is threatened, when it is cornered in a place with no way out, or for a reason of its own that nobody has been able to predict, and then it is a different animal. It fights with the horn as a lance, rearing and driving down, and with its hooves, and those who have fought one and lived say that their blades would not bite and their wounds would not close. It does not fight to kill when it can fight to drive off, and it does not pursue.
 
 ## Attack Methods
 
-### Horn Thrust
+### Horn
 
-The unicorn's primary attack is a direct thrust of its spiraling horn, executed with the precision and speed of a lance strike. The point is capable of penetrating armor, bone, and even magical barriers. The attack can be executed at speed during a charge or in a slow, measured strike when the unicorn is stationary. In either case, it is devastatingly effective. The unicorn often executes a horn thrust as part of a rearing motion, rising up on its hind legs and striking downward, using gravity and the full weight of its body to drive the horn home.
+The horn is driven like a lance, at the charge or in a rearing downward thrust with the weight of the body behind it, and it goes through mail, plate and bone, and through wards that would turn a spear.
 
-### Hoofstrike
+### Kick
 
-Both front and rear hooves can be used as devastating weapons. The unicorn will rear and strike downward with forehoof (often in conjunction with horn thrust), or pivot and deliver a crushing kick with rear hooves capable of breaking bones and shattering shields. The hooves are hard as stone and can strike with enough force to shake the ground.
+The forehooves strike down in a rear and the hind hooves kick behind, and the hooves are hard as stone; a kick breaks a shield and the arm behind it.
 
-### Trampling Charge
+### Bite
 
-A unicorn moving at full gallop and charging through ranks of enemies is a force of nature. The creature can trample with its hooves, strike with its body, and thrust with its horn all while maintaining perfect balance and momentum. This attack is devastating to organized military formations and to groups of unprepared opponents.
+The teeth close on an arm or a shoulder with a horse's strength and hold a man for the horn.
 
 ## Special Abilities
 
 ### Magical Purification
 
-The unicorn's primary magical gift is the ability to purify. A unicorn's horn, when touched to water, renders it fresh and potent—water that might be brackish or poisoned becomes clean and life-giving. When touched to food, the unicorn can remove poisons, diseases, and spoilage. When touched to a person, the unicorn can cure diseases, neutralize poisons in the blood, and mend wounds. No scholar understands how this purification works. It is unlike healing magic; the substance's own nature is altered toward purity.
-
-The unicorn can purify a given person or substance once in a day, and there is no other apparent limit to its power. A unicorn with sufficient motivation could purify the water supply of an entire city. The purification works only on things that are physically corrupted or poisoned; it cannot repair moral failings or spiritual corruption, and it cannot raise the dead.
+A touch of the horn makes brackish or poisoned water clean and sweet, draws poison and sickness from food, and drives disease and venom out of a body and closes its wounds. It does this once in a day for any one person or thing, and no more is known of its limit. It mends what is poisoned and sick and nothing else: not a crime, not a curse on the spirit, not the dead.
 
 ### Magical Resistance and Ward
 
-A unicorn's very presence creates a sphere of magical power around it. Within this sphere (roughly thirty to fifty feet), hostile magic becomes less effective, curses lose potency, and undead creatures become uncomfortable (though they are not driven away). This is a passive ability that functions constantly, though the unicorn can suppress it if it chooses. This ability may be what makes the unicorn impossible to capture or contain—magical bonds simply do not hold it, and physical boundaries become somewhat illusory in the presence of its power.
+Around a unicorn, for thirty to fifty feet, hostile magic weakens, curses lose their hold and the undead are uneasy. This is always so unless the unicorn wills otherwise, and it is why no binding, rope, wall or spell has ever held one.
 
 ### Incorruptibility
 
-The unicorn cannot be poisoned, diseased, aged, or affected by magic designed to harm it unless the unicorn willingly permits it. No defense need be raised; it is the unicorn's nature. Blades that strike the unicorn may glance off or bite only partially. Spells designed to kill or injure the creature may fail entirely. The only thing that can harm a unicorn is violence accepted by the unicorn—that is, combat where the unicorn has chosen to fight and accepts the possibility of injury.
+Poison, disease and age do not touch a unicorn, and a spell meant to harm it fails unless it permits the harm. A blade turns on it or bites shallow. It can be hurt only in a fight it has chosen to stand in.
 
 ### Unmatchable Speed and Agility
 
-The unicorn's physical capabilities exceed those of even hippogriffs in terms of maneuverability and precision of movement. It can move with perfect silence, can turn with impossible sharpness, and can navigate terrain that no other horse could manage. In combat or flight, the unicorn is nearly impossible to catch, and its movements often seem to predict where an opponent will strike before the opponent has committed to the strike.
+It outruns any horse, turns in less than its own length, moves without a sound and goes through the thickest forest as over a road. In flight it is not caught, and in a fight it is where the blow is not.
 
 ### Sentience and Volition
 
-The unicorn is fully intelligent—not in the sense of being clever or quick-thinking, but in the sense of possessing self-awareness, memory spanning centuries, and a philosophical understanding of the nature of existence. A unicorn can understand language, can reason through complex problems, and can make judgments about the moral worth of human actions. This intelligence makes the unicorn dangerous to those with ill intent and potentially a powerful ally to those deemed worthy. A unicorn that has chosen a human to befriend will protect that human with the same ferocity it would protect its own offspring, and will do so for the rest of the unicorn's impossibly long life.
+The unicorn thinks as a person thinks, with a memory of centuries, and it judges what a person is. It understands speech and answers none. A person it has befriended it guards as its own foal, for the rest of that person's life.
 
 ### Willing Bond
 
-A unicorn can choose to form a permanent bond with a human who has demonstrated absolute purity of heart and goodness of intent. This bond is rarer than the unicorn's appearance itself—perhaps one human per generation in a large realm might experience it. When bonded, the unicorn will permit the human to ride upon its back, will share its knowledge through a wordless sharing of feeling, and will be both protector and companion. The bond is not one of servitude but of true partnership; a bonded unicorn can and will refuse orders it deems unjust.
-
-The bond also grants certain benefits to the human: increased resistance to disease and poison, the ability to understand the speech of horses and certain other animals, and a form of protection from hostile magic. The bonded human will find that wounds heal more quickly, that they are less susceptible to aging, and that their presence brings peace and growth to places they linger. A unicorn bonded to a human typically remains bonded even after the human's death, and unicorns have been known to guard the graves of beloved bonded humans for centuries after the human's passing.
+Once in a generation in a large realm, a unicorn chooses a person whose heart it finds clean and lets them ride, shares what it knows without words, and stays with them. It is a partnership and not a service; the unicorn refuses what it finds unjust. The chosen one sickens less, ages slower, understands the speech of horses and brings quiet to the places they stay, and when they die the unicorn has been known to keep the grave for a hundred years.
 
 ## Attributes
 

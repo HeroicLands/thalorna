@@ -299,7 +299,7 @@ The tribes also stalk the herds for young and for hides. A hunter who goes after
 
 ## Combat Strategy
 
-A rutting Gwirador attacks to bite and to bowl over. He closes at a run, lowers his head and slams the shoulder into the opposing animal, and when the opponent falls he bites at the legs and the neck. Against a rider he is no less dangerous: he knocks the mount down, then goes for the rider on the ground. Trampling and biting follow the first charge, and a bull is hard to dislodge once he has hold of a limb.
+A rutting Gwirador attacks to bite and to bowl over. He closes at a run, lowers his head and slams the shoulder into the opposing animal, and when the opponent falls he bites at the legs and the neck. Against a mounted man he knocks the mount down, then goes for the rider on the ground. Trampling and biting follow the first charge, and a bull is hard to dislodge once he has hold of a limb.
 
 Out of rut he flees the sight of people and will not turn on a party that keeps its distance. The Gwirador's weakness is its single-mindedness. A rutting bull follows the nearest rival and pays little attention to a party that stays out of the line, and a bull led off after a loose gelding can be separated from a string by a rider who can ride.
 

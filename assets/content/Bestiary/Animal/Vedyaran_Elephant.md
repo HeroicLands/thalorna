@@ -304,55 +304,67 @@ sohl:
 
 # Appearance {#appearance}
 
-The ground itself seems to answer its footfall before the shape resolves out of the tree-line or the dust of a royal road. Gray-brown hide hangs loose over a frame that dwarfs anything else moving on four legs in this country, the great fan-ears working slowly against the heat, the trunk never still, testing wind and ground and the space around it with a delicacy that has nothing to do with its owner's size. Ivory tusks, when a bull carries them, curve pale against the dark hide. Small eyes, set deep and shadowed by a heavy brow, watch with an attention that reads as calculation rather than instinct. Whether it wears a mahout's goad-scars on its flank and a temple's paint on its brow, or neither, it is unmistakably the largest thing that walks on land anywhere in the region.
+The ground answers its footfall before you see it. Then it comes out of the dust of the road: a gray-brown bulk taller than a cart with its load, the hide hanging in loose folds at the knees and throat, the great ears working slowly against the heat, and the trunk never still, testing the wind, the ground and the space around you with a delicacy that has nothing to do with the size of the animal behind it. Two pale tusks curve out under the trunk. There is paint on its brow, ochre and white, and a man sitting easy behind its ears with a short iron hook laid across his knee. Its small eyes, deep under a heavy brow, find you and stay on you as it passes.
 
 # Dossier {#dossier}
 
-The Vedyaran elephant is the largest land animal in [[place-vedyarargn|Vedyara Region]] — bigger by a clear margin than the armored [[being-vdyrnrhn|Vedyaran rhinoceros]], which shares its floodplains and grasslands and is, by every account that has occasion to compare the two, the second-largest thing in the country rather than the first. A bull stands nine to eleven feet at the shoulder and can weigh three and a half tons or more; cows run smaller. Wild herds range the forest margins, the tall grasslands and the river floodplains from the western march to the eastern reach, and every kingdom that can afford the keeping of them maintains a captive stock besides.
-
-Domesticated elephants are the region's siege engines, its heaviest labor, its ceremonial mounts and, dressed for war, the deciding weight in a pitched battle between hosts that can afford them. A mahout directs a working elephant with voice, knee and the elephant-hook rather than force — an animal this size cannot be compelled by anything a man can apply directly, and every kingdom's stable of war-elephants is only as reliable as the bond between each beast and the one or two handlers it will actually answer to. A wild bull in musth, or a captive one whose mahout has died or been replaced badly, is among the most dangerous single animals a traveler can meet in Vedyara.
+The Vedyaran elephant is the largest animal that walks in [[place-vedyarargn|Vedyara]]: a bull stands nine to eleven feet at the shoulder and weighs three and a half tons and more, a cow somewhat less, and the armored [[being-vdyrnrhn|Vedyaran rhinoceros]] that shares its floodplains is the only other animal in the country that gives it no ground. Wild herds range the forest margins, the tall grass and the river floodplains from the western march to the Eastern Reach. Tamed, the elephant is Vedyara's heaviest labor, its temple mount, its royal show and, dressed for war, the beast that decides a battle between two hosts that can both afford it. The Vedyari word is _gaja_, and the country knows what the word costs: the slope of [[place-gajasthali|Gajasthalī]], where two hosts broke among their own elephants, is still a field no living elephant will cross.
 
 ## Presentation
 
-A vast, gray-brown bulk on four columnar legs, the elephant's skin is thick, deeply wrinkled and sparsely haired, tightening over a domed skull and loosening in heavy folds at the knees, the throat and the base of the trunk. The ears are broad and mobile, used as much for cooling as for hearing, and flare wide when the animal is alarmed or aggressive. The trunk is the animal's most striking feature: a fused, muscular extension of nose and upper lip capable of lifting a felled tree or plucking a single blade of grass, ending in a fingerlike process delicate enough to untie a knot. Tusks, elongated upper incisors, are more pronounced in bulls; cows carry shorter tusks or none visible.
+A vast body on four columnar legs, in thick, deeply wrinkled, sparsely haired skin, gray-brown and usually dusted with the red or brown earth the animal has thrown over itself. The skull is domed, the ears broad and mobile and flared wide when the animal is roused. The trunk is the striking thing: a muscular fusion of nose and lip that lifts a felled tree or picks a single blade of grass, and ends in a fingerlike tip that unties a knot. Bulls carry tusks that curve pale and heavy out of the upper jaw; cows carry short tusks or none. A temple elephant wears paint on its brow and trunk, a war-elephant scars from the goad and from other things on its flanks, and a wild one wears the mud of its last wallow.
+
+## In the Land
+
+Wild herds live where there is grass, browse and water within a day's walk of each other: the margins of the great forests, the elephant-grass of the floodplains of the [[place-mahanadi|Mahānadī]] and the other great rivers, and the foothills below the [[place-sthrnwall|Southern Wall]]. They walk long seasonal rounds between the dry-season rivers and the monsoon grazing, by routes the old cows remember. Every kingdom that can pay for them keeps a captive stock besides, in stables beside the royal seat, and the temples keep their own. The war-elephants of the Hundred Crowns broke at the Field of Elephants, and the villages along Gajasthalī still build elephant skulls and long bones into their walls and well-heads.
 
 ## Key Behaviors
 
-Wild herds are matriarchal, led by the oldest and most experienced cow, and composed of related females and their young; bulls range alone or in small bachelor groups outside the breeding season. A herd's memory for water, forage and danger is carried in the matriarch's experience across decades, and a herd that has lost its matriarch to hunting or capture is measurably worse at surviving a hard season than one that has not.
+A wild herd is a family of cows and their young, led by the oldest cow, whose memory of water, forage and danger the whole herd lives by; a herd that has lost its matriarch to capture or a hunter fares worse in a hard season. Bulls go alone or in loose bachelor groups. A bull in musth, a season of surging aggression marked by a dark weeping from the temples, attacks other bulls, villages and men with no provocation, and drovers read the signs from a distance and go a long way round. A herd with calves meets a threat with the cows in a line in front of the young, and they charge one after another. Elephants mourn their dead and stand over them, and a herd passing old bones stops to touch them with the trunk.
 
-A herd defending young is relentless and coordinated, cows placing themselves between a threat and the calves and charging in sequence rather than as a single rush. A wild bull outside a herd is more unpredictable and, in musth, considerably more dangerous — a state of heightened aggression and hormonal surge that experienced trackers learn to read from a distance and give a very wide berth.
+## What the Kingdoms Do
+
+A captive elephant answers to its mahout, the handler who has raised or trained it for years, and to almost nobody else. He directs it with voice, knee and the [[weapongear-elphnthk|elephant-hook]], a short iron spike and hook that guides an animal no man could compel by force; a kingdom's stable of war-elephants is only as reliable as the bond between each beast and the one or two men it will obey. A war-elephant goes into battle with armor on its head and flanks and archers on its back, and an army that meets one plans for it: caltrops, fire, drums and trumpets to frighten it, and men with long spears to go for the mahout first. An elephant that has lost its mahout, or been given a new one badly, is as dangerous as a wild bull, and Gajasthalī is the proof: both hosts broke there when their own elephants turned. Ivory goes through the warehouses of the [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]] to every court in the country, and a hunter who takes a wild bull for it in a kingdom that claims the herds answers to that kingdom.
+
+## Signs
+
+- Trees stripped of bark and branches to the height of a house, and saplings pushed over flat.
+- Round tracks as wide as a cart wheel, with water standing in them after rain.
+- Heaps of coarse, fibrous dung the size of a man's head along a trail.
+- A deep rumbling at dusk, felt more than heard, from the tall grass.
+- Village fields trampled flat overnight, with the banana trees gone.
 
 ## Combat Strategy
 
-An elephant that has decided to fight rather than flee — which a wild one rarely does unless cornered, protecting young, or in musth — leads with sheer mass: a charge intended to knock down and trample rather than to gore first. Tusks, where present, are used to hook and toss an opponent already on the ground or to gore a target the trunk has pinned in place. A trained war-elephant is directed by its mahout to a specific target and will press an attack it would otherwise avoid, which is the whole reason armies pay the enormous cost of keeping them.
+A wild elephant would sooner leave than fight, and it fights when it is cornered, when it is protecting calves, or when it is in musth. Then it comes on with its mass: a charge meant to knock down and trample, with the ears spread and the trunk curled up out of harm's way. A man on the ground is kicked and knelt on, then hooked with a tusk and tossed or gored. The trunk seizes a man, a limb or a spear and throws it or holds it for the tusks. A trained war-elephant presses an attack its mahout directs it to, against men it would otherwise avoid, and that is the whole reason a king pays for it. Fire, noise and the death of its mahout break it, and a broken elephant runs through whatever is behind it, friend or enemy.
 
 ## Attack Methods
 
 ### Tusk
 
-A bull drives a tusk into a downed or grappled target with the weight of the charge behind it; the wound is typically as much a crushing injury as a puncture.
+A bull drives a tusk into a man on the ground or held in its trunk, with the weight of its body behind it. The wound is as much crushing as piercing.
 
 ### Kick
 
-The forefeet strike downward with crushing force against anything caught beneath the animal, whether felled by the charge or already on the ground.
+The forefeet stamp down on whatever the charge has knocked over, and the elephant kneels on a man to crush him.
 
 ### Trunk-Grasp
 
-The trunk seizes a limb, a weapon or a whole person, restraining or lifting the target for a following tusk or foot strike — the same dexterity a mahout relies on to hand up water or shift a log is turned, in earnest, into the animal's most versatile weapon.
+The trunk seizes a limb, a weapon or a whole man and lifts, throws or holds him for the tusk and the foot. The same dexterity that hands a mahout his water-skin is the elephant's most versatile weapon.
 
 ## Special Abilities
 
 ### Matriarchal Memory
 
-A herd led by an old matriarch finds water and forage in a drought that would defeat a younger-led herd, and avoids danger a less experienced leader would walk the herd into.
+A herd led by an old cow finds water and forage in a drought that would kill a herd led by a young one, and avoids dangers that a younger leader would walk it into.
 
 ### The Mahout's Bond
 
-A trained elephant answers reliably only to the handler or handlers it has bonded with over years; a stranger's command, however correctly given, is as likely to be ignored as obeyed. This is why the elephant-hook goes to war in a mahout's hand and not a footman's — a man with no bond to the animal is directing nothing.
+A trained elephant obeys the handler it has bonded with over years. A stranger's command, however correctly given, is as likely to be ignored as obeyed.
 
 ### Sheer Mass
 
-At three and a half tons and more, a charging elephant's momentum alone is close to unstoppable by anything short of a fortification or a matched weight of animal; the Vedyaran rhinoceros is the only other creature in the region's floodplains that will contest ground with one rather than yield it.
+A charging elephant's weight is all but unstoppable by anything short of a wall or another elephant. It goes through a palisade, a shield-line or a house.
 
 ## Attributes
 

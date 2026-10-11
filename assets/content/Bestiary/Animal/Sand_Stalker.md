@@ -246,63 +246,73 @@ sohl:
 
 ![[sndstlkr|Sand Stalker]]{float=top-left}
 
-Movement catches your eye—the ripple of a shadow across pale sand, gone as quickly as seen. The creature rises, and suddenly what was invisible becomes unmistakable: a lean, powerful feline silhouette against the desert heat. Its sandy-tan fur seems to shimmer and shift, making it difficult to focus upon even when you know where to look. The amber eyes fix on you with an unsettling intelligence, and you notice the tension in its body—every muscle coiled and ready. As it circles, its wide paws leave barely a trace in the sand, and you hear almost nothing despite its movement. The tail swishes once, twice, and you realize you're being assessed as potential prey.
+The pool at the oasis is a sheet of black under the stars, and the goats have been drinking at its edge in a line. One of them lifts its head. Across the water a ripple of pale sand stands up and becomes a cat: long-legged, lean as a hound, the color of the dune behind it, with two amber eyes that hold the starlight and do not blink. It makes no sound. It takes three steps along the far shore, low, its wide paws leaving almost no mark, and its tail goes once from side to side. Then it is not there, and the goats are running.
 
 # Dossier {#dossier}
 
-The Sand Stalker is a lithe desert feline predator reaching 6-7 feet in length with a shoulder height of 3-4 feet, found in arid badlands, dune fields, and rocky desert where small-to-medium prey animals are plentiful. These nocturnal hunters are stealthy specialists that hunt during cool night hours and rest during the day. Adventurers might encounter sand stalkers while traveling through deserts at night, disturbing the creature's rest, or crossing territory where the cat hunts.
+The Sand Stalker is the hunting cat of the Khazryn: six to seven feet from nose to tail-tip, three feet at the shoulder, about a hundred and thirty pounds, sand-colored with faint darker markings, and very nearly invisible on the desert at night. It hunts what comes to drink. Every well, seep and [[lore-ownedoasis|owned oasis]] in the sands and the gravel reaches has a sand stalker within a night's walk of it, and the cat lies up through the day in a cave or a crevice and comes down to the water at dark for the gazelle, the hares, the birds and the stray goat that come down too. It is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|giant camel spider]] and the [[being-bnscrpn|bone scorpion]].
+
+It does not hunt men by habit. It hunts a man who is alone, asleep or hurt, and a cat that has once taken a man learns that men are slow.
 
 ## Presentation
 
-The Sand Stalker presents a lean, muscular form built for speed and agility over brute strength. The fur is a light sandy-tan or pale golden color with subtle darker markings that provide extraordinary camouflage in desert environments. The body is lithe and compact, with long legs suited for extended movement across sand and rough terrain. The head is proportionally feline with large, forward-facing amber eyes suited for nocturnal hunting, pointed ears that swivel to track sound, and a sensitive nose adapted for scent-hunting in arid conditions. The paws are notably wide and padded, spreading weight across sand and leaving minimal traces of passage. The tail is long and muscular, used for balance and communication.
+A lean, long-legged cat built for a sprint and a long walk: narrow through the chest and hips, deep through the shoulder, with long legs and paws that spread wide and padded to carry it on loose sand. The coat is short and fine, pale gold or sandy tan, broken by faint darker spots along the flanks that vanish at a distance. The head is small, with large forward-set amber eyes made for the dark and tall pointed ears that turn independently. The tail is long and thick and does the work of a balancing pole at a run. It moves without a sound, and at night it is a shape the eye slides off.
+
+## In the Land
+
+Sand stalkers live throughout the [[place-hskrrgn|Hosikor]] and the [[place-khzryndsrtrgn|Khazryn]]'s other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Dikraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
 
 ## Key Behaviors
 
-Sand Stalkers are primarily nocturnal and are most active during cool evening and night hours, sheltering during daylight in caves, rocky crevices, or deep burrows. They are solitary and territorial, with each cat maintaining exclusive hunting grounds marked by scent deposits on prominent rocks and clawed markings. They hunt small mammals, lizards, birds, and other prey items suitable for a mid-sized predator, and they will opportunistically target larger prey including humanoids if encounter permits. Sand Stalkers are intelligent and capable of learning—a cat that has successfully hunted humanoids will recognize humans as prey in future encounters. They communicate through vocalizations, scent marking, and subtle body language.
+The cat sleeps through the heat in a cave, a crevice or a hollow under an overhang, and comes out at dusk. It goes to the water first, lies up within sight of it, and waits for something to come down and drink; when nothing comes, it walks its range through the night and hunts by scent along the trails. It takes gazelle, hares, jerboas, ground birds, lizards and the young of wild camels, and a goat or a calf from a herd that waters at night. It learns: a cat that has found a camp's goats unguarded comes back, and a cat that has killed a man watches for men. Females raise two or three kittens in a cave over a year and teach them the range.
+
+## What the Tribes Do
+
+The tribes water their herds by day and pen them at night inside a thorn ring with a fire and a boy awake beside it, and they do not let a goat drift down to the pool after dark. A tribe that owns a spring keeps its own sleepers well away from the water and sends nobody down alone to fill the skins at night. A cat that has started taking goats is hunted by day at its lie-up, with dogs to find the cave and three or four men with spears, and the men say a stalker in its cave fights like two cats. The pelt is the finest of the desert's furs, soft and the color of sand, and a cloak-lining of it is worth a camel at [[place-qisomrktcmp|Qìso]]; the claws are strung as charms for children, against the dark.
+
+## Signs
+
+- Prints at the edge of a pool as wide as a man's palm, with no claw marks, half filled by drifting sand.
+- Scent-marked rocks above a well, and fresh claw-scores on the soft stone beneath them.
+- A gazelle carcass dragged into a crevice, eaten from the haunch, with the head untouched.
+- Goats that bunch and face the same way at the water's edge after dark.
+- A cough from the dark above the oasis, once, and then silence.
 
 ## Combat Strategy
 
-The sand stalker's primary tactic is to approach prey silently and from unexpected direction, using stealth and terrain to close distance before attacking. The initial attack is explosive—a pounce intended to knock the target off balance and create an opening for bites and claw attacks. If the initial strike fails or the engagement turns against the cat, the stalker will retreat into darkness or terrain advantage, circling to find a new opening. The cat prefers not to engage in prolonged combat with anything that can effectively defend itself, preferring to wait for weakness or further opportunities.
+The cat comes from behind and from cover, in silence, and the first thing its prey knows of it is the weight landing on its back. It drives a man down with the pounce, rakes with the forepaws and bites for the neck and the face, and if the man is down and still it drags him away from the firelight. If the first rush fails it breaks off at once, circles out of the light, and tries again from another side; it does not stand and trade blows with anything that can hurt it. A party that keeps its fire high, its backs together and its watch awake loses nothing to a sand stalker but sleep. A cat with kittens in the cave, or one that has been cornered, fights to the end.
 
 ## Attack Methods
 
-### Explosive Pounce
+### Raking Claws
 
-The sand stalker launches itself with explosive acceleration, using its full body weight to knock a target off balance. The attack combines momentum with claw rakes and biting, intended to overwhelm prey through surprise and ferocity.
-
-### Raking Claw Attacks
-
-Once engaged, the stalker uses its powerful forelimbs to rake and slash at exposed flesh, tearing clothing and creating wounds. The claws can penetrate leather and inflict serious bleeding wounds.
+The forepaws rake in quick, hooking strokes at the back, the arms and the face, opening leather and the flesh beneath. The rake comes with the pounce, and a man knocked down takes several before he can turn.
 
 ### Swift Bite
 
-The sand stalker's bite is sharp and precise, targeted at exposed flesh, faces, hands, or the throat. The bite is used to establish dominance, open further wounds, or finish wounded prey.
+The bite goes for the throat, the face or the hand that comes up to protect them, sharp and quick, and the cat lets go and bites again rather than holding.
 
 ## Special Abilities
 
+### Explosive Pounce
+
+The cat launches from a crouch over twenty feet of ground and lands with its whole weight on the prey's back. A man struck from behind is usually on the ground before he knows what has hit him.
+
 ### Desert Camouflage
 
-The sand stalker's coloration is so effective in desert environments that it is nearly invisible when still or moving across sand and rocks. In the desert it is very hard to spot until it moves.
+Still, on sand or pale rock, the stalker is invisible at a dozen paces; moving at night it is a shadow the eye cannot hold.
 
 ### Silent Prowl
 
-The sand stalker's wide paws and light weight allow it to move almost silently, approaching prey without detection. It can move at speed without making a sound.
+The wide padded feet make no sound on sand or stone, and the cat crosses open ground at speed without a whisper.
 
-### Nocturnal Superiority
+### Night Sight and Scent
 
-The sand stalker's eyes are adapted for night vision, allowing it to hunt effectively in near-total darkness. In the dark it sees and hunts far better than its prey.
-
-### Scent Hunting
-
-The sand stalker can track prey through smell, allowing it to hunt in darkness or when visual tracking is impossible. The cat can follow days-old scent trails and identify specific individuals by smell.
+It sees in starlight as a man sees at dusk, follows a trail by smell that is days old, and knows a man it has met before by his scent.
 
 ### Reflexive Evasion
 
-The sand stalker's speed and agility allow it to dodge incoming attacks more effectively than most creatures, so that arrows and blows alike often miss it.
-
-### Additional Information
-
-Sand stalkers are most active during night hours and sleep or shelter during the day, making encounters during daylight hours rare. The cats avoid areas with significant human settlements or organized defense but will hunt isolated travelers or small groups. A stalker injured in combat will retreat and avoid re-engagement unless cornered or defending young. The creature's fur and claws are valuable to hunters and can be harvested to create armor or tools.
+Quick and light, the stalker twists away from a thrust or an arrow that would strike a slower animal, and it is seldom where a blow arrives.
 
 ## Attributes
 

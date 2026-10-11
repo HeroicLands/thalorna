@@ -266,59 +266,75 @@ sohl:
 
 ![[ironjaw|Ironjaw]]{float=top-left}
 
-The thing moves like a wolf but built from armor and malice. Its entire body is covered in interlocking metal scales that catch light with a dull, threatening gleam. The jaw juts forward unnaturally, lined with teeth that gleam like steel and appear far too numerous for any natural animal. Its eyes are cold and bright, burning with a hunger that feels deliberate and cruel. When it breathes, sparks catch in its nostrils. It walks with deliberate slowness, confident, each step sinking slightly into the ground under its weight.
+The thing at the head of the ravine is the shape of a wolf and the color of an old pot: gray, bronze and green-crusted, its whole body scaled in overlapping plates of something that rings faintly when it moves. Its head is too big for it, all jaw, and the jaw is lined with too many teeth, each with the dull shine of filed iron. It walks toward you slowly, and its claws strike sparks on the rock. Its breath smokes in the cold morning and smells of a forge. Behind it, on the ravine rim, three more of the same shape have stood up.
 
 # Dossier {#dossier}
 
-Ironjaws are predatory, pack-based hunters corrupted by dark magic and fused with metallic material, creatures of burden and violence. These armored predators hunt in coordinated packs across mountain regions and barren wastes, following territories marked by claw-scratches and the bones of previous kills. Adventurers encounter them in mountains, abandoned mines, stone deserts, and places where corruption has taken hold of wildlife.
+The Ironjaw is a dreadspawn, a made thing: a hunting beast the size and shape of a big wolf, two hundred and fifty pounds, plated all over in scales of metal that grow out of its hide, with a jaw of iron-hard teeth that bites through mail. It hunts in packs of four to eight across the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]—the black rock of the [[place-dkrqrrgn|Dikraqor]] and the hollow ridges of [[place-idwkrrgn|Idwakor]]—and holds a territory there that it marks with scratched rock and heaps of bones and defends against everything. The tribes say it was a wolf that dark magic got into and turned to metal. The scholars who class it with the dreadspawn say it was made as it is and made as a pack, since it cannot breed and every pack has always been met at full strength; nobody has seen a young one.
 
 ## Presentation
 
-The Ironjaw resembles a large hunting dog or wolf in basic shape, but it is covered entirely in overlapping metal scales that appear fused to its skin. The scales range in color from cold gray to bronze to sickly verdigris—some are polished and gleaming, others are corroded and pitted. The creature's head is disproportionately large, dominated by a protruding jaw lined with teeth that appear metallic and far too numerous for any natural animal. The jaws themselves are capable of closing with grinding, metal-on-metal force. Its eyes burn with intelligence and malevolence, bright points of unnatural color. Its claws are metal-edged, capable of sparking off stone. The creature's entire body radiates heat—its breath carries warmth and the scent of forge-smoke. When it moves, metal grinds against metal in a sound like distant war.
+The build is a wolf's, long-legged and deep-chested, heavier through the shoulder. From nose to tail it is covered in scales of metal fused to the skin, some polished bright, some bronze, some crusted green and pitted, so that no two ironjaws look alike. The head is disproportionately large and the jaw juts forward, crowded with teeth that look like filed iron. The eyes are pale and very bright. The claws are metal-edged and spark on stone. The animal runs hot: its breath smokes in cool air and smells of forge-smoke, and the rock it has lain on is warm for an hour after. It grinds faintly as it moves, a sound like distant armor.
+
+## In the Land
+
+Ironjaw packs hold territories of many miles in the stone uplands: ravine systems in the Dikraqor, where the cisterns and the tombs of [[place-osikor|Osikor]] lie, and the ridges of Idwakor that the road passes through on its last stretch toward the east. A pack marks its edges with deep claw-scores on prominent boulders and with heaps of cracked bones laid out at a ravine mouth, and the guides read those marks as plainly as a boundary stone. Inside its territory the pack hunts wild asses, gazelle, goats and anything else that walks; outside it, the pack turns for home. They den in caves and old workings in the rock, where the heat of their bodies keeps the cold off in the winter nights.
 
 ## Key Behaviors
 
-Ironjaws hunt in organized packs of four to eight individuals, coordinating tactics with surprising cunning. They are absolutely territorial and will attack anything that enters their claimed regions with relentless determination. They mark territory through claw-scratchings on stone and the deliberate scattering of bones. The creatures are intelligent enough to recognize individuals and remember previous conflicts. They hunt actively, pursuing prey relentlessly once engaged. When pack members are killed, the survivors show what looks like grief before attacking with increased ferocity. Outside their territories, they become less aggressive; they will flee to home ground rather than pursue indefinitely.
+A pack hunts by day or night as it pleases, in silence, and drives its prey toward a dead-end ravine, a drop or a place where the rest of the pack waits. It wounds and wears down its prey before it closes, each animal biting in turn while the rest circle. The pack has a leader, and the others give way to it. Ironjaws recognize a man they have met and remember a fight. When one of the pack is killed the rest stand over the body for a moment, and then attack harder than before. They are not hungry often; they kill to hold their ground as much as to eat, and a pack's bone-heaps hold more than it could ever have eaten.
+
+## What the Tribes Do
+
+The riders who sell passage through the ridges know where each pack's ground begins and take the strings round it, and a guide who finds fresh claw-scores on the path ahead turns back. A tribe whose grazing borders a pack's ground lets the border be. When a pack must be fought, the tribes fight it with mauls, axes and stones from above, because a sword or a spear point skids off the plates. Sour wine or vinegar thrown on the scales makes them pit and weaken, and a fight with ironjaws is a fight the tribes prepare for with jars of it. A dead ironjaw's plates are worth more than its weight in silver to the smiths of the oasis towns, who say no forge on Thalorna makes metal like it and none of them can work it.
+
+## Signs
+
+- Claw-scores cut deep and bright into dark boulders at a ravine mouth, at the height of a man's knee.
+- A heap of cracked bones laid out in the open, more than any pack could have eaten.
+- Prints like a big wolf's, with each claw-point scratched into the stone.
+- Rock warm to the touch in a cave in the cold of the morning.
+- A faint ringing grind on the wind at night from a ridge above the track.
 
 ## Combat Strategy
 
-Ironjaws use coordinated pack tactics, attempting to surround prey and drive it toward chosen kill zones. The pack's strategy is to wound and exhaust prey, with multiple members attacking in rotation while others circle to prevent escape. Individual Ironjaws, separated from pack support, rely on brute strength and durability to overcome opponents. The creatures charge when they judge themselves to have advantage, using their heavy weight as a weapon. When badly wounded, a separated Ironjaw may retreat to rejoin pack support; if pack support cannot reach the isolated creature, it fights with desperate ferocity until destroyed or victorious.
+The pack surrounds, cuts one man out of the group and wears him down, biting in rotation while the others keep the rest of the party busy. It drives its prey toward a place it has chosen. When it judges a man is weak or off balance, an ironjaw charges and knocks him flat with its plated weight, and the others close. A lone ironjaw separated from the pack tries to rejoin it, and if it cannot, it fights to the death. Killing the leader throws the pack into confusion for a few moments, which is the best chance a party has. Blades do little; mauls, falling rock, acid and cold do more.
 
 ## Attack Methods
 
 ### Metal-Edged Bite
 
-The Ironjaw's jaws snap forward with tremendous force, capable of crushing through bone and armor. The metallic nature of the teeth and jaw structure allows it to bite through materials that would blunt normal fangs.
+The jaws close with a grinding force that crushes bone and goes through mail. The iron teeth bite into metal that would blunt any natural fang.
+
+### Raking Claws
+
+The metal-edged claws slash at a man's legs and body and catch on armor, tearing away straps and links.
 
 ### Armor Charge
 
-The creature lowers its head and charges at high speed, using its metallic armor as both battering ram and blade. Targets struck are battered and knocked off their feet; the charge can drive targets backward into hazards.
-
-### Raking Claw Strikes
-
-The Ironjaw slashes with its metal-edged claws, attempting to open wounds and tear armor apart. The metal edges catch on armor, potentially ripping away pieces.
+The ironjaw lowers its head and hits at a run with its plated body, knocking a man off his feet and driving him back into rock or over a drop.
 
 ## Special Abilities
 
 ### Metallic Plating
 
-The Ironjaw's scales are fused with metallic material, providing heavy protection against physical attacks. Cuts and thrusts do little against it; blunt force and crushing blows are more effective.
+Cuts and thrusts skid off the plates. Heavy crushing blows do more, and acid and corrosion eat the plating and weaken it.
 
 ### Pack Coordination
 
-Pack members fight better together than apart when within sight or hearing of one another. The death of a pack leader throws the pack into brief confusion; it reestablishes hierarchy and regains coordination after some moments.
+Within sight or hearing of one another, ironjaws fight as one animal and strike harder and more surely. The death of the leader throws the pack into confusion for a few moments until another takes its place.
 
 ### Heat Resistance
 
-The Ironjaw's internal nature allows it to function in high-temperature environments and to resist fire and heat. However, extreme cold damages the metallic structure and slows the creature.
+The ironjaw runs hot and shrugs off fire and heat. Hard cold slows it and makes its plates brittle.
 
 ### Temporary Hardening
 
-The creature can deliberately reinforce its metallic scales, increasing its resistance to damage. The hardening lasts only a short while; once used, it needs time before it can be used again.
+For a short time the ironjaw can harden its plates further, so that even a heavy blow does little, and it needs a rest before it can do so again.
 
-## Additional Information
+### Endurance
 
-Acid and corrosion-based attacks are particularly effective against Ironjaws, as they degrade the metallic components of the creature's armor. Extreme cold similarly weakens it and can cause its plating to fail. Separating pack members and preventing coordination significantly reduces their effectiveness. By some accounts, Ironjaws can survive for extended periods with heavy damage to their bodies, as long as their central vital areas remain intact.
+An ironjaw fights on with terrible damage to its body as long as its head and chest are whole.
 
 ## Attributes
 

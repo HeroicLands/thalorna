@@ -187,51 +187,75 @@ sohl:
 
 ![[bnscrpn|Bone Scorpion]]{float=top-left}
 
-The air grows cold where it stands motionless among the rocks and sand. Its exoskeleton, pale as old bone and nearly translucent in certain light, seems to drink in heat rather than reflect it. Eight legs move with terrible grace and precision, making no sound as the creature shifts its position. The pair of jagged pincers in front rattle softly against each other with a sound like dice in a cup. But it is the tail that dominates your attention—curved upward in a graceful arch, its segments catching light with a sickly iridescence, and at its tip, the stinger: a thing of nightmare, as long as a dagger and poised to strike with the speed of thought.
+The well-head is a ring of cut stone with a strip of shade on its eastern side, and the shade is the first thing anyone wants after the march. Your guide stops you at the edge of it with the butt of his staff. He points. What you took for a drift of pale sand against the stone has a tail, held in a high curve over a body the color of old bone, and the two pincers resting in front of it are as long as your forearms. It has not moved. The guide says it will not move for you either, as long as you keep off the shade, and he walks the string round to the sunlit side to water.
 
 # Dossier {#dossier}
 
-The Bone Scorpion is a massive desert arachnid evolved to be the apex predator of its habitat. Measuring seven to nine feet from the tip of its tail to the far reach of its pincers, it is an ambush hunter of supernatural patience and terrifying skill. Its pale, chitinous exoskeleton blends with sand and stone, and its metabolism allows it to go weeks without food by entering a hibernation state between kills. These creatures are so feared by desert peoples that they appear in folklore and legend as harbingers of death. A Bone Scorpion guards a territory of several miles and will attack anything it perceives as prey or threat, with no discrimination between human, animal, or monster. Adventurers may encounter them while traveling desert trade routes, investigating ruins, or searching for rare materials—scorpion venom is valuable to alchemists and poisoners.
+The Bone Scorpion is the large scorpion of the [[place-khzryndsrtrgn|Khazryn]], seven to nine feet from the tip of the raised tail to the reach of the pincers and three feet tall on its legs, colored the pale cream of weathered bone so that it matches the sand and the stone it rests on. It lives at the wells and along the camel road, in the shade of any wall, and it is one of the three creatures a desert guide names first to a newcomer, with the [[being-gntcmlsp|giant camel spider]] and the [[being-sndstlkr|sand stalker]]. Those two come to a camp. The scorpion stays where it is and lets the camp come to it.
+
+It is an ambush hunter with a long patience. A scorpion that has fed sleeps under the sand for weeks, and one that is hungry sits in the shade of a well-ring or a tumbled wall from dusk until the heat of the next morning and takes what comes to drink: hares, foxes, a stray goat, a camel's foreleg, a man who sat down in the shade without looking.
 
 ## Presentation
 
-A creature of alien geometry: a massive arthropod standing three feet tall on eight long, articulated legs. The body consists of a large cephalothorax and an abdomen composed of articulated segments that curve upward and backward into the iconic tail. The entire creature is chitin, pale cream or sickly yellow-white, appearing almost translucent in places where the carapace is thin. The head bears six to eight simple eyes arranged in clusters, each black and brilliant, constantly moving and assessing. The two pincers are massive, composed of jagged, toothed edges designed to crush and shear. The tail rises gracefully, its segments slightly overlapping, each segment growing progressively smaller toward the tip where the stinger emerges. The stinger itself is a shaft of hardened chitin, tapering to a wicked point and dripping with neurotoxic venom. The entire creature is colored to match sand and stone perfectly, making it almost invisible when motionless among rocks.
+The body is a broad, plated thorax and a segmented abdomen that curves up and back into the tail. Every plate is chitin, cream or sickly yellow-white, thin enough at the joints to show a little light through. Six to eight small black eyes sit in clusters on the head and move constantly. The pincers are heavy and toothed along their inner edges, made for crushing and shearing; the tail segments shrink toward the tip, where the stinger is a tapering shaft of hard chitin as long as a dagger, with a bead of clear venom at its point. At rest the animal is nearly invisible against pale rock. Moving, it is silent, and the one sound it makes is the pincers rattling together, like dice in a cup.
+
+## In the Land
+
+Bone Scorpions live throughout the sand seas and gravel reaches of the [[place-hskrrgn|Hosikor]] and along the whole length of the camel road, wherever there is water and shade within a night's walk of each other. The deep wells of the road, the ruined walls of the dead cities and the stone rings of [[lore-ownedoasis|an owned oasis]] all shelter them. The tribes know the hours when a scorpion is out and keep their own camps well back from a pool; the owners of a spring lid a shaft that one lives in, and say so when asked.
+
+Each adult holds a range of four to six miles and walks it at night on a regular round, so a well that had a scorpion last season has one this season, and a guide who knows the road knows which side of which wall to keep off.
 
 ## Key Behaviors
 
-Bone Scorpions are solitary, fiercely territorial hunters. They establish hunting ranges of four to six miles and will patrol regularly, sometimes covering the same routes multiple nights in succession. During the day, they bury themselves in deep burrows beneath rocks or sand, remaining dormant to conserve energy and avoid the intense desert heat. At dusk, they emerge to hunt, moving with patient precision through their territory, stopping frequently to sense vibrations in the ground or chemical traces in the air. They prefer living prey, as they have a taste for the flavor of fresh blood, and will pursue wounded animals relentlessly. When prey is captured, they may drag it back to their burrow for storage or consumption over several days. They are essentially immune to pain and continue hunting and defending territory until literally incapable of moving. Mating occurs once yearly, typically in spring, and females are more aggressive than males during this period. Pregnant or egg-bearing females become more territorial and more likely to attack humans on sight.
+A Bone Scorpion spends the day buried in a burrow under a rock or a drift, fifteen to twenty feet deep and only as wide as its body, and comes out at dusk. It hunts by feel: the hairs on its legs read a footfall through the ground from forty feet, and it tastes the air for blood. It takes living prey where it can, follows a wounded animal for a long way, and drags a kill back to the burrow to eat over several days. It fights until it cannot move; pain does not turn it. The scorpions mate once a year in spring, and a female carrying eggs is bolder than any other scorpion and attacks a man on sight.
+
+## What the Tribes Do
+
+The Sowides do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
+
+The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qìso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Caldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
+
+## Signs
+
+- A strip of shade at a well that the camels will not walk into, however thirsty.
+- Drag-marks in the sand leading under a rock, with a scatter of small bones at the mouth of the hole.
+- A hare or a fox lying dead beside water with no mark on it but a single puncture.
+- A faint, dry rattle from a wall at dusk, like dice shaken in a cup.
+- A burrow mouth no wider than a man's thigh, going down steeply under a boulder.
 
 ## Combat Strategy
 
-A Bone Scorpion's ideal strategy is a swift ambush from concealment. If buried in sand with only sensory organs exposed, it can detect vibrations from a walking human from forty feet away. It will wait with supernatural patience until the target approaches within striking range, then explosively burst from the sand and drive its stinger into the target's body, injecting venom. Against multiple targets, it uses superior mobility and the reach of its tail to keep opponents at distance while hunting them one by one. It is an intelligent hunter and will test an opponent's defenses, learning weak points and attack patterns before committing fully. If cornered or significantly outnumbered, it will retreat to its burrow, moving with surprising speed across sand or broken rock. Once underground, it is nearly impossible to pursue—the burrow is typically long and narrow, suited perfectly to the scorpion's body, and the creature will defend its entrance with fury if backed against its own lair.
+The scorpion strikes from stillness. It waits in the shade or under a hand's depth of sand with only the eyes and the tail-tip exposed, lets the prey come within reach, and drives the stinger into it. Against several opponents it keeps them off with the tail and takes them one at a time, and it learns a shield-arm or a spear-side within a few passes and strikes round it. Outnumbered or hurt, it runs for the burrow over sand or broken rock faster than a man can follow, and nothing gets it out of the burrow once it is in.
+
+Its weak points are the leg joints and the soft folds between the tail segments, and a scorpion out on open sand in daylight is sluggish and half blind.
 
 ## Attack Methods
 
 ### Stinger Strike
 
-The tail whips upward and forward with cobra speed, driven by the core strength of the creature's abdomen. The stinger punctures armor and pierces flesh with ease, and upon impact, the scorpion injects a potent neurotoxin. The venom is rapid-acting and devastating—targets who fail to resist find themselves increasingly paralyzed, starting with weakness and progressing to total immobility if the dose is sufficient. The stinger leaves behind a wound that continues to weep venom for several minutes, potentially delivering multiple doses to a struggling victim.
+The tail snaps forward over the body and drives the stinger into the target. The point goes through leather and finds the gaps in mail, and the venom follows it. The wound weeps venom for some minutes afterward, so a victim who struggles against the tail takes more than one dose.
 
 ### Pincer Crush
 
-When a target is grabbed by the pincers—either during a charge or when the tail strike has failed—the scorpion uses its considerable strength to crush bone and sever limbs. The pincers are articulated, allowing the creature to apply shearing force that can cleave through armor as easily as cloth. A victim caught in both pincers can be physically ripped apart if the scorpion succeeds in pulling the target toward its body.
-
-### Tail Whip
-
-The creature's tail can be used as a secondary whipping weapon, striking multiple targets or fending off attackers approaching from the side or rear. While less devastating than a direct stinger strike, a tail whip can injure and knock down opponents.
+The pincers close on a limb or a body and shear. A man held in one pincer has a broken arm; a man held in both is pulled toward the mouthparts and torn.
 
 ## Special Abilities
 
+### Tail Whip
+
+Against an opponent at its side or rear, the scorpion swings the tail flat without using the sting, hard enough to knock a man down.
+
 ### Neurotoxic Venom
 
-The Bone Scorpion's venom is a neurotoxin that attacks the nervous system and paralyzes skeletal muscles. A single injection typically affects smaller creatures severely; larger creatures may resist but will still suffer debilitating weakness. Repeated injections or sustained exposure can overcome even the strongest resistances. The venom is sufficiently valuable that collectors and apothecaries will pay premium prices for fresh samples.
+The venom deadens the nerves and then the muscles. One sting weakens a man within minutes and a second or third leaves him unable to stand; a horse or a camel takes longer to go down and goes down just the same. The paralysis passes in a day or two if the dose was small.
 
 ### Sand Camouflage and Burrowing
 
-The scorpion's exoskeleton is naturally camouflaged to blend with sand and desert stone. When motionless, it is nearly invisible to casual observation. It can burrow with surprising speed, digging through compacted sand using its pincers and legs, creating burrows that slope downward and can extend fifteen to twenty feet underground. These burrows are so well-concealed that a scorpion's lair is almost impossible to locate without deliberately searching.
+At rest against pale stone or sand the scorpion is nearly invisible. It digs with the pincers and the forelegs, fast enough to be under the surface in a few breaths, and its burrows are long, narrow and hard to find.
 
 ### Sensory Acuity
 
-Despite having simple eyes, a Bone Scorpion has extraordinarily acute senses. It detects vibrations in the earth from considerable distances, perceives warmth through heat-sensing organs, and can follow scent trails with precision. In its native desert environment, it is nearly impossible to approach undetected; in other terrains, its sensory advantage remains significant.
+It reads footfalls through the ground, warmth through the air and blood on the wind. In its own country nothing walks up to it unnoticed.
 
 ## Attributes
 

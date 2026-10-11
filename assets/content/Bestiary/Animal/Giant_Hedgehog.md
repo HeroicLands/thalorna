@@ -245,47 +245,59 @@ sohl:
 
 ![[gnthdghg|Giant Hedgehog]]{float=top-left}
 
-Your foot nearly comes down on it before you see it: a rounded form the size of a large boar, covered in spines that stand nearly vertical from its body. The quills catch the light and gleam like steel, and when you shift your weight, the entire creature rattles—a warning sound like a thousand dice tumbling in a barrel. A long, pointed snout pokes forward and sniffs the air, and small dark eyes lock onto you. The smell is earthy and rank. The creature seems unimpressed by your presence, but those quills continue to rattle, each spine gleaming with a wickedness that promises serious harm.
+Something in the stubble beyond the hedge has been rattling for some minutes, a dry sound like dice shaken in a barrel, and the farm dogs will not go near it. When you climb the gate you see why: a round-backed animal six feet long and as high as your waist is rooting along the furrow, and the whole of its back is quills a foot long, brown and gray and shining at the points. It lifts a long snout toward you, sniffs, and the quills come up all together with a rattle that carries across the field.
 
 # Dossier {#dossier}
 
-The Giant Hedgehog is a bulky, heavily-quilled creature standing three feet tall and extending six feet or more in length. These are solitary, nocturnal foragers that spend their time rooting through leaf litter and soil in search of grubs, insects, and roots. Despite their herbivorous preference, they are dangerous to encounter because of their armor of razor-sharp spines. Adventurers most commonly encounter them when traveling through woodlands at night or when camping in territory where hedgehogs forage.
+The Giant Hedgehog is a six-foot, foot-quilled, night-foraging animal of the wood edges and farmland of [[place-velanthrgn|Velanthia]], which eats grubs, worms, beetles, roots and fallen fruit and would be a harmless nuisance if its back were not a field of foot-long spines. It is slow, nearsighted and not interested in people. It turns up in a barley field or a ditch at night, a dog or a horse that blunders into it dies of the wounds, and when it is frightened it throws its quills.
 
 ## Presentation
 
-The Giant Hedgehog is a rotund creature built like a mobile fortress—short, powerful legs support a large, barrel-shaped body covered entirely in spines. The quills are impressive: each one up to a foot in length, thick and sharp, arranged in overlapping rows across the dorsal surface and sides. The underside is slightly less spiny but still well defended. The head is relatively small, tapered to a long, flexible snout with a fine sense of smell and small teeth suitable for grubbing in soil. The eyes are small, dark, and set on the sides of the head, providing good lateral vision but limited forward sight. The creature moves with ponderous deliberation, but its quills create a constant whispering rattle as they shift and resonate with each step. The coloration is typically brown or gray, often caked with soil.
+A round, heavy-bodied animal three feet at the shoulder on short strong legs, covered from crown to rump in quills up to a foot long, thick and sharp and laid in overlapping rows, with shorter spines on the flanks and few on the belly. The head is small and tapers to a long, mobile snout with a fine nose and small teeth for grubbing. The eyes are small, dark and set at the sides, and it sees poorly ahead. The coat under the quills is brown or gray and usually caked with soil. The quills whisper against each other as it walks and rattle when they are raised.
+
+## In the Land
+
+Giant Hedgehogs live along the margins of the Velanthian forest-steppe where the woods meet the grain-belt: in the hedges and ditches of the river-prince kingdoms' farmland, the wood edges, the orchards and the old field-banks, where the ground is soft and full of grubs. They den in a scrape under roots or in a bank, hole up through the deep winter and come out with the thaw. They are commonest where the farming is oldest and the hedges thickest, and a village of the grain-belt usually has one or two in its woods and leaves them there.
 
 ## Key Behaviors
 
-Giant Hedgehogs are solitary creatures that establish feeding territories but rarely interact with other hedgehogs except during breeding season. They are nocturnal and most active during warm, damp nights when invertebrates are abundant. A hedgehog spends much of the night rooting and snuffling through forest floor debris, consuming large quantities of grubs, insects, and plant matter. They are primarily herbivorous but will eat any meat they encounter. They are methodical and patient creatures, showing no particular fear of larger animals—their armor is their confidence. During winter or cold weather, they seek shelter in burrows and become less active.
+The hedgehog forages by night, chiefly on warm wet nights when the worms are up, snuffling along a furrow or a hedge-bottom and turning the soil with its snout. It eats what it finds, meat included, and takes eggs and nestlings from a ground nest. It keeps a feeding ground and tolerates no other hedgehog on it outside the autumn mating, and it fears nothing, because nothing in the grain-belt can get past the quills. Frightened, it curls; frightened further, it throws quills; and a sow with young at the den charges.
+
+## What the Farmers Do
+
+Velanthian farmers count the hedgehog a mixed blessing: it eats the grubs that eat the barley and it eats the hens' eggs too, and a horse that treads on one in the dark is lamed for the season. A field with a hedgehog in it is worked by day and the dogs are kept in at night. Boys gather the shed quills from the hedge-bottoms in autumn and the fletchers buy them, and a whole skin, taken from an animal killed in its winter sleep, makes a shield-facing that no hand will grip. A hedgehog in its den in winter can be dug out and killed without danger, and the smallholders who do it say the meat is good. A tame one, raised from a hoglet, lives under the granary and keeps it clear of rats, and bites the hand that feeds it about once a month.
+
+## Signs
+
+- A furrow or a hedge-bottom turned over in a straight line, as if by a small plow, with the worms gone.
+- Loose quills a foot long lying in the stubble, brown and gray and sharp.
+- A dog with a muzzle full of spines, howling.
+- A dry rattle from the dark beyond the hedge that stops when a lantern comes near.
+- A hole under the roots of a hedge-oak, lined with leaves, with a heap of spines at the mouth.
 
 ## Combat Strategy
 
-A Giant Hedgehog’s primary defense is to curl into a ball, presenting only quills to all potential attackers. In this posture, the hedgehog is nearly invulnerable and can remain indefinitely. If further threatened or if the threat becomes immediate, the hedgehog actively launches quills—shaking its body to dislodge spines that fly at attackers with considerable force. A hedgehog will rarely uncurl and attack directly but may charge if defending young or if cornered. The charge is surprisingly fast for a creature of its bulk, and the impact can be punishing.
+The hedgehog's defense is to curl, quills outward, and wait. Nothing can hurt it in the ball and it does not need to do anything else. A threat that persists is answered with a shake of the whole body that sends quills flying several yards, and a hedgehog shaking itself in a lane empties the lane. It charges only to defend its young or when it is cornered, head down, and the charge is slow and easy to see coming and hits hard. It is killed by flipping it, with a pole, and striking at the belly, which takes two people and a strong pole.
 
 ## Attack Methods
 
 ### Quill Volley
 
-The hedgehog shakes its body with muscular contractions that dislodge quills—these projectiles fly at attackers with enough force to pierce light armor and flesh alike. Multiple quills can be launched in rapid succession, and the barrage can target a single opponent or spread across an area.
+A shudder of the body throws loose quills at whatever is near, hard enough to go through leather and into flesh. Several shudders in succession fill the air in front of the animal with spines.
 
 ### Charging Gore
 
-Rarely, a hedgehog will charge at a threat—using its armored body as a weapon and attempting to gore with the concentrated mass of forward-facing quills. A charge is powerful but slow and telegraphed.
+Head lowered, the hedgehog runs at a threat and drives the forward quills into it with the weight of its body. The charge is slow for an animal of its kind and bad to be hit by.
 
 ## Special Abilities
 
 ### Quill Armor
 
-Any creature that strikes the hedgehog in melee combat risks its own injury—the quills penetrate flesh and draw blood, and a creature in prolonged contact with the hedgehog is wounded again and again. The belly and underside have fewer quills and are more vulnerable than the back.
+Anything that strikes the hedgehog at close quarters comes away bleeding, and anything that holds onto it is pierced again with every movement. The belly carries few quills and is the one soft place.
 
 ### Defensive Curl
 
-When curled into a ball, the hedgehog becomes nearly indestructible—attacks from most angles are harmlessly deflected by the quills. Only attacks from the underside (which is accessible only if the hedgehog is flipped or lifted) can do real harm.
-
-## Additional Information
-
-A giant hedgehog’s quills have value—they can be crafted into projectile weapons or worked into armor. Harvesting quills requires care to avoid the creature’s spines. A living giant hedgehog can sometimes be tamed through food and gentle handling, though they remain wild and unpredictable. A hibernating hedgehog can be approached without threat if one is careful to avoid sudden movements.
+Rolled up, the hedgehog shows quills on every side and can be hurt only from the belly, which is inside the ball. It stays rolled until the threat has gone.
 
 ## Attributes
 

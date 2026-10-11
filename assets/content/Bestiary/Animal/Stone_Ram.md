@@ -257,63 +257,67 @@ sohl:
 
 ![[stoneram|Stone Ram]]{float=top-left}
 
-The creature stands upon stone as if born from it, its massive frame balanced with impossible confidence on a ledge that would offer most creatures only terror. The horns spiral upward from the skull, vast and dark as slate, each curve marked by deep grooves that speak of countless collisions with rivals and stone. The shaggy coat of gray and white wool ripples in wind, and the small hooves, improbably dainty for a creature of such bulk, click with perfect surety against stone. The eyes are watchful and intelligent, scanning not for immediate threat but assessing the terrain and nearby creatures with the confidence of something that cannot be caught on ground of its choosing.
+The ridge narrows to a knife of gray rock with a drop on either side, and there is a ram standing on it where the path goes over. It is as big as a pony, shaggy gray and white, and its horns curl back from its skull and round again in a full spiral as thick as your thigh at the root, slate-dark and ridged. It has seen you. It does not move off the path. It lowers its head a little, so that the horns come forward, and strikes the rock once with a forefoot, and the sound carries down the ridge like a hammer on an anvil.
 
 # Dossier {#dossier}
 
-The Stone Ram is a powerful, heavily built mountain herbivore standing 4-5 feet at the shoulder and weighing 300-400 pounds, found on high-altitude cliffs, rocky plateaus, and mountainous regions across temperate and cool climates. These herd animals are superb climbers that maintain exclusive territories in terrain where ground-bound predators cannot follow. Adventurers encounter stone rams while traveling mountain passes, camping near cliffs, or hunting in areas where the rams establish grazing grounds.
+The Stone Ram is the wild sheep of the high ridges of the [[place-graznmntns|Grazian]] north face: four to five feet at the shoulder, three hundred and fifty pounds, with a spiral of horn on each side of the head that a grown man cannot lift. It lives in herds of five to thirty on the ridges and plateaus above the snowline, grazes the thin grass and lichen there, and climbs rock that stops a goat. It is a grazer and does not hunt anything. It is on the guides' list of the four dangers of the north face, with the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-roc|Roc]], because a ram defends its ridge against anything that comes along it carrying a weapon, and the ridges are where the paths go.
 
 ## Presentation
 
-The Stone Ram presents a compact, muscular form built for power and climbing capability. The body is stocky and heavily muscled, covered in thick, shaggy fur ranging from gray to gray-white with darker markings. The most distinctive feature is the spiraling horns that extend upward from the skull—enormous, dark, and deeply grooved from years of combat with rival rams and weathering against stone. The horns can exceed 3 feet in length and weigh 20+ pounds each. The head is broad and blocky, with a strong jaw adapted for grinding vegetation and a pair of forward-facing eyes. The legs are proportionally short but extraordinarily muscular and powerful. The hooves are small and highly specialized for gripping stone and rock, capable of finding purchase on surfaces that appear smooth to a human eye.
+A stocky, deep-bodied sheep on short, heavily muscled legs, in a coat of thick shaggy wool from gray to gray-white with darker saddle and legs, shed in great matted sheets in early summer. The rams carry the horns: dark, deeply grooved with the rings of each year, curling back and round in a spiral that may run three feet along its curve and weigh twenty pounds a side, scarred and chipped at the front where they have met other horns. The ewes carry short, backswept horns. The head is broad and blocky, the eyes pale yellow with a bar for a pupil, and the hooves are small, split and hard-rimmed round a soft center that grips smooth rock. A ram on a ledge stands as easily as a man on a floor.
+
+## In the Land
+
+Stone rams hold the ridges, saddles and high plateaus of the Grazian north face, from the snowline down to the head of the scree, above the [[place-dkrqrrgn|Dikraqor]] and the oasis strip of [[place-swoasisbelt|Tellumel]], and along the approaches to the high passes and the [[place-grazruins|ruins and labyrinths]] under the glaciers. A herd keeps to its own stretch of ridge for generations and moves up and down it with the seasons, high in summer and down to the sheltered south-facing ledges in winter. The herds are thickest above the Western Descent, where the range breaks into lower peaks and the grass comes higher. They avoid the deep snow and the ice of the summits, and they do not come down into the plateau.
 
 ## Key Behaviors
 
-Stone Rams live in herds ranging from 5 to 30 individuals, establishing exclusive territories on rocky high-altitude terrain. They are highly social within herds, with clear hierarchies established through headbutting contests. During the autumn rutting season, males become intensely aggressive and territorial. Stone Rams are active during dawn and dusk, spending hot midday periods resting in shade. They are primarily herbivorous, grazing on sparse alpine vegetation and browsing on bark and lichen. They are intelligent and capable of learning, remembering dangerous locations, hunters, and productive feeding grounds. The creatures are almost fearless within their mountain territory, where their climbing ability and rocky terrain provide complete dominance.
+A herd grazes in the morning and evening and lies up at midday on a ledge with a long view, with one animal always on its feet watching. The herd has a strict order, settled each autumn among the rams by fights in which two rams back off, rear and run at each other, and the crack of the horns meeting carries across a valley. In the rut the rams are dangerous to everything: a ram that has fought all day attacks a mule, a man or a rock that looks like a rival. Outside the rut a herd threatened on open ground goes up the nearest cliff, where nothing can follow. A herd that cannot climb away, or that has young, puts the rams between the threat and the ewes, and the rams charge. A ram remembers a path where men have shot at it and keeps off that path for years.
+
+## What the Mountain People Do
+
+The guides who take parties onto the north face give a ram on a ridge the path, and wait, sometimes for an hour, rather than go at it; a ram that is not pressed walks off when it has made its point. Nobody crosses a herd's ridge in the autumn rut. The climbers the Tellumi houses hire to prove an ancestral peak meet the rams on every route above the Descent and carry slings for them, because a stone thrown at a ram's flank turns it where a spear brings it on. The horns are the prize: a pair from an old ram, ring-counted and polished, hangs in the hall of a Tellumi house that claims the peak it was taken on, and a horn cup made from one is a gift between princes. Ram wool, combed from the ledges where they shed, is the softest fiber the mountain produces and the plateau women spin it for nobody but themselves.
+
+## Signs
+
+- A crack like a felled tree echoing across a valley in autumn, repeated at intervals.
+- Tufts of gray wool caught on the rock at the head of a scree, and small split tracks above them where no goat would go.
+- Droppings in neat heaps on a high ledge with a long view, where the herd lies up.
+- A single animal standing on a skyline crest, unmoving, facing down the path.
+- Scored and broken rock on a ridge where two rams have fought.
 
 ## Combat Strategy
 
-A stone ram's primary response to threat is to use terrain advantage—the creature charges in directions that make pursuit difficult for less-capable climbers. If cornered, the ram becomes aggressive, using its horns and body weight to drive threats away. During rutting season, rams become much more aggressive and may charge at perceived rivals or threats without attempting escape. A charging ram uses its mass and momentum to knock opponents off balance or directly off cliff edges when possible.
+A ram on its own ground uses the ground. It meets an intruder on the narrowest part of a ridge or path, where there is no way round, and charges downhill with the full weight of its body behind the horns, aiming to put the man over the edge. A ram that misses wheels on a ledge no man could turn on and comes again. Cornered or caught with the herd, it rears and kicks with the forefeet before it charges. A ram that has been hurt goes up the rock and watches. The herd fights together only for its lambs: the rams come from two sides at once, and a party between two charging rams on a ridge has a long way to fall.
 
 ## Attack Methods
 
 ### Horn Charge
 
-The stone ram charges with all its weight and strength, using its spiraling horns to strike and gore opponents. The impact is sufficient to break bones in unarmored targets and to knock even armored opponents off balance. On cliff terrain, the ram aims to drive opponents toward edges.
+The ram drops its head and runs, and the horns strike with the whole of its weight and speed behind them. A man in the open has his ribs broken or is thrown several yards; a man on a ridge is thrown off it. Downhill, over a few strides, the blow breaks a shield.
 
-### Rear and Kick
+### Kick
 
-When rearing up, the stone ram uses its powerful hind legs to deliver upward kicks with small but hard hooves capable of inflicting serious wounds. This attack is used when the ram is cornered or defending young.
-
-### Head Butt
-
-The stone ram uses its thick skull as a battering weapon, delivering impacts that can daze and disorient opponents. This attack does less harm than the horned charge but can be repeated rapidly.
+Rearing, the ram strikes down with the forefeet, or lashes back with the hind feet at something behind it. The hooves are small and very hard and open a scalp or break a forearm.
 
 ## Special Abilities
 
 ### Mountain Agility
 
-The stone ram is supremely adapted to vertical and near-vertical terrain, capable of scaling near-vertical cliff faces and traversing ledges that would be impassable for humanoids. On rocky, steep, or uneven ground the creature has the upper hand entirely.
+The ram crosses near-vertical rock, ledges a hand wide and loose scree at a run, and turns where a man could not stand. On its own ridges it has the advantage of every footing.
 
-### Unyielding Charge
+### Downhill Charge
 
-When charging downhill or across known terrain, the stone ram builds momentum that increases the impact force and likelihood of knocking opponents off balance. The creature's confidence in mountain terrain makes it nearly impossible to evade a downhill charge.
+A charge with a slope behind it hits harder for every stride. A man below a ram on a steep path cannot sidestep it and cannot stand against it.
 
-### Herd Coordination
+### Herd Defense
 
-Stone rams within herds coordinate defensive actions, using their numbers to present overwhelming threat or to execute pincer attacks against predators or threats.
+Rams defending a herd charge from different sides and take turns, so that a man who turns to face one is struck by the next.
 
-### Exceptional Climbing
+### Head Butt
 
-The stone ram's hooves are specialized for finding purchase on stone and rock. The creature can climb surfaces at angles that would be impossible for humanoids to attempt.
-
-### Stubborn Determination
-
-Once a stone ram commits to a charge or defense, it follows through with complete commitment and rarely retreats from a committed direction.
-
-### Additional Information
-
-Stone rams are most dangerous in their native mountain terrain where climbing ability and rocky environment give it complete mastery. In open ground or level terrain, much of that mastery is lost. Herds of stone rams are more dangerous than individuals, as coordination and numbers create overwhelming threat. Rams defending young become more aggressive but still rely first on terrain for defense. The creature's horns can be harvested after death and used for decoration, crafting, or magical use. Stone rams are traditionally hunted by mountain cultures, and hunting them is a significant rite of passage or religious practice.
+Close in, with no room to run, the ram drives its skull and horn-bases into a man in short, repeated blows that stagger and daze him.
 
 ## Attributes
 

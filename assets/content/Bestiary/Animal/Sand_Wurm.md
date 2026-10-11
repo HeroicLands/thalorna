@@ -187,67 +187,73 @@ sohl:
 
 ![[sandwurm|Sand Wurm]]{float=top-left}
 
-The ground itself becomes the warning—a deep, subsonic vibration that travels up through your feet and into your bones. The sand and earth around you begins to shift, creating patterns of disturbance that shouldn't exist, as if something impossibly vast moves beneath the surface. Then, with the violence of an eruption, the ground explodes upward, and a maw of such scale and such teeth emerges that your mind struggles to comprehend it. Rough, beige scales gleam in harsh sunlight, each one the size of a shield, arranged in patterns that mimic dunes, and the creature's eyeless head sways with an awareness that seems to reach beyond ordinary senses. The smell hits—sulfur and ancient earth, the reek of a creature that has hunted for centuries. The sound is worst of all: not a roar but a hiss from deep in the throat, a sound that resonates with hunger and inevitability.
+The camels feel it before you do. The whole string stops and the lead beast plants its feet and moans, and then you feel it too: a deep, slow trembling coming up through the sand into your heels, like a cart going over a bridge somewhere underneath you. The dune ahead of the string sags in a long line, as if a breath had gone out of it. Then the sand at its foot bursts upward in a column, and out of the column comes a head with no eyes in it, round and blunt and as wide as a house door, which opens into a ring of teeth that goes back and back into the dark. It hisses, a sound like sand poured on hot iron, and the smell that rolls over you is sulfur and old stone.
 
 # Dossier {#dossier}
 
-The Sand Wurm is an impossibly massive subterranean predator reaching lengths of 50-100 feet and diameters of 10-15 feet, found in deep deserts, badlands, and subterranean caverns where vast prey populations exist. These apex predators are virtually unstoppable underground, using tremor sense and ambush tactics to hunt creatures ranging from large animals to humanoid settlements. Adventurers meet sand wurms rarely—encountering one is often a catastrophe that marks the end of an expedition.
+The Sand Wurm is the great burrowing predator of the eastern waste: fifty to a hundred feet long, ten to fifteen feet thick, scaled in beige and tan, with a round mouth eight feet across ringed with teeth that point inward, and no eyes at all. It lives under the deep dunes at the eastern end of the sands and in the caverns of the stone desert of [[place-idwkrrgn|Idwakor]], swims through loose sand as a fish swims through water, and hunts by the tremor of feet on the surface above it. It takes wild camels, dune striders and gazelle, and whatever else walks over it. It swallows a man or a pony whole.
+
+The tribes do not fight it. A sand wurm reported on a stretch of the road makes the caravans go round that stretch for a season, and the riders who sell passage there lose a season's income and say so to anyone who will listen.
 
 ## Presentation
 
-The Sand Wurm is a creature of overwhelming scale and alien physiology. The body is serpentine and segmented, covered entirely in rough, overlapping scales in beige, pale yellow, and tan that mimic desert sand perfectly when the creature is still. The segments are marked by flexible joints that allow undulating motion and burrowing. The head is rounded and blunt, without eyes but with a sensory apparatus for detecting vibrations and chemical traces. The maw is the defining feature—a circular mouth ringed with concentric rows of razor-sharp teeth that extend inward in a pattern designed to prevent escape. The mouth can open to a diameter of 8-10 feet, and the throat extends down into the creature's body, capable of swallowing creatures whole.
+A long, segmented, serpentine body as thick as a hut, covered in overlapping scales the size of shields, pale beige, yellow and tan, ridged and patterned so that the back of a resting wurm looks like a dune. The segments flex on broad, supple joints and the body moves in long waves. The head is a blunt, eyeless dome of heavier plates, pitted with small openings that taste the sand. The mouth fills the front of it: a circle that opens eight or ten feet wide, set with ring inside ring of backward-pointing teeth, each as long as a forearm, so that anything that goes in cannot come out. The throat runs back into the body. The animal smells of sulfur and hot rock.
+
+## In the Land
+
+Sand wurms live in the deeper desert of the east: the high dunes that run up to the edge of the stone desert, where riders arriving at [[place-sowidwell|Sowid Well]] after dark wait for dawn rather than cross the last dunes blind, and the caverns of the hollow ridges of [[place-ruweq|Ruweq]], where one lairs in the lower galleries below the cut cisterns. A wurm holds a territory of many miles of sand and goes the length of it over a season; two wurms do not share ground, and a fight between them churns a stretch of desert into a new shape. They need deep, loose sand or soft rock to move through and are not found on the gravel reaches, on the salt or in the stone uplands of the west. The camel road crosses their country only at its eastern end, and the tribes that sell that stretch know where a wurm was last seen.
 
 ## Key Behaviors
 
-Sand Wurms are ambush predators that spend nearly their entire existence burrowing beneath sand and stone, surfacing only to attack prey or relocate to new hunting grounds. They are solitary, territorial creatures that maintain enormous territories and defend them against rivals or intrusion. The creature is active when prey vibrations are detected and may remain still for weeks or months if prey is scarce. Sand Wurms are capable of learning—a wurm that frequently encounters humanoids or fortifications will develop adjusted hunting tactics and avoid those dangers. The creature's presence in a region can be identified by the characteristic winding dune patterns created by movement beneath the sand.
+A wurm lies still under the sand for days or weeks, its head a few feet below the surface, and waits for a footfall. It feels a walking animal through the ground at several hundred feet and knows by the rhythm what it is and how heavy; a running animal it feels further, and it comes. It rises under the prey in one movement and takes it in the mouth, and anything too big to swallow it coils round and crushes. Then it goes down again, and the sand closes over it. It eats seldom, a few times a season, and a wurm that has fed sleeps for weeks. It learns: a wurm that has taken a camel from a string knows the sound of a string, and one that has found a well where strings halt comes back to it. A wurm in its cavern hunts the passages the same way and wakes when a party runs.
+
+## What the Caravans Do
+
+A wurm reported is a stretch of road closed. The riders who hold the stage send the strings round by the stone or by another line of wells, which adds days and water, and the price of passage goes up for the season. A string that must cross wurm country does it in the cold hours, slowly, at a walk, with the camels' feet muffled in sacking and nobody running whatever happens, because a wurm hunts by the tremor and a running man is the loudest thing on the sand. A string that feels the trembling stops dead and waits. In Ruweq the party that goes into the lower caverns walks, and the guides say the one who runs is the one who is eaten. Nobody has killed a wurm on the open sand that anyone at the wells can name. A dead one, found after a fight with another wurm, is stripped for its scales by the tribe that owns the ground; one scale makes a shield, and the teeth are sold at [[place-qisomrktcmp|Qìso]] as daggers.
+
+## Signs
+
+- A deep trembling felt through the feet, with no sound, that stops when the string stops.
+- A long, shallow trough across the face of a dune, as if a log had been dragged under it.
+- Camels that refuse to move and moan, facing the same way.
+- A stretch of dunes that has changed its shape since the last caravan, with a crater at its foot.
+- A smell of sulfur on still air in the deep sand, where nothing burns.
 
 ## Combat Strategy
 
-The sand wurm attacks from beneath, erupting through sand or stone to engulf prey in its maw. The creature attempts to swallow smaller prey whole and to crush or compress larger prey through body coiling and constriction. If the initial ambush fails, the wurm may surface again to attack from a new location or retreat beneath the sand to avoid prolonged combat. The creature is nearly invulnerable underground and fights with overwhelming confidence in its domain.
+The wurm attacks from below without warning and takes what it rises under. If the first strike misses, it goes down again at once and comes up under another target, or under the same one from another side; it does not stay on the surface longer than it must. On the surface, with prey too large to swallow, it throws coils round it and crushes. It ignores the weapons of anything small enough to eat. A party that stands still and silent gives it nothing to strike at; a party that scatters and runs gives it a target for every man. Wounded, it sinks and does not come back that day. In a cavern, where it cannot sink, it fights with everything it has, and a passage with a wurm in it is a passage to leave.
 
 ## Attack Methods
 
 ### Erupting Bite
 
-The sand wurm bursts upward from beneath, attempting to engulf prey in its massive circular maw. If successful, the creature can swallow creatures up to horse-sized whole, drawing them down into its gullet. Even if the target is too large to swallow, the bite causes horrific injury from the concentric rows of teeth.
+The wurm bursts up from beneath with its mouth open and closes it on whatever was standing there. Anything the size of a pony or smaller is swallowed whole and drawn down. A larger animal is torn by the rings of teeth as the wurm pulls it under.
 
 ### Constricting Body
 
-Once emerged, the wurm can use its serpentine body to coil around large prey, crushing through constriction. The creature's weight and muscular power are sufficient to crush armored opponents and reduce them to paste.
-
-### Ground Collapse
-
-As the wurm moves underground, it can deliberately cause ground collapse and destabilization, potentially burying or trapping surface-dwelling prey.
+Above the sand the wurm throws loops of its body round a large animal, a wagon or a group of men and crushes. Its weight alone breaks a camel's back.
 
 ## Special Abilities
 
 ### Tremor Sense
 
-The sand wurm can detect vibrations in earth and sand from extraordinary distances, allowing it to locate prey with accuracy impossible for surface-dwelling creatures. The wurm can sense movement, impact, and vibration patterns from hundreds of feet away.
+The wurm feels footfalls through sand and rock at several hundred feet, and knows from their rhythm the size and pace of what makes them. A still, silent man is nearly invisible to it.
 
 ### Burrow Master
 
-The sand wurm can tunnel through sand, loose earth, and even stone at great speed, creating or enlarging passages as needed. The creature can disappear beneath the surface in moments, making it nearly impossible to pursue.
+It moves through loose sand at the pace of a trotting horse and through soft rock more slowly, and it is gone below the surface in a few heartbeats.
 
-### Underground Dominance
+### Ground Collapse
 
-When fighting beneath sand or earth, the wurm holds every advantage. It is faster, more maneuverable, and can attack from any angle while opponents are constrained to surface movement.
+A wurm passing beneath a dune or a cavern floor leaves the ground hollow behind it. A slope collapses into its wake and buries what stands on it, and a cavern floor it has passed under gives way.
 
 ### Massive Strength
 
-A creature of such size possesses strength far beyond any land-based predator. The wurm can crush boulders, overturn buildings, and generate impacts equivalent to earthquakes through movement.
+It overturns a loaded wagon, breaks a boulder in its coils and shakes the ground for a mile when it fights.
 
-### Regenerative Capacity
+### Regeneration
 
-The wurm's body heals quickly, recovering from wounds that would cripple other creatures. Even severe injuries close within days or weeks.
-
-### Swallowing Capacity
-
-The wurm's throat is capable of swallowing creatures whole without damage to the creature itself, allowing it to consume prey at a pace that other predators cannot match.
-
-### Additional Information
-
-Sand Wurms are territorial and will avoid areas where multiple wurms have claimed territory, as intrusion results in lethal combat. The creatures' presence in a region effectively prevents normal settlement or travel—trade routes must be rerouted to avoid known wurm territories. A sand wurm that has successfully hunted a humanoid settlement will return to that location, making the settlement temporarily uninhabitable. The creatures' scales can be harvested after death and used to create extraordinary armor or defensive architecture, making a dead wurm an enormous resource. Some rare humanoid cultures have learned to coexist with sand wurms by carefully keeping clear of their territories.
+Its wounds close in days. A wurm that was driven off hurt is whole again by the next season.
 
 ## Attributes
 

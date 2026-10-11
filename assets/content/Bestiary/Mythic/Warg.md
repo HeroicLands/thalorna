@@ -246,67 +246,77 @@ sohl:
 
 # Appearance {#appearance}
 
-The darkness seems to breathe. What emerges from the night is not wolf and not ordinary beast, but something touched by old, foul magic. It stands nearly four feet at the shoulder, but where a dire wolf is lean and quick, this creature is vast and heavy—muscles like iron beneath fur black as starless night, each bristle of its mane catching reflected firelight like dark metal. The eyes arrest you first: they burn with an intelligence that is alien and malevolent—the calculating judgment of something that reasons, understands, and has decided your worth is measured in blood. When it breathes, you see that its breath steams even in mild air, and the sound it makes is a rumble like distant thunder. Around it, you sense movement in the darkness—other shapes, other eyes—and you understand with chilling clarity that this beast does not hunt alone, but commands. The thing fixes you in its gaze and you feel the weight of its attention like a physical force. It speaks—and though the sound that emerges is a subsonic howl, the meaning is clear: _We are here. We will feed._
+The wolves have been crying in the forest since dusk, and now the crying has stopped. The dogs are under the sledge. Out past the firelight, where the spruce closes over the trail, a shape stands that is too big for a wolf, nearly four feet at the shoulder and black as the gap between trees, with a mane that bristles though there is no wind. Its breath smokes. Its eyes catch the fire, and they do not move the way an animal's eyes move: they go from face to face round the fire, and stop on the one with the bow.
 
 # Dossier {#dossier}
 
-The Warg is a supernatural predator of the highest order: a giant wolf touched and transformed by fell magic into something well beyond an animal. Standing three and a half to four feet at the shoulder and weighing four hundred to five hundred pounds, the warg combines the hunting skill of wolves with an unnatural intelligence that borders on the sapient. Unlike dire wolves—which are merely large and somewhat smarter versions of their natural cousins—the warg is categorically different: a creature twisted by dark powers into a tool of conquest and death. Wargs have a malevolent cunning, an understanding of tactics beyond anything natural wolves achieve, and a capacity for cruelty that goes beyond hunger. They are sometimes ridden by Grukar (goblin-folk), serving as both mounts and leaders of goblin war bands. These partnerships are nothing like domestication; the warg and its Grukar rider are allies in shared cruelty. Wargs maintain pack structures similar to ordinary wolves, but with hierarchies far more rigid and potentially brutal. A warg pack is not a cooperative family unit but a military organization with strict command and absolute obedience. Adventurers encounter wargs primarily as vanguards of goblin war bands or as independent predators in wilderness regions touched by ancient curses and dark magic.
+The warg is a wolf grown to four hundred pounds and three and a half or four feet at the shoulder, black or iron-gray, and warped by something that no one has named into an animal that plans. It runs in packs of five to fifteen through the dense forest and marsh-woods of [[place-grkrhlmrgn|Grukarhölm]] and the eastern reaches of [[place-vrystwald|Vrystwald]] where the Grukar nests thicken, and it hunts elk, boar, Grukar and men, and takes men by preference when it can. It is cleverer than any wolf: it remembers faces, lays an ambush a day ahead, and kills the archer first. The Varokh of the frontier villages do not go into Skathwald after dark in a winter when the wargs are running, and they do not say why in front of the children.
+
+What made it is not known. The description the frontier gives, a wolf touched by fell magic, is as far as anyone has gone, and the Varokh shamans leave the question alone.
 
 ## Presentation
 
-The warg is fundamentally canid—four-legged, digitigrade, with the body plan of a predatory hunter—but warped into something no natural wolf resembles. The body is massive and heavily muscled, with longer legs than a normal wolf and a deeper chest that speaks of terrible power. The fur is invariably dark: black, dark gray, or burned brown, and it lies sleek and oily against the massive frame, shot through with an unsettling iridescence in certain light, as though the creature itself sheds darkness. The mane is voluminous and bristles constantly, regardless of wind or emotion, as though perpetually raised by unseen forces. The head is large and wedge-shaped, with a longer snout than a dire wolf but a more massive jaw structure. The teeth are enormous, yellow and cruel, visibly capable of crushing bone. The eyes are the most terrible feature: they burn with an unnatural intelligence, filled with hunger and malice and something approaching comprehension. The tail is thick and powerful, useful for balance and expression. The claws are non-retractable and wickedly sharp, suited equally to gripping prey and climbing. The whole presence is wrong—a creature that violates the natural order and inspires a dread beyond practical fear.
+A huge, heavy wolf with longer legs and a deeper chest than any dire wolf, in fur that is black, iron-gray or burned brown and lies sleek and oily, with a sheen in firelight like dark metal. The mane along the neck and shoulders bristles whatever the weather. The head is long and wedge-shaped, the jaws deep, the teeth yellow and very large. The eyes are pale and steady and look at a person as a person looks back. The claws are long and do not retract, and the tail is thick and expressive. It smells of wolf and of something underneath that the dogs will not go near.
+
+## In the Land
+
+Wargs hold the deep mixed forest and the frozen marshes of Grukarhölm, where the country is roadless and the Grukar tribes are thickest, and they range west into the [[place-skathwald|Skathwald]] reach of Vrystwald and south toward the Velanthian frontier in hard winters. A pack holds a range of many square miles and raids the ranges of other packs on purpose. They den in windfalls, old Grukar diggings and the banks of the slow rivers, and they are commonest where the Grukar war-trails run, since a Grukar war-band leaves dead behind it. The Grukar neither hunt the wargs nor are much hunted by them; the two give each other room in a way the Varokh find worse than war.
 
 ## Key Behaviors
 
-Wargs organize into packs of five to fifteen individuals, with rigid hierarchies centered on the strongest or most magically potent individuals. Unlike natural wolves, wargs do not hunt cooperatively for survival but perform coordinated military operations with clear tactical objectives. A warg pack under a dominant alpha operates with precision and subordination that natural wolves never achieve. They maintain territories but are far more aggressive in defending or expanding them than natural wolves, conducting deliberate raid operations against rival packs and other predators. They are diurnal or nocturnal as circumstances dictate, fully capable of hunting effectively in either condition. They are omnivorous but strongly carnivorous, and they show particular predatory preference for humanoid prey—elves, humans, dwarves—treating such hunting as a form of sport rather than mere survival. Wargs bonded to Grukar riders develop a partnership unlike that of any animal and rider; the warg appears to understand tactics, strategy, and the wider purpose of a campaign. Wargs are capable of vocalizing beyond simple howls and growls, producing subsonic rumbles that carry complex meaning to other wargs across vast distances. They live significantly longer than natural wolves, with individuals potentially reaching forty years or more.
+A warg pack is a company under a captain. The strongest leads, the rest hold their places, and the places are kept by fights that end in death. They hunt by day or by night as suits them, in formation, and they hunt men as a thing done for its own sake and not only for meat. A pack scouts a village for days before it comes in, learns the hour the gate is shut and the house the dogs sleep in, and takes the watchman. They talk across miles in a howl pitched too low to hear and felt in the chest, and a pack that has been scattered gathers again by it. A warg lives forty years and more and remembers every man who has hurt it, by scent and by face.
+
+## What the Villages Do
+
+A Varokh frontier village that has wargs in its woods brings the stock inside the palisade at dusk, sets two men on the gate instead of one, and sends nobody on the forest paths alone in winter. The dogs are kept in, because a pack lures the dogs out first. The village hunts a pack with the whole hunting band, on skis in deep snow where the wargs sink and the men do not, with spears and with the archers in the middle of the line and not on its edge; a pack that has been hunted once hunts the hunters. A warg pelt is a chief's cloak and a thing a man is remembered for. A village that cannot drive a pack off loses its stock, then its outlying houses, then its road, and some of the empty clearings along the Skathwald edge were villages.
+
+## Signs
+
+- Wolf-sign too large for a wolf: prints as wide as a man's two hands, in a line, in step.
+- A trail that circles a village at a bowshot's distance, trodden by several animals, night after night.
+- Dogs that go under the sledge and will not come out, and wolves that fall silent all at once.
+- A watchman gone from the gate with no sound, and the stock untouched.
+- A low note felt in the chest at night, from the forest, answered from far off.
 
 ## Combat Strategy
 
-A warg pack's combat doctrine is organized and ruthless: flanking maneuvers that isolate targets, coordinated ambushes from multiple vectors, and relentless pressing of attacks until prey collapses. Individual wargs demonstrate clear understanding of formation fighting, maintaining coordinated positions and supporting flanking maneuvers without apparent communication. A warg will shift tactics based on observed enemy behavior, focusing on archers first, then isolating individual targets for elimination. Against heavily armored opponents, wargs coordinate attacks on weak points—joints, exposed legs, faces—rather than attempting to overwhelm through raw force. A warg pack defending territory or protecting young exhibits suicidal determination, attacking far stronger opponents without hesitation. A single warg separated from its pack becomes cautious but not cowardly; it will pursue prey relentlessly even alone, understanding that it outclasses most individual opponents.
+The pack flanks, isolates and finishes. It comes from two or three sides at once, cuts one man out of a party, and brings him down before the rest have turned; the first warg takes the archer and the next two take whoever goes to help him. Against men in mail they go for the legs, the hands and the face. They drive a running party toward a drop, a frozen river or a place they have chosen beforehand, and they press until the party breaks. A warg alone is careful and does not give up; it follows a man for days. A pack with young in the den fights anything to the death. They are beaten by a shield-wall that does not break, by a line of fire, and by deep snow under men on skis.
 
 ## Attack Methods
 
-### Crushing Bite
+### Bite
 
-The warg's bite force exceeds that of natural wolves and dire wolves combined. A single bite can crush bones, sever limbs, and penetrate armor of moderate strength. The warg's technique involves clamping and holding, pinning prey while pack-mates attack.
+The jaws crush bone, take a hand off at the wrist and go through mail at the joints. The warg bites, holds and pulls the man down for the pack.
 
-### Coordinated Pack Strike
+### Claw
 
-Multiple wargs attack simultaneously from different vectors, each strike designed to support the others' attempts to isolate and overwhelm targets. This coordination suggests real communication and planning.
-
-### Raking Claw Attack
-
-At close range, the warg tears with claws as readily as teeth, particularly effective against targets that are trying to flee or defend against the bite.
-
-### Driving and Trapping
-
-The warg pack uses terrain and coordinated movement to drive prey toward specific locations—cliff edges, dead-ends, prepared ambush sites—forcing targets into positions of maximum vulnerability.
+At close quarters it rakes with the forepaws, long and deep, at a man who is running or holding a shield up against the teeth.
 
 ## Special Abilities
 
 ### Supernatural Intelligence
 
-The warg reasons as a sapient being does: it understands tactics, hierarchy, cause and effect across time, and even the broader contexts of military campaigns. While not capable of language or abstract philosophy, the warg can plan multi-stage operations, remember specific individuals, and make decisions based on calculated risk versus reward.
+The warg reasons: it plans a hunt days ahead, remembers a man and a place, weighs a risk and takes it or not, and understands the shape of a fight the way a captain does. It has no speech and needs none.
 
 ### Pack Dominion
 
-A warg pack under a dominant alpha operates with supernatural synchronization. Individual wargs maintain formation without apparent communication, anticipate the actions of pack-mates with perfect accuracy, and adjust tactics mid-combat based on emerging circumstances. This coordination suggests shared consciousness or magical link between pack members.
+A pack under its leader moves as one body without a sound, each warg where the plan wants it, and changes the plan in the middle of a fight as if one mind held them all.
 
-### Darkvision
+### Sight in the Dark
 
-The warg hunts as effectively in absolute darkness as in daylight, seeing in the infrared spectrum and through magical darkness with equal competence. This gives warg packs enormous advantage in nocturnal or subterranean environments.
+The warg hunts in full dark as well as at noon, by eye, nose and the warmth of a body, and darkness laid by magic does not blind it.
 
 ### Aura of Dread
 
-The presence of a warg induces supernatural fear in prey creatures—a primal dread that reason cannot dispel. Creatures in the presence of a warg pack are pressed by fear toward panic, flight, or paralysis.
+Its presence puts a fear into animals and people that reason does not lift. Horses bolt, dogs cower, and men who have stood against a boar find their hands shaking.
 
 ### Terrible Howl
 
-The warg can vocalize in a subsonic howl that carries across distances of miles, conveying complex meaning to other wargs and disrupting the morale of hearing creatures. This howl can coordinate pack actions across great distances and shake the courage of lesser beings.
+A howl pitched below hearing carries for miles, gathers and directs the pack across country, and leaves the men who feel it in their chests less willing to stand.
 
 ### Supernatural Endurance
 
-Wargs are less subject to fatigue than natural wolves and can maintain pursuit for days at a time without rest, seemingly driven by will and magic rather than mere physiology.
+A warg runs for days without rest and follows a trail across a province. What drives it is not in its legs.
 
 ## Attributes
 

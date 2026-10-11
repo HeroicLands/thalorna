@@ -223,7 +223,7 @@ A tribe that finds a new Qelodud in a well it uses does not fight it. It fills t
 - A bucket stained with a pale slime that dries to a crust, or with small gray plates shed like scales.
 - Birds that will not drink at a well, though they drink at the trough beside it.
 - A dog that sits down and refuses the lip of a shaft.
-- A faint, regular ticking from deep in the shaft, like a fingernail on stone, that stops when you call down.
+- A faint, regular ticking from deep in the shaft, like a fingernail on stone, that stops when someone calls down.
 - A track across dry sand like a bundle of knitting needles drawn in a line, running from one shaft to the next.
 
 ## Combat Strategy

@@ -166,47 +166,59 @@ sohl:
 
 ![[gntspdr|Giant Spider]]{float=top-left}
 
-The smell reaches you first: acrid, wrong, the scent of digestive secretions and decaying flesh. You see the web before you see the creator—strands as thick as rope extending across the cavern or dense forest, catching light with an oily sheen. Then movement: something massive moving along a strand with absolute confidence, and your eyes struggle to take in its size. The body is a bloated orb four feet across, glossy black or dark brown in color, covered in fine bristles that quiver constantly. The legs are impossibly long and articulate, jointed in ways that make your brain hurt to watch. There are eight eyes—arranged across the front of the head, each one catching light and reflecting it back with terrible intelligence. The mouth opens, revealing fangs that glisten with clear venom. The sound it makes—a skittering, clicking, rustling—is the sound of your own death approaching.
+The cords across the trail are as thick as your little finger and gray with dust, and the first man through has walked into three of them before he understands that they are not creeper. He pulls, and they stretch and do not break, and far up in the dark of the trees something answers the pull. It comes down a cord head first, a body four feet across and black and glossy, legs opening around it to the span of a boat, eight eyes catching the torch, and the smell that comes down ahead of it is sour rot.
 
 # Dossier {#dossier}
 
-The Giant Spider is a predator that has raised web-hunting to a terrible art. With a body four feet in diameter and leg spans exceeding twenty feet, a single giant spider dominates a territory through webs and venom. These creatures establish vast web systems within caves, canyons, or dense forests, creating three-dimensional mazes of sticky silk that can trap creatures as large as deer or humanoids. Adventurers most commonly encounter them when entering caves, traversing deep forests, or when a web system forces them to find alternate routes.
+The Giant Spider is a web-building spider with a body four feet across and legs that span twenty, which strings a maze of silk through the forests and marsh-woods of [[place-grkrhlmrgn|Grukarhölm]] and the eastern reaches of [[place-vrystwald|Vrystwald]] toward it, and waits at the heart of the maze for something to touch a line. It takes deer, boar, Grukar and men, binds them, and drains them, and it is the one thing in those woods the [[lore-grukarfolk|Grukar]] themselves walk round. A web-ground is a stretch of forest with cords across every path and husks hanging in the branches, and the Varokh of the frontier villages mark the edges of them with blazes and do not cross.
 
 ## Presentation
 
-The Giant Spider is a creature of nightmarish proportions but distinctive arachnid form. The body (cephalothorax and abdomen) is heavily muscled and bulbous, covered in glossy chitin in colors ranging from jet black to dark brown or rust. Fine hairs cover the exoskeleton, serving sensory functions and creating a rippling effect with movement. Eight long, segmented legs extend from the body, each jointed and tipped with sharp claws designed for climbing and web-walking. The legs have a skeletal, articulate quality that emphasizes the creature's alien nature. The head bears eight large eyes arranged to provide nearly 360-degree vision, with the two largest set forward for binocular focus. The mouth opens to reveal sharp fangs dripping with clear, oily venom. The spinnerets at the rear of the abdomen produce silk of extraordinary strength and stickiness.
+A huge spider with a bulbous, heavily muscled body in glossy black, dark brown or rust, covered in fine hairs that stir constantly. The eight long legs are jointed and clawed at the tips for walking web and bark. Eight eyes sit across the front of the head, the two largest forward, and reflect a torch from a long way off. The fangs are long and clear venom beads on them. The spinnerets at the rear of the abdomen pay out silk as strong as rope and sticky as pitch. It smells of rot and of the sour fluid it digests its prey with.
+
+## In the Land
+
+Giant Spiders live in the dense mixed forest and the drowned woods of the Grukarhölm marshes, where the trees stand close enough to carry a web from trunk to trunk for a hundred yards, and in the Skathwald reach of Vrystwald where the Grukar nests thicken. Each spider holds a web-ground of a few acres with its own body at the center, and the webs of neighbors meet at the edges. They are thickest along the game trails and the river landings, where the deer come down and the Grukar war-canoes put in, and absent from the open taiga and the cleared ground round a village.
 
 ## Key Behaviors
 
-Giant Spiders are solitary creatures that establish vast territories defined by their web systems. A spider spends much of its time at rest at the center of its web, feeling for vibrations that indicate prey. The creature is patient—it can wait motionless for days if necessary, entering a state of minimal metabolic activity. When prey touches the web, the spider responds with shocking speed, rushing to wrap and inject venom. The spider consumes only the liquid contents of prey, leaving exoskeletons or bone behind as litter. A spider's territory is recognizable by the accumulated remains of meals.
+The spider sits at the hub of its web, legs on the main lines, and feels. It can wait a week without moving. When a line shakes it goes to the place at a run, bites the thing that is caught, binds it in silk while the venom works, and carries it up to a branch to drain over several days. It eats only the liquid and lets the husk fall or hang. It rebuilds what is broken every night and spreads the web further each season, and a web-ground that is not burned grows. The Grukar, who clear everything else from their woods, leave the web-grounds standing; a Grukar war-party uses one as a wall.
+
+## What the Villages Do
+
+The Varokh villages of the eastern frontier blaze the trees at the edge of a web-ground and cut their paths round it, and a hunter who finds a fresh cord across a trail turns back. A web-ground that has spread toward a village is burned in a dry week, from upwind, by the whole village with torches and buckets, and the spider runs before the fire and is killed in the open or escapes into the next ground. Silk cut from a web, with the spider dead or driven off, is the strongest cordage in the forest and the frontier markets pay for it; the venom is bought by the Velanthian apothecaries beyond the frontier. The Grukar do none of this. They walk round.
+
+## Signs
+
+- Gray cords across a game trail at chest height, thick as a finger, that stretch and do not break.
+- Husks of deer and boar hanging high in the trees, dry and light and swinging in the wind.
+- A sour smell of rot in a stretch of forest with no carcass on the ground.
+- Blazes cut on the trunks round a stretch of woods, and the path bending away from them.
+- Eight points of light reflecting a torch from high in the branches.
 
 ## Combat Strategy
 
-A Giant Spider prefers to fight in its own web—the spider can move through the sticky strands at full speed while prey becomes progressively more entangled. If forced to fight outside its web, the spider becomes more cautious but retains tactical advantage through speed and agility. The spider uses webs as both offense and defense, creating new barriers during combat or fleeing through pre-positioned escape routes within the web maze. A spider defending its lair becomes absolutely desperate and commits fully to combat, apparently willing to sustain any injury to eliminate threats.
+The spider fights in its web, where it runs at full speed along lines that hold a man fast and bind him tighter with every movement. It bites a tangled victim and leaves him to the venom while it deals with the next, throwing fresh silk over anyone who comes to cut him free. Driven out of the web it is cautious and fast and tries to get back to it. It is afraid of fire and nothing else: a torch held to the lines brings the web down in a sheet and sends the spider up the trees, and a party in a web-ground without fire is in a trap that was built for them. A spider defending its egg-sac at the hub fights to the end.
 
 ## Attack Methods
 
 ### Venomous Fangs
 
-The spider strikes with precise bites, injecting fast-acting venom designed to paralyze prey. The venom is potent enough to incapacitate humanoids, though it acts more slowly on humanoids than on smaller prey.
-
-### Venom Spit
-
-The spider can eject a spray of venom-tinged webbing from its spinnerets—a sticky, paralyzing substance that coats anything in its path and entangles movement. Repeated coats deepen the paralysis.
+The fangs drive in and the venom follows. It numbs and then paralyzes, slower on a man than on a deer, and a man who is bitten and bound and left will die of it by morning.
 
 ## Special Abilities
 
+### Venom Spit
+
+The spider throws a spray of sticky, venom-laced silk from its spinnerets across a man who is still on his feet, binding his arms and legs and beginning the numbness before the fangs arrive.
+
 ### Web Mastery
 
-The Giant Spider can create and manipulate vast webs of extraordinary strength—the silk is multiple times stronger than steel wire of equivalent thickness. The spider can move through its own web at full speed while intruders become progressively more entangled. The web is invisible in darkness and difficult to spot even in good light.
+The silk is stronger than rope of the same thickness and holds a boar. The spider runs through its own web at full speed while anything else that touches it is caught, and the lines are invisible in the dark and hard to see by day.
 
 ### Climbing Mastery
 
-The spider can move across any surface (horizontal, vertical, or even inverted) with absolute grip and confidence. It can climb at full speed and never risks falling.
-
-## Additional Information
-
-Giant Spider webs have value—the silk can be harvested and used for rope, armor reinforcement, or specialized kit. However, harvesting silk from an active web almost always alerts the spider. A spider's venom is valuable to alchemists and can be harvested (extremely dangerously) by collectors. Fire is the spider's primary weakness—flames destroy the web and cause the creature to flee. Spiders are said by some to be open to negotiation through magical means, though such claims should be treated with deep skepticism.
+The spider goes up a trunk, along a branch and across the underside of a limb at the same speed, and never falls.
 
 ## Attributes
 

@@ -252,59 +252,71 @@ sohl:
 
 ![[glmhnd|Gloomhound]]{float=top-left}
 
-From the darkness comes a sound like no sound at all—a silence so absolute it presses against your ears. A shape coalesces, canine in outline but composed of shadow and void. Its eyes burn with a pale amber light, fixed on you with an animal’s hunger and something more—a predator’s calculation. The cold intensifies as it moves, and for just a moment you see its silhouette printed on the ground in frost that shouldn’t exist.
+The lamp throws its light a dozen paces up the cut passage, and at the very edge of it something is standing. It is the shape of a long, lean hound, larger than any dog, and you can see the passage wall through it. Its eyes are two points of pale light that do not reflect the lamp. It does not come nearer. When you take a step forward it takes a step back, keeping exactly to the rim of the light, and the cold in the passage deepens until your breath smokes. On the stone floor where it stood, a print of frost fades as you watch.
 
 # Dossier {#dossier}
 
-Gloomhounds are spectral predators born from the shadow realm, drawn to this world by dark ritual or lingering in places where death runs deep. They are semi-corporeal creatures that hunt in coordinated packs, using their strange connection to darkness and stone to ambush prey. Though they are primarily nocturnal, they may hunt in deep shadow or underground where darkness is constant. A Gloomhound encountered alone is likely driven or trapped; more often they come in threes or fours, each keenly aware of the others’ position without visible communication. They are intelligent creatures—they learn, they plan, and they understand vulnerability.
+The Gloomhound is a spirit: a hunter shaped like a great lean hound, eight or nine feet from nose to tail, made of something between shadow and smoke, which crosses into the world in lightless places and in places where death runs deep. It hunts the living by following them at the edge of their light, patiently, and it does not attack until the light fails. In [[place-gurdi|Gurdi]], the labyrinth of cut passages that climbs into the [[place-graznmntns|Grazian]] north face, one holds the dark beyond the first mile, and the climbers who prove Tellumi peaks call it the pale hound. They come in packs of three or four in other places: the ruins and [[lore-bloodfield|blood-fields]] of the [[place-khzryndsrtrgn|Khazryn]], old catacombs and deep caves. It is clever. It learns, plans, and knows a weakened thing when it sees one.
 
 ## Presentation
 
-Each Gloomhound resembles a lean, wolf-like creature eight to nine feet from snout to tail tip, but composed of something between shadow and smoke. The body is only partially solid; light passes through it in strange ways, and edges blur and soften as though the creature were not quite fully here. Its eyes are the only clearly solid feature—bright amber or pale yellow, unblinking and aware. The fur, if it can be called that, ripples like water when the creature moves. In bright light, the Gloomhound becomes more distinct, more material; in shadow, it becomes nearly invisible. Its paws leave no prints on most surfaces, but on stone or metal, they leave faint impressions as though the creature briefly became denser at contact point.
+The outline is a hound's—long-legged, deep-chested, narrow-headed—but the substance is shadow, and the edges blur and soften as if it were not quite all here. Light passes through it oddly. In bright light it becomes denser, nearly solid and plainly visible; in shadow it is nearly invisible. The eyes are the one solid thing in it, pale yellow or pale amber, unblinking, and they give back no reflection. Its coat ripples like water as it moves. It leaves no prints on earth or sand, and on stone or metal it leaves a faint print of frost where its weight touched. The cold comes with it, and a deep silence: the sound of a party's own footsteps seems to go dead when a gloomhound is near.
+
+## In the Land
+
+Gloomhounds come into the world where the dark is constant or where many have died badly. In the Khazryn they are found in the deep passages of Gurdi, in the sealed halls of the dead cities, and on the blood-fields where the unreceived dead lie, beside the [[being-yiqnotud|Yiqnotud]] that the steppe tribes fear more. Elsewhere they haunt catacombs, deep caves and the old woods at night. A pack holds its ground as a wolf pack holds a range and drives off other hunters, living or not. Where one has been seen once it is likely to be seen again, and Gurdi's pale hound has held the dark of the upper passages for as long as the Tellumi have kept the record of climbers who went in.
 
 ## Key Behaviors
 
-Gloomhounds are pack hunters with a well-ordered pack structure. They are most active in darkness but are not bound to it; they seem equally at home in caves, catacombs, and deep woods. When hunting, they move with eerie coordination, sometimes splitting to herd prey into waiting jaws. They do not kill wastefully—they understand the concept of exhausting prey before making the final attack. A pack will follow an injured creature for hours or days, allowing it to weaken from blood loss and terror before striking. They show strong territorial behavior and will defend their hunting grounds viciously against both other predators and humans.
+A gloomhound hunts by wearing its prey down. It follows at the rim of the light, out of reach, for hours or days, and waits for the lamp oil to run low, the torch to gutter, the party to split or someone to fall behind. It follows a wounded creature until the wound has done its work. A pack splits to herd prey toward the others and coordinates without sound. It passes through cut stone, timber and worked metal as if they were not there, so a door or a dressed wall does not keep it out; natural rock slows it, and deep bedrock stops it. It is not wasteful and does not kill for the sake of it. Some who have met them say a lone gloomhound can be bargained with, and that one has let a village alone that kept to its side of a boundary.
+
+## What the Climbers Do
+
+The climbers who go into Gurdi carry twice the oil they expect to need and never let the last lamp burn down. They walk in pairs with a lamp between them, keep the party together, and turn back at the second junction if a lamp has gone out. They stand with their backs to the natural rock of the mountain, not to a cut wall, because the hound comes through the dressed walls and not through the living rock. Beyond Gurdi, people who must cross a gloomhound's ground do it in daylight, with fire, with a priest if one will come; the hounds avoid sanctified ground and holy light hurts them. Weapons of natural stone, a flint or an unworked river-stone, are said to bite on them as steel does not.
+
+## Signs
+
+- A shape at the edge of the lamplight that keeps exactly to the rim of it, whichever way the lamp moves.
+- Prints of frost on a stone floor, fading as they are watched.
+- A cold that deepens in a passage with no draft, and footsteps that seem to fall dead.
+- A pair of pale points in the dark that give back no reflection.
+- A body found in a passage with no wound but a few cold marks, and its face gray.
 
 ## Combat Strategy
 
-Gloomhounds use their semi-corporeal nature to devastating advantage. They dart through solid matter to flank opponents, move through walls to split a party, and withdraw through stone when a fight turns against them. Against light or holy magic, they become more cautious, relying on darkness and concealment rather than direct assault. In a pack, they coordinate their strikes—one attacks from the front while others position for flanking moves. They are smart enough to recognize weakness and will focus on isolated or injured opponents while avoiding those who wield light or holy power. When faced with multiple opponents wielding stone or holy weapons, they attempt to fragment the group and engage them separately.
+The gloomhound waits for the dark. When the light fails it strikes, from wherever the party is weakest, and a pack strikes from several sides at once, one hound in front to hold the eyes and the others coming through the walls behind. It goes for the isolated and the injured and keeps away from anyone carrying fire or holy power. Against a party that holds its light and its order, it pulls back and waits again; a fight turning against it ends with the hound withdrawing through stone. A party split up in the dark is the hound's meal.
 
 ## Attack Methods
 
 ### Ethereal Bite
 
-The Gloomhound’s jaws close around a victim and the bite feels wrong—not normal tissue tearing, but a cold draining sensation as if something vital flows away. The wound is minor physically but the victim feels weakened at a fundamental level.
+The jaws close and the bite feels wrong: little tearing, a deep cold, and a draining weakness as if something vital were running out through the wound. The wound is small and the man is weaker for days.
 
 ### Shadow Strike
 
-A raking attack with shadow-wreathed claws that passes partially through armor and cloth. Where it strikes, the victim’s strength seems to diminish and their resolve wavers.
-
-### Coordinated Ambush
-
-The pack uses its telepathic bond to strike from multiple angles simultaneously. One attacks from the front while others emerge from stone or shadow to strike from flanking positions, overwhelming a single opponent.
+A rake of shadowy claws that passes partly through armor and cloth. Where it strikes, strength ebbs and resolve wavers.
 
 ## Special Abilities
 
-### Phase Through Solid Matter
+### Coordinated Ambush
 
-The Gloomhound can move through stone, wood, and worked metal as easily as walking through air. It can emerge from a wall mid-combat or retreat through solid ground. However, large quantities of stone—bedrock, living rock, naturally formed stone—slow or block its passage. Worked stone is no barrier, but unworked stone channels its movement.
+A pack moves without signal or sound, each hound knowing where the others are, and strikes from several sides at once, including through the walls. A hound cut off from its pack loses this and is far less dangerous.
 
-### Telepathic Coordination
+### Phase Through Worked Matter
 
-Pack members maintain a constant, silent communication that allows them to coordinate attacks without signal or sound. An individual Gloomhound separated from its pack loses this ability and becomes noticeably less effective.
+It walks through cut stone, timber and worked metal as through air and can come out of a wall in the middle of a fight. Natural rock slows it and bedrock stops it.
 
 ### Shadow Form
 
-In darkness or shadow, the Gloomhound is nearly invisible. In bright light, it becomes solid and distinct. The creature seems to partially exist in shadow rather than fully in the material world.
+In darkness it is nearly invisible and hard to strike; in bright light it becomes solid, plain to see and as easy to hit as a hound.
 
 ### Life Drain
 
-Attacks by the Gloomhound drain vitality as well as wound. Victims feel a cold lethargy settle into their bones, their strength ebbing. The harm goes beyond the wound: it saps the life force itself.
+Its bites and strikes drain vitality as well as wounding, and a man struck several times feels a cold lethargy settle into his bones.
 
-## Additional Information
+### Weaknesses
 
-Gloomhounds are badly weakened by holy power and bright light. Holy magic burns them nearly as painfully as fire burns flesh. Stone weapons—especially naturally formed stone—disrupt their ability to phase through matter, leaving them more vulnerable. They can be deterred or driven off by sacred sites or places sanctified by priests of good-natured faiths. Creating areas of bright illumination can force them to retreat or become fully corporeal and vulnerable. Despite their predatory nature, Gloomhounds are not evil—they are simply hungry creatures following their nature. A few rangers have reported that a Gloomhound can be reasoned with, especially if its pack bonds are respected. A solitary Gloomhound may accept territory boundaries and leave isolated settlements alone if properly negotiated with. This is rare, but not unheard of.
+Holy power burns it, bright light makes it solid, sanctified ground keeps it off, and weapons of natural stone wound it more than steel.
 
 ## Attributes
 

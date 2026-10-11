@@ -237,47 +237,59 @@ sohl:
 
 ![[gntwsp|Giant Wasp]]{float=top-left}
 
-The buzzing starts as a distant drone that grows steadily louder, filling the air with a sound that makes your teeth ache. Then it appears: a creature the size of a large dog, striped in vivid black and yellow in a pattern that screams warning. The wings beat in a blur of motion that seems physically impossible, generating a hum that vibrates in your chest. The body is sleek and predatory, segmented and armored, and the stinger—wickedly barbed, dripping with clear venom—extends downward like a curved sword. The mandibles click and snap, and the creature's rapid, erratic flight patterns make it nearly impossible to track. You have the sudden, primal conviction that you are a direct threat to something that will not hesitate to respond with absolute violence.
+The guide has stopped under a tree the size of a tower and is looking up with his hand out behind him, palm back. The gray mass in the fork above you is as big as a hut, layered like a paper lantern, and the drone coming out of it is a note you feel in your back teeth. Something the size of a hunting dog drops out of a hole in its side, hangs in the air on a blur of wings, banded black and yellow, with a curved sting as long as a knife trailing under it, and turns its head to look at you.
 
 # Dossier {#dossier}
 
-The Giant Wasp is a vicious aerial predator that combines speed, agility, and a devastating sting. Unlike bees, wasps are purely carnivorous hunters and show no hesitation or mercy in pursuit of prey. These creatures are territorial and aggressive, establishing large colonies that can number in the dozens or hundreds. A disturbed wasp colony represents a threat that can devastate settlements or hunting parties. Adventurers most commonly encounter them when traveling through forested or mountainous areas where hives are established, or when they accidentally disturb a nest.
+The Giant Wasp is a dog-sized hunting wasp of the [[place-cntrlrnfrsts|Central Rainforests]], a killer of insects, birds, monkeys and anything else it can sting and cut up, which builds paper nests the size of a hut in the forks of the great trees and defends them in swarms of dozens or hundreds. A single wasp stings a man and leaves him on the ground. The nest, roused, comes out together and follows the party that roused it through the forest for half a mile, and the forest tribes burn a nest that has settled near a village because nothing else makes it leave.
 
 ## Presentation
 
-The Giant Wasp is a sleek, aggressive predator built entirely for aerial combat and rapid hunting. The body is composed of three distinct segments: head, thorax, and abdomen, all covered in chitinous armor in vivid black and yellow striping, a warning coloration. The head bears large, compound eyes providing excellent vision, and powerful mandibles designed for cutting and slicing. The thorax is muscular and supports two pairs of wings that beat rapidly enough to produce an audible hum. The abdomen is elongated and ends in a long, barbed stinger that curves downward, dripping with clear venom. The legs are relatively short but equipped with claws for gripping. The overall impression is of barely contained aggression and predatory competence.
+A long, sleek wasp with a narrow waist, armored in glossy chitin banded black and yellow. The head carries two large compound eyes and mandibles that cut like shears. The thorax carries four long wings that beat in a blur and make the drone. The abdomen tapers to a long, barbed, curved sting with a bead of venom at its point. The legs are short and clawed for gripping prey in flight. It flies in short darting rushes that are hard to follow with the eye.
+
+## In the Land
+
+Giant Wasps nest in the canopy of the equatorial forest, in the forks and hollows of the biggest trees, and hunt the clearings, river-banks and forest edges below, where the flying insects, the birds and the monkeys are. A nest is a gray paper mass as big as a hut, built up in layers over years, and a big one holds hundreds of wasps and a queen that never leaves it. The rainforest tribes know every nest within a day's walk of their clearings and route their paths round them; a nest that has settled over a path or near a village is a reason to burn it or to move.
 
 ## Key Behaviors
 
-Giant Wasps are solitary hunters and apex predators, but they often operate from a central hive where the queen resides. They are diurnal and most active during daylight hours when prey is abundant. A hunting wasp patrols its territory continuously, searching for flying insects, small birds, or other prey. Upon finding prey, the wasp attacks with shocking violence and speed. If prey is too large to carry back to the hive, the wasp still attacks viciously, apparently out of pure territorial aggression. A wasp near its hive is far more aggressive and will pursue intruders relentlessly, and if a hive is threatened, dozens of wasps emerge simultaneously to defend it.
+A hunting wasp patrols a stretch of forest by day, in the hot hours, and takes what it finds: dragonflies, beetles, birds off a branch, a monkey out of a troop, a snake. It stings the prey, cuts off what it can carry, and flies it home to the brood. It is bad-tempered away from the nest and savage near it, and anything that touches the tree brings the wasps out of the holes in a stream. They hunt alone and defend together, and a wasp that has stung marks the victim with a scent the rest follow. They are quiet at night and in rain.
+
+## What the Tribes Do
+
+The rainforest tribes burn a nest that threatens a village, at night in the wet season when the wasps are torpid, with green-wood smoke piled under the tree until the nest is choked and then a torch on a long pole; the men who do it go in wrapped in bark-cloth and wet leaves and come back stung anyway. A nest far from the village is left and used: the tribes take the brood-combs from a small nest for the grubs, which are eaten roasted, and the paper of an old nest for tinder. A sting is cut and sucked at once and the limb bound above it; a man stung twice is carried home and watched through the night, and a man stung three times is not. The stings of dead wasps are hafted as awls and darts.
+
+## Signs
+
+- A gray paper mass the size of a hut in the fork of a great tree, with holes in its side.
+- A drone under the forest's noise, steady, felt in the teeth.
+- Wasps crossing a clearing in a straight line toward one tree, every few breaths, carrying something.
+- Dead birds and monkeys under a tree with pieces cut from them cleanly.
+- A path that bends away from a stretch of forest for no reason the ground shows.
 
 ## Combat Strategy
 
-A Giant Wasp's preferred method is the high-speed diving strike—approaching from above or behind and striking with the full force of aerial momentum. The wasp delivers a sting that injects venom and causes pain while allowing the wasp to retreat before the target can fully react. If the target is incapacitated or captured, the wasp may land and use mandibles for cutting. A lone wasp retreats after a single failed strike, but multiple wasps attack repeatedly, working to separate targets and concentrate their attacks on individuals. A wasp defending its hive shows no instinct to retreat and will make suicidal attacks to protect the colony.
+A lone wasp stoops from above or behind, stings once and climbs away, and comes again if the man is still standing; a single failed pass sends it off. A nest comes out together and attacks several to a man, stinging from every side, cutting one person out of a group and following the marked one wherever he runs. They do not stop while the threat is near the nest and they follow a long way from it. Smoke confuses them, water stops them, and under a low roof or in a thicket they cannot fly and die one at a time to a cloak and a club. In the open air there is nothing to do but run for the river.
 
 ## Attack Methods
 
 ### Stinger Strike
 
-A rapid thrust with the barbed stinger, injecting venom designed to cause pain, disorientation, and a spreading paralysis. Multiple stings compound the venom's effect.
+The wasp drives the sting in and injects. One sting is pain, swelling and a confusion that spreads from the limb; two put a man down; three stop his breath. The barbed sting stays in the wound.
 
 ### Mandible Slash
 
-Once prey is immobilized or grappled, the wasp uses sharp mandibles to deliver quick, cutting strikes. These attacks can slice through soft tissue and light armor.
+A stung or held victim is cut with the mandibles in quick strokes that take pieces out of flesh and light leather.
 
 ## Special Abilities
 
 ### Aerial Superiority
 
-In open air, the Giant Wasp has absolute tactical advantage—it can dive at speeds that land-bound creatures cannot match, can climb vertically with ease, and can reverse direction with a precision that allows it to evade almost any ground-based attack. Enclosed or confined spaces reduce this advantage significantly.
+In open air the wasp climbs straight up, reverses in its own length and comes in from any side faster than a man can turn. Under cover it loses all of that.
 
 ### Rapid Dive Attack
 
-When the wasp has altitude and space to build speed, its dive becomes devastating—the initial stinger strike delivers maximum force and venom. A diving wasp is nearly impossible to dodge for creatures with limited mobility.
-
-## Additional Information
-
-A Giant Wasp's venom is valuable to alchemists and poisoners—harvesting it is extraordinarily dangerous. A wasp's stinger is sometimes worked into weaponry. Wasp hives can occasionally be negotiated with or manipulated, but such attempts are risky and unpredictable. Fire is effective against wasp colonies—burning a hive destroys it and causes the wasps to flee.
+A wasp with height and room comes down on a man at a speed he cannot sidestep, and the sting goes in with the whole weight of the stoop behind it.
 
 ## Attributes
 

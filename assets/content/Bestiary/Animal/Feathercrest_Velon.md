@@ -244,47 +244,61 @@ sohl:
 
 ![[fthrcrst|Feathercrest Velon]]{float=top-left}
 
-A sound cuts through the air—a layered chirping that makes your teeth ache and sets your nerves jangling. Something bright moves at the edge of vision, moving in stuttering, wrong-footed patterns that your eyes cannot quite track. As it turns toward you, a crown of feathers explodes outward from its head in a fan of colors so vivid they seem to burn—iridescent greens and violets that shimmer with an unnatural quality. The creature freezes, head tilted at an angle no neck should allow, watching you with eyes that hold far too much knowing. Then it shrieks again, and the sound echoes strangely—from everywhere and nowhere at once.
+A bird calls somewhere up the slope, a run of notes that jars like a bell struck wrong, and a second answers it from behind you. Something bright crosses between two boulders at the edge of the trees, upright on two legs, four feet tall, green and violet and gone. The call comes again, closer, and this time it seems to come from the rock itself. Then the thing steps out into the open and a fan of feathers opens round its head like a shield of colored glass, and it screams.
 
 # Dossier {#dossier}
 
-The Feathercrest Velon is a predatory creature roughly four feet tall, resembling a cross between a bird and something far stranger. It is covered in sleek, iridescent plumage that shifts from blue to green to violet depending on the angle of light. These creatures are dangerous pack hunters found in dense forests and rocky highlands, and they are known for territorial aggression and a hunting strategy that relies on coordinated ambush and on confusing its prey. Adventurers most often encounter velons when they penetrate the creature's territory or stumble upon a pack's hunting ground.
+The Feathercrest Velon is a four-foot, fifty-pound hunting bird of the highland forests of the [[place-pshtrwldrns|Peshtar Wilderness]] on Aelwyth, which runs on two legs, flies in short, fast bursts between crag and tree, and hunts in packs of six to a dozen. Its plumage shifts from blue to green to violet with the light, and the crest it fans when it attacks is the brightest thing in the forest. It takes hares, grouse and fawns for the most part, and a pack that is hungry takes a man.
+
+The Peshtar tribes hunt it for the crest and keep well clear of its ground otherwise. The lowland kingdoms know it from the headdresses and from the few hunters who come home without their dogs.
 
 ## Presentation
 
-A velon stands upright on powerful hind legs, with a lean, muscular build that speaks to explosive speed and agility. Its forelimbs are shorter but end in vicious talons as long as a human finger. The plumage is dense and fine, creating a sleek profile that emphasizes the bird-like silhouette. The most distinctive feature is the crest—a fan of elongated feathers that normally lie flat against the skull but can flare outward in a display that doubles the creature's apparent width. The eyes are large and forward-facing, colored in deep amber or crimson, with an unsettling quality of intelligence behind them. The beak is hard and wicked, and the entire creature exudes an air of predatory competence.
+A lean, upright bird on long, strong hind legs, built for a sprint and a leap, with short forelimbs that end in talons the length of a finger. The plumage is fine and close, and its colors change as the bird turns. The crest is a fan of long feathers that lies flat along the skull and snaps open to twice the width of the head. The eyes are large, forward-set, amber or deep red. The beak is hard and hooked. The wings are short and rounded, enough to carry the bird over a gully or up into a crag in a whirring rush of a hundred paces, and it climbs trees with its talons as readily as it flies.
+
+## In the Land
+
+Velons live in the broken country where the Peshtar forest meets rock: the gullies, scree slopes and crag-edged clearings of the island's northwestern highlands, and the forest margins where the [[place-nordfells|Nordfells]] run east from the Peshtar woods. A pack holds a hunting ground of a few square miles and marks its edges with the plucked feathers and fur of its kills, hung on thorns, and a traveler who finds a bush dressed that way has been told to turn back. They are rarer in the deep forest, where there is nothing to drop from, and absent from the settled kingdom-belt in the east.
 
 ## Key Behaviors
 
-Velons are social hunters that operate in small groups or larger packs, with clear hierarchical relationships within each group. They are diurnal and most active in the dappled light of forest edges and rocky terrain where their coloration provides camouflage. A hunting pack communicates through a series of high-pitched vocalizations that are often described as beautiful as they are menacing. Velons are territorial and will vigorously defend a hunting ground, often marking boundaries with the plucked feathers and fur of their kills—a warning that drives most sensible travelers away. They hunt smaller animals primarily, but a hungry pack will pursue humanoid prey with cold determination.
+A pack hunts by day, in the dappled light of the forest edge where its colors break up its outline. The birds talk constantly in high, ringing calls that rebound off rock, so that a listener cannot place them, and they hunt by surrounding: one or two show themselves and call, the rest come in from the sides and from above, dropping from the crags. They eat hares, grouse, lambs and fawns and the young of anything larger. A pack has an order, and the leading pair feed first. A lone velon is a cautious animal that will not attack a man; a hungry pack will, and once it has started it presses until the man is down or the pack has lost too many.
+
+## What the Tribes Do
+
+The Peshtar know a velon ground by its dressed thorns and go round it. A hunter who must cross one goes in the rain, when the birds sit silent in the crags, and he plugs his ears with wool against the calling. A pack that has taken lambs is killed by the whole hunting band at once, with nets strung across its gully and spears behind the nets. A velon crest, taken whole, is worked into the headdress a Peshtar war-leader wears, and one comes down to the kingdoms now and then at a price that would buy a horse. A chick taken from the nest can be raised to the hand and flown at hares, and it stays wild in temper all its life.
+
+## Signs
+
+- Fur, feathers and a hare's foot hung on a thornbush where no wind put them.
+- Bright calls from several places up a slope that cannot be placed, answering one another.
+- A flash of green or violet crossing a gully at the edge of sight.
+- Grouse feathers in a circle on the scree, the carcass gone.
+- Dogs that stop, bristle and will not go on up a gully.
 
 ## Combat Strategy
 
-A velon pack hunts with coordinated tactics—one or more creatures make spectacular, noisy attacks from the front while others circle to flank or attack from above if terrain permits. They are masters of the feint, charging and withdrawing to cause confusion and exhaustion. A solitary velon is far more cautious and will attack only if cornered or if prey is clearly manageable. In groups, velons press attacks relentlessly, aiming for weak points (eyes, throat, groin, legs) and attempting to separate a target from allies. They will abandon an attack only if suffering grievous casualties or if the primary target makes escape impossible—velons are pragmatic predators that have no interest in dying for a meal.
+The pack surrounds before it attacks. One or two birds show themselves in front, crests fanned, calling, while the rest come from behind and above; the display and the calling are meant to hold the eyes and the ears while the talons arrive from another direction. They feint, draw a blow and leap back, and come again, and they go for the eyes, the throat, the backs of the knees and the groin. They try to cut one person out of a group. They are not stubborn: a pack that has lost three or four birds leaves. A man with his back to a rock, a long spear and his ears stopped has a fair chance; a man in the open with a sword has none.
 
 ## Attack Methods
 
 ### Talon Slash
 
-The velon executes rapid, hooking strikes with the talons on its forelimbs, moving with explosive speed to rake multiple times in a short span. These attacks are aimed at disabling—severing tendons, opening blood vessels, or causing shock through sheer loss of blood. A velon in a feeding frenzy will slash without pause until prey stops moving.
+The bird leaps and rakes with both forelimbs, several hooking cuts in a moment, aimed at tendons and the great vessels of the legs and neck. A pack in a frenzy slashes until the prey stops moving.
 
 ### Beak Stab
 
-A precise, driving attack targeted at soft tissue—the beak is used to pierce eyes, puncture throats, or drive into any exposed skin. Unlike the talon strikes, the beak attacks are methodical and deliberate, delivered with the full bodyweight of the creature behind them.
+A deliberate, driving blow with the full weight of the bird behind the beak, at the eye, the throat or any bare skin.
 
 ## Special Abilities
 
 ### Hypnotic Chirps
 
-A velon's vocalizations are produced through a specialized throat structure and carry a strange harmonic quality that is deeply disorienting to humanoids and most other creatures. A creature hearing the chirps struggles to keep its wits—it may be unable to tell where the sound comes from, lose track of allies, or fail to notice obvious threats. Creatures that cannot hear are immune to this ability.
+The velon's call is made in a throat built for it and carries a ringing harmonic that confuses whoever hears it: the direction of the sound cannot be found, the calls of allies are lost in it, and a plain threat in front of a man goes unnoticed. A deaf creature, or one with its ears stopped, is unaffected.
 
 ### Dazzling Display
 
-When the velon flares its crest and combines this with rapid body movements and flashing color changes, it creates a visual disturbance that temporarily blinds or disorients observers. A creature caught in direct line of sight of this display must shield its eyes or be left half-blind and unable to judge distance for a short while.
-
-## Additional Information
-
-Velon packs are territorial and unlikely to abandon hunting grounds unless driven out by far superior force. Travelers in velon territory should expect continued predation and harassment until they leave. A dead velon's magnificent crest is prized for ceremonial headdresses or trophies, though removing it requires careful work. Some experienced hunters have successfully captured young velons and trained them as hunting companions, though they retain a wild nature and unpredictable temperament.
+The crest snaps open and the bird shakes its whole plumage, and the flashing of its colors in sunlight leaves anyone looking straight at it half-blind and unable to judge a distance for a short while.
 
 ## Attributes
 

@@ -53,51 +53,65 @@ sohl:
 
 ![[trrkthsn|Terrakith Sentinel]]{float=top-left}
 
-The ground seems to shudder as the figure rises, an 8-foot-tall form sculpted from gray-brown clay with roughly hewn features that suggest both crude construction and undeniable power. The clay surface is perpetually moist, glistening with an earthen sheen, and archaic runes are carved across every surface. When it moves, low grinding sounds emerge—the noise of shifting earth given form. The eyes are empty sockets yet somehow radiate unyielding determination and primal intelligence through their very emptiness. You understand you are facing something created through mystical craftsmanship and powerful enchantment, brought to unnatural life with relentless purpose.
+The two figures beside the inner door look like statues: eight feet of gray-brown clay, rough-modeled, broad in the shoulder, with blank sockets for eyes and lines of signs cut into their chests and arms. Then you notice that the clay is wet. It glistens in the lamplight as if it had been shaped this morning, in a hall where nothing has been wet for a thousand years. When the first of you steps past the threshold stone, both heads turn together with a sound like a millstone grinding, and the nearer one takes a step down off its plinth.
 
 # Dossier {#dossier}
 
-Terrakith Sentinels are constructs sculpted from dense, magically-infused clay and standing 8 feet tall, made to be guardians and enforcers. These relentless golems protect sacred temples, crypts, and chambers of powerful mages. Adventurers encounter them when approaching protected locations or disturbing guarded areas.
+The Terrakith Sentinel is a construct: an eight-foot figure of dense, always-damp clay, carved with binding signs, that a mage made to stand at a door and keep it. It is not alive and has no will; it does what it was set to do, for as long as the working holds, and many have held far longer than whoever set them. They are met as guardians of temples, tombs and the private chambers of mages, and in the [[place-khzryndsrtrgn|Khazryn]] they stand in the ruins of the dead cities, at doors that the sand has buried and uncovered again. The tribes call the ruins that hold them shut, and leave them so. Every sentinel stops where its orders stop: at a threshold, a stair or a ring of carved stones, and a party that stays outside that line is not touched.
+
+Who made the Khazryn's sentinels is not known. The scholars of [[place-caldar|Caldar]] point out that their clay is the gray lake-clay of [[place-ewod|Ewod]] and that the signs on them are close to the script over the doorways of [[place-osikor|Osikor]], and they credit the sentinels to the [[lore-basinbldrs|Basin Builders]]; the tribes say only that they were there before anyone.
 
 ## Presentation
 
-A humanoid figure of rough-hewn gray-brown clay, perpetually moist with earthen sheen. Runes are carved across the surface, and the overall form radiates power and purpose. The empty eye sockets somehow convey awareness and intelligence.
+A massive human shape of gray-brown clay, roughly modeled, thick in the limb and short in the neck, eight feet tall and a thousand pounds. The surface is always wet and glistening, whatever the air, and it gives under a fingertip as fresh clay does and then closes again. Lines of signs are cut into its chest, arms and brow; those are the binding, and while they are whole the sentinel moves. The eyes are empty hollows. It makes no sound but the grinding of its own movement, and it smells of river mud.
 
 ## Key Behaviors
 
-Terrakith Sentinels carry out their instructions absolutely, driven by relentless commitment to fulfill their master's commands.
+A sentinel stands without moving for as long as its post is undisturbed, for centuries if need be, and does not tire, eat, sleep or decay. When something crosses the line it keeps, it acts, and its orders decide what it does: some strike anything that passes, some only what touches a particular thing, some stand aside for a word or a sign that whoever set them knew and nobody remembers. It pursues as far as its orders run and not a step further, then goes back to its post. It cannot be talked to, bribed or frightened, and it does not learn.
+
+## What the Tribes Do
+
+The tribes leave a ruin with a sentinel in it alone and say so to anyone who asks the way. Tomb-robbers and scholars do not, and the ones who come back have learned three things: the sentinel's line can be found by watching where it turns back, water softens it and fire cracks it, and the signs cut into it are the life of it. A sentinel whose signs are scored through stops. The difficulty is getting close enough to score them. Caldar pays well for the clay of a stopped sentinel, which stays wet in a sealed jar for years.
+
+## Signs
+
+- Two figures of wet clay flanking a doorway in a ruin where everything else is bone-dry.
+- Deep, rounded footprints in a dusty floor that lead from a plinth to a threshold and back, and no further.
+- Bones lying in a line across a floor, all of them just inside a doorway.
+- A smell of river mud in a dead city in the middle of the sand.
+- Signs cut in a ring on the floor stones around a door.
 
 ## Combat Strategy
 
-The sentinel relies on brute force, delivering crushing blows and using shockwaves from ground impacts to destabilize opponents.
+The sentinel walks straight at the intruder and strikes. It does not dodge, feint or protect itself; it absorbs what is done to it and goes on hitting. It stamps to throw a group off its feet and then strikes whoever is down. It is slow until something runs, and then it moves faster than its bulk suggests over a short distance. It fights until the intruder is dead, has gone back across its line, or it is destroyed. Edged weapons and points sink in and do little. A party that wants it stopped pours water on it, burns it, batters it with heavy blows, or gets to the signs.
 
 ## Attack Methods
 
 ### Crushing Blow
 
-The sentinel delivers devastating impacts using immense strength.
+A heavy, clubbing swing of a clay arm that breaks shields, bones and men. It strikes as hard on the hundredth blow as on the first.
 
 ### Ground Stomp
 
-The sentinel stomps the ground, creating shockwaves that destabilize and damage nearby foes.
+The sentinel lifts a foot and brings it down, and the shock throws everyone near it off balance and knocks loose stone from the walls of a narrow chamber.
 
 ## Special Abilities
 
 ### Clay Durability
 
-Highly resistant to conventional weapons and slashing/stabbing attacks.
+Cuts and thrusts sink into the clay and close again. Heavy crushing blows break pieces off it. Water softens it and makes it slow; strong heat bakes and cracks it.
 
 ### Surprising Speed
 
-Despite sluggish appearance, the sentinel can exhibit bursts of speed when pursuing threats.
+Over a short distance, chasing something that runs, it moves as fast as a running man.
 
 ### Relentless Drive
 
-The golem cannot be swayed from its purpose and continues fighting despite damage.
+It feels no pain and no fear and does not stop for damage. It cannot be reasoned with, because there is nothing in it to reason with.
 
-### Additional Information
+### The Binding Signs
 
-Water-based attacks soften the clay structure, reducing effectiveness. Extreme heat can cause cracking. The golem cannot be negotiated with.
+The signs cut into it hold the working. Scoring them through with a blade stops it, and one that is damaged moves more slowly and strikes more weakly.
 
 ## Attributes
 

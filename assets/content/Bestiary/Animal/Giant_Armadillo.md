@@ -245,51 +245,63 @@ sohl:
 
 ![[gntarmdl|Giant Armadillo]]{float=top-left}
 
-The earth itself seems to rise before you, a hillside of mud and moss resolving into the armored mass of a creature easily twelve feet from snout to tail. It moves with the inexorable slowness of something that has never needed to hurry, each massive claw sinking deep into the soft earth beneath it. The shell that covers its back gleams dully in the light—layer upon layer of segmented armor the color of river stone and old bone. As it turns its head toward you, you see the little eyes, sharp and shrewd, studying you with the calculating gaze of something unimpressed by your size or presence. The smell hits next: rich loam and a musky, acidic reek of specialized digestion.
+What you took for a boulder in the long grass at the foot of the ruined wall is breathing. It is twelve feet from the tapered snout to the end of the tail, roofed in overlapping plates the gray of river stone and crusted with dried mud, and the claws on its forefeet are the length of your forearm. It has been digging; the hole beside it goes down into the dark under the old paving. It lifts its small head, regards you with two shrewd little eyes, snorts once, and goes on digging.
 
 # Dossier {#dossier}
 
-The Giant Armadillo is a massive, solitary mammal that can exceed twelve feet in length and weigh as much as a small pony. Encased in segmented bony plates, these creatures are living fortifications that lumber through their territories with minimal regard for other inhabitants. These are nocturnal burrowers that command vast underground warren systems and aggressively defend them from intrusion. Adventurers most commonly encounter them when exploring underground or accidentally camping in territory the creature considers its own.
+The Giant Armadillo is a twelve-foot, plated, burrowing animal of the [[place-sthrnsvnhs|Southern Savannahs]], thickest in the green southeastern highlands where the old stone enclosures stand, and found along the forest margin to the north. It eats termites, grubs and roots, digs warrens hundreds of feet long, and wants nothing from people except to be left in its burrow. Its burrows run under the ruins the savanna peoples will not enter and the treasure-hunters will, and a frightened armadillo rolls into a ball that a party with picks takes a day to open.
 
 ## Presentation
 
-The Giant Armadillo is a squat, heavily-built creature with a body that seems all muscle and armor. The dorsal surface is covered in overlapping segments of bone and keratin that form a natural shell—dull gray or brown in color, often caked with mud and insect secretions. The ventral surface (belly) is naked skin with sparse hair, vulnerable compared to the back. The head is small relative to the body and ends in a long, tapered snout with a small mouth adapted for eating insects and grubs. The eyes are small and set high, providing limited vision but adequate smell and hearing. The legs are short, thick, and powerful, ending in massive claws up to a foot long—tools designed for excavation and defense. The tail is long and tapered, sometimes used as a burrowing tool. The overall impression is one of ancient, overwhelming bulk.
+A squat, immensely heavy-looking animal with a back of overlapping plates of bone and horn, dull gray or brown and caked with mud and the resin of the insects it eats. The belly is bare, sparsely haired skin. The head is small for the body and ends in a long, tapering snout with a small mouth and a long tongue. The eyes are small and set high and it sees poorly; it hears and smells well. The legs are short, thick and powerful and the forefeet carry claws up to a foot long. The tail is long and tapering and armored like the back.
+
+## In the Land
+
+Giant Armadillos live where the ground is deep enough to dig and the termite mounds are thick: the highland belt of the southeast, where the rivers run all year and the grass is dense, and the stone-walled enclosures and raised platforms of the old builders, whose paving a burrow undermines and whose dry chambers an armadillo breaks into from below. The savanna clans leave the ruins alone and leave the armadillos with them. They are rarer on the open central plains and absent from the dry southwest.
 
 ## Key Behaviors
 
-Giant Armadillos are solitary creatures that spend much of their life below ground in elaborate burrow systems that can extend for hundreds of feet. These burrows are not random tunnels but carefully engineered dwellings with multiple exits, chambers for sleeping, and designated feeding areas. A giant armadillo maintains this territory with fierce dedication, marking boundaries through scent and aggressively driving away intruders. They are primarily nocturnal, leaving their burrows in darkness to forage for insects, grubs, and vegetable matter. During daylight hours, they remain underground where they are safest. They are methodical, patient creatures that show no fear of smaller creatures and move at their own deliberate pace, as if time itself bends around them.
+An armadillo is out at night and underground by day. Its warren is a worked thing: several entrances, sleeping chambers, chambers it feeds in, and tunnels that may run several hundred feet. It digs a new section every season and abandons old ones, and the abandoned galleries are taken by snakes, hyenas and whatever else wants a hole. It marks its ground and drives off other armadillos, and it ignores everything smaller than itself. It is slow, deliberate and without fear of anything, because nothing on the savanna can open it.
+
+## What the Clans Do
+
+The cattle clans of the southeast dig no well and pitch no camp on ground an armadillo has undermined, because a burrow collapses under a bull. A clan that finds a burrow mouth in its grazing stakes a thorn fence round it and moves the herd. A shed plate, found at a burrow mouth after the animal has grown, is cut into shield-bosses and the breast-pieces of the clan's war-dress, and a whole shell from a dead animal roofs a granary. Nobody hunts one for meat: it is a day's work with picks to kill it in its ball, and the clans have cattle.
+
+## Signs
+
+- A hole in a hillside the width of a doorway, with a fan of fresh earth below it.
+- Termite mounds dug out from the base and left as hollow shells.
+- A line of sunken ground across a slope or a paved court where a tunnel has settled.
+- Broad, deep claw-marks in the floor of a ruined chamber, and a hole in one corner going down.
+- A gray boulder in the grass that was not in that place yesterday.
 
 ## Combat Strategy
 
-A Giant Armadillo is not a creature that fights for dominance—it is a creature that simply endures. When threatened, its primary strategy is to curl into a nearly impenetrable ball, with the armored dorsum facing all directions and the vulnerable underside protected. From this position, it can remain indefinitely, waiting for threats to pass. If driven from its burrow or forced to move, it will lumber toward safety with singular focus, ignoring most attacks and using its powerful frame to crush or bulldoze through obstacles. Only if it cannot reach its burrow will it uncurl and fight with claws and head-butts, and this is rare—a giant armadillo's temperament is defensive, not aggressive.
+The armadillo does not fight if it can avoid it. Threatened, it curls, plates outward, head and belly inside, and stays that way for as long as it takes. Driven out of its burrow or cut off from it, it walks for home over or through whatever is in the way, ignoring blows. It uncurls and fights only when it cannot reach cover, and then it rakes with the foreclaws and drives with its head; a party that finds itself fighting one has usually blocked its hole. The belly is the one place a weapon does anything, and the belly is inside the ball.
 
 ## Attack Methods
 
 ### Talon Slash
 
-The massive claws are the armadillo's only serious weapons—drawn in powerful raking attacks that can disembowel or cripple a target. These attacks are slow and telegraphed but carry tremendous force behind them.
+The foreclaws rake with slow, heavy strokes that open a man from chest to hip or take a leg from under him. The blow is easy to see coming and hard to stand against.
 
 ### Armored Ram
 
-The armadillo will use its armored head and body mass as a weapon, lowering its head and charging into obstacles or opponents. The impact can knock smaller creatures down or cripple them if they are caught beneath the animal's weight.
+The animal lowers its head and drives forward with its whole weight, knocking a man flat and treading on him as it passes.
 
 ## Special Abilities
 
 ### Segmented Armor
 
-The overlapping plates of bone and keratin provide heavy protection against slashing, piercing, and even blunt weapons. The segments distribute force across the creature's body, reducing damage from individual strikes. The belly and underside are unarmored and vulnerable.
+The plates turn a cut, a thrust and a club alike, and spread the force of a blow across the body. The belly is unarmored.
 
 ### Defensive Curl
 
-When the armadillo coils into a ball, it becomes nearly impervious—attacks from the sides, back, or above are deflected harmlessly, and only attacks from the underside (which is inaccessible when curled) can cause real damage. An armadillo in this position cannot attack but is patient and will remain curled until threats depart.
+Rolled into a ball, the armadillo offers nothing but plate on every side. It cannot attack in this posture and does not need to; it waits until the danger goes away.
 
 ### Master Burrower
 
-The giant armadillo can excavate through soil and soft rock at surprising speed, creating new burrows or enlarging existing passages. It can disappear underground in minutes, and following it into its burrows is a risky proposition.
-
-## Additional Information
-
-Giant Armadillo burrows are sometimes claimed and enlarged by other creatures, becoming de facto cave systems. A giant armadillo's shell, when shed (which occurs naturally), can be worked into impressive armor or decorative pieces. Anyone who finds a burrow system should exercise caution, as the armadillo is territorial and will defend its territory relentlessly.
+It digs through earth and soft rock faster than men with picks, and is out of sight underground in a few minutes. Following it down the hole means fighting it in a tunnel it fills.
 
 ## Attributes
 

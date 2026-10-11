@@ -267,67 +267,79 @@ sohl:
 
 ![[roc|Roc]]{float=top-left}
 
-The shadow falls first—a darkness that swallows the sun, impossibly vast, and you realize too late what it means. The sound arrives moments after, a shriek that seems to split the sky itself, a cry of hunger and territorial claim that makes your bones vibrate. Then you see it: a creature so enormous the eye struggles to contain it, wings spanning hundreds of feet, their undersides catching light in patterns of bronze and gold that seem to shift with each stroke. The talons are visible even at this distance—curved, dark, each one the size of a man's leg. The beak, hooked and cruel, opens as the creature circles, and you understand with perfect clarity that you are being assessed as a meal.
+The light goes out of the valley all at once, as if a cloud had crossed the sun, and the herdsman on the ridge above you throws himself flat. Then the sound arrives, a shriek that you feel in your teeth, and you look up into a shape that fills a third of the sky: wings a hundred feet across, bronze and gold underneath where the sun comes through the feathers, and below them two legs trailing talons each as long as a man. It comes down the ridge. The mule at the end of the string goes up off the path in those talons as a mouse goes up in an owl's, and the wind of the wings knocks you to your knees.
 
 # Dossier {#dossier}
 
-The Roc is an impossibly massive bird of prey, with a wingspan exceeding 100 feet and a body weight measured in tons, representing the apex of avian predation across isolated mountains, deep valleys, and remote coastlines. These creatures nest on inaccessible peaks and hunt creatures as large as elephants, making them living disasters for unwary expeditions. Adventurers encounter rocs only in the most remote and dangerous wilderness, where the creature's territory prevents all but the most desperate or foolish from passing.
+The Roc is the great bird of the high mountains: a hundred feet and more across the wings, a body weighing several tons, with talons as thick as a man's arm and a hooked beak that shears a tree limb. On the [[place-graznmntns|Grazian]] north face it is the last of the four dangers the guides name to a lowlander, after the [[being-clffstlk|Cliff Stalker]], the [[being-crglrkr|Crag Lurker]] and the [[being-stoneram|Stone Ram]], and the only one of the four that can take a laden mule off a ridge in front of the herdsman who is leading it. It nests on peaks no one climbs and hunts across hundreds of square miles of mountain and the country below. Rocs are rare. The plateau tribes speak of the Roc of the north face, as if there were only one; the guides of the high passes say there are a few, and that they are very old.
 
 ## Presentation
 
-The Roc is a creature of overwhelming scale and predatory majesty. The body is covered in feathers that range from dark brown to golden-bronze, often with fine patterning that aids in camouflage across rocky terrain when the bird is at rest. The wings are proportionally huge, muscular, and capable of generating the lift necessary to carry a fully loaded merchant wagon airborne. The head is fearsome—a massive skull housing an intelligent brain, with forward-facing eyes set for binocular vision, and a hooked beak large enough to shear off a tree limb or pierce armor. The talons are as thick as a man's arm and equipped with curved claws the length of swords. The legs are muscular and thick, built to grip and support the creature's tremendous weight.
+A bird of prey built on an impossible scale. The plumage is dark brown on the back, shading to golden-bronze on the breast and the undersides of the wings, finely barred so that a roc at rest on a mountainside reads as a rock slide. The head is huge, with forward-set eyes, pale gold, and a hooked beak as long as a cart. The legs are thick, scaled and feathered to the foot, and the four talons on each are curved claws the length of swords. The wings are long and broad and lift a load of a ton. A roc in flight is silent until it calls, and its call carries for miles.
+
+## In the Land
+
+Rocs nest on the highest and most inaccessible peaks of the Grazian range above the north face, where the glaciers hold year-round, and hunt the ridges, valleys and plateaus below: the high grazing of the stone rams, the passes the caravans use to come down from Vedyara, the [[place-grazruins|ruins and labyrinths]] under the glaciers, and the black rock of the [[place-dkrqrrgn|Dikraqor]] beyond. A single bird's range is hundreds of square miles. It takes wild rams, ibex, wild asses, a camel, a mule or a pony from a string, and anything else of that size that stands on open ground. Herds that live under a roc's range learn to stay near cover, and the herdsmen of the plateau keep their beasts off the ridges in the season when the bird is seen.
 
 ## Key Behaviors
 
-Rocs are solitary and fiercely territorial, with individual birds maintaining hunting ranges that can span hundreds of square miles. A roc hunts by soaring at tremendous altitudes, using its extraordinary vision to locate prey at distances that would be impossible for humans to match. Once prey is identified, the roc stoops in a powered dive that reaches speeds in excess of 100 miles per hour, using gravity and muscle power to deliver devastating impact. Rocs are intelligent and capable of learning, remembering locations where game is plentiful and hunters who pose threats. Mating occurs only once every few years, and a nesting roc becomes nearly homicidal in its protectiveness of eggs and young. The creature must eat enormous quantities of meat daily and will hunt continuously during daylight hours.
+A roc hunts by day, soaring at a height where it is a speck, and comes down in a stoop that ends with the whole weight of the bird behind its talons. It carries what it takes to a ledge or back to the eyrie and eats there. It must eat a great deal, and hunts most days when it is nesting. A pair nests once every few years and raises one chick, and a nesting roc attacks anything that comes near its peak, and a good deal that does not. Rocs live for centuries and learn: a roc remembers a valley where the herds are thick, a pass where the strings cross, and a party that shot at it. It does not fear anything that walks.
+
+## What the Mountain People Do
+
+The guides who take strings over the north face cross open ridges at dawn and dusk and keep the animals close under the crags in the hours when the roc hunts, and a guide who sees its shadow cross a valley stops the string where it stands, under cover, until it has gone. A string that loses a mule to it lets the mule go: nobody follows a roc. The herdsmen of the plateau pen their beasts in the ravines in the season it is seen. A roc's flight feather, found under a ridge, is longer than a man and is hung over a shrine door; a roc's egg, which nobody now living has seen, is said to have held water for a whole house for a year. Nobody hunts a roc, and the stories of those who tried are told as warnings.
+
+## Signs
+
+- A shadow crossing a valley that is too big and too fast for any cloud.
+- A shriek from the high peaks that sets every animal in a string bucking at once.
+- The bones of rams and wild asses on a high ledge, some of them dropped from a height and shattered.
+- A feather longer than a man lying across a ridge path.
+- A whole herd on a plateau crowded into one ravine at midday.
 
 ## Combat Strategy
 
-The roc's dominance in the air is absolute, and it uses that advantage ruthlessly. It attacks from altitude, diving with overwhelming speed and force, attempting to seize prey with its talons and lift them skyward where it can finish them at leisure or carry them to its nest. If forced to land or engage on the ground, the roc becomes somewhat less dominant but remains extraordinarily dangerous. It uses its beak and talons with devastating effect, and its size advantage means it can easily overpower anything short of a much larger creature or a group of well-organized opponents. The roc will never retreat unless mortally wounded—its size and dominance mean it has no natural predators and no experience with defeat.
+The roc attacks from the air and seldom anywhere else. It stoops from a great height, strikes with the talons, and lifts what it has struck if it can; a man or a mule taken up is crushed in the grip and carried off, or dropped onto rock from a height. If the prey is too big to lift it strikes it down and comes back for it. It stoops again and again at a party on an open ridge until something is taken, and it ignores arrows that do not reach anything vital. Forced to the ground, by a wound or by defending its nest, it fights with beak and talons and is still the most dangerous thing on the mountain. It does not flee unless it is badly hurt. A party under the cover of an overhang or in a narrow gully cannot be stooped on, and that is the whole of a traveler's defense.
 
 ## Attack Methods
 
 ### Diving Talon Strike
 
-The roc folds its wings and dives from altitude, building speed until the impact alone would shatter bone. The talons, extended at the last moment, rake across targets, penetrating armor and inflicting terrible wounds. A successful strike can seize a humanoid-sized target and carry it aloft.
+The roc folds its wings and drops, and at the end of the stoop it throws its talons forward. The impact breaks bones on its own, and the talons go through armor; a man or a mule struck squarely is seized and lifted.
 
 ### Crushing Grip
 
-If the roc has seized a victim with its talons, it crushes with the full force of its leg muscles, capable of breaking ribs, collapsing lungs, and shattering limbs. A creature caught in this grip struggles to maintain consciousness.
+A thing held in the talons is crushed with the full strength of the legs, ribs breaking and lungs collapsing. A man in the grip seldom stays conscious long.
 
 ### Beak Strike
 
-Using its massive hooked beak like a titanic curved sword, the roc slashes and pierces at targets. The beak can tear through armor, sever limbs, or create terrible wounds in unprotected flesh.
-
-### Crushing Impact
-
-The roc's body weight, diverted downward in a diving attack, can impact targets with force equivalent to a falling building. Even if the talons miss, the impact alone can inflict serious injury.
+The hooked beak stabs and shears like a great curved blade, through armor and limb.
 
 ## Special Abilities
 
+### Crushing Impact
+
+The roc's weight behind a stoop strikes like a falling building, and even when the talons miss, the blow and the wind of it throw men down.
+
 ### Aerial Mastery
 
-The roc is supremely powerful in flight, capable of hovering, diving, climbing, and maneuvering with grace that belies its massive size.
+For all its size it climbs, banks, stoops and pulls out of a stoop with ease, and it chooses the quarter and the moment of every attack.
 
 ### Immense Strength
 
-A creature with a body weight measured in tons possesses strength far beyond any land-bound predator. The roc can lift and carry creatures weighing up to a ton or more, carry building-sized objects, and deliver impacts that register on a scale with small earthquakes.
+It lifts a load of a ton or more, carries a laden mule to a peak, and tears a carcass apart in a moment.
 
 ### Predatory Vision
 
-The roc's eyesight is extraordinarily acute, allowing it to spot movement from altitudes of thousands of feet and to track prey across vast distances. The bird can hunt in conditions where humans would be completely blind.
+It sees a moving ram from a height of thousands of feet and follows a party across a whole range.
 
 ### Impenetrable Plumage
 
-The roc's feathers are dense, overlapping, and incredibly tough—they protect it like armor against most conventional weapons and shelter it from weather in any condition.
+Its dense, tough feathers turn most arrows and blades, and a spear that strikes it at an angle skids off.
 
-### Regenerative Capability
+### Rapid Healing
 
-While not magical, the roc's body heals fast, allowing it to recover from wounds that would permanently disable other creatures.
-
-### Additional Information
-
-Rocs are rare enough that many take them for myth. The presence of a roc in a region effectively closes that territory to normal settlement and trade—the loss of livestock and people becomes unsustainable. Rocs can live for centuries and create strong impressions of themselves in local culture and folklore. A roc keeps the large prey animals of a vast territory in check.
+It mends from wounds that would cripple any other creature, and a roc driven off hurt is flying again in days.
 
 ## Attributes
 

@@ -310,77 +310,81 @@ sohl:
 
 # Appearance {#appearance}
 
-The first warning is the cry—a sound somewhere between a raptor's shriek and a lion's roar, echoing across the mountainside and setting your teeth on edge. Then you see it. The creature launches from its eyrie perch with terrible grace, its massive feathered wings catching the wind and climbing higher than any natural eagle should be able to reach. Yet this is no eagle. Where a bird's body should taper into a tail, the form of a great cat takes over—a lion's muscular frame, powerful haunches, and a tail that lashes the air with leonine authority. The contrast is startling: the fierce precision of a bird of prey joined to the raw power of a great cat.
-
-As it descends toward you—if it has chosen you as quarry—you see the gryphon's full majesty. Its eagle head turns with unnatural rotational freedom, those golden eyes fixing upon you with intelligence and cruel amusement. The talons, each the size of a scimitar's blade, flex in anticipation. Its forelegs bear the weight of those tremendous wings, corded with muscle, while its hindquarters ripple like those of a lion about to spring. The creature's plumage flows in shades of burnished bronze and deep gold, and where feathers meet fur, there is no visible join. Its breath comes in powerful huffs, each exhalation carrying the heat of a furnace and the musky scent of high peaks and untamed hunting grounds. Every moment you stand in its presence, it is deciding whether to kill you.
+The cry comes down the valley ahead of it, half an eagle's scream and half a lion's cough, and the mules throw up their heads. It is already in the air when you find it: a shape launching off a spire of rock a thousand feet above the path, wings of bronze and gold twenty feet across, and under them, where a bird ends, the tawny body and lashing tail of a great cat. It does not stoop. It settles on a ledge above the track, folds its wings, and looks down at the string with one golden eye, the way a lord on his wall looks at a cart that has stopped at his gate.
 
 # Dossier {#dossier}
 
-The gryphon is a creature of legend, combining the majesty of the king of birds with the ferocity of the king of beasts. Standing three to four feet high at the shoulder and measuring five to six feet from the grip of its forelegs to the tip of its tail, a mature gryphon weighs approximately three hundred pounds—lean and muscled rather than bulky, with the proportions of a supreme predator. The transition from eagle to lion is clean and natural, as though these creatures were made whole from the beginning rather than fused by some sorcerer's whim.
+The gryphon is an eagle in front and a lion behind: three to four feet at the shoulder, five to six feet from the grip of the fore-talons to the tail-tip, three hundred pounds of hunter, with wings that span twenty feet and carry it higher than any eagle flies. It nests on the highest crags of the [[place-graznmntns|Grazian Mountains]], above the [[place-pssshrines|Pass-Shrines]], and in the wind-scoured mountain tracts behind the [[place-nrdlndsrgn|Nordlands]] fjords, and it holds a range of many valleys against every other gryphon. It eats goats, ibex, wild horses and caribou. It kills men who climb toward its eyrie and lets men pass who do not, and it knows the difference.
 
-Gryphons are fiercely territorial, claiming vast mountainous ranges as their own. They live fifty to eighty years, forming long-term bonding pairs for breeding, though most spend much of the year in solitude. A gryphon's nest is built in the highest, most inaccessible peaks—places where the eagle's need for an eyrie and the lion's need for a defensible den merge. These aeries are carefully kept and decorated with treasures the creature finds beautiful: polished stones, metals it has stolen from humans, and bones of worthy prey arranged in patterns only the gryphon understands.
-
-The creature's intelligence is significant—estimates place it at the level of a very bright human child, with emotional complexity approaching that of an adult. Gryphons hold grudges, feel pride, recognize individuals, and some have been known to mourn their dead. They are immune to casual intimidation but respond to respect, and throughout history, rare individuals have managed to bond with gryphons, creating partnerships that define epochs. Such bonded pairs are typically used as elite mounts and aerial scouts, their combination of strength and perception making them prized in warfare and exploration.
+It is a thinking animal, as clever as a bright child and prouder than most men, and the few people in any age who have won one's regard have ridden it to war.
 
 ## Presentation
 
-A gryphon's eagle half is massive—a head as large as a shield, with eyes that capture and reflect light like polished amber. Its beak, sharp enough to pierce armor, curves with lethal precision. The neck is thick and heavily feathered, capable of supporting the weight of its predatory head. From this, a body of pure muscle emerges, feathered in brown and gold until—at about where a lion's ribs would be—the transformation occurs. Feathers give way to tawny fur, and the structure becomes quadrupedal and feline. The lion's body is lithe but powerful, showing the muscles of a creature built for explosive power and sustained pursuit. The tail is a lion's tail—thick and muscular, often held high, used for balance and communication.
+The eagle half is heavy: a head as large as a shield with amber eyes, a hooked beak that goes through plate, and a thick, feathered neck. The forelegs are an eagle's legs scaled to the body, ending in talons the length of a short sword, and the breast and shoulders are feathered bronze and gold. Behind the shoulders the feathers give way to tawny fur with no visible seam, and the rest of the animal is a lion: deep-chested, long in the haunch, with a tufted tail and retractable claws on the hind feet. The wings are broad and long and the gryphon flies on the mountain wind more than on its own strokes, with small, exact corrections.
 
-The gryphon's wings, when fully spread, can reach a span of twenty feet or more. They are powerful enough to lift the entire creature's weight with ease, and the flight is marked by supreme control—the gryphon does not flap continuously but rather glides on thermals, using quick, precise movements to adjust its course. The claws of its forelegs are talons rather than true cat's claws—massive, curved, and capable of tearing through a warrior's armor or rending stone. The hindlegs retain full lion functionality, with retractable claws that are slightly less impressive than the talons but still lethal.
+## In the Land
+
+Gryphons nest where nothing else can: on the spires and hanging ledges of the Southern Wall of the Grazian range, which the Vedyari hold to be the dwellings of their gods, and on the peaks above the caribou plateaus in the north, where the reclusive clans know the eyries by name. A pair holds a range that takes in several valleys and the passes between them, and the guides of the Grazian roads reckon a crossing by which pair's country it runs through. Unpaired gryphons wander, looking for a range of their own, and a wandering gryphon is the one a lowlander meets.
+
+The eyrie is a thing worth knowing about: a nest the size of a cart on a ledge no man can climb to, kept clean, and decorated with what the gryphon finds beautiful, polished stones, worked metal taken from the dead and from the living, and the bones of its best kills laid out in an order of its own.
 
 ## Key Behaviors
 
-Gryphons are apex predators with complex social lives. In their mountainous territories, they hunt large game—elk, ibex, and wild horses—with a mixture of aerial ambush and terrestrial pursuit that combines the best tactics of both their natures. A gryphon will dive from the sky to harry prey toward cliff edges, or circle high and strike with coordinated precision. They do not hunt every day; a fresh kill can sustain them for several days, and they spend considerable time in their aeries, grooming their plumage, watching the skies, and seemingly contemplating their domains.
+A gryphon hunts both as an eagle and as a lion. It drives a herd toward a cliff from the air and takes what goes over; it circles high and stoops; it stalks on foot across broken ground and springs. A kill feeds it for several days, and between kills it keeps its eyrie, grooms, watches its valleys and takes routes along the ridges that have nothing to do with hunting and everything to do with the view. Pairs mate for life, raise one young a year, and both parents fight for it. Rivals are driven out of the range, and two gryphons fighting for a range fight in the air for hours, which the mountain people watch from a long way off. They tolerate eagles and hawks, ignore goats when they are fed, and remember a man's face. A gryphon holds a grudge for life and knows gratitude for as long.
 
-Gryphon pairs are devoted partners, and both male and female take active roles in raising their single offspring per breeding season. The parent gryphons are fiercely protective of their young and will engage in coordinated combat against any perceived threat, making a nesting pair more dangerous than any solitary gryphon. Unattached gryphons are more likely to be encountered as they wander, seeking territory or mates.
+## What the Mountain People Do
 
-Territorially, gryphons will not tolerate other gryphons in their realm—battles between rivals are rare but devastating, often fought at high altitude over the course of hours. They do, however, recognize certain non-gryphon creatures as neutral or even allies: eagles and great hawks are tolerated, as are deer and mountain goats (the latter being preferred prey but not hunted if other food is available in their presence).
+The guides of the Grazian passes keep their strings close under the crags on a gryphon's stretch of road and leave an offering of a goat on a rock at the foot of its crag, which the gryphon takes and which the guides say is why the string is let pass. The Pass-Shrines count a pair that nests above them as a mark of the god's favor and will not have one hunted. Nobody robs an eyrie twice. In the north the caribou clans lose calves to the gryphons every spring and sing about it rather than hunting them, since a hunt in that country means a man on a rope on a sheer crag with both parents in the air.
 
-Gryphons appear to have aesthetic preferences. Some are known to take particular routes through their territory that offer the most beautiful vistas, to collect shiny objects, and to show interest in unusual phenomena in their domain—lightning storms, rare birds, or unusual human activity. A gryphon that bonds with a human often does so because it recognizes something in that individual worthy of its respect: bravery, honor, or a kind of wildness that mirrors its own nature.
+A bonded gryphon is a thing of legend and a fact: once in a long while a gryphon decides that a particular man or woman is worth its company, after months or years of acquaintance that the gryphon began, and carries that rider in war and in travel for the rest of the rider's life. The tales of the passes keep the names of such riders, and no one in living memory has seen one.
+
+## Signs
+
+- A cry down a valley that is half scream and half roar, and the pack animals' heads going up together.
+- Goat and ibex bones on a ledge no climber could reach, laid in a line.
+- A shadow across the scree too broad for an eagle, moving against the wind.
+- A nest the size of a cart on a hanging ledge, with something bright in it that catches the sun.
+- Mountain goats grazing untroubled under a cliff where no wolf comes.
 
 ## Combat Strategy
 
-A gryphon does not fight like a lion or like an eagle—it fights like both in concert. It will begin engagement from the air, using its superior altitude to assess threat and choose its point of attack. Against a single opponent, a gryphon will dive with talons extended, attempting to rake and claw as it passes, relying on the momentum of its fall and wing power to strike and then climb safely away. If the opponent proves resilient or worthy, the gryphon may land and engage in close combat, using its wings to balance itself on its hindlegs—a posture that frees its forelegs for striking with both claws and talons.
-
-A gryphon in sustained ground combat is a cyclone of violence. It will circle an opponent, striking from angles, using its wings as both weapons and shields, and transitioning fluidly between rearing up on hindlegs and dropping back to full quadrupedal stance. Its intelligence means it will exploit terrain—using hills and rocks for vantage, driving opponents toward cliff edges, or using elevation changes to gain diving advantage.
-
-Against multiple opponents, a gryphon's strategy becomes more conservative. It will maintain altitude, strike weak-looking targets, and retreat if it appears it might be overwhelmed or trapped. Gryphons are not suicidal; they value their own lives and will break off a battle if the odds turn decisively against them. However, if defending territory or offspring, a gryphon will fight with utter ferocity, ignoring wounds that should prove debilitating.
+The gryphon begins from the air. It watches, chooses, and comes down in a stoop with the talons out, raking as it passes and climbing away. A foe it respects it lands for, and on the ground it rears on its lion's haunches with the wings spread for balance and fights with both fore-talons at once, circling, using rock and slope and the edge of a drop, and taking to the air again when that serves it. Against many it stays high, strikes the weak and the separated, and leaves if the odds turn; it is not a fool and it does not die for a meal. Defending its eyrie or its young it fights until it cannot.
 
 ## Attack Methods
 
-### Diving Strike
+### Beak
 
-The gryphon climbs high and accelerates downward in a controlled plunge, striking with both sets of talons extended. This attack combines the momentum of its aerial descent with the power of a creature weighing three hundred pounds, and it is capable of piercing armor, breaking bones, and opening grievous wounds. Targets struck by a diving strike are often knocked down or staggered.
+The hooked beak is used when the gryphon has committed to a kill or has an opponent down: it pierces and tears rather than crushes, cracks bone and takes a limb off at the joint.
 
-### Rending Claw
+### Talon
 
-In close combat, the gryphon slashes with its forelegs, talons extended to their full terrible length. These attacks are quick, capable of being executed in succession, and if they connect with a target's face or head, can cause deep lacerations. The combination of strength and sharpness means even glancing blows draw blood.
+The fore-talons strike at the end of a stoop with the whole weight and speed of the animal behind them, piercing mail and breaking bones, and on the ground they rake in quick succession at the head and the arms.
 
-### Bite
+### Claw
 
-The gryphon's beak is a weapon it uses less often, but a dangerous one. Unlike a lion's bite which is designed to crush, the gryphon's bite is designed to pierce and tear. It is typically used after a strike that has compromised an opponent's guard, or in circumstances where the gryphon is fully committed to a kill. The bite can sever limbs and is capable of cracking bone.
-
-### Wing Buffer
-
-The gryphon's massive wings are striking weapons as well as a means of flight. A full-power wing stroke can knock a standing opponent off their feet or interrupt an attack. The gryphon will sometimes use these movements defensively, creating distance or disrupting incoming attacks.
+The hind feet carry a lion's claws, and a gryphon rearing or rolling with an opponent rakes with them along the body and the legs.
 
 ## Special Abilities
 
+### Wing Buffet
+
+A full stroke of a wing knocks a standing man off his feet or breaks an attack, and the gryphon uses its wings to make room as often as to fly.
+
 ### Mythic Perception
 
-The gryphon's sensory acuity combines the sight of an eagle with the acute smell and hearing of a lion. It can spot movement from miles away, detect the presence of prey through dense forests, and hear the approach of riders from great distances. In combat, this gives it a full awareness of its surroundings and the activities of multiple opponents.
+An eagle's eyes and a lion's nose and ears together: it sees movement across a range of hills, smells a man in a forest and hears riders a valley away, and in a fight it knows where every opponent is.
 
 ### Aerial Mastery
 
-The gryphon's control of the air is supreme. It can execute impossible maneuvers—vertical climbs, instant course changes, and stable hovering—that defy physical intuition. It can land on cliff faces, rotate its entire body mid-flight, and judge distances from altitude with perfect accuracy. This ability allows it to fight in three dimensions in ways that grounded creatures cannot match.
+It climbs straight up, turns in its own length, hovers on the wind and lands on a cliff face, and it judges a drop to the inch. In the air nothing but another gryphon matches it.
 
 ### Roar of Command
 
-The gryphon can issue a cry of such volume and harmonic intensity that it vibrates through bones and air alike. This roar can warn allies from incredible distances, disorient opponents (leaving them momentarily stunned or confused), or declare its territory for miles around. The roar carries power and intelligence; it is no mere animal sound.
+The gryphon's cry carries for miles and shakes the people who hear it close; a man within a few yards of it is stunned for a moment. It is a call to its mate and a claim on its country, and it is not an animal's noise.
 
 ### Bonding
 
-Under rare and specific circumstances, a gryphon can form a permanent bond of feeling with a humanoid. This is never forced and must be chosen by the gryphon itself, typically after months or years of contact and respect-building. Once bonded, the gryphon is mount, companion, and guardian to the chosen human, granting them access to the gryphon's perception, physical abilities (through riding), and tactical intelligence. A bonded gryphon will die defending its chosen human. The bond persists even after the human's death, often driving the grieving gryphon to extreme territorial aggression or, in rare cases, a form of melancholy that persists for years.
+Rarely, and never by compulsion, a gryphon chooses a person and stays chosen. It carries that rider, shares what it sees, fights for them and dies for them, and a gryphon whose rider has died keeps the range in grief or in fury for years.
 
 ## Attributes
 

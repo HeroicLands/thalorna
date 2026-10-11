@@ -246,51 +246,65 @@ sohl:
 
 ![[gntegl|Giant Eagle]]{float=top-left}
 
-The shadow crosses over you first, immense and black—the wing-shadow of something so large you instinctively flinch. Then comes the sound: a cry that echoes off the mountainsides, a voice of conquest and absolute dominion. The eagle itself appears through the thermals, banking hard enough to tear sound from the air—a creature of such enormous power that you struggle to reconcile it with anything you've seen. Twenty feet of wingspan catch the light like gold and bronze, each feather visible from below. As it circles, you see the moment its eye fixes on you: bright and terrible and infinitely knowledgeable. The talons beneath it are each the length of a sword blade. The air itself seems to hold its breath.
+A shadow the size of a longship slides across the scree and up the far wall of the valley, and the goats scatter under it. You look up into the sun and see it bank: twenty feet of wing, gold and bronze with the light through the primaries, two legs trailing talons as long as sword-blades. It is not coming for the goats. It has turned, lost height, and is coming down the valley at the height of a tall tree, straight along the path, and the cry it gives as it comes rings off both walls.
 
 # Dossier {#dossier}
 
-The Giant Eagle is a mount-sized raptor that dominates the high mountain passes and cliff faces of the world. With a wingspan exceeding twenty feet and talons that could pierce a knight's armor, a single Giant Eagle is a threat that entire caravans fear. These creatures are not mindless beasts but intelligent, calculating hunters that judge space and tactics well. They establish vast territories spanning hundreds of square miles, and they defend those territories with terrible thoroughness. Adventurers most commonly encounter them when traveling mountain passages, when an eagle takes interest in a caravan, or when an expedition reaches a nesting site.
+The Giant Eagle is a mountain eagle with a wingspan of twenty feet and talons that go through a mail hauberk, which nests on the high crags of the [[place-nrdlndsrgn|Nordlands]] behind the fjords and on the peaks of the [[place-graznmntns|Grazian Mountains]], and holds a hunting range of a hundred square miles or more from the air. It takes goats, caribou calves, lambs and the pack animals of a caravan on an exposed ridge, and a nesting pair takes a man who climbs toward the eyrie. The Varokh of [[place-vrystwald|Vrystwald]] keep it as a wesk: four of their villages, [[place-arnstein|Arnstein]] on its eagle crag among them, take the eagle for their totem and keep the crag where it nests as sacred ground.
+
+It is not a hunter of men by habit. It is a thing that owns the sky over a range of mountains and resents a trespasser in it.
 
 ## Presentation
 
-The Giant Eagle is a magnificent creature—a predator scaled far beyond any natural bird. Its body is heavily muscled and dense, built to carry weights that would break lesser birds. The plumage is primarily golden-brown and dark brown, with paler coloring on the head and neck that gives the eagle an expression of stern, old authority. The head is large and powerful, with a hooked beak that can open to angles seemingly impossible and tear flesh cleanly. The eyes are bright gold or amber, set to provide excellent forward binocular vision and wide peripheral awareness. The legs are thick and powerful, ending in talons that curve wickedly, each talon as long as a human finger and sharp enough to slice through leather like cloth. The wings are the eagle's defining feature—massive, powerful, and perfectly formed for both precision maneuvering and raw explosive acceleration. Even at rest, the eagle looks ready to spring.
+A heavily built eagle with dense golden-brown plumage, paler at the head and nape, with a hooked beak that opens wider than seems possible and tears cleanly. The eyes are gold or amber, set forward. The legs are thick and feathered to the foot and the talons are curved, each as long as a man's finger, with an edge that opens leather like cloth. The wings are long and broad, built for soaring on the mountain thermals and for a stoop that comes down out of the sun faster than an arrow. It weighs fifty pounds and lifts a goat.
+
+## In the Land
+
+Pairs nest on ledges and rock spires above the snowline in the wind-scoured mountain tracts behind the Nordlands fjords, where the caribou clans see them over the high plateaus, and on the Southern Wall and Eastern Reach of the Grazian range, where the guides of the passes count them among the hazards of an exposed ridge. Each pair holds a range that covers several valleys and tolerates no other adult in it. In Vrystwald they are seen over the cliffs of [[place-falkhaven|Falkhaven]] on the western shore, where the eagle villages keep their watch, and they drift south along the fjord coast in the hard winters.
 
 ## Key Behaviors
 
-Giant Eagles are apex predators that hunt alone or in established pairs. A mated pair defends a territory together but hunts individually, often coordinating to drive prey toward each other. They are primarily diurnal and most active in mid-morning and late afternoon, hunting from high altitude by watching for movement below. Prey includes large mammals (deer, mountain goats), other large birds, and occasionally humanoid prey if the eagle is sufficiently motivated or if the target is separated from larger groups. A nesting pair with young becomes extraordinarily aggressive and will pursue intruders for miles, making repeated devastating dives. Outside breeding season, eagles are aggressive and territorial but generally uninterested in humanoids—they are more interested in driving competitors out of their space than in deliberately hunting humans.
+An eagle hunts by day from a great height, watching the ground for movement, and comes down in a long stoop that ends in a strike with both feet. A pair hunts apart and drives prey to each other across a valley. They take goats, hares, foxes, the calves of caribou and deer, carrion when the winter is hard, and a dog or a mule left on open ground. They are at their worst in spring, with young in the eyrie, when both birds strike at anything that climbs toward the nest and follow it for miles. Outside the nesting season they drive a rival out of their sky and leave people alone unless the people have something small and alive with them.
+
+## What the Mountain People Do
+
+A caravan guide on the Grazian passes does not cross an open saddle with a pack string spread out, and he puts the mules close together under the crags where the bird cannot stoop. The caribou clans of the northern plateaus lose calves to them every spring and shoot at them when they can, which is seldom. In Vrystwald an eagle is a wesk, and the villages that keep it, **Arnholt** on the Falkhaven shore among them, set a watch on a cliff where the birds nest and read the pair's flights as omens; killing one in an eagle village's woods is a blood matter. A primary feather is worth having for fletching and for a chief's helm, and an eyrie, reached by a man with a rope and a strong stomach, holds the bones of a century of kills and whatever the kills were wearing.
+
+## Signs
+
+- A shadow crossing a slope faster than a cloud, with no cloud in the sky.
+- Goat carcasses on a spire of rock no goat could climb, opened from the back.
+- A ringing double cry from high up, answered from another peak.
+- Mules that bunch and stare upward on an open ridge.
+- A heap of sticks the size of a cart on a ledge, white with droppings, with bones scattered below it.
 
 ## Combat Strategy
 
-A Giant Eagle's preferred tactic is the dive—a high-speed attack that builds momentum to devastating effect. A diving eagle attacks with talons extended, attempting to strike and carry off prey if possible, or at minimum to wound and set up additional passes. If the initial attack fails or if prey escapes into cover, the eagle climbs rapidly back to altitude and circles for another approach. In close combat (if the eagle is forced to the ground or if prey is in a confined space), the eagle uses its beak and talons with measured precision. A defensive pair of eagles attacks simultaneously from different vectors, attempting to divide a target's attention and defense. An eagle defending a nest becomes almost suicidal in its determination—it will make repeated passes regardless of wounds or overwhelming odds.
+The eagle stoops out of the sun, strikes with both feet and tries to carry what it has hit. If the prey is too heavy it opens it with the talons on the first pass and climbs away to come again, and it will make pass after pass at a man on an open ridge until he is down or under cover. A pair comes from two directions at once. On the ground, or in a confined place, it fights with beak and talons and is far less dangerous; it does not land by choice among enemies. A nesting bird does not stop for wounds. A bow, a crag to put a back against, and a cloak thrown over the head when the shadow comes are the whole of a traveler's defense.
 
 ## Attack Methods
 
 ### Talon Strike
 
-A devastating raking attack, particularly devastating when delivered during a high-speed dive. The eagle extends its talons with force sufficient to pierce armor and rend flesh, causing deep lacerating wounds. In close combat, the eagle can deliver multiple strikes in rapid succession.
+Both feet strike together at the end of the stoop, with the whole weight and speed of the bird behind the talons. They go through mail and open the body beneath; on the ground the eagle strikes several times quickly.
 
 ### Beak Tear
 
-A precise attack aimed at soft targets or weak points in armor—the hooked beak opens wide and tears, capable of opening serious wounds or even severing limbs if the eagle has pinned a target with talons.
+With the prey held under its feet the eagle tears with the hooked beak at the face, the throat and the soft parts, and takes a limb off a small animal at the joint.
 
 ## Special Abilities
 
 ### Aerial Dominance
 
-The Giant Eagle is nearly unstoppable in open air combat—it can dive at speeds that ground-bound creatures cannot match, can recover from a dive into a steep climb, and can maneuver with a precision that leaves terrestrial pursuits impossible. In the air, the eagle has overwhelming advantage. On the ground, it is more vulnerable.
+In open air nothing matches the eagle. It stoops faster than an arrow flies, pulls out of the stoop into a climb, and turns inside any bird that could follow it. On the ground it is a heavy, awkward thing.
 
 ### Piercing Vision
 
-The eagle's eyesight is supernatural—it can identify movement from impossibly far distances, can track moving targets across open sky, and can reliably spot ambushes or hidden enemies. The eagle is nearly impossible to surprise.
+The eagle sees a hare move on a hillside two miles off and a man on a ledge from above the clouds. It is not surprised from the air and seldom from the ground.
 
 ### Talon Grapple
 
-If the eagle succeeds in gripping prey with its talons, the target is held fast—a grappled creature cannot move without pulling free, and the eagle's strength advantage makes escape difficult. The eagle can carry lighter prey aloft and does so whenever possible.
-
-## Additional Information
-
-A Giant Eagle aerie is a treasure trove—eagle eyries often contain accumulated gold, jewelry, and weapons from previous kills. However, reaching an aerie and claiming treasure while avoiding protective parents is a deadly proposition. A few have attempted to negotiate with eagles through magical means, with rare success. An eagle feather is valuable for fletching, armor, or ceremonial purposes—a single primary feather can be worked into fine items.
+A thing gripped in the talons stays gripped. A goat, a dog or a child is lifted and carried to the eyrie, and a man who is gripped is held under the bird's weight for the beak.
 
 ## Attributes
 

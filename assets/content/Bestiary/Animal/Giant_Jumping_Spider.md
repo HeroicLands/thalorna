@@ -187,51 +187,65 @@ sohl:
 
 ![[gntjmpng|Giant Jumping Spider]]{float=top-left}
 
-Something impossible catches the corner of your eye—a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you—luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch—you can see the muscles coiling—and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.
+A patch of the rock beside the path has eight eyes. The two biggest, in the middle of its face, are the size of chestnuts and black and bright, and they are fixed on you with a steadiness no insect has. It is the size of a dog and furred in brown and gray mottling that was indistinguishable from the stone a moment ago. It does not run. It moves sideways a few inches, keeping those eyes on you, and the thick hind legs fold under it like a cat's.
 
 # Dossier {#dossier}
 
-The Giant Jumping Spider is an arachnid that combines unusual intelligence with devastating physical capabilities. With a body diameter of one foot and leg spans exceeding two feet, these spiders are dangerous ambush predators. Unlike their web-building cousins, jumping spiders are active hunters that stalk and pounce on prey with terrifying speed and accuracy. These creatures are solitary and territorial, and they seem to demonstrate problem-solving abilities unusual in arachnids. Adventurers most commonly encounter them in rocky terrain, forested areas, and anywhere with suitable prey populations.
+The Giant Jumping Spider is a hunting spider with a body a foot across and a leg-span of more than two feet, which stalks by sight and kills by leaping, and lives on the sunny rock and dry hill country of the Grazian foothills: [[place-wstrndscnt|the Western Descent]] where the range breaks up into brown hills above the Dunhari margin, and the dry slopes of the Vedyari marches below. It hunts lizards, birds, rats and other spiders by day, it is as curious as a cat and far cleverer than a spider ought to be, and it leaps twenty feet onto a man's back if he turns away from it.
+
+The hill people kill it when it comes into a house and otherwise watch it. It is not a thing that attacks a wary man; it is a thing that attacks the moment he stops being wary.
 
 ## Presentation
 
-The Giant Jumping Spider has a compact, heavily-haired body in shades of glossy black, brown, or gray with mottled patterning that provides excellent camouflage. The abdomen is large and bulbous, the cephalothorax (head-body) is squat and muscular, and the legs are long, articulated, and powerful. The most distinctive features are the eight eyes: eight large, forward-facing orbs arranged across the front of the head, with the two largest dominating the face and giving an impression of intense awareness. The eyes are reflective and gleam with intelligence. The fangs are prominent, and the legs are equipped with small claws and fine hairs that aid in climbing and gripping.
+A compact, heavily furred spider in glossy black, brown or gray with a mottled pattern that matches dry rock and bark. The forebody is squat and muscular and the abdomen rounded. The legs are thick and strong, the hind pair most of all, and end in small claws and tufts of fine hair that grip glass-smooth stone. The face carries eight eyes in a row across the front, the two central ones very large, forward-set and reflective, and the whole animal gives the impression of looking at a person, because it is. The fangs are short, dark and strong.
+
+## In the Land
+
+Giant Jumping Spiders live on the dry southern slopes of the Grazian range, on the broken brown hills of the Western Descent, in the rock-walled gullies of the Vedyari march country, and in the ruined walls and terraces the hill-farmers have abandoned. They want sun, bare rock to hunt across and crevices to spin a silk sleeping-cell in, and they are commonest where lizards are. They are seen on the walls of hill villages and in the rafters of barns, and the farmers of the marches know the one that lives in their terrace-walls by sight.
 
 ## Key Behaviors
 
-Giant Jumping Spiders are solitary hunters that establish territories but do not defend them violently—instead, they simply maintain hunting grounds and silk-lined refuges. They are diurnal and most active during daylight hours when their vision is most effective. A spider stalks prey methodically, using its sharp vision to track movement from considerable distances, then closes with a single explosive leap when the distance is right. They are not web-builders—they create only small silk shelters for rest and safety, and they lay down silk anchor lines during jumps for safety in case of miscalculation. They communicate visually with other spiders during mating season, using elaborate displays.
+The spider hunts by day, in sunshine, by sight. It sees a lizard move at a hundred paces, works toward it in short runs from cover to cover, judges the last leap, and lands on the prey with its fangs already in. It anchors every leap with a silk line behind it so that a miss does not kill it, and the line is its road back up the rock. It builds no web, only a silk cell in a crevice to sleep and molt in. It keeps a hunting ground and does not fight for it; two spiders meeting merely watch each other and part. In the spring the males dance for the females on a flat rock in the sun, waving their forelegs in patterns the hill children know by name. It learns a route, remembers a hiding place, and works out how to get at a bird in a cage.
+
+## What the Hill People Do
+
+The march farmers kill a spider that moves into the house and let one that keeps to the terrace-walls stay, because it kills the rats. Children are taught never to turn their back on one and never to run, since a running thing is a thing to be jumped on; a spider met on a path is faced down, slowly, until it loses interest, which it does. Herdsmen on the Western Descent sleep with a fire and their faces covered. The venom is bought by the physicians of the Vedyari foothill towns, who use it in a dose that numbs a limb for surgery, and a hunter takes a spider for it with a long forked pole and a jar, in the cool of early morning when it is slow.
+
+## Signs
+
+- A silk line, fine and very strong, stretched from a rock to the ground where nothing walks.
+- A lizard or a rat on a wall-top, dried and light, with two punctures in the back.
+- A small silk cell the size of a fist in a crevice, with shed skin inside it.
+- A patch of mottled rock that has turned to face the path.
+- Birds that will not land on one stretch of wall.
 
 ## Combat Strategy
 
-A Giant Jumping Spider relies on surprise and the shock of sudden violence. It stalks prey from distance, evaluates the target carefully, then closes with a leap that covers enormous ground in an instant. Upon impact, the spider attempts to grapple and bite, injecting venom to paralyze. If the initial attack fails or if the target is unexpectedly dangerous, the spider leaps away to distance itself and reassess. A spider in combat with a dangerous opponent will make multiple hit-and-run attacks, always maintaining escape routes and using the environment to its advantage. A cornered spider becomes aggressive but retains its preference for tactical positioning.
+The spider waits for a back to be turned and leaps. It lands on the shoulders or the neck, grips with all eight legs, and bites at once, and it keeps biting as the venom takes hold. A man who turns and faces it before it leaps is usually not leaped on. If the prey fights hard it springs away on its line to a safe height, watches, and comes again when the man's attention goes elsewhere; it will do this several times. Cornered in a crevice it bites whatever reaches in. It cannot be outrun across rock, and it goes up a wall faster than a man can turn round, so the defense is to face it, keep facing it, and strike when it is on the ground between leaps.
 
 ## Attack Methods
 
 ### Venomous Fangs
 
-The spider’s bite injects a fast-acting venom designed to paralyze prey—a creature bitten by a giant jumping spider must resist the venom or be paralyzed by degrees. The venom is not lethal to humanoids unless exposure is extreme.
+The fangs go into the neck or the shoulder and the venom follows. The bite numbs first and paralyzes after; it kills a man only when he has taken several bites and no help.
 
 ### Pouncing Tackle
 
-The spider uses its leap to land atop prey and grapple—the impact and the spider’s weight are combined with the grip of the spider’s legs to hold the target in place while the fangs deliver venom.
+Twenty feet of leap ending on the prey's back, with the weight of the spider and the grip of eight legs holding it there while the fangs work.
 
 ## Special Abilities
 
 ### Leaping Strike
 
-The Giant Jumping Spider can leap up to 20 feet in a single bound, carrying its full body weight and delivering a powerful impact attack. The leap is nearly impossible to dodge if the spider has surprise.
+The spider leaps twenty feet from a standing start, onto a wall or a man, and a leap from behind is not dodged.
 
 ### Perfect Vision
 
-The spider’s eight eyes give it superb depth perception and tracking of motion. The spider can spot movement from great distances and judge distances with precision.
+Its eyes see movement at a great distance and judge a distance to the inch. It finds its prey by sight and never by chance.
 
 ### Silk Safety Line
 
-When leaping, the spider lays down a silk line that provides both safety (preventing fatal falls) and a pathway for rapid retreat. This silk is tough and difficult to sever.
-
-## Additional Information
-
-A dead giant jumping spider’s fangs are sometimes harvested and used to craft weapons that deliver venom. The spider’s own venom is valuable to alchemists. Some have attempted to domesticate or recruit jumping spiders as allies—the creatures are intelligent enough that negotiation is theoretically possible, though results vary widely.
+Every leap trails a line anchored behind it. A missed leap is caught by the line, and the line is the spider's way back up the rock out of reach.
 
 ## Attributes
 

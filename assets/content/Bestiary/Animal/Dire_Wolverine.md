@@ -246,51 +246,69 @@ sohl:
 
 ![[drwlvrn|Dire Wolverine]]{float=top-left}
 
-The reek precedes the beast—a musky, animal smell mixed with something wild and fearless. What emerges is compact, squat, low-slung yet terrifyingly massive. Three feet tall at the shoulder, the Dire Wolverine is built entirely of muscle and aggression, a wedge of coiled fury wrapped in dark fur. The claws, curved and wickedly sharp, extend inches beyond the paws. The teeth, when visible in a snarl, promise a bite capable of crushing bone. The eyes—small, dark, devoid of fear—fix directly on you with singular intent. The sound it makes—a growl that rumbles like distant thunder—vibrates through your chest and carries the promise of something that will fight until death and drag you with it.
+The trap-line runs along the frozen stream, and the third set is sprung, the bait gone and the snow trampled flat around it. The fourth is sprung too. At the fifth the trapper stops and lifts his head, because the smell has reached him: rank musk, thick enough to taste. On the far bank, squat and dark against the snow, a shape the height of a man's hip is standing over the sixth trap with the fox from it in its jaws. It does not run. It watches you over the fox, growls low enough to feel in the chest, and goes on eating.
 
 # Dossier {#dossier}
 
-The Dire Wolverine is one of the most dangerous terrestrial predators, pound for pound. Standing three feet tall at the shoulder and weighing two hundred fifty to three hundred fifty pounds, these solitary mustelids are found in cold forests, mountains, and tundra regions. A Dire Wolverine is essentially a wolverine magnified to lethal proportions—it retains the fearlessness, aggression, and unstoppable persistence of its smaller cousins but adds the mass and strength to match or exceed bears and wolves in direct combat. These creatures are solitary and extraordinarily territorial, defending vast ranges against any perceived intrusion. A Dire Wolverine has been documented challenging and killing bears, wolf packs, and groups of hunters. They are famously immune to pain and fear—a wolverine that loses a limb will continue fighting with undiminished aggression. Adventurers in cold regions may encounter these creatures while traveling, camping, or hunting in wilderness.
+The Dire Wolverine is the big wolverine of the far north, three feet at the shoulder, a hundred and fifty pounds and more, found in the boreal forest and the high plateaus of the [[place-nrdlndsrgn|Nordlands]], the taiga and frozen coast of [[place-gwtkrrgn|Gwatekor]], and the northern spruce belt of [[place-vrystwald|Vrystwald]]. It is a solitary animal that holds twenty or thirty square miles of cold country, eats anything it can kill or find dead, and will not be driven off what it has claimed by a bear, a wolf pack or a man with a spear. Trappers hate it more than any other animal in the forest, because it follows a trap-line and eats the catch.
+
+It kills men seldom and only when crossed, and the people who cross it are the trappers and hunters who live by the forest and meet it every winter.
 
 ## Presentation
 
-A heavily muscled mustelid built low to the ground with a wide stance. The head is small, broad, and powerful with a relatively short snout and strong jaw structure. The eyes are small and dark. The ears are rounded and set close to the head. The body is barrel-shaped, wider and deeper than tall, with unusually short legs positioned laterally. The fur is dense, typically dark brown to black with pale stripes or patches. The claws are curved, non-retractable, and measure up to two inches long. The tail is short and bushy. The overall impression is of a creature engineered for power and aggression rather than grace or speed.
+A low, broad, heavy mustelid, wider than it is tall, on short thick legs set wide. The head is small and blunt with powerful jaws and small dark eyes; the ears are round and close to the skull. The coat is dense and dark brown to black, with a pale band running along each flank, and it sheds frost and water. The foreclaws are curved, fixed and two inches long. The tail is short and bushy. The whole animal is built for strength and endurance and not at all for speed or grace, and it smells of musk at a distance.
+
+## In the Land
+
+Dire Wolverines range the spruce and pine forests south and east of the fjords, the caribou plateaus behind them where the reclusive clans live, and the bog and taiga of Gwatekor to the east, and they are met in the northern taiga of Vrystwald where the trapper clans run their lines. They are commonest where the caribou winter and where wolves make kills to steal. A wolverine's range is a circuit it walks over a week or two, and it caches what it cannot eat under snow or rock and comes back for it.
 
 ## Key Behaviors
 
-Dire Wolverines are solitary and move through vast territories, sometimes ranging twenty to thirty square miles. They are omnivorous but primarily carnivorous, eating meat from kills, scavenging, and hunting small to medium prey. They cache food, storing kills in protected locations for consumption over time. They are nocturnal or crepuscular, most active during dawn, dusk, and night. They breed once yearly, with females becoming particularly aggressive during breeding season and while raising young. They are long-lived, sometimes reaching twenty years. They are famous for their fearlessness, attacking animals far larger than themselves without hesitation.
+The wolverine is out by night and in the gray hours and sleeps through the middle of the day in a den under a windfall or a rock. It takes carrion by preference, drives wolves and bears off their kills, and hunts hares, birds, marmots and, in deep snow, caribou that cannot run. It caches food and remembers the caches. It breeds once a year, and a female with kits in her den is the most dangerous wolverine there is. It lives twenty years. It does not flee anything, and the forest peoples count that as its defining fact: a wolverine that has decided a kill or a cache or a trap-line is its own stands on it.
+
+## What the Trappers Do
+
+A trapper who finds a wolverine on his line pulls the line and moves it twenty miles, because the animal will walk the whole of it every night for as long as it finds anything. Where the line cannot be moved, the sets are hung from trees and the baits are poisoned, and even then a wolverine often takes the bait and lives. Nobody sends a dog at it. The pelt is the best fur in the north for a hood-ruff, because frost from the breath does not freeze to it, and a prime one brings more at the fur markets of the fjords than two bear hides. The hunters who take them do it in deep snow, on skis, when the animal's short legs sink and theirs do not.
+
+## Signs
+
+- Trap after trap sprung along a line, the bait gone and the catch eaten or carried off.
+- A cache of meat under snow with a strong musk on it, and tracks returning to it from several directions.
+- Five-toed prints as wide as a man's palm, claws showing, in a loping gait that does not change pace.
+- A wolf kill with the wolves sitting fifty yards from it, waiting.
+- A low growl from under a windfall that does not stop at a shout.
 
 ## Combat Strategy
 
-A Dire Wolverine's strategy is direct and overwhelming: charge at the threat, use massive claws to open wounds, bite with crushing force, and continue attacking until something stops moving. The creature does not use terrain or tactics—it simply overwhelms through superior strength and refusal to accept defeat. Injured wolverines become more aggressive, not less.
+The wolverine charges, claws, bites and holds. It does not use ground or feint; it comes straight at whatever has provoked it and keeps coming, and pain makes it fiercer. It goes for the legs first and then the throat. A man on skis with a long spear can hold it off and strike as it comes through deep snow; a man on foot in the forest cannot outrun it and cannot make it stop. It leaves a fight only when the thing it was defending is gone or the enemy is.
 
 ## Attack Methods
 
-### Raking Claw Attacks
+### Raking Claws
 
-Using powerful forelimbs, the wolverine rakes with claws each exceeding two inches, capable of tearing through flesh and armor. Multiple rake attacks open deep wounds.
+The forepaws rake with two-inch claws that open leather and flesh. Several rakes together leave deep, heavily bleeding wounds.
 
 ### Crushing Bite
 
-The wolverine bites with tremendous force, capable of crushing bone. Bites to limbs can sever, bites to vital areas can be fatal.
-
-### Throwing and Pinning
-
-The wolverine's strength allows it to throw opponents and pin them using body weight and grip strength.
+The jaws crush bone. A bite on an arm or a leg breaks it, and a bite on the throat kills.
 
 ## Special Abilities
 
+### Throwing and Pinning
+
+The animal's strength is far beyond its size: it throws a man down with a rush of the shoulder and holds him under its weight and grip while it bites.
+
 ### Fearless Aggression and Pain Immunity
 
-A Dire Wolverine charges threats without hesitation and continues fighting even with mortal wounds. Pain does not trigger retreat—instead, it seems to amplify aggression. A dying wolverine is more dangerous than a healthy one.
+The wolverine attacks animals many times its own size without hesitation and keeps fighting with wounds that would stop a bear. A wolverine that is dying is more dangerous than one that is whole.
 
 ### Overwhelming Strength and Durability
 
-The wolverine's strength exceeds expectations for its size. It can survive injuries, continue functioning with disabled limbs, and maintain combat effectiveness despite damage that would incapacitate other animals.
+It drags a caribou carcass through snow, breaks a wolf's back in its jaws, and goes on fighting with a leg disabled.
 
 ### Thick Hide and Insulation
 
-Dense fur and thick skin provide protection against bites and slashing attacks, making the wolverine more resilient than expected.
+The dense coat and tough hide turn a glancing cut and blunt a bite, and the animal works in cold that stops every other hunter in the forest.
 
 ## Attributes
 

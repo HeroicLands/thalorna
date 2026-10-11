@@ -246,59 +246,73 @@ sohl:
 
 ![[drhnybdg|Dire Honey Badger]]{float=top-left}
 
-The creature itself seems wrong—wrongly large, wrongly aggressive, wrongly unafraid. Standing nearly chest-height to a human, the animal is a bundle of pure muscle wrapped in thick, loose skin covered in coarse black fur with a stark white stripe running down spine and shoulders. The claws—easily the length of human fingers—protrude from powerful paws built for excavation and destruction. The smell hits next: a musky, acrid reek that burns nostrils and carries the promise of something willing to die before surrendering. When it fixes its dark eyes on you and takes a step forward, you feel not predatory attention but something worse: the focus of a creature that has already decided you are prey and is calculating the angle of attack.
+The cattle have bunched at the far end of the pan and will not come to the water, and the herd-boys are up on the rocks shouting at something you cannot see in the grass. Then the grass parts, and an animal the height of your chest walks out of it toward the pool with no more hurry than a bull. Black, a white stripe from the brow down the spine, loose skin rolling over heavy shoulders, claws the length of your fingers clicking on the stone. The smell reaches you a moment later, musk and something acrid. It drinks. Then it lifts its head and looks at the herd-boys, and the shouting stops.
 
 # Dossier {#dossier}
 
-The Dire Honey Badger is a creature of terrible reputation and deserved fear. Standing four feet tall at the shoulder and measuring seven to eight feet in length, weighing three hundred to four hundred pounds, this animal is essentially a honey badger scaled to lethal proportions. With the size has come proportionally greater strength, toughness, and aggression than its smaller cousin possesses. Dire Honey Badgers are found in grasslands, savannas, and forests where suitable prey exists. They are solitary and extraordinarily territorial, defending ranges that span several miles against any and all intrusion. They are known to hunt prey much larger than themselves—deer, wild boar, even young ungulates—through sheer aggression and refusal to break off combat. A Dire Honey Badger wounded by humans will specifically hunt those humans in future encounters. Their fearlessness is famous; they attack predators without hesitation and continue fighting even when facing opponents that dwarf them in size. Adventurers in appropriate terrain may encounter these creatures while traveling, camping, or actively hunting. A single Dire Honey Badger can kill an entire company of inexperienced soldiers through superior strength, toughness, and relentless aggression.
+The Dire Honey Badger is a four-hundred-pound mustelid of the open country of the [[place-sthrnsvnhs|Southern Savannahs]], four feet at the shoulder and seven or eight feet long, black with a white stripe down its back: a honey badger grown to the size of a bear and no gentler for it. It is solitary, it holds a range of five to twenty square miles against everything in it, and it attacks lions, hyenas and men with the same lack of hesitation. The cattle people of the savanna rank it with drought and the raiding of neighbors among the things that take cattle, and they do not hunt it.
+
+It is not a hunter of men by choice. It kills what crosses it, and a man who has hurt one is a thing it remembers.
 
 ## Presentation
 
-A heavily built mustelid with a compact, powerful frame built on sturdy legs of surprising length. The body is covered in thick, loose skin not directly attached to underlying muscle—this adaptation provides protection against bites and penetrating attacks. The fur is coarse and thick, typically glossy black with a distinctive white stripe running from the face down the center of the back and spine—some individuals show additional white patches. The face is small and nearly featureless, with small dark eyes and a nose positioned for scent-hunting. The mouth is powerful with a substantial jaw full of sharp, functional teeth. The claws are very long and sharp, curved, and designed for digging and tearing—some individuals have claws exceeding three inches in length. The ears are small and positioned laterally. The tail is short and powerful. The overall impression is of a creature designed for fighting, digging, and doing harm rather than speed or grace. The creature's presence fills a space disproportionately to its size.
+A heavy, low-slung animal on legs longer than a badger's ought to be, with a thick, loose hide that slides over the muscle beneath so that a bite or a spear-point that lands does not hold. The coarse fur is glossy black, with a broad white stripe from the forehead down the back to the tail, and some animals carry white patches besides. The face is small and blunt, with little dark eyes and a nose built for scenting; the jaws are deep and full of working teeth. The foreclaws are curved and as long as a man's fingers, made for digging and tearing. The ears are small and set back, and the tail is short. It fills more of a place than its size accounts for.
+
+## In the Land
+
+Dire Honey Badgers live in the tall-grass belt south of the [[place-cntrlrnfrsts|Central Rainforests]] and across the open central savanna, wherever there are termite mounds to break, bee-trees to rob and small game to dig out, and they follow the great herds at a distance for the calves and the carrion. The wet-season pans and the rock outcrops with their dens hold the most of them. They are less common in the dry southwest and absent from the deep forest. A range with good hunting is five square miles; a poor one is twenty, and the animal walks all of it.
 
 ## Key Behaviors
 
-Dire Honey Badgers are solitary and intensely territorial. They mark territory extensively and will patrol boundaries, confronting rivals. Territory size is determined by prey availability—a territory with abundant prey may be five square miles; a territory in marginal habitat may span twenty square miles. They are crepuscular, most active during dawn and dusk but capable of hunting at any time. They are primarily carnivorous, hunting small animals, birds, and large prey when opportunity allows. They will eat insects (particularly honey bees and their nests, despite the name), roots, and carrion. They are famous for their courage and willingness to confront larger predators in defense of territory. There are documented cases of attacks on lions, hyenas, and other apex predators that threatened their range or kills. They do not appear to experience fear in any way comparable to other mammals—or if they do, it does not affect their combat behavior. They are long-lived animals, sometimes reaching twenty years or more. A Dire Honey Badger that has successfully killed humans will specifically hunt that individual in future encounters.
+The badger is out at dawn and dusk and at any hour it pleases. It eats whatever it finds: grubs and honey dug out of a bee-tree with its claws, snakes, hares, ground birds, roots, carrion, and a calf or an antelope fawn when it comes on one. It marks its range heavily and walks its boundaries, and it meets another badger at the boundary with a fight. It does not run from a larger animal. Herders on the savanna tell of lions driven off a kill by one badger and of hyena packs that broke and scattered, and the stories are true often enough that the lions themselves give it room. It lives twenty years, and an old one carries the scars of all of them. A badger that has been speared and lived knows the smell of the man who did it.
+
+## What the Herders Do
+
+The cattle clans of the savanna treat a badger's range as a thing to be known and gone round. The herd-boys learn its den sites and its bee-trees, water the cattle at another pan when the animal is at this one, and never set the dogs on it, because the dogs die. A clan that loses a calf to one loses the calf. The honey-hunters of the forest margin follow a badger's diggings to find bee-trees and take their share after it has gone. Its hide, with the loose fold that turns a point, is cut into shields by the clans of the central grass and is worth several head of cattle, and the few men who kill one for it do it from a tree, with spears, over a kill the animal will come back to.
+
+## Signs
+
+- Termite mounds torn open from the side, with the earth thrown back in a heap.
+- A bee-tree ripped to the heartwood, the comb gone and the bees still swarming the wound.
+- Broad five-toed prints with long claw marks, walking straight across a cattle track without turning.
+- Cattle bunched at the far end of a pan and refusing the water.
+- A heavy musk in the air near rocks, strong enough to make the dogs whine and sit down.
 
 ## Combat Strategy
 
-A Dire Honey Badger's primary strategy is to charge directly at threats with full aggression, using its strength and toughness to overwhelm opponents. It focuses on vulnerable areas: legs, throat, and extremities where blood loss can be high. Once it has closed distance, it fights with suicidal determination, attempting to incapacitate the opponent through wounds or shock. The creature does not retreat unless literally unable to move. Injured badgers become more aggressive, not less—pain and blood scent trigger deeper aggression. Against multiple opponents, the badger focuses on the closest threat, attempting to eliminate individuals one by one rather than distributing attacks.
+The badger goes straight in. It charges whatever has provoked it, goes for the legs and then the belly and throat, and does not stop. Pain and the smell of its own blood make it worse. It fights one opponent at a time, the nearest, and turns to the next when that one is down. It does not retreat while it can move, and a party that wants to live through meeting one either kills it outright, from a distance, or gets out of its range and stays out. A spear-thrust finds flesh under the loose hide only when it goes in deep.
 
 ## Attack Methods
 
-### Slashing with Claws
+### Slashing Claws
 
-The badger uses its long, sharp claws in rapid slashing attacks, attempting to open wounds that bleed heavily. Claw attacks often target the legs, seeking to hamstring or sever arteries. The claws are powerful enough to penetrate leather and light armor.
+The foreclaws rake fast and low, at the legs first, opening the long muscles and the vessels behind the knee. They cut leather and light mail.
 
-### Biting and Crushing
+### Crushing Bite
 
-The badger bites with tremendous force, attempting to crush bone and sever arteries. Bites to the legs, arms, throat, or face can be devastating. Once the badger has bitten, it often maintains the bite while using its body weight to force the target down.
-
-### Throwing and Slamming
-
-Using its strength, the badger can knock down and throw opponents, slamming them against obstacles or the ground. This technique is used to disorient targets and create opportunities for subsequent biting attacks.
-
-### Disemboweling Attacks
-
-Against targets the badger has knocked down, it may attempt disemboweling attacks with claws or teeth, focusing on abdominal areas where armor is often lighter and blood loss is rapid.
+The jaws close on an arm, a leg or a throat and break what is in them. Once it has bitten the badger holds, and drives its weight forward to bring the man down. A man on the ground is opened at the belly.
 
 ## Special Abilities
 
+### Throwing and Slamming
+
+The badger knocks a standing man off his feet with its shoulder and weight and drives him into the ground or against rock, then bites.
+
 ### Suicidal Aggression and Fearlessness
 
-The Dire Honey Badger is famous for attacking predators far larger than itself without hesitation. It does not know fear or recognize when it is outmatched—it simply commits to combat. Once engaged, the badger continues attacking with full strength even while suffering mortal wounds. This fearlessness and refusal to retreat make it extraordinarily dangerous.
+The badger attacks animals many times its size without hesitation and goes on attacking while it is dying. It does not recognize that it is losing.
 
 ### Exceptional Durability and Armor
 
-The thick, loose skin provides protection that normal hide does not—impacts are partially absorbed by tissue movement rather than transferred directly to underlying structures. The loose skin also provides slashing resistance, as teeth and claws cannot easily achieve purchase. Cutting and biting attacks are notably less effective than expected given the badger's size.
+The loose hide slides over the muscle, so that a bite or a point that lands does not reach what it was aimed at, and a cut that would open another animal opens a fold of skin.
 
 ### Strength Disproportionate to Size
 
-The Dire Honey Badger's strength exceeds that of predators many times its size. It can knock down large humans, throw opponents, and bite through bone. This strength advantage, combined with toughness and fearlessness, allows a single badger to overcome opponents relying on size advantage.
+It throws a grown man, breaks a thigh-bone in its jaws and drags a calf by the neck. Its strength is a bear's.
 
 ### Pain Tolerance and Continued Function
 
-A Dire Honey Badger can sustain injuries that would incapacitate other animals and continue fighting. Broken bones, severe lacerations, and organ damage do not trigger retreat or reduce combat effectiveness. A badger can literally be dying from mortal wounds and still be fighting with full ferocity.
+Broken bones, deep wounds and a spear through the body do not slow it while it has blood left. It fights at full strength until it falls.
 
 ## Attributes
 

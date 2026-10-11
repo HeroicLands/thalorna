@@ -285,55 +285,69 @@ sohl:
 
 ![[tnvrnelp|Tānvüran Elephant]]{float=top-left}
 
-An impossible vastness approaches, and you understand that you're looking at sheer physical power given form. The elephant moves with surprising grace for its size, its massive gray form calm and purposeful. The domed head gives it a regal appearance, and the trunk curves and flexes with obvious intelligence and control. The tusks, if present on males, are less prominent than you might expect, but the trunk itself is clearly sufficient weapon for any task. The eyes are surprisingly intelligent and aware, suggesting real thought behind the size.
+The road of fitted stone is wide enough for two carts, and the elephant takes up all of it. It comes on at an easy walk with a load of timber chained across its back, gray and domed of head, its ears small and close to its skull, its trunk swinging and curling as it walks. A wooden tablet on a cord hangs from the harness at its shoulder, painted with a number. The keeper walking at its head in undyed hemp touches its leg with a cane and says a word, and the animal stops dead and stands aside for you, and turns one large, steady eye on you as you pass.
 
 # Dossier {#dossier}
 
-The Tānvüran Elephant is a massive megafauna creature standing 8-10 feet at the shoulder and weighing up to 6-7 tons, found in grasslands, forests, and savanna regions across the Tānvür empire and surrounding lands. These highly intelligent creatures are frequently domesticated for labor, transportation, and ceremonial use, but wild populations remain dangerous. Adventurers encounter them primarily as companions to civilized peoples or while traveling through wild elephant territory.
+The Tānvüran elephant is the elephant of the far east of [[place-ankrscntnnt|Ankaris]]: eight to ten feet at the shoulder, five tons and more, domed of head and small of ear, with short tusks in the bulls and none to speak of in the cows. It is the heavy laborer of the [[affiliation-tanvurempr|Empire of Tānvür]]—hauling timber and stone, turning great water-wheels, carrying the baggage of armies and the litters of the great—and wild herds still live in the forests and grasslands of the river basins and the hills beyond the terraces. A tame one is the most valuable animal a household can own; a wild one, or a tame one gone wrong, is the most dangerous animal in the empire's settled country. It is clever enough to learn many dozens of words and to remember a face for its whole life.
+
+The empire's bureaus have classed it, as they class everything. To the [[lore-tanthei|Tānthëi]] it is a natural kind, a life-group of the sorted world, and every tame elephant in Tānvür is entered in a register with its number, its keeper's lineage and its work.
 
 ## Presentation
 
-The tānvüran elephant is smaller and more refined than its Xerathian cousin, with a distinctly domed forehead and proportionally smaller ears. The skin is thick and gray, with wrinkled texture. Males may possess tusks but they are less prominent than Xerathian specimens. The trunk is extraordinarily dexterous and powerful. The legs are thick and columnar, adapted for supporting massive weight. The eyes are proportionally large and expressive, indicating intelligence.
+A huge gray animal, smaller and more compact than the elephants of [[place-vedyarargn|Vedyara]] and the south, with a high domed forehead in two rounded lobes, small ears that lie close to the head, and a back that rises to its highest point between the shoulders. The skin is thick, gray and wrinkled, often freckled pale at the ears and the base of the trunk with age. Bulls carry tusks, short and thick; cows carry little stubs or none. The trunk ends in a single fingerlike tip, strong enough to lift a log and fine enough to pick up a coin. The legs are thick columns. The eyes are larger and more expressive than its size suggests.
+
+## In the Land
+
+Wild herds range the forests and grasslands of the [[place-tanvuregin|Tānvür]] heartland's river basins where the terraces have not reached, and the wooded hills toward the frontiers, moving between the river margins in the dry season and the high grass in the wet. They raid the terraced fields at the forest's edge, and a herd that has learned the taste of rice comes back. Tame elephants are everywhere there is heavy work: in the timber-yards along the rivers, in the quarries, in the stables of the Warlords, and in the baggage-trains of the armies that garrison the western passes.
 
 ## Key Behaviors
 
-Tānvüran elephants are highly social and intelligent, forming close bonds within herds and mourning when members die. They are frequently domesticated and capable of learning complex tasks and commands. Wild herds are protective of young and will defend aggressively against threats.
+A wild herd is a family of cows and calves led by an old cow, and it lives by her memory of water, food and danger; bulls go alone or in small groups. Elephants are close to one another, mourn their dead and stand over the bones of their kin. A bull in musth is violent and unpredictable for weeks, and even a well-trained tame bull is chained in its season. Tame elephants learn complex work, follow spoken commands, and form bonds with their keepers that last their lives; an elephant that is mistreated remembers the man who did it, and some have killed him years later.
+
+## What the Tānvüri Do
+
+Elephant-keeping is a hereditary trade in Tānvür, passed from father to son within a lineage, and a keeper raises a young elephant from the age of four or five and works it until one of them dies. The animals belong to whoever holds their register: a Warlord, a temple, a ministry, a great household. A wild herd raiding the terraces is reported to the district office, and the office sends men to drive it off with drums and fire, or to take its young for the stables; a farmer who kills a wild elephant without leave has destroyed something the register might have claimed. In war the [[lore-vushok|Vüshōk]] use elephants to carry, to haul siege engines and to break gates, and some lords put armored archers on their backs. Elephant ivory is entered in the same ledgers as gold.
+
+## Signs
+
+- Stripped bamboo and broken saplings along a forest track, chewed and dropped.
+- A terraced rice-field trampled flat in one night, with the bank broken through.
+- Round prints as wide as a platter in the mud of a river crossing.
+- A low rumbling from the forest at dusk that the buffalo stop to listen to.
+- A tame elephant in a timber-yard that will not let one particular man near it.
 
 ## Combat Strategy
 
-An elephant charges directly at threats using its massive body and tusks to gore and batter. The trunk can grapple and throw opponents. Elephants defending young or herds become nearly unstoppable.
+A wild elephant charges to drive off a threat and seldom to kill it; it comes with ears spread and trunk raised, trumpeting, and very often stops short. When it does not stop, it knocks a man down with its weight, kneels on him or kicks him, and hooks or gores him with a tusk. The trunk snatches a man up and throws him. A herd defending its calves charges together and does not stop. A tame war-elephant goes where its keeper sends it, through a gate or a shield-line, and a war-elephant whose keeper has been killed turns and runs through its own army. Fire, drums and the death of its keeper are what break one.
 
 ## Attack Methods
 
-### Charging Impact
+### Tusk
 
-The elephant charges with all its weight behind it, attempting to gore with tusks or simply trample opponents.
+A bull drives a tusk into a man on the ground or held in its trunk. The tusks are short and thick and the wound is crushing as much as piercing.
 
-### Trunk Grab and Throw
+### Kick
 
-The trunk seizes opponents and can lift and throw them with tremendous force.
-
-### Crushing Stomp
-
-The elephant's feet can crush targets, inflicting devastating injury.
+The feet stamp down on what the charge has knocked over, and the elephant kneels on a man and crushes him.
 
 ## Special Abilities
 
-### Incredible Strength
+### Charging Impact
 
-The elephant possesses strength far exceeding most land creatures.
+Five tons at a run go through a palisade, a gate or a line of men, and the elephant tramples what is behind it.
+
+### Trunk Grab and Throw
+
+The trunk seizes a man by the arm or the body, lifts him, and throws him or holds him for the tusk and the foot.
 
 ### Intelligent Manipulation
 
-The trunk can be used to manipulate environment and objects with surprising precision.
+The trunk unties a knot, lifts a bar, draws a pin and opens a gate. A clever elephant has opened a stable that was meant to hold it.
 
 ### Herd Coordination
 
-Elephants coordinate defensive actions through vocalizations and body language.
-
-### Additional Information
-
-Tānvüran elephants are domesticated and reliable when properly trained and treated well. Wild elephants defending young are nearly unstoppable. The creature's tusks (when present) can be harvested and are valuable for crafting and decoration.
+A herd calls by rumbles too low for a man to hear well, gathers its calves to the middle, and turns its cows outward together.
 
 ## Attributes
 

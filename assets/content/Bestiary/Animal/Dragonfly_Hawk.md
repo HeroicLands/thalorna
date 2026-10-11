@@ -229,47 +229,65 @@ sohl:
 
 ![[drgnflyh|Dragonfly Hawk]]{float=top-left}
 
-The sound reaches you first: a high-pitched whine like a distant saw cutting metal, growing closer with terrifying rapidity. Then you see it: a creature of nightmare proportions—a dragonfly magnified to lethal size, a body five feet long composed of gleaming segments of iridescent chitin. The wings beat so rapidly they're nearly invisible, producing a high, unceasing hum that sounds almost like pain. The mandibles—massive, shearing structures—snap open and shut in patterns suggesting hunger. The eyes—faceted, capturing light like a thousand tiny mirrors—fix directly on you with predatory intensity as the creature circles, testing, assessing.
+The boat is halfway across the lake when the whine starts, high and thin, like a saw on metal somewhere behind the reeds. The boatman stops rowing. It comes in low over the water at the speed of a stooping falcon, five feet of blue-green segments flashing in the sun, four wings a blur, and checks dead in the air above the stern with the hum beating down on you. Two eyes like faceted jewels the size of fists turn, and the mandibles under them open and close.
 
 # Dossier {#dossier}
 
-The Dragonfly Hawk is an aerial predator of nightmare proportions: a dragonfly scaled to lethal size. Measuring five to seven feet from head to tail tip, with a wingspan of six to eight feet, these creatures are found in areas with water: rivers, lakes, marshes, and coastal regions. They are solitary hunters except during brief mating periods, when multiple individuals may congregate. A Dragonfly Hawk hunts by sight, pursuing prey from the air with speed and maneuverability that few creatures can match. They are known to hunt creatures as large as humans, though they prefer smaller prey. Their armor-like exoskeleton and speed advantage make them extremely difficult to threaten. Adventurers encounter them while traveling near water, camping on riverbanks, or crossing open terrain where an aerial predator has the upper hand.
+The Dragonfly Hawk is a dragonfly five to seven feet long with a wingspan of six to eight, a hunter of the open water of [[place-vrystwldrvrs|Vrystwald's rivers and lakes]] and the marshes of [[place-grkrhlmrgn|Grukarhölm]], which takes birds, fish and small animals on the wing and from the surface and will take a child or a dog from a landing. It weighs fifteen pounds, most of it wing-muscle, and it is the fastest thing in the air over the northern forest. The Varokh fishing villages along the rivers know each one that hunts their stretch of water by its perch.
+
+It is dangerous to a grown man only when he is in a boat or on a bank with nowhere to go. There it comes in again and again, and nothing a man carries reaches it.
 
 ## Presentation
 
-An enormous insect with an elongated body composed of articulated segments of iridescent chitin, colored blue, green, or purple depending on light. The head is relatively small with enormous compound eyes and powerful mandibles capable of shearing. The thorax is muscular, supporting four wings of transparent membrane. The wings beat at frequencies that produce an audible hum. The abdomen is elongated and somewhat flattened, used for balance and maneuverability. The entire creature gleams with an almost metallic shine. Multiple sets of legs hang from the thorax, used for grasping prey during dives.
+A long, slim body of jointed chitin that shows blue, green or violet by the light, ending in a flattened tail. The head is small and nearly all eye: two faceted domes that see almost the whole sky at once. Below them the mandibles are a pair of shearing blades. The thorax carries four long clear wings that beat too fast to see and make the whine the villages listen for, and six legs hang from it, hooked, folded for flight and spread to seize. The whole animal gleams like oiled metal.
+
+## In the Land
+
+Dragonfly Hawks hunt the slow brown rivers, the lake systems and the flooded margins of the central forest belt, and the great marsh of Grukarhölm to the east, and they are found down the Vrystwald rivers as far as the landings. Each holds a stretch of water from a perch over it, a dead snag or an overhanging branch, and returns to the same perch every evening. They are commonest where the water is broad and open, at the lake mouths and the river bends, and absent from the deep forest and the dry uplands. They hunt by day and roost by night, and the first cold of autumn puts them down until the thaw.
 
 ## Key Behaviors
 
-Dragonfly Hawks are strictly aerial predators. They patrol territories, hunting insects and small animals from the air. They are capable of hovering, rapid acceleration, and precise maneuvering. They prefer open water or grassland where their command of the air counts most. They rest on perches above water, returning to the same sites repeatedly. They are most active during daylight and rest at night.
+The hawk patrols its water in long, fast passes and hovers to look. It takes a bird out of the air, a fish from just under the surface, a frog from a lily-pad, a duckling, a water-rat, and, where it has learned the habit, a chicken from a landing or a small dog from a jetty. It hunts alone except in the few days of the midsummer mating, when a lake may carry a dozen at once, which is the week the fishing villages keep their children indoors. It sees everything that moves below it and learns a boat's times.
+
+## What the Villages Do
+
+A fishing village that has a hawk on its water knows its perch and its hours and nets the other side of the lake at midday. Children are kept off the landings when the whine is heard. A man working a boat alone keeps a net to hand, since a hawk that has been netted once is wary of that boat afterward, and a few of the river villages set a tall frame of poles and cord over the landing, which stops the stoop. The wings, dried flat, are hung in the longhouses as a thing worth having; the eyes are taken by the Weskár of the owl villages for a reason they do not explain.
+
+## Signs
+
+- A high, thin whine over open water on a still day, like a saw on metal, rising and falling.
+- A dead snag or a leaning birch over a bend with the bark worn at one place and fish-bones at its foot.
+- Fish lying on a bank with the heads sheared off clean.
+- Waterfowl that will not settle on one reach of the lake.
+- A flash of blue-green crossing the water faster than a bird, low, and gone.
 
 ## Combat Strategy
 
-A Dragonfly Hawk attacks from the air using hit-and-run tactics. It dives at prey, attempts to strike with mandibles, then climbs away before the target can respond. Multiple dives let the hawk wound its prey again and again. Prey on the ground that cannot reach the sky is at its mercy.
+The hawk stoops and climbs. It comes in low and fast, strikes once with the mandibles, and is away before a man has turned round; then it comes again from another quarter. It never closes to grapple a thing it cannot lift, and against a party in the open it wounds one person repeatedly rather than fighting several. On water a boat can do nothing but keep rowing for the reeds, where the hawk will not follow among the stems. A net or a thrown cloak across the wings brings it down; so does a bow in a steady hand, because the stoop comes in on a straight line.
 
 ## Attack Methods
 
-### Shearing Mandible Strike
+### Shearing Mandible
 
-The Dragonfly Hawk dives and attempts to bite with mandibles capable of shearing through flesh and light armor. The strike is fast enough that defending is difficult.
+The hawk dives and bites as it passes. The mandibles shear through flesh and light leather and take a piece out of whatever they close on. The pass is too fast to parry.
 
-### Leg Grasping and Lifting
+### Leg Grasp
 
-The Dragonfly Hawk can grasp prey with its legs and lift it from the ground, carrying it aloft and potentially dropping it.
+The six legs close on a small animal, a child or a dog and lift it. A thing too heavy to carry far is dropped from a height.
 
 ## Special Abilities
 
 ### Blinding Aerial Speed and Maneuverability
 
-The Dragonfly Hawk moves through air with speed exceeding mounted horses. Its maneuverability allows it to perform aerial tactics impossible for ground-bound creatures. Prey on the ground has almost no defense against a predator in the air.
+Over open water the hawk outflies a galloping horse and turns in its own length. It hovers, stops dead, flies backward, and nothing on the ground or the water keeps pace with it.
 
 ### Multifaceted Vision
 
-Compound eyes see in many directions at once, making surprise nearly impossible.
+The eyes see nearly the whole sphere at once. Nothing comes at it from behind.
 
 ### Chitinous Armor
 
-The exoskeleton provides significant protection against cutting and crushing blows from ground-based weapons. Thrusts and arrows do better.
+The shell turns a sword cut and a club. A thrust or an arrow goes in between the segments.
 
 ## Attributes
 

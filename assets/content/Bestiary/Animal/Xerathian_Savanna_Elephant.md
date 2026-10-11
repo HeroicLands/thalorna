@@ -285,55 +285,67 @@ sohl:
 
 ![[xrthnsvn|Xerathian Savanna Elephant]]{float=top-left}
 
-Presence announces itself before sight—the earth trembles rhythmically with footfalls that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a second limb, deft and powerful, and the eyes hold a sadness and awareness that speak of deep intelligence and feeling. You understand you are looking at more than the largest of land animals: at a creature that thinks and feels.
+You feel them through the ground before you see them, a slow drumming that comes up through the soles of your feet. Then the herd comes over the rise in a long gray line: cows with calves walking under their bellies, and at the front an old cow taller than any animal you have seen, her ears spread like the sails of a boat, her tusks long and curved and yellowed at the tips. She stops. The whole line stops behind her. She lifts her trunk and tastes the wind in your direction, and the drumming goes on under your feet, deeper than sound, though no elephant is moving.
 
 # Dossier {#dossier}
 
-The Xerathian Savanna Elephant is the largest land creature in the world, standing 10-13 feet at the shoulder and weighing up to 10-14 tons, found in grasslands across the Xerathian continent and surrounding regions. These magnificent creatures are highly social, traveling in herds led by experienced matriarchs. Adventurers encounter them while crossing savanna regions or when herds conflict with human settlements.
+The Xerathian savanna elephant is the largest animal that walks anywhere in the world: ten to thirteen feet at the shoulder, five tons and more, with great fanning ears and long curved tusks in both bulls and cows. It lives in herds led by the oldest cows across the open grassland of the [[place-sthrnsvnhs|Southern Savannahs]] of [[place-xerathia|Xerathia]], and it moves with the seasons as the other great herds do: north into the wet belt below the [[place-cntrlrnfrsts|Central Rainforests]] to calve in the rains, and south through the central grass in the dry. It is peaceful when it is left alone and very dangerous when it is not. The herding clans of the savanna share their country with it, give it room, and count it among the things a sensible clan does not quarrel with.
 
 ## Presentation
 
-The savanna elephant is enormous, wrinkled and gray-skinned, with long curved tusks and ears proportionally larger than forest cousins. The trunk is powerful and dexterous. The overall presence is both magnificent and intimidating.
+A huge gray animal, deeply wrinkled, usually red or brown with the dust it has thrown over itself, with a back that dips behind the shoulders and rises again over the hips. The ears are enormous, wider than a man is tall, and fan constantly against the heat; spread wide, they make the animal look half again its size. Both sexes carry tusks, long and curving outward and up, heavy in the old bulls. The trunk is ringed and supple and ends in two fingerlike tips that pick a single seed from the dust. The eyes are small and dark under a heavy brow and watch with a steady attention.
+
+## In the Land
+
+Savanna elephants range across the whole breadth of the Southern Savannahs: the tall grass and the seasonal pans of the northern belt, where the rains flood the ground and the herds calve, the open central plains with their rocky kopjes and scattered baobabs, and the greener highlands of the southeast where the old stone enclosures stand. They avoid the dry southwest except along its rivers. A herd walks a round of hundreds of miles in a year, by routes the old cows remember, and it digs for water in the dry riverbeds with its feet and tusks, opening holes that every other animal of the country drinks from afterward. Where the herds pass, the trees are broken and the grass is cropped, and the next season grows thicker for it.
 
 ## Key Behaviors
 
-Savanna elephants are highly social, traveling in family groups led by matriarchs. They are intelligent and emotional, mourning dead and forming bonds. They spend much of their time foraging. They are generally peaceful unless defending young or territory.
+A herd is a family of related cows and their young, led by the oldest cow, and it lives by her memory: where water lies in a drought year, which pans fill first, where the lions den. Grown bulls leave the herd and wander alone or in loose groups, and come to the herds in the season of musth, when a dark weeping from the temples marks a bull that will fight anything. Elephants call to one another across miles of grass in rumbles too low for a man to hear well, and feel the calls through their feet. They mourn their dead, stand over them for days, and come back to the bones years afterward to touch them with the trunk.
+
+## What the Herding Clans Do
+
+The cattle clans of the savanna move their herds out of the elephants' way when the great herds pass, and never water their cattle at a hole the elephants have dug while the elephants are still there. A clan that loses a garden or a granary to a passing herd takes the loss and plants again. They do not hunt elephants for meat, and most do not hunt them at all; a young man who kills a lone bull for its ivory has done something the elders of his clan will argue about, and an elephant's ivory carried north by the rainforest traders to the cities of the [[place-nrthrnfrtlrgn|Northern Fertile Region]] buys more cattle than most clans own. A herd's matriarch who is killed leaves the herd lost, and the clans say a herd without its old cow raids the fields.
+
+## Signs
+
+- A wide path beaten through the long grass, flat and bare, running straight across country toward water.
+- Trees pushed over or stripped of their bark to the height of a house, and baobabs gouged with tusk-marks.
+- Holes dug in a dry riverbed, with water seeping into the bottom and the tracks of every animal of the plain around them.
+- Dung heaps the size of a man's head, full of undigested grass and seeds.
+- A rumble at dusk, felt in the chest more than heard, from a herd out of sight.
 
 ## Combat Strategy
 
-A charging elephant is nearly unstoppable, using tusks to gore and trunk to strike or throw. When defending young or herds, elephants become completely committed to defense.
+An elephant warns first: ears spread wide, head high, a trumpet, a short run that stops. Most charges end there. When one does not, it comes on with its whole weight and speed and only a cliff or a river stops it; it knocks a man down, kneels on him and kicks him, and hooks or gores him with a tusk. The trunk strikes like a club and throws a man yards. A herd with calves turns its cows outward in a ring and charges together. A musth bull or a matriarch defending a calf does not stop until the threat is dead or gone, and climbing a tree is no help, because an elephant pushes the tree over.
 
 ## Attack Methods
 
-### Tusk Gore
+### Tusk
 
-The long tusks gore and crush with devastating force.
+The long tusks gore a man on the ground or hook him from his feet and toss him. The wound crushes as much as it pierces.
 
-### Trunk Strike
+### Kick
 
-The trunk delivers powerful blows that can kill or maim.
-
-### Trampling Stomp
-
-The creature's weight crushes targets under its feet.
+The forefeet stamp and the elephant kneels, crushing whatever the charge has knocked down under five tons of weight.
 
 ## Special Abilities
 
+### Trunk Strike
+
+The trunk swings like a club strong enough to break a man's back, or seizes him and throws him.
+
 ### Incredible Strength
 
-The elephant possesses strength far exceeding most creatures.
+It pushes over a full-grown tree, lifts a fallen one, and goes through a thorn fence or a hut as if it were not there.
 
 ### Herd Coordination
 
-Elephants work together defensively, protecting young and injured members.
+A herd closes round its young, turns outward, and charges together at the old cow's signal, and its members come back for one that is hurt.
 
 ### Intelligent Manipulation
 
-The trunk can handle objects and its surroundings with precision.
-
-### Additional Information
-
-Elephants defending young are nearly unbeatable and should be avoided. The tusks can be harvested after death and are extraordinarily valuable. Herds can be dangerous if panicked or threatened.
+The trunk lifts a gate-bar, unties a rope, and digs water out of dry sand.
 
 ## Attributes
 

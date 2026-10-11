@@ -266,51 +266,65 @@ sohl:
 
 ![[brmblspn|Bramblespine Dartel]]{float=top-left}
 
-You hear it before you see it—a rustling like wind through dead branches, accompanied by a faint metallic clicking. The creature lies half-buried in rocky soil, so covered in jagged spines that distinguishing body from ground is difficult at first glance. Its eyes, cold and luminous yellow-green, lock onto yours. The spines begin to twitch faster, a mechanical sound like coins in a drum, and then comes the screech: a high, resonant cry that vibrates in your skull and sets your teeth on edge, reverberating off stone and seeming to come from everywhere at once.
+The ravine floor is black rock and loose scree, and the clump of spines beside the path looks like one more dead thornbush until it opens two yellow-green eyes. The spines lift, all together, with a dry rattle like coins shaken in a drum. Then it screams: a high, ringing note with a metal edge to it that comes off the rock walls from every side at once and goes on long after the animal's mouth has shut. Your mule has already backed into the man behind you.
 
 # Dossier {#dossier}
 
-The Bramblespine Dartel is a small, heavily armored reptilian creature that has evolved to thrive in rocky, arid regions where camouflage and defense are what keep a creature alive. Standing two to four feet tall at the shoulder and weighing forty to eighty pounds, these creatures are far less dangerous than larger predators but possess several adaptations that make them disproportionately hazardous to adventurers. They are primarily nocturnal and solitary, defending territories with obsessive aggression. The metallic screech they produce serves both as a warning to rivals and as a disorienting weapon against threats. Adventurers may encounter Bramblespine Dartels while exploring ruins, crossing rocky wastelands, or camping in arid regions where the creatures have claimed territory.
+The Bramblespine Dartel is a small, spined, armored reptile of the black-rock plateau of the [[place-dkrqrrgn|Dikraqor]] and the dry badlands round it, two to four feet at the shoulder and forty to eighty pounds, a carnivore of lizards, hares and birds that is dangerous to people chiefly because it will not get out of the way. It is solitary, it is out at dusk and dawn, and it defends a burrow and a hunting range against anything that comes near them with a lashing tail, a body of spines and a scream that stops a mule on a ledge.
+
+Nobody hunts it for meat. The tribes of the plateau kill one when it has taken up under a cistern they need, and otherwise walk round it.
 
 ## Presentation
 
-A compact, low-slung quadruped with a roughly barrel-shaped body covered entirely in sharp spines and ridged scales. The spines vary in length from quarter-inch points to three-inch daggers, densest along the back and flanks, sparser on the belly. The tail is muscular and heavily barbed, with particularly wicked spine clusters near the tip. The head is blunt and wedge-shaped with a strong jaw, small rounded ears set high on the skull, and eyes that glow faintly yellow-green, particularly noticeable in dim light. The coloring is mottled gray and brown with patches of darker pigmentation that allow the creature to blend well with rocky terrain. The scales themselves are ridged and overlapping, providing a natural armor. When calm, the spines remain relaxed; when agitated, they stand upright, creating a silhouette that appears twenty percent larger than the creature's actual dimensions.
+A low, barrel-bodied quadruped on short legs, covered from nose to tail-tip in ridged, overlapping scales and spines that run from quarter-inch points along the belly to three-inch spikes down the back and flanks. The tail is thick, muscular and barbed, with the heaviest spine clusters near the tip. The head is blunt and wedge-shaped, with a strong jaw, small round ears set high on the skull and eyes that glow faintly yellow-green in poor light. The coloring is mottled gray and brown with darker patches, the colors of the rock it lives on. A calm Dartel carries its spines flat; an angry one stands them up and looks a fifth larger than it is.
+
+## In the Land
+
+The Dartel belongs to the mesas, dry ravines and rock cisterns of the Dikraqor, between the sands of the [[place-hskrrgn|Hosikor]] and the oasis belt, and to the badlands and stone uplands on the plateau's margins. It wants broken rock to lie against, an overhang or a crack to den in, and a water source within a few miles that draws the small animals it eats. The ravine mouths below the cut tombs and the shaded sides of the mesas hold the most of them, and the hard, poor tribes who graze the plateau know where each one lies.
 
 ## Key Behaviors
 
-Bramblespine Dartels are fiercely territorial carnivores, hunting small mammals, insects, and occasionally birds. They are most active at dusk and dawn, resting in partially concealed burrows or beneath rock overhangs during peak daylight. A territorial individual will defend its range against other Dartels with ritualized combat involving aggressive posturing and brief, vicious encounters. They are surprisingly intelligent and will remember locations of reliable food sources, returning to them seasonally. When threatened by a larger predator, a Dartel relies on its defensive posture and vocalization—most predators learn quickly that Dartels are not worth the injury. The metallic screech they produce is involuntary, triggered by stress or threat, but its disorienting properties make it as much weapon as alarm. Bramblespine Dartels are more likely to avoid humans than attack them, unless the human approaches the creature's burrow or an egg cache.
+A Dartel holds a range of a mile or two and keeps to it for years. It hunts at dusk and dawn, lies up under a rock through the heat of the day, and remembers where food was found in past seasons and returns to the place. Two Dartels meeting at a boundary posture and scream at each other and settle it with a brief, vicious exchange of tails; neither dies. Faced with a larger animal it flattens, stands its spines up and screams, and most predators of the plateau have learned to leave it alone. The scream is not under its control: it comes with fear, and a Dartel that is startled screams whether it wants to or not. It avoids people unless they walk up to its burrow or its egg-cache, and then it does not avoid them at all.
+
+## Signs
+
+- A dead thornbush on a bare rock shelf, where nothing else grows.
+- Three-inch spines, gray-brown and barbed, lying loose on a path or stuck in a dead hare.
+- A ringing metallic scream at dusk in a ravine, repeated from the walls so that its source cannot be placed.
+- Lizard tails and bird feathers heaped at the mouth of a crack under an overhang.
+- Mules and camels that stop dead at a particular bend and will not be led past it.
 
 ## Combat Strategy
 
-A Bramblespine Dartel's primary strategy is avoidance—these creatures will flee from larger threats when possible. If cornered or if their territory is threatened, they adopt a defensive posture, flattening themselves and raising spines while producing the characteristic metallic screech. The creature's tail is its primary offensive weapon, capable of rapid lashing attacks against anything within reach. If a threat persists, the Dartel may attempt to drive the intruder away by rolling into a tight ball and launching itself at the threat with every spine extended. In groups (rare), multiple Dartels will coordinate simultaneous strikes from different angles, making it difficult for a single target to defend against all threats simultaneously. The Dartel has poor depth perception and reliance on hearing and smell, making it vulnerable to fast, quiet attackers.
+The Dartel would rather flee, and it flees from anything it can outpace. Cornered, or defending its den, it flattens itself against the rock, raises its spines and screams, and lashes with the tail at anything within its reach; a man who steps in to strike it finds the tail faster than his arm. If that does not end it, the animal curls into a ball and launches itself at the attacker, spines first. Several Dartels together, which happens only where dens lie close, strike from different sides at once. It sees poorly at distance and depends on hearing and smell, so a quiet attacker approaching across the wind, with a long spear, has the better of it.
 
 ## Attack Methods
 
 ### Tail Lash
 
-The creature swings its heavily barbed tail in rapid lateral arcs, each spine capable of piercing leather and penetrating skin. The attack has surprising reach—the tail extends nearly as long as the creature's body—and multiple rapid strikes in succession can open severe wounds. The spines on the tail are angled backward, making withdrawal painful and sometimes causing spines to break off in wounds.
+The barbed tail swings in fast, flat arcs, and each spine on it goes through leather and skin. The tail is almost as long as the body and reaches further than the head does. The spines are angled backward, so pulling the tail free tears the wound, and a spine often breaks off in it.
 
-### Spine-studded Charge
+### Spine Charge
 
-When directly threatened, the Dartel rolls into a compact ball and launches itself at the threat like a living ball of spikes. This attack combines momentum, mass, and the exposed spines covering the creature's entire body, wounding on contact and potentially embedding spines in the attacker's armor or flesh.
+The Dartel rolls tight and throws itself at the attacker, so that its whole body of spines lands at once. The blow wounds on contact and leaves spines in armor and flesh.
 
-### Snap and Puncture
+### Snap
 
-If an attacker comes too close or allows a limb within reach, the Dartel will attempt to bite and hold, using its strong jaw to crush or shred the target. This attack is rarer than tail lashing but devastating when it lands.
+A limb that comes within reach of the head is bitten and held, and the jaw crushes. The bite is rare and bad.
 
 ## Special Abilities
 
 ### Keening Wail
 
-The Bramblespine Dartel produces a metallic, harmonic screech triggered by stress or threat. This sound reverberates unnaturally, seeming to come from multiple directions at once. The wail has a disorienting effect on most creatures, inducing anxiety and making concentration difficult. Creatures exposed to the screech at close range find themselves unnerved and potentially panicked. The screech is involuntary and the creature cannot suppress it when truly threatened, making it both an advantage and a disadvantage in combat.
+The Dartel's scream is a metallic, ringing note that rebounds off rock so that it comes from everywhere at once. A person close to it loses the thread of what they were doing for a moment; animals bolt. The animal cannot stop the scream once it is frightened, which gives it away as often as it saves it.
 
 ### Spined Armor
 
-The creature's body is effectively armored in thousands of sharp spines and ridged scales. Slashing and piercing attacks are less effective than expected against this defense, and creatures that grapple or make unarmed attacks against the Dartel typically receive puncture wounds. The spines are not poisonous, but wounds inflicted by them tend to become infected if not properly treated.
+Thousands of spines over ridged scales turn a cut or a thrust that lands at an angle, and anyone who grapples the Dartel or strikes it barehanded comes away punctured. The spines carry no venom. The wounds they leave fester if they are not cleaned.
 
 ### Camouflage and Concealment
 
-In rocky or arid terrain, a stationary Bramblespine Dartel is nearly invisible. When partially buried or settled among boulders, the creature's coloration and spike profile match the surrounding stone so precisely that detecting it requires deliberate searching. Even moving, the Dartel's low profile and mottled coloration conceal it well in appropriate terrain.
+Still, among rock or half-buried in scree, a Dartel is a dead bush or a stone until it opens its eyes. Moving, its low profile and mottled color hide it well on broken ground and not at all on open sand.
 
 ## Attributes
 

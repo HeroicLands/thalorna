@@ -201,47 +201,61 @@ sohl:
 
 ![[giantant|Giant Ant]]{float=top-left}
 
-The ground trembles beneath your feet—a rhythmic vibration that grows steadily more pronounced. Then you see it: a chitinous form three feet long at the shoulders, mandibles spread impossibly wide, advancing with mechanical precision. Its segments gleam like burnished bronze, and where its compound eyes face you, you see reflected a multiplicity of movement. The air fills with a pheromonal reek—acrid, caustic, alien. Behind it, you hear the clicking and scratching of more legs on stone, and the sound of mandibles snapping together in unison.
+The leaf litter ahead of you is moving. It takes a moment to see that the movement is a column, two abreast, each the size of a hound, bronze segments catching the light as they pass over the roots with the sound of a thousand small sticks breaking. The air is sharp with something like vinegar. The nearest one stops, turns its head toward you, and opens its mandibles wider than seems possible, and the ones behind it stop too.
 
 # Dossier {#dossier}
 
-The Giant Ant is an insect soldier standing three to five feet in body length, with strength and durability far exceeding its smaller cousins. These creatures exist as integral parts of vast colony systems, perfectly adapted for their role as defenders and hunters for the queen. Colonies can range from a dozen to hundreds of individuals, and a disturbed colony responds with terrible coordination. Adventurers most often encounter giant ants when exploring caves or ancient ruins that have become home to a colony, or when they stumble into ant-infested territory on the surface.
+The Giant Ant is a soldier ant three to five feet long, bronze-shelled, one of a colony of dozens to hundreds that nests under the floor of the [[place-cntrlrnfrsts|Central Rainforests]] and in the hot forest and river valleys of [[place-okharisrgn|Okháris]], and it exists to feed and defend a queen it never sees. A single soldier is a dangerous animal. A column of them is the reason the forest peoples move a village when the ground over a nest begins to hum.
+
+It is met on its foraging trails, in the old stone enclosures of the savanna margin where a colony has dug in under the paving, and underground wherever a cave or a ruin is warm and damp enough.
 
 ## Presentation
 
-A Giant Ant has a segmented body covered in dark brown or bronze chitin that provides armor-like protection. The head bears two large compound eyes that give the creature a broad field of vision, and two wicked mandibles that can open to angles that seem physically improbable. The thorax is thick and powerful, supporting six articulated legs that move with perfect, mechanical synchronization—each foot finding purchase with eerie precision. The legs are equipped with hooks and claws that allow the ant to traverse vertical surfaces as easily as flat ground. The abdomen is bulbous and segmented, with a small stinger or pheromone-releasing organ at the tip. The creature's coloration ranges from dark brown to reddish-bronze, and its chitinous shell produces a faint clicking sound as segments shift and flex.
+A segmented body in dark brown to red-bronze chitin, with a large head, two compound eyes, and mandibles that open to the width of the head and close like shears. The thorax is thick and carries six jointed legs that move in step and grip bark, stone and a vertical wall as well as the ground. The abdomen is bulbous and segmented and carries a small sting at its tip, used chiefly to lay scent. The shell clicks faintly as the segments flex. The smell of a soldier is sharp and sour and a column of them can be smelled before it is seen.
+
+## In the Land
+
+Colonies are thickest in the equatorial forest, where the floor is warm and wet the year round, and in the rain-fed western forests and river valleys of Okháris, where the village tribes know every nest within a day's walk of their fields. A nest is a mound and the galleries under it, going down forty feet or more, with foraging trails cleared through the litter in every direction and worn to bare earth by use. The old ruins on the forest's southern edge, with their paved courts and dry chambers, are taken over by colonies that dig through the floors, and a party that enters one is in the nest.
 
 ## Key Behaviors
 
-Giant Ants exist as specialized individuals within a colony structure. Soldier ants are aggressive and territorial, defending the colony's perimeter and attacking anything that threatens the nest or interferes with foraging. They communicate through touch, pheromones, and chemical signals, allowing the colony to coordinate hunting and defense without vocal communication. Soldiers and workers operate with shared purpose, often hunting cooperatively to bring down larger prey that would be impossible for a single ant to subdue. The colony maintains a strict hierarchy, with soldiers answering to the chemical signals of worker ants and queen pheromones. An isolated giant ant without its colony is still dangerous but noticeably less aggressive and cooperative.
+A colony lives by scent. The queen's smell holds it together, the workers lay trails that the soldiers follow, and an alarm scent from one soldier brings the rest at a run. Soldiers patrol the trails and the ground round the mound, kill what they meet there, and carry it home in pieces; a column on the march takes a snake, a monkey or a goat as it comes and leaves the bones. They work in concert, several soldiers to a large animal, and they do not stop for their dead. A soldier cut off from its colony is still dangerous and much less determined.
+
+## What the Villages Do
+
+The Okhárin village tribes dig no field within a long bowshot of a mound and burn a trail that comes too close to a house. A nest that has grown large enough to send columns into the village is burned out, which takes the whole village a day, with brush piled on the mound and the galleries smoked, and the soldiers that come out of the smoke killed with long-handled hoes; people die at it. The eggs, dug from a small nest in the dry season, are eaten and traded as a delicacy to the temple-cities, and the men who dig them work fast and lose fingers. The shell of a soldier is worked into light plates for a hunter's forearms and shins.
+
+## Signs
+
+- A path through the leaf litter worn to bare earth, a foot wide, with nothing growing on it.
+- A sour, vinegar smell on still air.
+- A monkey or a goat skeleton on the forest floor, picked clean and the bones scattered a short way along a trail.
+- A low hum felt through the soles of the feet near a mound.
+- Bronze shell fragments the size of a hand, with a mandible still on one.
 
 ## Combat Strategy
 
-A single giant ant fights with directness and tenacity—advancing and attempting to grapple prey while snapping with mandibles. Its primary goal is immobilization, as the ant wants to carry prey back to the colony for the larvae. A colony of ants uses numbers and coordination: they swarm from multiple angles, concentrating on individual targets, and attempt to isolate wounded or separated targets from the group. If a soldier is killed, other ants will ignore the body and continue fighting, following the pheromone trails of living threats. A colony only retreats when casualties become catastrophic or when the queen is threatened—ants will fight unto death to defend their nest.
+One soldier comes straight on, seizes with the mandibles and tries to drag the prey back along the trail toward the nest; it wants the body for the brood more than it wants the kill. A colony attacks from every side at once, several soldiers to a person, and cuts a wounded or separated person out of the group. They climb anything, so a wall or a tree is no refuge. They follow a scent trail and ignore a corpse, and they do not retreat until the losses are enormous or the queen is in danger. Fire stops them, and a flooded gallery, and nothing else does.
 
 ## Attack Methods
 
 ### Mandible Bite
 
-A powerful crushing and tearing attack—the mandibles close with force sufficient to bite through leather armor, bone, and soft flesh alike. The ant locks mandibles onto a target and pulls, attempting to drag prey closer or tear the wound wider.
+The mandibles close on a limb with force enough to go through leather and bone, and the ant locks them and pulls, dragging the prey toward it or tearing the wound wide.
 
 ### Grapple and Drag
 
-The ant's six strong legs provide stability and leverage—it grapples with both mandibles and body, attempting to wrap around a target and immobilize it long enough for other ants to strike or for the prey to be carried back to the colony.
+The soldier wraps its legs round a body and hauls, with the mandibles still locked, back along the trail. Two soldiers on one man take him off his feet.
 
 ## Special Abilities
 
 ### Colony Coordination
 
-When multiple ants fight together, they act as if they shared a single tactical mind. They never hesitate or second-guess, never fall out of step, and can carry out complex maneuvers that isolate and overwhelm individual targets. A solitary giant ant loses this advantage and becomes noticeably less effective.
+Soldiers fighting together move as one animal: no hesitation, no gap, and a steady effort to isolate and surround each person in turn. A soldier alone loses the half of its danger that was the colony.
 
 ### Exoskeletal Armor
 
-The ant's chitinous shell provides natural protection from weapons that rely on penetrating thin armor. Blunt weapons are more effective against the ant than edged weapons, as the shell tends to deflect rather than catch them. The joints between segments are weak points with no such protection.
-
-## Additional Information
-
-Giant ants represent both opportunity and hazard. An active ant colony can be domesticated or negotiated with through various magical means, turning them into useful allies for clearing other pests or defending territory. However, a provoked colony is implacable in pursuit and will pursue enemies to the ends of their territory. Ant eggs are edible and considered a delicacy in some cultures—harvesting them is a profitable but extremely dangerous undertaking. The chitin from a giant ant can be worked into armor or decorations.
+The shell turns a cut and a thrust that strikes it square. A heavy blow cracks it; a point finds the joints between the segments.
 
 ## Attributes
 

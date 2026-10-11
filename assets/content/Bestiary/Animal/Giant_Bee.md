@@ -237,47 +237,61 @@ sohl:
 
 ![[giantbee|Giant Bee]]{float=top-left}
 
-The sound fills the air before you fully see it—a deep, penetrating hum that seems to come from everywhere at once. Then it crests the ridge: a creature the size of a wolf, all furred body and translucent wings that beat so rapidly they become invisible. The yellow and black stripes that cover it are vivid, almost too bright, and when it banks in the air above you, the afternoon light catches and reflects off something terrible: a stinger as long as a dagger, dripping with clear venom that smokes where it falls. The buzzing grows louder, more insistent, and you realize with creeping dread that this is not one creature—there are more, emerging from behind the ridge, converging on your position. The smell hits next: a cloying sweetness mixed with something chemical and wrong, filling your sinuses and burning your throat.
+The hum has been under everything for the last mile, a note too low to place, and now it is overhead. A bee the size of a wolf hangs in the air above the path on wings you cannot see, banded yellow and black, its fur dusted gold, and the sting at the end of its body is as long as a knife with a bead of clear venom on its point. It drifts toward you, drifts back. A second one comes over the trees behind it, and the smell reaches you, sweet as rotting fruit with something burning under it.
 
 # Dossier {#dossier}
 
-The Giant Bee is a massive insect that has evolved far beyond its common cousins, standing as large as a wolf at the shoulder, with surprising strength and speed. These creatures are workers and defenders of colossal hive systems that can have hundreds or thousands of individual bees. They are not solitary creatures but part of a collective intelligence directed by pheromone signals from a queen. Adventurers most often encounter them when traveling near a hive location or when they inadvertently threaten a hive's foraging operation or territory. A single giant bee is dangerous; a swarm is nearly unstoppable.
+The Giant Bee is a honey-bee the size of a wolf, one of a hive of hundreds or thousands that hangs its combs in the great trees and rock-faces of [[place-okharisrgn|Okháris]], from the rain-fed forests of the west out to the dry scrub toward Bethûa. Its honey is the best in Xerathia and its sting kills a man. The village tribes of Okháris rob the hives in the one week of the year the bees allow it and keep clear of them the rest of the time, and a hive that moves into a grove near a village is a reason to move the village.
+
+A single bee far from the hive is a cautious animal. The hive, roused, is a storm that follows a man for a mile.
 
 ## Presentation
 
-A Giant Bee is a creature of striking appearance: a bulbous abdomen striped in vivid yellow and black, covered in fine hairs, two pairs of translucent wings that beat constantly to create an audible hum, six jointed legs that can cling to any surface, and a head bearing large compound eyes and powerful mandibles. The most fearsome feature is the stinger—a long, sharp appendage extending from the rear abdomen, capable of injecting venom. The body is built for flight, and the wings are capable of carrying the bee's full weight at considerable speed. Despite its apparent heaviness, the bee's frame is light for its size.
+A banded body of yellow and black in fine, dense fur, with a bulbous abdomen ending in a long, barbed sting. Four clear wings beat constantly and make the hum that carries for a mile. Six jointed legs cling to any surface. The head carries two large compound eyes and a pair of strong mandibles. For all its size the bee is light for its bulk, built for the air, and it carries a load of nectar or a pellet of wax at a speed a running man cannot match.
+
+## In the Land
+
+Giant Bees build in the crowns of the great forest trees of western Okháris, under the lips of river-gorge cliffs, and in the rock overhangs of the drier east, wherever the flowering is heavy within a few miles. A hive is a mass of comb as big as a house, hanging in sheets, and a grove with one in it can be heard before it is seen. The tribes map them. They are commonest along the river valleys where the orchards and the wild flowering trees stand together, which is also where the villages are.
 
 ## Key Behaviors
 
-Giant Bees operate under hive intelligence—they are individuals only in physical form but follow the chemical and pheromonal commands of a central queen with perfect obedience. Scouts range far from the hive, identifying nectar sources and intruders. Workers gather food and maintain hive structures. Guards and soldiers defend the hive and food sources from threats. All individuals will sacrifice themselves without hesitation for the colony's survival. A bee away from the hive is quieter and more circumspect; near the hive, the bees are aggressive and coordinated.
+The hive is one animal with one will, the queen's, carried on scent. Scouts range miles out and come home to tell the rest where the flowering is and where the danger is; workers gather and build; guards hang at the comb and meet whatever comes near it. A bee alone forages and goes home. A bee at the hive attacks anything that touches the comb or the tree, and the scent it leaves on what it stings brings the rest. Every bee in the hive will die for it, and most of those that sting a man do.
+
+## What the Villages Do
+
+The Okhárin honey-men rob a hive once a year, in the week after the first rains when the queen has moved deep into the comb and the guards are fewest, with smoke from green wood, nets of fine cord over face and hands, and ropes to come down the tree fast. They take a third of the comb and leave the rest, and a hive robbed harder than that moves. The honey and the wax go to the temple-cities, where the wax lights the shrines and the honey is the sweetening in everything the priests eat; a hive is wealth, and the village that holds a grove of them guards the grove. A sting is drawn with a knife-point at once and the wound packed with wet clay, and a man stung three times is carried home to die. A hive that has killed is burned at night, by men who have made their peace with the possibility of not coming back.
+
+## Signs
+
+- A hum under the sounds of the forest, felt in the teeth before it is heard.
+- A tree with sheets of pale comb hanging from its crown like washing.
+- A sweet, cloying smell with a burnt edge, carried a long way on the wind.
+- Bees crossing a valley in a straight line, one every few breaths, all going the same way.
+- A dead monkey or a dead man under a tree, swollen, with no mark but a few small punctures.
 
 ## Combat Strategy
 
-A lone giant bee avoids combat if escape is possible, preferring to return to the hive and recruit assistance. A group of bees attacks with devastating coordination—multiple bees assault individual targets simultaneously, stinging from angles designed to prevent effective counterattack. The bees work to separate targets from the group, overwhelm single individuals, and drive enemies toward the hive (where more bees emerge to provide reinforcement). They show no tactical retreat or mercy once committed to attack.
+A lone bee leaves if it can and goes home for the others. The hive comes out together and attacks several bees to a man, stinging from above and from behind where no blade reaches, cutting one person out of a group and following whoever runs toward the hive. They do not break off. Smoke confuses them and water stops them; a man who reaches a river and goes under lives. In the open air the bees have it all their own way; under a low roof or in a thicket they cannot use their wings and a man with a cloak kills them one at a time.
 
 ## Attack Methods
 
 ### Poisoned Sting
 
-The bee drives its stinger into a target and injects venom designed to cause pain, paralysis, or death depending on dosage and the target's size. The stinger is barbed in some bee species, leaving it behind (fatal to the bee) and driving the venom deep. Multiple stings compound the venom load.
+The bee drives the sting in and pumps venom. One sting is agony and a swelling the size of a loaf; two put a man on the ground; three stop his breath. The barbed sting stays in the wound and goes on working after the bee is dead.
 
-### Bite and Grapple
+### Bite
 
-The bee uses powerful mandibles to bite and hold, attempting to position the target for a sting or to simply do damage. The bee's legs can also cling to a target, making it difficult to dislodge.
+The mandibles seize cloth, hair or skin and hold while the body curls round to bring the sting to bear.
 
 ## Special Abilities
 
 ### Hive Coordination
 
-When multiple bees fight together, they act as if controlled by a single mind—never a wasted movement, perfect tactical awareness, and devastating synchronized attacks. A lone bee loses this advantage.
+Bees fighting together move as one: no wasted pass, every angle covered, and every bee going for the man the first one marked. A bee alone has none of this.
 
 ### Flight Mastery
 
-The bee's wings allow it to hover, reverse direction, and reach speeds that land creatures cannot match. In open air, the bee has overwhelming tactical advantage. Indoors or in confined space, this advantage diminishes.
-
-## Additional Information
-
-A giant bee hive can be harvested for honey, wax, and other valuable materials, but only by those brave enough to approach during the appropriate season when the queen is least protective. Some have attempted to communicate with hives through magical means, with limited success—the collective intelligence is alien and not easily bargained with. A dead bee's stinger is sometimes preserved or worked into jewelry or weapons.
+The bee hovers, reverses and outflies a horse, and chooses where it strikes. In open air it cannot be fought; under cover it can.
 
 ## Attributes
 

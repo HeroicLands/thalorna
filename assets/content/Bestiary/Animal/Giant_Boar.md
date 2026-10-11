@@ -254,47 +254,59 @@ sohl:
 
 ![[gntbr|Giant Boar]]{float=top-left}
 
-The ground trembles before you even see it—a vibration that travels through your feet and into your bones. Then the forest parts as if torn, and a massive shape explodes into view: a creature covered in coarse dark bristles, its broad shoulders and thick neck corded with muscle. The smell hits you like a physical blow—rank, unwashed, the reek of mud and wild musk. It skids to a halt perhaps thirty paces distant, and you see them clearly now: tusks like curved daggers, thick and yellowed, their tips dark with something you don’t want to identify. The boar’s small, hate-filled eyes fix on you, and it lowers its massive head. Its snort sends spray and foam. Then it begins to paw at the earth with its front hooves, each scrape of hoof striking sparks from stone, and you feel with absolute certainty that it is about to charge straight through you.
+The ground under the beech-mast is torn up in a swath as wide as a cart-track, and the trunk beside the path is rubbed raw at the height of your shoulder and plastered with mud and black bristles. The smell is rank and old. Then the undergrowth thirty paces off splits open and the thing that made the marks is standing in the path: five feet at the shoulder, black, with a head like an anvil and two yellow tusks as long as your forearm. It blows once through its nose, a spray of foam, and begins to paw.
 
 # Dossier {#dossier}
 
-The Giant Boar is a hulking apex predator of temperate and northern forests—a creature of raw power, territorial aggression, and barely restrained violence. Standing five feet or more at the shoulder and weighing over a thousand pounds, a single giant boar is a nightmare for unprepared travelers. These are solitary creatures that establish and jealously guard vast territories spanning multiple square miles. Adventurers most commonly encounter them when traveling forest roads, camping in boar territory, or when their caravan is raided by a desperate or territorial individual.
+The Giant Boar is the great wild pig of the northern forests, five feet at the shoulder and a thousand pounds, which roots the beech and oak woods of [[place-vrystwald|Vrystwald]] and holds several square miles of them against everything that walks in. It eats mast, roots, fungus, carrion and whatever small thing it turns up, and it kills the men who get in its way. The Varokh hunt it, fear it and keep it as a wesk: three of the forest's villages, [[place-eichengrnd|Eichengrund]] among them, take the boar as their totem spirit.
 
 ## Presentation
 
-The Giant Boar is a massive quadrupedal creature built entirely for power and dominance. Its hide is thick and covered in coarse, wiry bristles in colors ranging from dark brown to jet black, often matted with mud and debris. The shoulders are massive and slope downward to slightly narrower hindquarters. The head is broad and heavily muscled, with a thick neck and a face that appears almost brutish in its heaviness. The tusks are the boar’s signature weapons—curved up and back, thick as a man’s arm, yellowed with age and stained dark at the tips. The eyes are small and set forward, providing good binocular vision for targeting charges. The body is supported on short, thick legs ending in sharp hooves that can deliver considerable force. The overall appearance is of barely restrained power, as if the boar must strain to contain the violence coiled within it.
+A huge pig built forward: massive shoulders and neck sloping back to narrower hindquarters, short thick legs and sharp cloven hooves. The hide is thick and covered in coarse black or dark-brown bristles, usually caked with mud. The head is long and heavy, with small forward-set eyes, and the tusks curve up and back from the lower jaw, thick as a man's wrist, yellowed, and worn to an edge against the upper pair. An old boar carries a shield of thickened hide over its shoulders, scarred white from fights with its rivals.
+
+## In the Land
+
+Giant Boars live in the oak and beech of the central mixed-forest belt and south to the highland forests facing Vylaría, and they are thinner in the northern taiga where there is no mast. A boar's ground is marked by its rubbing-trees and its wallows and by the rooted ground itself, a swath torn through the leaf litter that another boar reads and respects. The Varokh villages of the forest clearings share their woods with one or two each, and the boar wesk villages count the one in their woods as a thing of theirs.
 
 ## Key Behaviors
 
-Giant Boars are solitary and fiercely territorial, each individual claiming a vast range through which it roots and forages. They are primarily herbivorous, eating nuts, roots, mushrooms, and vegetation, but are omnivorous and will consume carrion, insects, or small animals if encountered. They are primarily nocturnal or crepuscular but will move at any time if motivated by hunger or aggression. A boar marks its territory with glandular secretions and the physical ruts of its movements, creating visible tracks and patterns that other boars recognize and respect. During breeding season (typically winter), boars become even more aggressive and territorial, engaging in terrible fights with rivals.
+A boar roots by night and in the gray hours and lies up by day in a wallow or a thicket. It walks a round of its ground, rubs its shoulders on the same trees, and wallows in the same mud, and it meets another boar at the edge of its ground with a fight that leaves both bleeding. In winter, in the rut, the boars fight to the death and a boar that has been fighting attacks anything it meets. Sows with young run in small sounders and a sow with piglets charges as readily as a boar. A boar that has been hunted and has lived learns the sound of a horn.
+
+## What the Villages Do
+
+The Varokh hunt the boar in winter, on foot in the snow, with dogs to hold it and boar-spears with a crossbar below the head to keep it from running up the shaft; a hunter who takes one alone has made his name, and the tusks hang on his house. In a boar village the hunt is a rite with the Weskár present and the first blood carried to the sacred grove. A boar that has killed a man in the woods is hunted by the whole village as a matter of honor. The hide makes the best shield-covers and boot-leather in the forest, the bristles make brushes, and the tusks are worked into knife-handles, charms and the fittings of a chief's belt. Nobody drives a herd through boar ground in autumn, when the mast is down and the animals are fat and bad-tempered.
+
+## Signs
+
+- A swath of torn ground through the leaf litter, as if a plow had been dragged through it.
+- A tree rubbed bare and muddy at shoulder height, with black bristles caught in the bark.
+- A wallow in a hollow, churned to black mud and stinking.
+- Cloven tracks as long as a man's hand, deep, with the dew-claws showing.
+- A sound of blowing and grunting in a thicket, and then silence.
 
 ## Combat Strategy
 
-A Giant Boar’s preferred tactic is the charge—building speed and momentum before striking with the full weight and power of its body, using the tusks as lance points. If the charge connects, the boar continues forward, attempting to gore and trample the target into the ground. In close combat, the boar uses its tusks for ripping and goring while attempting to knock opponents down by sheer mass and leverage. A wounded boar becomes even more dangerous and aggressive, pressing attacks with feral determination. The boar will continue to fight until killed or until the threat to its territory is removed. Flight often triggers pursuit—a boar may chase a fleeing target for several hundred yards before losing interest if it cannot close the distance.
+The boar charges. It builds speed over the open ground between it and the target and hits with the whole weight of its body behind the tusks, and if the man goes down it tramples and gores him on the ground. In close quarters it hooks upward with the tusks and uses its weight to knock a man over. A wounded boar is worse than a whole one, and it does not stop until it is dead or the man is. A charge is stopped by a boar-spear braced against the foot, by thick brush, or by a tree between the man and the pig; a boar that cannot reach a man who has climbed gives up and goes back to its rooting.
 
 ## Attack Methods
 
-### Tusk Gore
+### Tusk
 
-The boar’s tusks are used to gore, rip, and disembowel—driven with the full force of a charging run or used in close combat to rend and tear. The tusks can pierce heavy armor if the boar’s charge connects.
+The tusks hook upward and across as the boar drives in, opening a man from thigh to belly. On a charge they go through a shield and the mail behind it.
 
-### Trample and Ram
+### Trample
 
-The boar uses its massive body weight as a weapon, simply bowling over enemies or driving them to the ground. A trampling boar can cripple or crush a smaller opponent.
+The boar knocks a man flat with its weight and goes over him with its hooves, and comes back to gore what is on the ground.
 
 ## Special Abilities
 
 ### Thick Hide
 
-The boar’s hide is tough and turns a blade’s edge, though it provides less protection against a thrust aimed at vulnerable points. A knife or spear can find the softer underside or the region behind the front leg.
+The hide and the shoulder-shield turn a blade's edge and a glancing thrust. A point driven straight in behind the foreleg finds the heart.
 
 ### Charge Momentum
 
-When the boar has space to build speed, its charge becomes devastating—the longer the run-up, the more damage the tusk strike does. A boar charging across open ground is much more dangerous than one engaged in tight quarters.
-
-## Additional Information
-
-A giant boar’s territory can be traversed safely if one understands boar behavior and respects territorial markers. Most boars will abandon a charge if the target can reach thick enough brush or get behind an obstacle. A boar’s tusks are valuable, and its hide makes excellent leather. Some hunters make their reputation on successfully taking a giant boar solo—it is dangerous work.
+The longer the run, the worse the blow: a boar that has crossed a clearing hits like a falling tree, and one met in dense brush hits like a boar.
 
 ## Attributes
 

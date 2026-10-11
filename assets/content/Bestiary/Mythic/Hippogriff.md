@@ -310,83 +310,75 @@ sohl:
 
 # Appearance {#appearance}
 
-The sound reaches you first—not the scream of a predator, but a clarion call, almost musical in its cadence, underlaid with the whinny of an intelligent horse. Then you see it banking between the peaks with an agility that seems impossible for something so large. The hippogriff descends in a wide spiral, and as it draws near, you grasp the nature of this creature: the proud head and piercing eyes of a war eagle, the powerful wings of a creature born to command the skies, and then—where one might expect a lion's body—the sleek, muscular frame of a noble horse, complete with four powerful legs and a flowing mane that ripples as though caught in wind.
-
-Where a gryphon is a hybrid of predator and predator, a hippogriff is something more balanced. Its eagle front speaks of awareness and dominion, its eyes bright with intelligence and an almost companionable curiosity rather than the cold predatory calculus of a gryphon. The wings beat with hypnotic rhythm as it circles—powerful strokes that propel this creature with astonishing swiftness through the air. The horse's body below is no mere draft animal; it is built for speed and endurance, its muscles rippling beneath a coat that shimmers between gray-silver and gold depending on the light. When it lands—and it moves toward the earth with controlled grace—you see the transition perfectly: the muscular eagle's neck flows without a break into the powerful withers of a destrier, and where you expected awkwardness, there is instead a harmony that suggests this creature was always meant to exist in exactly this form. Even at rest, perched on powerful hooves, the hippogriff emanates an almost regal bearing. Its gaze holds less hunger than a gryphon's and more of something else: intelligence, and an almost melancholic awareness of worlds it can witness but never fully join.
+A call comes down out of the sky, clear and almost musical, with a horse's whinny under it, and the herd on the far slope lifts its heads together. It comes in over the ridge on wings twenty-five feet across, gray and gold, an eagle's head and breast on the body of a tall horse, and it lands at a canter on the grass a bowshot off, folds its wings, and begins to graze. After a while it lifts its head and looks at you with an eagle's eye and a horse's curiosity, and takes two steps nearer.
 
 # Dossier {#dossier}
 
-Scholars have sometimes judged the hippogriff the finer creature of the two—not in raw power, but in balance and usefulness. Standing four feet high at the shoulder and measuring approximately eight feet from the grip of its eagle forelegs to the tip of its horse's tail, a mature hippogriff weighs roughly five hundred pounds. Unlike the gryphon, which inherits the territorial aggression and carnivorous singularity of focus from its lion half, the hippogriff balances its eagle nobility with equine sociability.
-
-Hippogriffs live seventy to one hundred years and are notably more docile than gryphons, though "docile" should never be confused with "domesticated" or "harmless." They are capable of forming bonds with humans more readily than gryphons, and history records numerous instances of hippogriffs accepting riders and becoming loyal, if not devoted, companions. Several ancient warrior-lords flew to victory on hippogriff-back, and some orders of knights have maintained small breeding populations of hippogriffs for centuries.
-
-Unlike the gryphon, hippogriffs are not strictly solitary or pair-bonded in rigid territories. They are more nomadic, ranging across vast regions and sometimes traveling in small groups—typically a mated pair with one or two offspring. They migrate seasonally, following game and weather patterns, and will often form relationships with particular humans or settlements, returning annually. Some hippogriffs are known to have visited the same village for decades, developing almost civil relationships with the inhabitants.
-
-The creature's diet is omnivorous, much like a horse's, though hippogriffs retain enough of the predator to occasionally supplement with meat. They prefer grass, grain, and vegetation, which makes them far more economical to maintain than a gryphon would be. Their intelligence is comparable to that of a very intelligent horse—perhaps beyond even that—with emotional depth and memory that can span lifetimes.
+The hippogriff is an eagle in front and a horse behind: four feet at the shoulder, eight feet from fore-talons to tail, five hundred pounds, with wings that span twenty-five feet and a horse's hindquarters and hooves. It grazes like a horse, flies farther and faster than anything else its size, and moves with the seasons across the breadth of Ankaris, summering on the open steppe of [[place-velanthrgn|Velanthia]] and the high pastures under the [[place-graznmntns|Grazian]] foothills and wintering on the warm shores round the [[place-midhalnrgn|Mídhalión]] basin, by routes its kind has flown for centuries. It is curious about people, it has been ridden, and it is the one of the great winged beasts that comes to a village on purpose.
 
 ## Presentation
 
-A hippogriff's eagle aspect is slightly more delicate than a gryphon's, built for speed rather than sheer tearing power. Its head is graceful, with eyes of amber or gold set in a more refined facial structure than its gryphon cousin. The beak is sharp but slightly smaller in proportion, and the neck flows with an almost equine grace. The wings are the creature's glory—massive but light-boned, capable of extraordinary speed and maneuverability. The wingspan can exceed twenty-five feet when fully extended, and the plumage transitions through browns, grays, and golds with elegant patterns.
+The head is an eagle's, finer than a gryphon's, with amber or gold eyes and a sharp hooked beak, on a feathered neck that flows into deep, heavily muscled withers. The forelegs are an eagle's, feathered to the talons. Behind the shoulders the plumage gives way to a horse's coat, gray, silver, brown or dappled, often with white on the face or legs, and the hindquarters, legs, hooves and tail are a tall horse's. The wings are long and light-boned, built for distance, and feathered in browns, grays and golds. The mane flows like a horse's and a hippogriff spends a good deal of its day on it.
 
-Where the eagle meets the horse, the join is invisible. The chest of the hippogriff is deep and heavily muscled, built to house the lungs necessary for sustained flight. The legs are a horse's legs—powerful, elegant, built for both flight-power and ground speed. The hooves are dark and hard, and the tail is a horse's tail, full and flowing. The overall impression is of a creature built for endurance and long-distance travel rather than explosive territorial combat.
+## In the Land
 
-The musculature of a hippogriff is visible but not grotesque—it suggests athletic capability rather than pure power. The coat is typically a neutral color: grays, browns, silvers, with occasional roan or dapple patterns. Some hippogriffs show white markings on their legs or face, adding to their inherent nobility. The mane, unlike a gryphon's feathering, flows like a horse's, and hippogriffs appear to take considerable pride in grooming it.
+Hippogriffs fly north in spring to the forest-steppe of Velanthia and the grass under the Grazian wall, where the pairs raise their young on the open ground and graze beside the horse-herds of the river-prince kingdoms, and south in autumn along the river valleys to the coasts and islands of the inland sea, where the winters are mild. The routes do not change. A pair with one or two young travels together; larger groups gather at the resting-grounds along the way and part again. A hippogriff that has found a village it likes on its road returns to it every year, sometimes for decades, and is known there by name.
 
 ## Key Behaviors
 
-Hippogriffs are gregarious creatures by nature. While a mated pair will remain together for the length of their lives, they do not establish rigid territories and will range across vast regions. They migrate seasonally—northward in summer, southward in winter—and their migration routes have remained unchanged for centuries, suggesting both memory and intelligence.
+A hippogriff grazes as a horse does and eats a little meat when it comes by it, and it flies for the pleasure of it, circling for hours on a warm day with nothing to hunt. It is wary and quick off the ground, and it hears and sees a predator a long way off. It is curious, and it comes to a camp or a village to look, and stays if it is not driven off. It learns names and faces, follows a few plain words, and keeps a kindness in mind for years; it mourns a dead rider and a dead mate. Pairs mate for life. Among themselves they have a speech of calls and posture that is more than a horse's and less than a man's, and nobody has learned it.
 
-They are natural fliers, and unlike the gryphon which will hunt from the air, the hippogriff seems to enjoy flight for its own sake. It is not uncommon to observe a hippogriff circling for hours, riding thermals and performing aerial maneuvers that serve no hunting purpose but seem to bring the creature clear joy. They are curious and will investigate human settlements, though they are wary and approach only if they sense non-hostile intent.
+## What the Steppe People Do
 
-In grazing, hippogriffs behave much like horses, though their ability to fly means they can access food sources on cliff sides and mountainous terrain that horses cannot reach. They will often rest in open areas where they can take flight quickly if threatened, and their hearing and sight are superb—a hippogriff can hear a predator approach from incredible distances and take to the air in moments.
+The herding Hosts of the Velanthian frontier count a hippogriff pair that summers on their grass as good fortune and leave a field unmown for them, and a steppe herdsman who has had the same pair on his pasture for twenty years talks to them. A few houses on the Velanthian frontier and round the inland sea have kept hippogriffs for generations, bred from young that were raised to the hand, and ride them: a rider on a hippogriff crosses in a day what a horseman crosses in a week, and a lord with three of them knows what is happening on his borders. The bond is the hippogriff's to give and to keep. One that is beaten or caged leaves at the first chance and does not come back to that house, and the steppe people hold a man who has driven one off to have earned whatever follows.
 
-Hippogriffs have been observed showing affection to human caretakers, mourning their deaths, and returning year after year to places where humans have treated them well. They appear capable of learning names, recognizing individuals, and even following simple spoken instructions. Hippogriffs may have a form of language among themselves—a mixture of vocalizations and body language so complex it may constitute true communication.
+## Signs
+
+- A clear, ringing call from high up on a still day, with a whinny in it.
+- Hoofprints in a pasture that begin and end in the middle of the grass.
+- Horse-herds that stand and watch the sky together without alarm.
+- A pair circling for an hour over a valley with nothing below them worth hunting.
+- A village where the children wave at something overhead and nobody runs.
 
 ## Combat Strategy
 
-A hippogriff in combat is more cautious than a gryphon, favoring skirmishing and aerial advantage over direct confrontation. It will use its superior speed to make quick strikes from the air—diving, striking, and climbing away before an opponent can effectively respond. It can sustain aerial combat longer than almost any other flying creature because of its endurance and economy of movement.
-
-If forced to land and fight on ground, a hippogriff will use its powerful hind legs to rear up and strike, much like a horse in combat, but it retains its talons and can use them with lethal effect. It may also take off and land repeatedly, using ground-to-air transitions to confuse and harass opponents. However, a hippogriff is far more likely to break off combat and flee than a gryphon would be. It is not cowardly, but it is intelligent enough to recognize unwinnable fights and to value its own survival.
+A hippogriff fights to get away. It takes off at the first threat and strikes from the air if it must, a dive, a rake with the fore-talons, and a climb-out before anything can answer, and it does this longer than any other flier because it does not tire. On the ground it rears and strikes down with both forelegs as a war-horse does, kicks behind as it backs away, and takes off again the moment it has room. It knows a fight it cannot win and leaves it, and it is shamed by nothing. A hippogriff with a bonded rider in danger stays and fights, and a pair with young on the ground meet a wolf pack together.
 
 ## Attack Methods
 
-### Aerial Dive Strike
+### Talon
 
-The hippogriff climbs high and dives at significant velocity, striking with both taloned forelegs. The creature's lighter frame makes this less devastating than a gryphon's dive, but it can still cause serious injury and is executed with precision. The hippogriff often follows a diving strike with immediate climb-out rather than remaining in close combat.
-
-### Talon Rake
-
-In close combat or when landed, the hippogriff slashes with its eagle forelegs, talons extended. These strikes are quick and can be executed in rapid succession, and the creature often uses them while maintaining ground contact with its powerful hind legs.
-
-### Rear and Strike
-
-When landed and pressed into combat, the hippogriff will rear on its hind legs and strike downward with both forelegs, using the full weight of its body and the leverage of its powerful horse-body. This is an explosive attack that can crush armor or break bones.
+The fore-talons strike at the end of a dive or in a rearing blow from the ground, several quick rakes that open a man's face and arms and go through light mail.
 
 ### Kick
 
-The hippogriff's hind legs are powerfully muscled and fully capable of delivering devastating kicks. These are often executed when the creature is backing away, using the motion to generate distance while still dealing damage. A well-placed hind-leg kick can break ribs or kill an unprepared opponent.
+The hind legs kick as a horse kicks, backward and with the whole weight of the animal; a kick breaks ribs and kills a man who is behind it at the wrong moment.
+
+### Beak
+
+The hooked beak tears at whatever the talons have taken hold of, and takes the hand off a man who reaches for the bridle.
 
 ## Special Abilities
 
 ### Exceptional Speed
 
-The hippogriff is the fastest flyer among all non-dragon mythic creatures. Its lightweight frame and powerful wings allow it to achieve and sustain velocities that other flying creatures cannot match. In combat, this translates to the ability to make attacks from angles opponents cannot predict and to escape situations quickly.
+Nothing with wings but a dragon outflies a hippogriff. It comes in from a quarter nobody expected and is gone before the answer is made.
 
 ### Endurance Flight
 
-While gryphons can fly for extended periods, hippogriffs far outlast them. They can fly for an entire day without tiring significantly, maintain high speeds for hours, and recover quickly from exertion. This makes them ideal for long-distance travel and exploration.
+A hippogriff flies from dawn to dusk, holds its pace for hours and is fresh the next morning. It crosses a country in a day.
 
 ### Equine Intelligence
 
-The hippogriff inherits from its horse-half a form of intelligence that is different from but equal to the gryphon's. It understands simple language, remembers routes and places for decades, can problem-solve using physical objects, and can form deep emotional attachments. Hippogriffs have been known to return favors to humans who have treated them well, years or decades later.
+It knows a few words, remembers a place and a face for decades, works out a latch and a knot, and returns a kindness years later.
 
 ### Sure-Footed Mastery
 
-The hippogriff's hooves are capable of gripping virtually any surface—rock faces that would make normal horses slip, muddy terrain, icy slopes. Combined with its wing power, this allows the creature to land and take off from locations other flying creatures cannot easily access. In ground combat, this balance and sure-footedness lets the creature fight on broken ground that hampers its opponents.
+Its hooves hold on wet rock, ice and scree, and it lands and takes off from a mountain ledge, a bog or a shingle beach where no other flier of its size could.
 
 ### Willing Bond
 
-More so than a gryphon, a hippogriff can form a willing partnership with a human—and this bond is mutual and can be refused by the hippogriff without resentment. A hippogriff that has chosen a human partner will carry them in flight with careful consideration for their safety, will alert them to danger, and will provide protection and companionship. Unlike the gryphon, however, the hippogriff bond is not exclusive; a hippogriff can maintain the bond while also interacting with other humans and creatures. A hippogriff whose bonded human dies will grieve but will not become destructively territorial; it may eventually bond with another human or simply return to its migration patterns.
+A hippogriff chooses a rider freely and may refuse one without grudge. One that has chosen carries its rider with care, warns of danger and fights for them, and goes on dealing with other people and other beasts besides; a hippogriff whose rider dies grieves and in time takes to its roads again, or chooses another.
 
 ## Attributes
 

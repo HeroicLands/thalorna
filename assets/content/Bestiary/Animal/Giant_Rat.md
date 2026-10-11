@@ -224,60 +224,74 @@ sohl:
 
 ![[giantrat|Giant Rat]]{float=top-left}
 
-The torch catches a pair of eyes in the dark—low, reddish, reflecting the flame with a flat, hungry gleam. Then another pair. Then six more. The scratching sound you dismissed as settling masonry resolves into the rapid clicking of claws on stone, and the first shape emerges into the light: a rat the size of a large dog, its fur coarse and matted, its naked tail dragging behind it like a diseased rope. The incisors are the length of your thumb, yellowed and chisel-edged, protruding from a muzzle scarred by a lifetime of fighting over food. The smell is extraordinary—a concentrated distillation of filth, rot, and ammonia that makes your eyes water and your stomach clench. The creature shows no fear of the light. It shows no fear of you. It has the calm, assessing gaze of something that has learned through long experience that anything can be eaten if there are enough of you, and there are always enough.
+The cellar steps go down into water that comes over your boots, and the torch shows a vault of old brick with a grating at the far end where the dark runs on. Something is scratching beyond the grating. Then a pair of eyes catches the light, low and red, and another beside it, and six more behind. The first of them comes through the bars as if they were not there: a rat the size of a dog, gray-black and greasy, with a bald tail as thick as your thumb dragging in the water and two yellow teeth showing under the lip. It stops on the bottom step and looks at you without any fear at all. The smell reaches you a moment later, ammonia and rot, strong enough to water your eyes.
 
 # Dossier {#dossier}
 
-The Giant Rat is the universal vermin of civilization—a dog-sized rodent weighing twenty to fifty pounds that infests sewers, cellars, ruins, ship holds, granaries, and anywhere else that darkness and food waste intersect. They are found across every continent and in every settlement large enough to produce garbage. Giant rats are not natural animals—they are the product of magical contamination, alchemical runoff, or simply the accelerated evolution that occurs wherever large quantities of arcane waste accumulate near grain stores. Whatever their origin, they are now permanently established in the ecology of every major city in [[place-ankrscntnnt|Ankaris Continent]] and beyond. Individually, a giant rat is a nuisance—aggressive enough to bite, fast enough to be difficult to hit, but too small to pose a serious threat to an armed adult. In packs, they are dangerous. A dozen giant rats swarming from the darkness in a confined space can overwhelm and kill an armored warrior through sheer numbers, each bite tearing a small wound that bleeds and festers. Giant rats are the first serious combat encounter many adventurers face, and veterans who dismiss them as trivial tend to accumulate scars and infections that teach respect.
+The Giant Rat is the great rat of the old cities: a dog-sized rodent of fifteen pounds and more, which lives in colonies of twenty to fifty in sewers, cellars, granaries, wharves and ship holds, and comes out at night to eat whatever a city throws away and a good deal of what it keeps. The largest and oldest colonies are under [[place-magnapolis|Magnápolis]], where the paved streets sit on a celebrated system of sewers and aqueduct channels and the state granaries hold weeks of grain, and the rat has spread from there along the barge-roads and the shipping lanes to every port of the [[place-vylarianse|Vylarian Sea]] that keeps a granary. One rat is a nuisance that bites. A colony in a dark, narrow place is a pack that brings down an armed man and eats him where he falls.
+
+Where the breed came from is argued. The physicians of the Vylarian cities hold that it began where the spill from an alchemist's workshop ran into a granary drain, and point to the size and the fevers as proof; the ratters say a rat that eats well grows, and that the old cities have fed theirs well for a long time. What nobody disputes is that it is established now and that no city that has it has ever got rid of it.
 
 ## Presentation
 
-The giant rat is a scaled-up horror of the common rat—the same basic body plan made grotesque by size. The body is low-slung and elongated, covered in coarse, greasy fur that ranges from dark brown to gray-black and is perpetually matted with filth. The head is wedge-shaped with a long, pointed muzzle, small dark eyes that reflect light with a reddish gleam, and rounded ears that swivel independently to track sound. The defining feature is the incisors: a pair of upper and lower teeth that grow continuously throughout the animal's life, chisel-edged and strong enough to gnaw through wood, leather, rope, and even soft metal given time. The whiskers are long and constantly in motion, providing spatial awareness in total darkness. The tail is naked, scaly, and prehensile—used for balance and as a rudimentary grip in tight spaces. The paws are dexterous, with sharp claws designed for climbing as much as digging. The entire animal radiates an aura of filth—the fur is perpetually oily, the smell is overpowering, and the creature leaves a trail of grease and droppings wherever it moves.
+The common rat made large: a low, long body in coarse, greasy fur from dark brown to gray-black, always matted and usually wet, on short legs with clawed, clever feet that climb a brick wall as readily as they run a drain. The head is a long wedge with small dark eyes that throw back torchlight red, round ears that turn independently, and long whiskers that never stop moving. The tail is bare, scaled and as long as the body. The incisors are the thing a ratter looks at: two upper and two lower, yellow-orange, chisel-edged and always growing, worn sharp on wood, leather, rope and mortar. A rat leaves a smear of grease along every wall it runs beside and droppings the size of olive stones wherever it has been.
+
+## In the Land
+
+Giant Rats belong to the built world and to no wild country at all. They are thickest under Magnápolis, in the sewers the Curator of Works keeps and in the cellars and _horrea_ (state granaries) along the riverside wharves, and they are found in the drains and warehouses of the other great cities of [[place-midhalnrgn|Mídhalión]] and in the holds of the grain ships that work between them. A ship that has carried them brings them to its next port, so the harbor quarters of a city have them first and the inland market towns later. They are rare in a village, which has no drain to hide in, and absent from the open countryside. A colony holds a warren of its own digging or of the city's making, with dozens of ways in and out, and a cellar that connects to a sewer is part of the warren whether its owner knows it or not.
 
 ## Key Behaviors
 
-Giant rats are nocturnal, omnivorous, and opportunistic. They live in warrens—interconnected tunnel systems excavated beneath buildings, in sewer networks, in ship holds, and in the rubble of ruins. A warren houses a colony of twenty to fifty rats organized around a dominance hierarchy maintained through constant, vicious infighting. They eat anything organic: grain, meat, leather, wood, corpses, each other. They breed rapidly and continuously, with females producing multiple litters per year, which makes them virtually impossible to eradicate once established—a colony reduced to a handful of survivors will repopulate within months. Giant rats are intelligent for rodents, capable of learning trap locations, recognizing individual threats, and adapting their routes to avoid danger. They also spread disease on an extraordinary scale, carrying plague, filth fever, and a dozen other illnesses in their saliva, fleas, and droppings.
+A colony sleeps by day in the warren and comes out after dark to forage along fixed runs, the same ones every night, worn greasy along the walls. Rats eat grain, meat, leather, tallow, carrion, the dead of their own colony, and anything else organic, and they gnaw through what stands between them and food. A colony keeps a strict order, settled by constant fighting, and the largest rats feed first. The females breed several times a year, so a colony cut down to a handful is back to its old size within the season. Rats learn: they mark a trap and avoid it, remember a ratter's smell and his dogs, and change their runs when a run has cost them. A lone rat that meets something bigger squeals and runs, and the squeal brings the colony.
+
+## What the Ratters Do
+
+Every city that has the giant rat has ratters, freemen who are paid by households, warehouse-keepers and the city wardens to keep the colonies down, and a good one has a trade that goes from father to daughter. A ratter works with traps, with poisoned bait laid in the runs, and with dogs and ferrets bred for the work, and he goes into a cellar with a lantern on a pole, heavy boots and a leather apron, never alone. He knows that a colony cannot be killed out, only held back, and he charges by the season rather than by the rat. The granary-keepers line their bins with sheet lead and raise their floors on stone piers, and a warehouse that stores grain keeps a cat in every room. A bite is washed at once in vinegar or strong wine and watched for three days, because the fever that follows a bite kills more people than the bite does.
+
+## Signs
+
+- Greasy dark smears along the foot of a wall, at the height of a man's knee, worn into the plaster.
+- Droppings like olive stones in a line along a cellar floor.
+- A grain sack opened from the bottom and emptied overnight, with gnawed wood in the dust beneath it.
+- A dog that will not go down the cellar steps.
+- Red eyes in a drain grating that do not move when the lantern does.
 
 ## Combat Strategy
 
-Giant rats are cowards individually and terrors collectively. A lone rat encountering a threat will flee, squealing alarm calls that summon the colony. A pack of rats attacks from multiple directions simultaneously, swarming into melee range where their small size and numbers make them difficult to engage effectively. They target the feet, ankles, and legs—anything they can reach without climbing—and deliver rapid, slashing bites before darting away. The strategy is attrition: each bite is small, but the cumulative blood loss, pain, and infection risk escalates rapidly. In confined spaces—sewers, cellars, narrow corridors—this swarming tactic is devastating because opponents cannot maneuver, cannot bring heavy weapons to bear effectively, and cannot retreat without exposing their backs. Giant rats will pursue wounded prey but break off if the colony takes significant casualties, retreating into tunnels too small for pursuers to follow.
+One rat runs. A colony comes out together from several holes at once, keeps to the dark at the edge of the light, and closes from every side in a rush that goes for the feet, the ankles and the backs of the legs, biting and darting back. It tries to bring a man down, because a man on the ground can be reached everywhere. Narrow places suit it: a sewer, a cellar or a ship's hold takes away the room to swing a weapon and the chance to retreat. The colony breaks off when it has lost more than a few of its number and goes into the holes, where nothing larger can follow, and it comes back the next night. Fire, dogs and open ground turn it; a man who keeps his back to a wall, his boots laced and a torch in his off hand fights it on fair terms.
 
 ## Attack Methods
 
 ### Swarming Bite
 
-The rat darts in, delivers a rapid slashing bite to the nearest exposed flesh, and retreats. The incisors are sharp enough to cut through cloth and light leather, and the bite is delivered with a twisting motion that tears rather than punctures, creating wounds that bleed freely. Individually minor; collectively lethal.
-
-### Gnawing Attack
-
-When a target is pinned, down, or unconscious, rats will gnaw—settling their incisors into flesh and working with the same patient, mechanical rhythm they use on wood and grain. This is how giant rats kill: not through dramatic violence but through relentless, grinding consumption.
-
-### Overwhelming Rush
-
-A full colony swarming simultaneously creates a wall of fur, teeth, and claws that is as unnerving as it is dangerous. The sheer number of bodies can knock opponents off balance, and the noise—dozens of rats squealing, hissing, and scratching simultaneously—can break morale.
+The rat darts in, bites with a twist of the head that tears rather than punctures, and is back out of reach before the blade comes down. The teeth go through cloth and light leather. One bite is a small wound that bleeds freely; twenty are a man on the floor, and once he is down the rats settle their teeth in and gnaw.
 
 ## Special Abilities
 
-### Disease Vector
+### Fouled Bite
 
-Giant rat bites carry a high risk of infection. Wounds that are not cleaned and treated promptly can develop filth fever, plague, or other diseases transmitted through the rat's contaminated saliva. This makes every bite a delayed threat—a wound that seems minor in combat can kill days later if untreated.
+The teeth carry the filth the rat lives in. A bite that is not cleaned festers within a day, and some bring the fever the ratters call cellar-ague, which kills in a week. The danger of a fight with rats comes as often in the days after it as during it.
 
-### Darkvision
+### Sight in the Dark
 
-Giant rats navigate and hunt in total darkness using their whiskers, hearing, and sense of smell. Darkness costs them nothing, which gives them a significant advantage in their preferred habitats—sewers, cellars, and underground warrens.
+Rats find their way and hunt in total darkness by whisker, ear and nose. Darkness costs them nothing, and the places they live are dark.
+
+### Overwhelming Rush
+
+A colony coming out all at once is a carpet of bodies, noise and teeth. The weight of it knocks a man off balance, and the squealing of fifty rats in a vaulted cellar breaks the nerve of men who have stood in a battle line.
 
 ### Tunnel Escape
 
-Giant rat warrens include dozens of exit tunnels, many too small for humanoid pursuers to follow. A colony that is losing a fight can melt away into these tunnels in seconds, regrouping elsewhere in the warren to attack again from a different direction—or simply waiting until the intruders leave before reoccupying the space.
+A warren has dozens of holes too small for anything but a rat or a ferret. A colony that is losing a fight is gone into them in a few breaths and comes out again behind the party, or waits until the party has left and takes the cellar back.
 
 ## Attributes
 
-- **Strength:** 5-8 (1d4+4)—Modest; jaw is strong for gnawing but the body is small
-- **Endurance:** 6-9 (1d4+5)—Decent survivability; disease resistance from constant filth exposure
-- **Dexterity:** 11-16 (1d6+10)—Quick and precise; excellent climbers
-- **Agility:** 12-17 (1d6+11)—Fast, nimble, and difficult to hit in melee
-- **Perception:** 11-16 (1d6+10)—Excellent hearing, smell, and spatial awareness in darkness
-- **Aura:** 3-6 (1d4+2)—Universally reviled; no cultural or spiritual value
-- **Will:** 6-9 (1d4+5)—Cowardly alone; braver in numbers
-- **Reasoning:** 6-9 (1d4+5)—Cunning; learns trap locations and adapts behavior
-- **Creativity:** 5-8 (1d4+4)—Some problem-solving; finds new routes and food sources
+- **Strength:** 5-8 (1d4+4)
+- **Endurance:** 6-9 (1d4+5)
+- **Dexterity:** 11-16 (1d6+10)
+- **Agility:** 12-17 (1d6+11)
+- **Perception:** 11-16 (1d6+10)
+- **Aura:** 3-6 (1d4+2)
+- **Will:** 6-9 (1d4+5)
+- **Reasoning:** 6-9 (1d4+5)
+- **Creativity:** 5-8 (1d4+4)

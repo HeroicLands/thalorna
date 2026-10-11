@@ -231,55 +231,73 @@ sohl:
 
 ![[spctrwlf|Specterwolf]]{float=top-left}
 
-In the darkness ahead, you hear what should be the sound of paws on stone—but the sound comes wrong, as if from a great distance even as the shape moves toward you. The form is wolflike but not quite solid; it seems to slip between shadows and reality with each step. Its eyes are pale and depthless, regarding you with an intelligence that no natural wolf should possess, and something about its presence makes your skin crawl with primal warning.
+The ring wall stands black against the stars, and between you and it the ground is empty. Then it is not. A wolf is trotting across the gravel toward the camp, and the sound of its paws reaches you late and faint, as if from a long way off, though it is only a bowshot away. You can see the ground through it. Its eyes are pale silver and catch no firelight. It stops where the light ends, and three more come up beside it out of nothing, and the cold that comes off them reaches the fire before they do.
 
 # Dossier {#dossier}
 
-Specterwolves are the remnants of ancient beasts that died in places saturated with death and despair. They exist partially in the spirit realm, hunting on both sides of the veil between worlds. Some are wild predators; others are bound by dark magicians or haunted shamans as guardians or hunters. A Specterwolf pack is among the most terrifying threats to isolated travelers—coordinated, relentless, and able to move through obstacles that would stop normal wolves. They are intelligent enough to plan hunts and to learn from failures.
+The Specterwolf is a spirit in the shape of a big wolf, one of the predator spirits that gather where the dead have gone unreceived and hunt on both sides of the boundary between the worlds. It is seen most where that boundary is thinnest: on the thin [[lore-bloodfield|blood-fields]] such as [[place-jilaq|Jilaq]], where hunters cross into the world in a half-material form any night of the year, and in old ruins and barrow-ground where many died badly and nobody received them. It runs in packs of four to eight, follows its prey for days, and kills by draining as much as by biting. It does not eat. It hunts because hunting is what it is.
+
+The steppe tribes count it among the [[being-yiqnotud|Yiqnotud]], their word for the hunters of the blood-fields, which names a kind of creature and not any one of them. Elsewhere it has other names. Some packs are bound by necromancers or by shamans who have gone wrong as guards or hounds of their own, and a bound pack does not leave the ground its master set it to keep.
 
 ## Presentation
 
-A Specterwolf is roughly the size of a large wolf, with a frame built for endurance hunting. Its body is semi-transparent and composed of mist and shadow, with a shimmer like heat haze that distorts the background. Its fur, when visible, appears matted and unkempt, as if it has been wet and dried many times. Its eyes are the sharpest feature—pale blue or silver, often seeming to glow with faint luminescence. Its mouth, when open, shows translucent fangs that look more substantial than the rest of its form. The creature leaves no footprints and produces little sound, and where it passes, the temperature drops noticeably.
+A large wolf, long-legged and lean, built to run all night, made of mist and shadow with a shimmer like heat-haze that bends the ground seen through it. Where the fur shows it is matted and lank, as if soaked and dried many times. The eyes are the clearest part of it, pale blue or silver, faintly lit from within. The fangs, when the mouth opens, look more solid than the rest of it. It leaves no prints, makes little sound and that sound comes from the wrong distance, and the air goes cold where it has passed.
+
+## In the Land
+
+Specterwolves are found where unreceived dead are: the thin blood-fields of the [[place-khzryndsrtrgn|Khazryn]], the barrows and battlefields of the north, and ruins where a whole people died and nobody spoke their rites. A pack holds that ground and ranges out from it at night, and a pack that has killed in a place returns to it. On a moderate field they are a sight at the edge of vision and a howl in the dark; on a thin field they cross into the world, take hold and kill. They avoid daylight and are seldom seen far from the field or ruin they belong to, except when they are following something.
 
 ## Key Behaviors
 
-Specterwolves are pack hunters that display eerie coordination even without visible communication. They stalk prey with patience, sometimes following targets for days to exhaust them before attacking. Unlike natural wolves, they do not require sustenance in the normal way; they hunt from compulsion rather than hunger. They are most active at night and in shadow, and they seem to avoid direct sunlight. They show strong territorial behavior and will defend their hunting grounds viciously against both other predators and humans. A pack that has tasted blood in an area will return to that place repeatedly.
+A pack hunts at night and in shadow. It picks its prey, follows it at a distance for hours or days, and lets fear and lack of sleep do part of the work, and it closes when the prey is alone, exhausted or in the dark. The wolves coordinate without sound. They pass through worked stone, timber and metal as if these were air, so a wall or a door is no defense, but living rock and undug earth stop them. They see in full darkness and seem to sense the living by their warmth and their fear rather than by smell. They learn: a pack that has been driven off by fire waits for the fire to burn down.
+
+## What People Do
+
+Every people that lives beside a blood-field keeps the same habit—nobody crosses after dark, and the road bends round it—and that habit is most of the defense against specterwolves. A party that must camp near one keeps a large fire and keeps it fed until dawn, and camps against a natural rock face, not a wall. Weapons blessed by a priest and blessed light hurt them, and a holy symbol held high makes a pack hang back. Killing a pack on its own ground does not end it: the wolves gather again within days. What ends them is ending the field, by the settlement rite of the people whose dead lie there, or destroying whatever object binds a bound pack to its master.
+
+## Signs
+
+- Wolves seen at the edge of a camp's light that cast no shadow and leave no tracks.
+- A howl that seems to come from very far off and from close by at once.
+- A sudden cold on a still night, and the horses and camels all facing the same way.
+- A traveler found at dawn at the edge of a blood-field, gray-faced, with cold marks on him and no blood.
+- A sleeper who wakes weak and cold after dreaming of running.
 
 ## Combat Strategy
 
-Specterwolves use pack tactics to overwhelming advantage, attempting to surround and isolate opponents. They exploit their phasing ability to move through obstacles and attack from unexpected angles. One wolf attacks from the front while others emerge from shadows or stone to flank and attack. They are intelligent enough to recognize which opponents pose the most threat and will focus on disabling those first. Against light or holy magic, they become more cautious and may choose to hunt elsewhere. A single Specterwolf separated from its pack becomes noticeably less effective and may attempt to flee.
+The pack surrounds and isolates. One wolf comes at the front to hold the eyes while the others come through walls, stones and wagons from the sides and behind, and they go for whoever carries the light, then whoever is alone or hurt. They bite, drain and fall back into the dark, and come again. A specterwolf cut off from its pack is far less sure and often flees. Against fire, blessed weapons or holy power they grow cautious, and a well-fed fire keeps a pack at bay until it dies down; then they come in.
 
 ## Attack Methods
 
 ### Ethereal Bite
 
-The wolf’s jaws close around a victim and the experience is nightmarish—teeth seem to pass partially through armor and flesh. The bite wounds feel cold and wrong, and the victim feels a deep draining sensation as if the attack reaches into their vitality itself. Multiple bites can leave a person unable to continue fighting or fleeing.
-
-### Disarming Howl
-
-The Specterwolf releases a cry that is both sound and something more—a keening that seems to vibrate at a fundamental level. Those who hear it directly experience vertigo, disorientation, and a momentary inability to coordinate themselves. Weapons may fall from weakened hands, and footing becomes uncertain.
+The jaws pass partly through armor and flesh, and the bite is cold and wrong: a draining that reaches the strength under the wound. A man bitten several times cannot fight or run, and the wounds heal slowly and leave him weaker for weeks.
 
 ## Special Abilities
 
+### Disarming Howl
+
+The wolf gives a keening howl that the body feels as much as the ear hears. Those close to it are dizzy and clumsy for a moment, weapons slip from weakened hands, and footing goes.
+
 ### Phasing
 
-The Specterwolf can move through stone, wood, and other solid obstacles as if they did not exist. It cannot move through barriers of living earth or unworked stone, which seem to impede it significantly. Worked stone, metal, and refined materials offer no resistance.
+The wolf passes through worked stone, timber, metal and anything else made by hands. Living rock and unworked earth stop it.
 
 ### Pack Coordination
 
-Individual Specterwolves within a pack seem to share some form of connection that allows them to coordinate without visible communication. They position attacks with supernatural timing and support each other in combat with instinctive precision.
+The pack moves and strikes as one, without sound, and times its attacks from several sides together.
 
 ### Spirit Senses
 
-The Specterwolf can see in complete darkness and can detect prey by their living essence rather than by sight or smell. It seems to sense emotional states and can track targets across ground that would be difficult for normal predators.
+It sees in complete darkness and finds the living by their warmth and their fear, across ground no natural tracker could follow.
 
 ### Life Drain
 
-The necrotic energy in the Specterwolf’s bite does more than wound—it saps the victim’s strength and vitality. Wounds inflicted by a Specterwolf are slow to heal and leave the victim feeling diminished even after physical recovery.
+Its bite saps strength and vitality as well as flesh, and a man who has been bitten feels diminished long after the wound has closed.
 
-## Additional Information
+### Weaknesses
 
-Specterwolves are vulnerable to bright light and to weapons blessed or imbued with holy magic. Bright light drives them to ground and makes them less mobile and dangerous. A well-lit campfire can deter a pack, though determined wolves may simply wait for the light to fade. A few rangers and shamans claim that Specterwolves can be driven off or negotiated with if approached with the proper ritual respect. A Specterwolf pack killed in its territory may reform after several days, particularly if the source of its manifestation is not addressed. Permanent destruction requires either destroying the binding object if one exists, or cleansing the location of the death and despair that created the creatures.
+Bright and blessed light drives it back and makes it slow and easier to strike, blessed weapons wound it, and a pack destroyed on its ground re-forms in days unless the field is settled or its binding broken.
 
 ## Attributes
 

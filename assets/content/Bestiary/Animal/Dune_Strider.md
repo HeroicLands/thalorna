@@ -237,43 +237,61 @@ sohl:
 
 ![[dnstrdr|Dune Strider]]{float=top-left}
 
-The creature is impossibly tall, standing a full head and shoulders above human height on legs like living stilts. Tan and cream plumage ripples in the desert wind, providing camouflage so perfect that distance makes the creature seem to materialize from sand itself. The head is proportionally tiny, crowned with a wicked curve of beak, but the eyes are alert, intelligent, and constantly scanning. When it moves, the motion is economical and graceful: each step covers a great stretch of ground, the powerful legs driving the body forward in bursts of speed. When it runs, dust rises in billowing clouds that obscure all vision, a golden veil between predator and prey.
+The heat-shimmer on the gravel reach has had shapes in it all morning, and for an hour you have taken these for more of the same. Then one of them turns its head. Five birds, each as tall as a man on a camel, stand on legs like stilts a long bowshot off, tan and cream against the tan and cream of the ground, watching the string with small, bright eyes. One takes a step. The step covers more ground than a horse's bound, and the dust it raises hangs in the still air behind it like smoke.
 
 # Dossier {#dossier}
 
-The Dune Strider is an enormous, flightless bird found in hot deserts. Standing eight to ten feet tall and weighing one hundred fifty to three hundred pounds, these creatures are well adapted to desert life. They are foragers, eating desert plants, insects, and seeds. They are social animals, typically moving in small herds of four to six individuals. While not aggressive by nature, they are capable of defending themselves with powerful kicks capable of breaking bones and killing predators. They are famous for their speed—capable of sustained running across open desert at speeds approaching thirty miles per hour. A mounted rider on a trained Dune Strider can cross desert terrain faster than nearly any other land mount. Adventurers encounter these creatures while traveling desert regions, sometimes attempting to capture young birds for mount training.
+The Dune Strider is the great flightless bird of the hot deserts: eight to ten feet tall, two hundred pounds, a grazer of the sand seas and gravel reaches of the [[place-hskrrgn|Hosikor]] and the dunes of [[place-dunharargn|Dunhara]]. It goes in small herds of four to six, eats the thin desert plants, seeds and insects, and runs from everything, at a pace that nothing on the sands can match. It kills only when it cannot run, with a kick that breaks a man in half.
+
+The tribes of both deserts eat it when they can catch it, which is seldom, and the few that have been raised from the egg and broken to ride are the fastest mounts on the desert and the least trustworthy.
 
 ## Presentation
 
-An enormous flightless bird with extremely long, powerful legs and a small head disproportionate to body size. The plumage is tan and cream, providing excellent desert camouflage. The beak is relatively small but sharp and capable. The feet are wide and clawed, adapted for sandy terrain. The body is streamlined, suggesting speed. The tail is long and used for balance during rapid running.
+A huge, long-necked bird on two immensely long legs, with a small head and a short, sharp, curved beak. The plumage is tan and cream, loose and shaggy over the body and thin on the neck and legs, and it matches the desert so well that a standing herd disappears at a few hundred paces. The feet are broad, two-toed and clawed, for sand; the legs are corded with muscle. The body is deep and the long tail-plumes trail behind it at a run for balance. It has small, useless wings that it spreads to shade its young.
+
+## In the Land
+
+Dune Striders range the sand seas, the gravel reaches and the scrub margins of the Hosikor, where a herd works between the wells on a circuit of its own, and the deep dunes of Dunhara to the south, where the Dunhari tribes know them as a thing to be eaten at the end of a long hunt. They need open ground to run on and avoid the ravines and the black-rock country. They stand in the shade of a dune through the heat of the day and graze in the morning and evening, and they drink at the same wells the caravans do, before the caravans arrive.
 
 ## Key Behaviors
 
-Dune Striders are social and herbivorous, foraging in small herds. They are wary and quick to flee from perceived threats. They are capable of sustained running and can travel vast desert distances. They breed seasonally, with males displaying elaborate dances.
+A herd grazes spread out, with one bird always standing with its head up. It bolts at the first sight of a rider and runs for miles without slowing, at a pace near that of a galloping horse and held far longer than any horse can hold it. The cock birds dance in spring, a rolling, wing-spreading display on open ground that can be seen from a long way off. A hen lays in a scrape in the sand and both parents sit, and a sitting bird that is approached does not run. It stands, spreads its wings and kicks.
+
+## What the Tribes Do
+
+The Sowides hunt the Strider by running it: three or four riders on fresh horses in relays, over half a day, until the bird stands. The meat feeds a camp for a week, the eggs are the size of a man's head, and the feathers trade south. A chick taken from the scrape can be raised and, in a few hands, ridden; a broken Strider crosses sand faster than a camel and farther than a horse, and it will throw and kick its rider the first day he is careless. No tribe keeps a string of them. The Dunhari hunt them the same way and value the leg sinew for bowstrings.
+
+## Signs
+
+- Two-toed tracks the length of a man's forearm, spaced further apart than a horse's bound.
+- A rolling cloud of dust on the horizon in dead calm, moving faster than a rider.
+- A shallow scrape in the sand with a great cream-colored egg in it and a bird standing over it.
+- Droppings the size of a man's fist among the scrub, and the scrub itself cropped at the height of a man's head.
+- A line of shapes in the heat-shimmer that are all facing the same way.
 
 ## Combat Strategy
 
-Dune Striders flee from threats but will kick defensively when cornered. A herd may stampede if threatened.
+The herd runs. A bird that is cornered, injured or sitting on eggs stands and kicks forward with one leg at a time, and the kick breaks a thigh-bone or a chest and throws a man several yards. It pecks at the eyes of anything that comes close. A startled herd in a narrow place stampedes straight through whatever is in front of it. The one way to hold a Strider is to tire it, and the one way to kill it on the ground is to keep clear of the legs and come in from behind.
 
 ## Attack Methods
 
 ### Powerful Leg Kick
 
-The Dune Strider delivers powerful kicks with legs like living clubs, capable of breaking bones and knocking targets backward.
+The bird kicks forward with the whole weight of the leg behind the foot and its claw. The blow breaks bones, caves in a chest and throws the victim backward.
 
 ### Beak Peck
 
-The beak can inflict minor injuries on small threats.
+The beak strikes at the face and eyes. The wound is slight and the aim is not.
 
 ## Special Abilities
 
 ### Desert Speed and Endurance
 
-Dune Striders can run at high speeds across desert terrain for extended periods. Few creatures can keep pace with them for long.
+A Strider runs across sand and gravel at the pace of a galloping horse and holds it for hours. Nothing on the desert catches one that has started first.
 
 ### Dust-raising Camouflage
 
-When running at speed, the Dune Strider kicks up clouds of dust that obscure vision and create a defensive screen.
+A running bird or herd throws up a cloud of dust and sand that hides it and blinds whatever follows, and a standing herd is the color of the ground.
 
 ## Attributes
 

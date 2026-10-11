@@ -252,55 +252,69 @@ sohl:
 
 ![[cheeprow|Cheeprow]]{float=top-left}
 
-The sound reaches you first: a soft chirping, bright and almost musical, like tiny bells chiming in sequence. When you locate the source, your eyes fall upon a creature so absurdly cute that your guard drops instantly. Standing barely a foot tall, it resembles a fluffy, round ball of dun-colored fur perched on stubby legs, with enormous dark eyes that sparkle with innocent curiosity. Its small beak opens in what seems like a happy chirp as it hops closer, investigating a button on your pack with tender fascination. You would almost swear the creature was smiling—until, moments later, you hear the sound repeat from somewhere else nearby, and again, and again, each new chirp answered by others, drawing from every shadow and corner around you.
+Something is chirping in the grass by the fire: a soft, bright run of notes like small bells. It hops into the light, a round ball of dun fur no higher than your boot, with two huge dark eyes and a little beak, and tilts its head at the buckle on your pack. It chirps again, closer. Out in the dark beyond the fire a second chirp answers it, and a third, and then a dozen, from every side of the camp.
 
 # Dossier {#dossier}
 
-The Cheeprow appears to be a small, harmless creature—a living mascot barely ten inches tall. Yet this deceptive cuteness masks a dangerous pack predator. Individual Cheeprows are curious and seemingly harmless; they investigate travelers and camps with innocent enthusiasm, drawn to shiny objects and food. Lone Cheeprows have been known to follow adventurers for miles without aggression, chirping contentedly. However, when their numbers grow, their true nature emerges: coordinated, savage, and relentless. A solitary Cheeprow represents curiosity; a dozen represent danger; a swarm represents extinction for anything they can surround and overwhelm. Adventurers encounter Cheeprows in grasslands, forests, and scrublands, where these creatures nest in colonial burrows. A single curious Cheeprow often precedes an encounter with its entire pack.
+The Cheeprow is a ten-inch ball of fur with a beak, big eyes, four short legs and a pair of stubby wings, which lives in colonies of dozens or hundreds in burrows under the open grass of the steppe and scrub country: the [[place-wlqtrrgn|Welqator]] on the western edge of the Khazryn, and the grass-belt of [[place-velanthrgn|Velanthia]] beyond it. One Cheeprow is a curiosity that follows a traveler for miles, chirping. Eight together are a pack that kills. It is the one animal of the grass that herders teach their children not to feed.
+
+A single Cheeprow weighs three pounds, eats insects, mice and roots, and comes to a camp for food and for anything that shines. What it finds, it chirps about, and the chirp carries. Within a short while the colony has come to the sound, and once six or eight are gathered the behavior of every one of them changes.
 
 ## Presentation
 
-A round, fluffy creature approximately ten inches tall and six inches across, covered entirely in soft, dun-colored fur ranging from pale tan to warm gray. The body is stout and compact, supported by four short, stubby legs that allow hopping movement. The head is disproportionately large and almost perfectly spherical, dominated by enormous dark eyes that comprise nearly a quarter of the face’s surface area—these eyes are bright, shiny, and convey an impression of innocent curiosity. The small, round beak is used for feeding and for producing the characteristic chirping vocalizations. The cuddly exterior hides sharp claws on the forelimbs and sharp teeth made for tearing meat. The fur provides excellent camouflage in grassland and scrub environments. Individual Cheeprows are indistinguishable from one another, and their responses to one another are governed by complex pheromone communication.
+A round body about ten inches high and six across, covered in soft fur from pale tan to warm gray, on four stubby legs that hop rather than walk. A pair of short, rounded wings carries it in low, whirring flights of a few dozen yards at a time, and it covers more ground in the air than on its feet. The head is nearly a sphere and most of it is eyes: enormous, dark and glossy. The beak is small and round. Under the fur are sharp claws on the forelimbs and a mouth of small teeth for tearing meat, and none of this shows while the animal is sitting in the firelight looking at a buckle. One Cheeprow looks exactly like another.
+
+## In the Land
+
+Cheeprows burrow in dry, open ground with grass cover: the spring grass and summer dust of the Welqator, the steppe margin of Velanthia, and the scrub on the edges of the camel road where the first Sowides tribes graze. A colony's burrows spread across an acre or more of a low rise, with dozens of mouths, and the ground above them is cropped bare. They are thickest where a water source draws mice and insects, which is also where a caravan camps, and the tribes who sell passage on the western road reckon a Cheeprow rise as a place to pass before dark and not to sleep.
 
 ## Key Behaviors
 
-Cheeprows are colonial creatures, nesting in burrow systems containing dozens to hundreds of individuals. They are most active at dawn and dusk, foraging for insects, small animals, and roots. Individual Cheeprows separated from their nest become anxious and attempt to locate their group, chirping continuously to communicate. A single Cheeprow exploring a human camp is investigating for food and shiny objects—the creatures are attracted to reflective materials, possibly because such reflections mimic water sources or other shiny-eyed creatures. When a Cheeprow discovers something of interest, its chirp changes in pitch and pattern, communicating the discovery to nearby Cheeprows. This chirp triggers a cascade effect: other individuals are drawn to the location and repeat the discovery chirp, bringing more Cheeprows from increasing distances. Within minutes, dozens of creatures can gather in response to a single discovery. Once numbers are sufficient, the behavior shifts—the creatures cooperate in a manner that suggests a shared intelligence or a pheromone-driven instinct. They attack in coordinated waves, using tactics that suggest previous experience of how prey defends itself.
+A colony forages at dawn and dusk and sleeps underground through the heat and the dark. A Cheeprow parted from its colony chirps without stopping until it finds another. One that finds food, or a bright object, changes the pitch of its chirp, and every Cheeprow in hearing repeats the call and comes toward it, so that the sound spreads outward across the grass and brings in animals from half a mile. Once the gathered number passes six or eight, the pack turns on whatever drew it: it surrounds the thing, closes, and attacks the legs, the hands and the face from every side at once. Food and bright metal make the frenzy worse. The tribes say a Cheeprow pack has no more mind than a single bird has, and that the mind arrives with the numbers.
+
+## What the Herders Do
+
+A herder who finds one Cheeprow in his camp kills it quietly or drives it off at once, before it has found anything to chirp about, and never lets a child feed one. A string that must camp near a rise covers its metal, keeps its food in closed bags, and sets a watch to kill the first bird that comes to the fire; the chirp that brings a pack is a distress call as much as a discovery call, so the watch kills it with one blow, not with a chase. A pack already gathered is met with fire, which they will not cross, and with cloaks wound round the forearms. The Welqator tribes burn a rise that lies too close to a well, and the colony digs in again a mile off within the season.
+
+## Signs
+
+- A low rise of close-cropped grass pocked with holes the width of a fist.
+- One round, dun bird hopping behind a string for a mile, chirping, with no others in sight.
+- A chirp answered from the dark, and the answer answered.
+- Small, clean-picked bones of hares and birds scattered round the burrow mouths.
+- A fox or a dog found dead on the grass, bitten in a hundred places.
 
 ## Combat Strategy
 
-A solitary Cheeprow will not attack a human. If threatened or grabbed, it will struggle and chirp in distress—a sound that immediately triggers pack response from any Cheeprows within hearing distance. Once the pack assembles and numbers reach a critical threshold (approximately six to eight individuals), the collective behavior becomes predatory. The Cheeprows no longer investigate—they attack. Their tactics are coordinated: they surround the target, keep it from retreating, and attack exposed flesh, eyes, and extremities. They use their small size to advantage, clustering around legs and arms where defenders cannot easily target them. Multiple Cheeprows simultaneously gripping different limbs can immobilize even a large humanoid. The presence of food or shiny objects amplifies this aggression—the creatures become increasingly frenzied in the presence of provisioning opportunities.
+One Cheeprow does not attack. Seized, it struggles and shrieks, and the shriek brings the pack. Six to eight together surround a person, keep between them and the open grass, and go for the ankles and calves, the hands and the eyes, clinging where a sword cannot be swung and a boot cannot reach. Several on each limb will bring a grown man down, and the pack does not stop while anything moves. They are hard to hit, they fly over a swung blade and come back, and they do not run from their own dead. Fire turns them, and so does the loss of most of the pack, which is more birds than most parties can kill before they are on the ground.
 
 ## Attack Methods
 
-### Claw Grip and Bite
+### Claw Grip
 
-Multiple Cheeprows will grab a single target simultaneously, their claws latching onto clothing, pack straps, or skin. Once secured, they bite with surprising force, tearing flesh and puncturing skin. Dozens of small bites and cuts together can cause significant blood loss and leave many wounds open to infection. The creatures will continue biting and tearing until the target is immobilized or the Cheeprows are physically removed.
+Several Cheeprows at once catch hold of clothing, straps and skin with their foreclaws and cling, pulling the limb down and holding it for the others.
 
-### Coordinated Swarming
+### Bite
 
-As the pack’s numbers increase, individual Cheeprows coordinate attacks, attacking from multiple angles simultaneously. This prevents the target from concentrating defense in a single direction. Cheeprows attacking from behind are particularly effective, as defenders often focus on visible threats in front of them.
-
-### Distraction and Overwhelming
-
-Cheeprows will focus attacks on creating opportunities for additional Cheeprows to inflict damage. A creature busy defending against one line of attack is open to attack from others. The small size of each creature makes them difficult to strike, even with magic or weapons that sweep an area.
+Once holding, each bird bites with small sharp teeth and tears. A single bite is a nuisance; a hundred open a man from ankle to throat, and every one of them festers.
 
 ## Special Abilities
 
 ### Deceptive Appearance and Pack Mentality
 
-Individual Cheeprows present as harmless, cute animals that inspire protection rather than caution. This deception allows them to gather in numbers unmolested. Once sufficient numbers are present, they operate as a unified organism, communicating through chirps and pheromones. The coordination displayed by large packs suggests either a shared intelligence or an elaborate instinct—the mechanism is not fully understood.
+Alone, a Cheeprow is a harmless and appealing animal that people feed and children chase, and it gathers its numbers unmolested. Past a certain count the gathered birds act as one, by chirps and by scent, and no one has found where the one mind is.
 
 ### Rapid Summoning and Escalation
 
-When threatened, a Cheeprow emits a wailing cry that travels considerable distance and triggers immediate response from the entire pack. Even Cheeprows a half-mile away will begin moving toward the sound. This allows the pack to rapidly concentrate force against any threat, and attacking a single Cheeprow triggers an immediate and severe response from all nearby individuals.
+A frightened or excited Cheeprow calls in a pitch that carries half a mile over open ground, and every bird that hears it comes and repeats it. The pack arrives in minutes, from all sides.
 
 ### Small Size and Agility
 
-Cheeprows are small and agile enough to evade most targeted attacks. They can squeeze through gaps that would impede larger creatures, climb into places humans cannot reach, and move quickly across terrain cluttered with obstacles. Their small size also makes them difficult to strike with many weapons—a sword swing aimed at a Cheeprow often passes over or around them, inflicting no damage.
+A Cheeprow slips through gaps, climbs where a man cannot reach, and lifts over a swung weapon in a whir of short wings. It is very hard to strike cleanly, and harder when there are thirty of them.
 
 ### Resistance to Pain and Relentless Aggression
 
-Once the pack reaches critical mass, individual Cheeprows display apparent indifference to injury. A Cheeprow with a fatal wound will continue attacking. This suggests either a different response to pain than mammals have, or something in the blood that heightens aggression during pack hunting. Multiple injuries do not dissuade the creatures—they continue attacking until physically incapable of movement.
+In the frenzy, a wounded Cheeprow keeps attacking until it cannot move. A dying bird bites as hard as a whole one.
 
 ## Attributes
 
