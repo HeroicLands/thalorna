@@ -65,7 +65,7 @@ Underneath all of it he holds that a person owes the law his obedience even wher
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen, the resident, and the bargain between them
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods and the imperial cult
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the chartered arcane order
-- [[skill-vylarilng|Vylari]]—the tongue the Common Calendar and the law are written in
+- [[skill-vylarilng|Vylari]]—the tongue the Vylarian Calendar and the law are written in
 
 ## Glossary {#glossary}
 

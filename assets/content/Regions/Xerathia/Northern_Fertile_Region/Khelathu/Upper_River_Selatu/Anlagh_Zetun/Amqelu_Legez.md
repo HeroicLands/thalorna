@@ -21,7 +21,7 @@ Come to **Amqelu-Legez** in the **Season of Shelu** and the first thing you meet
 
 Amqelu-Legez is the river-port of the [[affiliation-selatnlghztn|Selat of Anlagh-Zetûn]], a town of about 25,000 boatmen, porters, measurers and traders. It is the throat through which the wheat of the great flood-basin reaches the capital and the delta. [[place-anlaghzetun|Anlagh-Zetûn]] grows the harvest, and Amqelu-Legez gathers, measures and ships it, while the granary-keepers and the grain-factors haggle on the docks beside the barges.
 
-It is the busiest and most worldly place in an otherwise inward-looking selat. The river traffic brings news and strangers here that the farm-villages never see, so a visitor who wants a passage downriver or a word from beyond the basin asks at the wharves and not in the fields. Where the rest of the selat lives by the field, Amqelu-Legez lives by the river and the barge.
+It is the busiest and most worldly place in an otherwise inward-looking selat. The river traffic brings news and strangers here that the farm-villages never see, so a visitor who wants a passage downriver or a word from beyond the basin asks at the wharves and not in the fields. Where the rest of the selat lives by the field, Amqelu-Legez lives by the river and the barge. On the anniversary of the granary rising the poor of the port go up to Anlagh-Zetûn and eat the bread the selat throws over the wall of [[place-eleventhgran|the Eleventh Granary]].
 
 ## See Also
 

@@ -482,7 +482,7 @@ Merchant-Prince [[being-lekhebu2|Lekhebu]]
 Gahkar the Dismissive
 : An aging master timberwright who refuses to acknowledge Githara's superior knowledge and spreads rumors that she succeeds only through her mother's connections rather than merit.
 
-[[affiliation-linlagrkhlth|Lin'Lagaru elu Aû'Khelâthu]]
+[[affiliation-linlagrkhlth|Lin'Mazgaru elu Aû'Khelâthu]]
 : A loose coalition of timber dealers focused purely on volume, who view Githara's refusal to supply inferior wood as an affront to their profits.
 
 Guild Politics

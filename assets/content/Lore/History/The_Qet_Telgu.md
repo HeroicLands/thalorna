@@ -9,7 +9,7 @@ data:
   packFolder: regkhhist
   events:
     - when: ~-2110
-      stated: {calendar: khelathclndr, text: "1 ST"}
+      stated: {calendar: khelathclndr, text: "1 FT"}
       kind: founding
       depth: world
       sources: [place-ankrscntnnt, affiliation-empireakhlth]

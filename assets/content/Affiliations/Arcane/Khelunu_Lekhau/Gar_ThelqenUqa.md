@@ -1,6 +1,6 @@
 ---
 shortcode: garathenuqa
-name: {full: Gar-Athen'Uqa, aliases: [House of the Disk, The House of Sun]}
+name: {full: Gar-Thelqen'Uqa, aliases: [House of the Disk, The House of Sun]}
 type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]
@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: []}}
 
 "Be in the courtyard before the disk clears the wall," a **Reader of the Hours** tells a novice at dawn. "The formula does not care that you slept badly."
 
-**Gar-Athen'Uqa**, the **House of the Disk**, holds the day half of the circuit: light and the seeing it permits, the heat that purifies, and the vitality and authority that flow from both. [[lore-athenuqa|Athen'Uqa]] covers kingship as well as the sun. Its practitioners work in the open and at fixed hours, and its formulae are timed to the sun's position, not to the practitioner's convenience.
+**Gar-Thelqen'Uqa**, the **House of the Disk**, holds the day half of the circuit: light and the seeing it permits, the heat that purifies, and the vitality and authority that flow from both. [[lore-athenuqa|Thelqen'Uqa]] covers kingship as well as the sun. Its practitioners work in the open and at fixed hours, and its formulae are timed to the sun's position, not to the practitioner's convenience.
 
 ## Two Offices
 
@@ -63,6 +63,6 @@ The House is half a circuit. [[lore-ithnetau|Ithnetáu]], the night, completes i
 
 ## See Also
 
-- [[lore-athenuqa|Athen'Uqa]]—the domain
+- [[lore-athenuqa|Thelqen'Uqa]]—the domain
 - [[lore-khelunulekha|Khelunu Lekhau]]—the philosophy and the other seven domains
 - [[place-khelunu|Khelunu]]—where the Eight are taught

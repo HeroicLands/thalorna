@@ -124,6 +124,15 @@ test("a retired form written in a note is an error at the place it is written", 
     ]);
 });
 
+test("the Vylari infinitive suffix is distinct from the retired sun name", () => {
+    const texts = [
+        { file: "x.md", text: "The suffix is _-âthen_; the sun name is athen.", literature: false },
+    ];
+    const findings = retiredFindings(texts);
+    assert.equal(findings.length, 1);
+    assert.match(findings[0], /`athen` is a retired form/);
+});
+
 test("an address, a literature note, a poem and the retired table itself are not read", () => {
     const texts = [
         {

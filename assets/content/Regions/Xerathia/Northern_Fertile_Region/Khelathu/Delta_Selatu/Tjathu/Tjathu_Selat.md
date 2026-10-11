@@ -25,6 +25,8 @@ data:
 
 The selat is flat, bright and salt, a margin where the sea comes in and the pans fill with brine. The natron flats supply the embalmers of the whole empire. Inland the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-wethur|Wethûr]] and its estates hold much of the shore.
 
+The selat's silt-islands are where the sea-raiders landed in 1960 ST (151 BF) ([[lore-searaiders|the Sea-Raiders' Throne]]). The port they burned, [[place-zelamqelu|Zel-Amqelu]], is a reed-grown mound in the flats.
+
 ## Settlements
 
 - [[place-tjathu|Tjathu]] (~41,000)—the selat capital and the seat of the Halzi'a.

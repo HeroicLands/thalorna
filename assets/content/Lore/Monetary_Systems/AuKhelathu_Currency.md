@@ -197,7 +197,7 @@ These prices align with the canonical SoHL gear data via the 1 Argo = 0.5 silver
 
 ## Grain Credit and the Temple Granaries
 
-In addition to the metal-piece system, Aû'Khelâthu maintains a parallel grain-credit economy administered through the temple granaries. Every selat's principal temples hold great granaries—vast clay-walled silos of wheat, barley, and other staples—and serve as the empire's grain banks. Workers' wages, soldiers' rations, and tax payments often pass through the granaries as lagar of grain (one lagar ≈ 76 liters, roughly a quarter of a year's grain ration for an adult).
+In addition to the metal-piece system, Aû'Khelâthu maintains a parallel grain-credit economy administered through the temple granaries. Every selat's principal temples hold great granaries—vast clay-walled silos of wheat, barley, and other staples—and serve as the empire's grain banks. Workers' wages, soldiers' rations, and tax payments often pass through the granaries as mazgar of grain (one mazgar ≈ 76 liters, roughly a quarter of a year's grain ration for an adult).
 
 The granaries maintain ledger accounts for individuals, families, businesses, and noble houses; a depositor brings grain at harvest and receives credit in his account, drawing against it through the year for daily rations or for conversion to silver-qelu payment when needed. The exchange rate of grain to silver fluctuates seasonally—grain is cheap at harvest, expensive in the late dry season before the next flood—but is publicly posted at every major granary and is generally honored across the empire on the day of transaction.
 

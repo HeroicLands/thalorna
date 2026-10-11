@@ -23,7 +23,7 @@ data:
 
 ## Character
 
-Old shrines and customs-stations mark the apex, and boats going down to the sea pass them. Away from the water the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uqaa|Uqa'â]] and its estates hold much of the land.
+Old shrines and customs-stations mark the apex, and boats going down to the sea pass them. Away from the water the villages and temple estates grow grain on the usual terms, with a share of the harvest owed to the granaries and labor owed to the canals, and the scribes are the one reliable ladder out of the fields. The chief temple of [[affiliation-uqaa|Uqa'â]] and its estates hold much of the land. The forts and customs-stations date from the sea-raiders' going ([[lore-seahouse|the Closing of the Sea House]]), and the western channel below the apex runs past [[place-chariotfld|the Chariot Field]], a blood-field from the Vylarian conquest of 377 AF.
 
 ## Settlements
 

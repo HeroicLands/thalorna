@@ -130,11 +130,11 @@ Khelâthi is an isolate language with no widely-accepted external relatives. Its
 
 ### Classical Period (Age of Monuments)
 
-The standardization of Classical Khelâthi occurred during the early dynasties of the Khelâthi Empire, roughly 2,300 years before present. This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
+The standardization of Classical Khelâthi occurred during the early dynasties of the Khelâthi Empire, roughly 2,300 years before present, under **Zab'Uzner**, the fifth Gar-Aû of the First House ([[lore-sacredhand|the Fixing of the Sacred Hand]]). This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
 ### Development of the People's Hand
 
-Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelâthi. While structurally identical to Classical Khelâthi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
+Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelâthi, sanctioned by the queen **Gith'el'Retha I** of Amqelu'Gatau ([[lore-peopleshand|the People's Hand]]). While structurally identical to Classical Khelâthi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
 
 ### Modern Divergence
 
@@ -173,7 +173,7 @@ Yet religious conservatism has resulted in Classical Khelâthi being actively re
 ## Sample Phrases
 
 1. **Khelâthu elu anlagh**—_Greeting formula; literally "the Khelâthi way upon life"_
-2. **Aqun-Uqa, wethûr ezu qelet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
+2. **Uqa'â, qamzet ezu gazlet**—_Ritual invocation; "Sun-lord, hidden in the sanctuary"_
 3. **Erlem ez luzet**—_Affirmation of loyalty; "I am bound to the throne"_
 4. **Zab melet agu khelâth**—_Mercantile oath; "The lord's goods shall prosper"_
 5. **Shelmu zetem**—_Sacred command; "Let the followers hear" (used to introduce proclamations)_
@@ -370,8 +370,14 @@ What a commoner's byname names when it names a trade rather than a place.
 | `Azlet`     | the season of flood                                  |
 | `Gelet`     | the season of growing                                |
 | `Shelu`     | the season of low water                              |
+| `qezat`     | a battle, built on `Qeztu` as `halzat` on `halzi`    |
+| `zelqezat`  | a blood-field, the place of a battle left unread     |
+| `zelalgit`  | a thin blood-field, the Devourer's place, on `Álgit` |
+| `thelqen`   | the disk, the sun's visible body                     |
+| `qamzet`    | hidden, withdrawn from sight                         |
+| `gazlet`    | a sanctuary, the inner room of a temple              |
 
-Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `lagar`.
+Weights and measures: `gezan`, `qelu` and its formal form `qezelet`, and `mazgar`.
 
 ### The counting-house, the quay and the water-works
 
@@ -406,11 +412,19 @@ stands below with the form the setting writes for the same thing, and no page
 writes them. A literature note quotes its work in the work's own words and a poem
 keeps its own, so a retired form may stand in either.
 
-| Retired       | Written instead | Why                                    |
-| ------------- | --------------- | -------------------------------------- |
-| `Tjelsuk`     | `Tjelsur`       | ends in none of a vowel, n, t, s or r  |
-| `zuqal`       | `zuqat`         | ends in none of a vowel, n, t, s or r  |
-| `Wal'Enrauqo` | `Wal'Enraqu`    | a house name that does not end in `-u` |
+| Retired                      | Written instead            | Why                                                     |
+| ---------------------------- | -------------------------- | ------------------------------------------------------- |
+| `Tjelsuk`                    | `Tjelsur`                  | ends in none of a vowel, n, t, s or r                   |
+| `zuqal`                      | `zuqat`                    | ends in none of a vowel, n, t, s or r                   |
+| `Wal'Enrauqo`                | `Wal'Enraqu`               | a house name that does not end in `-u`                  |
+| `athen`                      | `thelqen`                  | the name of a god from outside the setting              |
+| `Athen'Uqa`                  | `Thelqen'Uqa`              | the name of a god from outside the setting              |
+| `Magu-Athen`                 | `Magu-Thelqen`             | the name of a god from outside the setting              |
+| `Khelut-Athen`               | `Khelut-Thelqen`           | the name of a god from outside the setting              |
+| `Âthen'Rêlu`                 | `Thelqen'Rêlu`             | the name of a god from outside the setting              |
+| `lagar`                      | `mazgar`                   | a real word                                             |
+| `lagaru`                     | `mazgaru`                  | a real word                                             |
+| `Aqun-Uqa, wethûr ezu qelet` | `Uqa'â, qamzet ezu gazlet` | sounds the death god's name in an invocation of the sun |
 
 ## Naming Traditions
 
@@ -494,7 +508,7 @@ it claims a tie that does not exist. A title always takes the given name:
 - Frequently compound with elements meaning "true," "beloved," "strength," or "protection"
 - Consonant-heavy phonology with frequent emphatics
 - Written as a single word, however many elements they are built from, and never with the collective _-u_, which belongs to the house
-- Examples: _Khelâfirahu_ (the bold one), _Thûlmês_ (moon-born)
+- Examples: _Thûlmês_ (moon-born), _Zinlegir_ (fair of soul)
 
 **Given Names (Female):**
 
@@ -605,14 +619,14 @@ These name what a body does, and stand between the head-word and the genitive.
 | _zeghet_  | the hunt                  | _qeztu_   | war, mercenaries             |
 | _igelu_   | the river, mariners       | _zegaru_  | the field, farmers           |
 | _lutgar_  | the inn, innkeepers       | _genzet_  | the court, litigants         |
-| _gezan_   | a weight of metal, debt   | _lagaru_  | bulk, volume                 |
+| _gezan_   | a weight of metal, debt   | _mazgaru_ | bulk, volume                 |
 | _rethu_   | lore, scholars            | _lemu_    | service, servants            |
 | _lemzabu_ | a great house's steward   | _qethar_  | the old way, traditionalists |
 
 Several are the ordinary word doing double duty: _gezan_ is a weight of metal
 before it is a debt, so _Lin'Gezan_ is heard as "the guild of the weighing" and
-only then as the collectors; _lagar_ is a measure of grain, so the merchants who
-deal only in volume are _Lagaru_ whatever they think of the name. _zaglu_ is the
+only then as the collectors; _mazgar_ is a measure of grain, so the merchants who
+deal only in volume are _Mazgaru_ whatever they think of the name. _zaglu_ is the
 funerary figure, which is why the toymakers carry it and why the trade is
 thought slightly unlucky.
 
@@ -639,6 +653,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Akherethu
 - Akhrelu
 - Amruzi
+- Amqelzinet
 - Azûnmat
 - Athunotepu
 - Aguri
@@ -654,6 +669,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Gajegulu
 - Gari
 - Gezebari
+- Gezanlaghur
 - Lâraket
 - Larosê
 - Lenni
@@ -687,6 +703,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Meranlaghu
 - Minraqi
 - Quztar
+- Quzlegir
 - Latari
 - Zabmeht
 - Zaborêt
@@ -721,6 +738,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Shezur
 - Zînuri
 - Ziprahu
+- Zinlegir
 - Zobagulu
 - Thara
 - Thefnutî
@@ -843,7 +861,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Azlet'Qûtu
 - Azlet'Râlu
 - Akhelo'Naru
-- Âthen'Rêlu
+- Thelqen'Rêlu
 - Amralo'Methu
 - Aqun'Râshequ
 - Anlaghet'Zaru

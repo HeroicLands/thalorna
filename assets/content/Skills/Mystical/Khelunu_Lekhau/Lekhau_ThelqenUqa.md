@@ -1,6 +1,6 @@
 ---
 shortcode: lekhauathenq
-name: {full: "Lekhau: Athen'Uqa", aliases: []}
+name: {full: "Lekhau: Thelqen'Uqa", aliases: []}
 type: skill
 subType: mystical
 tags: [gethunu-lekhau, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-garathenuqa|Gar-Athen'Uqa]]
+See [[affiliation-garathenuqa|Gar-Thelqen'Uqa]]

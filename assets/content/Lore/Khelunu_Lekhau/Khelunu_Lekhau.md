@@ -64,7 +64,7 @@ of." **Seven Houses** are entered by initiation; the eighth is not entered at al
 | ------------------------------------------------- | ------------------------------------- | ------------------------- | --------------------------------------------------------------- |
 | [[affiliation-garqarquzu\|Gar-Qar'quzu]]          | [[lore-qarquzu\|Qar'quzu]]            | the Truth that Judges     | Law, judgment, binding, wards, oaths, the weighing of the heart |
 | [[affiliation-garzelgut\|Gar-Zelgút]]             | [[lore-zelgut\|Zelgút]]               | the Unmaking              | Unmaking, decay, curses, the serpent, entropy                   |
-| [[affiliation-garathenuqa\|Gar-Athen'Uqa]]        | [[lore-athenuqa\|Athen'Uqa]]          | the Disk in its Heat      | Light, sight, the heat of heaven, kingship, vitality, the day   |
+| [[affiliation-garathenuqa\|Gar-Thelqen'Uqa]]      | [[lore-athenuqa\|Thelqen'Uqa]]        | the Disk in its Heat      | Light, sight, the heat of heaven, kingship, vitality, the day   |
 | [[affiliation-garithnetau\|Gar-Ithnetáu]]         | [[lore-ithnetau\|Ithnetáu]]           | the Westward Road         | The dead, passage, gates, resurrection, the night               |
 | [[affiliation-garnlghkhlth\|Gar-Anlagh'Khelâthu]] | [[lore-anlaghkhlth\|Anlagh'Khelâthu]] | the Living **Black Land** | Water, fertility, growth, healing, abundance                    |
 | [[affiliation-gargezrulutu\|Gar-Gezru'lutu]]      | [[lore-gezrulutu\|Gezru'lutu]]        | the Red Waste             | Fire, drought, storm, endurance, plague, the wandering          |
@@ -92,7 +92,7 @@ and what he never stops trying to restore: decay, curses, the serpent, entropy. 
 moral sense so much as _prior_—the state that obtained before the world and would obtain again.
 
 Every other domain occupies a position within that framework, and the tradition teaches them as such.
-A lekhau does not learn Athen'Uqa as a subject and Qar'quzu as another subject; they learn Athen'Uqa as one
+A lekhau does not learn Thelqen'Uqa as a subject and Qar'quzu as another subject; they learn Thelqen'Uqa as one
 of the ways in which order is maintained against the alternative.
 
 #### Zelgút is taught, and Zelgút is proscribed
@@ -126,7 +126,7 @@ The six working domains are three pairs, and the pairing is not opposition. In e
 halves are _both required_, and a practitioner who holds one without the other is not a specialist
 but an incomplete one.
 
-Athen'Uqa and Ithnetáu—the two halves of one circuit. [[lore-athenuqa|Athen'Uqa]], the disk in its heat, is light,
+Thelqen'Uqa and Ithnetáu—the two halves of one circuit. [[lore-athenuqa|Thelqen'Uqa]], the disk in its heat, is light,
 sight, kingship, vitality, the day. [[lore-ithnetau|Ithnetáu]], the westward road, is the dead, passage, gates,
 resurrection, the night. The tradition insists they are a single road: Uqa'â crosses the sky by day and
 the underworld by night, and neither half of the journey is the whole of it. A lekhau who commands the
@@ -157,7 +157,7 @@ This is efficient, and it is also what makes an Initiatus easy to examine and to
 Héx Hodäi's own history concedes was among the reasons the six-fold model won out in the west.
 
 A lekhau trained that way would be understood in Aû'Khelâthu as _defective rather than specialized_.
-Holding Athen'Uqa without Ithnetáu, or Qelt'nu without Reth'zethu, is not a narrow mastery but half a working. So the
+Holding Thelqen'Uqa without Ithnetáu, or Qelt'nu without Reth'zethu, is not a narrow mastery but half a working. So the
 temple education is long, general, and finished before ordination: a Wazu spends years on sacred
 texts, ritual, history, mathematics, medicine and the reading of omens, and the arcane philosophy
 arrives inside that rather than beside it.
@@ -202,7 +202,7 @@ a tradition where power is correct address, the library _is_ the armory.
 ### See Also
 
 - [[affiliation-hexhodai|Héx Hodäi]]—the western six-fold partition of the same Dýnaris
-- [[affiliation-garqarquzu|Gar-Qar'quzu]] · [[affiliation-garzelgut|Gar-Zelgút]] · [[affiliation-garathenuqa|Gar-Athen'Uqa]] ·
+- [[affiliation-garqarquzu|Gar-Qar'quzu]] · [[affiliation-garzelgut|Gar-Zelgút]] · [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] ·
   [[affiliation-garithnetau|Gar-Ithnetáu]] · [[affiliation-garnlghkhlth|Gar-Anlagh'Khelâthu]] ·
   [[affiliation-gargezrulutu|Gar-Gezru'lutu]] · [[affiliation-garrethzethu|Gar-Reth'zethu]] ·
   [[affiliation-garqeltnu|Gar-Qelt'nu]]—the eight Houses

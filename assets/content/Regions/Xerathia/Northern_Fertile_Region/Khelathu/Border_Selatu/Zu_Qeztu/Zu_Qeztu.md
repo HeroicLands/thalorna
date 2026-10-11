@@ -21,7 +21,7 @@ data:
 
 ## Character
 
-West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is the selat that lives on that line. The country is chaparral and grass, where horses, cattle and sheep graze the margin; the villages, estates and temple lands sit where the water reaches, and their farmers owe a share of the harvest and labor on the canals. Past the pastures live the herding clans, who come to trade and sometimes to raid, and the patrols ride the line between the two.
+West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is the selat that lives on that line. The country is chaparral and grass, where horses, cattle and sheep graze the margin; the villages, estates and temple lands sit where the water reaches, and their farmers owe a share of the harvest and labor on the canals. Past the pastures live the herding clans, who come to trade and sometimes to raid, and the patrols ride the line between the two. The Halzi'a house is **Tha'Ulgau**, the kin of the hill-nomad conquerors, settled on these pastures in 1671 ST (440 BF) ([[lore-hillhouse|the Closing of the Hill House]]), and the grass holds their first graves ([[place-horsebarrows|the Horse Barrows]]).
 
 ## Settlements
 
@@ -33,3 +33,4 @@ West of the last canal the farmland gives way to dry pasture, and Zu-Qeztu is th
 - [[affiliation-selatzuqeztu|The Selat of Zu-Qeztu]]—The selat that holds this land
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—The enclosing region
 - [[place-zileti|Zileti]]—Selat capital
+- [[place-horsebarrows|The Horse Barrows]]—The graves of the first Tha'Ulgau

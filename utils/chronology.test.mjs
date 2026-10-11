@@ -10,7 +10,16 @@
 
 import assert from "node:assert/strict";
 import test from "node:test";
-import { check, readTree, yearOf } from "./chronology.mjs";
+import {
+    agesTable,
+    check,
+    checkEras,
+    checkKhelathi,
+    kingList,
+    readTree,
+    roman,
+    yearOf,
+} from "./chronology.mjs";
 
 const WORLD = { file: "World.md", fm: { type: "place", data: { year: { days: 365 } } } };
 
@@ -125,8 +134,255 @@ test("follows-in-order", () => {
     assert.match(found, /follows-in-order/u);
 });
 
+/** A note whose whole text is the given prose. */
+function prose(raw, shortcode = "page") {
+    return { file: `${shortcode}.md`, fm: { shortcode }, raw };
+}
+
+/** A king-list note with a Middle Count stretch and a Near Count table. */
+const LIST = prose(
+    [
+        "| Count (ST) | Houses | Reigns | What the list holds |",
+        "| --- | --: | --: | --- |",
+        "| 1–620 | 1 | 2 | **Amqel'Uqa** (150), **Zab'Uzner** (90) |",
+        "| 1006–1390 | 9 | 41 | **Zu'Amqeletu**: **Anlagh'el'Qar I** (crowned 1006) |",
+        "",
+        "| House | Throne name | Crowned (ST) | Years | AF | The list enters |",
+        "| --- | --- | --: | --: | --: | --- |",
+        "| Zu'Letetu | **Zab'Uzner II** | 2470 | 10 | 360 | went to the West |",
+    ].join("\n"),
+    "garauu",
+);
+
+const same = (file) => file;
+
+test("a Roman numeral reads as its value", () => {
+    assert.equal(roman("III"), 3);
+    assert.equal(roman("XIV"), 14);
+    assert.equal(roman("XL"), 40);
+});
+
+test("the king-list is read in the order of the count", () => {
+    assert.deepEqual(
+        kingList(LIST.raw).map((reign) => [reign.name, reign.numeral, Math.floor(reign.year)]),
+        [
+            ["Amqel'Uqa", 1, 1],
+            ["Zab'Uzner", 1, 1],
+            ["Anlagh'el'Qar", 1, 1006],
+            ["Zab'Uzner", 2, 2470],
+        ],
+    );
+});
+
+test("qet-telgu-pair: a pair that converts passes", () => {
+    assert.deepEqual(
+        checkKhelathi(
+            [LIST, prose("In 1006 ST (1105 BF) and 2378 ST, 268 AF, and 2,830 ST, or 720 AF.")],
+            same,
+        ),
+        [],
+    );
+});
+
+test("qet-telgu-pair: a BF year counted with a year zero is one year off", () => {
+    const [found] = checkKhelathi([LIST, prose("The crossing, 1006 ST (1104 BF).")], same);
+    assert.match(
+        found,
+        /^page\.md:1:\d+: error: qet-telgu-pair: 1006 ST is 1105 BF, not 1104 BF$/u,
+    );
+});
+
+test("qet-telgu-pair: the western year may come first", () => {
+    const [found] = checkKhelathi([LIST, prose("In 269 AF, which is 2378 ST.")], same);
+    assert.match(found, /qet-telgu-pair: 2378 ST is 268 AF, not 269 AF/u);
+});
+
+test("throne-numeral: a numeral that does not rise with the count", () => {
+    const bad = prose(
+        LIST.raw.replace("**Anlagh'el'Qar I** (crowned 1006)", "**Zab'Uzner II** (crowned 1006)"),
+        "garauu",
+    );
+    const found = checkKhelathi([bad], same);
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /throne-numeral: Zab'Uzner II is crowned in 2470 ST, after Zab'Uzner II in 1006 ST/u,
+    );
+});
+
+test("throne-listed: a numbered throne name the list does not hold", () => {
+    const found = checkKhelathi(
+        [LIST, prose("Anlagh'el'Qar I and Anlagh'el'Qar II reigned.")],
+        same,
+    );
+    assert.equal(found.length, 1);
+    assert.match(found[0], /^page\.md:1:\d+: error: throne-listed: Anlagh'el'Qar II is no reign/u);
+});
+
+/** A straight-count calendar with three ages, its ages table, and the notes it links. */
+function straightCount(overrides = {}) {
+    const eras = overrides.eras ?? [
+        { shortcode: "before", name: "Before the Count", abbreviation: "BC", start: null },
+        { shortcode: "first", name: "The First Age", abbreviation: "FA", start: 1 },
+        { shortcode: "second", name: "The Second Age", abbreviation: "SA", start: 500 },
+        { shortcode: "third", name: "The Third Age", abbreviation: "TA", start: 900 },
+    ];
+    const table =
+        overrides.table ??
+        [
+            "| Age | Mark | Its years (SC) |",
+            "| --- | --- | --- |",
+            "| Before the Count | BC | counted back |",
+            "| [[lore-firstage\\|The First Age]] | FA | 1 to 500 |",
+            "| [[lore-secondage\\|The Second Age]] | SA | 500 to 900 |",
+            "| [[lore-thirdage\\|The Third Age]] | TA | 900 to the present, 1,200 |",
+        ].join("\n");
+    const raw = `---\nshortcode: straight\n---\n\n## The Ages\n\n${table}\n\nProse after.\n`;
+    const calendar = {
+        file: "Straight.md",
+        address: "lore-straight",
+        raw,
+        fm: {
+            shortcode: "straight",
+            type: "lore",
+            subType: "calendar",
+            data: { epoch: "-100.1", eras, formats: { std: "D MMMM Y GGG" } },
+        },
+        lineOf: () => null,
+    };
+    const era = (shortcode, description) => ({
+        file: `${shortcode}.md`,
+        address: `lore-${shortcode}`,
+        raw: "",
+        fm: { shortcode, type: "lore", subType: "history", description },
+        lineOf: () => 5,
+    });
+    const prose = overrides.prose ?? [
+        calendar,
+        era("firstage", "1 to 500 SC: the first age."),
+        era("secondage", "500 to 900 SC: the second age."),
+        era("thirdage", "900 SC to the present: the third age."),
+    ];
+    return { calendar, prose };
+}
+
+test("the ages table is read with its links and years", () => {
+    const { calendar } = straightCount();
+    assert.deepEqual(
+        agesTable(calendar.raw).map((row) => [row.name, row.link, row.years]),
+        [
+            ["Before the Count", null, "counted back"],
+            ["The First Age", "lore-firstage", "1 to 500"],
+            ["The Second Age", "lore-secondage", "500 to 900"],
+            ["The Third Age", "lore-thirdage", "900 to the present, 1,200"],
+        ],
+    );
+});
+
+test("eras-agree: a calendar whose rows, table and notes agree has no findings", () => {
+    const { calendar, prose } = straightCount();
+    assert.deepEqual(checkEras([calendar], prose, same), []);
+});
+
+test("eras-agree: a calendar with no body is skipped", () => {
+    const { calendar, prose } = straightCount();
+    delete calendar.raw;
+    assert.deepEqual(checkEras([calendar], prose, same), []);
+});
+
+test("eras-agree: an era row the ages table leaves out", () => {
+    const { calendar, prose } = straightCount();
+    calendar.fm.data.eras.push({ shortcode: "fourth", name: "The Fourth Age", start: 1100 });
+    const found = checkEras([calendar], prose, same);
+    assert.ok(
+        found.some((line) =>
+            /eras-agree: the era "The Fourth Age" \(start 1100\) has no row/u.test(line),
+        ),
+    );
+});
+
+test("eras-agree: a table span that opens or closes on the wrong year", () => {
+    const { calendar, prose } = straightCount();
+    calendar.fm.data.eras.find((era) => era.shortcode === "second").start = 480;
+    const found = checkEras([calendar], prose, same);
+    assert.ok(
+        found.some((line) =>
+            /opens "The Second Age" at 500, and its era row starts it at 480/u.test(line),
+        ),
+    );
+    assert.ok(
+        found.some((line) =>
+            /closes "The First Age" at 500, and the next era row, "The Second Age", starts at 480/u.test(
+                line,
+            ),
+        ),
+    );
+});
+
+test("eras-agree: a last age the table does not run to the present", () => {
+    const { calendar, prose } = straightCount({
+        table: [
+            "| Age | Its years |",
+            "| --- | --- |",
+            "| [[lore-firstage\\|The First Age]] | 1 to 500 |",
+            "| [[lore-secondage\\|The Second Age]] | 500 to 900 |",
+            "| [[lore-thirdage\\|The Third Age]] | 900 to 1,200 |",
+        ].join("\n"),
+    });
+    const [found] = checkEras([calendar], prose, same);
+    assert.match(
+        found,
+        /closes "The Third Age", the last era, without saying it runs to the present/u,
+    );
+});
+
+test("eras-agree: an era note whose description disagrees, and a link to no note", () => {
+    const { calendar, prose } = straightCount();
+    prose.find((note) => note.address === "lore-secondage").fm.description = "501 to 900 SC: late.";
+    prose.splice(
+        prose.findIndex((note) => note.address === "lore-thirdage"),
+        1,
+    );
+    const found = checkEras([calendar], prose, same);
+    assert.ok(
+        found.some((line) =>
+            /^secondage\.md:5: error: eras-agree: the description of lore-secondage does not name 500/u.test(
+                line,
+            ),
+        ),
+    );
+    assert.ok(
+        found.some((line) =>
+            /links "The Third Age" to lore-thirdage, which names no note/u.test(line),
+        ),
+    );
+});
+
+test("eras-agree reads no calendar that counts by era year or has one era", () => {
+    const { calendar, prose } = straightCount();
+    calendar.fm.data.formats.std = "D MMMM [yearInEra] GGG";
+    calendar.fm.data.eras.find((era) => era.shortcode === "second").start = 480;
+    assert.deepEqual(checkEras([calendar], prose, same), []);
+    calendar.fm.data.formats.std = "D MMMM Y GGG";
+    calendar.fm.data.eras = calendar.fm.data.eras.slice(0, 2);
+    assert.deepEqual(checkEras([calendar], prose, same), []);
+});
+
 const DOMSEY = {
     file: "Domsey_Count.md",
+    raw: [
+        "---",
+        "shortcode: domseycount",
+        "---",
+        "",
+        "| Age | Written | Its years (count) |",
+        "| --- | --- | --- |",
+        "| Before the Sittings | BS | counted back from 1 BS |",
+        "| The Five Crowns | FC | 1 to 226 |",
+        "| The Hunger and the Fleets | HF | 226 to the present, 434 |",
+        "",
+    ].join("\n"),
+    lineOf: () => null,
     fm: {
         shortcode: "domseycount",
         type: "lore",

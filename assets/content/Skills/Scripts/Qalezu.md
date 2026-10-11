@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] cut the seven hundred signs of [[skill-khelthzscrpt|Khelâthi-zethu Script]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read.
+Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] cut the seven hundred signs of [[skill-khelthzscrpt|Khelâthi-zethu Script]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read. The queen Gith'el'Retha I sanctioned the cursive as the hand of the bureaus ([[lore-peopleshand|the People's Hand]]).
 
 A character needs **both** Qalezu and [[skill-khelathlng|Khelâthi Language]]; the people's register admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
 
