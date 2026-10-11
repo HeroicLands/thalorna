@@ -18,9 +18,9 @@ The [[lore-flkkhazar|Khazári]] are the second of the elder peoples, younger tha
 
 ## Counting in Sixteens
 
-> While Gorzo reads your employer's orders, the tally-keeper in the gate court, finishes the barley. She has set the sacks in rows of sixteen against the wall, and she walks the rows touching each one, then calls up to the door: "_Zik girm bek bozd._" Gorzo glances at the rows, nods once, and the farmer at the cart—who has been counting on his fingers in tens—shrugs and starts unhitching his oxen.
+> While Gorzo reads your employer's orders, the tally-keeper in the gate court, finishes the barley. She has set the sacks in rows of sixteen against the wall, and she walks the rows touching each one, then calls up to the door: "_Zik girm bep bozd._" Gorzo glances at the rows, nods once, and the farmer at the cart—who has been counting on his fingers in tens—shrugs and starts unhitching his oxen.
 
-The Khazári count in sixteens. What the tally-keeper called is "two sixteen and four": two rows of sixteen and four sacks over, which a human clerk writes as thirty-six. Every number up to fifteen has its own word. Sixteen is girm, said after the count of sixteens and joined to what is left over by _bek_, "and". Sixteen sixteens, 256, is a vazath, a great count.
+The Khazári count in sixteens. What the tally-keeper called is "two sixteen and four": two rows of sixteen and four sacks over, which a human clerk writes as thirty-six. Every number up to fifteen has its own word. Sixteen is girm, said after the count of sixteens and joined to what is left over by _bep_, "and". Sixteen sixteens, 256, is a vazath, a great count.
 
 Sixteen and 256 are the Khazári round numbers, as ten and a hundred are for most human peoples, and 64, four sixteens, is a round figure too. Sixteen halves cleanly to eight, four, two and one, so ore, stores and gate-shares divide among houses with no fraction left over, and the craft-records reckon a measure of ore or a length of tunnel in _fadhaz_, sixteenths. A human clerk who reckons a hold's delivery in tens has his figures accepted, converted and quietly corrected.
 
@@ -68,7 +68,7 @@ The Khazári are not much given to worship. The one they venerate, and do not wo
 
 Craft is the prayer, and listening before a cut is the commonest act of devotion. There is no priesthood apart from the masters and elders. The whole hold goes down to its _famgafudhán_, its deepest sanctuary, at the turning of the year to hear the year's craft-records read by lamplight, on the day of its finding, for the reading of the account of Khazártúrn's fall, and on oath-days, when an undertaking is sworn below and cut where it was spoken. Joy lives near the light, in the courts on the face, with singing that carries along the passages.
 
-The dead go down into the mountain's keeping, and their work stays behind them. A dead Khazár answers for a clumsy passage as long as the passage is walked, and a descendant who mends a forebear's flawed cut sets the forebear's record right. At a funeral the hold keeps khullán, silence over the dead, broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
+The dead go down into the mountain's keeping, and their work stays behind them. A dead Khazár answers for a clumsy passage as long as the passage is walked, and a descendant who mends a forebear's flawed cut sets the forebear's record right. At a funeral the hold keeps mullán, silence over the dead, broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
 
 ## Khazártúrn
 
@@ -123,7 +123,7 @@ Campaigns start well from something a hold needs and will not leave the rock to 
 | gharp       | A clumsy cut, a wound in the stone, entered in the record against its maker's name. |
 | girm        | Sixteen, the base of Khazári counting and its first round number.                   |
 | hutavar     | A cistern, usually a hollow the rock already held.                                  |
-| khullán     | The silence kept over the dead.                                                     |
+| mullán      | The silence kept over the dead.                                                     |
 | narvavutám  | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.        |
 | samgh       | Listening, attention to stone, where every apprenticeship begins.                   |
 | tob         | One.                                                                                |

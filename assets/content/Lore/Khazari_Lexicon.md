@@ -73,7 +73,7 @@ parent": _davag_ "a father", _davagev_ "a mother". The skeleton is the same, and
 differs.
 
 **Two skeletons compounded.** Set the first skeleton in the bare frame and the second in the deed frame,
-with _a_ at the seam. From **s-n-dh** "a tomb" and **v-gh-n** "to seal": _sandhavughán_ "the sealing of
+with _a_ at the seam. From **f-n-dh** "a tomb" and **v-gh-n** "to seal": _fandhavughán_ "the sealing of
 the tomb". This is how a house name or a hold's name is built, and it can be read the same way: the first
 half is the thing, the second the work done to it.
 
@@ -92,7 +92,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `f-z-k`   | flint                                                     | `stone`   |
 | `gh-v-th` | a blue stone, sapphire                                    | `stone`   |
 | `h-l-b`   | silver                                                    | `stone`   |
-| `k-m-th`  | a gem; to facet                                           | `stone`   |
+| `g-m-th`  | a gem; to facet                                           | `stone`   |
 | `l-gh-b`  | marble, white stone                                       | `stone`   |
 | `l-v-z`   | a seam, a stratum                                         | `stone`   |
 | `m-dh-k`  | bedrock, living rock                                      | `stone`   |
@@ -155,18 +155,18 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `v-l-gh`  | an echo                                                   | `deep`    |
 | `v-t-gh`  | bad air, firedamp                                         | `deep`    |
 | `b-k-th`  | a joint, a natural parting of the rock                    | `rock`    |
-| `b-r-s`   | a spur, a rib of rock                                     | `rock`    |
+| `z-r-s`   | a spur, a rib of rock                                     | `rock`    |
 | `dh-g-b`  | an overhang, a roof-ledge                                 | `rock`    |
 | `g-th-gh` | a natural arch                                            | `rock`    |
 | `g-z-k`   | a flaw in the stone                                       | `rock`    |
 | `h-l-gh`  | a crack, a fissure                                        | `rock`    |
-| `kh-m-th` | stress, the load the rock carries                         | `rock`    |
+| `v-m-th`  | stress, the load the rock carries                         | `rock`    |
 | `kh-t-m`  | the temper of a stone, its mood                           | `rock`    |
 | `m-gh-r`  | the grain, the way the rock runs                          | `rock`    |
 | `n-k-s`   | to settle, to creep, as a slope does                      | `rock`    |
 | `p-k-r`   | rotten, crumbling stone                                   | `rock`    |
 | `p-l-k`   | to cleave along the grain                                 | `rock`    |
-| `s-d-l`   | the rock's own buttress                                   | `rock`    |
+| `p-d-l`   | the rock's own buttress                                   | `rock`    |
 | `t-s-m`   | sound, whole stone                                        | `rock`    |
 | `th-b-gh` | the will of the stone, what it asks                       | `rock`    |
 | `z-g-r`   | a fault, where the rock has slipped                       | `rock`    |
@@ -177,7 +177,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `dh-l-m`  | a domed chamber                                           | `cave`    |
 | `f-k-r`   | to find a way in; a finding                               | `cave`    |
 | `gh-d-m`  | a dripstone column                                        | `cave`    |
-| `k-dh-s`  | a sinkhole                                                | `cave`    |
+| `t-dh-s`  | a sinkhole                                                | `cave`    |
 | `n-s-k`   | a water-worn passage                                      | `cave`    |
 | `p-th-k`  | to open, to join, to level; the least cut that serves     | `cave`    |
 | `s-l-h`   | flowstone, stone poured by water                          | `cave`    |
@@ -187,7 +187,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `gh-n-d`  | a dwelling set in the face                                | `face`    |
 | `h-d-n`   | a hidden court, open to the sky within the rock           | `face`    |
 | `kh-b-r`  | a cliff, the face of a mountain                           | `face`    |
-| `s-r-g`   | daylight                                                  | `face`    |
+| `l-r-g`   | daylight                                                  | `face`    |
 | `th-m-s`  | smoke                                                     | `face`    |
 | `v-n-d`   | a window, an opening in the face                          | `face`    |
 | `p-l-gh`  | a fall of rock from the face                              | `face`    |
@@ -209,7 +209,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `th-b-d`  | to follow, to go with                                     | `listen`  |
 | `v-b-k`   | to learn by watching                                      | `listen`  |
 | `z-b-k`   | a scar on the mountain                                    | `listen`  |
-| `z-k-n`   | attention; to attend                                      | `listen`  |
+| `f-k-n`   | attention; to attend                                      | `listen`  |
 | `z-n-gh`  | to wind                                                   | `listen`  |
 | `g-th-r`  | mastery, the standing of a master                         | `listen`  |
 | `b-v-th`  | a floor, paving                                           | `hold`    |
@@ -221,7 +221,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `p-dh-r`  | a chamber, a room                                         | `hold`    |
 | `r-gh-v`  | a made road                                               | `hold`    |
 | `r-m-k`   | to lay a course of stone                                  | `hold`    |
-| `s-k-l`   | to plumb, to set upright                                  | `hold`    |
+| `g-k-l`   | to plumb, to set upright                                  | `hold`    |
 | `s-m-d`   | to raise                                                  | `hold`    |
 | `s-t-v`   | a stair, a step                                           | `hold`    |
 | `t-m-v`   | a pillar                                                  | `hold`    |
@@ -229,7 +229,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `v-th-l`  | a vault, an arched roof                                   | `hold`    |
 | `z-l-d`   | a wall                                                    | `hold`    |
 | `d-v-g`   | a parent; to beget                                        | `kin`     |
-| `k-l-th`  | the hearth of a house                                     | `kin`     |
+| `v-l-th`  | the hearth of a house                                     | `kin`     |
 | `l-f-d`   | a child                                                   | `kin`     |
 | `m-r-dh`  | a name; to lay a charge                                   | `kin`     |
 | `n-s-v`   | lineage, descent                                          | `kin`     |
@@ -261,14 +261,14 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `z-n-p`   | shame; a fault entered against a name                     | `law`     |
 | `th-r-gh` | a wrong that no warrant can cover; to wrong               | `law`     |
 | `n-th-v`  | release from a debt; to forgive                           | `law`     |
-| `s-v-n`   | a sitting of elders; to sit in council                    | `law`     |
+| `s-v-m`   | a sitting of elders; to sit in council                    | `law`     |
 | `th-n-z`  | a gift; to give                                           | `law`     |
 | `h-r-t`   | a letter, a character; to read writing                    | `letter`  |
 | `l-n-r`   | a line of writing                                         | `letter`  |
 | `m-l-g`   | the flowing hand; to write in it                          | `letter`  |
 | `n-d-k`   | ink; to write in ink                                      | `letter`  |
 | `s-b-z`   | chalk; to mark with chalk                                 | `letter`  |
-| `s-t-l`   | a stylus; to scratch with a stylus                        | `letter`  |
+| `z-t-l`   | a stylus; to scratch with a stylus                        | `letter`  |
 | `v-k-s`   | wax; a wax tablet                                         | `letter`  |
 | `h-v-dh`  | a song; to sing, as the deep songs are sung               | `tell`    |
 | `k-m-gh`  | a lament; to keen                                         | `tell`    |
@@ -298,7 +298,7 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `m-v-dh`  | a heart                                                   | `body`    |
 | `p-l-dh`  | skin, hide                                                | `body`    |
 | `r-th-v`  | blood                                                     | `body`    |
-| `s-g-m`   | a shoulder, a back for loads                              | `body`    |
+| `p-g-m`   | a shoulder, a back for loads                              | `body`    |
 | `t-f-n`   | a foot, a step                                            | `body`    |
 | `th-n-p`  | a hand                                                    | `body`    |
 | `v-z-l`   | an eye                                                    | `body`    |
@@ -319,10 +319,10 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `dh-v-z`  | to lie still, to rest                                     | `death`   |
 | `f-l-g`   | the dead, as kin                                          | `death`   |
 | `h-m-dh`  | to mourn                                                  | `death`   |
-| `kh-l-n`  | silence                                                   | `death`   |
+| `m-l-n`   | silence                                                   | `death`   |
 | `n-v-th`  | to remember                                               | `death`   |
 | `p-r-v`   | to make clean, to set in order                            | `death`   |
-| `s-n-dh`  | a tomb, a burial chamber                                  | `death`   |
+| `f-n-dh`  | a tomb, a burial chamber                                  | `death`   |
 | `th-f-r`  | ash                                                       | `death`   |
 | `th-v-l`  | to die                                                    | `death`   |
 | `z-th-v`  | grief                                                     | `death`   |
@@ -371,12 +371,12 @@ skeleton carries needs a new skeleton, which belongs in this note before it is u
 | `g-l-p`   | to haul, to draw                                          | `motion`  |
 | `n-dh-p`  | to go down                                                | `motion`  |
 | `n-z-v`   | to arrive                                                 | `motion`  |
-| `th-g-l`  | to turn back, to return                                   | `motion`  |
+| `r-g-l`   | to turn back, to return                                   | `motion`  |
 | `th-r-p`  | to climb                                                  | `motion`  |
 | `v-r-g`   | the far edge, the last reach                              | `motion`  |
 | `v-r-th`  | to bear, to carry                                         | `motion`  |
 | `z-v-k`   | to be, to stand                                           | `motion`  |
-| `kh-dh-l` | the crossing from the world before; to cross over         | `motion`  |
+| `f-dh-l`  | the crossing from the world before; to cross over         | `motion`  |
 | `m-dh-n`  | the middle; what lies between                             | `motion`  |
 | `dh-r-z`  | to walk away from, to abandon                             | `motion`  |
 | `dh-n-v`  | first                                                     | `grammar` |
@@ -448,11 +448,11 @@ attested stands, in exactly this form, in the note linked.
 | `vasp`          | `n`   | rock-crystal                           | `v-s-p`             | bare       | —                                     |
 | `vasíp`         | `adj` | clear as crystal                       | `v-s-p`             | adjective  | —                                     |
 | `vispath`       | `n`   | a cut crystal, a lens                  | `v-s-p`             | done thing | —                                     |
-| `kamth`         | `n`   | a gem                                  | `k-m-th`            | bare       | —                                     |
-| `kamthir`       | `n`   | a gem-cutter                           | `k-m-th`            | worker     | —                                     |
-| `kumáth`        | `v`   | to facet a gem                         | `k-m-th`            | deed       | —                                     |
-| `kummáth`       | `v`   | to facet as a master does              | `k-m-th`            | mastery    | —                                     |
-| `kimthath`      | `n`   | a faceted gem                          | `k-m-th`            | done thing | —                                     |
+| `gamth`         | `n`   | a gem                                  | `g-m-th`            | bare       | —                                     |
+| `gamthir`       | `n`   | a gem-cutter                           | `g-m-th`            | worker     | —                                     |
+| `gumáth`        | `v`   | to facet a gem                         | `g-m-th`            | deed       | —                                     |
+| `gummáth`       | `v`   | to facet as a master does              | `g-m-th`            | mastery    | —                                     |
+| `gimthath`      | `n`   | a faceted gem                          | `g-m-th`            | done thing | —                                     |
 | `dharb`         | `n`   | basalt                                 | `dh-r-b`            | bare       | —                                     |
 | `dharíb`        | `adj` | black as basalt                        | `dh-r-b`            | adjective  | —                                     |
 | `hudharb`       | `n`   | a basalt bed                           | `dh-r-b`            | place      | —                                     |
@@ -736,13 +736,13 @@ attested stands, in exactly this form, in the note linked.
 | `gazík`        | `adj` | flawed                                            | `g-z-k`            | adjective  | —        |
 | `gazakir`      | `n`   | a flaw-finder                                     | `g-z-k`            | worker     | —        |
 | `guzák`        | `v`   | to give way at a flaw                             | `g-z-k`            | deed       | —        |
-| `khamth`       | `n`   | stress, the load the rock carries                 | `kh-m-th`          | bare       | —        |
-| `khamíth`      | `adj` | under stress, loaded                              | `kh-m-th`          | adjective  | —        |
-| `khumáth`      | `v`   | to carry a load as the rock does                  | `kh-m-th`          | deed       | —        |
-| `hukhamth`     | `n`   | a place where stress gathers                      | `kh-m-th`          | place      | —        |
-| `bars`         | `n`   | a spur, a rib of rock                             | `b-r-s`            | bare       | —        |
-| `barís`        | `adj` | ribbed                                            | `b-r-s`            | adjective  | —        |
-| `hubars`       | `n`   | a headland of rock                                | `b-r-s`            | place      | —        |
+| `vamth`        | `n`   | stress, the load the rock carries                 | `v-m-th`           | bare       | —        |
+| `vamíth`       | `adj` | under stress, loaded                              | `v-m-th`           | adjective  | —        |
+| `vumáth`       | `v`   | to carry a load as the rock does                  | `v-m-th`           | deed       | —        |
+| `huvamth`      | `n`   | a place where stress gathers                      | `v-m-th`           | place      | —        |
+| `zars`         | `n`   | a spur, a rib of rock                             | `z-r-s`            | bare       | —        |
+| `zarís`        | `adj` | ribbed                                            | `z-r-s`            | adjective  | —        |
+| `huzars`       | `n`   | a headland of rock                                | `z-r-s`            | place      | —        |
 | `dhagab`       | `n`   | an overhang, a roof-ledge                         | `dh-g-b`           | bare       | —        |
 | `dhagíb`       | `adj` | overhanging                                       | `dh-g-b`           | adjective  | —        |
 | `dhugáb`       | `v`   | to overhang                                       | `dh-g-b`           | deed       | —        |
@@ -751,10 +751,10 @@ attested stands, in exactly this form, in the note linked.
 | `gathígh`      | `adj` | arched by nature                                  | `g-th-gh`          | adjective  | —        |
 | `guthágh`      | `v`   | to span, as the rock does unaided                 | `g-th-gh`          | deed       | —        |
 | `hugathagh`    | `n`   | a hall beneath a natural arch                     | `g-th-gh`          | place      | —        |
-| `sadal`        | `n`   | the rock's own buttress                           | `s-d-l`            | bare       | —        |
-| `sadíl`        | `adj` | self-held, needing no prop                        | `s-d-l`            | adjective  | —        |
-| `sudál`        | `v`   | to stand by its own weight                        | `s-d-l`            | deed       | —        |
-| `husadal`      | `n`   | a buttressed place, a face that holds itself      | `s-d-l`            | place      | —        |
+| `padal`        | `n`   | the rock's own buttress                           | `p-d-l`            | bare       | —        |
+| `padíl`        | `adj` | self-held, needing no prop                        | `p-d-l`            | adjective  | —        |
+| `pudál`        | `v`   | to stand by its own weight                        | `p-d-l`            | deed       | —        |
+| `hupadal`      | `n`   | a buttressed place, a face that holds itself      | `p-d-l`            | place      | —        |
 | `khatam`       | `n`   | the temper of a stone, its mood                   | `kh-t-m`           | bare       | —        |
 | `khatím`       | `adj` | unsettled in temper                               | `kh-t-m`           | adjective  | —        |
 | `khatamir`     | `n`   | one who knows a stone's moods                     | `kh-t-m`           | worker     | —        |
@@ -779,9 +779,9 @@ attested stands, in exactly this form, in the note linked.
 | `nakís`        | `adj` | settling, unstable                                | `n-k-s`            | adjective  | —        |
 | `nukás`        | `v`   | to settle, to creep                               | `n-k-s`            | deed       | —        |
 | `hunakas`      | `n`   | a creeping slope                                  | `n-k-s`            | place      | —        |
-| `barsakuvál`   | `n`   | the shaping of a spur: a spur finished as a tower | `b-r-s` + `k-v-l`  | compound   | —        |
+| `zarsakuvál`   | `n`   | the shaping of a spur: a spur finished as a tower | `z-r-s` + `k-v-l`  | compound   | —        |
 | `nalpahulágh`  | `n`   | the splitting of the rock by cold                 | `n-l-p` + `h-l-gh` | compound   | —        |
-| `sadalavuráth` | `n`   | the bearing of a load by the rock's own buttress  | `s-d-l` + `v-r-th` | compound   | —        |
+| `padalavuráth` | `n`   | the bearing of a load by the rock's own buttress  | `p-d-l` + `v-r-th` | compound   | —        |
 | `gharm`        | `n`   | a mountain                                        | `gh-r-m`           | bare       | —        |
 | `gharím`       | `adj` | of the mountain                                   | `gh-r-m`           | adjective  | —        |
 | `hugharm`      | `n`   | mountain country, a range                         | `gh-r-m`           | place      | —        |
@@ -802,10 +802,10 @@ attested stands, in exactly this form, in the note linked.
 | `thalív`    | `adj` | of limestone, karstic                        | `th-l-v` | adjective  | —        |
 | `thuláv`    | `v`   | to dissolve, to be eaten by water            | `th-l-v` | deed       | —        |
 | `huthalv`   | `n`   | a karst country, a land of limestone         | `th-l-v` | place      | —        |
-| `kadhas`    | `n`   | a sinkhole                                   | `k-dh-s` | bare       | —        |
-| `kadhís`    | `adj` | sunken                                       | `k-dh-s` | adjective  | —        |
-| `kudhás`    | `v`   | to fall in, to sink                          | `k-dh-s` | deed       | —        |
-| `hukadhas`  | `n`   | a field of sinkholes                         | `k-dh-s` | place      | —        |
+| `tadhas`    | `n`   | a sinkhole                                   | `t-dh-s` | bare       | —        |
+| `tadhís`    | `adj` | sunken                                       | `t-dh-s` | adjective  | —        |
+| `tudhás`    | `v`   | to fall in, to sink                          | `t-dh-s` | deed       | —        |
+| `hutadhas`  | `n`   | a field of sinkholes                         | `t-dh-s` | place      | —        |
 | `nask`      | `n`   | a water-worn passage                         | `n-s-k`  | bare       | —        |
 | `nasík`     | `adj` | water-worn                                   | `n-s-k`  | adjective  | —        |
 | `nusák`     | `v`   | to wear a way, as water does                 | `n-s-k`  | deed       | —        |
@@ -849,10 +849,10 @@ attested stands, in exactly this form, in the note linked.
 | `vaníd`    | `adj` | open to the air                              | `v-n-d`  | adjective  | —        |
 | `vunád`    | `v`   | to open a window along the rock's line       | `v-n-d`  | deed       | —        |
 | `vindath`  | `n`   | a finished opening                           | `v-n-d`  | done thing | —        |
-| `sarg`     | `n`   | daylight                                     | `s-r-g`  | bare       | —        |
-| `saríg`    | `adj` | sunlit                                       | `s-r-g`  | adjective  | —        |
-| `surág`    | `v`   | to take the light, to catch the day          | `s-r-g`  | deed       | —        |
-| `husarg`   | `n`   | a sunlit place                               | `s-r-g`  | place      | —        |
+| `larg`     | `n`   | daylight                                     | `l-r-g`  | bare       | —        |
+| `laríg`    | `adj` | sunlit                                       | `l-r-g`  | adjective  | —        |
+| `lurág`    | `v`   | to take the light, to catch the day          | `l-r-g`  | deed       | —        |
+| `hularg`   | `n`   | a sunlit place                               | `l-r-g`  | place      | —        |
 | `hadan`    | `n`   | a hidden court                               | `h-d-n`  | bare       | —        |
 | `hadín`    | `adj` | enclosed, kept apart                         | `h-d-n`  | adjective  | —        |
 | `hudán`    | `v`   | to hold a court open to the sky              | `h-d-n`  | deed       | —        |
@@ -894,10 +894,10 @@ attested stands, in exactly this form, in the note linked.
 | `rakadhir`      | `n`   | a reader of stone                                    | `r-k-dh`            | worker     | —        |
 | `rukádh`        | `v`   | to read stone                                        | `r-k-dh`            | deed       | —        |
 | `rukkádh`       | `v`   | to read stone as a master does                       | `r-k-dh`            | mastery    | —        |
-| `zakan`         | `n`   | attention                                            | `z-k-n`             | bare       | —        |
-| `zakín`         | `adj` | attentive                                            | `z-k-n`             | adjective  | —        |
-| `zakanir`       | `n`   | one who attends, a watcher                           | `z-k-n`             | worker     | —        |
-| `zukán`         | `v`   | to attend                                            | `z-k-n`             | deed       | —        |
+| `fakan`         | `n`   | attention                                            | `f-k-n`             | bare       | —        |
+| `fakín`         | `adj` | attentive                                            | `f-k-n`             | adjective  | —        |
+| `fakanir`       | `n`   | one who attends, a watcher                           | `f-k-n`             | worker     | —        |
+| `fukán`         | `v`   | to attend                                            | `f-k-n`             | deed       | —        |
 | `banm`          | `n`   | accord, agreement with the mountain                  | `b-n-m`             | bare       | —        |
 | `baním`         | `adj` | in accord                                            | `b-n-m`             | adjective  | —        |
 | `bunám`         | `v`   | to come into accord                                  | `b-n-m`             | deed       | —        |
@@ -996,10 +996,10 @@ attested stands, in exactly this form, in the note linked.
 | `samíd`       | `adj` | raised, lofty                        | `s-m-d`            | adjective  | —                                     |
 | `sumád`       | `v`   | to raise                             | `s-m-d`            | deed       | [[skill-khazarlng\|Khazári Language]] |
 | `summád`      | `v`   | to raise as a master does            | `s-m-d`            | mastery    | —                                     |
-| `sakal`       | `n`   | a plumb-line                         | `s-k-l`            | bare       | —                                     |
-| `sakíl`       | `adj` | upright, plumb                       | `s-k-l`            | adjective  | —                                     |
-| `sukál`       | `v`   | to set upright                       | `s-k-l`            | deed       | —                                     |
-| `sikalath`    | `n`   | an upright, a set post               | `s-k-l`            | done thing | —                                     |
+| `gakal`       | `n`   | a plumb-line                         | `g-k-l`            | bare       | —                                     |
+| `gakíl`       | `adj` | upright, plumb                       | `g-k-l`            | adjective  | —                                     |
+| `gukál`       | `v`   | to set upright                       | `g-k-l`            | deed       | —                                     |
+| `gikalath`    | `n`   | an upright, a set post               | `g-k-l`            | done thing | —                                     |
 | `dharv`       | `n`   | a tower                              | `dh-r-v`           | bare       | —                                     |
 | `dharvir`     | `n`   | a tower-warden                       | `dh-r-v`           | worker     | —                                     |
 | `hudharv`     | `n`   | a tower-court                        | `dh-r-v`           | place      | —                                     |
@@ -1073,9 +1073,9 @@ attested stands, in exactly this form, in the note linked.
 | `mardh`      | `n`   | a name                                    | `m-r-dh`          | bare       | —        |
 | `marídh`     | `adj` | named, charged                            | `m-r-dh`          | adjective  | —        |
 | `murádh`     | `v`   | to name, to lay a charge                  | `m-r-dh`          | deed       | —        |
-| `kalth`      | `n`   | a hearth                                  | `k-l-th`          | bare       | —        |
-| `kalíth`     | `adj` | homely, of the hearth                     | `k-l-th`          | adjective  | —        |
-| `hukalth`    | `n`   | a home                                    | `k-l-th`          | place      | —        |
+| `valth`      | `n`   | a hearth                                  | `v-l-th`          | bare       | —        |
+| `valíth`     | `adj` | homely, of the hearth                     | `v-l-th`          | adjective  | —        |
+| `huvalth`    | `n`   | a home                                    | `v-l-th`          | place      | —        |
 | `balv`       | `n`   | an exile, one with no house               | `b-l-v`           | bare       | —        |
 | `buláv`      | `v`   | to put out of the hold                    | `b-l-v`           | deed       | —        |
 | `balív`      | `adj` | houseless, exiled                         | `b-l-v`           | adjective  | —        |
@@ -1163,9 +1163,9 @@ attested stands, in exactly this form, in the note linked.
 | `thurágh`     | `v`   | to do a wrong                              | `th-r-gh`          | deed       | —                                              |
 | `nathav`      | `n`   | a release, forgiveness                     | `n-th-v`           | bare       | —                                              |
 | `nutháv`      | `v`   | to release from a debt, to forgive         | `n-th-v`           | deed       | —                                              |
-| `savan`       | `n`   | a council                                  | `s-v-n`            | bare       | —                                              |
-| `suván`       | `v`   | to sit in council                          | `s-v-n`            | deed       | —                                              |
-| `husavan`     | `n`   | a council-hall below                       | `s-v-n`            | place      | —                                              |
+| `savam`       | `n`   | a council                                  | `s-v-m`            | bare       | —                                              |
+| `suvám`       | `v`   | to sit in council                          | `s-v-m`            | deed       | —                                              |
+| `husavam`     | `n`   | a council-hall below                       | `s-v-m`            | place      | —                                              |
 | `thanz`       | `n`   | a gift                                     | `th-n-z`           | bare       | —                                              |
 | `thunáz`      | `v`   | to give                                    | `th-n-z`           | deed       | —                                              |
 | `thinzath`    | `n`   | a thing given                              | `th-n-z`           | done thing | —                                              |
@@ -1187,10 +1187,10 @@ attested stands, in exactly this form, in the note linked.
 | `vakís`        | `adj` | waxen                                                         | `v-k-s`            | adjective  | —        |
 | `vukás`        | `v`   | to write in wax                                               | `v-k-s`            | deed       | —        |
 | `vikasath`     | `n`   | a wax tablet, a draft in wax                                  | `v-k-s`            | done thing | —        |
-| `satal`        | `n`   | a stylus                                                      | `s-t-l`            | bare       | —        |
-| `satíl`        | `adj` | scratched                                                     | `s-t-l`            | adjective  | —        |
-| `sutál`        | `v`   | to scratch with a stylus                                      | `s-t-l`            | deed       | —        |
-| `sitalath`     | `n`   | a stroke of the stylus                                        | `s-t-l`            | done thing | —        |
+| `zatal`        | `n`   | a stylus                                                      | `z-t-l`            | bare       | —        |
+| `zatíl`        | `adj` | scratched                                                     | `z-t-l`            | adjective  | —        |
+| `zutál`        | `v`   | to scratch with a stylus                                      | `z-t-l`            | deed       | —        |
+| `zitalath`     | `n`   | a stroke of the stylus                                        | `z-t-l`            | done thing | —        |
 | `hart`         | `n`   | a letter, a character                                         | `h-r-t`            | bare       | —        |
 | `harít`        | `adj` | lettered, able to read                                        | `h-r-t`            | adjective  | —        |
 | `hartir`       | `n`   | a reader of letters                                           | `h-r-t`            | worker     | —        |
@@ -1306,9 +1306,9 @@ attested stands, in exactly this form, in the note linked.
 | `mavídh`   | `adj` | heartfelt, whole    | `m-v-dh` | adjective  | —                                          |
 | `havath`   | `n`   | breath              | `h-v-th` | bare       | —                                          |
 | `huváth`   | `v`   | to breathe          | `h-v-th` | deed       | —                                          |
-| `sagam`    | `n`   | a shoulder          | `s-g-m`  | bare       | —                                          |
-| `sagím`    | `adj` | broad-shouldered    | `s-g-m`  | adjective  | —                                          |
-| `sugám`    | `v`   | to shoulder a load  | `s-g-m`  | deed       | —                                          |
+| `pagam`    | `n`   | a shoulder          | `p-g-m`  | bare       | —                                          |
+| `pagím`    | `adj` | broad-shouldered    | `p-g-m`  | adjective  | —                                          |
+| `pugám`    | `v`   | to shoulder a load  | `p-g-m`  | deed       | —                                          |
 | `paldh`    | `n`   | a hide              | `p-l-dh` | bare       | —                                          |
 | `pildhath` | `n`   | worked leather      | `p-l-dh` | done thing | —                                          |
 | `dazam`    | `n`   | strength            | `d-z-m`  | bare       | —                                          |
@@ -1377,15 +1377,15 @@ attested stands, in exactly this form, in the note linked.
 
 | Form           | Class | Gloss                             | Skeleton            | Frame      | Attested                              |
 | -------------- | ----- | --------------------------------- | ------------------- | ---------- | ------------------------------------- |
-| `khaln`        | `n`   | silence                           | `kh-l-n`            | bare       | [[skill-khazarlng\|Khazári Language]] |
-| `khulán`       | `v`   | to fall silent                    | `kh-l-n`            | deed       | —                                     |
-| `khullán`      | `v`   | to keep silence, as over the dead | `kh-l-n`            | mastery    | —                                     |
+| `maln`         | `n`   | silence                           | `m-l-n`             | bare       | [[skill-khazarlng\|Khazári Language]] |
+| `mulán`        | `v`   | to fall silent                    | `m-l-n`             | deed       | —                                     |
+| `mullán`       | `v`   | to keep silence, as over the dead | `m-l-n`             | mastery    | —                                     |
 | `thaval`       | `n`   | death                             | `th-v-l`            | bare       | —                                     |
 | `thavíl`       | `adj` | dead                              | `th-v-l`            | adjective  | —                                     |
 | `thuvál`       | `v`   | to die                            | `th-v-l`            | deed       | —                                     |
-| `sandh`        | `n`   | a tomb                            | `s-n-dh`            | bare       | —                                     |
-| `sunádh`       | `v`   | to lay in a tomb                  | `s-n-dh`            | deed       | —                                     |
-| `husandh`      | `n`   | a burial hall                     | `s-n-dh`            | place      | —                                     |
+| `fandh`        | `n`   | a tomb                            | `f-n-dh`            | bare       | —                                     |
+| `funádh`       | `v`   | to lay in a tomb                  | `f-n-dh`            | deed       | —                                     |
+| `hufandh`      | `n`   | a burial hall                     | `f-n-dh`            | place      | —                                     |
 | `hamdh`        | `n`   | mourning                          | `h-m-dh`            | bare       | —                                     |
 | `humádh`       | `v`   | to mourn                          | `h-m-dh`            | deed       | —                                     |
 | `navath`       | `n`   | memory                            | `n-v-th`            | bare       | —                                     |
@@ -1406,7 +1406,7 @@ attested stands, in exactly this form, in the note linked.
 | `dhavaz`       | `n`   | rest, stillness                   | `dh-v-z`            | bare       | —                                     |
 | `dhavíz`       | `adj` | still                             | `dh-v-z`            | adjective  | —                                     |
 | `dhuváz`       | `v`   | to lie still                      | `dh-v-z`            | deed       | —                                     |
-| `sandhavughán` | `n`   | the sealing of the tomb           | `s-n-dh` + `v-gh-n` | compound   | —                                     |
+| `fandhavughán` | `n`   | the sealing of the tomb           | `f-n-dh` + `v-gh-n` | compound   | —                                     |
 | `falgakhuván`  | `n`   | the reciting of the dead          | `f-l-g` + `kh-v-n`  | compound   | —                                     |
 | `dhams`        | `n`   | forgetting                        | `dh-m-s`            | bare       | —                                     |
 | `dhamís`       | `adj` | forgotten, worn off the stone     | `dh-m-s`            | adjective  | —                                     |
@@ -1561,11 +1561,11 @@ attested stands, in exactly this form, in the note linked.
 | `guláp`      | `v`   | to haul                       | `g-l-p`           | deed      | —                                              |
 | `varg`       | `n`   | the far edge                  | `v-r-g`           | bare      | —                                              |
 | `varíg`      | `adj` | farthest                      | `v-r-g`           | adjective | [[place-vorgald\|Vorgald]]                     |
-| `thagal`     | `n`   | a return                      | `th-g-l`          | bare      | —                                              |
-| `thugál`     | `v`   | to return                     | `th-g-l`          | deed      | —                                              |
+| `ragal`      | `n`   | a return                      | `r-g-l`           | bare      | —                                              |
+| `rugál`      | `v`   | to return                     | `r-g-l`           | deed      | —                                              |
 | `vargagulád` | `n`   | the kindling at the far reach | `v-r-g` + `g-l-d` | compound  | —                                              |
-| `khadhal`    | `n`   | the crossing                  | `kh-dh-l`         | bare      | —                                              |
-| `khudhál`    | `v`   | to cross over                 | `kh-dh-l`         | deed      | —                                              |
+| `fadhal`     | `n`   | the crossing                  | `f-dh-l`          | bare      | —                                              |
+| `fudhál`     | `v`   | to cross over                 | `f-dh-l`          | deed      | —                                              |
 | `madhan`     | `n`   | the middle, what lies between | `m-dh-n`          | bare      | —                                              |
 | `madhín`     | `adj` | middle, lying between         | `m-dh-n`          | adjective | —                                              |
 | `humadhan`   | `n`   | the middle place              | `m-dh-n`          | place     | [[lore-khazararrv\|The Coming of the Khazári]] |
@@ -1604,16 +1604,16 @@ attested stands, in exactly this form, in the note linked.
 | `gazn`   | `pron` | we                                              | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `vesn`   | `pron` | you (many)                                      | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `vogn`   | `pron` | they                                            | —        | —         | [[skill-khazarlng\|Khazári Language]] |
-| `kez`    | `dem`  | this, these                                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
-| `koz`    | `dem`  | that, those                                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `kedz`   | `dem`  | this, these                                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `kodz`   | `dem`  | that, those                                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `kelg`   | `dem`  | here                                            | —        | —         | —                                     |
 | `kolg`   | `dem`  | there                                           | —        | —         | —                                     |
-| `thov`   | `part` | not; stands before the verb                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `thuf`   | `part` | not; stands before the verb                     | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `zef`    | `part` | closes a question                               | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `thiz`   | `part` | who? opens a question                           | —        | —         | —                                     |
 | `thaz`   | `part` | what? opens a question                          | —        | —         | —                                     |
 | `thuz`   | `part` | where? opens a question                         | —        | —         | —                                     |
-| `bek`    | `conj` | and                                             | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `bep`    | `conj` | and                                             | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `duz`    | `conj` | or                                              | —        | —         | —                                     |
 | `gev`    | `conj` | but                                             | —        | —         | —                                     |
 | `hiz`    | `conj` | if                                              | —        | —         | —                                     |
@@ -1625,7 +1625,7 @@ attested stands, in exactly this form, in the note linked.
 | `zik`    | `num`  | two                                             | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `vem`    | `num`  | three                                           | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `bozd`   | `num`  | four                                            | —        | —         | [[skill-khazarlng\|Khazári Language]] |
-| `zom`    | `num`  | five                                            | —        | —         | [[skill-khazarlng\|Khazári Language]] |
+| `zop`    | `num`  | five                                            | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `nefk`   | `num`  | six                                             | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `fozd`   | `num`  | seven                                           | —        | —         | [[skill-khazarlng\|Khazári Language]] |
 | `kabr`   | `num`  | eight                                           | —        | —         | [[skill-khazarlng\|Khazári Language]] |

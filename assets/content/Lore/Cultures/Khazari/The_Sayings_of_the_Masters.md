@@ -17,7 +17,7 @@ data:
 
 ## The Chain
 
-**Tovaro of Kavalazunáth** received listening from **Ferden of Hamkadhunák**, and Ferden from **Pirni of Zanthaguráf**, and Pirni from **Holbon of Lakamakhulán**, and Holbon from **Vutamu of Nalpafurád**, and Vutamu from **Dulkun of Khalvagunáv**, and Dulkun from **Kevale of Halbazumád**, and Kevale from **Nalpan of Thalgahunáth**, and Nalpan from **Rumkun of Famgadurákh**, and Rumkun from **Thimri of Margavuráth**, and Thimri from **Khalvan of Ramkasumád**, and Khalvan from **Samda of Tavarasuláth**.
+**Tovaro of Kavalazunáth** received listening from **Ferden of Hamkadhunák**, and Ferden from **Pirni of Zanthaguráf**, and Pirni from **Holbon of Lakamamulán**, and Holbon from **Vutamu of Nalpafurád**, and Vutamu from **Dulkun of Khalvagunáv**, and Dulkun from **Kevale of Halbazumád**, and Kevale from **Nalpan of Thalgahunáth**, and Nalpan from **Rumkun of Famgadurákh**, and Rumkun from **Thimri of Margavuráth**, and Thimri from **Khalvan of Ramkasumád**, and Khalvan from **Samda of Tavarasuláth**.
 
 Above Samda the lead holds names and no sayings. The sayings begin with her.
 
@@ -185,9 +185,9 @@ I do not say the valley starves. It eats. I say that nobody in this hold ever sa
 
 If the hold calls this a fault, enter it against my name. I would rather it stood against mine than against nobody's.
 
-## Holbon of Lakamakhulán
+## Holbon of Lakamamulán
 
-Holbon of Lakamakhulán, of [[lore-khazararrv|Lummáv]], kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
+Holbon of Lakamamulán, of [[lore-khazararrv|Lummáv]], kept the archive, and received listening from Vutamu. He answered her, and the chain keeps the answer whole. It is read in the keeper's voice, from the lead.
 
 Vutamu has said what the gate was not given. I will read what it was given, because it is written, and what is written is read.
 

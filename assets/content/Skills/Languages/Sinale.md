@@ -213,7 +213,7 @@ A **place name** is a compound of this kind, or a single stem with the place suf
 A modifier stands before what it modifies and **wears**:
 
 - _kalvi_ "pale wood" and _lonvu_ "the deep wood" give _halvi lonvu_—"the pale-wood deep-wood", a stand of birch within the forest
-- _toiru_ "the turning year" and _liseri_ "still water" give _soiru liseri_—"the year-turning water", a pool that freezes
+- _toimu_ "the turning year" and _liseri_ "still water" give _soimu liseri_—"the year-turning water", a pool that freezes
 
 Poetry inverts the order, and the wearing goes with the word rather than the position, so an inverted line is still unambiguous.
 
@@ -274,19 +274,19 @@ Sinalë counts in twenties, with ten and fifteen as resting points along the way
 | Value | Word    |
 | ----- | ------- |
 | 1     | _ilte_  |
-| 2     | _sives_ |
+| 2     | _sipes_ |
 | 3     | _kevu_  |
 | 4     | _pemi_  |
 | 5     | _lella_ |
 | 6     | _louti_ |
 | 7     | _ilpe_  |
 | 8     | _lerre_ |
-| 9     | _thuni_ |
+| 9     | _thumi_ |
 | 10    | _tova_  |
 | 15    | _ilvo_  |
 | 20    | _elmi_  |
 
-Eleven to fourteen are a unit on ten, in the locative: _ilte tovaho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ilte ilvoho_, except eighteen, which is _sives thuni_ "two nines". Twenties are counted by a multiplier standing before _elmi_ and wearing as any modifier does: _sives elmi_ is forty, _hevu elmi_ sixty, and _tova elmiho_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mollu kevu_ "three deep pools", _nuuvanu sives_ "two stars".
+Eleven to fourteen are a unit on ten, in the locative: _ilte tovaho_ "one on ten" is eleven. Sixteen to nineteen are a unit on fifteen, _ilte ilvoho_, except eighteen, which is _sipes thumi_ "two nines". Twenties are counted by a multiplier standing before _elmi_ and wearing as any modifier does: _sipes elmi_ is forty, _hevu elmi_ sixty, and _tova elmiho_ "ten on twenty" is thirty. A count follows the thing counted and does not wear: _mollu kevu_ "three deep pools", _nuuvanu sipes_ "two stars".
 
 ### Comparison
 
@@ -457,15 +457,15 @@ A Sinalë known for something more carries it as an epithet, which stands worn a
 
 ### Male Given Names
 
-Nuuvadhe, Kalvidhe, Molludhe, Molluvo, Toirudhe, Toiruvo, Olvessavo, Olmasidhe, Olmasivo, Unturodhe, Unturovo, Esselidhe, Tirvalidhe, Tirvalivo, Almaridhe, Almarivo, Lavuridhe, Lavurivo, Masseridhe, Masserivo, Rhovelidhe, Lorramidhe, Ansorudhe, Ansoruvo, Huomavo, Lanthavodhe, Rhovelivo, Porvidhe, Lorramivo, Kelvasidhe, Kelvasivo, Solmerivo, Thalvedhe, Nuomivo, Loovadhe, Hallesidhe, Hallesivo, Lonvudhe, Hyssëvë, Ilvydhë, Tellavidhe, Eilavadhe, Rivydhë, Nelyvëdhë, Hyssëdhë, Pelvaidhe, Thilvaidhe, Esselivo, Ëlvyridhë, Ilevadhe, Solmeridhe, Lenthidhe, Lenthivo, Kilvëdhë, Nuomidhe, Sëlvidhë, Nylvidhë, Sulmedhe, Liseridhe, Liserivo, Kinsadhe, Kinsavo, Tëlvidhë, Sulmevo, Olmarnadhe, Olmarnavo, Ressidhe, Ressivo
+Nuuvadhe, Kalvidhe, Molludhe, Molluvo, Toimudhe, Toimuvo, Olvessavo, Olmasidhe, Olmasivo, Unturodhe, Unturovo, Esselidhe, Tirvalidhe, Tirvalivo, Almaridhe, Almarivo, Lavuridhe, Lavurivo, Masseridhe, Masserivo, Rhovelidhe, Lorramidhe, Ansorudhe, Ansoruvo, Huomavo, Lanthavodhe, Rhovelivo, Porvidhe, Lorramivo, Kelvasidhe, Kelvasivo, Solmerivo, Thalvedhe, Nuomivo, Loovadhe, Hallesidhe, Hallesivo, Lonvudhe, Hyssëvë, Ilvydhë, Tellavidhe, Eilavadhe, Rivydhë, Nelyvëdhë, Hyssëdhë, Pelvaidhe, Thilvaidhe, Esselivo, Ëlvyridhë, Ilevadhe, Solmeridhe, Lenthidhe, Lenthivo, Kilvëdhë, Nuomidhe, Sëlvidhë, Nylvidhë, Sulmedhe, Liseridhe, Liserivo, Kinsadhe, Kinsavo, Tëlvidhë, Sulmevo, Olmarnadhe, Olmarnavo, Ressidhe, Ressivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvara, Kalvila, Kalvira, Mollura, Toirula, Olvessala, Olvessara, Olmasila, Olmasira, Unturola, Esselira, Hallesila, Tirvalira, Almarila, Lavurila, Masserila, Rhovelira, Porvira, Lorramila, Lorramira, Ansorula, Huomala, Huomara, Lanthavola, Lanthavora, Porvila, Kelvasila, Kelvasira, Solmerila, Nelyvëlë, Thalvela, Thalvera, Nuomila, Nuomira, Loovala, Loovara, Hallesira, Lonvula, Lonvura, Hyssëlë, Hyssërë, Ilvylë, Ilvyrë, Tellavila, Tellavira, Eilavala, Eilavara, Rivylë, Rivyrë, Nelyvërë, Pelvaila, Pelvaira, Thilvaila, Thilvaira, Ëlvyrilë, Kilvëlë, Ilevala, Ilevara, Lenthila, Lenthira, Kilvërë, Sëlvilë, Sëlvirë, Nylvilë, Nylvirë, Sulmela, Sulmera, Liserila, Kinsala, Kinsara, Tëlvirë, Olmarnala, Olmarnara, Ressila, Ressira
+Nuuvala, Nuuvara, Kalvila, Kalvira, Mollura, Toimula, Olvessala, Olvessara, Olmasila, Olmasira, Unturola, Esselira, Hallesila, Tirvalira, Almarila, Lavurila, Masserila, Rhovelira, Porvira, Lorramila, Lorramira, Ansorula, Huomala, Huomara, Lanthavola, Lanthavora, Porvila, Kelvasila, Kelvasira, Solmerila, Nelyvëlë, Thalvela, Thalvera, Nuomila, Nuomira, Loovala, Loovara, Hallesira, Lonvula, Lonvura, Hyssëlë, Hyssërë, Ilvylë, Ilvyrë, Tellavila, Tellavira, Eilavala, Eilavara, Rivylë, Rivyrë, Nelyvërë, Pelvaila, Pelvaira, Thilvaila, Thilvaira, Ëlvyrilë, Kilvëlë, Ilevala, Ilevara, Lenthila, Lenthira, Kilvërë, Sëlvilë, Sëlvirë, Nylvilë, Nylvirë, Sulmela, Sulmera, Liserila, Kinsala, Kinsara, Tëlvirë, Olmarnala, Olmarnara, Ressila, Ressira
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Halvinto—"pale wood" Mollunto—"deep pool" Soirunto—"the turning year" Olvessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Sirvalinto—"the long road" Almarinto—"the cupped hand" Lavurinto—"running water" Masserinto—"the deep ground" Rhovelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Vorvinto—"the split log" Helvasinto—"the cold spring" Solmerinto—"the smell of rain" Thalvento—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hallesinto—"white frost" Lonvunto—"the deep wood" Hyssëntë—"the held breath" Ilvyntë—"thin ice" Sellavinto—"the small bell" Eilavanto—"the wide sky" Rivyntë—"the turning leaf" Nelyvëntë—"the first frost" Velvainto—"the low cloud" Ëlvyrintë—"the evening star" Ilevanto—"the clear place" Hilvëntë—"the far call" Sëlvintë—"the woven light" Nylvintë—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllëntë—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Halvinto—"pale wood" Mollunto—"deep pool" Soimunto—"the turning year" Olvessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Sirvalinto—"the long road" Almarinto—"the cupped hand" Lavurinto—"running water" Masserinto—"the deep ground" Rhovelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Vorvinto—"the split log" Helvasinto—"the cold spring" Solmerinto—"the smell of rain" Thalvento—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hallesinto—"white frost" Lonvunto—"the deep wood" Hyssëntë—"the held breath" Ilvyntë—"thin ice" Sellavinto—"the small bell" Eilavanto—"the wide sky" Rivyntë—"the turning leaf" Nelyvëntë—"the first frost" Velvainto—"the low cloud" Ëlvyrintë—"the evening star" Ilevanto—"the clear place" Hilvëntë—"the far call" Sëlvintë—"the woven light" Nylvintë—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllëntë—"the rising note" Ressinto—"the plaited mat"
 
 ## Lexicon
 

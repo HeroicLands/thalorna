@@ -13,7 +13,7 @@ data:
   subjects: [lore-khazarturn, lore-fallkhazturn, lore-grukarapp, miscgear-secondvoice]
 ---
 
-**The Sealing of the City**, _Zagathavughán_, is the lament the [[lore-khazariclt|Khazári]] sing below when the account of [[lore-khazarturn|Khazártúrn]] has been read. The keepers of the archive read the account by lamplight in the deep hall; when its last line is read, the old of the hold sing this, and nobody else sings it. It is a _kimghath_, a lament kept and sung again without change, in the broken course of the [[skill-khazarlng|Khazári]] deep song: a long half-line answered by a short one that falls away. Its first keener was **Kimghi** of Lakamakhulán, born to the remnant in the years after the sealing and given the _i_ of her name for the work of her father's mother, **Kamgha** of the same house, who keened over the carrying and died before her keening was set; Kimghi set it. The lament keeps to the account and sings in the voice of those who went in, as the account is written in theirs. Every name in it is a name the account holds and every count is the account's count, and a keener who varies either is corrected from the record. Of the one who carried the Voice it says what the account says, that he was [[lore-flksinale|Sinalë]], and no more; his name is known in every hold and is written in no Khazári text. The [[lore-grukarfolk|Grukar]] are in it as the account has them, as vermin, and the account's own reasoning about them is in it unchanged. In Khazári each of the eleven courses opens on a letter of [[skill-drthrkscrpt|Pirzath]] in the order of the row, and the course-heads count from _tob_ to _dolb_, one to eleven. The rendering keeps the numbers and loses the letters, and the course of the birds, the four half-lines that stand before the eleventh head, opens on no letter and carries no number. The text is as the old sing it at [[place-vorgald|Vorgald]], where it arrived with the account.
+**The Sealing of the City**, _Zagathavughán_, is the lament the [[lore-khazariclt|Khazári]] sing below when the account of [[lore-khazarturn|Khazártúrn]] has been read. The keepers of the archive read the account by lamplight in the deep hall; when its last line is read, the old of the hold sing this, and nobody else sings it. It is a _kimghath_, a lament kept and sung again without change, in the broken course of the [[skill-khazarlng|Khazári]] deep song: a long half-line answered by a short one that falls away. Its first keener was **Kimghi** of Lakamamulán, born to the remnant in the years after the sealing and given the _i_ of her name for the work of her father's mother, **Kamgha** of the same house, who keened over the carrying and died before her keening was set; Kimghi set it. The lament keeps to the account and sings in the voice of those who went in, as the account is written in theirs. Every name in it is a name the account holds and every count is the account's count, and a keener who varies either is corrected from the record. Of the one who carried the Voice it says what the account says, that he was [[lore-flksinale|Sinalë]], and no more; his name is known in every hold and is written in no Khazári text. The [[lore-grukarfolk|Grukar]] are in it as the account has them, as vermin, and the account's own reasoning about them is in it unchanged. In Khazári each of the eleven courses opens on a letter of [[skill-drthrkscrpt|Pirzath]] in the order of the row, and the course-heads count from _tob_ to _dolb_, one to eleven. The rendering keeps the numbers and loses the letters, and the course of the birds, the four half-lines that stand before the eleventh head, opens on no letter and carries no number. The text is as the old sing it at [[place-vorgald|Vorgald]], where it arrived with the account.
 
 : The Sealing of the City {#sealing}
 
@@ -167,7 +167,7 @@ The rock had left the pillar standing.
 Over the cutters the words were not said.
   They were kept.
 
-_Zom_
+_Zop_
 
 In the tower of Rummák the layers of courses
   were laid in the halls.
@@ -190,7 +190,7 @@ _Nefk_
 
 In the tower of Vurrán the followers of the line
   were laid in the workings.
-**Khalnan** of Khalvagunáv in the unlit working,
+**Malnan** of Khalvagunáv in the unlit working,
   where the lamp had gone out.
 The lamp had burned to the end of its oil.
   It was not put out.
@@ -219,7 +219,7 @@ The apprentices were there with their slates.
   it rings sound.
 The stone of that place rings sound.
   It rang sound that night.
-**Sakala** of Khardavurán had the reading of the faces.
+**Gakala** of Khardavurán had the reading of the faces.
   She was laid in her reading-room,
 with the valley before her, on wax, in her hand,
   face by face.
@@ -237,7 +237,7 @@ _Kabr_
 
 In the tower of Lummáv the keepers of the record
   were laid among the records.
-**Lekamen** of Lakamakhulán, the lamp in the silence,
+**Lekamen** of Lakamamulán, the lamp in the silence,
   had the archive lamp.
 It was found trimmed. It was found out.
   He was found by it.

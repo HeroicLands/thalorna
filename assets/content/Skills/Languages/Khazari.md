@@ -41,7 +41,7 @@ The inventory is laid out in clean series, and Khazári grammarians teach it as 
 | Liquids    | `r` `l`                                 | `r` heavily rolled                                                                      |
 | Glottal    | `'`                                     | Only between two vowels, to hold them apart                                             |
 
-The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazári, and a Khazári saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _vanth_, _zamd_ and _khaln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
+The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazári, and a Khazári saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _vanth_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
 
 ### Vowels
 
@@ -92,7 +92,7 @@ Meaning in Khazári lives in a **skeleton**—a _marg_, literally a bone—of ex
 | `s-m-d`  | to raise                              |
 | `v-n-th` | an oath; to swear                     |
 | `m-r-g`  | bone                                  |
-| `kh-l-n` | silence                               |
+| `m-l-n`  | silence                               |
 | `g-l-d`  | fire                                  |
 | `h-l-b`  | silver                                |
 | `l-k-m`  | a lamp                                |
@@ -258,24 +258,24 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 | `gazn` | pron  | we                                              |
 | `vesn` | pron  | you (many)                                      |
 | `vogn` | pron  | they                                            |
-| `kez`  | dem   | this, these                                     |
-| `koz`  | dem   | that, those                                     |
-| `thov` | part  | not; stands before the verb                     |
+| `kedz` | dem   | this, these                                     |
+| `kodz` | dem   | that, those                                     |
+| `thuf` | part  | not; stands before the verb                     |
 | `zef`  | part  | closes a question                               |
-| `bek`  | conj  | and                                             |
+| `bep`  | conj  | and                                             |
 | `zi`   | rel   | who, which, that; opens a clause after its noun |
 
 A pronoun takes case like a noun. The demonstratives take no suffix and stand before the noun and any adjective.
 
-- _Dalkir thov thumár-ak ramkam_—"The mason does not strike the course"
+- _Dalkir thuf thumár-ak ramkam_—"The mason does not strike the course"
 - _Dalkir thumár-ak ramkam zef_—"Does the mason strike the course?"
 - _dalkir zi thumár-ak ramkam_—"the mason who strikes the course"
-- _koz khalív dalk_—"that unlit stone"
-- _dalkir bek ramkir_—"the mason and the layer of courses"
+- _kodz khalív dalk_—"that unlit stone"
+- _dalkir bep ramkir_—"the mason and the layer of courses"
 
 ### Numbers
 
-Khazári counts in sixteens. Sixteen halves cleanly to eight, four, two and one, so ore, stores, gate-shares and lengths of course divide among houses by halving with no fraction left over, and a share is always a whole number of parts. Every number up to fifteen has a word of its own, and sixteen is _girm_. A larger number is said sixteens first and units after, the count of sixteens as a unit before _girm_, joined to the units by _bek_: thirty-seven is _zik girm bek zom_, "two sixteen and five", and a hundred is _nefk girm bek bozd_, "six sixteen and four". Sixteen sixteens is a great count, two hundred fifty-six, with a noun of its own in the [[doc-khazarilex|Khazári Lexicon]], and a count of great counts is said the same way. A noun after a number above one takes the plural.
+Khazári counts in sixteens. Sixteen halves cleanly to eight, four, two and one, so ore, stores, gate-shares and lengths of course divide among houses by halving with no fraction left over, and a share is always a whole number of parts. Every number up to fifteen has a word of its own, and sixteen is _girm_. A larger number is said sixteens first and units after, the count of sixteens as a unit before _girm_, joined to the units by _bep_: thirty-seven is _zik girm bep zop_, "two sixteen and five", and a hundred is _nefk girm bep bozd_, "six sixteen and four". Sixteen sixteens is a great count, two hundred fifty-six, with a noun of its own in the [[doc-khazarilex|Khazári Lexicon]], and a count of great counts is said the same way. A noun after a number above one takes the plural.
 
 | Word    | Value |
 | ------- | ----: |
@@ -283,7 +283,7 @@ Khazári counts in sixteens. Sixteen halves cleanly to eight, four, two and one,
 | `zik`   |     2 |
 | `vem`   |     3 |
 | `bozd`  |     4 |
-| `zom`   |     5 |
+| `zop`   |     5 |
 | `nefk`  |     6 |
 | `fozd`  |     7 |
 | `kabr`  |     8 |
@@ -453,11 +453,11 @@ House names have no gendered form at all. A woman of Dalkathumár is of Dalkathu
 
 ### Male Given Names
 
-Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kevalen, Kivalin, Sekaren, Sikarin, Sokaron, Nalpan, Nilpin, Nulpun, Gelden, Goldon, Guldun, Kherden, Khirdin, Khardan, Vetamen, Vutamun, Varthan, Virthin, Vorthon, Molthon, Milthin, Pernen, Pirnin, Zamdan, Zimdin, Famgan, Fimgin, Fumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Vanthan, Vinthin, Derkhen, Dorkhon, Mirgin, Murgun, Dhenken, Dhonkon, Dhunkun, Valdan, Voldon, Gasvan, Gisvin, Helben, Holbon, Garfan, Girfin, Balgan, Bulgun, Samdan, Simdin, Tevaren, Tovaron, Zenthen, Zonthon, Ferden, Furdun, Khalnan, Khilnin, Revaden, Rovadon, Hemken, Homkon, Thalgan, Thilgin, Vernen, Vornon, Tenven, Tonvon, Lekamen, Lokamon, Hanthan, Hinthin, Ranthan, Rinthin, Salthan, Silthin, Gerzen, Gorzon, Tamkan, Timkin, Khevanen, Khivanin, Sakalan, Sikalin
+Ramkan, Rimkin, Rumkun, Dalkan, Delken, Dolkon, Thamran, Thimrin, Thumrun, Kevalen, Kivalin, Sekaren, Sikarin, Sokaron, Nalpan, Nilpin, Nulpun, Gelden, Goldon, Guldun, Kherden, Khirdin, Khardan, Vetamen, Vutamun, Varthan, Virthin, Vorthon, Molthon, Milthin, Pernen, Pirnin, Zamdan, Zimdin, Famgan, Fimgin, Fumgun, Khalvan, Khilvin, Ganvan, Gunvun, Palzan, Pilzin, Vanthan, Vinthin, Derkhen, Dorkhon, Mirgin, Murgun, Dhenken, Dhonkon, Dhunkun, Valdan, Voldon, Gasvan, Gisvin, Helben, Holbon, Garfan, Girfin, Balgan, Bulgun, Samdan, Simdin, Tevaren, Tovaron, Zenthen, Zonthon, Ferden, Furdun, Malnan, Milnin, Revaden, Rovadon, Hemken, Homkon, Thalgan, Thilgin, Vernen, Vornon, Tenven, Tonvon, Lekamen, Lokamon, Hanthan, Hinthin, Ranthan, Rinthin, Salthan, Silthin, Gerzen, Gorzon, Tamkan, Timkin, Khevanen, Khivanin, Gakalan, Gikalin
 
 ### Female Given Names
 
-Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare, Sokaro, Nilpi, Nulpu, Gelde, Goldo, Kherde, Khirdi, Vetame, Vutamu, Verthe, Vortho, Moltho, Milthi, Perne, Pirni, Zamda, Zimdi, Famga, Fimgi, Kholvo, Khilvi, Ganva, Genve, Palza, Pilzi, Vontho, Vunthu, Derkhe, Dorkho, Mirgi, Murgu, Dhenke, Dhonko, Velde, Voldo, Gasva, Gisvi, Helbe, Holbo, Garfa, Girfi, Balga, Bulgu, Samda, Simdi, Tevare, Tovaro, Zenthe, Zontho, Ferde, Furdu, Khelne, Khilni, Revade, Rovado, Hemke, Homko, Thalga, Thilgi, Verne, Vorno, Tenve, Tonvo, Lekame, Lokamo, Henthe, Hontho, Renthe, Rinthi, Selthe, Sulthu, Gerze, Gorzo, Tamka, Timki, Khevane, Sakala, Sekale
+Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare, Sokaro, Nilpi, Nulpu, Gelde, Goldo, Kherde, Khirdi, Vetame, Vutamu, Verthe, Vortho, Moltho, Milthi, Perne, Pirni, Zamda, Zimdi, Famga, Fimgi, Kholvo, Khilvi, Ganva, Genve, Palza, Pilzi, Vontho, Vunthu, Derkhe, Dorkho, Mirgi, Murgu, Dhenke, Dhonko, Velde, Voldo, Gasva, Gisvi, Helbe, Holbo, Garfa, Girfi, Balga, Bulgu, Samda, Simdi, Tevare, Tovaro, Zenthe, Zontho, Ferde, Furdu, Melne, Milni, Revade, Rovado, Hemke, Homko, Thalga, Thilgi, Verne, Vorno, Tenve, Tonvo, Lekame, Lokamo, Henthe, Hontho, Renthe, Rinthi, Selthe, Sulthu, Gerze, Gorzo, Tamka, Timki, Khevane, Gakala, Gekale
 
 ### House Names (Patrilineal)
 
@@ -478,7 +478,7 @@ Ramka, Rimki, Rumku, Dalka, Delke, Dolko, Thimri, Themre, Kevale, Kivali, Sekare
 | `Nalpafurád`   | the enduring of the cold        |
 | `Zanthaguráf`  | the whetting to brightness      |
 | `Famgadurákh`  | the holding of the deep         |
-| `Lakamakhulán` | the lamp in the silence         |
+| `Lakamamulán`  | the lamp in the silence         |
 | `Balgatumák`   | the trust of copper             |
 | `Malthapurán`  | the root of salt                |
 | `Parnasumád`   | the raising from deep ground    |

@@ -155,7 +155,7 @@ The Khazári hold that the dead go down into the mountain's keeping, to the ligh
 
 That belief makes the ordinary week. It is why every finished piece is signed and warranted, why a worker would rather leave a job undone than do it badly, why old work is repaired before new work is begun, and why the craft-records are kept with a care no human archive matches. It reaches inheritance: a house inherits its dead's tools as memorial objects and their unfinished work as an obligation. It reaches burial: the dead are laid deep, in tombs the hold prepares, with their names cut in carved Pirzath. And it reaches spending: a house spends its effort on keeping the dead's work sound and little on furnishing a tomb.
 
-At a funeral the hold goes down and keeps silence over the dead, khullán. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
+At a funeral the hold goes down and keeps silence over the dead, mullán. The silence is broken only by the words also said over finished work: _Ramk kr-na-sumád, ramk na-thumár-aktor_, "the course has been raised; the course will be struck."
 
 ## Keeping the Work of the Dead
 
@@ -229,10 +229,11 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 
 | Term        | Meaning                                                                                  |
 | ----------- | ---------------------------------------------------------------------------------------- |
-| bek         | And; joins the sixteens of a number to its units.                                        |
+| bep         | And; joins the sixteens of a number to its units.                                        |
 | bozd        | Four.                                                                                    |
 | dalkapuráz  | Carved Pirzath, cut across the grain along a seam, for oaths, laws, tombs and foundings. |
 | dolb        | Eleven.                                                                                  |
+| fadhal      | The crossing: the seven clans' flight from Humadhan.                                     |
 | fadhaz      | A part; a sixteenth, into which the craft-records divide a measure.                      |
 | fakar       | A finding: a cave newly found, the first thing any hold has.                             |
 | fakarir     | A finder, who reads a mountain from outside and says where its caves and water run.      |
@@ -250,13 +251,11 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 | huzafal     | A shrine.                                                                                |
 | kabr        | Eight.                                                                                   |
 | kamgh       | A lament.                                                                                |
-| khadhal     | The crossing: the seven clans' flight from Humadhan.                                     |
 | khardev     | A hold.                                                                                  |
 | khasp       | Restraint, the little cut; the virtue the workshops prize above skill.                   |
 | khatab      | A ruled line, a straight cut.                                                            |
 | khispath    | A work cut so sparingly that it barely shows.                                            |
 | khozm       | Nine.                                                                                    |
-| khullán     | The silence kept over the dead.                                                          |
 | kimghath    | A set lament, one kept and sung again.                                                   |
 | kirghath    | A ring of the old realm, forged to bend a mind and a soul.                               |
 | luváz       | To follow a seam.                                                                        |
@@ -267,6 +266,7 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 | mazadh      | A claim of work, said before others.                                                     |
 | mazk        | Twelve.                                                                                  |
 | milgath     | The hand form of Pirzath, the everyday writing.                                          |
+| mullán      | The silence kept over the dead.                                                          |
 | nabaf       | An apprentice, who listens for years before striking anything that matters.              |
 | naghal      | A quake.                                                                                 |
 | narvavutám  | A long tunnel cut along the grain that needs no prop; a miner's masterpiece.             |
@@ -290,5 +290,5 @@ The ethic that forbids a needless cut in stone does not reach people. The Khazá
 | zagar       | A fault, where the rock has slipped.                                                     |
 | zalm        | A charm.                                                                                 |
 | zik         | Two.                                                                                     |
-| zom         | Five.                                                                                    |
+| zop         | Five.                                                                                    |
 | zund        | Ten.                                                                                     |

@@ -962,7 +962,7 @@ careless prose.
 
 **An in-world word that is not a name is italic every time:** _tob_, _havadh_,
 _filnath_. **A name is never italic**—a person, place, god, house, clan or named
-work: Sarghakhudhál, Lakamakhulán, The Crossing of the Clans.
+work: Sarghafudhál, Lakamamulán, The Crossing of the Clans.
 
 **A culture's common words are set in roman.** The in-world terms, a dozen at most, that
 players and GMs are expected to know are listed in the **Glossary** table of that

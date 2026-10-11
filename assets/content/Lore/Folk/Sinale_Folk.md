@@ -177,7 +177,7 @@ Every SinalÃ« word and term of art these notes use. The [[doc-sinalelexcn|SinalÃ
 | thalvelta  | Fog over                                                     |
 | thilvai    | The seam of light                                            |
 | tirvali    | The long road                                                |
-| toiru      | The turning year                                             |
+| toimu      | The turning year                                             |
 | tuve       | Hold                                                         |
 | unturo     | Winter                                                       |
 | vauli      | Tall                                                         |

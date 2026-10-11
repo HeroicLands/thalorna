@@ -531,7 +531,7 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 
 | Form           | Class | Gloss                          | Built from          | Attested                             |
 | -------------- | ----- | ------------------------------ | ------------------- | ------------------------------------ |
-| `toiru`        | n     | the turning year               | —                   | [[skill-sinalelng\|Sinalë Language]] |
+| `toimu`        | n     | the turning year               | —                   | [[skill-sinalelng\|Sinalë Language]] |
 | `ansoru`       | n     | the long watch                 | —                   | [[skill-sinalelng\|Sinalë Language]] |
 | `nuomi`        | n     | the still hour                 | —                   | [[skill-sinalelng\|Sinalë Language]] |
 | `sennave`      | n     | time                           | —                   | —                                    |
@@ -552,7 +552,7 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 | `ivarra`       | n     | hope, the waiting that expects | —                   | —                                    |
 | `ennos`        | part  | before                         | —                   | —                                    |
 | `uulse`        | part  | after                          | —                   | —                                    |
-| `toirunu`      | n     | a single year                  | `toiru` + `-nu`     | —                                    |
+| `toimunu`      | n     | a single year                  | `toimu` + `-nu`     | —                                    |
 | `theilannu`    | n     | a day                          | `theilan` + `-nu`   | —                                    |
 | `sennevirsa`   | n     | patience                       | `sennevi` + `-rsa`  | —                                    |
 | `nuuvatalvaro` | n     | the Age of Stars               | `nuuva` + `talvaro` | —                                    |
@@ -737,14 +737,14 @@ A new root word—one made from nothing in this lexicon—is a larger thing than
 | `oso`      | part  | that, which, who               | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `vennas`   | num   | many                           | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `ilte`     | num   | one                            | —               | [[skill-sinalelng\|Sinalë Language]] |
-| `sives`    | num   | two                            | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `sipes`    | num   | two                            | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `kevu`     | num   | three                          | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `pemi`     | num   | four                           | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `lella`    | num   | five                           | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `louti`    | num   | six                            | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `ilpe`     | num   | seven                          | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `lerre`    | num   | eight                          | —               | [[skill-sinalelng\|Sinalë Language]] |
-| `thuni`    | num   | nine                           | —               | [[skill-sinalelng\|Sinalë Language]] |
+| `thumi`    | num   | nine                           | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `tova`     | num   | ten                            | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `ilvo`     | num   | fifteen                        | —               | [[skill-sinalelng\|Sinalë Language]] |
 | `elmi`     | num   | twenty                         | —               | [[skill-sinalelng\|Sinalë Language]] |
