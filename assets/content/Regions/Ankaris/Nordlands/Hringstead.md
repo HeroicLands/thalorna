@@ -23,5 +23,5 @@ People at Hringstead tell of the **Ride over Hringstead**, a high ride on the ni
 ## See Also
 
 - [[affiliation-malldbndlg|Málalidabandalag]]—the compact whose Hall stands here
-- [[affiliation-skaldscrcl|Skalds' Circle]]—sworn here, by its own tradition
+- [[affiliation-skaldscrcl|Skalds' Circle]]—sworn here about 110 AF, by its own tradition
 - [[lore-vthgdhstry|Histories and Legends of Vithgard]]—the tale of the ride

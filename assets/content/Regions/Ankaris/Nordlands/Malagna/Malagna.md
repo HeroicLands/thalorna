@@ -32,7 +32,7 @@ The kingdom is known for its shipbuilding. Malagnan longships are considered the
 - [[place-malstead|Málstead]] (600): the law-market of the western farms.
 - [[place-braldheim|Braldheim]] (350): charcoal-burners' homesteads, and the howe where the [[affiliation-grimvar|Grímvar]] keep [[miscgear-crwnwyrm|the Crown of the Wyrm]].
 - [[place-hvalgvik|Hvalgvík]] (200): a bay that gives shelter in any wind.
-- [[place-glarvey|Glarvey]]: an island holding under a thegn.
+- [[place-glarvey|Glarvey]]: an island holding under a hersvald.
 - [[place-dvilgborg|Dvilgborg]]: a garrisoned stronghold on a height.
 
 ## See Also

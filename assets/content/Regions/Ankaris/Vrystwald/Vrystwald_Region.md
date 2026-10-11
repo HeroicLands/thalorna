@@ -121,7 +121,7 @@ They simply never built anything worth capturing.
 
 ## Village Roster
 
-The twenty named village notes are a small sample. This further roster gives sixty usable villages without claiming that any one of them commands its neighbors. Their populations remain within the ordinary 200–500 band. Each totem names the village's single spirit bond; the leading seat identifies whose judgement usually prevails, while the other two seats remain in place.
+The twenty named village notes are a small sample. This further roster gives sixty usable villages without claiming that any one of them commands its neighbors. Their populations remain within the ordinary 200–500 band. Each totem names the village's single spirit bond; the leading seat identifies whose judgment usually prevails, while the other two seats remain in place.
 
 | Village    | Reach                          | People | Totem                          | Leading seat | Character                                              |
 | ---------- | ------------------------------ | -----: | ------------------------------ | ------------ | ------------------------------------------------------ |

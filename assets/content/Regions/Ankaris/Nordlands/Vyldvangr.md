@@ -12,9 +12,9 @@ A farmer comes to Vyldvangr when the fields have already failed. The ground is a
 
 ## What the Stones Are For
 
-The saga of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] tells why people come. The rains failed after years of plenty, and she walked to the stones, offered the last of her village's grain to the earth and prayed for Fródvin's mercy. A wind rose, the sky darkened, rain fell, and the harvest that followed was the largest anyone remembered. Her standing at the stones gave her the power to call rain once a season, and the keepers count her among their own and give her the place for her most important rites. The ground is named for what it bears: _vyld-_ is grain, and the generic that follows is the one for an open field.
+The saga of [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]] tells why people come. The rains failed after years of plenty, and she walked to the stones, offered the last of her village's grain to the earth and prayed for Fródvin's mercy. A wind rose, the sky darkened, rain fell, and the harvest that followed was the largest anyone remembered. In the song her standing at the stones gave her the power to call rain once a season. The keepers count her among their own, though the saga sets her in the Age of Halls, and they keep the place where she prayed for the rites of a dry year. The ground is named for what it bears: _vyld-_ is grain, and the generic that follows is the one for an open field.
 
 ## See Also
 
-- [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]]—the harvest-blessed woman the keepers support
+- [[being-mrvrnhrvstblsd|Mirvrinna Harvest-Blessed]]—the harvest-blessed woman of the saga, whom the keepers count among their own
 - [[affiliation-frodvin|Faith of Fródvin]]—the god's faith

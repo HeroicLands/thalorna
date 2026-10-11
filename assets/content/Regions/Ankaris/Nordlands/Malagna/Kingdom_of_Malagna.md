@@ -70,7 +70,7 @@ data:
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
+      Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: gnarthborg
   population: 340000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -103,15 +103,26 @@ Below the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for
 
 Law reaches the farms through [[place-malstead|Málstead]]. When Gnarthborg's own ting is not sitting, a dispute from the western farms is heard at a marked stone in Málstead's market square before whichever Lawspeaker is riding circuit that season. A verdict given there binds until a losing party appeals it to the king's own ting.
 
+## The Royal Line
+
+Malagna's kings come from the **Hlurthidrokh**, who reckon their line from **Hlurthann I** and not from the king before him. That king, **Gnirthorv**, took the host across the frozen border lake of [[place-skalfvatn|Skalfvatn]] in 466 and went through the ice with eleven hundred men, and his arm-ring is still under it ([[lore-nordkinwars|The Kin-Wars]]).
+
+- **Hlurthann I**, about 480 to 523, turned the kingdom to the western trade after Skalfvatn and built the hulls of the [[lore-southrnfleets|Southern Fleets]] in Gnarthborg's yards.
+- **Hlurthann II**, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Calypsa]].
+- **Gnaldrorv**, about 632 to 662, would not choose between the Grímvar and the Hrafnvar when the Málstead wergild split them.
+- [[being-knghlrthni|Hlurthann III]], acclaimed about 686, the present king.
+
+Hlurthann III is aging and has no acclaimed heir. The ting will choose among the Hlurthidrokh when he dies, and the Grímvar and the Hrafnvar each mean to be the clan whose candidate it chooses.
+
 ## Two Clans and One Quarrel
 
 Malagna's two great clans, the [[affiliation-grimvar|Grímvar]] and the [[affiliation-hrafnvar|Hrafnvar]], remember one broken settlement differently, and the difference runs beneath the kingdom's present division. It began three generations ago with a killing in a Gnarthborg shipyard, and the peace a priest of [[affiliation-frodvin|Fródvin]] sought by walking between [[place-braldheim|Braldheim]] and Málstead did not settle it. It is remembered as the Málstead wergild. The Grímvar keep [[miscgear-crwnwyrm|the Crown of the Wyrm]] in a howe at Braldheim, and the Hrafnvar say that fear, not piety, keeps their rivals from wearing it. [[lore-mlgnahstry|Histories and Legends of Malagna]] gives each side its account.
 
 ## The People and Their Ports
 
-Malagna's western position gives it a more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, the merchant households of Gnarthborg keep standing arrangements with foreign traders that a more insular eastern kingdom would never tolerate, and the kingdom's port towns host small communities of foreign traders. The exposure has softened some of the harsher edges of Nordmen culture. Malagna's people are still warriors and sailors, and they are diplomats and deal-makers too.
+Malagna's western trade gives it a more cosmopolitan character than its sister kingdoms. The kingdom lies east of Nordheim, but its ships sail west, to Élavendre, Aelwyth and Calypsa, and have done so for as long as Gnarthborg has had yards. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, the merchant households of Gnarthborg keep standing arrangements with foreign traders that a more insular eastern kingdom would never tolerate, and the kingdom's port towns host small communities of foreign traders. The exposure has softened some of the harsher edges of Nordmen culture. Malagna's people are still warriors and sailors, and they are diplomats and deal-makers too.
 
-The land shows the same range. Gnarthborg's forges run on charcoal that Braldheim's homesteads cut, bank and burn down slow through the long nights. Málstead is the second-busiest market in the kingdom, and it holds that rank by default, because the law sits there. [[place-hvalgvik|Hvalgvík]] holds a bay that gives shelter in any wind. [[place-glarvey|Glarvey]] is an island holding whose roofs are its thegn's pride, and [[place-dvilgborg|Dvilgborg]] is the garrisoned height where recruits learn to keep a watch that does not sleep.
+The land shows the same range. Gnarthborg's forges run on charcoal that Braldheim's homesteads cut, bank and burn down slow through the long nights. Málstead is the second-busiest market in the kingdom, and it holds that rank by default, because the law sits there. [[place-hvalgvik|Hvalgvík]] holds a bay that gives shelter in any wind. [[place-glarvey|Glarvey]] is an island holding whose roofs are its hersvald's pride, and [[place-dvilgborg|Dvilgborg]] is the garrisoned height where recruits learn to keep a watch that does not sleep.
 
 ## Relations
 

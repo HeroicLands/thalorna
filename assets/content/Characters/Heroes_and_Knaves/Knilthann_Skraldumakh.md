@@ -464,7 +464,7 @@ Knilthann's driving force is the preservation of cultural memory and the validat
 House of Bergvorn
 : A noble family of great conservatism and wealth who commission Knilthann annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
 
-The High Thegn of Targud
+[[affiliation-kingdmtrgd|The King of Targud]]
 : The kingdom's ruler has relied upon Knilthann to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
 
 Jarl Vrildorv the Unyielding

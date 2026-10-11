@@ -35,7 +35,7 @@ The ting-ground is a ring of seats set in the turf around a single outcrop, the 
 | [[affiliation-kingdmtrgd\|Targud]]    | 1           | 3            |
 | [[affiliation-kngdmvthgrd\|Vithgard]] | 1           | 3            |
 
-The five kings sit facing the law-rock, Nordheim's at the center because Nordheim holds the island and its king usually convenes the assembly. Malagna's seat is held by [[being-knghlrthni|King Hlurthann III]]. Each kingdom's jarls sit in the row behind their own king.
+The five kings sit facing the law-rock, Nordheim's at the center because Nordheim holds the island and its king usually convenes the assembly. Nordheim's seat is held by King **Hvarnorv** and Malagna's by [[being-knghlrthni|King Hlurthann III]]. Each kingdom's jarls sit in the row behind their own king.
 
 **A jarl's seat follows the grant, not the man.** A seat belongs to a province, and the jarl who holds that province by the king's grant sits in it. A king who moves a grant moves the seat with it, which makes Dómsey one more place where a king's choice of jarls is watched. A seat whose holder does not come stays empty. Nobody sits in another man's tingsveld, and a king may not seat a favorite in an empty jarl's place.
 
@@ -49,10 +49,21 @@ The assembly runs over several days in a fixed order. The Lawspeakers recite fir
 
 When the last matter is done, the Landsgodi walks the stones the other way and lifts the peace, and the kings go back to their boats. The skalds have already started reciting.
 
+## The Dead of the First Sitting
+
+Everything above has one cause, and the Lawspeaker who tells a newcomer to leave his sword in the boat is telling him the cause without saying it. The five kings first met on this strand in 287, at the first sitting of the [[lore-domseycount|Dómsey count]], and a quarrel over who sat nearest the law-rock became a killing that lasted an afternoon: nine jarls and about three hundred hirdmen died, Nordheim's King **Svalthorv** among them, and the four living kings and Svalthorv's son swore the ting-peace on a beach of their own dead. The swords in the boats, the hallowing, the twenty-seven seats and Nordheim's keeping of the island were all sworn that evening, and [[lore-nordfirstsit|The First Sitting on Dómsey]] tells it.
+
+What was not done that evening is why the island is empty. No grave-ale was ever drunk for the dead of 287, because to drink it is to speak the reckoning over it and the reckoning names which crown's hird struck first, and four centuries of hall-credit compound on that question. The dead were never received, and Dómsey is a _vrellvöll_, a blood-field, of the kind the north calls the silence. No bird lands on it. No insect sings on it in summer. No ewe has ever dropped a living lamb on it, which is why the kingdom's sheep are rowed off to lamb, and in the six empty years of seven the herdsman who counts them at dusk counts one figure more than he has sheep, once, and does not count again. The field runs thin, and it is held shut by the one thing that can hold a field for a set time: the Landsgodi's hallowing closes it for the days of a sitting, and lifting the peace opens it. A man who draws steel inside the stones at a sitting feels the dead of 287 stand up behind his seat, which is the reason no wergild settles a blow struck there and the reason the rule needs no guard to enforce it.
+
+The Landsgodi pours one cup at the law-rock at each opening, "for the ones the count left out", and that is the whole of what the north does for them. A Malagnan claimant who offered to drink the grave-ale of 287 in his own name would be offering to reckon the debt before every king in the north, and a reckoning that found Nordheim's hird drew first would put the island's keeping in question. A Náhild cell that meant to spill blood inside the stones at the sixty-third sitting would open the field with all five kings sitting on it.
+
 ## See Also
 
 - [[place-nordheim|Nordheim]]—the land whose waters hold the island
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]—the crown that holds Dómsey and usually convenes the assembly
+- [[lore-nordfirstsit|The First Sitting on Dómsey]]—the slaughter of 287 and the oath on the strand
+- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings
+- [[lore-bloodfield|Blood-fields]]—the silence under the seats
 - [[affiliation-asguardian|Asguardian Pantheon]]—the faith whose Landsgodi hallows the island
 - [[affiliation-eidhond|Order of the Sworn Hand]]—the knights who keep the ting-peace
 - [[affiliation-skaldscrcl|Skalds' Circle]]—the memory of the assembly's judgments

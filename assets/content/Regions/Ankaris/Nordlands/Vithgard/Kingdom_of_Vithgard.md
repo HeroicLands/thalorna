@@ -70,7 +70,7 @@ data:
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
+      Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: thrunborg
   population: 300000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -97,6 +97,15 @@ The Kingdom of Vithgard holds the land of [[place-vithgard|Vithgard]], a small c
 Vithgard is a monarchy with a ting, like its sister kingdoms: the king is acclaimed there and holds the realm on its consent. He keeps court at [[place-thrunborg|Thrúnborg]], a fortified town of about seven hundred people where the kingdom's jarls gather to settle disputes and plan its defense, and where the kingdom's hersvaldar come within the walls for the long dark. Three jarls' seats stand behind his on [[place-domsey|Dómsey]].
 
 Law is kept in more than one place. The kingdom's own ting sits at [[place-logstead|Lögstead]], where the hof of [[affiliation-eidgar|Eidgar]] binds the offerings and the assembly's oath into one hearth and the [[affiliation-eidhond|Order of the Sworn Hand]] keeps its mother-hall. [[place-hrandstead|Hrandstead]], the seat of its own province under a jarl of the **Bjarnaett**, has a ting of its own. [[place-dvarnvik|Dvarnvík]]'s ting once accused eleven people of working the winds, and the ruling of a [[lore-swornhandrnk|Sworn Hand]] that foretelling alone is no working against a named person is the reason a seer's prophecy in Vithgard is not treated as proof of sorcery.
+
+## The Royal Line
+
+Vithgard's kings come from the **Thalmidrokh** at Thrúnborg. **Tvarnthann** reigned from about 668 to 694, through the failed whaling winter that ended in the burning at [[place-askholm|Askholm]], and died in the winter dark without an heir the ting had acclaimed. His two sons by two wives fought seven summers for the crown, and in 701 a Sworn Hand brought them to Lögstead to swear the truce the kingdom lives under ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
+
+- **Snirvmýl**, the elder, is king at Thrúnborg, acclaimed by the kingdom's ting after the truce.
+- **Glirvorv**, his half-brother, holds the Hrandstead district as its jarl for his life, with his own ting under him and no voice in the succession.
+
+The truce says nothing of what becomes of Hrandstead when Glirvorv dies, and both brothers' halls have been counting the years since 701.
 
 ## Whalers, Sealers and Craftsmen
 

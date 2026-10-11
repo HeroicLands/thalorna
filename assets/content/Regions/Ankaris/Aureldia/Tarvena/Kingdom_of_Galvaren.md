@@ -87,7 +87,7 @@ data:
       Purveyor: >-
         Officer empowered to requisition goods and labor for the household at the crown's price—an office universally resented.
       Regent: One ruling in the sovereign's stead during minority, absence, or incapacity.
-      Privy Councillor: >-
+      Privy Councilor: >-
         Member of the sovereign's inner council, advising on matters not brought before any wider body.
       King of Arms: Principal officer of arms, ruling on heraldry, precedence, and the right to bear arms.
       Herald: >-

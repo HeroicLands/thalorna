@@ -124,3 +124,77 @@ test("follows-in-order", () => {
     );
     assert.match(found, /follows-in-order/u);
 });
+
+const DOMSEY = {
+    file: "Domsey_Count.md",
+    fm: {
+        shortcode: "domseycount",
+        type: "lore",
+        subType: "calendar",
+        data: {
+            epoch: "287.1",
+            months: [{ name: "Turn", days: 365 }],
+            eras: [
+                {
+                    shortcode: "beforesits",
+                    name: "Before the Sittings",
+                    abbreviation: "BS",
+                    marker: "NBS",
+                    start: null,
+                },
+                {
+                    shortcode: "fivecrowns",
+                    name: "The Five Crowns",
+                    abbreviation: "FC",
+                    marker: "NFC",
+                    start: 1,
+                },
+                {
+                    shortcode: "hungerfleets",
+                    name: "The Hunger and the Fleets",
+                    abbreviation: "HF",
+                    marker: "NHF",
+                    start: 226,
+                },
+            ],
+            formats: { std: "D MMMM Y GGG" },
+        },
+    },
+};
+
+/** The findings for a tree whose calendars are the Madhusthāna count and the Dómsey count. */
+function runNorth(...history) {
+    return check({ history, calendars: [MADHU, DOMSEY], world: [WORLD] });
+}
+
+test("the Dómsey count: a count year reads as the Vylarian year it stands for", () => {
+    assert.deepEqual(
+        runNorth(
+            note("sitting", [{ when: 287, stated: { calendar: "domseycount", text: "1 FC" } }]),
+            note("oath", [{ when: 518, stated: { calendar: "domseycount", text: "232 HF" } }]),
+            note("halls", [{ when: -110, stated: { calendar: "domseycount", text: "396 BS" } }]),
+        ),
+        [],
+    );
+});
+
+test("the Dómsey count: a count year one off its Vylarian year is a finding", () => {
+    const [found] = runNorth(
+        note("off", [{ when: 519, stated: { calendar: "domseycount", text: "232 HF" } }]),
+    );
+    assert.match(found, /stated-agrees: "232 HF" in domseycount is not the year/u);
+});
+
+test("the Dómsey count: a sitting named by its number states no date and is read past", () => {
+    assert.deepEqual(
+        runNorth(
+            note("named", [
+                {
+                    when: 518,
+                    stated: { calendar: "domseycount", text: "the thirty-fourth sitting" },
+                },
+            ]),
+        ),
+        [],
+    );
+});

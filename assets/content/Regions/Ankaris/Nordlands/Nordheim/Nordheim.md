@@ -6,7 +6,7 @@ subType: region
 description: "The land of the Kingdom of Nordheim—the northwestern coast of Ankaris, where jagged mountains plunge into icy fjords, with boreal forest, glacial valleys and high tundra behind."
 tags: [region]
 data:
-  demonym: Nordem
+  demonym: Nordheimn
   lore: [nordheimnclt]
   parents: [nrdlndsrgn]
   population: 650000

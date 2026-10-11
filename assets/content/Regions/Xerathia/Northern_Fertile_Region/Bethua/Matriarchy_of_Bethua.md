@@ -69,7 +69,7 @@ data:
       Treasuress: Keeper of the realm's revenue and of the correspondent accounts the trade-houses maintain.
       Ambassadress: Envoy to a foreign court, appointed by the Mêtríssa and instructed by the Council.
       Archivist: Keeper of the genealogies, on which every House's claim to standing rests.
-      Harbour-Mistress: Warden of a port, collecting its dues and licensing the privateers that sail from it.
+      Harbor-Mistress: Warden of a port, collecting its dues and licensing the privateers that sail from it.
   seat: bethura
   population: 3000000
   economy: [lore-aukhlthcrncy, affiliation-bthntrdhss, affiliation-garhalzi]

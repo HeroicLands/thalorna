@@ -1134,7 +1134,7 @@ attested stands, in exactly this form, in the note linked.
 | `thakív`      | `adj` | weighty                                    | `th-k-v`           | adjective  | —                                              |
 | `thukáv`      | `v`   | to weigh                                   | `th-k-v`           | deed       | —                                              |
 | `huthakav`    | `n`   | a weighing-house                           | `th-k-v`           | place      | —                                              |
-| `vasg`        | `n`   | a judgement                                | `v-s-g`            | bare       | —                                              |
+| `vasg`        | `n`   | a judgment                                 | `v-s-g`            | bare       | —                                              |
 | `vasgir`      | `n`   | a judge                                    | `v-s-g`            | worker     | —                                              |
 | `vuság`       | `v`   | to judge                                   | `v-s-g`            | deed       | —                                              |
 | `havaz`       | `n`   | a debt                                     | `h-v-z`            | bare       | —                                              |

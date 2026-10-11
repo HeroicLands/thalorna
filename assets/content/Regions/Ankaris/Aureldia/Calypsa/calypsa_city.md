@@ -20,7 +20,7 @@ Three landmarks anchor the waterfront. The Old Mole is the original stone harbor
 
 ## Who Governs
 
-The Captains' Council governs: the heads of the seafaring houses, with seats weighted by the tonnage each house commands. It elects a Harbourmaster for a single three-year term, and he may not serve again immediately. The Harbourmaster answers for the harbor, the fortifications, the customs revenue and the standing navy, so a visitor who arrives with cargo meets his office first. Family fortunes rise and fall with fleets: a family that loses three ships in a season may be elbowed from the Council within the year, and one that opens a new route may enter it. Guilds of shipwrights, chandlers, ropemakers and pilots run their own affairs under charters from the Council.
+The Captains' Council governs: the heads of the seafaring houses, with seats weighted by the tonnage each house commands. It elects a Harbormaster for a single three-year term, and he may not serve again immediately. The Harbormaster answers for the harbor, the fortifications, the customs revenue and the standing navy, so a visitor who arrives with cargo meets his office first. Family fortunes rise and fall with fleets: a family that loses three ships in a season may be elbowed from the Council within the year, and one that opens a new route may enter it. Guilds of shipwrights, chandlers, ropemakers and pilots run their own affairs under charters from the Council.
 
 ## Making a Living
 

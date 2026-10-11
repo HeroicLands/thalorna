@@ -81,7 +81,7 @@ The result is a costly frontier without the returns other frontiers offer. No ca
 
 ## Relations with Neighboring Regions
 
-The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vrystwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests.
+The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the western Vrystwald reaches. Nordmal accounts remember Grukar raids and punitive expeditions, but no Nordmal kingdom draws a line around the Grukar nests. The worst raid in their memory was one tribe and not a league: from 604 to 614 a tribe whose Sha had watched Targud's frontier for seasons spawned for war, burned the kingdom's east and then spent itself in its own quarrels ([[lore-burningeast|The Burning of the East]]).
 
 [[place-vrystwald|Vrystwald]] curls around this area on its way east. The stretch called [[place-skathwald|Skathwald]] is where Grukar nests become more prevalent within Varokh forest, with no border to cross. Grukar-Varokh relations are uniformly hostile. Villages there endure repeated small incursions rather than a war with a single front, and a person taken cannot be recovered through ransom.
 

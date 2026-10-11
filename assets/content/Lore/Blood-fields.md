@@ -95,10 +95,11 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 ## The Names
 
-| People    | Word           | What it means                                                        |
-| --------- | -------------- | -------------------------------------------------------------------- |
-| Provènzia | blood-field    | The Provenzian word, which these pages use for every people's fields |
-| Vedyara   | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"        |
+| People        | Word           | What it means                                                                                              |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------- |
+| Provènzia     | blood-field    | The Provenzian word, which these pages use for every people's fields                                       |
+| Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"                                              |
+| The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on |
 
 ## Vedyara: the Shorukshetra
 
@@ -126,24 +127,37 @@ The Tellumi hold the same from the other side. A Tellumi dead is received by a M
 
 **How the steppe lives beside one.** Tribes mark nothing and wall nothing. The road bends, a rider turns a string off by force, a lamp is left at the edge on the anniversary, and the guides who would sell anything else will not sell a path across. The Tellumi paint stakes and shut gates.
 
+## The Nordlands: the Vrellvöll
+
+In the [[place-nrdlndsrgn|Nordlands]] a death is not finished until the grave-ale is drunk. The pyre, the ship or the howe takes the body, and the ale, drunk by the kin with the reckoning spoken over it, says who the dead man was, what he was owed and what he owed, and sends him on received. The dead who never got their grave-ale ride with the Jól-Ride, abroad on the worst nights of midwinter, and never leave. A _vrellvöll_ (blood-field) is ground where hundreds were denied it at once, and the halls hold that the ride never leaves such ground at all. The word is heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on, the word Vígvöll closes on.
+
+**What ends one.** The remedy is the one the north uses for every claim. The grave-ale owed is drunk at last, with the reckoning spoken, and where the dead cannot be reckoned a door-court hears witness and rules them laid, as the Sworn Hand did for the nine at Flarnbrekka. Both cost something, because the reckoning names who owes, and the north keeps a debt for generations. [[place-domsey|Dómsey]] has never been settled for exactly that reason: the ale would say which crown's hird struck first in 287, and no king will be the one who says it. **A hallowing quiets a field for a set time.** The Landsgodi's walking of the stones closes Dómsey for the days of a sitting and lifting the peace opens it, and the island is the north's proof that a rite can hold a field shut without ending it.
+
+**How the halls live beside one.** Nobody lives on Dómsey and nobody may; neither shore of [[place-skalfvatn|Skalfvatn]] fishes its anniversary month, and children learn the marching beat under the ice as the sound to run from; Targud's watch crosses [[place-dvulgvangr|Dvulgvangr]] by noon or not at all. Nobody keeps any of them by office. The Landsgodi pours one cup at the law-rock "for the ones the count left out", the Malagnan kin keep eleven hundred named stones and one blank one above the lake, and the fort-captains of Targud keep their musters off the ford after dusk.
+
+Three fields in the north, one to each great war, and a fourth that northern hands made abroad. Dómsey, where the five kings' hirds killed each other on the strand in 287 and the ale was never drunk, a silence, thin, and held shut only at the sittings; Skalfvatn, where Malagna's king and eleven hundred men went through the ice in 466, a recurrence; and Dvulgvangr, where Targud's hird and its farmers held a ford against a Grukar horde for three days in 613 and were carried off, a dread. The [[place-bldfldyharvalen|Blood-field of Yhârvalen]] in Provènzia was made by the Nordheim fleets of about 520, and it is Provènzia's. Haulonna, Askholm and Ísdal are a sorcery on an enclave, a burning and a sickness, and the north calls none of them a _vrellvöll_.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                | People whose ground it is | Battle                                                | Made    | Kind       | Thin            |
-| ------------------------------------ | ------------------------- | ----------------------------------------------------- | ------- | ---------- | --------------- |
-| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                | ~300 BF | silence    | moderate        |
-| [[place-jilaq\|Jilaq]]               | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                | ~190 BF | recurrence | thin            |
-| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]         | ~270 AF | recurrence | slight          |
-| [[place-wemaq\|Wemaq]]               | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]] | ~312 AF | quickening | moderate        |
-| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]             | 315 AF  | dread      | thin            |
-| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                                    | ~520 AF | withering  | thin, worked on |
-| [[place-qimod\|Qìmod]]               | The Khazryn steppe        | the sack of the spur town                             | ~548 AF | silence    | thin            |
-| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~620 AF | recurrence | moderate        |
-| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
-| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                                     | —       | recurrence | —               |
-| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                                     | —       | quickening | —               |
-| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                                     | —       | silence    | —               |
+| Field                                | People whose ground it is | Battle                                                | Made    | Kind       | Thin                          |
+| ------------------------------------ | ------------------------- | ----------------------------------------------------- | ------- | ---------- | ----------------------------- |
+| [[place-oluratarna\|Olūratarana]]    | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                | ~300 BF | silence    | moderate                      |
+| [[place-jilaq\|Jilaq]]               | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                | ~190 BF | recurrence | thin                          |
+| [[place-gajasthali\|Gajasthalī]]     | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]         | ~270 AF | recurrence | slight                        |
+| [[place-domsey\|Dómsey]]             | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]    | 287 AF  | silence    | thin, quieted at each sitting |
+| [[place-wemaq\|Wemaq]]               | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]] | ~312 AF | quickening | moderate                      |
+| [[place-lanthusthli\|Lanthusthalī]]  | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]             | 315 AF  | dread      | thin                          |
+| [[place-skalfvatn\|Skalfvatn]]       | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                    | 466 AF  | recurrence | moderate                      |
+| [[place-bldfldyharvalen\|Yhârvalen]] | Provènzia                 | the Nordheim raids                                    | ~520 AF | withering  | thin, worked on               |
+| [[place-qimod\|Qìmod]]               | The Khazryn steppe        | the sack of the spur town                             | ~548 AF | silence    | thin                          |
+| [[place-dvulgvangr\|Dvulgvangr]]     | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]         | 613 AF  | dread      | thin                          |
+| [[place-henhulpedin\|Henhulpedin]]   | Tellumel                  | the Breaking                                          | ~620 AF | recurrence | moderate                      |
+| [[place-bldfldtiravlen\|Tiravlen]]   | Provènzia                 | —                                                     | —       | recurrence | —                             |
+| [[place-bldfldserravel\|Serravel]]   | Provènzia                 | —                                                     | —       | recurrence | —                             |
+| [[place-bldfldkyvarel\|Kývarel]]     | Provènzia                 | —                                                     | —       | quickening | —                             |
+| [[place-bldfldcalvenza\|Calvènza]]   | Provènzia                 | —                                                     | —       | silence    | —                             |
 
 ## See Also
 

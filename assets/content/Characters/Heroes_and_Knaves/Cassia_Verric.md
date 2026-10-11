@@ -4,7 +4,7 @@ name:
   full: Cassia Verric
   given: Cassia
   clan: Verric
-  aliases: [The Harbour Factor, The Empire's Hand on the Southern Shore]
+  aliases: [The Harbor Factor, The Empire's Hand on the Southern Shore]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, administration]

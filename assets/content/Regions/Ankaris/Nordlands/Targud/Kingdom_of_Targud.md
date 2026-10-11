@@ -70,7 +70,7 @@ data:
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
+      Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: tvalgard
   population: 300000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -98,7 +98,20 @@ Targud is a monarchy with a ting, as its sister kingdoms are, and its king holds
 
 Under the king, a _jarl_ holds a province by his grant, a _hersvald_ answers for a district by its consent, and a _bóndi_ holds his odal land by inheritance. A bóndi of Targud owes something the other kingdoms' farmers do not: the rotating fort-duty the frontier lays on every free farmer in his turn.
 
-The forts are the kingdom's whole system of defense. A network of frontier forts is manned by warriors who serve rotating duty, and the rotation is mustered through Tvalgard. Every able-bodied person in the kingdom therefore has combat experience, and nobody in Targud reaches middle age without having stood the wall at least once. A farmer walks in, stands his weeks, and goes home to land his neighbors have minded.
+The forts are the kingdom's whole system of defense, and they have been since 613, when the Grukar horde reached the old royal hall at [[place-nulthgard|Nulthgard]] and the king who fell back to Tvalgard ordered every bóndi onto the wall in turn ([[lore-burningeast|The Burning of the East]]). A network of frontier forts is manned by warriors who serve rotating duty, and the rotation is mustered through Tvalgard. Every able-bodied person in the kingdom therefore has combat experience, and nobody in Targud reaches middle age without having stood the wall at least once. A farmer walks in, stands his weeks, and goes home to land his neighbors have minded.
+
+## The Royal Line
+
+Targud's kings come from the **Driskarukh**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
+
+- **Skruldmýl I**, about 528 to 556, raised the first eastern watchtowers.
+- **Skruldmýl II**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
+- **Braldmýl I**, about 630 to 658, raised **Draskborg** and the beacon line on the burned ground.
+- **Skruldmýl III**, about 686 to 700.
+- **Thraldvir**, about 700 to 707, whose reign was the shortest in the line.
+- **Braldmýl II**, king since 707.
+
+Three kings in a generation is a hard run for a kingdom with three seats on Dómsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmýl II takes advice from his jester and denies it in public.
 
 ## The Frontier and the People
 

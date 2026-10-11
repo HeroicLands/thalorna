@@ -61,7 +61,7 @@ data:
       Hirdstjóri: Marshal of the High Jarl's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, its tolls and its disputes.
+      Harbor-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.
       Host-Caller: Bearer of the war-arrow that summons the jarldoms to a common muster.
   seat: stormveil
@@ -121,7 +121,7 @@ This is also why the **Synod**'s compulsory call at [[place-ravenmoor|Ravenmoor]
 
 ## Commerce and Currency
 
-The Jarldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through [[affiliation-clgmrgntrrm|The Collegium Argentariorum]]-member moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Stormveld is a post-imperial commonwealth member: it participates fully in the trade and banking infrastructure of the Vylarian system but is not subject to imperial governance or imperial taxation. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+The Jarldom strikes no coin, and where a deal is made in money it is made in the same [[lore-vylrncrncy|Vylarian]] aurion, argo and bit the five kingdoms use, because the jarls brought their purses and their habits across the water together. A hall's real wealth is counted the northern way, in cattle, hulls, thralls and the running obligations of [[lore-kinhalcrdt|hall credit]], and a Nordheim kinsman settling a debt at Stormveil is as likely to be paid in barley as in silver. The one difference from home is the island itself: the moneylenders of the southern Aelwythan realms are chartered under the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], so a jarl selling a season's grain south can take Vylarian paper for it when the sum is too large to carry, and turn it into coin before it goes north, where no hall honors it.
 
 ## See Also
 

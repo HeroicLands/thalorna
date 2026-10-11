@@ -36,7 +36,7 @@ data:
       First Magister: The order's chair, chosen by conclave of the Magisters for a fifteen-year term.
       Magister of the Order: >-
         Leader of a chapter house, presiding over its affairs and representing it before the Council of the Seal.
-      Councillor of the Seal: >-
+      Councilor of the Seal: >-
         One of the twelve Senior Brothers, drawn from the five kingdoms, who sit on the Council of the Seal and meet quarterly at Ólvestria.
   seat: null
   population: null

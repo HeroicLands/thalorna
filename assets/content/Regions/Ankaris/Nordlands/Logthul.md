@@ -16,7 +16,7 @@ The town's most famous day is the trial in the saga of [[being-knlthnlwgvr|Knalt
 
 ## The Court Today
 
-The Court grants standing to judges who ride far beyond the town. [[being-vrldrvonhnd|Vraldorv One-Hand]] holds permanent standing there as an itinerant judge, with authority across clan boundaries, and a ruling he gives in a hall many days away carries the court's weight with it.
+The Court grants standing to judges who ride far beyond the town, and it traces the custom to a song: the Heroes of Asguard give [[being-vrldrvonhnd|Vraldorv One-Hand]] permanent standing there in the Age of Halls, as an itinerant judge with authority across clan boundaries. A judge who holds that standing now rides on the same terms, and a ruling he gives in a hall many days away carries the court's weight with it.
 
 ## The Name
 
@@ -25,5 +25,5 @@ The name is a plain statement of what the town is for: _lög-_ is the law as it 
 ## See Also
 
 - [[being-knlthnlwgvr|Knalthann Lawgiver]]—the judge of the great trial
-- [[being-vrldrvonhnd|Vraldorv One-Hand]]—an itinerant judge with standing at the court
+- [[being-vrldrvonhnd|Vraldorv One-Hand]]—the itinerant judge the songs give standing at the court
 - [[affiliation-eidgar|Faith of Eidgar]]—the faith of law and sworn oaths

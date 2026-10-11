@@ -70,7 +70,7 @@ data:
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
+      Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: asgarthul
   population: 400000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -99,6 +99,10 @@ Norgaad is a hereditary monarchy with a ting tradition, and its ting is the stro
 Of the king's household, the _Lawspeaker_ matters most here. He keeps the law in memory and recites it at the assembly, and in Norgaad his is the voice that can call the Great Moot at Asgarthul when a kingdom wants a meeting between the septennial sittings of the **King of All Clans** on [[place-domsey|Dómsey]]. On Dómsey, Norgaad's king takes one seat and its jarls five, and the kingdom holds that five seats undercount a realm of four hundred thousand.
 
 The crown carries one open question of right. A king's brother led an expedition up the road from [[place-tvarnmark|Tvarnmark]] toward the [[place-shtrdpks|Shattered Peaks]] thirty-two years ago, seeking mithral, and he and most of his forty companions never came back; the loss sustains a claim that the brother's line had the better right to the crown. The account is in [[lore-nrgadhstry|Histories and Legends of Norgaad]].
+
+## The Royal Line
+
+Norgaad's kings come from the **Tvurnidrokh**, the royal clan at Asgarthul. Its most honored king is **Snirvthann**, about 462 to 490, who called Nordheim and Malagna to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the peace from which the Great Moot comes; the same peace refused him the two more seats on Dómsey that Norgaad has asked for ever since ([[lore-nordkinwars|The Kin-Wars]]). The present king is **Ilthmýl**, acclaimed about 684 over his elder brother **Ilthorv**, the king's brother who was lost on the Saddle in 688. Ilthorv's line keeps the claim that the ting chose wrongly, and Ilthmýl has sons of his own.
 
 ## The People and the Old Ways
 

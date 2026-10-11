@@ -30,7 +30,8 @@ only quiet. That has ended.
 ## The Henge
 
 Yhârvalen is unusual in that the killing was not the whole of the injury. The Nordheim raids that swept
-through northern Provènzia some two hundred years ago **threw down the henge** as well as the men, and
+through northern Provènzia some two hundred years ago, the [[lore-southrnfleets|Southern Fleets]] of the north's
+own telling, **threw down the henge** as well as the men, and
 the standing opinion among those who study such things is that a blood-field made on the ruins of a
 sacred circle is a different and worse proposition than one made in an open field—that the boundary
 there was already answerable to the stones, and that breaking both at once left nothing to hold it.

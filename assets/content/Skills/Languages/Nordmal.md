@@ -159,7 +159,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 
 **Interior Highland:** Spoken in mountainous regions inland, preserves more archaic features, particularly in the case system and strong verb forms.
 
-**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in western Aelwyth, incorporating some Élavendri vocabulary and showing phonetic simplification due to bilingual contact.
+**Frontier Speech (Aelwyth Nordmal):** A mixed variety spoken in north-eastern Aelwyth, where the Nordmen of Stormveld hold land, incorporating some Élavendri vocabulary and showing phonetic simplification due to bilingual contact.
 
 ## Sample Phrases
 
@@ -243,6 +243,7 @@ The tongue speaks of the dead plainly and of death slant. A grave is a grave, an
 | `dulm`      | a grave       | a root of its own                                                    |
 | `eldsdulm`  | a pyre        | `eld-`, fire, and `-dulm`, with a genitive `-s`: the fire's grave    |
 | `skipsdulm` | a ship-burial | `skip-`, a ship, and `-dulm`, with a genitive `-s`: the ship's grave |
+| `vrellvöll` | a blood-field | `vrell-`, blood, and `-völl`, the field a battle is fought on        |
 
 ### The making of the world
 
@@ -652,7 +653,7 @@ An office is an element and one of the office suffixes, and the suffix says what
 
 A byname is earned and is **rendered in the reader's tongue**, exactly as a saga translation renders Fairhair and Bloodaxe: the north says it in Nordmal and the page says it in the reader's own words. Stormborn, Oakheart, Fire-Tongue and the Crow are therefore not Nordmal words, are held to none of the rules above, and the Nordmal behind one is not written down. Position tells a byname from a clan name: a clan name stands second in a pair of Nordmal words, a byname stands second in the reader's own.
 
-A handful of titles and folk words reach the page the same way, and the list is closed: King, Queen, Lawspeaker, Freedman, Harbour-reeve, huscarl, wergild, Asguardian, Helspawn, the Ring-Sisters, the Sworn Hand, the Green Wardens, the Giant's Children, the Bonebreakers, the Jól-Ride, the Shattered Peaks.
+A handful of titles and folk words reach the page the same way, and the list is closed: King, Queen, Lawspeaker, Freedman, Harbor-reeve, huscarl, wergild, Asguardian, Helspawn, the Ring-Sisters, the Sworn Hand, the Green Wardens, the Giant's Children, the Bonebreakers, the Jól-Ride, the Shattered Peaks.
 
 ### Earned clan names
 

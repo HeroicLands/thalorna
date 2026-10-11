@@ -22,7 +22,7 @@ Targud is the land of the [[affiliation-kingdmtrgd|Kingdom of Targud]], the east
 
 ## Character
 
-The kingdom's eastern border is a contested no-man's-land of burned farmsteads, abandoned watchtowers and forests where neither Nordmen nor Grukar can safely travel alone. West of it, the forts that hold the line pass their duty from one district to the next, and the people behind them are hunters, trappers and fur-traders. [[place-tvalgard|Tvalgard]], the seat, stands on the last defensible ridge before the burned ground.
+The kingdom's eastern border is a contested no-man's-land of burned farmsteads, abandoned watchtowers and forests where neither Nordmen nor Grukar can safely travel alone. West of it, the forts that hold the line pass their duty from one district to the next, by the order King **Skruldmýl II** gave in 613 after his hird died holding a ford for the farms behind it ([[lore-burningeast|The Burning of the East]]), and the people behind them are hunters, trappers and fur-traders. [[place-tvalgard|Tvalgard]], the seat, stands on the last defensible ridge before the burned ground.
 
 ## See Also
 

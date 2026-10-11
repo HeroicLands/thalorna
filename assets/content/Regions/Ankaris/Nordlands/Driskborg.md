@@ -14,7 +14,7 @@ Everyone who reaches Driskborg has lost something on the road. The fortress stan
 
 A fortress full of refugees is worth exactly what its walls are worth on the day an enemy comes up the slope. Driskborg's danger is a siege by a host far larger than anything its garrison can meet in the field. Holding it means organizing a defense out of whatever the refugees can carry, and keeping the walls manned long enough for reinforcements to arrive, if they come at all.
 
-[[being-krldthnshldbr|Krildthann Shieldbearer]] is the kind of defender the fortress needs on such a day, one whose reputation is built on protecting the people who cannot protect themselves. A GM who brings the siege of Driskborg into play has a ready reason to put him on its walls.
+The fortress sings of the day it needed such a defender and had one. The songs of the Heroes of Asguard put [[being-krldthnshldbr|Krildthann Shieldbearer]] on its walls in the Age of Halls, a man whose reputation was built on protecting the people who cannot protect themselves, and the gate-wardens still open the gate in his name. A defender who means to hold Driskborg now holds it with refugees who know that song by heart.
 
 ## The Name
 
@@ -22,5 +22,5 @@ The name is what a refugee looks for on the road at night: _drisk-_ is a light k
 
 ## See Also
 
-- [[being-krldthnshldbr|Krildthann Shieldbearer]]—a defender suited to the siege
+- [[being-krldthnshldbr|Krildthann Shieldbearer]]—the defender the songs put on its walls
 - [[place-nrdlndsrgn|Nordlands]]—the region the fortress stands in

@@ -31,7 +31,7 @@ data:
         description: >-
           Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
       - level: 5
-        title: Councillor
+        title: Councilor
         description: >-
           Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
       - level: 6
@@ -51,7 +51,7 @@ data:
         Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
       Strategos: >-
         Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councillor: Member of the council that prepares business for the assembly, allotted for a single year.
+      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
       Agoranomos: Warden of the market—its weights, its coin, its quality and its disputes.

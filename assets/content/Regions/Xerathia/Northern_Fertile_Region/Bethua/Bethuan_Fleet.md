@@ -48,7 +48,7 @@ data:
       Sailing-Master: Navigator and handler of a hull, answerable for her passage.
       Master of Ordnance: Keeper of a ship's engines, shot and fire.
       Bosun: Master of the working of the ship and of her people at their stations.
-      Harbour-Mistress: Warden of a naval haven, its stores, its slipways and its dues.
+      Harbor-Mistress: Warden of a naval haven, its stores, its slipways and its dues.
       Prize-Court Assessor: >-
         Judge of what a privateer took and whether the taking was lawful under the warrant.
   seat: null

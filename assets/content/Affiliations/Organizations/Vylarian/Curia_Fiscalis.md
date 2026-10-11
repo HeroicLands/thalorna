@@ -28,7 +28,7 @@ data:
         description: >-
           Provincial officer, one to each of the four Vylarian provinces and four to the principal Heliónite city-states. Administers the Curia's operations in his territory, prepares the annual revenue estimates, manages the contract awards and supervises the Censores under him.
       - level: 4
-        title: Councillor
+        title: Councilor
         description: >-
           Of the sixteen seats of the Council of the Fiscal Court, drawn from the senior Argentean and Aurelian estates by imperial appointment for ten-year terms, renewable once. Sets the imperial rates, approves contract terms and hears appeals against a Procurar's decisions.
       - level: 5

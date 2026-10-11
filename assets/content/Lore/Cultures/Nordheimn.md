@@ -103,7 +103,7 @@ Before a raiding season, sworn fighters may become oath-friends by passing benea
 
 Settlers making a land-taking carry posts from their former hall, set them where the draft animals stop, and walk the claimed bounds with fire before the next sunset. A woman may lead a heifer around land she means to hold. The walk gives witnesses a boundary to remember; it does not silence another household's earlier claim. On the Vrystwald frontier, walking fire around a grove claimed by a Varokhi clan brings two accounts of rightful land before people who may not recognize the same witnesses.
 
-At [[lore-vetrnaetr|Vetrnaetr]] the hall's _búvördr_ seats its honored old by the door and serves them first. Tellers connect the door-seat to the **Three Winters** and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath; the custom itself is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
+At [[lore-vetrnaetr|Vetrnaetr]] the hall's _búvördr_ seats its honored old by the door and serves them first. Tellers connect the door-seat to the [[lore-threewinters|Three Winters]] of 512 to 514 and the kin-fell: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath; the custom itself is plain to every guest. A hall unable to provision its elders must seek help from other kin and halls; the obligation may enter hall credit and diminish a house that leaves it unpaid.
 
 ## The Reckoning after Death
 

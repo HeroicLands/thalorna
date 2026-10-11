@@ -61,7 +61,7 @@ The Málalidabandalag, the "Pay-Troop Compact" in the north's own speech, is the
 
 ## Why the Compact Exists
 
-The Nordlands have always produced more warriors than their kingdoms can use. Younger sons, dispossessed jarls, oath-broken huscarls and drengr without a hall take ship and hire out their swords, and they have done so for centuries. The Compact grew up around that trade. It is the agreement under which the free companies, the _frjálsalid_, operate.
+The Nordlands have always produced more warriors than their kingdoms can use. Younger sons, dispossessed jarls, oath-broken huscarls and drengr without a hall take ship and hire out their swords, and they have done so for centuries. The Compact grew up around that trade, and [[lore-compactsignd|The Signing of the Compact]] tells how. It is the agreement under which the free companies, the _frjálsalid_, operate.
 
 A captain who signs it swears four things: his company accepts the Compact's rulings on contract disputes, it will not break sworn terms with an employer, it will not take a contract against another signed company without notice, and it will pay the Compact's annual due in silver or, in lean years, in shields and oarsmen for the Hall's own defense.
 
@@ -77,9 +77,9 @@ The Compact confers three standings:
 - A warrior of his company holds the lesser standing of Sworn of a Signed Company. He is testified by his captain's oath rather than sworn to the Compact directly, and he is bound by whatever his captain swore on the company's behalf.
 - A captain who breaks the Compact's rules is Discharged in Disgrace by Council vote. His ring is surrendered, his company's contracts are dishonored, and its old debts pass to rivals the Compact will not restrain.
 
-Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the Vithgard succession wars, widely respected and very much feared.
+Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is **Hrindvir Vetreldr**, a one-eyed veteran of the [[lore-vthgrdsccwrs|Vithgard succession wars]], widely respected and very much feared.
 
-Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the **Stormhand Brotherhood**, six hundred swords, disbanded a generation ago after a disastrous campaign in [[place-vrystwald|Vrystwald]]. People still tell its story as a caution.
+Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the **Stormhand Brotherhood**, six hundred swords, broken about 692 in western [[place-vrystwald|Vrystwald]], a week's march over the frontier, on a Nordheim jarl's contract. People still tell its story as a caution.
 
 Not every company signs. Some bands are small, regional or notorious; they never apply, or the Compact refuses them. An unsigned company is not illegal, but it works without the Compact's protection or testimony, and an employer who hires one has chosen a worse warranty and knows the price of it.
 

@@ -5,15 +5,51 @@ type: lore
 subType: history
 description: "Malagna's remembered wergild feud and the stories told of its guarded crown and unsettled dead."
 tags: []
-data: {packFolder: malagna}
+data:
+  packFolder: malagna
+  events:
+    - id: wergild
+      when: ~645
+      kind: treaty
+      depth: region
+      stated: {calendar: domseycount, text: "359 BG"}
+      sources: [lore-mlgnahstry, affiliation-grimvar, affiliation-hrafnvar, place-malstead]
+      summary: >-
+        A Hrafnvar shipwright kills a Grímvar boy in a shipyard quarrel at Gnarthborg. The Grímvar refuse the wergild and take a life, the Hrafnvar take two, and a priest of Fródvin brings both jarls to mark a split oath-stave between Braldheim and Málstead; the Grímvar jarl's brother burns his clan's half before the priest.
+      standing: disputed
+      names: [{name: the Málstead wergild, by: affiliation-kingdomlgn}]
+      where:
+        locus: [place-malstead]
+        reach:
+          - place: place-gnarthborg
+            how: the kingdom's two great clans count the dead differently in each hall, and the crown will not choose between them
+            knowledge: named
+      who: [{ref: affiliation-grimvar, role: actor}, {ref: affiliation-hrafnvar, role: actor}]
+      accounts:
+        - by: affiliation-hrafnvar
+          says: >-
+            The Hrafnvar hold their half of the stave, and the settlement stands.
+          agrees: partly
+        - by: affiliation-grimvar
+          says: >-
+            The burned half leaves no binding bargain, and the dead are still owed.
+          agrees: partly
+      unresolved:
+        - whether a settlement whose stave one side burned binds both clans, which King Gnaldrorv would not decide
 ---
 
 Malagna's two great clans remember the same broken settlement differently. Their stories about
 things beneath the howes and beyond death are less certain, but they shape what people dare to touch.
 
+## The Kingdom's Past
+
+The **Hlurthidrokh** have held Malagna's crown at [[place-gnarthborg|Gnarthborg]] since the acclamations, and they reckon themselves from **Hlurthann I** and not from the king before him, because that king lies under a lake. **Gnirthorv** led the Malagnan host across the frozen [[place-skalfvatn|Skalfvatn]] in 466 to take Nordheim from behind and went through the ice with eleven hundred men; his arm-ring is still down there, and the peace made at Asgarthul five years later ended the [[lore-nordkinwars|Kin-Wars]]. His son Hlurthann I, king from about 480 to 523, turned the kingdom from the contested north to the western trade, and Gnarthborg's yards built the hulls that carried [[lore-southrnfleets|the Southern Fleets]] south.
+
+**Hlurthann II**, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Calypsa]], and his son **Gnaldrorv**, about 632 to 662, would not choose between the Grímvar and the Hrafnvar when the wergild below split them. [[being-knghlrthni|King Hlurthann III]], acclaimed about 686, is aging and has no acclaimed heir, and the two clans Gnaldrorv would not judge between are each waiting to name one.
+
 ## The Málstead Wergild
 
-Three generations ago, a [[affiliation-hrafnvar|Hrafnvar]] shipwright killed a [[affiliation-grimvar|Grímvar]] boy in a shipyard quarrel at [[place-gnarthborg|Gnarthborg]].
+About 645, in the reign of King Gnaldrorv, a [[affiliation-hrafnvar|Hrafnvar]] shipwright killed a [[affiliation-grimvar|Grímvar]] boy in a shipyard quarrel at [[place-gnarthborg|Gnarthborg]].
 The Hrafnvar offered wergild. The Grímvar refused it and took a life; the Hrafnvar answered with two.
 A priest of [[affiliation-frodvin|Fródvin]] walked between [[place-braldheim|Braldheim]] and [[place-malstead|Málstead]] to seek peace. Both
 jarls marked a split oath-stave. The Grímvar jarl's brother then burned his clan's half before the
@@ -45,3 +81,5 @@ song, and the woman's grief does not make the returned man an ordinary living hu
 
 - [[affiliation-kingdomlgn|Kingdom of Malagna]] · [[place-malagna|Malagna]]
 - [[affiliation-grimvar|Grímvar]] · [[affiliation-hrafnvar|Hrafnvar]]
+- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-nordkinwars|The Kin-Wars]] · [[place-skalfvatn|Skalfvatn]]—the king under the ice

@@ -12,9 +12,9 @@ At Flurnheim's harvest feasts the farmers sing the verses of [[lore-odvardty|Ód
 
 ## The Blight and the Rune
 
-A terrible blight beset Flurnheim, one no healer could cure, and the people turned to Rilthorv. The saga tells that, guided by Ódvar, he spent three days and nights in a trance seeking the root of the curse. He came out of it on the third night with a single rune cut into a piece of bark. He went to the heart of Flurnheim, sang the old verses of Ódvar and pressed the rune into the earth, and the blight lifted.
+In the Age of Halls, the songs say, a terrible blight beset Flurnheim, one no healer could cure, and the people turned to Rilthorv. The saga tells that, guided by Ódvar, he spent three days and nights in a trance seeking the root of the curse. He came out of it on the third night with a single rune cut into a piece of bark. He went to the heart of Flurnheim, sang the old verses of Ódvar and pressed the rune into the earth, and the blight lifted.
 
-The people hailed Rilthorv as their savior, and his song entered their harvest rituals. It is still sung at the harvest feasts, generations later, by farmers who have never seen him.
+The people hailed Rilthorv as their savior, and his song entered their harvest rituals. It is still sung at the harvest feasts, centuries later, by farmers who have never seen him.
 
 ## The Name
 

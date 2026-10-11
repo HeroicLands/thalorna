@@ -39,7 +39,7 @@ data:
         title: House Head
         description: Master of a merchant house, its capital and its name, and an elector of the Council.
       - level: 7
-        title: Councillor
+        title: Councilor
         description: Sitting on the Council that governs the city, by weight of the house behind him.
       - level: 8
         title: First of the Council
@@ -47,11 +47,11 @@ data:
     offices:
       First of the Council: >-
         Presiding officer of the governing council, elected by it for a fixed term and holding the city's seal.
-      Councillor: Member of the governing council, seated by the standing of the house he heads.
+      Councilor: Member of the governing council, seated by the standing of the house he heads.
       Chancellor: Keeper of the city's charters, treaties and correspondence.
       Treasurer: >-
         Keeper of the city's revenue—its customs, its tolls, and the loans it raises against them.
-      Harbourmaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
+      Harbormaster: Warden of the port, its pilots, its wharves and the dues levied on every hull that enters.
       Master of the Mint: Keeper of the coin struck in the city's name and of the standard it is struck to.
       Consul Abroad: The city's resident agent in a foreign port, holding its seal for trade disputes there.
       Captain of the Watch: Commander of the city's guard and of the militia its guilds are bound to raise.

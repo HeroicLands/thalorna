@@ -6,7 +6,7 @@ subType: polity
 description: "Vast Nordmen kingdom of the far north, dominated by Asguardian worship and seafaring tradition—realm of harsh winters, fearless raiders, and deep-rooted clan honor."
 data:
   templatePriority: null
-  demonym: Nordem
+  demonym: Nordheimn
   epithet: null
   symbol: null
   governance:
@@ -70,7 +70,7 @@ data:
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
       Landvördr: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjóri: Master of a ship, commanding her crew at sea and answering for her in the levy.
-      Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
+      Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: knalthstead
   population: 650000
   economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt]
@@ -109,6 +109,20 @@ The king's household carries the rest of the work. The _Lawspeaker_ keeps the la
 "Say you want a ruling against a jarl," the landvördr says. "You do not come to me, and you do not go to the king. You bring it to the ting, with your kin standing behind you and a skald who heard the last judgment on the point. If the ting finds for you, the jarl is bound. If he ignores it, he has quarreled with every bóndi in his province, and he knows what that costs."
 
 The standings run from [[lore-nidingrnk|níding]], the outlaw beyond the ting's peace, through [[lore-thrallrnk|thrall]], [[lore-lidmadrrnk|lidmadr]] (a free person who answers through a following rather than a clan), [[lore-bondirnk|bóndi]] and [[lore-hringberirnk|hringberi]] (one given a named seat in a hall), to [[lore-hersvaldrnk|hersvald]], [[lore-jarlrnk|jarl]] and [[lore-konungrnk|king]]. The [[lore-nordheimnclt|Nordheimn]] culture note sets out what each owes and is owed.
+
+## The Royal Line
+
+The crown has stayed in one clan since the acclamations: the **Knalthidrokh**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
+
+- **Svalthorv**, about 270 to 287, the first king acclaimed, killed on the strand of Dómsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Dómsey]]).
+- **Snilthorv**, 287 to 318, his son, who took Dómsey's keeping as his father's wergild and first convened the sittings.
+- **Thrildorv**, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
+- **Bruldmýl**, about 503 to 519, king of the [[lore-threewinters|Three Winters]], who swore the door-seat oath at the sitting of 518.
+- **Thraskmýl**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
+- **Vruthorv**, about 650 to 689, who sent three kingdoms' fleets to Aelwyth ([[lore-stormveldtkn|The Taking of Stormveld]]).
+- **Hvarnorv**, king since 689.
+
+Hvarnorv is old. He has two grown grandsons and has named neither, and the ting at Knalthstead will not be asked to choose between them while he lives. Each grandson has jarls who would sit behind him at the sixty-third sitting, and each knows which seats those are.
 
 ## The People and the Halls
 

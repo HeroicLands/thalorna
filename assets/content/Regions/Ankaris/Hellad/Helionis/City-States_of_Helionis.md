@@ -32,7 +32,7 @@ data:
         description: >-
           Of the citizen body by descent, voting in the assembly and serving in the militia. A citizen is not yet a member of the council.
       - level: 5
-        title: Councillor
+        title: Councilor
         description: >-
           Chosen by lot to the council that prepares the assembly's business, for one year and never twice.
       - level: 6
@@ -52,7 +52,7 @@ data:
         Presiding magistrate for the year, who gives the year his name and surrenders the office at its end.
       Strategos: >-
         Elected commander of the city's forces by land and sea; the one office held by election and without term limit.
-      Councillor: Member of the council that prepares business for the assembly, allotted for a single year.
+      Councilor: Member of the council that prepares business for the assembly, allotted for a single year.
       Treasurer: >-
         Keeper of the city's revenue and of the sacred treasuries, audited publicly at the end of his term.
       Agoranomos: Warden of the market—its weights, its coin, its quality and its disputes.
@@ -104,7 +104,7 @@ Whatever a city calls its constitution, it works through the same forms, and the
 
 Around them stand the offices a stranger is likeliest to meet. The _agoranomos_ is warden of the market: its weights, its coin, its quality and its disputes. The _nomophylax_ guards the laws and may halt a decree of the assembly that contradicts them. The herald speaks for the assembly and for the city abroad, and his person is inviolable even among enemies. An ambassador is elected to treat with another city and answers to the assembly for what he agrees. The _gymnasiarch_ keeps the gymnasium and pays for it from his own purse, which makes the office an honor.
 
-Standing runs in a short ladder. At the bottom is the _atimos_ (the dishonored), stripped of civic honor by the courts and barred from the assembly, the agora and the temples while still living among those who barred him. Above him come the slave, owned outright; the freedman, who works and trades but is barred from the assembly for life; and the metic, a resident foreigner who is taxed and liable to the levy, with no vote and no right to own land. The citizen votes and serves in the militia. Councillor, magistrate, strategos and archon are the rungs a citizen climbs by lot and election.
+Standing runs in a short ladder. At the bottom is the _atimos_ (the dishonored), stripped of civic honor by the courts and barred from the assembly, the agora and the temples while still living among those who barred him. Above him come the slave, owned outright; the freedman, who works and trades but is barred from the assembly for life; and the metic, a resident foreigner who is taxed and liable to the levy, with no vote and no right to own land. The citizen votes and serves in the militia. Councilor, magistrate, strategos and archon are the rungs a citizen climbs by lot and election.
 
 ## War Between Neighbors
 

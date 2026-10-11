@@ -183,7 +183,7 @@ Stress is read off the spelling: the acute or the circumflex carries it, and a n
 A house name states what the house is answerable for, and the suffix says on what footing it holds the name:
 
 - **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrysákit**, _porphyr-_ the purple dye gives **Porphyrákit**, _nomism-_ "coin" gives **Nomismákit**.
-- **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbour" gives **Limeníkot**, _gephyr-_ "bridge" gives **Gephyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
+- **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbor" gives **Limeníkot**, _gephyr-_ "bridge" gives **Gephyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
 - **`-ídek`**, hardened from the mixed `-idês`—**the house of a forebear**. _Theodor-_ gives **Theodorídek**, _Konstant-_ gives **Konstantídek**.
 - **`-zát`**, hardened from the eastern `-zade` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _gohar_ "gem" gives **Goharzát**, _karvan_ "caravan" gives **Karvanzát**.
 

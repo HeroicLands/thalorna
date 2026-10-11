@@ -3,7 +3,7 @@ shortcode: stormveil
 name: {full: Stormveil, aliases: []}
 type: place
 subType: settlement
-description: "The jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
+description: "The High Jarl's seat in Nordmen-held Stormveld—a hall on the height, a harbor facing north, and the thrall quarters below."
 tags: [town, port, coastal]
 data:
   demonym: null
@@ -17,13 +17,13 @@ data:
 **Stormveil** is not a city and does not aspire to be one. It is the seat of the
 [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern coast of Aelwyth, facing the water
 the Nordmen came over sixty years ago and still use, and its six thousand people fall into four
-places: the jarl's hall on the height, the houses of his sworn men about it, the harbor below, and—down
+places: the High Jarl's hall on the height, the houses of his sworn men about it, the harbor below, and—down
 the slope and set apart—the quarters of the thralls who do the work.
 
 ## The Hall and the Harbor
 
 Everything that matters in Stormveld is decided in the hall, and the hall is a Nordmen institution
-conducted in the Nordmen manner: the jarl, his sworn men, the drinking and the giving, disputes settled
+conducted in the Nordmen manner: the High Jarl, his sworn men, the drinking and the giving, disputes settled
 in front of everybody. Aelwythan forms have not been adopted and are not admired.
 
 The harbor is the Jarldom's connection to the [[place-nrdlndsrgn|Nordlands]]—which is to say to the

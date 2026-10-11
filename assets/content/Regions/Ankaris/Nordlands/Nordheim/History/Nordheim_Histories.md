@@ -13,15 +13,23 @@ haunted road can preserve a warning without proving every deed attributed to the
 [[doc-heroessgrd|Heroes of Asguard]] belong to that epic tradition: they may or may not have lived, and their adventures are
 no record of Nordheim's law or institutions.
 
+## The Kingdom's Past
+
+Nordheim counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the **Knalthidrokh** have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. **Svalthorv**, the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Dómsey]] at the first sitting in 287. His son **Snilthorv** took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|The First Sitting on Dómsey]] tells. A quarrel over the succession of the fifth king opened the [[lore-nordkinwars|Kin-Wars]] with Malagna about 420, and two generations later **Thrildorv** held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
+
+**Bruldmýl** was king through the [[lore-threewinters|Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son **Thraskmýl** sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. **Vruthorv** sent the fleets of three kingdoms over the water in 660 and made the [[lore-stormveldtkn|Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
+
+**Hvarnorv**, the present king, has reigned since 689. He is old, he has two grown grandsons and no named heir, and the sixty-third sitting is due at the next Sumarmál, with the land-taking at [[place-hrindstead|Hrindstead]] still unsettled behind him.
+
 ## The Three Winters
 
-About three lifetimes ago, three cruel winters are remembered as one long famine. Nordheim's interior
+In the winters of 512 to 514, three cruel winters ran together into one long famine, and [[lore-threewinters|The Three Winters]] tells the whole of it. Nordheim's interior
 and [[place-vithgard|Vithgard]] both claim the memory. Some tell of old people going over the
 _svelthfell_, the death-fell above [[place-marvstead|Marvstead]], so younger kin might eat. Accounts differ on who went,
 whether anyone was sent, and how much of the cliff story belongs to later telling. No known law
 ordered it.
 
-One version ends with five kings swearing at the **King of All Clans** that no hall should abandon its old
+One version ends with five kings swearing at the **King of All Clans**, the sitting of 518, that no hall should abandon its old
 while another had bread. Whether they made that oath in those words, or whether the tale gives a form
 to a duty older than the famine, remains disputed. The present obligation of kin and clan to feed and
 shelter their own does not depend on proving the oath. Nor does the story establish the origin of
@@ -29,11 +37,11 @@ shelter their own does not depend on proving the oath. Nor does the story establ
 
 ## The Nalthmark Land-Taking
 
-Twelve years ago, Nordheim settlers carried their old hall-posts down the [[place-nalthmark|Nalthmark]] road and planted
+Twelve years ago, in 708, Nordheim settlers carried their old hall-posts down the [[place-nalthmark|Nalthmark]] road and planted
 them at [[place-hrindstead|Hrindstead]] in a grove claimed by the **Eichthúl**, a [[lore-varokhiclt|Varokhi]] clan. They walked bounds with fire and treated the
 rite as a claim witnessed by their gods. The Eichthúl burned the first stockade; the settlers raised
 another on the same posts. The grove's oaks remain a claim the two peoples cannot both satisfy. The
-Nordmen's rite is part of the dispute, not proof that the land was theirs to take.
+Nordmen's rite is part of the dispute, not proof that the land was theirs to take. [[lore-nalthmrktkng|The Nalthmark Land-Taking]] gives Nordheim's account.
 
 ## The Howe-Warden of Thraldfjord
 
@@ -71,3 +79,5 @@ settle whether every misfortune is a dead woman's judgment.
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[place-nordheim|Nordheim]]
 - [[lore-nordheimnclt|Nordheimn culture]] · [[lore-kinhalcrdt|Kin and Hall Credit]]
+- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north
+- [[lore-threewinters|The Three Winters]] · [[lore-nalthmrktkng|The Nalthmark Land-Taking]]

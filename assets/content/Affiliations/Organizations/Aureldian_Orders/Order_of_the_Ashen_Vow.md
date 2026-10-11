@@ -37,7 +37,7 @@ data:
       Voice of the Ash: >-
         The order's chair, chosen by the Council for life and known only to the Elders and a few trusted sponsors; only the Voice releases a brother from the vow, and only for incapacity.
       Cell Commander: An Elder in command of a cell of four to eight Sworn Brothers.
-      Councillor of the Ashen Vow: An Elder sitting in the Council that chooses the Voice of the Ash.
+      Councilor of the Ashen Vow: An Elder sitting in the Council that chooses the Voice of the Ash.
   seat: null
   population: null
   economy: []

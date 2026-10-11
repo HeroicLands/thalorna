@@ -16,7 +16,7 @@ data:
       The governing council of the temple of Gewaâtis, drawn from its senior priests and the captains whose voyages the god protects. It administers the temple's holdings and sanctions the voyages that claim his protection.
     ranks:
       - level: 1
-        title: Councillor
+        title: Councilor
         description: >-
           A senior priest of the temple, or a captain seated beside them.
     offices: {}

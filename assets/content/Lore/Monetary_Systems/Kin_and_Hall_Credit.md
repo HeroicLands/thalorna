@@ -27,7 +27,7 @@ The fundamental principle is consistent across the regions where kin-and-hall cr
 
 ### Nordland Hall-Credit
 
-In the [[place-nrdlndsrgn|Nordlands]] and to a lesser extent in [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]], the principal unit of credit is the **hall**—a noble household centered on a great timber building where the lord (jarl, thegn, or king) lives with his immediate kin and his sworn retainers. The hall's debts are the hall's collective obligations; the hall's credits are owed to the hall's collective benefit.
+In the [[place-nrdlndsrgn|Nordlands]] and to a lesser extent in [[place-vrystwald|Vrystwald]] and [[place-aelwyth|Aelwyth]], the principal unit of credit is the **hall**—a noble household centered on a great timber building where the lord (jarl, hersvald or king) lives with his immediate kin and his sworn retainers. The hall's debts are the hall's collective obligations; the hall's credits are owed to the hall's collective benefit.
 
 A typical transaction: a Nordlands fur-merchant brings his season's furs to a major hall and receives in exchange a season's worth of grain, ale, smoked meat, and worked iron—perhaps not delivered until next harvest, perhaps to be drawn against over the year. The transaction is announced publicly at the hall's evening feast, witnessed by the assembled retainers and any visiting parties, and committed to memory by the hall's [[affiliation-skaldscrcl|skald]] who maintains the hall's standing ledger of obligations in formal verse. The skald's recitation at subsequent feasts keeps the obligation alive; settlement is announced when delivered and the closure recited.
 

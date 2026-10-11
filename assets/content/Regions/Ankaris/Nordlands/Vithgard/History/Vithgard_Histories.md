@@ -5,15 +5,59 @@ type: lore
 subType: history
 description: "The Askholm judgment and empty Ísdal, with Vithgard's winter tales of the fell and the dead."
 tags: []
-data: {packFolder: vithgard}
+data:
+  packFolder: vithgard
+  events:
+    - id: isdal
+      when: 630
+      kind: plague
+      depth: region
+      stated: {calendar: domseycount, text: "344 BG"}
+      sources: [lore-vthgdhstry, place-isdal, place-hrandstead]
+      summary: >-
+        A sickness goes up Ísdal in the winter dark and kills every household but one child. The Hrandstead ting holds the empty farms for the dead on a Sworn Hand's word until their last owner is laid.
+      standing: attested
+      names: [{name: the Emptying of Ísdal, by: affiliation-kngdmvthgrd}]
+      where:
+        locus: [place-isdal]
+        reach:
+          - place: place-hrandstead
+            how: the district's ting holds a dale of empty farms against every descendant who wants them back
+            knowledge: named
+      unresolved:
+        - what the sickness was, which one telling gives the face of a woman with a sieve and a sack
+    - id: askholm
+      when: 679
+      kind: law
+      depth: region
+      stated: {calendar: domseycount, text: "393 SG"}
+      sources: [lore-vthgdhstry, place-askholm, place-dvarnvik, lore-swornhandrnk]
+      summary: >-
+        After a winter of failed whaling a ting at Dvarnvík accuses eleven people of working the winds and burns them on the skerry of Askholm. A Sworn Hand rules that foretelling alone is no working against a named person, and the ruling stands as precedent.
+      standing: attested
+      names: [{name: the Burning at Askholm, by: affiliation-kngdmvthgrd}]
+      where:
+        locus: [place-askholm]
+        reach:
+          - place: place-dvarnvik
+            how: some plateau clans will not come to the town, and the descendants of the burned keep their own accounts of who spoke against whom
+            knowledge: named
+      unresolved:
+        - who spoke against whom at the ting, which the descendants of the accused and of the accusers tell differently
 ---
 
 Vithgard keeps long winter memories in its courts and in the work of its seers. A ruling can outlive
 the witnesses who first heard it; a tale can change while the place it names remains.
 
+## The Kingdom's Past
+
+Vithgard's crown has been with the **Thalmidrokh** at [[place-thrunborg|Thrúnborg]] since the acclamations, and its law has been kept at [[place-logstead|Lögstead]] since the [[affiliation-eidhond|Order of the Sworn Hand]] raised its mother-hall there about 330. The kingdom's hunger was as old as its kings: the [[lore-threewinters|Three Winters]] of 512 to 514 fell on Vithgard as hard as on Nordheim, and the kin-fell story is told in both. Its long dark gave it the two judgments below, the emptying of Ísdal in 630 and the burning at Askholm in 679, both in the memory of men whose grandfathers saw them.
+
+King **Tvarnthann** died in the winter dark of 694 with two sons by two wives and no heir acclaimed, and the levies fought seven summers until a Sworn Hand brought the brothers to Lögstead in 701; [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] tells it. **Snirvmýl** is king at Thrúnborg, **Glirvorv** holds Hrandstead for his life, and the kingdom is quiet in the way a hall is quiet before a funeral.
+
 ## The Burning at Askholm
 
-Forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
+In 679, forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
 of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. **Völva Aldrhildr** was accused but not tried. A
 [[lore-swornhandrnk|Sworn Hand]] ruled that foretelling alone was no working against a named person.
@@ -25,7 +69,7 @@ vindicate the burning of those who were tried.
 
 ## The Emptying of Ísdal
 
-Ninety years ago, sickness went up [[place-isdal|Ísdal]] in the polar dark. One child survived, remembered as the
+In 630, ninety years ago, sickness went up [[place-isdal|Ísdal]] in the polar dark. One child survived, remembered as the
 **Loft-Girl**. The [[place-hrandstead|Hrandstead]] ting held the empty farms for the dead on a Sworn Hand's word until their
 last owner was laid. The ruling remains a claim against descendants who want to reclaim the dale.
 The dead have not all been laid, and its farms stand empty.
@@ -53,3 +97,5 @@ passed overhead, or answered that particular breach, remains a matter of belief.
 
 - [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] · [[place-vithgard|Vithgard]]
 - [[affiliation-nahild|Náhild]] · [[lore-nrdhmhstry|Histories and Legends of Nordheim]]
+- [[lore-vthgrdsccwrs|The Vithgard Succession Wars]]—the brothers, the levies and the truce
+- [[lore-domseycount|The Dómsey Count]]—the reckoning of the sittings and the ages of the north

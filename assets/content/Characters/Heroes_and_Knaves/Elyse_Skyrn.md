@@ -447,7 +447,7 @@ Her relationship with Tórnis has recently added an unexpected complication to h
 
 - **Healing**: Elýsè's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is remarkably low.
 - **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
-- **Herbalism**: An expert botanist with an encyclopaedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
+- **Herbalism**: An expert botanist with an encyclopedic knowledge of medicinal plants. She gathers specimens wherever the band travels, building a growing collection of rare ingredients.
 - **Hidden Arcane Talent**: Elýsè possesses genuine magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
 - **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is genuinely warm—but it also serves as effective camouflage for the things she chooses not to reveal.
 

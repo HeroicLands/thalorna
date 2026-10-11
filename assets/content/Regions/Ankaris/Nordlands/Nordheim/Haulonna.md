@@ -6,7 +6,7 @@ subType: site
 data: {demonym: null, lore: [], parents: [nordheim], population: null, packFolder: nordheim}
 ---
 
-Near the edge of Thalmdal the one rule is that when the birdsong stops and the air turns cold and stale in the middle of summer, a hunter turns back and does not argue with his feet. The valley that no hunter could once find twice is now the one nobody can avoid, because its blight spreads a little further every year.
+Near the edge of Thalmdal the one rule is that when the birdsong stops and the air turns cold and stale in the middle of summer, a hunter turns back and does not argue with his feet. The valley the old songs say no hunter could find twice is now the one nobody can avoid, because its blight creeps a little further in every bad year.
 
 - **Type:** destroyed [[lore-flksinale|Sinalëan]] enclave
 - **Location:** the deep interior of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
@@ -21,7 +21,7 @@ The enclave was small by Sinalëan standards, a few hundred souls at its height,
 
 ## Destruction
 
-The fall of Haulonna is the best-known deed of [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]], a Nightwight necromancer (a [[being-tereb|tereb]], in the learned word) who served [[affiliation-nahild|Náhild]]. The goddess tasked him with destroying the enclave, whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine.
+The fall of Haulonna, in the Age of Halls when the north had hall-lords and no kings, is the best-known deed the songs of the [[doc-heroessgrd|Heroes of Asguard]] give to [[being-hlskmylsvrtrnr|Hluskmýl Svartrúnar]], a Nightwight necromancer (a [[being-tereb|tereb]], in the learned word) who served [[affiliation-nahild|Náhild]]. The goddess tasked him with destroying the enclave, whether as a strike against the living world, a test of her servant's power, or for reasons known only to the divine.
 
 Under cover of night Hluskmýl pierced the enclave's ancient wards, a feat that should have been impossible for a mortal, even a Helspawn one, and which suggests Náhild's direct intercession. Inside, he carved black runes into the earth itself and corrupted the natural energies that bound the sanctuary together. The corruption spread like a sickness: it twisted the ancient trees, poisoned the waters, and turned the wards that once protected the enclave into a cage for the people inside.
 
@@ -33,11 +33,11 @@ Haulonna died that night. The ancient trees blackened and twisted, the clear wat
 
 What was a sanctuary of starlight and living wood is now a necropolis. The trees are dead but will not fall, and they stand as skeletal sentinels. The air is cold and stale in every season, and animals shun the place. Hluskmýl has made the corrupted enclave his stronghold, drawing dark power from the imprisoned Sinalëan spirits and the twisted remnants of their wards.
 
-The corruption is not contained. It has spread outward for decades, tainting the surrounding forest and the water. Nordmen clans in the nearby highlands have noticed the blight in failing hunts, poisoned streams and livestock born wrong, though they do not know the cause. Travelers report stumbling into the valley's edges and fleeing from the wrongness they felt there.
+The corruption is not contained. It has crept outward since the Age of Halls, slowly and unevenly, tainting the surrounding forest and the water. Nordmen clans in the nearby highlands have noticed the blight in failing hunts, poisoned streams and livestock born wrong, though they do not know the cause. Travelers report stumbling into the valley's edges and fleeing from the wrongness they felt there.
 
 ## The Sinalëan Response
 
-Among the Sinalë the fall of Haulonna is a wound that has not closed. An enclave was a place of ancient power and home to hundreds of the dwindling Firstborn, and its destruction has no precedent in living memory. That a human sorcerer accomplished it, even one empowered by a goddess, adds humiliation to grief. The Sinalë measure time in centuries and their grudges run longer still, so the name Hluskmýl Svartrúnar is spoken in their remaining enclaves with a cold fury that will not fade for generations.
+Among the Sinalë the fall of Haulonna is a wound that has not closed. An enclave was a place of ancient power and home to hundreds of the dwindling Firstborn, and its destruction has no precedent in the long memory of the Firstborn. That a human sorcerer accomplished it, even one empowered by a goddess, adds humiliation to grief. The Sinalë measure time in centuries and their grudges run longer still, so the name Hluskmýl Svartrúnar is spoken in their remaining enclaves with a cold fury that will not fade for generations.
 
 Sinalëan agents, solitary, patient and implacable, have searched for a way to destroy Hluskmýl and free the trapped spirits. The search is hard because his runes have so thoroughly perverted the enclave's own magic that a direct assault risks destroying the spirits it means to free. The Sinalë do not act in haste, and they do not forget.
 
@@ -47,7 +47,7 @@ The spirit of Ansorudhe Lonvunto is believed to endure within the necropolis, re
 
 The destruction showed that Sinalëan enclaves, long thought inviolable, can be found and broken. That has unsettled the Firstborn across Thalorna in ways human scholars can barely perceive. It has also drawn other powers: the [[affiliation-ordoarcanis|Ordo Arcanis]] is keenly interested in how Hluskmýl pierced the wards, and certain factions within the Ordo would dearly love to acquire that knowledge, for defensive purposes, they claim.
 
-Among the Nordmen the spreading blight is a growing concern. The highland clans have their own legends of the hidden valley, and the older völvur suspect that something terrible has happened to whatever it once sheltered. Several have gone to investigate and have not returned.
+Among the Nordmen the spreading blight is a growing concern. The highland clans know the hidden valley from the songs, and the older völvur hold that the songs tell the truth about what happened to whatever it once sheltered. Several have gone to look and have not returned.
 
 ## See Also
 

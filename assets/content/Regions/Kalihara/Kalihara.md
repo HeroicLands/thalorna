@@ -41,7 +41,7 @@ data:
         description: >-
           Head of one of the old kindreds, holding its lands, its memory and its share of the island's secrets.
       - level: 7
-        title: Councillor
+        title: Councilor
         description: Of the body that governs the island and decides, chiefly, what outsiders may be told.
       - level: 8
         title: Speaker for the Island
@@ -49,7 +49,7 @@ data:
     offices:
       Speaker for the Island: >-
         Presiding officer of the Council, and the only Kaliharan authorized to treat with a foreign power.
-      Councillor: Member of the governing body, seated by lineage and by charge over the structures.
+      Councilor: Member of the governing body, seated by lineage and by charge over the structures.
       Elder of a Lineage: Head of an old kindred, holding its lands and its portion of what the island knows.
       Ithári'kaan: >-
         Keeper of the ancient structures, performing maintenance rites learned by rote across eighty centuries.
@@ -57,7 +57,7 @@ data:
       Keeper of the Failing Works: >-
         Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation.
       Master of the Terraces: Warden of the island's agriculture, and of the weather-works it has always depended on.
-      Harbour-Warden: >-
+      Harbor-Warden: >-
         Keeper of the single anchorage foreigners may use, and of everything they are permitted to see from it.
       Envoy: >-
         Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.

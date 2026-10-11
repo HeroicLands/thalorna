@@ -96,9 +96,18 @@ To the south and west lies [[place-aureldirgn|Aurèldía]]: trading partner, the
 
 Far to the south, Mídhalión is the great market. Nordmen traders and mercenaries are a familiar sight in every Vylarian port, and a good share of the north's silver is earned under southern skies.
 
+## What the Skalds Count
+
+The north dates by sittings. The five kings have met on Dómsey every seventh year since 287, and a Nordman gives a year as "the thirty-fourth sitting" or "two sittings before the fleets went south"; the [[lore-domseycount|Dómsey Count]] sets out the reckoning, the four turns of the year, and the ages the skalds divide the past into. Before the sittings there were hall-lords and no kings, and the [[doc-heroessgrd|Heroes of Asguard]] belong to that age, sung whether or not they lived. The kings came between 260 and 285, when the hall-lords combined against the Vylarian forts in the forest to the south and for the southern silver, and the first time the five met they killed each other on the strand of the island, which is why swords stay in the boats and why the island is a blood-field ([[lore-nordfirstsit|The First Sitting on Dómsey]]).
+
+The two great crowns fought each other for two generations and settled it under the ice of [[place-skalfvatn|Skalfvatn]] and in the hall at Asgarthul, which is where Norgaad's Great Moot comes from ([[lore-nordkinwars|The Kin-Wars]]). Then the [[lore-threewinters|Three Winters]] ran together, the old went over the fell, and the north sent every hull it had south with the hunger behind it ([[lore-southrnfleets|The Southern Fleets]]); the empire they burned hired them a generation later, and the free companies signed their [[lore-compactsignd|Compact]] at Hringstead. Targud's east burned under a Grukar horde and the kingdom moved its hall to the ridge and put every farmer on the wall in turn ([[lore-burningeast|The Burning of the East]]). Sixty years ago Nordheim took a plain across the sea ([[lore-stormveldtkn|The Taking of Stormveld]]), and in the generation since, Vithgard's king died with two sons ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]) and Nordheim's settlers planted their posts in a Varokh grove ([[lore-nalthmrktkng|The Nalthmark Land-Taking]]).
+
+Three fields of the dead lie in the north, Dómsey, Skalfvatn and [[place-dvulgvangr|Dvulgvangr]], and a fourth that northern hands made in Provènzia; [[lore-bloodfield|Blood-fields]] says what a _vrellvöll_ is and what the halls do about one. The sixty-third sitting is due at the next Sumarmál, with Malagna's crown unsettled, Vithgard's truce waiting on a funeral and the sea going wrong, and every kingdom's history, from [[lore-nrdhmhstry|Nordheim]]'s to [[lore-vthgdhstry|Vithgard]]'s, ends on a question the sitting will have to hear.
+
 ## See Also
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]—the five Nordmal kingdoms
+- [[lore-domseycount|The Dómsey Count]]—the reckoning and the ages of the north
 - [[lore-nordheimnclt|Nordheimn]]—the culture: oath, reputation, hall and ting
 - [[affiliation-asguardian|Asguardian Pantheon]]—the Ten of the north
 - [[lore-aldarhringr|Aldarhringr]]—the ring of ages, the making of the world and the gods' heirs

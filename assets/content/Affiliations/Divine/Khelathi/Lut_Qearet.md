@@ -47,7 +47,7 @@ data:
 
 ## Overview
 
-Lut-Qe'âret is the temple of [[lore-qearetdty|Qe'âret]], whose order is held to be the order of the world itself, maintained by priests trained to read law as a sacred text. The temple's judgements carry directly into the imperial courts, so its priesthood doubles as a bench the state itself defers to. Its priests are expected to be beyond purchase, and a priest found otherwise loses the office along with the authority that came with it.
+Lut-Qe'âret is the temple of [[lore-qearetdty|Qe'âret]], whose order is held to be the order of the world itself, maintained by priests trained to read law as a sacred text. The temple's judgments carry directly into the imperial courts, so its priesthood doubles as a bench the state itself defers to. Its priests are expected to be beyond purchase, and a priest found otherwise loses the office along with the authority that came with it.
 
 ## Character
 

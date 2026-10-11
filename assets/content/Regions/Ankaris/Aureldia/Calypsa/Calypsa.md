@@ -13,7 +13,7 @@ data:
   governance:
     model: republic
     summary: >-
-      The Captains' Council of the seafaring houses, seats weighted by tonnage, electing a Harbourmaster for a single three-year term who may not immediately serve again.
+      The Captains' Council of the seafaring houses, seats weighted by tonnage, electing a Harbormaster for a single three-year term who may not immediately serve again.
     ranks:
       - level: 0
         title: Proscribed
@@ -52,16 +52,16 @@ data:
         description: >-
           Presiding over the council and speaking first in it—an office of precedence, held for a term, not a sovereign.
     offices:
-      Harbourmaster: >-
+      Harbormaster: >-
         Executive officer elected by the Captains' Council for three years, and barred from serving consecutive terms. Holds the harbor, the fortifications, the customs and the navy.
-      Councillor: >-
+      Councilor: >-
         Head of a seafaring house, seated on the Captains' Council with weight informally but inflexibly set by the tonnage the house commands.
       Arbitrator: >-
         Professional settler of disputes between houses under the Sea-Law, a body of custom with no text and a dense oral tradition.
       Guild Master: >-
         Head of one of the chartered guilds—shipwrights, chandlers, ropemakers, pilots—running its own affairs under Council charter.
       Customs Officer: Collector of the dues on every hull and cargo, which is the city's revenue entire.
-      Master of the Watch: Commander of the city's guard and of the fortifications the Harbourmaster answers for.
+      Master of the Watch: Commander of the city's guard and of the fortifications the Harbormaster answers for.
       Pilot: >-
         Licensed guide of hulls into the anchorage, holding knowledge the city treats as a public asset.
       Consul Abroad: The city's agent in a foreign port, holding its seal for trade disputes there.
@@ -124,7 +124,7 @@ The island itself produces almost nothing. There is fishing, and there is enough
 
 ## Government
 
-The **Captains' Council** is the city's governing body: an assembly of the heads of the seafaring houses, with seats weighted (informally but inflexibly) by the tonnage a house commands. The Council elects a **Harbourmaster** from among its members for a term of three years—an executive officer with responsibility for the harbor, the fortifications, the customs revenue, and the city's modest standing navy. The Harbourmaster cannot serve consecutive terms, a restriction introduced after the third-century civil war and honored since without exception.
+The **Captains' Council** is the city's governing body: an assembly of the heads of the seafaring houses, with seats weighted (informally but inflexibly) by the tonnage a house commands. The Council elects a **Harbormaster** from among its members for a term of three years—an executive officer with responsibility for the harbor, the fortifications, the customs revenue, and the city's modest standing navy. The Harbormaster cannot serve consecutive terms, a restriction introduced after the third-century civil war and honored since without exception.
 
 Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers, ropemakers, and pilots each run their own affairs under charters granted by the Council. Disputes between merchant houses are settled by arbitration under the **Sea-Law**, a body of commercial custom with no single textual source but a dense and consistent oral tradition maintained by the city's small, prickly caste of professional arbitrators.
 
