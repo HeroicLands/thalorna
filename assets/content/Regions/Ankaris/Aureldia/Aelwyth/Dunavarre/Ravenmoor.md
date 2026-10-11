@@ -25,7 +25,7 @@ it is the one every ship must enter.
 
 The Synod **requires every vessel crossing between the mainland and Aelwyth to put in at Ravenmoor
 first**: inbound before it may proceed to any other port on the island, outbound before it may leave for
-the mainland. There are no exceptions worth the name, and the requirement applies to Tarvennese,
+the mainland. There are no exceptions worth the name, and the requirement applies to Ondarethan,
 Aldorathi and Stormveld shipping exactly as it applies to foreigners.
 
 The Synod's officers inspect cargo and manifests as customs officials anywhere would, looking for
@@ -84,7 +84,7 @@ costs. And they do not much care: an insular people with no interest in the main
 letting someone else handle the mainland, and every Aelwythan realm is far more exercised by what
 happens on Aelwyth than by what arrives from beyond it.
 
-[[affiliation-repblctrvn|Tarvenne]] dislikes it most and most loudly—a trading republic on the far
+[[affiliation-repblcndrth|Ondareth]] dislikes it most and most loudly—a trading republic on the far
 side of the island, obliged to send its shipping the long way round to be searched by mages it despises—and its Senate has passed resolutions on the matter for sixty years without once refusing to comply.
 
 **[[affiliation-jrldmstrmvld|Stormveld]] is outside the arrangement altogether**, and by the Synod's

@@ -140,7 +140,7 @@ Name: [[being-geldarpanivel|Geldar Panivel, the Younger]]
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.
-- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblctrvn|Tarvennan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Tarvenne. Given his covert activities, he might be planning poisonings or sabotage within the party.
+- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblcndrth|Ondarethan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Ondareth. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 

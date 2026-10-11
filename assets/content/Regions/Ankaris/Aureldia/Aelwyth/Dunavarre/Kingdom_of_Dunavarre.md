@@ -73,7 +73,7 @@ data:
     ordoarcanis: aligned
     kngdmlvndr: aligned
     kngdmldrth: rival
-    repblctrvn: unaligned
+    repblcndrth: unaligned
     tanvurempr: unaligned
     vylarinmpr: unaligned
     saelvri: nemesis
@@ -89,7 +89,7 @@ Dúnavarre is the most powerful and diplomatically active kingdom on [[place-ael
 
 Dúnavarre is unique in [[place-ankrscntnnt|Ankaris Continent]]—and possibly in the known world—as a kingdom ruled directly by a synod of mages belonging to the [[affiliation-ordoarcanis|Ordo Arcanis]]. Where elsewhere the Ordo operates through influence, court intrigue, and institutional leverage, in Dúnavarre the mages simply govern. The Synod sets policy, administers justice, directs diplomacy, and commands the kingdom's military forces through appointed officers.
 
-How the Ordo came to rule Dúnavarre outright is a matter of historical debate. The kingdom's own chronicles present it as a natural evolution—generations of mage-advisors gradually assuming the responsibilities that incompetent kings could not handle, until the crown became ceremonial and was eventually set aside altogether. Critics (particularly in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblctrvn|Tarvenne]]) tell a darker story of magical coercion and political manipulation. The truth is likely somewhere between.
+How the Ordo came to rule Dúnavarre outright is a matter of historical debate. The kingdom's own chronicles present it as a natural evolution—generations of mage-advisors gradually assuming the responsibilities that incompetent kings could not handle, until the crown became ceremonial and was eventually set aside altogether. Critics (particularly in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]]) tell a darker story of magical coercion and political manipulation. The truth is likely somewhere between.
 
 The Synod's rule gives Dúnavarre a character unlike any other Aelwythan polity: orderly, learned, and efficient, but also secretive, paternalistic, and intolerant of dissent. The mages govern well by most material measures—Dúnavarre's roads are maintained, its laws enforced, its commerce thriving—but the Synod's decisions are made behind closed doors, and ordinary citizens have no voice in them.
 
@@ -103,7 +103,7 @@ The kingdom is devoutly [[affiliation-arldnpnthn|Aurèldían]], with [[affiliati
 
 Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots, language and active trade. Dúnavarre sits on Aelwyth's southeastern coast, whose harbors face Élavendre across some two hundred and fifty sea-miles, and the two are each other's nearest civilized neighbor across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the [[affiliation-ordoarcanis|Ordo Arcanis]] at arm's length. Élavendre **permits** the Ordo and **limits its access**: it may keep its houses and teach in the cities—the University of [[place-beravel|Béravel]] is its largest campus outside the Empire—and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the Áelendan Wardens enforce a boundary the crown declines to move. That an Ordo-governed kingdom is nonetheless welcome at Béravel says a good deal about both courts. That Dúnavarre—an Ordo-governed kingdom—maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Ordo's mainland hierarchy.
 
-Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblctrvn|Republic of Tarvenne]] through coastal trade routes.
+Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive—the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblcndrth|Republic of Ondareth]] through coastal trade routes.
 
 Most recently, Dúnavarre has launched an ambitious diplomatic initiative to establish independent relations with the [[affiliation-tanvurempr|Empire of Tānvür]], seeking to bypass the [[affiliation-vylarinmpr|Vylarian Empire]]'s long-standing monopoly as intermediary for east-west diplomacy. This mission, commissioned by the Synod and led by Sir Aran Célavren, represents a bold assertion of Dúnavarren independence on the international stage.
 

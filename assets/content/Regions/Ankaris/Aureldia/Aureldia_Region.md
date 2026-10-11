@@ -72,7 +72,7 @@ Aurèldía has no emperor, no paramount king, no unified church-state. What it h
 
 The major powers of the region are:
 
-- [[place-aelwyth|Aelwyth]]—The Misty Isle, a patchwork of kingdoms ([[affiliation-kngdmldrth|Aldorath]], [[affiliation-kingdmdnvr|Dunavarre]]) and a republican enclave ([[affiliation-repblctrvn|Tarvenne]]), knit together by shared culture more than by government.
+- [[place-aelwyth|Aelwyth]]—The Misty Isle, a patchwork of kingdoms ([[affiliation-kngdmldrth|Aldorath]], [[affiliation-kingdmdnvr|Dunavarre]]) and a republican enclave ([[affiliation-repblcndrth|Ondareth]]), knit together by shared culture more than by government.
 - [[place-elavendre|Élavendre]]—The Pelwar coastal kingdom, culturally preeminent but politically divided between the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] and the neighboring [[place-alndntrblnds|Áelendan Tribal Lands]].
 - [[affiliation-calypsa|Calypsa]]—The merchant city-state, whose oligarchic trading houses make it influential far out of proportion to its size.
 - [[place-tarvenirgn|Tarvénia Region]]—The peninsular patchwork of four kingdoms and two free territories.

@@ -74,7 +74,7 @@ data:
     kngdmnrdhm: aligned
     kngdmldrth: nemesis
     kingdmdnvr: unaligned
-    repblctrvn: unaligned
+    repblcndrth: unaligned
   packFolder: aelwyth
 sohl: {system: {commonSkills: [nordmalng]}}
 

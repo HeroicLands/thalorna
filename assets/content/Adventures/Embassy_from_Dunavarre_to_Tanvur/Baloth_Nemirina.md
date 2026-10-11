@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {repblctrvn: {rank: 6}}
+  affiliations: {repblcndrth: {rank: 6}}
   gender: male
   species: humanflk
   packFolder: adventures
@@ -20,7 +20,7 @@ data:
 
 # Dossier {#dossier}
 
-**Role.** He held a seat in the Senate of the [[affiliation-repblctrvn|Tarvennan Republic]] until his death.
+**Role.** He held a seat in the Senate of the [[affiliation-repblcndrth|Ondarethan Republic]] until his death.
 
 **Background.** Kidnapped and murdered in 717.
 

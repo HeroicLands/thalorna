@@ -3,18 +3,18 @@ shortcode: thornbury
 name: {full: Thornbury, aliases: []}
 type: place
 subType: settlement
-description: "The seat of the Republic of Tarvenne—where the Senate sits beneath its portico and the republic's offices are bought."
+description: "The seat of the Republic of Ondareth—where the Senate sits beneath its portico and the republic's offices are bought."
 tags: [city, port, coastal]
 data:
   demonym: null
   lore: []
-  parents: [tarvenne]
+  parents: [ondareth]
   population: 14000
   packFolder: aelwyth
-  government: repblctrvn
+  government: repblcndrth
 ---
 
-**Thornbury** is the seat of the [[affiliation-repblctrvn|Republic of Tarvenne]], on Aelwyth's western
+**Thornbury** is the seat of the [[affiliation-repblcndrth|Republic of Ondareth]], on Aelwyth's western
 coast: fourteen thousand people, the republic's chief harbor, and the stage on which its entire
 political performance is mounted.
 
@@ -36,10 +36,10 @@ the first rank keep the houses from which they ruin one another's clients. Every
 public and nothing openly, and a visitor with money is assumed to be here for that purpose until he
 proves otherwise.
 
-The harbor beneath is genuinely busy—Tarvenne's carrying trade is real and profitable—and its
+The harbor beneath is genuinely busy—Ondareth's carrying trade is real and profitable—and its
 masters comply, resentfully and without exception, with the requirement to call at
 [[place-ravenmoor|Ravenmoor]].
 
 ## See Also
 
-- [[affiliation-repblctrvn|Republic of Tarvenne]] · [[place-aelwyth|Aelwyth]]
+- [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-aelwyth|Aelwyth]]

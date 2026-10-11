@@ -3,7 +3,7 @@ shortcode: cntrlhghlnds
 name: {full: The Central Highlands, aliases: []}
 type: place
 subType: region
-description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Tarvenne."
+description: "The warm open uplands at the middle of Aelwyth—rising above the coastal fog into the clearest and kindest weather on the island, and the inland half of Ondareth."
 tags: [region, hill, inland]
 data:
   demonym: null
@@ -11,12 +11,12 @@ data:
   parents: [aelwyth]
   population: 58000
   packFolder: aelwyth
-  government: repblctrvn
+  government: repblcndrth
 ---
 
 The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of
 [[affiliation-kngdmldrth|Aldorath]]: open, rolling, largely treeless upland, held by the
-[[affiliation-repblctrvn|Republic of Tarvenne]] and home to some fifty-eight thousand of its people.
+[[affiliation-repblcndrth|Republic of Ondareth]] and home to some fifty-eight thousand of its people.
 
 ## Above the Weather
 
@@ -27,7 +27,7 @@ The Highlands are not. The fog is a low thing that lies on the coast and in the 
 upland rises out of it; a traveler climbing from the coast road in the morning breaks into sunlight
 within an hour and looks back on a white sea covering everything he has just walked through. The
 Highlands are accordingly **warmer, clearer and markedly more pleasant** than anywhere else in the
-republic, and the difference is the first thing any Tarvennese will tell an outsider about them.
+republic, and the difference is the first thing any Ondarethan will tell an outsider about them.
 
 All of which is thoroughly relative. This is still Aelwyth: a cool island in a cold sea, where _warm_
 means the wind has dropped and one can see the far side of the valley. A visitor from
@@ -45,4 +45,4 @@ understands and nobody in Thornbury will admit to.
 
 ## See Also
 
-- [[affiliation-repblctrvn|Republic of Tarvenne]] · [[place-thornbury|Thornbury]]
+- [[affiliation-repblcndrth|Republic of Ondareth]] · [[place-thornbury|Thornbury]]

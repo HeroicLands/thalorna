@@ -79,7 +79,7 @@ Dúnavarre is the only polity in Ankaris governed directly by mages: the Synod o
 [[affiliation-ordoarcanis|Ordo Arcanis]] sets policy, administers justice and commands the kingdom's
 forces. The kingdom's own chronicles describe how this came about gently—generations of mage-advisors
 assuming duties that incompetent kings could not, until the crown was ceremonial and was at length set
-aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblctrvn|Tarvenne]] tell
+aside. Its critics in [[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]] tell
 a darker version involving coercion.
 
 Either way, a thing was left behind that nobody accounted for. A crown can be set aside; a **court**
@@ -171,7 +171,7 @@ position that it does not exist is the least embarrassing one available.
   the governed have no voice is a man with a private difficulty. The Court has sympathizers among the
   Knight-Captains. It also has enemies there who regard it as everything Árdavon abhors, and who are
   correct.
-- **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblctrvn|Tarvenne]].** Foreign money.
+- **[[affiliation-kngdmldrth|Aldorath]] and [[affiliation-repblcndrth|Ondareth]].** Foreign money.
   Aldorath's feudal lords find the restoration of a Dúnavarran monarchy an agreeable idea and fund it
   intermittently, which is the single greatest threat to the Court's standing at home.
 - **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Ordo secrets

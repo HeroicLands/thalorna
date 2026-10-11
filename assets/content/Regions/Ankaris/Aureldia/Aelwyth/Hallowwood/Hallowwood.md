@@ -20,7 +20,7 @@ reputation abroad is not entirely nonsense.
 
 The Sinalë here do not receive outsiders. There is no arrangement of the kind
 [[place-elavendre|Élavendre]] enjoys, no neighborly understanding with the local human realms, and no
-tradition of contact for Aldorathi or Tarvennese to appeal to. People who go into the Hallowwood
+tradition of contact for Aldorathi or Ondarethan to appeal to. People who go into the Hallowwood
 uninvited find the paths unhelpful and come out again somewhere they did not intend, if they are
 fortunate.
 

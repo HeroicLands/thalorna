@@ -120,7 +120,7 @@ by walking away is, in a straightforward sense, the reason Aelwyth has human kin
 ## Now
 
 Nothing marks it. Three peaks over open grazing, in the pleasantest country on the island, and the
-[[affiliation-repblctrvn|Tarvennese]] senators who keep summer houses within sight of them do not know
+[[affiliation-repblcndrth|Ondarethan]] senators who keep summer houses within sight of them do not know
 the name means anything.
 
 ## See Also

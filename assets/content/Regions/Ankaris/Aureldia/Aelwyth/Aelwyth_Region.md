@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [aureldirgn], population: 710000, packF
 # terran_analog: "The British Isles, but with Ireland and Britain joined into a single landmass shaped like an inverted V. The western arm is trackless deep forest (the Peshtar Wilderness); the eastern arm is the British-analog kingdom belt (Stormveld in northeastern Scotland, the southern Aelwythan kingdoms in England-analog territory). The two arms meet at the misty northern apex."
 ---
 
-Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as Stormveld and Tarvenne. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
+Off the western coast of [[place-ankrscntnnt|Ankaris Continent]], some hundred miles out across the cold sea from the [[place-elavendre|Élavendri]] coast, Aelwyth is the island containing both [[place-aldorathrgn|Aldorath]] and [[place-dunavarre|Dúnavarre]], as well as Stormveld and Ondareth. Often called "the Misty Isle," it is a land of mystery where ancient ruins, lost temples, and forgotten cities stand as remnants of civilizations that have long since passed into legend.
 
 ## Geography
 
@@ -34,7 +34,7 @@ country that is the **breadbasket of Aelwyth**, whose grain feeds the island and
 known as far as the mainland.
 
 **The west** is open: the [[place-cntrlhghlnds|Central Highlands]] at the island's middle, falling to the
-western coastal country of [[affiliation-repblctrvn|Tarvenne]], and reaching north to the Peshtar forests.
+western coastal country of [[affiliation-repblcndrth|Ondareth]], and reaching north to the Peshtar forests.
 
 **The south**, below Aldorath and west of Dúnavarre, is the [[place-hallowwood|Hallowwood]]—deep
 fae forest where the [[lore-flksinale|Sinalë]] of Aelwyth live, and which does not welcome visitors.
@@ -78,13 +78,13 @@ The southern forests shelter ancient communities of [[lore-flksinale|Sinalë]] (
 
 ### Minor Polities
 
-Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Tarvenne, is a neutral center of learning whose [[affiliation-panepistmm|Panepistemium]] chapterhouse is among the most respected on the island.
+Scattered between the major realms are smaller kingdoms, free cities, and independent lordships. The free city of [[place-veldareth|Veldareth]], on the southern coast between Dúnavarre and Ondareth, is a neutral center of learning whose [[affiliation-panepistmm|Panepistemium]] chapterhouse is among the most respected on the island.
 
 ## Religion
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is dominant in the southern and eastern kingdoms, with [[affiliation-arldnpnthn|Aethería]], [[affiliation-arldnpnthn|Lúsinía]], and [[affiliation-arldnpnthn|Karnavos]] being particularly prominent. [[affiliation-arldnpnthn|Árdavon]] holds special importance in Dúnavarre. The Nordmen of the Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods. Local folk traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—layer additional beliefs atop the formal pantheons.
 
-The [[affiliation-repblctrvn|Republic of Tarvenne]] in the west is the exception on the island and something of an exception in the Aurèldían world. The [[affiliation-blackflame|Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Tarvenne's magistracies are for sale. So does [[affiliation-thanatos|Sélmoros]], the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is the only judge most Tarvennese will ever meet on equal terms with their betters.
+The [[affiliation-repblcndrth|Republic of Ondareth]] in the west is the exception on the island and something of an exception in the Aurèldían world. The [[affiliation-blackflame|Black Flame]]—suppressed nearly everywhere else—carries enormous influence there, for the straightforward reason that suppression requires magistrates and Ondareth's magistracies are for sale. So does [[affiliation-thanatos|Sélmoros]], the Silent Judge, for the opposite reason: in a republic whose courts work for whoever pays them, a god who cannot be bought is the only judge most Ondarethan will ever meet on equal terms with their betters.
 
 ## Magic
 
@@ -92,11 +92,11 @@ Aelwyth is one of the most magically active regions in the known world. The grea
 
 The [[affiliation-panepistmm|the Epistemium]] maintains chapterhouses in each of Aelwyth's five great cities, functioning as they do everywhere—as houses of knowledge and learning, teaching all subjects and hosting sages of every philosophical discipline. As on the mainland, the [[affiliation-ordoarcanis|Ordo Arcanis]] operates through these chapterhouses, using them to extend its influence over arcane practice. In [[affiliation-kingdmdnvr|Dúnavarre]], this influence has reached its logical extreme: the Ordo governs the kingdom outright through a Synod of mages, the only polity anywhere in [[place-ankrscntnnt|Ankaris Continent]] where the Ordo holds direct political power.
 
-Elsewhere on the island, the relationship between the local rulers and their Panepistemium chapterhouses varies—[[affiliation-kngdmldrth|Aldorath's]] feudal lords defer to their own seers on matters of prophecy, [[affiliation-repblctrvn|Tarvenne's]] senate insists on civic oversight, and the Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] are culturally indifferent to scholarly institutions. But even where the Epistemium is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistemium's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistemium's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Ordo lurking behind them.
+Elsewhere on the island, the relationship between the local rulers and their Panepistemium chapterhouses varies—[[affiliation-kngdmldrth|Aldorath's]] feudal lords defer to their own seers on matters of prophecy, [[affiliation-repblcndrth|Ondareth's]] senate insists on civic oversight, and the Nordmen of [[affiliation-jrldmstrmvld|Stormveld]] are culturally indifferent to scholarly institutions. But even where the Epistemium is viewed with suspicion, the chapterhouses are respected and their presence tolerated. The Epistemium's power is not military but intellectual: its scholars educate the gentry's children, its sages provide expertise no local tradition can match, and its libraries hold knowledge available nowhere else. A polity that earns the Epistemium's sanction—losing access to its teachers, its specialists, and its accumulated wisdom—finds life considerably harder for its ruling class. This quiet leverage ensures that chapterhouse doors remain open across the island, whatever the local rulers may think of the Ordo lurking behind them.
 
 ## Relations
 
-Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the [[place-vylarianse|Vylarian Sea]]. The Nordmen of Stormveld maintain connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Tarvenne has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
+Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the [[place-vylarianse|Vylarian Sea]]. The Nordmen of Stormveld maintain connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Ondareth has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
 
 ## The Elder Kingdom
 
@@ -139,7 +139,7 @@ elsewhere_—and there has not been for generations.
 So every Aelwythan institution is conducted with total seriousness and no external measure. Aldorath's
 lords hold court as though their precedence mattered beyond the next valley; Dúnavarre's Synod deliberates
 as a great power; Stormveld's jarls reckon themselves conquerors of consequence. The most florid case is
-[[affiliation-repblctrvn|Tarvenne]], which has built an entire imitation Vylarian republic—Senate,
+[[affiliation-repblcndrth|Ondareth]], which has built an entire imitation Vylarian republic—Senate,
 senators, mantles, portico—out of hearsay, and cannot tell how it looks, because no one there has seen
 the original.
 
@@ -152,7 +152,7 @@ that is the **Synod** of [[affiliation-ordoarcanis|Ordo Arcanis]] mages who gove
 They are not parochial and never have been. They are members of a continental institution, they read its
 correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude how
 small Aelwyth is and how little the mainland thinks of it. They know what a Vylarian would make of
-[[affiliation-repblctrvn|Tarvenne]]'s Senate.
+[[affiliation-repblcndrth|Ondareth]]'s Senate.
 
 They have never said so. Not once, to anybody.
 
@@ -272,7 +272,7 @@ coast:
 | -------------------------------------------------- | -------- | ---------------- |
 | [[affiliation-kngdmldrth\|Kingdom of Aldorath]]    | ~200,000 | eastern interior |
 | [[affiliation-jrldmstrmvld\|Jarldom of Stormveld]] | ~150,000 | north-east       |
-| [[affiliation-repblctrvn\|Republic of Tarvenne]]   | ~150,000 | western coast    |
+| [[affiliation-repblcndrth\|Republic of Ondareth]]  | ~150,000 | western coast    |
 | [[affiliation-kingdmdnvr\|Kingdom of Dúnavarre]]   | ~75,000  | south-east       |
 
 Three things about that table matter more than the numbers.
@@ -282,12 +282,12 @@ the population; of its 150,000, around 30,000 are Nordmen and around 120,000 are
 Nordmen holding a third of the island's settled people sits under four hundred sea-miles from
 [[place-elavendre|Élavendre]], which explains a good deal of Élavendren foreign policy.
 
-**Aldorath is the largest**, with Stormveld and Tarvenne close behind, and the most conventionally feudal: four in five of its people are
+**Aldorath is the largest**, with Stormveld and Ondareth close behind, and the most conventionally feudal: four in five of its people are
 serfs or peasants on manorial estates.
 
 **Dúnavarre is the smallest and the most powerful**, and this is the single most informative fact about
 Aelwyth. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many subjects and
-[[affiliation-repblctrvn|Tarvenne]] twice as many, and both mind very much what the little kingdom on
+[[affiliation-repblcndrth|Ondareth]] twice as many, and both mind very much what the little kingdom on
 the south-east coast thinks of them.
 
 The reason is not the harbors, or the trade, or even the Order of the Just Blade. It is that the

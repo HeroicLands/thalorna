@@ -13,7 +13,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblctrvn: {rank: 4}, karnavos: {rank: 1}}
+  affiliations: {repblcndrth: {rank: 4}, karnavos: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.137
@@ -394,7 +394,7 @@ Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Aldous Brandon is a charcoaler of Thornbury, the seat of the Republic of Tarvenne on the western coast of [[place-aelwyth|Aelwyth]], an Aelwythan freeman who burns charcoal in the woods behind the town for the smiths of the harbor.
+Aldous Brandon is a charcoaler of Thornbury, the seat of the Republic of Ondareth on the western coast of [[place-aelwyth|Aelwyth]], an Aelwythan freeman who burns charcoal in the woods behind the town for the smiths of the harbor.
 
 Aldous took over his father's kilns at twenty-five and has run them since in the coppice woods inland of the town, where the republic's senators own the ground and lease the cutting. His father burned one charcoal for every use and let the smiths sort it. Aldous burns oak for the forges that need a long heat, alder for the fine work, beech for the armorers, and has tried every wood on the coast to learn what it gives. He will not draw a kiln early or sell a sack that is green, which is why his charcoal costs more and why the smiths who know the difference pay it. He is late with deliveries more often than a man with two rivals should be, and he is late because the kiln was not ready, and he says so.
 

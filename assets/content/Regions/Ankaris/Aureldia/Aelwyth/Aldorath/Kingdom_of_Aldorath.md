@@ -108,7 +108,11 @@ data:
   economy: [lore-vylrncrncy, affiliation-clgmrgntrrm, affiliation-magnumclgm]
   lore: [humanflk]
   parents: []
-  relations: {arldnpnthn: aligned, kingdmdnvr: rival, repblctrvn: unaligned, jrldmstrmvld: nemesis}
+  relations:
+    arldnpnthn: aligned
+    kingdmdnvr: rival
+    repblcndrth: unaligned
+    jrldmstrmvld: nemesis
   packFolder: aelwyth
 sohl: {system: {commonSkills: [elvndrlng]}}
 ---
@@ -127,7 +131,7 @@ The [[lore-flksinale|Sinalë]] enclaves in the southern forests maintain an anci
 
 ## Relations
 
-Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblctrvn|Republic of Tarvenne]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Nordmen of Stormveld]] to the northeast are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazári]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
+Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive—the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblcndrth|Republic of Ondareth]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Nordmen of Stormveld]] to the northeast are a persistent concern—raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazári]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
 
 ## Commerce and Currency
 
@@ -138,7 +142,7 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arg
 - [[place-aelwyth|Aelwyth]]—The island
 - [[place-aldorathrgn|Aldorath Region]]—The land the kingdom holds
 - [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]]—Southeastern rival
-- [[affiliation-repblctrvn|Republic of Tarvenne]]—Southwestern republic
+- [[affiliation-repblcndrth|Republic of Ondareth]]—Southwestern republic
 - [[lore-flksinale|Sinalë]]—Elder race with southern forest enclaves
 - [[affiliation-arldnpnthn|Aurèldían]]—State pantheon
 
@@ -152,7 +156,7 @@ Its society is the most straightforwardly feudal on the island. **Four in five A
 peasants on manorial estates**, bound to the land and to a lord, working demesne and holding strips in
 the usual way; above them sit a landed aristocracy with real hereditary claims, a modest clergy and a
 thin merchant class. There is no equivalent of Dúnavarre's Synod-appointed stewardship, and no
-equivalent of Tarvenne's civic politics.
+equivalent of Ondareth's civic politics.
 
 [[place-dunmere|Dunmere]], the seat, holds about **20,000**—the only place in the kingdom that is
 a city rather than a market town, and the only one where anyone lives who is not directly answerable to
