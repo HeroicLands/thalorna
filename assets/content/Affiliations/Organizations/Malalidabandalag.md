@@ -12,6 +12,7 @@ subType: venture
 description: "Pan-Nordlands mercenary compact regulating the free companies—sworn warriors-for-hire serving kingdoms, jarls, and merchant lords across Nordheim, Norgaad, Vithgard, Targud, and Malagna."
 tags: []
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

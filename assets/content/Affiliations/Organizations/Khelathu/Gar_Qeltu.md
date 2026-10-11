@@ -6,6 +6,7 @@ subType: lineage
 description: The pearl-divers' house, dissolved by the Gar-Aû's word when its charter lapsed—the last major dissolution anyone can name, and the example every guild master is reminded of
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

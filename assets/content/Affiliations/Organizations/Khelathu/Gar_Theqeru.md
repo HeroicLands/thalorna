@@ -6,6 +6,7 @@ subType: lineage
 description: A noble house whose women have carried influence in their own right, and whose patronage reaches into the healing trades
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

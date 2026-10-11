@@ -6,6 +6,7 @@ subType: governmental
 description: The empire's administrative arm, whose ministers hold the paperwork of the realm and dislike anyone who exposes what is in it
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

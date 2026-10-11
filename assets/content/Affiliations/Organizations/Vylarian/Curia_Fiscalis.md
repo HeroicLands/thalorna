@@ -6,6 +6,7 @@ subType: governmental
 description: "Vylarian imperial taxation administration—sets imperial tax rates, awards Publicarius collection contracts, audits the tax-farmers, and adjudicates taxpayer disputes; operates only in the empire's direct-governance territories (Vylaria and Heliónis)."
 tags: []
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

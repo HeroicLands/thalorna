@@ -6,6 +6,7 @@ subType: order
 description: "Poison-trained fighters of Vélgrímr."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

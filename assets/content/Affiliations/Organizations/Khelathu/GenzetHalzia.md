@@ -6,6 +6,7 @@ subType: governmental
 description: The Halzi'a of the selats in session, where the provinces bargain with the center and with each other
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

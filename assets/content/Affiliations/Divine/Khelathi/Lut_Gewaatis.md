@@ -6,6 +6,7 @@ subType: faithtradition
 description: The house of Gewaâtis, patron of voyages, whose sacred vaults are built by the empire's finest locksmiths and opened by very few
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

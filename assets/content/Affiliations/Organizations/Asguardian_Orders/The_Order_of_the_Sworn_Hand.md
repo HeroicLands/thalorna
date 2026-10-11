@@ -6,6 +6,7 @@ subType: order
 description: "Sworn warrior-judges of Eidgar—itinerant arbiters and executors of judgment across the Nordlands, bound to give the right ruling regardless of who suffers from it."
 tags: []
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

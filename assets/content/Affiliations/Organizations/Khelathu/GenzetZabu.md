@@ -6,6 +6,7 @@ subType: governmental
 description: The titled families of a district sitting together, where traditionalist and military thinking generally carries the room
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

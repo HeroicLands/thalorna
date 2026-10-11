@@ -6,6 +6,7 @@ subType: order
 description: "Body and soul tended at Fródvin's infirmaries."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

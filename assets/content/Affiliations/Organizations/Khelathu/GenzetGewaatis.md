@@ -6,6 +6,7 @@ subType: governmental
 description: The council of the temple of Gewaâtis, which governs the god's holdings and the voyages made under his protection
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

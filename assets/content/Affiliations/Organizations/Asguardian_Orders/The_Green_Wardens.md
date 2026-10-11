@@ -6,6 +6,7 @@ subType: order
 description: "Warrior-protectors sworn to Fródvin—guardians of farms, harvests, and the common folk against the dangers that the harvest-god's peace cannot itself avert."
 tags: []
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

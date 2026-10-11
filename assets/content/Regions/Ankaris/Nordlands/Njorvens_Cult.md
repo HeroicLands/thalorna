@@ -6,6 +6,7 @@ subType: spirittradition
 description: "The cult that venerates Njörven."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

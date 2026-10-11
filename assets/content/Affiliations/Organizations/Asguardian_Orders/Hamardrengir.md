@@ -6,6 +6,7 @@ subType: order
 description: "Thrúnvald's fighting order of hammer-warriors."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

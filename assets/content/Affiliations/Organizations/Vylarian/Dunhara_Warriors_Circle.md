@@ -13,6 +13,7 @@ subType: governmental
 description: "Ancient pan-tribal council of elite Dunhari warriors and chieftains—meeting quarterly to coordinate the great campaigns no single tribe could mount alone."
 tags: []
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

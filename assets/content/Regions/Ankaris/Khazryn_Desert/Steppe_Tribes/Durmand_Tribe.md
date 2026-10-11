@@ -6,6 +6,7 @@ subType: polity
 description: "A horse-breeding tribe of the eastern grass whose wells held in a drought year and whose traders sell to every camp."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

@@ -6,6 +6,7 @@ subType: governmental
 description: "(Council of the Nobles)—a formal assembly of the empire's most powerful aristocratic families, convened in the capital to advise the Gar-Aû on matters of internal policy, succession disputes, and inter-selat relations. The Genzet'Palu has no legislative authority—the Gar-Aû's word is law—but in practice no Gar-Aû governs effectively without its cooperation. Meetings are elaborate affairs conducted with full ceremonial protocol, and the council's de facto mediators wield enormous informal power."
 tags: []
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   templatePriority: null
   demonym: null

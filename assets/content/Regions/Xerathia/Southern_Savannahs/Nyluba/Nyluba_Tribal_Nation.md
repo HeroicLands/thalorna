@@ -6,6 +6,7 @@ subType: polity
 description: A confederation of five culturally distinct clan-nations of the southeastern Southern Savannahs, bound by the ancient Long Pact, the totemic faith, and the drum-language—politically loose, ritually intricate, and inheritors of the lost stone-builders.
 tags: []
 data:
+  culture: nyalubaclt
   templatePriority: null
   demonym: Nyáluban
   epithet: null

@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Ancient faith of Aû'Khelâthu built on the Weighing of a life's two accounts, the annual flood's cycle of renewal, and the divine authority of the Gar-Aû's line."
 tags: [pantheon, khelathi, religion]
 data:
+  culture: khelathiclt
   banner: pantheonbnr
   templatePriority: null
   demonym: null

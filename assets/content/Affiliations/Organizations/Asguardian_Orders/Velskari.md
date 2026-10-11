@@ -6,6 +6,7 @@ subType: order
 description: "A militant order guarding Vélgrímr's temples."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

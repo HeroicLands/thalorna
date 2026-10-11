@@ -6,6 +6,7 @@ subType: lineage
 description: A wealthy merchant house with trading interests across the empire, patron to timber-merchants and craftspeople, and quick to lend its name to a venture it expects to profit by
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

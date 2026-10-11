@@ -6,6 +6,7 @@ subType: faithtradition
 description: The house of Thubâ'i, god of the flood and of prosperity, whose priests read the river's rise and whose granaries stand behind the year's account
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

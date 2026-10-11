@@ -6,6 +6,7 @@ subType: lineage
 description: A military house of long standing, its men commanders and its women placed to advance the line's interests at court
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: order
 description: "Elder-trained fighters of Bjartr's will."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

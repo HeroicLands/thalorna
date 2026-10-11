@@ -6,6 +6,7 @@ subType: polity
 description: "A small tribe of the deep desert that keeps a hidden oasis, holds prophecies of the stars and sends its rangers out to find the lost."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

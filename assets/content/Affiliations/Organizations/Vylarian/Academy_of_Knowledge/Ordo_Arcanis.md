@@ -6,6 +6,7 @@ subType: guild
 description: "Arcane monopoly chartered by the Senate in 73 BF, wielding state power to regulate all magic and extend control through academy chapterhouses."
 tags: [organization, arcane, guild, vylaria, midhalion]
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

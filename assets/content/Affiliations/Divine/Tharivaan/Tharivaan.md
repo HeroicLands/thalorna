@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Reverence for the interconnected whole; ecological balance."
 tags: [pantheon]
 data:
+  culture: kaliharanclt
   banner: faithbnr
   templatePriority: null
   demonym: null

@@ -6,6 +6,7 @@ subType: lineage
 description: A dynasty whose last Gar-Aû was struck from every wall for sealing the living into a tomb
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

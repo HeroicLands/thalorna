@@ -5,6 +5,7 @@ type: affiliation
 subType: venture
 description: "Institutions of music, memory, and fae magic preserving Pelwar traditions and serving as Élavendre's cultural authority and rival to Ordo expansion."
 data:
+  culture: elavendriclt
   templatePriority: null
   demonym: null
   epithet: null

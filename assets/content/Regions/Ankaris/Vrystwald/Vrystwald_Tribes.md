@@ -5,6 +5,7 @@ type: affiliation
 subType: polity
 description: "Varokh villages of the Vrystwald, each governed by its own three elders and bound to no common seat or lasting council."
 data:
+  culture: varokhiclt
   templatePriority: null
   demonym: Varokh
   epithet: null

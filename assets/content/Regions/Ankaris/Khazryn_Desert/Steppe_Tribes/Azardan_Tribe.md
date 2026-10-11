@@ -6,6 +6,7 @@ subType: polity
 description: "The largest tribe of the central steppe, holding the northern grass and taking in the families of smaller tribes in bad years."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

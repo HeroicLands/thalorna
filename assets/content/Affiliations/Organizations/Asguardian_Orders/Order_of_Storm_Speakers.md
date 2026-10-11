@@ -8,6 +8,7 @@ subType: order
 description: "Warrior-shamans of Thrúnvald who fight as the storm fights—combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
 tags: []
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

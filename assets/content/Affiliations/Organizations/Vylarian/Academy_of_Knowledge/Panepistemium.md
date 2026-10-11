@@ -6,6 +6,7 @@ subType: guild
 description: "Ancient scholarly federation of all human knowledge, co-opted as intellectual cover for the Ordo Arcanis's spread through chapterhouses across western Ankaris."
 tags: [organization, scholarly, guild, helionis, midhalion, philosophy]
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

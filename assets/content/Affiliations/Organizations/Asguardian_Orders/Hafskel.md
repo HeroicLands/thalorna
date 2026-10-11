@@ -6,6 +6,7 @@ subType: order
 description: "Naval combat trained at sea for Thrúnvald."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null
