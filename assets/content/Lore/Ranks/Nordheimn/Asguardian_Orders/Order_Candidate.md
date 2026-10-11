@@ -3,7 +3,7 @@ shortcode: ordrcandidrnk
 name: {full: "Candidate of a Sworn Order", aliases: [Hand-Squire, Storm-Aspirant, Frost-Touched]}
 type: lore
 subType: law
-description: "Admitted on a sworn order's own terms and dismissible on them, in three of the four Asguardian fighting orders."
+description: "Admitted on a sworn order's own terms and dismissible on them, in Asguardian fighting orders that admit candidates."
 tags: []
 data: {culture: nordheimnclt}
 ---
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-Three of the four Asguardian fighting orders: the [[affiliation-eidhond|Order of the Sworn Hand]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-thursborn|Order of the Giant's Children]]. The [[affiliation-gronverdir|Order of the Green Wardens]] admits no member below its sworn rank.
+Asguardian fighting orders that admit a candidate before the sworn standing. The [[affiliation-gronverdir|Order of the Green Wardens]] admits no member below its sworn rank. Each admitting order sets its own trials; candidacy gives no authority to act as a sworn member.

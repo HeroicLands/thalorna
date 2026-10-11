@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Ask how one of the twenty-nine devotional orders puts a devotee out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.
+Ask how a devotional order puts a devotee out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-Twenty-nine devotional orders of the faiths of the Ten. Ódvar's: [[affiliation-hrafnrun|Hrafnrún]] and [[affiliation-hugaett|Hugaett]]. Thrúnvald's: [[affiliation-thrumuskjoldr|Thrumuskjöldr]], [[affiliation-hamardrengir|Hamardrengir]], and [[affiliation-hafskel|Hafskel]]. Eidgar's: [[affiliation-logbrandr|Lögbrandr]], [[affiliation-eidringr|Eidringr]], [[affiliation-eidkappar|Eidkáppar]], and [[affiliation-eidverdir|Eidverdir]]. Fródvin's: [[affiliation-gronhond|Grönhönd]], [[affiliation-frodberi|Fródberi]], and [[affiliation-hallarvinir|Hallarvinir]]. Sólrún's: [[affiliation-solvinir|Sólvinir]], [[affiliation-gullverdir|Gullverdir]], [[affiliation-gullmal|Gullmál]], and [[affiliation-hringsystur|Hringsystur]]. Náhild's: [[affiliation-nalok|Nálok]], [[affiliation-naverdir|Náverdir]], [[affiliation-namaelendir|Námaelendir]], and [[affiliation-nottgengir|Nóttgengir]]. Vélgrímr's: [[affiliation-skygrimr|Skýgrímr]], [[affiliation-ormgeir|Ormgeir]], and [[affiliation-velskari|Vélskari]]. Svartbrandr's: [[affiliation-smideldr|Smideldr]], [[affiliation-eldulfr|Eldúlfr]], and [[affiliation-eldverdir|Eldverdir]]. Bjartr's: [[affiliation-bjarthond|Bjarthönd]], [[affiliation-aldarmal|Aldarmál]], and [[affiliation-bjartbrandr|Bjartbrandr]].
+The devotional orders of the faiths of the Ten that confer this standing. Each order gives it the obligations of its own devotion; it is standing within that order, rather than authority over the other orders.

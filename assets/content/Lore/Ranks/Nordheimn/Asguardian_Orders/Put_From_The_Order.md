@@ -3,7 +3,7 @@ shortcode: putfromordrrnk
 name: {full: "Put from the Order", aliases: [Expelled, Foresworn]}
 type: lore
 subType: law
-description: "Cast out of a sworn order, the habit taken back and the vows declared void, across the four Asguardian fighting orders."
+description: "Cast out of a sworn order, the habit taken back and the vows declared void, within the Asguardian fighting orders."
 tags: []
 data: {culture: nordheimnclt}
 ---
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The four Asguardian fighting orders: the [[affiliation-eidhond|Order of the Sworn Hand]], the [[affiliation-gronverdir|Order of the Green Wardens]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-thursborn|Order of the Giant's Children]].
+The Asguardian fighting orders, under each order's own vows and governing body. The standing confers no office in a sibling order.

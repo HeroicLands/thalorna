@@ -80,6 +80,12 @@ Concordance source citations accept capitalization variants of a recorded name.
 Accents and specified columns remain exact; a note’s full name must match its
 concordance row. A live spelling does not belong in the retired alias list.
 
+A prose-only concordance half may carry its containing note's path without a
+shortcode or address, provided an `oldRefPaths` citation names that exact path.
+This applies independently to each half: a name that gains a note keeps its
+prose source in `oldPath` and records the new note's shortcode, path and address
+together. A half that carries a shortcode or address requires all three fields.
+
 A `place/world` name uses the published compound elements: `thurs-` and
 `-guard` form Thursguard, an enclosed world of giants. Both world note names
 and world concordance rows use that class. Earthly settlement names use the
@@ -98,3 +104,25 @@ be placed. `limits` records where a word's sense excludes a body or office.
 
 Run `node --test utils/nordmal-standing-coinages.test.mjs` for the standing
 contract, including rejected stale mappings and contradictory dispositions.
+
+## Rank-note scope
+
+An affiliation's `data.governance.ranks` ladder is authoritative for the standing
+it confers. A rung may stand on its title, level and description without a `lore`
+link. Keep a rank note where it explains substantial obligations or standing
+shared on the same terms; do not recreate composite notes merely to link a rung.
+
+Write `Where This Standing Is Held` as legal scope: the body that confers it,
+the family of bodies governed by that law, or the observance that admits it.
+Avoid handwritten counts and exhaustive lists of current users. A number belongs
+where it states a rule, such as seats in a council or trials for admission,
+rather than how many bodies or rungs currently cite a note. Named jurisdictions
+may define a law's boundary; make clear that they identify jurisdictions, not
+a tally of citing rungs.
+
+When editing a shared note, read every rung that cites its `shortcode`, including
+affiliations filed under `Regions`, and compare their descriptions with the
+note's obligations and scope. Also check any named legal boundary against its
+bodies' ladders, even when a body does not link the note. A rename must not
+require revising an unrelated usage inventory. Build the site with
+`npm run build:site` and inspect the emitted rank pages as well as the source.
