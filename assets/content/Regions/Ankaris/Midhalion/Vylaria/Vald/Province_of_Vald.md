@@ -99,6 +99,8 @@ Vald is the empire's seafront: a long worked coast of harbors, shipyards, curing
 
 Power is divided three ways among the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all. Since Harad's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Haradian trade and admirals who want Haradian blood.
 
+The province has been raided from the north once. In 523 a crew out of the Southern Fleets brought a captured galley through the western strait to the bay of [[place-braldvik|Braldvík]], lost it to a Castamar squadron whose fire burned the village's boats with it, and went to the imperial oars the next spring; the town still carries their name for it and still bills the admiralty for the boats.
+
 Trouble in Vald is maritime: smuggling and customs-running (a [[place-korsvik|Korsvik]] specialty), shipping intrigue and insurance fraud, naval politics and ship-money, piracy and wrecking along the lonelier coast, and foreign agents in the cosmopolitan ports.
 
 What is abundant is fish, ships, salt and foreign news. What is scarce is grain, which comes from the interior and from [[affiliation-provnchyln|Hylen]], and any love for the imperial tax-farmer.

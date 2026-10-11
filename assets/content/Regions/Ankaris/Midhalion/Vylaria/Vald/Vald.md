@@ -42,7 +42,7 @@ Geography sets Vald's pattern: two great cities and a working coast of fishing t
 **The four great fishing towns** (each ~5,000–10,000), strung along the coast and supplying fish to the capital and the interior:
 
 - [[place-ostvar|Ostvar]] (~8,000)—salt-fish and curing.
-- [[place-brennvik|Brennvik]] (~9,000)—the largest, deep-bay fishing and smoke-fish.
+- [[place-braldvik|Braldvík]] (~9,000)—the largest, deep-bay fishing and smoke-fish, and the one Nordmal name on the coast, left by a raiding crew stranded there in 523.
 - [[place-korsvik|Korsvik]] (~7,000)—deep-water crews and sea-beast oil.
 - [[place-saltholm|Saltholm]] (~6,000)—salt-pans and the curing of the lesser villages' catch.
 
