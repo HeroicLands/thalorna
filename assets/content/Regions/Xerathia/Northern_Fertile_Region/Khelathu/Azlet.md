@@ -2,7 +2,7 @@
 shortcode: azletssn
 name: {full: Azlet, aliases: [The Inundation]}
 type: lore
-subType: culture
+subType: custom
 description: "The season of the flood: four months in which the river rises over the fields and the year's work waits on it"
 tags: [generated]
 data: {packFolder: regkhcult}

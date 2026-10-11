@@ -2,7 +2,7 @@
 shortcode: vetrnaetr
 name: {full: Vetrnaetr, aliases: []}
 type: lore
-subType: culture
+subType: custom
 description: "The Winter Nights of late autumn, when households prepare for scarcity and honor the dead."
 tags: [asguardian]
 ---

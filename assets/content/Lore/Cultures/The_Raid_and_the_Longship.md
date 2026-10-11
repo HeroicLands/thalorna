@@ -2,7 +2,7 @@
 shortcode: nrdlndsraid
 name: {full: The Raid and the Longship, aliases: []}
 type: lore
-subType: culture
+subType: custom
 description: "How a Nordlands crew sails, reckons its share, fights and answers a kingdom's muster."
 tags: []
 ---

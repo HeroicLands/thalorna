@@ -2,7 +2,7 @@
 shortcode: jol
 name: {full: Jól, aliases: []}
 type: lore
-subType: culture
+subType: custom
 description: "The twelve nights of midwinter feasts, vigil and remembrance."
 tags: [asguardian]
 ---

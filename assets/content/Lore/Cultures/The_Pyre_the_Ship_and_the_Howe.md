@@ -2,7 +2,7 @@
 shortcode: nrdlndsfnrl
 name: {full: "The Pyre, the Ship and the Howe", aliases: [Nordheimn Funeral Rites]}
 type: lore
-subType: culture
+subType: custom
 description: "How the Nordmen bury their dead—the pyre, the ship-burial and the howe, who is laid how, and the grave-ale an heir drinks before taking the high seat."
 tags: [asguardian, draft]
 ---

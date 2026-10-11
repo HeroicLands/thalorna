@@ -2,7 +2,7 @@
 shortcode: sheluessn
 name: {full: Shelu, aliases: [The Harvest]}
 type: lore
-subType: culture
+subType: custom
 description: "The season of low water: four months of harvest, of building, and of the campaigns the dry roads allow"
 tags: [generated, draft]
 data: {packFolder: regkhcult}
