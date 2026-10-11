@@ -534,11 +534,19 @@ else. A title or epithet belongs inside it where that is how the person is
 named. A name written as a wikilink needs no bold, as _Mark every name_ sets
 out, and takes the colon after the link.
 
-**`creature`—a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, with `Presentation`, `Key Behaviors`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`.
+**`creature`—a being outside the other two roles.** [Abyssal Silt](../assets/content/Bestiary/Dreadspawn/Abyssal_Silt.md) illustrates a predatory creature. Use `Appearance` to make the first encounter sensory and recognizable without revealing what the creature intends or can secretly do. Use `Dossier` for the runner's account, which opens with a short passage on what the creature is and where it is found, then runs through `Presentation`, `In the Land`, `Key Behaviors`, `What the … Do`, `Signs`, `Combat Strategy`, `Attack Methods`, `Special Abilities`, and `Attributes`, in that order.
 
 **Presentation tells the GM how the creature presents in play.** It can describe its manner, movement, sounds, and apparent intentions, then explain what lies beneath that first impression and when a closer look or interaction reveals it. A creature may appear to be a warm, playful animal with soft fur and expressive eyes. Its `Appearance` can give players that honest first impression; `Presentation` can tell the GM that the fur secretes acid and the mouth hides razor-sharp teeth, along with observable clues and ways those traits come into view. This lets the GM portray a discovery rather than announce hidden facts at first sight. Keep the information about how to stage the creature here; put its actual attacks and special effects under `Attack Methods` and `Special Abilities`.
 
-Name the actual methods and abilities beneath their sections. Describe habitat, signs of presence, senses, feeding or social behavior, and the creature's relationship to nearby people and ecosystems. `Combat Strategy` explains what it tries to do and why; `Attack Methods` and `Special Abilities` explain what the runner can bring into play. Adjust the account to the being's actual nature: a creature can be social, intelligent, or capable of negotiation. Keep prose descriptions aligned with the mechanical record, especially where attributes or effects appear in both places. Do not invent behavior or powers simply to fill a heading.
+**In the Land says where the creature lives and how it fits its country.** Name the regions, ranges, roads, ruins, waters or settlements it holds, using links to the place notes, and say what it takes from them: the ground it hunts, shelters in or crosses, the season it moves, the other creatures and places it depends on or displaces. Placements that canon does not state are creative work and are welcome, provided they agree with the place notes they name.
+
+**What the … Do says what the local people do about the creature.** Name the people in the heading (`What the Tribes Do`, `What the Villages Do`, `What the Ratters Do`) and write what they actually do: the offering left, the road avoided, the trade that has grown up around it, the law, the song, the cost they count as the price of living there. Customs that canon does not state are creative work, and must agree with the culture and place notes they touch. Where no one in particular deals with the creature, `What People Do` serves.
+
+**Signs lists the evidence that gives the creature away before it is seen.** Write a bullet list of concrete, observable traces: tracks, kills, droppings, damage to ground or plants, sounds, smells, the behavior of other animals. Each bullet is one sign a traveler can notice and a GM can place.
+
+**Attack Methods lists exactly the strike modes on the creature's `sohl:` sheet.** Give each strike mode its own `###` heading carrying the strike mode's name, with a short account of how the creature uses it and what it does to the target. A bite, claw, pincer or stinger that has no strike mode is not listed here, and neither is an effect that is not a strike. Every other attack or effect (venom, a breath, a cry, a charge, a hold, a gaze) goes under `Special Abilities`, again with a `###` heading for each.
+
+Name the actual methods and abilities beneath their sections. Describe senses, feeding or social behavior, and the creature's relationship to nearby people and ecosystems. `Combat Strategy` explains what it tries to do and why; `Attack Methods` and `Special Abilities` explain what the runner can bring into play. Adjust the account to the being's actual nature: a creature can be social, intelligent, or capable of negotiation. Keep prose descriptions aligned with the mechanical record, especially where attributes or effects appear in both places. Do not invent behavior or powers simply to fill a heading.
 
 Every being uses this format:
 
@@ -588,23 +596,44 @@ The Abyssal Silt is a predatory ooze born from deep caverns and toxic marshlands
 
 ## Presentation
 
-TBD.
+The Abyssal Silt looks like a pool of dark water until it moves. A closer look shows the surface crawling against the wind and the edges of the pool drawing in.
+
+## In the Land
+
+It holds the flooded galleries of the deep caverns and the black pools of the toxic marshes, and it spreads along drains and seeps into ruins built over either.
 
 ## Key Behaviors
 
-TBD.
+It lies motionless for weeks, spreads under a victim's feet, and feeds on whatever stays still long enough.
+
+## What the Marsh People Do
+
+They mark the pools they have lost animals to with a ring of stakes and draw water only upstream of them.
+
+## Signs
+
+- Animal bones, clean of flesh, in a pool with no fish in it.
+- A ring of dead reeds around still water.
 
 ## Combat Strategy
 
-TBD.
+It waits for prey to enter it, then closes over the legs and holds.
 
 ## Attack Methods
 
-TBD.
+### Engulfing Touch
+
+The silt rises over a limb and clings, and the flesh beneath it softens.
 
 ## Special Abilities
 
-TBD.
+### Acid Secretion
+
+Its body eats through leather, cloth and wood in a few breaths.
+
+## Attributes
+
+- **Strength:** 11-16 (1d6+10)
 ```
 
 ### homepage
