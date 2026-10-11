@@ -23,8 +23,9 @@
  *
  * **Completeness.** A shortcode names a note, and a note has a path and an
  * address, so a half of a row that writes one of the three writes all three. A
- * half-filled row parses exactly like a full one, which is how four field pairs
- * sat empty for weeks with nothing noticing.
+ * prose-only half can instead carry a containing path named by a citation,
+ * without a shortcode or address. A half-filled note parses exactly like a
+ * full one, so completeness requires checking the fields together.
  *
  * **Historical truth.** Every `oldRefPaths` citation is read as
  * `rev:path:line:column` and resolved: the revision exists, the file exists at
@@ -304,10 +305,19 @@ export function checkCompleteness(rows, raw) {
     for (const row of rows) {
         const { line, column } = rowPosition(raw, row);
         const named = row.newName ?? row.oldName;
-        if (pathIsWhereItStands(row)) continue;
         for (const fields of HALVES) {
             const written = fields.filter((field) => filled(row[field]));
             if (!written.length || written.length === fields.length) continue;
+            // A prose-only half records its containing note, without claiming
+            // that note's shortcode or address. Citations identify that path.
+            if (
+                written.length === 1 &&
+                written[0] === fields[1] &&
+                (row.oldRefPaths ?? []).some(
+                    (citation) => CITATION.exec(String(citation))?.groups.file === row[fields[1]],
+                )
+            )
+                continue;
             const missing = fields.filter((field) => !filled(row[field]));
             out.push(
                 finding(

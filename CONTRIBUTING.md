@@ -80,6 +80,12 @@ Concordance source citations accept capitalization variants of a recorded name.
 Accents and specified columns remain exact; a note’s full name must match its
 concordance row. A live spelling does not belong in the retired alias list.
 
+A prose-only concordance half may carry its containing note's path without a
+shortcode or address, provided an `oldRefPaths` citation names that exact path.
+This applies independently to each half: a name that gains a note keeps its
+prose source in `oldPath` and records the new note's shortcode, path and address
+together. A half that carries a shortcode or address requires all three fields.
+
 A `place/world` name uses the published compound elements: `thurs-` and
 `-guard` form Thursguard, an enclosed world of giants. Both world note names
 and world concordance rows use that class. Earthly settlement names use the

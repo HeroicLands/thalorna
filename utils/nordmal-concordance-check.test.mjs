@@ -6,7 +6,57 @@
 import assert from "node:assert/strict";
 import { execFileSync } from "node:child_process";
 import test from "node:test";
-import { checkCitations } from "./nordmal-concordance-check.mjs";
+import { checkCitations, checkCompleteness } from "./nordmal-concordance-check.mjs";
+
+const proseRow = {
+    oldName: "Ragnar",
+    oldPath: "assets/content/People/Source.md",
+    oldRefPaths: ["main:assets/content/People/Source.md:10:1"],
+    newName: "Hugvin",
+    newShortcode: "hugvin",
+    newPath: "assets/content/People/Hugvin.md",
+    newAddress: "being-hugvin",
+};
+
+function completeness(row) {
+    return checkCompleteness([row], JSON.stringify({ entries: [row] }));
+}
+
+test("a cited prose source path remains valid when the name gains a note", () => {
+    assert.deepEqual(completeness(proseRow), []);
+});
+
+test("a name that lives only in prose carries cited containing paths", () => {
+    assert.deepEqual(
+        completeness({
+            ...proseRow,
+            newShortcode: null,
+            newPath: proseRow.oldPath,
+            newAddress: null,
+        }),
+        [],
+    );
+});
+
+test("a prose source path requires an exact citation path", () => {
+    for (const oldRefPaths of [[], ["main:assets/content/People/Source.md.backup:10:1"]]) {
+        assert.equal(completeness({ ...proseRow, oldRefPaths }).length, 1);
+    }
+});
+
+test("old note fields travel together even when its path has a citation", () => {
+    const oldNote = { ...proseRow, oldShortcode: "ragnar", oldAddress: "being-ragnar" };
+    assert.deepEqual(completeness(oldNote), []);
+    for (const field of ["oldShortcode", "oldPath", "oldAddress"]) {
+        assert.equal(completeness({ ...oldNote, [field]: null }).length, 1);
+    }
+});
+
+test("a prose name's new note fields travel together", () => {
+    for (const field of ["newShortcode", "newPath", "newAddress"]) {
+        assert.equal(completeness({ ...proseRow, [field]: null }).length, 1);
+    }
+});
 
 // Pin the original visible spelling. Later revisions also contain the valid ASCII
 // address `lore-nagengir`, which a whole-line source citation may legitimately find.
