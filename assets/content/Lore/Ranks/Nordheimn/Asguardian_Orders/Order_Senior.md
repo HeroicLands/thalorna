@@ -5,11 +5,11 @@ name:
   aliases: [Elder Hand, Elder Guardian, Storm-Captain, Hand of the Host]
 type: lore
 subType: law
-description: "Instructs candidates and sits in the body that chooses its order's chair, across the four Asguardian fighting orders."
+description: "Instructs candidates and sits in the body that chooses its order's chair, within the Asguardian fighting orders."
 tags: []
 ---
 
-Seniority in a sworn order brings candidates to teach, heavier stations to hold and a seat in the body that chooses the order's chair. Each of the four orders names the standing in its own way.
+Seniority in a sworn order brings candidates to teach, heavier stations to hold and a seat in the body that chooses the order's chair. Each order names the standing in its own way.
 
 ## What This Standing Is
 
@@ -33,4 +33,4 @@ A seat on the Council of Hands, the Chapter, or the equivalent body of whichever
 
 ## Where This Standing Is Held
 
-The four Asguardian fighting orders: the [[affiliation-eidhond|Order of the Sworn Hand]], the [[affiliation-gronverdir|Order of the Green Wardens]], the [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]], and the [[affiliation-thursborn|Order of the Giant's Children]].
+The Asguardian fighting orders, under each order's own vows and governing body. The standing confers no office in a sibling order.

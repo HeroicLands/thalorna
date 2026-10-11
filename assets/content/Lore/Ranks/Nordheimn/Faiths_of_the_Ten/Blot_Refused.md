@@ -3,7 +3,7 @@ shortcode: blotrefusedrnk
 name: {full: "Refused the Blót", aliases: []}
 type: lore
 subType: law
-description: "Declined the offering and the shared meal by a hof's godi, in the eight faiths of the Ten that keep the blót."
+description: "Declined the offering and the shared meal by a hof's godi, in the faiths of the Ten that keep the blót."
 tags: []
 ---
 
@@ -31,4 +31,4 @@ None.
 
 ## Where This Standing Is Held
 
-The eight faiths of the Ten that keep the blót: [[affiliation-odvar|Ódvar]], [[affiliation-thrunvald|Thrúnvald]], [[affiliation-eidgar|Eidgar]], [[affiliation-frodvin|Fródvin]], [[affiliation-solrun|Sólrún]], [[affiliation-velgrimr|Vélgrímr]], [[affiliation-svartbrandr|Svartbrandr]], and [[affiliation-motefnir|Mótefnir]], each under its own hof and its own godi.
+The faiths of the Ten that keep the blót, each under its own hof. The standing belongs to that hof's rites and clergy; it does not extend to devotions whose admission and authority rest on other observances.
