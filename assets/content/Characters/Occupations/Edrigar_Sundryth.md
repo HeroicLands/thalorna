@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Miner
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [falkensten]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, woodsman]
   occupation: Charcoaler
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [pelagora2]

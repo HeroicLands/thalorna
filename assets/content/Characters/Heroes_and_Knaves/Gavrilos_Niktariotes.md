@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Swordmaster
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [chrysamar]

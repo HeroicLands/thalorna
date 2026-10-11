@@ -6,7 +6,6 @@ subType: region
 description: The Byzarian League's southern frontier district—dry pastoral upland and hunting country on the caravan road from Yeşilhan toward Dunhara, held by Lord Vaskan for the League council.
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]

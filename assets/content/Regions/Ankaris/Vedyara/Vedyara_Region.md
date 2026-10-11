@@ -6,7 +6,6 @@ subType: region
 description: The southeastern subcontinent of Ankaris, bounded to the north by the world's highest mountain range and on three sides by seas, with river plains, a dry plateau, and monsoon coasts.
 tags: [region, endowed, held]
 data:
-  icon: null
   demonym: Vedyaran
   lore: [vedyariclt]
   parents: [ankrscntnnt]

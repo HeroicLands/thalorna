@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Glassworker
-  stations: []
   lore: []
   culture: haradianclt
   homes: [qadhirun]

@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Stable Master
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

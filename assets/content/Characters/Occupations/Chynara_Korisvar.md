@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Salter
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [chastelclr]

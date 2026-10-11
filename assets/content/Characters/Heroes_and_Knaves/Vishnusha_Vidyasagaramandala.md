@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Miner
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [dhanurkota]

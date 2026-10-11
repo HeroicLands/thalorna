@@ -6,7 +6,6 @@ subType: region
 description: "The unconquered tribal north, five nations known to the K'ich'chik only by the animals on their war-standards."
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [kchchkcntnnt]

@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Prostitute
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [vyalendra3]

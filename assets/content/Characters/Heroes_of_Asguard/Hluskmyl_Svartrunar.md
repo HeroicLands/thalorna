@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage]
   occupation: Necromancer
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

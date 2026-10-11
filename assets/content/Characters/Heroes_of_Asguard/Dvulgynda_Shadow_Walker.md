@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Thief and Spy
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

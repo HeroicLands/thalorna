@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Nobility (Knight Bachelor)
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [karatas2]

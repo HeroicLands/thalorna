@@ -5,13 +5,7 @@ type: place
 subType: region
 description: A small, jagged knot of frost-split mountains in the interior of Norgaad—five leagues of spires, scree, and ice, where mithral is rumored and expeditions go missing.
 tags: [region]
-data:
-  icon: null
-  demonym: null
-  lore: []
-  parents: [nrdlndsrgn]
-  population: null
-  packFolder: nordlands
+data: {demonym: null, lore: [], parents: [nrdlndsrgn], population: null, packFolder: nordlands}
 
 # terran_analog: "A compact alpine massif of the Norwegian or Swedish interior—the Sunnmøre Alps or the Kebnekaise group—a single shattered knot of peaks rather than a range."
 ---

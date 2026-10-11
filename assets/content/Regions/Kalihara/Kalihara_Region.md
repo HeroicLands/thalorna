@@ -6,7 +6,6 @@ subType: region
 description: The inhabited country of the Kalihara continent—jungle lowlands, volcanic highlands and river valleys, held by a single civilization that has faced inward for ten thousand years.
 tags: [region]
 data:
-  icon: null
   demonym: Kaliharan
   lore: [humanflk]
   parents: [klhrcntnnt]

@@ -12,7 +12,6 @@ data:
   templatePriority: null
   archetypes: [warrior, scholar]
   occupation: Shieldmaiden
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

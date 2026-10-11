@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Beggar
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [grimholt]

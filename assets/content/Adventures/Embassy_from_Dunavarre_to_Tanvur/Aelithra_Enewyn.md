@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [scholar, mage]
   occupation: Royal Loremaster
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [beravel]

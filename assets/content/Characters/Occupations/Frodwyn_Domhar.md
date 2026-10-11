@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, healer]
   occupation: Scholar
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [dunkelwald]

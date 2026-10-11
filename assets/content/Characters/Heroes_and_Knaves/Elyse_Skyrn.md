@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, healer]
   occupation: Alchemist
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elavendre]

@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: null
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar]
   occupation: Alchemist
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]

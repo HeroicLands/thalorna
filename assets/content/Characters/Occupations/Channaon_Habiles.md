@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Timberwright
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]

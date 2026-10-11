@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Courtier and Counselor
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

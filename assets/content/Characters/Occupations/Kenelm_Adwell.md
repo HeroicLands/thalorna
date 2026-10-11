@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Caravan Guard
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]

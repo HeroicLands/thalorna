@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage]
   occupation: Mage (Illusion)
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]

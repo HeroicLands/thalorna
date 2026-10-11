@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Toymaker
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [falkensten]

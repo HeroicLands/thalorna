@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: null
-  stations: []
   lore: []
   culture: provenzianclt
   homes: []

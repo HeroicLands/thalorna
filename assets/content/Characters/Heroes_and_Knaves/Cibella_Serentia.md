@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar]
   occupation: Ward
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [vylariargn]

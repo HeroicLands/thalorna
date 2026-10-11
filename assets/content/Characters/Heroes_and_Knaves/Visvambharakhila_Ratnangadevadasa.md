@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Chandler
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [chandrapur2]

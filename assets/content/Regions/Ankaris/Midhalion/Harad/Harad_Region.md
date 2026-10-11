@@ -5,13 +5,7 @@ type: place
 subType: region
 description: The Haradian archipelago in the eastern Vylarian Sea, off the coast of the Sultanate of Amradad—five merchant city-states of the Confederation of Haradian States, their islands of harbors, hills and scrub, and the channels between them.
 tags: [region]
-data:
-  icon: null
-  demonym: null
-  lore: []
-  parents: [midhalnrgn]
-  population: 12000000
-  packFolder: harad
+data: {demonym: null, lore: [], parents: [midhalnrgn], population: 12000000, packFolder: harad}
 
 # terran_analog: ""
 ---

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, trader]
   occupation: Clothier
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [tvarnmark]

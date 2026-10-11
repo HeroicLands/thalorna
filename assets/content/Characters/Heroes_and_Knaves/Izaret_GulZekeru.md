@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Intelligence Agent
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [khelzuret]

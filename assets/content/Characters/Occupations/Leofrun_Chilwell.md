@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [woodsman]
   occupation: Trapper
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]

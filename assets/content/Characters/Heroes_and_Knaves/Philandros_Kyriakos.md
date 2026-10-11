@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Herald
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [byzaris]

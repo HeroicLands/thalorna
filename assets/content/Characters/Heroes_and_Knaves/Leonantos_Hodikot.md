@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, warrior]
   occupation: Priest
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [chrysamar]

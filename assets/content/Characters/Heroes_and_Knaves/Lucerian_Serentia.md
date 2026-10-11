@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [healer, scholar]
   occupation: Physician
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [vylariargn]

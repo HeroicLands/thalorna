@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Agitator and Orator
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

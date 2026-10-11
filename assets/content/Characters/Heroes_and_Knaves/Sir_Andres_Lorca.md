@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Nobility (Knight Bachelor)
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]

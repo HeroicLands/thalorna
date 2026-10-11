@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mariner, warrior]
   occupation: Sailor and Warrior
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

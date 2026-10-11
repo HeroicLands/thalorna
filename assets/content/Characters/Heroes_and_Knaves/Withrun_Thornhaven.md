@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, woodsman]
   occupation: Warrior
-  stations: []
   lore: [foxttm, oxttm]
   culture: varokhiclt
   homes: [thornhaven]

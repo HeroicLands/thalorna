@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Labourer (semi-skilled)
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [valdes]

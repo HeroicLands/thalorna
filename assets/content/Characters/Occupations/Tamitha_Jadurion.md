@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Mason
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [pelagora2]

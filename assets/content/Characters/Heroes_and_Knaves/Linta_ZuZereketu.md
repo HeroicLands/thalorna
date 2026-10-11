@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [warrior, woodsman]
   occupation: Caravan Guard
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [garanlaghet]

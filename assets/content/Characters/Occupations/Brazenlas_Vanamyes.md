@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Embalmer
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

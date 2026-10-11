@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier, mage]
   occupation: Ambassador
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

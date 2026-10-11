@@ -11,7 +11,6 @@ data:
   templatePriority: null
   archetypes: []
   occupation: null
-  stations: []
   lore: []
   homes: []
   affiliations: {}

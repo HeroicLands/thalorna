@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader]
   occupation: Teamster
-  stations: []
   lore: []
   culture: dunhariclt
   homes: [tahrodan]

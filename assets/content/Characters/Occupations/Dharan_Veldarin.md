@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, warrior, mage]
   occupation: Priest
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elanmere]

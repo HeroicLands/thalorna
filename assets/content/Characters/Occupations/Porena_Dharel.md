@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Longshorewoman
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [portaelion]

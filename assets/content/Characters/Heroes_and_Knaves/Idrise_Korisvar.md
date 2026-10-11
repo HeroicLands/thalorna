@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, cleric]
   occupation: Bodyguard
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elanmere]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Man-at-Arms
-  stations: []
   lore: []
   culture: dunhariclt
   homes: [dunhardsrtrgn]

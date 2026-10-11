@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar]
   occupation: Astrologer
-  stations: []
   lore: []
   culture: kaliharanclt
   homes: [qasirah]

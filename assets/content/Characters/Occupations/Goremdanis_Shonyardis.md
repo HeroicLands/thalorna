@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Musician (Lyre)
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

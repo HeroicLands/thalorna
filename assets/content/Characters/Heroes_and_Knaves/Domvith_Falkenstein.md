@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, woodsman]
   occupation: Warrior
-  stations: []
   lore: [falconttm, wolfttm]
   culture: varokhiclt
   homes: [falkensten]

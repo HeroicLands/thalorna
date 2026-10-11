@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [healer, cleric]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: okharinclt
   homes: [shokumavlg]

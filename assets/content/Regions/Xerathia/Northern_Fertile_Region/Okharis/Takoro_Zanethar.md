@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier, cleric]
   occupation: king
-  stations: []
   lore: []
   culture: okharinclt
   homes: [okharisrgn]

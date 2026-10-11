@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Thespian
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, healer, mage]
   occupation: Shaman
-  stations: []
   lore: []
   culture: sowidesclt
   homes: [oasishirvn]

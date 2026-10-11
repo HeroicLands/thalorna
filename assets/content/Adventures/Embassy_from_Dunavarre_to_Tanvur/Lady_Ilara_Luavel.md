@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Noblewoman
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

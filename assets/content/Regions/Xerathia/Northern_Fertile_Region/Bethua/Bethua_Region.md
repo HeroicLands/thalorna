@@ -6,7 +6,6 @@ subType: region
 description: The central coast of Xerathia's northern shore, between Okháris and Aû'Khelâthu, and the engineered interior behind it—the widest and most reliable of the fertile littoral, held by the Matriarchy of Bethûa.
 tags: [region]
 data:
-  icon: null
   demonym: Bethûan
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]

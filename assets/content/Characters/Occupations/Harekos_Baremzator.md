@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Thatcher
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

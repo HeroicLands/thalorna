@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Potter
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [chrysamar]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Warrior and Judge
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

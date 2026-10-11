@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Perfumer
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [denizara2]

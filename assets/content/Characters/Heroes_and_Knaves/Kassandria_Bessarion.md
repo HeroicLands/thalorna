@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar]
   occupation: Mage (Lore)
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [byzaris]

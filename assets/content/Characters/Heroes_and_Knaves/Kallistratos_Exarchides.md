@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage]
   occupation: Mage (Fire)
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [velysara]

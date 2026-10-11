@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [healer]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

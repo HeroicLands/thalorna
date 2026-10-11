@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, infiltrator]
   occupation: Mercenary
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [torreviga]

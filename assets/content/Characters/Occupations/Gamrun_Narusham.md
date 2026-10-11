@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Swordmaster
-  stations: []
   lore: []
   culture: haradianclt
   homes: [qadhirun]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer, guildsperson]
   occupation: Thespian
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [valdun]

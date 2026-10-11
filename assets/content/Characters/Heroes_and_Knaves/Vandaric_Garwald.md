@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Brigand
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [vrystwald]

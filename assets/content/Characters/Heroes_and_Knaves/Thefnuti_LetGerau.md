@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Toymaker
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

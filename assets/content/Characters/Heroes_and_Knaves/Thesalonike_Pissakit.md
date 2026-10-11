@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [woodsman]
   occupation: Woodcutter
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [yesilhan2]

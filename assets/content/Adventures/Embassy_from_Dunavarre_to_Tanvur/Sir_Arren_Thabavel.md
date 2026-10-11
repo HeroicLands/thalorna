@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Knight
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

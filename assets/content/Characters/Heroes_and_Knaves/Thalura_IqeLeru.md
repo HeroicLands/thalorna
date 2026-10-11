@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [cleric]
   occupation: Priest
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]

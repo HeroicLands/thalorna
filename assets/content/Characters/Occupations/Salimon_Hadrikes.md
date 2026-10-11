@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Scholar
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [theradon2]

@@ -6,7 +6,6 @@ subType: region
 description: Ungoverned highland forests of the Peshtar tribes—animist, druidic, and fiercely independent within the Misty Isle of Aelwyth.
 tags: [region]
 data:
-  icon: null
   demonym: Peshtar
   lore: [humanflk]
   parents: [aelwyth]

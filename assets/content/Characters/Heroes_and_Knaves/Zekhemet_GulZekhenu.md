@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [mariner, trader]
   occupation: Pilot
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [khelzuret]

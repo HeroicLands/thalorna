@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader, courtier]
   occupation: Locksmith
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [thalassos]

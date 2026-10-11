@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Hideworker
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elanmere]

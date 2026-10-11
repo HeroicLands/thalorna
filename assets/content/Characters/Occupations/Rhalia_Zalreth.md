@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: Pilot
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [liranel]

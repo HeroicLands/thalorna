@@ -6,7 +6,6 @@ subType: region
 description: "The southern reaches of K'ich'chik, where mountains give way to a garrison plateau, a poisoned threshold and the forsaken wastes."
 tags: [region, draft]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [kchchkcntnnt]

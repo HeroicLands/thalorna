@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Nobility (Tenant-in-chief)
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

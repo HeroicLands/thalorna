@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, woodsman]
   occupation: Timberwright
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [selimara]

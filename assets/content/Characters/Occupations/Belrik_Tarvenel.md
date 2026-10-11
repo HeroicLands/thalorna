@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, woodsman]
   occupation: Man-at-Arms
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elavendre]

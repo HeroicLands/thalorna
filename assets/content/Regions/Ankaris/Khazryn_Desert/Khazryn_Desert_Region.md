@@ -6,7 +6,6 @@ subType: region
 description: The largest and emptiest country of Ankaris—desert and dry grassland more than two thousand miles across, crossed by one camel road that the tribes sell by the mile, with dead cities under its sand and an old people clinging to the foot of the Grazian Mountains.
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [ankrscntnnt]

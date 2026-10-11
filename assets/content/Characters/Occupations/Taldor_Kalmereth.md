@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: Fisher
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [elanmere]

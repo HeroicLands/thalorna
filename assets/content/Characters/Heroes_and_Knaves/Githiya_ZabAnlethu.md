@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Domestic Servant
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]

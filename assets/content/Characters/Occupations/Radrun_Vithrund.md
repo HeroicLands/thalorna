@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Prostitute
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [grimholt]

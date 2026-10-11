@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier, scholar]
   occupation: Herald
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [valdosta]

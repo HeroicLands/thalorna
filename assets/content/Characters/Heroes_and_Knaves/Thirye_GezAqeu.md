@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Thespian
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]

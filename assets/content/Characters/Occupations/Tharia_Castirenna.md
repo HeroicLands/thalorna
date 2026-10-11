@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Domestic Servant
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [solarden]

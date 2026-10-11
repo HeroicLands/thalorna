@@ -6,7 +6,6 @@ subType: region
 description: The Byzarian League's eastern frontier district—the mountain passes beyond Gümüşhisar and the steppe margin below them, held by the Lord Commander and the League's joint army against the tribes of the Khazryn steppe.
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [byzariargn]

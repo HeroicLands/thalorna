@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Locksmith
-  stations: []
   lore: []
   culture: haradianclt
   homes: [kethara2]

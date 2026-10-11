@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: King
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [gnarthborg]

@@ -6,7 +6,6 @@ subType: region
 description: The southern margin of Xerathia's fertile belt—hot, rain-fed forest, river valleys and grassland in the west, drying eastward to semi-arid savanna at the Bethûa border, held by the three temple-cities of Okháris and the village tribes that owe them fealty.
 tags: [region]
 data:
-  icon: null
   demonym: Okháric
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]

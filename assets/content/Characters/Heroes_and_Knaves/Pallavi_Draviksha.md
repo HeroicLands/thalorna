@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, artisan]
   occupation: Scribe
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [vyalendra3]

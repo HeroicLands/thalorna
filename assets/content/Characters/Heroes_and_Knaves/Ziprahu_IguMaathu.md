@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Locksmith
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

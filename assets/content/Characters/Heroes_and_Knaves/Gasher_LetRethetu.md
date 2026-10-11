@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Musician (Lyre)
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

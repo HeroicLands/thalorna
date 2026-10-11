@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Timberwright
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [khelzuret]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, artisan]
   occupation: Cartographer/Artist
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [valdosta]

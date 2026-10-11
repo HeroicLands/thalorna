@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Mercenary
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [chrysamar]

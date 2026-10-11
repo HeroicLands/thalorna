@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Fool
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [rajapur]

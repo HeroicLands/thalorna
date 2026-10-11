@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [cleric]
   occupation: Chaplain
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [healer]
   occupation: Physician
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [ashford]

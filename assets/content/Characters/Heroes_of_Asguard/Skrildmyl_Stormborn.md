@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Warrior and Clan Leader
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

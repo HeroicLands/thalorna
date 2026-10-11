@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [cleric, scholar]
   occupation: Priest
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

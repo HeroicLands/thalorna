@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Cook
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [denizara2]

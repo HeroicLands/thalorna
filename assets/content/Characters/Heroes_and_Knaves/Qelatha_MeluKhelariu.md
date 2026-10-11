@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [skirmisher, woodsman]
   occupation: Yeoman Archer
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

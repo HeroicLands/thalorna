@@ -6,7 +6,6 @@ subType: region
 description: Vast southern desert of tribal confederations, oral tradition, and the fire-and-light faith of the Āsháian Pantheon.
 tags: [region]
 data:
-  icon: null
   demonym: Dunharan
   lore: [humanflk]
   parents: [ankrscntnnt]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Bodyguard
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [dvarnvik]

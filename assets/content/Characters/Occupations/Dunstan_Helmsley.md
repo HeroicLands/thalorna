@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Chieftain
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [ashford]

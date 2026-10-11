@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, artisan]
   occupation: Man-at-Arms (Sapper)
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]

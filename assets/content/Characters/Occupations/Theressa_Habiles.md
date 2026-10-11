@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Prostitute
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [theradon2]

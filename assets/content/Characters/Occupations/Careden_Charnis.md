@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric]
   occupation: Shaman
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [monverdre]

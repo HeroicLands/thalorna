@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [healer, woodsman]
   occupation: null
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]

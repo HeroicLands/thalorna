@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [cleric, mage]
   occupation: Shaman
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [gnaldrfjord]

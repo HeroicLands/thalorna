@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator, courtier]
   occupation: Intelligence Officer
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [magnapolis]

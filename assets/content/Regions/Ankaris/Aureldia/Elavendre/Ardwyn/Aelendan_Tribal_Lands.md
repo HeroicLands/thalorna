@@ -6,7 +6,6 @@ subType: region
 description: Mountainous interior of Élavendre, sovereign to the Áelendan tribal confederation—Pelwar forest-dwellers who keep the Old Way.
 tags: [region]
 data:
-  icon: null
   demonym: Áelendan
   lore: [humanflk]
   parents: [ardwyn]

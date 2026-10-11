@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Woodcrafter
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [rajapur]

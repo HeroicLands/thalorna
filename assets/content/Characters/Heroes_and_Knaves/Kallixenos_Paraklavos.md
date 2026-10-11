@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, courtier]
   occupation: Litigant
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [kostaros]

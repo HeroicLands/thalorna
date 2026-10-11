@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Animal Trainer
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [gumushisar2]

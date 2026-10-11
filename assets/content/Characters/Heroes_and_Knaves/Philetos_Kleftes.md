@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [scholar, warrior]
   occupation: Scholar
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [alyssar]

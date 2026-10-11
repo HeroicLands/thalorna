@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Ostler
-  stations: []
   lore: []
   culture: dunhariclt
   homes: [tahrodan]

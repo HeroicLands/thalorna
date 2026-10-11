@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Musician (Lute)
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [thalassos]

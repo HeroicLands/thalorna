@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Weaponcrafter (Armorer)
-  stations: []
   lore: []
   culture: khazrynclt
   homes: [kethramir]

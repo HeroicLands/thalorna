@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Sellsword
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [vrystwald]

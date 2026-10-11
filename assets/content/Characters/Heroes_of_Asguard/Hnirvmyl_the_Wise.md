@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, mage]
   occupation: Seer and Runemaster
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: Ship Captain
-  stations: []
   lore: []
   culture: haradianclt
   homes: [haradregin]

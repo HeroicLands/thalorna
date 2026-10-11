@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Warrior and Defender
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

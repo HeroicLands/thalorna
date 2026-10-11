@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Huscarl
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [thornbury]

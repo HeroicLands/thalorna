@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Nobility (Courtier)
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

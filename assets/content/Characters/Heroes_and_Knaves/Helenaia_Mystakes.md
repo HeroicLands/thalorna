@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, healer]
   occupation: Priest
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [karatas2]

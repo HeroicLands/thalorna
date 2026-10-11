@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Gaoler
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]

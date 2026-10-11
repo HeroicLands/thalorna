@@ -6,7 +6,6 @@ subType: region
 description: A landlocked concentration of Grukar nests amid dense mixed forest, vast marshlands and slow rivers, between the Vrystwald and Velanthian reaches.
 tags: [region]
 data:
-  icon: null
   demonym: Grukari
   lore: [grukarfolk]
   parents: [ankrscntnnt]

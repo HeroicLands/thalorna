@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Guard
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nalthmark]

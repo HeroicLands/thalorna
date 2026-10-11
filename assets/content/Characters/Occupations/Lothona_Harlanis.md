@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Town Guard
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [vylariargn]

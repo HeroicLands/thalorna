@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [healer]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [rajapur]

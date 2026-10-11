@@ -6,7 +6,6 @@ subType: region
 description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.
 tags: [region]
 data:
-  icon: null
   demonym: Tānvüri
   lore: [humanflk]
   parents: [ankrscntnnt]

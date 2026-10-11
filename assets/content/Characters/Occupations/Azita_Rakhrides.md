@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader]
   occupation: Mercantyler
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [kalydria2]

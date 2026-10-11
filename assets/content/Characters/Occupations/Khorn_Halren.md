@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Yeoman Infantry
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [liranel]

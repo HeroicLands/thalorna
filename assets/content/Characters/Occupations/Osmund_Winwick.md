@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader, mariner]
   occupation: Mercantyler (Supercargo)
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [thornbury]

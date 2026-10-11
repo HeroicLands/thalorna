@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [skirmisher, woodsman]
   occupation: Hunter / Scout
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [provenzrgn]

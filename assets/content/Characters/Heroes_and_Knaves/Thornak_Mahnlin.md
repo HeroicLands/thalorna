@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [skirmisher, woodsman]
   occupation: Hunter
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]

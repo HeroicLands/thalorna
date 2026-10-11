@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, healer, mage]
   occupation: Scholar
-  stations: []
   lore: []
   culture: bethuanclt
   homes: [ashira]

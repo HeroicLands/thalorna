@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Mason
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [valdes]

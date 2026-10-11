@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Courtesan
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [valdun]

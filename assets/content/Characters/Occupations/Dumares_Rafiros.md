@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, courtier]
   occupation: Priest
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [korinthea2]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, woodsman]
   occupation: Farmer and Protector
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Shipwright
-  stations: []
   lore: []
   culture: haradianclt
   homes: [haradregin]

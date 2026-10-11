@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Bard
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]

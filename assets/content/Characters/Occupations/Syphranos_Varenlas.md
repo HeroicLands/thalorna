@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Gladiator
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [belekos]

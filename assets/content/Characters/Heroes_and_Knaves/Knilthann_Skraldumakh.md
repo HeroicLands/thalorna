@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Skald
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [tvalgard]

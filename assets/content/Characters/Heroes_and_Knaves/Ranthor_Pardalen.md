@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, warrior]
   occupation: Shaman
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [valdun]

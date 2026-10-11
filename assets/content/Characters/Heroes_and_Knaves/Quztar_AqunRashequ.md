@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Thatcher
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

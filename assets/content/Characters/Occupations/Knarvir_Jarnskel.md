@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, cleric]
   occupation: Mage (Spirit)
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [thraldfjord]

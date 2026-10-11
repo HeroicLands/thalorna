@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, infiltrator]
   occupation: Locksmith
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

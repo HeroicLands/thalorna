@@ -6,7 +6,6 @@ subType: region
 description: The open desert of the Dunhara beyond the settled cities—sand seas, mesas and oases held by no fixed border, ranged by the tribal confederations of the Dunhari.
 tags: [region]
 data:
-  icon: null
   demonym: Dunharan
   lore: [humanflk]
   parents: [dunharargn]

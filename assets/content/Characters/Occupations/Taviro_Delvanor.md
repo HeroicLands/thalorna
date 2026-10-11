@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: Common Seaman
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [valdes]

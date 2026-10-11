@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar, courtier]
   occupation: Astrologer
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [lunacorte]

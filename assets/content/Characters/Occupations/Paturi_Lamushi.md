@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [guildsperson]
   occupation: Cook
-  stations: []
   lore: []
   culture: haradianclt
   homes: [azhun2]

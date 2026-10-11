@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [guildsperson]
   occupation: Innkeeper
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [aelissium]

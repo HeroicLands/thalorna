@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, skirmisher]
   occupation: Raider Warlord
-  stations: []
   lore: []
   culture: bethuanclt
   homes: [bethuargn]

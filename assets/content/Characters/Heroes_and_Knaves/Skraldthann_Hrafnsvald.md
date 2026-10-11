@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Clothier
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [vrathavn]

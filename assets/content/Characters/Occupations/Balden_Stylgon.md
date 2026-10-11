@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar, courtier]
   occupation: Skald
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [aureliane]

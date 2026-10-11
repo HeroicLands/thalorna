@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [skirmisher, woodsman]
   occupation: Brigand
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [vrystwald]

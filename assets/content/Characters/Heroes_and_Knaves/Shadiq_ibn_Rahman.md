@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [courtier, trader]
   occupation: Nobility (Courtier)
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [karatas2]

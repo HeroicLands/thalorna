@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Labourer (unskilled)
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [liranel]

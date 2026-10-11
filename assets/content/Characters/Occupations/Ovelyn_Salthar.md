@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Chandler
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [liranel]

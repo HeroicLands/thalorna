@@ -6,7 +6,6 @@ subType: region
 description: The great inland sea at the heart of Mídhalión—highway of empire, maritime artery of the Aurèldían and Āsháian faiths.
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: []
   parents: [ankrscntnnt, xerathia]

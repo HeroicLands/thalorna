@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [woodsman, warrior]
   occupation: Woodsman and Guardian
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

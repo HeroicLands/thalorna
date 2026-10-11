@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: Knight-Captain
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

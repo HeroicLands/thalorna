@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Yeoman Infantry
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [kalydria2]

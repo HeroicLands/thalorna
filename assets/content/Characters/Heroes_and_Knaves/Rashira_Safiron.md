@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Grammatíssa (Records-Keeper)
-  stations: []
   lore: []
   culture: bethuanclt
   homes: [bethura]

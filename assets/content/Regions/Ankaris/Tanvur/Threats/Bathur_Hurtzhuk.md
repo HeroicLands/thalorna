@@ -11,7 +11,6 @@ data:
   templatePriority: null
   archetypes: [warrior, skirmisher]
   occupation: null
-  stations: []
   lore: []
   culture: tanvuriclt
   homes: []

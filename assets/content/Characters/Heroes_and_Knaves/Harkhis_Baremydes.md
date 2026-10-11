@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [healer, scholar]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [belekos]

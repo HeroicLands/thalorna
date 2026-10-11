@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [courtier, infiltrator]
   occupation: Diplomatic Aide
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

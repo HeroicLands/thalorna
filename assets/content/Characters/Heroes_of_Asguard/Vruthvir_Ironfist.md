@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, warrior]
   occupation: Blacksmith and Warrior
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

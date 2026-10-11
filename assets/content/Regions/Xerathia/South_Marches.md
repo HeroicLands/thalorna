@@ -6,7 +6,6 @@ subType: region
 description: The dry borderlands south of Bethûa—hot chaparral and scrub between the matriarchy's settled frontier and the rainforest margin, ranged by pastoral nomad clans who pay Bethûa tribute and keep their own ways.
 tags: [region]
 data:
-  icon: null
   demonym: Marcher
   lore: [humanflk]
   parents: [xerathia]

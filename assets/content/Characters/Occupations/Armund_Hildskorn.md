@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Jester
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [falkensten]

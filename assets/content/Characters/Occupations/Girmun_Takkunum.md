@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [healer]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: haradianclt
   homes: [azhun2]

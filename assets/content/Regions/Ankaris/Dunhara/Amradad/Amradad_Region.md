@@ -6,7 +6,6 @@ subType: region
 description: The settled north-western corner of the Dunhara, on the eastern shore of the Vylarian Sea—walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
 tags: [region]
 data:
-  icon: null
   demonym: Amradi
   lore: [humanflk]
   parents: [dunharargn]

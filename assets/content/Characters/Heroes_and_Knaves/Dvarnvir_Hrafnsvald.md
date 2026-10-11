@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, warrior]
   occupation: Tentmaker
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [knarvik]

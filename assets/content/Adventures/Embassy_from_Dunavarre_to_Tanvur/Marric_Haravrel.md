@@ -8,7 +8,6 @@ data:
   templatePriority: null
   archetypes: [warrior, infiltrator]
   occupation: Sergeant-at-Arms
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: []

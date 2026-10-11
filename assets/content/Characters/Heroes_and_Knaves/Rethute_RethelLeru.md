@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [guildsperson]
   occupation: Innkeeper
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, healer]
   occupation: Mage (Healing)
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [chrysamar]

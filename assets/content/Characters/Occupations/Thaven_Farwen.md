@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: Bosun
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [chastelclr]

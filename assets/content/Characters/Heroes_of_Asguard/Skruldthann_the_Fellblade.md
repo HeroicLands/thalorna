@@ -12,7 +12,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Helspawn Warlord
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

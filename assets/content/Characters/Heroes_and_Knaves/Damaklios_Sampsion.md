@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan, scholar]
   occupation: Cartographer/Artist
-  stations: []
   lore: []
   culture: byzarianclt
   homes: [karatas2]

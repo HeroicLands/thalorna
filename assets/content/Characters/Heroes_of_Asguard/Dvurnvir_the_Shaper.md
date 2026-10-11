@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [mage, scholar]
   occupation: Alchemist and Scholar
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

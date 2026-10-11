@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [warrior, skirmisher]
   occupation: Bounty Hunter
-  stations: []
   lore: []
   culture: bethuanclt
   homes: [bethura]

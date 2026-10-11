@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Clothier
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [pelagora2]

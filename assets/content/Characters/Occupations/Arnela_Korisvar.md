@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Nobility (Manor Lord)
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [fiordaure]

@@ -6,7 +6,6 @@ subType: region
 description: The frozen fjord-lands of northern Ankaris—homeland of the Nordmen, seafarers and raiders of the Asguardian faith.
 tags: [region]
 data:
-  icon: null
   demonym: Nordmen
   lore: [nordheimnclt]
   parents: [ankrscntnnt]

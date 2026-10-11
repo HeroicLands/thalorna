@@ -6,7 +6,6 @@ subType: region
 description: The Jürthāti archipelago—a ring of nine volcanic islands east of Tānvür, sovereign home of the feudal kingdom of Jürthāt.
 tags: [region]
 data:
-  icon: null
   demonym: Jürthāti
   lore: [humanflk]
   parents: [ankrscntnnt]

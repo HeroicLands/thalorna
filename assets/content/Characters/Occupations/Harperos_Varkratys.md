@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [skirmisher]
   occupation: Yeoman Archer
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [woodsman]
   occupation: Herder
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]

@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Shipwright
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [tvarnmark]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Scout / Spy
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]

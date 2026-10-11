@@ -6,7 +6,6 @@ subType: region
 description: "The heartland of K'ich'chik, four realms of pyramid-cities, observatories and trade roads bound by one priesthood."
 tags: [region, draft]
 data:
-  icon: null
   demonym: null
   lore: [humanflk]
   parents: [kchchkcntnnt]

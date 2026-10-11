@@ -6,7 +6,6 @@ subType: region
 description: Aû'Khelâthu's disputed northern desert-march—the dry country beyond the eastern border selatu, held for the caravan road to Dunhara and the Khazryn and for the depth it puts between the empire and its eastern neighbors, and never made a selat.
 tags: [region]
 data:
-  icon: null
   demonym: Khelâthi
   lore: [humanflk]
   parents: [aukhelathrgq]

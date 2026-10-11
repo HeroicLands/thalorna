@@ -13,7 +13,6 @@ data:
   templatePriority: null
   archetypes: [artisan, scholar]
   occupation: Cartographer/Artist
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]

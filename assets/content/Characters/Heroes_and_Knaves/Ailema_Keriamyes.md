@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Scribe
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [corvinus]

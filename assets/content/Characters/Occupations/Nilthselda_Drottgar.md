@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [healer]
   occupation: Apothecary
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [raltholm]

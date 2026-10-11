@@ -6,7 +6,6 @@ subType: region
 description: The great river valley and delta of Xerathia's northern shore—a band of flood-fed abundance running hundreds of leagues inland, and the seat of the Empire of Aû'Khelâthu.
 tags: [region]
 data:
-  icon: null
   demonym: Khelâthi
   lore: [humanflk]
   parents: [nrthrnfrtlrgn, xerathia]

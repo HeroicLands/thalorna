@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Innkeeper
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [waldburg]

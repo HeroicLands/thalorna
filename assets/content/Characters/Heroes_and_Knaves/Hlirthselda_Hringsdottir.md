@@ -12,7 +12,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Huscarl
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [vrathavn]

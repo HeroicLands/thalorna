@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, scholar, courtier]
   occupation: Judge and Lawman
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

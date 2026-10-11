@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Shipwright
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [solarden]

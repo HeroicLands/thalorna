@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Longshoreman
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [horgsvangr]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [entertainer]
   occupation: Musician (Drums)
-  stations: []
   lore: []
   culture: vylarianclt
   homes: [belekos]

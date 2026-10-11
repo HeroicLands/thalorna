@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Labourer (farm)
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [raltholm]

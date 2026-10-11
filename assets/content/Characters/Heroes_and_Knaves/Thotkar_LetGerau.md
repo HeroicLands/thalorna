@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [scholar, courtier]
   occupation: Litigant
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [amqelulegez]

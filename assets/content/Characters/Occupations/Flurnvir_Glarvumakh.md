@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Jeweller
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [kraldstead]

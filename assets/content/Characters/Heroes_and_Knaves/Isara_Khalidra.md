@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [courtier]
   occupation: Courtesan
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [helionis]

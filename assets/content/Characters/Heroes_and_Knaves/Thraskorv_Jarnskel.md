@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Farmer
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]

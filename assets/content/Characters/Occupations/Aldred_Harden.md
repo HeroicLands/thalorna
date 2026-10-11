@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader]
   occupation: Mercantyler
-  stations: []
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]

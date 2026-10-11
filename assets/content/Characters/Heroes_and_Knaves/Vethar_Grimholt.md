@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [cleric, woodsman]
   occupation: Shaman
-  stations: []
   lore: [sturgeonttm, owlttm, sturgeonroad]
   culture: varokhiclt
   homes: [grimholt]

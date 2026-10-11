@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, mariner]
   occupation: Man-at-Arms
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [athenikos2]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Ratter
-  stations: []
   lore: []
   culture: elavendriclt
   homes: [silvain]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [woodsman]
   occupation: Animal Trainer
-  stations: []
   lore: []
   culture: sowidesclt
   homes: [oasishirvn]

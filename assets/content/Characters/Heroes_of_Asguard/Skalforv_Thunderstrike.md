@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior]
   occupation: Champion
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

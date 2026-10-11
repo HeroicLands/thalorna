@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [mariner]
   occupation: First Mate
-  stations: []
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]

@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [commoner]
   occupation: Beggar
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [dvalgheim]

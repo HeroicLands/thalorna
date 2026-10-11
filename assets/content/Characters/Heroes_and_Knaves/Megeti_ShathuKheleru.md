@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [scholar, courtier]
   occupation: Bureaucrat
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [khelzuret]

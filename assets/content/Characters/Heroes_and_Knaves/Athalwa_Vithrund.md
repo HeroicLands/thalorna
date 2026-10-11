@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [warrior, courtier]
   occupation: War Chief
-  stations: []
   lore: []
   culture: varokhiclt
   homes: [eichengrnd]

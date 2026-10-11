@@ -10,7 +10,6 @@ data:
   templatePriority: null
   archetypes: [scholar]
   occupation: Scholar
-  stations: []
   lore: []
   culture: khelathiclt
   homes: [galezkara]

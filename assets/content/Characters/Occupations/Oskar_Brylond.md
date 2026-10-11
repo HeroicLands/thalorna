@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [trader, courtier]
   occupation: Mercantyler
-  stations: []
   lore: []
   culture: provenzianclt
   homes: [fiordaure]

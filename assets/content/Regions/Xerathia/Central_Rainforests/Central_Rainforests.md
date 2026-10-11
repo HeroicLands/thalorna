@@ -6,7 +6,6 @@ subType: region
 description: Trackless equatorial jungle at the heart of Xerathia—teeming with life, disease, and scattered tribes whose spirit-traditions resist outside systematization.
 tags: [region]
 data:
-  icon: null
   demonym: null
   lore: [humanflk, flksinale]
   parents: [xerathia]

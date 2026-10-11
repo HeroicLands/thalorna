@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier, warrior]
   occupation: Nobility (Tenant-in-chief)
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [myrtillos]

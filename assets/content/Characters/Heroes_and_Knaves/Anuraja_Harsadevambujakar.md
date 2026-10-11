@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Assassin
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [chandrapur2]

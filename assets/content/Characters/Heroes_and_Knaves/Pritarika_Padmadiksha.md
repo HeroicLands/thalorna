@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [courtier, scholar]
   occupation: Nobility (Manor Lord)
-  stations: []
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]

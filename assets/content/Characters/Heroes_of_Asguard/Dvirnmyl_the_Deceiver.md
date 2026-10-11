@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [infiltrator]
   occupation: Thief and Con Artist
-  stations: []
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]

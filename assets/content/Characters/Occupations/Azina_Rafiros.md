@@ -9,7 +9,6 @@ data:
   templatePriority: null
   archetypes: [artisan]
   occupation: Embalmer
-  stations: []
   lore: []
   culture: helioniteclt
   homes: [theradon2]
