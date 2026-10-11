@@ -32,7 +32,9 @@
  *
  * Only first-column cells that are words are compared: a form needs at least
  * three letters after normalization, so single letters, digraphs in phonology
- * tables, suffix stubs, punctuation and numbers are skipped. A skeleton is
+ * tables, punctuation and numbers are skipped. A suffix or an ending written
+ * with its opening hyphen (`-ândis`) is bound and never stands as a word, so it
+ * is skipped at any length; the words built with it are compared. A skeleton is
  * exempt from the length floor because its radicals are the letters. A table
  * whose first header cell is `Class` or `Tongue` lists a lexicon's labels for
  * word classes and name tongues, not words, and is skipped.
@@ -128,6 +130,7 @@ export function extractForms(text, forceSkeleton = false) {
         const match = /^\s*\|\s*`([^`]+)`/.exec(raw);
         if (!match) return;
         const form = match[1];
+        if (form.startsWith("-")) return;
         const skeleton = forceSkeleton || SKELETON_SHAPE.test(form);
         const length = normalize(form).length;
         if (length === 0 || (!skeleton && length < MIN_FORM_LENGTH)) return;

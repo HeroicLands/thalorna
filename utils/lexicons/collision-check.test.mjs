@@ -96,6 +96,19 @@ test("a table of class or tongue labels is not compared", () => {
     );
 });
 
+test("a suffix or an ending, written with its opening hyphen, is not compared", () => {
+    const bound = path.join(dir, "bound.md");
+    fs.writeFileSync(
+        bound,
+        "| Suffix | Makes |\n| --- | --- |\n| `-belmo` | a suffix |\n| `belmo` | a word |\n",
+    );
+    const { err } = run(["--wordlists", lists, bound]);
+    assert.deepEqual(
+        err.map((line) => line.replace(/^.*?:(\d+):.*$/, "$1")),
+        ["4"],
+    );
+});
+
 test("skeleton mode matches a skeleton against a root", () => {
     const { err } = run(["--wordlists", lists, "--skeleton-lists", "fixa", note]);
     const text = err.join("\n");
