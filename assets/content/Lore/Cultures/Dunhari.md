@@ -15,7 +15,7 @@ A tribe is led by a sheikh whose authority rests on hereditary legitimacy, perso
 
 ## Salt
 
-Hospitality is sacred and it is not a sentiment. A Dunhari tribe is obliged to protect a stranger who has eaten its salt—against its own kin, against a rival tribe, at the cost of open war if it comes to that, and without regard to who the stranger turns out to be.
+Hospitality is sacred, and it is a law before it is a kindness. A Dunhari tribe is obliged to protect a stranger who has eaten its salt—against its own kin, against a rival tribe, at the cost of open war if it comes to that, and without regard to who the stranger turns out to be.
 
 The rule is absolute because a qualified rule would be worthless. A desert in which shelter depended on the traveler's identity would be a desert nobody could cross, and the Dunhari have understood this for as long as they have had poetry about it. A tribe that gave up a guest would not recover in a generation.
 
@@ -23,9 +23,9 @@ The obligation has limits in time and not in kind: it begins with the salt and r
 
 ## The Feud and the Ending of It
 
-Blood-feud can span generations, and a foreigner usually stops reading there and concludes the Dunhari are lawless. The opposite is true. The terms for concluding a feud are precisely codified—restitution in stock, intermarriage, shared pilgrimage, the formal apology of a sheikh to a sheikh—and the codification is the point.
+Blood-feud can span generations, and foreigners who hear that much conclude that the Dunhari are lawless. They have it backwards. Every way of ending a feud is set down precisely—restitution in stock, intermarriage, a shared pilgrimage, the formal apology of a sheikh to a sheikh—and that precision is what the law is for.
 
-A feud is not chaos. It is a state of affairs with known exits, and the whole art of a sheikh's life is finding the exit that costs his tribe least standing. Poets are consulted on precedent, elders argue the rate, and the settlement once made is recited publicly and thereafter binding.
+A feud is a state of affairs with known exits, and the whole art of a sheikh's life is finding the exit that costs his tribe least standing. Poets are consulted on precedent, elders argue the rate, and the settlement once made is recited publicly and thereafter binding.
 
 ## Reputation, and How It Is Lost
 
@@ -35,7 +35,7 @@ A tribe can be shamed as a tribe, and restoring the standing of one may take dec
 
 ## The Poets
 
-Dunhari oral tradition is one of the wonders of Thalorna, and the poets are not entertainers. They are the keepers of law and identity, holding genealogies, histories, legal precedent, and the terms of treaties with other tribes and with distant empires, all preserved in verse and transmitted across generations.
+Dunhari oral tradition is one of the wonders of Thalorna, and the poets who carry it are the keepers of law and identity, holding genealogies, histories, legal precedent, and the terms of treaties with other tribes and with distant empires, all preserved in verse and transmitted across generations.
 
 A poet can recite for days without repetition. The ability to compose and recite is a mark of nobility, and a sheikh who cannot do it adequately is at a permanent disadvantage against one who can. Written records exist here and there and are afterthoughts—a tribe's real archive walks, breathes, and can be asked questions.
 
@@ -43,9 +43,9 @@ This makes memory a contested field. Two tribes in dispute produce two recitatio
 
 ## Fire and Light
 
-The Dunhari keep the Āsháian pantheon, and the faith of fire and light suits a people who live by what can be seen at a distance. Observance is portable by necessity—a hearth, a rite, a season—and the priesthood travels and does not sit.
+The Dunhari keep the Āsháian pantheon, and the faith of fire and light suits a people who live by what can be seen at a distance. Observance is portable by necessity—a hearth, a rite, a season—and no temple priesthood sits anywhere in the desert. Those who keep the rites travel with the camps: the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]], who read the weather and call the rain, and the mystics who go out alone into the deep desert.
 
-Religious obligation and tribal obligation are not clearly separated, and the Dunhari would not want them to be. An oath sworn at a fire is a legal instrument and a religious act at once, and breaking it is both a crime and a sacrilege, which is exactly the redundancy a people with no police force requires.
+Religious and tribal obligation run together, and the Dunhari want it so. An oath sworn at a fire is a legal instrument and a religious act at once, and breaking it is both a crime and a sacrilege, which is exactly the redundancy a people with no police force requires.
 
 ## What a Person Owes
 
@@ -57,6 +57,8 @@ Last and underneath he owes the account of himself that the poets will carry, an
 
 - [[place-dunharargn|Dunhara Region]]—the desert, the circuits and the confederations
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the fire-and-light faith
+- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers and rain-callers of the camps
+- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations and their councils
 - [[skill-dunharlng|Dunhari]]—the tongue the poets keep the law in
 
 ## Glossary {#glossary}

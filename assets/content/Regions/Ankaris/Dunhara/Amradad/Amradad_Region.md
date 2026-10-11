@@ -16,49 +16,29 @@ data:
 
 ## Overview
 
-The Amradad Region is the settled north-western corner of the
-[[place-dunharargn|Dunhara Region]]—the territory of the
-[[affiliation-sultntmrdd|Sultanate of Amradad]], and the only part of that vast desert
-held by a polity with fixed borders, a standing army and a court.
-
-Its share of the Dunhara's wealth is far larger than its share of the land:
-walled cities, the oases that sustain them, the caravan routes that tie them
-together, and the ports of its coast.
+A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of the **Amradad Region**, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
 
 ## Geography
 
-The region occupies the north-western reach of the Dunhara, from the eastern
-shore of the [[place-vylarianse|Vylarian Sea]] inland to the open desert. The
-[[place-byzariargn|Byzaría Region]] of the [[affiliation-byzarianlg|Byzarian League]]
-lies along its northern border, the islands of
-[[affiliation-cnfdrtnhrdnstts|Harad]] lie across the strait to the west, and its
-southern edge reaches toward [[place-aukhelathrgq|Aû'Khelâthu]].
-This is the northern margin of the desert, which takes a thin winter rain that
-the deep south never sees—enough to support dryland pastoralism and a narrow
-belt of seasonal grass. Settlement follows water: the permanent oases, and the
-wadis that carry runoff after the winter rains.
+The region runs from the eastern shore of the [[place-vylarianse|Vylarian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Byzaría Region]] of the [[affiliation-byzarianlg|Byzarian League]] lies along its northern border, the islands of [[affiliation-cnfdrtnhrdnstts|Harad]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Aû'Khelâthu]].
+
+This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
+
+## Places
+
+- [[place-shamsun|Shamsûn]]—the oasis city of the Sultan's court
+- [[place-tahrodan|Tahrodan]]—the fortress city on the caravan road, largest in the realm
+- [[place-golshahr|Golshahr]]—a walled city of the oases
+- [[place-mihrabad|Mihrabad]] and [[place-zaristan|Zaristan]]—market towns of the caravan roads
+- [[place-sarath|Sarath]]—a farming settlement whose elders keep an astrologer
 
 ## Peoples and Culture
 
-The Amradi are of Dunhari descent and remain formally part of the wider
-Dunhari world, but centuries of settlement have carried them away from their
-nomadic cousins in culture and in politics. Their court culture is modeled on
-the older Āsháian urban civilizations, and they keep the
-[[affiliation-ashanpnthn|Āsháian Pantheon]] shared across the desert. The
-[[place-dunhardsrtrgn|tribes of the open desert]] regard them with a mixture of
-admiration for the wealth of the cities and disdain for the softness that
-settlement is held to imply.
+The Amradi are of Dunhari blood and still count themselves part of the wider Dunhari world, but centuries in walled cities have carried them a long way from their cousins of the tents. They keep the [[affiliation-ashanpnthn|Āsháian Pantheon]] shared across the desert, and here, unlike the open desert, the faith has temples: great fire-temples in every city, with priestly scholars who set the standard of Āsháian learning. Their court culture is modeled on the old cities of that faith. The [[place-dunhardsrtrgn|tribes of the open desert]] admire their wealth and despise the softness they hold settlement to bring, and the Amradi think the tribes magnificent and impossible.
 
-## Politics and Power
+## Power
 
-The region is ruled by a hereditary sultan with a professional army. Its
-formal frontiers enclose only the cities and their routes, but its influence
-reaches well past them through trade and through marriage alliance with tribal
-sheikhs.
-
-Across the strait, the Sultanate keeps cordial relations with Harad, which it
-helped win independence from the Vylarian Empire, a power with which its own
-relations have long been antagonistic.
+A hereditary Sultan rules from Shamsûn, through a Grand Vizier, the ministers of his divans, and a governor (_wali_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Sultanate is on warm terms with Harad, which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
 
 ## See Also
 

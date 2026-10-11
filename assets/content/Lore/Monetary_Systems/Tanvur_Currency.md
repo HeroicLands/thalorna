@@ -1,33 +1,30 @@
 ---
 shortcode: tanvrcrncy
-name: {full: Tánvür Currency, aliases: [Tánvür Monetary System]}
+name: {full: Tānvür Currency, aliases: [Tānvür Monetary System]}
 type: lore
 subType: economy
-description: "Stub note for the Tánvür currency system—bureaucratic ledger-based commerce administered through the imperial classification apparatus; not yet documented in detail."
-tags: [reference, currency, tanvur, economy, stub]
+description: "How commerce runs in the Empire of Tānvür—ledger-credit administered through the classification apparatus, with foreign coin exchanged at the frontier at rates the bureaus set."
+tags: [reference, currency, tanvur, economy, draft]
 ---
-
-_Stub—to be designed and expanded._
 
 ## Overview
 
-[[place-tanvuregin|Tánvür]] operates its own monetary and credit system, distinct from both the western (Vylarian) and the eastern (Vedyaran) systems and entirely separate from the Northern Fertile Region (Khelâthi) infrastructure. The Tánvür system is rooted in the empire's distinctive bureaucratic classification apparatus—the same institutional culture that produces the [[affiliation-heklotzhak|Hëk Lōt Zhāk]] ("Black Lotus Society") with its _moral ledgers_ and _spiritual classification_. What is known is that commercial life in Tánvür is heavily administered, runs substantially through ledger-credit rather than physical currency, and is interwoven with the empire's broader system of caste-and-classification governance.
+A merchant who crosses into the [[affiliation-tanvurempr|Empire of Tānvür]] with a purse of Vylarian aurions is told at the frontier way-station what they are worth, and the number is not negotiable. Commerce in Tānvür runs on the same instrument as everything else in the empire, the register: a Shükrën house's standing with the bureaus is its credit, a debt is an entry a magistrate's clerk can read, and the classification tablet a trader carries is what a bargain is made against. The empire's money is a ledger before it is a coin, and the system stands apart from the coin-and-script of [[lore-vylrncrncy|Vylaria]], the weight-pieces of [[lore-aukhlthcrncy|Aû'Khelâthu]], the banking of [[lore-vdyrnbnkng|Vedyara]] and the kin-credit of the tribal regions.
 
-The specific mechanics—denominations (if any physical coin exists), the role of ledger-credit, the classification rules that govern who can hold what kinds of obligations, the institutional infrastructure that backs the system, the relationship between commerce and the [[affiliation-hekzhak|Vëndük sorcerers]]' historical role in administration—have not yet been designed and will be developed in a future pass.
+## Ledger-Credit
 
-What is presently known:
+The [[lore-castelaws|Caste Laws]] decide who may hold what. A [[lore-shukren|Shükrën]] merchant may accumulate wealth, lend at interest under supervision and enter witnessed contracts; a [[lore-nokvur|Nōkvür]] farmer renders tribute in produce and labor and holds no obligation a bureau would record; a [[lore-venduk|Vëndük]] owns nothing, so nothing is owed to him. Between the houses that may contract, trade runs on recorded obligation. A significant sale is witnessed and entered, the entry is what a creditor produces before a magistrate, and bankruptcy voids nothing: the debtor's holdings are seized and distributed, and the entries stand against his house until they are cleared. Coin changes hands in the markets for the day's rice and the day's cloth, and the sums that matter move as credit between registered houses, under the eye of the Vüshōk administrators who audit the merchant caste.
 
-- Tánvür uses a distinctive bureaucratic-ledger system rather than the coin-and-script systems of Vylaria, the weight-piece system of Aû'Khelâthu, or the kin-credit systems of the tribal regions.
-- The system is administered through the empire's classification apparatus; commercial standing is bound up with social classification in a way that has no parallel in the other major Thalornan monetary systems.
-- Vylarian, Khelâthi, and Vedyaran currencies are exchangeable at the empire's frontier trading posts, but the rates are set by the imperial bureaucracy rather than negotiated by free moneylenders.
-- The [[affiliation-heklotzhak|Black Lotus Society]] operates through manipulation of the ledger system, suggesting that ledger-control is a substantial source of internal Tánvür power.
+Standing is part of the price. A house whose filings are in order and whose taxes are paid trades on better terms than one under inspection, so the bureaus' opinion of a merchant is a thing he can spend, and the [[affiliation-heklotzhak|Black Lotus Society]] trades in exactly that: forged tablets, altered entries and bought omens, which is why control of the ledgers is a form of power inside the empire and not merely a convenience of trade.
+
+## The Frontier Exchange
+
+Vylarian, Khelâthi and Vedyaran coin is exchangeable at the empire's frontier trading posts and in the walled merchant quarters of the port cities, and nowhere else. The rate is set by the bureau that administers the post, posted for the season, and applied to every trader alike; no moneylender in Tānvür negotiates it, and a trader who tries is told that the classification of foreign silver is not his to argue. Foreign coin bought at the frontier is held by the bureau against the trader's credit for the length of his classification, and what he carries out is settled when his tablet is surrendered at the gate. No coin of the empire's own striking is seen abroad, and the empire's trade with the west is reckoned in goods, in frontier credit and in the silver the west brings east.
 
 ## See Also
 
-- [[affiliation-heklotzhak|Hëk Lōt Zhāk]]—the Black Lotus Society, which operates through the classification system
-- [[affiliation-hekzhak|Hëk Zhāk]]—the rogue Shadow Sect, related to the empire's older sorcerous-administrative tradition
-- [[place-tanvuregin|Tánvür]]—the polity itself
-
----
-
-_This note is a stub pending fuller design of the Tánvür monetary system. The current bureaucratic-administrative character of Tánvür commerce is sketched here as a placeholder; details to be developed._
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the bureaus, the castes and the frontiers
+- [[lore-castelaws|Caste Laws]]—who may contract, lend and hold property
+- [[lore-shukren|Shükrën]]—the merchant caste and the commercial law that binds it
+- [[affiliation-heklotzhak|Hëk Lōt Zhāk]]—the Black Lotus Society, which works through the ledgers
+- [[lore-vylrncrncy|Vylarian Currency]]—the western coin exchanged at the frontier

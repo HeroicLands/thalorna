@@ -3,6 +3,7 @@ shortcode: yurthatzhk
 name: {full: Yürtthāt Zhāk, aliases: []}
 type: affiliation
 subType: lineage
+description: "A once-great noble house of Tānvür, brought low in the Jade Fan Dance and now staked by its new head on a secret alliance with the Black Lotus Society."
 data:
   templatePriority: null
   demonym: null
@@ -72,33 +73,25 @@ data:
 sohl: {system: {commonSkills: [tanvurlng]}}
 ---
 
-**The House of the Clouded Mountain**
-
-The **Yürtthāt Zhāk**, once a pillar of the [[affiliation-tanvurempr|Empire of Tānvür]], now stands on the precipice of ruin.
+The **Yürtthāt Zhāk**, the House of the Clouded Mountain, is a lesson the court of the [[affiliation-tanvurempr|Empire of Tānvür]] teaches its sons about the [[lore-veizhatret|Vëi Zhāt Rëit]]: a house that was once a pillar of the empire and is now one bad season from ruin, and whose new head has decided that the honorable road back is too slow to take. Its name is still spoken with the old respect in the provinces. At court it is spoken with a glance toward the door.
 
 ## The Decline
 
-The house was once formidable in the [[lore-veizhatret|Vëi Zhāt Rëit]] (political intrigue). However, under a previous incompetent leader, they lost much of their influence. Their reputation became tarnished, and their standing in the imperial court diminished.
+The house was formidable in the Jade Fan Dance for generations, and it lost its standing the way houses do: a previous head, incompetent at the game and slow to know it, let the house's petitions be redirected and its allies bought, and the house's reputation went with its influence. Its ancestor altar is still well provisioned and its lands are intact, and neither counts for much in a court that measures a house by what it can make happen.
 
-## The New Leader's Gamble
+## The New Head's Gamble
 
-A new ambitious leader, **Vëngzhük Lüngjëk** (Vëngzhük Lüngjëk, "Wind-Summoning Dragon Spear"), has vowed to restore the house by any means necessary. However, his approach is unorthodox—impatient with traditional methods, he has forged a secret alliance with the [[affiliation-heklotzhak|Black Lotus Society]] (Hëk Lōt Zhāk).
+The present head, **Vëngzhük Lüngjëk** ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires. He has made a secret alliance with the [[affiliation-heklotzhak|Black Lotus Society]] (Hëk Lōt Zhāk), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council.
 
-## Internal Division
+The alliance has split the house. The senior kin who know of it call it reckless and dishonorable, and the kin who do not know of it have noticed that their head keeps company he will not name, and the suspicion between the two halves of the council is itself a weakness any player of the Dance can use.
 
-This alliance has sparked deep divisions within the clan. The traditional council members view it as reckless and dishonorable. Lüngjëk has kept the connection secret from many council members, fueling suspicion and mistrust.
+## What Failure Costs
 
-## Consequences of Failure
-
-Should the gamble fail:
-
-- **Complete Ruin:** The clan's remaining influence would evaporate, leaving them vulnerable to enemies.
-- **Internal Collapse:** Leadership crisis could lead to fracturing of the clan.
-- **Legal Repercussions:** Exposure of Black Lotus Society connections could result in execution of key members and confiscation of lands.
-- **Impact on Black Lotus Society:** Increased imperial scrutiny could disrupt operations and diminish influence.
+If the gamble fails, the house's remaining influence evaporates and its enemies finish it. If the alliance is exposed, the law does: the Black Lotus connection is treason under the [[lore-zeisik|Tëng Lüt]], and exposure means execution for the head and his confidants, confiscation of the house's lands, and a debit on its ancestral ledger that its dead will be paying for generations. The Society loses too, since imperial scrutiny of one of its noble patrons reaches its other operations, and that shared exposure is the only thing keeping the alliance honest.
 
 ## See Also
 
-- [[lore-veizhatret|Vëi Zhāt Rëit]]—The political game that brought the house low
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—Another internal threat to the empire
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire whose court they navigate
+- [[lore-veizhatret|Vëi Zhāt Rëit]]—the political game that brought the house low
+- [[affiliation-heklotzhak|Black Lotus Society]]—the ally the house has staked itself on
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—another threat to the empire from within
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the empire whose court the house navigates

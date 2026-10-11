@@ -3,66 +3,53 @@ shortcode: tanthei
 name: {full: Tānthëi, aliases: []}
 type: lore
 subType: law
+description: "The fourth caste of Tānvür—celestial scholars who read the omens, keep the sacred texts and staff the administration, and whose counsel decides whether heaven agrees with what the Warlords intend."
 data: {packFolder: castes}
 ---
 
-**Celestial Scholars**
+A Warlord with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tānthëi are the scholarly and spiritual elite of [[affiliation-tanvurempr|Tānvür]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.
 
-The Tānthëi form the scholarly and spiritual elite of [[affiliation-tanvurempr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.
+## What the Tānthëi Do
 
-## Roles and Expertise
+**They read the sky.** A Tānthëi astrologer casts the charts that set the date of a coronation, a campaign, a wedding or the laying of a foundation, and reads the unlooked-for sign—a comet, a two-headed calf, a well that runs red—as a message from the bureaus of heaven. Her report says whether the empire still stands in harmony with the celestial order, and a Warlord who acts against it does so knowing every scholar in his province has the document. [[lore-clndrstrlgy|Calendar and Astrology]] sets out the reckoning they use.
 
-### Interpretation of Celestial Signs
+**They keep the texts.** Certain sacred books and relics may be held, read and interpreted by the Tānthëi alone: the cosmological treatises, the formulae of the great rites and the oldest records of the empire's place in the sorted order. Possessing one of them is a crime for anyone of another caste.
 
-Tānthëi read the heavens through astrology and omen-reading, translating the movements of stars and unexpected signs into guidance for imperial decision-making. They determine auspicious dates for major undertakings, identify celestial warnings of danger, and advise whether the empire remains in harmony with the heavens.
-
-### Guardianship of Sacred Knowledge
-
-Tānthëi are the sole keepers and interpreters of certain sacred texts and ancient relics, knowledge that is forbidden to all other castes. These texts contain cosmological secrets, ritual formulae, and historical records essential to understanding the empire's place in the cosmos.
-
-### Advisory Authority
-
-Tānthëi serve as primary counselors to [[lore-zheklung|Zhëklüng]] and [[lore-vushok|Vüshōk]] on matters of celestial law and the classification system's requirements. They may draft new laws in consultation with Warlords, always ensuring that imperial action aligns with the principles of the Tëng Lüt (Heavenly Law) and the cosmic sorting order.
+**They counsel and they draft.** The Tānthëi advise the [[lore-zheklung|Zhëklüng]] and the [[lore-vushok|Vüshōk]] on the Tëng Lüt (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [[lore-castelaws|Dāk Rën Thōk]] are theirs.
 
 ## Rights and Restrictions
 
-### Rights
+The [[lore-castelaws|Caste Laws]] give the scholars three rights:
 
-- **Right to Counsel**: Exclusive authority to advise Zhëklüng and Vüshōk on celestial matters and the interpretation of heaven's will
-- **Access to Sacred Texts**: Sole caste permitted to possess, study, and interpret certain forbidden texts and ancient relics
-- **Exemption from Military Service**: Released from obligation to bear arms or serve in military campaigns (though they may choose to advise military leaders)
+- **Counsel**: the exclusive right to advise the Zhëklüng and Vüshōk on celestial matters and the reading of heaven's will.
+- **The texts**: the sole right to possess, study and interpret the forbidden books and relics.
+- **No arms**: release from the obligation to bear arms or march with an army, though many advise commanders in the field.
 
-### Restrictions
+They hold the scholars to two restrictions:
 
-- **Adherence to Celestial Law**: Must uphold and defend the Tëng Lüt in all counsel and interpretation
-- **Prohibition of Magic**: All arcane arts except astrology and foretelling are forbidden; practice of other magic results in execution
+- **Fidelity to the Tëng Lüt**: every counsel and every interpretation upholds the Heavenly Law, and a scholar found shading a reading to please a patron is stripped of rank.
+- **No magic**: astrology and foretelling are the only arts the caste may practice. They are reckoning, not sorcery, and a Tānthëi who works anything more is executed like anyone else who poaches on the [[lore-venduk|Vëndük]] monopoly.
 
 ## Naming and Honors
 
-Personal names are granted to Tānthëi of exceptional wisdom, particularly those whose celestial insights have proven transformative to empire policy. Scholar names typically reference celestial bodies and auspicious signs. Examples include:
+A scholar whose reading of the heavens changes the empire's course may be granted a personal name, and scholars' names are drawn from the stars and the auspicious signs: Röt Zhāt Zhīr Thëng (Rising Vermilion Bird Star) and Tëng Lüng Lëng Vürt (Fifth Auspicious Star of the Celestial Dragon). [[lore-personlnms|Personal Names]] describes the grant.
 
-- "Röt Zhāt Zhīr Thëng" (Rising Vermilion Bird Star)
-- "Tëng Lüng Lëng Vürt" (Fifth Auspicious Star of the Celestial Dragon)
+## Elder Scholars
 
-## Elder Races Among Tānthëi
+[[lore-flksinale|Sinalë]] sages, who know more of the stars and of the natural world than any human school, are often classified Tānthëi. Their counsel is valued at court and also mistrusted, because they will not say where their knowledge comes from and seem to care little what humans do with it.
 
-### Sinalëan Scholars
-
-[[lore-flksinale|Sinalë]] possess deep, ancient knowledge of cosmology, astronomy, and natural science, often granted Tānthëi status for these contributions. Their counsel to human leadership is highly valued, though occasionally met with suspicion due to the secretive nature of their knowledge and their perceived distance from human concerns.
-
-### Khazárian Scholars
-
-[[lore-flkkhazar|Khazári]] masters of engineering, geology, and metallurgy are sometimes classified as Tānthëi when their expertise proves essential to major imperial projects. Their knowledge of stone and earth is viewed with both awe and mistrust, their esoteric understanding of the deep places and their inner workings creating both respect and unease.
+[[lore-flkkhazar|Khazári]] masters of engineering, mining and metallurgy are classified Tānthëi when an imperial work—a dam, a mountain road, a fortress cut from the rock—cannot be built without them. Their knowledge of the deep places is held in awe and some fear, and court scholars are uneasy sharing a title with people who will not explain how they find water in stone.
 
 ## Philosophy of Lëi
 
-Tānthëi serve as custodians of intellectual and spiritual Lëi, ensuring that knowledge and traditions remain strong and uncorrupted across generations. Their work sustains the empire's connection to the cosmic classification system—maintaining the records, interpretations, and ritual forms that keep the sorted order intact.
+In the [[lore-phlsphylvr|Lëivōr]] framework the Tānthëi are the keepers of intellectual and spiritual Lëi: the records, readings and rites that keep the sorted order sorted.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Tānthëi
-- [[lore-zeisik|Law and Honor]]—framework of Celestial Law and Tānthëi interpretation
-- [[lore-zheklung|Zhëklüng]]—the supreme authority consulting with Tānthëi
-- [[lore-vushok|Vüshōk]]—Warrior Nobility who receive Tānthëi counsel
-- [[lore-venduk|Vëndük]]—Magical practitioners whom Tānthëi oversee and restrict
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Tānthëi
+- [[lore-clndrstrlgy|Calendar and Astrology]]—the reckoning the scholars keep
+- [[lore-zeisik|Law and Honor]]—the Heavenly Law the scholars interpret
+- [[lore-zheklung|Zhëklüng]]—the Emperor and Warlords the scholars counsel
+- [[lore-vushok|Vüshōk]]—the warrior nobility, the caste above
+- [[lore-zathuk|Zāthük]]—artisans and soldiers, the caste below
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial governance and structure

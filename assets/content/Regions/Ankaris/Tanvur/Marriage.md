@@ -3,95 +3,73 @@ shortcode: marriage
 name: {full: Marriage, aliases: []}
 type: lore
 subType: custom
+description: "How marriage works in Tānvür—a household registered with the celestial bureaucracy, arranged by clan councils, open only to the four higher castes, and made in five ritual steps."
 data: {packFolder: tanvur}
 ---
 
-## Marriage Customs of the Empire of Tānvür
+A Tānthëi matchmaker who has arranged two hundred weddings tells every new bride's mother the same thing: "You are not giving your daughter away. You are opening an account." Marriage in the [[affiliation-tanvurempr|Empire of Tānvür]] merges two families' spiritual standing into a new household, registered with the celestial bureaucracy and given a [[lore-celestlrdr|moral ledger]] of its own. The Tānvüri keep love and marriage in separate categories. Love is a private feeling; marriage is a filing that changes the cosmic standing of two houses.
 
-Marriage in the [[affiliation-tanvurempr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event**—the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[lore-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
+The customs differ by caste, and one rule holds at every level: a marriage creates a new household in the classification, and the new household has to be sorted correctly.
 
-The customs surrounding marriage vary significantly by caste, but the underlying principle is the same at every level: marriage creates a new node in the classification system, and every node must be properly sorted.
+## What a Marriage Joins
 
----
+When two clans agree a match, the new household receives three things. It has one moral ledger, opened from the balances of both families. It has one set of [[lore-ancstrwrshp|ancestor spirits]], drawn from both lineages, to argue its case in heaven. And it is assigned a [[lore-celestlrdr|Hearth Monitor]] (_Zātkür_), the minor celestial official who watches the household and reports on it.
 
-### Marriage as Classification
+That is why the clan council arranges the match and the couple does not. The council asks which families' ancestors will work well together, which pair of ledger balances makes the strongest new account, and which alliance best serves the clan's standing in heaven and on earth. The couple's feelings for each other do not enter into it.
 
-When two families agree to a marriage, they are not merely joining their children—they are **merging spiritual infrastructure**. The combined household will share a single moral ledger, a single set of [[lore-ancstrwrshp|ancestor spirits]] drawn from both lineages, and a single [[lore-celestlrdr|Hearth Monitor (Zātkür)]] assigned by the celestial administration to observe and report on the new unit.
+## Who May Marry
 
-This is why marriages are arranged by clan councils rather than by the individuals involved. The decision is fundamentally administrative: which families' ancestor spirits will cooperate most effectively? Which combination of moral ledger balances produces the strongest new account? Which alliance best serves the clan's aggregate spiritual position? Romance is irrelevant to these calculations—in the same way that personal affection between two bureaucrats is irrelevant to whether their departments should merge.
+**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zheklung|Zhëklüng]], the [[lore-vushok|Vüshōk]], the [[lore-tanthei|Tānthëi]] and the [[lore-zathuk|Zāthük]]. These castes stand high enough in the classification to warrant the formal filing.
 
----
+**The castes that may not.** The [[lore-nokvur|Nōkvür]], the [[lore-shukren|Shükrën]] and the [[lore-nutzok|Nützōk]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nōkvür accept it as the way of things; most Shükrën, who could afford a wedding finer than many nobles', resent it in private.
 
-### Marriage Eligibility
+The Nōkvür have their own answer. A village Lëigürt (spirit master) performs a bonding rite that presents the couple to the ancestors of both families, if not to the bureaus of heaven, and in the villages that rite carries all the weight a temple wedding carries in the cities. The empire does not recognize it, and nobody in the village cares.
 
-**Caste Restrictions:** Legal marriage—that is, marriage _registered with the celestial administration_—is reserved for members of the [[lore-zheklung|Zhëklüng]] (Sons of the Dragon), [[lore-vushok|Vüshōk]] (Warrior Nobility), [[lore-tanthei|Tānthëi]] (Celestial Scholars), and [[lore-zathuk|Zāthük]] (Artisans and Craftsmen). These castes are classified at a level that warrants the administrative overhead of a formal household merger.
+**The clan's choice.** Every legal marriage is arranged by the clan council, and the council weighs four things: the combined ledger balance of the two families; whether their ancestors will agree, which a Tānthëi or a Lëigürt learns by divination; the political and material gain of the alliance; and the astrology of the match, read from the birth-years and the spirit animals of the couple (see [[lore-clndrstrlgy|Calendar and Astrology]]).
 
-**Excluded Castes:** Members of the [[lore-nokvur|Nōkvür]] (Peasant Farmers), [[lore-shukren|Shükrën]] (Merchants), and [[lore-nutzok|Nützōk]] (Slaves and Outcasts) are not permitted to enter into legally recognized marriages. They may cohabitate and raise children within their caste, but these unions are not registered as classification events. In the bureaucratic cosmology, their households are considered too low in the classification hierarchy to justify a formal filing—a spiritual slight that most Nōkvür accept as the way of things, and most Shükrën quietly resent.
+## The Wedding
 
-The Nōkvür compensate through the [[lore-ancstrwrshp|Lëigürt]], who perform informal bonding ceremonies that register the union with the ancestor spirits if not with the celestial bureaus proper. These ceremonies carry deep cultural weight within Nōkvür communities, even though the empire does not recognize them.
+The wedding is a registration, and each of its five steps does a piece of administrative work.
 
-**Clan Arrangements:** All eligible marriages are arranged by the clan council. The council evaluates the match on several axes: the combined moral ledger balance of both families, the compatibility of their ancestor spirits (determined through divination by the [[lore-tanthei|Tānthëi]] or Lëigürt), the political and material advantages of the alliance, and the astrological classification of the match based on the birth-years and spirit animals of both parties (see [[lore-clndrstrlgy|Spirit Animals]]).
+**The contract** (_Zhāklüt Hōk_). The two clan councils sign a contract, drafted by a Tānthëi and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
----
+**The petition** (_Lëi Sëi Thōk_). A spirit document is burned at the temple, addressed to the Bureau of Continuity ([[affiliation-tngvkvnlei|Zāt Sëi]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
-### The Marriage Ceremony
+**The consultation** (_Kōt Lëi Vōk_). Before the union is final, a Lëigürt speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 
-The marriage ceremony is a **registration ritual**—a formal filing that creates the new household classification and activates its spiritual infrastructure. The ceremony's elements are not symbolic gestures of affection; they are bureaucratic steps, each of which accomplishes a specific administrative function.
+**The tablet transfer** (_Kōt Thōk Dōk_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Lëigürt or a Tānthëi performs it, in exact ritual words, so that the change of address is recorded correctly.
 
-**The Contract (Zhāklüt Hōk):** The marriage begins with the signing of a formal contract between the two clan councils. This document specifies the terms of the merger: which assets transfer, which ancestor tablets will be moved to the new household shrine, what obligations each family assumes, and under what conditions the contract may be dissolved. The contract is drafted by the Tānthëi and sealed with the clan seals of both families.
+**The sealing** (_Hōk Vōr_). A seal carved for the occasion is pressed into red clay and set on the new shrine beside the transferred tablets. Every spiritual filing the household makes will carry that seal, and from the moment it is set, the household exists in the cosmic order.
 
-**The Petition (Lëi Sëi Thōk):** A petition is filed with the celestial administration—physically, this means a formal spirit document is burned at the temple, addressed to the Bureau of Continuity ([[affiliation-tngvkvnlei|Zāt Sëi]]), requesting that the new household be registered and assigned a Hearth Monitor. The petition must include the names, birth-dates, and spirit-animal classifications of both parties, along with a summary of both families' moral ledger standings. A petition filed with errors or omissions is believed to result in the new household being improperly classified—a deeply inauspicious start.
+## Love
 
-**The Ancestor Consultation (Kōt Lëi Vōk):** Before the union is finalized, the Lëigürt commune with the ancestor spirits of both families to secure their approval. An ancestor who objects to a marriage can issue a binding command forbidding it—and defying an ancestral prohibition incurs severe moral ledger debits. In practice, clans negotiate with their ancestors much as they negotiate with each other, sometimes burning additional offerings to persuade reluctant spirits.
+Love is not forbidden in Tānvür; it simply does not count. Affection between a husband and wife is welcomed when it comes, and a marriage without it is not thought the worse for that: it was filed correctly, and that is what a marriage is for. Love outside marriage is tolerated within the bounds of caste propriety, so long as it brings no dishonor onto the household's ledger.
 
-**The Tablet Transfer (Kōt Thōk Dōk):** Selected ancestor tablets from the bride's family shrine are formally transferred to the groom's household shrine. This is the most solemn moment of the ceremony—it literally _redirects_ the bureaucratic address of ancestor spirits from one household to another. The transfer is performed by a Lëigürt or Tānthëi, with precise ritual language to ensure the celestial filing system registers the change of address correctly.
+The elite castes court with poetry, gifts and music, and treat courtship as one of the social arts, not as a path to marriage. A good deal of the [[lore-veizhatret|Vëi Zhāt Rëit]], the court's game of intrigue, is played over who will marry whom.
 
-**The Sealing (Hōk Vōr):** The ceremony concludes with the affixing of the new household's seal—a physical seal carved for the occasion, which will be used on all future spiritual filings. The seal is pressed into red clay and placed on the new household's shrine alongside the merged ancestor tablets. From this moment, the household exists as a classified unit in the cosmic order.
+## Consorts
 
----
+A man or a woman of the marrying castes with the means may keep consorts alongside a spouse, as many as the household can support in goods and in offerings, since every member of a household adds to its ledger and to what its ancestors must be fed. Consorts belong to the household and are not parties to the contract: they bring no ancestor tablets, and their families' ledgers stay separate. Their children are acknowledged and raised in the household, and are named heirs only when no child of the marriage is fit.
 
-### Marriage and Love
+## Children and the Heir
 
-Love is not forbidden in Tānvür. It is simply _irrelevant_ to the classification system.
+A child born of a legal marriage is registered at birth by a temple rite that gives it a place on the household's ledger and a classification under the spirit animal of its birth-year. The clan leader and the council choose the heir by ability, character and astrology, and very often by divination to learn which child the ancestors favor.
 
-The Tānvüri recognize that affection may exist between spouses, and when it does, they consider it a pleasant incidental—much as one might appreciate a comfortable office while doing necessary paperwork. But a marriage arranged without any personal feeling is not considered deficient. It is simply a correctly filed document. Romantic attachment outside of marriage is tolerated within the constraints of caste propriety, provided it does not interfere with the obligations of the household's moral ledger or bring dishonor that would generate debit entries.
+The heir inherits the duty with the property. He keeps the ancestor shrine, carries the family's petitions to its dead, and answers for the household's ledger, and an heir who neglects them impoverishes the dead along with the living.
 
-Among the elite castes, sophisticated courtship customs exist—poetry, gift-giving, music—but these are understood as social arts rather than prerequisites for marriage. The [[lore-veizhatret|Vëi Zhāt Rëit]] (Jade Fan Dance) tradition of court intrigue is as much about arranging advantageous marriages as it is about political maneuvering.
+## Dissolution
 
----
+A divorce is rare, because it removes a registered household from the cosmic order, and the celestial administration does not undo its filings willingly. A clan council considers it for three causes: dishonor heavy enough to threaten both families' ledgers, failure to produce an heir, or proof that the petition was false, in which case the household was never properly classified at all.
 
-### Consorts
+The process takes a petition to the Bureau of Continuity, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tānthëi and Lëigürt who approved the match carry the blame.
 
-In addition to their legal spouse, both men and women of sufficient wealth may maintain multiple consorts. The number of consorts is limited only by the household's ability to support them—both materially and _spiritually_, since each additional member of the household increases the moral ledger's complexity and the offerings required to maintain the ancestor spirits.
+## See Also
 
-Consorts are recognized members of the household but are not parties to the marriage contract. They do not contribute ancestor tablets, and their families' moral ledgers remain separate. Children born to consorts are acknowledged and raised within the household but are not typically named as heirs unless no legitimate heir is available—they are classified differently in the spiritual accounting.
-
----
-
-### Children and Inheritance
-
-Children born from a legal marriage are registered with the celestial administration at birth—a rite performed by the Lëigürt that assigns the child a place in the household's moral ledger and a classification under their birth-year's spirit animal. The choice of heir is determined by the clan leader in consultation with the clan council, based on the child's abilities, character, and astrological classification. Divination is frequently employed to determine which child the ancestor spirits favor.
-
-Inheritance in Tānvür is not merely the transfer of material wealth. It is the transfer of **spiritual responsibility**—the heir assumes primary custody of the ancestor shrine, becomes the chief petitioner for the family's spirits, and takes on the obligation of maintaining the household's moral ledger balance. An heir who neglects these duties impoverishes not only the living family but the dead.
-
----
-
-### Divorce and Dissolution
-
-Divorce is extremely rare, because dissolving a marriage is not merely ending a personal relationship—it is **deregistering a classified unit** from the cosmic order. The celestial administration does not process reversals easily.
-
-Dissolution may be considered in cases of severe dishonor (generating ledger debits that threaten both families' spiritual standing), failure to produce an heir (leaving the household's spiritual future unsecured), or discovery that the original petition was filed with false information (which would mean the household was never properly classified to begin with).
-
-The dissolution process requires a formal petition to the Bureau of Continuity, the physical separation and return of ancestor tablets to their original family shrines, and the breaking of the household seal. It is expensive, spiritually damaging to both families' ledger balances, and socially catastrophic—evidence that the classification system made an error, which reflects poorly on the Tānthëi and Lëigürt who approved the match.
-
----
-
-### See Also
-
-- [[lore-castelaws|Caste Laws]]—The caste restrictions that govern marriage eligibility
-- [[lore-ancstrwrshp|Ancestor Worship]]—The ancestor spirits whose approval is required for marriage
-- [[lore-celestlrdr|Celestial Order]]—The cosmological framework that marriage operates within
-- [[lore-clndrstrlgy|Calendar and Astrology]]—Astrological classifications that influence match selection
-- [[lore-personlnms|Personal Names]]—Naming conventions tied to caste and household
-- [[lore-zeisik|Law and Honor]]—The legal framework governing marriage contracts
-- [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of imperial society
+- [[lore-castelaws|Caste Laws]]—the castes that may and may not marry
+- [[lore-ancstrwrshp|Ancestor Worship]]—the ancestors whose consent a marriage needs
+- [[lore-celestlrdr|Celestial Order]]—the cosmology a marriage is filed within
+- [[lore-clndrstrlgy|Calendar and Astrology]]—the spirit animals read for a match
+- [[lore-numerology|Numerology]]—the numbers that set the wedding day
+- [[lore-personlnms|Personal Names]]—clan, position and place, and the rare personal name
+- [[lore-zeisik|Law and Honor]]—the law behind the marriage contract
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society

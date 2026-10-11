@@ -3,7 +3,7 @@ shortcode: tahrodan
 name: {full: Tahrodan, aliases: []}
 type: place
 subType: settlement
-description: "Fortress Town"
+description: "The fortress city of the Amradi caravan road, largest in the Sultanate, where every caravan from the interior pays its toll on the way to the coast."
 tags: [fortress, town]
 data:
   demonym: null
@@ -16,14 +16,15 @@ data:
 
 ## Overview
 
-Tahrodan stands as one of the primary settlements of the Sultanate of Amradad, a walled city built upon trade routes that connect the desert interior to the coastal ports and the wealthy merchant cities of Harad. The city is governed by a sultan whose authority flows from both military strength and commercial acumen—he controls the caravan routes that funnel goods through his territories, extracting taxes and maintaining the security that allows merchants to trade with confidence. Tahrodan's walls are formidable and well-maintained, and its garrison of mounted warriors ensures that bandit activity remains minimal within its sphere of influence.
+Tahrodan is the fortress city of the caravan road and the largest city of the [[affiliation-sultntmrdd|Sultanate of Amradad]], thirty thousand people inside walls that every caravan from the desert interior must pass on its way to the coastal ports and the merchant cities of [[affiliation-cnfdrtnhrdnstts|Harad]]. Its governor holds it for the Sultan with a garrison of mounted warriors who keep the roads clear of raiders for a day's ride in every direction, and the tolls collected at its gates are one of the pillars of the Sultan's treasury.
 
-The city's bazaars rival those of Azhûn and Kashmuret for vibrancy and diversity, though Tahrodan's markets serve primarily as conduits for trade moving between regions rather than as centers of cosmopolitan interaction. Merchants tend to conduct business quickly and depart; the city maintains an atmosphere of controlled efficiency rather than leisurely negotiation. The sultan maintains diplomatic relations with major powers throughout the region and carefully balances alliances to ensure no single rival becomes powerful enough to threaten his domain. Tahrodan's prosperity depends entirely upon this balance—should the networks of trade collapse or shift to alternate routes, the city's wealth would evaporate.
+Its bazaars are as crowded and various as those of [[place-azhun2|Azhûn]] and [[place-kashmuret|Kashmuret]] across the strait, and less sociable. Tahrodan is a city goods pass through. A merchant comes in, pays his toll, sells or trades on, and leaves, and the market runs on brisk efficiency and not on long afternoons of bargaining over tea. The governor plays the great powers of the region against one another as carefully as the Sultan does, because the city's wealth depends entirely on the road staying open.
 
-The spiritual life of Tahrodan centers upon the Āsháian pantheon, with major temples honoring the primary deities occupying the city's central district. The sultan himself is obligated to maintain ritual propriety and demonstrate piety, and the city's priests wield considerable political influence through both spiritual authority and control of significant landed wealth. The tension between the sultan's secular power and the priests' spiritual authority creates an interesting dynamic—neither can afford to completely dominate the other, and decisions of import are typically made only after both have been consulted. This system has preserved stability in a region where many sultanates collapse into chaos or conquest.
+The fire-temples of the [[affiliation-ashanpnthn|Āsháian]] gods fill the city's central district, and their priests are a power in Tahrodan: they hold great estates in the surrounding oases and the spiritual authority that goes with the temples. The governor must be seen to keep the rites and honor the priests, and the priests need the governor's soldiers and his tolls, so neither can rule without the other, and no decision of weight is made in Tahrodan until both have been heard.
 
 ## See Also
 
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—Regional overview
-- [[skill-dunharlng|Dunhari]]—Naming tradition
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Religious tradition
+- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the realm the city serves
+- [[place-amradadrgn|Amradad Region]]—the settled country around it
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the faith of the city's temples
+- [[skill-dunharlng|Dunhari]]—the tongue and its naming tradition

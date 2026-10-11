@@ -3,50 +3,45 @@ shortcode: personlnms
 name: {full: Personal Names, aliases: []}
 type: lore
 subType: custom
+description: "How the Tānvüri are identified by clan, position and place, and how a personal name is granted to the few who earn one."
 data: {packFolder: tanvur}
 ---
 
-## Personal Names in the Empire of Tānvür
+Most people in the [[affiliation-tanvurempr|Empire of Tānvür]] never have a name of their own. A personal name is an honor the empire grants for outstanding service, and until it is granted, a person is identified by clan, by position within the clan, and by place. The [[lore-nokvur|Nōkvür]], [[lore-zathuk|Zāthük]] and [[lore-shukren|Shükrën]] live and die that way, and so do most of the castes above them.
 
-In the [[affiliation-tanvurempr|Empire of Tānvür]], names carry immense significance and are reserved as marks of honor and distinction. The majority of the population, including those from the lower castes such as the [[lore-nokvur|Nōkvür]], [[lore-zathuk|Zāthük]], and [[lore-shukren|Shükrën]], do not possess personal names. Instead, they are identified by their clan name and their position within the clan, along with the name of their local city or region.
+## Identification Without a Name
 
-### Identification Without Personal Names
+An unnamed person is known by a description that a registry clerk could file: "Fourth Son of the Battle Warden of the Clan of Moon Rises Over Still Water, near Vëithāt." It says who his father is and what his father does, which clan holds them, and where they live, and it is exactly what the classification tablet he carries records. In daily life his neighbors shorten it to "Fourth Son" or "the Warden's boy," and a magistrate reads it out in full.
 
-Individuals who have not been granted a personal name are typically referred to by their clan name, their position within the clan, and a geographic identifier. For example, someone might be known as "Fourth Son of the Battle Warden of the Clan of Moon Rises Over Still Water, near Vëithāt." This form of identification emphasizes the individual's role within their family and community, as well as their connection to their geographic origins.
+## The Grant of a Name
 
-### Granting of Personal Names
+Only the [[lore-zheklung|Zhëklüng]], the [[lore-vushok|Vüshōk]] and the [[lore-tanthei|Tānthëi]] may be granted personal names, and only for outstanding service or achievement. The grant is a ceremony. A person's liege lord or a senior member of the clan confers it before witnesses, and the registry enters it beside the old description, which is never struck out. The name itself is a phrase describing what the person did, what they are, or what heaven seems to intend for them.
 
-Personal names are a rare and significant honor, granted only to those of the [[lore-zheklung|Zhëklüng]], [[lore-vushok|Vüshōk]], and [[lore-tanthei|Tānthëi]] castes, and only as a reward for outstanding service or achievement. The act of naming is a ceremonial event, typically performed by one's liege lord or a high-ranking member of the clan. The name bestowed is a phrase that reflects the individual's accomplishments, character, or destiny.
+## Warriors' Names
 
-### Warrior Names
+A warrior's name speaks of power, speed and battle, and it is usually drawn from weather, beasts and weapons:
 
-Warriors who distinguish themselves in battle may receive names that evoke images of power, speed, and martial prowess. These names often draw from natural phenomena or weapons, symbolizing the individual's strength and skill.
+- Lüng Shüt Tëng Jëk—"Dragon's Rain of Heavenly Arrows"
+- Bëit Jëk Vüs Rëk—"Ice Blade of Thunderous Battle"
+- Vëng Hürt Rëk Thāt—"Wind Tiger Roars Across Thunder Mountain"
 
-Examples of warrior names:
+## Scholars' Names
 
-- "Lüng Shüt Tëng Jëk")—"Dragon's Rain of Heavenly Arrows"
-- "Bëit Jëk Vüs Rëk")—"Ice Blade of Thunderous Battle"
-- "Vëng Hürt Rëk Thāt")—"Wind Tiger Roars Across Thunder Mountain"
+A scholar's name speaks of the stars and of insight, and it is usually drawn from the heavens and the auspicious signs:
 
-### Scholar Names
+- Röt Zhāt Zhīr Thëng—"Rising Vermilion Bird Star"
+- Tëng Lüng Lëng Vürt—"Fifth Auspicious Star of the Celestial Dragon"
+- Hëk Vüt Vōk Tëng—"Black Tortoise with the Celestial Platform"
 
-Scholars who achieve great wisdom or contribute significantly to the understanding of the celestial or natural world are given names that reflect their intellectual achievements and spiritual insight.
+## Two Names Earned
 
-Examples of scholar names:
+A Vüshōk officer known for years as "Second Son of the Shield Bearer of the Lüngvōk Clan, near Tëngmüt" led his troops to a victory that saved a province. His liege lord granted him the name Vëng Hürt Rëk Thāt, "Wind Tiger Roars Across Thunder Mountain," for the fury of his charge, and he has signed nothing else since.
 
-- "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng)—"Rising Vermilion Bird Star"
-- "Tëng Lüng Lëng Vürt" (Tëng Lüng Lëng Vürt)—"Fifth Auspicious Star of the Celestial Dragon"
-- "Hëk Vüt Vōk Tëng" (Hëk Vüt Vōk Tëng)—"Black Tortoise with the Celestial Platform"
+A Tānthëi scholar known as "Third Daughter of the Sage of the Röt Zhāt Clan, near Vëithāt" observed and recorded a new star that her seniors had missed. She was granted the name Röt Zhāt Zhīr Thëng, "Rising Vermilion Bird Star," for the discovery, and the star carries her name in the court registers.
 
-### Example of Naming in Practice
+## See Also
 
-Imagine a warrior of the [[lore-vushok|Vüshōk]] caste who has shown exceptional valor in a series of battles. He might originally be known as "Second Son of the Shield Bearer of the Lüngvōk Clan, near Tëngmüt." After leading his troops to victory in a crucial battle, his liege lord grants him the personal name "Vëng Hürt Rëk Thāt"), which means "Wind Tiger Roars Across Thunder Mountain," a name that reflects his fierce and unyielding nature in battle.
-
-Similarly, a [[lore-tanthei|Tānthëi]] scholar might be known as "Third Daughter of the Sage of the Röt Zhāt Clan, near Vëithāt." After making a significant astronomical discovery, she is honored with the name "Röt Zhāt Zhīr Thëng" (Röt Zhāt Zhīr Thëng), meaning "Rising Vermilion Bird Star," symbolizing her connection to the celestial realm and her contribution to the empire's knowledge.
-
-### See Also
-
-- [[lore-marriage|Marriage]]—Marriage customs tied to clan and caste
-- [[lore-numerology|Numerology]]—Auspicious numbers that influence naming ceremonies
-- [[lore-castelaws|Caste Laws]]—The caste restrictions that determine who may receive names
-- [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of imperial culture
+- [[lore-castelaws|Caste Laws]]—the castes that may and may not be named
+- [[lore-marriage|Marriage]]—marriage customs tied to clan and caste
+- [[lore-numerology|Numerology]]—the numbers that shape a naming ceremony
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial culture

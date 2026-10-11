@@ -34,17 +34,8 @@ data:
         - whether anything can be established about the interval the mortal archive does not cover
 ---
 
-The dynastic record is the empire's own instrument, and it is separate from the reckoning the
-[[lore-celestlrdr|Celestial Order]] teaches. What it marks is not the founding of anything cosmic but
-the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year
-together—and that makes it the oldest human archive anyone can still read.
+Around 2500 BF a clerk of the Bureau of Records entered a dynasty, an emperor and a year in a register that the [[affiliation-tanvurempr|Empire of Tānvür]] still keeps, and that entry is the oldest point at which any human institution can produce all three together. Every dynasty since runs from it, more than a dozen of them, and the archive that holds the entry is the oldest human archive anyone can still read.
 
-It is worth setting beside what else was standing. [[lore-khazarturn|Khazártúrn]] had been cut for
-twenty-six centuries and had seventy years left. The greatest work of the Elder Races and the oldest
-human archive overlap by a single lifetime, and neither one notices the other: no Tānvüri document of
-that century names Khazártúrn or the Khazári, and the Khazári account of the fall names no human
-polity at all. There is nothing in either record to suggest that anybody involved knew the other
-existed.
+The empire keeps two beginnings and treats them as one. The [[lore-celestlrdr|Celestial Order]] teaches that the first emperor was appointed at [[lore-greatcnvrg|the Great Convergence]], the zero of the [[lore-clndrstrlgy|Celestial Calendar]], some thirty-seven centuries before the Bureau's first entry. The Tānthëi explain the gap as a matter of custody: the mortal Bureau was not yet staffed in those early cycles, so the earliest dynasties' filings went upward into the celestial archive, and a record the mortal plane was never issued is no hole in the past. A provincial scholar who suggests otherwise in writing is not promoted.
 
-The empire holds the archive's figure and [[lore-greatcnvrg|the Convergence]] at the same time, and
-does not treat them as rivals.
+The Bureau's first entry falls in a remarkable century. [[lore-khazarturn|Khazártúrn]], the greatest work of the Khazári, had been cut into its mountain for twenty-six centuries and had seventy years left before it fell. The oldest human archive and the greatest work of the Elder peoples stood in the world together for one lifetime, and neither record mentions the other: no Tānvüri document of that century names Khazártúrn or the Khazári, and the Khazári account of the fall names no human realm at all.

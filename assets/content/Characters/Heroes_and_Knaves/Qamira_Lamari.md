@@ -428,108 +428,81 @@ Qâmira stands 5'4" tall with a medium build. She has rich brown skin, white hai
 
 # Dossier {#dossier}
 
-Qâmira was born in the desert city of [[place-qasirah|Qasirah]] to a family of merchants with interests in spice and precious stones. Her childhood was ordinary—comfortable but unremarkable—until the night of her tenth birthday, when she observed a conjunction of planets that moved her so deeply that she wept without understanding why. Her family dismissed it as a child's fancy, but Qâmira became obsessed with understanding the heavens.
+## Background
 
-At fifteen, she ran away to study with Astronomus, an elderly scholar in the great observatory of the Kalihara Confederation. The journey took three months through harsh desert. Astronomus accepted her as a student, and for the next twelve years she lived in scholarly seclusion, learning the practical astronomy of navigation and timekeeping and the deeper art of astrology—the belief that celestial bodies exercise a real influence over earthly events and human destinies.
+### The Conjunction
 
-Under Astronomus's patient guidance, Qâmira developed her gift. Where other astrologers relied on rote memorization of traditional correspondences, Qâmira possessed an intuitive understanding of celestial mechanics and their metaphysical correlates. When Astronomus died, Qâmira was but twenty-seven, yet already her reputation had begun to spread. Powerful patrons sought her counsel, nobles commissioned her to chart important decisions against favorable astral alignments, and even the [[affiliation-panepistmm|Panepistemium]] courted her membership.
+Qâmira was born in [[place-qasirah|Qasirah]], the principal port of [[affiliation-kalihara|Kalihara]], to a merchant family in spice and cut stones. Her childhood was comfortable and ordinary until the night of her tenth birthday, when she watched a conjunction of planets over the harbor and wept without knowing why. Her family called it a child's fancy. Qâmira never stopped looking up.
 
-For three decades, Qâmira's reputation grew. She was accurate with unsettling frequency—her predictions about political turns, marriages, business fortunes, and military outcomes demonstrated a pattern of success that could not be entirely dismissed as coincidence. Yet success brought complications: expectations she could not meet, predictions of disasters that failed to materialize, the weight of knowledge she was not always certain was beneficial to share.
+### The Pilots' Observatory
 
-Now, at fifty-eight, Qâmira is nearing the conclusion of her major life work—a complete astronomical and astrological atlas mapping the heavens for the next two centuries, allowing future astrologers to understand the patterns of influence that will shape their world. Yet this project is increasingly consuming, and recent developments have troubled her: astronomical observations that suggest patterns breaking in ways that contradict her fundamental understanding of celestial mechanics.
+At fifteen she ran away to [[place-telvari|Telvári]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called **Astronomus**, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
+
+Where other astrologers memorized the traditional correspondences, Qâmira understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Astronomus died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Panepistemium]], the scholarly federation of western Ankaris, offered her membership by letter.
+
+### Present Circumstances
+
+For thirty years her reputation has grown. She is right with unsettling frequency, about marriages, ventures, voyages, the fortunes of houses and the turns of foreign politics, too often to be dismissed as luck. Success has brought its own burdens: clients who expect more than she can give, disasters she foretold that never came, and knowledge she is not sure anyone should be told.
+
+At fifty-eight she is close to finishing her life's work, an atlas of the heavens for the next two centuries, from which later astrologers could read the influences that will shape their world. The work consumes her, and lately it frightens her: her observations show the heavens departing from the patterns she has trusted all her life, in ways her understanding of the sky cannot allow.
 
 ## Psyche
 
 ### Personality
 
-Qâmira is very difficult to understand or engage with. She is not actively unfriendly, but her social withdrawal is so complete that casual conversation with her feels strained and unnatural. She rarely initiates conversation, tends to answer questions with unexpected literalism rather than social smoothing, and seems almost contemptuous of those who disbelieve in astrology despite evidence.
+Qâmira is hard to know and harder to talk to. She is not unfriendly, but her withdrawal is so complete that casual conversation with her feels forced. She seldom speaks first, answers questions with startling literalness, and barely hides her contempt for anyone who doubts astrology in the face of her record.
 
-She is a woman tormented by the knowledge that her gift conveys to her. She sees patterns of suffering, failure, and tragedy mapped in the stars, and she carries the moral weight of knowing futures that she can sometimes warn against but rarely prevent. This burden has made her hermitic—she increasingly finds human company exhausting and potentially morally compromising, as she knows things about people's futures that they would prefer not to know.
+She is tormented by what the stars show her. She sees suffering, failure and tragedy laid out in the heavens, and carries the weight of futures she can sometimes warn against and rarely prevent. It has made her a recluse: company tires her, and she knows things about people that they would rather not.
 
-She is capable of warmth toward those few she respects, particularly those who understand her work and share her commitment to truth-seeking above comfort. She is unnervingly honest, capable of delivering devastating truths without softening language, viewing such honesty as a form of respect.
-
-She harbors deep distrust of institutional authority, believing that most governance is based on false assumptions and denial of celestial influence. This makes her difficult to work with in official capacities, as she will not compromise her interpretations to suit political convenience.
+She can be warm to the few she respects, chiefly those who understand her work and care for truth more than comfort. She is honest to the point of cruelty, and she means it as respect. She distrusts authority of every kind, holding that most government rests on a refusal to see what the heavens show, and she will not shade a reading to suit a patron's politics.
 
 ### Motivation
 
-Qâmira's primary motivation is the pursuit of truth—specifically, the truth of how celestial movements shape human affairs. She is driven by the belief that understanding these patterns provides real knowledge and potential wisdom. She wants her atlas to be a final, definitive work that will allow future generations to see and understand the grand design she has spent a lifetime mapping.
+Qâmira wants the truth of how the heavens shape human affairs, and she wants her atlas to be the definitive work that lets later generations see the design she has spent her life mapping.
 
-Increasingly, she is motivated by something darker: a suspicion that something has begun to go fundamentally wrong with the heavens themselves, that the patterns she has relied upon are breaking, and that this breaking portends something catastrophic. She feels obligated to discover and warn about this disruption, even if doing so requires her to expose aspects of celestial mechanics that the world is not prepared to understand.
+Lately a darker motive has grown beside that one: the fear that something has gone wrong with the heavens themselves, that the patterns are breaking and that the breaking foretells a catastrophe. She feels bound to find out and to warn, even if the warning means telling the world things about the sky it is not ready to hear.
 
 ### Strengths
 
-- **Unparalleled Astrological Knowledge**: Qâmira's mastery of her discipline is acknowledged even by skeptics to be extraordinary. She can calculate celestial positions with precision, interpret their meaning, and derive meaningful predictions from complex astrological data with an intuition that seems almost supernatural.
-
-- **Perceptual Acuity**: Her perception is acute—she perceives subtle details, patterns, and correlations that others miss. In observation of the heavens, she notices irregularities and variations that most astronomers would overlook.
-
-- **Mathematical Genius**: Her reasoning in mathematical and logical domains is of the first rank. She can perform complex calculations mentally, recognize patterns in numerical sequences, and identify correlations across vast datasets.
-
-- **Moral Clarity**: Despite her social awkwardness, Qâmira possesses a clear moral compass rooted in her commitment to truth. She will not compromise on essential questions, making her a trustworthy advisor on matters of principle.
-
-- **Rare and Powerful Knowledge**: She possesses knowledge that others lack, knowledge that has proven accurate with eerie frequency. This grants her authentic power and makes her counsel valuable to those who can access it.
-
-- **Discipline and Focus**: Her ability to maintain intense focus over extended periods is extraordinary. She can work without distraction for days, maintaining careful documentation and analysis.
+- **Mastery of her art**: even skeptics admit her command of astrology is extraordinary. She computes the positions of the heavens precisely and reads them with an intuition that seems uncanny.
+- **Perception**: she sees details and correlations others miss, and in the night sky she notices variations most astronomers would never catch.
+- **Mathematics**: she performs long calculations in her head and finds patterns in tables of figures that defeat her colleagues.
+- **Integrity**: for all her awkwardness she has a clear moral compass, and on a question of principle she can be trusted absolutely.
+- **Discipline**: she can work for days without distraction, recording and analyzing every observation.
 
 ### Weaknesses
 
-- **Social Ineptitude and Isolation**: Qâmira's inability to engage in ordinary social exchange severely limits her effectiveness. Her tendency to be blunt and dismissive of those who disagree with her creates unnecessary friction and makes her counsel easier to dismiss or ignore.
-
-- **Moral Isolation**: She carries the weight of knowledge she cannot easily share. Her awareness of futures she perceives through the stars creates emotional distance from others, as she is often aware of suffering or failure she cannot prevent.
-
-- **Physical Fragility**: At fifty-eight and given her ascetic lifestyle, Qâmira is physically fragile. She lacks physical prowess or ability to defend herself, making her vulnerable to direct threats.
-
-- **Dismissiveness of Skeptics**: Her contempt for those who doubt astrology leads her to dismiss reasonable questions and actually makes her appear less credible than she deserves. Her inability to articulate her knowledge in ways that convince skeptics undermines her authority.
-
-- **Potential Obsessive Paranoia**: Her recent observations of celestial anomalies may be signs of a real cosmic disruption, or they may be the beginning of a pattern of obsessive misinterpretation. She cannot objectively assess which is the case, and this uncertainty troubles her deeply.
-
-- **Ethical Ambiguity Regarding Destiny**: Qâmira wrestles with fundamental questions about whether knowing the future morally obligates her to interfere or whether sharing predictions actually changes their likelihood. This unresolved tension sometimes paralyzes her decision-making.
+- **Isolation**: her bluntness and her contempt for doubters make her counsel easy to ignore, and she cannot explain her knowledge in terms a skeptic would accept.
+- **Moral weight**: the futures she sees set her apart from everyone around her.
+- **Frailty**: at fifty-eight, after decades of a scholar's ascetic life, she is physically frail and cannot defend herself.
+- **Doubt**: the anomalies she sees may be a real disturbance in the heavens or the start of an obsession, and she cannot tell which.
+- **Paralysis**: she has never settled whether knowing a future obliges her to act on it, or whether telling a prophecy changes it, and the question sometimes freezes her.
 
 ## Social
 
 ### Patrons
 
-The House of Varendi
-: A powerful noble family that has patronized Qâmira for thirty years. They consult her before major decisions and have consistently paid her handsomely for her counsel. The current patriarch, Lord Devendra, views her as essential to his political strategy, though Qâmira considers most of his decisions foolish.
-
-The Council of the Panepistemium
-: While a member of the Guild, Qâmira has a complicated relationship with its leadership. However, certain senior members remain devoted to her work and provide research funding and access to rare texts and instruments.
-
-The Observatory of Kalihara
-: The institution where Qâmira studied and now maintains a private research chamber. The Observatory provides her with access to superior instruments and the quiet necessary for her work.
-
-The Temple of Táranon
-: While not formally affiliated, Qâmira has developed a relationship with the priesthood of this storm deity. They view her astrological work as complementary to their practice and provide both funding and spiritual support.
+- **The House of Varendi**: a Qasirah merchant house that has consulted Qâmira before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Devendra**, counts her essential to his plans, and she thinks most of his plans foolish.
+- **The Council of the Panepistemium**: Qâmira's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
+- **The Telvári observatory**: the pilots keep a chamber for her in the observatory where she studied, with the best instruments on the island and the quiet her work needs.
+- [[affiliation-taranon|Faith of Taranon]]: the priests of the storm god's temple in Qasirah's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
 
 ### Enemies
 
-Vasánt the Disputer
-: A rival astrologer who has spent twenty years attempting to prove that Qâmira's predictions are a combination of luck, statistical coincidence, and careful vagueness. He has achieved modest success in discrediting some of her work, particularly predictions that failed to materialize. He views her as a charlatan and is attempting to drive her out of the Guild.
-
-The Institutional Church
-: Certain factions within the religious establishment view astrology itself as heretical, viewing it as attributing to stars an influence that should belong solely to divine will. They have campaigned to have Qâmira's work suppressed and her reputation damaged.
-
-Merchant Lord Rashid
-: A wealthy merchant who consulted Qâmira regarding a major investment thirty years ago. She advised him against a particular venture, predicting catastrophic loss. He ignored her counsel and proceeded, resulting in exactly the disaster she predicted. Rather than accepting her accuracy, Rashid has concluded that she somehow caused the failure through sorcery or sabotage, and he has become increasingly obsessed with proving she is a witch and having her prosecuted.
+- **Vasánt the Disputer**: a rival astrologer of the foreign quarter who has spent twenty years trying to prove her predictions are luck, coincidence and careful vagueness. He has discredited a few of her failed predictions and is working to have her expelled from the Panepistemium.
+- **The Institutional Church**: a faction among the temple clergy of the foreign quarter who hold astrology a heresy, giving the stars a power that belongs to the gods alone, and who campaign to have her work suppressed.
+- **Merchant Lord Rashid**: a foreign merchant whom she warned against a venture thirty years ago. He went ahead and lost everything exactly as she foretold, and he has concluded that she caused the loss by sorcery. He is obsessed with having her brought before the harbor-wardens as a witch.
 
 ### Affiliations
 
-The Panepistemium
-: Qâmira holds senior membership, though her relationship with certain factions is adversarial.
-
-The Observatory of Kalihara
-: She maintains a private research chamber and is considered a distinguished visiting researcher.
-
-The Temple of Táranon
-: While not formally ordained, she functions as a quasi-official advisor to the priesthood regarding celestial and astrological matters.
+- [[affiliation-kalihara|Kalihara]]: she holds a craftsman's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
+- [[affiliation-taranon|Faith of Taranon]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
+- [[affiliation-panepistmm|Panepistemium]]: a senior member by correspondence, at odds with some of its factions.
 
 ## Plot Hooks
 
-1. **The Breaking Sky**: Qâmira discovers astronomical observations that suggest the celestial spheres are behaving in ways that fundamentally contradict all established understanding. Planetary movements are deviating from predicted positions, stars are shifting in ways that should be impossible, and the patterns she has relied upon for her entire working life are breaking down. She is not certain whether this indicates a real cosmic disruption with potentially catastrophic consequences for the world, or whether she is experiencing a complete collapse of her understanding and framework. Her patron, Lord Devendra, becomes interested in this discovery and wants her to suppress it, fearing the panic it would cause. Meanwhile, other scholars begin reporting similar anomalies, and Qâmira cannot tell whether she is one of a community of scholars uncovering a cosmic truth or trapped with them in a shared delusion that will destroy her credibility.
-
-2. **The Prophecy of Ruin**: A prophecy Qâmira made thirty years ago—one she has kept strictly confidential—is about to enter its fulfillment window. The prophecy concerns the death of a major political figure and the destabilization of an entire region. Qâmira originally withheld this prophecy believing that she would gain knowledge allowing her to prevent the catastrophe. Now she realizes that the mechanisms she perceived as potentially preventing the catastrophe are actually in place to cause it. Her choices are to come forward publicly with knowledge that will be deeply disruptive, to work behind the scenes to alter the prophecy's course, or to accept that the disaster will occur and she cannot prevent it. Each carries severe consequences.
-
-3. **The Charlatan Unmasked**: Vasánt the Disputer approaches Qâmira with evidence that she believes destroys the credibility of her rival's work—evidence of falsified data, manipulated records, and fraudulent predictions spanning years. If she exposes this, she will devastate Vasánt and likely win their ongoing dispute decisively. However, she becomes aware that Vasánt's fraudulent work has actually prevented some people from making decisions that the stars themselves suggested would be harmful. Vasánt's lies have had beneficial consequences, and exposing them might do harm.
-
-4. **The Stolen Atlas**: Someone steals the nearly-completed atlas that represents Qâmira's life work—months of final calculations missing. She discovers that the thief was hired by unknown parties interested in either suppressing the atlas or acquiring it for their own purposes. Investigation suggests this may be connected to the celestial anomalies she has been observing. She must track down the atlas, determine who hired the theft, and understand what they plan to do with her research. The search may lead her to discover that the cosmic disruption she fears is not natural but engineered by some unknown intelligence or group.
-
-5. **The Price of Knowledge**: A young scholar of extraordinary promise seeks to apprentice with Qâmira. As she begins teaching him, she perceives through astrological analysis that this scholar's destiny involves the betrayal of her work and her reputation. She can see the branching pathways of probability that might lead to this outcome, though she cannot see exactly what triggers it. She can accept him as a student and attempt to prevent the betrayal, refuse him (which might itself trigger his enmity and fulfill the prophecy), or attempt to manipulate circumstances to change his destiny. Each course either compromises her principles or risks creating the very disaster she attempts to prevent.
+1. **The Breaking Sky**: Qâmira's observations show planets straying from their predicted places and stars shifting in ways that should be impossible. She cannot tell whether the heavens are truly disordered, with consequences she can only guess at, or whether her own understanding is collapsing. Lord Devendra wants the findings suppressed for fear of panic, while scholars across the water begin reporting the same anomalies, and Qâmira must decide whether she is part of a discovery or of a shared delusion that will ruin her.
+2. **The Prophecy of Ruin**: A prophecy she made thirty years ago and kept secret, of the death of a great foreign ruler and the upheaval of a whole region, is about to come due. She withheld it believing she would learn how to prevent it, and she now sees that the very events she hoped would prevent it are the ones that will cause it. She can speak publicly, work in secret to change its course, or accept that she cannot stop it.
+3. **The Charlatan Unmasked**: Qâmira obtains proof that Vasánt has falsified data and predictions for years. Exposing him would end their feud. But she finds that some of his false predictions kept people from decisions her own stars marked as harmful, and that his lies have done good she would undo.
+4. **The Stolen Atlas**: Someone steals the nearly finished atlas, and with it months of final calculations. The thief was hired by unknown parties who want it suppressed or for themselves, and the trail leads toward the anomalies she has been watching, and toward the possibility that the disturbance in the heavens is being made by someone.
+5. **The Price of Knowledge**: A young scholar of rare promise asks to be her apprentice, and her charts show that he will one day betray her work and her name. She can teach him and try to prevent it, refuse him and perhaps make the enemy the stars foretold, or try to change his destiny by manipulating his life, and each choice compromises her principles or risks the very disaster she fears.

@@ -418,86 +418,66 @@ Muri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark
 
 ### Early Years and Training
 
-Muri was born the seventh son of a minor merchant family in the frontier settlements of [[affiliation-kalihara|Kalihara]], where the reach of civilization extends only so far as caravans can safely travel. His father, a cloth merchant of modest means, recognized early that his youngest would not inherit the family business. Instead, at twelve years old, Muri was apprenticed to **Rashîm al-Jahîm**, a famed caravan guard whose reputation was matched only by his brutality in protecting his charges. Under Rashîm's exacting tutelage, Muri learned the arts of sword and shield and the deeper wisdom of the road—how to read weather patterns in the stars, to recognize the subtle signs that bandits were near, to manage horses and supplies with exacting precision, and to make the hard decisions that meant life or death for dozens of people.
+Muri was born the seventh son of a cloth merchant of modest means in [[place-vashuran|Vashurán]], the port on the eastern coast of [[affiliation-kalihara|Kalihara]] where the island's spice comes down to foreign hulls, and where a cargo is only as safe as the men walking beside it. His father saw early that the youngest would inherit nothing, and at twelve Muri was apprenticed to **Rashîm al-Jahîm**, the hardest pack-train guard on the coast. Rashîm taught him sword and shield, and the rest of the trade with them: how to read weather off the sea and the stars, how to tell when a ridge path has been walked by strangers, how to keep mules, porters and stores in order over a week on the coast road, and how to make a decision on which twenty lives depend.
 
 ### Service and Ascendance
 
-For two decades, Muri served as a common guard, rising steadily through the ranks. His methodical approach to security and his uncanny ability to anticipate danger—born of instinct honed by a thousand miles of travel—eventually brought him to the attention of the greater merchant houses. By his thirties, he had become the preferred choice of wealthy traders and nobility alike, commanding premiums that reflected both his reputation and his results: in fifteen years of active service, no caravan under his protection had ever been successfully raided. This perfect record, whether born of true foresight or plain ruthlessness, became legend whispered in the caravanserais and trading halls of the Confederation.
+For twenty years Muri walked the coast road as a common guard and rose through the ranks. The road runs between the ports along the foot of the ridges, the only overland way the island allows a cargo to travel, and the trains on it carry what is too precious for a coaster's open deck: cut stones, pressed spice, the letters of credit the Qasirah houses honor among themselves. His method and his knack for smelling trouble before it came brought him to the great merchant houses, and by his thirties he was the guard the wealthiest factors asked for by name, at a price that matched his record. In fifteen years no train in his charge has lost a single bale. On the quays and in the factors' halls the record is a legend, and nobody is quite sure whether it is foresight or simple ruthlessness.
 
 ### Present Circumstances
 
-Now forty, Muri has begun to face questions he never expected to confront. The roads grow faster with each passing season—new merchant routes bypass the dangerous passes where Muri established his legend. Younger guards, trained in the newer tactics of mounted archery and swift intervention rather than the patient, methodical security he pioneered, are undercutting his fees and winning contracts he once would have claimed without question. Yet the merchants still call upon him for their most valuable shipments and most perilous routes, and he remains the safest choice for those who know they cannot afford failure. Muri is at a crossroads: he can adapt, retire, or stake his legacy upon the old ways, certain they are right even as the world shifts beneath his feet.
+Now forty, Muri faces questions he never expected. Every season more cargo goes by sea, on the fast coasters that run between the ports, and less goes by the road where he made his name. Younger guards who ride light and strike fast undercut his fees and take contracts he once had for the asking. The merchants still call him for the richest trains and the worst stretches of road, because he is the safest choice for a cargo that cannot be lost. He can change his ways, retire with the legend whole, or stake everything on the old method, certain it is right while the trade moves out from under him.
 
 ## Psyche
 
 ### Personality
 
-Muri is a man of few words, his years on the road having taught him that unnecessary speech attracts unnecessary attention. When he does speak, his voice carries the weight of certainty—not arrogance, but the confidence born of having made a thousand decisions correctly. He has little patience for pleasantries or political maneuvering, preferring to establish clear expectations and follow through exactly. Despite his stern exterior, those close to him recognize a dry humor that emerges only after weeks of travel together, and a fierce protectiveness toward those under his care that borders on obsession.
+Muri talks little; years on the road taught him that loose talk draws notice. When he speaks, he speaks with the certainty of a man who has made a thousand decisions and got them right, and he has no patience for pleasantries or politics. He sets out exactly what he expects and then does exactly what he said. The men who have walked a week beside him know a dry humor that appears on the fourth night or so, and a protectiveness toward the people in his charge that borders on obsession.
 
-His perfectionism is both his greatest strength and most significant flaw. He cannot accept failure or deviation from his plans, sometimes to the detriment of flexibility in truly unexpected circumstances. He second-guesses merchants who suggest deviations from his prescribed routes, even when those suggestions might prove superior, viewing any modification as a weakness in his original plan. This rigidity, combined with his age, has begun to worry some of his regular employers, though none dare mention it to his face.
+His perfectionism is his strength and his flaw. He cannot accept a failure or a change of plan, and he resents a merchant who suggests another route even when the suggestion is better, because changing a plan admits the plan was wrong. His regular employers have begun to worry about that rigidity in a man his age, and none of them has said so to his face.
 
 ### Motivation
 
-Muri's primary motivation is the pursuit of perfection in his craft—he views the safe passage of his charges as a sacred trust, and the idea that a single failure might tarnish his reputation drives him harder with each passing year. Beyond this, he harbors a deep concern about becoming obsolete, about being remembered as an old man clinging to outdated methods while younger competitors inherit the roads that have been his life. Internally, he wrestles with whether to prove he still belongs on the roads of the present day or to retire with his legend intact, refusing to compromise the principles that made him great.
+Muri wants to be perfect at his work. A safe arrival is a sacred trust to him, and the thought that one failure could stain his name drives him harder every year. Under that runs a fear of becoming the old man clinging to old methods while younger guards inherit his road. He has not decided whether to prove he still belongs on it, or to stop before anyone can say he does not.
 
 ### Strengths
 
-- **Uncompromising Dedication**: Muri's commitment to the safety of his charges is absolute. No caravan under his protection has ever been successfully ambushed in fifteen years of service—a record he defends with his reputation and his life.
-
-- **Tactical Acumen**: His years on the road have granted him a thorough knowledge of terrain, weather, the best times to travel, and the habits of bandits. He can predict danger hours before it manifests.
-
-- **Leadership Through Authority**: While not charismatic in the conventional sense, Muri's presence commands immediate obedience. His guards follow his orders without question because his orders have never failed to keep them alive.
-
-- **Exceptional Martial Skill**: At forty, Muri remains a dangerous warrior in close combat, his long sword work marked by spare, powerful strokes honed through decades on the road.
-
-- **Practical Wisdom**: Beyond combat, Muri possesses deep knowledge of medicine (learned from field necessity), survival techniques, and the provisioning and ordering of large groups over long journeys.
+- **Dedication**: in fifteen years no train in his charge has been robbed, and he would defend the record with his life.
+- **Knowledge of the road**: he knows every bend of the coast road, its weather, its bad seasons, and which ridge tracks a smuggler would use, and he can feel trouble hours before it arrives.
+- **Command**: he is not charming, and his guards obey him at once anyway, because his orders have always brought them home.
+- **Swordsmanship**: at forty he is still dangerous at close quarters, his blade work spare and heavy, worn smooth by decades of use.
+- **Practical skill**: he can dress a wound, feed and water forty mules and porters on a short road, and keep a frightened column moving in a monsoon squall.
 
 ### Weaknesses
 
-- **Resistance to Change**: Muri has become doctrinaire about his methods, viewing newer tactics with suspicion. This resistance may prove fatal if circumstances demand adaptation he refuses to consider.
-
-- **Overcautious Approach**: His obsession with preventing failure sometimes results in routes that are overly cautious, slower than necessary, and more expensive than truly required—frustrating merchants with time-sensitive deliveries.
-
-- **Perfectionist Paralysis**: Muri struggles to delegate or trust subordinates fully, and his constant oversight can exhaust both himself and his team, breeding resentment among younger guards who chafe under his watchful eye.
-
-- **Emotional Distance**: His tendency toward emotional guardedness makes him difficult to know well, and his inability to form true friendships leaves him isolated, reliant on transactional relationships with merchants and guards.
-
-- **Age and Physical Limitations**: While still strong, Muri is beginning to feel the weight of his years. Long journeys tire him more than they once did, and his recovery from injury is slower than in his youth.
+- **Resistance to change**: he distrusts every new method on principle, and a day will come when that costs lives.
+- **Overcaution**: his routes are slow, safe and expensive, which loses him merchants with goods that cannot wait.
+- **Control**: he cannot delegate, and his constant oversight wears out his guards and breeds resentment among the younger ones.
+- **Distance**: he keeps everyone at arm's length, and the only relationships he has are contracts.
+- **Age**: the road tires him more than it did, and he heals more slowly.
 
 ## Social
 
 ### Patrons
 
-House Kalirrûn
-: A major merchant family dealing in rare spices and silks, they have contracted Muri for their three most valuable annual shipments for over a decade. **Merchant-Prince Akrûm Kalirrûn** has personally requested Muri for shipments bound for the distant courts of the Dragon's Reach, trusting none other with goods worth a king's ransom.
-
-The Silk Caravans Consortium
-: A loose confederation of independent merchants who pool resources for major journeys. Muri is their preferred security contractor, hired for routes through the most dangerous stretches of the Veil Mountains.
-
-Lady Morwenna of House Dûravîn
-: A noble widow of considerable means, she has employed Muri repeatedly for personal journeys between her holdings, relying on his discretion as much as his skill at keeping her safe.
+- **House Kalirrûn**: a Qasirah merchant house in rare spice and cut stones, which has hired Muri for its three richest trains each year for over a decade. **Merchant-Prince Akrûm Kalirrûn** asks for him by name for any cargo bound to a foreign hull, and trusts no one else with goods worth a fortune.
+- **The Silk Caravans Consortium**: an association of independent factors who pool their goods for the coast road. Muri is their first choice for the stretch between Vashurán and [[place-korinthel|Korinthel]], where the road runs closest under the ridges.
+- **Lady Morwenna of House Dûravîn**: the widow of a foreign trading family long settled in the Qasirah quarter, who hires Muri whenever she travels between the ports and values his discretion as much as his sword.
 
 ### Enemies
 
-The Veiled Riders
-: A band of organized bandits operating in the high passes of Kalihara. While they have never successfully ambushed one of Muri's caravans, repeated failed attempts have earned them a burning hatred of the old guard captain. They have placed a substantial bounty on his head and actively seek opportunities for revenge.
-
-Khûn the Scarlet
-: A younger, more charismatic competitor who has been systematically undercutting Muri's fees and winning contracts with merchants who value speed and novelty over Muri's methodical approach. Their rivalry has begun to take on personal overtones, with each man viewing the other as a threat to his livelihood.
+- **The Veiled Riders**: a smuggling ring that tries to run goods off the coast road and up the ridge tracks toward the closed interior, past the Wardens, for buyers inland who want foreign things the island does not admit. They have never taken a train of Muri's, and every failure has made them hate him more. They have put a price on his head and are waiting for their chance.
+- **Khûn the Scarlet**: a younger, more charming guard captain who has been undercutting Muri's fees and taking contracts from merchants who want speed. The rivalry has turned personal, and each man sees the other as the end of his living.
 
 ### Affiliations
 
-Mercenaries' Guild of the Kalihara Confederation
-: Muri maintains his membership and serves occasionally on the guild's disciplinary council, lending his vast experience to contract disputes and standards of conduct.
+- [[affiliation-kalihara|Kalihara]]: Muri holds a craftsman's standing among the port Kaliharans, as a master of a trade the port depends on.
+- [[affiliation-lusinia|Faith of Lusinia]]: like many port Kaliharans, Muri keeps the foreigners' faith he grew up beside, and he lights a lamp to the World-Weaver in the Qasirah temple before every long road.
 
 ## Plot Hooks
 
-1. **The Lost Crown Shipment**: Muri is hired by House Kalirrûn to escort what he believes to be a standard shipment of merchant goods through the Veil Mountains to a noble court across the border. Only partway through the journey does he discover that the shipment actually contains the regalia of a deposed royal line—and that multiple factions are now tracking the caravan with lethal intent. Muri can continue with his original mission, knowing his "safety" record will be impossible to maintain, or improvise new tactics he has always scorned.
-
-2. **The Apprentice's Betrayal**: Muri takes on a young orphan, **Dalen**, as an apprentice guard, seeing in him the raw potential he once possessed. Over months of travel, Muri grows almost fatherly in his attachment—the closest he has come to real human connection in years. When Dalen is revealed to be the infiltrator sent by the Veiled Riders to spy on Muri's route choices and preferences, Muri's world shatters. He must hunt the young man down while grappling with forgiveness, second chances, and whether his obsessive control of everything around him created the vulnerability his enemy exploited.
-
-3. **The Obsolescence Prophecy**: A wandering oracle or wise woman **Seer Malkira** encounters Muri and, after a cryptic reading, tells him that his final journey approaches—and that it will shatter everything he believes about himself and his craft. Dismissing her as a charlatan, Muri nonetheless finds himself unable to forget her words. When his next contract takes him into unfamiliar territory controlled by forces beyond his ability to foresee, he begins to wonder if prophecy, not chance, guides his fate.
-
-4. **The Dragon Road**: A wealthy merchant consortium offers Muri a fortune to establish a completely new trade route through territory previously thought impassable—a journey that would take him beyond the borders of the Kalihara Confederation into realms unknown. The route could revolutionize commerce and cement his legacy, or it could be the catastrophic failure that ends his perfect record. The decision forces Muri to confront his true motivation: the pursuit of excellence, or the ghosts of his younger self demanding proof that he still matters.
-
-5. **The Conspiracy Within**: Muri begins to notice discrepancies in merchant accounts, unusual cargo substitutions, and strange meetings between his employers. He slowly uncovers evidence that someone within the highest echelons of the Consortium has been using protected caravans as covers for smuggling contraband—possibly stolen artifacts, magical components, or worse. Muri has to make an accusation without proof, all while protecting his charges, maintaining his reputation, and weighing his loyalty to the law against his loyalty to the merchants who have built his legend.
+1. **The Lost Crown Shipment**: House Kalirrûn hires Muri to take what he believes is an ordinary train down the coast road to a foreign hull waiting at Korinthel. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
+2. **The Apprentice's Betrayal**: Muri takes on a young orphan, **Dalen**, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Dalen is revealed as a Veiled Riders spy, sent to learn Muri's routes and habits. Muri must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
+3. **The Seer's Warning**: A wandering seer, **Seer Malkira**, reads Muri's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.
+4. **The Road Inland**: A merchant consortium offers Muri a fortune to find a way across the island's interior, a crossing no port cargo has ever been allowed to make, through country the custodians have never opened. It would make his name for ever, or end his record and perhaps his life; and the Wardens would treat it as the Veiled Riders' crime with better paperwork. The offer forces him to decide whether he wants excellence or proof that he still matters.
+5. **The Conspiracy Within**: Muri notices discrepancies in the bills of lading, cargo swapped between stops and late-night meetings among his employers. Slowly he finds that someone high in the Consortium has been hiding contraband inside his guarded trains, bound for the same inland buyers the Veiled Riders serve. He must accuse powerful men without proof, protect his charges, and decide whether he owes more to the Wardens or to the merchants who made his legend.

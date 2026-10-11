@@ -3,100 +3,66 @@ shortcode: zathuk
 name: {full: Zāthük, aliases: []}
 type: lore
 subType: law
+description: "The fifth caste of Tānvür—artisans and craftsmen, the Vüsrën who are the empire's common soldiers and watch, and the Yātvōr healers whom every caste defers to."
 data: {packFolder: castes}
 ---
 
-**Artisans, Craftsmen, and Common Warriors**
+The porcelain that reaches [[place-midhalnrgn|Mídhalión]] by the Celestial Roads, the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Zāthük are the productive middle of [[affiliation-tanvurempr|Tānvür]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yātvōr, the healers, who stand within the caste and are deferred to by everyone above it.
 
-The Zāthük form the productive middle stratum of [[affiliation-tanvurempr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.
+## The Makers
 
-## Roles and Responsibilities
-
-### Artisans and Craftspeople
-
-Zāthük artisans create the material wealth of the empire—textiles, ceramics, metalwork, woodwork, jewelry, and all manner of goods essential to daily life and military readiness. Their craftsmanship is valued throughout society.
-
-### Military Service (Vüsrën)
-
-A significant portion of Zāthük serve as common soldiers, guards, and enforcers, collectively known as the Vüsrën. They form the rank-and-file forces that defend settlements, maintain order, and serve under [[lore-vushok|Vüshōk]] command in military campaigns.
+A Zāthük workshop is a household: a master, his sons and apprentices, a kiln or a forge or a loom, and a seal registered with the district guild that every piece it sells must carry. The caste makes nearly everything the empire uses—cloth, pottery, lacquerware, ironwork, carpentry, jewelry, armor and arms—and its best work is what foreigners know Tānvür by. A potter's family may fire the same glaze for twenty generations, and a guild that loses the secret of one has lost something the registry records as a loss.
 
 ## Rights and Restrictions
 
-### Rights
+The [[lore-castelaws|Caste Laws]] give the Zāthük three rights:
 
-- **Right to Trade**: Permitted to engage in commerce and exchange goods for profit
-- **Right to Bear Arms** (Vüsrën only): Common soldiers and guards have legal right to carry weapons for defense and law enforcement
-- **Freedom to Create**: Artisans may pursue their crafts and sell their creations
+- **Trade**: an artisan may sell his own work for profit, at his own stall or through a merchant.
+- **Craft**: he may follow his trade and train others in it under his guild's rules.
+- **Arms**: the Vüsrën among them may carry weapons, as described below.
 
-### Restrictions
+They bind the caste with three restrictions:
 
-- **Obligation to Serve** (Vüsrën only): Common soldiers must answer the call to military duty when conscripted by [[lore-vushok|Vüshōk]] commanders
-- **Marriage Within Caste**: Marriage outside Zāthük is discouraged and results in social ostracism
-- **No Political Authority**: Zāthük cannot hold administrative positions or participate in governance
+- **Service**: a Vüsrën answers a [[lore-vushok|Vüshōk]] commander's call to war.
+- **Marriage**: Zāthük may marry in law, and marriage outside the caste is shunned; a craftsman who weds a merchant's daughter loses his guild's countenance.
+- **No office**: no Zāthük may hold an administrative post or take part in governance.
 
-## The Vüsrën: Common Warriors and Enforcers
+## The Vüsrën
 
-The **Vüsrën** are Zāthük tasked with maintaining civil order, defending settlements, and serving as soldiers under Warlord command. This sub-group enjoys elevated status within Zāthük due to their responsibilities and privileges:
+The _Vüsrën_ (common soldiers) are the Zāthük who bear arms. They are the empire's spearmen and archers in war and its watch in peace: they guard the gates and granaries, walk the market streets, take a thief to the magistrate and stand behind the officer who reads a sentence. They are the only people below the Vüshōk who may carry a weapon openly, and they are treated with more deference than an ordinary craftsman because their work can kill them.
 
-- **Right to Bear Arms**: Unique among non-Vüshōk, Vüsrën carry weapons for guarding, policing, and defending common people
-- **Authority in Local Enforcement**: Vüsrën enforce Caste Laws at the local level, investigating crimes and maintaining order within their communities
-- **Military Service**: Called upon to fight in wars and defend the realm alongside Vüshōk-led forces
-- **Social Respect**: Vüsrën enjoy greater deference than typical Zāthük due to their dangerous responsibilities
+When a shopkeeper in a Tānvüri town is robbed, it is a Vüsrën he goes to, and the Vüsrën who walks that street usually knows already who did it. The watch enforces the Caste Laws at street level, investigates small crimes and keeps order in its own quarter, and it takes larger matters to the Vüshōk magistrate above it.
 
----
+## The Yātvōr
 
-## The Yātvōr: Healers of the Art
+The Yātvōr (healers) are the empire's apothecaries and physicians. They are Zāthük by caste, and the respect they command runs far past it: a Warlord rises when a Grand Healer enters his hall, and a Tānthëi scholar takes her advice without argument. The Tānvüri say that illness does not ask a patient's caste, and neither does the healer.
 
-The **Yātvōr** are apothecaries and physicians within the Zāthük caste, elevated by their crucial role in maintaining public health and treating illness. Despite their caste placement, the Yātvōr command extraordinary respect across all levels of society, including from higher castes. Their standing reflects the universal recognition that healing skill transcends social hierarchy.
+**What a healer believes.** The Yātvōr teach that the body is a small copy of the Great Sorting. Health is a body whose elements, organs and flows of Lëi are each in their proper place, and illness is a breach of that classification: something displaced from where it belongs. Body, mind and spirit are three sortings of one person, and treating one alone leaves the work half done. A healer's Mandate of Health mirrors the Emperor's [[lore-mandatehvn|Mandate of Heaven]], each the keeping of order in its own domain, and the healer is taught that living in good order prevents more sickness than any remedy cures. [[lore-medicine|Medicine]] sets out the practice in full.
 
-### Philosophy and Belief System
+**The ranks.** A healer rises through four:
 
-Yātvōr practice medicine based on the principles of Hëk/Lëng balance, the Five Elements classification, and the understanding that the body is a microcosm of the Great Sorting. They believe that:
+1. _Thëizhëit_ (apprentice), learning the foundations at a master's side.
+2. _Yātgüng_ (practitioner), licensed to treat and to dispense remedies.
+3. _Dākyāt_ (renowned healer), a master of proven skill.
+4. _Vōryāt_ (grand healer), whose knowledge of the body is held to be nearly complete, and whose counsel is sought by the Zhëklüng.
 
-- All illness stems from classification failure within the body—elements, organs, or Lëi flows displaced from their proper categories
-- Body, mind, and spirit are interconnected classification systems; treating one without the others leaves the sorting incomplete
-- The Mandate of Health mirrors the Emperor's Mandate of Heaven—both govern the proper maintenance of classified order within their respective domains
-- Prevention through properly sorted living is as important as treatment of classification breaches
+**The two branches.** The _Yātzāt_ (herb-masters) are the apothecaries, who compound remedies from roots, leaves, minerals and animal parts. The _Zhëkyāt_ (life-givers) are the physicians, who dress wounds, set bones, cut and stitch, and sit with the patient.
 
-### Organization and Hierarchy
+**Where medicine ends.** Some illness comes from the spirit side—an ancestor who has withdrawn his advocacy, a debit on the moral ledger falling due as sickness, or the touch of the Hürnlëi, the unsorted chaos. A Yātvōr who suspects one of these calls in a [[lore-tanthei|Tānthëi]] scholar, or in a village a Lëigürt, and the two treat the patient together.
 
-The Yātvōr profession is structured as a formal hierarchy of achievement:
+**Public health.** The Yātvōr are responsible for the empire's sanitation, its quarantines and its response to epidemics, and they teach the common people how to keep a clean well and a clean kitchen. A province swept by plague is held to be a province whose classification is failing, and the healers who contain it are doing the empire's spiritual work as much as its medical work.
 
-1. **Thëizhëit** (Apprentices)—learning the foundational arts of healing
-2. **Yātgüng** (Practitioners)—licensed to practice medicine and dispense remedies
-3. **Dākyāt** (Renowned Healers)—masters of healing who have proven exceptional skill and wisdom
-4. **Vōryāt** (Grand Healers)—the highest rank, healers whose understanding of the body's classification system is considered near-complete and whose counsel is sought by nobility
+## The Elder Races
 
-### Two Branches of Healing
-
-The Yātvōr maintain two complementary branches:
-
-- **Yātzāt** (Herbal Masters/Apothecaries)—specialists in plant-based remedies, herbal preparations, and medicinal compounds
-- **Zhëkyāt** (Life Givers/Physicians)—practitioners trained in surgical technique, wound treatment, bone-setting, and direct patient care
-
-### Collaboration and Scope
-
-The Yātvōr work closely with [[lore-tanthei|Tānthëi]] when treating ailments believed to have spiritual causes—ancestor spirits withdrawing advocacy, moral ledger debits manifesting as physical symptoms, or Hürnlëi contamination. Physical medicine alone cannot cure classification breaches that originate in the spiritual order. This collaboration ensures comprehensive treatment for complex cases.
-
-### Public Health Initiatives
-
-Yātvōr hold primary responsibility for initiating and managing public health measures throughout the empire. These include sanitation practices, epidemic containment through quarantine and herbal treatment, and health education for the common people. A province wracked by disease is a province whose internal classification is failing—such work is essential to the empire's stability and its standing within the cosmic order.
-
-## Elder Races Among Zāthük
-
-The majority of [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] found within [[affiliation-tanvurempr|Tānvür]] society are placed within the Zāthük caste. They have become renowned for their exceptional craftsmanship:
-
-- **Sinalëan Artisans**: Master woodworkers, textile artists, and jewelers whose creations command premium prices and international renown
-- **Khazárian Smiths**: Legendary metalworkers whose weapons and armor are prized throughout the known world; also master stonemasons and engineers
-
-Their exceptional quality of work commands considerable wealth and respect, elevating individual members to positions of cultural influence despite their formal caste placement.
+Most [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] who live within the empire are classified Zāthük, because their work fits no other caste so well. Sinalëan woodcarvers, weavers and jewelers and Khazárian smiths, masons and engineers make work that sells for many times the price of a human master's, and the richest of them live better and wield more influence than many Vüshōk, whatever their tablets say.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Zāthük
-- [[lore-vushok|Vüshōk]]—Warrior Nobility who command Vüsrën forces
-- [[lore-nokvur|Nōkvür]]—Peasant farmers below Zāthük in social hierarchy
-- [[lore-shukren|Shükrën]]—Merchants and financiers (separate caste)
-- [[lore-tanthei|Tānthëi]]—Celestial scholars who collaborate with Yātvōr on spiritual ailments
-- [[lore-zeisik|Law and Honor]]—legal framework governing craftsmanship and commerce
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Zāthük
+- [[lore-medicine|Medicine]]—the healing art of the Yātvōr
+- [[lore-vushok|Vüshōk]]—the warrior nobility who command the Vüsrën
+- [[lore-tanthei|Tānthëi]]—celestial scholars, the caste above, who treat the spirit-sick with the Yātvōr
+- [[lore-nokvur|Nōkvür]]—peasant farmers, the caste below
+- [[lore-shukren|Shükrën]]—the merchants who carry Zāthük work to market
+- [[lore-zeisik|Law and Honor]]—the law the Vüsrën enforce
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

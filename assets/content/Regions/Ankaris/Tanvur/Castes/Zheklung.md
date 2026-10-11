@@ -3,57 +3,56 @@ shortcode: zheklung
 name: {full: Zhëklüng, aliases: []}
 type: lore
 subType: law
+description: "The first caste of Tānvür—the Emperor, his family and the Warlords, the lineage the celestial bureaucracy appointed to administer the sorted world, holding final authority in state, war and faith."
 data: {packFolder: castes}
 ---
 
-**Sons of the Dragon**
+The Zhëklüng are the people in [[affiliation-tanvurempr|Tānvür]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Vüszhük_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.
 
-Zhëklüng form the apex of [[affiliation-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane—their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.
+## The Son of Heaven
 
-## Administrative Authority
+The Emperor is the **Tëngzhëi** (Son of Heaven), the celestial bureaucracy's appointed agent in the mortal world. His line holds the **Tëngvōr**, the [[lore-mandatehvn|Mandate of Heaven]]: an appointment that ties the Emperor's own Lëi to the Lëi of the empire. When he is sick the harvests fail, and when his household is in disorder the provinces rebel. He is not a god, and the Tānthëi are careful to say so. He is the administrator of the sorted world, and an administrator who falls out of order puts what he administers out of order with him.
 
-The Emperor, known as the Son of Heaven (Tëngzhëi), is the celestial bureaucracy's designated agent on the mortal plane. The imperial line holds the Mandate of Heaven (Tëngvōr)—a cosmic appointment that links the Emperor's personal Lëi to the Lëi of the empire. His health and spiritual balance directly correlate with the prosperity and stability of the realm, not because he is divine, but because the classification system's mortal administrator is _structurally connected_ to the system he administers.
+## Who Decides
 
-## Authority and Governance
+The Emperor's authority over state, law and war is absolute, and in practice he governs through three bodies:
 
-While the Emperor holds the title of supreme ruler, true power is distributed and balanced among three pillars:
+- **the throne itself**, the Emperor and his household, whose decree is final;
+- **the Warlords** (_Vüszhük_), Zhëklüng of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-vushok|Vüshōk]] serving under them;
+- **the [[lore-venduk|Vëndük]]**, the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
 
-- The **Emperor** himself, whose authority is absolute in matters of state, law, and war
-- The **Warlords** (Vüszhük), regional military commanders who exercise significant administrative and judicial power within their domains
-- The **Vëndük** (Chattel Sorcerers), whose magical counsel shapes strategy, ritual, and the spiritual health of the empire
+Every final decision in governance, war and the law of faith belongs to the Zhëklüng, and the Warlords are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Warlords obey.
 
-Zhëklüng retain final authority in all matters pertaining to governance, military affairs, and religious law.
+## Rights and Duties
 
-## Rights and Responsibilities
+The [[lore-castelaws|Caste Laws]] give the first caste three rights:
 
-### Rights
+- **Final authority**: the last word in governance, law and war.
+- **The appointment**: the sole right to decide matters of state, war and religion, by the celestial bureaucracy's designation.
+- **The Vëndük**: ownership of the chattel sorcerers, bound to the Zhëklüng from the day they are claimed.
 
-- **Absolute Authority**: Final say in governance, law, and military matters
-- **Cosmic Appointment**: Exclusive administrative authority designated by the celestial bureaucracy; only caste permitted to make decisions regarding state affairs, warfare, and religious matters
-- **Ownership of the Vëndük**: Zhëklüng hold the Vëndük as their chattel sorcerers, bound to service from birth
+And they hold it to three duties:
 
-### Duties
+- **Defense**: the protection of the empire and all its people.
+- **Order**: the preservation of the classification and of harmony with heaven.
+- **Marriage within the caste**: a Zhëklüng marries only another Zhëklüng, by a match the clan council arranges.
 
-- **Protection of the Realm**: Obligated to defend the empire and its peoples
-- **Maintenance of Cosmic Order**: Must preserve the classification system's integrity and celestial harmony
-- **Prohibition of Marriage Below Their Caste**: Zhëklüng may marry only within their own caste; arranged marriages are governed by clan council
+## Names and the Number Nine
 
-## Naming and Honors
+A Zhëklüng may be granted a personal name for great service, as a Vüshōk or a Tānthëi may, and the names given to the first caste speak of dragons, of heaven's authority and of the Mandate. [[lore-personlnms|Personal Names]] describes the grant.
 
-Personal names are a rare honor granted only to Zhëklüng, [[lore-vushok|Vüshōk]], and [[lore-tanthei|Tānthëi]] for outstanding service to the empire. Names conferred upon Zhëklüng typically reflect dragons, celestial authority, and the Mandate of Heaven.
+Nine is the number of the throne. Rites of the Emperor and his caste are reckoned in nines—nine steps to the dais, nine bows, nine dishes at a coronation banquet—because nine is held to be the fullest expression of the Tëngvōr. [[lore-numerology|Numerology]] explains the rest of the reckoning.
 
-## Elder Races Among Zhëklüng
+## The Elder Races
 
-Few [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] are ever granted Zhëklüng status—such elevation is reserved for their nobility or those with significant strategic alliances with human rulers. Those who achieve this rank serve crucial roles in managing relations between their people and the empire, though their position remains precarious and subject to the whims of imperial politics.
-
-## Celestial Numerology
-
-The number nine holds deep reverence in all ceremonies and rites pertaining to the Emperor and Zhëklüng caste, as it is connected to the concept of the Tëngvōr (Mandate of Heaven) and to the fullest expression of classified cosmic authority.
+A [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is classified Zhëklüng only rarely: the lord of an Elder enclave, or the head of a house bound to a Warlord by a strategic alliance. Those who hold the rank manage their people's dealings with the empire, and their position lasts only as long as the politics of the court allow.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—overview of all caste structures and restrictions
-- [[lore-vushok|Vüshōk]]—the Warrior Nobility who share authority with Zhëklüng
-- [[lore-venduk|Vëndük]]—the Chattel Sorcerers who serve and counsel Zhëklüng
-- [[lore-zeisik|Law and Honor]]—legal framework governing Zhëklüng authority
+- [[lore-castelaws|Caste Laws]]—overview of all eight castes
+- [[lore-mandatehvn|Mandate of Heaven]]—the appointment that makes the Emperor
+- [[lore-vushok|Vüshōk]]—the warrior nobility who serve the Warlords
+- [[lore-venduk|Vëndük]]—the chattel sorcerers who serve and counsel the throne
+- [[lore-numerology|Numerology]]—the number nine and the throne
+- [[lore-zeisik|Law and Honor]]—the law the Zhëklüng hand down
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial governance and structure
