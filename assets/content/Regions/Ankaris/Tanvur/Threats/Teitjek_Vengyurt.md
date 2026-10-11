@@ -29,37 +29,65 @@ data:
   packFolder: threats
 ---
 
+# Appearance {#appearance}
+
+A lean man in his middle years, in a Vüshōk officer's lacquered harness stripped of every badge of rank, stands with his weight square over his feet as if the ground might be taken from him. His face is hard and closed; a pale line where a rank-cord once crossed his throat has never tanned. He speaks with the precise courtesy of the imperial staff and gives orders without raising his voice.
+
 # Dossier {#dossier}
 
-**"Iron Spear Piercing the Clouds"**
+**Tëitjëk Vëngyürt**, granted the name Iron Spear Piercing the Clouds for his service, was one of the most respected generals of the [[lore-vushok|Vüshōk]] caste. He is now the empire's most dangerous rebel, and the court made him one.
 
-Tëitjëk Vëngyürt was once a highly respected general within the [[lore-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.
+## Background
 
-That the defiance won the campaign made it worse rather than better: a victory won by disobedience indicts the order, and the celestial administration cannot allow that to stand.
+**The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the Mandate behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
 
-## The Rebellion
+**The exile.** He did not accept it. In exile he gathered soldiers disaffected by the purge that followed him and minor [[lore-zheklung|Zhëklüng]] nobles with grievances of their own against the court. The nobles brought their [[lore-venduk|Vëndük]] with them, because a Zhëklüng's sorcerers go where their owner goes.
 
-Tëitjëk did not accept his fate quietly. Filled with bitterness and a burning desire for revenge, he began to plot his return—not as a servant of the empire, but as its conqueror. In exile, he gathered disaffected soldiers and minor [[lore-zheklung|Zhëklüng]] nobles who had grievances against the imperial court. These nobles brought with them [[lore-venduk|Vëndük]]—magically attuned individuals who, though technically chattel, held significant arcane power.
+**The rebellion.** He means to return, not as the empire's servant but as its conqueror. His forces have made real gains in the border provinces, and the alliance that carried them there is beginning to crack.
 
-## Key Allied Nobles
+## Psyche
 
-**Zhākvëi Lëngzhāt ("Radiant Phoenix")**—The cunning matriarch of the Zhākvëi clan seeks to restore her family's influence, which had waned due to internal strife. She brings Vëndük skilled in fire and earth elemental forces.
+### Personality
 
-**Vürtzhāk Vëngdāk ("Wind's Roar")**—The young leader of the Vürtzhāk clan, frustrated with slow political rehabilitation, aligns with Tëitjëk to reclaim his family's honor quickly. His Vëndük are skilled in air and spirit domains.
+Proud, controlled and exact. He was a great general because he was right more often than his superiors, and he has never learned to hide that he knows it.
 
-## Internal Tensions
+### Motivation
 
-Despite their common cause, the alliance between Tëitjëk, Zhākvëi Lëngzhāt, and Vürtzhāk Vëngdāk is fraught with tension and hidden agendas. Both nobles view Tëitjëk as a necessary but expendable tool, continuing to play the [[lore-veizhatret|Vëi Zhāt Rëit]] even within the rebellion. Tëitjëk, however, is aware of these undercurrents and uses subtle manipulation to balance their ambitions against each other.
+To be proved right. He wants the empire to admit that the order was wrong, and he has come to believe that only a new throne will ever admit it.
 
-Both nobles are aware that if the rebellion fails, they face torture and execution. Each has begun to quietly explore escape routes and alliances beyond the empire's borders.
+### Strengths
 
-## Current Status
+A first-rate commander who knows the imperial army's doctrine from the inside, its officers by name and its supply routes by heart. He understands the [[lore-veizhatret|Vëi Zhāt Rëit]] well enough to see his allies playing it against him.
 
-The rebellion has begun to make significant gains in border regions, but internal cracks are showing. The tension between the noble leaders grows, with Lëngzhāt favoring direct confrontation while Vëngdāk prefers subterfuge.
+### Weaknesses
 
-# See Also
+He needs nobles he does not trust and sorcerers he does not own. His rebellion has no claim to the Mandate except his own grievance, and every province he takes he must hold with someone else's troops.
 
-- [[being-bathurhurtzhuk|Bāthür Hürtzhük]]—The northern warlord whose ambitions could intersect with the rebellion
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—Another destabilizing internal threat
-- [[lore-veizhatret|Vëi Zhāt Rëit]]—The political intrigue game that permeates even this rebellion
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The authority he broke with
+## Social
+
+### Patrons
+
+- **Zhākvëi Lëngzhāt**: called the Radiant Phoenix, the shrewd matriarch of the Zhākvëi clan, who wants her family's influence back after years of decline. Her Vëndük work fire and earth. She favors open battle and thinks Tëitjëk a necessary tool to be put down once the work is done.
+- **Vürtzhāk Vëngdāk**: called Wind's Roar, the young head of the Vürtzhāk clan, too impatient to wait out his family's slow rehabilitation at court. His Vëndük work air and spirit. He prefers subterfuge, and he also thinks Tëitjëk expendable.
+
+### Enemies
+
+- **The imperial court**: the officials who condemned him, and the commander whose name the registry gave his victory.
+
+### Affiliations
+
+- **The rebellion**: his own command, held together by his generalship and the two clans' sorcerers. Tëitjëk plays the two nobles against each other to keep either from taking it from him, and both have begun quietly to look for escape routes and friends beyond the borders, because a failed rebellion ends for each of them in torture and execution.
+
+## Plot Hooks
+
+1. **The True Record**: A clerk in a provincial archive has found the original battle report, with Tëitjëk's name on the victory. Both the rebels and the court want it, for opposite reasons.
+2. **The Matriarch's Exit**: Zhākvëi Lëngzhāt wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tëitjëk's plans.
+3. **Sorcerers Without Owners**: Two of Vürtzhāk Vëngdāk's Vëndük have slipped away from his camp and are trying to reach the Shadow Sect. Their owner, the rebels and the throne all want them back.
+4. **The Northern Envoy**: An envoy from [[being-bathurhurtzhuk|Bāthür Hürtzhük]] reaches the rebel camp. Tëitjëk must decide whether a steppe army in the north is an ally or the end of the empire he means to rule.
+
+## See Also
+
+- [[being-bathurhurtzhuk|Bāthür Hürtzhük]]—the northern warlord whose war could meet the rebellion
+- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—another noble house gambling against the throne
+- [[lore-veizhatret|Vëi Zhāt Rëit]]—the court's game, played even inside the rebellion
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the authority he broke with

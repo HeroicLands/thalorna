@@ -84,25 +84,36 @@ sohl: {system: {commonSkills: [dunharlng]}}
 
 ## Overview
 
-The Sultanate of Amradad is the great exception to Dunhara's tribal fragmentation—a settled, urban, and comparatively wealthy state built around a cluster of major oases in the north-western Dunhara, between the eastern shore of the [[place-vylarianse|Vylarian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] are nomadic and decentralized, Amradad is an organized state with cities, walls, irrigation, standing armies, and a court culture of considerable sophistication.
+The Amradi say that their ancestors were the only Dunhari clever enough to stop walking. The **Sultanate of Amradad** is the great exception to the Dunhara's tribal patchwork: a settled, walled and comparatively rich kingdom built around a cluster of great oases in the northwestern Dunhara, between the eastern shore of the [[place-vylarianse|Vylarian Sea]] and the open desert. Where the [[affiliation-dunhartrbs|Dunhara Tribes]] move with their herds and answer to no one above their sheikhs, Amradad has cities, walls, irrigation, a standing army, and a court as refined as any on the Vylarian coast. An outsider remembers it for the fire-temples of its cities and for the caravan tolls that pay for them.
 
 ## Character
 
-Amradad was founded generations ago when a powerful tribal confederation settled permanently around the richest oases in the desert and began building in stone. The resulting state controls the most critical juncture in the overland trade routes—the point where the roads from [[place-byzariargn|Byzaría Region]], [[place-vedyarargn|Vedyara Region]], and the [[place-khzryndsrtrgn|Khazryn Desert Region]] all converge on the coast that faces the islands of [[affiliation-cnfdrtnhrdnstts|Harad]] across the strait. This geographic advantage has made the Sultan fabulously wealthy and politically significant far beyond what his territory's sparse population would suggest.
+Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from [[place-byzariargn|Byzaría]], [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[affiliation-cnfdrtnhrdnstts|Harad]]. That crossroads has made the Sultan enormously rich and far more important than his thinly peopled land would suggest.
 
-The Sultan's court is a center of learning and patronage. Scholars of theology, astronomy, mathematics, and medicine gather in Amradad's libraries and academies. The [[affiliation-ashanpnthn|Āsháian Pantheon]] faith finds its most elaborate expression here—the great fire-temples of Amradad are architectural wonders, and the theological debates of its priestly scholars set the standard for Āsháian orthodoxy.
+The court at [[place-shamsun|Shamsûn]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Āsháian]] faith finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Āsháian orthodoxy for the tribes and the Haradi alike, whether or not either listens.
 
-Amradad's relationship with the nomadic tribes is complicated. The Sultan claims authority over all Dunhari peoples; the tribes consider this claim laughable. In practice, the two coexist through a web of trade agreements, marriage alliances, and carefully negotiated border arrangements. The Sultan's standing army is strong enough to defend the oases but not to project power into the open desert, where the nomads are uncatchable.
+## Governance
 
-Across the strait from the Sultanate's coast lie the islands of the Confederation of Haradian States, and relations with them are cordial. The Sultanate's relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been antagonistic, and when Harad, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped the Haradians win their breakaway.
+The Sultan rules in his own right. His orders pass through the **Grand Vizier**, who heads the administration, to the viziers of the treasury, the army, the post and the waters, and from them to a governor (_wali_) in every city and oasis. A judge (_qadi_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_muhtasib_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Sultan knows.
+
+The Sultan's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Sultan and answer to him for their dues, and they know to the coin how much of his treasury they fill.
+
+## Relations
+
+The Sultan claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
+
+Across the strait, relations with the Confederation of Haradian States are warm. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been hostile, and when Harad, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
 
 ## Commerce and Currency
 
-The Sultanate uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo / Bit) at its trading-port cities and within the urbanized core of the Sultanate's administrative reach—Vylarian coin is the principal medium of monetized commerce. The script system does not function locally (no [[affiliation-clgmrgntrrm|The Collegium Argentariorum]] chapters operate within the Sultanate). Beyond the cities and along the desert trade-routes commerce shifts toward [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|clan credit]] in the tribal patterns of the broader [[place-dunhardsrtrgn|Dunhara Desert]] region. Haradian coin from the secession trade is also accepted at the Sultanate's principal trading cities, exchanged through changer arrangements with the Haradian Bayt al-Khazînah.
+The Sultanate uses [[lore-vylrncrncy|Vylarian coin]]—aurion, argo and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Sultanate. Out along the desert roads, trade turns to [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. Haradian coin from the secession trade is accepted in the principal trading cities, through changers who deal with the Haradian treasury, the Bayt al-Khazînah.
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—Regional overview
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—Nomadic counterpart
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Pantheon
-- [[place-khzryndsrtrgn|Khazryn Desert Region]], [[place-byzariargn|Byzaría Region]]—Trade route neighbors
+- [[place-amradadrgn|Amradad Region]]—the land the Sultanate holds
+- [[place-shamsun|Shamsûn]]—the seat of the court
+- [[place-dunharargn|Dunhara Region]]—the wider desert
+- [[affiliation-dunhartrbs|Dunhara Tribes]]—the nomadic cousins of the open desert
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the ally across the strait
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the faith of the fire-temples
+- [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-byzariargn|Byzaría Region]]—neighbors on the trade roads

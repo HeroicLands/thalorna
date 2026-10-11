@@ -3,36 +3,31 @@ shortcode: thatlung
 name: {full: Thātlüng, aliases: []}
 type: lore
 subType: bestiary
+description: "Reptilian pack-hunters, taller than a man and nearly proof against ordinary steel, loosed from the deep earth by the great earthquake in the empire's northwest."
 data: {packFolder: threats}
 ---
 
-## The Thātlüng ("Mountain Dragon")
+A Sinalëan scout who saw the first pack says the ground had not stopped moving when they came up out of it: tall as a man at the shoulder, gray-green and fast, five of them running in a line along a fresh fault as if they had been born knowing the ground. The **Thātlüng** ("mountain dragon") are the predators the great earthquake loosed on the remote northwest of the [[affiliation-tanvurempr|Empire of Tānvür]], the country the [[lore-flksinale|Sinalë]] hold in their old forests and the [[lore-flkkhazar|Khazári]] in their mountain strongholds, and they are the one threat in the empire's reckoning that nobody filed a petition against, because nobody knew they existed.
 
-A devastating earthquake has struck the remote northwest territories of the [[affiliation-tanvurempr|Empire of Tānvür]], a region long home to the [[lore-flksinale|Sinalë]] in their ancient forests and [[lore-flkkhazar|Khazári]] in their mountain strongholds. The earthquake, unprecedented in severity, has unearthed something terrifying: the **Thātlüng**.
+## The Hunters
 
-### The Thātlüng: The New Predators
+A Thātlüng stands taller than a man, runs faster than a horse over broken ground, and hunts in packs of four to eight that close on their prey from several sides at once. The packs plan. Survivors describe one animal showing itself on a ridge while the rest came in through the trees, and Khazári sentries report packs testing a wall at night, one point at a time, as if looking for the weak course.
 
-The Thātlüng are fearsome, reptilian creatures that are large, swift, and highly intelligent, hunting in coordinated packs with deadly precision. Standing taller than a man, these creatures are built for speed and lethal precision. Their skin is thick and almost impenetrable to conventional weapons, making them a near-invincible foe for the unprepared. Their claws and teeth can tear through flesh and bone with ease, and their pack mentality allows them to hunt and kill with ruthless efficiency.
+Their hide is the problem. It is thick, scaled and layered over plates of bone, and an ordinary spear or arrow skids off it. Only the best Sinalëan blades and arrowheads and the heaviest Khazárian weapons pierce it reliably, and even the Elder peoples, who have both, are losing ground. Claws and teeth do the rest: a Thātlüng opens a man in armor with one rake.
 
-What makes the Thātlüng particularly dangerous is their resilience. Only the finest Sinalëan blades and arrows, and the sturdiest of Khazárian weapons, can pierce their tough hide. This has made them a significant challenge even for the elder races, who are struggling to contain the threat in their own lands.
+## The Earthshatter
 
-### The Aftermath of the Earthquake
+The earthquake the northwest calls the **Kōtjür Tūrhürn** ("Millennial Earthshatter") brought down cliffs that held Khazári cities and tore up wide stretches of Sinalëan forest by the roots. The Thātlüng came up out of the new fissures in its wake, as if the tremors had woken them from somewhere deep in the earth. Where they lived before, and whether more remain below, nobody knows.
 
-The earthquake, which has come to be known as the **Kōtjür Tūrhürn** ("The Millennial Earthshatter"), has devastated the northwest territories. cliffs that held Khazári cities have come down, and large stretches of Sinalëan forest have been uprooted. In the midst of this chaos, the Thātlüng emerged from deep within the earth, as if awakened by the tremors.
+## The Line in the Northwest
 
-### The Threat Beyond the Mountains
+The packs are confined, for now, to the country the earthquake broke. The Sinalë and Khazári are holding them there at heavy cost, and the numbers are against them: every season more packs are counted, and the Elder holds that fell in the earthquake cannot be rebuilt while the hunters range through their ruins.
 
-For now, the Thātlüng have been contained within the earthquake-affected area, but the situation is precarious. The elder races are fighting valiantly to protect their lands, but the sheer number of these creatures and their deadly nature make the battle difficult.
+The court is divided. One party holds that the northwest is the Elder peoples' land and its troubles theirs to settle. The other has looked at a map and seen that the only things between the Thātlüng and the rice basins are the Elder holds and a stretch of mountain no pack has yet tried to cross. The Emperor has taken the second view without announcing it, and small companies of imperial soldiers armed with Khazárian-forged weapons are already marching north to fight beside the Elders.
 
-Some members of the imperial court view this as an isolated problem, believing it is the responsibility of the elder races to manage. However, more astute observers recognize the potential for disaster if the Thātlüng break free. These creatures, with their speed, intelligence, and almost impervious hides, could decimate entire regions of the empire.
+## See Also
 
-### The Empire's Response
-
-The imperial government is in a difficult position. While there is sympathy for the plight of the elder races, many see this as their problem to solve. However, the more forward-thinking members of the court understand the stakes. The emperor has quietly begun to offer aid to the elder races, dispatching small contingents of soldiers equipped with the best Khazárian-forged weapons.
-
-### See Also
-
-- [[lore-dreadspawncrtr|Dreadspawn]]—Another supernatural threat facing the empire
-- [[lore-flksinale|Sinalë]]—The elder race bearing the brunt of this threat
-- [[lore-flkkhazar|Khazári]]—The deep folk fighting to contain the creatures
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire's response to the crisis
+- [[lore-dreadspawncrtr|Dreadspawn]]—the other made horror loose in the empire
+- [[lore-flksinale|Sinalë]]—the Elder people bearing the brunt in the forests
+- [[lore-flkkhazar|Khazári]]—the Elder people holding the mountain line
+- [[lore-elderraces|Elder Races]]—the Elder enclaves and their compact with the empire

@@ -424,82 +424,73 @@ Sâbir stands 6'1" tall with a medium build. He has deep ebony skin, black hair,
 
 # Dossier {#dossier}
 
-Sâbir Âjira was born in the industrial heart of the [[affiliation-kalihara|Kalihara Confederation]], in a district where the sky itself seems perpetually gray with woodsmoke. His father was a charcoaler of modest reputation, and Sâbir showed early aptitude for understanding fire's temperament and the subtle sciences of carbonization. Where others saw monotonous black dust, Sâbir perceived infinite variation in quality, purity, and character—each batch of charcoal an unique creation born from the controlled transformation of wood into something fundamentally different.
+## Background
 
-By his early twenties, he had begun experimenting, moving beyond his father's traditional methods to understand how different wood types, various kiln designs, and careful temperature management could yield superior product. These innovations earned him guild recognition and the loyalty of the Confederation's finest blacksmiths, who discovered that charcoal from Sâbir's kilns burned hotter, purer, and more controllably than standard product. He established his own workshop fifteen years ago and has since become the most sought-after charcoaler in the region, though his perfectionist methods mean that demand consistently outpaces his supply.
+### The Kilns Behind the Harbor
 
-Sâbir's devotion to Ústaron, the fire-aspect deity of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
+Sâbir Âjira was born in the charcoal-burners' quarter behind the harbor of [[place-qasirah|Qasirah]], where the sky over the kilns is gray with woodsmoke most days of the year. His father was a charcoaler of modest name, and the boy understood fire early: where others saw black dust, Sâbir saw endless variation in quality, purity and character, each batch a new thing made by turning wood into something else entirely.
+
+### The Better Burn
+
+In his early twenties he began to experiment beyond his father's ways, learning how different woods, kiln shapes and careful control of the burn changed what came out. The port's best smiths found that his charcoal burned hotter, cleaner and more evenly than any other, and they have bought from no one else since. Fifteen years ago he opened his own kilns, and he is now the most sought-after charcoaler on the coast, with more orders than his methods will ever let him fill.
+
+### The God of the Forge
+
+Like many port Kaliharans, Sâbir keeps the faith of the foreigners he grew up among. His devotion to Ústaron, the fire-god of [[affiliation-sacredforge|the Sacred Forge]] in the [[affiliation-arldnpnthn|Aurèldían Pantheon]], is less a duty than a part of his work: in a well-tended kiln he sees a small, holy act of transformation, an echo of the god's own fire.
 
 ## Psyche
 
 ### Personality
 
-Sâbir is a man of contemplative intensity, prone to long silences broken by sudden, passionate bursts of explanation about his work. He speaks deliberately and precisely, particularly when discussing the nuances of different wood types or kiln management—topics that transform him from quiet craftsman into animated teacher. Around those he does not know well, he maintains a reserved distance, though this coolness masks genuine warmth toward those he considers part of his professional circle.
+Sâbir is quiet and intense, given to long silences broken by sudden floods of explanation about his craft. He speaks slowly and exactly, and the talk of woods and kilns turns him from a reserved craftsman into an eager teacher. With strangers he keeps his distance; with the smiths and charcoalers he counts as his own, he is warm.
 
-His defining characteristic is perfectionism bordering on obsession. He can spend hours testing variations in wood moisture content or kiln temperature, seemingly indifferent to the profit or deadline that hangs over such experimentation. This dedication impresses those who share his values and frustrates those who prioritize commerce over craft. Despite the rigidity of his standards, Sâbir possesses a dry, subtle humor that emerges once one knows him well—usually self-directed and focused on his own endless pursuit of incremental improvement.
+His defining trait is a perfectionism close to obsession. He will spend hours on the moisture of a log or the heat of a burn while a buyer waits and the profit goes elsewhere, which impresses those who share his values and infuriates those who do not. Under the rigor is a dry humor, usually at his own expense and his endless chase after a slightly better burn.
 
 ### Motivation
 
-Sâbir is driven by a singular, almost monastic vision: to create the perfect charcoal. He understands intellectually that "perfect" is an unreachable horizon, yet this does not discourage him—if anything, it energizes his pursuit. He believes that by constantly improving his craft, he honors both Ústaron and the wood itself, transforming one noble material into another through discipline and knowledge. Recognition and profit matter less to him than the knowledge that, somewhere, a blacksmith or metalworker is creating something magnificent with his charcoal.
+Sâbir wants to make perfect charcoal. He knows there is no such thing, and the knowledge only spurs him on: improving his craft honors Ústaron and the wood, turning one noble material into another by discipline and knowledge. Fame and money matter less to him than the thought of a smith somewhere making something fine with his fire.
 
-More subtly, Sâbir seeks to prove that mastery in a craft considered humble or utilitarian can be as profound as any "higher" pursuit. His charcoal feeds industry and creation; he is not a servant to commerce but a servant of transformation itself.
+He also wants to show that a humble trade can hold as much mastery as any learned one. His charcoal feeds every forge on the coast, and he thinks of himself as a servant of the fire, not of the market.
 
 ### Strengths
 
-- **Pyrogenic Mastery**: Understands fire and combustion with intuitive depth, able to manage kiln temperatures with precision and predict burn outcomes with near-perfect accuracy.
-- **Experimental Discipline**: Methodically tests variations and innovations, documenting results in detailed journals that represent a library of carbonization knowledge.
-- **Wood Cognition**: Can assess timber type, moisture content, and potential yield with remarkable precision, selecting materials that will produce optimal charcoal.
-- **Reliable Quality**: His reputation for consistent, superior product means that those who receive his charcoal know precisely what they are getting—reliability that justifies his premium prices.
-- **Mentoring**: Though he appears solitary, Sâbir proves an excellent teacher to those few he accepts as apprentices, conveying both technical knowledge and philosophical understanding of the craft.
+- **Fire**: he understands burning by instinct, holds a kiln's heat exactly where he wants it and can tell how a burn will end before it is half done.
+- **Method**: he tests every change and records the results in journals that by now make a library of the craft.
+- **Wood**: he judges a log's kind, dryness and yield at a glance, and chooses his wood accordingly.
+- **Reliability**: buyers of his charcoal know exactly what they are getting, and that certainty is worth his prices.
+- **Teaching**: the few apprentices he accepts learn both the technique and the reverence behind it.
 
 ### Weaknesses
 
-- **Paralyzing Perfectionism**: Will delay shipments indefinitely in pursuit of quality increments that may be imperceptible to the end user, damaging client relationships and profits.
-- **Communication Deficit**: His tendency to internalize thoughts and speak rarely makes him seem brusque or dismissive, sometimes alienating potential allies or patrons.
-- **Inflexibility**: While innovative within his craft, Sâbir struggles to adapt to external demands or alternative approaches that deviate from his established methods.
-- **Hermitic Isolation**: His focus on work leaves little room for the broader social and political networks that might advance his reputation or interests.
-- **Vulnerability to Exploitation**: His passion for craft makes him susceptible to those who appeal to his professional pride, potentially leading him to commit resources to projects that do not serve his interests.
+- **Perfectionism**: he will hold back a delivery for an improvement no buyer could detect, and loses customers and money by it.
+- **Silence**: he says so little that he seems curt or dismissive, and puts off people who could help him.
+- **Inflexibility**: inventive inside his craft, he resists every demand from outside it.
+- **Solitude**: his work leaves no room for the friendships and alliances that would protect his interests.
+- **Pride**: anyone who flatters his skill can talk him into spending his resources on schemes that do not serve him.
 
 ## Social
 
 ### Patrons
 
-Master Smith Khardun
-: A renowned metalworker whose forges exclusively use Sâbir's charcoal and who has publicly praised his work, creating demand among other smiths seeking the "Âjira advantage."
-
-The Confederation's Arsenal
-: The state military purchasing authority regularly commissions Sâbir's charcoal for weapons production, providing steady if not always punctual income.
-
-Merchant-Artificer Sornak
-: A dealer in high-quality tools and materials who maintains exclusive distribution rights to Sâbir's premium charcoal in three provinces.
+- **Master Smith Khardun**: a famous Qasirah smith whose forges burn nothing but Sâbir's charcoal, and whose public praise has sent other smiths looking for the same edge.
+- **The Confederation's Arsenal**: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+- **Merchant-Artificer Sornak**: a dealer in fine tools and materials who holds the sole right to sell Sâbir's best charcoal in the three smaller ports.
 
 ### Enemies
 
-The Bulk Producers
-: A consortium of larger charcoaling operations views Sâbir's premium methods and higher prices as a threat to their market dominance. They have begun spreading rumors about his reliability and attempting to poach his key clients.
-
-Market Pressure
-: The Confederation's rapid industrialization demands ever-larger quantities of charcoal, and many officials view Sâbir's refusal to scale production as an obstruction to progress.
-
-Rival Craftsman Voth
-: Another charcoaler who attempted to copy Sâbir's methods but failed to achieve comparable results. Voth publicly claims Sâbir guards proprietary secrets rather than admitting his own inferiority.
+- **The Bulk Producers**: an association of larger charcoaling yards that sees his prices and methods as a threat. They spread rumors about his reliability and try to lure away his best buyers.
+- **The harbor factors**: the port's smiths and the foreign hulls that load charcoal for the voyage home want ever more of it, and the factors who broker it count Sâbir's refusal to burn more as an obstruction to trade.
+- **Rival Craftsman Voth**: a charcoaler who tried to copy Sâbir's methods and failed, and who tells the quarter that Sâbir hoards secrets, sooner than admit his own work is worse.
 
 ### Affiliations
 
-Charcoalers' Guild of the Kalihara Confederation
-: Member and standard-bearer of quality standards, though increasingly at odds with the guild's push toward mass production.
-
-The Order of Ústaron's Flame
-: A semi-religious society of craftspeople who work with fire, from smiths to brewers, where Sâbir maintains a contemplative presence.
+- [[affiliation-kalihara|Kalihara]]: a craftsman's standing among the port Kaliharans, and the standard-bearer of quality in the Charcoalers' Guild of the port, increasingly at odds with its push to burn more and burn faster.
+- [[affiliation-sacredforge|The Sacred Forge]]: a quiet member of the Order of Ústaron's Flame, the fellowship of fire-workers—smiths, brewers, potters and charcoalers—attached to the god's temple in the foreign quarter.
 
 ## Plot Hooks
 
-1. **The Commission of Urgency**: A high-ranking Confederation military official approaches Sâbir with an enormous commission—enough charcoal to supply an entire army for a campaign of conquest into neighboring territories. The payment is staggering, enough to secure Sâbir's fortune for life. However, completing the order would require abandoning his standards, using inferior wood and rushing production. The official makes it clear that refusal will be considered unpatriotic. Sâbir must navigate the tension between his personal code and his country's needs, and discover what exactly the Confederation intends to wage war upon.
-
-2. **The Contaminated Source**: Sâbir discovers that the primary source of wood supplying his kilns—a carefully managed forest he has relied upon for twenty years—has been secretly logged by another operator and replaced with inferior species. Someone has deliberately sabotaged his supply chain, likely one of his rivals. Sâbir must trace the source of this betrayal and decide whether to retaliate, relocate his operation, or attempt to find an alternative that maintains his standards without compromising his position.
-
-3. **The Apprentice's Tragedy**: A young apprentice Sâbir has been mentoring is caught stealing from the workshop and selling inferior product under Sâbir's name. This betrayal offends Sâbir on multiple levels—professional, personal, and spiritual. He must decide whether to turn the apprentice over to guild authorities, attempt to understand what drove the theft (desperation? coercion from rivals?), or take a more nuanced approach that preserves the possibility of redemption while protecting his reputation.
-
-4. **The Innovation Demand**: A brilliant but impetuous young inventor approaches Sâbir with an idea for a revolutionary new kiln design that could triple production while theoretically maintaining quality. The inventor has connections to the Confederation's elite and is offering significant investment. Sâbir is intrigued by the technical possibility but deeply suspicious of speed and scale. He must decide whether to risk his careful legacy on an experimental partnership or watch as others adopt and profit from technology he could have shaped.
-
-5. **The Sacred Affront**: The Temple of Ústaron announces plans to dismantle the ancient communal kilns that have burned in the city for centuries, replacing them with a modern, unified industrial facility. The temple frames this as "progress" and "honoring the god through technological advancement." Sâbir views it as spiritual vandalism—those ancient kilns are sacred sites where generations of charcoalers have worked and worshipped. He must decide whether to resist a religious authority he respects, and whether he can find allies among those who see technology not as inevitable progress but as a loss of something essential.
+1. **The Commission of Urgency**: A foreign agent arrives in Qasirah with an enormous order: enough charcoal to fire the forges of an army fitting out across the water for a war of conquest. The price would make Sâbir rich for life, and meeting it would mean bad wood and rushed burns. The harbor factors press him to accept for the port's sake. Sâbir must weigh his craft against the trade, and find out whose war his fire would feed, and whether the Wardens would let it sail.
+2. **The Contaminated Source**: The coppiced woodland that has supplied his kilns for twenty years has been secretly cut by someone else and replanted with poor trees. Someone has sabotaged his supply on purpose, probably a rival, and Sâbir must find who, and decide whether to retaliate, move his kilns or find new wood without lowering his standards.
+3. **The Apprentice's Tragedy**: An apprentice Sâbir has been training is caught stealing from the kilns and selling poor charcoal under his master's name. The betrayal wounds Sâbir as a craftsman, a teacher and a believer. He must choose between handing the boy to the guild, learning what drove him to it—hunger, or a rival's pressure—and finding a way to protect his name that still leaves the boy a road back.
+4. **The Innovation Demand**: A brilliant, impatient young inventor brings Sâbir a design for a new kiln that could burn three times as much without, he claims, losing quality, and backers among the great merchant houses are ready to pay for it. Sâbir is fascinated by the idea and deeply suspicious of speed and size. He must risk his name on an experiment or watch others build it without him.
+5. **The Sacred Affront**: The temple of Ústaron in the foreign quarter announces that it will pull down the old communal kilns that have burned behind the harbor for centuries and replace them with one great kiln-yard under its own management, a hotter and purer fire for the god. To Sâbir the old kilns are holy ground, where generations of charcoalers have worked and prayed. He must decide whether to oppose a priesthood he reveres, and whether he can win allies among the port's Kaliharans, for whom a practice kept exactly for centuries is not lightly changed.

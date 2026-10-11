@@ -3,7 +3,7 @@ shortcode: dunhartrbs
 name: {full: Dunhara Tribes, aliases: []}
 type: affiliation
 subType: polity
-description: "Confederation of nomadic tribes ruling the Dunhara Desert—horsemen, raiders, and herders bound by clan tradition and the code of the open sand."
+description: "The nomadic confederations of the Dunhara Desert—riders, guides and caravan-masters under their own sheikhs, joined by a common council at Dûn Ashir, the Laws of the Well and the code of salt."
 data:
   templatePriority: null
   demonym: Dunharan
@@ -75,25 +75,46 @@ data:
 sohl: {system: {commonSkills: [dunharlng]}}
 ---
 
-The Dunhara Tribes are a collection of nomadic and semi-nomadic peoples who inhabit the vast deserts and scrublands of south-central [[place-ankrscntnnt|Ankaris Continent]]. They are not a unified polity—each tribe governs itself through its own chiefs and elder councils—but they share a common language, a common faith, and a common understanding of the desert's law: hospitality to guests, ferocity to enemies, and respect for the water that sustains all life.
+## Overview
+
+A Dunhari guide asked who rules the desert gives the same answer every time: the well does, and whoever gets there first in the right season. The **Dunhara Tribes** are the nomadic and half-nomadic peoples of the [[place-dunhardsrtrgn|Dunhara Desert]], perhaps a dozen great confederations and many smaller tribes who ride their seasonal circuits between the oases of south-central [[place-ankrscntnnt|Ankaris Continent]]. They are not one realm. Each tribe governs itself under its sheikh and its elders, and what joins them is a shared tongue, a shared faith and a shared law of the desert: welcome for the guest, ferocity for the enemy, and respect for the water every life depends on. Their seat, so far as they have one, is the oasis of [[place-dunashir|Dûn Ashir]], where caravans hire their guides and the common council meets.
 
 ## Character
 
-The tribes are organized around kinship networks, with each tribe tracing descent from a legendary ancestor. Inter-tribal relations are complex—alliances shift with the seasons, and a tribe that is your trading partner in spring may be your raiding rival in autumn. The only consistent rules are the Laws of the Well: universal obligations of hospitality at oases and water sources that even bitter enemies must honor.
+Every tribe traces its descent from an ancestor of legend, and every tribe is a web of kinship: households, lineages, clans. Relations between tribes change with the seasons. The tribe that trades with you in spring may raid you in autumn, and the only rules that never change are the **Laws of the Well**, the duties of hospitality at oases and springs that even blood enemies keep. Two tribes at feud water their herds at the same well in turn, and neither draws a blade within sight of it.
 
-The Dunhari are master riders and navigators. Their knowledge of the desert—its hidden water sources, its seasonal pastures, its treacherous sand seas—is passed down through oral tradition and jealously guarded. A Dunhari guide is the single most valuable asset a caravan crossing the desert can hire.
+The Dunhari are master riders and pathfinders. They know where the hidden water lies, which pastures green in which month and which sand seas swallow the careless, and they hand that knowledge down by word of mouth and guard it closely. A Dunhari guide is the most valuable thing a caravan crossing the desert can hire, and his price says so.
 
-Trade is central to Dunhari life. The tribes control the overland routes that run east from [[affiliation-cnfdrtnhrdnstts|Harad]] and [[place-byzariargn|Byzaría Region]] to their far terminus in [[place-vedyarargn|Vedyara]]—the one road into the subcontinent that crosses no mountain, since it passes south of the [[place-graznmntns|Grazian]] wall's western end—and every tribe profits from caravan tolls, guide fees, and protection agreements. The wealthier tribes maintain semi-permanent settlements at major oases that function as caravansaries and market towns.
+## Governance
+
+No one rules the tribes. A tribe is led by its **sheikh**, who holds his place by descent and by the consent of his elders together, and loses it when either fails. Beneath him the **householders** speak for their tents and herds, the **elders** settle what the young dispute by their memory of custom, and the **Keeper of the Feud** records blood owed and blood paid, without whom no settlement can be reckoned.
+
+Matters that touch more than one tribe go to the **common council** at Dûn Ashir. Each tribe sends delegates who may argue and may not bind, and the **Speaker of the Council** keeps the peace of the meeting and the order of speaking and has no other power. The council's offices serve the tribes in common: the **Lawkeeper** holds the customs the tribes share and arbitrates where two tribes' customs differ; the **Truce-Warden** keeps the peace at the council and the seasonal markets; the **Water-Warden** keeps the wells and pastures the tribes share and the order in which they are used; the **Host-Caller** summons the common muster when a threat concerns them all; and an **Envoy** carries the council's word to a settled power, protected by custom while he carries it.
+
+Two bodies stand beside the council and answer to none of the sheikhs. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers the acclaimed warriors of every tribe at the [[place-stoneofranaz|Stone of Ranâz]] at the season-turns, and its word carries moral weight in every camp. The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] keep a practitioner in every camp of consequence, read the weather for council and warband alike, and recognize the vessels in whom the storm god speaks. A sheikh who defies either of them can do it once.
+
+## Relations
+
+The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith and are bound to it in every rite. Toward the [[affiliation-sultntmrdd|Sultanate of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtnhrdnstts|Haradian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhūmipāla]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
+
+## Trade and Routes
+
+The tribes hold the overland roads that run east from [[affiliation-cnfdrtnhrdnstts|Harad]] and the [[place-byzariargn|Byzarian]] coast to [[place-vedyarargn|Vedyara]], the one road into the subcontinent that crosses no mountain, since it passes round the western end of the [[place-graznmntns|Grazian]] wall. Every tribe lives partly on that road: tolls, guide fees and the price of protection. A caravan carries the goods of many owners under one escort, and responsibility for it passes from tribe to tribe as it crosses their lands. The richest tribes keep half-permanent camps at the great oases, which serve as caravanserais and market towns for the season.
 
 ## Commerce and Currency
 
-Dunhara Tribes operates almost entirely on [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|tribal credit]] customs. The pastoral economy of the Dunhara has not monetized; goods, livestock, and kin-obligation handle the bulk of commerce. Foreign coin (Vylarian Argo from western trade, Khelâthi gezan pieces from southern trade) occasionally enters tribal hands through caravan exchange and is valued as a money-good (intrinsic-metal value) rather than as currency in the formal sense.
+The tribes trade almost entirely by [[lore-bartercnmy|barter]] and by [[lore-kinhalcrdt|kin-credit]]: livestock, goods and the obligations of kinship carry nearly every bargain, and the desert economy has never taken up coin. Foreign money reaches the tribes through the caravans—Vylarian argos from the western trade, Khelâthi gezan from the south—and is valued for its metal, as a good among goods, not as currency.
 
 ## See Also
 
-- [[place-dunharargn|Dunhara Region]]—Regional overview
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—The settled Dunhari polity
-- [[place-khzryndsrtrgn|Khazryn Desert Region]]—Northern neighbor
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Western trade terminus
-- [[place-vedyarargn|Vedyara Region]]—Eastern trade terminus, reached by land round the wall's end
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—Pantheon
+- [[place-dunharargn|Dunhara Region]]—the desert and its two countries
+- [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert the tribes range
+- [[place-dunashir|Dûn Ashir]]—the oasis seat of the common council
+- [[lore-dunhariclt|Dunhari]]—the people and their customs
+- [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the warriors' gathering at the Stone of Ranâz
+- [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers of the camps
+- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the settled Dunhari realm
+- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the western trade terminus
+- [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern neighbor
+- [[place-vedyarargn|Vedyara Region]]—the eastern trade terminus, reached round the wall's end
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—the faith of fire and light

@@ -3,143 +3,73 @@ shortcode: elderraces
 name: {full: Elder Races, aliases: []}
 type: lore
 subType: folk
+description: "How the Sinalë and Khazári live within the Empire of Tānvür—classified into castes by their work, self-governing in their enclaves, and watched by an empire that cannot account for their magic."
 data: {packFolder: tanvur}
 ---
 
-## Elder Races in Tānvür
+In the [[affiliation-tanvurempr|Empire of Tānvür]] the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] carry classification tablets like everyone else, and they treat them as paperwork. Unlike [[lore-castelaws|foreigners]], who stand outside the cosmic order, the Elder peoples are classified: each is placed in a caste by the work it does for the empire. The fit is poor. The castes were made for humans, and the Elder peoples are millennia older than the Sorting as humans tell it. Inside the empire they keep to their assigned castes for practical reasons, and inside their own enclaves they live by their own traditions and their own sense of what they are. This arrangement makes Tānvür the one human realm where Elder knowledge passes to humans steadily, formally and as a paid office, not by chance or by watching (see [[lore-longnhrtnc|The Long Inheritance]]). [[lore-castelaws|Caste Laws]] gives the legal framework.
 
-Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
+## The Mandate and the Elder Age
 
-In the Empire of Tānvür, the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] occupy a unique position within the classification system. Unlike [[lore-castelaws|foreigners]], who exist outside the cosmic order entirely, the Elder Races are _classified_—absorbed into the caste system based on their functional roles within the empire. But the fit is imperfect: the classification system was designed for humans, and the Elder Races predate it by millennia. They accept their assigned castes pragmatically when operating within the empire, while maintaining their own traditions and self-understanding within their enclaves. This arrangement makes Tānvür unique: it is the only human polity in which Elder Race knowledge passes to humans continuously, formally, and as a matter of paid office rather than by observation or accident—see [[lore-longnhrtnc|The Long Inheritance]]. See [[lore-castelaws|The Elder Races and the Classification System]] for the cosmological and legal framework of this classification.
+The empire's dated record of dynasties opens around **2500 BF**, and the [[lore-celestlrdr|Celestial Order]] teaches that the [[lore-mandatehvn|Mandate of Heaven]] was given to a mortal line far earlier, at the zero of the Celestial Calendar (see [[lore-clndrstrlgy|Calendar and Astrology]] for the two reckonings).
 
----
+Tānvüri chroniclers draw a conclusion from this that the Elder peoples reject and refuse to argue over. Every great work of the Sinalë and the Khazári, the chroniclers point out, was made before the Mandate and none after it: their songs of their own best age are laments, their finest halls stand closed, and neither people has raised anything in the empire's memory to match what its own accounts describe. The chroniclers read this as a transfer of office. The mortal plane needed an administrator; one was appointed; and the age in which the Elder peoples held the world in trust closed, as a jurisdiction closes when the bureau that succeeds it is staffed. The boldest of them say the Mandate is what allowed the Elder age to end at all.
 
-### The Mandate and the Elder Age
+Nothing in the empire's keeping supports this. The imperial archive goes back to 2500 BF and no further, and it says nothing about the Elder peoples before that date. The Sinalë will not discuss when their great age ended, and the Khazári will not discuss anything. It is exactly the claim an imperial chronicler would want to make, it cannot be tested against one document the empire holds, and the Tānthëi who share a caste with Sinalëan and Khazárian scholars take care not to raise it in their hearing.
 
-The empire's datable dynastic record opens around **2500 BF**, and the [[lore-celestlrdr|Celestial Order]] teaches that the [[lore-mandatehvn|Mandate of Heaven]] was issued to a mortal line at the zero of the Celestial Calendar, far earlier still—see [[lore-clndrstrlgy|Calendar and Astrology]] for the two reckonings and how the empire holds both.
+## Where the Elder Peoples Are Placed
 
-Tānvüri chroniclers draw a conclusion from this that the Elder Races do not accept and will not be drawn into arguing about. The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], the chroniclers observe, set every one of their great works before the Mandate and none after it: their songs about their own best age are elegies, their finest halls are closed, and neither people has raised anything within the empire's memory to compare with what their own accounts describe. The chroniclers read this as a reassignment. The mortal plane required an administrator, the administrator was appointed, and the age in which the Elder Races held the world in trust closed at that appointment—in the ordinary way a jurisdiction closes once its successor bureau is staffed. The more assertive of them go further: that the Mandate's issue is what _permitted_ the elder age to end, and that the elder works could not have failed until the classification system was ready to take the file.
+The empire places the Elder peoples by function. The placement is binding in law—an Elder of a caste has that caste's rights and restrictions—and incomplete in cosmology, because the system can file them and cannot account for their magic.
 
-Nothing in the empire's possession supports this. The imperial archive reaches back to 2500 BF and no further, and it says nothing whatever about the Elder Races before that. The Sinalë will not discuss when their own great age ended, and the Khazári will not discuss anything. It is exactly the claim an imperial chronicler would wish to make, it cannot be checked against a single document the empire holds, and the Tānthëi who sit in one caste beside Sinalëan and Khazárian scholars are careful not to raise it in their hearing.
+**Zāthük**, most of them. Most Sinalë and Khazári in the empire are classified [[lore-zathuk|Zāthük]], the artisan caste. Sinalëan woodwork, weaving and jewelry and Khazárian smithing and stonework command prices no human workshop can, and the best Elder craftsmen are richer and better respected than their caste would suggest.
 
----
+**Tānthëi**, the scholars. Sinalëan sages of ancient lore, the stars and the natural world are often classified [[lore-tanthei|Tānthëi]] and advise the human elite. Their counsel is valued and mistrusted in equal measure, since every scholar at court knows that a Sinalo's opinion rests on more centuries of watching than any human library holds. Khazárian masters of engineering, mining and metallurgy are classified Tānthëi when they design the empire's fortresses and mines; a Khazári-laid mine follows the rock and needs no timber. Their practical skill is prized, and their deeper knowledge of stone and ore is regarded with awe and unease.
 
-### Functional Caste Classification
+**Vüshōk**, the officers. Khazári of proven courage or generalship are given [[lore-vushok|Vüshōk]] rank and usually hold the empire's mountain borders, where their stubbornness under attack is famous. Sinalëan archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
 
-The empire classifies the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within its caste system based on the functions they perform—not based on the cosmological reasoning that underlies the human castes. The classifications are administratively real (Elder Race members are subject to the rights and restrictions of their assigned caste) but cosmologically incomplete: the system can categorize them but cannot fully explain their magic or their relationship to the cosmic order. The elder races are placed within certain castes based on their roles and contributions:
+**Zhëklüng**, rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified [[lore-zheklung|Zhëklüng]]. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
 
-#### Zāthük (Artisans and Merchants)
+**Never Vëndük.** No Elder is classified [[lore-venduk|Vëndük]], because Elder magic is part of their nature and does not work through the sorcerer's petition.
 
-**Sinalëan and Khazárian Artisans:** The majority of Sinalë and Khazári are placed within the Zāthük caste. Sinalë are renowned for their intricate craftsmanship, especially in woodwork, textiles, and jewelry, while Khazári are master smiths, known for their work with metal and stone. As Zāthük, they contribute significantly to the empire's economy through trade and artisanal crafts. Despite their caste designation, they often command respect and wealth due to the exceptional quality of their work.
+## The Enclaves
 
-#### Tānthëi (Scholars and Astrologers)
+The empire recognizes the ancestral lands of the Sinalë and the Khazári, scattered through its territory. Within them the Elder peoples govern themselves, magic included, and the empire watches the enclaves closely for any sign of rebellion.
 
-**Sinalëan Scholars:** Sinalëan scholars, known for their deep knowledge of ancient lore, astronomy, and natural sciences, are often granted the status of Tānthëi. These Sinalë are advisors to the human elite, offering insights into the natural world, history, and philosophy. However, their counsel is sometimes met with suspicion, as humans are aware that the Sinalë wisdom comes from centuries of observation, far surpassing human experience.
+**The Sinalëan forests** are old woods where few humans go. The Sinalë keep their traditions there and work their own magic, and to the human villages at the forest edge the woods are strange country. The empire leaves the forests to them on the understanding that they stay loyal, and the Sinalë send out rare herbs, medicinal plants and, now and then, an enchanted thing in return.
 
-**Khazárian Scholars:** Khazárian scholars, especially those versed in engineering, geology, and metallurgy, are also classified as Tānthëi. They contribute to the empire's infrastructure, designing fortifications and mining operations; the mines they lay out follow the rock and need no timber. While their practical skills are valued, their more esoteric knowledge of the earth and minerals is often viewed with a mixture of awe and mistrust.
+**The Khazárian strongholds** are cities cut into the cliff faces, with deep refuges in the rock behind them. They are all but impregnable, and they are the centers of Khazárian mining, metallurgy and smithing. The Khazári keep their inner life to themselves and share a fraction of what they know. The empire depends on their weapons, armor and fortifications, and in exchange leaves the strongholds alone, on condition that the Khazári help defend the empire in war.
 
-#### Vüshōk (Warriors and Military Officers)
+## Suspicion on Both Sides
 
-**Khazárian Warriors:** Khazári who serve as military officers are honored with the Vüshōk title, particularly those who have demonstrated exceptional bravery or strategic genius. They are often involved in defending the empire's mountainous borders and are respected for their unyielding fortitude in battle.
+The Elder peoples are inside the caste system and remain distinct from it, and the tension never goes away. Humans regard them with suspicion, envy and awe, for their long lives and their magic; the Elder peoples find humans short-sighted and driven by ambition instead of wisdom.
 
-**Sinalëan Warriors:** Sinalëan warriors, known for their archery and stealth, are also granted Vüshōk status when they serve as officers in the empire's military campaigns. They are particularly valued as scouts and skirmishers, though their reluctance to engage in human wars unless absolutely necessary sometimes creates friction.
+**The human view.** The ruling castes fear that the Elder peoples could unsettle the human order, and laws and customs limit their power and influence, some openly and many quietly.
 
-#### Zhëklüng (Nobility)
+**The Elder view.** The Sinalë and Khazári deal carefully with humans, knowing they live in an empire that could turn on them if it felt threatened. They keep to themselves and take part in the empire's affairs only as far as they must.
 
-**Sinalëan and Khazárian Nobles:** Few Sinalë and Khazári are granted Zhëklüng status, reserved for their nobility or those who have forged significant alliances with the human rulers. These individuals are often the leaders of their respective communities and manage relations between their people and the empire. Although they hold this high status, they are acutely aware of their precarious position within a human-dominated society.
+**Magic.** The Elder peoples keep their magic within their own lands, under an agreement that has never been written down, and the empire watches that it stays there. The Vëndük are always on guard for Sinalëan or Khazárian influence, because Elder magic is the one power in the empire their monopoly cannot reach.
 
----
+## In War
 
-### Territories and Autonomy
+The Elder peoples mostly fight for the empire on their own ground. In a great war the throne may call on them, and the alliance is uneasy. Sinalëan archers are used as scouts and skirmishers, and human commanders count them unreliable because they hold back. Khazárian engineers are unmatched at raising fortifications and breaking them, and they prefer to work on their own terms, which sets them at odds with officers who expect obedience.
 
-The empire acknowledges the ancestral lands of the Sinalë and Khazári, which are scattered throughout its vast territories. These areas, akin to reservations, are semi-autonomous regions where the elder races govern their own affairs, including the practice of magic. The empire respects this autonomy but monitors these regions closely, especially for any signs of rebellion or dissent.
+## Marriage
 
-#### Sinalëan Forests
+Marriages between humans and the Elder peoples are rare and almost always political, made to seal a peace or bind a house to an enclave. A Sinalëan match is sought to bring Sinalëan wisdom into a human line, and the children of such unions often belong fully to neither world. A Khazárian match is rarer still and usually made for access to Khazárian ore or skill, and the gap between the two peoples' ways of life strains it from the first day.
 
-**Description:** The Sinalëan territories are vast, enchanted forests where humans rarely tread. Within these forests, the Sinalë maintain their ancient traditions, live in harmony with nature, and practice their unique forms of magic. The forests are seen as mystical and otherworldly by the human population, adding to the sense of alienation between the two cultures.
+## The Elder Dead
 
-**Imperial Relations:** The empire allows Sinalë to govern these forests independently, with the understanding that they remain loyal to the empire. In return, Sinalë occasionally provide the empire with rare herbs, medicinal plants, and enchanted items.
+The Elder peoples respect the empire's [[lore-ancstrwrshp|ancestor worship]] and do not share it. The Sinalë honor their dead with rites of the living world, planting trees and tending sacred groves, and keep those rites private. The Khazári honor theirs by making memorials and by keeping the tools and weapons of the dead, which only Khazári may touch.
 
-#### Khazárian Strongholds
+## On the Margins
 
-**Description:** The Khazárian territories are primarily mountain cities in the cliff faces, with refuges deep in the rock. These strongholds are nearly impregnable and serve as centers of mining, metallurgy, and smithing. The Khazári keep their inner life to themselves, sharing only a fraction of their knowledge with the humans.
+A few Sinalë and Khazári rise high in the empire as craftsmen, scholars or officers. Most live on the edge of human society, respected and never fully trusted. Their efforts to keep their tongues, traditions and magic are watched with suspicion. They have a voice in the empire's affairs and little weight behind it, and protect their interests by diplomacy and quiet maneuvering, since an open show of strength would bring a backlash. Rich as their crafts make them, they stand outside the highest circles of wealth, because human merchant houses and noble families control the trade routes their goods must travel.
 
-**Imperial Relations:** The empire relies on Khazárian craftsmanship for weapons, armor, and fortifications. In exchange, the Khazári are left to manage their strongholds with minimal interference, though they are expected to contribute to the defense of the empire in times of war.
+## See Also
 
----
-
-### Cultural Interactions and Tensions
-
-While the elder races are integrated into the empire's caste system, their cultures remain distinct, and there is a persistent undercurrent of tension. Humans often view Sinalë and Khazári with suspicion, envy, and awe, given their longevity and magical prowess. Conversely, the elder races harbor their own reservations about humans, often seeing them as short-sighted and driven by ambition rather than wisdom.
-
-#### Xenophobia and Distrust
-
-**Humans:** The empire's human population, particularly the ruling class, is wary of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]], fearing their potential to disrupt the human-dominated order. This wariness manifests as xenophobia, with laws and customs subtly (and sometimes overtly) designed to limit the power and influence of the Sinalë and Khazári within the empire.
-
-**Elder Races:** For their part, the Sinalë and Khazári are cautious in their dealings with humans, aware that they are guests in an empire that could turn against them if threatened. They tend to keep to themselves, preserving their own cultures while participating in the empire's affairs only as much as necessary.
-
-#### Magic and Control
-
-**Sinalë and Khazári:** The elder races limit the practice of magic to their own lands, adhering to an unspoken agreement with the empire to avoid practicing magic in human territories. This self-imposed restriction helps to ease human fears and prevents conflicts over the use of magic.
-
-**Empire:** The empire, in turn, allows the elder races to practice magic within their territories but monitors these practices closely, ensuring that they do not spill over into the broader empire. The Vëndük caste, while respected for their magical abilities, is always on guard for any signs of Sinalëan or Khazárian influence, fearing the power these elder races could wield if their magic were allowed to flourish unchecked within the empire.
-
----
-
-### Military Cooperation and Rivalry
-
-While the elder races contribute to the defense of the empire, their military involvement is often limited to their own territories. However, during major conflicts, Sinalë and Khazári may be called upon to aid the empire, leading to both cooperation and tension on the battlefield.
-
-#### Sinalëan Archers
-
-**Role:** Sinalëan archers are renowned for their precision and stealth, often deployed in skirmishes or as scouts. However, their reluctance to fully commit to human wars sometimes causes friction with human commanders, who may view them as unreliable.
-
-#### Khazárian Engineers
-
-**Role:** Khazárian engineers are invaluable in sieges and the construction of fortifications. Their expertise in building and breaking down defenses is unmatched, but their preference for working independently can lead to clashes with human military leaders who demand strict discipline and hierarchy.
-
----
-
-### Diplomatic Relations and Marriages
-
-While marriages between humans and elder races are rare, they do occur, often as political alliances to secure peace or strengthen ties between the empire and the elder races.
-
-#### Sinalëan-Human Marriages
-
-**Purpose:** These marriages are usually arranged to cement alliances or bring Sinalëan wisdom into a human lineage. However, the children of such unions often face difficulties, as they may not fully belong to either world.
-
-#### Khazárian-Human Marriages
-
-**Purpose:** Such unions are even rarer, typically arranged to secure access to Khazárian resources or knowledge. The practical nature of these marriages often leads to tension, as the cultural differences between Khazári and humans can be stark.
-
----
-
-### The Role of Ancestor Worship
-
-The elder races, while respecting the empire's customs, do not typically engage in the ancestor worship practiced by humans. Instead, they maintain their own ancestral traditions.
-
-#### Sinalëan Ancestors
-
-**Belief:** Sinalë honor their ancestors through rituals tied to nature, often involving the planting of trees or the tending of sacred groves. These rituals are private and not shared with humans.
-
-#### Khazárian Ancestors
-
-**Belief:** Khazári revere their ancestors through the crafting of memorials and the preservation of ancient tools and weapons. These items are considered sacred, and only those within the Khazárian community may touch or use them.
-
----
-
-### Integration Challenges
-
-Despite their honorary status, the elder races face significant challenges integrating into the empire's rigid caste system. While some Sinalë and Khazári rise to prominence as artisans, scholars, or military leaders, most remain on the periphery of human society, respected but never fully trusted.
-
-#### Cultural Preservation
-
-**Challenge:** The elder races struggle to preserve their cultures within an empire that values conformity and control. Their efforts to maintain their languages, traditions, and magic are often met with suspicion, and they must navigate the delicate balance of integration and autonomy without losing their unique identities.
-
-#### Political Influence
-
-**Challenge:** While the elder races have representation within the empire, their political influence is limited. They must often rely on diplomacy and subtle manipulation to protect their interests, as overt displays of power could provoke a backlash from the human rulers.
-
-#### Economic Power
-
-**Challenge:** Despite their wealth and craftsmanship, the elder races are often excluded from the highest levels of economic power. Human merchants and noble houses dominate the trade networks, and the elder races must navigate these human-controlled systems to maintain their prosperity.
+- [[lore-castelaws|Caste Laws]]—how the Elder peoples are classified
+- [[lore-longnhrtnc|The Long Inheritance]]—Elder knowledge passing into human hands
+- [[lore-flksinale|Sinalë]]—the people of the old forests
+- [[lore-flkkhazar|Khazári]]—the people of the cliff-cities
+- [[lore-thatlung|Thātlüng]]—the predators loosed on the Elder lands of the northwest
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society

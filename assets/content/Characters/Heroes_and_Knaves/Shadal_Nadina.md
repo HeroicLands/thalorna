@@ -428,101 +428,76 @@ Shadal stands 6'0" tall with a medium build. He has deep brown skin, dark close-
 
 ## Background
 
-### Early Life and Humble Origins
+### Early Life
 
-Shadal was born in a modest quarter of the confederation's largest city, the son of a dock worker and a laundress. His parents, recognizing unusual intelligence in their boy, scraped together every coin they could spare to send him to a temple school where he learned basic letters and numbers. While other students came from merchant families or minor nobility, Shadal excelled through sheer determination, mastering five different writing systems used across the [[affiliation-kalihara|Kalihara Confederation]]. His teachers at the temple recommended him to a master scribe named Korven the Precise, an exacting perfectionist who took Shadal as an apprentice at age twelve.
+Shadal was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the Haradian captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Shadal outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, **Korven the Precise**, who took him as an apprentice.
 
-### Training Under Masters
+### Training Under Korven
 
-Korven's apprenticeship was harsh and demanding. For seven years, Shadal did nothing but copy texts, mix inks, prepare parchment, and gradually learn the craft of formal documentation. Korven would destroy entire pages if a single letter was imperfect, forcing Shadal to redo the work hours after he should have rested. Yet the old master was not cruel—he was preparing Shadal for a world where documents were binding contracts, where a single mistake could bankrupt families or invalidate claims to land and inheritance. When Shadal finally became a journeyman scribe at nineteen, Korven surprised him by recommending him to a position with the High Registry of the Kalihara Confederation, the official record-keepers of law and contract.
+Korven was hard. For seven years Shadal copied texts, mixed inks, prepared parchment and learned the forms of contract and record, and Korven tore up whole pages for a single faulty letter and made him write them again long after dark. The old man was not cruel: he was preparing his pupil for a trade in which a document binds, and one mistake can ruin a family or lose it a claim. When Shadal became a journeyman at nineteen, Korven recommended him to the **High Registry of the Kalihara Confederation**, the register of contracts kept at the wardens' hall in [[place-qasirah|Qasirah]] for the dealings of all four ports.
 
-For the next fifteen years, Shadal worked in the Registry, documenting everything from land transfers to marriage contracts, from legal disputes to tax assessments. He became known for his accuracy, his elegant script, and his willingness to work with poor families to help them properly document their claims and rights. This willingness to serve those without means won him the regard of common folk—and the subtle disdain of wealthy merchants who saw him as presumptuous in treating a farmer's contract with the same care as a nobleman's.
+### The Registry Years
 
-### Current Endeavors
+For fifteen years Shadal recorded everything that passed between the foreign quarters and the port Kaliharans: cargo contracts and partnerships, marriages between settled foreign families and port households, debts, disputes and the letters of credit the merchant houses honor among themselves. He became known for his accuracy, his elegant hand and his readiness to help poor families set down their claims properly. The dockhands and laundresses loved him for it, and the great merchants thought him presumptuous for treating a porter's contract with the care he gave a merchant-prince's.
 
-At thirty-four, Shadal left the Registry to establish himself as an independent scribe. This move surprised many who thought him content with secure employment, but Shadal wanted freedom to work with the people who needed him most. He now maintains a modest office in a converted temple archive, where villagers, farmers, merchants, and craftspeople come to have documents created, witnessed, and authenticated. He teaches young people the craft of scribing several evenings a week, trying to create a new generation of record-keepers before the old traditions are lost. He maintains good standing with the Scribes' Guild and is occasionally consulted by the Kalihara Confederation's legal councils, though he refuses to take positions that would require him to favor the wealthy over the poor.
+### Present Circumstances
+
+At thirty-four Shadal left the Registry to work for himself, which surprised everyone who thought him settled. He wanted to work for the people who needed him most. He keeps a small office in a disused temple archive in Vashurán, where porters, boatmen, craftsmen, settled foreign families and merchants come to have their documents drawn up, witnessed and sealed. Several evenings a week he teaches young people the craft, hoping to raise a generation of honest record-keepers. He keeps his standing in the Scribes' Guild, and the Registry still consults him in private, though he refuses any post that would oblige him to favor the rich.
 
 ## Psyche
 
 ### Personality
 
-Shadal is fundamentally decent—a characteristic so pronounced that it borders on naivety in the eyes of more cynical individuals. He treats every person who enters his office with the same courtesy and respect, whether they are peasants bringing their marriage agreements or merchants documenting major trade partnerships. His warmth is real, not a performance; he remembers clients from years past, asks about their children and their harvests, and celebrates their successes. He cares deeply about the outcomes of the documents he creates—he counsels clients on fair terms, warns them of loopholes that might be exploited, and has been known to refuse payment from those clearly being cheated if he could not convince them to seek better terms.
+Shadal is decent to the bone, so much so that harder people take it for naivety. He treats everyone who comes through his door with the same courtesy, whether it is a laundress with a marriage agreement or a factor with a partnership worth a cargo. His warmth is real: he remembers clients from years ago and asks after their children, he advises them on fair terms and warns them of loopholes, and he has refused payment from people being cheated when he could not talk them into better terms.
 
-This same feeling for people, combined with his reasoning and creativity, makes him an excellent problem-solver in non-confrontational situations. He sees solutions that balance competing interests and delights in finding creative compromises that satisfy all parties. However, his reluctance to assert himself often leaves him disadvantaged in negotiations. Once his mind is made up about fairness, he will not budge, but he expresses this with sadness rather than anger, which can seem weak to those more accustomed to forceful personalities.
+The same feeling for people, joined to a quick and inventive mind, makes him a fine finder of compromises where nobody is shouting. He is less good where somebody is. He dislikes asserting himself, and in a hard bargain he gives ground he should not. Once he has decided what is fair, though, he will not move, and he says so with regret instead of anger, which forceful people mistake for weakness.
 
-Despite his gentle demeanor, Shadal is stronger than he looks. The scar on his chin is a relic of his youth as a rough street brawler before he discovered the power of the written word. He is not a man to be bullied, though he will never be the one to start a fight. Those who know him well recognize that his passivity masks a deep principle: he believes that good documentation and clear communication can solve most of the world's problems, and that violence is nearly always a failure of these tools.
+He is tougher than he looks. The scar on his chin dates from his youth as a quayside brawler, before he found what the written word could do. He cannot be bullied, and he will never start a fight. Under his mildness is a conviction: that clear records and plain speech can settle most of the world's troubles, and that violence is nearly always what happens when they fail.
 
 ### Motivation
 
-Shadal is driven by a deep belief in the power of the written word to protect the vulnerable. He has seen how careful documentation saved families from losing their homes, how proper contracts prevented exploitation, and how accurate records gave ordinary people a voice in disputes with the powerful. He dreams of a world where even the poorest farmer can prove ownership of their land, where women's testimony carries the weight of written contract, where agreements are respected because they are clearly documented and witnessed by reputable scribes. This idealism makes him work harder for those with less money, sometimes taking payment in goods or services rather than coins. He harbors a secret hope that his teaching will create a new generation of scribes committed to the same principles of service and fairness.
+Shadal believes the written word protects the weak. He has seen a careful contract save a family's boat, a proper record stop a swindle and an honest register give a porter a voice against a merchant-prince. He wants a port where the poorest boatman can prove what is his, where a woman's word carries the weight of a sealed contract, and where agreements are kept because they are clearly written and honestly witnessed. He works hardest for those who can pay least, often taking his fee in goods or labor, and he hopes his pupils will carry his principles on.
 
 ### Strengths
 
-- **Master of Language and Script**: Shadal can read, write, and speak in multiple languages of the confederation and beyond. He understands the mechanics of writing and the nuances of language that allow for precise meaning.
-
-- **Exceptional Perception and Empathy**: His perception and his feel for people allow him to understand what clients truly need from their documents, even when they cannot articulate it clearly. He can sense when someone is being deceptive or when a client is being manipulated.
-
-- **Logical Reasoning and Problem-Solving**: Shadal can craft clever solutions to complex legal problems. He excels at finding language that addresses all parties' concerns and creating documents that withstand legal scrutiny.
-
-- **Diplomatic Charm and Discourse**: His charm and discourse make him an effective mediator in disputes. He can explain complex legal concepts in accessible language and negotiate between conflicting parties with grace.
-
-- **Practical Knowledge**: Shadal's cooking, herblore, and physician skills suggest he is a capable person beyond his desk work. He can provide practical advice and support to his clients beyond mere documentation.
+- **Languages and scripts**: he reads, writes and speaks the island's tongue, the harbor pidgin and several foreign languages, and knows how to make words mean exactly one thing.
+- **Perception and sympathy**: he understands what a client needs from a document before the client can say it, and he can tell when someone is lying or being led.
+- **Reasoning**: he solves tangled problems of contract with wording every party can accept and no court can fault.
+- **Persuasion**: he explains hard points simply and mediates disputes with grace.
+- **Practical skill**: he cooks, knows his herbs and can treat a fever, and his clients get advice that reaches past the page.
 
 ### Weaknesses
 
-- **Poor Assertiveness and Business Acumen**: Shadal struggles to enforce his boundaries or refuse unreasonable requests. His refusal to put profit before principle often leaves him financially unstable, and clients can pressure him into working for a pittance.
-
-- **Limited Physical Capability**: His modest strength and agility mean he is not physically imposing. He cannot defend himself effectively against violence and relies on others for physical protection.
-
-- **Vulnerability to Deception**: While his perception and feel for people are high, his limited guile means he can be manipulated by skilled deceivers who appeal to his sense of fairness. He trusts people too readily and assumes good faith in situations where it may not exist.
-
-- **Inconsistent Willpower**: Beyond business matters, Shadal's weak will means he struggles with self-discipline. He can be distracted from important work by the emotional needs of clients, and he lacks the iron determination needed to pursue long-term goals when obstacles mount.
-
-- **Lack of Combat Experience**: Shadal is not a fighter. His throwing, archery, and melee skills are all respectable but not outstanding. More importantly, his temperament makes him averse to violence, and he will avoid combat whenever possible.
+- **No head for business**: he cannot refuse an unreasonable request or put profit first, so he is always short of money, and clients talk him into working for a pittance.
+- **Weakness of body**: he is not strong or quick, and against violence he needs others to protect him.
+- **Trust**: clever deceivers can work on his sense of fairness, and he assumes good faith where there is none.
+- **Distraction**: outside his work he lacks discipline, and his clients' troubles pull him from tasks that matter more.
+- **No fighter**: he can throw, shoot and swing a blade passably, and his temper makes him avoid fighting whenever he can.
 
 ## Social
 
 ### Patrons
 
-The Kalihara Confederation's High Registry
-: Though Shadal left formal employment, the Registry still calls upon him for sensitive or complex documentation work. He is consulted privately on cases that require particular skill, and the Registry sees that his reputation remains unblemished.
-
-Merchants' and Traders' Guild
-: Several powerful merchants in the confederation employ Shadal regularly for contract work. These patrons pay well, though Shadal often irritates them by insisting on fair terms that benefit both parties.
-
-Village Councils and Local Magistrates
-: Small towns and villages regularly hire Shadal to document local disputes, create legal records, and act as a neutral witness to important agreements. These patrons respect him deeply and protect his reputation in their communities.
-
-Poor Farmers and Craftspeople
-: Though they cannot pay much, Shadal's most loyal patrons are the common folk who depend on him to protect their interests. These clients view him as a hero and would defend him fiercely if he were ever threatened.
+- **The Kalihara Confederation's High Registry**: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
+- **Merchants' and Traders' Guild**: several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
+- **Village Councils and Local Magistrates**: the quarter councils of the smaller ports and the wardens' magistrates at Korinthel and Telvári hire him to record disputes and witness agreements, and they guard his reputation in their towns.
+- **Poor Farmers and Craftspeople**: the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.
 
 ### Enemies
 
-Merchant Lysander Cross
-: A wealthy trader who Shadal refused to work for after discovering Cross was using legal documents to systematically defraud his less educated business partners. Cross views Shadal as a threat to his operations and spreads rumors that Shadal's documents are unreliable and that he favors the poor over the wealthy.
-
-Guild Master Parvesh
-: The master of the scribes' guild has long viewed Shadal as a troublemaker who uses his position to push idealistic notions of fairness. Parvesh profits by taking higher fees from wealthy clients and discouraging scribes from working with the poor. He sees Shadal's independent success as an implicit rebuke of his leadership.
+- **Merchant Lysander Cross**: a foreign trader whose business Shadal refused after finding that Cross used contracts to defraud partners who could not read them. Cross spreads word that Shadal's documents are unreliable and that he favors the poor.
+- **Guild Master Parvesh**: the master of the Scribes' Guild, who grows rich on high fees from wealthy clients and discourages scribes from working for the poor. Shadal's success outside his control is a standing rebuke, and Parvesh means to end it.
 
 ### Affiliations
 
-Scribes' Guild of the Kalihara Confederation
-: Shadal maintains membership in the guild, though the relationship is somewhat strained. He participates in guild activities and upholds its standards, but his insistence on serving the poor and his resistance to the guild's increasingly mercenary policies have made him unpopular with certain factions.
-
-Temple Archive Cooperative
-: Shadal shares his office with a cooperative of scholars and archivists who maintain historical records for the local temples. This affiliation gives him access to reference materials and connects him to the intellectual community.
-
-Free Scribes' Alliance
-: A loose association of independent scribes like himself who have left formal guild or registry employment. This informal group shares techniques, helps with difficult commissions, and supports each other's work.
+- [[affiliation-kalihara|Kalihara]]: a craftsman's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
+- [[affiliation-florania|Faith of Flórania]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
+- **Free Scribes' Alliance**: a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
 
 ## Plot Hooks
 
-1. **The Forged Inheritance**: A young widow named Meira Stoneborn comes to Shadal with a terrible problem—her late husband's brother is claiming that the marriage contract Shadal himself witnessed and created fifteen years ago is a forgery. The brother stands to inherit substantial lands and is using the false forgery claim to invalidate Meira's widow's rights, which would render her homeless and impoverished. Shadal must investigate whether the contract was somehow tampered with, discover who benefits from the deception, and prove the document's authenticity. This investigation will lead him into the halls of power and reveal that Guild Master Parvesh himself may be involved in a scheme to forge documents for wealthy clients seeking to overturn inconvenient legal records.
-
-2. **The Secret Documents**: A dying scholar comes to Shadal's office with a hidden bundle of documents written in an ancient script that predates the Kalihara Confederation itself. The scholar reveals that these documents contain evidence of a much older civilization that built the confederation's current cities and established many of its legal traditions. Before the scholar can explain their significance, he dies of sudden poisoning. Shadal can hide the documents for safety, report them to the authorities and risk their seizure by the powerful, or find a way to translate and share their contents with the world. If he chooses to pursue their translation, Shadal becomes the target of shadowy organizations determined to keep ancient history buried.
-
-3. **The Witness to Murder**: Shadal is the only person who witnessed a politically important murder—and he saw it clearly from his office window. The perpetrator was a high-ranking official, and the victim was a rival whose death benefits several powerful factions. Now everyone from the city magistrate to mysterious hired assassins wants Shadal's testimony—but for very different reasons. Some want him to speak truthfully, others want him to lie, and still others want him simply dead. Shadal's belief in documentation and the power of the written word is tested as he weighs whether to set down what he saw in a legally binding statement and face the consequences.
-
-4. **The Underground Records**: Shadal discovers that beneath the official High Registry exists a secret archive containing documents the confederation's leadership has hidden for centuries—records of betrayals, assassinations, and conspiracies that would topple the current government if revealed. He is approached by both loyalists who want him to destroy these records and revolutionaries who want him to make them public. To complicate matters, Shadal finds evidence that his own mentor, the famed Korven the Precise, was involved in the original conspiracy being covered up.
-
-5. **The Apprentice's Destiny**: A brilliant young street orphan named Tavis comes to Shadal begging to be trained as a scribe. Shadal recognizes the boy's extraordinary potential and takes him as an apprentice, seeing in him a chance to pass on his craft and principles. However, Shadal eventually discovers that Tavis was planted there by Guild Master Parvesh as a spy, tasked with learning Shadal's techniques and stealing his most important client relationships to cripple his practice. As Shadal works to decide Tavis's fate, he realizes the boy has developed real affection for him and is deeply conflicted about his assignment. Shadal must find a way to reach Tavis and convince him to choose integrity over the promises Parvesh has made to him.
+1. **The Forged Inheritance**: A young widow, **Meira Stoneborn**, of a foreign family long settled in Vashurán, brings Shadal her marriage contract, which he drew up and witnessed fifteen years ago. Her husband's brother now calls it a forgery, to take the house, the boat and the warehouse share that should be hers. Shadal must prove the document genuine and find who tampered with the copies, and the trail leads toward Guild Master Parvesh and a trade in forged records for clients who want an inconvenient contract undone.
+2. **The Secret Documents**: A dying scholar brings Shadal a bundle of documents in a script older than any writing the island uses, which tell of a people who came before the Kaliharans and of works they left in the interior that are failing. The scholar dies of poison before he can say more. Shadal can hide the bundle, give it to the wardens and see it vanish, or try to read it himself, and if he reads it, he learns why the custodians of the interior would want it buried, and finds people already searching for him.
+3. **The Witness to Murder**: From his office window Shadal sees a high official of the port kill a rival whose death suits several powerful factions. Everyone from the harbor-warden to hired knives now wants his testimony, some true, some false, some silenced for good. He must decide whether to set down what he saw in a sealed statement and live with what follows.
+4. **The Underground Records**: Shadal learns that beneath the High Registry lies a hidden archive of records the councils have kept secret for centuries: betrayals, murders and bargains that would shake the island's trust in its own government. Loyalists want him to destroy them and others want them read aloud on the quay, and among the papers is evidence that Korven the Precise had a hand in the original concealment.
+5. **The Apprentice's Destiny**: A gifted street orphan, **Tavis**, begs Shadal to teach him, and Shadal takes him on with delight. In time he discovers that Parvesh planted the boy to learn his methods and steal his clients. But Tavis has come to love his master and is torn by his task, and Shadal must find a way to reach him and help him choose honesty over Parvesh's promises.

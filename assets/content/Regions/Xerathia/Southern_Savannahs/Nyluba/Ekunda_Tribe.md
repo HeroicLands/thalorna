@@ -3,7 +3,7 @@ shortcode: ekunda
 name: {full: Ékunda, aliases: [The Ékunda, Ékunda Tribe]}
 type: affiliation
 subType: polity
-description: A tribe of the Nyáluba Tribal Nation whose seat is Ékunda Village in the Southern Savannahs.
+description: "A small tribe of the Nyáluba Tribal Nation, keepers of the spring at Ékunda Village, where savannah herders, rainforest traders and the rare Ankarian traveler meet to trade."
 tags: []
 data:
   templatePriority: null
@@ -61,16 +61,13 @@ sohl: {system: {commonSkills: [nyalbnlng]}}
 
 ## The Ékunda
 
-The **Ékunda** are a tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. Their seat is
-[[place-ekundavlg|Ékunda Village]], one of the settled communities of the
-[[place-sthrnsvnhs|Southern Savannahs]].
+The **Ékunda** are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], and they are known for one thing: they keep the water. Their seat, [[place-ekundavlg|Ékunda Village]], stands at a perennial spring in the [[place-sthrnsvnhs|Southern Savannahs]], and a spring that never dries is a meeting place whether its keepers want one or not. Herders of the five clans water there in the dry season, Sengala traders bring rainforest goods down to it, and the few Ankarian travelers who come so far south know it as the one outpost where they can count on water, a fair price and a safe night.
 
-The tribe follows Nyáluban customs of lineage, elders, and leadership by descent and consent.
-Its delegate to the Great Indaba speaks for the tribe, with the elders' agreement required to
-bind it.
+The Ékunda are not one of the five clan-nations, and they have made a living of standing between them. They follow the common Nyáluban customs of lineage, elders and leadership by descent and consent, and the village of four hundred is run by its elders more than by its chief. The Ékunda send a delegate to the Great Indaba, who may speak for the tribe and may bind it only with the elders' agreement, and the clans listen, because every one of them waters its cattle at Ékunda in a bad year.
 
 ## See Also
 
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the confederation the tribe belongs to
-- [[place-ekundavlg|Ékunda Village]]—the tribe's seat
+- [[place-ekundavlg|Ékunda Village]]—the tribe's seat at the spring
+- [[affiliation-fenjara|Fénjara]]—another small tribe of the confederation
 - [[place-sthrnsvnhs|Southern Savannahs]]—the region

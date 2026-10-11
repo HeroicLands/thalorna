@@ -3,52 +3,43 @@ shortcode: infrnlrlms
 name: {full: Infernal Realms, aliases: []}
 type: lore
 subType: cosmology
+description: "The Infernal Realms of Tānvür's faith—the places where the Great Sorting was left unfinished, the demons and Demon Lords who dwell there, and the empire's defense against them."
 data: {packFolder: celestialorder}
 ---
 
-## The Infernal Realms
+A Tānthëi lecturer warns her first-year students off the word "hell" before she teaches them anything else about the dark. The **Infernal Realms** of the [[affiliation-tanvurempr|Empire of Tānvür]]'s faith are no place of punishment, no kingdom of evil and no domain of a fallen god. They are the places where the Great Sorting was left unfinished: where the Hürnlëi, the Unclassified, was never fully processed, or where the classification has begun to come apart. The celestial cosmology calls the realm the [[affiliation-yokveng|Yokveng]], and its inhabitants the Yökvëng, the demons.
 
-The **Infernal Realms** are not a hell. They are not a place of punishment, not a kingdom of evil, not the domain of a fallen god. They are **regions where the Great Sorting was incomplete**—zones where the Hürnlëi (the Unclassified) was never fully processed, or where the classification system has begun to break down.
+## What the Infernal Is
 
----
+In the [[lore-phlsphylvr|Lëivōr]] philosophy the [[affiliation-tngvkvnlei|Great Sorting]] pushed the Hürnlëi to the margins and never destroyed it. The Infernal Realms are those margins: the gaps between categories, the cracks in the classification, the places where sorted things blur back into chaos.
 
-### The Nature of the Infernal
+They have no fixed place on any map. They lie wherever classification fails: in deep wilderness no surveyor has ever entered on a register, in the gaps between elemental domains where no bureau's jurisdiction is clear, in the dreams of the deranged where waking and sleeping run together. They do not oppose heaven the way the demons of a western sermon do. They are where heaven's administration does not reach.
 
-In the [[lore-phlsphylvr|Lëivōr]] framework, the [[affiliation-tngvkvnlei|Great Sorting]] pushed the Hürnlëi to the margins but never eliminated it. The Infernal Realms are the margins—the spaces between categories, the cracks in the classification system, the places where sorted things blur back into undifferentiated chaos.
+The orthodox teaching holds that the Yokveng is a containment zone, the shadow the Sorting cast. The celestial administration moves what it cannot cleanly sort into it, so that its influence on the ordered world is kept small: refusers of the Sorting, corrupted functionaries, things that fit no category. The Tānthëi admit privately that the account is incomplete, because the realm is also where the Demon Lords draw their power, and their power comes from the system's failure to contain them.
 
-The Infernal Realms do not occupy a fixed location. They exist wherever classification fails: in deep wilderness that has never been administratively surveyed, in the spaces between elemental domains where jurisdictional authority is ambiguous, in the dreams of the disturbed where the boundary between waking and sleeping dissolves. They are not _opposed_ to the celestial order in the way that Western demons oppose heaven. They are what happens when the celestial order _doesn't reach_.
+## The Demons
 
----
+The Tānvüri call the **Yökvëng** demons for want of a better word. They are beings the classification cannot hold: some never sorted at all, some sorted and then lost, a few officials of heaven who fell. They have no bureau, no portfolio and no assigned work.
 
-### The Yökvëng
+That is what makes them dangerous. A bureau's power reaches only as far as its jurisdiction, and a being outside every jurisdiction answers to none of them. No bureau has authority over it, no seal binds it and no petition compels it. A demon is not strong because it is wicked. It is strong because the administration has no procedure for it.
 
-The **Yökvëng** are the entities that inhabit the Infernal Realms. The Tānvüri call them "demons" for convenience, but they are more accurately understood as **unclassified beings**—entities that emerged from the Hürnlëi and were never sorted into the cosmic hierarchy. They have no bureau, no portfolio, no assigned function. They simply _are_, in a way that defies the classification system's ability to categorize them.
+At the top of the realm stand the five **Demon Lords**, each the embodiment of one way the order fails: [[affiliation-hurnzhuk|Hürnzhük]], the First Refusal, lord of the Unclassified; [[affiliation-nushot|Nüshöt]] the Unmaker; [[affiliation-vekthor|Vëkthōr]], the Forger of False Records; [[affiliation-zhaksok|Zhāksōk]], the Walking Contradiction; and [[affiliation-dokyok|Dōkyök]], the Guide Who Leads Astray. Beneath them are the [[affiliation-yvlesrdmns|lesser demons]], and among the fallen functionaries the strangest is [[affiliation-yokzhuk|Yökzhük]], the Custodian of Lost Seals, a scribe of heaven who fled with a hoard of counterfeit seals and now keeps the Infernal Archive.
 
-This makes them profoundly dangerous. The celestial bureaucracy's power depends on jurisdiction—a bureau can only act within its classified domain. An unclassified entity falls outside all jurisdictions. No bureau has authority over it. No seal binds it. No petition can compel it. The Yökvëng are not powerful because they are evil. They are powerful because the _administrative system has no mechanism for dealing with them_.
+The naming of these powers troubles the [[lore-tanthei|Tānthëi]]. To give an unclassified being a name and a title is to classify it a little. Some scholars hold that naming weakens it, others that a name is a label on something that refuses labels, and so a false comfort, and the argument has run for centuries without a ruling.
 
----
+## The Empire's Defense
 
-### The Yökzhük—The Demon King
+The Infernal Realms are one of the strongest arguments for the empire's rigid order. Only a perfectly kept classification can hold off the Unclassified, the argument runs; every breach of caste, every rite done badly, every failure of administration opens a small gap in the sorting, and the Hürnlëi seeps through. Seen this way, the empire's harshness is a quarantine on the cosmos.
 
-The **Yökzhük** is the most powerful of the Yökvëng—an entity of such concentrated unclassified energy that the Tānvüri have, paradoxically, given it a title and a name. This is a source of considerable theological anxiety among the [[lore-tanthei|Tānthëi]]: by naming and categorizing the Yökzhük, have they partially _sorted_ it? Does the act of classification reduce its power? Or have they simply applied a label to something that refuses to be labeled, creating a dangerous illusion of understanding?
+The Warlords of the [[lore-zheklung|Zhëklüng]] are the empire's first defense against an incursion, with their armies and the [[lore-venduk|Vëndük]] sorcerers behind them. The Tānthëi watch the records for signs that the classification is failing. The Vëndük turn their magic directly on the unclassified, trying to force-classify them: to bind them with seals, file them and so impose an order on beings that have none.
 
-The Yökzhük is understood not as a monarch (it has no subjects, no kingdom, no administrative structure) but as a _concentration of entropy_—the Hürnlëi given something approaching will and intent. Whether it is a single entity, a recurring pattern, or a conceptual label for the worst manifestations of the Unclassified is a matter of heated scholarly debate.
+Whether the threat is as near as the ruling castes say, or swollen to justify their power, is a question a few people ask, and only in private. The empire's growing troubles—plague, war on its borders, whispers that the [[lore-mandatehvn|Mandate of Heaven]] is failing—may mean the classification is truly fraying, or may be the ordinary friction of a vast administration straining under its own weight. A great deal turns on which, and the Tānthëi are divided.
 
----
+## See Also
 
-### The Empire's Defense
-
-The threat of the Infernal Realms is one of the theological justifications for the empire's rigid structure. The argument runs: only a perfectly maintained classification system can resist the encroachment of the Unclassified. Every caste violation, every improper ritual, every administrative failure creates a tiny gap in the sorting—and through those gaps, the Hürnlëi seeps. The empire's rigidity is not tyranny; it is _cosmic quarantine_.
-
-The Warlords of the [[lore-zheklung|Zhëklüng]] caste, with their armies and the arcane support of the [[lore-venduk|Vëndük]], serve as the empire's primary defense against infernal incursions. The [[lore-tanthei|Tānthëi]] monitor celestial records for signs of classification breakdown, while the Vëndük deploy their bureaucratic magic directly against unclassified entities—attempting to _force-classify_ them, to impose bureaucratic structure on beings that have none, binding them with seals and filing them into the system.
-
-Whether the Infernal threat is as immediate as the ruling class claims, or whether it is amplified to justify their power, is a question that some dare to ask only in private. The empire's mounting crises—the plagues, the border conflicts, the whispered failures of the [[lore-mandatehvn|Mandate of Heaven]]—could be signs that the classification system is genuinely fraying. Or they could be the natural friction of a vast administration struggling under its own weight. The distinction matters enormously, and the Tānthëi are divided on the answer.
-
----
-
-### See Also
-
-- [[lore-clstlpnthn|Celestial Pantheon]]—The administrative order the Infernal Realms exist outside of
-- [[lore-dreadspawncrtr|Dreadspawn]]—creatures made, not born, by the gods of creation and classified as Sacred-Creation Life
-- [[lore-celestlrdr|Celestial Order]]—The broader cosmological framework
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire defended against these threats
+- [[affiliation-yokveng|Yokveng]]—the Infernal Realm, its Demon Lords and those who know their forms
+- [[lore-clstlpnthn|Celestial Pantheon]]—the order the Infernal Realms stand outside
+- [[affiliation-nuszokreit|Nüszōk Rëit]]—the cult that worships the Demon Lords
+- [[lore-dreadspawncrtr|Dreadspawn]]—creatures made, not born, and filed as Sacred-Creation Life
+- [[lore-celestlrdr|Celestial Order]]—the faith and its cosmology
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the empire that holds the line

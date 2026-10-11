@@ -15,51 +15,31 @@ data:
 
 ## Overview
 
-The Dunhara Desert Region is the open desert of the
-[[place-dunharargn|Dunhara Region]]—everything the walled cities of
-[[place-amradadrgn|Amradad]] do not hold, which is very nearly all of it. It is
-the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no fixed
-borders at all: what bounds it are the customary circuits of movement and the
-oases of right that each confederation holds by usage.
+A guide leading his first foreigners into the open desert stops at the last well of the Amradi road, fills every skin twice, and tells them that from here on, the water belongs to someone. The **Dunhara Desert Region** is the open desert of the [[place-dunharargn|Dunhara Region]]: everything the walled cities of [[place-amradadrgn|Amradad]] do not hold, which is nearly all of it. It is the country of the [[affiliation-dunhartrbs|Dunhara Tribes]], and it has no borders on any map. What divides it is custom: the circuits each tribe rides through the year, and the oases each holds by right of long use.
 
-## Geography
+## The Land
 
-Great sand seas dominate the landscape—dune waves fifty meters high in
-places, walking north on the prevailing wind—broken by rocky mesas, isolated
-volcanic plugs and the pale bone-floors of dry lakebeds. Oases are the fixed
-points of the whole country: some lush and permanent, others appearing only
-seasonally or at the end of long wadis that flood once a decade, and all of
-them vital waypoints for caravans.
+Great sand seas cover most of the country, dunes up to fifty meters high that walk slowly north on the prevailing wind, broken by rocky mesas, lone volcanic plugs and the pale floors of dry lakes. The oases are the fixed points of everything. Some are lush and permanent, like the hollow of palms at [[place-dunashir|Dûn Ashir]] or the spring at the [[place-oasisteyrn|Oasis of Teyran]] that has never failed; others fill only in a wet season, or lie at the end of a wadi that floods once in ten years. Every route across the desert is a chain of them, and a guide's worth is the number of links he knows.
 
-The climate is brutal. Summer daytime heat can kill within hours; winter
-nights drop far below freezing; a windstorm can bury a camp or scour the paint
-from a merchant's chests in minutes. The deep south sees almost no rain at
-all.
+The climate kills. A summer day can finish a man without water in hours, a winter night falls far below freezing, and a windstorm can bury a camp or strip the paint from a merchant's chests in minutes. The deep south sees almost no rain at all, and only the northern and western margins get enough winter rain to green the grazing for a month or two.
 
-## Peoples and Culture
+## The Tribes
 
-The Dunhari are organized around lineage, household and seasonal migration
-circuit, each tribe led by a **sheikh** whose authority rests on hereditary
-legitimacy, personal standing and the consent of the tribal elders. Their
-honor code is exacting: hospitality is sacred and binds a tribe to protect a
-stranger who has eaten its salt even against its own kin, blood-feud may span
-generations, and the terms for concluding one are precisely codified.
+The desert's people are the Dunhari of the tribes, living by lineage, household and the seasonal circuit. A **sheikh** leads each tribe by birth, by standing and by the consent of the elders, and the code of salt, feud and reputation binds them all. The poets keep the law: genealogy, history, precedent and the terms of every treaty are carried in verse by the tribal poets, and written records count for little. [[lore-dunhariclt|Dunhari]] gives the customs in full.
 
-The oral tradition is the region's great cultural achievement. Poets and
-reciters hold exalted rank, and genealogy, history, legal precedent and the
-terms of treaties are all carried in oral form by the tribal poets who are the
-keepers of law and identity. Written records, where they exist, are
-afterthoughts.
+## Power
 
-## Politics and Power
+No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Dûn Ashir, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranâz]], and the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] travel with every camp of consequence. The balance has held for centuries.
 
-There is no unified political order here. Perhaps a dozen major confederations
-and many smaller ones share the country, each with its own sheikh, warriors,
-poet-historians and customary circuits. They cooperate when threatened from
-outside and quarrel when left alone, and that balance has held for centuries.
+## Places
+
+- [[place-dunashir|Dûn Ashir]]—the oasis seat of the tribes, where caravans hire their guides
+- [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine where three tribal territories meet
+- [[place-oasisteyrn|Oasis of Teyran]]—a spring that has never failed
+- [[place-kharalsulr|Khar al-Sular]]—a hunters' camp near the Khazryn frontier
 
 ## See Also
 
 - [[place-dunharargn|Dunhara Region]]—the parent region
-- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederation that ranges this region
-- [[place-amradadrgn|Amradad Region]]—the settled cities within the desert
+- [[affiliation-dunhartrbs|Dunhara Tribes]]—the confederations that range this desert
+- [[place-amradadrgn|Amradad Region]]—the settled cities at the desert's northwestern corner

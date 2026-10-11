@@ -7,52 +7,49 @@ tags: [gm]
 data: {packFolder: threats}
 ---
 
-The [[affiliation-tanvurempr|Empire of Tānvür]] faces numerous threats from within—secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
+The [[affiliation-tanvurempr|Empire of Tānvür]] keeps a register of every person in it, and the enemies it fears most are the ones the register cannot see: sorcerers who have slipped their owners, merchants who want what the law forbids them, a cult that worships the powers of unmaking, a criminal society that sells forged identities, and a famine the scholars cannot explain. Each of them attacks the classification itself, and each has learned to work with the others when it suits.
 
----
+## The Sorcerers' Guild
 
-## The Sorcerers' Guild (The [[affiliation-ordoarcanis|Ordo Arcanis]])
+The [[affiliation-ordoarcanis|Ordo Arcanis]], called in Tānvür the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Ordo the [[lore-venduk|Vëndük]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Ordo keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Vëndük, stir them to resist and gather what they know.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] (known in Tānvür as the Sorcerers' Guild) is an independent and powerful guild of sorcerers from beyond the empire's borders. The guild advocates for the freedom and self-determination of the [[lore-venduk|Vëndük]], believing that they should not be bound to servitude. The Sorcerers' Guild has begun clandestine operations within Tānvür, attempting to incite rebellion among the Vëndük and gather arcane knowledge. Their activities represent a significant threat to the empire's control over its magical resources.
+## Hëk Zhāk, the Shadow Sect
 
-## [[affiliation-hekzhak|Hëk Zhāk]] (The Shadow Sect)
+[[affiliation-hekzhak|Hëk Zhāk]] is a network of Vëndük who have escaped their owners and gone to ground in the empire's cities. Its members sell forbidden magic to anyone who can pay, and they work toward something no one else in the empire would say aloud: magic freed from the classification altogether, and an order in which a sorcerer belongs to himself.
 
-A secretive network of rogue [[lore-venduk|Vëndük]] who have escaped imperial control and now operate in the empire's dark underbelly. The [[affiliation-hekzhak|Shadow Sect]] offers forbidden magical services to those willing to pay, and pursues an ideological goal unthinkable within the imperial order: the liberation of magic itself from the classification system. Their long-term aim is to overthrow the existing order and establish a society in which magic is free from imperial restrictions.
+The Sect's most dangerous tie is to the Ordo embassy. The Ordo supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Vëndük practice the Ordo could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
 
-The Sect's most consequential external relationship is with the [[affiliation-ordoarcanis|Ordo Arcanis]] embassy in the imperial capital—strained, transactional, and deeply subversive. The Ordo secretly provides the Sect with funds, safe houses, and extraction support in exchange for information and carefully measured access to magical practices that the Ordo cannot otherwise acquire in so rigid a society. Neither side wants to be caught; the repercussions would be catastrophic for both. The arrangement is rife with blackmail potential on both sides, and is managed with extreme care through intermediaries and compartmentalized exchange (see [[affiliation-hekzhak|Hëk Zhāk]] for detail).
+## The Merchants' Rising
 
-## The Merchant Uprising
+The [[lore-shukren|Shükrën]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Vüshōk officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
 
-The [[lore-shukren|Shükrën]] caste, though wealthy, is often looked down upon by the higher castes. A growing faction within the Shükrën is organizing an uprising, demanding greater political power and representation. This movement is gaining momentum and, if not addressed, could lead to widespread civil unrest, especially as the Shükrën have begun covertly collaborating with the Black Lotus Society to achieve their goals.
+## Nüszōk Rëit, the Cult of the Forsaken
 
-## [[affiliation-nuszokreit|Nüszōk Rëit]] (The Cult of the Forsaken)
+[[affiliation-nuszokreit|Nüszōk Rëit]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
 
-A dangerous and nihilistic cult that has emerged among the lower castes, preaching that the current social order is irredeemably corrupt and must be destroyed. Unlike the [[affiliation-hekzhak|Shadow Sect]] or the Merchant Uprising, the cult has no vision of a reformed order to replace the empire—only the annihilation of the classification system itself.
+The cult worships the **Demon Lords** of the [[affiliation-yokveng|Yokveng]], the powers inside the [[affiliation-tngvkvnlei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nushot|Nüshöt]] the Unmaker, [[affiliation-vekthor|Vëkthōr]] the Forger of False Records, [[affiliation-zhaksok|Zhāksōk]] the Walking Contradiction and [[affiliation-hurnzhuk|Hürnzhük]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
 
-The cult's theological commitment is to the **Demon Lords of the [[affiliation-yokveng|Yokveng]]**—the native celestials of the Tëngvōk Vān Lëi whose entire nature is the subversion, refusal, or corruption of the Celestial Bureaucracy from within. Chief among these are [[affiliation-nushot|Nüshöt]] (the Unmaker), [[affiliation-vekthor|Vëkthōr]] (the Forger of False Records), [[affiliation-zhaksok|Zhāksōk]] (the Walking Contradiction), and [[affiliation-hurnzhuk|Hürnzhük]] (the First Refusal). Because these figures already exist within imperial cosmology, worship of them does not require a cult recruit to abandon the Tānvüri cosmological frame—only to invert its moral valence. The cult holds that the Demon Lords are the _truth_ of the Bureaucracy, not its pathology.
+From Nüshöt the cult has learned to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnaka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
 
-Through its Demon Lord devotion—principally [[affiliation-nushot|Nüshöt]]—the cult has acquired the ritual techniques to create the [[lore-undead|undead]], which it deploys to generate administrative and spiritual havoc in populous districts. (See [[lore-undead|Undead]] for the generic phenomenon and its cross-pantheon theology.) The cult does **not** associate with the [[affiliation-varakpnthn|Varnaka Pantheon]]: its cosmology of cyclic destruction-and-renewal is anathema to a cult that seeks destruction total and everlasting, not the serviceable destruction that precedes rebuilding.
+Its attacks are aimed at the machinery of classification. Cultists burn ministry archives that hold the census rolls and the moral-ledger records, murder officials in public at festivals, carry fire into administrative halls knowing they will not walk out, and work patiently into the lower ranks of the clerks to corrupt the records from inside. It coordinates its violence with the Black Lotus Society's sabotage, and the two together have done more damage to the registers in a decade than any rebellion.
 
-The cult's signature operations target the imperial classification apparatus directly: burning ministry archives that hold census records and moral-ledger rolls, public assassinations at festivals, suicide incendiary attacks on administrative centers, and patient infiltration of the lower bureaucracy to corrupt records from within. The [[affiliation-nuszokreit|Cult of the Forsaken]] has also developed a covert alliance with the [[affiliation-heklotzhak|Black Lotus Society]], further destabilizing the empire by coordinating acts of spectacular violence with the Lotus's commercial and political sabotage (see [[affiliation-nuszokreit|Nüszōk Rëit]] for full detail).
+## Hëk Lōt Zhāk, the Black Lotus Society
 
-## Hëk Lōt Zhāk (Hëk Lōt Zhāk, The Black Lotus Society)
+The [[affiliation-heklotzhak|Black Lotus Society]] is the empire's great criminal syndicate. Its existence is an open secret, and its power lies in staying that way: it sells protection, pays bribes, runs smuggling and procures forbidden magic, and it bends trade and politics without being seen to do it.
 
-The **Black Lotus Society** is a secretive criminal organization that operates discreetly within the empire, wielding influence through protection schemes, bribery, smuggling, and access to forbidden magic. While the society's presence is an open secret, its true power lies in its ability to subtly manipulate trade and politics without drawing attention to itself.
+- **The merchants.** The Lotus has a grip on the Shükrën, offering protection and illicit services that can make a merchant house rich or ruin it.
+- **The knife.** Its assassins are rarely used and feared for that reason; a Lotus killing is seldom proved and never forgotten.
+- **The tablets.** It forges the classification tablets that prove a person's caste, which makes it a threat to the classification itself and not only to the law.
+- **The alliances.** Its ties to the Cult of the Forsaken and the Merchants' Rising let it strike at the social order and the economy at once.
 
-**Influence and Threats:**
+## The Famine in the South
 
-- The Black Lotus Society has significant control over the [[lore-shukren|Shükrën]] caste, offering protection and illicit services that can greatly enhance a merchant's wealth or lead them to ruin.
-- The society's assassins, while rare and highly discreet, are feared for their effectiveness.
-- The society's alliance with the Cult of the Forsaken and the Merchant Uprising makes them a potent threat to the empire's stability, capable of undermining both the social order and the economy from within.
-
-## The Great Famine
-
-A series of poor rice harvests in the south has led to fears of famine across the empire. Crops have failed, rivers have dried up, and the people are starving. The disaster is exacerbated by rumors of supernatural causes—the [[lore-tanthei|Tānthëi]] debate whether it represents a classification failure in the Earth and Water domains or a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening. As desperation grows, so does unrest, with starving peasants beginning to revolt against the landowners and the imperial authorities in some areas.
+The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanthei|Tānthëi]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nokvur|Nōkvür]] have risen against their lords and the magistrates who collect the tribute.
 
 ## See Also
 
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—A noble house entangled with the Black Lotus Society
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—The exiled general's rebellion
-- [[lore-veizhatret|Vëi Zhāt Rëit]]—The political intrigue that enables many of these threats
-- [[lore-castelaws|Caste Laws]]—The rigid social structure under pressure
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The empire these forces seek to undermine
+- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—a noble house entangled with the Black Lotus Society
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—the exiled general's rebellion
+- [[lore-veizhatret|Vëi Zhāt Rëit]]—the court's game of manipulation, which shelters many of these threats
+- [[lore-castelaws|Caste Laws]]—the social order under pressure
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the empire these forces work against

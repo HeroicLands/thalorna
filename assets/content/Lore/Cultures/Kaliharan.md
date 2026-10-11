@@ -9,13 +9,13 @@ tags: []
 # terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---
 
-There are two kinds of Kaliharan and they are not much alike. The Kaliharan of the interior is heir to eighty centuries of continuous custodianship, has probably never met a foreigner, and does not expect to. The Kaliharan of the ports has met a great many, speaks three trade tongues, and has more in common with a factor in Heliónis than with a custodian in a highland sanctuary. Both understand the division and neither resents it: it is, in the Kaliharan view, the cost of keeping an interface with the outside world without letting that world come any further in than it should.
+There are two kinds of Kaliharan and they are not much alike. The Kaliharan of the interior is heir to eighty centuries of continuous custodianship, has probably never met a foreigner, and does not expect to. The Kaliharan of the ports has met a great many, speaks three trade tongues, and has more in common with a factor in [[place-helionis|Heliónis]] than with a custodian in a highland sanctuary. Both understand the division and neither resents it: it is, in the Kaliharan view, the cost of keeping an interface with the outside world without letting that world come any further in than it should.
 
 ## The Living Whole
 
 Kaliharan spirituality is not a religion in any sense an Ankarian theologian would recognize. There are no gods, no deities who answer prayers or grant blessings or require sacrifice, no afterlife, and no reward or punishment beyond death. There is Thári'vaan—the Living Whole.
 
-All things are connected: the canopy and the reef, the volcanic soil and the monsoon, the village and the birds that nest in its gardens, and the health of any part affects every other part. To a Kaliharan this is neither metaphor nor doctrine but observed fact, confirmed by several thousand years of very careful attention to a single island ecosystem, and he is baffled by the suggestion that it is a matter of faith.
+All things are connected: the canopy and the reef, the volcanic soil and the monsoon, the village and the birds that nest in its gardens, and the health of any part affects every other part. To a Kaliharan this is neither metaphor nor doctrine but observed fact, confirmed by several thousand years of very careful attention to a single island ecosystem; the suggestion that it is a matter of faith does not translate.
 
 What follows from it is a posture and not a creed. Kaliharans do not pray; they observe. They do not make offerings; they tend. The nearest thing to reverence is an abiding respect for the world as it is, with an obligation attached—to leave the balance no worse than it was found.
 
@@ -47,7 +47,7 @@ You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ 
 
 ## The Ports
 
-Qasirah and the smaller settlements at Vashurán, Korinthel and Telvári are where the two worlds touch. Centuries of contact with Ankarian, Haradian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.
+[[place-qasirah|Qasirah]] and the smaller settlements at [[place-vashuran|Vashurán]], [[place-korinthel|Korinthel]] and [[place-telvari|Telvári]] are where the two worlds touch. Centuries of contact with Ankarian, Haradian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.
 
 A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also not going to be admitted inland, and both he and the custodians know it, and it is not discussed.
 
@@ -55,11 +55,11 @@ A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is unde
 
 Ask a Kaliharan of the interior what a person owes, and he answers: the balance first, then the household, then whatever council has asked something of him this season.
 
-He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and observable by anyone who cares to look, which he will point out is a stricter arrangement than judgment after death.
+He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and observable by anyone who cares to look—a stricter arrangement, in his telling, than judgment after death.
 
 ## See Also
 
-- [[place-kaliharargn|Kalihara Region]]—the continent, its interior and its coast
+- [[place-kaliharargn|Kalihara Region]]—the island's country, its interior and its coast
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and what it asks
 - [[place-qasirah|Qasirah]]—the great port and the world it faces
 - [[skill-kalihrlng|Kalihari]]—the tongue of the interior and the ports

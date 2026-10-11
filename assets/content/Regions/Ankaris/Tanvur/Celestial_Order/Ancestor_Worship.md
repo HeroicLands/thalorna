@@ -3,85 +3,63 @@ shortcode: ancstrwrshp
 name: {full: Ancestor Worship, aliases: []}
 type: lore
 subType: spirit
+description: "Ancestor worship in Tānvür—the dead posted as advocates in heaven, the household shrine and its tablets, the obligations owed in both directions, the Lëigürt who speak with the dead, and the midwinter Festival of the Dead."
 data: {packFolder: celestialorder}
 ---
 
-## Ancestor Worship in Tānvür
+A Lëigürt of the river villages, asked by a foreign traveler whether the Tānvüri pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor worship in the [[affiliation-tanvurempr|Empire of Tānvür]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tānvüri practices, from the Emperor to the poorest farmer.
 
-In the [[affiliation-tanvurempr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
+The dead are not gone. They are posted. When a person dies, the [[affiliation-tngvkvnlei|Ministry of Final Account]] reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
 
-The dead are not gone. They are _posted_. When a person dies, their soul is processed by the [[affiliation-tngvkvnlei|Ministry of Final Account]], and their lifetime **moral ledger** determines their assignment. Those with favorable balances are posted as **ancestor spirits**—spiritual officials whose assigned function is to advocate for their living descendants within the celestial bureaucracy. Those with unfavorable balances are sentenced to terms of spiritual labor in the lower realms, or dissolution.
+An ancestor's posting is work, not rest. He files petitions for his descendants, intercedes with the officials of the bureaus and spends the credit on his own ledger to ease their way. A strong ancestor with a full ledger can turn rain toward the family's fields, lean on a magistrate's ruling or arrange good omens before a venture. A weak one, his ledger spent, can do nothing.
 
-This is not an afterlife of reward or punishment in the Western sense. It is a _posting_. Ancestor spirits do not rest in paradise—they work. They file petitions on behalf of their descendants, intercede with bureau officials, and use their accumulated spiritual credit to smooth the path for the living. A powerful ancestor spirit with a strong ledger balance can redirect rainfall to a family's fields, influence a magistrate's ruling, or arrange favorable omens before a business venture. A weak ancestor—one with a depleted ledger—can do nothing.
+## The Economy of the Dead
 
----
+The faith divides the empire's families into the spiritually rich and the spiritually poor, and each condition feeds itself.
 
-### The Spiritual Economy
+A rich family burns spirit money by the basket, pays for temple petitions and sponsors festivals, and every offering credits its ancestors' ledgers. Well-credited ancestors argue more effectively, the family prospers, and its prosperity pays for more offerings. The economy of the dead mirrors the economy of the living, and both hold the castes in place.
 
-This creates a **self-reinforcing spiritual aristocracy** that is one of the most distinctive features of Tānvüri culture.
+A poor family cannot afford proper offerings. Its ancestors' accounts run low, weakened ancestors cannot argue for it, and its fortunes sink further. Poverty in Tānvür is a debt in heaven as well as a want on earth, and the system keeps it in the family.
 
-A wealthy family can afford lavish offerings—burning spirit money, commissioning temple petitions, sponsoring festivals—all of which credits their ancestors' ledger. Better-credited ancestors are more effective advocates, which brings the living family more prosperity, which funds more offerings. The spiritual economy mirrors and reinforces the material economy, and both reinforce the caste system.
+The Tānvüri do not call this unjust. Each family stands where its accumulated ledger places it: poverty means one's ancestors earned too little credit, and wealth is the proof of ancestral virtue. The system, they say, is the system.
 
-Conversely, a poor family cannot afford proper offerings. Their ancestors' accounts run low. Weakened ancestors cannot advocate effectively. The family's fortune deteriorates further. Poverty in Tānvür is not merely an economic condition—it is a _spiritual deficit_, and the system is designed to make it self-perpetuating.
+## The Shrine
 
-The Tānvüri do not see this as unjust. They see it as the natural function of the classification system. Each family occupies the position in the cosmic order that their accumulated ledger warrants. To be poor is to have ancestors who failed to accumulate sufficient credit. To be wealthy is proof of ancestral virtue. The system is the system.
+Every household in the empire, the imperial palace and the meanest hut alike, keeps an **ancestor shrine**. It holds the **ancestor tablets**, carved wooden plaques bearing the names and death-days of the family's dead; offerings of food and spirit money; and a small brazier for burning spirit documents.
 
----
+The shrine is as necessary to a household as its hearth or its well. A family without a kept shrine has no channel to its dead, no advocates to carry its petitions and no way to send them anything. It is cut off, with no one to speak for it in heaven.
 
-### The Ancestor Shrine
+Each tablet is an ancestor's address: the place where the spirit receives what is sent to him and from which he answers. Moving a tablet without the proper rite is like moving house without telling the post, and the ancestor's mail goes astray. Breaking one cuts the ancestor off entirely.
 
-Every household in Tānvür, from the imperial palace to the humblest peasant dwelling, maintains an **ancestor shrine**—a physical interface with the spiritual bureaucracy. The shrine contains **ancestor tablets** (carved wooden plaques bearing the names and death-dates of deceased family members), offerings of food and spirit money, and a small brazier for burning spirit documents.
+## What Each Side Owes
 
-The shrine is not decorative. It is **functional infrastructure**, as essential as a hearth or a well. A household without a maintained shrine has no channel to its ancestor spirits, no way to file petitions through familial advocates, no means of transmitting spiritual resources. Such a household is bureaucratically _disconnected_—spiritually adrift, with no one to speak for them in the celestial administration.
+Visitors from the Aurèldían west often take ancestor worship for fond remembrance of the dead, and in Tānvür it is nothing of the kind. The living and the dead are bound by obligations that run both ways.
 
-The ancestor tablets are not memorial objects. The Tānvüri believe each tablet serves as a **bureaucratic address**—a location marker that the ancestor spirit uses to receive transmissions and deliver responses. Moving a tablet without proper ritual is the equivalent of changing an official address without filing a forwarding notice. Breaking a tablet severs the connection entirely.
+**The living owe the dead** offerings of spirit money and food, a shrine kept in order, a yearly report on the family's affairs filed through the Hearth Monitor (_Zātkür_), the keeping of every death-day, and children to carry on the line. A family that fails in these has broken a contract, and an ancestor whose offerings are neglected loses credit and strength, which is a harm the living do to the dead.
 
----
+**The dead owe the living** advocacy in heaven, warnings sent through dreams and omens, the protection of the household and counsel on great decisions. An ancestor who ignores his descendants' petitions has abandoned his post, and a family may in the end dismiss him: take his tablet from the shrine, stop his offerings, and cut him off from everything the family can send.
 
-### Obligations Flow Both Ways
+What unsettles visitors most is that **the dead give orders**. Through a Lëigürt, in a dream or by an omen, an ancestor may arrange a marriage, forbid a venture, demand that a feud be carried on or an alliance made. A Tānvüri treats such a command as a directive from heaven. Disobeying it is a breach of the cosmic order as well as of filial duty, and it costs heavily on the ledger. The older and stronger the ancestor, the more binding his word, and in most families the dead have the last say on every great decision.
 
-Western visitors often mistake ancestor worship for sentimentality—the fond remembrance of departed loved ones. In Tānvür, it is nothing of the sort. The relationship between the living and the dead is one of **mutual obligation**, and the obligations run in _both directions_.
+## The Lëigürt
 
-**The living owe the dead**: regular offerings of spirit money and food, proper maintenance of the shrine, annual reports on family affairs (filed through the Hearth Monitor, Zātkür), observance of death-day commemorations, and the perpetuation of the family line. A family that fails in these obligations is not merely disrespectful—they are _breaching a contract_. An ancestor whose offerings are neglected will lose spiritual credit and effectiveness, which is a form of harm inflicted on the dead by the living.
+The **Lëigürt** (spirit masters) arise in the [[lore-nokvur|Nōkvür]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yātvōr healers of the [[lore-zathuk|Zāthük]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
-**The dead owe the living**: advocacy within the celestial bureaucracy, warnings delivered through dreams and omens, spiritual protection of the household, and guidance on major decisions. An ancestor spirit that fails in these duties—that ignores its descendants' petitions—is considered to have abandoned its post. In extreme cases, a family may formally _dismiss_ an ancestor spirit, removing its tablet from the shrine and ceasing all offerings, effectively cutting it off from the family's spiritual resources.
+A Lëigürt is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zheklung|Zhëklüng]] consult Lëigürt on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
-Most unsettling to Western sensibilities: **ancestor spirits can issue commands**. Through the Lëigürt (Spirit Masters) or through dreams and omens, ancestor spirits can direct the actions of their descendants—arranging marriages, forbidding business ventures, demanding that grudges be pursued or alliances formed. These are not suggestions. In Tānvüri culture, an ancestral command carries the weight of a celestial directive. To disobey is not merely filial disobedience—it is a violation of the cosmic order, an act that incurs heavy debits on the moral ledger.
+## The Elder Dead
 
-This means that in Tānvür, **the dead govern the living**. Not metaphorically. Not sentimentally. The accumulated weight of ancestral obligation shapes every major decision a family makes, and the older and more powerful the ancestor, the more binding their commands.
+The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within the empire do not keep the Tānvüri rites. The Sinalë honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazári make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanthei|Tānthëi]] do not look into the matter.
 
----
+## The Festival of the Dead
 
-### The Lëigürt: Spirit Masters
+The greatest festival of the dead is the **Sīklëi Jëit**, held in **Zhürtyüt**, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Lëigürt speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tānvüri year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
 
-The **Lëigürt** (Spirit Masters) are shamanic practitioners who emerge from within [[lore-nokvur|Nōkvür]] communities, possessing the ability to commune directly with the spirit realm. They are the primary interface between living families and their ancestor spirits, serving as translators, mediators, and spiritual clerks.
+## See Also
 
-Lëigürt functions include receiving and interpreting ancestral commands, performing healing rituals for spiritually-caused ailments (often in collaboration with the Yātvōr healers of the [[lore-zathuk|Zāthük]] caste), conducting rites of passage that register births, marriages, and deaths with the celestial administration, and mediating disputes by consulting the relevant ancestor spirits for rulings.
-
-Though technically of the [[lore-nokvur|Nōkvür]] caste, Lëigürt command profound respect across all levels of society. Their ability to communicate with the dead—and by extension, with the celestial bureaucracy—gives them a unique form of authority that transcends caste. Warlords and even members of the [[lore-zheklung|Zhëklüng]] consult Lëigürt on spiritually complex matters, though always in private, since formally acknowledging a peasant's authority would be a caste violation.
-
----
-
-### Elder Race Traditions
-
-The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within the empire do not practice ancestor worship in the Tānvüri form. The Sinalë honor their dead through rituals tied to nature—planting trees and tending sacred groves in private ceremonies that bear no resemblance to the bureaucratic transaction of the Celestial Order. The Khazári revere their ancestors through the crafting of memorials and the preservation of ancient tools and weapons, which are considered sacred. Both traditions remain entirely separate from human practice, and the Tānvüri bureaucratic framework has no mechanism for incorporating them—a theological loose end that the [[lore-tanthei|Tānthëi]] prefer not to examine too closely.
-
----
-
-### Festivals of the Dead
-
-Several annual festivals center on the spiritual economy and the maintenance of ancestral accounts.
-
-The most significant is the **Sīklëi Jëit** (Festival of the Dead) during **Zhürtyüt** (the Month of Snow) in mid-winter, when families conduct elaborate rituals to provision their ancestor spirits for the coming year. Massive quantities of spirit money and goods are burned, accounts are settled, and the Lëigürt commune with the dead to receive their instructions for the year ahead. It is simultaneously the most sacred and most expensive event in the Tānvüri calendar—a family that cannot afford proper Sīklëi Jëit observances faces a year of diminished spiritual advocacy.
-
-See [[lore-clndrstrlgy|Calendar and Astrology]] for the full festival calendar.
-
----
-
-### See Also
-
-- [[lore-nokvur|Nōkvür]]—The caste most closely tied to ancestor worship practices
-- [[lore-phlsphylvr|Philosophy of Lëivōr]]—The cosmological framework of Lëi and the spirit world
-- [[lore-celestlrdr|Celestial Order]]—The broader religious and administrative framework
-- [[lore-elderraces|Elder Races]]—The distinct ancestral traditions of the Sinalë and Khazári
-- [[lore-clndrstrlgy|Calendar and Astrology]]—Festivals tied to the spiritual economy
+- [[lore-nokvur|Nōkvür]]—the caste from which the Lëigürt arise
+- [[lore-marriage|Marriage]]—the transfer of ancestor tablets at a wedding
+- [[lore-phlsphylvr|Philosophy of Lëivōr]]—Lëi and the spirit world
+- [[lore-celestlrdr|Celestial Order]]—the faith and its moral ledger
+- [[lore-elderraces|Elder Races]]—the ancestral traditions of the Sinalë and Khazári
+- [[lore-clndrstrlgy|Calendar and Astrology]]—the festivals of the dead

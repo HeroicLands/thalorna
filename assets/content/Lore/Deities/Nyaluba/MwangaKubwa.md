@@ -3,6 +3,7 @@ shortcode: mwangadty
 name: {full: Mwánga-Kúbwa, aliases: [The Great Brightness]}
 type: lore
 subType: deity
+description: "The Great Brightness of the Nyáluba—the diffuse source from which every spirit came and to which all return, named and never addressed."
 tags: [draft, nyaluba]
 data: {packFolder: deitiesnyaluba}
 ---
@@ -21,4 +22,10 @@ The Nyáluba recognize no supreme god, and would not accept that this is one. Th
 griots say that Mwánga-Kúbwa is where the guides came from, and that it is not the sort of
 thing one talks to.
 
-The Bombwe and Ngonzi griots give differing accounts of the Brightness.
+The Bombwe and Ngonzi griots give differing accounts of the Brightness, and neither clan has ever brought the difference to the Great Indaba: a question about something nobody talks to is not one the Pact needs answered.
+
+## See Also
+
+- [[lore-nyalbsprts|Nyáluba Spirits]]—the guides beneath the Brightness, and the three postures
+- [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the Nyáluba Way and its keepers
+- [[lore-nyalubaclt|Nyáluba]]—the five clans and the Pact

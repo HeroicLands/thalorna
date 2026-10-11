@@ -795,7 +795,7 @@ subType: "" # see the subtypes above
 description: "" # short description of what this note holds
 tags: [draft]
 data:
-  banner: "" # optional; the banner image shortcode
+  # banner: <image shortcode>  # optional; omit it, or write none to show no hero image
   packFolder: ""  # must be specified
 ---
 

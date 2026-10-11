@@ -3,68 +3,56 @@ shortcode: nutzok
 name: {full: Nützōk, aliases: []}
 type: lore
 subType: law
+description: "The eighth caste of Tānvür—slaves, war captives, condemned criminals and the outcast, held as property with no name, no marriage and almost no road out, their condition inherited by their children."
 data: {packFolder: castes}
 ---
 
-**Slaves and Outcasts**
+The Nützōk are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of [[affiliation-tanvurempr|Tānvür]]. A Nützōk has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-venduk|Vëndük]] are also slaves, and the comparison stops there: a Vëndük is owned because he is precious, and a Nützōk because he is nothing.
 
-The Nützōk occupy the lowest stratum of [[affiliation-tanvurempr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[lore-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.
+## How a Person Becomes Nützōk
 
-## Origins of Nützōk Status
+Three roads lead down into the caste, and none leads back.
 
-### Slavery by Conquest and Debt
+**Capture and debt.** Prisoners taken in war, captives from the border districts, and debtors who cannot pay are reduced to Nützōk by a magistrate's judgment. The reduction is entered in the registry as permanent.
 
-Prisoners of war, captives from border regions, and those unable to pay debts can be reduced to Nützōk status through legal processes. Enslavement is expected to be permanent.
+**Sentence.** A magistrate may sentence a person convicted of murder, great theft or sedition to slavery for life in place of death or mutilation. The sentence falls on the criminal's descendants too: every child he fathers after it is born Nützōk.
 
-### Criminal Punishment
+**Outcasting.** A member of any higher caste who breaks the [[lore-castelaws|Caste Laws]] gravely enough, or commits a moral crime the court will not name aloud, may be stripped of his caste and his clan and entered as Nützōk. It happens rarely, and the higher castes count it worse than death—a Vüshōk offered the choice between outcasting and _Rëitsīk_, the ordered suicide, takes the knife.
 
-Individuals convicted of serious crimes—murder, major theft, sedition—can be sentenced to lifetime slavery rather than execution or mutilation. Such condemning condemns both the criminal and all their descendants to Nützōk status.
+## The Law of the Slave
 
-### Caste Outcasting
+The law gives a Nützōk two things. It forbids killing or maiming him without cause, and the penalty for doing so is the penalty for damaging property, paid to his owner; and it allows him to petition for elevation after an extraordinary service, a petition almost never granted.
 
-In rare circumstances, a member of any higher caste can be stripped of their status and reduced to Nützōk for profound violations of [[lore-castelaws|Caste Laws]] or severe moral transgression. This process is considered a fate worse than death.
+Against those it sets everything else:
 
-## Rights and Restrictions
+- **Obedience**: a Nützōk obeys any command from a member of any higher caste, and refusal is answered with death or the lash.
+- **No property**: everything he earns or is given belongs to his owner.
+- **No marriage**: no union of Nützōk is recognized, and their children are Nützōk from birth.
+- **No movement**: he goes nowhere without his owner's leave.
+- **No name**: he is recorded by his owner's name, a number and at most an epithet, and his classification tablet names the owner, not the bearer.
+- **No end**: the condition is permanent, and its stain is held to pass to every descendant.
 
-### Rights
+## Living as Property
 
-- **Right to Life**: Basic legal protection against unlawful killing or maiming; however, a Nützōk's life is valued far below that of other castes, and punishments for harming them are minimal
-- **Right to Petition for Mercy**: In rare cases, a Nützōk may petition for elevation in status through exceptional service, extraordinary bravery, or demonstrated virtue—though such petitions are almost never granted
+A Nützōk is used for whatever the owner needs: the fields, the mines, the household, the galley, the entertainment of guests. The law's protection against gratuitous killing is enforced, when it is enforced at all, as a claim between owners. The other castes hold the Nützōk in contempt and avoid them. A free man seen to keep company with a slave loses face for it, and a Zāthük craftsman who eats at a slave's table may be shamed before his guild.
 
-### Absolute Restrictions
+## The Narrow Ways Out
 
-- **Obligation to Serve**: Must obey any command from any member of higher castes without question; disobedience results in death or severe corporal punishment
-- **No Property Rights**: Possesses nothing; all earnings and possessions belong to their master
-- **No Marriage Rights**: Nützōk cannot enter into legal marriage; reproduction, when permitted, produces children who are themselves Nützōk
-- **No Freedom of Movement**: Cannot leave their master's control without permission
-- **No Personal Identity**: Have no personal names; identified only by master's name and slave number or simple epithet
-- **Permanent Status**: Nearly impossible to rise from Nützōk status; the stain of slavery is considered permanent and taints all descendants to the furthest generation
+Three ways out exist in law, and few people walk any of them.
 
-## Social Status and Treatment
+- **Manumission**: an owner may free a slave, who is entered as [[lore-nokvur|Nōkvür]] and given land to work.
+- **Service**: a slave who shows extraordinary courage in the empire's service—a stand on the field, a lord's life saved—may petition for elevation.
+- **Purchase**: a slave with a rare skill who is allowed to earn may in time negotiate the price of his own release.
 
-Nützōk are treated as living property. Their masters may use them for any purpose—labor, personal service, entertainment, or disposal. While the law technically prohibits gratuitous murder of slaves (as this constitutes property damage), the practical protections are minimal and enforcement is rare.
+Freedom does not end the mark. A freed slave is entered in his new caste with the notation of what he was, and his neighbors treat him as what the notation says. His grandchildren may be accepted; his children usually are not.
 
-Other castes view Nützōk with contempt and revulsion. Association with Nützōk is socially damaging; even contact with slaves can result in loss of status or public shaming.
-
-## Path to Freedom
-
-Elevation from Nützōk status is theoretically possible but practically nearly impossible:
-
-- A master may choose to free a slave, granting them Nōkvür status and releasing them from bondage
-- A slave who displays extraordinary courage in service to the empire (rare battlefield valor, saving a noble's life) might petition for status elevation
-- A slave who accumulates sufficient wealth through exceptional service or unique skills might negotiate their own release
-
-In all cases, freed slaves face profound social isolation and suspicion. They are not truly accepted into the caste they join; they remain forever marked as former slaves. Their descendants may eventually integrate into their assigned caste, but it requires generations.
-
-## No Redemption
-
-The [[lore-castelaws|Caste Laws]] contain no pathway for mass rehabilitation or systematic transformation of Nützōk into higher castes. The system is designed to perpetuate the condition. Children born to Nützōk parents are automatically Nützōk, inheriting their parents' bondage and degradation. Breaking this chain requires the intervention of masters or exceptional personal circumstances—resources available to vanishingly few.
+The law offers no general road out. No court frees slaves in numbers, no reform has ever been attempted, and a child born to Nützōk parents is Nützōk before he draws breath. What breaks the chain in any one family is an owner's decision or a stroke of fortune, and the system is built so that neither comes often.
 
 ## See Also
 
-- [[lore-castelaws|Caste Laws]]—rights and restrictions governing Nützōk
-- [[lore-nokvur|Nōkvür]]—peasant farmers, the lowest free caste
-- [[lore-shukren|Shükrën]]—merchants and traders above Nützōk in hierarchy
-- [[lore-venduk|Vëndük]]—magical slaves who occupy a unique elevated position despite enslavement
-- [[lore-zeisik|Law and Honor]]—legal framework governing treatment of slaves
+- [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Nützōk
+- [[lore-shukren|Shükrën]]—merchants, the lowest free caste and the one directly above
+- [[lore-nokvur|Nōkvür]]—peasant farmers, into whose caste a freed slave is entered
+- [[lore-venduk|Vëndük]]—the sorcerer caste, enslaved and held high
+- [[lore-zeisik|Law and Honor]]—the courts that hand down slavery as a sentence
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

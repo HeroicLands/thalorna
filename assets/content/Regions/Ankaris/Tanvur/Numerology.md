@@ -3,54 +3,39 @@ shortcode: numerology
 name: {full: Numerology, aliases: []}
 type: lore
 subType: arcana
+description: "Which numbers the Tānvüri hold lucky and unlucky—eight, nine, five, three and one against four and six—and how they shape dates, buildings, seals and filings."
 data: {packFolder: tanvur}
 ---
 
-## Numerology in the Empire of Tānvür
+A Tānvüri builder asked to add a fourth step to a temple stair adds a fifth instead, and the client pays gladly for the extra step. Numbers in the [[affiliation-tanvurempr|Empire of Tānvür]] are classifications like everything else: each one belongs to a domain of the sorted order, and using a number brings what it touches under that domain's influence. Families choose wedding days by them, architects count stairs and pillars by them, and generals have delayed an advance to march on a better date.
 
-In the [[affiliation-tanvurempr|Empire of Tānvür]], numerology plays a significant role in shaping cultural practices, beliefs, and rituals. Certain numbers carry deep symbolic weight and influence everything from wedding dates to architectural design to military strategy.
+## The Auspicious Numbers
 
-### Auspicious Numbers
+**Eight** is the number of the complete social order, because there are eight castes, and of the endless cycle by which the celestial administration sorts, keeps and renews the world. It is the number of prosperity. Marriages, contracts and filings are set on days that carry an eight so that they will be processed favorably, and merchant houses open on them.
 
-#### Eight (8)
+**Nine** is the number of the throne. It is the highest single digit and the fullest expression of the sorted order, tied to the Tëngvōr, the [[lore-mandatehvn|Mandate of Heaven]], and to the appointment of the imperial line, and every rite of the Emperor and the [[lore-zheklung|Zhëklüng]] is counted in nines. It is also a number of protection: the Tānthëi use it in rites that strengthen the boundary between the sorted world and the Hürnlëi, the unsorted chaos.
 
-The number 8 is highly auspicious as it represents infinity, balance, and harmony. Its continuous loop shape symbolizes the eternal cycle of classification—the ongoing process by which the cosmic administration sorts, maintains, and renews the ordered world. The number 8 is strongly associated with wealth and prosperity, since the eight castes represent the complete classification of Tānvüri society. Marriages, business filings, and important ceremonies are frequently scheduled on dates involving the number 8 to ensure favorable processing.
+**Five** is the number of the five material domains—Air, Fire, Earth, Metal and Water—that make up the physical world and are kept by the [[lore-fvlmntlrds|Five Elemental Lords]]. It stands for balance among them, and it is used in the rites that keep natural forces in proportion: the agricultural festivals, the healing ceremonies, and any undertaking meant to last.
 
-#### Nine (9)
+**Three** is the number of heaven, earth and humankind together. It is a number of beginnings and growth, invoked in rites for fertility, for new work in the arts and for new ventures, and it is laid into a building's foundation as the promise that the house will stand and prosper.
 
-The number 9 is associated with the celestial administration and is considered a number of completeness and cosmic perfection—the highest single digit, representing the fullest expression of classified order. Nine is revered in ceremonies related to the Emperor and the [[lore-zheklung|Zhëklüng]] caste, as it is connected to the Tëngvōr (Mandate of Heaven) and the cosmic appointment of the imperial line. It is also considered a number of protection, used in rituals to reinforce classification boundaries against the Hürnlëi.
+**One** is the source of every other number and the origin of creation, and in matters of state it is the number of the Emperor's single authority. The rites that open a new era or a new dynasty are built on it.
 
-#### Five (5)
+## The Inauspicious Numbers
 
-The number 5 represents the five elements (Wood, Fire, Earth, Metal, Water) that are fundamental to the cosmology of Tānvür. It also symbolizes balance and harmony among these elements. The number 5 is considered auspicious in rituals involving the balance of natural forces, such as agricultural festivals and ceremonies related to healing. It is also seen as a number that promotes stability and harmony in both personal and societal contexts.
+**Four** belongs to no domain at all. It is not the elements' five, the throne's nine or the Emperor's one, and the Tānvüri call it an unsorted number. It is kept out of filings, buildings and names, because a thing marked with four is held to slip a little out of its classification.
 
-#### Three (3)
+**Six** is one short of the seven domains of the [[lore-phlsphylvr|Lëivōr]] philosophy—the five material domains, Spirit and the Neutral—and so it is a number of unfinished sorting. It is not wholly unlucky, and in some contexts it is a good number, but families avoid it for a wedding or a long contract, where what is wanted is permanence.
 
-The number 3 symbolizes creativity, growth, and the connection between heaven, earth, and humanity. It is seen as a powerful number for new beginnings and the manifestation of intentions. The number 3 is often invoked in rituals for fertility, artistic endeavors, and the birth of new ventures. It is also considered auspicious in the construction of buildings, where it represents the foundation of a stable and prosperous future.
+## Numbers in Daily Life
 
-#### One (1)
+- **Dates**: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanthei|Tānthëi]] astrologer is paid to find one.
+- **Design**: a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.
+- **Seals and banners**: households and clans work auspicious numbers into their seals, their banners and the spirit documents they burn for their ancestors, so that the celestial bureaus will look on their business favorably.
 
-The number 1 represents unity, leadership, and the beginning of all things. It is seen as the source of all numbers and the origin of creation in the cosmology of Tānvür. The number 1 is particularly significant in matters of state and governance, symbolizing the singular authority of the Emperor. It is also considered auspicious in rituals marking the start of new eras or dynasties.
+## See Also
 
-### Inauspicious Numbers
-
-#### Four (4)
-
-The number 4 is considered inauspicious because it corresponds to no natural classification boundary—it is not an elemental number (5), not a completeness number (9), and not a unity number (1). The Tānvüri understand 4 as an _unsorted_ number, associated with incompleteness and classification failure. It is avoided in important filings, building construction, and naming practices, as its use is believed to weaken the cosmic sorting of whatever it is associated with.
-
-#### Six (6)
-
-While the number 6 can have positive connotations in some contexts, it is often associated with instability and impermanence, as it is one step away from the completion represented by the number 7. The number 6 is sometimes avoided in situations where long-term stability and success are desired, such as in marriages or long-term business agreements.
-
-### Practical Applications
-
-- **Ceremonies and Rituals:** Important events, such as marriages, coronations, and building dedications, are often timed to coincide with dates or times that include auspicious numbers.
-- **Naming and Design:** Names, titles, and even architectural designs frequently incorporate auspicious numbers to invoke their positive qualities. For example, a temple might be designed with 9 steps leading to the entrance, or a business might open on a date that includes the number 8.
-- **Personal and Clan Symbols:** Individuals and clans incorporate auspicious numbers into their seals, banners, and spirit documents to ensure favorable processing by the celestial administration.
-
-### See Also
-
-- [[lore-marriage|Marriage]]—Wedding dates and ceremonies influenced by numerology
-- [[lore-clndrstrlgy|Calendar and Astrology]]—The calendar system that numerology interacts with
-- [[lore-phlsphylvr|Philosophy of Lëivōr]]—The cosmic framework that gives numbers their meaning
-- [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of imperial culture
+- [[lore-marriage|Marriage]]—wedding dates chosen by number
+- [[lore-clndrstrlgy|Calendar and Astrology]]—the calendar the numbers are read against
+- [[lore-phlsphylvr|Philosophy of Lëivōr]]—the domains that give the numbers their meaning
+- [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial culture

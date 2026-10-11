@@ -29,32 +29,59 @@ data:
   packFolder: threats
 ---
 
+# Appearance {#appearance}
+
+A broad, unhurried man in a felt coat sewn with iron plates sits his horse a little apart from his captains and lets them do the talking. He is past his youth, his face cut by wind and old scars, and he watches whoever is speaking rather than the one he is speaking to. When he does talk, it is quietly, in the clipped trade-speech of the frontier markets, and the riders around him go still to hear it.
+
 # Dossier {#dossier}
 
-**"Master Tiger of the Steppes"**
+**Bāthür Hürtzhük**, called the Master Tiger of the Steppes, is the warlord of the **Hëkvōr**, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tanvurempr|Empire of Tānvür]] beyond the [[place-grkrhlmrgn|Grukari]] marches. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
-The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr**, or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[affiliation-tanvurempr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.
+## Background
 
-He is a strategist before he is a warrior, and the Empire's frontier commanders have learned that the campaigns he loses are the ones he intended to lose.
+**The divided steppe.** For generations the tribes of the Hëkvōr fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Bāthür began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
 
-## The Rise to Power
+**The open door.** He chose his moment. Infighting among the [[lore-vushok|Vüshōk]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Warlord's report reached the capital, the border was porous and the tribes answered to one man.
 
-Bāthür Hürtzhük's ascent has been fueled by a combination of political instability within the empire, shifting alliances among the northern tribes, and his own extraordinary leadership:
+**The hungry years.** A run of hard winters and failing grazing drove the tribes south in any case. Bāthür turned that hunger into a war aim: the steppe could starve, or it could take the empire's rice basins.
 
-1. **Fragmentation of the Northern Tribes:** For generations, the tribes of the Hëkvōr were divided by internal conflicts and blood feuds. Bāthür Hürtzhük, through diplomacy, marriage alliances, and brutal force, succeeded in uniting these tribes under his command. He presented himself as the embodiment of their collective strength, promising riches and glory if they followed him.
+## Psyche
 
-2. **Weakening of Imperial Defenses:** In recent years, the Empire has faced internal challenges including political intrigue and a weakened military due to infighting among the [[lore-vushok|Vüshōk]] lords. These distractions allowed Bāthür Hürtzhük to consolidate his power without significant interference. The border defenses had become porous.
+### Personality
 
-3. **Climate and Resource Pressures:** Environmental changes in the Hëkvōr, including harsher winters and dwindling resources, have driven the tribes to seek new lands. Bāthür Hürtzhük capitalized on this desperation, framing conquest of the empire's rich lands as the only viable solution.
+Patient, watchful and cold. He listens far more than he speaks, never threatens what he does not intend to do, and keeps promises to allies and enemies alike, which makes both trust him more than they should.
 
-## Threats to the Empire
+### Motivation
 
-- **Military Incursions:** Under his command, the tribes have transformed into a disciplined military force. His warriors, known for mounted combat and guerilla tactics, have begun aggressive incursions into the northern provinces.
-- **Destabilization of Northern Provinces:** The northern provinces, already under strain, are vulnerable to his advances. His forces have systematically targeted supply lines, military outposts, and infrastructure, disrupting the empire's ability to respond.
-- **Potential for Internal Alliances:** Bāthür Hürtzhük has reached out to disaffected elements within the empire, including exiled [[lore-vushok|Vüshōk]] and rebellious factions, offering them a place in his burgeoning empire.
-- **Inspiration for Rebellion:** His success has inspired unrest throughout the empire. Disaffected nobles, peasants suffering under heavy taxation, and ambitious warlords may be emboldened by his example.
+Land and grain for the tribes first; after that, a throne. He does not want to burn the empire, he wants to rule a piece of it, and he studies its registers and its castes as carefully as its forts.
 
-# See Also
+### Strengths
 
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—The exiled general whose rebellion could align with Bāthür's ambitions
-- [[affiliation-tanvurempr|Empire of Tānvür]]—The power he presses against
+He turns raiders into soldiers. His horsemen ride in disciplined companies, strike supply lines and outposts instead of towns, and withdraw before an imperial army can force a battle. He reads his enemies' politics as well as their ground.
+
+### Weaknesses
+
+The confederation is held together by his person and by plunder. A season without victories, or a blow to Bāthür himself, would set the tribes at each other's throats again, and every chief he subdued remembers how.
+
+## Social
+
+### Enemies
+
+- **The northern Warlords**: the Zhëklüng lords whose provinces he raids, each of whom would win the court's favor by bringing back his head and none of whom will yet cooperate with the others to do it.
+
+### Affiliations
+
+- **The Hëkvōr confederation**: the tribes of the Black Wilds, sworn to him as their single war-leader.
+
+## Plot Hooks
+
+1. **The Burned Granaries**: A chain of supply depots in the northern provinces burns in one night. The garrison commander blames the riders; the party finds a forged order that emptied the guard the night before, and the forger was someone inside the province.
+2. **An Offer to the Exiles**: Bāthür's envoys are seeking out exiled Vüshōk and rebel factions, offering them places in the realm he means to carve from the north. One of them has approached [[being-teitjekvngyrt|Tëitjëk Vëngyürt]], and the empire would pay well to know the answer.
+3. **The Lost Caravan**: A Shükrën merchant's caravan vanished on the northern road with a cargo the merchant will not name. The steppe riders have it, and Bāthür is willing to bargain for something other than silver.
+4. **The Example**: Peasants in a northern district, crushed by war taxes, have begun to say the Master Tiger would treat them better than their lord. The magistrate wants the talk stopped, and the people saying it are not wrong about the taxes.
+
+## See Also
+
+- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—the exiled general whose rebellion could join Bāthür's war
+- [[place-grkrhlmrgn|Grukarholm Region]]—the northern marches between the empire and the steppe
+- [[affiliation-tanvurempr|Empire of Tānvür]]—the power he presses against
