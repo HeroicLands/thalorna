@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "Provènzia's blood-fields—ground where so many died at once that the boundary with the spirit world was torn rather than worn thin, leaving a resonance of the battle that does not fade; and the war-torn history that gave the kingdom more of them than anywhere else."
 tags: []
-data: {packFolder: provenzia}
+data: {packFolder: provenzia, culture: provenzianclt}
 ---
 
 Provènzia's history is one of dispute and warfare going back as far as anyone can remember, and the

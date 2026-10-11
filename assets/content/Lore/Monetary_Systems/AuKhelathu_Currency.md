@@ -5,7 +5,7 @@ type: lore
 subType: economy
 description: "Standard currency system of the Northern Fertile Region of Xerathia—temple-attested weight-pieces of copper, silver, and gold organized in gezan and qelu units; backed by the Khelâthi temple banking system (Gár-Hálzi); used across Aû'Khelâthu, Bethûa, and Okháris."
 tags: [reference, currency, khelathu, xerathia, economy]
-data: {packFolder: regkhecon}
+data: {packFolder: regkhecon, culture: khelathiclt}
 ---
 
 [[affiliation-empireakhlth|Aû'Khelâthu]] strikes no round coin, and every price in it is a weight. "A piece you know passes at its face," an assayer of the [[affiliation-garhalzi|Gár-Hálzi]] tells the apprentice who has just been given a balance of his own. "A piece you do not know goes on the scale, and you take what the scale says, whatever the seller tells you." The rest of the money follows from that rule: sealed weight-pieces that pass without a second look, and a temple-treasury behind them that will weigh anything else.

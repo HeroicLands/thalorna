@@ -4,7 +4,7 @@ name: {full: Philosophy of Lëivōr, aliases: []}
 type: lore
 subType: cosmology
 description: "Lëivōr, the Way of Lëi—the Tānvüri theory of the energy that keeps the sorted world sorted, its two flows and seven domains, and how it shapes magic, medicine, government and daily practice."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A Tānthëi lecturer opens the first lesson of the year by setting a cup of water, a candle and a stone on the table, and asking her students why each of them is still what it is. The answer she wants is Lëi. **Lëivōr** ("spirit-sacred," usually rendered "the Way of Lëi") is the body of thought through which the [[affiliation-tanvurempr|Empire of Tānvür]] explains how the cosmos works, why it holds together and what happens when it fails. It is the language beneath the empire's religion, magic, medicine and government, and a scholar, a sorcerer and a healer all reason in it.

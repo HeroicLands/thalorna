@@ -7,6 +7,7 @@ type: lore
 subType: law
 description: "Instructs candidates and sits in the body that chooses its order's chair, across the four Asguardian fighting orders."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Seniority in a sworn order brings candidates to teach, heavier stations to hold and a seat in the body that chooses the order's chair. Each of the four orders names the standing in its own way.

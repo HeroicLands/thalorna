@@ -4,7 +4,7 @@ name: {full: Vëndük, aliases: []}
 type: lore
 subType: law
 description: "The second caste of Tānvür—sorcerers claimed from every caste at the age of ten, the only people in the empire allowed to work magic, ranked above generals and owned by the Zhëklüng."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 Every child in [[affiliation-tanvurempr|Tānvür]] is tested at ten, and the ones who show the gift do not go home. They become Vëndük, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zheklung|Zhëklüng]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Vëndük counselor sits at a Warlord's elbow and a Vëndük artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tānvüri see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.

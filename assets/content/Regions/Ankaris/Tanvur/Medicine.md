@@ -4,7 +4,7 @@ name: {full: Medicine, aliases: []}
 type: lore
 subType: custom
 description: "The medicine of Tānvür—the Yātvōr healers, their belief that sickness is a body fallen out of its classification, their herb-masters and physicians, and their four ranks."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A Yātvōr master takes a new apprentice's wrist in her fingers on the first morning and tells him to be quiet while she reads it. "Three pulses at each wrist," she says, "and every one of them tells you which part of this body has wandered out of its place. Your work is to put it back." Medicine in the [[affiliation-tanvurempr|Empire of Tānvür]] belongs to the Yātvōr (healers), the apothecaries and physicians of the [[lore-zathuk|Zāthük]] caste, and it rests on one idea: a body is sorted the way the world is sorted, and sickness is a body falling out of order.

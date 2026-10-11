@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Gatekeeper of Death in the Varnaka pantheon, who receives the soul at the end of an incarnation and sets it on the next."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _[[affiliation-kalavrata|The Gatekeeper of Death]]—a shrouded figure, faceless, with a black conch at its lips._

@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The disk in its heat: light, sight, kingship, vitality, the day."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 "Which half of a road is the road?" a lector asks a novice who has just asked whether the day or the night is the greater domain. **Athen'Uqa**, the disk in its heat, holds light, sight, kingship, vitality and the day, and it is half of one circuit with [[lore-ithnetau|Ithnetáu]].

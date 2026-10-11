@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The giant-kin defeated by the Ten, with Hrímthur killed and the rest banished to Thursguard."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "They lost," a rune-priest at [[place-odholm|Ódholm]] tells a newcomer who asks about the giant-kin, "and that is the one fact about them every hall agrees on." The **Thursaett** are the giant-kin the [[affiliation-asguardian|Ten]] fought before the world stood. In the Asguardian account the gods broke them and drove the survivors out past the edge of anything made, into the void, and into [[place-thursguard|Thursguard]], a plane of its own walled in that void. The tradition says nothing of their life inside it.

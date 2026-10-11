@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Just of the Asguardian gods—law, sworn oaths, and combat fought by the honorable forms."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Just**—iron scale and oath ring, a law that costs the judge before it costs the judged._

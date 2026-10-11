@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "313 to 334 AF, 1 HG to 22 HG in the Madhusthāna count: the Storm of the Hundred Banners, the fall of the march kingdom of Marupāla on the thinnest shorukshetra in Vedyara, the conch-door adventurer and the Silenced Hall, the Third Compact, and the raising of Bhūmipāla."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 The **Hard Generation** is the crisis of Vedyari history, and the shape of the present was set in it. In about twenty years [[place-vedyarargn|Vedyara]] was invaded from both ends at once, lost a kingdom and a janapada, raised an army it had no mechanism for raising, and signed the law it has lived under since.

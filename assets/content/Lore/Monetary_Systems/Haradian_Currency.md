@@ -5,6 +5,7 @@ type: lore
 subType: economy
 description: "Post-secession Haradian monetary system—Vylarian-derived denominations (Aurion, Argo, Bit) issued and cleared through the Sôd-Naqîrîn's Bayt al-Khazînah rather than the Vylarian Aerarium Imperii; uses Haradian-struck coin (slightly underweight Aurion, standard-weight Argo) and Haradian temple-of-treasury chits."
 tags: [reference, currency, harad, economy]
+data: {culture: haradianclt}
 ---
 
 A Vylarian changer who is handed a Haradian Aurion puts it on the scale before he names a price, because it is about 7 percent light. Inside Harad nobody weighs it; it passes at face value from one end of the coast to the other. That difference is the whole character of the Haradian currency: the empire's denominations, struck and banked by a confederation that left the empire.

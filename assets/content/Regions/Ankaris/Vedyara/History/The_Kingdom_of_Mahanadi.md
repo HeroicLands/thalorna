@@ -6,6 +6,7 @@ subType: history
 description: "The kingdom that held the upper Mahānadī for some four centuries, from its founding around 640 BF through the move of its capital to Rājapur in the first year of the Madhusthāna count to the forty-day sabhā that dissolved it in the first year of the Age of Copyists."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - id: founding

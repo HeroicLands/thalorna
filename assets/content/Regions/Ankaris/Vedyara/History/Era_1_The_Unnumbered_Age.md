@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "Vedyara before anyone kept a count of years: the janapada form, Gomārga's law of wells, and the stones nobody laid within memory, ending about 780 BF when the highland temples began keeping an age of their own."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 The **Unnumbered Age** is everything [[place-vedyarargn|Vedyara]] remembers from before it counted. A Vedyari scholar calls it the age of residue: stones nobody laid within memory, customs nobody can source, and names on the foothills older than the language the scholars write. None of it carries a year, and the [[affiliation-ganakashala|Ganaka-shala]]'s reckoners will not give it one.

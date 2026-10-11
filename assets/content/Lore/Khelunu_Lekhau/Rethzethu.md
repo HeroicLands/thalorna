@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The name set down: speech, writing, true names, knowledge, memory, mind."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 Walk any tomb and the _reth_ is on every wall. **Reth'zethu**, the name set down, holds speech, writing, true names, knowledge, memory and the mind, and it is named for the soul-component the funerary rites inscribe on every available surface while the body is wrapped in linen.

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

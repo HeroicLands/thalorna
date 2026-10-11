@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of storms—loud, brief, indifferent to petition, and appeased before the season rather than during it."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

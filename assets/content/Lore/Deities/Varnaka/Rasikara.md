@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Flame of Renewal in the Varnaka pantheon, whose fire destroys so that the cycle may begin again."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _The Flame of Renewal—a lean, burning figure standing within a ring of broken chains._

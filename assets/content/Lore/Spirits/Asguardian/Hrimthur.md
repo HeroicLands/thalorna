@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The Rime-Giant, the one of the giant-kin the Ten killed instead of banishing, out of whose body the world was cut and whose wound has never closed."
 tags: []
-data: {packFolder: lorespiritsasguardian}
+data: {packFolder: lorespiritsasguardian, culture: nordheimnclt}
 ---
 
 _**The Rime-Giant**—rime-scored bone and a chip of grey stone, not a person and never built to be one._

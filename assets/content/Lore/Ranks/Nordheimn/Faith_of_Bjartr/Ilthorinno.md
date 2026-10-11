@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Newly called to Bjartr's service, learning dream-reading, healing and the tending of groves under an Ansorunno, in the faith of Bjartr."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Anyone may come to Bjartr's rites. An ilthorinno has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorunno]] admits the ilthorinno, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.

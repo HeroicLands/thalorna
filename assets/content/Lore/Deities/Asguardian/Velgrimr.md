@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Trickster of the Asguardian gods—cunning, deception, and the patron thieves invoke before a theft."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Trickster**—serpent skin and shadowed glass, a favor asked quietly and repaid the same way._

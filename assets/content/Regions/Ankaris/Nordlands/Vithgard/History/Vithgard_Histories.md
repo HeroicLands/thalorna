@@ -6,6 +6,7 @@ subType: history
 description: "The Askholm judgment and empty Ísdal, with Vithgard's winter tales of the fell and the dead."
 tags: []
 data:
+  culture: nordheimnclt
   packFolder: vithgard
   events:
     - id: isdal

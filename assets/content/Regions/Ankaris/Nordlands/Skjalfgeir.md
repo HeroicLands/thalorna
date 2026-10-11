@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "Ódvar’s legendary spear, depicted as never missing its mark and signifying precision and authority."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 A spear that never misses leaves one question, and that is who throws it. **Skjálfgeir** is the spear of [[lore-odvardty|Ódvar]], and the [[affiliation-odvar|faith]] depicts the god holding a weapon that never misses its mark. The hall reads the spear as a sign of his precision and authority.

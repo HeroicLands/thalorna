@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The warrior-judge of the Order of the Sworn Hand, riding circuit to render and enforce rulings under the white wand."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The white wand at a Sworn Hand's saddle marks a standing that no ordinary knight or judge holds: the right to convene a ting in [[lore-eidgardty|Eidgar]]'s name and to have the law recited there bind the parties.

@@ -4,7 +4,7 @@ name: {full: Zëisīk, aliases: []}
 type: lore
 subType: custom
 description: "The law of Tānvür—the Heavenly Law, its courts and punishments, the ordered suicide Rëitsīk, and Zëisīk, the chosen ritual death by which a person of rank answers dishonor."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A district magistrate of [[affiliation-tanvurempr|Tānvür]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the Hürnlëi, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Zëisīk_, the ritual by which a Tānvüri of rank answers a dishonor that no court can undo.

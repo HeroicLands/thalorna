@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves.

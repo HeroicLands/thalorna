@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "A master's pupil for ten to fifteen years, entitled to present a gyldra, in the Skalds' Circle."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 "Your life is mine until I judge you fit to compose your first saga," a master tells the pupil he has chosen. "Until the assembled skalds accept it, the Circle owes you nothing. If they reject it three times, we part without recrimination and without rank."

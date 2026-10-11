@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Eternal Preserver of the Varnaka pantheon, holding order and the grain a settled order rests on."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _The Eternal Preserver—a serene matriarch crowned with wheat, holding a balanced scale._

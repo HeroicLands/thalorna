@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Owned outright, owing labor rather than rent and holding no voice at the ting, in the five kingdoms and the Jarldom of Stormveld."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Thrall is a condition of ownership, not a sentence the ting hands down. A thrall is owned outright, owes labor itself and holds no voice at the ting.

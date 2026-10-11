@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Great Brightness of the Nyáluba—the diffuse source from which every spirit came and to which all return, named and never addressed."
 tags: [draft, nyaluba]
-data: {packFolder: deitiesnyaluba}
+data: {packFolder: deitiesnyaluba, culture: nyalubaclt}
 ---
 
 The diffuse creative presence the Nyáluba name, in the idiom of the griots, as **the Great

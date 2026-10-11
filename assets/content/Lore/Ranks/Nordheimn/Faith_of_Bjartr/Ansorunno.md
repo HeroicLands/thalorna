@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Entrusted with the rites, the care of the faithful and the stewardship of sacred places, in the faith of Bjartr."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 "Long-watcher is what the word means, and it describes the work," an Ansorunno tells the ilthorinno newly come to learn in the grove. "We keep the rites, we look after the faithful and we stand over the sacred places. Every Ansorunno stands level with every other, so when two of us disagree nobody settles it for us. Any of us may call the **Aulirarno**, the council of radiance, and we talk until we agree."

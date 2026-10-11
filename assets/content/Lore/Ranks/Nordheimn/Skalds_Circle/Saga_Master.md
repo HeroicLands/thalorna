@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Acclaimed by his peers when his composed sagas enter the standing repertoire, in the Skalds' Circle."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A stóraldstjóri is one of the skalds whose sagas the [[affiliation-skaldscrcl|Skalds' Circle]] teaches every apprentice: perhaps a dozen at any time, across all the kingdoms.

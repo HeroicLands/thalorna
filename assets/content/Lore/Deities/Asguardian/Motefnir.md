@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Maker of the Asguardian gods—craft, invention, and the made creatures that cannot breed."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Maker**—a clay mould and an unfinished casting, work put down before it was done and never taken up again._

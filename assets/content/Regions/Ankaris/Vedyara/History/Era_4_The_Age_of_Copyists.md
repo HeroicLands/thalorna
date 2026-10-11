@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "From the dissolution of Mahānadī in 241 BF to the end of the Vyālendri kingship about 150 AF: a quiet, recorded age of libraries and endowments, the last gold raid on Suvarnagiri, the Vyālendri crown, the charter of the pass-road, and a royal seat the river drowned."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 If the **Age of Copyists** has a sound, it is a stylus on a palm leaf. For four centuries after [[lore-fortydays|the Forty Days]], [[place-vedyarargn|Vedyara]] wrote things down: [[place-rajavalilib|the Rājavalī Library]] kept the dissolved kingdom's record whole, the copying country of the Sarvada began, endowments were written and land-tenure was recorded, and the jurists began to write their commentaries. [[place-madhavendra|Madhusthāna]] emptied in the same centuries without any event to explain it, and the scholars who name the age do not try.

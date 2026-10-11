@@ -4,7 +4,7 @@ name: {full: Psaq'âru, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-psaqaru|Faith of Psaq'âru]]{float=top-left size=medium}

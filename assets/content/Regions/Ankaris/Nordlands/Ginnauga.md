@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The Eye of the Void: Náhild's primordial relic of corruption, worn at her neck and a powerful source of the Shadow."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 At [[place-odholm|Ódholm]] the rune-priests will say what the Eye of the Void is, who wears it and what it costs, and then they stop, since past that the question is the dangerous part. **Ginnauga**, the Eye of the Void, is the primordial relic from which [[lore-nahilddty|Náhild]] draws her power, and the tradition holds it to be a powerful source of [[lore-theshadow|the Shadow]]: the chaos from outside creation that corrupts whatever it touches, mortal or divine.

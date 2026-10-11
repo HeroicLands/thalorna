@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Eshálosha—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]

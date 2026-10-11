@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "480 to 242 BF, 1 AK to 239 AK in the Madhusthāna count, from the standardization at Madhusthāna to the eve of the forty-day sabhā: Rājapur raised, the just kings and the six, the first shorukshetra at the Unburned Ford, and the kindling of the Agnī-panthā."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 Every Vedyari student of political philosophy learns the **Age of Kingdoms** by the forty days that ended it, and that is a pity, because the two and a half centuries before them are the age the classical tongue was written in. The name is the scholars' own, from the [[skill-vedyarlng|Vedyari]] grammars: it is the first age of [[lore-mdhvndrcnt|the Madhusthāna count]], 1 AK to 239 AK, which is 480 to 242 BF.

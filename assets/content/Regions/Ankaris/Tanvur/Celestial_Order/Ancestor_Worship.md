@@ -4,7 +4,7 @@ name: {full: Ancestor Worship, aliases: []}
 type: lore
 subType: spirit
 description: "Ancestor worship in Tānvür—the dead posted as advocates in heaven, the household shrine and its tablets, the obligations owed in both directions, the Lëigürt who speak with the dead, and the midwinter Festival of the Dead."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 A Lëigürt of the river villages, asked by a foreign traveler whether the Tānvüri pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor worship in the [[affiliation-tanvurempr|Empire of Tānvür]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tānvüri practices, from the Emperor to the poorest farmer.

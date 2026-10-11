@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "Remembered famine, a disputed frontier land-taking, and tales of Nordheim's unquiet coast and old graves."
 tags: []
-data: {packFolder: nordheim}
+data: {packFolder: nordheim, culture: nordheimnclt}
 ---
 
 Nordheim remembers its past in judgments, household claims and songs. The stories of a grave or a

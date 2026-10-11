@@ -6,6 +6,7 @@ subType: history
 description: "The janapadas' own account of their beginning: a form of village government around a temple hall, unbroken for nearly three thousand years by their reckoning and dated by nobody else's."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~-2250

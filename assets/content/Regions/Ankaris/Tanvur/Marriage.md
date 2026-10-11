@@ -4,7 +4,7 @@ name: {full: Marriage, aliases: []}
 type: lore
 subType: custom
 description: "How marriage works in Tānvür—a household registered with the celestial bureaucracy, arranged by clan councils, open only to the four higher castes, and made in five ritual steps."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A Tānthëi matchmaker who has arranged two hundred weddings tells every new bride's mother the same thing: "You are not giving your daughter away. You are opening an account." Marriage in the [[affiliation-tanvurempr|Empire of Tānvür]] merges two families' spiritual standing into a new household, registered with the celestial bureaucracy and given a [[lore-celestlrdr|moral ledger]] of its own. The Tānvüri keep love and marriage in separate categories. Love is a private feeling; marriage is a filing that changes the cosmic standing of two houses.

@@ -3,7 +3,7 @@ shortcode: faecourts
 name: {full: The Fae Courts, aliases: []}
 type: lore
 subType: spirit
-data: {packFolder: elavendre}
+data: {packFolder: elavendre, culture: elavendriclt}
 ---
 
 The **Fae Courts** are said to exist in the deepest and most untraversed reaches of [[place-elavendre|Élavendre]]'s interior—otherworldly gatherings of fae beings of immense power who occasionally meddle in mortal affairs. Whether the Courts are a single unified polity, several rival factions, or something that does not map onto the human concept of "court" at all is not agreed upon by any authority that has spoken on the subject.

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of fertility—of the field, the herd and the birthing-house alike, and the most constantly attended of the zohira."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

@@ -4,7 +4,7 @@ name: {full: Azu'âthis, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-azuathis|Faith of Azu'âthis]]{float=top-left size=medium}

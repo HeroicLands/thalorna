@@ -5,7 +5,7 @@ type: lore
 subType: economy
 description: "How the Nordlands hunt the seal—out on the ice-edge in late winter and on the rookeries in autumn—and what the skins, oil and meat are worth to a coast."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvön_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvönvangr_ (rookery) in autumn.

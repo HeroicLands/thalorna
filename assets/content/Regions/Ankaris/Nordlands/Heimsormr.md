@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The World-Wyrm struck down by Thrúnvald in the standard telling of Aldarlok."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Ask for the World-Wyrm on a northern coast and you are offered two stories for the price of one. A skald at a coastal hall will sing both, one after the other, and stop between them. **Heimsormr** is the wyrm of both.

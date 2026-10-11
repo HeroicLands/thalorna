@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Cast out of a sworn order, the habit taken back and the vows declared void, across the four Asguardian fighting orders."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The worst thing a sworn order can do to one of its own is also the plainest: the council that admitted him takes back the habit and declares his vows void, and the houses that once took him in on his order's name close their doors.

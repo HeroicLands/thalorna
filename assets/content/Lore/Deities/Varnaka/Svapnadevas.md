@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Dreaming Host of the Varnaka pantheon—a celestial host of dreams honored at the edges of the day, with no priesthood of its own."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _The Dreaming Host—slender, silver-robed figures moving together in a gentle dance, half-lit by moonlight._

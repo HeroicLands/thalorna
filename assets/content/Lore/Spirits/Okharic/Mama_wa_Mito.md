@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of rivers—met at every ford in Okháris, and the one a tribe deals with about water it must cross or drink."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

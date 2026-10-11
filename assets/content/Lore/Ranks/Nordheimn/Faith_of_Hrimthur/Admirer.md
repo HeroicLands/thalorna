@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Holds Hrímthur's work in awe without attaching to any faction, in the faith of Hrímthur."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The faith of Hrímthur has no door to stand at. An admirer holds [[lore-hrimthurspr|Hrímthur]]'s work in awe and has joined none of the scattered factions that keep his worship, and the awe is the whole of the standing.

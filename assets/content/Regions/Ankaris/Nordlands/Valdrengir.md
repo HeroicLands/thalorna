@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The honored dead gathered into the gods’ halls to train for Aldarlok."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "I cannot tell you where your brother is," a völva says at a howe-wake to the household that has asked her. "I can tell you what the halls teach about the honored dead, and that is a different gift." What the halls teach concerns the **Valdrengir**, the honored dead gathered into the defending gods' halls to wait and train for [[lore-aldarlok|Aldarlok]].

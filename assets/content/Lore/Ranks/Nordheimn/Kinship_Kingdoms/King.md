@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The sovereign, chosen from the royal clans and acclaimed at the ting, in the five kingdoms."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A king keeps his arm-ring on the ting's consent. The assembly that acclaims him can decline to hand it back, and a king who loses that consent loses the throne with it.

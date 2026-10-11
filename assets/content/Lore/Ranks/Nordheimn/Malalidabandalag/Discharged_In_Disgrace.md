@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Expelled from the Compact by Council vote, the bronze thumb-ring surrendered, in Málalidabandalag."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 When the **Council of the Hall** votes a captain out of the Compact, the bronze thumb-ring is the first thing he gives up and his company's contracts are the next.

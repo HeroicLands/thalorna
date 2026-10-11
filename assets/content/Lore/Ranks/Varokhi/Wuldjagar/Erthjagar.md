@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "One of the company, carrying a charge and a share of the kill, in Wuldjagár erund Gárskald."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 One of the company, carrying a charge and a share of the kill, in Wuldjagár erund Gárskald.

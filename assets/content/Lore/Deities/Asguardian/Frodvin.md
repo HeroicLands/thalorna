@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Healer of the Asguardian gods—fertility, the harvest, peace, and the mending of the body."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Healer**—sheaf of wheat and herb bundle, a peace that still has to be worked for every year it holds._

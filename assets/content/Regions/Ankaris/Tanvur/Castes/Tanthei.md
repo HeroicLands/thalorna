@@ -4,7 +4,7 @@ name: {full: Tānthëi, aliases: []}
 type: lore
 subType: law
 description: "The fourth caste of Tānvür—celestial scholars who read the omens, keep the sacred texts and staff the administration, and whose counsel decides whether heaven agrees with what the Warlords intend."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 A Warlord with his army mustered and the passes open waits for a woman in a blue robe to finish reading the sky, and if she says the omens are against him, he waits a month. The Tānthëi are the scholarly and spiritual elite of [[affiliation-tanvurempr|Tānvür]], the fourth caste, trained in the reading of omens, the mathematics of astrology and the keeping of the sacred texts, and they run the empire's administration from the ministries down to the frontier registers. Their counsel is what the empire's highest authorities act on when the question is whether heaven agrees.

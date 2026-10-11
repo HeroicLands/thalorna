@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "Ódvar’s raven of thought, read both as a literal messenger and as a teaching figure."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 At [[place-odholm|Ódholm]] the rune-casters say the ravens go out at dawn and come back at dusk, and that this is not a figure of speech. They mean **Hugvin**, the raven of thought, who flies with [[lore-munvin|Munvin]], the raven of memory, across the whole world each day to gather knowledge and news for [[lore-odvardty|Ódvar]]. The [[affiliation-odvar|Faith of Ódvar]] depicts the pair in flight, and the raven feather, the sign of the faith, stands for both of them at once.

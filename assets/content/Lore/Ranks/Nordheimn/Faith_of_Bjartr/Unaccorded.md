@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Withheld the Aulirarno's accord, in the faith of Bjartr."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The faith of Bjartr has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorunno]] presides over the **Aulirarno**. When the council will not reach accord on a man, its silence toward him does the work.

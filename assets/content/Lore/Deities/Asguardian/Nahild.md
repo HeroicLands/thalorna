@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Despiser of Life among the Asguardian gods, holding the dead and the underworld they pass into."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Despiser of Life**—obsidian shard and the [[lore-ginnauga|Eye of the Void]], spoken of nowhere she can overhear it praised._

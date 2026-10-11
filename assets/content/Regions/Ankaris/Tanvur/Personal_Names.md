@@ -4,7 +4,7 @@ name: {full: Personal Names, aliases: []}
 type: lore
 subType: custom
 description: "How the Tānvüri are identified by clan, position and place, and how a personal name is granted to the few who earn one."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 Most people in the [[affiliation-tanvurempr|Empire of Tānvür]] never have a name of their own. A personal name is an honor the empire grants for outstanding service, and until it is granted, a person is identified by clan, by position within the clan, and by place. The [[lore-nokvur|Nōkvür]], [[lore-zathuk|Zāthük]] and [[lore-shukren|Shükrën]] live and die that way, and so do most of the castes above them.

@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Swears the Compact before the Council of the Hall and wears the bandalagshringr, in Málalidabandalag."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A captain who swears a company into the Compact at [[place-hringstead|Hringstead]] learns the weight of it at once: his oath is the company's oath, and the Compact holds him answerable for whatever the company does.

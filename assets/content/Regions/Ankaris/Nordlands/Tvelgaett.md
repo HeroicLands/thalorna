@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The gods' heirs who come through the fire of Aldarlok and hold the next age—Aldvar, Ódvar's silent son, Hamarberi, who lifts the hammer, and Grönvin, the green out of the ash."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 The last names a skald speaks at [[lore-jol|Jól]] belong to gods nobody prays to. When the telling of [[lore-aldarlok|Aldarlok]] has burned both worlds and the hall has gone quiet, the skald names the ones who walk out of the ash: the **Tvelgaett**, the remnant-kin—_tvelg-_, a remnant, and _-aett_, a kin reckoned together. They are the gods' heirs, and the next age is theirs.

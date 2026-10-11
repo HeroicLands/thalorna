@@ -6,6 +6,7 @@ subType: history
 description: "In the spring of 315 AF the march kingdom of Marupāla met the Storm of the Hundred Banners where the Western Descent opens onto the march road and died there with its last king; the field is Lanthusthalī, the thinnest and most dangerous shorukshetra in Vedyara."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~315

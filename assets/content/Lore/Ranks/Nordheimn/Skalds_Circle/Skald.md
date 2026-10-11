@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Sworn keeper of a hall's record, entitled to food, shelter and safe passage at any hall, in the Skalds' Circle."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 When an inheritance, a contested oath or a tribute owed three winters ago is in dispute, the courts ask a skald what was said, and they bind their rulings to the answer as they bind them to no unsworn witness.

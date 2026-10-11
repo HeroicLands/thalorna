@@ -6,6 +6,7 @@ subType: history
 description: "The body of standing trade law the merchant princes of Vedyara put to the polities at the Mahā-Mela of 320 AF, at the end of the crisis generation, which founded the Assembly of the Compact and the Merchant Collective."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: 320

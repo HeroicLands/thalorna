@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Golden One of the Asguardian gods—love, beauty, and the prosperity of a household."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Golden One**—rose petal and silver coin, a wealth measured by how much of it has already left the hand that held it._

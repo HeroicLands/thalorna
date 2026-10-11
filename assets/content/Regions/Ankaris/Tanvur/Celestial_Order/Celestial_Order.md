@@ -4,7 +4,7 @@ name: {full: Celestial Order, aliases: []}
 type: lore
 subType: theology
 description: "The Celestial Order, the faith of Tānvür—a universe run as a classification, gods as officials, morality as a ledger, temples as offices, and magic as a petition to heaven's bureaus."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 A temple clerk in a river city, taking a petition for rain from a farmer who has walked two days to bring it, checks the seal, corrects the address and sends it to the brazier with a word of advice: "Next time, write to the Minister of Storms, not the Lord of Water. Water is his to keep, not to send." That is the faith of the [[affiliation-tanvurempr|Empire of Tānvür]]. The **Celestial Order**, formally the [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] ("Celestial Court of Ten Thousand Spirits"), is the religion, the cosmology and the administrative frame of every part of Tānvüri life, and its believers speak of it as a set of procedures before they speak of it as a faith.

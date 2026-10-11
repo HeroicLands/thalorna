@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "About 150 to 312 AF, 1 HC to 163 HC in the Madhusthāna count: the small kingdoms the notes count by the hundred fight for water, ore and fields; Gomārga breaks its well bargain to pay for a river war and loses it on the Field of Elephants; Chandrapur's temples refuse a king and the Nine Houses take their seats."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 "One of the hundred small kingdoms of Vedyara" is still how a Vedyari describes a court of forty people and a fort above each valley, and the phrase comes from this age. In the **Hundred Crowns** the kingdoms really were that many, and they were at war with each other for most of a century and a half: for water on the rivers, for ore in the hills, for fields wherever a field could be taken. Kingdoms absorbed janapadas and released them again, and mountain dynasties rose and fell fast enough that their names changed every few reigns.

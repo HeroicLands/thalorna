@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "Lord of Thunder in the Varnaka pantheon, who drives the storms off the peaks and beats them out on a drum."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _Lord of Thunder—a dark, wild-haired figure with a great drum under one arm and a lightning-spear raised in the other._

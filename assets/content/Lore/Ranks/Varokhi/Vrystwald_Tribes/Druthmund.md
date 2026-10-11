@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Of a kindred's blood, entitled to its protection, its feud and its share, in the Vrystwald Tribes."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 Of a kindred's blood, entitled to its protection, its feud and its share, in the Vrystwald Tribes.

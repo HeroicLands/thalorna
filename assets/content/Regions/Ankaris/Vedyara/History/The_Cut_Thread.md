@@ -6,6 +6,7 @@ subType: history
 description: "About 660 AF the Ādānashrenī cut off the craft-lines that rejected the guild's taboos, chiefly the prohibition on killing during a taking; the lines cut off are the Chinnasūtra, the one rival the guild treats as a matter of its survival."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~660

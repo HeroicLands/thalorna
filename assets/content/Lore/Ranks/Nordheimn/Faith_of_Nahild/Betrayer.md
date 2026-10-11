@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "What the cult of Náhild does to a man who gives away its hidden rites, in the faith of Náhild."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The cult of [[affiliation-nahild|Náhild]] lives on silence: hers is the one worship the pantheon itself holds heretical, her clergy are suppressed in every kingdom and her hofs are kept hidden. Of everything a member can do, giving the cult away ends them fastest.

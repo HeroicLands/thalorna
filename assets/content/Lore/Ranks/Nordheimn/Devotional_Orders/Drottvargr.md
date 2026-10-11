@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Ask how one of the twenty-nine devotional orders puts a devotee out and the answer is nearly always the bare fact: each order words its own expulsion, and most record only that it happens. What the orders share is the result. A devotee who is cast out loses the order's shelter and its purpose together.

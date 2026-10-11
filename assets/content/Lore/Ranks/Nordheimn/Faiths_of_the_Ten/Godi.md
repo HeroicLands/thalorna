@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The ordained priest or priestess who keeps a hof's rites, in the eight faiths of the Ten that keep the blót."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 "I keep this hof's rites and I answer for the people who gather at it," says a godi who keeps a farm hof in the Norgaad passes. "If I refuse a man the blót, he is out of the faith's law, the way a ting's sentence puts a man out of his clan. That much of the ting's power I hold over the people of this hof."

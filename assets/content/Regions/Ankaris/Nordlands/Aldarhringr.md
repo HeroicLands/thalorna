@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The Nordmen's account of the ages: each world-age is born, lives and dies like a person, and the gods of this one were kindled from what the last one left."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Ask a skald where the world came from and she asks you which world you mean. That is the first thing a child at a northern hearth learns about the gods, before their names and long before their quarrels: the world underfoot is not the first world, and it is not the last. The skalds call the whole turning **Aldarhringr**, the ring of ages—_aldar-_, the age's, and _-hringr_, a ring—and the word carries the doctrine in it. An age is a _heimsaldr_ (world-age), and a world-age is born, lives and dies the way a person does. Nothing in the tellings stands outside that ring, the [[affiliation-asguardian|Ten]] included.

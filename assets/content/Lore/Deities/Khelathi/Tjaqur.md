@@ -4,7 +4,7 @@ name: {full: Tjaq'ûr, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-tjaqur|Faith of Tjaq'ûr]]{float=top-left size=medium}

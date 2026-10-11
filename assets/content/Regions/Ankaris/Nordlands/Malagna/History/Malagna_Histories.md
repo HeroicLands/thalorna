@@ -6,6 +6,7 @@ subType: history
 description: "Malagna's remembered wergild feud and the stories told of its guarded crown and unsettled dead."
 tags: []
 data:
+  culture: nordheimnclt
   packFolder: malagna
   events:
     - id: wergild

@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The made body: craft, stone, flesh, shaping, animation, transformation."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 Watch an embalmer at work and you are watching the _qelt_ kept. **Qelt'nu**, the made body, holds craft, stone, flesh, shaping, animation and transformation, and it is named for the soul-component the embalmers preserve, as [[lore-rethzethu|Reth'zethu]] is named for the one the scribes inscribe.

@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Given to a hof young and years short of the priesthood, in the eight faiths of the Ten that keep the blót."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Not every young Nordman spends years at a hof. A hofsmadr (hof acolyte) is given to a hof young, takes up its labor and learns its observances, and stands years short of the priesthood a godi holds.

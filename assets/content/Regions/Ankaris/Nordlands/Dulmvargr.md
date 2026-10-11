@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The hound chained at the landing of Nulthey, Eidgar's long-chained adversary, which breaks loose at Aldarlok and dies with him."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 There are two chained beasts in the telling of [[lore-aldarlok|Aldarlok]], and a newcomer who has heard only of the Winter-Wolf has heard half of it. [[lore-vetrulfr|Vetrúlfr]] is the one [[lore-eidgardty|Eidgar]] paid his hand to bind, and the one that takes [[lore-odvardty|Ódvar]]. The other is **Dulmvargr**, the grave-hound—_dulm-_, a grave, and _-vargr_, an outlaw, a wolf in the law's eye—and it is the one that takes Eidgar himself.

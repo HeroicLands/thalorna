@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 Free and of no kin, sheltered by a household without being of its blood, in the Vrystwald Tribes.

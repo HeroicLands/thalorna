@@ -4,7 +4,7 @@ name: {full: Numerology, aliases: []}
 type: lore
 subType: arcana
 description: "Which numbers the Tānvüri hold lucky and unlucky—eight, nine, five, three and one against four and six—and how they shape dates, buildings, seals and filings."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A Tānvüri builder asked to add a fourth step to a temple stair adds a fifth instead, and the client pays gladly for the extra step. Numbers in the [[affiliation-tanvurempr|Empire of Tānvür]] are classifications like everything else: each one belongs to a domain of the sorted order, and using a number brings what it touches under that domain's influence. Families choose wedding days by them, architects count stairs and pillars by them, and generals have delayed an advance to march on a better date.

@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "Ódvar’s raven of memory, read both as a literal messenger and as a teaching figure."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Memory goes out every day and comes home every night, and what it brings back is what you meant to forget: so an acolyte at [[place-odholm|Ódholm]] reads **Munvin**, the raven of memory in the [[affiliation-odvar|Faith of Ódvar]], once newly ordained. Munvin flies beside [[lore-hugvin|Hugvin]], the raven of thought, across the world each day to bring knowledge and news back to [[lore-odvardty|Ódvar]], and the raven feather is the faith's sign for the pair.

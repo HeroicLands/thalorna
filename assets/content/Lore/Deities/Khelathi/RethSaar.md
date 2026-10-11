@@ -4,7 +4,7 @@ name: {full: Reth'Sa'âr, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-rethsaar|Faith of Reth'Sa'âr]]{float=top-left size=medium}

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of death and prophecy, seated somewhere in the Yánda Maláika—sought by shamans who need an answer nothing else will give, and not always found."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

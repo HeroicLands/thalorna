@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Cast out by their own kin and claimed by none, in the Vrystwald Tribes."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 Cast out by their own kin and claimed by none, in the Vrystwald Tribes.

@@ -4,7 +4,7 @@ name: {full: Wethûr, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-wethur|Faith of Wethûr]]{float=top-left size=medium}

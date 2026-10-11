@@ -4,7 +4,7 @@ name: {full: Infernal Realms, aliases: []}
 type: lore
 subType: cosmology
 description: "The Infernal Realms of Tānvür's faith—the places where the Great Sorting was left unfinished, the demons and Demon Lords who dwell there, and the empire's defense against them."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 A Tānthëi lecturer warns her first-year students off the word "hell" before she teaches them anything else about the dark. The **Infernal Realms** of the [[affiliation-tanvurempr|Empire of Tānvür]]'s faith are no place of punishment, no kingdom of evil and no domain of a fallen god. They are the places where the Great Sorting was left unfinished: where the Hürnlëi, the Unclassified, was never fully processed, or where the classification has begun to come apart. The celestial cosmology calls the realm the [[affiliation-yokveng|Yokveng]], and its inhabitants the Yökvëng, the demons.

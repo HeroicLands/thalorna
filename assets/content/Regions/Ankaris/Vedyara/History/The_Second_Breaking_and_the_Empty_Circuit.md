@@ -6,6 +6,7 @@ subType: history
 description: "About 440 AF a raid out of the river country took a great lineage's wells and Gomārga's king Vishānapāla did not ride to them; the great lineages walked their herds off the circuit, and for a century, to about 540, the moving court arrived at wells with nobody at them."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~440

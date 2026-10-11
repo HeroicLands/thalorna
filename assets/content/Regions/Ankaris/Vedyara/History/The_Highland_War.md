@@ -6,6 +6,7 @@ subType: history
 description: "About 415 AF the mountain kingdom of Dhaunapur marched on Suvarnagiri with Dhanurkoti graduates in its companies; the academies recalled them, and those who came home rode with Bharyastān's horse to stop the host at the gorge-mouth of Sharamukha. It was the last serious threat to either janapada, and the origin of the Festival of the Returning."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~415

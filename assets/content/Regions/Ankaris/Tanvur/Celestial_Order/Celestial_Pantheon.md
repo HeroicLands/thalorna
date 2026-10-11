@@ -4,7 +4,7 @@ name: {full: Celestial Pantheon, aliases: []}
 type: lore
 subType: theology
 description: "The great powers of Tānvür's Celestial Order—Tānlüng the First Classifier, the Jade Sovereign who runs heaven's administration, and the Ministers of Storms and of the Moon."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 The gods of the [[affiliation-tanvurempr|Empire of Tānvür]] keep office hours. The great powers of the Celestial Pantheon are the senior staff of the celestial bureaucracy: beings of immense power who hold posts in the cosmic classification and whose authority comes from the office, not from any divinity of their own. The Tānvüri approach them by petition, by transaction and by following the correct procedure, and an Aurèldían priest would hardly recognize what they do as worship.

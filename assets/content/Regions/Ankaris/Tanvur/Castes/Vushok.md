@@ -4,7 +4,7 @@ name: {full: Vüshōk, aliases: []}
 type: lore
 subType: law
 description: "The third caste of Tānvür—the warrior nobility who command the empire's armies and hold its districts under the Warlords, bound by the Vüs Hōk Lüt and answerable for its breach with their lives."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 The Vüshōk are the warrior nobility of [[affiliation-tanvurempr|Tānvür]], the third of the eight castes, and the hands through which the provinces are held. A Warlord (_Vüszhük_) is [[lore-zheklung|Zhëklüng]], of the Dragon's blood; the commandant who leads his field army, the officer who holds a district's revenue, courts and corvée, and the swordmaster who drills his household are Vüshōk, serving under him. The caste alone may raise and command armed force, and its members are bound by a code of honor whose breach is answered with exile or a state-ordered death.

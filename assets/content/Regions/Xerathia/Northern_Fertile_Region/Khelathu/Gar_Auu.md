@@ -6,6 +6,7 @@ subType: law
 description: "The plural of Gar-Aû—the line of divine sovereigns of Aû'Khelâthu taken together, and the temple king-list that reckons them from the Qet Telgu to Meqes XVI."
 tags: [draft]
 data:
+  culture: khelathiclt
   packFolder: regkhlaw
   events:
     - id: fall

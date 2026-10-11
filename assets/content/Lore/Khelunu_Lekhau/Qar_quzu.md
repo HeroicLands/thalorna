@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The truth that judges, and one of the two that frame the other six."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 Of the eight domains, **Qar'quzu** is the one the others stand on. It is the truth that judges: what [[lore-qearetdty|Qe'âret]] imposed on the primordial darkness before creation, and the condition under which anything at all can continue to exist. It holds law, judgment, binding, wards, oaths and the weighing of the heart.
