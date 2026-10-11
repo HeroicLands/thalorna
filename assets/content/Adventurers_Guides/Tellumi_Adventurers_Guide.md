@@ -129,6 +129,7 @@ Campaigns start well from the record. Pārván wants an envoy to carry an offer 
 - [[place-swoasisbelt|Tellumel]] for the belt and its cities
 - [[affiliation-tribestrzd|The Tribes of Ātárzád]] for the conquerors and their own account
 - [[lore-zargandfall|The Fall of Zargandûr]] for the morning the war-house died
+- [[lore-turemrecital|The Recitation of the Breaking]], [[lore-comingdown|The Coming Down]] and [[lore-velkunsong|The Song of the Lost Town]] for the Tellumi in their own tellings
 - [[lore-khzrnclndr|The Tellumi Calendar]] for the twelve months and the closing festival
 - [[place-gurdi|Gurdi]] and the [[place-grazruins|ruins and labyrinths of the Grazian Mountains]] for the road the old houses claim
 - [[affiliation-ahurdaen|Āhúrdáén]] and [[affiliation-zurathra|Zúráthrä]] for the faith at the water

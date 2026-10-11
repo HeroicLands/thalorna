@@ -148,6 +148,7 @@ Campaigns start well from the price of things. A caravan-master dies on the marc
 - [[lore-swdsclndr|The Sowides Reckoning]] and the histories of [[lore-frstorqwnq|the first union]], [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] and [[lore-thrdorqwnq|the third union]]
 - [[lore-basinbldrs|The Basin Builders]], [[lore-towercities|the Tower Cities]] and [[lore-bloodfield|Blood-fields]] for the ruins and the blood lands
 - [[doc-tellumiadvguide|The Tellumi Adventurer's Guide]] for the cities at the foot of the mountains
+- [[lore-roadnights|The Nights of the Road]], [[lore-wemaqcalling|The Calling at Wemaq]] and [[lore-waterunder|The Buried Water]] for the road and the steppe in their own tellings
 - [[skill-sowideslng|Sowides]] and the [[doc-khazrynlex|Khazryn Lexicon]] for the tongue and its words
 
 ## Glossary

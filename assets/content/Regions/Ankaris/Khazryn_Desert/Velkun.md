@@ -35,3 +35,4 @@ The revived house of Vahúrdash holds its title by acclamation, and the exiled h
 - [[place-vahurdash|Vahúrdash]]—the settlement reclaimed among the ruins
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the council of the seven houses
 - [[being-gntcmlsp|Giant Camel Spider]]—the hunter in the cellars
+- [[lore-velkunsong|The Song of the Lost Town]]—the cloth-tellers' epic of how the city was lost

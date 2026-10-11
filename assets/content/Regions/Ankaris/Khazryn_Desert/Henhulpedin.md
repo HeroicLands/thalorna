@@ -54,3 +54,4 @@ Under the filled trench lie the war-house's weapons, its horse-furniture and the
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the people whose dead it holds
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the tribes who took the city
 - [[place-swoasisbelt|Tellumel]]—the belt it lies in
+- [[lore-turemrecital|The Recitation of the Breaking]]—the names the Tellumi recite instead of reading them here

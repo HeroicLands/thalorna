@@ -75,6 +75,9 @@ Nothing is owed to a tribe that is not your own, to a stranger without a sponsor
 - [[affiliation-sahritrb|Sahri]] and [[affiliation-rwlstrb|Ruweles]]—the bands that keep hidden water in the deep desert
 - [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]—the best-known orqwenoq
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the twelve gods, as the steppe lays them over its older cults
+- [[lore-wemaqcalling|The Calling at Wemaq]]—the names of a killed tribe, held and not said at the water
+- [[lore-waterunder|The Buried Water]]—the Sahri star-song of the lake under the sand
+- [[lore-roadnights|The Nights of the Road]]—the tales a caravan-master tells on the crossing
 
 ## Glossary {#glossary}
 

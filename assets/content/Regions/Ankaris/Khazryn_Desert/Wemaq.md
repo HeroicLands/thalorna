@@ -54,3 +54,4 @@ The gear of the dead is in the grass: saddle-trees gone grey, iron fittings in t
 - [[lore-ownedoasis|The Owned Oasis]]—the custom that does not apply here
 - [[place-hskrrgn|Hosikor]]—the sand country it lies in
 - [[lore-celestialroad|The Celestial Road]]—the road it lies beside
+- [[lore-wemaqcalling|The Calling at Wemaq]]—the names of the dead, as the tribe that holds them speaks them

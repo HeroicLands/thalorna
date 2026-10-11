@@ -149,6 +149,10 @@ Above all of it he owes the record. A Tellumi who lets a genealogy lapse, or let
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the conquerors, and the other half of the quarrel
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the twelve, as the Tellumi Mōbads systematized them
 - [[affiliation-zurathra|Faith of Zúráthrä]]—the Mother of the Oasis, and the shrine at every spring
+- [[lore-turemrecital|The Recitation of the Breaking]]—the case as it is recited at every festival and princely funeral
+- [[lore-comingdown|The Coming Down]]—the foundation legend, and the roll of the seven peaks
+- [[lore-velkunsong|The Song of the Lost Town]]—the cloth-tellers' epic of old Vahúrdash
+- [[lore-roadnights|The Nights of the Road]]—a caravan-master's tales of the crossing to Tānvür
 
 ## Glossary {#glossary}
 

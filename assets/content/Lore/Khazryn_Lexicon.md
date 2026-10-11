@@ -161,6 +161,9 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `pedin`  | field                       |
 | `harmin` | waste, desert               |
 | `sirvel` | cursed, forbidden           |
+| `pirsel` | painted cloth               |
+| `lavun`  | telling, performance        |
+| `semhal` | recitation                  |
 
 ### Sowides
 
@@ -272,6 +275,8 @@ A word no table lists is still good in its tongue if it is a listed stem through
 | `kòjid`  | cursed, forbidden                  |
 | `kèdoq`  | blood-ground, a blood-field        |
 | `wèsuk`  | cursed ground, a thin blood-field  |
+| `oqwed`  | calling, the naming of the dead    |
+| `kweyos` | song                               |
 
 ### Ātárzādi
 
@@ -377,66 +382,101 @@ A word no table lists is still good in its tongue if it is a listed stem through
 
 Worked names and words, each built from the stems above.
 
-| Word        | Tongue     | Gloss                                                         | Derivation                  |
-| ----------- | ---------- | ------------------------------------------------------------- | --------------------------- |
-| Tellumi     | `tellumi`  | the people of the high springs                                | `te` + `lu` + `-mi`         |
-| Tellumel    | `tellumi`  | the land of the Tellumi                                       | `te` + `lu` + `-mi` + `-el` |
-| Tennelimar  | `tellumi`  | high-water town                                               | `te` + `nelim` + `-ar`      |
-| Talbemun    | `tellumi`  | the house of the tower                                        | `talbem` + `-un`            |
-| Turem       | `tellumi`  | the Breaking: the Ātárzád conquest, as the Tellumi call it    | `turem`                     |
-| Velkun      | `tellumi`  | the lost one: the ruin of old Vahúrdash                       | `velkun`                    |
-| Vurinul     | `tellumi`  | a man's name: holy                                            | `vurin` + `-ul`             |
-| Lisene      | `tellumi`  | a woman's name: moon                                          | `lisen` + `-e`              |
-| Sowides     | `sowides`  | the riders, the steppe peoples' name for themselves           | `sowid` + `-es`             |
-| Orqwenoq    | `sowides`  | the union an orqwen forces over tribes                        | `orqwen` + `-oq`            |
-| Kweduhes    | `sowides`  | the horse people                                              | `kwedu` + `-es`             |
-| Kweduruweq  | `sowides`  | horse of the wind                                             | `kwedu` + `ruweq`           |
-| Jedoroqid   | `sowides`  | road camp, a caravan halt                                     | `jedor` + `roqid`           |
-| Dikraqor    | `sowides`  | the stone range                                               | `dikraq` + `-or`            |
-| Jadekud     | `sowides`  | a raider                                                      | `jadek` + `-ud`             |
-| Wogeltolis  | `sowides`  | a man's name: wolf-spear                                      | `wogel` + `tolis`           |
-| Tijòdye     | `sowides`  | a woman's name: star                                          | `tijòd` + `-ye`             |
-| Qūrbelūkhem | `atarzadi` | the council of the well                                       | `qūrbel` + `lūkhem`         |
-| Zhōqarōd    | `atarzadi` | a tribe: the sons of war                                      | `zhōqar` + `-ōd`            |
-| Hōmzelūn    | `atarzadi` | the whole people                                              | `hōmzel` + `-ūn`            |
-| Shēkhulēz   | `atarzadi` | the place of the flame                                        | `shēkhul` + `-ēz`           |
-| Zhōqarekh   | `atarzadi` | a warrior                                                     | `zhōqar` + `-ekh`           |
-| Gherōsōr    | `atarzadi` | a man's name: horse                                           | `gherōs` + `-ōr`            |
-| Yūremāt     | `atarzadi` | a woman's name: song                                          | `yūrem` + `-āt`             |
-| Gurdi       | `tellumi`  | the pass: the passages in the Grazian north face              | `gurdi`                     |
-| Tōqēl       | `atarzadi` | to keep: Keeper of the Unconsuming Flame                      | `tōqēl`                     |
-| Dūkhen      | `atarzadi` | judge: the leader acclaimed in a crisis                       | `dūkhen`                    |
-| Rēzhul      | `atarzadi` | prince of a tribe: a tribe's hereditary chieftain             | `rēzhul`                    |
-| Ruweles     | `sowides`  | the water people: the hidden-water bands of the Central Sands | `ruwel` + `-es`             |
-| Gwatekor    | `sowides`  | the forest range: the northern taiga                          | `gwatek` + `-or`            |
-| Welqator    | `sowides`  | the grass range: the Western Margin                           | `welqat` + `-or`            |
-| Hosikor     | `sowides`  | the sand range: the Central Sands                             | `hosik` + `-or`             |
-| Idwakor     | `sowides`  | the east range: the Eastern Stone Desert                      | `idwak` + `-or`             |
-| Bolid       | `sowides`  | tower: the buried tower city of the western margin            | `bolid`                     |
-| Jilaq       | `sowides`  | lantern: the tower league's chief city                        | `jilaq`                     |
-| Wilud       | `sowides`  | wonder: the half-buried tower city                            | `wilud`                     |
-| Ewod        | `sowides`  | lake: the dry salt lake                                       | `ewod`                      |
-| Qelod       | `sowides`  | well: the stepped well                                        | `qelod`                     |
-| Wemaq       | `sowides`  | the dead: the oasis nobody uses                               | `wemaq`                     |
-| Qìmod       | `sowides`  | silent: the sacked caravan town on the spur                   | `qìmod`                     |
-| Osikor      | `sowides`  | the bone range: the rock-cut tombs of the uplands             | `osik` + `-or`              |
-| Ruweq       | `sowides`  | wind: the hollow hills                                        | `ruweq`                     |
-| Roqid       | `sowides`  | camp: the Vylarian fort                                       | `roqid`                     |
-| Qìso        | `sowides`  | price: the Central Road's seasonal market-camp                | `qìso`                      |
-| Yemok       | `sowides`  | oath: the hand-off well at the west of the Central Sands      | `yemok`                     |
-| Sowid       | `sowides`  | rider: the hand-off well at the east of the Central Sands     | `sowid`                     |
-| Qelodud     | `sowides`  | well-doer: the well-lurker                                    | `qelod` + `-ud`             |
-| Orkesud     | `sowides`  | heat-doer: the mirage-stalker                                 | `orkes` + `-ud`             |
-| Hosikud     | `sowides`  | sand-doer: the pit-maker                                      | `hosik` + `-ud`             |
-| Budeq       | `sowides`  | vulture: the road-vulture                                     | `budeq`                     |
-| Gwirador    | `sowides`  | camel of the range: the wild bull camel                       | `gwirad` + `-or`            |
-| Yolequd     | `sowides`  | salt-doer: the salt-dust spirit                               | `yoleq` + `-ud`             |
-| Numek       | `sowides`  | night: the tower-roost colony                                 | `numek`                     |
-| Yiqnotud    | `sowides`  | the hunter: the steppe hunter                                 | `yiqnot` + `-ud`            |
-| Henhulpedin | `tellumi`  | blood-field: the field of the Breaking outside Zargandûr      | `henhul` + `pedin`          |
-| Sirvelpedin | `tellumi`  | cursed field: a thin blood-field                              | `sirvel` + `pedin`          |
-| Kèdoq       | `sowides`  | blood-ground: a blood-field                                   | `kèdoq`                     |
-| Wèsuk       | `sowides`  | cursed ground: a thin blood-field                             | `wèsuk`                     |
+| Word         | Tongue     | Gloss                                                            | Derivation                  |
+| ------------ | ---------- | ---------------------------------------------------------------- | --------------------------- |
+| Tellumi      | `tellumi`  | the people of the high springs                                   | `te` + `lu` + `-mi`         |
+| Tellumel     | `tellumi`  | the land of the Tellumi                                          | `te` + `lu` + `-mi` + `-el` |
+| Tennelimar   | `tellumi`  | high-water town                                                  | `te` + `nelim` + `-ar`      |
+| Talbemun     | `tellumi`  | the house of the tower                                           | `talbem` + `-un`            |
+| Turem        | `tellumi`  | the Breaking: the Ātárzád conquest, as the Tellumi call it       | `turem`                     |
+| Velkun       | `tellumi`  | the lost one: the ruin of old Vahúrdash                          | `velkun`                    |
+| Vurinul      | `tellumi`  | a man's name: holy                                               | `vurin` + `-ul`             |
+| Lisene       | `tellumi`  | a woman's name: moon                                             | `lisen` + `-e`              |
+| Sowides      | `sowides`  | the riders, the steppe peoples' name for themselves              | `sowid` + `-es`             |
+| Orqwenoq     | `sowides`  | the union an orqwen forces over tribes                           | `orqwen` + `-oq`            |
+| Kweduhes     | `sowides`  | the horse people                                                 | `kwedu` + `-es`             |
+| Kweduruweq   | `sowides`  | horse of the wind                                                | `kwedu` + `ruweq`           |
+| Jedoroqid    | `sowides`  | road camp, a caravan halt                                        | `jedor` + `roqid`           |
+| Dikraqor     | `sowides`  | the stone range                                                  | `dikraq` + `-or`            |
+| Jadekud      | `sowides`  | a raider                                                         | `jadek` + `-ud`             |
+| Wogeltolis   | `sowides`  | a man's name: wolf-spear                                         | `wogel` + `tolis`           |
+| Tijòdye      | `sowides`  | a woman's name: star                                             | `tijòd` + `-ye`             |
+| Qūrbelūkhem  | `atarzadi` | the council of the well                                          | `qūrbel` + `lūkhem`         |
+| Zhōqarōd     | `atarzadi` | a tribe: the sons of war                                         | `zhōqar` + `-ōd`            |
+| Hōmzelūn     | `atarzadi` | the whole people                                                 | `hōmzel` + `-ūn`            |
+| Shēkhulēz    | `atarzadi` | the place of the flame                                           | `shēkhul` + `-ēz`           |
+| Zhōqarekh    | `atarzadi` | a warrior                                                        | `zhōqar` + `-ekh`           |
+| Gherōsōr     | `atarzadi` | a man's name: horse                                              | `gherōs` + `-ōr`            |
+| Yūremāt      | `atarzadi` | a woman's name: song                                             | `yūrem` + `-āt`             |
+| Gurdi        | `tellumi`  | the pass: the passages in the Grazian north face                 | `gurdi`                     |
+| Tōqēl        | `atarzadi` | to keep: Keeper of the Unconsuming Flame                         | `tōqēl`                     |
+| Dūkhen       | `atarzadi` | judge: the leader acclaimed in a crisis                          | `dūkhen`                    |
+| Rēzhul       | `atarzadi` | prince of a tribe: a tribe's hereditary chieftain                | `rēzhul`                    |
+| Ruweles      | `sowides`  | the water people: the hidden-water bands of the Central Sands    | `ruwel` + `-es`             |
+| Gwatekor     | `sowides`  | the forest range: the northern taiga                             | `gwatek` + `-or`            |
+| Welqator     | `sowides`  | the grass range: the Western Margin                              | `welqat` + `-or`            |
+| Hosikor      | `sowides`  | the sand range: the Central Sands                                | `hosik` + `-or`             |
+| Idwakor      | `sowides`  | the east range: the Eastern Stone Desert                         | `idwak` + `-or`             |
+| Bolid        | `sowides`  | tower: the buried tower city of the western margin               | `bolid`                     |
+| Jilaq        | `sowides`  | lantern: the tower league's chief city                           | `jilaq`                     |
+| Wilud        | `sowides`  | wonder: the half-buried tower city                               | `wilud`                     |
+| Ewod         | `sowides`  | lake: the dry salt lake                                          | `ewod`                      |
+| Qelod        | `sowides`  | well: the stepped well                                           | `qelod`                     |
+| Wemaq        | `sowides`  | the dead: the oasis nobody uses                                  | `wemaq`                     |
+| Qìmod        | `sowides`  | silent: the sacked caravan town on the spur                      | `qìmod`                     |
+| Osikor       | `sowides`  | the bone range: the rock-cut tombs of the uplands                | `osik` + `-or`              |
+| Ruweq        | `sowides`  | wind: the hollow hills                                           | `ruweq`                     |
+| Roqid        | `sowides`  | camp: the Vylarian fort                                          | `roqid`                     |
+| Qìso         | `sowides`  | price: the Central Road's seasonal market-camp                   | `qìso`                      |
+| Yemok        | `sowides`  | oath: the hand-off well at the west of the Central Sands         | `yemok`                     |
+| Sowid        | `sowides`  | rider: the hand-off well at the east of the Central Sands        | `sowid`                     |
+| Qelodud      | `sowides`  | well-doer: the well-lurker                                       | `qelod` + `-ud`             |
+| Orkesud      | `sowides`  | heat-doer: the mirage-stalker                                    | `orkes` + `-ud`             |
+| Hosikud      | `sowides`  | sand-doer: the pit-maker                                         | `hosik` + `-ud`             |
+| Budeq        | `sowides`  | vulture: the road-vulture                                        | `budeq`                     |
+| Gwirador     | `sowides`  | camel of the range: the wild bull camel                          | `gwirad` + `-or`            |
+| Yolequd      | `sowides`  | salt-doer: the salt-dust spirit                                  | `yoleq` + `-ud`             |
+| Numek        | `sowides`  | night: the tower-roost colony                                    | `numek`                     |
+| Yiqnotud     | `sowides`  | the hunter: the steppe hunter                                    | `yiqnot` + `-ud`            |
+| Henhulpedin  | `tellumi`  | blood-field: the field of the Breaking outside Zargandûr         | `henhul` + `pedin`          |
+| Sirvelpedin  | `tellumi`  | cursed field: a thin blood-field                                 | `sirvel` + `pedin`          |
+| Kèdoq        | `sowides`  | blood-ground: a blood-field                                      | `kèdoq`                     |
+| Wèsuk        | `sowides`  | cursed ground: a thin blood-field                                | `wèsuk`                     |
+| Velkunrelum  | `tellumi`  | the song of the lost town: the Tellumi epic of old Vahúrdash     | `velkun` + `relum`          |
+| Genbunsemhal | `tellumi`  | the recitation of the descent: the roll of the seven peaks       | `genbun` + `semhal`         |
+| Turemsemhal  | `tellumi`  | the recitation of the Breaking                                   | `turem` + `semhal`          |
+| Tarlimnurmel | `tellumi`  | road-nights: a caravan-master's tales told stage by stage        | `tarlim` + `nurmel`         |
+| Bernirul     | `tellumi`  | a man's name: oath; the champion of the song of the lost town    | `bernir` + `-ul`            |
+| Revunul      | `tellumi`  | a man's name: return; Bernirul's son                             | `revun` + `-ul`             |
+| Sunhemul     | `tellumi`  | a man's name: gold; the last prince of old Vahúrdash             | `sunhem` + `-ul`            |
+| Minele       | `tellumi`  | a woman's name: star; Bernirul's wife                            | `minel` + `-e`              |
+| Tarlimul     | `tellumi`  | a man's name: road; a caravan-master of Kethramír                | `tarlim` + `-ul`            |
+| Kirelul      | `tellumi`  | a man's name: spear; a rider of the war-house                    | `kirel` + `-ul`             |
+| Budilul      | `tellumi`  | a man's name: shield; a rider of the war-house                   | `budil` + `-ul`             |
+| Pedunul      | `tellumi`  | a man's name: sword; a rider of the war-house                    | `pedun` + `-ul`             |
+| Garvanul     | `tellumi`  | a man's name: horse; a rider of the war-house                    | `garvan` + `-ul`            |
+| Perimul      | `tellumi`  | a man's name: hearth; a rider of the war-house                   | `perim` + `-ul`             |
+| Hagelul      | `tellumi`  | a man's name: kept; a rider of the war-house                     | `hagel` + `-ul`             |
+| Lirunul      | `tellumi`  | a man's name: free; a rider of the war-house                     | `lirun` + `-ul`             |
+| Gilsumtenhur | `tellumi`  | snow peak: the peak of the House of Shirvan                      | `gilsum` + `tenhur`         |
+| Viluntenhur  | `tellumi`  | white peak: the peak of the House of Ashkarad                    | `vilun` + `tenhur`          |
+| Kulsamtenhur | `tellumi`  | black peak: the peak of the House of Zargandûr                   | `kulsam` + `tenhur`         |
+| Talhiltenhur | `tellumi`  | sun peak: the peak of the House of Kethramír                     | `talhil` + `tenhur`         |
+| Darhertenhur | `tellumi`  | red peak: the peak of the House of Vahúrdash                     | `darher` + `tenhur`         |
+| Vursetenhur  | `tellumi`  | wind peak: the peak of the House of Mehrnāgord                   | `vurse` + `tenhur`          |
+| Yermimtenhur | `tellumi`  | green peak: the peak of the House of Ushtra-bēr                  | `yermim` + `tenhur`         |
+| Wemaqoqwed   | `sowides`  | the calling at Wemaq: the names held for the dead of the oasis   | `wemaq` + `oqwed`           |
+| Ruwelquyed   | `sowides`  | the buried water: the Sahri star-song of the lake under the sand | `ruwel` + `quyed`           |
+| Gwerantolis  | `sowides`  | a man's name: storm-spear; the dowek made to watch at Wemaq      | `gweran` + `tolis`          |
+| Huwenes      | `sowides`  | the deer people: the tribe killed at Wemaq                       | `huwen` + `-es`             |
+| Kesuqes      | `sowides`  | the eagle people: the tribe that took in the survivors of Wemaq  | `kesuq` + `-es`             |
+| Sawegye      | `sowides`  | a woman's name: moon                                             | `saweg` + `-ye`             |
+| Bowiye       | `sowides`  | a woman's name: snow                                             | `bowi` + `-ye`              |
+| Wèyarye      | `sowides`  | a woman's name: milk                                             | `wèyar` + `-ye`             |
+| Ruwelye      | `sowides`  | a woman's name: water; a guide of the hidden-water bands         | `ruwel` + `-ye`             |
+| Hilodtolis   | `sowides`  | a man's name: sun-spear; a rider of the Shirzâri                 | `hilod` + `tolis`           |
+| Qelodeqwàn   | `sowides`  | the well-mother: the keeper at the bottom of the stepped well    | `qelod` + `eqwàn`           |
+| Hamekjiwok   | `sowides`  | the skull-pole: a star the Sahri steer by                        | `hamek` + `jiwok`           |
 
 ## Names older than the rules
 
@@ -582,6 +622,18 @@ Every name of every note in the region stands here with the note it names and it
 | Zarnûsh                                       | [[affiliation-zrnshtrb\|Zarnûsh]]                                  | `older`   | a name older than the rules                               |
 | Ruweles                                       | [[affiliation-rwlstrb\|Ruweles]]                                   | `sowides` | `ruwel` + `-es`                                           |
 | Hidden-Water Bands                            | [[affiliation-rwlstrb\|Ruweles]]                                   | `gloss`   | —                                                         |
+| The Song of the Lost Town                     | [[lore-velkunsong\|The Song of the Lost Town]]                     | `gloss`   | a glossed name on `Velkunrelum`                           |
+| Velkunrelum                                   | [[lore-velkunsong\|The Song of the Lost Town]]                     | `tellumi` | `velkun` + `relum`                                        |
+| The Coming Down                               | [[lore-comingdown\|The Coming Down]]                               | `gloss`   | a glossed name on `Genbunsemhal`                          |
+| Genbunsemhal                                  | [[lore-comingdown\|The Coming Down]]                               | `tellumi` | `genbun` + `semhal`                                       |
+| The Recitation of the Breaking                | [[lore-turemrecital\|The Recitation of the Breaking]]              | `gloss`   | a glossed name on `Turemsemhal`                           |
+| Turemsemhal                                   | [[lore-turemrecital\|The Recitation of the Breaking]]              | `tellumi` | `turem` + `semhal`                                        |
+| The Nights of the Road                        | [[lore-roadnights\|The Nights of the Road]]                        | `gloss`   | a glossed name on `Tarlimnurmel`                          |
+| Tarlimnurmel                                  | [[lore-roadnights\|The Nights of the Road]]                        | `tellumi` | `tarlim` + `nurmel`                                       |
+| The Calling at Wemaq                          | [[lore-wemaqcalling\|The Calling at Wemaq]]                        | `gloss`   | a glossed name on `Wemaqoqwed`                            |
+| Wemaqoqwed                                    | [[lore-wemaqcalling\|The Calling at Wemaq]]                        | `sowides` | `wemaq` + `oqwed`                                         |
+| The Buried Water                              | [[lore-waterunder\|The Buried Water]]                              | `gloss`   | a glossed name on `Ruwelquyed`                            |
+| Ruwelquyed                                    | [[lore-waterunder\|The Buried Water]]                              | `sowides` | `ruwel` + `quyed`                                         |
 
 ### Language tags
 

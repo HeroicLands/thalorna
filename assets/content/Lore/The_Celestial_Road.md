@@ -129,3 +129,4 @@ The sea passage costs as many months as the camels and loses a larger share of w
 - [[place-eastrnmrch|The Eastern March]]—the League's frontier at the road's western end
 - [[place-tanvuregin|Tānvür Region]]—the road's eastern terminus
 - [[lore-kinhalcrdt|Kin and Hall Credit]]—how a master pays on his house's name
+- [[lore-roadnights|The Nights of the Road]]—the tales a master tells a factor, halt by halt

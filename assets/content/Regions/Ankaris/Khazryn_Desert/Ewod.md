@@ -36,3 +36,4 @@ A salt-cutter's son, working a canal bank a half day from the nearest cutting, p
 - [[place-qelod|Qelod]]—the greatest of the stair-wells they cut
 - [[place-osikor|Osikor]]—the tombs of their rulers in the stone uplands
 - [[being-duneclaw|Duneclaw]]—the shore-dune hunter
+- [[lore-waterunder|The Buried Water]]—the Sahri star-song of the lake that went down
