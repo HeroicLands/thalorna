@@ -201,7 +201,7 @@ A man's name closes on a consonant, as the masculine does, and needs no ending; 
 
 ### Name elements
 
-The names are older than most of the words. A name element is the stem of a word, often a word the tongue has since lost or let shrink to the name alone, and a Keeper can say what each one means. The table gives each with its sense, and with the word it is the stem of where the lexicon has that word.
+The names are older than most of the words. A name element is the stem of a word, often a word the tongue has since lost or let shrink to the name alone, and the Tradition Keepers hold the meaning of each. The table gives each with its sense, and with the word it is the stem of where the lexicon has that word.
 
 | Element | Sense            | Word        |
 | ------- | ---------------- | ----------- |

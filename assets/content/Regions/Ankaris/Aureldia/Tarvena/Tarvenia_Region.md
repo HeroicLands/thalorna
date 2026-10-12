@@ -61,7 +61,7 @@ Tarvénan sailors and mercenaries are found across the [[place-vylarianse|Vylari
 
 ## See Also
 
-- [[place-provenzrgn|Provènzia Region]]—Eastern neighbor and rival
+- [[place-provenzrgn|Provènzia Region]]—Western neighbor and rival
 - [[place-elavendre|Élavendre]]—Northern neighbor
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial power
 - [[affiliation-kingdmtrvn|Kingdom of Tarvénia]]—Polity details

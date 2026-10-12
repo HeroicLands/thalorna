@@ -185,7 +185,7 @@ Obligations owed _to_ the dead are simply assets. A debtor is not released by hi
 
 ## House, Club, Temple
 
-One ladder answers nearly every question about who provides. _The house first. The burial club when the house fails. The temple when both do._ A Khelâthi can recite it, and knowing exactly which rung he stands on is most of what the valley gives him in place of hope.
+One ladder answers nearly every question about who provides. _The house first. The burial club when the house fails. The temple when both do._ Knowing exactly which rung he stands on is most of what the valley gives a Khelâthi in place of hope.
 
 Somewhere to sleep. The house, which is a place as much as an account, and which holds cousins, bondsmen, apprentices and fostered children under one roof without anyone thinking it remarkable. Failing that, the club hall, which exists for funerals and is used for the living between them. Failing that, the temple precinct, where dependents live in quarters as the temple's own household. And at the bottom, oddly, the necropolis: endowed tombs keep watch-priests, watch-priests have families, and a destitute man with a connection may end his life sleeping above somebody else's.
 

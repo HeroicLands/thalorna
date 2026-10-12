@@ -100,7 +100,7 @@ Relations with [[place-tarvenirgn|Tarvénia Region]] are the opposite in every r
 ## See Also
 
 - [[place-elavendre|Élavendre]]—Northwestern neighbor and cultural cousin
-- [[place-tarvenirgn|Tarvénia Region]]—Western neighbor and rival
+- [[place-tarvenirgn|Tarvénia Region]]—Eastern neighbor and rival
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Former imperial overlord
 - [[place-helionis|Heliónis]]—Intellectual counterpart across the sea
 - [[skill-provnzlng|Provenzal]]—Naming conventions
