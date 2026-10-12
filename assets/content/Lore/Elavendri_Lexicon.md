@@ -778,6 +778,7 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Serjeant**                     | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                    | `translation`   | —          |
 | **Manorial Officer**             | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                    | `translation`   | —          |
 | **The Seven Towers**             | [[lore-seventowers\|The Seven Towers]]                                                                              | `translation`   | —          |
+| **The Asking**                   | [[lore-theasking\|The Asking]]                                                                                      | `translation`   | —          |
 | **Béravel**                      | [[place-beravel\|Béravel]]                                                                                          | `elavendri`     | —          |
 | **The Bérav**                    | [[place-beravriver\|The Bérav]]                                                                                     | `translation`   | —          |
 | **Tirwen**                       | [[place-tirwen\|Tirwen]]                                                                                            | `elavendri`     | —          |

@@ -75,3 +75,4 @@ records of the northern interior are notably thin on what became of several of t
 - [[lore-pelwarpepl|Pelwar People]]—The ancestral people from whom the Áelendan descend
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects sacred sites
 - [[lore-flksinale|Sinalë]]—The elder race with whom the Áelendan maintain neighborly relations
+- [[lore-theasking|The Asking]]—The Sinalëan lay of the Pelwar band, held by the Tradition Keepers

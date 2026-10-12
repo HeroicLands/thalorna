@@ -51,4 +51,4 @@ matter on which the Sinalë have never been asked and the Áelendan decline to s
 
 ## See Also
 
-- [[lore-flksinale|Sinalë]] · [[place-silvrfrsts|The Silver Forests]] · [[place-ethalosse|Ethalossë]]
+- [[lore-flksinale|Sinalë]] · [[place-silvrfrsts|The Silver Forests]] · [[place-ethalosse|Ethalossë]] · [[lore-theasking|The Asking]]

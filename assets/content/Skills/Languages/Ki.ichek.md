@@ -496,7 +496,7 @@ Numbers are expressed hierarchically, starting from the highest value and descen
 - Tz’ixe Tz’ob = 6 × 20 (six Tz’obs)
 - P’o = 5 Full Expression: _Lixe Pel’ux Tz’ixe Tz’ob P’o_
 
-2. Example: 57,864 57,864 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
+2. Example: 57,724 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
 
 - Nuq’el Q’umpel = 7 × 8,000 (seven Q’umpels)
 - Muxe Pel’ux = 4 × 400 (four Pel’uxes)

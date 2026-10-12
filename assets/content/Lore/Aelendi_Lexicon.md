@@ -732,6 +732,16 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Áelendi**                                | [[skill-aelendlng\|Áelendi Language]]                       | `aelendi`     | —          |
 | **Thúravardh Script**                      | [[skill-thrvrdhscrpt\|Thúravardh Script]]                   | `translation` | —          |
 | **Thúravardh**                             | [[skill-thrvrdhscrpt\|Thúravardh Script]]                   | `aelendi`     | —          |
+| **Dhárgan**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Néla**                                   | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Sîlor**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Ánsel**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Dránketh**                               | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Tála**                                   | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Ghálmir**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Môgha**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Dûlthân**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Nélgan**                                 | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
 
 ### Retired names
 
