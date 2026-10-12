@@ -43,12 +43,503 @@ publish:
 
 pdf:
     books:
-        - id: core
+        - id: aelwyth
+          title: Aelwyth
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-aelwythanclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-aelwythanclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-aelwythanclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-aelwythanclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-aelwythanclt'
+        - id: aukhelathu
+          title: Aû'Khelathu
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-khelathiclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-khelathiclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-khelathiclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-khelathiclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khelathiclt'
+        - id: bethua
+          title: Bethua
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-bethuanclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-bethuanclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-bethuanclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-bethuanclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-bethuanclt'
+        - id: byzaria
+          title: Byzaria
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-byzarianclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-byzarianclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-byzarianclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-byzarianclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-byzarianclt'
+        - id: dunhara
+          title: Dunhara
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-dunhariclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-dunhariclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-dunhariclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-dunhariclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-dunhariclt'
+        - id: aureldia
+          title: Aureldia
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-aureldianclt'
+                    - filter: type = 'lore' AND subType = 'culture' AND data.culture = 'thalorna-note-lore-aureldianclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-aureldianclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-aureldianclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-aureldianclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND subType <> 'culture' AND data.culture = 'thalorna-note-lore-aureldianclt'
+        - id: elavendre
+          title: Élavendre
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-elavendriclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-elavendriclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-elavendriclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-elavendriclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-elavendriclt'
+        - id: taruzel
+          title: Tarûzel
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-taruzelianclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-taruzelianclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-taruzelianclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-taruzelianclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-taruzelianclt'
+        - id: helionis
+          title: Helionis
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-helioniteclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-helioniteclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-helioniteclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-helioniteclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-helioniteclt'
+        - id: kalihara
+          title: Kalihara
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-kaliharanclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-kaliharanclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-kaliharanclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-kaliharanclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-kaliharanclt'
+        - id: khazari
+          title: Khazari
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-khazariclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-khazariclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-khazariclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-khazariclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khazariclt'
+        - id: khazryn
+          title: Khazryn
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-sowidesclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-sowidesclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-sowidesclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-sowidesclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-sowidesclt'
+        - id: nordlands
+          title: Nordlands
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-nordheimnclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-nordheimnclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-nordheimnclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-nordheimnclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-nordheimnclt'
+        - id: nyaluba
+          title: Nyaluba
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-nyalubaclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-nyalubaclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-nyalubaclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-nyalubaclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-nyalubaclt'
+        - id: okharis
+          title: Okháris
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-okharinclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-okharinclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-okharinclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-okharinclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-okharinclt'
+        - id: provenzia
+          title: Provènzia
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-provenzianclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-provenzianclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-provenzianclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-provenzianclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-provenzianclt'
+        - id: sinale
+          title: Sinalë
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-sinaleclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-sinaleclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-sinaleclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-sinaleclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-sinaleclt'
+        - id: tanvur
+          title: Tanvur
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-tanvuriclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-tanvuriclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-tanvuriclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-tanvuriclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tanvuriclt'
+        - id: tarvenia
+          title: Tarvénia
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-tarvenanclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-tarvenanclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-tarvenanclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-tarvenanclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-tarvenanclt'
+        - id: tellumi
+          title: Tellumi
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-khazrynclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-khazrynclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-khazrynclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-khazrynclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-khazrynclt'
+        - id: vedyara
+          title: Vedyara
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-vedyariclt'
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-hvarnclt'
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-osketclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture IN ('thalorna-note-lore-vedyariclt', 'thalorna-note-lore-hvarnclt', 'thalorna-note-lore-osketclt')
+        - id: vrystwald
+          title: Vrystwald
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-varokhiclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-varokhiclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-varokhiclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-varokhiclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-varokhiclt'
+        - id: vylaria
+          title: Vylaria
+          subtitle: A Gazetteer of Thalorna
+          contents:
+              - sectionName: Introduction
+                contents:
+                    - filter: type = 'doc' AND subType = 'settingguide' AND data.culture = 'thalorna-note-lore-vylarianclt'
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture = 'thalorna-note-lore-vylarianclt'
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture = 'thalorna-note-lore-vylarianclt'
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND data.culture = 'thalorna-note-lore-vylarianclt'
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture = 'thalorna-note-lore-vylarianclt'
+        - id: world
           title: The World of Thalorna
           subtitle: A Song of Heroic Lands Sourcebook
-          document: book.yaml
           out: thalorna
-    unprinted: "type IN ('folder','homepage')"
+          contents:
+              - sectionName: Places
+                contents:
+                    - filter: type = 'place' AND data.culture IS NULL
+              - sectionName: Affiliations
+                contents:
+                    - filter: type = 'affiliation' AND data.culture IS NULL
+              - sectionName: Lore
+                contents:
+                    - filter: type = 'lore' AND data.culture IS NULL
+              - sectionName: People
+                contents:
+                    - filter: type = 'being' AND subType <> 'creature' AND data.culture IS NULL
+              - sectionName: Scenarios
+                contents:
+                    - filter: type = 'scenario'
+              - sectionName: Reference
+                contents:
+                    - filter: type = 'doc' AND subType IN ('reference','concept')
+        - id: rules
+          title: The Rules of Thalorna
+          subtitle: A Song of Heroic Lands Sourcebook
+          contents:
+              - sectionName: Skills
+                contents:
+                    - filter: type = 'skill'
+              - sectionName: Mystical Abilities
+                contents:
+                    - filter: type = 'mysticalability'
+              - sectionName: Mysteries
+                contents:
+                    - filter: type = 'mystery'
+              - sectionName: Concoctions
+                contents:
+                    - filter: type = 'concoctiongear'
+              - sectionName: Weapons
+                contents:
+                    - filter: type = 'weapongear'
+              - sectionName: Armor
+                contents:
+                    - filter: type = 'armorgear'
+              - sectionName: Gear
+                contents:
+                    - filter: type IN ('miscgear','containergear','projectilegear','toolgear')
+        - id: bestiary
+          title: The Bestiary of Thalorna
+          subtitle: A Song of Heroic Lands Sourcebook
+          contents:
+              - sectionName: Creatures
+                contents:
+                    - filter: type = 'being' AND subType = 'creature'
+    unprinted: "type IN ('folder', 'homepage')"
+    coverage: warning
     out: build/pdf
     # All three faces are named, because an unnamed one is not a default but a
     # fallback: `sans` resolves to `serif` when it is absent, so the headings

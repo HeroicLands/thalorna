@@ -219,6 +219,27 @@ do_: the first is a culture, the second a custom.
 Neither is `subType: gathering`, which is a scheduled occasion people travel to
 — a festival, a fair, a tournament.
 
+## Which book prints a note
+
+The PDF is 26 books: one for each of 23 cultures, then World, Rules and
+Bestiary, declared under `pdf.books` in `package-build.config.yaml`. A note
+reaches a book by its `type` and its `data.culture`, never by its directory.
+
+- **A culture's book** prints the places, affiliations, beings and lore that
+  state that culture, after the setting guide for it. Vedyara's book also
+  prints the Hvarn and the Osket; Aureldia's prints the material the Aureldian
+  peoples share, and opens with the culture note itself.
+- **World** prints the places, affiliations, lore and non-creature beings that
+  state no culture, with the scenarios and the `reference` and `concept` guides.
+- **Rules** prints skills, mystical abilities, mysteries, concoctions, weapons,
+  armor and gear. **Bestiary** prints the creatures.
+
+A place or affiliation takes its culture from the nearest ancestor that states
+one, so a root note's `data.culture` places everything beneath it. A note that
+belongs to a culture and states none lands in World. `package-build pdf
+--no-compile` reports every printable note that no book selects and every note
+that two books select. `folder` and `homepage` notes print in no book.
+
 ## Birth dates and ages
 
 A being's `data.born` supplies its birth date. With a known birth date, omit
