@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [serramarca], population: null, packFol
 ---
 
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the
-**Blood-field of Serravel**—and it is the only one of Provènzia's [[lore-bloodfields|blood-fields]]
+**Blood-field of Serravel**, made by the first great raid on the province in about 556 AF ([[lore-serravelbtl|Serravel]])—and it is the only one of Provènzia's [[lore-bloodfields|blood-fields]]
 that is not finished.
 
 ## A Recurrence
@@ -36,4 +36,4 @@ priests safe conduct to do it.
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-tarvenirgn|Tarvénia Region]]
+- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-tarvenirgn|Tarvénia Region]] · [[lore-serravelbtl|Serravel]]

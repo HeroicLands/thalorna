@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 
 ## Overview
 
-Valthári is Tarvénia's great port—a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthári]] itself.
+Valthári is Tarvénia's great port—a wealthy, cosmopolitan city-state on the southern coast where the [[place-vylarianse|Vylarian Sea]] trade meets the overland routes into the Tarvénan interior. Governed by a council of powerful merchant families called the **Consejárath**, Valthári pays handsome tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]] in exchange for a charter guaranteeing its self-governance, its own courts, and its freedom from feudal levies. The first High King sold it the charter, when he had no silver to pay the lords who elected him ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The arrangement makes Valthári the richest single settlement in Tarvénia and the kingdom's commercial lifeline. The Free City holds [[place-valthari|Valthári]] itself.
 
 ## Character
 

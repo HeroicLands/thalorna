@@ -59,6 +59,10 @@ data:
             how: >-
               the host strikes the wells of Aû'Khelâthu's eastern road the same year; a frontier commander seizes the throne to meet it, and the empire walls the wells in the decades after
             knowledge: named
+          - place: place-karvashion2
+            how: >-
+              refugee caravans and splinter bands of the broken host come up the Dunhara road, and the city fortifies its caravanserais against them
+            knowledge: named
       accounts:
         - by: place-khzryndsrtrgn
           says: >-

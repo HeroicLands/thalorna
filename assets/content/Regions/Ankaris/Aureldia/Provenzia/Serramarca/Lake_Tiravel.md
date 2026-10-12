@@ -31,7 +31,7 @@ On one shore stands the [[place-bldfldtiravlen|Blood-field of Tiravlen]], which 
 sound carrying off it with the clarity water gives. The lakeside villages long ago turned the
 anniversary into an observance rather than a crisis, and are firm that the field is not troublesome.
 
-Which battle made it, nobody can say. The lake has been worth taking for a very long time.
+Which battle made it, the villages cannot say. The lake has been worth taking for a very long time, and the Vylarian account of the one that took it, in about 152 AF, burned with the imperial archive ([[lore-tiravlenbattle|Tiravlen]]).
 
 ## See Also
 

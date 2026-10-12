@@ -84,7 +84,7 @@ The Free Territory of Eskárath holds the land of [[place-eskarath|Eskárath]]. 
 
 ## Character
 
-The Eskárathi are not Tarvéni. They know it, the Tarvéni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian governor tries to impose direct rule—attempts that have invariably ended badly for the outsider.
+The Eskárathi are not Tarvéni. They know it, the Tarvéni know it, and both sides have long since agreed to a mutual arrangement: the Eskárathi provide fearsome mountain warriors when the High King calls the ban against a foreign threat, and in return, the rest of Tarvénia leaves them alone. This arrangement has held for centuries, with occasional interruptions when an ambitious High King or Vylarian governor tries to impose direct rule—attempts that have invariably ended badly for the outsider; the first Vylarian governor to try it lost his escort in the high meadows and was not replaced ([[lore-lowlandstaken|The Lowlands Taken]]).
 
 Eskári culture is ancient, insular, and deeply rooted in the highland landscape. The people live in scattered mountain communities governed by clan elders, and major decisions affecting the territory as a whole are made by the **Biltzárrath**—a council of elders that meets in a high mountain meadow at the summer solstice. The Biltzárrath has no permanent seat, no bureaucracy, and no written constitution; it operates on oral tradition and consensus, and its decisions carry the weight of centuries of custom.
 

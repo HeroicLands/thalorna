@@ -14,11 +14,11 @@ data:
   packFolder: adventures
 ---
 
-Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Trédavar III fell centuries before the Founding, and uncover why the dead refuse to rest.
+Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Vélarik III fell centuries before the Founding, and uncover why the dead refuse to rest.
 
 ## Overview
 
-Lake Tîravel, in central [[place-provenzrgn|Provènzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Trédavar III fought his final battle against invaders at the blood-field of Tîravlen. Though Trédavar fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
+Lake Tîravel, in central [[place-provenzrgn|Provènzia Region]], sits upon a battlefield of immense historical significance. Centuries before the Founding, the fierce warrior-king Vélarik III fought his final battle against invaders at the blood-field of Tîravlen. Though Vélarik fell and his kingdom fragmented, the victory he secured shaped the course of Provenzian history. The lake's waters have long been troubled by strange phenomena: unexplained mists, the sounds of clashing weapons at night, and visions of ancient battles. Now, the haunting has intensified, and the spirits of long-dead warriors walk the shores, trapped between worlds. The party must discover why the dead have awakened and what will allow them final rest.
 
 ## Stage One: The Haunting
 
@@ -49,15 +49,15 @@ The party becomes aware of the haunting through:
 
 ## Stage Two: Research & Investigation
 
-The party must gather information about King Trédavar III, the ancient battle, and what binds the spirits:
+The party must gather information about King Vélarik III, the ancient battle, and what binds the spirits:
 
 **Historical Research:**
 
-- Records and chronicles describing Trédavar III's reign and final battle
+- Records and chronicles describing Vélarik III's reign and final battle
 - Poetry and legend surrounding the king and the blood-field
 - Archaeological knowledge about burial customs and monuments at Tîravlen
 - Pre-Aurèldían traditions and beliefs about death and the afterlife
-- Records of what happened to Trédavar's body, his legendary artifacts, or his family
+- Records of what happened to Vélarik's body, his legendary artifacts, or his family
 
 **Physical Investigation:**
 
@@ -74,11 +74,11 @@ The party must gather information about King Trédavar III, the ancient battle, 
 
 **Possible Discoveries:**
 
-- A prophecy or warning spoken by Trédavar or the ghostly king
-- Trédavar's legendary sword or crown missing or misplaced
+- A prophecy or warning spoken by Vélarik or the ghostly king
+- Vélarik's legendary sword or crown missing or misplaced
 - A betrayal in the ancient battle that was never avenged
-- An oath or promise made by Trédavar that was never fulfilled
-- A descendent of Trédavar still alive (unknown to themselves)
+- An oath or promise made by Vélarik that was never fulfilled
+- A descendent of Vélarik still alive (unknown to themselves)
 - Recent desecration or theft from the battlefield sites
 
 **Complications:**
@@ -103,17 +103,17 @@ The party must make direct contact with the spirits:
 
 **What the Ghosts Reveal:**
 
-- The nature of the final battle and Trédavar's last moments
+- The nature of the final battle and Vélarik's last moments
 - A betrayal or loss that was never avenged
 - A sacred oath that was broken or abandoned
 - A treasure, artifact, or body that was lost and not properly honored
-- A descendant or heir who should inherit Trédavar's legacy
+- A descendant or heir who should inherit Vélarik's legacy
 - A warning about a future threat to [[place-provenzrgn|Provènzia Region]]
 - The identity of a ghost that holds particular power or authority
 
 **The Ghostly King:**
 
-- King Trédavar III himself may manifest, providing direct revelation
+- King Vélarik III himself may manifest, providing direct revelation
 - He may serve as mediator between the party and the other spirits
 - He may test the party's worthiness before revealing his desires
 - His appearance may be inspiring (noble warrior) or terrifying (corrupted by death)
@@ -124,12 +124,12 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 **Possible Quests:**
 
-- **Recover the Lost Artifact:** Find Trédavar's legendary sword, crown, or regalia, lost in the chaos of battle or taken by an enemy
-- **Avenge the Betrayal:** Identify the traitor or enemy responsible for Trédavar's death and bring them to justice (even if centuries have passed)
+- **Recover the Lost Artifact:** Find Vélarik's legendary sword, crown, or regalia, lost in the chaos of battle or taken by an enemy
+- **Avenge the Betrayal:** Identify the traitor or enemy responsible for Vélarik's death and bring them to justice (even if centuries have passed)
 - **Honor the Fallen:** Perform grand ceremonies or construct monuments to properly honor the king and his warriors
-- **Restore the Bloodline:** Locate a descendant of Trédavar and restore their claim or awareness of their heritage
-- **Fulfill the Oath:** Complete a task or promise that Trédavar made before he died (protect a place, preserve knowledge, etc.)
-- **Prevent the Returning:** Stop an ancient enemy or threat that Trédavar fought from returning to plague the land
+- **Restore the Bloodline:** Locate a descendant of Vélarik and restore their claim or awareness of their heritage
+- **Fulfill the Oath:** Complete a task or promise that Vélarik made before he died (protect a place, preserve knowledge, etc.)
+- **Prevent the Returning:** Stop an ancient enemy or threat that Vélarik fought from returning to plague the land
 
 **Challenges:**
 
@@ -147,7 +147,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 - The blood-field of Tîravlen becomes peaceful, no longer haunted
 - The party gains gratitude from both spirits and the living
 - Knowledge of the ancient past is preserved or revealed
-- Trédavar's legacy is honored or restored
+- Vélarik's legacy is honored or restored
 
 **Magical Consequences:**
 
@@ -158,7 +158,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 **Ongoing Effects:**
 
-- The party may be bound by oath to protect Trédavar's legacy
+- The party may be bound by oath to protect Vélarik's legacy
 - If a descendant was restored, they may become an ally or complication
 - The party's reputation grows as defenders and restorers of history
 - Ancient knowledge about [[place-provenzrgn|Provènzia Region]]'s past is revealed, affecting regional politics or religion
@@ -168,7 +168,7 @@ The party must undertake a quest to fulfill the spirits' wishes:
 
 - The ghosts remain, possibly becoming more aggressive or despairing
 - The haunting may intensify or expand to surrounding lands
-- Trédavar's legacy remains tarnished or forgotten
+- Vélarik's legacy remains tarnished or forgotten
 - The party may be cursed or pursued by the spirits
 - External parties may take action to resolve the situation (with consequences)
 

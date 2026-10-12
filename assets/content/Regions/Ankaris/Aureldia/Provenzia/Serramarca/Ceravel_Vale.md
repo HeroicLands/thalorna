@@ -26,7 +26,13 @@ The vale's people are divided the way the kingdom is: a Thânevar peasantry who 
 
 ## The Roads and the Hills
 
-Bandits have harried the roads of Céravel Vale for years, striking caravans and travelers throughout the vale and worst of all around Bélsaren, and lately they strike with a precision that suggests someone is organizing them. East of Bélsaren rise the **Blood Hills**, where the **Battle of Céravel's Blood Hills** was fought between the **Cohorts of Gashang** of [[affiliation-blackflame|the Black Flame]] and the **Knights of the Sacred Forge**, and where the [[scenario-maulgashng|Maul of Gashang]] is rumored to lie hidden still. The kingdom's great civil war, the **War of the Princes**, is also remembered as the **Céravian Rebellion**.
+Bandits have harried the roads of Céravel Vale for years, striking caravans and travelers throughout the vale and worst of all around Bélsaren, and lately they strike with a precision that suggests someone is organizing them. East of Bélsaren rise the [[place-bloodhills|Blood Hills]], where the [[lore-bloodhillsbtl|Battle of Céravel's Blood Hills]] was fought about 248 AF between the **Cohorts of Gashang** of [[affiliation-blackflame|the Black Flame]] and the **Knights of the Sacred Forge**, and where the [[scenario-maulgashng|Maul of Gashang]] is rumored to lie hidden still. The kingdom's great civil war, [[lore-warprinces|the War of the Princes]], is remembered here as the **Céravian Rebellion**, and the vale was its battleground.
+
+## House Dôrgaar's Seat
+
+On a rise above the vale's second river stands the burned shell of the manor of **House Dôrgaar**, a minor family that chose the wrong prince in the war of 653 to 655 AF. The roof is gone and the hall's walls stand to the eaves. Its lands were given to a rival house, whose bailiff keeps the fields and does not go into the ruin.
+
+The family's deeds were walled up in the cellar before the manor was burned, and the rival's claim has held for as long as nobody has found them. [[being-branwldrgr|Brànwâal Dôrgaar]], captain of the Silent Talon, comes from the family, and the lands are disputed between two lords. Anyone who wants to settle the dispute wants the cellar.
 
 ## See Also
 

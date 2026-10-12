@@ -102,6 +102,7 @@ A settlement rite performed over the field, in the rite of the people whose dead
 | The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on                                     |
 | The Varokh    | _vrystgrund_   | "ground held by nobody": _vryst-_, free of any claim, and _-grund_, the floor of a valley, the word that answers _weskgrund_, the totem's land |
 | Heliónis      | blood-field    | The Helionite cities name a field for its battle, and these pages use the Provenzian word                                                      |
+| Byzaría       | blood-field    | The League's records name a field for the nearest fort, and these pages use the Provenzian word                                                |
 | Aû'Khelâthu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                                                    |
 
 ## Vedyara: the Shorukshetra
@@ -156,7 +157,7 @@ Three fields in the north, one to each great war, and a fourth that northern han
 
 Among the [[lore-varokhiclt|Varokh]] the dead go to their village's _wesk_ (totem), and it is the Shaman who sends them. At a burial or a pyre the Shaman calls the dead person by name into the _weskgrund_, the totem's land, where the ancestors are, and the kin keep the body warm until the call is answered. A soul nobody calls wanders outside the totem's land, where the _hrág_ (hungry spirits) hunt the weak, and the Varokh do not need to be told what becomes of it.
 
-A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman called them home: ground held by nobody, the opposite of the totem's land. The Varokh have two in their own forest, and neither holds Varokh dead. [[place-skathhreth|Skathhreth]], the harm ford on the Moldún, holds a Vylarian legion destroyed there in 291 AF, men who had no totem to be called to; it is a recurrence and the thinnest field in the forest, where the column is seen on the water at dusk and the _hrág_ gather in the thaw. [[place-grimak|Grimak]], the burned thicket in Skathwald, holds the Varokh the Grukar took before the nest was burned in 536, of whom nothing was left to call; it is a silence, moderate across the ring and thin in the hollow, and something in it calls Varokh names. A third field holds Varokh dead and lies outside the forest: the Black Marsh in Moktur, where a host of the hunger raids died in 520 with no Shaman among them, which Moktur keeps.
+A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman called them home: ground held by nobody, the opposite of the totem's land. The Varokh have two in their own forest, and neither holds Varokh dead. [[place-skathhreth|Skathhreth]], the harm ford on the Moldún, holds a Vylarian legion destroyed there in 291 AF, men who had no totem to be called to; it is a recurrence and the thinnest field in the forest, where the column is seen on the water at dusk and the _hrág_ gather in the thaw. [[place-grimak|Grimak]], the burned thicket in Skathwald, holds the Varokh the Grukar took before the nest was burned in 536, of whom nothing was left to call; it is a silence, moderate across the ring and thin in the hollow, and something in it calls Varokh names. A third field holds Varokh dead and lies outside the forest: [[place-blackmarshfld|the Black Marsh]] in Moktur, where a host of the hunger raids died in 520 with no Shaman among them, which Moktur keeps.
 
 **What ends one.** A Shaman calls the dead home, by name, at the field. It needs the names and it needs a totem to call them to, and the forest's own fields have neither: the legion's dead have no totem and the Grukar's victims left nothing to name. Nobody has tried at either, and the Shamans say so plainly.
 
@@ -168,6 +169,10 @@ The Helionite cities are Aurèldían, and their account of the wound is the Aur�
 
 The exception is [[place-sourplain|the Sour Plain]], a withering made in 327 BF when a legion and a Korinthean levy died together under a working that turned back on its makers, on ground no herald could cross. The Sour Plain is thin. Its dead stand in their ranks on the anniversary, and its dead ground spreads a few yards in a bad decade. Korinthea has set a ring of boundary stones round it and reset them outward three times, and a judge of the Temple of Árdavon walks the ring each year. The settlement rite of Sélmoros has never been tried there: a Helionite temple is civic property, the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city did.
 
+## Byzaría: the Fort's Jar
+
+The Byzarian League's records keep a field under the name of the fort that stands nearest it, and treat it as the garrison's business. Byzaría has one, [[place-thirstground|the Thirsting Ground]], made in 158 BF when a steppe host died of arrows and thirst between the spring-forts of the foothills ([[lore-heladwells|the Battle of the Wells]]). It is a silence, moderate: nothing sings there, a skin filled at dusk is empty by morning, and the field's own spring stops running for a night each year. The garrison of the nearest fort sets a full jar of water at its edge each evening and empties what is left at dawn. The monks of the eastern rite at Argýrteíkhos have tried the settlement rite of [[affiliation-selmoros|Sélmoros]] twice and failed, because the dead are steppe dead and the rite they needed was never said over them.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
@@ -178,6 +183,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-sourplain\|The Sour Plain]]          | Heliónis                  | [[lore-heladturnedwrk\|The Turned Working]]                  | 327 BF  | withering            | thin                          |
 | [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                      |
 | [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                          |
+| [[place-thirstground\|The Thirsting Ground]] | Byzaría                   | [[lore-heladwells\|The Battle of the Wells]]                 | 158 BF  | silence              | moderate                      |
 | [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years |
 | [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                        |
 | [[place-domsey\|Dómsey]]                     | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]           | 287 AF  | silence              | thin, quieted at each sitting |
@@ -185,7 +191,9 @@ In order of their making. A dash marks a field whose battle no record dates.
 | [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                      |
 | [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]                    | 315 AF  | dread                | thin                          |
 | [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                          |
+| [[place-olcassafld\|Olcassa]]                | Vylaria                   | [[lore-olcassabtl\|The Battle of Olcassa]]                   | ~401 AF | quickening           | moderate                      |
 | [[place-skalfvatn\|Skalfvatn]]               | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                      |
+| [[place-blackmarshfld\|The Black Marsh]]     | Moktur (the Varokh dead)  | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]        | 520 AF  | dread                | thin                          |
 | [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                           | ~520 AF | withering            | thin, worked on               |
 | [[place-grimak\|Grimak]]                     | The Varokh                | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow  |
 | [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                                    | ~548 AF | silence              | thin                          |

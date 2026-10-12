@@ -117,6 +117,7 @@ No Shaman went south with the host, because no Shaman goes raiding, and nobody c
 ## See Also
 
 - [[lore-threewinters|The Three Winters]]—the famine the raids answered
+- [[lore-blackmarshbtl|The Battle of the Black Marsh]]—the Empire's account of the same day
 - [[lore-empirdclne|The Decline of the Vylarian Empire]]—what the lost revenue cost
 - [[place-castrovar|Castrovar]]—the fortress raised against the raids
 - [[affiliation-vylrnmltry|Vylarian Military]]—the eagle, and what a legion owes it

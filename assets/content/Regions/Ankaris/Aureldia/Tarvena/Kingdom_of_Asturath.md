@@ -132,9 +132,9 @@ Astúrath is the mountainous heartland of [[place-tarvenirgn|Tarvénia Region]] 
 
 Astúrath is the most martial and conservative of the Tarvénan regions. Its people are mountain folk—tough, proud, and deeply attached to the old ways. The kingdom's lords rule from fortified hilltop castles, and the social order is built on bonds of personal loyalty between lord and retainer rather than bureaucratic administration. Every free man is expected to bear arms, and the mountain clans maintain a warrior readiness that borders on paranoia.
 
-Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, eventually settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
+Invading armies that have ventured into Astúrath's mountains have universally regretted it. The Vylarian legions, after several disastrous campaigns, the worst of them lost in [[lore-horngorgebtl|the Horn Gorge]] about 143 AF, settled for holding the lowland approaches and leaving the mountains alone—a fact the Astúrathi have never tired of celebrating.
 
-The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl.
+The council of mountain lords meets here to elect a new High King when the throne falls vacant, a process that is equal parts solemn ceremony and bare-knuckle political brawl. The first election, of Garváneth of Astúrath about 540 AF, drove the garrisons out ([[lore-tarvfallsawy|Tarvénia Falls Away]]).
 
 ## Commerce and Currency
 

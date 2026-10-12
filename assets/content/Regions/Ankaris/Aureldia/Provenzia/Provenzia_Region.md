@@ -45,7 +45,7 @@ around it.
 
 Characteristically, Provènzia names the ground rather than the battle. Provenzians call a field a
 blood-field long before they can say which war made it, and for many of them nobody
-can.
+can. Three of the named fields have a battle on record: [[place-bldfldtiravlen|Tiravlen]], [[place-bldfldserravel|Serravel]] and [[place-bloodhills|the Blood Hills]].
 
 ## Culture and Society
 
@@ -69,7 +69,7 @@ The Élavendren influence is strong, particularly in the use of fae magic and na
 
 ## Relations
 
-Provènzia was once a part of the [[affiliation-vylarinmpr|Vylarian Empire]], and while it is no longer formally under Vylarian control, the Vylarian influence remains deeply ingrained in its political and cultural life. The two regions maintain close economic ties, and many Provenzian noble families have Vylarian ancestry. However, Provènzia jealously guards its independence and has no desire to return to imperial subjection.
+Provènzia was once a part of the [[affiliation-vylarinmpr|Vylarian Empire]]: a colony on the great road ([[lore-aurelianefound|The Founding of Aurèliane]]), a province from the breaking of the Thânevar kings at [[lore-tiravlenbattle|Tiravlen]], and a kingdom since [[lore-charterwar|the War of the Charter]]. While it is no longer formally under Vylarian control, the Vylarian influence remains deeply ingrained in its political and cultural life. The two regions maintain close economic ties, and many Provenzian noble families have Vylarian ancestry. However, Provènzia jealously guards its independence and has no desire to return to imperial subjection.
 
 [[place-elavendre|Élavendre]] to the north is a cultural cousin and Provènzia's closest friend among the kingdoms—the two share Pelwar heritage and a love of art and magic, though the Élavendren lean more toward the mystical while the Provenzians favor the intellectual. **Relations between the two crowns are very cordial**, and have been for long enough that neither court treats the other as a contingency: the border is open, the trade is heavy, scholars and artists move freely in both directions, and the two have repeatedly taken the same side in Vylarian disputes.
 

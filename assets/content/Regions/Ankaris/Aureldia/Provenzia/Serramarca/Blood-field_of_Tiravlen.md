@@ -14,8 +14,9 @@ since the lake road runs along its edge and nobody has ever thought to move the 
 
 ## A Recurrence
 
-Tiravlen replays, and it replays **over the water**, which is what makes it locally famous. On the
-anniversary, and on a scatter of other nights that follow no pattern anyone has established, lights
+Tiravlen replays, and it replays **over the water**, which is what makes it locally famous. The battle
+that made it, [[lore-tiravlenbattle|the breaking of the Thânevar kings]] in about 152 AF, is known to the villages by the ground's name alone. On the
+anniversary, the night of 9 Karnavar, and on a scatter of other nights that follow no pattern anyone has established, lights
 move out across the lake in ranks, and sound carries off the surface with the particular clarity that
 water gives it—orders, horses, the noise of a line breaking—all of it perfectly audible from
 villages a mile off and never from anywhere close enough to see.
@@ -27,7 +28,7 @@ villages remember people who watched too often and never came back to themselves
 ## The Observance
 
 The lakeside villages long ago stopped treating this as a crisis and turned it into a custom. On the
-anniversary the boats are drawn up, the shutters go closed at dusk, and households sit the night out
+night of 9 Karnavar the boats are drawn up, the shutters go closed at dusk, and households sit the night out
 together with the fire lit; in the morning there is a small offering at the water and the year goes
 on. Priests of [[affiliation-selmoros|Sélmoros]] attend where they are invited and have never been
 asked to perform the rite of settlement—the villages are firm that the field is not troublesome and
@@ -37,4 +38,4 @@ Visitors who insist on watching from the shore are not prevented. They are simpl
 
 ## See Also
 
-- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-tiravellake|Lake Tiravel]]
+- [[lore-bloodfields|The Blood-fields of Provènzia]] · [[place-tiravellake|Lake Tiravel]] · [[lore-tiravlenbattle|Tiravlen]]

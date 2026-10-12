@@ -27,7 +27,7 @@ placed instantly.
 ## Crown and Council
 
 Lunacòrte is where the kingdom's central political argument is carried on, and it is not a quiet one.
-The Crown sits here; so does the **Council of Peers**, and the last several decades have been a long
+The Crown sits here, as it has since the Charter's first king settled his court on the coast ([[lore-charterwar|the War of the Charter]]); so does the **Council of Peers**, and the last several decades have been a long
 maneuver between them over prerogative, taxation and appointment. Neither has won. Great houses have
 spent generations positioning themselves in that gap, and cautious ones—like the Kórisvars of
 [[place-fiordaure|Fiòrdaure]]—have spent the same generations keeping their heads down in it.

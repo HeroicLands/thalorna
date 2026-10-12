@@ -128,7 +128,7 @@ The Kingdom of Tarvénia is less a unified state than a political idea—a loose
 
 ## Government
 
-The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
+The High King is elected by a council of the major lords—a process that produces as much warfare as governance. The first election, about 540 AF, was held to drive out the Vylarian garrisons ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The crown carries the right to call the ban (a general military levy) and to adjudicate disputes between lords, but the High King has no standing army, no central bureaucracy, and limited revenue beyond his own estates. Attempts to centralize power have historically ended with the ambitious king deposed, exiled, or dead.
 
 Local governance varies wildly. Some territories are ruled by hereditary lords in fortified hilltop castles. Others are governed by town councils of merchants and master craftsmen. The mountain clans in the interior follow their own ancient customs and acknowledge the High King only when it suits them.
 

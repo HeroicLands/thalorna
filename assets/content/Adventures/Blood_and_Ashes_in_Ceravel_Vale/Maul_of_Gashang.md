@@ -27,7 +27,7 @@ Legends suggest that the maul was forged in the heart of a volcano by Black Flam
 
 ### **The Last Battle in the Blood Lands**
 
-The **Maul of Gashang** was last wielded in a brutal conflict known as the **Battle of Céravel’s Blood Hills**, fought in the highlands near [[place-ceravelvale|Céravel]]. This battle was a climactic confrontation between the forces of the Black Flame, led by the Cohorts of Gashang, and the Knights of the Sacred Forge. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
+The **Maul of Gashang** was last wielded in a brutal conflict known as the [[lore-bloodhillsbtl|Battle of Céravel’s Blood Hills]], fought about 248 AF in the highlands near [[place-ceravelvale|Céravel]]. This battle was a climactic confrontation between the forces of the Black Flame, led by the Cohorts of Gashang, and the Knights of the Sacred Forge. The site became infamous for its sheer brutality, as the followers of the Black Flame reveled in slaughter and pain, while the Forge faithful sought to stem the tide of chaos.
 
 The **Maul of Gashang** was wielded by a Black Flame warlord named **Hazarak Bloodhand**, known for his cruelty and mastery of war. Hazarak led the charge against the Sacred Forge forces, and it is said that he wielded the maul with such ferocity that even the most devout Sacred Forge knights faltered in his wake. The weapon’s unholy aura terrified even the most battle-hardened soldiers, while its flames set the battlefield alight, turning the hillside into a scene of unrelenting carnage.
 
@@ -37,7 +37,7 @@ As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing
 
 After Hazarak’s fall, the battle did not end cleanly. Both sides were devastated, and the bloodied fields became the final resting place of countless warriors. The maul, now abandoned, was sought after by both Black Flame cultists and the Forge faithful, but a sudden violent storm—a phenomenon some claimed was caused by the Black Flame itself—forced both sides to retreat, leaving the battlefield strewn with bodies and the sacred relic lost.
 
-For years after the battle, the area became known as the **Blood Hills**, and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
+For years after the battle, the area became known as the [[place-bloodhills|Blood Hills]], and few dared to approach the cursed land. Legends grew about spirits wandering the battlefield, and those brave enough to venture into the hills reported seeing flickers of light—like embers in the dark—where the maul was thought to have been lost.
 
 ### **The Cave and the Traps**
 

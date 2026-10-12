@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Bélsaren is a lordship and village of [[place-ceravelvale|Céravel Vale]], and when the vale's bandits strike, they strike here hardest. Its lord keeps a map of Bélsaren spread on the table of his hall, and the marks on it are raids. The land is worth fighting over: Bélsaren has valuable timber and minerals, and east of it rise the **Blood Hills**, where the Black Flame fought its most infamous battle and where something of the Black Flame's is said to lie hidden still.
+Bélsaren is a lordship and village of [[place-ceravelvale|Céravel Vale]], and when the vale's bandits strike, they strike here hardest. Its lord keeps a map of Bélsaren spread on the table of his hall, and the marks on it are raids. The land is worth fighting over: Bélsaren has valuable timber and minerals, and east of it rise the [[place-bloodhills|Blood Hills]], where the Black Flame fought its most infamous battle ([[lore-bloodhillsbtl|about 248 AF]]) and where something of the Black Flame's is said to lie hidden still.
 
 ## Two Lords
 

@@ -425,7 +425,7 @@ Brànwâal is a weathered, sharp-eyed man of thirty-four with a medium frame, fa
 
 # Dossier {#dossier}
 
-Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
+Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provènzia Region]]. Born into a minor noble family that had lost its lands and standing when House Dôrgaar chose the wrong side in [[lore-warprinces|the War of the Princes]], he inherited the loss and none of the estate. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
 
 He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Elýsè, Tórnis, Chéleb, and Dôren—who together form the Silent Talon.
 
@@ -471,11 +471,11 @@ None currently, though he seeks to earn the favor of powerful lords.
 
 ### Enemies
 
-Those who brought down House Dôrgaar during the War of the Princes.
+The houses that brought down House Dôrgaar during the War of the Princes, and the heirs who hold its lands.
 
 ## Plot Hooks
 
-1. **The Dôrgaar Claim**: Word reaches Brànwâal that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena he fled a decade ago.
+1. **The Dôrgaar Claim**: Word reaches Brànwâal that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena that drove his family out.
 
 2. **A Contract Too Good**: The Silent Talon is offered an extraordinarily well-paying contract by an anonymous patron. The target turns out to be connected to the events that destroyed House Dôrgaar, forcing Brànwâal to choose between profit and the personal reckoning he has been avoiding.
 

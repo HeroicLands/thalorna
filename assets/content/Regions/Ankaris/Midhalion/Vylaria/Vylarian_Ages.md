@@ -88,7 +88,7 @@ The Founder's line. The Eagle City is walled above the sealed Eyrie and the Sena
 
 ### The Age of Conquest, 96 to 388
 
-Three centuries of conquest begin, and the western ones are told in [[lore-westernwars|The Western Wars]]. Nartûm refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Augustar sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
+Three centuries of conquest begin, the western ones told in [[lore-westernwars|The Western Wars]] and the eastern one, which annexes Byzaría under the Augustar Kàromphôs, in [[lore-heladeastwar|The Eastern War]]. Nartûm refuses the Empire over the Black Flame ([[lore-nartumrefuse|Nartûm Refuses the Empire]]), the Storm of the Hundred Banners reaches the eastern hills ([[lore-easternline|The Eastern Line]]), and the imperial archive burns ([[lore-archivefire|The Archive Fire]]). It ends when an Augustar sends his best army across the sea ([[lore-deltaexped|The Delta Expedition]]) and its commander does not come home.
 
 ### The Years of Three Eagles, 389 to 405
 
@@ -100,15 +100,15 @@ One house rebuilds the capital in the shape that stands today. The western conqu
 
 ### The Drift, 512 to 619
 
-The north's hunger raids empty northern Moktur's valleys, fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: Tarvénia, Byzaría, and Heliónis in practice. It ends when Provènzia wins its charter and the crowns and the Aerarium settle what the Empire still is.
+The north's hunger raids empty northern Moktur's valleys and a legion wins its eagle back at the Black Marsh ([[lore-blackmarshbtl|The Battle of the Black Marsh]]), fleets strike the western coasts, and the coin is fixed. The far provinces stop obeying one at a time: Tarvénia, Byzaría, and Heliónis in practice. It ends when Provènzia wins its charter and the crowns and the Aerarium settle what the Empire still is ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ### The Core, 620 to 707
 
-An Empire that keeps the forms and stops paying the far forts, sends the Twelfth Vesperine into the Cervaron and loses it, and squeezes Tarûzel for the revenue the west no longer sends. It ends when Tarûzel's merchant princes bankroll a revolution.
+An Empire that keeps the forms and stops paying the far forts, sends the Twelfth Vesperine into the Cervaron and loses it ([[lore-twelfthloss|The Loss of the Twelfth]]), and squeezes Tarûzel for the revenue the west no longer sends. It ends when Tarûzel's merchant princes bankroll a revolution.
 
 ### After the Shoals, 708 to the present
 
-The present: the Shoals, the recognition, a navy being rebuilt, a reform forced on the commission system, and an old Augustar with a contested succession that has made the Senate matter again.
+The present: the Shoals, the recognition, a navy being rebuilt, a reform forced on the commission system ([[lore-commissioncmp|The Commission Compromise]]), and an old Augustar with a contested succession that has made the Senate matter again.
 
 ## See Also
 

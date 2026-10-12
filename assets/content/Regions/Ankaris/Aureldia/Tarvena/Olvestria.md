@@ -16,7 +16,7 @@ data: {demonym: Ólvestrian, lore: [], parents: [tarvenirgn], packFolder: tarven
 
 Two orders keep their mother-houses here, and between them they make Ólvestria the place where Aurèldía's sworn word is recorded and its thresholds are guarded.
 
-- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]]** keeps its mother-house and its archives at Ólvestria, including the master register of every contested oath the order has ruled on in its three-century history. Its **Council of the Seal**, twelve Senior Brothers drawn from the five kingdoms, meets here every quarter, and a Senior Brother wears a small bronze key at the throat for the keys of the archive.
+- **The [[affiliation-ordrsldwrd|Order of the Sealed Word]]**, chartered here about 421 AF ([[lore-sealedwordfnd|The Founding of the Sealed Word]]), keeps its mother-house and its archives at Ólvestria, including the master register of every contested oath the order has ruled on in its three-century history. Its **Council of the Seal**, twelve Senior Brothers drawn from the five kingdoms, meets here every quarter, and a Senior Brother wears a small bronze key at the throat for the keys of the archive.
 - **The [[affiliation-twinbldrdr|Twinblade Order]]** keeps its mother-house at the Twin Gate, conducts its senior elevations in temple rite at the Twin Gate temple, and maintains a ceremonial cadre in the city for the coronations, treaty-signings and embassies that require a Twinblade's presence. Its present Voice, **Veronica Aldorina**, was Magister of the Ólvestrian Twin Gate before her elevation.
 
 ## Money and Danger

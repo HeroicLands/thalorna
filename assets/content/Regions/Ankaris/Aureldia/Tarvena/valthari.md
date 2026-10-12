@@ -18,7 +18,7 @@ The harbor is crowded with ships from [[place-provenzrgn|Provènzia]], [[affilia
 
 ## Who Governs
 
-The Consejárath, a council of the great merchant houses, governs Valthári under a royal charter bought with tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]]. The charter guarantees the city its self-government, its own courts and freedom from feudal levies. The council is drawn from the dozen or so merchant dynasties that control the major trading houses, shipyards and banks, and seats are fiercely contested: Valthári politics is a dance of commercial alliances, marriage pacts and, occasionally, discreet assassination. The city keeps a small, professional navy to guard its shipping lanes, and its marine soldiers are among the best equipped in Tarvénia.
+The Consejárath, a council of the great merchant houses, governs Valthári under a royal charter bought with tribute to the High King of [[affiliation-kingdmtrvn|Tarvénia]], the first of whom sold it ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The charter guarantees the city its self-government, its own courts and freedom from feudal levies. The council is drawn from the dozen or so merchant dynasties that control the major trading houses, shipyards and banks, and seats are fiercely contested: Valthári politics is a dance of commercial alliances, marriage pacts and, occasionally, discreet assassination. The city keeps a small, professional navy to guard its shipping lanes, and its marine soldiers are among the best equipped in Tarvénia.
 
 ## See Also
 

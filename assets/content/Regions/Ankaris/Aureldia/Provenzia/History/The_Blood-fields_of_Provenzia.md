@@ -101,8 +101,9 @@ strongest argument for making one, and the single strongest argument against.
 ## The Known Fields
 
 - [[place-bldfldyharvalen|Yhârvalen]]—north; a **withering**, and the worst in the kingdom.
-- [[place-bldfldtiravlen|Tiravlen]]—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**.
-- [[place-bldfldserravel|Serravel]]—the eastern frontier; a **recurrence**, and still being added to.
+- [[place-bldfldtiravlen|Tiravlen]]—beside [[place-tiravellake|Lake Tiravel]]; a **recurrence**, made by [[lore-tiravlenbattle|a legion's victory over the Thânevar kings]].
+- [[place-bldfldserravel|Serravel]]—the eastern frontier; a **recurrence**, made by [[lore-serravelbtl|the first great raid]] and still being added to.
+- [[place-bloodhills|The Blood Hills]]—east of Céravel; a **dread**, made by a battle between the Forge and the Flame.
 - [[place-bldfldkyvarel|Kývarel]]—the western valleys; a **quickening**.
 - [[place-bldfldcalvenza|Calvènza]]—the southern coast; a **silence**.
 
