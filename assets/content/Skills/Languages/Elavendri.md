@@ -77,11 +77,11 @@ For the ancestral Pelwar tongue of the [[lore-aelendnppl|Áelendan]]—the most 
 
 ## Sample Phrases
 
-- **"Thálira en sílen, élthar vé dâren."** – "The forest sings, the light remembers." (Poetic phrase about the presence of magic in nature.)
-- **"Shâlor en kír a thél."** – "Welcome, friend of the light." (Formal greeting among Élavendri speakers.)
-- **"Thalríen en míarân dú."** – "Our roots run deep in the earth." (Statement of connection and belonging.)
-- **"Síath en thêrël - dúlir en síath."** – "Magic is life - life is magic." (Fundamental philosophical statement.)
-- **"Ven'tálêth en síren a kîl, veth dû síath."** – "The fey walks between worlds, yet is part of magic." (About the nature of fey beings and reality.)
+- **"Thálira en sílen, élthar vé dâren."**—"The forest sings, the light remembers." (Poetic phrase about the presence of magic in nature.)
+- **"Shâlor en kír a thél."**—"Welcome, friend of the light." (Formal greeting among Élavendri speakers.)
+- **"Thalríen en míarân dú."**—"Our roots run deep in the earth." (Statement of connection and belonging.)
+- **"Síath en thêrël; dúlir en síath."**—"Magic is life; life is magic." (Fundamental philosophical statement.)
+- **"Ven'tálêth en síren a kîl, veth dû síath."**—"The fey walks between worlds, yet is part of magic." (About the nature of fey beings and reality.)
 
 ## Related Languages
 

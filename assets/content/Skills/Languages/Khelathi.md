@@ -71,7 +71,7 @@ never close one.
 
 **The glottal stop stands between two vowels and gives a word a pause where a
 reader expects a consonant.** That is its whole function, and it is what a
-sacred or lineage name has and an ordinary one lacks — `Qe'âret` and `Psaq'âru`
+sacred or lineage name has and an ordinary one lacks—`Qe'âret` and `Psaq'âru`
 pause; `Mani` and `Dari` do not.
 
 **Openings.** `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` are the characteristic ones.
@@ -234,7 +234,7 @@ builds is what a reader meets. Seven carry a longer form beside the short one, a
 
 The openings `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` carry much of the language's
 character. They are phonology rather than lexicon, and they arrive through the
-high-frequency elements — `anlagh`, `amqel`, `reth`, `waz`, `wal`, `anleth` —
+high-frequency elements—`anlagh`, `amqel`, `reth`, `waz`, `wal`, `anleth`—
 rather than being chosen name by name.
 
 **`Re-` and `Rê-` carry `reth`, the name.** The sun-lord's house-form is `Uqa`, so
@@ -243,12 +243,12 @@ rather than being chosen name by name.
 
 ### Particles
 
-| Particle | Sense                                                                    |
-| -------- | ------------------------------------------------------------------------ |
-| `ez`     | of, toward — the genitive, and the particle a commoner's byname hangs on |
-| `elu`    | of, upon                                                                 |
-| `ezu`    | in                                                                       |
-| `agu`    | shall — marking what is undertaken rather than what is done              |
+| Particle | Sense                                                                  |
+| -------- | ---------------------------------------------------------------------- |
+| `ez`     | of, toward—the genitive, and the particle a commoner's byname hangs on |
+| `elu`    | of, upon                                                               |
+| `ezu`    | in                                                                     |
+| `agu`    | shall—marking what is undertaken rather than what is done              |
 
 ### The nineteen gods
 
@@ -317,18 +317,18 @@ A rank is a two-word construct: the charge, then the holder or the place it is
 held. What each rank means is stated on the ladder of the body that confers it;
 what the words are made of is here.
 
-| Morpheme   | Sense                                                                     |
-| ---------- | ------------------------------------------------------------------------- |
-| `Aû`       | of the throne and the realm, and reserved to it                           |
-| `Thâz`     | of rank and extent — the ordinary word for great, and so the unpaused one |
-| `Lem'`     | servant of                                                                |
-| `Nelgir`   | god                                                                       |
-| `Lekhau`   | sacred power                                                              |
-| `Halzi`    | heart, and the account a heart answers for                                |
-| `Wazu`     | pure                                                                      |
-| `Genzet`   | council                                                                   |
-| `Selat`    | province                                                                  |
-| `Iru'palu` | the hereditary standing                                                   |
+| Morpheme   | Sense                                                                   |
+| ---------- | ----------------------------------------------------------------------- |
+| `Aû`       | of the throne and the realm, and reserved to it                         |
+| `Thâz`     | of rank and extent—the ordinary word for great, and so the unpaused one |
+| `Lem'`     | servant of                                                              |
+| `Nelgir`   | god                                                                     |
+| `Lekhau`   | sacred power                                                            |
+| `Halzi`    | heart, and the account a heart answers for                              |
+| `Wazu`     | pure                                                                    |
+| `Genzet`   | council                                                                 |
+| `Selat`    | province                                                                |
+| `Iru'palu` | the hereditary standing                                                 |
 
 Two words translate as "great" and they do not merge: `Aû` belongs to the throne
 and the realm, `Thâz` to rank and extent. Keeping them apart is what sets a high

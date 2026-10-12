@@ -70,6 +70,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Arnos - Ram Bourax - Bull Diplos - Twins Chelyx - Crab Thyron - Lion Korith - Maiden Stathmos - Claws Kentros - Scorpion Belos - Archer Tragyx - Goat Nalos - Water-pourer Opsar - Fishes
+Arnos—Ram Bourax—Bull Diplos—Twins Chelyx—Crab Thyron—Lion Korith—Maiden Stathmos—Claws Kentros—Scorpion Belos—Archer Tragyx—Goat Nalos—Water-pourer Opsar—Fishes
 
-Astrokyklos - Star Circle
+Astrokyklos—Star Circle

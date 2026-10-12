@@ -194,113 +194,113 @@ occurs to anyone that the god declined.
 
 ---
 
-## **1. Dreams – Mëi Sëi – The Bureau of Night Counsel**
+## **1. Dreams—Mëi Sëi—The Bureau of Night Counsel**
 
 - **Overseer**: **Mëivōr**, the Minister of Dreams.
 - **Role**: Processes dream-petitions, delivers omens, and files night-counsel reports. Mëi Sëi is the Tëngvōk Vān Lëi expression of [[lore-goddreams|The God of Dreams]]—the same entity known as **Bjartr** (Asguardian), Aethería (Aurèldían), Nal'ik Tz'uqal (Itzáni), and Nehle'ât (Khelâthi). In the Tānvüri framework, this pan-cultural deity is understood as a being who holds the Dream portfolio across multiple celestial administrations—a bureaucratic anomaly that the Tānthëi find deeply troubling.
 - **Lesser Spirits**:
-  - **Lëngvōr** – Clerks of Auspicious Dreams, who deliver favorable omens.
-  - **Hëkyök** – Clerks of Warning Dreams, who deliver cautionary visions. (Not malevolent—nightmares are simply urgent memos.)
+  - **Lëngvōr**—Clerks of Auspicious Dreams, who deliver favorable omens.
+  - **Hëkyök**—Clerks of Warning Dreams, who deliver cautionary visions. (Not malevolent—nightmares are simply urgent memos.)
 
 ---
 
-## **2. Death – Sīkvōk – The Ministry of Final Account**
+## **2. Death—Sīkvōk—The Ministry of Final Account**
 
 - **Overseer**: **Vënsōk Zhük**, the Chief Auditor of Souls.
 - **Role**: Upon death, the soul is _arrested and processed_. Vënsōk Zhük's ministry reviews the deceased's **moral ledger**—the lifetime account of spiritual credits and debits maintained by household monitors and local spirits. The soul is then sentenced: favorable balances lead to comfortable posting in the ancestor realm (from which one can advocate for living descendants); unfavorable balances lead to terms of spiritual labor in the lower realms, or dissolution. There is no mercy, no grace, no appeal to divine love. There is only the ledger.
 - **Lesser Spirits**:
-  - **Vāt Sīkzhük** – The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
-  - **Hëklëi** – Transit Spirits who escort souls from death to processing.
+  - **Vāt Sīkzhük**—The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
+  - **Hëklëi**—Transit Spirits who escort souls from death to processing.
 
 ---
 
-## **3. Storms – Rëkshüt Sëi – The Bureau of Thunder and Rain**
+## **3. Storms—Rëkshüt Sëi—The Bureau of Thunder and Rain**
 
 - **Overseer**: **Rëkgüng**, the Minister of Storms.
 - **Role**: Administers weather according to seasonal schedules and approved petitions. Rainfall is not random—it is _allocated_. Regions that have filed correct petitions and maintained proper spiritual balance receive their allotted rain. Regions in spiritual deficit may find their rain diverted. The Bureau also handles punitive storms—lightning strikes that enforce celestial displeasure.
 - **Lesser Spirits**:
-  - **Lëknëi** – The Lightning Clerk, who processes punitive strike orders.
-  - **Lüngzhük** – River Administrators, who manage waterways and coastal weather within their jurisdictions.
+  - **Lëknëi**—The Lightning Clerk, who processes punitive strike orders.
+  - **Lüngzhük**—River Administrators, who manage waterways and coastal weather within their jurisdictions.
 
 ---
 
-## **4. Order – Tëngvōk Dāk – The Supreme Administrative Court**
+## **4. Order—Tëngvōk Dāk—The Supreme Administrative Court**
 
 - **Overseer**: **Vëizhük Dāknëi**, the Jade Sovereign.
 - **Role**: The central coordinating bureau. Vëizhük does not create law or embody justice—she _administers_ the celestial system, resolving jurisdictional disputes between bureaus, processing inter-departmental appeals, and maintaining the master registry of all classified things. She is the most powerful being in the hierarchy after Tānlüng himself, but her power is entirely procedural.
 - **Lesser Spirits**:
-  - **Tëng Vüszhük** – Celestial Marshals, the enforcement arm that carries out directives from any bureau.
-  - **Zhīrvōr** – Star Registry Clerks, who maintain the celestial charts and calendrical records.
+  - **Tëng Vüszhük**—Celestial Marshals, the enforcement arm that carries out directives from any bureau.
+  - **Zhīrvōr**—Star Registry Clerks, who maintain the celestial charts and calendrical records.
 
 ---
 
-## **5. Knowledge – Thōk Sëi – The Archive of All Records**
+## **5. Knowledge—Thōk Sëi—The Archive of All Records**
 
 - **Overseer**: **Vëntōk**, the Keeper of the Celestial Archive.
 - **Role**: Maintains the master copy of all cosmic records—every classification, every distinction, every rule established during the Great Sorting. The Archive is considered the most sacred institution in the celestial hierarchy, because if a record is lost, the thing it describes becomes _unclassified_—and what is unclassified slides back toward the Hürnlëi. Scholars and the [[lore-tanthei|Tānthëi]] caste petition this bureau for insight.
 - **Lesser Spirits**:
-  - **Thōkgürt** – Archival Scribes who copy and preserve records.
-  - **Thōklëi** – Indexing Spirits who maintain the classification system itself.
+  - **Thōkgürt**—Archival Scribes who copy and preserve records.
+  - **Thōklëi**—Indexing Spirits who maintain the classification system itself.
 
 ---
 
-## **6. Prosperity – Fëklüt Sëi – The Bureau of Allocation**
+## **6. Prosperity—Fëklüt Sëi—The Bureau of Allocation**
 
 - **Overseer**: **Fëkvōr**, the Minister of Material Fortune.
 - **Role**: Manages the distribution of material prosperity according to the moral ledger. Wealth, in the Tānvüri view, is not earned through effort alone—it is _allocated_ by the bureau based on accumulated spiritual credit. A merchant who prospers does so because their household's ledger is favorable; one who fails has been placed in spiritual deficit. This theology conveniently reinforces the caste system and makes poverty a moral judgment.
 - **Lesser Spirits**:
-  - **Nōkvōr** – Field Allocation Spirits who distribute harvest quality to farming communities.
-  - **Fëklëi** – Coin Spirits who influence the flow of trade and commercial fortune.
+  - **Nōkvōr**—Field Allocation Spirits who distribute harvest quality to farming communities.
+  - **Fëklëi**—Coin Spirits who influence the flow of trade and commercial fortune.
 
 ---
 
-## **7. Fire – Höt Sëi – The Bureau of Transformation**
+## **7. Fire—Höt Sëi—The Bureau of Transformation**
 
 - **Overseer**: **Zhürhöt**, the Minister of Fire.
 - **Role**: Governs fire in all its classifications: domestic fire (the hearth), industrial fire (the forge), purifying fire (ritual burning), and destructive fire (wildfire, volcanic). The Bureau of Fire is also responsible for the _transmission of spirit documents_—since burning is how physical documents are converted into their spiritual form and transmitted to the celestial filing system.
 - **Lesser Spirits**:
-  - **Zātkür** – The Hearth Monitor, a household spirit assigned to every family who observes daily conduct and files annual reports to the Bureau of Final Account. Families make offerings to Zātkür not out of devotion but to _ensure favorable reports_.
-  - **Dākhöt Vōr** – Wildfire Spirits, the enforcement arm for fire-related punitive actions.
+  - **Zātkür**—The Hearth Monitor, a household spirit assigned to every family who observes daily conduct and files annual reports to the Bureau of Final Account. Families make offerings to Zātkür not out of devotion but to _ensure favorable reports_.
+  - **Dākhöt Vōr**—Wildfire Spirits, the enforcement arm for fire-related punitive actions.
 
 ---
 
-## **8. Continuity – Zāt Sëi – The Bureau of Persistence**
+## **8. Continuity—Zāt Sëi—The Bureau of Persistence**
 
 - **Overseer**: **Nëizāt**, the Minister of Continuity.
 - **Role**: Governs the _perpetuation_ of classified things—birth, growth, reproduction, repair. Nëizāt did not create the world (Tānlüng classified it) and did not create humanity (humanity emerged from the classification of life-forms). What Nëizāt does is ensure that the classifications _persist_—that like produces like, that categories remain stable across generations, that the sorted world does not drift back toward the Hürnlëi. When a child is born in the correct caste, when a crop grows true to its kind, when a shattered bone heals straight—that is Nëizāt's bureau at work.
 - **Lesser Spirits**:
-  - **Vüthëi** – The Instructor, a spirit associated with the transmission of knowledge and technique across generations. Where Nëizāt preserves biological continuity, Vüthëi preserves _cultural_ continuity.
-  - **Zhëkvōr** – Continuity Spirits who ensure that living things reproduce according to their classification.
+  - **Vüthëi**—The Instructor, a spirit associated with the transmission of knowledge and technique across generations. Where Nëizāt preserves biological continuity, Vüthëi preserves _cultural_ continuity.
+  - **Zhëkvōr**—Continuity Spirits who ensure that living things reproduce according to their classification.
 
 ---
 
-## **9. Entropy – Hürn Sëi – The Bureau of Unraveling**
+## **9. Entropy—Hürn Sëi—The Bureau of Unraveling**
 
 - **Overseer**: **Gürnhürn**, the Minister of Entropy.
 - **Role**: A deeply uncomfortable bureau—the administration acknowledges that some degree of unraveling is _necessary_ for cosmic function. Stagnation is as dangerous as chaos. Gürnhürn's bureau manages controlled dissolution: floods that renew soil, fires that clear deadwood, plagues that cull overpopulation. The bureau is kept under extremely tight restrictions by the Supreme Administrative Court, and its overseer is the most closely watched official in the hierarchy. The line between "managed entropy" and "the Hürnlëi breaking through" is thin.
 - **Lesser Spirits**:
-  - **Hürnvōr** – Controlled Dissolution Spirits, who execute authorized unraveling.
-  - **Yöklëi** – Trickster Spirits who inhabit the boundary between classified order and the Hürnlëi. They are technically under Gürnhürn's authority but are notoriously difficult to administer.
+  - **Hürnvōr**—Controlled Dissolution Spirits, who execute authorized unraveling.
+  - **Yöklëi**—Trickster Spirits who inhabit the boundary between classified order and the Hürnlëi. They are technically under Gürnhürn's authority but are notoriously difficult to administer.
 
 ---
 
-## **10. Transit – Dōk Sëi – The Bureau of Passage**
+## **10. Transit—Dōk Sëi—The Bureau of Passage**
 
 - **Overseer**: **Vōrdōk**, the Minister of Roads.
 - **Role**: Governs all movement between classified spaces—physical travel, spiritual transit, the passage of petitions between bureaus, the movement of souls after death, and the flow of cosmic energy between planes. Every road, river, and trade route in the empire is technically under Vōrdōk's jurisdiction, and travelers who make offerings at roadside shrines are filing transit petitions for safe passage.
 - **Lesser Spirits**:
-  - **Dōkzhīr** – Waymark Spirits who maintain the boundaries between classified regions.
-  - **Lüngvōr** – River Passage Spirits who govern safe transit on waterways.
+  - **Dōkzhīr**—Waymark Spirits who maintain the boundaries between classified regions.
+  - **Lüngvōr**—River Passage Spirits who govern safe transit on waterways.
 
 ---
 
-## **11. Dissolution – Nüs Sëi – The Bureau of Returns**
+## **11. Dissolution—Nüs Sëi—The Bureau of Returns**
 
 - **Overseer**: **Nüsvōr**, the Minister of Dissolution.
 - **Role**: Where the Bureau of Entropy manages _controlled unraveling_, the Bureau of Returns manages the _recycling_ of dissolved things back into the classification system. When a tree rots, when a body decomposes, when a dynasty falls—the component parts must be returned to their elemental categories for reuse. Without this bureau, the raw materials of existence would pile up in uncategorized heaps. Nüsvōr's work is unglamorous but essential.
 - **Lesser Spirits**:
-  - **Nüslëi** – Dissolution Spirits who break down expired classifications.
-  - **Zhëkvōr** – Renewal Spirits who feed recycled materials back into the Bureau of Continuity's processes.
+  - **Nüslëi**—Dissolution Spirits who break down expired classifications.
+  - **Zhëkvōr**—Renewal Spirits who feed recycled materials back into the Bureau of Continuity's processes.
 
 ---
 

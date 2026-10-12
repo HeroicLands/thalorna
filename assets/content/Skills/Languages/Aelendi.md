@@ -94,9 +94,9 @@ The Áelendan nonetheless write very little. The Kindred Pact is deliberately un
 
 ## Sample Phrases
 
-- **"Al-síren ek dûl-thân, al-kír ek dûl-síl."** – "Life flows from the deep dark, light rises from the deep-still." (Ancient creation phrase, perfectly balanced.)
-- **"Ek-thalíren en símat dûl-el."** – "The pact holds through all time." (Oath formula.)
-- **"Síres en thal-kír, síres en thal-dûn."** – "The people of light, the people of darkness." (Archaic dualistic reference.)
+- **"Al-síren ek dûl-thân, al-kír ek dûl-síl."**—"Life flows from the deep dark, light rises from the deep-still." (Ancient creation phrase, perfectly balanced.)
+- **"Ek-thalíren en símat dûl-el."**—"The pact holds through all time." (Oath formula.)
+- **"Síres en thal-kír, síres en thal-dûn."**—"The people of light, the people of darkness." (Archaic dualistic reference.)
 
 ## Naming Traditions
 

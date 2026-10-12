@@ -271,24 +271,24 @@ Ki’ichek verbs are inflected based on **tense**, **mood**, and **person**. The
 
 #### Tense Markers
 
-1.  **Present Tense**: Prefix _ka-_ (e.g., _ka-tz’aqun_ – “I go”)
-2.  **Past Tense**: Prefix _na-_ (e.g., _na-tz’aqun_ – “I went”)
-3.  **Future Tense**: Prefix _ta-_ (e.g., _ta-tz’aqun_ – “I will go”)
+1.  **Present Tense**: Prefix _ka-_ (e.g., _ka-tz’aqun_—“I go”)
+2.  **Past Tense**: Prefix _na-_ (e.g., _na-tz’aqun_—“I went”)
+3.  **Future Tense**: Prefix _ta-_ (e.g., _ta-tz’aqun_—“I will go”)
 
 #### Person Markers
 
-- **First Person Singular**: Suffix _-ix_ (e.g., _ka-tz’aqun-ix_ – “I go”)
-- **Second Person Singular**: Suffix _-al_ (e.g., _ka-tz’aqun-al_ – “You go”)
-- **Third Person Singular**: Suffix _-um_ (e.g., _ka-tz’aqun-um_ – “He/She/It goes”)
-- **First Person Plural**: Suffix _-in_ (e.g., _ka-tz’aqun-in_ – “We go”)
-- **Second Person Plural**: Suffix _-alil_ (e.g., _ka-tz’aqun-alil_ – “You all go”)
-- **Third Person Plural**: Suffix _-umil_ (e.g., _ka-tz’aqun-umil_ – “They go”)
+- **First Person Singular**: Suffix _-ix_ (e.g., _ka-tz’aqun-ix_—“I go”)
+- **Second Person Singular**: Suffix _-al_ (e.g., _ka-tz’aqun-al_—“You go”)
+- **Third Person Singular**: Suffix _-um_ (e.g., _ka-tz’aqun-um_—“He/She/It goes”)
+- **First Person Plural**: Suffix _-in_ (e.g., _ka-tz’aqun-in_—“We go”)
+- **Second Person Plural**: Suffix _-alil_ (e.g., _ka-tz’aqun-alil_—“You all go”)
+- **Third Person Plural**: Suffix _-umil_ (e.g., _ka-tz’aqun-umil_—“They go”)
 
 #### Mood Markers
 
 - **Indicative**: No additional markers (default mood)
-- **Imperative**: Suffix _-ka_ (e.g., _tz’aqun-ka_ – “Go!”)
-- **Subjunctive**: Prefix _ma-_ (e.g., _ma-tz’aqun_ – “May he go”) `
+- **Imperative**: Suffix _-ka_ (e.g., _tz’aqun-ka_—“Go!”)
+- **Subjunctive**: Prefix _ma-_ (e.g., _ma-tz’aqun_—“May he go”) `
 
 ### Sentence Structure
 
@@ -323,125 +323,125 @@ Ki’ichek nouns have six cases:
 
 ### Verbs
 
-- Tz’aqun - To go
+- Tz’aqun—To go
 
-- Ixan - To sleep
+- Ixan—To sleep
 
-- K’alix - To be
+- K’alix—To be
 
-- Ha’kan - To have
+- Ha’kan—To have
 
-- Tz’ukal - To want
+- Tz’ukal—To want
 
-- Ch’upan - To work
+- Ch’upan—To work
 
-- Tz’ulam - To play
+- Tz’ulam—To play
 
-- K’ayal - To see
+- K’ayal—To see
 
-- Nal’un - To eat
+- Nal’un—To eat
 
-- Tz’ik’an - To drink
+- Tz’ik’an—To drink
 
-- Ch’umun - To speak
+- Ch’umun—To speak
 
-- P’iqal - To build
+- P’iqal—To build
 
-- Xilan - To walk
+- Xilan—To walk
 
-- Ha’tzul - To swim
+- Ha’tzul—To swim
 
-- Ixkan - To think
+- Ixkan—To think
 
-- Tz’anum - To rest
+- Tz’anum—To rest
 
-- Nal’ik’an - To dream
+- Nal’ik’an—To dream
 
-- Pu’tal - To climb
+- Pu’tal—To climb
 
-- K’ay’an - To hear
+- K’ay’an—To hear
 
-- Ch’upalum - To carry
+- Ch’upalum—To carry
 
 ### Nouns
 
-- Paqul - Table
+- Paqul—Table
 
-- Ch’ixum - Chair
+- Ch’ixum—Chair
 
-- Tz’uku - Pillow
+- Tz’uku—Pillow
 
-- Ha’tan - Bowl
+- Ha’tan—Bowl
 
-- Xil’ik - Cup
+- Xil’ik—Cup
 
-- Tz’anul - Roof
+- Tz’anul—Roof
 
-- Ch’umatz - Door
+- Ch’umatz—Door
 
-- Tz’iqal - Blanket
+- Tz’iqal—Blanket
 
-- Nal’ix - Spoon
+- Nal’ix—Spoon
 
-- K’ulqat - Knife
+- K’ulqat—Knife
 
-- Tz’opil - Basket
+- Tz’opil—Basket
 
-- Pu’chal - Bed
+- Pu’chal—Bed
 
-- Ix’lan - Path/Trail
+- Ix’lan—Path/Trail
 
-- Ch’upal - Pot
+- Ch’upal—Pot
 
-- K’ayix - Firewood
+- K’ayix—Firewood
 
-- Ha’kin - Mirror
+- Ha’kin—Mirror
 
-- Tz’alix - Window
+- Tz’alix—Window
 
-- Pik’al - Plate
+- Pik’al—Plate
 
-- Xilum - Stool
+- Xilum—Stool
 
-- Ha’mal - Bucket
+- Ha’mal—Bucket
 
-- P’ilam - Glyph
+- P’ilam—Glyph
 
-- Xok’al - War, a campaign
+- Xok’al—War, a campaign
 
-- K’ayik - Flame
+- K’ayik—Flame
 
-- Kul - Seat (of a lord, and so of the city he rules from)
+- Kul—Seat (of a lord, and so of the city he rules from)
 
 ### Adjectives
 
 #### Size and Shape
 
-Ch’akal – Big, large Tz’ulun – Small, tiny Puqun – Round Tz’okil – Sharp Nalum – Flat Kul’uk – Tall Xi’tan – Short
+Ch’akal—Big, large; Tz’ulun—Small, tiny; Puqun—Round; Tz’okil—Sharp; Nalum—Flat; Kul’uk—Tall; Xi’tan—Short
 
 #### Color
 
-K’anul – Golden Ixchek – Silver Tz’umul – Red Xilik – Blue Ha’nak – Green Ch’upul – White P’uqan – Black
+K’anul—Golden; Ixchek—Silver; Tz’umul—Red; Xilik—Blue; Ha’nak—Green; Ch’upul—White; P’uqan—Black
 
 #### Texture
 
-P’ikun – Soft Ch’ukun – Rough Tz’ikin – Smooth Nalix – Sticky Kulix – Hard
+P’ikun—Soft; Ch’ukun—Rough; Tz’ikin—Smooth; Nalix—Sticky; Kulix—Hard
 
 #### Temperature
 
-Ha’kan – Cold K’ayich – Hot Tz’ikul – Warm Tz’umaq – Cool
+Ha’kan—Cold; K’ayich—Hot; Tz’ikul—Warm; Tz’umaq—Cool
 
 #### Quality
 
-Ix’alil – Beautiful Tz’upal – Ugly Ch’alix – Sacred, holy Nalich – Pure Ha’ikil – Dirty Kul’iq – Strong Pu’uch – Weak
+Ix’alil—Beautiful; Tz’upal—Ugly; Ch’alix—Sacred, holy; Nalich—Pure; Ha’ikil—Dirty; Kul’iq—Strong; Pu’uch—Weak
 
 #### Emotions
 
-Tz’ikan – Happy Ch’atal – Sad K’aychun – Angry Nal’al – Calm Ha’mal – Fearful
+Tz’ikan—Happy; Ch’atal—Sad; K’aychun—Angry; Nal’al—Calm; Ha’mal—Fearful
 
 #### State
 
-Tz’ik’al – Sick Nal’in – Healthy Pu’chal – Full Tz’alun – Empty Kul’al – Alive Tz’uqil – Dead
+Tz’ik’al—Sick; Nal’in—Healthy; Pu’chal—Full; Tz’alun—Empty; Kul’al—Alive; Tz’uqil—Dead
 
 ### Structure of the K’ich'chik Numerical System
 
@@ -458,33 +458,33 @@ Tz’ik’al – Sick Nal’in – Healthy Pu’chal – Full Tz’alun – Empt
 
 #### Base Numbers (1–19):
 
-- Jun – 1
-- Ka – 2
-- Ox – 3
-- Kan – 4
-- Ho – 5
-- Wak – 6
-- Wuqu – 7
-- Waxak – 8
-- Bolon – 9
-- Lahun – 10
-- Buluk – 11
-- Lajun – 12
-- Oxlahun – 13
-- Kanlahun – 14
-- Holahun – 15
-- Waklahun – 16
-- Wuqulahun – 17
-- Waxaklahun – 18
-- Bolonlahun – 19
+- Jun—1
+- Ka—2
+- Ox—3
+- Kan—4
+- Ho—5
+- Wak—6
+- Wuqu—7
+- Waxak—8
+- Bolon—9
+- Lahun—10
+- Buluk—11
+- Lajun—12
+- Oxlahun—13
+- Kanlahun—14
+- Holahun—15
+- Waklahun—16
+- Wuqulahun—17
+- Waxaklahun—18
+- Bolonlahun—19
 
 #### Higher Multiples:
 
-- K’aqil – Unit
-- Winal – 20
-- Bak’al – 400
-- Pik’al – 8,000
-- K’alab – 160,000
+- K’aqil—Unit
+- Winal—20
+- Bak’al—400
+- Pik’al—8,000
+- K’alab—160,000
 
 #### Combining Numbers
 

@@ -14,7 +14,7 @@ data: {packFolder: adventurersguides}
 
 The [[place-zumeleshrvr|Zumelesh]] runs north through a desert for a thousand miles and makes a country. Once a year it rises, drowns the fields, and goes down again leaving black silt on them, and everything the [[lore-khelathiclt|Khelâthi]] have built stands on that one fact. Their calendar counts the water. Their gods are argued about in terms of it. Their surveyors re-walk the fields every spring because the flood has taken the boundary stones away again, and the scribes who record what the surveyors find are the most powerful commoners in the world.
 
-The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] counts its rulers back farther than any neighboring realm, and the Khelâthi hold theirs to be the oldest civilization in the world. It has been conquered — by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach — and each time it has done the same thing: handed the conqueror a scribe, a temple appointment, and a throne name, and waited. Before long the conquerors are Khelâthi. In the crowded valley and delta, people speak of outlasting history as readily as surviving it.
+The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] counts its rulers back farther than any neighboring realm, and the Khelâthi hold theirs to be the oldest civilization in the world. It has been conquered—by hill-nomads, by sea-raiders, by a Vylarian occupation at the height of Vylaria's reach—and each time it has done the same thing: handed the conqueror a scribe, a temple appointment, and a throne name, and waited. Before long the conquerors are Khelâthi. In the crowded valley and delta, people speak of outlasting history as readily as surviving it.
 
 **The one thing to understand before anything else: in Aû'Khelâthu, a written promise can follow you anywhere.** A witnessed entry gives strangers a way to hold one another to their word, and an entry left open follows its maker toward death. Unwritten duties to kin and household matter just as deeply, though no court can read them back. Come looking for a lost record, a disputed witness, or a name missing from an archive, and you have an adventure before you ever leave the city.
 
@@ -80,11 +80,11 @@ The gods are also where the doctrine bites. They witness promises and weigh a pe
 Khelâthi magic is priestly, and the line between priest and mage barely exists. Sacred power is trained in temple schools, licensed by temple authority, and practised as an extension of liturgy rather than as a separate craft; [[lore-khelunulekha|Khelunu Lekhau]] is the tradition and the houses that keep it. The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in the empire and no prospect of one, and its factors are received with the courtesy owed to a foreign scholar who has misunderstood something fundamental.
 
 :::secret
-**For the GM:** The stranger rule is what makes organised crime here unlike organised crime anywhere else. A criminal family is nobody's doctrinal business — its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
+**For the GM:** The stranger rule is what makes organised crime here unlike organised crime anywhere else. A criminal family is nobody's doctrinal business—its obligations are held by kinship, as everyone's are. A body that takes in strangers and writes down what they owe is doing the one thing temples exist to do, and the priesthood answers that as heresy rather than theft. So growth is what condemns a syndicate, not violence or money, and its serious enemy is a priest rather than a magistrate. A party can be hired by either.
 :::
 
 :::secret
-**For the GM:** Because power is licensed, the interesting practitioners are the unlicensed ones, and the interesting crime is not casting but _entering_ — a rite performed without attestation, a working done for someone whose name is not in the record. A party that wants magical help outside the temples is buying from people whose whole risk is documentary.
+**For the GM:** Because power is licensed, the interesting practitioners are the unlicensed ones, and the interesting crime is not casting but _entering_—a rite performed without attestation, a working done for someone whose name is not in the record. A party that wants magical help outside the temples is buying from people whose whole risk is documentary.
 :::
 
 ## The Valley and Its Cities
@@ -111,7 +111,7 @@ The empire strikes no round coin. Its temples attest pieces of copper, silver an
 
 A house holds land, ancestors, and responsibility for the people attached to it. Most Khelâthi have no house name to claim; they give a personal name with a village or trade instead. A character's place in a house, temple, guild, or estate offers shelter and work, and may determine who answers for them when a promise goes wrong.
 
-A name is bestowed by a priest and is a sacred utterance, not a label. Many people carry a second name known only to themselves and the priesthood, held to confer protection — and striking a name from the record is among the heaviest punishments the empire knows. A house name is a legal claim to land, a shrine or a descent, and wearing one you have no claim to is fraud that the courts will hear.
+A name is bestowed by a priest and is a sacred utterance, not a label. Many people carry a second name known only to themselves and the priesthood, held to confer protection—and striking a name from the record is among the heaviest punishments the empire knows. A house name is a legal claim to land, a shrine or a descent, and wearing one you have no claim to is fraud that the courts will hear.
 
 Titles precede the personal name, always: Halzi'a Lersaîs, never Lersaîs Halzi'a. The ladder of rank is short enough to learn in a morning, and reversing the order is the commonest mistake in a foreigner's Khelâthi.
 
@@ -119,7 +119,7 @@ The question a Khelâthi asks about a literate stranger is never whether he can 
 
 The scribal school is the one reliable ladder out of the class you were born in, and every family in the valley knows it. A boy admitted at seven studies sacred texts, ritual, history, mathematics and medicine for years, and comes out belonging to the institution that actually runs the country. Military service raises a family over two or three generations; commerce takes longer. Most farmers' sons are farmers.
 
-Khelâthi women own property in their own names, initiate divorce, plead in court and practise medicine — a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uznêra]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles — a theology with direct legal consequences.
+Khelâthi women own property in their own names, initiate divorce, plead in court and practise medicine—a legal standing considerably wider than western Ankaris allows. The doctrine underneath it belongs to [[affiliation-uznera|Uznêra]], whose faith holds that creation requires a balanced partnership of masculine and feminine principles—a theology with direct legal consequences.
 
 A character might be a temple-trained scribe whose skill opens an archive, a boat pilot who knows which channels remain passable in the flood, a physician called to a deathbed, or a trader carrying a sealed letter between cities. Each has a reason to travel and people who expect them home.
 
@@ -177,7 +177,7 @@ Campaigns here start well from an open entry. Someone died with something unclos
 A campaign can also open on a field of the unread dead. A Vylarian envoy asks leave to visit [[place-chariotfld|the Chariot Field]] at Khelaga, where a legion's dead have lain beside the chariot corps since 377 AF; the court means to set a price on the visit, and somebody has to escort the envoy onto ground the boatmen will not moor beside.
 
 :::secret
-**For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened — and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
+**For the GM:** The sharpest tool this setting hands you is that the record is both authoritative and physical. It can be read, bought, forged, lost, burned, or simply not produced on the day. A party that understands this starts asking what the archive says happened—and the moment they do, every scribe, priest and clerk in the valley becomes a player rather than scenery.
 
 The second tool is release. A person owed an undertaking can refuse to release it, for free, forever. A dying enemy who will not release your patron is a more durable problem than a living one.
 :::
@@ -187,7 +187,7 @@ The second tool is release. A person owed an undertaking can refuse to release i
 Begin with the river, a city, and a claim on the party. Follow the questions that arise into the wider setting:
 
 - [[affiliation-empireakhlth|The Empire]] for the state, its history, its provinces, its army and its foreign relations
-- [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through — the ledgers, the closures, the weighing, and what happens to the widow and the orphan
+- [[lore-khelathiclt|The culture]] for the doctrine of attestation worked through—the ledgers, the closures, the weighing, and what happens to the widow and the orphan
 - [[affiliation-khelathpnthn|The pantheon]] for the gods, their domains and their temples
 - [[place-zumeleshrvr|The river]], [[place-aukhelathrgq|the region]] and the four classes of province for the geography
 - [[lore-khelathclndr|The calendar]]'s ages and the [[lore-garauu|king-list]] for the history, from the First Tablets to the House of Meqes

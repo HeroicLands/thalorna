@@ -40,4 +40,4 @@ Tharaset is a 37-year-old woman who stands 5'9" tall with a heavy build. She has
 
 Tharaset commands two hundred under contract out of [[place-anlaghzetun|Anlagh-Zetûn]]. She is [[lore-khelathiclt|Khelâthi]] and carries no house name, which is the ordinary case and not a slight: a soldier goes by her given name and her trade, and hers has been enough to be known by for a decade. She sends a dozen of her people to [[being-shezurzingat|Shezur Zin'Gatau]] every year for work she will not trust to a cheaper hand.
 
-Her reputation rests on the company coming back, and she spends on that past what a contract obliges — remounts, mail, a surgeon on the strength. Employers who read the itemised bill and employers who read the casualty list reach opposite conclusions about her, and she has stopped arguing with the first kind.
+Her reputation rests on the company coming back, and she spends on that past what a contract obliges—remounts, mail, a surgeon on the strength. Employers who read the itemised bill and employers who read the casualty list reach opposite conclusions about her, and she has stopped arguing with the first kind.

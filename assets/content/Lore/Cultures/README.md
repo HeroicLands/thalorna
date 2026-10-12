@@ -1,6 +1,6 @@
 # Writing a culture note
 
-A culture note answers _who are these people_ — not what they wear or where they
+A culture note answers _who are these people_—not what they wear or where they
 live, which belong to the region notes, but how they orient a life.
 
 `Khelathi.md` is the worked example. It was written by answering the questions
@@ -19,7 +19,7 @@ Answer all of them. A note that skips a section is a culture nobody can play.
 
 ### People
 
-4. Describe a male paragon — not the highest rank, but the most admired. What
+4. Describe a male paragon—not the highest rank, but the most admired. What
    are the characteristics of the role model?
 5. Describe a female paragon, on the same terms. She should be admirable in her
    own way rather than a lesser version of the male one.
@@ -38,7 +38,7 @@ Answer all of them. A note that skips a section is a culture nobody can play.
 10. Where does civil authority end and religious authority begin? Are they two
     institutions, one wearing two hats, or rivals? Who tries a case, who keeps
     the records, who collects, and who decides when those answers conflict?
-11. What happens after death, and — the question that actually matters — **what
+11. What happens after death, and—the question that actually matters—**what
     does that belief make people do on an ordinary Tuesday?** An afterlife that
     changes no behaviour is decoration. Say how it reaches ethics, law,
     inheritance, burial, and what a person spends money on.
@@ -49,7 +49,7 @@ Answer all of them. A note that skips a section is a culture nobody can play.
 
 13. What does a person owe, and what are they owed in return? State both sides
     plainly enough to recite.
-14. How are the weak treated — the homeless, the destitute, orphans, widows?
+14. How are the weak treated—the homeless, the destitute, orphans, widows?
     Does anyone take care of them, and is it a duty or a kindness?
 15. What happens to someone injured or incapacitated who cannot meet their
     obligations but goes on living? Who feeds them?
