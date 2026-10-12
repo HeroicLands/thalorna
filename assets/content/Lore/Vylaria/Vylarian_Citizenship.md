@@ -7,7 +7,7 @@ description: "Citizenship in the Vylarian Empire—a personal, earned, largely n
 tags: [reference, vylaria, imperial, law, society]
 ---
 
-A centurion puts the bargain to each year's recruits on the morning they swear the oath, in words something like these: "Look at the old soldiers by the gate, lads. Every one of them stood where you stand, fifteen years old in a borrowed tunic, and every one is a citizen of the Empire today because he lived through twenty years of this. His father was not a citizen. His sons will not be, unless they walk the same road. There is one door, and the army holds it open."
+A centurion puts the bargain to each year's recruits on the morning they swear the oath, in words something like these: "Look at the old soldiers by the gate, lads. Every one of them stood where you stand, fifteen years old in a borrowed tunic, and every one is a citizen of the Empire today because he lived through twenty years of this. His father was not a citizen. His sons will not be, unless they walk the same road. The army holds the door open, and the Senate holds the only other."
 
 The speech holds the whole system: the age, the term, the prize and the fact that it cannot be handed down. The rest of this note fills it in.
 
@@ -15,15 +15,15 @@ The speech holds the whole system: the age, the term, the prize and the fact tha
 
 The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are residents: subjects of the [[affiliation-vylarinmpr|Empire]], born to it, taxed by it and protected by it after a fashion, who hold no share in it. Citizens are the privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in Vylaria.
 
-Citizenship is a personal, earned and largely non-heritable status. A man is not a citizen because his father was, and with one exception he must win it himself and cannot pass it down. The exception is the **nobility**, who hold citizenship by station and transmit it heir to heir, which is part of what makes them the nobility. For everyone else the citizen body renews itself each generation out of those who have served.
+Citizenship is a personal, earned and largely non-heritable status. A man is not a citizen because his father was, and with one exception he must win it himself and cannot pass it down. The exception is the **nobility**, who hold citizenship by station and transmit it heir to heir, which is part of what makes them the nobility. For everyone else the citizen body renews itself each generation out of those who have served or been granted it. A citizen's **wife** holds the citizenship permanently, widowhood included. His **children** are honorary citizens while they are his dependents and not after; a son or daughter who leaves the household is a resident unless he wins the status for himself.
 
 ## Earning the Citizenship
 
-For the common-born there is, in practice, one road: **the legions**. The bargain is a statute of the second Augustar, Arkânamos, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
+For the common-born there are two roads: **the legions**, which is the road nearly everyone takes, and a **Senate grant**. The bargain is a statute of the second Augustar, Arkânamos, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
 
 The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Vylaria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the [[affiliation-vylrnmltry|legions]] is, among other things, a machine for making citizens.
 
-The status may also be **granted** for some signal service to the Empire: a great civic benefaction, a decisive piece of intelligence, an act of loyalty the throne wishes to reward. Such grants are rare and conspicuous. Nearly every new citizen is a veteran, and the citizen body as a whole is at its core an old soldiers' class.
+The Senate may grant the status to anyone, for some signal service to the Empire: a great civic benefaction, a decisive piece of intelligence, an act of loyalty the throne wishes to reward. A grantee is a citizen exactly as a discharged veteran is, and his wife and children stand as a veteran's do. Such grants are rare and conspicuous. Nearly every new citizen is a veteran, and the citizen body as a whole is at its core an old soldiers' class.
 
 ## The Rights of a Citizen
 

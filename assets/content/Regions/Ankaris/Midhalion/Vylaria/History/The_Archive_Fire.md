@@ -55,7 +55,7 @@ The cause was never established, and the question was never put in public. A hou
 
 ## The Guild
 
-The Imperial Scribal Guild had been chartered in the first century of the Empire to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in Ôrzâra begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those.
+The Imperial Scribal Guild had been chartered in the first century of the Empire to write the Empire's documents. After the fire the Empire gave it the custody of what was written next. The archive the Guild keeps in Ôrzâra begins in 318, and every original in it was written after the fire. The Guild keeps provincial archives at each chapterhouse as well, and many of the copies by which the Republic is now read were made from those. The Guild's charter is renewed by imperial edict in the eighty-third year of the present dynasty, about 489 AF.
 
 ## What It Left
 

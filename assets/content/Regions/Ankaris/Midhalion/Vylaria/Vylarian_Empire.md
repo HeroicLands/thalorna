@@ -31,7 +31,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a Senate grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes. A citizen's wife holds it for life, his children are honorary citizens only while his dependents, and it is not hereditary.
       - level: 5
         title: Equestrian
         description: >-
@@ -143,7 +143,7 @@ Society is stratified, and the ladder is short to state:
 
 - **The senatorial families** hold vast estates and run politics through alliance, marriage and obligation.
 - **The equestrian order** below them is the wealthy merchants and the military officers.
-- **The plebeian citizens** are the free citizen body, most of them veterans of the legions (see [[doc-vylrnctznshp|Vylarian Citizenship]]).
+- **The citizens** are the free citizen body, most of them veterans of the legions or their wives (see [[doc-vylrnctznshp|Vylarian Citizenship]]).
 - **Slaves and indentured servants** make up a substantial population at the bottom.
 
 Mobility exists and is limited, and the gap between the senatorial elite and the common people widens each generation.
@@ -169,7 +169,7 @@ The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the state religion, and [
 
 Vylaria is remarkably tolerant of other faiths and remarkably fickle about them. The empire has always absorbed the religions of the peoples it conquered, and the capital is a bazaar of competing cults, temples and movements. Aurèldían temples dominate the old city. [[affiliation-ashanpnthn|Āsháian]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian]] warrior-cults draw military officers, and mystery traditions from [[place-helionis|Heliónis]] offer initiation to a curious aristocracy. New movements arrive every season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool: backing a temple signals allegiance, builds a network and undercuts a rival.
 
-The **Imperial Cult**, the veneration of deceased emperors as divine or half-divine, is the one institution that cuts across all of this. Temples to deified emperors stand in every city, the Emperor himself holds the office of Pontifex Maximus, and taking part in the cult is a religious act and a declaration of political loyalty at once. It binds subjects of every faith to one ritual of allegiance.
+The **Imperial Cult**, the veneration of deceased emperors as divine or half-divine, is the one institution that cuts across all of this. Temples to deified emperors stand in every city, the Emperor himself holds the office of Pontifex Maximus, a Senate-named _hôlzathôs_ administers the cult as his officer and hears the oaths sworn in court, and taking part in the cult is a religious act and a declaration of political loyalty at once. It binds subjects of every faith to one ritual of allegiance.
 
 So a senator may worship Árdavon in public, consult an Āsháian fire-priest in private, and sit through a Helionite mystery initiation for the connections. The Ordo Arcanis watches this spiritual marketplace with deep unease, because religious variety opens doors for magical traditions it cannot control.
 
@@ -191,9 +191,9 @@ A census clerk of the Scribal Guild, asked how large the empire is, answers in t
 | [[affiliation-provnchyln\|Hylen]]     | about 7,000,000             | the breadbasket                                |
 | [[affiliation-provincvld\|Sâlkhâlon]] | about 5,000,000             | the maritime province                          |
 | [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
-| [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | semi-autonomous city-states                    |
+| [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | practically independent; a province on paper   |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million with Heliónis. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million if Heliónis, a province on paper, is counted. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 
@@ -216,7 +216,7 @@ The long shadow of empire defines Vylaria's dealings with its neighbors.
 
 - **[[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]** were provinces once and keep a strong Vylarian cultural stamp, and both guard their independence fiercely.
 - **[[affiliation-cnfdrtntrzlnstts|Tarûzel]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Tarûzelian merchant guilds are pushing hard into markets the empire once dominated.
-- **[[place-helionis|Heliónis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Heliónis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even as imperial authority there fades.
+- **[[place-helionis|Heliónis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Heliónis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even though imperial authority there survives only on paper.
 - **[[place-vrystwald|Vrystwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
 - **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
 

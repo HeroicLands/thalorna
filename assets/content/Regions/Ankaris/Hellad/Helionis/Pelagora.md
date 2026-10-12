@@ -109,7 +109,7 @@ Pelagora is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]]. It
 
 ## Commerce and Currency
 
-Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. Imperial taxation is administered by the [[affiliation-curiafscls|Curia Fiscalis]] and revenues flow to the [[affiliation-aerarimmpr|Aerarium Imperii]]. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
+Pelagora uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octus) as its standard currency, with full access to the paper-script system through the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] moneylenders chartered under the [[affiliation-magnumclgm|Magnum Collegium]]. The [[affiliation-curiafscls|Curia Fiscalis]] still claims the cities' taxes on paper, and the cities do not pay them. See [[lore-vylrncrncy|Vylarian Currency]] for the full system.
 
 ## See Also
 

@@ -68,7 +68,7 @@ WHERE type = 'affiliation'
 ORDER BY data.population DESC, name.full COLLATE NOCASE
 ```
 
-The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Argo and Bit under imperial standards, and imperial taxation runs through the [[affiliation-curiafscls|Curia Fiscalis]]. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
+The [[affiliation-vylarinmpr|Vylarian Empire]] is the other power in the room. The Republic conquered the cities between 335 and 312 BF ([[lore-helionscnq|The Conquest of Heliónis]]), and Heliónis still keeps its formal ties to the empire: the cities spend [[lore-vylrncrncy|Vylarian coin]], Helionite mints strike Argo and Bit under imperial standards, and the [[affiliation-curiafscls|Curia Fiscalis]] still claims their taxes on paper, which the cities do not pay. As the empire declines, the cities have taken back their practical independence. The College describes the relationship as that of a grown child to an aging parent: respectful, complicated and occasionally resentful.
 
 ## The Agora and the Dinner Table
 

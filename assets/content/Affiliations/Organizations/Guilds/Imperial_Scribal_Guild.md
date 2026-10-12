@@ -57,7 +57,7 @@ A Guild examiner opens every final oral the same way. She lays an imperial edict
 
 The Imperial Scribal Guild is the institution that makes Vylaria possible. The [[affiliation-vylarinmpr|Empire]] reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between Ôrzâra and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
 
-Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. A charter granted by imperial edict in the eighty-third year of the present dynasty set it up, and the charter has been renewed and expanded twice since. The Guild is a founding-era member of the [[affiliation-magnumclgm|Magnum Collegium]], and its High Hand holds an ex officio seat on the Collegium's Curia Collegiorum.
+Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. The Guild was chartered in the Empire's first century, has held custody of the imperial archive since 318, and was re-chartered by imperial edict in the eighty-third year of the present dynasty (about 489 AF); the charter has been renewed and expanded twice since. The Guild is a founding member of the [[affiliation-magnumclgm|Magnum Collegium]], and its High Hand holds an ex officio seat on the Collegium's Curia Collegiorum.
 
 If the [[affiliation-ordoarcanis|Ordo Arcanis]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Ordo mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
@@ -81,7 +81,7 @@ The current High Hand is **Iulia Verronius**, the seventh of her line to hold se
 
 ## Notable Members
 
-- [[being-ailemkrmys|Ailêmâ Keriamyes]]—a Guildmaster of long standing and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
+- [[being-ailemkrmys|Ailêmâ Keriamyes]]—a Guildmaster since the age of twenty-two and one of the finest authentication experts in the empire, consulted on standards and forgery detection at the highest levels.
 - **Iulia Verronius**—the High Hand, presiding over the Guild's response to growing pressure from imperial authorities to streamline procedures the Guild considers essential.
 
 ## Doctrine and Practice
