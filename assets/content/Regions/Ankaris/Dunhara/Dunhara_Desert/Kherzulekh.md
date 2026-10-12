@@ -10,6 +10,7 @@ data:
   lore: []
   parents: [dunhardsrtrgn]
   population: 400
+  government: kherzlkhcmp
   packFolder: dunharadesert
 ---
 

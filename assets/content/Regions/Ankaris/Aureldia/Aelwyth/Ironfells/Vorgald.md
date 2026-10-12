@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "A Khazári hold in the eastern heights of the Ironfells—known to exist, effectively impossible to reach, and holding no relationship with any realm on Aelwyth."
 tags: [sacred, mountain]
-data: {demonym: null, lore: [], parents: [ironfells], population: 2000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [ironfells]
+  population: 2000
+  government: vrgldhld
+  packFolder: aelwyth
 ---
 
 **Vorgald** is a hold of the [[lore-flkkhazar|Khazári]] in the eastern heights of the

@@ -10,6 +10,7 @@ data:
   lore: [flksinale]
   parents: [silvrfrsts]
   population: 120
+  government: nclvlrss
   packFolder: elavendre
 ---
 

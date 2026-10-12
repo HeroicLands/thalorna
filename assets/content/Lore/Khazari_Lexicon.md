@@ -1685,6 +1685,8 @@ a name older than the rules is listed among the words older than the rules in [[
 | The Cutting of Vorgald           | [[lore-vorgaldcut\|The Cutting of Vorgald]]         | `gloss`   | —                                    |
 | The Khazári Reach Aelwyth        | [[lore-vorgaldcut\|The Cutting of Vorgald]]         | `gloss`   | —                                    |
 | Vorgald                          | [[place-vorgald\|Vorgald]]                          | `human`   | —                                    |
+| Vorgald Hold                     | [[affiliation-vrgldhld\|Vorgald Hold]]              | `human`   | —                                    |
+| Varíg                            | [[affiliation-vrgldhld\|Vorgald Hold]]              | `khazari` | `v-r-g` adjective                    |
 | Hudhakal                         | [[place-barakth\|Hudhakal]]                         | `khazari` | `dh-k-l` place                       |
 | Hulavath                         | [[lore-valdum\|Hulavath]]                           | `khazari` | `l-v-th` place                       |
 | The Lost City of Hulavath        | [[lore-valdum\|Hulavath]]                           | `gloss`   | —                                    |

@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The eastern hills of Élavendre—drover country and the kingdom's land march, where Varokh and Grukar raiding out of the northeast is a fact of every year and the hill towns are built accordingly."
 tags: [region, hill, frontier]
-data: {demonym: null, lore: [], parents: [elavendre], population: 240000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [elavendre]
+  population: 240000
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Brynavar**—_the hill country_—is Élavendre's eastern march: some two hundred and forty thousand

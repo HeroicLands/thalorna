@@ -14,6 +14,7 @@ data:
   routes:
     - {to: frithhaven, bearing: W, mode: land, days: 2, terrain: [track, forest]}
     - {to: skathburg, bearing: SE, mode: land, days: 5, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

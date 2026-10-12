@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Harbor Town"
 tags: [port, town]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 4000, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 4000
+  government: mgstrcythls
+  packFolder: byzaria
 ---
 
 If you want your cargo inspected, Thálassos is the wrong harbor; if you want it left alone, it is the right one. The town's magistrate keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants, an arrangement that suits independent traders and small-scale smugglers equally well.

@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [garanlghtslt]
   population: 14000
+  government: selatgrnlght
   packFolder: regkhsett
 ---
 

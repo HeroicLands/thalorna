@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Craft City"
 tags: [city, craft]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 30000, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 30000
+  government: cncltwlvbzrs
+  packFolder: byzaria
 ---
 
 "Your master's name opens the door," a guild examiner of Byzaris tells a journeyman who has arrived with a letter of introduction, "and what you made opens the workshop."

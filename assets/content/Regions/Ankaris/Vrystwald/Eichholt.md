@@ -14,6 +14,7 @@ data:
   routes:
     - {to: edrhaven, bearing: W, mode: land, days: 2, terrain: [track, forest]}
     - {to: thalgrund, bearing: E, mode: land, days: 3, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

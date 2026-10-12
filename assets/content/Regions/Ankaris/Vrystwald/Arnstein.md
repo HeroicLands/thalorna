@@ -14,6 +14,7 @@ data:
   routes:
     - {to: falkensten, bearing: W, mode: land, days: 3, terrain: [track, forest]}
     - {to: edrhaven, bearing: E, mode: land, days: 5, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

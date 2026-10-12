@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Deep Forest Settlement"
 tags: [settlement, forest]
-data: {demonym: null, lore: [bearttm], parents: [vethwald], population: 400, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: [bearttm]
+  parents: [vethwald]
+  population: 400
+  government: vrystwldvlgcncl
+  packFolder: vrystwald
 ---
 
 ## Overview

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Port City"
 tags: [port, city]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 25000, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 25000
+  government: mrchntcnsrtchr
+  packFolder: byzaria
 ---
 
 "Ask the shipper what is in the crate," a Chrysamar captain tells a new mate. "Ask me where it is going and when." The harborfront behind him is a wall of warehouses, and most of them belong to merchant consortiums that operate independently of the strict governance of the League's larger cities.

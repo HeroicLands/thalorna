@@ -14,6 +14,7 @@ data:
   routes:
     - {to: arnstein, bearing: W, mode: land, days: 5, terrain: [track, forest]}
     - {to: eichholt, bearing: E, mode: land, days: 2, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

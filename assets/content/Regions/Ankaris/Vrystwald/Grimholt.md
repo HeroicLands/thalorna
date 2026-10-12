@@ -10,6 +10,7 @@ data:
   lore: [sturgeonttm]
   parents: [vrystwldrvrs]
   population: 450
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

@@ -14,6 +14,7 @@ data:
   routes:
     - {to: thornryth, bearing: W, mode: land, days: 2, terrain: [track, forest]}
     - {to: frithhaven, bearing: SE, mode: land, days: 3, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

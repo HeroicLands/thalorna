@@ -14,6 +14,7 @@ data:
   routes:
     - {to: hildholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}
     - {to: thrastein, bearing: E, mode: land, days: 3, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

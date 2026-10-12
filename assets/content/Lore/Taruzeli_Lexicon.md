@@ -426,6 +426,7 @@ Every name the setting gives a person, place, polity or thing of the Tarûzelian
 | **Dapûman Jakûdûnî**                   | [[being-dpmnjkdn\|Dapûman Jakûdûnî]]                                 | `taruzeli`    | `dapûm-` + `-an` + `jakûd-` + `-ûnî`   |
 | **Genîra Bibûdî**                      | [[being-gnrbbd\|Genîra Bibûdî]]                                      | `taruzeli`    | `genîr-` + `-a` + `bibûd-` + `-î`      |
 | **Hitûsel**                            | [[place-hitusel\|Hitûsel]]                                           | `taruzeli`    | `hitûs-` + `-el`                       |
+| **Council of Hitûsel**                 | [[affiliation-cnclhtsl\|Council of Hitûsel]]                         | `translation` | —                                      |
 | **Hushâdûya Qusâdûnî**                 | [[being-hshdyqsdn\|Hushâdûya Qusâdûnî]]                              | `taruzeli`    | `hushâd-` + `-ûya` + `qusâd-` + `-ûnî` |
 | **Jakûdûnî**                           | [[being-zbzmjkdn\|Zabûzum Jakûdûnî]]                                 | `taruzeli`    | `jakûd-` + `-ûnî`                      |
 | **Jirâman Ashûrûnî**                   | [[being-jrmnashrn\|Jirâman Ashûrûnî]]                                | `taruzeli`    | `jirâm-` + `-an` + `ashûr-` + `-ûnî`   |
@@ -439,6 +440,7 @@ Every name the setting gives a person, place, polity or thing of the Tarûzelian
 | **Mugîlûsh Hitûsûnî**                  | [[being-mglshhtsn\|Mugîlûsh Hitûsûnî]]                               | `taruzeli`    | `mugîl-` + `-ûsh` + `hitûs-` + `-ûnî`  |
 | **Nibûran Fusânûnî**                   | [[being-nbrnfsnn\|Nibûran Fusânûnî]]                                 | `taruzeli`    | `nibûr-` + `-an` + `fusân-` + `-ûnî`   |
 | **Pashînar**                           | [[place-pashinar\|Pashînar]]                                         | `taruzeli`    | `pashîn-` + `-ar`                      |
+| **Guild Board of Pashînar**            | [[affiliation-gldbrdpshnr\|Guild Board of Pashînar]]                 | `translation` | —                                      |
 | **Pazâsan Khidîzûm**                   | [[being-pzsnkhdzm\|Pazâsan Khidîzûm]]                                | `taruzeli`    | `pazâs-` + `-an` + `khidîz-` + `-ûm`   |
 | **Pazîrûsh Ilammûnî**                  | [[being-pzrshilmmn\|Pazîrûsh Ilammûnî]]                              | `taruzeli`    | `pazîr-` + `-ûsh` + `ilamm-` + `-ûnî`  |
 | **Pushûtan Qizîkûnî**                  | [[being-pshtnqzkn\|Pushûtan Qizîkûnî]]                               | `taruzeli`    | `pushût-` + `-an` + `qizîk-` + `-ûnî`  |
@@ -450,7 +452,9 @@ Every name the setting gives a person, place, polity or thing of the Tarûzelian
 | **Rusâkûnî**                           | [[being-blgnrskn\|Belgina Rusâkûnî]]                                 | `taruzeli`    | `rusâk-` + `-ûnî`                      |
 | **Sazûmun**                            | [[affiliation-sazumun\|Sazûmun]], [[place-sazumun2\|Sazûmun]]        | `taruzeli`    | `sazûm-` + `-un`                       |
 | **Shamûlar**                           | [[place-shamular\|Shamûlar]]                                         | `taruzeli`    | `shamûl-` + `-ar`                      |
+| **Guild Board of Shamûlar**            | [[affiliation-gldbrdshmlr\|Guild Board of Shamûlar]]                 | `translation` | —                                      |
 | **Sharîmun**                           | [[place-sharimun\|Sharîmun]]                                         | `taruzeli`    | `sharîm-` + `-un`                      |
+| **Guild Board of Sharîmun**            | [[affiliation-gldbrdshrmn\|Guild Board of Sharîmun]]                 | `translation` | —                                      |
 | **Sharrûsh Khamîsûnî**                 | [[being-shrrshkhmsn\|Sharrûsh Khamîsûnî]]                            | `taruzeli`    | `sharr-` + `-ûsh` + `khamîs-` + `-ûnî` |
 | **Tamzîr Shoals**                      | [[place-tamzirshoals\|Tamzîr Shoals]]                                | `translation` | —                                      |
 | **Tanâdan Helârûnî**                   | [[being-tndnhlrn\|Tanâdan Helârûnî]]                                 | `taruzeli`    | `tanâd-` + `-an` + `helâr-` + `-ûnî`   |

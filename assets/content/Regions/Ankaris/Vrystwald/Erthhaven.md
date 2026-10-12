@@ -12,6 +12,7 @@ data:
   population: 410
   borders: [{to: thrastein, bearing: W}]
   routes: [{to: thrastein, bearing: W, mode: land, days: 2, terrain: [track, forest]}]
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

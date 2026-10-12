@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Coastal Town"
 tags: [town, coastal]
-data: {demonym: null, lore: [], parents: [glanmor], population: 9000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [glanmor]
+  population: 9000
+  government: twncnclprtaln
+  packFolder: elavendre
 ---
 
 ## Overview

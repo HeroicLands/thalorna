@@ -656,9 +656,11 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Byzarian League**                              | [[affiliation-byzarianlg\|Byzarian League]]                                                | `translation` | —                                           |
 | **Byzarian Word List**                           | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
 | **Byzaris**                                      | [[place-byzaris\|Byzaris]]                                                                 | `byzarian`    | —                                           |
+| **Council of Twelve of Byzaris**                 | [[affiliation-cncltwlvbzrs\|Council of Twelve of Byzaris]]                                 | `translation` | —                                           |
 | **Chânkhor Ghârîthôs**                           | [[being-chnkhrghrths\|Chânkhor Ghârîthôs]]                                                 | `helonic`     | —                                           |
 | **Chánnâon Hàbîlês**                             | [[being-chananhbls\|Chánnâon Hàbîlês]]                                                     | `helonic`     | —                                           |
 | **Chrysamar**                                    | [[place-chrysamar\|Chrysamar]]                                                             | `byzarian`    | —                                           |
+| **Merchant Consortia of Chrysamar**              | [[affiliation-mrchntcnsrtchr\|Merchant Consortia of Chrysamar]]                            | `translation` | —                                           |
 | **Chrysántos**                                   | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | —                                           |
 | **City-State of Kostaros**                       | [[affiliation-kostaros2\|Kostaros]]                                                        | `translation` | —                                           |
 | **City-States of Heliónis**                      | [[affiliation-ctysttshlns\|City-States of Heliónis]]                                       | `translation` | —                                           |
@@ -718,6 +720,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Knight of the Black Flame**                    | [[being-drzhvzhnr\|Drazha Vezhnûr, Knight of the Black Flame]]                             | `translation` | —                                           |
 | **Korinthea**                                    | [[affiliation-korinthea\|Korinthea]], [[place-korinthea2\|Korinthea]]                      | `helonic`     | —                                           |
 | **Kostaros**                                     | [[place-kostaros\|Kostaros]], [[affiliation-kostaros2\|Kostaros]]                          | `byzarian`    | —                                           |
+| **Council of Kostaros Harbor**                   | [[affiliation-cnclkstrsh\|Council of Kostaros Harbor]]                                     | `translation` | —                                           |
 | **Kostaros District**                            | [[place-kostarosdst\|Kostaros District]]                                                   | `translation` | —                                           |
 | **Kourkásios**                                   | [[being-arkhekrkss\|Arkhêa Kourkásios]], [[being-kalidkrkss\|Kalída Kourkásios]]           | `byzarian`    | —                                           |
 | **Krênéze**                                      | [[being-krnzmrksns\|Krênéze Markêsianos]]                                                  | `byzarian`    | `krên-` + `-éze`                            |
@@ -773,6 +776,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Sampsiôn**                                     | [[being-alykosmpsn\|Alýkos Sampsiôn]], [[being-damklsmpsn\|Damáklios Sampsiôn]]            | `byzarian`    | —                                           |
 | **Sehéla**                                       | [[place-sehela\|Sehéla]]                                                                   | `bethuan`     | —                                           |
 | **Selímara**                                     | [[place-selimara\|Selímara]]                                                               | `byzarian`    | —                                           |
+| **Council of Selímara**                          | [[affiliation-cnclslmr\|Council of Selímara]]                                              | `translation` | —                                           |
 | **Siderákit**                                    | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | `sider-` + `-ákit`                          |
 | **Sôtharion Khalîthôn**                          | [[being-sthrnkhlthn\|Sôtharion Khalîthôn]]                                                 | `helonic`     | —                                           |
 | **Southern March**                               | [[place-southrnmrch\|Southern March]]                                                      | `translation` | —                                           |
@@ -785,6 +789,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Tamîtha Jâdurîon**                             | [[being-tamithjdrn\|Tamîtha Jâdurîon]]                                                     | `helonic`     | —                                           |
 | **Tázîtha Ibârîdês**                             | [[being-tazithbrds\|Tázîtha Ibârîdês]]                                                     | `helonic`     | —                                           |
 | **Thálassos**                                    | [[place-thalassos\|Thálassos]]                                                             | `byzarian`    | —                                           |
+| **Magistracy of Thálassos**                      | [[affiliation-mgstrcythls\|Magistracy of Thálassos]]                                       | `translation` | —                                           |
 | **The Academy**                                  | [[affiliation-panepistmm\|Panepistemium]]                                                  | `translation` | —                                           |
 | **The Afternoon on the Plain**                   | [[lore-heladturnedwrk\|The Afternoon on the Plain]]                                        | `translation` | —                                           |
 | **The Bethûan Fleet**                            | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                                           |

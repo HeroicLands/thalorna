@@ -5,7 +5,13 @@ type: place
 subType: region
 description: The Tarûzelian archipelago in the eastern Vylarian Sea, off the coast of the Kingdom of Amradad—five merchant city-states of the Confederation of Tarûzelian States, their islands of harbors, hills and scrub, and the channels between them.
 tags: [region]
-data: {demonym: null, lore: [], parents: [midhalnrgn], population: 12000000, packFolder: taruzel}
+data:
+  demonym: null
+  lore: []
+  parents: [midhalnrgn]
+  population: 12000000
+  government: cnfdrtntrzlnstts
+  packFolder: taruzel
 
 # terran_analog: ""
 ---

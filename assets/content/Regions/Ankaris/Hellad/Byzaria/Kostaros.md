@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Port Town"
 tags: [port, town, draft]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 6000, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 6000
+  government: cnclkstrsh
+  packFolder: byzaria
 ---
 
 ## Overview

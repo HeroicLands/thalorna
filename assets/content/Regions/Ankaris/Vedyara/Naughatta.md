@@ -11,6 +11,7 @@ data:
   parents: [vedyarargn, sarvadarivr]
   population: 1600
   market: 3
+  government: srvdmthjnpd
   packFolder: vedyara
 ---
 

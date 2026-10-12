@@ -10,6 +10,7 @@ data:
   lore: [flksinale]
   parents: [alndntrblnds]
   population: 70
+  government: nclvthlss
   packFolder: elavendre
 ---
 

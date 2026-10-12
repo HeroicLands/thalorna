@@ -14,6 +14,7 @@ data:
   routes:
     - {to: vethholt, bearing: NW, mode: land, days: 5, terrain: [track, forest]}
     - {to: wulfstein, bearing: SE, mode: land, days: 2, terrain: [track, forest]}
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

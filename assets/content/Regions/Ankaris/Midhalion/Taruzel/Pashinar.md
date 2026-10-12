@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Trading Town"
 tags: [town, trading]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 12000, packFolder: taruzel}
+data:
+  demonym: null
+  lore: []
+  parents: [taruzelrgn]
+  population: 12000
+  government: gldbrdpshnr
+  packFolder: taruzel
 ---
 
 ## Overview

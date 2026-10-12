@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The largest of the copying towns of the middle Sarvada, whose Scribes' Guild sets the rate for a finished page across the subcontinent."
 tags: [town, river, market]
-data: {demonym: null, lore: [], parents: [vedyarargn], population: 4200, packFolder: vedyara}
+data:
+  demonym: null
+  lore: []
+  parents: [vedyarargn]
+  population: 4200
+  government: mddlsrvdjnpd
+  packFolder: vedyara
 ---
 
 Bring a commission to a **Dharmapur** copyist and the first figure you hear is the guild's rate for a finished page; she has no other to quote. Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read, and no other place in [[place-vedyarargn|Vedyara]] outside a city comes near it.

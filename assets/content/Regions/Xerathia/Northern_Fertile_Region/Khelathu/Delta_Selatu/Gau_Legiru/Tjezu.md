@@ -11,6 +11,7 @@ data:
   lore: []
   parents: [gaulegirunome]
   population: 12000
+  government: selatgaulegr
   packFolder: regkhsett
 ---
 

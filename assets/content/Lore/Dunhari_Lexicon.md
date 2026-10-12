@@ -270,6 +270,8 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Keeper of the Marked Stones**           | [[affiliation-strmcltsbhrms\|Keeper of the Marked Stones]]           | `translation` | —                   |
 | **Keeper of the Wells**                   | [[affiliation-kngdmmrdd\|Keeper of the Wells]]                       | `translation` | —                   |
 | **Kherzûlekh**                            | [[place-kherzulekh\|Kherzûlekh]]                                     | `dunhari`     | `kherzûl-` + `-ekh` |
+| **Kherzûlekh Camp**                       | [[affiliation-kherzlkhcmp\|Kherzûlekh Camp]]                         | `translation` | —                   |
+| **Camper**                                | [[affiliation-kherzlkhcmp\|Kherzûlekh Camp]]                         | `translation` | —                   |
 | **Kingdom of Amradad**                    | [[affiliation-kngdmmrdd\|Kingdom of Amradad]]                        | `translation` | —                   |
 | **Kinless**                               | [[affiliation-dunhartrbs\|Kinless]]                                  | `translation` | —                   |
 | **Kinsman**                               | [[affiliation-dunhartrbs\|Kinsman]]                                  | `translation` | —                   |
@@ -280,6 +282,8 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Notable**                               | [[affiliation-kngdmmrdd\|Notable]]                                   | `translation` | —                   |
 | **Nûzgôr**                                | [[affiliation-kngdmmrdd\|Nûzgôr]]                                    | `dunhari`     | `nûzg-` + `-ôr`     |
 | **Oasis of Tevrazekh**                    | [[place-oasistvrzkh\|Oasis of Tevrazekh]]                            | `translation` | —                   |
+| **Tribe of Tevrazekh**                    | [[affiliation-trbtvrzkh\|Tribe of Tevrazekh]]                        | `translation` | —                   |
+| **Tribesman**                             | [[affiliation-trbtvrzkh\|Tribe of Tevrazekh]]                        | `translation` | —                   |
 | **Officer of the Court**                  | [[affiliation-kngdmmrdd\|Officer of the Court]]                      | `translation` | —                   |
 | **Outcast**                               | [[affiliation-kngdmmrdd\|Outcast]]                                   | `translation` | —                   |
 | **Pâresak**                               | [[being-firavdprsk\|Pâresak]]                                        | `dunhari`     | —                   |

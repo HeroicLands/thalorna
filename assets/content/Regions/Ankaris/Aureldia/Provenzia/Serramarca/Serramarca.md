@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The Tarvénian frontier—cold mountains that close all winter, a raiding season that governs every calendar, and a million people who have made a way of life out of a war nobody declares."
 tags: [region, frontier, mountain]
-data: {demonym: null, lore: [], parents: [provenzrgn], population: 1000000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [provenzrgn]
+  population: 1000000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Sèrramarca**—_the mountain march_.

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Trading Town"
 tags: [town, trading, draft]
-data: {demonym: null, lore: [], parents: [byzariargn], population: 5000, packFolder: byzaria}
+data:
+  demonym: null
+  lore: []
+  parents: [byzariargn]
+  population: 5000
+  government: cnclslmr
+  packFolder: byzaria
 ---
 
 ## Overview

@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Woodland Village"
 tags: [village, woodland]
-data: {demonym: null, lore: [boarttm], parents: [vethwald], population: 250, packFolder: vrystwald}
+data:
+  demonym: null
+  lore: [boarttm]
+  parents: [vethwald]
+  population: 250
+  government: vrystwldvlgcncl
+  packFolder: vrystwald
 ---
 
 ## Overview

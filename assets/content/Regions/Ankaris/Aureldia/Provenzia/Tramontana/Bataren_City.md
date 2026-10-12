@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Provènzia's ocean port on the northwestern gulf—an Élavendren city under Provenzian rule, trading north rather than south, and the site of a slow and unresolved quarrel over land, rights and tradition."
 tags: [city, port, coastal]
-data: {demonym: null, lore: [], parents: [tramontana], population: 25000, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [tramontana]
+  population: 25000
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Batáren** stands on the [[place-batarengulf|Gulf of Batáren]] in the northwest, and is Provènzia's

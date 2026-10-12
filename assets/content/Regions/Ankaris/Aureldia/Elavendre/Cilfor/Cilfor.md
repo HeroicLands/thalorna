@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The northern coast of Élavendre, wrapped around Cilfor Bay—cold but temperate, rich in fish, thirty miles across the water from Vrystwald, and the kingdom's most raided shore."
 tags: [region, coastal, border]
-data: {demonym: null, lore: [], parents: [elavendre], population: 260000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [elavendre]
+  population: 260000
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Cilfor** is Élavendre's northern coast: a quarter of a million people along the southern shore of

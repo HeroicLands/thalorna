@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "The fortress town of Sèrramarca, Provènzia's eastern march—the muster point below the Tarvénian passes, whose walls are new, whose garrison is permanent, and whose year begins when the snow clears."
 tags: [town, fortified, frontier, mountain]
-data: {demonym: null, lore: [], parents: [serramarca], population: 4500, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [serramarca]
+  population: 4500
+  government: kngdmprvnz
+  packFolder: provenzia
 ---
 
 **Chastèlclair**—the bright castle—commands the road below the Tarvénian passes, and is the

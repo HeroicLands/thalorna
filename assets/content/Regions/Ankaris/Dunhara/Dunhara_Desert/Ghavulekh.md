@@ -11,6 +11,7 @@ data:
   parents: [dunhardsrtrgn]
   population: 1200
   packFolder: dunharadesert
+  government: dunhartrbs
 ---
 
 The caravan comes into Ghavûlekh an hour before dusk, when the heat lets go of the sand. The town is a hollow of palms in a gravel plain in the [[place-dunhardsrtrgn|Dunhara Desert]], cool under the trees and smelling of wet earth, dung smoke and crushed dates, with black goat-hair tents running out from the water in long rows. It is the nearest thing the [[affiliation-dunhartrbs|Dunhara Tribes]] have to a capital: the oasis where the common council of the tribes meets, and where a caravan bound across the desert hires its guide.

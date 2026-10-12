@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The tidal lowlands of eastern Aldorath—wet, flat, fertile and treacherous, carrying the kingdom's whole trade out through Greywater."
 tags: [region, river, coastal]
-data: {demonym: null, lore: [], parents: [aldorathrgn], population: 24000, packFolder: aelwyth}
+data:
+  demonym: null
+  lore: []
+  parents: [aldorathrgn]
+  population: 24000
+  government: kngdmldrth
+  packFolder: aelwyth
 ---
 
 The **Greylevels** are the low, wet, tidal country where eastern Aldorath drains to the sea: flat

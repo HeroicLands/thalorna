@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Zûravlen's harbor at the foot of the cliff—fish, salt pans and the fast boats now carrying fresh peaches to markets no rider could reach, at the quiet expense of the baron's drying yards."
 tags: [town, port, coastal]
-data: {demonym: null, lore: [], parents: [zuravlenrgn], population: 900, packFolder: provenzia}
+data:
+  demonym: null
+  lore: []
+  parents: [zuravlenrgn]
+  population: 900
+  government: brnyzrvln
+  packFolder: provenzia
 ---
 
 **Portvent** lies at the foot of the cliffs on [[place-zuravlenrgn|Zûravlen]]'s western shore, reached

@@ -5,7 +5,7 @@ type: place
 subType: settlement
 description: "Sârkhenâ Dôrêkhis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Regio Templum of Ôrzâra that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Ordo Arcanis."
 tags: [temple, aureldian, vylaria, imperial, orzara, precinct]
-data: {demonym: null, lore: [], parents: [vylariargn], population: 400}
+data: {demonym: null, lore: [], parents: [vylariargn], population: 400, government: vylarinmpr}
 ---
 
 ## Sârkhenâ Dôrêkhis—The House of the Twelve

@@ -5,7 +5,13 @@ type: place
 subType: region
 description: "The heartland of Élavendre—the basin of the Bérav, holding Béravel, the University and the workshops where everything the kingdom is famous for is actually made."
 tags: [region, river, inland]
-data: {demonym: null, lore: [], parents: [elavendre], population: 900000, packFolder: elavendre}
+data:
+  demonym: null
+  lore: []
+  parents: [elavendre]
+  population: 900000
+  government: kngdmlvndr
+  packFolder: elavendre
 ---
 
 **Tirwen**—_the fair land_—is the heartland of [[place-elavendre|Élavendre]]: the broad, green,

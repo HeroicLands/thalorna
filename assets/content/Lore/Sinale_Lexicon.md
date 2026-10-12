@@ -822,6 +822,10 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 | **Aelirossë**                       | [[place-aelirosse\|Aelirossë]]                        | `exonym:elavendri` | —                                                               |
 | **Ethalossë**                       | [[place-ethalosse\|Ethalossë]]                        | `exonym:elavendri` | —                                                               |
 | **Serenthalë**                      | [[place-serenthale\|Serenthalë]]                      | `exonym:elavendri` | —                                                               |
+| **Enclave of Aelirossë**            | [[affiliation-nclvlrss\|Enclave of Aelirossë]]        | `translation`      | —                                                               |
+| **Enclave of Ethalossë**            | [[affiliation-nclvthlss\|Enclave of Ethalossë]]       | `translation`      | —                                                               |
+| **Enclave of Serenthalë**           | [[affiliation-nclvsrnthl\|Enclave of Serenthalë]]     | `translation`      | —                                                               |
+| **Enclave of the Hallowwood**       | [[affiliation-nclvhllwwd\|Enclave of the Hallowwood]] | `translation`      | —                                                               |
 | **Ankaris Continent**               | [[place-ankrscntnnt\|Ankaris Continent]]              | `exonym`           | —                                                               |
 | **Aurèldía Region**                 | [[place-aureldirgn\|Aurèldía Region]]                 | `exonym`           | —                                                               |
 | **Mídhalión Region**                | [[place-midhalnrgn\|Mídhalión Region]]                | `exonym`           | —                                                               |

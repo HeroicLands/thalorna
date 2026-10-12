@@ -10,6 +10,7 @@ data:
   lore: [dovettm]
   parents: [vrystwldrvrs]
   population: 800
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

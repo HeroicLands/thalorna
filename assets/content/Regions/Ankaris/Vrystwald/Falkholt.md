@@ -12,6 +12,7 @@ data:
   population: 280
   borders: [{to: falkensten, bearing: E}]
   routes: [{to: falkensten, bearing: E, mode: land, days: 2, terrain: [track, forest]}]
+  government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
 

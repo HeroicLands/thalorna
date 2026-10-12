@@ -11,6 +11,7 @@ data:
   parents: [mahanadi, vedyarargn]
   population: 5400
   routes: [{to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast]}]
+  government: lwrmhndjnpd
   packFolder: vedyara
 ---
 

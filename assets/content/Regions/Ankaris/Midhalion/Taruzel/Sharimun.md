@@ -5,7 +5,13 @@ type: place
 subType: settlement
 description: "Port Town"
 tags: [port, town, draft]
-data: {demonym: null, lore: [], parents: [taruzelrgn], population: 30000, packFolder: taruzel}
+data:
+  demonym: null
+  lore: []
+  parents: [taruzelrgn]
+  population: 30000
+  government: gldbrdshrmn
+  packFolder: taruzel
 ---
 
 Above the port of Sharîmun the hillside is cut back in quarries, and below them is an arena whose fighters belong to a gladiators' guild. Sharîmun is a port town of about 30,000 in the [[place-taruzelrgn|Tarûzel Region]], the island country of city-states within [[place-midhalnrgn|Mídhalión]], and it is among the most populous towns of the region.

@@ -10,6 +10,7 @@ data:
   lore: [vardain]
   parents: [vardainvalleys]
   population: 400
+  government: vrgldhld
   packFolder: aelwyth
 ---
 
