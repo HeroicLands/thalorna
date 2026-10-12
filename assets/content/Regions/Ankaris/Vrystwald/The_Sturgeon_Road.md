@@ -3,12 +3,12 @@ shortcode: sturgeonroad
 name: {full: The Sturgeon Road, aliases: []}
 type: lore
 subType: theology
-description: "A Varokhi fireside poem about Véthar Grimholt's journey through the spirit realm and Grimholt's repair of a violated burial mound."
+description: "A Varokhi fireside poem about Véthar yra Thalruvan wur Grimholt's journey through the spirit realm and Grimholt's repair of a violated burial mound."
 tags: [varokhi, epic, oral-tradition]
 data: {packFolder: vrystwald}
 ---
 
-_A fireside telling of [[being-vthargrmhlt|Véthar Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
+_A fireside telling of [[being-vthargrmhlt|Véthar yra Thalruvan wur Grimholt]]. The singers of [[place-grimholt|Grimholt]] call this a tale, not a witness account; its details change from hearth to hearth._
 
 ```prose {title="The Sturgeon Road"}
 At Grimholt, where the slow brown river bends,

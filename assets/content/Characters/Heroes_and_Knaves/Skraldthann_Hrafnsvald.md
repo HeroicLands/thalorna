@@ -464,7 +464,7 @@ Skraldthann is motivated by a desire for recognition and immortality through his
 
 ### Patrons
 
-Lady Viscontess Aelrún Thorgrimsdottir
+Lady Viscontess Thraskselda Gnuldrmýlsdóttir
 : A powerful noblewoman who has been Skraldthann's most consistent and influential patron for twenty years. She wears his designs to every significant event and has championed his work in the highest circles.
 
 Duke Svalthvir Hnarvendikh

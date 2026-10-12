@@ -1,6 +1,6 @@
 ---
 shortcode: frdwyndmhr
-name: {full: Fródwyn Dómhár, aliases: []}
+name: {full: Fródwyn yra Dómhár wur Dunkelwald, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,11 +396,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
+Fródwyn yra Dómhár wur Dunkelwald is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Fródwyn Dómhár is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a War Chief's house who has written the forest's healing lore down.
+Fródwyn is a scholar of plants and their uses at Dunkelwald, a deep-forest settlement of [[place-vrystwald|Vrystwald]], a Varokhi woman of a War Chief's house who has written the forest's healing lore down.
 
 Fródwyn was sent as a girl to the border towns of Moktur, where she learned letters from a Vylarian physician's wife, and came home with the idea that what the wise-women carry in their heads could be set down. She has spent fifteen years doing it, walking the forest with the wise-women of a dozen villages and writing what they know out in Varokhi, in books that have gone down the rivers with the fur-boats to villages she has never visited. She teaches it to any woman who will sit with her, and she means it to be used; knowledge not put to work, she holds, is not knowledge.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: thldrdrthgr
-name: {full: Thaldrá Druthgar, aliases: []}
+name: {full: Thaldrá yra Druthgar wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,15 +394,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Thaldrá Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with defined cheekbones, a broad forehead, and a heavy jaw that leads to a strong chin. Her hooded hazel eyes sit beneath prominent brows, lending her a guarded gaze. A straight nose and firm lips complete her features. She has light skin with a rugged complexion. Her brown hair is loose and wavy.
+Thaldrá yra Druthgar wur Thornhaven is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with defined cheekbones, a broad forehead, and a heavy jaw that leads to a strong chin. Her hooded hazel eyes sit beneath prominent brows, lending her a guarded gaze. A straight nose and firm lips complete her features. She has light skin with a rugged complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thaldrá came into the world of the common seaman through a combination of circumstance and aptitude.
 
 Known as "Thorn" for her sharp wit and tenacity, Thaldrá is a fierce seaman who has proven herself in a male-dominated profession. She is skilled in rigging and often takes on the role of lookout during voyages. Thaldrá is determined to earn her place among the crew and dreams of one day captaining her own ship. She has a reputation for being tough and resilient, admired by her peers.
 
-Now at 27 years of age, Thaldrá Druthgar has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 27 years of age, Thaldrá has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

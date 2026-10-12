@@ -92,9 +92,9 @@ a `package:` key on a note is a hard build error, naming the file and the line.
 Do not add it back—not even with the value `thalorna`, which is refused
 exactly as any other is.
 
-## Eichengrund names and totems
+## Varokh names and totems
 
-Eichengrund is the village, clan and tribe of its residents; use `Eichengrund` in their `name.clan` and living clan references. Its shared _wesk_ is the boar. Personal totems may reflect individual personalities and are not mandatory. Preserve former full names as historical aliases and update the existing person row in `utils/nordmal-concordance.json` when correcting a name.
+A Varokh's `name.full` is the name in full that `Skills/Languages/Varokhi.md` sets out: the given name, `yra` and the clan, `wur` and the village, as in `Athalwa yra Vithrúnd wur Eichengrund`. A `character` also states the two pieces in `name.given` and `name.clan` (an `npc` takes neither key), the clan is a kindred and never a village, and the village is the settlement `data.homes` names where it names one. A bare given name and clan is never written, in frontmatter or in prose. An earned Varokhi byname may stand after the given name in place of the clan and village, as `Thornak Blodtusc Bar` does. `npm run lint:varokhi-lexicon` checks all of it. A village's shared _wesk_ goes in its `data.lore`; personal totems may reflect individual personalities and are not mandatory. Preserve former full names in the person's row in `utils/nordmal-concordance.json` when correcting a name.
 
 ## Deriving a shortcode from a name
 

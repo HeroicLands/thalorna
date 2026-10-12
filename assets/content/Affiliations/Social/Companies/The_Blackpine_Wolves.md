@@ -20,10 +20,10 @@ data:
         title: Grimmund
         lore: grimmundrnk
         description: >-
-          One of the six fed from what the gang takes, held by fear of Dágulf Véthar and the absence of anywhere better to go rather than by any oath the band administers.
+          One of the six fed from what the gang takes, held by fear of Dágulf yra Véthar wur Thrárýth and the absence of anywhere better to go rather than by any oath the band administers.
     offices:
       Balthár: >-
-        Held by Dágulf Véthar, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
+        Held by Dágulf yra Véthar wur Thrárýth, who rules through unpredictability and sudden violence rather than through any office the band itself seats.
   seat: null
   population: null
   economy: []
@@ -40,20 +40,20 @@ The Blackpine Wolves are a small, vicious band of road bandits who prey on trave
 
 ## Organization
 
-The gang is led by [[being-dagulfvthr|Dágulf Véthar]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald Hildskorn]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
+The gang is led by [[being-dagulfvthr|Dágulf yra Véthar wur Thrárýth]], a [[lore-varokhiclt|Varokh]] runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald yra Hildskorn wur Thrástein]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
 
 The current membership stands at six:
 
-- [[being-dagulfvthr|Dágulf Véthar]]—Balthár. Former shepherd turned brigand. Cold, watchful, and feared.
-- [[being-thrwldhldskrn|Thráwald Hildskorn]]—Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
-- [[being-skthldfrdbn|Skathilda Fródbán]]—Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dágulf himself. Everyone is afraid of her.
-- [[being-vndrcgrwld|Vandaric Garwald]]—The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
-- [[being-hrodrrnthl|Hródar Arnthúl]]—Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a cold, personal fury.
-- [[being-brunjarskathhel|Brunjár Skathhelm]]—Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
+- [[being-dagulfvthr|Dágulf]]—Balthár. Former shepherd turned brigand. Cold, watchful, and feared.
+- [[being-thrwldhldskrn|Thráwald]]—Muscle. A huge, dull-witted former deserter from the Vylarian garrison. Follows orders because thinking is harder.
+- [[being-skthldfrdbn|Skathilda yra Fródbán wur Vandgrund]]—Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dágulf himself. Everyone is afraid of her.
+- [[being-vndrcgrwld|Vandaric yra Garwald wur Fródhaven]]—The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
+- [[being-hrodrrnthl|Hródar yra Arnthúl wur Erthhaven]]—Woodsman and fighter. A bitter former timber cutter who hates the [[affiliation-vylarinmpr|Vylarian Empire]] with a cold, personal fury.
+- [[being-brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]—Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
 ## Territory
 
-The Blackpine Wolves operate along a stretch of the old imperial trade road roughly two days' ride south of the Vylarian border garrison. Their territory is a dense section of ancient dark pine forest, riddled with fog-filled valleys, overgrown ruins, and crumbling Vylarian milestones. The terrain strongly favors ambush—narrow road, poor sightlines, abundant cover—and the gang knows every trail, gully, and hiding place within a day's walk.
+The Blackpine Wolves operate along a stretch of the old imperial trade road roughly two days' ride north of the Vylarian border garrison. Their territory is a dense section of ancient dark pine forest, riddled with fog-filled valleys, overgrown ruins, and crumbling Vylarian milestones. The terrain strongly favors ambush—narrow road, poor sightlines, abundant cover—and the gang knows every trail, gully, and hiding place within a day's walk.
 
 Their camp shifts regularly to avoid detection, but tends to cluster around a set of half-collapsed Vylarian waystation ruins deep in the pines, where stone walls provide shelter and the ruins offer multiple escape routes into the forest.
 

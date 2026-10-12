@@ -1,6 +1,6 @@
 ---
 shortcode: thrnlrkhld
-name: {full: Thornila Ríkhild, aliases: []}
+name: {full: Thornila yra Ríkhild wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
@@ -396,11 +396,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
+Thornila yra Ríkhild wur Thornhaven is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in [[place-thornhaven|Thornhaven]] to a Varokh family with Velanthian kin, Thornila Ríkhild became a priestess of Árdavon through the traders and mixed households of the frontier.
+Born in [[place-thornhaven|Thornhaven]] to a Varokh family with Velanthian kin, Thornila became a priestess of Árdavon through the traders and mixed households of the frontier.
 
 Thornila is devoted to the teachings of Árdavon and often organizes help for the vulnerable at Thornhaven’s landing. Her certainty in her own judgment can make that help feel like a debt rather than a gift. She urges those who can fight to defend the weak, yet she struggles to listen when the people she helps tell her what they need.
 

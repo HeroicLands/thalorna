@@ -17,7 +17,7 @@ data:
 
 ## Where the Grukar Thicken
 
-Skathwald lies along the part of Vrystwald's arc where [[lore-grukarfolk|Grukar]] nests become more common toward [[place-grkrhlmrgn|Grukarholm]]. No line separates the two: Grukarholm names a concentration, and a tribe can bud into forest far from it. A village here watches its paths even when it has seen no raiders for a season.
+Skathwald is the part of Vrystwald where [[lore-grukarfolk|Grukar]] nests become more common toward [[place-grkrhlmrgn|Grukarholm]]. No line separates the two: Grukarholm names a concentration, and a tribe can bud into forest far from it. A village here watches its paths even when it has seen no raiders for a season. The reach took its name, the harm wood, when the first Varokh parties sent to treat with the Grukar never came back, and it has a [[lore-bloodfield|blood-field]] of its own at [[place-grimak|Grimak]], where the villages burned a nest in 536 ([[lore-grimakburning|The Burning at Grimak]]).
 
 Grukar parties come in small numbers and repeatedly. No ahk can command all the others into one campaign, and no [[lore-varokhiclt|Varokh]] victory can end the incursions. There is no trade, ransom or envoy to make the danger predictable. Villages hold fewer goods and spend more labor on watches and defenses; a traveler who follows a familiar river toward Grukar country cannot assume its next landing is still occupied.
 

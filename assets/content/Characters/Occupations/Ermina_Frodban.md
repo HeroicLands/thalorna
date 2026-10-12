@@ -1,6 +1,6 @@
 ---
 shortcode: erminfrdbn
-name: {full: Ermína Fródbán, aliases: []}
+name: {full: Ermína yra Fródbán wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -390,15 +390,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Ermína Fródbán is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
+Ermína yra Fródbán wur Thornhaven is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Ermína came into the world of the fisher through a combination of circumstance and aptitude.
 
 Ermína grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Ermína is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
 
-Now at 30 years of age, Ermína Fródbán has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 30 years of age, Ermína has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

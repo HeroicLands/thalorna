@@ -25,7 +25,7 @@ data:
 
 ## Overview
 
-South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar nomads who once migrated across Ankaris, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
+South and east of the [[place-nrdlndsrgn|Nordlands]] proper lies the roadless interior of Vrystwald—the [[lore-varokhiclt|Varokh]] homeland of taiga, mixed forest, slow brown rivers, and lake systems. [[place-aureldirgn|Aurèldía]] lies to its south and [[place-velanthrgn|Velanthia]] to its east. The Varokh, descendants of the Pelwar and of the Varkhad who conquered them, live in independent villages across the region: northern taiga clans whose lifeways are closer to the Nordmal than to their southern kindred; central forest-river villages that fish, farm in clearings, and trade along the rivers; and eastern frontier villages that deal with Velanthian grain-belt princes on terms ranging from cautious commerce to open raid. Vrystwald is filled with dark pine and birch forests, fog-covered river valleys, and ancient ruins.
 
 ## Geography
 
@@ -49,7 +49,7 @@ The country was [[lore-pelwarpepl|Pelwar]] first. Those were peaceful people: he
 organized for conquest, and they had the forest and the rivers for a very long time before anyone
 disturbed them.
 
-Then the [[lore-pelwarpepl|Varkhad]] came out of the further east—a fierce people, kin to the
+Then the [[lore-varkhadcnq|Varkhad]] came out of the further east—a fierce people, kin to the
 ancestors of the [[place-khzryndsrtrgn|Khazryn]] desert folk—and took it. They did not exterminate the
 Pelwar; over generations they **married into them**, until the two stocks could no longer be told apart
 and the result was the Varokh. The same process, further west and north, produced the
@@ -57,7 +57,7 @@ and the result was the Varokh. The same process, further west and north, produce
 
 So a Varokh defending Vrystwald against an invader is descended from the people who were here first
 **and** from the people who invaded them, and has no way of telling which ancestor is doing the
-defending. Nobody up there distinguishes, and after three thousand years there is nobody who could.
+defending. Nobody up there distinguishes, and after two thousand years there is nobody who could.
 
 What is not in doubt is which half the **ferocity** came from. The Pelwar who stayed to be conquered were
 not the ones who broke armies in the forest. The Varokh are, and they got the temperament from the people
@@ -69,6 +69,19 @@ who **drove the [[lore-pelwarmigr|Pelwar Migration]]**—the great displacement 
 continent and eventually onto [[place-aelwyth|Aelwyth]]—and themselves _be_ Pelwar. Both are correct.
 The Varokh drove out their own cousins, and did not think of them as cousins at the time, and by the time
 anyone could have said so the question had stopped meaning anything.
+
+## History
+
+The Varokh keep no written history, and they count time by winters from the last thing every hearth remembers; [[lore-wintertally|The Tally of Winters]] sets out that count and the seven ages it divides into. The forest's past in brief:
+
+- **The Taking of the Wood (~1250 BF).** The mixed Varkhad–Pelwar host came in from the east and the Pelwar who would not stay were driven west along the bay ([[lore-takingwood|The Taking of the Wood]]).
+- **The Mound Centuries.** Twelve centuries of villages, totems and mounds, the custom of splitting at five hundred, and the first meeting with the Grukar in the country that has been called Skathwald since.
+- **The Legions' Road (~120–340 AF).** The Empire cut a road north out of Moktur, bought the War Chiefs nearest it, lost a legion at the Moldún ford in 291 and gave the road up ([[lore-legionsroad|The Legions' Road]], [[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]).
+- **The Southern Raiding (~340–660 AF).** The Three Winters sent the war-bands south for grain, one of them carried off a legion's eagle, and in the famine-emptied east the Skathwald villages burned a Grukar nest ([[lore-hungerraids|The Hunger Raids]], [[lore-grimakburning|The Burning at Grimak]], [[lore-princesfort|The Prince's Fort]]).
+- **The Thrall Rivers (660–708 AF).** Stormveld's demand for thralls made the rivers the forest's road to the world and Waldburg its market, and the western villages broke a Nordmal company of six hundred ([[lore-thrallrivers|The Thrall Rivers]], [[lore-stormhandfld|The Stormhand's Field]]).
+- **The Posts at Hrindstead (708 AF to now).** Nordheim settlers hold an Eichthúl grove, and the Sons of Eldheim burn villages on the western bay ([[lore-nalthmrktkng|The Nalthmark Land-Taking]], [[lore-westernshore|The Sons on the Western Shore]]).
+
+The forest's two [[lore-bloodfield|blood-fields]] are [[place-skathhreth|Skathhreth]] and [[place-grimak|Grimak]].
 
 ## Population
 
@@ -336,4 +349,5 @@ The [[affiliation-vylarinmpr|Vylarian Empire]] lies to the south and southeast. 
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—farther east, beyond Velanthia
 - [[affiliation-vylarinmpr|Vylarian Empire]]—southern imperial power, source of the forest ruins
 - [[skill-varokhlng|Varokhi]]—naming conventions
+- [[lore-wintertally|The Tally of Winters]]—how the forest counts time, and its ages
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

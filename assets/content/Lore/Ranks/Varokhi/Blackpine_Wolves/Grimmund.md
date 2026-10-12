@@ -3,19 +3,19 @@ shortcode: grimmundrnk
 name: {full: "Grimmund", aliases: ["Of the Band"]}
 type: lore
 subType: law
-description: "One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
+description: "One of the six who follow Dágulf yra Véthar wur Thrárýth, held by fear of the leader and the absence of better options, in the Blackpine Wolves."
 tags: []
 ---
 
-One of the six who follow Dágulf Véthar, held by fear of the leader and the absence of better options, in the Blackpine Wolves.
+One of the six who follow Dágulf yra Véthar wur Thrárýth, held by fear of the leader and the absence of better options, in the Blackpine Wolves.
 
 ## What This Standing Is
 
-The Blackpine Wolves hold no formal hierarchy below their leader, Dágulf Véthar, who rules through unpredictability and sudden violence rather than through any office a member might hold or lose. Being of the band is the whole of the standing: fed from what the gang takes, and held there by fear of Dágulf and the absence of anywhere better to go rather than by any oath the gang itself administers.
+The Blackpine Wolves hold no formal hierarchy below their leader, Dágulf, who rules through unpredictability and sudden violence rather than through any office a member might hold or lose. Being of the band is the whole of the standing: fed from what the gang takes, and held there by fear of Dágulf and the absence of anywhere better to go rather than by any oath the gang itself administers.
 
 ## How the Law Treats a Person Here
 
-There is no second-in-command the gang recognizes as such: Thráwald Hildskorn is deferred to only by seniority and sheer size, and Skathilda Fródbán is the most dangerous member after Dágulf while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
+There is no second-in-command the gang recognizes as such: Thráwald yra Hildskorn wur Thrástein is deferred to only by seniority and sheer size, and Skathilda yra Fródbán wur Vandgrund is the most dangerous member after Dágulf while holding no standing above the others at all—the tension between what a member is worth to the band and what the band's own law says he holds is never resolved by any rank.
 
 ## Privileges
 

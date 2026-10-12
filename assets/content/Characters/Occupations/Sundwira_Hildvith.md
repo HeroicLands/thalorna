@@ -1,6 +1,6 @@
 ---
 shortcode: sndwrhldvth
-name: {full: Sundwíra Eichengrund, aliases: [Sundwíra Hildvith]}
+name: {full: Sundwíra yra Hildvith wur Frithhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -11,7 +11,7 @@ data:
   occupation: Ostler
   lore: []
   culture: varokhiclt
-  homes: [eichengrnd]
+  homes: [frithhaven]
   affiliations: {vrystwldtrbs: {rank: 3}}
   gender: female
   species: humanflk
@@ -391,15 +391,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Sundwíra Eichengrund is a 30-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
+Sundwíra yra Hildvith wur Frithhaven is a 30-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Sundwíra Eichengrund came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Sundwíra came into the world of the ostler through a combination of circumstance and aptitude.
 
 Sundwíra has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwíra often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 
-Now at 30 years of age, Sundwíra Eichengrund has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 30 years of age, Sundwíra has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -417,13 +417,13 @@ Knowledgeable about horse health, attentive, good at problem-solving.
 
 ## Social
 
-Sundwíra keeps Eichengrund’s horses for the War Chief’s household and for visitors whose mounts need care. She makes each bargain herself and trains younger hands at the stable.
+Sundwíra keeps the stable at [[place-frithhaven|Frithhaven]]'s landing, where Velanthian traders and Varokh boat crews leave their horses while the truce at the water holds. She makes each bargain herself and trains younger hands at the stable.
 
 ## Companions
 
 ### Patrons
 
-Athalwa’s household and travelers through Eichengrund pay Sundwíra for stabling, feed and advice.
+Traders of both sides of the frontier pay Sundwíra for stabling, feed and advice, and Frithhaven's Other Chief counts on her to notice a horse that has come too far too fast.
 
 ### Enemies
 

@@ -1,6 +1,6 @@
 ---
 shortcode: wldrcrkhld
-name: {full: Waldaric Ríkhild, aliases: []}
+name: {full: Waldaric yra Ríkhild wur Grimholt, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,15 +394,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Waldaric Ríkhild is a 44-year-old man who stands 5'11" tall and is of moderate build. He has an angular face with wide-set cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His deep-set blue eyes sit beneath heavy brows, lending him a watchful gaze. A prominent nose and curved lips complete his features. He has light skin with a ruddy complexion. His black hair is long and gathered with a leather thong.
+Waldaric yra Ríkhild wur Grimholt is a 44-year-old man who stands 5'11" tall and is of moderate build. He has an angular face with wide-set cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His deep-set blue eyes sit beneath heavy brows, lending him a watchful gaze. A prominent nose and curved lips complete his features. He has light skin with a ruddy complexion. His black hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Waldaric Ríkhild came into the world of the tentmaker through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Waldaric came into the world of the tentmaker through a combination of circumstance and aptitude.
 
 Waldaric has been making tents and canvas goods for traveling merchants, soldiers, and wanderers for over twenty years. He works from his household near Grimholt’s river landing, stitching and repairing tents, awnings and other cloth goods. His sturdy work brings boat crews and travelers back to him, though he has more requests than one household can always finish. He takes pride in his craftsmanship but sometimes sacrifices speed for quality.
 
-Now at 44 years of age, Waldaric Ríkhild has established himself as a known figure among the tentmakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 44 years of age, Waldaric has established himself as a known figure among the tentmakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

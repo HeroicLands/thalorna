@@ -1,6 +1,6 @@
 ---
 shortcode: dmvthflknstn
-name: {full: Dómvith Falkenstein, given: Dómvith, clan: Falkenstein, aliases: []}
+name: {full: Dómvith yra Hárskorn wur Falkenstein, given: Dómvith, clan: Hárskorn, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

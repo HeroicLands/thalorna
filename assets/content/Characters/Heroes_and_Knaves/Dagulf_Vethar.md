@@ -1,6 +1,6 @@
 ---
 shortcode: dagulfvthr
-name: {full: Dágulf Véthar, given: Dágulf, clan: Véthar, aliases: []}
+name: {full: Dágulf yra Véthar wur Thrárýth, given: Dágulf, clan: Véthar, aliases: []}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, serf, vrystwald, underworld]
@@ -400,13 +400,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[dagulfvthr|Dágulf Véthar]]{float=top-left}
+![[dagulfvthr|Dágulf yra Véthar wur Thrárýth]]{float=top-left}
 
 Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still—always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour—the smell of a man who sleeps rough in the dark pines of [[place-vrystwald|Vrystwald]] and trusts no one.
 
 # Dossier {#dossier}
 
-Dágulf grew up the second son of a sheepherder among the Varokh clans of Vrystwald, born into serfdom in a small pastoral village on the empire's crumbling northern frontier. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who served as clanhead, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
+Dágulf grew up the second son of a sheepherder in Thrárýth, one of the Varokh herding villages that sit inside [[affiliation-provncmktr|Moktur]]'s border on the empire's crumbling northern frontier, where the families hold their ground from a Mokturan lord on a serf's tenure and Dágulf was born a serf. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who served as the village's headman under the lord, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
 
 By fifteen, a cruel streak had surfaced. He began striking his father, then his mother and sister. The village reeve—a scarred former soldier who had served the Vylarian garrison—beat him bloody more than once, but punishment only hardened Dágulf's defiance. When the men of the village finally came together to thrash him after he struck his mother in the open square, Dágulf vanished into the deep woods with a bow, a dagger, and a burning hatred for the life he'd left behind.
 

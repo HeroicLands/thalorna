@@ -1,6 +1,6 @@
 ---
 shortcode: vthrhldvth
-name: {full: Vithár Hildvith, aliases: []}
+name: {full: Vithár yra Hildvith wur Waldburg, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -396,15 +396,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Vithár Hildvith is a 47-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with defined cheekbones, a wide forehead, and a heavy jaw that leads to a broad chin. His large brown eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and expressive lips complete his features. He has fair skin with a sun-tanned complexion. His dark brown hair is thick and unkempt.
+Vithár yra Hildvith wur Waldburg is a 47-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with defined cheekbones, a wide forehead, and a heavy jaw that leads to a broad chin. His large brown eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and expressive lips complete his features. He has fair skin with a sun-tanned complexion. His dark brown hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Vithár Hildvith came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Vithár came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
 Vithár grew up in a small village, where he learned the basics of blacksmithing from his father. He later ventured into weaponcrafting and developed a reputation for crafting sturdy, reliable weapons. Vithár focuses on creating functional weapons with no frills, catering mainly to soldiers and mercenaries. He is practical and down-to-earth but often clashes with weaponcrafters who emphasize aesthetics over durability.
 
-Now at 47 years of age, Vithár Hildvith has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 47 years of age, Vithár has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

@@ -1,6 +1,6 @@
 ---
 shortcode: brunjarskathhel
-name: {full: Brunjár Skathhelm, given: Brunjár, clan: Skathhelm, aliases: []}
+name: {full: Brunjár yra Skathhelm wur Druthholt, given: Brunjár, clan: Skathhelm, aliases: []}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]
@@ -398,15 +398,15 @@ sohl:
 
 # Appearance {#appearance}
 
-![[brunjarskathhel|Brunjár Skathhelm]]{float=top-left}
+![[brunjarskathhel|Brunjár yra Skathhelm wur Druthholt]]{float=top-left}
 
-Brunjár Skathhelm looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes—the worst-equipped member of the gang—and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of the Blackpine Wolves that victims remember as "the one who looked like he didn't want to be there."
+Brunjár yra Skathhelm wur Druthholt looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes—the worst-equipped member of the gang—and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of the Blackpine Wolves that victims remember as "the one who looked like he didn't want to be there."
 
 # Dossier {#dossier}
 
 Brunjár grew up in a small Varokh village not far from Dágulf's own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood—poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
 
-His trouble began when his father was accused of stealing a neighbor's ram—a charge that was true, as it happened, though born of desperation during a hard winter. The village clanhead ordered a beating that left his father crippled, and the family's small holding was forfeit. Brunjár's mother died of fever the following spring, and his sister married into another village to survive. At seventeen, alone and landless, Brunjár drifted into poaching, then petty theft, and finally stumbled into Dágulf's orbit when the gang raided a caravan Brunjár happened to be robbing at the same time.
+His trouble began when his father was accused of stealing a neighbor's ram—a charge that was true, as it happened, though born of desperation during a hard winter. The village's Other Chief ordered a beating that left his father crippled, and the family's small holding was forfeit. Brunjár's mother died of fever the following spring, and his sister married into another village to survive. At seventeen, alone and landless, Brunjár drifted into poaching, then petty theft, and finally stumbled into Dágulf's orbit when the gang raided a caravan Brunjár happened to be robbing at the same time.
 
 Dágulf kept him because he was useful—a good lookout, quiet on his feet, and too frightened to disobey. Brunjár has been with the Blackpine Wolves for two years now and hates every moment of it, but sees no way out. He has witnessed things that haunt him, and participated in acts he cannot undo.
 

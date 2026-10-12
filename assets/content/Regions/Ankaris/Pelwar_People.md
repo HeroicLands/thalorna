@@ -44,7 +44,7 @@ lands as conquerors around **fourteen centuries before the Founding**.
 They did not exterminate anybody. Over generations the Varkhad **took the country and then merged into
 it**, marrying into the tribes they had beaten and adopting a good deal of what they found, until the two
 stocks could no longer be told apart. What came out of that mixture were the peoples who hold the north
-and north-east today: the **[[lore-vardain|Varokh]] of [[place-vrystwald|Vrystwald]]** and the
+and north-east today: the **[[lore-varokhiclt|Varokh]] of [[place-vrystwald|Vrystwald]]** and the
 **Nordmen of the [[place-nrdlndsrgn|Nordlands]]**, who share that double ancestry and share, notably,
 the temperament that came with the eastern half of it.
 
@@ -95,4 +95,4 @@ The Varokh of Vrystwald share Pelwar ancestry with both the Nordmen of the north
 - [[skill-elvndrlng|Élavendri Language]]—The Pelwar descendant language with the deepest section on Áelendi and Proto-Pelwar
 - [[lore-aelendnppl|Áelendan]]—The most conservative Pelwar descendants
 - [[place-elavendre|Élavendre]]—Region where Pelwar heritage is most consciously preserved
-- [[place-vrystwald|Vrystwald]]—The forest kingdoms of the Varokh tribes
+- [[place-vrystwald|Vrystwald]]—The forest villages of the Varokh tribes

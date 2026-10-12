@@ -127,7 +127,7 @@ The absence of a written form may seem to place Varokhi at a disadvantage compar
 
 Varokhi has no writing, so almost nothing of ordinary speech reaches the page at all—a name, a clan's gloss, a handful of words a clan's dealings with outsiders have carried south. What survives whole is small:
 
-- **"Hródar vel Fródbán."**—"Hródar, and Fródbán." (Two names joined by _vel_, the particle a longer sentence would turn on the same way.)
+- **"Hródar vurd Fródbán."**—"Hródar, and Fródbán." (Two names joined by _vurd_, the particle a longer sentence would turn on the same way.)
 - **"Eth shal."**—"This, alone." (_eth_ and _shal_, the two ordinary words § _Openings and closings_ cites—neither a name, and _shal_ opening on a pair no name opens on.)
 
 ## Related Languages
@@ -146,7 +146,7 @@ The practice of _eth-kethrun_ (taking a true name) marks the transition to adult
 
 Compound names are common, combining elemental roots (valor, battle, counsel, the forest) with closings that carry a sense of their own. The structure is transparent to speakers: _Vithár_ combines _vith-_ (valor) and `-ár` (the one who bears it), naming a man by what he withstands. Similarly, _Rádrún_ combines _rád-_ (counsel) and `-rún` (a secret kept), naming a woman who holds what the kindred has decided.
 
-Clan identity is encoded in the clan name, which is used alongside the personal name. A typical full introduction would be: "I am Vithár of the Hildvith clan" or "I am Rádrún, daughter of Vithár, of Hildvith."
+A Varokh carries a clan name beside the given name, and a village beside both. The clan is the kindred and the village is the ground, and the two are never the same thing: a village holds several kindreds, and a kindred that has split holds ground in more than one village. § _A person's name in full_ below sets out how the three are joined.
 
 ### How a name is built
 
@@ -158,11 +158,25 @@ Five rules settle the whole of it.
 2. **A linking piece may stand at the seam**, and the three are `-a-`, `-i-` and `-en-`. Each lets a closing beginning with a consonant sit against an opening that already ends in one: _wíth-_ and `-ric` give Wítharic, _edr-_ and `-gar` give Edrígar, and _eich-_ and `-grund` give Eichengrund. A linking vowel takes the acute where the name is said long.
 3. **A seam writes both pieces whole.** _Skath-_ and `-helm` give Skathhelm with the `h` written twice, and no letter is dropped to tidy the join.
 4. **A woman's name closes on `-a`, or on `-wyn`, `-rún` or `-ris`.** The `-a` is added to a name otherwise complete, which is why Dómric and Dómrica, Hródar and Hródara stand in the two lists as one name twice; the other three closings carry a woman's name without it, as Fródwyn, Rádrún and Theódris do. A man's name closes on a consonant and on none of those three.
-5. **A clan name is built exactly as a given name is, and position tells them apart.** The second of two Varokhi names is the clan, which is why Véthar stands in a given-name list and in the clan list both. A clan name is unmarked for gender, since a clan holds men and women alike.
+5. **A clan name is built exactly as a given name is, and position tells them apart.** The name after _yra_ in a name in full is the clan, which is why Véthar stands in a given-name list and in the clan list both. A clan name is unmarked for gender, since a clan holds men and women alike.
 
 **A clan has more than one member.** A name in the clan list is a clan and not a person: brothers, cousins, a widow's household and three generations of a kindred all carry the same one.
 
 **A clan name is glossed by its people.** Every gloss in the list below is plural and names people—"Eagle Helms", "Wise Slayers", "Battle Valor"—so the gloss supplies the kindred and the two elements supply what the kindred is about. A closing element may therefore name a person (`-skald`, a reciter) or a thing (`-helm`, a helm), and the gloss reads the same either way: Wulfhelm is the kindred that goes helmed as the wolf goes.
+
+### A person's name in full
+
+A Varokh is named in full by three names joined by two particles: the given name; then _yra_, "of the kindred", and the clan; then _wur_, "of the ground", and the village. [[being-athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]] is Athalwa, of the Vithrúnd kindred, of the ground at Eichengrund. Eichengrund is not a clan and Vithrúnd is not a village, so neither can stand in the other's place.
+
+How much of the name is said depends on where the speaker stands, and each particle goes wherever the name it introduces goes.
+
+- **In everyday speech, among people who know the person,** the given name alone: Athalwa.
+- **Inside the person's own village,** where the ground goes without saying, the given name and the clan: Athalwa yra Vithrúnd.
+- **Beyond the village,** at a market, before a muster, in another village's hall or in a reciter's telling, the whole name: Athalwa yra Vithrúnd wur Eichengrund.
+
+A given name and a clan never stand side by side without _yra_ between them. An earned byname can stand in place of the clan and the village beyond a person's village, as **Blodtusc Bar** does for [[being-thrnkbldtscbr|Thornak]], and the byname is said whole.
+
+These pages name a Varokh the same way: the whole name at the first mention in a note, the given name and the clan at the first mention in the note of the person's own village, and the given name alone after that.
 
 ### The element lexicon
 
@@ -334,108 +348,111 @@ A byname is earned. Most are rendered in the reader's tongue: The Crow, the Weas
 
 These are ordinary words rather than names. Most are given whole; where a word also opens a name, the element table states that use separately. Varokhi can join ordinary words in an epithet without making it a given or clan name. The totem words below are new coinages for animals the Varokh could encounter in Vrystwald or on its western shore; each row points to the totem it names.
 
-| kept word   | what it is                                                   | attested or represented by |
-| ----------- | ------------------------------------------------------------ | -------------------------- |
-| Varokh      | one of the people, and the people taken together             | `lore-varokhiclt`          |
-| eth-kethrun | the taking of a true name, and the rite that marks adulthood | `lore-varokhiclt`          |
-| erund       | of the, joining two names in a company's or an order's name  | Wuldjagár erund Gárskald   |
-| vel         | the particle that stands between two clauses                 | the sample phrase above    |
-| wesk        | the one totem a village keeps and the bond with its spirit   | `affiliation-vrystwldtrbs` |
-| wesketh     | the rite binding a person or village to its totem            | `lore-varokhiclt`          |
-| eldwesk     | an ancestor spirit addressed through the village's totem     | `lore-varokhiclt`          |
-| blod        | blood                                                        | `being-thrnkbldtscbr`      |
-| tusc        | a tusk                                                       | `being-thrnkbldtscbr`      |
-| bar         | a boar                                                       | `being-thrnkbldtscbr`      |
+| kept word     | what it is                                                                         | attested or represented by           |
+| ------------- | ---------------------------------------------------------------------------------- | ------------------------------------ |
+| `Varokh`      | one of the people, and the people taken together                                   | `lore-varokhiclt`                    |
+| `eth-kethrun` | the taking of a true name, and the rite that marks adulthood                       | `lore-varokhiclt`                    |
+| `erund`       | of the, joining two names in a company's or an order's name                        | Wuldjagár erund Gárskald             |
+| `vurd`        | the particle that stands between two clauses                                       | the sample phrase above              |
+| `yra`         | of the kindred: the particle that stands before a clan's name in a person's name   | Athalwa yra Vithrúnd                 |
+| `wur`         | of the ground: the particle that stands before a village's name in a person's name | Athalwa yra Vithrúnd wur Eichengrund |
+| `wesk`        | the one totem a village keeps and the bond with its spirit                         | `affiliation-vrystwldtrbs`           |
+| `wesketh`     | the rite binding a person or village to its totem                                  | `lore-varokhiclt`                    |
+| `eldwesk`     | an ancestor spirit addressed through the village's totem                           | `lore-varokhiclt`                    |
+| `blod`        | blood                                                                              | `being-thrnkbldtscbr`                |
+| `tusc`        | a tusk                                                                             | `being-thrnkbldtscbr`                |
+| `bar`         | a boar                                                                             | `being-thrnkbldtscbr`                |
 
-The animal words are the spoken names of possible village totems. _Arn_, _falk_ and _wulf_ already occur as name elements; the other forms here name animals in speech without adding untested name elements. _Bar_ is attested in Thornak's epithet. The links identify the existing totem notes, not earlier attestations of these new Varokhi coinages.
+The animal words are the spoken names of possible village totems. The eagle, falcon and wolf are named in names by the elements `arn-`, `falk-` and `wulf-`, which are pieces of names and not words; the animal words here differ from them and add no name elements. _Bar_ is attested in Thornak's epithet. The links identify the existing totem notes, not earlier attestations of these new Varokhi coinages.
 
 | animal word | totem              |
 | ----------- | ------------------ |
-| dask        | `lore-badgerttm`   |
-| berk        | `lore-bearttm`     |
-| bar         | `lore-boarttm`     |
-| lodkat      | `lore-bobcatttm`   |
-| sturm       | `lore-bullttm`     |
-| muskfis     | `lore-catfishttm`  |
-| hen         | `lore-chickenttm`  |
-| ku          | `lore-cowttm`      |
-| krav        | `lore-crowttm`     |
-| hirs        | `lore-deerttm`     |
-| esel        | `lore-donkeyttm`   |
-| duv         | `lore-dovettm`     |
-| and         | `lore-duckttm`     |
-| arn         | `lore-eaglettm`    |
-| falk        | `lore-falconttm`   |
-| fuks        | `lore-foxttm`      |
-| get         | `lore-goatttm`     |
-| gans        | `lore-goosettm`    |
-| hamst       | `lore-hamsterttm`  |
-| havk        | `lore-hawkttm`     |
-| igl         | `lore-hedgehogttm` |
-| hros        | `lore-horsettm`    |
-| linsk       | `lore-lynxttm`     |
-| otr         | `lore-otterttm`    |
-| uwl         | `lore-owlttm`      |
-| uks         | `lore-oxttm`       |
-| tuv         | `lore-pigeonttm`   |
-| has         | `lore-rabbitttm`   |
-| sefis       | `lore-seabassttm`  |
-| hark        | `lore-sharkttm`    |
-| skaf        | `lore-sheepttm`    |
-| slang       | `lore-snakettm`    |
-| hirt        | `lore-stagttm`     |
-| stur        | `lore-sturgeonttm` |
-| forl        | `lore-troutttm`    |
-| tun         | `lore-tunattm`     |
-| hval        | `lore-whalettm`    |
-| wulf        | `lore-wolfttm`     |
+| `dask`      | `lore-badgerttm`   |
+| `brokn`     | `lore-bearttm`     |
+| `bar`       | `lore-boarttm`     |
+| `lodkat`    | `lore-bobcatttm`   |
+| `sturm`     | `lore-bullttm`     |
+| `muskfis`   | `lore-catfishttm`  |
+| `hesk`      | `lore-chickenttm`  |
+| `ku`        | `lore-cowttm`      |
+| `kravl`     | `lore-crowttm`     |
+| `hirsk`     | `lore-deerttm`     |
+| `esel`      | `lore-donkeyttm`   |
+| `dulv`      | `lore-dovettm`     |
+| `andrek`    | `lore-duckttm`     |
+| `arnek`     | `lore-eaglettm`    |
+| `fulkr`     | `lore-falconttm`   |
+| `fukth`     | `lore-foxttm`      |
+| `gedth`     | `lore-goatttm`     |
+| `gunsk`     | `lore-goosettm`    |
+| `hamst`     | `lore-hamsterttm`  |
+| `havrik`    | `lore-hawkttm`     |
+| `igl`       | `lore-hedgehogttm` |
+| `hrosk`     | `lore-horsettm`    |
+| `linsk`     | `lore-lynxttm`     |
+| `uthra`     | `lore-otterttm`    |
+| `uwl`       | `lore-owlttm`      |
+| `ukthe`     | `lore-oxttm`       |
+| `tuvil`     | `lore-pigeonttm`   |
+| `haskul`    | `lore-rabbitttm`   |
+| `sefis`     | `lore-seabassttm`  |
+| `hrask`     | `lore-sharkttm`    |
+| `skafel`    | `lore-sheepttm`    |
+| `slengr`    | `lore-snakettm`    |
+| `hirt`      | `lore-stagttm`     |
+| `stur`      | `lore-sturgeonttm` |
+| `forl`      | `lore-troutttm`    |
+| `tunsk`     | `lore-tunattm`     |
+| `hvalth`    | `lore-whalettm`    |
+| `wurl`      | `lore-wolfttm`     |
 
 Six totems have no Varokhi animal word here: [[lore-bisonttm|bison]], [[lore-jaguarttm|jaguar]], [[lore-leopardttm|leopard]], [[lore-lionttm|lion]], [[lore-parrotttm|parrot]] and [[lore-turkeyttm|turkey]]. None is established in Vrystwald or its waters, so giving a forest village one as its totem would invent a contact the setting does not describe. Shore villages can meet sea bass, shark, tuna and whale through their fishing and trade; the inland villages need not use those words.
 
 The reciters keep a further stock of ordinary words: the names of the things they recite, and the words for the dead, the spirits, war, craft, kin and water that the tellings turn on. Each is a root of the tongue or is built from pieces the tables above publish, and the third column says which. Where a word also serves as a name element, the element tables state that use separately.
 
-| word       | what it is                                                                                      | how it is formed                                                         |
-| ---------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| vorth      | a telling: a tale in prose told at the hearth, its details free to change from hearth to hearth | a root                                                                   |
-| drúnga     | a lay: a deed sung in stanzas of long lines and held word for word by the one who learned it    | a root                                                                   |
-| meldra     | the lament the women of a household raise over their dead before the burial or the pyre         | a root                                                                   |
-| vreld      | a charm: a few spoken lines laid on a hurt, a lame horse, a sick child or a spirit kept off     | a root                                                                   |
-| eldskorn   | the tally of the ancestors: a kindred's dead recited name by name at Weskskald                  | `eld-` and `-skorn`, a tally                                             |
-| ráthel     | a sign read in the forest—a track, a bird's flight, a wind turning—to judge what to do next     | a root                                                                   |
-| vóra       | a vow spoken aloud before the war-band, binding before its witnesses                            | a root                                                                   |
-| eld        | an ancestor, one of the remembered dead                                                         | read out of _eldwesk_; the Nordmal `eld-`, fire, is a different word     |
-| weskgrund  | the totem's land, where the dead are with their village's wesk                                  | _wesk_ and `-grund`                                                      |
-| vrysteld   | one of the dead the ancestors have cast out of the totem's land                                 | `vryst-`, held by nobody, and _eld_                                      |
-| hrág       | a hungry spirit, one of those that hunt the weak beyond the totem's land                        | a root                                                                   |
-| skómel     | the Shaman's trance, the going-out to the spirits while kin keep the body warm                  | a root                                                                   |
-| hróm       | a burial mound holding generations of a kindred's dead                                          | a root, cognate with the Nordmal _hrúm_; closes a ground name as `-hróm` |
-| brenth     | a pyre                                                                                          | a root                                                                   |
-| glóm       | a banked fire, the hearth covered over to keep it alive until morning                           | a root                                                                   |
-| dorg       | a giant, one of the great ones said to have walked the forest before the clans                  | a root; opens a name as `dorg-`                                          |
-| frath      | a war-band, the company a village sends out                                                     | attested in the Waldburg Frath, `being-hrdrskldrth`                      |
-| brúth      | a raid for cattle, goods and captives                                                           | a root                                                                   |
-| dreth      | a cord, a knotted string                                                                        | a root                                                                   |
-| skathdreth | a feud-cord, knotted for blood owed and untied for blood paid                                   | `skath-`, harm, and _dreth_                                              |
-| hóva       | ransom, the price a kindred pays to have its own back                                           | a root                                                                   |
-| bryld      | an axe                                                                                          | a root                                                                   |
-| hraldi     | iron                                                                                            | a root                                                                   |
-| hraldar    | a smith, one who works iron                                                                     | _hraldi_ and `-ar`                                                       |
-| vrid       | a figure carved in wood                                                                         | a root                                                                   |
-| skurn      | a pelt prepared for the river trade                                                             | a root                                                                   |
-| ámra       | amber                                                                                           | a root                                                                   |
-| ruvan      | a river                                                                                         | a root; closes a ground name as `-ruvan`                                 |
-| hreth      | a ford                                                                                          | a root; closes a ground name as `-hreth`                                 |
-| wern       | a lake                                                                                          | a root; closes a ground name as `-wern`                                  |
-| mórth      | a landing, where boats put in                                                                   | a root                                                                   |
-| grema      | deep winter, when the frozen rivers become roads                                                | a root                                                                   |
-| vyrel      | a pine                                                                                          | a root                                                                   |
-| óthlin     | a son, the younger of the holding                                                               | `óth-` and `-lin`                                                        |
-| óthwa      | a daughter, a woman born to the holding                                                         | `óth-` and `-wa`                                                         |
-| óthris     | the mistress of a household                                                                     | `óth-` and `-ris`                                                        |
-| frithwin   | a brother, a kinsman within the kindred's peace                                                 | `frith-` and `-win`                                                      |
-| frithwina  | a sister                                                                                        | _frithwin_ and the `-a`                                                  |
+| word         | what it is                                                                                      | how it is formed                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| `vorth`      | a telling: a tale in prose told at the hearth, its details free to change from hearth to hearth | a root                                                                                       |
+| `drúnga`     | a lay: a deed sung in stanzas of long lines and held word for word by the one who learned it    | a root                                                                                       |
+| `meldra`     | the lament the women of a household raise over their dead before the burial or the pyre         | a root                                                                                       |
+| `vreld`      | a charm: a few spoken lines laid on a hurt, a lame horse, a sick child or a spirit kept off     | a root                                                                                       |
+| `eldskorn`   | the tally of the ancestors: a kindred's dead recited name by name at Weskskald                  | `eld-` and `-skorn`, a tally                                                                 |
+| `ráwel`      | a sign read in the forest—a track, a bird's flight, a wind turning—to judge what to do next     | a root                                                                                       |
+| `vóra`       | a vow spoken aloud before the war-band, binding before its witnesses                            | a root                                                                                       |
+| `eldu`       | an ancestor, one of the remembered dead                                                         | the free form of the stem `eld-` in _eldwesk_; the Nordmal `eld-`, fire, is a different word |
+| `weskgrund`  | the totem's land, where the dead are with their village's wesk                                  | _wesk_ and `-grund`                                                                          |
+| `vrysteld`   | one of the dead the ancestors have cast out of the totem's land                                 | `vryst-`, held by nobody, and the stem `eld-`                                                |
+| `vrystgrund` | a blood-field: ground where many died at once and no Shaman called them home, held by no totem  | _vryst-_, held by nobody, and `-grund`; the word answers _weskgrund_                         |
+| `hrág`       | a hungry spirit, one of those that hunt the weak beyond the totem's land                        | a root                                                                                       |
+| `skómel`     | the Shaman's trance, the going-out to the spirits while kin keep the body warm                  | a root                                                                                       |
+| `hróm`       | a burial mound holding generations of a kindred's dead                                          | a root, cognate with the Nordmal _hrúm_; closes a ground name as `-hróm`                     |
+| `brenth`     | a pyre                                                                                          | a root                                                                                       |
+| `glóth`      | a banked fire, the hearth covered over to keep it alive until morning                           | a root                                                                                       |
+| `dorg`       | a giant, one of the great ones said to have walked the forest before the clans                  | a root; opens a name as `dorg-`                                                              |
+| `frath`      | a war-band, the company a village sends out                                                     | attested in the Waldburg Frath, `being-hrdrskldrth`                                          |
+| `brúkn`      | a raid for cattle, goods and captives                                                           | a root                                                                                       |
+| `dreth`      | a cord, a knotted string                                                                        | a root                                                                                       |
+| `skathdreth` | a feud-cord, knotted for blood owed and untied for blood paid                                   | `skath-`, harm, and _dreth_                                                                  |
+| `hóva`       | ransom, the price a kindred pays to have its own back                                           | a root                                                                                       |
+| `bryld`      | an axe                                                                                          | a root                                                                                       |
+| `hraldi`     | iron                                                                                            | a root                                                                                       |
+| `hraldar`    | a smith, one who works iron                                                                     | _hraldi_ and `-ar`                                                                           |
+| `vrúd`       | a figure carved in wood                                                                         | a root                                                                                       |
+| `skurth`     | a pelt prepared for the river trade                                                             | a root                                                                                       |
+| `ámrith`     | amber                                                                                           | a root                                                                                       |
+| `ruvith`     | a river                                                                                         | a root; its stem closes a ground name as `-ruvan`                                            |
+| `hreth`      | a ford                                                                                          | a root; closes a ground name as `-hreth`                                                     |
+| `wern`       | a lake                                                                                          | a root; closes a ground name as `-wern`                                                      |
+| `móreth`     | a landing, where boats put in                                                                   | a root                                                                                       |
+| `grema`      | deep winter, when the frozen rivers become roads                                                | a root                                                                                       |
+| `vyrel`      | a pine                                                                                          | a root                                                                                       |
+| `óthlin`     | a son, the younger of the holding                                                               | `óth-` and `-lin`                                                                            |
+| `óthwa`      | a daughter, a woman born to the holding                                                         | `óth-` and `-wa`                                                                             |
+| `óthrún`     | the mistress of a household                                                                     | `óth-` and `-ris`                                                                            |
+| `frithwin`   | a brother, a kinsman within the kindred's peace                                                 | `frith-` and `-win`                                                                          |
+| `frithwina`  | a sister                                                                                        | _frithwin_ and the `-a`                                                                      |
 
-The particle `vel` is a word and no element is spelled the same way, so a sentence never carries an element on its own and a name is never built from a kept word.
+The particle `vurd` is a word and no element is spelled the same way, so a sentence never carries an element on its own and a name is never built from a kept word.
 
 ## Male Given Names
 

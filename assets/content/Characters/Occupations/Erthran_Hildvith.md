@@ -1,6 +1,6 @@
 ---
 shortcode: erthrnhldvth
-name: {full: Erthran Hildvith, aliases: []}
+name: {full: Erthran yra Hildvith wur Waldburg, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -394,11 +394,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with defined cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large hazel eyes sit beneath furrowed brows and give him an expressive gaze. He has a prominent nose and firm lips. He has light skin with a weathered complexion. His dark blonde hair is long and gathered with a leather thong.
+Erthran yra Hildvith wur Waldburg is a 44-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with defined cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large hazel eyes sit beneath furrowed brows and give him an expressive gaze. He has a prominent nose and firm lips. He has light skin with a weathered complexion. His dark blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Erthran Hildvith is a trapper.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Erthran is a trapper.
 
 Erthran has spent his entire life in the forest, trapping animals for their fur and meat. He learned the trade from his father, who taught him to respect the land and take only what is needed. He is a skilled tracker and has an intimate knowledge of the local wildlife. He is often hired to remove problem animals or gather furs for traders, though he avoids over-trapping out of respect for the land.
 

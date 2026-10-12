@@ -1,6 +1,6 @@
 ---
 shortcode: wlfrdhldvth
-name: {full: Wulfrád Eichengrund, aliases: [Wulfrád Hildvith]}
+name: {full: Wulfrád yra Hildvith wur Skathburg, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -11,7 +11,7 @@ data:
   occupation: Man-at-Arms (Sapper)
   lore: []
   culture: varokhiclt
-  homes: [eichengrnd]
+  homes: [skathburg]
   affiliations: {vrystwldtrbs: {rank: 3}}
   gender: male
   species: humanflk
@@ -395,15 +395,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Wulfrád Eichengrund is a 40-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His hooded blue eyes sit beneath furrowed brows, lending him a guarded gaze. A prominent nose and expressive lips complete his features. He has light skin with a rugged complexion. His white hair is braided at the temples.
+Wulfrád yra Hildvith wur Skathburg is a 40-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His hooded blue eyes sit beneath furrowed brows, lending him a guarded gaze. A prominent nose and expressive lips complete his features. He has light skin with a rugged complexion. His white hair is braided at the temples.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfrád Eichengrund came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfrád came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
 Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 
-Now at 40 years of age, Wulfrád Eichengrund has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 40 years of age, Wulfrád has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -421,7 +421,7 @@ Highly experienced, strong leadership skills, skilled in engineering.
 
 ## Social
 
-Wulfrád works with Eichengrund’s war-band on palisades, crossings and siege craft. His skill is valued by the village War Chief, not certified by an engineers’ guild.
+Wulfrád works with [[place-skathburg|Skathburg]]'s war-band on its double timber ring, its crossings and its siege craft, against Grukar raids that come in small numbers and keep coming. His skill is valued by the village War Chief, not certified by an engineers’ guild.
 
 ## Companions
 

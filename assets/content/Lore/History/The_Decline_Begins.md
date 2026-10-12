@@ -32,6 +32,9 @@ data:
             how: >-
               practical independence returns while the formal ties stay, and the relationship becomes that of a grown child to an aging parent
             knowledge: named
+          - place: place-vrystwald
+            how: after the Three Winters Varokh war-bands strip northern Moktur's valleys for grain, and the province's revenue fails
+            knowledge: named
           - place: place-nrdlndsrgn
             how: the fleets that burned the western coast come home with church silver, and a generation later the empire is paying the same hirds to hold what they loosened
             knowledge: named

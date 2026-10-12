@@ -378,9 +378,9 @@ Gnurthselda Hafringr was born to a shield-maiden lineage in [[place-nordheim|Nor
 
 Her father, **Garón the Smith**, remarried quickly to a merchant woman and wanted Gnurthselda to abandon the warrior's path. He built her a life in trade, away from fighting. But at fourteen, Gnurthselda watched her father's new wife's nephew push a merchant off a dock during a dispute, and nobody moved to stop him. Something in her broke. She took up her mother's spear, left her father's house without farewell, and presented herself to the Thraldfjord fortress commander demanding service as a shield-maiden in the traditional way.
 
-Fortress commander **Jarl Rothgar Hrondinsson** laughed at her—a girl, barely taller than his adolescent son, claiming warrior status. He gave her a job mucking stalls and said she could train if she kept working. Gnurthselda never asked for easier treatment. For twenty-five years, she has served the fortress: first as an unpaid trainee, then as irregular cavalry, eventually as professional soldier-for-hire during the Haradian independence conflicts. She has killed seventeen people in direct combat—a modest number, but each one documented in the fortress records. The younger soldiers claim her spear moves like water flowing around stone.
+Fortress commander **Jarl Vrathvir Hrundidrokh** laughed at her—a girl, barely taller than his adolescent son, claiming warrior status. He gave her a job mucking stalls and said she could train if she kept working. Gnurthselda never asked for easier treatment. For twenty-five years, she has served the fortress: first as an unpaid trainee, then as irregular cavalry, eventually as professional soldier-for-hire during the Haradian independence conflicts. She has killed seventeen people in direct combat—a modest number, but each one documented in the fortress records. The younger soldiers claim her spear moves like water flowing around stone.
 
-Now at forty years old, she is graying, scarred, and the only woman in Thraldfjord fortress command who has never been forced into a marriage-alliance. She has become indispensable to Jarl Rothgar as his personal guard and occasional scout. The work is steady if brutal.
+Now at forty years old, she is graying, scarred, and the only woman in Thraldfjord fortress command who has never been forced into a marriage-alliance. She has become indispensable to Jarl Vrathvir as his personal guard and occasional scout. The work is steady if brutal.
 
 ## Psyche
 
@@ -404,7 +404,7 @@ Gnurthselda occupies a liminal space in Nordheim society: respected by warriors,
 
 ### Patrons
 
-**Jarl Rothgar Hrondinsson**—The Thraldfjord fortress commander. Rothgar is in his sixties and increasingly aware that his time is ending. He has come to rely on Gnurthselda absolutely—she is the only person in his court he trusts completely. In his will, he has made arrangements for her to receive a small pension and permanent fortress residence, though he cannot guarantee his successor will honor it.
+**Jarl Vrathvir Hrundidrokh**—The Thraldfjord fortress commander. Vrathvir is in his sixties and increasingly aware that his time is ending. He has come to rely on Gnurthselda absolutely—she is the only person in his court he trusts completely. In his will, he has made arrangements for her to receive a small pension and permanent fortress residence, though he cannot guarantee his successor will honor it.
 
 ### Enemies
 
@@ -412,7 +412,7 @@ Gnurthselda occupies a liminal space in Nordheim society: respected by warriors,
 
 ## Plot Hooks
 
-1. **The Succession Crisis**—Jarl Rothgar dies. His chosen heir is a pragmatist who sees the old warrior traditions as expensive sentimentality. Gnurthselda learns that her fortress pension will be terminated and her position eliminated. Worse, the new Jarl intends to offer the fortress as a mercenary stronghold to foreign employers—specifically, Vylarian imperial agents seeking to establish a presence in Nordheim. Gnurthselda must choose between watching Thraldfjord become a foreign military base or attempting to rally the traditional warrior families to prevent the succession.
+1. **The Succession Crisis**—Jarl Vrathvir dies. His chosen heir is a pragmatist who sees the old warrior traditions as expensive sentimentality. Gnurthselda learns that her fortress pension will be terminated and her position eliminated. Worse, the new Jarl intends to offer the fortress as a mercenary stronghold to foreign employers—specifically, Vylarian imperial agents seeking to establish a presence in Nordheim. Gnurthselda must choose between watching Thraldfjord become a foreign military base or attempting to rally the traditional warrior families to prevent the succession.
 
 2. **The Desperate Student**—A young woman, **Kess Broken-Spoke**, arrives at Thraldfjord claiming she wants to become a shield-maiden. She is desperate, haunted, and fleeing something she refuses to name. Gnurthselda recognizes a kindred spirit and takes her under her wing, teaching her combat and fortress discipline. Weeks later, assassins arrive looking for Kess. Gnurthselda learns her student is the illegitimate daughter of a Haradian guild-lord who fears her father's rise to power and wants her eliminated. Protecting Kess means war against Haradian commercial interests—and Haradian merchants have money.
 

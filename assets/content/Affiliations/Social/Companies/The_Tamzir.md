@@ -91,7 +91,7 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo
 - [[being-slvrvlskyr|Sélvara Válskyr]] (First Mate)
 - [[being-fethardhrl|Féthar Dhárel]] (Pilot)
 - [[being-kasuradmzr|Kasûra Damzarû]] (Shipwright)
-- [[being-grlfdrthgr|Garulf Druthgar]] (Sellsword)
+- [[being-grlfdrthgr|Garulf yra Druthgar wur Edrgrund]] (Sellsword)
 - [[being-isarakhldr|Isâra Khalîdra]] (Courtesan)
 - [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Priest)
 - [[being-lucernsrnt|Lucerian Serentia]] (Physician)

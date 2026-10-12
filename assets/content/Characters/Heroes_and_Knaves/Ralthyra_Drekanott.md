@@ -463,7 +463,7 @@ Ralthýra seeks not fortune nor fame, but redemption—both her own and that of 
 
 ### Patrons
 
-Brother Aldrin
+Brother Nilthorv
 : A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 
 Magistrate Driskthýra Stonehearst
@@ -477,7 +477,7 @@ The Wayfarers' Council
 The Copper Syndicate
 : A gang of organized pickpockets and con artists who view Ralthýra's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
 
-Father Cormac
+Father Unthorv
 : Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 
 Merchant House Drák

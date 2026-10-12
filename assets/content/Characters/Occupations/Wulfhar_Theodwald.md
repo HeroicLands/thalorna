@@ -1,6 +1,6 @@
 ---
 shortcode: wlfhrthdwld
-name: {full: Wulfhár Theódwald, aliases: []}
+name: {full: Wulfhár yra Theódwald wur Thornhaven, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -388,15 +388,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Wulfhár Theódwald is a 30-year-old man who stands 6'1" tall and is broad and solidly built. He has a broad face with defined cheekbones, a lined forehead, and a square jaw that leads to a broad chin. His bright brown eyes sit beneath furrowed brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His dark brown hair is pulled back in a warrior's knot.
+Wulfhár yra Theódwald wur Thornhaven is a 30-year-old man who stands 6'1" tall and is broad and solidly built. He has a broad face with defined cheekbones, a lined forehead, and a square jaw that leads to a broad chin. His bright brown eyes sit beneath furrowed brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His dark brown hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfhár Theódwald came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Wulfhár came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Wulfhár is known for his intimidating presence and fearlessness in battle. He guards Thornhaven with its war-band and has built a reputation as a reliable protector. He trains younger fighters beside the people who have fought with him for years. While he thrives in battle, he struggles to express his emotions outside it.
 
-Now at 30 years of age, Wulfhár Theódwald has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 30 years of age, Wulfhár has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

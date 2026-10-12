@@ -1,6 +1,6 @@
 ---
 shortcode: thrgrmrkhld
-name: {full: Thrágrim Ríkhild, aliases: []}
+name: {full: Thrágrim yra Ríkhild wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -392,11 +392,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Thrágrim Ríkhild is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows and give him a lively gaze. He has a broad nose and wide lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
+Thrágrim yra Ríkhild wur Falkenstein is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows and give him a lively gaze. He has a broad nose and wide lips. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thrágrim Ríkhild is a timberwright.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Thrágrim is a timberwright.
 
 Thrágrim has spent most of his life working in the forests, felling trees and shaping timber for building. He learned the trade from his father and has a reputation for skill and quick work. He is a hardworking man who takes pride in his craft, but his rough manner can be off-putting. He often works alone, preferring the solitude of the woods to the bustle of the village.
 

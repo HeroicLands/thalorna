@@ -20,7 +20,7 @@ data:
 
 Vandstein is the stony southern edge of Vrystwald, toward [[affiliation-vylarinmpr|Vylaria]]. The few crossings make travel and fur trade possible, but neither a pass nor an old road gives an outside ruler authority over the forest villages below it.
 
-Overgrown Vylarian posts survive in the southern woods, traces of an earlier imperial reach. A ruin can offer shelter or buried goods to a party that finds it, and can also draw an imperial claimant into ground a nearby village considers its own. Conflict here is intermittent, carried by travelers and claims through difficult passes rather than by a continuous line of forts.
+Overgrown Vylarian posts survive in the southern woods, traces of the road the Empire cut north out of Moktur about 120 AF and gave up about 340 ([[lore-legionsroad|The Legions' Road]]). A ruin can offer shelter or buried goods to a party that finds it, and can also draw an imperial claimant into ground a nearby village considers its own. Conflict here is intermittent, carried by travelers and claims through difficult passes rather than by a continuous line of forts.
 
 ## See Also
 

@@ -422,7 +422,7 @@ Tvalgthann stands 5'7" tall with a light build. He has light fair skin, red hair
 
 ### Early Life and the Jester's Gift
 
-Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Tvalgthann was born during the tempestuous month of spring winds in a riverside town of [[place-vithgard|Vithgard]]'s eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Tvalgthann learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Skruldvir**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
@@ -472,7 +472,7 @@ Duke Vraldthann of Vithgard
 Sigrid Blóthöll
 : His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 
-Master Kolbeinn
+Master Skruldvir
 : His aging mentor and former teacher, now retired in the mountains, whom Tvalgthann consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies
@@ -497,7 +497,7 @@ The Wandering Minstrels' Collective
 
 2. **The Prophecy in Jest** - A traveling mystic attends one of Tvalgthann's performances and afterward approaches him with a chilling assertion: that his jokes contain prophetic truth, that the universe speaks through his wit in ways he doesn't consciously understand. She offers cryptic evidence—past jokes that came true, warnings embedded in his past performances. Tvalgthann must investigate whether he is a conduit for something far greater, or if this is merely a clever deception preying upon his desire for meaning.
 
-3. **The Hidden Heir** - A child arrives at the Duke's court claiming to be the bastard offspring of **Master Kolbeinn**, Tvalgthann's mentor. The child possesses extraordinary performance talent and claims Kolbeinn sent them to study under Tvalgthann. But the timing is suspicious, and whispers suggest this child may be a spy, an impostor, or worse—a political tool placed to compromise Tvalgthann's loyalty. He must discover the truth while potentially training a successor he doesn't trust.
+3. **The Hidden Heir** - A child arrives at the Duke's court claiming to be the bastard offspring of **Master Skruldvir**, Tvalgthann's mentor. The child possesses extraordinary performance talent and claims Skruldvir sent them to study under Tvalgthann. But the timing is suspicious, and whispers suggest this child may be a spy, an impostor, or worse—a political tool placed to compromise Tvalgthann's loyalty. He must discover the truth while potentially training a successor he doesn't trust.
 
 4. **The Merchants' Rebellion** - A coalition of wealthy merchants approaches Tvalgthann with a proposal: use his access to the Duke's ear to advocate for tax reforms and reduced trade tariffs that benefit commerce. Refusing risks making enemies of powerful merchants; accepting means compromising his relationship with the Duke and potentially betraying his patron's interests. The situation grows more complex when he discovers the merchants' true goal is not reform but complete political restructuring.
 

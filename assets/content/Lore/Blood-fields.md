@@ -95,12 +95,13 @@ A settlement rite performed over the field, in the rite of the people whose dead
 
 ## The Names
 
-| People        | Word           | What it means                                                                                              |
-| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------- |
-| Provènzia     | blood-field    | The Provenzian word, which these pages use for every people's fields                                       |
-| Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"                                              |
-| The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on |
-| Aû'Khelâthu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                |
+| People        | Word           | What it means                                                                                                                                  |
+| ------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Provènzia     | blood-field    | The Provenzian word, which these pages use for every people's fields                                                                           |
+| Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"                                                                                  |
+| The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on                                     |
+| The Varokh    | _vrystgrund_   | "ground held by nobody": _vryst-_, free of any claim, and _-grund_, the floor of a valley, the word that answers _weskgrund_, the totem's land |
+| Aû'Khelâthu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                                                    |
 
 ## Vedyara: the Shorukshetra
 
@@ -150,30 +151,42 @@ In the [[place-nrdlndsrgn|Nordlands]] a death is not finished until the grave-al
 
 Three fields in the north, one to each great war, and a fourth that northern hands made abroad. Dómsey, where the five kings' hirds killed each other on the strand in 287 and the ale was never drunk, a silence, thin, and held shut only at the sittings; Skalfvatn, where Malagna's king and eleven hundred men went through the ice in 466, a recurrence; and Dvulgvangr, where Targud's hird and its farmers held a ford against a Grukar horde for three days in 613 and were carried off, a dread. The [[place-bldfldyharvalen|Blood-field of Yhârvalen]] in Provènzia was made by the Nordheim fleets of about 520, and it is Provènzia's. Haulonna, Askholm and Ísdal are a sorcery on an enclave, a burning and a sickness, and the north calls none of them a _vrellvöll_.
 
+## The Varokh: the Vrystgrund
+
+Among the [[lore-varokhiclt|Varokh]] the dead go to their village's _wesk_ (totem), and it is the Shaman who sends them. At a burial or a pyre the Shaman calls the dead person by name into the _weskgrund_, the totem's land, where the ancestors are, and the kin keep the body warm until the call is answered. A soul nobody calls wanders outside the totem's land, where the _hrág_ (hungry spirits) hunt the weak, and the Varokh do not need to be told what becomes of it.
+
+A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman called them home: ground held by nobody, the opposite of the totem's land. The Varokh have two in their own forest, and neither holds Varokh dead. [[place-skathhreth|Skathhreth]], the harm ford on the Moldún, holds a Vylarian legion destroyed there in 291 AF, men who had no totem to be called to; it is a recurrence and the thinnest field in the forest, where the column is seen on the water at dusk and the _hrág_ gather in the thaw. [[place-grimak|Grimak]], the burned thicket in Skathwald, holds the Varokh the Grukar took before the nest was burned in 536, of whom nothing was left to call; it is a silence, moderate across the ring and thin in the hollow, and something in it calls Varokh names. A third field holds Varokh dead and lies outside the forest: the Black Marsh in Moktur, where a host of the hunger raids died in 520 with no Shaman among them, which Moktur keeps.
+
+**What ends one.** A Shaman calls the dead home, by name, at the field. It needs the names and it needs a totem to call them to, and the forest's own fields have neither: the legion's dead have no totem and the Grukar's victims left nothing to name. Nobody has tried at either, and the Shamans say so plainly.
+
+**How the villages live beside one.** No village stands within a day's walk of Skathhreth, and the ford is crossed by day and never in the thaw-week; the Shamans of the nearest villages lay a line of ash along its north bank each spring. Mahnrýth sings its lament at an empty mound and never at Grimak, and the grove council at Rádholt sounds the alarm if anyone is missing near the thicket. A feud between villages kills by the dozen and its dead are carried home and called, so no Varokh feud has ever made a _vrystgrund_.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
 
-| Field                                        | People whose ground it is | Battle                                                  | Made    | Kind                 | Thin                          |
-| -------------------------------------------- | ------------------------- | ------------------------------------------------------- | ------- | -------------------- | ----------------------------- |
-| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]          | 499 BF  | recurrence           | moderate                      |
-| [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                  | ~300 BF | silence              | moderate                      |
-| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                  | ~190 BF | recurrence           | thin                          |
-| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]] | 268 AF  | withering, contained | moderate, worse in lean years |
-| [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]           | ~270 AF | recurrence           | slight                        |
-| [[place-domsey\|Dómsey]]                     | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]      | 287 AF  | silence              | thin, quieted at each sitting |
-| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]   | ~312 AF | quickening           | moderate                      |
-| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]               | 315 AF  | dread                | thin                          |
-| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]             | 377 AF  | recurrence           | thin                          |
-| [[place-skalfvatn\|Skalfvatn]]               | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                      | 466 AF  | recurrence           | moderate                      |
-| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                      | ~520 AF | withering            | thin, worked on               |
-| [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                               | ~548 AF | silence              | thin                          |
-| [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]           | 613 AF  | dread                | thin                          |
-| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                  | the Breaking                                            | ~620 AF | recurrence           | moderate                      |
-| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
-| [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                       | —       | recurrence           | —                             |
-| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                       | —       | quickening           | —                             |
-| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                 | —                                                       | —       | silence              | —                             |
+| Field                                        | People whose ground it is | Battle                                                       | Made    | Kind                 | Thin                          |
+| -------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ------- | -------------------- | ----------------------------- |
+| [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]               | 499 BF  | recurrence           | moderate                      |
+| [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                      |
+| [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                          |
+| [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years |
+| [[place-gajasthali\|Gajasthalī]]             | Vedyara                   | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                        |
+| [[place-domsey\|Dómsey]]                     | The Nordlands             | [[lore-nordfirstsit\|The First Sitting on Dómsey]]           | 287 AF  | silence              | thin, quieted at each sitting |
+| [[place-skathhreth\|Skathhreth]]             | The Varokh                | [[lore-skathhrethlss\|The Loss of the Legion at Skathhreth]] | ~291 AF | recurrence           | thin                          |
+| [[place-wemaq\|Wemaq]]                       | The Khazryn steppe        | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                      |
+| [[place-lanthusthli\|Lanthusthalī]]          | Vedyara                   | [[lore-marupalafl\|The Fall of Marupāla]]                    | 315 AF  | dread                | thin                          |
+| [[place-chariotfld\|The Chariot Field]]      | Aû'Khelâthu               | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                          |
+| [[place-skalfvatn\|Skalfvatn]]               | The Nordlands             | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                      |
+| [[place-bldfldyharvalen\|Yhârvalen]]         | Provènzia                 | the Nordheim raids                                           | ~520 AF | withering            | thin, worked on               |
+| [[place-grimak\|Grimak]]                     | The Varokh                | [[lore-grimakburning\|The Burning at Grimak]]                | ~536 AF | silence              | moderate, thin in the hollow  |
+| [[place-qimod\|Qìmod]]                       | The Khazryn steppe        | the sack of the spur town                                    | ~548 AF | silence              | thin                          |
+| [[place-dvulgvangr\|Dvulgvangr]]             | The Nordlands (Targud)    | [[lore-burningeast\|The Burning of the East]]                | 613 AF  | dread                | thin                          |
+| [[place-henhulpedin\|Henhulpedin]]           | Tellumel                  | the Breaking                                                 | ~620 AF | recurrence           | moderate                      |
+| [[place-bldfldtiravlen\|Tiravlen]]           | Provènzia                 | —                                                            | —       | recurrence           | —                             |
+| [[place-bldfldserravel\|Serravel]]           | Provènzia                 | —                                                            | —       | recurrence           | —                             |
+| [[place-bldfldkyvarel\|Kývarel]]             | Provènzia                 | —                                                            | —       | quickening           | —                             |
+| [[place-bldfldcalvenza\|Calvènza]]           | Provènzia                 | —                                                            | —       | silence              | —                             |
 
 ## See Also
 

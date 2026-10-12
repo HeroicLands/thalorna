@@ -478,10 +478,10 @@ Anthorv is motivated by two seemingly contradictory drives: the desire to be rem
 King Braldmýl II
 : The current monarch of Targud, who values Anthorv's ability to speak uncomfortable truths while maintaining plausible deniability. Braldmýl has publicly denied ever taking the jester's advice, but privately relies on his insights.
 
-Lady Alrún Dvarnendikh, Court Mistress
+Lady Tvirnynda Dvarnendikh, Court Mistress
 : The wife of a powerful noble and one of the few people with whom Anthorv maintains something approaching true friendship; she values his honesty disguised as mockery.
 
-The Innkeeper Styrbjorn
+The Innkeeper Hvilgvir
 : His oldest friend, who manages the _Silver Wyvern_ tavern where Anthorv performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
 ### Enemies

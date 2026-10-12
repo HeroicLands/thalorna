@@ -1,6 +1,6 @@
 ---
 shortcode: hrmndgrwld
-name: {full: Hármund Garwald, aliases: []}
+name: {full: Hármund yra Garwald wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
@@ -394,11 +394,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows and give him a watchful gaze. He has a strong nose and expressive lips. He has light skin, lined with age. His graying brown hair is thinning on top.
+Hármund yra Garwald wur Falkenstein is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows and give him a watchful gaze. He has a strong nose and expressive lips. He has light skin, lined with age. His graying brown hair is thinning on top.
 
 # Dossier {#dossier}
 
-Born in [[place-falkensten|Falkenstein]] to a Varokh smithing family, Hármund Garwald is a weaponcrafter and armorer.
+Born in [[place-falkensten|Falkenstein]] to a Varokh smithing family, Hármund is a weaponcrafter and armorer.
 
 Hármund is a master blacksmith and weaponcrafter who has been forging weapons for over thirty years. His blades are known for their durability and sharpness, and he is held to be one of the finest weaponcrafters on the Nordmal frontier. He is strict with his apprentices, demanding precision and quality in every piece. He takes pride in his work, but age has begun to slow him, and he struggles to turn out as much as he did in his younger years.
 

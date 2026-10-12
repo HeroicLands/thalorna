@@ -1,6 +1,6 @@
 ---
 shortcode: frthgrvthrnd
-name: {full: Frithgár Vithrúnd, aliases: []}
+name: {full: Frithgár yra Vithrúnd wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -391,15 +391,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Frithgár Vithrúnd is a 42-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with high cheekbones, a smooth forehead, and a square jaw that leads to a firm chin. His hooded green eyes sit beneath furrowed brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has fair skin with a ruddy complexion. His red hair is pulled back in a warrior's knot.
+Frithgár yra Vithrúnd wur Falkenstein is a 42-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with high cheekbones, a smooth forehead, and a square jaw that leads to a firm chin. His hooded green eyes sit beneath furrowed brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has fair skin with a ruddy complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Frithgár came into the world of the huscarl through a combination of circumstance and aptitude.
 
 Frithgár has fought with Falkenstein’s war-band for many years. He is respected for his tactical knowledge and for teaching younger warriors to hold the palisade when a raiding party is away. He aims to pass on what he knows so the next generation can defend the village.
 
-Now at 42 years of age, Frithgár Vithrúnd has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 42 years of age, Frithgár has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

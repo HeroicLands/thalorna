@@ -1,6 +1,6 @@
 ---
 shortcode: edrgrsndryth
-name: {full: Edrígar Sundrýth, aliases: []}
+name: {full: Edrígar yra Sundrýth wur Falkenstein, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,15 +393,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrígar Sundrýth is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
+Edrígar yra Sundrýth wur Falkenstein is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Edrígar came into the world of the miner through a combination of circumstance and aptitude.
 
 Edrígar is a veteran miner with decades of experience in the field. He has worked in various mines and has a deep understanding of geology and extraction methods. Known for his wisdom and mentoring abilities, Edrígar often trains younger miners and shares his knowledge of the trade. He values the importance of safety and has fought for better conditions in the mines.
 
-Now at 45 years of age, Edrígar Sundrýth has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 45 years of age, Edrígar has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

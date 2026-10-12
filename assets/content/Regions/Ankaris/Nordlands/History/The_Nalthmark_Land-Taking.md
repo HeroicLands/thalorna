@@ -34,6 +34,11 @@ data:
             The bounds were walked with fire before witnesses and the gods, as the faith teaches, and a claim so witnessed is a claim; the crown has neither blessed the settlement nor called it back.
           agrees: partly
           withholds: that the fire-walking shows what the settlers believe and not that the grove was theirs to take
+        - by: lore-varokhiclt
+          says: >-
+            The grove is the Eichthúl's, its oldest oaks hold the kindred's spirits and its ground holds the kindred's dead, and no fire walked around it by strangers makes it anybody else's. Mahnulf yra Eichthúl wur Eichrýth burned the first stockade, and Erthilda yra Eichthúl wur Eichrýth, the kindred's Shaman, keeps the count of the dead under the settlers' posts.
+          agrees: disputes
+          withholds: that the Eichthúl dead have lain unvisited since, because the Shaman will not cross the settlers' bounds to call them
       unresolved:
         - whether the crown at Knalthstead sent the settlers, permitted them or merely failed to stop them
         - what either people owes the other's dead in the grove, and who could accept the payment
@@ -50,6 +55,12 @@ The grove was not empty ground. It belonged, in the only sense the forest knows,
 ## Two Claims
 
 Nordheim's account is the settlers' own. The bounds were walked with fire before witnesses and the gods, and a claim so witnessed is a claim; the king at [[place-knalthstead|Knalthstead]] has neither blessed the settlement nor called it back, and whether the crown sent the settlers, permitted them or merely failed to stop them is a question the court does not answer. The rite is part of the quarrel rather than its proof. It shows what the settlers believe, and it does not show that the grove was theirs to take. The Varokh keep their own account of the grove and of the dead in it, and it is told with the forest's histories.
+
+## The Eichthúl Account
+
+The Eichthúl tell it as a theft and a desecration in one. The grove at Hrindstead is the [[lore-varokhiclt|Varokh]] kindred's own: its oldest oaks house the kindred's spirits, its ground holds the kindred's dead, and the Eichthúl kept it with the Shaman's leave for longer than their _eldskorn_ (ancestor tally) remembers names. In 708 strangers planted posts in it and walked fire around it, which in the forest is how a man shows he means to burn something.
+
+**Mahnulf yra Eichthúl wur Eichrýth**, War Chief of the kindred's village, burned the first stockade within the month. The settlers raised the second on the same posts, and Mahnulf has not yet been given the muster he would need to burn it, because the danger is the Eichthúl's and the neighboring villages' elders have not agreed it is theirs. **Erthilda yra Eichthúl wur Eichrýth**, the kindred's Shaman, keeps the count of the Eichthúl dead who lie under the settlers' floors. She will not cross the settlers' bounds to call them home while the posts stand, and she has not called them since 708, so every winter the count is recited at Weskskald with nothing after it. That is the grievance the Eichthúl state first, before the trees and before the ground.
 
 ## What It Left
 

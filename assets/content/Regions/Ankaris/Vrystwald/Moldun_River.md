@@ -19,7 +19,7 @@ The Moldún River is the southern bound of the **Gárskald** clan's hunting grou
 
 ## The Logging Camp
 
-The river is also where the forest is under threat. A Vylarian logging operation has set itself up along the Moldún, within sight of the Gárskald's southern boundary markers, and its loggers are cutting deep into the forest and felling ancient trees the Varokh hold sacred. The clan chief wants them gone and cannot afford a military confrontation with the empire, so the Moldún is where anyone with a quieter answer—sabotage, negotiation, or leverage over the logging company—finds the clan willing to listen.
+The river is also where the forest is under threat. A Vylarian logging operation has set itself up along the Moldún, within sight of the Gárskald's southern boundary markers, and its loggers are cutting deep into the forest and felling ancient trees the Varokh hold sacred. The War Chief of the Gárskald's village wants them gone and cannot afford a military confrontation with the empire, so the Moldún is where anyone with a quieter answer—sabotage, negotiation, or leverage over the logging company—finds the Gárskald willing to listen. The camp stands upstream of [[place-skathhreth|Skathhreth]], the ford where a Vylarian legion was destroyed in 291, and its loggers water their oxen in a blood-field without knowing it.
 
 ## See Also
 

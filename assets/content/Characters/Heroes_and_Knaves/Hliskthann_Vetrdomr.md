@@ -463,8 +463,8 @@ Hliskthann is motivated by a simple but deep desire to provide protection and co
 
 ### Patrons
 
-Jarl Thorstein Gnaldrendikh
-: A regional noble whose family estate Hliskthann has maintained for twenty-three years. Thorstein trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
+Jarl Hrindorv Gnaldrendikh
+: A regional noble whose family estate Hliskthann has maintained for twenty-three years. Hrindorv trusts Hliskthann absolutely and has commissioned numerous repairs and renovations. The relationship is one of real mutual respect.
 
 The Covenant of Malagna Farmers
 : An informal association of agricultural communities who, collectively, finance Hliskthann's annual maintenance work, since their collective prosperity depends on sound storage structures with weather-proof roofing.
@@ -497,4 +497,4 @@ Mótefnir's rural faithful
 
 4. **The Rival's Sabotage**: Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.
 
-5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Thorstein and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.
+5. **The Storm's Aftermath**: A catastrophic and unprecedented storm strikes the region, destroying or severely damaging dozens of structures. Hliskthann is approached by Jarl Hrindorv and the farmers' covenant to lead reconstruction efforts, requiring him to coordinate multiple craftspeople, manage resources, and work at an intense pace despite his aging body. Success would cement his legacy; failure would leave the region vulnerable heading into winter. The work becomes a race against time, injury, and winter's onset.

@@ -466,16 +466,16 @@ Braldthann is driven by an almost obsessive need to preserve what his family bui
 
 ### Patrons
 
-Magistrate-Commander Haldor Knarvumakh
-: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Haldor privately worries about the aging craftsman's future reliability.
+Magistrate-Commander Svalthann Knarvumakh
+: The military quartermaster of the Nordheim garrison places annual orders for campaign tents. He values Braldthann's work so highly that he has never sought alternatives, though Svalthann privately worries about the aging craftsman's future reliability.
 
-Merchant-Prince Erikson Wayfarer
-: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Erikson credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
+Merchant-Prince Flarnvir Wayfarer
+: A wealthy trading expedition leader who has used Braldthann's tents for three decades. Flarnvir credits the craftsman's work with saving his life during a catastrophic storm in the Northern Peaks.
 
 ### Enemies
 
-Halvar Fastworker
-: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Halvar represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
+Snurvmýl Fastworker
+: A talented younger tentmaker who undercuts Braldthann's prices by thirty percent while maintaining adequate quality. To Braldthann, Snurvmýl represents everything wrong with the new generation. The tension between them has created a genuine rivalry in the Guild.
 
 The Young Apprentices' Coalition
 : A group of journeymen seeking to reform the Tentmakers' Guild's rigid apprenticeship system. They view Braldthann as an obstacle to progress and modernization.
@@ -487,12 +487,12 @@ Tentmakers' Guild of Nordheim
 
 ## Plot Hooks
 
-1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Halvar? Either choice could reshape his legacy.
+1. **The Commission of Legend**: A powerful jarl's daughter commissions a tent unlike anything ever requested—a portable temple to Svartbrandr that must incorporate ritual spaces, special colorings, and materials from across the known world. The commission is enormous and prestigious, but requires Braldthann to innovate beyond his comfort and work with materials he has never handled. Will he rise to the challenge, or refuse and watch the contract go to Snurvmýl? Either choice could reshape his legacy.
 
 2. **The Apprentice's Return**: Years ago, Braldthann turned away a gifted but headstrong apprentice, **Knarvselda Ringbinder**, claiming she lacked discipline. Now she returns as a master craftsperson trained abroad, having developed revolutionary techniques that combine Braldthann's family methods with foreign innovation. She offers to collaborate with him, but her success stings his pride. Can two stubborn masters find common ground, or will ego destroy a partnership that could save the old traditions?
 
-3. **The Conspiracy of Quality**: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Halvar Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
+3. **The Conspiracy of Quality**: Military investigators approach Braldthann with evidence that someone has been deliberately sabotaging his tents—introducing flaws that barely manifest until soldiers are in the field. Someone wants to damage his reputation and open market share. Braldthann must investigate whether the culprit is **Snurvmýl Fastworker**, a jealous rival, or someone else entirely—perhaps even a competitor being hired by foreign powers to weaken Nordheim's military supply.
 
-4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Ingrid Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
+4. **The Master's Illness**: Braldthann's arthritic hands worsen dramatically. His physician, **Healer Knarvrinna Bondswoman**, warns that within a year he may lose the dexterity that defines his art. Desperate, Braldthann seeks a solution—perhaps a pilgrimage to a shrine of Svartbrandr rumored to grant miraculous healing, or a dangerous ritual that might preserve his abilities at great cost. His journey becomes a race against time and infirmity.
 
 5. **Preserving the Legacy**: With no worthy heir to his methods, Braldthann faces a mortality crisis. A noble patron offers to fund a comprehensive record of his techniques—a master work that would preserve his family's knowledge forever. But the project requires collaboration with scribes and scholars, constant explanation, and admission that his way may not be eternal. Can he accept that immortality through documentation might be all that remains available to him?

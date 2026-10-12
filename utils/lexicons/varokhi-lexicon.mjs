@@ -26,7 +26,7 @@
  * restated, because a second copy of a rule drifts from the first the moment
  * either is edited, and the note is where a phonology is settled.
  *
- * Five checks.
+ * Six checks.
  *
  * **The corpus.** Names are read from frontmatter and from the note's own
  * lists, never from prose: a name in frontmatter is a name, while a capitalized
@@ -51,6 +51,16 @@
  * **The gender a name is given to.** A being's note states the gender, and the
  * closing states it too, so the two are compared: a man's name closing the way a
  * woman's closes is a finding on the note that carries it.
+ *
+ * **A person's name in full.** The note states how a Varokh is named in full:
+ * the given name, the particle for "of the kindred" and the clan, the particle
+ * for "of the ground" and the village, both particles read off the table of
+ * kept words. Every Varokhi being's `name.full` takes that form, or the given
+ * name and an earned Varokhi byname the note publishes; a character's
+ * `name.given` and `name.clan` state the two pieces and agree with the name in
+ * full; a clan is never a village the forest names;
+ * the village is the settlement the being's `homes` names, where it names one;
+ * and no alias sets a given name and a clan side by side without the particle.
  *
  * **The note against itself.** Three of the note's tables can disagree without
  * any name showing it. An element that opens a name stands first in it, so its
@@ -301,7 +311,7 @@ export function listed(text) {
         for (const entry of entries) {
             const word = entry
                 .trim()
-                .split(/\s*[–-]\s*"/)[0]
+                .split(/\s*[–—-]\s*"/)[0]
                 .trim();
             if (word) out.push({ name: word, kind, listed: heading });
         }
@@ -464,12 +474,17 @@ export function lexiconFrom(text) {
     const kept = new Set();
     for (const cells of rows(section(text, "### The words the tongue keeps")))
         if (cells[0]) kept.add(cells[0].replace(/[_*`]/g, "").trim().toLowerCase());
-    const joiner = (() => {
+    const keptWord = (meaning) => {
         for (const cells of rows(section(text, "### The words the tongue keeps")))
-            if (/joining two names/.test(cells[1] ?? ""))
+            if (meaning.test(cells[1] ?? ""))
                 return cells[0].replace(/[_*`]/g, "").trim().toLowerCase();
         return null;
-    })();
+    };
+    const joiner = keptWord(/joining two names/);
+    // The two particles of a person's name in full, read off the rows that say
+    // which name each stands before.
+    const ofClan = keptWord(/stands before a clan's name/);
+    const ofVillage = keptWord(/stands before a village's name/);
 
     // The bynames the page renders in the reader's tongue, from the sentence
     // that names them.
@@ -529,6 +544,8 @@ export function lexiconFrom(text) {
         offices,
         kept,
         joiner,
+        ofClan,
+        ofVillage,
         readerTongue,
         nativeBynames,
         written,
@@ -763,6 +780,26 @@ export function formerNames() {
 }
 
 /**
+ * The pieces of a person's name in full, or null where the name does not take
+ * that form.
+ *
+ * @param {string} full - A being's `name.full`.
+ * @param {object} rule - The derived lexicon.
+ * @returns {{given: string, clan: string, village: string}|null} The pieces.
+ */
+export function formalParts(full, rule) {
+    if (!rule.ofClan || !rule.ofVillage) return null;
+    const words = String(full ?? "")
+        .trim()
+        .split(/\s+/);
+    if (words.length !== 5) return null;
+    const [given, ofClan, clan, ofVillage, village] = words;
+    if (ofClan.toLowerCase() !== rule.ofClan || ofVillage.toLowerCase() !== rule.ofVillage)
+        return null;
+    return { given, clan, village };
+}
+
+/**
  * Every Varokhi name the corpus holds, with the class it belongs to and where
  * it is written.
  *
@@ -780,6 +817,8 @@ export function corpus(rule, former = new Set()) {
     const bynames = [];
     const titles = [];
     const kept = [];
+    const beings = [];
+    const villages = new Map();
     // A note's title may be a frame in the reader's tongue, and a company's or
     // an order's name may be two Varokhi names joined by the particle the note
     // keeps. So a joined name is judged as its halves, a title of more than one
@@ -835,19 +874,34 @@ export function corpus(rule, former = new Set()) {
             // A note states the two pieces where it knows them; where it states
             // only the whole name, the first two words are the given name and
             // the clan, which is the order the note's own introduction uses.
-            const given = front.name?.given ?? (parts.length >= 2 ? parts[0] : null);
-            const clan = front.name?.clan ?? (parts.length >= 2 ? parts[1] : null);
+            const formal = formalParts(full, rule);
+            const given =
+                front.name?.given ?? formal?.given ?? (parts.length >= 2 ? parts[0] : null);
+            const clan = front.name?.clan ?? formal?.clan ?? (parts.length >= 2 ? parts[1] : null);
             add(given, "given", file, raw, false, front.data?.gender ?? null);
             add(clan, "clan", file, raw);
-            let rest = full;
+            // The village in a name in full is a ground name, and is judged as one.
+            if (formal) add(formal.village, "place", file, raw);
+            let rest = formal ? "" : full;
             for (const part of [given, clan].filter(Boolean))
                 rest = rest.replace(String(part), " ");
             for (const alias of [rest, ...(front.name?.aliases ?? [])]) {
                 if (alias && String(alias).trim()) bynames.push(String(alias).trim());
             }
+            beings.push({
+                file,
+                raw,
+                full,
+                given: front.name?.given ?? formal?.given ?? null,
+                clan: front.name?.clan ?? formal?.clan ?? null,
+                aliases: (front.name?.aliases ?? []).map(String),
+                homes: (front.data?.homes ?? []).map(String),
+            });
         }
 
         if (front.type === "place" && relative.startsWith(VRYSTWALD)) {
+            if (front.subType === "settlement" && front.shortcode && front.name?.full)
+                villages.set(String(front.shortcode), String(front.name.full));
             add(front.name?.full, "place", file, raw, true);
             for (const alias of front.name?.aliases ?? [])
                 addAlias(alias, "place", file, raw, true);
@@ -879,7 +933,83 @@ export function corpus(rule, former = new Set()) {
         const { line, column } = positionOf(note, row.name, from);
         found.push({ ...row, file: NOTE, line, column });
     }
-    return { names: found, bynames, titles, kept };
+    return { names: found, bynames, titles, kept, beings, villages };
+}
+
+/**
+ * Every Varokhi being's name, checked against the way the note says a person is
+ * named in full.
+ *
+ * @param {object[]} beings - The beings {@link corpus} read.
+ * @param {object} rule - The derived lexicon.
+ * @param {Map<string, string>} villages - Each Vrystwald settlement's name, by shortcode.
+ * @returns {string[]} Findings.
+ */
+export function checkFormalNames(beings, rule, villages) {
+    const out = [];
+    if (!rule.ofClan || !rule.ofVillage) {
+        out.push(
+            finding(
+                NOTE,
+                null,
+                null,
+                "error",
+                "the table of kept words names no particle that stands before a clan's name and no particle that stands before a village's name, so no name in full can be read",
+            ),
+        );
+        return out;
+    }
+    const shape = `the given name, "${rule.ofClan}" and the clan, "${rule.ofVillage}" and the village`;
+    const villageNames = new Set(villages.values());
+    for (const being of beings) {
+        const at = (literal) => positionOf(being.raw, literal);
+        const report = (literal, message) => {
+            const { line, column } = at(literal);
+            out.push(finding(being.file, line, column, "error", message));
+        };
+        if (!being.given || !being.clan) {
+            report(
+                "name:",
+                "neither its name in full nor its name.given and name.clan give a given name and a clan",
+            );
+            continue;
+        }
+        if (villageNames.has(being.clan))
+            report(
+                being.clan,
+                `its clan is "${being.clan}", which is a village: a clan is a kindred, and a village holds several`,
+            );
+        const formal = formalParts(being.full, rule);
+        const byname =
+            being.full.startsWith(`${being.given} `) ?
+                being.full.slice(being.given.length + 1)
+            :   null;
+        if (formal) {
+            if (formal.given !== being.given || formal.clan !== being.clan)
+                report(
+                    being.full,
+                    `its name in full, "${being.full}", does not carry the given name "${being.given}" and the clan "${being.clan}" it states`,
+                );
+            const home = being.homes.map((code) => villages.get(code)).find(Boolean);
+            if (home && formal.village !== home)
+                report(
+                    being.full,
+                    `its name in full ends on "${formal.village}", but its home is ${home}`,
+                );
+        } else if (!(byname && rule.nativeBynames.has(byname))) {
+            report(being.full, `"${being.full}" is not a name in full: it is ${shape}`);
+        }
+        for (const alias of being.aliases) {
+            const words = alias.trim().split(/\s+/);
+            if (words.length !== 2 || words[0] !== being.given) continue;
+            if (words[1] === being.clan || villageNames.has(words[1]))
+                report(
+                    alias,
+                    `the alias "${alias}" sets a given name beside a clan or a village with no particle, and the note says they never stand so`,
+                );
+        }
+    }
+    return out;
 }
 
 /**
@@ -1078,7 +1208,7 @@ function main() {
     }
     const note = fs.readFileSync(NOTE, "utf8");
     const rule = lexiconFrom(note);
-    const { names, bynames, titles, kept } = corpus(rule, formerNames());
+    const { names, bynames, titles, kept, beings, villages } = corpus(rule, formerNames());
 
     const out = [];
     const byClass = new Map();
@@ -1138,6 +1268,7 @@ function main() {
     out.push(...checkElements(rule, note));
     out.push(...checkDerivation(rule, names, note));
     out.push(...checkLists(names, rule));
+    out.push(...checkFormalNames(beings, rule, villages));
     const ordinaryWords = [...rule.kept].filter((word) => !word.includes("-"));
     const spokenAsWords = (phrase) => {
         const pieces = phrase.toLowerCase().split(/\s+/);

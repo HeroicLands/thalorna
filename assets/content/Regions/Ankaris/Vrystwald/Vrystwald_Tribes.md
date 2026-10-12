@@ -47,14 +47,15 @@ data:
       Weskár: >-
         Shaman of a village, keeper of its one totem and every rite and spiritual need of its people; one of the three co-equal elders.
       Ríkár: >-
-        Chairs a council called to answer imminent danger, keeping its peace and the order of its speaking; the charge ends when the council disperses.
+        Chairs a gathering of several villages' elders called to answer imminent danger, keeping its peace and the order of its speaking; the elders choose one of their number, and the charge ends when they disperse.
       Hárthúl: >-
         War Chief of a village; one may command several villages only when their elders agree to face an imminent danger together, and that wider command ends with the response.
       Theódár: >-
         Answers for the village in everything that is neither war nor the spirit's business—its trade and custom, a particular dispute it accepts for arbitration, and blood owed and paid between kindreds.
       Dómrád: >-
         Arbiter of a village's customs, or of a particular dispute whose parties accept the judgment; no common court stands above the villages.
-      Hildskald: Summoner of a joint muster agreed by villages facing the same imminent danger; the charge ends with the muster.
+      Hildskald: >-
+        Reciter of a battle, who holds a fight word for word for the tellings and recites its dead at Weskskald.
       Frithmund: Holder of the peace at a meeting or seasonal market by the custom observed by those present, without a wider command.
       Thalthúl: >-
         Keeper of a village's wells, springs or pastures and of the order in which they are used.
@@ -86,7 +87,7 @@ Nothing solidly organized sits above a village. Varokh generally distrust other 
 
 ## Character
 
-The Varokh are descendants of the [[lore-pelwarpepl|Pelwar]] nomads who migrated across Ankaris millennia ago—the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Nordmen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
+The Varokh descend from the [[lore-pelwarpepl|Pelwar]], the stock the Vylarians, the Élavendri and the Nordmen also come from, and from the [[lore-varkhadcnq|Varkhad]] who took the forest from them two thousand years ago. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
 
 The Vrystwald's frontier with [[affiliation-provncmktr|Moktur province]] is the [[affiliation-vylarinmpr|Vylarian Empire]]'s most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything—punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes—but the forest always wins.
 

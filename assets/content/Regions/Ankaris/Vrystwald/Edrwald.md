@@ -26,4 +26,4 @@ The conflict here concerns sacred ground. [[affiliation-alndnwrdns|Aelendan Ward
 
 - [[place-vrystwald|Vrystwald]]—the wider forest
 - [[place-elavendre|Elavendre]]—the settled country across the bay and to the south
-- [[place-falkhaven|Falkhaven]] and [[place-thornwald|Thornwald]]—the neighboring reaches of the arc
+- [[place-falkhaven|Falkhaven]] and [[place-thornwald|Thornwald]]—the neighboring reaches

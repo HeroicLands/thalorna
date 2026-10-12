@@ -1,6 +1,6 @@
 ---
 shortcode: thdrsndryth
-name: {full: Theódris Sundrýth, aliases: []}
+name: {full: Theódris yra Sundrýth wur Grimholt, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -389,15 +389,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Theódris Sundrýth is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
+Theódris yra Sundrýth wur Grimholt is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
-Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódris Sundrýth came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Theódris came into the world of the beggar through a combination of circumstance and aptitude.
 
 Theódris was left to fend for herself at a young age after her mother passed away. She learned to survive around Grimholt's landing, using her wits to find food and avoid trouble. Her singing voice has brought her occasional favor, though she still struggles to find a household willing to take her in.
 
-Now at 29 years of age, Theódris Sundrýth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 29 years of age, Theódris has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

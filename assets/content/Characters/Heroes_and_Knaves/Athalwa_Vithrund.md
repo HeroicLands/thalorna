@@ -1,6 +1,6 @@
 ---
 shortcode: athlwvthrnd
-name: {full: Athalwa Eichengrund, given: Athalwa, clan: Eichengrund, aliases: [Athalwa Vithrúnd]}
+name: {full: Athalwa yra Vithrúnd wur Eichengrund, given: Athalwa, clan: Vithrúnd, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[athlwvthrnd|Athalwa Eichengrund]]{float=top-left}
+![[athlwvthrnd|Athalwa yra Vithrúnd wur Eichengrund]]{float=top-left}
 
 Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
 
@@ -425,11 +425,11 @@ Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde ha
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **Vorthgar Eichengrund**, the Eichengrund clan's War Chief, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of **Vorthgar yra Vithrúnd**, War Chief of Eichengrund, born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother Raeth, who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[affiliation-vrystwldtrbs|Vrystwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 
-Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that transcended tradition, allowed it. She trained with the best hunters and raiders of the Eichengrund clan, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be remarkably accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
+Rather than surrender to the role of priestess-advisor that the conservative elders pushed upon her, Athalwa demanded to be trained as a warrior. Her father, recognizing potential that transcended tradition, allowed it. She trained with the best hunters and raiders of Eichengrund, surpassing most of them by her early twenties. Her tactical visions, once considered mystical quirks, proved to be remarkably accurate predictions of enemy movements and environmental dangers. She led three successful raids against the Tzar Kingdom's southern outposts and returned with no losses to her war band—an unprecedented achievement.
 
 ### The Unexpected Succession
 

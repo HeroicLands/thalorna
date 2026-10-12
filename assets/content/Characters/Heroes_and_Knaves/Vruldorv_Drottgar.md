@@ -422,7 +422,7 @@ Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair
 
 ### The Boy from Nordheim
 
-Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **Inthvir Dróttgar**, was a militia captain; his mother, **Kára Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander Hastein**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
+Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **Inthvir Dróttgar**, was a militia captain; his mother, **Snilthrinna Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander Gnarthmýl**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
 ### The Long Wars
 
@@ -470,9 +470,9 @@ The Nordheim Mercenaries' Guild
 : His official employer and the organization that provides most of his contracts; the guild master, **Arnthor Knalthumakh**, values his reliability and occasionally consults him on matters of planning
 
 Merchant House Alderthor
-: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Svenna**, has developed respect for his workmanlike approach
+: A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady Hlaskselda**, has developed respect for his workmanlike approach
 
-Commander Hastein
+Commander Gnarthmýl
 : His aging former mentor, now retired from active service, whom Vruldorv visits regularly and whose counsel he seeks on matters of honor and purpose
 
 ### Enemies
@@ -483,8 +483,8 @@ Jarl Snalthorv Gnarthidrokh
 The Blackthorn Bandits
 : An organized band of mountain raiders whose operations Vruldorv has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 
-Merchant Lord Haldor the Greedy
-: A crooked trader whose smuggling operations Vruldorv once refused to protect; Haldor now uses his considerable wealth to undermine Vruldorv's reputation
+Merchant Lord Svalthann the Greedy
+: A crooked trader whose smuggling operations Vruldorv once refused to protect; Svalthann now uses his considerable wealth to undermine Vruldorv's reputation
 
 ### Affiliations
 

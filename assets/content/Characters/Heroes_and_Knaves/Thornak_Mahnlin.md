@@ -3,8 +3,8 @@ shortcode: thrnkbldtscbr
 name:
   full: Thornak Blodtusc Bar
   given: Thornak
-  clan: Eichengrund
-  aliases: [The Boar-Totem Warrior, Blodtusc Bar, Thornak Eichengrund, Thornak Mahnlin]
+  clan: Mahnlin
+  aliases: [The Boar-Totem Warrior, Blodtusc Bar, Thornak yra Mahnlin]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -431,7 +431,7 @@ Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, wi
 
 ## Background
 
-**Blodtusc Bar** is his Varokhi byname: "bloody tusk of the Boar." The boar is [[place-eichengrnd|Eichengrund]]’s _wesk_, the village’s shared totem; _blod_ means blood, _tusc_ a tusk and _bar_ a boar. His clan name is Eichengrund.
+**Blodtusc Bar** is his Varokhi byname: "bloody tusk of the Boar." The boar is [[place-eichengrnd|Eichengrund]]’s _wesk_, the village’s shared totem; _blod_ means blood, _tusc_ a tusk and _bar_ a boar. His clan is the Mahnlin, "Younger Kinsmen", and his village is Eichengrund: in full he is Thornak yra Mahnlin wur Eichengrund, and at home Thornak yra Mahnlin. Beyond the village most people know him by the byname alone.
 
 ### Early Life
 
@@ -447,7 +447,7 @@ As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Dr
 
 In battle, Thornak could enter a berserker state, driven by the spirit of the boar, becoming a nearly unstoppable force of nature. His war club, carved from a boar’s skull and reinforced with iron, became both a symbol of his dedication to Eichengrund’s boar wesk and a tool of destruction in his hands.
 
-Thornak holds the standing of [[lore-hrodthulrnk|Hródthúl]], Respected, among the Vrystwald Tribes: the band he leads at Eichengrund under the village’s boar wesk is one of the three kinds the standing gathers, and a hunting band's leader is exactly who a village's War Chief is eventually raised from. Thornak is ambitious, desiring to lead the clan himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
+Thornak holds the standing of [[lore-hrodthulrnk|Hródthúl]], Respected, among the Vrystwald Tribes: the band he leads at Eichengrund under the village’s boar wesk is one of the three kinds the standing gathers, and a hunting band's leader is exactly who a village's War Chief is eventually raised from. Thornak is ambitious, desiring to lead the village himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
 
 ### Current Challenges
 
@@ -548,8 +548,8 @@ The barrow stories below are adventure possibilities, not established accounts o
    - **Key Challenges**: Tracking the Grimstalker through dense, treacherous wilderness, battling rival hunters and territorial beasts, and facing the forest’s trials to prove his worth. The Grimstalker is highly intelligent and will not be easy prey.
    - **Potential Rewards**: If Thornak succeeds, he gains the **Spiritheart**, which grants him the ability to enter the spirit world, communicating directly with the spirits of the wild. He may also gain the **Beastcaller’s Gift**, which allows him to summon and control powerful beasts during battle.
 
-8. **The Shattered Talisman**: During a ritual, Thornak experiences a vision of a shattered talisman—an artifact he interprets as a symbol of unity among the Vrystwald villages. His vision shows the **Shattered Talisman** breaking during a great conflict and its pieces scattering across the wilderness, but no shared oral account confirms that history. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
+8. **The Sundered Talisman**: During a ritual, Thornak experiences a vision of the [[lore-skathhrethlss|Sundered Talisman]]—an artifact he interprets as a symbol of unity among the Vrystwald villages. His vision shows it breaking in battle and its pieces scattering across the wilderness. The tellings say the elders broke it themselves at Waldburg, the spring after Skathhreth, so that no War Chief could keep a common command, and they disagree about everything after that; Thornak's vision agrees with none of them. He hopes reassembling it can win other villages’ allegiance; neither the vision nor possession of a relic gives him authority over them.
 
    However, the pieces of the talisman are jealously guarded by rivals, powerful spirits, and even southern warlords who have stolen these fragments as trophies. Thornak’s quest to reassemble the totem will take him to the farthest reaches of Vrystwald territory and beyond, forcing him to confront old enemies and forge new alliances.
-   - **Key Challenges**: Recovering each fragment of the Shattered Talisman will involve defeating powerful guardians, solving ancient riddles, and crossing dangerous territories. Thornak will need to confront his rival, Sigulf the Crowcaller, who holds the final piece of the talisman and seeks to claim its power for himself.
+   - **Key Challenges**: Recovering each fragment of the Sundered Talisman will involve defeating powerful guardians, solving ancient riddles, and crossing dangerous territories. Thornak will need to confront his rival, Sigulf the Crowcaller, who holds the final piece of the talisman and seeks to claim its power for himself.
    - **Potential Rewards**: The restored talisman could grant the **Spirit of Unity**, an exceptional supernatural bond through which willing warriors share strength during a common defense. Their villages’ elders still decide whether to appoint Thornak to temporary command, which ends with the response. Any power to invoke another village’s rites depends on that village and its spirit accepting him; lasting allegiance remains his hope, not a promised reward.

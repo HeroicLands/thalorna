@@ -19,7 +19,7 @@ All three seats are filled from the [[lore-hrodthulrnk|Hródthúl]], and each is
 
 ## Privileges
 
-The Shaman speaks for the spirits in every matter the village brings before them. The War Chief leads the warband, speaks for the village before other tribes and before settled powers, and presides over the tribes' common council as Ríkár, keeping its peace and the order of its speaking—and, on the rare occasion every tribe lays its fragment of the **Sundered Talisman** together, takes up a Hárthúl's temporary command of several tribes at once, which dissolves the moment the crisis that raised it passes. The Other Chief keeps the customs the tribes hold in common and arbitrates where two tribes' customs differ, as Dómrád, and records the blood owed and the blood paid between kindreds, as Skathár.
+The Shaman speaks for the spirits in every matter the village brings before them. The War Chief leads the warband, speaks for the village before other tribes and before settled powers, and may be chosen Ríkár when the elders of several villages gather to answer an imminent danger, keeping that gathering's peace and the order of its speaking. On the rare occasion the elders lay their fragments of the **Sundered Talisman** together and acclaim one War Chief as the common Hárthúl, that command over several villages dissolves the moment the danger that raised it passes. The Other Chief keeps the customs the tribes hold in common and arbitrates where two tribes' customs differ, as Dómrád, and records the blood owed and the blood paid between kindreds, as Skathár.
 
 ## Obligations
 

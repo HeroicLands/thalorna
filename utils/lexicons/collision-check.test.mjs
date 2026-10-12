@@ -96,6 +96,20 @@ test("a table of class or tongue labels is not compared", () => {
     );
 });
 
+test("a table of name pieces is not compared", () => {
+    const pieces = path.join(dir, "pieces.md");
+    fs.writeFileSync(
+        pieces,
+        "| element | what it names |\n| --- | --- |\n| `belmo-` | a piece |\n\n| ground-closing | what it names |\n| --- | --- |\n| `-zorvakin` | a piece |\n\n| closing | what it makes |\n| --- | --- |\n| `-belmo` | a piece |\n\n| word | what it is |\n| --- | --- |\n| `belmo` | a word |\n",
+    );
+    const { status, err } = run(["--wordlists", lists, pieces]);
+    assert.equal(status, 1);
+    assert.deepEqual(
+        err.map((line) => line.replace(/^.*?:(\d+):.*$/, "$1")),
+        ["15"],
+    );
+});
+
 test("a suffix or an ending, written with its opening hyphen, is not compared", () => {
     const bound = path.join(dir, "bound.md");
     fs.writeFileSync(
@@ -154,6 +168,15 @@ test("with no lists the script says so and exits 0", () => {
         result.stdout.trim(),
         `collision-check: no word lists in ${empty}, nothing compared`,
     );
+});
+
+test("--allow exempts a named form after normalization and nothing else", () => {
+    const rel = path.relative(process.cwd(), note);
+    const allowed = run(["--wordlists", lists, "--allow", "zorvakin", note]).err.join("\n");
+    assert(!allowed.includes(`${rel}:3:4: error`));
+    assert(allowed.includes(`${rel}:`));
+    const other = run(["--wordlists", lists, "--allow", "other", note]).err.join("\n");
+    assert(other.includes(`${rel}:3:4: error`));
 });
 
 test.after(() => fs.rmSync(dir, { recursive: true, force: true }));

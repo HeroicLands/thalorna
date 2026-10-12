@@ -467,7 +467,7 @@ Captain Bruldthann Stonefist
 The Farming Council of Vithgard
 : The communities Vrildmýl's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
 
-The Village Elder Kara Stonekeeper
+The Village Elder Dvarnselda Stonekeeper
 : An influential elder who sees potential in Vrildmýl and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies

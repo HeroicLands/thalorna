@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-**Falkholt** (280 people) occupies the falcon copse in [[place-falkhaven|Falkhaven]]. On the western shore, a narrow strip of pine between surf and marsh gives the hawks a perch above the boats. The War Chief keeps a shore watch and treats every incoming sail as a possible Nordmal raider. His sentries have begun charging village traders for passage through their own gate. The Other Chief wants the levy ended before the women who own the boats move their landing elsewhere.
+**Falkholt** (280 people) occupies the falcon copse in [[place-falkhaven|Falkhaven]]. On the western shore, a narrow strip of pine between surf and marsh gives the hawks a perch above the boats. The War Chief keeps a shore watch and treats every incoming sail as a possible Nordmal raider. His sentries have begun charging village traders for passage through their own gate. The Other Chief wants the levy ended before the women who own the boats move their landing elsewhere. [[being-othwindmhr|Óthwin yra Dómhár]] traps the marsh behind the pines and pays the levy on his furs with the worst grace in the village.
 
 The War Chief holds the strongest of the village's three seats, but the other two elders retain their own authority. The Shaman keeps the [[lore-hawkttm|hawk]] as the village’s single totem. The neighboring villages are reached by narrow forest tracks, used by messengers and small parties; no village commands the next one along the path.
 

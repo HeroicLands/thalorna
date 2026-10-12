@@ -1,6 +1,6 @@
 ---
 shortcode: hrdrskldrth
-name: {full: Hródar Skáldrith, aliases: []}
+name: {full: Hródar yra Skáldrith wur Waldburg, aliases: []}
 type: being
 subType: npc
 tags: [draft, soldiery]
@@ -393,11 +393,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows and give him a keen gaze. He has a strong nose and expressive lips. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. He has a chipped front tooth.
+Hródar yra Skáldrith wur Waldburg is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows and give him a keen gaze. He has a strong nose and expressive lips. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. He has a chipped front tooth.
 
 # Dossier {#dossier}
 
-Hródar Skáldrith is a mercenary of Waldburg, a forest stronghold of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh warrior who has sold his sword outside the forest for twenty-five years and comes home between wars.
+Hródar is a mercenary of Waldburg, a forest stronghold of the Varokh in [[place-vrystwald|Vrystwald]], a Varokh warrior who has sold his sword outside the forest for twenty-five years and comes home between wars.
 
 Hródar was raised to fight, as every Varokh man is, and at twenty he went down the river with a war-band hired by a Velanthian river-prince, which is how most Varokh who see the outside world see it. He has fought since for the grain-belt princes against each other, for a Moktur border-lord against Varokh raiders who might have been his cousins, and for frontier villages that pooled their silver to hire a band. He leads Waldburg's war-band for hire now, and trains the boys who go out in it. There are fights he no longer takes: he will hire to hold a wall or break one, and he will not hire to a raid whose purpose is people. The river-traders who sell what such raids bring down the water have noticed, and so has the War Chief.
 

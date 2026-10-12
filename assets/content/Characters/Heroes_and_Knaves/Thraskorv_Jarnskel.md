@@ -432,7 +432,7 @@ Thraskorv was born to unfreedom. His parents were thralls on the estate of **Jar
 
 ### The Stirring of Rebellion
 
-At seventeen, something broke inside Thraskorv. An overseer named **Hrollaug the Cruel** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Hrollaug unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek serves as a permanent reminder of his defiance—and the price of resistance.
+At seventeen, something broke inside Thraskorv. An overseer named **Gnaldrmýl the Cruel** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Gnaldrmýl unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek serves as a permanent reminder of his defiance—and the price of resistance.
 
 Since that day, Thraskorv has been marked as a troublemaker, assigned the worst tasks, watched constantly. Yet his determination has only hardened. He studies the skills the jarl's farmhands use, learns metalworking from stolen time near the smithy, and practices with weapons whenever possible. He has spoken to other thralls about the possibility of escape, has learned the names of free peoples in distant lands, and has begun to believe that unfreedom is not inevitable.
 
@@ -477,8 +477,8 @@ Thraskorv has no patrons in the traditional sense. His masters view him as prope
 Jarl Hrandorv Hlirthendikh
 : His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Hrandorv views Thraskorv as a potentially valuable asset that is becoming too dangerous.
 
-Haldor, the New Overseer
-: The replacement for Hrollaug, and no less cruel. Haldor treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
+Svalthann, the New Overseer
+: The replacement for Gnaldrmýl, and no less cruel. Svalthann treats Thraskorv with particular savagery, viewing him as a threat that must be constantly suppressed.
 
 The System Itself
 : Thraskorv's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.

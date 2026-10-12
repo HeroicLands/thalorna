@@ -441,7 +441,7 @@ His relationship with the Panepistemium is entirely cynical: he uses their libra
 
 **Thurídr of the Deep Roads**, his original teacher and the most powerful völva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Knarvir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
 
-**Kolr Fisherman**, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Kolr asks no questions, and Knarvir pays well in coin that is clean and untraced.
+**Svalthmýl Fisherman**, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Svalthmýl asks no questions, and Knarvir pays well in coin that is clean and untraced.
 
 ### Enemies and Threats
 

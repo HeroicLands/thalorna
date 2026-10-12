@@ -481,13 +481,13 @@ Althynda is driven by a need to create beauty and to contribute to others' spiri
 Priestess Sigrid
 : High priestess of Fródvin's temple who has commissioned multiple candle sets for significant religious observances; she actively promotes Althynda's work and has provided spiritual guidance alongside patronage.
 
-Master Craftsman Halvarr
+Master Craftsman Vraldvir
 : A respected woodworker and fellow member of the artisan community who has become something of an informal adviser in trade; he provides practical guidance while respecting her artistic vision.
 
-The Widow Solveig
+The Widow Hvarnrinna
 : An elderly woman of considerable means who has adopted Althynda as something of a spiritual protégé; she has purchased candles regularly and has begun subtly promoting Althynda's work to her social circle.
 
-Lord Brynjorn
+Lord Hlirthorv
 : A minor nobleman who discovered Althynda's candles and has begun commissioning elaborate custom orders; his patronage provides crucial steady custom and social standing.
 
 ### Enemies

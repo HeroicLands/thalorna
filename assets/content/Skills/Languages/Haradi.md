@@ -21,7 +21,7 @@ Haradi is a tongue of the Haradic family. Fluency measures the sophistication of
 
 ## Overview
 
-Haradi is the tongue of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across southern Ankaris and in the port cities of [[affiliation-kalihara|Kalihara]], Haradi dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
+Haradi is the tongue of the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], a maritime and mercantile language shaped by centuries of trade, commerce, and seafaring. Spoken across the Haradian islands, in the harbors of the Vylarian Sea and in the port cities of [[affiliation-kalihara|Kalihara]], Haradi dominates the merchant guilds and shipping routes. The language carries extensive vocabulary for navigation, commerce, and maritime activities, reflecting its speakers' deep connection to the sea and to trade networks spanning the known world.
 
 Haradi is characterized by rhythmic, sonorous tones. The language employs circumflex and macron accents to mark long vowels, giving names and words a flowing, measured quality suited to contract negotiations and formal agreements.
 

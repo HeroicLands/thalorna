@@ -9,7 +9,8 @@
  * Collision check for the elder-tongue lexicons.
  *
  * Usage: `node utils/lexicons/collision-check.mjs [--wordlists <dir>]
- * [--skeleton] [--skeleton-lists <name,...>] <lexicon-note.md>...`
+ * [--skeleton] [--skeleton-lists <name,...>] [--allow <form,...>]
+ * <lexicon-note.md>...`
  *
  * Every form in the first column of a lexicon table (a form in a code span) is
  * compared with word lists the person running the check keeps locally. The
@@ -18,6 +19,10 @@
  * the Kotus Finnish word list, a Welsh Hunspell dictionary, a Hebrew Hunspell
  * dictionary and an ORACC Akkadian glossary, one form per line in
  * `<language>.txt`.
+ *
+ * `--allow` names forms that stand although a list holds them: it exists for
+ * the few words a name already carries, and each is compared after the same
+ * normalization as every other form.
  *
  * The directory is `--wordlists <dir>`, else the `COLLISION_WORDLISTS`
  * environment variable, else `nogit/wordlists`. A worktree points the variable
@@ -37,7 +42,11 @@
  * is skipped at any length; the words built with it are compared. A skeleton is
  * exempt from the length floor because its radicals are the letters. A table
  * whose first header cell is `Class` or `Tongue` lists a lexicon's labels for
- * word classes and name tongues, not words, and is skipped.
+ * word classes and name tongues, not words, and is skipped. A table whose first
+ * header cell is `element`, `closing` or `ground-closing` lists the pieces a
+ * tongue builds its names from, and is skipped too: a name stands even where a
+ * real language has the same form, so only a tongue's words are held to the
+ * lists, never the pieces of its names.
  *
  * Findings: a form matching a list entry exactly after normalization. A
  * skeleton (three radicals joined by hyphens, each radical one letter or one of
@@ -105,8 +114,11 @@ const MIN_FORM_LENGTH = 3;
 const DEFAULT_SKELETON_LISTS = ["khuzdul", "akkadian"];
 const RADICAL = "(?:th|kh|gh|sh|zh|dh|ch|ph|\\p{L})";
 const SKELETON_SHAPE = new RegExp(`^${RADICAL}(?:-${RADICAL}){2}$`, "iu");
-/** First header cells of tables that hold labels, not words: a lexicon's word classes and name tongues. */
-const LABEL_HEADERS = new Set(["class", "tongue"]);
+/**
+ * First header cells of tables that hold no words to compare: a lexicon's labels
+ * for word classes and name tongues, and the pieces its names are built from.
+ */
+const LABEL_HEADERS = new Set(["class", "tongue", "element", "closing", "ground-closing"]);
 
 /**
  * Forms in the first column of every markdown table row of a note.
@@ -218,12 +230,16 @@ export function main(argv, env = process.env, io = { out: console.log, err: cons
     let dir = env.COLLISION_WORDLISTS || DEFAULT_DIR;
     let skeleton = false;
     let skeletonLists = DEFAULT_SKELETON_LISTS;
+    let allow = new Set();
     for (let i = 0; i < argv.length; i++) {
         if (argv[i] === "--wordlists") dir = argv[++i];
         else if (argv[i].startsWith("--wordlists=")) dir = argv[i].slice("--wordlists=".length);
         else if (argv[i] === "--skeleton-lists") skeletonLists = splitNames(argv[++i]);
         else if (argv[i].startsWith("--skeleton-lists="))
             skeletonLists = splitNames(argv[i].slice("--skeleton-lists=".length));
+        else if (argv[i] === "--allow") allow = new Set(splitNames(argv[++i]).map(normalize));
+        else if (argv[i].startsWith("--allow="))
+            allow = new Set(splitNames(argv[i].slice("--allow=".length)).map(normalize));
         else if (argv[i] === "--skeleton") skeleton = true;
         else files.push(argv[i]);
     }
@@ -238,6 +254,7 @@ export function main(argv, env = process.env, io = { out: console.log, err: cons
     for (const file of files) {
         const rel = path.relative(process.cwd(), file) || file;
         for (const row of extractForms(fs.readFileSync(file, "utf8"), skeleton)) {
+            if (allow.has(normalize(row.form))) continue;
             forms++;
             for (const hit of compare(row, lists, skeletonLists)) {
                 if (hit.kind === "one edit") {

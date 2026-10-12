@@ -1,6 +1,6 @@
 ---
 shortcode: thrwldhldskrn
-name: {full: Thráwald Hildskorn, given: Thráwald, clan: Hildskorn, aliases: []}
+name: {full: Thráwald yra Hildskorn wur Thrástein, given: Thráwald, clan: Hildskorn, aliases: []}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]
@@ -388,9 +388,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thrwldhldskrn|Thráwald Hildskorn]]{float=top-left}
+![[thrwldhldskrn|Thráwald yra Hildskorn wur Thrástein]]{float=top-left}
 
-Thráwald Hildskorn is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence—his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a [[affiliation-vylarinmpr|Vylarian]] soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
+Thráwald yra Hildskorn wur Thrástein is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence—his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a [[affiliation-vylarinmpr|Vylarian]] soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
 
 # Dossier {#dossier}
 
@@ -420,7 +420,7 @@ His strength and toughness are genuine assets in a fight. He is also remarkably 
 
 ## Companions
 
-[[being-dagulfvthr|Dágulf Véthar]]'s gang, the Blackpine Wolves. He is nominally second-in-command by seniority and size, though Dágulf does not formally delegate authority.
+[[being-dagulfvthr|Dágulf yra Véthar wur Thrárýth]]'s gang, the Blackpine Wolves. He is nominally second-in-command by seniority and size, though Dágulf does not formally delegate authority.
 
 ### Patrons
 

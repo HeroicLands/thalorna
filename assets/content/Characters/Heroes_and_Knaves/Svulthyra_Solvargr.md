@@ -487,7 +487,7 @@ Priest Glurvmýl of the Fródvin's Temple
 The Blackpelt Poachers
 : A criminal organization that kills game indiscriminately for quick profit; Svulthýra actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
 
-Duke Hroarsson
+Duke Skalfvir
 : A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Svulthýra's trapping territories and put hunting in Nordheim on a great and ruinous scale
 
 Merchant Jorvik the Merciless
@@ -500,7 +500,7 @@ The Fródvin's Circle
 
 ## Plot Hooks
 
-1. **The Illegal Hunt**: Svulthýra discovers that Duke Hroarsson has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthýra can respond with force, intervene covertly, or accept the loss as part of a changing world.
+1. **The Illegal Hunt**: Svulthýra discovers that Duke Skalfvir has contracted poachers working under the command of Merchant Jorvik to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Svulthýra can respond with force, intervene covertly, or accept the loss as part of a changing world.
 
 2. **The Sacred Sanctuary**: A mysterious priestess of the old faith, representing an ancient order dedicated to preserving wild places, approaches Svulthýra with a revelation: she is the reincarnation of the order's founder, a trapper of legend named **Sólvi the Wildborn** (her father's name is no coincidence). The order wishes to recruit her as a guardian of a hidden sanctuary—a place of extraordinary biodiversity and spiritual power that must be protected from exploitation. Accepting means abandoning her current life and dedicating herself entirely to this new purpose.
 

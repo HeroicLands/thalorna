@@ -470,7 +470,7 @@ Kraldmýl is motivated by a desire to work at his craft with complete mastery, a
 
 ### Patrons
 
-Master Carpenter Thorgrim
+Master Carpenter Gnuldrmýl
 : The finest carpenter in Nordheim relies entirely on Kraldmýl's timber and has arranged his entire business around Kraldmýl's supply schedule, paying a premium for the superior quality of wood that only Kraldmýl can provide.
 
 The Builders' Collective
@@ -479,7 +479,7 @@ The Builders' Collective
 High Priestess Snarvthýra
 : The priestess of Thrúnvald in the nearest settlement views Kraldmýl as a genuine worshipper of the storm god through his craft and occasionally calls upon him for advice on matters of practical implementation in temple construction.
 
-Alderman Bórrin
+Alderman Hvarnvir
 : The local administrative leader respects Kraldmýl's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
 ### Enemies

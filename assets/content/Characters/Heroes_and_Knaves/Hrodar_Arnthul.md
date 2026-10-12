@@ -1,6 +1,6 @@
 ---
 shortcode: hrodrrnthl
-name: {full: Hródar Arnthúl, given: Hródar, clan: Arnthúl, aliases: [the Crow]}
+name: {full: Hródar yra Arnthúl wur Erthhaven, given: Hródar, clan: Arnthúl, aliases: [the Crow]}
 type: being
 subType: character
 tags: [blackpine-wolves, brigand, vrystwald, underworld]
@@ -390,9 +390,9 @@ sohl:
 
 # Appearance {#appearance}
 
-![[hrodrrnthl|Hródar Arnthúl]]{float=top-left}
+![[hrodrrnthl|Hródar yra Arnthúl wur Erthhaven]]{float=top-left}
 
-Hródar Arnthúl is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the [[place-vrystwald|Vrystwald]] pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.
+Hródar yra Arnthúl wur Erthhaven is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the [[place-vrystwald|Vrystwald]] pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.
 
 # Dossier {#dossier}
 
