@@ -27,4 +27,4 @@ Its withdrawal is unambiguous and final. When a town's baobab dies, the pact wit
 ended: the Lobwezi do not replant, and the town disperses. Twice in remembered history this has
 happened, and both dispersals are named in the memory-songs.
 
-The Lobwezi griots disagree with each other on whether the baobab-guide is one being present in many trees or many beings of one kind.
+The Lobwezi griots disagree with each other on whether the baobab-guide is one being present in every tree or many beings of one kind. If it is one being, felling any baobab wounds all of them. If it is many, felling one tree kills one guide and the rest do not feel it.

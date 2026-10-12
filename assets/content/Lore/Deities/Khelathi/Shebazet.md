@@ -13,7 +13,7 @@ _The Cobra-Goddess._
 
 She stands outside the [[affiliation-khelathpnthn|Khelâthi Pantheon]], and the disproportion is plain: a local marsh cult with no imperial standing supplies the physical basis of [[lore-rethsaardty|Reth'Sa'âr's]] whole domain.
 
-The delta treats the bond between the cobra and the reed-beds as too obvious to explain. Ask a fowler why the goddess is a cobra and why the reeds are hers, and the answer is a gesture at the marsh. No priest has put it into words for an outsider.
+Her animal is the [[being-cobra|cobra]]. Cobras hunt the rats that ruin the reed harvest that makes papyrus, and she guards the reeds, so Reth'Sa'âr's writing rests on her.
 
 ## See Also
 

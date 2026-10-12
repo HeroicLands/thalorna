@@ -19,4 +19,4 @@ He stands to [[lore-uqaadty|Uqa'â]] in reverence tinged with subordination, as 
 
 With [[lore-psaqarudty|Psaq'âru]] he is a complement and not a rival. Creation without knowledge is chaotic and knowledge without creation is sterile, and the temple legends show the two in constant, productive argument.
 
-What the Eternal Library holds that the temple archives at [[place-khelunu|Khelunu]] do not is a question the temples leave unanswered.
+The Eternal Library holds what was never written: every word spoken and every deed unrecorded. That is why [[lore-qearetdty|Qe'âret]]'s reading needs both the Library and the temple archives at [[place-khelunu|Khelunu]].

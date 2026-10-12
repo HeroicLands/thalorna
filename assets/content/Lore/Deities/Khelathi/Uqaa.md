@@ -19,4 +19,4 @@ His cult holds the throne itself. The [[lore-garauu|Gar-Aû]] is understood as U
 
 Unlike the **Aurèldían** [[affiliation-arldnpnthn|Ústaran]], whose god split into a sacred forge and a black flame, Uqa'â has no schism. His nature is singular: fire as purification and illumination, never as destruction or domination. Foreign observers find the unity suspicious and suspect hidden mysteries. The [[lore-khelathiclt|Khelâthi]] answer that the unity is itself one of the god's gifts.
 
-The priesthood trains only its most promising acolytes in the god's nightly battle and the hidden names of power, and it keeps its treatises on the chaos serpent from everyone else. What those treatises hold is known only inside the temple.
+The priesthood trains only its most promising acolytes in the god's nightly battle and the hidden names of power, and it keeps its treatises on the chaos serpent from everyone else. The mysteries stay hidden. They concern the nightly battle and the serpent's names, and outsiders know no more than that.

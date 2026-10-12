@@ -13,7 +13,7 @@ _Patron of the Hunt._
 
 He is the second of [[affiliation-empireakhlth|Aû'Khelâthu]]'s two hunt-patrons and inseparable in practice from Linhur. [[affiliation-garnuw|Gar'Nuw]], the guild of hunters, conducts its senior elevations at both temples in tandem, and neither rite counts alone.
 
-Why the hunt needs both gods is left open: kin, rivals and two aspects of one thing all fit what the rites show. Outside the hunt Linqur has no myth, no cosmic role and no place in the [[affiliation-khelathpnthn|Khelâthi Pantheon]].
+Linqur and Linhur are brothers, and the guild swears to both because a brother's judgement is never given alone. Beyond the hunt there is nothing to tell: Linqur is a guild god, and his whole being is the clean kill. He has no myth, no cosmic role and no place in the [[affiliation-khelathpnthn|Khelâthi Pantheon]].
 
 ## See Also
 

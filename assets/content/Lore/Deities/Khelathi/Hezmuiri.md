@@ -19,4 +19,4 @@ His domain and [[lore-wethurdty|Wethûr]]'s divide cleanly. Hezmuîri holds the 
 
 Nearly everyone will one day need his services, so he is honored more universally than almost any other god. That universality is also an industry, and it has made his priesthood one of the largest and most powerful in the empire.
 
-The temples do not say whether Hezmuîri attends each embalming himself or taught the art once and left the technique to the families that keep it.
+Hezmuîri taught embalming once and left the technique to the families that keep it. He is present in the rite and not at the table.

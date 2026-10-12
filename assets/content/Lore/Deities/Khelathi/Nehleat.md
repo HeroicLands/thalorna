@@ -17,4 +17,4 @@ In [[affiliation-empireakhlth|Aû'Khelâthu]] the sun burns long across the vall
 
 His is deliberately a small cult. The knowledge it holds cannot simply be taught; it demands natural aptitude as well as years of disciplined study. The priesthood therefore stays smaller and more specialized than the great valley cults, and it works in shrines and nightlong vigils instead of vast temple estates.
 
-The Asguardian and **Aurèldían** cults of the god keep their own practice, and the Nehle'ât priesthood has not settled whether it counts them as the same practice or only as the same god, or how much of its knowledge the other cults share.
+The Asguardian and **Aurèldían** cults worship the same god under other names, but they do not keep the same practice. The Nehle'ât priesthood holds that the foreign cults lack the discipline, and what it knows is not shared with them.

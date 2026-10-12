@@ -13,7 +13,7 @@ A hunter of [[affiliation-garnuw|Gar'Nuw]] never invokes **Linhur** alone. He an
 
 What marks Linhur is that his patronage does not end at the kill. His concern is understood to reach the conduct of the hunter, and that is the religious weight behind the guild's standing principle: the beast is a creature of the [[lore-garauu|Gar-Aû]]'s lands, and wantonness in killing it offends the gods as much as the imperial order.
 
-That the rites need both gods is settled. Why they are always invoked together is not. The hunters keep it open whether Linhur and Linqur are kin, rivals or two aspects of one thing.
+Linhur and [[lore-linqurdty|Linqur]] are brothers, and the guild swears to both because a brother's judgement is never given alone.
 
 ## See Also
 

@@ -73,4 +73,10 @@ the ember came from Eshálosha, the new hall's hearth-kin is held to be Tanwen's
 of that village stands in a particular relation to the Lodge ever afterward. This is as close as
 the Áelendan come to a political hierarchy, and they would not call it one.
 
-Which tribes' halls were kindled from Eshálosha, and what the relation obliges them to, the Áelendan do not set out for outsiders.
+The Dhárgandi are the tribe whose hall was kindled from Eshálosha: they hold that Dhárgan, the founder of their line, died at the Lodge, and that their fire came from its hearth.
+
+The relation obliges three things, and it is precedence and never command:
+
+- **Ember.** A tribe kindled from Eshálosha sends an ember back to the Lodge at each founding it makes.
+- **Kin.** It sends its young to the Lodge's rites.
+- **Voice.** It is heard first when the Lodge calls the tribes together.

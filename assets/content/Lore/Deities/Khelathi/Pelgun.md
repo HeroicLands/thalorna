@@ -13,7 +13,7 @@ _The Fertility-God._
 
 He stands outside the [[affiliation-khelathpnthn|Khelâthi Pantheon]] and overlaps in domain with [[lore-uzneradty|Uznêra]], whose fertility is the river's and the womb's together. Pelgun's is the drier and more masculine kind, and it belongs to the desert edge rather than the floodplain.
 
-How the fertility cult and the road-patronage fit together is unsettled. The caravan patronage may have grown out of the fertility cult, or been attached to it because the caravans happened to start there.
+The road patronage was attached to the fertility cult because the caravan routes begin at his desert-edge shrines. His priests teach that a caravan is a seed carried out and a harvest brought home, and so the two halves of the cult are one rite.
 
 ## See Also
 

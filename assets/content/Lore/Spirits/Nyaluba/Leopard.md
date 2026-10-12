@@ -1,6 +1,8 @@
 ---
 shortcode: leopardsengalaspr
-name: {full: Leopard Spirit, aliases: [The Leopard Guide, Leopard of the Sengala]}
+name:
+  full: Leopard Spirit
+  aliases: [The Leopard Guide, Leopard of the Sengala, Ndawelari Thakwaring]
 type: lore
 subType: spirit
 description: "The leopard-guide of the Sengala as a being—solitary, unseen, and the one guide that travels."
@@ -12,7 +14,7 @@ The totemic being venerated by the [[affiliation-nylbtrblntn|Sengala]]. For the 
 offices and its observances, see [[affiliation-nyalbleop|Leopard Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
-The leopard-guide is the anomaly of the five. Nyáluba spirits are territorial by nature—powerful on their ground and nowhere else—and this one is not. It accompanies Sengala parties
+The [[being-leopard|leopard]]-guide is the anomaly of the five. Nyáluba spirits are territorial by nature—powerful on their ground and nowhere else—and this one is not. It accompanies Sengala parties
 far beyond the savannah, into the rainforest margin and, the traders say, further still.
 
 The Sengala explanation is that the ordeal binds the person rather than the ground, and that the
@@ -27,4 +29,4 @@ being acknowledged. It is the only guide the tradition holds may be addressed si
 Prohibitions it enforces upon the Sengala: not to hunt leopards, not to break a bargain struck
 under its notice, and not to reveal the route by which a party came.
 
-What the rainforest peoples make of the leopard-guide, and whether they have a name for it of their own, is unknown to the savannah clans.
+The rainforest holds many peoples, and those among them who speak Okháric know the leopard-guide under a name of their own, _Ndawelari Thakwaring_, the Hunter's Rival. They hold it a hunter's rival and not a guide: a presence that contests the kill and keeps a hunter honest.

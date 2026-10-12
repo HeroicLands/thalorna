@@ -13,6 +13,8 @@ _The War-God._
 
 His great house is the war-temple at [[place-balehen|Balehen]], the double-walled fortress-capital commanding the river at the first cataract. He stands outside the [[affiliation-khelathpnthn|Khelâthi Pantheon]] without standing outside the religion. He is one of several selat gods with real temples and real priesthoods whom the canonical theology does not list.
 
+Qeztu is a selat god without a myth. He is Balehen's god: the fortress's oath and its cataract. His demand at the weighing is the soldier's oath kept.
+
 ## See Also
 
 - [[affiliation-qeztu|Faith of Qeztu]]—the cult and its offices

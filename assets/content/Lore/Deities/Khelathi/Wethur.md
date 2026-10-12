@@ -19,4 +19,4 @@ The theology holds that death is a transition, and the most important one in exi
 
 In his theology grave-robbery is cosmic blasphemy as well as theft: it breaks the order he maintains and threatens the rest of the dead.
 
-The temples do not say what Wethûr does for a soul the scale condemns once **Álgit** has had it.
+A soul **Álgit** devours is ended. Wethûr keeps only the weighed and the worthy, which is why the tombs of the condemned go untended.

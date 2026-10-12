@@ -19,10 +19,12 @@ dangerous. It takes what enters its reach because that is its nature, and the tr
 regard this as wrong.
 
 This is the root of the Kolembozi position that outsiders find hardest: a death by crocodile is a
-family matter, not a crime. The animal is named, its lineage is known, and the loss is entered in
+family matter, not a crime. The [[being-crcdl|crocodile]] is named, its lineage is known, and the loss is entered in
 the reckoning between the clan and the guide. It is not avenged, because one does not avenge
 oneself upon a kinsman for being what it is.
 
 The guide is understood to keep exact accounts. What it requires at one reach it does not require
 at the next, and it does not accept a substitution offered in good faith. Spirit-Speakers say it
 is not that the crocodile is unforgiving, but that it does not recognize the category.
+
+Each great crocodile of the eastern reaches holds an inherited name tied to its stretch of river. When one dies, the name passes to whichever crocodile next holds that water, and the river people learn the new bearer by watching.

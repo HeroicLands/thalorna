@@ -61,6 +61,12 @@ export const IN_WORLD = {
  * persons, works of fiction and terms for real regions.
  */
 export const CURATED = [
+    "Bactria",
+    "Bactrian",
+    "Bactrians",
+    "Komodo",
+    "Saluki",
+    "Salukis",
     // peoples and demonyms
     "Norse",
     "Celtic",

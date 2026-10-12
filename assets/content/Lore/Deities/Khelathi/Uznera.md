@@ -18,3 +18,5 @@ Her symbol carries the whole theology. The lotus is renewal and beauty, rising p
 Her teaching is the theological foundation of [[lore-khelathiclt|Khelâthi]] women's wide legal standing. The doctrine that _creation requires the balanced partnership of masculine and feminine divine principles_ underwrites women owning property, initiating divorce, pleading in the Genzet, practicing medicine and magic and serving as priestesses, including in high office.
 
 Against the more ascetic faiths she is a deliberate counterweight. Where they demand renunciation, her priestesses hold that the body is sacred, that its legitimate needs are the goddess's gift and that to deny them is to deny her. That is no license. It is the claim that life's generative and healing forces are as divine as its abstract principles of order and truth.
+
+The Flood Festival is one festival celebrated as the flood travels. On the upper river the rites are rites of welcome as the water rises; in the delta, months later, they are thanksgiving as it spreads across the fields.

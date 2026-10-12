@@ -11,7 +11,7 @@ _The River-God._
 
 "There is no temple to point you to," a river pilot of the southern reach tells a passenger who has asked where the god lives. "He lives in the water you are floating on."
 
-**Igel'Nâru** holds the [[place-zumeleshrvr|Zumélesh]] itself. The sacred waters of its southern reach belong to the Halzi'a in law and to Igel'Nâru in spirit, and the difference is enforced: boundary shrines and sacred stones mark his reach, and unauthorized hunting or fishing inside them is punishable by death. Of the valley gods he is the odd one. He has no great temple and no Thâz'Lekhau of his own.
+**Igel'Nâru** is the local name of [[lore-tjelsukdty|Tjelsur]] on one stretch of the [[place-zumeleshrvr|Zumélesh]], where the god is held under a noble family's charter. The sacred waters of its southern reach belong to the Halzi'a in law and to Igel'Nâru in spirit, and the difference is enforced: boundary shrines and sacred stones mark his reach, and unauthorized hunting or fishing inside them is punishable by death. Of the valley gods he is the odd one. He has no great temple and no Thâz'Lekhau of his own.
 
 ## Who Carries the Cult
 
@@ -19,12 +19,12 @@ The hunting companies that work the river carry his cult, above all the [[affili
 
 The cult therefore sits inside a noble family's charter rather than inside a priesthood, an unusual shape for a [[lore-khelathiclt|Khelâthi]] cult. His reader is a political figure as much as a religious one, since an unfavorable reading stops the hunt and the charter depends on hunting well.
 
-## The Question the Hunters Leave Open
+## One God, Two Names
 
-Whether Igel'Nâru is a god in his own right or [[lore-tjelsukdty|Tjelsur]] under a river-name is unsettled. The two share the water, the river-beasts and the problem of the cull. The hunting companies who would know do not explain themselves.
+Igel'Nâru and Tjelsur are one god. They share the water, the river-beasts and the problem of the cull because the name belongs to the stretch of river and the god is the same. The hunting companies know this and keep quiet about it: the charter gives the Halzi'a the god's authority on that reach, and the family's hold on the water rests on the god being theirs alone.
 
 ## See Also
 
 - [[affiliation-igelnaru|Faith of Igel'Nâru]]—the cult and its offices
-- [[lore-tjelsukdty|Tjelsur]]—the crocodile-god whose water he shares
+- [[lore-tjelsukdty|Tjelsur]]—the crocodile-god whose local name Igel'Nâru is
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—the sacred hunt that carries the cult

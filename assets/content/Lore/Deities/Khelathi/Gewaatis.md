@@ -17,4 +17,4 @@ The symbol says it twice over. The falcon sees from great height, steers the win
 
 His cult is unusual among the [[lore-khelathiclt|Khelâthi]] for how close it stands to ordinary practical life. It keeps no great temple estates. It spreads through shrine-stations along the major travel routes, and its priests travel constantly, so what they know of conditions and dangers stays current and worth having.
 
-Gewaâtis promises sight and not protection, and what he owes a traveler who is lost through no fault of their own is a question his priests leave unanswered.
+Gewaâtis promises sight and not protection. What he owes a traveler who is lost through no fault of their own is a sign, not a rescue: a way to see where they are, whether a star, a landmark or a dream of the road. The walking out is the traveler's. His shrine-stations exist so that the next traveler is not lost.

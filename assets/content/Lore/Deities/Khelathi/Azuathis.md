@@ -19,6 +19,4 @@ For that reason he has no priesthood and could have none. What worship exists is
 
 The frontier reads him more gently, and the temples hold that reading differently framed rather than wrong. The herders of the western grazing country and the hill-dwellers of the east take him for an aspect of storm, earthquake and drought, and work protections accordingly.
 
-:::secret
-For the GM: The sect that would wake the [[being-falseuqaa|False Uqa'â]] may take Azu'âthis to be behind its work, or may regard the sorcerer-king as merely the most useful ruin available. Which of the two it believes is the GM's to decide, and the choice changes what the sect will sacrifice and what it fears.
-:::
+The sect that would wake the [[being-falseuqaa|False Uqa'â]] regards him as Azu'âthis's instrument, and waking him is worship. That makes the sect a heresy the temples can name and hunt.
