@@ -398,11 +398,9 @@ Eda Somervell is a 27-year-old woman who stands 5'7" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Eda Somervell came into the world of the innkeeper through a combination of circumstance and aptitude.
+Eda Somervell was born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage.
 
-Eda manages the Somervell Inn, which is nestled near a popular trade route. After taking over from her parents, she has worked tirelessly to ensure that her inn remains a welcoming place for travelers. Eda is known for her friendly demeanor and ability to connect with guests, but she sometimes struggles with the pressures of running the business.
-
-Now at 27 years of age, Eda Somervell has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Eda took over the Somervell Inn from her parents. It stands near a popular trade route. Her friendly manner helps her connect with guests, though running the inn can be a strain.
 
 ## Psyche
 
@@ -412,7 +410,7 @@ Inexperienced in business negotiations, can be too trusting.
 
 ### Motivation
 
-Eda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+She works to keep the Somervell Inn welcoming to travelers, even when the business presses on her.
 
 ### Strengths
 
@@ -422,13 +420,11 @@ Excellent hostess, skilled cook, personable.
 
 Eda is affiliated with Local Innkeepers' Association.
 
-As a Aelwythan innkeeper, Eda occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Eda's primary patron is Travelers and local traders.. This relationship provides both opportunity and obligation.
+Travelers and local traders are Eda's patrons.
 
 ### Enemies
 

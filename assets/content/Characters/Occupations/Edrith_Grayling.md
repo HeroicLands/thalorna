@@ -396,11 +396,9 @@ Edrith Grayling is a 28-year-old woman who stands 5'8" tall and is slender. She 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edrith Grayling came into the world of the hideworker through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edrith Grayling is a hideworker.
 
 Edrith learned the art of hideworking from her mother, who taught her the secrets of tanning and crafting leather into beautiful items. She specializes in creating garments and accessories that are both functional and fashionable. Edrith is known for her creativity and eye for design, and she often incorporates intricate patterns into her work. While she enjoys her craft, she faces challenges in a male-dominated trade.
-
-Now at 28 years of age, Edrith Grayling has established herself as a known figure among the hideworkers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -410,7 +408,7 @@ Often underestimated due to her gender, struggles with heavy lifting.
 
 ### Motivation
 
-Edrith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in hideworker work keep her vigilant and adaptable.
+Edrith wants to make useful leather goods that carry her own designs, even as some male hideworkers resent her success.
 
 ### Strengths
 
@@ -418,15 +416,13 @@ Creative, skilled in design and crafting, resourceful.
 
 ## Social
 
-Edrith is affiliated with None; works independently..
-
-As a Aelwythan hideworker, Edrith occupies a recognized social niche within Aelwyth society.
+Edrith has no guild affiliation and works independently.
 
 ## Companions
 
 ### Patrons
 
-Edrith's primary patron is Local women who seek unique leather clothing and accessories.. This relationship provides both opportunity and obligation.
+Local women seek Edrith's distinctive leather clothing and accessories.
 
 ### Enemies
 

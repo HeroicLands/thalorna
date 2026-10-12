@@ -395,11 +395,9 @@ Elfreda Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Elfreda Lewknor came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Elfreda Lewknor is a farmer.
 
 Elfreda grew up on her family's farm, where she learned to tend to animals and grow vegetables. After her parents passed away, she took over the management of the farm and has worked hard to maintain its productivity. Elfreda is innovative and open to new agricultural practices, often experimenting with different crops and techniques to improve yields.
-
-Now at 28 years of age, Elfreda Lewknor has established herself as a known figure among the farmers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -409,7 +407,7 @@ Sometimes takes on too many projects, struggles to ask for help.
 
 ### Motivation
 
-Elfreda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in farmer work keep her vigilant and adaptable.
+Elfreda wants the farm to stay productive, and tests new crops and methods to improve its yields.
 
 ### Strengths
 
@@ -419,13 +417,11 @@ Resourceful, skilled in animal care and crop rotation, adaptable.
 
 Elfreda is affiliated with Rural Farmers' Cooperative.
 
-As a Aelwythan farmer, Elfreda occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Elfreda's primary patron is Local villagers who buy her fresh produce.. This relationship provides both opportunity and obligation.
+Local villagers buy Elfreda's fresh produce.
 
 ### Enemies
 

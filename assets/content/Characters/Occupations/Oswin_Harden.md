@@ -399,11 +399,9 @@ Oswin Harden is a 50-year-old man who stands 6'2" tall and is broad and solidly 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Oswin Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
+Oswin Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
 
-Oswin is a former blacksmith who decided to shift his focus to running the Forge & Flame Inn. Known for his hearty meals and strong drinks, he caters to adventurers and merchants passing through town. Oswin has a commanding presence and a good sense of humor, making his inn a lively place. He enjoys hearing tales from travelers and often joins in the storytelling.
-
-Now at 50 years of age, Oswin Harden has established himself as a known figure among the innkeepers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
+Oswin left blacksmithing to run the Forge & Flame Inn. He serves hearty meals and strong drinks to passing adventurers and merchants. His humor helps make the inn lively.
 
 ## Psyche
 
@@ -413,7 +411,7 @@ Can be too boisterous, struggles with the finer details of innkeeping.
 
 ### Motivation
 
-Oswin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
+Oswin enjoys hearing travelers' tales and joining the storytelling at the Forge & Flame.
 
 ### Strengths
 
@@ -423,13 +421,11 @@ Great cook, skilled at managing the inn, excellent storyteller.
 
 Oswin is affiliated with Local Innkeepers' Association.
 
-As a Aelwythan innkeeper, Oswin occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Oswin's primary patron is Adventurers and traveling merchants.. This relationship provides both opportunity and obligation.
+Adventurers and traveling merchants are Oswin's patrons.
 
 ### Enemies
 

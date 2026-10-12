@@ -402,8 +402,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan he
 
 Edgar grew up in a family of undertakers, where he learned the art of embalming from his father. Known for his steady hands and careful nature, he has prepared many bodies for burial over the years. He takes his work seriously, seeing it as a final service to the deceased and their families. While his profession makes some people uneasy, he is dedicated to his craft and carries out his duties with a solemn respect for the dead.
 
-Now at 45 years of age, he is a known figure among the embalmers of Aelwyth.
-
 ## Psyche
 
 ### Personality

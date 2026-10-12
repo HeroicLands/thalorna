@@ -402,8 +402,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan he
 
 Ethelinda became a jailer after serving as a city guard for several years. She was drawn to the role by the chance to keep order and safety within the prison. Known for her sharp mind and close observation, she is good at reading people and often mediates disputes between inmates. While dedicated to her work, she sometimes struggles with the harshness of the place.
 
-Now at 34 years of age, she is a known figure among the jailers of Aelwyth.
-
 ## Psyche
 
 ### Personality

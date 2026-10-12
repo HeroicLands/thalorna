@@ -395,11 +395,9 @@ Goda Barnwell is a 29-year-old woman who stands 5'7" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Goda Barnwell came into the world of the potter through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Goda Barnwell is a potter.
 
 Goda is a talented potter with a passion for creating vibrant and colorful pottery. She specializes in glazing techniques and often incorporates artistic designs into her work. Goda enjoys experimenting with new colors and patterns, pushing the boundaries of traditional pottery. Her shop is a favorite among locals for its unique offerings, and she frequently collaborates with other artists for special projects.
-
-Now at 29 years of age, Goda Barnwell has established herself as a known figure among the potters of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -409,7 +407,7 @@ Can be overly ambitious, struggles with time management.
 
 ### Motivation
 
-Goda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in potter work keep her vigilant and adaptable.
+Goda wants her experimental glazes and designs to find a market, while keeping each project within the time she has for it.
 
 ### Strengths
 
@@ -419,13 +417,11 @@ Creative, skilled in glazing techniques, good at marketing her work.
 
 Goda is affiliated with Local Artisans' Guild.
 
-As a Aelwythan potter, Goda occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Goda's primary patron is Art collectors and local families seeking unique pottery.. This relationship provides both opportunity and obligation.
+Art collectors and local families seek Goda's pottery.
 
 ### Enemies
 

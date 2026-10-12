@@ -400,11 +400,9 @@ Edmund Wolford is a 44-year-old man who stands 5'8" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edmund Wolford came into the world of the clothier through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edmund Wolford is a clothier.
 
 Edmund has been a clothier for over twenty years, running a small but reputable shop in the city that caters to both the nobility and common folk. His expertise lies in fine tailoring and embroidery, and he is known for his skill in creating custom garments for special occasions. Edmund is meticulous about his work, often taking on fewer clients to ensure the highest quality.
-
-Now at 44 years of age, Edmund Wolford has established himself as a known figure among the clothiers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -414,7 +412,7 @@ Perfectionist tendencies can delay completion of garments.
 
 ### Motivation
 
-Edmund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in clothier work keep him vigilant and adaptable.
+Edmund wants each custom garment to meet his standard, even when a shorter client list costs him work.
 
 ### Strengths
 
@@ -424,13 +422,11 @@ Highly skilled in tailoring, embroidery, and working with fine fabrics.
 
 Edmund is affiliated with City Tailors' Guild.
 
-As a Aelwythan clothier, Edmund occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Edmund's primary patron is Local nobility who commission special outfits for events.. This relationship provides both opportunity and obligation.
+Local nobles commission Edmund's formal garments.
 
 ### Enemies
 

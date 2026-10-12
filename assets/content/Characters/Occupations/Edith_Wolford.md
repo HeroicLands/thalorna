@@ -395,11 +395,9 @@ Edith Wolford is a 29-year-old woman who stands 5'8" tall and is slender. She ha
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edith Wolford came into the world of the jeweler through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Edith Wolford is a jeweler.
 
 Edith discovered her talent for jewelry making while working as an apprentice in her father’s shop. She specializes in crafting intricate pieces that often incorporate unique designs inspired by nature. Edith's work has gained attention for its originality, and she has a growing clientele who appreciate her artistic vision. Despite her success, she remains humble and dedicated to her craft.
-
-Now at 29 years of age, Edith Wolford has established herself as a known figure among the jewelers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -409,7 +407,7 @@ Sometimes too experimental, struggles with pricing her work.
 
 ### Motivation
 
-Edith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in jeweler work keep her vigilant and adaptable.
+Edith wants buyers to value her nature-inspired designs, though she has trouble pricing her work.
 
 ### Strengths
 
@@ -419,13 +417,11 @@ Creative, skilled in design and metalwork, excellent customer service.
 
 Edith is affiliated with Local Jewelers' Guild.
 
-As a Aelwythan jeweler, Edith occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Edith's primary patron is Local artisans and collectors who value her unique pieces.. This relationship provides both opportunity and obligation.
+Local artisans and collectors seek Edith's distinctive jewelry.
 
 ### Enemies
 

@@ -395,11 +395,9 @@ Mildred Harden is a 45-year-old woman who stands 5'10" tall and is of moderate b
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Mildred Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
+Mildred Harden was born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage.
 
-Mildred has run the Harden Inn for over twenty years, offering travelers a warm meal and a cozy bed. Known for her hospitality and excellent brewing skills, she prides herself on serving the finest ale in town. Mildred has a talent for making guests feel at home and often shares stories from her own travels. Her inn is a popular gathering place for locals and travelers alike.
-
-Now at 45 years of age, Mildred Harden has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Mildred has run the Harden Inn for more than twenty years. She takes pride in her ale and offers travelers a meal and a bed. Locals and travelers gather at the inn, where she often shares stories from her own travels.
 
 ## Psyche
 
@@ -409,7 +407,7 @@ Can be overwhelmed during busy periods, sometimes too trusting of strangers.
 
 ### Motivation
 
-Mildred is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
+Mildred takes pride in making guests feel at home at the Harden Inn.
 
 ### Strengths
 
@@ -419,13 +417,11 @@ Excellent cook, skilled brewer, great communicator.
 
 Mildred is affiliated with Local Innkeepers' Association.
 
-As a Aelwythan innkeeper, Mildred occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Mildred's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
+Local regulars and travelers are Mildred's patrons.
 
 ### Enemies
 

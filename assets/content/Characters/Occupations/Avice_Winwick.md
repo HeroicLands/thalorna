@@ -400,8 +400,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heri
 
 Avice has a background in maritime trade and has spent years as a supercargo for a major trading company. She is adept at managing cargo and seeing that every transaction goes smoothly. She is known for her head for business and her ability to adapt to changing markets. Clients and colleagues alike respect her for her honesty and reliability.
 
-Now at 30 years of age, she is a known figure among the supercargoes of Aelwyth.
-
 ## Psyche
 
 ### Personality

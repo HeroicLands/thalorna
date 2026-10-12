@@ -396,8 +396,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan he
 
 Hilda works at a busy brothel but has strong ties to the Gray Tide. While she keeps clients company, she secretly gathers information and helps the organization in various ways. Known for her charm and quick wit, she uses her position to move between the trade in pleasure and the trade in crime. She is determined to rise above her circumstances and dreams of one day leaving the life of a prostitute.
 
-Now at 24 years of age, she is a known figure among the prostitutes of Aelwyth.
-
 ## Psyche
 
 ### Personality

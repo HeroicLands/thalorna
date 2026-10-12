@@ -401,8 +401,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan he
 
 Wystan has spent most of his life catching rats in the crowded streets of the city. Known for his quick reflexes and sharp nose, he uses traps and trained ferrets together to keep the rats down. He is a familiar figure in his neighborhood, often seen with his loyal ferret, Squeak. His skills are in high demand, especially in homes and markets plagued by infestations.
 
-Now at 34 years of age, he is a known figure among the ratters of Aelwyth.
-
 ## Psyche
 
 ### Personality

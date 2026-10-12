@@ -394,11 +394,9 @@ Aldwin Grayling is a 48-year-old man who stands 6'0" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwin Grayling came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Aldwin Grayling is a beggar.
 
 Aldwin once worked as a farmhand but lost his job after a poor harvest left the farm struggling to survive. He drifted to the nearest town in search of work but ended up living on the streets, begging for coin. Aldwin is determined to find his way back to a better life, though his pride sometimes prevents him from accepting help.
-
-Now at 48 years of age, Aldwin Grayling has established himself as a known figure among the beggars of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -408,7 +406,7 @@ Stubborn and finds it hard to accept charity.
 
 ### Motivation
 
-Aldwin's driving force is the search that defines his life—a quest that shapes every decision he makes and every risk he takes.
+Aldwin wants to find his way back to a better life, though his pride sometimes prevents him from accepting help.
 
 ### Strengths
 
@@ -416,15 +414,13 @@ Resilient and hard-working, retains some basic farming skills.
 
 ## Social
 
-Aldwin is affiliated with None.
-
-As a Aelwythan beggar, Aldwin occupies a recognized social niche within Aelwyth society.
+Aldwin has no guild affiliation.
 
 ## Companions
 
 ### Patrons
 
-Aldwin's primary patron is Occasionally helped by former farm acquaintances.. This relationship provides both opportunity and obligation.
+Former farm acquaintances sometimes help Aldwin, though he is reluctant to accept their charity.
 
 ### Enemies
 

@@ -399,11 +399,9 @@ Winifred Alverton is a 31-year-old woman who stands 5'2" tall and is slender. Sh
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Winifred Alverton came into the world of the cartographer/artist through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Winifred Alverton is a cartographer/artist.
 
 Winifred grew up in a small village where she developed a love for nature and art. Her skill in sketching landscapes attracted the attention of a traveling cartographer, who took her on as an apprentice. She now creates maps for local lords and travelers, infusing her artistic style into her work to create maps that are both functional and beautiful.
-
-Now at 31 years of age, Winifred Alverton has established herself as a known figure among the cartographer/artists of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -413,7 +411,7 @@ Naive and inexperienced in dealing with powerful patrons.
 
 ### Motivation
 
-Winifred is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cartographer/artist work keep her vigilant and adaptable.
+Winifred wants her maps to serve the lords and travelers who commission them while showing the landscapes she loves to draw.
 
 ### Strengths
 
@@ -423,13 +421,11 @@ Talented in both art and mapmaking, excellent memory for details.
 
 Winifred is affiliated with Independent Cartographers.
 
-As a Aelwythan cartographer/artist, Winifred occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Winifred's primary patron is Local lords and travelers seeking her unique artistic maps.. This relationship provides both opportunity and obligation.
+Local lords and travelers commission Winifred's maps.
 
 ### Enemies
 

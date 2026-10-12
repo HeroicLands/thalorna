@@ -103,15 +103,31 @@ A Tellumi household keeps records the way other households keep silver: genealog
 
 The Tellumi identify with the oasis so completely that their devotion runs through it. Zúráthrä, the Mother of the Oasis, receives the deepest popular love in Tellumi life: a shrine stands at the principal water-source of every oasis and every Tellumi quarter inside an Ātárzád city, every wedding involves her blessing, and every child is presented at her shrine within forty days of birth.
 
+Their ordinary observance sits within the wider Āsháian practice: a household keeps the fire-ritual at sunrise and sunset, while a prayer to Zúráthrä follows the flame with water. Tellumi-specific duties include the weekly observance to Āhúrdáén, the water-source shrines, and the wedding and birth blessings.
+
+Because the Tellumi keep the full pantheon, they share the Āsháian teaching about what follows death: the soul crosses a dividing passage, and its good thoughts, words and deeds make the way secure; the wicked fall into darkness. This gives conduct a daily weight. Tellumi households keep tablets of names, debts and water rights, and the community's insistence that words and obligations be recorded sits beside a faith in which a person's words and deeds shape the soul's fate.
+
 Formal devotion belongs to Āhúrdáén, and on this the Tellumi are immovable: no other god, the Sacred Flame included, may receive the weekly observance owed to the Keeper of Harmony. That is the whole theological quarrel with the conquerors, who elevated the Flame to exclusive worship, and the Tellumi answer that doing so breaks the order Āhúrdáén himself established. They keep the full pantheon, all twelve at their seasons, in the form their own priesthood systematized over centuries, and regard the Ātárzád version as an amputation performed by people who did not understand the body.
 
 The destruction of Zúráthrä's great shrine at Shirvan, and the sacrificial fires built over the holy spring, are the wounds a Tellumi names first when he stops being polite.
 
+The five-day intercalary festival closes the old year before the spring equinox opens the next. In [[lore-comingdown|The Coming Down]], a Mōbad recites the roll of seven peaks and springs on its first day; [[lore-turemrecital|The Recitation of the Breaking]] is spoken at every festival. Together these observances keep the people's beginnings and loss in the year's passage, alongside the dates used in contracts.
+
+### Water, rights, and upkeep
+
+The shrine marks the source; daily life depends on the channels and the rights recorded for them. In [[place-oasishirvn|Shirvan]], a household's deed gives it particular hours in a named channel, and the right passes with the deed. In [[place-ashkarad|Ashkarad]], families maintain the deep shafts their ancestors opened, and craft councils pay one another when a workshop wastes water. In [[place-mehrnagord|Mehrnāgord]], every household takes a turn clearing channels before the spring melt, and the work is entered on tablets. At [[place-vahurdash|Vahúrdash]], families are known by the stretch of the single irrigation channel they keep; in a dry year, the harvest is reckoned by how many days it ran.
+
+These arrangements make waterkeeping practical law. A well or channel is shared life, but its hours, upkeep and claims are particular and written. In [[lore-velkunsong|The Song of the Lost Town]], the teller says a fair prince counts water, while a bad one counts gold. The revived House of Vahúrdash hears the drought in the same song as a trial and the return as the answer.
+
 ## The Mōbad
 
-The Mōbadate is the institution that survived. A Mōbad studies fifteen to twenty years before ordination, and is expected to have mastered astronomy, mathematics, theology, law and at least three languages before he serves as something between a priest and a judge for his community.
+The Mōbadate is the institution that survived. A Mōbad studies fifteen to twenty years before ordination, and is expected to have mastered astronomy, mathematics, theology, law and at least three languages before serving as both priest and community judge.
 
-Where there is no Tellumi court, which is to say in the four lost cities where most Tellumi actually live, the Mōbad is the government. He registers marriages, adjudicates inheritance, arbitrates commercial disputes, and keeps the community's records under a foreign magistracy that does not much care what he does so long as the taxes arrive. A people can lose its palaces and remain a people; it cannot lose its Mōbads, and a family sends its ablest child to the Mōbadate ahead of any trade.
+Where there is no Tellumi court, which is to say in the four lost cities where most Tellumi actually live, the Mōbad registers marriages, adjudicates inheritance, arbitrates commercial disputes and keeps community records under the foreign magistracy. In the Shirvan quarter, Mōbads hear cases in back rooms; their jurisdiction sits alongside the magistrate's rule and the city's controls over water and public worship.
+
+The Mōbadate is funded by a tithe, not by a tax to a Tellumi state. It pays for temples, schools and the Confederation's legal machinery. In Shirvan, Tellumi teachers run a school in the old quarter; in Ashkarad, craft councils train children in a family trade through years of apprenticeship. These are distinct paths of learning and service, alongside the Mōbad's long course in astronomy, mathematics, theology, law and languages.
+
+Even with these other paths available, a family sends its ablest child to the Mōbadate ahead of any trade.
 
 ## Being a Subject People
 
@@ -120,6 +136,8 @@ Most Tellumi are not in the free oases at all. They are craftsmen, merchants and
 A Tellumi is courteous, exact and reserved. He keeps two sets of records and two calendars: the ancient Tellumi year of twelve thirty-day months with a five-day festival at the spring equinox, and whatever the magistrate uses. He does not discuss politics with an Ātárzád and discusses little else with another Tellumi. He pays what is assessed, on time, and keeps the receipt, because a subject population with imperfect paperwork can be robbed legally.
 
 He is also quietly connected. The exile houses fund shrines and schools in Amradad and the Haradian ports, and maintain a network of agents who keep the Council informed about conditions in the lost cities. A Tellumi merchant in Ashkarad may be nothing more than a merchant, or he may be the reason a prince in exile knows the grain price before the governor does.
+
+The same people do not all answer to the same authority. In the occupied cities, Mōbads hear community cases under the magistrate and Tellumi households pay the water-tax; in the free oases, princes govern, households maintain channels by turns, and the Council coordinates the houses without ruling them. A Tellumi's obligations depend on where the household lives and what standing it holds.
 
 ## The Tongue and the Tablet
 

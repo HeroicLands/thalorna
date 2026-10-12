@@ -402,8 +402,6 @@ Oswald Dunwell is the lord of a small manor at Kingshollow, in the Aldorath coun
 
 Oswald holds land in the fold of country below the old royal seat, bounded on its upper side by the king's wood, which his tenants may not graze, may not cut and may not take a hare from. He inherited at twenty-five and has spent the years since on the land itself: draining the lower meadow, bringing in a rotation he read of in a Vylarian treatise. His tenants eat better than they did under his father. His neighbors among the gentry are less impressed: a lord who walks his own furrows is lowering himself, and a lord who speaks up for his tenants at the forest court is a nuisance to the crown's foresters, whose goodwill the whole valley depends on.
 
-He is a known figure among the manor lords of Aelwyth.
-
 ## Psyche
 
 ### Personality

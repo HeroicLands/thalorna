@@ -398,11 +398,9 @@ Edric Alverton is a 53-year-old man who stands 5'11" tall and is broad and solid
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edric Alverton came into the world of the farmer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edric Alverton is a farmer.
 
 Edric has worked his small farm for decades, growing a variety of vegetables and raising livestock. He values hard work and takes pride in his self-sufficiency. Known for his gruff but kind demeanor, Edric often lends a hand to his neighbors when they are in need. While farming has taken a toll on his body, he refuses to give up the life he loves.
-
-Now at 53 years of age, Edric Alverton has established himself as a known figure among the farmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -412,7 +410,7 @@ Stubborn about changing his methods, can be overly critical.
 
 ### Motivation
 
-Edric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in farmer work keep him vigilant and adaptable.
+Edric wants his small farm to remain self-sufficient, and lends his neighbors a hand when they need it.
 
 ### Strengths
 
@@ -422,13 +420,11 @@ Experienced in farming and animal husbandry, resilient, helpful to others.
 
 Edric is affiliated with Rural Farmers' Cooperative.
 
-As a Aelwythan farmer, Edric occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Edric's primary patron is Local markets and inns that buy his produce and meat.. This relationship provides both opportunity and obligation.
+Local markets and inns buy Edric's produce and meat.
 
 ### Enemies
 

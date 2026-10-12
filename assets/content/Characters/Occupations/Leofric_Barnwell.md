@@ -402,8 +402,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heri
 
 Leofric Barnwell is a respected physician known for his wide knowledge of medicine and healing. He has spent many years studying both the old remedies and the newer techniques, and is a trusted figure in the community. He is dedicated to his patients and often treats the poor without charge. His calm manner and kindness have made him well loved.
 
-Now at 42 years of age, he is a known figure among the physicians of Aelwyth.
-
 ## Psyche
 
 ### Personality

@@ -398,7 +398,7 @@ Cuthbert Sherwin is a woodcutter of Thornbury, the harbor seat of the Republic o
 
 The harbor at Thornbury is the busiest thing in the republic, and its carrying trade eats timber: hulls, masts, wharf-piling, warehouse frames. Cuthbert has supplied it since he was a boy, working the oak and ash on the slopes above the town, first for his father's crew and then for his own. He replants every stand he clears with saplings from his own nursery, on the reasoning that his father's wood fed him and his own should feed somebody, and he will not use the two-man saws that came in from Vylaria a decade ago, which are faster, more dangerous, and leave a stump that will not coppice. Half the younger cutters in Thornbury learned their axe from him, and most of them have since bought a saw, which he takes personally.
 
-He is a known figure among the woodcutters of Aelwyth, the old man with the saplings.
+In Thornbury, cutters know Cuthbert as the old man with the saplings.
 
 ## Psyche
 

@@ -396,11 +396,9 @@ Edwin Garmon is a 28-year-old man who stands 6'2" tall and is of moderate build.
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edwin Garmon came into the world of the huscarl through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Edwin Garmon is a huscarl.
 
 Edwin is a promising young huscarl serving Lord Ragnar. He trained for years under the watchful eye of seasoned warriors and has a reputation for his quick reflexes and fierce loyalty. Edwin dreams of one day leading his own band of warriors but knows he must first prove himself in battle. He is eager to face challenges head-on and earn glory for his lord.
-
-Now at 28 years of age, Edwin Garmon has established himself as a known figure among the huscarls of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -410,7 +408,7 @@ Impulsive, inexperienced in large-scale battles.
 
 ### Motivation
 
-Edwin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
+Edwin dreams of leading his own band of warriors, and knows he must first prove himself in battle.
 
 ### Strengths
 
@@ -420,13 +418,11 @@ Agile and quick, skilled in swordplay, fiercely loyal.
 
 Edwin is affiliated with Lord Ragnar's retinue.
 
-As a Aelwythan huscarl, Edwin occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Edwin's primary patron is Lord Ragnar and his household.. This relationship provides both opportunity and obligation.
+Lord Ragnar and his household are Edwin's patrons.
 
 ### Enemies
 

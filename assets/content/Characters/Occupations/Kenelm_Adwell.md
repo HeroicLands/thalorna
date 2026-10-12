@@ -395,11 +395,9 @@ Kenelm Adwell is a 40-year-old man who stands 6'2" tall and is broad and solidly
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenelm Adwell came into the world of the caravan guard through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Kenelm Adwell is a caravan guard.
 
 Kenelm is a seasoned caravan guard with decades of experience. He has seen many dangers on the road and has learned to anticipate threats. His strong leadership skills make him an excellent choice for overseeing caravan security. Kenelm believes in camaraderie and often shares stories and strategies with younger guards to help them grow in their roles.
-
-Now at 40 years of age, Kenelm Adwell has established himself as a known figure among the caravan guards of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -409,7 +407,7 @@ Can be too protective, struggles with newer tactics.
 
 ### Motivation
 
-Kenelm is driven by the desire to master his craft and secure a stable future. The uncertainties of life in caravan guard work keep him vigilant and adaptable.
+Kenelm wants younger guards to meet the dangers of the road prepared, so he shares the lessons he has gathered over decades.
 
 ### Strengths
 
@@ -419,13 +417,11 @@ Highly experienced, good leader, skilled in close combat.
 
 Kenelm is affiliated with Local Mercenaries' Guild.
 
-As a Aelwythan caravan guard, Kenelm occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Kenelm's primary patron is Caravan leaders and merchants who appreciate his expertise.. This relationship provides both opportunity and obligation.
+Caravan leaders and merchants hire Kenelm for his experience.
 
 ### Enemies
 

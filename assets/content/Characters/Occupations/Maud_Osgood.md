@@ -394,11 +394,9 @@ Maud Osgood is a 62-year-old woman who stands 5'5" tall and is slight of build. 
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Maud Osgood came into the world of the beggar through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan heritage, Maud Osgood is a beggar.
 
 Maud has been living on the streets for most of her life, begging for scraps and coins. Once a domestic servant, she fell into poverty after the death of her employer, leaving her with no family or means to survive. Maud is resourceful and has learned how to navigate the dangers of city life, relying on both charity and cunning to get by.
-
-Now at 62 years of age, Maud Osgood has established herself as a known figure among the beggars of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -408,7 +406,7 @@ Frail and prone to illness due to long-term malnutrition.
 
 ### Motivation
 
-Maud is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
+Maud wants enough scraps and coin to survive, relying on charity and cunning to get through the dangers of city life.
 
 ### Strengths
 
@@ -416,15 +414,13 @@ Resourceful, excellent at reading people's intentions.
 
 ## Social
 
-Maud is affiliated with Informal network of beggars who look out for each other..
-
-As a Aelwythan beggar, Maud occupies a recognized social niche within Aelwyth society.
+Maud relies on the informal network of beggars who look out for one another.
 
 ## Companions
 
 ### Patrons
 
-Maud's primary patron is Occasionally helped by a local charity or sympathetic individuals.. This relationship provides both opportunity and obligation.
+Maud is sometimes helped by a local charity or by sympathetic individuals.
 
 ### Enemies
 

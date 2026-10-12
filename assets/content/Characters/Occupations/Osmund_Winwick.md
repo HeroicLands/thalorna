@@ -400,11 +400,9 @@ Osmund Winwick is a 37-year-old man who stands 5'8" tall and is of moderate buil
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Osmund Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a noble family of Aelwythan heritage, Osmund Winwick is a mercantyler (supercargo).
 
 Osmund is a seasoned mercantyler specializing in ocean trade. As a supercargo, he oversees the cargo on ships, ensuring that goods are loaded, unloaded, and transported safely. With years of experience sailing between ports, Osmund has developed a keen understanding of maritime laws and trade routes. He is respected in the mercantile community for his negotiation skills and ability to resolve disputes.
-
-Now at 37 years of age, Osmund Winwick has established himself as a known figure among the mercantyler (supercargo)s of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -414,7 +412,7 @@ Can be overly cautious, struggles with paperwork and bureaucracy.
 
 ### Motivation
 
-Osmund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercantyler (supercargo) work keep him vigilant and adaptable.
+Osmund wants the cargo entrusted to him delivered safely, and uses his knowledge of trade routes and maritime law to settle disputes.
 
 ### Strengths
 
@@ -424,13 +422,11 @@ Knowledgeable about maritime trade, excellent negotiator, good leadership skills
 
 Osmund is affiliated with Local Merchant's Guild.
 
-As a Aelwythan mercantyler (supercargo), Osmund occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Osmund's primary patron is Ship captains and trading companies.. This relationship provides both opportunity and obligation.
+Ship captains and trading companies hire Osmund to supervise their cargo.
 
 ### Enemies
 

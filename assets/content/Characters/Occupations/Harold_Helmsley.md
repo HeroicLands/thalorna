@@ -397,11 +397,9 @@ Harold Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate bui
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harold Helmsley came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a peasant family of Aelwythan heritage, Harold Helmsley is an animal trainer.
 
 Harold grew up on a farm and has spent his life training draft animals. Known for his patience, he is called upon when unruly horses or oxen need breaking in.
-
-Now at 45 years of age, Harold Helmsley has established himself as a known figure among the animal trainers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -411,7 +409,7 @@ Stubborn, resistant to new techniques.
 
 ### Motivation
 
-Harold is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
+Harold wants farmers to keep trusting him with unruly draft animals, the work he learned growing up on a farm.
 
 ### Strengths
 
@@ -421,13 +419,11 @@ Calm demeanor, knowledgeable about farm animals.
 
 Harold is affiliated with Farmers' Cooperative.
 
-As a Aelwythan animal trainer, Harold occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Harold's primary patron is Local farmers. This relationship provides both opportunity and obligation.
+Local farmers call on Harold to train their draft animals.
 
 ### Enemies
 

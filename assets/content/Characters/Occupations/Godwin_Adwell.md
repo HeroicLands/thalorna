@@ -403,8 +403,6 @@ Born in the [[place-aelwyth|Aelwyth]] region to a freeman family of Aelwythan he
 
 Godwin comes from a long line of herders, and has spent his life tending sheep and goats in the hills. He knows the land like the back of his hand and can find his way over even the most treacherous paths. His quiet, calm manner suits him to the solitary life of a herder, though he can be protective when he needs to be. He is deeply attached to his animals and believes in treating them with care and respect.
 
-Now at 38 years of age, he is a known figure among the herders of Aelwyth.
-
 ## Psyche
 
 ### Personality

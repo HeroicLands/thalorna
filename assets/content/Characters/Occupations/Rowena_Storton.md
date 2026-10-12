@@ -396,11 +396,9 @@ Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She h
 
 # Dossier {#dossier}
 
-Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Rowena Storton came into the world of the animal trainer through a combination of circumstance and aptitude.
+Born in the [[place-aelwyth|Aelwyth]] region to a guilded family of Aelwythan heritage, Rowena Storton is an animal trainer.
 
 Rowena trains exotic birds for a noble family. She is skilled at teaching them tricks and mimicking sounds, and often accompanies her employers to social events.
-
-Now at 28 years of age, Rowena Storton has established herself as a known figure among the animal trainers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
@@ -410,7 +408,7 @@ Easily distracted, nervous around large animals.
 
 ### Motivation
 
-Rowena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in animal trainer work keep her vigilant and adaptable.
+Rowena wants to teach her birds tricks and sounds to mimic.
 
 ### Strengths
 
@@ -420,13 +418,11 @@ Skilled with training small animals, particularly birds.
 
 Rowena is affiliated with Urban Animal Trainers' Guild.
 
-As a Aelwythan animal trainer, Rowena occupies a recognized social niche within Aelwyth society.
-
 ## Companions
 
 ### Patrons
 
-Rowena's primary patron is Noble family who owns exotic pets.. This relationship provides both opportunity and obligation.
+A noble family hires Rowena to train its exotic birds.
 
 ### Enemies
 
