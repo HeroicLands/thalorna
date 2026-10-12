@@ -1,6 +1,6 @@
 ---
 shortcode: isrncntnnt
-name: {full: Iseron Continent, aliases: [Iseron]}
+name: {full: Iseron Continent, aliases: []}
 type: place
 subType: region
 description: The frozen southernmost continent—desolate, largely unexplored, rumored to hold ancient ruins beneath the ice and tiny reclusive communities adapted to its extremes.

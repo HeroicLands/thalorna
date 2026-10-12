@@ -1,6 +1,6 @@
 ---
 shortcode: luthrscrpt
-name: {full: Luaithári Script, aliases: [Luaithári]}
+name: {full: Luaithári Script, aliases: []}
 type: skill
 subType: script
 description: "The flowing syllabary of Kalihara—one glyph to a syllable, tone marked in dots, and beauty held to be part of the meaning."

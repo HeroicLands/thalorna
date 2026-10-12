@@ -1,6 +1,6 @@
 ---
 shortcode: farlvlskyr
-name: {full: Fárila Válskyr, aliases: [Lady Seraphina Wellspring]}
+name: {full: Fárila Válskyr, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

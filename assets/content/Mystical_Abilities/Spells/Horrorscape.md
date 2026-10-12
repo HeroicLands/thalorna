@@ -1,6 +1,6 @@
 ---
 shortcode: hrrrscp
-name: {full: Horrorscape, aliases: [Nightmare]}
+name: {full: Horrorscape, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."

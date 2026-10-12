@@ -1,6 +1,6 @@
 ---
 shortcode: vngdkzhtvr
-name: {full: "Ritual: Vëngdāk Zhütvōr", aliases: [Vëngdāk Zhütvōr, Vengdak Zhutvor]}
+name: {full: "Ritual: Vëngdāk Zhütvōr", aliases: [Vëngdāk Zhütvōr]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

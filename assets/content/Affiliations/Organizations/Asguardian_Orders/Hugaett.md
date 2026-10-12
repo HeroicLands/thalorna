@@ -1,6 +1,6 @@
 ---
 shortcode: hugaett
-name: {full: "Hugaett", aliases: ["Order of the All-Seeing Eye"]}
+name: {full: "Hugaett", aliases: []}
 type: affiliation
 subType: order
 description: "The pursuit and keeping of Ódvar's knowledge."

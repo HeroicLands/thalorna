@@ -1,6 +1,6 @@
 ---
 shortcode: clthndscrpt
-name: {full: Veldirno Script, aliases: [Veldirno]}
+name: {full: Veldirno Script, aliases: []}
 type: skill
 subType: script
 description: "The starlight-hand of the Sinalë—a calligraphy in which the writing of a thing and the making of a thing are not held to be different acts."

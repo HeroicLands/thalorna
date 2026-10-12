@@ -1,6 +1,6 @@
 ---
 shortcode: glide
-name: {full: Glide, aliases: [Icewalk]}
+name: {full: Glide, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster descends slowly; falls without impact or harm sustained."

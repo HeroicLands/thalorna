@@ -1,6 +1,6 @@
 ---
 shortcode: eldverdir
-name: {full: "Eldverdir", aliases: ["The Flameguard"]}
+name: {full: "Eldverdir", aliases: []}
 type: affiliation
 subType: order
 description: "A militant order guarding Svartbrandr's forges."

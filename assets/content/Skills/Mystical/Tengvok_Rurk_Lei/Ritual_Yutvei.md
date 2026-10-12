@@ -1,6 +1,6 @@
 ---
 shortcode: yutvei
-name: {full: "Ritual: Yütvëi", aliases: [Yütvëi, Yutvei]}
+name: {full: "Ritual: Yütvëi", aliases: [Yütvëi]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

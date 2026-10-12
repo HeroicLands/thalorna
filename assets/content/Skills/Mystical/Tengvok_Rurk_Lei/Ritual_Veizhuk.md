@@ -1,6 +1,6 @@
 ---
 shortcode: veizhuk
-name: {full: "Ritual: Vëizhük", aliases: [Vëizhük, Veizhuk]}
+name: {full: "Ritual: Vëizhük", aliases: [Vëizhük]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

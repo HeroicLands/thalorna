@@ -15,10 +15,6 @@ data:
     model: autocracy
     summary: Hereditary monarchy
     ranks:
-      - level: 0
-        title: Nützōk
-        description: >-
-          Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
         title: Shüknürk
         description: >-
@@ -124,6 +120,10 @@ A thousand years of separation have produced meaningful cultural differences:
 ## Naval Power
 
 Jürthāt's greatest military advantage is its navy. Island geography forced the development of a maritime tradition that the empire, with its continental focus, has never matched. Jürthātese warships are faster, more maneuverable, and better armed than their Tānvür counterparts, and the island's sailors are among the finest in the eastern seas. The Great Lords maintain their own fleets, and naval raiding—both against the empire and against merchant shipping—is a significant source of wealth and prestige.
+
+## Outside the Ladder
+
+The Nützōk are slaves and outcasts, the caste that is not a caste, whose members may hold no name the law recognizes.
 
 ## See Also
 

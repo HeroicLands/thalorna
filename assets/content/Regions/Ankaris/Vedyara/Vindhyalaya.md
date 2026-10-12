@@ -15,10 +15,6 @@ data:
     summary: >-
       Hereditary Mahārāja advised by a martial council of clan-chieftains and a priestly court of Varnaka ushtakas. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
@@ -140,6 +136,10 @@ The kingdom has no frontier with [[place-dunharargn|Dunhara]] at all. The desert
 ## Commerce and Currency
 
 Shikharālaya holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]] through its capital, and strikes its own copper [[miscgear-tamra|tāmra]]. North of Sūryadvāra, Vedyaran coin is weighed and not counted, so a caravan that settles beyond the wall settles by the metal in it. The present **High Speaker** of the [[affiliation-mrchntclctvvdyr|Merchant Collective]] is a Sūryagarha silver merchant. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

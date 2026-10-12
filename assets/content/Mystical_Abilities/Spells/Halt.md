@@ -1,6 +1,6 @@
 ---
 shortcode: halt
-name: {full: Halt, aliases: [Stay]}
+name: {full: Halt, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Freezes target's motion; roots them in place unable to move."

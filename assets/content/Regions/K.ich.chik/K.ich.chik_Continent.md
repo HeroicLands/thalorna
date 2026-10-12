@@ -1,6 +1,6 @@
 ---
 shortcode: kchchkcntnnt
-name: {full: K'ich'chik Continent, aliases: [K'ich'chik, Kichchik]}
+name: {full: K'ich'chik Continent, aliases: [Kichchik]}
 type: place
 subType: region
 description: The western continent—a pyramid-building theocratic civilization unified under the Itzáni faith, with unconquered tribal nations in the north and forsaken wastes in the far south.

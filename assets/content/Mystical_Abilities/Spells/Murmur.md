@@ -1,6 +1,6 @@
 ---
 shortcode: murmur
-name: {full: Murmur, aliases: [Whisper]}
+name: {full: Murmur, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Whispered suggestion influencing target's thoughts and decisions."

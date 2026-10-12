@@ -1,8 +1,6 @@
 ---
 shortcode: zhaksok
-name:
-  full: "Ritual: Zhāksōk"
-  aliases: [Zhāksōk, Zhaksok, The Unsorted, The Walking Contradiction]
+name: {full: "Ritual: Zhāksōk", aliases: [Zhāksōk, The Unsorted, The Walking Contradiction]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

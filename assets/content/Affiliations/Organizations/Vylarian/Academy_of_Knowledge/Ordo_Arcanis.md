@@ -300,13 +300,3 @@ The Ordo argues the point internally. Traditionalists hold to the imperial relat
 The Ordo's pursuit of the fugitive siblings aboard [[affiliation-thetamzir|the Tamzîr]] shows the Order's methods at their most relentless. The sister, a damaged arcane prodigy, was the subject of Ordo experimentation. Her escape is a security breach, because she knows things the Ordo would prefer to keep secret, and an affront to its authority, because she is an extremely powerful unsanctioned practitioner beyond its control.
 
 The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Tarûzelian ports, Quaesitorium investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzîr today; it needs only to make sure the crew can never stop running.
-
-## See Also
-
-- [[affiliation-panepistmm|Panepistemium]]—Parent institution; the Ordo is technically the College of Arcane Philosophy within the Epistemium
-- [[affiliation-vylarinmpr|Vylarian Empire]]—Primary political patron
-- [[affiliation-provinclys|Province of Alyssa]]—Headquarters location
-- [[place-helionis|Heliónis]]—Birthplace of the Panepistemium; complicated coexistence with local traditions
-- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Contested territory, complicated by post-independence politics
-- [[place-elavendre|Élavendre]]—Contested presence; rival druidic tradition
-- [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—No presence, and its visiting agents watched; older and more powerful magical establishment

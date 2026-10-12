@@ -1,6 +1,6 @@
 ---
 shortcode: haven
-name: {full: Haven, aliases: [Pocket]}
+name: {full: Haven, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster creates safe space; location becomes sanctuary from magic."

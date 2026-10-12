@@ -105,6 +105,55 @@ be placed. `limits` records where a word's sense excludes a body or office.
 Run `node --test utils/nordmal-standing-coinages.test.mjs` for the standing
 contract, including rejected stale mappings and contradictory dispositions.
 
+## Rank levels
+
+An affiliation's `data.governance.ranks` levels are ordinal within that
+affiliation. Two levels mean the same thing everywhere:
+
+- **0** is cast out and refused readmittance: a person the affiliation has
+  expelled and will not take back, and nothing else. A state that is not an
+  expulsion, such as a dismissal from an office, an applicant turned away, a
+  member who has left or an unsettled feud, does not take level 0. It belongs in
+  the affiliation's `offices`, its `governance.summary` or the note's prose.
+- **1** is the lowest member. A ladder that has members starts them at 1, and a
+  ladder with no one cast out simply has no level 0.
+
+Every level above 1 orders that affiliation's own ranks from lower to higher.
+A rung at level 3 in one affiliation is not the equal of a rung at level 3 in
+another, and no ladder is padded to reach a number. A rung's title and
+description say what the standing is; a rung where a person at that level is
+not considered higher than the one below is an office, and belongs under
+`offices`.
+
+A rank note describes the standing and carries no level. The level lives in the
+`ranks:` data of each affiliation that confers the standing, so one note can
+serve ladders that place it at different levels.
+
+An English rank title stays when it names the standing the culture actually
+confers, since ranks read in the reader's tongue as bynames do. A title changes
+where it names the wrong kind of standing, where it is out of its period, or
+where the culture's own notes already name the standing natively.
+
+## Aliases
+
+An alias is an explanatory phrase or a genuine other name: an exonym, a folk
+name or an endonym that someone in the setting uses. It is never a respelling
+of the full name or a fragment of it.
+
+- A respelling is unnecessary. Resolution folds case, diacritics and a leading
+  article, so `Cardeth` already finds `Cárdeth` and `Sons of Eldheim` already
+  finds `The Sons of Eldheim`. A singular or plural of the full name is a
+  respelling too.
+- A word of the full name is found by the editor's completion and the content
+  index, which match any part of a name, so it is not written as an alias.
+  A note whose full name opens with a descriptor, such as `Kingdom of`, `Faith
+of` or `Ritual:`, keeps the bare name as an alias because the printed index
+  files a note only under the first word of its full name.
+- A former name is not an alias. A note answers to its current name; renames
+  are recorded in the concordance and in git, and links resolve by address.
+- A pseudonym that a lexicon registers as `other` is removed together with its
+  register row.
+
 ## Rank-note scope
 
 An affiliation's `data.governance.ranks` ladder is authoritative for the standing

@@ -1,6 +1,6 @@
 ---
 shortcode: peace
-name: {full: Peace, aliases: [Solace]}
+name: {full: Peace, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Aura of calm; pacifies violent impulses and stops combat."

@@ -1,6 +1,6 @@
 ---
 shortcode: byzarnlng
-name: {full: Byzarian Language, aliases: [Byzarian]}
+name: {full: Byzarian Language, aliases: []}
 type: skill
 subType: language
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."

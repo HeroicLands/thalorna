@@ -13,12 +13,8 @@ data:
   governance:
     model: council
     summary: >-
-      An imperial treasury and central bank under a Quaestor appointed for life, with three Praefares over its functions, a Magistar to each station, and sixteen Censores reckoning the strongroom against its books.
+      An imperial treasury and central bank under a Quaestor appointed for life, with three Praefares over its functions, a Magistar to each station, and sixteen Censores reckoning the strongroom against its books. The Quaestor Imperii serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
     ranks:
-      - level: 0
-        title: Dismissed
-        description: >-
-          The Quaestor Imperii serves for life or until imperial dismissal, and every officer beneath him holds at the Quaestor's pleasure or the throne's.
       - level: 1
         title: Censor
         description: >-

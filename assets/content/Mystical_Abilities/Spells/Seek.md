@@ -1,6 +1,6 @@
 ---
 shortcode: seek
-name: {full: Seek, aliases: [Detect]}
+name: {full: Seek, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Detects magical auras; senses active sorcery and presences."

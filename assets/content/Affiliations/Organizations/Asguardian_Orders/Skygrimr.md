@@ -1,6 +1,6 @@
 ---
 shortcode: skygrimr
-name: {full: "Skýgrímr", aliases: ["Order of the Shifting Veil"]}
+name: {full: "Skýgrímr", aliases: []}
 type: affiliation
 subType: order
 description: "Illusion and disguise in Vélgrímr's service."

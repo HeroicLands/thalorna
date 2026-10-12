@@ -1,6 +1,6 @@
 ---
 shortcode: disrupt
-name: {full: Disrupt, aliases: [Subvert]}
+name: {full: Disrupt, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Interrupts spell-casting; shatters focus and ruins ongoing magic."

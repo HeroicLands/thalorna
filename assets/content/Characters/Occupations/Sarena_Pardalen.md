@@ -1,6 +1,6 @@
 ---
 shortcode: sarenprdln
-name: {full: Sárena Párdalen, aliases: [Reslâva Mira Lightwhisper]}
+name: {full: Sárena Párdalen, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

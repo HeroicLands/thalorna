@@ -1,6 +1,6 @@
 ---
 shortcode: scan
-name: {full: Scan, aliases: [Survey]}
+name: {full: Scan, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Searches nearby area; detects creatures and objects remotely."

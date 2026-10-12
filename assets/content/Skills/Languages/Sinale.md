@@ -1,6 +1,6 @@
 ---
 shortcode: sinalelng
-name: {full: Sinalë Language, aliases: [Sinalë, Elven, Elder Tongue]}
+name: {full: Sinalë Language, aliases: [Elder Tongue]}
 type: skill
 subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."

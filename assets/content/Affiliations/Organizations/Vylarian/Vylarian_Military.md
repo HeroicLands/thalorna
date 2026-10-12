@@ -15,51 +15,93 @@ data:
   governance:
     model: stratocracy
     summary: >-
-      A company bound by its articles, its members sharing in what it takes and its officers holding by consent.
+      A professional army of legions on two tracks: purchased noble commissions above a commoner corps promoted on merit alone, meeting at the camp prefect.
     ranks:
       - level: 0
-        title: Discharged in Disgrace
+        title: Cashiered
         description: >-
-          Put out with the share forfeit and the name published, so that no other company will take them.
+          Put out for cowardice, crime, gross insubordination or treasonable contact with foreign powers; the commission or the oath is forfeit and the legions do not take the person back.
       - level: 1
-        title: Servant
+        title: Tironar
         description: >-
-          Attached to the company for its baggage, its cooking, its animals; not sworn and not shared with.
+          A recruit under training, taking the legion's oath at the recruiting station.
       - level: 2
-        title: Hand
-        description: Taken on for a season or a voyage, paid a wage, and holding no share of the undertaking.
+        title: Legionar
+        description: >-
+          A full enlisted soldier, promoted after a first year of training on the centurion's recommendation.
       - level: 3
-        title: Sworn Member
+        title: Veteranar
         description: >-
-          Sworn to the company's articles, entitled to a share of what it takes and bound by what it agrees.
+          A soldier of sixteen years or one the Legar recognizes, with extra pay, exemption from labor details and a voice in tribunal proceedings.
       - level: 4
-        title: Veteran
+        title: Quaterar
         description: >-
-          Of proven service across several undertakings, drawing a larger share and consulted before the company commits.
+          Leader of a fire team of four.
       - level: 5
-        title: Officer
-        description: Holding a charge in the company—its stores, its scouts, its accounts, its discipline.
-      - level: 6
-        title: Lieutenant
-        description: Second in the company, commanding in the captain's absence and detached with a part of it.
-      - level: 7
-        title: Captain
-        description: Commanding the company, holding its articles and negotiating its contracts.
-      - level: 8
-        title: Master of the Company
+        title: Decar
         description: >-
-          Where a company outlives its captains: the standing head who holds the name, the charter and the contracts between them.
+          Leader of a squad of eight.
+      - level: 6
+        title: Tesserar
+        description: >-
+          Watch officer and third in command of a century.
+      - level: 7
+        title: Optar
+        description: >-
+          Deputy centurion and second in command of a century.
+      - level: 8
+        title: Centurius
+        description: >-
+          Commander of a century.
+      - level: 9
+        title: Primar Sectaris
+        description: >-
+          Senior centurion of a cohort.
+      - level: 10
+        title: Primar
+        description: >-
+          Senior centurion of the whole legion, the commoner track's summit.
+      - level: 11
+        title: Cadetar
+        description: >-
+          A noble cadet aged fifteen to seventeen, technically senior to every centurion and enlisted soldier and aide to a Legar or Tribunar Magnar.
+      - level: 12
+        title: Subtribunar
+        description: >-
+          A junior tribune holding a purchased commission, one of five to a legion.
+      - level: 13
+        title: Tribunar
+        description: >-
+          A tribune on a second commission, trusted to command in the field.
+      - level: 14
+        title: Praefar Castorum
+        description: >-
+          The camp prefect and third in command of a legion, the one rank reached from both tracks.
+      - level: 15
+        title: Tribunar Magnar
+        description: >-
+          The senior tribune and second in command of a legion.
+      - level: 16
+        title: Legar
+        description: >-
+          Commander of a legion.
+      - level: 17
+        title: Magistar Vexilii
+        description: >-
+          Commander of a field army raised for a campaign.
+      - level: 18
+        title: Magnar
+        description: >-
+          Commander of a theater, chosen for capacity to fight a war.
     offices:
-      Master of the Company: Standing head of a company that outlives its captains, holding the name and the contracts.
-      Captain: Commander of the company, holder of its articles and negotiator of its contracts.
-      Lieutenant: Second in command, holding the company in the captain's absence.
-      Quartermaster: Keeper of the company's stores, its baggage and the division of what it takes.
-      Purser: Keeper of the accounts—wages, shares, debts and the contract's terms.
-      Navigator: Holder of the routes, whether by chart at sea or by memory overland.
-      Bosun: Master of the working of the ship or the ordering of the march.
-      Master-at-Arms: Keeper of the company's discipline and of its weapons.
-      Surgeon: Keeper of the company's wounded, and commonly the only lettered member besides the purser.
-      Standard-Bearer: Carrier of the company's banner, by which it is known and hired.
+      Dux Bellorum: >-
+        Chief war-minister of the empire, a court appointee presiding over the war council.
+      Comar Augustari: >-
+        Imperial companion and member of the war council, holding a nominal command title.
+      Praepar: >-
+        Commander of a cohort, confirming the promotion of squad leaders and watch officers.
+      Praefar Alariae: >-
+        Prefect of the cavalry and specialist troops attached to a legion.
   seat: null
   population: null
   economy: [affiliation-aerarimmpr, affiliation-clgmrgntrrm, lore-vylrncrncy]

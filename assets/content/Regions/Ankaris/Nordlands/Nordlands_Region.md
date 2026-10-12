@@ -1,6 +1,6 @@
 ---
 shortcode: nrdlndsrgn
-name: {full: Nordlands Region, aliases: [Nordlands, Nordheim]}
+name: {full: Nordlands Region, aliases: [Nordheim]}
 type: place
 subType: region
 description: The frozen fjord-lands of northern Ankaris—homeland of the Nordmen, seafarers and raiders of the Asguardian faith.

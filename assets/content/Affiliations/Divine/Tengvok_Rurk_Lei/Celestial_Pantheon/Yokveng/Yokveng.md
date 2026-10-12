@@ -17,10 +17,6 @@ data:
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
-      - level: 0
-        title: Recorded
-        description: >-
-          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
       - level: 1
         title: Lay
         description: >-
@@ -136,6 +132,10 @@ The Yokveng also houses a large population of lesser demonic beings—the [[affi
 The Yokveng is not accessible to mortals in the ordinary sense—one does not travel there by any geographic means—but its influence bleeds into the classified cosmos through weak points in the classification system: archives that have been neglected, rituals that have been improperly performed, households whose ancestor tablets have been destroyed, and territories where the imperial administration's reach has frayed. Mortals who seek contact with the Yokveng can find it in such places, and mortals who do not seek contact can nonetheless be found by the Yokveng when they venture too close to its weak points.
 
 The cult of the Demon Lords among mortals—most conspicuously the [[affiliation-nuszokreit|Nüszōk Rëit]]—is the most sustained organized engagement between the Yokveng and imperial society in the present era. The orthodox imperial religion regards such worship as the gravest possible heresy, and the [[lore-tanthei|Tānthëi]] have devoted substantial theological labor to refuting the cult's claim that the Demon Lords represent the truth of the Bureaucracy rather than its pathology.
+
+## Outside the Ladder
+
+A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
 
 ## See Also
 

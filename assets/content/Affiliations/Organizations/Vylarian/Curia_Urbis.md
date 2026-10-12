@@ -13,12 +13,8 @@ data:
   governance:
     model: council
     summary: >-
-      A council of five Curators appointed and dismissed by the Augustar, sitting as equals with a rotating chair over a tiered civic court, so that no one man holds the courts, the granaries and the Watch together.
+      A council of five Curators appointed and dismissed by the Augustar, sitting as equals with a rotating chair over a tiered civic court, so that no one man holds the courts, the granaries and the Watch together. The Augustar appoints and dismisses alike: a Curator holds at the throne's pleasure and leaves at the throne's word.
     ranks:
-      - level: 0
-        title: Removed
-        description: >-
-          The Augustar appoints and dismisses alike; a Curator holds at the throne's pleasure and leaves at the throne's word.
       - level: 1
         title: Iudex
         description: >-

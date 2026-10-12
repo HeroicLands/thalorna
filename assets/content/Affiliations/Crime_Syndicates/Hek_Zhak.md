@@ -1,6 +1,6 @@
 ---
 shortcode: hekzhak
-name: {full: Hëk Zhāk, aliases: [The Shadow Sect, Shadow Folk, Shadow Sect, Hëkzōk]}
+name: {full: Hëk Zhāk, aliases: [The Shadow Sect, Shadow Folk, Hëkzōk]}
 type: affiliation
 subType: criminal
 description: "Rogue Shadow Sect of escaped Vëndük sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
@@ -42,7 +42,7 @@ data:
         title: Crew Boss
         description: Holding a crew and a territory, answerable for both and for what they bring in.
       - level: 7
-        title: Underboss
+        title: Second
         description: >-
           Second in the organization, running it day to day and standing between the boss and everyone else.
       - level: 8
@@ -51,7 +51,7 @@ data:
           Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
     offices:
       Boss: Head of the organization, whose word is its law for as long as it is feared.
-      Underboss: >-
+      Second: >-
         Second, running the organization day to day and standing between the boss and everyone else.
       Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
       Crew Boss: Holder of a crew and a territory, answerable for what both produce.

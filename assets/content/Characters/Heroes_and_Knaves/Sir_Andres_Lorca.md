@@ -4,7 +4,7 @@ name:
   full: Sir Andrés Lorca, Knight of the Western Marches
   given: Andrés
   clan: Lorca
-  aliases: [Knight of the Western Marches, Sir Andres Lorca]
+  aliases: [Knight of the Western Marches]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]

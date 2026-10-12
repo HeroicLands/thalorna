@@ -1,6 +1,6 @@
 ---
 shortcode: undo
-name: {full: Undo, aliases: [Reverse]}
+name: {full: Undo, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Reverses recent action; undoes last spell or change."

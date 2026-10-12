@@ -15,10 +15,6 @@ data:
     summary: >-
       Hereditary Mahārāja advised by a martial council of eight valley Sāmantas and a priestly court of Varnaka ushtakas. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
@@ -99,6 +95,10 @@ Suvarnagiri is the whole of the kingdom's foreign relations and rather more than
 ## Commerce and Currency
 
 Bharyastān uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]], and the Collective keeps no house here. The court settles in [[miscgear-candra|candra]] and pays its horse in [[miscgear-tamra|tāmra]], and the tribute gold goes into the treasury under the palace and mostly stays there. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

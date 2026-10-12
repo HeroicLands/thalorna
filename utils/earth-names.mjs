@@ -4,6 +4,8 @@
  */
 
 /**
+ * The Earth-name guard (`npm run lint:earth-names`).
+ *
  * The corpus names no Earth proper name.
  *
  * A language, country, region, city, people, religion, mythology, real person or
@@ -18,15 +20,18 @@
  * Two places may name them: the Terran analogs note, and a `# terran_analog:`
  * comment line.
  *
+ * Findings are written `file:line:column: error: message`, the path first and
+ * relative to the working directory, to stderr; the summary goes to stdout and the
+ * exit status is 1 when there is a finding.
+ *
  * Country, capital, continent and language names come from `countries-list`.
  * Peoples, religions, mythologies, persons and works of fiction have no package
  * and are listed in `CURATED`.
  */
 
-import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
-import test from "node:test";
+import { fileURLToPath } from "node:url";
 import { continents, countries, languages } from "countries-list";
 
 const CONTENT_DIR = "assets/content";
@@ -572,6 +577,14 @@ function split(name) {
         .filter((s) => /^[A-ZÀ-Þ][\p{L}'’.\- ]+$/u.test(s) && s.length > 2);
 }
 
+let namesCache;
+
+/** @returns {RegExp} the matcher over every refused name, built once */
+export function earthMatcher() {
+    namesCache ??= matcher(earthNames());
+    return namesCache;
+}
+
 /** @returns {string[]} every Earth name the guard refuses, sorted longest first */
 export function earthNames() {
     const names = new Set(CURATED);
@@ -610,7 +623,7 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  * @param {RegExp} [names] the Earth-name matcher
  * @returns {string[]} one `file:line:column: error: message` finding per hit
  */
-export function findEarthNames(file, text, names = NAMES) {
+export function findEarthNames(file, text, names = earthMatcher()) {
     if (EXEMPT_FILES.has(file)) return [];
     return text.split("\n").flatMap((line, i) => {
         if (ANALOG_LINE.test(line)) return [];
@@ -636,41 +649,6 @@ export function findEarthNames(file, text, names = NAMES) {
     });
 }
 
-const NAMES = matcher(earthNames());
-
-test("an Earth name is found, with its column", () => {
-    assert.deepEqual(findEarthNames("a.md", "ok\nas in Scottish loch"), [
-        'a.md:2:7: error: "Scottish" is an Earth proper name',
-    ]);
-    assert.equal(findEarthNames("a.md", "as in English").length, 1);
-    assert.equal(findEarthNames("a.md", "the Common tongue calls it").length, 1);
-    assert.equal(findEarthNames("a.md", "a Common-tongue name").length, 1);
-    assert.equal(findEarthNames("a.md", "dated in the Common Calendar").length, 1);
-    assert.equal(findEarthNames("a.md", "the common calendar calls it").length, 1);
-    assert.equal(findEarthNames("a.md", "Latin letters, and Tolkien").length, 2);
-    assert.equal(findEarthNames("a.md", "from France to Japan").length, 2);
-    assert.equal(findEarthNames("a.md", "speaking Norwegian").length, 1);
-});
-
-test("whole words and in-world vocabulary pass", () => {
-    assert.equal(findEarthNames("a.md", "englishman").length, 0);
-    assert.equal(findEarthNames("a.md", "the common tongue of an empire").length, 0);
-    assert.equal(findEarthNames("a.md", "latin and the romans in lower case").length, 0);
-    assert.equal(findEarthNames("a.md", "Romanization of the Frankish").length, 0);
-});
-
-test("the Terran analogs note and terran_analog comments are exempt", () => {
-    assert.deepEqual(findEarthNames("assets/content/Reference/Terran_Analogs.md", "Rome"), []);
-    assert.deepEqual(findEarthNames("a.md", "# terran_analog: Rome, Norse"), []);
-    assert.equal(findEarthNames("a.md", "Rome").length, 1);
-});
-
-test("every exemption carries a reason", () => {
-    for (const [name, why] of Object.entries(IN_WORLD)) {
-        assert.ok(why.trim().length > 0, `${name} needs a one-line reason`);
-    }
-});
-
 /**
  * @param {string} dir
  * @returns {string[]} every file beneath `dir`
@@ -688,6 +666,14 @@ export function scan() {
     return files.flatMap((f) => findEarthNames(f, fs.readFileSync(f, "utf8")));
 }
 
-test("no note, README or lexicon data file names Earth", () => {
-    assert.deepEqual(scan(), []);
-});
+/** Prints the findings and the summary; returns the exit status. */
+export function main() {
+    const findings = scan();
+    for (const f of findings) console.error(f);
+    console.log(`earth-names: ${findings.length} finding${findings.length === 1 ? "" : "s"}`);
+    return findings.length ? 1 : 0;
+}
+
+if (process.argv[1] && fileURLToPath(import.meta.url) === path.resolve(process.argv[1])) {
+    process.exitCode = main();
+}

@@ -1,6 +1,6 @@
 ---
 shortcode: mndflr
-name: {full: Mindflare, aliases: [Thought]}
+name: {full: Mindflare, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Burst of psychic pain disorienting multiple targets simultaneously."

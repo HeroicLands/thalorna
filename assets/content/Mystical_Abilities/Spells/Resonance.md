@@ -1,6 +1,6 @@
 ---
 shortcode: rsnnc
-name: {full: Resonance, aliases: [Sound]}
+name: {full: Resonance, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Sound magic amplifying and redirecting acoustic waves dangerously."

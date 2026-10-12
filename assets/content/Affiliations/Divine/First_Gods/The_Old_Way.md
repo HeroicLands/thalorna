@@ -1,8 +1,6 @@
 ---
 shortcode: theoldway
-name:
-  full: The Old Way
-  aliases: [The Way of the First, The Shaman Way, The Old Ways, Way of the First]
+name: {full: The Old Way, aliases: [The Way of the First, The Shaman Way, The Old Ways]}
 type: affiliation
 subType: spirittradition
 description: The shamanic faith of the Áelendan—the oldest continuously practiced tradition on Ankaris, oriented around the First Gods and their Kindred.

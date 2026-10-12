@@ -1,6 +1,6 @@
 ---
 shortcode: sowideslng
-name: {full: Sowides Language, aliases: [Sowides]}
+name: {full: Sowides Language, aliases: []}
 type: skill
 subType: language
 description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tānvür."

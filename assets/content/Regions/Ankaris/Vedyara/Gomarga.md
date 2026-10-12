@@ -15,10 +15,6 @@ data:
     summary: >-
       Hereditary Mahārāja whose court travels the well-circuit through the year, advised by the keepers of the droveways and by the lineages that cut and hold the plateau's wells. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, and on the plateau denied the wells before anything else is denied him.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -115,6 +111,10 @@ The [[affiliation-janpdsvdyr|Mahā-Sangha]]'s roll carries the few plateau janap
 ## Commerce and Currency
 
 Gomārga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]. It is an inland kingdom with no frontier of its own, so foreign coin reaches it only after passing a Vedyari frontier first—weighed rather than counted beyond the northern passes, assayed at the southern ports—and by the time it is on the plateau it is Vedyaran coin, or it is metal. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is, on the plateau, denied the wells before anything else is denied him.
 
 ## See Also
 

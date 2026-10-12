@@ -1,6 +1,6 @@
 ---
 shortcode: lghtbnd
-name: {full: Lightbend, aliases: [Prism]}
+name: {full: Lightbend, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Prismatic light fracturing; causes profound disorientation and vertigo."

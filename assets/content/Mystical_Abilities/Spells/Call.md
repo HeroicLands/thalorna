@@ -1,6 +1,6 @@
 ---
 shortcode: call
-name: {full: Call, aliases: [Beckon]}
+name: {full: Call, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Summons nearby creatures; compels them toward caster with force."

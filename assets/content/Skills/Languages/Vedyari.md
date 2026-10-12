@@ -1,6 +1,6 @@
 ---
 shortcode: vedyarlng
-name: {full: Vedyari Language, aliases: [Vedyari]}
+name: {full: Vedyari Language, aliases: []}
 type: skill
 subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."

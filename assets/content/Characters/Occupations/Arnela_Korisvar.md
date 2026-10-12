@@ -1,6 +1,6 @@
 ---
 shortcode: arnelkrsvr
-name: {full: Ârnela Kórisvar, aliases: [Lady Seraphina Emberhart]}
+name: {full: Ârnela Kórisvar, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

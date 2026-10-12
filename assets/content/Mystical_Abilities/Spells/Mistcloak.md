@@ -1,6 +1,6 @@
 ---
 shortcode: mstclk
-name: {full: Mistcloak, aliases: [Pall]}
+name: {full: Mistcloak, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Surrounds caster in concealing mist; obscures vision and movement."

@@ -2,7 +2,7 @@
 shortcode: vekzat
 name:
   full: "Ritual: Vëkzāt"
-  aliases: [Vëkzāt, Vekzat, The Forger of False Records, The Counterfeit Scribe]
+  aliases: [Vëkzāt, The Forger of False Records, The Counterfeit Scribe]
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

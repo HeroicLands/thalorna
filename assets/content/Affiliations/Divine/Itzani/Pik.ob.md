@@ -1,6 +1,6 @@
 ---
 shortcode: pikob
-name: {full: "Pik'ob", aliases: [The Owl Keepers, Owl Keepers]}
+name: {full: "Pik'ob", aliases: [The Owl Keepers]}
 type: affiliation
 subType: order
 description: "The owl keepers—the contemplative order within Tz'uqil Ix'bal's service, who tend groves where decay is left undisturbed, practice sky burial, and teach that impermanence is freedom rather than tragedy."

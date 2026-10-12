@@ -17,10 +17,6 @@ data:
     summary: >-
       The Mahā-Sangha convenes and does not govern. It has no legislature, no taxation and no standing institution between gatherings—only the offices the Mela itself needs, and consensus among senior priests, enforced by the withdrawal of inter-janapada goodwill.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -136,6 +132,10 @@ The janapadas hold the overwhelming mass of Vedyara's people: on the order of **
 ## Commerce and Currency
 
 A janapada strikes no coin. Its traders carry whichever city's or kingdom's coin they deal in, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] clears it through the [[lore-vdyrnbnkng|Vedyaran banking system]]. Two janapadas, [[affiliation-rajaprjnpd|Rājapur]] and [[affiliation-dhnrktjnpd|Dhanurkota]], hold seats of their own in the [[affiliation-assmblycmpct|Assembly of the Compact]] that governs the system; [[affiliation-suvrgrjnpd|Suvarnagiri]] keeps its gold outside it by its own constitution. Foreign coin and weighed metal are exchanged at the frontier moneylenders at Collective rates.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

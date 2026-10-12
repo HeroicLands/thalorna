@@ -15,10 +15,6 @@ data:
     summary: >-
       Forest estates endowed to the temples of the lower Bhārava, each held by an ordained keeper answerable to the temple that holds his endowment. No assembly stands above them and the mother-temples coordinate by consultation or not at all.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, and barred from the estate's temple, its stores and its licenses.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -116,6 +112,10 @@ The Devabhoga's reply is that the forest was given to the gods before the [[affi
 ## Commerce and Currency
 
 The Bhārava-Devabhoga uses the [[lore-vdyrnbnkng|Vedyaran banking system]], administered through the [[affiliation-mrchntclctvvdyr|Merchant Collective]], and uses it at arm's length. Its tribute is rendered in goods to a temple and not in coin to a treasury, and the coin enters only where the estates sell, at the coastal end of the river, where a Khelâthi buyer's metal is assayed and discounted like anyone else's. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is barred from the estate's temple, its stores and its licenses.
 
 ## See Also
 

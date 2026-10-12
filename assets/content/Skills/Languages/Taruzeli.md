@@ -1,6 +1,6 @@
 ---
 shortcode: taruzelilng
-name: {full: Tarûzeli Language, aliases: [Tarûzeli]}
+name: {full: Tarûzeli Language, aliases: []}
 type: skill
 subType: language
 description: "The tongue of Tarûzel's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."

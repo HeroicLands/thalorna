@@ -1,6 +1,6 @@
 ---
 shortcode: pnthnrldnm
-name: {full: Sârkhenâ Dôrêkhis, aliases: [Temple of the Twelve, The Temple of the Twelve]}
+name: {full: Sârkhenâ Dôrêkhis, aliases: [Temple of the Twelve]}
 type: place
 subType: settlement
 description: "Sârkhenâ Dôrêkhis, the Temple of the Twelve: the colossal domed sanctuary at the heart of the Regio Templum of Ôrzâra that honors the whole Aurèldían Pantheon at once—the supreme house of the state religion, kept by the priests of Árdavon, its impossible dome raised with the quiet help of the Ordo Arcanis."

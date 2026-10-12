@@ -1,6 +1,6 @@
 ---
 shortcode: vylarilng
-name: {full: Vylari Language, aliases: [Vylari]}
+name: {full: Vylari Language, aliases: []}
 type: skill
 subType: language
 description: "The imperial tongue of the Vylarian court and the lingua franca of trade across Mídhalión."

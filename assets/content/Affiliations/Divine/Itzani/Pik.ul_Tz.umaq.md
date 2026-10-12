@@ -18,10 +18,6 @@ data:
     summary: >-
       No council, no election and no succession: a single fallen celestial confers standing directly, and withdraws it the same way.
     ranks:
-      - level: 0
-        title: Refused
-        description: >-
-          Turned away at the threshold—the owl will not intercept them, and they go down into Ch'al Tz'umaq's trials like anyone else, without even the orthodox recitation to guide them.
       - level: 1
         title: Petitioner
         description: >-
@@ -112,3 +108,7 @@ Nothing about the process is generous. The owl holds the soul; the soul does not
 Its alliance with the [[affiliation-tzumaqkalanil|Tz'umaq K'alanil]] is genuine and mutually useful rather than affectionate. They supply it with reach, with grieving households, and with a doctrine that makes its work look like mercy; it supplies them with the one thing their apocalyptic theology had always lacked—an explanation of _why_ the cosmic cycle is failing, and a demonstration that can be performed in a village in a single night.
 
 Toward the [[affiliation-pikob|Pik'ob]] it holds a claim that unsettles them badly, since it was once the greatest of their own celestial patrons and its argument begins where their contemplative theology begins. The owl keepers draw the line at accepting that all things end; the owl crossed it. Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, and the owl is understood to be waiting for them.
+
+## Outside the Ladder
+
+A person turned away at the threshold is not intercepted by the owl. They go down into Ch'al Tz'umaq's trials like anyone else, without even the orthodox recitation to guide them.

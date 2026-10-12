@@ -1,6 +1,6 @@
 ---
 shortcode: thavenfrwn
-name: {full: Thâven Fárwèn, aliases: [Bosun Kellan Stormwatch]}
+name: {full: Thâven Fárwèn, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

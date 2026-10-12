@@ -1,6 +1,6 @@
 ---
 shortcode: logbrandr
-name: {full: "Lögbrandr", aliases: ["Order of the Sword"]}
+name: {full: "Lögbrandr", aliases: []}
 type: affiliation
 subType: order
 description: "Combat and justice at Eidgar's hofs."

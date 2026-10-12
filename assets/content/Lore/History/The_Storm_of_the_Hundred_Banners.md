@@ -1,6 +1,6 @@
 ---
 shortcode: hndrdbnnrs
-name: {full: The Storm of the Hundred Banners, aliases: [Storm of the Hundred Banners]}
+name: {full: The Storm of the Hundred Banners, aliases: []}
 type: lore
 subType: history
 description: "About 315 AF a steppe orqwenoq goes round the western end of the Grazian wall, overruns Vedyara's northwestern march, crosses Dunhara to the walls of Amradad, and breaks up on its orqwen's death—without forcing a single pass."

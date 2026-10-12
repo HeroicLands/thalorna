@@ -1,6 +1,6 @@
 ---
 shortcode: pull
-name: {full: Pull, aliases: [Magnet]}
+name: {full: Pull, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Force yanks target toward caster; resists movement with difficulty."

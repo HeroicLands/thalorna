@@ -2,7 +2,7 @@
 shortcode: yvlesrdmns
 name:
   full: Yōkvëng Lesser Demons
-  aliases: [The Yōkvëng, The Demon-Swarm, The Infernal Functionaries, Yōkvëng]
+  aliases: [The Yōkvëng, The Demon-Swarm, The Infernal Functionaries]
 type: affiliation
 subType: faithtradition
 tags: [yokveng, celestial-order, demon]
@@ -19,10 +19,6 @@ data:
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
-      - level: 0
-        title: Recorded
-        description: >-
-          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
       - level: 1
         title: Lay
         description: >-
@@ -142,3 +138,7 @@ Lesser demons can be exorcized through properly performed celestial rituals that
 - [[affiliation-yokzhuk|Yökzhük]]—The Custodian of Lost Seals, a unique intermediate power
 - [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]—The Celestial Bureaucracy whose failures spawned the lesser demons
 - [[affiliation-nuszokreit|Nüszōk Rëit]]—The mortal cult that traffics with lesser demons
+
+## Outside the Ladder
+
+A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

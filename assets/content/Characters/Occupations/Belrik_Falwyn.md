@@ -1,6 +1,6 @@
 ---
 shortcode: belrkflwyn
-name: {full: Bélrik Fálwyn, aliases: [Aldric Fallow]}
+name: {full: Bélrik Fálwyn, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

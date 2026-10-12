@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendra
-name: {full: "Ritual: Vyālendra", aliases: [Vyālendra, Vyalendra, The Shaper of Worlds]}
+name: {full: "Ritual: Vyālendra", aliases: [Vyālendra, The Shaper of Worlds]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

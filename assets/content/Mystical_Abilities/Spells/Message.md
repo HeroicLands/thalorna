@@ -1,6 +1,6 @@
 ---
 shortcode: message
-name: {full: Message, aliases: [Missive]}
+name: {full: Message, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Whispered words travel to distant recipient; bypasses physical barriers."

@@ -15,10 +15,6 @@ data:
     summary: >-
       Hereditary Mahārāja advised by a martial council of the Sāmantas who hold the road's forts and a priestly court of Varnaka ushtakas. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: Bound by debt or birth to a household, owing labor and lacking the standing to hold land.
@@ -135,6 +131,10 @@ To the south and southeast lie the river janapadas and the coastal cities. Bhūm
 Bhūmipāla holds no seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], and it uses the [[lore-vdyrnbnkng|Vedyaran banking system]] all the same. The [[affiliation-mrchntclctvvdyr|Merchant Collective]] keeps its westernmost house at Sandhyāpur and a factor at Ashvapada, and between them they finance most of what moves on the road.
 
 The Dunhari side of the trade runs on barter and clan credit, and a caravan settles in goods, in animals and in silver taken by weight. A Dunhari who holds a Collective letter of credit is rare enough that the men at the exchange know his name. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

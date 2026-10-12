@@ -1,6 +1,6 @@
 ---
 shortcode: inspire
-name: {full: Inspire, aliases: [Imbue]}
+name: {full: Inspire, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Temporary enhancement of target's attributes and mental capabilities."

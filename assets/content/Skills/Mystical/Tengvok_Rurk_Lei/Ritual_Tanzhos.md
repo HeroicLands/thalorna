@@ -1,8 +1,6 @@
 ---
 shortcode: tanzhos
-name:
-  full: "Ritual: Tānzhös"
-  aliases: [Tānzhös, Tanzhos, Celestial Dragon, The First Classifier, The Celestial Dragon]
+name: {full: "Ritual: Tānzhös", aliases: [Tānzhös, Celestial Dragon, The First Classifier]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

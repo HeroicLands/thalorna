@@ -1,6 +1,6 @@
 ---
 shortcode: bldbn
-name: {full: Bladebane, aliases: [Swordbreaker]}
+name: {full: Bladebane, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Curse upon weapon; blades dull and shatter under strain."

@@ -1,6 +1,6 @@
 ---
 shortcode: nullify
-name: {full: Nullify, aliases: [Dispel]}
+name: {full: Nullify, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Cancels existing spell; dispels active magical effects instantly."

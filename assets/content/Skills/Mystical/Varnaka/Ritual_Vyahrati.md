@@ -1,6 +1,6 @@
 ---
 shortcode: vyahrati
-name: {full: "Ritual: Vyāhrati", aliases: [Vyāhrati, Vyahrati, The Keeper of Decay]}
+name: {full: "Ritual: Vyāhrati", aliases: [Vyāhrati, The Keeper of Decay]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

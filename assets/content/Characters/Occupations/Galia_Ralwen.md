@@ -1,6 +1,6 @@
 ---
 shortcode: galiaralwn
-name: {full: Gália Rálwen, aliases: [Lady Elowen Brightwood]}
+name: {full: Gália Rálwen, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: cmmnn
-name: {full: Communion, aliases: [Converse]}
+name: {full: Communion, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Unites minds; caster and target share thoughts and sensations."

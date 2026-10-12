@@ -1,6 +1,6 @@
 ---
 shortcode: rvthrbrmztr
-name: {full: Rêvôthar Bàremzâtôr, aliases: [Reslâva Aiden Greenfield]}
+name: {full: Rêvôthar Bàremzâtôr, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

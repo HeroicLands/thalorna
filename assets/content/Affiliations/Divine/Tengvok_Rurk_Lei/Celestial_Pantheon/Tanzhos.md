@@ -1,6 +1,6 @@
 ---
 shortcode: tanzhos
-name: {full: Tānzhös, aliases: [The First Classifier, The Celestial Dragon, Celestial Dragon]}
+name: {full: Tānzhös, aliases: [The First Classifier, The Celestial Dragon]}
 type: affiliation
 subType: faithtradition
 description: "Order."

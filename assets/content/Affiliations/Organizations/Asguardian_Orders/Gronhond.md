@@ -1,6 +1,6 @@
 ---
 shortcode: gronhond
-name: {full: "Grönhönd", aliases: ["Order of the Green Hand"]}
+name: {full: "Grönhönd", aliases: []}
 type: affiliation
 subType: order
 description: "Herb-lore and healing in Fródvin's service."

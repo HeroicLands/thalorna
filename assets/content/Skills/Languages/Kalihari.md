@@ -1,6 +1,6 @@
 ---
 shortcode: kalihrlng
-name: {full: Kalihári Language, aliases: [Kalihári, Kalihari, Kaliharan, Interior Speech]}
+name: {full: Kalihári Language, aliases: [Kaliharan, Interior Speech]}
 type: skill
 subType: language
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtári loanwords and barely known in its interior form."

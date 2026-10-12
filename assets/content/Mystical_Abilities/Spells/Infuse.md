@@ -1,6 +1,6 @@
 ---
 shortcode: infuse
-name: {full: Infuse, aliases: [Charge]}
+name: {full: Infuse, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Channels arcane energy into object; releases via predetermined trigger."

@@ -1,6 +1,6 @@
 ---
 shortcode: blight
-name: {full: Blight, aliases: [Pox]}
+name: {full: Blight, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Withers crops and poisons soil; kills vegetation in spreading circle."

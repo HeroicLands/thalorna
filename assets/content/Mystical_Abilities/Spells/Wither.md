@@ -1,6 +1,6 @@
 ---
 shortcode: wither
-name: {full: Wither, aliases: [Decay]}
+name: {full: Wither, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Drains life force; target withers and decays rapidly."

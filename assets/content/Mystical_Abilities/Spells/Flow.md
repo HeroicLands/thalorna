@@ -1,6 +1,6 @@
 ---
 shortcode: flow
-name: {full: Flow, aliases: [Transfer]}
+name: {full: Flow, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster merges with nearby liquid; moves through as substance."

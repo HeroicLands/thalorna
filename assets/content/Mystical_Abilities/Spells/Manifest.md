@@ -1,6 +1,6 @@
 ---
 shortcode: manifest
-name: {full: Manifest, aliases: [Conjure]}
+name: {full: Manifest, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Solidifies invisible spirits into temporary physical forms; reveals hidden threats."

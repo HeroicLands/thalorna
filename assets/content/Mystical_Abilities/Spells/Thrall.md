@@ -1,6 +1,6 @@
 ---
 shortcode: thrall
-name: {full: Thrall, aliases: [Animus]}
+name: {full: Thrall, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Dominates target's will; forces absolute obedience."

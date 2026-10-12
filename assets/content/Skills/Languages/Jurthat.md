@@ -1,6 +1,6 @@
 ---
 shortcode: jurthatlng
-name: {full: Jürthāti Language, aliases: [Jürthāti]}
+name: {full: Jürthāti Language, aliases: []}
 type: skill
 subType: language
 description: "The island speech of the Nine Mountains—a daughter of Tānvüri hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."

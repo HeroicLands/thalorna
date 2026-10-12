@@ -1,6 +1,6 @@
 ---
 shortcode: targo
-name: {full: Tarûzelian Argentus, aliases: ["Tarûzelian Argentus", "Tarûzelian Argo"]}
+name: {full: Tarûzelian Argentus, aliases: ["Tarûzelian Argo"]}
 type: miscgear
 description: "Confederation silver coin struck to the full imperial standard; passes at full value abroad."
 tags: [jewelry_cash]

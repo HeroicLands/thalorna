@@ -1,6 +1,6 @@
 ---
 shortcode: stllnss
-name: {full: Stillness, aliases: [Rest]}
+name: {full: Stillness, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Freezes motion; halts all movement within affected area."

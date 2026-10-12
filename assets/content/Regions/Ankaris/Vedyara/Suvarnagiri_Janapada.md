@@ -1,8 +1,6 @@
 ---
 shortcode: suvrgrjnpd
-name:
-  full: Suvarnagiri Janapada
-  aliases: [Suvarnagiri, Suvarnagiri, The Janapada of the Gold Mountain]
+name: {full: Suvarnagiri Janapada, aliases: [The Janapada of the Gold Mountain]}
 type: affiliation
 subType: polity
 description: The temple-republic of Suvarnagiri—the villages of the Bhārava highlands federated around the gold-bearing mountain whose alluvial wash has funded their three great Mahājaya temples for fifteen centuries. Wealthy by janapada standards, philosophically restrained about its wealth, and the seat of the most respected metallurgical-and-jewelers' tradition outside Chandrapur.
@@ -17,10 +15,6 @@ data:
     summary: >-
       Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahājaya temples of Upper, Middle, and Lower Suvarnagiri. Each constituent village sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions—extraction, taxation, allocation of the temple-share—require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -152,6 +146,10 @@ The arrangement suits Suvarnagiri and irritates everybody else. The Assembly wou
 ## Commerce and Currency
 
 Suvarnagiri's gold leaves the territory as the tribute weighed out to Bharyastān and as metal sold at the edge of the territory to buyers who pay in coin, and Chandrapur strikes its gold [[miscgear-suvarna|suvarna]] from it. Inside the janapada, ordinary trade runs on the Vedyaran coin the [[affiliation-mrchntclctvvdyr|Merchant Collective]] clears, and the common treasury does the lending a Collective house would do elsewhere. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

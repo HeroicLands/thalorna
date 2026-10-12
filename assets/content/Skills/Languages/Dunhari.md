@@ -1,6 +1,6 @@
 ---
 shortcode: dunharlng
-name: {full: Dunhari Language, aliases: [Dunhari]}
+name: {full: Dunhari Language, aliases: []}
 type: skill
 subType: language
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."

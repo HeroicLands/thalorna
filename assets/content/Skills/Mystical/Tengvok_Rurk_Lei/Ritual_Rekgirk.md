@@ -1,6 +1,6 @@
 ---
 shortcode: rekgirk
-name: {full: "Ritual: Rëkgīrk", aliases: [Rëkgīrk, Rekgirk]}
+name: {full: "Ritual: Rëkgīrk", aliases: [Rëkgīrk]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

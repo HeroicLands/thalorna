@@ -1,6 +1,6 @@
 ---
 shortcode: blndspt
-name: {full: Blindspot, aliases: [Caecity]}
+name: {full: Blindspot, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster becomes invisible when still; seen only if moving."

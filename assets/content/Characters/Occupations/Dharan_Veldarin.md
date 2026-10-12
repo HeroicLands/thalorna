@@ -1,6 +1,6 @@
 ---
 shortcode: dharnvldrn
-name: {full: Dháran Véldarin, aliases: [Viriâhn Roderick Flamebearer]}
+name: {full: Dháran Véldarin, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

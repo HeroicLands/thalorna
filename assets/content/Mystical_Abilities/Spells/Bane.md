@@ -1,6 +1,6 @@
 ---
 shortcode: bane
-name: {full: Bane, aliases: [Malediction]}
+name: {full: Bane, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Curse; target suffers weakness; failures cascade into fresh misfortune."

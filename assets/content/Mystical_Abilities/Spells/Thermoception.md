@@ -1,6 +1,6 @@
 ---
 shortcode: thrmcptn
-name: {full: Thermoception, aliases: [Eyes]}
+name: {full: Thermoception, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Senses heat variations; perceives temperature and thermal patterns."

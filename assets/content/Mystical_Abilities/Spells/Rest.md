@@ -1,6 +1,6 @@
 ---
 shortcode: rest
-name: {full: Rest, aliases: [Slumber]}
+name: {full: Rest, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants deep, restorative sleep; targets wake refreshed."

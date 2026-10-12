@@ -2,13 +2,7 @@
 shortcode: svapnasarisamaja
 name:
   full: "Ritual: Svapnasāri-samāja"
-  aliases:
-    - Svapnasāri-samāja
-    - Svapnasari Samaja
-    - Assembly of the Dream-Followers
-    - Dream Assembly
-    - The Assembly of the Dream-Followers
-    - The Dream Assembly
+  aliases: [Svapnasāri-samāja, Svapnasari Samaja, Assembly of the Dream-Followers, Dream Assembly]
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

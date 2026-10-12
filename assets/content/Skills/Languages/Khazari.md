@@ -1,6 +1,6 @@
 ---
 shortcode: khazarlng
-name: {full: Khazári Language, aliases: [Khazári, Khazari, Dwarven, Elder Tongue]}
+name: {full: Khazári Language, aliases: [Elder Tongue]}
 type: skill
 subType: language
 description: "The second of the Elder Tongues—short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."

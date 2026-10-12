@@ -1,6 +1,6 @@
 ---
 shortcode: bjarthond
-name: {full: "Bjarthönd", aliases: ["Order of the Radiant Hand"]}
+name: {full: "Bjarthönd", aliases: []}
 type: affiliation
 subType: order
 description: "Healing and counsel in Bjartr's light."

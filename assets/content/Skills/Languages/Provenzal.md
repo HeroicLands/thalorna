@@ -1,6 +1,6 @@
 ---
 shortcode: provnzlng
-name: {full: Provenzal Language, aliases: [Provenzal]}
+name: {full: Provenzal Language, aliases: []}
 type: skill
 subType: language
 description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."

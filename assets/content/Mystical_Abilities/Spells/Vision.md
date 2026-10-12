@@ -1,6 +1,6 @@
 ---
 shortcode: vision
-name: {full: Vision, aliases: [Sight]}
+name: {full: Vision, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants distant sight; sees location far away remotely."

@@ -1,6 +1,6 @@
 ---
 shortcode: focus
-name: {full: Focus, aliases: [Lens]}
+name: {full: Focus, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Clarifies magical intent; improves accuracy and power of caster's magic."

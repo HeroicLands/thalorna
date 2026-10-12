@@ -1,6 +1,6 @@
 ---
 shortcode: conduit
-name: {full: Conduit, aliases: [Tube]}
+name: {full: Conduit, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Establishes flowing channel; directs water, air, or energy through."

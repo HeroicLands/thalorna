@@ -1,6 +1,6 @@
 ---
 shortcode: bethunlng
-name: {full: Bethuan Language, aliases: [Bethuan]}
+name: {full: Bethuan Language, aliases: []}
 type: skill
 subType: language
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."

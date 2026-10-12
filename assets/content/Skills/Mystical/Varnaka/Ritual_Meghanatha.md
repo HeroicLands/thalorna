@@ -1,6 +1,6 @@
 ---
 shortcode: meghanatha
-name: {full: "Ritual: Meghanātha", aliases: [Meghanātha, Meghanatha, Lord of Thunder]}
+name: {full: "Ritual: Meghanātha", aliases: [Meghanātha, Lord of Thunder]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

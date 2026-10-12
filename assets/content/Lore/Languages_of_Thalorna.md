@@ -1,6 +1,6 @@
 ---
 shortcode: lnggsthlrn
-name: {full: Languages of Thalorna, aliases: [Languages]}
+name: {full: Languages of Thalorna, aliases: []}
 type: doc
 subType: reference
 data: {banner: null}

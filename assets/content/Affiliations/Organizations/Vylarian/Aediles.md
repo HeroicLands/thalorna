@@ -1,6 +1,6 @@
 ---
 shortcode: aediles
-name: {full: The Aediles, aliases: [Aediles, Magistrates of the Wards]}
+name: {full: The Aediles, aliases: [Magistrates of the Wards]}
 type: affiliation
 subType: governmental
 description: "The ward magistrates of Ôrzâra—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."

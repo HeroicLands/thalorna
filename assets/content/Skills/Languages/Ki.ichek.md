@@ -1,6 +1,6 @@
 ---
 shortcode: kicheklng
-name: {full: Ki'ichek Language, aliases: [Ki'ichek]}
+name: {full: Ki'ichek Language, aliases: []}
 type: skill
 subType: language
 description: "The tonal, hieroglyph-written tongue of the K'ich'chik city-states, whose compound morphology can take a lifetime to master."

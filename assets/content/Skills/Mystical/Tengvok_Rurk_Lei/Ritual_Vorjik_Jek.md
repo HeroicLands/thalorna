@@ -1,6 +1,6 @@
 ---
 shortcode: vorjikjek
-name: {full: "Ritual: Vōrjīk Jëk", aliases: [Vōrjīk Jëk, Vorjik Jek]}
+name: {full: "Ritual: Vōrjīk Jëk", aliases: [Vōrjīk Jëk]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

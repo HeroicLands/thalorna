@@ -1,6 +1,6 @@
 ---
 shortcode: khzrnclndr
-name: {full: The Tellumi Calendar, aliases: [Tellumi Calendar]}
+name: {full: The Tellumi Calendar, aliases: []}
 type: lore
 subType: calendar
 description: "The ancient Tellumi calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Shēkhulūkhem beside the Ātárzád's own ritual reckoning."

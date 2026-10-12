@@ -1,6 +1,6 @@
 ---
 shortcode: sentinel
-name: {full: Sentinel, aliases: [Guardian]}
+name: {full: Sentinel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates guardian watchpoint; alerts caster to intrusion nearby."

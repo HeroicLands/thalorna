@@ -1,6 +1,6 @@
 ---
 shortcode: extngsh
-name: {full: Extinguish, aliases: [Quenching]}
+name: {full: Extinguish, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Smothers flames; quenches fire and heat without producing ash."

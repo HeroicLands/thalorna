@@ -1,6 +1,6 @@
 ---
 shortcode: frmcrft
-name: {full: Formcraft, aliases: [Figure]}
+name: {full: Formcraft, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Reshapes matter itself; molds materials into desired shapes permanently."

@@ -1,6 +1,6 @@
 ---
 shortcode: arislkrsvr
-name: {full: Árisla Kórisvar, aliases: [Lady Elowen Faircourt]}
+name: {full: Árisla Kórisvar, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

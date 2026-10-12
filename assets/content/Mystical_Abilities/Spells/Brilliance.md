@@ -1,6 +1,6 @@
 ---
 shortcode: brllnc
-name: {full: Brilliance, aliases: [Flash]}
+name: {full: Brilliance, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster radiates blinding white light; sears vision of those nearby."

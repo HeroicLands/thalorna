@@ -1,6 +1,6 @@
 ---
 shortcode: might
-name: {full: Might, aliases: [Physique]}
+name: {full: Might, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Temporary physical enhancement increasing strength and combat prowess greatly."

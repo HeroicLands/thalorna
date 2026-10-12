@@ -1,6 +1,6 @@
 ---
 shortcode: shift
-name: {full: Shift, aliases: [Warp]}
+name: {full: Shift, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Moves object position instantaneously; teleports within sight."

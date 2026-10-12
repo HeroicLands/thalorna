@@ -1,6 +1,6 @@
 ---
 shortcode: fenjaravlg
-name: {full: Fénjara Village, aliases: [Fénjara]}
+name: {full: Fénjara Village, aliases: []}
 type: place
 subType: settlement
 description: "Village of the Fénjara, set back in the gallery forest where the savannah gives way to close bush—the tribe's seat, and the home of its spirit-trackers."

@@ -1,6 +1,6 @@
 ---
 shortcode: vandarrnk
-name: {full: "Vandár", aliases: ["New Hunter"]}
+name: {full: "Vandár", aliases: []}
 type: lore
 subType: law
 description: "Recently inducted and still learning the ways, watched for signs of weakness, in Wuldjagár erund Gárskald."

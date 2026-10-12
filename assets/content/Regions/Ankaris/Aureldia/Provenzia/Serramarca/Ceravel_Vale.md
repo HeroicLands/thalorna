@@ -1,6 +1,6 @@
 ---
 shortcode: ceravelvale
-name: {full: Céravel Vale, aliases: [Céravel, Vale of Céravel]}
+name: {full: Céravel Vale, aliases: [Vale of Céravel]}
 type: place
 subType: region
 description: "A rugged frontier vale of the Sèrramarca, manorial estates and villages anchored by Caêr Céravel, troubled by banditry and facing Tarvénia."

@@ -1,6 +1,6 @@
 ---
 shortcode: mstrpll
-name: {full: Moisturepull, aliases: [Sweat]}
+name: {full: Moisturepull, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."

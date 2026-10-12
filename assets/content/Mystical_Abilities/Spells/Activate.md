@@ -1,6 +1,6 @@
 ---
 shortcode: activate
-name: {full: Activate, aliases: [Trigger]}
+name: {full: Activate, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Sets conditional trigger on prepared spell; fires when condition met."

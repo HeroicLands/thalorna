@@ -1,6 +1,6 @@
 ---
 shortcode: glyencrdth
-name: {full: Glýenna Cárdeth, aliases: [Aperâni Valeria Firebrand]}
+name: {full: Glýenna Cárdeth, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, administration]

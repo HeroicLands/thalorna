@@ -977,6 +977,18 @@ function namesOf(note) {
     return [n?.full, ...(n?.aliases ?? [])].filter((x) => typeof x === "string" && x);
 }
 
+/** The folded words of a note's full name: a note answers to each without an alias. */
+function nameWords(note) {
+    const full = note.fm.name?.full;
+    if (typeof full !== "string") return new Set();
+    return new Set(
+        full
+            .split(/\s+/)
+            .map((w) => fold(w.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "")))
+            .filter(Boolean),
+    );
+}
+
 /** Every bold term of a note's body. */
 function boldTerms(note) {
     return [...note.text.slice(note.body).matchAll(/\*\*([^*\n]+)\*\*/g)].map((m) => m[1]);
@@ -1247,7 +1259,11 @@ export function checkLexicon(lexText, noteText, notes) {
                 "error",
                 `${r.name} is registered at \`${r.address}\`, which no note holds`,
             );
-        else if (!namesOf(note).includes(r.name) && !boldTerms(note).includes(r.name))
+        else if (
+            !namesOf(note).includes(r.name) &&
+            !nameWords(note).has(fold(r.name)) &&
+            !boldTerms(note).includes(r.name)
+        )
             add(
                 r.offset,
                 "error",

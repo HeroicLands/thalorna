@@ -1,6 +1,6 @@
 ---
 shortcode: valtarlng
-name: {full: Valtári Language, aliases: [Valtári, Váltongue, Dock-talk, Trade Pidgin]}
+name: {full: Valtári Language, aliases: [Váltongue, Dock-talk, Trade Pidgin]}
 type: skill
 subType: language
 description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."

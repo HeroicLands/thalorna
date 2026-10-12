@@ -42,7 +42,7 @@ data:
         description: >-
           Holding a province of the crown directly as tenant-in-chief, answering to no authority below the sovereign, and commanding lesser lords in turn.
       - level: 7
-        title: Royalty
+        title: Prince or Princess of the Blood
         description: >-
           Of the ruling house by blood or marriage, standing above the nobility in precedence and in claim, but holding no crown.
       - level: 8

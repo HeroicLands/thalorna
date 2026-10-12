@@ -1,6 +1,6 @@
 ---
 shortcode: illfrm
-name: {full: Illusory Form, aliases: [Image]}
+name: {full: Illusory Form, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Three-dimensional image of person or creature; dispels upon contact."

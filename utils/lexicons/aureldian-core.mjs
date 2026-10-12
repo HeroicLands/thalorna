@@ -188,6 +188,20 @@ export function keyOf(name) {
         .trim();
 }
 
+/**
+ * The words of a full name, as register keys. A note answers to each word of
+ * its full name without an alias saying so.
+ */
+export function wordsOf(full) {
+    if (typeof full !== "string") return new Set();
+    return new Set(
+        full
+            .split(/\s+/)
+            .map((word) => keyOf(word.replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu, "")))
+            .filter(Boolean),
+    );
+}
+
 /** The wikilink addresses of a cell. */
 export function addressesOf(cell) {
     return [...(cell ?? "").matchAll(/\[\[([^|\\\]]+)/g)].map((match) => match[1].trim());
@@ -660,6 +674,7 @@ export function readTree(root = CONTENT) {
             text,
             front,
             names: new Set(mine.map((one) => keyOf(one.name))),
+            words: wordsOf(own.full),
             mine,
             type: front.type,
             given:
@@ -1104,7 +1119,7 @@ export function analyseTongue(config, input) {
                     "error",
                     `**${row.name}** names [[${address}]], which no note has`,
                 );
-            else if (!target.names.has(key) && !boldIn(target.text, key))
+            else if (!target.names.has(key) && !target.words?.has(key) && !boldIn(target.text, key))
                 lexFinding(row.at, "error", `**${row.name}** is not a name of [[${address}]]`);
         }
     }

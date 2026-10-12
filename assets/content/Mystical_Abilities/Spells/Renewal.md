@@ -1,6 +1,6 @@
 ---
 shortcode: renewal
-name: {full: Renewal, aliases: [Regenesis]}
+name: {full: Renewal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Restores caster's spent energy; regains magical power quickly."

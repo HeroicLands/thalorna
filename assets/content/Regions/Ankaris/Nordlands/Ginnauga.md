@@ -1,6 +1,6 @@
 ---
 shortcode: ginnauga
-name: {full: Ginnauga, aliases: [Eye of the Void]}
+name: {full: Ginnauga, aliases: []}
 type: lore
 subType: theology
 description: "The Eye of the Void: Náhild's primordial relic of corruption, worn at her neck and a powerful source of the Shadow."

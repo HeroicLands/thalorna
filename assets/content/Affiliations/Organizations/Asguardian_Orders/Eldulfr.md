@@ -1,6 +1,6 @@
 ---
 shortcode: eldulfr
-name: {full: "Eldúlfr", aliases: ["Infernal Blades"]}
+name: {full: "Eldúlfr", aliases: []}
 type: affiliation
 subType: order
 description: "Svartbrandr's elite warriors of the forge-hofs."

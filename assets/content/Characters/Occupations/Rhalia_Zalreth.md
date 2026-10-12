@@ -1,6 +1,6 @@
 ---
 shortcode: rhalizlrth
-name: {full: Rhália Zálreth, aliases: [Captain Elysia Windrider]}
+name: {full: Rhália Zálreth, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

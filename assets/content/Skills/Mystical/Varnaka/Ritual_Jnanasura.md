@@ -1,6 +1,6 @@
 ---
 shortcode: jnanasura
-name: {full: "Ritual: Jñānasūra", aliases: [Jñānasūra, Jnanasura, The Radiant Sage]}
+name: {full: "Ritual: Jñānasūra", aliases: [Jñānasūra, The Radiant Sage]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

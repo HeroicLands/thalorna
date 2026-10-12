@@ -1,6 +1,6 @@
 ---
 shortcode: sustain
-name: {full: Sustain, aliases: [Victual]}
+name: {full: Sustain, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Maintains vital functions; prevents death and continues existence."

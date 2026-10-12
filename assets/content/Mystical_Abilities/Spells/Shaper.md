@@ -1,6 +1,6 @@
 ---
 shortcode: shaper
-name: {full: Shaper, aliases: [Mould]}
+name: {full: Shaper, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Remoulds material into new form; sculpts without tool."

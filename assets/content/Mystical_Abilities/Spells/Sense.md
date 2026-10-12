@@ -1,6 +1,6 @@
 ---
 shortcode: sense
-name: {full: Sense, aliases: [Feel]}
+name: {full: Sense, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants empathic perception; detects nearby emotions and thoughts."

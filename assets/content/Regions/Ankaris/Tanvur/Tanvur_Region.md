@@ -1,6 +1,6 @@
 ---
 shortcode: tanvuregin
-name: {full: Tānvür Region, aliases: [Tanvur, Tānvür]}
+name: {full: Tānvür Region, aliases: []}
 type: place
 subType: region
 description: The Tānvüri heartland—the mountain-guarded river basins and plains of Ankaris's far east, cradle of the Empire of Tānvür.

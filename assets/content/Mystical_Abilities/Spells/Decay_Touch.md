@@ -1,6 +1,6 @@
 ---
 shortcode: dcytch
-name: {full: Decay Touch, aliases: [Wasting]}
+name: {full: Decay Touch, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Rots organic matter; accelerates corruption and decay on contact."

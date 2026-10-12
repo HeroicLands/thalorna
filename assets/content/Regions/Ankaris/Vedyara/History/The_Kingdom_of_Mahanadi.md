@@ -1,6 +1,6 @@
 ---
 shortcode: mhndkngdm
-name: {full: The Kingdom of Mahānadī, aliases: [Kingdom of Mahānadī, The Dissolution of Mahānadī]}
+name: {full: The Kingdom of Mahānadī, aliases: [The Dissolution of Mahānadī]}
 type: lore
 subType: history
 description: "The kingdom that held the upper Mahānadī for some four centuries, from its founding around 640 BF through the move of its capital to Rājapur in the first year of the Madhusthāna count to the forty-day sabhā that dissolved it in the first year of the Age of Copyists."

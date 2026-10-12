@@ -1,6 +1,6 @@
 ---
 shortcode: elvndrlng
-name: {full: Élavendri Language, aliases: [Élavendri, Elavendri]}
+name: {full: Élavendri Language, aliases: []}
 type: skill
 subType: language
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."

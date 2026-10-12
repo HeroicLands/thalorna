@@ -1,6 +1,6 @@
 ---
 shortcode: vdykshrscrpt
-name: {full: Vedyākshara Script, aliases: [Vedyākshara]}
+name: {full: Vedyākshara Script, aliases: []}
 type: skill
 subType: script
 description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."

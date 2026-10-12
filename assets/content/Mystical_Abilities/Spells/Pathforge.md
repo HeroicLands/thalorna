@@ -1,6 +1,6 @@
 ---
 shortcode: pthfrg
-name: {full: Pathforge, aliases: [Tunnel]}
+name: {full: Pathforge, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates temporary passage through solid barriers like walls."

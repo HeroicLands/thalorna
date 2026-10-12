@@ -14,10 +14,6 @@ data:
     summary: >-
       A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the nine merchant-prince houses fill and the temple patrons moderate. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -123,6 +119,10 @@ Chandrapur is patron to the [[affiliation-rajaprjnpd|Rājapur Janapada]] under a
 ## Commerce and Currency
 
 Chandrapur strikes Vedyara's silver and gold. The Moon House strikes the silver [[miscgear-candra|candra]] of ordinary formal commerce, and the gold [[miscgear-suvarna|suvarna]] is struck here from Suvarnagiri gold; the copper [[miscgear-tamra|tāmra]] is struck here as at every court. The city holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each spring, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters of credit settle the larger trades. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 shortcode: dskcrft
-name: {full: Duskcraft, aliases: [Shadow]}
+name: {full: Duskcraft, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Summons darkness; obscures vision within spreading circle of shadow."

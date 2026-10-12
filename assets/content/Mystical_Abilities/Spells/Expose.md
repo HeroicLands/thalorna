@@ -1,6 +1,6 @@
 ---
 shortcode: expose
-name: {full: Expose, aliases: [Reveal]}
+name: {full: Expose, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Reveals hidden things; penetrates concealment and shows true nature."

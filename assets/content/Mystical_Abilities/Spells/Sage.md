@@ -1,6 +1,6 @@
 ---
 shortcode: sage
-name: {full: Sage, aliases: [Wisdom]}
+name: {full: Sage, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Simplifies complexity; core dynamics become apparent through meditation."

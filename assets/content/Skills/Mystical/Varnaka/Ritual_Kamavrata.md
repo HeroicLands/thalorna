@@ -1,6 +1,6 @@
 ---
 shortcode: kamavrata
-name: {full: "Ritual: Kāmavrata", aliases: [Kāmavrata, Kamavrata, The Celestial Lover]}
+name: {full: "Ritual: Kāmavrata", aliases: [Kāmavrata, The Celestial Lover]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

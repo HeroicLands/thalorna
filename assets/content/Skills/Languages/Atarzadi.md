@@ -1,6 +1,6 @@
 ---
 shortcode: atarzadilng
-name: {full: Ātárzādi Language, aliases: [Atarzadi Language]}
+name: {full: Ātárzādi Language, aliases: []}
 type: skill
 subType: language
 description: "The harsh, long-voweled tongue of the Ātárzád, a Desert-family cousin of Dunhari."

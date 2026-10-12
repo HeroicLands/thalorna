@@ -1,6 +1,6 @@
 ---
 shortcode: eqlbrm
-name: {full: Equilibrium, aliases: [Harmony]}
+name: {full: Equilibrium, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Balances forces; negates momentum and prevents caster's displacement."

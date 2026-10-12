@@ -1,6 +1,6 @@
 ---
 shortcode: zhutshtzhs
-name: {full: "Ritual: Zhütshüt Zhös", aliases: [Zhütshüt Zhös, Zhutshut Zhos]}
+name: {full: "Ritual: Zhütshüt Zhös", aliases: [Zhütshüt Zhös]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

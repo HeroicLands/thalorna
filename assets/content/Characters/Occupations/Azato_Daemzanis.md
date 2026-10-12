@@ -1,6 +1,6 @@
 ---
 shortcode: azatodmzns
-name: {full: Azatô Dâemzânis, aliases: [Oswin Crey]}
+name: {full: Azatô Dâemzânis, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

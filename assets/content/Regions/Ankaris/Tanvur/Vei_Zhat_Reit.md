@@ -1,6 +1,6 @@
 ---
 shortcode: veizhatret
-name: {full: Vëi Zhāt Rëit, aliases: [The Jade Fan Dance, Jade Fan Dance]}
+name: {full: Vëi Zhāt Rëit, aliases: [The Jade Fan Dance]}
 type: lore
 subType: custom
 description: "The Jade Fan Dance—the game of intrigue at the Tānvüri court, its players and weapons, the secret faction called the Emperor's Shadow, and what winning and losing cost on the moral ledger."

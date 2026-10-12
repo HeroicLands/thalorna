@@ -679,21 +679,16 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Kjôrvan**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                          | `provenzal`   | —          |
 | **Gjârlen**                             | [[being-kjrvngjrln\|Kjôrvan Gjârlen]]                                                          | `provenzal`   | —          |
 | **Árisla Kórisvar**                     | [[being-arislkrsvr\|Árisla Kórisvar]]                                                          | `provenzal`   | —          |
-| **Lady Elowen Faircourt**               | [[being-arislkrsvr\|Árisla Kórisvar]]                                                          | `other`       | —          |
 | **Ârnela Kórisvar**                     | [[being-arnelkrsvr\|Ârnela Kórisvar]]                                                          | `provenzal`   | —          |
-| **Lady Seraphina Emberhart**            | [[being-arnelkrsvr\|Ârnela Kórisvar]]                                                          | `other`       | —          |
 | **Bâlden Stýlgon**                      | [[being-bldnstylgn\|Bâlden Stýlgon]]                                                           | `provenzal`   | —          |
 | **Bárnek Lánthrik**                     | [[being-brnklnthrk\|Bárnek Lánthrik]]                                                          | `provenzal`   | —          |
 | **Brýgar Lýskal**                       | [[being-brygrlyskl\|Brýgar Lýskal]]                                                            | `provenzal`   | —          |
 | **Cáreden Chárnis**                     | [[being-cardnchrns\|Cáreden Chárnis]]                                                          | `provenzal`   | —          |
 | **Chýnara Kórisvar**                    | [[being-chynrkrsvr\|Chýnara Kórisvar]]                                                         | `provenzal`   | —          |
 | **Fárila Válskyr**                      | [[being-farlvlskyr\|Fárila Válskyr]]                                                           | `provenzal`   | —          |
-| **Lady Seraphina Wellspring**           | [[being-farlvlskyr\|Fárila Válskyr]]                                                           | `other`       | —          |
 | **Frýsala Válskyr**                     | [[being-fryslvlskyr\|Frýsala Válskyr]]                                                         | `provenzal`   | —          |
 | **Gália Rálwen**                        | [[being-galiaralwn\|Gália Rálwen]]                                                             | `provenzal`   | —          |
-| **Lady Elowen Brightwood**              | [[being-galiaralwn\|Gália Rálwen]]                                                             | `other`       | —          |
 | **Hârlak Válskyr**                      | [[being-hrlkvlskyr\|Hârlak Válskyr]]                                                           | `provenzal`   | —          |
-| **Braden Hask**                         | [[being-hrlkvlskyr\|Hârlak Válskyr]]                                                           | `other`       | —          |
 | **Járaen Lýskal**                       | [[being-jaranlyskl\|Járaen Lýskal]]                                                            | `provenzal`   | —          |
 | **Kírisa Zýrand**                       | [[being-kiriszyrnd\|Kírisa Zýrand]]                                                            | `provenzal`   | —          |
 | **Lýraen Válskyr**                      | [[being-lyrnvlskyr\|Lýraen Válskyr]]                                                           | `provenzal`   | —          |
@@ -703,7 +698,6 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Rýlden Brânwyld**                     | [[being-ryldnbrnwyld\|Rýlden Brânwyld]]                                                        | `provenzal`   | —          |
 | **Târlig Tólgen**                       | [[being-tarligtlgn\|Târlig Tólgen]]                                                            | `provenzal`   | —          |
 | **Thâven Fárwèn**                       | [[being-thavenfrwn\|Thâven Fárwèn]]                                                            | `provenzal`   | —          |
-| **Bosun Kellan Stormwatch**             | [[being-thavenfrwn\|Thâven Fárwèn]]                                                            | `other`       | —          |
 | **Úrelè Rálwen**                        | [[being-ureleralwn\|Úrelè Rálwen]]                                                             | `provenzal`   | —          |
 | **Vérynna Brânwyld**                    | [[being-vrynbrnwyld\|Vérynna Brânwyld]]                                                        | `provenzal`   | —          |
 | **Vólyra Brýlond**                      | [[being-vlyrbrylnd\|Vólyra Brýlond]]                                                           | `provenzal`   | —          |
@@ -716,7 +710,6 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Áthavel**                             | [[place-athavel\|Áthavel]]                                                                     | `provenzal`   | —          |
 | **Gwéfavel**                            | [[place-gwefavel\|Gwéfavel]]                                                                   | `provenzal`   | —          |
 | **The Blood-fields of Provènzia**       | [[lore-bloodfields\|The Blood-fields of Provènzia]]                                            | `translation` | —          |
-| **King Vélarik III**                    | [[being-kingvelarikiii\|King Vélarik III]]                                                     | `translation` | —          |
 | **Kingdom of Provènzia**                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Outlaw**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Unfree**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
@@ -725,7 +718,7 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Knight**                              | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Lesser Nobility**                     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Greater Nobility**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
-| **Royalty**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
+| **Prince or Princess of the Blood**     | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Sovereign**                           | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **King**                                | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Queen**                               | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
@@ -762,7 +755,6 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **Captain**                             | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Serjeant**                            | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
 | **Manorial Officer**                    | [[affiliation-kngdmprvnz\|Kingdom of Provènzia]]                                               | `translation` | —          |
-| **Aurèliane**                           | [[place-aureliane\|Aurèliane]], [[lore-aurelianefound\|The Founding of Aurèliane]]             | `provenzal`   | —          |
 | **Belpòrte**                            | [[place-belporte\|Belpòrte]]                                                                   | `provenzal`   | —          |
 | **Blood-field of Calvènza**             | [[place-bldfldcalvenza\|Blood-field of Calvènza]]                                              | `translation` | —          |
 | **Dégavel**                             | [[place-degavel\|Dégavel]]                                                                     | `provenzal`   | —          |
@@ -814,6 +806,11 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **The Peach Country**                   | [[place-zuravlenrgn\|Zûravlen Region]]                                                         | `translation` | —          |
 | **Provenzal Language**                  | [[skill-provnzlng\|Provenzal Language]]                                                        | `translation` | —          |
 | **Provenzal**                           | [[skill-provnzlng\|Provenzal Language]]                                                        | `provenzal`   | —          |
+| **Earldom of Hárivren**                 | [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                                                | `translation` | —          |
+| **Subject**                             | [[affiliation-brnyzrvln\|Barony of Zûravlen]], [[affiliation-erldmhrvrn\|Earldom of Hárivren]] | `translation` | —          |
+| **Barony of Zûravlen**                  | [[affiliation-brnyzrvln\|Barony of Zûravlen]]                                                  | `translation` | —          |
+| **King Vélarik III**                    | [[being-kingvelarikiii\|King Vélarik III]]                                                     | `translation` | —          |
+| **Aurèliane**                           | [[place-aureliane\|Aurèliane]], [[lore-aurelianefound\|The Founding of Aurèliane]]             | `provenzal`   | —          |
 | **The Founding of Aurèliane**           | [[lore-aurelianefound\|The Founding of Aurèliane]]                                             | `translation` | —          |
 | **The Colony on the Great Road**        | [[lore-aurelianefound\|The Founding of Aurèliane]]                                             | `translation` | —          |
 | **Tiravlen**                            | [[lore-tiravlenbattle\|Tiravlen]]                                                              | `provenzal`   | —          |
@@ -830,9 +827,6 @@ Every name in the scope of the Provenzal tongue—the Provenzians, their cities,
 | **The Nine Years' Refusal**             | [[lore-charterwar\|The War of the Charter]]                                                    | `translation` | —          |
 | **The War of the Princes**              | [[lore-warprinces\|The War of the Princes]]                                                    | `translation` | —          |
 | **The Céravian Rebellion**              | [[lore-warprinces\|The War of the Princes]]                                                    | `translation` | —          |
-| **Earldom of Hárivren**                 | [[affiliation-erldmhrvrn\|Earldom of Hárivren]]                                                | `translation` | —          |
-| **Subject**                             | [[affiliation-brnyzrvln\|Barony of Zûravlen]], [[affiliation-erldmhrvrn\|Earldom of Hárivren]] | `translation` | —          |
-| **Barony of Zûravlen**                  | [[affiliation-brnyzrvln\|Barony of Zûravlen]]                                                  | `translation` | —          |
 
 ### Retired names
 

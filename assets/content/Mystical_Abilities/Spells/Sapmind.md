@@ -1,6 +1,6 @@
 ---
 shortcode: sapmind
-name: {full: Sapmind, aliases: [Enervation]}
+name: {full: Sapmind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Draws liquid essence; drains vitality through insidious wood-touch."

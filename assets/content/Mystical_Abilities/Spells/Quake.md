@@ -1,6 +1,6 @@
 ---
 shortcode: quake
-name: {full: Quake, aliases: [Tremor]}
+name: {full: Quake, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Ground shakes violently; disrupts footing and causes damage."

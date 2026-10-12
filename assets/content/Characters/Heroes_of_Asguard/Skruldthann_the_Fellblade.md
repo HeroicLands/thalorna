@@ -1,9 +1,6 @@
 ---
 shortcode: skrldthnflbld
-name:
-  full: Skruldthann the Fellblade
-  given: Skruldthann
-  aliases: [the Fellblade, Skruldthann the Fellblade]
+name: {full: Skruldthann the Fellblade, given: Skruldthann, aliases: [the Fellblade]}
 type: being
 subType: character
 tags: [demigod, heroes-of-asguard, unguilded, soldiery]

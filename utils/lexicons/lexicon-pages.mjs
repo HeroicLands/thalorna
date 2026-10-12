@@ -122,6 +122,12 @@ export const lower = (s = "") => s.normalize("NFC").toLowerCase();
 /** Lowercase with every mark off. */
 export const fold = (s = "") => s.normalize("NFD").replace(/\p{M}/gu, "").toLowerCase();
 
+/** A name folded to lower case without diacritics or a leading article. */
+const bare = (s = "") =>
+    fold(s)
+        .trim()
+        .replace(/^the\s+/, "");
+
 /** A cell with its links reduced to their labels and its bold and italic marks off. */
 export function plain(cell = "") {
     return cell
@@ -1176,7 +1182,15 @@ export function analyse({ lexFile, lexText, tree, earth = null, extra = {} }) {
                 add(r.offset, "error", `${r.name} names ${address}, which no note carries`);
                 continue;
             }
-            if (!note.names.some((n) => fold(n.name) === fold(r.name))) {
+            const asked = bare(r.name);
+            if (
+                !note.names.some(
+                    (n) =>
+                        fold(n.name) === fold(r.name) ||
+                        bare(n.name) === asked ||
+                        (n.kind === "full" && bare(n.name).split(/\s+/).includes(asked)),
+                )
+            ) {
                 add(
                     r.offset,
                     "error",

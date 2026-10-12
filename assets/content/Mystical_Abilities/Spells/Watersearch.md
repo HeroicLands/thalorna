@@ -1,6 +1,6 @@
 ---
 shortcode: wtrsrch
-name: {full: Watersearch, aliases: [Dowsing]}
+name: {full: Watersearch, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Finds water nearby; locates source of liquid."

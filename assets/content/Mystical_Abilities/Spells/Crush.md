@@ -1,6 +1,6 @@
 ---
 shortcode: crush
-name: {full: Crush, aliases: [Fist]}
+name: {full: Crush, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Focuses immense pressure; compresses target or ruins structures utterly."

@@ -1,6 +1,6 @@
 ---
 shortcode: grimmundrnk
-name: {full: "Grimmund", aliases: ["Of the Band"]}
+name: {full: "Grimmund", aliases: []}
 type: lore
 subType: law
 description: "One of the six who follow Dágulf yra Véthar wur Thrárýth, held by fear of the leader and the absence of better options, in the Blackpine Wolves."

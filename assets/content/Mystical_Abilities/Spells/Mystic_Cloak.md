@@ -1,6 +1,6 @@
 ---
 shortcode: mystclk
-name: {full: Mystic Cloak, aliases: [Veil]}
+name: {full: Mystic Cloak, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Shimmering aura rendering caster invisible to magical perception."

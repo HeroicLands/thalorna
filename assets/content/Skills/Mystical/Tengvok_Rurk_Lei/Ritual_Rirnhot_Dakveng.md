@@ -1,6 +1,6 @@
 ---
 shortcode: rirnhtdkvng
-name: {full: "Ritual: Rīrnhöt Dākvëng", aliases: [Rīrnhöt Dākvëng, Rirnhot Dakveng]}
+name: {full: "Ritual: Rīrnhöt Dākvëng", aliases: [Rīrnhöt Dākvëng]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

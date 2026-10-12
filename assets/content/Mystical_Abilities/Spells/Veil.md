@@ -1,6 +1,6 @@
 ---
 shortcode: veil
-name: {full: Veil, aliases: [Screen]}
+name: {full: Veil, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Conceals target; renders invisible to normal sight."

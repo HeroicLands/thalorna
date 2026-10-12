@@ -1,6 +1,6 @@
 ---
 shortcode: palnsnrcth
-name: {full: Pálina Sánriceth, aliases: [Shénasenè Seraphine Dreamweaver]}
+name: {full: Pálina Sánriceth, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

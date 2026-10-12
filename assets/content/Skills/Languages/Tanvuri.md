@@ -1,6 +1,6 @@
 ---
 shortcode: tanvurlng
-name: {full: Tānvüri Language, aliases: [Tānvüri, Tanvuri]}
+name: {full: Tānvüri Language, aliases: []}
 type: skill
 subType: language
 description: "The imperial speech of Tānvür—logographic in script and intricate in morphology, with vernaculars that drift the farther one travels from the capital."

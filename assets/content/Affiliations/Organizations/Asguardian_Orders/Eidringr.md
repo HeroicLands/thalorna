@@ -1,6 +1,6 @@
 ---
 shortcode: eidringr
-name: {full: "Eidringr", aliases: ["The Oathsworn"]}
+name: {full: "Eidringr", aliases: []}
 type: affiliation
 subType: order
 description: "Witnesses and mediators of Eidgar's sworn oaths."

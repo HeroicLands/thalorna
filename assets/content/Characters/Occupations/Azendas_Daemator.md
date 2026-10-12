@@ -1,6 +1,6 @@
 ---
 shortcode: azendsdmtr
-name: {full: Azéndas Dâemâtôr, aliases: [Ebaséthè Rowan Thistlewood]}
+name: {full: Azéndas Dâemâtôr, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

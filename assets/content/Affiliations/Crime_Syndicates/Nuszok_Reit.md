@@ -1,6 +1,6 @@
 ---
 shortcode: nuszokreit
-name: {full: Nüszōk Rëit, aliases: [The Cult of the Forsaken, The Forsaken, Cult of the Forsaken]}
+name: {full: Nüszōk Rëit, aliases: [The Cult of the Forsaken, The Forsaken]}
 type: affiliation
 subType: criminal
 description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying the undead to destabilize imperial administration."
@@ -15,10 +15,6 @@ data:
     summary: >-
       Decentralized to the point that it may have no center at all: "no central leadership council exists—or if one exists, no member taken into imperial custody has ever revealed its composition, which after decades of interrogation begins to support the hypothesis that none exists." Regional cells plan and execute their own operations and rarely know each other's membership; coordination passes through intermediaries who bear messages and know no operational detail. This makes the cult almost impossible to decapitate and incoherent as a political actor at the same time—which its own doctrine holds to be a feature, coordination being the behavior of organizations that expect to continue existing.
     ranks:
-      - level: 0
-        title: Lapsed
-        description: >-
-          Broken with a cell. Those who join do not usually leave, and one who does is exposed on both sides at once: the irreversible act that admitted them has already destroyed any standing in the mainstream order.
       - level: 1
         title: Approached
         description: >-
@@ -124,6 +120,10 @@ The Lotus's leadership is aware that the cult's ultimate aim is incompatible wit
 The cult is decentralized. No central leadership council exists—or if one exists, no member taken into imperial custody has ever revealed its composition, which after decades of interrogation begins to support the hypothesis that none exists. Operations are planned and executed by regional cells that rarely know each other's membership. Coordination across cells passes through intermediaries whose function is purely message-bearing and who know no operational details themselves.
 
 This structure has consequences. It makes the cult extraordinarily resistant to decapitation; the capture or destruction of any single cell does not meaningfully degrade the organization's capacity. It also makes the cult incoherent as a political actor—individual cells pursue locally-conceived operations that occasionally contradict each other, and the cult has no mechanism for strategic coordination beyond the shared ideology that all of its members carry. This is, in the cult's own doctrine, a feature rather than a defect. Coordination is the behavior of organizations that expect to continue existing. The cult does not share that expectation.
+
+## Outside the Ladder
+
+Breaking with a cell is rare. Those who join do not usually leave, and one who does is exposed on both sides at once: the irreversible act that admitted them has already destroyed any standing in the mainstream order.
 
 ## See Also
 

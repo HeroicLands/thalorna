@@ -76,10 +76,10 @@ test("a learned word the loan table does not give is an error", () => {
 test("a name in scope missing from the register is an error", () => {
     const broken = lexicon
         .split("\n")
-        .filter((line) => !line.startsWith("| **Tarvéni**"))
+        .filter((line) => !line.startsWith("| **Tarvénia Region**"))
         .join("\n");
     assert.match(
         errors(broken).join("\n"),
-        /"Tarvéni" is a Tarvéni name the register does not register/,
+        /"Tarvénia Region" is a Tarvéni name the register does not register/,
     );
 });

@@ -1,6 +1,6 @@
 ---
 shortcode: wtrbrth
-name: {full: Waterbreath, aliases: [Gills]}
+name: {full: Waterbreath, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants water-breathing; enables underwater respiration. effect"

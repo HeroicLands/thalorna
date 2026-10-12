@@ -1,6 +1,6 @@
 ---
 shortcode: loyalty
-name: {full: Loyalty, aliases: [Obedience]}
+name: {full: Loyalty, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Enchantment compelling obedience; target serves caster with unwavering devotion."

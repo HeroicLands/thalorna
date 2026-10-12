@@ -79,7 +79,7 @@ language may stand, and no page names that language.
   where a note has no approved name, it refers to the place by its role ("the
   island trading port off the coast") and leaves the Earth name in the comment.
 
-`utils/no-earth-names.test.mjs` enforces the rule.
+`npm run lint:earth-names` enforces the rule, and is part of `npm run lint`.
 
 ## Explain through concrete moments
 

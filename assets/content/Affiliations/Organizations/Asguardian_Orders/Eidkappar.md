@@ -1,6 +1,6 @@
 ---
 shortcode: eidkappar
-name: {full: "Eidkáppar", aliases: ["Sword of Eidgar"]}
+name: {full: "Eidkáppar", aliases: []}
 type: affiliation
 subType: order
 description: "Eidgar's fighting order of honorable combat."

@@ -1,6 +1,6 @@
 ---
 shortcode: portal
-name: {full: Portal, aliases: [Gate]}
+name: {full: Portal, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Opens gateway between two distant locations; enables instant travel."

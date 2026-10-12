@@ -196,5 +196,5 @@ Several practical implications follow from the metaphysics described above. The 
 - [[affiliation-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
 - [[affiliation-kentra|Kentra]]—The Ordo's mastery rank, and the Vertigo Hodäi affliction
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The institution
-- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
-- Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, with reference to this document
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
+- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Ordo tradition channels the potential, with reference to this document

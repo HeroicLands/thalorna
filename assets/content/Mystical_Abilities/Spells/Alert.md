@@ -1,6 +1,6 @@
 ---
 shortcode: alert
-name: {full: Alert, aliases: [Alarm]}
+name: {full: Alert, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Traces invisible boundary; warns caster of crossers with sensation."

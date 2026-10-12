@@ -1,6 +1,6 @@
 ---
 shortcode: shdwbnd
-name: {full: Shadowbind, aliases: [Gloomweb]}
+name: {full: Shadowbind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds shadow of target; restricts movement to caster's proximity."

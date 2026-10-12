@@ -2,7 +2,7 @@
 shortcode: hurnzhuk
 name:
   full: "Ritual: Hürnzhük"
-  aliases: [Hürnzhük, Hurnzhuk, The Lord of the Unclassified, The First Refusal]
+  aliases: [Hürnzhük, The Lord of the Unclassified, The First Refusal]
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

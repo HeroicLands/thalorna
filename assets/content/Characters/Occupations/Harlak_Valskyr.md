@@ -1,6 +1,6 @@
 ---
 shortcode: hrlkvlskyr
-name: {full: Hârlak Válskyr, aliases: [Braden Hask]}
+name: {full: Hârlak Válskyr, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]

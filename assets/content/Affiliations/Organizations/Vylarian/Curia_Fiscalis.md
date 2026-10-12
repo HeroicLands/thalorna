@@ -13,12 +13,8 @@ data:
   governance:
     model: council
     summary: >-
-      An imperial tax administration in four working bodies—a Council of sixteen seats under the Praetar Fiscalis, provincial Procurares, and a discipline arm of Censores—setting the rates and awarding the contracts the Publicarii collect under.
+      An imperial tax administration in four working bodies—a Council of sixteen seats under the Praetar Fiscalis, provincial Procurares, and a discipline arm of Censores—setting the rates and awarding the contracts the Publicarii collect under. Council seats turn over at the Augustar's pleasure within procedural limits, and the Praetar Fiscalis is dismissed at imperial discretion; a seat lost this way is not given back.
     ranks:
-      - level: 0
-        title: Recalled
-        description: >-
-          Council seats turn over at the Augustar's pleasure within procedural limits, and the Praetar Fiscalis is dismissed at imperial discretion. A seat lost this way is not given back.
       - level: 1
         title: Censor
         description: >-

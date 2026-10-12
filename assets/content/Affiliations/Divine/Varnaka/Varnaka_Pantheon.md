@@ -1,6 +1,6 @@
 ---
 shortcode: varakpnthn
-name: {full: Varnaka Pantheon, aliases: [Varnaka]}
+name: {full: Varnaka Pantheon, aliases: []}
 type: affiliation
 subType: faithtradition
 description: "Vedyaran tradition organized into sects, emphasizing the eternal cycle of creation, preservation, and destruction across multiple incarnations and spiritual devotions."

@@ -1,6 +1,6 @@
 ---
 shortcode: frmshft
-name: {full: Formshift, aliases: [Aspect]}
+name: {full: Formshift, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Target's shape shifts; body transforms into beast or humanoid form."

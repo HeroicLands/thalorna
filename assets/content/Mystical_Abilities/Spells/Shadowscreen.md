@@ -1,6 +1,6 @@
 ---
 shortcode: shdwscrn
-name: {full: Shadowscreen, aliases: [Curtain]}
+name: {full: Shadowscreen, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates shadow veil; conceals appearance within darkness."

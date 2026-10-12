@@ -1,6 +1,6 @@
 ---
 shortcode: vyalendra2
-name: {full: Vyālendra City-State, aliases: [Vyālendra]}
+name: {full: Vyālendra City-State, aliases: []}
 type: affiliation
 subType: polity
 description: "Textile city-state of southern Vedyara—“the City of Ten Thousand Looms,” whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms."
@@ -14,10 +14,6 @@ data:
     summary: >-
       The Loom-Council of the master weavers, which keeps no king. The chartered weaving guilds hold its seats by craft-line, raise a Speaker from among themselves for a term, and govern production, trade and the city's civic life together.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -105,6 +101,10 @@ Vyālendra keeps no deep-water hulls. The cloth goes down the river road to [[pl
 ## Commerce and Currency
 
 Vyālendra holds a seat in the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits here each autumn, and strikes its own copper [[miscgear-tamra|tāmra]] as every city-state does. A Collective grade-mark on a bolt of its silk carries across every seat of the Compact, and the larger sales settle by the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters of credit. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

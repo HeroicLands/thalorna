@@ -16,10 +16,6 @@ data:
     summary: >-
       Emperor and Warlords of the Zhëkzhös over a rigid eight-caste order, administered by a celestial bureaucracy that tracks the purity of officials and the movements of comets in the same ministries.
     ranks:
-      - level: 0
-        title: Nützōk
-        description: >-
-          Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
         title: Shüknürk
         description: >-
@@ -170,6 +166,10 @@ The Empire's external trade is enormous. It flows west along the [[lore-celestia
 - [[affiliation-heklotzhak|Black Lotus Society]]—forged tablets, bought omens and starved ancestors
 - [[affiliation-hekzhak|Hëk Zhāk]]—the Shadow Sect of escaped Vëndük
 - [[lore-thatzhos|Thātzhös]]—the pack-hunting mountain dragons loosed by the great earthquake
+
+## Outside the Ladder
+
+The Nützōk are slaves and outcasts, the caste that is not a caste, whose members may hold no name the law recognizes.
 
 ## See Also
 

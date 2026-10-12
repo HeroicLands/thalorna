@@ -15,10 +15,6 @@ data:
     summary: >-
       A Council of the Princes of seven houses—three still ruling their oases, four ruling in exile at Amradad—which coordinates a common diplomatic position and does not govern.
     ranks:
-      - level: 0
-        title: Blood-Debtor
-        description: >-
-          Under an unsettled feud and outside the confederation's protection until it is paid or avenged.
       - level: 1
         title: Bondservant
         description: >-
@@ -181,6 +177,10 @@ Whether that restraint would survive an actual reconquest is doubtful. The gener
 ## Commerce and Currency
 
 A Tellumi oasis trades the way an oasis people does. Within an oasis, and between neighbors of the same house, exchange runs on [[lore-bartercnmy|barter]] at customary rates for dates, grain, salt and wool, and on [[lore-kinhalcrdt|house credit]] between families that have dealt with each other for generations. The great cities add weighed silver and foreign coin, Vylarian Argo from the west and Khelâthi gezan pieces from the south, which circulate by their metal. The Tellumi strike none of their own. Caravans come down from the north by the southern spur and in from the west by the Descent, bringing metals, fine cloth, glass and spices, and leave with dates, palm-sugar, salt, books and horses. Moneylenders working on Vedyaran lines (see [[lore-vdyrnbnkng|Vedyaran Banking]]) have set up in the larger cities, to finance the caravans that cross the Grazian passes.
+
+## Outside the Ladder
+
+A person under an unsettled feud stands outside the confederation's protection until it is paid or avenged.
 
 ## See Also
 

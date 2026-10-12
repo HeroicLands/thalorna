@@ -1,6 +1,6 @@
 ---
 shortcode: sarvadarivr
-name: {full: The Sarvada, aliases: [Sarvada]}
+name: {full: The Sarvada, aliases: []}
 type: place
 subType: feature
 description: "The river of the scribal janapadas—off the Southern Wall through the bow-country and the copyist towns of the middle valley to the eastern sea."

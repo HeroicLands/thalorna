@@ -1,6 +1,6 @@
 ---
 shortcode: ekundavlg
-name: {full: Ékunda Village, aliases: [Ékunda]}
+name: {full: Ékunda Village, aliases: []}
 type: place
 subType: settlement
 description: "Village of the Ékunda tribe, one of the settled communities of the Southern Savannahs and the tribe's seat."

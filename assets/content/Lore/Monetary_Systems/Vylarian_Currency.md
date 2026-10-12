@@ -1,8 +1,6 @@
 ---
 shortcode: vylrncrncy
-name:
-  full: Vylarian Currency
-  aliases: [Vylarian Coinage, Aurion, Argentus, Argo, Octus, Bit, The Argo]
+name: {full: Vylarian Currency, aliases: [Vylarian Coinage, Aurion, Argentus, Argo, Octus, Bit]}
 type: lore
 subType: economy
 description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."

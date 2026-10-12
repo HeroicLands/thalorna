@@ -1,6 +1,6 @@
 ---
 shortcode: frgfr
-name: {full: Forgefire, aliases: [Anvil]}
+name: {full: Forgefire, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Kindles intense heat; burns with hammering force like forge blast."

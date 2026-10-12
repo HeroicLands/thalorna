@@ -1,6 +1,6 @@
 ---
 shortcode: smash
-name: {full: Smash, aliases: [Shatter]}
+name: {full: Smash, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Shatters brittle object; reduces stone and glass to dust."

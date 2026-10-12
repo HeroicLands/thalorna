@@ -17,10 +17,6 @@ data:
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
-      - level: 0
-        title: Recorded
-        description: >-
-          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
       - level: 1
         title: Lay
         description: >-
@@ -73,3 +69,7 @@ Hürnzhük is not prayed to in the conventional sense—the Lord of the Unclassi
 - [[affiliation-nuszokreit|Nüszōk Rëit]]—The cult whose foundational theological figure is the First Refusal
 - [[affiliation-yokveng|Yokveng]]—The Demon Realm
 - [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]—The Celestial Bureaucracy whose Great Sorting Hürnzhük refused
+
+## Outside the Ladder
+
+A person the Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

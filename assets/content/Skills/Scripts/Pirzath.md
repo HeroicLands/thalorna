@@ -1,6 +1,6 @@
 ---
 shortcode: drthrkscrpt
-name: {full: Pirzath Script, aliases: [Pirzath]}
+name: {full: Pirzath Script, aliases: []}
 type: skill
 subType: script
 description: "The letters of the Khazári—angular carved characters that follow the stone, a flowing hand for everyday use, and a people who write down nearly everything."

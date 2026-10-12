@@ -1,6 +1,6 @@
 ---
 shortcode: ironbind
-name: {full: Ironbind, aliases: [Steel]}
+name: {full: Ironbind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Transmutes base material into high-quality, workable steel instantly."

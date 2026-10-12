@@ -2,7 +2,7 @@
 shortcode: vyalendravada
 name:
   full: "Ritual: Vyālendravāda"
-  aliases: [Vyālendravāda, Vyalendravada, The Doctrine of Vyālendra, Vyālendran School]
+  aliases: [Vyālendravāda, The Doctrine of Vyālendra, Vyālendran School]
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

@@ -1,6 +1,6 @@
 ---
 shortcode: passion
-name: {full: Passion, aliases: [Fervour]}
+name: {full: Passion, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Enchantment inflaming emotion; targets act with heightened intensity."

@@ -1,6 +1,6 @@
 ---
 shortcode: cloak
-name: {full: Cloak, aliases: [Shroud]}
+name: {full: Cloak, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Renders wearer indistinct; observers overlook them despite presence."

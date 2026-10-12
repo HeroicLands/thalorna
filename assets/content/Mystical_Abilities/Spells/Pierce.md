@@ -1,6 +1,6 @@
 ---
 shortcode: pierce
-name: {full: Pierce, aliases: [Lance]}
+name: {full: Pierce, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Projectile of force; penetrates armor and causes bleeding wounds."

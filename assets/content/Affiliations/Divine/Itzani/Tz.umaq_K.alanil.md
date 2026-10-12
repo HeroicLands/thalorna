@@ -1,6 +1,6 @@
 ---
 shortcode: tzumaqkalanil
-name: {full: "Tz'umaq K'alanil", aliases: [The Serpent Awakeners, Serpent Awakeners]}
+name: {full: "Tz'umaq K'alanil", aliases: [The Serpent Awakeners]}
 type: affiliation
 subType: faithtradition
 description: "Hunted jungle sects who teach that the Fifth Age is beyond saving and that waking the storm-serpent would be a mercy—and who can, demonstrably, pull the dead back out of Ch'al Tz'umaq."

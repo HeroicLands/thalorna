@@ -1,6 +1,6 @@
 ---
 shortcode: whsprwll
-name: {full: Whisperwill, aliases: [Suggestion]}
+name: {full: Whisperwill, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Whispers suggestion directly; implants idea in target's mind."

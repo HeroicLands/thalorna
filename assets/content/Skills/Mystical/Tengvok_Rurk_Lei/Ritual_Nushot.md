@@ -1,6 +1,6 @@
 ---
 shortcode: nushot
-name: {full: "Ritual: Nüshöt", aliases: [Nüshöt, Nushot, The Burning Dissolution, The Unmaker]}
+name: {full: "Ritual: Nüshöt", aliases: [Nüshöt, The Burning Dissolution, The Unmaker]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

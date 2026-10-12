@@ -1,6 +1,6 @@
 ---
 shortcode: melaground
-name: {full: The Mela Ground, aliases: [The Mela ground]}
+name: {full: The Mela Ground, aliases: []}
 type: place
 subType: site
 description: "The plain at the Mahānadī's great confluence, empty for eleven years in twelve and holding a quarter of a million people in the twelfth."

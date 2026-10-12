@@ -1,6 +1,6 @@
 ---
 shortcode: gatepath
-name: {full: Gatepath, aliases: [Passage]}
+name: {full: Gatepath, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Opens doorway between distant locations; establishes passage through barriers."

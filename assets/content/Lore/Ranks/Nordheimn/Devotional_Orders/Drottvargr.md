@@ -1,6 +1,6 @@
 ---
 shortcode: drottvargrrnk
-name: {full: "Dróttvargr", aliases: ["Cast Out of the Order"]}
+name: {full: "Dróttvargr", aliases: []}
 type: lore
 subType: law
 description: "Put out of a devotional order of the faiths of the Ten, forfeiting its shelter and its purpose alike."

@@ -1,6 +1,6 @@
 ---
 shortcode: dnshkscrpt
-name: {full: Dûnshâk Script, aliases: [Dûnshâk]}
+name: {full: Dûnshâk Script, aliases: []}
 type: skill
 subType: script
 description: "The right-to-left abjad of the deep desert—pointed for poetry and scripture, bare for everything else."

@@ -1,6 +1,6 @@
 ---
 shortcode: parch
-name: {full: Parch, aliases: [Desiccation]}
+name: {full: Parch, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Desiccates target, causing severe thirst and weakening."

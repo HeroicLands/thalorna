@@ -1,6 +1,6 @@
 ---
 shortcode: stnbnd
-name: {full: Stonebind, aliases: [Petrification]}
+name: {full: Stonebind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds target to stone; imprisons within rocky tomb."

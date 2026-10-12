@@ -1,6 +1,6 @@
 ---
 shortcode: illusion
-name: {full: Illusion, aliases: [Glamour]}
+name: {full: Illusion, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Luminous aura enhancing appearance; subjects glow with inner radiance."

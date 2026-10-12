@@ -1,6 +1,6 @@
 ---
 shortcode: contain
-name: {full: Contain, aliases: [Vessel]}
+name: {full: Contain, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Binds creature or force inside barrier; prevents escape or exit."

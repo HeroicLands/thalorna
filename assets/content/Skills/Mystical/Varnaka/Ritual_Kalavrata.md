@@ -1,6 +1,6 @@
 ---
 shortcode: kalavrata
-name: {full: "Ritual: Kālavrata", aliases: [Kālavrata, Kalavrata, The Gatekeeper of Death]}
+name: {full: "Ritual: Kālavrata", aliases: [Kālavrata, The Gatekeeper of Death]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

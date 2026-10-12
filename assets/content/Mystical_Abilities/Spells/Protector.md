@@ -1,6 +1,6 @@
 ---
 shortcode: prtctr
-name: {full: Protector, aliases: [Ward]}
+name: {full: Protector, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Invisible guardian spirit defending caster from harm and damage."

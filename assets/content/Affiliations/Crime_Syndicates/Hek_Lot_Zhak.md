@@ -1,8 +1,6 @@
 ---
 shortcode: heklotzhak
-name:
-  full: Hëk Lōt Zhāk
-  aliases: [The Black Lotus Society, Black Lotus Society, The Black Lotus]
+name: {full: Hëk Lōt Zhāk, aliases: [The Black Lotus Society, The Black Lotus]}
 type: affiliation
 subType: criminal
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
@@ -44,7 +42,7 @@ data:
         title: Crew Boss
         description: Holding a crew and a territory, answerable for both and for what they bring in.
       - level: 7
-        title: Underboss
+        title: Second
         description: >-
           Second in the organization, running it day to day and standing between the boss and everyone else.
       - level: 8
@@ -53,7 +51,7 @@ data:
           Head of the organization, whose word is its only law and whose position lasts exactly as long as it is feared.
     offices:
       Boss: Head of the organization, whose word is its law for as long as it is feared.
-      Underboss: >-
+      Second: >-
         Second, running the organization day to day and standing between the boss and everyone else.
       Counsellor: Adviser to the boss, holding no crew and no territory and more influence than either.
       Crew Boss: Holder of a crew and a territory, answerable for what both produce.

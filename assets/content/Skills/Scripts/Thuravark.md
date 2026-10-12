@@ -1,6 +1,6 @@
 ---
 shortcode: thuravarkscript
-name: {full: Thurávark Runic Script, aliases: [Thurávark]}
+name: {full: Thurávark Runic Script, aliases: []}
 type: skill
 subType: script
 description: "The cut runes of the Nordmen north—knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."

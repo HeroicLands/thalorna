@@ -1,6 +1,6 @@
 ---
 shortcode: mistveil
-name: {full: Mistveil, aliases: [Vapour]}
+name: {full: Mistveil, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Fog obscuring large area; hides enemies and muffles sound."

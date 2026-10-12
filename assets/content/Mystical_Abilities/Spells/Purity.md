@@ -1,6 +1,6 @@
 ---
 shortcode: purity
-name: {full: Purity, aliases: [Probity]}
+name: {full: Purity, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Purifies water and food; removes toxins and contamination."

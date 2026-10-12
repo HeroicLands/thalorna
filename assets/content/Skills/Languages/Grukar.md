@@ -1,6 +1,6 @@
 ---
 shortcode: grukarlng
-name: {full: Grukar Language, aliases: [Grukar]}
+name: {full: Grukar Language, aliases: []}
 type: skill
 subType: language
 description: "The guttural, sparse speech of the Grukar tribes—stingy with abstractions but lavish with words for weather, prey, and warfare."

@@ -432,7 +432,7 @@ The GM may, of course, have personal moral views, and so may the players. Nothin
 
 - [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[doc-divineactn|Divine Action]]—How the gods engage with the world through agents and proxies, the Balance, divine intelligence and non-omniscience, the Heroic Age
-- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of gods within the soul-cosmology, elementals, and dragons
-- Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only)_ The ontology of souls, the Spirit world, the place of gods within the soul-cosmology, elementals, and dragons
+- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Ordo magical tradition channels the potential, including priestly traditions
 - [[affiliation-hexhodai|Héx Hodäi]]—The Ordo's framework, in-world doctrine
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The institution

@@ -1,6 +1,6 @@
 ---
 shortcode: prcptn
-name: {full: Perception, aliases: [View]}
+name: {full: Perception, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Enhances caster's senses dramatically; sees clearly despite obstacles."

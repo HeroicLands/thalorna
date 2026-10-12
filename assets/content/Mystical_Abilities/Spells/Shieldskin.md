@@ -1,6 +1,6 @@
 ---
 shortcode: shldskn
-name: {full: Shieldskin, aliases: [Skin]}
+name: {full: Shieldskin, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Hardens skin into barrier; grants deflection of blows."

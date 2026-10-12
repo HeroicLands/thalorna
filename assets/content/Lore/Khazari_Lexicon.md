@@ -1656,7 +1656,6 @@ a name older than the rules is listed among the words older than the rules in [[
 | Khazári Language                 | [[skill-khazarlng\|Khazári Language]]               | `gloss`   | a glossed name on the word `Khazári` |
 | Khazári                          | [[skill-khazarlng\|Khazári Language]]               | `older`   | a word older than the rules          |
 | Khazari                          | [[skill-khazarlng\|Khazári Language]]               | `gloss`   | an unmarked spelling of `Khazári`    |
-| Dwarven                          | [[skill-khazarlng\|Khazári Language]]               | `gloss`   | —                                    |
 | Elder Tongue                     | [[skill-khazarlng\|Khazári Language]]               | `gloss`   | —                                    |
 | Khazári Lexicon                  | [[doc-khazarilex\|Khazári Lexicon]]                 | `gloss`   | —                                    |
 | Khazári Word List                | [[doc-khazarilex\|Khazári Lexicon]]                 | `gloss`   | —                                    |

@@ -1,6 +1,6 @@
 ---
 shortcode: daktrvrtht
-name: {full: "Ritual: Dāktūr Vōrthāt", aliases: [Dāktūr Vōrthāt, Daktur Vorthat]}
+name: {full: "Ritual: Dāktūr Vōrthāt", aliases: [Dāktūr Vōrthāt]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

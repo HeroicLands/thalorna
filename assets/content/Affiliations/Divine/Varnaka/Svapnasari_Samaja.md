@@ -1,12 +1,6 @@
 ---
 shortcode: svapnasarisamaja
-name:
-  full: Svapnasāri-samāja
-  aliases:
-    - The Assembly of the Dream-Followers
-    - The Dream Assembly
-    - Assembly of the Dream-Followers
-    - Dream Assembly
+name: {full: Svapnasāri-samāja, aliases: [The Assembly of the Dream-Followers, The Dream Assembly]}
 type: affiliation
 subType: faithtradition
 description: "The Assembly of the Dream-Followers"

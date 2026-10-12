@@ -1,6 +1,6 @@
 ---
 shortcode: channel
-name: {full: Channel, aliases: [Spoon]}
+name: {full: Channel, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Caster becomes conduit; channels another's magic through own body."

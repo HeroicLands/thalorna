@@ -1,6 +1,6 @@
 ---
 shortcode: nottgengir
-name: {full: "Nóttgengir", aliases: ["The Nightstalkers"]}
+name: {full: "Nóttgengir", aliases: []}
 type: affiliation
 subType: order
 description: "Náhild's elite assassins."

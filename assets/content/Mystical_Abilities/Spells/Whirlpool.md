@@ -1,6 +1,6 @@
 ---
 shortcode: whrlpl
-name: {full: Whirlpool, aliases: [Vortex]}
+name: {full: Whirlpool, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates spinning vortex; swirls water into dangerous current."

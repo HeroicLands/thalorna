@@ -1,6 +1,6 @@
 ---
 shortcode: sofntrvlth
-name: {full: Sofíenna Torvaleth, aliases: [Reslâva Vespera Sunstone]}
+name: {full: Sofíenna Torvaleth, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

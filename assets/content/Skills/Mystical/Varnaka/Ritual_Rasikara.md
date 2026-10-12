@@ -1,6 +1,6 @@
 ---
 shortcode: rasikara
-name: {full: "Ritual: Rāsikara", aliases: [Rāsikara, Rasikara, The Flame of Renewal]}
+name: {full: "Ritual: Rāsikara", aliases: [Rāsikara, The Flame of Renewal]}
 type: skill
 subType: mystical
 tags: [varnaka, faith-skill]

@@ -1,6 +1,6 @@
 ---
 shortcode: mahanadi
-name: {full: The Mahānadī, aliases: [Mahānadī]}
+name: {full: The Mahānadī, aliases: []}
 type: place
 subType: feature
 description: "The great central river—the longest, the most populous, the one whose channel has moved and taken a royal seat with it, and the one the Mela is held on."

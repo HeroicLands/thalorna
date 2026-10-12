@@ -1,6 +1,6 @@
 ---
 shortcode: nordmalng
-name: {full: Nordmal Language, aliases: [Nordmal]}
+name: {full: Nordmal Language, aliases: []}
 type: skill
 subType: language
 description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."

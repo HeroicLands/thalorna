@@ -1,6 +1,6 @@
 ---
 shortcode: ekunda
-name: {full: Ékunda, aliases: [The Ékunda, Ékunda Tribe]}
+name: {full: Ékunda, aliases: [Ékunda Tribe]}
 type: affiliation
 subType: polity
 description: "A small tribe of the Nyáluba Tribal Nation, keepers of the spring at Ékunda Village, where savannah herders, rainforest traders and the rare Ankarian traveler meet to trade."

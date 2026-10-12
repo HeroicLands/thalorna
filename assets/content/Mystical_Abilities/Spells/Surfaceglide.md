@@ -1,6 +1,6 @@
 ---
 shortcode: srfcgld
-name: {full: Surfaceglide, aliases: [Waterwalk]}
+name: {full: Surfaceglide, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Grants frictionless movement; enables sliding across any surface."

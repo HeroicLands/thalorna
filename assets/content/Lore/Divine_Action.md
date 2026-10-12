@@ -49,7 +49,7 @@ Agents come in three broad layers, ranging from beings of nearly-divine power to
 
 ### Spirit-Agents
 
-The first and most powerful layer of agents are _spirit-agents_—beings native to the Spirit world (developed in [[doc-soulspirts|Souls and Spirits]], forthcoming) who have been bound to or aligned with specific gods. They are not gods themselves; they are beings of intermediate scale, more powerful than mortals but less than the gods they serve.
+The first and most powerful layer of agents are _spirit-agents_—beings native to the Spirit world (developed in [[doc-soulspirts|Souls and Spirits]]) who have been bound to or aligned with specific gods. They are not gods themselves; they are beings of intermediate scale, more powerful than mortals but less than the gods they serve.
 
 Different traditions know them by different names. The Aurèldíans speak of _angels_ (servants of the Beings of Light, in their tradition's adaptation of older Helionite concepts) and _devils_ (servants of beings the Aurèldíans consider hostile, often equated with the Sinalë's Beings of Dark). The Itzani know _mensajeros_ (messengers) and _acechadores_ (the lurking ones). Other cultures have their own taxonomies, their own names, their own assumed hierarchies of these beings. The cosmology does not validate any particular framework: what one tradition calls an angel another might call a demon, and a third might call a sacred beast or a guardian-spirit. The labels are cultural; the underlying beings are real.
 
@@ -167,7 +167,7 @@ A **Quiet Age** is the cosmology's resting state. Agent-level activity drops to 
 
 Quiet Ages last longer than Heroic Ages, in general. They are the equilibrium; Heroic Ages are perturbations of it. A given Quiet Age may last centuries or millennia; a Heroic Age may last decades to a few centuries.
 
-**The current age of Thalorna is a Quiet Age**, deep enough that most mortals have no direct experience of agent-level divine action and the very concept feels mythological. The most recent Heroic Age in Thalorna's recorded history is—the GM should decide. It may be the founding period of one of the major civilizations, or the period of the Vylarian-Helionite wars (which involved dragons; see [[doc-soulspirts|Souls and Spirits]] forthcoming), or some earlier age of which only fragmentary records remain. The GM's decision about which periods of past history were Heroic and which were Quiet shapes the texture of the world's deep past considerably.
+**The current age of Thalorna is a Quiet Age**, deep enough that most mortals have no direct experience of agent-level divine action and the very concept feels mythological. The most recent Heroic Age in Thalorna's recorded history is—the GM should decide. It may be the founding period of one of the major civilizations, or the period of the Vylarian-Helionite wars (which involved dragons; see [[doc-soulspirts|Souls and Spirits]]), or some earlier age of which only fragmentary records remain. The GM's decision about which periods of past history were Heroic and which were Quiet shapes the texture of the world's deep past considerably.
 
 **Campaigns can be set in either type of age**, and the texture of play differs accordingly.
 
@@ -201,5 +201,5 @@ The cosmology established in this document has several practical implications.
 
 - [[doc-magictruth|Magic Truth]]—The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[doc-godsrelign|Gods and Religion]]—What religions are, how they function, and the four mechanisms of "divine" effect
-- [[doc-soulspirts|Souls and Spirits]]—_(GM-only, forthcoming)_ The ontology of souls, the Spirit world, the place of spirit-agents and demi-divine entities within the soul-cosmology, elementals, and dragons
-- Foreign_Traditions_Comparative—_(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, including priestly traditions
+- [[doc-soulspirts|Souls and Spirits]]—_(GM-only)_ The ontology of souls, the Spirit world, the place of spirit-agents and demi-divine entities within the soul-cosmology, elementals, and dragons
+- [[lore-frgntradcomp|Foreign Traditions Comparative]]—_(GM-only)_ How each non-Ordo tradition channels the potential, including priestly traditions

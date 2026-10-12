@@ -1,6 +1,6 @@
 ---
 shortcode: chandrmahi
-name: {full: The Chandramahī, aliases: [Chandramahī]}
+name: {full: The Chandramahī, aliases: []}
 type: place
 subType: feature
 description: "The westernmost of the four great rivers—from the ice under Sūryashikhara through the gem-road valleys to the delta and the city-state that lives off it."

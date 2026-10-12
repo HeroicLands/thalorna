@@ -1,6 +1,6 @@
 ---
 shortcode: provenzrgn
-name: {full: Provènzia Region, aliases: [Provenzia]}
+name: {full: Provènzia Region, aliases: []}
 type: place
 subType: region
 description: "Southwestern coastal region of Aurèldía—wealthy merchant-prince realm dominated by sophisticated city-states and engaged in far-flung trade networks."

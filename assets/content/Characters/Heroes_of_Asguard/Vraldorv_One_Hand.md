@@ -1,6 +1,6 @@
 ---
 shortcode: vrldrvonhnd
-name: {full: Vraldorv One-Hand, given: Vraldorv, aliases: [One-Hand, Vraldorv One-Hand]}
+name: {full: Vraldorv One-Hand, given: Vraldorv, aliases: [One-Hand]}
 type: being
 subType: character
 tags: [paragon, heroes-of-asguard, soldiery]

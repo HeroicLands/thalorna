@@ -1,6 +1,6 @@
 ---
 shortcode: grlndrskrzns
-name: {full: Garlîndris Korâzênis, aliases: [Sir Cedric Loudvale]}
+name: {full: Garlîndris Korâzênis, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

@@ -1,6 +1,6 @@
 ---
 shortcode: linkbind
-name: {full: Linkbind, aliases: [Chain]}
+name: {full: Linkbind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Two willing targets linked; damage inflicted on one transfers."

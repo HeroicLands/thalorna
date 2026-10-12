@@ -1,6 +1,6 @@
 ---
 shortcode: enchant
-name: {full: Enchant, aliases: [Charm]}
+name: {full: Enchant, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Imbues object with magic; grants it power or special property."

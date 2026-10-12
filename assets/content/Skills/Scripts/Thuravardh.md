@@ -1,6 +1,6 @@
 ---
 shortcode: thrvrdhscrpt
-name: {full: Thúravardh Script, aliases: [Thúravardh]}
+name: {full: Thúravardh Script, aliases: []}
 type: skill
 subType: script
 description: "The old Áelendan runes—the softened western branch of the graven work, kept alive in magical texts, poetry, and things too old to rewrite."

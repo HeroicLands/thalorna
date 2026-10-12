@@ -1,6 +1,6 @@
 ---
 shortcode: tanwenspr
-name: {full: "Tanwen, the Hearth of Eshálosha", aliases: [The Hearth, Tanwen]}
+name: {full: "Tanwen, the Hearth of Eshálosha", aliases: [The Hearth]}
 type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Eshálosha—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."

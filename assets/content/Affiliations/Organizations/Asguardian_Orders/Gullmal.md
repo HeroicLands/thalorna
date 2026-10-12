@@ -1,6 +1,6 @@
 ---
 shortcode: gullmal
-name: {full: "Gullmál", aliases: ["Gilded Voices"]}
+name: {full: "Gullmál", aliases: []}
 type: affiliation
 subType: order
 description: "Diplomacy and persuasion for Sólrún's faith."

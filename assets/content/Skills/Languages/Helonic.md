@@ -1,6 +1,6 @@
 ---
 shortcode: helonclng
-name: {full: Helonic Language, aliases: [Helonic]}
+name: {full: Helonic Language, aliases: []}
 type: skill
 subType: language
 description: "The old prestige tongue of philosophy, theater, and scholarship—still the learned man's second language from the academies to the stage."

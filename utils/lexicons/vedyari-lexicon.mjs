@@ -222,6 +222,17 @@ export function keyOf(name) {
         .trim();
 }
 
+/** The words of a full name, as register keys: a note answers to each without an alias. */
+function wordsOf(full) {
+    if (typeof full !== "string") return new Set();
+    return new Set(
+        full
+            .split(/\s+/)
+            .map((word) => keyOf(word))
+            .filter(Boolean),
+    );
+}
+
 /** The wikilink addresses of a cell. */
 function addressesOf(cell) {
     return [...(cell ?? "").matchAll(/\[\[([^|\\\]]+)/g)].map((match) => match[1].trim());
@@ -826,6 +837,7 @@ export function attestedNames(root = CONTENT) {
             file,
             text,
             names: new Set(mine.map((one) => keyOf(one.name))),
+            words: wordsOf(own.full),
             type: front.type,
             given:
                 front.type === "being" && typeof own.given === "string" ? own.given.trim() : null,
@@ -1010,7 +1022,7 @@ export function analyse(note, lex, tree) {
                     "error",
                     `**${row.name}** names [[${address}]], which no note has`,
                 );
-            else if (!target.names.has(key))
+            else if (!target.names.has(key) && !target.words?.has(key))
                 lexFinding(row.at, "error", `**${row.name}** is not a name of [[${address}]]`);
         }
     }

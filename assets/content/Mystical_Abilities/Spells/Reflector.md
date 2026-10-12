@@ -1,6 +1,6 @@
 ---
 shortcode: rflctr
-name: {full: Reflector, aliases: [Mirror]}
+name: {full: Reflector, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Shield deflects magical effects back toward their originating caster."

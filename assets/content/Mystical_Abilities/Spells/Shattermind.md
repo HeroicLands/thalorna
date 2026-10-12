@@ -1,6 +1,6 @@
 ---
 shortcode: shttrmnd
-name: {full: Shattermind, aliases: [Rupture]}
+name: {full: Shattermind, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Shatters resolve; breaks will and courage of target."

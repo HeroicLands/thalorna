@@ -1,8 +1,6 @@
 ---
 shortcode: yokzhuk
-name:
-  full: "Ritual: Yökzhük"
-  aliases: [Yökzhük, Yokzhuk, The Custodian of Lost Seals, The Seal-Thief]
+name: {full: "Ritual: Yökzhük", aliases: [Yökzhük, The Custodian of Lost Seals, The Seal-Thief]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]

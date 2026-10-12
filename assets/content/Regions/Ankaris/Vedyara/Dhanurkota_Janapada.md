@@ -1,6 +1,6 @@
 ---
 shortcode: dhnrktjnpd
-name: {full: Dhanurkota Janapada, aliases: [Dhanurkota, The Janapada of the Bow-Fort]}
+name: {full: Dhanurkota Janapada, aliases: [The Janapada of the Bow-Fort]}
 type: affiliation
 subType: polity
 description: The temple-republic of Dhanurkota—the villages of the upper Sarvada valley federated around the ancient bow-fort and its great temple of Mahājaya, governed by a sabhā with an unusually strong Senāja presence and famed across Vedyara for its archery academies.
@@ -15,10 +15,6 @@ data:
     summary: >-
       Sabhā of forty-two members convened by the senior priest of the Mahājaya temple, with proportional representation from the constituent villages and reserved seats for the masters of the four great archery academies. The sabhā meets monthly during the campaign season and bi-monthly during the rest of the year; major decisions require a two-thirds concurrence.
     ranks:
-      - level: 0
-        title: Outcaste
-        description: >-
-          Placed outside the tharana by transgression or by birth, excluded from the wells, the temples and the courts.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -136,6 +132,10 @@ Within the [[affiliation-janpdsvdyr|Mahā-Sangha]], Dhanurkota's standing is hig
 ## Commerce and Currency
 
 Dhanurkota holds one of the five seats in the [[affiliation-assmblycmpct|Assembly of the Compact]], and the bow trade and the academies' retainers run through the [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s letters as readily as through coin. Like every janapada it strikes no coin of its own. See [[lore-vdyrnbnkng|Vedyaran Banking]] for the system and [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]] for the institution.
+
+## Outside the Ladder
+
+A person placed outside the tharana, by transgression or by birth, is excluded from the wells, the temples and the courts.
 
 ## See Also
 

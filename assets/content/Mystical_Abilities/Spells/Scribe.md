@@ -1,6 +1,6 @@
 ---
 shortcode: scribe
-name: {full: Scribe, aliases: [Quill]}
+name: {full: Scribe, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Writes text magically; creates inscriptions without visible implement."

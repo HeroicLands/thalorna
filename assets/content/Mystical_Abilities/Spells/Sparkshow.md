@@ -1,6 +1,6 @@
 ---
 shortcode: sprkshw
-name: {full: Sparkshow, aliases: [Fireworks]}
+name: {full: Sparkshow, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Creates brilliant light display; dazzles vision with color."

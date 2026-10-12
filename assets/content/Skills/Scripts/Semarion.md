@@ -1,6 +1,6 @@
 ---
 shortcode: semrnscrpt
-name: {full: Sêmarion Script, aliases: [Sêmarion]}
+name: {full: Sêmarion Script, aliases: []}
 type: skill
 subType: script
 description: "The imperial letters—the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."

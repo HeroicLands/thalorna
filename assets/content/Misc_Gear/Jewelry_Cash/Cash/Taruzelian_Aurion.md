@@ -1,6 +1,6 @@
 ---
 shortcode: taurion
-name: {full: Tarûzelian Aurion, aliases: ["Tarûzelian Aurion"]}
+name: {full: Tarûzelian Aurion, aliases: []}
 type: miscgear
 description: "Confederation gold coin of the Merâzûnî; slightly underweight against the imperial standard."
 tags: [jewelry_cash]

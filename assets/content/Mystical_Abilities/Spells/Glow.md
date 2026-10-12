@@ -1,6 +1,6 @@
 ---
 shortcode: glow
-name: {full: Glow, aliases: [Lustre]}
+name: {full: Glow, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Radiates steady light from caster; illuminates surroundings without heat."

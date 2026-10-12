@@ -1,6 +1,6 @@
 ---
 shortcode: cardeth
-name: {full: Cárdeth, aliases: [Cardeth]}
+name: {full: Cárdeth, aliases: []}
 type: place
 subType: settlement
 description: "A noble seat of Glanmor near Liranel, held by the young Lady Eadrun of Cárdeth, a noblewoman of Áelendan ancestry."

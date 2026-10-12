@@ -1,6 +1,6 @@
 ---
 shortcode: silence
-name: {full: Silence, aliases: [Muffle]}
+name: {full: Silence, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Suppresses sound; muffles speech and blocks all noise."

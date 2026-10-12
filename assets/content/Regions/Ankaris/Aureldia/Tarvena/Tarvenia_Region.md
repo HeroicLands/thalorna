@@ -1,6 +1,6 @@
 ---
 shortcode: tarvenirgn
-name: {full: Tarvénia Region, aliases: [Tarvénia]}
+name: {full: Tarvénia Region, aliases: []}
 type: place
 subType: region
 description: "Region of the Aurèldían heartland—patchwork of independent fiefdoms, city-states, and free territories bound by shared Tarvéni language and warrior culture."

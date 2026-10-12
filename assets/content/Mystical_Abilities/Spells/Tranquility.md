@@ -1,6 +1,6 @@
 ---
 shortcode: trnqlty
-name: {full: Tranquility, aliases: [Calm]}
+name: {full: Tranquility, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Calms emotions and mind; grants peace and serenity."

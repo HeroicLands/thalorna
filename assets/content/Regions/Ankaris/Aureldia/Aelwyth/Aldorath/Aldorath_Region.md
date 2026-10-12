@@ -1,6 +1,6 @@
 ---
 shortcode: aldorathrgn
-name: {full: Aldorath Region, aliases: [Aldorath]}
+name: {full: Aldorath Region, aliases: []}
 type: place
 subType: region
 description: >-

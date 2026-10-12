@@ -1,6 +1,6 @@
 ---
 shortcode: audible
-name: {full: Audible, aliases: [Voice]}
+name: {full: Audible, aliases: []}
 type: mysticalability
 subType: arcaneincantation
 description: "Carries whispered words on spiraling wind; heard at great distance."

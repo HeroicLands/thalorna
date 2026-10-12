@@ -1,6 +1,6 @@
 ---
 shortcode: velarithrl
-name: {full: Vélaria Óthral, aliases: [Reslâva Elowen Meadowbloom]}
+name: {full: Vélaria Óthral, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]
