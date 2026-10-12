@@ -992,12 +992,16 @@ export function inScope(note, page, fixed) {
     const lore = [].concat(data.lore ?? []);
     const tags = [].concat(note.front.tags ?? []);
     const parents = [].concat(data.parents ?? []);
+    // A GM-only note is in scope only by its own address: a register links every
+    // name it holds, and a player-facing page may not link a GM-only note.
+    const gmOnly = tags.includes("gm");
     for (const { kind, values } of page.scope) {
+        if (kind === "address" && values.includes(note.address)) return true;
+        if (gmOnly) continue;
         if (kind === "folder" && values.includes(data.packFolder)) return true;
         if (kind === "culture" && values.includes(data.culture)) return true;
         if (kind === "lore" && lore.some((l) => values.includes(l))) return true;
         if (kind === "parent" && parents.some((p) => values.includes(p))) return true;
-        if (kind === "address" && values.includes(note.address)) return true;
         if (kind === "tag" && tags.some((t) => values.includes(t))) return true;
         if (kind === "path" && values.some((p) => note.rel.startsWith(p))) return true;
     }

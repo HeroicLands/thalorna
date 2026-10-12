@@ -13,6 +13,7 @@ import {
     changesFrom,
     derive,
     format,
+    inScope,
     parseChange,
     readPage,
     respell,
@@ -493,4 +494,22 @@ test("a retired form written in a note is an error where it stands, and the tabl
     assert.deepEqual(found, [
         "e/Old.md:4:16: error: `Kathra` is a retired form; the setting writes `Kātān`",
     ]);
+});
+
+test("a GM-only note is in a page's scope only by its own address", () => {
+    const page = {
+        scope: [
+            { kind: "culture", values: ["tanvuriclt"] },
+            { kind: "address", values: ["thalorna-note-doc-named"] },
+        ],
+    };
+    const note = (address, tags) => ({
+        address,
+        rel: "x.md",
+        front: { type: "doc", tags, data: { culture: "tanvuriclt" } },
+    });
+    const none = new Set();
+    assert.equal(inScope(note("thalorna-note-doc-open", []), page, none), true);
+    assert.equal(inScope(note("thalorna-note-doc-secret", ["gm"]), page, none), false);
+    assert.equal(inScope(note("thalorna-note-doc-named", ["gm"]), page, none), true);
 });
