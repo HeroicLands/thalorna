@@ -26,7 +26,7 @@ The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith of fire and light
 
 ## Places and Dangers
 
-- [[place-stoneofranaz|The Stone of Ranâz]] is the hill-shrine where three tribal territories meet. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers there each quarter to renew the indigo vâst-bahâr in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
+- [[place-stoneofranaz|The Stone of Ranâz]] is the hill-shrine where three tribal territories meet. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers there at each of the four season-turns to renew the indigo vâst-bahâr in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
 - [[place-ghavulekh|Ghavûlekh]], the oasis seat of the tribes, is where a caravan hires its guide.
 - The open sand kills fast. Summer heat is lethal within hours, winter nights freeze, and a windstorm can bury a camp in minutes.
 - [[place-khuqetmiglet|Khuqet-Miglet]], in the southwest, is a desert-march the empire of [[place-aukhelathrgq|Aû'Khelâthu]] garrisons and the western clans contest, with toll and well-disputes on both sides.

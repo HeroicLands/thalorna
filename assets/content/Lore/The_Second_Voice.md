@@ -74,7 +74,7 @@ his remedy, and that is not a thing one can say to the bereaved.
 The Khazári have never forgiven the Sinalë for Khazártúrn, and their case is not the simple one.
 
 **The Sinalë knew the Second Voice existed and said nothing.** Not from malice—from indifference. A
-weapon that commands Grukar is a weapon against cities, and the Sinalë do not build cities, so it did
+weapon that commands Grukar is a weapon against cities, and the Sinalë keep no cities, so it did
 not concern them. That unconcern was itself a failure to take another people's way of living seriously
 enough to imagine what it had at stake, and it is the same blindness that later let one of their own
 decide a Khazári city did not much signify.

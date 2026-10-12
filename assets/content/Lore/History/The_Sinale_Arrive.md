@@ -31,7 +31,7 @@ data:
               the enclaves inside the empire's borders hold formal standing at the imperial court and answer to the caste law that classified them
             knowledge: named
           - place: place-aelwyth
-            how: enclaves stand in the mountains, and one of them held a crown for six centuries
+            how: the Sinalë of the Hallowwood stand beside the Khazári of the mountains, and together they held a crown for six centuries
             knowledge: named
           - place: place-vrystwald
             how: paths into the deep woods have a way of leading somewhere else

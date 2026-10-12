@@ -32,7 +32,7 @@ The relationship between the Áelendan and the settled [[place-elavendre|Élaven
 
 ## Relationship with the Sinalë
 
-The Áelendan maintain a uniquely close neighborly relationship with the [[lore-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense—the Sinalë do not concern themselves with human political structures—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.
+The Áelendan maintain a uniquely close neighborly relationship with the [[lore-flksinale|Sinalë]] enclaves of the deep forests. This is not an alliance in any formal sense—the Sinalë have kings, queens and lords of their own, who do not work as human ones do—but a relationship of shared land and mutual tolerance built over many generations. The Áelendan fae traditions are not superstition; they reflect genuine contact with the Sinalë and with the other fae beings that inhabit the ancient forests. Áelendan druids practice forms of magic that bear a distant, diluted resemblance to Sinalëan arts. Why the Sinalë have opened themselves to the Áelendan in a way they do not to other peoples is a question the Sinalë have never explained, and that the Áelendan do not discuss.
 
 ## Institutions
 

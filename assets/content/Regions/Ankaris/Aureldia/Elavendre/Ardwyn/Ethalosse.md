@@ -21,9 +21,9 @@ That is exactly what it is. Ethalossë is where the Sinalë conduct business wit
 
 ## The Intermediaries
 
-The Sinalë do not treat with human powers. They have not for millennia, they decline to explain why,
+The Sinalë do not treat with human powers directly. They have not for millennia, they decline to explain why,
 and the handful of exceptions are all one exception: they will deal with the
-[[lore-aelendnppl|Áelendan]], and the Áelendan will carry.
+[[lore-aelendnppl|Áelendan]], and the Áelendan will carry. Élavendre's royal family and aristocracy hold the formal relation with the enclaves; the day-to-day contact runs through the Áelendan.
 
 So when something must pass between a Sinalë enclave and a human authority—a warning, a refusal, a
 question about a disturbed site, the return of something taken—it goes through Ethalossë, and out
@@ -35,9 +35,7 @@ The arrangement has two properties that matter enormously and are rarely stated:
 - **The Áelendan carry; they do not represent.** No Áelendan has ever claimed to speak _for_ the Sinalë,
   and none would. What is carried is carried exactly, and an elder who was asked to embellish would
   decline and say so.
-- **It makes the Áelendan indispensable to everyone.** The Élavendren crown's celebrated centuries-long
-  relationship with the Sinalë is, in practice and in the overwhelming majority of instances, a
-  relationship with Áelendan intermediaries. The crown does not advertise this, for the obvious reason:
+- **It makes the Áelendan indispensable to everyone.** The Élavendren crown's celebrated centuries-long formal relationship with the Sinalë is, in practice and in the overwhelming majority of instances, carried on through Áelendan intermediaries. The crown does not advertise this, for the obvious reason:
   it means the relationship is not the monarchy's to possess but the tribes' to grant, and it could be
   withdrawn without a word being said to anyone at Béravel.
 
@@ -47,8 +45,7 @@ willing to let the Áelendan be pushed too far.
 
 ## The Threshold
 
-Ethalossë itself is spare by Sinalëan standards: a court of worked stone that predates the forest around
-it, a few dwellings, and the long open way down which visitors are watched arriving for a considerable
+Ethalossë itself is spare by Sinalëan standards: a court of worked stone that predates the forest around it, one of the rare stone works of a people who prefer to grow what they build, a few dwellings, and the long open way down which visitors are watched arriving for a considerable
 time before they arrive. It is the one Sinalë settlement in Élavendre a human has a realistic chance of
 being invited to, which is not the same as a realistic chance.
 
