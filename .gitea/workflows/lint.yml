@@ -55,7 +55,7 @@ permissions:
 jobs:
     lint:
         name: Content, prose, and registry checks
-        runs-on: ubuntu-latest
+        runs-on: lint
 
         steps:
             - name: Checkout code
