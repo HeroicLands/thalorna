@@ -18,6 +18,6 @@ jobs:
         name: Changeset review
         runs-on: ubuntu-latest
         steps:
-            - uses: HeroicLands/.github/actions/changesets@main
+            - uses: HeroicLands/.github/actions/changesets@6ed646d38b0cf4f5eed4a31dcc44bfca2bfd0158 # main
               with:
                   token: ${{ github.token }}
