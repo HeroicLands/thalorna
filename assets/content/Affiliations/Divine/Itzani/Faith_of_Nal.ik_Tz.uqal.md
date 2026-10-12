@@ -39,24 +39,24 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
-      K'ul Tz'uqal: >-
-        Keeper of dreams—head of the branch, and the priest who carries a vision to the K'inmah when one bears on the city.
+      Ch'alix Tz'uqal: >-
+        Keeper of dreams—head of the branch, and the priest who carries a vision to the Tz'enmah when one bears on the city.
       Keeper of the Codex Tz'uqal: >-
         Holds the archive of recorded dreams, ordered by symbol, outcome and reliability, and rules what may be entered in it.
       Master of the Dream-Chambers: >-
@@ -103,7 +103,7 @@ The priesthood maintains the **Codex Tz'uqal**, a vast library of recorded dream
 
 The Tz'uqal'ob are selected for artistic sensitivity and psychological insight rather than military capability. Their training emphasizes pattern recognition, lucid dreaming, and compassion. The branch takes women and men in roughly equal number, takes them from any rank, and is the usual refuge of the Ki'ichek who cannot stomach the blood the other branches require—a fact the other branches note without warmth.
 
-Its political weight is real but indirect. A **K'ul Tz'uqal** who carries a vision to the K'inmah can move a decision no other priest could touch, and every branch knows it; consequently the dream-temples are watched, and a reading that happens to favor a faction is examined with great care by everyone else. The branch's defense is the archive itself, which records the reading and the outcome alike and is open to the priesthood.
+Its political weight is real but indirect. A **Ch'alix Tz'uqal** who carries a vision to the Tz'enmah can move a decision no other priest could touch, and every branch knows it; consequently the dream-temples are watched, and a reading that happens to favor a faction is examined with great care by everyone else. The branch's defense is the archive itself, which records the reading and the outcome alike and is open to the priesthood.
 
 ## Relations
 
@@ -111,6 +111,6 @@ With [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]] the branch keeps its closest wor
 
 With [[affiliation-ixilanchalix|Ix'ilan Ch'alix]] there is an amiable and unresolved rivalry. Both branches keep enormous classified archives of recorded phenomena and both claim to derive prediction from them, and they argue without rancor about whether a pattern found in dreams is knowledge of the same kind as a pattern found in the sky. In practice they share methods freely, and the Codex Tz'uqal's system of ordering by reliability was borrowed from the observatories.
 
-Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch is a standing theological irritant. The solar priesthood teaches that there is no grace in the cosmos, only reciprocal obligation; here is a goddess who takes flowers and gives visions and asks nothing in blood. The solar priests do not dispute her standing—she is one of the Ten—and they do not much like explaining her.
+Toward [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch is a standing theological irritant. The solar priesthood teaches that there is no grace in the cosmos, only reciprocal obligation; here is a goddess who takes flowers and gives visions and asks nothing in blood. The solar priests do not dispute her standing—she is one of the Ten—and they do not much like explaining her.
 
 [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] and the dream-keepers are natural allies, being the two branches that ask least and give most, and in many cities their temples adjoin. Women come to one for healing and the other for counsel, and the priestesses and dream-keepers pass petitioners between them without ceremony.

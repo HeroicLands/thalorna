@@ -63,7 +63,7 @@ Everywhere else on Thalorna the Elder Races held to a policy of non-interference
 
 ## The Ports and the World
 
-The island has never been disconnected from the world; it has decided exactly where the world may touch it. Four ports on the eastern coast and its islets serve as the interface. [[place-qasirah|Qasirah]] is the greatest, a city of eighteen thousand with a foreign quarter, merchant palaces and an Aurèldían temple for the traders; [[place-korinthel|Korinthel]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held. Foreign merchants keep to designated quarters under the eyes of the harbor-wardens, goods move in and out, and information flows both ways through a careful filter. Centuries of Ankarian, Haradian and Vedyaran contact have made the ports genuinely cosmopolitan, with mixed populations, foreign shrines and a culture quite distinct from the interior's.
+The island has never been disconnected from the world; it has decided exactly where the world may touch it. Four ports on the eastern coast and its islets serve as the interface. [[place-ilovanu|Ilovanu]] is the greatest, a city of eighteen thousand with a foreign quarter, merchant palaces and an Aurèldían temple for the traders; [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held. Foreign merchants keep to designated quarters under the eyes of the harbor-wardens, goods move in and out, and information flows both ways through a careful filter. Centuries of Ankarian, Tarûzelian and Vedyaran contact have made the ports genuinely cosmopolitan, with mixed populations, foreign shrines and a culture quite distinct from the interior's.
 
 Ankarian contact with Kalihara is commercially significant and culturally thin. A merchant who has traded there for twenty years has usually seen nothing of the island beyond the walls of the foreign quarter, and western scholarship on Kalihara is a patchwork of such accounts and the theories built on them. In the Kaliharan view most of those theories describe Ankarian assumptions, and the Kaliharans see no reason to correct them.
 
@@ -72,7 +72,7 @@ Ankarian contact with Kalihara is commercially significant and culturally thin. 
 - [[place-kaliharargn|Kalihara Region]]—the island's inhabited country, which is nearly all of it
 - [[affiliation-kalihara|Kalihara]]—the Kaliharan civilization and its councils
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and its custodians
-- [[place-qasirah|Qasirah]]—the principal port
+- [[place-ilovanu|Ilovanu]]—the principal port
 - [[place-provenzrgn|Provènzia Region]] and [[place-okharisrgn|Okháris Region]]—the nearest coasts, four to seven hundred miles east
 - [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to Kalihara
 - [[place-kchchkcntnnt|K'ich'chik]]—the next land west, across open ocean

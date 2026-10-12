@@ -34,7 +34,7 @@ data:
         description: >-
           Appointed to the Sultan's service and paid from his revenue, holding delegated authority but no land.
       - level: 5
-        title: Wali
+        title: Tâgemôr
         description: Governor of a city or oasis in the Sultan's name, holding its garrison and its revenue.
       - level: 6
         title: Emir
@@ -52,28 +52,28 @@ data:
       Grand Vizier: >-
         Head of the administration, through whom the Sultan's orders pass and to whom the divans answer.
       Vizier: Minister of one department of state—the treasury, the army, the post, the waters.
-      Qadi: Judge of a city, ruling on law and custom and administering pious endowments.
-      Defterdar: Keeper of the registers and of the realm's revenue, answerable for its receipt and audit.
-      Hajib: Chamberlain, controlling access to the Sultan's person and the order of his court.
-      Wali: Governor of a city or oasis, holding the Sultan's authority within it.
+      Vazhmôr: Judge of a city, ruling on law and custom and administering pious endowments.
+      Yorvôr: Keeper of the registers and of the realm's revenue, answerable for its receipt and audit.
+      Gholvôr: Chamberlain, controlling access to the Sultan's person and the order of his court.
+      Tâgemôr: Governor of a city or oasis, holding the Sultan's authority within it.
       Emir of the Host: Commander of the standing army in the field.
       Master of the Post: Keeper of the courier routes and, in practice, of the Sultan's intelligence.
-      Muhtasib: >-
+      Nûzgôr: >-
         Inspector of markets, weights, and public morals, and the most resented office in any city.
       Keeper of the Wells: Warden of the oases' water rights, whose rulings decide which caravans may cross.
       Caravan-Master: >-
         Chartered leader of a trading caravan, answerable to the Sultan for its conduct and its dues.
       Court Physician: Keeper of the Sultan's health, and by that a confidant of unusual reach.
       Court Astrologer: Reader of the heavens for the timing of campaigns, marriages and journeys.
-  seat: shamsun
+  seat: shebarekh
   population: 2000000
-  economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt, lore-hardncrncy]
+  economy: [lore-vylrncrncy, lore-bartercnmy, lore-kinhalcrdt, lore-trzlncrncy]
   lore: [humanflk]
   parents: []
   relations:
     ashanpnthn: aligned
     dunhartrbs: unaligned
-    cnfdrtnhrdnstts: aligned
+    cnfdrtntrzlnstts: aligned
     vylarinmpr: rival
     vindhyalay: unaligned
   packFolder: amradad
@@ -88,13 +88,13 @@ The Amradi say that their ancestors were the only Dunhari clever enough to stop 
 
 ## Character
 
-Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from [[place-byzariargn|Byzaría]], [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[affiliation-cnfdrtnhrdnstts|Harad]]. That crossroads has made the Sultan enormously rich and far more important than his thinly peopled land would suggest.
+Amradad was founded generations ago, when a powerful tribal confederation settled for good around the richest oases in the desert and began to build in stone. The kingdom it made holds the most valuable crossroads of the overland trade: the point where the roads from [[place-byzariargn|Byzaría]], [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]] meet on the coast facing the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. That crossroads has made the Sultan enormously rich and far more important than his thinly peopled land would suggest.
 
-The court at [[place-shamsun|Shamsûn]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Āsháian]] faith finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Āsháian orthodoxy for the tribes and the Haradi alike, whether or not either listens.
+The court at [[place-shebarekh|Shêbarekh]] is a seat of learning and patronage. Scholars of theology, astronomy, mathematics and medicine gather in its libraries and academies, and every great house keeps a court astrologer to time its marriages, journeys and quarrels. The [[affiliation-ashanpnthn|Āsháian]] faith finds its grandest expression here. The fire-temples of Amradad are the wonders of the desert, and the debates of their priestly scholars set the standard of Āsháian orthodoxy for the tribes and the Tarûzeli alike, whether or not either listens.
 
 ## Governance
 
-The Sultan rules in his own right. His orders pass through the **Grand Vizier**, who heads the administration, to the viziers of the treasury, the army, the post and the waters, and from them to a governor (_wali_) in every city and oasis. A judge (_qadi_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_muhtasib_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Sultan knows.
+The Sultan rules in his own right. His orders pass through the **Grand Vizier**, who heads the administration, to the viziers of the treasury, the army, the post and the waters, and from them to a governor (_tâgemôr_) in every city and oasis. A judge (_vazhmôr_) sits in each city, ruling by law and custom and administering the pious endowments of the temples; a market inspector (_nûzgôr_) checks weights and measures and public morals, and is the most resented man in any city. The **Keeper of the Wells** rules on the oases' water rights, and his rulings decide which caravans may cross. The **Master of the Post** keeps the courier roads, and with them most of what the Sultan knows.
 
 The Sultan's power is real and it has limits. The priests of the fire-temples hold great landed wealth and spiritual authority, and in every city the governor and the high priest each need the other. The great caravan-masters are chartered by the Sultan and answer to him for their dues, and they know to the coin how much of his treasury they fill.
 
@@ -102,18 +102,18 @@ The Sultan's power is real and it has limits. The priests of the fire-temples ho
 
 The Sultan claims authority over every Dunhari people, and the tribes find the claim hilarious. In practice the two live together through trade agreements, marriages between the court and the sheikhs' houses, and carefully negotiated arrangements at the edge of the sown. The standing army is strong enough to hold the oases and too slow to catch anyone in the open desert, where the nomads go wherever they like.
 
-Across the strait, relations with the Confederation of Haradian States are warm. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been hostile, and when Harad, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
+Across the strait, relations with the Confederation of Tarûzelian States are warm. Relations with the [[affiliation-vylarinmpr|Vylarian Empire]] have long been hostile, and when Tarûzel, a Vylarian colony, rose against the empire some twelve years ago, Amradad was among those who helped it break free.
 
 ## Commerce and Currency
 
-The Sultanate uses [[lore-vylrncrncy|Vylarian coin]]—aurion, argo and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Sultanate. Out along the desert roads, trade turns to [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. Haradian coin from the secession trade is accepted in the principal trading cities, through changers who deal with the Haradian treasury, the Bayt al-Khazînah.
+The Sultanate uses [[lore-vylrncrncy|Vylarian coin]]—aurion, argo and bit—in its port cities and its administrative heart, where it is the main money of trade. The Vylarian paper script does not work here, since no chapter of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]] operates in the Sultanate. Out along the desert roads, trade turns to [[lore-bartercnmy|barter]] and [[lore-kinhalcrdt|kin-credit]], as everywhere in the [[place-dunhardsrtrgn|Dunhara Desert]]. Tarûzelian coin from the secession trade is accepted in the principal trading cities, through changers who deal with the Tarûzelian treasury, the Merâzûnî.
 
 ## See Also
 
 - [[place-amradadrgn|Amradad Region]]—the land the Sultanate holds
-- [[place-shamsun|Shamsûn]]—the seat of the court
+- [[place-shebarekh|Shêbarekh]]—the seat of the court
 - [[place-dunharargn|Dunhara Region]]—the wider desert
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the nomadic cousins of the open desert
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the ally across the strait
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the ally across the strait
 - [[affiliation-ashanpnthn|Āsháian Pantheon]]—the faith of the fire-temples
 - [[place-khzryndsrtrgn|Khazryn Desert Region]] and [[place-byzariargn|Byzaría Region]]—neighbors on the trade roads

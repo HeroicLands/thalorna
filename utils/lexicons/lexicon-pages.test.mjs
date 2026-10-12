@@ -318,6 +318,25 @@ test("a word that breaks the sound rules is refused with the rule named", () => 
     );
 });
 
+test("a consonant that may carry a syllable counts as a vowel between consonants", () => {
+    const plainPage = readPage(PAGE);
+    assert.deepEqual(plainPage.edges.syllabic, []);
+    assert.match(soundProblems("trnak", plainPage, "par").join("\n"), /opens on `trn`/);
+    const page = readPage(
+        PAGE.replace(
+            "| Vowels that may stand together  | \`ai\`           |",
+            "| Vowels that may stand together  | \`ai\`           |\n| Consonants that may carry a syllable | \`r\`, \`n\` |",
+        ),
+    );
+    assert.deepEqual(page.edges.syllabic, ["r", "n"]);
+    // `trnan`: `t`, a syllable on `r`, then `nan`.
+    assert.deepEqual(soundProblems("trnan", page, "par"), []);
+    // `ktrn` closes on a syllable on `n` after `ktr`, which opens on a pair the page does not list.
+    assert.match(soundProblems("ktrn", page, "par").join("\n"), /opens on `kt`/);
+    // After a vowel the consonant is only a consonant: `kartta` runs `rtt` together.
+    assert.match(soundProblems("kartta", page, "par").join("\n"), /runs 3 consonants/);
+});
+
 test("a Built from cell that does not recompute, or names an unknown part, is refused", () => {
     assert.match(
         errors(

@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-nyalbeagl|Eagle Totem]]—the guide of the Ngonzi, the highlanders who live among the Old Kraals.
+See [[affiliation-nyalbeagl|Eagle Totem]]—the guide of the Ngonzi, the highlanders who live among the Old Hetos.

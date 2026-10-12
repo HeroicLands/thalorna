@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [xikulchaklrgn], population: 2000, gove
 
 ## Overview
 
-A K'ich'chik trader who wants to deal with the Ha'ik waits, sometimes for days, while their representatives consult authorities he never sees. The seat of **Xik'ul Ch'akal**, the Water Path, is reckoned at about 2,000 people, in the lake-and-river country of the northeast, where the Ha'ik Tz'aqalil, the Otter People, control the waterways and the portage routes between them with quiet, absolute authority. K'ich'chik traders who navigate Ha'ik rivers without permission vanish.
+A K'ich'chik trader who wants to deal with the Ha'ik waits, sometimes for days, while their representatives consult authorities he never sees. The seat of **Xik'ul Ch'akal**, the Water Path, is reckoned at about 2,000 people, in the lake-and-river country of the northeast, where the Ha'ik Tz'omalil, the Otter People, control the waterways and the portage routes between them with quiet, absolute authority. K'ich'chik traders who navigate Ha'ik rivers without permission vanish.
 
 ## What the Scouts See
 

@@ -113,7 +113,7 @@ circuits and oases of right run up against the Khelâthi wells. The sheikhs
 regard the wells as theirs by the Laws of the Well—water is never one
 people's property—and the forts as squatters upon them. Chief
 among the clans that water here are the **Shiradar**, whose sheikh
-[[being-mthrnshrdr|Mithran Shiradar]] counts the Imperial Garrison among his
+[[being-trvshshrdr|Torvâsh Shiradar]] counts the Imperial Garrison among his
 enemies, and their **Valdun** neighbors, whose raids the Shiradar are as often
 blamed for as their own.
 
@@ -150,6 +150,6 @@ of the peace it is the garrison that is tolerated, not the clans.
 - [[affiliation-borderselatu|The Border Selatu]]—the selatu the march is not one of
 - [[place-dunharargn|Dunhara Region]]—the desert the march faces
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the clans who contest it
-- [[being-mthrnshrdr|Mithran Shiradar]]—the sheikh the garrison has made an enemy of
+- [[being-trvshshrdr|Torvâsh Shiradar]]—the sheikh the garrison has made an enemy of
 - [[place-khzryndsrtrgn|Khazryn Desert]]—where the road goes on to
 - [[lore-eastroad|The Storm on the Eastern Road]]—the year the fort line began

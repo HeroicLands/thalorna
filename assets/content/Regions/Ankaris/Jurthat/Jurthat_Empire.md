@@ -20,7 +20,7 @@ data:
         description: >-
           Slaves and outcasts: the caste that is not a caste, whose members may hold no name the law recognizes.
       - level: 1
-        title: Shükrën
+        title: Shüknürk
         description: >-
           Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for the offense of profiting without producing.
       - level: 2
@@ -42,9 +42,9 @@ data:
       - level: 6
         title: Vëndük
         description: >-
-          Chattel sorcerers: magical slaves bound to the Zhëklüng, ranked high in precedence and owning nothing, not even themselves.
+          Chattel sorcerers: magical slaves bound to the Zhëkzhös, ranked high in precedence and owning nothing, not even themselves.
       - level: 7
-        title: Zhëklüng
+        title: Zhëkzhös
         description: >-
           Sons of the Dragon—the imperial family and the Warlords, in whom the celestial mandate is held to run.
       - level: 8
@@ -53,7 +53,7 @@ data:
           The Dragon himself, in whom the celestial administration and the caste order alike find their justification.
     offices:
       Emperor: The Dragon, apex of the celestial administration and warrant of the caste order.
-      Warlord: Of the Zhëklüng, holding a province with its armies and answering to the Emperor alone.
+      Warlord: Of the Zhëkzhös, holding a province with its armies and answering to the Emperor alone.
       Celestial Minister: >-
         Head of a ministry of the imperial administration, which tracks comets and officials with equal rigor.
       Omen-Reader: Tānthëi charged with interpreting the heavens for the timing of imperial acts.
@@ -70,7 +70,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {tngvkvnlei: aligned, tanvurempr: rival}
+  relations: {tngvkrrklei: aligned, tanvurempr: rival}
   packFolder: jurthat
 sohl: {system: {commonSkills: [tanvurlng]}}
 
@@ -83,7 +83,7 @@ Jürthāt's culture is unmistakably shaped by its Tānvür origins—the caste s
 
 ## The Emperor of Ten Thousand Dawns
 
-Jürthāt maintains an emperor—the **Vānlëng Tëngzhëi** (Vānlëng Tëngzhëi, "Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The emperor performs elaborate seasonal rituals, receives foreign ambassadors, and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
+Jürthāt maintains an emperor—the **Rūrklëng Tëngzhëi** (Rūrklëng Tëngzhëi, "Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The emperor performs elaborate seasonal rituals, receives foreign ambassadors, and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
 
 In practice, the emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named the emperor's chief advisor or receiving a court title carries immense social weight, even though the titles confer no actual authority. The emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
 
@@ -113,7 +113,7 @@ This belief fuels both their pride and their aggression. Jürthāt's superior na
 
 A thousand years of separation have produced meaningful cultural differences:
 
-**Caste system:** Jürthāt inherited Tānvür's caste structure but has bent it around its feudal reality. The warrior lords dominate completely—there is no equivalent of the Tānvür balance between Zhëklüng, Vëndük, and Vüshōk. Magic-users exist but are subordinate to their lords in a way that even the Vëndük's chattel status doesn't quite capture; in Jürthāt, a sorcerer is simply another retainer, not a separate pillar of power.
+**Caste system:** Jürthāt inherited Tānvür's caste structure but has bent it around its feudal reality. The warrior lords dominate completely—there is no equivalent of the Tānvür balance between Zhëkzhös, Vëndük, and Vüshōk. Magic-users exist but are subordinate to their lords in a way that even the Vëndük's chattel status doesn't quite capture; in Jürthāt, a sorcerer is simply another retainer, not a separate pillar of power.
 
 **Religion:** The Celestial Order is recognizable but has fractured into regional variations. Each Great Lord's domain tends to emphasize the deities that suit their territory—coastal lords venerate storm and sea aspects, mountain lords emphasize earth and metal. The Mandate of Heaven is interpreted locally: each Great Lord claims some measure of divine favor for their own line, diluting the concept from a single imperial mandate into competing claims of heavenly approval.
 

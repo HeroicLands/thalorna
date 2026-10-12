@@ -11,7 +11,7 @@ data:
   occupation: Chieftain
   lore: []
   culture: dunhariclt
-  homes: [dunashir]
+  homes: [ghavulekh]
   affiliations: {dunhartrbs: {rank: 6}, bahramis: {rank: 1}}
   socialTies: {affiliation-wrrscrcldnhrtrbs: patron}
   gender: male

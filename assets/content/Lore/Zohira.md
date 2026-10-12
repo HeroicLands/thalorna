@@ -39,7 +39,7 @@ city-states, where the Overlord is titled Keeper of the Three Flames, it is clos
 that the distinction is rarely worth arguing. It is done. It is not often done twice.
 
 The city priesthoods acknowledge the zohira as part of Nkaru'thar's design, and the shamans of the
-[[affiliation-njiayaroho|Njia ya Roho]] recognize the Eternal Flame as the ultimate source. A
+[[affiliation-yenorzhrng|Yénor Zohiring]] recognize the Eternal Flame as the ultimate source. A
 person goes to the temple for the turning of the year and to the cairn when the river is wrong.
 Tension arises between the formalized hierarchy and the outlying tribes from time to time, but it
 is a tension about precedence and resources, never about whether the other is true.
@@ -59,11 +59,11 @@ events, and neither defers.
   [[lore-orclbonesspr|Oracle of Bones]] is a zohira of death, and Bone-Readers read what it has
   written in the body. A widow may have both rites performed over the same husband, a week apart,
   by people who would give incompatible accounts of where he now is.
-- **The harvest.** The Golden Flame governs harvest and abundance; [[lore-mzazispr|Mzazi wa Ardhi]]
+- **The harvest.** The Golden Flame governs harvest and abundance; [[lore-pemburspr|Pemburari Khutheling]]
   is the zohira of fertility. Both are thanked for the same grain, in the same season, by the same
   household.
 - **The blade.** The Wild Flame governs strength and the battlefield, and its warrior-priests are
-  the kingdom's soldiers. [[lore-upangaspr|Roho wa Upanga]] is seated in the Magara Spirit Blades,
+  the kingdom's soldiers. [[lore-shengelspr|Zohu Shéngeling]] is seated in the Magara Spirit Blades,
   which choose their own bearers. Where the temple would appoint, the blade decides, and the temple
   has never found a way to say the blade is wrong.
 - **Rank.** A High Pyremant outranks every priest in Okháris and does not outrank a shaman, because
@@ -77,7 +77,7 @@ has written the Okhárics up. It does not concern the people it is addressed to 
 The widow does not think she has a problem. She had the temple rite and she had the Bone-Reader,
 her husband is where the Flame takes him and also what the bones say of him, and the visitor
 pressing her on the point is being obscurely rude. Ask a shaman and he will agree cheerfully that
-the accounts do not match and see no consequence in it. Ask a Mtaalamu wa Moto and she will say the
+the accounts do not match and see no consequence in it. Ask a Talithari Nkaring and she will say the
 zohira are the Flame's own emissaries and that what a Bone-Reader does is therefore not a rival
 rite, which does not actually answer the contradiction and is not offered as though it did.
 
@@ -102,17 +102,17 @@ the shrine where it was made.
 Innumerable local zohira are known only to the tribe whose cairn holds them. These are the ones
 known across the Okháric country.
 
-| Zohira                                     | Domain             | Met through                                           |
-| ------------------------------------------ | ------------------ | ----------------------------------------------------- |
-| [[lore-mamamitospr\|Mama wa Mito]]         | Rivers             | [[skill-mamamitosprt\|Mama wa Mito Spirit Power]]     |
-| [[lore-ngurumospr\|Ngurumo]]               | Storms             | [[skill-ngurumosprt\|Ngurumo Spirit Power]]           |
-| [[lore-kivulispr\|Kivuli cha Msitu]]       | The hunt           | [[skill-kivulisprt\|Kivuli cha Msitu Spirit Power]]   |
-| [[lore-orclbonesspr\|The Oracle of Bones]] | Death and prophecy | [[skill-orclbonessprt\|Oracle of Bones Spirit Power]] |
-| [[lore-mzazispr\|Mzazi wa Ardhi]]          | Fertility          | [[skill-mzazisprt\|Mzazi wa Ardhi Spirit Power]]      |
-| [[lore-upangaspr\|Roho wa Upanga]]         | The blade          | [[skill-upangasprt\|Roho wa Upanga Spirit Power]]     |
+| Zohira                                     | Domain             | Met through                                             |
+| ------------------------------------------ | ------------------ | ------------------------------------------------------- |
+| [[lore-yombelspr\|Yombel Ngoriring]]       | Rivers             | [[skill-yombelsprt\|Yombel Ngoriring Spirit Power]]     |
+| [[lore-gorombespr\|Gorómbe]]               | Storms             | [[skill-gorombesprt\|Gorómbe Spirit Power]]             |
+| [[lore-zhimbalspr\|Zhimbalu Ombing]]       | The hunt           | [[skill-zhimbalsprt\|Zhimbalu Ombing Spirit Power]]     |
+| [[lore-orclbonesspr\|The Oracle of Bones]] | Death and prophecy | [[skill-orclbonessprt\|Oracle of Bones Spirit Power]]   |
+| [[lore-pemburspr\|Pemburari Khutheling]]   | Fertility          | [[skill-pembursprt\|Pemburari Khutheling Spirit Power]] |
+| [[lore-shengelspr\|Zohu Shéngeling]]       | The blade          | [[skill-shengelsprt\|Zohu Shéngeling Spirit Power]]     |
 
 ## See Also
 
-- [[affiliation-njiayaroho|Njia ya Roho]]—the shamanic tradition that deals with them
+- [[affiliation-yenorzhrng|Yénor Zohiring]]—the shamanic tradition that deals with them
 - [[affiliation-nkaruthar|Nkaru'thar]]—the Eternal Flame whose emissaries they are
 - [[lore-thekindred|The Kindred]]—the Áelendan parallel, territorial where these are domanial

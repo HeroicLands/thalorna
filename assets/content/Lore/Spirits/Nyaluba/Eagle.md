@@ -14,7 +14,7 @@ and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
 The eagle-guide is a carrier. Where the other four hold ground or hold a lineage, this one
 crosses between—between the highland and the plain, between the living clan and the dead who
-built in stone, and between the Nyáluba guides and whatever the Old Kraals contain. It is the
+built in stone, and between the Nyáluba guides and whatever the Old Hetos contain. It is the
 messenger, and the tradition treats its manifestations as errands rather than visits.
 
 Its temperament is distant and exact. It carries what it is given and reports what it is told;
@@ -27,4 +27,4 @@ spirits, are not party to the Long Pact, and are not certainly ancestors of anyo
 The eagle deals with them anyway. Whether it does so on the Ngonzi's behalf or on theirs is a
 question the clan does not answer to outsiders.
 
-The Bombwe griots maintain that the eagle-guide predates the Ngonzi presence in the highlands, a point the Ngonzi do not discuss with outsiders.
+The Lobwezi griots maintain that the eagle-guide predates the Ngonzi presence in the highlands, a point the Ngonzi do not discuss with outsiders.

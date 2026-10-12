@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the K'inmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the K'inmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: K'inmah
+        title: Tz'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      K'inmah: >-
+      Tz'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
       Ix'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      K'inbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
       Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'aq: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,16 +76,16 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
-# terran_analog: the ranks and offices are the Classic Maya court: K'inmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, K'inbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'aq the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Tz'uma No'tun holds the land of [[place-tzumanotunrgn|Tz'uma No'tun Region]]. K'ich'chik scouts call the people here the Ch'aqun Tz'aqalil ("Serpent People"), from the serpent-imagery that dominates the few artifacts recovered from border encounters and the rare survivors of failed expeditions into their territory. Their own name for themselves is unknown. Of all the northern nations, the Ch'aqun are the most feared—their reputation for mastery of poisons, ambush tactics, and strikes that come from darkness and vanish without trace has made K'ich'chik border commanders treat Tz'uma No'tun as effectively impassable.
+Tz'uma No'tun holds the land of [[place-tzumanotunrgn|Tz'uma No'tun Region]]. K'ich'chik scouts call the people here the Ch'aqun Tz'omalil ("Serpent People"), from the serpent-imagery that dominates the few artifacts recovered from border encounters and the rare survivors of failed expeditions into their territory. Their own name for themselves is unknown. Of all the northern nations, the Ch'aqun are the most feared—their reputation for mastery of poisons, ambush tactics, and strikes that come from darkness and vanish without trace has made K'ich'chik border commanders treat Tz'uma No'tun as effectively impassable.
 
 K'ich'chik observers believe the Ch'aqun have developed a civilization more organized and centralized than the other northern nations, though evidence is fragmentary and largely inferred from the sophistication of their military operations. The swamplands that form the heart of their territory are simultaneously a refuge and a weapon; K'ich'chik expeditions that have entered the trackless wastes have found them disorienting and deadly, while the Ch'aqun clearly move through them with effortless mastery. No K'ich'chik scholar has ever been permitted into Ch'aqun lands and returned with a reliable account.
 
-## The Ch'aqun Tz'aqalil
+## The Ch'aqun Tz'omalil
 
 K'ich'chik scholars speculate, based on the coordinated nature of Ch'aqun military operations and the apparent specialization of their warriors, that the Serpent People maintain a more centralized hierarchy than the other northern nations. Some K'ich'chik accounts use the term "Ch'aqun Nah" ("Serpent Lords") for the leaders observed at rare border parley, though whether this is their actual title or a K'ich'chik invention is uncertain. What is clear from the outside is that whoever commands the Ch'aqun can marshal coordinated action across large distances—a capability that implies organizational sophistication unusual among the northern peoples and deeply concerning to K'ich'chik military planners.
 
@@ -103,6 +103,6 @@ The Ch'aqun appear to maintain some presence in the contested [[place-hanalxilan
 
 - [[place-hanalxilanrgn|Ha'nal Xi'lan]]—The contested borderlands to the north and west, source of frequent inter-tribal tensions
 - [[affiliation-xikulchakl|Xik'ul Ch'akal]]—The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
-- [[affiliation-haxaman|Ha' Xaman]]—The Coyote People's grasslands, contacted through the Ha'nal Xi'lan borderlands
+- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands, contacted through the Ha'nal Xi'lan borderlands
 - [[place-kchchkcntnnt|K'ich'chik]]—The civilized southern lands, source of trade goods and occasional military threat
 - [[place-tzumanotunrgn|Tz'uma No'tun Region]]—The land Tz'uma No'tun holds

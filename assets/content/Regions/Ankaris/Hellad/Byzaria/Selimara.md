@@ -10,11 +10,11 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 5000, packFol
 
 ## Overview
 
-Selímara is a market town of about 5,000 on the inland roads of [[place-byzariargn|Byzaría]]. The maps in the counting houses of [[affiliation-altinkale|Altinkale]] record a place like it as tolls collected, and that is all the League's ledgers say of it.
+Selímara is a market town of about 5,000 on the inland roads of [[place-byzariargn|Byzaría]]. The maps in the counting houses of [[affiliation-khryshteikhos|Khrýshteíkhos]] record a place like it as tolls collected, and that is all the League's ledgers say of it.
 
 ## Who Lives Here
 
-Two of the people in the character notes call Selímara home: [[being-lysndrsxylkt|Lysándros Xylákit]], a timberwright, and [[being-alykosmpsn|Alýkos Sampsiôn]], a physician.
+Two of the people in the character notes call Selímara home: [[being-morzhrxylkt|Morzáhr Xylákit]], a timberwright, and [[being-alykosmpsn|Alýkos Sampsiôn]], a physician.
 
 ## See Also
 

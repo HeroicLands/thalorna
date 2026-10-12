@@ -192,7 +192,7 @@ The black water is still between the cypress knees, and the canoe has stopped be
 
 # Dossier {#dossier}
 
-The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The one the K'ich'chik know of has been seen in **Ha' P'uqan**, the Black Water, the great marsh at the heart of [[place-tzumanotunrgn|Tz'uma No'tun]], the swamp country of the Ch'aqun that K'ich'chik border commanders treat as effectively impassable.
+The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The one the K'ich'chik know of has been seen in **Ne' P'uqan**, the Black Water, the great marsh at the heart of [[place-tzumanotunrgn|Tz'uma No'tun]], the swamp country of the Ch'aqun that K'ich'chik border commanders treat as effectively impassable.
 
 ## Presentation
 
@@ -200,7 +200,7 @@ The voidserpent is serpent-shaped and massive, thick as a horse's body, and its 
 
 ## In the Land
 
-Ha' P'uqan and the black-water marshes round it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish rivers and joined by hidden waterways that the Ch'aqun move through with effortless mastery. The voidserpent passes through them on its own courses, sometimes seen in one channel and sometimes miles away the next night, and it favors the deepest, stillest water. Nothing about where it goes has ever made sense to the scouts who track it. It has been seen to pass through the trunk of a cypress as if the tree were mist, and it has been seen to pass a scouting party by without turning its head.
+Ne' P'uqan and the black-water marshes round it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish rivers and joined by hidden waterways that the Ch'aqun move through with effortless mastery. The voidserpent passes through them on its own courses, sometimes seen in one channel and sometimes miles away the next night, and it favors the deepest, stillest water. Nothing about where it goes has ever made sense to the scouts who track it. It has been seen to pass through the trunk of a cypress as if the tree were mist, and it has been seen to pass a scouting party by without turning its head.
 
 ## Key Behaviors
 

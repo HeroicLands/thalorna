@@ -478,8 +478,8 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 
 ### Patrons
 
-Elder Firuzéon Pediníkot
-: The respected elder of her herding commune and unofficial keeper of pastoral traditions, Firuzéon has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
+Elder Tchelvâzeon Pediníkot
+: The respected elder of her herding commune and unofficial keeper of pastoral traditions, Tchelvâzeon has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
 
 The Wool Merchant Zenobárzan Kalvestris
 : A fair-dealing trader who buys Samarína's wool at high prices and speaks for it in distant markets, giving her a reliable income whatever the season's prices.

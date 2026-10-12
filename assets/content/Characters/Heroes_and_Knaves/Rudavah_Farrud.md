@@ -429,7 +429,7 @@ Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet bl
 
 **Childhood Trauma:** Rudâvah was born in a farming village outside [[place-amradadrgn|Amradad]] to a merchant family of modest means. At age eight, a stable fire trapped her protecting a panicked mare. The resulting burns scarred her left hand and wrist permanently but, more importantly, taught her that her instincts about animals were extraordinary—she had known the mare would not abandon the stable, and she had been right. While other children might have developed a fear of animals or fire, Rudâvah developed an obsessive interest in understanding animal behavior and reducing the conditions that caused panic.
 
-**Apprenticeship and Mastery:** She served informally under **Master Ostler Jamal of Amradad**, the city's most respected animal handler, for fifteen years. Jamal recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
+**Apprenticeship and Mastery:** She served informally under **Master Ostler Velkâsh of Amradad**, the city's most respected animal handler, for fifteen years. Velkâsh recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
 
 **Current Practice:** Now at thirty, Rudâvah has established herself as the preeminent ostler in the Sultanate, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
 
@@ -467,18 +467,18 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 
 ### Patrons
 
-Master Jamal of Amradad
+Master Velkâsh of Amradad
 : Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
 
-Captain Amir al-Rashid, Royal Cavalry
-: The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Amir demands results, but respects Rudâvah's insistence on treating animals well.
+Captain Dezhvan Shâmâyân, Royal Cavalry
+: The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Dezhvan demands results, but respects Rudâvah's insistence on treating animals well.
 
-Lady Zahra al-Mansur, Merchant Princess
+Lady Zeshûna Padvân, Merchant Princess
 : A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
 
 ### Enemies
 
-Merchant Hakkim ibn Sahar
+Merchant Rûvesh Nârshad
 : A wealthy trader who once contracted Rudâvah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudâvah has never forgiven him.
 
 The Abusive Stablehands

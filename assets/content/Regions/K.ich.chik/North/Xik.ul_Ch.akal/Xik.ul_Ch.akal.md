@@ -40,28 +40,28 @@ data:
           Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the K'inmah's court.
+        description: A noble lord of the city, holding land, dependents and a place in the Tz'enmah's court.
       - level: 7
         title: Kulmah
         description: >-
-          A subordinate lord holding a lesser center for the K'inmah, and the usual rank of a conquered city's ruler.
+          A subordinate lord holding a lesser center for the Tz'enmah, and the usual rank of a conquered city's ruler.
       - level: 8
-        title: K'inmah
+        title: Tz'enmah
         description: >-
           Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
     offices:
-      K'inmah: >-
+      Tz'enmah: >-
         Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
       Ix'kanmah: >-
         Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
       Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      K'inbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      Tz'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
         Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
       Xok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umtz'aq: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      Ch'umtz'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
       P'ik'ulmah: >-
         Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
       Ballcourt Keeper: >-
@@ -76,18 +76,18 @@ data:
 sohl: {system: {commonSkills: []}}
 
 # terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
-# terran_analog: the ranks and offices are the Classic Maya court: K'inmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, K'inbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'aq the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the ranks and offices are the Classic Maya court: Tz'enmah the k'uhul ajaw, K'anulmah the ajaw, Ix'kanmah the ix ajaw, Kulmah the sajal, Tz'enbal the ah k'in, P'ilambal the aj tz'ib, Xok'almah the nacom, Ha'nalmah the batab, Ch'umtz'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
 ---
 
 ## Overview
 
-Xik'ul Ch'akal holds the land of [[place-xikulchaklrgn|Xik'ul Ch'akal Region]]. K'ich'chik merchants call the people here the Ha'ik Tz'aqalil ("Otter People"), from the otter imagery on their canoe prows and camp-markings. Their own name for themselves and their land is unknown. Like all the northern nations, the Ha'ik are hostile to outsiders; they control access to their waterways with quiet, absolute authority, and K'ich'chik traders who attempt to navigate Ha'ik rivers without permission simply vanish.
+Xik'ul Ch'akal holds the land of [[place-xikulchaklrgn|Xik'ul Ch'akal Region]]. K'ich'chik merchants call the people here the Ha'ik Tz'omalil ("Otter People"), from the otter imagery on their canoe prows and camp-markings. Their own name for themselves and their land is unknown. Like all the northern nations, the Ha'ik are hostile to outsiders; they control access to their waterways with quiet, absolute authority, and K'ich'chik traders who attempt to navigate Ha'ik rivers without permission simply vanish.
 
 The Ha'ik appear to have built a civilization fundamentally different from the other northern nations—not founded on herds or mountains or the open ocean, but on waterways and the forests surrounding them. Their canoes, occasionally seen at border trading sites, are vessels of extraordinary sophistication capable of navigating everything from vast lakes to narrow, rocky rapids. Their knowledge of waterways is unmatched and jealously guarded; the portage routes and seasonal channels that connect the great lakes form a transportation network that the Ha'ik control absolutely and share with no one.
 
 K'ich'chik observers report that the region's relative abundance has allowed the Ha'ik to develop a more settled lifestyle than most northern peoples. Seasonal villages of substantial longhouses appear and disappear with the seasons, visible from a distance to K'ich'chik scouts but approached at one's peril. The Ha'ik tolerate trade only at designated border sites, and negotiations are conducted on Ha'ik terms or not at all.
 
-## The Ha'ik Tz'aqalil
+## The Ha'ik Tz'omalil
 
 The Otter People are master builders of watercraft and sophisticated engineers of water systems. Their canoes—crafted from birch bark stretched over a wooden frame, or carved from hollowed logs—are objects of functional beauty, capable of carrying substantial cargo and surviving challenging water conditions. The Ha'ik also construct elaborate fish weirs and traps, dams, and sluices that enhance fish production in their territories; these constructions are maintained communally and represent significant engineering knowledge passed down through generations. A Ha'ik community's wealth and status are partly measured by the sophistication of their watercraft and water-management infrastructure.
 
@@ -101,8 +101,8 @@ The Ha'ik appear less reliant on southern trade than some of the other northern 
 
 ## See Also
 
-- [[affiliation-haxaman|Ha' Xaman]]—The Coyote People's grasslands to the west
-- [[affiliation-kiximtzul|K'ixim Tzul]]—The Bear People's boreal forests to the northwest
+- [[affiliation-penqalchakal|P'enqal Ch'akal]]—The Coyote People's grasslands to the west
+- [[affiliation-ixtemtzul|Ixtem Tzul]]—The Bear People's boreal forests to the northwest
 - [[affiliation-tzumanotun|Tz'uma No'tun]]—The Serpent People's southern territories, connected via river routes
 - [[place-hanalxilanrgn|Ha'nal Xi'lan]]—The contested borderlands to the south where Ha'ik, Tz'okum, and Ch'aqun meet
 - [[place-xikulchaklrgn|Xik'ul Ch'akal Region]]—The land Xik'ul Ch'akal holds

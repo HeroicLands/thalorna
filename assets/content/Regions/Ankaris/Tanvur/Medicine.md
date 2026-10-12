@@ -38,7 +38,7 @@ The _Zhëkyāt_ (life-givers) are the physicians, who diagnose and prescribe. Th
 - **Burning**, the heat of a smoldering herb laid on the skin to give the Fire domain to a weakened part.
 - **Cupping**, which draws out Lëi that has pooled in the wrong domain.
 
-A Zhëkyāt is valued above all for knowing the channels that carry Lëi between the body's domains, and how a disturbance in one runs on into the next. The best of them serve noble households as physicians to the Warlords and their families. The highest are called to the Emperor and the [[lore-zheklung|Zhëklüng]], where the stakes are greatest: sickness in the imperial family is read as a sign that the empire's own classification may be failing.
+A Zhëkyāt is valued above all for knowing the channels that carry Lëi between the body's domains, and how a disturbance in one runs on into the next. The best of them serve noble households as physicians to the Warlords and their families. The highest are called to the Emperor and the [[lore-zhekzhos|Zhëkzhös]], where the stakes are greatest: sickness in the imperial family is read as a sign that the empire's own classification may be failing.
 
 ## When the Cause Is a Spirit
 
@@ -55,7 +55,7 @@ When an epidemic strikes, the Tānthëi are called to say whether it has a cosmi
 A healer apprentices under a master for many years. The training joins the study of the medical texts, which are ordered by the five elements, with practice at the master's side in diagnosis and treatment. A Yātvōr rises through four ranks:
 
 - _Thëizhëit_ (apprentices) learn the principles of the body's classification, prepare simple remedies and assist in minor treatments.
-- _Yātgüng_ (practitioners) have finished their apprenticeship. They keep their own shops or serve as household physicians.
+- _Yātgīrk_ (practitioners) have finished their apprenticeship. They keep their own shops or serve as household physicians.
 - _Dākyāt_ (master physicians) have won wide respect for their skill. They treat high nobles and teach.
 - _Vōryāt_ (grand healers) are held to understand the bond between the body's order and the cosmic order nearly completely. They attend the Emperor and the Warlords, and the Tānthëi consult them where health and classification meet.
 

@@ -21,13 +21,13 @@ The Sect's most dangerous tie is to the Ordo embassy. The Ordo supplies money, s
 
 ## The Merchants' Rising
 
-The [[lore-shukren|Shükrën]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Vüshōk officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
+The [[lore-shuknurk|Shüknürk]] are rich, taxed hardest of any caste and barred on pain of death from politics. A faction among the great merchant houses is organizing to change that, and it means to have a voice in the government whatever the Caste Laws say. It has money, warehouses in every river city and the ear of every Vüshōk officer who owes it a debt, and it has begun to work with the Black Lotus Society. If the faction moves before the court notices it, the first sign will be the barges stopping.
 
 ## Nüszōk Rëit, the Cult of the Forsaken
 
 [[affiliation-nuszokreit|Nüszōk Rëit]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
 
-The cult worships the **Demon Lords** of the [[affiliation-yokveng|Yokveng]], the powers inside the [[affiliation-tngvkvnlei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nushot|Nüshöt]] the Unmaker, [[affiliation-vekthor|Vëkthōr]] the Forger of False Records, [[affiliation-zhaksok|Zhāksōk]] the Walking Contradiction and [[affiliation-hurnzhuk|Hürnzhük]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
+The cult worships the **Demon Lords** of the [[affiliation-yokveng|Yokveng]], the powers inside the [[affiliation-tngvkrrklei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[affiliation-nushot|Nüshöt]] the Unmaker, [[affiliation-vekzat|Vëkzāt]] the Forger of False Records, [[affiliation-zhaksok|Zhāksōk]] the Walking Contradiction and [[affiliation-hurnzhuk|Hürnzhük]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
 
 From Nüshöt the cult has learned to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-varakpnthn|Varnaka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
 
@@ -37,7 +37,7 @@ Its attacks are aimed at the machinery of classification. Cultists burn ministry
 
 The [[affiliation-heklotzhak|Black Lotus Society]] is the empire's great criminal syndicate. Its existence is an open secret, and its power lies in staying that way: it sells protection, pays bribes, runs smuggling and procures forbidden magic, and it bends trade and politics without being seen to do it.
 
-- **The merchants.** The Lotus has a grip on the Shükrën, offering protection and illicit services that can make a merchant house rich or ruin it.
+- **The merchants.** The Lotus has a grip on the Shüknürk, offering protection and illicit services that can make a merchant house rich or ruin it.
 - **The knife.** Its assassins are rarely used and feared for that reason; a Lotus killing is seldom proved and never forgotten.
 - **The tablets.** It forges the classification tablets that prove a person's caste, which makes it a threat to the classification itself and not only to the law.
 - **The alliances.** Its ties to the Cult of the Forsaken and the Merchants' Rising let it strike at the social order and the economy at once.
@@ -48,8 +48,8 @@ The southern rice harvests have failed several years running. Crops have withere
 
 ## See Also
 
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—a noble house entangled with the Black Lotus Society
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—the exiled general's rebellion
+- [[affiliation-yirtthatzhk|Yīrtthāt Zhāk]]—a noble house entangled with the Black Lotus Society
+- [[being-teitjekvngyrt|Tëitjëk Vëngyīrt]]—the exiled general's rebellion
 - [[lore-veizhatret|Vëi Zhāt Rëit]]—the court's game of manipulation, which shelters many of these threats
 - [[lore-castelaws|Caste Laws]]—the social order under pressure
 - [[affiliation-tanvurempr|Empire of Tānvür]]—the empire these forces work against

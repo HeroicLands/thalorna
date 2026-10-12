@@ -248,7 +248,7 @@ The canoe slides between flooded trunks, and the paddler steers round a hummock 
 
 # Dossier {#dossier}
 
-The Mossback Turtle is a huge, slow, long-lived turtle of the flooded forests of [[place-tzikinrgn|Tz'ikin]], eight to ten feet from beak to tail and about a ton, whose domed shell grows so thick with moss, lichen, fungus and seedlings that it looks like a mound of earth or a mossy rock. It grazes water plants, fallen fruit, fungus and leaves, and does not hunt. It is dangerous only when it is disturbed, cornered or stepped on, and then its beak takes off fingers and its weight breaks bones. The river peoples count it among the presences of the forest, and a very old mossback is something they treat with care.
+The Mossback Turtle is a huge, slow, long-lived turtle of the flooded forests of [[place-xelemrgn|Xelem]], eight to ten feet from beak to tail and about a ton, whose domed shell grows so thick with moss, lichen, fungus and seedlings that it looks like a mound of earth or a mossy rock. It grazes water plants, fallen fruit, fungus and leaves, and does not hunt. It is dangerous only when it is disturbed, cornered or stepped on, and then its beak takes off fingers and its weight breaks bones. The river peoples count it among the presences of the forest, and a very old mossback is something they treat with care.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ The shell is a high dome, ridged and pitted with age, dark brown or gray where a
 
 ## In the Land
 
-Mossbacks live along the [[place-hanaltzuma|Ha'nal Tz'uma]] and its tributaries, where the forest floods each year and drains again. In the flood they swim among the drowned trunks, grazing the water plants and the fruit that falls into the river, and they sleep on the bottom of the quiet channels. When the water falls they walk out over the forest floor, browsing leaves, fungus and the seedlings that come up in the mud, and they spend the dry months beside the pools and backwaters left behind. They are scarcest near the city of [[place-tzikin2|Tz'ikin]] and the busy channels, and commonest in the far reaches where the canoes seldom go. A mossback lives for a very long time—nobody has outlived one to count—and some river villages know particular turtles by the shapes of the saplings on their backs.
+Mossbacks live along the [[place-hanaltzuma|Ha'nal Tz'uma]] and its tributaries, where the forest floods each year and drains again. In the flood they swim among the drowned trunks, grazing the water plants and the fruit that falls into the river, and they sleep on the bottom of the quiet channels. When the water falls they walk out over the forest floor, browsing leaves, fungus and the seedlings that come up in the mud, and they spend the dry months beside the pools and backwaters left behind. They are scarcest near the city of [[place-xelem2|Xelem]] and the busy channels, and commonest in the far reaches where the canoes seldom go. A mossback lives for a very long time—nobody has outlived one to count—and some river villages know particular turtles by the shapes of the saplings on their backs.
 
 ## Key Behaviors
 
@@ -264,7 +264,7 @@ A mossback spends most of its life eating and resting. It moves little, keeps to
 
 ## What the River Peoples Do
 
-The river peoples of Tz'ikin keep the forest as a living presence worthy of offering, and they count the old mossbacks among the things in it that must be treated with respect. Canoes give a mossback in the channel room and do not ram, pole or tie up to it, and a paddler who mistakes one for a mudbank and puts his foot on it is thought to have bought himself a run of bad luck as well as a bite. Nobody takes the eggs of a mossback's nest in the villages that keep the custom, and a village that does is spoken of by its neighbors. The turtles' cast shell-plates, found on the forest floor after a dry season, are carved into bowls and ladles, and a cast plate with its moss still on it hangs in some houses over the door. The priest-navigators who read the river say a mossback that walks out of the water early means an early fall in the flood.
+The river peoples of Xelem keep the forest as a living presence worthy of offering, and they count the old mossbacks among the things in it that must be treated with respect. Canoes give a mossback in the channel room and do not ram, pole or tie up to it, and a paddler who mistakes one for a mudbank and puts his foot on it is thought to have bought himself a run of bad luck as well as a bite. Nobody takes the eggs of a mossback's nest in the villages that keep the custom, and a village that does is spoken of by its neighbors. The turtles' cast shell-plates, found on the forest floor after a dry season, are carved into bowls and ladles, and a cast plate with its moss still on it hangs in some houses over the door. The priest-navigators who read the river say a mossback that walks out of the water early means an early fall in the flood.
 
 ## Signs
 

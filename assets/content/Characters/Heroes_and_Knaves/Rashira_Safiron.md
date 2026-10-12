@@ -432,7 +432,7 @@ She knows, too, the trap inside her own situation. To make herself safer she wou
 
 She did not run the way a defector is expected to run. The northern roads to the Vylarian ports are exactly where the Court of the Veil watches most closely, and so Rashîra went the other way—**south, into the [[affiliation-jcklsthmrchs|South Marches]]**, the lawless drylands beyond the matriarchy's frontier where the Veil's writ and its agents have no reach. The Marches are not her destination but her road: beyond them, east, lies [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. She means to cross the lawless country, slip the hunt where no Dómissa's law runs, and carry the purple original to the one power with both the reason and the strength to act on it. Her gambler's route has had a cost she did not intend: it has drawn the hunt south after her, into country where older and bloodier scores than hers lie waiting. She insists she is no traitor but a woman fleeing a crime she could no longer be party to—though she is clear-eyed enough to know that the proof of conscience and the proof of treason look identical when they are bound in the same roll of vellum.
 
-She is hunted from two sides and courted from a third, and trusts none of them. The household of **Mêtríssa Amîthéna of House Thamîrîon** has loosed its deadliest thief-taker, [[being-zahirmlkht|Zahira Malkhet]], to recover or burn the register and silence its keeper. The Vylarian agent [[being-casiaveric|Cassia Verric]] reaches into the Marches to court her—offering protection and passage, while quietly working to close every road east, for Vylaria means the rolls for its own war and will not let them reach Galezkara. And the Marches themselves belong to [[being-yasurajckl|Yâsûra the Jackal]], whose blades have their own bloody business with the Hound.
+She is hunted from two sides and courted from a third, and trusts none of them. The household of **Mêtríssa Amîthéna of House Kêrvanion** has loosed its deadliest thief-taker, [[being-lmbhrpdhnn|Lámbhira Pédhinion]], to recover or burn the register and silence its keeper. The Vylarian agent [[being-casiaveric|Cassia Verric]] reaches into the Marches to court her—offering protection and passage, while quietly working to close every road east, for Vylaria means the rolls for its own war and will not let them reach Galezkara. And the Marches themselves belong to [[being-argyrirjckl|Argýrira the Jackal]], whose blades have their own bloody business with the Hound.
 
 ### Disowned
 
@@ -476,16 +476,16 @@ She is not naive. She knows Vylaria wants the register to wage its own war, not 
 
 ### Enemies
 
-[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]
+[[being-lmbhrpdhnn|Lámbhira Pédhinion, the Hound of the Veil]]
 : The thief-taker loosed by the Court of the Veil to recover or burn the register and silence its keeper. Rashîra has never met her hunter and yet feels she knows her—and suspects that, of everyone in the affair, this Houseless-hearted woman with no profit in the crime might be the one who could be made to understand why she ran. Whether she can turn the Hound before the Hound takes her is the gamble her flight may come down to. What Rashîra cannot know is that the Veil has foreseen exactly that hope and moved to foreclose it: the Hound rides under standing orders never to read the rolls and never to let her quarry speak—so the one argument Rashîra means to make may never reach the only ear that might heed it.
 
 The Court of the Veil
-: Her former masters, the intelligence household of **Mêtríssa Amîthéna of House Thamîrîon**—and the very people the register condemns. To them Rashîra is the worst kind of failure: a trusted keeper who kept too well and walked away with the proof. They want the rolls recovered or destroyed and the Grammatíssa silenced, in that order.
+: Her former masters, the intelligence household of **Mêtríssa Amîthéna of House Kêrvanion**—and the very people the register condemns. To them Rashîra is the worst kind of failure: a trusted keeper who kept too well and walked away with the proof. They want the rolls recovered or destroyed and the Grammatíssa silenced, in that order.
 
 ### Hunters and False Friends
 
 - [[being-casiaveric|Cassia Verric]]: Once Rashîra's lover, and the one who first set her on this road. Posing as a foreign trading factor, Cassia spent months listening to Rashîra's troubles and urging her, ever so gently, to expose the matriarchy's rot—knowing only the general shape of the secret, never its particulars. When Rashîra fled south with the Warrant rather than deliver it into Vylarian hands, the confidante became a hunter: now Cassia courts her former lover with offers of protection and passage while quietly closing every road east, trading on what lay between them to draw Rashîra toward a Vylarian handover. Cassia means the register for Vylaria—a weapon to shatter the Khelâthi–Bethûan alliance—and will never let it reach Galezkara. Rashîra takes her help, when she must, with both eyes open, knowing the warm hand will close into a fist the moment the rolls are within reach.
-- **[[being-yasurajckl|Yâsûra the Jackal]] and the Jackals**: The exile-queen who rules the Marches Rashîra must cross. Yâsûra is no friend, but she hates Bethûa and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road east.
+- **[[being-argyrirjckl|Argýrira the Jackal]] and the Jackals**: The exile-queen who rules the Marches Rashîra must cross. Argýrira is no friend, but she hates Bethûa and hunts the Hound for her own reasons—and a Houseless band that despises the matriarchy might, for the right price or the right grievance, be the unlikeliest of shelters on the road east.
 
 ### Hoped-for Refuge
 
@@ -493,9 +493,9 @@ The Court of the Veil
 
 ## Plot Hooks
 
-1. **The Race East**: Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Khelâthi frontier is watched, bought, or blocked—[[being-casiaveric|Cassia's]] quiet work—while [[being-zahirmlkht|Zahira]] closes from behind. Rashîra needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and Qe'âret's justice.
+1. **The Race East**: Every road through the [[affiliation-jcklsthmrchs|Marches]] toward the Khelâthi frontier is watched, bought, or blocked—[[being-casiaveric|Cassia's]] quiet work—while [[being-lmbhrpdhnn|Lámbhira]] closes from behind. Rashîra needs guides, passage, and protection she cannot pay for in trust, and must decide which devil on the road to bargain with to keep moving toward [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and Qe'âret's justice.
 
-2. **The Hunter Turned**: Cornered at last by [[being-zahirmlkht|Zahira]], Rashîra offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
+2. **The Hunter Turned**: Cornered at last by [[being-lmbhrpdhnn|Lámbhira]], Rashîra offers not a fight but the register itself: _read it, and see what you are sent to bury._ It is her one real hope—that the only pursuer with no stake in the crime can be made to carry the truth instead of burning it. The scene is the hinge of the whole affair.
 
 3. **The Weight of the Original**: The purple roll is nearly lost—a river crossing, a fire, a blade through a saddlebag—and every party in the Marches must suddenly reckon with how fragile the only proof in the world really is. Rashîra, who would rather see it destroyed than fall to Vylaria or the Veil, may have to choose whether to burn her life's last leverage to keep it from the wrong hands.
 

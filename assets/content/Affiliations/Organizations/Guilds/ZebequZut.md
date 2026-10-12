@@ -38,7 +38,7 @@ sohl: {system: {commonSkills: []}}
 
 A treasurer of the [[affiliation-garhalzi|Gár-Hálzi]] at [[place-amqelger|Amqel-Ger]], asked how a newcomer finds the alliance, answers with a shrug: "You do not find it. You find a house, and the house has dined with other houses."
 
-The alliance does its business where nobody keeps minutes: at banquets, on private estates and along the docks of the delta ports. What binds a house to it is practical. The houses protect one another by pact, pass along what they learn about routes and market conditions, and bargain together when a foreign commercial power has to be dealt with. A Halzi'a who crosses them can be made or broken by their combined weight, and the Halzi'a of [[place-garanlaghet|Gar-Anlaghet]] rules a harbor shared with the [[lore-haradianclt|Haradian]] factors and the Zebequ'Zut houses.
+The alliance does its business where nobody keeps minutes: at banquets, on private estates and along the docks of the delta ports. What binds a house to it is practical. The houses protect one another by pact, pass along what they learn about routes and market conditions, and bargain together when a foreign commercial power has to be dealt with. A Halzi'a who crosses them can be made or broken by their combined weight, and the Halzi'a of [[place-garanlaghet|Gar-Anlaghet]] rules a harbor shared with the [[lore-taruzelianclt|Tarûzelian]] factors and the Zebequ'Zut houses.
 
 ## See Also
 

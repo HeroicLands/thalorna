@@ -120,7 +120,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] is more deeply rooted in Heliónis 
 
 ## Relations
 
-The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] is their trading partner across the water to the south.
+The cities stand together with the Aurèldían Pantheon, the Panepistemium and the [[affiliation-vylarinmpr|Vylarian Empire]], and they keep the Ordo at arm's length. [[place-provenzrgn|Provènzia]] is a cultural rival and partner, and the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] is their trading partner across the water to the south.
 
 ## Commerce and Currency
 
@@ -133,6 +133,6 @@ The City-States of Heliónis use the [[lore-vylrncrncy|Vylarian currency]] (Auri
 - [[affiliation-thyrenae|Thyrenae]], [[affiliation-pelagora|Pelagora]], [[affiliation-kalydria|Kalydria]]—the three leading city-states
 - [[affiliation-theradon|Therádon]], [[affiliation-athenikos|Athenikos]], [[affiliation-korinthea|Korinthea]], [[affiliation-kostaros2|Kostaros]]—the other four
 - [[place-provenzrgn|Provènzia Region]]—cultural rival and partner
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—eastern trading partner
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—eastern trading partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods the cities share
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—present, and contested

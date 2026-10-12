@@ -11,7 +11,7 @@ data:
   occupation: Astrologer
   lore: []
   culture: dunhariclt
-  homes: [shamsun]
+  homes: [shebarekh]
   affiliations: {sultntmrdd: {rank: 3}, mithara: {rank: 1}}
   gender: male
   species: humanflk
@@ -466,16 +466,16 @@ Fakhrad's primary motivation is to prove that genuine wisdom and utility need no
 Farmer Torvan of the Eastern Fields
 : A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 
-The Village Elders of [[place-sarath|Sarath]]
+The Village Elders of [[place-sorvadekh|Sorvadekh]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
-Merchant Caravan Master Saffan
+Merchant Caravan Master Yelmâd
 : A trader who conducts seasonal journeys across the sultanate uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
 ### Enemies
 
-Master Astrologer Rashid al-Kharazi
-: A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Rashid has attempted to publicly discredit him on several occasions.
+Master Astrologer Navresh Tahvân
+: A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Navresh has attempted to publicly discredit him on several occasions.
 
 Inquisitor Mazul
 : A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.

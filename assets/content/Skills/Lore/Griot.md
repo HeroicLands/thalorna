@@ -25,6 +25,6 @@ a story may be told well or badly, but a genealogy is either right or wrong, and
 misremembered is a pact broken. Training is measured in decades, and the test of it is
 recitation before people who already know the answer.
 
-Among the [[affiliation-nyalbpnthn|Nyáluba]] the office is senior, and the Bombwe griots hold the
+Among the [[affiliation-nyalbpnthn|Nyáluba]] the office is senior, and the Lobwezi griots hold the
 Long Pact and the genealogies of all five clans—see [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. It is also the office that decides, in practice, who exists: a name the griot will not
 speak in a genealogy is a name the clan no longer carries.

@@ -11,7 +11,7 @@ When the river burst its dikes in the third year of the present reign, the court
 
 ## The Doctrine
 
-The Tānvüri do not believe the Emperor rules because a god loves him, because he beat his enemies, or because a prophecy chose him. He rules because the celestial bureaucracy assigned the post to his lineage at the Great Sorting. Tānlüng classified the elements and appointed overseers to the bureaus; the mortal plane needed an administrator too, and the imperial line was classified as the family fit for the work.
+The Tānvüri do not believe the Emperor rules because a god loves him, because he beat his enemies, or because a prophecy chose him. He rules because the celestial bureaucracy assigned the post to his lineage at the Great Sorting. Tānzhös classified the elements and appointed overseers to the bureaus; the mortal plane needed an administrator too, and the imperial line was classified as the family fit for the work.
 
 The Emperor's title, **Tëngzhëi** (Son of Heaven), is a designation of office, not a claim to divine parentage. It names him heaven's appointed agent on the mortal plane, answerable for keeping the classification in order within his jurisdiction. His health and his spiritual balance matter to the whole empire because his own Lëi is joined to the empire's, and when the administrator falters, what he administers falters with him.
 
@@ -29,20 +29,20 @@ This shapes what the Tānvüri admire. The highest virtue is to keep the pattern
 
 ## The Mandate at Work
 
-**The law.** The Emperor is the highest legal authority and the last court of appeal in the mortal administration, and his decrees carry heaven's sanction. The [[lore-zheklung|Warlords]] govern their provinces by authority he delegates, and their legitimacy runs from the Emperor's appointment, which runs from the Mandate, which runs from heaven.
+**The law.** The Emperor is the highest legal authority and the last court of appeal in the mortal administration, and his decrees carry heaven's sanction. The [[lore-zhekzhos|Warlords]] govern their provinces by authority he delegates, and their legitimacy runs from the Emperor's appointment, which runs from the Mandate, which runs from heaven.
 
-**The burden.** The [[lore-zheklung|Zhëklüng]] are burdened as well as privileged. The imperial family and the Warlords answer to heaven for keeping the classification in order in their lands, and every famine, flood or plague is entered against the institutional ledger. They rule because the post was assigned to them, and the post came with the duty of keeping the sorted world sorted.
+**The burden.** The [[lore-zhekzhos|Zhëkzhös]] are burdened as well as privileged. The imperial family and the Warlords answer to heaven for keeping the classification in order in their lands, and every famine, flood or plague is entered against the institutional ledger. They rule because the post was assigned to them, and the post came with the duty of keeping the sorted world sorted.
 
 **The health of the realm.** The Yātvōr healers of the [[lore-zathuk|Zāthük]] teach that the people's health shows the state of the Mandate. A body is a small copy of the classified cosmos, with organs for elements and channels for the lines of administration. When the Emperor governs well, the people are healthy; when he fails, sickness spreads, carried down from the failing administration into the bodies of his subjects.
 
 ## The Number Nine
 
-Nine is the number of the Mandate and of every rite of the Emperor and the [[lore-zheklung|Zhëklüng]]. It is the highest single digit, the fullest count before the return to one, and it stands for classification made complete. Imperial audiences are convened in nines, offerings are presented in sets of nine, and the celestial calendar marks nine as the number of an administration fulfilled. [[lore-numerology|Numerology]] gives the other numbers.
+Nine is the number of the Mandate and of every rite of the Emperor and the [[lore-zhekzhos|Zhëkzhös]]. It is the highest single digit, the fullest count before the return to one, and it stands for classification made complete. Imperial audiences are convened in nines, offerings are presented in sets of nine, and the celestial calendar marks nine as the number of an administration fulfilled. [[lore-numerology|Numerology]] gives the other numbers.
 
 ## See Also
 
 - [[lore-clstlpnthn|Celestial Pantheon]]—the powers from whom the Mandate comes
-- [[lore-zheklung|Zhëklüng]]—the caste that holds the Mandate
+- [[lore-zhekzhos|Zhëkzhös]]—the caste that holds the Mandate
 - [[lore-celestlrdr|Celestial Order]]—the faith and cosmology behind it
 - [[lore-phlsphylvr|Philosophy of Lëivōr]]—the Lëi that joins the Emperor's health to the empire's
 - [[lore-tanvurdyn|The Opening of the Tānvüri Record]]—the oldest dynasty the archive can date

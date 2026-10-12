@@ -65,7 +65,7 @@ The three states trade extensively, intermarry at the elite level selectively, a
 
 ## Trade
 
-The Northern Fertile Region is the principal southern endpoint of the great trans-Vylarian trade system. Khelâthi grain, gold, papyrus, linen, and artisan goods flow north to [[affiliation-cnfdrtnhrdnstts|Harad]], [[affiliation-vylarinmpr|Vylaria]], and [[place-helionis|Heliónis]]. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okháric cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Khelâthi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
+The Northern Fertile Region is the principal southern endpoint of the great trans-Vylarian trade system. Khelâthi grain, gold, papyrus, linen, and artisan goods flow north to [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[affiliation-vylarinmpr|Vylaria]], and [[place-helionis|Heliónis]]. Bethuan coastal wine, olive oil, preserved fruit, dyed textiles, and metalwork move the same direction. Okháric cattle, horses, leather, wool, and savanna-harvested honey and resins reach the coast through Khelâthi and Bethuan intermediaries. In return, the region imports Ankarian timber, wool, wine, steel, tin, amber, and a steady stream of finished manufactures.
 
 Within the region, the three polities operate an intricate overlapping network of internal trade—Bethuan wine and olive oil in Khelâthi markets, Khelâthi grain in Okháric temple-cities, Okháric horses in Bethuan cavalry stables, and so on—with long-established merchant houses in each capital specializing in the handling of goods from the others.
 

@@ -107,7 +107,7 @@ The sentinel is a tall, heavy, man-shaped figure of iron plates, overlapped and 
 
 ## In the Land
 
-In Tānvür every terrace has a lineage, every lineage has a page, and every page has a seal, and the empire's treasuries and records are guarded with the same care as its borders. The Vëndük, who belong in law to the houses they serve, make the sentinels for those houses: a pair at the inner gate of a Warlord's treasury, one at the door of a ministry's archive, four round the tomb of a [[lore-zheklung|Zhëklüng]] lord. Each stands where it was set and does not leave. A sentinel's orders are written into it by its maker as exactly as a clerk writes a register, and they say whom it admits, by seal or word or face, and whom it stops.
+In Tānvür every terrace has a lineage, every lineage has a page, and every page has a seal, and the empire's treasuries and records are guarded with the same care as its borders. The Vëndük, who belong in law to the houses they serve, make the sentinels for those houses: a pair at the inner gate of a Warlord's treasury, one at the door of a ministry's archive, four round the tomb of a [[lore-zhekzhos|Zhëkzhös]] lord. Each stands where it was set and does not leave. A sentinel's orders are written into it by its maker as exactly as a clerk writes a register, and they say whom it admits, by seal or word or face, and whom it stops.
 
 ## Key Behaviors
 

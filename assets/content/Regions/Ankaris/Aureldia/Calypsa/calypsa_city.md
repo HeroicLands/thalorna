@@ -24,7 +24,7 @@ The Captains' Council governs: the heads of the seafaring houses, with seats wei
 
 ## Making a Living
 
-The harbor is the economy. Calypsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season, which forces capital through the city instead of letting it sit. The island itself produces almost nothing. It is steep, thin-soiled and short of fresh water, so Calypsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from Provènzia, metalwork from [[affiliation-karatas|Karataş]]. The shipping houses jointly maintain a navy out of all proportion to the city's size, built to make raiding Calypsa or its sea-lanes cost more than it returns, and it is the reason the city has stayed free.
+The harbor is the economy. Calypsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped and crushing tariffs on cargo warehoused longer than a season, which forces capital through the city instead of letting it sit. The island itself produces almost nothing. It is steep, thin-soiled and short of fresh water, so Calypsa eats what it buys: grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands]], cloth from Provènzia, metalwork from [[affiliation-orashion|Órashion]]. The shipping houses jointly maintain a navy out of all proportion to the city's size, built to make raiding Calypsa or its sea-lanes cost more than it returns, and it is the reason the city has stayed free.
 
 ## See Also
 

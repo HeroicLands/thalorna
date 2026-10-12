@@ -18,7 +18,7 @@ data:
         - affiliation-garhalzi
         - lore-garauu
       summary: >-
-        Bethûa fights a war of separation from its Helonic metropole, and the Khelâthi queen Meqes XI underwrites it with gold, engineers and loans. Bethûa wins, rebuilds its treasury and its water corps on Khelâthi models, and takes Khelâthi titles for both. It is the eastern counterpart of Provènzia's independence, and comes a century before Harad's.
+        Bethûa fights a war of separation from its Helonic metropole, and the Khelâthi queen Meqes XI underwrites it with gold, engineers and loans. Bethûa wins, rebuilds its treasury and its water corps on Khelâthi models, and takes Khelâthi titles for both. It is the eastern counterpart of Provènzia's independence, and comes a century before Tarûzel's.
       standing: attested
       where:
         locus: [place-bethuargn]
@@ -63,9 +63,9 @@ The war was won, and the peace was built in Khelâthi forms. Bethûa rebuilt its
 
 The same queen chartered the guild of [[affiliation-garmelnu|Gar'Melnu]], so the court that was lending to a foreign sea-power was also putting its own guilds in order.
 
-## A Century Before Harad
+## A Century Before Tarûzel
 
-The separation of Bethûa belongs to the age in which the Vylarian Empire and its neighbors began losing provinces ([[lore-empirdclne|the Decline Begins]]). Provènzia drifted out of its empire's hands without a war and became a realm in all but name; Bethûa, on the southern shore of the same sea, left its own metropole by war, and the Khelâthi court lent the gold openly, as a loan, with its engineers walking the capital's streets. About a century later the court repeated the arrangement for Harad, in secret and under the name of humanitarian commerce.
+The separation of Bethûa belongs to the age in which the Vylarian Empire and its neighbors began losing provinces ([[lore-empirdclne|the Decline Begins]]). Provènzia drifted out of its empire's hands without a war and became a realm in all but name; Bethûa, on the southern shore of the same sea, left its own metropole by war, and the Khelâthi court lent the gold openly, as a loan, with its engineers walking the capital's streets. About a century later the court repeated the arrangement for Tarûzel, in secret and under the name of humanitarian commerce.
 
 ## What It Left
 

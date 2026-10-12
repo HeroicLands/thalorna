@@ -27,7 +27,7 @@ The dominant pantheon of western [[place-ankrscntnnt|Ankaris Continent]] and [[p
 
 **Secondary influence:**
 
-- [[affiliation-cnfdrtnhrdnstts|Harad]]—dominant in western coastal cities (imposed during Vylarian period)
+- [[affiliation-cnfdrtntrzlnstts|Tarûzel]]—dominant in western coastal cities (imposed during Vylarian period)
 - [[affiliation-kalihara|Kalihara]]—port cities host Aurèldían temples serving foreign merchants and cosmopolitan populations; the interior follows its own ancient tradition (see [[affiliation-kalihara|Kalihara]])
 - [[place-vrystwald|Vrystwald]]—southern tribes influenced by Vylarian contact
 
@@ -55,7 +55,7 @@ An eastern pantheon centered on cosmic balance, fire, and light. Predates Vylari
 
 **Secondary influence:**
 
-- Eastern [[affiliation-cnfdrtnhrdnstts|Harad]]—significant following among eastern city-states and hill tribes
+- Eastern [[affiliation-cnfdrtntrzlnstts|Tarûzel]]—significant following among eastern city-states and hill tribes
 - [[place-byzariargn|Byzaría]]—presence among merchant communities with eastern connections
 
 ## [[affiliation-khelathpnthn|Khelâthi Pantheon]]
@@ -66,9 +66,9 @@ The ancient faith of the great southern empire, centered on solar worship and th
 
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—state religion of the empire
 
-## [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
+## [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]
 
-The **Celestial Order** (Tëngvōk Vān Lëi, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+The **Celestial Order** (Tëngvōk Rūrk Lëi, "The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
 
 **Primary region:**
 

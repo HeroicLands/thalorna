@@ -39,23 +39,23 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
-      K'ul Ix'lan: >-
+      Ch'alix Ix'lan: >-
         Keeper of the paths—head of the branch in a city-state, and the priest who answers for a causeway that has been allowed to fail.
       Warden of the White Roads: >-
         Holds a named stretch of causeway, its surface, its drainage and the shrines along it, and reports its condition each season.
@@ -101,7 +101,7 @@ The priesthood is unique in being partially distributed and mobile. Road shrines
 
 That message network is the branch's real asset. Reports move from shrine to shrine by relay and are consolidated by the **Keeper of the Traveller Rolls**, so that the priesthood in any large city knows, within days, which roads are cut, which cities are mustering and what is moving on the causeways. Kings pay for portions of this and never for all of it. The branch's standing rule is that the roads belong to the god and the information belongs to the roads, which is understood on all sides to mean it sells to everyone.
 
-Because their priests cross borders continually, the road priests are the tradition's habitual mediators. A dispute between two city-states is commonly opened by a K'ul Ix'lan, since he can be received in both without either conceding precedence, and the branch has grown practiced at carrying terms it has no authority to set.
+Because their priests cross borders continually, the road priests are the tradition's habitual mediators. A dispute between two city-states is commonly opened by a Ch'alix Ix'lan, since he can be received in both without either conceding precedence, and the branch has grown practiced at carrying terms it has no authority to set.
 
 Recruitment is unlike any other branch's: it takes runners, porters, caravan guards and merchants' sons, people already at home on the road, and teaches them the calendar afterward. The scribes consider its priests barely literate. The branch replies that a codex has never yet walked from Ix'ilankul to the coast.
 
@@ -109,7 +109,7 @@ Recruitment is unlike any other branch's: it takes runners, porters, caravan gua
 
 With [[affiliation-ixilanchalix|Ix'ilan Ch'alix]] the branch has a working partnership of long standing: astronomers lay the lines that make a sacbé run straight, and the **Reckoner of Distances** works the stages with them. In return the road priests carry the astronomers' corrections and observations between observatories, which is the only reason a continent-wide calendar is possible at all.
 
-The branch is [[affiliation-kanixhakan|K'anix Ha'kan]]'s carrier: the cacao trade in particular moves on its causeways and under its protection, and the Tz'ultzik and the road priests are frequently the same families. It supplies [[affiliation-kayikchul|K'ayik Ch'ul]] with copal, ceiba and mahogany from the far reaches of the continent, and a cut road is felt in the fire-temples within the month.
+The branch is [[affiliation-kanixhakan|K'anix Ha'kan]]'s carrier: the cacao trade in particular moves on its causeways and under its protection, and the Tz'ultzik and the road priests are frequently the same families. It supplies [[affiliation-kayikchalix|K'ayik Ch'alix]] with copal, ceiba and mahogany from the far reaches of the continent, and a cut road is felt in the fire-temples within the month.
 
 With [[affiliation-piqalkulqat|P'iqal Kul'qat]] the relationship is one of dependence and complaint. The builder-priests raise and repair the causeways; the road priests must live with what is built and are forever reporting drainage that does not drain. Allocation of masons between new work and road repair is a standing annual quarrel in every city-state.
 

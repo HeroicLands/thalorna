@@ -11,7 +11,7 @@ data:
   occupation: Innkeeper
   lore: []
   culture: byzarianclt
-  homes: [gumushisar2]
+  homes: [argyrteikhos2]
   affiliations: {byzarianlg: {rank: 3}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
@@ -417,7 +417,7 @@ Phótianos stands 5'8" tall with a heavy build. He has light weathered skin, gra
 
 # Dossier {#dossier}
 
-Phótianos was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nékropolis. His elder brother inherited the family's trading operations while Phótianos, spirited and imaginative from youth, apprenticed with his mother's brother Demetríos, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
+Phótianos was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nýkhtion. His elder brother inherited the family's trading operations while Phótianos, spirited and imaginative from youth, apprenticed with his mother's brother Demetríos, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is a sanctuary, a stage where the great and small dramas of human life unfold.
 
 At thirty-two, following Demetríos's death, Phótianos inherited and expanded the Starlight Crown, transforming it from a simple waystation into one of the most famous inns in the Byzarian League. Over the following decades, he earned his name through the rare art of hospitality—the subtle skill of making every guest feel simultaneously welcomed and known.
 

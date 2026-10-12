@@ -13,7 +13,7 @@ Byzarian culture is the culture of the bargain. The tongue has more words for ki
 
 ## The Guild Is the Skeleton
 
-Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the great cities opens doors from [[affiliation-cnfdrtnhrdnstts|Harad]] to [[affiliation-jurthatempr|Jürthāt]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
+Every trade is chartered, and every charter carries privileges and obligations in that order and in writing. A master's seal from one of the great cities opens doors from [[affiliation-cnfdrtntrzlnstts|Tarûzel]] to [[affiliation-jurthatempr|Jürthāt]], and it does so because the guild behind it will ruin a member who discredits it faster than any magistrate could.
 
 A Byzarian is therefore placed by his trade before his family and long before his city. He introduces himself by craft, names his master, and expects the same in return; a man who cannot name a guild is a man nobody knows how to deal with.
 
@@ -21,7 +21,7 @@ Apprenticeship is long and is understood as a kind of adoption. A master owes hi
 
 ## Two Byzarías
 
-The coast and the caravan cities are a deep mixture—Helonic, Haradi, Khazryn and Vylarian families intermarried for generations, with Dunhari and Khazryni merchant quarters that keep their own tongues, faiths and law and are left to do it.
+The coast and the caravan cities are a deep mixture—Helonic, Tarûzeli, Khazryn and Vylarian families intermarried for generations, with Dunhari and Khazryni merchant quarters that keep their own tongues, faiths and law and are left to do it.
 
 The plateau is another country: herding clans and farming villages, more homogeneous and considerably more conservative, speaking with an upland accent and regarding the coastal cities as foreigners who happen to buy their wool. The plateau feeds and clothes the coast and resents it; the coast pays the plateau and patronizes it. Neither can do without the other, and both say so only when drunk.
 

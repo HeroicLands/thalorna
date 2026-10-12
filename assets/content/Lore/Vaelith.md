@@ -23,7 +23,7 @@ Vaelith turns new to new in exactly thirty days, and it was new on **720/1/1**, 
 **For the GM:** A campaign that opens on that date begins under a new moon, on the first morning of spring.
 :::
 
-The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a smaller moon would raise. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of [[affiliation-kinultqan|K'in'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
+The orbit's circularity keeps the tides regular—no month runs a stronger tide than any other—though a moon this large pulls harder than a smaller one would: roughly a quarter again the strength a smaller moon would raise. The same orbit is inclined, so Vaelith does not cross the sun's path or the world's shadow at every turn, and eclipses are rare. Nobody has charted when the next one falls; the corpus is consistent that this is knowledge closely held and hard-won, never a table to consult. What is settled is the shape of one when it comes: at 388,600 kilometers a 3,800-kilometer disc is a hair wider in the sky than an ordinary sun, so a solar eclipse on Thalorna is always total. Nothing here is ever merely a ring of fire, and the priesthood of [[affiliation-tzenultqan|Tz'en'ul Tq'an]] rests its authority on predicting exactly that kind of rare and total darkness.
 
 ## The Five Days, Three Times Over
 
@@ -35,7 +35,7 @@ The same five-day remainder, carried across years instead of months, gives Thalo
 
 **Vaelith** is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
 
-**Tz'uqal** is Itzani for moonlight, glossed beside _K'inix_ (Sunlight) and _Ix'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, the [[affiliation-naliktzuqal|Dreamer in Moonlight]], whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by the [[skill-chlxtsbscrpt|Chalix Tsib]] script.
+**Tz'uqal** is Itzani for moonlight, glossed beside _K'inix_ (Sunlight) and _Ix'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, the [[affiliation-naliktzuqal|Dreamer in Moonlight]], whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by the [[skill-chlxplmscrpt|Chalix Tsib]] script.
 
 **Yütvëi** is a Tānvüri deity, [[affiliation-yutvei|Yütvëi Tëngyōk]], Moon Jade of the Heavenly Court, the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tānvüri woman, meaning Moon Jade.
 

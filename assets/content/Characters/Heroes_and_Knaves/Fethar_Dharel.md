@@ -419,7 +419,7 @@ At seventeen, Féthar left home with his family's reluctant blessing, traveling 
 
 ### Aboard the Tamzîr
 
-Féthar joined the Tamzîr seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzîr's own smuggling). Shâ was skeptical of the cheerful Provenzian with the ridiculous clothing, but Féthar's first demonstration of his skills—threading the Tamzîr through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzîr through impossible waters, it is Féthar.
+Féthar joined the Tamzîr seven years ago, hired as a replacement pilot after the previous one was arrested for smuggling (independently of the Tamzîr's own smuggling). Bû was skeptical of the cheerful Provenzian with the ridiculous clothing, but Féthar's first demonstration of his skills—threading the Tamzîr through a reef passage at night during a storm to escape an imperial patrol—ended all debate. He is, by any measure, a crackerjack pilot. If anyone can navigate the Tamzîr through impossible waters, it is Féthar.
 
 ### Marriage
 
@@ -463,4 +463,4 @@ Pilot of the **Tamzîr**. Husband of **Sélvara Válskyr**. He maintains occasio
 
 2. **River and Sea**: Féthar receives word that his hometown is threatened by flooding after a dam collapse upriver. His family needs help, and his intimate knowledge of the river system could save lives—but reaching them means leaving the Tamzîr at a critical moment.
 
-3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Harad and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.
+3. **The Uncharted Passage**: An ancient chart surfaces suggesting a hidden sea passage through a treacherous archipelago that could cut weeks off the journey between Tarûzel and the northern ports. Only a pilot of extraordinary skill could navigate it. The potential profit is enormous, but the chart may be incomplete—or a trap.

@@ -265,7 +265,7 @@ When Helonic names are used in Bethuan contexts, they undergo regular phonetic s
 | Final -os (masculine)                  | Lengthens to -ôs; in formal feminine context, recast to -a | _Hassârîon_ > _Hasarîa_ (formal)          |
 | Short vowels before consonant clusters | Lengthened, cluster simplified                             | _Jádhâros_ > _Jâdhâros_                   |
 | Sibilant s                             | More fricative, dental articulation                        | _Sàbìron_ > _Thàbìron_ (in some contexts) |
-| Theta (th)                             | Frequent in formal feminine register                       | _Thammâs_, _Thêbas_ (preserved)           |
+| Theta (th)                             | Frequent in formal feminine register                       | _Thammâs_, _Tháliminos_ (preserved)       |
 
 ### Bethuan-Specific Naming Conventions
 
@@ -296,6 +296,7 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Chánnâon
 - Dámàsûn
 - Dûmàrês
+- Érkhiros
 - Fàrânis
 - Fârìs
 - Gábêros
@@ -303,6 +304,8 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Ghánâbìs
 - Ghánâdís
 - Ghârîdos
+- Ghérvanos
+- Ghígnirion
 - Habìdon
 - Hàdhîros
 - Hámûdês
@@ -322,8 +325,10 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Khalîdrós
 - Khalìphon
 - Khalîros
+- Krênirês
 - Lamîkrìs
 - Lámîros
+- Lôphiros
 - Lôthànos
 - Lôthîon
 - Mákrion
@@ -331,7 +336,6 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Marînès
 - Mazàlos
 - Máḥânês
-- Maḥmûdrós
 - Mubàron
 - Nâbìros
 - Nàdhûros
@@ -342,7 +346,6 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Rákhìmês
 - Ramîkòs
 - Râshámês
-- Rashìdós
 - Rísàkós
 - Rîzânis
 - Rómèlios
@@ -365,22 +368,19 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Tarîkón
 - Tâwâres
 - Thábìlos
+- Tháliminos
 - Thammâs
 - Thârkós
-- Thêbas
 - Thîbarìs
 - Thùbárion
 - Thùbârios
 - Udrìsôs
 - Uzbarón
 - Wîssâros
-- Yàkôbis
 - Yássìlos
 - Yázîdos
-- Yússûfàn
 - Zádìmêros
 - Zàfîran
-- Zákàrios
 - Zárìthón
 
 ### Female Given Names
@@ -392,8 +392,9 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Amànta
 - Amîthàra
 - Amîthéna
+- Ánevira
+- Argýrira
 - Ázimina
-- Ázîna
 - Ázîta
 - Azrìta
 - Bâkrìa
@@ -408,6 +409,7 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Ghâmîra
 - Ghânêsa
 - Ghânêtha
+- Ghéranira
 - Hâbbìya
 - Hàssìra
 - Ibêtha
@@ -421,6 +423,7 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Júthâra
 - Kafîra
 - Khálîra
+- Lámbhira
 - Lámîa
 - Lamînâ
 - Lámîtha
@@ -433,10 +436,12 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Màràtha
 - Mûfîra
 - Mûnêtha
+- Mýrthana
 - Nâbîra
 - Nâfîya
 - Namîtha
 - Námîtha
+- Nêvarina
 - Nìmaris
 - Nûbàris
 - Nûfîsa
@@ -454,10 +459,10 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Safàra
 - Safìra
 - Safîya
-- Sahîra
 - Sâmîa
 - Sàmîra
 - Shárîna
+- Sphrâdira
 - Sûfìra
 - Sûfìtha
 - Sûlîtha
@@ -465,19 +470,14 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Tabîra
 - Tàbîsa
 - Tádîra
-- Tàlîma
 - Tàlîra
 - Tamîtha
 - Tázinâ
 - Tázîtha
-- Thêrèssa
 - Thûnîa
 - Thûressà
 - Yassìna
-- Yâsûra
 - Yàzîna
-- Zahìra
-- Zahîra
 - Zàhrîna
 - Zâhrîta
 - Zâmîra
@@ -531,6 +531,7 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Jûmînos
 - Jûmîthôs
 - Kashîrôs
+- Kêrvanion
 - Khalîthôn
 - Khalîvras
 - Khâshîdôs
@@ -568,7 +569,6 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Tâmîdês
 - Tázinês
 - Thâmîdon
-- Thamîrîon
 - Tûmârîs
 - Ûmârîdês
 - Ûmârîthês

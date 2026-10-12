@@ -22,7 +22,7 @@ data:
       - level: 1
         title: Approached
         description: >-
-          Under recruitment and not yet committed. The cult draws from the empire's cast-aside—collapsed Shükrën households, Nützōk whose classification has drifted past recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
+          Under recruitment and not yet committed. The cult draws from the empire's cast-aside—collapsed Shüknürk households, Nützōk whose classification has drifted past recovery, ruined Zhëkzhös younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
       - level: 2
         title: Committed
         description: >-
@@ -39,7 +39,7 @@ data:
   economy: []
   lore: []
   parents: []
-  relations: {yokveng: aligned, tngvkvnlei: nemesis}
+  relations: {yokveng: aligned, tngvkrrklei: nemesis}
   packFolder: organizations
 sohl: {system: {commonSkills: [sohl-sohl-skill-melee, sohl-sohl-skill-dscr, sohl-sohl-skill-srvl]}}
 ---
@@ -59,7 +59,7 @@ This posture—destruction as its own justification—makes the Nüszōk Rëit t
 
 ## Origins and Recruitment
 
-The cult draws from the empire's cast-aside: indebted Shükrën whose households have collapsed, Nützōk whose classification has drifted into irrecoverable disgrace, Zhëklüng younger sons whose inheritance prospects have been ruined by the [[lore-veizhatret|Vëi Zhāt Rëit]], and above all the vast ranks of the condemned—those whose moral ledgers have accumulated debits so severe that no ritual redemption is possible and no ancestor will advocate for them. The cult meets these people where imperial religion has given up on them, and offers them something imperial religion refuses: the assertion that their condemnation is not their failure but the failure of the system that condemned them.
+The cult draws from the empire's cast-aside: indebted Shüknürk whose households have collapsed, Nützōk whose classification has drifted into irrecoverable disgrace, Zhëkzhös younger sons whose inheritance prospects have been ruined by the [[lore-veizhatret|Vëi Zhāt Rëit]], and above all the vast ranks of the condemned—those whose moral ledgers have accumulated debits so severe that no ritual redemption is possible and no ancestor will advocate for them. The cult meets these people where imperial religion has given up on them, and offers them something imperial religion refuses: the assertion that their condemnation is not their failure but the failure of the system that condemned them.
 
 Recruitment is not loud. It moves through the margins—in the last taverns of disgraced merchant quarters, in the work camps on the empire's southern frontiers, in the anonymous districts where the classification-failed congregate. Those who join do not usually leave. The cult takes care to ensure that its recruitment process culminates in acts of irreversible commitment—a public blasphemy, a petty sabotage of a local temple, a first small act of violence—after which the recruit's standing in the mainstream order cannot be recovered.
 
@@ -73,7 +73,7 @@ Four of the five recognized Demon Lords are central to the cult's devotional lif
 
 **[[affiliation-nushot|Nüshöt]]—The Burning Dissolution, The Unmaker.** The cult's primary patron. Nüshöt's domain is the annihilation that dissolves without remainder—destruction that does not feed a cycle of renewal, does not serve any subsequent creation, does not participate in any process larger than itself. This is, precisely, the cult's ideological commitment: _destruction total and everlasting_. Nüshöt was born from a jurisdictional failure between the Bureau of Returns and the Bureau of Transformation—a fire that was supposed to purify and instead annihilated—and the cult understands this origin as the cosmos's own demonstration that the classification system produces the very forces that will unmake it. The cult's suicide incendiaries and its archive-burnings are dedicated to Nüshöt; the small rituals performed before a strike invoke the Unmaker's name.
 
-**[[affiliation-vekthor|Vëkthōr]]—The Forger of False Records, The Counterfeit Scribe.** The cult's second great patron, and the celestial of its bureaucratic operations. Vëkthōr was once an Archival Scribe of the Bureaucracy who began editing classifications, producing forgeries that the Ministry could not distinguish from authentic records, and eventually departed for the Yokveng as an independent information-broker to the Infernal Realms. The cult's agents within the imperial bureaucracy—the clerks who mis-file, the copyists who duplicate, the registration functionaries who corrupt the ledgers—understand their work as service to Vëkthōr. Small Vëkthōr-sigils are cut into the undersides of desks and hidden in the bindings of defaced registers; a successful archive corruption is said to be "signed" by the Forger.
+**[[affiliation-vekzat|Vëkzāt]]—The Forger of False Records, The Counterfeit Scribe.** The cult's second great patron, and the celestial of its bureaucratic operations. Vëkzāt was once an Archival Scribe of the Bureaucracy who began editing classifications, producing forgeries that the Ministry could not distinguish from authentic records, and eventually departed for the Yokveng as an independent information-broker to the Infernal Realms. The cult's agents within the imperial bureaucracy—the clerks who mis-file, the copyists who duplicate, the registration functionaries who corrupt the ledgers—understand their work as service to Vëkzāt. Small Vëkzāt-sigils are cut into the undersides of desks and hidden in the bindings of defaced registers; a successful archive corruption is said to be "signed" by the Forger.
 
 **[[affiliation-zhaksok|Zhāksōk]]—The Unsorted, The Walking Contradiction.** The cult's patron of the classification-condemned. Zhāksōk is an entity that defies all classification—an open case never closed during the Great Sorting, whose categorical status cannot be adjudicated by any Ministry and whose very existence is a standing refutation of the system's completeness claims. The cult's recruits, many of whom have been classified into states of disgrace or limbo from which no return is possible, find in Zhāksōk a celestial figure whose nature validates their own. Zhāksōk is invoked by those whose moral ledgers are beyond redemption: _if an entity like this exists among the celestials, what is my condition against that?_
 
@@ -130,7 +130,7 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 - [[affiliation-heklotzhak|Hëk Lōt Zhāk]]—The Black Lotus Society, the cult's transactional ally
 - [[affiliation-hekzhak|Hëk Zhāk]]—The Shadow Sect, the rival subversive organization
 - [[affiliation-nushot|Nüshöt]]—The Unmaker, the cult's primary celestial patron
-- [[affiliation-vekthor|Vëkthōr]]—The Forger of False Records, patron of the cult's bureaucratic sabotage
+- [[affiliation-vekzat|Vëkzāt]]—The Forger of False Records, patron of the cult's bureaucratic sabotage
 - [[affiliation-zhaksok|Zhāksōk]]—The Walking Contradiction, patron of the classification-condemned
 - [[affiliation-hurnzhuk|Hürnzhük]]—The First Refusal, the cult's foundational theological figure
 - [[affiliation-dokyok|Dōkyök]]—The Lost Road, lesser patron of misdirection and escape

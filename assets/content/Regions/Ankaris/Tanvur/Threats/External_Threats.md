@@ -7,7 +7,7 @@ tags: [gm]
 data: {packFolder: threats, culture: tanvuriclt}
 ---
 
-The [[affiliation-tanvurempr|Empire of Tānvür]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-bathurhurtzhuk|Bāthür Hürtzhük]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
+The [[affiliation-tanvurempr|Empire of Tānvür]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.
 
 ## Thātvōng
 
@@ -21,7 +21,7 @@ West of the mountains lies the [[place-khzryndsrtrgn|Khazryn]], a waste of ruins
 
 ## See Also
 
-- [[being-bathurhurtzhuk|Bāthür Hürtzhük]]—the northern warlord
+- [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]]—the northern warlord
 - [[place-jurthatrgn|Jürthāt Region]]—the archipelago across the strait
 - [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]—the enemies within the empire
 - [[affiliation-tanvurempr|Empire of Tānvür]]—the empire under pressure

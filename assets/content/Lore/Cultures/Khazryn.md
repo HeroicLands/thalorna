@@ -135,7 +135,7 @@ Most Tellumi are not in the free oases at all. They are craftsmen, merchants and
 
 A Tellumi is courteous, exact and reserved. He keeps two sets of records and two calendars: the ancient Tellumi year of twelve thirty-day months with a five-day festival at the spring equinox, and whatever the magistrate uses. He does not discuss politics with an Ātárzád and discusses little else with another Tellumi. He pays what is assessed, on time, and keeps the receipt, because a subject population with imperfect paperwork can be robbed legally.
 
-He is also quietly connected. The exile houses fund shrines and schools in Amradad and the Haradian ports, and maintain a network of agents who keep the Council informed about conditions in the lost cities. A Tellumi merchant in Ashkarad may be nothing more than a merchant, or he may be the reason a prince in exile knows the grain price before the governor does.
+He is also quietly connected. The exile houses fund shrines and schools in Amradad and the Tarûzelian ports, and maintain a network of agents who keep the Council informed about conditions in the lost cities. A Tellumi merchant in Ashkarad may be nothing more than a merchant, or he may be the reason a prince in exile knows the grain price before the governor does.
 
 The same people do not all answer to the same authority. In the occupied cities, Mōbads hear community cases under the magistrate and Tellumi households pay the water-tax; in the free oases, princes govern, households maintain channels by turns, and the Council coordinates the houses without ruling them. A Tellumi's obligations depend on where the household lives and what standing it holds.
 

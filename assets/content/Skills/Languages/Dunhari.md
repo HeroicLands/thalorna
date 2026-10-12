@@ -32,7 +32,8 @@ The language features extensive vocabulary for desert navigation, astronomy, wat
 Dunhari employs a moderate consonant inventory with emphasis on continuants and softer articulations:
 
 - **Stops**: /p/, /b/, /t/, /d/, /k/, /g/, /q/ (uvular)
-- **Fricatives**: /f/, /z/, /sh/, /kh/ (velar), /gh/ (voiced velar)
+- **Fricatives**: /f/, /v/, /s/, /z/, /h/, /sh/, /zh/, /kh/ (velar), /gh/ (voiced velar)
+- **Affricate**: /j/
 - **Nasals**: /m/, /n/
 - **Liquids**: /r/, /l/
 - **Semivowels**: /w/, /y/
@@ -86,7 +87,7 @@ Dunhari nouns are marked for gender (masculine/feminine/common), number (singula
 
 Clan names (tribal affiliations) frequently employ suffixes:
 
-- **-an** (masculine tribal marker)—_Afsharan, Faradân, Vardôzan, Tamârân_
+- **-an** (masculine tribal marker)—_Afsharan, Ferudân, Vardôzan, Tamârân_
 - **-i** or **-î** (common or feminine clan marker)—_Gîrânî, Golshanî, Sâranî, Nazârî_
 - **-id** (descendant-of marker)—_Razdânak, Zârîd, Darvârid, Mazânid_
 
@@ -132,21 +133,25 @@ Amradi is the register of poetry competitions, diplomatic negotiations, and cour
 
 ## Sample Phrases
 
-1. **Khordesh-ân marûn dânâz**—"The desert teaches patience" (lit. "Desert-place knowledge gives")
+1. **Khordesh-ân velmûz dânâz**—"The desert teaches patience" (lit. "Desert-place knowledge gives")
 
-2. **Shavûr khorvaz mirân sâlâkh**—"Honor flows like water through the seasons" (traditional nomadic saying)
+2. **Shuvôr khorvaz mirân sezhâkh**—"Honor flows like water through the seasons" (traditional nomadic saying)
 
-3. **Farrah golvân âzardam**—"Beauty endures in memory" (poetic maxim)
+3. **Forrêh golvân âzardam**—"Beauty endures in memory" (poetic maxim)
 
 4. **Mehrûn parvandar sâzâdar**—"The moon guides the truthful traveler" (navigational blessing)
 
-5. **Shirzâri magûn varîdân**—"The lion's courage inspires generations" (courtly saying)
+5. **Shirzâri zorvûn varîdân**—"The lion's courage inspires generations" (courtly saying)
+
+## Lexicon
+
+The [[doc-dunharilexcn|Dunhari Lexicon]] holds the stems of the tongue, the endings that build offices, lineages and place names from them, and the register of every name the setting gives in the Dunhara and Amradad.
 
 ## Related Languages
 
 Dunhari is the primary member of the **Desert language family**, a classification that encompasses related languages of the central Ankarian desert regions. The family includes several extinct languages and at least one other modern language with limited speakers.
 
-The language shows distant connections to Haradi through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
+The language shows distant connections to Tarûzeli through ancient shared vocabulary related to trade and navigation, but these represent contact rather than genetic relationship.
 
 ## Naming Traditions
 
@@ -185,12 +190,12 @@ In courtly settings, individuals may employ extended genealogical introductions 
 
 ### Male Given Names
 
-Razâshar, Vahdarun, Tirsad, Korushân, Mehrûn, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farhazar, Mithran, Sivanash, Shavûr, Kâvehân, Rostadar, Samardan, Harûmaz, Kamîd, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darîzhan, Ahraz, Khoshâr, Bashvard, Tahruz, Khormân, Shâbâr, Âzarvan, Pardisâk, Kayvonad, Mahvarad, Shurnav, Eskandâm, Parvizhân, Behfard, Arshanâk, Darmûn, Rostash, Vardun, Firanash, Tirâshân, Khorvaz, Qarmûz, Armanad, Firâvâd, Saidan, Mehrâd, Manushir, Jamrosh, Fakhrad, Nimrash, Tavîshar, Faradûn, Zârmav, Nevarân, Rushâk, Rashâd, Sâlâkh, Parmor, Sirâm, Tohmar, Bahrazad, Parvash, Ashûdar, Asfâr, Givandar, Qavâdar, Hamzûn, Razân, Bâfrâz, Shahran, Pirvand, Davûran, Zamirad, Afshanâr, Tîman, Hûrdan, Namvar, Farzahan, Bazûdar, Damân, Râmûz, Siaran, Âzardam, Varinash, Shâdezar, Khâvand, Dâshîr, Tarnav, Eskirân, Zimrân, Khîmar, Zandarûd, Mehrûnash, Hadûshan, Kâmidan
+Razâshar, Vahdarun, Tirsad, Korushân, Mehrûn, Khordesh, Yazharan, Pashman, Barmokh, Artavin, Farhazar, Torvâsh, Sivanash, Shuvôr, Kâvehân, Rostadar, Samardan, Harûmaz, Kamîd, Goshanad, Jamaris, Zarvash, Valhamin, Nersad, Darîzhan, Ahrash, Khoshâr, Bashvard, Tahruz, Khormân, Shâbâr, Âzarvan, Pardisâk, Kayvonad, Mahvarad, Shurnav, Eskandâm, Parvizhân, Behfard, Arshanâk, Darmûn, Rostash, Vardun, Firanash, Tirâshân, Khorvaz, Qarmûz, Armanad, Firâvâd, Saidan, Venrâd, Manushir, Jamrosh, Fakhrad, Nimrash, Tavîshar, Faradûn, Zârmav, Nevarân, Rushâk, Rashâd, Sezhâkh, Parmor, Sirâm, Tohmar, Bahrazad, Parvash, Ashûdar, Asfâr, Givandar, Qavâdar, Hamzûn, Razân, Bâfrâz, Shahran, Pirvand, Davûran, Zamirad, Afshanâr, Tîman, Hûrdan, Nemvôr, Farzahan, Bazûdar, Damôz, Râmûz, Siaran, Âzardam, Varinash, Shâdezar, Khâvand, Dâshîr, Tarnav, Eskirân, Zimrân, Khîzhor, Zandarûd, Mehrûnash, Hadûshan, Kemûdan
 
 ### Female Given Names
 
-Farina, Rosharan, Azadâm, Shavinêh, Dehna, Mazinân, Mitharâ, Tâvura, Shahrânaz, Samerâ, Azârin, Delânash, Golrân, Yasâra, Zaranâh, Ashfân, Khârânah, Darvîn, Lâyah, Nahedan, Sormina, Mahrûsh, Shirân, Dayanâ, Farvân, Nushir, Khazâra, Zarhâm, Parivin, Bîbân, Khavârî, Shîrnah, Farrah, Rûshanah, Parnavâ, Givanû, Sarnish, Milasâh, Razanash, Zarâneh, Marvînah, Gulrânah, Tavâran, Mahsara, Arinah, Nazîra, Khorsân, Tâshnêh, Rudâvah, Bahâram, Girandân, Parvanan, Dunash, Afzandah, Shafîn, Yasrâ, Aradûn, Basra, Golbârâ, Kamînah, Nîrah, Paryan, Tîrva, Tûvân, Salmâra, Girnah, Tîrâs, Namina, Parvârin, Sharmînah, Sarmanâz, Mazanash, Zârîbah, Shazin, Âzanîn, Borvah, Daryash, Lâmaza, Dûrnash, Kamûna, Asharân, Dîvaran, Kavakht, Shakîvah, Tûranah, Banûsh, Manânâ, Zalarân, Kamrîn, Rozina, Farâra, Gîdana, Narmî, Tarasha, Mardânah, Âshrâ, Shavrî, Dîvanah, Shandara, Navîna
+Fazhina, Rosharan, Azadâm, Shavinêh, Dehna, Mazinân, Mitharâ, Tâvura, Shahrânaz, Samezâ, Azârin, Delânash, Golrân, Yesêra, Zaranâh, Ashfân, Khârânah, Dervûn, Lâyah, Nahedan, Sormina, Mahrûsh, Shirân, Deyênâ, Farvân, Nushir, Khozûra, Zarhâm, Parivin, Bîbân, Khavârî, Shîrnah, Forrêh, Rûshanah, Parnavâ, Givanû, Sarnish, Milasâh, Razanash, Zarâneh, Marvînah, Gulrânah, Tevûran, Mahsara, Arinah, Nazîra, Khorsâsh, Tâshnêh, Rudâvah, Bahâram, Girandân, Parvanan, Dunash, Afzandah, Shafîn, Yesrê, Aradûn, Shosra, Golbârâ, Kamînah, Nîrah, Paryan, Tîzhva, Tûvân, Salmâra, Girnah, Tizhâs, Nomêna, Parvârin, Sharmînah, Sarmanâz, Mazanash, Zârîbah, Shazin, Âzanîn, Borvah, Daryash, Lemêza, Dûrnash, Komêna, Asharân, Dîvaran, Kavakht, Shakîvah, Tûranah, Banûsh, Menûnâ, Zalarân, Kamrîn, Rozina, Farâra, Gîdana, Narzhî, Tarasha, Mardânah, Eshrô, Shavrî, Dîvanah, Shandara, Nevûna
 
 ### Clan and Tribal Names
 
-Afsharan, Faradân, Vardôzan, Tamârân, Khavâr, Zandûn, Barmandan, Qarûsh, Kâveran, Razdânak, Dûrmand, Parivân, Âzardan, Gîrânî, Shâdâvân, Vahdrak, Zarnûsh, Gholshân, Darvârid, Kamûd, Golshanî, Pâresak, Sardâm, Khorsand, Zârîd, Bâzâkan, Afrûn, Mazânid, Gorâvân, Parvandar, Sârânî, Turvand, Parvaran, Mahvârân, Shâmâyân, Razhak, Khânân, Vârakan, Kavirân, Mârân, Shiradar, Darvâni, Khosrûn, Gorgaz, Shirzâri, Zarmânâ, Paridan, Gazvân, Fârûmak, Bârâvi, Tamîran, Dargan, Shîvash, Mervaran, Gohârân, Bâkârin, Nazârî, Padvân, Nârshad, Sîvadar, Arshîn, Tâmîrh, Sobûkan, Sâhâz, Bârân, Mahkûn, Tavrûd, Ashazad, Khâvandar, Varîdân, Kamruz, Tahvân, Darûsh, Shahrân, Farrud, Pâdishân, Khânumân, Namirûn, Shahrûn, Gavandar, Narsâfî, Mehrûn, Shavân, Parnâzar, Shârman, Bargâz, Zânavi, Balârî, Khafûr, Khôrmaz, Shirânâ, Farûmâz, Darkarân, Mushtân, Tahrîdan, Gîldân, Namirân, Khushâm, Sâzâdar, Pârkad
+Afsharan, Ferudân, Vardôzan, Tamârân, Khavâr, Zandûn, Barmandan, Qarûsh, Kâveran, Razdânak, Dûrmand, Parivân, Âzardan, Gîrânî, Shâdâvân, Vahdrak, Zarnûsh, Gholshân, Darvârid, Nemûd, Golshanî, Pâresak, Serdôm, Khorsand, Zârîd, Bâzâkan, Afrûn, Mazânid, Gorâvân, Parvandar, Sârânî, Turvand, Parvaran, Mahvârân, Shâmâyân, Razhak, Khonâsh, Vârakan, Kavirân, Mâzhên, Shiradar, Darvâni, Khosrûn, Gorgaz, Shirzâri, Zarmânâ, Perûdan, Gazvân, Fârûmak, Bârâvi, Tamîran, Dargan, Shîvash, Mervaran, Gohârân, Bâkârin, Nazârî, Padvân, Nârshad, Sîvadar, Arshîn, Tâmîrh, Sobûkan, Sâhâz, Bâzhôn, Mahkûn, Tavrûd, Ashazad, Khâvandar, Varîdân, Kamruz, Tahvân, Darûsh, Shahrân, Farrud, Pâdishân, Khânumân, Namirûn, Shahrûn, Gavandar, Narsâfî, Mehrûn, Shavân, Parnâzar, Shârman, Bergoz, Zânavi, Belurî, Khafûr, Khôrmaz, Shirânâ, Farûmâz, Darkarân, Mushtân, Tahrîdan, Gîldâsh, Namirân, Khushâm, Sâzâdar, Pârkad

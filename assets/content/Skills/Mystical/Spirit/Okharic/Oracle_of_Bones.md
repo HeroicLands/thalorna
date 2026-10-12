@@ -1,6 +1,6 @@
 ---
 shortcode: orclbonessprt
-name: {full: "The Oracle of Bones Spirit Power", aliases: [The Reader in the Yánda Maláika]}
+name: {full: "The Oracle of Bones Spirit Power", aliases: [The Reader in the Yánda Zohiring]}
 type: skill
 subType: mystical
 description: "Standing with The Oracle of Bones, zohira of death and prophecy—what this emissary of the Flame is petitioned and interceded with."
@@ -16,4 +16,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[lore-orclbonesspr|The Oracle of Bones]]—zohira of death and prophecy, met through [[affiliation-njiayaroho|the Njia ya Roho]].
+See [[lore-orclbonesspr|The Oracle of Bones]]—zohira of death and prophecy, met through [[affiliation-yenorzhrng|the Yénor Zohiring]].

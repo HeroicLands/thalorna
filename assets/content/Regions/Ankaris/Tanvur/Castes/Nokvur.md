@@ -11,7 +11,7 @@ Ask who feeds [[affiliation-tanvurempr|Tānvür]] and the answer is the sixth ca
 
 ## Life and Labor
 
-A Nōkvür household works land it will never own. Every field, wood and fishing reach in the empire belongs to a [[lore-zheklung|Zhëklüng]] lord or to the [[lore-vushok|Vüshōk]] administrator who holds it under him, and the family that works it holds only the right to keep working it. In return it renders a share of the harvest at the threshing floor and sends its men to the corvée when the district's dikes, roads or granaries need hands. A village is a cluster of households that have worked the same terraces for as long as the registry remembers, under a headman who reports to the local magistrate and who is himself Nōkvür.
+A Nōkvür household works land it will never own. Every field, wood and fishing reach in the empire belongs to a [[lore-zhekzhos|Zhëkzhös]] lord or to the [[lore-vushok|Vüshōk]] administrator who holds it under him, and the family that works it holds only the right to keep working it. In return it renders a share of the harvest at the threshing floor and sends its men to the corvée when the district's dikes, roads or granaries need hands. A village is a cluster of households that have worked the same terraces for as long as the registry remembers, under a headman who reports to the local magistrate and who is himself Nōkvür.
 
 The bond runs both ways in law, if not in force. A family may not leave its land without permission, and a lord may not drive it off without cause: a household that pays its tribute keeps its fields, and the magistrate who lets a lord evict a paying tenant answers for it.
 
@@ -22,7 +22,7 @@ The [[lore-castelaws|Caste Laws]] give the Nōkvür three rights and hold them t
 - **The right to the land**: protection from unlawful eviction, and the right to work assigned land in exchange for tribute.
 - **The right to the ancestors**: shrines, rites and the veneration of ancestral spirits are protected by law, and no lord may forbid them.
 - **The right to petition**: a household may bring a grievance or a plea for relief before the local magistrate.
-- **Tribute**: produce and labor are owed to the Zhëklüng and Vüshōk above; a household that fails to render them is flogged, and a headman who hides a village's shortfall may be put to death.
+- **Tribute**: produce and labor are owed to the Zhëkzhös and Vüshōk above; a household that fails to render them is flogged, and a headman who hides a village's shortfall may be put to death.
 - **No ownership**: the land belongs to the ruling castes, and a Nōkvür is bound to his district and may not leave it without leave.
 - **No marriage**: a Nōkvür couple may live together and raise children, and the law recognizes no bond between them.
 - **No personal name**: a Nōkvür is known by clan, position and place, as "Second Son of the Ox-Herd of the Clan of Still Water, near Vëithāt."
@@ -60,7 +60,7 @@ In the [[lore-phlsphylvr|Lëivōr]] framework the Nōkvür are the tenders of th
 - [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Nōkvür
 - [[lore-ancstrwrshp|Ancestor Worship]]—the faith of the household altar
 - [[lore-zathuk|Zāthük]]—artisans and soldiers, the caste above
-- [[lore-shukren|Shükrën]]—merchants, the caste below
+- [[lore-shuknurk|Shüknürk]]—merchants, the caste below
 - [[lore-nutzok|Nützōk]]—slaves and outcasts, the lowest of all
 - [[lore-venduk|Vëndük]]—the sorcerer caste from which some adoptees come
 - [[lore-zeisik|Law and Honor]]—the law that enforces tribute and protects the land-right

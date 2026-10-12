@@ -42,7 +42,7 @@ data:
         description: >-
           Performs the reversal and the lesser rites, and holds the cell's account of why the cosmic cycle is failing.
       - level: 6
-        title: Tz'uqil Ch'ul
+        title: Tz'uqil Ch'alix
         description: >-
           Has undergone the ritual—torture, death and immediate reanimation—and come through it whole; named for the rite that made them.
       - level: 7
@@ -57,7 +57,7 @@ data:
       Cell-Master: >-
         Holds one cell and everything in it, and is the only authority the movement recognizes as binding.
       Keeper of the Ritual: >-
-        Conducts the Tz'uqil Ch'ul—the willing torture, killing and reanimation by which a soul is intercepted before it enters Ch'al Tz'umaq.
+        Conducts the Tz'uqil Ch'alix—the willing torture, killing and reanimation by which a soul is intercepted before it enters Ch'al Tz'umaq.
       Reclaimer: >-
         Draws a recently dead soul back out of the labyrinth, which is the movement's chief recruiting instrument and its chief cruelty.
       Warder of the Returned: >-
@@ -89,11 +89,11 @@ The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in t
 
 ## Doctrine
 
-What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through [[place-chaltzumaq|Ch'al Tz'umaq]] are being consumed. The blood sacrifices that sustain [[affiliation-kinultqan|K'in'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Ch'al Tz'umaq's depths.
+What [[affiliation-pikultzumaq|Pik'ul Tz'umaq]] gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through [[place-chaltzumaq|Ch'al Tz'umaq]] are being consumed. The blood sacrifices that sustain [[affiliation-tzenultqan|Tz'en'ul Tq'an]] are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed—pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Ch'al Tz'umaq's depths.
 
 This is what makes the Serpent Awakeners genuinely dangerous rather than merely frightening. Their theology is internally coherent. Their arguments can be disturbingly persuasive on examination—especially to someone who has lost someone and been told their soul is safely navigating the underworld. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
 
-In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Ch'al Tz'umaq. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
+In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'alix** ritual—submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Ch'al Tz'umaq. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-tereb|tereb]]—intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-damut|damut]] that will inevitably degrade.
 
 ## Recruitment
 

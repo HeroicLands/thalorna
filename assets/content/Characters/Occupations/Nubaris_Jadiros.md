@@ -1,6 +1,6 @@
 ---
 shortcode: nubarsjdrs
-name: {full: Nûbàris Jâdîrôs, aliases: [Lady Mirabel Shadowthorn]}
+name: {full: Nûbàris Jâdîrôs, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

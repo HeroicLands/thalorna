@@ -1,6 +1,6 @@
 ---
 shortcode: hsrnkhlthn
-name: {full: Hassârìon Khalîthôn, aliases: [Lord Alaric Stormhaven]}
+name: {full: Hassârìon Khalîthôn, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]

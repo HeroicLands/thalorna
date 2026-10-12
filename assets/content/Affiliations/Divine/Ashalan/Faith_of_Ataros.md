@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Not to be confused with [[affiliation-kayikchul|K'ayik Ch'ul]], the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._
+_Not to be confused with [[affiliation-kayikchalix|K'ayik Ch'alix]], the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._
 
 Ātáröš is unique among the deities of the Āsháian pantheon—not merely a god among gods, but the visible, tangible presence through which all the other gods make themselves known to the world. Fire is transformation incarnate: it consumes the raw and makes it useful, destroys the corrupt and renders the world clean, illuminates darkness, provides warmth that sustains life in the killing deserts and steppes. Every sacred fire that burns in every temple from the marble palaces of [[affiliation-sultntmrdd|Amradad]] to the humblest nomadic camp is understood as a physical manifestation of Ātáröš himself, a god made present in tangible, knowable form. When the Āsháian faithful gather around the sacred fire to pray, they are not merely using fire as a symbol—they are communing directly with divinity. The smoke that rises from the altar carries prayers to the heavens. The flames that dance respond to the fervor of the faithful. The ashes that remain are the god's blessing, to be collected and preserved as relics of divine presence.
 

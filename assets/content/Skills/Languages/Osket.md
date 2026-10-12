@@ -51,7 +51,7 @@ The two front rounded vowels are the feature an outsider hears first and produce
 
 ### Phonotactic Patterns
 
-- **Consonant Clusters:** Freely admitted at the start and end of a word alike; _Tsökhar_ opens on an affricate and closes on a liquid, _Öskhelt_ closes on a three-consonant cluster
+- **Consonant Clusters:** Freely admitted at the start and end of a word alike; _Tsökhar_ opens on an affricate and closes on a liquid, _Öskhelt_ sets _s_ and _kh_ together inside and closes on _lt_
 - **Syllable Structure:** Heavy, and commonly closed; long vowels are not distinguished
 - **Final Consonants:** Unrestricted—a word may end on any consonant or any cluster of them, which is the plainest structural difference from every lowland tongue
 - **Word Length:** Short. Two syllables is the norm and four is rare, and compounds are formed by juxtaposition without linking material
@@ -72,6 +72,6 @@ A personal name is a single word, most often two syllables, drawn from weather, 
 
 ### Name Lists
 
-**Given Names:** Tsök, Örghat, Kelbü, Nashken, Ürtal, Ghömse, Belkhat, Tümür, Öske, Rhankel, Qadür, Shögme, Ubren, Kharsel, Yölte, Danghü, Ömker, Tselbat, Nüreg, Khöltan
+**Given Names:** Tsüm, Örghat, Nushang, Nashken, Ürtal, Ghömse, Belkhat, Yulmüm, Üchöm, Rhankel, Ghuqöm, Shögme, Ubren, Kharsel, Yölte, Sünash, Ömker, Tselbat, Nüreg, Gölkash
 
 **Hearth Names:** Tsökhar, Öskhelt, Ghelmün, Bürnakh, Qarsölt, Ütenkhar, Shömber, Rhandüg

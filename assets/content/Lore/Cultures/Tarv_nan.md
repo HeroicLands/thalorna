@@ -13,7 +13,7 @@ Tarvénia is not a country so much as a standing argument that has never been se
 
 ## Courage as a Trade
 
-The Tarvénan mercenary tradition is famous across the continent, and the important thing about it is that it carries no shame whatever. Tarvéni swordsmen and crossbowmen serve in armies from Vylaria to Harad, and taking pay for arms is an honorable career here and not a mark of desperation—the thing a second son does because it is respectable, not because nothing else was left.
+The Tarvénan mercenary tradition is famous across the continent, and the important thing about it is that it carries no shame whatever. Tarvéni swordsmen and crossbowmen serve in armies from Vylaria to Tarûzel, and taking pay for arms is an honorable career here and not a mark of desperation—the thing a second son does because it is respectable, not because nothing else was left.
 
 That fact organizes more than it appears to. It means a Tarvénan expects to leave and come back, and that a great many households are run for years at a stretch by women whose husbands are under contract three hundred miles away. It means money flows home from other people's wars, and that a village of no importance can be surprisingly well armed.
 

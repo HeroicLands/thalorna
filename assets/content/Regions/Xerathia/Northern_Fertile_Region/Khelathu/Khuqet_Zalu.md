@@ -24,7 +24,7 @@ Most towers are reduced to a wall-stump and a stair. The best-preserved forts ke
 
 ## Who Goes There
 
-- **The Marches' free companies** use the forts as lairs, and the most feared of them is [[affiliation-jcklsthmrchs|the Jackals of the South Marches]], whose warlord [[being-yasurajckl|Yâsûra]] winters in the stages nearest Bethûa.
+- **The Marches' free companies** use the forts as lairs, and the most feared of them is [[affiliation-jcklsthmrchs|the Jackals of the South Marches]], whose warlord [[being-argyrirjckl|Argýrira]] winters in the stages nearest Bethûa.
 - **Caravans** that cannot avoid the Marches pay the company that holds the well, or pay a second company to escort them past.
 - **Bethûan patrols** look at the forts from a distance and keep a list of which are held.
 - **Scholars** come for the Khelâthi inscriptions, which date the chain more exactly than the king-list does.

@@ -69,11 +69,11 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The Tamzîr is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzîr Shoals]], the decisive naval engagement of the Haradian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
+The Tamzîr is a weathered trading vessel that works the [[place-vylarianse|Vylarian Sea]]: she is named for the Battle of [[place-tamzirshoals|Tamzîr Shoals]], the decisive naval engagement of the Tarûzelian War of Independence, and her captain fought in it. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.
 
 ## Background
 
-Roughly twelve years ago, the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-esharumtrz|Eshârum Tarûzî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
+Roughly twelve years ago, the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]] fought a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]. The war was won, but the victory was hollow. The merchant guilds seized power in the aftermath, and the freedom that veterans had bled for became a new oligarchy dressed in different clothes. Captain [[being-zbzmjkdn|Zabûzum Jakûdûnî]], disillusioned with what the revolution had become, took to the sea rather than serve the new masters.
 
 The Tamzîr operates in the gray spaces of maritime law—legitimate trade when it pays, smuggling when it doesn't, and the occasional job that no respectable captain would touch. The crew are not pirates; they have a code, however flexible, and they choose their work. But they live outside the protection of any flag, which means they survive by their wits, their reputation, and each other.
 
@@ -83,16 +83,16 @@ The crew's most dangerous entanglement is the Serentia siblings. [[being-lucerns
 
 ## Shared Enemies
 
-The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo Arcanis]] hunts Cibella and will not stop. Haradian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Ordo, represent the long arm of an empire that has not forgotten the Haradian rebellion or forgiven those who fought in it.
+The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo Arcanis]] hunts Cibella and will not stop. Tarûzelian guild enforcers hold old debts from the war—grudges that compound with interest. And Vylarian imperial agents, often manipulated by the Ordo, represent the long arm of an empire that has not forgotten the Tarûzelian rebellion or forgiven those who fought in it.
 
 ## Crew
 
-- [[being-esharumtrz|Eshârum Tarûzî]] (Captain)
+- [[being-zbzmjkdn|Zabûzum Jakûdûnî]] (Captain)
 - [[being-slvrvlskyr|Sélvara Válskyr]] (First Mate)
 - [[being-fethardhrl|Féthar Dhárel]] (Pilot)
-- [[being-kasuradmzr|Kasûra Damzarû]] (Shipwright)
+- [[being-blgnrskn|Belgina Rusâkûnî]] (Shipwright)
 - [[being-grlfdrthgr|Garulf yra Druthgar wur Edrgrund]] (Sellsword)
-- [[being-isarakhldr|Isâra Khalîdra]] (Courtesan)
+- [[being-theldnkhldr|Théldina Khalîdra]] (Courtesan)
 - [[being-damsnghlrn|Dámàsûn Ghôlâron]] (Priest)
 - [[being-lucernsrnt|Lucerian Serentia]] (Physician)
 - [[being-cibelasrnt|Cibella Serentia]] (Sister of Lucerian)
@@ -100,10 +100,10 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Ordo
 
 ## The Ship
 
-The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-kasuradmzr|Kasûra]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzîr has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
+The Tamzîr is not fast, not pretty, and not young. She is a broad-beamed coastal trader built for the choppy waters of the Vylarian Sea, with a deep hold that has carried everything from grain to contraband. Her hull bears the scars of hard use and hard repair—[[being-blgnrskn|Belgina]] keeps her seaworthy through skill and devotion, but no amount of love can make her elegant. What the Tamzîr has is endurance: she can take a beating from weather or pursuit and keep moving when sleeker vessels would founder.
 
 ## Plot Hooks
 
-1. **Ghosts of Tamzîr Shoals**: A survivor of the original battle contacts the captain with evidence that the Haradian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
+1. **Ghosts of Tamzîr Shoals**: A survivor of the original battle contacts the captain with evidence that the Tarûzelian victory was engineered—that someone manipulated both sides of the war for their own purposes. The truth could destabilize the Confederation.
 2. **The Ordo Closes In**: An Ordo Arcanis Quaesitor arrives in port with a writ of seizure for the Tamzîr itself, naming the ship as an instrument of arcane fugitive transport. The crew must decide whether to run, fight, or find a legal defense—and any of those options has consequences.
 3. **A Paying Passenger**: A wealthy traveler offers an enormous sum for passage to a destination the crew would rather avoid. The money could solve half their problems, but the passenger is not what they seem.

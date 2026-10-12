@@ -58,10 +58,10 @@ data:
         Charged with the structures that falter and the ones that have ended—an office of recent and unadmitted creation.
       Master of the Terraces: Warden of the island's agriculture, and of the weather-works it has always depended on.
       Harbor-Warden: >-
-        Keeper of a port's anchorage—at Qasirah the principal one open to foreign hulls—and of everything a foreigner is permitted to see from it.
+        Keeper of a port's anchorage—at Ilovanu the principal one open to foreign hulls—and of everything a foreigner is permitted to see from it.
       Envoy: >-
         Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
-  seat: qasirah
+  seat: ilovanu
   population: 3000000
   economy: [lore-bartercnmy]
   lore: [humanflk]
@@ -73,7 +73,7 @@ sohl: {system: {commonSkills: [kalihrlng, valtarlng]}}
 
 ## Overview
 
-Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-qasirah|Qasirah]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are not admitted to the interior. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
+Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are not admitted to the interior. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
 What the world knows of Kalihara is a land of jungle, volcanic peaks and creatures found nowhere else, beautiful, dangerous and closed to the curious. The Kaliharans say very little about their home to outsiders, and what they say is chosen with care. Scholars in [[place-helionis|Heliónis]] and [[place-byzariargn|Byzaría]] have spent centuries assembling the fragments into competing theories of Kaliharan society, and most of those theories describe Ankarian assumptions better than they describe Kalihara. The factor's advice is the island's own: watch, and do not ask twice.
 
@@ -127,11 +127,11 @@ Kalihara holds [[place-kaliharargn|Kalihara Region]], the whole of the island's 
 
 ## The Port Cities
 
-The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-qasirah|Qasirah]], a cosmopolitan trading port of eighteen thousand that is the seat of the confederation. [[place-korinthel|Korinthel]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Korinthel the island's own coasting trade and the gem rivers behind it, Vashurán the Haradian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Qasirah's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
+The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-ilovanu|Ilovanu]], a cosmopolitan trading port of eighteen thousand that is the seat of the confederation. [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Nalurithan the island's own coasting trade and the gem rivers behind it, Vashurán the Tarûzelian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Ilovanu's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
 
-The ports are in many ways a world apart from the interior. Centuries of contact with Ankarian, Haradian and Vedyaran merchants have left them with mixed populations, mixed marriages and, in Qasirah, well-kept temples of the [[affiliation-arldnpnthn|Aurèldían]] pantheon serving the foreign merchants, the long-settled immigrant families, and the Kaliharans who have chosen the port over the interior and in some cases taken up the foreigners' faith. The Ithári'kaan regard the ports with pragmatic acceptance and philosophical distance. The ports are necessary, they bring goods and information that even Kalihara sometimes requires, and they are not part of the Kaliharan world in the way the interior is.
+The ports are in many ways a world apart from the interior. Centuries of contact with Ankarian, Tarûzelian and Vedyaran merchants have left them with mixed populations, mixed marriages and, in Ilovanu, well-kept temples of the [[affiliation-arldnpnthn|Aurèldían]] pantheon serving the foreign merchants, the long-settled immigrant families, and the Kaliharans who have chosen the port over the interior and in some cases taken up the foreigners' faith. The Ithári'kaan regard the ports with pragmatic acceptance and philosophical distance. The ports are necessary, they bring goods and information that even Kalihara sometimes requires, and they are not part of the Kaliharan world in the way the interior is.
 
-The division runs deeper than geography. A Kaliharan born in Qasirah who has never been admitted inland has more in common, culturally, with a merchant in Heliónis than with a custodian in a highland sanctuary. Both sides understand and accept the division: in the Kaliharan view it is the cost of keeping a necessary interface with the world without letting the world come further in than it should.
+The division runs deeper than geography. A Kaliharan born in Ilovanu who has never been admitted inland has more in common, culturally, with a merchant in Heliónis than with a custodian in a highland sanctuary. Both sides understand and accept the division: in the Kaliharan view it is the cost of keeping a necessary interface with the world without letting the world come further in than it should.
 
 ## Governance
 
@@ -143,7 +143,7 @@ The result is a society that has avoided the cycles of expansion, civil war and 
 
 ## Commerce and Currency
 
-Kalihara stands outside the continental monetary systems. Internal commerce runs substantially on [[lore-bartercnmy|barter]] and on the island's own traditions of lineage credit, and the few foreign coins that reach the island through the port trade are valued as exotic goods and not as money. No foreigner has seen how the interior settles a debt, and no Kaliharan has explained it; what the ports take for spice and stones is foreign goods, foreign coin by weight, and letters of credit the merchant houses of Qasirah honor among themselves.
+Kalihara stands outside the continental monetary systems. Internal commerce runs substantially on [[lore-bartercnmy|barter]] and on the island's own traditions of lineage credit, and the few foreign coins that reach the island through the port trade are valued as exotic goods and not as money. No foreigner has seen how the interior settles a debt, and no Kaliharan has explained it; what the ports take for spice and stones is foreign goods, foreign coin by weight, and letters of credit the merchant houses of Ilovanu honor among themselves.
 
 ## See Also
 
@@ -152,7 +152,7 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole, its observances and its custodians
 - [[lore-kaliharanclt|Kaliharan]]—the people, what they believe and what a person owes
 - [[lore-theithari|The Ithári]]—the precursors, their works across the world and their departure
-- [[place-qasirah|Qasirah]]—the principal port and the seat of the confederation
+- [[place-ilovanu|Ilovanu]]—the principal port and the seat of the confederation
 - [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to the island
 - [[skill-kalihrlng|Kalihári]]—the language of the island and its names
 - [[skill-valtarlng|Valtári]]—the harbor pidgin of the ports

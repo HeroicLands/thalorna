@@ -40,15 +40,15 @@ Neither is good or evil, and both are needed. A cosmos of pure Lëng would be fr
 Magic in Tānvür is ordered by the **domains of classification**, the basic categories set at the Great Sorting. Five are material, and each is administered by one of the [[lore-fvlmntlrds|Five Elemental Lords]], the bureau chiefs of the elements.
 
 1. **Air** (_Lëi_): breath, speech and the medium through which every other classification moves. Air carries; it connects sorted things to one another and keeps the world from going stagnant. Its lord is Vëngdāk Zhütvōr.
-2. **Fire** (_Höt_): transformation, purification and passage. Fire turns things from one classification into another—the physical into the spiritual, the living into the ancestor—and it carries spirit documents up to the celestial archive. Its lord is Röthöt Dākvëng of the Bureau of Transformation ([[affiliation-tngvkvnlei|Höt Sëi]]).
+2. **Fire** (_Höt_): transformation, purification and passage. Fire turns things from one classification into another—the physical into the spiritual, the living into the ancestor—and it carries spirit documents up to the celestial archive. Its lord is Rīrnhöt Dākvëng of the Bureau of Transformation ([[affiliation-tngvkrrklei|Höt Sëi]]).
 3. **Earth** (_Tūr_): stability, foundation and persistence. Earth holds classifications in place; it is the sorted world's resistance to change. Its lord is Dāktūr Vōrthāt.
 4. **Metal** (_Jīk_): distinction, boundary and enforcement. Metal draws the sharp line between one category and the next, and it is the domain of law, judgment and precision. Its lord is Vōrjīk Jëk.
-5. **Water** (_Shüt_): flow, adaptation and passage between states. Water lets a thing change from one sorted condition to another without passing through the unsorted. Its lord is Zhütshüt Lüng.
+5. **Water** (_Shüt_): flow, adaptation and passage between states. Water lets a thing change from one sorted condition to another without passing through the unsorted. Its lord is Zhütshüt Zhös.
 
 Two domains lie beyond any single lord, because they are too near the root of the classification for one bureau chief to hold.
 
-6. **Spirit** (_Vōrlëi_): the soul, consciousness and the link between the mortal and celestial planes, through which petitions go up and directives come down. The celestial bureaus govern it together, the Ministry of Final Account ([[affiliation-tngvkvnlei|Sīkvōk]]) and the Bureau of Night Counsel ([[affiliation-tngvkvnlei|Mëi Sëi]]) above all.
-7. **Neutral** (_Hōk_): pure Lëi, the energy older than the Sorting, embodied in Tānlüng the Celestial Dragon. It is the unsorted energy that sustains everything sorted. A practitioner who works it reaches beneath the classification to touch the raw cosmic force, with great power and great danger. No bureau administers it and no official holds it. It is Tānlüng's alone.
+6. **Spirit** (_Vōrlëi_): the soul, consciousness and the link between the mortal and celestial planes, through which petitions go up and directives come down. The celestial bureaus govern it together, the Ministry of Final Account ([[affiliation-tngvkrrklei|Sīkvōk]]) and the Bureau of Night Counsel ([[affiliation-tngvkrrklei|Mëi Sëi]]) above all.
+7. **Neutral** (_Hōk_): pure Lëi, the energy older than the Sorting, embodied in Tānzhös the Celestial Dragon. It is the unsorted energy that sustains everything sorted. A practitioner who works it reaches beneath the classification to touch the raw cosmic force, with great power and great danger. No bureau administers it and no official holds it. It is Tānzhös's alone.
 
 ## Magic as a Petition
 
@@ -87,7 +87,7 @@ The healers assign the domains to the body this way:
 
 Each caste is held to carry its own kind of Lëi:
 
-- the [[lore-zheklung|Zhëklüng]], administering Lëi, the authority to classify and govern;
+- the [[lore-zhekzhos|Zhëkzhös]], administering Lëi, the authority to classify and govern;
 - the [[lore-venduk|Vëndük]], channeled Lëi, the power to work cosmic energy through the petition's form;
 - the [[lore-vushok|Vüshōk]], enforcing Lëi, which keeps classifications in place by force;
 - the [[lore-tanthei|Tānthëi]], recording Lëi, which keeps the classification's records and precedents;

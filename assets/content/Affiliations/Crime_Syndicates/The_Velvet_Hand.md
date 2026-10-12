@@ -82,7 +82,7 @@ The organization grew in Heliónis, where the Academy of the Silver Veil already
 
 **Primary:** Vylarian cities (especially Ôrzâra and Alyssa), Provenzian courts and cultural centers, Helionite city-states (Thyrenae, Pelagora, Kalydria)
 
-**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Haradian guild hall or a Ta.Khelâthi court can be worth more than a dozen enforcers.
+**Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Tarûzelian guild hall or a Ta.Khelâthi court can be worth more than a dozen enforcers.
 
 ## Operations
 

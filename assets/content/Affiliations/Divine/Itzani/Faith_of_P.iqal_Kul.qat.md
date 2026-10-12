@@ -39,28 +39,28 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
-      K'ul Pu'itz: >-
+      Ch'alix Pu'itz: >-
         Master of Sacred Work—head of the branch, and almost always a master mason of long experience rather than a theologian.
       Master of the Foundation: >-
         Conducts Kul'qat Tik'il, the foundation-laying, and rules whether ground is fit to carry what is proposed for it.
       Master of the Dedication: >-
-        Conducts Kul'qat Tzi'bal at a work's completion, and is the only priest empowered to declare a building finished.
+        Conducts Kul'qat Tz'apel at a work's completion, and is the only priest empowered to declare a building finished.
       Master of the Cord: >-
         Sets out the lines and levels, working from the astronomers' alignments, and answers for a structure that is out of true.
       Keeper of the Quarries: >-
@@ -87,7 +87,7 @@ Before time had a name, the world was chaos. P'iqal Kul'qat took clay and stone 
 
 ## Worship
 
-The ceremonies of **Kul'qat Tik'il** (foundation-laying) and **Kul'qat Tzi'bal** (dedication) mark the beginning and completion of sacred building. The first is the more solemn: the ground is opened, the lines are set from the astronomers' alignments, and jade and blood go into the first course. The second is the more public, and the **Master of the Dedication** alone may declare a work finished—a power that has been used to hold a K'inmah's vanity project unfinished for years.
+The ceremonies of **Kul'qat Tik'il** (foundation-laying) and **Kul'qat Tz'apel** (dedication) mark the beginning and completion of sacred building. The first is the more solemn: the ground is opened, the lines are set from the astronomers' alignments, and jade and blood go into the first course. The second is the more public, and the **Master of the Dedication** alone may declare a work finished—a power that has been used to hold a Tz'enmah's vanity project unfinished for years.
 
 Artisans of every kind begin their work with small offerings—a potter pressing the goddess's glyph into a vessel's base, a weaver tying a knot in invocation, a mason placing jade into mortar. These are not ceremonies and require no priest. The doctrine is that the offering is the intention, and that a thing made carelessly is an offering withheld regardless of what was placed in it.
 
@@ -99,7 +99,7 @@ Blood is given at foundations and at dedications and rarely otherwise; the godde
 
 Her theology is fundamentally optimistic. Where the solar god demands fidelity because failure ends the world, P'iqal Kul'qat teaches that failure is part of learning to build better. The ruins dotting the continent are not signs of displeasure but traces of her experiments. The **Warden of the Ruins** keeps that record deliberately—what fell, in what season, under what load—and the registers are consulted before any large work is attempted. It is the nearest thing to an engineering archive on the continent, and it exists because the branch's doctrine forbids treating a collapse as a disgrace.
 
-Her priesthood is organized by craft specialization rather than theological rank—the K'ul Pu'itz (Master of Sacred Work) is almost always a master mason of considerable experience, and initiates come from families of artisans as much as from nobility. A Ch'ul'bal of this branch is expected to be able to do the work he supervises, and the branch's examinations are practical: a candidate is given a course to lay, a line to set, a vault to close.
+Her priesthood is organized by craft specialization rather than theological rank—the Ch'alix Pu'itz (Master of Sacred Work) is almost always a master mason of considerable experience, and initiates come from families of artisans as much as from nobility. A Ch'alixbal of this branch is expected to be able to do the work he supervises, and the branch's examinations are practical: a candidate is given a course to lay, a line to set, a vault to close.
 
 The **Keeper of the Craft Rolls** holds the register of those admitted to sacred work. Admission is the branch's chief instrument of power in a city, since no temple, palace, causeway or reservoir may be raised by unlisted hands, and striking a master from the roll ends his livelihood. The office is therefore fought over, and the branch's internal politics are the politics of guilds rather than of doctrine.
 
@@ -109,9 +109,9 @@ Between great works the branch hires out. Builder-priests raise the reservoirs a
 
 With [[affiliation-ixilanchalix|Ix'ilan Ch'alix]] the branch is on the easiest terms it keeps with anyone. Both advance by demonstrated competence, both are staffed largely from ordinary families, and the setting of a new sighting-stone is a joint rite. Astronomers lay the lines and builders raise the structure, and the two have between them made the white roads run straight for hundreds of miles.
 
-Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch is politely unimpressed. It builds the solar pyramids and is well paid for it, but its own doctrine holds that every one of them will fall, and its Warden of the Ruins keeps the evidence. The solar priesthood has never found a way to object to this that does not sound like an objection to the goddess herself.
+Toward [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch is politely unimpressed. It builds the solar pyramids and is well paid for it, but its own doctrine holds that every one of them will fall, and its Warden of the Ruins keeps the evidence. The solar priesthood has never found a way to object to this that does not sound like an objection to the goddess herself.
 
-With [[affiliation-kayikchul|K'ayik Ch'ul]] there is a long, good-humored argument over which god finished the making of humankind—the builder who shaped the maize dough or the fire-keeper who kindled it. Both formulas are spoken at a dedication, in an order fixed by whichever branch paid for the work.
+With [[affiliation-kayikchalix|K'ayik Ch'alix]] there is a long, good-humored argument over which god finished the making of humankind—the builder who shaped the maize dough or the fire-keeper who kindled it. Both formulas are spoken at a dedication, in an order fixed by whichever branch paid for the work.
 
 The branch also owns the tradition's most distinctive quarrel with [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]]. Some Pik'ob philosophers hold that a sacred building should at some point be deliberately surrendered to the forest, and point to the great abandoned cities as proof. The builder-priests regard this as a doctrine of failing to maintain what one has raised, and the argument has real consequences: it is fought out every year in the allocation of labor between new work and repair.
 

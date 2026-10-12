@@ -11,7 +11,7 @@ data:
   occupation: Woodcrafter
   lore: []
   culture: dunhariclt
-  homes: [zaristan]
+  homes: [venzelekh]
   affiliations: {sultntmrdd: {rank: 2}, mithara: {rank: 1}}
   gender: female
   species: humanflk
@@ -456,18 +456,18 @@ Daryash is animated by a profound belief that physical objects possess sacred si
 
 ### Patrons
 
-Lady Sarafina al-Khamis
+Lady Velînah Tavrûd
 : A widow and collector of sacred objects who has commissioned three major pieces and serves as Daryash's primary advocate in noble circles.
 
 Father Ilmantur of the Míthárä Temple
 : The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
 
-Merchant-Prince Davoud
+Merchant-Prince Gorzûn
 : A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
 
 ### Enemies
 
-Master Craftsman Rehman of the Collective
+Master Craftsman Khozdun of the Collective
 : The jealous guild-master who views Daryash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for guild-approved craftspeople.
 
 The Carpentry-Masters' Collective

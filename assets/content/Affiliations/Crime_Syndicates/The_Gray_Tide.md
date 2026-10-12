@@ -82,7 +82,7 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 **Primary:** Aelwyth port towns (especially Ashford), Nordheim's coastal settlements, Vrystwald's harbor villages
 
-**Secondary:** The islands scattered between Aelwyth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vylarian and Haradian ports, though these operate cautiously on the Crimson Ledger's turf.
+**Secondary:** The islands scattered between Aelwyth and Nordheim serve as staging areas, stash points, and meeting grounds. A few larger islands have semi-permanent Tide settlements—ostensibly fishing villages, actually smuggling depots. The Tide also maintains fences and agents in Vylarian and Tarûzelian ports, though these operate cautiously on the Crimson Ledger's turf.
 
 ## Operations
 
@@ -90,7 +90,7 @@ The Tide is rougher, more violent, and more decentralized than the other syndica
 
 **Human trafficking:** The Tide's most profitable and most despised operation. People are moved along coastal routes—escaped slaves seeking passage to free territories (for a price), kidnap victims bound for buyers elsewhere, and indentured workers sold between employers who'd rather not involve customs. The sea leg of human trafficking operations often connects with the Ash Road's overland routes, creating a circuit that spans the known world.
 
-**Piracy:** The Tide maintains several fast ships that prey on merchant vessels, particularly those carrying high-value cargo through the less-patrolled northern routes. Piracy is seasonal—concentrated in the warmer months when shipping is heaviest—and selective. The Tide avoids attacking Nordheim vessels (bad for local relations) and Haradian warships (suicidal). Vylarian merchants and independent traders are preferred targets.
+**Piracy:** The Tide maintains several fast ships that prey on merchant vessels, particularly those carrying high-value cargo through the less-patrolled northern routes. Piracy is seasonal—concentrated in the warmer months when shipping is heaviest—and selective. The Tide avoids attacking Nordheim vessels (bad for local relations) and Tarûzelian warships (suicidal). Vylarian merchants and independent traders are preferred targets.
 
 **Fencing stolen goods:** Stolen cargo needs buyers, and the Tide provides them. A network of shops, market stalls, and traveling merchants throughout Aelwyth and Vrystwald moves stolen goods into legitimate commerce. The chandler who sells suspiciously cheap rope, the tavern that always has imported wine at local prices, the farmer's wife who wears silk—all signs of the Tide's reach into everyday commerce.
 
@@ -108,7 +108,7 @@ Legitimate fronts include fishing fleets, coastal taverns, brothels, chandlers' 
 
 The Gray Tide's relationship with the Crimson Ledger is one of mutual dependency and mutual contempt. The Tide needs the Ledger to launder its revenue; the Ledger needs the Tide's smuggling network to move certain goods. But the Tide resents the Ledger's financial control and periodically attempts to set up its own laundering operations, which the Ledger systematically destroys—usually by anonymously informing customs officials. This cycle of attempted independence and brutal suppression has been repeating for decades and shows no sign of ending.
 
-The Ash Road is the Tide's most important partner for human trafficking. The Tide handles the sea routes; the Road handles the desert. This cooperation works because their territories don't overlap. Where they do border—particularly in Varoshan—relations are tense. A decade-long turf war over Varoshan's eastern docks left dozens dead before the Crimson Ledger brokered a profit-sharing arrangement that both sides immediately began scheming to undermine.
+The Ash Road is the Tide's most important partner for human trafficking. The Tide handles the sea routes; the Road handles the desert. This cooperation works because their territories don't overlap. Where they do border—particularly in Qudûmel—relations are tense. A decade-long turf war over Qudûmel's eastern docks left dozens dead before the Crimson Ledger brokered a profit-sharing arrangement that both sides immediately began scheming to undermine.
 
 The Velvet Hand is regarded with a mixture of suspicion and grudging respect. The Tide buys harbor intelligence from the Hand and occasionally contracts it for targeted killings of problematic officials. But the Tide's captains know that the Hand sells information about the Tide just as readily, and any Velvet Hand agent caught operating in Tide territory without prior arrangement faces summary execution—a policy enforced inconsistently, since the agents usually have something valuable to offer first.
 

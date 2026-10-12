@@ -425,11 +425,11 @@ The trouble is that Cassia is not the only one who wants the rolls, and almost e
 3. **Aû'Khelâthu gets it**—bad, but the proof still exists and the Khelâthi–Bethûan axis takes its wound regardless of whose hand holds the vellum.
 4. **Bethûa recovers or burns it**—catastrophe: the proof is gone forever, deniability is restored, the alliance is preserved, and the empire is left with nothing.
 
-So Cassia fights on three fronts at once, deep in country hostile to her. She **courts Rashîra**—offering protection, passage, and coin to turn the fugitive toward a Vylarian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: she buys off guides, closes routes, spreads false word, and salts Rashîra's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethûan hunt**, confusing and misdirecting the Court of the Veil's agents and frustrating [[being-zahirmlkht|Zahira Malkhet]]—for a Bethûan recapture is the one ending worse than losing the rolls to the Khelâthi.
+So Cassia fights on three fronts at once, deep in country hostile to her. She **courts Rashîra**—offering protection, passage, and coin to turn the fugitive toward a Vylarian handover. She **blocks the road east**, because above all the register must not reach [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: she buys off guides, closes routes, spreads false word, and salts Rashîra's path with delays, turning to open force only when the covert hand fails. And she **sabotages the Bethûan hunt**, confusing and misdirecting the Court of the Veil's agents and frustrating [[being-lmbhrpdhnn|Lámbhira Pédhinion]]—for a Bethûan recapture is the one ending worse than losing the rolls to the Khelâthi.
 
 ### Method
 
-Cassia almost never acts with her own hand. She is a runner of people: she finds the lever—a debt, a grudge, an ambition, a frightened family—and she pulls it. It was her cut-outs that paid [[being-yasurajckl|Yâsûra the Jackal]] to bleed away [[being-zahirmlkht|Zahira's]] time, letting the warlord's old hatred do Vylaria's work for free. But that same lever is now her sharpest danger: if Yâsûra or the Hound actually seizes the rolls and they fall into Bethûan hands, that is precisely the catastrophe Cassia most fears. She must keep the Jackals delaying the Veil's hunt without letting anyone in the Marches close a hand on the documents—a blade she can point but not fully trust, swung over the one outcome she cannot allow.
+Cassia almost never acts with her own hand. She is a runner of people: she finds the lever—a debt, a grudge, an ambition, a frightened family—and she pulls it. It was her cut-outs that paid [[being-argyrirjckl|Argýrira the Jackal]] to bleed away [[being-lmbhrpdhnn|Lámbhira's]] time, letting the warlord's old hatred do Vylaria's work for free. But that same lever is now her sharpest danger: if Argýrira or the Hound actually seizes the rolls and they fall into Bethûan hands, that is precisely the catastrophe Cassia most fears. She must keep the Jackals delaying the Veil's hunt without letting anyone in the Marches close a hand on the documents—a blade she can point but not fully trust, swung over the one outcome she cannot allow.
 
 ### Skills and Abilities
 
@@ -444,7 +444,7 @@ Cassia almost never acts with her own hand. She is a runner of people: she finds
 
 Cassia is patient, warm, and entirely without scruple in the service of the empire—a woman whose easy courtesy is a working tool rather than a window onto anything underneath. She is a patriot of a cold and bureaucratic kind: she believes the Vylarian peace is worth more than the lives spent to extend it, and she has spent a great many without losing sleep. She takes a craftsman's pride in clean work and a craftsman's contempt for the showy and the cruel; she would call herself a reasonable woman, and within the narrow walls of her loyalty she is.
 
-She does not hate Rashîra, or Zahira, or Bethûa. They are, respectively, a prize to be won, an obstacle, and a target—and the moment any of them ceases to serve the operation, her regard for them ends. This is precisely what makes her dangerous: there is no anger in her to provoke, no vanity to flatter, only an unhurried calculation of advantage that will spend any ally, including the woman she is courting, the instant the ledger turns.
+She does not hate Rashîra, or Lámbhira, or Bethûa. They are, respectively, a prize to be won, an obstacle, and a target—and the moment any of them ceases to serve the operation, her regard for them ends. This is precisely what makes her dangerous: there is no anger in her to provoke, no vanity to flatter, only an unhurried calculation of advantage that will spend any ally, including the woman she is courting, the instant the ledger turns.
 
 ### Strengths
 
@@ -455,7 +455,7 @@ She does not hate Rashîra, or Zahira, or Bethûa. They are, respectively, a pri
 
 ### Weaknesses
 
-- **Overuses her levers**: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-yasurajckl|Yâsûra]] very much does
+- **Overuses her levers**: her reliance on bought and coerced proxies fails when a proxy has motives of her own—as [[being-argyrirjckl|Argýrira]] very much does
 - **A proxy that could hand her her worst outcome**: the Jackals she hired could let the rolls fall to Bethûa, the one ending she cannot allow
 - **No personal loyalty to spend**: those who serve her for coin or fear will not die for her, and know it
 - **Fighting on three fronts**: opposing Rashîra, Bethûa, and Aû'Khelâthu at once stretches even a Vylarian purse, and any two of them combining against her undoes the whole operation
@@ -465,15 +465,15 @@ She does not hate Rashîra, or Zahira, or Bethûa. They are, respectively, a pri
 ### Targets and Tools
 
 - [[being-rshrhssfrn|Rashîra of House Safîrôn]]: The fugitive Grammatíssa and her purple register—the prize Cassia means to win by courtship if she can and force if she must, and above all to keep out of Khelâthi hands. To Cassia she is a delivery that has not yet agreed to be delivered.
-- **[[being-yasurajckl|Yâsûra the Jackal]] and the [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: Hired through cut-outs to delay [[being-zahirmlkht|Zahira]], believing they hunt only for their warlord's grudge. A useful blade—and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethûa included.
+- **[[being-argyrirjckl|Argýrira the Jackal]] and the [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: Hired through cut-outs to delay [[being-lmbhrpdhnn|Lámbhira]], believing they hunt only for their warlord's grudge. A useful blade—and a dangerous one, since a Jackal who seizes the rolls might sell them anywhere, Bethûa included.
 
 ### Enemies
 
-[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]
+[[being-lmbhrpdhnn|Lámbhira Pédhinion, the Hound of the Veil]]
 : The Bethûan thief-taker racing to recover or destroy the register. Cassia means to see her thwarted, confused, and delayed at every turn—never letting the Veil's hand close on the rolls—and respects her enough to spend real resources on it.
 
 The Court of the Veil
-: The Bethûan intelligence household whose secret she is working to expose. The whole of Cassia's operation is a quiet duel against the unseen agents of **Mêtríssa Amîthéna of House Thamîrîon**.
+: The Bethûan intelligence household whose secret she is working to expose. The whole of Cassia's operation is a quiet duel against the unseen agents of **Mêtríssa Amîthéna of House Kêrvanion**.
 
 The agents of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]
 : Should the Khelâthi learn that the register exists and is running for their frontier, their hand will reach into the Marches too—and Cassia must keep the proof from them as surely as from Bethûa.
@@ -484,4 +484,4 @@ The agents of the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]
 
 2. **The Blocked Road**: Every eastward path Rashîra tries closes ahead of her—a guide bought, a ford watched, a rumor of plague on the road, a caravan that will not take her. Somewhere behind the bad luck is Cassia's quiet hand, herding the fugitive away from the Khelâthi frontier and toward a Vylarian crossing she would never choose freely.
 
-3. **The Proxy Turns**: The [[affiliation-jcklsthmrchs|Jackals]] Cassia hired to delay [[being-zahirmlkht|Zahira]] come within reach of the register itself—and Cassia must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethûa and the result her single worst outcome.
+3. **The Proxy Turns**: The [[affiliation-jcklsthmrchs|Jackals]] Cassia hired to delay [[being-lmbhrpdhnn|Lámbhira]] come within reach of the register itself—and Cassia must scramble to stop her own instrument from handing the rolls to whoever pays best, when the buyer might be Bethûa and the result her single worst outcome.

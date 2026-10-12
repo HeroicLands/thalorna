@@ -4,7 +4,7 @@
 
 **Lexicons**
 
-- The Helonic family (Helonic, Byzarian and Bethuan) and Haradi each have a word-hoard of shared roots, listing every name built from them.
+- The Helonic family (Helonic, Byzarian and Bethuan) and Tarûzeli each have a word-hoard of shared roots, listing every name built from them.
 - The Helonic, Byzarian and Bethuan language pages use the same articles and particles as the word-hoard.
 
 **Vylaria**

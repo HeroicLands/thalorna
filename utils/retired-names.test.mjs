@@ -60,9 +60,9 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
             "assets/content/Characters/Heroes_and_Knaves/Zenais_Kepikot.md",
-            "assets/content/Characters/Heroes_and_Knaves/Philina_Markesianos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Kreneze_Markesianos.md",
             "assets/content/Characters/Heroes_and_Knaves/Angelides_Thymiakit.md",
-            "assets/content/Characters/Heroes_and_Knaves/Konstantinos_Polytimos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Dorashkar_Polytimos.md",
             "assets/content/Characters/Heroes_and_Knaves/Helenaia_Mystakes.md",
             "assets/content/Characters/Heroes_and_Knaves/Gavrilos_Niktariotes.md",
             "assets/content/Characters/Heroes_and_Knaves/Domrithas_Vishardas.md",
@@ -103,7 +103,7 @@ export const RETIRED = [
         retired: ["Vasilis"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Kallixenos_Paraklavos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Nomasahr_Paraklavos.md",
             "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
             "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
         ],

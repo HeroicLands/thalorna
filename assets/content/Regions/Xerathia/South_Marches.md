@@ -92,7 +92,7 @@ The most feared of them are the
 [[affiliation-jcklsthmrchs|Jackals of the South Marches]]—not a clan and not
 a marcher tribe, but a warband of the Houseless: exiled Bethûan women and
 cast-out **Spádai** eunuch-warriors, padded with hired marcher men, under the
-renegade spear-sister [[being-yasurajckl|Yâsûra the Jackal]]. Mounted, fast
+renegade spear-sister [[being-argyrirjckl|Argýrira the Jackal]]. Mounted, fast
 and at home in waterless country, they strike the herds, caravans and exposed
 villages of the frontier—Bethûan targets by preference. The clans tolerate them, hire them and give them room because they are
 useful against a shared northern enemy, and because their queen has made them
@@ -128,4 +128,4 @@ hold, and would rather not look past it.
 - [[place-aukhelathrgq|Aû'Khelâthu Region]]—where the road leads
 - [[place-cntrlrnfrsts|Central Rainforests]]—the margin to the south
 - [[affiliation-jcklsthmrchs|Jackals of the South Marches]]—the free company of the Houseless
-- [[being-yasurajckl|Yâsûra the Jackal]]—the exile-queen who rules the road
+- [[being-argyrirjckl|Argýrira the Jackal]]—the exile-queen who rules the road

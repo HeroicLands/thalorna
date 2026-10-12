@@ -11,7 +11,7 @@ data:
   occupation: Perfumer
   lore: []
   culture: byzarianclt
-  homes: [denizara2]
+  homes: [nesthiros2]
   affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: male
   species: humanflk

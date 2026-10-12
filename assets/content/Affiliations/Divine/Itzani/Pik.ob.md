@@ -35,7 +35,7 @@ data:
       - level: 4
         title: Grove-Keeper
         description: >-
-          Holds one Ch'ulba K'anal: its boundary, its dead, and the discipline of leaving it alone.
+          Holds one Xik'tel K'anal: its boundary, its dead, and the discipline of leaving it alone.
       - level: 5
         title: Platform-Master
         description: >-
@@ -45,14 +45,14 @@ data:
         description: >-
           Trusted to instruct, which in this order means to sit with someone for years and correct almost nothing.
       - level: 7
-        title: K'ul Pik'ob
+        title: Ch'alix Pik'ob
         description: >-
-          Keeper of the owls—head of the contemplative branch in a city, who answers to the death-temple's K'ul Tq'an for what its philosophers say in public.
+          Keeper of the owls—head of the contemplative branch in a city, who answers to the death-temple's Ch'alix Tq'an for what its philosophers say in public.
     offices:
-      K'ul Pik'ob: >-
+      Ch'alix Pik'ob: >-
         Head of the branch in a city, and the keeper who must answer to the wider priesthood for the order's more disturbing conclusions.
       Keeper of the Sacred Groves: >-
-        Maintains a Ch'ulba K'anal, where the natural cycle of decay proceeds with minimal interference, and records what the forest takes.
+        Maintains a Xik'tel K'anal, where the natural cycle of decay proceeds with minimal interference, and records what the forest takes.
       Master of the Platforms: >-
         Oversees sky burial: the exposure of bodies, the reading of the birds, and the return of bone to the family.
       Teacher of Dissolution: >-
@@ -80,7 +80,7 @@ data:
 sohl: {system: {commonSkills: [tzuqilixbal]}}
 ---
 
-The **Pik'ob**—the owl keepers—represent the contemplative branch of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]]'s service. Where the Ix'bal'ob serve the jaguar who kills swiftly, the Pik'ob serve Pik'ik, the owl on the death god's brow, who watches as the jungle slowly reclaims what death has taken. They maintain the **Ch'ulba K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth.
+The **Pik'ob**—the owl keepers—represent the contemplative branch of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]]'s service. Where the Ix'bal'ob serve the jaguar who kills swiftly, the Pik'ob serve Pik'ik, the owl on the death god's brow, who watches as the jungle slowly reclaims what death has taken. They maintain the **Xik'tel K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth.
 
 The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die—and to embrace this not as tragedy but as freedom.
 
@@ -106,7 +106,7 @@ Because the order takes the bereaved and teaches them the impermanence of everyt
 
 ## Relations
 
-Within the death faith the Pik'ob and the Ix'bal'ob divide the god between them and rarely quarrel: the death-walkers hold the recitations, the descent and the codices, and the owl keepers hold the groves and the long return. The **K'ul Pik'ob** answers to the death-temple's K'ul Tq'an for what the order's philosophers say in public, which is the whole of the supervision the branch receives and, most years, more than it needs.
+Within the death faith the Pik'ob and the Ix'bal'ob divide the god between them and rarely quarrel: the death-walkers hold the recitations, the descent and the codices, and the owl keepers hold the groves and the long return. The **Ch'alix Pik'ob** answers to the death-temple's Ch'alix Tq'an for what the order's philosophers say in public, which is the whole of the supervision the branch receives and, most years, more than it needs.
 
 With the builder-priests of [[affiliation-piqalkulqat|P'iqal Kul'qat]] the order carries the tradition's most distinctive standing argument. The builders hold that a raised structure is a participation in the goddess's unfinished work; the Pik'ob hold that surrendering one is a participation in the same truth from the other side. The quarrel is fought out annually in the allocation of masons between new work and repair, and neither branch expects to win it.
 

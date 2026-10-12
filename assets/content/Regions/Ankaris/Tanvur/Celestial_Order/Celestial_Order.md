@@ -7,7 +7,7 @@ description: "The Celestial Order, the faith of Tānvür—a universe run as a c
 data: {packFolder: celestialorder}
 ---
 
-A temple clerk in a river city, taking a petition for rain from a farmer who has walked two days to bring it, checks the seal, corrects the address and sends it to the brazier with a word of advice: "Next time, write to the Minister of Storms, not the Lord of Water. Water is his to keep, not to send." That is the faith of the [[affiliation-tanvurempr|Empire of Tānvür]]. The **Celestial Order**, formally the [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] ("Celestial Court of Ten Thousand Spirits"), is the religion, the cosmology and the administrative frame of every part of Tānvüri life, and its believers speak of it as a set of procedures before they speak of it as a faith.
+A temple clerk in a river city, taking a petition for rain from a farmer who has walked two days to bring it, checks the seal, corrects the address and sends it to the brazier with a word of advice: "Next time, write to the Minister of Storms, not the Lord of Water. Water is his to keep, not to send." That is the faith of the [[affiliation-tanvurempr|Empire of Tānvür]]. The **Celestial Order**, formally the [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]] ("Celestial Court of Ten Thousand Spirits"), is the religion, the cosmology and the administrative frame of every part of Tānvüri life, and its believers speak of it as a set of procedures before they speak of it as a faith.
 
 In the Celestial Order the universe is a work of classification. The gods are officials who hold posts. Morality is a balance on an account. Magic is a petition carried through the proper channels. A visitor from the Aurèldían west finds nearly every expectation he brought about the divine, the soul and the believer's place in the cosmos turned on its head.
 
@@ -15,7 +15,7 @@ In the Celestial Order the universe is a work of classification. The gods are of
 
 The Celestial Order rests on one principle: **what is classified exists, and what is unclassified dissolves into chaos.**
 
-Before Tānlüng, the First Classifier, drew the first distinction, everything was **Hürnlëi**, the Unclassified, a formless mass of undivided cosmic energy. Tānlüng performed the **Dāk Zhāklëi**, the Great Sorting, separating the elements, setting the categories and building the classification that holds the world together. The gods were not born from the Sorting; they were appointed to run it ([[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] gives the full account).
+Before Tānzhös, the First Classifier, drew the first distinction, everything was **Hürnlëi**, the Unclassified, a formless mass of undivided cosmic energy. Tānzhös performed the **Dāk Zhāklëi**, the Great Sorting, separating the elements, setting the categories and building the classification that holds the world together. The gods were not born from the Sorting; they were appointed to run it ([[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]] gives the full account).
 
 Keeping the cosmos in order is therefore upkeep, and every rite, offering and petition is part of it. If the celestial administration fails, the Tānvüri hold, the world itself comes apart.
 
@@ -23,7 +23,7 @@ Keeping the cosmos in order is therefore upkeep, and every rite, offering and pe
 
 The Great Sorting classified every creature, plant and insect, and the Bureau of Creation (_Zāt Sëi_) administers all life. The [[lore-tanthei|Tānthëi]] keep a great bestiary, the **Zhëk Dāk** (Life Record), which lists every known form of life by classification, elemental affinity, habitat, habits and danger. It recognizes three kinds of living thing.
 
-**Persons** (_Rën Zhëk_) are beings with moral agency: humans, [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]]. They keep moral ledgers, hold castes and answer to the whole apparatus of celestial accounting, and most of the empire's administration exists to keep them in order.
+**Persons** (_Nürk Zhëk_) are beings with moral agency: humans, [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]]. They keep moral ledgers, hold castes and answer to the whole apparatus of celestial accounting, and most of the empire's administration exists to keep them in order.
 
 **Kinds** (_Zhëk Zōk_) are the species that breed true: dogs, horses, hawks, fish, serpents, beetles, rice and bamboo. Each kind is a pattern kept by the Bureau of Creation, which sets its elemental affinities, its range, its habits and its place in the cosmos. A horse is chiefly Earth, a hawk Air, a river carp Water; a venomous serpent may be both Water and Metal. A kind is a finished commission: the Bureau designed it, it breeds by its pattern, and it needs nothing but routine care.
 
@@ -37,7 +37,7 @@ The Great Sorting classified every creature, plant and insect, and the Bureau of
 
 **The temple.** A Tānvüri temple is an office where mortals do business with the spirit bureaucracy. People come to it to file petitions: for rain, for healing, for a favorable ruling in a lawsuit, for a dead parent's safe passage through the Ministry of Final Account. The temple staff are clerks. They know the correct forms, the correct seals and the correct bureau to address, and a petition sent to the wrong bureau is lost.
 
-**Spirit paper.** The most characteristic practice of the faith is the burning of spirit paper: petitions, contracts, money and goods made in paper and burned. Fire is the channel between the mortal and celestial planes, kept by the Bureau of Transformation ([[affiliation-tngvkvnlei|Höt Sëi]]), and the Tānvüri hold that burning a correctly addressed petition files it, burning spirit money pays it into a celestial account, and burning offerings for the dead feeds them. Households keep stocks of spirit paper as an Aurèldían household keeps grain, and running out is an emergency: a family with no paper cannot petition, cannot feed its ancestors and cannot send anything up.
+**Spirit paper.** The most characteristic practice of the faith is the burning of spirit paper: petitions, contracts, money and goods made in paper and burned. Fire is the channel between the mortal and celestial planes, kept by the Bureau of Transformation ([[affiliation-tngvkrrklei|Höt Sëi]]), and the Tānvüri hold that burning a correctly addressed petition files it, burning spirit money pays it into a celestial account, and burning offerings for the dead feeds them. Households keep stocks of spirit paper as an Aurèldían household keeps grain, and running out is an emergency: a family with no paper cannot petition, cannot feed its ancestors and cannot send anything up.
 
 **The moral ledger.** Every person has a moral ledger, a running account of credits and debits kept by the celestial bureaucracy. The household's Hearth Monitor (_Zātkür_) watches its conduct and files a report every year. Keeping caste duties, observing the rites, living at peace with one's family and giving alms are credits; breaking caste, neglecting the rites, dishonor and crime are debits. The ledger decides a person's fortune in life, the quality of his afterlife and the strength his spirit will have to argue for his descendants. The Tānvüri hold it to be an actual document, kept at the Ministry of Final Account, which the Chief Auditor (_Vënsōk Zhük_) reads line by line at every death.
 
@@ -57,13 +57,13 @@ The Vëndük work it by building mental forms shaped as procedures. Where an Ord
 
 ## Faith and Government
 
-Religion and government in Tānvür are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tānvüri insist, heaven's administration came first and earth copies it. The Emperor (_Tëngzhëi_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Warlords (_Vüszhük_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tānlüng sorted.
+Religion and government in Tānvür are one system seen from two sides. The imperial government is modeled on the celestial bureaucracy, or, as the Tānvüri insist, heaven's administration came first and earth copies it. The Emperor (_Tëngzhëi_, Son of Heaven) holds the [[lore-mandatehvn|Mandate of Heaven]], an appointment, not a divine blessing. The Warlords (_Vüszhük_) govern their provinces as overseers govern bureaus. The castes are a classification laid down at the Great Sorting, so to challenge them is dangerous to the cosmos as well as against the law, because it threatens to unsort something Tānzhös sorted.
 
 That changes what rebellion means. In the kingdoms of the west a rebel is a criminal. In Tānvür he is an agent of the Hürnlëi, a man whose acts could unmake the world, and from the Tānvüri side the empire's rigidity is the upkeep of the cosmos.
 
 ## The Order in Detail
 
-- [[lore-clstlpnthn|Celestial Pantheon]]—the great powers: Tānlüng, Vëizhük, Rëkgüng and Yütvëi
+- [[lore-clstlpnthn|Celestial Pantheon]]—the great powers: Tānzhös, Vëizhük, Rëkgīrk and Yütvëi
 - [[lore-fvlmntlrds|Five Elemental Lords]]—the administrators of Air, Fire, Earth, Metal and Water
 - [[lore-mandatehvn|Mandate of Heaven]]—the Emperor's appointment
 - [[lore-infrnlrlms|Infernal Realms]]—the Unclassified pressing on the borders of the sorted world

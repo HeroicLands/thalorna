@@ -42,7 +42,7 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation:** _Aw-REL-dee-ahn_
 
-The Aurèldían pantheon is the dominant religious tradition of western [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and [[place-byzariargn|Byzaría Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.
+The Aurèldían pantheon is the dominant religious tradition of western [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across [[affiliation-vylarinmpr|Vylaria]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-helionis|Heliónis]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], and [[place-byzariargn|Byzaría Region]], with a secondary presence in the port cities of [[affiliation-kalihara|Kalihara]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence.
 
 ## The Twelve
 

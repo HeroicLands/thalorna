@@ -77,7 +77,7 @@ data:
   relations:
     arldnpnthn: aligned
     ordoarcanis: unaligned
-    cnfdrtnhrdnstts: nemesis
+    cnfdrtntrzlnstts: nemesis
     ctysttshlns: aligned
     kngdmprvnz: unaligned
     kingdmtrvn: rival
@@ -93,7 +93,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of [[place-midhalnrgn|Mídhalión]], from [[place-tarvenirgn|Tarvénia]] and [[place-provenzrgn|Provènzia]] in the west to the edge of [[affiliation-cnfdrtnhrdnstts|Harad]] in the east. Today it holds [[place-vylariargn|Vylaría]], its four provinces the lands of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
+The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of [[place-midhalnrgn|Mídhalión]], from [[place-tarvenirgn|Tarvénia]] and [[place-provenzrgn|Provènzia]] in the west to the edge of [[affiliation-cnfdrtntrzlnstts|Tarûzel]] in the east. Today it holds [[place-vylariargn|Vylaría]], its four provinces the lands of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
 The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Ôrzâra]], begins with the titles: "You will hear the Emperor called the **Augustar**, and you will call him that too. You will hear the Senate debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
@@ -115,21 +115,21 @@ As Vylarian power grew, so did the ambitions of senators and generals. The late 
 
 In what is now reckoned **Year 1**, a powerful senator, backed by loyal legions and by the Ordo Arcanis chartered seventy-three years earlier, seized supreme power and declared himself Emperor ([[lore-thefounding|The Founding]]). The Senate survived, reduced from a governing body to an advisory one. The change was no sudden revolution but the end of decades of political erosion: the Emperor formalized what had already become fact. The calendar of western Ankaris counts from that year.
 
-At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the deserts of [[place-dunharargn|Dunhara]], and from the shores of [[place-elavendre|Élavendre]] to the harbors of Harad. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
+At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the deserts of [[place-dunharargn|Dunhara]], and from the shores of [[place-elavendre|Élavendre]] to the harbors of Tarûzel. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
 
 ### The Decline
 
 [[lore-empirdclne|The decline]] began roughly two hundred years ago. Overextension, corruption at home, barbarian pressure from [[place-vrystwald|Vrystwald]] and the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], and the gradual independence of provinces such as [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]] drove it together.
 
-The worst humiliation came roughly twelve years ago, when Harad, the empire's wealthiest eastern province, won a war of independence. Its merchant princes, rich as middlemen in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any voice in the Senate. When the empire answered their growing power with heavier levies and tighter control, the merchants financed a revolution and recruited the common people with promises of liberty. The empire's first response was effective on land. Then the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], seeing a chance to weaken its northern rival, covertly supplied the rebels with gold, weapons and military advisors. The Khelâthi court kept up the fiction of "humanitarian commerce," but its gold kept the rebellion solvent, and its naval expertise turned the Haradian captains' ragtag flotilla into a fighting force. The [[affiliation-sultntmrdd|Sultanate of Amradad]], whose relations with the empire have long been antagonistic, was among the other powers that helped the Haradians break away. The destruction of a Vylarian squadron at the Battle of [[place-tamzirshoals|Tamzîr Shoals]] broke the empire's ability to hold its eastern garrisons, and it recognized Harad's independence within the year rather than pay for another campaign.
+The worst humiliation came roughly twelve years ago, when Tarûzel, the empire's wealthiest eastern province, won a war of independence. Its merchant princes, rich as middlemen in the eastern trade, had chafed for generations under imperial taxation and regulation imposed without any voice in the Senate. When the empire answered their growing power with heavier levies and tighter control, the merchants financed a revolution and recruited the common people with promises of liberty. The empire's first response was effective on land. Then the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], seeing a chance to weaken its northern rival, covertly supplied the rebels with gold, weapons and military advisors. The Khelâthi court kept up the fiction of "humanitarian commerce," but its gold kept the rebellion solvent, and its naval expertise turned the Tarûzelian captains' ragtag flotilla into a fighting force. The [[affiliation-sultntmrdd|Sultanate of Amradad]], whose relations with the empire have long been antagonistic, was among the other powers that helped the Tarûzelians break away. The destruction of a Vylarian squadron at the Battle of [[place-tamzirshoals|Tamzîr Shoals]] broke the empire's ability to hold its eastern garrisons, and it recognized Tarûzel's independence within the year rather than pay for another campaign.
 
-The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Harad's trade revenue has sped the fiscal decline, and direct Haradian–Khelâthi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Aû'Khelâthu's hand was behind it, festers in the Senate and the officer corps.
+The empire has since drawn back to its core territories around the Vylarian peninsula, while still claiming authority over regions that went their own way long ago. The loss of Tarûzel's trade revenue has sped the fiscal decline, and direct Tarûzelian–Khelâthi commerce now bypasses Vylarian middlemen entirely. The defeat, and the knowledge that Aû'Khelâthu's hand was behind it, festers in the Senate and the officer corps.
 
 ### The Vylarian Calendar {#the-vylarian-calendar}
 
 The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian senator seized supreme power. That moment is **Year 1**. Events before it are dated **Before the Founding (BF)** and events after it **After the Founding (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
@@ -196,7 +196,7 @@ Some **21 million** people live under direct imperial governance in the four cor
 - **[[affiliation-provinclys|Alyssa]]**—the heartland, holding the capital and the Senate; the most urban and politically sophisticated province, home to the oldest senatorial families and the seat of the Ordo Arcanis.
 - **[[affiliation-provnchyln|Hylen]]**—the breadbasket, whose fertile lowlands grow grain, wine and olive oil; its landed aristocracy is conservative, traditionalist and resistant to change.
 - **[[affiliation-provncmktr|Moktur]]**—the mountainous northern province on the [[place-vrystwald|Vrystwald]] border, charged with defending the frontier; its military governors hold wide autonomy and sometimes act as semi-independent warlords.
-- **[[affiliation-provincvld|Sâlkhâlon]]**—the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Harad and Heliónis, which makes it the most cosmopolitan and commercial province.
+- **[[affiliation-provincvld|Sâlkhâlon]]**—the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Tarûzel and Heliónis, which makes it the most cosmopolitan and commercial province.
 
 The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm, shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to the Aurèldían faith.
 
@@ -204,14 +204,14 @@ The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-
 
 The [[affiliation-vylrnmltry|Vylarian legions]], once the most feared fighting force in Ankaris, are a shadow of what they were. The empire can still field disciplined, well-equipped armies, but they are stretched thin along borders it can no longer fully hold. Mercenaries, often Tarvénan or Nordmen, fill the gaps in the ranks, and their reliability varies.
 
-The navy is still competent and holds key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Haradian supremacy in the eastern sea is a fact Vylarian admirals prefer not to discuss.
+The navy is still competent and holds key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Tarûzelian supremacy in the eastern sea is a fact Vylarian admirals prefer not to discuss.
 
 ## Relations
 
 The long shadow of empire defines Vylaria's dealings with its neighbors.
 
 - **[[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]** were provinces once and keep a strong Vylarian cultural stamp, and both guard their independence fiercely.
-- **[[affiliation-cnfdrtnhrdnstts|Harad]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Haradian merchant guilds are pushing hard into markets the empire once dominated.
+- **[[affiliation-cnfdrtntrzlnstts|Tarûzel]]** won its independence roughly twelve years ago, and relations remain tense: the empire has not forgotten the humiliation, and Tarûzelian merchant guilds are pushing hard into markets the empire once dominated.
 - **[[place-helionis|Heliónis]]**, once the empire's cultural jewel, keeps close and complicated ties. Vylaria conquered Heliónis by arms, and Helionite culture conquered Vylaria in return: Vylarian education, philosophy, law and theology all carry deep Helionite influence, and the aristocracy still sends its children to Helionite academies even as imperial authority there fades.
 - **[[place-vrystwald|Vrystwald]]** to the north is a chronic military problem, and Varokh raids a persistent nuisance.
 - **The [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]** across the sea is the region's other great power. The two empires have fought wars, the worst of them [[lore-vylconquest|the Vylarian Conquest]] of 377 AF, and have largely settled into a wary balance, Aû'Khelâthu dominant in the south and Vylaria in the north.
@@ -234,7 +234,7 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and 
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the dominant arcane order
 - [[affiliation-vylrnmltry|Vylarian Military]]—the legions and the fleet
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen and the resident
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—former province, now independent rival
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—former province, now independent rival
 - [[place-helionis|Heliónis]]—cultural heartland
 - [[place-provenzrgn|Provènzia Region]]—former province, cultural inheritor
 - [[place-vrystwald|Vrystwald]]—the northern frontier

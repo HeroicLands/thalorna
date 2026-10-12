@@ -431,7 +431,7 @@ Garulf's career as a freelance thug came to an abrupt end when a robbery went ca
 
 ### Aboard the Tamzîr
 
-Garulf has served as the Tamzîr's muscle for eight years. He is not particularly loyal to Shâ or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
+Garulf has served as the Tamzîr's muscle for eight years. He is not particularly loyal to Bû or to the crew—he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
 
 ## Psyche
 
@@ -463,7 +463,7 @@ Garulf is wanted in two Vrystwald provinces for robbery and assault. He has made
 
 ### Affiliations
 
-Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating [[being-kasuradmzr|Kasûra Damzarû]] with crude commentary and being quietly disarmed by her persistent cheerfulness.
+Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating [[being-blgnrskn|Belgina Rusâkûnî]] with crude commentary and being quietly disarmed by her persistent cheerfulness.
 
 ## Plot Hooks
 

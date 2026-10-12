@@ -1,9 +1,9 @@
 ---
 shortcode: nyalbbaob
-name: {full: "Baobab Totem", aliases: [Baobab of the Bombwe, Bombwe Totem]}
+name: {full: "Baobab Totem", aliases: [Baobab of the Lobwezi, Lobwezi Totem]}
 type: affiliation
 subType: spirittradition
-description: "The baobab-spirit of the Bombwe—long-rootedness, the gathering-place and the keeping of stories; ritually senior because its griots hold the genealogies of all five clans."
+description: "The baobab-spirit of the Lobwezi—long-rootedness, the gathering-place and the keeping of stories; ritually senior because its griots hold the genealogies of all five clans."
 tags: [nyaluba, religion, totemic]
 data:
   icon: null
@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -41,7 +41,7 @@ data:
         Custodian of one ancient tree and the town gathered around it; by custom the senior griot of that town holds the office.
       Senior Griot: >-
         Keeper of the Long Pact and of the genealogies of all five clans—the office on which the confederation's memory rests.
-      Mwalimu wa Roho: >-
+      Kwendari Zohiring: >-
         Spirit-Speaker of the baobab, who addresses the guide at the seasons and at every gathering held beneath it.
       Keeper of the Tally: >-
         Recorder of the offerings owed by each household of the town to its tree.
@@ -50,25 +50,25 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [baobabbombwespr, nyalbsprts]
+  lore: [baobablobwezispr, nyalbsprts]
   parents: [nyalbpnthn]
   relations: {nyalbpnthn: aligned}
   packFolder: nyaluba
-sohl: {system: {commonSkills: [baobabbombwesprt]}}
+sohl: {system: {commonSkills: [baobablobwezisprt]}}
 ---
 
-The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Bombwe]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Bombwe are the smallest of the five clans and the ritually senior one, because it is Bombwe griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.
+The **Baobab Totem** is the guide of the [[affiliation-nylbtrblntn|Lobwezi]], the settled cultivators of the perennial-water districts—long-rootedness, the gathering-place, and the keeping of stories. The Lobwezi are the smallest of the five clans and the ritually senior one, because it is Lobwezi griots who carry the official memory of the Long Pact and the genealogies of all five clans. They speak last in any council, and what they say is generally remembered.
 
-Each Bombwe town centers on an ancient tree—some a thousand years old or more—and the senior griot of the town is also that tree's custodian. The guide is unlike the other four in that it does not move and does not hunt. It holds a place, and the people gather in it. Where the lion is venerated for its bearing and the crocodile appeased for its hunger, the baobab is venerated for its patience, and for the fact that it was there before the clan and will be there after.
+Each Lobwezi town centers on an ancient tree—some a thousand years old or more—and the senior griot of the town is also that tree's custodian. The guide is unlike the other four in that it does not move and does not hunt. It holds a place, and the people gather in it. Where the lion is venerated for its bearing and the crocodile appeased for its hunger, the baobab is venerated for its patience, and for the fact that it was there before the clan and will be there after.
 
 ## Veneration
 
-The tree is the shrine; there is no other. Offerings are made at its root by each household of the town, and the tally is kept by the town's griot. A Bombwe town whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the town disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs.
+The tree is the shrine; there is no other. Offerings are made at its root by each household of the town, and the tally is kept by the town's griot. A Lobwezi town whose baobab dies does not replant and does not stay: the guide has withdrawn, the pact with that ground is ended, and the town disperses to others. This has happened twice in remembered history, and both dispersals are named in the memory-songs.
 
 ## See Also
 
-- [[lore-baobabbombwespr|Baobab Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-baobabbombwesprt|Baobab Spirit Power]]—the standing through which the guide is asked
+- [[lore-baobablobwezispr|Baobab Spirit]]—the guide as a being, apart from the practices of its cult
+- [[skill-baobablobwezisprt|Baobab Spirit Power]]—the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Bombwe and the other four clans
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Lobwezi and the other four clans

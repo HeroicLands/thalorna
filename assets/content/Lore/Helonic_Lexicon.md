@@ -110,27 +110,24 @@ A Helonic word of the old stock closes on `n`, `r`, `s`, `m`, `l` or `th`; `sh`,
 
 The pages mark stress with the acute where it does not fall on the second-last syllable, and the old names mark it with the grave as well. A stress mark changes no sound, so a word is read through the table below before it is held to the sound rules; the other rows are spellings the names in use carry from older hands.
 
-| Written | Read as | What it is                                                  |
-| ------- | ------- | ----------------------------------------------------------- |
-| `á`     | `a`     | the acute, a stress mark                                    |
-| `é`     | `e`     | the acute, a stress mark                                    |
-| `í`     | `i`     | the acute, a stress mark                                    |
-| `ó`     | `o`     | the acute, a stress mark                                    |
-| `ú`     | `u`     | the acute, a stress mark                                    |
-| `ý`     | `ü`     | the acute on the rounded vowel                              |
-| `y`     | `ü`     | the rounded vowel in the old spelling, between consonants   |
-| `ì`     | `i`     | the grave, a stress mark in the old names                   |
-| `ò`     | `o`     | the grave, a stress mark in the old names                   |
-| `ù`     | `u`     | the grave, a stress mark in the old names                   |
-| `è`     | `e`     | the grave, a stress mark in the old names                   |
-| `tch`   | `tch`   | the Byzarian affricate, read whole                          |
-| `ch`    | `kh`    | the scholars' spelling of the rasp, in names                |
-| `x`     | `ks`    | the scholars' letter for the pair                           |
-| `ḥ`     | `h`     | a dotted letter of an older hand                            |
-| `ş`     | `sh`    | the eastern spelling, in the names of the Byzarian frontier |
-| `ğ`     | `gh`    | the eastern spelling, in the names of the Byzarian frontier |
-| `ı`     | `i`     | the eastern spelling, in the names of the Byzarian frontier |
-| `ÿ`     | `ü`     | an older spelling of the rounded vowel                      |
+| Written | Read as | What it is                                                |
+| ------- | ------- | --------------------------------------------------------- |
+| `á`     | `a`     | the acute, a stress mark                                  |
+| `é`     | `e`     | the acute, a stress mark                                  |
+| `í`     | `i`     | the acute, a stress mark                                  |
+| `ó`     | `o`     | the acute, a stress mark                                  |
+| `ú`     | `u`     | the acute, a stress mark                                  |
+| `ý`     | `ü`     | the acute on the rounded vowel                            |
+| `y`     | `ü`     | the rounded vowel in the old spelling, between consonants |
+| `ì`     | `i`     | the grave, a stress mark in the old names                 |
+| `ò`     | `o`     | the grave, a stress mark in the old names                 |
+| `ù`     | `u`     | the grave, a stress mark in the old names                 |
+| `è`     | `e`     | the grave, a stress mark in the old names                 |
+| `tch`   | `tch`   | the Byzarian affricate, read whole                        |
+| `ch`    | `kh`    | the scholars' spelling of the rasp, in names              |
+| `x`     | `ks`    | the scholars' letter for the pair                         |
+| `ḥ`     | `h`     | a dotted letter of an older hand                          |
+| `ÿ`     | `ü`     | an older spelling of the rounded vowel                    |
 
 The rounded vowel is written `y` between consonants in every name and most words of the inherited stock, as the Helónika letter for it is read, and only this page writes it `ü` in the letter table so that the reader hears it. `y` before a vowel is the consonant of _yes_.
 
@@ -315,38 +312,48 @@ Honor in Heliónis is paid in blood and glory, and the words show it: _dôkharin
 | `tim-`     | `stem` | honor held in the sight of others                                     | —                | —                            |
 | `timîn`    | `n`    | a trial of honor, judged at a temple                                  | —                | —                            |
 | `kûmêthos` | `n`    | the chorus; the company of a play, and the citizens as one voice      | —                | —                            |
+| `kûmêth-`  | `stem` | of the chorus; of many voices as one                                  | —                | —                            |
 | `drâmin`   | `n`    | a play, a thing done on the stage                                     | —                | —                            |
 | `skênir`   | `n`    | the stage, and the painted house behind it                            | —                | —                            |
 | `thrêsos`  | `n`    | a vote, the stone cast into the urn                                   | —                | —                            |
 | `agélon`   | `n`    | the assembly of the citizens                                          | —                | —                            |
+| `agél-`    | `stem` | of the assembly                                                       | —                | —                            |
 | `kléandir` | `n`    | a hero; one the stories keep                                          | —                | —                            |
 | `théldir`  | `n`    | a festival of the gods, with games                                    | —                | —                            |
+| `théld-`   | `stem` | of the festival                                                       | —                | —                            |
 | `ieréshin` | `n`    | a rite, a thing done for a god                                        | —                | —                            |
 
 ### Sea, river, land and sky
 
 Heliónis reaches the sea along one short coast and never stops talking about it; Byzaría lives on its rivers and the roads beside them; Bethûa is an island and has a word for every state of the water around it. The sky words are the schools': the hours are measured, and a Helonic day is named by its light.
 
-| Form       | Class | Gloss                               | Built from | Attested                     |
-| ---------- | ----- | ----------------------------------- | ---------- | ---------------------------- |
-| `phótamir` | `n`   | river                               | —          | [[skill-helonclng\|Helonic]] |
-| `ghéranîs` | `n`   | earth, land                         | —          | [[skill-helonclng\|Helonic]] |
-| `thálimir` | `n`   | the sea                             | —          | —                            |
-| `phrélin`  | `n`   | the shore, the sea's edge           | —          | —                            |
-| `nêsthir`  | `n`   | an island                           | —          | —                            |
-| `limênir`  | `n`   | a harbor                            | —          | —                            |
-| `lôphir`   | `n`   | a hill, a ridge                     | —          | —                            |
-| `órashin`  | `n`   | a mountain                          | —          | —                            |
-| `pédhin`   | `n`   | a plain, flat country               | —          | —                            |
-| `elaíshir` | `n`   | the olive, and its tree             | —          | —                            |
-| `ámpelir`  | `n`   | the vine                            | —          | —                            |
-| `phaênir`  | `n`   | the sun                             | —          | —                            |
-| `selênir`  | `n`   | the moon                            | —          | —                            |
-| `ánevir`   | `n`   | the wind                            | —          | —                            |
-| `hôrin`    | `n`   | an hour, a measured part of the day | —          | —                            |
-| `nýkhtir`  | `n`   | night                               | —          | —                            |
-| `khêmôn`   | `n`   | winter, the storm season            | —          | —                            |
-| `thérimos` | `n`   | summer, the sailing season          | —          | —                            |
+| Form       | Class  | Gloss                               | Built from | Attested                     |
+| ---------- | ------ | ----------------------------------- | ---------- | ---------------------------- |
+| `phótamir` | `n`    | river                               | —          | [[skill-helonclng\|Helonic]] |
+| `ghéranîs` | `n`    | earth, land                         | —          | [[skill-helonclng\|Helonic]] |
+| `ghéran-`  | `stem` | of the land                         | —          | —                            |
+| `thálimir` | `n`    | the sea                             | —          | —                            |
+| `thálim-`  | `stem` | of the sea                          | —          | —                            |
+| `phrélin`  | `n`    | the shore, the sea's edge           | —          | —                            |
+| `nêsthir`  | `n`    | an island                           | —          | —                            |
+| `limênir`  | `n`    | a harbor                            | —          | —                            |
+| `lôphir`   | `n`    | a hill, a ridge                     | —          | —                            |
+| `lôph-`    | `stem` | of the hill                         | —          | —                            |
+| `órashin`  | `n`    | a mountain                          | —          | —                            |
+| `órash-`   | `stem` | of the mountain                     | —          | —                            |
+| `pédhin`   | `n`    | a plain, flat country               | —          | —                            |
+| `pédh-`    | `stem` | of the plain                        | —          | —                            |
+| `elaíshir` | `n`    | the olive, and its tree             | —          | —                            |
+| `ámpelir`  | `n`    | the vine                            | —          | —                            |
+| `phaênir`  | `n`    | the sun                             | —          | —                            |
+| `selênir`  | `n`    | the moon                            | —          | —                            |
+| `ánevir`   | `n`    | the wind                            | —          | —                            |
+| `ánev-`    | `stem` | of the wind                         | —          | —                            |
+| `hôrin`    | `n`    | an hour, a measured part of the day | —          | —                            |
+| `nýkhtir`  | `n`    | night                               | —          | —                            |
+| `nýkht-`   | `stem` | of the night                        | —          | —                            |
+| `khêmôn`   | `n`    | winter, the storm season            | —          | —                            |
+| `thérimos` | `n`    | summer, the sailing season          | —          | —                            |
 
 ### The city, law and office
 
@@ -369,9 +376,11 @@ Every Helonic city of note has its academies, its gymnasia and its theaters, and
 | `agóranir`    | `n`    | the warden of the market, ruling on its weights, coin and disputes | `agóran-` + `-ir`          | —                            |
 | `agóran-`     | `stem` | of the market                                                      | —                          | —                            |
 | `teíkhir`     | `n`    | a wall, the city's                                                 | —                          | —                            |
+| `teíkh-`      | `stem` | walled, of the wall                                                | —                          | —                            |
 | `pýlin`       | `n`    | a gate                                                             | —                          | —                            |
 | `kásthrin`    | `n`    | a fort, a walled height                                            | —                          | —                            |
 | `sphrâdin`    | `n`    | a seal, and the sealed thing                                       | —                          | —                            |
+| `sphrâd-`     | `stem` | to seal                                                            | —                          | —                            |
 | `katálgar`    | `n`    | the roll of citizens                                               | —                          | —                            |
 | `bûlêr`       | `n`    | the council of a city                                              | —                          | —                            |
 | `bûlos`       | `n`    | a councillor                                                       | `bûl-` + `-os`             | —                            |
@@ -394,10 +403,14 @@ Byzaris was named for its workshops, and the Byzarian tongue is the family's cou
 | `máthiron`     | `n`    | metal                                              | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
 | `kérdhanir`    | `n`    | profit, gain                                       | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
 | `argýrin`      | `n`    | silver                                             | —                    | —                              | `helonic`  |
+| `argýr-`       | `stem` | silver, of silver                                  | —                    | —                              | `helonic`  |
 | `nômishin`     | `n`    | coin, struck money                                 | —                    | —                              | `helonic`  |
 | `zýghir`       | `n`    | a balance, a pair of scales                        | —                    | —                              | `helonic`  |
+| `zýgh-`        | `stem` | to weigh in the balance                            | —                    | —                              | `helonic`  |
 | `tálanin`      | `n`    | a talent, the great weight of silver               | —                    | —                              | `helonic`  |
+| `tálan-`       | `stem` | weighty, of the great weight                       | —                    | —                              | `helonic`  |
 | `euthálir`     | `adj`  | profitable, valuable                               | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
+| `euthál-`      | `stem` | to prosper                                         | —                    | —                              | `helonic`  |
 | `byzar`        | `n`    | a workshop, the place of making                    | —                    | [[lore-byzarianclt\|Byzarian]] | `byzarian` |
 | `esh`          | `v`    | is; the bazaar's clipping of _ésharin_             | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
 | `danîzh`       | `v`    | lend; the bazaar's clipping of _danîzharin_        | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
@@ -410,6 +423,7 @@ Byzaris was named for its workshops, and the Byzarian tongue is the family's cou
 | `morzâl`       | `n`    | the first grade of a good; the best bale           | —                    | —                              | `byzarian` |
 | `morzân`       | `n`    | the second grade, sound and ordinary               | —                    | —                              | `byzarian` |
 | `morzâsh`      | `n`    | the third grade, sold by the heap                  | —                    | —                              | `byzarian` |
+| `morz-`        | `stem` | to grade goods                                     | —                    | —                              | `byzarian` |
 | `karvash`      | `n`    | a caravan                                          | —                    | —                              | `byzarian` |
 | `karvashkâr`   | `n`    | a caravan-master                                   | `karvash` + `-kâr`   | —                              | `byzarian` |
 | `tolzát`       | `n`    | a toll, the gate's share                           | —                    | —                              | `byzarian` |
@@ -417,6 +431,24 @@ Byzaris was named for its workshops, and the Byzarian tongue is the family's cou
 | `hodîs`        | `n`    | a road                                             | —                    | —                              | `byzarian` |
 | `limenîs`      | `n`    | a quay, the harbor-front                           | —                    | —                              | `byzarian` |
 | `ambârim`      | `n`    | a warehouse                                        | —                    | —                              | `byzarian` |
+| `zhevrân`      | `n`    | a gem, a cut stone                                 | —                    | —                              | `byzarian` |
+| `pazhûr`       | `n`    | a pearl                                            | —                    | —                              | `byzarian` |
+| `tchelvâz`     | `n`    | turquoise                                          | —                    | —                              | `byzarian` |
+| `mâzhrel`      | `n`    | amber                                              | —                    | —                              | `byzarian` |
+| `tchârzil`     | `n`    | silk                                               | —                    | —                              | `byzarian` |
+| `zhâmbel`      | `n`    | indigo, the blue dye                               | —                    | —                              | `byzarian` |
+| `dâlvesh`      | `n`    | saffron                                            | —                    | —                              | `byzarian` |
+| `belzûr`       | `n`    | pepper, and any hot spice                          | —                    | —                              | `byzarian` |
+| `sêvrûn`       | `n`    | musk                                               | —                    | —                              | `byzarian` |
+| `rûzhvel`      | `n`    | a rose, and the rosewater pressed from it          | —                    | —                              | `byzarian` |
+| `selvâzh`      | `n`    | felt, and a tent made of it                        | —                    | —                              | `byzarian` |
+| `kezhvâl`      | `n`    | a camel                                            | —                    | —                              | `byzarian` |
+| `tûlvâz`       | `n`    | a horse                                            | —                    | —                              | `byzarian` |
+| `kezvûn`       | `n`    | a hawk, the hunting bird sold in the bazaar        | —                    | —                              | `byzarian` |
+| `tchîrnâl`     | `n`    | a caravan's bell                                   | —                    | —                              | `byzarian` |
+| `dezhbâl`      | `n`    | a well on the road, a water-stop                   | —                    | —                              | `byzarian` |
+| `pârzhel`      | `n`    | a road-fort, a walled stopping-place               | —                    | —                              | `byzarian` |
+| `vezhnûr`      | `n`    | the heights; the high passes                       | —                    | —                              | `byzarian` |
 | `seketar`      | `n`    | a secretary, a hired scribe                        | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
 | `papýrin`      | `n`    | paper-script, the Vylarian writing-sheet           | —                    | —                              | `byzarian` |
 
@@ -455,57 +487,63 @@ The household is the one thing all three peoples name alike and rule differently
 
 Bethûa cannot run its tunnel-wells, keep its treasury or clear a cargo without the words it borrowed from [[skill-khelathlng|Khelâthi]], and the tell of a borrowed word is the article that came with it: _en-_ or _et-_ on the front of a noun that means nothing without it. The feminine register of the temple reaches past every one of these for an inherited word, and the practical register cannot do without them.
 
-| Form         | Class | Gloss                                                      | Built from | Attested                     | Tongue    |
-| ------------ | ----- | ---------------------------------------------------------- | ---------- | ---------------------------- | --------- |
-| `hýdhir`     | `n`   | water                                                      | —          | —                            | `helonic` |
-| `krênir`     | `n`   | a spring                                                   | —          | —                            | `helonic` |
-| `katelûn`    | `n`   | a tunnel-well, the underground channel the Khelâthi taught | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `et-tareb`   | `n`   | an aqueduct                                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-mûna`    | `n`   | a cistern, a reservoir                                     | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `et-degân`   | `n`   | the customs-toll, the impost                               | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `kathûr`     | `n`   | a seal, and the sealed warrant                             | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-telekâs` | `n`   | the quay, the harbor-front                                 | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `en-meret`   | `n`   | the quay, in the speech of Bethûra                         | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `khabetûn`   | `n`   | a bonded warehouse, a store                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `selkûr`     | `n`   | a year in the era-reckoning                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `halzât`     | `n`   | the scales; the oracular weighing of a candidate's worth   | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `kinelât`    | `n`   | fragrant oil, unguent                                      | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `durâs`      | `n`   | natron, washing-salt                                       | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
-| `pleôs`      | `adj` | full                                                       | —          | [[skill-bethunlng\|Bethuan]] | `bethuan` |
+| Form         | Class  | Gloss                                                      | Built from | Attested                     | Tongue    |
+| ------------ | ------ | ---------------------------------------------------------- | ---------- | ---------------------------- | --------- |
+| `hýdhir`     | `n`    | water                                                      | —          | —                            | `helonic` |
+| `krênir`     | `n`    | a spring                                                   | —          | —                            | `helonic` |
+| `krên-`      | `stem` | of a spring                                                | —          | —                            | `helonic` |
+| `katelûn`    | `n`    | a tunnel-well, the underground channel the Khelâthi taught | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `et-tareb`   | `n`    | an aqueduct                                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `en-mûna`    | `n`    | a cistern, a reservoir                                     | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `et-degân`   | `n`    | the customs-toll, the impost                               | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `kathûr`     | `n`    | a seal, and the sealed warrant                             | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `en-telekâs` | `n`    | the quay, the harbor-front                                 | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `en-meret`   | `n`    | the quay, in the speech of Bethûra                         | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `khabetûn`   | `n`    | a bonded warehouse, a store                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `selkûr`     | `n`    | a year in the era-reckoning                                | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `halzât`     | `n`    | the scales; the oracular weighing of a candidate's worth   | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `kinelât`    | `n`    | fragrant oil, unguent                                      | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `durâs`      | `n`    | natron, washing-salt                                       | —          | [[lore-bethuanclt\|Bethûan]] | `bethuan` |
+| `pleôs`      | `adj`  | full                                                       | —          | [[skill-bethunlng\|Bethuan]] | `bethuan` |
 
 ### Doing, going and being
 
 The verbs are the schools' and they end alike, in _-arin_ or _-in_; the daughters conjugate them less and less the farther they get from Thyrenae. Byzarian says most of them in one or two syllables and lets a particle carry the tense; Bethuan keeps the whole conjugation in the feminine register and drops it in the masculine.
 
-| Form         | Class | Gloss                                    | Built from        | Attested                     |
-| ------------ | ----- | ---------------------------------------- | ----------------- | ---------------------------- |
-| `ésharin`    | `v`   | to be, to exist                          | —                 | [[skill-helonclng\|Helonic]] |
-| `théradhin`  | `v`   | to behold, contemplate                   | —                 | [[skill-helonclng\|Helonic]] |
-| `dhidákhin`  | `v`   | to teach                                 | —                 | [[skill-helonclng\|Helonic]] |
-| `rhésharin`  | `v`   | to flow                                  | —                 | [[skill-helonclng\|Helonic]] |
-| `rhéthashin` | `v`   | to speak, to say aloud                   | —                 | [[skill-helonclng\|Helonic]] |
-| `dókhanir`   | `v`   | to think, judge                          | —                 | [[skill-helonclng\|Helonic]] |
-| `dôkhazhin`  | `v`   | to honor, glorify                        | —                 | [[skill-helonclng\|Helonic]] |
-| `árshidhin`  | `v`   | to rule, begin                           | —                 | [[skill-helonclng\|Helonic]] |
-| `sôtharin`   | `v`   | to save, preserve, hold together         | `sôth-` + `-arin` | [[skill-helonclng\|Helonic]] |
-| `phéranin`   | `v`   | to carry, bear                           | —                 | [[skill-helonclng\|Helonic]] |
-| `parádharin` | `v`   | to deliver, hand over                    | —                 | [[skill-helonclng\|Helonic]] |
-| `danîzharin` | `v`   | to lend                                  | —                 | [[skill-helonclng\|Helonic]] |
-| `métrarin`   | `v`   | to measure                               | `métr-` + `-arin` | —                            |
-| `ghígnarin`  | `v`   | to become, to come to be                 | —                 | —                            |
-| `érkharin`   | `v`   | to go, to come                           | —                 | —                            |
-| `pléarin`    | `v`   | to sail                                  | —                 | —                            |
-| `ághrarin`   | `v`   | to lead, to drive                        | —                 | —                            |
-| `lámbharin`  | `v`   | to take, to receive                      | —                 | —                            |
-| `ôlashin`    | `adj` | whole, entire                            | —                 | [[skill-helonclng\|Helonic]] |
-| `kélir`      | `adj` | beautiful, good, noble                   | —                 | [[skill-helonclng\|Helonic]] |
-| `kélira`     | `adj` | beautiful, of a woman or a feminine noun | `kélir` + `-a`    | —                            |
-| `lêphir`     | `adj` | clear, evident                           | —                 | [[skill-helonclng\|Helonic]] |
-| `méghar`     | `adj` | great, large                             | —                 | [[skill-helonclng\|Helonic]] |
-| `méghara`    | `adj` | great, feminine                          | `méghar` + `-a`   | [[skill-helonclng\|Helonic]] |
-| `agháthin`   | `adj` | good; and, as a noun, a good thing       | —                 | [[skill-helonclng\|Helonic]] |
-| `nêvaros`    | `adj` | new, young                               | —                 | —                            |
-| `palaíshir`  | `adj` | old, of the former age                   | —                 | —                            |
+| Form         | Class  | Gloss                                    | Built from        | Attested                     |
+| ------------ | ------ | ---------------------------------------- | ----------------- | ---------------------------- |
+| `ésharin`    | `v`    | to be, to exist                          | —                 | [[skill-helonclng\|Helonic]] |
+| `théradhin`  | `v`    | to behold, contemplate                   | —                 | [[skill-helonclng\|Helonic]] |
+| `dhidákhin`  | `v`    | to teach                                 | —                 | [[skill-helonclng\|Helonic]] |
+| `rhésharin`  | `v`    | to flow                                  | —                 | [[skill-helonclng\|Helonic]] |
+| `rhéthashin` | `v`    | to speak, to say aloud                   | —                 | [[skill-helonclng\|Helonic]] |
+| `dókhanir`   | `v`    | to think, judge                          | —                 | [[skill-helonclng\|Helonic]] |
+| `dôkhazhin`  | `v`    | to honor, glorify                        | —                 | [[skill-helonclng\|Helonic]] |
+| `árshidhin`  | `v`    | to rule, begin                           | —                 | [[skill-helonclng\|Helonic]] |
+| `sôtharin`   | `v`    | to save, preserve, hold together         | `sôth-` + `-arin` | [[skill-helonclng\|Helonic]] |
+| `phéranin`   | `v`    | to carry, bear                           | —                 | [[skill-helonclng\|Helonic]] |
+| `parádharin` | `v`    | to deliver, hand over                    | —                 | [[skill-helonclng\|Helonic]] |
+| `danîzharin` | `v`    | to lend                                  | —                 | [[skill-helonclng\|Helonic]] |
+| `métrarin`   | `v`    | to measure                               | `métr-` + `-arin` | —                            |
+| `ghígnarin`  | `v`    | to become, to come to be                 | —                 | —                            |
+| `ghígn-`     | `stem` | to become                                | —                 | —                            |
+| `érkharin`   | `v`    | to go, to come                           | —                 | —                            |
+| `érkh-`      | `stem` | to go                                    | —                 | —                            |
+| `pléarin`    | `v`    | to sail                                  | —                 | —                            |
+| `ághrarin`   | `v`    | to lead, to drive                        | —                 | —                            |
+| `ághr-`      | `stem` | to lead, to drive                        | —                 | —                            |
+| `lámbharin`  | `v`    | to take, to receive                      | —                 | —                            |
+| `lámbh-`     | `stem` | to take                                  | —                 | —                            |
+| `ôlashin`    | `adj`  | whole, entire                            | —                 | [[skill-helonclng\|Helonic]] |
+| `kélir`      | `adj`  | beautiful, good, noble                   | —                 | [[skill-helonclng\|Helonic]] |
+| `kélira`     | `adj`  | beautiful, of a woman or a feminine noun | `kélir` + `-a`    | —                            |
+| `lêphir`     | `adj`  | clear, evident                           | —                 | [[skill-helonclng\|Helonic]] |
+| `méghar`     | `adj`  | great, large                             | —                 | [[skill-helonclng\|Helonic]] |
+| `méghara`    | `adj`  | great, feminine                          | `méghar` + `-a`   | [[skill-helonclng\|Helonic]] |
+| `agháthin`   | `adj`  | good; and, as a noun, a good thing       | —                 | [[skill-helonclng\|Helonic]] |
+| `nêvaros`    | `adj`  | new, young                               | —                 | —                            |
+| `nêvar-`     | `stem` | new, young                               | —                 | —                            |
+| `palaíshir`  | `adj`  | old, of the former age                   | —                 | —                            |
 
 ### Grammar words
 
@@ -552,7 +590,7 @@ The article is the family's badge: the schools say _ash_, _âsh_ and _ath_ for t
 
 **A Bethûan** is named in the register she lives in. The feminine register gives a woman's name in _-a_, _-ia_ or _-ê_ and keeps every _th_; a priestess's name takes _-issa_, the office-ending that also makes the titles of the realm, and a high priestess alone takes _-ê_. A man's name in the practical register is the Helonic one with the island's sounds, _-os_ held long as _-ôs_; in a formal document the same man is entered under his mother's house. [[being-juthrjmthn|Júthâra Jâmîthôn]] is Júthâra of the house Jâmîthôn. The short name a Bethûan answers to is the given name's first two syllables with the first vowel held long: _Júthâra_ is _Jûtha_ to her sisters.
 
-**A place** of the old stock is a root with _-on_, _-ea_, _-ia_ or _-os_: _Thyrenae_, _Pelagora_, _Kalydria_. A Byzarian town on the frontier keeps the name the caravan road gave it and the League writes it as it hears it, which is why the eastern towns carry eastern spellings the table of marks reads past. A Bethûan town is named in the feminine register, in _-a_: _Bethûra_, _Ashíra_, _Sehéla_.
+**A place** of the old stock is a root with _-on_, _-ea_, _-ia_ or _-os_: _Thyrenae_, _Pelagora_, _Kalydria_. A Byzarian town takes the schools' spelling and is most often a compound whose first word describes the second, or a root with _-ion_, the place of it: _Khrýshteíkhos_ is the gold wall, _Argýrteíkhos_ the silver one, _Karvashion_ the caravan-place. A Bethûan town is named in the feminine register, in _-a_: _Bethûra_, _Ashíra_, _Sehéla_.
 
 **An office** is the stem of what the officer does with _-ir_ or _-or_: _árshir_, the one who presides; _strátimor_, the one who commands; _agóranir_, the one who wardens the market. Bethûa makes the same offices with _-issa_: a woman who commands is a _Stratégissa_, a woman who keeps the writ a _Grammatíssa_.
 
@@ -587,198 +625,256 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 
 ### Names
 
-| Name                                             | Notes                                                                                      | Tongue        | Built from           |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------- | -------------------- |
-| **Academy of Knowledge**                         | [[affiliation-panepistmm\|Panepistemium]]                                                  | `translation` | —                    |
-| **Agápeia**                                      | [[being-agapevrzns\|Agápeia Varzánês]]                                                     | `byzarian`    | —                    |
-| **Akákios**                                      | [[being-akksplytms\|Akákios Polytimós]]                                                    | `byzarian`    | —                    |
-| **Altinkale**                                    | [[affiliation-altinkale\|Altinkale]], [[place-altinkale2\|Altinkale]]                      | `byzarian`    | —                    |
-| **Alýkos**                                       | [[being-alyksdrymkt\|Alýkos Drymíkot]], [[being-alykosmpsn\|Alýkos Sampsiôn]]              | `byzarian`    | —                    |
-| **Ángelides**                                    | [[being-angldsptrks\|Ángelides Patrikîos]], [[being-angldsthymkt\|Ángelides Thymiákit]]    | `byzarian`    | —                    |
-| **Arkádios**                                     | [[being-arkdsphlmds\|Arkádios Philomédis]]                                                 | `byzarian`    | —                    |
-| **Arkhêa**                                       | [[being-arkhekrkss\|Arkhêa Kourkásios]]                                                    | `byzarian`    | —                    |
-| **Ashíra**                                       | [[place-ashira\|Ashíra]]                                                                   | `bethuan`     | —                    |
-| **Athênagoras**                                  | [[being-athngrsktkls\|Athênagoras Katakálos]]                                              | `byzarian`    | —                    |
-| **Athenikos**                                    | [[affiliation-athenikos\|Athenikos]], [[place-athenikos2\|Athenikos]]                      | `helonic`     | —                    |
-| **Ázîna Râfîrôs**                                | [[being-azinarafrs\|Ázîna Râfîrôs]]                                                        | `helonic`     | —                    |
-| **Ázîta Râkhrîdês**                              | [[being-azitrkhrds\|Ázîta Râkhrîdês]]                                                      | `helonic`     | —                    |
-| **Bessarîon**                                    | [[being-kasndrbsrn\|Kassándria Bessarîon]]                                                 | `byzarian`    | —                    |
-| **Bethûa Region**                                | [[place-bethuargn\|Bethûa Region]]                                                         | `translation` | —                    |
-| **Bethûan**                                      | [[lore-bethuanclt\|Bethûan]]                                                               | `translation` | —                    |
-| **Bethuan**                                      | [[skill-bethunlng\|Bethuan Language]]                                                      | `translation` | —                    |
-| **Bethuan Language**                             | [[skill-bethunlng\|Bethuan Language]]                                                      | `translation` | —                    |
-| **Bethûan Matriarchy**                           | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **Bethuan Word List**                            | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                    |
-| **Bethûra**                                      | [[place-bethura\|Bethûra]]                                                                 | `bethuan`     | —                    |
-| **Byzaría Region**                               | [[place-byzariargn\|Byzaría Region]]                                                       | `translation` | —                    |
-| **Byzarian**                                     | [[lore-byzarianclt\|Byzarian]], [[skill-byzarnlng\|Byzarian Language]]                     | `translation` | —                    |
-| **Byzarian Language**                            | [[skill-byzarnlng\|Byzarian Language]]                                                     | `translation` | —                    |
-| **Byzarian League**                              | [[affiliation-byzarianlg\|Byzarian League]]                                                | `translation` | —                    |
-| **Byzarian Word List**                           | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                    |
-| **Byzaris**                                      | [[place-byzaris\|Byzaris]]                                                                 | `byzarian`    | —                    |
-| **Chânkhor Ghârîthôs**                           | [[being-chnkhrghrths\|Chânkhor Ghârîthôs]]                                                 | `helonic`     | —                    |
-| **Chánnâon Hàbîlês**                             | [[being-chananhbls\|Chánnâon Hàbîlês]]                                                     | `helonic`     | —                    |
-| **Chrysamar**                                    | [[place-chrysamar\|Chrysamar]]                                                             | `byzarian`    | —                    |
-| **Chrysántos**                                   | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | —                    |
-| **City-State of Kostaros**                       | [[affiliation-kostaros2\|Kostaros]]                                                        | `translation` | —                    |
-| **City-States of Heliónis**                      | [[affiliation-ctysttshlns\|City-States of Heliónis]]                                       | `translation` | —                    |
-| **Dalássênos**                                   | [[being-drknsdlsns\|Drákonis Dalássênos]]                                                  | `byzarian`    | —                    |
-| **Damáklios**                                    | [[being-damklsmpsn\|Damáklios Sampsiôn]]                                                   | `byzarian`    | —                    |
-| **Dámàsûn**                                      | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                    |
-| **Demétrion Pediníkot**                          | [[being-dmtrnpdnkt\|Demétrion Pediníkot]]                                                  | `byzarian`    | —                    |
-| **Denizara**                                     | [[affiliation-denizara\|Denizara]], [[place-denizara2\|Denizara]]                          | `byzarian`    | —                    |
-| **Drákonis**                                     | [[being-drknsdlsns\|Drákonis Dalássênos]]                                                  | `byzarian`    | —                    |
-| **Drazha**                                       | [[being-srdrzhsycnknghtblckflm\|Sir Drazha Sycâni, Knight of the Black Flame]]             | `byzarian`    | —                    |
-| **Drymíkot**                                     | [[being-alyksdrymkt\|Alýkos Drymíkot]]                                                     | `byzarian`    | `drym-` + `-íkot`    |
-| **Dûmàrês Râfîrôs**                              | [[being-dumarsrfrs\|Dûmàrês Râfîrôs]]                                                      | `helonic`     | —                    |
-| **Eastern March**                                | [[place-eastrnmrch\|Eastern March]]                                                        | `translation` | —                    |
-| **Elspeth Rowen**                                | [[being-talirbshrn\|Tàlîra Bâshirôn]]                                                      | `translation` | —                    |
-| **Ephthymiópoulos**                              | [[being-grgrsphthympls\|Grégoras Ephthymiópoulos]]                                         | `byzarian`    | —                    |
-| **Epiphaniôtês**                                 | [[being-thmdspphnts\|Theomídes Epiphaniôtês]]                                              | `byzarian`    | —                    |
-| **Epistemium**                                   | [[affiliation-panepistmm\|Panepistemium]]                                                  | `helonic`     | —                    |
-| **Gábêros Chàddâris**                            | [[being-gabrschdrs\|Gábêros Chàddâris]]                                                    | `helonic`     | —                    |
-| **Gávrilos**                                     | [[being-gvrlsnktrts\|Gávrilos Niktariôtês]]                                                | `byzarian`    | —                    |
-| **Ghârîdos Mûrâdês**                             | [[being-ghardsmrds\|Ghârîdos Mûrâdês]]                                                     | `helonic`     | —                    |
-| **Ghôlâron**                                     | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                    |
-| **Government of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **Grégoras**                                     | [[being-grgrsphthympls\|Grégoras Ephthymiópoulos]]                                         | `byzarian`    | —                    |
-| **Gümüşhisar**                                   | [[affiliation-gumushisar\|Gümüşhisar]], [[place-gumushisar2\|Gümüşhisar]]                  | `byzarian`    | —                    |
-| **Habìdon Ghânîdês**                             | [[being-habdnghnds\|Habìdon Ghânîdês]]                                                     | `helonic`     | —                    |
-| **Hassârìon Khalîthôn**                          | [[being-hsrnkhlthn\|Hassârìon Khalîthôn]]                                                  | `helonic`     | —                    |
-| **Hélénaia**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                    |
-| **Heliónis**                                     | [[place-helionis\|Heliónis]]                                                               | `helonic`     | —                    |
-| **Helionite**                                    | [[lore-helioniteclt\|Helionite]]                                                           | `translation` | —                    |
-| **Hellád**                                       | [[place-heladrgn\|Hellád Region]]                                                          | `helonic`     | —                    |
-| **Hellád Region**                                | [[place-heladrgn\|Hellád Region]]                                                          | `translation` | —                    |
-| **Helonic**                                      | [[skill-helonclng\|Helonic Language]]                                                      | `translation` | —                    |
-| **Helonic Language**                             | [[skill-helonclng\|Helonic Language]]                                                      | `translation` | —                    |
-| **Helonic Lexicon**                              | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                    |
-| **Helonic Word List**                            | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                    |
-| **Helónika**                                     | [[skill-helnkscrpt\|Helónika Script]]                                                      | `helonic`     | —                    |
-| **Helónika Script**                              | [[skill-helnkscrpt\|Helónika Script]]                                                      | `translation` | —                    |
-| **Hodíkot**                                      | [[being-lnntshdkt\|Leónantos Hodíkot]], [[being-phtnshdkt\|Phótianos Hodíkot]]             | `byzarian`    | `hod-` + `-íkot`     |
-| **Isâra**                                        | [[being-isarakhldr\|Isâra Khalîdra]]                                                       | `helonic`     | —                    |
-| **Isidôra**                                      | [[being-isidrmlsns\|Isidôra Melissenós]]                                                   | `byzarian`    | —                    |
-| **Jâdhâros Bâshirôn**                            | [[being-jdhrsbshrn\|Jâdhâros Bâshirôn]]                                                    | `helonic`     | —                    |
-| **Jâmîthôn**                                     | [[being-juthrjmthn\|Júthâra Jâmîthôn]]                                                     | `bethuan`     | —                    |
-| **Júbênós Safîthês**                             | [[being-jubensfths\|Júbênós Safîthês]]                                                     | `helonic`     | —                    |
-| **Júthâra**                                      | [[being-juthrjmthn\|Júthâra Jâmîthôn]]                                                     | `bethuan`     | —                    |
-| **Kalída**                                       | [[being-kalidkrkss\|Kalída Kourkásios]]                                                    | `byzarian`    | —                    |
-| **Kallínikos**                                   | [[being-klnksprphrkt\|Kallínikos Porphyrákit]]                                             | `byzarian`    | —                    |
-| **Kallíxenos**                                   | [[being-klxnsprklvs\|Kallíxenos Paraklávos]]                                               | `byzarian`    | —                    |
-| **Kalydria**                                     | [[affiliation-kalydria\|Kalydria]], [[place-kalydria2\|Kalydria]]                          | `helonic`     | —                    |
-| **Karataş**                                      | [[affiliation-karatas\|Karataş]], [[place-karatas2\|Karataş]]                              | `byzarian`    | —                    |
-| **Kassándria**                                   | [[being-kasndrbsrn\|Kassándria Bessarîon]]                                                 | `byzarian`    | —                    |
-| **Katakálos**                                    | [[being-athngrsktkls\|Athênagoras Katakálos]]                                              | `byzarian`    | —                    |
-| **Kepíkot**                                      | [[being-zenskpkt\|Zênais Kepíkot]]                                                         | `byzarian`    | `kep-` + `-íkot`     |
-| **Khalîdra**                                     | [[being-isarakhldr\|Isâra Khalîdra]]                                                       | `helonic`     | —                    |
-| **Knight of the Black Flame**                    | [[being-srdrzhsycnknghtblckflm\|Sir Drazha Sycâni, Knight of the Black Flame]]             | `translation` | —                    |
-| **Konstántinos**                                 | [[being-knstntnsplytms\|Konstántinos Polytimós]]                                           | `byzarian`    | —                    |
-| **Korinthea**                                    | [[affiliation-korinthea\|Korinthea]], [[place-korinthea2\|Korinthea]]                      | `helonic`     | —                    |
-| **Kostaros**                                     | [[place-kostaros\|Kostaros]], [[affiliation-kostaros2\|Kostaros]]                          | `byzarian`    | —                    |
-| **Kostaros District**                            | [[place-kostarosdst\|Kostaros District]]                                                   | `translation` | —                    |
-| **Kourkásios**                                   | [[being-arkhekrkss\|Arkhêa Kourkásios]], [[being-kalidkrkss\|Kalída Kourkásios]]           | `byzarian`    | —                    |
-| **Kyriákos**                                     | [[being-kyrksptrks\|Kyriákos Patrikîos]], [[being-phlndrskyrks\|Philándros Kyriákos]]      | `byzarian`    | —                    |
-| **Lady Mirabel Shadowthorn**                     | [[being-nubarsjdrs\|Nûbàris Jâdîrôs]]                                                      | `translation` | —                    |
-| **Layla**                                        | [[being-laylamarut\|Layla Marut]]                                                          | `bethuan`     | —                    |
-| **Leónantos**                                    | [[being-lnntshdkt\|Leónantos Hodíkot]]                                                     | `byzarian`    | —                    |
-| **Leónidês Pyrgíkot**                            | [[being-lendspyrgkt\|Leónidês Pyrgíkot]]                                                   | `byzarian`    | —                    |
-| **Lord Alaric Stormhaven**                       | [[being-hsrnkhlthn\|Hassârìon Khalîthôn]]                                                  | `translation` | —                    |
-| **Lysándros**                                    | [[being-lysndrsxylkt\|Lysándros Xylákit]]                                                  | `byzarian`    | —                    |
-| **Mahmûdrós Gharîdís**                           | [[being-mmdrsghrds\|Mahmûdrós Gharîdís]]                                                   | `helonic`     | —                    |
-| **Mákrion Nâfrinês**                             | [[being-makrinfrns\|Mákrion Nâfrinês]]                                                     | `helonic`     | —                    |
-| **Malkhet**                                      | [[being-zahirmlkht\|Zahira Malkhet]]                                                       | `bethuan`     | —                    |
-| **Markêsianos**                                  | [[being-phlnmrksns\|Philína Markêsianos]]                                                  | `byzarian`    | —                    |
-| **Marshfeld**                                    | [[place-marshfeld\|Marshfeld]]                                                             | `translation` | —                    |
-| **Marut**                                        | [[being-laylamarut\|Layla Marut]]                                                          | `bethuan`     | —                    |
-| **Matriarchy of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **Melissenós**                                   | [[being-isidrmlsns\|Isidôra Melissenós]]                                                   | `byzarian`    | —                    |
-| **Myrtillos**                                    | [[place-myrtillos\|Myrtillos]]                                                             | `helonic`     | —                    |
-| **Mystákês**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                    |
-| **Naulákit**                                     | [[being-timthnnlkt\|Timothéon Naulákit]]                                                   | `byzarian`    | `naul-` + `-ákit`    |
-| **Navy of Bethûa**                               | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                    |
-| **Nékropolis**                                   | [[place-nekropolis\|Nékropolis]]                                                           | `byzarian`    | —                    |
-| **Niktariôtês**                                  | [[being-gvrlsnktrts\|Gávrilos Niktariôtês]], [[being-phlthnktrts\|Philothêia Niktariôtês]] | `byzarian`    | —                    |
-| **Northern March**                               | [[place-northrnmrch\|Northern March]]                                                      | `translation` | —                    |
-| **Nûbàris Jâdîrôs**                              | [[being-nubarsjdrs\|Nûbàris Jâdîrôs]]                                                      | `helonic`     | —                    |
-| **Oreiníkot**                                    | [[being-smrnorenkt\|Samarína Oreiníkot]]                                                   | `byzarian`    | `orein-` + `-íkot`   |
-| **Panepistemium**                                | [[affiliation-panepistmm\|Panepistemium]]                                                  | `helonic`     | —                    |
-| **Paraklávos**                                   | [[being-klxnsprklvs\|Kallíxenos Paraklávos]]                                               | `byzarian`    | —                    |
-| **Parma**                                        | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                    |
-| **Patrikîos**                                    | [[being-angldsptrks\|Ángelides Patrikîos]], [[being-kyrksptrks\|Kyriákos Patrikîos]]       | `byzarian`    | —                    |
-| **Pelagora**                                     | [[affiliation-pelagora\|Pelagora]], [[place-pelagora2\|Pelagora]]                          | `helonic`     | —                    |
-| **Philándros**                                   | [[being-phlndrskyrks\|Philándros Kyriákos]]                                                | `byzarian`    | —                    |
-| **Philína**                                      | [[being-phlnmrksns\|Philína Markêsianos]]                                                  | `byzarian`    | `phil-` + `-ína`     |
-| **Philomédis**                                   | [[being-arkdsphlmds\|Arkádios Philomédis]]                                                 | `byzarian`    | —                    |
-| **Philothêia**                                   | [[being-phlthnktrts\|Philothêia Niktariôtês]]                                              | `byzarian`    | —                    |
-| **Phótianos**                                    | [[being-phtnshdkt\|Phótianos Hodíkot]]                                                     | `byzarian`    | —                    |
-| **Pissákit**                                     | [[being-thslnkpsskt\|Thêsaloníke Pissákit]]                                                | `byzarian`    | `piss-` + `-ákit`    |
-| **Polytimós**                                    | [[being-akksplytms\|Akákios Polytimós]], [[being-knstntnsplytms\|Konstántinos Polytimós]]  | `byzarian`    | —                    |
-| **Porphyrákit**                                  | [[being-klnksprphrkt\|Kallínikos Porphyrákit]]                                             | `byzarian`    | `porphyr-` + `-ákit` |
-| **Rahman**                                       | [[being-shdqbnrhmndplmtcblddncr\|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]          | `byzarian`    | —                    |
-| **Ràkhîmêa Khalîthôn**                           | [[being-rkhmkhlthn\|Ràkhîmêa Khalîthôn]]                                                   | `helonic`     | —                    |
-| **Rashîra**                                      | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `bethuan`     | —                    |
-| **Ravenswood**                                   | [[place-ravenswood\|Ravenswood]]                                                           | `translation` | —                    |
-| **Rísàkós Ibârìthôs**                            | [[being-risksbrths\|Rísàkós Ibârìthôs]]                                                    | `helonic`     | —                    |
-| **Sáfêrús Ghôlâris**                             | [[being-safrsghlrs\|Sáfêrús Ghôlâris]]                                                     | `helonic`     | —                    |
-| **Safîrôn**                                      | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `bethuan`     | —                    |
-| **Sàfîros Râkhmônis**                            | [[being-sfrsrkhmns\|Sàfîros Râkhmônis]]                                                    | `helonic`     | —                    |
-| **Sahînór Mâkîthôn**                             | [[being-sahnrmkthn\|Sahînór Mâkîthôn]]                                                     | `helonic`     | —                    |
-| **Sahîra Tâbîrês**                               | [[being-sahiratbrs\|Sahîra Tâbîrês]]                                                       | `helonic`     | —                    |
-| **Sâlimón Hâdrîkês**                             | [[being-salmnhdrks\|Sâlimón Hâdrîkês]]                                                     | `helonic`     | —                    |
-| **Samarína**                                     | [[being-smrnorenkt\|Samarína Oreiníkot]]                                                   | `byzarian`    | `samar-` + `-ína`    |
-| **Sampsiôn**                                     | [[being-alykosmpsn\|Alýkos Sampsiôn]], [[being-damklsmpsn\|Damáklios Sampsiôn]]            | `byzarian`    | —                    |
-| **Sehéla**                                       | [[place-sehela\|Sehéla]]                                                                   | `bethuan`     | —                    |
-| **Selímara**                                     | [[place-selimara\|Selímara]]                                                               | `byzarian`    | —                    |
-| **Sérolan Cedric Lightbringer**                  | [[being-dumarsrfrs\|Dûmàrês Râfîrôs]]                                                      | `translation` | —                    |
-| **Shadiq**                                       | [[being-shdqbnrhmndplmtcblddncr\|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]          | `byzarian`    | —                    |
-| **Shárîna Thâmîdon**                             | [[being-sharnthmdn\|Shárîna Thâmîdon]]                                                     | `helonic`     | —                    |
-| **Siderákit**                                    | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | `sider-` + `-ákit`   |
-| **Sir Alaric Emberhill**                         | [[being-sahnrmkthn\|Sahînór Mâkîthôn]]                                                     | `translation` | —                    |
-| **Sir Drazha Sycani**                            | [[being-srdrzhsycnknghtblckflm\|Sir Drazha Sycâni, Knight of the Black Flame]]             | `translation` | —                    |
-| **Southern March**                               | [[place-southrnmrch\|Southern March]]                                                      | `translation` | —                    |
-| **Steníkot**                                     | [[being-theklastnkt\|Thêkla Steníkot]]                                                     | `byzarian`    | `sten-` + `-íkot`    |
-| **Sycâni**                                       | [[being-srdrzhsycnknghtblckflm\|Sir Drazha Sycâni, Knight of the Black Flame]]             | `byzarian`    | —                    |
-| **Tàbîsa Mârinadês**                             | [[being-tabismrnds\|Tàbîsa Mârinadês]]                                                     | `helonic`     | —                    |
-| **Tàlîma Thamîrîon**                             | [[being-talimthmrn\|Tàlîma Thamîrîon]]                                                     | `helonic`     | —                    |
-| **Tàlîra Bâshirôn**                              | [[being-talirbshrn\|Tàlîra Bâshirôn]]                                                      | `helonic`     | —                    |
-| **Tamîtha Jâdurîon**                             | [[being-tamithjdrn\|Tamîtha Jâdurîon]]                                                     | `helonic`     | —                    |
-| **Tázîtha Ibârîdês**                             | [[being-tazithbrds\|Tázîtha Ibârîdês]]                                                     | `helonic`     | —                    |
-| **Thálassos**                                    | [[place-thalassos\|Thálassos]]                                                             | `byzarian`    | —                    |
-| **The Academy**                                  | [[affiliation-panepistmm\|Panepistemium]]                                                  | `translation` | —                    |
-| **The Bethûan Fleet**                            | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                    |
-| **The Bounty Hunter**                            | [[being-zahirmlkht\|Zahira Malkhet]]                                                       | `translation` | —                    |
-| **The Diplomatic Blade Dancer**                  | [[being-shdqbnrhmndplmtcblddncr\|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]          | `translation` | —                    |
-| **The Hound of the Veil**                        | [[being-zahirmlkht\|Zahira Malkhet]]                                                       | `translation` | —                    |
-| **The Jackal-Queen**                             | [[being-yasurajckl\|Yâsûra the Jackal]]                                                    | `translation` | —                    |
-| **The Keeper of the Purple Warrant**             | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `translation` | —                    |
-| **The Merchant Princess**                        | [[being-laylamarut\|Layla Marut]]                                                          | `translation` | —                    |
-| **The Mêtríssa**                                 | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **The Mêtríssa and the Two Councils**            | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **The Purple Warrant**                           | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                    |
-| **The Renegade Grammatíssa**                     | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `translation` | —                    |
-| **The Sacred College and the Council of Houses** | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **The Two Pillars**                              | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **The Two Pillars of Bethûa**                    | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                    |
-| **The Unhoused**                                 | [[being-yasurajckl\|Yâsûra the Jackal]]                                                    | `translation` | —                    |
-| **The Veiled Sails**                             | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                    |
-| **Thêbas Ghânîdês**                              | [[being-thebsghnds\|Thêbas Ghânîdês]]                                                      | `helonic`     | —                    |
-| **Thêkla**                                       | [[being-theklastnkt\|Thêkla Steníkot]]                                                     | `byzarian`    | —                    |
-| **Theomídes**                                    | [[being-thmdspphnts\|Theomídes Epiphaniôtês]]                                              | `byzarian`    | —                    |
-| **Therádon**                                     | [[affiliation-theradon\|Therádon]], [[place-theradon2\|Therádon]]                          | `helonic`     | —                    |
-| **Thêrèssa Hàbîlês**                             | [[being-thereshbls\|Thêrèssa Hàbîlês]]                                                     | `helonic`     | —                    |
-| **Thêsaloníke**                                  | [[being-thslnkpsskt\|Thêsaloníke Pissákit]]                                                | `byzarian`    | —                    |
-| **Thessálon**                                    | [[place-thessalon\|Thessálon]]                                                             | `byzarian`    | —                    |
-| **Thymiákit**                                    | [[being-angldsthymkt\|Ángelides Thymiákit]]                                                | `byzarian`    | —                    |
-| **Thyrenae**                                     | [[affiliation-thyrenae\|Thyrenae]], [[place-thyrenae2\|Thyrenae]]                          | `helonic`     | —                    |
-| **Timothéon**                                    | [[being-timthnnlkt\|Timothéon Naulákit]]                                                   | `byzarian`    | —                    |
-| **Trianthion**                                   | [[place-trianthion\|Trianthion]]                                                           | `byzarian`    | —                    |
-| **Varzánês**                                     | [[being-agapevrzns\|Agápeia Varzánês]]                                                     | `byzarian`    | —                    |
-| **Veridon**                                      | [[place-veridon\|Veridon]]                                                                 | `byzarian`    | —                    |
-| **Xylákit**                                      | [[being-lysndrsxylkt\|Lysándros Xylákit]]                                                  | `byzarian`    | `xyl-` + `-ákit`     |
-| **Yâsûra**                                       | [[being-yasurajckl\|Yâsûra the Jackal]]                                                    | `bethuan`     | —                    |
-| **Yeşilhan**                                     | [[affiliation-yesilhan\|Yeşilhan]], [[place-yesilhan2\|Yeşilhan]]                          | `byzarian`    | —                    |
-| **Zádìmêros Mâkîthôn**                           | [[being-zdmrsmkthn\|Zádìmêros Mâkîthôn]]                                                   | `helonic`     | —                    |
-| **Zahira**                                       | [[being-zahirmlkht\|Zahira Malkhet]]                                                       | `bethuan`     | —                    |
-| **Zahîra Tâbîrês**                               | [[being-zahiratbrs\|Zahîra Tâbîrês]]                                                       | `helonic`     | —                    |
-| **Zênais**                                       | [[being-zenskpkt\|Zênais Kepíkot]]                                                         | `byzarian`    | —                    |
+| Name                                             | Notes                                                                                      | Tongue        | Built from                                  |
+| ------------------------------------------------ | ------------------------------------------------------------------------------------------ | ------------- | ------------------------------------------- |
+| **Academy of Knowledge**                         | [[affiliation-panepistmm\|Panepistemium]]                                                  | `translation` | —                                           |
+| **Agápeia**                                      | [[being-agapevrzns\|Agápeia Varzánês]]                                                     | `byzarian`    | —                                           |
+| **Agélâra**                                      | [[being-aglrmlsns\|Agélâra Melissenós]]                                                    | `byzarian`    | `agél-` + `-âra`                            |
+| **Ághrazûr Pyrgíkot**                            | [[being-aghrzrpyrgkt\|Ághrazûr Pyrgíkot]]                                                  | `byzarian`    | `ághr-` + `-azûr` + `pyrg-` + `-íkot`       |
+| **Alýkos**                                       | [[being-alyksdrymkt\|Alýkos Drymíkot]], [[being-alykosmpsn\|Alýkos Sampsiôn]]              | `byzarian`    | —                                           |
+| **Ánevira Tâbîrês**                              | [[being-anevirtbrs\|Ánevira Tâbîrês]]                                                      | `helonic`     | `ánev-` + `-ira` + `tâbîr-` + `-ês`         |
+| **Ángelides**                                    | [[being-angldsptrks\|Ángelides Patrikîos]], [[being-angldsthymkt\|Ángelides Thymiákit]]    | `byzarian`    | —                                           |
+| **Argýrira**                                     | [[being-argyrirjckl\|Argýrira the Jackal]]                                                 | `bethuan`     | `argýr-` + `-ira`                           |
+| **Argýrteíkhos**                                 | [[affiliation-argyrteikhos\|Argýrteíkhos]], [[place-argyrteikhos2\|Argýrteíkhos]]          | `byzarian`    | `argýr-` + `teíkh-` + `-os`                 |
+| **Arkhêa**                                       | [[being-arkhekrkss\|Arkhêa Kourkásios]]                                                    | `byzarian`    | —                                           |
+| **Árshazûr**                                     | [[being-arshzrktkls\|Árshazûr Katakálos]]                                                  | `byzarian`    | `ársh-` + `-azûr`                           |
+| **Ashíra**                                       | [[place-ashira\|Ashíra]]                                                                   | `bethuan`     | —                                           |
+| **Athenikos**                                    | [[affiliation-athenikos\|Athenikos]], [[place-athenikos2\|Athenikos]]                      | `helonic`     | —                                           |
+| **Ázîta Râkhrîdês**                              | [[being-azitrkhrds\|Ázîta Râkhrîdês]]                                                      | `helonic`     | —                                           |
+| **Bessarîon**                                    | [[being-dkhhrnbsrn\|Dókhéhran Bessarîon]]                                                  | `byzarian`    | —                                           |
+| **Bethûa Region**                                | [[place-bethuargn\|Bethûa Region]]                                                         | `translation` | —                                           |
+| **Bethûan**                                      | [[lore-bethuanclt\|Bethûan]]                                                               | `translation` | —                                           |
+| **Bethuan**                                      | [[skill-bethunlng\|Bethuan Language]]                                                      | `translation` | —                                           |
+| **Bethuan Language**                             | [[skill-bethunlng\|Bethuan Language]]                                                      | `translation` | —                                           |
+| **Bethûan Matriarchy**                           | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **Bethuan Word List**                            | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
+| **Bethûra**                                      | [[place-bethura\|Bethûra]]                                                                 | `bethuan`     | —                                           |
+| **Bûlîdês**                                      | [[being-phlndrsbldds\|Philándros Bûlîdês]]                                                 | `byzarian`    | `bûl-` + `-îdês`                            |
+| **Byzaría Region**                               | [[place-byzariargn\|Byzaría Region]]                                                       | `translation` | —                                           |
+| **Byzarian**                                     | [[lore-byzarianclt\|Byzarian]], [[skill-byzarnlng\|Byzarian Language]]                     | `translation` | —                                           |
+| **Byzarian Language**                            | [[skill-byzarnlng\|Byzarian Language]]                                                     | `translation` | —                                           |
+| **Byzarian League**                              | [[affiliation-byzarianlg\|Byzarian League]]                                                | `translation` | —                                           |
+| **Byzarian Word List**                           | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
+| **Byzaris**                                      | [[place-byzaris\|Byzaris]]                                                                 | `byzarian`    | —                                           |
+| **Chânkhor Ghârîthôs**                           | [[being-chnkhrghrths\|Chânkhor Ghârîthôs]]                                                 | `helonic`     | —                                           |
+| **Chánnâon Hàbîlês**                             | [[being-chananhbls\|Chánnâon Hàbîlês]]                                                     | `helonic`     | —                                           |
+| **Chrysamar**                                    | [[place-chrysamar\|Chrysamar]]                                                             | `byzarian`    | —                                           |
+| **Chrysántos**                                   | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | —                                           |
+| **City-State of Kostaros**                       | [[affiliation-kostaros2\|Kostaros]]                                                        | `translation` | —                                           |
+| **City-States of Heliónis**                      | [[affiliation-ctysttshlns\|City-States of Heliónis]]                                       | `translation` | —                                           |
+| **Dalássênos**                                   | [[being-drknsdlsns\|Drákonis Dalássênos]]                                                  | `byzarian`    | —                                           |
+| **Damáklios**                                    | [[being-damklsmpsn\|Damáklios Sampsiôn]]                                                   | `byzarian`    | —                                           |
+| **Dámàsûn**                                      | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                                           |
+| **Demétrion Pediníkot**                          | [[being-dmtrnpdnkt\|Demétrion Pediníkot]]                                                  | `byzarian`    | —                                           |
+| **Dókhéhran**                                    | [[being-dkhhrnbsrn\|Dókhéhran Bessarîon]]                                                  | `byzarian`    | `dókh-` + `-éhran`                          |
+| **Dôrashkâr**                                    | [[being-drshkrplytms\|Dôrashkâr Polytimós]]                                                | `byzarian`    | `dôrash-` + `-kâr`                          |
+| **Drákonis**                                     | [[being-drknsdlsns\|Drákonis Dalássênos]]                                                  | `byzarian`    | —                                           |
+| **Drazha**                                       | [[being-drzhvzhnr\|Drazha Vezhnûr, Knight of the Black Flame]]                             | `byzarian`    | —                                           |
+| **Drymíkot**                                     | [[being-alyksdrymkt\|Alýkos Drymíkot]]                                                     | `byzarian`    | `drym-` + `-íkot`                           |
+| **Dûmàrês Râfîrôs**                              | [[being-dumarsrfrs\|Dûmàrês Râfîrôs]]                                                      | `helonic`     | —                                           |
+| **Eastern March**                                | [[place-eastrnmrch\|Eastern March]]                                                        | `translation` | —                                           |
+| **Elspeth Rowen**                                | [[being-talirbshrn\|Tàlîra Bâshirôn]]                                                      | `translation` | —                                           |
+| **Ephthymiópoulos**                              | [[being-grgrsphthympls\|Grégoras Ephthymiópoulos]]                                         | `byzarian`    | —                                           |
+| **Epiphaniôtês**                                 | [[being-thmdspphnts\|Theomídes Epiphaniôtês]]                                              | `byzarian`    | —                                           |
+| **Epistemium**                                   | [[affiliation-panepistmm\|Panepistemium]]                                                  | `helonic`     | —                                           |
+| **Érkhiros Ghânîdês**                            | [[being-erkhrsghnds\|Érkhiros Ghânîdês]]                                                   | `helonic`     | `érkh-` + `-ir` + `-os` + `ghân-` + `-îdês` |
+| **Euthálash**                                    | [[being-euthlshnshrzt\|Euthálash Nêshârzát, The Diplomatic Blade Dancer]]                  | `byzarian`    | `euthál-` + `-ash`                          |
+| **Gábêros Chàddâris**                            | [[being-gabrschdrs\|Gábêros Chàddâris]]                                                    | `helonic`     | —                                           |
+| **Gávrilos**                                     | [[being-gvrlsnktrts\|Gávrilos Niktariôtês]]                                                | `byzarian`    | —                                           |
+| **Ghârîdos Mûrâdês**                             | [[being-ghardsmrds\|Ghârîdos Mûrâdês]]                                                     | `helonic`     | —                                           |
+| **Ghéranira Râfîrôs**                            | [[being-ghrnrrfrs\|Ghéranira Râfîrôs]]                                                     | `helonic`     | `ghéran-` + `-ira` + `râfîr-` + `-ôs`       |
+| **Ghôlâron**                                     | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                                           |
+| **Ghymâráhr**                                    | [[being-ghymrhrptrks\|Ghymâráhr Patrikîos]]                                                | `byzarian`    | `ghymâr-` + `-áhr`                          |
+| **Government of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **Grégoras**                                     | [[being-grgrsphthympls\|Grégoras Ephthymiópoulos]]                                         | `byzarian`    | —                                           |
+| **Habìdon Ghânîdês**                             | [[being-habdnghnds\|Habìdon Ghânîdês]]                                                     | `helonic`     | —                                           |
+| **Hassârìon Khalîthôn**                          | [[being-hsrnkhlthn\|Hassârìon Khalîthôn]]                                                  | `helonic`     | —                                           |
+| **Hélénaia**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                                           |
+| **Heliónis**                                     | [[place-helionis\|Heliónis]]                                                               | `helonic`     | —                                           |
+| **Helionite**                                    | [[lore-helioniteclt\|Helionite]]                                                           | `translation` | —                                           |
+| **Hellád**                                       | [[place-heladrgn\|Hellád Region]]                                                          | `helonic`     | —                                           |
+| **Hellád Region**                                | [[place-heladrgn\|Hellád Region]]                                                          | `translation` | —                                           |
+| **Helonic**                                      | [[skill-helonclng\|Helonic Language]]                                                      | `translation` | —                                           |
+| **Helonic Language**                             | [[skill-helonclng\|Helonic Language]]                                                      | `translation` | —                                           |
+| **Helonic Lexicon**                              | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
+| **Helonic Word List**                            | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
+| **Helónika**                                     | [[skill-helnkscrpt\|Helónika Script]]                                                      | `helonic`     | —                                           |
+| **Helónika Script**                              | [[skill-helnkscrpt\|Helónika Script]]                                                      | `translation` | —                                           |
+| **Hodíkot**                                      | [[being-lnntshdkt\|Leónantos Hodíkot]], [[being-phtnshdkt\|Phótianos Hodíkot]]             | `byzarian`    | `hod-` + `-íkot`                            |
+| **Jâdhâros Bâshirôn**                            | [[being-jdhrsbshrn\|Jâdhâros Bâshirôn]]                                                    | `helonic`     | —                                           |
+| **Jâmîthôn**                                     | [[being-juthrjmthn\|Júthâra Jâmîthôn]]                                                     | `bethuan`     | —                                           |
+| **Júbênós Safîthês**                             | [[being-jubensfths\|Júbênós Safîthês]]                                                     | `helonic`     | —                                           |
+| **Júthâra**                                      | [[being-juthrjmthn\|Júthâra Jâmîthôn]]                                                     | `bethuan`     | —                                           |
+| **Kalída**                                       | [[being-kalidkrkss\|Kalída Kourkásios]]                                                    | `byzarian`    | —                                           |
+| **Kallínikos**                                   | [[being-klnksprphrkt\|Kallínikos Porphyrákit]]                                             | `byzarian`    | —                                           |
+| **Kalydria**                                     | [[affiliation-kalydria\|Kalydria]], [[place-kalydria2\|Kalydria]]                          | `helonic`     | —                                           |
+| **Karvashion**                                   | [[affiliation-karvashion\|Karvashion]], [[place-karvashion2\|Karvashion]]                  | `byzarian`    | `karvash` + `-ion`                          |
+| **Katakálos**                                    | [[being-arshzrktkls\|Árshazûr Katakálos]]                                                  | `byzarian`    | —                                           |
+| **Kepíkot**                                      | [[being-zenskpkt\|Zênais Kepíkot]]                                                         | `byzarian`    | `kep-` + `-íkot`                            |
+| **Khalîdra**                                     | [[being-theldnkhldr\|Théldina Khalîdra]]                                                   | `helonic`     | —                                           |
+| **Khrýshteíkhos**                                | [[affiliation-khryshteikhos\|Khrýshteíkhos]], [[place-khryshteikhos2\|Khrýshteíkhos]]      | `byzarian`    | `khrýsh-` + `teíkh-` + `-os`                |
+| **Kléandir**                                     | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | `kléandir`                                  |
+| **Knight of the Black Flame**                    | [[being-drzhvzhnr\|Drazha Vezhnûr, Knight of the Black Flame]]                             | `translation` | —                                           |
+| **Korinthea**                                    | [[affiliation-korinthea\|Korinthea]], [[place-korinthea2\|Korinthea]]                      | `helonic`     | —                                           |
+| **Kostaros**                                     | [[place-kostaros\|Kostaros]], [[affiliation-kostaros2\|Kostaros]]                          | `byzarian`    | —                                           |
+| **Kostaros District**                            | [[place-kostarosdst\|Kostaros District]]                                                   | `translation` | —                                           |
+| **Kourkásios**                                   | [[being-arkhekrkss\|Arkhêa Kourkásios]], [[being-kalidkrkss\|Kalída Kourkásios]]           | `byzarian`    | —                                           |
+| **Krênéze**                                      | [[being-krnzmrksns\|Krênéze Markêsianos]]                                                  | `byzarian`    | `krên-` + `-éze`                            |
+| **Kûmêthâra**                                    | [[being-kmthrpsskt\|Kûmêthâra Pissákit]]                                                   | `byzarian`    | `kûmêth-` + `-âra`                          |
+| **Lámbhira**                                     | [[being-lmbhrpdhnn\|Lámbhira Pédhinion]]                                                   | `bethuan`     | `lámbh-` + `-ira`                           |
+| **Leónantos**                                    | [[being-lnntshdkt\|Leónantos Hodíkot]]                                                     | `byzarian`    | —                                           |
+| **Lôpháhr**                                      | [[being-lophrphlmds\|Lôpháhr Philomédis]]                                                  | `byzarian`    | `lôph-` + `-áhr`                            |
+| **Ghérvanos Gharîdís**                           | [[being-ghrvnsghrds\|Ghérvanos Gharîdís]]                                                  | `helonic`     | `ghérvan-` + `-os` + `gharîdís`             |
+| **Mákrion Nâfrinês**                             | [[being-makrinfrns\|Mákrion Nâfrinês]]                                                     | `helonic`     | —                                           |
+| **Markêsianos**                                  | [[being-krnzmrksns\|Krênéze Markêsianos]]                                                  | `byzarian`    | —                                           |
+| **Marshfeld**                                    | [[place-marshfeld\|Marshfeld]]                                                             | `translation` | —                                           |
+| **Matriarchy of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **Melissenós**                                   | [[being-aglrmlsns\|Agélâra Melissenós]]                                                    | `byzarian`    | —                                           |
+| **Morzáhr**                                      | [[being-morzhrxylkt\|Morzáhr Xylákit]]                                                     | `byzarian`    | `morz-` + `-áhr`                            |
+| **Myrtillos**                                    | [[place-myrtillos\|Myrtillos]]                                                             | `helonic`     | —                                           |
+| **Mystákês**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                                           |
+| **Naulákit**                                     | [[being-orshkrnlkt\|Órashkâr Naulákit]]                                                    | `byzarian`    | `naul-` + `-ákit`                           |
+| **Navy of Bethûa**                               | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                                           |
+| **Nêshârzát**                                    | [[being-euthlshnshrzt\|Euthálash Nêshârzát, The Diplomatic Blade Dancer]]                  | `byzarian`    | `nêshâr` + `-zát`                           |
+| **Nêsthiros**                                    | [[affiliation-nesthiros\|Nêsthiros]], [[place-nesthiros2\|Nêsthiros]]                      | `byzarian`    | `nêsthir` + `-os`                           |
+| **Nêvarina Hàbîlês**                             | [[being-nevarnhbls\|Nêvarina Hàbîlês]]                                                     | `helonic`     | `nêvar-` + `-in` + `-a` + `hàbîl-` + `-ês`  |
+| **Niktariôtês**                                  | [[being-gvrlsnktrts\|Gávrilos Niktariôtês]], [[being-phlthnktrts\|Philothêia Niktariôtês]] | `byzarian`    | —                                           |
+| **Nômasáhr**                                     | [[being-nmshrprklvs\|Nômasáhr Paraklávos]]                                                 | `byzarian`    | `nômas-` + `-áhr`                           |
+| **Northern March**                               | [[place-northrnmrch\|Northern March]]                                                      | `translation` | —                                           |
+| **Nûbàris Jâdîrôs**                              | [[being-nubarsjdrs\|Nûbàris Jâdîrôs]]                                                      | `helonic`     | —                                           |
+| **Nýkhtion**                                     | [[place-nykhtion\|Nýkhtion]]                                                               | `byzarian`    | `nýkht-` + `-ion`                           |
+| **Órashion**                                     | [[affiliation-orashion\|Órashion]], [[place-orashion2\|Órashion]]                          | `byzarian`    | `órash-` + `-ion`                           |
+| **Órashkâr**                                     | [[being-orshkrnlkt\|Órashkâr Naulákit]]                                                    | `byzarian`    | `órash-` + `-kâr`                           |
+| **Oreiníkot**                                    | [[being-smrnorenkt\|Samarína Oreiníkot]]                                                   | `byzarian`    | `orein-` + `-íkot`                          |
+| **Panepistemium**                                | [[affiliation-panepistmm\|Panepistemium]]                                                  | `helonic`     | —                                           |
+| **Paraklávos**                                   | [[being-nmshrprklvs\|Nômasáhr Paraklávos]]                                                 | `byzarian`    | —                                           |
+| **Patrikîos**                                    | [[being-angldsptrks\|Ángelides Patrikîos]], [[being-ghymrhrptrks\|Ghymâráhr Patrikîos]]    | `byzarian`    | —                                           |
+| **Pédhinion**                                    | [[being-lmbhrpdhnn\|Lámbhira Pédhinion]]                                                   | `bethuan`     | `pédh-` + `-in` + `-ion`                    |
+| **Pelagora**                                     | [[affiliation-pelagora\|Pelagora]], [[place-pelagora2\|Pelagora]]                          | `helonic`     | —                                           |
+| **Philándros**                                   | [[being-phlndrsbldds\|Philándros Bûlîdês]]                                                 | `byzarian`    | —                                           |
+| **Philomédis**                                   | [[being-lophrphlmds\|Lôpháhr Philomédis]]                                                  | `byzarian`    | —                                           |
+| **Philothêia**                                   | [[being-phlthnktrts\|Philothêia Niktariôtês]]                                              | `byzarian`    | —                                           |
+| **Phótianos**                                    | [[being-phtnshdkt\|Phótianos Hodíkot]]                                                     | `byzarian`    | —                                           |
+| **Phýléze**                                      | [[being-phylzstnkt\|Phýléze Steníkot]]                                                     | `byzarian`    | `phýl-` + `-éze`                            |
+| **Pissákit**                                     | [[being-kmthrpsskt\|Kûmêthâra Pissákit]]                                                   | `byzarian`    | `piss-` + `-ákit`                           |
+| **Plánthash**                                    | [[being-plnthshplytms\|Plánthash Polytimós]]                                               | `byzarian`    | `plánth-` + `-ash`                          |
+| **Polytimós**                                    | [[being-plnthshplytms\|Plánthash Polytimós]], [[being-drshkrplytms\|Dôrashkâr Polytimós]]  | `byzarian`    | —                                           |
+| **Porphyrákit**                                  | [[being-klnksprphrkt\|Kallínikos Porphyrákit]]                                             | `byzarian`    | `porphyr-` + `-ákit`                        |
+| **Ràkhîmêa Khalîthôn**                           | [[being-rkhmkhlthn\|Ràkhîmêa Khalîthôn]]                                                   | `helonic`     | —                                           |
+| **Rashîra**                                      | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `bethuan`     | —                                           |
+| **Ravenswood**                                   | [[place-ravenswood\|Ravenswood]]                                                           | `translation` | —                                           |
+| **Rísàkós Ibârìthôs**                            | [[being-risksbrths\|Rísàkós Ibârìthôs]]                                                    | `helonic`     | —                                           |
+| **Sáfêrús Ghôlâris**                             | [[being-safrsghlrs\|Sáfêrús Ghôlâris]]                                                     | `helonic`     | —                                           |
+| **Safîrôn**                                      | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `bethuan`     | —                                           |
+| **Sàfîros Râkhmônis**                            | [[being-sfrsrkhmns\|Sàfîros Râkhmônis]]                                                    | `helonic`     | —                                           |
+| **Sahînór Mâkîthôn**                             | [[being-sahnrmkthn\|Sahînór Mâkîthôn]]                                                     | `helonic`     | —                                           |
+| **Sâlimón Hâdrîkês**                             | [[being-salmnhdrks\|Sâlimón Hâdrîkês]]                                                     | `helonic`     | —                                           |
+| **Samarína**                                     | [[being-smrnorenkt\|Samarína Oreiníkot]]                                                   | `byzarian`    | `samar-` + `-ína`                           |
+| **Sampsiôn**                                     | [[being-alykosmpsn\|Alýkos Sampsiôn]], [[being-damklsmpsn\|Damáklios Sampsiôn]]            | `byzarian`    | —                                           |
+| **Sehéla**                                       | [[place-sehela\|Sehéla]]                                                                   | `bethuan`     | —                                           |
+| **Selímara**                                     | [[place-selimara\|Selímara]]                                                               | `byzarian`    | —                                           |
+| **Shárîna Thâmîdon**                             | [[being-sharnthmdn\|Shárîna Thâmîdon]]                                                     | `helonic`     | —                                           |
+| **Siderákit**                                    | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | `sider-` + `-ákit`                          |
+| **Southern March**                               | [[place-southrnmrch\|Southern March]]                                                      | `translation` | —                                           |
+| **Sphrâdira Tâbîrês**                            | [[being-sphrdrtbrs\|Sphrâdira Tâbîrês]]                                                    | `helonic`     | `sphrâd-` + `-ira` + `tâbîr-` + `-ês`       |
+| **Steníkot**                                     | [[being-phylzstnkt\|Phýléze Steníkot]]                                                     | `byzarian`    | `sten-` + `-íkot`                           |
+| **Tàbîsa Mârinadês**                             | [[being-tabismrnds\|Tàbîsa Mârinadês]]                                                     | `helonic`     | —                                           |
+| **Tálanira**                                     | [[being-tlnrzyghrs\|Tálanira Zýghirôs]]                                                    | `bethuan`     | `tálan-` + `-ira`                           |
+| **Mýrthana Kêrvanion**                           | [[being-myrthnkrvnn\|Mýrthana Kêrvanion]]                                                  | `helonic`     | `mýrthan-` + `-a` + `kêrvan-` + `-ion`      |
+| **Tàlîra Bâshirôn**                              | [[being-talirbshrn\|Tàlîra Bâshirôn]]                                                      | `helonic`     | —                                           |
+| **Tamîtha Jâdurîon**                             | [[being-tamithjdrn\|Tamîtha Jâdurîon]]                                                     | `helonic`     | —                                           |
+| **Tázîtha Ibârîdês**                             | [[being-tazithbrds\|Tázîtha Ibârîdês]]                                                     | `helonic`     | —                                           |
+| **Thálassos**                                    | [[place-thalassos\|Thálassos]]                                                             | `byzarian`    | —                                           |
+| **The Academy**                                  | [[affiliation-panepistmm\|Panepistemium]]                                                  | `translation` | —                                           |
+| **The Bethûan Fleet**                            | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                                           |
+| **The Bounty Hunter**                            | [[being-lmbhrpdhnn\|Lámbhira Pédhinion]]                                                   | `translation` | —                                           |
+| **The Diplomatic Blade Dancer**                  | [[being-euthlshnshrzt\|Euthálash Nêshârzát, The Diplomatic Blade Dancer]]                  | `translation` | —                                           |
+| **The Hound of the Veil**                        | [[being-lmbhrpdhnn\|Lámbhira Pédhinion]]                                                   | `translation` | —                                           |
+| **The Jackal-Queen**                             | [[being-argyrirjckl\|Argýrira the Jackal]]                                                 | `translation` | —                                           |
+| **The Keeper of the Purple Warrant**             | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `translation` | —                                           |
+| **The Merchant Princess**                        | [[being-tlnrzyghrs\|Tálanira Zýghirôs]]                                                    | `translation` | —                                           |
+| **The Mêtríssa**                                 | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **The Mêtríssa and the Two Councils**            | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **The Purple Warrant**                           | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                                           |
+| **The Renegade Grammatíssa**                     | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `translation` | —                                           |
+| **The Sacred College and the Council of Houses** | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **The Two Pillars**                              | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **The Two Pillars of Bethûa**                    | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
+| **The Unhoused**                                 | [[being-argyrirjckl\|Argýrira the Jackal]]                                                 | `translation` | —                                           |
+| **The Veiled Sails**                             | [[affiliation-bethuanflt\|The Bethûan Fleet]]                                              | `translation` | —                                           |
+| **Théldina**                                     | [[being-theldnkhldr\|Théldina Khalîdra]]                                                   | `helonic`     | `théld-` + `-in` + `-a`                     |
+| **Theomídes**                                    | [[being-thmdspphnts\|Theomídes Epiphaniôtês]]                                              | `byzarian`    | —                                           |
+| **Therádon**                                     | [[affiliation-theradon\|Therádon]], [[place-theradon2\|Therádon]]                          | `helonic`     | —                                           |
+| **Thessálon**                                    | [[place-thessalon\|Thessálon]]                                                             | `byzarian`    | —                                           |
+| **Thymiákit**                                    | [[being-angldsthymkt\|Ángelides Thymiákit]]                                                | `byzarian`    | —                                           |
+| **Thyrenae**                                     | [[affiliation-thyrenae\|Thyrenae]], [[place-thyrenae2\|Thyrenae]]                          | `helonic`     | —                                           |
+| **Trianthion**                                   | [[place-trianthion\|Trianthion]]                                                           | `byzarian`    | —                                           |
+| **Varzánês**                                     | [[being-agapevrzns\|Agápeia Varzánês]]                                                     | `byzarian`    | —                                           |
+| **Veridon**                                      | [[place-veridon\|Veridon]]                                                                 | `byzarian`    | —                                           |
+| **Vezhnûr**                                      | [[being-drzhvzhnr\|Drazha Vezhnûr, Knight of the Black Flame]]                             | `byzarian`    | `vezhnûr`                                   |
+| **Xylákit**                                      | [[being-morzhrxylkt\|Morzáhr Xylákit]]                                                     | `byzarian`    | `xyl-` + `-ákit`                            |
+| **Zádìmêros Mâkîthôn**                           | [[being-zdmrsmkthn\|Zádìmêros Mâkîthôn]]                                                   | `helonic`     | —                                           |
+| **Zênais**                                       | [[being-zenskpkt\|Zênais Kepíkot]]                                                         | `byzarian`    | —                                           |
+| **Zýghirôs**                                     | [[being-tlnrzyghrs\|Tálanira Zýghirôs]]                                                    | `bethuan`     | `zýgh-` + `-ir` + `-ôs`                     |
+
+## Retired names
+
+A retired name is one the setting does not write: a name from Earth, or a form the rules refuse. Each stands below with the name written in its place, and no page writes it, however accented. A literature note quotes its work in the work's own words and a poem keeps its own, so a retired name may stand in either, and a `terran_analog` comment names the Earth source on purpose.
+
+| Retired                       | Written instead  | Why                                                                  |
+| ----------------------------- | ---------------- | -------------------------------------------------------------------- |
+| `Altinkale`                   | `Khrýshteíkhos`  | a town named with an Earth phrase                                    |
+| `Altinkalan`                  | `Khrýshteíkhian` | the demonym of a retired name                                        |
+| `Gümüşhisar`                  | `Argýrteíkhos`   | a town named with an Earth phrase                                    |
+| `Gümüşhisari`                 | `Argýrteíkhian`  | the demonym of a retired name                                        |
+| `Karataş`                     | `Órashion`       | a town named with an Earth phrase                                    |
+| `Karataşi`                    | `Órashian`       | the demonym of a retired name                                        |
+| `Yeşilhan`                    | `Karvashion`     | a town named with an Earth phrase                                    |
+| `Yeşilhani`                   | `Karvashian`     | the demonym of a retired name                                        |
+| `Denizara`                    | `Nêsthiros`      | a town named with an Earth word                                      |
+| `Denizaran`                   | `Nêsthirian`     | the demonym of a retired name                                        |
+| `Nékropolis`                  | `Nýkhtion`       | an Earth word                                                        |
+| `Akákios`                     | `Plánthash`      | an Earth personal name                                               |
+| `Arkádios`                    | `Lôpháhr`        | an Earth personal name                                               |
+| `Athênagoras`                 | `Árshazûr`       | an Earth personal name                                               |
+| `Isidôra`                     | `Agélâra`        | an Earth personal name                                               |
+| `Kallíxenos`                  | `Nômasáhr`       | an Earth personal name                                               |
+| `Kassándria`                  | `Dókhéhran`      | an Earth personal name                                               |
+| `Konstántinos`                | `Dôrashkâr`      | an Earth personal name                                               |
+| `Kyriákos`                    | `Ghymâráhr`      | an Earth personal name; the house that bore it is Bûlîdês            |
+| `Leónidês`                    | `Ághrazûr`       | an Earth personal name                                               |
+| `Lysándros`                   | `Morzáhr`        | an Earth personal name                                               |
+| `Philína`                     | `Krênéze`        | an Earth personal name                                               |
+| `Thêkla`                      | `Phýléze`        | an Earth personal name                                               |
+| `Thêsaloníke`                 | `Kûmêthâra`      | an Earth personal and place name                                     |
+| `Timothéon`                   | `Órashkâr`       | an Earth personal name                                               |
+| `Thêbas`                      | `Érkhiros`       | an Earth place name                                                  |
+| `Thêrèssa`                    | `Nêvarina`       | an Earth personal name                                               |
+| `Isâra`                       | `Théldina`       | an Earth word                                                        |
+| `Malkhet`                     | `Pédhinion`      | an Earth word                                                        |
+| `Marut`                       | `Zýghirôs`       | an Earth name                                                        |
+| `Shadiq`                      | `Euthálash`      | an Earth word                                                        |
+| `Zahira`                      | `Lámbhira`       | an Earth name; Zahîra Tâbîrês is Ánevira Tâbîrês                     |
+| `Yâsûra`                      | `Argýrira`       | an Earth name                                                        |
+| `Rashìdós`                    | `Lôphiros`       | an Earth name                                                        |
+| `Yússûfàn`                    | `Tháliminos`     | an Earth name                                                        |
+| `Yàkôbis`                     | `Krênirês`       | an Earth name                                                        |
+| `Zákàrios`                    | `Ghígnirion`     | an Earth name                                                        |
+| `Parma`                       | `Kléandir`       | an Earth word                                                        |
+| `Sycâni`                      | `Vezhnûr`        | an Earth word                                                        |
+| `Sycânus`                     | `Vezhnûrikos`    | a name built on a retired one                                        |
+| `arslan`                      | `kezvûn`         | an Earth word                                                        |
+| `shahr`                       | `pazhûr`         | an Earth word                                                        |
+| `gohar`                       | `zhevrân`        | an Earth word                                                        |
+| `karvan`                      | `karvash`        | an Earth word                                                        |
+| `Arslanikos`                  | `Kezvûnikos`     | a name built on a retired root                                       |
+| `Firuzéon`                    | `Tchelvâzeon`    | a name built on an Earth word                                        |
+| `Goharzát`                    | `Zhevrânzát`     | a house built on a retired root                                      |
+| `Karvanzát`                   | `Karvashzát`     | a house built on a retired root                                      |
+| `Lord Alaric Stormhaven`      | —                | an alias in the reader's tongue that the setting does not use        |
+| `Sir Alaric Emberhill`        | —                | an alias in the reader's tongue that the setting does not use        |
+| `Lady Mirabel Shadowthorn`    | —                | an alias in the reader's tongue that the setting does not use        |
+| `Sérolan Cedric Lightbringer` | —                | an alias in the reader's tongue that the setting does not use        |
+| `Tàlîma`                      | `Mýrthana`       | an Earth word                                                        |
+| `Thamîrîon`                   | `Kêrvanion`      | built on an Earth morpheme; the Bethûan royal house is Kêrvanion too |
+| `Mahmûdrós`                   | `Ghérvanos`      | built on an Earth name                                               |

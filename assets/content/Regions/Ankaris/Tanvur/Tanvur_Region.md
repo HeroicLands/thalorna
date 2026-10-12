@@ -38,7 +38,7 @@ The climate runs from one extreme of the region to the other. The north is cold-
 
 ## Peoples and Culture
 
-The Tānvüri are overwhelmingly human. The rare [[lore-flksinale|Sinalë]] who walk among them do so under a formal arrangement, possibly a coerced one, that ties certain mountain enclaves to the imperial court; the rarer [[lore-flkkhazar|Khazári]] keep halls in the western mountains and seldom come out of them. Everything else is shaped by the eight castes, from the [[lore-zheklung|Zhëklüng]], the Sons of the Dragon at the top, through the [[lore-venduk|Vëndük]] sorcerers bound in service beneath them, the warrior nobles, the celestial scholars, the artisans, the peasant farmers and the merchants, to the outcast [[lore-nutzok|Nützōk]] at the bottom. A person's caste fixes their trade, their dress, their name, whom they may marry and which protections the law extends to them.
+The Tānvüri are overwhelmingly human. The rare [[lore-flksinale|Sinalë]] who walk among them do so under a formal arrangement, possibly a coerced one, that ties certain mountain enclaves to the imperial court; the rarer [[lore-flkkhazar|Khazári]] keep halls in the western mountains and seldom come out of them. Everything else is shaped by the eight castes, from the [[lore-zhekzhos|Zhëkzhös]], the Sons of the Dragon at the top, through the [[lore-venduk|Vëndük]] sorcerers bound in service beneath them, the warrior nobles, the celestial scholars, the artisans, the peasant farmers and the merchants, to the outcast [[lore-nutzok|Nützōk]] at the bottom. A person's caste fixes their trade, their dress, their name, whom they may marry and which protections the law extends to them.
 
 Cultural life is refined and deeply formal. The imperial tradition prizes calligraphy, poetry, painting, tea-craft, music and a complex cuisine whose techniques pass down through lineages. The civilization that makes some of Thalorna's finest porcelain and its most subtle lyric poetry is the one whose caste laws sanction collective punishment, and whose prisons hold the grandchildren of disfavored families as a matter of routine. Tānvüri intellectuals treat the two as a single thing: classification is refinement, and refinement is classification.
 
@@ -46,13 +46,13 @@ Family honor is kept on the ledger of [[lore-ancstrwrshp|ancestor worship]]. Eve
 
 ## Religion
 
-The religion of Tānvür is the [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]], the Celestial Order: a pantheon conceived as a vast spiritual bureaucracy, of which the earthly government is a working mirror. At its apex is **Tānlüng**, the Celestial Dragon, who is the principle of classification itself, a sorter and not a creator. Beneath the Dragon, the **Jade Sovereign** (Vëizhük), the **Minister of Storms** (Rëkgüng), the **Minister of the Moon** (Yütvëi) and the [[lore-fvlmntlrds|Five Elemental Lords]] each administer a domain. Common piety runs through ancestor worship, which treats virtue as spiritual capital and vice as debt.
+The religion of Tānvür is the [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]], the Celestial Order: a pantheon conceived as a vast spiritual bureaucracy, of which the earthly government is a working mirror. At its apex is **Tānzhös**, the Celestial Dragon, who is the principle of classification itself, a sorter and not a creator. Beneath the Dragon, the **Jade Sovereign** (Vëizhük), the **Minister of Storms** (Rëkgīrk), the **Minister of the Moon** (Yütvëi) and the [[lore-fvlmntlrds|Five Elemental Lords]] each administer a domain. Common piety runs through ancestor worship, which treats virtue as spiritual capital and vice as debt.
 
 Against this ordered cosmos stand the [[lore-infrnlrlms|Infernal Realms]], the zones where the Great Sorting was left unfinished. Demons, foreign gods and the Unclassified at large are understood as pressure on the borders of the classified world, and imperial ritual and the work of the Vëndük sorcerers are, among other things, the continuous keeping of that border. Other faiths are neither tolerated nor persecuted; they are ignored, since a foreign pantheon is by definition an attempt to classify the same things less well.
 
 ## Politics and Power
 
-The political order is the Empire itself. A hereditary [[lore-mandatehvn|Son of Heaven]] rules by cosmic appointment, which is a different thing from divine blessing. Beneath him, the Warlords (_Vüszhük_) of the Zhëklüng hold the provinces and the armies and balance the throne; the Vëndük sorcerers are the imperial family's owned property and indispensable to its governance; and the Tānthëi scholars run the administration. The [[lore-veizhatret|Vëi Zhāt Rëit]], the court's game of political manipulation, is understood as part of imperial statecraft and not as a corruption of it.
+The political order is the Empire itself. A hereditary [[lore-mandatehvn|Son of Heaven]] rules by cosmic appointment, which is a different thing from divine blessing. Beneath him, the Warlords (_Vüszhük_) of the Zhëkzhös hold the provinces and the armies and balance the throne; the Vëndük sorcerers are the imperial family's owned property and indispensable to its governance; and the Tānthëi scholars run the administration. The [[lore-veizhatret|Vëi Zhāt Rëit]], the court's game of political manipulation, is understood as part of imperial statecraft and not as a corruption of it.
 
 No serious threat has ever reached the Empire from the west. Its worst enemies have come from within, in succession crises, caste revolts and Vëndük conspiracies, or from the east, from [[place-jurthatrgn|Jürthāt]], the breakaway archipelago whose "rebellious" status has been a thousand-year stalemate of raid and counter-raid.
 
@@ -70,12 +70,12 @@ To the southwest, beyond the eastern arc of the Grazian Mountains, contact with 
 
 To the west, beyond the mountain passes, the Khazryn Desert is a buffer crossed by caravans and, now and then, by an imperial expedition. The Aurèldían kingdoms beyond it are real and remote, a faint rumor of cathedrals and princes.
 
-To the north, the [[place-grkrhlmrgn|Grukari]] frontier is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the Black Wilds, is another matter this generation: the warlord [[being-bathurhurtzhuk|Bāthür Hürtzhük]] has united its tribes, and his riders are already in the northern provinces.
+To the north, the [[place-grkrhlmrgn|Grukari]] frontier is a fortified marchland of watchtowers and garrison colonies. The Empire has treated Grukar raids as a nuisance and has generally been right to. The steppe beyond, the Black Wilds, is another matter this generation: the warlord [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]] has united its tribes, and his riders are already in the northern provinces.
 
 ## See Also
 
 - [[affiliation-tanvurempr|Empire of Tānvür]]—the imperial polity of the region
-- [[affiliation-tngvkvnlei|Celestial Order]]—the pantheon and cosmology
+- [[affiliation-tngvkrrklei|Celestial Order]]—the pantheon and cosmology
 - [[lore-mandatehvn|Mandate of Heaven]]—the imperial doctrine
 - [[lore-castelaws|Caste Laws]]—the legal structure of the eight castes
 - [[lore-celestialroad|The Celestial Road]]—the caravan road west across the Khazryn

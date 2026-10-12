@@ -19,9 +19,9 @@ That is why the clan council arranges the match and the couple does not. The cou
 
 ## Who May Marry
 
-**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zheklung|Zhëklüng]], the [[lore-vushok|Vüshōk]], the [[lore-tanthei|Tānthëi]] and the [[lore-zathuk|Zāthük]]. These castes stand high enough in the classification to warrant the formal filing.
+**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zhekzhos|Zhëkzhös]], the [[lore-vushok|Vüshōk]], the [[lore-tanthei|Tānthëi]] and the [[lore-zathuk|Zāthük]]. These castes stand high enough in the classification to warrant the formal filing.
 
-**The castes that may not.** The [[lore-nokvur|Nōkvür]], the [[lore-shukren|Shükrën]] and the [[lore-nutzok|Nützōk]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nōkvür accept it as the way of things; most Shükrën, who could afford a wedding finer than many nobles', resent it in private.
+**The castes that may not.** The [[lore-nokvur|Nōkvür]], the [[lore-shuknurk|Shüknürk]] and the [[lore-nutzok|Nützōk]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nōkvür accept it as the way of things; most Shüknürk, who could afford a wedding finer than many nobles', resent it in private.
 
 The Nōkvür have their own answer. A village Lëigürt (spirit master) performs a bonding rite that presents the couple to the ancestors of both families, if not to the bureaus of heaven, and in the villages that rite carries all the weight a temple wedding carries in the cities. The empire does not recognize it, and nobody in the village cares.
 
@@ -33,7 +33,7 @@ The wedding is a registration, and each of its five steps does a piece of admini
 
 **The contract** (_Zhāklüt Hōk_). The two clan councils sign a contract, drafted by a Tānthëi and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
-**The petition** (_Lëi Sëi Thōk_). A spirit document is burned at the temple, addressed to the Bureau of Continuity ([[affiliation-tngvkvnlei|Zāt Sëi]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
+**The petition** (_Lëi Sëi Thōk_). A spirit document is burned at the temple, addressed to the Bureau of Continuity ([[affiliation-tngvkrrklei|Zāt Sëi]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
 **The consultation** (_Kōt Lëi Vōk_). Before the union is final, a Lëigürt speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 

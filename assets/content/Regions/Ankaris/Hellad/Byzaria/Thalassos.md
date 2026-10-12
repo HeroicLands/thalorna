@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [byzariargn], population: 4000, packFol
 
 If you want your cargo inspected, Thálassos is the wrong harbor; if you want it left alone, it is the right one. The town's magistrate keeps minimal customs authority and leaves the tariffs to a handful of bonded merchants, an arrangement that suits independent traders and small-scale smugglers equally well.
 
-Thálassos—the name drawn directly from the Byzarian word for "sea"—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Byzarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[affiliation-denizara|Denizara]] and the craft reputation of [[place-byzaris|Byzaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], [[place-provenzrgn|Provènzia Region]] and the western settlements beyond.
+Thálassos—the name drawn directly from the Byzarian word for "sea"—is a modest harbor town of about 4,000, serving the [[affiliation-byzarianlg|Byzarian League]] as a waypoint for coastal merchant traffic and a refuge for ships caught by seasonal storms. It lacks the grandeur and infrastructure of [[affiliation-nesthiros|Nêsthiros]] and the craft reputation of [[place-byzaris|Byzaris]], but its protected natural harbor has made it indispensable to maritime commerce moving along the coast toward the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]], [[place-provenzrgn|Provènzia Region]] and the western settlements beyond.
 
 ## The Waterfront
 
@@ -24,5 +24,5 @@ The town keeps a shrine to Tethara, the Aurèldían goddess of the sea and safe 
 
 - [[affiliation-byzarianlg|Byzarian League]]—the confederation of city-states
 - [[place-byzariargn|Byzaría Region]]—regional overview
-- [[affiliation-denizara|Denizara]]—the League's premier port
+- [[affiliation-nesthiros|Nêsthiros]]—the League's premier port
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the faith the shrine belongs to

@@ -3,17 +3,17 @@ shortcode: swearbaobab
 name: {full: The Swearing Under the Baobab, aliases: []}
 type: lore
 subType: literature
-description: "The lion cult's memory-song of the Long Pact's swearing: the five clans, the five terms and Mwána-Mvuzi's words, sung by a griot and answered by the gathered."
+description: "The lion cult's memory-song of the Long Pact's swearing: the five clans, the five terms and Nyóli Ruwozi's words, sung by a griot and answered by the gathered."
 tags: [draft, nyaluba]
 data:
   packFolder: politiesnyaluba
   culture: nyalubaclt
   form: memory-song
-  subjects: [affiliation-nylbtrblntn, affiliation-nyalblion, lore-lionmvuzispr]
+  subjects: [affiliation-nylbtrblntn, affiliation-nyalblion, lore-lionruwozispr]
   language: nyalbnlng
 ---
 
-**The Swearing Under the Baobab** is the memory-song of the [[affiliation-nylbtrblntn|Long Pact]]'s swearing, held by the [[affiliation-nyalblion|Lion Totem]] and kept by the Griot of the Mvuzi. It is praise poetry in the griot's call and the hearers' answer: the griot names, and those gathered return the name. A memory-song is evidence as well as praise, so the hearers' answers also serve as a check, and the song is sung before people who already know it. The [[skill-griot|griot]] holds it to its received length, keeps [[affiliation-nylbtrblntn|Mwána-Mvuzi]]'s sentence whole, and says of the lion only that it was witness. Of the catastrophe that drove the five clans together, the song keeps what the Bombwe griots hold and nothing more. In the text below, the indented lines in italics are the answer of those gathered.
+**The Swearing Under the Baobab** is the memory-song of the [[affiliation-nylbtrblntn|Long Pact]]'s swearing, held by the [[affiliation-nyalblion|Lion Totem]] and kept by the Griot of the Ruwozi. It is praise poetry in the griot's call and the hearers' answer: the griot names, and those gathered return the name. A memory-song is evidence as well as praise, so the hearers' answers also serve as a check, and the song is sung before people who already know it. The [[skill-griot|griot]] holds it to its received length, keeps [[affiliation-nylbtrblntn|Nyóli Ruwozi]]'s sentence whole, and says of the lion only that it was witness. Of the catastrophe that drove the five clans together, the song keeps what the Lobwezi griots hold and nothing more. In the text below, the indented lines in italics are the answer of those gathered.
 
 : The Swearing Under the Baobab {#song}
 
@@ -51,7 +51,7 @@ That host is gone. It left no herds behind it.
 
 Who came up from the river?
   _The crocodile came._
-Kambezi of the reed canoe and the slow brown water,
+Kolembozi of the reed canoe and the slow brown water,
 who name the crocodile by its mother and her mother.
 
 Who came down from the high country?
@@ -66,16 +66,16 @@ and say less about it than they know.
 
 Who came from the standing water?
   _The baobab's people came. The tree stays where it is._
-Bombwe of the grain and the well and the slow word,
+Lobwezi of the grain and the well and the slow word,
 who carry the fathers of all five in their mouths.
 
 Who stood on their own ground?
   _The lion stood._
-Mvuzi of the cattle and of the challenge made in the open,
+Ruwozi of the cattle and of the challenge made in the open,
 first of the five, because the tree was theirs to stand under.
 
 And who spoke for the lion?
-  _Mwána-Mvuzi._
+  _Nyóli Ruwozi._
 Say what the name is.
   _Daughter of the Lion._
 Every senior woman of the lion carries that name now.
@@ -100,14 +100,14 @@ Fourth: the five come back in their own bodies
 every fourth dry season, and say it again.
   _Every fourth dry season._
 Fifth: what was sworn here changes only when all five paramounts
-say yes aloud, before the Indaba and before the griots.
+say yes aloud, before the Lubemo and before the griots.
   _All five, aloud._
 That is the whole hand.
   _There is no sixth finger._
 
 Some under the tree wanted more than a hand.
 They wanted a house built over the five.
-And Mwána-Mvuzi answered them. Hear her whole:
+And Nyóli Ruwozi answered them. Hear her whole:
 "We are not building a kingdom.
 We are agreeing not to destroy each other.
 The rest is for our daughters to decide for themselves."
@@ -135,7 +135,7 @@ Hear me, children of the five.
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Long Pact, its terms and the Great Indaba
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Long Pact, its terms and the Great Lubemo
 - [[affiliation-nyalblion|Lion Totem]]—the cult that holds this song, and the lion's witness
 - [[lore-nyalubaclt|Nyáluba]]—the culture the Pact defines
 - [[skill-griot|Griot]]—the keeping of memory where nothing is written

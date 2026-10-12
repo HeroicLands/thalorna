@@ -3,7 +3,7 @@ shortcode: selatgrnlght
 name: {full: The Selat of Gar-Anlaghet, aliases: []}
 type: affiliation
 subType: polity
-description: "The chief delta selat of Aû'Khelâthu—richest and most cosmopolitan province in the empire, built around the great port of Gar-Anlaghet, where the empire's seaborne trade, its Haradian factories, and its wealthiest merchant-Halzi'a all meet the water."
+description: "The chief delta selat of Aû'Khelâthu—richest and most cosmopolitan province in the empire, built around the great port of Gar-Anlaghet, where the empire's seaborne trade, its Tarûzelian factories, and its wealthiest merchant-Halzi'a all meet the water."
 data:
   banner: khelathubnr
   templatePriority: null
@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-The **Selat of Gar-Anlaghet** is the first of the [[affiliation-deltaselatu|Delta Selatu]] and the richest province in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of the whole empire meets the wealth of the wider world. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) is reckoned the wealthiest noble in the realm outside the royal house, and governs less like a provincial lord than like a merchant-prince and diplomat. The [[affiliation-cnfdrtnhrdnstts|Haradian]] factors, the [[affiliation-zebequzut|Zebequ'Zut]] houses and the [[lore-garauu|Gar-Aû]]'s customs men all keep time to the rhythm of that harbor. The land the selat holds is [[place-garanlghtslt|Gar-Anlaghet Selat]].
+The **Selat of Gar-Anlaghet** is the first of the [[affiliation-deltaselatu|Delta Selatu]] and the richest province in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]: the chief port, its window on the [[place-vylarianse|Vylarian Sea]], and the place where the wealth of the whole empire meets the wealth of the wider world. Its [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) is reckoned the wealthiest noble in the realm outside the royal house, and governs less like a provincial lord than like a merchant-prince and diplomat. The [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] factors, the [[affiliation-zebequzut|Zebequ'Zut]] houses and the [[lore-garauu|Gar-Aû]]'s customs men all keep time to the rhythm of that harbor. The land the selat holds is [[place-garanlghtslt|Gar-Anlaghet Selat]].
 
 "Four hands are in every purse on this quay," a [[affiliation-garhalzi|Gár-Hálzi]] factor tells a junior of a [[lore-bethuanclt|Bethûan]] trade-house on her first morning at the waterfront. "The selat takes a fee on the harbor, the customs-house takes the duty, my treasury takes the exchange, and the factors take what is left. Learn which of them you are speaking to before you name a price."
 
@@ -91,7 +91,7 @@ The selat takes its cut of everything that passes: harbor-fees, customs, warehou
 
 ## For the Worldbuilder
 
-Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, and constant friction between [[lore-khelathiclt|Khelâthi]] customs men and Haradian factors who both want the trade on their own terms. The Halzi'a balances profit against the Gar-Aû's suspicion that the delta is one bad harvest from selling out the empire. Adventures here are mercantile intrigue, dockside crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous question of who really controls the harbor-fees. Money, foreign goods and information are abundant. Grain, loyalty and any transaction without a cut taken somewhere are scarce.
+Gar-Anlaghet is the empire's commercial nerve, and it plays like a great trading port anywhere: customs and smuggling, brokerage and fraud, foreign agents and merchant feuds, and constant friction between [[lore-khelathiclt|Khelâthi]] customs men and Tarûzelian factors who both want the trade on their own terms. The Halzi'a balances profit against the Gar-Aû's suspicion that the delta is one bad harvest from selling out the empire. Adventures here are mercantile intrigue, dockside crime, insurance and cargo swindles, the theft and recovery of bonded goods, foreign espionage in the cosmopolitan quarters, and the dangerous question of who really controls the harbor-fees. Money, foreign goods and information are abundant. Grain, loyalty and any transaction without a cut taken somewhere are scarce.
 
 ## Commerce and Currency
 
@@ -102,6 +102,6 @@ Gar-Anlaghet uses the [[lore-aukhlthcrncy|Aû'Khelâthu Currency]], but its harb
 - [[affiliation-deltaselatu|The Delta Selatu]]—Parent selat-class
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—Imperial overview
 - [[place-garanlaghet|Gar-Anlaghet]]—Selat capital
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Chief trading partner
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Chief trading partner
 - [[affiliation-garhalzi|Gár-Hálzi]]—Temple-treasuries
 - [[place-garanlghtslt|Gar-Anlaghet Selat]]—The land the selat holds

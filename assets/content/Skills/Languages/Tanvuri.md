@@ -72,9 +72,9 @@ Tānvüri has several phonological characteristics that give it an immediately r
 
 **Final consonant stops**—Tānvüri words frequently end in **-k** and **-t**, giving speech a clipped, precise quality. Examples: _thāt_ (mountain), _höt_ (fire), _jīk_ (metal), _vōk_ (court).
 
-**Initial v-**—The consonant **v** is extremely common in word-initial position: _vōk_ (court), _vān_ (myriad), _vëng_ (wind), _vōr_ (divine).
+**Initial v-**—The consonant **v** is extremely common in word-initial position: _vōk_ (court), _vüs_ (warrior), _vëng_ (wind), _vōr_ (divine).
 
-**Initial th-**—The "th" of "thin" is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thürk_ (winter).
+**Initial th-**—The "th" of "thin" is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thëik_ (winter).
 
 **The vowel ë**—A mid-central schwa that gives Tānvüri its characteristic "muted" quality. It appears in nearly every other morpheme: _tëng_ (heaven), _lëi_ (spirit), _zhëk_ (life).
 
@@ -101,7 +101,7 @@ Tānvüri is a **head-final, modifier-first** language. Adjectives and possessor
 Examples:
 
 - _Tëngvōk_ = Celestial (_tëng_) + Court (_vōk_) > "Celestial Court"
-- _Zhëklüng_ = Life (_zhëk_) + Dragon (_lüng_) > "Dragon-born" (the imperial caste)
+- _Zhëkzhös_ = Life (_zhëk_) + Dragon (_zhös_) > "Dragon-born" (the imperial caste)
 - _Dākyāt_ = Great (_dāk_) + Healer (_yāt_) > "Grand Physician"
 
 ### Compounding
@@ -112,7 +112,7 @@ The primary word-formation process is **compounding**—combining two or more mo
 - _sīk_ (death) + _vōk_ (court) > _Sīkvōk_ (Court of the Dead)
 - _tëit_ (iron) + _jëk_ (blade) > _Tëitjëk_ (Iron Blade—a personal name)
 
-When compounds are written as personal or place names, they are typically joined into a single word: _Tānlüng_, _Vëizhük_, _Rëkgüng_. When they are descriptive titles or institutional names, they are written as separate words: _Tëng Güng_ (Celestial Minister), _Lëi Sëi_ (Spirit Bureau).
+When compounds are written as personal or place names, they are typically joined into a single word: _Tānzhös_, _Vëizhük_, _Rëkgīrk_. When they are descriptive titles or institutional names, they are written as separate words: _Tëng Gīrk_ (Celestial Minister), _Lëi Sëi_ (Spirit Bureau).
 
 ### Suffixes
 
@@ -122,7 +122,7 @@ A small number of productive suffixes exist:
 | ------ | --------------------- | ------------------------------------------------------ |
 | -zōk   | tribe, group, people  | _Nützōk_ (slaves), _Hëk Zhāk_ > _Hëkzōk_ (shadow folk) |
 | -vōr   | spirit, divine being  | _Mëivōr_ (Dream Spirit), _Nüsvōr_ (Spirit of Decay)    |
-| -güng  | official, minister    | _Rëkgüng_ (Thunder Lord), _Yātgüng_ (Practitioner)     |
+| -gīrk  | official, minister    | _Rëkgīrk_ (Thunder Lord), _Yātgīrk_ (Practitioner)     |
 | -gürt  | master, teacher       | _Lëigürt_ (Spirit Master), _Thōkgürt_ (Lore Master)    |
 | -zhük  | lord, sovereign       | _Yökzhük_ (Demon Lord), _Vüszhük_ (War Lord)           |
 | -lëi   | spirit (lesser)       | _Nüslëi_ (Decay Spirit), _Fëklëi_ (Fortune Spirit)     |
@@ -134,11 +134,11 @@ A small number of productive suffixes exist:
 
 ### Plurals
 
-Tānvüri does not mark plurality on nouns. Whether a word refers to one or many is determined by context. The morpheme _vān_ (ten thousand / myriad) can be prefixed for emphasis when the sense of "countless" is intended: _Vān Lëi_ = "Ten Thousand Spirits."
+Tānvüri does not mark plurality on nouns. Whether a word refers to one or many is determined by context. The morpheme _rūrk_ (ten thousand / myriad) can be prefixed for emphasis when the sense of "countless" is intended: _Rūrk Lëi_ = "Ten Thousand Spirits."
 
 ### Honorifics and Titles
 
-Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a title). In formal address, the title _Dāk-_ (great/supreme) may be prefixed: _Dāknëi_ (Great Sovereign), _Dākyāt_ (Grand Physician).
+Titles follow the name: _Tānzhös Zhükvōr_ = Tānzhös + "Supreme Sacred" (a title). In formal address, the title _Dāk-_ (great/supreme) may be prefixed: _Dāknëi_ (Great Sovereign), _Dākyāt_ (Grand Physician).
 
 ---
 
@@ -146,26 +146,26 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 ### Nature and Elements
 
-| Tānvüri | Meaning                         |
-| ------- | ------------------------------- |
-| höt     | fire                            |
-| jīk     | metal, gold                     |
-| lëi     | spirit, soul, vital energy (qi) |
-| müt     | wood                            |
-| shüt    | water                           |
-| tūr     | earth, soil                     |
-| vëng    | wind                            |
-| thāt    | mountain, peak                  |
-| yürt    | cloud                           |
-| zhīr    | star                            |
-| yüt     | moon, month                     |
-| lōt     | flower, lotus                   |
-| nōk     | field, garden                   |
-| shüt    | water, river                    |
-| vōng    | sea, ocean                      |
-| zhürt   | snow                            |
-| thürt   | frost                           |
-| mëi     | dream                           |
+| Tānvüri | Meaning                    |
+| ------- | -------------------------- |
+| höt     | fire                       |
+| jīk     | metal, gold                |
+| lëi     | spirit, soul, vital energy |
+| müt     | wood                       |
+| shüt    | water                      |
+| tūr     | earth, soil                |
+| vëng    | wind                       |
+| thāt    | mountain, peak             |
+| yīrt    | cloud                      |
+| zhīr    | star                       |
+| yüt     | moon, month                |
+| lōt     | flower, lotus              |
+| nōk     | field, garden              |
+| shüt    | water, river               |
+| vōng    | sea, ocean                 |
+| zhürt   | snow                       |
+| thürt   | frost                      |
+| mëi     | dream                      |
 
 ### Colors
 
@@ -173,7 +173,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | ------- | ------------------- |
 | mōk     | green               |
 | zhüt    | blue, azure         |
-| röt     | red, vermilion      |
+| rīrn    | red, vermilion      |
 | bëit    | white               |
 | hëk     | dark, black, shadow |
 | lëng    | bright, radiant     |
@@ -186,7 +186,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | jür     | nine                                |
 | vürt    | five                                |
 | vāt     | ten                                 |
-| vān     | ten thousand, myriad                |
+| rūrk    | ten thousand, myriad                |
 | dāk     | great (also used as an intensifier) |
 
 ### People and Society
@@ -195,13 +195,13 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | ------- | --------------------- |
 | thür    | emperor, king         |
 | zhük    | lord, sovereign       |
-| güng    | official, minister    |
+| gīrk    | official, minister    |
 | gürt    | master, teacher       |
 | vüs     | warrior, soldier      |
 | thëi    | scholar, sage         |
 | yāt     | healer, physician     |
 | zhëi    | son, child            |
-| rën     | person, folk          |
+| nürk    | person, folk          |
 | nüt     | bound, enslaved       |
 | zōk     | tribe, group (suffix) |
 | zhāk    | house, clan, family   |
@@ -236,18 +236,18 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 ### Creatures
 
-| Tānvüri | Meaning                           |
-| ------- | --------------------------------- |
-| lüng    | dragon                            |
-| hürt    | tiger                             |
-| zhāt    | bird, phoenix                     |
-| vüt     | tortoise                          |
-| sōk     | serpent                           |
-| māt     | horse                             |
-| bëi     | ape                               |
-| zhür    | boar                              |
-| yök     | demon, fiend                      |
-| kīr     | mythical beast (qilin-equivalent) |
+| Tānvüri | Meaning                     |
+| ------- | --------------------------- |
+| zhös    | dragon                      |
+| hürt    | tiger                       |
+| zhāt    | bird, phoenix               |
+| vüt     | tortoise                    |
+| sōk     | serpent                     |
+| māt     | horse                       |
+| bëi     | ape                         |
+| zhür    | boar                        |
+| yök     | demon, fiend                |
+| kīr     | a horned beast of good omen |
 
 ### Verbs and Modifiers
 
@@ -255,7 +255,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | ------- | ----------------------- |
 | thëng   | ascending, rising       |
 | jöng    | descending, falling     |
-| thürk   | freezing, winter        |
+| thëik   | freezing, winter        |
 | vëk     | responding, echoing     |
 | zhüt    | flowing (also: blue)    |
 | dāk     | great, supreme (adj.)   |
@@ -270,77 +270,77 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 ### Political Titles
 
-| Tānvüri          | Literal Meaning            | Usage                            |
-| ---------------- | -------------------------- | -------------------------------- |
-| Tëngzhëi         | Heaven-Child               | Emperor                          |
-| Vānlëng Tëngzhëi | Bright-Myriad Heaven-Child | Emperor of Jürthāt               |
-| Vüszhük          | Battle-Lord                | Warlord                          |
-| Dākzhük          | Great-Lord                 | Greater Warlord (Jürthāt)        |
-| Shëitzhük        | Lesser-Lord                | Lesser Warlord (Jürthāt)         |
-| Tëng Güng        | Heaven-Official            | Celestial Minister               |
-| Güngthāt         | Office-Mountain            | Provincial Governor              |
-| Zhākkōt          | Clan-Ancient               | Clan Elder                       |
-| Thürzhük Hëkvōr  | Emperor Shadow             | "Emperor's Shadow" (spy network) |
-| Zhāklüt          | Clan-Law                   | Caste Laws                       |
-| Vüs Hōk Lüt      | Warrior-Balance-Law        | The Vüshōk code of honor         |
+| Tānvüri           | Literal Meaning            | Usage                            |
+| ----------------- | -------------------------- | -------------------------------- |
+| Tëngzhëi          | Heaven-Child               | Emperor                          |
+| Rūrklëng Tëngzhëi | Bright-Myriad Heaven-Child | Emperor of Jürthāt               |
+| Vüszhük           | Battle-Lord                | Warlord                          |
+| Dākzhük           | Great-Lord                 | Greater Warlord (Jürthāt)        |
+| Shëitzhük         | Lesser-Lord                | Lesser Warlord (Jürthāt)         |
+| Tëng Gīrk         | Heaven-Official            | Celestial Minister               |
+| Gīrkthāt          | Office-Mountain            | Provincial Governor              |
+| Zhākkōt           | Clan-Ancient               | Clan Elder                       |
+| Thürzhük Hëkvōr   | Emperor Shadow             | "Emperor's Shadow" (spy network) |
+| Zhāklüt           | Clan-Law                   | Caste Laws                       |
+| Vüs Hōk Lüt       | Warrior-Balance-Law        | The Vüshōk code of honor         |
 
 ### The Eight Castes
 
 | Tānvüri  | Literal Meaning   | Role                                                  |
 | -------- | ----------------- | ----------------------------------------------------- |
-| Zhëklüng | Life-Dragon       | Imperial family—"Dragon-born"                         |
+| Zhëkzhös | Life-Dragon       | Imperial family—"Dragon-born"                         |
 | Vëndük   | Bound-Magic       | Chattel Sorcerers                                     |
 | Vüshōk   | Warrior-Noble     | Warrior Nobility                                      |
 | Tānthëi  | Celestial-Scholar | Celestial Scholars                                    |
 | Zāthük   | Craft-House       | Artisans and Craftsmen                                |
 | Nōkvür   | Field-Center      | Farmers and Peasants                                  |
-| Shükrën  | Trade-Folk        | Merchants                                             |
+| Shüknürk | Trade-Folk        | Merchants                                             |
 | Nützōk   | Bound-Tribe       | Slaves and Outcasts                                   |
-| Vüsrën   | Warrior-Folk      | Common soldiers and enforcers within the Zāthük caste |
+| Vüsnürk  | Warrior-Folk      | Common soldiers and enforcers within the Zāthük caste |
 
 ### Religious Terms
 
-| Tānvüri         | Literal Meaning                   | Usage                                                       |
-| --------------- | --------------------------------- | ----------------------------------------------------------- |
-| Tëngvōk Vān Lëi | Celestial Court of Myriad Spirits | The Celestial Order (pantheon name)                         |
-| Lëi Sëi         | Spirit Bureau                     | Spirit Bureaus (collective)                                 |
-| Tëngvōr         | Heaven-Sacred                     | Mandate of Heaven                                           |
-| Lëivōr          | Spirit-Sacred                     | The philosophy of vital energy                              |
-| Lëigürt         | Spirit-Master                     | Spirit priest/practitioner                                  |
-| Lëithëi         | Spirit-Wisdom                     | Qigong-equivalent energy practice                           |
-| Zëisīk          | Self-Death                        | Ritual suicide                                              |
-| Rëitsīk         | Ritual-Death                      | State-ordered ritual suicide                                |
-| Vōrjëk          | Sacred-Blade                      | The ritual blade used in Zëisīk                             |
-| Güngvüs         | Official-Guard                    | Second (assistant in Rëitsīk)                               |
-| Tūrvōr          | Earth-Sacred                      | Earth Officials (local administrative spirits)              |
-| Hürnlëi         | Chaos-Spirit                      | The Unclassified; primordial chaos before the Great Sorting |
-| Dāk Zhāklëi     | Great Sorting-Spirit              | The Great Sorting; Tānlüng's act of classifying existence   |
-| Vōr Thōk        | Sacred Distinction                | The First Distinction; the initial act of classification    |
-| Dāk Thōklëi     | Great Record-Spirit               | The Master Registry of all classified things                |
-| Zātkür          | Hearth-Lord                       | Household monitoring spirit; files annual moral reports     |
-| Kōt Thōk        | Last-Record                       | Final testament composed before Zëisīk                      |
-| Dāk Vān Hōk     | Great-Myriad-Harmony              | The Great Convergence; zero date of the Celestial Calendar  |
-| Tëng Dāk        | Celestial-Great                   | Celestial Generation; a 27-year administrative cycle        |
+| Tānvüri          | Literal Meaning                   | Usage                                                       |
+| ---------------- | --------------------------------- | ----------------------------------------------------------- |
+| Tëngvōk Rūrk Lëi | Celestial Court of Myriad Spirits | The Celestial Order (pantheon name)                         |
+| Lëi Sëi          | Spirit Bureau                     | Spirit Bureaus (collective)                                 |
+| Tëngvōr          | Heaven-Sacred                     | Mandate of Heaven                                           |
+| Lëivōr           | Spirit-Sacred                     | The philosophy of vital energy                              |
+| Lëigürt          | Spirit-Master                     | Spirit priest/practitioner                                  |
+| Lëithëi          | Spirit-Wisdom                     | A discipline of breath and vital energy                     |
+| Zëisīk           | Self-Death                        | Ritual suicide                                              |
+| Rëitsīk          | Ritual-Death                      | State-ordered ritual suicide                                |
+| Vōrjëk           | Sacred-Blade                      | The ritual blade used in Zëisīk                             |
+| Gīrkvüs          | Official-Guard                    | Second (assistant in Rëitsīk)                               |
+| Tūrvōr           | Earth-Sacred                      | Earth Officials (local administrative spirits)              |
+| Hürnlëi          | Chaos-Spirit                      | The Unclassified; primordial chaos before the Great Sorting |
+| Dāk Zhāklëi      | Great Sorting-Spirit              | The Great Sorting; Tānzhös's act of classifying existence   |
+| Vōr Thōk         | Sacred Distinction                | The First Distinction; the initial act of classification    |
+| Dāk Thōklëi      | Great Record-Spirit               | The Master Registry of all classified things                |
+| Zātkür           | Hearth-Lord                       | Household monitoring spirit; files annual moral reports     |
+| Kōt Thōk         | Last-Record                       | Final testament composed before Zëisīk                      |
+| Dāk Rūrk Hōk     | Great-Myriad-Harmony              | The Great Convergence; zero date of the Celestial Calendar  |
+| Tëng Dāk         | Celestial-Great                   | Celestial Generation; a 27-year administrative cycle        |
 
 ### Marriage and Legal Terms
 
-| Tānvüri          | Literal Meaning             | Usage                                                                   |
-| ---------------- | --------------------------- | ----------------------------------------------------------------------- |
-| Zhāklüt Hōk      | Clan-Law Harmony            | Marriage contract between two clan councils                             |
-| Lëi Sëi Thōk     | Spirit-Bureau Record        | Marriage petition filed with the celestial administration               |
-| Kōt Lëi Vōk      | Ancient-Spirit Court        | Ancestor consultation ceremony before marriage                          |
-| Kōt Thōk Dōk     | Ancient-Record Path         | Ancestor tablet transfer ceremony during marriage                       |
-| Hōk Vōr          | Harmony-Sacred              | Marriage sealing ceremony; affixing the household seal                  |
-| Tëng Lüt         | Heaven-Law                  | Heavenly Law; the empire's legal code                                   |
-| Tëngzhëi Zhāklüt | Heaven-Child Classification | Imperial decree classifying a foreigner                                 |
-| Sëi Zhāklüt      | Bureau-Classification       | Administrative classification issued by a bureau                        |
-| Shükrën Dōk Thōk | Merchant-Transit Record     | Temporary trading classification for foreign merchants                  |
-| Dāk Rën Thōk     | Great-Person-Record         | The imperial census; the Great Person Record                            |
-| Zhāk Müt         | Classification-Wood         | Wooden identification tablet carried as proof of classification         |
-| Zhëk Dāk         | Life-Record                 | The imperial bestiary; cosmic taxonomy of all living things             |
-| Rën Zhëk         | Person-Life                 | Sentient beings with moral agency (humans, Sinalë, Khazári)             |
-| Zhëk Zōk         | Life-Group                  | Naturally reproducing species; a solved template in the cosmic taxonomy |
-| Zāt Vōr Zhëk     | Sacred-Creation Life        | Dreadspawn; individually manufactured creatures (open project files)    |
+| Tānvüri           | Literal Meaning             | Usage                                                                   |
+| ----------------- | --------------------------- | ----------------------------------------------------------------------- |
+| Zhāklüt Hōk       | Clan-Law Harmony            | Marriage contract between two clan councils                             |
+| Lëi Sëi Thōk      | Spirit-Bureau Record        | Marriage petition filed with the celestial administration               |
+| Kōt Lëi Vōk       | Ancient-Spirit Court        | Ancestor consultation ceremony before marriage                          |
+| Kōt Thōk Dōk      | Ancient-Record Path         | Ancestor tablet transfer ceremony during marriage                       |
+| Hōk Vōr           | Harmony-Sacred              | Marriage sealing ceremony; affixing the household seal                  |
+| Tëng Lüt          | Heaven-Law                  | Heavenly Law; the empire's legal code                                   |
+| Tëngzhëi Zhāklüt  | Heaven-Child Classification | Imperial decree classifying a foreigner                                 |
+| Sëi Zhāklüt       | Bureau-Classification       | Administrative classification issued by a bureau                        |
+| Shüknürk Dōk Thōk | Merchant-Transit Record     | Temporary trading classification for foreign merchants                  |
+| Dāk Nürk Thōk     | Great-Person-Record         | The imperial census; the Great Person Record                            |
+| Zhāk Müt          | Classification-Wood         | Wooden identification tablet carried as proof of classification         |
+| Zhëk Dāk          | Life-Record                 | The imperial bestiary; cosmic taxonomy of all living things             |
+| Nürk Zhëk         | Person-Life                 | Sentient beings with moral agency (humans, Sinalë, Khazári)             |
+| Zhëk Zōk          | Life-Group                  | Naturally reproducing species; a solved template in the cosmic taxonomy |
+| Zāt Vōr Zhëk      | Sacred-Creation Life        | Dreadspawn; individually manufactured creatures (open project files)    |
 
 ### Medical Terms
 
@@ -350,7 +350,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Yātzāt    | Heal-Craft      | Herbal Master / Apothecary   |
 | Zhëkyāt   | Life-Heal       | Physician (general)          |
 | Thëizhëit | Scholar-Young   | Medical student              |
-| Yātgüng   | Heal-Official   | Practitioner (experienced)   |
+| Yātgīrk   | Heal-Official   | Practitioner (experienced)   |
 | Dākyāt    | Great-Heal      | Master Physician             |
 | Vōryāt    | Sacred-Heal     | Grand Healer (highest rank)  |
 
@@ -358,9 +358,9 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 
 | Tānvüri | Epithet                                          | Domain                                |
 | ------- | ------------------------------------------------ | ------------------------------------- |
-| Tānlüng | Tānlüng Zhükvōr (Supreme Sacred Dragon)          | Heaven, order, cosmic law             |
-| Vëizhük | Vëizhük Dāknëi (Jade Emperor)                    | Administration, celestial bureaucracy |
-| Rëkgüng | Rëkgüng Vōrdāk (Thunder of Divine Might)         | Thunder, storms, justice              |
+| Tānzhös | Tānzhös Zhükvōr (Supreme Sacred Dragon)          | Heaven, order, cosmic law             |
+| Vëizhük | Vëizhük Dāknëi (Jade Sovereign)                  | Administration, celestial bureaucracy |
+| Rëkgīrk | Rëkgīrk Vōrdāk (Thunder of Divine Might)         | Thunder, storms, justice              |
 | Yütvëi  | Yütvëi Tëngyōk (Moon Jade of the Heavenly Court) | Moon, healing, dreams                 |
 | Yökzhük | —                                                | Demon King, ruler of infernal realms  |
 
@@ -385,10 +385,10 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Tānvüri         | Element                         |
 | --------------- | ------------------------------- |
 | Vëngdāk Zhütvōr | Air—Azure Wind of Sacred Breath |
-| Röthöt Dākvëng  | Fire—Blazing Fire Great Wind    |
+| Rīrnhöt Dākvëng | Fire—Blazing Fire Great Wind    |
 | Dāktūr Vōrthāt  | Earth—Great Earth Sacred Stone  |
 | Vōrjīk Jëk      | Metal—Divine Gold Blade         |
-| Zhütshüt Lüng   | Water—Azure Water Dragon        |
+| Zhütshüt Zhös   | Water—Azure Water Dragon        |
 
 ### Calendar—Month Names
 
@@ -403,29 +403,29 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | 7   | Shütyüt  | Water Month           |
 | 8   | Vëngyüt  | Wind Month            |
 | 9   | Yütjëit  | Moon Festival (Month) |
-| 10  | Thürkyüt | Winter Month          |
+| 10  | Thëikyüt | Winter Month          |
 | 11  | Zhürtyüt | Snow Month            |
 | 12  | Thürtyüt | Frost Month           |
 
 ### Calendar—Spirit Animals
 
-| Tānvüri    | Meaning              |
-| ---------- | -------------------- |
-| Zhütlüng   | Azure Dragon         |
-| Bëithürt   | White Tiger          |
-| Rötzhāt    | Vermilion Bird       |
-| Hëkvüt     | Black Tortoise       |
-| Kīrlüng    | Sacred Beast (qilin) |
-| Bëitthëi   | White Sage (bai ze)  |
-| Lëngzhāt   | Radiant Phoenix      |
-| Lüngmāt    | Dragon Horse         |
-| Bëitbëi    | White Ape            |
-| Vüthëi Sōk | Sage Serpent         |
-| Vōrzhür    | Righteous Boar       |
-| Hëkzhāt    | Shadow Bird          |
-| Jīklüng    | Golden Dragon        |
-| Vëklüng    | Echo Dragon          |
-| Zhützhāt   | Azure Bird           |
+| Tānvüri    | Meaning          |
+| ---------- | ---------------- |
+| Vëngzhös   | Wind Dragon      |
+| Tëithürt   | Iron Tiger       |
+| Zhīrzhāt   | Star Bird        |
+| Kōtvüt     | Ancient Tortoise |
+| Kīrhürt    | Sacred Beast     |
+| Bëitthëi   | White Sage       |
+| Lëngzhāt   | Radiant Phoenix  |
+| Lëngmāt    | Dawn Horse       |
+| Bëitbëi    | White Ape        |
+| Vüthëi Sōk | Sage Serpent     |
+| Vōrzhür    | Righteous Boar   |
+| Hëkzhāt    | Shadow Bird      |
+| Jīkzhös    | Golden Dragon    |
+| Vëkzhös    | Echo Dragon      |
+| Zhützhāt   | Azure Bird       |
 
 ### Festivals
 
@@ -459,16 +459,16 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Tānvüri        | Literal Meaning        |
 | -------------- | ---------------------- |
 | Thëng Zhāt Vōk | Rising Phoenix City    |
-| Röt Lōt Vōk    | Red Lotus Palace       |
+| Rīrn Lōt Vōk   | Red Lotus Palace       |
 | Bëit Zhīr Thāt | Silver Star Valley     |
 | Kōt Lëng Vōk   | Eternal Dawn Fortress  |
 | Vëng Thëi Nōk  | Wind Speech Garden     |
-| Jīklüng Thāt   | Golden Dragon Mountain |
-| Vān Lōt Vōk    | Thousand Flower City   |
+| Jīkzhös Thāt   | Golden Dragon Mountain |
+| Rūrk Lōt Vōk   | Thousand Flower City   |
 | Lëng Yüt Shüt  | Bright Moon Lake       |
 | Lëng Zhīr Vōk  | Radiant Sun Temple     |
 | Hōk Shüt Thāt  | Still Water Island     |
-| Tëng Yürt Vōk  | Sky Cloud Tower        |
+| Tëng Yīrt Vōk  | Sky Cloud Tower        |
 | Dōk Lëi Müt    | Spirit-Flow Forest     |
 | Vōr Zhāt Vōk   | Sacred Crane City      |
 | Hëk Hürt Thāt  | Hidden Tiger Gorge     |
@@ -477,7 +477,7 @@ Titles follow the name: _Tānlüng Zhükvōr_ = Tānlüng + "Supreme Sacred" (a 
 | Tëng Höt Vōk   | Sky Flame City         |
 | Müt Thëi Thāt  | Pine-Speech Valley     |
 | Jīk Lōt Vōk    | Golden Lotus Temple    |
-| Vān Zhīr Nōk   | Hundred Star Garden    |
+| Rūrk Zhīr Nōk  | Hundred Star Garden    |
 | Dāk Thāt Vōk   | Twin Peak City         |
 | Mōk Zhāt Vōk   | Emerald Phoenix City   |
 | Hëk Yüt Thāt   | Hidden Moon Mountain   |
@@ -532,7 +532,7 @@ In Tānvüri tradition, names are auspicious utterances invoking favorable quali
 
 Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes the given name, creating names of two to three compound elements. Given names are constructed from the Tānvüri vocabulary through compounding—a name like _Tëitjëk_ ("Iron Blade") or _Lënglōt_ ("Bright Lotus") is simultaneously a name and a meaningful phrase.
 
-**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dāk_ (great), _vüs_ (warrior), _lüng_ (dragon), _jīk_ (gold), _thëi_ (scholar), _rëk_ (thunder).
+**Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dāk_ (great), _vüs_ (warrior), _zhös_ (dragon), _jīk_ (gold), _thëi_ (scholar), _rëk_ (thunder).
 
 **Female given names** often reference beauty, nature, or grace: _lōt_ (lotus), _yüt_ (moon), _zhīr_ (star), _vëi_ (jade), _lëng_ (radiant), _mëi_ (dream).
 
@@ -540,9 +540,9 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 
 ### Example Names
 
-**Male:** Tānlüng (Celestial Dragon), Tëitjëk (Iron Blade), Vüsdāk (Great Warrior), Rëklëng (Thunder Dawn), Thëivōr (Sacred Scholar), Jīkzhür (Golden Boar), Hōkvëng (Calm Wind), Dākhürt (Great Tiger), Lëngzhīr (Radiant Star), Mütvōr (Sacred Wood)
+**Male:** Tānzhös (Celestial Dragon), Tëitjëk (Iron Blade), Vüsdāk (Great Warrior), Rëklëng (Thunder Dawn), Thëivōr (Sacred Scholar), Jīkzhür (Golden Boar), Hōkvëng (Calm Wind), Dākhürt (Great Tiger), Lëngzhīr (Radiant Star), Mütvōr (Sacred Wood)
 
-**Female:** Lënglōt (Bright Lotus), Yütvëi (Moon Jade), Mëizhīr (Dream Star), Vëilōt (Jade Flower), Zhütlëng (Azure Dawn), Bëityüt (Silver Moon), Hōklōt (Peaceful Lotus), Rötyürt (Vermilion Cloud), Shütvëi (Water Jade), Lëngmëi (Radiant Dream)
+**Female:** Lënglōt (Bright Lotus), Yütvëi (Moon Jade), Mëizhīr (Dream Star), Vëilōt (Jade Flower), Zhütlëng (Azure Dawn), Bëityüt (Silver Moon), Hōklōt (Peaceful Lotus), Rīrnyīrt (Red Cloud), Shütvëi (Water Jade), Lëngmëi (Radiant Dream)
 
 **Family Names:** Tān (celestial), Vëi (jade), Jīk (gold), Shüt (water), Höt (fire), Müt (wood), Lëi (spirit), Thāt (mountain), Zhīr (star), Dōk (path), Hōk (harmony), Kōt (ancient)
 
@@ -551,7 +551,7 @@ Names follow a **family-name-first pattern**. The family name (_zhāk_) precedes
 ## See Also
 
 - [[affiliation-tanvurempr|Empire of Tānvür]]—Overview of the empire and its culture
-- [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]—The Celestial Order (pantheon)
+- [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]—The Celestial Order (pantheon)
 - [[lore-phlsphylvr|Philosophy of Lëivōr]]—The philosophy of vital energy
 - [[lore-clndrstrlgy|Calendar and Astrology]]—Calendar, months, and spirit animals
 - [[lore-personlnms|Personal Names]]—Naming conventions and examples

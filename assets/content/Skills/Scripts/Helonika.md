@@ -30,7 +30,7 @@ It is a script, not a tongue. A character needs **both** the Helónika and the r
 
 ## Hands
 
-The book hand is upright, evenly spaced, and slow, and is what a copyist in a monastery or a chapterhouse of the [[affiliation-panepistmm|Panepistemium]] produces. Against it stands **cursive Byzarian**, the abbreviated commercial hand of the [[affiliation-byzarianlg|Byzarian League]]—rapid, ligature-choked, and, in the League's own phrase, incomprehensible to the untrained. A reader fluent in the book hand may be functionally illiterate in a Denizara factor's daybook.
+The book hand is upright, evenly spaced, and slow, and is what a copyist in a monastery or a chapterhouse of the [[affiliation-panepistmm|Panepistemium]] produces. Against it stands **cursive Byzarian**, the abbreviated commercial hand of the [[affiliation-byzarianlg|Byzarian League]]—rapid, ligature-choked, and, in the League's own phrase, incomprehensible to the untrained. A reader fluent in the book hand may be functionally illiterate in a Nêsthiros factor's daybook.
 
 ## Who has it
 

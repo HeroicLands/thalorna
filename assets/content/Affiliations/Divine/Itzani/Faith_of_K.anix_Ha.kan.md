@@ -39,25 +39,25 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
-      K'ul Ha'kan: >-
+      Ch'alix Ha'kan: >-
         Keeper of the Giver—head of the agricultural branch, and the priest who answers for the city's stores when a season fails.
-      Ixim'al: >-
+      Ul'omal: >-
         Maize priest—holds the seed-lines, the planting depths and the varieties suited to each soil, and blesses what is sown.
       Tz'ultzik: >-
         Cacao priest—keeps the groves, the fermentation and the trade in beans, which is both an offering and a currency.
@@ -70,7 +70,7 @@ data:
       Reckoner of the Harvest: >-
         Assesses the tithe each holding owes and hears the appeals of those who claim they cannot pay it.
       Speaker of the Sheaves: >-
-        Receives the K'inmah at the harvest festival, where the king processes as a supplicant and not as a sovereign.
+        Receives the Tz'enmah at the harvest festival, where the king processes as a supplicant and not as a sovereign.
   seat: null
   population: null
   economy: []
@@ -87,21 +87,21 @@ In the beginning, before even the Four Agelings were shaped, there was maize—t
 
 ## Worship
 
-The planting season is marked by the **Chuqtik** ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ixim'al turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
+The planting season is marked by the **Chuqtik** ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ul'omal turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
 
-The harvest festivals are the most lavish celebrations in the Ki'ichek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The K'inmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
+The harvest festivals are the most lavish celebrations in the Ki'ichek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The Tz'enmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
 
 Everyday devotion to K'anix Ha'kan is domestic and constant. The first tortilla of a meal is broken and a fragment set aside; a kernel dropped on the floor is picked up and touched to the forehead rather than swept away, since to tread on maize is to tread on the substance of one's own body. Bloodletting in his honor is light—a few drops on the seed at planting, on the first ear at harvest—and the god is understood to prefer the labor to the blood.
 
-His mourning rites are unlike any other branch's. A field that has failed is not simply abandoned; the Ixim'al comes, the crop is cut and burned, and the ground is spoken over. The theology holds that maize which does not ripen has still given its substance, and that the debt runs from the farmer to the plant as much as from the plant to the farmer.
+His mourning rites are unlike any other branch's. A field that has failed is not simply abandoned; the Ul'omal comes, the crop is cut and burned, and the ground is spoken over. The theology holds that maize which does not ripen has still given its substance, and that the debt runs from the farmer to the plant as much as from the plant to the farmer.
 
 ## Organization
 
-K'anix Ha'kan's specialist priests—the Tz'ultzik for cacao and the Ixim'al for maize—maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. The gardens are the branch's pride and its practical foundation: seed-lines are kept separate and labeled across generations, soil types are matched to varieties, and failures are recorded in bark-paper registers alongside successes. The **Keeper of the Temple Gardens** is usually a priest of long service and no political ambition, and the office is considered a fine one to hold and a poor one from which to rise.
+K'anix Ha'kan's specialist priests—the Tz'ultzik for cacao and the Ul'omal for maize—maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. The gardens are the branch's pride and its practical foundation: seed-lines are kept separate and labeled across generations, soil types are matched to varieties, and failures are recorded in bark-paper registers alongside successes. The **Keeper of the Temple Gardens** is usually a priest of long service and no political ambition, and the office is considered a fine one to hold and a poor one from which to rise.
 
-The branch's real power is the **Warden of the Common Stores**. The granaries that make the harvest festival possible are the same granaries that keep a city alive through a failed season, and their warden decides the ration. In a good year the office is invisible. In a bad one it is the most dangerous post in the priesthood, and more than one Warden has been surrendered to a hungry city by his own K'ul Ha'kan.
+The branch's real power is the **Warden of the Common Stores**. The granaries that make the harvest festival possible are the same granaries that keep a city alive through a failed season, and their warden decides the ration. In a good year the office is invisible. In a bad one it is the most dangerous post in the priesthood, and more than one Warden has been surrendered to a hungry city by his own Ch'alix Ha'kan.
 
-Recruitment is broad and unfussy, drawing from farming families as readily as from the temple's own households, and the branch is one of the few in which a Ch'ul'bal may be barely literate provided he can read a field. This earns it a certain condescension from the astronomers and the scribes, which the agricultural priests bear comfortably, on the grounds that nobody has ever starved for want of a conjunction.
+Recruitment is broad and unfussy, drawing from farming families as readily as from the temple's own households, and the branch is one of the few in which a Ch'alixbal may be barely literate provided he can read a field. This earns it a certain condescension from the astronomers and the scribes, which the agricultural priests bear comfortably, on the grounds that nobody has ever starved for want of a conjunction.
 
 Together with [[affiliation-xaqikhanal|Xaq'ik Ha'nal]], K'anix Ha'kan is invoked as one of the "Twin Givers," the divine pair ensuring both agricultural and biological fertility.
 
@@ -111,6 +111,6 @@ The Twin Givers are worshipped jointly at the great fertility observances, and t
 
 With the water-priests of [[affiliation-puqilchaqun|P'uqil Ch'aqun]] the branch is bound in a partnership it cannot escape: the seed is nothing without the rain. In ordinary years the two bless the Chuqtik together. In a drought the alliance strains, since one branch must announce the failure of the stores while the other is still insisting the god has not yet refused, and each would rather the other spoke first.
 
-Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch is deferential in ceremony and quietly independent in fact. The solar priests fix the day of the planting and the harvest; the agricultural priests decide what is planted, where, and by whom, and the solar branch has no means of checking them.
+Toward [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch is deferential in ceremony and quietly independent in fact. The solar priests fix the day of the planting and the harvest; the agricultural priests decide what is planted, where, and by whom, and the solar branch has no means of checking them.
 
 The road priests of [[affiliation-xilanixlan|Xilan Ix'lan]] move the branch's surplus, and the cacao trade in particular runs on their causeways and their protection; the Tz'ultzik and the road priests are frequently the same men's kin. With the builder-priests of [[affiliation-piqalkulqat|P'iqal Kul'qat]] the branch shares terraces, irrigation channels and reservoirs, and disputes over whether a given work is farming or architecture are settled, when they are settled, by which branch is paying.

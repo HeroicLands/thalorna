@@ -65,7 +65,7 @@ That law is the Compact: standing trade law, arbitration procedure and shared in
 
 Here is the paradox a new entrant has to learn to live with: the members compete fiercely in every market while dominating every market together. A [[place-suryagarha|Sūryagarha]] silver merchant undercuts a Rājapur silver merchant on every shipment they both bid for, then sits beside him on the standards committee and votes with him against any outside competitor. The discipline holds because the alternative, open competition with merchants outside the Collective, would impoverish them both.
 
-The Collective stands outside the [[affiliation-magnumclgm|Magnum Collegium]]. The Collegium has spent two generations trying to negotiate trade-recognition agreements and the Collective has declined every overture. The Haradian [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has been refused in the same way.
+The Collective stands outside the [[affiliation-magnumclgm|Magnum Collegium]]. The Collegium has spent two generations trying to negotiate trade-recognition agreements and the Collective has declined every overture. The Tarûzelian [[affiliation-vezakuni|Vezâkûnî]] has been refused in the same way.
 
 ## Membership and Structure
 

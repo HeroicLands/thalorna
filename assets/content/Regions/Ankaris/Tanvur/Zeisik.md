@@ -15,19 +15,19 @@ _Zëisīk_ ("self-death") is the ritual suicide of the warrior and noble castes.
 
 It can also be a protest. A Vüshōk or a noble may take his life to show his superiors his anger at an order or an injustice, in a form nobody can answer or reverse. A death of that kind is held to lay a great and permanent debit on the ledger of the person who provoked it, and his whole family inherits it: a Warlord whose injustice drives an officer to Zëisīk carries the entry for the rest of his life and into the next.
 
-**Preparation.** The person dresses in white, the color of unclassified things, for the return to the state before sorting. He writes his _Kōt Thōk_ (last record), which may hold remorse, defiance or reflection. It is a testament and a filing at once: it is burned after the rite, and the smoke carries his final account to the Ministry of Final Account ([[affiliation-tngvkvnlei|Sīkvōk]]).
+**Preparation.** The person dresses in white, the color of unclassified things, for the return to the state before sorting. He writes his _Kōt Thōk_ (last record), which may hold remorse, defiance or reflection. It is a testament and a filing at once: it is burned after the rite, and the smoke carries his final account to the Ministry of Final Account ([[affiliation-tngvkrrklei|Sīkvōk]]).
 
 **The blade.** He uses a ceremonial dagger, the _Vōrjëk_ (sacred blade), usually a family heirloom whose descent is entered in the clan's spiritual archive. A blade with a long lineage is held to bind the dying man more closely to his ancestors, and to win him a kinder first hearing at the Ministry.
 
 **The act.** He makes one exact cut across the abdomen. A death in the correct form is held to send the soul straight to the Ministry, ahead of the ordinary queue, and to show that his will imposed order even on his own dissolution.
 
-**The second.** A trusted comrade or superior, the _Güngvüs_ ("official's guard"), stands ready to give the swift stroke that ends the dying man's suffering. To be asked is an honor, and it is entered as a large credit on the second's own ledger.
+**The second.** A trusted comrade or superior, the _Gīrkvüs_ ("official's guard"), stands ready to give the swift stroke that ends the dying man's suffering. To be asked is an honor, and it is entered as a large credit on the second's own ledger.
 
 **Afterward.** The body is treated with the highest respect. The last record is burned, a new tablet is set on the ancestor shrine, and a funeral both mourns the dead and registers the new ancestor with the celestial administration. Whether it was atonement or protest, the death stays in the family's records and in the empire's histories.
 
 ## The Heavenly Law
 
-The code of the empire is the **Tëng Lüt** (Heavenly Law), held to be the mortal form of the order laid down in the [[affiliation-tngvkvnlei|Great Sorting]]. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Warlords and their magistrates apply it in the provinces.
+The code of the empire is the **Tëng Lüt** (Heavenly Law), held to be the mortal form of the order laid down in the [[affiliation-tngvkrrklei|Great Sorting]]. The Emperor is its final judge because he holds the [[lore-mandatehvn|Mandate of Heaven]], the appointment that makes him the classification's administrator on earth; his wisdom has nothing to do with it. In practice the Warlords and their magistrates apply it in the provinces.
 
 ## The Courts
 
@@ -37,11 +37,11 @@ The code of the empire is the **Tëng Lüt** (Heavenly Law), held to be the mort
 
 **The Tānthëi** (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
 
-**The magistrates** (_Güngthāt_). Appointed by the Warlords, they hear the cases of towns and villages, settle disputes and order punishments, according to the Tëng Lüt, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
+**The magistrates** (_Gīrkthāt_). Appointed by the Warlords, they hear the cases of towns and villages, settle disputes and order punishments, according to the Tëng Lüt, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
 
 **The clan elders** (_Zhākkōt_). Among the [[lore-nokvur|Nōkvür]], the elders of a clan settle disputes among its own members by clan custom. Their rulings mix the Tëng Lüt with the commands of the ancestors, received through the village [[lore-ancstrwrshp|Lëigürt]].
 
-When a shopkeeper in a river town finds his shutters forced in the morning, he goes first to the Vüsrën who walks his street, and most such matters end there, with a thief found and goods returned. If they do not, the Vüsrën takes the matter to the magistrate, and only a crime across caste lines, or one that touches the rites, climbs higher.
+When a shopkeeper in a river town finds his shutters forced in the morning, he goes first to the Vüsnürk who walks his street, and most such matters end there, with a thief found and goods returned. If they do not, the Vüsnürk takes the matter to the magistrate, and only a crime across caste lines, or one that touches the rites, climbs higher.
 
 ## The Five Bodies of Law
 
@@ -51,9 +51,9 @@ The Tëng Lüt is arranged by the kind of breach a crime commits, not by subject
 
 **The caste laws** keep each caste in its place. Claiming a higher caste's privileges, doing another caste's work or crossing a caste line without leave is a direct challenge to the cosmic order, and the penalties are harsh and rise with the breach. [[lore-castelaws|Caste Laws]] gives them in full.
 
-**The criminal laws** cover theft, murder, assault and corruption, which the law treats as the unauthorized taking, destruction or alteration of classified things. The penalty depends on the castes of the offender and the victim. A crime by a lower caste against a higher is a double breach, the act and the insult to the hierarchy, and a crime by or against the [[lore-zheklung|Zhëklüng]] is an offense against the empire's foundations.
+**The criminal laws** cover theft, murder, assault and corruption, which the law treats as the unauthorized taking, destruction or alteration of classified things. The penalty depends on the castes of the offender and the victim. A crime by a lower caste against a higher is a double breach, the act and the insult to the hierarchy, and a crime by or against the [[lore-zhekzhos|Zhëkzhös]] is an offense against the empire's foundations.
 
-**The commercial laws** bind the [[lore-shukren|Shükrën]]. Commerce moves goods between classifications, which the system allows only when it is documented. Fraud, usury and exploitation are punished by confiscation, prison or death, according to the size of the unrecorded transfer.
+**The commercial laws** bind the [[lore-shuknurk|Shüknürk]]. Commerce moves goods between classifications, which the system allows only when it is documented. Fraud, usury and exploitation are punished by confiscation, prison or death, according to the size of the unrecorded transfer.
 
 **The family and clan laws** govern [[lore-marriage|marriage]], inheritance and the duties of a household to its dead: its ledger, its shrine and its offerings. A dishonor brought on a clan makes debits that fall on the whole line.
 
@@ -63,7 +63,7 @@ A punishment in Tānvür puts the offender back in his proper place, or takes hi
 
 **The lash and the brand.** Flogging, caning and branding are common for lesser crimes, above all among the lower castes. They mark the body of a person who stepped outside his category. A brand is permanent, and the person who carries one is known for the rest of his life as someone whose sorting had to be corrected.
 
-**Fines and restitution.** Fines fall mostly on the Shükrën and the Nōkvür for minor offenses. Restitution pays the victim's household for the damage to its ledger, and an offender who cannot pay may be set to work off the debt, entered in a lower working category until the account is clear.
+**Fines and restitution.** Fines fall mostly on the Shüknürk and the Nōkvür for minor offenses. Restitution pays the victim's household for the damage to its ledger, and an offender who cannot pay may be set to work off the debt, entered in a lower working category until the account is clear.
 
 **Prison.** Imprisonment is rare and is meant to hold, not to reform: it suspends a person from the register while his case is decided. The prisons are harsh, and a long term is feared more than death, because a prisoner earns no credit on his ledger while the celestial administration goes on keeping its accounts, and he falls further behind every season.
 

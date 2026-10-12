@@ -20,7 +20,7 @@ The desert covers a city. [[place-ruinsarkor|The Ruins of Arkor]], which the tri
 
 ## Raids and Relics
 
-The **Servants of Sycânus**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-srdrzhsycnknghtblckflm|Sir Drazha Sycâni]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
+The **Servants of Vezhnûrikos**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-drzhvzhnr|Drazha Vezhnûr]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
 
 ## Danger
 
@@ -33,6 +33,6 @@ A Byzarian caravan master with two hundred camels waiting at the foot of the Mar
 ## See Also
 
 - [[place-ruinsarkor|Ruins of Arkor]]—the buried city in its sands
-- [[being-srdrzhsycnknghtblckflm|Sir Drazha Sycâni]]—the Blazewarden who raids it
+- [[being-drzhvzhnr|Drazha Vezhnûr]]—the Blazewarden who raids it
 - [[place-eastrnmrch|Eastern March]]—the march above its passes
 - [[place-roqid|Roqid]]—the Vylarian fort on the same margin

@@ -27,7 +27,7 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 **Vüshōk**, the officers. Khazári of proven courage or generalship are given [[lore-vushok|Vüshōk]] rank and usually hold the empire's mountain borders, where their stubbornness under attack is famous. Sinalëan archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
 
-**Zhëklüng**, rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified [[lore-zheklung|Zhëklüng]]. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
+**Zhëkzhös**, rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified [[lore-zhekzhos|Zhëkzhös]]. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
 
 **Never Vëndük.** No Elder is classified [[lore-venduk|Vëndük]], because Elder magic is part of their nature and does not work through the sorcerer's petition.
 
@@ -71,5 +71,5 @@ A few Sinalë and Khazári rise high in the empire as craftsmen, scholars or off
 - [[lore-longnhrtnc|The Long Inheritance]]—Elder knowledge passing into human hands
 - [[lore-flksinale|Sinalë]]—the people of the old forests
 - [[lore-flkkhazar|Khazári]]—the people of the cliff-cities
-- [[lore-thatlung|Thātlüng]]—the predators loosed on the Elder lands of the northwest
+- [[lore-thatzhos|Thātzhös]]—the predators loosed on the Elder lands of the northwest
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society

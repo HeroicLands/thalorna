@@ -32,7 +32,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -42,12 +42,12 @@ data:
         Keeper of the genealogies, the standing pacts and the memory-songs—a people who do not write keep their whole record in this office.
       Drum-Speaker: >-
         Carries word across the drum-network, and keeps the ceremonial drumming without which the rites do not begin.
-      Mwalimu wa Roho: >-
+      Kwendari Zohiring: >-
         "Teacher of the spirit"—the Spirit-Speaker who addresses the spirits for the clan and reports what they answer.
       Elder Shaman: >-
         Of the council whose judgment settles what the younger Spirit-Speakers dispute; the tradition's nearest thing to authority, and it is collective.
       Guardian of a Sacred Site: >-
-        Warden of one grove, crossing, cairn or Old Kraal, and of who may approach it. A different shaman holds each site; nobody holds two.
+        Warden of one grove, crossing, cairn or Old Heto, and of who may approach it. A different shaman holds each site; nobody holds two.
       Initiator: >-
         Conductor of the ordeal by which an aspirant becomes an initiate, and judge of who is ready to attempt it.
       Mask-Maker: >-
@@ -57,7 +57,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [nyalbsprts, mwangadty]
+  lore: [nyalbsprts, shorinyadty]
   parents: []
   relations: {}
   packFolder: nyaluba
@@ -75,7 +75,7 @@ and the Nyáluba would not use the word. There is no council of named deities wi
 portfolios, no ordered hierarchy of gods, and no priesthood serving a unified creed. It is a
 **shamanic tradition**, and it is built in three layers.
 
-Above everything is a single diffuse source: [[lore-mwangadty|Mwánga-Kúbwa]], the Great
+Above everything is a single diffuse source: [[lore-shorinyadty|Shorínya Ndáfo]], the Great
 Brightness, from which all spirits emerged and into which all will return. It receives nothing.
 No offering is made to it, no song is sung to it, and no shrine houses it. It is acknowledged,
 not venerated.
@@ -97,13 +97,13 @@ Its members do not hunt them, do not eat their flesh, and are held to the bearin
 embodies. The totem is not a god. It is a kinsman whose kinship crosses both species and the
 border between the living and the dead.
 
-| Clan    | Totem     | Country                      | Cult                                       |
-| ------- | --------- | ---------------------------- | ------------------------------------------ |
-| Mvuzi   | Lion      | central grasslands           | [[affiliation-nyalblion\|Lion Totem]]      |
-| Kambezi | Crocodile | eastern wetlands             | [[affiliation-nyalbcroc\|Crocodile Totem]] |
-| Ngonzi  | Eagle     | southeastern highlands       | [[affiliation-nyalbeagl\|Eagle Totem]]     |
-| Sengala | Leopard   | northern grass-and-tree belt | [[affiliation-nyalbleop\|Leopard Totem]]   |
-| Bombwe  | Baobab    | settled water-districts      | [[affiliation-nyalbbaob\|Baobab Totem]]    |
+| Clan      | Totem     | Country                      | Cult                                       |
+| --------- | --------- | ---------------------------- | ------------------------------------------ |
+| Ruwozi    | Lion      | central grasslands           | [[affiliation-nyalblion\|Lion Totem]]      |
+| Kolembozi | Crocodile | eastern wetlands             | [[affiliation-nyalbcroc\|Crocodile Totem]] |
+| Ngonzi    | Eagle     | southeastern highlands       | [[affiliation-nyalbeagl\|Eagle Totem]]     |
+| Sengala   | Leopard   | northern grass-and-tree belt | [[affiliation-nyalbleop\|Leopard Totem]]   |
+| Lobwezi   | Baobab    | settled water-districts      | [[affiliation-nyalbbaob\|Baobab Totem]]    |
 
 Totem law reaches far beyond religion. Marriage, diet, hunting rights, ritual obligation, the
 greeting of strangers, the salute of a chief, the bearing proper at a feast—all are shaped by
@@ -127,7 +127,7 @@ function is distributed across four roles, and individuals commonly hold more th
   [[skill-nyalbnlng|Nyáluban tongue]]. They call a clan to assembly, summon a distant shaman, and
   carry announcement across many miles; in religious life they keep the ceremonial drumming
   without which the rites do not begin.
-- **Spirit-Speakers** (_mwalimu wa roho_, "teachers of the spirit")—those taken through the
+- **Spirit-Speakers** (_kwendari zohiring_, "teachers of the spirit")—those taken through the
   ordeal and trained to perceive, address and negotiate with the guides on the clan's behalf.
   Each allied guide is met through its own discipline; the Lion is not addressed as the Crocodile
   is.
@@ -136,13 +136,13 @@ function is distributed across four roles, and individuals commonly hold more th
 There is no hierarch and no single voice. Where the tradition must decide something, a council of
 Spirit-Speakers and Elder Shamans decides it, the elders' word carrying the greater weight, and
 consensus is sought rather than imposed. Where the tradition must decide something that touches
-all five clans, it goes instead to the Great Indaba, which is a political body and not a
+all five clans, it goes instead to the Great Lubemo, which is a political body and not a
 religious one.
 
 ### Relationship to Other Faiths
 
 Northern contact with the Okháric worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
-overlaps in the vocabulary of shamanism—the Spirit Hunt, the _mwalimu wa roho_, the
+overlaps in the vocabulary of shamanism—the Spirit Hunt, the _kwendari zohiring_, the
 Ashmark-adjacent purification rites—but the foundations differ. Where the Okháric faith centers
 on a singular Eternal Flame whose aspects the city-states embody, the Nyáluba Way is plural,
 lineage-bound, and oriented to the specific territory of each clan.
@@ -161,7 +161,7 @@ coherent of the documented forms.
 ### See Also
 
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the guides, the seven kinds, the three postures, the pacts
-- [[lore-mwangadty|Mwánga-Kúbwa]]—the source, which is acknowledged and never venerated
+- [[lore-shorinyadty|Shorínya Ndáfo]]—the source, which is acknowledged and never venerated
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose faith this is
 - [[skill-nyalbnlng|Nyáluban]]—the language of its songs, drums and oral tradition
 - [[affiliation-nkaruthar|Nkaru'thar]]—the Okháric Eternal Flame, kin-tradition to its shamanic line

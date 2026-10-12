@@ -38,7 +38,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Land                          | Population  |
 | ----------------------------- | ----------- |
 | [[place-vylariargn\|Vylaría]] | ~24,000,000 |
-| Harad                         | ~12,000,000 |
+| Tarûzel                       | ~12,000,000 |
 | [[place-heladrgn\|Hellád]]    | ~11,000,000 |
 
 Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four core provinces (~21,000,000) and the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]] (~2,500,000); Hellád between [[place-byzariargn|Byzaría]] (~8,000,000) and the city-states of [[place-helionis|Heliónis]] (~3,000,000).
@@ -112,7 +112,7 @@ Vylaría divides between the [[affiliation-vylarinmpr|Vylarian Empire]]'s four c
 
 **The Aurèldían kingdoms are itemized, not estimated.** Provènzia, Élavendre, Tarvénia, Aelwyth and Calypsa each carry a worked figure on their own notes, and the bloc is their sum. It comes to about **11,000,000**—an order of magnitude below the Vylarian Empire's, which is why no Aurèldían crown can face Ôrzâra alone and why the Twelve, not a treaty, are what hold the west together.
 
-**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and Harad run higher, toward 12–15%, and the frontier and pastoral country of the Nordlands, Vrystwald and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
+**The thin urban crust.** Across the world the named towns and cities of a thousand people or more hold between 5% and 10% of a region's population; the mercantile coasts of Hellád and Tarûzel run higher, toward 12–15%, and the frontier and pastoral country of the Nordlands, Vrystwald and the deserts lower, toward 3–5%. A region whose named settlements sum to much more than that is missing people from its countryside, not holding an unusual number of them in towns.
 
 **Approximate by design.** Every figure here is round and approximate—good to roughly the nearest few million at the regional scale, not the nearest soul—and any may be revised as the setting develops.
 

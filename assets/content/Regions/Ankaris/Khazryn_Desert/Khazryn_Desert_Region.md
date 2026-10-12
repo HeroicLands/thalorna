@@ -105,7 +105,7 @@ The Storm of the Hundred Banners took the one road a host can take. It went roun
 
 The Khazryn is the one overland artery between the Aurèldían west and the Tānvüri east. Silk, fine porcelain, brick tea, lacquer, jade, spices and medicines go west on camels, and silver and gold by weight, amber, coral, glass and horses go east. Everything on the list is light and dear, because nothing heavier is worth the price of crossing and no cart can cross.
 
-The tribes do little long-distance trading of their own. They are the road, and their hold on its wells makes them richer and more powerful than their tents suggest. Byzarian and Haradi merchants dominate the western end of the trade and Tānvüri and Vedyari merchants the eastern; the middle belongs to whoever owns the water. [[lore-celestialroad|The Celestial Road]] gives the route, the costs, the waypoints and the reason merchants pay them.
+The tribes do little long-distance trading of their own. They are the road, and their hold on its wells makes them richer and more powerful than their tents suggest. Byzarian and Tarûzeli merchants dominate the western end of the trade and Tānvüri and Vedyari merchants the eastern; the middle belongs to whoever owns the water. [[lore-celestialroad|The Celestial Road]] gives the route, the costs, the waypoints and the reason merchants pay them.
 
 ## Neighbors
 
@@ -124,7 +124,7 @@ To the **northwest**, beyond Velanthia, lies [[place-vrystwald|Vrystwald]], near
 - [[lore-celestialroad|The Celestial Road]]—the caravan road to Tānvür
 - [[lore-ownedoasis|The Owned Oasis]]—a tribe's small spring, and the stranger who finds it
 - [[place-qisomrktcmp|Qìso]]—the market-camp at the road's heart
-- [[affiliation-ashanpnthn|Āsháian Pantheon]]—primary pantheon, shared with Dunhara and Harad
+- [[affiliation-ashanpnthn|Āsháian Pantheon]]—primary pantheon, shared with Dunhara and Tarûzel
 - [[skill-sowideslng|Sowides Language]]—the tongue of the tribes
 - [[doc-khazrynlex|Khazryn Lexicon]]—the words and names of the three tongues
 - Creatures of the Khazryn:

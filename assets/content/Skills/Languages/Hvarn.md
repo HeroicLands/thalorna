@@ -70,6 +70,6 @@ A person carries a given name and a hearth name, and the hearth name changes if 
 
 ### Name Lists
 
-**Given Names:** Hvrel, Tsune, Rhanvi, Delzh, Vurn, Shemli, Brdnu, Zhavel, Ourn, Klemsi, Rhevzhn, Tudra, Vnesh, Melrhu, Dzorin, Habvrn, Sulzhe, Trmen, Ovru, Rhistne
+**Given Names:** Hvrel, Tsevrel, Rhanvi, Delzh, Vurn, Shemli, Brdnu, Zhavel, Ourn, Klemsi, Rhevzhn, Tudzelv, Vnesh, Melrhu, Dzorin, Habvrn, Sulzhe, Trmen, Ovru, Rhistne
 
 **Hearth Names:** Nürvhrn, Tsedvrn, Rhonzhel, Klemvrd, Hvurnash, Dzelbrn, Vrestun, Shulnrh

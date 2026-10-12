@@ -11,19 +11,19 @@ The [[affiliation-tanvurempr|Empire of Tānvür]] has outlasted every dynasty th
 
 ## War on the Frontiers
 
-- [[being-bathurhurtzhuk|Bāthür Hürtzhük]]—the warlord who has united the tribes of the Hëkvōr, the Black Wilds, and whose riders are already raiding the northern provinces
+- [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]]—the warlord who has united the tribes of the Hëkvōr, the Black Wilds, and whose riders are already raiding the northern provinces
 - [[doc-extrnlthrts|External Threats]]—[[affiliation-jurthatempr|Jürthāt]], the archipelago the empire calls Thātvōng, and the western passes
 
 ## Enemies Within
 
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—an exiled general in open rebellion, with disaffected nobles and their Vëndük behind him
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—a fallen noble house that has staked its last chance on the Black Lotus Society
+- [[being-teitjekvngyrt|Tëitjëk Vëngyīrt]]—an exiled general in open rebellion, with disaffected nobles and their Vëndük behind him
+- [[affiliation-yirtthatzhk|Yīrtthāt Zhāk]]—a fallen noble house that has staked its last chance on the Black Lotus Society
 - [[doc-intrnlsbvrsvthrts|Internal Subversive Threats]]—the foreign sorcerers' guild, the Shadow Sect, the merchants' rising, the Cult of the Forsaken, the Black Lotus Society and the famine in the south
 
 ## Things Out of the Dark
 
 - [[lore-dreadspawncrtr|Dreadspawn]]—made creatures, each one unknown to the soldiers who meet it, appearing within the empire
-- [[lore-thatlung|Thātlüng]]—reptilian pack-hunters loosed by a great earthquake in the northwest
+- [[lore-thatzhos|Thātzhös]]—reptilian pack-hunters loosed by a great earthquake in the northwest
 
 ## See Also
 

@@ -11,7 +11,7 @@ data:
   occupation: Animal Trainer
   lore: []
   culture: byzarianclt
-  homes: [gumushisar2]
+  homes: [argyrteikhos2]
   affiliations: {byzarianlg: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
@@ -487,7 +487,7 @@ The Byzarian Merchants' Consortium
 
 ### Enemies
 
-Arslanikos the Cruel
+Kezvûnikos the Cruel
 : A brutal animal trader who views Zênais's ethical standards as threats to his profit margins; he has spread rumors that her methods are ineffective and that she is unreliable for serious work
 
 The Feathered Syndicate

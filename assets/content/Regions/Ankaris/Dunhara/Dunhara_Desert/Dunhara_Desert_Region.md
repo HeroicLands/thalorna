@@ -19,7 +19,7 @@ A guide leading his first foreigners into the open desert stops at the last well
 
 ## The Land
 
-Great sand seas cover most of the country, dunes up to fifty meters high that walk slowly north on the prevailing wind, broken by rocky mesas, lone volcanic plugs and the pale floors of dry lakes. The oases are the fixed points of everything. Some are lush and permanent, like the hollow of palms at [[place-dunashir|Dûn Ashir]] or the spring at the [[place-oasisteyrn|Oasis of Teyran]] that has never failed; others fill only in a wet season, or lie at the end of a wadi that floods once in ten years. Every route across the desert is a chain of them, and a guide's worth is the number of links he knows.
+Great sand seas cover most of the country, dunes up to fifty meters high that walk slowly north on the prevailing wind, broken by rocky mesas, lone volcanic plugs and the pale floors of dry lakes. The oases are the fixed points of everything. Some are lush and permanent, like the hollow of palms at [[place-ghavulekh|Ghavûlekh]] or the spring at the [[place-oasistvrzkh|Oasis of Tevrazekh]] that has never failed; others fill only in a wet season, or lie at the end of a wadi that floods once in ten years. Every route across the desert is a chain of them, and a guide's worth is the number of links he knows.
 
 The climate kills. A summer day can finish a man without water in hours, a winter night falls far below freezing, and a windstorm can bury a camp or strip the paint from a merchant's chests in minutes. The deep south sees almost no rain at all, and only the northern and western margins get enough winter rain to green the grazing for a month or two.
 
@@ -29,14 +29,14 @@ The desert's people are the Dunhari of the tribes, living by lineage, household 
 
 ## Power
 
-No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Dûn Ashir, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranâz]], and the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] travel with every camp of consequence. The balance has held for centuries.
+No one rules the open desert. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit, and they join against an outside threat and quarrel the rest of the time. Their common council meets at Ghavûlekh, their [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] at the [[place-stoneofranaz|Stone of Ranâz]], and the practitioners of the [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]] travel with every camp of consequence. The balance has held for centuries.
 
 ## Places
 
-- [[place-dunashir|Dûn Ashir]]—the oasis seat of the tribes, where caravans hire their guides
+- [[place-ghavulekh|Ghavûlekh]]—the oasis seat of the tribes, where caravans hire their guides
 - [[place-stoneofranaz|Stone of Ranâz]]—the hill-shrine where three tribal territories meet
-- [[place-oasisteyrn|Oasis of Teyran]]—a spring that has never failed
-- [[place-kharalsulr|Khar al-Sular]]—a hunters' camp near the Khazryn frontier
+- [[place-oasistvrzkh|Oasis of Tevrazekh]]—a spring that has never failed
+- [[place-kherzulekh|Kherzûlekh]]—a hunters' camp near the Khazryn frontier
 
 ## See Also
 

@@ -14,9 +14,9 @@ In Thessálon the harbormaster decides which ships sail. Thessálon is a harbor 
 
 ## The Harbormaster's Favor
 
-A seaman who judges a hull honestly is worth a great deal to a man in that office. [[being-akksplytms|Akákios Polytimós]], a common seaman of [[place-denizara2|Denizara]], has that reputation, and the harbormaster values his honest assessments of a vessel's condition enough to steer ship-repair contracts his way from time to time.
+A seaman who judges a hull honestly is worth a great deal to a man in that office. [[being-plnthshplytms|Plánthash Polytimós]], a common seaman of [[place-nesthiros2|Nêsthiros]], has that reputation, and the harbormaster values his honest assessments of a vessel's condition enough to steer ship-repair contracts his way from time to time.
 
 ## See Also
 
-- [[being-akksplytms|Akákios Polytimós]]—a seaman the harbormaster trusts
+- [[being-plnthshplytms|Plánthash Polytimós]]—a seaman the harbormaster trusts
 - [[place-byzariargn|Byzaría]]—the region the harbor serves

@@ -152,7 +152,7 @@ The kingdom is divided into five semi-autonomous regions, each with its own gove
 
 ## Character
 
-Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvénan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarvéni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtnhrdnstts|Harad]], and mercenary service is considered an honorable career rather than a mark of desperation.
+Tarvénia's culture prizes individual courage, personal honor, and independence above all else. The Tarvénan mercenary tradition is famous across [[place-ankrscntnnt|Ankaris Continent]]—Tarvéni swordsmen and crossbowmen serve in armies from [[affiliation-vylarinmpr|Vylaria]] to [[affiliation-cnfdrtntrzlnstts|Tarûzel]], and mercenary service is considered an honorable career rather than a mark of desperation.
 
 The Tarvénans are deeply skeptical of magic and of the [[affiliation-ordoarcanis|Ordo Arcanis]] in particular. The Ordo maintains a few chapters in the larger cities but operates cautiously; mages who throw their weight around in Tarvénia tend to end up with a knife between their ribs. Folk healers, hedge witches, and village wise-women are tolerated and even respected, but institutionalized arcane power is viewed as just another form of tyranny.
 

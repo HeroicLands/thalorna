@@ -9,7 +9,7 @@ data: {packFolder: celestialorder}
 
 A Lëigürt of the river villages, asked by a foreign traveler whether the Tānvüri pray to their grandparents, laughed and told him no: "We feed them, and they work for us. Your dead are resting. Ours have jobs." Ancestor worship in the [[affiliation-tanvurempr|Empire of Tānvür]] is the upkeep of a working relationship between a household and its dead, and it is the faith every Tānvüri practices, from the Emperor to the poorest farmer.
 
-The dead are not gone. They are posted. When a person dies, the [[affiliation-tngvkvnlei|Ministry of Final Account]] reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
+The dead are not gone. They are posted. When a person dies, the [[affiliation-tngvkrrklei|Ministry of Final Account]] reads his **moral ledger** and assigns him by its balance. A good balance makes him an **ancestor spirit**, a minor official of heaven whose post is to argue for his living descendants before the celestial bureaucracy. A bad one sends him to labor in the lower realms for a term, or to dissolution.
 
 An ancestor's posting is work, not rest. He files petitions for his descendants, intercedes with the officials of the bureaus and spends the credit on his own ledger to ease their way. A strong ancestor with a full ledger can turn rain toward the family's fields, lean on a magistrate's ruling or arrange good omens before a venture. A weak one, his ledger spent, can do nothing.
 
@@ -45,7 +45,7 @@ What unsettles visitors most is that **the dead give orders**. Through a Lëigü
 
 The **Lëigürt** (spirit masters) arise in the [[lore-nokvur|Nōkvür]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yātvōr healers of the [[lore-zathuk|Zāthük]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
-A Lëigürt is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zheklung|Zhëklüng]] consult Lëigürt on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
+A Lëigürt is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zhekzhos|Zhëkzhös]] consult Lëigürt on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
 ## The Elder Dead
 

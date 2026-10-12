@@ -11,7 +11,7 @@ A Tānthëi lecturer warns her first-year students off the word "hell" before sh
 
 ## What the Infernal Is
 
-In the [[lore-phlsphylvr|Lëivōr]] philosophy the [[affiliation-tngvkvnlei|Great Sorting]] pushed the Hürnlëi to the margins and never destroyed it. The Infernal Realms are those margins: the gaps between categories, the cracks in the classification, the places where sorted things blur back into chaos.
+In the [[lore-phlsphylvr|Lëivōr]] philosophy the [[affiliation-tngvkrrklei|Great Sorting]] pushed the Hürnlëi to the margins and never destroyed it. The Infernal Realms are those margins: the gaps between categories, the cracks in the classification, the places where sorted things blur back into chaos.
 
 They have no fixed place on any map. They lie wherever classification fails: in deep wilderness no surveyor has ever entered on a register, in the gaps between elemental domains where no bureau's jurisdiction is clear, in the dreams of the deranged where waking and sleeping run together. They do not oppose heaven the way the demons of a western sermon do. They are where heaven's administration does not reach.
 
@@ -23,7 +23,7 @@ The Tānvüri call the **Yökvëng** demons for want of a better word. They are 
 
 That is what makes them dangerous. A bureau's power reaches only as far as its jurisdiction, and a being outside every jurisdiction answers to none of them. No bureau has authority over it, no seal binds it and no petition compels it. A demon is not strong because it is wicked. It is strong because the administration has no procedure for it.
 
-At the top of the realm stand the five **Demon Lords**, each the embodiment of one way the order fails: [[affiliation-hurnzhuk|Hürnzhük]], the First Refusal, lord of the Unclassified; [[affiliation-nushot|Nüshöt]] the Unmaker; [[affiliation-vekthor|Vëkthōr]], the Forger of False Records; [[affiliation-zhaksok|Zhāksōk]], the Walking Contradiction; and [[affiliation-dokyok|Dōkyök]], the Guide Who Leads Astray. Beneath them are the [[affiliation-yvlesrdmns|lesser demons]], and among the fallen functionaries the strangest is [[affiliation-yokzhuk|Yökzhük]], the Custodian of Lost Seals, a scribe of heaven who fled with a hoard of counterfeit seals and now keeps the Infernal Archive.
+At the top of the realm stand the five **Demon Lords**, each the embodiment of one way the order fails: [[affiliation-hurnzhuk|Hürnzhük]], the First Refusal, lord of the Unclassified; [[affiliation-nushot|Nüshöt]] the Unmaker; [[affiliation-vekzat|Vëkzāt]], the Forger of False Records; [[affiliation-zhaksok|Zhāksōk]], the Walking Contradiction; and [[affiliation-dokyok|Dōkyök]], the Guide Who Leads Astray. Beneath them are the [[affiliation-yvlesrdmns|lesser demons]], and among the fallen functionaries the strangest is [[affiliation-yokzhuk|Yökzhük]], the Custodian of Lost Seals, a scribe of heaven who fled with a hoard of counterfeit seals and now keeps the Infernal Archive.
 
 The naming of these powers troubles the [[lore-tanthei|Tānthëi]]. To give an unclassified being a name and a title is to classify it a little. Some scholars hold that naming weakens it, others that a name is a label on something that refuses labels, and so a false comfort, and the argument has run for centuries without a ruling.
 
@@ -31,7 +31,7 @@ The naming of these powers troubles the [[lore-tanthei|Tānthëi]]. To give an u
 
 The Infernal Realms are one of the strongest arguments for the empire's rigid order. Only a perfectly kept classification can hold off the Unclassified, the argument runs; every breach of caste, every rite done badly, every failure of administration opens a small gap in the sorting, and the Hürnlëi seeps through. Seen this way, the empire's harshness is a quarantine on the cosmos.
 
-The Warlords of the [[lore-zheklung|Zhëklüng]] are the empire's first defense against an incursion, with their armies and the [[lore-venduk|Vëndük]] sorcerers behind them. The Tānthëi watch the records for signs that the classification is failing. The Vëndük turn their magic directly on the unclassified, trying to force-classify them: to bind them with seals, file them and so impose an order on beings that have none.
+The Warlords of the [[lore-zhekzhos|Zhëkzhös]] are the empire's first defense against an incursion, with their armies and the [[lore-venduk|Vëndük]] sorcerers behind them. The Tānthëi watch the records for signs that the classification is failing. The Vëndük turn their magic directly on the unclassified, trying to force-classify them: to bind them with seals, file them and so impose an order on beings that have none.
 
 Whether the threat is as near as the ruling castes say, or swollen to justify their power, is a question a few people ask, and only in private. The empire's growing troubles—plague, war on its borders, whispers that the [[lore-mandatehvn|Mandate of Heaven]] is failing—may mean the classification is truly fraying, or may be the ordinary friction of a vast administration straining under its own weight. A great deal turns on which, and the Tānthëi are divided.
 

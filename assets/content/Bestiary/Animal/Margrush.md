@@ -258,7 +258,7 @@ The margrush lies so low that its belly brushes the ground. Its legs are short a
 
 ## In the Land
 
-Margrushes live in the swamp country of southern and eastern Tz'uma No'tun, from the piedmont valleys where the first marshes appear down to the black-water expanses of **Ha' P'uqan** and the cypress and tupelo forests along the sluggish rivers. They want water to lie in, mud to bask on, and thick cover on dry ground to sleep in, and the swamps give them all three for hundreds of miles. Each margrush holds a stretch of channel and bank a few miles long, patrols it on a regular round, and fights any other margrush that comes into it. They do not go up into the hardwood hills of the north, and the salt marshes of the coast are too open for them. In the shared hunting grounds on the western border, toward [[place-hanalxilanrgn|Ha'nal Xi'lan]], they are met at the edge of every swamp.
+Margrushes live in the swamp country of southern and eastern Tz'uma No'tun, from the piedmont valleys where the first marshes appear down to the black-water expanses of **Ne' P'uqan** and the cypress and tupelo forests along the sluggish rivers. They want water to lie in, mud to bask on, and thick cover on dry ground to sleep in, and the swamps give them all three for hundreds of miles. Each margrush holds a stretch of channel and bank a few miles long, patrols it on a regular round, and fights any other margrush that comes into it. They do not go up into the hardwood hills of the north, and the salt marshes of the coast are too open for them. In the shared hunting grounds on the western border, toward [[place-hanalxilanrgn|Ha'nal Xi'lan]], they are met at the edge of every swamp.
 
 ## Key Behaviors
 

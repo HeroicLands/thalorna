@@ -47,7 +47,7 @@ You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ 
 
 ## The Ports
 
-[[place-qasirah|Qasirah]] and the smaller settlements at [[place-vashuran|Vashurán]], [[place-korinthel|Korinthel]] and [[place-telvari|Telvári]] are where the two worlds touch. Centuries of contact with Ankarian, Haradian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.
+[[place-ilovanu|Ilovanu]] and the smaller settlements at [[place-vashuran|Vashurán]], [[place-nalurithan|Nalurithan]] and [[place-telvari|Telvári]] are where the two worlds touch. Centuries of contact with Ankarian, Tarûzelian and Vedyaran merchants have left them genuinely cosmopolitan: mixed populations, mixed marriages, and well-kept Aurèldían temples serving foreign traders, long-settled immigrant families, and Kaliharans who have chosen the cosmopolitan zone over the interior.
 
 A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also not going to be admitted inland, and both he and the custodians know it, and it is not discussed.
 
@@ -61,7 +61,7 @@ He will not say he owes anything to a god, because there is none, and he will no
 
 - [[place-kaliharargn|Kalihara Region]]—the island's country, its interior and its coast
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and what it asks
-- [[place-qasirah|Qasirah]]—the great port and the world it faces
+- [[place-ilovanu|Ilovanu]]—the great port and the world it faces
 - [[skill-kalihrlng|Kalihari]]—the tongue of the interior and the ports
 
 ## Glossary {#glossary}

@@ -24,7 +24,7 @@ Where the Tānvür Region is a continental civilization of imperial bureaucracy 
 
 The archipelago takes its name—"Nine Mountains"—from the nine principal islands, each dominated by a volcanic peak that serves as both geographic center and cultural emblem. The great mountains rise straight out of the sea, their shoulders terraced for rice and their summits kept for shrines. Between them, coastal plains are narrow but intensively cultivated; interior valleys hold forests of cedar, pine, and sacred bamboo.
 
-The strait separating Jürthāt from the mainland is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tānvüri invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tngvkvnlei|Celestial Order]] stand at every significant headland.
+The strait separating Jürthāt from the mainland is the archipelago's single most important defensive feature. Notorious for sudden storms and shifting currents, it has repeatedly wrecked Tānvüri invasion fleets and has shaped the islanders' attitude toward the sea as something closer to reverence than mastery. Shrines to the storm-aspect of the [[affiliation-tngvkrrklei|Celestial Order]] stand at every significant headland.
 
 Beyond the Nine, scores of smaller islands and islets stretch out in braided chains toward the open ocean. Many of these lesser islands are uninhabited or only seasonally occupied by fishermen, smugglers, and hermit-priests. The volcanic activity that built the chain is still active: eruptions, hot springs, and periodic earthquakes are part of ordinary Jürthāti life and are interpreted theologically as heaven's continuing attention to its favored land.
 
@@ -42,13 +42,13 @@ The Jürthāti practice **Rëitsīk**, a form of ritual suicide distinct from T�
 
 ## Religion
 
-The islands' faith is a divergent form of the [[affiliation-tngvkvnlei|Celestial Order]]. The broad pantheon—Celestial Dragon, Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domainal lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the [[lore-mandatehvn|Mandate of Heaven]]—which in Tānvür is held singularly by the Emperor—has fractured into competing local claims.
+The islands' faith is a divergent form of the [[affiliation-tngvkrrklei|Celestial Order]]. The broad pantheon—Celestial Dragon, Jade Sovereign, Minister of Storms, Minister of the Moon, the [[lore-fvlmntlrds|Five Elemental Lords]]—is recognizable, but interpretation has fragmented along regional and domainal lines. Coastal provinces elevate the storm and sea aspects; mountain provinces emphasize earth and metal; island shrines host cults specific to their locality. Each Great Lord claims some portion of heavenly favor for his own line, and the [[lore-mandatehvn|Mandate of Heaven]]—which in Tānvür is held singularly by the Emperor—has fractured into competing local claims.
 
 The ceremonial emperor on Jürthāt serves this fragmented theology well: his role is to hold the symbolic center while the Great Lords pursue their regional pieties.
 
 ## Politics and Power
 
-Real authority lies with a handful of **Dākzhük**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shëitzhük**, lesser lords who pledge personal allegiance in exchange for land. The **Vānlëng Tëngzhëi** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
+Real authority lies with a handful of **Dākzhük**—Great Lords—who rule their provinces as effectively independent fiefdoms, each with its own army, justice, taxes, and foreign policy. Below them sit the **Shëitzhük**, lesser lords who pledge personal allegiance in exchange for land. The **Rūrklëng Tëngzhëi** ("Son of Heaven of Ten Thousand Dawns") sits at the ceremonial apex, distributing honor but commanding nothing.
 
 The current balance rests on three or four roughly equal Dākzhük, none willing to risk open war against a coalition of the others. Every generation or so this balance collapses into open civil war before a new equilibrium emerges. See [[affiliation-jurthatempr|Jürthāt]] for the detailed political structure.
 
@@ -72,6 +72,6 @@ To the **north**, the archipelago's outer islands trail off into frozen seas the
 
 - [[affiliation-jurthatempr|Jürthāt]]—the empire of Jürthāt, its politics, and its culture
 - [[affiliation-tanvurempr|Empire of Tānvür]]—the mainland empire from which the archipelago broke away
-- [[affiliation-tngvkvnlei|Celestial Order]]—the shared pantheon, divergently interpreted
+- [[affiliation-tngvkrrklei|Celestial Order]]—the shared pantheon, divergently interpreted
 - [[place-tanvuregin|Tānvür Region]]—the Tānvüri mainland region
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

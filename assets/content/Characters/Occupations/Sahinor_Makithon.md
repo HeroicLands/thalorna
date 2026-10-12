@@ -1,6 +1,6 @@
 ---
 shortcode: sahnrmkthn
-name: {full: Sahînór Mâkîthôn, aliases: [Sir Alaric Emberhill]}
+name: {full: Sahînór Mâkîthôn, aliases: []}
 type: being
 subType: npc
 tags: [draft, administration]
@@ -401,7 +401,7 @@ Sahînór Mâkîthôn is a 50-year-old man who stands 5'10" tall and is of moder
 
 Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Sahînór Mâkîthôn came into the world of the herald through a combination of circumstance and aptitude.
 
-Sir Alaric Emberhill is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. Alaric is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. Alaric’s experience makes him a trusted figure among the nobility, though he is not without his detractors.
+Sahînór is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
 
 Now at 50 years of age, Sahînór Mâkîthôn has established himself as a known figure among the heralds of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 

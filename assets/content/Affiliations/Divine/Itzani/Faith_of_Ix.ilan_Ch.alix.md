@@ -39,21 +39,21 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
       Ix'tq'an: >-
         Star-Voice—senior priest of the observatory, who must hold genuine mastery of mathematics and astronomy and is examined on it, not appointed to it.
@@ -97,21 +97,21 @@ The **Reckoner of Conjunctions** issues the auspicious and forbidden days to eve
 
 ## Organization
 
-Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal tz'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ix'tq'an (Star-Voice), must possess genuine expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ix'ilan Ch'alix's temples somewhat more open than other branches, and it is not unusual for a Ch'ul'bal astronomer to rise to high rank despite relatively humble birth.
+Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal tz'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ix'tq'an (Star-Voice), must possess genuine expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ix'ilan Ch'alix's temples somewhat more open than other branches, and it is not unusual for a Ch'alixbal astronomer to rise to high rank despite relatively humble birth.
 
 Advancement is by examination, conducted in the open before the assembled priests of the observatory: a candidate is given a set of recorded observations and asked to derive from them a prediction that will be checked against the sky. A failed prediction is recorded alongside the candidate's name and is not expunged. The branch is thoroughly aware that this makes it unlike every other institution in Ki'ichek society, and it guards the practice fiercely, on the grounds that a hierarchy of birth would within two generations be unable to compute an eclipse.
 
 The most sacred codices are kept in ix'ilan ch'umbal (star-houses), consulted only by authorized priests. The **Keeper of the Star-Houses** holds the authorization list and is, in consequence, one of the most petitioned officials in the city; access to the archive is the branch's chief currency in its dealings with the others, and it is spent deliberately.
 
-Unique among the Itzáni gods, Ix'ilan Ch'alix is sometimes understood to know the future—to possess the knowledge of when the Fifth Age will end. This belief invests her priesthood with a mysterious authority that sometimes challenges even the supreme power of the K'ul Tq'an.
+Unique among the Itzáni gods, Ix'ilan Ch'alix is sometimes understood to know the future—to possess the knowledge of when the Fifth Age will end. This belief invests her priesthood with a mysterious authority that sometimes challenges even the supreme power of the Ch'alix Tq'an.
 
 ### Beyond the Temple
 
-Because the branch trains the only people on the continent who can reliably compute, its members are found far outside the observatories. Temple treasuries, royal surveys, the laying-out of the white roads and the assessment of tribute all pass through astronomer-scribes seconded from Ix'ilan Ch'alix's service, and they remain the goddess's priests while doing it. City-states compete to retain them; a K'inmah who mistreats a seconded astronomer finds his successor slow to arrive.
+Because the branch trains the only people on the continent who can reliably compute, its members are found far outside the observatories. Temple treasuries, royal surveys, the laying-out of the white roads and the assessment of tribute all pass through astronomer-scribes seconded from Ix'ilan Ch'alix's service, and they remain the goddess's priests while doing it. City-states compete to retain them; a Tz'enmah who mistreats a seconded astronomer finds his successor slow to arrive.
 
 ## Relations
 
-With [[affiliation-kinultqan|K'in'ul Tq'an]] the branch is indispensable and resented in equal measure. The solstice hours and the fifty-two-year realignment come from the observatories, yet the solar priesthood claims to guard the knowledge of the age's ending which the goddess is held actually to possess. Predictions have been ordered suppressed, and the astronomers have made sure it was known they were overruled.
+With [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch is indispensable and resented in equal measure. The solstice hours and the fifty-two-year realignment come from the observatories, yet the solar priesthood claims to guard the knowledge of the age's ending which the goddess is held actually to possess. Predictions have been ordered suppressed, and the astronomers have made sure it was known they were overruled.
 
 The serpent-keepers of [[affiliation-puqilchaqun|P'uqil Ch'aqun]] take the branch's calculation of the final configuration and seal it in chambers the astronomers may not enter. The astronomers regard this as the safekeeping of arithmetic by people who cannot check it; the serpent-keepers regard publication as the surest way to bring on the panic they exist to prevent. Neither position has moved in living memory.
 

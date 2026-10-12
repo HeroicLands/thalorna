@@ -16,7 +16,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Ki'ichek (independent isolate)}}
 
-# terran_analog: the titles K'anulmah, Kulmah, K'inbal, P'ilambal, Xok'almah, Ch'umtz'aq and P'ik'ulmah stand for the Maya ajaw, sajal, ah k'in, aj tz'ib, nacom, ah kulel and ppolom; the K'ayik Kul'al is the Mesoamerican New Fire ceremony
+# terran_analog: the titles K'anulmah, Kulmah, Tz'enbal, P'ilambal, Xok'almah, Ch'umtz'om and P'ik'ulmah stand for the Maya ajaw, sajal, ah k'in, aj tz'ib, nacom, ah kulel and ppolom; the K'ayik Kul'al is the Mesoamerican New Fire ceremony
 ---
 
 Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -112,7 +112,7 @@ Adjectives follow nouns; adverbs precede verbs. This allows the listener to grou
 
 ## Script and Literacy
 
-Ki'ichek writing—[[skill-chlxtsbscrpt|Ch'alix Ts'ib]], "the writing of Ch'alix", after the goddess who composed the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
+Ki'ichek writing—[[skill-chlxplmscrpt|Ch'alix P'ilam]], "the glyphs of Ch'alix", after the goddess who composed the first codex—combines **logographic and phonetic elements**. Each glyph can represent either a whole word-concept or a syllabic sound, depending on context. The script is written in columns read from top to bottom, left to right.
 
 Key script features:
 
@@ -121,7 +121,7 @@ Key script features:
 - **Diacritical marks**: Dots, lines, and flourishes modify meaning
 - **Ceremonial variants**: More elaborate, ornate forms used in sacred contexts
 
-Alongside the glyphs runs a second system entirely: the [[skill-tzblcrdscrpt|Tz'ib'al]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
+Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otzel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
 Literacy is restricted among the K'ich'chik; scribes and priests hold tremendous social power. Common folk recognize a few dozen glyphs related to daily life (numbers, calendar markers, titles) but cannot read continuous text.
 
@@ -135,7 +135,7 @@ The language preserves archaic elements in formal speech and sacred texts—olde
 
 Geographically vast and politically fragmented, K'ich'chik city-states maintain distinct dialects:
 
-- **Northern dialect**: Spoken in Tz'uma No'tun and Ha' Xaman; emphasizes sharp consonant articulation
+- **Northern dialect**: Spoken in Tz'uma No'tun and P'enqal Ch'akal; emphasizes sharp consonant articulation
 - **Central dialect**: The prestige form, centered on Xik'ul Ch'akal; balances clarity with flowing speech
 - **Southern dialect**: Softer glottal stops, longer vowel sounds, influenced by older ceremonial forms
 
@@ -143,7 +143,7 @@ Inter-city trade and shared religious rites limit dialect divergence, but a K'ic
 
 ## Sample Phrases
 
-- _Ch'alix ix'balam tz'ik k'inix_—"Sacred jaguar rises above the sun" (blessing or salutation)
+- _Ch'alix ix'bal tz'ik k'inix_—"Sacred jaguar rises above the sun" (blessing or salutation)
 - _Ka-tz'aqun-in kul'qat-um_—"We climb to the sacred peak" (call to pilgrimage)
 - _Ha'nal tz'uma ka-tz'aqun-um_—"The misty river flows" (poetic observation)
 - _Na-nal'un-ix xak'nal xiq'il-ka_—"I ate the eagle feather" (ritual/mystical statement)
@@ -163,44 +163,44 @@ K'ich'chik names are **compound forms without gender distinction**—a person's 
 
 ### Components
 
-1. **Primary element**: A descriptor, animal, natural force, or deity name (e.g., K'uxi, Tzul, Witz, Ba'alam)
-2. **Secondary element**: Modifies or completes the meaning (e.g., Ki'ik, Tz'alam, Ha')
-3. **Tertiary element** (optional): For high-ranking individuals or complex biographical claims (e.g., Ch'akul Witz Ba'alam Tzul)
+1. **Primary element**: A descriptor, animal, natural force, or deity name (e.g., K'uxi, Tzul, Tz'ultel, Ix'bal)
+2. **Secondary element**: Modifies or completes the meaning (e.g., Ne'ok, Tz'alam, Ne')
+3. **Tertiary element** (optional): For high-ranking individuals or complex biographical claims (e.g., Ch'akul Tz'ultel Ix'bal Tzul)
 
 Names with three or more elements signal importance: nobility, priesthood, or exceptional deeds. Commoners typically carry two-element names.
 
 ### Philosophical Naming
 
-Names encode philosophy. A child born during floods might be named _Ha' Ixkul_ ("water within the lake") to mark the auspicious conjunction. A warrior who survived wounds might be renamed _Tzul Ki'ik_ ("strength flows") to commemorate resilience.
+Names encode philosophy. A child born during floods might be named _Ne' Ixkul_ ("water within the lake") to mark the auspicious conjunction. A warrior who survived wounds might be renamed _Tzul Ne'ok_ ("strength flows") to commemorate resilience.
 
 ### Titles and Honorifics
 
 Titles are appended to names, not fused:
 
-- _K'uk'almah_—"Overlord" (ruler of a city-state)
+- _Q'emulmah_—"Overlord" (ruler of a city-state)
 - _Ha'nalmah_—"Landholder" (chief of a district)
-- _Tz'aqalil_—"One Who Belongs" (full citizen)
+- _Tz'omalil_—"One Who Belongs" (full citizen)
 
 ### House Names
 
 A name of three or more elements is too long for the household, and the K'ich'chik shorten it by taking its _first element whole_. The first element is the first name-word of the compound, spoken exactly as it stands in the full name, glottal stops included: it is never clipped to a syllable, never given an ending, and never replaced by a pet name, because each element is already a word with its own meaning. That short form is the _house name_.
 
-- _Ch'akul Witz Ba'alam Tzul_ is _Ch'akul_ at home.
-- _Ix'balam Tz'aqalil K'inix_ is _Ix'balam_. A connector such as _Tz'aqalil_ is never the house name, even where it stands second.
+- _Ch'akul Tz'ultel Ix'bal Tzul_ is _Ch'akul_ at home.
+- _Ix'bal Tz'omalil K'inix_ is _Ix'bal_. A connector such as _Tz'omalil_ is never the house name, even where it stands second.
 - _Xak'nal Mah'alil Xilan_ is _Xak'nal_. _Mah'alil_ is a rank word, and no title or rank word is ever the house name.
-- _Ha' Ixkul_ and _Tzul Ki'ik_ have no house name. A two-element name is short already and is spoken whole by everyone.
+- _Ne' Ixkul_ and _Tzul Ne'ok_ have no house name. A two-element name is short already and is spoken whole by everyone.
 
-The house name follows rank. Kin, the household and people of equal standing use it, and so does anyone of higher standing speaking to someone below. Someone of lower standing never does: a farmer addresses a lord by the full name, a priest of lesser grade addresses a hierarch by the full name, and a title is always appended to the full name and never to the house name. The full name is also the only name in the record. The Tz'ib'al census cords and the Ch'alix Ts'ib glyphs carry the full compound, and a house name is never knotted or written.
+The house name follows rank. Kin, the household and people of equal standing use it, and so does anyone of higher standing speaking to someone below. Someone of lower standing never does: a farmer addresses a lord by the full name, a priest of lesser grade addresses a hierarch by the full name, and a title is always appended to the full name and never to the house name. The full name is also the only name in the record. The K'otzel census cords and the Ch'alix P'ilam glyphs carry the full compound, and a house name is never knotted or written.
 
 ## Name Lists
 
 ### Male Names
 
-Ch'akul Witz Ba'alam Xaman K'uxi Ki'ik Ha' Tz'alam Ix Tz'ikin Noj Witzal Tz'ikin Tz'alam K'awiil K'ul Ha' Ixkul Tzul K'awiil K'ixim Ha' K'uk'al Ix Witz Ba'alam Tz'ikin Ha' Tzul Ki'ik Ha' K'ankul K'uxi Nohol Tz'alam Ixkul Noj K'ul Ha' Ix Nohol Ba'alam Witz Tz'alam K'ankul Tz'ikin Nohol K'uk'al Witz Ch'akul Ha' Ix Ba'alam K'awiil Witz Noj Ix K'uk'al Ha' Ha' Ix K'ul Tzul Ba'alam Ha' K'ul Ix K'awiil Tz'alam K'ixim Witz Ba'alam Tzul K'uk'al K'ul Ix K'ul Nohol Witz Tz'alam Tz'alam Ki'ik K'uxi Ixkul Noj Tzul Ch'akul Ix Tz'ikin K'ankul K'uxi Ha' Ha' Witz Ix Nohol K'awiil Ha' Tz'alam Xaman K'uk'al Tzul Witz Ix Tz'alam Witz K'uxi Ki'ik Tzul Ixkul Ha' Ba'alam Ha' Tz'alam Ch'akul K'awiil Ixkul Ha' Tz'ikin Ix K'awiil Noj Ha' K'uk'al Ba'alam Ix Ha' Xaman Tzul Ixkul Tz'alam K'awiil Witz Ix Tz'ikin K'awiil Xaman Tz'ikin Ch'akul Ba'alam Ix K'ankul Ki'ik Noj K'awiil Ch'akul Ba'alam Tzul Ha' Tz'ikin Ix Ixkul Witz Tzul K'ul Ha' Ixkul Tzul Ba'alam K'ankul K'uxi Tz'ikin Witz Tzul Ix Nohol Tzul Ha' Ki'ik Ix K'ankul Witz Tz'ikin Witz K'uk'al Tz'alam Ix K'ul Witz K'ankul Ixkul Ch'akul Tz'alam Tzul Ix Witz Ha' Ki'ik Witz Ix Nohol Ha' Tzul Xaman Ha' K'uxi Witz Ixkul Tzul K'ankul Ha' Ch'akul Ixkul Tz'alam Ix Tz'ikin Tzul Ba'alam Xaman Ha' Witz Ixkul Tzul Ha' K'ul Tzul K'uxi Witz Tz'alam Tz'alam Tzul Xaman K'uxi Ki'ik Ix Witz Ba'alam Tzul Ha' Tzul Ixkul Ix Ba'alam Witz K'uxi Ix Tz'ikin Tz'alam Ki'ik Ba'alam Ixkul Tzul K'awiil Noj Ba'alam Tzul Witz K'awiil Ixkul Ha' K'uxi Tz'alam Tz'ikin K'uxi Ix Ixkul K'ul Tzul Tz'alam Witz Xaman Tzul Tz'ikin Ix K'ankul Ki'ik Ha' Tzul Ba'alam K'ul Witz Ki'ik Nohol Tzul Ixkul Ba'alam Ha' K'ankul Ix Ixkul Tz'alam Witz Ch'akul Ixkul Tzul Ba'alam Tz'ikin K'ul K'uxi Tzul Xaman Tzul Ix Witz Tz'alam Ki'ik Ba'alam Ixkul Ha' Tz'alam Witz K'ul Tz'ikin Xaman Ki'ik K'ankul Witz Tz'alam Ba'alam Ix Tz'ikin Witz Ha' Tzul Ki'ik Nohol Tz'alam Witz K'ul Ix Ki'ik Ba'alam Tzul Witz Tzul K'ul Ba'alam Ixkul K'uxi Ha' Tzul Witz Tzul Witz Ixkul K'ul Tz'ikin Ix K'ankul Tzul K'ankul Ix Witz Xaman Ch'akul Tzul Ixkul Ki'ik Ha' Tzul Witz Ixkul K'ul Tz'ikin Xaman Ba'alam K'ul Ba'alam Tz'alam Ixkul Witz Tzul Ki'ik K'ankul Tz'alam K'uxi Ix Witz K'ul Tzul Witz Tz'alam Xaman K'ankul Ha' Ixkul Tzul K'awiil Witz Tz'alam Tz'ikin K'ul Ixkul Tzul K'uxi Ki'ik Ba'alam Witz K'ankul Ixkul Tzul Ha' Ki'ik Tz'ikin Tz'alam K'uxi Ixkul Witz
+Ch'akul Tz'ultel Ix'bal P'enqal K'uxi Ne'ok Ne' Tz'alam Ix Xelem Nelux Puq'em Xelem Tz'alam Q'aptel Ch'alix Ne' Ixkul Tzul Q'aptel Ixtem Ne' Q'emul Ix Tz'ultel Ix'bal Xelem Ne' Tzul Ne'ok Ne' K'ankul K'uxi Toxel Tz'alam Ixkul Nelux Ch'alix Ne' Ix Toxel Ix'bal Tz'ultel Tz'alam K'ankul Xelem Toxel Q'emul Tz'ultel Ch'akul Ne' Ix Ix'bal Q'aptel Tz'ultel Nelux Ix Q'emul Ne' Ne' Ix Ch'alix Tzul Ix'bal Ne' Ch'alix Ix Q'aptel Tz'alam Ixtem Tz'ultel Ix'bal Tzul Q'emul Ch'alix Ix Ch'alix Toxel Tz'ultel Tz'alam Tz'alam Ne'ok K'uxi Ixkul Nelux Tzul Ch'akul Ix Xelem K'ankul K'uxi Ne' Ne' Tz'ultel Ix Toxel Q'aptel Ne' Tz'alam P'enqal Q'emul Tzul Tz'ultel Ix Tz'alam Tz'ultel K'uxi Ne'ok Tzul Ixkul Ne' Ix'bal Ne' Tz'alam Ch'akul Q'aptel Ixkul Ne' Xelem Ix Q'aptel Nelux Ne' Q'emul Ix'bal Ix P'enqal Ch'akal Tzul Ixkul Tz'alam Q'aptel Tz'ultel Ix Xelem Q'aptel P'enqal Xelem Ch'akul Ix'bal Ix K'ankul Ne'ok Nelux Q'aptel Ch'akul Ix'bal Tzul Ne' Xelem Ix Ixkul Tz'ultel Tzul Ch'alix Ne' Ixkul Tzul Ix'bal K'ankul K'uxi Xelem Tz'ultel Tzul Ix Toxel Tzul Ne' Ne'ok Ix K'ankul Tz'ultel Xelem Tz'ultel Q'emul Tz'alam Ix Ch'alix Tz'ultel K'ankul Ixkul Ch'akul Tz'alam Tzul Ix Tz'ultel Ne' Ne'ok Tz'ultel Ix Toxel Ne' Tzul P'enqal Ne' K'uxi Tz'ultel Ixkul Tzul K'ankul Ne' Ch'akul Ixkul Tz'alam Ix Xelem Tzul Ix'bal P'enqal Ne' Tz'ultel Ixkul Tzul Ne' Ch'alix Tzul K'uxi Tz'ultel Tz'alam Tz'alam Tzul P'enqal K'uxi Ne'ok Ix Tz'ultel Ix'bal Tzul Ne' Tzul Ixkul Ix Ix'bal Tz'ultel K'uxi Ix Xelem Tz'alam Ne'ok Ix'bal Ixkul Tzul Q'aptel Nelux Ix'bal Tzul Tz'ultel Q'aptel Ixkul Ne' K'uxi Tz'alam Xelem K'uxi Ix Ixkul Ch'alix Tzul Tz'alam Tz'ultel P'enqal Tzul Xelem Ix K'ankul Ne'ok Ne' Tzul Ix'bal Ch'alix Tz'ultel Ne'ok Toxel Tzul Ixkul Ix'bal Ne' K'ankul Ix Ixkul Tz'alam Tz'ultel Ch'akul Ixkul Tzul Ix'bal Xelem Ch'alix K'uxi Tzul P'enqal Tzul Ix Tz'ultel Tz'alam Ne'ok Ix'bal Ixkul Ne' Tz'alam Tz'ultel Ch'alix Xelem P'enqal Ne'ok K'ankul Tz'ultel Tz'alam Ix'bal Ix Xelem Tz'ultel Ne' Tzul Ne'ok Toxel Tz'alam Tz'ultel Ch'alix Ix Ne'ok Ix'bal Tzul Tz'ultel Tzul Ch'alix Ix'bal Ixkul K'uxi Ne' Tzul Tz'ultel Tzul Tz'ultel Ixkul Ch'alix Xelem Ix K'ankul Tzul K'ankul Ix Tz'ultel P'enqal Ch'akul Tzul Ixkul Ne'ok Ne' Tzul Tz'ultel Ixkul Ch'alix Xelem P'enqal Ix'bal Ch'alix Ix'bal Tz'alam Ixkul Tz'ultel Tzul Ne'ok K'ankul Tz'alam K'uxi Ix Tz'ultel Ch'alix Tzul Tz'ultel Tz'alam P'enqal K'ankul Ne' Ixkul Tzul Q'aptel Tz'ultel Tz'alam Xelem Ch'alix Ixkul Tzul K'uxi Ne'ok Ix'bal Tz'ultel K'ankul Ixkul Tzul Ne' Ne'ok Xelem Tz'alam K'uxi Ixkul Tz'ultel
 
 ## External References
 
-- K'ich'chik Language Lexicon and Naming Guide (detailed phonology, grammar, numerology)
+- [[doc-kicheklexcn|Ki'ichek Lexicon]] (every word, the endings that build new ones, and the register of names)
 - Historical records of K'ich'chik city-states
 - Astronomical texts encoding calendar mathematics in Ki'ichek
 
@@ -241,10 +241,10 @@ working vocabulary.
     - A formal name of three or more elements is shortened for informal use to its first element, whole, as set out under House Names above; a two-element name is not shortened.
 
 4.  **Titles**:
-    - Titles are appended to names to denote rank or role, e.g., _K’uk’almah_ (Overlord), _Ha’nalmah_ (Landholder).
+    - Titles are appended to names to denote rank or role, e.g., _Q’emulmah_ (Overlord), _Ha’nalmah_ (Landholder).
 
 5.  **Connector Words**:
-    - **Member of Tribe**: _Tz’aqalil_ (“One Who Belongs”).
+    - **Member of Tribe**: _Tz’omalil_ (“One Who Belongs”).
     - **Leader of Tribe**: _Mah’alil_ (“Lord of the Tribe”).
     - **Tq'an**
       - **Meaning**: _Edge, boundary, or connection_
@@ -260,7 +260,7 @@ working vocabulary.
     - **Xaq'al**
       - **Usage**: Indicates disconnection, separation, or being apart from something.
       - **Examples**:
-        - _Xaq'al ch'ulba_ ("Separate from the sacred grove")
+        - _Xaq'al xik'tel_ ("Separate from the sacred grove")
         - _Xaq'al k'inix_ ("Disconnected from the sunlight")
 
 ## Reference Grammar
@@ -311,7 +311,7 @@ Ki’ichek nouns have six cases:
     - Example: _Ix’ik-il tz’uma_ (“The lagoon’s mist”)
 
 4.  **Dative**: Indirect object (-_an_)
-    - Example: _Ka-ch’upal ix’ik-an_ (“I carry it to the lagoon”)
+    - Example: _Ka-ch’upalum ix’ik-an_ (“I carry it to the lagoon”)
 
 5.  **Ablative**: Source or separation (-_uq_)
     - Example: _Ka-pu’tal kul’qat-uq_ (“I climb from the peak”)
@@ -377,7 +377,7 @@ Ki’ichek nouns have six cases:
 
 - Tz’anul—Roof
 
-- Ch’umatz—Door
+- Xotz’em—Door
 
 - Tz’iqal—Blanket
 
@@ -391,7 +391,7 @@ Ki’ichek nouns have six cases:
 
 - Ix’lan—Path/Trail
 
-- Ch’upal—Pot
+- Lu’xe—Pot
 
 - K’ayix—Firewood
 
@@ -425,7 +425,7 @@ K’anul—Golden; Ixchek—Silver; Tz’umul—Red; Xilik—Blue; Ha’nak—Gr
 
 #### Texture
 
-P’ikun—Soft; Ch’ukun—Rough; Tz’ikin—Smooth; Nalix—Sticky; Kulix—Hard
+P’ikun—Soft; Ch’ukun—Rough; Tz’elun—Smooth; Nalix—Sticky; Kulix—Hard
 
 #### Temperature
 
@@ -445,46 +445,46 @@ Tz’ik’al—Sick; Nal’in—Healthy; Pu’chal—Full; Tz’alun—Empty; Ku
 
 ### Structure of the K’ich'chik Numerical System
 
-1. **Base Numbers (1–19)**: Numbers up to 19 are represented by unique words.
+1. **Base Numbers (1–19)**: The numbers from one to ten are single words; eleven to nineteen are _olek’_ (ten) followed by the unit, as two words.
 2. **Multiples of 20**: Numbers from 20 onward are combinations of multiples of 20, with separate terms for higher powers of 20:
    - K’aqil: 1 (20⁰)
-   - Winal: 20 (20¹)
-   - Bak’al: 400 (20²)
-   - Pik’al: 8,000 (20³)
-   - K’alab: 160,000 (20⁴) Higher powers follow similar patterns, though rarely used in daily life.
+   - Tz’ob: 20 (20¹)
+   - Pel’ux: 400 (20²)
+   - Q’umpel: 8,000 (20³)
+   - Xolemax: 160,000 (20⁴) Higher powers follow similar patterns, though rarely used in daily life.
 3. **Positional Representation**: Each place represents a power of 20, with the first position for units, the second for 20s, the third for 400s, and so on.
 
 ### K’ich'chik Numbers and Words
 
 #### Base Numbers (1–19):
 
-- Jun—1
-- Ka—2
-- Ox—3
-- Kan—4
-- Ho—5
-- Wak—6
-- Wuqu—7
-- Waxak—8
-- Bolon—9
-- Lahun—10
-- Buluk—11
-- Lajun—12
-- Oxlahun—13
-- Kanlahun—14
-- Holahun—15
-- Waklahun—16
-- Wuqulahun—17
-- Waxaklahun—18
-- Bolonlahun—19
+- Pe’—1
+- Q’o—2
+- Lixe—3
+- Muxe—4
+- P’o—5
+- Tz’ixe—6
+- Nuq’el—7
+- Q’ixe—8
+- Pek’ax—9
+- Olek’—10
+- Olek’ Pe’—11
+- Olek’ Q’o—12
+- Olek’ Lixe—13
+- Olek’ Muxe—14
+- Olek’ P’o—15
+- Olek’ Tz’ixe—16
+- Olek’ Nuq’el—17
+- Olek’ Q’ixe—18
+- Olek’ Pek’ax—19
 
 #### Higher Multiples:
 
 - K’aqil—Unit
-- Winal—20
-- Bak’al—400
-- Pik’al—8,000
-- K’alab—160,000
+- Tz’ob—20
+- Pel’ux—400
+- Q’umpel—8,000
+- Xolemax—160,000
 
 #### Combining Numbers
 
@@ -492,16 +492,16 @@ Numbers are expressed hierarchically, starting from the highest value and descen
 
 1. Example: 1,325 1,325 = 3 × 400 + 6 × 20 + 5
 
-- Ox Bak'al = 3 × 400 (Three Bak’als)
-- Wak Winal = 6 × 20 (Six Winals)
-- Ho = 5 Full Expression: _Ox Bak'al Wak Winal Ho_
+- Lixe Pel’ux = 3 × 400 (three Pel’uxes)
+- Tz’ixe Tz’ob = 6 × 20 (six Tz’obs)
+- P’o = 5 Full Expression: _Lixe Pel’ux Tz’ixe Tz’ob P’o_
 
 2. Example: 57,864 57,864 = 7 × 8,000 + 4 × 400 + 6 × 20 + 4
 
-- Wuqu Pik’al = 7 × 8,000 (Seven Pik’als)
-- Kan Bak’al = 4 × 400 (Four Bak’als)
-- Wak Winal = 6 × 20 (Six Winals)
-- Kan = 4 Full Expression: _Wuqu Pik’al Kan Bak’al Wak Winal Kan_
+- Nuq’el Q’umpel = 7 × 8,000 (seven Q’umpels)
+- Muxe Pel’ux = 4 × 400 (four Pel’uxes)
+- Tz’ixe Tz’ob = 6 × 20 (six Tz’obs)
+- Muxe = 4 Full Expression: _Nuq’el Q’umpel Muxe Pel’ux Tz’ixe Tz’ob Muxe_
 
 #### Zero
 
@@ -509,7 +509,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 ### Natural Features
 
-1.  **Ha’** - Water
+1.  **Ne’** - Water
 
 2.  **Ha’nal** - River
 
@@ -547,17 +547,17 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 19. **Tz’amik** - Plateau
 
-20. **Ha’tz’ik** - Island (_ha’_ water + _tz’ik_ above: what stands above the water)
+20. **Ne’tz’ik** - Island (_ne’_ water + _tz’ik_ above: what stands above the water)
 
 ### Flora
 
 1.  **Paqum** - Sun Blossom
 
-2.  **Ixche** - Moon Bloom
+2.  **Ix'mel** - Moon Bloom
 
 3.  **K’anix** - Golden Flower
 
-4.  **Xilba** - Ghost Orchid
+4.  **Xilto** - Ghost Orchid
 
 5.  **Tz’ikil** - Jungle Lily
 
@@ -573,7 +573,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 ### Fauna
 
-1.  **Ix’balam** - Jaguar
+1.  **Ix’bal** - Jaguar
 
 2.  **Xak’nal** - Eagle
 
@@ -591,7 +591,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 9.  **Xi’tal** - Frog
 
-10. **No’balam** - Lion
+10. **No’bal** - Lion
 
 11. **Tz’ilil** - Swallow
 
@@ -625,16 +625,16 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 1.  **Ix’kanmah** - Golden Noblewoman
 
-2.  **Ch’ulba** - Ancient Tree/Sacred Grove
+2.  **Xik’tel** - Ancient Tree/Sacred Grove
 
-3.  **K’ayik Kul’al** - The Living Flame: the rite that kindles every hearth anew from one fire when the K’in and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
+3.  **K’ayik Kul’al** - The Living Flame: the rite that kindles every hearth anew from one fire when the Tz’en and Tq’an counts come back into phase (_k’ayik_ flame + _kul’al_ alive)
 
 4.  **Member of Tribe**:
-    - **Ki’ichek**: _Tz’aqalil_ (_tz’aq_ = connection or belonging, _alil_ = of the group)
+    - **Ki’ichek**: _Tz’omalil_ (_tz’om_ = connection or belonging, _alil_ = of the group)
 
     - **Meaning**: "One Who Belongs"
 
-    - **Example**: _Ix’balam Tz’aqalil K’inix_ ("Jaguar of the Tribe of the Sun")
+    - **Example**: _Ix’bal Tz’omalil K’inix_ ("Jaguar of the Tribe of the Sun")
 
 5.  **Leader of Tribe**:
     - **Ki’ichek**: _Mah’alil_ (_mah_ = lord, _alil_ = of the group)
@@ -646,20 +646,20 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 ### Titles
 
 1.  **Overlord**:
-    - **Ki’ichek**: _K’uk’almah_ (_k’uk’al_ = supreme, _mah_ = lord)
+    - **Ki’ichek**: _Q’emulmah_ (_q’emul_ = supreme, _mah_ = lord)
     - **Meaning**: "Supreme Lord"
 
 2.  **King**:
-    - **Ki’ichek**: _K’inmah_ (_k’in_ = sun, _mah_ = lord)
+    - **Ki’ichek**: _Tz’enmah_ (_tz’en_ = sun, _mah_ = lord)
     - **Meaning**: "Lord of the Sun"
 
 3.  **Prince**:
-    - **Ki’ichek**: _K’inilbal_ (_k’in_ = sun, _ilbal_ = shining one)
+    - **Ki’ichek**: _Tz’enilbal_ (_tz’en_ = sun, _ilbal_ = shining one)
     - **Meaning**: "Heir to the Sun"
 
 4.  **Knight**:
-    - **Ki’ichek**: _Tz’aqkanil_ (_tz’aq_ = guardian, _kanil_ = noble duty)
-    - **Meaning**: "Guardian of Honor"
+    - **Ki’ichek**: _Tz’omilbal_ (_tz’om_ = bond, _-il_ = of it, _bal_ = servant)
+    - **Meaning**: "Servant of the Bond"
 
 5.  **Lady**:
     - **Ki’ichek**: _Ix’kanmah_ (_ix’kan_ = golden, _mah_ = lord)
@@ -691,10 +691,10 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
 
 12. **Subordinate Lord**:
     - **Ki’ichek**: _Kulmah_ (_kul_ = seat, _mah_ = lord)
-    - **Meaning**: "Lord of a Seat," who holds a lesser center for the K’inmah
+    - **Meaning**: "Lord of a Seat," who holds a lesser center for the Tz’enmah
 
 13. **Sun-Priest**:
-    - **Ki’ichek**: _K’inbal_ (_k’in_ = sun, _bal_ = servant)
+    - **Ki’ichek**: _Tz’enbal_ (_tz’en_ = sun, _bal_ = servant)
     - **Meaning**: "Servant of the Sun," keeper of the count of days
 
 14. **Scribe**:
@@ -706,7 +706,7 @@ The concept of zero, critical in K’ich'chik mathematics, is expressed as **Tz�
     - **Meaning**: "Lord of the War," named for one campaign
 
 16. **Herald**:
-    - **Ki’ichek**: _Ch’umtz’aq_ (_ch’um_ = to speak, _tz’aq_ = connection)
+    - **Ki’ichek**: _Ch’umtz’om_ (_ch’um_ = to speak, _tz’om_ = connection)
     - **Meaning**: "The Speaking Link," who carries a lord's word
 
 17. **Master Merchant**:

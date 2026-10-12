@@ -9,7 +9,7 @@ data: {packFolder: settinglore}
 ---
 
 The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. Beneath the
-single diffuse source—[[lore-mwangadty|Mwánga-Kúbwa]], which receives nothing—it is the
+single diffuse source—[[lore-shorinyadty|Shorínya Ndáfo]], which receives nothing—it is the
 **guides** that Nyáluba religious life is directed at. They are not gods and they are not
 worshipped. In the language of the tradition they are **venerated, appeased, or warded against**,
 each according to its character and the need of the moment.
@@ -52,9 +52,9 @@ describe the people's dealings with the spirits will name all three without prom
 The tradition imposes no rigid taxonomy, but seven kinds recur across the clans.
 
 - **Totems**—the ancestral guides of a clan's lineage, and the ones with formal cults of their
-  own: [[affiliation-nyalblion|Lion]] (Mvuzi), [[affiliation-nyalbcroc|Crocodile]] (Kambezi),
+  own: [[affiliation-nyalblion|Lion]] (Ruwozi), [[affiliation-nyalbcroc|Crocodile]] (Kolembozi),
   [[affiliation-nyalbeagl|Eagle]] (Ngonzi), [[affiliation-nyalbleop|Leopard]] (Sengala) and
-  [[affiliation-nyalbbaob|Baobab]] (Bombwe). A totem is not an animal but the ancestral presence
+  [[affiliation-nyalbbaob|Baobab]] (Lobwezi). A totem is not an animal but the ancestral presence
   from which the clan traces its identity, and the clan's conduct is bound by its nature.
 - **Land-spirits**—whose domain is a place rather than a lineage: keepers of gathering-trees,
   ridge-spirits of sacred heights, spirits of crossings, cairns and thresholds. Many of the
@@ -101,7 +101,7 @@ minimum reciprocity to respectful visitors. Those who transgress discover—some
 ## See Also
 
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition of which the guides are the substance
-- [[lore-mwangadty|Mwánga-Kúbwa]]—the source, which is acknowledged and never venerated
+- [[lore-shorinyadty|Shorínya Ndáfo]]—the source, which is acknowledged and never venerated
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans whose pacts these are
 - [[lore-thekindred|The Kindred]]—the Áelendan parallel, structurally very similar
 - [[affiliation-nkaruthar|Nkaru'thar]]—the Okháric Eternal Flame, whose _zohira_ fulfill a comparable role

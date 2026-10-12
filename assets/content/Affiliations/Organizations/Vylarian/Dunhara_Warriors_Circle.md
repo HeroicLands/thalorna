@@ -81,7 +81,7 @@ When the Circle rides, its host is its own members and whatever warriors their t
 
 ## Relations
 
-- **The common council of the tribes**: the chieftains' council at [[place-dunashir|Dûn Ashir]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
+- **The common council of the tribes**: the chieftains' council at [[place-ghavulekh|Ghavûlekh]]. The two bodies keep apart: the Circle judges no dispute between tribes, and the chieftains do not direct the Circle's wars. When they disagree, which is rare and serious, the Circle gives way on policy and the chieftains on war.
 - **The [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]**: the two are woven together. Many members are storm-cult initiates, the cults' practitioners open and close every meeting, and the cults' standing rests partly on the Circle's respect.
 - **The Sowides**: the herding tribes of the [[place-khzryndsrtrgn|Khazryn]] steppe to the north, the Circle's oldest rivals. Most of its gatherings are against [[lore-sowidesclt|Sowides]] raiders or over wells contested with one of their tribes, and it deals with each tribe separately, because no one speaks for them all.
 - **Foreign powers**: the Circle does not treat with any power outside the desert. Foreign envoys who reach the Stone uninvited are received with formal courtesy and sent away with nothing.

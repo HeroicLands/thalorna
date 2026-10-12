@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe sends a delegate to the Great Indaba and binds itself to nothing there without the elders first agreeing it.
+      A chieftain by descent and consent together, with the elders of the lineages settling what custom does not already answer. The tribe sends a delegate to the Great Lubemo and binds itself to nothing there without the elders first agreeing it.
     ranks:
       - level: 0
         title: Kinless
@@ -45,7 +45,7 @@ data:
       Chieftain: Head of the tribe, holding by descent and consent together and losing it when either fails.
       Elder: Senior of a lineage, whose recollection of custom settles what the young dispute.
       Delegate: >-
-        Sent to the Great Indaba of the confederation, empowered to argue and not to bind.
+        Sent to the Great Lubemo of the confederation, empowered to argue and not to bind.
       Master of the Hunt: >-
         Holder of the tribe's grounds—their game, their seasons and their standing pacts—and the one who apportions a take.
       Trail-Reader: >-
@@ -72,7 +72,7 @@ the Sengala, and they keep the [[affiliation-nyalbleop|Leopard Totem]]—which s
 the leopard is the guide that works alone, moves unseen, and is present in country it does not
 obviously hold.
 
-They herd nothing. Where the Mvuzi measure themselves in cattle and the Bombwe in the age of their
+They herd nothing. Where the Ruwozi measure themselves in cattle and the Lobwezi in the age of their
 trees, the Fénjara measure themselves in ground known: which trails, which water, which seasons,
 and whose pacts run where. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
 year most of them are not in it.
@@ -91,7 +91,7 @@ sacred site, and are not the person a clan sends when a pact has been broken. Th
 What is done about the thing found is somebody else's office.
 
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
-is why so small a tribe is heard at the Great Indaba at all.
+is why so small a tribe is heard at the Great Lubemo at all.
 
 ## See Also
 
@@ -99,4 +99,4 @@ is why so small a tribe is heard at the Great Indaba at all.
 - [[affiliation-nyalbleop|Leopard Totem]]—the guide the Fénjara keep
 - [[place-fenjaravlg|Fénjara Village]]—the tribe's seat
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition, and the offices the Fénjara do not hold
-- [[being-gahijwfnjr|Gahiji wa Fénjara]]—the tribe's best-known tracker
+- [[being-tabesnfnjr|Tabéso nu Fénjara]]—the tribe's best-known tracker

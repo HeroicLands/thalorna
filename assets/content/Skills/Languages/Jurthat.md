@@ -66,7 +66,7 @@ Two island habits diverge. First, the reading of a character in Jürthāti is fr
 - **"Thāt nö vōng, këi nö thëng."**—"Nine mountains, one heaven." (Proverbial; the claim to an undivided Mandate.)
 - **"Rëitsīk nö jür vëi."**—"The blade answers before the tongue." (Of Rëitsīk, the island form of ritual suicide, taken as a mode of speech.)
 - **"Vëngö nö tsük, jürö nö dōk."**—"The wave is not counted, the mountain is not moved." (Of patience under pressure.)
-- **"Kövëi thāt-sö, nō vëngyürt."**—"This unworthy one will attempt it." (A formal acceptance; the humble register.)
+- **"Kövëi thāt-sö, nō vëngyīrt."**—"This unworthy one will attempt it." (A formal acceptance; the humble register.)
 - **"Sōk nö thëi vö?"**—"Is the matter, perhaps, difficult?" (A refusal. It is always a refusal.)
 
 ## Related Languages

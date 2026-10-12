@@ -3,11 +3,11 @@ shortcode: venduk
 name: {full: Vëndük, aliases: []}
 type: lore
 subType: law
-description: "The second caste of Tānvür—sorcerers claimed from every caste at the age of ten, the only people in the empire allowed to work magic, ranked above generals and owned by the Zhëklüng."
+description: "The second caste of Tānvür—sorcerers claimed from every caste at the age of ten, the only people in the empire allowed to work magic, ranked above generals and owned by the Zhëkzhös."
 data: {packFolder: castes}
 ---
 
-Every child in [[affiliation-tanvurempr|Tānvür]] is tested at ten, and the ones who show the gift do not go home. They become Vëndük, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zheklung|Zhëklüng]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Vëndük counselor sits at a Warlord's elbow and a Vëndük artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tānvüri see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
+Every child in [[affiliation-tanvurempr|Tānvür]] is tested at ten, and the ones who show the gift do not go home. They become Vëndük, the second caste of the empire and its property: sorcerers born with the power to work the cosmic energy, bound to the service of the [[lore-zhekzhos|Zhëkzhös]] from the day they are claimed, ranked above generals and scholars, and owning nothing, not even themselves. A Vëndük counselor sits at a Warlord's elbow and a Vëndük artificer forges the weapons the empire's enemies cannot copy, and both belong, in law, to the house they serve. The Tānvüri see no contradiction in it. Their power is exactly why they are ranked high and exactly why they are owned.
 
 ## The Testing
 
@@ -17,7 +17,7 @@ The test cuts the other way too. A child born in the compounds to Vëndük paren
 
 ## What the Sorcerers Do
 
-**Counsel.** A Vëndük counselor advises the Emperor or a Warlord on magic, on war and on the spiritual health of the province. In practice the great sorcerers of the empire stand at the center of its decisions, and the Zhëklüng govern through a triad of their own authority, their Warlords and their Vëndük.
+**Counsel.** A Vëndük counselor advises the Emperor or a Warlord on magic, on war and on the spiritual health of the province. In practice the great sorcerers of the empire stand at the center of its decisions, and the Zhëkzhös govern through a triad of their own authority, their Warlords and their Vëndük.
 
 **Artifice.** Vëndük artificers make the empire's enchanted arms and instruments, imbued with the elemental energies: blades that keep their edge through bone, banners that turn arrows, lamps that do not gutter in a storm. No other craftsman can copy them, and each one is entered in the registry as a possession of the house that commissioned it.
 
@@ -25,19 +25,19 @@ The test cuts the other way too. A child born in the compounds to Vëndük paren
 
 ## The Monopoly
 
-Magic in Tānvür belongs to the Vëndük and to no one else. A person of any other caste found working it is put to death at once, without the long inquiry the [[lore-zeisik|courts]] give lesser crimes. The law exists so that every source of arcane power in the empire answers to the Zhëklüng and no rival school of sorcery can grow in the provinces. The [[lore-nokvur|Lëigürt]] of the villages, who speak with the dead, are tolerated because the Tānthëi class their gift as communion, not sorcery, and the distinction is watched closely.
+Magic in Tānvür belongs to the Vëndük and to no one else. A person of any other caste found working it is put to death at once, without the long inquiry the [[lore-zeisik|courts]] give lesser crimes. The law exists so that every source of arcane power in the empire answers to the Zhëkzhös and no rival school of sorcery can grow in the provinces. The [[lore-nokvur|Lëigürt]] of the villages, who speak with the dead, are tolerated because the Tānthëi class their gift as communion, not sorcery, and the distinction is watched closely.
 
 ## Rights and Restrictions
 
 The [[lore-castelaws|Caste Laws]] protect the sorcerer as a treasure is protected:
 
-- **Protection**: a Vëndük's life is worth more in law than that of any caste below the Zhëklüng, and harming one is an offense against its owner and the throne.
+- **Protection**: a Vëndük's life is worth more in law than that of any caste below the Zhëkzhös, and harming one is an offense against its owner and the throne.
 - **Magic**: the sole right to perform the rites, craft artifacts and give arcane counsel.
 - **Latitude**: within the task he is set, a Vëndük chooses his own methods, and his owner does not instruct him in his art.
 
 And they bind him as property is bound:
 
-- **Bondage**: he belongs to his Zhëklüng owner and may not leave the estate without leave.
+- **Bondage**: he belongs to his Zhëkzhös owner and may not leave the estate without leave.
 - **Obedience**: disobedience is punished by death or by the permanent severing of his power, and the Vëndük count the second worse.
 - **No marriage**: Vëndük may lie together only with their owner's consent, and their children belong to the owner from birth.
 - **No property**: everything he makes or is given is his owner's.
@@ -53,7 +53,7 @@ No [[lore-flksinale|Sinalo]] or [[lore-flkkhazar|Khazár]] is ever classified V�
 ## See Also
 
 - [[lore-castelaws|Caste Laws]]—the testing of children and the magical monopoly
-- [[lore-zheklung|Zhëklüng]]—the owners the Vëndük serve
+- [[lore-zhekzhos|Zhëkzhös]]—the owners the Vëndük serve
 - [[lore-vushok|Vüshōk]]—the warrior nobility, the caste below
 - [[lore-nokvur|Nōkvür]]—the farmers who raise the children the testing does not keep
 - [[lore-zeisik|Law and Honor]]—the penalties that enforce the monopoly

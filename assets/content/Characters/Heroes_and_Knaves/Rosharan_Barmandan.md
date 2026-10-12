@@ -437,9 +437,9 @@ Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark b
 
 # Dossier {#dossier}
 
-**Childhood on the Waves:** Rosharan was born in the port city of [[place-tahrodan|Tahrodan]], the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed a gift for understanding the architecture of ships and what they could be. By age twelve, she was apprenticed to **Master Shipwright Khalid Hammerhand**, the famed designer of the Sultanate's finest vessels.
+**Childhood on the Waves:** Rosharan was born in the port city of [[place-tahrodan|Tahrodan]], the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed a gift for understanding the architecture of ships and what they could be. By age twelve, she was apprenticed to **Master Shipwright Kheldûn Hammerhand**, the famed designer of the Sultanate's finest vessels.
 
-**Mastering the Art:** Khalid was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Khalid himself, but gradually, he became her greatest advocate, eventually declaring her his successor and recommending her for Guild membership.
+**Mastering the Art:** Kheldûn was a strict but generous mentor who insisted that anything new came only after complete mastery of tradition. For fifteen years, Rosharan studied traditional design, worked with ancient timber types, and learned to predict how wood would move, swell, and age. However, by her late twenties, she began questioning established practices—suggesting changes in hull design that improved speed, modifications to rigging that gave better wind-catching capability, and radical ideas about incorporating materials from distant lands. Her suggestions initially met resistance from Kheldûn himself, but gradually, he became her greatest advocate, eventually declaring her his successor and recommending her for Guild membership.
 
 **Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the [[place-amradadrgn|Amradad]] harbor, known throughout the Sultanate for vessels that balance traditional beauty with novel construction. Her designs have attracted adventurers, explorers, and merchants willing to pay dearly for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the Royal Survey Corps and a merchant vessel of new design built to withstand the monsoon.
 
@@ -477,10 +477,10 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 
 ### Patrons
 
-Master Khalid Hammerhand
-: Her former mentor and the preeminent authority on shipcraft in the Sultanate, Khalid remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
+Master Kheldûn Hammerhand
+: Her former mentor and the preeminent authority on shipcraft in the Sultanate, Kheldûn remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and gives sage counsel on Guild politics.
 
-Lady Yasmin Mirza, Royal Survey Corps
+Lady Yazhêna Parivân, Royal Survey Corps
 : The commander of the Sultanate's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to new designs.
 
 Lin'Zuwaret elu Aû'Khelâthu of Tahrodan
@@ -488,7 +488,7 @@ Lin'Zuwaret elu Aû'Khelâthu of Tahrodan
 
 ### Enemies
 
-Master Shipwright Davoud al-Farsi
+Master Shipwright Pashvûr Turvand
 : A rival craftsman from a competing shipyard who views Rosharan's popularity as an affront to "proper" tradition. He has launched a quiet campaign to convince traditional merchants that her designs are unreliable, spreading rumors about ships that foundered using her designs (most false or exaggerated).
 
 The Iron Guilds Coalition

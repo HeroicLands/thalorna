@@ -401,7 +401,7 @@ Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is bro
 
 Arkálòrdâs Kâlmâkanês is a common seaman of Aelissium, a trade city of [[place-vylariargn|Vylaría]], a Vylarian freeman who has worked the merchant ships of the Vylarian Sea for twenty years and is the hand the captains ask for by name.
 
-Arkálòrdâs went to sea from Aelissium at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to Sâlkhâlon, and the long runs east to Heliónis and, before the war, to Harad. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
+Arkálòrdâs went to sea from Aelissium at seventeen and has been aboard something ever since: grain ships to the capital, timber ships to Sâlkhâlon, and the long runs east to Heliónis and, before the war, to Tarûzel. He has been through the weather that sinks ships and has come home from it, which is the whole of a seaman's reputation. He is no officer and has never wanted to be one, but he has been the senior hand on every deck for ten years, the man the captain asks before he turns for a lee shore. He teaches the boys: how to reef, how to stow, what the sea looks like the hour before it kills a man. He has buried enough of them to teach hard.
 
 ## Psyche
 
@@ -429,14 +429,14 @@ Arkálòrdâs's patrons are the merchant captains of Aelissium, who ask for him 
 
 ### Enemies
 
-A young mate on the Heliónis run who learned his trade in a Haradian yard and has told his captain that the old hand is slowing the deck; and a Haradian privateer who took a ship Arkálòrdâs was aboard and did not take him.
+A young mate on the Heliónis run who learned his trade in a Tarûzelian yard and has told his captain that the old hand is slowing the deck; and a Tarûzelian privateer who took a ship Arkálòrdâs was aboard and did not take him.
 
 ## Plot Hooks
 
-1. **The Shoals**—A captain has offered double wages to take a cargo through the Tamzîr channels, which Haradian pilots know and Vylarian seamen do not, and the crew will not sign without Arkálòrdâs.
+1. **The Shoals**—A captain has offered double wages to take a cargo through the Tamzîr channels, which Tarûzelian pilots know and Vylarian seamen do not, and the crew will not sign without Arkálòrdâs.
 
-2. **The Letters of Marque**—A Haradian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkálòrdâs's ship is the next out.
+2. **The Letters of Marque**—A Tarûzelian ship carrying letters against Vylarian trade has been seen off the Heliónis coast, and it is the privateer's. Arkálòrdâs's ship is the next out.
 
 3. **The Navy's Need**—The empire's navy is short of seamen and is paying the collegium for its rolls. Arkálòrdâs's name is at the top of one.
 
-4. **The Young Mate**—The mate has been given the deck for the Heliónis run and has set the ship the Haradian way, with half the hands aloft that Arkálòrdâs would keep there. The weather is coming.
+4. **The Young Mate**—The mate has been given the deck for the Heliónis run and has set the ship the Tarûzelian way, with half the hands aloft that Arkálòrdâs would keep there. The weather is coming.

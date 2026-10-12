@@ -16,7 +16,7 @@ data:
     - {name: Shütyüt, days: 33}
     - {name: Vëngyüt, days: 30}
     - {name: Yütjëit, days: 30}
-    - {name: Thürkyüt, days: 30}
+    - {name: Thëikyüt, days: 30}
     - {name: Zhürtyüt, days: 30}
     - {name: Thürtyüt, days: 30}
   eras:
@@ -56,7 +56,7 @@ Ten of the twelve run thirty days. Jīkyüt, the month of the courts' heaviest c
 
 9. **Yütjëit - "Month of the Moon"**—Late Autumn. The Minister of the Moon (Yütvëi) is ascendant. The boundary between Sorted and Unsorted loosens as Hëk flow strengthens with the lengthening nights. This is the month of prophecy, dreams, and night-counsel—when the Bureau of Night Counsel (Mëi Sëi) is most active and the veil between the mortal and spirit worlds is thinnest. Divination is most reliable during Yütjëit, but so is the risk of Hürnlëi seepage.
 
-10. **Thürkyüt - "Month of Winter"**—Early Winter. Contraction and conservation. The classification system draws inward, strengthening its core boundaries as the external world grows cold and still. Resources are conserved, spiritual reserves are hoarded, and families begin preparing their offerings for the great mid-winter settlement with the dead.
+10. **Thëikyüt - "Month of Winter"**—Early Winter. Contraction and conservation. The classification system draws inward, strengthening its core boundaries as the external world grows cold and still. Resources are conserved, spiritual reserves are hoarded, and families begin preparing their offerings for the great mid-winter settlement with the dead.
 
 11. **Zhürtyüt - "Month of Snow"**—Mid-Winter. The month of the dead. The Festival of the Dead (Sīklëi Jëit) is held here—the most elaborate and expensive ritual in the Tānvüri calendar, when families settle their annual accounts with their ancestor spirits. Massive quantities of spirit money and goods are burned, ancestral ledgers are reviewed, and the Lëigürt commune with the dead to receive their instructions for the coming year.
 
@@ -69,7 +69,7 @@ In law, trade and government, a year is named for the dynasty and the reigning E
 **Naming Convention:**
 
 - **Format**: "Year X of the [Emperor's Name] Emperor of the [Dynasty Name] Dynasty"
-- **Example**: **"Year 5 of the Zhüklüng Emperor of the Tānlüng Dynasty"** (Tānlüng Zhüklüng Vürt Nëir)
+- **Example**: **"Year 5 of the Zhükzhös Emperor of the Tānzhös Dynasty"** (Tānzhös Zhükzhös Vürt Nëir)
 
 **Era-Based:** Each emperor's reign constitutes a separate administrative era. When a new emperor receives the [[lore-mandatehvn|Mandate of Heaven]], a new era begins and the year count resets. Documents of the old era stay valid and must be cross-referenced to the new one, and every succession sets whole bureaus of scholars to that work for years.
 
@@ -79,7 +79,7 @@ The Celestial Calendar is the deeper and older system, kept by the Tānthëi ast
 
 ## Zero Date and the Great Convergence
 
-The Celestial Calendar begins at the **Great Convergence (Dāk Vān Hōk)**, which the [[lore-celestlrdr|Celestial Order]] reckons at exactly **6,958 years ago**. It was the first perfect alignment of every celestial body, elemental force and spiritual energy after the Great Sorting: the moment, the Tānvüri hold, when Tānlüng's classification first ran in full, every element sorted, every bureau staffed and every jurisdiction drawn, and the cosmic administration began its first cycle of business.
+The Celestial Calendar begins at the **Great Convergence (Dāk Rūrk Hōk)**, which the [[lore-celestlrdr|Celestial Order]] reckons at exactly **6,958 years ago**. It was the first perfect alignment of every celestial body, elemental force and spiritual energy after the Great Sorting: the moment, the Tānvüri hold, when Tānzhös's classification first ran in full, every element sorted, every bureau staffed and every jurisdiction drawn, and the cosmic administration began its first cycle of business.
 
 The figure is exact because the zero of a calendar is exact, and inside the empire it is not offered as tradition or as a way of speaking. It is the date every bureau files against, the date a Tānthëi computes a Generation from, and the date a Nōkvür household names when it burns the year's spirit money—stated as plain fact from the imperial court down to a village hearth-shrine, and no more open to argument than the number of elements.
 
@@ -109,20 +109,20 @@ Each Generation moves through three **Phases of Lëi**, each lasting nine years:
 
 Each year within a Celestial Generation is associated with a **spirit animal**—a classified spiritual entity whose characteristics influence the cosmic administration's processing during that year. The 15 animals cycle through the 27-year Generation in overlapping patterns, with each animal appearing in at least two of the three phases.
 
-The spirit animals are patterns that shape how the classification handles its business in a given year, and the Tānvüri neither worship them nor treat them as charms. A child born in the Year of the Azure Dragon is classified under the Azure Dragon's pattern for life, and it governs how her moral ledger is kept, which jurisdiction her petitions fall to and which bureau is likely to handle her affairs.
+The spirit animals are patterns that shape how the classification handles its business in a given year, and the Tānvüri neither worship them nor treat them as charms. A child born in the Year of the Wind Dragon is classified under the Wind Dragon's pattern for life, and it governs how her moral ledger is kept, which jurisdiction her petitions fall to and which bureau is likely to handle her affairs.
 
 **The Ascending Nine (Primary Phase: Thëng Lëi):**
 
 | Animal                     | Quality                | Administrative Influence                        |
 | -------------------------- | ---------------------- | ----------------------------------------------- |
-| Zhütlüng (Azure Dragon)    | Authority, expansion   | Imperial petitions processed first              |
-| Bëithürt (White Tiger)     | Enforcement, courage   | Military filings prioritized                    |
-| Rötzhāt (Vermilion Bird)   | Renewal, transition    | Bureau of Continuity ascendant                  |
-| Hëkvüt (Black Tortoise)    | Endurance, persistence | Long-term filings favored                       |
-| Kīrlüng (Sacred Beast)     | Prosperity, harmony    | Bureau of Allocation generous                   |
+| Vëngzhös (Wind Dragon)     | Authority, expansion   | Imperial petitions processed first              |
+| Tëithürt (Iron Tiger)      | Enforcement, courage   | Military filings prioritized                    |
+| Zhīrzhāt (Star Bird)       | Renewal, transition    | Bureau of Continuity ascendant                  |
+| Kōtvüt (Ancient Tortoise)  | Endurance, persistence | Long-term filings favored                       |
+| Kīrhürt (Sacred Beast)     | Prosperity, harmony    | Bureau of Allocation generous                   |
 | Bëitthëi (White Sage)      | Wisdom, discernment    | Bureau of Records most active                   |
 | Lëngzhāt (Radiant Phoenix) | Transformation, cycle  | Bureau of Transformation ascendant              |
-| Lüngmāt (Dragon Horse)     | Duty, perseverance     | Transit Bureau most efficient                   |
+| Lëngmāt (Dawn Horse)       | Duty, perseverance     | Transit Bureau most efficient                   |
 | Bëitbëi (White Ape)        | Cunning, adaptability  | Unconventional petitions more likely to succeed |
 
 **The Transitional Six (Primary Phase: Hōk Lëi and Jöng Lëi):**
@@ -132,15 +132,15 @@ The spirit animals are patterns that shape how the classification handles its bu
 | Vüthëi Sōk (Sage Serpent) | Knowledge, foresight | Prophetic filings most reliable                            |
 | Vōrzhür (Righteous Boar)  | Tenacity, honor      | Moral ledger audits most thorough                          |
 | Hëkzhāt (Shadow Bird)     | Mystery, transition  | Bureau of Night Counsel most active; Hürnlëi risk elevated |
-| Jīklüng (Golden Dragon)   | Accumulation, power  | Spiritual credit accrual rates highest                     |
-| Vëklüng (Echo Dragon)     | Adaptation, response | Inter-bureau communication most efficient                  |
+| Jīkzhös (Golden Dragon)   | Accumulation, power  | Spiritual credit accrual rates highest                     |
+| Vëkzhös (Echo Dragon)     | Adaptation, response | Inter-bureau communication most efficient                  |
 | Zhützhāt (Azure Bird)     | Guidance, hope       | Transit petitions most likely to succeed                   |
 
 ## Current Celestial Date
 
 **"20th Year of the 258th Celestial Generation, Year of the Golden Dragon, in the Descending Lëi Phase"**
 
-In Celestial Writing: **"Dāk 258 Tëng Dāk, Jīklüng Nëir, Jöng Lëi Nëir 20"**
+In Celestial Writing: **"Dāk 258 Tëng Dāk, Jīkzhös Nëir, Jöng Lëi Nëir 20"**
 
 **Shorthand:** **"20/258 Tëng Dāk"**
 
@@ -155,7 +155,7 @@ The Tānvüri festivals are celebrations, and they are also filing days the empi
 The most significant festival in Tānvür, held on the first day of Jëityüt at the new year. The Emperor performs the **annual audit**—a formal review of the empire's Lëi, in which he (assisted by the Tānthëi) symbolically opens the celestial filing system for the new year, confirms that the previous year's accounts are settled, and authorizes the processing of new business. Feasts, lantern-lightings and public performances surround the rite, and the people's part in them is counted as their contribution to the audit: every household that takes part is entered in the empire's reckoning of its Lëi.
 
 - **Time**: First day of Jëityüt (new year, transition from winter to spring)
-- **Castes Involved:** Zhëklüng (Emperor and Warlords lead the audit), Tānthëi (process divinations and verify the cosmic accounts), Vëndük (perform the magical workings that formally open the new filing cycle), Nōkvür (community participation registers the population's collective Lëi)
+- **Castes Involved:** Zhëkzhös (Emperor and Warlords lead the audit), Tānthëi (process divinations and verify the cosmic accounts), Vëndük (perform the magical workings that formally open the new filing cycle), Nōkvür (community participation registers the population's collective Lëi)
 
 ## Festival of the Five Elements (Vürt Zāt Jëit)
 

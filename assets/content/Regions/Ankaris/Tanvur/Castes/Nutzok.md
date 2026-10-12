@@ -51,7 +51,7 @@ The law offers no general road out. No court frees slaves in numbers, no reform 
 ## See Also
 
 - [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Nützōk
-- [[lore-shukren|Shükrën]]—merchants, the lowest free caste and the one directly above
+- [[lore-shuknurk|Shüknürk]]—merchants, the lowest free caste and the one directly above
 - [[lore-nokvur|Nōkvür]]—peasant farmers, into whose caste a freed slave is entered
 - [[lore-venduk|Vëndük]]—the sorcerer caste, enslaved and held high
 - [[lore-zeisik|Law and Honor]]—the courts that hand down slavery as a sentence

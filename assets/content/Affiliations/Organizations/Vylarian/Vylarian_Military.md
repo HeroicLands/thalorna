@@ -75,7 +75,7 @@ That is the Vylarian military in a sentence, and the rest of this note fills in 
 
 ## At a Glance
 
-The legions are the [[affiliation-vylarinmpr|Vylarian Empire's]] standing army. They operate in [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]], the territories under direct imperial governance. They do _not_ freely operate in [[place-aureldirgn|Aurèldía]] or [[place-byzariargn|Byzaría]], which have their own armies, nor in Harad since the secession, nor anywhere else outside imperial territory except by invitation or hire.
+The legions are the [[affiliation-vylarinmpr|Vylarian Empire's]] standing army. They operate in [[affiliation-vylarinmpr|Vylaria]] proper and [[place-helionis|Heliónis]], the territories under direct imperial governance. They do _not_ freely operate in [[place-aureldirgn|Aurèldía]] or [[place-byzariargn|Byzaría]], which have their own armies, nor in Tarûzel since the secession, nor anywhere else outside imperial territory except by invitation or hire.
 
 The reigning **Augustar** (the Vylarian emperor) is the supreme commander. Operational command belongs to the **Dux Bellorum** at Ôrzâra, who presides over the war council of the **Comares Augustari**.
 
@@ -85,9 +85,9 @@ The Vylarian military is a legion-based army built on the founding principle tha
 
 What sets the army apart, and what shapes nearly every story it appears in, is its **dual-track structure**. Two parallel rank hierarchies meet at a single, carefully controlled point. The **noble track** holds every formal officer rank from Cadetar to Magnar. A family buys each commission, with the price adjusted by its political standing, and military competence is welcome but not required. The **commoner track** holds every NCO and enlisted rank from Tironar to Primar, and demonstrated capability alone fills it: no coin changes hands at any promotion. The two tracks share quarters, campaigns and casualty lists, and none of their qualifying criteria.
 
-The arrangement is the institution's open secret. The army's real operational capability rests in the meritocratic track, while the noble track supplies political legitimacy, court patronage and the families' continued investment in the imperial military. Any officer who has served long enough understands that the purchased-commission system buys aristocratic consent for a parallel meritocratic structure that the aristocracy could dismantle and does not, because dismantling it would mean losing every war the empire fought next. The Vylarians have lost wars under the system, most recently and disastrously the war that ended in the [[affiliation-sodnaqirin|Haradian secession]] twelve years ago, but they have won most of them.
+The arrangement is the institution's open secret. The army's real operational capability rests in the meritocratic track, while the noble track supplies political legitimacy, court patronage and the families' continued investment in the imperial military. Any officer who has served long enough understands that the purchased-commission system buys aristocratic consent for a parallel meritocratic structure that the aristocracy could dismantle and does not, because dismantling it would mean losing every war the empire fought next. The Vylarians have lost wars under the system, most recently and disastrously the war that ended in the [[affiliation-vezakuni|Tarûzelian secession]] twelve years ago, but they have won most of them.
 
-The army's reach has shrunk a great deal over the empire's history. Two centuries ago the legions garrisoned and policed territory from the [[place-drenavrspn|Drenavar Spine]] to the Haradian islands, and today they operate only in Vylaria proper and Heliónis. The Aurèldían kingdoms keep their own armies (knightly orders, royal retinues, town militias), the Byzarian League keeps its own city militias and a small standing force, and Harad has built its own navy and land forces since the secession. Aurèldían and Byzarian nobles can still buy commissions in the Vylarian legions, and a few provincial nobles of Argentean standing do so to gain imperial credentials. The reverse is rare, because Vylarian nobles seldom serve in non-imperial armies. The **Reformist Faction** at court counts the legions' reduced geographic scope among its standing concerns, and the **Conservative Faction** regards the empire's reduced military reach as the price of stability with the post-imperial commonwealth.
+The army's reach has shrunk a great deal over the empire's history. Two centuries ago the legions garrisoned and policed territory from the [[place-drenavrspn|Drenavar Spine]] to the Tarûzelian islands, and today they operate only in Vylaria proper and Heliónis. The Aurèldían kingdoms keep their own armies (knightly orders, royal retinues, town militias), the Byzarian League keeps its own city militias and a small standing force, and Tarûzel has built its own navy and land forces since the secession. Aurèldían and Byzarian nobles can still buy commissions in the Vylarian legions, and a few provincial nobles of Argentean standing do so to gain imperial credentials. The reverse is rare, because Vylarian nobles seldom serve in non-imperial armies. The **Reformist Faction** at court counts the legions' reduced geographic scope among its standing concerns, and the **Conservative Faction** regards the empire's reduced military reach as the price of stability with the post-imperial commonwealth.
 
 ## Unit Hierarchy
 
@@ -103,7 +103,7 @@ The organization runs from theater-level formations down to four-man fire teams,
 | **Decanum**  | Squad / mess group                                | 8               | 2 _Quaterae_                | Decar            |
 | **Quatera**  | Fire team—the smallest tactical maneuver element  | 4               | —                           | Quaterar         |
 
-The **Quatera** as the basic tactical element is a Vylarian doctrinal innovation that distinguishes the imperial army from earlier Aurèldían and pre-conquest Haradian forces. A four-man team can carry out fire-and-movement on its own, and two teams in a _Decanum_ support each other in alternating bounds. Field manuals credit the innovation to a long-dead military reformer, who may be real or invented, since the manuals disagree.
+The **Quatera** as the basic tactical element is a Vylarian doctrinal innovation that distinguishes the imperial army from earlier Aurèldían and pre-conquest Tarûzelian forces. A four-man team can carry out fire-and-movement on its own, and two teams in a _Decanum_ support each other in alternating bounds. Field manuals credit the innovation to a long-dead military reformer, who may be real or invented, since the manuals disagree.
 
 ## The Two Tracks
 
@@ -186,7 +186,7 @@ The **Praefar Castorum** ("Camp Prefect") is the third-in-command of a legion, r
 
 A Praefar Castorum has operational authority equal to the senior tribunes' and answers to no one in the legion except the Legar and the Tribunar Magnar. He runs the camp, the logistics, the training and the discipline, and, when the Legar is a courtier appointment and the Tribunar Magnar is busy with diplomacy, he runs the actual fighting. Every Primar in the army holds him up as the possible end of his own career, and every young noble officer learns from him in his Subtribunar year. He is the institution's living proof that the two tracks are not, finally, separate: at the highest level, competence can cross.
 
-Since the reform that followed the Haradian war, candidates for Praefar Castorum elevation must pass a formal examination set jointly by the Dux Bellorum and a panel of serving Magnars. The examination is rigorous and has cut the elevation rate substantially. The career NCO class takes this as a calculated insult, because the only path the reform tightened is the one path through which their own track has historically crossed into officer ranks. Noble commissions remain purchasable as before. The discontent on this point among the senior NCOs is real and ongoing.
+Since the reform that followed the Tarûzelian war, candidates for Praefar Castorum elevation must pass a formal examination set jointly by the Dux Bellorum and a panel of serving Magnars. The examination is rigorous and has cut the elevation rate substantially. The career NCO class takes this as a calculated insult, because the only path the reform tightened is the one path through which their own track has historically crossed into officer ranks. Noble commissions remain purchasable as before. The discontent on this point among the senior NCOs is real and ongoing.
 
 ## The Commoner Track: Pure Meritocracy
 
@@ -316,7 +316,7 @@ Each legion has a small organic cavalry component, one _Alaria_ of about 120 hor
 
 The cavalry trooper is an **Equar**, and cavalry officers carry the rank suffix _-equestris_.
 
-**Auxiliary formations** are non-citizen units recruited from conquered or allied peoples, heavy in archers, slingers, light infantry and specialist cavalry that the citizen legions do not field. Since the Haradian secession the loyalty of the auxiliaries has been a live question. Haradian auxiliaries served in the imperial army for over a century, and a substantial number defected or were quietly cashiered when the war began.
+**Auxiliary formations** are non-citizen units recruited from conquered or allied peoples, heavy in archers, slingers, light infantry and specialist cavalry that the citizen legions do not field. Since the Tarûzelian secession the loyalty of the auxiliaries has been a live question. Tarûzelian auxiliaries served in the imperial army for over a century, and a substantial number defected or were quietly cashiered when the war began.
 
 | Term            | Role                                                                            |
 | --------------- | ------------------------------------------------------------------------------- |
@@ -326,7 +326,7 @@ The cavalry trooper is an **Equar**, and cavalry officers carry the rank suffix 
 | **Velitar**     | Light infantry / skirmisher                                                     |
 | **Numar**       | Irregular formation; tribal or specialty unit not fitting standard organization |
 
-**Naval (Classar).** Vylaria's naval power was significant before the Haradian secession and is being rebuilt. Naval organization parallels the army's:
+**Naval (Classar).** Vylaria's naval power was significant before the Tarûzelian secession and is being rebuilt. Naval organization parallels the army's:
 
 | Unit               | Gloss       | Strength        | Commander          |
 | ------------------ | ----------- | --------------- | ------------------ |
@@ -337,11 +337,11 @@ The cavalry trooper is an **Equar**, and cavalry officers carry the rank suffix 
 
 A sailor is a **Nautar**. A marine, deployed from a ship's complement for boarding actions or landed operations, is a **Marinar**. Marines are organized as miniature _Centariae_ aboard each warship and follow army discipline.
 
-## The Post-Haradian Reform Crisis
+## The Post-Tarûzelian Reform Crisis
 
-The Haradian secession war was an institutional shock. The imperial forces lost engagements they should have won and a province they should have held, and in several cases they lost them because incompetent purchased commissions made decisions that experienced centurions would never have made. The Dux Bellorum's after-action report, leaked to the senatorial classes within months of its filing, produced the most serious challenge to the commission system in two centuries.
+The Tarûzelian secession war was an institutional shock. The imperial forces lost engagements they should have won and a province they should have held, and in several cases they lost them because incompetent purchased commissions made decisions that experienced centurions would never have made. The Dux Bellorum's after-action report, leaked to the senatorial classes within months of its filing, produced the most serious challenge to the commission system in two centuries.
 
-The Reformist Faction argued for compulsory military examinations as a precondition for any commission above Subtribunar. Comar Augustari **Valerius Sextian Octorius** led it in public, a man widely understood to have served his own commission years competently enough to have qualified by examination. In private a coalition of Argentean houses led it, whose sons had served distinguished merit-route careers in the Haradian campaign.
+The Reformist Faction argued for compulsory military examinations as a precondition for any commission above Subtribunar. Comar Augustari **Valerius Sextian Octorius** led it in public, a man widely understood to have served his own commission years competently enough to have qualified by examination. In private a coalition of Argentean houses led it, whose sons had served distinguished merit-route careers in the Tarûzelian campaign.
 
 The Conservative Faction, which included most of the Aurelian estate, most of the great commission-holding families and every officeholder whose career depended on the system as it stood, blocked the reform. Dux Bellorum **Marcus Tertian Veranius**, the senior Aurelian of his generation, led it and architected the eventual compromise.
 

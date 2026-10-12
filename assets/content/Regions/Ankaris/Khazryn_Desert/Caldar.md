@@ -24,7 +24,7 @@ The city drinks from adits driven into the copper spur, which drain a cold, hard
 
 ## Trade and Life
 
-Caldar sells ore, copper, verdigris and the faculty's products to the belt and to the Amradad market, and buys food from the neighboring oases. Wealthy mineral merchants from all over the belt fund research at the University in exchange for first option on any transmutation with a commercial use, and the merchant quarter, with its assay-houses and refiners, is the busiest part of town. The rest of Caldar is students: lodging-houses, stationers, glassblowers, instrument-makers and cheap eating-houses. Visiting scholars arrive from Amradad, Vedyara and the Haradian ports, by the Descent road and across the passes, and stay for years.
+Caldar sells ore, copper, verdigris and the faculty's products to the belt and to the Amradad market, and buys food from the neighboring oases. Wealthy mineral merchants from all over the belt fund research at the University in exchange for first option on any transmutation with a commercial use, and the merchant quarter, with its assay-houses and refiners, is the busiest part of town. The rest of Caldar is students: lodging-houses, stationers, glassblowers, instrument-makers and cheap eating-houses. Visiting scholars arrive from Amradad, Vedyara and the Tarûzelian ports, by the Descent road and across the passes, and stay for years.
 
 ## The University
 

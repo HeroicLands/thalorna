@@ -21,11 +21,11 @@ Valtári is a tongue of the Pidgin (contact) family. Fluency measures the sophis
 
 ## Overview
 
-Valtári—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of Mídhalión. It emerged wherever speakers of Haradi, Helonic, Vylari, Nordmal, and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
+Valtári—also called **Váltongue** or simply "trade-talk"—is not a true native language but a **pidgin trade language** that arose organically in the maritime harbors, fish-markets, warehouses, and trading houses of Mídhalión. It emerged wherever speakers of Tarûzeli, Helonic, Vylari, Nordmal, and a dozen other tongues needed to conduct commerce without interpreters. The language is fundamentally a **contact language**: a tool forged in necessity, spoken by those who need each other more than they need mutual understanding of grammar or etymology.
 
 Valtári is the lingua franca of maritime merchants, dock laborers, ship captains, chandlers, harbor masters, fishmongers, and anyone whose livelihood depends on cross-cultural commerce. It is **never** a first language—no child grows up speaking Valtári as their mother tongue. Instead, it is picked up on the docks through constant repetition, error correction, and pragmatic negotiation. A Valtári speaker is identifiable not by mastery of the language but by their ability to make themselves understood despite imperfect knowledge.
 
-The language is characterized by **heavy Haradi and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—Haradi script, Helonic letters, or hastily invented symbols.
+The language is characterized by **heavy Tarûzeli and Helonic substrate** (the two dominant maritime cultures), simplified grammar, extensive borrowing, and a vocabulary ruthlessly pruned to the essentials of commerce and daily port life. It is rarely written; when it is, speakers borrow whatever script they know—Tarûzeli script, Helonic letters, or hastily invented symbols.
 
 ## Phonology
 
@@ -35,16 +35,16 @@ Valtári simplifies the consonant inventories of its parent languages, favoring 
 
 - **Voiceless stops**: P, T, K (unaspirated, gentle articulation)
 - **Voiced stops**: B, D, G
-- **Fricatives**: F, S, Z, SH (written as 'h' in some contexts)
+- **Fricatives**: F, V, S, Z, SH
 - **Nasals**: M, N
 - **Liquids**: R (flapped or rolled depending on speaker origin), L
 - **Glides**: W, Y
 
-Consonant clusters are rare and usually occur at word boundaries. Most syllables are open (ending in a vowel), which simplifies pronunciation across language backgrounds.
+Valtári has no H and none of the throat sounds of its parents: the Tarûzeli and Helonic _kh_ and _gh_ are said _k_ and _g_, _q_ is said _k_, and _th_ is said _t_. Consonant clusters are rare and usually occur where two words meet. Most syllables are open (ending in a vowel), which simplifies pronunciation across language backgrounds, and a word closes on a vowel or on _n_, _l_ or _r_.
 
 ### Vowels
 
-Five basic vowels, with some variation in pronunciation depending on speaker origin:
+Five basic vowels, said short, with some variation in pronunciation depending on speaker origin. The long vowels of Tarûzeli and Helonic are all said short in Valtári:
 
 - **A**—an open "ah", variable (flattening toward the "a" of "about" when unstressed)
 - **E**—as in "bet" (flattening toward the "a" of "about" in rapid speech)
@@ -52,11 +52,11 @@ Five basic vowels, with some variation in pronunciation depending on speaker ori
 - **O**—as in "note" (flattening toward the "a" of "about")
 - **U**—as in "boot"
 
-Vowels are often **reduced in unstressed syllables**, especially in the speech of hurried traders. A word like "Mahira" might be pronounced "Mhra" in rapid dock speech. Non-native speakers often simplify vowels further, contributing to the language's fluidity and mutability.
+Vowels are often **reduced in unstressed syllables**, especially in the speech of hurried traders. A word like _telmusu_ might be pronounced _tlmsu_ in rapid dock speech. Non-native speakers often simplify vowels further, contributing to the language's fluidity and mutability.
 
 ### Stress and Intonation
 
-Stress is **unpredictable** and varies by speaker origin. Haradi speakers stress the first syllable; Helonic speakers stress toward the end. This makes Valtári speech rhythmically irregular, contributing to its "unfinished" quality. Rising intonation at the end of statements is common, turning assertions into questions—a feature borrowed from Helonic.
+Stress is **unpredictable** and varies by speaker origin. Tarûzeli speakers stress the first syllable; Helonic speakers stress toward the end. This makes Valtári speech rhythmically irregular, contributing to its "unfinished" quality. Rising intonation at the end of statements is common, turning assertions into questions—a feature borrowed from Helonic.
 
 ## Grammar Notes
 
@@ -66,18 +66,18 @@ Valtári has **almost no inflectional morphology**. Nouns do not decline for cas
 
 ### Sentence Structure
 
-The dominant word order is **Subject-Verb-Object (SVO)**, inherited from Haradi influence. However, flexibility is the norm. Word order variation often reflects semantic emphasis or speaker native language interference:
+The dominant word order is **Subject-Verb-Object (SVO)**, inherited from Tarûzeli influence. However, flexibility is the norm. Word order variation often reflects semantic emphasis or speaker native language interference:
 
-- _Hâkim pher mâzir_—"The captain brings water" (standard SVO; _pher_ from Helonic _pherein_)
-- _Mâzir pher hâkim_—"The captain brings the water" (topical rearrangement, emphasizing the water)
+- _Kiromu kusadu idiro_—"The captain brings water" (standard SVO; _kusadu_ from Tarûzeli _qusâd-_ "carry")
+- _Idiro kusadu kiromu_—"The captain brings the water" (topical rearrangement, emphasizing the water)
 
 ### Tense and Aspect
 
 Valtári has no tense system. **Temporal and aspectual meaning is supplied by context or optional adverbs:**
 
-- _Hâkim hûn_—"The captain is here" / "The captain was here" (context determines meaning)
-- _Hâkim vâl hâla_—"The captain is coming" (adverb _hâla_ "now" clarifies immediacy)
-- _Qâbli hâkim bâhar_—"The captain has already left" (adverb _qâbli_ "already" indicates completion)
+- _Kiromu yubo_—"The captain is here" / "The captain was here" (context determines meaning)
+- _Kiromu valen nuzo_—"The captain is coming" (adverb _nuzo_ "now" clarifies immediacy)
+- _Tanuro kiromu belgi_—"The captain has already left" (adverb _tanuro_ "already" indicates completion)
 
 This is one of the most striking features of the language: speakers must learn to infer time from context, much as they do in a standard trade negotiation.
 
@@ -85,38 +85,38 @@ This is one of the most striking features of the language: speakers must learn t
 
 Plurality is **optional and often unmarked**:
 
-- _Wâhid bârak vâl_—"One boat comes"
-- _Kathîr bârak vâl_—"Many boats come" (or _bârak-bârak_, depending on speaker)
-- _Bârak-bârak vâl_—emphatic plural (reduplication)
+- _Yezu yakodu valen_—"One boat comes"
+- _Pulumu yakodu valen_—"Many boats come" (or _yakodu-yakodu_, depending on speaker)
+- _Yakodu-yakodu valen_—emphatic plural (reduplication)
 
-Number is usually clear from context or explicit quantity markers (_khâms bârak_ "five boats", _kathîr nâvir_ "many sailors").
+Number is usually clear from context or explicit quantity markers (_fomul yakodu_ "five boats", _pulumu pelaro_ "many sailors").
 
 ### Negation
 
-Negation is expressed through the **particle _lâ_, placed before the verb or predicate:**
+Negation is expressed through the **particle _zu_, placed before the verb or predicate**; speakers of Helonic say _ufi_ in the same place:
 
-- _Lâ pher_—"Do not bring" / "He does not bring" (context clarifies)
-- _Hâkim lâ hûn_—"The captain is not here"
-- _Lâ kalo_—"That is not good" / "Not good" (standalone; _kalo_ from Helonic _kalos_)
+- _Zu kusadu_—"Do not bring" / "He does not bring" (context clarifies)
+- _Kiromu zu yubo_—"The captain is not here"
+- _Zu latara_—"That is not good" / "Not good" (standalone; _latara_ from Tarûzeli _latâran_ "fair")
 
 ### Questions
 
-Questions are formed through **rising intonation and optional question words** (_shâ_ "what", _wên_ "where", _mân_ "who", _kâi_ "when"):
+Questions are formed through **rising intonation and optional question words** (_sezo_ "what", _sezobe_ "where", _yeba_ "who", _kazebe_ "when"):
 
-- _Wên hâkim?_—"Where is the captain?"
-- _Shâ pher?_—"What are you bringing?"
-- _Hâkim hûn?_—"Is the captain here?" (intonation conveys question)
+- _Sezobe kiromu?_—"Where is the captain?"
+- _Sezo kusadu?_—"What are you bringing?"
+- _Kiromu yubo?_—"Is the captain here?" (intonation conveys question)
 
 ## Script and Literacy
 
 Valtári is **rarely written**. When it is, speakers employ:
 
-- **[[skill-hazarscrpt|Hazâri]] letters**: Common in southern ports and Haradi-dominated cities
+- **[[skill-merazanscrpt|Merâzan]] letters**: Common in southern ports and Tarûzeli-dominated cities
 - **[[skill-helnkscrpt|Helónika]] letters**: Used in northern ports and Helonic trading centers
 - **[[skill-semrnscrpt|Sêmarion]] letters**: Used in Vylarian and Aurèldían harbors, and by any factor with an imperial education
 - **Improvisational symbols**: Abbreviated marks and hastily invented notation for quick transaction records
 
-There is **no standardized Valtári orthography**. A word like "Hâkim" might be written as _hakim_, _hâkim_, _halim_, or _achim_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtári's nature: a language of the moment, not preserved in books.
+There is **no standardized Valtári orthography**. A word like _kiromu_ might be written as _kiromu_, _kyromu_, _chiromu_, or _kiromou_ depending on the scribe's native language and knowledge. This orthographic chaos reflects Valtári's nature: a language of the moment, not preserved in books.
 
 Literacy in Valtári is minimal. Most dock workers cannot read or write the language; communication is **oral and gestural**. Even merchants, who may keep written records, often rely on translators or script-speakers from their native communities to handle documentation.
 
@@ -124,7 +124,7 @@ Literacy in Valtári is minimal. Most dock workers cannot read or write the lang
 
 Valtári crystallized over centuries of maritime trade, reaching its modern form roughly 300 years ago as trade intensified. The language did not _replace_ native languages but rather _supplemented_ them—a lingua franca for the docks, not a language of home, family, or identity.
 
-The vocabulary core is **roughly 60% Haradi, 25% Helonic, and 15% other sources** (Vylari, Nordmal, even scattered Ki'ichek terms for exotic goods). This breakdown varies regionally: southern ports lean more Haradi; northern ports, more Helonic.
+The vocabulary core is **roughly 60% Tarûzeli, 25% Helonic, and 15% other sources** (Vylari, Nordmal, even scattered Ki'ichek terms for exotic goods). This breakdown varies regionally: southern ports lean more Tarûzeli; northern ports, more Helonic.
 
 Historical layers are detectable in the vocabulary:
 
@@ -138,46 +138,46 @@ The language is **constantly evolving**, with new words entering and exiting use
 
 Valtári varies noticeably by port:
 
-- **Qasirah dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Haradi-Kaliharan population. Closest to a "standard."
-- **Vashurán dialect**: Fast, clipped, heavily Haradi. Difficult for non-native Haradi speakers to follow; prized for its efficiency.
+- **Ilovanu dialect**: The prestige form; favors clarity and slower speech. Influenced by the mixed Tarûzeli-Kaliharan population. Closest to a "standard."
+- **Vashurán dialect**: Fast, clipped, heavily Tarûzeli. Difficult for non-native Tarûzeli speakers to follow; prized for its efficiency.
 - **Northern port dialects** (Velanthian coast): Softer, more Helonic-influenced. Slower, more vowel-heavy.
 - **Confederation ports** (Kaliharans coast): Mix of Kalihári cadence with Valtári vocabulary; unique tonal patterns.
 
-A trader from Qasirah moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtári will carry Nordmal phonemes and word order habits.
+A trader from Ilovanu moving to Vashurán must re-learn the rapid-fire delivery and emphatic stress patterns. Similarly, a Nordmal merchant's Valtári will carry Nordmal phonemes and word order habits.
 
 ## Sample Phrases
 
-- _Hâkim pher kalo nûmar_—"The captain offers a fair price" (Helonic _pher_ "bring" + _kalo_ "good"; Haradi _nûmar_ from _nûmarû_ "value")
-- _Lâ mushkîl, sêhab, wên bârak?_—"No trouble, friend—where is the ship?" (casual, reassuring)
-- _Mâzir, khâbiz, sûli—lazîm hâla_—"We need water, bread, and salt immediately" (urgent trade request)
-- _Ghâdir rîhaz vâl, bârak lâ sâfir_—"Tomorrow a storm comes; the boat won't be safe"
-- _Tâ kalo nâvir, qâwi dâsim, tâkhiz shûgal?_—"You're a good sailor with a strong hand—will you take this work?" (recruitment)
+- _Kiromu kusadu latara pashin_—"The captain offers a fair price" (Helonic _kiromu_ "master"; Tarûzeli _kusadu_ "carry", _latara_ "fair" and _pashin_ from _pashînû_ "fair price")
+- _Zu funatu, nurafo, sezobe yakodu?_—"No trouble, friend—where is the ship?" (casual, reassuring)
+- _Idiro, bunelo, durasu—narefu nuzo_—"We need water, bread, and salt immediately" (urgent trade request)
+- _Ilabe anevo valen, yakodu zu sotaru_—"Tomorrow a storm comes; the boat won't be safe"
+- _Ozi latara pelaro, temadu kerisu, geniru yu rusaku?_—"You're a good sailor with a strong hand—will you take this work?" (recruitment)
 
 ## Core Vocabulary
 
-The following represents the stable core of Valtári—words understood in virtually every port. Since Valtári is a pidgin, virtually every word is a loanword simplified from a parent language. Most derive from the Haradi substrate (**H**, with Haradi source form where documented), with a smaller set from Helonic (**He**) and occasional contributions from other contact languages (**O**).
+The following represents the stable core of Valtári—words understood in virtually every port. Since Valtári is a pidgin, virtually every word is a loanword bent to its sounds and stripped of its endings. Most derive from Tarûzeli (**H**, with the Tarûzeli source form), a smaller set from Helonic (**He**), and a few are of no known source (**O**). The [[doc-valtarilexcn|Valtári Lexicon]] gives every word with its source, the rules a borrowed word is bent by, and the endings that make trade names.
 
-**People & Trade:** hâkim (H) "captain, master" · mardum (H, from _mardum_) "merchant, person of trade" · empor (He, from _émpharin_) "trader, factor" · nâvir (He) "sailor, seaman" · sêhab (H) "friend, companion" · tâ "you" (informal)
+**People & Trade:** kiromu (He, from _kýros_) "captain, master" · bashimu (H, from _bashîmum_) "merchant" · emparo (He, from _émpharin_) "trader, factor" · pelaro (He, from _pléarin_ "to sail") "sailor, seaman" · nurafo (O) "friend, companion" · ozi (O) "you"
 
-**Goods & Money:** khrema (He, from _khrémashîn_) "goods, wares, cargo" · kadûm (H, from _kadûmû_) "gold, coin, money" · nûmar (H, from _nûmarû_) "price, value, worth" · kerdo (He, from _kérdhanir_) "profit, gain" · telmûsh (H, from _telmûsh_) "deal, contract, bond"
+**Goods & Money:** zazuru (H, from _zazûrûsh_) "goods, wares, cargo" · ushadu (H, from _hushâdû_) "gold, coin, money" · pashin (H, from _pashînû_) "price, value, worth" · eutalu (He, from _euthálir_) "profit, gain" · telmusu (H, from _telmûsh_) "deal, contract, bond"
 
-**Objects:** bârak (H) "boat, ship" · mâzir (H) "water" · khâbiz (H) "bread" · sûli (O, possibly Nordmal) "salt" · shîra (He) "sail, canvas"
+**Objects:** yakodu (H, from _jakûdû_) "boat, ship" · idiro (He, from _hýdhir_) "water" · bunelo (O) "bread" · durasu (He, from _durâs_) "salt" · bazunu (H, from _bazûnû_) "sail, canvas" · tazome (O) "fish"
 
-**Actions:** vâl (uncertain origin) "come, go, arrive" · pher (He, from _phéranin_) "bring, carry" · bâhar (H) "leave, depart" · dâru (H) "give, trade" · tâkhiz (H) "take, accept" · lazîm (H) "need, must" · ashûr (H, from _ashûram_) "count, measure, reckon" · qatûsh (H, from _qatûsh_) "hold, keep, grip"
+**Actions:** valen (O) "come, go, arrive" · kusadu (H, from _qusâd-_) "bring, carry" · belgi (H, from _belgin-_) "leave, depart" · dorasu (He, from _dôrash-_) "give, trade" · geniru (H, from _genîr-_) "take, accept" · narefu (O) "need, must" · kubasu (H, from _qubâs-_) "count, measure, reckon" · katusu (H, from _qatûsh_) "hold, keep, grip"
 
-**Descriptions:** kalo (He, from _kálir_) "good, fair, worthy" · mega (He, from _méghar_) "big, great" · qâwi (H) "strong, powerful" · sâfir (H) "safe, secure" · kathîr (H) "many, much"
+**Descriptions:** latara (H, from _latâran_) "good, fair, worthy" · bibuda (H, from _bibûdan_) "big, great" · temadu (H, from _temâdan_) "strong, sound" · sotaru (He, from _sôtharin_ "to save") "safe, secure" · pulumu (He, from _plûm_ "all") "many, much"
 
-**Place & Time:** poli (He, from _pólithar_) "port, harbor, city" · hûn (H) "here" · wên (H) "where" · shâ (H) "what" · mân (H) "who" · kâi (H) "when" · hâla (H) "now" · ghâdir (H) "tomorrow" · qâbli (H) "already, before"
+**Place & Time:** besiku (H, from _besîkû_) "port, harbor, port town" · yu (H, from _jû_) "this" · yubo (O) "here" · sezobe (O) "where" · sezo (O) "what" · yeba (O) "who" · kazebe (O) "when" · nuzo (O) "now" · ilabe (O) "tomorrow" · tanuro (O) "already"
 
-**Other:** lâ (H) / mâ (He, from _mâ_) "no, not" (speakers use one or the other depending on native language) · rîhaz (H) "storm, wind" · mushkîl (H) "trouble, problem" · shûgal (H) "work, labor" · dâsim (H) "hand, skill" · târik (H) "road, route" · sâmak (He) "fish" · shâmal (H) "north"
+**Other:** zu (H, from _zû_) / ufi (He, from _ûph_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funâtûsh_ "loss") "trouble, problem" · rusaku (H, from _rusâk-_ "to rig") "work, labor" · kerisu (He, from _khéiris_) "hand, skill" · odisu (He, from _hodîs_) "road, route" · toburo (O) "north"
 
-**Numerals (Haradi-derived):** wâhid "one" · thâni "two" · thlâth "three" · arbâ "four" · khâms "five" · sîtta "six" · sâbi "seven" · thamân "eight" · tîsa "nine" · âshar "ten"
+**Numerals (Tarûzeli-derived):** yezu "one" · lelor "two" · zemu "three" · nozu "four" · fomul "five" · zekoru "ten" (from Helonic _zékhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul nozu_ "nine".
 
 ## Related Languages
 
 Valtári is **fundamentally a mixed language**, not genealogically related to any single parent. It borrows extensively from:
 
-- **Haradi**: Grammar skeleton, 60% of vocabulary
+- **Tarûzeli**: Grammar skeleton, 60% of vocabulary
 - **Helonic**: Phonological innovations, 25% of vocabulary, some syntactic patterns
 - **Vylari, Nordmal, others**: Scattered lexical items, especially nautical or commodity-specific terms
 
@@ -192,7 +192,7 @@ Valtári names are not birth names but rather **trade names**—professional ide
 1. **Birth name** (in native language): Used at home, among family, in religious contexts
 2. **Valtári trade name**: Used on the docks, in business records, among colleagues
 
-In cosmopolitan ports like Qasirah and Vashurán, the trade name often becomes the name a person is known by to the outside world. Family and intimate community preserve the birth name; everyone else knows the trader by their Valtári name.
+In cosmopolitan ports like Ilovanu and Vashurán, the trade name often becomes the name a person is known by to the outside world. Family and intimate community preserve the birth name; everyone else knows the trader by their Valtári name.
 
 ### Structure and Conventions
 
@@ -200,41 +200,45 @@ Valtári trade names follow **simple, memorable patterns** that function across 
 
 **Given Name + Occupational or Geographic Epithet**
 
-- _Hâkim_ (derived from Haradi, roughly "wise" or "skilled")—common given name for merchants
-- _Tàriq_ ("road" in Haradi)—for caravan masters or widely-traveled traders
-- _Bâshir_—given name, often carried by captains and leaders
+- _Kiromu_ (the word for "captain", from Helonic)—common given name for merchants and masters
+- _Odisor_ (from _odisu_, "road")—for caravan masters or widely-traveled traders
+- _Ushador_ (from _ushadu_, "coin")—given name, often carried by moneychangers and factors
+
+A given trade name is a word of the quay with a name ending in place of its closing vowel: _-or_ for a man, _-ela_ or the softer _-eni_ for a woman, and _-an_ for anyone.
 
 **Clan or Trade Name**
 
-- _Bénari_—possibly from Haradi, denoting a family associated with small merchant vessels
-- _Êlmarah_—commodity traders; etymology disputed
-- _Sahirán_—a crew or family name of uncertain origin
+A house, a crew or a trading firm takes the ending _-ari_:
+
+- _Yakodari_ (from _yakodu_, "boat")—a family associated with small merchant vessels
+- _Kubasari_ (from _kubasu_, "count")—commodity traders and counting-houses
+- _Zazurari_ (from _zazuru_, "cargo")—a crew or family that lives by carrying other people's goods
 
 Many traders eschew clan names entirely in Valtári, instead adopting **occupational epithets**:
 
-- _Hâkim shîra-dâsim_—"Hâkim the sail-hand" (a sailmaker)
-- _Tàriq shâmal-târik_—"Tàriq of the north road" (a caravan master)
-- _Laila sâmak-dâru_—"Laila the fish-dealer" (a fishmonger)
+- _Ushador bazunu-kerisu_—"Ushador the sail-hand" (a sailmaker)
+- _Odisor toburo-odisu_—"Odisor of the north road" (a caravan master)
+- _Kusadela tazome-dorasu_—"Kusadela the fish-dealer" (a fishmonger)
 
 Names are **fluid**. A trader who makes a fortune might take a new name. A person who changes trades or relocates might adopt a new Valtári name reflecting their new role. Unlike birth names in native cultures, Valtári trade names are **practical identities**, not sacred or ancestral.
 
 ### Gender in Names
 
-Valtári names show **weak gender marking**. Many names are used by either gender; some have masculine and feminine variants (e.g., Hâkim / Hâkima), but these distinctions are not rigidly enforced. A woman captain might insist on the masculine form if it carries prestige; a man in a traditionally female trade might use a feminine variant.
+Valtári names show **weak gender marking**. Many names are used by either gender; some have masculine and feminine variants (e.g., Ushador / Ushadela), and names closing on _-an_ belong to neither, but these distinctions are not rigidly enforced. A woman captain might insist on the masculine form if it carries prestige; a man in a traditionally female trade might use a feminine variant.
 
 ## Name Lists
 
 ### Male Given Names
 
-Hâkim Tàriq Jâlil Sâlim Kâdir Mûrad Râzim Khalîl Bâshir Fâzil Safîr Zaid Nûr Jâmil Farâji Êmar Idrîs Ômar Yazîd Hakam Alîm Tâsif Zafir Bâlaj Muri Jâsar Rahmân Ibrâhim Kâsim Okâyir Mânir Ghaib Hâkeem Sarîf Karim Bâyir Âhad Uqa'id Tûmar Hamza Ilyâs Qâsid Hashem Emir Ômaran Yasir Nâdir Âmir Sa'im Wadil Zâmar Kâmal Lamir Jâfar Rahil Musid Bashîr Samad Thâbit Marwân Hâsik Minal Rahîl Amir Gabit Sharif Kârim Darim Salil Talib Khâlim Omar Zâlim Âziz Ghazi Fârid Shadal Ghaith Osân Zakir Salim Râzan Qâdar Lafim Isâm Mâhir Wazim Mutar Saqir Zumâr Tafir Nasir Jâbir Murâd Râfiq Onaj Fûzal Âshir Sâbir Larim
+Kiromu Bashimor Ushador Telmusor Kubasor Yakodor Bazunor Durasor Anevor Odisor Toburor Kusador Dorasor Katusor Kerisor Temador Sotaror Funator Geniror Lataror Bibudor Narefor Idiror Eutalor Pulumor Zazuror Nurafor Tazomor Bunelor Bashiman Emparan Nurafan Telmusan Yakodan Bazunan Durasan Bunelan Anevan Odisan Toburan Dorasan Narefan Sotaran Puluman Funatan Ilaban Zekoran
 
 ### Female Given Names
 
-Laila Fârida Mâya Zâfirah Amâra Sâmiya Zahara Khâlida Jâsira Tâliba Yasmin Hamîra Mûnira Nâdira Safiya Zamîra Rahia Fayra Lina Sahâr Râziya Wâdira Tâlida Kâlya Amîra Âbida Hasira Irâfa Mâdira Sabira Qâmira Rûhira Tâhina Elima Jâsifa Khâdija Sûmaya Fâtima Sahida Nûrana Dalila Halima Âida Samira Lînafa Mahira Rahîma Khânza Suha Jasmina Rûhiya Saharah Zalima Qâmilah Layâl Târima Mûzima Tâjira Shâmîna Azrah Sahâra Fâtira Qâbira Jalîla Nûraya Kasima Tâbira Munira Râfira Khûmar Samana Wâzima Râfiya Zînab Hâla Dahira Âlifa Sahîna Yamila Zalîna Kâriza Âsab Nasira Lamira Jâniza Mina Âlia Sahira Yârifa Lâzira Iya Zânira Fâtla Bârakâ Rahîma Ômara Jânifa Lâdina Âniya Salina
+Kiromela Bashimela Emparela Nurafela Zazurela Ushadela Pashinela Eutalela Telmusela Kubasela Yakodela Idirela Durasela Tazomela Anevela Besikela Odisela Toburela Kusadela Dorasela Genirela Narefela Rusakela Kerisela Bibudela Temadela Sotarela Pulumela Funatela Zekorela Bashimeni Empareni Pelareni Zazureni Ushadeni Pashineni Telmuseni Kubaseni Yakodeni Idireni Duraseni Tazomeni Aneveni Besikeni Odiseni Kusadeni Doraseni Genireni Narefeni
 
 ### Occupational and Clan Names
 
-Bénari Tâkima Êlmarah Qâlida Sahiran Dûfari Mâzira Bathîra Zâmari Âzhibi Fasira Râhima Shâmiri Nûlah Qâshra Jâmuri Sahâdir Târikh Lamira Kalijar Ôsarim Rûhiri Gazirah Shâlifah Bashira Qâdira Hâzimar Yâruba Wazira Khalîfa Mûhariz Tajiran Âzwarin Bâmisra Tâbirah Dâmunah Samida Jâdara Rafîla Jâfaran Lamari Mashira Wâkharan Khânzara Qâdari Nadina Sârujah Rawida Dîmbara Mânirun
+Bashimari Emparari Pelarari Nurafari Zazurari Ushadari Eutalari Telmusari Kubasari Yakodari Bazunari Idirari Durasari Bunelari Odisari Toburari Valenari Dorasari Genirari Katusari Rusakari Kerisari Latarari Bibudari Temadari Sotarari Funatari Ilabari Zekorari
 
 ## External References
 

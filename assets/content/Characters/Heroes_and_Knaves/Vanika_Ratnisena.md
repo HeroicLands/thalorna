@@ -487,7 +487,7 @@ Priestess Malini
 The Ratnisena Family
 : Her extended family, for whom she continues to work as head cook; they have given her unusual autonomy and have supported her work despite its demands.
 
-Master Musicianist Devendra
+Master Musicianist Madhusolva
 : A celebrated musician and composer who frequents the inn and has become one of Vanika's few close personal friends; he appreciates her cooking and advocates for her value and importance.
 
 ### Enemies

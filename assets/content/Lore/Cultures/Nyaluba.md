@@ -9,11 +9,11 @@ tags: []
 # terran_analog: "Iroquois Confederacy (Haudenosaunee), Sotho-Tswana morafe and Shona heirs of Great Zimbabwe: five clan-nations bound by an ancient pact, cattle-pastoral, with a stone-ruin heritage. Carries over: a league of distinct nations under a shared covenant renewed in person, council by consensus, cattle wealth, totem clans. Departs: the five clans keep lion, crocodile, eagle, leopard and baobab totems and differ in dress, dialect and marriage custom."
 ---
 
-There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Mvuzi cattle-herder and a Kambezi reed-fisher would never mistake each other for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.
+There is no Nyáluba people in the way a foreigner means it. There are five nations that share a language, a faith and a pact, and that differ in dress, dialect, ritual, marriage custom and self-conception far enough that a Ruwozi cattle-herder and a Kolembozi reed-fisher would never mistake each other for the same kind of person. What both would say at once is that they are heirs of the Long Pact. The Pact is the culture; everything else is clan.
 
 ## The Pact, and What It Forbids
 
-Nine generations ago, under a great baobab in Mvuzi country, five mutually hostile clans agreed to stop being picked apart one at a time. The catastrophe that drove them to it has been polished smooth by retelling, though the Bombwe griots hold that it was a militarist confederacy out of the central savannahs that took cattle, women and lives without distinction, and is now extinct.
+Nine generations ago, under a great baobab in Ruwozi country, five mutually hostile clans agreed to stop being picked apart one at a time. The catastrophe that drove them to it has been polished smooth by retelling, though the Lobwezi griots hold that it was a militarist confederacy out of the central savannahs that took cattle, women and lives without distinction, and is now extinct.
 
 The terms are deliberately few, and a Nyáluban child can recite them: the five clans will not raise arms against each other, and the old cattle-feuds are forsworn; the five will defend any one of the five; the five will share the great pasturelands, the rivers and the rains, each observing the others' ritual obligations to the spirits of those places; and the five will renew the Pact in person, every fourth dry season.
 
@@ -32,25 +32,25 @@ That is why the yes is worth carrying.
 
 ## Five Nations, One Grammar
 
-The **Mvuzi** are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the Great Indaba and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
+The **Ruwozi** are the lion-clan and the most numerous: cattle-herders of the central plains, first among the clans because the Pact was sworn in their country. Their paramount convenes the Great Lubemo and bears the duty of speaking last when consensus is sought. Men take a single lion-tooth at adulthood and women braid their lineage into their hair; their wealth is cattle, their watchword is courage, and their humor is as dry as the dry season.
 
-The **Kambezi** are the crocodile-clan, river-people of the eastern wetlands, and they hold the most elaborate shamanic tradition among the five. Their spirit-teachers are sought across the savannahs for judgment, healing and the negotiation of difficult spirits. A Kambezi who loses a relative to a crocodile speaks of that crocodile by name and lineage, and regards the matter as a family affair.
+The **Kolembozi** are the crocodile-clan, river-people of the eastern wetlands, and they hold the most elaborate shamanic tradition among the five. Their spirit-teachers are sought across the savannahs for judgment, healing and the negotiation of difficult spirits. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and lineage, and regards the matter as a family affair.
 
-The **Ngonzi** are the eagle-clan: highlanders, herders and goldsmiths, and the only clan that works stone. Their relationship to the Old Kraals of the lost stone-builders is lineal, intimate and largely opaque to everyone else, including the other four clans. Ngonzi gold is the only Nyáluban export reaching the northern civilizations in quantity.
+The **Ngonzi** are the eagle-clan: highlanders, herders and goldsmiths, and the only clan that works stone. Their relationship to the Old Hetos of the lost stone-builders is lineal, intimate and largely opaque to everyone else, including the other four clans. Ngonzi gold is the only Nyáluban export reaching the northern civilizations in quantity.
 
 The **Sengala** are the leopard-clan, the northern traders and intermediaries with the rainforest peoples—the most outward-looking, the most polyglot, and the most stratified, with a class of professional traders approaching a hereditary specialty. The other clans regard that arrangement with a mixture of admiration and unease.
 
-The **Bombwe** are the baobab-clan: settled cultivators of the perennial-water districts and keepers of the senior griot tradition. They are the smallest and the ritually most senior, because the official memory of the Pact and the genealogies of all five clans are carried by Bombwe griots. Each town centers on an ancient baobab whose custodian is the town's senior griot, and Bombwe manner is slow and deliberate: they speak last in any council, and what they say is generally remembered.
+The **Lobwezi** are the baobab-clan: settled cultivators of the perennial-water districts and keepers of the senior griot tradition. They are the smallest and the ritually most senior, because the official memory of the Pact and the genealogies of all five clans are carried by Lobwezi griots. Each town centers on an ancient baobab whose custodian is the town's senior griot, and Lobwezi manner is slow and deliberate: they speak last in any council, and what they say is generally remembered.
 
 ## Memory Is a Profession
 
 There is no writing here and no shortage of records, because there are griots—trained professionals whose accuracy is the confederation's title to its own history, holding genealogies, boundaries, the terms of the Pact, and who owes whom what and since when.
 
-A Nyáluban therefore treats speech as an instrument with weight. What is said at an Indaba is remembered exactly, by someone whose whole standing rests on remembering it exactly, and a man who says a careless thing in front of a griot has not made a remark. He has entered a record.
+A Nyáluban therefore treats speech as an instrument with weight. What is said at a Lubemo is remembered exactly, by someone whose whole standing rests on remembering it exactly, and a man who says a careless thing in front of a griot has not made a remark. He has entered a record.
 
 ## The Drums
 
-The Nyáluba carry messages by drum-language, a tonal encoding of the tongue relayed through stations across all five territories, and a message crosses the whole confederation in about two days. The Great Indaba meets once in four years; the paramounts are in near-continuous consultation.
+The Nyáluba carry messages by drum-language, a tonal encoding of the tongue relayed through stations across all five territories, and a message crosses the whole confederation in about two days. The Great Lubemo meets once in four years; the paramounts are in near-continuous consultation.
 
 Defense, disaster, deaths in senior lineages, ceremonial timing, market prices and herd movements all travel by drum. Northern peoples who depend on relay riders would find the speed startling if they knew of it, and the Sengala have been carefully unforthcoming with their rainforest neighbors about how the drums actually work.
 
@@ -64,9 +64,9 @@ A Nyáluban finds the question whether he believes in the spirits a strange one.
 
 ## Cattle, Consensus and the Slow Word
 
-Wealth is cattle among the Mvuzi, gold among the Ngonzi, trade among the Sengala, grain among the Bombwe and the river among the Kambezi, and each clan quietly believes its own kind is the real kind.
+Wealth is cattle among the Ruwozi, gold among the Ngonzi, trade among the Sengala, grain among the Lobwezi and the river among the Kolembozi, and each clan quietly believes its own kind is the real kind.
 
-Decision is by consensus, and consensus here is a technique with rules. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Mvuzi paramount and the Bombwe griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and the slowness foreigners take for indecision is the most sophisticated thing in Nyáluban public life.
+Decision is by consensus, and consensus here is a technique with rules. A council does not vote: it talks until the objections stop, in an order fixed by custom, with the senior speaker last. The Ruwozi paramount and the Lobwezi griot therefore hold the same instrument—the right to speak into a silence everyone else has already filled—and the slowness foreigners take for indecision is the most sophisticated thing in Nyáluban public life.
 
 Feuds between clans are forsworn. Feuds within a clan are not, and elders settle them in cattle.
 
@@ -78,7 +78,7 @@ Below all three he owes the spirits their proper posture, and what that asks is 
 
 ## See Also
 
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans, the Pact and the Great Indaba
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the five clans, the Pact and the Great Lubemo
 - [[place-sthrnsvnhs|Southern Savannahs]]—the country the clans move through
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]]—the totems, the spirits and the three postures
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the spirits themselves and how they are handled
@@ -86,11 +86,11 @@ Below all three he owes the spirits their proper posture, and what that asks is 
 
 ## Glossary {#glossary}
 
-| Term           | Meaning                                                                                                             |
-| -------------- | ------------------------------------------------------------------------------------------------------------------- |
-| drum-master    | Keeper of a central relay station of the drum network; the Sengala post has no public holder                        |
-| drum-speaker   | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                         |
-| Mwána-Mvuzi    | "Daughter of the Lion": the hereditary title of the senior Mvuzi woman, the paramount who convenes the Great Indaba |
-| Old Kraal      | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                    |
-| spirit-speaker | One taken through the ordeal and trained to address and negotiate with the guides for a clan                        |
-| trail-reader   | A Fénjara tracker who follows trails across the spirit world                                                        |
+| Term           | Meaning                                                                                                              |
+| -------------- | -------------------------------------------------------------------------------------------------------------------- |
+| drum-master    | Keeper of a central relay station of the drum network; the Sengala post has no public holder                         |
+| drum-speaker   | Relayer of messages in the drum-language, who also keeps the drumming that opens every rite                          |
+| Nyóli Ruwozi   | "Daughter of the Lion": the hereditary title of the senior Ruwozi woman, the paramount who convenes the Great Lubemo |
+| Old Heto       | A stone enclosure of the lost builders in the highlands, held by the Ngonzi and closed to others                     |
+| spirit-speaker | One taken through the ordeal and trained to address and negotiate with the guides for a clan                         |
+| trail-reader   | A Fénjara tracker who follows trails across the spirit world                                                         |

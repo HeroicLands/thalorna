@@ -39,8 +39,8 @@ Okháric employs a moderately-complex consonantal inventory influenced by areal 
 
 **Fricatives:**
 
-- Unvoiced: f, s, sh (as in "ship"), kh (a rasp at the back of the throat, as when clearing it)
-- Voiced: z, zh (as the "s" in "measure")
+- Unvoiced: f, s, sh (as in "ship"), th (as in "thin"), kh (a rasp at the back of the throat, as when clearing it)
+- Voiced: v, z, zh (as the "s" in "measure")
 
 **Nasals:** m, n, ng (ŋ, particularly in final position)
 
@@ -155,10 +155,12 @@ Regional speech shows considerable variation:
 ## Sample Phrases
 
 1. **Okháré, né thalé**—_Greeting; literally "Okháric one, greetings"_
-2. **Khátu en ónda**—_Blessing formula; "May the kingdom endure"_
-3. **Sómba ren, lékha órung**—_Affirmation; "In the name of the ancestors, I stand firm"_
+2. **Zhondu en tharom**—_Blessing formula; "May the kingdom endure"_
+3. **Sómba ren, ngém órung**—_Affirmation; "In the name of the ancestors, I stand firm"_
 4. **Mákoro en zarûn**—_Trade expression; "May prosperity flow"_
-5. **Tébu khuma shára en óta**—_Sacred oath; "Let the earth witness this truth"_
+5. **Khuthel en shára tébu sêmbor**—_Sacred oath; "Let the earth witness this truth"_
+
+The [[doc-okharclexcn|Okháric Lexicon]] holds the words these phrases are built from, the endings that make titles and names, and the register of every Okháric name in the setting.
 
 ## Related Languages
 
@@ -182,21 +184,21 @@ In Okháric tradition, names are deeply connected to ancestral identity, spiritu
 - Many reference qualities valued in the culture: strength, courage, wisdom, endurance
 - Often compound structures joining a descriptor with a suffix marking masculine gender or status
 - Characteristic phonology includes prominent nasals and the velar fricative /kh/
-- Examples: _Kwâmi_ (strength-bearer), _Ngoro_ (one of the river), _Táfari_ (traveler)
+- Examples: _Kwâthor_ (strength-bearer), _Ngoro_ (one of the river), _Táfuro_ (traveler)
 
 **Given Names (Female):**
 
 - Similarly structured but often ending in open vowels or the feminine suffix -a or -i
 - Many reference beauty, grace, fertility, or connection to nature
 - Frequently incorporate diminutive suffixes, creating terms of endearment
-- Examples: _Ádira_ (noble woman), _Kíma_ (beloved), _Nyóra_ (the river's gift)
+- Examples: _Ádhora_ (noble woman), _Kíthma_ (beloved), _Nyóra_ (the river's gift)
 
 **Clan or Tribe Names:**
 
 - Typically reference the ancestral founder, a geographical feature, or a significant historical event
 - Often elaborate compounds marking the relationship to a sacred site or spiritual principle
 - May include honorific prefixes or suffixes marking the tribe's status or military prowess
-- Examples: _Mbárazi_ (the gatherers), _Ngóma_ (drum-people, keepers of tradition), _Dómana_ (river-lords)
+- Examples: _Mbárazi_ (the gatherers), _Ngómbeth_ (drum-people, keepers of tradition), _Dómana_ (river-lords)
 
 ### Titles and Honorifics
 
@@ -211,28 +213,28 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Amâru
 - Báhatu
 - Bâho
-- Bára
 - Bárachi
+- Bárakho
 - Báwè
 - Bázou
-- Chômba
-- Chuma
+- Chômbaro
+- Chúmeth
 - Daígu
-- Déma
+- Déthu
 - Dòuma
-- Ebo
 - Éduma
 - Ésa
-- Ézi
+- Ézhi
+- Ezóro
 - Fomâ
 - Ghálu
-- Ghíza
+- Ghízu
 - Gôbi
-- Hama
+- Hámbor
 - Ijâto
 - Ikári
-- Isáka
-- Jâmira
+- Isóreth
+- Jâmuro
 - Jara
 - Jára
 - Jéngu
@@ -242,59 +244,59 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Jûka
 - Kápio
 - Kélé
-- Kênya
+- Kênthor
 - Kíngarè
-- Kwâmi
-- Laki
+- Kwâthor
+- Lákhor
 - Lémi
 - Lépi
-- Lésedi
+- Lésothi
 - Lézaru
 - Loîsa
 - Lôro
 - Lótso
 - Makôda
-- Mánje
+- Mánjor
 - Mbána
 - Mbâto
-- Mbélé
+- Mbéleth
 - Môseka
 - Néka
 - Ngalé
 - Ngálu
-- Ngâra
+- Ngâthu
 - Ngoro
 - Nkámu
 - Nkósa
 - Ntemba
-- Nyara
+- Nyárol
 - Omàla
 - Omárè
 - Ómari
 - Oméngo
 - Omílo
 - Ôrube
-- Òta
+- Ótham
 - Ôwaki
 - Pâjo
 - Pâro
 - Pêka
-- Rémbo
+- Rémbol
 - Rito
 - Rômba
 - Rómbo
 - Rûko
-- Saídou
+- Saídhor
 - Sákora
-- Sámba
+- Sámbaro
 - Sòmba
-- Táfari
+- Táfuro
 - Táki
 - Tálo
 - Tárasi
 - Târo
-- Téka
 - Teko
+- Tékor
 - Téso
 - Tîdi
 - Tiru
@@ -306,46 +308,46 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Wêga
 - Yambá
 - Zéli
-- Zénu
+- Zénthar
 - Zûmi
 
 ### Female Names
 
 - Adéli
-- Ádira
+- Ádhora
 - Akázi
 - Akéva
 - Amíla
-- Ári
+- Árethi
 - Ásira
-- Bána
+- Bánthi
 - Bêda
-- Béka
-- Boma
+- Bérathi
+- Bómeli
 - Búkisa
 - Dáura
 - Dóuma
 - Éwura
 - Ézura
 - Fáreba
-- Fúmba
-- Fûra
+- Fúmbari
+- Fûreli
 - Ìra
 - Jára
 - Jêza
 - Jomára
 - Kára
-- Kéña
-- Kênza
+- Kênthi
 - Késa
-- Kíma
-- Kímba
-- Kúla
+- Kéthira
+- Kímbeli
+- Kíthma
+- Kúlari
 - Láfara
-- Láni
-- Léva
+- Lánthi
+- Lévara
 - Léya
-- Lînga
+- Língola
 - Lômba
 - Mbâka
 - Mbála
@@ -353,21 +355,21 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Mbéda
 - Mbíka
 - Mbúla
-- Mìla
+- Mílatha
 - Míseka
 - Múseka
 - N'aléya
 - N'kála
 - Nábàla
 - Nángu
-- Ndani
+- Ndárima
 - Ndóri
 - Nêba
 - Ngási
 - Ngómi
-- Ngôzi
+- Ngôthi
 - Nôla
-- Nôma
+- Nômeli
 - Nyómi
 - Nyóra
 - Òféwa
@@ -383,32 +385,32 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Ôruna
 - Ôtala
 - Pékani
-- Póra
+- Pórali
 - Ráto
 - Ríya
 - Rûta
-- Sáfira
+- Sáfila
 - Sândi
-- Sárai
+- Sárela
 - Sáru
 - Sáshi
-- Sènga
+- Séngola
 - Shéwa
 - Súna
-- Táma
+- Támbori
 - Taméka
-- Tári
+- Táreli
 - Táriya
 - Tásara
 - Táwo
 - Tébo
 - Tébu
-- Téma
+- Témbeli
 - Ténzi
 - Úmeja
-- Waka
-- Wîta
-- Zámira
+- Wákori
+- Wíthala
+- Zámola
 - Zani
 - Zéra
 
@@ -418,8 +420,8 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Árambu
 - Ároka
 - Bámare
-- Bêka
 - Békata
+- Bêkhar
 - Chándira
 - Dángura
 - Dómana
@@ -430,7 +432,6 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Fámali
 - Fímbwa
 - Fóyira
-- Góbani
 - Góbani
 - Ibári
 - Jákora
@@ -459,19 +460,19 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Múbari
 - Múgba
 - Múlangi
+- N'dálu
+- N'ózi
 - Nánjeri
 - Ndámo
 - Ndépi
 - Nézika
 - Ngáleza
 - Ngôlu
-- Ngoma
+- Ngómbeth
 - Ngósai
 - Nôgari
 - Nómbo
-- Nyánda
-- N'dálu
-- N'ózi
+- Nyánthel
 - Óbamba
 - Ókwebo
 - Òlumba
@@ -498,8 +499,8 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Sónkara
 - Tábuza
 - Tángwári
-- Tárabu
 - Tárézi
+- Tárombu
 - Tébara
 - Térámi
 - Téwala
@@ -510,7 +511,7 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Úlambo
 - Wánduri
 - Wótara
-- Yûmba
+- Yûmbaro
 - Záturi
 - Zékara
 - Zúmara

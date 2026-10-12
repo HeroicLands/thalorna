@@ -220,7 +220,7 @@ The Ordo keeps regional chapters in every significant city and territory within 
 - **[[affiliation-provincvld|Sâlkhâlon]] and [[affiliation-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
 - **[[affiliation-provncmktr|Moktur]]:** A limited presence. The frontier military governors tolerate the Ordo and do not prioritize its agenda.
 - **[[place-provenzrgn|Provènzia Region]]:** Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Ordo.
-- **[[affiliation-cnfdrtnhrdnstts|Harad]]:** Active and politically constrained. The merchant guilds see the Ordo as a tool of Vylarian influence and have restricted its activities.
+- **[[affiliation-cnfdrtntrzlnstts|Tarûzel]]:** Active and politically constrained. The merchant guilds see the Ordo as a tool of Vylarian influence and have restricted its activities.
 - **[[place-tarvenirgn|Tarvénia Region]]:** A minimal presence. A handful of chapters in major cities work cautiously in a culture deeply hostile to institutional magic.
 - **[[place-elavendre|Élavendre]]:** A substantial urban presence centered on the **University of Béravel**, the largest Epistemium campus outside Vylaria, with several Sodalitas chapterhouses in residence. The Ordo has considerable influence in the capital and the larger towns, rivaling or exceeding the [[affiliation-bardicolgs|Bardic Circle]] and the [[affiliation-groveconcl|Grove Council]]. Outside the cities its reach is fiercely contested by traditional institutions and the [[affiliation-alndnwrdns|Áelendan Wardens]], and agents who probe the fae-touched interior do so at real personal risk.
 - **[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms:** No presence. The Nordmen have their own völvur traditions and no interest in southern magical bureaucracy.
@@ -287,9 +287,9 @@ The Ordo is not naive about this. Senior Quaesitores and imperial spymasters wat
 
 ### The Decline Problem, and the Opportunity
 
-The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Ordo's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtnhrdnstts|Harad]] no longer accept Vylarian authority, and the Ordo's chapters there must negotiate their own terms with local powers.
+The Empire's decline has strained the arrangement to its limits. As the Empire weakens, the Ordo's ability to project power through imperial channels shrinks. Former provinces such as [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-cnfdrtntrzlnstts|Tarûzel]] no longer accept Vylarian authority, and the Ordo's chapters there must negotiate their own terms with local powers.
 
-For some factions within the Ordo this is also an opportunity. The decline forces the Ordo to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provènzia the Ordo works under royal oversight, and the Provenzian crown has come to depend on its services. In Harad the merchant guilds restrict the Ordo and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Ordo academies rather than leave the talent untrained.
+For some factions within the Ordo this is also an opportunity. The decline forces the Ordo to build direct relationships with the successor states, relationships that no longer pass through the Vylarian court. In Provènzia the Ordo works under royal oversight, and the Provenzian crown has come to depend on its services. In Tarûzel the merchant guilds restrict the Ordo and also hire its mages. Even in Tarvénia, where the culture is deeply hostile to institutional magic, local lords quietly send their gifted children to Ordo academies rather than leave the talent untrained.
 
 The Ordo is becoming a cross-realm institution whose authority derives from no single state but from its monopoly on essential services. The Vylarian reckoning still counts from the founding of the Empire in lands that no longer obey the Augustar, and in the same way the Ordo's standards, training, certifications and prohibitions are becoming the shared framework of arcane practice across western Ankaris, a framework that will outlast the Vylarian throne.
 
@@ -299,7 +299,7 @@ The Ordo argues the point internally. Traditionalists hold to the imperial relat
 
 The Ordo's pursuit of the fugitive siblings aboard [[affiliation-thetamzir|the Tamzîr]] shows the Order's methods at their most relentless. The sister, a damaged arcane prodigy, was the subject of Ordo experimentation. Her escape is a security breach, because she knows things the Ordo would prefer to keep secret, and an affront to its authority, because she is an extremely powerful unsanctioned practitioner beyond its control.
 
-The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Haradian ports, Quaesitorium investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzîr today; it needs only to make sure the crew can never stop running.
+The Ordo hunts the siblings through its preferred channels: Vylarian imperial agents, [[affiliation-auricompct|guild]] contacts in Tarûzelian ports, Quaesitorium investigators and hired bounty hunters. Its approach is patient and methodical. It does not need to catch the Tamzîr today; it needs only to make sure the crew can never stop running.
 
 ## See Also
 
@@ -307,6 +307,6 @@ The Ordo hunts the siblings through its preferred channels: Vylarian imperial ag
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Primary political patron
 - [[affiliation-provinclys|Province of Alyssa]]—Headquarters location
 - [[place-helionis|Heliónis]]—Birthplace of the Panepistemium; complicated coexistence with local traditions
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Contested territory, complicated by post-independence politics
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Contested territory, complicated by post-independence politics
 - [[place-elavendre|Élavendre]]—Contested presence; rival druidic tradition
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—No presence, and its visiting agents watched; older and more powerful magical establishment

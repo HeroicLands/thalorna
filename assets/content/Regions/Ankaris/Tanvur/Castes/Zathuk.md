@@ -3,7 +3,7 @@ shortcode: zathuk
 name: {full: Zāthük, aliases: []}
 type: lore
 subType: law
-description: "The fifth caste of Tānvür—artisans and craftsmen, the Vüsrën who are the empire's common soldiers and watch, and the Yātvōr healers whom every caste defers to."
+description: "The fifth caste of Tānvür—artisans and craftsmen, the Vüsnürk who are the empire's common soldiers and watch, and the Yātvōr healers whom every caste defers to."
 data: {packFolder: castes}
 ---
 
@@ -19,19 +19,19 @@ The [[lore-castelaws|Caste Laws]] give the Zāthük three rights:
 
 - **Trade**: an artisan may sell his own work for profit, at his own stall or through a merchant.
 - **Craft**: he may follow his trade and train others in it under his guild's rules.
-- **Arms**: the Vüsrën among them may carry weapons, as described below.
+- **Arms**: the Vüsnürk among them may carry weapons, as described below.
 
 They bind the caste with three restrictions:
 
-- **Service**: a Vüsrën answers a [[lore-vushok|Vüshōk]] commander's call to war.
+- **Service**: a Vüsnürk answers a [[lore-vushok|Vüshōk]] commander's call to war.
 - **Marriage**: Zāthük may marry in law, and marriage outside the caste is shunned; a craftsman who weds a merchant's daughter loses his guild's countenance.
 - **No office**: no Zāthük may hold an administrative post or take part in governance.
 
-## The Vüsrën
+## The Vüsnürk
 
-The _Vüsrën_ (common soldiers) are the Zāthük who bear arms. They are the empire's spearmen and archers in war and its watch in peace: they guard the gates and granaries, walk the market streets, take a thief to the magistrate and stand behind the officer who reads a sentence. They are the only people below the Vüshōk who may carry a weapon openly, and they are treated with more deference than an ordinary craftsman because their work can kill them.
+The _Vüsnürk_ (common soldiers) are the Zāthük who bear arms. They are the empire's spearmen and archers in war and its watch in peace: they guard the gates and granaries, walk the market streets, take a thief to the magistrate and stand behind the officer who reads a sentence. They are the only people below the Vüshōk who may carry a weapon openly, and they are treated with more deference than an ordinary craftsman because their work can kill them.
 
-When a shopkeeper in a Tānvüri town is robbed, it is a Vüsrën he goes to, and the Vüsrën who walks that street usually knows already who did it. The watch enforces the Caste Laws at street level, investigates small crimes and keeps order in its own quarter, and it takes larger matters to the Vüshōk magistrate above it.
+When a shopkeeper in a Tānvüri town is robbed, it is a Vüsnürk he goes to, and the Vüsnürk who walks that street usually knows already who did it. The watch enforces the Caste Laws at street level, investigates small crimes and keeps order in its own quarter, and it takes larger matters to the Vüshōk magistrate above it.
 
 ## The Yātvōr
 
@@ -42,9 +42,9 @@ The Yātvōr (healers) are the empire's apothecaries and physicians. They are Z�
 **The ranks.** A healer rises through four:
 
 1. _Thëizhëit_ (apprentice), learning the foundations at a master's side.
-2. _Yātgüng_ (practitioner), licensed to treat and to dispense remedies.
+2. _Yātgīrk_ (practitioner), licensed to treat and to dispense remedies.
 3. _Dākyāt_ (renowned healer), a master of proven skill.
-4. _Vōryāt_ (grand healer), whose knowledge of the body is held to be nearly complete, and whose counsel is sought by the Zhëklüng.
+4. _Vōryāt_ (grand healer), whose knowledge of the body is held to be nearly complete, and whose counsel is sought by the Zhëkzhös.
 
 **The two branches.** The _Yātzāt_ (herb-masters) are the apothecaries, who compound remedies from roots, leaves, minerals and animal parts. The _Zhëkyāt_ (life-givers) are the physicians, who dress wounds, set bones, cut and stitch, and sit with the patient.
 
@@ -60,9 +60,9 @@ Most [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] who live within 
 
 - [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Zāthük
 - [[lore-medicine|Medicine]]—the healing art of the Yātvōr
-- [[lore-vushok|Vüshōk]]—the warrior nobility who command the Vüsrën
+- [[lore-vushok|Vüshōk]]—the warrior nobility who command the Vüsnürk
 - [[lore-tanthei|Tānthëi]]—celestial scholars, the caste above, who treat the spirit-sick with the Yātvōr
 - [[lore-nokvur|Nōkvür]]—peasant farmers, the caste below
-- [[lore-shukren|Shükrën]]—the merchants who carry Zāthük work to market
-- [[lore-zeisik|Law and Honor]]—the law the Vüsrën enforce
+- [[lore-shuknurk|Shüknürk]]—the merchants who carry Zāthük work to market
+- [[lore-zeisik|Law and Honor]]—the law the Vüsnürk enforce
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial society and structure

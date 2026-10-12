@@ -81,7 +81,7 @@ Verbs are inflected for **aspect (ongoing, completed, habitual)** rather than te
 
 - **Ongoing**: _-an_ suffix (e.g., _rithan_—"flowing" / "continuing to flow")
 - **Completed**: _-a_ suffix (e.g., _ritha_—"flowed" / "has flowed")
-- **Habitual**: _-athei_ suffix (e.g., _riathathei_—"flows regularly" / "is the nature of flowing")
+- **Habitual**: _-athei_ suffix (e.g., _rithathei_—"flows regularly" / "is the nature of flowing")
 
 Example: _Kuethori rithan_ = "The swift current flows" (ongoing action)
 
@@ -138,10 +138,10 @@ Port Kalihári retains perhaps 70% of Interior Kalihári vocabulary; the remaini
 Geographic and cultural separation has produced subtle but noticeable dialects:
 
 - **Interior High Speech** (central Confederation): Purest form, slowest pronunciation, most conservative grammar. Considered the prestige dialect by Kaliharans.
-- **Coastal variants**: Faster speech, incorporation of Valtári elements, slightly simplified verb forms. Regional ports (Qasirah, Vashurán) have their own coastal flavors.
+- **Coastal variants**: Faster speech, incorporation of Valtári elements, slightly simplified verb forms. Regional ports (Ilovanu, Vashurán) have their own coastal flavors.
 - **Sacred register**: Employed in rituals and formal contexts. More archaic verb forms, elevated vocabulary, exaggerated tonal patterns.
 
-A trader from Qasirah speaking Kalihári will sound notably different from an Interior Confederation elder—one sounds practical and modern, the other ceremonial and ancient.
+A trader from Ilovanu speaking Kalihári will sound notably different from an Interior Confederation elder—one sounds practical and modern, the other ceremonial and ancient.
 
 ## Sample Phrases
 

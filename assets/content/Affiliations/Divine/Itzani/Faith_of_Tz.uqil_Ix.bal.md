@@ -39,23 +39,23 @@ data:
         description: >-
           "Edge-Walker"—an initiate serving in the temples while learning the calendar, the sacred texts and the autosacrificial disciplines the priesthood demands of every member.
       - level: 5
-        title: Ch'ul'bal
+        title: Ch'alixbal
         description: >-
           "Sacred Servant"—an ordained priest, trained from childhood in mathematics, astronomy, writing and the reading of celestial signs, who keeps the daily rites and the codices.
       - level: 6
-        title: K'ul
+        title: Ch'alix
         description: >-
-          "Keeper"—head of one specialist branch within a temple complex, answerable to its K'ul Tq'an and contending with the other branches for resources, precedence and favor.
+          "Keeper"—head of one specialist branch within a temple complex, answerable to its Ch'alix Tq'an and contending with the other branches for resources, precedence and favor.
       - level: 7
-        title: K'ul Tq'an
+        title: Ch'alix Tq'an
         description: >-
           "Sacred Boundary"—high priest of a temple complex, who alone performs the great sacrificial rites at the turning of the cosmic cycles and holds the calculations that predict when an age will end.
       - level: 8
-        title: Presiding K'ul Tq'an
+        title: Presiding Ch'alix Tq'an
         description: >-
-          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a K'inmah's succession.
+          The Ch'alix Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes the calendar for the whole city, presides at the K'ayik Kul'al, and rules whether the gods approve a Tz'enmah's succession.
     offices:
-      K'ul Ix'bal: >-
+      Ch'alix Ix'bal: >-
         Keeper of the death-walkers—head of the funerary branch in a temple complex, and the priest who answers to the city when a burial goes wrong.
       Keeper of the Codices: >-
         Holds the funerary texts and tests every Ix'bal'ob on them by recitation, since a misspoken prayer can strand a soul.
@@ -65,10 +65,10 @@ data:
         Keeps the descending stair and the pool chamber beneath it, and rules who may go down and on which night.
       Warden of the Threshold: >-
         Watches for souls that have come back out—the office the priesthood created after Pik'ul Tz'umaq's fall, and the one it least likes to discuss.
-      K'ul Pik'ob: >-
+      Ch'alix Pik'ob: >-
         Keeper of the owls—head of the contemplative branch, who teaches the theology of dissolution and answers for its philosophers.
       Keeper of the Sacred Groves: >-
-        Maintains the Ch'ulba K'anal, where decay is permitted to proceed without interference, and records what the forest takes.
+        Maintains the Xik'tel K'anal, where decay is permitted to proceed without interference, and records what the forest takes.
       Master of the Platforms: >-
         Oversees sky burial where it is practiced: the exposure of bodies, the reading of the birds, and the gathering of the bared bone.
   seat: null
@@ -101,9 +101,9 @@ The most significant ceremonies occur during the turning of the Tz'uqal Cycle, w
 
 The temples of Tz'uqil Ix'bal descend rather than ascend—great staircases lined with carvings of jaguars and ancestors lead downward to pool chambers, vast underground lakes with waters black and still. They are the only Itzáni temples built downward, and a city's death-temple is often older than the pyramid that overlooks it, since the sacred pool was there before the city was.
 
-The branch is divided in two, and the division is theological rather than administrative. The **Ix'bal'ob**—the death-walkers—serve the jaguar: they attend the dying, recite the trials, conduct the descent and keep the codices. Their training is memorial above all, and an Ix'bal'ob who fumbles a recitation in public is not merely embarrassed but held to have done a family lasting harm. Their **K'ul Ix'bal** is one of the most consulted priests in any city, and the least ceremonial; he is expected to be reachable at any hour.
+The branch is divided in two, and the division is theological rather than administrative. The **Ix'bal'ob**—the death-walkers—serve the jaguar: they attend the dying, recite the trials, conduct the descent and keep the codices. Their training is memorial above all, and an Ix'bal'ob who fumbles a recitation in public is not merely embarrassed but held to have done a family lasting harm. Their **Ch'alix Ix'bal** is one of the most consulted priests in any city, and the least ceremonial; he is expected to be reachable at any hour.
 
-The [[affiliation-pikob|Pik'ob]]—the owl keepers—represent the contemplative branch of Tz'uqil Ix'bal's service. They maintain the **Ch'ulba K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth. The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die—and to embrace this not as tragedy but as freedom.
+The [[affiliation-pikob|Pik'ob]]—the owl keepers—represent the contemplative branch of Tz'uqil Ix'bal's service. They maintain the **Xik'tel K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced—bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth. The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die—and to embrace this not as tragedy but as freedom.
 
 The Pik'ob take few initiates and take them late; a candidate is usually a person who has already lost a great deal, and the branch is frank that it recruits from grief. Their groves hold no images and their rites have no fixed hours. What they teach is taught by sitting in a place where things are rotting and being asked what one finds objectionable about it. The other branches regard them with a mixture of respect and unease, and the **Abandoned Temple** doctrine that some Pik'ob philosophers advance—that a sacred building should at some point be deliberately surrendered to the forest—is a standing quarrel with every priesthood that builds.
 
@@ -111,7 +111,7 @@ The Pik'ob take few initiates and take them late; a candidate is usually a perso
 
 With [[affiliation-xaqikhanal|Xaq'ik Ha'nal]] the death branch shares its holiest ground and nearly nothing else. Every sacred pool is at once a portal to Ch'al Tz'umaq and the body of the goddess of living waters, and the two priesthoods have worked out, over centuries and not without acrimony, which waters belong to which rite and on which nights. In most city-states the arrangement holds; where it has broken down, it has broken down badly, and the memory of a sacred pool fought over is a long one.
 
-Toward [[affiliation-kinultqan|K'in'ul Tq'an]] the branch keeps a scrupulous cooperation that conceals an unreconciled premise. The solar god insists the cycle must be held; the death jaguar teaches that everything inside it is meant to end. The death-walkers bury the solar priests with full honor and the solar priests sanction the Taq'tzuqalil without complaint, and neither branch has ever conceded a word of doctrine to the other.
+Toward [[affiliation-tzenultqan|Tz'en'ul Tq'an]] the branch keeps a scrupulous cooperation that conceals an unreconciled premise. The solar god insists the cycle must be held; the death jaguar teaches that everything inside it is meant to end. The death-walkers bury the solar priests with full honor and the solar priests sanction the Taq'tzuqalil without complaint, and neither branch has ever conceded a word of doctrine to the other.
 
 The branch's closest working partner is [[affiliation-naliktzuqal|Nal'ik Tz'uqal]]. Dreams of the dead are common and are taken seriously, and a dream-keeper who receives one refers the dreamer to the Ix'bal'ob rather than interpreting it alone. The dream-temples also supply the branch with something it badly needs—a place to send the bereaved who cannot be consoled by the doctrine that death is merely passage.
 

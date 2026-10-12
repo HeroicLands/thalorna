@@ -20,17 +20,17 @@ A caravan coming out of the open desert sees Amradad first as a line of green on
 
 ## Geography
 
-The region runs from the eastern shore of the [[place-vylarianse|Vylarian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Byzaría Region]] of the [[affiliation-byzarianlg|Byzarian League]] lies along its northern border, the islands of [[affiliation-cnfdrtnhrdnstts|Harad]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Aû'Khelâthu]].
+The region runs from the eastern shore of the [[place-vylarianse|Vylarian Sea]] inland to the edge of the open desert. The [[place-byzariargn|Byzaría Region]] of the [[affiliation-byzarianlg|Byzarian League]] lies along its northern border, the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]] across the strait to the west, and its southern edge reaches toward [[place-aukhelathrgq|Aû'Khelâthu]].
 
 This is the desert's wettest margin, which is not saying much. A thin winter rain falls here that the deep south never sees, enough for herding on dry pasture and a narrow belt of grass that greens for a season. Settlement follows the water: the permanent oases, which the cities stand on, and the wadis that run after the winter rains, along which the farming villages string out their fields and orchards.
 
 ## Places
 
-- [[place-shamsun|Shamsûn]]—the oasis city of the Sultan's court
+- [[place-shebarekh|Shêbarekh]]—the oasis city of the Sultan's court
 - [[place-tahrodan|Tahrodan]]—the fortress city on the caravan road, largest in the realm
-- [[place-golshahr|Golshahr]]—a walled city of the oases
-- [[place-mihrabad|Mihrabad]] and [[place-zaristan|Zaristan]]—market towns of the caravan roads
-- [[place-sarath|Sarath]]—a farming settlement whose elders keep an astrologer
+- [[place-qarvelekh|Qarvelekh]]—a walled city of the oases
+- [[place-tazhinekh|Tazhinekh]] and [[place-venzelekh|Venzelekh]]—market towns of the caravan roads
+- [[place-sorvadekh|Sorvadekh]]—a farming settlement whose elders keep an astrologer
 
 ## Peoples and Culture
 
@@ -38,11 +38,11 @@ The Amradi are of Dunhari blood and still count themselves part of the wider Dun
 
 ## Power
 
-A hereditary Sultan rules from Shamsûn, through a Grand Vizier, the ministers of his divans, and a governor (_wali_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Sultanate is on warm terms with Harad, which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
+A hereditary Sultan rules from Shêbarekh, through a Grand Vizier, the ministers of his divans, and a governor (_tâgemôr_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Sultanate is on warm terms with Tarûzel, which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
 
 ## See Also
 
 - [[place-dunharargn|Dunhara Region]]—the parent region
 - [[affiliation-sultntmrdd|Sultanate of Amradad]]—the realm that holds this region
 - [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert beyond the cities
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the islands across the strait
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the islands across the strait

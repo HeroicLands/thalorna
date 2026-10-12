@@ -20,7 +20,7 @@ The tribes hold that the sand is a patient animal and that it took Arkor in its 
 
 ## The Search for the Eye
 
-The **Blazing Oath**, a secretive faction within the Black Flame's **Servants of Sycânus** devoted to recovering the ancient relics of Ústaron, has been sent to retrieve the Eye, and [[being-srdrzhsycnknghtblckflm|Sir Drazha Sycâni]] leads it. An expedition into Arkor faces ancient traps, the harsh conditions of the desert, foreign mercenaries and rival factions of the Black Flame itself. Anyone who goes in after the Eye, or after the knights who went in first, goes in with all of them.
+The **Blazing Oath**, a secretive faction within the Black Flame's **Servants of Vezhnûrikos** devoted to recovering the ancient relics of Ústaron, has been sent to retrieve the Eye, and [[being-drzhvzhnr|Drazha Vezhnûr]] leads it. An expedition into Arkor faces ancient traps, the harsh conditions of the desert, foreign mercenaries and rival factions of the Black Flame itself. Anyone who goes in after the Eye, or after the knights who went in first, goes in with all of them.
 
 ## Danger
 
@@ -38,5 +38,5 @@ The canon hook stands as it is: the Black Flame's factions are fighting each oth
 
 - [[place-hekardesert|Desert of Hek'ar]]—the desert that buries the city
 - [[lore-towercities|The Tower Cities]]—the league that built it
-- [[being-srdrzhsycnknghtblckflm|Sir Drazha Sycâni]]—the knight who seeks the Eye
+- [[being-drzhvzhnr|Drazha Vezhnûr]]—the knight who seeks the Eye
 - [[affiliation-blackflame|The Black Flame]]—the faith whose relic is sought

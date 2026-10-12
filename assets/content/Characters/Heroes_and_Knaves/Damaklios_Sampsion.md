@@ -11,7 +11,7 @@ data:
   occupation: Cartographer/Artist
   lore: []
   culture: byzarianclt
-  homes: [karatas2]
+  homes: [orashion2]
   affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: male
   species: humanflk

@@ -11,7 +11,7 @@ data:
   occupation: Trapper
   lore: []
   culture: byzarianclt
-  homes: [yesilhan2]
+  homes: [karvashion2]
   affiliations: {byzarianlg: {rank: 3}, menerva: {rank: 1}}
   gender: male
   species: humanflk

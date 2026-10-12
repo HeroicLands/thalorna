@@ -11,7 +11,7 @@ data:
   occupation: Beggar
   lore: []
   culture: byzarianclt
-  homes: [yesilhan2]
+  homes: [karvashion2]
   affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
   gender: female
   species: humanflk

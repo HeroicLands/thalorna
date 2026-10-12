@@ -442,7 +442,7 @@ She also carries a fear she would never voice aloud: that her father was right, 
 
 ### Patrons
 
-Countess Míravel Tárveneth
+Countess Shamûlar Tárveneth
 : A senior member of the Council of Peers and leader of the reformist faction. She sees Ârnela as a useful ally—capable, ambitious, and expendable enough that the Countess can use her as a stalking horse for policies too controversial to champion directly. Ârnela is aware of this and accepts it as the cost of access.
 
 Master Lúcen Fáravel
@@ -466,4 +466,4 @@ The Syndics of Belpòrte
 
 4. **The Cortelúni Marriage**—Lord Vásquen proposes a marriage alliance between his eldest son and Ârnela, framing it as a reconciliation between the traditional and reform factions in Fiòrdaure. The offer is politically astute and personally revolting. Refusing outright would insult a powerful family; accepting would yoke her to a man who despises everything she has built. She needs a third option.
 
-5. **Debts of the Father**—A merchant from Harad arrives in Fiòrdaure with documents suggesting that Lord Pálthen Kórisvar borrowed heavily near the end of his life to cover losses that Ârnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.
+5. **Debts of the Father**—A merchant from Tarûzel arrives in Fiòrdaure with documents suggesting that Lord Pálthen Kórisvar borrowed heavily near the end of his life to cover losses that Ârnela never knew about. The debts were sold and resold, and the current holder wants payment—or the estate. The documents may be authentic, or they may be a forgery designed to destroy her. Either way, she must resolve the matter before her enemies learn of it.

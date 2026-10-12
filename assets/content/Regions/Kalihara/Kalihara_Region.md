@@ -20,7 +20,7 @@ data:
 
 The Kalihara Region is the inhabited country of the island of [[place-klhrcntnnt|Kalihara]], which is to say very nearly the whole of it. Every other great landmass of [[place-worldthlrn|Thalorna]] is a mosaic of regions and rival powers; Kalihara carries one continuous civilization, one people, one language family and one philosophical tradition, so the island and its region are the same country under two names. The distinction is the one Kaliharans draw themselves: the region is the land as it is lived in and governed by the [[affiliation-kalihara|Kalihara]] confederation of port-cities and inland lineages, and the island is the landmass and the ocean approaches that guard it.
 
-Three million people live here, and a foreigner has met perhaps thirty thousand of them, because the ports are as far as a foreigner goes. What an outsider remembers Kalihara for is the spice and gem trade of [[place-qasirah|Qasirah]] and the pilot who comes aboard to thread the approaches. What a Kaliharan would name first is the terraces, the custodians and the works the Ithári left standing in the interior, none of which a foreigner has seen.
+Three million people live here, and a foreigner has met perhaps thirty thousand of them, because the ports are as far as a foreigner goes. What an outsider remembers Kalihara for is the spice and gem trade of [[place-ilovanu|Ilovanu]] and the pilot who comes aboard to thread the approaches. What a Kaliharan would name first is the terraces, the custodians and the works the Ithári left standing in the interior, none of which a foreigner has seen.
 
 ## Geography
 
@@ -32,16 +32,16 @@ The only named places of the interior are the custodians' sanctuaries, of which 
 
 ## Peoples and Culture
 
-The Kaliharans are one people and two kinds. The Kaliharan of the interior keeps the Three Observances of [[affiliation-tharivaan|Thári'vaan]], tends a terrace, grove or stretch of shore that is his, and has probably never met a foreigner. The Kaliharan of the ports speaks three trade tongues, lives beside Vedyaran and Haradian families, and is not admitted inland either. Both hold that the arrangement is the cost of touching the world without letting it in. The culture note [[lore-kaliharanclt|Kaliharan]] sets out what they believe and what a person owes; the language is [[skill-kalihrlng|Kalihári]], with the harbor pidgin [[skill-valtarlng|Valtári]] in the ports.
+The Kaliharans are one people and two kinds. The Kaliharan of the interior keeps the Three Observances of [[affiliation-tharivaan|Thári'vaan]], tends a terrace, grove or stretch of shore that is his, and has probably never met a foreigner. The Kaliharan of the ports speaks three trade tongues, lives beside Vedyaran and Tarûzelian families, and is not admitted inland either. Both hold that the arrangement is the cost of touching the world without letting it in. The culture note [[lore-kaliharanclt|Kaliharan]] sets out what they believe and what a person owes; the language is [[skill-kalihrlng|Kalihári]], with the harbor pidgin [[skill-valtarlng|Valtári]] in the ports.
 
 ## Politics and Power
 
-The region is held by [[affiliation-kalihara|Kalihara]], a confederation of the coastal port-cities and the inland lineages, seated at Qasirah and governed by layered councils whose composition no foreigner has been told. The custodians of Thári'vaan carry great influence and do not rule. There is no rival power on the island and never has been: Kalihara has never had an empire, never fought a war of conquest, and never admitted a settler it did not choose.
+The region is held by [[affiliation-kalihara|Kalihara]], a confederation of the coastal port-cities and the inland lineages, seated at Ilovanu and governed by layered councils whose composition no foreigner has been told. The custodians of Thári'vaan carry great influence and do not rule. There is no rival power on the island and never has been: Kalihara has never had an empire, never fought a war of conquest, and never admitted a settler it did not choose.
 
 ## See Also
 
 - [[place-klhrcntnnt|Kalihara]]—the island, its seas and the long way home
 - [[affiliation-kalihara|Kalihara]]—the confederation that holds this region
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole, its custodians and its sanctuaries
-- [[place-qasirah|Qasirah]], [[place-korinthel|Korinthel]], [[place-vashuran|Vashurán]], [[place-telvari|Telvári]]—the four ports
+- [[place-ilovanu|Ilovanu]], [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvári]]—the four ports
 - [[lore-kaliharanclt|Kaliharan]]—the people, their observances and their names

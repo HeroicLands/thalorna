@@ -72,7 +72,7 @@ sohl: {system: {commonSkills: [tarvenlng]}}
 ---
 
 - **Overlord:** [[affiliation-kingdmtrvn|Kingdom of Tarvénia]] (nominal—pays tribute for self-governance charter)
-- **Language:** Tarvéni (with Provenzal and Haradi widely spoken)
+- **Language:** Tarvéni (with Provenzal and Tarûzeli widely spoken)
 - **Naming Convention:** [[skill-tarvenlng|Tarvéni]]
 - **Pantheon:** [[affiliation-arldnpnthn|Aurèldían]]
 - **Government:** Council of merchant families (the Consejárath)
@@ -87,7 +87,7 @@ Valthári is everything the mountain lords of [[affiliation-kngdmstrth|Astúrath
 
 The Consejárath—the ruling council—is drawn from the dozen or so merchant dynasties that control the city's major trading houses, shipyards, and banking operations. Seats on the council are fiercely contested, and Valthári politics are an intricate dance of commercial alliances, marriage pacts, and occasionally, discreet assassination. The city maintains its own small but professional navy to protect its shipping lanes, and its marine soldiers are among the best-equipped troops in Tarvénia.
 
-Culturally, Valthári is more cosmopolitan than the rest of Tarvénia. Provenzal is widely spoken alongside Tarvéni, Haradi merchants maintain their own quarter, and the city's architecture blends Tarvénan stone-and-iron practicality with Provenzian elegance. The mountain lords consider Valthári soft and foreign-tainted; Valthári considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
+Culturally, Valthári is more cosmopolitan than the rest of Tarvénia. Provenzal is widely spoken alongside Tarvéni, Tarûzeli merchants maintain their own quarter, and the city's architecture blends Tarvénan stone-and-iron practicality with Provenzian elegance. The mountain lords consider Valthári soft and foreign-tainted; Valthári considers the mountain lords provincial and broke. Both assessments contain a grain of truth.
 
 ## Commerce and Currency
 
@@ -100,4 +100,4 @@ Free City of Valthári uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / 
 - [[place-valthari|Valthári]]—The city itself
 - [[affiliation-kngdmstrth|Kingdom of Astúrath]], [[affiliation-kngdmglvrn|Kingdom of Galváren]], [[affiliation-kingdmlnrk|Kingdom of Léonrik]]—The three kingdoms
 - [[affiliation-frtrtryskrth|Free Territory of Eskárath]]—Fellow Tarvénan free polity
-- [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—Major trading partners
+- [[place-provenzrgn|Provènzia Region]], [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Major trading partners

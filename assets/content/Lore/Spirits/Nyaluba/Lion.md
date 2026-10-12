@@ -1,14 +1,14 @@
 ---
-shortcode: lionmvuzispr
-name: {full: Lion Spirit, aliases: [The Lion Guide, Lion of the Mvuzi]}
+shortcode: lionruwozispr
+name: {full: Lion Spirit, aliases: [The Lion Guide, Lion of the Ruwozi]}
 type: lore
 subType: spirit
-description: "The lion-guide of the Mvuzi as a being—the witness of the Long Pact, who is met in the open and never from cover."
+description: "The lion-guide of the Ruwozi as a being—the witness of the Long Pact, who is met in the open and never from cover."
 tags: [draft, nyaluba]
 data: {packFolder: lorespiritsnyaluba}
 ---
 
-The totemic being venerated by the [[affiliation-nylbtrblntn|Mvuzi]]. For the cult, its
+The totemic being venerated by the [[affiliation-nylbtrblntn|Ruwozi]]. For the cult, its
 offices and its observances, see [[affiliation-nyalblion|Lion Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].
 
@@ -22,8 +22,8 @@ Its temperament is sovereign rather than kind. It does not comfort and it does n
 capriciously; it holds those who bear its name to a standard and withdraws from them when they
 fail it. The withdrawal is the sanction—there is no lion-guide that strikes its own people.
 
-Prohibitions it is understood to enforce upon the Mvuzi: not to hunt lions, not to eat their
+Prohibitions it is understood to enforce upon the Ruwozi: not to hunt lions, not to eat their
 flesh, not to take by ambush what could be taken by open challenge, and not to abandon a herd
 under threat.
 
-The Mvuzi and Bombwe griots tell differently what the lion-guide witnessed at the Pact-baobab.
+The Ruwozi and Lobwezi griots tell differently what the lion-guide witnessed at the Pact-baobab.

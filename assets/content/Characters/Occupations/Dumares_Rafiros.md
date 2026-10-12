@@ -1,6 +1,6 @@
 ---
 shortcode: dumarsrfrs
-name: {full: Dûmàrês Râfîrôs, aliases: [Sérolan Cedric Lightbringer]}
+name: {full: Dûmàrês Râfîrôs, aliases: []}
 type: being
 subType: npc
 tags: [todo, draft, clergy]

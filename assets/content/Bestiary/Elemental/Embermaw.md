@@ -277,7 +277,7 @@ From the rim of the caldera the lake of lava below is crusted black and cracking
 
 # Dossier {#dossier}
 
-The Embermaw is a great fire elemental: a spirit of the fire-aspect that manifests as a twelve-foot reptile of living lava and burning rock, drawn to volcanoes and places where the earth's own fire comes close to the surface. It feeds on that fire, it attacks almost anything that comes into its ground, and it ruins the land round it simply by being there. It is the larger and more dangerous cousin of the [[being-embrhnd|Emberhound]]. One holds a caldera among the volcanic peaks along the eastern edge of [[place-balamkulrgn|Ix'ilankul]], the highland heart of the K'ich'chik faith, whose eruptions the priests remember as moments when the gods grew angry. Like every elemental, it can be destroyed in the material world, and it comes back.
+The Embermaw is a great fire elemental: a spirit of the fire-aspect that manifests as a twelve-foot reptile of living lava and burning rock, drawn to volcanoes and places where the earth's own fire comes close to the surface. It feeds on that fire, it attacks almost anything that comes into its ground, and it ruins the land round it simply by being there. It is the larger and more dangerous cousin of the [[being-embrhnd|Emberhound]]. One holds a caldera among the volcanic peaks along the eastern edge of [[place-ixilankulrgn|Ix'ilankul]], the highland heart of the K'ich'chik faith, whose eruptions the priests remember as moments when the gods grew angry. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 
@@ -293,7 +293,7 @@ An embermaw is solitary and territorial, and it attacks almost any intrusion int
 
 ## What the Priests Do
 
-The Ch'ul'bal, the ordained priests of Ix'ilankul, read the calderas as they read the heavens, and the embermaw's caldera is one where the gods' anger is remembered. The priests do not hunt it. They make offerings at the rim at the appointed days of the calendar, cast down into the lava, and they read the creature's movements as part of the volcano's temper: an embermaw that comes down the slope means the mountain is waking. The obsidian gatherers who work the lower slopes keep a watch on the rim, and when the creature comes out they abandon the slope at once, because obsidian can wait and the embermaw cannot be outrun once it is close. The farming villages of the valley below keep their terraces watered and their canals full, because a stream of water is the one thing that has turned it back from the fields.
+The Ch'alixbal, the ordained priests of Ix'ilankul, read the calderas as they read the heavens, and the embermaw's caldera is one where the gods' anger is remembered. The priests do not hunt it. They make offerings at the rim at the appointed days of the calendar, cast down into the lava, and they read the creature's movements as part of the volcano's temper: an embermaw that comes down the slope means the mountain is waking. The obsidian gatherers who work the lower slopes keep a watch on the rim, and when the creature comes out they abandon the slope at once, because obsidian can wait and the embermaw cannot be outrun once it is close. The farming villages of the valley below keep their terraces watered and their canals full, because a stream of water is the one thing that has turned it back from the fields.
 
 ## Signs
 

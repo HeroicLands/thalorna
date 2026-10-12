@@ -265,7 +265,7 @@ The cedars here are so tall and so close that the light at midday is green and d
 
 # Dossier {#dossier}
 
-The Shadowclaw is a large, two-legged, pack-hunting reptile, ten to twelve feet from snout to tail-tip, five to six feet tall, and about two hundred and fifty pounds, with scales that take on the colors of whatever it stands in and a hooked killing claw on each hind foot. It lives in the cedar rainforest and the rocky valleys of [[place-balamkiahkrgn|Ba'alam Ki'ahk]], on the western coast of Northern K'ich'chik, and hunts in family packs of three to eight. It is clever, patient and coordinated, it plans its ambushes, and it learns. It takes elk, mountain goats and anything else it can isolate and run down, men included. Nearly everything the K'ich'chik know of it comes from traders who have been allowed to the border sites, from captives, and from the few who went into the forest uninvited and came back.
+The Shadowclaw is a large, two-legged, pack-hunting reptile, ten to twelve feet from snout to tail-tip, five to six feet tall, and about two hundred and fifty pounds, with scales that take on the colors of whatever it stands in and a hooked killing claw on each hind foot. It lives in the cedar rainforest and the rocky valleys of [[place-ixbalkiahkrgn|Ix'bal Ki'ahk]], on the western coast of Northern K'ich'chik, and hunts in family packs of three to eight. It is clever, patient and coordinated, it plans its ambushes, and it learns. It takes elk, mountain goats and anything else it can isolate and run down, men included. Nearly everything the K'ich'chik know of it comes from traders who have been allowed to the border sites, from captives, and from the few who went into the forest uninvited and came back.
 
 ## Presentation
 
@@ -273,7 +273,7 @@ A shadowclaw stands on long, powerful hind legs with its body held level and its
 
 ## In the Land
 
-Shadowclaws hold the coastal rainforest and the mountain spine of Ba'alam Ki'ahk, from the dim cedar and redwood stands that run down to the fjords up into the boulder-strewn valleys and high meadows below the volcanic peaks. They want cover to hunt from and prey to hunt: the elk and deer of the forest, the mountain goats of the valleys, and in the autumn the bears and eagles that gather at the salmon rivers. Each pack holds a territory of many miles, marked with scent and with deep claw-scores on the trees, and it moves round it with the seasons. They do not go out onto open ground for long, and they are not met east of the spine where the cedar gives way to spruce and the plateau begins.
+Shadowclaws hold the coastal rainforest and the mountain spine of Ix'bal Ki'ahk, from the dim cedar and redwood stands that run down to the fjords up into the boulder-strewn valleys and high meadows below the volcanic peaks. They want cover to hunt from and prey to hunt: the elk and deer of the forest, the mountain goats of the valleys, and in the autumn the bears and eagles that gather at the salmon rivers. Each pack holds a territory of many miles, marked with scent and with deep claw-scores on the trees, and it moves round it with the seasons. They do not go out onto open ground for long, and they are not met east of the spine where the cedar gives way to spruce and the plateau begins.
 
 ## Key Behaviors
 
@@ -281,7 +281,7 @@ A pack is a family led by a mated pair. It hunts by ambush: the pack spreads out
 
 ## What the Xak'nal Do
 
-The **Xak'nal** of [[affiliation-balamkiahk|Ba'alam Ki'ahk]] do not let outsiders far into their forest, and the K'ich'chik traders who meet them at the border sites have to take their word for most of what lies inside it. What they report is that Xak'nal parties travel the forest in numbers, never alone, and carry fire; that shadowclaw hind-claws are worn on cords by Xak'nal hunters as proof of a kill; and that a shadowclaw carved into a pole marks ground the traders are not to enter. Captives who have come out of the forest say the Xak'nal treat a pack as they treat any other power of the forest, with ceremony and great care, and kill one only with full preparation. A shadowclaw hide traded south is prized by K'ich'chik nobles for a cloak, and a hind-claw set in a handle makes a knife a war leader carries.
+The **Xak'nal** of [[affiliation-ixbalkiahk|Ix'bal Ki'ahk]] do not let outsiders far into their forest, and the K'ich'chik traders who meet them at the border sites have to take their word for most of what lies inside it. What they report is that Xak'nal parties travel the forest in numbers, never alone, and carry fire; that shadowclaw hind-claws are worn on cords by Xak'nal hunters as proof of a kill; and that a shadowclaw carved into a pole marks ground the traders are not to enter. Captives who have come out of the forest say the Xak'nal treat a pack as they treat any other power of the forest, with ceremony and great care, and kill one only with full preparation. A shadowclaw hide traded south is prized by K'ich'chik nobles for a cloak, and a hind-claw set in a handle makes a knife a war leader carries.
 
 ## Signs
 

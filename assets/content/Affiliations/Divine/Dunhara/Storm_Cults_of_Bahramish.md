@@ -5,7 +5,7 @@ name:
   aliases:
     - The Storm Cults
     - The Followers of the Thundering Voice
-    - Bahârâmî-Pîravân
+    - Bahârâmî-Vadukesh
     - Storm Cults of Bahramish
 type: affiliation
 subType: faithtradition
@@ -27,19 +27,19 @@ data:
         description: >-
           Formally denounced before the lineages—for falsifying a reading, or for claiming vesselhood the Council has not conferred. No lineage will train them and no camp of consequence will seat them.
       - level: 1
-        title: Pîravân
+        title: Vadukesh
         description: >-
           "Followers"—the Dunhari at large, who keep the observances, bring their births, marriages and dead to the resident practitioner, and read no weather themselves.
       - level: 2
-        title: Shâgerd
+        title: Hamelôr
         description: >-
           Apprenticed into one of the five lineages and learning its particular craft, whether that is the reading of wind, the calling of rain, or walking into a storm to read it from inside.
       - level: 3
-        title: Pîr
+        title: Pevrôr
         description: >-
           Recognized practitioner of a lineage: reads for the tribal council and the warband, conducts the rites of the camp, and answers for the accuracy of what they report. Misreading is the gravest shamanic failure.
       - level: 4
-        title: Sar-pîr
+        title: Rûzhôr
         description: >-
           Senior elder of a lineage, holding its apprentices and its practice, and sitting in the Council of Elders at the Stone of Ranâz at the season-turns.
       - level: 5
@@ -49,17 +49,17 @@ data:
     offices:
       Vessel of Báhrámiš: >-
         Recognized at the Stone of Ranâz by the assent of the gathered senior shamans, and the most politically consequential thing the cults do.
-      Sar-pîr: >-
+      Rûzhôr: >-
         Senior elder of one lineage and a member of the Council of Elders, which deliberates on what affects all five.
-      Bâdkhwân: >-
+      Zevrôr: >-
         Wind-Reader—divinatory specialist who reads the wind for omens and the subtler signs of the god's mood. The largest lineage.
-      Bârân-âvar: >-
+      Belgôr: >-
         Rain-Caller—conducts the great rain-rituals at the season-turns and the emergency rites in drought. The most ritually elaborate lineage.
-      Sang-zad: >-
+      Qeshvî: >-
         Lightning-Marked—touched directly by the god, usually by vision or prophetic seizure and rarely by literal lightning, in which case the survivor's standing is exceptional. The smallest lineage and the most prestigious.
-      Tufân-row: >-
+      Ghuzmôr: >-
         Storm-Walker—walks into storms to read them from within, and reads the great seasonal weather-systems. Demanding and dangerous.
-      Sokhan-bar: >-
+      Sehvôr: >-
         Voice-Bearer—orator and reciter, carrying the standing repertoire of myth, hymn and ritual formula, and training apprentices in it.
       Camp Practitioner: >-
         The resident wind-reader or rain-caller seated in every Dunhari encampment of consequence, who conducts its births, deaths, marriages and war-rituals.
@@ -78,7 +78,7 @@ data:
 sohl: {system: {commonSkills: [bahramis]}}
 ---
 
-_Dunhari: Bahârâmî-Pîravân—"the Followers of Báhrámiš"_
+_Dunhari: Bahârâmî-Vadukesh—"the Followers of Báhrámiš"_
 
 - **Type:** Decentralized religious organization (multiple semi-autonomous lineages)
 - **Patron:** Báhrámiš—Dunhari god of the storm, the wind that crosses tribal borders, the rain that decides the year's grass, and the lightning that marks the gods' approval
@@ -96,19 +96,19 @@ The recognition of vessels is the cults' most politically charged function. A re
 
 The Storm Cults recognize five working lineages, each focused on a distinct practice:
 
-- **The Wind-Readers** (_Bâdkhwân_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhrámiš's mood. The largest lineage by membership.
-- **The Rain-Callers** (_Bârân-âvar_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
-- **The Lightning-Marked** (_Sang-zad_)—initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is exceptional). The smallest lineage and the most prestigious.
-- **The Storm-Walkers** (_Tufân-row_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
-- **The Voice-Bearers** (_Sokhan-bar_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
+- **The Wind-Readers** (_Zevrôr_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhrámiš's mood. The largest lineage by membership.
+- **The Rain-Callers** (_Belgôr_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
+- **The Lightning-Marked** (_Qeshvî_)—initiates who have, by the cults' criteria, been touched directly by Báhrámiš's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is exceptional). The smallest lineage and the most prestigious.
+- **The Storm-Walkers** (_Ghuzmôr_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
+- **The Voice-Bearers** (_Sehvôr_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
 
-Each lineage has its own internal hierarchy: apprentice (_shâgerd_), recognized practitioner (_pîr_), senior elder (_sar-pîr_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranâz, where the **Council of Elders** (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole—most importantly, the recognition of vessels.
+Each lineage has its own internal hierarchy: apprentice (_hamelôr_), recognized practitioner (_pevrôr_), senior elder (_rûzhôr_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranâz, where the **Council of Elders** (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole—most importantly, the recognition of vessels.
 
 ## Notable Members
 
 - [[being-shadzrkmrz|Shâdezar Kamrûz]]—currently the most prominent recognized vessel; the Storm Cults regard him as a chosen vessel of Báhrámiš and his counsel carries weight beyond his standing in the [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]. The cults defer to his interpretation of religious matters on which the Council of Elders has not specifically ruled.
-- **Sar-pîr Razâshar of the Wind-Readers**—current senior elder of the largest lineage; presides at most Council of Elders gatherings.
-- **Sar-pîr Mehrava of the Lightning-Marked**—the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
+- **Rûzhôr Razâshar of the Wind-Readers**—current senior elder of the largest lineage; presides at most Council of Elders gatherings.
+- **Rûzhôr Mehrava of the Lightning-Marked**—the smallest lineage's elder; a woman of extraordinary personal authority whose prophetic accuracy is the source of significant inter-cult tension when her readings conflict with the other lineages'.
 
 ## Doctrine and Practice
 

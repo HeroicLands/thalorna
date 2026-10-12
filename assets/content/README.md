@@ -121,9 +121,8 @@ working name—from that narrower identity instead). The steps:
    the same letter to one as you go. Keep whichever vowels keep the result
    sayable; two authors compressing the same name by hand do not always drop
    exactly the same ones, and that is expected rather than a mistake to
-   correct. `Vrildmýl Hrafnsvald` compresses to `vrldmylhrfnsvld`; `Thêkla
-Steníkot` compresses to `theklastnkt`—its first word was short enough to
-   need no compression of its own.
+   correct. `Vrildmýl Hrafnsvald` compresses to `vrldmylhrfnsvld`; `Phýléze
+Steníkot` compresses to `phylzstnkt`.
 6. **A note whose shortcode names what general kind of thing it is**—a
    deity's own lore article, a totem, a rank or office, a people's culture
    note, an administrative tier of a place—closes with a short tag for that

@@ -1,9 +1,9 @@
 ---
 shortcode: nyalbcroc
-name: {full: "Crocodile Totem", aliases: [Crocodile of the Kambezi, Kambezi Totem]}
+name: {full: "Crocodile Totem", aliases: [Crocodile of the Kolembozi, Kolembozi Totem]}
 type: affiliation
 subType: spirittradition
-description: "The crocodile-spirit of the Kambezi—watchfulness, judgment and the river's hunger; appeased rather than venerated, and served by the most elaborate shamanic practice of the five clans."
+description: "The crocodile-spirit of the Kolembozi—watchfulness, judgment and the river's hunger; appeased rather than venerated, and served by the most elaborate shamanic practice of the five clans."
 tags: [nyaluba, religion, totemic]
 data:
   icon: null
@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
@@ -39,9 +39,9 @@ data:
     offices:
       Guardian of a Crossing: >-
         Warden of one dangerous reach or ford and of who may enter it; a different Spirit-Speaker holds each, and none holds two.
-      Mwalimu wa Roho: >-
+      Kwendari Zohiring: >-
         Spirit-Speaker of the crocodile—the most sought of any clan's, called across the savannahs for judgment, healing and the negotiation of difficult spirits.
-      Griot of the Kambezi: >-
+      Griot of the Kolembozi: >-
         Keeper of the river genealogies, which name the crocodiles as well as the people.
       Keeper of the Tally: >-
         Recorder of the exact offerings each reach requires, where an error is not forgiven.
@@ -50,18 +50,18 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [crocodilekambezispr, nyalbsprts]
+  lore: [crocodilekolembozispr, nyalbsprts]
   parents: [nyalbpnthn]
   relations: {nyalbpnthn: aligned}
   packFolder: nyaluba
-sohl: {system: {commonSkills: [crocodilekambezisprt]}}
+sohl: {system: {commonSkills: [crocodilekolembozisprt]}}
 ---
 
-The **Crocodile Totem** is the guide of the [[affiliation-nylbtrblntn|Kambezi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kambezi country are numerous and unforgiving and the crocodile is first among them.
+The **Crocodile Totem** is the guide of the [[affiliation-nylbtrblntn|Kolembozi]], the river-people of the eastern wetlands. Of the five guides it is the one most often **appeased** rather than venerated—approached with exact observance and formal gift, its protocols followed without error, because the river-spirits of Kolembozi country are numerous and unforgiving and the crocodile is first among them.
 
-The Kambezi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _mwalimu wa roho_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
+The Kolembozi maintain the most elaborate shamanic practice of any Nyáluba clan, and it is the crocodile that requires it. Their _kwendari zohiring_ are sought across the savannahs for matters of judgment, healing, and the negotiation of difficult spirits, and their standing rests on a simple demonstration: they deal daily with a guide that kills, and they keep their people alive doing it.
 
-Kinship here is literal to a degree outsiders find disturbing. A Kambezi who loses a relative to a crocodile speaks of that crocodile by name and by lineage, and considers the matter a family affair—to be settled, not avenged.
+Kinship here is literal to a degree outsiders find disturbing. A Kolembozi who loses a relative to a crocodile speaks of that crocodile by name and by lineage, and considers the matter a family affair—to be settled, not avenged.
 
 ## Appeasement
 
@@ -69,8 +69,8 @@ Each dangerous reach and each ford has its own protocols, its own required offer
 
 ## See Also
 
-- [[lore-crocodilekambezispr|Crocodile Spirit]]—the guide as a being, apart from the practices of its cult
-- [[skill-crocodilekambezisprt|Crocodile Spirit Power]]—the standing through which the guide is asked
+- [[lore-crocodilekolembozispr|Crocodile Spirit]]—the guide as a being, apart from the practices of its cult
+- [[skill-crocodilekolembozisprt|Crocodile Spirit Power]]—the standing through which the guide is asked
 - [[affiliation-nyalbpnthn|The Nyáluba Way]]—the tradition this cult belongs to
 - [[lore-nyalbsprts|Nyáluba Spirits]]—the seven kinds of guide and the three postures
-- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Kambezi and the other four clans
+- [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]—the Kolembozi and the other four clans

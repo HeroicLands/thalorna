@@ -75,7 +75,7 @@ The Crown Moneylenders are _not_ a banking guild in the Vylarian sense—they do
 
 The principal Gár-Hálzi correspondent relationships are with the chapter at Gar-Anlaghet (most important; handles the bulk of Okhárian-Khelâthi trade) and with the chapter at Khelzuret (secondary; handles specialty trades). Direct correspondent arrangements with Galezkara are rare—the great Khelâthi commercial cities prefer to deal with the Bethûan Great Houses, whose volume justifies the correspondent infrastructure.
 
-The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gár-Hálzi correspondent chapters in Aû'Khelâthu. They are not generally honored in Bethûa (the Bethûan trade-houses prefer to deal with each other or with Gár-Hálzi directly), in Vylarian territory (no formal Argentariorum recognition), or in Harad. An Okhárian merchant traveling to Bethûa typically converts his letters to Khelâthi temple chits at his home moneylender before departing; from Aû'Khelâthu the chits can then be exchanged through the Bethûan trade-houses' correspondent network as needed.
+The Crown Moneylenders' **letters of credit** are honored at any of the three temple-city offices and at the Gár-Hálzi correspondent chapters in Aû'Khelâthu. They are not generally honored in Bethûa (the Bethûan trade-houses prefer to deal with each other or with Gár-Hálzi directly), in Vylarian territory (no formal Argentariorum recognition), or in Tarûzel. An Okhárian merchant traveling to Bethûa typically converts his letters to Khelâthi temple chits at his home moneylender before departing; from Aû'Khelâthu the chits can then be exchanged through the Bethûan trade-houses' correspondent network as needed.
 
 ## Structure and Governance
 
@@ -107,7 +107,7 @@ Cash transactions at the festival markets typically use Khelâthi copper qelu fo
 - **The [[affiliation-bthntrdhss|Bethûan Trade-Houses]]**—Bethûan commercial peer. Modest correspondent relationships exist but are limited; most cross-Bethûan-Okhárian commerce flows through Khelâthi intermediaries rather than directly. The two systems have very different structures (Bethûan matriarchal-clan vs. Okhárian royal-charter) which makes direct correspondent integration difficult.
 - **The pastoral clans**—the kingdom's larger demographic and the source of the wool, leather, livestock, and craft goods on which the Crown Trades' export economy depends. The relationship is mediated through the festival markets and through the standing courtesy of the clan chieftains who have informal arrangements with specific Crown Moneylenders.
 - **Vylarian merchant traffic**—small but present. Vylarian Sea-port traders occasionally make the longer journey south to Okhárian territory for specialty goods (gold work, savannah herbs, hide products); the trade is conducted through a small number of specialist Heliónite merchant captains who maintain relationships with both the Crown Moneylenders and the Gár-Hálzi correspondent network.
-- **The [[affiliation-sodnaqirin|Sôd-Naqîrîn]]**—distant Haradian counterpart. No formal arrangements; Haradian merchants visiting Okháris convert currency through the Crown Moneylenders at the standard foreign-exchange spread.
+- **The [[affiliation-vezakuni|Vezâkûnî]]**—distant Tarûzelian counterpart. No formal arrangements; Tarûzelian merchants visiting Okháris convert currency through the Crown Moneylenders at the standard foreign-exchange spread.
 
 ## Identifying Marks
 

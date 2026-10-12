@@ -58,7 +58,7 @@ _Khelâthi: "The House of Hunters"—the guild of professional hunters of Aû'Kh
 - Type: Imperial chartered guild
 - Region: [[place-aukhelathrgq|Aû'Khelâthu Region]]—central guildhouse at the capital, with regional chapter halls along the [[place-zumeleshrvr|Zumélesh]] and at the desert edge
 - Charter: Granted by the seventh [[lore-garauu|Gar-Aû]] of the present dynasty; renewed regularly since
-- Magnum Collegium status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It has no standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The [[lore-haradianclt|Haradian]] [[affiliation-sodnaqirin|Sôd-Naqîrîn]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
+- Magnum Collegium status: Not a member; independent [[lore-khelathiclt|Khelâthi]] institution. It has no standing credential equivalence with the [[affiliation-magnumclgm|Magnum Collegium]], and a foreign hunter operating in Aû'Khelâthu needs a license granted case by case. The [[lore-taruzelianclt|Tarûzelian]] [[affiliation-vezakuni|Vezâkûnî]] has approached **Gar'Nuw** with a proposal for an equivalence agreement covering desert and frontier work; the talks are at an early stage.
 
 ## Overview
 
@@ -151,5 +151,5 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 - [[affiliation-garmelnu|Gar'Melnu]]—The smiths' guild, sibling imperial chartered guild
 - [[affiliation-zeghetnelgu|Zeghet'Nelgu]]—The Khetai family's sacred hunt
 - [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linqur]]—The gods of the hunt
-- [[affiliation-sodnaqirin|Sôd-Naqîrîn]]—The Haradian body proposing an equivalence agreement
+- [[affiliation-vezakuni|Vezâkûnî]]—The Tarûzelian body proposing an equivalence agreement
 - [[lore-guldsthlrn|The Guilds of Thalorna]]—How guilds are organized across the realms

@@ -81,11 +81,11 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 Where the [[place-zumeleshrvr|Zumélesh]] reaches the [[place-vylarianse|Vylarian Sea]] it breaks into a fan of channels, marshes and silt-islands, and that fan is the Delta: the richest and most worldly land in the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]. The ten **Delta Selatu** are the empire's face to the sea and its purse. They hold the international ports, the garden strip that grows the empire's luxury crops, and the densest farmland in the known world, and their Halzi'a are merchants and diplomats as much as governors. Their estates and counting-houses make them, together, the wealthiest aristocracy in the empire.
 
-"Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a [[lore-haradianclt|Haradian]] hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
+"Everything that comes into this empire by water comes past my table first," a customs scribe on the quays of [[place-garanlaghet|Gar-Anlaghet]] tells a ship's factor fresh off a [[lore-taruzelianclt|Tarûzelian]] hull. "Upriver they will tell you the Delta is half foreign. It is. That is what it is for."
 
 ## Character
 
-The Delta is where [[affiliation-empireakhlth|Aû'Khelâthu]] meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtnhrdnstts|Haradian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
+The Delta is where [[affiliation-empireakhlth|Aû'Khelâthu]] meets the wider world, and it shows. The port cities are crowded and polyglot: [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] trading factors keep permanent quarters along the docks, merchants from [[place-midhalnrgn|Mídhalión]] haggle in the markets, and the houses of the [[affiliation-zebequzut|Zebequ'Zut]] do their quiet business at delta banquets.
 
 The conservative landowners of the [[affiliation-upperrivrslt|Upper River Selatu]] think delta-folk cosmopolitan, sharp-tongued and faintly suspect, and they regard an easy familiarity with foreigners as one short step from disloyalty. The delta Halzi'a return the contempt with interest. That rivalry, between river conservatives and delta cosmopolitans, is one of the steady tensions of [[lore-khelathiclt|Khelâthi]] politics.
 
@@ -104,7 +104,7 @@ Trade and garden farming drive the Delta. Its ports handle the whole of the empi
 ## Notable Features
 
 - The river's mouths and the silt-islands between them—the most intricate waterscape in [[place-xerathia|Xerathia]]
-- The cosmopolitan ports of [[place-amqelmiglet|Amqel-Miglet]], with their foreign merchant quarters and Haradian factories
+- The cosmopolitan ports of [[place-amqelmiglet|Amqel-Miglet]], with their foreign merchant quarters and Tarûzelian factories
 - The coastal garden strip of citrus, olive, vine, fig and date
 - The papyrus marshes that give the empire its paper monopoly
 - The salt-pans and natron flats that supply the embalmers of the whole empire
@@ -113,18 +113,18 @@ Trade and garden farming drive the Delta. Its ports handle the whole of the empi
 
 Ten selatu make up the delta class, each under its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor). Each has its own note; the table is the roster.
 
-| Selat                                                   | Seat                                | Patron                                                      | Population | Character                                                                                                                      |
-| ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [[affiliation-selatgrnlght\|The Selat of Gar-Anlaghet]] | [[place-garanlaghet\|Gar-Anlaghet]] | [[lore-thubaidty\|Thubâ'i]]                                 | ~1,100,000 | The chief delta port and the empire's window on the sea; Haradian factories, polyglot quays, the richest Halzi'a in the empire |
-| [[affiliation-selatgaulegr\|The Selat of Gau-Legiru]]   | [[place-gau\|Gau]]                  | [[lore-uzneradty\|Uznêra]]                                  | ~900,000   | The garden coast—citrus, olive, vine, and the villa-estates of the merchant-princes                                            |
-| [[affiliation-selatgezazab\|The Selat of Gezazabu]]     | [[place-gezazabu\|Gezazabu]]        | [[lore-thubaidty\|Thubâ'i]]                                 | ~750,000   | Western delta port; salt-fish, curing-houses, and the trade road to [[affiliation-mtrrchybth\|Bethûa]]                         |
-| [[affiliation-selatgrshbzt\|The Selat of Gar-Shebazet]] | [[place-garshebazet\|Gar-Shebazet]] | [[affiliation-shebazet\|Faith of Shebazet]] (cobra-goddess) | ~650,000   | Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting                                                           |
-| [[affiliation-selatizetge\|The Selat of Izet-Ge]]       | [[place-izet\|Izet]]                | [[lore-thubaidty\|Thubâ'i]]                                 | ~600,000   | Date-palm plantations and the sweet delta wines                                                                                |
-| [[affiliation-selattjathu\|The Selat of Tjathu]]        | [[place-tjathu\|Tjathu]]            | [[lore-wethurdty\|Wethûr]]                                  | ~550,000   | The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch                                          |
-| [[affiliation-selatlttjlsk\|The Selat of Lut-Tjelsur]]  | [[place-luttjelsuk\|Lut-Tjelsur]]   | [[affiliation-tjelsuk\|Faith of Tjelsur]] (crocodile-god)   | ~500,000   | Eastern marsh; the great crocodile cult and the river-beast hunters                                                            |
-| [[affiliation-selatgarzant\|The Selat of Gar-Zanit]]    | [[place-garzanit\|Gar-Zanit]]       | [[lore-psaqarudty\|Psaq'âru]]                               | ~450,000   | Flax fields and the linen-weaving towns whose cloth clothes the empire                                                         |
-| [[affiliation-selatkhelaga\|The Selat of Khelaga]]      | [[place-khelaga\|Khelaga]]          | [[lore-uqaadty\|Uqa'â]]                                     | ~350,000   | The delta apex, where the river first divides; old shrines and customs-stations                                                |
-| [[affiliation-selatseltltr\|The Selat of Selat-Leteru]] | [[place-yathleteru\|Yath-Leteru]]   | [[lore-uzneradty\|Uznêra]]                                  | ~150,000   | The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people                                                   |
+| Selat                                                   | Seat                                | Patron                                                      | Population | Character                                                                                                                        |
+| ------------------------------------------------------- | ----------------------------------- | ----------------------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[affiliation-selatgrnlght\|The Selat of Gar-Anlaghet]] | [[place-garanlaghet\|Gar-Anlaghet]] | [[lore-thubaidty\|Thubâ'i]]                                 | ~1,100,000 | The chief delta port and the empire's window on the sea; Tarûzelian factories, polyglot quays, the richest Halzi'a in the empire |
+| [[affiliation-selatgaulegr\|The Selat of Gau-Legiru]]   | [[place-gau\|Gau]]                  | [[lore-uzneradty\|Uznêra]]                                  | ~900,000   | The garden coast—citrus, olive, vine, and the villa-estates of the merchant-princes                                              |
+| [[affiliation-selatgezazab\|The Selat of Gezazabu]]     | [[place-gezazabu\|Gezazabu]]        | [[lore-thubaidty\|Thubâ'i]]                                 | ~750,000   | Western delta port; salt-fish, curing-houses, and the trade road to [[affiliation-mtrrchybth\|Bethûa]]                           |
+| [[affiliation-selatgrshbzt\|The Selat of Gar-Shebazet]] | [[place-garshebazet\|Gar-Shebazet]] | [[affiliation-shebazet\|Faith of Shebazet]] (cobra-goddess) | ~650,000   | Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting                                                             |
+| [[affiliation-selatizetge\|The Selat of Izet-Ge]]       | [[place-izet\|Izet]]                | [[lore-thubaidty\|Thubâ'i]]                                 | ~600,000   | Date-palm plantations and the sweet delta wines                                                                                  |
+| [[affiliation-selattjathu\|The Selat of Tjathu]]        | [[place-tjathu\|Tjathu]]            | [[lore-wethurdty\|Wethûr]]                                  | ~550,000   | The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch                                            |
+| [[affiliation-selatlttjlsk\|The Selat of Lut-Tjelsur]]  | [[place-luttjelsuk\|Lut-Tjelsur]]   | [[affiliation-tjelsuk\|Faith of Tjelsur]] (crocodile-god)   | ~500,000   | Eastern marsh; the great crocodile cult and the river-beast hunters                                                              |
+| [[affiliation-selatgarzant\|The Selat of Gar-Zanit]]    | [[place-garzanit\|Gar-Zanit]]       | [[lore-psaqarudty\|Psaq'âru]]                               | ~450,000   | Flax fields and the linen-weaving towns whose cloth clothes the empire                                                           |
+| [[affiliation-selatkhelaga\|The Selat of Khelaga]]      | [[place-khelaga\|Khelaga]]          | [[lore-uqaadty\|Uqa'â]]                                     | ~350,000   | The delta apex, where the river first divides; old shrines and customs-stations                                                  |
+| [[affiliation-selatseltltr\|The Selat of Selat-Leteru]] | [[place-yathleteru\|Yath-Leteru]]   | [[lore-uzneradty\|Uznêra]]                                  | ~150,000   | The shrine-islands; a quiet pilgrimage selat of marsh-temples and few people                                                     |
 
 Delta total: about 6,000,000.
 
@@ -132,7 +132,7 @@ Delta total: about 6,000,000.
 
 Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Sâlkhâlon]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Aû]]'s customs men who tax it all.
 
-Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Haradian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
+Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Tarûzelian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 
 ## Commerce and Currency
 
@@ -143,6 +143,6 @@ The Delta Selatu use the [[lore-aukhlthcrncy|Aû'Khelâthu currency]] of temple-
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the empire
 - [[affiliation-upperrivrslt|The Upper River Selatu]], [[affiliation-borderselatu|The Border Selatu]], [[affiliation-capitalselat|The Capital Selat]]—the other classes of selat
 - [[place-zumeleshrvr|The Zumélesh]]—the river whose mouths these are
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—chief trading partner
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—chief trading partner
 - [[place-vylarianse|Vylarian Sea]]—the delta's sea
 - [[affiliation-khelathpnthn|Khelâthi Pantheon]]—the gods · [[skill-khelathlng|Khelâthi Language]]—naming

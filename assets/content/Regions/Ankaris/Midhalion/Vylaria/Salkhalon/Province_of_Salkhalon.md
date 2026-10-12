@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Province of Sâlkhâlon holds the land of [[place-salkhalon|Sâlkhâlon]], and its merchant class has the most dealings with [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]] and the other maritime powers, which makes Sâlkhâlon the most cosmopolitan and commercially minded province of the empire. The governor sits at [[place-mercavia|Mercavia]].
+The Province of Sâlkhâlon holds the land of [[place-salkhalon|Sâlkhâlon]], and its merchant class has the most dealings with [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-helionis|Heliónis]] and the other maritime powers, which makes Sâlkhâlon the most cosmopolitan and commercially minded province of the empire. The governor sits at [[place-mercavia|Mercavia]].
 
 A customs factor at the Mercavia quay, checking a new clerk's manifests, makes the political point in a sentence: "Every cask that crosses this wharf has been taxed by Ôrzâra and argued over by Mercavia. Learn to keep both sides of the account, and learn not to say which side you are on."
 
@@ -85,19 +85,19 @@ A customs factor at the Mercavia quay, checking a new clerk's manifests, makes t
 
 Sâlkhâlon is where the old empire meets the new world. The province's port cities bustle with foreign merchants, sailors and travelers, and the province's aristocracy has adapted to this reality more readily than its counterparts elsewhere. The great families made their fortunes in shipping and trade, and they think in terms of markets and margins rather than ancestral land and senatorial tradition.
 
-That commercial outlook sets Sâlkhâlon at odds with the conservative faction in [[affiliation-provnchyln|Hylen]] and sometimes with the political establishment in [[affiliation-provinclys|Alyssa]]. The province's merchants argue for trade liberalization and engagement with Harad, and the capital's politicians see this as dangerously close to collaboration with the enemy.
+That commercial outlook sets Sâlkhâlon at odds with the conservative faction in [[affiliation-provnchyln|Hylen]] and sometimes with the political establishment in [[affiliation-provinclys|Alyssa]]. The province's merchants argue for trade liberalization and engagement with Tarûzel, and the capital's politicians see this as dangerously close to collaboration with the enemy.
 
-The loss of Harad hit Sâlkhâlon hardest. Before the war of independence, its ports were the gateway to eastern trade. Now Haradian ships compete with them directly, and its merchants find themselves squeezed between resentment of Haradian commerce and dependence on it.
+The loss of Tarûzel hit Sâlkhâlon hardest. Before the war of independence, its ports were the gateway to eastern trade. Now Tarûzelian ships compete with them directly, and its merchants find themselves squeezed between resentment of Tarûzelian commerce and dependence on it.
 
 ## Notable Features
 
-- The most commercially engaged province, with strong Haradian trade connections
+- The most commercially engaged province, with strong Tarûzelian trade connections
 
 ## Life in the Province
 
 Sâlkhâlon is the empire's seafront: a long worked coast of harbors, shipyards, curing-sheds and fishing fleets, backed by an inland belt of farm estates that feed the ports. The coast lives by the sea, with the navy at [[place-castamar|Castamar]], trade at [[place-mercavia|Mercavia]] and fish everywhere between. The interior around [[place-terravia|Terravia]] is quiet estate-country, closer in temper to [[affiliation-provnchyln|Hylen]].
 
-Power is divided three ways among the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all. Since Harad's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Haradian trade and admirals who want Haradian blood.
+Power is divided three ways among the merchant houses of Mercavia, the naval command at Castamar, and the imperial customs that tax it all. Since Tarûzel's secession broke Vylarian sea-supremacy, all three are anxious and at odds, and the constant friction is between merchants who want Tarûzelian trade and admirals who want Tarûzelian blood.
 
 The province has been raided from the north once. In 523 a crew out of the Southern Fleets brought a captured galley through the western strait to the bay of [[place-braldvik|Braldvík]], lost it to a Castamar squadron whose fire burned the village's boats with it, and went to the imperial oars the next spring; the town still carries their name for it and still bills the admiralty for the boats.
 
@@ -113,6 +113,6 @@ The Province of Sâlkhâlon uses the [[lore-vylrncrncy|Vylarian currency]] (Auri
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
 - [[place-salkhalon|Sâlkhâlon]]—the land the province holds
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—commercial rival and trading partner
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—commercial rival and trading partner
 - [[place-vylarianse|Vylarian Sea]]—maritime domain
 - [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]]—sister provinces

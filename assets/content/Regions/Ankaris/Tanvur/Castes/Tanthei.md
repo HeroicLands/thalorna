@@ -15,13 +15,13 @@ A Warlord with his army mustered and the passes open waits for a woman in a blue
 
 **They keep the texts.** Certain sacred books and relics may be held, read and interpreted by the Tānthëi alone: the cosmological treatises, the formulae of the great rites and the oldest records of the empire's place in the sorted order. Possessing one of them is a crime for anyone of another caste.
 
-**They counsel and they draft.** The Tānthëi advise the [[lore-zheklung|Zhëklüng]] and the [[lore-vushok|Vüshōk]] on the Tëng Lüt (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [[lore-castelaws|Dāk Rën Thōk]] are theirs.
+**They counsel and they draft.** The Tānthëi advise the [[lore-zhekzhos|Zhëkzhös]] and the [[lore-vushok|Vüshōk]] on the Tëng Lüt (Heavenly Law) and on what the classification requires. They draft new law in consultation with the Warlords, and the clerks, registrars and census officials who keep the [[lore-castelaws|Dāk Nürk Thōk]] are theirs.
 
 ## Rights and Restrictions
 
 The [[lore-castelaws|Caste Laws]] give the scholars three rights:
 
-- **Counsel**: the exclusive right to advise the Zhëklüng and Vüshōk on celestial matters and the reading of heaven's will.
+- **Counsel**: the exclusive right to advise the Zhëkzhös and Vüshōk on celestial matters and the reading of heaven's will.
 - **The texts**: the sole right to possess, study and interpret the forbidden books and relics.
 - **No arms**: release from the obligation to bear arms or march with an army, though many advise commanders in the field.
 
@@ -32,7 +32,7 @@ They hold the scholars to two restrictions:
 
 ## Naming and Honors
 
-A scholar whose reading of the heavens changes the empire's course may be granted a personal name, and scholars' names are drawn from the stars and the auspicious signs: Röt Zhāt Zhīr Thëng (Rising Vermilion Bird Star) and Tëng Lüng Lëng Vürt (Fifth Auspicious Star of the Celestial Dragon). [[lore-personlnms|Personal Names]] describes the grant.
+A scholar whose reading of the heavens changes the empire's course may be granted a personal name, and scholars' names are drawn from the stars and the auspicious signs: Zhīr Zhāt Lëng Thëng (Rising Bright Star Bird) and Tëng Zhös Lëng Vürt (Fifth Auspicious Star of the Celestial Dragon). [[lore-personlnms|Personal Names]] describes the grant.
 
 ## Elder Scholars
 
@@ -49,7 +49,7 @@ In the [[lore-phlsphylvr|Lëivōr]] framework the Tānthëi are the keepers of i
 - [[lore-castelaws|Caste Laws]]—rights and restrictions governing the Tānthëi
 - [[lore-clndrstrlgy|Calendar and Astrology]]—the reckoning the scholars keep
 - [[lore-zeisik|Law and Honor]]—the Heavenly Law the scholars interpret
-- [[lore-zheklung|Zhëklüng]]—the Emperor and Warlords the scholars counsel
+- [[lore-zhekzhos|Zhëkzhös]]—the Emperor and Warlords the scholars counsel
 - [[lore-vushok|Vüshōk]]—the warrior nobility, the caste above
 - [[lore-zathuk|Zāthük]]—artisans and soldiers, the caste below
 - [[affiliation-tanvurempr|Empire of Tānvür]]—overview of imperial governance and structure

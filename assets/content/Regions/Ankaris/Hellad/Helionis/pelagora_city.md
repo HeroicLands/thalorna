@@ -18,7 +18,7 @@ The city is built around its great harbor, a natural bay sheltered by rocky head
 
 ## Making a Living
 
-Pelagora is more commercial than scholarly [[place-thyrenae2|Thyrenae]]. Its merchants are wealthy and influential, and its markets are stocked with goods from across the sea. The fleet earns the city its standing as well as its living: its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions and the occasional pirate fleet.
+Pelagora is more commercial than scholarly [[place-thyrenae2|Thyrenae]]. Its merchants are wealthy and influential, and its markets are stocked with goods from across the sea. The fleet earns the city its standing as well as its living: its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] incursions, Vylarian ambitions and the occasional pirate fleet.
 
 ## Neighbors
 

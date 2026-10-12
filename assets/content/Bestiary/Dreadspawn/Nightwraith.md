@@ -242,7 +242,7 @@ The oldest quarter of the city of the dead is all stepped tombs and stairs going
 
 # Dossier {#dossier}
 
-The Nightwraith is a dreadspawn made in the shape of a giant bat, fifteen to twenty feet across the wings and about three hundred pounds, gaunt and gray-black, which hunts by night, drinks the blood of what it catches, and stuns its prey with a focused scream. Nightwraiths roost together in deep, dark places by day and hunt alone by night. A colony of them roosts under the oldest quarter of [[place-nekropolis|Nékropolis]], the city of the dead of the Byzarian League in the arid highlands inland from Denizara, where the stepped tombs and rock-cut chambers go down into the limestone further than anyone has mapped. Like every dreadspawn they were made and they cannot breed. The colony was made all at once and only gets smaller.
+The Nightwraith is a dreadspawn made in the shape of a giant bat, fifteen to twenty feet across the wings and about three hundred pounds, gaunt and gray-black, which hunts by night, drinks the blood of what it catches, and stuns its prey with a focused scream. Nightwraiths roost together in deep, dark places by day and hunt alone by night. A colony of them roosts under the oldest quarter of [[place-nykhtion|Nýkhtion]], the city of the dead of the Byzarian League in the arid highlands inland from Nêsthiros, where the stepped tombs and rock-cut chambers go down into the limestone further than anyone has mapped. Like every dreadspawn they were made and they cannot breed. The colony was made all at once and only gets smaller.
 
 ## Presentation
 
@@ -250,7 +250,7 @@ A nightwraith is mostly wing: vast, membranous wings of dark, dull skin that tak
 
 ## In the Land
 
-Nékropolis has been in use for more than two thousand years, and its oldest quarter holds monumental tombs in styles nobody remembers, stepped pyramids and underground chambers cut into the limestone. The nightwraith colony roosts in the deepest of those chambers, dozens of them hanging together in the dark through the day. At dusk they come up out of the stairways and spread out over the arid highlands to hunt, each to its own range: goats and sheep on the hill pastures, donkeys at the caravan halts on the Denizara road, deer, dogs, and travelers sleeping out. They are back underground before dawn. Daylight is nearly unbearable to them.
+Nýkhtion has been in use for more than two thousand years, and its oldest quarter holds monumental tombs in styles nobody remembers, stepped pyramids and underground chambers cut into the limestone. The nightwraith colony roosts in the deepest of those chambers, dozens of them hanging together in the dark through the day. At dusk they come up out of the stairways and spread out over the arid highlands to hunt, each to its own range: goats and sheep on the hill pastures, donkeys at the caravan halts on the Nêsthiros road, deer, dogs, and travelers sleeping out. They are back underground before dawn. Daylight is nearly unbearable to them.
 
 ## Key Behaviors
 
@@ -258,7 +258,7 @@ A nightwraith hunts alone at night and comes back to the colony by day. It finds
 
 ## What the Tomb-Keepers Do
 
-The hereditary keepers of Nékropolis, who say they do not sell graves but keep them, keep the colony too, in their way: nobody is allowed into the deep chambers of the oldest quarter, the stairways down to them are gated, and the keepers' rounds there are made at midday with lamps. At dusk the keepers withdraw from the oldest quarter, and the night watches stand in the newer districts with braziers burning. Mourning families who come for the festivals are told to be indoors by dark. The council of priests and keepers has never asked the League's cities for help against the colony, and a merchant house that suggested clearing it was reminded, politely, that its own ancestors lie in the oldest quarter and might be disturbed. Herders on the highlands round the city fold their flocks at night under roofs and keep fires burning.
+The hereditary keepers of Nýkhtion, who say they do not sell graves but keep them, keep the colony too, in their way: nobody is allowed into the deep chambers of the oldest quarter, the stairways down to them are gated, and the keepers' rounds there are made at midday with lamps. At dusk the keepers withdraw from the oldest quarter, and the night watches stand in the newer districts with braziers burning. Mourning families who come for the festivals are told to be indoors by dark. The council of priests and keepers has never asked the League's cities for help against the colony, and a merchant house that suggested clearing it was reminded, politely, that its own ancestors lie in the oldest quarter and might be disturbed. Herders on the highlands round the city fold their flocks at night under roofs and keep fires burning.
 
 ## Signs
 

@@ -20,4 +20,4 @@ data:
 [[affiliation-okharis|Okháris]]. It is one of the settled villages of
 [[place-okharisrgn|Okháris]].
 
-Thorn-fenced kraals ring the village, and the herds that fill them each night are the measure of every household's standing.
+Thorn-fenced cattle-folds ring the village, and the herds that fill them each night are the measure of every household's standing.

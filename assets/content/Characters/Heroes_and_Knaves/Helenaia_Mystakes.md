@@ -11,7 +11,7 @@ data:
   occupation: Priest
   lore: []
   culture: byzarianclt
-  homes: [karatas2]
+  homes: [orashion2]
   affiliations: {byzarianlg: {rank: 3}, sacredforge: {rank: 3}}
   gender: female
   species: humanflk

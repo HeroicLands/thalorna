@@ -8,7 +8,7 @@ tags: [reference, trade, economy]
 data: {packFolder: settinglore}
 ---
 
-A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tānvüri customs-house and sells for four or five hundred at [[affiliation-yesilhan|Yeşilhan]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
+A caravan-master explains the road to a young factor on his first crossing, and he begins with the arithmetic. Silk costs a hundred weights of silver at the Tānvüri customs-house and sells for four or five hundred at [[affiliation-karvashion|Karvashion]]. The difference pays the tribes, the camels, the riders and the dead, and on a good crossing a little remains.
 
 This note sets out the road: its route and length, the wells and the hand-offs, the beasts, the goods, what each stretch costs, who guarantees what, and why merchants pay all of it instead of going by sea.
 
@@ -67,8 +67,8 @@ Silver is counted in weights, and these figures give a scale for one camel-load 
 | riders, water at owned wells, fodder                       | 15                |
 | the March's customs                                        | 5                 |
 | losses spread over the fleet, about one string in eight    | 15                |
-| **landed at Yeşilhan**                                     | **about 170**     |
-| **sold at Yeşilhan**                                       | **400 to 600**    |
+| **landed at Karvashion**                                   | **about 170**     |
+| **sold at Karvashion**                                     | **400 to 600**    |
 
 That margin is what makes the goods dear and the tribes rich. It also explains why caravans travel heavily armed even with passage bought: passage buys vengeance, not safety.
 

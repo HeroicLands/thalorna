@@ -22,16 +22,16 @@ _Private worldbuilding reference—not published to the website._
 
 ## Ankaris Regions—Mídhalión & West
 
-| Region                                                            | Terran Analog                                                             |
-| ----------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [[place-vylarianse\|Vylarian Sea]]                                | The Mediterranean Sea                                                     |
-| [[affiliation-vylarinmpr\|Vylarian Empire]]                       | Italy through to Turkey (excluding Greece); Roman Empire in decline       |
-| [[place-provenzrgn\|Provenzia Region]]                            | Portugal, southwestern France                                             |
-| [[place-tarvenirgn\|Tarvénia]]                                    | Northern Spain, southern France (Atlantic coast)                          |
-| [[place-elavendre\|Élavendre]]                                    | France (mythic Celtic / fae-influenced)                                   |
-| [[place-aelwyth\|Aelwyth Region]]                                 | Britain / Ireland (mythic, Arthurian)                                     |
-| [[affiliation-cnfdrtnhrdnstts\|Confederation of Haradian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
-| [[place-helionis\|Helionis Region]]                               | Ancient Greece (classical Athens, philosophical schools)                  |
+| Region                                                               | Terran Analog                                                             |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [[place-vylarianse\|Vylarian Sea]]                                   | The Mediterranean Sea                                                     |
+| [[affiliation-vylarinmpr\|Vylarian Empire]]                          | Italy through to Turkey (excluding Greece); Roman Empire in decline       |
+| [[place-provenzrgn\|Provenzia Region]]                               | Portugal, southwestern France                                             |
+| [[place-tarvenirgn\|Tarvénia]]                                       | Northern Spain, southern France (Atlantic coast)                          |
+| [[place-elavendre\|Élavendre]]                                       | France (mythic Celtic / fae-influenced)                                   |
+| [[place-aelwyth\|Aelwyth Region]]                                    | Britain / Ireland (mythic, Arthurian)                                     |
+| [[affiliation-cnfdrtntrzlnstts\|Confederation of Tarûzelian States]] | Mesopotamian/Levantine maritime city-states (Phoenicia, Carthage, Venice) |
+| [[place-helionis\|Helionis Region]]                                  | Ancient Greece (classical Athens, philosophical schools)                  |
 
 ## Ankaris Regions—Northern
 

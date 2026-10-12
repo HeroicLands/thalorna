@@ -16,7 +16,7 @@ data:
     okharis: {rank: 2}
     shokumatrb: {rank: 2}
     nkaruthar: {rank: 1}
-    njiayaroho: {rank: 3}
+    yenorzhrng: {rank: 3}
   gender: male
   species: humanflk
   born: "692.32"
@@ -46,8 +46,8 @@ sohl:
     - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: skill-kivulisprt, system: {masteryLevelBase: 52}}
-    - {model: skill-mamamitosprt, system: {masteryLevelBase: 40}}
+    - {model: skill-zhimbalsprt, system: {masteryLevelBase: 52}}
+    - {model: skill-yombelsprt, system: {masteryLevelBase: 40}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 52}}
@@ -434,9 +434,9 @@ His initiation as a full-fledged shaman came when he survived the **Spirit Hunt*
 
 ### Current Goals
 
-Recently, Kiroba has been haunted by visions of a great imbalance in the spirit world, centered deep within the [[place-yandamalaika|Yánda Maláika]] mountains. These mountains are said to be the home of the gods themselves, a place no mortal is meant to tread. The Zohira speak of a disturbance—ancient spirits are restless, the forces of the natural world growing chaotic. The spirits have shown him that if this imbalance is not corrected, the spirits will turn against the living, causing famine, disease, and disaster throughout [[place-xerathia|Xerathia]].
+Recently, Kiroba has been haunted by visions of a great imbalance in the spirit world, centered deep within the [[place-yandazhrng|Yánda Zohiring]] mountains. These mountains are said to be the home of the gods themselves, a place no mortal is meant to tread. The Zohira speak of a disturbance—ancient spirits are restless, the forces of the natural world growing chaotic. The spirits have shown him that if this imbalance is not corrected, the spirits will turn against the living, causing famine, disease, and disaster throughout [[place-xerathia|Xerathia]].
 
-To correct this, Kiroba must undertake a perilous journey deep into the Yánda Maláika, seeking out an ancient **Oracle of Bones**, a storied spirit that may hold the key to rebalancing the spiritual forces. His journey will take him across Xerathia, through the dangerous jungle rivers and eventually into the mountains themselves, where powerful **jinmuaji** (land-crocodile beasts) and other supernatural predators await.
+To correct this, Kiroba must undertake a perilous journey deep into the Yánda Zohiring, seeking out an ancient **Oracle of Bones**, a storied spirit that may hold the key to rebalancing the spiritual forces. His journey will take him across Xerathia, through the dangerous jungle rivers and eventually into the mountains themselves, where powerful **khamwesi** (land-crocodile beasts) and other supernatural predators await.
 
 ### Skills and Abilities
 
@@ -459,8 +459,8 @@ To correct this, Kiroba must undertake a perilous journey deep into the Yánda M
 
 ### Quest Challenges
 
-- **Jungle Trials**: Before he even reaches the mountains, Kiroba must navigate the labyrinthine rivers and dense jungle, ultimately facing a **Mnyama-Kijicho**. Rivals from the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] have hired mercenaries to track him, seeking to steal his knowledge of the spirits for their own gain.
-- **The Cursed Canyon**: As Kiroba approaches the Yánda Maláika, he must pass through a canyon haunted by the **Roqomuaji**, fearsome, intelligent pack-hunting creatures. These creatures will test Kiroba’s connection to the Zohira, requiring him to summon powerful spirit allies to survive the journey.
+- **Jungle Trials**: Before he even reaches the mountains, Kiroba must navigate the labyrinthine rivers and dense jungle, ultimately facing a **Ngwelo-Shikoro**. Rivals from the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] have hired mercenaries to track him, seeking to steal his knowledge of the spirits for their own gain.
+- **The Cursed Canyon**: As Kiroba approaches the Yánda Zohiring, he must pass through a canyon haunted by the **Rokhomira**, fearsome, intelligent pack-hunting creatures. These creatures will test Kiroba’s connection to the Zohira, requiring him to summon powerful spirit allies to survive the journey.
 - **The Final Trial—The Oracle of Bones**: Upon reaching the Oracle, Kiroba must prove his worth. The Oracle demands a blood sacrifice—whether it is his own or that of another is a decision that will test Kiroba’s soul. The information he gains will not only show him how to fix the imbalance but may also reveal terrible truths about his people's future and the ancient gods of Xerathia.
 
 ### Challenges for Kiroba
@@ -494,20 +494,20 @@ Kiroba is cautious of outsiders and does not trust easily, particularly those fr
 Elder Shaman Ishuara
 : Kiroba’s mentor and spiritual guide, Ishuara remains in the Shókuma village, offering guidance through rituals and dreams. She warns him of dangers ahead and occasionally provides spiritual aid in the form of protective charms.
 
-Chief Mandari
-: The chief of Kiroba’s tribe, Mandari, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
+Chief Nduvári
+: The chief of Kiroba’s tribe, Nduvári, sees great potential in Kiroba and has tasked him with protecting the tribe. He funds Kiroba’s expedition and uses his political connections to provide safe passage through certain hostile territories.
 
 ### Enemies
 
 [[affiliation-zabaukhelath|Zab elu Aû'Khelâthu]]
 : A wealthy Aû'Khelâthu family seeks to gain control over the spirits of the jungle for political advantage. They’ve sent assassins and sorcerers to track Kiroba, hoping to capture or kill him before he can complete his quest.
 
-The Jinmuaji Pack Leader
-: Deep within the Yánda Maláika mountains, Kiroba will face the Pack Leader of the jinmuaji, a monstrous land-crocodile that has terrorized the local tribes. The beast is tied to the spiritual imbalance and must be confronted to restore balance.
+The Khamwesi Pack Leader
+: Deep within the Yánda Zohiring mountains, Kiroba will face the Pack Leader of the khamwesi, a monstrous land-crocodile that has terrorized the local tribes. The beast is tied to the spiritual imbalance and must be confronted to restore balance.
 
 ### Affiliations
 
-[[being-eshewamagr|Eshe wa Magara]]
+[[being-ashendamgr|Ashénda of the Magara]]
 : When her village began suffering from the same spiritual imbalance plaguing the Shókuma lands, she decided to join Kiroba, believing their fates are tied in restoring balance.
 
 [[being-izaretgulzkr|Izaret Gul'Zekeru]]
@@ -515,9 +515,9 @@ The Jinmuaji Pack Leader
 
 ## Plot Hooks
 
-1. **The Spirits’ Warning**: As Kiroba ventures deeper into the jungle on his way to the Yánda Maláika mountains, the Zohira send him disturbing visions of a looming spiritual catastrophe. Rivers turn blood-red in his dreams, and animals behave strangely, attacking anyone who crosses their path. The spirits warn that an ancient ritual, long forgotten, must be performed before the next full moon to prevent the Zohira from unleashing their wrath. The challenge is that the ritual requires a rare artifact, hidden deep within the territory of a rival tribe, the **Magara**, who are known for their hostility toward the Shókuma. Kiroba can risk conflict to retrieve the artifact or attempt to negotiate with the Magara.
+1. **The Spirits’ Warning**: As Kiroba ventures deeper into the jungle on his way to the Yánda Zohiring mountains, the Zohira send him disturbing visions of a looming spiritual catastrophe. Rivers turn blood-red in his dreams, and animals behave strangely, attacking anyone who crosses their path. The spirits warn that an ancient ritual, long forgotten, must be performed before the next full moon to prevent the Zohira from unleashing their wrath. The challenge is that the ritual requires a rare artifact, hidden deep within the territory of a rival tribe, the **Magara**, who are known for their hostility toward the Shókuma. Kiroba can risk conflict to retrieve the artifact or attempt to negotiate with the Magara.
 
-2. **The Hunt for the Jinmuaji**: As Kiroba approaches the Yánda Maláika mountains, he is warned by local tribes of the growing danger posed by the jinmuaji, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the jinmuaji and release the spirits that have been bound to the beasts. However, the jinmuaji are not ordinary creatures—they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.
+2. **The Hunt for the Khamwesi**: As Kiroba approaches the Yánda Zohiring mountains, he is warned by local tribes of the growing danger posed by the khamwesi, massive land-crocodiles that have been terrorizing villages. These creatures are said to be controlled by a dark spirit, one that feeds on fear and chaos. To continue his journey and gain the favor of the Oracle of Bones, Kiroba must first defeat the khamwesi and release the spirits that have been bound to the beasts. However, the khamwesi are not ordinary creatures—they possess both physical and spiritual defenses, requiring Kiroba to outwit and overpower them using both shamanic rituals and his hunter’s instincts.
 
 3. **The Shadow War of the Akhoza-Menlaa**: Kiroba’s journey into the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] takes him into a world of secretive power struggles within the elite arcane circles. At the heart of this conflict is Master Legirha, leader of a clandestine society within the **Spirit** domain, which seeks to expand its influence over the empire by manipulating the minds and emotions of key political figures. Legirha’s mastery of the spiritual arcane arts allows her to tap into the spiritual forces of the Zohira, the nature spirits of Xerathia, whom she seeks to bind and control in order to increase her faction's power within Aû'Khelâthu.
 
@@ -531,4 +531,4 @@ The Jinmuaji Pack Leader
 
 6. **The Betrayer’s Trail**: A former Shaman of the Shókuma, exiled for breaking sacred laws, has resurfaced deep in the jungle, allying with a hostile tribe to gain power over the Zohira. Kiroba is tasked with confronting this traitor, whose forbidden rituals threaten to sever the tribe’s connection to the spirits entirely. As Kiroba presses deeper, he uncovers the exiled shaman’s motivations, which may force him to question his own role and the tribe’s traditions.
 
-7. **The Oracle of Bones**: Haunted by escalating visions of famine and disaster, Kiroba resolves to seek the Oracle of Bones hidden in the sacred Yánda Maláika mountains. The journey is fraught with danger from both supernatural predators, such as the jinmuaji, and rival factions eager to exploit the oracle’s power. Once there, Kiroba must pass a spiritual trial that tests his faith and his ability to make sacrifices for the greater good.
+7. **The Oracle of Bones**: Haunted by escalating visions of famine and disaster, Kiroba resolves to seek the Oracle of Bones hidden in the sacred Yánda Zohiring mountains. The journey is fraught with danger from both supernatural predators, such as the khamwesi, and rival factions eager to exploit the oracle’s power. Once there, Kiroba must pass a spiritual trial that tests his faith and his ability to make sacrifices for the greater good.

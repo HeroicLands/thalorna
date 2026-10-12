@@ -14,9 +14,9 @@ Tz'okilkul, the Walled City, is a coastal fortress on the sea-cliffs of [[place-
 
 ## The Harbor
 
-Tz'okilkul's harbor is one of the two through which K'ankul's sea trade flows; the other is [[place-tzililhatzik|Tz'ilil Ha'tz'ik]], the Island of Swallows, a [[affiliation-kiikbaate|Ki'ik Ba'ate]] port. Between them they handle an enormous volume of K'ankul cargo, with merchant vessels arriving with salt fish, bird feathers, exotic woods and luxury resins from throughout the K'ich'chik world, and K'ankul's own trade in rare books, astronomical instruments and fine carved jade going out.
+Tz'okilkul's harbor is one of the two through which K'ankul's sea trade flows; the other is [[place-tzililnetzik|Tz'ilil Ne'tz'ik]], the Island of Swallows, a [[affiliation-neokbaate|Ne'ok Ba'ate]] port. Between them they handle an enormous volume of K'ankul cargo, with merchant vessels arriving with salt fish, bird feathers, exotic woods and luxury resins from throughout the K'ich'chik world, and K'ankul's own trade in rare books, astronomical instruments and fine carved jade going out.
 
 ## See Also
 
 - [[place-kankulrgn|K'ankul]]—the region the city belongs to
-- [[place-tzililhatzik|Tz'ilil Ha'tz'ik]]—the island port that shares its trade
+- [[place-tzililnetzik|Tz'ilil Ne'tz'ik]]—the island port that shares its trade

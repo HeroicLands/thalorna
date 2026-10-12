@@ -497,7 +497,7 @@ Magister Ptolemaus of the Hydälis Sodalitas
 The Quaesitorium Arcanum
 : The Ordo Arcanis's investigation and enforcement arm has begun to take notice of Ángelides' reputation. An aggressive **Quaesitor Magister Sokrates** has filed an official inquiry into whether Ángelides constitutes an unlicensed magical practitioner in violation of the Ordo's monopoly. While the Ordo's enforcement in the provincial towns of the Byzarian League is laxer than in the Vylarian heartland, an escalation of pressure from the Quaesitorium could force Ángelides to flee or face serious consequences—possibly even trial before the Order's magistrates on charges of illegal sorcery.
 
-Rival Healer Kalista of [[place-yesilhan2|Yeşilhan]]
+Rival Healer Kalista of [[place-karvashion2|Karvashion]]
 : A self-taught mage from the caravan city who was briefly Ángelides' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Ángelides' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Quaesitorium.
 
 ### Affiliations

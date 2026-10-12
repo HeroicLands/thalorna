@@ -14,9 +14,9 @@ Ravenswood lies along the eastern trade routes of [[place-byzariargn|Byzaría]],
 
 ## The Vendetta
 
-[[being-timthnnlkt|Timothéon Naulákit]], a teamster of [[place-chrysamar|Chrysamar]], famously refused to pay, and the brigands have pursued a vendetta against him since that has made the eastern routes steadily more dangerous for his shipments. So when a major shipment from **Merchant House Valdris** vanished on a route Timothéon has driven safely a hundred times, his patrons assumed the Ravenswood Brigands had taken it. His own investigation found no wreckage, no bodies and no sign of a struggle—nothing a band of brigands leaves behind—and the question of what took that caravan is still open.
+[[being-orshkrnlkt|Órashkâr Naulákit]], a teamster of [[place-chrysamar|Chrysamar]], famously refused to pay, and the brigands have pursued a vendetta against him since that has made the eastern routes steadily more dangerous for his shipments. So when a major shipment from **Merchant House Valdris** vanished on a route Órashkâr has driven safely a hundred times, his patrons assumed the Ravenswood Brigands had taken it. His own investigation found no wreckage, no bodies and no sign of a struggle—nothing a band of brigands leaves behind—and the question of what took that caravan is still open.
 
 ## See Also
 
-- [[being-timthnnlkt|Timothéon Naulákit]]—the teamster the brigands pursue
+- [[being-orshkrnlkt|Órashkâr Naulákit]]—the teamster the brigands pursue
 - [[place-byzariargn|Byzaría]]—the region whose trade routes run past it

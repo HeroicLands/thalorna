@@ -11,7 +11,7 @@ data:
   occupation: Shaman
   lore: []
   culture: dunhariclt
-  homes: [dunashir]
+  homes: [ghavulekh]
   affiliations: {dunhartrbs: {rank: 5}, bahramis: {rank: 4}}
   gender: male
   species: humanflk
@@ -430,7 +430,7 @@ Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara]] elders rec
 
 **Training and Mastery**
 
-For forty years, Firâvâd has served as the Pâresak tribe's primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his profound knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **Mâkir**, now forty summers old and master of the tribe's second vision-circle.
+For forty years, Firâvâd has served as the Pâresak tribe's primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his profound knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **Yuzhvâd**, now forty summers old and master of the tribe's second vision-circle.
 
 **Current Station**
 
@@ -446,7 +446,7 @@ Despite his spiritual authority, he harbors profound humility about the limits o
 
 ### Motivation
 
-Firâvâd yearns to ensure a smooth succession of power to the next generation of shamans before death claims him. He fears that his knowledge—accumulated through forty years of communion with spirits and study of ancient practices—will die with him if he cannot adequately prepare **Mâkir** for the full scope of his role. Additionally, he senses a gathering darkness in the spirit realm, an ominous imbalance in the natural order that troubles his sleep. He drives himself to complete certain protective rituals and to guide the tribe toward greater spiritual awareness before an impending crisis manifests in the waking world.
+Firâvâd yearns to ensure a smooth succession of power to the next generation of shamans before death claims him. He fears that his knowledge—accumulated through forty years of communion with spirits and study of ancient practices—will die with him if he cannot adequately prepare **Yuzhvâd** for the full scope of his role. Additionally, he senses a gathering darkness in the spirit realm, an ominous imbalance in the natural order that troubles his sleep. He drives himself to complete certain protective rituals and to guide the tribe toward greater spiritual awareness before an impending crisis manifests in the waking world.
 
 ### Strengths
 
@@ -493,7 +493,7 @@ The Order of Storm-Speakers
 
 1. **The Darkening Omens**: For three seasons, Firâvâd's sacred fire has burned with an unnatural color—deep violet veering toward sickly green. His divinations regarding the tribe's future grow increasingly fragmented and contradictory, something unprecedented in his long practice. He desperately needs assistance investigating the spiritual disturbance, perhaps requiring outsiders with skills in uncovering hidden threats. The adventurers might discover that **a powerful curse or planar incursion** is warping the spiritual foundations of the tribal lands, and only those with both shamanic knowledge and martial prowess can seal the breach before the barrier between worlds collapses entirely.
 
-2. **The Succession Crisis**: As Firâvâd's health deteriorates, he wrestles with the inadequacy of his chosen successor **Mâkir**. The elder shaman suspects that **Mâkir** lacks the spiritual fortitude for the full responsibility, yet naming another successor would create dangerous tensions within the tribe. Firâvâd might hire adventurers to test **Mâkir** through a dangerous spiritual journey or to seek out an ancient artifact rumored to enhance shamanic power. Alternatively, the party might become caught between Firâvâd's cautious wisdom and **Mâkir**'s ambitious hunger for power.
+2. **The Succession Crisis**: As Firâvâd's health deteriorates, he wrestles with the inadequacy of his chosen successor **Yuzhvâd**. The elder shaman suspects that **Yuzhvâd** lacks the spiritual fortitude for the full responsibility, yet naming another successor would create dangerous tensions within the tribe. Firâvâd might hire adventurers to test **Yuzhvâd** through a dangerous spiritual journey or to seek out an ancient artifact rumored to enhance shamanic power. Alternatively, the party might become caught between Firâvâd's cautious wisdom and **Yuzhvâd**'s ambitious hunger for power.
 
 3. **The Theft of the Spirit-Stones**: Sacred stone tokens, each containing the bound essence of an ancestral spirit, vanish from the tribe's sacred circle during a moonless night. Firâvâd cannot divine their location through ordinary means, suggesting their thief possesses knowledge of anti-shamanic wards. He seeks adventurers to recover the stones before the detached spirits grow angry at their confinement. The investigation might reveal that the thief is neither enemy nor criminal, but a desperate parent attempting to recover their child's soul, which Firâvâd's own rituals accidentally trapped within a stone during a past ceremony gone wrong.
 

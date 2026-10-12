@@ -3,7 +3,7 @@ shortcode: nyalbeagl
 name: {full: "Eagle Totem", aliases: [Eagle of the Ngonzi, Ngonzi Totem]}
 type: affiliation
 subType: spirittradition
-description: "The eagle-spirit of the Ngonzi—vision, distance, and the messenger between worlds; entangled with the stone-builder dead who inhabit the Old Kraals."
+description: "The eagle-spirit of the Ngonzi—vision, distance, and the messenger between worlds; entangled with the stone-builder dead who inhabit the Old Hetos."
 tags: [nyaluba, religion, totemic]
 data:
   icon: null
@@ -31,15 +31,15 @@ data:
       - level: 3
         title: Spirit-Speaker
         description: >-
-          The mwalimu wa roho—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
+          The kwendari zohiring—permitted to perceive, address and negotiate with the spirits on the clan's behalf, and answerable for what is asked of them.
       - level: 4
         title: Elder Shaman
         description: >-
           Long practiced, teaching initiates and sitting on the council, where their word carries the greater weight in what the younger Spirit-Speakers dispute.
     offices:
-      Guardian of an Old Kraal: >-
+      Guardian of an Old Heto: >-
         Warden of one ruin of the stone-builders and of who may enter it; held by a different Spirit-Speaker for each, and by no outsider ever.
-      Mwalimu wa Roho: >-
+      Kwendari Zohiring: >-
         Spirit-Speaker of the eagle, who carries word between the living clan and the dead who built in stone.
       Griot of the Ngonzi: >-
         Keeper of the highland genealogies, including the contested descent from the stone-builders.
@@ -59,17 +59,17 @@ sohl: {system: {commonSkills: [eaglengonzisprt]}}
 
 The **Eagle Totem** is the guide of the [[affiliation-nylbtrblntn|Ngonzi]], the highlanders of the southeastern escarpment—vision, distance, and the carrying of word between one world and another. The Ngonzi are goldsmiths and herders, the only Nyáluba clan that regularly works stone, and the only one that claims direct ancestral connection to the lost civilization whose dry-stone walls and oval enclosures stand across their country.
 
-They do not call those places ruins. They call them the **Old Kraals**, and they hold them to be inhabited—which makes the eagle's veneration unlike the other four. The guide is venerated as a messenger, and what it carries word to is not only the spirit world in general but the stone-builder dead in particular. Whether those dead are Ngonzi ancestors, as the clan maintains, or the ancestors of some other people entirely, as the Bombwe griots will say when pressed, is the longest-running dispute in Nyáluba country.
+They do not call those places ruins. They call them the **Old Hetos**, and they hold them to be inhabited—which makes the eagle's veneration unlike the other four. The guide is venerated as a messenger, and what it carries word to is not only the spirit world in general but the stone-builder dead in particular. Whether those dead are Ngonzi ancestors, as the clan maintains, or the ancestors of some other people entirely, as the Lobwezi griots will say when pressed, is the longest-running dispute in Nyáluba country.
 
 ## Veneration
 
-Each Old Kraal has its own Guardian and its own protocols, and entry is refused to outsiders without exception—including to Nyáluba of the other four clans. The Ngonzi relationship to these sites is lineal, intimate, and largely opaque even inside the confederation; what is known outside the clan is what the Ngonzi have chosen to say, which is little.
+Each Old Heto has its own Guardian and its own protocols, and entry is refused to outsiders without exception—including to Nyáluba of the other four clans. The Ngonzi relationship to these sites is lineal, intimate, and largely opaque even inside the confederation; what is known outside the clan is what the Ngonzi have chosen to say, which is little.
 
 The story told at the fire in [[lore-stonetongue|The Stone Tongue]] begins from that refusal:
 
 : As It Is Told at the Fire {#stone-tongue-fire}
 
-> You know the Old Kraals. No, you don't. None of us do, unless we are Ngonzi, and the Ngonzi don't let anyone in. Not a Mvuzi, not a Sengala, not a Bombwe with every clan's fathers in his mouth. Each Kraal has its guardian, and the guardian says no.
+> You know the Old Hetos. No, you don't. None of us do, unless we are Ngonzi, and the Ngonzi don't let anyone in. Not a Ruwozi, not a Sengala, not a Lobwezi with every clan's fathers in his mouth. Each Heto has its guardian, and the guardian says no.
 
 ## See Also
 

@@ -30,8 +30,9 @@
  * - `## Sounds and spelling` with `### Letters` (Letter | Kind | Sounds like,
  *   and an optional Tongue column naming which tongues write it), `### Word
  *   edges` (Edge | Sounds, with the rows "Pairs that may open a word" and
- *   "Consonants that close a word", and optionally "Pairs that may close a word"
- *   and "Vowels that may stand together"), `### Clusters` (Rule | Count, with
+ *   "Consonants that close a word", and optionally "Pairs that may close a word",
+ *   "Vowels that may stand together" and "Consonants that may carry a
+ *   syllable"), `### Clusters` (Rule | Count, with
  *   the row "Most consonants together inside a word") and optionally
  *   `### Spellings the pages do not use` (Written | Read as | What it is).
  * - `## Building words` with optional `### Joining` (First closes on | Second
@@ -60,6 +61,10 @@
  *    consonant or pair (a bound stem, written with a closing hyphen, closes on
  *    anything), no run of consonants is longer than the stated count, and no
  *    two vowels stand together but the listed pairs when the page lists any.
+ *    A consonant the page says may carry a syllable carries one where it
+ *    follows a consonant and stands before another or at the end of the word,
+ *    and there it counts as a vowel for the edge and cluster rules: _hvrn_ is
+ *    _hv-_, a syllable on the _r_, and a closing _n_.
  *    A Built from cell recomputes to the form through the joining and suffix
  *    tables.
  * 2. **The family.** Each daughter cell of the roots table recomputes from the
@@ -483,7 +488,13 @@ export function readPage(text) {
     const edges = read(
         () => {
             const t = tableOf(text, "### Word edges");
-            const out = { opening: [], closing: [], closingPairs: [], vowelPairs: null };
+            const out = {
+                opening: [],
+                closing: [],
+                closingPairs: [],
+                vowelPairs: null,
+                syllabic: [],
+            };
             for (const { cells } of t.rows) {
                 const label = plain(cells[0]).toLowerCase();
                 const forms = ticked(cells[1] ?? "").map(lower);
@@ -491,10 +502,12 @@ export function readPage(text) {
                 else if (label.startsWith("consonants that close")) out.closing = forms;
                 else if (label.startsWith("pairs that may close")) out.closingPairs = forms;
                 else if (label.startsWith("vowels that may stand together")) out.vowelPairs = forms;
+                else if (label.startsWith("consonants that may carry a syllable"))
+                    out.syllabic = forms;
             }
             return out;
         },
-        { opening: [], closing: [], closingPairs: [], vowelPairs: null },
+        { opening: [], closing: [], closingPairs: [], vowelPairs: null, syllabic: [] },
     );
 
     const clusters = read(() => {
@@ -755,6 +768,21 @@ export function soundProblems(word, page, tag) {
     const bound = word.endsWith("-");
     const body = bound ? word.slice(0, -1) : word;
     const cut = sounds(body, lettersOf(page, tag));
+    // A syllabic consonant between consonants, or closing the word after one,
+    // carries the syllable and counts as a vowel.
+    const syllabic = page.edges.syllabic ?? [];
+    if (syllabic.length) {
+        for (let i = 1; i < cut.length; i += 1) {
+            const next = cut[i + 1];
+            if (
+                cut[i].vowel === false &&
+                syllabic.includes(cut[i].letter) &&
+                cut[i - 1].vowel === false &&
+                (next === undefined || next.vowel === false)
+            )
+                cut[i] = { ...cut[i], vowel: true, syllabic: true };
+        }
+    }
     const unknown = [
         ...new Set(cut.filter((s) => s.vowel === null && !s.bound).map((s) => s.letter)),
     ];

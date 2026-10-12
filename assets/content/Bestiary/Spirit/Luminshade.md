@@ -419,7 +419,7 @@ The sun is down behind the mountains and the great lake has gone still as a mirr
 
 # Dossier {#dossier}
 
-The Luminshade is a spirit of the boundary between light and shadow, a tall, graceful, man-shaped figure made of the two in perfect balance, which dwells in reflections, at dusk and dawn, and wherever light behaves strangely. It is curious, alien and not hostile, though it is no friend either: it cares for beauty, symmetry and interesting patterns, and it judges people by whether they provide them. It is seen most often at [[place-ixkulkul|Ixkul K'ul]], the temple-city on the sacred lake of K'uxi Balam in Southern K'ich'chik, where the lake is said to be the eye through which the gods observe the mortal world and the boundary between the mortal and the divine grows thin.
+The Luminshade is a spirit of the boundary between light and shadow, a tall, graceful, man-shaped figure made of the two in perfect balance, which dwells in reflections, at dusk and dawn, and wherever light behaves strangely. It is curious, alien and not hostile, though it is no friend either: it cares for beauty, symmetry and interesting patterns, and it judges people by whether they provide them. It is seen most often at [[place-ixkulchalix|Ixkul Ch'alix]], the temple-city on the sacred lake of K'uxi Ix'bal in Southern K'ich'chik, where the lake is said to be the eye through which the gods observe the mortal world and the boundary between the mortal and the divine grows thin.
 
 ## Presentation
 
@@ -427,7 +427,7 @@ A luminshade stands about six feet tall, shaped roughly like a person but plainl
 
 ## In the Land
 
-The great lake of Ixkul K'ul dominates the eastern reaches of K'uxi Balam, and the temple-city on its northern shore is built entirely toward the water, its primary pyramid placed to catch the first light of dawn reflected across the lake. Luminshades come there at dawn and dusk, when the lake is a mirror, and walk the causeways, the viewing platforms and the ritual bathing pools, and the surface of the lake itself. They are drawn to places of change and of strange light: twilight, the edges of the lake's reflections, the polished stone of the temples. They do not stay long, and they seem to go back into the reflections they came out of.
+The great lake of Ixkul Ch'alix dominates the eastern reaches of K'uxi Ix'bal, and the temple-city on its northern shore is built entirely toward the water, its primary pyramid placed to catch the first light of dawn reflected across the lake. Luminshades come there at dawn and dusk, when the lake is a mirror, and walk the causeways, the viewing platforms and the ritual bathing pools, and the surface of the lake itself. They are drawn to places of change and of strange light: twilight, the edges of the lake's reflections, the polished stone of the temples. They do not stay long, and they seem to go back into the reflections they came out of.
 
 ## Key Behaviors
 
@@ -435,7 +435,7 @@ A luminshade is driven by curiosity and by an aesthetic sense no one has been ab
 
 ## What the Priests Do
 
-The priesthood of Ixkul K'ul maintains absolute control over access to the lake's waters, and it treats the luminshades as part of what the lake is: a sign that the boundary is thin and the gods are watching. Priests do not speak to them, and pilgrims are told not to answer one that speaks. The city's quiet character, where loud voices and raucous behavior are unusual, suits the luminshades; the priests say a luminshade that is shown something ugly, a quarrel or a cruelty on the causeway, becomes dangerous, and a pilgrim who behaves badly at dusk may be blinded by it before the temple guards reach him. The temple's craftspeople make offerings of polished obsidian mirrors and set them along the causeways at dusk, and the luminshades are seen looking into them.
+The priesthood of Ixkul Ch'alix maintains absolute control over access to the lake's waters, and it treats the luminshades as part of what the lake is: a sign that the boundary is thin and the gods are watching. Priests do not speak to them, and pilgrims are told not to answer one that speaks. The city's quiet character, where loud voices and raucous behavior are unusual, suits the luminshades; the priests say a luminshade that is shown something ugly, a quarrel or a cruelty on the causeway, becomes dangerous, and a pilgrim who behaves badly at dusk may be blinded by it before the temple guards reach him. The temple's craftspeople make offerings of polished obsidian mirrors and set them along the causeways at dusk, and the luminshades are seen looking into them.
 
 ## Signs
 

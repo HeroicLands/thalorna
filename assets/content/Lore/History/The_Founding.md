@@ -34,7 +34,7 @@ data:
             how: >-
               every date written in these realms is counted from this year, including in the ones that left the Empire centuries ago
             knowledge: named
-          - place: place-haradregin
+          - place: place-taruzelrgn
             how: >-
               the calendar arrives with the legions and stays after them, which is the visible measure of where the Empire's cultural gravity still reaches
             knowledge: named
@@ -78,7 +78,7 @@ reality.
 
 The calendar is the part of it that outlived the Empire. Events before this year are reckoned **Before
 the Founding**, events after it **After the Founding**, and the reckoning is the working calendar of
-Mídhalión, Aurèldía, Heliónis, Harad, Provènzia, Tarvénia, Élavendre and Aelwyth—including the
+Mídhalión, Aurèldía, Heliónis, Tarûzel, Provènzia, Tarvénia, Élavendre and Aelwyth—including the
 provinces that have long since gone their own way. Beyond that sphere other civilizations keep their
 own, and the Vylarian Calendar's reach is itself a visible measure of where the Empire's cultural
 gravity still holds even where its legions no longer do.

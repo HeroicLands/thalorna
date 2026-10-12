@@ -13,13 +13,13 @@ The Tānvüri do not count the game dishonorable. Every bureaucracy has politics
 
 ## The Heavenly Example
 
-The Tānvüri hold that the Dance copies heaven. The [[affiliation-tngvkvnlei|celestial administration]] has politics of its own: the eleven spirit bureaus contest each other's jurisdictions, their overseers press for wider authority, the Ministry of Final Account trades on its control of every soul that must pass through it, and the ancestor spirits form factions to push their descendants' interests. The Great Sorting did not end rivalry; it gave rivalry its own category.
+The Tānvüri hold that the Dance copies heaven. The [[affiliation-tngvkrrklei|celestial administration]] has politics of its own: the eleven spirit bureaus contest each other's jurisdictions, their overseers press for wider authority, the Ministry of Final Account trades on its control of every soul that must pass through it, and the ancestor spirits form factions to push their descendants' interests. The Great Sorting did not end rivalry; it gave rivalry its own category.
 
 What the mortal game adds is that the players have something personal to lose. In heaven a bureau loses a portfolio. At court a Warlord's son is destroyed by a rumor, a noble house is bankrupted by a petition sent to the wrong office, and a whole clan's ancestors are starved because someone intercepted its offerings. The doctrine that rivalry is the cosmic order working as intended is, the court's critics observe, very convenient for the people who play well.
 
 ## The Players
 
-**The Zhëklüng.** The [[lore-zheklung|Zhëklüng]]—the Emperor's counselors, his ministers, the Warlords and their families—are the main players, and the game is theirs.
+**The Zhëkzhös.** The [[lore-zhekzhos|Zhëkzhös]]—the Emperor's counselors, his ministers, the Warlords and their families—are the main players, and the game is theirs.
 
 **The Vüshōk.** The great [[lore-vushok|Vüshōk]] lords play as the holders of armies, and a faction that wins their support can carry any question.
 
@@ -27,7 +27,7 @@ What the mortal game adds is that the players have something personal to lose. I
 
 **The Emperor.** The Emperor sits at the top and governs through the same channels every other player works. An Emperor who cannot play finds his decrees delayed, his petitions misrouted, his appointments undercut and his policies reinterpreted by the officials who carry them out. The best players steer imperial policy without the Emperor ever learning that he was steered.
 
-**The Vëndük.** The [[lore-venduk|Vëndük]] are pieces on the board, not players, since they are owned by the Zhëklüng. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhëklüng tend their Vëndük with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
+**The Vëndük.** The [[lore-venduk|Vëndük]] are pieces on the board, not players, since they are owned by the Zhëkzhös. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhëkzhös tend their Vëndük with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
 
 ## How the Game Is Played
 
@@ -61,9 +61,9 @@ The Shadow is not united. Its members are ambitious people joined by the wish to
 
 ## See Also
 
-- [[affiliation-yurthatzhk|Yürtthāt Zhāk]]—a noble house brought low in the Dance
-- [[being-teitjekvngyrt|Tëitjëk Vëngyürt]]—a rebellion played by the same rules
-- [[lore-zheklung|Zhëklüng]]—the caste whose members are the main players
+- [[affiliation-yirtthatzhk|Yīrtthāt Zhāk]]—a noble house brought low in the Dance
+- [[being-teitjekvngyrt|Tëitjëk Vëngyīrt]]—a rebellion played by the same rules
+- [[lore-zhekzhos|Zhëkzhös]]—the caste whose members are the main players
 - [[lore-ancstrwrshp|Ancestor Worship]]—the spiritual economy the Dance preys on
 - [[lore-zeisik|Zëisīk]]—the law and the honor the game turns into weapons
 - [[lore-marriage|Marriage]]—the alliance the Dance uses most

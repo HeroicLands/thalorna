@@ -27,4 +27,4 @@ home.
 
 ## Notable Figures
 
-- [[being-gahijwfnjr|Gahiji wa Fénjara]]—the Spirit Tracker.
+- [[being-tabesnfnjr|Tabéso nu Fénjara]]—the Spirit Tracker.

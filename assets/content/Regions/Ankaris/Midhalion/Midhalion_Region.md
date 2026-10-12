@@ -12,24 +12,24 @@ data:
   population: 47000000
   packFolder: midhalion
 
-# terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Harad on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
+# terran_analog: "The Mediterranean basin—a cross-continental constellation of polities ringing the Vylarian Sea, with the Vylarian heartland centered on the Italian peninsula and Adriatic east, Tarûzel on the Levantine coast (Israel and Lebanon), Hellad on the Aegean, and the southern shore in Xerathia."
 ---
 
 Mídhalión is the world around one sea. It is no nation and no continuous territory but the lands that ring the [[place-vylarianse|Vylarian Sea]], bound together by maritime trade, by the legacy of the [[affiliation-vylarinmpr|Vylarian Empire]], and by three thousand years of trading, fighting and marrying across the water. It is the only region of Thalorna that spans two continents, joining the northern shore of Ankaris to the northern shore of [[place-xerathia|Xerathia]] in a single economy whose ports are tied more tightly to one another than to the interiors of their own continents. An outsider remembers it for its ports: the densest trade in the world, and a market where every faith and coin of the known world changes hands.
 
-A supercargo who has ridden merchant hulls along both shores puts it to a newcomer this way: "Every people on this sea will tell you what Mídhalión is, and every one of them is answering a different question. A Vylarian means the core of his empire, where the fight over who inherits it is still going on. A Haradi means the market his people finally won the right to trade in as equals and not as subjects. A Khelâthi priest means a market his temples have used for three thousand years and expect to use for a thousand more, whoever wins up north. A Helionite philosopher means a laboratory for every way people have found to govern and to worship. Learn all four answers before you sign a contract with any of them."
+A supercargo who has ridden merchant hulls along both shores puts it to a newcomer this way: "Every people on this sea will tell you what Mídhalión is, and every one of them is answering a different question. A Vylarian means the core of his empire, where the fight over who inherits it is still going on. A Tarûzeli means the market his people finally won the right to trade in as equals and not as subjects. A Khelâthi priest means a market his temples have used for three thousand years and expect to use for a thousand more, whoever wins up north. A Helionite philosopher means a laboratory for every way people have found to govern and to worship. Learn all four answers before you sign a contract with any of them."
 
 ## Geography
 
 The region takes its shape from the [[place-vylarianse|Vylarian Sea]] and the coasts that enclose it.
 
 - **The northern, Ankarian shore** holds [[affiliation-vylarinmpr|Vylaria]] and the territories it still claims; the independent successor-states of [[place-provenzrgn|Provènzia]] and [[place-tarvenirgn|Tarvénia]]; and the city-states of [[place-heladrgn|Hellád]], philosophical [[affiliation-ctysttshlns|Heliónis]] and the merchant cities of the [[affiliation-byzarianlg|Byzarian League]], whose two short coasts lie side by side at the eastern end of that shore. The western Aurèldían realms of [[place-elavendre|Élavendre]] and the island of [[place-aelwyth|Aelwyth]] trade into it.
-- **The eastern shore** holds the [[affiliation-sultntmrdd|Sultanate of Amradad]], the Āsháian sultanate of the north-western Dunhara, and off it the islands of the [[affiliation-cnfdrtnhrdnstts|Haradian]] archipelago.
+- **The eastern shore** holds the [[affiliation-sultntmrdd|Sultanate of Amradad]], the Āsháian sultanate of the north-western Dunhara, and off it the islands of the [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] archipelago.
 - **The southern, Xerathian shore** holds the ancient [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], the three-flamed kingdom of [[affiliation-okharis|Okháris]], and the [[affiliation-mtrrchybth|Matriarchy of Bethua]].
 
 These polities share no sovereign, no law and no faith. What they share is the sea, and three millennia of commerce and quarrel across it are what make Mídhalión one place.
 
-Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of Heliónis, the great river of Aû'Khelâthu, the dryland farms of the Haradian islands, and the grain belts of Bethua. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
+Behind the ports lie the hinterlands that feed them: the farmland and vineyards of the Vylarian peninsula, the olive groves and terraces of Heliónis, the great river of Aû'Khelâthu, the dryland farms of the Tarûzelian islands, and the grain belts of Bethua. The region lives on the harvests of its shores and on the long-distance trade that carries those harvests, with the manufactures and luxuries of a dozen civilizations, across the water.
 
 ## Peoples and Culture
 
@@ -41,7 +41,7 @@ The ports have more in common with each other than with the land behind them. A 
 
 ## Religion
 
-Ask a dock-porter in any large port which gods are honored there, and the honest answer is all of them that trade into the harbor. On the northern shore the [[affiliation-arldnpnthn|Aurèldían Pantheon]] dominates, though Heliónis and the Haradian archipelago keep their own denominational variants. On the eastern shore the [[affiliation-ashanpnthn|Āsháian]] faith of the Sultanate of Amradad dominates, and it is a substantial minority in the Haradian islands. On the southern shore the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu and the [[affiliation-nkaruthar|Nkaru'thar]] faith of Okháris dominate, with the matriarchal religion of Bethua as a distinct third tradition.
+Ask a dock-porter in any large port which gods are honored there, and the honest answer is all of them that trade into the harbor. On the northern shore the [[affiliation-arldnpnthn|Aurèldían Pantheon]] dominates, though Heliónis and the Tarûzelian archipelago keep their own denominational variants. On the eastern shore the [[affiliation-ashanpnthn|Āsháian]] faith of the Sultanate of Amradad dominates, and it is a substantial minority in the Tarûzelian islands. On the southern shore the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu and the [[affiliation-nkaruthar|Nkaru'thar]] faith of Okháris dominate, with the matriarchal religion of Bethua as a distinct third tradition.
 
 The great ports house temples of every major faith that trades there, and shrines for the faiths too small to keep a temple. Coexistence rests on commercial necessity: nobody antagonizes a partner whose ships fill the harbor. It is not agreement. Aurèldían priests and Khelâthi hierophants each hold the other sincerely wrong, but riot and persecution over religion are much rarer in Mídhalión than in the interiors of most of its polities.
 
@@ -49,20 +49,20 @@ The great ports house temples of every major faith that trades there, and shrine
 
 The region's politics are the long decline of the [[affiliation-vylarinmpr|Vylarian Empire]] and the scramble of successor-states and new powers to fill the space it leaves.
 
-- **[[affiliation-cnfdrtnhrdnstts|Harad]]**'s recent independence has upset the balance of the eastern sea.
+- **[[affiliation-cnfdrtntrzlnstts|Tarûzel]]**'s recent independence has upset the balance of the eastern sea.
 - **[[place-provenzrgn|Provènzia]]** and **[[place-helionis|Heliónis]]** assert their cultural and political independence while keeping careful economic ties to Vylaria.
 - **[[place-tarvenirgn|Tarvénia]]** guards its sovereignty with particular ferocity.
 - **The southern powers**—[[affiliation-empireakhlth|Aû'Khelâthu]], [[affiliation-okharis|Okháris]] and [[affiliation-mtrrchybth|Bethua]]—watch the northern struggle with ancient patience or opportunism by turns. Each is older than Vylaria, and each reckons that whatever northern power comes out on top will need its trade.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Harad to Heliónis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Aû'Khelâthu and Okháris have mature magical traditions of their own and have never granted the Ordo a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Ordo's northern monopoly cannot grow past the sea.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] is the one institution that crosses every northern border. It keeps chapters from Vylaria to Tarûzel to Heliónis and claims a continent-wide monopoly on sanctioned arcane practice. Its reach across the water is weak: Aû'Khelâthu and Okháris have mature magical traditions of their own and have never granted the Ordo a foothold. That asymmetry is a standing source of friction, and the southern shore's arcane self-sufficiency is part of why the Ordo's northern monopoly cannot grow past the sea.
 
 ## Trade
 
-Mídhalión is the densest trading economy in Thalorna, and its commerce runs on several clocks at once: daily fishing and coastal hauling from port to port, seasonal shipments of grain and wine, and the annual long-distance exchange that brings silks and spices from the far east to Aurèldían courts. The common trade language is [[skill-valtarlng|Valtári]], a pidgin built on Vylarian, Helonic and Haradi and understood in every significant port.
+Mídhalión is the densest trading economy in Thalorna, and its commerce runs on several clocks at once: daily fishing and coastal hauling from port to port, seasonal shipments of grain and wine, and the annual long-distance exchange that brings silks and spices from the far east to Aurèldían courts. The common trade language is [[skill-valtarlng|Valtári]], a pidgin built on Vylarian, Helonic and Tarûzeli and understood in every significant port.
 
 Every major class of goods in Thalorna moves through the region:
 
-- **From the northern shore:** Vylarian steel, Helionite wisdom and oil, Haradian spice and cloth, Provenzian art, Tarvénan grain.
+- **From the northern shore:** Vylarian steel, Helionite wisdom and oil, Tarûzelian spice and cloth, Provenzian art, Tarvénan grain.
 - **From the southern shore:** Khelâthi grain, papyrus and gold, Okhárian bronzework, Bethuan leather and textiles.
 - **From beyond:** far-eastern silk, porcelain and tea, Dunhari salt and camels, Vedyari gems and manuscripts.
 
@@ -82,7 +82,7 @@ Mídhalión dates by the [[lore-commoncal|Vylarian Calendar]]: years counted Aft
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the declining imperial power
 - [[place-vylariargn|Vylaría Region]]—the empire's heartland
 - [[lore-commoncal|The Vylarian Calendar]]—the reckoning the region dates by
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the ascendant eastern maritime rival
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the ascendant eastern maritime rival
 - [[place-helionis|Heliónis]]—philosophical and intellectual center
 - [[place-provenzrgn|Provènzia Region]]—artistic heartland of the northern shore
 - [[place-tarvenirgn|Tarvénia]]—independent western peninsula

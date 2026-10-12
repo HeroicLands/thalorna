@@ -153,7 +153,7 @@ Byzarian is a hybrid member of the **Helonic language family**, intermediate bet
 
 - **Helonic**—Its grammatical ancestor; Byzarian retains the SVO word order, case system (simplified), and core vocabulary
 - **Bethuan**—A distinct Helonic relative that evolved differently, retaining more ancient phonetic features but developing a unique register system
-- **Eastern languages** (Dunhari, Vedyari, Haradi)—Sources of vocabulary, phonetic patterns, and some structural features
+- **Eastern languages** (Dunhari, Vedyari, Tarûzeli)—Sources of vocabulary, phonetic patterns, and some structural features
 
 Educated speakers of all three Helonic-family languages can communicate with minimal difficulty; monolingual speakers may struggle with Byzarian's rapid speech and compressed phonetics.
 
@@ -166,7 +166,7 @@ Byzarian naming reflects the culture's hybrid heritage and mercantile values. A 
 
 The final sound therefore separates the two on hearing alone, which matters in a tongue whose bonds are read out before they are sealed.
 
-The operation that makes a name Byzarian rather than borrowed is **an inherited root with a coined ending**. The root may be Helonic or eastern; the ending belongs to Byzarian and to no other tongue. _Theodar-_ takes `-ash` and gives **Theodarash**, _Basil-_ takes `-kâr` and gives **Basilkâr**, _Nikó-_ takes `-marzân`, _Maxent-_ takes `-áhr`, _Glykeri-_ takes `-ásh`, _Sofroni-_ takes `-áze`. What a Byzarian will not do is wear an eastern name bare: an eastern root always takes a Helonic or a Byzarian ending—_arslan_ gives **Arslanikos**, _shahr_ gives **Shahrikos** and **Shahrinaz**, _gohar_ gives **Gohárikos** and **Goharéna**—and a name that arrives unadapted marks its bearer as a visitor rather than a citizen.
+The operation that makes a name Byzarian rather than borrowed is **an inherited root with a coined ending**. The root may be Helonic or eastern; the ending belongs to Byzarian and to no other tongue. _Theodar-_ takes `-ash` and gives **Theodarash**, _Basil-_ takes `-kâr` and gives **Basilkâr**, _Nikó-_ takes `-marzân`, _Maxent-_ takes `-áhr`, _Glykeri-_ takes `-ásh`, _Sofroni-_ takes `-áze`. What a Byzarian will not do is wear an eastern name bare: an eastern root always takes a Helonic or a Byzarian ending—_kezvûn_ "hawk" gives **Kezvûnikos**, _pazhûr_ "pearl" gives **Pazhûrikos** and **Pazhûréna**, _zhevrân_ "gem" gives **Zhevrânikos** and **Zhevrânéla**—and a name that arrives unadapted marks its bearer as a visitor rather than a citizen.
 
 ### Given Names
 
@@ -185,7 +185,7 @@ A house name states what the house is answerable for, and the suffix says on wha
 - **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrysákit**, _porphyr-_ the purple dye gives **Porphyrákit**, _nomism-_ "coin" gives **Nomismákit**.
 - **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbor" gives **Limeníkot**, _gephyr-_ "bridge" gives **Gephyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
 - **`-ídek`**, hardened from the mixed `-idês`—**the house of a forebear**. _Theodor-_ gives **Theodorídek**, _Konstant-_ gives **Konstantídek**.
-- **`-zát`**, hardened from the eastern `-zade` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _gohar_ "gem" gives **Goharzát**, _karvan_ "caravan" gives **Karvanzát**.
+- **`-zát`**, hardened from the eastern `-zâtvel` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _zhevrân_ "gem" gives **Zhevrânzát**, _karvash_ "caravan" gives **Karvashzát**.
 
 A house name descends in the male line and does not change. A merchant whose concern no existing house can account for may be granted a new one by the League's assessors, who fix the suffix by what the house is to be held to; a trade house that later buys a landing does not thereby become a `-íkot` house, and the assessors are known for refusing.
 
@@ -196,7 +196,7 @@ The tradition of **patronymic and matronymic suffixes** is used formally: "Theod
 The suffix system reflects layers of history:
 
 - **-opoulos** (descendant of)—pure Helonic
-- **-zade** (born of)—pure eastern
+- **-zâtvel** (born of)—pure eastern
 - **-ikos, -akis**—Byzarian adaptations
 - **-idês, -ídes**—mixed forms
 
@@ -210,50 +210,42 @@ The suffix system reflects layers of history:
 - Nikándros
 - Stávron
 - Theóklêtos
-- Leónidês
+- Eutháliros
 - Damáklios
-- Kallíxenos
+- Ghéraninos
 - Basilíon
 - Anastásios
 - Phótianos
-- Lysándros
+- Dôrashinos
 - Nikêphoros
-- Kyriákos
-- Arkádios
+- Khrýshirês
+- Lámbhinos
 - Eugênios
 
 #### Eastern-influenced
 
-- Arslanikos
-- Khalideon
-- Shahrikos
-- Varakion
-- Khasrikon
-- Gohárikos
-- Firuzéon
-- Sabzárion
-- Nishánikos
-- Langárion
-- Anbaríkos
-- Karvánikos
-- Sudázion
-- Meydánikos
-- Tarázikon
-- Abrázion
-- Shabríkos
-- Kuhánikos
-- Badvárion
-- Simázion
-- Zarránikos
-- Atashíkon
-- Sangázion
-- Rahvárion
-- Mehtárion
-- Zumurdíkon
-- Asmánion
-- Sipehríkos
-- Firdásion
-- Parvázikon
+- Belzûrion
+- Dâlveshikos
+- Dezhbâlion
+- Karvashikos
+- Kezhvâlikos
+- Kezvûnikos
+- Mâzhrelion
+- Nêshârion
+- Pârzhelion
+- Pazhûrikos
+- Pazhûrion
+- Rûzhvelis
+- Selvâzhikon
+- Sêvrûneon
+- Tchârzilikon
+- Tchelvâzeon
+- Tchelvâzikon
+- Tchîrnâleon
+- Tûlvâzikos
+- Vezhnûrikos
+- Zhâmbelikos
+- Zhevrânikos
 
 #### Distinctly Byzarian (hybrid forms)
 
@@ -319,7 +311,7 @@ The suffix system reflects layers of history:
 
 - Anastásina
 - Eudokíana
-- Kassándria
+- Ghígnira
 - Kallirôia
 - Theodorína
 - Basilía
@@ -335,36 +327,26 @@ The suffix system reflects layers of history:
 
 #### Eastern-influenced
 
-- Shahrinaz
-- Mahrizade
-- Gulbarana
-- Azadéna
-- Khatunéla
-- Afsunéla
-- Nargizán
-- Faridéna
-- Goharéna
-- Firuzána
-- Sabzéla
-- Nishanéla
-- Simínai
-- Abránai
-- Mehrénai
-- Sipehréna
-- Asmanéa
-- Mehtabéna
-- Parvázina
-- Shabnéla
-- Zarrínea
-- Bahárina
-- Firdaséna
-- Gulnazéla
-- Atashéna
-- Khavaréna
-- Lajvardéna
-- Zarinéla
-- Banuéla
-- Zumurdéna
+- Ambâréna
+- Belzûréla
+- Dâlveshéla
+- Dezhbâléa
+- Karvashéna
+- Kezhvâléna
+- Kezvûnéna
+- Mâzhreléna
+- Pârzheléla
+- Pazhûréna
+- Rûzhvelána
+- Selvâzhéna
+- Sêvrûnai
+- Tchârzilína
+- Tchelvâzéa
+- Tchîrnâlína
+- Tûlvâzéa
+- Vezhnûréla
+- Zhâmbelína
+- Zhevrânéla
 
 #### Distinctly Byzarian (hybrid forms)
 
@@ -521,28 +503,25 @@ The suffix system reflects layers of history:
 
 #### Houses of the eastern founder
 
-- Goharzát
-- Firuzazát
-- Mehrazát
-- Mahzát
-- Shabzát
-- Bâdzát
-- Atashazát
-- Sangazát
-- Abrazát
-- Kuhazát
-- Rahazát
-- Karvanzát
-- Meydanzát
-- Anbarzát
-- Langarzát
-- Tarazát
-- Simazát
-- Zarazát
-- Gulzát
-- Nishanzát
-- Sipehrazát
-- Parvazát
+- Ambârzát
+- Belzûrzát
+- Dâlveshzát
+- Karvashzát
+- Kezhvâlzát
+- Kezvûnzát
+- Kîtvârzát
+- Mâzhrelzát
+- Nêshârzát
+- Pârzhelzát
+- Pazhûrzát
+- Rûzhvelzát
+- Selvâzhazát
+- Sêvrûnzát
+- Tchârzilzát
+- Tchelvâzát
+- Tûlvâzát
+- Zhâmbelzát
+- Zhevrânzát
 
 #### Houses known by a founder's name
 

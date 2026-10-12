@@ -17,7 +17,7 @@ Heliónis was once the cultural heart of the [[affiliation-vylarinmpr|Vylarian E
 
 ## The Country
 
-Heliónis lies east of Vylaría, south of [[place-velanthrgn|Velanthia]] and west of [[place-byzariargn|Byzaría]], and it reaches the [[place-vylarianse|Vylarian Sea]] only along a short coast at its south-western corner, where its port cities face the water and, across it to the south, the islands of [[affiliation-cnfdrtnhrdnstts|Harad]]. The land is a patchwork of olive-clad hills, narrow fertile valleys and abrupt mountain ranges, with rocky shores along its one stretch of coast. The roads through the valleys and over the passes connect the cities and, as often, divide them.
+Heliónis lies east of Vylaría, south of [[place-velanthrgn|Velanthia]] and west of [[place-byzariargn|Byzaría]], and it reaches the [[place-vylarianse|Vylarian Sea]] only along a short coast at its south-western corner, where its port cities face the water and, across it to the south, the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. The land is a patchwork of olive-clad hills, narrow fertile valleys and abrupt mountain ranges, with rocky shores along its one stretch of coast. The roads through the valleys and over the passes connect the cities and, as often, divide them.
 
 The climate is warm and dry. The sun is bright, the sea is blue to the horizon, and the light has a clarity that artists and philosophers have celebrated for millennia. The soil is thin but productive: olive groves, vineyards and hardy grain grow on terraces cut into the hillsides.
 
@@ -77,7 +77,7 @@ The Republic conquered Heliónis between 335 and 312 BF, during its expansion ac
 
 Across the southern sea, the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] is an ancient civilization with which Heliónis has exchanged ideas for centuries. Helionite philosophy has shaped Khelâthi theological debate, and Khelâthi mathematics, astronomy and architecture have enriched Helionite scholarship. That relationship is warmer and more equal than the entanglement with Vylaria.
 
-Harad, across the water to the south, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Haradian ports to markets across the world. [[place-provenzrgn|Provènzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with Byzaría to the east are complicated: the two share cultural roots and have grown apart over centuries.
+Tarûzel, across the water to the south, is a natural trading partner, and Helionite olive oil, wine and luxury crafts flow through Tarûzelian ports to markets across the world. [[place-provenzrgn|Provènzia]] is a cultural rival and admirer whose people have adopted much of Helionite philosophy and art, sometimes to the Helionites' annoyance. Relations with Byzaría to the east are complicated: the two share cultural roots and have grown apart over centuries.
 
 ## What Heliónis Is Known For
 
@@ -99,7 +99,7 @@ Harad, across the water to the south, is a natural trading partner, and Helionit
 - [[lore-helionscnq|The Conquest of Heliónis]]—the war of 335–312 BF
 - [[affiliation-vylarinmpr|Vylarian Empire]]—former overlord, and the student of its culture
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—an old partner in ideas
-- [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—eastern trading partner
+- [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—eastern trading partner
 - [[place-provenzrgn|Provènzia Region]]—cultural rival and admirer
 - [[place-byzariargn|Byzaría Region]]—eastern neighbor and cousin
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods of Heliónis

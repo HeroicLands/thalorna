@@ -3,7 +3,7 @@ shortcode: ankrscntnnt
 name: {full: Ankaris Continent, aliases: []}
 type: place
 subType: region
-description: The largest continent of Thalorna—home to Vylaria, Harad, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
+description: The largest continent of Thalorna—home to Vylaria, Tarûzel, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tānvür and Jurthat.
 tags: [continent, ankaris]
 data:
   demonym: Ankarian
@@ -46,7 +46,7 @@ Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]]
 
 The Elder Races—the [[lore-flksinale|Sinalë]] who arrived roughly eight thousand years ago and the [[lore-flkkhazar|Khazári]] who followed two thousand years later—are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinalë or Khazári; most doubt they exist at all. Where they do persist, they do so in remote enclaves: Sinalëan communities in the oldest forests of Élavendre and in the imperial court of Tānvür, Khazári cities in the high faces of the eastern ranges.
 
-Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the faith of the western heartlands and Mídhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Āsháian Pantheon]] dominates the central and southern deserts. The [[affiliation-varakpnthn|Varnaka Pantheon]] anchors Vedyara. The [[affiliation-tngvkvnlei|Celestial Order]] of Tānvür and Jürthāt stands entirely apart from the western religious world. Older still, the [[affiliation-firstgods|First Gods]] of the [[place-alndntrblnds|Áelendan]] tradition persist beneath the Aurèldían surface in certain corners of the west.
+Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the faith of the western heartlands and Mídhalión. The [[affiliation-asguardian|Asguardian Pantheon]] holds the north. The [[affiliation-ashanpnthn|Āsháian Pantheon]] dominates the central and southern deserts. The [[affiliation-varakpnthn|Varnaka Pantheon]] anchors Vedyara. The [[affiliation-tngvkrrklei|Celestial Order]] of Tānvür and Jürthāt stands entirely apart from the western religious world. Older still, the [[affiliation-firstgods|First Gods]] of the [[place-alndntrblnds|Áelendan]] tradition persist beneath the Aurèldían surface in certain corners of the west.
 
 ## History
 
@@ -62,7 +62,7 @@ What those people subsequently became was everything. The knowledge did not stay
 
 The surviving trace of the arrangement is the [[lore-vardain|Vardain]] of Aelwyth, who still farm for a hold and still cannot say why they were taught to.
 
-Recorded human history in the west begins with the Pelwar migrations, the founding of the early city-states of what would become Mídhalión, and eventually—around 650 BF—the establishment of the [[affiliation-vylarinmpr|Vylarian Republic]] on the Vylarian Sea. The Republic became an Empire in the year that the Vylarian reckoning still calls Year 1, and for several centuries Vylaria projected power across Mídhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; Harad has won its independence, Provènzia and Tarvénia are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
+Recorded human history in the west begins with the Pelwar migrations, the founding of the early city-states of what would become Mídhalión, and eventually—around 650 BF—the establishment of the [[affiliation-vylarinmpr|Vylarian Republic]] on the Vylarian Sea. The Republic became an Empire in the year that the Vylarian reckoning still calls Year 1, and for several centuries Vylaria projected power across Mídhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; Tarûzel has won its independence, Provènzia and Tarvénia are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
 
 The eastern empires—Tānvür and Vedyara—kept their own reckonings and their own histories, largely unaffected by Vylarian ascendancy and equally untouched by its decline. The northern kingdoms trace their own lines of kings back into the mists of the Pelwar migrations and have their own accounts of the Founding and of the centuries since.
 

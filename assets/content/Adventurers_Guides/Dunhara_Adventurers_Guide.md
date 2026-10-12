@@ -8,7 +8,7 @@ tags: [draft]
 data: {packFolder: adventurersguides}
 ---
 
-> The caravan comes into [[place-dunashir|Dûn Ashir]] an hour before dusk, when the heat lets go of the sand and the dunes to the south turn the color of an old copper pot. Palms crowd a hollow in the gravel plain, and the air under them is cool enough to make you shiver; it smells of wet earth, dung smoke and crushed dates. Black goat-hair tents run out from the water in long rows. Camels kneel and complain while boys haul dripping leather buckets up from the well. A woman in an indigo veil weighs a bolt of red wool against a sack of salt; a herder with sun-cracked hands drives goats through the press; a broad-shouldered warrior with a strip of deep-blue leather bound round his left arm watches the newcomers without seeming to. Behind the tents a man is reciting verse, and everyone within earshot has stopped talking to hear it.
+> The caravan comes into [[place-ghavulekh|Ghavûlekh]] an hour before dusk, when the heat lets go of the sand and the dunes to the south turn the color of an old copper pot. Palms crowd a hollow in the gravel plain, and the air under them is cool enough to make you shiver; it smells of wet earth, dung smoke and crushed dates. Black goat-hair tents run out from the water in long rows. Camels kneel and complain while boys haul dripping leather buckets up from the well. A woman in an indigo veil weighs a bolt of red wool against a sack of salt; a herder with sun-cracked hands drives goats through the press; a broad-shouldered warrior with a strip of deep-blue leather bound round his left arm watches the newcomers without seeming to. Behind the tents a man is reciting verse, and everyone within earshot has stopped talking to hear it.
 >
 > A lean man in a dust-colored robe steps out of the nearest tent and lifts a hand to you. "_Mehrûn parvandar sâzâdar_," he says, the blessing a Dunhari gives a traveler: the moon guides the truthful one. "I am Tavîshar, of the Afsharan. I am your guide for the next eleven days, and this is Afsharan water." He breaks a flat round of bread, presses a pinch of gray salt into the torn edge, and holds it out, and he does not lower his hand until you have eaten. Two of his kinsmen look up from the camel they are hobbling and nod once, as if a debt had just been entered. Only then does he ask your name, and who sent you.
 
@@ -27,7 +27,7 @@ The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith of fire and light
 ## Places and Dangers
 
 - [[place-stoneofranaz|The Stone of Ranâz]] is the hill-shrine where three tribal territories meet. The [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]] gathers there each quarter to renew the indigo vâst-bahâr in the vat kept at the shrine, and the elders of the storm cults sit there at the season-turns to recognize a vessel of the god, one in whom he is held to speak. Uninvited foreigners are received with courtesy and sent away with nothing.
-- [[place-dunashir|Dûn Ashir]], the oasis seat of the tribes, is where a caravan hires its guide.
+- [[place-ghavulekh|Ghavûlekh]], the oasis seat of the tribes, is where a caravan hires its guide.
 - The open sand kills fast. Summer heat is lethal within hours, winter nights freeze, and a windstorm can bury a camp in minutes.
 - [[place-khuqetmiglet|Khuqet-Miglet]], in the southwest, is a desert-march the empire of [[place-aukhelathrgq|Aû'Khelâthu]] garrisons and the western clans contest, with toll and well-disputes on both sides.
 - The [[affiliation-sultntmrdd|Sultanate of Amradad]] holds the region's north-western corner on the sea coast. It is a separate kingdom of walled cities and a standing army, and the tribes admire its wealth and scorn its softness.
@@ -46,15 +46,15 @@ A party usually arrives as a caravan's escort. Escort duty passes from tribe to 
 
 ## Glossary
 
-| Word                 | Meaning                                                                                                                |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| pîr                  | A recognized storm-cult practitioner, who reads the weather for council and warband                                    |
-| sar-pîr              | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                                |
-| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; bâdkhwân                                                   |
-| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; bârân-âvar                     |
-| lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; sang-zad |
-| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; tufân-row                                      |
-| Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                    |
-| vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm            |
+| Word                 | Meaning                                                                                                              |
+| -------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| pevrôr               | A recognized storm-cult practitioner, who reads the weather for council and warband                                  |
+| rûzhôr               | Senior elder of a storm-cult lineage, who sits in the Council of Elders                                              |
+| wind-reader          | Storm-cult diviner who reads omens and weather in the wind; zevrôr                                                   |
+| rain-caller          | Storm-cult practitioner who conducts the rain rites at the season-turns and in drought; belgôr                       |
+| lightning-marked     | Member of the smallest and most prestigious storm-cult lineage, touched by the god in vision or by lightning; qeshvî |
+| storm-walker         | Storm-cult practitioner who walks into storms to read them from within; ghuzmôr                                      |
+| Voice of the Quarter | The member of the Warrior's Circle drawn by lot to call a meeting to order and announce its rulings                  |
+| vâst-bahâr           | "Scar of the mighty": the indigo leather strip a member of the Warrior's Circle wears on the upper left arm          |
 
 The [[lore-dunhariclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

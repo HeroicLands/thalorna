@@ -427,7 +427,7 @@ Lucerian sacrificed everything to get her out. He used his family's wealth, call
 
 ### Aboard the Tamzîr
 
-Lucerian and Cibella boarded the Tamzîr eighteen months ago in a desperate arrangement brokered through Shâ's network of contacts. Lucerian pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzîr's constant movement and the crew's discretion keep the siblings one step ahead of the Ordo's agents. It is a fragile arrangement, and Lucerian lives in constant fear that it will collapse.
+Lucerian and Cibella boarded the Tamzîr eighteen months ago in a desperate arrangement brokered through Bû's network of contacts. Lucerian pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzîr's constant movement and the crew's discretion keep the siblings one step ahead of the Ordo's agents. It is a fragile arrangement, and Lucerian lives in constant fear that it will collapse.
 
 ## Psyche
 
@@ -459,7 +459,7 @@ The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for tak
 
 ### Affiliations
 
-Passenger aboard the **Tamzîr**. Brother and guardian of [[being-cibelasrnt|Cibella Serentia]]. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
+Passenger aboard the **Tamzîr**. Brother and guardian of [[being-cibelasrnt|Cibella Serentia]]. He has formed a grudging mutual respect with **Captain Zabûzum Jakûdûnî**, who reminds him—uncomfortably—that principle and pragmatism are not always compatible.
 
 ## Plot Hooks
 

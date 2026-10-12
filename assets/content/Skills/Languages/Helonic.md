@@ -238,6 +238,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Chánnâon
 - Dámàsûn
 - Dûmàrês
+- Érkhiros
 - Fàrânis
 - Fârìs
 - Gábêros
@@ -245,6 +246,8 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Ghánâbìs
 - Ghánâdís
 - Ghârîdos
+- Ghérvanos
+- Ghígnirion
 - Habìdon
 - Hàdhîros
 - Hámûdês
@@ -264,8 +267,10 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Khalîdrós
 - Khalìphon
 - Khalîros
+- Krênirês
 - Lamîkrìs
 - Lámîros
+- Lôphiros
 - Lôthànos
 - Lôthîon
 - Mákrion
@@ -273,7 +278,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Marînès
 - Mazàlos
 - Máḥânês
-- Maḥmûdrós
 - Mubàron
 - Nâbìros
 - Nàdhûros
@@ -284,7 +288,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Rákhìmês
 - Ramîkòs
 - Râshámês
-- Rashìdós
 - Rísàkós
 - Rîzânis
 - Rómèlios
@@ -307,22 +310,19 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Tarîkón
 - Tâwâres
 - Thábìlos
+- Tháliminos
 - Thammâs
 - Thârkós
-- Thêbas
 - Thîbarìs
 - Thùbárion
 - Thùbârios
 - Udrìsôs
 - Uzbarón
 - Wîssâros
-- Yàkôbis
 - Yássìlos
 - Yázîdos
-- Yússûfàn
 - Zádìmêros
 - Zàfîran
-- Zákàrios
 - Zárìthón
 
 ### Female Given Names
@@ -332,8 +332,9 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Amànta
 - Amîthàra
 - Amîthéna
+- Ánevira
+- Argýrira
 - Ázimina
-- Ázîna
 - Ázîta
 - Azrìta
 - Bâkrìa
@@ -348,6 +349,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Ghâmîra
 - Ghânêsa
 - Ghânêtha
+- Ghéranira
 - Hâbbìya
 - Hàssìra
 - Ibêtha
@@ -361,6 +363,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Júthâra
 - Kafîra
 - Khálîra
+- Lámbhira
 - Lámîa
 - Lamînâ
 - Lámîtha
@@ -373,10 +376,12 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Màràtha
 - Mûfîra
 - Mûnêtha
+- Mýrthana
 - Nâbîra
 - Nâfîya
 - Namîtha
 - Námîtha
+- Nêvarina
 - Nìmaris
 - Nûbàris
 - Nûfîsa
@@ -394,10 +399,10 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Safàra
 - Safìra
 - Safîya
-- Sahîra
 - Sâmîa
 - Sàmîra
 - Shárîna
+- Sphrâdira
 - Sûfìra
 - Sûfìtha
 - Sûlîtha
@@ -405,19 +410,14 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Tabîra
 - Tàbîsa
 - Tádîra
-- Tàlîma
 - Tàlîra
 - Tamîtha
 - Tázinâ
 - Tázîtha
-- Thêrèssa
 - Thûnîa
 - Thûressà
 - Yassìna
-- Yâsûra
 - Yàzîna
-- Zahìra
-- Zahîra
 - Zàhrîna
 - Zâhrîta
 - Zâmîra
@@ -469,6 +469,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Jûmînos
 - Jûmîthôs
 - Kashîrôs
+- Kêrvanion
 - Khalîthôn
 - Khalîvras
 - Khâshîdôs
@@ -506,7 +507,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Tâmîdês
 - Tázinês
 - Thâmîdon
-- Thamîrîon
 - Tûmârîs
 - Ûmârîdês
 - Ûmârîthês

@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Northern K'ich'chik is the part of the continent the K'ich'chik do not rule. Five tribal nations hold it: [[affiliation-balamkiahk|Ba'alam Ki'ahk]], the Eagle People of the western fjords and mountains; [[affiliation-kiximtzul|K'ixim Tzul]], the Bear People of the boreal forest; [[affiliation-haxaman|Ha' Xaman]], the Coyote People of the grasslands; [[affiliation-xikulchakl|Xik'ul Ch'akal]], the Otter People of the lakes; and [[affiliation-tzumanotun|Tz'uma No'tun]], the Serpent People of the swamps and eastern mountains. About 2,000,000 people live in it.
+Northern K'ich'chik is the part of the continent the K'ich'chik do not rule. Five tribal nations hold it: [[affiliation-ixbalkiahk|Ix'bal Ki'ahk]], the Eagle People of the western fjords and mountains; [[affiliation-ixtemtzul|Ixtem Tzul]], the Bear People of the boreal forest; [[affiliation-penqalchakal|P'enqal Ch'akal]], the Coyote People of the grasslands; [[affiliation-xikulchakl|Xik'ul Ch'akal]], the Otter People of the lakes; and [[affiliation-tzumanotun|Tz'uma No'tun]], the Serpent People of the swamps and eastern mountains. About 2,000,000 people live in it.
 
 ## Character
 

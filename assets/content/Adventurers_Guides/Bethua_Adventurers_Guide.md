@@ -30,7 +30,7 @@ Do not mistake an unarmed Bethûan woman for a defenseless one: the Charíssa, a
 
 ## Ways In
 
-A Trade-House pays you in paper and a rival House refuses to honor it three ports along. A keeper of the sealed rolls of the **Purple Warrant**, the crown's commission for privateers, has fled south with one of them, and a party that rides with the thief-taker [[being-zahirmlkht|Zahira Malkhet]] may be sent after her. A qanat in the interior has failed, the engineer-priestesses want to know whether the collapse was an accident, and the village beside it is watching its fields brown. A Vylarian captain wants a crew to find out which Bethûan galley took his cargo.
+A Trade-House pays you in paper and a rival House refuses to honor it three ports along. A keeper of the sealed rolls of the **Purple Warrant**, the crown's commission for privateers, has fled south with one of them, and a party that rides with the thief-taker [[being-lmbhrpdhnn|Lámbhira Pédhinion]] may be sent after her. A qanat in the interior has failed, the engineer-priestesses want to know whether the collapse was an accident, and the village beside it is watching its fields brown. A Vylarian captain wants a crew to find out which Bethûan galley took his cargo.
 
 ## Where to Read Next
 

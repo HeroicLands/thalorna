@@ -537,7 +537,7 @@ The Sodalitas Pyréthos
 ### Companions
 
 - [[being-phltsklfts|Philetos Kleftes]]: The fire-sworn strategist, a tactician and planner who complements Kallistratos's directness with careful forethought.
-- [[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]: The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kallistratos's temperament would keep firmly shut.
+- [[being-euthlshnshrzt|Euthálash Nêshârzát]]: The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kallistratos's temperament would keep firmly shut.
 - [[being-myrnklypss|Myrine Kalypsos]]: The mendicant priestess of the Black Flame, who travels with the group as a spiritual advisor and fire diviner. Her influence on Kallistratos is the most significant and least recognized danger in his life.
 
 ## Plot Hooks

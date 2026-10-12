@@ -95,7 +95,7 @@ The assembly elects the strategos, who commands the city's forces by land and se
 
 ## The Fleet and the Sea
 
-Pelagoran shipwrights build the fastest galleys on the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtnhrdnstts|Haradian]] incursions, Vylarian ambitions and the occasional pirate fleet with the same determination each time.
+Pelagoran shipwrights build the fastest galleys on the Vylarian Sea, and its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] incursions, Vylarian ambitions and the occasional pirate fleet with the same determination each time.
 
 Pelagora is more commercial than scholarly Thyrenae. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city a practical leverage that balances the prestige of its scholarly neighbor.
 
