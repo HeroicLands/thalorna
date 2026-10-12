@@ -12,7 +12,7 @@ data:
       kind: dissolution
       depth: world
       summary: >-
-        The standing lease of the dragons is not renewed. The Republic tells the dragons the term is ended and refuses the return of what it holds of theirs. The killing follows: many dragons die and some escape. The Dragon Riders are disbanded, the Eyrie of Mons Aquila is sealed, and the records of the terms are suppressed rather than the records of the war. The hold is still in force, the survivors and the ancestor pool have not forgotten, and what the Republic took has never been given back.
+        The standing lease of the dragons is not renewed. On the Ordo's counsel the Republic tells the dragons the term is ended and refuses the return of what it holds of theirs. The killing follows: many dragons die and some escape. The Dragon Riders are disbanded, the Eyrie of Mons Aquila is sealed, and the records of the terms are suppressed rather than the records of the war. The hold is still in force, the survivors and the ancestor pool have not forgotten, and what the Republic took has never been given back.
       standing: single-source
       where:
         locus: [place-vylariargn]
@@ -45,7 +45,7 @@ data:
       accounts:
         - by: place-helionis
           says: >-
-            There were no dragons. None has been seen in western Ankaris in seven centuries, the mounts were never displayed in any triumph, the galleries are the wrong size, and magic failing on a battlefield is exactly what a large working does. The Riders screened a corps of turncoats working suppression, and the records are missing because there is nothing in them.
+            There were no dragons. None has been seen in western Ankaris in nearly eight centuries, the mounts were never displayed in any triumph, the galleries are the wrong size, and magic failing on a battlefield is exactly what a large working does. The Riders screened a corps of turncoats working suppression, and the records are missing because there is nothing in them.
           agrees: denies
         - by: lore-aelendnppl
           says: >-
@@ -62,7 +62,7 @@ data:
           agrees: silent
       unresolved:
         - where the mounts were housed, the galleries under Mons Aquila being rooms for men and a chest
-        - whether the ancestor pool will still receive what is held, after seven centuries out of it
+        - whether the ancestor pool will still receive what is held, after more than ten centuries out of it
         - where the one binding went that the Recensio's count came up short of
 ---
 

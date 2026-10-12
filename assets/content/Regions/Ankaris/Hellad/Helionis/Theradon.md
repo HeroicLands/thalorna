@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Therádon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the **Theradic Gulf**, known for its philosophers, physicians and natural historians and for a [[affiliation-panepistmm|Panepistemium]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Therádon]].
+Therádon is governed by the citizens who are most certain they ought to be. Its assembly is made up of the wealthiest and most educated of them, who hold that this makes them uniquely qualified to guide the city toward justice and virtue, and the same conviction shapes the city's manners toward everyone else. It is a Helionite city-state of terraced hillsides above the **Theradic Gulf**, known for its philosophers, physicians and natural historians and for a [[affiliation-panepistmm|Panepistemium]] chapterhouse. About 510,000 people live under its assembly, and 50,000 of them in the city of [[place-theradon2|Therádon]]. Therádon fell to the Republic in 330 BF, the first city of the war to fall, and lost its mage-warlord and his workshop in the same season. The chapterhouse does not teach that year.
 
 - **Government:** oligarchic assembly of the wealthiest and most educated citizens
 - **Seat:** the city of [[place-theradon2|Therádon]]

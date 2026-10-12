@@ -310,7 +310,7 @@ Where the surviving dragons are, what they are doing, and what they intend are o
 - **Preparing.** The surviving dragons, possibly in counsel with the ancestor pool through whatever means dragons use for spirit-world consultation, may be preparing some response to the betrayal. The response may be slow—dragon time-scales are not human time-scales—but it may be coming.
 - **Some combination.** Different dragons in different places may be doing different things. The dragon nation, if it can be called that, is not necessarily unified in its approach to the post-betrayal era.
 
-The Ordo and the Empire have spent five centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
+The Ordo and the Empire have spent nearly eight centuries hoping the dragons forget. This is a false hope. Dragons do not forget. The dragon ancestor pool does not forget. The question is not whether the betrayal will eventually have consequences but when, in what form, and whether the consequences will be addressable when they arrive.
 
 The GM has wide latitude in deciding the dragons' current state and intentions for any given campaign. The cosmological framework supports any of the possibilities above; campaigns can be constructed around discovering which apply, around encountering specific surviving dragons, around the ancestor pool's eventual response, or around the slow return of dragons to the open world after their long withdrawal.
 

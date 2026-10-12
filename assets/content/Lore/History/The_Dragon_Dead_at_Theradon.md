@@ -20,7 +20,7 @@ data:
         reach:
           - place: place-helionis
             how: >-
-              a city-state loses its own mage-warlord and everything in his workshop in a single season, and what was carried out of it appears in no account the academies keep
+              a city-state loses its own mage-warlord, his journeymen and everything in his workshop in a single season, and what was carried out of it appears in no account the academies keep
             knowledge: unlinked
           - place: place-midhalnrgn
             how: >-
@@ -49,6 +49,7 @@ data:
         - how many were taken, which no surviving inventory states
         - whether a soul bound this long can still be received by the pool it belongs in
         - what else came out of the workshop, and where the rest of that work went
+        - what became of the workshop's journeymen, whom no list of the war's dead names
 ---
 
 Dragons are mortal. They are not gods and not spirits: they are creatures of the material plane with

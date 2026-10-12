@@ -49,7 +49,7 @@ data:
           says: >-
             The year is on every instrument the Concilium seals, over the door of every chapter house, and in the first line of the Codex.
           agrees: full
-          withholds: what the Quaesitorium's first clause is looking for, which is written nowhere in the file
+          withholds: what the Quaesitorium's first clause is looking for, which is written nowhere in the file, and which of the drafters wrote the property clause
         - by: place-helionis
           says: >-
             The founding date is debated, the Ordo's own records from the period being suspiciously incomplete.

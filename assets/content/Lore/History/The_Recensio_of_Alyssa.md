@@ -46,6 +46,7 @@ data:
         - whether the release was an accident or an act, which nobody has ever been able to say
         - what the inventory taken afterward came up one short of
         - what is under the fenced ground, which has never been dug
+        - why the masters who kept the Praefectura's holdings are not on the roll of the dead
 ---
 
 The Recensio was an audit. Every registered practitioner in the Republic was ordered to bring their

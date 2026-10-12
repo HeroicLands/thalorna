@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 50000, governme
 
 ## Overview
 
-The students of **Therádon** argue in marble colonnades that climb terraced hillsides above the **Theradic Gulf**, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Panepistemium]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in western Ankaris.
+The students of **Therádon** argue in marble colonnades that climb terraced hillsides above the **Theradic Gulf**, and they argue with their teachers. This is a Helionite city of 50,000, known for philosophical inquiry and for the [[affiliation-panepistmm|Panepistemium]] chapterhouse it holds. Scholars from across the realms come to study with its philosophers, physicians and natural historians, and its libraries contain some of the oldest written texts in western Ankaris. The Republic took it in 330 BF, the first city of the war to fall, and the chapterhouse does not teach that year.
 
 ## Who Governs
 

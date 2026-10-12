@@ -13,14 +13,14 @@ data:
       when: -330
       sources: [doc-soulspirts]
       summary: >-
-        Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for two and a third centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
+        Holding what was taken at Therádon, the Republic offers the dragons the only thing it has that they want: the return of the bound to the ancestor pool. The dragons' price is the war. The agreement is not made for the war's duration but as a term of years renewed annually, which is why the Dragon Riders are a standing corps for nearly three centuries rather than a wartime expedient. Nothing of it is written down. What the Republic's chancery enters is a yearly appropriation for the keeping of a thing named only by a number, under a description it invented so that nobody would query the line.
       standing: single-source
       where:
         locus: [place-vylariargn]
         reach:
           - place: place-midhalnrgn
             how: >-
-              a corps of Dragon Riders is kept in the field year on year for two and a third centuries, and a magistrate renews an appropriation every year for a thing his docket names by a number
+              a corps of Dragon Riders is kept in the field year on year for nearly three centuries, and a magistrate renews an appropriation every year for a thing his docket names by a number
             knowledge: named
           - place: place-helionis
             how: >-
@@ -46,7 +46,7 @@ data:
           agrees: silent
         - by: place-helionis
           says: >-
-            There were no dragons. No such creature has been seen in western Ankaris in seven centuries, the mounts were never shown in any triumph, and magic failing on a battlefield is what a large working does.
+            There were no dragons. No such creature has been seen in western Ankaris in nearly eight centuries, the mounts were never shown in any triumph, and magic failing on a battlefield is what a large working does.
           agrees: denies
       unresolved:
         - what was promised, in so many words, the terms having never been written down at all
@@ -59,7 +59,7 @@ it could offer: the return of the bound to the pool that is the dragons' totem a
 The dragons' price was the war.
 
 The shape of the agreement is the part that matters, and it is visible from the outside without any
-of the terms being known. It was not made for the war's duration. It was a _term of years, renewed_—which is why the Dragon Riders were a standing corps for two and a third centuries after the last
+of the terms being known. It was not made for the war's duration. It was a _term of years, renewed_—which is why the Dragon Riders were a standing corps for more than two and a half centuries after the last
 Helionite city-state fell, instead of disbanding with the legions that raised them, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number. The chancery put a description on the line so that nobody would query
@@ -71,5 +71,5 @@ this kind survived at all. A party that establishes everything establishable—t
 dragons' dead is held, where it is kept, and who keeps it—still cannot produce what was promised,
 because it was never anywhere to be produced.
 
-Two and a half centuries later the term was not renewed and the return was refused, and
+Nearly three centuries later the term was not renewed and the return was refused, and
 [[lore-ridersdisb|what followed]] was a default rather than an ambush. The hold is still in force.

@@ -33,7 +33,7 @@ data:
             knowledge: named
           - place: place-vylariargn
             how: >-
-              a standing appropriation is renewed every year for the keeping of a thing the docket names only by a number, and goes on being renewed for two hundred and thirty-nine
+              a standing appropriation is renewed every year for the keeping of a thing the docket names only by a number, and goes on being renewed for nearly three centuries, until the line leaves the state's books
             knowledge: unlinked
           - place: place-byzariargn
             how: >-
@@ -55,12 +55,12 @@ data:
           says: >-
             The Ordo's terminology is Vylari and its foundations are thoroughly Helionite, and we have never let the Vylarians forget it.
           agrees: partly
-          withholds: that it was Helionite mages who made the institution necessary
+          withholds: that it was Helionite mages who made the institution necessary, and which Helionite masters the Republic kept after the war, and why
         - by: affiliation-vylarinmpr
           says: >-
             The Dragon Riders broke the great mages of Heliónis where legions could not. How the Republic first secured the dragons' aid is poorly documented.
           agrees: partly
-          withholds: the terms of the bargain, and what the Republic took at Théradon
+          withholds: the terms of the bargain, and what the Republic took at Therádon
         - by: affiliation-panepistmm
           says: >-
             In institutional terms it was a vivisection. The remaining colleges were left in place, diminished and shaken, but still functioning.
@@ -68,6 +68,7 @@ data:
       unresolved:
         - what the Republic promised the dragons for their part in it, which is written nowhere
         - what the standing appropriation was keeping, which the chancery's own word for it does not say
+        - who kept what the Republic took at Therádon, which no war ministry roll names
 ---
 
 In 335 BF the Vylarian Republic turned its legions against the Helionite city-states, and twenty-three years later it took
@@ -88,7 +89,7 @@ The last city fell in 312 BF.
 What the Senate made afterward was a _magistracy_. The
 **Praefectura Arcana** held the conquered Helionite masters and, in time, every arcanist born inside
 the Republic, under a prefect who changed with the year's magistracies. It had a register and a
-garrison and no doctrine. Its registered mages were state property, lent out to whoever the Senate
+garrison and no doctrine. Its registered mages were state property—all but a few, who were never lent—and the rest were lent out to whoever the Senate
 owed, and as the Republic's own last century turned violent the register became a weapon: factions
 borrowed mages from each other's prefects, and a man's name on the roll was a thing that could be
 sold.
