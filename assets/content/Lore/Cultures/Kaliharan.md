@@ -19,27 +19,71 @@ All things are connected: the canopy and the reef, the volcanic soil and the mon
 
 What follows from it is a posture and not a creed. Kaliharans do not pray; they observe. They do not make offerings; they tend. The nearest thing to reverence is an abiding respect for the world as it is, with an obligation attached—to leave the balance no worse than it was found.
 
-## The Keepers of What Was Left
+## The Balance Kept
 
-The Ithári'kaan are the closest thing to a priesthood, and the word fits badly. They are custodians, trained from childhood in ecological relationships, seasonal cycles, agricultural practice, and the maintenance of the ancient structures the Ithári left behind.
+**Good is the balance left no worse than it was found: a part of the whole watched, tended and handed on in the condition it was received. Evil is the part neglected or over-worked, and the balance broken by someone who would not look.** A Kaliharan does not weigh a deed by its intent. The test is the condition of the garden, grove or shore afterward, and the condition can be read off the part itself.
 
-Maintenance here means tending and procedure and nothing else, because the fabric of those structures cannot be worked on. In eight thousand years there has never been anything for a custodian to mend, replace or shore up—only a sequence of actions performed at appointed times. Over eighty centuries the understanding of _why_ has drifted: procedures the Ithári may have meant as engineering have acquired layers of ritual meaning, and the Ithári'kaan now perform them as liturgy, with meticulous precision, in the settled conviction that the health of the island depends on it, and with the original technical purpose forgotten or transformed past recovery.
+Success is a tended part in good order: a household whose manual shows an unbroken record of its own corner, a lineage that has held the same terrace or reach for thirty generations, a teacher whose pupils notice what she noticed. Failure is the part let go. A Kaliharan who takes no tending is regarded with the quiet concern an Ankarian community might extend to someone who refuses to wash or eat, and the concern is the first rung of a ladder whose last rung is to be Severed, spoken to by no one.
 
-A Kaliharan does not find this troubling. The procedures have been kept and the island is well; whether the reasoning survived is a question for people with time for questions of that kind.
+The Kaliharan value most attention, exactness and patience. They value least haste, the improvised answer to a question that the old way already answers, and the unsolicited explanation, which they treat as a presumption on the listener. Innovation is not forbidden, only weighty: it is undertaken when the old way has demonstrably failed and not before.
 
-## How a Decision Is Made
+## The Man Admired
 
-Kaliharan governance is among the oldest continuous political traditions in the world and among the hardest for a foreigner to describe, largely because Kaliharans have no interest in describing it.
+**Ilumanei Naoliru**, the scribe of Vashurán, is the Kaliharan who keeps the record and keeps it for everyone. He was born in a poor street behind the quay, the son of a dock worker and a laundress, and his parents spent what they could to put him through a temple school, where he mastered five scripts. He was apprenticed at twelve to a master scribe, who tore up whole pages for a single faulty letter, and he rose to the High Registry at the wardens' hall in [[place-ilovanu|Ilovanu]], where he recorded the contracts, marriages and debts of the four ports. He left the Registry to work for himself, in a disused temple archive in Vashurán, where porters, boatmen and settled foreign families alike have their documents drawn up, witnessed and sealed. He teaches young people the craft in the evenings and refuses any post that would oblige him to favor the rich.
 
-What can be pieced together is a system of layered councils and rotating responsibilities that balances regional, familial and custodial authority, and that produces stable government without concentrating power in any individual or institution. The Ithári'kaan carry great influence and do not rule; their authority is custodial. Temporal decisions rest with secular councils whose composition and selection are, to outsiders, essentially unknown.
+The Kaliharans admire in him the habit their whole practice rests on: a thing observed and set down exactly, for whoever needs it, in a hand that does not change. He does for a port what the manual does for a household. His cost is a stubbornness that others read as softness. Once he has decided what is fair, he will not move, and the great merchants think him presumptuous for treating a porter's contract with the care they claim for their own.
 
-The ports run on a separate and frankly pragmatic structure, because foreign trade requires a flexibility the interior would not tolerate. Everyone involved treats this as a sensible division of labor and not a compromise.
+## The Woman Admired
+
+**Olivael Ithaluori**, the astrologer of Telvári, is the Kaliharan who watches the longest. She was born to a merchant family in Ilovanu and wept at a conjunction over the harbor when she was ten. At fifteen she ran away to the pilots' islet of [[place-telvari|Telvári]], where she learned the practical astronomy of tides and navigation from the old keeper of its observatory. Foreign factors now have their voyages charted by her, and her name has crossed the water. She is close to finishing an atlas of the heavens for the two centuries to come, and she has seen the sky depart from the patterns she has trusted all her life.
+
+The Kaliharans admire in her the discipline of looking and the honesty of saying so. She will not shade a reading to suit a patron. She is hard to know, seldom speaks first and answers a question with startling literalness, which is the Kaliharan manner taken to its limit. Her admiration is not a lesser form of Ilumanei's: he keeps the record that others can use, and she keeps the watch that finds out what the record must say. Her cost is what the looking shows. The sky is departing from its pattern, and a woman who will not shade a reading has no way to soften this one.
+
+## What the Island Keeps
+
+A Kaliharan can point to the things that hold the practice in place. **The sílhari manual** is the small leather-bound book every Kaliharan receives at six or seven and fills for life, and when it is full it goes to the household archive. **The keepers' threads** (_kaan'sari'val_), the plaited palm-fiber cords a custodian receives at elevation, encode the line of teachers back to a founding custodian, and they are buried with their wearer. **The first records**, the carved slabs and inscribed plaques of the deepest sanctuary archives, are Kaliharan work in the oldest Kaliharan hand, setting down what the people were taught. **The held stones**, the bone-white pieces taken from works that have died, are kept at every sanctuary as samples of what becomes of the substance after a work ends.
+
+Beyond all of these stand the works themselves. They range from the great installations of the highlands to the small tending-stones a village keeps, and they are not sacred in the sense of being set apart. They are tended like an orchard.
+
+## Tending, Looking and Holding
+
+An ordinary Kaliharan keeps the three observances. _Sílhari_ is the daily looking: a few minutes at dawn at the insects in a garden, an hour at dusk at a flock returning, one full day a season at a stretch of forest or shore. _Vaan'ari_ is the tending of the part that is one's own, whether it is a household garden, a grove, a reef or a terrace a lineage has worked for thirty generations. _Kaan'vaar_ is the holding of inherited practice by exact repetition, careful teaching and refusal of improvisation where it matters. Nobody prays and nobody makes an offering.
+
+The Ithári'kaan carry the same observances to the works. A custodian, trained from childhood in ecology, seasonal cycles, agriculture and the care of the ancient structures, performs the Dawn Tending in every weather: the hour before sunrise, a walk around a structure's perimeter, a sequence of words of which half the meaning is lost, a hand laid on its surface in a fixed order.
+
+Maintenance here means tending and procedure and nothing else, because the fabric of the works cannot be worked on. In eight thousand years there has never been anything for a custodian to mend, replace or shore up—only a sequence of actions performed at appointed times. Over eighty centuries the understanding of _why_ has drifted: procedures the Ithári may have meant as engineering have acquired layers of ritual meaning, and the Ithári'kaan now perform them as liturgy, with meticulous precision, in the settled conviction that the health of the island depends on it.
+
+## The Answering
+
+The works do not serve everyone alike. A terrace is watered and its neighbor is not; a household's stone warms for the grandmother and stays cold for the grandson. The pattern follows neither rank nor learning nor devotion, and the Kaliharans call being served the answering. They have always lived beside the unevenness, without asking for the mechanism, and they have kept their records of who was answered where and when.
+
+The works are failing, and what the failing has begun to do is scramble the answering. A household that was answered for generations is not answered this year, and a stone that was silent for a lifetime warms for a child who never tended it. The sanctuaries record it and the Keeper of the Failing Works keeps the account. Nobody knows how to repair a work, because nobody has ever repaired one.
+
+## The Turnings of the Year
+
+The island's year has four turnings of the monsoon, and each is a quiet, widely observed rhythm and not a festival. **Dry-Turn** ends the wet season. Households clean their thresholds, replace worn manuals and review the year's rainfall in the evenings, and children are given their first manual at six or seven. **Stillwater** is the mid-dry month, the occasion of the Tenth-Year Walks and the long survey days: custodians walk the full circuit of a region's works, and every Kaliharan spends the daylight in silent observation of a particular place, looking properly while the light is good. **Wet-Turn** is the return of the rains, and each Kaliharan spends the week after the first rain visiting the households whose tending borders their own, to compare observations and coordinate the season's work. The custodians visit households in rotation in the same week. **Deepwater** is the heart of the wet season and the most inward. Households keep to their own thresholds and spend the time copying worn manuals, teaching children the names of plants and reviewing the lineage's records.
+
+Each is for something concrete. Dry-Turn is for beginnings, Stillwater for the looking, Wet-Turn for the neighbors and Deepwater for the record. Long spans are counted in Walks, a Walk being the decade between Tenth-Year Walks, so a Kaliharan dates a childhood or a long tending by the Walk it began in.
+
+## Quiet Concern and the Severed
+
+Reward is a larger part to tend and a name in the line. A child chosen between eight and twelve goes to a sanctuary as a kaan'sili, "one who watches." A kaan'vaar who has held a sanctuary's tending for decades becomes a kaan'thári, and the rarest, the sílhari'kaan, coordinate the tending of the whole island. A lineage that has kept its reach for thirty generations is a lineage others come to for its memory. Its Elder sits in the councils.
+
+Penalty runs the other way and is almost entirely quiet. The first rung is the concern shown to someone who takes no tending. A Bondservant is held in service to a lineage and answerable through its head. The Unkept are put outside the keeping of the Keepers of What Was Left, and in a society whose whole institutional life is custodial there is nothing else to belong to. The last rung is to be Severed: cut off from the lineages and from the structures' service, permitted to live, and spoken to by no one.
+
+## The Keepers and the Councils
+
+Kaliharan governance is among the oldest continuous political traditions in the world and among the hardest for a foreigner to describe, largely because Kaliharans have no interest in describing it. What can be pieced together is a system of layered councils and rotating responsibilities. It balances regional, familial and custodial authority, and it keeps power from settling in any one person or institution.
+
+The Ithári'kaan carry great influence and do not rule; their authority is custodial. The sílhari'kaan convene the councils that decide when an inherited procedure may be adjusted against a failing structure. Temporal decisions rest with secular councils seated by lineage and by charge over the works: an Elder of a Lineage holds an old kindred's lands, memory and share of what the island knows, a Master of the Terraces wardens the agriculture and the weather-works it depends on, and a Warden of the Approaches keeps the sea-lanes, the pilots and the reception of anyone who arrives. The Speaker for the Island presides over the Council, which sits at Ilovanu, and is the only Kaliharan who may answer a foreign power.
+
+Records are the household's and the lineage's: the full name heads every sílhari manual, stands in the household archive and appears in the lineage records. The ports run on a separate and frankly pragmatic structure, with a High Registry at the wardens' hall in Ilovanu for contracts between the foreign quarters and the port households. Everyone involved treats this as a sensible division of labor and not a compromise. Where the two conflict, the custodians hold the procedure and the secular councils hold the decision, and the sílhari'kaan convene the council that settles when a procedure may be adjusted.
 
 ## Patience as a Manner
 
 The Kaliharan temperament is unhurried to a degree that foreign merchants find maddening and foreign diplomats find impenetrable. A people who measure in cycles, and who have been doing one thing for eighty centuries, do not experience a season's delay as delay.
 
-A Kaliharan of the interior is courteous, watchful and extremely difficult to hurry into a commitment. He answers a direct question accurately and volunteers nothing, and he is not being evasive: he regards unsolicited explanation as a form of presumption, and assumes that anyone who needed to know would already have been told. Reticence about the interior is not policy handed down from a council—it is manners, held so consistently that it functions as policy.
+A Kaliharan of the interior is courteous, watchful and extremely difficult to hurry into a commitment. He answers a direct question accurately and volunteers nothing, and he is not being evasive: he regards unsolicited explanation as a form of presumption, and assumes that whoever needed to know has already been told. Reticence about the interior is not policy handed down from a council—it is manners, held so consistently that it functions as policy.
 
 ## The Name the House Uses
 
@@ -51,17 +95,55 @@ You will hear a Kaliharan woman called _Koaluethei_ in the market and _Luethei_ 
 
 A port Kaliharan is not a lesser Kaliharan and is not treated as one. He is understood to be doing necessary work at the boundary, and the interior's distance from him is philosophical and not contemptuous. He is also not going to be admitted inland, and both he and the custodians know it, and it is not discussed.
 
+## What the Whole Asks of a Tuesday
+
+There is no gate, no judge and no hereafter. The Whole does not forget a part, and nothing is owed to a god. What follows is a way of spending a day: the looking at dawn, the tending of the part that is one's own, the exactness of a practice repeated as it was taught, and a manual filled in at dusk. The test of a life is the condition in which the part is handed on, and it is observable by anyone, continuously, which the Kaliharans hold to be a stricter arrangement than judgment after death.
+
+The belief reaches ethics, property and burial. A Kaliharan hands the tended part to a daughter or a niece in better order than it was received, because the part is a stretch of the Whole and not a possession. Inheritance runs in the line of the mother, and a household's wealth is its archive of filled manuals and the lineage's records, with the part it tends. A custodian is buried with the keepers' thread. A filled manual is stored among the household's records, and the dead are in them the way the living are in their gardens. Money is spent on what the part needs: tools for the terrace, seed, the repair of a boat, the replacement of a worn manual. A port Kaliharan who takes up Aurèldían devotion keeps the Aurèldían rites for his own death, and the interior treats that as a private matter.
+
+## Reaching the Dead
+
+The living cannot affect the dead, and the dead do not reach the living. There is nothing to ask for. The dead are in the Whole, as the living are, and the part they tended is tended by someone else. What a Kaliharan can do for a person who has died is keep their manual among the household's records and keep their part in order, and the cost is the tending itself. Thári'vaan is not ancestor veneration and does not become one. In the ports a Kaliharan who follows the Aurèldían faith may have Sélmoros's priests attend his dying, and the interior neither forbids nor shares it.
+
 ## What a Person Owes
 
 Ask a Kaliharan of the interior what a person owes, and he answers: the balance first, then the household, then whatever council has asked something of him this season.
 
-He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and observable by anyone who cares to look—a stricter arrangement, in his telling, than judgment after death.
+He will not say he owes anything to a god, because there is none, and he will not say he owes anything to posterity, because posterity is not separate from the whole. What he means by the balance is that a person is accountable for the condition in which he hands the world on—and that this accounting is continuous, immediate, and visible in the part itself—a stricter arrangement, in his telling, than judgment after death.
+
+In return the household owes a member a part to tend, a place in the archive and the use of its name. The lineage owes its kin the feature it is named for and holds, and the memory of how to tend it. A teacher owes a pupil the exact sequence she was taught. The council owes the island the decision about what outsiders may be told. The Whole owes nothing.
+
+## The Weak
+
+Care is the household's, and the household is the mother's line. A woman's children, her sisters and their children belong to it, and a widow or an orphan has a place in the line she was born to. The first duty to anyone is a part to tend, and the Kaliharans give the weak a small one: a corner of the garden, the household's counts of birds. A Kaliharan who takes no tending is the one who needs help, and the household's quiet concern is the help.
+
+The limit is the line. A Bondservant is held in service to a lineage and answerable through its head; the Severed are spoken to by no one. In scarcity the terraces feed the whole population without a trade in staple goods, and barter and lineage credit carry the rest. In a bad year the Master of the Terraces and the weather-works carry what the household cannot.
+
+## Those Who Cannot Work
+
+A custodian's duties are reduced as strength fails, and retirement is not recognized. The same holds for the household. An old person keeps the part they have tended and the looking, which needs no strength, and the house takes over the carrying and the digging. A person who cannot tend the whole of a part tends what they can reach. The looking needs no strength, and a person too weak to rise watches from the doorway and tells the household the day's page.
+
+## Shelter, Teaching and Defense
+
+Shelter is the household's, and in the interior the line's. Teaching begins with the first manual at six or seven and is carried by the household and, in the week after the first rain, by the Ithári'kaan who visit in rotation. A child chosen at eight to twelve goes to an interior sanctuary for fifteen to twenty years of formation, living among the archives and the works. Defense is the island's approaches: the pilots, the Wardens of the Approaches, the currents the works are held to shape, and the ridgelines. Kalihara has never had an empire and never fought a war of conquest.
+
+## The Line at Every Age
+
+The unit is the household, a line that runs through the mother. Membership is the mother's lineage in the interior, and in the ports whichever house a person was raised in. A lineage is named for the feature it tends and holds, such as the still water (_Ithavanu_), the old vine (_Reiluvao_) or the bright canopy (_Theiluori_), and the name is a compound of two stems of the island's ground and weather. A child is given a first manual and a short household name, and learns the names of plants. A young person is assigned a part to tend, and some are chosen for the sanctuaries. An adult keeps the three observances and answers to whatever council has asked something of them. An old person holds the part and the memory of how to tend it, and a dying person is attended by the household with no rite.
+
+## What the Tending Hides
+
+Every real culture has a blind spot its own thoughtful members argue about, and the Kaliharans' is the exactness itself. A people who hold that the balance has lasted ten thousand years because the practice was never altered find the practice failing, and have only the practice to answer with. Thoughtful Kaliharans dispute when the old way has demonstrably failed, and whether the question is answered by the custodians who convene the councils or by the people who live beside the works that no longer answer.
+
+The sin is the silence. The works are failing, and the sílhari'kaan who carry the count of failures speak of it to no one outside their rank. A people whose first duty is to hand the world on in the condition they found it keep from their own households how far the world they were handed has gone. If the works that calm the storms fail, the harvest goes with them, and the household that is not answered on its terrace learns of it from its own manual and not from its custodian. An office of recent and unadmitted creation, the Keeper of the Failing Works, holds the account. The habit of not explaining, which keeps the interior closed to the world, has reached the people it was meant to protect.
 
 ## See Also
 
 - [[place-kaliharargn|Kalihara Region]]—the island's country, its interior and its coast
+- [[affiliation-kalihara|Kalihara]]—the confederation, its councils and its wardens
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and what it asks
 - [[place-ilovanu|Ilovanu]]—the great port and the world it faces
+- [[doc-kaliharilexcn|Kalihári Lexicon]]—the words of the keeping and the lineages
 - [[skill-kalihrlng|Kalihari]]—the tongue of the interior and the ports
 
 ## Glossary {#glossary}
