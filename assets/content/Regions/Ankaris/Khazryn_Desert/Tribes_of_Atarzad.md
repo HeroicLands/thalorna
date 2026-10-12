@@ -208,4 +208,5 @@ The Ātárzád live on the tolls of the caravan road where it enters Tellumel an
 - [[affiliation-sultntmrdd|Sultanate of Amradad]]—the regional Āsháian power and host of the Tellumi exile community
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the place of bondage
 - [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]—the people who provisioned the Exodus during its first leg
+- [[lore-twelveywar|The Twelve Years]]—the Ātárzád account of the war
 - Ātárzādi Language—the language of the Twelve Tribes

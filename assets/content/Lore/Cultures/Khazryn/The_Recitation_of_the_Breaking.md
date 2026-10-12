@@ -178,5 +178,6 @@ This is the case. It is open. The reciter sits. The house stands. Nothing is dis
 - [[place-oasishirvn|Oasis of Shirvan]]—the first city, the spring and the sunken archive
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses, the Breaking as the Tellumi tell it, and the Council that keeps the case
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the War of the Twelve Years, as the other side tells it
+- [[lore-twelveywar|The Twelve Years]]—the Ātárzád account of the war
 - [[lore-bloodfield|Blood-fields]]—the reading of the names, and what it would quiet
 - [[lore-khazrynclt|The Tellumi]]—memory as an office, and what a person owes the record
