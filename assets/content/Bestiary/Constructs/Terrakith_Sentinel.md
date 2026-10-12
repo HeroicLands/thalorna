@@ -31,6 +31,48 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 24}}
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 13}}
+    - name: Crushing Blow
+      type: skill
+      system:
+        shortcode: blow
+        subType: combattechnique
+        masteryLevelBase: 52
+        combatCategory: melee
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: melee
+          shortcode: blow
+          name: Crushing Blow
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 6, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 7, aspect: blunt}
+          lengthBase: 2
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
+    - name: Ground Stomp
+      type: skill
+      system:
+        shortcode: stomp
+        subType: combattechnique
+        masteryLevelBase: 48
+        combatCategory: melee
+        impairedByRoles: [locomotor]
+        strikeMode:
+          type: melee
+          shortcode: stomp
+          name: Ground Stomp
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 12, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 6, aspect: blunt}
+          lengthBase: 3
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure: {zones: [], parts: [], locations: []}
@@ -89,7 +131,7 @@ The tribes leave a ruin with a sentinel in it alone and say so to anyone who ask
 
 The sentinel walks straight at the intruder and strikes. It does not dodge, feint or protect itself; it absorbs what is done to it and goes on hitting. It stamps to throw a group off its feet and then strikes whoever is down. It is slow until something runs, and then it moves faster than its bulk suggests over a short distance. It fights until the intruder is dead, has gone back across its line, or it is destroyed. Edged weapons and points sink in and do little. A party that wants it stopped pours water on it, burns it, batters it with heavy blows, or gets to the signs.
 
-## Special Abilities
+## Attack Methods
 
 ### Crushing Blow
 
@@ -98,6 +140,8 @@ A heavy, clubbing swing of a clay arm that breaks shields, bones and men. It str
 ### Ground Stomp
 
 The sentinel lifts a foot and brings it down, and the shock throws everyone near it off balance and knocks loose stone from the walls of a narrow chamber.
+
+## Special Abilities
 
 ### Clay Durability
 

@@ -31,6 +31,48 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 36}}
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 17}}
+    - name: Crushing Blow
+      type: skill
+      system:
+        shortcode: blow
+        subType: combattechnique
+        masteryLevelBase: 52
+        combatCategory: melee
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: melee
+          shortcode: blow
+          name: Crushing Blow
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 6, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 12, aspect: blunt}
+          lengthBase: 2
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
+    - name: Boulder Throw
+      type: skill
+      system:
+        shortcode: boulder
+        subType: combattechnique
+        masteryLevelBase: 42
+        combatCategory: missile
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: missile
+          shortcode: boulder
+          name: Boulder Throw
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 12, aspect: blunt}
+          projectileType: none
+          maxVolleyMult: 1
+          baseRangeBase: 80
+          drawBase: 0
+          traits: {}
   system:
     body:
       structure: {zones: [], parts: [], locations: []}
@@ -87,7 +129,7 @@ The cities' herdsmen and travelers use the passes round the old forts and not th
 
 The golem walks at whatever has crossed its line and strikes with its fists until it stops moving. It throws stones at anyone it cannot reach. It does not dodge or protect itself, it does not care about its wounds, and it cannot be argued with. It is slow and cannot climb, and a party that keeps its distance and stays beyond its line is not touched. Water seeping into its joints and loud ringing sound loosen what holds it, and the signs cut into it hold the working together.
 
-## Special Abilities
+## Attack Methods
 
 ### Crushing Blow
 
@@ -96,6 +138,8 @@ The golem swings a fist of fused stone with enormous strength. The blow breaks s
 ### Boulder Throw
 
 The golem wrenches a stone from the walls round it or from its own body and hurls it at anyone out of reach, crushing whoever it strikes.
+
+## Special Abilities
 
 ### Stone Armor
 

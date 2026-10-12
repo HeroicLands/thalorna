@@ -31,6 +31,48 @@ sohl:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 34}}
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 19}}
+    - name: Crushing Blow
+      type: skill
+      system:
+        shortcode: blow
+        subType: combattechnique
+        masteryLevelBase: 52
+        combatCategory: melee
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: melee
+          shortcode: blow
+          name: Crushing Blow
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 6, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 11, aspect: blunt}
+          lengthBase: 2
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
+    - name: Light Beam
+      type: skill
+      system:
+        shortcode: beam
+        subType: combattechnique
+        masteryLevelBase: 52
+        combatCategory: missile
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: missile
+          shortcode: beam
+          name: Light Beam
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 0, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 6, aspect: fire}
+          projectileType: none
+          maxVolleyMult: 1
+          baseRangeBase: 60
+          drawBase: 0
+          traits: {}
   system:
     body:
       structure: {zones: [], parts: [], locations: []}
@@ -87,7 +129,7 @@ A great house that owns a sentinel owns a Vëndük to keep it, and the keeping i
 
 A sentinel walks at an intruder and strikes. It does not dodge or feint, because it does not need to: blades skate off its plates. It strikes with its fists at anyone close and burns anyone keeping their distance with the light from its eyes, and it does not stop until the intruder is dead, gone back across its line, or it is destroyed. It is slow, and a party that keeps out of its reach and out of its line of sight can outmaneuver it. Lightning disrupts its working and makes it falter, rust weakens it, and the binding characters on its plates hold everything together.
 
-## Special Abilities
+## Attack Methods
 
 ### Crushing Blow
 
@@ -96,6 +138,8 @@ The sentinel swings an iron fist with immense strength. The blow crushes shields
 ### Light Beam
 
 A narrow beam of white-gold fire shoots from its eyes and burns a line across whatever it touches, through cloth and leather and skin.
+
+## Special Abilities
 
 ### Iron Durability
 

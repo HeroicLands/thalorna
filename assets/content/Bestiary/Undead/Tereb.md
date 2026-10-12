@@ -52,8 +52,28 @@ sohl:
     - {model: sohl-sohl-skill-bflkkick}
     - {model: sohl-sohl-skill-limbblock}
     - {model: sohl-sohl-skill-press}
-    - {model: sohl-sohl-skill-bflkpunch}
     - {model: sohl-sohl-skill-trip}
+    - name: Unnatural Blow
+      type: skill
+      system:
+        shortcode: ublow
+        subType: combattechnique
+        masteryLevelBase: 60
+        combatCategory: melee
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: melee
+          shortcode: ublow
+          name: Unnatural Blow
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 4, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 5, aspect: blunt}
+          lengthBase: 1
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true}
   system:
     body:
       structure:
@@ -428,6 +448,12 @@ Most of the world's faiths treat the undead as a deep disorder, souls that shoul
 ## Combat Strategy
 
 A tereb fights as the person it was, with every skill it had and the strength the transformation gave it. It prefers not to fight at all: it plans, manipulates, sets its dependents and its servants and its raised dead between itself and its enemies, and strikes when they are divided, tired and far from daylight. Warriors among terebu fight with supernatural strength; sorcerers with magic stronger than they had in life; dark priests with their religion's power, often greater. It retreats when a fight turns, knowing it can feed and heal, and knowing that even death returns it to its Hallowed Ground. Daylight is its weakness, and its Hallowed Ground is the one place where it can be ended.
+
+## Attack Methods
+
+### Unnatural Blow
+
+A tereb that was a warrior in life strikes with the supernatural strength the transformation gave it, and a single blow breaks what a living fighter's would only bruise.
 
 ## Special Abilities
 

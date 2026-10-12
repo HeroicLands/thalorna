@@ -34,7 +34,6 @@ sohl:
     - {model: sohl-sohl-attribute-agl, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 6}}
     - {model: sohl-sohl-attribute-pal, system: {scoreBase: 11}}
-    - {model: sohl-sohl-skill-bflkbite}
     - {model: sohl-sohl-skill-bflkgrab}
     - {model: sohl-sohl-skill-bflkheadbutt}
     - {model: sohl-sohl-skill-bflkkick}
@@ -42,6 +41,27 @@ sohl:
     - {model: sohl-sohl-skill-press}
     - {model: sohl-sohl-skill-bflkpunch}
     - {model: sohl-sohl-skill-trip}
+    - name: Festering Bite
+      type: skill
+      system:
+        shortcode: fbite
+        subType: combattechnique
+        masteryLevelBase: 50
+        combatCategory: melee
+        impairedByRoles: [manipulator]
+        strikeMode:
+          type: melee
+          shortcode: fbite
+          name: Festering Bite
+          minParts: 1
+          assocSkillCode: null
+          attack: {disabled: false, spread: 2, modifier: 0}
+          impactBase: {numDice: 1, die: 6, modifier: 2, aspect: piercing}
+          lengthBase: 1
+          defense:
+            block: {disabled: true, modifier: 0, successLevelMod: 0}
+            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
+          traits: {noBlock: true, poison: true}
   system:
     body:
       structure:
@@ -427,15 +447,21 @@ Most peoples of Thalorna hold necromancy to be evil, and the remedy for a damut 
 
 A damut fights as its stage allows. The recently returned fight with the skill and the weapons they had in life and make intelligent choices, and they do not feel pain or tire, which makes them dangerous. As a damut declines, tactics give way to instinct and instinct to the plain, mindless advance of the shambling dead. In numbers, damutu overwhelm by pressing in from several sides without regard for themselves. They drop weapons to grapple and bite when the hunger is strong. Fire, daylight, barricades and the death of their controller are a party's best allies.
 
+## Attack Methods
+
+### Festering Bite
+
+The hunger drives a damut to close quarters, where it seizes its prey and bites. The bite of the dead festers: wounds from undead teeth often go bad and poison the blood.
+
+### Grab
+
+The damut seizes and holds, pinning its prey for the bite.
+
 ## Special Abilities
 
 ### Weapon Strike
 
 A damut that keeps its skill from life fights with whatever weapons it had or was given, and the recently returned can fight well. A declining damut strikes clumsily but with unnatural strength.
-
-### Grapple and Bite
-
-The hunger drives every damut toward close quarters. It seizes, holds and bites, and the bite of the dead festers: wounds from undead teeth often go bad and poison the blood.
 
 ### Shambling Charge
 
