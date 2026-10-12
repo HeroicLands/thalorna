@@ -2,7 +2,7 @@
 shortcode: magictruth
 name: {full: The Truth of Magic, aliases: [Magic (GM)]}
 type: doc
-subType: settingguide
+subType: concept
 tags: [arcane, metaphysics, gm]
 data: {packFolder: settinglore}
 ---

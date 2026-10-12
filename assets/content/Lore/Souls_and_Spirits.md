@@ -2,7 +2,7 @@
 shortcode: soulspirts
 name: {full: The Truth of Souls, aliases: [Souls (GM), The Spirit Realm]}
 type: doc
-subType: settingguide
+subType: concept
 tags: [souls, spirits, metaphysics, gm]
 data: {packFolder: settinglore}
 ---

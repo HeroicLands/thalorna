@@ -4,7 +4,7 @@ name: {full: External Threats, aliases: []}
 type: doc
 subType: settingguide
 tags: [gm]
-data: {packFolder: threats}
+data: {packFolder: threats, culture: tanvuriclt}
 ---
 
 The [[affiliation-tanvurempr|Empire of Tānvür]] has always feared its own provinces more than any foreign power, and for most of its history it has been right to. Three frontiers trouble it now. The steppe warlord in the north is the gravest, and [[being-bathurhurtzhuk|Bāthür Hürtzhük]] has his own note. The other two are the old enemy across the eastern strait and the long, thin western passes.

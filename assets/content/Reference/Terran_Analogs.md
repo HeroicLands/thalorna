@@ -2,7 +2,7 @@
 shortcode: trnnlgsrfrnc
 name: {full: Terran Analogs Reference, aliases: []}
 type: doc
-subType: settingguide
+subType: reference
 tags: [draft, gm]
 data: {pack: none}
 ---

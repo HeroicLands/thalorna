@@ -24,6 +24,12 @@ stats:
 
 itemBuilders: sohl
 
+authors:
+    - name: Tom Rodriguez
+      email: toasty@heroiclands.org
+      url: https://www.heroiclands.org
+      discord: toasty#8538
+
 packs:
     - { name: items, label: Items, type: Item }
     - { name: journals, label: Journals, type: JournalEntry }
@@ -36,9 +42,13 @@ publish:
         prefix: ""
 
 pdf:
-    title: The World of Thalorna
-    subtitle: A Song of Heroic Lands Sourcebook
-    document: book.yaml
+    books:
+        - id: core
+          title: The World of Thalorna
+          subtitle: A Song of Heroic Lands Sourcebook
+          document: book.yaml
+          out: thalorna
+    unprinted: "type IN ('folder','homepage')"
     out: build/pdf
     # All three faces are named, because an unnamed one is not a default but a
     # fallback: `sans` resolves to `serif` when it is absent, so the headings
@@ -119,10 +129,6 @@ packageBuild:
     manifest:
         title: Thalorna Setting
         descriptionHtml: Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands
-        authors:
-            - name: Toasty
-              discord: toasty#8538
-              flags: {}
         license: LICENSE.md
         readme: README.md
         changelog: CHANGELOG.md

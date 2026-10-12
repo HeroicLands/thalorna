@@ -17,5 +17,6 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'doc'
   AND subType = 'reference'
+  AND NOT list_contains(coalesce(tags, []), 'gm')
 ORDER BY name.full COLLATE NOCASE
 ```

@@ -4,7 +4,7 @@ name: {full: Internal Subversive Threats, aliases: []}
 type: doc
 subType: settingguide
 tags: [gm]
-data: {packFolder: threats}
+data: {packFolder: threats, culture: tanvuriclt}
 ---
 
 The [[affiliation-tanvurempr|Empire of Tānvür]] keeps a register of every person in it, and the enemies it fears most are the ones the register cannot see: sorcerers who have slipped their owners, merchants who want what the law forbids them, a cult that worships the powers of unmaking, a criminal society that sells forged identities, and a famine the scholars cannot explain. Each of them attacks the classification itself, and each has learned to work with the others when it suits.

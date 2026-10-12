@@ -2,7 +2,7 @@
 shortcode: godsrelign
 name: {full: The Truth of Religion, aliases: [Gods (GM), Religion (GM)]}
 type: doc
-subType: settingguide
+subType: concept
 tags: [religion, theology, metaphysics, gm]
 data: {packFolder: settinglore}
 ---
