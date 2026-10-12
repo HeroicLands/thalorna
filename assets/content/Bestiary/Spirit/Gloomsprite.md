@@ -219,7 +219,7 @@ A gloomsprite is the size of a hand, with a slender body and four gauzy wings, s
 
 ## In the Land
 
-The Thúravel Hills were a country of the Old Gods before the Aurèldían Twelve came west, and they were never really converted so much as left alone; every attempt to survey them has produced a chart that disagrees with the last. The gloomsprites haunt the edges of things there: the forks of paths, the margins of woods and clearings, the fords, the old stones, places where the light changes. They do not stay in one place and they are seldom seen in the same place twice. They are drawn to travelers, to anyone who is lost or uncertain, and to anyone carrying an unkept promise.
+The Thúravel Hills were a country of the Old Gods before the Twelve were worshipped here, and they were never really converted so much as left alone; every attempt to survey them has produced a chart that disagrees with the last. The gloomsprites haunt the edges of things there: the forks of paths, the margins of woods and clearings, the fords, the old stones, places where the light changes. They do not stay in one place and they are seldom seen in the same place twice. They are drawn to travelers, to anyone who is lost or uncertain, and to anyone carrying an unkept promise.
 
 ## Key Behaviors
 

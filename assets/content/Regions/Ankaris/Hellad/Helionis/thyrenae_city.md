@@ -20,6 +20,10 @@ The city is built to suit its students. Its architecture is graceful and restrai
 
 A philosophical council governs Thyrenae, drawn from the senior scholars of the great academies and the heads of the city's oldest patrician families, who have endowed chairs of philosophy, funded libraries and patronized research for generations. Power here follows intellectual prestige, so the most influential citizens are the most respected thinkers, and not necessarily the wealthiest.
 
+## The Commissioners' Gate
+
+A gate in the western wall is walled up and has never been reopened. It is the breach through which the Republic's commissioners entered in 312 BF ([[lore-heladthyrsiege|the Siege of Thyrenae]]), and the colleges keep the day as a day of silence. Antiquarians visit it, and nobody else uses the street. A proposal to reopen the gate for traffic has been met with the colleges' refusal.
+
 ## The Ordo
 
 Thyrenae's relationship with the Ordo is the most complicated in Heliónis. The Ordo was born here, and the city's academies still preserve the non-arcane colleges of the original federation with real authority. Thyrenean philosophers may study arcane theory without joining the Ordo so long as they do not practice, and the boundary between theory and practice is a standing source of tension.

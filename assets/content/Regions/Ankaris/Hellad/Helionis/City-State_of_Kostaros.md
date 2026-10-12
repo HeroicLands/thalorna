@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 "Twenty years I have paid the tax and stood the levy," says a metic who has kept a shop on the Kostaros coast for that long, "and the assembly has never once asked what I think." A resident foreigner's lot is the same in every Helionite city-state, and what marks Kostaros is its land. It is a coastal city-state of about 40,000 people that governs the district around it, the [[place-kostarosdst|Kostaros District]], which takes in the town of [[place-myrtillos|Myrtillos]]. An oligarchy of its wealthy patron families holds the government.
 
-> Not to be confused with the Byzarian port town of the same name in the [[affiliation-byzarianlg|Byzarian League]].
+> Not to be confused with the Byzarian port town of the same name in the [[affiliation-byzarianlg|Byzarian League]], which is the city-state's daughter-port from the colonizing centuries ([[lore-daughtercts|the Daughter-Cities]]).
 
 - **Government:** oligarchy of wealthy patron families
 - **Land held:** [[place-kostarosdst|Kostaros District]], including Myrtillos

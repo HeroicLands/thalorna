@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [thuravelhills], population: null, pack
 
 Somewhere in the [[place-thuravelhills|Thúravel Hills]] of southern
 [[place-provenzrgn|Provènzia Region]] stands a shrine that official history has forgotten and old songs
-have not. It was raised long before the [[affiliation-arldnpnthn|Aurèldían]] Twelve came west, for the
+have not. It was raised long before the [[affiliation-arldnpnthn|Twelve]] were worshipped here, for the
 worship of the [[affiliation-firstgods|Old Gods]], and it was a place of real power.
 
 It has not been disturbed in centuries, and perhaps not in millennia.

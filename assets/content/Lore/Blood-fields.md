@@ -101,6 +101,7 @@ A settlement rite performed over the field, in the rite of the people whose dead
 | Vedyara       | _shorukshetra_ | "blood-field"; a thin one is a _ghūrakshetra_, "cursed field"                                                                                  |
 | The Nordlands | _vrellvöll_    | "blood-field", heard as a small last battle: _vrell-_, blood, and _-völl_, the field a battle is fought on                                     |
 | The Varokh    | _vrystgrund_   | "ground held by nobody": _vryst-_, free of any claim, and _-grund_, the floor of a valley, the word that answers _weskgrund_, the totem's land |
+| Heliónis      | blood-field    | The Helionite cities name a field for its battle, and these pages use the Provenzian word                                                      |
 | Aû'Khelâthu   | _zelqezat_     | "the place of a battle"; a thin one is a _zelalgit_, "the Devourer's place"                                                                    |
 
 ## Vedyara: the Shorukshetra
@@ -161,6 +162,12 @@ A _vrystgrund_ (blood-field) is ground where many died at once and no Shaman cal
 
 **How the villages live beside one.** No village stands within a day's walk of Skathhreth, and the ford is crossed by day and never in the thaw-week; the Shamans of the nearest villages lay a line of ash along its north bank each spring. Mahnrýth sings its lament at an empty mound and never at Grimak, and the grove council at Rádholt sounds the alarm if anyone is missing near the thicket. A feud between villages kills by the dozen and its dead are carried home and called, so no Varokh feud has ever made a _vrystgrund_.
 
+## Heliónis: the Herald's Crossing
+
+The Helionite cities are Aurèldían, and their account of the wound is the Aurèldían one: the dead were not judged in order before [[affiliation-selmoros|Sélmoros]]. What sets Heliónis apart is how seldom the account is needed. After a battle between Helionite cities the loser's herald walks onto the field under truce and takes the dead home, and every city buries its own to its own rites ([[lore-firstgames|the First Games]]). Sixteen centuries of wars among the cities have left no blood-field.
+
+The exception is [[place-sourplain|the Sour Plain]], a withering made in 327 BF when a legion and a Korinthean levy died together under a working that turned back on its makers, on ground no herald could cross. The Sour Plain is thin. Its dead stand in their ranks on the anniversary, and its dead ground spreads a few yards in a bad decade. Korinthea has set a ring of boundary stones round it and reset them outward three times, and a judge of the Temple of Árdavon walks the ring each year. The settlement rite of Sélmoros has never been tried there: a Helionite temple is civic property, the rite needs an assembly's vote, and no Korinthean assembly has voted to say aloud what its city did.
+
 ## The Register of Fields
 
 In order of their making. A dash marks a field whose battle no record dates.
@@ -168,6 +175,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 | Field                                        | People whose ground it is | Battle                                                       | Made    | Kind                 | Thin                          |
 | -------------------------------------------- | ------------------------- | ------------------------------------------------------------ | ------- | -------------------- | ----------------------------- |
 | [[place-zelhalzi\|Zel-Halzi]]                | Aû'Khelâthu               | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]               | 499 BF  | recurrence           | moderate                      |
+| [[place-sourplain\|The Sour Plain]]          | Heliónis                  | [[lore-heladturnedwrk\|The Turned Working]]                  | 327 BF  | withering            | thin                          |
 | [[place-oluratarna\|Olūratarana]]            | Vedyara                   | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                      |
 | [[place-jilaq\|Jilaq]]                       | The Khazryn steppe        | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                          |
 | [[place-eleventhgran\|The Eleventh Granary]] | Aû'Khelâthu               | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years |

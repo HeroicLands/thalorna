@@ -62,6 +62,27 @@
  *     table row is reported, so an age cannot be added to the rows and left out
  *     of the body. The toolchain itself refuses a `stated` date whose age mark
  *     does not cover its year, so that case needs no rule here.
+ * 11. **`midhalion-era`** — a history note under the Mídhalión folder carries
+ *     exactly one tag naming an age of the Vylarian Ages calendar, and every
+ *     `when` on the note falls inside that age's span. An age runs from its
+ *     `start` to the year before the next age's `start`; the age with no start
+ *     covers every year Before the Founding.
+ * 12. **`follows-resolves`** — every `follows` target of such a note names a
+ *     note in the tree and, where it is anchored with `#`, an event id that
+ *     note holds.
+ * 13. **`until-follows-when`** — an event's `until` is not earlier than its
+ *     `when`, so a span runs forward.
+ * 14. **`ago-agrees`** — a prose phrase such as "six centuries ago" or "sixty
+ *     years ago" counts back from the present year (the continent note's "current
+ *     year is N AF"). Where the phrase has an AF or BF year within its clause
+ *     (`312 BF ... five centuries ago`), the elapsed time agrees: a count of years
+ *     is exact to a year, or to a tenth when the clause hedges it (about, some,
+ *     nearly, roughly, almost, around), and a count of centuries is within fifty
+ *     years. Otherwise, for a span of a century or more, the dated events of every
+ *     note its sentence links include one within a fifth of the span (at least ten
+ *     years) of where the phrase points; a sentence with no such event is not
+ *     read. A count is read as digits or a number word through ninety, and any
+ *     other count is passed over.
  *
  * Findings are written `file:line:column: severity: message`, the path first on
  * the line and relative to the working directory, with a field dropped rather
@@ -109,6 +130,12 @@ export function roman(text) {
     return total;
 }
 
+/** The calendar whose eras are the ages of the Vylarian Empire. */
+export const VYLARIAN_AGES = "vylariages";
+
+/** The path segment that puts a history note under the Mídhalión folder. */
+const MIDHALION = `${path.sep}Midhalion${path.sep}`;
+
 /** The content package the tree belongs to. */
 const PACKAGE = "thalorna";
 
@@ -130,6 +157,17 @@ export function yearOf(value) {
         .trim()
         .match(/^~?\s*(-?\d+)(?:\.\d+)?(?::\d+)?$/u);
     return match ? Number(match[1]) : null;
+}
+
+/**
+ * The years between a year of the Common Calendar and a present year.
+ *
+ * @param {number} year - Signed, with no year zero.
+ * @param {number} present - The present year.
+ * @returns {number} Whole years elapsed.
+ */
+export function elapsed(year, present) {
+    return present - year - (year < 0 ? 1 : 0);
 }
 
 /** Every `.md` file under a directory, sorted. */
@@ -467,6 +505,276 @@ export function checkEras(calendars, prose, relative) {
     return findings;
 }
 
+const SMALL = {
+    a: 1,
+    an: 1,
+    one: 1,
+    two: 2,
+    three: 3,
+    four: 4,
+    five: 5,
+    six: 6,
+    seven: 7,
+    eight: 8,
+    nine: 9,
+    ten: 10,
+    eleven: 11,
+    twelve: 12,
+    twenty: 20,
+    thirty: 30,
+    forty: 40,
+    fifty: 50,
+    sixty: 60,
+    seventy: 70,
+    eighty: 80,
+    ninety: 90,
+};
+
+/** "<number> centuries|[hundred] years|century ago", as the sentence writes it; a compound count ("nine hundred and sixty") is passed over. */
+const AGO = new RegExp(
+    `(?<![\\w,-])(\\d[\\d,]*|(?<!(?:hundred|thousand|and)\\s)(?:${Object.keys(SMALL).join("|")}))(?:\\s+(hundred))?\\s+(centur(?:y|ies)|years?)\\s+ago\\b`,
+    "giu",
+);
+
+/** A count of years that a clause hedges. */
+const HEDGE = /\b(?:about|some|nearly|roughly|almost|around)\b/iu;
+
+/** The farthest a stated year may sit from its "ago" phrase, within one clause. */
+const REACH = 160;
+
+/** The present year a continent note states, or null where none does. */
+export function presentYear(prose) {
+    for (const note of prose) {
+        const match = note.raw?.match(/current year is (\d+) AF/u);
+        if (match) return Number(match[1]);
+    }
+    return null;
+}
+
+/**
+ * Every "N units ago" phrase in a note, with the years it spans, the addresses
+ * its sentence links (empty inside the frontmatter), the AF and BF years its
+ * clause states within reach, and its position.
+ *
+ * @param {string} raw - The note.
+ * @returns {{text: string, span: number, links: string[], stated: {year: number, text: string, hedged: boolean}[], offset: number}[]}
+ */
+export function agoPhrases(raw) {
+    const fence = raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n?/u);
+    const from = fence ? fence[0].length : 0;
+    const out = [];
+    for (const match of raw.matchAll(AGO)) {
+        const word = match[1].toLowerCase();
+        const base = /^\d/u.test(word) ? Number(word.replace(/,/gu, "")) : SMALL[word];
+        const span = base * (/^centur/iu.test(match[3]) || match[2] ? 100 : 1);
+        const end = match.index + match[0].length;
+
+        const clauseStart = Math.max(
+            raw.lastIndexOf(".", match.index),
+            raw.lastIndexOf(";", match.index),
+            raw.lastIndexOf("\n", match.index),
+        );
+        const clauseStops = [".", ";", "\n"]
+            .map((mark) => raw.indexOf(mark, end))
+            .filter((at) => at >= 0);
+        const clauseEnd = clauseStops.length ? Math.min(...clauseStops) : raw.length;
+        const clause = raw.slice(clauseStart + 1, clauseEnd);
+        const stated = [];
+        for (const one of clause.matchAll(/\b(\d{1,4}) (AF|BF)\b/gu)) {
+            const at = clauseStart + 1 + one.index;
+            const gap = at < match.index ? match.index - (at + one[0].length) : at - end;
+            if (gap > REACH) continue;
+            const near = raw.slice(
+                Math.max(0, Math.min(at, match.index) - 40),
+                Math.max(at + one[0].length, end),
+            );
+            stated.push({
+                year: one[2] === "BF" ? -Number(one[1]) : Number(one[1]),
+                text: one[0],
+                hedged: HEDGE.test(near),
+            });
+        }
+
+        let links = [];
+        if (match.index >= from) {
+            const body = raw.slice(from);
+            const bodyAt = match.index - from;
+            const start = Math.max(
+                body.lastIndexOf(". ", bodyAt),
+                body.lastIndexOf("\n\n", bodyAt),
+                -1,
+            );
+            const stop = [body.indexOf(". ", bodyAt), body.indexOf("\n\n", bodyAt)]
+                .filter((at) => at >= 0)
+                .reduce((a, b) => Math.min(a, b), body.length);
+            links = [...body.slice(start + 1, stop).matchAll(/\[\[([^\]|]+)/gu)].map((link) =>
+                link[1].trim(),
+            );
+        }
+        out.push({ text: match[0], span, links, stated, offset: match.index });
+    }
+    return out;
+}
+
+/**
+ * The ago findings: each "N units ago" phrase agrees with the years its clause
+ * states and, failing those, with a dated event its sentence links.
+ *
+ * @param {object[]} history - Notes with events, from {@link readTree}.
+ * @param {object[]} prose - Every note, from {@link readTree}.
+ * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @returns {string[]} Findings.
+ */
+export function checkAgo(history, prose, relative) {
+    const present = presentYear(prose);
+    if (present === null) return [];
+    const years = new Map();
+    for (const note of history) {
+        const list = (note.fm.data.events ?? []).flatMap((row) =>
+            [yearOf(row?.when), yearOf(row?.until)].filter((year) => year !== null),
+        );
+        if (list.length) years.set(note.address, list);
+    }
+    const findings = [];
+    for (const note of prose) {
+        if (typeof note.raw !== "string") continue;
+        for (const phrase of agoPhrases(note.raw)) {
+            const { line, column } = position(note.raw, phrase.offset);
+            if (phrase.stated.length) {
+                const centuries = /centur/iu.test(phrase.text) || /hundred/iu.test(phrase.text);
+                for (const one of phrase.stated) {
+                    const real = elapsed(one.year, present);
+                    const slack =
+                        centuries ? 50
+                        : one.hedged ? Math.ceil(real / 10)
+                        : 1;
+                    if (Math.abs(phrase.span - real) <= slack) continue;
+                    findings.push(
+                        finding(
+                            relative(note.file),
+                            line,
+                            column,
+                            "error",
+                            `ago-agrees: ${one.text} is ${real} years before ${present} AF, not ${phrase.text}`,
+                        ),
+                    );
+                }
+                continue;
+            }
+            if (phrase.span < 100) continue;
+            const candidates = phrase.links
+                .flatMap((address) => years.get(address) ?? [])
+                .filter((year) => Number.isFinite(year));
+            if (!candidates.length) continue;
+            const slack = Math.max(phrase.span / 5, 10);
+            const reaches = present - phrase.span;
+            const agrees = candidates.some(
+                (year) => Math.abs((year < 0 ? year + 1 : year) - reaches) <= slack,
+            );
+            if (agrees) continue;
+            findings.push(
+                finding(
+                    relative(note.file),
+                    line,
+                    column,
+                    "error",
+                    `ago-agrees: "${phrase.text}" reaches back to about ${reaches} from the present ${present} AF, and the events it can mean are dated ${[...new Set(candidates)].join(", ")}`,
+                ),
+            );
+        }
+    }
+    return findings;
+}
+
+/**
+ * The ages of a calendar as spans of calendar years.
+ *
+ * @param {object} calendar - A calendar note from {@link readTree}.
+ * @returns {{shortcode: string, from: number, to: number}[]} Each age's first and last year.
+ */
+export function ageSpans(calendar) {
+    const rows = calendar.fm.data?.eras ?? [];
+    const numeric = rows
+        .filter((row) => Number.isInteger(row.start))
+        .sort((a, b) => a.start - b.start);
+    const spans = rows
+        .filter((row) => row.start === null)
+        .map((row) => ({ shortcode: row.shortcode, from: -Infinity, to: 0 }));
+    numeric.forEach((row, index) => {
+        const next = numeric[index + 1];
+        spans.push({
+            shortcode: row.shortcode,
+            from: row.start,
+            to: next ? next.start - 1 : Infinity,
+        });
+    });
+    return spans;
+}
+
+/**
+ * The Mídhalión history findings: each note's tagged age holds its dates, and
+ * each `follows` target exists.
+ *
+ * @param {object[]} history - Notes with events, from {@link readTree}.
+ * @param {object[]} calendars - Every calendar note.
+ * @param {object[]} prose - Every note, for resolving `follows` targets.
+ * @param {(file: string) => string} relative - A path as the finding writes it.
+ * @returns {string[]} Findings.
+ */
+export function checkMidhalion(history, calendars, prose, relative) {
+    const findings = [];
+    const scoped = history.filter(
+        (note) => note.fm.subType === "history" && path.normalize(note.file).includes(MIDHALION),
+    );
+    if (!scoped.length) return findings;
+    const report = (note, keyPath, message) =>
+        findings.push(
+            finding(relative(note.file), note.lineOf?.(keyPath) ?? null, null, "error", message),
+        );
+    const ages = calendars.find((calendar) => calendar.fm.shortcode === VYLARIAN_AGES);
+    const spans = ages ? ageSpans(ages) : [];
+    const known = new Map(prose.concat(history).map((note) => [note.address, note]));
+
+    for (const note of scoped) {
+        const tags = Array.isArray(note.fm.tags) ? note.fm.tags : [];
+        const named = spans.filter((span) => tags.includes(span.shortcode));
+        const age = named.length === 1 ? named[0] : null;
+        if (!ages) {
+            report(note, ["tags"], `midhalion-era: no calendar has the shortcode ${VYLARIAN_AGES}`);
+        } else if (named.length !== 1) {
+            report(
+                note,
+                ["tags"],
+                `midhalion-era: the note carries ${named.length} tags naming an age of ${VYLARIAN_AGES}, and needs exactly one`,
+            );
+        }
+        (note.fm.data?.events ?? []).forEach((row, index) => {
+            const at = (...rest) => ["data", "events", index, ...rest];
+            const when = yearOf(row?.when);
+            if (age && when !== null && (when < age.from || when > age.to)) {
+                report(
+                    note,
+                    at("when"),
+                    `midhalion-era: \`when: ${row.when}\` lies outside ${age.shortcode}, which runs ${age.from === -Infinity ? "before 1" : age.from} to ${age.to === Infinity ? "the present" : age.to}`,
+                );
+            }
+            for (const link of row?.follows ?? []) {
+                const [address, anchor] = String(link?.event ?? "").split("#");
+                const target = known.get(address);
+                const held = (target?.fm.data?.events ?? []).some((event) => event?.id === anchor);
+                if (!target || (anchor && !held)) {
+                    report(
+                        note,
+                        at("follows"),
+                        `follows-resolves: \`${link?.event}\` names no ${target ? "event of that note" : "note"} in the tree`,
+                    );
+                }
+            }
+        });
+    }
+    return findings;
+}
+
 /** The axis year of an authored date, through package-build's parser. */
 function axisYear(value, context) {
     const { date, findings } = parseNoteDate(value, { ...context, allowUnknown: true });
@@ -523,6 +831,15 @@ export function check({ history, calendars, world = [], prose = [] }) {
                     `no-year-zero: \`${field}: ${row[field]}\` names year 0, and the Common Calendar has none; 1 BF is -1 and 1 AF is 1`,
                 );
             }
+        }
+
+        const until = yearOf(row.until);
+        if (when !== null && until !== null && until < when) {
+            report(
+                note,
+                at("until"),
+                `until-follows-when: \`until: ${row.until}\` is earlier than \`when: ${row.when}\`, so the span runs backward`,
+            );
         }
 
         if (row.depth !== undefined && !DEPTHS.includes(row.depth)) {
@@ -601,6 +918,8 @@ export function check({ history, calendars, world = [], prose = [] }) {
     }
     findings.push(...checkKhelathi(prose, relative));
     findings.push(...checkEras(calendars, prose, relative));
+    findings.push(...checkAgo(history, prose, relative));
+    findings.push(...checkMidhalion(history, calendars, prose, relative));
     return findings;
 }
 

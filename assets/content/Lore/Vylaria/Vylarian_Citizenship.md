@@ -19,7 +19,7 @@ Citizenship is a personal, earned and largely non-heritable status. A man is not
 
 ## Earning the Citizenship
 
-For the common-born there is, in practice, one road: **the legions**.
+For the common-born there is, in practice, one road: **the legions**. The bargain is a statute of the second Augustar, Arkânamos, passed about 34 AF ([[lore-veteranslaw|The Veterans' Law]]).
 
 The army counts no one as a soldier before his **fifteenth birthday**. Boys may follow the camps and even fight, but they hold no rank and their service does not start the clock until then. A full term is **twenty years**, so a commoner who takes the oath at fifteen and lives to be discharged leaves the legions a **citizen of the Empire at thirty-five**, which in Vylaria is already a middle-aged man. The whole of the imperial military rests on this deal, and the commoner track of the [[affiliation-vylrnmltry|legions]] is, among other things, a machine for making citizens.
 

@@ -14,7 +14,7 @@ Mons Aquila, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills
 
 ## The Hill and the Empire
 
-A newcomer to Ôrzâra learns the hill by what is closed to them. The Inner City is the one quarter shut to the common crowd, given over to priests, senators, soldiers and magistrates, and the [[affiliation-panepistmm|Panepistemium]] keeps its small inner compound and its restricted library on the summit, within the citadel. Look up from the Forum District on a clear morning and the palace seems to grow out of the rock itself.
+A newcomer to Ôrzâra learns the hill by what is closed to them. The Inner City is the one quarter shut to the common crowd, given over to priests, senators, soldiers and magistrates, and the [[affiliation-panepistmm|Panepistemium]] keeps its small inner compound and its restricted library on the summit, within the citadel. Look up from the Forum District on a clear morning and the palace seems to grow out of the rock itself. The first Augustar walled the crown in the Empire's founding age and moved the Senate up to it from [[place-monsvetus|Mons Vétus]] ([[lore-eaglecityrse|The Raising of the Eagle City]]).
 
 ## The Sealed Eyrie
 
@@ -24,5 +24,6 @@ Under the hill lie the galleries where the dragon mounts of the **Dragon Riders*
 
 - [[place-sixhillsvyl|Six Hills]]—the hills of Ôrzâra
 - [[place-urbsaquiln|Urbs Aquilion]]—the Inner City on its crown
+- [[lore-eaglecityrse|The Raising of the Eagle City]]—the wall built over the sealed galleries
 - [[lore-ridersdisb|The Lease Refused]]—the sealing of the Eyrie
 - [[lore-thebargain|The Bargain]]—the dragons and the Republic

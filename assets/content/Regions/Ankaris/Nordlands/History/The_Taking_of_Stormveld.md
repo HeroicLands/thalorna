@@ -36,6 +36,9 @@ data:
           - place: place-vorgald
             how: the Khazári hold's friendship with the Vardain, the only one of its kind, is destroyed
             knowledge: named
+          - place: place-ravenmoor
+            how: the Synod institutes the compulsory call that year, requiring every vessel between the island and the mainland to put in at the port before any other
+            knowledge: named
           - place: place-vrathavn
             how: a smith makes an iron-man to guard the town while the fleet is away, and the fjord keeps a reach the nets avoid
             knowledge: named
@@ -61,6 +64,20 @@ data:
           says: >-
             The Khazári did not come down to the plain, and have not said why.
           agrees: partly
+        - by: affiliation-kngdmldrth
+          says: >-
+            The Nordmen took a plain the crown never held, and the crown mustered no host against them.
+          agrees: partly
+          withholds: why a realm that counts the Jarldom its nemesis did nothing while it was founded
+        - by: affiliation-kingdmdnvr
+          says: >-
+            A coast that had just been invaded needed its eastern water watched, and the Synod instituted the compulsory call at Ravenmoor in the same year.
+          agrees: partly
+          withholds: that the call watches the channel to the mainland and ignores the northern water the Nordmen use
+        - by: place-vardainvalleys
+          says: >-
+            The survivors climbed the passes, and the Khazári took them in; the valleys have held more people than they held before, ever since.
+          agrees: full
       unresolved:
         - why the Khazári of Vorgald did not come down to the plain for the people who had fed their gate for thousands of years
         - how many Nordmen died in the taking, which the skalds put low and the Vardain put lower still
@@ -83,6 +100,10 @@ The Khazári did not come down to the plain. What is free of Vardanreach lives i
 The north remembers the same year by what happened while the fleets were away. At [[place-vrathavn|Vrathavn]], Norgaad's port, a smith made a guard of iron plates and human bones to stand the town's watch with so many of its men at sea, and a rune-worker cut a working into its chest; the guard stood through the winter, then killed its maker and walked into the fjord, and the nets still avoid the stretch of water where it went in. [[lore-nrgadhstry|Histories and Legends of Norgaad]] keeps the tale and the debt no ting has priced.
 
 In the forest south of the kingdoms the taking changed a trade. A jarldom that works a plain with thralls needs thralls by the tens of thousands, and within a decade captives from the Velanthian frontier and the Moktur passes were going down Vrystwald's rivers to Nordmen buyers by the boatload. The forest's own history tells that part.
+
+## What Aelwyth Did
+
+The island did little. [[affiliation-kngdmldrth|Aldorath]] mustered no host against the Nordmen, though it counts the Jarldom its nemesis. The Vardain who could reach the passes went up into the [[place-vardainvalleys|high valleys]] and the Khazári took them in, and [[place-threndale|Threndale]] is still adding graves to the ground the Vardain call the new ground. The [[affiliation-kingdmdnvr|Synod of Dúnavarre]] answered in the way it answers everything: that year it instituted the compulsory call at [[place-ravenmoor|Ravenmoor]], so that every vessel crossing between the island and the mainland puts in there first, and left the northern water alone.
 
 ## What It Left
 

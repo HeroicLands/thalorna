@@ -103,6 +103,10 @@ The Ordo was born in these academies, and the city keeps the non-arcane colleges
 
 A clerk of an Ordo chapter in Heliónis puts the Ordo's side of the line in two sentences: "Read what you like and argue what you like. Our interest begins the day you do it."
 
+## The Last City
+
+Thyrenae was the last city of Heliónis to fall, in 312 BF, on terms its archon Sôthanos Kôshamîdês negotiated: the walls were breached at one gate only, the libraries and the colleges were left standing, and the Senate's commissioners took the College of Arcane Philosophy out of the Panepistemium the same month ([[lore-heladthyrsiege|the Siege of Thyrenae]]). Thyrenaeans date their rivalry with [[affiliation-pelagora|Pelagora]] to the Treaty that put Pelagoran ships along their coast.
+
 ## Relations
 
 Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and with the Panepistemium. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thyrenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thyrenae has built, so the two are rivals and partners together.

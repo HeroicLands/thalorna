@@ -11,9 +11,12 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import {
+    ageSpans,
     agesTable,
     check,
+    checkAgo,
     checkEras,
+    elapsed,
     checkKhelathi,
     kingList,
     readTree,
@@ -451,6 +454,233 @@ test("the Dómsey count: a sitting named by its number states no date and is rea
                 },
             ]),
         ),
+        [],
+    );
+});
+
+const CONTINENT = prose("The current year is 720 AF.", "continent");
+
+test("ago-agrees: a phrase that reaches the linked event passes", () => {
+    const found = check({
+        history: [note("fort", [{ when: 615 }])],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [CONTINENT, prose("It began about a century ago ([[lore-fort|the Fort]]).", "town")],
+    });
+    assert.deepEqual(found, []);
+});
+
+test("ago-agrees: a phrase that misses the linked event", () => {
+    const [found] = check({
+        history: [note("fort", [{ when: 615 }])],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [CONTINENT, prose("It began two centuries ago ([[lore-fort|the Fort]]).", "town")],
+    });
+    assert.match(
+        found,
+        /^town\.md:1:\d+: error: ago-agrees: "two centuries ago" reaches back to about 520/u,
+    );
+});
+
+test("ago-agrees: a year the sentence states is an event it can mean", () => {
+    const found = check({
+        history: [],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [CONTINENT, prose("About six hundred years ago, around 120 AF, it moved.", "river")],
+    });
+    assert.deepEqual(found, []);
+    const [bad] = check({
+        history: [],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [CONTINENT, prose("About six hundred years ago, around 400 AF, it moved.", "river")],
+    });
+    assert.match(bad, /ago-agrees/u);
+});
+
+test("ago-agrees reads neither a span under a century nor a sentence with no event", () => {
+    const found = check({
+        history: [note("fort", [{ when: 615 }])],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [
+            CONTINENT,
+            prose("Twelve years ago ([[lore-fort|the Fort]]).", "a"),
+            prose("Seven centuries ago the Grukar came.", "b"),
+        ],
+    });
+    assert.deepEqual(found, []);
+});
+
+test("ago-agrees reads a figure with a thousands comma", () => {
+    const [found] = check({
+        history: [note("occasion", [{ when: -2110 }])],
+        calendars: [MADHU],
+        world: [WORLD],
+        prose: [
+            CONTINENT,
+            prose(
+                "Counted from 2,830 years ago ([[lore-occasion|it]]) and 1,000 years ago ([[lore-occasion|it]]).",
+                "empire",
+            ),
+        ],
+    });
+    assert.match(found, /"1,000 years ago"/u);
+});
+
+/** The Vylarian Ages in miniature: three ages, the first with no start. */
+const AGES = {
+    file: "Ages.md",
+    fm: {
+        shortcode: "vylariages",
+        type: "lore",
+        subType: "calendar",
+        data: {
+            epoch: "1.1",
+            months: [{ name: "Long", days: 365 }],
+            eras: [
+                { shortcode: "kingsrepub", name: "The Kings", abbreviation: "KR", start: null },
+                {
+                    shortcode: "firstaugs",
+                    name: "The First Augustars",
+                    abbreviation: "FA",
+                    start: 1,
+                },
+                {
+                    shortcode: "ageconquest",
+                    name: "The Age of Conquest",
+                    abbreviation: "AC",
+                    start: 96,
+                },
+            ],
+            formats: { std: "D MMMM [yearInEra] GGG" },
+        },
+    },
+};
+
+/** A history note under the Mídhalión folder. */
+function midhalion(shortcode, tags, events) {
+    return {
+        file: `assets/content/Regions/Ankaris/Midhalion/Vylaria/History/${shortcode}.md`,
+        address: `lore-${shortcode}`,
+        fm: { shortcode, type: "lore", subType: "history", tags, data: { events } },
+    };
+}
+
+/** The findings for Mídhalión history notes beside the ages calendar. */
+function runMidhalion(...history) {
+    return check({ history, calendars: [AGES], world: [WORLD] });
+}
+
+test("midhalion-era: the ages are spans of calendar years", () => {
+    assert.deepEqual(
+        ageSpans(AGES).map((span) => [span.shortcode, span.from, span.to]),
+        [
+            ["kingsrepub", -Infinity, 0],
+            ["firstaugs", 1, 95],
+            ["ageconquest", 96, Infinity],
+        ],
+    );
+});
+
+test("midhalion-era: notes dated inside their tagged age, with real follows targets, are clean", () => {
+    const first = midhalion("firstnote", ["history", "firstaugs"], [{ id: "a", when: 12 }]);
+    const second = midhalion(
+        "secondnote",
+        ["history", "ageconquest"],
+        [{ when: 140, follows: [{ event: "lore-firstnote#a", how: "enabled" }] }],
+    );
+    assert.deepEqual(runMidhalion(first, second), []);
+});
+
+test("midhalion-era: a misdated note is red", () => {
+    const found = runMidhalion(midhalion("misdated", ["history", "firstaugs"], [{ when: 140 }]));
+    assert.equal(found.length, 1);
+    assert.match(
+        found[0],
+        /^assets\/content\/Regions\/Ankaris\/Midhalion\/Vylaria\/History\/misdated\.md:\d*:?\s*error: midhalion-era: `when: 140` lies outside firstaugs, which runs 1 to 95/u,
+    );
+});
+
+test("midhalion-era: a note naming no age, or two, is red", () => {
+    assert.equal(runMidhalion(midhalion("untagged", ["history"], [{ when: 12 }])).length, 1);
+    assert.equal(
+        runMidhalion(midhalion("twice", ["firstaugs", "ageconquest"], [{ when: 12 }])).length,
+        1,
+    );
+});
+
+test("follows-resolves: a target that names no note, or no event of the note, is red", () => {
+    const first = midhalion("firstnote", ["firstaugs"], [{ id: "a", when: 12 }]);
+    const missing = midhalion(
+        "missing",
+        ["ageconquest"],
+        [{ when: 140, follows: [{ event: "lore-nowhere", how: "caused" }] }],
+    );
+    const anchor = midhalion(
+        "anchor",
+        ["ageconquest"],
+        [{ when: 140, follows: [{ event: "lore-firstnote#b", how: "caused" }] }],
+    );
+    const found = runMidhalion(first, missing, anchor);
+    assert.equal(found.length, 2);
+    assert.match(found[0], /follows-resolves: `lore-nowhere` names no note/u);
+    assert.match(found[1], /follows-resolves: `lore-firstnote#b` names no event of that note/u);
+});
+
+test("midhalion-era: a history note outside the Mídhalión folder is not held to the ages", () => {
+    const outside = {
+        ...midhalion("elsewhere", ["history"], [{ when: 12 }]),
+        file: "elsewhere.md",
+    };
+    assert.deepEqual(check({ history: [outside], calendars: [AGES], world: [WORLD] }), []);
+});
+
+test("until-follows-when: a span that runs backward", () => {
+    assert.deepEqual(run(note("war", [{ when: -335, until: -312 }])), []);
+    const [found] = run(note("war", [{ when: -312, until: -335 }]));
+    assert.match(found, /until-follows-when: `until: -335` is earlier than `when: -312`/u);
+});
+
+test("elapsed counts the years to the present with no year zero", () => {
+    assert.equal(elapsed(-312, 720), 1031);
+    assert.equal(elapsed(520, 720), 200);
+});
+
+const agoProse = (text) => [
+    { file: "continent.md", raw: "The current year is 720 AF." },
+    { file: "n.md", raw: text },
+];
+
+test("ago-agrees: a count that matches the present passes", () => {
+    assert.deepEqual(
+        checkAgo([], agoProse("In 520 AF the legions left, two centuries ago."), same),
+        [],
+    );
+    assert.deepEqual(checkAgo([], agoProse("The city fell 1031 years ago, in 312 BF."), same), []);
+    assert.deepEqual(checkAgo([], agoProse("About 1000 years ago, in 312 BF, it fell."), same), []);
+});
+
+test("ago-agrees: a misdated count is a finding", () => {
+    const [found] = checkAgo([], agoProse("The city fell in 312 BF, five centuries ago."), same);
+    assert.match(
+        found,
+        /^n\.md:1:\d+: error: ago-agrees: 312 BF is 1031 years before 720 AF, not five centuries ago/u,
+    );
+    assert.equal(checkAgo([], agoProse("It fell in 312 BF, 1000 years ago."), same).length, 1);
+});
+
+test("ago-agrees reads past a count it cannot read", () => {
+    assert.deepEqual(checkAgo([], agoProse("In 312 BF, a thousand years ago, it fell."), same), []);
+});
+
+test("ago-agrees reads a tens word as a count and passes over a compound one", () => {
+    assert.deepEqual(checkAgo([], agoProse("It fell in 660 AF, sixty years ago."), same), []);
+    assert.equal(checkAgo([], agoProse("It fell in 700 AF, sixty years ago."), same).length, 1);
+    assert.deepEqual(
+        checkAgo([], agoProse("It fell in 241 BF, some nine hundred and sixty years ago."), same),
         [],
     );
 });

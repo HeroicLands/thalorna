@@ -104,19 +104,41 @@ Before there were kingdoms on Aelwyth there was one, and both elder races held i
 
 After [[lore-khazarturn|Khazártúrn]] fell in 2427 BF the [[lore-flksinale|Sinalë]] and
 [[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world—except on this
-island, where instead they attempted to repair it. They united Aelwyth under a **single crown** held by a
+island, where instead they attempted to repair it. In time they united Aelwyth under a **single crown** held by a
 Sinalë king and governed it together for **six centuries**: the only reconciliation either race has ever
-tried.
+tried. The [[lore-jointcrown|Joint Crown]] was founded about 1585 BF.
 
 It was ended by refugees. The **Pelwar**, driven off the mainland by the [[place-vrystwald|Varokh]],
 reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
 land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **984 BF** the
 king was killed at the [[place-threesisters|Three Sisters]] in what is now the
 [[place-cntrlhghlnds|Central Highlands]]. The Sinalë withdrew into the [[place-hallowwood|Hallowwood]];
-the Khazári finished the war alone and have not spoken to them since.
+the Khazári finished the war alone and have not spoken to them since. How the war ended, and what it left
+to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
 
-Every human on Aelwyth today—every realm, every tribe—descends from those refugees. None of them
-know it, and neither elder race has ever seen a reason to tell them.
+Nearly every human on Aelwyth today descends from those refugees; the Vardain and the oldest Peshtar
+lines descend from the farmers the Khazári brought across before them, and the lines have long since
+mixed. None of them know it, and neither elder race has ever seen a reason to tell them.
+
+## The Crown Roads
+
+The Joint Crown left roads. They are stretches of **fitted-stone road**, laid by Khazári masons in blocks no
+later mason on the island can match, and they run across the interior and the highlands where no later road
+runs. Most are broken by farms and fords, and a drover who comes to a whole stretch going his way uses it, because
+the footing is better than anything the realms have laid. The Sinalë, who built little in
+stone, planted the avenues beside them, and where a stretch survives whole there is often a line of oak or
+beech running along it that is far too old to have been set by anyone since.
+
+Under three towns, [[place-veldareth|Veldareth]], [[place-ashford|Ashford]] and [[place-brynhallow|Brynhallow]], lie
+footings of the same cut stone, which the Epistemium's scholars have not been able to date and the towns have
+built upon for as long as they have stood. The Synod's scholars follow the roads when the Synod's business takes
+them that way, and the [[lore-vardain|Vardain]], who know the stone better than anyone, say what it is and are not
+asked.
+
+Two of the roads are known for what they do. One stretch runs straight from the highland grazing to the edge
+of the [[place-hallowwood|Hallowwood]] and stops there at a bank of oaks, with no gate, no marker and no road
+beyond. A cellar in Veldareth has a door cut into its footing that does not open, and the household that owns the
+house does not say whether it has been tried.
 
 ## The Island and the World
 

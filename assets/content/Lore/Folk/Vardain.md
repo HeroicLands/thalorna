@@ -15,7 +15,7 @@ For most of the island's history they held the whole of the north-east—the gre
 above it and the valleys within them, something like **a fifth of Aelwyth's land area**—in a nation
 the Aelwythans called [[place-vardanreach|Vardanreach]], and they were the one human people in the world with a standing,
 mutually valued relationship with the [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]]. That
-lasted thousands of years.
+lasted thousands of years, and the Khazári fixed its bounds when they [[lore-endgreatwar|ended the Great War]] and kept the north-east for the Vardain.
 
 **Sixty years ago the Nordmen took the plain.** The lowland Vardain were not driven out; they were
 **enslaved**, and about a hundred and twenty thousand of them are thralls in

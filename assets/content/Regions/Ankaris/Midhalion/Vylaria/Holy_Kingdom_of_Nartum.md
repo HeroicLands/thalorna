@@ -3,7 +3,7 @@ shortcode: hlykngdmnrtm
 name: {full: Holy Kingdom of Nartûm, aliases: []}
 type: affiliation
 subType: polity
-description: "Theocratic kingdom of the Vylarian Empire, seat of the Holy Mother and center of ecclesiastical power—a sanctuary city where the sacred and secular intertwine under priestly rule."
+description: "Independent theocratic kingdom, seat of the Holy Mother and center of ecclesiastical power—a sanctuary city where the sacred and secular intertwine under priestly rule."
 data:
   templatePriority: null
   demonym: Nartumi
@@ -138,7 +138,7 @@ Nartûm is not expansionist, and it is not weak. Its army is small but professio
 
 ## Relations
 
-Nartûm keeps correct but cool relations with the Vylarian Empire. The empire regards Nartûm as a wayward province that should be reabsorbed, and Nartûm regards the empire as a corrupted institution that has strayed from the true path.
+Nartûm keeps correct but cool relations with the Vylarian Empire. The break dates from about 224 AF, when the high priesthood refused obedience to an Augustar who would not proscribe the Black Flame and anointed a king of its own ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). The empire regards Nartûm as a wayward province that should be reabsorbed, and Nartûm regards the empire as a corrupted institution that has strayed from the true path.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has no presence in Nartûm. The kingdom holds the Ordo's secular power and political manipulation to be antithetical to proper spiritual life, and mages who work in Nartûm answer to the priesthood, not to the Ordo.
 

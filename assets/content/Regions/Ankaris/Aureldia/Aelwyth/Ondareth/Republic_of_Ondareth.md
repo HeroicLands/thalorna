@@ -89,7 +89,7 @@ A southwestern republic governed by a senate of landed citizens and military off
 
 ## Character
 
-The republic emerged from a military uprising against a tyrannical king several centuries ago, and its citizens take fierce pride in their self-governance. The Senate—composed of elected representatives from the landholding and military classes—debates policy with a directness that strikes the courtiers of Dúnavarre as vulgar and the barons of Aldorath as presumptuous. Ondarethans consider both attitudes proof of their neighbors' decadence.
+The republic emerged from a military uprising against a tyrannical king several centuries ago ([[lore-ondarethfall|the Fall of the Last King of Ondareth]], about 440 AF), and its citizens take fierce pride in their self-governance. The Senate—composed of elected representatives from the landholding and military classes—debates policy with a directness that strikes the courtiers of Dúnavarre as vulgar and the barons of Aldorath as presumptuous. Ondarethans consider both attitudes proof of their neighbors' decadence.
 
 Ondarethan legions—disciplined, well-drilled, and motivated by civic duty rather than feudal obligation—are the most professional fighting force on the island. Military service is both a civic obligation and the primary path to political advancement; a senator who has not served is a rarity and regarded with suspicion.
 

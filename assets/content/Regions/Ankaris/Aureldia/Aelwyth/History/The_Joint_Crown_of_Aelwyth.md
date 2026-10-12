@@ -1,0 +1,96 @@
+---
+shortcode: jointcrown
+name: {full: The Joint Crown of Aelwyth, aliases: [The Elder Kingdom]}
+type: lore
+subType: history
+description: "About 1585 BF the Sinalë of the southern forest and the Khazári of the Ironfells raised one crown over the whole of Aelwyth, held by a Sinalë king and governed by both peoples, and kept it for six centuries."
+tags: [history]
+data:
+  packFolder: aelwyth
+  events:
+    - when: ~-1585
+      kind: founding
+      depth: region
+      sources:
+        - place-aelwyth
+        - place-hallowwood
+        - place-ironfells
+        - place-vorgald
+        - lore-flksinale
+        - lore-flkkhazar
+      summary: >-
+        Three centuries after the Convoy of Six went off the water, the Sinalë of the southern forest and the Khazári of the Ironfells, the only two of their kind who still share a country, try again with something larger than a trust: one crown over the whole island, held by a Sinalë king and governed by both peoples. The Khazári cut the roads and the footings and the Sinalë grow the rest. The Khazári's farmers, the Vardain among them, and the small parties of Pelwar who have come over since are its subjects. It lasts until the king dies at the Three Sisters.
+      standing: attested
+      names: [{name: the Elder Kingdom, by: lore-flkkhazar}]
+      where:
+        locus: [place-aelwyth]
+        reach:
+          - place: place-vorgald
+            how: the hold's masons cut the roadbeds and footings of the crown, and its archive keeps the count of six centuries of being assured
+            knowledge: named
+          - place: place-hallowwood
+            how: the Sinalë of the southern forest provide the crown's kings and plant the avenues that line its roads
+            knowledge: named
+          - place: place-vardanreach
+            how: the farmers of the Ironfells' gate become subjects of a crown and not only of a hold
+            knowledge: named
+          - place: place-veldareth
+            how: a footing of cut stone under the old quarter carries a door that does not open, and nobody in the city can say who laid it
+            knowledge: unlinked
+      who:
+        - {ref: lore-flksinale, role: founder}
+        - {ref: lore-flkkhazar, role: founder}
+        - {ref: lore-vardain, role: witness}
+      follows:
+        - event: lore-fallkhazturn
+          how: answered
+          note: the crown is the two peoples' larger answer to the breach, attempted only on this island
+        - event: lore-thecrossing
+          how: answered
+          note: the trust that failed to arrive is tried again as a kingdom
+      accounts:
+        - by: lore-flkkhazar
+          says: >-
+            We were assured for six hundred years that it would not happen again, by a people who kept the assurance until the day they did not.
+          agrees: partly
+          withholds: how the crown's offices were divided between the two peoples
+        - by: lore-vardain
+          says: >-
+            The lords of the mountain and the lords of the wood sat together over the island, and the valleys fed both.
+          agrees: full
+          withholds: nothing; the Vardain's tellings keep the crown plainly and do not know it was unusual
+        - by: lore-flksinale
+          says: Nothing. The Hallowwood does not discuss the crown.
+          agrees: silent
+      unresolved:
+        - where the crown sat, and whether it sat anywhere
+        - how a Sinalë king and a Khazári council divided the island's business between them
+---
+
+A drover who follows a straight, paved road across the island's interior and finds it ending at a bank of old oaks has found the work of the **Joint Crown**, the one kingdom the two elder races of [[place-aelwyth|Aelwyth]] ever raised together. It was founded about 1585 BF and it ended in 984 BF at the [[place-threesisters|Three Sisters]].
+
+## Why Here
+
+The [[lore-fallkhazturn|fall of Khazártúrn]] in 2427 BF ended all dealing between the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] everywhere in the world. Aelwyth was the exception. The Khazári of [[place-vorgald|Vorgald]] and the Sinalë of the southern forest, the [[place-hallowwood|Hallowwood]] of today, shared one island and no other pair of their peoples shared a country at all. The [[lore-thecrossing|Convoy of Six]] sailed in 1919 BF to put the Second Voice into their joint keeping and never arrived. A little over three centuries later the two peoples tried a larger undertaking, and they made it a government.
+
+## One Crown, Two Hands
+
+The crown was held by a Sinalë king, and the kingdom was governed by both peoples. How the offices were divided is not recorded; the Khazári archive at Vorgald holds the figures and the Sinalë do not discuss them. The work divided by skill. The Khazári cut stone, as they always have: roadbeds laid across the island in fitted blocks, bridge piers, and the footings of the towns that grew along them. The Sinalë built little in stone and did not wish to. They raised the crown's other works as living things: avenues of trained oak and beech along the roadbeds that gave shade and marked the way in winter, hedged boundaries, and bridges of grown timber. Neither people's work can be read without the other's.
+
+The subjects were the farmers the Khazári had long kept at their gates, the [[lore-vardain|Vardain]] and the other [[lore-pelwarpepl|Pelwar]] settled on the island, with the small parties of newcomers who came over later and were accepted. The crown gave them one law across the island, and the Khazári, who had always depended on their farmers' goodwill, found that it suited them.
+
+## What It Left
+
+- **The Crown Roads.** Stretches of fitted-stone road run across Aelwyth's interior and highlands where no later road runs, and one of them goes straight to the Hallowwood's edge and stops. They are described under [[place-aelwyth|Aelwyth]].
+- **Footings under three towns.** Cut stone nobody has dated lies beneath the oldest quarters of [[place-veldareth|Veldareth]] and two other towns, and one cellar in Veldareth has a door cut in the footing that does not open.
+- **Six centuries of being assured.** The Khazári reckon the Sinalë's withdrawal from the Three Sisters the worse for coming after it, and [[place-vorgald|Vorgald]]'s archive counts it as the second abandonment in fourteen hundred years.
+- **A people's standing.** The Vardain are farmers of a crown and a hold, and they tell the crown without wonder, as a thing that was ordinary once.
+
+The joint kingdom ended in the [[lore-threesistrs|Battle of the Three Sisters]], and what followed from the end of the war is told in [[lore-endgreatwar|the Ending of the Great War]]. No capital of the crown has been found.
+
+## See Also
+
+- [[lore-threesistrs|The Battle of the Three Sisters]]—how the crown ended
+- [[lore-fallkhazturn|The Fall of Khazártúrn]]—the breach it answered
+- [[lore-thecrossing|The Crossing]]—the trust that came before it
+- [[place-hallowwood|The Hallowwood]] · [[place-vorgald|Vorgald]]—where the two peoples went after

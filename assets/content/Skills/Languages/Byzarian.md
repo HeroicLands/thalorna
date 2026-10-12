@@ -120,7 +120,7 @@ In practical written contexts, Byzarian employs **diacritical marks** above vowe
 
 ## Historical Development
 
-Byzarian evolved over roughly 800 years through the gradual synthesis of Helonic with eastern languages:
+Byzarian evolved over roughly five centuries through the gradual synthesis of Helonic with eastern languages:
 
 1. **Early Byzarian (500–300 years ago):** Emerged from creolization in the great trading ports. Helonic speakers who had absorbed eastern vocabulary and simplified grammar for speed created a hybrid. The early form was looked down upon by both Helonic purists and eastern scholars as a "merchant's bastardization."
 

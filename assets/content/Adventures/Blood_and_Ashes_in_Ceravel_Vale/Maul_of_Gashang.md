@@ -31,7 +31,7 @@ The **Maul of Gashang** was last wielded in a brutal conflict known as the **Bat
 
 The **Maul of Gashang** was wielded by a Black Flame warlord named **Hazarak Bloodhand**, known for his cruelty and mastery of war. Hazarak led the charge against the Sacred Forge forces, and it is said that he wielded the maul with such ferocity that even the most devout Sacred Forge knights faltered in his wake. The weapon’s unholy aura terrified even the most battle-hardened soldiers, while its flames set the battlefield alight, turning the hillside into a scene of unrelenting carnage.
 
-As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing back the Sacred Forge lines. However, in the chaos of battle, Hazarak was struck down by a surprise flank led by **Sir Gavain**, a renowned Sacred Forge commander. With Hazarak’s death, the Black Flame forces began to falter, and the maul, still clutched in the hands of its master, fell to the blood-soaked ground.
+As the battle raged on, Hazarak’s forces began to gain the upper hand, pushing back the Sacred Forge lines. However, in the chaos of battle, Hazarak was struck down by a surprise flank led by **Sir Yléndor**, a renowned Sacred Forge commander. With Hazarak’s death, the Black Flame forces began to falter, and the maul, still clutched in the hands of its master, fell to the blood-soaked ground.
 
 ### **The Maul’s Disappearance**
 

@@ -77,7 +77,7 @@ the one thing only it could offer—the return of the bound to the pool—and th
 that was the war.
 
 [[lore-thebargain|The Republic's terms]] were not "when the war ends" but a _term of years, renewed_. That is why the
-Riders were a standing corps for more than two centuries rather than a wartime expedient, and why a
+Riders were a standing corps for nearly three centuries rather than a wartime expedient, and why a
 Republican magistrate renewed a standing appropriation every year for the keeping of a thing his
 docket named only by a number, under a cover-description the chancery invented so that nobody would
 query the line.

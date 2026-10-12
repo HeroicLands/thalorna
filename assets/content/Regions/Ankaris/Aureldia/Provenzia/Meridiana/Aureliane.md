@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [meridiana], population: 30000, packFol
 ---
 
 **Aurèliane** stands inland in the south, on the great road, and is the oldest city in Provènzia. It
-was founded as a [[affiliation-vylarinmpr|Vylarian]] colony, laid out on the imperial grid, and served
+was founded under the Republic as a [[affiliation-vylarinmpr|Vylarian]] colony, laid out on the Vylarian grid, and in time served
 for centuries as the provincial capital of everything the empire held west of the sea.
 
 It is not the capital now. When Provènzia became a kingdom in its own right the court settled at

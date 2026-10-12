@@ -40,7 +40,7 @@ Smaller places fill the country between them. [[place-sharimun|Sharîmun]] is a 
 
 Tarûzel is a human country, and a sharply divided one. The guild families live in palatial urban estates and educate their children in rhetoric, mathematics and mercantile law. Below them stands a large middle class of independent merchants, skilled craftspeople and ship captains, and below that the dock workers, sailors and urban poor crowded into the harbor districts. The islands honor wealth, reputation and the ability to strike a profitable deal above every other virtue. Spiced meats, flatbreads, honeyed pastries and strong coffee are its staples, and the bazaars of its port cities sell goods from across the known world.
 
-The **hill tribes** of the larger islands' interiors are culturally distinct from the port cities. They keep older traditions, speak archaic dialects and resent the dominance of the cities. They sent many of the foot soldiers of the war of independence, harried the imperial supply lines in country they knew, and received nothing from the peace.
+The **hill tribes** of the larger islands' interiors are culturally distinct from the port cities. They keep older traditions, speak archaic dialects and resent the dominance of the cities. They sent many of the foot soldiers of the war of independence, harried the imperial supply lines in country they knew, and received nothing from the peace. The forts and military road they once garrisoned for imperial pay still cross the hills ([[lore-easternline|The Eastern Line]]).
 
 The language of the region is [[skill-taruzelilng|Tarûzeli]], a rhythmic, long-voweled tongue with a deep vocabulary for navigation, commerce and the sea, and the working language of the guilds and the shipping routes.
 

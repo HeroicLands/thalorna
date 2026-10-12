@@ -20,7 +20,7 @@ go far into them without a reason, and give reasons that do not survive much que
 ## The Older Faith
 
 The hills were a country of the [[affiliation-firstgods|Old Gods]] before the
-[[affiliation-arldnpnthn|Aurèldían]] Twelve came west, and they were never really converted so much as
+[[affiliation-arldnpnthn|Twelve]] were worshipped here, and they were never really converted so much as
 left alone. Provenzian church records treat the district as settled and orthodox. Provenzian _songs_
 do not, and the ballads collected from the hill villages are full of observances no priest of the
 Twelve would recognize and place-names that appear on no map.

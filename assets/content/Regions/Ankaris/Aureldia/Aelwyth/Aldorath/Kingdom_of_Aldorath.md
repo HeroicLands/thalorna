@@ -119,15 +119,15 @@ sohl: {system: {commonSkills: [elvndrlng]}}
 
 ## Overview
 
-The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement. The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
+The heartland kingdom of [[place-aelwyth|Aelwyth]], occupying the fertile lowlands and gentle hills that surround the great central lake. Aldorath is the most storied of the island's realms—a feudal monarchy of knights and castles, ancient oaths and courtly intrigue, where the boundary between history and legend is hopelessly blurred. The king rules from a lakeside fortress, advised by a council of barons whose families have held their lands since the earliest human settlement; the first of its kings, Bréthar of Kingshollow, was one of them, crowned by his peers about 120 AF ([[lore-kingshlwcrwn|the Crowning at Kingshollow]]). The kingdom holds the land of [[place-aldorathrgn|Aldorath Region]].
 
 ## Character
 
-Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history—tales of kings who drew enchanted swords from stone, of bargains struck with lake-spirits, and of holy grails hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
+Prophecy and questing are woven into the fabric of Aldorathian culture; knights ride out to fulfill visions, and the court seers wield as much influence as the military commanders. The kingdom's chronicles are as much mythology as history—tales of kings who drew a sword from a stone, of bargains struck with lake-spirits, and of a sacred vessel hidden in mist-shrouded ruins are told not as fables but as the deeds of ancestors whose bloodlines still rule.
 
 ## The Sinalë Connection
 
-The [[lore-flksinale|Sinalë]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Aelwythan polity. This connection, reminiscent of (and possibly the origin of) the legends of the Lady of the Lake, gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinalë do not explain their reasons, and the Aldorathian court knows better than to press them.
+The [[lore-flksinale|Sinalë]] enclaves in the southern forests maintain an ancient and cautious relationship with the Aldorathian crown—the most sustained contact between the elder race and any Aelwythan polity. This connection gives Aldorath a mystical legitimacy that its rivals cannot claim. The nature of this relationship is poorly understood by outsiders; the Sinalë do not explain their reasons, and the Aldorathian court knows better than to press them.
 
 ## Relations
 

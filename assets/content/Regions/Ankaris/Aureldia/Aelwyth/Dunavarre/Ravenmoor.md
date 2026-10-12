@@ -19,14 +19,14 @@ off into a deep sheltered anchorage. Thirty-five hundred people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the **Synod**.
 
 It is not the kingdom's busiest harbor—[[place-wraymouth|Wraymouth]] handles far more tonnage—but
-it is the one every ship must enter.
+it is the one every ship must enter. In the hall of the Synod the last king's chair stands at the head of the room, kept and never filled ([[lore-dunavarresynod|the Mages Take Dúnavarre]]).
 
 ## The Compulsory Call
 
 The Synod **requires every vessel crossing between the mainland and Aelwyth to put in at Ravenmoor
 first**: inbound before it may proceed to any other port on the island, outbound before it may leave for
 the mainland. There are no exceptions worth the name, and the requirement applies to Ondarethan,
-Aldorathi and Stormveld shipping exactly as it applies to foreigners.
+Aldorathi and Stormveld shipping exactly as it applies to foreigners. The Synod instituted the call in 660 AF, the year the Nordmen took the north-east of the island ([[lore-stormveldtkn|the Taking of Stormveld]]), in the name of a coast that had just been invaded.
 
 The Synod's officers inspect cargo and manifests as customs officials anywhere would, looking for
 prohibited goods in both directions. That much is unremarkable and, on the whole, welcome: Aelwyth's
@@ -76,7 +76,7 @@ length the Synod finds appropriate. When that is done the advisors return, the m
 nothing is ever said about either. Twice in two centuries a realm has gone the whole distance. Both came
 back. Neither has discussed it since.
 
-## What It Costs the Island## What It Costs the Island
+## What It Costs the Island
 
 The other realms dislike the compulsory call and comply with it, out of a combination of fear and
 indifference. They are **afraid of Dúnavarre** and would rather not discover what testing the Synod

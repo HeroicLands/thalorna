@@ -87,7 +87,7 @@ The Council of Korinthea consults the Temple of [[lore-ardavondty|Árdavon]] on 
 
 Two bodies share the work. The council governs inside the forms every Helionite city-state keeps: a sovereign assembly, a council chosen by lot, audited magistrates, an elected strategos and an archon who names the year. The temple judges. A priest-judge of Árdavon explains the division in a sentence: "The council writes the rules, and the temple says what they mean when two men disagree about them."
 
-The High Judge, Dûmàrês Râfîrôs, is consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases. Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together.
+The High Judge, Dûmàrês Râfîrôs, is consulted by the council on law and civic honor, and his judgment on a dispute is final in most cases. Being a judge of Árdavon is a civic office in Korinthea, in line with the Helionite habit of holding priesthood and magistracy together. The temple has kept the city's law since 327 BF, when the city's assembly lost its standing after the Turned Working ([[lore-heladturnedwrk|the battle on the Sour Plain]]) and the first High Judge, Nômashon, took the law into the temple's keeping; the present High Judge sits in an unbroken line from him.
 
 ## Standing and Relations
 

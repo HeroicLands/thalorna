@@ -37,6 +37,9 @@ data:
         - {ref: lore-flkkhazar, role: actor}
         - {ref: lore-pelwarpepl, role: actor}
       follows:
+        - event: lore-jointcrown
+          how: ended
+          note: the crown the Sinalë and Khazári raised over the island about 1585 BF ends with its king
         - event: lore-fallkhazturn
           how: ended
           note: the reconciliation attempted here was the answer to that breach, and this is where the answer stopped
@@ -65,7 +68,7 @@ data:
 Before there were kingdoms on [[place-aelwyth|Aelwyth]] there was one, and both Elder Races held it.
 After [[lore-fallkhazturn|Khazártúrn fell]] the [[lore-flksinale|Sinalë]] and
 [[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world—except on this
-island, where instead they tried to repair it. They united Aelwyth under a single crown held by a
+island, where instead they tried to repair it. In time they united Aelwyth under a single crown held by a
 Sinalë king and governed it together for six centuries. It is the only such attempt either race has
 ever made.
 
@@ -78,5 +81,7 @@ What was lost there is more than a king and more than a war. It ended in the way
 make it irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a
 crisis, for the second time, having spent six hundred years persuading them it would not happen again.
 
-Every human on Aelwyth today descends from those refugees. None of them know it, and neither Elder
+Nearly every human on Aelwyth today descends from those refugees; the Vardain and the oldest Peshtar
+lines descend from the farmers the Khazári brought across before them, and the lines have long since
+mixed. None of them know it, and neither Elder
 Race has ever seen a reason to tell them.

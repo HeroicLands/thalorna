@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 40000, governme
 
 ## Overview
 
-In **Korinthea**, a dispute between a merchant and a noble is more likely to end at the Temple of [[lore-ardavondty|Árdavon]] than before a magistrate. The temple operates as the city's de facto court, and Árdavon is the god of order and justice. This is a Helionite city of 40,000, governed by an oligarchy of its wealthy patron families through a council, and its civic life turns on law and honor.
+In **Korinthea**, a dispute between a merchant and a noble is more likely to end at the Temple of [[lore-ardavondty|Árdavon]] than before a magistrate. The temple operates as the city's de facto court, and Árdavon is the god of order and justice. It has been the city's court since 327 BF, when the assembly lost its standing after the [[lore-heladturnedwrk|Turned Working]]. This is a Helionite city of 40,000, governed by an oligarchy of its wealthy patron families through a council, and its civic life turns on law and honor.
 
 ## Who Governs
 

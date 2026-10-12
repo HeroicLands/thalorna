@@ -29,6 +29,20 @@ Around it stand the offices, the courts and the assembly ground, laid out on a p
 account of [[place-orzara|Ôrzâra]] and adapted, without acknowledgement, to a much smaller and
 considerably wetter site.
 
+## The Tyrant's Rock
+
+Above the harbor stands the rock where **Trálkar**, the last king of the coast, had his castle until [[lore-ondarethfall|the rising]] threw it down. What is left is a course of foundation stones and a gap where the gate stood. The republic raised no monument to
+its liberation. It climbs the rock instead: once a year the Senate walks up from the Senate house in its bordered
+mantles, in procession and in order of precedence, and stands for the length of an oration among the stones.
+
+The shrines of the [[affiliation-blackflame|Black Flame]] send a delegation, as every interest in Thornbury does.
+The clergy of [[affiliation-selmoros|Sélmoros]] do not attend: they accept no civic office and take no part in the
+Senate's observances, and the procession is one.
+
+The rock is a recurring ambition. A senator who wants to build wants it as the site of his house, and the
+Senate has had the question before it for as long as anyone in the chamber remembers, because the first
+senator to be seen living on it would be the first to be called a king.
+
 ## The Business
 
 Thornbury is where senatorial place is bought, where magistracies are traded, and where the dozen men of

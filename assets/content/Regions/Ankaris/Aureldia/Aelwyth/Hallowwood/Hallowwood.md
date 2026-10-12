@@ -41,8 +41,8 @@ The Sinalë did not always live in the Hallowwood, and they did not withdraw int
 
 After [[lore-khazarturn|Khazártúrn]] fell in 2427 BF and the two elder races stopped speaking, the
 Sinalë and [[lore-flkkhazar|Khazári]] **of this island** did something no others of their kind have ever
-attempted: they tried to repair it. They united Aelwyth under a **single crown**, held by a Sinalë king,
-and governed the island together—and they kept that up for **six hundred years**.
+attempted: they tried to repair it. In time they united Aelwyth under a **single crown**, held by a Sinalë king,
+and governed the island together—and they kept that up for **six hundred years**. The [[lore-jointcrown|Joint Crown]] began about 1585 BF.
 
 Then, around **1200 BF**, the **Pelwar** arrived: refugees, driven off the mainland by the
 [[place-vrystwald|Varokh]] in the great displacement of that people, with nowhere else to go. Two

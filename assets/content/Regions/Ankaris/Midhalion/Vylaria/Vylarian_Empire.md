@@ -12,7 +12,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary emperor over a senate of the great families, a scribal bureaucracy and the curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
+      Hereditary Augustar over a senate of the great families, a scribal bureaucracy and the curiae; his authority resting on tradition, the armies' loyalty and the senate's acquiescence.
     ranks:
       - level: 0
         title: Proscribed
@@ -45,13 +45,13 @@ data:
         lore: formermagrnk
         description: Having held the consulship, and eligible thereafter for the greatest provincial commands.
       - level: 8
-        title: Emperor
+        title: Augustar
         description: >-
           The sovereign, whose authority rests on tradition, the loyalty of the armies and the senate's acquiescence—and who is a prisoner of all three.
     offices:
-      Emperor: >-
+      Augustar: >-
         The sovereign, first among the senate in name and its master in fact, so long as the armies hold.
-      Augusta: The emperor's consort, holding her own household, revenues and court faction.
+      Augusta: The Augustar's consort, holding her own household, revenues and court faction.
       Consul: >-
         Chief magistrate of the year—an office of enormous prestige and, under an emperor, of modest power.
       Praetor: Magistrate of the courts, declaring the law for his year.
@@ -59,11 +59,11 @@ data:
       Quaestor: Officer of the treasury, answerable for revenue and disbursement.
       Aedile: Officer of the city's markets, streets, water and games.
       Tribune: >-
-        Speaker for the citizen body, and a title the emperor holds himself for what it lets him block.
-      Praetorian Prefect: Commander of the emperor's guard, and in practice the second man in the empire.
-      Legate: Commander of a legion, or governor of an imperial province, commissioned by the emperor.
+        Speaker for the citizen body, and a title the Augustar holds himself for what it lets him block.
+      Praetorian Prefect: Commander of the Augustar's guard, and in practice the second man in the empire.
+      Legate: Commander of a legion, or governor of an imperial province, commissioned by the Augustar.
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
-      Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his own person.
+      Pontifex Maximus: Chief priest of the state cult, an office the Augustar holds in his own person.
   seat: orzara
   population: 21000000
   economy:
@@ -115,7 +115,11 @@ As Vylarian power grew, so did the ambitions of senators and generals. The late 
 
 In what is now reckoned **Year 1**, a powerful senator, backed by loyal legions and by the Ordo Arcanis chartered seventy-three years earlier, seized supreme power and declared himself Emperor ([[lore-thefounding|The Founding]]). The Senate survived, reduced from a governing body to an advisory one. The change was no sudden revolution but the end of decades of political erosion: the Emperor formalized what had already become fact. The calendar of western Ankaris counts from that year.
 
-At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the deserts of [[place-dunharargn|Dunhara]], and from the shores of [[place-elavendre|Élavendre]] to the harbors of Tarûzel. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
+The Founder's line held the throne for the first ninety-five years. The first Augustar walled the crown of Mons Aquila and moved the Senate up to it ([[lore-eaglecityrse|The Raising of the Eagle City]]); the Ordo's Quaesitorium hunted down the last practitioners outside its register ([[lore-huntingyears|The Hunting Years]]); and the second, Arkânamos, made the citizenship a soldier's reward ([[lore-veteranslaw|The Veterans' Law]]). The last of the line, Halânòr, died without a son and named a legate of House Vârkalênîs to follow him.
+
+Three centuries of conquest followed. The legions fought west and north-west for the best part of that time ([[lore-westernwars|The Western Wars]]). About 224 the high priesthood of Nartûm refused obedience to an Augustar who would not proscribe the Black Flame, and the kingdom has stood apart since ([[lore-nartumrefuse|Nartûm Refuses the Empire]]). After the Storm of the Hundred Banners broke at Amradad's walls, the eastern legions raised a line of hill forts across Tarûzel's islands ([[lore-easternline|The Eastern Line]]), and the imperial archive on Mons Aquila burned ([[lore-archivefire|The Archive Fire]]). In 377 the Augustar Barnâkîs sent the strongest field army the Empire had across the sea to the Khelâthi delta, and its commander was crowned there ([[lore-deltaexped|The Delta Expedition]]). He died in 389 with no heir named, and for sixteen years the guard, the Senate and the legions of Moktur each carried an eagle before an Augustar of their own ([[lore-brkensuccsn|The Broken Succession]]). The legions fought one another at Olcassa in Hylen ([[lore-olcassabtl|The Battle of Olcassa]]), the dole failed and the capital burned ([[lore-greatburnng|The Great Burning]]), and about 406 Makândas took the city and founded House Hêlarkâlês ([[lore-restorehouse|The Restoration]]). His successor Arzánas closed the western conquests and gave the Empire the institutions it keeps ([[lore-arzanasedict|The Edicts of Arzánas]]). The historians divide the years of the Vylarian Calendar into eight [[lore-vylariages|ages]], and these events fall in the first five.
+
+At its height the empire held most of western Ankaris, from the forests of [[place-vrystwald|Vrystwald]] to the edge of the [[place-dunharargn|Dunhari]] deserts, and from the shores of [[place-elavendre|Élavendre]] to the harbors of Tarûzel. Its legions were unmatched, its bureaucracy efficient, and its culture the measure every other was held against.
 
 ### The Decline
 
@@ -129,7 +133,7 @@ The empire has since drawn back to its core territories around the Vylarian peni
 
 The [[lore-commoncal|Vylarian Calendar]] of western Ankaris counts from the founding of the empire, the moment a Vylarian senator seized supreme power. That moment is **Year 1**. Events before it are dated **Before the Founding (BF)** and events after it **After the Founding (AF)**. The present year is **720 AF**. The Republic was founded around **650 BF**, and by **400 BF** it was already a major power of the Vylarian Sea.
 
-The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
+The calendar is a product of Vylarian political authority, not a feature of the world. It is the working calendar of Mídhalión, [[place-aureldirgn|Aurèldía]], and the lands that were or still are within the empire's cultural sphere: [[place-helionis|Heliónis]], [[place-byzariargn|Byzaría]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia]], [[place-tarvenirgn|Tarvénia]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Beyond that sphere other civilizations keep their own reckoning: [[affiliation-empireakhlth|Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] count from the [[lore-qettelgu|Qet Telgu]] (the First Occasion), roughly 2,830 years ago, and [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent counts. Where the Vylarian Calendar is kept shows where the empire's cultural weight still reaches after its legions have gone.
 
 ## Culture and Society
 
@@ -146,7 +150,7 @@ Mobility exists and is limited, and the gap between the senatorial elite and the
 
 Vylarians are renowned craftsmen and traders. **Vylarian Steel**, an alloy produced by the empire's metalsmiths, is prized across Ankaris for its strength and resilience; the secret of its forging is jealously guarded, and weapons and armor made of it command extraordinary prices.
 
-Education, rhetoric and law are central to Vylarian identity. The legal tradition is the most sophisticated in Ankaris, and courts across the continent have adopted or adapted Vylarian law. A Vylarian of means is expected to be literate, well spoken and familiar with the classics.
+Education, rhetoric and law are central to Vylarian identity. The legal tradition is the most sophisticated in Ankaris, and courts across the continent have adopted or adapted Vylarian law. A Vylarian of means is expected to be well spoken and to know the classics, but reading and composing continuous text is a narrower skill: it belongs to the clergy, the professional scribes and a minority of the nobility, and most of the rest keep a scribe.
 
 ## Government
 
@@ -183,13 +187,13 @@ A census clerk of the Scribal Guild, asked how large the empire is, answers in t
 
 | Province                              | People                      | Character                                      |
 | ------------------------------------- | --------------------------- | ---------------------------------------------- |
-| [[affiliation-provinclys\|Alyssa]]    | about 7,000,000             | the dense heartland, Ôrzâra's million included |
+| [[affiliation-provinclys\|Alyssa]]    | about 7,000,000             | the dense heartland, Ôrzâra's 900,000 included |
 | [[affiliation-provnchyln\|Hylen]]     | about 7,000,000             | the breadbasket                                |
 | [[affiliation-provincvld\|Sâlkhâlon]] | about 5,000,000             | the maritime province                          |
 | [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
 | [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | semi-autonomous city-states                    |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million with Heliónis. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million with Heliónis. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's nearly a million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 

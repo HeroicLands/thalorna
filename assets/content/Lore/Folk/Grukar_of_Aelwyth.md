@@ -21,7 +21,7 @@ A tribe that outgrows its ground sheds a faction outward; a starving tribe does 
 Sha sees the end of the line coming and conspires against its own Ahk. One or the other reached the
 northern water seven centuries ago, and Grukar cannot build a ship—so they were carried, in the holds
 of vessels crossing between the northern lands and this coast, in numbers too small for anyone aboard to
-have noticed or cared.
+have noticed or cared. The landing is told in [[lore-grukarcomes|the Grukar Come to Aelwyth]].
 
 That was long before the [[affiliation-jrldmstrmvld|Jarldom]], long before Aelwyth's present realms, and
 long before anybody kept the sort of record that would settle it. The island has argued about the

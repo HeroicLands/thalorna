@@ -85,7 +85,7 @@ A steward of one of the great estates, asked by a visiting equestrian what Hylen
 
 The estate lords live well, though not with the ostentatious wealth of the capital. Theirs is the quiet confidence of people who know that everyone else depends on what they grow.
 
-They resist the growing influence of the merchant class and of the Ordo alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hylen a bastion of the **Imperial Cult** and of traditional [[affiliation-arldnpnthn|Aurèldían]] practice.
+They resist the growing influence of the merchant class and of the Ordo alike, and they see themselves as the true guardians of Vylarian tradition. That makes Hylen a bastion of the **Imperial Cult** and of traditional [[affiliation-arldnpnthn|Aurèldían]] practice. The estates have a horror of civil war that the Empire's other provinces do not share, because the one battle the Empire fought between its own legions was fought on an estate of this province ([[lore-olcassabtl|The Battle of Olcassa]]).
 
 ## Notable Features
 

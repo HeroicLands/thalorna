@@ -109,7 +109,7 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 
 ## Notable Houses and Officers
 
-- **House of Calventian**—the largest of the great houses, founded in Ôrzâra three centuries ago and led by the Calventiani family across nine generations. Its senior partner is Argentarius Magnar Lucia Calventiana, the guild's chief officer.
+- **House of Calventian**—the largest of the great houses, founded in Ôrzâra three centuries ago to bank the rebuilding of the Restoration ([[lore-arzanasedict|The Edicts of Arzánas]]) and led by the Calventiani family across nine generations. Its senior partner is Argentarius Magnar Lucia Calventiana, the guild's chief officer.
 - **House of Maximian Tertian**—the second-largest great house, of Helionite-Vylarian origin and politically aligned with the **Reformist Faction** at court. **Septimus Maximian Tertian** leads it.
 - **House of Verrius**—Vylarian and conservative, with strong ties to the Aurelian estate and, historically, to the Dux Bellorum's office.
 - **House of Therion**—of Heliónite origin and now continent-spanning, the principal Heliónite great house, which specializes in cross-territory clearing.

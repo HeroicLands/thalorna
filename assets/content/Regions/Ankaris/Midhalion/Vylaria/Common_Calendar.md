@@ -62,7 +62,7 @@ Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vyla
 
 ## Who Keeps It
 
-The Vylarian Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
+The Vylarian Calendar is the working calendar of [[place-midhalnrgn|Mídhalión Region]], [[place-aureldirgn|Aurèldía]], and every land the Vylarian Empire's cultural sphere still reaches: [[place-helionis|Heliónis]], [[place-byzariargn|Byzaría]], [[affiliation-cnfdrtntrzlnstts|Tarûzel]], [[place-provenzrgn|Provènzia Region]], [[place-tarvenirgn|Tarvénia Region]], [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]] all date by it. Vylarian political authority made the calendar, and the lands that still keep it mark where that authority is still felt.
 
 Beyond that sphere, other peoples keep their own count and do not translate into this one in ordinary use. [[affiliation-empireakhlth|Empire of Aû'Khelâthu]] and [[affiliation-okharis|Okháris]] reckon from the [[lore-qettelgu|Qet Telgu]] (the First Occasion); [[place-vedyarargn|Vedyara]] and the [[affiliation-tanvurempr|Empire of Tānvür]] keep independent dating systems of their own.
 
@@ -100,5 +100,6 @@ Nothing divides the year evenly into weeks, so the seven run across the turn of 
 ## See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the polity whose founding the calendar counts from
+- [[lore-vylariages|The Vylarian Ages]]—the eight ages Vylaria's historians divide the years into
 - [[place-worldthlrn|The World of Thalorna]]—the year and the quarter days the calendar divides
 - [[place-vaelith|Vaelith]]—the moon, on a cycle the calendar's months do not track

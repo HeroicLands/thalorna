@@ -96,7 +96,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 - **Authentication and forgery detection.** Disputed documents go to Guild experts for analysis, and imperial courts treat Guild rulings as authoritative.
 - **Document protection.** Guild cryptographers encode sensitive imperial correspondence in ciphers that rotate by guild protocol.
 - **Training and licensing.** The seven-year course, periodic re-examination of senior scribes and revocation of licenses for proven misconduct.
-- **Archives.** The Guild keeps the imperial archive at Ôrzâra and a provincial archive at each chapterhouse. The Ôrzâra archive holds the original of every imperial edict issued in the last four centuries.
+- **Archives.** The Guild keeps the imperial archive at Ôrzâra and a provincial archive at each chapterhouse. The Ôrzâra archive holds the original of every imperial edict issued in the last four centuries, and begins in the year the old imperial archive burned ([[lore-archivefire|The Archive Fire]]).
 
 ## Relations
 

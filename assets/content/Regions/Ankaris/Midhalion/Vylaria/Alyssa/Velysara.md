@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-A day's ride from Velysâra there is a tract of good farmland that nobody farms. It is fenced, it is kept clear at the [[affiliation-ordoarcanis|Ordo]]'s charge, and it is where the [[lore-recensio|Recensio of Alyssa]] ended in 75 BF. A scholar of the city's minor chapterhouse of the [[affiliation-panepistmm|Epistemium]], taking a new student out on the road to see the fence, says little about it and a great deal about the city they ride home to: "Velysâra is the place that remembers. Look at the forums when we get back. White columns, paved squares, the whole golden age laid out for you. Now look at the joins in the marble."
+A day's ride from Velysâra there is a tract of good farmland that nobody farms. It is fenced, it is kept clear at the [[affiliation-ordoarcanis|Ordo]]'s charge, and it is where the [[lore-recensio|Recensio of Alyssa]] ended in 75 BF ([[place-recensiogrnd|The Fenced Ground]]). A scholar of the city's minor chapterhouse of the [[affiliation-panepistmm|Epistemium]], taking a new student out on the road to see the fence, says little about it and a great deal about the city they ride home to: "Velysâra is the place that remembers. Look at the forums when we get back. White columns, paved squares, the whole golden age laid out for you. Now look at the joins in the marble."
 
 The city is one of the secondary cities of the [[affiliation-provinclys|Province of Alyssa]], with about twenty thousand people. Its white columned buildings and paved forums echo the architecture of the empire's golden age, and the marble facades, though still impressive, show weathering and repair rather than renewal.
 

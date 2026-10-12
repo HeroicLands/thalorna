@@ -30,8 +30,8 @@ More than a king and more than a war.
 
 The joint kingdom had been **a deliberate attempt at reconciliation**. Khazártúrn had fallen in 2427 BF
 and the sundering with it, and the two peoples on this island—alone among their kind—had decided
-that would not be the end of it. They united under a single crown, governed Aelwyth together, and kept
-it up for six centuries. It is the only such attempt either race has ever made.
+that would not be the end of it. In time they united under a single crown, governed Aelwyth together, and kept
+it up for six centuries; the [[lore-jointcrown|Joint Crown]] was founded about 1585 BF. It is the only such attempt either race has ever made.
 
 The Three Sisters is where that ended, and it ended in the way most calculated to make it
 irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a crisis, for the
@@ -114,7 +114,7 @@ years of joint rule, and every claim of any kind outside the deep forest of the 
 into [[place-hallowwood|the wood]], and they have not come out.
 
 Everything they left, they left **to the other races**: to the Khazári who had been fighting beside them,
-and to the Pelwar they had been fighting. The Khazári finished the war alone. What the Sinalë handed over
+and to the Pelwar they had been fighting. The Khazári finished the war alone, as [[lore-endgreatwar|the Ending of the Great War]] tells it. What the Sinalë handed over
 by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
 
 ## Now

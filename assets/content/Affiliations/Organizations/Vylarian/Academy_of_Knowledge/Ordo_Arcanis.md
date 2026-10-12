@@ -103,7 +103,7 @@ The Lex Arcana set out four principles that hold today:
 - **Regulation:** The Ordo sets standards for arcane practice, keeps lists of prohibited magics, and controls the trade in arcane materials and texts.
 - **Accountability:** The Ordo answers to the state (first the Senate, now the Augustar, as the Vylarians call their emperor), and the state grants it legal authority and institutional protection in return.
 
-Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Ordo were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Quaesitorium as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
+Many independent practitioners refused to submit. Some fled beyond Vylarian control and others went underground, and the early decades of the Ordo ([[lore-huntingyears|The Hunting Years]]) were taken up with bitter campaigns to enforce the monopoly: hunting down renegades, destroying rival traditions, and using the Quaesitorium as the instrument of arcane compliance. The memory of the Helionite wars gave the enforcers their argument: _remember what happened the last time mages were free to do as they pleased._
 
 ### The Dragons
 

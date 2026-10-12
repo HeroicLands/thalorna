@@ -18,7 +18,7 @@ data:
 
 Within [[place-vylariargn|Vylaría Region]] lies a country that [[place-orzara|Ôrzâra]] does not govern: the Nartûm Kingdom, land of the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm of about two and a half million people, ruled from the holy city of [[place-nartum|Nartûm]].
 
-A senator's freedman secretary in [[place-orzara|Ôrzâra]], asked what the Senate makes of the kingdom, gives the official answer and the practical one in the same breath: "The Senate calls it a wayward province that will come back. Nartûm calls the Senate a corrupted institution that has strayed. Both say it politely, in the same language." Nartûm's people speak an archaic dialect of Vylari, its aristocracy holds its authority through religious office, and its king is anointed by the high priesthood. The kingdom keeps no Vylarian magistrate and takes no direction from the [[affiliation-vylarinmpr|Vylarian Empire]].
+A senator's freedman secretary in [[place-orzara|Ôrzâra]], asked what the Senate makes of the kingdom, gives the official answer and the practical one in the same breath: "The Senate calls it a wayward province that will come back. Nartûm calls the Senate a corrupted institution that has strayed. Both say it politely, in the same language." Nartûm's people speak an archaic dialect of Vylari, its aristocracy holds its authority through religious office, and its king is anointed by the high priesthood. The kingdom keeps no Vylarian magistrate and takes no direction from the [[affiliation-vylarinmpr|Vylarian Empire]], which it left about 224 AF ([[lore-nartumrefuse|Nartûm Refuses the Empire]]).
 
 ## See Also
 

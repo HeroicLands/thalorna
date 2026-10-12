@@ -20,6 +20,10 @@ The city is built around its great harbor, a natural bay sheltered by rocky head
 
 Pelagora is more commercial than scholarly [[place-thyrenae2|Thyrenae]]. Its merchants are wealthy and influential, and its markets are stocked with goods from across the sea. The fleet earns the city its standing as well as its living: its admirals have defended Helionite waters against [[affiliation-cnfdrtntrzlnstts|Tarûzelian]] incursions, Vylarian ambitions and the occasional pirate fleet.
 
+## The Treaty
+
+The bronze copy of the [[lore-heladpelagtrty|Pelagoran Treaty]] stands in the agora. Thyrenaean visitors spit beside it, and a Thyrenaean student has chiselled one line off it.
+
 ## Neighbors
 
 Thyrenae needs Pelagora's fleet, and Pelagora needs Thyrenae's diplomatic connections, so the two are rivals and partners at once.

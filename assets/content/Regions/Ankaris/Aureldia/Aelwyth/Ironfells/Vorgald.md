@@ -56,10 +56,10 @@ Aelwyth was once ruled by both elder races together, and it was not an ancient i
 **attempt at repair**.
 
 [[lore-khazarturn|Khazártúrn]] fell in 2427 BF and the two peoples stopped speaking everywhere in the
-world—except here. The Sinalë and Khazári of Aelwyth united the island under a **single crown**, held
-by a Sinalë king, and managed its affairs jointly for **six hundred years**. It is the only reconciliation
-either race has ever attempted, and the works of that period are still in the ground: roads that run where
-no later road runs, cut stone the [[lore-vardain|Vardain]] cannot match, foundations under three Aelwythan
+world—except here. The Sinalë and Khazári of Aelwyth in time united the island under a **single crown**, held
+by a Sinalë king, and managed its affairs jointly for **six hundred years**. The [[lore-jointcrown|Joint Crown]] began about 1585 BF. It is the only reconciliation
+either race has ever attempted, and the works of that period are still in the ground: [[place-aelwyth|roads that run where
+no later road runs]], cut stone the [[lore-vardain|Vardain]] cannot match, foundations under three Aelwythan
 towns that nobody has satisfactorily dated.
 
 It ended with people who had nowhere else to go. The **Pelwar** reached Aelwyth around **1200 BF**,

@@ -14,7 +14,7 @@ Mons Lauríne is the hill a family builds on when it is rising. The Laurel is on
 
 ## The Newer Hill
 
-Corónus is the older and prouder of the two, ringed with the ancestral villas of the senatorial houses and facing the palace on [[place-monsaquila|Mons Aquila]] across the central saddle. Lauríne is greener and newer, and its gardens and great houses belong to the rising and the rich. On its lower slopes lies the **Gilded Quarter**, where goldsmiths, jewelers, perfumers, fine tailors, apothecaries and instrument-makers make and sell to a wealthy clientele, with the physicians, scriveners and better baths and inns beside them.
+Corónus is the older and prouder of the two, ringed with the ancestral villas of the senatorial houses and facing the palace on [[place-monsaquila|Mons Aquila]] across the central saddle. Lauríne is greener and newer, and its gardens and great houses belong to the rising and the rich. The Old Hill's families built here after the fire of about 403 ([[lore-greatburnng|The Great Burning]]), and the hill has been the address of the rising since. On its lower slopes lies the **Gilded Quarter**, where goldsmiths, jewelers, perfumers, fine tailors, apothecaries and instrument-makers make and sell to a wealthy clientele, with the physicians, scriveners and better baths and inns beside them.
 
 ## See Also
 

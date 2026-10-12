@@ -53,7 +53,7 @@ The **Aelwythan** of the Misty Isle are marked in their culture by deep legend, 
 
 Minority peoples include isolated [[lore-grukarfolk|Grukar]] nests in the highlands, with no trade or parley between those nests and their neighbors, and—vanishingly rare, but not entirely absent—the elder races: [[lore-flksinale|Sinalë]] who sometimes walk through Élavendre's oldest forests, and [[lore-flkkhazar|Khazári]] whose scattered halls endure in the high faces of the remotest ranges.
 
-Despite the diversity, Aurèldían high culture shares certain hallmarks: chivalric and courtly ideals; a tradition of bardic and scholastic learning epitomized by Élavendre's [[affiliation-bardicolgs|The Bardic Colleges]]; reverence for the land as a living participant in human affairs; and a deep preference for sovereignty at the polity level. No emperor has ever ruled Aurèldía. No Aurèldían expects one to.
+Despite the diversity, Aurèldían high culture shares certain hallmarks: chivalric and courtly ideals; a tradition of bardic and scholastic learning epitomized by Élavendre's [[affiliation-bardicolgs|The Bardic Colleges]]; reverence for the land as a living participant in human affairs; and a deep preference for sovereignty at the polity level. No emperor has ever ruled all of Aurèldía, and the parts that paid him took their crowns back. No Aurèldían expects one to.
 
 ## The Aurèldían Faith
 

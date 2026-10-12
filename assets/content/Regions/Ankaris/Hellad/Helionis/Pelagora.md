@@ -99,6 +99,10 @@ Pelagoran shipwrights build the fastest galleys on the Vylarian Sea, and its adm
 
 Pelagora is more commercial than scholarly Thyrenae. Its merchants are wealthy and influential and its markets are stocked with goods from across the sea. That wealth gives the city a practical leverage that balances the prestige of its scholarly neighbor.
 
+## The Treaty
+
+In 314 BF, with Therádon and Korinthea fallen, the assembly voted to treat alone, and the strategos Dôkharos Árshîdês made terms with the Republic: Pelagora became its naval ally, kept its fleet, its walls and its overseas daughter-cities, and lent its ships to the blockade of the cities still fighting ([[lore-heladpelagtrty|the Pelagoran Treaty]]). The city boasts that it has never been conquered, and [[affiliation-thyrenae|Thyrenae]] dates the rivalry between them to that year.
+
 ## Relations
 
 Pelagora is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]]. Its dealings with [[affiliation-thyrenae|Thyrenae]] show how the leading cities work: each is rival and partner to the other, because a fleet without diplomats can win a battle and still lose the peace, and a city of diplomats without a fleet has nothing to back its words.

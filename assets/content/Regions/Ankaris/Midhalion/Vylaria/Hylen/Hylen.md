@@ -49,10 +49,11 @@ Hylen is a country of estates and market-towns: great aristocratic domains, each
 - [[place-ashenmere|Ashenmere]] (~4,000)—a border town on the province's march.
 - [[place-cervalia|Cervalia]] (~2,500)—the forest town at the edge of the imperial game-reserve.
 
-**The great estates and manorial holdings.** The countryside belongs to vast aristocratic domains, not to free villages. Each is a manor with its tenant village, chapel and labor force of 200–1,000 souls. The named holdings include **Caldovia**, **Sennfeld**, **Aurvale**, **Olcassa**, **Brennfeld**, **Granholt**, **Vellora**, **Calvenna**, **Marenna**, **Tallenza**, **Oxenna**, **Harvenna**, **Wynnara** and **Stonemere**. Several are the seats of senatorial families whose word is effectively law within their own bounds. These are only the great houses; the province holds hundreds of lesser estates and tenant villages besides.
+**The great estates and manorial holdings.** The countryside belongs to vast aristocratic domains, not to free villages. Each is a manor with its tenant village, chapel and labor force of 200–1,000 souls. The named holdings include **Caldovia**, **Sennfeld**, **Aurvale**, **Olcassa** (the field of [[lore-olcassabtl|the Battle of Olcassa]]), **Brennfeld**, **Granholt**, **Vellora**, **Calvenna**, **Marenna**, **Tallenza**, **Oxenna**, **Harvenna**, **Wynnara** and **Stonemere**. Several are the seats of senatorial families whose word is effectively law within their own bounds. These are only the great houses; the province holds hundreds of lesser estates and tenant villages besides.
 
 ## See Also
 
 - [[affiliation-provnchyln|Province of Hylen]]—the province that holds this land
 - [[place-vylariargn|Vylaría Region]]—the enclosing region
 - [[place-aravantia|Aravantia]]—the provincial capital
+- [[place-olcassafld|The Blood-field of Olcassa]]—the quickened wheat-field of the civil war

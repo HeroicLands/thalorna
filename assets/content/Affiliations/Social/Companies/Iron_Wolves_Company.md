@@ -1,6 +1,6 @@
 ---
 shortcode: irnwlvscmpny
-name: {full: The Iron Wolves Company, aliases: [The Iron Wolves, Lupi Ferri (Byzarian)]}
+name: {full: The Iron Wolves Company, aliases: [The Iron Wolves]}
 type: affiliation
 subType: venture
 description: "Byzarian mercenary company of brutal efficiency—willing to take the contracts other companies refuse, and the standing antagonist of one of the realm's most haunted veterans."
@@ -70,7 +70,7 @@ sohl: {system: {commonSkills: []}}
 # subtype: social
 ---
 
-The Iron Wolves are the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. In Byzarian they are the Lupi Ferri, the company that takes the contract nobody else will sign.
+The Iron Wolves are the kind of mercenary company that other mercenary companies refer to in the third person at length and avoid sharing camps with when possible. It is the company that takes the contract nobody else will sign.
 
 - Type: independent mercenary company
 - Region: [[place-byzariargn|Byzaría]] principally; operates throughout western [[place-ankrscntnnt|Ankaris]] under contract
@@ -87,7 +87,7 @@ The current captain, **Phýlazûr Zýghídek**, is the third in the company's hi
 
 ## Backstory
 
-The Iron Wolves were founded forty-one years ago by **Árshkâr Zýghídek** (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating on the Byzarian-Aurèldían frontier. Árshkâr was a former League legion officer cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
+The Iron Wolves were founded forty years ago by **Árshkâr Zýghídek** (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating in the Amradi border country of the [[place-southrnmrch|Southern March]]. Árshkâr was a former officer of the League's joint army cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
 
 The defining incident in the company's history occurred twenty-six years ago, in a small village called [[place-trianthion|Trianthion]] in the Byzarian hinterland. The village had refused to submit to a local lord's authority—refused his tax collectors, refused his garrison, and (most provocatively) sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired the Iron Wolves to take the village. The company's instructions were standard: enter the village, seize the bandit chief, and demonstrate the cost of resistance. The standard demonstration, in such cases, was the burning of a few houses and the public hanging of the bandit chief.
 

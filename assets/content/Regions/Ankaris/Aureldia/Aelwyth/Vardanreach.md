@@ -10,7 +10,7 @@ data: {demonym: Vardain, lore: [vardain], parents: [aelwyth], population: 0, pac
 
 ## Overview
 
-Vardanreach is what the Aelwythans called the north-east of their island while the [[lore-vardain|Vardain]] held it: the great plain, the [[place-nordfells|Nordfells]] and the [[place-sunderfells|Sunderfells]] above it, and the high valleys within them, something like a fifth of Aelwyth's land. It was a settled, literate, farming nation, and for thousands of years it kept a friendship no other human people has kept: a standing, mutually valued relationship with the [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]].
+Vardanreach is what the Aelwythans called the north-east of their island while the [[lore-vardain|Vardain]] held it: the great plain, the [[place-nordfells|Nordfells]] and the [[place-sunderfells|Sunderfells]] above it, and the high valleys within them, something like a fifth of Aelwyth's land, whose bounds the Khazári fixed when they [[lore-endgreatwar|ended the Great War]]. It was a settled, literate, farming nation, and for thousands of years it kept a friendship no other human people has kept: a standing, mutually valued relationship with the [[lore-flkkhazar|Khazári]] of [[place-vorgald|Vorgald]].
 
 ## What Vardanreach Was
 

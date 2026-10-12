@@ -18,7 +18,7 @@ concerned has found it easier not to raise the question.
 
 They are also all that is left free of [[place-vardanreach|Vardanreach]]—and the valleys were part of it. The Vardain
 nation held the whole of what is now [[affiliation-jrldmstrmvld|Stormveld]], something like a fifth of
-Aelwyth's land, and these mountains with it. When the Nordmen came they devastated the lowlands and
+Aelwyth's land, and these mountains with it. When the Nordmen came in 660 AF ([[lore-stormveldtkn|the Taking of Stormveld]]) they devastated the lowlands and
 enslaved the people; a hundred and twenty thousand Vardain are thralls down there now, and what reached
 the high valleys was a remnant of a remnant.
 
