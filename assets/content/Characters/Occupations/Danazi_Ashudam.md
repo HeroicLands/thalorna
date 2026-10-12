@@ -395,8 +395,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Dânâzi Ash�
 
 Dânâzi grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, she quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
 
-Now at 29 years of age, she is a known figure among the gladiators of Harad.
-
 ## Psyche
 
 ### Personality

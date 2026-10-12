@@ -401,8 +401,6 @@ Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn 
 
 Flurnvir comes from a family of skilled artisans and has dedicated his life to mastering the art of gem cutting and jewelry making. He is known for his attention to detail and ability to bring out the beauty of each stone he works with. Flurnvir runs his own shop, where he creates exquisite pieces that attract both commoners and nobles alike. His passion for his craft is evident in every piece he produces.
 
-Now at 35 years of age, Flurnvir Glarvumakh has established himself as a known figure among the jewelers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

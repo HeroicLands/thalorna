@@ -403,8 +403,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Teshûran Bû
 
 Teshûran was a mercenary who spent most of his life fighting in skirmishes and wars. After losing his left eye in a battle, he left mercenary life and settled in a small village, where he teaches swordsmanship to young men and women who mean to defend their homeland. His experience of real combat sets him apart from other swordmasters, but his past haunts him, and he struggles with guilt over the lives he took.
 
-Now at 50 years of age, he is a known figure among the swordmasters of Harad.
-
 ## Psyche
 
 ### Personality

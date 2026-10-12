@@ -401,8 +401,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Brýnael grew up in a small village, where she started making simple toys for her younger siblings out of whatever materials she could find. Her talent for creating playful and durable toys gained local attention, and she eventually opened a small workshop. Brýnael’s work is known for its rustic charm, with a focus on toys that encourage outdoor play.
 
-Now at 27 years of age, Brýnael Fálwyn has established herself as a known figure among the toymakers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

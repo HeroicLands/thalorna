@@ -399,8 +399,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Marz청na Ash�
 
 Marz청na has spent several years as a bodyguard, specializing in protecting merchants and minor nobility during travel and public appearances. Known for her keen instincts and exceptional combat skills, she has earned a reputation for being a reliable protector. Marz청na values loyalty and dedication, often forming close bonds with those she protects. She is trained in both combat and negotiation, ensuring the safety of her clients while maintaining their dignity.
 
-Now at 29 years of age, Marz청na Ash청ram has established herself as a known figure among the bodyguards of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

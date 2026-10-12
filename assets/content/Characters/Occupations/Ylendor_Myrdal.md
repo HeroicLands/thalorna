@@ -406,8 +406,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Proven
 
 Yléndor is a renowned astrologer who serves the court of a powerful noble family. His predictions have shaped political decisions and royal marriages. Though his accuracy is respected, he is also known for being cryptic and difficult to approach. Yléndor’s interest in the stars began during his youth, where a solar eclipse inspired him to pursue astrology.
 
-Now at 58 years of age, Yléndor Mýrdal has established himself as a known figure among the astrologers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

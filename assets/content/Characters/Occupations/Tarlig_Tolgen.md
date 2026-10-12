@@ -402,8 +402,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 Târlig has worked as a thatcher for most of his life, maintaining the roofs of cottages and barns throughout the countryside. He learned the craft from his father and has since taught his own sons. Known for his meticulous work and the durability of his roofs, Târlig is often in high demand, though his services come at a slower pace due to his attention to detail.
 
-Now at 47 years of age, Târlig Tólgen has established himself as a known figure among the thatchers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

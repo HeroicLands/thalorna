@@ -398,8 +398,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Tázîtha is one of the few women charcoalers in her area, having learned the trade from her uncle. She enjoys the solitude of the forest and takes great care in her work. Her charcoal is known for burning very clean, and she supplies local forges as well as herbalists who use it in remedies.
 
-Now at 29 years of age, she is a known figure among the charcoalers of Heliónis.
-
 ## Psyche
 
 ### Personality

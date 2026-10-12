@@ -404,8 +404,6 @@ Sánrik Jútharen is a glassworker of Solárden, in [[place-tarvenirgn|Tarvénia
 
 Sánrik was apprenticed at fourteen to a master who made plain ware for a fortified town that needed it—jars that seal, bottles that survive a cart, panes that keep the wind out of a garrison's windows—and he makes the same ware now, by the same methods, to the same standard. He has no interest in the colored and figured glass that the younger masters of Solárden have begun to make in the Provenzian style for the merchants' houses. He speaks for the old standard in the guild, where he is respected as a master and regarded as a brake.
 
-He is a known figure among the glassworkers of Tarvénia.
-
 ## Psyche
 
 ### Personality

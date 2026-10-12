@@ -402,8 +402,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Floréth has spent his life working in construction and manual labor. Known for his strength and stamina, he has taken on various roles, from bricklaying to heavy lifting. Floréth takes pride in his work and often leads teams of laborers. While he has a tough exterior, he is known for his sense of humor and willingness to lend a hand to those in need.
 
-Now at 45 years of age, Floréth Bránthira has established himself as a known figure among the laborer (semi-skilled)s of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

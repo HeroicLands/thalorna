@@ -399,8 +399,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Kûrûya Ash�
 
 Kûrûya is a talented weaponcrafter who grew up in a family of blacksmiths. She took a particular interest in making smaller, finer weapons such as daggers and throwing knives. She is known for her detailed work and the designs she works into her blades. Her weapons are beautiful, but some would-be customers see them as more decorative than useful, and she means to change that by proving them in combat.
 
-Now at 33 years of age, she is a known figure among the weaponcrafters of Harad.
-
 ## Psyche
 
 ### Personality

@@ -405,8 +405,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Mákrion is a self-taught astrologer who began his practice by observing the stars from his farmstead. He eventually moved to a nearby town, where he now provides astrological advice to farmers regarding planting and harvest times. Though less educated than other astrologers, his practical insights have earned him a local following.
 
-Now at 46 years of age, Mákrion Nâfrinês has established himself as a known figure among the astrologers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

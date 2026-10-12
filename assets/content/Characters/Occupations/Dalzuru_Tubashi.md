@@ -401,8 +401,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Dalzûru Tûb
 
 Dalzûru was raised in a warrior's family but found his true calling as a skald, weaving tales of valor and tragedy in the mead halls. He is renowned for his vivid storytelling and deep, resonant voice, often recounting the sagas of ancient heroes. Though he can wield a sword, he prefers to wield words and music to inspire others.
 
-Now at 43 years of age, Dalzûru Tûbashî has established himself as a known figure among the skalds of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

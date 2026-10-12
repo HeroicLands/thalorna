@@ -403,8 +403,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Ilthvir has always had a knack for archery, learning to hunt with a bow from a young age. His skill with a longbow earned him a place among the local lord’s yeomen. Known for his accuracy and steady hand, he has made a name for himself as one of the best archers in the region. He often goes out as a scout and marksman, and prefers to keep his distance from the press of melee.
 
-Now at 32 years of age, he is a known figure among the yeoman archers of Nordheim.
-
 ## Psyche
 
 ### Personality

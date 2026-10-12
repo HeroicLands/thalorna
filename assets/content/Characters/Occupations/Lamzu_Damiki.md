@@ -400,8 +400,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Lâmzû Damî
 
 Lâmzû is a humble scribe who works in a small village, transcribing important documents and maintaining records for the local community. He is known for his friendly demeanor and willingness to help others, often offering his services to those who cannot afford them. Lâmzû values the preservation of knowledge and is dedicated to ensuring that important information is recorded accurately for future generations.
 
-Now at 34 years of age, Lâmzû Damîkî has established himself as a known figure among the scribes of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

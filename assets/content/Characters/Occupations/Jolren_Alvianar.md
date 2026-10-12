@@ -407,8 +407,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Jólren has been working as a mason for over fifteen years, specializing in stone carving and masonry for buildings and sculptures. He takes great pride in his work, often infusing his pieces with intricate details and artistic flair. Jólren is well-respected in his community for his craftsmanship and dedication to preserving traditional techniques, while also adapting to modern methods.
 
-Now at 35 years of age, Jólren Álvianar has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

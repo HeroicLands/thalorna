@@ -404,8 +404,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Pitûrû Tûb
 
 Pitûrû has always been fascinated by the art of siege warfare and demolition. He trained as a sapper under a seasoned engineer and has become skilled in setting traps and demolishing structures. Pitûrû is known for his meticulous planning and ability to work under pressure. He is dedicated to his craft and takes pride in ensuring that his work is both effective and safe.
 
-Now at 30 years of age, Pitûrû Tûbanî has established himself as a known figure among the man-at-arms (sapper)s of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

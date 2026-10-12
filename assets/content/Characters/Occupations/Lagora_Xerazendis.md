@@ -398,8 +398,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Làgôra grew up in a small village and developed a talent for mischief and humor at an early age. She travels from town to town, performing tricks and stunts to entertain audiences. Làgôra is known for her sharp tongue and playful antics, often using her humor to challenge social norms and expectations. While her jokes can be biting, she uses them to provoke thought and laughter.
 
-Now at 27 years of age, Làgôra Xêrâzêndis has established herself as a known figure among the fools of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

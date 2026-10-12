@@ -400,8 +400,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Méthra is a hardworking young woman who assists in various labor jobs around her village. She enjoys working with her hands and has developed skills in farming and crafting. Despite her lighter frame, she is determined and has a strong work ethic. Méthra is known for her friendly disposition and ability to uplift those around her, making her popular among her peers.
 
-Now at 26 years of age, Méthra Zálreth has established herself as a known figure among the laborer (unskilled)s of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -402,8 +402,6 @@ Born in the [[place-nordheim|Nordheim]] region to a guilded family of Nordheimn 
 
 Murvir has spent more than two decades in the jewelry trade, honing his skill at both traditional and newer pieces. He has a reputation for valuing gemstones well and negotiating prices hard. He runs a successful shop that draws clients from nobles to common folk, and for all his success he enjoys teaching young apprentices the craft.
 
-Now at 48 years of age, he is a known figure among the jewelers of Nordheim.
-
 ## Psyche
 
 ### Personality

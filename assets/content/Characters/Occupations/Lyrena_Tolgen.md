@@ -398,8 +398,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 Lýrena is known as "Tólgen" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Lýrena sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
-Now at 30 years of age, Lýrena Tólgen has established herself as a known figure among the skalds of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

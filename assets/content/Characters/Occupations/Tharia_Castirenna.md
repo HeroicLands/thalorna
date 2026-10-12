@@ -399,8 +399,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Thária was captured during a raid on her village and sold into slavery in the city, where she works as a housemaid for a wealthy family. Although her tasks are not as grueling as a field laborer's, being treated as property wears on her. Her sharp mind and quick reflexes have helped her avoid punishment, but she longs for freedom.
 
-Now at 27 years of age, she is a known figure among the domestic servants of Tarvénia.
-
 ## Psyche
 
 ### Personality

@@ -401,8 +401,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzi
 
 Lady Seraphina is a skilled physician with a specialization in herbal medicine. Having grown up in a noble family, she pursued her passion for healing by studying both conventional medicine and natural remedies. Seraphina is known for her holistic approach, often considering the emotional and social aspects of her patients' health. She is a strong advocate for women's health and often conducts workshops to educate the community.
 
-Now at 35 years of age, Fárila Válskyr has established herself as a known figure among the physicians of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

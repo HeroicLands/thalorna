@@ -402,8 +402,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Bréthar has worked as a charcoaler in the dense forests near his village for most of his life, producing charcoal used by blacksmiths and households alike. The work is physically demanding and dangerous, involving long hours and exposure to smoke and fire, but Bréthar takes pride in his craft. He is known as a hardworking and gruff man, though his stubborn nature sometimes gets him into conflicts.
 
-Now at 51 years of age, Bréthar Sálthar has established himself as a known figure among the charcoalers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

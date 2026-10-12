@@ -402,8 +402,6 @@ Gnarthorv Snarvarukh is chief huntsman to Lady Elenora of [[place-wildwoodmnr|Wi
 
 Gnarthorv keeps the forest that climbs behind Thraldfjord from the manor to the high ground; the village lives on fish, and the forest lives on him. He was a fisherman's son who preferred the wood, and took service at the manor as a boy. He knows which valleys the elk winter in, how many wolves the high ridge will carry, and which stands can be hunted this year and which must be left. He keeps the manor's table in game and its guests in sport. The clans of the fjord bring him their disputes over hunting rights and grazing at the wood's edge; he rules against his own lady's guests when the season requires, and she has never once overruled him.
 
-He is a known figure among the huntsmen of Nordheim.
-
 ## Psyche
 
 ### Personality

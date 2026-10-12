@@ -403,8 +403,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 A rugged animal trainer who works with hunting dogs. Braden has a talent for taming wild beasts and often participates in local hunts.
 
-Now at 38 years of age, Hârlak Válskyr has established himself as a known figure among the animal trainers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

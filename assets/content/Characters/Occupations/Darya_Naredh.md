@@ -400,8 +400,6 @@ Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élaven
 
 Dárya was trained in the bardic arts from a young age, and her talent for storytelling and song quickly became apparent. She travels from court to court, performing for nobility and commoners alike. Her songs often blend historical events with myth, and she has a talent for charming her audience. Though ambitious, Dárya is genuinely passionate about preserving history through her craft.
 
-Now at 28 years of age, Dárya Náredh has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

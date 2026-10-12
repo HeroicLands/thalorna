@@ -403,8 +403,6 @@ Born in the Harad region to a guilded family of Haradian heritage, Girm청n Takk�
 
 Girm청n is a well-known apothecary in the city, often sought after for his knowledge of rare medicinal herbs and remedies. He inherited the shop from his father, who was also an apothecary. Girm청n has seen the darker side of city life, treating those who come to him for poisons as well as cures.
 
-Now at 52 years of age, Girm청n Takk청n청m has established himself as a known figure among the apothecarys of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

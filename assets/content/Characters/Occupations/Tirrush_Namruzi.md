@@ -406,8 +406,6 @@ Tirrûsh Namrûzî is a glassworker of Qadhirun, in Harad, a Haradian freeman wh
 
 Tirrûsh learned window panes and bottles from his father and then went past them, into blown vessels, figured lamps and the glass sculptures—birds, ships, a hand—that the guild families of Qadhirun buy to stand in their halls. He loves the making and is bad at everything else about a shop. The books are behind, the apprentices are paid late, and the price he names is usually less than the work is worth. The furnace has burned him a dozen times and his hands are scarred from wrist to fingertip; a bad burn costs the shop a month, and the shop cannot always afford a month.
 
-He is a known figure among the glassworkers of Harad.
-
 ## Psyche
 
 ### Personality

@@ -401,8 +401,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 Kírisa works in the kitchen of a bustling inn, where she has become known for her flavorful soups and stews. She is practical and no-nonsense, having learned to cook out of necessity rather than passion. However, over the years, she has come to appreciate the art of cooking and takes pride in feeding the many travelers who pass through.
 
-Now at 41 years of age, Kírisa Zýrand has established herself as a known figure among the cooks of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

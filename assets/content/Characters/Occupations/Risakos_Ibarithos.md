@@ -402,8 +402,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Rísàkós began as an assistant to an apothecary who dealt with both legitimate medicine and more questionable practices. He learned a wide variety of skills, from crafting remedies to mixing poisons. He now runs a small apothecary shop on the outskirts of town, where he serves both the desperate and the morally dubious.
 
-Now at 46 years of age, Rísàkós Ibârìthôs has established himself as a known figure among the apothecarys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -401,8 +401,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Chánnâon has been a timberwright for over three decades, providing wood for countless homes, bridges, and ships. Known for his storytelling as much as his woodwork, he often mentors younger timberwrights. Though age has slowed him down, his experience allows him to complete difficult tasks that others avoid. Chánnâon is stubborn about using traditional techniques and has little patience for newfangled methods.
 
-Now at 53 years of age, Chánnâon Hàbîlês has established himself as a known figure among the timberwrights of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

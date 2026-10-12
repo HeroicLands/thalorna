@@ -398,9 +398,7 @@ Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of mo
 
 Dékêla Bàremzâtês is a potter of Aelissium, the trade city of [[place-vylariargn|Vylaría]], a Vylarian freewoman who was raised at her parents' wheel and now keeps their shop.
 
-Dékêla learned to throw at the wheel of a shop off the market where her parents made plain crockery for the households of Aelissium. By the time the shop came to her she had gone somewhere her parents never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at—a green that holds its color through the kiln, a blue that came out of a season of failures. She is never satisfied with any of it. What she cannot do is sell. She takes a stall at the markets and fairs and stands behind it saying too little, and the merchants who might carry her ware to the capital have never been asked.
-
-She is a known figure among the potters of Vylaria, and less known than her work deserves.
+Dékêla learned to throw at the wheel of a shop off the market where her parents made plain crockery for the households of Aelissium. By the time the shop came to her she had gone somewhere her parents never went: patterned ware, bowls and jars and lamps with designs worked into the slip, and glazes she has spent years arriving at—a green that holds its color through the kiln, a blue that came out of a season of failures. She is never satisfied with any of it. What she cannot do is sell. She takes a stall at the markets and fairs and stands behind it saying too little, and the merchants who might carry her ware to the capital have never been asked. Her work remains less widely known than it deserves.
 
 ## Psyche
 

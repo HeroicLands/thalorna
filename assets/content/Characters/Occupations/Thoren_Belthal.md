@@ -407,8 +407,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Thóren has spent his entire life by the sea, learning the craft of shipbuilding from his father. Over the years he has built and repaired countless ships for sailors and merchants. Known for his skill and attention to detail, he takes pride in his work but is often at odds with clients who want things done faster and cheaper. For all his gruffness, he has a deep respect for the sea and the ships that sail upon it.
 
-Now at 49 years of age, he is a known figure among the shipwrights of Élavendre.
-
 ## Psyche
 
 ### Personality

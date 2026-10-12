@@ -406,8 +406,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Glirvynda grew up in a family of fishermen, but she was more interested in building boats than sailing on them. She apprenticed with a well-known shipwright and quickly earned a reputation for designing fast and sturdy vessels. She is forever trying new methods, which sets her apart in a trade with few women in it.
 
-Now at 35 years of age, she is a known figure among the shipwrights of Nordheim.
-
 ## Psyche
 
 ### Personality
