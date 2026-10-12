@@ -9,56 +9,66 @@ tags: []
 # terran_analog: "The British Isles joined into one inverted-V island (England-analog kingdoms in the south and east, Ireland-analog Peshtar country in the west, a Norse-settled Scottish-analog northeast). Carries over: rival petty kingdoms, insular parochialism, folk observance of stones, lakes and crossroads beneath the temple faith, a Norse-held conquered plain, and Peshtar tribes holding the highland-and-lake interior against every outside ambition. Departs: a single landmass of roughly seven hundred thousand people, strong fae places, Grukar in the empty third, a western republic imitating the Vylarian constitution from hearsay, and a Synod of mages governing Dúnavarre."
 ---
 
-Seven hundred thousand people on one island conduct their affairs with the entire seriousness of continental powers, and an Aelwythan would be genuinely baffled to hear that put as a criticism. The rivalry between the great kingdoms is followed as great politics, the standing of the realms is weighed and argued and remembered, and a good Aelwythan family knows its exact position in an order it has never once occurred to them is local. A single Vylarian province holds ten times as many people as the whole island, and most Aelwythans have no functional idea of it—those who are told tend to treat the figure as a traveler's exaggeration.
+Seven hundred thousand people on one island conduct their affairs with the seriousness of continental powers, and an Aelwythan would be baffled to hear that put as a criticism. The great kingdoms' rivalries are followed as great politics; a family's place in the order of its realm is weighed, argued and remembered. A single Vylarian province holds many times the island's people, but most Aelwythans have no functional idea of that scale. Those told tend to take it for a traveler's exaggeration.
 
-## Why Nobody Knows
+The manorial households of Aldorath, the mage-ruled courts of Dúnavarre and the citizen soldiery of Ondareth make different demands. Stormveld is ruled by Nordmen, and its Vardain thralls are not simply another Aelwythan estate. The western Peshtar clans keep their own law and account of their ancestry; whether they stand within the wider Aelwythan name remains unsettled.
 
-The parochialism is not a failing of character but a consequence of geography, and it is total. Almost nobody leaves. The mainland is a long and dangerous sail, and what news arrives is second-hand, years old, and carried by people with an interest in telling their patrons what pleases them. There is, on the whole island, almost nobody in a position to say _that is not how it is done elsewhere_, and there has not been for generations.
+## Good Name, Bad Name
 
-So every Aelwythan institution runs with total seriousness and no external measure: lords hold court as though their precedence signified beyond the next valley, synods deliberate as great powers, and the western republic has built an entire imitation of the Vylarian constitution—Senate, senators, mantles, portico—out of hearsay, and cannot tell how it looks, because nobody there has seen the original.
+An Aelwythan's first measure is whether they keep faith with those who depend on them: household, lord or court, realm. **Good is service that earns trust; evil is taking power for yourself or abandoning the people who rely on you.** Success is being trusted with another person's welfare; failure is taking protection and standing while refusing your duty. A broken oath, cruelty to a dependent or an office sold for private gain stains more than the actor; kin and clients may bear the shame too.
 
-An Aelwythan is not stupid and is frequently well-read. He is uncalibrated, which is a different thing and much harder to fix.
+The island's blind spot is the narrowness of that circle. A household may condemn the injustice of a rival lord and overlook its own; Ondareth's citizens praise civic duty while accepting magistracies and senate seats bought by the wealthy. The conquered Stormplain is the larger shame: Aelwythans call its loss an outrage, yet the realms have never agreed to reclaim it together, and the Vardain laboring there remain outside their protection.
 
-## The One Body That Knows
+What earns respect varies with a person's station, but service and competence travel farther than titles. [[being-lefrcbrnwl|Leofric Barnwell]], a male physician, is known for learning and calm care, and often treats poor patients without charge. [[being-hawiseshby|Hawise Ashby]], a veteran woman among the huscarls, is admired for loyalty, tactical experience and training younger fighters. Their work is not interchangeable: he earns trust at a sickbed; she earns it beside comrades and in the training yard. Both are respected because skill becomes service to others.
 
-There is exactly one institution on the island that knows precisely how Aelwyth compares with the mainland: the Synod of Ordo Arcanis mages who govern Dúnavarre. They are not parochial and never have been—they belong to a continental order, they read its correspondence, some of them trained in the Empire, and they know to the nearest order of magnitude what the island is worth.
+## No Island Charter
 
-They have not shared this. Aelwythans regard the Synod as formidable, secretive and somewhat cold, and are correct on all three counts without understanding the reason for any of them, which is simply that the Synod is the only body on Aelwyth conducting its business against an accurate map.
+An Aelwythan can point to no island charter. A baron's inherited claim, a Synod writ, a citizen's place on Ondareth's roll and the oath recorded at Árdavon's year-turn each bind people, but each carries weight in its own realm or temple. The standing stones and trackways of the wilderness mark older paths; the trackstones predate even the Peshtar and make no common law.
 
-## The Land Is Not Tame
+The Synod of Ordo Arcanis mages is the only island institution with reliable knowledge of Aelwyth's place in the wider world. It governs Dúnavarre, advises every realm, and can withdraw those advisers. It keeps records of magical cargo inspected at Ravenmoor, but has not corrected its neighbors' inflated ideas of their own importance. Its schools and libraries make learning a source of standing in Dúnavarre; its secrecy and control also make it feared.
 
-The reputation the mainland gives Aelwyth is wrong about the people and right about the land. There are genuinely places where the fae are strong—sites of real and unpredictable power, concentrated in the deep forest of the interior and the wilder north, in country the settled realms have never brought under the plow and do not pretend to govern. These are not folklore: the tribes of those regions organize their lives around them, the realms' borders bend to avoid them, and no Aelwythan of any rank treats them casually.
+Almost nobody leaves the island. The mainland is a long, dangerous sail, and much of what arrives is second-hand and years old. Dúnavarre requires ships between Aelwyth and the mainland to call at Ravenmoor in both directions, where Ordo officers search for prohibited goods and record, examine or detain magical cargo. The Synod is not merely an observer of outside knowledge; it controls the island's narrowest gate to it.
 
-There are also Grukar, established in the empty third of the island for the better part of seven hundred years, endemic and impossible to eradicate. It is entirely possible that the mainland's old talk of fell things in the Aelwythan woods was always about them.
+The land itself resists any neat island-wide order. Fae are strong in places in the deep interior forest and wilder north; realm borders bend around them, and people who live nearby organize their lives with those powers in mind. Grukar have endured in the island's ungoverned third for centuries and cannot be driven out. An Aelwythan may be badly informed about distant politics and still know which crossroads to avoid after dark.
 
-What this produces is a people simultaneously provincial about politics and extremely sophisticated about the uncanny. An Aelwythan farmer will say something naive about the Empire and then name exactly which crossroads not to stand at after dark, with specificity, and he will be right.
+The conquered north-east makes a different mark on the island's memory. Nordmen took Stormveld's plain sixty years ago and work it with Vardain thralls. The other realms call the loss an outrage, but have never agreed who should lead a recovery or who would hold the land afterward. Aelwythan loyalty to the island can be real and still fail when it asks rival rulers to act together.
 
-## Layered Faith
+## A Faith at Every Door
 
-The Aurèldían pantheon is dominant in the southern and eastern kingdoms, with the dream, creation and wild-beast gods especially prominent and the god of gates and oaths holding particular weight in the north-east. The Nordmen of the conquered plain keep the Asguardian gods and have not been asked to stop.
+The Aurèldían pantheon is strongest in the southern and eastern kingdoms. Lay faithful keep its feasts without holding temple office. Ordinary devotion means the small repeated acts as well as a visit to the temple: tending a household shrine, making an offering, or seeking a priest's counsel. Árdavon's oath-bound justice has particular weight in Dúnavarre. In Ondareth, the Black Flame prospers where officials can be bought, while Sélmoros draws people who want a judge beyond the reach of money.
 
-Underneath all of them run the local traditions—spirits of the lake, guardians of crossroads, ancestral ghosts—and these are not survivals politely tolerated by the temples. They are what an ordinary Aelwythan actually observes. He attends the temple and he also leaves something at the stone, and he would be puzzled by the suggestion that these compete.
+At a crossroads or beside a lake, a person may leave an offering for its spirit and still attend the temple the same week. Ancestors and place-spirits are part of the island's living observance, not a rival church with a common priesthood. In the north-east, the Nordmen keep their own Asguardian gods; their conquest has not made that faith the island's common one.
 
-The western republic is the exception in this as in everything, and an unedifying one: in a state whose magistracies are for sale, the suppressed cults flourish because suppression requires magistrates, and the god who cannot be bought draws the devotion of everyone who will never see an honest court.
+At the year-turn Feast of Thresholds, Árdavon's faithful renew covenants and oaths in public and have them recorded. At the late-summer Golden Harvest, successful traders give a portion of their gain. During Sélmoros's three-day Silent Passage in late autumn, households set black candles in their windows and speak the names of the dead while priests perform requested rites for the year's departed. A household may keep several observances; the calendar follows its gods and region.
 
-## The Conquered Plain
+What a person can earn or lose changes at a border. Service may win trust, an office, a household place or a hearing before a local court. Dúnavarre can interdict someone from its courts and markets; Ondareth can strike a citizen from the roll and outlaw them. On the island, the last punishment may be losing the standing and protection others once extended. No sentence binds every realm.
 
-Sixty years ago Nordmen crossed and took the north-east—specifically the plain, the one large body of good arable on the island, now worked by a great many thralls.
+## Courts, Temples and the Dead
 
-Aelwythans have not absorbed this. It sits in the national account as an outrage of recent memory and an ongoing humiliation, discussed constantly and acted on not at all, because no combination of the realms has ever been able to agree who would lead the recovery or who would hold the land afterward.
+In Aldorath, the king and barons hold a feudal order whose families claim lands through generations; seers advise on prophecy. The Dúnavarren Synod writes law, administers justice and commands the army, so mage and ruler are the same institution. Ondareth's senate and magistrates govern civic life, though the priesthood of Sélmoros keeps death records, performs funerals and counsels the dying. Parties who want a dispute heard without buying a court may turn to its priests. They give final rites to paupers and unclaimed dead without payment.
+
+For a household devoted to Sélmoros, death is a passage no offering can bargain away. The dying may confess and give final testimony to a priest; nobles consult the priesthood on succession, and the dead's names are spoken again at the autumn observance. A person with a debt or inheritance to settle has reason to speak while still alive. The faith forbids violating graves or raising the dead. Other households honor ancestral and place spirits at shrines, stones and lakes; an Aelwythan's funeral customs tell you which tradition they follow.
+
+The living can honor the dead with prayers, names and rites. Sélmoros's priests receive payment for funerals and tomb care, not for answers from the dead; they also counsel the bereaved and bury paupers and unclaimed dead without fee. At a place-spirit's stone or a household shrine, the living leave what custom requires. Whether the dead answer there is not something the customs promise.
 
 ## What a Person Owes
 
-Ask an Aelwythan what a person owes, and he answers: the household, then the lord whose land he works or whose court he attends, then the realm, then the island. He says the island last while plainly meaning something by it, because for all the quarrelling between the kingdoms there is a shared understanding that what lies beyond the water is another matter entirely.
+At an Aldorathi manor, a household works the demesne and its own strips; four in five Aldorathi are serfs or peasants bound to the land and lord. The family holding passes through generations, and the lord's court sets the claims attached to it. In Dúnavarre, a subject is protected and taxed but has no political voice; a freeman of a chartered town adds its courts, markets and guild rights. Ondareth asks military service of its citizens, but reserves office in practice for landholders and veterans. Aelwythans owe the work and service of their station; in return they expect the household, lord, court or realm that claims them to keep order and defend its own.
 
-Beneath all four he owes the observances—the stone, the crossroads, the lake—and of every duty on his list this is the one he is least likely to neglect.
+Children learn the work of their household before they take a place in manor, guild or retinue. An apprentice's teaching depends on a craft and its masters; Dúnavarre's Synod maintains schools and libraries, while its Just Blade gives the kingdom a military order under Synod command. Hawise Ashby, at forty-eight, remains a veteran huscarl and trains younger fighters even as the physical demands of her work grow harder. Age can shift service from strength to teaching, though no island custom sets the same age or provision for everyone.
+
+Care follows people and institutions rather than a common poor law. Physician Leofric Barnwell belongs to a local physicians' guild and often treats poor patients without charge. Mórváná's hospices in every major city shelter and comfort the dying, funded by gifts and endowments; Sélmoros's priests give funeral rites to paupers and the unclaimed without fee. In the streets, sixty-two-year-old [[being-maudosgood|Maud Osgood]]—frail, often ill and without family—survives through charity and the informal beggar network that looks out for its members. When a poor harvest costs [[being-aldwngrylng|Aldwin Grayling]] his farm work, people he knew from the farm sometimes help, though his pride makes him reluctant to accept it. These are real hands extended, but no island-wide institution promises them to every widow, orphan, sick person or hungry household.
+
+In a bad year, obligation does not make food appear. A temple hospice can shelter the dying; a city charity or neighbor may keep someone else from the street. When those ties fail, a person can fall as Aldwin and Maud have. A household teaches its children; a craft master or Dúnavarre school may carry their learning further. A lord, citizen levy or the Synod's soldiers defend people according to their place in the realm. Aelwythan household membership follows local standing: a hereditary manor holding, a chartered-town roll and a lord's retinue give different claims. There is no common backstop once family, employer or patron can no longer help.
 
 ## See Also
 
-- [[place-aelwyth|Aelwyth Region]]—the island, its kingdoms and its wild third
+- [[place-aelwyth|Aelwyth Region]]—the island, its kingdoms and peoples
+- [[place-pshtrwldrns|Peshtar Wilderness]]—the distinct highland clans and their traditions
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods of the southern and eastern realms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the conquered plain
-- [[affiliation-ordoarcanis|Ordo Arcanis]]—the Synod, and the only accurate map on the island
+- [[affiliation-ordoarcanis|Ordo Arcanis]]—the Synod and its mainland order
+- [[affiliation-thanatos|Faith of Sélmoros]]—death, funerals and the dead
 
 ## Glossary {#glossary}
 
