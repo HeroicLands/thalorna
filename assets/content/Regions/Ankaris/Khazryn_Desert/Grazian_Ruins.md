@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "Forgotten caverns, cut passages and sealed halls under the glaciers and peaks of the Grazian Mountains, whose makers are left unstated and whose doors the guides do not name."
 tags: []
-data: {demonym: null, lore: [], parents: [graznmntns], population: 0, packFolder: khazryndesert}
+data:
+  demonym: null
+  lore: []
+  parents: [graznmntns]
+  population: 0
+  packFolder: khazryndesert
+  culture: khazrynclt
 ---
 
 ## Overview

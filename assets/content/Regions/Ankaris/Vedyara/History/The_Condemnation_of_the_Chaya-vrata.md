@@ -6,6 +6,7 @@ subType: history
 description: "About 470 AF the Council of the Dream of the Svapnasāri-samāja condemned the dream-line that works the dreams of the waking and unwilling, and held the condemnation open; the monasteries closed to it, and the vow went on outside them, one student at a time."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~470

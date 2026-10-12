@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of the hunt and of the guardian predators—the spirit a candidate meets in the Spirit Hunt, and the one that decides whether they return."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

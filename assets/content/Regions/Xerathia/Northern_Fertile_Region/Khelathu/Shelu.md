@@ -5,7 +5,7 @@ type: lore
 subType: custom
 description: "The season of low water: four months of harvest, of building, and of the campaigns the dry roads allow"
 tags: [generated, draft]
-data: {packFolder: regkhcult}
+data: {packFolder: regkhcult, culture: khelathiclt}
 ---
 
 **Shelu** is the **Harvest**, the third season of the [[lore-khelathiclt|Khelâthi]] year and the one in which the empire looks outward. For four months the river runs low and its work gives way to the people's own: the grain comes in, the granaries are filled and weighed, and the ground dries hard enough to build on and to march on in the same weeks.

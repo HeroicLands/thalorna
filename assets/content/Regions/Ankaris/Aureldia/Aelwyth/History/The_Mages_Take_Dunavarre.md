@@ -6,6 +6,7 @@ subType: history
 description: "Between about 450 and 490 AF the Ordo's advisors at Ravenmoor took the offices of Dúnavarre from its kings one by one, until the last king, Yénral, was set aside without a blow and the Synod governed alone."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~450

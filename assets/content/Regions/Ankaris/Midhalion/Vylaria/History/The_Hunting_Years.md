@@ -6,6 +6,7 @@ subType: history
 description: "From about 73 BF to about 25 AF the Quaesitorium enforces the Lex Arcana: renegade masters, hedge traditions and the last free schools of Heliónis are enrolled, imprisoned or killed, with legions lent to the hunt under the Republic and then under the Founder."
 tags: [history, vylaria, kingsrepub]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: hunt

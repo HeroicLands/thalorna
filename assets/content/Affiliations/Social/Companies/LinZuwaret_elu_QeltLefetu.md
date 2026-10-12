@@ -6,6 +6,7 @@ subType: venture
 description: The trading house of the Qelt'Lefetu, running caravans on the high-value and dangerous routes and hiring its own protection rather than trusting to the road
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: governmental
 description: The household and council of the Gar-Aû, where appointment is made, favor is distributed, and the empire's factions contend in person
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: governmental
 description: "The civic government and courts of Ôrzâra—ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
 tags: []
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

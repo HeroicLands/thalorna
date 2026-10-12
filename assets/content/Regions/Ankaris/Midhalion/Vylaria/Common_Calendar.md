@@ -6,6 +6,7 @@ subType: calendar
 description: "The Vylarian Calendar, kept from Mídhalión to Aelwyth: twelve months, four fixed quarter days, and the year every other reckoning is measured against."
 tags: [reference, calendar]
 data:
+  culture: vylarianclt
   epoch: "1.1"
   months:
     - {name: Floralis, abbreviation: Flor, days: 30}

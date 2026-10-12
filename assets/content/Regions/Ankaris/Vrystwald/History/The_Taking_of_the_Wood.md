@@ -6,6 +6,7 @@ subType: history
 description: "About 1250 BF the mixed Varkhad–Pelwar host came into the Vrystwald from the east, broke the Pelwar who stood, married the ones who stayed and drove the rest west along the bay toward the sea; the Varokh are what was left in the forest when the host stopped."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: taking

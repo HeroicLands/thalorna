@@ -6,6 +6,7 @@ subType: guild
 description: A body of the serving class of Galezkara, pooling what its members can spare against sickness, dismissal and burial
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

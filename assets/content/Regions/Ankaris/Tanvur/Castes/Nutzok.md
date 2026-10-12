@@ -4,7 +4,7 @@ name: {full: Nützōk, aliases: []}
 type: lore
 subType: law
 description: "The eighth caste of Tānvür—slaves, war captives, condemned criminals and the outcast, held as property with no name, no marriage and almost no road out, their condition inherited by their children."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 The Nützōk are the caste that is not a caste: the slaves, prisoners of war, condemned criminals and the disgraced who have been cast out of the caste they were born to, and they are the floor of [[affiliation-tanvurempr|Tānvür]]. A Nützōk has no name the law recognizes, no property, no marriage and no road out, and the law values his life below that of any other person in the empire. The [[lore-venduk|Vëndük]] are also slaves, and the comparison stops there: a Vëndük is owned because he is precious, and a Nützōk because he is nothing.

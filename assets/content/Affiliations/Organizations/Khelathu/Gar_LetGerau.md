@@ -6,6 +6,7 @@ subType: lineage
 description: A hereditary line of craftsmen whose name carries weight in the guild halls, and whose members are expected to hold to standards the wider trade finds inconvenient
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

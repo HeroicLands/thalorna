@@ -4,7 +4,7 @@ name: {full: Uznêra, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-uznera|Faith of Uznêra]]{float=top-left size=medium}

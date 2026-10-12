@@ -6,6 +6,7 @@ subType: order
 description: "Covert strike order of the Black Flame—smaller, more secretive, and unaccountable; deployed when the heresy needs results without trial, debate, or witnesses."
 tags: [organization, aureldia, fighting-order, black-flame, heresy, clandestine]
 data:
+  culture: aureldianclt
   templatePriority: null
   demonym: null
   epithet: null

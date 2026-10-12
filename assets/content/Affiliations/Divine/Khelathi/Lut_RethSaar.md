@@ -6,6 +6,7 @@ subType: faithtradition
 description: The house of Reth'Sa'âr, god of knowledge and of the written hand, holding the archives, the observatory and the schools that feed them
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

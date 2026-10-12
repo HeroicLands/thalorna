@@ -12,6 +12,7 @@ subType: faithtradition
 description: "Decentralized religious network of the Dunhara tribes—storm-shamans, weather-readers, and chosen vessels of the storm god Báhrámiš, whose authority crosses tribal boundaries and shapes the ritual life of every Dunhari camp."
 tags: [organization, dunhara, religion, storm, cult]
 data:
+  culture: dunhariclt
   banner: faithbnr
   templatePriority: null
   demonym: null

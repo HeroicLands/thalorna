@@ -6,6 +6,7 @@ subType: literature
 description: "The account, carried down from Ethalossë, of the open convocation the Sinalë called in the Age of Stars on how the world ends, which has never reached accord and so has never closed: four sung speeches, the exchanges between them, and the answer the Élavendren court received when it asked for one word."
 tags: [draft, sinale]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   form: ommenda
   subjects:

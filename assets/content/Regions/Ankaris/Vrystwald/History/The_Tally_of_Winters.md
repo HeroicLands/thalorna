@@ -6,6 +6,7 @@ subType: calendar
 description: "How the Varokh of Vrystwald reckon time without writing: winters counted from the last thing every hearth remembers, the eldskorn recited at Weskskald, and the seven ages of the forest from the Taking of the Wood to the posts at Hrindstead."
 tags: [reference, calendar, history]
 data:
+  culture: varokhiclt
   epoch: "-1250.1"
   months:
     - {name: Lúdra, abbreviation: Lúd, days: 91}

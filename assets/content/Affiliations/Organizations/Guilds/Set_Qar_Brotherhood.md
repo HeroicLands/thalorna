@@ -6,6 +6,7 @@ subType: guild
 description: "The closed hereditary brotherhood of tomb-craftsmen of Zel-Qar, the walled company-village of the Khelzuret necropolis—stonecutters, draftsmen, sculptors and painters who guard both the mysteries of their craft and the locations of what they build."
 tags: [organization, khelathu, xerathia, guild]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   banner: khelathubnr
   templatePriority: null

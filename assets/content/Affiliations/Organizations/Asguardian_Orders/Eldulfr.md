@@ -6,6 +6,7 @@ subType: order
 description: "Svartbrandr's elite warriors of the forge-hofs."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

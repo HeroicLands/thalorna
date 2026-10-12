@@ -6,6 +6,7 @@ subType: governmental
 description: "The standing agreement through which five Vedyaran polities hold the Merchant Collective's banking system in common, and the twice-yearly assembly of their delegates that renews and amends it."
 tags: []
 data:
+  culture: vedyariclt
   templatePriority: null
   demonym: null
   epithet: null

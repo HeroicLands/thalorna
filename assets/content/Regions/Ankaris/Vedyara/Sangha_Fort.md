@@ -6,6 +6,7 @@ subType: structure
 description: "The Mahā-Sangha's one standing garrison—a stone work on the col of the conch-door, held for four centuries because of a single invasion, and read by Shikharālaya as a rival's outpost."
 tags: [fortress, military, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

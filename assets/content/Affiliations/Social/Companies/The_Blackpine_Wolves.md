@@ -6,6 +6,7 @@ subType: criminal
 description: "Vrystwald road bandits—brutal, desperate men held together by fear of their leader Dágulf and the absence of legitimate options in imperial forests."
 tags: [company, brigands, vrystwald]
 data:
+  culture: varokhiclt
   banner: companybnr
   templatePriority: null
   demonym: null

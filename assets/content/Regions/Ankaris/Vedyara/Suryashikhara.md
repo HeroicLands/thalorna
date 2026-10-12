@@ -6,6 +6,7 @@ subType: feature
 description: "The highest peak of the Southern Wall and the one the dawn strikes first—above the Chandramahī's source, the Sūrya temple and the slab the ice has never marked."
 tags: [mountain, sacred, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

@@ -6,6 +6,7 @@ subType: site
 description: "The chain of Varnaka temples at the summits of the crossing roads, kept year-round by a hereditary line of Ritūja ushtakas who live where a lowlander would die, and holding the only written record of who crossed the wall and when."
 tags: [temple, sacred, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

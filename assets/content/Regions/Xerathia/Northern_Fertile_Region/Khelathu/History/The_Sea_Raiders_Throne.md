@@ -6,6 +6,7 @@ subType: history
 description: "In 1960 ST (151 BF) raiders out of the north across the Vylarian Sea landed in the delta, burned the port of Zel-Amqelu and marched on Galezkara; the priesthood crowned their chief and entered their line as the house of Malu'Thenoru, which held the crown for three reigns."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -151

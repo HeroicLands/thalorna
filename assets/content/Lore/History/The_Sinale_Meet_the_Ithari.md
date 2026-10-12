@@ -6,6 +6,7 @@ subType: history
 description: "Sinalë wayfarers come upon the Ithári by chance, are received with courtesy and politely declined—the only contact between the Ithári and an Elder Race in any record."
 tags: [history, spine]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   events:
     - when: ~-7500

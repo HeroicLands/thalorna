@@ -327,6 +327,44 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Water-Warden**                          | [[affiliation-dunhartrbs\|Water-Warden]]                             | `translation` | —                   |
 | **Yorvôr**                                | [[affiliation-kngdmmrdd\|Yorvôr]]                                    | `dunhari`     | `yorv-` + `-ôr`     |
 | **Zevrôr**                                | [[affiliation-strmcltsbhrms\|Zevrôr]]                                | `dunhari`     | `zevr-` + `-ôr`     |
+| **Associate**                             | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Boss**                                  | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Báhrámiš**                              | [[lore-bahramisdty\|Báhrámiš]]                                       | `ashaian`     | —                   |
+| **Caravan Priest**                        | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Counsellor**                            | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Courier**                               | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Crew Boss**                             | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Dēlkoshekh**                            | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `ashaian`     | —                   |
+| **Earner**                                | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Enforcer**                              | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Fence**                                 | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Fixer**                                 | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Flame-Denied**                          | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Flame-Reader**                          | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Hanger-on**                             | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Keeper of the Fire-Lineage**            | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Khóršádrä**                             | [[lore-khorsadradty\|Khóršádrä]]                                     | `ashaian`     | —                   |
+| **Lay Faithful**                          | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Made Member**                           | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Marked**                                | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Master of Lookouts**                    | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Míthárä**                               | [[lore-mitharadty\|Míthárä]]                                         | `ashaian`     | —                   |
+| **Mórváhñä**                              | [[lore-morvahnadty\|Mórváhñä]]                                       | `ashaian`     | —                   |
+| **Rōqeshekh**                             | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `ashaian`     | —                   |
+| **Shēkhulsīghot**                         | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `ashaian`     | —                   |
+| **Second**                                | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **The Ash Road**                          | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **The Twelve of the Flame**               | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `translation` | —                   |
+| **Treasurer**                             | [[affiliation-theashroad\|The Ash Road]]                             | `translation` | —                   |
+| **Zárványä**                              | [[lore-zarvanyadty\|Zárványä]]                                       | `ashaian`     | —                   |
+| **Zúráthrä**                              | [[lore-zurathradty\|Zúráthrä]]                                       | `ashaian`     | —                   |
+| **Ángáróš**                               | [[lore-angarosdty\|Ángáróš]]                                         | `ashaian`     | —                   |
+| **Árávēštä**                              | [[lore-aravestadty\|Árávēštä]]                                       | `ashaian`     | —                   |
+| **Ázráván**                               | [[lore-azravandty\|Ázráván]]                                         | `ashaian`     | —                   |
+| **Āhúrdáén**                              | [[lore-ahurdaendty\|Āhúrdáén]]                                       | `ashaian`     | —                   |
+| **Āsháian Pantheon**                      | [[affiliation-ashanpnthn\|Āsháian Pantheon]]                         | `ashaian`     | —                   |
+| **Ātáröš**                                | [[lore-atarosdty\|Ātáröš]]                                           | `ashaian`     | —                   |
+| **Šírvádár**                              | [[lore-sirvadardty\|Šírvádár]]                                       | `ashaian`     | —                   |
 
 ## Retired names
 

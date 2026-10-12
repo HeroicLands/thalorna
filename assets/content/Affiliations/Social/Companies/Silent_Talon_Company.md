@@ -6,6 +6,7 @@ subType: venture
 description: "Elite mercenary specialists in infiltration, espionage, and covert strikes—precision and discretion for those who can afford the expertise."
 tags: []
 data:
+  culture: provenzianclt
   templatePriority: null
   demonym: null
   epithet: null

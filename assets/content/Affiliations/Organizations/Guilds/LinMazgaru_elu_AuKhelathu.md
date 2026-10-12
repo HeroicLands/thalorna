@@ -6,6 +6,7 @@ subType: guild
 description: Dealers who buy and sell on volume alone, and who regard a supplier's refusal to ship inferior stock as an affront to profit
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -476,6 +476,12 @@ Every name the setting gives a person, place, polity or thing of the Tarûzelian
 | **Zabûzum**                            | [[being-zbzmjkdn\|Zabûzum Jakûdûnî]]                                 | `taruzeli`    | `zabûz-` + `-um`                       |
 | **Zattûya Balînûnî**                   | [[being-zttyblnn\|Zattûya Balînûnî]]                                 | `taruzeli`    | `zatt-` + `-ûya` + `balîn-` + `-ûnî`   |
 | **Zazûran Qusâdûnî**                   | [[being-zzrnqsdn\|Zazûran Qusâdûnî]]                                 | `taruzeli`    | `zazûr-` + `-an` + `qusâd-` + `-ûnî`   |
+| **Merâzûnî**                           | [[lore-trzlncrncy\|Tarûzelian Currency]]                             | `taruzeli`    | —                                      |
+| **Tarûzel Adventurer's Guide**         | [[doc-taruzeladvguide\|Tarûzel Adventurer's Guide]]                  | `translation` | —                                      |
+| **Tarûzelian Currency**                | [[lore-trzlncrncy\|Tarûzelian Currency]]                             | `translation` | —                                      |
+| **Tarûzelian Currency System**         | [[lore-trzlncrncy\|Tarûzelian Currency]]                             | `translation` | —                                      |
+| **The Crimson Ledger**                 | [[affiliation-crimsnldgr\|The Crimson Ledger]]                       | `translation` | —                                      |
+| **The Tamzîr**                         | [[affiliation-thetamzir\|The Tamzîr]]                                | `taruzeli`    | —                                      |
 
 ## Retired names
 

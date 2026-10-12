@@ -5,6 +5,7 @@ type: affiliation
 subType: arcanetradition
 tags: [lore, arcane, hex-hodai, ordo-arcanis]
 data:
+  culture: vylarianclt
   icon: null
   templatePriority: null
   demonym: null

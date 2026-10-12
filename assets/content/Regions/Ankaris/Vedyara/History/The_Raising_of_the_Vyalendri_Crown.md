@@ -6,6 +6,7 @@ subType: history
 description: "About 125 BF Nīlapati, a lord of the indigo valleys, took the cloth city of Vyālendra and was crowned in it; his line laid out the palace quarter, the audience hall and the street-plan the guild republic still lives in, and lasted eleven reigns."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~-125

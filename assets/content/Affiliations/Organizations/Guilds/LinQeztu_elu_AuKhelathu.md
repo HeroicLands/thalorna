@@ -6,6 +6,7 @@ subType: guild
 description: The chartered body that regulates paid soldiering in the empire, provides access to work, and vouches for a member's standing to those hiring
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

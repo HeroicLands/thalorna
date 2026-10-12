@@ -5,6 +5,7 @@ type: lore
 subType: economy
 description: "Standard currency of western and central Ankaris—the three-coin Vylarian system (Aurion, Argentus/Argo, Octus/Bit) and the paper script layered above it; accepted as foreign currency in the Northern Fertile Region of Xerathia."
 tags: [reference, currency, vylaria, cross-realm, economy]
+data: {culture: vylarianclt}
 ---
 
 A money-changer at the Grand Market Circle in [[place-orzara|Ôrzâra]] sets out three coins on the felt of his table for every newcomer who asks what a Vylarian price means. A thick gold coin sits on the left, a thin silver one in the middle and a silver wedge on the right. "Gold, you will see once or twice in your life, and you will not be handed it," he says. "Silver is what the city runs on. And the wedge is what you spend. Learn the three, and you can be cheated only in the ordinary ways."

@@ -15,6 +15,7 @@ data:
     - {to: sandhysmdr, bearing: NW}
   population: null
   packFolder: vedyara
+  culture: vedyariclt
 ---
 
 ## Overview

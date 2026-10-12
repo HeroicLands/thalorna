@@ -6,6 +6,7 @@ subType: criminal
 description: "A secret society that takes exotic beasts and forces them to fight for spectacle"
 tags: [generated]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   governance:
     model: council

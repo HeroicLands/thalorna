@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Those who come for the Blessing of Light and the Night of Dreams, in the faith of Bjartr."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Nobody enrolls in the faith of [[affiliation-bjartr|Bjartr]]. You come to a rite, and from that night you are counted among the faith's people.

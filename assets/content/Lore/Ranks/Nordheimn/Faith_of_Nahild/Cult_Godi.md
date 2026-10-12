@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The priest who takes Náhild's sacrifices in hiding, in the faith of Náhild."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Outsiders cannot name the person who keeps one of [[affiliation-nahild|Náhild]]'s hidden hofs, and that is what the secrecy is for. A godi or gydja takes the sacrifices of a hof in hiding, and every initiate and offerer keeps silent chiefly to protect that one person and the rite they keep.

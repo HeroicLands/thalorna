@@ -6,6 +6,7 @@ subType: history
 description: "About 590 AF, after a king of Shikharālaya died suddenly in the open season, the Martial Council refused the Priestly Court's candidate and acclaimed his widow, Jvalasundarī, who reigned until her son was of age and some years past it; both councils argue from the precedent today."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~590

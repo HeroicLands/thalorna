@@ -6,6 +6,7 @@ subType: guild
 description: The farming households of the northern selats, banded to bring their grain to market on their own terms rather than a factor's
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

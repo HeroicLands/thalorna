@@ -6,6 +6,7 @@ subType: history
 description: "By tradition about 150 AF the line of the eleventh and last Mahārāja of Vyālendra ended, and the Loom-Council took the kings' audience hall and has governed the city from it since."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~150

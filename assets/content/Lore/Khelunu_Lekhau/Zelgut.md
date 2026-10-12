@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The unmaking, taught in full and proscribed in practice."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 **Zelgút** is the unmaking: decay, curses, the serpent, entropy. It is what [[lore-azuathisdty|Azu'âthis]] is and what he never stops trying to restore, and it is not evil in the moral sense so much as prior, the state that obtained before the world and would obtain again.

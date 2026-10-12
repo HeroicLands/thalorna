@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Taught the secret observances known only to Náhild's own, in the faith of Náhild."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The cult of [[affiliation-nahild|Náhild]] admits by teaching. A hidden hof's godi shows an offerer it has come to trust the secret observances only the cult's own initiates know, and the teaching is the admission.

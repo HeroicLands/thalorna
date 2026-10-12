@@ -6,6 +6,7 @@ subType: venture
 description: The principal playing company of Galezkara, whose leading performers are known across the empire and whose politics are as involved as any court's
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

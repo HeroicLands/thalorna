@@ -5,6 +5,7 @@ type: affiliation
 subType: venture
 description: "Tarûzelian banking cartel wielding financial leverage to dominate the post-independence Confederation and control commerce across the Vylarian Sea."
 data:
+  culture: taruzelianclt
   templatePriority: null
   demonym: null
   epithet: null

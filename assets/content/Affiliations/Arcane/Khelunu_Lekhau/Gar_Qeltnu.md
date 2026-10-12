@@ -5,6 +5,7 @@ type: affiliation
 subType: arcanetradition
 tags: [gethunu-lekhau, arcane, khelathi]
 data:
+  culture: khelathiclt
   banner: khelathubnr
   icon: garqeltnu
   templatePriority: null

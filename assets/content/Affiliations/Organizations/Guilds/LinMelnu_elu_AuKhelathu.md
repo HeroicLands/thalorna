@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's metalworkers, heirs to the ancient forge-companies and jealous of the standards they inherited
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

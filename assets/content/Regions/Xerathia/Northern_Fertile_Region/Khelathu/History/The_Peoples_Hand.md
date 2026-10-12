@@ -6,6 +6,7 @@ subType: history
 description: "About 2030 ST (81 BF) the queen Gith'el'Retha I of the house of Amqelu'Gatau sanctioned the bureaus' cursive, cut from the seven hundred signs of the sacred hand to about a hundred; the temples kept the sacred hand for the tomb and the god, and Khelâthi literacy divided in two."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: ~-81

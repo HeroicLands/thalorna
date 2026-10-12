@@ -4,7 +4,13 @@ name: {full: Heliónis, aliases: []}
 type: place
 subType: region
 description: "Region of independent city-states bound by a shared culture, shared games, and eternal rivalry—philosophers, sailors, and heroes in a land where honor is paid in blood and glory."
-data: {demonym: null, lore: [], parents: [heladrgn], population: 3000000, packFolder: helionis}
+data:
+  demonym: null
+  lore: []
+  parents: [heladrgn]
+  population: 3000000
+  packFolder: helionis
+  culture: helioniteclt
 
 # terran_analog: the shared culture is Greek-like.
 ---

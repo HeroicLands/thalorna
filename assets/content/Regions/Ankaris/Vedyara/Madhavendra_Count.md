@@ -6,6 +6,7 @@ subType: calendar
 description: "Vedyara's own reckoning: twelve solar months paired into six seasons and a week of seven gods' days, counted from the standardization of Classical Vedyari under the philosopher-kings of Madhusthāna, with the moon kept beside it in a temple almanac."
 tags: [reference, calendar, vedyara]
 data:
+  culture: vedyariclt
   epoch: "-480.1"
   months:
     - {name: Prabhavakāla, days: 30}

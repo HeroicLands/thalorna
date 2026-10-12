@@ -5,7 +5,7 @@ type: lore
 subType: custom
 description: "The season of the flood: four months in which the river rises over the fields and the year's work waits on it"
 tags: [generated]
-data: {packFolder: regkhcult}
+data: {packFolder: regkhcult, culture: khelathiclt}
 ---
 
 **Azlet** is the **Inundation**, the first of the year's three seasons and the reason the [[lore-khelathiclt|Khelâthi]] have a year at all. For four months the river climbs over the black land until only the old tells and the stone of the temples stand clear of the brown water, and every kind of work that needs dry ground waits for it to go.

@@ -10,8 +10,9 @@ data:
   lore: []
   parents: [midhalnrgn]
   population: 12000000
-  government: cnfdrtntrzlnstts
   packFolder: taruzel
+  culture: taruzelianclt
+  government: cnfdrtntrzlnstts
 
 # terran_analog: ""
 ---

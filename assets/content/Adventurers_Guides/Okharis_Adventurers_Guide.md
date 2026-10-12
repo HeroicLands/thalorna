@@ -2,10 +2,10 @@
 shortcode: okharisadvguide
 name: {full: Okháris Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Okháris—the three temple-cities, the herding clans, the eternal flame and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: okharinclt}
 ---
 
 > You come into Kaljékor in the last heat of the afternoon, walking behind a herd. The dust the cattle raise hangs red-gold in the low sun, it is in your teeth and the creases of your hands, and the lowing of a thousand animals rolls ahead of you into the town. Then the pyramid stands up out of the haze, terrace on terrace of red sandstone, and every terrace is a market: awnings of striped cloth, copper pans flashing, bolts of linen and stacked hides, and at the top a thin column of smoke going straight up into the still air. The festival has filled the place. Herdsmen with spears and wool cloaks crowd the lower steps, foreheads smeared gray with ashmark; a priest-noble in a collar of beaten gold is carried through them in a chair, and nobody makes room until he is nearly on top of them. Merchants up from Aû'Khelâthu weigh silver on hand scales. Children run between the legs of the cattle, and somewhere a drum is keeping time for dancers you cannot see.

@@ -6,6 +6,7 @@ subType: order
 description: "Sacred hunt of the Khetai family tasked with maintaining balance between civilization and the wild along the Zumélesh River through ritual, courage, and divine obligation."
 tags: [company, hunters, xerathia]
 data:
+  culture: khelathiclt
   banner: khelathubnr
   templatePriority: null
   demonym: null

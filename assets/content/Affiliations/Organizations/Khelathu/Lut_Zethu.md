@@ -6,6 +6,7 @@ subType: governmental
 description: The empire's collection of texts, held under the hand of the scribes and closed to most who would read there
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

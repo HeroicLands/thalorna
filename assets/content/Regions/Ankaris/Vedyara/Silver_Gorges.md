@@ -6,6 +6,7 @@ subType: feature
 description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Shikharālaya was chartered, and held by smithing clans whose prerogatives predate the charter."
 tags: [mountain, mining, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "335 to 524 AF, 1 CP to 190 CP in the Madhusthāna count: roads and watch posts built in common under the Third Compact, the Highland War stopped at a gorge-mouth below the gold road, Gomārga's second broken bargain and its empty century, and the Council of the Dream's condemnation of the Chaya-vrata."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 The **Compact Peace** is two centuries in which no Vedyari polity destroyed another, and they were not quiet centuries. The [[lore-thirdcmpct|Third Compact]] made unification unnecessary: the seats built roads, caravanserai and watch posts in common, and the [[affiliation-mrchntclctvvdyr|Merchant Collective]] learned to be the thing that crossed every border. Wars went on. They stopped ending kingdoms.

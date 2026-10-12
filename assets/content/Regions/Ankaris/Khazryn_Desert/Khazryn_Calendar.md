@@ -6,6 +6,7 @@ subType: calendar
 description: "The ancient Tellumi calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Shēkhulūkhem beside the Ātárzád's own ritual reckoning."
 tags: [reference, calendar]
 data:
+  culture: khazrynclt
   epoch: "-1500.1"
   months:
     - {name: First, days: 30}

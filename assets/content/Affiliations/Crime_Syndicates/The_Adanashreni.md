@@ -6,6 +6,7 @@ subType: criminal
 description: "The chartered thieves' guild of Vedyara—a hereditary craft-shrenī that holds a charter from each of the forty polities seated at the great assembly in their own right, earns more from underwriting theft than from committing it, and survives dynasties because it is a guild with hereditary lines and not a syndicate."
 tags: [organization, crime, underworld, vedyara]
 data:
+  culture: vedyariclt
   templatePriority: null
   demonym: null
   epithet: The Guild of Taking

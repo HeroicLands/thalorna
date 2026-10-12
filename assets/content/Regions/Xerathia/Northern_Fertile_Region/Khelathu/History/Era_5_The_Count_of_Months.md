@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "1990 ST (121 BF) to 2281 ST (171 AF): the age of the clerks, in which the king-list begins to give a reign's months, the people's hand is cut from the sacred one, and the bureaus of Galezkara take the shape they keep."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 The **Count of Months** is the age in which the empire learns to write down how long things took. Before it, the king-list gives a reign in years and trusts the reader; from 1990 ST (121 BF) it gives the months beside the years, and a clerk who wants to know whether a flood was entered in the first reign or the second can finally find out.

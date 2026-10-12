@@ -6,6 +6,7 @@ subType: venture
 description: Wealthy traders across the empire who hire beast-trainers, assess stock moving on the routes, and consult on the transport of anything that has to arrive alive
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

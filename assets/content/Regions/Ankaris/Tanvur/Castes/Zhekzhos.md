@@ -4,7 +4,7 @@ name: {full: Zhëkzhös, aliases: []}
 type: lore
 subType: law
 description: "The first caste of Tānvür—the Emperor, his family and the Warlords, the lineage the celestial bureaucracy appointed to administer the sorted world, holding final authority in state, war and faith."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 The Zhëkzhös are the people in [[affiliation-tanvurempr|Tānvür]] who are never asked what they are, because the question has only one answer: the Emperor, his immediate family, and the Warlords (_Vüszhük_) who hold the provinces in his name. A clerk at the frontier way-station, told to describe the first caste to a classified foreigner, does it in a sentence. They are the administrative lineage of the mortal plane. Their authority comes from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world, and from nothing so unreliable as divine blood.

@@ -6,6 +6,7 @@ subType: guild
 description: "Gar-Aû's chartered guild of professional hunters and beast-specialists—licensing the empire's game-takers, dangerous-beast cullers, and the suppliers of the temple and market hunts."
 tags: [organization, khelathu, xerathia, guild, hunters]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   templatePriority: null
   demonym: null

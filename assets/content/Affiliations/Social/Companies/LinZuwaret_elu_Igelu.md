@@ -6,6 +6,7 @@ subType: venture
 description: The traders of the Galezkara waterfront, who handle what comes off the barges and set much of what it will cost
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

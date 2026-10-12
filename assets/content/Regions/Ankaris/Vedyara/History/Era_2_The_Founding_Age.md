@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "About 780 to 481 BF: the highland temples, the four academies of the bow and the first forest gift, and the Mahānadī kings on the upper river at a seat their library never recorded."
 tags: [history, vedyara]
-data: {packFolder: vedyara}
+data: {packFolder: vedyara, culture: vedyariclt}
 ---
 
 The oldest things in [[place-vedyarargn|Vedyara]] that carry a date are temples, and that is the whole character of the **Founding Age**. Its states are hardly remembered. Its institutions are still running.

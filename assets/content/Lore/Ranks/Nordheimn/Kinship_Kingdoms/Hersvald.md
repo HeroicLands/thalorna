@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The clan's own head, leading a district's men in war and speaking for them in peace by their consent, in the five kingdoms and the Jarldom of Stormveld."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 At [[place-raltholm|Raltholm]] the hersvald's horn calls the levy, and the men who answer it are the same men whose consent keeps him in his hall. That is the standing in one picture: a hersvald leads a district because the district agrees to be led.

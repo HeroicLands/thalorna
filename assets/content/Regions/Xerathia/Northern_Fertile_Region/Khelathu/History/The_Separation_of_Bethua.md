@@ -6,6 +6,7 @@ subType: history
 description: "About 615 AF, under the queen Meqes XI, Bethûa won its war of separation from its Helonic metropole with Khelâthi gold, engineers and loans, and rebuilt its treasury and water corps on Khelâthi models."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: ~615

@@ -6,6 +6,7 @@ subType: history
 description: "About 265 AF Gomārga's king Vrishasūra took three lineages' wells into the crown's own hand to pay for a war on the river; the lineages walked their herds off the circuit, the war was lost, the wells were returned, and the accession oath gained its clause about wells."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~265

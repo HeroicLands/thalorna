@@ -6,6 +6,7 @@ subType: history
 description: "From about 316 AF to about 330 AF the eastern legions answer the breaking of the Storm of the Hundred Banners by raising a line of hill forts and a military road across the interior of Tarûzel's larger islands, garrisoned by hill horsemen the Empire pays."
 tags: [history, vylaria, ageconquest]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: line

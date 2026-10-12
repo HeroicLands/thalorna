@@ -8,6 +8,7 @@ subType: history
 description: "From about 1 AF the first Augustar walls the crown of Mons Aquila above the galleries sealed in 45 BF, moves the Senate up from its old hall on Mons Vétus, and consecrates the pomerium around the whole of the Six Hills, a city that takes the name Ôrzâra."
 tags: [history, vylaria, firstaugs]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: raising

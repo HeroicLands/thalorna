@@ -6,6 +6,7 @@ subType: guild
 description: Alchemists without a patron, allied to defend the standing of those who work outside the great houses
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

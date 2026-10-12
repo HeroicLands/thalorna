@@ -6,6 +6,7 @@ subType: history
 description: "King Tvarnthann of Vithgard died in the dark of 694 AF with two sons by two wives and no acclaimed heir; Snirvmýl held Thrúnborg and Glirvorv held Hrandstead, and the levies fought seven summers until a Sworn Hand brought the brothers to Lögstead in 701 and they swore the truce the kingdom lives under."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: outbreak

@@ -6,6 +6,7 @@ subType: literature
 description: "An Ātárzád elder's account of the War of the Twelve Years, told at the Festival of the Promise: the tribes' coming to Tellumel, the four cities taken in their order, the dead left at Zargandûr, and the Covenant the tribes still keep."
 tags: [draft, khazryn]
 data:
+  culture: khazrynclt
   packFolder: settinglore
   form: testimony
   subjects:

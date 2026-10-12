@@ -6,6 +6,7 @@ subType: history
 description: "About six hundred years ago the Mahānadī moved its channel below Rājapur and drowned a town that had been a royal seat of the dissolved kingdom, the one of the river's four recorded moves everybody names."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~120

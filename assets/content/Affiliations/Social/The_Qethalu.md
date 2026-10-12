@@ -6,6 +6,7 @@ subType: fellowship
 description: Conservative priests within Qe'âret's own order who hold that political entanglement corrupts the goddess's purpose, and that her high priest should be something other than a courtier
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

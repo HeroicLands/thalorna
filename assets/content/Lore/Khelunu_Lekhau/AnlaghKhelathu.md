@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The living black land: water, fertility, growth, healing, abundance."
 tags: [generated]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 Look at any field the week the flood goes down and the line is plain: black silt on one side, sand on the other. That line is **Anlagh'Khelâthu**, the living black land, one of the eight domains of the [[lore-khelunulekha|Khelunu Lekhau]]. It holds water, fertility, growth, healing and abundance.

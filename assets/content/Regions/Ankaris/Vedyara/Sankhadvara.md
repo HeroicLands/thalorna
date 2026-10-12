@@ -6,6 +6,7 @@ subType: feature
 description: "The conch-door—the easternmost and worst of the crossings, under Kālashikhara, watched from the one standing garrison the temple-republics keep anywhere."
 tags: [pass, military, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

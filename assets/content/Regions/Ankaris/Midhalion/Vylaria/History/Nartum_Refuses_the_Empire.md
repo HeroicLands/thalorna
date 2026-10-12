@@ -8,6 +8,7 @@ subType: history
 description: "About 224 AF, after the Ústaran Schism, the Augustar Kàromphôs declines to proscribe the Black Flame; Nartûm's high priesthood withdraws from imperial obedience, anoints its own king, Dharonôs, and raises the Order of the Sacred Flame to hold its walls."
 tags: [history, vylaria, ageconquest]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: break

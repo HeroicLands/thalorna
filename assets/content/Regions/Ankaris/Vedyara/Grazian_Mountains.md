@@ -14,6 +14,7 @@ data:
     - {to: dunharargn, bearing: W}
   population: null
   packFolder: vedyara
+  culture: vedyariclt
 
 # terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tānvür, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
 ---

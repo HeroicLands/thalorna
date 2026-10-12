@@ -6,6 +6,7 @@ subType: criminal
 description: "Black Lotus Society operating through bureaucratic leverage, moral ledgers, and spiritual manipulation within Tānvür's classification system."
 tags: []
 data:
+  culture: tanvuriclt
   templatePriority: null
   demonym: null
   epithet: null

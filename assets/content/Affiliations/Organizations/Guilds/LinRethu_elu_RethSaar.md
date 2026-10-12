@@ -6,6 +6,7 @@ subType: guild
 description: The scholars attached to the temple of Reth'Sa'âr, who hold the deeper texts and decide who may read them
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

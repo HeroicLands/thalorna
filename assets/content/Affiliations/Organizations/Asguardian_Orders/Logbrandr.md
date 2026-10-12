@@ -6,6 +6,7 @@ subType: order
 description: "Combat and justice at Eidgar's hofs."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

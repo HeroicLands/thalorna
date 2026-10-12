@@ -2,10 +2,10 @@
 shortcode: elavendreadvguide
 name: {full: Élavendre Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to Élavendre—its houses and bards, the tree line the crown does not cross, and the ways a campaign begins there.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: elavendriclt}
 ---
 
 > Morning comes up the Bérav as a white mist, and your barge slides out of it under the first of the bridges. The arch is pale stone furred with a trained vine, its leaves still beaded with the night's rain, and the drip from them runs cold down your collar. On the quays of Béravel the bargemen in oiled gray wool walk their poles back along the gunwales without a word, and a crane creaks as it swings a bale of hill fleece onto the stones. The air smells of river weed, wet slate, and the woodsmoke of a glasshouse furnace somewhere upstream. Above the warehouses, towers of the same pale stone climb out of the mist with gardens on their terraces, and the gardens run into the wood behind the city without a wall to say where one stops.

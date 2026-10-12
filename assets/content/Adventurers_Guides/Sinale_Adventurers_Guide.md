@@ -2,10 +2,10 @@
 shortcode: sinaleadvguide
 name: {full: Sinalë Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A short player and GM introduction to the Sinalë—the elder people of the deep forests, met at the edge of their enclaves through Áelendan intermediaries, and the ways a campaign reaches them.
 tags: [draft]
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: sinaleclt}
 ---
 
 > The last hour of the climb is open ground, a long grass slope between birches with nowhere to hide on it, and you understand halfway up that you have been watched since you left the trees. The sun is down behind the passes. The sky over the high wood is the deep clear blue of a lake in shadow, and the first stars are out, though the light on the slope does not fade the way evening light should; the birch trunks hold a pale shine, as if the moon had already risen behind you. The air smells of crushed fern and cold water. Your boots are soaked with dew, your breath smokes, and the only sound is a stream you cannot see and the creak of the Áelendan escort's bow case as she walks ahead of you.

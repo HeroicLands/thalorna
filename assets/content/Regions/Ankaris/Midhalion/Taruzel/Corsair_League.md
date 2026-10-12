@@ -5,6 +5,7 @@ type: affiliation
 subType: guild
 description: "Tarûzelian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 data:
+  culture: taruzelianclt
   templatePriority: null
   demonym: null
   epithet: null

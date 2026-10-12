@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Tānvüri celestial bureaucracy where gods are appointed officials, magic is classified, and cosmic order requires unceasing administrative work."
 tags: [pantheon, celestial-order, religion]
 data:
+  culture: tanvuriclt
   banner: faithbnr
   templatePriority: null
   demonym: null

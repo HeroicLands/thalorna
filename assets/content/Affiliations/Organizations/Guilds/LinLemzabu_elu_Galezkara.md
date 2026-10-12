@@ -6,6 +6,7 @@ subType: guild
 description: The stewards of the great houses of Galezkara, meeting to compare suppliers, wages and the handling of masters who cannot be told anything
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: criminal
 description: "A band holding the desert around certain sealed temples, and killing those who come looking for what the wards protect"
 tags: [generated]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   governance:
     model: stratocracy

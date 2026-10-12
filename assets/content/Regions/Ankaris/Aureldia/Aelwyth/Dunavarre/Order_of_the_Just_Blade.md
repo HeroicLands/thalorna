@@ -6,6 +6,7 @@ subType: order
 description: "A militant order of the Faith of Árdavon, god of order and justice."
 tags: []
 data:
+  culture: aelwythanclt
   templatePriority: null
   demonym: null
   epithet: null

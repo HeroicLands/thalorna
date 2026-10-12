@@ -6,6 +6,7 @@ subType: guild
 description: "Khelâthi temple-treasury institution—the network of priestly account-houses attached to the great temples of Aû'Khelâthu that attest the weight-pieces, hold the granaries, maintain the ledgers, and issue the chits that constitute the Northern Fertile Region's banking infrastructure."
 tags: [organization, khelathu, xerathia, temple, treasury, religion]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   templatePriority: null
   demonym: null

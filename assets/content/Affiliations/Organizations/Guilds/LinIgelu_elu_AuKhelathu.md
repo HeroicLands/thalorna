@@ -6,6 +6,7 @@ subType: guild
 description: The chartered body of the empire's rivermen and sea-captains, setting the standards of seamanship and the safety of cargo, and speaking for its members against the merchant houses
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

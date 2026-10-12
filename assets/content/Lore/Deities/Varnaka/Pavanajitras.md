@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Wandering Wind of the Varnaka pantheon—travelers, and the sail that carries them."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _[[affiliation-pavanajitras|The Wandering Wind]]—a loose company of gauze-robed figures running barefoot, scarves streaming._

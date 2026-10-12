@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "Thrúnvald’s legendary hammer, a weapon of cosmic defense and a sign of protection and blessing."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 When the thunder comes up the seamount on [[place-thrumufjall|Thrumufjall]], the hof says it is the hammer, and a Storm-Speaker who reads the storm does not argue with the hof. **Thrúnhamarr** is the hammer of [[lore-thrunvalddty|Thrúnvald]], depicted as powerful enough to crush mountains and summon thunder and lightning. The [[affiliation-thrunvald|faith]] treats it as the god's weapon against the forces pressing on the ordered world and as a tool of blessing and protection, so that battle and the sanctifying of ships meet in one symbol. The hammer stone stands for that strength and that protection.

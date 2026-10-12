@@ -6,6 +6,7 @@ subType: history
 description: "From 660 AF, when the Nordmen took Stormveld and needed thralls by the tens of thousands, captives went down Vrystwald's rivers by the boatload; Waldburg grew past every limit, and about 672 a killing at its crowded market gave the market peace its present form and its first Frithmund."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: rivers

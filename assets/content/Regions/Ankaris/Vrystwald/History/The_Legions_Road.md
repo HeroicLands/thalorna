@@ -6,6 +6,7 @@ subType: history
 description: "From about 120 AF the Vylarian Empire cut a road north out of Moktur into the Vrystwald and raised forward posts along it; it bought the War Chiefs nearest the road about 200–260, lost a legion at Skathhreth in 291, and gave the posts up about 340, and the road is the Blackpine Wolves' hunting ground now."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: road

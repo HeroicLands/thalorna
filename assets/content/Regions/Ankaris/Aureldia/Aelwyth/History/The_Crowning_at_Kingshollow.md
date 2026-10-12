@@ -6,6 +6,7 @@ subType: history
 description: "About 120 AF the eastern barons of Aelwyth accepted Bréthar of Kingshollow, one of their own, as king; the kings of Aldorath are crowned in the same chapel and buried in the same ground."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~120

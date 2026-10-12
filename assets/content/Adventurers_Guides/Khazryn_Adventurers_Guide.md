@@ -2,10 +2,10 @@
 shortcode: khazrynadvguide
 name: {full: Khazryn Desert Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Khazryn Desert—the camel road to Tānvür and the independent tribes who sell it a stretch at a time, the owned waters, the ruins and the four blood lands, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: sowidesclt}
 ---
 
 > On the seventh morning out from the last caravanserai of the Eastern March, the frost is still white on the grass when the camels are made to kneel. Ninety of them wait along the track, shaggy two-humped beasts shedding their winter wool in brown clumps, loaded with silver in sealed bags and amber packed in straw, and behind them a herd of horses steams and stamps. The air smells of dung smoke, crushed wormwood and wet felt. On a rise above a spring stand a dozen black tents and a pole with a horse skull lashed to its top, its empty eyes turned west toward you. Below them a boy whistles a flock of sheep away from the water, two women strain mare's milk through a cloth, and an old man with one gray braid sits on a saddle by a tent door, knotting a cord as he counts your camels.

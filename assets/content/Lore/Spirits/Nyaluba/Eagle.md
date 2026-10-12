@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The eagle-guide of the Ngonzi as a being—the carrier between worlds, and the only guide that deals routinely with the stone-builder dead."
 tags: [draft, nyaluba]
-data: {packFolder: lorespiritsnyaluba}
+data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Ngonzi]]. For the cult, its

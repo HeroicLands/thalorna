@@ -6,6 +6,7 @@ subType: order
 description: "Witnesses and mediators of Eidgar's sworn oaths."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

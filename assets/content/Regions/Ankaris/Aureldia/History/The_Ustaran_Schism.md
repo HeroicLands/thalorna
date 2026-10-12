@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "The five-hundred-year-old split of the Aurèldían Ústaran over the god's true nature, which produced the Sacred Forge and the Black Flame and the enmity between them."
 tags: []
-data: {packFolder: aureldia}
+data: {packFolder: aureldia, culture: aureldianclt}
 ---
 
 **Ústaron** the Forge-Lord holds both aspects of flame at once—the forge that shapes and the inferno

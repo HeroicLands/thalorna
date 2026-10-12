@@ -4,7 +4,7 @@ name: {full: Héx Hodäi Incantations, aliases: []}
 type: lore
 subType: arcana
 tags: [lore, arcane, hex-hodai, draft]
-data: {packFolder: affiliationshexhodai}
+data: {packFolder: affiliationshexhodai, culture: vylarianclt}
 ---
 
 ## Pyréthos (Fire)

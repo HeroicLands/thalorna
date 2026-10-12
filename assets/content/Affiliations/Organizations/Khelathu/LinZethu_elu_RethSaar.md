@@ -6,6 +6,7 @@ subType: governmental
 description: "The empire's meritocratic engine: the schools where scribes are made, which take pupils on ability and produce the administrators the state runs on"
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

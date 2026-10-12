@@ -6,6 +6,7 @@ subType: order
 description: "Love and beauty counseled in Sólrún's name."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

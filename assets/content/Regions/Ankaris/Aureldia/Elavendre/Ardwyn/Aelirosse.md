@@ -12,6 +12,7 @@ data:
   population: 120
   government: nclvlrss
   packFolder: elavendre
+  culture: sinaleclt
 ---
 
 **Aelirossë**, as it is called in [[skill-elvndrlng|Élavendri]], lies deep in the [[place-silvrfrsts|Silver Forests]], within the

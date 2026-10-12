@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The ancient rite that seals Njörven away—worked at a hidden coastal temple with all three regalia, requiring spiritual and material preparation and an invoker who must be protected throughout."
 tags: [ritual, nordlands]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 The rite that binds the Sea Wraith is not for the strong; it is for the patient, and for the ones who stand around the patient. The **Ritual of Binding** is the rite by which [[being-njorven|Njörven]] is sealed away. It is the object of [[scenario-groascmpgn|Gróa's Campaign]], and the campaign's final act consists of getting it performed.

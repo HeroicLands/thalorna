@@ -6,6 +6,7 @@ subType: calendar
 description: "How the steppe tribes count years: from the last orqwenoq to rise, so that each great union opens a new count and the year is named for the banner it flew under."
 tags: [reference, calendar]
 data:
+  culture: khazrynclt
   epoch: "-190.1"
   months:
     - {name: Welqat, abbreviation: Wel, days: 91}

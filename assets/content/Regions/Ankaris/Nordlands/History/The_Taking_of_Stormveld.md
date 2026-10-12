@@ -6,6 +6,7 @@ subType: history
 description: "In 660 AF King Vruthorv of Nordheim sent the fleets of Nordheim, Norgaad and Vithgard over open sea to the north-east of Aelwyth, where Nordmen traders had long kept landings, and took the Vardain plain in one season; its people were enslaved, the Vardain's old friendship with the Khazári of Vorgald was destroyed, and the Jarldom of Stormveld has held the plain since."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: taking

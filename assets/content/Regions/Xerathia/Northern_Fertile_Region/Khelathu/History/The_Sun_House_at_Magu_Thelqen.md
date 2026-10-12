@@ -6,6 +6,7 @@ subType: history
 description: "From 1790 to 1822 ST (321 to 289 BF) the house of Thelqen'Rêlu laid out Magu-Thelqen as a new capital, ruled from it for a generation and pressed the doctrine that every temple's god is Uqa'â; the temples of Qe'âret and Reth'Sa'âr refused, the court went home to Galezkara and the city emptied."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -321

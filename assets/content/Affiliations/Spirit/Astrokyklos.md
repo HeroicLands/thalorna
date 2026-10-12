@@ -5,6 +5,7 @@ type: affiliation
 subType: spirittradition
 tags: []
 data:
+  culture: vylarianclt
   icon: null
   templatePriority: null
   demonym: null

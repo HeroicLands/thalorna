@@ -4,7 +4,7 @@ name: {full: Caste Laws, aliases: []}
 type: lore
 subType: law
 description: "The Zhāklüt of Tānvür—the laws that fix each of the eight castes' rights, duties and restrictions, the census and the classification tablet that enforce them, and the standing of a foreigner or an Elder who falls outside them."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 A district magistrate breaking in a new clerk gives him the law of the [[affiliation-tanvurempr|Empire of Tānvür]] in one sentence before he lets him touch a brush: everyone who comes through that door is one of eight things, and the first question you answer about any of them is which. The **Zhāklüt**, the Caste Laws, are the foundation of Tānvüri society. They fix the rights, duties and restrictions of each caste, so that the social order and the cosmic order stay in step, and they are enforced with punishments that are severe and often fatal, above all where magic is concerned. [[lore-zeisik|Law and Honor]] describes the courts that enforce them and the penalties they hand down.

@@ -6,6 +6,7 @@ subType: faithtradition
 description: The house of Uznêra, goddess of fertility and of the balanced partnership that makes creation possible
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

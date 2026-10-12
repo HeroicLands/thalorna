@@ -6,6 +6,7 @@ subType: criminal
 description: "Financial crime network born from Tarûzel's post-independence chaos, controlling money laundering, debt bondage, and the leverage that wealthy secrets provide."
 tags: []
 data:
+  culture: taruzelianclt
   templatePriority: null
   demonym: null
   epithet: null

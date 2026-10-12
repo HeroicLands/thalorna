@@ -6,6 +6,7 @@ subType: guild
 description: The smiths of Galezkara, distinct from the imperial guild and answering to their own masters and to the city
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

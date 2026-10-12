@@ -6,6 +6,7 @@ subType: history
 description: "About 34 AF the second Augustar, Arkânamos, makes citizenship the reward of twenty years under the eagles and ties the grain dole and the right to live inside the pomerium to it, leaving the nobility the only citizens by birth."
 tags: [history, vylaria, firstaugs]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: law

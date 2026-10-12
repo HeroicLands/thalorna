@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Fire (creative aspect)."
 tags: [aureldian, religion, sacred-forge]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: sacredforge
   templatePriority: null

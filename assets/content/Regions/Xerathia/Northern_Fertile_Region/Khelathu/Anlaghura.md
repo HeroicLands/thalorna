@@ -5,7 +5,7 @@ type: place
 subType: site
 description: "An ancient monolith standing alone in the Târga River Valley, carrying a prophecy in runes older than the empire's reading of them"
 tags: [generated]
-data: {packFolder: regkhsite}
+data: {packFolder: regkhsite, culture: khelathiclt}
 ---
 
 "Read it aloud," an astrologer of the temple libraries tells a student kneeling at the foot of the monolith, and the student can, sign by sign. "Now tell me what it says." That is the whole lesson of **Anlaghura**.

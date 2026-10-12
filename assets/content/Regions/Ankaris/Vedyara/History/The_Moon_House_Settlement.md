@@ -6,6 +6,7 @@ subType: history
 description: "About 312 AF Chandrapur's temples refused to crown the dead king's son, Ratnasūra, and the nine great cutting houses brokered a cousin, Elvunātha, onto the throne on their terms: nine seats of one height, each House's quarter its own, the crown's revenue the tenth district."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~312

@@ -6,6 +6,7 @@ subType: fellowship
 description: The children of a retired master locksmith, who hold that the craft and its reputation should have passed to them and spread what they can against the man it passed to instead
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

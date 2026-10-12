@@ -2,10 +2,10 @@
 shortcode: khelathuadvguide
 name: {full: Aû'Khelâthu Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the river empire of Aû'Khelâthu—its flood, its writing, its gods, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: khelathiclt}
 ---
 
 > At dawn, after days upriver from the sea, the air smells of wet rope and river mud. The flood has fallen; people walk the black silt where their fields are coming back to light. Then Galezkara rises ahead of you: mudbrick houses crowd the banks, but across the water the sacred island's white walls catch the first gold of the sun. Behind them, stone pylons frame temple courts, and obelisks rise above the walls. Dry desert begins beyond the green riverbanks.

@@ -6,6 +6,7 @@ subType: literature
 description: "The Sinalë lament sung in the Hallowwood when word comes from the north: five of the dead of Haulonna called by their worn names, the night the runes were cut told plainly, the long-watcher left uncalled at his watch, and the line that ends every lament left unsung until the valley is loosed."
 tags: [draft, sinale]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   form: nelthava
   subjects:

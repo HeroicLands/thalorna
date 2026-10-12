@@ -6,6 +6,7 @@ subType: guild
 description: The goldsmiths of Galezkara, whose work passes into the temples and the tombs and whose standards are guarded jealously
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: history
 description: "In 1990 ST (121 BF) the third sea-raider Gar-Aû died and the priesthood raised the house of Gezer'Quru; its first Gar-Aû, Gez'Uzner I, made the rule that an unweighed cargo is contraband and built a navy that guards the delta's mouths and goes no farther."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -121

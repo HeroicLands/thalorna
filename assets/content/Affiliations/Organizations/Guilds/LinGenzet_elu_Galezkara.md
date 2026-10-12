@@ -6,6 +6,7 @@ subType: guild
 description: The advocates of Galezkara, who argue before the courts and examine those who would join them
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

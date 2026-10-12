@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Convicted of breaking the truth of the recital, the arm-ring broken at the next Skaldating, in the Skalds' Circle."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 The Circle has broken a skald's silver arm-ring perhaps seven times in living memory, and the offense is the same: reciting falsely what the skald was summoned to witness.

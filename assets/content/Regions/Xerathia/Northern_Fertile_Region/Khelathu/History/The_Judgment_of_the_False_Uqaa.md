@@ -6,6 +6,7 @@ subType: history
 description: "In 268 AF the Thâz'Lekhau of Uqa'â judged the last Gar-Aû of the struck house at the Great Temple, and the king who had claimed to be the god was sealed living into his tomb and struck from every wall."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: 268

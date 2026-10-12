@@ -6,6 +6,7 @@ subType: governmental
 description: "Druidic conclave of grove-elders governing wild magic, fae-touched land, and the rural custom that predates the Ordo Arcanis across the forests of Élavendre."
 tags: []
 data:
+  culture: elavendriclt
   templatePriority: null
   demonym: null
   epithet: null

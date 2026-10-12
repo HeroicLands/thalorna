@@ -6,6 +6,7 @@ subType: lineage
 description: A noble household of long standing whose master has kept the same servants for decades, and where a missing seal-ring is a matter of real consequence
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

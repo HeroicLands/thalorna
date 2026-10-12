@@ -6,6 +6,7 @@ subType: guild
 description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Guild of Taking alike."
 tags: [organization, vedyara, intelligence, courtesan, underworld]
 data:
+  culture: vedyariclt
   templatePriority: null
   demonym: null
   epithet: null

@@ -8,6 +8,7 @@ subType: venture
 description: "The Vylarian Empire's legion-based military—organized in two parallel tracks, the purchased-commission nobility and the pure-meritocracy career soldiery, bridged at the Praefar Castorum rank and bound together by an institutional culture that treats every junior noble as the pupil of his unit's senior centurion."
 tags: [organization, vylaria, military, imperial, overview]
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

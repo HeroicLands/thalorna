@@ -560,6 +560,7 @@ Every name of every note in the region stands here with the note it names and it
 | Atarzadi Language                             | [[skill-atarzadilng\|Ātárzādi Language]]                           | `faith`   | an unmarked spelling of the above                         |
 | Khazryn Lexicon                               | [[doc-khazrynlex\|Khazryn Lexicon]]                                | `gloss`   | a glossed name on `Khazryn`                               |
 | Khazryn Word List                             | [[doc-khazrynlex\|Khazryn Lexicon]]                                | `gloss`   | a glossed name on `Khazryn`                               |
+| Tellumi Adventurer's Guide                    | [[doc-tellumiadvguide\|Tellumi Adventurer's Guide]]                | `gloss`   | a glossed name on `Tellumi`                               |
 | Khazryn Desert Region                         | [[place-khzryndsrtrgn\|Khazryn Desert Region]]                     | `gloss`   | a glossed name on `Khazryn`                               |
 | Khazryn Desert                                | [[place-khzryndsrtrgn\|Khazryn Desert Region]]                     | `gloss`   | a glossed name on `Khazryn`                               |
 | Khazryn                                       | [[place-khzryndsrtrgn\|Khazryn Desert Region]]                     | `kept`    | the region's name, which stands outside the three tongues |
@@ -648,6 +649,7 @@ Every name of every note in the region stands here with the note it names and it
 | Atarzad                                       | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `faith`   | —                                                         |
 | The Flame-born                                | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `gloss`   | —                                                         |
 | The Twelve Tribes                             | [[affiliation-tribestrzd\|Tribes of Ātárzád]]                      | `gloss`   | —                                                         |
+| The Twelve Years                              | [[lore-twelveywar\|The Twelve Years]]                              | `gloss`   | —                                                         |
 | Âzardan                                       | [[affiliation-zrdntrb\|Âzardan]]                                   | `older`   | a name older than the rules                               |
 | Dûrmand                                       | [[affiliation-drmndtrb\|Dûrmand]]                                  | `older`   | a name older than the rules                               |
 | Sahri                                         | [[affiliation-sahritrb\|Sahri]]                                    | `older`   | a name older than the rules                               |

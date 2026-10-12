@@ -4,7 +4,7 @@ name: {full: Vëi Zhāt Rëit, aliases: [The Jade Fan Dance]}
 type: lore
 subType: custom
 description: "The Jade Fan Dance—the game of intrigue at the Tānvüri court, its players and weapons, the secret faction called the Emperor's Shadow, and what winning and losing cost on the moral ledger."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 An old court secretary, asked by a young Vüshōk officer newly posted to the capital how to survive the palace, told him to watch the fans. A lady who closes hers in the middle of a sentence has just changed sides, he said, and the minister she was speaking to will learn it a month from now, when his petition comes back unsealed. The **Vëi Zhāt Rëit**, the Jade Fan Dance, is the game of political intrigue played at the court of the [[affiliation-tanvurempr|Empire of Tānvür]] by the noble houses, the great officials and the senior ranks of the administration. It is a war without open battle, fought with information, deception, alliance and betrayal, and its stakes run past power and wealth to the [[lore-celestlrdr|moral ledger]] of whole families, the strength of their [[lore-ancstrwrshp|ancestor spirits]] and, at the extreme, their place in the classification itself.

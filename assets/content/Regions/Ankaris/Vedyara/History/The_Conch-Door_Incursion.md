@@ -6,6 +6,7 @@ subType: history
 description: "About 320 AF an adventurer with Tānvüri backing brought a few hundred men over the conch-door and took a string of eastern janapadas, and the Mahā-Sangha raised the third and last army of its history to put him out."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~320

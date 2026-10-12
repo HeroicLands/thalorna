@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's musicians and singers, which its members attend sporadically and invoke constantly
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

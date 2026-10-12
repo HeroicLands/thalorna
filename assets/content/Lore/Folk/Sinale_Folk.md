@@ -7,7 +7,7 @@ type: lore
 subType: folk
 description: "The Firstborn elder race: tall, immortal folk of forest and starlight, vanishingly rare and withdrawn from human affairs."
 tags: [lore, lineage]
-data: {packFolder: settinglore}
+data: {packFolder: settinglore, culture: sinaleclt}
 ---
 
 - **Common Names:** The Elder Folk, the Firstborn, the Star-Kindled, the Twilight People

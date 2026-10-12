@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Order."
 tags: [aureldian, religion, ardavon]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: ardavon
   templatePriority: null

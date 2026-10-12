@@ -6,6 +6,7 @@ subType: criminal
 description: "Rogue Shadow Sect of escaped Vëndük sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
 tags: []
 data:
+  culture: tanvuriclt
   templatePriority: null
   demonym: null
   epithet: null

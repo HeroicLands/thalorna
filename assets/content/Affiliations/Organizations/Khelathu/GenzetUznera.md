@@ -6,6 +6,7 @@ subType: governmental
 description: The council governing the holdings and the observances of Uznêra's temple
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

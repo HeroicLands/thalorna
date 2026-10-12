@@ -6,6 +6,7 @@ subType: history
 description: "About 403 AF the dole fails in Ôrzâra, the Circles riot, the Watch loses the valley wards and fire runs from the Warrens over Mons Vétus for six days; the Old Hill's families move to Mons Lauríne and do not go back."
 tags: [history, vylaria, threeeagles]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: burning

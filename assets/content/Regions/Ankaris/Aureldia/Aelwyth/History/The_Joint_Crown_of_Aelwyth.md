@@ -6,6 +6,7 @@ subType: history
 description: "About 1585 BF the Sinalë of the southern forest and the Khazári of the Ironfells raised one crown over the whole of Aelwyth, held by a Sinalë king and governed by both peoples, and kept it for six centuries."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~-1585

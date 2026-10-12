@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The red waste: fire, drought, storm, endurance, plague, and the wandering."
 tags: [generated, draft]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 The empire's gold, its building-stone and its roads all come out of the Red. **Gezru'lutu**, the red waste, holds fire, drought, storm, endurance, plague and the wandering. It is the desert half of the [[lore-khelunulekha|Khelunu Lekhau]]'s account of the world, set against the river's fertile half, and it governs what the river's blessing does not.

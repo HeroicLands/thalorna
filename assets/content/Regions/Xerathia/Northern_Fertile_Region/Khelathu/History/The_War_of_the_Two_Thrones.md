@@ -6,6 +6,7 @@ subType: history
 description: "From 1525 ST to 1531 ST the Galezkara house of Zu'Magetu fought the Gar-Aû of Lenen-Nezut up and down the river, and the war ended in the wheatland of Iqeru with the death of Zab'el'Psaqa III and the crowning of Quz'el'Qar I at Galezkara."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -586

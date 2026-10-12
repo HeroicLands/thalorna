@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's hunters, licensing the taking of game and the handling of dangerous beasts
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Keeper of Decay in the Varnaka pantheon, holding the wilting of what has flowered and the return that follows it."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _The Keeper of Decay—a serene older woman crowned with wilting blossoms, holding a shallow bowl of gathered petals and dew._

@@ -4,7 +4,7 @@ name: {full: Mandate of Heaven, aliases: []}
 type: lore
 subType: theology
 description: "The Mandate of Heaven—the appointment by which the Tānvüri imperial line administers the mortal world, held on condition and open to review, and the turning view of history it teaches."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 When the river burst its dikes in the third year of the present reign, the court's first question was not how many had drowned but whose filing had lapsed. The **Mandate of Heaven** (_Tëngvōr_) is the doctrine on which the [[affiliation-tanvurempr|Empire of Tānvür]] rests: the appointment of the imperial line to administer the mortal plane, issued by the celestial bureaucracy and open to review. It is an appointment, not a blessing, a covenant or a promise, and an appointment can be withdrawn.

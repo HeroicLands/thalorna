@@ -6,6 +6,7 @@ subType: guild
 description: A body of performers and artists under the patronage of Thubâ'i, whose temple funds the work and takes a share of the acclaim
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

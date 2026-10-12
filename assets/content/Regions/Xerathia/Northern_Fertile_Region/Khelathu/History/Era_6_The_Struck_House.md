@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "2281 to 2378 ST (171 to 268 AF): the century of six reigns kept under struck names, the failing floods, the rising at the granaries and the judgment that struck a house from every wall."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 The **Struck House** is the shortest age the Keepers teach, and the only one that ends with a sentence of the temple. A schoolroom in the valley gives it to the children last and says the least about it: the house the necropolis calls Gar-Zin'el'Rêlu, six reigns, and a name that is never spoken. The reigns are not missing from the list. The years stand in it, counted and unnamed, and the formulas around them show the shape of what the temple chose not to say.

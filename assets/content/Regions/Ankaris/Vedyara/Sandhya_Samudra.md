@@ -15,6 +15,7 @@ data:
     - {to: xerathia, bearing: W}
   population: null
   packFolder: vedyara
+  culture: vedyariclt
 ---
 
 ## Overview

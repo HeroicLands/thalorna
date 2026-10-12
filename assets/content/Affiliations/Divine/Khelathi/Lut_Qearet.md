@@ -6,6 +6,7 @@ subType: faithtradition
 description: The house of Qe'âret, whose order is the order of the world
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

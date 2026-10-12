@@ -6,6 +6,7 @@ subType: order
 description: "Combat and protection at Thrúnvald's coastal hofs."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

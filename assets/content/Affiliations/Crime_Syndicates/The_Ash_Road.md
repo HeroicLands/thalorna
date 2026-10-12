@@ -6,6 +6,7 @@ subType: criminal
 description: "Desert caravan syndicate commanding vast interior territory through drug trafficking, antiquities smuggling, and tribal guides the empire cannot replace."
 tags: []
 data:
+  culture: dunhariclt
   templatePriority: null
   demonym: null
   epithet: null

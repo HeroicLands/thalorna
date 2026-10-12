@@ -6,6 +6,7 @@ subType: history
 description: "Targud's frontier memory and the disputed tale of Vrellbrandr, the sword bound behind its king's seat."
 tags: []
 data:
+  culture: nordheimnclt
   packFolder: targud
   events:
     - id: vrellbrandr

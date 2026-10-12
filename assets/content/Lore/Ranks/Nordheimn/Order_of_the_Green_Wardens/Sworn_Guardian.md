@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The working warden of the Order of the Green Wardens, holding a station or riding circuit relief."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A Sworn Guardian works the harvest and the calving beside the households in his care and stands at their door when bandits, beasts or raiders come. He will not take up a household's own quarrel as his own.

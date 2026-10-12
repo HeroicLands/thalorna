@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's locksmiths, which shares its name with the society of thieves that studies its work, and does not find the coincidence amusing
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: polity
 description: "The small kin-groups of the deep sands who keep waters nobody else knows and hire out as guides."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

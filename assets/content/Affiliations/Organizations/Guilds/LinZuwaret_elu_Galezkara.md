@@ -6,6 +6,7 @@ subType: guild
 description: An informal association of independent traders of the capital who meet to share information and coordinate against the larger commercial houses
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

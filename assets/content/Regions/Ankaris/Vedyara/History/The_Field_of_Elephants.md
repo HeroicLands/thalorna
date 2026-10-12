@@ -6,6 +6,7 @@ subType: history
 description: "About 270 AF a coalition under Gomārga came down off the plateau against the river kingdom of Purnatīra; both lines broke among the war-elephants, the dead were left to the rains, and the slope became Gajasthalī, the second shorukshetra in Vedyara."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~270

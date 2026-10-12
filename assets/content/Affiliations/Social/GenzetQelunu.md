@@ -6,6 +6,7 @@ subType: fellowship
 description: A discreet society whose members trade in what people would rather not have known, and who keep their own names out of the ledgers they compile
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

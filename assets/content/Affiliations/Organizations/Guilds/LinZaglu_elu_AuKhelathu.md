@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the makers of figures and mechanisms
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

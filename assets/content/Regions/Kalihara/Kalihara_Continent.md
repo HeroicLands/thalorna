@@ -12,6 +12,7 @@ data:
   population: 3000000
   packFolder: kalihara
   government: kalihara
+  culture: kaliharanclt
 
 # terran_analog: "A large tropical island in the western ocean, about 400 by 370 miles, lying 450 to 700 miles west of Okháris and Provènzia, off the mouth of the strait between the two continents (think of a landmass the size of the British Isles set where the Azores are, relative to a Mediterranean whose only door opens west). No real-world counterpart; the closest analog in mythic terms is Atlantis as Plato describes it, a known and inhabited island that has chosen to remain insular. The prevailing wind blows from the continents toward the island for most of the year, so the outbound run is a week downwind and the return is a long beat or a swing south toward a band of equatorial calms."
 ---

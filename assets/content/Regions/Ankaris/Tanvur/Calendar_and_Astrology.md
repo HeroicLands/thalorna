@@ -5,6 +5,7 @@ type: lore
 subType: calendar
 description: "The two calendars of Tānvür—dynastic year-naming for law and trade, and the Celestial Calendar of Generations, phases and spirit animals—with the months and festivals of the year."
 data:
+  culture: tanvuriclt
   epoch: "-6239.1"
   months:
     - {name: Jëityüt, days: 30}

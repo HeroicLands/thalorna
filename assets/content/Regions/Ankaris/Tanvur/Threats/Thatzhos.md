@@ -4,7 +4,7 @@ name: {full: Thātzhös, aliases: []}
 type: lore
 subType: bestiary
 description: "Reptilian pack-hunters, taller than a man and nearly proof against ordinary steel, loosed from the deep earth by the great earthquake in the empire's northwest."
-data: {packFolder: threats}
+data: {packFolder: threats, culture: tanvuriclt}
 ---
 
 A Sinalëan scout who saw the first pack says the ground had not stopped moving when they came up out of it: tall as a man at the shoulder, gray-green and fast, five of them running in a line along a fresh fault as if they had been born knowing the ground. The **Thātzhös** ("mountain dragon") are the predators the great earthquake loosed on the remote northwest of the [[affiliation-tanvurempr|Empire of Tānvür]], the country the [[lore-flksinale|Sinalë]] hold in their old forests and the [[lore-flkkhazar|Khazári]] in their mountain strongholds, and they are the one threat in the empire's reckoning that nobody filed a petition against, because nobody knew they existed.

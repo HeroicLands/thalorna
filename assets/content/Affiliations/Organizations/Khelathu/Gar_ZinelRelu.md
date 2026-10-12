@@ -6,6 +6,7 @@ subType: lineage
 description: A dynasty whose last Gar-Aû was struck from every wall for blasphemy and a hidden famine, and was himself sealed living into his tomb
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

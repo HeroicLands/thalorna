@@ -6,6 +6,7 @@ subType: history
 description: "In 268 AF the Halzi'a of Anlagh-Zetûn raised the upper river and the temple levies against the guard of the false god-king, broke the granary gates, and sealed the dead of both sides in an emptied granary without rites."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: 268

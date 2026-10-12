@@ -4,7 +4,7 @@ name: {full: Five Elemental Lords, aliases: []}
 type: lore
 subType: deity
 description: "The five bureau chiefs of Tānvür's Celestial Order who keep the material domains—Air, Fire, Earth, Metal and Water—and the petitions each one receives."
-data: {packFolder: celestialorder}
+data: {packFolder: celestialorder, culture: tanvuriclt}
 ---
 
 A ship's captain in a Tānvüri port burns a petition to the Bureau of Air before he sails, a smith burns one to the Bureau of Transformation before he lights a new forge, and neither of them would call it prayer. The **Five Elemental Lords** are the bureau chiefs of the [[lore-clstlpnthn|Celestial Pantheon]], each holding the portfolio of one of the five material domains that make up the physical world in the faith of the [[affiliation-tanvurempr|Empire of Tānvür]]. They were appointed at the Great Sorting to keep the elements in their categories and the physical world from dissolving back into the Hürnlëi, and the Tānvüri petition them as they would petition a magistrate.

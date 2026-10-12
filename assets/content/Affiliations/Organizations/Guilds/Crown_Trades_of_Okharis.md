@@ -8,6 +8,7 @@ subType: guild
 description: "Royal-chartered trade guilds operating from the three temple-cities of Okháris—small in number, prestigious in standing, mediating between the settled-urban commercial economy and the nomadic-pastoralist hinterland; use Khelâthi currency through correspondent banking arrangements."
 tags: []
 data:
+  culture: okharinclt
   templatePriority: null
   demonym: null
   epithet: null

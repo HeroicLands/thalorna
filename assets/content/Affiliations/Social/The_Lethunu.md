@@ -6,6 +6,7 @@ subType: fellowship
 description: Those within a guild pressing to change what the old guard holds settled, and presiding over the most contentious internal politics in a generation
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

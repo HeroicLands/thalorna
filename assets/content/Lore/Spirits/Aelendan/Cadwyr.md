@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Presiding wolf-spirit of a ridge in the Drenavar Spine—the hunt-rite's usual addressee, and a hard reciprocator."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

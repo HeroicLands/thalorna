@@ -6,6 +6,7 @@ subType: fellowship
 description: Priests of the stricter observances who hold that the old forms are the only forms, and who treat any accommodation of scholarship or novelty as an injury to the gods
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

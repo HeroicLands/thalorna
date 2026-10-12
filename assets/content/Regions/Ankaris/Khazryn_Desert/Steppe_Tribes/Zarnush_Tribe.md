@@ -6,6 +6,7 @@ subType: polity
 description: "A middling steppe tribe of three hundred families on three wells, boxed in by stronger neighbors and sustained by caravan tolls."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

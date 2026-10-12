@@ -6,6 +6,7 @@ subType: polity
 description: "A raiding tribe of the southern steppe that takes captives for ransom and measures its neighbors by what they cannot defend."
 tags: [draft]
 data:
+  culture: sowidesclt
   templatePriority: null
   demonym: null
   epithet: null

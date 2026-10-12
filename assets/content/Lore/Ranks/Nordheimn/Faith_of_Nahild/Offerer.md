@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "One who has turned to Náhild and brings her offering, holding none of the cult's observances, in the faith of Náhild."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Every other faith of the Ten treats [[affiliation-nahild|Náhild]]'s worship as heresy, so turning to her is already an act. An offerer has turned and brings a hidden hof the offering it asks, and holds none of the cult's secret observances yet.

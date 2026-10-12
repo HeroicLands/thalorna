@@ -6,6 +6,7 @@ subType: history
 description: "In the winter of 718 AF the spring at Chandraprabhava, which had never frozen in the Sūrya temple's record, iced over for nine days and ran again; the slab of Himashilā was unchanged throughout, and the temple has not entered it in the record."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: 718

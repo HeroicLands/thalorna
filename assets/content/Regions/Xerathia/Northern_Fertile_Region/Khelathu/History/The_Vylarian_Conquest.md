@@ -6,6 +6,7 @@ subType: history
 description: "In 377 AF a Vylarian army met the chariot corps at the delta apex, held its line while the corps broke, and had its commander crowned Gar-Aû; the field is the Chariot Field, the one thin blood-field in Aû'Khelâthu."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: 377

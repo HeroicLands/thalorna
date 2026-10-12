@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Bear-spirit of the high corries—warded against in winter and venerated in summer, the same spirit both times."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

@@ -4,7 +4,7 @@ name: {full: Tjelsur, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 _The Crocodile-God._

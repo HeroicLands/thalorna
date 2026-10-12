@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The counselor whose severed head appears beside Ódvar, associated with the well where the god pays an eye for wisdom."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 The first thing taught at [[place-odholm|Ódholm]] is that the All-Father is not wise because he was born wise; he is wise because he paid. The payment was made at **Minnir**'s well, and Minnir himself is the other half of the lesson: in the [[affiliation-odvar|Faith of Ódvar]] he appears as a severed head from whom [[lore-odvardty|Ódvar]] continues to seek counsel.

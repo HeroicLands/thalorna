@@ -6,6 +6,7 @@ subType: order
 description: The priesthood serving Reth'Sa'âr, keeping the archives and the disciplines of the written hand
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

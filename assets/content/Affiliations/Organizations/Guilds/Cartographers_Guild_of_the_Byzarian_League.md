@@ -12,6 +12,7 @@ subType: guild
 description: "Master-trained chartered guild of cartographers and surveyors holding monopoly on military and commercial mapmaking across the Byzarian League—and quietly compromised from within."
 tags: []
 data:
+  culture: byzarianclt
   templatePriority: null
   demonym: null
   epithet: null

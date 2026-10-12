@@ -4,7 +4,7 @@ name: {full: Uqa'â, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-uqaa|Faith of Uqa'â]]{float=top-left size=medium}

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The west wind off the sea—mobile, unreliable, and addressed in the moment rather than kept in pact."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Weather-kin, of [[lore-thekindred|the Kindred]]

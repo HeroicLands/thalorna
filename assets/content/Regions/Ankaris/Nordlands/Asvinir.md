@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The defending kin of the gods in archaic Asguardian liturgy, joined by common cause against Náhild and Svartbrandr."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "Ten gods sit at the table," a godi of a coastal hof tells the newcomers who ask what the old liturgy means by _Ásvinir_, "and the old words name the ones who mean to stand up from it." The word is the archaic liturgical name for the defending kin of the gods, and the old liturgies use it where a newcomer would expect a list of the Ten.

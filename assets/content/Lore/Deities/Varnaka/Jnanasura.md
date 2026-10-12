@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Radiant Sage of the Varnaka pantheon—knowledge arriving rather than knowledge stored, and the interior light a scholar or a soldier reads by."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _[[affiliation-jnanasura|The Radiant Sage]]—an open book blazing with the light of a rising sun._

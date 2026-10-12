@@ -4,7 +4,7 @@ name: {full: Khelunu Lekhau, aliases: [The Eight Powers, The Khelâthi Arcane Tr
 type: lore
 subType: arcana
 tags: [lore, arcane, gethunu-lekhau, khelathi, khelathu]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 ![[icon-khelunulekha|Khelunu Lekhau]]{float=top-left size=medium}

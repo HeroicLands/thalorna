@@ -6,6 +6,7 @@ subType: history
 description: "From 420 to 471 AF Nordheim and Malagna fought for the first place in the north, by raid, by marriage and twice by host; the war ended under the ice of Skalfvatn in 466, where Malagna's king and eleven hundred men went through, and at Asgarthul in 471, where Norgaad's king made the peace that founded the Great Moot."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: outbreak

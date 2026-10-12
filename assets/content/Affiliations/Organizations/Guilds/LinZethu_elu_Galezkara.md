@@ -6,6 +6,7 @@ subType: guild
 description: The scribes of the capital working outside the temple schools, who take private commissions and guard the trade in confidential copying
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

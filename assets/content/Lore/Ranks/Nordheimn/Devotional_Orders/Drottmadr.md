@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The ordinary member of a devotional order of the faiths of the Ten, holding the least standing it confers."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A newly admitted devotee of a devotional order is in: he does the order's work now, under its authority, and he does not speak for it yet.

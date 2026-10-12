@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Western tradition honoring twelve deities governing creation, order, and the cycles of life; split by the Ústaran schism between sacred forge and black flame."
 tags: [pantheon, aureldian, religion]
 data:
+  culture: aureldianclt
   banner: pantheonbnr
   templatePriority: null
   demonym: null

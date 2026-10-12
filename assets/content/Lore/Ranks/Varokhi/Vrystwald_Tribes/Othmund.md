@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Taken in war or bought at the river-landings, answering to the mistress of a household about everything, in the Vrystwald Tribes."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 Taken in war or bought at the river-landings, answering to the mistress of a household about everything, in the Vrystwald Tribes.

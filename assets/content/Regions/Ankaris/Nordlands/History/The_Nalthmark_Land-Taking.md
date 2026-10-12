@@ -6,6 +6,7 @@ subType: history
 description: "In 708 AF Nordheim settlers carried their old hall-posts down the Nalthmark road and planted them at Hrindstead, in an oak grove the Varokh Eichthúl clan holds sacred; they walked the bounds with fire, the Eichthúl burned the first stockade, and the settlers raised a second on the same posts, where it stands."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: taking

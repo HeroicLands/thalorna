@@ -6,6 +6,7 @@ subType: calendar
 description: "How Vylaria's historians divide the years of the Vylarian Calendar into eight ages, from the kings and the Republic before the Founding to the years after the Tamzîr Shoals; the ages name stretches of years, and every year keeps its Vylarian Calendar number."
 tags: [reference, calendar, history, vylaria]
 data:
+  culture: vylarianclt
   epoch: "1.1"
   months:
     - {name: Floralis, abbreviation: Flor, days: 30}

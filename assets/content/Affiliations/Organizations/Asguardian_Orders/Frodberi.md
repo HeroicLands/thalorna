@@ -6,6 +6,7 @@ subType: order
 description: "Mediation and harmony in Fródvin's name."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

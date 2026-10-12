@@ -6,6 +6,7 @@ subType: history
 description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Aû, the priesthood of Reth'Sa'âr fixes the seven hundred signs of the sacred hand and the classical register of the language, and every temple inscription since is cut in them."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: ~-1571

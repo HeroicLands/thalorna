@@ -6,6 +6,7 @@ subType: history
 description: "From 519 to 530 AF the fleets of King Thraskmýl of Nordheim, built in Malagna's yards, went south every summer with the famine behind them: Provènzia's coast and the Gulf of Batáren, where they threw down Yhârvalen Henge and sacked Ménavar Abbey, and Élavendre's north shore, which has refused every treaty since."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: fleets

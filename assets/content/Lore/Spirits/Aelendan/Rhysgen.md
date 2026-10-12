@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Fox-spirit of the lower wood—a thief, a bargainer, and the one Kindred that will renegotiate."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

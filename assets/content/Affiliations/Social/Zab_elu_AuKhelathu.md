@@ -6,6 +6,7 @@ subType: fellowship
 description: The titled families of the empire, who hold land, office and the ear of the court, and who close ranks against outsiders with unusual speed
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

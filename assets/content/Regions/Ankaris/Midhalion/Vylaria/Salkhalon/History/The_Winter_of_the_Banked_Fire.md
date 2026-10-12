@@ -8,6 +8,7 @@ subType: history
 description: "In 523 AF a Malagna crew from the Southern Fleets sailed a captured galley through the western strait to the Sâlkhâlon coast, lost it to a fire that burned the bay, wintered on the headland, and in 524 went to the oars of the imperial fleet; the bay kept their name for it, Braldvík."
 tags: [history, thedrift]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: landing

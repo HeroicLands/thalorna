@@ -12,6 +12,7 @@ data:
   borders: [{to: vedyarargn, bearing: W}, {to: meghsamdra, bearing: SW}]
   population: null
   packFolder: vedyara
+  culture: vedyariclt
 ---
 
 ## Overview

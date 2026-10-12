@@ -8,6 +8,7 @@ subType: criminal
 description: "Underground cartography network of guild-trained mapmakers selling specialized maps for purposes the Cartographers' Guild charter forbids—espionage, smuggling, theft, and the documentation of forbidden territories."
 tags: [organization, underworld, byzaria, cartography, intelligence]
 data:
+  culture: byzarianclt
   templatePriority: null
   demonym: null
   epithet: null

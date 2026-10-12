@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Owl-spirit of Ceridwen's Hollow—keeper of what is spoken at night, and the Kindred shamen consult about the dead."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]

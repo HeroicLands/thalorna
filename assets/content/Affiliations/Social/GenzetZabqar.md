@@ -6,6 +6,7 @@ subType: fellowship
 description: An informal body of the wealthy who fund the arts and the crafts of the capital, and who expect to be consulted on what their money produces
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

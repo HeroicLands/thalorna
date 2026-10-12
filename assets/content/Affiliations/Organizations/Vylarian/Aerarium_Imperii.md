@@ -6,6 +6,7 @@ subType: governmental
 description: "Vylarian imperial treasury and central bank—holds the empire's bullion reserves, issues the master and traveler's notes that underwrite continental commerce, and extracts a 2% issuance fee from every note generated even in territories the empire no longer governs."
 tags: []
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

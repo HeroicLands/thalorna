@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "2378 to 2580 ST (268 to 470 AF): two centuries of houses raised by the priesthood of Uqa'â, of children crowned and regents crowned after them, in which the Storm of the Hundred Banners reached the eastern road and a Vylarian army held the throne."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 The **Priests' Thrones** are the two centuries after the judgment, and the Keepers name them for who did the crowning. The throne has a Gar-Aû on it throughout, and the list gives each reign in full, but the formulas change character. Houses close within a generation, children are crowned, and the regent who stood beside a child is the next to stand on the mound so often that the line recording it becomes the most worn in the list.

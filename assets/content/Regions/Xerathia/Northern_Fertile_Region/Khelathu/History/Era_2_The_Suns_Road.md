@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "1006 to 1390 ST (1105 to 721 BF): nine houses rule from Galezkara, the ceremonial axis and its sightline law are laid down, and the royal necropolis of Zu-Gezer opens across the river."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 The **Sun's Road** is the age in which the capital was drawn. Everything a visitor to [[place-galezkara|Galezkara]] still follows with the eye, the straight road from the living city to the island to the necropolis, was laid in its opening reign, and the Keepers name the age for the road and not for any king.

@@ -6,6 +6,7 @@ subType: history
 description: "About 440 AF the coast levies under Zálmen threw down King Trálkar's castle at Thornbury, and the shipmasters who had paid for the rising built a republic out of what travelers had told them about Vylaria."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~440

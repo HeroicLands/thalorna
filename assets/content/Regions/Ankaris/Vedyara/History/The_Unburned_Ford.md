@@ -6,6 +6,7 @@ subType: history
 description: "About 300 BF the second of the six last kings of Mahānadī destroyed a rising of the upper-river villages at a ford and forbade the pyre to the dead, and the ford became Olūratarana, the oldest dated shorukshetra in Vedyara."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~-300

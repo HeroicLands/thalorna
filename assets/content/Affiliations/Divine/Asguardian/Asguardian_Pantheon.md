@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Northern faith grounded in endurance and defiance, honoring ten gods who stand against cosmic dissolution and the certainty of Aldarlok—the close of the present age."
 tags: [pantheon, asguardian, religion]
 data:
+  culture: nordheimnclt
   banner: pantheonbnr
   templatePriority: null
   demonym: null

@@ -6,6 +6,7 @@ subType: calendar
 description: "How the Nordlands reckon years: counted from the first sitting of the King of All Clans on Dómsey, divided by the four turns of the year, and dated by sittings, by winters notched on the Hnarvdal post, and by the ages the skalds name."
 tags: [reference, calendar, nordlands]
 data:
+  culture: nordheimnclt
   epoch: "287.1"
   months:
     - {name: Sumarmál, abbreviation: Sum, days: 122}

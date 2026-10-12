@@ -6,6 +6,7 @@ subType: criminal
 description: "Nihilist cult of the forsaken preaching destruction total and everlasting, venerating Demon Lords, and deploying the undead to destabilize imperial administration."
 tags: [organization, tanvur, subversive, cult]
 data:
+  culture: tanvuriclt
   templatePriority: null
   demonym: null
   epithet: null

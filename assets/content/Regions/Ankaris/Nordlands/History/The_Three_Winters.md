@@ -6,6 +6,7 @@ subType: history
 description: "From 512 to 514 AF three winters ran together with no summer between them across the Nordlands and the forest south of them; the old of the poorest halls went over the death-fell above Marvstead, and at the thirty-fourth sitting in 518 the five kings swore, or the skalds say they swore, that no hall would send its old to the fell while another hall had bread."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: winters

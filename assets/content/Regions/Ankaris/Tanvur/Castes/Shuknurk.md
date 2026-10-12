@@ -4,7 +4,7 @@ name: {full: Shüknürk, aliases: []}
 type: lore
 subType: law
 description: "The seventh caste of Tānvür—merchants and moneylenders, free to grow rich and barred on pain of death from politics, taxed hardest of any caste and watched by Vüshōk auditors."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 The richest man in a river city of [[affiliation-tanvurempr|Tānvür]] walks behind the potter in a procession, and the law says why. The Shüknürk are the merchants, traders and moneylenders of the empire, the seventh caste, ranked below the farmers because a farmer makes the grain and a merchant only moves it. A Shüknürk house may own warehouses in three provinces and lend to a Warlord, and its wealth buys comfort and not one step of standing: the law that permits it to prosper is written to keep its silver out of politics, and it is enforced with execution.

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The spirit seated in an ancient tree of the Silver Forests—old, awake, and not certainly of the mortal world."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan}
+data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
 ---
 
 - **Kind:** Place-kin, of [[lore-thekindred|the Kindred]]

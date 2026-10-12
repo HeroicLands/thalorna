@@ -8,6 +8,7 @@ subType: guild
 description: "Federation of matriarchal trading clans that dominates Bethûan commerce—clan-based, female-led, operating through Khelâthi currency and correspondent banking relationships with Gár-Hálzi temple-treasuries."
 tags: []
 data:
+  culture: bethuanclt
   templatePriority: null
   demonym: null
   epithet: null

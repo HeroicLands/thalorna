@@ -5,6 +5,7 @@ type: lore
 subType: economy
 description: "How commerce runs in the Empire of Tānvür—ledger-credit administered through the classification apparatus, with foreign coin exchanged at the frontier at rates the bureaus set."
 tags: [reference, currency, tanvur, economy, draft]
+data: {culture: tanvuriclt}
 ---
 
 ## Overview

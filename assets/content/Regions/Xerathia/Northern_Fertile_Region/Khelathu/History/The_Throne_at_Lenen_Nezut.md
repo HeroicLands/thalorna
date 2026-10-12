@@ -6,6 +6,7 @@ subType: history
 description: "In 1462 ST the upriver house of Geze'el'Anlaghu was crowned in its own city as Zab'el'Psaqa I, and for sixty-nine years three of its Gar-Aûu reigned from Lenen-Nezut and were buried there, while the king-list gave no reign to the claimants who held the delta."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -649

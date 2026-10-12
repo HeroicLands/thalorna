@@ -6,6 +6,7 @@ subType: order
 description: "Diplomacy and persuasion for Sólrún's faith."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

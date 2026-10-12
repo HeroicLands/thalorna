@@ -6,6 +6,7 @@ subType: governmental
 description: The imperial service that collects the dues and enforces the law of trade
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

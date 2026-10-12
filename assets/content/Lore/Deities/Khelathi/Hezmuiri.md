@@ -4,7 +4,7 @@ name: {full: Hezmuîri, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-hezmuiri|Faith of Hezmuîri]]{float=top-left size=medium}

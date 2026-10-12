@@ -5,7 +5,7 @@ type: lore
 subType: custom
 description: "The season of growing: four months from the flood's retreat to the standing crop"
 tags: [generated]
-data: {packFolder: regkhcult}
+data: {packFolder: regkhcult, culture: khelathiclt}
 ---
 
 **Gelet** is the **Emergence**, the second season: four months from the day the water pulls back off the fields to the day the crop stands. The silt it leaves, a hand deep and black, is planted as soon as a man can walk on it, and most of the year's labor falls here.

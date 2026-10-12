@@ -6,6 +6,7 @@ subType: feature
 description: "The storm-door—the westernmost crossing of the wall, held by no fortress and no toll, blessed from a shrine-tower of the Svapnasāri-samāja, and shut from below by the monsoon."
 tags: [pass, caravan, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

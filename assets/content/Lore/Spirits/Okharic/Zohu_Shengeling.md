@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Zohira of the blade—seated in the Magara Spirit Blades, which choose their wielders and cut both physical and spiritual foes."
 tags: [draft, nkaruthar]
-data: {packFolder: lorespiritsokharic}
+data: {packFolder: lorespiritsokharic, culture: okharinclt}
 ---
 
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]

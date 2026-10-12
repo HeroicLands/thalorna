@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The Nordmen's account of how the present age ends—the gods' last muster, the fire that takes both worlds, and the remade world kindled from the coals."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "The gods know how it ends," a skald tells the hall on the last night of [[lore-jol|Jól]] before she begins the telling, "and they stand anyway." She means Aldarlok, the close of the age. The word is built plainly—_aldar_, the age's, and _lok_, a close—and what it names is the end of this age, not the end of everything. The ages turn in a ring, the [[lore-aldarhringr|Aldarhringr]], and the north keeps that distinction exact. The skalds' kenning is the Fall of the Ash, after [[lore-heimsask|Heimsask]], the world-ash rooted in [[place-asguard|Asguard]] and crowned over [[place-worldthlrn|Mannguard]], whose burning takes both worlds down together.

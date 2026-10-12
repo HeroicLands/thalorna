@@ -6,6 +6,7 @@ subType: order
 description: "Sólrún's sworn women, wealth made and given away."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

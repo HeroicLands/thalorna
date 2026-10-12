@@ -17,6 +17,7 @@ data:
     - {to: sandhysmdr, bearing: W}
   population: 110000000
   packFolder: vedyara
+  culture: vedyariclt
 
 # terran_analog: Indian subcontinent
 ---

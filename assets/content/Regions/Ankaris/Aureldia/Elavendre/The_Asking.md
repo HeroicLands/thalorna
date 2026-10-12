@@ -6,6 +6,7 @@ subType: literature
 description: "A Sinalëan lay held in Élavendre: the Pelwar band that came over the eastern pass, the herdsman Dhárgan who sat four days at the wood's edge and asked, and the generations after him, told in nine turnings by the Sinalë who watched."
 tags: [draft]
 data:
+  culture: sinaleclt
   packFolder: elavendre
   form: lay
   subjects: [lore-flksinale, lore-aelendnppl, lore-pelwarpepl, place-ethalosse]

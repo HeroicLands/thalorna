@@ -8,6 +8,7 @@ subType: order
 description: "Vrystwald hunters bound by sacred obligation to feed their clan through skill, tradition, and knowledge of forest depths that no outsider can fully comprehend."
 tags: [company, hunters, vrystwald]
 data:
+  culture: varokhiclt
   banner: companybnr
   templatePriority: null
   demonym: null

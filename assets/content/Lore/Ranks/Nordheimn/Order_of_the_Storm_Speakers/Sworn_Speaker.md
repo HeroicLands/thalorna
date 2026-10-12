@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The full member of the Order of the Storm-Speakers, acting on the order's behalf across the Nordlands."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A Storm-Aspirant at [[place-thrumufjall|Thrumufjall]] who has passed the martial and the devotional examinations still faces the third, which is the storm: if it finds nothing in him, he goes home, however good he is.

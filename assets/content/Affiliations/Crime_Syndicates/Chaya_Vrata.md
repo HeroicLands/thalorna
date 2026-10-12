@@ -6,6 +6,7 @@ subType: criminal
 description: "The shadow-vow—a lapsed dream-line that works the waking dream, condemned by the Council of the Dream, pursued by nobody, and the origin of the shadow-brotherhoods that train Vedyara's assassins."
 tags: [varnaka, arcane, dreams, clandestine]
 data:
+  culture: vedyariclt
   banner: faithbnr
   icon: null
   templatePriority: null

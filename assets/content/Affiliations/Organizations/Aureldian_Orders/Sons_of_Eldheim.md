@@ -6,6 +6,7 @@ subType: order
 description: "A Black Flame military order established in Stormveld and campaigning to seize Varokhi land as a way into the Nordlands."
 tags: [organization, fighting-order, black-flame]
 data:
+  culture: aureldianclt
   templatePriority: null
   demonym: null
   epithet: null

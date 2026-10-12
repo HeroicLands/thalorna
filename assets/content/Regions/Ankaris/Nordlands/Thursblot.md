@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The making of Mannguard from the Rime-Giant's body at the close of the giant-war—the first blót to the Ten's hofs, the first cutting to Hrímthur's."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 Put your hand flat on the ground of any hall in the north and you are touching a giant. That is not a figure of speech at a hof; it is the first fact of the faith. When the [[affiliation-asguardian|Ten]] had broken the giant-kin and shut the rest of them into the void, one of the kin lay dead on the field: [[lore-hrimthurspr|Hrímthur]], the Rime-Giant. The Ten cut the world out of him. The act has a name, the **Thursblót**—_thurs-_, a giant, and _-blót_, a sacrifice—and the name is a quarrel the north has never finished.

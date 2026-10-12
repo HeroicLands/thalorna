@@ -6,6 +6,7 @@ subType: fellowship
 description: A movement within the priesthood of the sterner gods holding that performance corrupts, and pressing for the players to be put down
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

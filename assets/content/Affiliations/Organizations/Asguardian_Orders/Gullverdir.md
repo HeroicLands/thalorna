@@ -6,6 +6,7 @@ subType: order
 description: "Guardians of Sólrún's sacred wealth."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

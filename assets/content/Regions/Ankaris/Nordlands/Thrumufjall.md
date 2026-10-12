@@ -5,7 +5,13 @@ type: place
 subType: feature
 description: "Thrúnvald’s sacred seamount on the Nordheim coast, shared by his hof and the Storm-Speakers’ mother-hall."
 tags: [asguardian]
-data: {demonym: null, lore: [], parents: [], population: null, packFolder: nordlands}
+data:
+  demonym: null
+  lore: []
+  parents: []
+  population: null
+  packFolder: nordlands
+  culture: nordheimnclt
 ---
 
 "There is the Thunderer's house, and the Speakers keep the other half of it," a boatman on the Nordheim run tells the clerk beside him as the seamount comes up out of the haze. Thrumufjall is a sheer seamount on the [[place-nordheim|Nordheim]] coast, topped by an ancient temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]]. Its summit is exposed to every storm that comes in off the water.

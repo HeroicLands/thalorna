@@ -6,6 +6,7 @@ subType: history
 description: "The Sinalë reach Thalorna at approximately 7500 BF from a prior realm they do not disclose—the first of the Elder Races, and the beginning of the world's recorded history."
 tags: [history, spine]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   events:
     - when: ~-7500

@@ -6,6 +6,7 @@ subType: literature
 description: "A Sinalëan elegy held in Élavendre for a city of light cut into a cliff, its halls, water and birds, and the night a horde came up the valley—sung without its subject named, and broken off where the Sinalë stop."
 tags: [draft]
 data:
+  culture: sinaleclt
   packFolder: elavendre
   form: elegy
   subjects: [lore-khazarturn, lore-khazturnrsd, lore-flkkhazar, lore-grukarfolk]

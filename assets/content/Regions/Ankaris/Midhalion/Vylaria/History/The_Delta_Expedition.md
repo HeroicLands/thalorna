@@ -6,6 +6,7 @@ subType: history
 description: "In 377 AF the Augustar Barnâkîs sends the Empire's strongest field army across the sea to the Khelâthi delta; it breaks the chariot corps at Khelaga, its commander is crowned in the Khelâthi manner, and the chancery enters him as a traitor and stops writing his name."
 tags: [history, vylaria, ageconquest]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: delta

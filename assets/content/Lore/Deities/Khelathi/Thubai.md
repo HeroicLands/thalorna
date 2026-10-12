@@ -4,7 +4,7 @@ name: {full: Thubâ'i, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-thubai|Faith of Thubâ'i]]{float=top-left size=medium}

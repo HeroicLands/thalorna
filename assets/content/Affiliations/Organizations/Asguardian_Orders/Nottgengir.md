@@ -6,6 +6,7 @@ subType: order
 description: "Náhild's elite assassins."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

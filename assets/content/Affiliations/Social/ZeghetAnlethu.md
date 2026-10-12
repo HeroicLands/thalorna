@@ -6,6 +6,7 @@ subType: fellowship
 description: Those who go after what the old tombs hold, some for scholarship and some for sale, and who race one another to publish or to profit
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

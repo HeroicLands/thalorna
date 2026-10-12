@@ -4,7 +4,7 @@ name: {full: Nōkvür, aliases: []}
 type: lore
 subType: law
 description: "The sixth caste of Tānvür—the peasant farmers who are most of the empire's people, bound to the land they work and owing it tribute, and among whom the Lëigürt spirit masters arise."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 Ask who feeds [[affiliation-tanvurempr|Tānvür]] and the answer is the sixth caste. The Nōkvür are the peasant farmers, laborers and common folk who work the terraces, the paddies, the forests and the rivers, and they are most of the empire's people. They are bound to the land they work and owe tribute of produce and labor to the lords above them, and they have a spiritual life the court does not share: the ancestor altar in every hut, and the Lëigürt, the spirit masters who rise from their own villages and are consulted, quietly, by Warlords.

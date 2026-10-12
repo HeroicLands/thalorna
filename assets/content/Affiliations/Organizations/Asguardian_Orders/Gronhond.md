@@ -6,6 +6,7 @@ subType: order
 description: "Herb-lore and healing in Fródvin's service."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

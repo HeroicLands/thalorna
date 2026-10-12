@@ -6,6 +6,7 @@ subType: faithtradition
 description: "The great temple-estates taken together: granaries, workshops and tenant-villages, and religious, economic and political institutions that rival the Gar-Aû's palace in power"
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: literature
 description: "The Sinalë praise-song of the unnamed king who held the joint crown of Aelwyth, one deed to a stanza and the king never named, kept by the Vardain and sung in the valleys beneath Vorgald on the night the road to the Gate closes."
 tags: [draft, sinale]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   form: thellame
   subjects:

@@ -12,6 +12,7 @@ data:
   borders: [{to: vrystwald, bearing: NE}, {to: edrwald, bearing: N}]
   packFolder: elavendre
   government: kngdmlvndr
+  culture: elavendriclt
 
 # terran_analog: "Northern France and Switzerland—the temperate-and-Alpine northern Aurèldían heartland of forest and river-valley farming."
 ---

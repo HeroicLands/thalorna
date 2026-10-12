@@ -6,6 +6,7 @@ subType: history
 description: "Between about 418 and 425 AF the second Augustar of the Restoration, Arzánas, closes the western conquests by edict and founds the Magnum Collegium, constitutes the Curia Fiscalis, makes the Aerarium the central bank of the note system, rebuilds the Palatium and lines the Via Triumphalis with three centuries of trophies."
 tags: [history, vylaria, restoration]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: edicts

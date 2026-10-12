@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Full clan membership, holding odal land and a voice at the ting, in the five kingdoms and the Jarldom of Stormveld."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A bóndi's odal land is his because his father's was. No jarl granted it, so no jarl can take it back at will, and when the ting rules, the ruling binds the jarl over him as it binds him.

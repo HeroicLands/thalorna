@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The crocodile-guide of the Kolembozi as a being—old, exacting, and reckoned kin even when it kills."
 tags: [draft, nyaluba]
-data: {packFolder: lorespiritsnyaluba}
+data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Kolembozi]]. For the cult, its

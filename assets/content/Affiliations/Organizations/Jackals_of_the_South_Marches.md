@@ -8,6 +8,7 @@ subType: venture
 description: "A warband of the Houseless gathered in the drylands south of Bethûa—exiled Bethûan women and cast-out Spádai eunuch-warriors, padded with marcher men—led by the renegade spear-sister Argýrira the Jackal."
 tags: [organization, mercenary, raiders, bethua, south-marches, exiles]
 data:
+  culture: bethuanclt
   templatePriority: null
   demonym: null
   epithet: null

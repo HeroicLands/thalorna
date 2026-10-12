@@ -6,6 +6,7 @@ subType: venture
 description: "Byzarian mercenary company of brutal efficiency—willing to take the contracts other companies refuse, and the standing antagonist of one of the realm's most haunted veterans."
 tags: [company, mercenary, byzaria, hellad]
 data:
+  culture: byzarianclt
   banner: companybnr
   templatePriority: null
   demonym: null

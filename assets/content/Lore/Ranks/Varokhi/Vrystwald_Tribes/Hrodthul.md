@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vrystwald Tribes."
 tags: []
+data: {culture: varokhiclt}
 ---
 
 Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vrystwald Tribes.

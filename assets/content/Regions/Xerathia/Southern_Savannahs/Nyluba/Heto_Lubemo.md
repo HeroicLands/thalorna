@@ -6,6 +6,7 @@ subType: site
 description: "An ancient stone enclosure in the southeastern highlands, one of the great Old Hetos, where the Nyáluba convene the Great Lubemo every fourth dry season."
 tags: [draft]
 data:
+  culture: nyalubaclt
   demonym: null
   lore: []
   parents: [sthrnsvnhs]

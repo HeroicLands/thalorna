@@ -5,6 +5,7 @@ type: lore
 subType: economy
 description: "The Vedyaran monetary system—the Merchant Collective's internal credit and clearing arrangements, and the three coins struck against them: Chandrapur's gold suvarna and silver chandra, which carry their metal, and the copper tāmra the kingdoms and city-states strike as token money."
 tags: [reference, currency, vedyara, economy]
+data: {culture: vedyariclt}
 ---
 
 ## Overview

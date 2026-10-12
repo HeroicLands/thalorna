@@ -4,7 +4,7 @@ name: {full: Elder Races, aliases: []}
 type: lore
 subType: folk
 description: "How the Sinalë and Khazári live within the Empire of Tānvür—classified into castes by their work, self-governing in their enclaves, and watched by an empire that cannot account for their magic."
-data: {packFolder: tanvur}
+data: {packFolder: tanvur, culture: tanvuriclt}
 ---
 
 In the [[affiliation-tanvurempr|Empire of Tānvür]] the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]] carry classification tablets like everyone else, and they treat them as paperwork. Unlike [[lore-castelaws|foreigners]], who stand outside the cosmic order, the Elder peoples are classified: each is placed in a caste by the work it does for the empire. The fit is poor. The castes were made for humans, and the Elder peoples are millennia older than the Sorting as humans tell it. Inside the empire they keep to their assigned castes for practical reasons, and inside their own enclaves they live by their own traditions and their own sense of what they are. This arrangement makes Tānvür the one human realm where Elder knowledge passes to humans steadily, formally and as a paid office, not by chance or by watching (see [[lore-longnhrtnc|The Long Inheritance]]). [[lore-castelaws|Caste Laws]] gives the legal framework.

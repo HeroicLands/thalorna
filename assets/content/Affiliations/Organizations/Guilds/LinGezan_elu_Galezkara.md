@@ -6,6 +6,7 @@ subType: guild
 description: The chartered collectors of Galezkara, who enforce what the ledgers say is owed and are disliked in exact proportion to their usefulness
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

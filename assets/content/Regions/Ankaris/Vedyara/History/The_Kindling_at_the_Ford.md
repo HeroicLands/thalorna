@@ -6,6 +6,7 @@ subType: history
 description: "About 290 BF the ascetic Bhasmadāsa spent a season trying to burn the unburned ford of Olūratarana, kept the one fire that took, and carried its ember away; every ember of the Agnī-panthā descends from it."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~-290

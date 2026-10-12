@@ -6,6 +6,7 @@ subType: fellowship
 description: Those on the councils who hold that the old arrangements need no revision, and who have the numbers to make revision slow
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

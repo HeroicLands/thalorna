@@ -2,10 +2,10 @@
 shortcode: vrystwaldadvguide
 name: {full: Vrystwald Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to Vrystwald and the Varokh—their forest, their villages and three seats, their totems and their dead, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: varokhiclt}
 ---
 
 > For three days the boat has worked upriver between walls of spruce and birch, and this morning the fog lies on the water so thick that you hear Grimholt before you see it: an adze biting wood, a dog, a woman's voice calling a number twice. Then the fog thins and the landing is there. A palisade of split logs, gray with age and green with moss at the foot, runs down to the water; inside it, steep roofs of bark and turf breathe smoke into the cold. The wharf planks are black and slick under your boots. Bundled pelts lie stacked on them—marten, beaver, fox—and the air smells of wet fur, tallow, pine pitch and the river. Birch leaves, already yellow, float past the pilings.

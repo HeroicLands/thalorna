@@ -6,6 +6,7 @@ subType: feature
 description: "The copper-door—the road up the Silver Gorges to the Khazryn's eastern marches, tolled at a gate the crown did not build and cannot close."
 tags: [pass, caravan, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

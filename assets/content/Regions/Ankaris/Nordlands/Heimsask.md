@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The world-ash joining Asguard and Mannguard, whose fall closes the age."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 The shape of the world is taught to a child as one long line scratched in the dirt, with roots under it and a crown over it: two worlds, one tree, learned before a single god's name. The line is **Heimsask**, the world-ash. It is rooted in [[place-asguard|Asguard]], the gods' world, and crowned over [[place-worldthlrn|Mannguard]], the world the living stand on, and it holds the two in one growth.

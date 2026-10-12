@@ -6,6 +6,7 @@ subType: history
 description: "About 525 AF a kingdom up the river took Rājapur's head-gate village of Khandāpura for a season and was put out by Chandrapur's money and a hired company; the janapada, which had kept no soldiers since the dissolution, signed a formal protection with the city for grain and copyists."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~525

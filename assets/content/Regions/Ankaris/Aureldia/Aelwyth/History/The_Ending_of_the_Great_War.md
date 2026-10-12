@@ -6,6 +6,7 @@ subType: history
 description: "Within a decade of the Three Sisters the Khazári finished the Great War and did not take the island: they kept the Ironfells and the north-east plain for the Vardain and left everything else to the Pelwar they had fought."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~-980

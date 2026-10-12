@@ -6,6 +6,7 @@ subType: history
 description: "About 550 AF the Vylarian Empire began paying Nordmen to garrison the frontier its own fleets had loosened, and about 560 the free companies of the north met at Hringstead and signed the Compact, so that an employer would know what he bought and a captain what he owed."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: hiring

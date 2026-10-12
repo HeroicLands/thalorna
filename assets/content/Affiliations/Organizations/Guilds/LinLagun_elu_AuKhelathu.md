@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's timber-trade, at odds with itself over what standards of quality assessment should mean
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

@@ -6,6 +6,7 @@ subType: history
 description: "From about 389 AF the Augustar Barnâkîs is dead with no heir named and his best army across the sea; the Praetar, the Senate and the Moktur legions each acclaim a man, and three eagles are carried before three Augustars for sixteen years."
 tags: [history, vylaria, threeeagles]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: succession

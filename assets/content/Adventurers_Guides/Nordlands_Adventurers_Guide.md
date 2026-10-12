@@ -2,10 +2,10 @@
 shortcode: nordlandsadvguide
 name: {full: Nordlands Adventurer's Guide, aliases: []}
 type: doc
-subType: concept
+subType: settingguide
 description: A player and GM introduction to the Nordlands—its five kingdoms, its halls and tings, its near gods, the conquered plain of Stormveld, and the ways a campaign begins there.
 tags: []
-data: {packFolder: adventurersguides}
+data: {packFolder: adventurersguides, culture: nordheimnclt}
 ---
 
 > The sun has been up for hours when your ship rounds the last headland, though by any southern reckoning it is barely morning. The fjord runs inland between walls of gray granite streaked with meltwater, so still that each oar-stroke leaves a ring on it, and the wind off the snowfields stings your ears and tastes of iron. Then the water widens and Knalthstead stands on its slope: a long timber rampart, turf roofs smoking behind it, and above them the king's hall, its gable-ends carved and tarred black. On the strand below, longships that wintered under cover are being run back into the water on rollers, and the crews hauling them sing to keep the pull together.

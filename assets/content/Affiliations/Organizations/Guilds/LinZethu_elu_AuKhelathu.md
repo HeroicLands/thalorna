@@ -6,6 +6,7 @@ subType: guild
 description: The chartered body of the empire's scribes, which sets the hands, examines the pupils, and guards the standing of a trade the whole administration rests on
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

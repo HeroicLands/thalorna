@@ -6,6 +6,7 @@ subType: fellowship
 description: Scouts and wilderness-hands who take work no caravan master wants to advertise, and who keep to their own company on the road
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

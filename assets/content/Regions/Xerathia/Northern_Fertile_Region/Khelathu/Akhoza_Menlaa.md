@@ -12,6 +12,7 @@ data:
   population: null
   packFolder: regkhsite
   banner: khelathubnr
+  culture: khelathiclt
 ---
 
 "Every field in the valley has a line in some survey roll," a scribe of the spring surveys tells the apprentice walking beside her, "and every roll answers to a temple. **Akhoza-Menlaa** has no line in any of them."

@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The leading standing of a devotional order of the faiths of the Ten, holding its fullest claim on what it confers."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Each devotional order has a leader, and in every one the leader's standing is the last the order records. A dróttstjóri carries the order's purpose furthest and speaks or acts for it where a devotee cannot.

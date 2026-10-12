@@ -8,6 +8,7 @@ subType: spirittradition
 description: "The Okháric shamanic tradition—the kwendari zohiring who are bound to the zohira by the Spirit Hunt, holding no rank in any temple and standing alongside the Eternal Flame rather than against it."
 tags: [nkaruthar, religion]
 data:
+  culture: okharinclt
   templatePriority: null
   demonym: null
   epithet: null

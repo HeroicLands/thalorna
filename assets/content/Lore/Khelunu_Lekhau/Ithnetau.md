@@ -5,7 +5,7 @@ type: lore
 subType: arcana
 description: "The westward road: the dead, passage, gates, resurrection, the night."
 tags: [generated, draft]
-data: {packFolder: regkharc}
+data: {packFolder: regkharc, culture: khelathiclt}
 ---
 
 A rite that calls on the day without the night is held to have asked only half the question, and to expect only half the answer. **Ithnetáu**, the westward road, holds the dead, passage, gates, resurrection and the night. It is the half of [[lore-athenuqa|Thelqen'Uqa]]'s circuit that the tradition insists cannot be understood alone.

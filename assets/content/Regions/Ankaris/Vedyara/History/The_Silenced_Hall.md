@@ -6,6 +6,7 @@ subType: history
 description: "About 320 AF the conch-door adventurer shut the sabhā of Thirnugrāma in its temple hall and fired the roof; the janapada did not survive it, the Mela of 320 mourned it on the roll in the same ten days it swore the Third Compact, and the priests struck the adventurer's name from their speech."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~320

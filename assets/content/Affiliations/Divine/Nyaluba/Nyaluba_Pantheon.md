@@ -8,6 +8,7 @@ subType: spirittradition
 description: "The shamanic tradition of the Nyáluba Tribal Nation—one unvenerated source, many venerated spirit guides, five clan totems, and a council of shamans in place of any priesthood."
 tags: [nyaluba, religion, totemic]
 data:
+  culture: nyalubaclt
   templatePriority: null
   demonym: null
   epithet: null

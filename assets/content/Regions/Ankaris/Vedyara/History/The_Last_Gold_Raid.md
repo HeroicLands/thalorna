@@ -6,6 +6,7 @@ subType: history
 description: "About 80 BF raiders from a neighboring hill kingdom took a month's gold off Suvarnagiri's weighing-station; Bharyastān's king Dhūrsavīra rode them down in the gorges and returned the gold by weight, and the treaty of horse for gold was sworn at the next weighing. Suvarnagiri has not lost gold to a raid since."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~-80

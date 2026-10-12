@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Radiant One among the Asguardian gods, the northern face of the God of Dreams, holding light, vision and the elder races."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Radiant One**—sunstone and silver leaf, a light older than the north and only lately theirs to keep._

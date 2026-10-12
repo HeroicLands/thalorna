@@ -5,6 +5,7 @@ type: affiliation
 subType: arcanetradition
 tags: [hex-hodai]
 data:
+  culture: vylarianclt
   icon: kentra
   templatePriority: null
   demonym: null

@@ -6,6 +6,7 @@ subType: order
 description: "Rune-lore and divination in Ódvar's service."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

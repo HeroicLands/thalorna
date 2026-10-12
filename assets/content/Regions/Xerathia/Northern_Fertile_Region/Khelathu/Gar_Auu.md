@@ -5,7 +5,7 @@ type: lore
 subType: law
 description: "The plural of Gar-Aû—the line of divine sovereigns of Aû'Khelâthu taken together, and the temple king-list that reckons them from the Qet Telgu to Meqes XVI."
 tags: [draft]
-data: {packFolder: regkhlaw}
+data: {culture: khelathiclt, packFolder: regkhlaw}
 ---
 
 **Gar-Aû** is the title of the divine sovereign of [[affiliation-empireakhlth|Aû'Khelâthu]], and Gar-Aûu, its collective plural, names the whole line of them taken together, from the first to the one who sits now. The throne is the first thing a scribe learns to write, because everything else is dated by it.

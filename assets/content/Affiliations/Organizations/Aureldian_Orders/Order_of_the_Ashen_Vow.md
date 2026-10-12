@@ -8,6 +8,7 @@ subType: order
 description: "Sworn purifier-knights of the Black Flame—heretic-hunters who burn what no other remedy can cleanse, inward against Sacred Forge “softness” and outward against rival faiths."
 tags: []
 data:
+  culture: aureldianclt
   templatePriority: null
   demonym: null
   epithet: null

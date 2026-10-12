@@ -6,6 +6,7 @@ subType: criminal
 description: "Intelligence syndicate trading in secrets—blackmail, espionage, assassination—operating through pleasure houses, theaters, and aristocratic households across the west."
 tags: []
 data:
+  culture: helioniteclt
   templatePriority: null
   demonym: null
   epithet: null

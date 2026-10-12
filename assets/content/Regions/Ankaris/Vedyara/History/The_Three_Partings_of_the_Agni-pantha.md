@@ -6,6 +6,7 @@ subType: history
 description: "The three times the Agnī-panthā broke with the orthodox hierarchy: put out of the city temples about 200 BF over the unburned dead, banned from three capitals about 280 AF for burning Gajasthalī against the kings' order, and banned from Vyālendra about 560 AF for scouring its first sanctuary, by a council that later put up a statue of the priest it banned."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - id: schismfirst

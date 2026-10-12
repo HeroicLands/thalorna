@@ -6,6 +6,7 @@ subType: feature
 description: "The scholars' door—the long crossing of the Eastern Reach to Tānvür's western frontier, where a Tānvüri way-station keeps a register four centuries deep."
 tags: [pass, caravan, inland]
 data:
+  culture: hvarnclt
   demonym: null
   lore: []
   parents: [graznmntns, estrnreach]

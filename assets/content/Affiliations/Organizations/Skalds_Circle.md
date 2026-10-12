@@ -8,6 +8,7 @@ subType: fellowship
 description: "Pan-Nordlands fellowship of skalds—keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."
 tags: [organization, nordlands, asguardian, bardic, memory]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

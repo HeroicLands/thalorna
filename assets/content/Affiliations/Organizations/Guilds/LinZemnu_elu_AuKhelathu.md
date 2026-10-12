@@ -6,6 +6,7 @@ subType: guild
 description: The chartered guild of the empire's artisans, which benefits from the prestige of its finest members and disapproves of most of what they do to earn it
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

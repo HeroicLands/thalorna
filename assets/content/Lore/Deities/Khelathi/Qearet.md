@@ -4,7 +4,7 @@ name: {full: Qe'âret, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
-data: {packFolder: regkhdeit}
+data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
 ![[icon-qearet|Faith of Qe'âret]]{float=top-left size=medium}

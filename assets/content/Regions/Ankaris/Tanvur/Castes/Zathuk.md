@@ -4,7 +4,7 @@ name: {full: Zāthük, aliases: []}
 type: lore
 subType: law
 description: "The fifth caste of Tānvür—artisans and craftsmen, the Vüsnürk who are the empire's common soldiers and watch, and the Yātvōr healers whom every caste defers to."
-data: {packFolder: castes}
+data: {packFolder: castes, culture: tanvuriclt}
 ---
 
 The porcelain that reaches [[place-midhalnrgn|Mídhalión]] by the Celestial Roads, the lacquered scale on a garrison soldier's back and the hands that set a broken bone in a river town all belong to one caste. The Zāthük are the productive middle of [[affiliation-tanvurempr|Tānvür]], the fifth caste: the artisans and craftsmen who make the empire's goods, tools, weapons and works of art, the common soldiers who carry its spears, and the Yātvōr, the healers, who stand within the caste and are deferred to by everyone above it.

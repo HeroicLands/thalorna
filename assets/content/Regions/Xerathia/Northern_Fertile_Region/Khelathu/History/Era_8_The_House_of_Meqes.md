@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "2580 to 2830 ST, 470 to 720 AF: the longest house of the Near Count, from the regent who stood beside a child of three floods to the twelfth year of Meqes XVI, with the Great Removal at Zu-Gezer, the guild charters and the war that freed Bethûa."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 Every contract, tax roll and temple receipt in [[affiliation-empireakhlth|Aû'Khelâthu]] is headed with the same name: Year 12 of Gar-Aû Meqes. The **House of Meqes** is the age the empire lives in, the longest house of the Near Count, and no clerk now alive has written any other.

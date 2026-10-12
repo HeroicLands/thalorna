@@ -6,6 +6,7 @@ subType: lineage
 description: A noble house that commissions arms and armor from the finest smiths and vouches for their standards to impatient peers
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

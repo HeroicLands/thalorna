@@ -6,6 +6,7 @@ subType: order
 description: "Eidgar's fighting order of honorable combat."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

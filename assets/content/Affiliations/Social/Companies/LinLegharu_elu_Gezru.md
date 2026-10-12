@@ -6,6 +6,7 @@ subType: venture
 description: Merchants who take rare plants out of the red land for quick profit, and who regard anyone conserving those plants as a threat to the trade
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

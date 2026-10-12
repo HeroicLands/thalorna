@@ -8,6 +8,7 @@ subType: guild
 description: "Dominant Vedyaran commercial federation—the caravans, the standards and the letters of credit that cross every seat of the Compact, mining holdings it works by lease where it cannot hold the rock, and a reach that rivals the councils and courts it lends to."
 tags: []
 data:
+  culture: vedyariclt
   templatePriority: null
   demonym: null
   epithet: null

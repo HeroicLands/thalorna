@@ -6,6 +6,7 @@ subType: order
 description: The priesthood serving Thubâ'i, keeping the flood-records and the rites by which the year's prosperity is asked for
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

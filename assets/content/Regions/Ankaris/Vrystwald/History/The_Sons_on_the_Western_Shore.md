@@ -6,6 +6,7 @@ subType: history
 description: "From about 715 AF the Sons of Eldheim, campaigning out of Stormveld for a road into the Nordlands, have come ashore on Vrystwald's western bay and burned villages, Arnwern first and worst; no common muster has been raised against them, and Thornak Blodtusc Bar wants one."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: shore

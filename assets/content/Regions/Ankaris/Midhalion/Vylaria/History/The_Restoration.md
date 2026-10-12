@@ -6,6 +6,7 @@ subType: history
 description: "About 406 AF Makândas takes Ôrzâra from the north, the Senate acclaims him, the Praetar hands over its claimant and Sylârion dies in the Officia; he founds House Hêlarkâlês, forgives the legions that fought him and pays them, and rules twelve years."
 tags: [history, vylaria, restoration]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: restoration

@@ -6,6 +6,7 @@ subType: history
 description: "About 325 AF the Bhūmipāla, Sāmantas of the salt coast who rode out the Storm on boats behind the spit, took the empty march, seated their court at Sandhyāpur, swore the first treaty with Amradad, hired the first companies and began the forts of the march road."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - when: ~325

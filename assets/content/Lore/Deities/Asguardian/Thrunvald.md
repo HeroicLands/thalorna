@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Thunderer of the Asguardian gods—war, the sea, and the reavers who cross it."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Thunderer**—hammer stone and sea shell, the storm that reaches a coast before the raiders do._

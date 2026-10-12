@@ -8,6 +8,7 @@ subType: order
 description: "Initiatic warrior brotherhood of Hrímthur—devotees of the Rime-Giant the world was cut from, sworn to wield the violence that first made it."
 tags: []
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

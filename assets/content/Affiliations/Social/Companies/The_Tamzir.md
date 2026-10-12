@@ -6,6 +6,7 @@ subType: venture
 description: "Weathered trading vessel and her crew of misfits operating in gray spaces of maritime law, carrying fugitive arcane talents hunted by the Ordo Arcanis."
 tags: [company, tamzir-crew]
 data:
+  culture: taruzelianclt
   banner: tamzirbnr
   templatePriority: null
   demonym: null

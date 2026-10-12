@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The All-Father of the Asguardian gods, keeper of knowledge and hard-won wisdom, whose signs are the raven feather and the runestone."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The All-Father**—raven feather and runestone, an eye paid away at a well for the water in it._

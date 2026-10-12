@@ -6,6 +6,7 @@ subType: criminal
 description: "Maritime smuggling confederation of northern captains moving contraband, human cargo, and stolen goods through unpatrolled coastal waters and hidden coves."
 tags: []
 data:
+  culture: aelwythanclt
   templatePriority: null
   demonym: null
   epithet: null

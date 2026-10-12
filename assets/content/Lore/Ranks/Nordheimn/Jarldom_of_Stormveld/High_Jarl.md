@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The sovereign standing of the Jarldom of Stormveld, held by a jarl elected from among his peers."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 A High Jarl is first among the jarls of Stormveld and is not their king: each jarl holds his jarldom himself and owes the High Jarl nominal allegiance, no more, and the jarls chose him from among themselves and can choose another.

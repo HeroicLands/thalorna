@@ -13,6 +13,7 @@ data:
   population: 4000000
   packFolder: okharis
   government: okharis
+  culture: okharinclt
 ---
 
 ## Overview

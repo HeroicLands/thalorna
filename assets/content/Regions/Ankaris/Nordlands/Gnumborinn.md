@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "How Mótefnir pressed the first two people out of the cut world's clay, what the other gods gave them, and the three accounts of how death came in."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "Everything he makes, he makes once," the Hofgydja at [[place-vithgard|Vithgard]]'s great hof of [[lore-motefnirdty|Mótefnir]] tells a newcomer. "Then he walks away from it. You are the only thing he ever made that could walk away from him in its turn and make more of itself. Think about what that cost." The north calls its people **Gnúmborinn**, the clay-born—_gnúm-_, a clay pot, and _-borinn_, one born of a thing—and the name is the whole account in two pieces.

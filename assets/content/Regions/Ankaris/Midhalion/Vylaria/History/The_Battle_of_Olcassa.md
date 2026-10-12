@@ -6,6 +6,7 @@ subType: history
 description: "About 401 AF the Senate's army and the Moktur legions meet on the Olcassa estate in Hylen, legions fighting legions under the same eagle with no quarter given; Makândas wins the field and loses half his army on it."
 tags: [history, vylaria, threeeagles]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: olcassa

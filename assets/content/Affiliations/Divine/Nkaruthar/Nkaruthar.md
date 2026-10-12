@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Creation, destruction, and renewal."
 tags: [pantheon]
 data:
+  culture: okharinclt
   banner: faithbnr
   templatePriority: null
   demonym: null

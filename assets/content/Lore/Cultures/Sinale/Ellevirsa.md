@@ -7,6 +7,7 @@ description: "The Sinalë origin song cut into a stone at Sirmennë: how they ca
 tags: [draft, sinale]
 # terran_analog: "The Kalevala's origin charms (the birth of fire, the birth of iron) for a song that tells where a thing came from so as to hold it; the Kanteletar's runo-song for lines restated by the line beneath; the gnomic englynion for pairs that state a rule beside a thing seen; and inscriptions that locate themselves at their own stone."
 data:
+  culture: sinaleclt
   packFolder: settinglore
   form: ellanthe
   subjects: [lore-sinalearrv, lore-flksinale, lore-longnhrtnc, place-sirmenne]

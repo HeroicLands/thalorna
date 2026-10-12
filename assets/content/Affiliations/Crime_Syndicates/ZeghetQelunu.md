@@ -6,6 +6,7 @@ subType: criminal
 description: "Those who take protected beasts out of the hunting grounds, and who have arrangements with enough officials to keep doing it"
 tags: [generated]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   governance:
     model: oligarchy

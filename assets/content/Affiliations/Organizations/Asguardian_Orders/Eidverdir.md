@@ -6,6 +6,7 @@ subType: order
 description: "Warriors sworn to Eidgar's heaviest oaths."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

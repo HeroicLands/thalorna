@@ -5,7 +5,7 @@ type: lore
 subType: economy
 description: "How the Nordlands hunt the whale—the crews and the seasons, the drive and the harpoon, the blubber, oil and bone that feed and light the north, and the law of a whale stranded on the shore."
 tags: [asguardian, draft]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 A coast that misses its whales goes hungry before midwinter, and a harpooner at [[place-knarvik|Knarvík]] teaches a first-run hand the rest of the craft as ways not to be the reason. The _hvelm_ (whale) is meat, fat, light and building timber to the northern coasts, and the hunt for it is the most valuable work a [[place-vithgard|Vithgard]] household does in a year. A whaling winter that fails is remembered for generations: the last one in Vithgard ended in the burning on the skerry of [[place-askholm|Askholm]], when a ting at [[place-dvarnvik|Dvarnvík]] looked for someone to blame for the empty strand.

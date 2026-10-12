@@ -6,6 +6,7 @@ subType: history
 description: "About 60 AF the clans of the northern highlands and the Pass-Shrine line chartered a king, Himavīra, to hold the road through Sūryadvāra; the smithing clans hold that the grant was the road and not the rock, and two centuries later the Priestly Court won its own hall at Sūryagarha."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - id: founding

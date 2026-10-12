@@ -6,6 +6,7 @@ subType: guild
 description: The masters of the capital's crafts, who set what may be called master-work and resent public criticism of their methods
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

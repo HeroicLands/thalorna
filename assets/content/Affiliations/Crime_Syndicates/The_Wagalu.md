@@ -6,6 +6,7 @@ subType: criminal
 description: "A bandit gang that has plagued the southern trade routes for years, holding a blood-grudge against the caravan scouts who have foiled them"
 tags: [generated]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   governance:
     model: council

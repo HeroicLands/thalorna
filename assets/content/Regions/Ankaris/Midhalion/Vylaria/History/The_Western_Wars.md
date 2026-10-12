@@ -6,6 +6,7 @@ subType: history
 description: "From about 140 AF to the edict of about 418 AF the Empire's legions fight west and north-west: the Tarvénian lowlands and Léonrik are taken, Provènzia is made a province, Élavendre is made a tributary, the Cervaron passes are marked with boundary-stones, and the western strait is fortified."
 tags: [history, vylaria, ageconquest]
 data:
+  culture: vylarianclt
   packFolder: vylaria
   events:
     - id: wars

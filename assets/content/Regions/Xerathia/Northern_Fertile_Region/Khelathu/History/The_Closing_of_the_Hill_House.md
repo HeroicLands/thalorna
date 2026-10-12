@@ -6,6 +6,7 @@ subType: history
 description: "In 1671 ST (440 BF) the fourth Tha'Ulgau Gar-Aû dies and the priesthood closes the hill-nomads' house, raises Azlet'Râlu under a name from the First Tablets, and settles the conquerors' kin on the western horse-pastures, where they become a Halzi'a house."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -440

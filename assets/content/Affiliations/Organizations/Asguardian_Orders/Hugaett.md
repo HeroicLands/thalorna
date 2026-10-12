@@ -6,6 +6,7 @@ subType: order
 description: "The pursuit and keeping of Ódvar's knowledge."
 tags: [draft]
 data:
+  culture: nordheimnclt
   templatePriority: null
   demonym: null
   epithet: null

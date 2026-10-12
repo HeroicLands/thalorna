@@ -6,6 +6,7 @@ subType: polity
 description: The guide-people of the western and central crossings—hereditary lineages who hold the roads over the wall, keep the one road nobody else knows, and answer to no authority below the cols.
 tags: []
 data:
+  culture: osketclt
   templatePriority: null
   demonym: Ösket
   epithet: null

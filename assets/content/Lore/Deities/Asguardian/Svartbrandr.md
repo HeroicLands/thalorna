@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Destroyer of the Asguardian gods—fire, savage battle, and the flame promised to end the world."
 tags: []
-data: {packFolder: deitiesasguardian}
+data: {packFolder: deitiesasguardian, culture: nordheimnclt}
 ---
 
 _**The Destroyer**—ember and volcanic rock, a fire that is going to be struck eventually and had better be struck on purpose._

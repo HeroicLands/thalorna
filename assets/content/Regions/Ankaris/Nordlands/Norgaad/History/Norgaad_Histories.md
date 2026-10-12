@@ -6,6 +6,7 @@ subType: history
 description: "Lost expeditions and a made guard in Norgaad, alongside tales of the sea, mountains and dead."
 tags: []
 data:
+  culture: nordheimnclt
   packFolder: norgaad
   events:
     - id: ironman

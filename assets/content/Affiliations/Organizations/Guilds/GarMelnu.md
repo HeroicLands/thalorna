@@ -6,6 +6,7 @@ subType: guild
 description: "Gar-Aû's chartered guild of Khelâthi smiths, armorers, and weaponcrafters—heirs to the ancient Mesnu, the harpoon-makers of Gewaâtis, and the empire's arms-makers in fact."
 tags: [organization, khelathu, xerathia, guild, metalwork, smiths]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   templatePriority: null
   demonym: null

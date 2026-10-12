@@ -13,6 +13,7 @@ subType: governmental
 description: "The ancient circle of acclaimed Dunhari warriors, meeting at the season-turns at the Stone of Ranâz to keep the peace among the tribes and to gather them against an enemy no tribe could face alone."
 tags: []
 data:
+  culture: vylarianclt
   templatePriority: null
   demonym: null
   epithet: null

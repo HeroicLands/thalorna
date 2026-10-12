@@ -8,6 +8,7 @@ subType: history
 description: "From 604 to 614 AF a Grukar horde raised in the marsh country burned Targud's eastern districts; in 613 it reached the royal hall at Nulthgard, the hird and the eastern bóndi held the ford below it for three days at Dvulgvangr and died there, and King Skruldmýl II moved his hall to Tvalgard and founded the fort-rotation that holds the frontier still."
 tags: [history, nordlands]
 data:
+  culture: nordheimnclt
   packFolder: nordlands
   events:
     - id: horde

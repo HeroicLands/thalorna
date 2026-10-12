@@ -6,6 +6,7 @@ subType: guild
 description: The textile producers of Galezkara, who depend on reliable carriage to reach distant markets and say so publicly when they get it
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

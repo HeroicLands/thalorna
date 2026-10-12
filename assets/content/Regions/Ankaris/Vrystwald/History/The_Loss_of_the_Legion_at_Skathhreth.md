@@ -8,6 +8,7 @@ subType: history
 description: "In 291 AF a Vylarian legion marched up the Legions' Road to burn Waldburg; the first common muster anyone can name let it reach the Moldún and took it at the ford in the rain, and the next spring the elders broke the talisman of the common command so that its War Chief could not keep it."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: legion

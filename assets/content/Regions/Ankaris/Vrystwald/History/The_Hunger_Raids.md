@@ -8,6 +8,7 @@ subType: history
 description: "From 515 to 528 AF, after the Three Winters, Varokh war-bands came over the Vandstein passes in numbers Moktur had never met, for cattle and grain before captives; in 518 one of them carried off a legion's eagle, and in 520 the host that carried it died in the Black Marsh."
 tags: [history]
 data:
+  culture: varokhiclt
   packFolder: vrystwald
   events:
     - id: raids

@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Fertility."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: florania
   templatePriority: null

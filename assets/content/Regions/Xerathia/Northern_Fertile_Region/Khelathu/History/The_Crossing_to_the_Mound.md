@@ -6,6 +6,7 @@ subType: history
 description: "In 1006 ST (1105 BF) the house of Azlet'Qûtu closes, and the house of Zu'Amqeletu carries the court from the Great Land of Zu-Ger to the mound at Galezkara, lays the Sun's Road on the solstice line, proclaims the law of the sightline and opens the royal necropolis of Zu-Gezer."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: -1105

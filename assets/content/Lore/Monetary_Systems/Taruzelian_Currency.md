@@ -5,6 +5,7 @@ type: lore
 subType: economy
 description: "Post-secession Tarûzelian monetary system—Vylarian-derived denominations (Aurion, Argo, Bit) issued and cleared through the Vezâkûnî's Merâzûnî rather than the Vylarian Aerarium Imperii; uses Tarûzelian-struck coin (slightly underweight Aurion, standard-weight Argo) and Tarûzelian temple-of-treasury chits."
 tags: [reference, currency, taruzel, economy]
+data: {culture: taruzelianclt}
 ---
 
 A Vylarian changer who is handed a Tarûzelian Aurion puts it on the scale before he names a price, because it is about 7 percent light. Inside Tarûzel nobody weighs it; it passes at face value from one end of the coast to the other. That difference is the whole character of the Tarûzelian currency: the empire's denominations, struck and banked by a confederation that left the empire.

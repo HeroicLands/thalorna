@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "The nobility commanding a province's hersvaldar, by royal grant in the five kingdoms or in their own right in Stormveld."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 "You hold your district because your men agree to it. I hold this province because the king gave it, and what he gave he can give to another," a jarl says to the hersvaldar who answer to him. "The ting binds the two of us alike."

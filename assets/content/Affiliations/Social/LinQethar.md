@@ -6,6 +6,7 @@ subType: fellowship
 description: Older masters and guild conservatives who hold that a craft's sanctity lies in its established methods, and who treat innovation as an attack on the order of things
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

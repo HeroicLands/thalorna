@@ -5,6 +5,7 @@ type: lore
 subType: law
 description: "One who attends the blót, the laity of the faiths of the Ten that keep it."
 tags: []
+data: {culture: nordheimnclt}
 ---
 
 Most of the faithful never become more than this. A blótmadr comes to the hof when the blót is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.

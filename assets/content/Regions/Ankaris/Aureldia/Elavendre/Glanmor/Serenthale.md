@@ -10,8 +10,9 @@ data:
   lore: [flksinale]
   parents: [glanmor]
   population: 90
-  government: nclvsrnthl
   packFolder: elavendre
+  culture: sinaleclt
+  government: nclvsrnthl
 ---
 
 **Serenthalë**, as it is called in [[skill-elvndrlng|Élavendri]], stands in the old forest of [[place-glanmor|Glanmor]], somewhere in the country between

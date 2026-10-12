@@ -6,6 +6,7 @@ subType: site
 description: "The glacier-spring of the Sarvada, high on the Southern Wall above the upper valley—the source-temple of Vyālendra and the hardest of the four to reach."
 tags: [sacred, pilgrimage, inland]
 data:
+  culture: osketclt
   demonym: null
   lore: []
   parents: [graznmntns, sthrnwall]

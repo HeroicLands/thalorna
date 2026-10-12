@@ -6,6 +6,7 @@ subType: guild
 description: "Tarûzelian Council of the Guild-Wardens—chartered by the Confederation after independence to replace the Vylarian guild umbrella with an institution drawn from Tarûzel's own pre-conquest merchant traditions and built on its own terms, in its own language."
 tags: [organization, taruzel, midhalion, guild, confederation, post-imperial]
 data:
+  culture: taruzelianclt
   templatePriority: null
   demonym: null
   epithet: null

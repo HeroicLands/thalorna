@@ -2,9 +2,9 @@
 shortcode: threats
 name: {full: Threats, aliases: []}
 type: doc
-subType: settingguide
+subType: concept
 tags: [gm]
-data: {packFolder: threats, culture: tanvuriclt}
+data: {packFolder: threats}
 ---
 
 The [[affiliation-tanvurempr|Empire of Tānvür]] has outlasted every dynasty that ruled it, and this generation it is pressed from four sides at once: a steppe warlord in the north, a renegade archipelago in the east, rebels and secret societies within, and things out of the earth that no register ever listed. Each of the notes below is written for the GM who wants to set a story against one of them, and most of them reach into the others: the rebel general would take the warlord's help, the fallen noble house owes the Black Lotus, and every faction plays the [[lore-veizhatret|Vëi Zhāt Rëit]], the court's game of manipulation, even against its allies.

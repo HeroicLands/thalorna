@@ -5,7 +5,7 @@ type: lore
 subType: custom
 description: "A tribe's small spring in the Khazryn—empty, unmarked to a stranger's eye, and never ungoverned: how ownership shows, how a traveler asks for guest-right, and what the owners do to one who camps without asking."
 tags: [reference, custom, scenario]
-data: {packFolder: settinglore}
+data: {packFolder: settinglore, culture: sowidesclt}
 ---
 
 You come over a rise at dusk and the spring is there: a dozen palms, a ring of green, a pool the width of a cart, and no one. No tent, no fire, no herd, no track in the mud but your own. The camels have smelled it, and the guide you hired at the last well has gone quiet. He does not say why. He gets down from his saddle and begins to look at the ground.

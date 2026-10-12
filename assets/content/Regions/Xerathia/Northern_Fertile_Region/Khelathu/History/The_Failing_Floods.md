@@ -6,6 +6,7 @@ subType: history
 description: "From about 256 to 268 AF the river rose short year after year, and the last Gar-Aû of the struck house hid the famine by falsifying the Measure, hoarding the temple grain and killing anyone who spoke the word hunger."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: 256

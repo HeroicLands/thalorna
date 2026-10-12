@@ -6,6 +6,7 @@ subType: literature
 description: "The sayings of one Long-Watcher of Aelirossë to the Seer he taught, in the fixed stanza the Sinalë pass a saying on in, as an Áelendan foster-child learned them in the grove and at the sickbed, ending on the Seer's own."
 tags: [draft, sinale]
 data:
+  culture: sinaleclt
   packFolder: settinglore
   form: saunari
   subjects:

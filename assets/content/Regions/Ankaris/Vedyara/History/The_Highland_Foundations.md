@@ -6,6 +6,7 @@ subType: history
 description: "Fifteen centuries ago the highland janapadas laid down the three institutions they still live by: Suvarnagiri's gold temples and constitution, Dhanurkota's four archery academies, and the first forest gift of the Bhārava-Devabhoga."
 tags: [history, vedyara]
 data:
+  culture: vedyariclt
   packFolder: vedyara
   events:
     - id: foundingtemples

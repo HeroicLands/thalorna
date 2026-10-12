@@ -6,6 +6,7 @@ subType: guild
 description: "Khelâthi informal but influential network of the empire's major trading houses"
 tags: [organization, khelathu, xerathia, draft]
 data:
+  culture: khelathiclt
   packFolder: regkhaff
   templatePriority: null
   demonym: null

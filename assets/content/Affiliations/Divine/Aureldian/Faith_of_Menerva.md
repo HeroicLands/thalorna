@@ -6,6 +6,7 @@ subType: faithtradition
 description: "Knowledge."
 tags: [aureldian, religion]
 data:
+  culture: aureldianclt
   banner: faithbnr
   icon: menerva
   templatePriority: null

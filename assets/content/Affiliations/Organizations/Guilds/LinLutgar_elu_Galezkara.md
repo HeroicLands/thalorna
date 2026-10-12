@@ -6,6 +6,7 @@ subType: guild
 description: The innkeepers of the capital, who share what they know of travellers and stand together against the merchant houses that would rather own them
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null

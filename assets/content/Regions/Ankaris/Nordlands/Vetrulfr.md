@@ -5,7 +5,7 @@ type: lore
 subType: theology
 description: "The Winter-Wolf chained at the cost of Eidgar’s hand and released at Aldarlok."
 tags: [asguardian]
-data: {packFolder: nordlands}
+data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 On the last night of [[lore-jol|Jól]], when the skald comes to the part of the telling where the chain parts, the hall goes still. "The Winter-Wolf," the skald says, "the one the Just One paid his hand for." **Vetrúlfr** is the Winter-Wolf, chained by [[lore-eidgardty|Eidgar]] at the cost of the god's own hand, in the age before any ting met to recite the deed.

@@ -5,7 +5,7 @@ type: lore
 subType: history
 description: "1671 to 1990 ST (440 to 121 BF): the longest stretch of unbroken rule before the Near Count, in which a house of the sun built its own capital, the throne reached for the eastern temple-cities of Okháris, and sea-raiders held the crown for three reigns."
 tags: [history, khelathu]
-data: {packFolder: regkhhist}
+data: {packFolder: regkhhist, culture: khelathiclt}
 ---
 
 The **Restored Crown** is the Keepers' name for the years in which the throne sat at [[place-galezkara|Galezkara]] with no rival and no conqueror on it, apart from thirty years at the very end. A schoolroom in the valley teaches it as the age of tidy lists: reign follows reign, the list gives lengths a human life can hold, and the priesthood has no need to explain a crowning.

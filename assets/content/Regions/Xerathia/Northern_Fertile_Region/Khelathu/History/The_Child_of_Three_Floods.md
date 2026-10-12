@@ -6,6 +6,7 @@ subType: history
 description: "In 2580 ST the child Gar-Aû Quz'el'Retha III went to the West in the night, and Meqes of Zu'Mequ, who had stood beside the throne as regent, was crowned in the child's second year and founded the house that reigns today."
 tags: [history, khelathu]
 data:
+  culture: khelathiclt
   packFolder: regkhhist
   events:
     - when: 470

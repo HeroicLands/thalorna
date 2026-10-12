@@ -6,6 +6,7 @@ subType: history
 description: "Between about 694 and 703 AF the Synod of Dúnavarre sent the Order of the Just Blade to end the Saelvri, a forest people of the south-eastern woods, and the last of them were killed with their children in the Hushwood."
 tags: [history]
 data:
+  culture: aelwythanclt
   packFolder: aelwyth
   events:
     - when: ~694

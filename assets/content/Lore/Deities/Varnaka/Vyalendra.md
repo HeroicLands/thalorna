@@ -5,7 +5,7 @@ type: lore
 subType: deity
 description: "The Shaper of Worlds in the Varnaka pantheon, from whose golden lotus each cycle of creation opens."
 tags: []
-data: {packFolder: deitiesvarnaka}
+data: {packFolder: deitiesvarnaka, culture: vedyariclt}
 ---
 
 _[[affiliation-vyalendra|The Shaper of Worlds]]—a four-armed figure of serene focus, holding a compass, a measuring cord, a chisel and a golden lotus._

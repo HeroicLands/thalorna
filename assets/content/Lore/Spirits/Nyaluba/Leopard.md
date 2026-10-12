@@ -7,7 +7,7 @@ type: lore
 subType: spirit
 description: "The leopard-guide of the Sengala as a being—solitary, unseen, and the one guide that travels."
 tags: [draft, nyaluba]
-data: {packFolder: lorespiritsnyaluba}
+data: {packFolder: lorespiritsnyaluba, culture: nyalubaclt}
 ---
 
 The totemic being venerated by the [[affiliation-nylbtrblntn|Sengala]]. For the cult, its

@@ -6,6 +6,7 @@ subType: governmental
 description: The frontier command on the northern desert road, holding the forts and the wells against the tribes
 tags: [generated, draft]
 data:
+  culture: khelathiclt
   templatePriority: null
   demonym: ""
   epithet: null
