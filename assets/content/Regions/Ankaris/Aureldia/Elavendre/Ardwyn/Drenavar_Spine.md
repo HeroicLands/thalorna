@@ -49,7 +49,7 @@ Trespassers who venture into sacred territory are warned once and escorted out. 
 
 ## Relations with the Crown
 
-The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar Spine for as long as the kingdom has existed, and the recognition is not ceremonial. Royal magistrates will not intervene in matters that fall within Áelendan territory; royal troops will not enter the mountains without explicit Áelendan sanction; and royal taxation does not extend to the mountain communities. In exchange, the Áelendan accept the legitimacy of the crown in the lowlands and have, on a small number of historic occasions, contributed warriors to defend Élavendre against existential threats.
+The crown of Élavendre has recognized Áelendan sovereignty over the Drenavar Spine for as long as the kingdom has existed, and the recognition is not ceremonial: the first king swore it as the Tree-Line oath ([[lore-firstcrown|The First Crowning of Élavendre]]). Royal magistrates will not intervene in matters that fall within Áelendan territory; royal troops will not enter the mountains without explicit Áelendan sanction; and royal taxation does not extend to the mountain communities. In exchange, the Áelendan accept the legitimacy of the crown in the lowlands and have, on a small number of historic occasions, contributed warriors to defend Élavendre against existential threats.
 
 ## See Also
 

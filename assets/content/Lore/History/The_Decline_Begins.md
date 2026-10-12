@@ -42,6 +42,18 @@ data:
             how: >-
               gold, weapons and naval expertise went west under the fiction of humanitarian commerce, and direct trade now bypasses Vylarian intermediaries entirely
             knowledge: named
+          - place: place-moktur
+            how: >-
+              every watchtower counts the smoke at dusk, and the sergeants teach the recruits that the count was right at the Black Marsh
+            knowledge: named
+          - place: place-aureldirgn
+            how: >-
+              the crowns pay the issuance fee as a banker's charge and call their realms members of the post-imperial commonwealth
+            knowledge: named
+          - place: place-byzariargn
+            how: >-
+              the League sits in the commonwealth, taxed by nobody and charged by the Collegium
+            knowledge: named
       who:
         - {ref: affiliation-vylarinmpr, role: victim}
         - {ref: affiliation-empireakhlth, role: actor}
@@ -49,6 +61,7 @@ data:
         - event: lore-thefounding
           how: enabled
           note: what is being lost is the reach the Empire took in the centuries after that year
+        - {event: lore-restorehouse, how: enabled}
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
@@ -63,6 +76,11 @@ data:
           says: >-
             A grown child to an aging parent—respectful, complicated, and occasionally resentful.
           agrees: partly
+        - by: affiliation-byzarianlg
+          says: >-
+            The League kept out of Tarûzel's war and carried the freight of both sides. A council that keeps its terms is worth more paid than conquered, and the Empire's losses were a matter of the Empire's accounts.
+          agrees: partly
+          withholds: that the war filled Nêsthiros's yards and its freight-houses
       unresolved: []
 ---
 

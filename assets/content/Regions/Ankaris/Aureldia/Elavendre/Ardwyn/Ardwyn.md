@@ -36,7 +36,7 @@ kingdom in western Ankaris.
 
 It is not, because the ore lies under Áelendan ground and the Áelendan do not permit mining on it. The
 prohibition is not negotiable, it is not for sale, and four centuries of Élavendren crowns have tested
-it exactly far enough to establish that it is real.
+it exactly far enough to establish that it is real ([[lore-ardwynclose|The Ardwyn Closing]]).
 
 What extraction exists is therefore:
 
@@ -52,6 +52,13 @@ numbers, every year—and the Ordo's people are the least welcome of the three. 
 Ordo in flat contempt as meddlesome intruders who come to study what the tribes exist to keep, and a
 Warden who finds a licensed surveyor above the line treats the license as an aggravation rather than a
 defense.
+
+## The King's Cut
+
+Above the tree line in the Spine lie the sealed adits of the workings a king opened to pay the Empire's tribute and the Wardens closed in a season ([[lore-ardwynclose|The Ardwyn Closing]]). Spoil heaps stand under birch, and a broken ore-road runs down to [[place-elanmere|Elanmere]]. The Wardens turn prospectors and Ordo surveyors back from it.
+
+- **A map of the old workings.** A prospector hires guides with one, and the Wardens have the original.
+- **The deepest adit.** It was sealed with more than stone.
 
 ## The Rest of the Economy
 

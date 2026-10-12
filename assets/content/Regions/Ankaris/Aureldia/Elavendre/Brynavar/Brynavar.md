@@ -48,6 +48,13 @@ has never once arrived in time.
 The hills also take a quiet cut of the trade that crosses them: pack-trains from the east pay for
 escort whether or not they wanted one.
 
+## The Lost Cohort's Camp
+
+Somewhere in the woods of the hills stands the ditched camp of the cohort that followed a path into them in the war of the tribute and was not seen again ([[lore-elvtribute|The Tribute of Élavendre]]). Hunters find it. A ditch, a bank and the lines of the tents are there under moss, and a hunter who goes back for a second look does not find the path he came by. The path to the camp is never the same path twice.
+
+- **A helmet.** A hunter brings back an imperial helmet that has not rusted.
+- **Antiquarians.** Ordo scholars want the camp, and the Wardens are unwilling to give it to them.
+
 ## Its Places
 
 - [[place-valdun|Valdûn]]—the fortified inland town that anchors the march.

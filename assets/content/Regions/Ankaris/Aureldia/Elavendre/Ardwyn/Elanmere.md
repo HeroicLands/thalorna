@@ -18,7 +18,7 @@ Elanmere is where the high country and the low country do business. It is the hi
 merchant will comfortably reach and the lowest an [[lore-aelendnppl|Áelendan]] will comfortably come
 to, which makes it the natural market for everything Ardwyn sends down: mountain cheese, hides and furs,
 wool, herbs, and the small, closely-watched quantity of worked silver and rough gemstone that the tribes
-release by arrangement.
+release by arrangement ([[lore-ardwynclose|The Ardwyn Closing]]).
 
 The autumn fair is the event of the year. For a fortnight the lake shore fills with tribal families who
 will not enter a walled town, Béravel factors who have traveled a week to meet them, and a great deal

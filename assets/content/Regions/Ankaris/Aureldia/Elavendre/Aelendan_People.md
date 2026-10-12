@@ -16,7 +16,7 @@ The **Áelendan People**—also known as the **People of the Pact**—are a sub-
 
 ## The Kindred Pact
 
-The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Kindred Pact are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits.
+The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Kindred Pact are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nélgan]]), and the pact was first sung at the lowest pool of the Long Stair in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
 
 ## Culture and Society
 

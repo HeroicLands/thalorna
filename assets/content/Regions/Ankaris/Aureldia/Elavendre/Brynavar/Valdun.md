@@ -32,6 +32,12 @@ of the hills; the iron of the eastern bloomeries is traded here; and the pack-tr
 march from the east pay their escort money in Valdûn's yards, to men who will provide the escort and
 who would in any case have been the ones to worry about.
 
+## The Tribute Road
+
+The road that reaches Valdûn from the east is marked with imperial milestones, and the milestones stop at the gate. They were set when the legions marched into the hills and the queen treated with the legate in the town ([[lore-elvtribute|The Tribute of Élavendre]]), and the Empire laid no road beyond the treaty town. The town's first wall was raised in that year, and it has been rebuilt three times since.
+
+- **A helmet that has not rusted.** A hill hunter brings one back from the woods, of an imperial pattern, and the Ordo's antiquarians want to know where it was found.
+
 ## See Also
 
 - [[place-brynavar|Brynavar]] · [[place-cerdwnshlw|Ceridwen's Hollow]]

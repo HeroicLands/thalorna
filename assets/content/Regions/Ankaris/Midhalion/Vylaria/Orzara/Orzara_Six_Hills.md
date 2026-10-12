@@ -19,7 +19,7 @@ A bearer who has carried firewood, water and wine up the hill-lanes for thirty y
 - [[place-monsaquila|Mons Aquila]], the Eagle Hill, is the highest. The walled [[place-urbsaquiln|Inner City]] and the [[place-palatimgnm|Grand Palace]] crown it.
 - **Mons Corónus** (the Coronal) and [[place-monslaurine|Mons Lauríne]] (the Laurel) are the twin patrician hills that together make **the Heights**. Corónus is the older and prouder, ringed with the ancestral villas of the senatorial houses; Lauríne is greener and newer, and the **Gilded Quarter** climbs its lower slopes.
 - **Mons Sápiens**, the Scholars' Hill, carries the [[affiliation-panepistmm|Scholars' District]] and the **Circle of Ménérva**.
-- [[place-monsvetus|Mons Vétus]], the Old Hill, was the Republic's city before the Founder walled Aquila, and was once second only to it. Its early monuments weather unrepaired, its great families have drifted to Lauríne, and its once-proud Circle has gone shabby, dignified still but visibly fading.
+- [[place-monsvetus|Mons Vétus]], the Old Hill, was the Republic's city before the Founder walled Aquila ([[lore-eaglecityrse|The Raising of the Eagle City]]), and was once second only to it. Its early monuments weather unrepaired, its great families have drifted to Lauríne after [[lore-greatburnng|The Great Burning]] ran over it, and its once-proud Circle has gone shabby, dignified still but visibly fading.
 - **Mons Rípae**, the River Hill, is the crowded working height above the wharves, its slopes packed with the densest of the **Warrens**.
 
 ## Between the Hills

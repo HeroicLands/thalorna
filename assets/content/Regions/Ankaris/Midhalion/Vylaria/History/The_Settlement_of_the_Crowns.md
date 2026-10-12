@@ -67,6 +67,9 @@ data:
         - event: lore-empirdclne
           how: enabled
           note: an Empire that cannot collect from its provinces trades governance for the fee
+        - event: lore-heladreswear
+          how: answered
+          note: the League's council had sworn the Compact again and paid the frontier garrisons for itself, and the Settlement recognizes what the oath made
       accounts:
         - by: affiliation-vylarinmpr
           says: >-
@@ -81,6 +84,11 @@ data:
           says: >-
             The Empire kept the name of a province, and the cities kept the rest.
           agrees: partly
+        - by: affiliation-byzarianlg
+          says: >-
+            The council sat in the Merchant Hall and paid its own garrisons, and the Augustar wrote down that we were free. We had already sworn it.
+          agrees: partly
+          withholds: that the League accepted the two-percent fee at the same table
       unresolved:
         - whether the crowns' envoys met in one hall or the Augustar received them one at a time
 ---
@@ -89,7 +97,7 @@ An Aurèldían factor, handing a Vylarian clerk a traveler's note at a counting-
 
 ## What the Empire Had Left
 
-By the time the estates of Provènzia made peace ([[lore-charterwar|The War of the Charter]]), the Empire had been losing provinces for a century. Tarvénia had stopped paying in the generation after the Three Winters ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The Byzarian League, annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had re-formed its council and answered to no imperial officer. Heliónis kept its cities' councils and had no governor it obeyed. The western crowns had armies of their own.
+By the time the estates of Provènzia made peace ([[lore-charterwar|The War of the Charter]]), the Empire had been losing provinces for a century. Tarvénia had stopped paying in the generation after the Three Winters ([[lore-tarvfallsawy|Tarvénia Falls Away]]). The Byzarian League, annexed three centuries before ([[lore-heladeastwar|The Eastern War]]), had sworn its Compact again and answered to no imperial officer ([[lore-heladreswear|The Re-swearing of the Compact]]). Heliónis kept its cities' councils and had no governor it obeyed. The western crowns had armies of their own.
 
 What the Empire still had was the note system. The Aerarium minted the coin, the Collegium Argentariorum issued the notes, and the Magnum Collegium held the guilds of every city under one charter ([[lore-arzanasedict|The Edicts of Arzánas]]). Every realm that had left the Empire still banked through it.
 
@@ -116,7 +124,7 @@ Provènzia's Charter was tested within a lifetime, in a succession war the Empir
 - **The post-imperial commonwealth.** The phrase in every Aurèldían and Byzarian commerce section.
 - **The two-percent fee.** The Empire's largest standing revenue from lands it does not govern.
 - **Heliónis as a province on paper.** The chancery's roll and the cities' practice, side by side.
-- **The unpaid forts.** Hereditary commanders in the Hellád who file a yearly report and wait for an answer.
+- **The unpaid forts.** Hereditary commanders in the Hellád who file a yearly report and wait for an answer ([[place-unpaidfort|The Unpaid Fort]]).
 - **The chancery's silence on the Cervaron.**
 
 ## See Also

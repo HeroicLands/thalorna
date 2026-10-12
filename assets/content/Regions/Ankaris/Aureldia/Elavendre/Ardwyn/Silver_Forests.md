@@ -28,6 +28,13 @@ The Silver Forests are one of the thinnest places between the mortal world and t
 
 The [[lore-flksinale|Sinalë]] enclaves in the deep Élavendren forests are believed to have particular connection with the Silver Forests, though the nature of that connection is not something the Sinalë have ever explained. Some Áelendan songs imply that the Silver Forests were grown by the Sinalë in cooperation with the fae at the dawn of things; others speak of the forests as predating even the Sinalë. Both versions may be true; the Áelendan do not consider these mutually exclusive.
 
+## The Felled Stand
+
+At the margin of the forests nearest [[place-eshalshldg|Eshálosha Lodge]] stands a ring of birch stumps that have never sprouted again, and the ring is kept clear. It is what is left of the stand cut in the Black Snow ([[lore-blacksnow|The Black Snow]]), and beyond it lies the fog-hollow the Wardens watch. Young Wardens are brought to see it, and nobody else is.
+
+- **A fresh stump.** Someone has cut a standing birch, and the cut is clean.
+- **The watch left for a night.** The fog-hollow has been unwatched, and something has already come through.
+
 ## Access
 
 The Silver Forests are effectively closed to outsiders. The [[affiliation-alndnwrdns|Áelendan Wardens]] patrol their approaches with particular diligence, and trespass within the forests proper is treated as a violation of the most serious order. The crown of Élavendre has acknowledged this jurisdiction for as long as the kingdom has existed, and royal magistrates decline to hear complaints from those who enter unauthorized and fail to return.
@@ -41,3 +48,4 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 - [[affiliation-alndnwrdns|Áelendan Wardens]]—The order that protects the forests
 - [[lore-faecourts|The Fae Courts]]—Related fae phenomena
 - [[lore-flksinale|Sinalë]]—The elder race associated with the forests
+- [[lore-blacksnow|The Black Snow]]—The felling that gave the Áelendan their birch law

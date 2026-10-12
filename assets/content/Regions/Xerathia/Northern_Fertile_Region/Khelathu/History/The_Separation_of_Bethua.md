@@ -30,6 +30,10 @@ data:
           - place: place-aukhelathrgq
             how: the court gains a free partner on the southern shore of the sea, and a debt that is never called
             knowledge: named
+          - place: place-pelagora2
+            how: >-
+              the city loses the fleet it sent and the colony it governed for twelve centuries, and its captains hunt Bethûan privateers from that year
+            knowledge: named
       who:
         - {ref: affiliation-mtrrchybth, role: actor}
         - {ref: affiliation-empireakhlth, role: instrument}
@@ -45,6 +49,11 @@ data:
             Bethûa won its freedom with its own spears and paid for the iron in a coin it could not mint. The price was fair, and we know the arithmetic.
           agrees: partly
           withholds: how much of the debt stands unpaid
+        - by: affiliation-pelagora
+          says: >-
+            The admiral Phéranos Rhéshîdês sailed to bring a daughter home and lost the fleet and the city's twelve centuries of right in one campaign. It was a rebellion bought with Khelâthi gold, and no Pelagoran calls it a war between equals.
+          agrees: disputes
+          withholds: that the council in Pelagora had governed the colony for its dues and sent no governor to live in it
       unresolved:
         - how long the war ran
         - whether the court of Meqes XI intended the loans to be repaid
@@ -73,6 +82,7 @@ The separation of Bethûa belongs to the age in which the Vylarian Empire and it
 - **The Khelâthi machinery of the Matriarchy.** Treasury, water corps and court accounts speak Khelâthi, and the Izet-Mû and Izet-Halzi of [[place-bethura|Bethûra]] answer to the Mêtríssa.
 - **The patron relationship.** Bethûa receives a Khelâthi envoy with a courtesy it gives no other foreign man, and the court at Galezkara cultivates the Matriarchy as an instrument, with subsidy and loans and no sentiment in it ([[affiliation-mtrrchybth|the Matriarchy of Bethûa]]).
 - **The correspondent accounts.** The Great Houses of the [[affiliation-bthntrdhss|Bethûan Trade-Houses]] keep accounts at Gár-Hálzi chapters, and a Bethûan letter of credit is redeemed in Khelâthi weight.
+- **Pelagora's grievance.** Helionite captains hunt Bethûan privateers on sight, and the council of Pelagora counts the colony's loss as a debt ([[lore-heladpelagtrty|The Pelagoran Treaty]]).
 - **A fleet.** The privateer war on Vylarian shipping that the court cannot be accused of is fought by [[affiliation-bethuanflt|the Bethûan Fleet]].
 
 ## See Also

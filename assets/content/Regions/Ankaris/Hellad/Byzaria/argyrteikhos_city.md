@@ -14,7 +14,7 @@ The caravans that cross the eastern mountains reach **Argýrteíkhos** before th
 
 ## Who Governs
 
-A military governor and a council of merchant-princes govern Argýrteíkhos. The governor also sits on the League council beside the merchant-princes, a standing reminder that the League's prosperity rests on the security of its trade routes. The garrison keeps the mountain routes open and discourages the ambitions of eastern warlords, desert raiders and bandits, and the city's visible readiness to fight is meant to make fighting unnecessary. Beyond the pass lies the [[place-eastrnmrch|Eastern March]], whose Lord Commander is the senior soldier of the League.
+A military governor and a council of merchant-princes govern Argýrteíkhos. The city held out for two years of siege about 212 AF, and the imperial prefect's office it accepted in the settlement survives as the military governor's seat ([[lore-heladcitadel|The Siege of the Silver Citadel]]). The governor also sits on the League council beside the merchant-princes, a standing reminder that the League's prosperity rests on the security of its trade routes. The garrison keeps the mountain routes open and discourages the ambitions of eastern warlords, desert raiders and bandits, and the city's visible readiness to fight is meant to make fighting unnecessary. Beyond the pass lies the [[place-eastrnmrch|Eastern March]], whose Lord Commander is the senior soldier of the League.
 
 ## Character
 

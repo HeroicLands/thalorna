@@ -741,7 +741,7 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Ghálmir**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
 | **Môgha**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
 | **Dûlthân**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Nélgan**                                 | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
+| **Nélgan**                                 | [[lore-theasking\|The Asking]], [[place-nelgan\|Nélgan]]    | `aelendi`     | —          |
 
 ### Retired names
 

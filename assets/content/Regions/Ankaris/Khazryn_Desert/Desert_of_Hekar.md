@@ -20,7 +20,7 @@ The desert covers a city. [[place-ruinsarkor|The Ruins of Arkor]], which the tri
 
 ## Raids and Relics
 
-The **Servants of Vezhnûrikos**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-drzhvzhnr|Drazha Vezhnûr]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
+The **Servants of Vezhnûrikos**, a feared military order of [[affiliation-blackflame|Black Flame]] knights, take their name from the centurion of the cohort settled in the passes ([[lore-heladvezhnur|The Vezhnûr Settlement]]), and have led punitive raids down out of the passes into the Hek'ar to spread terror and assert the Black Flame's dominance, and [[being-drzhvzhnr|Drazha Vezhnûr]] made his name as a Blazewarden leading them. The order now has another reason to cross: the Ruins of Arkor, where the **Eye of Velok** is believed to lie hidden. Rival Black Flame factions, among them the order called **Nakarys the Scourge**, are in the desert too, and they and the Servants fight each other there as readily as anyone else. An expedition into the Hek'ar meets the desert, the knights, and their quarrels together.
 
 ## Danger
 

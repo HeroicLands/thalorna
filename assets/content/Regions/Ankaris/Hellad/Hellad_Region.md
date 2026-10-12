@@ -46,7 +46,7 @@ Byzaría keeps the same gods in its own eastern rite, and its cities are more mi
 
 Hellád has no common government. Heliónis is a patchwork of sovereign [[affiliation-ctysttshlns|city-states]] bound by language, gods and philosophy, and always at war with one another or close to it, over trade, territory and honor. The Byzarian League is the most organized power in the region: a true federation with common tariffs, a shared currency, and a joint army and fleet. Its five cities guard their own autonomy jealously, and the League council's authority is limited by design.
 
-Beneath and between the two sit dozens of smaller polities. Some are pirate havens dressed up as harbor oligarchies; some are highland chieftaincies that acknowledge no outside sovereign. Here and there a fortress from the Vylarian era is still held by a hereditary commander whose commission the empire stopped paying a century ago.
+Beneath and between the two sit dozens of smaller polities. Some are pirate havens dressed up as harbor oligarchies; some are highland chieftaincies that acknowledge no outside sovereign. Here and there a fortress from the Vylarian era, such as [[place-unpaidfort|the Unpaid Fort]], is still held by a hereditary commander whose commission the empire stopped paying a century ago, when the Settlement of the Crowns left the far forts' commissions unpaid ([[lore-crownssettle|The Settlement of the Crowns]]).
 
 ## Trade
 

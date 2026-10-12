@@ -34,6 +34,9 @@ data:
           - place: place-aelwyth
             how: the Pelwar who will not stay are pushed to the sea, and some cross it
             knowledge: named
+          - place: place-nelgan
+            how: a war-band of the host crosses the mountains west of the forest and is turned back at the pass, and the Áelendan tell the chief's name to quiet children
+            knowledge: unlinked
       who: [{ref: affiliation-vrystwldtrbs, role: actor}]
       follows:
         - event: lore-varkhadcnq

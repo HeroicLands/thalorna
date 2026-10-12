@@ -35,7 +35,7 @@ always mention and residents never do.
 
 The **University of Béravel** is the largest [[affiliation-panepistmm|Panepistemium]] campus outside
 the [[affiliation-vylarinmpr|Vylarian Empire]], with several Sodalitas chapterhouses, and it makes the
-capital the center of the [[affiliation-ordoarcanis|Ordo Arcanis]]'s presence in the kingdom.
+capital the center of the [[affiliation-ordoarcanis|Ordo Arcanis]]'s presence in the kingdom. The University's oldest court is the house the Empire's legate took after the treaty ([[lore-elvtribute|The Tribute of Élavendre]]).
 
 It also makes Béravel the field on which the kingdom's central quarrel is fought. The
 [[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and the Áelendan tradition all keep

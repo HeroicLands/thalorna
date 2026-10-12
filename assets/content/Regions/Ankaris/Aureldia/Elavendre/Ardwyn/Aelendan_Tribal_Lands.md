@@ -28,7 +28,7 @@ The landscape is characterized by:
 
 - **Forested valleys**—narrow, stream-threaded, and densely wooded, connecting the high country to the lower slopes
 - **High pastures**—summer grazing for the small herds of sheep and goats that the tribal communities maintain
-- **Mountain sanctuaries**—natural features (peaks, passes, springs, caves) recognized as sacred sites of the Kindred Pact, each with its own protocols
+- **Mountain sanctuaries**—natural features (peaks, passes, springs, caves) recognized as sacred sites of the Kindred Pact, each with its own protocols; the eastern pass, [[place-nelgan|Nélgan]], is the way the people first came in
 - **Grove shrines**—smaller sacred sites scattered through the forested belts, often tended by a single Tradition Keeper or Warden
 - **Ancient trackways**—unmarked paths through the mountains and forests, known to the Áelendan and to the Wardens, and largely impassable to outsiders who have not been shown the way
 

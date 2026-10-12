@@ -45,6 +45,8 @@ Every Élavendren monarch has understood this. It is the quiet floor beneath the
 careful management of the [[affiliation-ordoarcanis|Ordo]]—and the reason no reign has ever been
 willing to let the Áelendan be pushed too far.
 
+The arrangement dates from the day the wood was given to the Áelendan in the court itself ([[lore-firesnelgan|The Fires on Nélgan]]).
+
 ## The Threshold
 
 Ethalossë itself is spare by Sinalëan standards: a court of worked stone that predates the forest around it, one of the rare stone works of a people who prefer to grow what they build, a few dwellings, and the long open way down which visitors are watched arriving for a considerable

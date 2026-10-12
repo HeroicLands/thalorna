@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Two million people live in the mountains along the northern edge of [[place-vylariargn|Vylaría Region]], against the [[place-vrystwald|Vrystwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vylarian Empire]]. Its seat is [[place-tyrellan|Tyrellan]].
+Two million people live in the mountains along the northern edge of [[place-vylariargn|Vylaría Region]], against the [[place-vrystwald|Vrystwald]], among mines, timber and fortified valleys. This is Moktur, the land of the [[affiliation-provncmktr|Province of Moktur]] of the [[affiliation-vylarinmpr|Vylarian Empire]]. Its seat is [[place-tyrellan|Tyrellan]]. The Empire organized the land as a march when it cut the [[lore-legionsroad|Legions' Road]] north into the Vrystwald, and the marshes below its passes saw the [[lore-blackmarshbtl|Battle of the Black Marsh]].
 
 A watchtower sergeant, handing a new recruit his first night on the wall, teaches the one skill the province asks of everyone: "Down there is the Vrystwald and up here is the empire, and the line between them is whatever you can see from this wall. Count the smoke. One column is a hearth. Three is a camp. Wake me for three."
 

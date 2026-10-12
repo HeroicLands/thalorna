@@ -29,7 +29,7 @@ directly will say that they live there, which is true, and change the subject.
 ## Life
 
 Charcoal, honey, hazel and withy, and the gathering of the herbs that the physicians of Béravel will
-pay absurd prices for. No felling of standing silver birch, ever, by anyone, for any reason.
+pay absurd prices for. No felling of standing silver birch, ever, by anyone, for any reason ([[lore-blacksnow|The Black Snow]]).
 
 The village keeps the old festivals rather than the Aurèldían calendar, and outsiders who arrive for
 one are made welcome and watched.

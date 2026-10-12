@@ -15,7 +15,7 @@ The Élavendri are the only human people in Ankaris who live beside the Elder Ra
 
 Élavendri society is aristocratic and organized around ancient noble houses. A noble is expected to be a patron of the arts, a steward of the land, and a practitioner of magic or at minimum a serious appreciator of it; a house that produces no artists and no mages across two generations quietly stops being counted among the first rank, whatever its acreage.
 
-Houses go to great lengths to trace descent to the Áelendan, the ancestor people, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter, and the polite Élavendri position is that a claim maintained gracefully for four hundred years has earned a certain standing regardless of its origin.
+Houses go to great lengths to trace descent to the Áelendan, the ancestor people, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter, and the polite Élavendri position is that a claim maintained gracefully for four hundred years has earned a certain standing regardless of its origin ([[lore-ardwynclose|The Ardwyn Closing]]).
 
 Commoners are farmers, craftspeople and merchants, and they live well by the standards of most of Ankaris. The aristocracy's obligation of stewardship is taken seriously enough that a lord who lets his people go hungry is worse than a bad lord—he has failed the specific duty his rank exists to discharge.
 

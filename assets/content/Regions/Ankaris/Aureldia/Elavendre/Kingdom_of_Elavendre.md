@@ -123,7 +123,7 @@ sohl: {system: {commonSkills: [elvndrlng]}}
 
 ## Overview
 
-The Kingdom of Élavendre is one of the oldest continuously governed realms in western [[place-ankrscntnnt|Ankaris Continent]], predating the [[affiliation-vylarinmpr|Vylarian Empire]] by centuries. It was never fully conquered by the empire—Vylarian legions penetrated the outer territories but the deep forests and the strange powers that dwell within them proved impossible to subdue. The empire settled for a tributary relationship that allowed Élavendre to maintain its own laws, customs, and ruling line. The kingdom holds the land of [[place-elavendre|Élavendre]].
+The Kingdom of Élavendre is one of the oldest continuously governed realms in western [[place-ankrscntnnt|Ankaris Continent]], predating the [[affiliation-vylarinmpr|Vylarian Empire]] by centuries ([[lore-firstcrown|The First Crowning of Élavendre]]). It was never fully conquered by the empire—Vylarian legions penetrated the outer territories but the deep forests and the strange powers that dwell within them proved impossible to subdue. The empire settled for a tributary relationship that allowed Élavendre to maintain its own laws, customs, and ruling line ([[lore-elvtribute|The Tribute of Élavendre]]). The kingdom holds the land of [[place-elavendre|Élavendre]].
 
 ## Government
 

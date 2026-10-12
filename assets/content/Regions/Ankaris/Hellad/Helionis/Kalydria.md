@@ -97,6 +97,8 @@ The families rule inside the forms every Helionite city keeps: a sovereign assem
 
 The Academy represents the Helionite belief that education, social grace and intellectual accomplishment cannot be separated. Its graduates occupy a distinct position in courts and salons across Mídhalión: socially elevated, intellectually formidable and well informed. A junior of the Academy, asked what the first year teaches, says: "To remember what was said at dinner, and by whom." The graduates keep in touch, and the network they form is an unofficial web of intelligence. It makes Kalydria far more influential than its military strength would suggest.
 
+The patron families of Kalydria founded the Academy about 260 BF, half a century after the conquest ([[lore-heladsilverveil|The Founding of the Silver Veil]]).
+
 ## Art and Influence
 
 The city's theater festivals draw audiences from across the [[place-vylarianse|Vylarian Sea]]. Playwrights premiere their tragedies and comedies here, and a Kalydrian prize is the highest honor a dramatist can receive. Kalydrian sculptors and painters are sought by wealthy patrons across Mídhalión, and Kalydrian training is considered the finest available.

@@ -44,7 +44,7 @@ Visitors who are invited are guided through the mountain passes by Warden escort
 
 ## The Lodge and the Crown
 
-No Élavendren monarch has ever set foot in Eshálosha without Áelendan invitation, and only a small number of monarchs have ever received such an invitation. Those who have are remembered with particular honor in Áelendan song. The crown recognizes the Lodge as the political seat of the Áelendan for purposes of the limited diplomatic intercourse that the two peoples conduct, and royal envoys who need to communicate with the Áelendan send their messages to Eshálosha through agreed channels.
+No Élavendren monarch has ever set foot in Eshálosha without Áelendan invitation, and only a small number of monarchs have ever received such an invitation. Those who have are remembered with particular honor in Áelendan song. The first king of Élavendre came up by invitation and swore the Tree-Line oath at the Lodge ([[lore-firstcrown|The First Crowning of Élavendre]]); a later king who came uninvited was turned back at the outer ridge ([[lore-ardwynclose|The Ardwyn Closing]]). The crown recognizes the Lodge as the political seat of the Áelendan for purposes of the limited diplomatic intercourse that the two peoples conduct, and royal envoys who need to communicate with the Áelendan send their messages to Eshálosha through agreed channels.
 
 ## See Also
 

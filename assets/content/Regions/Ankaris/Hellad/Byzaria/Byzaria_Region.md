@@ -69,6 +69,8 @@ The [[affiliation-ashanpnthn|Āsháian Pantheon]] has a substantial following am
 
 The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Khrýshteíkhos's **Merchant Hall** settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Khrýshteíkhos's bankers dominate the council by weight of money, Nêsthiros's admiralty by weight of ships, and Argýrteíkhos's military governor by the plain fact that the League's prosperity rests on his garrison.
 
+The empire annexed the League as a province in the Eastern War, about 209 AF ([[lore-heladeastwar|The Eastern War]]). The Compact that bound the five cities was dissolved by edict, and the cities kept their councils while the passes, the tariffs and the muster passed to imperial officers.
+
 The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vylarian Empire]] would absorb it, the Tarûzelian guilds would dominate its trade, and the Āsháian powers to the east regard it as a useful but unreliable partner; the League survives by being indispensable to all of them and subservient to none. Its wars are border wars—against desert raiders, steppe tribes and the occasional eastern warlord—fought by conscripts under the march lords and by mercenary companies contracted when the frontier turns dangerous.
 
 ## Trade

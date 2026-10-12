@@ -9,7 +9,7 @@ tags: []
 # terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonic, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---
 
-Byzarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities of the [[affiliation-byzarianlg|Byzarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. A Byzarian understands that his cities have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
+Byzarian culture is the culture of the bargain. The tongue has more words for kinds of agreement than most languages have for colors, the courts are staffed by professional arbitrators, and the highest civic honor in any of the five cities of the [[affiliation-byzarianlg|Byzarian League]] is to be named Warden of the Weights—the officer whose inspections make the city's word good. The Weighing at Khrýshteíkhos, about 455 AF, is where the first Warden proved a tax-farmer's brass standard false ([[lore-heladweighing|The Weighing at Khrýshteíkhos]]). A Byzarian understands that his cities have no great river and no divine mandate. What they have is a reputation for keeping terms, and he regards that reputation as infrastructure.
 
 ## The Guild Is the Skeleton
 
@@ -93,7 +93,7 @@ Hospitality is generous and is also a negotiation, which the Byzarians find neit
 
 The professional arbitrators are the institution a foreigner should understand. A Byzarian dispute goes to a named arbitrator chosen by both sides, whose ruling is enforced by the guilds and not by the city, and whose own standing depends entirely on being thought fair.
 
-The effect is that Byzaría has very little feud for a region bordering three peoples who run on it. A Byzarian who took a private revenge would find his charter suspended and his contracts void, which is a more comprehensive destruction than a blood-feud could manage.
+The effect is that Byzaría has very little feud for a region bordering three peoples who run on it. A Byzarian who took a private revenge would find his charter suspended and his contracts void, which is a more comprehensive destruction than a blood-feud could manage. The League council wrote the rule into ordinance about 584 AF ([[lore-heladordinance|The Ordinance of Arbiters]]).
 
 ## Where the Kept Go
 

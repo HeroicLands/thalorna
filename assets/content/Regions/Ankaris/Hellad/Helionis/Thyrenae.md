@@ -109,7 +109,7 @@ Thyrenae was the last city of Heliónis to fall, in 312 BF, on terms its archon 
 
 ## Relations
 
-Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and with the Panepistemium. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thyrenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thyrenae has built, so the two are rivals and partners together.
+Thyrenae is aligned with the [[affiliation-arldnpnthn|Aurèldían pantheon]] and with the Panepistemium. Among the cities, its closest bargain is with [[affiliation-pelagora|Pelagora]]: Thyrenae needs Pelagora's fleet, and Pelagora needs the diplomatic connections Thyrenae has built, so the two are rivals and partners together. Thyrenaeans date the rivalry to the [[lore-heladpelagtrty|Pelagoran Treaty]] of 314 BF.
 
 ## Commerce and Currency
 

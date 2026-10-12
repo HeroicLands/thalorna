@@ -77,7 +77,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-In the Province of Moktur the governor is a soldier, and some governors behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vrystwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military governors command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its governor sits at [[place-tyrellan|Tyrellan]].
+In the Province of Moktur the governor is a soldier, and some governors behave as semi-independent warlords whose loyalty to the capital is a matter of convenience as much as conviction. The province is mountainous, lies on the [[place-vrystwald|Vrystwald]] border and answers for the defense of the frontier against Varokh raids and incursions, and its military governors command wide autonomy. The Province of Moktur holds the land of [[place-moktur|Moktur]], and its governor sits at [[place-tyrellan|Tyrellan]]. The Empire organized the province as a march when it cut the [[lore-legionsroad|Legions' Road]] north into the Vrystwald, and the marshes below its passes saw the [[lore-blackmarshbtl|Battle of the Black Marsh]].
 
 ## Character
 

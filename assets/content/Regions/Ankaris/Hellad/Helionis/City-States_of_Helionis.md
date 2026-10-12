@@ -109,7 +109,7 @@ Standing runs in a short ladder. At the bottom is the _atimos_ (the dishonored),
 
 ## War Between Neighbors
 
-The cities compete constantly in trade, athletic games and artistic achievement, and sometimes in war. Helionite warfare is ritualized and restrained by the standards of western Ankaris, which is cold comfort to the people caught in it, and it comes often enough to keep the citizen militias in fighting trim.
+The cities compete constantly in trade, athletic games and artistic achievement, and sometimes in war. Helionite warfare is ritualized and restrained by the standards of western Ankaris under the [[lore-heladtruce|Truce of the Games]], which is cold comfort to the people caught in it, and it comes often enough to keep the citizen militias in fighting trim.
 
 ## Character
 
