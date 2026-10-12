@@ -16,11 +16,11 @@ A stóraldstjóri is a senior skáld whose composed sagas have been accepted int
 
 ## How the Law Treats a Person Here
 
-His compositions are what the Circle itself now stands on: the repertoire he has added to is reviewed and verified by collective recitation at every **Skaldating**, and a dispute over a contested verse is resolved against the standard his and his peers' accepted sagas set.
+His compositions are what the Circle itself now stands on: the repertoire he has added to is reviewed and verified by collective recitation at every [[lore-skaldating|Skaldating]], and a dispute over a contested verse is resolved against the standard his and his peers' accepted sagas set.
 
 ## Privileges
 
-His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skalds gives his judgment particular weight when a Skaldating resolves a disputed recitation.
+His sagas stand in the repertoire taught to every apprentice, and his standing among the senior skalds gives his judgment particular weight when a [[lore-skaldating|Skaldating]] resolves a disputed recitation.
 
 ## Obligations
 

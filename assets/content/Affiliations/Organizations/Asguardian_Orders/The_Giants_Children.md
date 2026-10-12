@@ -100,8 +100,8 @@ Day to day, the brothers serve as chapter staff, as an armed presence at remote 
 
 ## Relations
 
-- **The Asguardian priesthood** is the order's religious foundation, and its senior initiations include rites at [[place-holafell|Holafell]], the hof cut into the rock.
-- **The five Nordland crowns** tolerate the order carefully. The kings respect it, depend on its occasional interventions, and would prefer to stay out of its way. No crown levies a brother.
+- **[[affiliation-asguardian|The Asguardian priesthood]]** is the order's religious foundation, and its senior initiations include rites at [[place-holafell|Holafell]], the hof cut into the rock.
+- **[[place-nrdlndsrgn|The five Nordland crowns]]** tolerate the order carefully. The kings respect it, depend on its occasional interventions, and would prefer to stay out of its way. No crown levies a brother.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a peer, and the two orders keep a mutual respect across their theological distance.
 - **The [[affiliation-gronverdir|Green Wardens]]** are the order's opposite in belief, since the Wardens revere cultivation and the Children revere founding violence. Members of the two orders deal with each other correctly and seldom by choice.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** are the order's nearest neighbors in belief; both take an interest in primal forces. Cooperation in the field is more frequent with the Speakers than with any other order.

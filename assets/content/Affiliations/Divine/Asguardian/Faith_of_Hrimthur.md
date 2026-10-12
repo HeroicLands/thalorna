@@ -48,7 +48,7 @@ Hrímthur is therefore worshipped as substance rather than as a person. He grant
 
 Where he is depicted at all he is shown as a slope rather than a figure—a white ridge with a wound in it, or a jaw of grey stone breaking the snow. The [[affiliation-thursborn|Giant's Children]] carry the wound as a cut pattern across the chest, which is the faith's only universal image.
 
-His hofs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the **Northern Hall** in [[place-targud|Targud]] is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
+His hofs are few and hard to reach. [[place-holafell|Holafell]] in [[place-norgaad|Norgaad]] is the oldest, a sanctuary cut into rock, and the [[affiliation-thursborn|Northern Hall]] in [[place-targud|Targud]] is the largest; between them stand a scatter of hörgar on high ground where the stone shows through.
 
 ## Sacred Objects
 
@@ -68,7 +68,7 @@ The faith names none. A dead giant who is the world's substance has no messenger
 
 ## High Ceremonies
 
-- **The Renewal of the Wound:** Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
+- **[[lore-renewalwound|The Renewal of the Wound]]:** Cut into the rock at Holafell at the turn of winter, by whichever adherent the Holafell faction has put forward that year, and as many of the Giant's Children as have come. What is cut is never mended between one year and the next.
 - **The Naming of the Stone:** A hof's grey chips are brought out, counted aloud against the roll of the hall's dead, and returned to the floor.
 
 ## Ordeals for Favor

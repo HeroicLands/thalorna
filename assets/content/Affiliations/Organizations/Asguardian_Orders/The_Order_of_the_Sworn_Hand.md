@@ -90,8 +90,8 @@ A knight works in three forms:
 
 ## The Order and Its Neighbors
 
-- **Eidgar's priesthood** stands over the order in religion and leaves it independent in operation. The priesthood does not direct the order's rulings, and the order does not preach. The Hofgodi of Lögstead puts the division in a sentence: the knight enforces with his own sword, and the godi binds the oath the ruling rests on.
-- **The five Nordland crowns** are served alike. The kings maintain the order's chapter halls and grant the wand of office passage through their territories, and tension arises when a knight's ruling runs against a crown's interest.
+- **[[affiliation-eidgar|Eidgar's priesthood]]** stands over the order in religion and leaves it independent in operation. The priesthood does not direct the order's rulings, and the order does not preach. The Hofgodi of Lögstead puts the division in a sentence: the knight enforces with his own sword, and the godi binds the oath the ruling rests on.
+- **[[place-nrdlndsrgn|The five Nordland crowns]]** are served alike. The kings maintain the order's chapter halls and grant the wand of office passage through their territories, and tension arises when a knight's ruling runs against a crown's interest.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]** and the order have a standing agreement that any signed company member subject to the order's judgment is surrendered to its custody on demand. The agreement holds.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** is a religious peer. The two orders sometimes cooperate when a matter needs both legal and ritual authority.
 - **Foreign powers and the [[affiliation-ordoarcanis|Ordo Arcanis]]** get nothing from the order, which keeps no relations with foreign jurisdictions. An Ordo agent who tries to invoke the order's authority in a Nordlands matter is politely told that it serves only the kingdoms in which it is chartered.

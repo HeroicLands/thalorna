@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Knalthann stands 5'8" with a slight, scholarly frame, weighing about 155 pounds. His light skin is pale from long hours spent indoors reviewing testimony and drafting legal codes. His gray hair is thin and combed back from a high forehead, and his blue eyes are sharp and probing—the kind of gaze that makes liars instinctively look away. His features are narrow and precise, with a long face, a thin blade of a nose, pursed lips, and deeply arched brows that give him a permanently skeptical expression. He leans on a tall staff inscribed with **Eidgar**'s runes, which serves as both walking stick and symbol of his legal authority. Knalthann dresses in simple robes of dark blue and gray, unadorned except for a silver brooch denoting his rank as Lawspeaker. His hands are ink-stained, and he carries a leather case of documents wherever he goes.
+Knalthann stands 5'8" with a slight, scholarly frame, weighing about 155 pounds. His light skin is pale from long hours spent indoors reviewing testimony and drafting legal codes. His gray hair is thin and combed back from a high forehead, and his blue eyes are sharp and probing—the kind of gaze that makes liars instinctively look away. His features are narrow and precise, with a long face, a thin blade of a nose, pursed lips, and deeply arched brows that give him a permanently skeptical expression. He leans on a tall staff inscribed with [[lore-eidgardty|Eidgar]]'s runes, which serves as both walking stick and symbol of his legal authority. Knalthann dresses in simple robes of dark blue and gray, unadorned except for a silver brooch denoting his rank as Lawspeaker. His hands are ink-stained, and he carries a leather case of documents wherever he goes.
 
 # Dossier {#dossier}
 
@@ -389,9 +389,9 @@ Knalthann's legal knowledge is encyclopedic, encompassing the traditions of doze
 
 ### Patrons
 
-**Vraldorv One-Hand**—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
+[[being-vrldrvonhnd|Vraldorv One-Hand]]—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
 
-**The Ting of Nordheim**—The great assembly of northern leaders has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
+**The Ting of [[place-nordheim|Nordheim]]**—The great assembly of northern leaders has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
 
 ### Enemies
 

@@ -113,7 +113,7 @@ A Varokh in [[place-vandstein|Vandstein]] who wants to say that a thing is forei
 
 About 120 AF the [[affiliation-vylarinmpr|Empire]] at its height cut a road north out of Moktur over the Vandstein highlands, aimed at the river crossing at [[place-waldburg|Waldburg]]. Its engineers raised a chain of timber-and-stone forward posts beside it, each a day's march from the last, and set a milestone at every mile. Vylarian coin came up the road with the garrisons and stayed in the forest when the garrisons went back down it, which is why the aurion is the money of Vrystwald to this day.
 
-The road went where the engineers wanted except in one place. At **Fródhaven** it bends around a sacred shelter of the Varokh village there, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
+The road went where the engineers wanted except in one place. At [[place-frodhaven|Fródhaven]] it bends around a sacred shelter of the Varokh village there, and the bend is still in the ruts. The village tells it as the one time the legions were made to ask, and the tellings disagree about what the village was paid.
 
 ## The Friendly Chiefs
 
@@ -128,7 +128,7 @@ The road could carry a legion north, and in 291 one marched up it to burn Waldbu
 ## What It Left
 
 - **The road.** Overgrown and broken, its bridges gone to the rivers, its ruts still legible under the moss where the ground is dry. The [[affiliation-blckpnwlvs|Blackpine Wolves]] hunt travelers on a stretch of it north of the Vylarian border garrison, among milestones that still count miles to a crossing no legion reached.
-- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrástein]]'s standing stone watches one, and a Vylarian claimant is presently trying to buy the ground under it; **Ríkstein**'s ruined tower tempts outsiders to claim the ground around it.
+- **The posts.** Stone shells in the southern woods, picked over by generations of Varokh treasure-hunters. [[place-thrastein|Thrástein]]'s standing stone watches one, and a Vylarian claimant is presently trying to buy the ground under it; [[place-rikstein|Ríkstein]]'s ruined tower tempts outsiders to claim the ground around it.
 - **The Varokh of Moktur.** Kindreds a village disowned, living on the Empire's land under the Empire's lords, and still Varokh in speech and in their totems.
 - **Vylarian coin.** The forest's money, which nobody in the forest has ever been taxed in.
 

@@ -88,7 +88,7 @@ Every watchtower in [[place-moktur|Moktur]] keeps the custom of counting smoke. 
 
 ## The Famine in the Forest
 
-The [[lore-threewinters|Three Winters]] of 512 to 514 fell on [[place-vrystwald|Vrystwald]] as hard as on the Nordlands. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At **Sundhaven** on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
+The [[lore-threewinters|Three Winters]] of 512 to 514 fell on [[place-vrystwald|Vrystwald]] as hard as on the Nordlands. The rivers froze to the bed and stayed frozen past the thaw, the clearings gave nothing two summers running, and the stores the household mistresses keep against a lean year ran out in the second winter. The old stopped eating so the young could, which Varokh custom permits and does not ask of anyone, and in a failed winter the three elders of each village apportioned what was left with the kindreds. At [[place-sundhaven|Sundhaven]] on the western shore a whale came ashore in the worst of it and fed the village until the thaw, and its ribs stand over the village gate.
 
 The villages of the southern forest had one thing the northern ones did not. Over the [[place-vandstein|Vandstein]] passes lay Moktur's valleys, full of cattle and grain the famine had touched less, and nothing between the forest and the valleys but the mountains and the watch.
 
@@ -111,7 +111,7 @@ No Shaman went south with the host, because no Shaman goes raiding, and nobody c
 ## What It Left
 
 - **The smoke-counting.** Every tower on the Moktur frontier counts the forest's columns at dusk, and the Black Marsh is the most famous night the count was right.
-- **Castrovar.** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
+- **[[place-castrovar|Castrovar]].** A legion fortress-town of six thousand built to stop the Grain Summers, and still manned against the raids that followed.
 - **Gargrund's empty places.** A village in Vandstein that recites forty names at Weskskald with no rite after them, and asks every party bound south whether they will carry a Shaman.
 - **The decline.** The Empire's own account of its losses names barbarian pressure from Vrystwald, and this is what it means.
 

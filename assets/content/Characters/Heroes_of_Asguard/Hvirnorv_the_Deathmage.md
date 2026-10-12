@@ -392,15 +392,15 @@ Hvirnorv's necromantic powers are staggering: he can raise armies of the dead, b
 
 **Náhild herself**—The goddess of the underworld considers Hvirnorv her most effective mortal agent, though she is well aware of his ambitions. She provides him with dark power and commands while keeping a watchful eye on his loyalty.
 
-**The Nightwight Council**—A cabal of Helspawn lords who serve Náhild and recognize Hvirnorv as their most powerful member. They provide him with Helspawn servants and intelligence.
+**The [[affiliation-nghtwghtcncl|Nightwight Council]]**—A cabal of Helspawn lords who serve Náhild and recognize Hvirnorv as their most powerful member. They provide him with Helspawn servants and intelligence.
 
 ### Enemies
 
 **The Temple of Eidgar**—The entire faith of Eidgar has sworn to destroy Hvirnorv for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
 
-**The Sinalë of Haulonna**—The Sinalë whose sanctuary was later devastated by Hluskmýl under Hvirnorv's indirect influence seek to eliminate all of Náhild's champions.
+**The Sinalë of [[place-haulonna|Haulonna]]**—The Sinalë whose sanctuary was later devastated by Hluskmýl under Hvirnorv's indirect influence seek to eliminate all of Náhild's champions.
 
-**Vraldorv One-Hand**—The champion of Eidgar views Hvirnorv as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
+[[being-vrldrvonhnd|Vraldorv One-Hand]]—The champion of Eidgar views Hvirnorv as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
 
 ## Plot Hooks
 

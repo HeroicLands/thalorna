@@ -56,7 +56,7 @@ The district talked about it through the summer. Most people thought the frost h
 
 ## The Rotation
 
-Every bóndi in Targud stands his weeks at the forts in his turn, and the turns go round the districts through the year, so that one district's turn falls in the sailing weeks and another's in the dark months. That year the district's turn fell at midwinter. The hersvald made the count at [[lore-vetrnaetr|Vetrnaetr]]. Gnurthorv's name was in it and Dvurnthann's, and both were sent to **Draskborg**.
+Every bóndi in Targud stands his weeks at the forts in his turn, and the turns go round the districts through the year, so that one district's turn falls in the sailing weeks and another's in the dark months. That year the district's turn fell at midwinter. The hersvald made the count at [[lore-vetrnaetr|Vetrnaetr]]. Gnurthorv's name was in it and Dvurnthann's, and both were sent to [[place-driskborg|Draskborg]].
 
 Draskborg is a beacon-tower on a rise above the river, on the burned ground, a day and a half east of Tvalgard by the sledge road and two days back against the weather. It was raised to watch the river and not to hold it. There is a palisade around the rise, one gate on the Tvalgard side, the tower with the beacon laid on top of it, and a hall under the tower that sleeps two shifts. The whole of its duty is to see what comes up the river, to light the _dresk_ so that Tvalgard sees it, and to hold the gate until Tvalgard comes. It is cold.
 
@@ -131,7 +131,7 @@ I lean on. It wants moving.
 
 The men took that as it was meant and laughed, and Gnurthorv laughed with them, carefully.
 
-The second day went as the first. The fort's verse on the gate is this one, with the line the Skaldating would not settle left out of it:
+The second day went as the first. The fort's verse on the gate is this one, with the line the [[lore-skaldating|Skaldating]] would not settle left out of it:
 
 : The gate {#gate}
 

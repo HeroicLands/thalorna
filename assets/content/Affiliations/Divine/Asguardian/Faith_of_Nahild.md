@@ -66,7 +66,7 @@ Her followers are devoted to spreading death and chaos. Her priests perform ritu
 
 She commands an army of the undead, reanimated by her dark magic. [[lore-nagengir|Nágengir]] ("the favored and terrible") are her elite warriors and sorcerers, guardians of her temples and leaders of her undead armies. [[lore-haugverdir|Hrúmverdir]] are the corpses of the weak and the dishonored, mindless servants and soldiers in her legions.
 
-A worshipper carries an obsidian shard for darkness and the void, a bone fragment as a reminder of mortality and of power over the dead, or a black candle used to honor her dominion over the dead. Two relics belong to the faith. **The Eye of the Void** is unique, a cursed artifact said to amplify the powers of death and chaos and venerated in every temple of Náhild. **Nightblade** is a ceremonial dagger used in ritual sacrifices, believed able to sever the soul from the body.
+A worshipper carries an obsidian shard for darkness and the void, a bone fragment as a reminder of mortality and of power over the dead, or a black candle used to honor her dominion over the dead. Two relics belong to the faith. [[lore-ginnauga|The Eye of the Void]] is unique, a cursed artifact said to amplify the powers of death and chaos and venerated in every temple of Náhild. **Nightblade** is a ceremonial dagger used in ritual sacrifices, believed able to sever the soul from the body.
 
 ## The Clergy
 

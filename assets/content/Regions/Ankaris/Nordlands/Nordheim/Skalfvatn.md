@@ -19,7 +19,7 @@ The ice-fishers of both shores teach their children one sound before any other: 
 
 ## The Ice at Skalfvatn
 
-In 466, in the last weeks of winter, King **Gnirthorv** of Malagna led his host across the frozen lake to take Nordheim's host from behind, against his own pilots' word that the ice was shuddering. King **Thrildorv** of Nordheim held the far shore, and the ice gave under the Malagnan center: about eleven hundred men and the king went through in the time it takes to tell it. Nordheim burned its own dead with full honors. The Malagnan drowned stayed under the ice, unburned and without grave-ale, and [[lore-nordkinwars|The Kin-Wars]] tells the battle and the peace that followed it.
+In 466, in the last weeks of winter, King [[affiliation-kingdomlgn|Gnirthorv]] of Malagna led his host across the frozen lake to take Nordheim's host from behind, against his own pilots' word that the ice was shuddering. King [[affiliation-kngdmnrdhm|Thrildorv]] of Nordheim held the far shore, and the ice gave under the Malagnan center: about eleven hundred men and the king went through in the time it takes to tell it. Nordheim burned its own dead with full honors. The Malagnan drowned stayed under the ice, unburned and without grave-ale, and [[lore-nordkinwars|The Kin-Wars]] tells the battle and the peace that followed it.
 
 ## The Vrellvöll
 
@@ -29,7 +29,7 @@ Neither shore fishes the anniversary month. Children of both learn the marching 
 
 ## The Headland Stones
 
-The Malagnan shore keeps a ring of standing stones on the headland above the deepest water, eleven hundred of them, each cut with a drowned man's name by the kin who could not raise him a howe. One stone is blank. It is Gnirthorv's, for a king whose arm-ring was never brought up, and the **Hlurthidrokh**, the royal line of Malagna, names itself from his son **Hlurthann I** rather than from the king under the ice.
+The Malagnan shore keeps a ring of standing stones on the headland above the deepest water, eleven hundred of them, each cut with a drowned man's name by the kin who could not raise him a howe. One stone is blank. It is Gnirthorv's, for a king whose arm-ring was never brought up, and the [[affiliation-kingdomlgn|Hlurthidrokh]], the royal line of Malagna, names itself from his son [[affiliation-kingdomlgn|Hlurthann I]] rather than from the king under the ice.
 
 ## What Lies There
 

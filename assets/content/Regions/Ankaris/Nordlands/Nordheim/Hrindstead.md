@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [nordheim], population: 0, packFolder: 
 
 ## Overview
 
-Follow the [[place-nalthmark|Nalthmark]] road down past the last fenced farms of [[place-nordheim|Nordheim]] and you come to Hrindstead: a stockade of Nordheim settlers standing in an oak grove that the **Eichthúl**, a [[lore-varokhiclt|Varokhi]] clan, hold to be theirs. The settlement is twelve years old, and its name says what its founders meant by it: _hrind-_, a thing set down that will not be moved, before _-stead_, a farmstead. The thing set down is the settlers' own hall-posts, carried down the road from the halls they left and planted in the grove.
+Follow the [[place-nalthmark|Nalthmark]] road down past the last fenced farms of [[place-nordheim|Nordheim]] and you come to Hrindstead: a stockade of Nordheim settlers standing in an oak grove that the [[lore-nalthmrktkng|Eichthúl]], a [[lore-varokhiclt|Varokhi]] clan, hold to be theirs. The settlement is twelve years old, and its name says what its founders meant by it: _hrind-_, a thing set down that will not be moved, before _-stead_, a farmstead. The thing set down is the settlers' own hall-posts, carried down the road from the halls they left and planted in the grove.
 
 ## The Land-Taking
 

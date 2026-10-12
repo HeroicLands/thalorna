@@ -86,7 +86,7 @@ The current roster stands at seven—every experienced hunter the clan can spare
 
 ## Territory
 
-The Gárskald's traditional hunting grounds stretch across roughly sixty miles of the central Vrystwald, bounded on the south by the Moldún River and on the north by Blackthorn Ridge. Three seasonal camps serve as bases: the Summer Lodge in the eastern meadows, the Winter Hold in the protected Deepwood valleys, and the Swift-Elk Camp along the Moldún where river crossings make good ambush points for migrating herds.
+The Gárskald's traditional hunting grounds stretch across roughly sixty miles of the central Vrystwald, bounded on the south by the Moldún River and on the north by Blackthorn Ridge. Three seasonal camps serve as bases: the Summer Lodge in the eastern meadows, the Winter Hold in the protected Deepwood valleys, and the [[place-swiftelkcamp|Swift-Elk Camp]] along the Moldún where river crossings make good ambush points for migrating herds.
 
 Trails are marked subtly—notches in bark, arrangements of stone, carved symbols only a Varokh hunter would recognize. Trespassers are warned once. Those who violate the hunting grounds a second time do not leave.
 

@@ -391,7 +391,7 @@ Dvulgynda's stealth abilities border on the supernatural; she can move through g
 
 **The Shadow Market**—An underground network of thieves, fences, and information brokers who provide Dvulgynda with contracts, intelligence, and a market for her acquisitions.
 
-**Vélgrímr**—The god of cunning takes a personal interest in Dvulgynda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
+[[lore-velgrimrdty|Vélgrímr]]—The god of cunning takes a personal interest in Dvulgynda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
 
 ### Enemies
 

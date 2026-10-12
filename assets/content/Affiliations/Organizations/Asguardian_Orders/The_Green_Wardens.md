@@ -82,8 +82,8 @@ The Guardian swears three things.
 
 ## Relations
 
-- **Fródvin's priesthood** is the order's religious foundation, and many Guardians are also lay priests of Fródvin.
-- **The five Nordland crowns** grant the stations land-use rights and informal exemption from levy, since a stationed Guardian's value to a crown is that he is not in the field with the king's host. The relationship is generally cordial and sometimes strained when a crown wants to raise a levy that includes valley folk under Guardian protection.
+- **[[affiliation-frodvin|Fródvin's priesthood]]** is the order's religious foundation, and many Guardians are also lay priests of Fródvin.
+- **[[place-nrdlndsrgn|The five Nordland crowns]]** grant the stations land-use rights and informal exemption from levy, since a stationed Guardian's value to a crown is that he is not in the field with the king's host. The relationship is generally cordial and sometimes strained when a crown wants to raise a levy that includes valley folk under Guardian protection.
 - **The [[affiliation-malldbndlg|Málalidabandalag]]** and the Guardians keep a wary mutual respect. A signed company and a Guardian are sometimes on opposite sides of the same raid, the company hired to take a farmstead and the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a sibling order. The two recognize each other and sometimes cooperate when a matter of contested harvest or steading involves judgment.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** cooperate with the Wardens formally in winter, when the Speakers' weather-craft and the Guardians' practical valley defense overlap.

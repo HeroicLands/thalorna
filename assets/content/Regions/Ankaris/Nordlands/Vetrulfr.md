@@ -12,7 +12,7 @@ On the last night of [[lore-jol|Jól]], when the skald comes to the part of the 
 
 The [[affiliation-eidgar|Faith of Eidgar]] reads that sacrifice as the whole of its teaching about law: a binding costs the binder first. The [[affiliation-eidhond|Order of the Sworn Hand]] carries the broken-handed sigil in memory of it.
 
-In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrúlfr slips his chain and the wolf-winter comes down. [[lore-odvardty|Ódvar]] falls to the wolf, and the wolf falls to Ódvar's son, **Aldvar**, the first of the [[lore-tvelgaett|Tvelgaett]].
+In the standard telling of [[lore-aldarlok|Aldarlok]], Vetrúlfr slips his chain and the wolf-winter comes down. [[lore-odvardty|Ódvar]] falls to the wolf, and the wolf falls to Ódvar's son, [[lore-tvelgaett|Aldvar]], the first of the [[lore-tvelgaett|Tvelgaett]].
 
 The Winter-Wolf is one of two chained beasts, and the other belongs to Eidgar's own end rather than Ódvar's. [[lore-dulmvargr|Dulmvargr]], the hound chained at the landing of [[place-nulthey|Nulthey]], is the one that destroys Eidgar and is destroyed with him.
 

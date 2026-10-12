@@ -397,7 +397,7 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 **The Ash Reavers**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
 
-**Svilthselda Ashenmaiden**—Though Svilthselda serves **Svartbrandr** with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
+[[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves [[lore-svartbrandrdty|Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 
 ## Plot Hooks
 

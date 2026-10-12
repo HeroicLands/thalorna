@@ -361,7 +361,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hlarthvir stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation by **Fródvin**, his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
+Hlarthvir stands 6'5" with a massive, towering frame, weighing well over 260 pounds. Since his transformation by [[lore-frodvindty|Fródvin]], his weathered skin has taken on a bark-like texture in places, particularly across his shoulders and forearms, and leaves sometimes sprout unbidden from his thick brown hair. His green eyes carry the deep, ancient quality of forest canopy—patient, watchful, and faintly luminous in dim light. His features are craggy and broad, with a heavy brow, a wide flat nose, a square jaw, and a mouth that has grown increasingly silent as his humanity fades. His hands are enormous, gnarled like old roots, and the scent of loam and green wood clings to him. Hlarthvir wears no armor, only simple garments of rough-spun cloth and leather that seem to blend with the forest around him. He carries a staff of living oak that has begun to put out green shoots in his grip.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ Since his transformation, Hlarthvir can communicate with trees and forest creatu
 
 **The Iron Consortium**—A mining and logging operation that seeks to clear-cut vast tracts of ancient forest. They have hired mercenaries to deal with the 'forest spirit' that has been disrupting their operations.
 
-**The Curse-Maker**—The unknown creator of the artifact that spawned the fire-worms. Hlarthvir senses that this entity is aware of him and planning something new.
+The Curse-Maker—The unknown creator of the artifact that spawned the fire-worms. Hlarthvir senses that this entity is aware of him and planning something new.
 
 ## Plot Hooks
 

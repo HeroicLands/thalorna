@@ -13,7 +13,7 @@ Sumarmál is the seasonal blót of return, kept at the beginning of summer, roug
 
 ## The Offerings
 
-[[lore-frodvindty|Fródvin]] is prominent at Sumarmál. [[lore-thrunvalddty|Thrúnvald]] is invoked for seafaring, and among the coastal peoples who keep the older names, **Hafvald** is prominent too. What the household asks is a good growing year and a good sailing year.
+[[lore-frodvindty|Fródvin]] is prominent at Sumarmál. [[lore-thrunvalddty|Thrúnvald]] is invoked for seafaring, and among the coastal peoples who keep the older names, [[miscgear-hornnjordur|Hafvald]] is prominent too. What the household asks is a good growing year and a good sailing year.
 
 ## Tings and Oaths
 

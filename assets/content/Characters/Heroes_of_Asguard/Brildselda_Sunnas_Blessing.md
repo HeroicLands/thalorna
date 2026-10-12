@@ -389,13 +389,13 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 ### Patrons
 
-**The Temple of Fródvin at Fródfjall**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
+**The Temple of Fródvin at [[place-frodfjall|Fródfjall]]**—The temple at the sacred mountain considers Brildselda their most gifted healer and provides her with supplies, training, and access to their most closely guarded healing knowledge.
 
 **The Widows' Circle**—An informal network of women across the northern settlements who have lost family to war. They shelter and supply Brildselda during her travels in exchange for her healing services.
 
 ### Enemies
 
-**Hvirnorv the Deathmage**—The necromancer views Brildselda's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
+[[being-hvrnrvdthmg|Hvirnorv the Deathmage]]—The necromancer views Brildselda's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
 
 **The Blood Cult of Svartbrandr**—An extremist faction within Svartbrandr's faith that believes healing the land prevents the necessary purification by fire. They consider Brildselda a heretic against the natural order.
 

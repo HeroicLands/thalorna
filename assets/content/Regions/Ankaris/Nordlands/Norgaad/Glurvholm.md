@@ -14,7 +14,7 @@ Twice a day the sea takes Glurvholm back. At low water it is a flat islet of bla
 
 ## The Old Hof
 
-The ring is a hof of **Hafvald**, the sea-power the coast placated before the [[lore-asvinir|Ásvinir]] came into the songs, and it is older than any hall in Norgaad. Nobody keeps it by office. Hvarnvík's fishers row out to it at [[lore-sumarmal|Sumarmál]], when the boats go back on the water, and leave the year's first catch in the hollow for the tide to take, and the same fishers tuck one thumb under when the Ten are counted, which [[lore-nrgadhstry|Histories and Legends of Norgaad]] records. On the landward face of the largest stone a fist is cut into the rock with the thumb tucked under, worn almost smooth, and a fisher touches it on the way out and on the way back.
+The ring is a hof of [[miscgear-hornnjordur|Hafvald]], the sea-power the coast placated before the [[lore-asvinir|Ásvinir]] came into the songs, and it is older than any hall in Norgaad. Nobody keeps it by office. Hvarnvík's fishers row out to it at [[lore-sumarmal|Sumarmál]], when the boats go back on the water, and leave the year's first catch in the hollow for the tide to take, and the same fishers tuck one thumb under when the Ten are counted, which [[lore-nrgadhstry|Histories and Legends of Norgaad]] records. On the landward face of the largest stone a fist is cut into the rock with the thumb tucked under, worn almost smooth, and a fisher touches it on the way out and on the way back.
 
 What Hafvald was, and what became of him when the Ásvinir took the coast's prayers, the fishers do not say and the godar do not ask. The horn-shaped hollow fits nothing anyone owns.
 

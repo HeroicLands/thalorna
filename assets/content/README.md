@@ -248,3 +248,28 @@ tolerated and fails the build.
 
 Inside the packs, a wikilink whose target is not published is left as literal
 text rather than becoming a broken link.
+
+## Bold names in northern prose
+
+A proper name in the Nordlands and Vrystwald notes is either the subject of the
+paragraph that introduces it or a pointer to the note that tells its story.
+
+- **A name with an account elsewhere is a wikilink, not bold.** A king, a royal
+  clan, a rite, an order, a hall or a god is linked to the note that carries its
+  account: `[[affiliation-kngdmnrdhm|Svalthorv]]`, not `**Svalthorv**`. A person
+  whose only account is a line in a kingdom's royal line links to that
+  kingdom's note.
+- **A bold phrase keeps its bold and links the name inside it**, as in
+  `**The Temple of Fródvin at [[place-frodfjall|Fródfjall]]**`. A standalone
+  wikilink is never bold.
+- **A name introduced and explained in its own paragraph stays bold** where it
+  first appears. The note whose subject it is does not link to itself.
+- **A name that is only an epithet** (The Collector, The Winter Witch) is plain
+  text until an author coins the personal name; no name is invented to fill the
+  gap.
+- **A significant name with no account gets a note**, typed by what the
+  surrounding prose says it is: a village, a mound, a landing, a mountain range
+  or a person. When the prose gives no usable identity, the name is not
+  invented into one.
+- **A rite explained in its faith's note** links to that faith. A rite with
+  distinct lore of its own has its own `subType: custom` note.

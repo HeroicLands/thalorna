@@ -62,13 +62,13 @@ data:
       unresolved: ["what received the people the Grukar took, if anything did"]
 ---
 
-At **Mahnrýth** in [[place-skathwald|Skathwald]] the village raises its lament at the seasonal turning beside a mound with nobody in it. The mound is **Mahnhróm**, the kinsmen's mound, and it was raised for the people the [[lore-grukarfolk|Grukar]] took in the winters of the Waking, of whom nothing was left to bury. Every Skathwald child is taken to it once, and told why the village sings there and never at the thicket a day's walk east.
+At [[place-mahnryth|Mahnrýth]] in [[place-skathwald|Skathwald]] the village raises its lament at the seasonal turning beside a mound with nobody in it. The mound is [[place-mahnhrom|Mahnhróm]], the kinsmen's mound, and it was raised for the people the [[lore-grukarfolk|Grukar]] took in the winters of the Waking, of whom nothing was left to bury. Every Skathwald child is taken to it once, and told why the village sings there and never at the thicket a day's walk east.
 
 ## The Waking
 
 The famine of the [[lore-threewinters|Three Winters]] emptied the eastern forest. Villages that had held Skathwald's clearings against the Grukar for centuries lost a third of their people, and the ones that were left drew in toward each other and stopped walking their old bounds. Grukarholm is a prevalence and not a country, and a Grukar tribe that outgrows its ground does not cross a border to bud: a faction carries a young spawner, an Ahk, far enough from its parent to wake, and any unclaimed forest will serve.
 
-About 532 one did, in a marsh thicket among Varokh villages in the emptied east. Nobody saw it coming, because nobody was walking that ground any more. In one winter the new tribe took three villages. The reciters do not agree which fell first or why none of them called the others in time, and the question is still asked in Skathwald with an edge in it. The survivors of the three walked west in deep winter under **Mahnilda yra Erthrúnd wur Mahnrýth**, a household mistress of one of them, carrying what stores they had left, and cut a clearing a day's walk from the nearest village. It became Mahnrýth, the clearing of the kinsmen. One of the lost villages had kept its totem in a standing stone, and its scattered families still visit the stone at **Weskstein**, where a village has grown up around it since.
+About 532 one did, in a marsh thicket among Varokh villages in the emptied east. Nobody saw it coming, because nobody was walking that ground any more. In one winter the new tribe took three villages. The reciters do not agree which fell first or why none of them called the others in time, and the question is still asked in Skathwald with an edge in it. The survivors of the three walked west in deep winter under **Mahnilda yra Erthrúnd wur Mahnrýth**, a household mistress of one of them, carrying what stores they had left, and cut a clearing a day's walk from the nearest village. It became Mahnrýth, the clearing of the kinsmen. One of the lost villages had kept its totem in a standing stone, and its scattered families still visit the stone at [[place-weskstein|Weskstein]], where a village has grown up around it since.
 
 ## The Burning
 
@@ -79,10 +79,10 @@ The Grukar fight hardest at the spawner, and the muster had to cut its way to th
 ## What It Left
 
 - **[[place-grimak|Grimak]], the fierce thicket.** A ring of burned stumps around a black hollow, regrown with thorn. It is a [[lore-bloodfield|blood-field]]: the people taken there died unreceived, and something in the thicket calls Varokh names in a grandmother's voice.
-- **Mahnhróm, the empty mound.** A kinsmen's mound with grave goods and no dead in it, for the taken. A Grukar raid that takes another of the village's people opens the old argument at once: whether to open the mound for the new name, or raise another.
-- **Mahnrýth.** A refugee clearing that became a lasting village, whose old people can still say which of the three lost villages their kindred came from.
-- **The custom at Frithholt.** **Frithholt**, the village nearest the old lost ground, shelters displaced kin without claiming them as its own, and has since the Waking.
-- **The Rádholt alarm.** The grove council at **Rádholt** sounds its alarm if anyone is missing near the thicket, and the whole village goes out with torches before dark.
+- **[[place-mahnhrom|Mahnhróm]], the empty mound.** A kinsmen's mound with grave goods and no dead in it, for the taken. A Grukar raid that takes another of the village's people opens the old argument at once: whether to open the mound for the new name, or raise another.
+- **[[place-mahnryth|Mahnrýth]].** A refugee clearing that became a lasting village, whose old people can still say which of the three lost villages their kindred came from.
+- **The custom at Frithholt.** [[place-frithholt|Frithholt]], the village nearest the old lost ground, shelters displaced kin without claiming them as its own, and has since the Waking.
+- **The Rádholt alarm.** The grove council at [[place-radholt|Rádholt]] sounds its alarm if anyone is missing near the thicket, and the whole village goes out with torches before dark.
 
 ## See Also
 

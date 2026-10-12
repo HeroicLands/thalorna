@@ -14,7 +14,7 @@ The well bearing Minnir's name holds waters that bestow wisdom, and the god sacr
 
 ## The Rite at Ódholm
 
-The faith keeps the well in a rite. The **Rite of Minnir's Well** uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, and it teaches in a gesture what the rune-priest teaches in words: wisdom must be paid for.
+The faith keeps the well in a rite. The [[affiliation-odvar|Rite of Minnir's Well]] uses a blessed chalice to stand for those waters when the rune-staves are recast for the coming season, and it teaches in a gesture what the rune-priest teaches in words: wisdom must be paid for.
 
 : The Mouth Beside the Well
 

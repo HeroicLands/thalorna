@@ -44,7 +44,7 @@ Ask a [[lore-varokhiclt|Varokh]] how old a feud is and the answer is a count of 
 
 A Varokh dates an event three ways, and a reciter at Weskskald uses all three.
 
-- **By the winter's name.** Every village names a winter for what happened in it: the winter the whale came ashore at **Sundhaven**, the winter the ice took the ford, the winter of the Waldburg killing. A village's own winters are what its old people argue about.
+- **By the winter's name.** Every village names a winter for what happened in it: the winter the whale came ashore at [[place-sundhaven|Sundhaven]], the winter the ice took the ford, the winter of the Waldburg killing. A village's own winters are what its old people argue about.
 - **By the count since.** When something happens that every hearth in the forest remembers, the reciters begin the count again from it, and a winter is "the twentieth since". That count is the Tally, and the seven stretches it divides into are the ages below.
 - **By the _eldskorn_ (ancestor tally).** At Weskskald a kindred recites its dead name by name, and an event is placed by how far back in the tally it falls: "it was in Hródmund's time, eleven names back." At about thirty winters to a name, the deeds a tally remembers reach some three centuries; beyond that the names run on bare, the ones who are the forest now.
 
@@ -85,7 +85,7 @@ The mixed host the [[lore-varkhadcnq|Varkhad conquest]] made out of the eastern 
 
 ### The Mound Centuries (MC), from about 1100 BF
 
-Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to **Vrystengrund**, a Deepwood village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and Vylaria was a rumor of the south.
+Twelve centuries of villages, palisades, totems and mounds, and the longest age by far. The three seats took their shape in it, and so did the custom of splitting a village at five hundred, which the tellings give to [[place-vrystengrund|Vrystengrund]], a Deepwood village whose elders were offered a chief over them and walked out instead. Villages pushing into the eastern forest found the [[lore-grukarfolk|Grukar]] already there, sent parties to treat with them that never came back, and named that country [[place-skathwald|Skathwald]], the harm wood. The Nordmal kingdoms rose to the north, and Vylaria was a rumor of the south.
 
 ### The Legions' Road (LR), from about 120 AF
 

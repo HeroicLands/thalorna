@@ -24,13 +24,13 @@ That is why the hofs of the Ten speak of the cutting with pride rather than unea
 
 ## Why Holafell Refuses the Word
 
-The adherents of the [[affiliation-hrimthur|Faith of Hrímthur]] call it the first cutting and nothing else. A blót, they say, is given willingly by a household that owns what it gives, and nobody asked the giant. Their rites are not poured on an altar but cut into the rock, because what was done to him was a cutting, and the **Renewal of the Wound** cut at [[place-holafell|Holafell]] at the turn of every winter keeps that cut open on purpose. An Adherent there gives the dispute its shortest form: "They call it a feast because they ate. He calls it nothing, because he is the plate."
+The adherents of the [[affiliation-hrimthur|Faith of Hrímthur]] call it the first cutting and nothing else. A blót, they say, is given willingly by a household that owns what it gives, and nobody asked the giant. Their rites are not poured on an altar but cut into the rock, because what was done to him was a cutting, and the [[lore-renewalwound|Renewal of the Wound]] cut at [[place-holafell|Holafell]] at the turn of every winter keeps that cut open on purpose. An Adherent there gives the dispute its shortest form: "They call it a feast because they ate. He calls it nothing, because he is the plate."
 
 The [[affiliation-thursborn|Giant's Children]] stand closest to Holafell's reading. Their doctrine holds that the world's continued existence depends on the founding violence being renewed, and they fight in that conviction. The hofs of the Ten do not condemn either faith for its reading; they treat the Renewal as accurate and the word they refuse as Holafell's own business.
 
 ## What the Cutting Asks of You
 
-A newcomer to the north meets the Thursblót in small things before anyone explains it. A hof of Hrímthur counts its gray chips, struck from its own floor, aloud against the roll of its dead at the **Naming of the Stone**, and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a hörgr on high ground. At every blót of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
+A newcomer to the north meets the Thursblót in small things before anyone explains it. A hof of Hrímthur counts its gray chips, struck from its own floor, aloud against the roll of its dead at the [[affiliation-hrimthur|Naming of the Stone]], and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a hörgr on high ground. At every blót of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
 
 ## See Also
 

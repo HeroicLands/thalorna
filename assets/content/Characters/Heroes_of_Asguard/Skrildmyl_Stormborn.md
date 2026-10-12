@@ -365,7 +365,7 @@ Skrildmýl stands 6'1" with a heavy, solid frame, weighing around 220 pounds. Hi
 
 # Dossier {#dossier}
 
-Skrildmýl was born to a warrior clan that had long worshiped **Thrúnvald** as their protector. From a young age, he was taught the ways of battle, learning to wield a hammer and shield in honor of the thunder god. Skrildmýl was known for his indomitable spirit and his ability to rally his fellow warriors even in the face of overwhelming odds. His connection to Thrúnvald was evident to all who knew him; lightning seemed to follow him wherever he went, and his war cry was said to echo like thunder across the battlefield.
+Skrildmýl was born to a warrior clan that had long worshiped [[lore-thrunvalddty|Thrúnvald]] as their protector. From a young age, he was taught the ways of battle, learning to wield a hammer and shield in honor of the thunder god. Skrildmýl was known for his indomitable spirit and his ability to rally his fellow warriors even in the face of overwhelming odds. His connection to Thrúnvald was evident to all who knew him; lightning seemed to follow him wherever he went, and his war cry was said to echo like thunder across the battlefield.
 
 The saga of Skrildmýl Stormborn is one of endurance and unwavering faith. During a brutal winter, Skrildmýl's village was beset by devastating storms that threatened to destroy everything they held dear. The people, fearing that Thrúnvald had forsaken them, turned to Skrildmýl for guidance. Skrildmýl, believing that Thrúnvald was testing their faith, led his people in a desperate journey to the sacred mountain of [[place-thrumufjall|Thrumufjall]], where it was said Thrúnvald had struck the earth with [[lore-thrunhamarr|Thrúnhamarr]]. Through blizzards and freezing winds, Skrildmýl led his people, never faltering in his belief that Thrúnvald would protect them. At the peak of the mountain, Skrildmýl called out to Thrúnvald, and in response, the storms ceased, and the skies cleared.
 
@@ -391,13 +391,13 @@ Skrildmýl is a natural leader whose presence on the battlefield can turn the ti
 
 **The Council of Elders**—The governing body of his clan, who support Skrildmýl's leadership and provide him with warriors, resources, and political backing.
 
-**Hnirvmýl the Wise**—The renowned seer serves as Skrildmýl's advisor, providing prophetic guidance and diplomatic counsel that complements Skrildmýl's martial approach.
+[[being-hnirvmylwise|Hnirvmýl the Wise]]—The renowned seer serves as Skrildmýl's advisor, providing prophetic guidance and diplomatic counsel that complements Skrildmýl's martial approach.
 
 ### Enemies
 
 **Jarl Vrathann Wolfson**—A rival clan leader who views Skrildmýl's unification efforts as a threat to his own power. Vrathann has been building alliances with other jarls to oppose Skrildmýl.
 
-**The Winter Witch**—A mysterious sorceress who claims the storms that beset Skrildmýl's village were her doing, not Thrúnvald's test. She hints at darker plans for the northern lands.
+The Winter Witch—A mysterious sorceress who claims the storms that beset Skrildmýl's village were her doing, not Thrúnvald's test. She hints at darker plans for the northern lands.
 
 ## Plot Hooks
 

@@ -52,15 +52,15 @@ the witnesses who first heard it; a tale can change while the place it names rem
 
 ## The Kingdom's Past
 
-Vithgard's crown has been with the **Thalmidrokh** at [[place-thrunborg|Thrúnborg]] since the acclamations, and its law has been kept at [[place-logstead|Lögstead]] since the [[affiliation-eidhond|Order of the Sworn Hand]] raised its mother-hall there about 330. The kingdom's hunger was as old as its kings: the [[lore-threewinters|Three Winters]] of 512 to 514 fell on Vithgard as hard as on Nordheim, and the kin-fell story is told in both. Its long dark gave it the two judgments below, the emptying of Ísdal in 630 and the burning at Askholm in 679, both in the memory of men whose grandfathers saw them.
+Vithgard's crown has been with the [[affiliation-kngdmvthgrd|Thalmidrokh]] at [[place-thrunborg|Thrúnborg]] since the acclamations, and its law has been kept at [[place-logstead|Lögstead]] since the [[affiliation-eidhond|Order of the Sworn Hand]] raised its mother-hall there about 330. The kingdom's hunger was as old as its kings: the [[lore-threewinters|Three Winters]] of 512 to 514 fell on Vithgard as hard as on Nordheim, and the kin-fell story is told in both. Its long dark gave it the two judgments below, the emptying of Ísdal in 630 and the burning at Askholm in 679, both in the memory of men whose grandfathers saw them.
 
-King **Tvarnthann** died in the winter dark of 694 with two sons by two wives and no heir acclaimed, and the levies fought seven summers until a Sworn Hand brought the brothers to Lögstead in 701; [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] tells it. **Snirvmýl** is king at Thrúnborg, **Glirvorv** holds Hrandstead for his life, and the kingdom is quiet in the way a hall is quiet before a funeral.
+King [[affiliation-kngdmvthgrd|Tvarnthann]] died in the winter dark of 694 with two sons by two wives and no heir acclaimed, and the levies fought seven summers until a Sworn Hand brought the brothers to Lögstead in 701; [[lore-vthgrdsccwrs|The Vithgard Succession Wars]] tells it. [[affiliation-kngdmvthgrd|Snirvmýl]] is king at Thrúnborg, [[affiliation-kngdmvthgrd|Glirvorv]] holds Hrandstead for his life, and the kingdom is quiet in the way a hall is quiet before a funeral.
 
 ## The Burning at Askholm
 
 In 679, forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
-of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. **Völva Aldrhildr** was accused but not tried. A
+of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. [[place-hnarvdal|Völva Aldrhildr]] was accused but not tried. A
 [[lore-swornhandrnk|Sworn Hand]] ruled that foretelling alone was no working against a named person.
 
 The ruling survives as a precedent, while the deaths remain a grievance. Some plateau clans avoid
@@ -71,11 +71,11 @@ vindicate the burning of those who were tried.
 ## The Emptying of Ísdal
 
 In 630, ninety years ago, sickness went up [[place-isdal|Ísdal]] in the polar dark. One child survived, remembered as the
-**Loft-Girl**. The [[place-hrandstead|Hrandstead]] ting held the empty farms for the dead on a Sworn Hand's word until their
+[[place-isdal|Loft-Girl]]. The [[place-hrandstead|Hrandstead]] ting held the empty farms for the dead on a Sworn Hand's word until their
 last owner was laid. The ruling remains a claim against descendants who want to reclaim the dale.
 The dead have not all been laid, and its farms stand empty.
 
-In a separate telling the sickness is a woman called the **Grey Walker**, carrying a sieve and a
+In a separate telling the sickness is a woman called the [[place-isdal|Grey Walker]], carrying a sieve and a
 sack. Some say she served [[affiliation-nahild|Náhild]]; others say she gives a face to disease and
 winter. The emptying and the ting's judgment are remembered history. The Walker's identity is not
 known.

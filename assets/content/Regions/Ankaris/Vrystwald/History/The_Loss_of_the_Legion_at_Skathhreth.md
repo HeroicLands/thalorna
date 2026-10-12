@@ -86,7 +86,7 @@ data:
       unresolved: [how Dorgulf died, "how many fragments there were, and how many are still kept"]
 ---
 
-Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's name for the Moldún ford before he learns the passes: **Skathhreth**, the harm ford. The legion that marched to it in 291 was the largest force the Empire ever sent into [[place-vrystwald|Vrystwald]], and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
+Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's name for the Moldún ford before he learns the passes: [[place-skathhreth|Skathhreth]], the harm ford. The legion that marched to it in 291 was the largest force the Empire ever sent into [[place-vrystwald|Vrystwald]], and almost none of it came back. The Varokh remember the battle for what it proved and the winter after it for what it nearly cost them.
 
 ## The March to Waldburg
 

@@ -78,7 +78,7 @@ data:
       unresolved: ["who keeps the rock shrines at the leavers' landing, and for what"]
 ---
 
-The oldest mound in the Deepwood is **Véthhróm**, the hallowed mound. Reciters teach the children at Weskskald that both of the forest's peoples are buried in it, and when a child asks which people that means, the reciter's answer is the history of the Varokh in one sentence: the ones who were here, and the ones who came, and nobody has been able to tell them apart for two thousand years.
+The oldest mound in the Deepwood is [[place-vethhrom|Véthhróm]], the hallowed mound. Reciters teach the children at Weskskald that both of the forest's peoples are buried in it, and when a child asks which people that means, the reciter's answer is the history of the Varokh in one sentence: the ones who were here, and the ones who came, and nobody has been able to tell them apart for two thousand years.
 
 ## The Host Out of the East
 
@@ -88,7 +88,7 @@ About 1250 BF that host reached the eastern edge of the forest that is now [[pla
 
 ## The Driving-Out along the Bay
 
-The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edrwald|Edrwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of Skaldwald still claim to know. They gathered at a stone landing on the bay, **Theódhaven**, the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varokh. Most of them did not arrive at all.
+The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edrwald|Edrwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of Skaldwald still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varokh. Most of them did not arrive at all.
 
 They left holy ground behind them that the host did not understand: rock-cut shrines at the landing, springs, and burial places with no Varokh name. The [[affiliation-alndnwrdns|Áelendan Wardens]] keep Varokh parties off several of those places on the Edrwald shore to this day, and they have never said for whom.
 
@@ -98,8 +98,8 @@ The Varokh call Vrystwald their primeval homeland, and the claim rests on both h
 
 ## What It Left
 
-- **Véthhróm, the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
-- **Theódhaven, the leavers' landing.** A stone landing and rock-cut shrines on the Edrwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
+- **[[place-vethhrom|Véthhróm]], the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
+- **[[place-theodhaven|Theódhaven]], the leavers' landing.** A stone landing and rock-cut shrines on the Edrwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
 - **The forest itself.** No Varokh grove, mound or village name is older than this age, and every one of them sits on ground somebody else named first.
 
 A Varokh child who finds a carved stone on the bay shore and brings it home brings a question with it that no Shaman in Edrwald wants to answer: whose dead the stone was cut for, and whether they are owed anything by the people who took the wood.

@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Blackthorn Ridge is the northern bound of the **Gárskald** clan's hunting grounds in the central [[place-vrystwald|Vrystwald]], and it is the line the clan's elders tell their hunters not to cross. South of it lie some sixty miles of oak and pine the Gárskald have hunted for as long as anyone remembers; north of it lies country no Varokh clan claims, older, darker and denser than anything in the central forest, with trees so large that their canopy keeps the snow off the ground.
+Blackthorn Ridge is the northern bound of the [[affiliation-wldjgrrndgrskld|Gárskald]] clan's hunting grounds in the central [[place-vrystwald|Vrystwald]], and it is the line the clan's elders tell their hunters not to cross. South of it lie some sixty miles of oak and pine the Gárskald have hunted for as long as anyone remembers; north of it lies country no Varokh clan claims, older, darker and denser than anything in the central forest, with trees so large that their canopy keeps the snow off the ground.
 
 ## Beyond the Ridge
 

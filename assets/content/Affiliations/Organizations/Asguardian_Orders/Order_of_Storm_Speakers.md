@@ -101,8 +101,8 @@ The combat doctrine is built on heavy weapons: the two-handed hammer, the short 
 
 ## Relations
 
-- **Thrúnvald's priesthood** is the order's religious foundation.
-- **The five Nordland crowns** grant coastal land for chapter halls and protect the order's movements. The order in turn keeps the coastal defense arrangements the crowns find indispensable.
+- **[[affiliation-thrunvald|Thrúnvald's priesthood]]** is the order's religious foundation.
+- **[[place-nrdlndsrgn|The five Nordland crowns]]** grant coastal land for chapter halls and protect the order's movements. The order in turn keeps the coastal defense arrangements the crowns find indispensable.
 - **The [[affiliation-eidhond|Order of the Sworn Hand]]** is a peer, and the two cooperate when a matter needs both legal and tactical authority.
 - **The [[affiliation-gronverdir|Green Wardens]]** cooperate with the Speakers formally in winter, since weather and harvest are interrelated concerns.
 - **The [[affiliation-thursborn|Giant's Children]]** are the order's closest neighbors in belief, because both orders take an interest in primal forces. They cooperate in the field more often than the Speakers do with the more domestic orders.

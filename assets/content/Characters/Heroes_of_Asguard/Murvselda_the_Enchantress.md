@@ -397,7 +397,7 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 **The Fallen Advisor's Family**—The relatives of the corrupt advisor Murvselda exposed have sworn revenge. They work through proxies and hired assassins to discredit and destroy her.
 
-**Jarl Braldorv Embersteel**—A warlike lord who distrusts Murvselda's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
+[[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—A warlike lord who distrusts Murvselda's influence over the king and views her as a manipulative sorceress rather than a wise counselor.
 
 ## Plot Hooks
 

@@ -12,7 +12,7 @@ data: {culture: nordheimnclt}
 
 ## What This Standing Is
 
-A skald is made by a skald: an apprentice's progression begins when a sitting master identifies a candidate, typically in late childhood, and continues ten to fifteen years through memorization, composition, and presentation. His life is his master's life until the master judges him fit to compose his own first saga, the _gyldra_, delivered before assembled skalds at a **Skaldating**.
+A skald is made by a skald: an apprentice's progression begins when a sitting master identifies a candidate, typically in late childhood, and continues ten to fifteen years through memorization, composition, and presentation. His life is his master's life until the master judges him fit to compose his own first saga, the _gyldra_, delivered before assembled skalds at a [[lore-skaldating|Skaldating]].
 
 ## How the Law Treats a Person Here
 
@@ -20,7 +20,7 @@ He is entitled to nothing of the Circle's own—not its hospitality, not the bin
 
 ## Privileges
 
-He may present a _gyldra_ at a Skaldating, and if it is accepted he is sworn into the Circle by his own master and becomes a sworn skald in his own right.
+He may present a _gyldra_ at a [[lore-skaldating|Skaldating]], and if it is accepted he is sworn into the Circle by his own master and becomes a sworn skald in his own right.
 
 ## Obligations
 

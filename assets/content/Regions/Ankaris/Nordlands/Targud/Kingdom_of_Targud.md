@@ -106,7 +106,7 @@ Targud's kings come from the **Driskarukh**, whose name says they hold the crown
 
 - **Skruldmýl I**, about 528 to 556, raised the first eastern watchtowers.
 - **Skruldmýl II**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
-- **Braldmýl I**, about 630 to 658, raised **Draskborg** and the beacon line on the burned ground.
+- **Braldmýl I**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
 - **Skruldmýl III**, about 686 to 700.
 - **Thraldvir**, about 700 to 707, whose reign was the shortest in the line.
 - **Braldmýl II**, king since 707.

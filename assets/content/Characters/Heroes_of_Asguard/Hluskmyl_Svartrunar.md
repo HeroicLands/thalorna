@@ -390,17 +390,17 @@ Hluskmýl's runic magic is devastatingly effective at corrupting natural and div
 
 ### Patrons
 
-**Náhild**—The goddess favors Hluskmýl's particular talent for corrupting places of life and beauty, which directly advances her dominion.
+[[lore-nahilddty|Náhild]]—The goddess favors Hluskmýl's particular talent for corrupting places of life and beauty, which directly advances her dominion.
 
-**The Nightwight Council**—Though many of its members find Hluskmýl distasteful, they recognize his power and utility, providing him with information about new targets.
+**The [[affiliation-nghtwghtcncl|Nightwight Council]]**—Though many of its members find Hluskmýl distasteful, they recognize his power and utility, providing him with information about new targets.
 
 ### Enemies
 
-**The Sinalë**—The Firstborn consider Hluskmýl among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-haulonna|Haulonna]].
+[[lore-flksinale|The Sinalë]]—The Firstborn consider Hluskmýl among the most hated names in their long memory. Their agents search tirelessly for a way to destroy him and free the spirits of [[place-haulonna|Haulonna]].
 
-**Ansorudhe Lonvunto's Spirit**—The bound spirit of the Sinalo guardian resists Hluskmýl's control and works to undermine him from within the corrupted enclave.
+**[[place-haulonna|Ansorudhe Lonvunto]]'s Spirit**—The bound spirit of the Sinalo guardian resists Hluskmýl's control and works to undermine him from within the corrupted enclave.
 
-**Hnirvmýl the Wise**—The seer has foreseen that Hluskmýl's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
+[[being-hnirvmylwise|Hnirvmýl the Wise]]—The seer has foreseen that Hluskmýl's corruption will eventually threaten the entire northern land if left unchecked and has made the necromancer's destruction a personal mission.
 
 ## Plot Hooks
 

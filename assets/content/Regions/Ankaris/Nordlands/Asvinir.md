@@ -14,7 +14,7 @@ What makes the Ásvinir kin is common cause, not harmony. They stand against [[l
 
 ## The Older Name on the Coast
 
-On the coasts the liturgy has a rival in memory. In the coastal tellings the Ásvinir largely displaced the older tradition of **Hafvald**, whose name survives in place-names, in coastal observances and in the [[miscgear-hornnjordur|Horn of Hafvald]]. A coastal godi will point out the place-names and the Horn and then stop, because the sagas leave open whether that elder sea-power was a god or a spirit.
+On the coasts the liturgy has a rival in memory. In the coastal tellings the Ásvinir largely displaced the older tradition of [[miscgear-hornnjordur|Hafvald]], whose name survives in place-names, in coastal observances and in the [[miscgear-hornnjordur|Horn of Hafvald]]. A coastal godi will point out the place-names and the Horn and then stop, because the sagas leave open whether that elder sea-power was a god or a spirit.
 
 ## See Also
 

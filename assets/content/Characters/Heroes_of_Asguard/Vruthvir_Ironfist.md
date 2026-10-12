@@ -365,7 +365,7 @@ Vruthvir stands 6'1" with a massive, heavily muscled frame, weighing around 240 
 
 # Dossier {#dossier}
 
-Vruthvir was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of **Svartbrandr**. As he grew, Vruthvir became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
+Vruthvir was a blacksmith's son, born with a strength that set him apart from other children. He was fascinated by the forge and the molten metal that flowed within it, seeing in it the raw power of [[lore-svartbrandrdty|Svartbrandr]]. As he grew, Vruthvir became a master blacksmith, forging weapons and armor that were said to be unbreakable. However, his true passion was for battle, where he could unleash the fire within him. He became known as Ironfist for his devastating blows, which could shatter shields and crush bones with ease.
 
 The saga of Vruthvir Ironfist is one of endurance and relentless fury. When an army of stone giants threatened his homeland, Vruthvir knew that only the fire of Svartbrandr could defeat them. He forged a mighty warhammer, imbued with the flames of his forge, and led his people into battle. The stone giants, immune to ordinary weapons, crumbled before Vruthvir's fiery strikes. However, the battle took its toll on Vruthvir, who was severely wounded and left for dead. Refusing to succumb, he crawled back to his forge, where he immersed himself in the flames, offering his life to Svartbrandr in exchange for the power to finish the battle. Svartbrandr answered, reigniting Vruthvir's spirit and giving him the strength to return to the battlefield, where he defeated the remaining giants with his warhammer blazing with the power of Svartbrandr himself.
 
@@ -391,7 +391,7 @@ Vruthvir's smithing skill is legendary; weapons and armor from his forge are pri
 
 **The Smiths' Brotherhood of Nordheim**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
 
-**Jarl Braldorv Embersteel**—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
+[[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—The same lord who patronizes Vrithorv also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
 
 ### Enemies
 

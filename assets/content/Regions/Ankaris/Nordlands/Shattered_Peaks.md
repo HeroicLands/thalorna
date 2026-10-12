@@ -16,7 +16,7 @@ The Shattered Peaks are a compact massif in the mountain interior of the [[place
 
 ## Geography
 
-The massif stands in the high **Flarnfjall** country of central [[place-norgaad|Norgaad]], above the pass road that climbs from Tvarnmark toward the mining valleys beyond. The name is literal. Frost works the dark stone of the Peaks the way it works no other rock in the north, splitting it along its grain so that every summit stands as a cluster of leaning spires and toppled slabs, and the skyline from any side reads as something broken. Below the spires the slopes are scree, loose and sharp and moving, and below the scree lie hanging glaciers that calve into the cirques with a crack that carries for miles.
+The massif stands in the high [[place-flarnfjall|Flarnfjall]] country of central [[place-norgaad|Norgaad]], above the pass road that climbs from Tvarnmark toward the mining valleys beyond. The name is literal. Frost works the dark stone of the Peaks the way it works no other rock in the north, splitting it along its grain so that every summit stands as a cluster of leaning spires and toppled slabs, and the skyline from any side reads as something broken. Below the spires the slopes are scree, loose and sharp and moving, and below the scree lie hanging glaciers that calve into the cirques with a crack that carries for miles.
 
 There is one practicable crossing: a notched saddle on the western face, reached by a scramble over scree, that opens onto a high, wind-scoured plateau and drops again by a gully on the east. A strong party clears it in three days of summer daylight. Every other line through the Peaks ends at a cliff, a crevasse, or a slope that gives way underfoot.
 

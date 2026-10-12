@@ -26,7 +26,7 @@ A hierarchy of priests and priestesses keeps the rites, interprets the ravens an
 
 ## The Raven Guard
 
-The temple keeps a garrison of elite warriors, the **Raven Guard**, who are sworn to the temple and to the defense of the north's holy places. That combination of mystical authority and martial strength gives Ódholm real influence for its size, and it is part of why Nordheim counts the settlement as strategic as well as holy. Trade flows through it, and merchants come as pilgrims to offer tribute and ask a blessing on their ventures.
+The temple keeps a garrison of elite warriors, the [[affiliation-ravenguard|Raven Guard]], who are sworn to the temple and to the defense of the north's holy places. That combination of mystical authority and martial strength gives Ódholm real influence for its size, and it is part of why Nordheim counts the settlement as strategic as well as holy. Trade flows through it, and merchants come as pilgrims to offer tribute and ask a blessing on their ventures.
 
 ## See Also
 

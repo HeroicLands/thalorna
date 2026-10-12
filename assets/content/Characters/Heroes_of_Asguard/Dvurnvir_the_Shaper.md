@@ -391,11 +391,11 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 **The Wanderers of Mótefnir**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
-**Arkálís of the Panepistemium**—A Panepistemium scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
+**Arkálís of the [[affiliation-panepistmm|Panepistemium]]**—A Panepistemium scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
 ### Enemies
 
-**The Ordo Arcanis**—The Ordo views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched Quaesitors to investigate his activities.
+[[affiliation-ordoarcanis|The Ordo Arcanis]]—The Ordo views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched Quaesitors to investigate his activities.
 
 **The Dreadspawn Hunters**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
 

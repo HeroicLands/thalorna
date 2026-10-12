@@ -44,13 +44,13 @@ frontier's history, not evidence of a peace bought from a nest.
 
 ## The Kingdom's Past
 
-Targud was a kingdom of farms before it was a kingdom of forts. Its kings, the **Driskarukh**, held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and **Skruldmýl I**, about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hird and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and **Skruldmýl II** fell back to [[place-tvalgard|Tvalgard]] and ordered every bóndi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son **Braldmýl I** raised **Draskborg** and the beacon line about 640, which the saga of [[lore-storalddraskborg|Stórald of Draskborg]] remembers from the other end.
+Targud was a kingdom of farms before it was a kingdom of forts. Its kings, the [[affiliation-kingdmtrgd|Driskarukh]], held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [[affiliation-kingdmtrgd|Skruldmýl I]], about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hird and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [[affiliation-kingdmtrgd|Skruldmýl II]] fell back to [[place-tvalgard|Tvalgard]] and ordered every bóndi in the kingdom onto the wall in turn; [[lore-burningeast|The Burning of the East]] tells it. His son [[affiliation-kingdmtrgd|Braldmýl I]] raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Stórald of Draskborg]] remembers from the other end.
 
-Three kings have held Tvalgard since 686: **Skruldmýl III**, his short-lived son **Thraldvir**, and **Braldmýl II**, king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
+Three kings have held Tvalgard since 686: [[affiliation-kingdmtrgd|Skruldmýl III]], his short-lived son [[affiliation-kingdmtrgd|Thraldvir]], and [[affiliation-kingdmtrgd|Braldmýl II]], king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
 
 ## The Sword Named Thirst
 
-The [[place-tvalgard|Tvalgard]] hall is said to hold **Vrellbrandr**, the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
+The [[place-tvalgard|Tvalgard]] hall is said to hold [[place-tvalgard|Vrellbrandr]], the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
 story its hilt and scabbard are bound together with nine knots, checked each morning. Its making is
 placed before the land to the east was burned, about 590. A teller warns that it must drink when drawn or turn
 on the one who draws it. One older king's kinsman is said to have spared his own men by killing a

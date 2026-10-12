@@ -21,7 +21,7 @@ The gods receive their shares by the season's custom. [[lore-solrundty|Sólrún]
 
 The hall's búvördr (steward) seats its honored old by the door and serves them first. The place nearest the way out is the place of honor. A household that cannot provision its elders must seek help from other kin and halls, and the obligation can enter [[lore-kinhalcrdt|hall credit]] and weigh on a house that leaves it unpaid.
 
-Tellers connect the door-seat to the **Three Winters**, the famine remembered in the kin-fell tale: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath. The custom is plain to every guest, and no one at the door waits for the argument to finish.
+Tellers connect the door-seat to the [[lore-threewinters|Three Winters]], the famine remembered in the kin-fell tale: a place near the way out became a place of honor when people swore they would feed the old. The tellers differ over the oath. The custom is plain to every guest, and no one at the door waits for the argument to finish.
 
 ## The Howe-Wake
 

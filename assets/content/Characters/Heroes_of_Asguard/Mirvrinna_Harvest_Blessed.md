@@ -365,7 +365,7 @@ Mirvrinna stands 5'7" with a sturdy, strong-limbed frame, weighing about 165 pou
 
 # Dossier {#dossier}
 
-Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from **Fródvin**, and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
+Mirvrinna was born during a bountiful harvest, a time of great prosperity for her village. Her birth was seen as an omen of continued plenty, and from a young age, Mirvrinna showed a remarkable talent for agriculture. Under her care, crops grew larger and more plentiful, and the animals of the village thrived. Mirvrinna believed that her abilities were a gift from [[lore-frodvindty|Fródvin]], and she devoted herself to the god, performing rituals and ceremonies to honor him and ensure the continued prosperity of her people.
 
 The saga of Mirvrinna Harvest-Blessed tells of how she saved her village from a terrible famine. After several years of prosperity, the rains failed and the crops withered. Mirvrinna journeyed to the ancient standing stones of [[place-vyldvangr|Vyldvangr]], where Fródvin himself had blessed the earth. There, she performed a ritual of renewal, offering the last of her village's grain to the earth and praying for Fródvin's mercy. A great wind arose, the skies darkened, and rain began to fall. Under her guidance, the villagers replanted their fields, and the harvest that followed was the largest and most bountiful in memory.
 
@@ -389,13 +389,13 @@ Mirvrinna's agricultural knowledge combines practical expertise with divine bles
 
 ### Patrons
 
-**The Standing Stones of Vyldvangr**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
+**The Standing Stones of [[place-vyldvangr|Vyldvangr]]**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
 
 **The Northern Farmers' Alliance**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
 
 ### Enemies
 
-**The Blight-Bringer**—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
+The Blight-Bringer—A mysterious entity or person responsible for the increasing frequency of crop failures across the north. Mirvrinna has been investigating and is getting dangerously close to the truth.
 
 **Jarl Grimbeard's Tax Collectors**—A lord who imposes crushing taxes on the villages Mirvrinna serves, deliberately keeping them dependent and hungry. He views Mirvrinna's efforts to improve their harvests as a threat to his control.
 

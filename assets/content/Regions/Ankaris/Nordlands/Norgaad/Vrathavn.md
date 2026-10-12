@@ -22,7 +22,7 @@ Vrathavn is [[place-norgaad|Norgaad]]'s principal port on the northern coast, a 
 
 ## The Shield-Hall
 
-The heart of the town is the **Shield-Hall**, where the town's most distinguished shield-maiden holds court and where the honor-bonds between crews are sealed. She is renowned for her victories in the shield-wall, she has trained generations of warriors, and her word is law in the settlement.
+The heart of the town is the [[place-shieldhall|Shield-Hall]], where the town's most distinguished shield-maiden holds court and where the honor-bonds between crews are sealed. She is renowned for her victories in the shield-wall, she has trained generations of warriors, and her word is law in the settlement.
 
 ## The Garrison and the Harbor
 

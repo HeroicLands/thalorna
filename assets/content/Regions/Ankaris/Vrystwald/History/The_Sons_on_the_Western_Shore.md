@@ -43,11 +43,11 @@ data:
         - whether the western villages' elders will lay their fragments together, and for whom
 ---
 
-The cliff watch at **Arnholt** on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[affiliation-jrldmstrmvld|Stormveld]] carrying the [[affiliation-sonsmuspell|Sons of Eldheim]], who come ashore on [[place-vrystwald|Vrystwald]]'s western bay to burn villages and want the land they burn.
+The cliff watch at [[place-arnholt|Arnholt]] on the western shore has warned of unfamiliar sails for as long as the village has stood. Since about 715 it has had something specific to warn of: hulls out of [[affiliation-jrldmstrmvld|Stormveld]] carrying the [[affiliation-sonsmuspell|Sons of Eldheim]], who come ashore on [[place-vrystwald|Vrystwald]]'s western bay to burn villages and want the land they burn.
 
 ## The Burning of Arnwern
 
-The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. **Arnwern**, the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Malekir, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
+The Sons are an order of the [[affiliation-blackflame|Black Flame]], and their campaign is for ground: a foothold on the mainland, taken from the Varokh villages, from which to reach into the Nordlands. [[place-arnwern|Arnwern]], the eagle lake, was a village of the [[place-falkhaven|Falkhaven]] shore behind a lake where the eagles fish, and it was the first. The Sons came up from the shore at night, killed or took its people, and burned its Shaman before the eagle stone at the lake's edge, which is the order's sworn practice and the thing its Blazewarden, Malekir, has promised to do to every Shaman in the forest. They have burned several villages since, and none as thoroughly.
 
 ## No Muster Yet
 
@@ -55,7 +55,7 @@ The danger is common, and the elders have not agreed on it. The villages of the 
 
 ## What It Left
 
-- **Arnwern.** A burned clearing on the lake behind the shore, which the Sons have begun to fortify with the village's own timber. Varokh scavengers go in by night for what the fire left, and the Sons' patrols wait for them.
+- **[[place-arnwern|Arnwern]].** A burned clearing on the lake behind the shore, which the Sons have begun to fortify with the village's own timber. Varokh scavengers go in by night for what the fire left, and the Sons' patrols wait for them.
 - **The eagle stone.** Blackened, and still standing at the lake's edge. No Shaman has called Arnwern's dead home, because Arnwern's Shaman was the one who would have done it.
 - **The argument.** Whether the western villages will lay their fragments of the talisman together, and whether they will lay them down for Thornak.
 

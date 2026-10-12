@@ -367,7 +367,7 @@ Dvirnmýl stands 5'9" with a medium, unremarkable frame, weighing about 170 poun
 
 Dvirnmýl was born into the unforgiving streets of the city's slums, where survival depended on cunning, not strength. Orphaned at a young age, Dvirnmýl quickly became a master of deceit, learning how to manipulate others to get what he wanted. He had no interest in noble causes or grand ideals; his only goal was to claw his way out of poverty by any means necessary. Dvirnmýl's talents caught the eye of Vélgrímr, the god of thieves and the dispossessed, who delighted in the trouble Dvirnmýl caused. With Vélgrímr's subtle guidance, Dvirnmýl honed his skills in trickery and thievery.
 
-The saga of Dvirnmýl the Deceiver tells how he exploited the arrogance and greed of **Jarl Snarvthann**, a wealthy and corrupt noble. Dvirnmýl posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Snarvthann that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmýl had hired were waiting. With Snarvthann stranded, Dvirnmýl raided the jarl's estate and converted his assets into a personal fortune.
+The saga of Dvirnmýl the Deceiver tells how he exploited the arrogance and greed of [[being-snrvthn|Jarl Snarvthann]], a wealthy and corrupt noble. Dvirnmýl posed as a disgraced nobleman who had fallen on hard times, carefully forging documents and crafting a backstory. He infiltrated the jarl's court, convinced Snarvthann that he knew the location of hidden treasures, and then led the jarl to a remote mountain location where bandits Dvirnmýl had hired were waiting. With Snarvthann stranded, Dvirnmýl raided the jarl's estate and converted his assets into a personal fortune.
 
 ## Psyche
 
@@ -395,7 +395,7 @@ Dvirnmýl is a master of disguise, forgery, and social engineering. He can talk 
 
 ### Enemies
 
-**Jarl Snarvthann's Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Dvirnmýl down. They want both their wealth returned and Dvirnmýl's head.
+**[[being-snrvthn|Jarl Snarvthann]]'s Heirs**—The humiliated jarl's family has hired a relentless bounty hunter to track Dvirnmýl down. They want both their wealth returned and Dvirnmýl's head.
 
 **Captain Dvalgmýl of the City Watch**—A dogged lawman who has been pursuing Dvirnmýl for years and has come closer to catching him than anyone else.
 

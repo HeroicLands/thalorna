@@ -12,7 +12,7 @@ The Circle has broken a skald's silver arm-ring perhaps seven times in living me
 
 ## What This Standing Is
 
-A skald formally accused and convicted of breaking the truth of the recital has his silver arm-ring broken in his presence at the next **Skaldating**, the [[affiliation-skaldscrcl|Skalds' Circle]]'s annual gathering. The rarity of the punishment measures how seldom a sworn skald's word is doubted.
+A skald formally accused and convicted of breaking the truth of the recital has his silver arm-ring broken in his presence at the next [[lore-skaldating|Skaldating]], the [[affiliation-skaldscrcl|Skalds' Circle]]'s annual gathering. The rarity of the punishment measures how seldom a sworn skald's word is doubted.
 
 ## How the Law Treats a Person Here
 

@@ -391,15 +391,15 @@ Skulfmýl's oratory is supernaturally persuasive; his words can stir emotions, c
 
 **The Free Speakers**—A loose network of revolutionary thinkers who share Skulfmýl's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
 
-**Vélgrímr**—The god of chaos finds Skulfmýl's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
+[[lore-velgrimrdty|Vélgrímr]]—The god of chaos finds Skulfmýl's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
 
 ### Enemies
 
-**The Rulers of Tvurnholm**—The city's governing council has placed the largest bounty in northern history on Skulfmýl's head, dead or alive.
+**The Rulers of [[place-tvurnholm|Tvurnholm]]**—The city's governing council has placed the largest bounty in northern history on Skulfmýl's head, dead or alive.
 
 **The Order of Stability**—A secretive organization dedicated to maintaining the existing social order. They view Skulfmýl as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
 
-**Knalthann Lawgiver**—The champion of law sees Skulfmýl's work as destructive anarchy that leaves ordinary people worse off than before. Their philosophical opposition is deeply personal for both men.
+[[being-knlthnlwgvr|Knalthann Lawgiver]]—The champion of law sees Skulfmýl's work as destructive anarchy that leaves ordinary people worse off than before. Their philosophical opposition is deeply personal for both men.
 
 ## Plot Hooks
 

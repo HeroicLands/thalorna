@@ -389,7 +389,7 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 ### Patrons
 
-**Gnuldrthýra the Forsaken**—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
+[[being-gnldrthyrfrskn|Gnuldrthýra the Forsaken]]—A fellow being transformed by Mótefnir who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
 
 **Elder Hrundorv**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
 
@@ -397,7 +397,7 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 **His Former Clan**—The clan Tvilgorv once fought for has declared him dead and his current form an abomination wearing their kinsman's face. They hunt him with the same ferocity they would show any Dreadspawn.
 
-**The Collector**—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
+The Collector—A mysterious figure who captures and studies Mótefnir's transformed creations. The Collector has been tracking Tvilgorv and intends to add him to their collection, dead or alive.
 
 ## Plot Hooks
 
