@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [qarvelekh]
-  affiliations: {sultntmrdd: {rank: 3}, aravesta: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, aravesta: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.299
@@ -25,7 +25,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: []
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -423,13 +423,13 @@ Paryan stands 5'8" tall with a light build. She has light olive skin, black hair
 
 **Early Life and Apprenticeship**
 
-Paryan was born in the Sultanate of Amradad to a family of modest but respected standing. Her father was a merchant of moderate success, her mother a woman of noble birth who had married down for love. Paryan showed no early aptitude for either commerce or noble pursuits; instead, she was drawn to the material world in a different way—she loved the play of light on surfaces, the way colors shifted and harmonized, and the transformation of raw materials into objects of beauty. At age twelve, she was apprenticed to Master Bêshrin, one of the greatest jewelers in the Sultanate, a woman whose reputation extended beyond Amradad to the distant cities of neighboring realms.
+Paryan was born in the Kingdom of Amradad to a family of modest but respected standing. Her father was a merchant of moderate success, her mother a woman of noble birth who had married down for love. Paryan showed no early aptitude for either commerce or noble pursuits; instead, she was drawn to the material world in a different way—she loved the play of light on surfaces, the way colors shifted and harmonized, and the transformation of raw materials into objects of beauty. At age twelve, she was apprenticed to Master Bêshrin, one of the greatest jewelers in the Kingdom, a woman whose reputation extended beyond Amradad to the distant cities of neighboring realms.
 
 Under Bêshrin's mentorship, Paryan learned the technical skills of jewelry-making—the metalworking, stone-setting, and finer techniques of the trade—and the deeper philosophy of her craft. Bêshrin taught that jewelry was a form of conversation between maker and wearer, that each piece should tell a story, that the finest work honored both the beauty of materials and the beauty of the human form that would display it. Bêshrin also showed her a kind of creative fearlessness: she was willing to experiment, to combine materials in unexpected ways, to honor tradition while pushing its boundaries.
 
 **Journey to Mastery**
 
-Paryan progressed with great speed through her apprenticeship, achieving journeyman status by age eighteen and master status by age twenty-three. Her distinctive style emerged early: she was known for integrating unusual materials—incorporating gemstones in unexpected ways, combining metals that tradition suggested should not be paired, designing pieces that challenged conventional notions of symmetry and balance. Her work attracted the attention of wealthy collectors and discerning patrons who valued the new over the merely expensive and traditional. She established her own workshop at age twenty-five and has spent the last four years building a reputation as one of the most creative and technically skilled jewelers in the Sultanate.
+Paryan progressed with great speed through her apprenticeship, achieving journeyman status by age eighteen and master status by age twenty-three. Her distinctive style emerged early: she was known for integrating unusual materials—incorporating gemstones in unexpected ways, combining metals that tradition suggested should not be paired, designing pieces that challenged conventional notions of symmetry and balance. Her work attracted the attention of wealthy collectors and discerning patrons who valued the new over the merely expensive and traditional. She established her own workshop at age twenty-five and has spent the last four years building a reputation as one of the most creative and technically skilled jewelers in the Kingdom.
 
 **Current Situation**
 

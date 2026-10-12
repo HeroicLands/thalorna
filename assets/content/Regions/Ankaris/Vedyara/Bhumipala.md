@@ -67,7 +67,7 @@ data:
     varakpnthn: aligned
     svapnasarisamaja: aligned
     dunhartrbs: rival
-    sultntmrdd: unaligned
+    kngdmmrdd: unaligned
     vindhyalay: aligned
     chandrapur: unaligned
     mrchntclctvvdyr: aligned
@@ -108,9 +108,9 @@ A company that is paid keeps the road. A company that is not paid keeps the road
 
 ## The Treaty
 
-The formal treaty with the [[affiliation-sultntmrdd|Sultanate of Amradad]] is Bhūmipāla's, and it is renewed every generation. It governs the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. The Vedyari copy is kept at Sandhyāpur, and each march-captain carries a copy of the clauses he is expected to enforce.
+The formal treaty with the [[affiliation-kngdmmrdd|Kingdom of Amradad]] is Bhūmipāla's, and it is renewed every generation. It governs the movement of pilgrim caravans and the treatment of merchants arrested for trade violations on either side of the frontier. The Vedyari copy is kept at Sandhyāpur, and each march-captain carries a copy of the clauses he is expected to enforce.
 
-The treaty binds the Sultanate. It does not bind the [[affiliation-dunhartrbs|Dunhara tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
+The treaty binds the Kingdom. It does not bind the [[affiliation-dunhartrbs|Dunhara tribes]], who signed nothing and who hold that the road crosses their grazing by their forbearance. The tribes raid in lean seasons and trade in fat ones. The crown's standing arrangement exists to make the first unprofitable, and every sheikh on the road understands it exactly as the crown does.
 
 Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and overran the whole of the march before it turned west across the desert. Every fort on the road was built after that, and with it in mind. Marupāla's host lies unburned where the Descent opens onto the road, on [[place-lanthusthli|Lanthusthalī]], a cursed field the road bends round and the companies chain off at dusk, and its burned capital, [[place-ludrapur|Lūdrapur]], is where the companies winter.
 
@@ -122,7 +122,7 @@ The crown does not tax the road by the bale. It sells escort, by the wagon and b
 
 ## Relations
 
-To the west and northwest lie the tribes and the Sultanate, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Sultanate are formal, cool and old.
+To the west and northwest lie the tribes and the Kingdom, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Kingdom are formal, cool and old.
 
 To the north and east, across the broken end of the wall, lies Shikharālaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Shikharālayan steel comes down to the march companies and march horses go up to the pass-roads.
 
@@ -143,6 +143,6 @@ The Dunhari side of the trade runs on barter and clan credit, and a caravan sett
 - [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-marukupa|Marukūpa]]
 - [[place-wstrndscnt|The Western Descent]]—the broken end of the wall the road goes round
 - [[place-sandhysmdr|The Sandhyā-samudra]]—the western sea and the kingdom's coast
-- [[affiliation-dunhartrbs|Dunhara Tribes]] · [[affiliation-sultntmrdd|Sultanate of Amradad]]—the neighbors beyond the sand
+- [[affiliation-dunhartrbs|Dunhara Tribes]] · [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbors beyond the sand
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]]—the dream-sect of the march
 - [[place-vedyarargn|Vedyara Region]]—the enclosing region

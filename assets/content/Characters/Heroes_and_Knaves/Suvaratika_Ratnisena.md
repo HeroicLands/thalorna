@@ -475,7 +475,7 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 
 ### Patrons
 
-Lady Amara Vaidyavallabha
+Lady Arghika Ghotranyāsa
 : A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other noble families and occasionally commissioning custom pieces.
 
 The House of Childhood Wisdom
@@ -507,4 +507,4 @@ The Order of Meghanātha's Children
 
 4. **The Accident and Aftermath**: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a genuinely unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
 
-5. **The Expansion Dilemma**: Lady Amara Vaidyavallabha proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.
+5. **The Expansion Dilemma**: Lady Arghika Ghotranyāsa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.

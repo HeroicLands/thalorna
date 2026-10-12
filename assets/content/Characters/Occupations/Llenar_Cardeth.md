@@ -11,7 +11,7 @@ data:
   occupation: Ratter
   lore: []
   culture: elavendriclt
-  homes: [silvain]
+  homes: [sourimael]
   affiliations: {kngdmlvndr: {rank: 2}, morvana: {rank: 1}}
   gender: male
   species: humanflk
@@ -399,7 +399,7 @@ Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and soli
 
 # Dossier {#dossier}
 
-Llénar Cárdeth is a ratter of Silvain, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
+Llénar Cárdeth is a ratter of Sóurimael, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman who has kept the village's stores clear of rats for twenty-five years.
 
 The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Béravel pay so well for, and all of it is stored over a winter and draws rats. Llénar learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Ardwyn beyond the wood as well, and passes what he knows to any young ratter who will listen.
 
@@ -419,13 +419,13 @@ Highly experienced, skilled with traps and ferrets, a good teacher of those who 
 
 ## Social
 
-Llénar belongs to no guild and works for whoever calls him. In Silvain he is one of the village's own, and outside it he is known at every farm in Ardwyn.
+Llénar belongs to no guild and works for whoever calls him. In Sóurimael he is one of the village's own, and outside it he is known at every farm in Ardwyn.
 
 ## Companions
 
 ### Patrons
 
-Llénar's patrons are the households of Silvain with honey-stores and herb-lofts to keep, and the farmers of Ardwyn beyond the wood.
+Llénar's patrons are the households of Sóurimael with honey-stores and herb-lofts to keep, and the farmers of Ardwyn beyond the wood.
 
 ### Enemies
 
@@ -433,10 +433,10 @@ A younger ratter from Béravel who works the Ardwyn farms with compounds bought 
 
 ## Plot Hooks
 
-1. **The Poisoner**—The Béravel ratter's baits have killed a third dog, this time in Silvain itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
+1. **The Poisoner**—The Béravel ratter's baits have killed a third dog, this time in Sóurimael itself, and the village wants him gone. He has a paper from the physicians that says the compound is safe.
 
 2. **Scout**—Scout is nine and slowing, and Llénar has not trained a dog to follow him because he did not want to admit the need. A litter has been offered.
 
-3. **Rats Before Winter**—Rats have come into the herb-lofts of Silvain in numbers Llénar has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
+3. **Rats Before Winter**—Rats have come into the herb-lofts of Sóurimael in numbers Llénar has never seen, weeks before the first snow. He is beginning to think the rats did not come on their own.
 
-4. **The Apprentice Who Watches**—A young man has come to Silvain asking to learn the trade from Llénar, and learns it well. He also asks a great many questions about the village, and Silvain is careful about questions.
+4. **The Apprentice Who Watches**—A young man has come to Sóurimael asking to learn the trade from Llénar, and learns it well. He also asks a great many questions about the village, and Sóurimael is careful about questions.

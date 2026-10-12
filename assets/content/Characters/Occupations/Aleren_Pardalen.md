@@ -11,7 +11,7 @@ data:
   occupation: Shaman
   lore: []
   culture: elavendriclt
-  homes: [silvain]
+  homes: [sourimael]
   affiliations: {kngdmlvndr: {rank: 2}, zunelas: {rank: 3}}
   gender: male
   species: humanflk
@@ -395,9 +395,9 @@ sohl:
 
 # Dossier {#dossier}
 
-Áleren Párdalen is the shaman of Silvain, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman born in the village who has stood between it and the spirits of the wood for twenty years.
+Áleren Párdalen is the shaman of Sóurimael, the Élavendri village inside the Silver Forests of [[place-elavendre|Élavendre]], a freeman born in the village who has stood between it and the spirits of the wood for twenty years.
 
-Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Silvain read it as a calling, and Áleren has served since. Silvain exists on sufferance in country that belongs to the Áelendan, and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamen build their standing on, including, on most days, his own.
+Áleren was a hunter until his late twenties, when a vision took him on a winter hunt and left him three days in the snow. The old shaman of Sóurimael read it as a calling, and Áleren has served since. Sóurimael exists on sufferance in country that belongs to the Áelendan, and what it gives in return is an observance nobody explains to outsiders and a shaman keeps. Áleren keeps it. The rest of his work is the village's disputes and its omens, which he answers plainly and often unwelcomely. He holds that a shaman is a guide, not a miracle worker, and distrusts the grand visions other shamen build their standing on, including, on most days, his own.
 
 He is a known figure among the shamen of Élavendre.
 
@@ -433,8 +433,8 @@ Traditionalist shamen of the interior who hold that his plainness is a want of r
 
 1. **The Observance**—This year's observance at the At'aan Wyrd went wrong in a way Áleren cannot explain and will not dress up. The village wants to be told it was nothing.
 
-2. **The Birch**—A villager has felled a silver birch, which nobody in Silvain does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.
+2. **The Birch**—A villager has felled a silver birch, which nobody in Sóurimael does, for any reason. The Moot wants a ritual answer and the Áelendan may want a different one.
 
-3. **The Physician's Offer**—A physician of Béravel has come to Silvain with silver and a request for the herbs Áleren uses in his rites, and for the words that go with them. The silver would keep the village a winter, and the words are not his to sell.
+3. **The Physician's Offer**—A physician of Béravel has come to Sóurimael with silver and a request for the herbs Áleren uses in his rites, and for the words that go with them. The silver would keep the village a winter, and the words are not his to sell.
 
 4. **The Vision Returns**—Áleren's vision has come back, twenty years on, in the same winter and the same wood. He does not believe in grand visions. He has not told anyone.

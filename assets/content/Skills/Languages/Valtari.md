@@ -171,7 +171,7 @@ The following represents the stable core of Valtári—words understood in virtu
 
 **Other:** zu (H, from _zû_) / ufi (He, from _ûph_) "no, not" (speakers use one or the other depending on native language) · anevo (He, from _ánevir_) "storm, wind" · funatu (H, from _funâtûsh_ "loss") "trouble, problem" · rusaku (H, from _rusâk-_ "to rig") "work, labor" · kerisu (He, from _khéiris_) "hand, skill" · odisu (He, from _hodîs_) "road, route" · toburo (O) "north"
 
-**Numerals (Tarûzeli-derived):** yezu "one" · lelor "two" · zemu "three" · nozu "four" · fomul "five" · zekoru "ten" (from Helonic _zékhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul nozu_ "nine".
+**Numerals (Tarûzeli-derived):** yezu "one" · lelor "two" · zemu "three" · vubu "four" · fomul "five" · zekoru "ten" (from Helonic _zékhor_). Six to nine are counted on from five: _fomul yezu_ "six", _fomul lelor_ "seven", _fomul zemu_ "eight", _fomul vubu_ "nine".
 
 ## Related Languages
 

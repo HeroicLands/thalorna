@@ -477,8 +477,8 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 ### Patrons
 
-Desert Lord Malik Shadowstep
-: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Malik respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
+Desert Lord Huwenqenod Shadowstep
+: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Huwenqenod respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
 Mistress Arah of the Cooperative
 : The leading figure of the Farmers' Cooperative, Arah recognizes Bazûdar's value and defends him against critics, though even her patience is sometimes tested by his inflexibility.
@@ -509,7 +509,7 @@ The Desert Shamanic Circle
 
 1. **The Plague of Unnatural Aggression**: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazûdar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazûdar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
 
-2. **The Foal With Impossible Lineage**: A pregnant mare in Lord Malik's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazûdar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
+2. **The Foal With Impossible Lineage**: A pregnant mare in Lord Huwenqenod's care gives birth to a foal of obviously impossible parentage—it bears no resemblance to any known horse breed, with unusual coloration and features that suggest something other than mundane livestock. Some suspect sorcery or demonic influence; others propose it as a sign of divine intervention or evolutionary transformation. Bazûdar becomes obsessed with understanding and protecting this unique creature, which attracts the attention of multiple factions all wishing to exploit the foal for their own purposes—merchants seeking profit, religious authorities suspecting heresy, sorcerers seeking arcane power.
 
 3. **The Rebellion Against Modernization**: As Magister Caldus moves forward with regulations designed to end traditional animal training, Bazûdar finds himself reluctantly positioned as the leader of a broader resistance movement against modernization. Younger farmers and traditionalists look to him for leadership, yet his own resistance to organization and public engagement makes him a poor figurehead. He can step into an openly political role, or allow the movement to fragment without his guidance.
 

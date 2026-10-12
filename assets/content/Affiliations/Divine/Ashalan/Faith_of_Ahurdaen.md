@@ -16,41 +16,41 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Rōqeshekh, Dēlkoshekh, Shēkhulsīghot, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Dēlkoshekh will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         description: >-
           Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
-        title: Āthravān
+        title: Rōqeshekh
         description: >-
           "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
-        title: Hērbad
+        title: Dēlkoshekh
         description: >-
           "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
-        title: Mōbad
+        title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
     offices:
-      Mōbad: >-
+      Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
-      Hērbad: >-
+      Dēlkoshekh: >-
         Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
-      Āthravān: >-
+      Rōqeshekh: >-
         Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
+        A Dēlkoshekh skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
         Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
+        A Dēlkoshekh who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   population: null
   economy: []
@@ -61,7 +61,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Āhúrdáén is the supreme sovereign of the Āsháian pantheon, the creator and sustainer of all existence. He is wisdom embodied, justice made manifest, the cosmic order that permits creation to persist against the endless tide of Druj. Where the Aurèldían west speaks of a pantheon of divine equals, the Āsháian faithful know a hierarchy centered on Āhúrdáén's unquestioned supremacy. Not tyranny, however, but kingship of the truest kind—the rule of one who loves creation so deeply that he has ordered every atom, every moment, every soul in accordance with Āsha. In the great fire-temples of [[affiliation-sultntmrdd|Amradad]], inscriptions proclaim his titles in letters of lapis and gold: "He who made the stars to stand in their courses. He who breathed law into the chaos. He whose flame sustains all things."
+Āhúrdáén is the supreme sovereign of the Āsháian pantheon, the creator and sustainer of all existence. He is wisdom embodied, justice made manifest, the cosmic order that permits creation to persist against the endless tide of Druj. Where the Aurèldían west speaks of a pantheon of divine equals, the Āsháian faithful know a hierarchy centered on Āhúrdáén's unquestioned supremacy. Not tyranny, however, but kingship of the truest kind—the rule of one who loves creation so deeply that he has ordered every atom, every moment, every soul in accordance with Āsha. In the great fire-temples of [[affiliation-kngdmmrdd|Amradad]], inscriptions proclaim his titles in letters of lapis and gold: "He who made the stars to stand in their courses. He who breathed law into the chaos. He whose flame sustains all things."
 
 The theology of Āhúrdáén teaches that the universe is not a neutral stage upon which the gods and mortals play, but a deliberate creation organized according to immutable law. The rising and setting of the sun, the cycling of the seasons, the progression of night and day—these are not mere mechanical repetitions but the heartbeat of Āhúrdáén's will, the rhythm of cosmic order itself. The righteous person who lives according to Āsha participates in this order; the wicked one who embraces Druj fractures it. This is why morality in Āsháian thought is not arbitrary—it is natural law, the way the cosmos is fundamentally structured. A lie is not merely disapproved by the gods; it tears the fabric of reality itself. Murder does not merely break a divine commandment; it betrays the order by which all beings exist. To live according to truth, goodness, and justice is quite literally to align oneself with the foundation of reality.
 
@@ -77,13 +77,13 @@ Private worship of Āhúrdáén is characterized by stillness and contemplation.
 
 ## Organization
 
-The priesthood of Āhúrdáén forms the backbone of the entire Āsháian religious structure. The Mōbad of Āhúrdáén's Great Fire-Temple in [[affiliation-sultntmrdd|Amradad]] holds a position of extraordinary influence—not merely spiritual but political and economic. The current Mōbad, Aravdán the Stargazer, is said to wield as much power as the Sultan's vizier, and in matters of state religion and cosmic portent, more. The Great Fire-Temple maintains the most ancient and elaborate astronomical observatories in all Ankaris; the Mōbad and his learned Hērbads map the movements of planets and stars, observing them for signs of cosmic order or disorder, for omens that guide state policy.
+The priesthood of Āhúrdáén forms the backbone of the entire Āsháian religious structure. The Shēkhulsīghot of Āhúrdáén's Great Fire-Temple in [[affiliation-kngdmmrdd|Amradad]] holds a position of extraordinary influence—not merely spiritual but political and economic. The current Shēkhulsīghot, Aravdán the Stargazer, is said to wield as much power as the Shêbarôr's vashkôr, and in matters of state religion and cosmic portent, more. The Great Fire-Temple maintains the most ancient and elaborate astronomical observatories in all Ankaris; the Shēkhulsīghot and his learned Dēlkoshekhs map the movements of planets and stars, observing them for signs of cosmic order or disorder, for omens that guide state policy.
 
-Below the Mōbad serve the senior Hērbads, each responsible for different theological domains. The Hērbad of Astronomy watches the stars and maintains detailed records of celestial phenomena. The Hērbad of Law interprets the divine principles of justice that underlie human governance. The Hērbad of Cosmology teaches the priesthood and educated laity about the structure and meaning of the cosmos. These senior priests meet in council at the great equinox festivals to discuss whether the cosmic order shows signs of stress, whether Druj gains ground, whether the faithful are slipping from Āsha.
+Below the Shēkhulsīghot serve the senior Dēlkoshekhs, each responsible for different theological domains. The Dēlkoshekh of Astronomy watches the stars and maintains detailed records of celestial phenomena. The Dēlkoshekh of Law interprets the divine principles of justice that underlie human governance. The Dēlkoshekh of Cosmology teaches the priesthood and educated laity about the structure and meaning of the cosmos. These senior priests meet in council at the great equinox festivals to discuss whether the cosmic order shows signs of stress, whether Druj gains ground, whether the faithful are slipping from Āsha.
 
-In smaller cities and towns throughout [[affiliation-sultntmrdd|Amradad]], local Hērbads maintain fire-temples dedicated to Āhúrdáén. These priests serve as judges in disputes, interpreters of the divine will, educators of children in the threefold path. Among the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the role of the priesthood is looser—wandering Hērbads travel from tribe to tribe, sometimes remaining with a single band for years, serving as advisors, arbiters, and keepers of the sacred fire. The most respected of these desert holy men develop reputations as mystics and seers, individuals who have supposedly achieved such perfect alignment with Āsha that they can perceive the will of Āhúrdáén directly.
+In smaller cities and towns throughout [[affiliation-kngdmmrdd|Amradad]], local Dēlkoshekhs maintain fire-temples dedicated to Āhúrdáén. These priests serve as judges in disputes, interpreters of the divine will, educators of children in the threefold path. Among the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the role of the priesthood is looser—wandering Dēlkoshekhs travel from tribe to tribe, sometimes remaining with a single band for years, serving as advisors, arbiters, and keepers of the sacred fire. The most respected of these desert holy men develop reputations as mystics and seers, individuals who have supposedly achieved such perfect alignment with Āsha that they can perceive the will of Āhúrdáén directly.
 
-Training for the priesthood of Āhúrdáén is rigorous and extended. Āthravān initiates must spend years in study of the sacred texts, learning the long creation liturgy (which takes three hours to recite in full), mastering the principles of theology, and developing the meditative practices that allow a priest to enter the state of calm understanding necessary for divining the cosmic order. The final test for advancement to Hērbad involves a night alone with the sacred fire, where the candidate must maintain perfect focus and clarity while meditating on the first moments of creation, the eternal struggle between Āsha and Druj, and their own role in sustaining cosmic order.
+Training for the priesthood of Āhúrdáén is rigorous and extended. Rōqeshekh initiates must spend years in study of the sacred texts, learning the long creation liturgy (which takes three hours to recite in full), mastering the principles of theology, and developing the meditative practices that allow a priest to enter the state of calm understanding necessary for divining the cosmic order. The final test for advancement to Dēlkoshekh involves a night alone with the sacred fire, where the candidate must maintain perfect focus and clarity while meditating on the first moments of creation, the eternal struggle between Āsha and Druj, and their own role in sustaining cosmic order.
 
 ## Relations
 

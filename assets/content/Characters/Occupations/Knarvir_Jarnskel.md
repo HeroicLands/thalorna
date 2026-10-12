@@ -1,6 +1,6 @@
 ---
 shortcode: knrvrjrnskl
-name: {full: Knarvir Járnskel, aliases: [Darius Thornveil]}
+name: {full: Knarvir Járnskel, aliases: []}
 type: being
 subType: npc
 tags: [draft, guilded, mages]

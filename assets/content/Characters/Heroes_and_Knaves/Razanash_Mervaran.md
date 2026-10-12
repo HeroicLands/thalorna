@@ -483,7 +483,7 @@ Razanash is motivated primarily by her commitment to her spiritual vows and to t
 Elder Shaman Tahmîzar
 : The oldest and most respected shaman in the tribe; he has mentored Razanash in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 
-Chief Amara
+Chief Hilodye
 : The tribe's leader who respects Razanash's spiritual authority and often consults her on matters of tribal importance; she has granted Razanash considerable autonomy in conducting her shamanic duties.
 
 The Serpent Spirit
@@ -491,7 +491,7 @@ The Serpent Spirit
 
 ### Enemies
 
-Shaman Darius
+Shaman Kesuqyemok
 : A rival shamanic practitioner who views Razanash as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
 
 The Shadow Collective

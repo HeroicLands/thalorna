@@ -32,7 +32,7 @@ Ushtra-bēr is austere. The houses are of dressed stone, not adobe, with shutter
 
 The ruler, **Vāhrām of Ushtra-bēr**, is fifty, hard-faced and exact, and his court preserves ceremonial forms that have been forgotten elsewhere in the belt. A petitioner kneels at a marked place on the floor and speaks only after the Keeper of the Tablets has read the petition aloud, and every decision is recorded on a clay tablet before the petitioner leaves. A stranger who presents himself as he would at an exile court in Amradad is made to repeat the whole ceremony. A visitor who learns the forms before going finds the court helpful, because the house has no other form of hospitality.
 
-The house keeps a household guard of about fifty men, enough for ordinary security and ceremony. Like every Tellumi house, it maintains no army. The Ātárzád tribe that holds the eastern oases, the Zarvān, have never pressed it. The road to Ushtra-bēr is long, the valley is easy to hold, and the Zarvān scholars find the court's archive more interesting than its land.
+The house keeps a household guard of about fifty men, enough for ordinary security and ceremony. Like every Tellumi house, it maintains no army. The Ātárzád tribe that holds the eastern oases, the Tōzhirōd, have never pressed it. The road to Ushtra-bēr is long, the valley is easy to hold, and the Tōzhirōd scholars find the court's archive more interesting than its land.
 
 ## Hooks and Dangers
 

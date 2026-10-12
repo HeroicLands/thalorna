@@ -16,41 +16,41 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Rōqeshekh, Dēlkoshekh, Shēkhulsīghot, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Dēlkoshekh will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         description: >-
           Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
-        title: Āthravān
+        title: Rōqeshekh
         description: >-
           "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
-        title: Hērbad
+        title: Dēlkoshekh
         description: >-
           "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
-        title: Mōbad
+        title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
     offices:
-      Mōbad: >-
+      Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
-      Hērbad: >-
+      Dēlkoshekh: >-
         Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
-      Āthravān: >-
+      Rōqeshekh: >-
         Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
+        A Dēlkoshekh skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
         Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
+        A Dēlkoshekh who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   population: null
   economy: []
@@ -71,7 +71,7 @@ In the merchant caravans that traverse the desert trade routes, Báhrámiš is t
 
 The worship of Báhrámiš is characterized by directness and martial simplicity. Unlike the elaborate, lengthy liturgies dedicated to [[affiliation-ahurdaen|Āhúrdáén]], prayers to Báhrámiš are often brief and intensely focused—requests for specific protection, specific victory, specific survival. Warriors make offerings to the god before battle: weapons are presented to his altar, with prayers that they strike true and that Báhrámiš will grant victory to the righteous cause. Merchants traveling dangerous routes will sacrifice a portion of their expected profits to the god—a ritual contract in which they essentially promise a tithe to Báhrámiš in exchange for safe passage.
 
-The great festival honoring Báhrámiš occurs at the height of the storm season, typically in autumn in settled lands like [[affiliation-sultntmrdd|Amradad]], and during the monsoon season in [[place-dunharargn|Dunhara Region]]. The Festival of the Thunder Rider is celebrated with martial competitions—contests of spear-throwing, horsemanship, wrestling, and swordplay. Young warriors compete for the god's favor and for prestigious titles. The winner of the spear-throwing competition is granted the right to carry the ceremonial spear of Báhrámiš during temple processions for the year following. These competitions are not casual sports but sacred rituals—the god is watching the display of martial skill, and exceptional performances are interpreted as signs of divine favor or, conversely, poor performances as warnings that the god's blessing has been withheld.
+The great festival honoring Báhrámiš occurs at the height of the storm season, typically in autumn in settled lands like [[affiliation-kngdmmrdd|Amradad]], and during the monsoon season in [[place-dunharargn|Dunhara Region]]. The Festival of the Thunder Rider is celebrated with martial competitions—contests of spear-throwing, horsemanship, wrestling, and swordplay. Young warriors compete for the god's favor and for prestigious titles. The winner of the spear-throwing competition is granted the right to carry the ceremonial spear of Báhrámiš during temple processions for the year following. These competitions are not casual sports but sacred rituals—the god is watching the display of martial skill, and exceptional performances are interpreted as signs of divine favor or, conversely, poor performances as warnings that the god's blessing has been withheld.
 
 Another major festival, the Calling of the Rains, occurs in late spring in the desert regions. As the dry season threatens to extend beyond the normal period, the priesthood of Báhrámiš organizes elaborate ceremonies calling upon the god to bring the monsoon winds. These rituals are dramatic and physically demanding—priests dressed as the Thunder Rider, wearing crowns of twisted metal meant to resemble lightning, ride horses at full gallop while others shoot blunt-tipped arrows at them (which the skilled warrior-priests deflect with shields or dodge with acrobatic jumps). The ritual is equal parts religious ceremony and martial demonstration, designed to impress both the god and the watching crowds that the faithful are worthy of his protection and blessing.
 
@@ -83,13 +83,13 @@ The ordeal of the storm is also central to coming-of-age ceremonies, particularl
 
 The priesthood of Báhrámiš is fundamentally different from that of [[affiliation-ataros|Ātáröš]] or [[affiliation-ahurdaen|Āhúrdáén]]. The priests of the Thunder Rider are themselves warriors and martial practitioners, and they maintain a much looser, more decentralized organizational structure. Rather than a strict hierarchy focused on temple administration and liturgical purity, the priesthood of Báhrámiš is organized around the individual strength and authority of powerful priest-warriors.
 
-The **Mōbad** of a major temple dedicated to Báhrámiš is typically the most formidable warrior in a region—someone whose martial prowess is beyond question, whose tactical knowledge is proven in actual combat, whose personal courage is exemplary. These individuals often ride with war-bands, function as military advisors to sultans or tribal chiefs, or serve as judges in disputes that require both wisdom and the implicit threat of martial force. The current Mōbad of the Great Temple of Báhrámiš in [[affiliation-sultntmrdd|Amradad]], Kharzalan the Storm-Breaker, is a legendary cavalry commander who has never lost a battle, and whose counsel is regularly sought by the Sultan himself in matters of military strategy.
+The **Shēkhulsīghot** of a major temple dedicated to Báhrámiš is typically the most formidable warrior in a region—someone whose martial prowess is beyond question, whose tactical knowledge is proven in actual combat, whose personal courage is exemplary. These individuals often ride with war-bands, function as military advisors to kings or tribal chiefs, or serve as judges in disputes that require both wisdom and the implicit threat of martial force. The current Shēkhulsīghot of the Great Temple of Báhrámiš in [[affiliation-kngdmmrdd|Amradad]], Kharzalan the Storm-Breaker, is a legendary cavalry commander who has never lost a battle, and whose counsel is regularly sought by the Shêbarôr himself in matters of military strategy.
 
-The **Hērbad** of Báhrámiš are warrior-priests who combine theological training with martial excellence. Many serve as captains of caravans, commanders of merchant-guard companies, or advisors to military leaders. Unlike the Hērbads of other deities, these priests maintain their martial training as a central part of their religious practice. A Hērbad of Báhrámiš will spend as much time perfecting swordwork or spear technique as in theological study. Many ride with caravans permanently, serving as both spiritual advisors and practical defense against the threats of the desert. The bonds between these wandering priest-warriors and the merchant companies they protect are often profound and lasting—a Hērbad of Báhrámiš who successfully guides a caravan through decades of dangerous journeys earns a status approaching that of an honored kinsman.
+The **Dēlkoshekh** of Báhrámiš are warrior-priests who combine theological training with martial excellence. Many serve as captains of caravans, commanders of merchant-guard companies, or advisors to military leaders. Unlike the Dēlkoshekhs of other deities, these priests maintain their martial training as a central part of their religious practice. A Dēlkoshekh of Báhrámiš will spend as much time perfecting swordwork or spear technique as in theological study. Many ride with caravans permanently, serving as both spiritual advisors and practical defense against the threats of the desert. The bonds between these wandering priest-warriors and the merchant companies they protect are often profound and lasting—a Dēlkoshekh of Báhrámiš who successfully guides a caravan through decades of dangerous journeys earns a status approaching that of an honored kinsman.
 
-The **Āthravān** initiates of Báhrámiš are typically young warriors who have shown both martial promise and spiritual inclination. Rather than the years of study and meditation required by other priesthoods, the training of an Āthravān of Báhrámiš emphasizes practical skills—horse-riding, weapon-mastery, navigation of difficult terrain, leadership of groups under stress. Many Āthravān never advance to full Hērbad status but instead use their training to become guards, soldiers, or military commanders, maintaining ties of respect to the priesthood throughout their lives.
+The **Rōqeshekh** initiates of Báhrámiš are typically young warriors who have shown both martial promise and spiritual inclination. Rather than the years of study and meditation required by other priesthoods, the training of an Rōqeshekh of Báhrámiš emphasizes practical skills—horse-riding, weapon-mastery, navigation of difficult terrain, leadership of groups under stress. Many Rōqeshekh never advance to full Dēlkoshekh status but instead use their training to become guards, soldiers, or military commanders, maintaining ties of respect to the priesthood throughout their lives.
 
-A distinctive feature of Báhrámiš's priesthood is that it includes women fully and equally—female warrior-priests are common, and several of the most formidable Mōbads and Hērbads are women. The theology teaches that Báhrámiš values courage and martial skill without regard to the gender of the warrior, and this principle is rigorously enforced in practice. A woman Mōbad of Báhrámiš commands the same respect and authority as any male priest.
+A distinctive feature of Báhrámiš's priesthood is that it includes women fully and equally—female warrior-priests are common, and several of the most formidable Shēkhulsīghots and Dēlkoshekhs are women. The theology teaches that Báhrámiš values courage and martial skill without regard to the gender of the warrior, and this principle is rigorously enforced in practice. A woman Shēkhulsīghot of Báhrámiš commands the same respect and authority as any male priest.
 
 ## Relations
 

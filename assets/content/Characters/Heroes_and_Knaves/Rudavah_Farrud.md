@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [tahrodan]
-  affiliations: {sultntmrdd: {rank: 3}, ahurdaen: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, ahurdaen: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.83
@@ -25,7 +25,7 @@ data:
     skin_color: olive
     complexion: null
     extra_features: [a burn mark on the left hand]
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
@@ -431,7 +431,7 @@ Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet bl
 
 **Apprenticeship and Mastery:** She served informally under **Master Ostler Velkâsh of Amradad**, the city's most respected animal handler, for fifteen years. Velkâsh recognized in her a rare gift—beyond competence with horses, an almost intuitive understanding of a horse's mind, health, and care. Under his mentorship, she learned to diagnose illnesses by subtle changes in behavior, to calm frightened, ill-used animals through particular sounds and handling, and to understand the deep connection between a horse's emotional state and physical well-being.
 
-**Current Practice:** Now at thirty, Rudâvah has established herself as the preeminent ostler in the Sultanate, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
+**Current Practice:** Now at thirty, Rudâvah has established herself as the preeminent ostler in the Kingdom, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying dearly for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. The burn mark on her left hand occasionally causes her pain, a lasting reminder of the event that set her life's course.
 
 ## Psyche
 
@@ -471,7 +471,7 @@ Master Velkâsh of Amradad
 : Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
 
 Captain Dezhvan Shâmâyân, Royal Cavalry
-: The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Dezhvan demands results, but respects Rudâvah's insistence on treating animals well.
+: The commander of the Kingdom's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Dezhvan demands results, but respects Rudâvah's insistence on treating animals well.
 
 Lady Zeshûna Padvân, Merchant Princess
 : A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
@@ -490,7 +490,7 @@ Her own pain, an inner enemy
 ### Affiliations
 
 None formal
-: Rudâvah maintains independence from official organizations, though she works closely with the Sultanate's cavalry forces and maintains good relations with most of the region's stables and traders.
+: Rudâvah maintains independence from official organizations, though she works closely with the Kingdom's cavalry forces and maintains good relations with most of the region's stables and traders.
 
 ## Plot Hooks
 
@@ -498,7 +498,7 @@ None formal
 
 2. **The Animal Sanctuary Under Threat:** Local authorities plan to confiscate a sanctuary for rescued animals that Rudâvah has been secretly supporting, claiming the facility violates new regulations. The sanctuary houses dozens of animals that would certainly be euthanized if discovered by authorities. Rudâvah recruits adventurers to help her either hide the sanctuary, relocate the animals, or work through the officials and politics to change the rules. This forces her to learn the persuasion she has long avoided, or else to commit crimes in defense of her principles.
 
-3. **The Plague in the Herds:** A mysterious disease begins spreading through the Sultanate's herds, afflicting horses with fever and causing deaths. Rudâvah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudâvah into a position of unexpected importance.
+3. **The Plague in the Herds:** A mysterious disease begins spreading through the Kingdom's herds, afflicting horses with fever and causing deaths. Rudâvah observes symptoms that suggest the plague has been deliberately introduced and turned against the cavalry as a weapon. She must work with adventurers to investigate the origin of the plague, identify the responsible parties (whether rival political factions, enemy nation, or something darker), and find a cure before the cavalry's effectiveness is destroyed. This plot touches on larger political conspiracies and forces Rudâvah into a position of unexpected importance.
 
 4. **The Wild Mustang Herd:** Rudâvah learns of a herd of wild horses living in a remote mountain valley, managed by a reclusive herder who has refused all contact with civilization. Intrigued by rumors of unique bloodlines and animals of rare quality, she recruits adventurers to help her journey to meet this herder and potentially integrate his bloodlines into her breeding program. The journey is treacherous, the herder is protective and suspicious, and the horses themselves possess unusual characteristics suggesting long isolation and potential magical influence.
 

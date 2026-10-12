@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [shebarekh]
-  affiliations: {sultntmrdd: {rank: 3}, zurathra: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.179
@@ -25,7 +25,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -418,7 +418,7 @@ Torvâsh stands 6'1" tall with a medium build. He has tanned weathered skin, dar
 
 # Dossier {#dossier}
 
-Torvâsh was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-sultntmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvâsh possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
+Torvâsh was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of [[affiliation-kngdmmrdd|Amradad]] for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Torvâsh possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
 
 At sixteen, Torvâsh began managing his own flock, gradually expanding it through careful breeding and wise grazing management. Over twenty years, he has built one of the largest independent herds in the region, producing wool of exceptional quality and cheese renowned for its subtle complexity. He has never married, though several families have offered daughters, finding no one whose company he prefers to that of his animals. His relationship with the land and his flocks is his primary passion, perhaps his only passion.
 
@@ -484,7 +484,7 @@ The Temple of Zúráthrä
 
 2. **The Stranger with the Wounded Beast**: A stranger arrives at Torvâsh's territory, riding a magnificent horse that has been badly wounded—a wound that bears the marks of a predator that shouldn't exist in this region. The stranger begs Torvâsh's assistance in saving the animal and offers extraordinary payment. As Torvâsh works to heal the beast, he realizes that it is not entirely natural—it bears markings and proportions that don't quite match any breed he knows. The stranger becomes evasive when questioned about its origins, and more riders begin searching the region. Torvâsh must decide whether to honor his commitment to heal the animal, protect the stranger, or surrender them to the increasingly aggressive searchers.
 
-3. **The Merchant's Proposition**: A wealthy merchant from the capital of the Sultanate arrives with a proposition: Torvâsh's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvâsh's entire output. The offer is more wealth than Torvâsh could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvâsh must weigh the security such wealth would offer against the loss of his independence and traditional practices.
+3. **The Merchant's Proposition**: A wealthy merchant from the capital of the Kingdom arrives with a proposition: Torvâsh's wool and cheese are of such quality that they could command prices many times their current rate in the great cities. The merchant wants to establish an exclusive supply agreement, providing capital for expansion in exchange for Torvâsh's entire output. The offer is more wealth than Torvâsh could earn in a lifetime—but it would require him to abandon his traditional methods, expand his herds beyond what he considers sustainable, and subject himself to the merchant's control. Torvâsh must weigh the security such wealth would offer against the loss of his independence and traditional practices.
 
 4. **The Cursed Spring**: Torvâsh discovers that the water spring that serves his herds—a spring that has been reliable for generations—is becoming poisoned. The water takes on an odd discoloration and a metallic taste, and animals begin refusing to drink it. Investigation reveals that someone upstream has been deliberately introducing substances into the water supply, possibly to force Torvâsh to sell his lands. But the culprit is someone Torvâsh never considered an enemy, and discovering their involvement will force him to navigate complex social politics that he is unprepared to handle.
 

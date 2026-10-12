@@ -183,14 +183,14 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 | ------- | ---------------------------- | ------------ |
 | _ýn_    | in                           | + dative     |
 | _drês_  | through                      | + accusative |
-| _pêm_   | by, beside                   | + dative     |
-| _fûn_   | with                         | + dative     |
+| _pêph_  | by, beside                   | + dative     |
+| _phrûn_ | with                         | + dative     |
 | _thê_   | (emphatic/focus particle)    |              |
 | _neur_  | not (subjunctive/imperative) |              |
 
 ### Derivation in Daughter Languages
 
-Byzarian simplifies inflection: _ash/ath_ contract to enclitics; case endings reduce; eastern particles (_zhe, vesh, tchaz_) supplement the inherited system. Bethuan preserves full inflection in the feminine register but reduces it in the masculine register, where _ash/âsh/ath_ may contract to _'s/'th_ and case endings truncate.
+Byzarian simplifies inflection: _ash/ath_ contract to enclitics; case endings reduce; eastern particles (_zhe, vezh, tchaz_) supplement the inherited system. Bethuan preserves full inflection in the feminine register but reduces it in the masculine register, where _ash/âsh/ath_ may contract to _'s/'th_ and case endings truncate.
 
 ## Sample Phrases
 
@@ -216,7 +216,7 @@ Helonic names reflect the culture's embrace of distinctive, sonorous personal id
 - **Patronymic honor:** Family names often derive from ancestors or founding figures, with the suffix _-os_ (for clans) preserving this genealogical link
 - **Euphony:** Names are chosen partly for how they sound in speech and dramatic contexts—a child of philosophers or actors receives a name that will resonate in the assembly
 - **Mythic resonance:** Names often evoke legendary figures, qualities of the gods, or philosophical concepts
-- **Feminine sophistication:** Female names tend toward longer, more vowel-rich forms (Afìyra, Mânîtha, Jûmîna), which are considered more graceful; masculine names show greater diversity
+- **Feminine sophistication:** Female names tend toward longer, more vowel-rich forms (Afìyra, Timarîtha, Jûmîna), which are considered more graceful; masculine names show greater diversity
 
 Given names are typically paired with clan names (derived from family ancestry), and a full formal address includes both, often with titles of honor or achievement appended.
 
@@ -224,7 +224,10 @@ Given names are typically paired with clan names (derived from family ancestry),
 
 ### Male Given Names
 
+- Adhélimis
 - Afêríon
+- Agélanis
+- Ághranês
 - Amârìth
 - Árìdràs
 - Áshrûkos
@@ -233,29 +236,29 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Bákînês
 - Bákîon
 - Bârekîós
-- Bíshârios
+- Bûlêlon
 - Chânkhor
 - Chánnâon
 - Dámàsûn
+- Dókharês
+- Dókhiron
+- Dómêlis
 - Dûmàrês
+- Érkhêlos
 - Érkhiros
 - Fàrânis
-- Fârìs
 - Gábêros
 - Ghàdôn
 - Ghánâbìs
 - Ghánâdís
 - Ghârîdos
 - Ghérvanos
+- Ghígnaros
 - Ghígnirion
+- Ghymârion
 - Habìdon
 - Hàdhîros
-- Hámûdês
-- Hássànis
-- Hassârìon
 - Ibárinos
-- Íbêrôs
-- Jábìros
 - Jâdhâros
 - Jâdhîros
 - Jálêmòs
@@ -264,168 +267,166 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Júbênós
 - Kálydrás
 - Kàshîdos
-- Khalîdrós
-- Khalìphon
 - Khalîros
+- Krênanos
 - Krênirês
+- Kûmêthis
+- Lámbharis
 - Lamîkrìs
 - Lámîros
+- Lékhisos
 - Lôphiros
 - Lôthànos
 - Lôthîon
 - Mákrion
 - Márâvíon
-- Marînès
-- Mazàlos
-- Máḥânês
+- Mâthimês
+- Métranon
+- Métrimos
+- Morzêlion
 - Mubàron
 - Nâbìros
 - Nàdhûros
 - Namîdrós
+- Nêvarimos
 - Nûbàrion
 - Nûmàrós
-- Oùssâmon
-- Rákhìmês
+- Phýlanion
+- Phýlorion
 - Ramîkòs
 - Râshámês
 - Rísàkós
 - Rîzânis
-- Rómèlios
-- Sábîrês
-- Sàbìron
 - Sáfêrús
-- Sàfîros
-- Sahînór
-- Sâlimón
-- Sàmános
-- Samáron
 - Sânifór
-- Sárìnôn
 - Sîfánòs
-- Tabîthòs
-- Tamáròs
+- Sôtharion
+- Sôthirês
+- Sphrâdês
 - Támînês
-- Tamìnós
-- Tàmîros
-- Tarîkón
 - Tâwâres
+- Teíkharos
+- Teíkhimon
 - Thábìlos
 - Tháliminos
 - Thammâs
 - Thârkós
+- Thérimion
+- Thérorês
 - Thîbarìs
 - Thùbárion
 - Thùbârios
+- Timêthos
 - Udrìsôs
 - Uzbarón
 - Wîssâros
 - Yássìlos
-- Yázîdos
 - Zádìmêros
-- Zàfîran
 - Zárìthón
+- Zýghanis
 
 ### Female Given Names
 
 - Afìra
 - Afìyra
+- Agélantha
+- Agélirîa
+- Agélîtha
 - Amànta
 - Amîthàra
 - Amîthéna
+- Ánevantha
+- Ánevimîa
 - Ánevira
 - Argýrira
 - Ázimina
-- Ázîta
 - Azrìta
 - Bâkrìa
-- Bìshâra
-- Chânîa
-- Chânîtha
-- Dámìra
 - Dàmîsha
+- Dókhimîa
+- Dómirtha
+- Dôrashana
+- Dôrashîa
+- Érkhirîa
 - Gánêtha
-- Ghâfîra
 - Ghalîsa
 - Ghâmîra
-- Ghânêsa
 - Ghânêtha
 - Ghéranira
+- Ghígnana
+- Ghýmarîa
+- Ghymârora
 - Hâbbìya
-- Hàssìra
 - Ibêtha
 - Ibînêtha
-- Jâmîa
-- Jámîna
-- Jûmâra
 - Júmêtha
 - Jûmîna
 - Jûmìya
 - Júthâra
-- Kafîra
 - Khálîra
+- Kîtvârîa
+- Krênanîa
+- Krênirtha
 - Lámbhira
-- Lámîa
-- Lamînâ
-- Lámîtha
+- Lékhisara
 - Lômâris
+- Lôphanîa
+- Lôphirîa
+- Lôphortha
 - Lôthîra
-- Màkrîna
-- Mànîsha
-- Mánìta
-- Mânîtha
-- Màràtha
+- Métrantha
+- Métrarîa
 - Mûfîra
 - Mûnêtha
 - Mýrthana
 - Nâbîra
-- Nâfîya
-- Namîtha
-- Námîtha
 - Nêvarina
+- Nêvartha
 - Nìmaris
 - Nûbàris
-- Nûfîsa
+- Nýkhtana
+- Nýkhtîra
+- Órashara
+- Órashêla
+- Órashima
+- Pédhimîa
+- Pédhîra
+- Pédhorîa
+- Plánthira
+- Pólithana
+- Pólithra
 - Ràfîna
-- Râhîna
-- Râhmìa
 - Ràkhîmêa
 - Rakhîra
 - Ràkhîra
-- Râkîna
 - Râkîra
 - Râkîta
-- Rámìla
 - Râshìra
-- Safàra
-- Safìra
-- Safîya
-- Sâmîa
-- Sàmîra
-- Shárîna
+- Sôthêlra
+- Sôthimîa
 - Sphrâdira
 - Sûfìra
-- Sûfìtha
-- Sûlîtha
-- Tabìna
 - Tabîra
 - Tàbîsa
-- Tádîra
 - Tàlîra
 - Tamîtha
-- Tázinâ
 - Tázîtha
-- Thûnîa
+- Thálimira
+- Théldimra
+- Thérimîra
+- Thérirîa
 - Thûressà
-- Yassìna
-- Yàzîna
-- Zàhrîna
+- Timarîtha
+- Timêlra
+- Timêthîa
 - Zâhrîta
-- Zâmîra
 - Zânîtha
+- Zýghîra
 
 ### Clan Names
 
 - Afîrôs
+- Agóranîdês
 - Áshîmês
 - Bâshîdôs
 - Bàshirîs
@@ -437,6 +438,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Chàddûl
 - Dàmînês
 - Dâmînês
+- Dôrashôs
 - Fàdîrôs
 - Farîkôs
 - Ghâfîrôs
@@ -458,7 +460,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Hàdrîthôs
 - Hàmmûl
 - Hânnârês
-- Hàssânis
 - Ibârîdês
 - Ibârìthôs
 - Jâdîrôs
@@ -486,7 +487,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Nîmâros
 - Nûbâros
 - Râfîrôs
-- Râkhmônis
 - Râkhrîdês
 - Râkîrôs
 - Ramîkôs
@@ -494,7 +494,6 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Râshînês
 - Safîrîdês
 - Safîrôn
-- Sâfîrôs
 - Safîthês
 - Safîthôs
 - Sàmîrôs
@@ -506,6 +505,7 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Tâbîrês
 - Tâmîdês
 - Tázinês
+- Thálimîdês
 - Thâmîdon
 - Tûmârîs
 - Ûmârîdês

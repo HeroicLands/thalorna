@@ -1380,3 +1380,4 @@ Some names are kept out of the setting: the gods, persons, places and terms of E
 | `Sabhāsad`            | `Sabhāsadaka`      | closes on `d`, which no word closes on          |
 | `Vyāndran`            | `Vyālendran`       | not the adjective the suffixes make of the name |
 | `Candra`              | `Chandra`          | `c` is the scholars' letter for `ch`            |
+| `Vaidyavallabha`      | `Ghotranyāsa`      | an Earth phrase, the title of a book of Earth   |

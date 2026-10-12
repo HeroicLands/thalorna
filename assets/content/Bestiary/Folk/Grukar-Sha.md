@@ -264,7 +264,7 @@ You almost missed it. At the edge of the firelight, half turned as if already le
 
 # Dossier {#dossier}
 
-The Grukar-Sha is the thinker of the [[lore-grukarfolk|Grukar]], roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. An [[being-grukaruk|Uk]] hatches with everything it will ever know and a [[being-grkrh|Hai]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
+The Grukar-Sha is the thinker of the [[lore-grukarfolk|Grukar]], roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. An [[being-grukaruk|Uk]] hatches with everything it will ever know and a [[being-grkrhshk|Hushk]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
 
 ## Presentation
 
@@ -276,7 +276,7 @@ Every Grukar tribe keeps its Sha, in [[place-grkrhlmrgn|Grukarhölm]], the easte
 
 ## Key Behaviors
 
-A Sha reads the room before anything else: who holds power, who wants it, who can be used, who is about to become dangerous. Beside a Hai it is the counselor whose strategy the Hai's temperament cannot supply; among the Uk it is the overseer and the voice of the warlord's will. Its deepest art is the management of conflict, seeding quarrels between rival Hai and rumors among the Uk so that the tribe always needs a Sha to keep its balance, and it often carries the spawner's intent while appearing to serve the Hai. A Sha that comes to know something the tribe cannot afford to lose is invited to dinner: its brain is fed to the [[being-grkrahk|Grukar-ahk]], which writes what it knew into the next laying. There is no refusing, and the cleverest Sha spend their lives being exactly useful enough and never more. And when a tribe is dying in good order, its spawner managing the decline to the end, it is a Sha that sees the end coming, finds a second Sha and an aggrieved Hai, and steals a proto-Ahk to found a new tribe elsewhere.
+A Sha reads the room before anything else: who holds power, who wants it, who can be used, who is about to become dangerous. Beside a Hushk it is the counselor whose strategy the Hushk's temperament cannot supply; among the Uk it is the overseer and the voice of the warlord's will. Its deepest art is the management of conflict, seeding quarrels between rival Hushk and rumors among the Uk so that the tribe always needs a Sha to keep its balance, and it often carries the spawner's intent while appearing to serve the Hushk. A Sha that comes to know something the tribe cannot afford to lose is invited to dinner: its brain is fed to the [[being-grkrahk|Grukar-ahk]], which writes what it knew into the next laying. There is no refusing, and the cleverest Sha spend their lives being exactly useful enough and never more. And when a tribe is dying in good order, its spawner managing the decline to the end, it is a Sha that sees the end coming, finds a second Sha and an aggrieved Hushk, and steals a proto-Ahk to found a new tribe elsewhere.
 
 ## What the Frontier Does
 
@@ -292,7 +292,7 @@ A Sha met alone is scouting, spying or carrying a warning home, and the frontier
 
 ## Combat Strategy
 
-A Sha avoids open fighting. It strikes from darkness, from an unexpected angle, at an isolated target, and it uses poison freely, on blades, needles and darts. It divides its enemies with lies and false alarms and lets the Uk and the Hai do the fighting. Forced into a fight, it relies on speed, agility and precision, striking for the vital places, and it is more dangerous than its frailty suggests, because it has prepared. Several Sha together coordinate their strikes with signals no one else can read. Its first choice is always to escape, and it is very good at it.
+A Sha avoids open fighting. It strikes from darkness, from an unexpected angle, at an isolated target, and it uses poison freely, on blades, needles and darts. It divides its enemies with lies and false alarms and lets the Uk and the Hushk do the fighting. Forced into a fight, it relies on speed, agility and precision, striking for the vital places, and it is more dangerous than its frailty suggests, because it has prepared. Several Sha together coordinate their strikes with signals no one else can read. Its first choice is always to escape, and it is very good at it.
 
 ## Special Abilities
 

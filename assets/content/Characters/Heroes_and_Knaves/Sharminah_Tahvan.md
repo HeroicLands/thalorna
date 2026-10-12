@@ -430,7 +430,7 @@ Sharmînah was born in a settlement that no longer exists, destroyed in a wildfi
 
 ### Training and Spiritual Development
 
-Rather than resist her violent impulses and passion, the temple channeled them into service of Ātáröš, the Sacred Flame and visible manifestation of cosmic order. From age six onward, Sharmînah trained in both priestly ritual and martial combat, becoming a warrior-priestess. Her mentor was **High Priestess Zahara**, a woman nearly eighty years old who had served the god for sixty years and who understood that true service sometimes required not compassion but necessary sacrifice. Zahara taught Sharmînah to view compassion as a weakness that compromised divine purpose, and to see mercy as an insult to those worthy of a warrior's death. Under Zahara's guidance, Sharmînah learned to summon the god's power through ritual, to hear Ātáröš's voice in the crackle of flames, and to perceive her own desires as inseparable from divine will.
+Rather than resist her violent impulses and passion, the temple channeled them into service of Ātáröš, the Sacred Flame and visible manifestation of cosmic order. From age six onward, Sharmînah trained in both priestly ritual and martial combat, becoming a warrior-priestess. Her mentor was **High Priestess Shēkhulāt**, a woman nearly eighty years old who had served the god for sixty years and who understood that true service sometimes required not compassion but necessary sacrifice. Shēkhulāt taught Sharmînah to view compassion as a weakness that compromised divine purpose, and to see mercy as an insult to those worthy of a warrior's death. Under Shēkhulāt's guidance, Sharmînah learned to summon the god's power through ritual, to hear Ātáröš's voice in the crackle of flames, and to perceive her own desires as inseparable from divine will.
 
 By her twentieth year, Sharmînah had earned the rank of priestess-warrior and begun leading ritual hunts and expeditions against those deemed enemies of the god's order. She became known throughout the desert as a terrifying figure—the Flame of Tahvân, they called her, a woman whose very presence suggested divine judgment made flesh.
 
@@ -480,8 +480,8 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 ### Patrons
 
-High Priestess Zahara
-: Though now quite elderly and spending most of her time in deep meditation, Zahara remains the highest authority in the temple and Sharmînah's spiritual mother. Zahara does not restrain Sharmînah's zealotry, instead encouraging her to pursue what she believes the god demands.
+High Priestess Shēkhulāt
+: Though now quite elderly and spending most of her time in deep meditation, Shēkhulāt remains the highest authority in the temple and Sharmînah's spiritual mother. Shēkhulāt does not restrain Sharmînah's zealotry, instead encouraging her to pursue what she believes the god demands.
 
 The Council of the Eternal Flame
 : A group of senior priests who recognize Sharmînah's value as an enforcer and missionary, even as some harbor doubts about her methods. They employ her for tasks that require strength and absolute commitment to temple doctrine.
@@ -497,7 +497,7 @@ The Cult of the Twilight
 The Desert Unity Movement
 : A political faction seeking to unite the various desert kingdoms through negotiation and shared culture rather than religious conversion. Sharmînah views them as obstacles to the Sacred Flame's will and has repeatedly sabotaged their efforts.
 
-Priest Salim of the Northern Temple
+Priest Ēzbolōr of the Northern Temple
 : A fellow priest of Ātáröš who broke with orthodox teachings to advocate for compassion and mercy. He represents everything Sharmînah despises about weakness in faith, and she would eagerly destroy him to prevent his teachings from corrupting others.
 
 ### Affiliations
@@ -510,7 +510,7 @@ The Order of the Eternal Flame
 
 ## Plot Hooks
 
-1. **The Heretical Priesthood**: Sharmînah discovers that **High Priestess Zahara**, her beloved mentor and the woman who shaped her entire worldview, may have been harboring doubts about the rigid orthodoxy they have both served. Among Zahara's private possessions, Sharmînah finds hidden writings suggesting that the High Priestess secretly believes compassion and mercy might be compatible with serving Ātáröš. This discovery strikes at the very core of Sharmînah's understanding of her purpose. Rather than abandoning her convictions, Sharmînah must decide whether to suppress this evidence to preserve her faith or confront the possibility that she has fundamentally misunderstood what the god demands.
+1. **The Heretical Priesthood**: Sharmînah discovers that **High Priestess Shēkhulāt**, her beloved mentor and the woman who shaped her entire worldview, may have been harboring doubts about the rigid orthodoxy they have both served. Among Shēkhulāt's private possessions, Sharmînah finds hidden writings suggesting that the High Priestess secretly believes compassion and mercy might be compatible with serving Ātáröš. This discovery strikes at the very core of Sharmînah's understanding of her purpose. Rather than abandoning her convictions, Sharmînah must decide whether to suppress this evidence to preserve her faith or confront the possibility that she has fundamentally misunderstood what the god demands.
 
 2. **The Child Survivor**: Sharmînah leads a purge against what she believes is a heretical settlement, only to discover afterward that many of those she killed were innocent civilians. Among the ruins, she finds a young child—perhaps five years old—who miraculously survived. As the child grows under Sharmînah's reluctant care, she begins to show signs of unusual spiritual power, speaking of visions and demonstrating uncanny abilities. Sharmînah must confront the possibility that this child, product of her "righteous violence," might be a saint or chosen one, forcing her to re-evaluate whether her interpretations of divine will have been correct.
 

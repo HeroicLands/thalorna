@@ -453,7 +453,7 @@ The Desert Monks
 
 ### Enemies
 
-Captain Darius and the City Guard
+Captain Qēmburōr and the City Guard
 : The local garrison commander has made begging and vagrancy a personal crusade, and views Kamîd specifically as a troublemaker and vagrant to be driven out or arrested.
 
 The Creditor's Guild

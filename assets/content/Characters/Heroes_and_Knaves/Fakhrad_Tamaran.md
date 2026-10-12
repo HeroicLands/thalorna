@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [shebarekh]
-  affiliations: {sultntmrdd: {rank: 3}, mithara: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, mithara: {rank: 1}}
   gender: male
   species: humanflk
   born: "674.22"
@@ -25,7 +25,7 @@ data:
     skin_color: tanned
     complexion: ruddy
     extra_features: [a scar on the right hand]
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -429,7 +429,7 @@ Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet bla
 
 # Dossier {#dossier}
 
-Fakhrad was born in a remote village of the [[affiliation-sultntmrdd|Sultanate of Amradad]], the son of a minor grain merchant and a woman reputed to possess the old gift—an intuitive understanding of cycles and seasons that transcended mere agricultural knowledge. His mother taught him to read the stars before she taught him to read books, and his earliest memories are of lying on rooftops, tracing constellations and learning their names and stories. When he was sixteen, a formal astrologer passing through the region recognized his natural gift and offered to take him as apprentice. Fakhrad spent seven years in the city learning mathematical astronomy, the construction of instruments, and the formal practices of the craft.
+Fakhrad was born in a remote village of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the son of a minor grain merchant and a woman reputed to possess the old gift—an intuitive understanding of cycles and seasons that transcended mere agricultural knowledge. His mother taught him to read the stars before she taught him to read books, and his earliest memories are of lying on rooftops, tracing constellations and learning their names and stories. When he was sixteen, a formal astrologer passing through the region recognized his natural gift and offered to take him as apprentice. Fakhrad spent seven years in the city learning mathematical astronomy, the construction of instruments, and the formal practices of the craft.
 
 However, he eventually rejected the rigid formalism of court astrology and returned to the rural regions, where he has spent the past twenty-three years serving as adviser and interpreter of the heavens to farmers, herders, and villagers. His practical approach—using the stars to predict weather, to advise on planting and harvest, to comfort the fearful—has won him a devoted following among the common people, though it has earned him considerable scorn from the formal astrological establishment. He has published no treatises, made no grand discoveries, and built no reputation in the halls of academia. Yet his predictions are remarkably reliable, and his counsel is sought by those who know where to find him.
 
@@ -470,7 +470,7 @@ The Village Elders of [[place-sorvadekh|Sorvadekh]]
 : The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 
 Merchant Caravan Master Yelmâd
-: A trader who conducts seasonal journeys across the sultanate uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
+: A trader who conducts seasonal journeys across the kingdom uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
 ### Enemies
 

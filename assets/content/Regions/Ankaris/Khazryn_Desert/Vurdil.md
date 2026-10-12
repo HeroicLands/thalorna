@@ -1,6 +1,6 @@
 ---
-shortcode: gurdi
-name: {full: Gurdi, aliases: [The Way Down]}
+shortcode: vurdil
+name: {full: Vurdil, aliases: [The Way Down]}
 type: place
 subType: site
 description: "A labyrinth of cut passages climbing into the Grazian Mountains from the foot of the north face, which the Tellumi hold to be the road their ancestors came down."
@@ -12,11 +12,11 @@ data: {demonym: null, lore: [], parents: [graznmntns], population: 0, packFolder
 
 Above the Tellumi belt the north face of the Grazian Mountains rises in a single gray wall, and at one place in it, a morning's walk above the last terrace, there is a doorway. It is forty feet high and plain, with no carving on it, and the passage beyond slopes upward into the mountain at the pitch of a long staircase. The floor is worn. The walls are dressed smooth, and where the passage branches, which it does within a hundred paces, every junction is cut square with a lintel overhead.
 
-Gurdi, which the Tellumi call by the word for a pass, is a labyrinth. No one has found where it ends. The passages climb, branch and climb again; some open on ledges of the face high above the belt and are sealed with ice, and some run to chambers whose roofs are lost in the dark. The cold deepens as you go up, and the air carries a sound, faint and regular, like water falling on a flat stone a long way off. Who cut it is not known. It was there before the Tellumi had a record.
+Vurdil, which the Tellumi call by the word for a pass, is a labyrinth. No one has found where it ends. The passages climb, branch and climb again; some open on ledges of the face high above the belt and are sealed with ice, and some run to chambers whose roofs are lost in the dark. The cold deepens as you go up, and the air carries a sound, faint and regular, like water falling on a flat stone a long way off. Who cut it is not known. It was there before the Tellumi had a record.
 
 ## What the Tellumi Believe
 
-The old houses hold that their ancestors came down through Gurdi from the peaks above, in the first age, to the springs of the belt, and that the houses' genealogies root in particular summits that the passage reaches. The houses that trace their descent to the Western Descent instead call this a lie told to flatter, and the quarrel is old and bitter. Both agree that a house whose peak is lost has lost its claim to it.
+The old houses hold that their ancestors came down through Vurdil from the peaks above, in the first age, to the springs of the belt, and that the houses' genealogies root in particular summits that the passage reaches. The houses that trace their descent to the Western Descent instead call this a lie told to flatter, and the quarrel is old and bitter. Both agree that a house whose peak is lost has lost its claim to it.
 
 ## Danger
 

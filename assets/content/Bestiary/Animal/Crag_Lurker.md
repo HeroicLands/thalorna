@@ -194,7 +194,7 @@ The crack in the gully wall is a shadow among shadows, and the gray stone beside
 
 # Dossier {#dossier}
 
-The Crag Lurker is the great rock spider of the [[place-graznmntns|Grazian]] north face: a horse-sized body on eight legs that reach eight to ten feet, about two hundred and fifty pounds, with a carapace grained and colored like weathered gray stone. It lives in the cracks of cliffs and the ceilings of caves, strings its webs across the places where animals pass, and waits in its crevice for days for a line to shake. The guides call it the crack hunter, and the labyrinth-walkers of [[place-gurdi|Gurdi]] call it the ceiling-hunter of the upper passages, and both mean the same animal.
+The Crag Lurker is the great rock spider of the [[place-graznmntns|Grazian]] north face: a horse-sized body on eight legs that reach eight to ten feet, about two hundred and fifty pounds, with a carapace grained and colored like weathered gray stone. It lives in the cracks of cliffs and the ceilings of caves, strings its webs across the places where animals pass, and waits in its crevice for days for a line to shake. The guides call it the crack hunter, and the labyrinth-walkers of [[place-vurdil|Vurdil]] call it the ceiling-hunter of the upper passages, and both mean the same animal.
 
 A caravan meets it on a ledge path or at a cave mouth that looked like shelter. A party in the cut passages under the mountains meets it where the passage roof goes up out of torchlight.
 

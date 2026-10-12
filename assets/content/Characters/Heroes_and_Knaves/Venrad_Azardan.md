@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [qarvelekh]
-  affiliations: {sultntmrdd: {rank: 3}, bahramis: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, bahramis: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.304
@@ -25,7 +25,7 @@ data:
     skin_color: olive
     complexion: null
     extra_features: [a scar on the lower abdomen]
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -432,11 +432,11 @@ Venrâd stands 5'7" tall with a light build. He has warm olive skin, dark black 
 
 ### The Child of the Storm
 
-Venrâd was born in the coastal settlements of the [[affiliation-sultntmrdd|Sultanate of Amradad]] to a family of traders and minor pilots who navigated the treacherous waters between the sultanate and distant ports. His father, a respected merchant captain, intended that Venrâd would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrâd displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
+Venrâd was born in the coastal settlements of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] to a family of traders and minor pilots who navigated the treacherous waters between the kingdom and distant ports. His father, a respected merchant captain, intended that Venrâd would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Venrâd displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: genius rather than mere competence.
 
 ### The Pilot's Apprenticeship
 
-Rather than follow the merchant trade, Venrâd insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Tûlvesh Gorgaz, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tûlvesh tested Venrâd constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrâd had become one of the most requested pilots in the sultanate, able to navigate passages that other captains considered impassable.
+Rather than follow the merchant trade, Venrâd insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Tûlvesh Gorgaz, learning the practical techniques of piloting and the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Tûlvesh tested Venrâd constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Venrâd had become one of the most requested pilots in the kingdom, able to navigate passages that other captains considered impassable.
 
 ### The Present Zenith
 
@@ -473,7 +473,7 @@ Venrâd is driven by a need to prove that the combination of instinct, skill, an
 ### Patrons
 
 Merchant Consortium of the Eastern Trade
-: A powerful merchant collective that has contracted Venrâd's services repeatedly for particularly difficult voyages between sultanate ports and distant trading partners.
+: A powerful merchant collective that has contracted Venrâd's services repeatedly for particularly difficult voyages between kingdom ports and distant trading partners.
 
 Captain Teshmar the Venerable
 : An aging merchant captain and Venrâd's closest friend, who continues to offer him navigation contracts and is one of the few people Venrâd trusts.
@@ -491,7 +491,7 @@ The Corsairs of the Burning Coast
 The Local Mariners' Guild
 : Member in good standing, though frequently at odds with the guild's safety rules and conservative approach to navigation.
 
-The Sultanate's Merchant Fleet
+The Kingdom's Merchant Fleet
 : Occasional contractor for government trade missions and sensitive vessel movements.
 
 The Adventurers' Collective

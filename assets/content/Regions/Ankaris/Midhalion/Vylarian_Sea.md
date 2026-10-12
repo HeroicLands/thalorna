@@ -29,7 +29,7 @@ The sea is a long east-west ellipse, wider at its eastern and western ends and n
 | Shore    | Held by                                                                                                                                                                                |
 | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Northern | [[affiliation-vylarinmpr\|Vylaria]], [[place-provenzrgn\|Provènzia]], [[place-tarvenirgn\|Tarvénia]], [[place-helionis\|Heliónis]] and the [[affiliation-byzarianlg\|Byzarian League]] |
-| Eastern  | The [[affiliation-sultntmrdd\|Sultanate of Amradad]], and off it the [[affiliation-cnfdrtntrzlnstts\|Tarûzelian]] archipelago                                                          |
+| Eastern  | The [[affiliation-kngdmmrdd\|Kingdom of Amradad]], and off it the [[affiliation-cnfdrtntrzlnstts\|Tarûzelian]] archipelago                                                             |
 | Southern | The [[affiliation-empireakhlth\|Empire of Aû'Khelâthu]], [[affiliation-okharis\|Okháris]] and the [[affiliation-mtrrchybth\|Matriarchy of Bethua]]                                     |
 
 Hundreds of islands stud the sea. The largest—the Tarûzelian archipelago and the [[place-aelwyth|Misty Isle]] far to the west—carry substantial populations and polities of their own. The smaller ones hold fishing communities, religious orders, pirate havens, or nothing at all.
@@ -79,7 +79,7 @@ Sailors are practical polytheists. They honor whichever god of the sea seems lik
 - [[place-midhalnrgn|Mídhalión Region]]—the region the sea holds together
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the northern imperial power
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the eastern naval power
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the eastern shore
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the eastern shore
 - [[affiliation-bethuanflt|Bethûan Fleet]]—the southern raiders
 - [[place-helionis|Heliónis]]—central intellectual and maritime presence
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—dominant southern-shore power

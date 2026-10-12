@@ -13,7 +13,7 @@ data:
       depth: region
       sources: [affiliation-bhumipala, place-sandhyapur, place-marchroad]
       summary: >-
-        The Bhūmipāla clan, Sāmantas of the salt coast who rode out the Storm on boats behind the spit at Sandhyāpur, take the march Marupāla left empty. They seat their court at the far end of the road, swear the first treaty with the Sultanate of Amradad, hire the first companies and begin the forts, every one of them built with the host in mind. Kāvravīra is the first Mahārāja, confirmed by a council of the men who built the forts.
+        The Bhūmipāla clan, Sāmantas of the salt coast who rode out the Storm on boats behind the spit at Sandhyāpur, take the march Marupāla left empty. They seat their court at the far end of the road, swear the first treaty with the Kingdom of Amradad, hire the first companies and begin the forts, every one of them built with the host in mind. Kāvravīra is the first Mahārāja, confirmed by a council of the men who built the forts.
       standing: attested
       where:
         locus: [place-sandhyapur]
@@ -29,7 +29,7 @@ data:
       follows: [{event: lore-marupalafl, how: enabled, note: Marupāla left no heir and no host}]
       who:
         - {ref: affiliation-bhumipala, role: actor}
-        - {ref: affiliation-sultntmrdd, role: signatory}
+        - {ref: affiliation-kngdmmrdd, role: signatory}
       accounts:
         - by: affiliation-bhumipala
           says: >-
@@ -52,7 +52,7 @@ The march was empty. Its king, **Ashvakīrti** of Marupāla, had died with his h
 The first Mahārāja, **Kāvravīra**, did four things in his reign, and the kingdom still runs on all four:
 
 - **The court on the coast.** He kept his court at Sandhyāpur, where the water is reliable and the boats are. Lūdrapur was never reoccupied.
-- **The treaty.** He swore the first treaty with [[affiliation-sultntmrdd|the Sultanate of Amradad]] for the pilgrim caravans and the merchants arrested on either side. It has been renewed every generation since.
+- **The treaty.** He swore the first treaty with [[affiliation-kngdmmrdd|the Kingdom of Amradad]] for the pilgrim caravans and the merchants arrested on either side. It has been renewed every generation since.
 - **The companies.** He kept no standing host. He hired companies of horse and foot by the season, Vedyari and Dunhari, and paid them out of the escort money.
 - **The forts.** He began the forts of [[place-marchroad|the march road]], one at each stage of water, and his Sāmantas finished them over the following generation. Every one was built with the host of 315 in mind.
 

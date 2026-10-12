@@ -32,7 +32,7 @@ The renowned **Master Aldrin Kovoss** trained [[being-kayvondzrd|Kayvonad Zarid]
 
 ## Under the Ātárzád
 
-The Ātárzád hold the city, and the University belongs to nobody. Its faculty includes Tellumi, Ātárzád and foreign scholars, and the Council of the Twelve has left it alone because it earns money and because Ātárzád sons study there. Tellumi professors may teach, and Tellumi students may attend, but they may not hold land in the city, and the water-tax falls on their households as it does elsewhere. The practical rule among the faculty is that a quarrel in the lecture-hall is an academic quarrel, and a quarrel in the street is a matter for the Zarvān magistrate.
+The Ātárzád hold the city, and the University belongs to nobody. Its faculty includes Tellumi, Ātárzád and foreign scholars, and the Council of the Twelve has left it alone because it earns money and because Ātárzád sons study there. Tellumi professors may teach, and Tellumi students may attend, but they may not hold land in the city, and the water-tax falls on their households as it does elsewhere. The practical rule among the faculty is that a quarrel in the lecture-hall is an academic quarrel, and a quarrel in the street is a matter for the Tōzhirōd magistrate.
 
 ## Hooks and Dangers
 

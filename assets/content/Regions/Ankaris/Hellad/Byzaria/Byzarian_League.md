@@ -70,7 +70,7 @@ data:
     arldnpnthn: aligned
     vylarinmpr: unaligned
     cnfdrtntrzlnstts: rival
-    sultntmrdd: unaligned
+    kngdmmrdd: unaligned
   packFolder: byzaria
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---

@@ -16,41 +16,41 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Rōqeshekh, Dēlkoshekh, Shēkhulsīghot, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Dēlkoshekh will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         description: >-
           Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
-        title: Āthravān
+        title: Rōqeshekh
         description: >-
           "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
-        title: Hērbad
+        title: Dēlkoshekh
         description: >-
           "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
-        title: Mōbad
+        title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
     offices:
-      Mōbad: >-
+      Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
-      Hērbad: >-
+      Dēlkoshekh: >-
         Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
-      Āthravān: >-
+      Rōqeshekh: >-
         Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
+        A Dēlkoshekh skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
         Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
+        A Dēlkoshekh who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   population: null
   economy: []
@@ -79,13 +79,13 @@ The great festivals honoring Míthárä fall at times of natural renewal. In the
 
 ## Organization
 
-The priesthood of Míthárä is organized according to specialization rather than rank, though a hierarchical structure does technically exist. At the apex is the Mōbad, traditionally chosen from among the most accomplished Hērbads—often a master craftsperson of considerable renown or a scholar of great learning who has demonstrated creative thinking about theological matters. Below the Mōbad are the Hērbads, who typically fall into distinct categories: the Temple Keepers who maintain the shrines and perform the regular ceremonies; the Craftmaster-Priests who work within the major workshops and guilds, supervising the training of apprentices and ensuring that craftsmanship remains grounded in spiritual understanding; and the Renewal-Walkers who travel the lands as teachers and mediators, bringing the message of perpetual renewal and reconciling theological disputes.
+The priesthood of Míthárä is organized according to specialization rather than rank, though a hierarchical structure does technically exist. At the apex is the Shēkhulsīghot, traditionally chosen from among the most accomplished Dēlkoshekhs—often a master craftsperson of considerable renown or a scholar of great learning who has demonstrated creative thinking about theological matters. Below the Shēkhulsīghot are the Dēlkoshekhs, who typically fall into distinct categories: the Temple Keepers who maintain the shrines and perform the regular ceremonies; the Craftmaster-Priests who work within the major workshops and guilds, supervising the training of apprentices and ensuring that craftsmanship remains grounded in spiritual understanding; and the Renewal-Walkers who travel the lands as teachers and mediators, bringing the message of perpetual renewal and reconciling theological disputes.
 
-What makes the Mitharan priesthood unique is its deep integration with the craftspeople and artists of the realm. Every major guild—the masons, the metalworkers, the weavers, the potters—has a Hērbad embedded within it, responsible for maintaining the spiritual discipline of the craft, for training apprentices in both technique and theology, and for ensuring that the work done in that guild serves the principle of Āsha (good, honest creation) rather than Druj (shoddy work, deception, the creation of ugliness). These priest-craftspeople must be highly skilled in their trades; a Hērbad of the metalworking guild must be capable of forging a sword or crafting jewelry with genuine mastery. They are paid by the guilds for this service, creating a complex relationship between the priesthood and the commercial structures of the cities.
+What makes the Mitharan priesthood unique is its deep integration with the craftspeople and artists of the realm. Every major guild—the masons, the metalworkers, the weavers, the potters—has a Dēlkoshekh embedded within it, responsible for maintaining the spiritual discipline of the craft, for training apprentices in both technique and theology, and for ensuring that the work done in that guild serves the principle of Āsha (good, honest creation) rather than Druj (shoddy work, deception, the creation of ugliness). These priest-craftspeople must be highly skilled in their trades; a Dēlkoshekh of the metalworking guild must be capable of forging a sword or crafting jewelry with genuine mastery. They are paid by the guilds for this service, creating a complex relationship between the priesthood and the commercial structures of the cities.
 
 The order maintains the most extensive educational institutions of any Āsháian cult. The Mitharan temples run academies where promising young people are trained in craft, art, engineering, mathematics, and philosophy. These academies have produced many of the greatest architects, engineers, and craftspeople of the age. The curriculum emphasizes not merely technical skill but the philosophical understanding that all craft is a form of prayer, that beauty created with intention is a direct expression of Āsha, and that the worker who creates with mindfulness and respect for the materials is participating in the divine act of creation. The order maintains detailed written records of architectural knowledge, mathematical principles, artistic techniques, and engineering innovations, accumulated over centuries and carefully guarded. Access to these libraries is a privilege jealously protected by the priesthood.
 
-The structure of the priesthood reflects its belief in perpetual renewal: unlike other Āsháian orders, the Mitharan priesthood deliberately rotates its personnel through different temples and roles every seven years. A Hērbad might spend seven years serving as a Temple Keeper, then move to work with a guild as a Craftmaster-Priest, then become a Renewal-Walker, then return to the temples in a different capacity. This constant circulation prevents the development of rigid hierarchies and ensures that the priesthood never becomes calcified or stale in its practices. Similarly, the position of Mōbad is not held for life but for a term of twelve years, after which the priest must step down (though they often continue to serve in other capacities). This practice, while unusual and occasionally contentious when a particularly beloved Mōbad must surrender power, is justified theologically as a necessary expression of Míthárä's principle: that all things must change, that permanence in power leads to stagnation and corruption, and that renewal requires the relinquishment of authority as well as its acquisition.
+The structure of the priesthood reflects its belief in perpetual renewal: unlike other Āsháian orders, the Mitharan priesthood deliberately rotates its personnel through different temples and roles every seven years. A Dēlkoshekh might spend seven years serving as a Temple Keeper, then move to work with a guild as a Craftmaster-Priest, then become a Renewal-Walker, then return to the temples in a different capacity. This constant circulation prevents the development of rigid hierarchies and ensures that the priesthood never becomes calcified or stale in its practices. Similarly, the position of Shēkhulsīghot is not held for life but for a term of twelve years, after which the priest must step down (though they often continue to serve in other capacities). This practice, while unusual and occasionally contentious when a particularly beloved Shēkhulsīghot must surrender power, is justified theologically as a necessary expression of Míthárä's principle: that all things must change, that permanence in power leads to stagnation and corruption, and that renewal requires the relinquishment of authority as well as its acquisition.
 
 ## Relations
 
@@ -95,4 +95,4 @@ The relationship with [[affiliation-zurathra|Faith of Zúráthrä]] is particula
 
 With [[affiliation-aravesta|Faith of Árávēštä]], the relationship is more one of friendly rivalry. Both deities represent generosity and abundance, but Míthárä's abundance is portrayed as the abundance of potential and transformation, while Araveshta's is the abundance of material prosperity and sensory pleasure. Conservative Mitharan theologians view Araveshta with some suspicion, arguing that the pursuit of pleasure without the deeper understanding of the ongoing necessity of renewal and transformation can lead to a kind of spiritual blindness. Araveshatian priests counter that joy and celebration are themselves forms of renewal, that the feasting and festivity that honor Araveshta are necessary to sustain human spirit and therefore serve Míthárä's principle as well. The debate is conducted in learned and amicable tones, but it reflects a genuine theological disagreement about the proper balance between ascetic discipline and joyful celebration.
 
-The priesthood of Míthárä has long served as mediator and reconciler in theological disputes within the broader Āsháian pantheon, particularly when conflicts arise between the more ascetic orders and the more indulgent ones. The Mitharan emphasis on balance, on the necessity of both creation and dissolution, both celebration and discipline, gives their priesthood a certain authority in these disputes. The Mōbad of Míthárä is traditionally consulted by the Sultanate's court when important theological questions must be settled or when conflicts between priestly orders threaten civil harmony. This role as mediator has sometimes resulted in Mitharan priests being perceived as less committed to the interests of their own order, a criticism that the priesthood meets with characteristic philosophical equanimity: that true service to Míthárä requires the capacity to see all perspectives and to understand how each represents a partial truth within a larger cosmic pattern.
+The priesthood of Míthárä has long served as mediator and reconciler in theological disputes within the broader Āsháian pantheon, particularly when conflicts arise between the more ascetic orders and the more indulgent ones. The Mitharan emphasis on balance, on the necessity of both creation and dissolution, both celebration and discipline, gives their priesthood a certain authority in these disputes. The Shēkhulsīghot of Míthárä is traditionally consulted by the Kingdom's court when important theological questions must be settled or when conflicts between priestly orders threaten civil harmony. This role as mediator has sometimes resulted in Mitharan priests being perceived as less committed to the interests of their own order, a criticism that the priesthood meets with characteristic philosophical equanimity: that true service to Míthárä requires the capacity to see all perspectives and to understand how each represents a partial truth within a larger cosmic pattern.

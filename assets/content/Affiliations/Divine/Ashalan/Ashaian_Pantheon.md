@@ -14,41 +14,41 @@ data:
   governance:
     model: theocracy
     summary: >-
-      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling and tending of the flame. The ladder is Rōqeshekh, Dēlkoshekh, Shēkhulsīghot, and it is the same in every land—unity enforced not by hierarchy but by the flame itself, which answers to correct technique and not to theological innovation.
     ranks:
       - level: 0
         title: Flame-Denied
         description: >-
-          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
+          Barred from the fire: no temple will admit them to an altar, and no Dēlkoshekh will kindle for them. In a faith where every prayer begins with a flame, this ends religious life entirely.
       - level: 1
         title: Lay Faithful
         description: >-
           Of the faith by observance—keeping the household fire-ritual at sunrise and sunset, which is the foundational act of Āsháian practice and needs no priest.
       - level: 2
-        title: Āthravān
+        title: Rōqeshekh
         description: >-
           "Fire-Keeper"—initiates whose duty is the flame itself: feeding it with practiced precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination requires maintaining a portion of the temple fire for a full year without its failing.
       - level: 3
-        title: Hērbad
+        title: Dēlkoshekh
         description: >-
           "Teacher-Priest"—the working priesthood: daily rituals, instruction, pastoral duty, and the reading of flame-behavior as omen. Trained in theology, astronomy, medicine and the interpretation of signs; they serve in temples, travel with caravans and minister to the tribes.
       - level: 4
-        title: Mōbad
+        title: Shēkhulsīghot
         description: >-
-          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds influence rivaling the Sultan's vizier.
+          "Master of Fire"—senior priest of a major fire-temple or a regional authority, personally responsible for its eternal flame and keeper of its fire-lineage records. Adjudicates theological disputes; the Shēkhulsīghot of the Great Fire-Temple of Amradad holds influence rivaling the Shêbarôr's vashkôr.
     offices:
-      Mōbad: >-
+      Shēkhulsīghot: >-
         Master of Fire—senior priest of a major fire-temple, personally answerable for the eternal flame and keeper of the temple's fire-lineage records.
-      Hērbad: >-
+      Dēlkoshekh: >-
         Teacher-Priest—specializes in fire-ritual and teaches both the sacred procedures and the practical knowledge a healthy flame requires.
-      Āthravān: >-
+      Rōqeshekh: >-
         Fire-Keeper—initiate charged with feeding, sheltering and preserving the flame and its ashes.
       Flame-Reader: >-
-        A Hērbad skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
+        A Dēlkoshekh skilled in reading a fire: color for the quality of an offering, flicker for the god's mood, and the ash-patterns on the altar stones as messages.
       Keeper of the Fire-Lineage: >-
         Holds the record of a flame's descent—which fire it was kindled from, and when—on which a temple's standing rests.
       Caravan Priest: >-
-        A Hērbad who travels with the caravans and ministers to tribal communities beyond any temple's reach.
+        A Dēlkoshekh who travels with the caravans and ministers to tribal communities beyond any temple's reach.
   seat: null
   population: null
   economy: []
@@ -61,9 +61,9 @@ sohl: {system: {commonSkills: []}}
 
 **Pronunciation**: _Ah-SHY-uhn_
 
-The Āsháian pantheon is the religious tradition of the desert and steppe peoples of central and south-central [[place-ankrscntnnt|Ankaris Continent]]—the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[affiliation-sultntmrdd|Sultanate of Amradad]] on the eastern shore of the [[place-vylarianse|Vylarian Sea]], and the eastern islands of the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]] across the strait from it. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of the west and the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu, though the faithful would insist that the Āsháian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
+The Āsháian pantheon is the religious tradition of the desert and steppe peoples of central and south-central [[place-ankrscntnnt|Ankaris Continent]]—the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the [[place-vylarianse|Vylarian Sea]], and the eastern islands of the [[affiliation-cnfdrtntrzlnstts|Tarûzelian Confederation]] across the strait from it. The pantheon comprises twelve deities, each governing a fundamental aspect of existence—the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of the west and the [[affiliation-khelathpnthn|Khelâthi Pantheon]] of Aû'Khelâthu, though the faithful would insist that the Āsháian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.
 
-The Āsháian faith is shaped by its environment. Where the Khelâthi religion is institutional—massive temples, hierarchical priesthood, intimate ties to an ancient state—the Āsháian tradition is both older in spirit and looser in structure. Its core theology emerged among nomadic peoples for whom fire was survival itself: warmth against the killing cold of desert nights, light against predators, the transformation of raw meat into sustenance. Fire sits at the theological center of the Āsháian faith in a way that has no parallel in the other major pantheons. [[affiliation-ataros|Ātáröš]], the Sacred Flame, is not merely one god among twelve but the living presence through which all the other gods make themselves known. Every prayer begins with the kindling of fire. Every sacred site maintains an eternal flame. The great fire-temples of [[affiliation-sultntmrdd|Amradad]] are architectural wonders precisely because the entire Āsháian faith is built around the principle that divine truth is revealed through flame.
+The Āsháian faith is shaped by its environment. Where the Khelâthi religion is institutional—massive temples, hierarchical priesthood, intimate ties to an ancient state—the Āsháian tradition is both older in spirit and looser in structure. Its core theology emerged among nomadic peoples for whom fire was survival itself: warmth against the killing cold of desert nights, light against predators, the transformation of raw meat into sustenance. Fire sits at the theological center of the Āsháian faith in a way that has no parallel in the other major pantheons. [[affiliation-ataros|Ātáröš]], the Sacred Flame, is not merely one god among twelve but the living presence through which all the other gods make themselves known. Every prayer begins with the kindling of fire. Every sacred site maintains an eternal flame. The great fire-temples of [[affiliation-kngdmmrdd|Amradad]] are architectural wonders precisely because the entire Āsháian faith is built around the principle that divine truth is revealed through flame.
 
 The central theological framework is the cosmic struggle between **Āsha** (truth, order, righteousness) and **Druj** (falsehood, chaos, corruption). [[affiliation-ahurdaen|Āhúrdáén]], the supreme deity, created the world in accordance with Āsha and sustains it through the cooperation of the righteous gods. [[affiliation-angaros|Ángáróš]], the Shadowed Serpent, opposes creation with Druj—deception, entropy, and the slow dissolution of all things. Every mortal, every spirit, every act of will is understood as a choice between these two principles. Unlike the Khelâthi theology, where the cosmic struggle is largely fought by the gods while mortals are judged after death, the Āsháian faith places the struggle squarely in the hands of the living. Each person is a soldier in the war between truth and falsehood. Good thoughts, good words, good deeds—this is the threefold path of Āsha, repeated at every fire-ritual, inscribed on every temple wall, taught to every child before they can walk.
 
@@ -90,13 +90,13 @@ After death, the soul crosses the **Chinvat Bridge**—the Bridge of the Separat
 
 The Āsháian faith does not maintain the massive, state-integrated temple hierarchies of the Khelâthi tradition. Its priestly structure reflects its origins among nomadic peoples and its development in the settled courts of Amradad and the Khazryn oasis-cities.
 
-- **Mōbad** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Mōbad tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Sultanate of Amradad, the Mōbad of the Great Fire-Temple holds political influence rivaling that of the Sultan's vizier.
+- **Shēkhulsīghot** ("Master of Fire")—the senior priest of a major fire-temple or a regional spiritual authority. The Shēkhulsīghot tends the sacred flame, interprets divine will through fire-reading, and adjudicates theological disputes. In the Kingdom of Amradad, the Shēkhulsīghot of the Great Fire-Temple holds political influence rivaling that of the Shêbarôr's vashkôr.
 
-- **Hērbad** ("Teacher-Priest")—the working priesthood, responsible for daily rituals, instruction of the faithful, care of the sacred fires, and pastoral duties. Hērbads serve in fire-temples, travel with caravans, and minister to tribal communities. They are trained in theology, astronomy, medicine, and the interpretation of omens.
+- **Dēlkoshekh** ("Teacher-Priest")—the working priesthood, responsible for daily rituals, instruction of the faithful, care of the sacred fires, and pastoral duties. Dēlkoshekhs serve in fire-temples, travel with caravans, and minister to tribal communities. They are trained in theology, astronomy, medicine, and the interpretation of omens.
 
-- **Āthravān** ("Fire-Keeper")—initiates and acolytes who tend the sacred fires and study under the guidance of a Hērbad. The training period varies but typically lasts several years. An Āthravān who demonstrates mastery of the liturgy, the sacred texts, and the care of flame may be ordained as a Hērbad.
+- **Rōqeshekh** ("Fire-Keeper")—initiates and acolytes who tend the sacred fires and study under the guidance of a Dēlkoshekh. The training period varies but typically lasts several years. An Rōqeshekh who demonstrates mastery of the liturgy, the sacred texts, and the care of flame may be ordained as a Dēlkoshekh.
 
-Among the nomadic tribes of Dunhara and the Khazryn, the formal temple hierarchy is often replaced by a looser structure centered on tribal holy men—desert mystics, fire-seers, and wandering Hērbads who carry the sacred flame from camp to camp. These practitioners hold enormous respect within tribal society, and their spiritual authority can override even a sheikh's temporal power in matters of faith and cosmic law.
+Among the nomadic tribes of Dunhara and the Khazryn, the formal temple hierarchy is often replaced by a looser structure centered on tribal holy men—desert mystics, fire-seers, and wandering Dēlkoshekhs who carry the sacred flame from camp to camp. These practitioners hold enormous respect within tribal society, and their spiritual authority can override even a sheikh's temporal power in matters of faith and cosmic law.
 
 ## The Cosmic Struggle
 
@@ -108,7 +108,7 @@ This theology gives the Āsháian faithful a martial quality that permeates even
 
 ## See Also
 
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—The great settled Āsháian civilization
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—The great settled Āsháian civilization
 - [[place-dunharargn|Dunhara Region]]—Desert homeland of the nomadic faithful
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—Central Ankarian steppe
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—Eastern reaches where Āsháian and Aurèldían faiths meet

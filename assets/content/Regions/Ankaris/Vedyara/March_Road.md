@@ -14,17 +14,17 @@ It is the oldest trade route Vedyara has and the one that moves in bulk. The pas
 
 ## The Stages
 
-A Collective factor at [[place-sandhyapur|Sandhyāpur]] gives every newcomer the same first lesson: the road is priced by the stage between water and not by the mile. The road is reckoned in stages between water, and the escort is sold by the stage. Coast to Ashvapada is five days through country where the wells are a day apart. Ashvapada to Marukūpa is three days along the foot of the hills. From Marukūpa west it is two days of sand to the first Dunhari well, and about twenty from there to the nearest city of the [[affiliation-sultntmrdd|Sultanate of Amradad]].
+A Collective factor at [[place-sandhyapur|Sandhyāpur]] gives every newcomer the same first lesson: the road is priced by the stage between water and not by the mile. The road is reckoned in stages between water, and the escort is sold by the stage. Coast to Ashvapada is five days through country where the wells are a day apart. Ashvapada to Marukūpa is three days along the foot of the hills. From Marukūpa west it is two days of sand to the first Dunhari well, and about twenty from there to the nearest city of the [[affiliation-kngdmmrdd|Kingdom of Amradad]].
 
 The last stage is the one that decides the traffic. A caravan that will not pay for escort across it usually pays a sheikh instead, and the two arrangements cost within a little of each other, which is not an accident.
 
 ## What Moves On It
 
-East and inland: horses, hides, wool, dates and the salt of the coast pans. West and outward: cotton, grain, worked metal, sugar and the manufactured goods of the river country. Pilgrims move on it in both directions under [[affiliation-bhumipala|Bhūmipāla]]'s treaty with the Sultanate, and are the one class of traffic that pays nothing at all.
+East and inland: horses, hides, wool, dates and the salt of the coast pans. West and outward: cotton, grain, worked metal, sugar and the manufactured goods of the river country. Pilgrims move on it in both directions under [[affiliation-bhumipala|Bhūmipāla]]'s treaty with the Kingdom, and are the one class of traffic that pays nothing at all.
 
 ## What Has Come In On It
 
-Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and turned onto this road. It overran the whole of the northwestern march and went on west across the desert, and it reached the Sultanate's walls from the wrong side. Every fort on the road was built after that and with that in mind. The march kingdom that met it died on [[place-lanthusthli|Lanthusthalī]], a day and a half west of Ashvapada, and the road bends south round that field and is chained there at sunset.
+Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down the Western Descent and turned onto this road. It overran the whole of the northwestern march and went on west across the desert, and it reached the Kingdom's walls from the wrong side. Every fort on the road was built after that and with that in mind. The march kingdom that met it died on [[place-lanthusthli|Lanthusthalī]], a day and a half west of Ashvapada, and the road bends south round that field and is chained there at sunset.
 
 ## See Also
 

@@ -18,7 +18,7 @@ data:
         - affiliation-bhumipala
         - place-graznmntns
       summary: >-
-        The steppe tribes of the Khazryn unite under a charismatic orqwen into a great orqwenoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Sultanate of Amradad from the wrong side. It fragments on the death of its founding orqwen. No pass is forced, and none could be.
+        The steppe tribes of the Khazryn unite under a charismatic orqwen into a great orqwenoq. It takes the one road a horde can take into the south, round the Grazian wall's western end and down the Western Descent, overruns the whole of Vedyara's northwestern march, turns west across Dunhara and reaches the eastern walls of the Kingdom of Amradad from the wrong side. It fragments on the death of its founding orqwen. No pass is forced, and none could be.
       standing: attested
       names:
         - name: the Storm of the Hundred Banners
@@ -37,11 +37,11 @@ data:
             knowledge: named
           - place: place-amradadrgn
             how: >-
-              the Sultanate's walls are reached from the east, the side nobody had built them to face
+              the Kingdom's walls are reached from the east, the side nobody had built them to face
             knowledge: named
           - place: place-khzryndsrtrgn
             how: >-
-              the southwestern oasis-cities are largely spared, because the storm-orqwen respects the Sultanate's diplomatic missions
+              the southwestern oasis-cities are largely spared, because the storm-orqwen respects the Kingdom's diplomatic missions
             knowledge: named
           - place: place-wemaq
             how: >-
@@ -81,7 +81,7 @@ The **Storm of the Hundred Banners** is the reason every fort on Vedyara's march
 
 It took the one road a horde can take. The [[place-graznmntns|Grazian Mountains]] close the south off from the steppe, and their passes carry a few caravans a season under hereditary guides; no host can cross them, and none ever has. The orqwenoq went round instead. It came down [[place-wstrndscnt|the Western Descent]], where the wall comes apart into dry foothills at its western end, and turned onto [[place-marchroad|the march road]].
 
-What followed is told in four regions in nearly the same words. The host overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-sultntmrdd|the Sultanate of Amradad]] from the side nobody had built them to face. Then its founding orqwen died, and the orqwenoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the Tellumi account credits the storm-orqwen's respect for the Sultanate's diplomatic missions.
+What followed is told in four regions in nearly the same words. The host overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern march. It went on west across [[place-dunharargn|Dunhara]] and reached the eastern walls of [[affiliation-kngdmmrdd|the Kingdom of Amradad]] from the side nobody had built them to face. Then its founding orqwen died, and the orqwenoq broke back into the tribes it had been made from. The southwestern oasis-cities were largely spared; the Tellumi account credits the storm-orqwen's respect for the Kingdom's diplomatic missions.
 
 On the Vedyari side the march has been arranged around that season ever since. [[affiliation-bhumipala|Bhūmipāla]] built every fort on the road afterward, and with the host in mind, and the kingdom's court, companies and customs all stand on the fact that the march road is the one frontier of the subcontinent a loaded camel—or a steppe host—crosses without climbing. In the passes, [[affiliation-vindhyalay|Shikharālaya]] keeps the other half of the record: no horde has ever forced a Grazian pass.
 
@@ -93,5 +93,5 @@ The storm opened a hard generation for Vedyara. While the kingdoms were looking 
 - [[affiliation-bhumipala|Bhūmipāla]]—the march kingdom whose forts were built after it
 - [[lore-marupalafl|The Fall of Marupāla]] · [[place-lanthusthli|Lanthusthalī]]—the march kingdom that died under it, and the field it left
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the steppe it came from
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the walls it reached
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the walls it reached
 - [[lore-conchdoor|The Conch-Door Incursion]] · [[lore-thirdcmpct|The Third Compact]]—the rest of the crisis generation

@@ -6,7 +6,7 @@ subType: reference
 data: {banner: null}
 ---
 
-A caravan that crosses the [[place-dunharargn|Dunhara]] meets two registers of one tongue. At the wells and in the black tents the tribes speak [[skill-dunharlng|Dunhari]] as the poets keep it, and the storm cults name their lineages in it: a _zevrôr_ reads the wind, a _belgôr_ calls the rain. In the walled cities of the [[affiliation-sultntmrdd|Sultanate of Amradad]] the same words take the polish of the Amradi court, and the Sultan's officers carry them as titles: the _vazhmôr_ who judges a city and the _tâgemôr_ who governs it. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Dunhara and Amradad.
+A caravan that crosses the [[place-dunharargn|Dunhara]] meets two registers of one tongue. At the wells and in the black tents the tribes speak [[skill-dunharlng|Dunhari]] as the poets keep it, and the storm cults name their lineages in it: a _zevrôr_ reads the wind, a _belgôr_ calls the rain. In the walled cities of the [[affiliation-kngdmmrdd|Kingdom of Amradad]] the same words take the polish of the Amradi court, and the Shêbarôr's officers carry them as titles: the _vazhmôr_ who judges a city and the _tâgemôr_ who governs it. This page is the word-hoard of both: the stems, what each ending makes of them, the rules a new word is built by, and the register of every name the setting gives in the Dunhara and Amradad.
 
 A Dunhari stem names an act or a thing, and an ending says what part it plays. _Vazhm-_ is to weigh a claim; _vazhmôr_ is the one who weighs it by office, the judge. The same handful of endings is laid on every stem, and a place is a stem with the ending that marks ground: _ghavûl-_ is to draw water, and _Ghavûlekh_ is the oasis where the tribes draw it.
 
@@ -33,12 +33,12 @@ Each word table has these columns:
 
 ### Fields
 
-| Field                          | What it holds                                                                          |
-| ------------------------------ | -------------------------------------------------------------------------------------- |
-| The Sultan's court             | The offices through which the Sultan of Amradad governs his cities, markets and doors. |
-| Wind, rain and the storm cults | The lineages, ranks and followers of the storm cults of the tribes.                    |
-| Ground, water and settlement   | The acts a settled place is named for: walling, threshing, pressing, sowing, drawing.  |
-| Sayings                        | Words met in the proverbs and blessings the language note gives.                       |
+| Field                          | What it holds                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------- |
+| The Shêbarôr's court           | The offices through which the Shêbarôr of Amradad governs his cities, markets and doors. |
+| Wind, rain and the storm cults | The lineages, ranks and followers of the storm cults of the tribes.                      |
+| Ground, water and settlement   | The acts a settled place is named for: walling, threshing, pressing, sowing, drawing.    |
+| Sayings                        | Words met in the proverbs and blessings the language note gives.                         |
 
 ## Sounds and spelling
 
@@ -106,23 +106,30 @@ One move makes every built word on this page: **an ending on a stem.** The stem 
 
 ## Words
 
-### The Sultan's court
+### The Shêbarôr's court
 
-Every office of the Amradi court is a stem with _-ôr_, the one who does the act by the Sultan's grant. The judge weighs claims, the governor holds a city in trust, the market inspector tests a measure, the registrar enters a name or a sum in the roll, and the chamberlain keeps the threshold of the Sultan's rooms. The seat of the court is named for the stem of sitting in state.
+Every office of the Amradi court is a stem with _-ôr_, the one who does the act by the Shêbarôr's grant. The judge weighs claims, the governor holds a city in trust, the market inspector tests a measure, the registrar enters a name or a sum in the roll, and the chamberlain keeps the threshold of the Shêbarôr's rooms. The seat of the court is named for the stem of sitting in state.
 
-| Form      | Class  | Gloss                                               | Built from       | Attested                                         |
-| --------- | ------ | --------------------------------------------------- | ---------------- | ------------------------------------------------ |
-| `vazhm-`  | `stem` | to weigh a claim                                    | —                | —                                                |
-| `vazhmôr` | `n`    | a judge of a city, by law and custom                | `vazhm-` + `-ôr` | [[affiliation-sultntmrdd\|Sultanate of Amradad]] |
-| `tâgem-`  | `stem` | to hold in trust for another                        | —                | —                                                |
-| `tâgemôr` | `n`    | a governor of a city or oasis, in the Sultan's name | `tâgem-` + `-ôr` | [[affiliation-sultntmrdd\|Sultanate of Amradad]] |
-| `nûzg-`   | `stem` | to test a measure                                   | —                | —                                                |
-| `nûzgôr`  | `n`    | an inspector of markets, weights and public morals  | `nûzg-` + `-ôr`  | [[affiliation-sultntmrdd\|Sultanate of Amradad]] |
-| `yorv-`   | `stem` | to enter in the roll                                | —                | —                                                |
-| `yorvôr`  | `n`    | a keeper of the registers and the realm's revenue   | `yorv-` + `-ôr`  | [[affiliation-sultntmrdd\|Sultanate of Amradad]] |
-| `gholv-`  | `stem` | to keep the threshold                               | —                | —                                                |
-| `gholvôr` | `n`    | a chamberlain, who keeps the door to the Sultan     | `gholv-` + `-ôr` | [[affiliation-sultntmrdd\|Sultanate of Amradad]] |
-| `shêbar-` | `stem` | to sit in state, to hold court                      | —                | —                                                |
+| Form       | Class  | Gloss                                                                   | Built from        | Attested                                      |
+| ---------- | ------ | ----------------------------------------------------------------------- | ----------------- | --------------------------------------------- |
+| `vazhm-`   | `stem` | to weigh a claim                                                        | —                 | —                                             |
+| `vazhmôr`  | `n`    | a judge of a city, by law and custom                                    | `vazhm-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `tâgem-`   | `stem` | to hold in trust for another                                            | —                 | —                                             |
+| `tâgemôr`  | `n`    | a governor of a city or oasis, in the Shêbarôr's name                   | `tâgem-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `nûzg-`    | `stem` | to test a measure                                                       | —                 | —                                             |
+| `nûzgôr`   | `n`    | an inspector of markets, weights and public morals                      | `nûzg-` + `-ôr`   | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `yorv-`    | `stem` | to enter in the roll                                                    | —                 | —                                             |
+| `yorvôr`   | `n`    | a keeper of the registers and the realm's revenue                       | `yorv-` + `-ôr`   | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `gholv-`   | `stem` | to keep the threshold                                                   | —                 | —                                             |
+| `gholvôr`  | `n`    | a chamberlain, who keeps the door to the Shêbarôr                       | `gholv-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `shêbar-`  | `stem` | to sit in state, to hold court                                          | —                 | —                                             |
+| `shêbarôr` | `n`    | the sovereign, who sits in state over the realm                         | `shêbar-` + `-ôr` | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `mezhv-`   | `stem` | to keep the inner household                                             | —                 | —                                             |
+| `mezhvôr`  | `n`    | the sovereign's principal wife, keeper of the inner household           | `mezhv-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `vashk-`   | `stem` | to bear a charge of state for another                                   | —                 | —                                             |
+| `vashkôr`  | `n`    | a minister of one department of state; the Grand Vashkôr heads them all | `vashk-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
+| `ghedv-`   | `stem` | to lead a host                                                          | —                 | —                                             |
+| `ghedvôr`  | `n`    | a great officer commanding armies or provinces                          | `ghedv-` + `-ôr`  | [[affiliation-kngdmmrdd\|Kingdom of Amradad]] |
 
 ### Wind, rain and the storm cults
 
@@ -177,19 +184,19 @@ A settled place is named for the work done on its ground, with _-ekh_. The names
 
 **A place** is a stem with _-ekh_, named for the work its first settlers did on the ground: [[place-ghavulekh|Ghavûlekh]], where the tribes draw water at the great well, and [[place-qarvelekh|Qarvelekh]], the walled city.
 
-**An office** is a stem with _-ôr_, written alone: the Sultan's _vazhmôr_ and _tâgemôr_, the storm cults' _zevrôr_ and _rûzhôr_. The great offices of the court and the realm itself are named in the language of these pages.
+**An office** is a stem with _-ôr_, written alone: the Shêbarôr's _vazhmôr_ and _tâgemôr_, the storm cults' _zevrôr_ and _rûzhôr_. The great offices of the court and the realm itself are named in the language of these pages.
 
 ## Scope
 
 The register below holds every name of every note in the Dunhara and Amradad. A note is in the register when one of these values names it:
 
-| Kind    | Value                                                                                                                                                      | What it catches                                                         |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| folder  | `dunhara` `dunharadesert` `dunharatribes` `amradad` `sultanateofamradad`                                                                                   | the land, its tribes, the Sultanate and their people                    |
-| culture | `dunhariclt`                                                                                                                                               | every Dunhari character                                                 |
-| lore    | `dunhariclt`                                                                                                                                               | every note filed under the culture                                      |
-| parent  | `dunharargn` `amradadrgn` `dunhardsrtrgn`                                                                                                                  | every place set inside the Dunhara                                      |
-| address | `lore-dunhariclt` `skill-dunharlng` `skill-dnshkscrpt` `affiliation-sultntmrdd` `affiliation-dunhartrbs` `affiliation-strmcltsbhrms` `doc-dunharaadvguide` | the culture, the tongue, the script, the polities, the cults, the guide |
+| Kind    | Value                                                                                                                                                     | What it catches                                                         |
+| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| folder  | `dunhara` `dunharadesert` `dunharatribes` `amradad` `kingdomofamradad`                                                                                    | the land, its tribes, the Kingdom and their people                      |
+| culture | `dunhariclt`                                                                                                                                              | every Dunhari character                                                 |
+| lore    | `dunhariclt`                                                                                                                                              | every note filed under the culture                                      |
+| parent  | `dunharargn` `amradadrgn` `dunhardsrtrgn`                                                                                                                 | every place set inside the Dunhara                                      |
+| address | `lore-dunhariclt` `skill-dunharlng` `skill-dnshkscrpt` `affiliation-kngdmmrdd` `affiliation-dunhartrbs` `affiliation-strmcltsbhrms` `doc-dunharaadvguide` | the culture, the tongue, the script, the polities, the cults, the guide |
 
 ## Attested names
 
@@ -209,7 +216,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | Name                                      | Notes                                                                | Tongue        | Built from          |
 | ----------------------------------------- | -------------------------------------------------------------------- | ------------- | ------------------- |
 | **Afrûn**                                 | [[being-faradunfrn\|Afrûn]]                                          | `dunhari`     | —                   |
-| **Amradad**                               | [[place-amradadrgn\|Amradad]], [[affiliation-sultntmrdd\|Amradad]]   | `dunhari`     | —                   |
+| **Amradad**                               | [[place-amradadrgn\|Amradad]], [[affiliation-kngdmmrdd\|Amradad]]    | `dunhari`     | —                   |
 | **Amradad Region**                        | [[place-amradadrgn\|Amradad Region]]                                 | `translation` | —                   |
 | **Atenheru**                              | [[being-atenhershr\|Atenheru]]                                       | `sowides`     | —                   |
 | **Âzardan**                               | [[being-venradzrdn\|Âzardan]]                                        | `dunhari`     | —                   |
@@ -217,12 +224,12 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Barmandan**                             | [[being-prynbrmndn\|Barmandan]], [[being-rshrnbrmndn\|Barmandan]]    | `dunhari`     | —                   |
 | **Belgôr**                                | [[affiliation-strmcltsbhrms\|Belgôr]]                                | `dunhari`     | `belg-` + `-ôr`     |
 | **Bondservant**                           | [[affiliation-dunhartrbs\|Bondservant]]                              | `translation` | —                   |
-| **Bondsman**                              | [[affiliation-sultntmrdd\|Bondsman]]                                 | `translation` | —                   |
+| **Bondsman**                              | [[affiliation-kngdmmrdd\|Bondsman]]                                  | `translation` | —                   |
 | **Camp Practitioner**                     | [[affiliation-strmcltsbhrms\|Camp Practitioner]]                     | `translation` | —                   |
-| **Caravan-Master**                        | [[affiliation-sultntmrdd\|Caravan-Master]]                           | `translation` | —                   |
+| **Caravan-Master**                        | [[affiliation-kngdmmrdd\|Caravan-Master]]                            | `translation` | —                   |
 | **Chieftain**                             | [[affiliation-dunhartrbs\|Chieftain]]                                | `translation` | —                   |
-| **Court Astrologer**                      | [[affiliation-sultntmrdd\|Court Astrologer]]                         | `translation` | —                   |
-| **Court Physician**                       | [[affiliation-sultntmrdd\|Court Physician]]                          | `translation` | —                   |
+| **Court Astrologer**                      | [[affiliation-kngdmmrdd\|Court Astrologer]]                          | `translation` | —                   |
+| **Court Physician**                       | [[affiliation-kngdmmrdd\|Court Physician]]                           | `translation` | —                   |
 | **Daryash**                               | [[being-daryshshvn\|Daryash]]                                        | `dunhari`     | —                   |
 | **Delânash Ferudân**                      | [[being-delnshfrdn\|Delânash Ferudân]]                               | `dunhari`     | —                   |
 | **Delegate**                              | [[affiliation-dunhartrbs\|Delegate]]                                 | `translation` | —                   |
@@ -241,8 +248,6 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Dûnshâk**                               | [[skill-dnshkscrpt\|Dûnshâk]]                                        | `dunhari`     | —                   |
 | **Dûnshâk Script**                        | [[skill-dnshkscrpt\|Dûnshâk Script]]                                 | `translation` | —                   |
 | **Elder**                                 | [[affiliation-dunhartrbs\|Elder]]                                    | `translation` | —                   |
-| **Emir**                                  | [[affiliation-sultntmrdd\|Emir]]                                     | `translation` | —                   |
-| **Emir of the Host**                      | [[affiliation-sultntmrdd\|Emir of the Host]]                         | `translation` | —                   |
 | **Envoy**                                 | [[affiliation-dunhartrbs\|Envoy]]                                    | `translation` | —                   |
 | **Fakhrad**                               | [[being-fakhrdtmrn\|Fakhrad]]                                        | `dunhari`     | —                   |
 | **Faradûn**                               | [[being-faradunfrn\|Faradûn]]                                        | `dunhari`     | —                   |
@@ -250,9 +255,11 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Firâvâd**                               | [[being-firavdprsk\|Firâvâd]]                                        | `dunhari`     | —                   |
 | **Gazvân**                                | [[being-gulrnhgzvn\|Gazvân]]                                         | `dunhari`     | —                   |
 | **Ghavûlekh**                             | [[place-ghavulekh\|Ghavûlekh]]                                       | `dunhari`     | `ghavûl-` + `-ekh`  |
-| **Gholvôr**                               | [[affiliation-sultntmrdd\|Gholvôr]]                                  | `dunhari`     | `gholv-` + `-ôr`    |
+| **Ghedvôr**                               | [[affiliation-kngdmmrdd\|Ghedvôr]]                                   | `dunhari`     | `ghedv-` + `-ôr`    |
+| **Ghedvôr of the Host**                   | [[affiliation-kngdmmrdd\|Ghedvôr of the Host]]                       | `translation` | —                   |
+| **Gholvôr**                               | [[affiliation-kngdmmrdd\|Gholvôr]]                                   | `dunhari`     | `gholv-` + `-ôr`    |
 | **Ghuzmôr**                               | [[affiliation-strmcltsbhrms\|Ghuzmôr]]                               | `dunhari`     | `ghuzm-` + `-ôr`    |
-| **Grand Vizier**                          | [[affiliation-sultntmrdd\|Grand Vizier]]                             | `translation` | —                   |
+| **Grand Vashkôr**                         | [[affiliation-kngdmmrdd\|Grand Vashkôr]]                             | `translation` | —                   |
 | **Guide**                                 | [[affiliation-dunhartrbs\|Guide]]                                    | `translation` | —                   |
 | **Gulrânah**                              | [[being-gulrnhgzvn\|Gulrânah]]                                       | `dunhari`     | —                   |
 | **Hamelôr**                               | [[affiliation-strmcltsbhrms\|Hamelôr]]                               | `dunhari`     | `hamel-` + `-ôr`    |
@@ -261,18 +268,20 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Kamruz**                                | [[being-shadzrkmrz\|Kamruz]]                                         | `dunhari`     | —                   |
 | **Keeper of the Feud**                    | [[affiliation-dunhartrbs\|Keeper of the Feud]]                       | `translation` | —                   |
 | **Keeper of the Marked Stones**           | [[affiliation-strmcltsbhrms\|Keeper of the Marked Stones]]           | `translation` | —                   |
-| **Keeper of the Wells**                   | [[affiliation-sultntmrdd\|Keeper of the Wells]]                      | `translation` | —                   |
+| **Keeper of the Wells**                   | [[affiliation-kngdmmrdd\|Keeper of the Wells]]                       | `translation` | —                   |
 | **Kherzûlekh**                            | [[place-kherzulekh\|Kherzûlekh]]                                     | `dunhari`     | `kherzûl-` + `-ekh` |
+| **Kingdom of Amradad**                    | [[affiliation-kngdmmrdd\|Kingdom of Amradad]]                        | `translation` | —                   |
 | **Kinless**                               | [[affiliation-dunhartrbs\|Kinless]]                                  | `translation` | —                   |
 | **Kinsman**                               | [[affiliation-dunhartrbs\|Kinsman]]                                  | `translation` | —                   |
 | **Lawkeeper**                             | [[affiliation-dunhartrbs\|Lawkeeper]]                                | `translation` | —                   |
-| **Master of the Post**                    | [[affiliation-sultntmrdd\|Master of the Post]]                       | `translation` | —                   |
+| **Master of the Post**                    | [[affiliation-kngdmmrdd\|Master of the Post]]                        | `translation` | —                   |
 | **Mazânid**                               | [[being-torvshmznd\|Mazânid]]                                        | `dunhari`     | —                   |
-| **Notable**                               | [[affiliation-sultntmrdd\|Notable]]                                  | `translation` | —                   |
-| **Nûzgôr**                                | [[affiliation-sultntmrdd\|Nûzgôr]]                                   | `dunhari`     | `nûzg-` + `-ôr`     |
+| **Mezhvôr**                               | [[affiliation-kngdmmrdd\|Mezhvôr]]                                   | `dunhari`     | `mezhv-` + `-ôr`    |
+| **Notable**                               | [[affiliation-kngdmmrdd\|Notable]]                                   | `translation` | —                   |
+| **Nûzgôr**                                | [[affiliation-kngdmmrdd\|Nûzgôr]]                                    | `dunhari`     | `nûzg-` + `-ôr`     |
 | **Oasis of Tevrazekh**                    | [[place-oasistvrzkh\|Oasis of Tevrazekh]]                            | `translation` | —                   |
-| **Officer of the Court**                  | [[affiliation-sultntmrdd\|Officer of the Court]]                     | `translation` | —                   |
-| **Outcast**                               | [[affiliation-sultntmrdd\|Outcast]]                                  | `translation` | —                   |
+| **Officer of the Court**                  | [[affiliation-kngdmmrdd\|Officer of the Court]]                      | `translation` | —                   |
+| **Outcast**                               | [[affiliation-kngdmmrdd\|Outcast]]                                   | `translation` | —                   |
 | **Pâresak**                               | [[being-firavdprsk\|Pâresak]]                                        | `dunhari`     | —                   |
 | **Paryan**                                | [[being-prynbrmndn\|Paryan]]                                         | `dunhari`     | —                   |
 | **Pevrôr**                                | [[affiliation-strmcltsbhrms\|Pevrôr]]                                | `dunhari`     | `pevr-` + `-ôr`     |
@@ -286,16 +295,14 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Shâdezar**                              | [[being-shadzrkmrz\|Shâdezar]]                                       | `dunhari`     | —                   |
 | **Shavân**                                | [[being-daryshshvn\|Shavân]]                                         | `dunhari`     | —                   |
 | **Shêbarekh**                             | [[place-shebarekh\|Shêbarekh]]                                       | `dunhari`     | `shêbar-` + `-ekh`  |
+| **Shêbarôr**                              | [[affiliation-kngdmmrdd\|Shêbarôr]]                                  | `dunhari`     | `shêbar-` + `-ôr`   |
 | **Shiradar**                              | [[being-trvshshrdr\|Shiradar]]                                       | `dunhari`     | —                   |
 | **Sorvadekh**                             | [[place-sorvadekh\|Sorvadekh]]                                       | `dunhari`     | `sorvad-` + `-ekh`  |
 | **Speaker of the Council**                | [[affiliation-dunhartrbs\|Speaker of the Council]]                   | `translation` | —                   |
 | **Stone of Ranâz**                        | [[place-stoneofranaz\|Stone of Ranâz]]                               | `translation` | —                   |
 | **Storm Cults of Bahramish**              | [[affiliation-strmcltsbhrms\|Storm Cults of Bahramish]]              | `translation` | —                   |
-| **Subject**                               | [[affiliation-sultntmrdd\|Subject]]                                  | `translation` | —                   |
-| **Sultan**                                | [[affiliation-sultntmrdd\|Sultan]]                                   | `translation` | —                   |
-| **Sultana**                               | [[affiliation-sultntmrdd\|Sultana]]                                  | `translation` | —                   |
-| **Sultanate of Amradad**                  | [[affiliation-sultntmrdd\|Sultanate of Amradad]]                     | `translation` | —                   |
-| **Tâgemôr**                               | [[affiliation-sultntmrdd\|Tâgemôr]]                                  | `dunhari`     | `tâgem-` + `-ôr`    |
+| **Subject**                               | [[affiliation-kngdmmrdd\|Subject]]                                   | `translation` | —                   |
+| **Tâgemôr**                               | [[affiliation-kngdmmrdd\|Tâgemôr]]                                   | `dunhari`     | `tâgem-` + `-ôr`    |
 | **Tahrodan**                              | [[place-tahrodan\|Tahrodan]]                                         | `dunhari`     | —                   |
 | **Tamârân**                               | [[being-fakhrdtmrn\|Tamârân]]                                        | `dunhari`     | —                   |
 | **Tazhinekh**                             | [[place-tazhinekh\|Tazhinekh]]                                       | `dunhari`     | `tazhin-` + `-ekh`  |
@@ -307,14 +314,14 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Torvâsh**                               | [[being-torvshmznd\|Torvâsh]], [[being-trvshshrdr\|Torvâsh]]         | `dunhari`     | —                   |
 | **Truce-Warden**                          | [[affiliation-dunhartrbs\|Truce-Warden]]                             | `translation` | —                   |
 | **Vadukesh**                              | [[affiliation-strmcltsbhrms\|Vadukesh]]                              | `dunhari`     | `vaduk-` + `-esh`   |
-| **Vazhmôr**                               | [[affiliation-sultntmrdd\|Vazhmôr]]                                  | `dunhari`     | `vazhm-` + `-ôr`    |
+| **Vashkôr**                               | [[affiliation-kngdmmrdd\|Vashkôr]]                                   | `dunhari`     | `vashk-` + `-ôr`    |
+| **Vazhmôr**                               | [[affiliation-kngdmmrdd\|Vazhmôr]]                                   | `dunhari`     | `vazhm-` + `-ôr`    |
 | **Venrâd**                                | [[being-venradzrdn\|Venrâd]]                                         | `dunhari`     | —                   |
 | **Venzelekh**                             | [[place-venzelekh\|Venzelekh]]                                       | `dunhari`     | `venzel-` + `-ekh`  |
 | **Vessel**                                | [[affiliation-strmcltsbhrms\|Vessel]]                                | `translation` | —                   |
 | **Vessel of Báhrámiš**                    | [[affiliation-strmcltsbhrms\|Vessel of Báhrámiš]]                    | `translation` | —                   |
-| **Vizier**                                | [[affiliation-sultntmrdd\|Vizier]]                                   | `translation` | —                   |
 | **Water-Warden**                          | [[affiliation-dunhartrbs\|Water-Warden]]                             | `translation` | —                   |
-| **Yorvôr**                                | [[affiliation-sultntmrdd\|Yorvôr]]                                   | `dunhari`     | `yorv-` + `-ôr`     |
+| **Yorvôr**                                | [[affiliation-kngdmmrdd\|Yorvôr]]                                    | `dunhari`     | `yorv-` + `-ôr`     |
 | **Zevrôr**                                | [[affiliation-strmcltsbhrms\|Zevrôr]]                                | `dunhari`     | `zevr-` + `-ôr`     |
 
 ## Retired names
@@ -421,3 +428,11 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `Manânâ`            | `Menûnâ`            | an Earth word, in the name lists                   |
 | `marûn`             | `velmûz`            | an Earth word, in a saying                         |
 | `magûn`             | `zorvûn`            | an Earth word, in a saying                         |
+| `Emir`              | `Ghedvôr`           | an Earth word, a great officer of the court        |
+| `Sultan`            | `Shêbarôr`          | an Earth word, the sovereign of Amradad            |
+| `sultan`            | `shêbarôr`          | an Earth word, the sovereign of Amradad            |
+| `Sultana`           | `Mezhvôr`           | an Earth word, the sovereign's principal wife      |
+| `Sultanate`         | `Kingdom`           | an Earth word, the realm of Amradad                |
+| `sultanate`         | `kingdom`           | an Earth word, the realm of Amradad                |
+| `Vizier`            | `Vashkôr`           | an Earth word, a minister of state                 |
+| `vizier`            | `vashkôr`           | an Earth word, a minister of state                 |

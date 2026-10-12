@@ -30,7 +30,10 @@
  *    every daughter cell recomputes from the ancient form through that
  *    daughter's own `### Sound changes` table, read from the lexicon the
  *    `### Daughters` table names for it, and is a row of that lexicon. A
- *    daughter whose lexicon does not exist is one warning.
+ *    daughter whose `Takes` cell names a case starts from the ancient form in
+ *    that case, by the ending tables; a daughter whose `Through` cell names
+ *    another daughter starts from that daughter's reflex. A daughter whose
+ *    lexicon does not exist is one warning.
  *
  * Findings are written `file:line:column: severity: message`.
  *
@@ -131,6 +134,44 @@ export function endingTables(lex) {
         out.set(plain(match[1]).trim(), cases);
     }
     return out;
+}
+
+/** The ending table each word class of the lexicon declines by. */
+export const CLASS_TABLES = {
+    "n I f": "i",
+    "n I m": "i",
+    "n II m": "ii masculine",
+    "n II f": "ii masculine",
+    "n II n": "ii neuter",
+    "n III m": "iii",
+    "n III f": "iii",
+    "n III n": "iii neuter",
+    "n IV m": "iv",
+    "n V f": "v",
+    "n hal": "hallowed",
+    adj: "ii masculine",
+    "adj III": "iii",
+};
+
+/**
+ * An ancient form in another case of the singular: the nominative ending taken
+ * off and the case's ending put on, by the ending table of the word's class. A
+ * word of a class that does not decline, or a form that does not end on its
+ * class's nominative, is returned as it is.
+ *
+ * @param {string} ancient - The ancient nominative.
+ * @param {string} cls - The lexicon class, such as `n I f`.
+ * @param {string} kase - The case, such as `accusative`.
+ * @param {ReturnType<typeof endingTables>} endings
+ */
+export function caseForm(ancient, cls, kase, endings) {
+    const table = endings.get(CLASS_TABLES[cls] ?? "");
+    const nominative = table?.get("nominative")?.singular;
+    const wanted = table?.get(kase)?.singular;
+    if (nominative === undefined || wanted === undefined || wanted === null) return ancient;
+    const form = plain(ancient);
+    if (!form.endsWith(nominative)) return ancient;
+    return form.slice(0, form.length - nominative.length) + wanted;
 }
 
 /**
@@ -249,10 +290,19 @@ export function vylariChecks({ rule, lex, note, load, lexFinding }) {
     const daughtersSection = section(lex, "### Daughters");
     const daughters = new Map();
     if (daughtersSection)
-        for (const { cells } of rows(daughtersSection.body)) {
+        for (const { cells, named } of rows(daughtersSection.body)) {
             const [address] = ticked(cells[1]);
+            const takes = plain(named.takes ?? "").match(
+                /nominative|vocative|accusative|genitive|dative|ablative|locative/,
+            )?.[0];
+            const through = plain(named.through ?? "").trim();
             if (cells[0] && address)
-                daughters.set(plain(cells[0]).trim(), { address, label: cells[0].trim() });
+                daughters.set(plain(cells[0]).trim(), {
+                    address,
+                    label: cells[0].trim(),
+                    takes: takes ?? "nominative",
+                    through: through && through !== "—" ? through : null,
+                });
         }
     const shared = section(lex, "## Shared roots");
     if (!shared)
@@ -294,26 +344,40 @@ export function vylariChecks({ rule, lex, note, load, lexFinding }) {
                     "error",
                     `the shared root \`*${ancientForm}\` gives the imperial form "${imperial}", and the lexicon row gives "${word.form}"`,
                 );
+            /** The reflex of the row in a daughter, through any sister it comes by; null when unreadable. */
+            const reflexIn = (key) => {
+                const { address, label: daughter, takes, through } = daughters.get(key);
+                const other = load(address);
+                if (!other) {
+                    missing.add(`${daughter} (${address})`);
+                    return null;
+                }
+                const steps = other.rule.changes.get("### Sound changes");
+                if (!steps) {
+                    missing.add(`${daughter} (${address}, which has no "### Sound changes" table)`);
+                    return null;
+                }
+                if (through && daughters.has(through)) {
+                    const sister = reflexIn(through);
+                    const by = load(daughters.get(through).address);
+                    if (sister === null || !by) return null;
+                    return derive(sister, steps, {
+                        stress: by.rule.stress,
+                        digraphs: [...by.rule.consonants.keys()].filter((c) => c.length > 1),
+                        diphthongs: [...by.rule.diphthongs],
+                    }).form;
+                }
+                const start = caseForm(ancientForm, word.cls, takes, endings);
+                return derive(start, steps, { stress: rule.stress, digraphs, diphthongs }).form;
+            };
             for (const [key, { address, label: daughter }] of daughters) {
                 const cell = row.named[key];
                 if (cell === undefined) continue;
                 const [written] = ticked(cell);
                 if (!written || cell.trim() === "—") continue;
                 const other = load(address);
-                if (!other) {
-                    missing.add(`${daughter} (${address})`);
-                    continue;
-                }
-                const steps = other.rule.changes.get("### Sound changes");
-                if (!steps) {
-                    missing.add(`${daughter} (${address}, which has no "### Sound changes" table)`);
-                    continue;
-                }
-                const { form } = derive(ancientForm, steps, {
-                    stress: rule.stress,
-                    digraphs,
-                    diphthongs,
-                });
+                const form = reflexIn(key);
+                if (form === null) continue;
                 const how = compareForms(written.replace(/-$/, ""), form.replace(/-$/, ""));
                 if (how === "letters")
                     lexFinding(

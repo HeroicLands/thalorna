@@ -240,7 +240,9 @@ export const RETIRED = [
         scope: "corpus",
     },
     { retired: ["Mōbadān-Shōfár"], replacement: "Tōqēl", scope: "corpus" },
-    { retired: ["Shōfet"], replacement: "Dūkhen", scope: "corpus" },
+    { retired: ["Shōfet", "Dūkhen"], replacement: "Zhūdek", scope: "corpus" },
+    { retired: ["Gurdi"], replacement: "Vurdil", scope: "corpus" },
+    { retired: ["garen"], replacement: "relvan", scope: "corpus" },
     { retired: ["nasi"], replacement: "Rēzhul", scope: "corpus" },
     {
         retired: ["Khazryn Confederation", "Khazryn confederation"],

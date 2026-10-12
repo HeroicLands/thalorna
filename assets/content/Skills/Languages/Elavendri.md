@@ -27,6 +27,8 @@ sohl:
 
 The language is marked by a preference for alliteration, assonance, and poetic phrasing even in everyday speech. A simple greeting in Élavendri carries overtones of blessing and ritual. The language's connection to music is profound—many Élavendri linguistic features are better understood through melody than grammar.
 
+The [[doc-elvndrlexcn|Élavendri Lexicon]] gives the words with their sources, each traced to its Áelendi or imperial original, and the changes that made them.
+
 ## Phonology
 
 Élavendri employs one of the richest vowel systems of any Pelwar language, with extensive use of diphthongs and subtle vocalic gradations. Consonants are relatively soft, with the language favoring liquids and sonorants over hard stops:

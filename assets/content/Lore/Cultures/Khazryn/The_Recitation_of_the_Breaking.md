@@ -21,7 +21,7 @@ data:
   language: khazrilng
 ---
 
-**The Recitation of the Breaking**, _Turemsemhal_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of Turem, the war in which the [[affiliation-tribestrzd|Ātárzád]] took four of their seven cities. It is a _semhal_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Mōbad on the first day of the five-day festival, and at every formal ceremonial of the exile courts at Amradad, and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.
+**The Recitation of the Breaking**, _Turemsemhal_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of Turem, the war in which the [[affiliation-tribestrzd|Ātárzád]] took four of their seven cities. It is a _semhal_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Shēkhulsīghot on the first day of the five-day festival, and at every formal ceremonial of the exile courts at Amradad, and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.
 
 The rendering below is the text as the House of [[place-zargandur|Zargandûr]] in exile recites it, which gives the second year its full weight because the war-house died in it; the other houses lengthen their own years and shorten this one. It names seven riders of the war-house, **Kirelul**, **Budilul**, **Pedunul**, **Garvanul**, **Perimul**, **Hagelul** and **Lirunul**, as the house's tablet names them, and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. The Ātárzád tell the same twelve years as the War of the Twelve Years and the keeping of a Promise, and their account is set out in their own note; this one reports their claim in order to refuse it, which is what a case does. The field outside Zargandûr's north wall, [[place-henhulpedin|Henhulpedin]], is where the recitation ends, and what it says of the lamps in the Tellumi quarter is the recitation's own account of a custom the quarter explains to nobody.
 
@@ -88,23 +88,23 @@ Budilul, who carried the house's banner, and did not drop it; the staff was foun
 standing in the trench with the cloth rotted off it, and he beneath.
 Pedunul, the drill-master, who taught the house its strokes, and died with his teeth
 set, the tablet says, which is the only word it gives on how any of them died.
-Garvanul, who bred the gray mares the Bāhrām ride today, and rode one.
+Garvanul, who bred the gray mares the Zhōqarōd ride today, and rode one.
 Perimul, who kept the gate-fires, and was the youngest, and was somebody's son.
 Hagelul, who held the right, and was found with the princes, and had held.
 Lirunul, who was a freed man of the house, and need not have ridden, and was felled
 beside Hagelul, and the tablet says of him only: he was free, and he went.
 And the princes, whose names the tablet holds and this recitation does not. They are lent
-to the tablet until a Mōbad stands on the north grass and reads them where they lie.
+to the tablet until a Shēkhulsīghot stands on the north grass and reads them where they lie.
 That is the second year. It is not finished. The house stands for it. Eyes dry.
 
 The Ātárzád gave their own dead to the flame that night. That is their rite, and they kept it.
-Our dead were left on the pasture. No Mōbad was let beyond the wall. He had not slept,
-the quarter's Mōbad; he stood at the north gate with the house's tablet in his hands
+Our dead were left on the pasture. No Shēkhulsīghot was let beyond the wall. He had not slept,
+the quarter's Shēkhulsīghot; he stood at the north gate with the house's tablet in his hands
 and asked to go out and read the names, as the rite is, as every Tellumi understands
 the rite to be: the name read from the clay, the lamps lit, and then the dead are received.
 He asked. The gate was theirs. The worship of the Keeper was already forbidden. He believed
 they would let him, because he was a priest. They did not let him. The lamps were not lit.
-Three days the war-house lay on the north grass. On the third day the Bāhrām dug a pit
+Three days the war-house lay on the north grass. On the third day the Zhōqarōd dug a pit
 and drove the bodies into it with their horses, and filled it, and the grass on the trench
 is shorter than the grass on either side, and has been since, and the tablet gives the length.
 The names were not read. The lamps were not lit. That is the second finding.
@@ -113,7 +113,7 @@ in another court than theirs or ours. A man whose name is not read is not receiv
 The war-house is not received. A hundred years ago that would have been believed
 by no one in the belt, that a Tellumi house could lie unread outside its own wall.
 It lies there now. Hooves go over it every night at the hour the sortie rode. That is all
-the tablet says about the field, and the quarter says the rest, and the Bāhrām keep no picket there when the light has gone.
+the tablet says about the field, and the quarter says the rest, and the Zhōqarōd keep no picket there when the light has gone.
 And this is why there is a lamp at every door in the Tellumi quarter from dusk to dawn:
 they are the lamps that were not lit that night. We light them every night instead.
 We have lit them for ninety years. The quarter does not explain it. The recitation does. Go ahead,
@@ -123,14 +123,14 @@ That is the second year. The war went on for ten more. The other houses will tel
 The fifth year, Ashkarad, of the workshops. The tablet of Ashkarad gives the gate
 and the hour, and the name of the man who opened it, which the House of Ashkarad does not state
 in the recitation, because his line is still in the city and makes good tools.
-Ashkarad fell by treachery and not by horse, and the Ardashír hold it, and the rules
+Ashkarad fell by treachery and not by horse, and the Tēghumōd hold it, and the rules
 of the workshops stand, and the craft councils sit, and the tribe buys what is made,
 and the water-tunnels are family property shaft by shaft, and the tax is paid.
 The eighth year, Kethramír, of the priests. The tablet of Kethramír gives the count
-of the Mōbads killed in the yards, who would not flee, and it is a large amount,
+of the Shēkhulsīghots killed in the yards, who would not flee, and it is a large amount,
 and the recitation gives the number when the House of Kethramír recites it, and we do not,
-because it is theirs to give. The Zarvān hold the city and rule it like scholars, by rote
-and precedent, and the quarter has its Mōbad and its courts, and the magistrate reads the clay
+because it is theirs to give. The Tōzhirōd hold the city and rule it like scholars, by rote
+and precedent, and the quarter has its Shēkhulsīghot and its courts, and the magistrate reads the clay
 and sometimes agrees with it. That is the eighth year. The ninth and tenth we do not say;
 the tablets of those years are the siege of Shirvan, and the siege is a long account
 of water, and who held the basin, and who held the cliff, and the amount

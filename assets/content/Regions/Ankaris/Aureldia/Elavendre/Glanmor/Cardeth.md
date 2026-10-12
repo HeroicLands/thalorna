@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [glanmor], packFolder: elavendre}
 
 ## Overview
 
-Cárdeth is a noble seat in [[place-glanmor|Glanmor]], within reach of the forest town of [[place-liranel|Liranel]], and it is held by **Lady Eadrun of Cárdeth**, a young noblewoman with Áelendan ancestry. Cárdeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-silvain|Silvain]].
+Cárdeth is a noble seat in [[place-glanmor|Glanmor]], within reach of the forest town of [[place-liranel|Liranel]], and it is held by **Lady Eadrun of Cárdeth**, a young noblewoman with Áelendan ancestry. Cárdeth is an Élavendri name, and it is also borne as a family name by Élavendri households as far apart as [[place-portaelion|Port Aelion]] and [[place-sourimael|Sóurimael]].
 
 ## The Lady and Her Physician
 

@@ -68,7 +68,7 @@ data:
   parents: []
   relations:
     ashanpnthn: aligned
-    sultntmrdd: unaligned
+    kngdmmrdd: unaligned
     bhumipala: rival
     cnfdrtntrzlnstts: unaligned
   packFolder: dunharadesert
@@ -95,7 +95,7 @@ Two bodies stand beside the council and answer to none of the sheikhs. The [[aff
 
 ## Relations
 
-The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith and are bound to it in every rite. Toward the [[affiliation-sultntmrdd|Sultanate of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Tarûzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhūmipāla]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
+The tribes keep the [[affiliation-ashanpnthn|Āsháian]] faith and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Tarûzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhūmipāla]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
 
 ## Trade and Routes
 
@@ -113,7 +113,7 @@ The tribes trade almost entirely by [[lore-bartercnmy|barter]] and by [[lore-kin
 - [[lore-dunhariclt|Dunhari]]—the people and their customs
 - [[affiliation-wrrscrcldnhrtrbs|Warrior's Circle]]—the warriors' gathering at the Stone of Ranâz
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers of the camps
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the settled Dunhari realm
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the settled Dunhari realm
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the western trade terminus
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the northern neighbor
 - [[place-vedyarargn|Vedyara Region]]—the eastern trade terminus, reached round the wall's end

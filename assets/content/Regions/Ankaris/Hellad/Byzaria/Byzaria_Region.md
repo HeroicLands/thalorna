@@ -36,7 +36,7 @@ Between the great cities lie the lesser towns: [[place-byzaris|Byzaris]], the ar
 
 The five cities govern themselves and their hinterlands. The League as a body governs only three districts directly, and they are the ones nobody else wants: the border country. Each is a march—a frontier district outside any city's charter, held by a lord commissioned by the League council and answerable to it, garrisoned by the joint army the cities raise by conscription, and paid for from the common treasury and the silver of Argýrteíkhos.
 
-- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argýrteíkhos, facing the Khazryn steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
+- The [[place-eastrnmrch|Eastern March]] lies beyond and around the passes of Argýrteíkhos, facing the Khazryn steppe and, to the south-east, the oasis-belt and the northern edge of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the League's shield, and its Lord Commander is the senior soldier of the League.
 - The [[place-southrnmrch|Southern March]] is the dry pastoral upland south and east of Karvashion, through which the caravan road runs to [[place-dunharargn|Dunhara]]. It is hunting and herding country, held by a landed lord rather than a soldier.
 - The [[place-northrnmrch|Northern March]] is the upland frontier toward Velanthia, along which the grain that feeds the coastal cities comes down. It is the quietest of the three and the one the council thinks about least.
 
@@ -84,7 +84,7 @@ To the north, across the uplands of the Northern March, lies [[place-velanthrgn|
 
 To the east, beyond Argýrteíkhos's passes, lies the [[place-khzryndsrtrgn|Khazryn Desert]]—the **Celestial Road** and the steppe tribes that tax it. Byzarian merchants dominate the western end of that trade, and the Eastern March exists to keep the road open.
 
-To the south, along the whole of the League's southern border, lies the Sultanate of Amradad, which holds the eastern shore of the Vylarian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]], the League's great rival at sea.
+To the south, along the whole of the League's southern border, lies the Kingdom of Amradad, which holds the eastern shore of the Vylarian Sea, and beyond it the caravan country of [[place-dunharargn|Dunhara]], reached by the road through the Southern March. Off the League's short coast to the south lie the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]], the League's great rival at sea.
 
 Across the sea beyond the Tarûzelian islands lie the coasts of [[place-xerathia|Xerathia]], with which Nêsthiros's captains have traded for a thousand years; the League's coast and the sea it faces belong to [[place-midhalnrgn|Mídhalión]].
 
@@ -99,6 +99,6 @@ Across the sea beyond the Tarûzelian islands lie the coasts of [[place-xerathia
 - [[place-helionis|Heliónis]]—western neighbor
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern neighbor
 - [[place-velanthrgn|Velanthia Region]]—northern neighbor
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—southern neighbor
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—southern neighbor
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the islands off its coast
 - [[place-dunharargn|Dunhara Region]]—the caravan country beyond Amradad

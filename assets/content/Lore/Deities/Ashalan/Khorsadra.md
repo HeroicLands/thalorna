@@ -8,4 +8,4 @@ tags: [draft]
 data: {packFolder: deitiesashalan}
 ---
 
-Khóršádrä, the Bearer of Eternal Light, is the deity of knowledge, wisdom and truth in the [[affiliation-ashanpnthn|Āsháian Pantheon]], the truth on which the desert faith is built. The symbol is a golden sunburst with radiant beams. Worship is kept in the [[affiliation-korsadra|Faith of Khóršádrä]]. Every sacred site of the Āsháian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ātáröš, and served by the same priesthood of Āthravān, Hērbad and Mōbad.
+Khóršádrä, the Bearer of Eternal Light, is the deity of knowledge, wisdom and truth in the [[affiliation-ashanpnthn|Āsháian Pantheon]], the truth on which the desert faith is built. The symbol is a golden sunburst with radiant beams. Worship is kept in the [[affiliation-korsadra|Faith of Khóršádrä]]. Every sacred site of the Āsháian faith is a fire-temple, so this deity is worshipped at an altar beside the one kept to Ātáröš, and served by the same priesthood of Rōqeshekh, Dēlkoshekh and Shēkhulsīghot.

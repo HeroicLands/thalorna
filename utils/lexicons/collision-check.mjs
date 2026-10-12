@@ -41,8 +41,9 @@
  * with its opening hyphen (`-ândis`) is bound and never stands as a word, so it
  * is skipped at any length; the words built with it are compared. A skeleton is
  * exempt from the length floor because its radicals are the letters. A table
- * whose first header cell is `Class` or `Tongue` lists a lexicon's labels for
- * word classes and name tongues, not words, and is skipped. A table whose first
+ * whose first header cell is `Class`, `Tongue` or `Source` lists a lexicon's
+ * labels for word classes, name tongues and word sources, not words, and is
+ * skipped. A table whose first
  * header cell is `element`, `closing` or `ground-closing` lists the pieces a
  * tongue builds its names from, and is skipped too: a name stands even where a
  * real language has the same form, so only a tongue's words are held to the
@@ -116,9 +117,17 @@ const RADICAL = "(?:th|kh|gh|sh|zh|dh|ch|ph|\\p{L})";
 const SKELETON_SHAPE = new RegExp(`^${RADICAL}(?:-${RADICAL}){2}$`, "iu");
 /**
  * First header cells of tables that hold no words to compare: a lexicon's labels
- * for word classes and name tongues, and the pieces its names are built from.
+ * for word classes, name tongues and word sources, and the pieces its names are
+ * built from.
  */
-const LABEL_HEADERS = new Set(["class", "tongue", "element", "closing", "ground-closing"]);
+const LABEL_HEADERS = new Set([
+    "class",
+    "tongue",
+    "source",
+    "element",
+    "closing",
+    "ground-closing",
+]);
 
 /**
  * Forms in the first column of every markdown table row of a note.

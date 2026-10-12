@@ -46,7 +46,7 @@ But we stood a long while in those ways and said nothing,
   and among us there is no higher praise than that.
 ```
 
-Whether the [[place-silvain|Silvain]] villagers a half-day west understand what they live beside is a
+Whether the [[place-sourimael|Sóurimael]] villagers a half-day west understand what they live beside is a
 matter on which the Sinalë have never been asked and the Áelendan decline to speculate.
 
 ## See Also

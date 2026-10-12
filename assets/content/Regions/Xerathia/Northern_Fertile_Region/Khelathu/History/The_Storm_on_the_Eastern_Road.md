@@ -34,7 +34,7 @@ data:
             how: a commander crowns himself in the capital and is gone within the year
             knowledge: named
           - place: place-amradadrgn
-            how: the host's march ends under the Sultanate's walls, and its breakup follows over the winter
+            how: the host's march ends under the Kingdom's walls, and its breakup follows over the winter
             knowledge: named
       who:
         - {ref: affiliation-empireakhlth, role: victim}

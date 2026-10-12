@@ -1,80 +1,81 @@
 ---
-shortcode: sharnthmdn
-name: {full: Shárîna Thâmîdon, aliases: []}
+shortcode: ghgnrsmkthn
+name: {full: Ghígnaros Mâkîthôn, aliases: []}
 type: being
 subType: npc
-tags: [draft, common-folk]
+tags: [draft, administration]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [commoner]
-  occupation: Miner
+  archetypes: [courtier]
+  occupation: Herald
   lore: []
   culture: helioniteclt
-  homes: [athenikos2]
-  affiliations: {athenikos: {rank: 4}, sacredforge: {rank: 1}}
-  gender: female
+  homes: [thyrenae2]
+  affiliations: {thyrenae: {rank: 4}, ardavon: {rank: 1}}
+  gender: male
   species: humanflk
-  born: 696.39
-  height: 6' 1"
-  weight: 172 lbs
+  born: 670.313
+  height: 5' 10"
+  weight: 168 lbs
   frame: medium
   appearance:
-    eye_color: hazel
-    hair_color: dark_brown
-    skin_color: tawny
-    complexion: null
-    extra_features: []
+    eye_color: blue
+    hair_color: white
+    skin_color: fair
+    complexion: sun_kissed
+    extra_features: [a scar on the left foot]
   packFolder: helladhelionis
 sohl:
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 13}}
     - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 15}}
-    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-cml, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
-    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-attribute-aur, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 17}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-mrcn, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}
-    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 10}}
-    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-skill-mnrl, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 52}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 16}}
-    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 15}}
-    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 39}}
-    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
-    - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 32}}
-    - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 14}}
-    - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 42}}
+    - {model: skill-helnkscrpt, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 60}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-timb, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 44}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-masn, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-common, system: {masteryLevelBase: 60}}
+    - {model: skill-helonclng, system: {masteryLevelBase: 45}}
   system:
     body:
       structure:
@@ -394,52 +395,54 @@ sohl:
 
 # Appearance {#appearance}
 
-Shárîna Thâmîdon is a 28-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
+Ghígnaros Mâkîthôn is a 50-year-old man who stands 5'10" tall and is of moderate build. He has an oval face with high cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. His piercing blue eyes sit beneath prominent brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has fair skin with a bronzed complexion. His white hair is combed neatly to one side.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Shárîna Thâmîdon came into the world of the miner through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Ghígnaros Mâkîthôn came into the world of the herald through a combination of circumstance and aptitude.
 
-Shárîna has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Shárîna has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
+Ghígnaros is a seasoned herald with over thirty years of service. As a member of minor nobility, he carries the weight of his family's long-standing tradition of serving the court. He is known for his authoritative presence and ability to capture the attention of even the most unruly crowds. While he adheres to the traditional styles of heraldry, he understands the need for subtle adaptation when dealing with different audiences. His experience makes him a trusted figure among the nobility, though he is not without his detractors.
+
+Now at 50 years of age, Ghígnaros Mâkîthôn has established himself as a known figure among the heralds of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
 ### Personality
 
-Can be underestimated due to her gender, sometimes takes on too much responsibility.
+Can be dismissive of younger heralds, struggles with adapting to informal events.
 
 ### Motivation
 
-Shárîna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in miner work keep her vigilant and adaptable.
+Ghígnaros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
 
 ### Strengths
 
-Skilled at extraction techniques, agile, strong leadership qualities.
+Authoritative, experienced, respected for his deep understanding of heraldic traditions.
 
 ## Social
 
-Shárîna is affiliated with Local Miners' Union.
+Ghígnaros is affiliated with City Heralds' Guild.
 
-As a Helionite miner, Shárîna occupies a recognized social niche within Heliónis society.
+As a Helionite herald, Ghígnaros occupies a recognized social niche within Heliónis society.
 
 ## Companions
 
 ### Patrons
 
-Shárîna's primary patron is Local mining companies and jewelers seeking quality stones.. This relationship provides both opportunity and obligation.
+Ghígnaros's primary patron is High-ranking nobles who respect his long service and authority.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
-Few; respected but occasionally faces skepticism from traditionalists.
+Ambitious young heralds who see him as a barrier to their own advancement.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma**—Shárîna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
+1. **The Herald's Dilemma**—Ghígnaros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 
-2. **Old Grudges**—Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges**—Ambitious young heralds who see him as a barrier to their own advancement. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past**—Something from Shárîna's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
+3. **Echoes of the Past**—Something from Ghígnaros's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Shárîna depends upon. She must decide whether to adapt, resist, or flee.
+4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Ghígnaros depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity**—A chance encounter offers Shárîna the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.
+5. **The Opportunity**—A chance encounter offers Ghígnaros the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

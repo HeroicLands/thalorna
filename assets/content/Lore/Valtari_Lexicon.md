@@ -169,7 +169,7 @@ Valtári has no spelling of its own, and these pages write it in plain letters. 
 
 ### Asking, time and number
 
-The question words share the opening _se-_ of _sezo_, what: _sezobe_ is where, the what-place. A Tarûzeli speaker says not with _zu_ and a Helonic speaker with _ufi_, each keeping the negative of his own tongue, and every docker understands both. The numbers past five are counted on: six is _fomul yezu_, five-one, and nine is _fomul nozu_.
+The question words share the opening _se-_ of _sezo_, what: _sezobe_ is where, the what-place. A Tarûzeli speaker says not with _zu_ and a Helonic speaker with _ufi_, each keeping the negative of his own tongue, and every docker understands both. The numbers past five are counted on: six is _fomul yezu_, five-one, and nine is _fomul vubu_.
 
 | Form     | Class  | Gloss                                           | Built from | Attested                     |
 | -------- | ------ | ----------------------------------------------- | ---------- | ---------------------------- |
@@ -187,7 +187,7 @@ The question words share the opening _se-_ of _sezo_, what: _sezobe_ is where, t
 | `yezu`   | `num`  | one; Tarûzeli _yez_                             | —          | [[skill-valtarlng\|Valtári]] |
 | `lelor`  | `num`  | two; Tarûzeli _lel_                             | —          | [[skill-valtarlng\|Valtári]] |
 | `zemu`   | `num`  | three; Tarûzeli _zem_                           | —          | [[skill-valtarlng\|Valtári]] |
-| `nozu`   | `num`  | four; Tarûzeli _noz_                            | —          | [[skill-valtarlng\|Valtári]] |
+| `vubu`   | `num`  | four; Tarûzeli _vûb_                            | —          | [[skill-valtarlng\|Valtári]] |
 | `fomul`  | `num`  | five; Tarûzeli _fom_                            | —          | [[skill-valtarlng\|Valtári]] |
 | `zekoru` | `num`  | ten; Helonic _zékhor_                           | —          | [[skill-valtarlng\|Valtári]] |
 
@@ -275,12 +275,12 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `wâhid`    | `yezu`          | an Earth word, one                                            |
 | `thâni`    | `lelor`         | an Earth word, two                                            |
 | `thlâth`   | `zemu`          | an Earth word, three                                          |
-| `arbâ`     | `nozu`          | an Earth word, four                                           |
+| `arbâ`     | `vubu`          | an Earth word, four                                           |
 | `khâms`    | `fomul`         | an Earth word, five                                           |
 | `sîtta`    | `fomul yezu`    | an Earth word, six                                            |
 | `sâbi`     | `fomul lelor`   | an Earth word, seven                                          |
 | `thamân`   | `fomul zemu`    | an Earth word, eight                                          |
-| `tîsa`     | `fomul nozu`    | an Earth word, nine                                           |
+| `tîsa`     | `fomul vubu`    | an Earth word, nine                                           |
 | `âshar`    | `zekoru`        | an Earth word, ten                                            |
 | `Âhad`     | —               | an Earth name, in the name lists                              |
 | `Âida`     | —               | an Earth name, in the name lists                              |

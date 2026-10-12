@@ -24,13 +24,13 @@ The foothills above the city are cut by dry watercourses that carry snowmelt for
 
 ## Trade and Life
 
-Mehrnāgord lives on the road and on salt. The salt pans lie on a dry lake-bed three hours west of the walls, and from them comes the white and the grey salt that is sold across the Descent into Vedyara's northwestern marches and west as far as the Dunhari oases. Caravans from the west reach Mehrnāgord without a guide, for the Descent is the one stretch of the range that needs none, and they leave with salt, dates, palm-sugar and the hard cheese of the oasis herds. The remainder of the economy is the traditional oasis life: gardens, groves, date wine for the Sultanate's merchants, and the spare cash of caravans resting between the sand and the sea.
+Mehrnāgord lives on the road and on salt. The salt pans lie on a dry lake-bed three hours west of the walls, and from them comes the white and the grey salt that is sold across the Descent into Vedyara's northwestern marches and west as far as the Dunhari oases. Caravans from the west reach Mehrnāgord without a guide, for the Descent is the one stretch of the range that needs none, and they leave with salt, dates, palm-sugar and the hard cheese of the oasis herds. The remainder of the economy is the traditional oasis life: gardens, groves, date wine for the Kingdom's merchants, and the spare cash of caravans resting between the sand and the sea.
 
 The city is plain and old. Its walls stand on the foundations of the original city, rebuilt by every generation since, and the courtyard houses inside are of the same adobe and palm-beam as the first Tellumi built. A family counts its grandfathers' wells and its great-grandfathers' graves.
 
 ## The House and the Ātárzád
 
-The ruling prince, **Pārván of Mehrnāgord**, is in his sixties, cautious, and inclined to accommodation with the Sultanate of Amradad and, warily, with the Ātárzád who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The Mihrān, the Ātárzád tribe of the western belt, sit at the gates of Shirvan a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Sultanate, and its salt reaches markets the Ātárzád cannot.
+The ruling prince, **Pārván of Mehrnāgord**, is in his sixties, cautious, and inclined to accommodation with the Kingdom of Amradad and, warily, with the Ātárzád who hold the four lost cities. His household guard of about a hundred men is the largest of the three free houses', and it is no army. The Tēqemōd, the Ātárzád tribe of the western belt, sit at the gates of Shirvan a few days east and could take the city in a season. They do not, because they find a free Tellumi city more useful than a conquered one: its prince is a channel to the Kingdom, and its salt reaches markets the Ātárzád cannot.
 
 Ātárzád merchants have sounded Pārván out about a trade compact. The exile houses regard the idea as treason, and the oasis is full of people who say so loudly, and as many who do not.
 

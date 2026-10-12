@@ -71,7 +71,7 @@ The tribes are hostile to outsiders as a rule and sell exceptions to the rule. A
 
 At the foot of the mountains, in the strip where the snowmelt reaches, lives a civilization older than any tribe's memory and unlike them in everything. The Tellumi came down out of the Grazian Mountains by the Western Descent, founded seven walled cities at the great springs, and kept two thousand years of records on baked clay. They worship the full pantheon of the [[affiliation-ashanpnthn|Āsháian Pantheon]], and three generations ago the [[affiliation-tribestrzd|Ātárzád]], twelve tribes with a single god, took four of their greatest cities. See [[place-swoasisbelt|Tellumel]], the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] and the [[affiliation-tribestrzd|Tribes of Ātárzád]] for the full account.
 
-Outsiders who hear "the Khazryn" often picture this corner. It holds most of the region's people, and it has almost nothing to do with the tribes of the waste, who regard it as foreign and raid its outer gardens when they dare. The nomads camped two days' ride to the north are less like the Tellumi than the Sultanate of Amradad is.
+Outsiders who hear "the Khazryn" often picture this corner. It holds most of the region's people, and it has almost nothing to do with the tribes of the waste, who regard it as foreign and raid its outer gardens when they dare. The nomads camped two days' ride to the north are less like the Tellumi than the Kingdom of Amradad is.
 
 ## Ruins and Dangers
 
@@ -97,9 +97,9 @@ The desert itself is charged. Particular mesas, springs and old shrines are holy
 
 No one rules the Khazryn. Power sits with the individual tribes, each answering only to its own dowek; with the Tellumi houses and the Ātárzád in the Tellumel, quarreling over four conquered cities; with the hunting bands of Gwatekor, who answer to nobody; and with a handful of oases on the road, whose masters grow rich on caravans.
 
-Foreign powers have given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height held a handful of fortified outposts on the western margin, and their ruins are still watered, for a fee, by the tribes that camp there. [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes. The Sultanate of Amradad keeps formal relations with the Tellumel and avoids any adventure further north.
+Foreign powers have given up trying to rule the desert. The [[affiliation-vylarinmpr|Vylarian Empire]] at its height held a handful of fortified outposts on the western margin, and their ruins are still watered, for a fee, by the tribes that camp there. [[affiliation-tanvurempr|Tānvür]] keeps permanent garrisons on its western passes. The Kingdom of Amradad keeps formal relations with the Tellumel and avoids any adventure further north.
 
-The Storm of the Hundred Banners took the one road a host can take. It went round the Grazian wall by the Western Descent, overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern marches, and turned west across the Dunhara to the walls of the Sultanate before it broke on the death of its founding orqwen. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The Tellumel was largely spared, because the storm-chief respected the Sultanate's missions to its cities.
+The Storm of the Hundred Banners took the one road a host can take. It went round the Grazian wall by the Western Descent, overran the whole of [[place-vedyarargn|Vedyara]]'s northwestern marches, and turned west across the Dunhara to the walls of the Kingdom before it broke on the death of its founding orqwen. No pass was forced and none could have been: a crossing that carries three caravans in a good season carries no host. The Tellumel was largely spared, because the storm-chief respected the Kingdom's missions to its cities.
 
 ## Trade
 
@@ -111,7 +111,7 @@ The tribes do little long-distance trading of their own. They are the road, and 
 
 To the **west** lies [[place-velanthrgn|Velanthia]], the forest-steppe and grain belt between the Nordlands forests and the open grass. Velanthian grain goes east, Khazryn horses and furs come west, and tribal raiders test Velanthia's frontier defenses and its [[place-eastrnmrch|Eastern March]] neighbors with limited success.
 
-To the **southwest** lies the [[affiliation-sultntmrdd|Sultanate of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Āsháian pantheon and many customs.
+To the **southwest** lies the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in the broader [[place-dunharargn|Dunhara]]. It is the principal outside power with which the Tellumel keeps sustained relations, and the home of the Tellumi houses in exile. The rest of Dunhara wraps round the Tellumel's western end, and the two share the Āsháian pantheon and many customs.
 
 To the **south** stands the Grazian wall and, below it, Vedyara. The frontier is the highest in the world and the least used: a handful of passes, open a few weeks in late summer, held at their throats by Vedyari powers and crossed under hereditary guides. The trade is small in volume and enormous in value, and the Tellumel lives partly on it.
 

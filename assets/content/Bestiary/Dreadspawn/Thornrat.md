@@ -248,7 +248,7 @@ The caravanserai's dung-yard is a reeking slope of straw, camel dung and refuse 
 
 # Dossier {#dossier}
 
-The Thornrat is a small dreadspawn in the shape of a mangy, quilled rat, eight to twelve inches high and about twenty-five pounds, which lives in colonies in filth and decay, shoots venomous barbed spines, bites with venomous teeth, and carries disease into every wound. Alone it is a nuisance; a colony is a plague. A colony of them infests the lower quarter of [[place-tahrodan|Tahrodan]], the fortress city of the caravan road and the largest city of the Sultanate of Amradad, where every caravan from the desert interior passes on its way to the coast. Like every dreadspawn they were made, and they cannot breed. The colony came all at once and has not grown; it only spreads.
+The Thornrat is a small dreadspawn in the shape of a mangy, quilled rat, eight to twelve inches high and about twenty-five pounds, which lives in colonies in filth and decay, shoots venomous barbed spines, bites with venomous teeth, and carries disease into every wound. Alone it is a nuisance; a colony is a plague. A colony of them infests the lower quarter of [[place-tahrodan|Tahrodan]], the fortress city of the caravan road and the largest city of the Kingdom of Amradad, where every caravan from the desert interior passes on its way to the coast. Like every dreadspawn they were made, and they cannot breed. The colony came all at once and has not grown; it only spreads.
 
 ## Presentation
 

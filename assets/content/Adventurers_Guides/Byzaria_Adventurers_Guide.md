@@ -50,7 +50,7 @@ The League governs only three districts directly, and they are the ones nobody e
 
 The [[place-eastrnmrch|Eastern March]] runs downhill from Argýrteíkhos's eastern gate into the steppe margin of the [[place-khzryndsrtrgn|Khazryn]]. Way-forts stand a day's march apart on the paved pass road, and every spring in the foothills has a fort, a shrine or a caravanserai built on it. **Lord Commander Vasilis** has held the March for two decades and is the League's senior soldier. Steppe raiders are the constant trouble, and a great khanate rising in the desert is the reason the walls are so thick. In the high passes above Órashion live the **Vezhnûr holds**, warrior clans outside any charter whom the League tolerates as its eastern shield.
 
-The [[place-southrnmrch|Southern March]] is dry pastoral upland on the road from Karvashion toward Dunhara, and its southern edge is the border of the [[affiliation-sultntmrdd|Sultanate of Amradad]], which runs the whole length of the League's south: a line of hills and customs posts crossed daily by drovers and smugglers both ways. [[being-vaskan|Lord Vaskan]] holds it from the saddle, and his hunts are its political season: merchant-princes and envoys ride after boar and gazelle with his hounds, hawks and coursing cats, and settle more League business around his fires than the council does in half its sessions.
+The [[place-southrnmrch|Southern March]] is dry pastoral upland on the road from Karvashion toward Dunhara, and its southern edge is the border of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], which runs the whole length of the League's south: a line of hills and customs posts crossed daily by drovers and smugglers both ways. [[being-vaskan|Lord Vaskan]] holds it from the saddle, and his hunts are its political season: merchant-princes and envoys ride after boar and gazelle with his hounds, hawks and coursing cats, and settle more League business around his fires than the council does in half its sessions.
 
 The [[place-northrnmrch|Northern March]] is the quietest. It guards the grain road toward Velanthia, whose **Velanthian Hosts** keep the far side of a cordial border, and its lord is by custom a younger son of an Khrýshteíkhian house.
 
@@ -157,7 +157,7 @@ Campaigns here start well from a contract. A house hires the party to escort a c
 - [[place-eastrnmrch|The Eastern March]], [[place-southrnmrch|the Southern March]] and [[place-northrnmrch|the Northern March]] for the frontiers
 - [[skill-byzarnlng|The Byzarian tongue]] for its words for agreement and its rules for names
 - [[lore-vylrncrncy|Vylarian money]] for the coins and the paper-script
-- [[place-helionis|Heliónis]] for the cousins to the west, and [[affiliation-sultntmrdd|the Sultanate of Amradad]] for the neighbor along the whole southern border
+- [[place-helionis|Heliónis]] for the cousins to the west, and [[affiliation-kngdmmrdd|the Kingdom of Amradad]] for the neighbor along the whole southern border
 
 ## Glossary
 

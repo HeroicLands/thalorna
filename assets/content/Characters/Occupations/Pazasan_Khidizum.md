@@ -401,19 +401,19 @@ Pazâsan occupies an unusual role within the port warehouse district—respected
 
 ### Patrons
 
-**Warehouse Master Tariq Sindros**—The administrator of the port warehouse district. Tariq has come to rely on Pazâsan absolutely for maintaining order and preventing theft. He pays Pazâsan substantially above standard guard wages and has made his position secure and protected from reassignment.
+**Warehouse Master Zazûrûsh Bunîtûnî**—The administrator of the port warehouse district. Zazûrûsh has come to rely on Pazâsan absolutely for maintaining order and preventing theft. He pays Pazâsan substantially above standard guard wages and has made his position secure and protected from reassignment.
 
 ### Enemies
 
-**Merchant Prince Hallak al-Sarif**—A wealthy merchant whose operation Pazâsan has documented engaged in systematic smuggling and tax evasion. Hallak is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Hallak recognizes Pazâsan as a threat and has begun working to undermine him through allegations of corruption and bias.
+**Merchant Prince Ashûrûsh Hitûsûm**—A wealthy merchant whose operation Pazâsan has documented engaged in systematic smuggling and tax evasion. Ashûrûsh is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Ashûrûsh recognizes Pazâsan as a threat and has begun working to undermine him through allegations of corruption and bias.
 
 ## Plot Hooks
 
-1. **The Documentation Trap**—Pazâsan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazâsan assembles the evidence carefully. But when he reports it to Warehouse Master Tariq, he learns that the operation is being protected by senior government officials. Tariq warns him that pursuing the investigation will cost him his position and possibly his life. Pazâsan can keep his post and his safety, or expose a serious crime.
+1. **The Documentation Trap**—Pazâsan discovers evidence in shipping manifests that suggests a major merchant operation is engaged in the trade in people—moving them through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Pazâsan assembles the evidence carefully. But when he reports it to Warehouse Master Zazûrûsh, he learns that the operation is being protected by senior government officials. Zazûrûsh warns him that pursuing the investigation will cost him his position and possibly his life. Pazâsan can keep his post and his safety, or expose a serious crime.
 
-2. **The Corrupted Guard**—Pazâsan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Hallak in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazâsan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Hallak to continue fraud while preserving the guard's future.
+2. **The Corrupted Guard**—Pazâsan discovers that a younger warehouse guard has been accepting payments from Merchant Prince Ashûrûsh in exchange for failing to document certain cargo movements. The guard is technically skilled and has been praised for his work. Pazâsan faces a choice: arrest the guard, ending his service, or give him a chance to resign, which allows Ashûrûsh to continue fraud while preserving the guard's future.
 
-3. **The Warehouse Master's Deception**—Pazâsan discovers that Warehouse Master Tariq has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Tariq has been Pazâsan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
+3. **The Warehouse Master's Deception**—Pazâsan discovers that Warehouse Master Zazûrûsh has been engaged in systematic fraud—falsifying inspection records to allow contraband through the warehouse in exchange for bribes. Zazûrûsh has been Pazâsan's patron and supporter. The discovery is devastating to him. He can report his patron or become complicit in corruption.
 
 4. **The Ledger Conspiracy**—Pazâsan discovers a pattern across multiple merchants that suggests they are working together to manipulate prices and monopolize certain goods. The conspiracy is probably illegal but is technically complex, and the merchants involved have political protection. Pazâsan is being pressured by his superiors to either stop investigating (because it involves politically protected people) or to rapidly close the case with insufficient evidence.
 

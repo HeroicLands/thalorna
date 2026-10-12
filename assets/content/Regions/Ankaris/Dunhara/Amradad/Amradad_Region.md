@@ -3,7 +3,7 @@ shortcode: amradadrgn
 name: {full: Amradad Region, aliases: [Amradad]}
 type: place
 subType: region
-description: The settled north-western corner of the Dunhara, on the eastern shore of the Vylarian Sea—walled cities, their oases, and the caravan routes that link them, held by the Sultanate of Amradad.
+description: The settled north-western corner of the Dunhara, on the eastern shore of the Vylarian Sea—walled cities, their oases, and the caravan routes that link them, held by the Kingdom of Amradad.
 tags: [region]
 data:
   demonym: Amradi
@@ -11,12 +11,12 @@ data:
   parents: [dunharargn]
   population: 2000000
   packFolder: amradad
-  government: sultntmrdd
+  government: kngdmmrdd
 ---
 
 ## Overview
 
-A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of the **Amradad Region**, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
+A caravan coming out of the open desert sees Amradad first as a line of green on the horizon and then as a wall: the first city of the **Amradad Region**, the settled northwestern corner of the [[place-dunharargn|Dunhara Region]] and the country of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the only part of the Dunhara held by a realm with fixed borders, a standing army and a court. Its share of the desert's wealth is far larger than its share of the land: walled cities, the oases that feed them, the caravan roads that join them, and the ports of its coast.
 
 ## Geography
 
@@ -26,7 +26,7 @@ This is the desert's wettest margin, which is not saying much. A thin winter rai
 
 ## Places
 
-- [[place-shebarekh|Shêbarekh]]—the oasis city of the Sultan's court
+- [[place-shebarekh|Shêbarekh]]—the oasis city of the Shêbarôr's court
 - [[place-tahrodan|Tahrodan]]—the fortress city on the caravan road, largest in the realm
 - [[place-qarvelekh|Qarvelekh]]—a walled city of the oases
 - [[place-tazhinekh|Tazhinekh]] and [[place-venzelekh|Venzelekh]]—market towns of the caravan roads
@@ -38,11 +38,11 @@ The Amradi are of Dunhari blood and still count themselves part of the wider Dun
 
 ## Power
 
-A hereditary Sultan rules from Shêbarekh, through a Grand Vizier, the ministers of his divans, and a governor (_tâgemôr_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Sultanate is on warm terms with Tarûzel, which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
+A hereditary Shêbarôr rules from Shêbarekh, through a Grand Vashkôr, the ministers of his divans, and a governor (_tâgemôr_) in every city and oasis. His frontiers enclose only the cities and the roads between them, and his influence runs well beyond them through trade and through marriages with the sheikhs' houses. Across the strait the Kingdom is on warm terms with Tarûzel, which it helped win its freedom from the [[affiliation-vylarinmpr|Vylarian Empire]], a power with which its own relations have long been hostile.
 
 ## See Also
 
 - [[place-dunharargn|Dunhara Region]]—the parent region
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the realm that holds this region
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the realm that holds this region
 - [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert beyond the cities
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—the islands across the strait

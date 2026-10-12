@@ -428,7 +428,7 @@ This position is increasingly precarious. As Valdés grows wealthier and the mer
 
 **Patrons:**
 
-- **Alderman Darius Silvain**, leader of the fishing cooperative that represents the common fishermen of Valdés. He has served alongside Sofíenna in the communal assembly for six years and trusts her absolutely.
+- **Alderman Dílaren Floréscar**, leader of the fishing cooperative that represents the common fishermen of Valdés. He has served alongside Sofíenna in the communal assembly for six years and trusts her absolutely.
 - **The Widow Thesa**, an elderly woman of significant wisdom who was Sofíenna's informal mentor and continues to consult with her on matters of spiritual importance affecting the community.
 
 **Enemies:**

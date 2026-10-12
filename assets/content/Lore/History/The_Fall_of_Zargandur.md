@@ -17,14 +17,14 @@ data:
         - affiliation-tribestrzd
         - affiliation-khzrncnfdrtn
       summary: >-
-        On the last morning the strongest cavalry in the belt rides out of Zargandûr's north gate to meet the Bāhrām host on the pasture and is killed to the last rider, the house's princes among them. The city falls by noon, the first of the four the Ātárzád take. The Tellumi dead are left unreceived and driven into a trench three days later.
+        On the last morning the strongest cavalry in the belt rides out of Zargandûr's north gate to meet the Zhōqarōd host on the pasture and is killed to the last rider, the house's princes among them. The city falls by noon, the first of the four the Ātárzád take. The Tellumi dead are left unreceived and driven into a trench three days later.
       standing: attested
       where:
         locus: [place-henhulpedin]
         reach:
           - place: place-zargandur
             how: >-
-              the city is held by the Bāhrām ever since, and the House of Zargandûr sits in exile
+              the city is held by the Zhōqarōd ever since, and the House of Zargandûr sits in exile
             knowledge: named
       who:
         - {ref: affiliation-tribestrzd, role: actor}
@@ -41,11 +41,11 @@ data:
 
 ## The Last Morning
 
-In the second year of the Breaking, about 620 AF, the war-house's cavalry rode out of the north gate to meet the Bāhrām host on the pasture. It was the strongest cavalry in the belt. It was killed there to the last rider, the house's princes among them, and the city fell by noon.
+In the second year of the Breaking, about 620 AF, the war-house's cavalry rode out of the north gate to meet the Zhōqarōd host on the pasture. It was the strongest cavalry in the belt. It was killed there to the last rider, the house's princes among them, and the city fell by noon.
 
 ## What Was Left
 
-The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Mōbad beyond the wall and no names read. Three days later the Bāhrām drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhulpedin]], a moderate blood-field of recurrence that the Bāhrām keep for their own use.
+The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Shēkhulsīghot beyond the wall and no names read. Three days later the Zhōqarōd drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhulpedin]], a moderate blood-field of recurrence that the Zhōqarōd keep for their own use.
 
 ## See Also
 

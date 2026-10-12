@@ -192,7 +192,7 @@ not about the people.
 particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.
 
-**The same word can mean two things in two places.** `Mōbad` is the chief priest
+**The same word can mean two things in two places.** `Shēkhulsīghot` is the chief priest
 of the Ashalan faiths and an office among the Khazryn; `Elder` is a standing, an
 office in six peoples, and a courtesy anyone may use. Nothing prevents it, and
 the setting is older than its vocabulary.

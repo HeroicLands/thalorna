@@ -25,6 +25,8 @@ Tarvéni is the forceful, expressive tongue of the Tarvénan kingdoms and city-s
 
 Tarvéni is a language of assertion. Speakers pride themselves on clarity and force of expression; indirectness is considered weakness or deceit. The language employs strong stress patterns, rolled consonants, and emphatic vowels that carry emotional weight even in casual conversation. A heated argument in Tarvéni can sound like warfare; a tender declaration sounds like a solemn oath.
 
+The [[doc-tarvenlexcn|Tarvéni Lexicon]] gives the words with their sources, including the store the tongue keeps from the older speech of the mountains.
+
 The language varies significantly across the kingdoms and city-states of Tarvénia, yet all speakers maintain fierce loyalty to their regional variant as the "true" Tarvéni. Despite these internal variations, mutual intelligibility remains high—Tarvénans from different realms can converse readily, though each is acutely aware of subtle differences in accent and vocabulary.
 
 ## Phonology

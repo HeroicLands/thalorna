@@ -133,7 +133,7 @@ Byzarian evolved over roughly 800 years through the gradual synthesis of Helonic
 Byzarian shows more dialectal variation than Helonic, reflecting its hybrid nature and widespread geographic distribution:
 
 - **Temnos Standard:** The prestige written form, used in formal documents and educated speech. Maximal retention of Helonic grammar; eastern vocabulary carefully selected. Taught in merchant academies.
-- **Coastal/Port Dialect:** Heavily influenced by maritime vocabulary (Helonic and eastern nautical terms), rapid vowel reduction, many eastern particles (_zhe_, _vesh_, _tchaz_) for questioning, negation and emphasis. Comprehensible to speakers of other dialects but distinctly "market" in flavor.
+- **Coastal/Port Dialect:** Heavily influenced by maritime vocabulary (Helonic and eastern nautical terms), rapid vowel reduction, many eastern particles (_zhe_, _vezh_, _tchaz_) for questioning, negation and emphasis. Comprehensible to speakers of other dialects but distinctly "market" in flavor.
 - **Interior Highland Dialect:** More conservative, preserving some Helonic features lost in coastal speech. Slower articulation, fuller vowels, less obvious eastern influence. Speakers of this dialect are often stereotyped as rural or old-fashioned by coastal traders.
 - **Eastern Frontier Dialect:** Heavy eastern substrate, with significant vocabulary borrowing and some structural innovation (e.g., use of auxiliaries for tense-marking that is uncommon elsewhere). Often unintelligible to western Byzarians without exposure.
 
@@ -142,10 +142,10 @@ Byzarian shows more dialectal variation than Helonic, reflecting its hybrid natu
 All phrases draw from the shared [[skill-helonclng|Helonic]] core vocabulary, with Byzarian simplification and eastern loanwords.
 
 - **Émphôria halîron euthálir esh**—"Eastern goods are profitable" (merchant maxim; _émphôria_ from Hel. _émphôria_, _euthálir_ from Hel. lexicon, verb-final order from eastern influence)
-- **Pêm phótamir, plûmâ rhéshir**—"By the rivers, all flows" (_pêm_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _plûmâ_ from Hel. _plûm_, _rhéshir_ from Hel. _rhésharin_)
+- **Pêph phótamir, plûmâ rhéshir**—"By the rivers, all flows" (_pêph_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _plûmâ_ from Hel. _plûm_, _rhéshir_ from Hel. _rhésharin_)
 - **Khrýsharin máthiron esh**—"Gold is metal" (_khrýsharin_ and _máthiron_ from Hel., _esh_ simplified from Hel. _ésharin_)
-- **Zhe danîzh, kérdhanir vesh**—"Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vesh_ says there is none, _danîzh_ from Hel. _danîzharin_, _kérdhanir_ from Hel.)
-- **Fûn émpharin, lêphir kérdhanir**—"With the merchant, profit is clear" (_fûn_ + acc. from Hel., _lêphir_ and _kérdhanir_ from Hel.)
+- **Zhe danîzh, kérdhanir vezh**—"Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vezh_ says there is none, _danîzh_ from Hel. _danîzharin_, _kérdhanir_ from Hel.)
+- **Phrûn émpharin, lêphir kérdhanir**—"With the merchant, profit is clear" (_phrûn_ + acc. from Hel., _lêphir_ and _kérdhanir_ from Hel.)
 
 ## Related Languages
 

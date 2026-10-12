@@ -3,7 +3,7 @@ shortcode: khzrnclndr
 name: {full: The Tellumi Calendar, aliases: [Tellumi Calendar]}
 type: lore
 subType: calendar
-description: "The ancient Tellumi calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Mōbadate beside the Ātárzád's own ritual reckoning."
+description: "The ancient Tellumi calendar: twelve thirty-day months and a five-day festival that closes the year at the spring equinox, kept by the Shēkhulūkhem beside the Ātárzád's own ritual reckoning."
 tags: [reference, calendar]
 data:
   epoch: "-1500.1"
@@ -36,13 +36,13 @@ data:
   packFolder: khazryndesert
 ---
 
-The **Tellumi Calendar** is the ancient reckoning of the seven cities of [[place-swoasisbelt|Tellumel]], kept before the Breaking by the Mōbads of the Great Temple of [[affiliation-ahurdaen|Āhúrdáén]] at Shirvan and kept since by the exile Mōbadate. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter.
+The **Tellumi Calendar** is the ancient reckoning of the seven cities of [[place-swoasisbelt|Tellumel]], kept before the Breaking by the Shēkhulsīghots of the Great Temple of [[affiliation-ahurdaen|Āhúrdáén]] at Shirvan and kept since by the exile Shēkhulūkhem. Twelve months of thirty days each carry the year, and a five-day festival closes it before the next begins. Every month runs thirty days; only the closing festival is shorter.
 
 The new year opens with the spring equinox, the same day the [[lore-commoncal|Vylarian Calendar]] calls **1 Floralis**. The five festival days sit outside the twelve months and belong to the year that is ending, so the last of them falls on the day before the equinox and the new year's first month opens the following morning.
 
 Years count from the Āhúrdáén Awakening (AA), and years before it run as Before the Āhúrdáén Awakening (BAA). The Breaking opens no era of its own: the Tellumi date it in the Awakening count, as an event inside an age they hold has not ended.
 
-The calendar follows the model of the [[affiliation-ahurdaen|Faith of Āhúrdáén]]'s own tradition. Mōbads trained for fifteen to twenty years in astronomy and mathematics before ordination, and the priesthood that produces such scholars has kept a calendar this exact since before the Breaking.
+The calendar follows the model of the [[affiliation-ahurdaen|Faith of Āhúrdáén]]'s own tradition. Shēkhulsīghots trained for fifteen to twenty years in astronomy and mathematics before ordination, and the priesthood that produces such scholars has kept a calendar this exact since before the Breaking.
 
 ## Two Calendars in the Same Cities
 
@@ -51,6 +51,6 @@ The [[affiliation-tribestrzd|Ātárzád]] keep a different ritual reckoning, cyc
 ## See Also
 
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the people whose calendar this is
-- [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the Mōbads who maintain it
+- [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the Shēkhulsīghots who maintain it
 - [[place-worldthlrn|The World of Thalorna]]—the fixed vernal equinox the year opens on
 - [[place-vaelith|Vaelith]]—the moon, whose thirty-day cycle leaves the same five days over

@@ -22,7 +22,7 @@ data:
 
 **The Song of the Lost Town**, _Velkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Velkun]], the old city of [[place-vahurdash|Vahúrdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsel_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
 
-The text below is the rendering of one teller's cloth as a clerk of the Zarvān magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemul**, his champion **Bernirul**, the champion's wife **Minele** and their son **Revunul**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúráthrä]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahúrdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
+The text below is the rendering of one teller's cloth as a clerk of the Tōzhirōd magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemul**, his champion **Bernirul**, the champion's wife **Minele** and their son **Revunul**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúráthrä]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahúrdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
 
 : The Song of the Lost Town {#song}
 
@@ -237,10 +237,10 @@ That is what a prince looks like who counted the wrong thing. That is all.
 
 Bernirul lived. He kept the oath. He served the house in Kethramír
 and stood a gate for thirty years and never named the year
-or the court or the boy, and when he died a Mōbad read his name
+or the court or the boy, and when he died a Shēkhulsīghot read his name
 from the household clay that Minele saved, and the lamps were lit, and the same
 reed pressed beneath it, as the custom is, the names of the dead he owed,
-and the Mōbad read them, and came to one, and stopped, and the household showed
+and the Shēkhulsīghot read them, and came to one, and stopped, and the household showed
 him the shield, and he read the shield. That is how it is done.
 And this is what the song is for. The town is a sand-filled plan.
 The streets are forty feet wide and the houses have no roofs, and a man

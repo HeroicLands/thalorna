@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [shebarekh]
-  affiliations: {sultntmrdd: {rank: 3}, zurathra: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 3}, zurathra: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.53
@@ -25,7 +25,7 @@ data:
     skin_color: light
     complexion: null
     extra_features: [a scar on the right wrist]
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
@@ -422,7 +422,7 @@ Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark br
 
 ### Early Years
 
-Born to the Gazvân clan in the [[affiliation-sultntmrdd|Sultanate of Amradad]] during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Pezhinah Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Zâlmor of the Northern Kiln**—a rare honor for a child of noble guild-standing.
+Born to the Gazvân clan in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Pezhinah Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Zâlmor of the Northern Kiln**—a rare honor for a child of noble guild-standing.
 
 ### Training and Mastery
 
@@ -442,11 +442,11 @@ Beneath the distance lies a profound integrity. Gulrânah's word is law; she wil
 
 ### Motivation
 
-Gulrânah seeks only to produce the finest charcoal the Sultanate has ever known—a legacy that will outlast her body and be remembered long after her name fades. She takes no pride in wealth, though her independence demands it, and no pride in reputation, though it naturally follows excellence. What drives her is the pursuit of perfection in her art, the knowledge that her kiln's smoke carries the essence of her discipline skyward. In her most secret heart, she wonders if perfecting her craft might somehow earn her a place in the cycles of Zúráthrä's eternal fertility—a way to ensure her work feeds the world's growth beyond the material plane.
+Gulrânah seeks only to produce the finest charcoal the Kingdom has ever known—a legacy that will outlast her body and be remembered long after her name fades. She takes no pride in wealth, though her independence demands it, and no pride in reputation, though it naturally follows excellence. What drives her is the pursuit of perfection in her art, the knowledge that her kiln's smoke carries the essence of her discipline skyward. In her most secret heart, she wonders if perfecting her craft might somehow earn her a place in the cycles of Zúráthrä's eternal fertility—a way to ensure her work feeds the world's growth beyond the material plane.
 
 ### Strengths
 
-- **Master Charcoaler**: Produces charcoal of exceptional purity and consistency, commanding premium prices from smiths, alchemists, and ritualists across the sultanate
+- **Master Charcoaler**: Produces charcoal of exceptional purity and consistency, commanding premium prices from smiths, alchemists, and ritualists across the kingdom
 - **Fire Sense**: Reads kilns with near-supernatural precision, intuitively understanding temperature, moisture, and burn progression through observation and experience
 - **Physical Endurance**: Can work grueling hours in extreme heat without fatigue, a testament to disciplined conditioning
 - **Integrity**: Never compromises safety or quality regardless of economic pressure or personal sacrifice
@@ -491,12 +491,12 @@ The Kiln-Keepers of Amradad
 
 ## Plot Hooks
 
-1. **The Fire's Fading**: A severe drought threatens the very wood supply that sustains Gulrânah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Sultanate—sacred to Zúráthrä and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **Temple Ashenfire** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
+1. **The Fire's Fading**: A severe drought threatens the very wood supply that sustains Gulrânah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúráthrä and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **Temple Ashenfire** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
 
-2. **The Poisoned Batch**: Gulrânah discovers that someone has tampered with a shipment of her charcoal meant for the apothecary collective—introducing a mineral compound that, when burned in ritual, produces subtle traces of toxins. If discovered, it will destroy her reputation entirely. She must trace the sabotage back to its source before the corrupted batch reaches the ceremonial fires, and uncover whether this is the work of **Rozhvân Dûrmand** and his Ash-Brothers, or something far more sinister—perhaps a power seeking to poison the very fertility rituals that sustain the sultanate's prosperity.
+2. **The Poisoned Batch**: Gulrânah discovers that someone has tampered with a shipment of her charcoal meant for the apothecary collective—introducing a mineral compound that, when burned in ritual, produces subtle traces of toxins. If discovered, it will destroy her reputation entirely. She must trace the sabotage back to its source before the corrupted batch reaches the ceremonial fires, and uncover whether this is the work of **Rozhvân Dûrmand** and his Ash-Brothers, or something far more sinister—perhaps a power seeking to poison the very fertility rituals that sustain the kingdom's prosperity.
 
 3. **The Stranger's Commission**: A hooded figure arrives at her kilns late one night offering an astronomical sum for a single, specific batch of charcoal—enough to free her from work for five years. The charcoal is to be fashioned with ingredients she cannot identify and burned in a location she cannot access, all to be completed in absolute secrecy. The stranger's knowledge of her methods and her vulnerabilities suggests an understanding of her character that no mere customer could possess. Accepting such a commission might solve her isolation and provide resources, but the mystery of the stranger's intent gnaws at her conscience.
 
-4. **The Kiln-Master's Successor**: As Zâlmor's wealth grows and his age advances, he begins to court Gulrânah with an unexpected proposition: partnership in a grand expansion of the Northern Kiln into a regional empire of production. He speaks of training other apprentices under her guidance, establishing subsidiary kilns across the sultanate, and securing her legacy far beyond her lifetime. It is everything she should want, yet it would require her to abandon the solitary, intimate relationship with her own single kiln that has defined her entire life. She must choose between growth and purity, ambition and authenticity.
+4. **The Kiln-Master's Successor**: As Zâlmor's wealth grows and his age advances, he begins to court Gulrânah with an unexpected proposition: partnership in a grand expansion of the Northern Kiln into a regional empire of production. He speaks of training other apprentices under her guidance, establishing subsidiary kilns across the kingdom, and securing her legacy far beyond her lifetime. It is everything she should want, yet it would require her to abandon the solitary, intimate relationship with her own single kiln that has defined her entire life. She must choose between growth and purity, ambition and authenticity.
 
 5. **The Curse of Zúráthrä's Gift**: Strange visions begin plaguing Gulrânah during her work—fleeting glimpses of other worlds, other kilns, other selves engaged in the same craft. A priestess of **Temple Ashenffire** eventually seeks her out, revealing that her gift with fire may mark her as touched by Zúráthrä herself, and that the deity intends to draw her into service for a great working. The visions are a call, and refusing will bring consequences. Accepting means surrendering the last remnants of her independence to something greater, and possibly terrible, than herself.

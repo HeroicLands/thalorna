@@ -21,7 +21,7 @@ Dunhari is a tongue of the Desert family. Fluency measures the sophistication of
 
 ## Overview
 
-Dunhari is the melodic, poetic tongue of the desert peoples: the [[place-dunharargn|Dunhara Region]] tribes, the settled communities of the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the urban centers of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
+Dunhari is the melodic, poetic tongue of the desert peoples: the [[place-dunharargn|Dunhara Region]] tribes, the settled communities of the [[place-khzryndsrtrgn|Khazryn Desert Region]], and the urban centers of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. The language is fundamentally shaped by an oral tradition where poetry, song, and storytelling form the primary literary expression. Dunhari speakers value rhythm, metaphor, and the interplay of vowels above all else.
 
 The language features extensive vocabulary for desert navigation, astronomy, water sources, kinship, honor, and the subtleties of weather and seasonal change. Dunhari is the voice of nomadic wisdom and courtly refinement.
 
@@ -107,7 +107,7 @@ Literacy among Dunhari nomadic populations centers on oral transmission; written
 
 Dunhari evolved from ancient proto-Ankarian languages that developed in the desert regions over at least fifteen centuries. The language is marked by significant influence from neighboring Ankarian language families, particularly in vocabulary relating to trade and urban settlement. However, the core poetic structure and nomadic vocabulary remain distinctly archaic.
 
-The systematization of Dunhari poetic meters and formal registers occurred during the rise of the Sultanate of Amradad approximately five centuries ago, when courtly poetry became a marker of elite status and refinement. This courtly register, known as **Amradi**, represents a formalization and refinement of standard Dunhari.
+The systematization of Dunhari poetic meters and formal registers occurred during the rise of the Kingdom of Amradad approximately five centuries ago, when courtly poetry became a marker of elite status and refinement. This courtly register, known as **Amradi**, represents a formalization and refinement of standard Dunhari.
 
 ## Regional Dialects
 
@@ -121,7 +121,7 @@ Spoken in oasis towns and settled communities, this dialect shows simplified nom
 
 ### Amradi (Courtly Dialect)
 
-The prestige dialect of the Sultanate of Amradad, spoken in Tahrodan and refined urban centers. Amradi is characterized by:
+The prestige dialect of the Kingdom of Amradad, spoken in Tahrodan and refined urban centers. Amradi is characterized by:
 
 - Softening of velar fricatives (_kh_ > _kh_ or _h_, _gh_ > _g_ or _w_)
 - Elaborate politeness markers and honorific forms

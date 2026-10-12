@@ -403,6 +403,28 @@ test("a shared root is checked through the daughter's own table", () => {
     );
 });
 
+test("a daughter that takes another case is checked from that case", () => {
+    const accusative = edited(
+        "| Daughter | Lexicon |\n| --- | --- |\n| Áelendi | `doc-aelendlexcn` |",
+        "| Daughter | Lexicon | Takes | Through |\n| --- | --- | --- | --- |\n| Áelendi | `doc-aelendlexcn` | the accusative | — |",
+        edited(
+            "| `sôrimâ` | `sôrimâ` | n | song |",
+            "| `sôrimâ` | `sôrimâ` | n I f | song |",
+            edited(
+                "| `*k'arôs` | `karôs` | `k'ar` | kept fire |",
+                "| `*k'arôs` | `karôs` | `k'ar` | kept fire |\n| `*sôrimâ` | `sôrimâ` | `sôrima` | song |",
+            ),
+        ),
+    );
+    const found = errors(
+        accusative.replace("| `n` | a noun |", "| `n` | a noun |\n| `n I f` | a noun of class I |"),
+    );
+    assert.match(
+        found.join("\n"),
+        /Áelendi reflex of `\*sôrimâ` is written "sôrima", and the Áelendi changes give "sôrimân"/,
+    );
+});
+
 test("the register covers every name in scope and names real notes", () => {
     const missing = errors(
         edited("| **Sôrimâ** | [[being-gorandis\\|Gôrândis]] | `vylari` | `sôrimâ` |\n", ""),

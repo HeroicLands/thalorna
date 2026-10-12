@@ -27,6 +27,8 @@ Provenzal speakers pride themselves on the liquid grace of their language. Where
 
 The language is inseparable from Provenzal culture: love songs and courtly poetry are composed in Provenzal, sung by traveling bards, and memorized by citizens of all classes. To speak Provenzal without grace is considered a personal failing.
 
+The [[doc-provnzlexcn|Provenzal Lexicon]] gives the words with their sources, the inherited and the learned side by side, and the rules that make them.
+
 ## Phonology
 
 Provenzal is marked by a high proportion of sonorant consonants and open vowel patterns, giving it a naturally melodic quality:
@@ -116,7 +118,7 @@ The tradition of "love names" is widespread: a person might grant an intimate fr
 
 #### Male Names
 
-Áldrik, Âvenar, Árvald, Bjársen, Brýgar, Dâlenar, Éltan, Fáris, Fjálrik, Gjârlen, Háren, Hârlak, Hávral, Ílnar, Ísselrik, Jârvel, Kâlrik, Kjôrvan, Krâlen, Lârsten, Mârlen, Nýlrik, Óskar, Pâdran, Rýgar, Sálven, Skârik, Stâvrik, Thâven, Thôrlin, Tôrvald, Týren, Úrkar, Várlan, Vélarik, Vôrnan, Ylârven, Ýdrik, Zálren, Zyrík, Hârthon, Mârikel, Brálnis, Kýrvek, Hvôrlen, Târlig, Ârvelis, Lôden, Stálrik, Póverik
+Áldrik, Âvenar, Árvald, Bjársen, Brýgar, Dâlenar, Éltan, Fálgrik, Fjálrik, Gjârlen, Háren, Hârlak, Hávral, Ílnar, Ísselrik, Jârvel, Kâlrik, Kjôrvan, Krâlen, Lârsten, Mârlen, Nýlrik, Óskar, Pâdran, Rýgar, Sálven, Skârik, Stâvrik, Thâven, Thôrlin, Tôrvald, Týren, Úrkar, Várlan, Vélarik, Vôrnan, Ylârven, Ýdrik, Zálren, Zyrík, Hârthon, Mârikel, Brálnis, Kýrvek, Hvôrlen, Târlig, Ârvelis, Lôden, Stálrik, Póverik
 
 #### Female Names
 
@@ -134,7 +136,7 @@ Brânwyld, Kórisvar, Thjârdon, Lýskal, Hârvenar, Stýlgon, Gjârlen, Válsky
 
 #### Female Names
 
-Álira, Almyra, Ârisè, Býlen, Cárena, Chýnara, Delyra, Élynne, Êresa, Fálwyn, Fárlene, Gwýra, Hálynn, Ílvara, Járaen, Júlenè, Kárena, Kírisa, Lánael, Líwen, Lýrena, Mályra, Márael, Mýrena, Nálira, Nélyse, Ómara, Pályra, Rálisa, Réthia, Rýlisa, Sálwen, Síranè, Sorýla, Tálwyn, Thályra, Úrelè, Válisa, Vélaren, Vyrena, Zálwyn, Zárene, Zýlisa, Ísrana, Lýthra, Mîrwyn, Brénael, Hália, Kárlinè, Rýthra
+Álira, Almyra, Ârisè, Býlen, Cárena, Chýnara, Delyra, Élynne, Êresa, Fálwyn, Fárlene, Gwýra, Hálynn, Ílvara, Járaen, Júlenè, Kárena, Kírisa, Lánael, Líwen, Lýrena, Mályra, Márael, Mýrena, Nálira, Nélyse, Óvrena, Pályra, Rálisa, Réthia, Rýlisa, Sálwen, Síranè, Sorýla, Tálwyn, Thályra, Úrelè, Válisa, Vélaren, Vyrena, Zálwyn, Zárene, Zýlisa, Ísrana, Lýthra, Mîrwyn, Brénael, Hália, Kárlinè, Rýthra
 
 #### Clan Names
 

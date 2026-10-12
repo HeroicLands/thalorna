@@ -370,7 +370,7 @@ The particles are short because a Tarûzeli sentence carries its weight in the r
 | `yez` | `num`  | one      | —          | —                               |
 | `lel` | `num`  | two      | —          | —                               |
 | `zem` | `num`  | three    | —          | —                               |
-| `noz` | `num`  | four     | —          | —                               |
+| `vûb` | `num`  | four     | —          | —                               |
 | `fom` | `num`  | five     | —          | —                               |
 | `yet` | `num`  | ten      | —          | —                               |
 
@@ -569,3 +569,8 @@ A retired name is one the setting does not write: a name from Earth, or a name n
 | `Gizbar`              | `Qubâsum`           | an Earth word                                                                           |
 | `Adônîm al-Mudunîn`   | `zuvârum`           | an Earth phrase                                                                         |
 | `Adôn`                | `zuvârum`           | an Earth word                                                                           |
+| `Tariq`               | `Zazûrûsh`          | an Earth name                                                                           |
+| `Sindros`             | `Bunîtûnî`          | a name no Tarûzeli root builds                                                          |
+| `Hallak`              | `Ashûrûsh`          | a name no Tarûzeli root builds                                                          |
+| `al-Sarif`            | `Hitûsûm`           | an Earth name                                                                           |
+| `Malik`               | `Zabûzûsh`          | an Earth name                                                                           |

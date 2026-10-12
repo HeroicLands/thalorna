@@ -1,66 +1,80 @@
 ---
-shortcode: grkrh
-name: {full: Grukar-Hai, aliases: []}
+shortcode: mtrnthmdn
+name: {full: Métrantha Thâmîdon, aliases: []}
 type: being
-subType: creature
-description: "A towering six-foot apex Grukar warrior, strongest of its kind, so consumed by the need for dominance it cannot tolerate its own kin."
-tags: [folk]
+subType: npc
+tags: [draft, common-folk]
 data:
-  packFolder: folk
   icon: icon-person
   templatePriority: null
-  archetypes: []
-  occupation: null
+  archetypes: [commoner]
+  occupation: Miner
   lore: []
-  homes: []
-  affiliations: {}
-  gender: null
-  species: null
-  age: null
-  born: "unknown"
-  frame: null
+  culture: helioniteclt
+  homes: [athenikos2]
+  affiliations: {athenikos: {rank: 4}, sacredforge: {rank: 1}}
+  gender: female
+  species: humanflk
+  born: 696.39
+  height: 6' 1"
+  weight: 172 lbs
+  frame: medium
   appearance:
-    eye_color: null
-    hair_color: null
-    skin_color: null
+    eye_color: hazel
+    hair_color: dark_brown
+    skin_color: tawny
     complexion: null
     extra_features: []
+  packFolder: helladhelionis
 sohl:
-  kbcat: grukar
-  attrRollFormula:
-    str: 1d6+13
-    end: 1d6+14
-    dex: 1d4+6
-    agl: 1d4+5
-    per: 1d4+8
-    aur: 1d4+8
-    wil: 1d4+14
-    rea: 1d4+4
-    cre: 1d4+3
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 16}}
-    - {model: sohl-sohl-attribute-end, system: {scoreBase: 18}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 9}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 8}}
-    - {model: sohl-sohl-attribute-per, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-end, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 16}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
+    - {model: sohl-sohl-attribute-cml, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-aur, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 17}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 7}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 6}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 70}}
-    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 60}}
-    - {model: sohl-sohl-mysticalability-sprt, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 48}}
-    - {model: sohl-sohl-skill-dge, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-skill-shok, system: {masteryLevelBase: 43}}
-    - {model: sohl-sohl-skill-bflkbite}
-    - {model: sohl-sohl-skill-bflkgrab}
-    - {model: sohl-sohl-skill-bflkheadbutt}
-    - {model: sohl-sohl-skill-bflkkick}
-    - {model: sohl-sohl-skill-limbblock}
-    - {model: sohl-sohl-skill-press}
-    - {model: sohl-sohl-skill-bflkpunch}
-    - {model: sohl-sohl-skill-trip}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 13}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-emp, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 11}}
+    - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-eng, system: {masteryLevelBase: 33}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 36}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 10}}
+    - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-mnrl, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 56}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-lgdm, system: {masteryLevelBase: 16}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 39}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-fltch, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 32}}
+    - {model: sohl-sohl-skill-jewl, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 70}}
+    - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 42}}
   system:
     body:
       structure:
@@ -363,9 +377,9 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: 300, calc: "300"}
+      weight: {base: null, calc: "(9 * str) + 50"}
       reachBase: 0
-      bodyScaleBase: 1.28
+      bodyScaleBase: 1
       personalFatigue: "enc + 5"
     currentMoveMedium: terrestrial
     movementProfiles:
@@ -375,84 +389,57 @@ sohl:
         encumbrance: "floor(wt/4)"
         strMod: "-5 * floor((str - 10) / 2)"
         disabled: false
+    defaultCombatGroup: null
 ---
 
 # Appearance {#appearance}
 
-![[grkrh|Grukar-Hai]]{float=top-left}
-
-The thing that fills the doorway has to stoop to come through it. It is a Grukar, but built on another scale: six feet and more of gray-green muscle over heavy bone, broader across the shoulders than two men abreast, scarred everywhere, with chunks bitten out of its ears and a pair of cracked yellow tusks jutting from its underslung jaw. It carries a cleaver of black iron that looks made for something larger still, and it carries it easily. Behind it the smaller ones crowd and wait. It looks at you with small, deep-set eyes, and there is no measuring in the look. It has already decided what you are. It is only deciding where to begin.
+Métrantha Thâmîdon is a 28-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 
-The Grukar-Hai is the warrior caste of the [[lore-grukarfolk|Grukar]]: the largest, the strongest and by far the most dangerous, five and a half to six and a half feet tall and massively built, and perhaps one Grukar in twenty. It rules the [[being-grukaruk|Grukar-Uk]] by fear and fights everything, other Hai most of all, because it cannot abide a rival; two Hai who meet fight until one is dead. That fratricide keeps the Hai few and fierce, and it is no accident: the tribe's [[being-grkrahk|Grukar-ahk]] spawns its Hai in numbers that guarantee it, because a Hai with time to think might come to understand that mastering the spawner would make it master of everything. A Hai clutch takes twelve weeks and costs the tribe more food than any other laying, and word that the spawn-chamber has laid Hai runs through a tribe like a declaration of war, which is what it is.
+Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Métrantha Thâmîdon came into the world of the miner through a combination of circumstance and aptitude.
 
-## Presentation
+Métrantha has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Métrantha has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
 
-A Grukar-Hai is a slab of corded muscle over thick, heavy bone, dense enough that floors creak under it. Its skin runs from dark gray-green to a mottled brown-black and is a patchwork of ritual scars, bite marks and badly healed wounds, every one a trophy of a fight it won. The face is heavy-browed and brutal, with a pronounced underbite and cracked tusks, and the eyes are small, deep-set and lit with a feral intelligence. It wears armor of scavenged metal and bone, hung with trophies, fingers, teeth, scraps of banners. Its weapons are oversized, cleavers, great axes, war-clubs and swords no man could swing, and it swings them easily. It speaks no human tongue; it signals, as Grukar do, by posture and by calls from the chest and throat.
+## Psyche
 
-## In the Land
+### Personality
 
-Every Grukar tribe has its Hai, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarhölm]], in the eastern [[place-vrystwald|Vrystwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hai leads the raids that come out of those places, at the head of its Uk. It is the Hai, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a Sha did the planning, and a Hai led what the Sha planned.
+Can be underestimated due to her gender, sometimes takes on too much responsibility.
 
-## Key Behaviors
+### Motivation
 
-A Hai recognizes one law, that the strong rule and the weak serve or die. With other Hai there is no hierarchy but the question of who can kill whom, settled by posturing if possible and by a fight to the death if not, and the tribe's spawner lets those fights happen. Over the Uk it rules by terror. It tolerates the Sha that make themselves useful to it, and a clever Sha at a Hai's elbow is often the real voice of the warband. A Hai is not taught; it hatches knowing how to fight. Within that one field it learns, and learns well: which shield-wall gives on the left, what a crossbow does at forty paces and cannot do at ten, which neighbor's warband breaks under pressure and which only pretends to. An old Hai is much more dangerous than a young one. But it learns tactics and nothing else. It cannot imagine a situation it has not stood in, or trace a consequence more than one step, and it wins the battle in front of it while losing the war it never understood it was in.
+Métrantha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in miner work keep her vigilant and adaptable.
 
-## What the Watch Does
+### Strengths
 
-Commanders who face Grukar learn first to find the Hai, because the Hai is the warband. The Uk do not stand once their Hai is dead, and a raiding party whose Hai has been killed is a crowd of Grukar running home. Frontier levies in [[place-brynavar|Brynavar]] and Aldorath's [[place-wyndmarch|Wyndmarch]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hai in it is a civil war waiting for an excuse, and a commander who can give the Hai that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hai, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
+Skilled at extraction techniques, agile, strong leadership qualities.
 
-## Signs
+## Social
 
-- Huge clawed footprints, deeper than an ox's, among the smaller tracks of a raiding party.
-- Trophies left on stakes at the edge of a raided steading: hands, heads, a broken banner.
-- The body of a Grukar-Hai, killed by another Hai, left where it fell with its trophies taken.
-- A raiding party that moves with a single purpose and does not stop to plunder until its target is taken.
-- Trees and gateposts hacked through with a single stroke.
+Métrantha is affiliated with Local Miners' Union.
 
-## Combat Strategy
+As a Helionite miner, Métrantha occupies a recognized social niche within Heliónis society.
 
-A Hai fights head-on and without let-up. It wades into the enemy line, swinging its huge weapon in strokes that cut through shields and men, and keeps pressing until the line breaks or it dies. It uses its strength to control the ground, sweeping a space clear round itself. It uses the Uk as a weapon and a shield, driving them in ahead of it and over the bodies. What it has learned from earlier fights it uses: the gap in a shield-wall, the place an archer cannot reach. It does not plan beyond the fight in front of it, it does not retreat while it can stand, and it does not forgive. It does not cooperate with another Hai, and two Hai on one field fight beside each other only until the enemy breaks.
+## Companions
 
-## Special Abilities
+### Patrons
 
-### Tremendous Strength
+Métrantha's primary patron is Local mining companies and jewelers seeking quality stones.. This relationship provides both opportunity and obligation.
 
-The Hai's strength is far beyond a man's. It wields weapons two men would struggle with, and its grip is very hard to break.
+### Enemies
 
-### Battle-Learned Tactics
+Few; respected but occasionally faces skepticism from traditionalists.
 
-A Hai remembers every fight it survived and what worked in it, and an old Hai fights with a veteran's cunning within the narrow field of the battle in front of it.
+## Plot Hooks
 
-### Battle Endurance
+1. **The Miner's Dilemma**—Métrantha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 
-It fights far longer than a man without tiring and grows more dangerous, not less, as a fight goes on.
+2. **Old Grudges**—Few; respected but occasionally faces skepticism from traditionalists. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-### Will to Fight
+3. **Echoes of the Past**—Something from Métrantha's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-It keeps fighting through wounds that would drop anyone else, until it is dead or can no longer stand.
+4. **Shifting Winds**—Political changes in Heliónis threaten to upend the social order that Métrantha depends upon. She must decide whether to adapt, resist, or flee.
 
-### Fratricidal Rivalry
-
-A Hai cannot abide another Hai. Two in the same warband fight each other given any excuse, and that rivalry is the surest weakness of a Grukar force.
-
-## Attributes
-
-- **Strength:** 14-19 (1d6+13)
-
-- **Endurance:** 15-20 (1d6+14)
-
-- **Dexterity:** 7-10 (1d4+6)
-
-- **Agility:** 6-9 (1d4+5)
-
-- **Perception:** 9-12 (1d4+8)
-
-- **Aura:** 9-12 (1d4+8)
-
-- **Will:** 15-18 (1d4+14)
-
-- **Reasoning:** 5-8 (1d4+4)
-
-- **Creativity:** 4-7 (1d4+3)
+5. **The Opportunity**—A chance encounter offers Métrantha the possibility of advancement beyond anything she has dared hope for—but the price may be higher than it first appears.

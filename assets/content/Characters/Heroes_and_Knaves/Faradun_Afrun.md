@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [tahrodan]
-  affiliations: {sultntmrdd: {rank: 2}, zurathra: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 2}, zurathra: {rank: 1}}
   gender: male
   species: humanflk
   born: "678.190"
@@ -25,7 +25,7 @@ data:
     skin_color: tanned
     complexion: weathered
     extra_features: []
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 14}}
@@ -425,9 +425,9 @@ Faradûn stands 5'10" tall with a heavy build. He has tanned weathered skin, dar
 
 # Dossier {#dossier}
 
-Faradûn was born the second son of a herder family in the borderlands of the [[affiliation-sultntmrdd|Sultanate of Amradad]], in country where the line between settled civilization and wild frontier remains deliberately thin. His childhood was spent learning to manage livestock, to understand the temperament and needs of draft animals, and to navigate the unpredictable terrain of his homeland. When his older brother inherited the family's herds, Faradûn, at eighteen, sought his fortune on the trade roads, joining a merchant caravan as an assistant teamster.
+Faradûn was born the second son of a herder family in the borderlands of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], in country where the line between settled civilization and wild frontier remains deliberately thin. His childhood was spent learning to manage livestock, to understand the temperament and needs of draft animals, and to navigate the unpredictable terrain of his homeland. When his older brother inherited the family's herds, Faradûn, at eighteen, sought his fortune on the trade roads, joining a merchant caravan as an assistant teamster.
 
-For twenty-four years, he has traveled the routes connecting the major cities of the Sultanate and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability earned him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in the Teamsters' Guild and began accepting independent contracts. Since then, he has built a modest but genuine reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with genuine care.
+For twenty-four years, he has traveled the routes connecting the major cities of the Kingdom and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability earned him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in the Teamsters' Guild and began accepting independent contracts. Since then, he has built a modest but genuine reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with genuine care.
 
 ## Psyche
 
@@ -460,7 +460,7 @@ Faradûn's primary motivation is to maintain his reputation as a reliable transp
 ### Patrons
 
 Merchant Lord Vashir
-: One of the most prominent trading masters in the Sultanate has employed Faradûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
+: One of the most prominent trading masters in the Kingdom has employed Faradûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
 
 The Merchants' Consortium of the Eastern Roads
 : A formal organization of wealthy traders maintains Faradûn on contract for important shipments and considers him one of their most valued contractors.

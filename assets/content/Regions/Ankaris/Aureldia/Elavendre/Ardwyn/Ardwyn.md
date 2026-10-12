@@ -67,7 +67,7 @@ defense.
   [[place-silvrfrsts|The Silver Forests]]
 - [[place-eshalshldg|Eshálosha Lodge]]—Áelendan settlement and ceremonial center.
 - [[place-elanmere|Elanmere]]—the lake town at the mountains' foot.
-- [[place-silvain|Silvain]]—a woodland settlement of the Silver Forests.
+- [[place-sourimael|Sóurimael]]—a woodland settlement of the Silver Forests.
 
 ## See Also
 

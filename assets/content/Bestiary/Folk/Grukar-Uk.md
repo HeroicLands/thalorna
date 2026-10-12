@@ -264,7 +264,7 @@ They come out of the tree-line at a jog, twenty or thirty of them, short and bro
 
 # Dossier {#dossier}
 
-The Grukar-Uk is the common [[lore-grukarfolk|Grukar]], the laborer and foot soldier of its tribe and roughly eighty-five percent of every tribe's number: about four and a half feet tall, stocky, strong for its size, dull, lazy, and spawned in such numbers that its death matters to no one, least of all to the [[being-grkrahk|Grukar-ahk]] that laid it. An Uk hatches knowing everything it will ever know, how to hold a spear, which fungus is safe, where the tribe's water lies, and it learns nothing afterward. One Uk is a nuisance. Fifty, driven by a [[being-grkrh|Grukar-Hai]] and aimed by a [[being-grkrsh|Grukar-Sha]], are a tide that burns farmsteads, empties folds and carries off the people it catches, to eat.
+The Grukar-Uk is the common [[lore-grukarfolk|Grukar]], the laborer and foot soldier of its tribe and roughly eighty-five percent of every tribe's number: about four and a half feet tall, stocky, strong for its size, dull, lazy, and spawned in such numbers that its death matters to no one, least of all to the [[being-grkrahk|Grukar-ahk]] that laid it. An Uk hatches knowing everything it will ever know, how to hold a spear, which fungus is safe, where the tribe's water lies, and it learns nothing afterward. One Uk is a nuisance. Fifty, driven by a [[being-grkrhshk|Grukar-Hushk]] and aimed by a [[being-grkrsh|Grukar-Sha]], are a tide that burns farmsteads, empties folds and carries off the people it catches, to eat.
 
 ## Presentation
 
@@ -276,11 +276,11 @@ Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarhölm]] and
 
 ## Key Behaviors
 
-The Uk are idle by nature. Left to themselves they eat, sleep, squabble over food and sleeping places, and do as little as they can. What moves them is hunger, greed, and above all fear of the Hai; they obey the Sha because a Sha makes obedience feel like their own idea. They do not scheme and do not rebel, and their quarrels rarely come to killing, because killing a neighbor draws attention from above. An Uk cannot learn: shown a task a hundred times, it does it on the hundred and first exactly as on the first. It fights as it hatched knowing how, and that is all. A lone Uk is a cringing thing, more likely to run or grovel than fight. In a mob, with a Hai behind it, it does not run until the Hai falls.
+The Uk are idle by nature. Left to themselves they eat, sleep, squabble over food and sleeping places, and do as little as they can. What moves them is hunger, greed, and above all fear of the Hushk; they obey the Sha because a Sha makes obedience feel like their own idea. They do not scheme and do not rebel, and their quarrels rarely come to killing, because killing a neighbor draws attention from above. An Uk cannot learn: shown a task a hundred times, it does it on the hundred and first exactly as on the first. It fights as it hatched knowing how, and that is all. A lone Uk is a cringing thing, more likely to run or grovel than fight. In a mob, with a Hushk behind it, it does not run until the Hushk falls.
 
 ## What the Frontier Does
 
-Every people that borders the Grukar deals with the Uk the same way, because the Uk is the same everywhere. Steadings near the forest are built inside a ditch and a palisade, stock is penned at night, and a horn or a beacon calls the neighbors when a raiding party is seen. Nobody takes a Grukar as a slave, because an Uk cannot learn the work a captor needs, and nobody parleys with a raiding party of Uk, because an Uk cannot be told terms. The Varokh villages of Skathwald keep watches and walls and spend more labor on defense than on anything else. The hill levy at Brynavar and the frontier garrisons of Aldorath have learned the one rule every veteran teaches: kill the Hai, and the Uk scatter.
+Every people that borders the Grukar deals with the Uk the same way, because the Uk is the same everywhere. Steadings near the forest are built inside a ditch and a palisade, stock is penned at night, and a horn or a beacon calls the neighbors when a raiding party is seen. Nobody takes a Grukar as a slave, because an Uk cannot learn the work a captor needs, and nobody parleys with a raiding party of Uk, because an Uk cannot be told terms. The Varokh villages of Skathwald keep watches and walls and spend more labor on defense than on anything else. The hill levy at Brynavar and the frontier garrisons of Aldorath have learned the one rule every veteran teaches: kill the Hushk, and the Uk scatter.
 
 ## Signs
 
@@ -292,13 +292,13 @@ Every people that borders the Grukar deals with the Uk the same way, because the
 
 ## Combat Strategy
 
-Uk fight in a mob under a Hai's command, and the mob is their strength. They come on together, rush from several sides when a Sha has planned it, and press a target with numbers until it falls. They are strong for their size, and a blow from one is dangerous. They have no tactics of their own and no courage of their own: a mob whose Hai has been killed or has fled breaks and runs within moments, every Uk for itself. One at a time, an Uk is no match for a trained soldier. Their weapons are whatever they carry, used with the plain competence they hatched with and never improved.
+Uk fight in a mob under a Hushk's command, and the mob is their strength. They come on together, rush from several sides when a Sha has planned it, and press a target with numbers until it falls. They are strong for their size, and a blow from one is dangerous. They have no tactics of their own and no courage of their own: a mob whose Hushk has been killed or has fled breaks and runs within moments, every Uk for itself. One at a time, an Uk is no match for a trained soldier. Their weapons are whatever they carry, used with the plain competence they hatched with and never improved.
 
 ## Special Abilities
 
 ### Strength of Numbers
 
-In a mob under a Hai, Uk press harder and stand longer than any one of them would alone, and their coordinated rush can overwhelm trained soldiers by weight.
+In a mob under a Hushk, Uk press harder and stand longer than any one of them would alone, and their coordinated rush can overwhelm trained soldiers by weight.
 
 ### Practical Toughness
 
@@ -310,7 +310,7 @@ An Uk hatches knowing how to use the rough weapons and tools its tribe uses, and
 
 ### Broken Without Leaders
 
-When the Hai driving a mob falls or flees, the Uk lose all cohesion and scatter.
+When the Hushk driving a mob falls or flees, the Uk lose all cohesion and scatter.
 
 ## Attributes
 

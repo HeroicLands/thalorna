@@ -856,6 +856,12 @@ export function compareForms(written, derived) {
  * @param {string[]} [config.lists] - Name-list headings on the language page.
  * @param {boolean} [config.daughter] - Whether the lexicon has Sources.
  * @param {string} [config.ancestor] - For a daughter: the address of the Vylari lexicon.
+ * @param {string[]} [config.loanPrefixes] - For a daughter: the source prefixes
+ *   whose rows are loans and may use the letters the Letters table marks
+ *   `loan only`; without it, every source but an inherited one counts.
+ * @param {(etymon: string, row: object, declared: object) => string} [config.startForm] -
+ *   For a daughter: the form the changes start from, given the etymon and the
+ *   source lexicon's row; without it, the etymon itself.
  * @param {(ctx: object) => string[]} [config.extra] - A tongue's own checks.
  * @param {{note: string, lex: string|null, tree?: object, wear?: (form: string) => string}} input
  * @returns {{findings: string[], rule: object|null, counts: object}}
@@ -919,7 +925,11 @@ export function analyseTongue(config, input) {
                     `${label} is attested in [[${address}]], which no note has`,
                 );
         const source = parseSource(word.source);
-        const loan = config.daughter && source.prefix !== "*" && source.prefix !== "—";
+        const loan =
+            config.daughter &&
+            (config.loanPrefixes ?
+                config.loanPrefixes.includes(source.prefix)
+            :   source.prefix !== "*" && source.prefix !== "—");
         const bound = word.form.endsWith("-");
         for (const part of word.form.replace(/-$/, "").split(/\s+/))
             for (const problem of soundProblems(part, rule, { bound, loan, label: config.label }))
@@ -930,7 +940,8 @@ export function analyseTongue(config, input) {
     const missingLexicons = new Set();
     const sourceStress = (address) => load(address)?.rule.stress ?? "by weight";
     const inventoryOf = (other, column) => {
-        if (!other) return {};
+        // A source lexicon that states no letters is cut by the engine's own defaults.
+        if (!other || !other.rule.consonants.size) return {};
         const r = other.rule;
         const consonants =
             column === "ancient" && r.ancient ?
@@ -1025,7 +1036,8 @@ export function analyseTongue(config, input) {
                 );
                 continue;
             }
-            let start = source.etymon;
+            let start =
+                config.startForm ? config.startForm(source.etymon, row, declared) : source.etymon;
             if (source.worn) {
                 if (!input.wear) {
                     lexFinding(

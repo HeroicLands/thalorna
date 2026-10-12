@@ -378,13 +378,13 @@ Among the nobility and priesthood, extensive titulature is employed. These title
 - Ôléka
 - Ólida
 - Ólúba
-- Omára
 - Ómazi
 - Omêra
 - Omíwa
 - Ôruna
 - Ôtala
 - Pékani
+- Pembura
 - Pórali
 - Ráto
 - Ríya

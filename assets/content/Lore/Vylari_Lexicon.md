@@ -152,12 +152,12 @@ Two more changes belong to speech and are never written. In ordinary talk a long
 
 Ancient Vylari sorts every noun into one of four genders, and an adjective, a pointing word and a participle take the gender of the noun they go with. Three of the genders are the familiar ones, assigned mostly by a noun's class and only loosely by sense. The fourth is the one that makes the language Vylari.
 
-| Gender    | What takes it                                                                                             | Examples                                                           |
-| --------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| neuter    | things, tools, beasts of burden, children not yet of age, and slaves                                      | _thrâkhon_ (a slave), _nûrizon_ (a child), _zaron_ (an oath)       |
-| masculine | most words of class II and many of class III, persons and offices among them                              | _thelmôs_ (a client), _kalmêthar_ (an ancestor)                    |
-| feminine  | most words of class I and class V, and some trees of class II                                             | _vêrôsâ_ (a citizen), _azênê_ (a line), _pîrkêlôs_ (an olive tree) |
-| hallowed  | the gods, the sovereign, the founder of a house, the great river, the gold coin, and anything consecrated | _ulthâs_ (a god), _ôrzâs_ (the sovereign), _zêrthâs_ (a founder)   |
+| Gender    | What takes it                                                                                             | Examples                                                              |
+| --------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| neuter    | things, tools, beasts of burden, children not yet of age, and slaves                                      | _thrâkhon_ (a slave), _nûrizon_ (a child), _zaron_ (an oath)          |
+| masculine | most words of class II and many of class III, persons and offices among them                              | _thelmôs_ (a client), _kalmêthar_ (an ancestor)                       |
+| feminine  | most words of class I and class V, and some trees of class II                                             | _vêrôsâ_ (a citizen), _dôrthênê_ (a line), _pîrkêlôs_ (an olive tree) |
+| hallowed  | the gods, the sovereign, the founder of a house, the great river, the gold coin, and anything consecrated | _ulthâs_ (a god), _ôrzâs_ (the sovereign), _zêrthâs_ (a founder)      |
 
 The hallowed gender has no sex. A god and a goddess decline alike, and so do an emperor and an empress, both _ôrzâs_. It has no dual either, since nothing hallowed is counted in pairs.
 
@@ -362,7 +362,7 @@ The vocabulary of the faith is the vocabulary of an institution. The imperial cu
 | `hôlzathôs`    | `hôlzathôs`    | n II m  | a high priest; the first among the priests of a god          | —                     | —                                    |
 | `zalvon`       | `dhalwon`      | n II n  | the worship of the state; the imperial cult                  | —                     | —                                    |
 | `thêlzimâ`     | `thêlzimâ`     | n I f   | a rite; anything done for a god in the proper order          | —                     | —                                    |
-| `phelgâ`       | `phelgâ`       | n I f   | a sacrifice; an offering burned                              | —                     | —                                    |
+| `gagekâ`       | `gagekâ`       | n I f   | a sacrifice; an offering burned                              | —                     | —                                    |
 | `kûrzâlis`     | `kûrdhâlis`    | n III f | an altar                                                     | —                     | —                                    |
 | `nêkhaimon`    | `nêkhaimon`    | n II n  | a wayside shrine                                             | —                     | —                                    |
 | `zaron`        | `dharon`       | n II n  | an oath; a binding sworn before a god                        | —                     | [[skill-vylarilng\|Vylari Language]] |
@@ -383,7 +383,7 @@ The vocabulary of the faith is the vocabulary of an institution. The imperial cu
 
 ### Ancestors, the house and the name
 
-A Vylari house keeps its dead in the hall. Each ancestor who held office has a _lâvûrâ_, a wax mask of his face, in a cupboard beside the door, and on a funeral day the masks are worn by living men of the right build so that the whole line walks behind the bier. A line is an _azênê_, and the word means the row of masks as much as the descent it records.
+A Vylari house keeps its dead in the hall. Each ancestor who held office has a _lâvûrâ_, a wax mask of his face, in a cupboard beside the door, and on a funeral day the masks are worn by living men of the right build so that the whole line walks behind the bier. A line is an _dôrthênê_, and the word means the row of masks as much as the descent it records.
 
 The household, _zôrkhâ_, is everyone under one roof and one master: wife, children, freedmen, slaves and the clients who come to the door each morning. Its master, the _zôrkhândôs_, answers for all of them at law and holds a power over his children that ends only at his death. So the words for kin are many and exact, and so is the vocabulary of inheritance: an heir is named in a will, a son may be adopted from another house when a line runs short, and _aipsênâ_ (adoption) is as honorable a way to get an heir as any other. The worst thing that can happen to a name has a word of its own: _nêhârlon_, the unnaming, which strikes a person from every roll and forbids anyone to say the name aloud.
 
@@ -392,7 +392,7 @@ The household, _zôrkhâ_, is everyone under one roof and one master: wife, chil
 | `kalmêthar`   | `kalmêthar`   | n III m | an ancestor; one of the dead a house still counts                    | —                    | [[skill-vylarilng\|Vylari Language]] |
 | `lâvûrâ`      | `lâbûrâ`      | n I f   | an ancestor's face; the wax mask kept in the hall of a house         | —                    | —                                    |
 | `zêrthâs`     | `dhêrthâs`    | n hal   | a founder; the ancestor a house is named for                         | —                    | —                                    |
-| `azênê`       | `azênê`       | n V f   | a line; a lineage traced through the hall's masks                    | —                    | [[skill-vylarilng\|Vylari Language]] |
+| `dôrthênê`    | `dôrthênê`    | n V f   | a line; a lineage traced through the hall's masks                    | —                    | [[skill-vylarilng\|Vylari Language]] |
 | `thêlvarâlon` | `thêlwarâlon` | n II n  | a noble house; a line with a seat in the Senate                      | `thêlvar-` + `-âlon` | —                                    |
 | `zôrkhâ`      | `dhôrkhâ`     | n I f   | a household; everyone under one roof and one master, slaves included | —                    | —                                    |
 | `zôrkhândôs`  | `zôrkhândôs`  | n II m  | the master of a household; the man who answers for everyone in it    | `zôrkh-` + `-ândôs`  | —                                    |
@@ -935,30 +935,178 @@ Ancient Vylari is the mother of five tongues, and the scholars of [[place-orzara
 - [[skill-provnzlng|Provenzal]] lost its cases, made articles of all three pointing words, and turned its consonants soft between vowels.
 - [[skill-tarvenlng|Tarveni]] kept three cases, three genders and the dual, held up by the older mountain speech it settled over.
 
-[[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are Pelwar tongues too, from the eastern branch that never came west, and they stand outside this family. The table below gives some of the roots all five daughters inherited. Each daughter takes the root from a different case—Provenzal from the accusative, the others from the nominative—and changes it by its own rules, which its own lexicon sets out.
+[[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are Pelwar tongues too, from the eastern branch that never came west, and they stand outside this family. The table below sets side by side every root that three or more daughters kept, each in the form its own lexicon gives, and a dash marks a daughter that lost the word. Each daughter takes the root in the case the table below names and changes it by its own rules, which its own lexicon sets out; Élavendri takes it through Áelendi.
 
 ### Daughters
 
-| Daughter  | Lexicon           |
-| --------- | ----------------- |
-| Áelendi   | `doc-aelendlexcn` |
-| Élavendri | `doc-elvndrlexcn` |
-| Provenzal | `doc-provnzlexcn` |
-| Tarveni   | `doc-tarvenlexcn` |
+| Daughter  | Lexicon           | Takes          | Through |
+| --------- | ----------------- | -------------- | ------- |
+| Áelendi   | `doc-aelendlexcn` | the nominative | —       |
+| Élavendri | `doc-elvndrlexcn` | the nominative | Áelendi |
+| Provenzal | `doc-provnzlexcn` | the accusative | —       |
+| Tarveni   | `doc-tarvenlexcn` | the nominative | —       |
 
 ### Cognates
 
-| Imperial   | Ancient      | Áelendi     | Élavendri  | Provenzal | Tarveni   | Gloss         |
-| ---------- | ------------ | ----------- | ---------- | --------- | --------- | ------------- |
-| `zaron`    | `*dharon`    | `dháron`    | `dháron`   | `dàr`     | `dáro`    | an oath       |
-| `prêzâ`    | `*prêdhâ`    | `rêdha`     | `réidha`   | `prèdha`  | `préda`   | peace         |
-| `sôrimâ`   | `*sôrimâ`    | `sôrima`    | `sóurima`  | `sorìma`  | `sórima`  | a song        |
-| `hârlên`   | `*hârlên`    | `ârlên`     | `árlen`    | `arlèn`   | `hárlen`  | a name        |
-| `kôrdû`    | `*kôrdû`     | `kôrdû`     | `kórdë`    | `kòrdhe`  | `kórdu`   | a battle      |
-| `nelâmis`  | `*nelâmis`   | `nélâmis`   | `nélamis`  | `nelàm`   | `nelámis` | snow          |
-| `ûlmêrâ`   | `*ûlmêrâ`    | `ûlmêra`    | `úlmera`   | `ulmèra`  | `ulméra`  | water         |
-| `mêzârâ`   | `*mêdhârâ`   | `mêdhâra`   | `méidhara` | `medhàra` | `medára`  | a mother      |
-| `karâlzon` | `*k'arâlzon` | `k'árâlson` | `káralson` | `karàlze` | `karálzo` | the kept fire |
+| Imperial       | Ancient         | Áelendi        | Élavendri       | Provenzal      | Tarveni        | Gloss                                                           |
+| -------------- | --------------- | -------------- | --------------- | -------------- | -------------- | --------------------------------------------------------------- |
+| `ulthâthen`    | `*ulthâthen`    | `últhathen`    | `últhathen`     | —              | `ultháthen`    | to hallow                                                       |
+| `ulthândon`    | `*ulthândon`    | `últhandon`    | `últhandon`     | `ulthànde`     | `ulthándo`     | a consecration                                                  |
+| `sârkhenândôs` | `*sârkhenândôs` | `sârkhenand`   | `sárhenand`     | `sarchẽànde`   | `sarkhenándo`  | a priest                                                        |
+| `sârkhenândâ`  | `*sârkhenândâ`  | `sârkhenanda`  | `sárhenanda`    | `sarchẽànda`   | `sarkhenánda`  | a priestess                                                     |
+| `kûrzâlis`     | `*kûrdhâlis`    | `kûrdhalis`    | `kúrdhalis`     | `kurdhalìs`    | `kurdális`     | an altar                                                        |
+| `nêkhaimon`    | `*nêkhaimon`    | `nêkhaimon`    | `néihaimon`     | `nechàime`     | `nekháimo`     | a wayside shrine                                                |
+| `thôlmezâ`     | `*thôlmezâ`     | `thôlmesa`     | `thólmesa`      | `tolmèza`      | `thólmeza`     | a vow                                                           |
+| `khêlmâron`    | `*khêlmâron`    | `khêlmaron`    | `hélmaron`      | —              | `khelmáro`     | a curse                                                         |
+| `khêlmârthôs`  | `*khêlmârthôs`  | `khêlmarth`    | `hélmarth`      | `chelmàrthe`   | `khelmártho`   | accursed                                                        |
+| `ôzêthândôs`   | `*ôdhêthândôs`  | `ôdhethand`    | `óudhethand`    | `odhethànde`   | —              | a diviner                                                       |
+| `yalthêzâ`     | `*yalthêzâ`     | `álthesa`      | `álthesa`       | `jalthèza`     | —              | a prayer                                                        |
+| `karâlzon`     | `*k'arâlzon`    | `k'áralson`    | `káralson`      | `karàlze`      | `karálzo`      | the kept fire                                                   |
+| `thêlvarâlon`  | `*thêlwarâlon`  | `thêlaralon`   | `théilaralon`   | `telvaràl`     | `thelvarálo`   | a noble house                                                   |
+| `zôrkhândôs`   | `*zôrkhândôs`   | `sôrkhand`     | `sórhand`       | `zorchànde`    | `zorkhándo`    | the master of a household                                       |
+| `sêmrôthôs`    | `*sêmrôthôs`    | `sêmroth`      | `sémroth`       | `semròthe`     | `semrótho`     | a brother                                                       |
+| `sêmrôthâ`     | `*sêmrôthâ`     | `sêmrotha`     | `sémrotha`      | `semròtha`     | `semrótha`     | a sister                                                        |
+| `nûrizon`      | `*nûrizon`      | `nûrison`      | `nýerison`      | —              | `núrizo`       | a child                                                         |
+| `hârlênândis`  | `*hârlênândis`  | `ârlendi`      | `árlendë`       | `arlẽandìs`    | `harlenándis`  | the house name                                                  |
+| `kirâmhârlên`  | `*kirâmhârlên`  | `kíramarlen`   | `kíramarlen`    | `kiramàrle`    | `kiramhárlen`  | an earned name                                                  |
+| `sôrêthândis`  | `*sôrêthândis`  | `sôrethendi`   | `sóurethendë`   | `sorethandìs`  | `sorethándis`  | kin                                                             |
+| `zîrôthâlon`   | `*zîrôthâlon`   | `sîrothalon`   | `shíerothalon`  | `zirothàl`     | —              | precedence                                                      |
+| `zîrôthâthen`  | `*zîrôthâthen`  | `sîrothathen`  | `shíerothathen` | `zirothàthe`   | —              | to place                                                        |
+| `anzîrôthôs`   | `*anzîrôthôs`   | `ánsiroth`     | `ánsiroth`      | `anziròthe`    | `anzirótho`    | unplaced                                                        |
+| `daimêlâ`      | `*daimêlâ`      | `dáimela`      | `dáimela`       | `daimèla`      | `daiméla`      | a patron                                                        |
+| `daimêlâlon`   | `*daimêlâlon`   | `dáimelalon`   | `dáimelalon`    | `daimelàl`     | `daimelálo`    | patronage                                                       |
+| `prâmôlzâ`     | `*prâmôlzâ`     | `râmolsa`      | `ráemolsa`      | `pramòlza`     | —              | the morning call                                                |
+| `ôrphênon`     | `*ôrphênon`     | `ôrenon`       | `óurenon`       | —              | `orhéno`       | a favor                                                         |
+| `ôrphênâthen`  | `*ôrphênâthen`  | `ôrenathen`    | `óurenathen`    | `orfẽàthe`     | `orhenáthen`   | to owe                                                          |
+| `dûmvarâlon`   | `*dûmwarâlon`   | `dûmaralon`    | `dýemaralon`    | `dumvaràl`     | —              | guest-right                                                     |
+| `vêrôsâlon`    | `*wêrôsâlon`    | `êrosalon`     | `éirosalon`     | `verosàl`      | `verosálo`     | citizenship                                                     |
+| `lîskaimâ`     | `*lîskaimâ`     | `lîskaima`     | `lískaima`      | `liskàima`     | —              | manumission                                                     |
+| `kurthândôs`   | `*kurthândôs`   | `kúrthand`     | `kúrthand`      | `kurthànde`    | `kurthándo`    | a senator                                                       |
+| `nâzdis`       | `*nâzdis`       | `nâsdis`       | `násdis`        | `nazdìs`       | `názdis`       | a judgment                                                      |
+| `nâzdâlon`     | `*nâzdâlon`     | `nâsdalon`     | `násdalon`      | `nazdàl`       | —              | a court of law                                                  |
+| `krêzûlâthen`  | `*krêzûlâthen`  | `krêsulathen`  | `kréisulathen`  | `krezulàthe`   | —              | to sue                                                          |
+| `lôzândôs`     | `*lôzândôs`     | `lôsand`       | `lóusand`       | `lozànde`      | `lozándo`      | an advocate                                                     |
+| `sêmnâlis`     | `*sêmnâlis`     | `sêmnalis`     | `sémnalis`      | `semnalìs`     | `semnális`     | a contract                                                      |
+| `thîzârândôs`  | `*thîdhârândôs` | `thîdharand`   | `thíedharand`   | `tidharànde`   | `thidarándo`   | a keeper of seals                                               |
+| `zâktêlâ`      | `*dhâktêlâ`     | `dhâktela`     | `dháktela`      | `daktèla`      | `daktéla`      | a charter                                                       |
+| `kûthrêzâ`     | `*kûthrêzâ`     | `kûthresa`     | `chýethresa`    | `kuthrèza`     | `kuthréza`     | a penalty                                                       |
+| `zamôlis`      | `*dhamôlis`     | `dhámolis`     | `dhámolis`      | `damolìs`      | `damólis`      | guilt                                                           |
+| `phrênkhon`    | `*phrênkhon`    | `rênkhon`      | `rénhon`        | `frènche`      | —              | property                                                        |
+| `vênthôdis`    | `*wênthôdis`    | `ênthodis`     | `énthodhis`     | `venthodhìs`   | `venthódis`    | exile                                                           |
+| `ôrzâthen`     | `*ôrzâthen`     | `ôrsathen`     | `órsathen`      | `orzàthe`      | `orzáthen`     | to rule                                                         |
+| `kurthêmâ`     | `*kurthêmâ`     | `kúrthema`     | `kúrthema`      | `kurthèma`     | `kurthéma`     | the Senate                                                      |
+| `zilmârâ`      | `*dhilmârâ`     | `dhílmara`     | `dhílmara`      | `dilmàra`      | `dilmára`      | a vote                                                          |
+| `kharêzâthen`  | `*kharêzâthen`  | `kháresathen`  | `háresathen`    | `charezàthe`   | —              | to see to                                                       |
+| `kharêzândôs`  | `*kharêzândôs`  | `kháresand`    | `háresand`      | `charezànde`   | `kharezándo`   | a steward                                                       |
+| `phêlzâthen`   | `*phêlzâthen`   | `êlsathen`     | `élsathen`      | `felzàthe`     | —              | to send                                                         |
+| `thaurândôs`   | `*thaurândôs`   | `tháurand`     | `tháurand`      | `taurànde`     | `thaurándo`    | a guardsman                                                     |
+| `kôrdâthen`    | `*kôrdâthen`    | `kôrdathen`    | `kórdathen`     | —              | `kordáthen`    | to fight                                                        |
+| `thrâmezândôs` | `*thrâmezândôs` | `thrâmesand`   | `thráemesand`   | —              | `thramezándo`  | a legionary                                                     |
+| `tâkhêzândôs`  | `*tâkhêzândôs`  | `tâkhesand`    | `táehesand`     | `tachezànde`   | `takhezándo`   | a centurion                                                     |
+| `zûrgalis`     | `*dhûrgalis`    | `dhûrgalis`    | `dhúrgalis`     | `durvalìs`     | `dúrgalis`     | a camp                                                          |
+| `khâdzimon`    | `*khâdzimon`    | `khâdsimon`    | `hádsimon`      | `chadzìme`     | `khádzimo`     | a sword                                                         |
+| `grêtalâ`      | `*ghrêtalâ`     | `ghrêtala`     | `gréidala`      | `gredàla`      | `grédala`      | a spear                                                         |
+| `gûlmândôs`    | `*ghûlmândôs`   | `ghûlmand`     | `gúlmand`       | `gulmànde`     | `gulmándo`     | a horseman                                                      |
+| `thrûmâthen`   | `*thrûmâthen`   | `thrûmathen`   | `thrýemathen`   | `trumàthe`     | `thrumáthen`   | to lead                                                         |
+| `thrûmar`      | `*thrûmar`      | `thrûmar`      | `thrýemar`      | `trumàr`       | `thrúmar`      | a general                                                       |
+| `thûrgezon`    | `*thûrgezon`    | `thûrgeson`    | `thúrgeson`     | `turvèze`      | `thúrgezo`     | a siege                                                         |
+| `grûmezâ`      | `*grûmezâ`      | `grûmesa`      | `grýemesa`      | `grumèza`      | `grúmeza`      | war                                                             |
+| `gûlmezâ`      | `*gûlmezâ`      | `gûlmesa`      | `gúlmesa`       | `gulmèza`      | `gúlmeza`      | a troop of horse                                                |
+| `gaimelâ`      | `*gaimelâ`      | `gáimela`      | `gáimela`       | `gaimèla`      | `gáimela`      | a bow                                                           |
+| `thîrûthrimâ`  | `*thîrûthrimâ`  | `thîruthrima`  | `thíeruthrima`  | `tiruthrìma`   | `thirúthrima`  | the hallowed boundary of a city, inside which no legion marches |
+| `rêmbâlis`     | `*rêmbâlis`     | `rêmalis`      | `réimalis`      | `rembalìs`     | `rembális`     | a square                                                        |
+| `dôrkimâ`      | `*dôrkimâ`      | `dôrkima`      | `dórkima`       | `dorvìma`      | `dórkima`      | a column                                                        |
+| `ûlmêrâ`       | `*ûlmêrâ`       | `ûlmera`       | `úlmera`        | `ulmèra`       | `ulméra`       | water                                                           |
+| `ûlmêrpôzêrâ`  | `*ûlmêrpôdhêrâ` | `ûlmerodhera`  | `úlmerodhera`   | `ulmervodhèra` | `ulmerpodéra`  | an aqueduct                                                     |
+| `zûmbezon`     | `*dhûmbezon`    | `dhûmeson`     | `dhýemeson`     | `dumbèze`      | `dúmbezo`      | a cistern                                                       |
+| `sôzrâkis`     | `*sôdhrâkis`    | `sôdhrakis`    | `sóudhragis`    | `sodhravìs`    | `sodrágis`     | a drain                                                         |
+| `kômrêlâ`      | `*kômrêlâ`      | `kômrela`      | `kómrela`       | `komrèla`      | `komréla`      | a villa                                                         |
+| `kômrêlâlon`   | `*kômrêlâlon`   | `kômrelalon`   | `kómrelalon`    | `komrelàl`     | `komrelálo`    | an estate                                                       |
+| `râthaunâ`     | `*râthaunâ`     | `râthauna`     | `ráethauna`     | —              | `ratháuna`     | a racecourse                                                    |
+| `pâlthôkis`    | `*pâlthôkis`    | `âlthokis`     | `álthogis`      | `palthovìs`    | `palthógis`    | a brick                                                         |
+| `khâlmezar`    | `*khâlmezar`    | `khâlmesar`    | `hálmesar`      | `chalmezàr`    | `khálmezar`    | marble                                                          |
+| `grûmbâlon`    | `*grûmbâlon`    | `grûmalon`     | `grýemalon`     | `grumbàl`      | `grumbálo`     | a quarry                                                        |
+| `ithrôlâ`      | `*ithrôlâ`      | `íthrola`      | `íthrola`       | `ithròla`      | `ithróla`      | a lamp                                                          |
+| `sêlkhôrâ`     | `*sêlkhôrâ`     | `sêlkhora`     | `sélhora`       | `selchòra`     | `selkhóra`     | a granary                                                       |
+| `hûmelthâthen` | `*hûmelthâthen` | `ûmelthathen`  | `ýemelthathen`  | `umelthàthe`   | —              | to rest                                                         |
+| `kêlthâthen`   | `*kêlthâthen`   | `kêlthathen`   | `kélthathen`    | `kelthàthe`    | —              | to keep a secret                                                |
+| `gârtêmâ`      | `*ghârtêmâ`     | `ghârtema`     | `gártema`       | `gardèma`      | `gartéma`      | a bench                                                         |
+| `gârtândôs`    | `*ghârtândôs`   | `ghârtand`     | `gártand`       | `gardànde`     | —              | a master                                                        |
+| `thûmbalis`    | `*thûmbalis`    | `thûmalis`     | `thýemalis`     | `tumbalìs`     | `thúmbalis`    | a forge                                                         |
+| `thalbêzon`    | `*thalbêzon`    | `tháleson`     | `tháleson`      | `talvèze`      | `thalbézo`     | steel                                                           |
+| `râdzimon`     | `*râdzimon`     | `râdsimon`     | `rádsimon`      | `radzìme`      | `rádzimo`      | copper                                                          |
+| `elthêzon`     | `*elthêzon`     | `éltheson`     | `éltheson`      | `elthèze`      | `elthézo`      | gold                                                            |
+| `ankhrâzon`    | `*ankhrâzon`    | `ánkhrason`    | `ánhrason`      | `anchràze`     | `ankhrázo`     | silver                                                          |
+| `thûrdimon`    | `*thûrdimon`    | `thûrdimon`    | `thúrdimon`     | `turdhìme`     | `thúrdimo`     | bronze                                                          |
+| `mâlkhezâ`     | `*mâlkhezâ`     | `mâlkhesa`     | `málhesa`       | `malchèza`     | `málkheza`     | a hammer                                                        |
+| `tâmbândon`    | `*tâmbândon`    | `tâmandon`     | `táemandon`     | `tambànde`     | `tambándo`     | a work                                                          |
+| `vêrdâkis`     | `*wêrdâkis`     | `êrdakis`      | `érdagis`       | `verdhavìs`    | `verdágis`     | a price                                                         |
+| `khezilon`     | `*khezilon`     | `khésilon`     | `hésilon`       | —              | `khiézilo`     | a wedge                                                         |
+| `sôlkimon`     | `*sôlkimon`     | `sôlkimon`     | `sólkimon`      | —              | `sólkimo`      | a weight                                                        |
+| `thrâdinâ`     | `*thrâdinâ`     | `thrâdina`     | `thráedhina`    | —              | `thrádina`     | a scale                                                         |
+| `yênthizon`    | `*yênthizon`    | `ênthison`     | `énthison`      | `jenthìze`     | `énthizo`      | wine                                                            |
+| `thrêmûzis`    | `*thrêmûzis`    | `thrêmusis`    | `thréimusis`    | `tremuzìs`     | `thremúzis`    | salt                                                            |
+| `yôrmâlis`     | `*yôrmâlis`     | `ôrmalis`      | `órmalis`       | `jormalìs`     | `ormális`      | land                                                            |
+| `pôlthâmis`    | `*pôlthâmis`    | `ôlthamis`     | `ólthamis`      | `polthamìs`    | `polthámis`    | a field                                                         |
+| `khôlsâmâ`     | `*khôlsâmâ`     | `khôlsama`     | `hólsama`       | `cholsàma`     | `kholsáma`     | a harvest                                                       |
+| `khêdrîlis`    | `*khêdrîlis`    | `khêdrilis`    | `héidrilis`     | `chedrilìs`    | `khedrílis`    | a sheep                                                         |
+| `vîlarâs`      | `*wîlarâs`      | `îlaras`       | `íelaras`       | `vilarànde`    | —              | the great river                                                 |
+| `thôlmârâ`     | `*thôlmârâ`     | `thôlmara`     | `thólmara`      | `tolmàra`      | `tholmára`     | a lake                                                          |
+| `nêbrâlis`     | `*nêbrâlis`     | `nêralis`      | `néiralis`      | `nebralìs`     | `nebrális`     | a valley                                                        |
+| `kâldrêmâ`     | `*kâldrêmâ`     | `kâldrema`     | `káldrema`      | `kaldrèma`     | `kaldréma`     | a wood                                                          |
+| `nelâmis`      | `*nelâmis`      | `nélamis`      | `nélamis`       | `nelamìs`      | `nelámis`      | snow                                                            |
+| `kôrvâthis`    | `*kôrwâthis`    | `kôrathis`     | `kóurathis`     | `korvathìs`    | `korváthis`    | the sun                                                         |
+| `yâlzêmis`     | `*yâlzêmis`     | `âlsemis`      | `álsemis`       | `jalzemìs`     | `alzémis`      | the moon                                                        |
+| `ilthêrâ`      | `*ilthêrâ`      | `ílthera`      | `ílthera`       | `ilthèra`      | `ilthéra`      | a star                                                          |
+| `thêrsôlis`    | `*thêrsôlis`    | `thêrsolis`    | `thérsolis`     | `tersolìs`     | `thersólis`    | an island                                                       |
+| `brûzâmis`     | `*brûdhâmis`    | `rûdhamis`     | `rýedhamis`     | `brudhamìs`    | `brudámis`     | blood                                                           |
+| `kalmêthâthen` | `*kalmêthâthen` | `kálmethathen` | `kálmethathen`  | `kalmethàthe`  | `kalmetháthen` | to go to the ancestors                                          |
+| `rîthezon`     | `*rîthezon`     | `rîtheson`     | `ríetheson`     | `rithèze`      | `ríthezo`      | a wound                                                         |
+| `rîthezândôs`  | `*rîthezândôs`  | `rîthesand`    | `ríethesand`    | `rithezànde`   | `rithezándo`   | a physician                                                     |
+| `zêmrôlon`     | `*dhêmrôlon`    | `dhêmrolon`    | `dhémrolon`     | `demròl`       | `demrólo`      | a tomb                                                          |
+| `zêmrôlâra`    | `*dhêmrôlâra`   | `dhêmrolara`   | `dhémrolara`    | `demrolàra`    | `demrolára`    | a city of the dead                                              |
+| `ôltrêmâ`      | `*ôltrêmâ`      | `ôltrema`      | `óltrema`       | `oltrèma`      | `oltréma`      | a month                                                         |
+| `nelâmezâ`     | `*nelâmezâ`     | `nélamesa`     | `nélamesa`      | `nelamèza`     | `nelámeza`     | winter                                                          |
+| `lôrdêmon`     | `*lôrdêmon`     | `lôrdemon`     | `lórdemon`      | `lordhème`     | `lordémo`      | a festival                                                      |
+| `zêrthâzis`    | `*zêrthâzis`    | `sêrthasis`    | `sérthasis`     | `zerthazìs`    | `zertházis`    | the founding                                                    |
+| `sôrimâthen`   | `*sôrimâthen`   | `sôrimathen`   | `sóurimathen`   | `sorimàthe`    | `sorimáthen`   | to sing                                                         |
+| `sôrimândôs`   | `*sôrimândôs`   | `sôrimand`     | `sóurimand`     | `sorimànde`    | —              | a poet                                                          |
+| `dôkhâthen`    | `*dôkhâthen`    | `dôkhathen`    | `dóuhathen`     | —              | `dokháthen`    | to speak                                                        |
+| `dôkhêmon`     | `*dôkhêmon`     | `dôkhemon`     | `dóuhemon`      | `dochème`      | `dokhémo`      | an oration                                                      |
+| `thârlêmâ`     | `*thârlêmâ`     | `thârlema`     | `thárlema`      | `tarlèma`      | `tharléma`     | a tongue                                                        |
+| `lâmbizon`     | `*lâmbizon`     | `lâmison`      | `láemison`      | `lambìze`      | —              | a word                                                          |
+| `sêmarzon`     | `*sêmarzon`     | `sêmarson`     | `shéimarson`    | `semàrze`      | `semárzo`      | a letter                                                        |
+| `mârendis`     | `*mârendis`     | `mârendis`     | `máerendis`     | `marendìs`     | `maréndis`     | wisdom                                                          |
+| `mârendâlon`   | `*mârendâlon`   | `mârendalon`   | `máerendalon`   | `marendàl`     | —              | a school                                                        |
+| `mârendândôs`  | `*mârendândôs`  | `mârendand`    | `máerendand`    | `marendànde`   | —              | a master                                                        |
+| `khezdâthen`   | `*khezdâthen`   | `khésdathen`   | `hésdathen`     | `chezdàthe`    | `khezdáthen`   | to know                                                         |
+| `lôrêzâthen`   | `*lôrêzâthen`   | `lôresathen`   | `lóuresathen`   | `lorezàthe`    | —              | to read aloud                                                   |
+| `ôlzêmon`      | `*ôldhêmon`     | `ôldhemon`     | `óldhemon`      | —              | `oldémo`       | a history                                                       |
+| `thôrdimâ`     | `*thôrdimâ`     | `thôrdima`     | `thórdima`      | `tordhìma`     | `thórdima`     | magic                                                           |
+| `thôrdimândôs` | `*thôrdimândôs` | `thôrdimand`   | `thórdimand`    | `tordhimànde`  | `thordimándo`  | a mage                                                          |
+| `dôrândar`     | `*dôrândar`     | `dôrandar`     | `dóurandar`     | `dorandàr`     | `dorándar`     | enduring                                                        |
+| `lôkhâthen`    | `*lôkhâthen`    | `lôkhathen`    | `lóuhathen`     | —              | `lokháthen`    | to come                                                         |
+| `tîgâthen`     | `*tîgâthen`     | `tîgathen`     | `tíegathen`     | —              | `tigáthen`     | to go                                                           |
+| `ôkhêthen`     | `*ôkhêthen`     | `ôkhethen`     | `óuhethen`      | —              | `okhéthen`     | to see                                                          |
+| `daimâthen`    | `*daimâthen`    | `dáimathen`    | `dáimathen`     | `daimàthe`     | `daimáthen`    | to give                                                         |
+| `lôzêthen`     | `*lôzêthen`     | `lôsethen`     | `lóusethen`     | `lozèthe`      | `lozéthen`     | to carry                                                        |
+| `nêmbethen`    | `*nêmbethen`    | `nêmethen`     | `néimethen`     | `nembèthe`     | `némbethen`    | to fall                                                         |
+| `ûrzîthen`     | `*ûrzîthen`     | `ûrsithen`     | `úrsithen`      | —              | `urzíthen`     | to rise                                                         |
+| `gaurâthen`    | `*ghaurâthen`   | `gháurathen`   | `gáurathen`     | `gauràthe`     | `gauráthen`    | to build                                                        |
+| `thaurâthen`   | `*thaurâthen`   | `tháurathen`   | `tháurathen`    | `tauràthe`     | `thauráthen`   | to keep                                                         |
+| `thêrnâthen`   | `*thêrnâthen`   | `thêrnathen`   | `thérnathen`    | `ternàthe`     | `thernáthen`   | to live                                                         |
+| `phêlzûr`      | `*phêlzûr`      | `êlsur`        | `élsur`         | `felzùr`       | `hélzur`       | four                                                            |
+| `yôlemix`      | `*yôlemix`      | `ôlemiks`      | `óulemiks`      | `jolemìs`      | `ólemiks`      | five                                                            |
+| `ranêthûr`     | `*ranêthûr`     | `ránethur`     | `ránethur`      | `rãethùr`      | `ranéthur`     | seven                                                           |
+| `zôrimax`      | `*zôrimax`      | `sôrimaks`     | `sóurimaks`     | `zorimàs`      | `zórimaks`     | eight                                                           |
+| `dôrêkhis`     | `*dôrêkhis`     | `dôrekhis`     | `dóurehis`      | `dorechìs`     | `dorékhis`     | twelve                                                          |
+| `thâmbezûr`    | `*thâmbezûr`    | `thâmesur`     | `tháemesur`     | `tambezùr`     | `thámbezur`    | a thousand                                                      |
+| `ên`           | `*ên`           | `ên`           | `én`            | `è`            | `en`           | I                                                               |
+| `khô`          | `*khô`          | `khô`          | —               | `chò`          | `kho`          | you, one person                                                 |
+| `ul`           | `*ul`           | `ul`           | `úl`            | `ùl`           | —              | and                                                             |
+| `ar`           | `*ar`           | `ar`           | `ár`            | `àr`           | —              | not                                                             |
+| `îr`           | `*îr`           | `îr`           | `ír`            | `ìr`           | —              | in, into                                                        |
+| `ûs`           | `*ûs`           | `ûs`           | `ús`            | `ùs`           | —              | over                                                            |
 
 ## Attested names
 
@@ -979,6 +1127,7 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | Name                                           | Notes                                                                                                                                                                                                                                                                                           | Tongue          | Built from                              |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------------------------------------- |
 | **Ordo Arcanis**                               | [[affiliation-ordoarcanis\|Ordo Arcanis]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
+| **Rêvôthar Bàremzâtôr**                        | [[being-rvthrbrmztr\|Rêvôthar Bàremzâtôr]]                                                                                                                                                                                                                                                      | `vylari`        | —                                       |
 | **The Order**                                  | [[affiliation-ordoarcanis\|Ordo Arcanis]]                                                                                                                                                                                                                                                       | `translation`   | —                                       |
 | **Initiati**                                   | [[affiliation-ordoarcanis\|Ordo Arcanis]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
 | **Discipuli**                                  | [[affiliation-ordoarcanis\|Ordo Arcanis]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
@@ -1140,8 +1289,7 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | **Bràzenlâs Vânamyês**                         | [[being-brznlsvnmys\|Bràzenlâs Vânamyês]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
 | **Chéagan Zêrâzêndis**                         | [[being-chgnzrznds\|Chéagan Zêrâzêndis]]                                                                                                                                                                                                                                                        | `vylari`        | —                                       |
 | **Dékêla Bàremzâtês**                          | [[being-deklbrmzts\|Dékêla Bàremzâtês]]                                                                                                                                                                                                                                                         | `vylari`        | —                                       |
-| **Émmanîôs Bàremzâtôr**                        | [[being-emnsbrmztr\|Émmanîôs Bàremzâtôr]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
-| **Reslâva Aiden Greenfield**                   | [[being-emnsbrmztr\|Émmanîôs Bàremzâtôr]]                                                                                                                                                                                                                                                       | `other`         | —                                       |
+| **Reslâva Aiden Greenfield**                   | [[being-rvthrbrmztr\|Rêvôthar Bàremzâtôr]]                                                                                                                                                                                                                                                      | `other`         | —                                       |
 | **Garlîndris Korâzênis**                       | [[being-grlndrskrzns\|Garlîndris Korâzênis]]                                                                                                                                                                                                                                                    | `vylari`        | —                                       |
 | **Sir Cedric Loudvale**                        | [[being-grlndrskrzns\|Garlîndris Korâzênis]]                                                                                                                                                                                                                                                    | `other`         | —                                       |
 | **Gorâzendîs Bârês**                           | [[being-gorzndsbrs\|Gorâzendîs Bârês]]                                                                                                                                                                                                                                                          | `vylari`        | —                                       |
@@ -1366,21 +1514,50 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 
 A retired name is one the setting does not write: a name from Earth, or a form the rules refuse. Each stands below with the name written in its place, and no page writes it, however accented. A literature note quotes its work in the work's own words and a poem keeps its own, so a retired name may stand in either, and a `terran_analog` comment names the Earth source on purpose.
 
-| Retired                | Written instead     | Why                                          |
-| ---------------------- | ------------------- | -------------------------------------------- |
-| `Murkas`               | `Pôzêrândi`         | a month named with an echo of an Earth god   |
-| `Vulcar`               | `Thûmbândi`         | a month named with an echo of an Earth god   |
-| `Venuris`              | `Elthêzândi`        | a month named with an echo of an Earth god   |
-| `Thanaris`             | `Kalmêthândi`       | a month named with an echo of an Earth god   |
-| `Aetheris`             | `Zûnêlândi`         | a month named with an echo of an Earth god   |
-| `Janar`                | `Kâlpêzândi`        | a month named with an echo of an Earth god   |
-| `Pantheon Aurèldiānum` | `Sârkhenâ Dôrêkhis` | the name of an Earth temple                  |
-| `Magnápolis`           | `Ôrzâra`            | a Greek-shaped name for a great city         |
-| `Magnápolitan`         | `Ôrzâran`           | a Greek-shaped demonym                       |
-| `Magnápolitans`        | `Ôrzârans`          | a Greek-shaped demonym                       |
-| `Vald`                 | `Sâlkhâlon`         | a Norse-shaped name for an imperial province |
-| `Valdian`              | —                   | a Norse-shaped demonym                       |
-| `Saltholm`             | `Thrêmûzâra`        | a place of Earth                             |
-| `Solheim`              | `Kûrzâlôra`         | a place of Earth                             |
-| `Korsvik`              | `Thôlkezôra`        | a Norse-shaped name for an imperial town     |
-| `Ostvar`               | `Vôlkhêmâra`        | a Norse-shaped name for an imperial town     |
+| Retired                | Written instead     | Why                                                       |
+| ---------------------- | ------------------- | --------------------------------------------------------- |
+| `Murkas`               | `Pôzêrândi`         | a month named with an echo of an Earth god                |
+| `Vulcar`               | `Thûmbândi`         | a month named with an echo of an Earth god                |
+| `Venuris`              | `Elthêzândi`        | a month named with an echo of an Earth god                |
+| `Thanaris`             | `Kalmêthândi`       | a month named with an echo of an Earth god                |
+| `Aetheris`             | `Zûnêlândi`         | a month named with an echo of an Earth god                |
+| `Janar`                | `Kâlpêzândi`        | a month named with an echo of an Earth god                |
+| `Pantheon Aurèldiānum` | `Sârkhenâ Dôrêkhis` | the name of an Earth temple                               |
+| `Magnápolis`           | `Ôrzâra`            | a Greek-shaped name for a great city                      |
+| `Magnápolitan`         | `Ôrzâran`           | a Greek-shaped demonym                                    |
+| `Magnápolitans`        | `Ôrzârans`          | a Greek-shaped demonym                                    |
+| `Vald`                 | `Sâlkhâlon`         | a Norse-shaped name for an imperial province              |
+| `Valdian`              | —                   | a Norse-shaped demonym                                    |
+| `Saltholm`             | `Thrêmûzâra`        | a place of Earth                                          |
+| `Solheim`              | `Kûrzâlôra`         | a place of Earth                                          |
+| `Korsvik`              | `Thôlkezôra`        | a Norse-shaped name for an imperial town                  |
+| `Ostvar`               | `Vôlkhêmâra`        | a Norse-shaped name for an imperial town                  |
+| `Zârâ`                 | `Elthêzâ`           | an Earth personal name, in the name lists                 |
+| `Nîkôlaos`             | `Kirâmar`           | an Earth personal name, in the name lists                 |
+| `Émmanîôs`             | `Rêvôthar`          | an Earth personal name, in the name lists and a character |
+| `Makârîos`             | `Hôlimar`           | an Earth personal name, in the name lists                 |
+| `Martýnos`             | `Mêlvaren`          | an Earth personal name, in the name lists                 |
+| `Patríkês`             | `Têrêmis`           | an Earth personal name, in the name lists                 |
+| `Nestôres`             | `Ânkhêlis`          | an Earth personal name, in the name lists                 |
+| `Básilarôs`            | `Ilthêrôs`          | an Earth personal name, in the name lists                 |
+| `Záchârês`             | `Zêtimar`           | an Earth personal name, in the name lists                 |
+| `Pàrthênios`           | `Pêlêrar`           | an Earth personal name, in the name lists                 |
+| `Xántheiôs`            | `Elthêzen`          | an Earth personal name, in the name lists                 |
+| `Élektòrís`            | `Dôrânden`          | an Earth personal name, in the name lists                 |
+| `Kaprôs`               | `Nîzêlar`           | an Earth word, in the name lists                          |
+| `Màrkîs`               | `Sôltêris`          | an Earth personal name, in the name lists                 |
+| `Armánês`              | `Ôrthêmar`          | an Earth personal name, in the name lists                 |
+| `Fûria`                | `Kirâmis`           | an Earth word, in the name lists                          |
+| `Lànâ`                 | `Mêlvarê`           | an Earth personal name, in the name lists                 |
+| `Nàdîma`               | `Sôltêrâ`           | an Earth personal name, in the name lists                 |
+| `Carâ`                 | `Pêlêren`           | an Earth personal name, in the name lists                 |
+| `Chârâ`                | `Ânkhêlen`          | an Earth personal name, in the name lists                 |
+| `Lôrâ`                 | `Têrêmen`           | an Earth personal name, in the name lists                 |
+| `Shânâ`                | `Sôlkimen`          | an Earth personal name, in the name lists                 |
+| `Tôrâ`                 | `Rêvôthis`          | an Earth personal name, in the name lists                 |
+| `Vêdâ`                 | `Hôlimis`           | an Earth personal name, in the name lists                 |
+| `Yânâ`                 | `Ôrthêmê`           | an Earth personal name, in the name lists                 |
+| `Kôrâ`                 | `Nîzêlis`           | an Earth personal name, in the name lists                 |
+| `Hârâ`                 | `Zêtimis`           | an Earth personal name, in the name lists                 |
+| `Haremâ`               | `Ôrthêmis`          | an Earth word, in the name lists                          |
+| `Silvain`              | `Sóurimael`         | an Earth word, an Élavendri village                       |

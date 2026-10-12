@@ -51,7 +51,7 @@ The whole region holds perhaps **fifty thousand Grukar**, which surprises everyo
 
 They are foragers—hunters, trappers, fishers, gatherers of what the marshes give—and forager
 densities are low everywhere. Grukar densities are lower than human ones, because a Grukar tribe converts
-food into warriors at a rate no human band attempts: a Hai clutch is an enormous quantity of meat, and
+food into warriors at a rate no human band attempts: a Hushk clutch is an enormous quantity of meat, and
 the dosing cannot outrun the larder. Fifty thousand spread through the forests and marshes on either side of Velanthia's western border means
 tribes of a few hundred to a couple of thousand, and a raiding party of dozens.
 
@@ -65,7 +65,7 @@ ferocity in Grukarholm. There is a permanent, structural shortage of **concentra
 
 ## Peoples and Culture
 
-The region holds about fifty thousand [[lore-grukarfolk|Grukar]] in many separate tribes, each centered on one fertile [[being-grkrahk|Ahk]]. The Ahk chooses which caste each clutch becomes. [[being-grukaruk|Uk]] work and fight with what they know at hatching; [[being-grkrh|Hai]] learn from battle; [[being-grkrsh|Sha]] can plan beyond the next fight and carry an idea back to the nest. None of those differences creates a ruler over another tribe. A nest's stores, watch paths and spawn-chamber belong to that tribe alone.
+The region holds about fifty thousand [[lore-grukarfolk|Grukar]] in many separate tribes, each centered on one fertile [[being-grkrahk|Ahk]]. The Ahk chooses which caste each clutch becomes. [[being-grukaruk|Uk]] work and fight with what they know at hatching; [[being-grkrhshk|Hushk]] learn from battle; [[being-grkrsh|Sha]] can plan beyond the next fight and carry an idea back to the nest. None of those differences creates a ruler over another tribe. A nest's stores, watch paths and spawn-chamber belong to that tribe alone.
 
 Humans appear at the margins as hunters, soldiers or fugitives passing through dangerous ground, not as a settled client population of the nests. The Grukar take people in raids and eat them. Human flesh is a delicacy to them; it is distinct from the rite in which an Ahk consumes a Grukar's nervous tissue to pass acquired knowledge into a later clutch. A captured human is not kept as a servant or held for ransom.
 
@@ -75,7 +75,7 @@ No Ahk acknowledges another as a superior, and no tribe can make terms for its n
 
 ## The Frontier Gives Nothing Back
 
-There is no trade, envoy or ransom with a Grukar nest. An Uk cannot learn a bargain; a Hai understands the immediate fight but not the obligation beyond it. Only a Sha can take in an outsider's words, and it uses that knowledge for its own spawner. Hearing a Sha speak is not a parley or a promise of safe passage. No neighbor takes Grukar as slaves either: the Uk cannot be taught new work, the Hai learns only tactics, and a captive Sha would work toward escape.
+There is no trade, envoy or ransom with a Grukar nest. An Uk cannot learn a bargain; a Hushk understands the immediate fight but not the obligation beyond it. Only a Sha can take in an outsider's words, and it uses that knowledge for its own spawner. Hearing a Sha speak is not a parley or a promise of safe passage. No neighbor takes Grukar as slaves either: the Uk cannot be taught new work, the Hushk learns only tactics, and a captive Sha would work toward escape.
 
 The result is a costly frontier without the returns other frontiers offer. No captive can be sold, no captured neighbor bought home, and no market repays the labor of keeping watch. Along [[place-skathwald|Skathwald]], villages store less and spend more on their walls; a path through the nests has no protected stopping place. The account of caste learning, appetite and the Ahk's inheritance rite belongs to the [[lore-grukarfolk|folk note]].
 
@@ -90,7 +90,7 @@ The [[place-nrdlndsrgn|Nordlands]] lie farther west and north, beyond the wester
 ## See Also
 
 - [[lore-grukarfolk|Grukar Folk]]—the castes, inheritance rite and appetite
-- [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrh|Grukar-Hai]]—the three subspecies
+- [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrhshk|Grukar-Hushk]]—the three subspecies
 - [[skill-grukarlng|Grukar Language]]—the Grukar tongue
 - [[place-nrdlndsrgn|Nordlands Region]]—farther west and north
 - [[place-vrystwald|Vrystwald]]—Varokh forest curving around the area

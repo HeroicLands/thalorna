@@ -167,7 +167,7 @@ Where the first word of a compound closes on a vowel and the second opens on the
 | `-os`    | replaces a closing vowel | a man's name of the old stock                                | _Lôthan-_ > _Lôthanos_                                  |
 | `-ês`    | replaces a closing vowel | a man's name of the old stock, or a clan name                | _Bákîn-_ > _Bákînês_                                    |
 | `-a`     | replaces a closing vowel | a woman's name, and the feminine of an adjective             | _kélir-_ > _kélira_, beautiful                          |
-| `-tha`   | replaces a closing vowel | a woman's name of the old stock                              | _Mânî-_ > _Mânîtha_                                     |
+| `-tha`   | replaces a closing vowel | a woman's name of the old stock                              | _Timarî-_ > _Timarîtha_                                 |
 | `-ína`   | replaces a closing vowel | a woman's name on a root in Byzarian                         | _Dôrim-_ > _Dôrimína_                                   |
 | `-ash`   | replaces a closing vowel | a Byzarian man's hybrid name                                 | _Méril-_ > _Mérilash_                                   |
 | `-áhr`   | replaces a closing vowel | a Byzarian man's hybrid name                                 | _Mérit-_ > _Méritáhr_                                   |
@@ -259,7 +259,7 @@ Byzarian lost the breathed consonants of the schools and kept the rasps: _th_ an
 | 4    | `ss` > `s`  | anywhere             |
 | 5    | `os` > `ôs` | at the end of a word |
 
-Bethuan softened every hushing sound to a plain _s_ and kept every breathed one, which is why a hymn in the feminine register is thick with _th_ and empty of _sh_; it took the eastern _f_ as Byzarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island as _-ôs_ and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Hassârîon_ is written _Hasarîon_ in a Bethûan hand, and a temple roll recasts the name on a woman's ending as _Hasarîa_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádhâros_ is said _Jâdhâros_), and a dental _s_ is sometimes heard as _th_ (_Sàbìron_ as _Thàbìron_).
+Bethuan softened every hushing sound to a plain _s_ and kept every breathed one, which is why a hymn in the feminine register is thick with _th_ and empty of _sh_; it took the eastern _f_ as Byzarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island as _-ôs_ and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Wîssâros_ is written _Wîsâros_ in a Bethûan hand, and a temple roll recasts the name on a woman's ending as _Wîsârîa_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádhâros_ is said _Jâdhâros_), and a dental _s_ is sometimes heard as _th_ (_Dókhiron_ as _Thàbìron_).
 
 ## Words
 
@@ -382,7 +382,7 @@ Every Helonic city of note has its academies, its gymnasia and its theaters, and
 | `sphrâdin`    | `n`    | a seal, and the sealed thing                                       | —                          | —                            |
 | `sphrâd-`     | `stem` | to seal                                                            | —                          | —                            |
 | `katálgar`    | `n`    | the roll of citizens                                               | —                          | —                            |
-| `bûlêr`       | `n`    | the council of a city                                              | —                          | —                            |
+| `bûlôrin`     | `n`    | the council of a city                                              | —                          | —                            |
 | `bûlos`       | `n`    | a councillor                                                       | `bûl-` + `-os`             | —                            |
 | `bûl-`        | `stem` | to take counsel                                                    | —                          | —                            |
 | `thêsmir`     | `n`    | the treasury, and the treasurer who keeps it                       | —                          | —                            |
@@ -464,7 +464,7 @@ The household is the one thing all three peoples name alike and rule differently
 | `andáhr`   | `n`    | lord, the master of a house                                                          | —                 | —                            | `helonic` |
 | `dómin`    | `n`    | a house, a household                                                                 | —                 | —                            | `helonic` |
 | `dóm-`     | `stem` | of the house                                                                         | —                 | —                            | `helonic` |
-| `pâthir`   | `n`    | father                                                                               | —                 | —                            | `helonic` |
+| `pârikhor` | `n`    | father                                                                               | —                 | —                            | `helonic` |
 | `mâthîra`  | `n`    | mother                                                                               | —                 | —                            | `helonic` |
 | `mâth-`    | `stem` | of the mother                                                                        | —                 | —                            | `helonic` |
 | `hûyir`    | `n`    | son                                                                                  | —                 | —                            | `helonic` |
@@ -558,13 +558,13 @@ The article is the family's badge: the schools say _ash_, _âsh_ and _ath_ for t
 | `plûm`   | `num`  | all, every; feminine _plûma_, neuter _plûman_; _plûmâ_ all things, _plûmôn_ of all things          | —          | —                            | `helonic`  |
 | `ýn`     | `part` | in; with the dative                                                                                | —          | —                            | `helonic`  |
 | `drês`   | `part` | through; with the accusative                                                                       | —          | —                            | `helonic`  |
-| `pêm`    | `part` | by, beside; with the dative                                                                        | —          | —                            | `helonic`  |
-| `fûn`    | `part` | with; with the dative                                                                              | —          | —                            | `helonic`  |
+| `pêph`   | `part` | by, beside; with the dative                                                                        | —          | —                            | `helonic`  |
+| `phrûn`  | `part` | with; with the dative                                                                              | —          | —                            | `helonic`  |
 | `trôr`   | `part` | before, in front of; with the accusative                                                           | —          | —                            | `helonic`  |
 | `thê`    | `part` | the focus particle, setting a word forward                                                         | —          | —                            | `helonic`  |
 | `neur`   | `part` | not, with a command or a wish                                                                      | —          | —                            | `helonic`  |
 | `ûph`    | `part` | not, with a statement                                                                              | —          | —                            | `helonic`  |
-| `keus`   | `part` | and                                                                                                | —          | —                            | `helonic`  |
+| `koum`   | `part` | and                                                                                                | —          | —                            | `helonic`  |
 | `êgh`    | `pron` | I                                                                                                  | —          | —                            | `helonic`  |
 | `thû`    | `pron` | you                                                                                                | —          | —                            | `helonic`  |
 | `heum`   | `pron` | this                                                                                               | —          | —                            | `helonic`  |
@@ -572,11 +572,11 @@ The article is the family's badge: the schools say _ash_, _âsh_ and _ath_ for t
 | `meun`   | `num`  | one                                                                                                | —          | —                            | `helonic`  |
 | `drýn`   | `num`  | two                                                                                                | —          | —                            | `helonic`  |
 | `trêl`   | `num`  | three                                                                                              | —          | —                            | `helonic`  |
-| `vêsar`  | `num`  | four                                                                                               | —          | —                            | `helonic`  |
+| `vêsmor` | `num`  | four                                                                                               | —          | —                            | `helonic`  |
 | `plêm`   | `num`  | five                                                                                               | —          | —                            | `helonic`  |
 | `zékhor` | `num`  | ten                                                                                                | —          | —                            | `helonic`  |
 | `zhe`    | `part` | the eastern question-marker, and a soft "not"                                                      | —          | —                            | `byzarian` |
-| `vesh`   | `part` | the eastern "there is none", the bazaar's flat no                                                  | —          | —                            | `byzarian` |
+| `vezh`   | `part` | the eastern "there is none", the bazaar's flat no                                                  | —          | —                            | `byzarian` |
 | `tchaz`  | `part` | the eastern emphatic, "indeed"                                                                     | —          | —                            | `byzarian` |
 | `ashô`   | `art`  | the, masculine, in the feminine register, which keeps the old _sh_ in its articles; plural _ashôi_ | —          | —                            | `bethuan`  |
 | `âshê`   | `art`  | the, feminine, in the feminine register; plural _âshai_                                            | —          | —                            | `bethuan`  |
@@ -640,7 +640,6 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Árshazûr**                                     | [[being-arshzrktkls\|Árshazûr Katakálos]]                                                  | `byzarian`    | `ársh-` + `-azûr`                           |
 | **Ashíra**                                       | [[place-ashira\|Ashíra]]                                                                   | `bethuan`     | —                                           |
 | **Athenikos**                                    | [[affiliation-athenikos\|Athenikos]], [[place-athenikos2\|Athenikos]]                      | `helonic`     | —                                           |
-| **Ázîta Râkhrîdês**                              | [[being-azitrkhrds\|Ázîta Râkhrîdês]]                                                      | `helonic`     | —                                           |
 | **Bessarîon**                                    | [[being-dkhhrnbsrn\|Dókhéhran Bessarîon]]                                                  | `byzarian`    | —                                           |
 | **Bethûa Region**                                | [[place-bethuargn\|Bethûa Region]]                                                         | `translation` | —                                           |
 | **Bethûan**                                      | [[lore-bethuanclt\|Bethûan]]                                                               | `translation` | —                                           |
@@ -649,6 +648,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Bethûan Matriarchy**                           | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
 | **Bethuan Word List**                            | [[doc-heloniclexcn\|Helonic Lexicon]]                                                      | `translation` | —                                           |
 | **Bethûra**                                      | [[place-bethura\|Bethûra]]                                                                 | `bethuan`     | —                                           |
+| **Bûlêlon Hâdrîkês**                             | [[being-blnhdrks\|Bûlêlon Hâdrîkês]]                                                       | `helonic`     | —                                           |
 | **Bûlîdês**                                      | [[being-phlndrsbldds\|Philándros Bûlîdês]]                                                 | `byzarian`    | `bûl-` + `-îdês`                            |
 | **Byzaría Region**                               | [[place-byzariargn\|Byzaría Region]]                                                       | `translation` | —                                           |
 | **Byzarian**                                     | [[lore-byzarianclt\|Byzarian]], [[skill-byzarnlng\|Byzarian Language]]                     | `translation` | —                                           |
@@ -667,6 +667,7 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Dámàsûn**                                      | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                                           |
 | **Demétrion Pediníkot**                          | [[being-dmtrnpdnkt\|Demétrion Pediníkot]]                                                  | `byzarian`    | —                                           |
 | **Dókhéhran**                                    | [[being-dkhhrnbsrn\|Dókhéhran Bessarîon]]                                                  | `byzarian`    | `dókh-` + `-éhran`                          |
+| **Dôrashîa Râkhrîdês**                           | [[being-drshrkhrds\|Dôrashîa Râkhrîdês]]                                                   | `helonic`     | —                                           |
 | **Dôrashkâr**                                    | [[being-drshkrplytms\|Dôrashkâr Polytimós]]                                                | `byzarian`    | `dôrash-` + `-kâr`                          |
 | **Drákonis**                                     | [[being-drknsdlsns\|Drákonis Dalássênos]]                                                  | `byzarian`    | —                                           |
 | **Drazha**                                       | [[being-drzhvzhnr\|Drazha Vezhnûr, Knight of the Black Flame]]                             | `byzarian`    | —                                           |
@@ -683,12 +684,12 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Gávrilos**                                     | [[being-gvrlsnktrts\|Gávrilos Niktariôtês]]                                                | `byzarian`    | —                                           |
 | **Ghârîdos Mûrâdês**                             | [[being-ghardsmrds\|Ghârîdos Mûrâdês]]                                                     | `helonic`     | —                                           |
 | **Ghéranira Râfîrôs**                            | [[being-ghrnrrfrs\|Ghéranira Râfîrôs]]                                                     | `helonic`     | `ghéran-` + `-ira` + `râfîr-` + `-ôs`       |
+| **Ghígnaros Mâkîthôn**                           | [[being-ghgnrsmkthn\|Ghígnaros Mâkîthôn]]                                                  | `helonic`     | —                                           |
 | **Ghôlâron**                                     | [[being-damsnghlrn\|Dámàsûn Ghôlâron]]                                                     | `helonic`     | —                                           |
 | **Ghymâráhr**                                    | [[being-ghymrhrptrks\|Ghymâráhr Patrikîos]]                                                | `byzarian`    | `ghymâr-` + `-áhr`                          |
 | **Government of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
 | **Grégoras**                                     | [[being-grgrsphthympls\|Grégoras Ephthymiópoulos]]                                         | `byzarian`    | —                                           |
 | **Habìdon Ghânîdês**                             | [[being-habdnghnds\|Habìdon Ghânîdês]]                                                     | `helonic`     | —                                           |
-| **Hassârìon Khalîthôn**                          | [[being-hsrnkhlthn\|Hassârìon Khalîthôn]]                                                  | `helonic`     | —                                           |
 | **Hélénaia**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                                           |
 | **Heliónis**                                     | [[place-helionis\|Heliónis]]                                                               | `helonic`     | —                                           |
 | **Helionite**                                    | [[lore-helioniteclt\|Helionite]]                                                           | `translation` | —                                           |
@@ -730,6 +731,8 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Marshfeld**                                    | [[place-marshfeld\|Marshfeld]]                                                             | `translation` | —                                           |
 | **Matriarchy of Bethûa**                         | [[affiliation-mtrrchybth\|Matriarchy of Bethûa]]                                           | `translation` | —                                           |
 | **Melissenós**                                   | [[being-aglrmlsns\|Agélâra Melissenós]]                                                    | `byzarian`    | —                                           |
+| **Métrantha Thâmîdon**                           | [[being-mtrnthmdn\|Métrantha Thâmîdon]]                                                    | `helonic`     | —                                           |
+| **Métrimos Thálimîdês**                          | [[being-mtrmsthlmds\|Métrimos Thálimîdês]]                                                 | `helonic`     | —                                           |
 | **Morzáhr**                                      | [[being-morzhrxylkt\|Morzáhr Xylákit]]                                                     | `byzarian`    | `morz-` + `-áhr`                            |
 | **Myrtillos**                                    | [[place-myrtillos\|Myrtillos]]                                                             | `helonic`     | —                                           |
 | **Mystákês**                                     | [[being-helnmystks\|Hélénaia Mystákês]]                                                    | `byzarian`    | —                                           |
@@ -766,15 +769,12 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Rísàkós Ibârìthôs**                            | [[being-risksbrths\|Rísàkós Ibârìthôs]]                                                    | `helonic`     | —                                           |
 | **Sáfêrús Ghôlâris**                             | [[being-safrsghlrs\|Sáfêrús Ghôlâris]]                                                     | `helonic`     | —                                           |
 | **Safîrôn**                                      | [[being-rshrhssfrn\|Rashîra of House Safîrôn]]                                             | `bethuan`     | —                                           |
-| **Sàfîros Râkhmônis**                            | [[being-sfrsrkhmns\|Sàfîros Râkhmônis]]                                                    | `helonic`     | —                                           |
-| **Sahînór Mâkîthôn**                             | [[being-sahnrmkthn\|Sahînór Mâkîthôn]]                                                     | `helonic`     | —                                           |
-| **Sâlimón Hâdrîkês**                             | [[being-salmnhdrks\|Sâlimón Hâdrîkês]]                                                     | `helonic`     | —                                           |
 | **Samarína**                                     | [[being-smrnorenkt\|Samarína Oreiníkot]]                                                   | `byzarian`    | `samar-` + `-ína`                           |
 | **Sampsiôn**                                     | [[being-alykosmpsn\|Alýkos Sampsiôn]], [[being-damklsmpsn\|Damáklios Sampsiôn]]            | `byzarian`    | —                                           |
 | **Sehéla**                                       | [[place-sehela\|Sehéla]]                                                                   | `bethuan`     | —                                           |
 | **Selímara**                                     | [[place-selimara\|Selímara]]                                                               | `byzarian`    | —                                           |
-| **Shárîna Thâmîdon**                             | [[being-sharnthmdn\|Shárîna Thâmîdon]]                                                     | `helonic`     | —                                           |
 | **Siderákit**                                    | [[being-chrysntssdrkt\|Chrysántos Siderákit]]                                              | `byzarian`    | `sider-` + `-ákit`                          |
+| **Sôtharion Khalîthôn**                          | [[being-sthrnkhlthn\|Sôtharion Khalîthôn]]                                                 | `helonic`     | —                                           |
 | **Southern March**                               | [[place-southrnmrch\|Southern March]]                                                      | `translation` | —                                           |
 | **Sphrâdira Tâbîrês**                            | [[being-sphrdrtbrs\|Sphrâdira Tâbîrês]]                                                    | `helonic`     | `sphrâd-` + `-ira` + `tâbîr-` + `-ês`       |
 | **Steníkot**                                     | [[being-phylzstnkt\|Phýléze Steníkot]]                                                     | `byzarian`    | `sten-` + `-íkot`                           |
@@ -878,3 +878,88 @@ A retired name is one the setting does not write: a name from Earth, or a form t
 | `Tàlîma`                      | `Mýrthana`       | an Earth word                                                        |
 | `Thamîrîon`                   | `Kêrvanion`      | built on an Earth morpheme; the Bethûan royal house is Kêrvanion too |
 | `Mahmûdrós`                   | `Ghérvanos`      | built on an Earth name                                               |
+| `Karim`                       | `Agóranash`      | an Earth personal name                                               |
+| `al-Qahir`                    | `Métrákit`       | an Earth personal name                                               |
+| `Halstrom`                    | `Morzazûr`       | an Earth personal name                                               |
+| `Amara`                       | `Kélirâra`       | an Earth personal name                                               |
+| `Safîya`                      | `Pédhîra`        | an Earth personal name, in the name lists                            |
+| `Sâmîa`                       | `Nýkhtîra`       | an Earth personal name, in the name lists                            |
+| `Sàmîra`                      | `Zýghîra`        | an Earth personal name, in the name lists                            |
+| `Zâmîra`                      | `Thérimîra`      | an Earth personal name, in the name lists                            |
+| `Dámìra`                      | `Kîtvârîa`       | an Earth personal name, in the name lists                            |
+| `Lámîa`                       | `Agélîtha`       | an Earth personal name, in the name lists                            |
+| `Mànîsha`                     | `Ghýmarîa`       | an Earth personal name, in the name lists                            |
+| `Fârìs`                       | `Kûmêthis`       | an Earth personal name, in the name lists                            |
+| `Hássànis`                    | `Agélanis`       | an Earth personal name, in the name lists                            |
+| `Hassârìon`                   | `Sôtharion`      | an Earth personal name, in the name lists and a character            |
+| `Bíshârios`                   | `Lékhisos`       | an Earth personal name, in the name lists                            |
+| `Hámûdês`                     | `Mâthimês`       | an Earth personal name, in the name lists                            |
+| `Jábìros`                     | `Nêvarimos`      | an Earth personal name, in the name lists                            |
+| `Khalîdrós`                   | `Krênanos`       | an Earth personal name, in the name lists                            |
+| `Khalìphon`                   | `Phýlanion`      | an Earth personal name, in the name lists                            |
+| `Mazàlos`                     | `Érkhêlos`       | an Earth personal name, in the name lists                            |
+| `Oùssâmon`                    | `Teíkhimon`      | an Earth personal name, in the name lists                            |
+| `Rákhìmês`                    | `Ághranês`       | an Earth personal name, in the name lists                            |
+| `Rómèlios`                    | `Thérimion`      | an Earth personal name, in the name lists                            |
+| `Sábîrês`                     | `Sôthirês`       | an Earth personal name, in the name lists                            |
+| `Sàbìron`                     | `Dókhiron`       | an Earth personal name, in the name lists                            |
+| `Sàfîros`                     | `Métrimos`       | an Earth personal name, in the name lists and a character            |
+| `Sahînór`                     | `Ghígnaros`      | an Earth personal name, in the name lists and a character            |
+| `Sâlimón`                     | `Bûlêlon`        | an Earth personal name, in the name lists and a character            |
+| `Samáron`                     | `Lámbharis`      | an Earth personal name, in the name lists                            |
+| `Sàmános`                     | `Dómêlis`        | an Earth personal name, in the name lists                            |
+| `Sárìnôn`                     | `Timêthos`       | an Earth personal name, in the name lists                            |
+| `Tabîthòs`                    | `Teíkharos`      | an Earth personal name, in the name lists                            |
+| `Tamáròs`                     | `Dókharês`       | an Earth personal name, in the name lists                            |
+| `Tamìnós`                     | `Thérorês`       | an Earth personal name, in the name lists                            |
+| `Tàmîros`                     | `Sphrâdês`       | an Earth personal name, in the name lists                            |
+| `Tarîkón`                     | `Métranon`       | an Earth personal name, in the name lists                            |
+| `Yázîdos`                     | `Zýghanis`       | an Earth personal name, in the name lists                            |
+| `Zàfîran`                     | `Phýlorion`      | an Earth personal name, in the name lists                            |
+| `Íbêrôs`                      | `Adhélimis`      | an Earth personal name, in the name lists                            |
+| `Máḥânês`                     | `Ghymârion`      | an Earth personal name, in the name lists                            |
+| `Ázîta`                       | `Dôrashîa`       | an Earth personal name, in the name lists and a character            |
+| `Bìshâra`                     | `Lékhisara`      | an Earth personal name, in the name lists                            |
+| `Chânîa`                      | `Krênanîa`       | an Earth personal name, in the name lists                            |
+| `Chânîtha`                    | `Pólithra`       | an Earth personal name, in the name lists                            |
+| `Ghâfîra`                     | `Plánthira`      | an Earth personal name, in the name lists                            |
+| `Ghânêsa`                     | `Ghígnana`       | an Earth personal name, in the name lists                            |
+| `Hàssìra`                     | `Órashêla`       | an Earth personal name, in the name lists                            |
+| `Jâmîa`                       | `Pédhimîa`       | an Earth personal name, in the name lists                            |
+| `Jámîna`                      | `Timêlra`        | an Earth personal name, in the name lists                            |
+| `Jûmâra`                      | `Ghymârora`      | an Earth personal name, in the name lists                            |
+| `Kafîra`                      | `Thálimira`      | an Earth personal name, in the name lists                            |
+| `Lamînâ`                      | `Agélirîa`       | an Earth personal name, in the name lists                            |
+| `Lámîtha`                     | `Dôrashana`      | an Earth personal name, in the name lists                            |
+| `Màkrîna`                     | `Métrarîa`       | an Earth personal name, in the name lists                            |
+| `Mánìta`                      | `Nýkhtana`       | an Earth personal name, in the name lists                            |
+| `Mânîtha`                     | `Timarîtha`      | an Earth personal name, in the name lists                            |
+| `Màràtha`                     | `Pólithana`      | an Earth personal name, in the name lists                            |
+| `Nâfîya`                      | `Érkhirîa`       | an Earth personal name, in the name lists                            |
+| `Namîtha`                     | `Dómirtha`       | an Earth personal name, in the name lists                            |
+| `Námîtha`                     | `Agélantha`      | an Earth personal name, in the name lists                            |
+| `Nûfîsa`                      | `Thérirîa`       | an Earth personal name, in the name lists                            |
+| `Râhîna`                      | `Ánevimîa`       | an Earth personal name, in the name lists                            |
+| `Râhmìa`                      | `Krênirtha`      | an Earth personal name, in the name lists                            |
+| `Râkîna`                      | `Lôphirîa`       | an Earth personal name, in the name lists                            |
+| `Rámìla`                      | `Pédhorîa`       | an Earth personal name, in the name lists                            |
+| `Safàra`                      | `Lôphanîa`       | an Earth personal name, in the name lists                            |
+| `Safìra`                      | `Órashima`       | an Earth personal name, in the name lists                            |
+| `Shárîna`                     | `Métrantha`      | an Earth personal name, in the name lists and a character            |
+| `Sûfìtha`                     | `Lôphortha`      | an Earth personal name, in the name lists                            |
+| `Sûlîtha`                     | `Timêthîa`       | an Earth personal name, in the name lists                            |
+| `Tabìna`                      | `Théldimra`      | an Earth personal name, in the name lists                            |
+| `Tádîra`                      | `Órashara`       | an Earth personal name, in the name lists                            |
+| `Tázinâ`                      | `Nêvartha`       | an Earth personal name, in the name lists                            |
+| `Thûnîa`                      | `Dókhimîa`       | an Earth personal name, in the name lists                            |
+| `Yassìna`                     | `Ánevantha`      | an Earth personal name, in the name lists                            |
+| `Yàzîna`                      | `Sôthimîa`       | an Earth personal name, in the name lists                            |
+| `Zàhrîna`                     | `Sôthêlra`       | an Earth personal name, in the name lists                            |
+| `Râkhmônis`                   | `Thálimîdês`     | an Earth personal name, in the clan lists and a character            |
+| `Hàssânis`                    | `Agóranîdês`     | an Earth personal name, in the clan lists                            |
+| `Sâfîrôs`                     | `Dôrashôs`       | an Earth personal name, in the clan lists                            |
+| `Lukás`                       | `Phýlazûr`       | an Earth personal name, the captain of a free company                |
+| `Marcos`                      | `Árshkâr`        | an Earth personal name, the founder of a free company                |
+| `Themiras`                    | `Zýghídek`       | built on an Earth morpheme, the house of two captains                |
+| `Ariana`                      | `Ánevéze`        | an Earth personal name, an officer of a free company                 |
+| `Pelagiou`                    | `Pédhíkot`       | an Earth family name, an officer of a free company                   |

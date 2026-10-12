@@ -3,7 +3,7 @@ shortcode: taruzelrgn
 name: {full: Tarûzel Region, aliases: [Tarûzel]}
 type: place
 subType: region
-description: The Tarûzelian archipelago in the eastern Vylarian Sea, off the coast of the Sultanate of Amradad—five merchant city-states of the Confederation of Tarûzelian States, their islands of harbors, hills and scrub, and the channels between them.
+description: The Tarûzelian archipelago in the eastern Vylarian Sea, off the coast of the Kingdom of Amradad—five merchant city-states of the Confederation of Tarûzelian States, their islands of harbors, hills and scrub, and the channels between them.
 tags: [region]
 data: {demonym: null, lore: [], parents: [midhalnrgn], population: 12000000, packFolder: taruzel}
 
@@ -14,7 +14,7 @@ data: {demonym: null, lore: [], parents: [midhalnrgn], population: 12000000, pac
 
 ## Overview
 
-Tarûzel Region is the archipelago in the eastern [[place-vylarianse|Vylarian Sea]] that lies off the coast of the [[affiliation-sultntmrdd|Sultanate of Amradad]], within [[place-midhalnrgn|Mídhalión Region]]. It is the country of the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]: five merchant city-states that won their independence from the [[affiliation-vylarinmpr|Vylarian Empire]] at sea twelve years ago and are governed, in everything but name, by the guilds that paid for the war. Some twelve million people live here, in great port cities, market towns, fishing villages and the tribal country of the island hills.
+Tarûzel Region is the archipelago in the eastern [[place-vylarianse|Vylarian Sea]] that lies off the coast of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], within [[place-midhalnrgn|Mídhalión Region]]. It is the country of the [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]: five merchant city-states that won their independence from the [[affiliation-vylarinmpr|Vylarian Empire]] at sea twelve years ago and are governed, in everything but name, by the guilds that paid for the war. Some twelve million people live here, in great port cities, market towns, fishing villages and the tribal country of the island hills.
 
 An outsider remembers Tarûzel for its harbors. It is the premier maritime region of western Ankaris, and its ports carry the trade between the Vylarian Sea, the caravan roads of the east and the southern shore of [[affiliation-empireakhlth|Aû'Khelâthu]]; its bazaars, its cooking and its fleets are known in every port of Mídhalión. A newcomer has to be told the other half: the dock workers, fishermen, captains and tribal warriors who won the war were promised land, guild membership, pensions and a voice in the new government, and they received a discharge and a small purse of silver. The islands are free, prosperous and seething.
 
@@ -76,14 +76,14 @@ Across the water to the north-west lies the short coast of [[place-helionis|Heli
 
 To the north, the [[place-byzariargn|Byzaría Region]] of the [[affiliation-byzarianlg|Byzarian League]] reaches the sea along a short stretch of coast beside Heliónis. At sea the League is Tarûzel's great commercial rival, and the Tarûzelian guilds would like to dominate its trade.
 
-To the east, across the strait, lies the Sultanate of Amradad. Tarûzel keeps cordial relations with it: Amradad, long antagonistic to Vylaria, was among those who helped the Tarûzelians win their independence. Beyond the Amradi shore lie the deserts of Dunhara and the Khazryn, whose nomads hold the overland routes the island cities depend on, in a relationship that profits both and is often tense. Across the sea to the south lies the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Tarûzel's most important long-distance partner. Khelâthi gold, weapons and advisors kept the rebellion alive in its desperate first months; the merchant princes deny the debt in public and repay it with preferential trade and reduced harbor fees for Khelâthi ships, and the trade between their ports now runs directly, without Vylarian intermediaries.
+To the east, across the strait, lies the Kingdom of Amradad. Tarûzel keeps cordial relations with it: Amradad, long antagonistic to Vylaria, was among those who helped the Tarûzelians win their independence. Beyond the Amradi shore lie the deserts of Dunhara and the Khazryn, whose nomads hold the overland routes the island cities depend on, in a relationship that profits both and is often tense. Across the sea to the south lies the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]], Tarûzel's most important long-distance partner. Khelâthi gold, weapons and advisors kept the rebellion alive in its desperate first months; the merchant princes deny the debt in public and repay it with preferential trade and reduced harbor fees for Khelâthi ships, and the trade between their ports now runs directly, without Vylarian intermediaries.
 
 ## See Also
 
 - [[affiliation-cnfdrtntrzlnstts|Confederation of Tarûzelian States]]—The polity that holds this land
 - [[place-midhalnrgn|Mídhalión Region]]—The enclosing region
 - [[place-vylariargn|Vylaría Region]]—Sister region on the northern shore
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the mainland across the strait
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the mainland across the strait
 - [[place-vylarianse|Vylarian Sea]]—Tarûzel's maritime domain
 - [[place-besikar2|Besîkar]], [[place-yamuzel2|Yamûzel]], [[place-qudumel2|Qudûmel]], [[place-bazunel2|Bazûnel]], [[place-sazumun2|Sazûmun]]—The cities of the five city-states
 - [[affiliation-auricompct|Auric Compact]], [[affiliation-corsairleg|Corsair League]], [[affiliation-mrchntryvl|Merchantry of the Veil]]—The great guilds

@@ -19,7 +19,7 @@ data:
   population: 3000000
   packFolder: dunhara
 
-# terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Sultanate of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
+# terran_analog: "Jordan, Sinai, the Arabian Peninsula, Iraq, Iran, Turkmenistan, Afghanistan, and Pakistan—the Persian-and-Arabian world. The Kingdom of Amradad occupies the Anatolian-Caucasian northwestern corner; the rest of the region is Bedouin tribal desert through Persianate plateau and Pashtun-Baloch frontier."
 ---
 
 A caravan-master of the southern road, taking on a hired guard from the Vylarian ports, tells him the first rule before they leave the last well: "Eat a man's salt and you are his to protect. Refuse it and you are no one's." The Dunhara Region is the great southern desert of [[place-ankrscntnnt|Ankaris Continent]]—sand seas, rocky mesas, dry riverbeds and hidden oases—running from the eastern shore of the [[place-vylarianse|Vylarian Sea]], opposite the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]], to the foothills below the western end of the [[place-graznmntns|Grazian]] wall, where the desert gives way to the marches of [[place-vedyarargn|Vedyara]]. It is the country of the Dunhari, a confederation of tribes whose caravans carry the southern overland trade, whose poets keep their law in verse, and whose honor code lets people who have every reason to kill each other over water cross the same desert in peace.
@@ -42,7 +42,7 @@ Three customs hold the desert together. **Salt**: a tribe must protect a strange
 
 The poets are the Dunhara's great achievement. Genealogy, history, legal precedent and the terms of every treaty with other tribes and distant empires are kept in verse and handed down by the tribal poets, who are the keepers of law and identity. A poet can recite for days without repeating himself, and composing verse is a mark of nobility. Written records exist and count for little. [[lore-dunhariclt|Dunhari]] sets out the customs in full.
 
-The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Sultanate is sovereign and the tribes are independent, and the arrangement has held for centuries.
+The settled people of Amradad are of Dunhari stock and have grown apart from their cousins. The tribes admire the wealth of the cities and despise the softness of a settled life, and the Amradi return both opinions. The Kingdom is sovereign and the tribes are independent, and the arrangement has held for centuries.
 
 A few [[lore-flkkhazar|Khazári]] halls are rumored in the mountain margins, and now and then a [[lore-flksinale|Sinalë]] traveler is reported. Nobody has counted either, and the stories about both are told around fires, not entered in any register.
 
@@ -58,7 +58,7 @@ The holy places are features of the land: certain oases, rock formations, mesa-t
 
 The desert has no single ruler. Perhaps a dozen great confederations and many smaller tribes share it, each with its sheikh, its warriors, its poets and its circuit. They join against an outside threat and quarrel among themselves the rest of the time, and the balance has held for centuries. The [[affiliation-dunhartrbs|Dunhara Tribes]] describes the confederations and the councils where they meet.
 
-The [[affiliation-sultntmrdd|Sultanate of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary sultan, a standing army and a court modeled on the old cities of the Āsháian faith, and it holds the northwestern corner from the Vylarian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
+The [[affiliation-kngdmmrdd|Kingdom of Amradad]] is the only settled realm of any size. It is a true kingdom, with a hereditary shêbarôr, a standing army and a court modeled on the old cities of the Āsháian faith, and it holds the northwestern corner from the Vylarian shore inland: its walled cities, their oases and the roads between them. Its wealth is out of all proportion to its land, and its influence runs past its borders through trade and through marriages with the sheikhs' houses.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has no footing here. The tribes call it a Vylarian institution with no standing in their country, and the Ordo gave up trying to found chapters long ago. Magic in the Dunhara comes through faith and blood: the mystics, the poets held to be blessed, the storm-cult practitioners and the sheikhs' houses that claim a gift running in the line.
 
@@ -72,7 +72,7 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 
 **West** across the strait from the Amradi shore lie the islands of [[affiliation-cnfdrtntrzlnstts|Tarûzel]]. The ties are old, close and commercial: the Tarûzeli speak a sister tongue to Dunhari and keep the same faith, and the crossing from the Amradi coast to the Tarûzelian ports is the main road between the desert and the Vylarian Sea.
 
-**Northwest**, beyond the Sultanate's border, the [[affiliation-byzarianlg|Byzarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into [[place-heladrgn|Hellád]].
+**Northwest**, beyond the Kingdom's border, the [[affiliation-byzarianlg|Byzarian League]]'s road through its [[place-southrnmrch|Southern March]] carries the caravan trade north into [[place-heladrgn|Hellád]].
 
 **North** lies the [[place-khzryndsrtrgn|Khazryn Desert]]. The two deserts are cousins, the frontier between them is long and vague, and many caravan routes begin in one and end in the other with no clear sense of crossing anything.
 
@@ -84,7 +84,7 @@ Amradad taxes the caravans that pass through its cities and spends the revenue o
 
 - [[place-dunhardsrtrgn|Dunhara Desert Region]]—the open desert of the tribes
 - [[place-amradadrgn|Amradad Region]]—the settled cities of the northwest
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—the settled realm of the region
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the settled realm of the region
 - [[affiliation-dunhartrbs|Dunhara Tribes]]—the tribal confederations
 - [[lore-dunhariclt|Dunhari]]—the people, their customs and what they owe
 - [[affiliation-strmcltsbhrms|Storm Cults of Bahramish]]—the storm-readers who travel with the tribes

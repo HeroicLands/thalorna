@@ -82,17 +82,17 @@ test("near matches alone leave the exit status at 0", () => {
     assert(/0 findings, 2 near matches for review/.test(out.join("\n")));
 });
 
-test("a table of class or tongue labels is not compared", () => {
+test("a table of class, tongue or source labels is not compared", () => {
     const labels = path.join(dir, "labels.md");
     fs.writeFileSync(
         labels,
-        "| Class | Meaning |\n| --- | --- |\n| `belmo` | a label |\n\n| Tongue | Meaning |\n| --- | --- |\n| `zorvakin` | a label |\n\n| Form | Gloss |\n| --- | --- |\n| `belmo` | a word |\n",
+        "| Class | Meaning |\n| --- | --- |\n| `belmo` | a label |\n\n| Tongue | Meaning |\n| --- | --- |\n| `zorvakin` | a label |\n\n| Source | From |\n| --- | --- |\n| `belmo:` | a label |\n\n| Form | Gloss |\n| --- | --- |\n| `belmo` | a word |\n",
     );
     const { status, err } = run(["--wordlists", lists, labels]);
     assert.equal(status, 1);
     assert.deepEqual(
         err.map((line) => line.replace(/^.*?:(\d+):.*$/, "$1")),
-        ["11"],
+        ["15"],
     );
 });
 

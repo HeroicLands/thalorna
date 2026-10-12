@@ -71,7 +71,7 @@ data:
     ashanpnthn: aligned
     vylarinmpr: nemesis
     byzarianlg: rival
-    sultntmrdd: aligned
+    kngdmmrdd: aligned
   packFolder: taruzel
 sohl: {system: {commonSkills: [taruzelilng]}}
 
@@ -80,7 +80,7 @@ sohl: {system: {commonSkills: [taruzelilng]}}
 
 Pinned to the wall of every veterans' hall on the Tarûzelian coast is a broadsheet gone brown at the edges: a broken chain, a rising sun, a ship under a Tarûzelian flag, and the words _we bleed gold for an empire that gives us nothing but chains_. The guilds printed it twelve years ago to raise a war. The men who keep it on the wall now read it as a promise the guilds made and did not keep, and that reading is the shortest true account of the Confederation of Tarûzelian States.
 
-The Confederation is a league of five merchant city-states on the islands of an archipelago in the eastern [[place-vylarianse|Vylarian Sea]], off the coast of the [[affiliation-sultntmrdd|Sultanate of Amradad]]. It is the leading naval power of the eastern sea, it is rich, and its politics are as cutthroat as they ever were under imperial rule. Roughly twelve years ago Tarûzel fought and won a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]; the merchant oligarchs who paid for that war now hold the freedom its veterans bled for. The island shores are crowded with wealthy trading cities, and the hill country of the larger islands belongs to tribal communities and ancient ruins.
+The Confederation is a league of five merchant city-states on the islands of an archipelago in the eastern [[place-vylarianse|Vylarian Sea]], off the coast of the [[affiliation-kngdmmrdd|Kingdom of Amradad]]. It is the leading naval power of the eastern sea, it is rich, and its politics are as cutthroat as they ever were under imperial rule. Roughly twelve years ago Tarûzel fought and won a war of independence from the [[affiliation-vylarinmpr|Vylarian Empire]]; the merchant oligarchs who paid for that war now hold the freedom its veterans bled for. The island shores are crowded with wealthy trading cities, and the hill country of the larger islands belongs to tribal communities and ancient ruins.
 
 ## At a Glance
 
@@ -134,7 +134,7 @@ Aû'Khelâthu saved the rebellion before Tarûzelian arms could save it themselv
 
 The Khelâthi were not sentimental about the calculation. They supplied gold, weapons, naval stores and experienced military advisors who understood how to fight a professional imperial army. Khelâthi gold kept the rebellion solvent while the merchant princes' own resources hemorrhaged; Khelâthi weapons armed militias that imperial confiscations had left short of steel; and Khelâthi naval advisors helped the Tarûzelian captains turn their ragtag flotilla into something close to a coherent fighting force. The aid was never acknowledged. The Khelâthi court kept up the polite fiction of "humanitarian commerce" with a troubled neighbor, and the merchant princes knew that foreign backing, advertised, would undercut the story of Tarûzelian self-determination. Everyone involved, the Vylarian court included, knew exactly what was happening, and the empire's protests to Aû'Khelâthu were met with bland assurances that fooled no one and were meant to fool no one.
 
-Aû'Khelâthu was not the only foreign hand in the war. The Sultanate of Amradad, whose relations with Vylaria have long been antagonistic, was among the powers that helped the Tarûzelians win their breakaway, and the islands have kept cordial relations with the Sultanate since.
+Aû'Khelâthu was not the only foreign hand in the war. The Kingdom of Amradad, whose relations with Vylaria have long been antagonistic, was among the powers that helped the Tarûzelians win their breakaway, and the islands have kept cordial relations with the Kingdom since.
 
 The sea saved the rebellion on the water. The legions were formidable on land, but on the islands they depended on naval supply lines, because the roads through the hill country of the larger islands were too slow and too exposed to tribal raiders. The Tarûzelian captains knew these waters better than any Vylarian admiral: the tides, the shoals, the hidden channels between the islands, the harbors where a shallow-draft vessel could shelter and a deep-keeled warship could not. They began a campaign of harassment, cutting supply convoys and intercepting troop transports, until the eastern Vylarian Sea was too dangerous for imperial shipping without a heavy escort.
 
@@ -208,7 +208,7 @@ Relations with Vylaria are officially correct and privately hostile. The empire 
 
 Heliónis, to the north-west, is Tarûzel's natural trading partner, and the two share cultural and intellectual ties. Aû'Khelâthu, to the south, is its most important long-distance partner, and that relationship runs deeper than commerce. Khelâthi gold, weapons and military advisors were instrumental in the war of independence, a debt the merchant princes deny in public and honor in private, through preferential trade agreements, reduced harbor fees for Khelâthi vessels and quiet diplomatic coordination that favors Khelâthi interests over Vylarian ones. The surge in Tarûzelian–Khelâthi commerce since independence is one of the largest economic shifts on the Vylarian Sea: trade that once passed through Vylarian intermediaries now runs directly between Tarûzelian and Khelâthi ports, enriching both and further weakening the empire's commercial position. For Aû'Khelâthu the investment in Tarûzelian independence has paid for itself many times over.
 
-The Sultanate of Amradad holds the mainland across the strait, and relations with it are cordial: the Sultanate, long antagonistic to Vylaria, was among those who helped Tarûzel win its independence. Beyond its shore, relations with the nomadic tribes of Dunhara are complicated: the desert peoples hold the overland trade routes the island cities depend on, which makes the relationship profitable to both and often tense.
+The Kingdom of Amradad holds the mainland across the strait, and relations with it are cordial: the Kingdom, long antagonistic to Vylaria, was among those who helped Tarûzel win its independence. Beyond its shore, relations with the nomadic tribes of Dunhara are complicated: the desert peoples hold the overland trade routes the island cities depend on, which makes the relationship profitable to both and often tense.
 
 ## The City-States
 

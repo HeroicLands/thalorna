@@ -1,78 +1,79 @@
 ---
-shortcode: salmnhdrks
-name: {full: Sâlimón Hâdrîkês, aliases: []}
+shortcode: drshrkhrds
+name: {full: Dôrashîa Râkhrîdês, aliases: []}
 type: being
 subType: npc
 tags: [draft, tradesfolk]
 data:
   icon: icon-person
   templatePriority: null
-  archetypes: [scholar]
-  occupation: Scholar
+  archetypes: [trader]
+  occupation: Mercantyler
   lore: []
   culture: helioniteclt
-  homes: [theradon2]
-  affiliations: {theradon: {rank: 4}, menerva: {rank: 1}}
-  gender: male
+  homes: [kalydria2]
+  affiliations: {kalydria: {rank: 4}, olvenia: {rank: 1}}
+  gender: female
   species: humanflk
-  born: 679.81
-  height: 5' 7"
-  weight: 134 lbs
+  born: "690.90"
+  height: 5' 11"
+  weight: 161 lbs
   frame: medium
   appearance:
-    eye_color: brown
-    hair_color: dark_brown
-    skin_color: light
-    complexion: null
-    extra_features: [a scar above the left eyebrow]
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: medium
+    complexion: sun_kissed
+    extra_features: []
   packFolder: helladhelionis
 sohl:
   items:
-    - {model: sohl-sohl-attribute-str, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-end, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 11}}
-    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 10}}
+    - {model: sohl-sohl-attribute-dex, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-agl, system: {scoreBase: 12}}
     - {model: sohl-sohl-attribute-per, system: {scoreBase: 15}}
     - {model: sohl-sohl-attribute-cml, system: {scoreBase: 14}}
     - {model: sohl-sohl-attribute-aur, system: {scoreBase: 13}}
-    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 12}}
-    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 18}}
-    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-wil, system: {scoreBase: 14}}
+    - {model: sohl-sohl-attribute-rea, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-cre, system: {scoreBase: 11}}
     - {model: sohl-sohl-attribute-emp, system: {scoreBase: 10}}
-    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 17}}
+    - {model: sohl-sohl-attribute-elo, system: {scoreBase: 16}}
     - {model: sohl-sohl-attribute-mor, system: {scoreBase: 14}}
-    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 12}}
+    - {model: sohl-sohl-attribute-voi, system: {scoreBase: 13}}
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 80}}
-    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 75}}
-    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 17}}
-    - {model: skill-helnkscrpt, system: {masteryLevelBase: 85}}
-    - {model: sohl-sohl-skill-shpw, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-hrld, system: {masteryLevelBase: 16}}
+    - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 42}}
+    - {model: sohl-sohl-skill-mrcn, system: {masteryLevelBase: 80}}
+    - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 48}}
+    - {model: skill-helnkscrpt, system: {masteryLevelBase: 64}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 36}}
-    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 90}}
-    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 56}}
-    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 44}}
-    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 28}}
-    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 42}}
-    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 30}}
-    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 40}}
-    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 34}}
+    - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 50}}
+    - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 65}}
+    - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 30}}
+    - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-pilt, system: {masteryLevelBase: 16}}
+    - {model: sohl-sohl-skill-srvl, system: {masteryLevelBase: 15}}
+    - {model: sohl-sohl-skill-awar, system: {masteryLevelBase: 45}}
+    - {model: sohl-sohl-skill-clmb, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-dnce, system: {masteryLevelBase: 24}}
+    - {model: sohl-sohl-skill-jump, system: {masteryLevelBase: 48}}
+    - {model: sohl-sohl-skill-ridg, system: {masteryLevelBase: 11}}
+    - {model: sohl-sohl-skill-stlth, system: {masteryLevelBase: 52}}
+    - {model: sohl-sohl-skill-swim, system: {masteryLevelBase: 12}}
+    - {model: sohl-sohl-skill-archery, system: {masteryLevelBase: 15}}
     - {model: sohl-sohl-skill-init, system: {masteryLevelBase: 45}}
-    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 26}}
-    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 33}}
-    - {model: sohl-sohl-skill-wpnc, system: {masteryLevelBase: 11}}
-    - {model: sohl-sohl-skill-wood, system: {masteryLevelBase: 22}}
-    - {model: sohl-sohl-skill-common, system: {masteryLevelBase: 34}}
-    - {model: skill-helonclng, system: {masteryLevelBase: 85}}
-    - {model: skill-semrnscrpt, system: {masteryLevelBase: 68}}
+    - {model: sohl-sohl-skill-melee, system: {masteryLevelBase: 26}}
+    - {model: sohl-sohl-skill-slng, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-thro, system: {masteryLevelBase: 28}}
+    - {model: sohl-sohl-skill-draw, system: {masteryLevelBase: 13}}
+    - {model: sohl-sohl-skill-hide, system: {masteryLevelBase: 14}}
+    - {model: sohl-sohl-skill-mtlc, system: {masteryLevelBase: 13}}
+    - {model: skill-helonclng, system: {masteryLevelBase: 48}}
   system:
     body:
       structure:
@@ -392,48 +393,52 @@ sohl:
 
 # Appearance {#appearance}
 
-Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
+Dôrashîa Râkhrîdês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows and give her a candid gaze. She has a strong nose and thin lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
-Sâlimón Hâdrîkês is a scholar of Therádon, the philosophers' city of [[place-helionis|Heliónis]], a Helionite of an old house who lectures at the city's Panepistemium chapterhouse on the history of the Vylarian conquest and digs for what the record left out.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Dôrashîa Râkhrîdês is a mercantyler.
 
-Sâlimón comes of a house that has sat in the assembly of Therádon for six generations, and the assembly's oligarchs hold that a Therádon citizen's duty is to know more than anyone else. He took the duty literally. He has spent twenty-five years on the Helionite city-states before and during the conquest, reading in the chapterhouse's library, which holds texts older than the empire, and traveling to the old battlefields and the ruins of the mage-warlords' seats to find what nobody has read. He lectures to full halls, and his students leave knowing what the old texts say and where the record stops. It stops, he has found, at the same place every time: the disbanding of the Dragon Riders, of which the Republic's histories say nothing honest and the chapterhouse's oldest fragments say something. He has no idea how much of what he says in a lecture hall is heard outside it.
+Dôrashîa is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
+
+Now at 34 years of age, she is a known figure among the mercantylers of Heliónis.
 
 ## Psyche
 
 ### Personality
 
-Sâlimón is gentle, absent and single-minded, at ease with a text or a student and helpless with anything else. He is modest about his findings and immodest about the questions.
+She can be overly competitive, and her trade leaves her little time for anything else.
 
 ### Motivation
 
-Sâlimón wants the past kept whole for whoever comes after, and he wants to find the piece of it the record dropped at the Dragon Riders. He does not think of the second as dangerous, which is the whole of the danger.
+Dôrashîa wants her spice trade to stay ahead of her competitors and her name to be the one buyers ask for.
 
 ### Strengths
 
-Deeply learned, a clear speaker, a fine reader of old texts.
+She has a strong understanding of foreign trade, and is persuasive and well-connected.
 
 ## Social
 
-Sâlimón holds a lectureship at the Panepistemium chapterhouse of Therádon and a seat in the city's assembly by his house's right, which he attends when reminded.
+Dôrashîa belongs to the local Merchant's Guild.
 
 ## Companions
 
 ### Patrons
 
-Sâlimón's patrons are the oligarchs of the Therádon assembly, who fund the chapterhouse's library and count his lectures among the city's ornaments.
+Dôrashîa's patrons are the cooks and fine eating-houses seeking unique ingredients.
 
 ### Enemies
 
-A lecturer of the chapterhouse who holds that the conquest is settled history and Sâlimón's questions are vanity; and the chapterhouse's senior officer, who answers to the Ordo and has begun to ask what the old man is digging for.
+Few; generally well-respected but has competitors in the spice trade.
 
 ## Plot Hooks
 
-1. **The Fragment**—A student has brought Sâlimón a leaf in a hand of the early Republic that names the man who betrayed the Dragon Riders. The student has told no one else, and the senior officer has asked to see the student.
+1. **The Mercantyler's Dilemma**—A shipment of spices arrives adulterated, and Dôrashîa has to choose between her buyers' trust and the loss of a season's profit.
 
-2. **The Artifact**—Sâlimón has brought back from a sunken temple an object the fragments describe, and the Ordo's Quaesitorium has written, courteously, to ask for it.
+2. **Old Grudges**—A competitor in the spice trade decides that undercutting her is no longer enough.
 
-3. **The Thesis**—Sâlimón's best student has written a thesis on the disbanding that says plainly what he has only asked, and means to read it before the assembly. The student is the senior officer's nephew.
+3. **Echoes of the Past**—A trade agreement Dôrashîa made years ago is called in by a partner she had forgotten.
 
-4. **The Seat**—The assembly has asked Sâlimón to take his house's seat for one session and vote on the chapterhouse's funding, and both factions have sent to explain what the vote is about.
+4. **Shifting Winds**—Political change in Heliónis threatens the markets Dôrashîa depends upon, and she can adapt, resist, or leave.
+
+5. **The Opportunity**—A foreign trader offers Dôrashîa a partnership beyond anything she has hoped for, and its price is not named up front.

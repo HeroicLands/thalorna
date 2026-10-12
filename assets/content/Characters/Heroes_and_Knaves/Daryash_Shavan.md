@@ -12,7 +12,7 @@ data:
   lore: []
   culture: dunhariclt
   homes: [venzelekh]
-  affiliations: {sultntmrdd: {rank: 2}, mithara: {rank: 1}}
+  affiliations: {kngdmmrdd: {rank: 2}, mithara: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.186
@@ -25,7 +25,7 @@ data:
     skin_color: tawny
     complexion: null
     extra_features: []
-  packFolder: sultanateofamradad
+  packFolder: kingdomofamradad
 sohl:
   items:
     - {model: sohl-sohl-attribute-str, system: {scoreBase: 11}}

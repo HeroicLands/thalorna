@@ -483,7 +483,7 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 ### Patrons
 
-High Priestess Amara
+High Priestess Kélirâra
 : The spiritual leader of the temple recognizes Hélénaia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
 The Citizens of the Byzarian League

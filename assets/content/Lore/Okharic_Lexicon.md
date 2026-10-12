@@ -489,3 +489,4 @@ A retired name is one the setting does not write: a word of an Earth language. E
 | `Nyánda`             | `Nyánthel`             | an Earth word, in the name lists               |
 | `Tárabu`             | `Tárombu`              | an Earth word, in the name lists               |
 | `Yûmba`              | `Yûmbaro`              | an Earth word, in the name lists               |
+| `Omára`              | `Pembura`              | an Earth personal name, in the name lists      |

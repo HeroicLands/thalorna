@@ -101,7 +101,7 @@ To the **west** lies [[place-vrystwald|Vrystwald]]—the Varokh forest country b
 
 To the **east** lies the vast [[place-khzryndsrtrgn|Khazryn]]. The relationship is the central strategic fact of Velanthian existence. Across a long, fluid frontier, Velanthian Hosts and Khazryn tribes conduct a continuous low-level commerce of trade, raid, alliance, and intermarriage. When a great orqwen rises in the central Khazryn, the relationship turns dangerous; in the long stretches between, it is workable.
 
-To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-sultntmrdd|Sultanate of Amradad]] on the eastern shore of the Vylarian Sea and the broader [[place-dunharargn|Dunhara]].
+To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hellád]]. Velanthian grain feeds their cities; finished goods and scholarship flow north. Farther south, beyond the Hellád, lie the [[affiliation-kngdmmrdd|Kingdom of Amradad]] on the eastern shore of the Vylarian Sea and the broader [[place-dunharargn|Dunhara]].
 
 ## See Also
 
@@ -110,6 +110,6 @@ To the **south** lie [[place-vylariargn|Vylaría]] and the [[place-heladrgn|Hell
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—eastern frontier
 - [[place-heladrgn|Hellád Region]]—southern trading partner
 - [[place-grkrhlmrgn|Grukarholm Region]]—Grukar concentration between Velanthia's northern and southeastern reaches
-- [[affiliation-sultntmrdd|Sultanate of Amradad]]—eastern-shore trading partner
+- [[affiliation-kngdmmrdd|Kingdom of Amradad]]—eastern-shore trading partner
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—formal religion
 - [[place-ankrscntnnt|Ankaris Continent]]—parent continent

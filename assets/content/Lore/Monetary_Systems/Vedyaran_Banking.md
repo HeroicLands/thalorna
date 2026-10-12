@@ -31,7 +31,7 @@ A suvarna is therefore worth 128 tāmra. The suvarna and the chandra carry their
 
 ## Exchange With What the Coin Actually Meets
 
-[[place-vedyarargn|Vedyara]] borders no Vylarian territory, and Vylarian coin reaches it anyway, by two routes and at second or third hand. It comes overland out of the cities of the [[affiliation-sultntmrdd|Sultanate of Amradad]], where it is the principal medium and where the march caravans pick it up, and it comes third-hand through Khelâthi intermediaries at the sea. It arrives as metal and not as money, at a discount nobody bothers to publish, and no Vedyaran exchange quotes it.
+[[place-vedyarargn|Vedyara]] borders no Vylarian territory, and Vylarian coin reaches it anyway, by two routes and at second or third hand. It comes overland out of the cities of the [[affiliation-kngdmmrdd|Kingdom of Amradad]], where it is the principal medium and where the march caravans pick it up, and it comes third-hand through Khelâthi intermediaries at the sea. It arrives as metal and not as money, at a discount nobody bothers to publish, and no Vedyaran exchange quotes it.
 
 The coin a Vedyaran trader actually exchanges stands at the three edges of the region: the northern passes, the southern sea, and the march road round the wall's end. The clerk takes them in that order.
 
