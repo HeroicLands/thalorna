@@ -12,7 +12,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [qadhirun]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}, murkir: {rank: 1}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: "682.190"

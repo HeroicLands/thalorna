@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {provinclys: {rank: 3}, janus: {rank: 1}}
+  affiliations: {provinclys: {rank: 3}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.93

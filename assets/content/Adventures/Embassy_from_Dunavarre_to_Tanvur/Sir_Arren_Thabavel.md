@@ -11,7 +11,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {rank: 2}, janus: {rank: 1}}
+  affiliations: {kingdmdnvr: {rank: 2}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   packFolder: adventures

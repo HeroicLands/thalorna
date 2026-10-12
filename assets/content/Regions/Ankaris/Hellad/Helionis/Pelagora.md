@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 "Every man at an oar in this fleet voted for the voyage," says a boatswain on a Pelagoran trierarch's galley, "so nobody gets to complain about the rowing." Pelagora is the naval power of [[place-helionis|Heliónis]]: it holds the most important harbors, controls the sea lanes of the eastern [[place-vylarianse|Vylarian Sea]], and keeps the largest fleet in the region. About 410,000 people live under its assembly, and 40,000 of them in the city of [[place-pelagora2|Pelagora]], whose harbor ranks among the finest natural anchorages in the central sea.
 
-- **Patron deity:** [[lore-janusdty|Árdavon]], god of order and justice
+- **Patron deity:** [[lore-ardavondty|Árdavon]], god of order and justice
 - **Government:** democratic assembly of free citizens
 
 ## Who Decides

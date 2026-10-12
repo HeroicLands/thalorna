@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {rank: 5}, janus: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   born: 678.152

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: {thyrenae: {rank: 4}, janus: {rank: 1}}
+  affiliations: {thyrenae: {rank: 4}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.313

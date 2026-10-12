@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 45000, governme
 
 ## Overview
 
-Say you reach **Kalydria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thyrenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this city of 45,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Heliónis]]. Its patron is [[lore-theriadty|Aethería]], goddess of dreams and visions.
+Say you reach **Kalydria** in the weeks of a theater festival. The inns are full, a crowd is outside every playhouse an hour before the performance, and the talk in the street is about which family paid for which play. Where [[place-thyrenae2|Thyrenae]] pursues truth and [[place-pelagora2|Pelagora]] pursues power, this city of 45,000 pursues beauty, and it is the cultural jewel of [[place-helionis|Heliónis]]. Its patron is [[lore-zunelasdty|Zûnêlâs]], goddess of dreams and visions.
 
 ## Who Governs
 

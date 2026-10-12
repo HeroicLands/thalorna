@@ -130,7 +130,7 @@ Delta total: about 6,000,000.
 
 ## For the Worldbuilder
 
-Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Vald]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Aû]]'s customs men who tax it all.
+Run the Delta as the empire's seafront and its money: a country of trade, customs, smuggling and foreign intrigue, closer in temper to a [[lore-vylarianclt|Vylarian]] port province such as [[affiliation-provincvld|Sâlkhâlon]] than to the temple-bound interior. Three powers share it, and all three are wealthy, jealous and watchful: the merchant houses, the [[affiliation-garhalzi|Gár-Hálzi]] temple-treasuries that bank their gold, and the [[lore-garauu|Gar-Aû]]'s customs men who tax it all.
 
 Adventure here is mercantile and maritime—shipping intrigue and insurance fraud, customs-running through the marsh channels, foreign agents working the quays, Haradian and Vylarian factors playing both ends, papyrus and salt monopolies worth killing over, and the constant low friction between the delta's outward-facing Halzi'a and the suspicious river-lords upstream. Fish, fowl, salt, paper, wine and foreign news are abundant. Grain is scarce, because it comes from upriver, and so is any love for the tax-farmer.
 

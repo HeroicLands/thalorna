@@ -11,7 +11,7 @@ sohl:
   system: {weightBase: 0.0033, valueBase: 1, qualityBase: 0, durabilityBase: 3}
 ---
 
-The workhorse of imperial commerce, struck at Magnápolis and at the provincial mints under Aerarium standards. The obverse bears the imperial eagle and cypher, the reverse the value mark and the issuing mint's stamp, and the reverse face carries the eight-segment pattern along which the coin is cut for change.
+The workhorse of imperial commerce, struck at Ôrzâra and at the provincial mints under Aerarium standards. The obverse bears the imperial eagle and cypher, the reverse the value mark and the issuing mint's stamp, and the reverse face carries the eight-segment pattern along which the coin is cut for change.
 
 It is not fine silver. The coin weighs about 1.5 grams, struck three parts silver to one part alloy, and the silver in it comes to just under the worth of one Argo; the difference is the mint's charge for striking. Issues from a mint known to debase are weighed rather than counted.
 

@@ -3,7 +3,7 @@ shortcode: aediles
 name: {full: The Aediles, aliases: [Aediles, Magistrates of the Wards]}
 type: affiliation
 subType: governmental
-description: "The ward magistrates of Magnápolis—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
+description: "The ward magistrates of Ôrzâra—the court most citizens ever meet, keeping the district law over markets, licenses, weights, building and sanitation, and famously open to a bribe."
 tags: []
 data:
   templatePriority: null
@@ -30,7 +30,7 @@ data:
       - level: 3
         title: Aedile
         description: >-
-          Magistrate of a ward, holding the only court most Magnápolitans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
+          Magistrate of a ward, holding the only court most Ôrzârans will ever see: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Levies fines, shutters premises and condemns buildings, with the City Watch supplying the muscle behind the ruling.
     offices:
       Aedile of a Ward: >-
         Holds the bench for one quarter of the city. What may be traded where is his to enforce, and the district law he enforces is dense enough that almost any premises is in breach of something.
@@ -40,7 +40,7 @@ data:
         Attests the measures the markets trade by. A false weight is the ward's commonest charge and its most reliable revenue.
       Clerk of the Roll: >-
         Holds the licenses and the record of every ruling made in the ward—including the pattern, plain in the register, of which premises are inspected and which are not.
-  seat: magnapolis
+  seat: orzara
   population: null
   economy: []
   lore: []
@@ -51,7 +51,7 @@ sohl: {system: {commonSkills: []}}
 
 A ward clerk, asked what an Aedile does all day, answers with the district law: "He decides what may be sold where. Then he decides who is selling it in the wrong place. Find out which of those two jobs your premises will fall under before you open your shutters."
 
-The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
+The Aediles are the civic magistrates of [[place-orzara|Ôrzâra]], and the only court most of its people will ever stand before. They keep the **district law**—the intricate and jealously enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each quarter of the city, and what may not.
 
 Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The Aediles judge.
 
@@ -67,6 +67,6 @@ What the money buys is rarely acquittal. It buys the inspection that does not ha
 
 ## See Also
 
-- [[affiliation-curiaurbis|The Courts of Magnápolis]]—the Curia Urbis and the tiered civic courts above them
-- [[place-magnapolis|Magnápolis]]—the city whose wards they keep
+- [[affiliation-curiaurbis|The Courts of Ôrzâra]]—the Curia Urbis and the tiered civic courts above them
+- [[place-orzara|Ôrzâra]]—the city whose wards they keep
 - [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch, which enforces their rulings

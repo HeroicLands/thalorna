@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [monverdre]
-  affiliations: {kngdmprvnz: {rank: 2}, aetheria: {rank: 3}}
+  affiliations: {kngdmprvnz: {rank: 2}, zunelas: {rank: 3}}
   gender: male
   species: humanflk
   born: 658.194

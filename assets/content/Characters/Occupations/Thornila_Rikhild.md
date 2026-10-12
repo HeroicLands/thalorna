@@ -12,7 +12,7 @@ data:
   lore: []
   culture: varokhiclt
   homes: [thornhaven]
-  affiliations: {vrystwldtrbs: {rank: 3}, janus: {rank: 3}}
+  affiliations: {vrystwldtrbs: {rank: 3}, ardavon: {rank: 3}}
   gender: female
   species: humanflk
   born: "689.8"

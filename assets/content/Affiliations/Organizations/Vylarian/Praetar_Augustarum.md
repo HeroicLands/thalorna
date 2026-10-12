@@ -3,7 +3,7 @@ shortcode: pratrgstrm
 name: {full: The Praetar Augustarum, aliases: [The Imperial Guard, The Praetorians]}
 type: affiliation
 subType: venture
-description: "The Praetar Augustarum, the imperial guard of Vylaria—the Augustar's personal bodyguard and the keepers of order within the Inner City of Magnápolis; recruited and promoted apart from the line legions, answerable to the throne alone, and powerful enough that the body best placed to guard an Augustar is also the body best placed to unmake one."
+description: "The Praetar Augustarum, the imperial guard of Vylaria—the Augustar's personal bodyguard and the keepers of order within the Inner City of Ôrzâra; recruited and promoted apart from the line legions, answerable to the throne alone, and powerful enough that the body best placed to guard an Augustar is also the body best placed to unmake one."
 tags: []
 data:
   templatePriority: null
@@ -71,10 +71,10 @@ sohl: {system: {commonSkills: []}}
 
 A junior of the Praetar Augustarum, put on the Castra's wall for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
 
-The **Praetar Augustarum** (_Vylarian: "the Guard of the Augustars"_) are the imperial guard: the personal bodyguard of the Augustar, the emperor, and the keepers of order and justice within the Inner City of [[place-magnapolis|Magnápolis]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. They recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier castra but in the [[place-castraprtr|Castra Praetoria]] on the palace hill, the one fortress inside the **Inner Wall**. They are elite, lavishly equipped and intensely political: the praetorian muscle of the court, and the instrument through which the Augustar makes his grip on his own capital physical.
+The **Praetar Augustarum** (_Vylarian: "the Guard of the Augustars"_) are the imperial guard: the personal bodyguard of the Augustar, the emperor, and the keepers of order and justice within the Inner City of [[place-orzara|Ôrzâra]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. They recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier castra but in the [[place-castraprtr|Castra Praetoria]] on the palace hill, the one fortress inside the **Inner Wall**. They are elite, lavishly equipped and intensely political: the praetorian muscle of the court, and the instrument through which the Augustar makes his grip on his own capital physical.
 
 - **Type:** Imperial military institution; household guard and Inner City garrison
-- **Region of operation:** [[place-urbsaquiln|Urbs Aquilion]], the Inner City of Magnápolis, and the imperial person wherever he travels
+- **Region of operation:** [[place-urbsaquiln|Urbs Aquilion]], the Inner City of Ôrzâra, and the imperial person wherever he travels
 - **Seat:** The Castra Praetoria, on the palace hill within the Inner Wall
 - **Answerable to:** The reigning Augustar alone
 

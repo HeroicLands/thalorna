@@ -51,7 +51,7 @@ The region hosts three distinct religious traditions, each tied to one of the th
 - The [[affiliation-arldnpnthn|Aurèldían Pantheon]] in its matriarchal rite—the feminine deities of the cross-continental Aurèldían tradition receive primary veneration in Bethua, with masculine counterparts relegated to secondary positions. Dominant in the Matriarchy.
 - The [[affiliation-nkaruthar|Nkaru'thar]]—the three-flame cosmology of Okháris, with the eternal flame of creation-destruction-renewal expressed through the triad of the temple-cities. Dominant among the Okháric clans.
 
-The three traditions interact cautiously. Khelâthi priests have long studied Nkaru'thar with ethnographic interest and dismiss it theologically; Nkaru'thar priests regard the Khelâthi pantheon as a Khelâthi peculiarity and show no inclination to adopt its forms. Bethuan priestesses of Lúsinía and Aethería conduct occasional ritual exchanges with their Khelâthi counterparts of Uznêra and Nehle'ât, and the few Aurèldían missionaries who have reached Okháris have been received politely and utterly without effect.
+The three traditions interact cautiously. Khelâthi priests have long studied Nkaru'thar with ethnographic interest and dismiss it theologically; Nkaru'thar priests regard the Khelâthi pantheon as a Khelâthi peculiarity and show no inclination to adopt its forms. Bethuan priestesses of Lúsinía and Zûnêlâs conduct occasional ritual exchanges with their Khelâthi counterparts of Uznêra and Nehle'ât, and the few Aurèldían missionaries who have reached Okháris have been received politely and utterly without effect.
 
 ## Politics and Power
 

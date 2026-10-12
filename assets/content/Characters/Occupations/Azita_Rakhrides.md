@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [kalydria2]
-  affiliations: {kalydria: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {kalydria: {rank: 4}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: "690.90"

@@ -472,7 +472,7 @@ House Polytimós
 The Physicians' Guild of the Byzarian League
 : Both as member and occasional consultant, the Guild provides Alýkos with referrals, research materials, and standing among his peers. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
 
-The Temple of Múrkír
+The Temple of Pôzêrâs
 : The religious institution has engaged Alýkos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
 
 ### Enemies

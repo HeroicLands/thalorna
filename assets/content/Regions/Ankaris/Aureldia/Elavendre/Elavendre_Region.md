@@ -50,7 +50,7 @@ The kingdom's authorities accept the Wardens' jurisdiction over sacred sites wit
 
 ## Religion
 
-The [[lore-elavendrnppl|Élavendren]] worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]], but their practice is heavily inflected by older fae traditions. [[affiliation-arldnpnthn|Lúsinía]] (The World-Weaver), goddess of life and creation, holds special prominence, as does [[affiliation-arldnpnthn|Aethería]] (The Veiled Dreamer), goddess of dreams and visions. The Élavendren believe the veil between the mortal world and the fae realm is especially thin in their land, and many of their religious practices involve communion with fae spirits and nature entities.
+The [[lore-elavendrnppl|Élavendren]] worship the [[affiliation-arldnpnthn|Aurèldían Pantheon]], but their practice is heavily inflected by older fae traditions. [[affiliation-arldnpnthn|Lúsinía]] (The World-Weaver), goddess of life and creation, holds special prominence, as does [[affiliation-arldnpnthn|Zûnêlâs]] (The Veiled Dreamer), goddess of dreams and visions. The Élavendren believe the veil between the mortal world and the fae realm is especially thin in their land, and many of their religious practices involve communion with fae spirits and nature entities.
 
 Sacred groves, standing stones, and holy wells serve as places of worship alongside more formal temples. The turning of the seasons is marked by elaborate festivals that honor both the Aurèldían gods and the older spirits of the land.
 

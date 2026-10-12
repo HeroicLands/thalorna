@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: {kngdmprvnz: {rank: 5}, janus: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 5}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 664.353

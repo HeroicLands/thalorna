@@ -68,7 +68,7 @@ In a bad year, obligation does not make food appear. A temple hospice can shelte
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods of the southern and eastern realms
 - [[affiliation-asguardian|Asguardian Pantheon]]—the gods of the conquered plain
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the Synod and its mainland order
-- [[affiliation-thanatos|Faith of Sélmoros]]—death, funerals and the dead
+- [[affiliation-selmoros|Faith of Sélmoros]]—death, funerals and the dead
 
 ## Glossary {#glossary}
 

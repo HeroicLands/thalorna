@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [sanctara]
-  affiliations: {hlykngdmnrtm: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {hlykngdmnrtm: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.263

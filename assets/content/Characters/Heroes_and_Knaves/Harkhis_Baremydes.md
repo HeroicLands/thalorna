@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {provinclys: {rank: 3}, murkir: {rank: 1}}
+  affiliations: {provinclys: {rank: 3}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.41

@@ -47,7 +47,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Watch a clerk at a chapterhouse counter take in a traveler's note and you see the guild's whole trade. He has under a minute to decide to believe in a slip of sealed paper. Say he works at the Magnápolis chapter, and he checks three things from habit: the wax (red for a retail note, blue for a traveler's note, gold for a master note), the serial against the chapter's register, and the moneylender's mark above the chapter's countersignature. "People think we lend money," he tells the apprentice at the next desk. "We don't, mostly. We tell strangers whom to trust. The lending is what we do in the afternoons."
+Watch a clerk at a chapterhouse counter take in a traveler's note and you see the guild's whole trade. He has under a minute to decide to believe in a slip of sealed paper. Say he works at the Ôrzâra chapter, and he checks three things from habit: the wax (red for a retail note, blue for a traveler's note, gold for a master note), the serial against the chapter's register, and the moneylender's mark above the chapter's countersignature. "People think we lend money," he tells the apprentice at the next desk. "We don't, mostly. We tell strangers whom to trust. The lending is what we do in the afternoons."
 
 ## Overview
 
@@ -55,7 +55,7 @@ The Collegium Argentariorum, "the Bankers' College," is the moneylenders' guild 
 
 The guild works in every member territory of the Magnum Collegium: [[affiliation-vylarinmpr|Vylaria]], [[place-helionis|Heliónis]], the five [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]]. Its charter under the Magnum Collegium is two and a half centuries old and draws on older moneylender associations that predate the imperial consolidation of banking. Its chief officer is the **Argentarius Magnar** ("Great Banker"), elected from the senior partners of the great houses.
 
-The guild's position rests on a **polite fiction**. Inside Vylaria and Heliónis the Aerarium Imperii keeps direct offices, and the Argentariorum is visibly what it is: a guild of moneylenders who clear through the imperial treasury. Outside the empire, in the Aurèldían kingdoms and Byzaría, the Aerarium keeps no presence, and the chapterhouses are the entire visible face of the system. Say a Provenzian merchant carries a traveler's note from his home moneylender to a Byzarian receiving moneylender. He deals only with Argentariorum members at both ends, the chapter clears the note through Argentariorum channels back to Magnápolis, and the imperial treasury sits at the back of the chain, drawing its 2% issuance fee. The Provenzian crown's official correspondence calls the whole transaction "Collegium Argentariorum-honored." Every party endorses the fiction tacitly, and it matters. (The [[affiliation-aerarimmpr|Aerarium Imperii]] note describes the structure behind it.)
+The guild's position rests on a **polite fiction**. Inside Vylaria and Heliónis the Aerarium Imperii keeps direct offices, and the Argentariorum is visibly what it is: a guild of moneylenders who clear through the imperial treasury. Outside the empire, in the Aurèldían kingdoms and Byzaría, the Aerarium keeps no presence, and the chapterhouses are the entire visible face of the system. Say a Provenzian merchant carries a traveler's note from his home moneylender to a Byzarian receiving moneylender. He deals only with Argentariorum members at both ends, the chapter clears the note through Argentariorum channels back to Ôrzâra, and the imperial treasury sits at the back of the chain, drawing its 2% issuance fee. The Provenzian crown's official correspondence calls the whole transaction "Collegium Argentariorum-honored." Every party endorses the fiction tacitly, and it matters. (The [[affiliation-aerarimmpr|Aerarium Imperii]] note describes the structure behind it.)
 
 The guild survives because it supplies what the small post-imperial polities cannot supply themselves, a continent-spanning banking system. No Aurèldían kingdom is big enough to build credible international banking alone. The Byzarian League's merchant houses lack the reserves one by one, and even Byzaría as a whole could not match the depth of credit the Argentariorum offers. By taking part, the kingdoms get banking infrastructure, mutual recognition of moneylenders' credentials, and the ability to move large sums across borders without carrying bullion. Generation after generation they judge the 2% fee flowing quietly to imperial coffers worth paying.
 
@@ -65,9 +65,9 @@ The guild has three tiers.
 
 ### The Great Houses
 
-About twenty-five **great houses** dominate the guild. They are the moneylender families whose reserves, chapter ties and political connections put them at the top of the trade, and each operates in several cities. The **House of Calventian** keeps offices in Magnápolis, [[place-olvestria|Ólvestria]], Provènzia, [[place-beravel|Béravel]] and Byzaría. The **House of Maximian Tertian** has a similar footprint. The **House of Verrius** concentrates on the Vylarian commercial cities. The **House of Therion** is Heliónite in origin and has grown continent-spanning. The **House of Aldovardian** is Tarvénian, which makes it unusual, since most great houses began in Vylaria or Heliónis and expanded outward.
+About twenty-five **great houses** dominate the guild. They are the moneylender families whose reserves, chapter ties and political connections put them at the top of the trade, and each operates in several cities. The **House of Calventian** keeps offices in Ôrzâra, [[place-olvestria|Ólvestria]], Provènzia, [[place-beravel|Béravel]] and Byzaría. The **House of Maximian Tertian** has a similar footprint. The **House of Verrius** concentrates on the Vylarian commercial cities. The **House of Therion** is Heliónite in origin and has grown continent-spanning. The **House of Aldovardian** is Tarvénian, which makes it unusual, since most great houses began in Vylaria or Heliónis and expanded outward.
 
-Each great house holds standing accounts with the Aerarium Imperii (or with the Argentariorum's chapter clearing arrangement in non-imperial territory) on a scale no smaller house can approach. The great houses issue the master notes drawn directly on Aerarium accounts, redeem the large traveler's notes, lend to the Aurèldían crowns and take the guild's political positions. Their senior partners sit on the **Council of the Argentarii**, the guild's governing body, which meets quarterly at Magnápolis.
+Each great house holds standing accounts with the Aerarium Imperii (or with the Argentariorum's chapter clearing arrangement in non-imperial territory) on a scale no smaller house can approach. The great houses issue the master notes drawn directly on Aerarium accounts, redeem the large traveler's notes, lend to the Aurèldían crowns and take the guild's political positions. Their senior partners sit on the **Council of the Argentarii**, the guild's governing body, which meets quarterly at Ôrzâra.
 
 ### The Lesser Houses
 
@@ -81,15 +81,15 @@ Below the lesser houses sit the **individual moneylenders**: small operators, of
 
 ## The Chapterhouses
 
-The guild keeps a **chapterhouse** in every member city of consequence, typically a substantial building near the commercial center. Each holds the chapter's clearing accounts, the local register of member moneylenders, the chapter's seal and, above all, a secure strongroom of the chapter's pooled bullion reserves. In imperial territory the chapter strongrooms answer to the Aerarium's strongroom at Magnápolis. In non-imperial territory they hold reserves that belong to the broader Aerarium-backed pool but are administered locally.
+The guild keeps a **chapterhouse** in every member city of consequence, typically a substantial building near the commercial center. Each holds the chapter's clearing accounts, the local register of member moneylenders, the chapter's seal and, above all, a secure strongroom of the chapter's pooled bullion reserves. In imperial territory the chapter strongrooms answer to the Aerarium's strongroom at Ôrzâra. In non-imperial territory they hold reserves that belong to the broader Aerarium-backed pool but are administered locally.
 
 An **Argentarius Praepar** administers each chapterhouse: a senior moneylender, typically from one of the lesser houses, elected by the local member moneylenders for a five-year term. The Praepar manages the strongroom jointly with two appointed Censores, authorizes the admission of new members, countersigns master notes drawn against chapter reserves and represents the chapter at the Council of the Argentarii.
 
-The largest chapterhouses stand at Magnápolis, Ólvestria, Byzaría, [[place-aelissium|Aelissium]], Béravel, Tarvénia (the city) and the principal Heliónite ports. Each is a substantial institution with a permanent staff in the dozens: clerks, auditors, security details and the household needed to host visiting members of standing.
+The largest chapterhouses stand at Ôrzâra, Ólvestria, Byzaría, [[place-aelissium|Aelissium]], Béravel, Tarvénia (the city) and the principal Heliónite ports. Each is a substantial institution with a permanent staff in the dozens: clerks, auditors, security details and the household needed to host visiting members of standing.
 
 ## Governance
 
-The Council of the Argentarii is the guild's standing body. It meets quarterly at Magnápolis and consists of the senior partners of the great houses plus a small number of elected representatives from the lesser houses. It decides guild policy on admission standards, member discipline, chapter operations and the guild's relations with the Aerarium Imperii and the Magnum Collegium.
+The Council of the Argentarii is the guild's standing body. It meets quarterly at Ôrzâra and consists of the senior partners of the great houses plus a small number of elected representatives from the lesser houses. It decides guild policy on admission standards, member discipline, chapter operations and the guild's relations with the Aerarium Imperii and the Magnum Collegium.
 
 The Council elects the Argentarius Magnar for a ten-year term, renewable once. The present Argentarius Magnar is **Lucia Calventiana**, senior partner of the House of Calventian, in her eighth year and presumed eligible for one renewal. Lucia is regarded as one of the most politically capable Argentarii Magnar in the guild's history. Her tenure has steadied the guild through the decade since the Haradian secession, and she is credited with winning several substantial concessions from the Aerarium Imperii's leadership.
 
@@ -109,7 +109,7 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 
 ## Notable Houses and Officers
 
-- **House of Calventian**—the largest of the great houses, founded in Magnápolis three centuries ago and led by the Calventiani family across nine generations. Its senior partner is Argentarius Magnar Lucia Calventiana, the guild's chief officer.
+- **House of Calventian**—the largest of the great houses, founded in Ôrzâra three centuries ago and led by the Calventiani family across nine generations. Its senior partner is Argentarius Magnar Lucia Calventiana, the guild's chief officer.
 - **House of Maximian Tertian**—the second-largest great house, of Helionite-Vylarian origin and politically aligned with the **Reformist Faction** at court. **Septimus Maximian Tertian** leads it.
 - **House of Verrius**—Vylarian and conservative, with strong ties to the Aurelian estate and, historically, to the Dux Bellorum's office.
 - **House of Therion**—of Heliónite origin and now continent-spanning, the principal Heliónite great house, which specializes in cross-territory clearing.
@@ -126,7 +126,7 @@ By frequency, the most common sanction is a **temporary suspension of clearing r
 
 ## Identifying Marks
 
-A member moneylender's seal is registered with both the local chapter and the Council at Magnápolis, and it is impressed in colored wax on every note issued: red for retail notes, blue for traveler's notes and gold for master notes. Member moneylenders wear a silver pin at the throat in the form of a balance-scale, and senior partners of great houses wear the same pin in gold. Argentarii Praepares wear an additional brass medallion of office. The Argentarius Magnar wears the great gold pectoral of the guild, kept at the Magnápolis chapter between holders. The Censores Argentariorum wear black mantles with the silver Censor's mark, distinct in pattern from the Censores Collegiorum's mantle though similar in color.
+A member moneylender's seal is registered with both the local chapter and the Council at Ôrzâra, and it is impressed in colored wax on every note issued: red for retail notes, blue for traveler's notes and gold for master notes. Member moneylenders wear a silver pin at the throat in the form of a balance-scale, and senior partners of great houses wear the same pin in gold. Argentarii Praepares wear an additional brass medallion of office. The Argentarius Magnar wears the great gold pectoral of the guild, kept at the Ôrzâra chapter between holders. The Censores Argentariorum wear black mantles with the silver Censor's mark, distinct in pattern from the Censores Collegiorum's mantle though similar in color.
 
 ## Plot Hooks
 

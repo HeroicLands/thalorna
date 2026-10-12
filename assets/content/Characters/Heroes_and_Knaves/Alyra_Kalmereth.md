@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 2}, janus: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.73

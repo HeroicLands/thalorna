@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, janus: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 2}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.142

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 2}, murkir: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: "696.100"

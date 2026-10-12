@@ -3,7 +3,7 @@ shortcode: vylrnctznshp
 name: {full: Vylarian Citizenship, aliases: [Citizenship, Citizens and Residents]}
 type: doc
 subType: reference
-description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying the grain dole, the right of residence in Magnápolis, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
+description: "Citizenship in the Vylarian Empire—a personal, earned, largely non-heritable status won chiefly by twenty years in the legions, carrying the grain dole, the right of residence in Ôrzâra, and legal standing. It is the Empire's recruiting bargain and the loyalty-leash on its most dangerous men, not a charity."
 tags: [reference, vylaria, imperial, law, society]
 ---
 
@@ -29,8 +29,8 @@ The status may also be **granted** for some signal service to the Empire: a grea
 
 A citizen holds a bundle of privileges that no resident enjoys:
 
-- **The dole.** A guaranteed ration of grain and, in [[place-magnapolis|Magnápolis]], oil and the price of the public games besides. It is a subsistence _floor_, not a living (see below).
-- **The right of residence in Magnápolis.** Only citizens may dwell within the capital's pomerium by right. A resident needs a registered waiver, tied to an employer, from the [[affiliation-curiaurbis|courts]]; the Magnápolis note describes how the waivers work.
+- **The dole.** A guaranteed ration of grain and, in [[place-orzara|Ôrzâra]], oil and the price of the public games besides. It is a subsistence _floor_, not a living (see below).
+- **The right of residence in Ôrzâra.** Only citizens may dwell within the capital's pomerium by right. A resident needs a registered waiver, tied to an employer, from the [[affiliation-curiaurbis|courts]]; the Ôrzâra note describes how the waivers work.
 - **Legal standing.** A citizen stands before the courts as a person of standing, with a **right of appeal** that rises to the imperial tribunals. He is spared the summary and degrading punishments dealt to residents: a condemned citizen is owed a trial and, at worst, a clean execution, never the lash or the arena without sentence.
 - **Eligibility.** Citizens may vote and hold civic office, and they have first claim on the salaried imperial posts the Empire reserves for the men who served it, the [[affiliation-vylrnmltry|City Watch]] above all.
 
@@ -53,6 +53,6 @@ As the Empire's reach and revenue shrink, the citizenship has become a burden th
 ## See Also
 
 - [[affiliation-vylrnmltry|The Vylarian Military]]—the legions, and the twenty-year road to the citizenship
-- [[place-magnapolis|Magnápolis]]—where the citizen body concentrates; the right-of-residence rule and the dole in the capital
+- [[place-orzara|Ôrzâra]]—where the citizen body concentrates; the right-of-residence rule and the dole in the capital
 - [[affiliation-curiaurbis|Curia Urbis]]—the civic courts that register resident waivers (and quietly sell them)
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the state whose membership this is

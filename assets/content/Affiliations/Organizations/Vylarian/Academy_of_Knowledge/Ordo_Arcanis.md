@@ -217,7 +217,7 @@ The Ordo keeps regional chapters in every significant city and territory within 
 
 - **[[affiliation-provinclys|Alyssa]]:** The Ordo's headquarters, at maximum strength and influence. The Concilium Magnum meets here.
 - **[[place-helionis|Heliónis]]:** Deeply rooted, as the intellectual birthplace of the Ordo, and among the most prestigious chapters, with the finest libraries and scholars. Local philosophical-magical traditions have negotiated autonomy, and the Quaesitorium treads carefully.
-- **[[affiliation-provincvld|Vald]] and [[affiliation-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
+- **[[affiliation-provincvld|Sâlkhâlon]] and [[affiliation-provnchyln|Hylen]]:** Solid chapters with reliable imperial backing.
 - **[[affiliation-provncmktr|Moktur]]:** A limited presence. The frontier military governors tolerate the Ordo and do not prioritize its agenda.
 - **[[place-provenzrgn|Provènzia Region]]:** Present, but under royal oversight. Mages answer to the Provenzian crown as well as to the Ordo.
 - **[[affiliation-cnfdrtnhrdnstts|Harad]]:** Active and politically constrained. The merchant guilds see the Ordo as a tool of Vylarian influence and have restricted its activities.

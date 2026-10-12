@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblcndrth: {rank: 5}, venusia: {rank: 1}}
+  affiliations: {repblcndrth: {rank: 5}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 687.76

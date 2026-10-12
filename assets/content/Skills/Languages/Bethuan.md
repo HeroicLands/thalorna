@@ -110,14 +110,14 @@ Example stress patterns:
 
 Both registers share the core SVO structure and seven cases (nominative, accusative, genitive, dative, locative, instrumental, vocative), but express them differently:
 
-| Feature               | Feminine Register                             | Masculine Register                    |
-| --------------------- | --------------------------------------------- | ------------------------------------- |
-| **Nominative ending** | -a, -e (preserved ancient forms)              | -os, -us (contracted)                 |
-| **Accusative ending** | -an, -in (explicit)                           | -o, -i (reduced)                      |
-| **Definite article**  | ho, hê, to (singular) / hoi, hai, ta (plural) | 's, 't (enclitic particles)           |
-| **Passive voice**     | Full inflected passive                        | Periphrastic (auxiliary + participle) |
-| **Aspect marking**    | explicit in conjugation                       | often implied by particle system      |
-| **Imperative**        | elaborate, with politeness levels             | direct, minimal marking               |
+| Feature               | Feminine Register                                            | Masculine Register                    |
+| --------------------- | ------------------------------------------------------------ | ------------------------------------- |
+| **Nominative ending** | -a, -e (preserved ancient forms)                             | -os, -us (contracted)                 |
+| **Accusative ending** | -an, -in (explicit)                                          | -o, -i (reduced)                      |
+| **Definite article**  | ashô, âshê, athôth (singular) / ashôi, âshai, athoi (plural) | 's, 't (enclitic particles)           |
+| **Passive voice**     | Full inflected passive                                       | Periphrastic (auxiliary + participle) |
+| **Aspect marking**    | explicit in conjugation                                      | often implied by particle system      |
+| **Imperative**        | elaborate, with politeness levels                            | direct, minimal marking               |
 
 ### Sample Constructions
 
@@ -125,12 +125,12 @@ These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Co
 
 **Feminine register:**
 
-- _Âsh sôthira thásirôn ésharin arkhîdhin pânthôn_—"The wisdom of the gods is the beginning of all things" (full case marking: _thásirôn_ gen. pl., _pânthôn_ gen. pl.)
-- _Thásiran sôthiras dôkházhimir pâshai_—"We honor the goddess of wisdom with all reverence" (_thásiran_ acc. fem., _sôthiras_ gen., _dôkházhimir_ 1st pl., _pâshai_ dat. pl. fem.)
+- _Âshê sôthira thásirôn ésharin arkhîdhin plûmôn_—"The wisdom of the gods is the beginning of all things" (full case marking: _thásirôn_ gen. pl., _plûmôn_ gen. pl.)
+- _Thásiran sôthiras dôkházhimir plûmai_—"We honor the goddess of wisdom with all reverence" (_thásiran_ acc. fem., _sôthiras_ gen., _dôkházhimir_ 1st pl., _plûmai_ dat. pl. fem.)
 
 **Masculine register:**
 
-- _Sôthira thásirôn'sh, árshidhir pântha_—"God's wisdom starts everything" (enclitic possessive _'sh_ replaces full genitive article, _pântha_ acc. neut. pl. replaces _pânthôn_)
+- _Sôthira thásirôn's, árshidhir plûmâ_—"God's wisdom starts everything" (enclitic possessive _'s_ replaces full genitive article, _plûmâ_ acc. neut. pl. replaces _plûmôn_)
 - _Dókhémir sôthira thásiras méghal_—"We think highly of the divine wisdom" (_dókhémir_ 1st pl. from _dókhanir_, _thásiras_ gen. fem. from _thásir_, _méghal_ truncated from _méghara_)
 
 In modern Bethuan, educated speakers code-switch fluidly, employing the feminine register for formal contexts and the masculine register for casual interaction.
@@ -217,7 +217,7 @@ The result is a productive irony that runs through all of Bethûan life: the mos
 
 Where the feminine examples above (see Sample Constructions) run on pure Helonic vocabulary, ordinary practical speech mixes the strata freely:
 
-- _En-telekâs'sh khabetûn pleôs et-degân_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'sh_, reduced inflection, three Khelâthi loans—_en-telekâs, khabetûn, et-degân_—carried on a Helonic frame).
+- _En-telekâs's khabetûn pleôs et-degân_—"The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'s_, reduced inflection, three Khelâthi loans—_en-telekâs, khabetûn, et-degân_—carried on a Helonic frame).
 
 ## Regional Dialects
 
@@ -235,11 +235,11 @@ Bethuan shows less dialectal variation than other Helonic languages, due to stro
 
 All phrases use vocabulary from the shared [[skill-helonclng|Helonic]] lexicon.
 
-- **Thásira sôthira árshidhir pântha**—"The goddess of wisdom rules all things" (formal, feminine; _thásira_ nom. fem., _árshidhir_ 3rd sing. from _árshidhin_, _pântha_ acc. pl.)
-- **Âsh harmôdhin kôshamir sôthashir**—"Harmony holds the world together" (poetic, feminine; _sôthashir_ middle voice from _sôtharin_)
+- **Thásira sôthira árshidhir plûmâ**—"The goddess of wisdom rules all things" (formal, feminine; _thásira_ nom. fem., _árshidhir_ 3rd sing. from _árshidhin_, _plûmâ_ acc. pl.)
+- **Âshê harmôdhin kôshamir sôthashir**—"Harmony holds the world together" (poetic, feminine; _sôthashir_ middle voice from _sôtharin_)
 - **Sôthira ésharin agháthin, thásiras dôrashin**—"Wisdom is a good thing, a goddess's gift" (philosophical, feminine; _agháthin_ neut. nom., _thásiras_ gen. fem., _dôrashin_ neut. nom.)
-- **Dókhémir káliran sôthira, thásiras dôrashin**—"We value the beauty of wisdom, the goddess's gift" (casual, masculine; _dókhémir_ 1st pl. from _dókhanir_, reduced inflection)
-- **Ôlashin kôshamir ên harmôdhin**—"The entire cosmos is in balance" (formal; _harmôdhin_ dat. from _harmôdhin_)
+- **Dókhémir kéliran sôthira, thásiras dôrashin**—"We value the beauty of wisdom, the goddess's gift" (casual, masculine; _dókhémir_ 1st pl. from _dókhanir_, reduced inflection)
+- **Ôlashin kôshamir ýn harmôdhin**—"The entire cosmos is in balance" (formal; _harmôdhin_ dat. from _harmôdhin_)
 
 ## Related Languages
 

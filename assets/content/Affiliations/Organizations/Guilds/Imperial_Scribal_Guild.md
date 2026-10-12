@@ -55,9 +55,9 @@ A Guild examiner opens every final oral the same way. She lays an imperial edict
 
 ## Overview
 
-The Imperial Scribal Guild is the institution that makes Vylaria possible. The [[affiliation-vylarinmpr|Empire]] reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between Magnápolis and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
+The Imperial Scribal Guild is the institution that makes Vylaria possible. The [[affiliation-vylarinmpr|Empire]] reaches across four provinces, hundreds of cities, thousands of villages and a frontier that runs nearly to the [[place-khzryndsrtrgn|Khazryn Desert]], and all of that reach depends on legible records: tax rolls, military census, land registers, court judgments, imperial edicts, treasury accounts and the daily correspondence between Ôrzâra and the provincial seats. Someone has to write, file, copy, retrieve and certify every page. The Guild trains, examines, licenses and, when it must, disciplines every one of those someones.
 
-Its central hall stands in [[place-magnapolis|Magnápolis]], with a chapterhouse in every provincial capital. A charter granted by imperial edict in the eighty-third year of the present dynasty set it up, and the charter has been renewed and expanded twice since. The Guild is a founding-era member of the [[affiliation-magnumclgm|Magnum Collegium]], and its High Hand holds an ex officio seat on the Collegium's Curia Collegiorum.
+Its central hall stands in [[place-orzara|Ôrzâra]], with a chapterhouse in every provincial capital. A charter granted by imperial edict in the eighty-third year of the present dynasty set it up, and the charter has been renewed and expanded twice since. The Guild is a founding-era member of the [[affiliation-magnumclgm|Magnum Collegium]], and its High Hand holds an ex officio seat on the Collegium's Curia Collegiorum.
 
 If the [[affiliation-ordoarcanis|Ordo Arcanis]] is the empire's magical backbone, the Scribal Guild is its administrative one. A guild scribe's seal at the foot of a document carries the same warranty in a Vylarian court as an Ordo mage's seal carries in a chamber of inquiry. An imperial edict that no guild scribe has sealed has no force. A tax roll that no guild hand has touched cannot be collected. A land sale not registered through a guild office is not, in any practical sense, a sale.
 
@@ -77,7 +77,7 @@ A scribe climbs five ranks:
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
-The current High Hand is **Iulia Verronius**, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Magnápolis and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
+The current High Hand is **Iulia Verronius**, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Ôrzâra and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
 
 ## Notable Members
 
@@ -96,7 +96,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 - **Authentication and forgery detection.** Disputed documents go to Guild experts for analysis, and imperial courts treat Guild rulings as authoritative.
 - **Document protection.** Guild cryptographers encode sensitive imperial correspondence in ciphers that rotate by guild protocol.
 - **Training and licensing.** The seven-year course, periodic re-examination of senior scribes and revocation of licenses for proven misconduct.
-- **Archives.** The Guild keeps the imperial archive at Magnápolis and a provincial archive at each chapterhouse. The Magnápolis archive holds the original of every imperial edict issued in the last four centuries.
+- **Archives.** The Guild keeps the imperial archive at Ôrzâra and a provincial archive at each chapterhouse. The Ôrzâra archive holds the original of every imperial edict issued in the last four centuries.
 
 ## Relations
 
@@ -104,7 +104,7 @@ In practice the Guild loses these arguments often enough to make its members cyn
 - **The [[affiliation-magnumclgm|Magnum Collegium]]** is the umbrella body under which the Guild holds its standing throughout the Vylarian-influenced world. The High Hand's seat on the Curia Collegiorum makes the Guild one of the weightiest single members. Its procedural conservatism suits the Collegium's Censores, and the two institutions work closely on credential fraud and forgery prosecutions.
 - **The [[affiliation-ordoarcanis|Ordo Arcanis]]** cooperates formally. Ordo-trained scribes produce the Ordo's own internal documents under license from the Guild, an arrangement of careful parity between two institutions that each consider themselves senior.
 - **The [[affiliation-panepistmm|Panepistemium]]** is an academic friend. Many senior scribes are also associates of the Epistemium (the accepted short form of the Panepistemium), which lends the Guild much of its intellectual prestige, and the Guild gives the Epistemium archival access.
-- **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Magnápolis's procedural rulings, and Magnápolis suspects, often correctly, that they bend the rules.
+- **The provincial chapterhouses** keep a chapterhouse-level autonomy that is constantly renegotiated. They chafe under Ôrzâra's procedural rulings, and Ôrzâra suspects, often correctly, that they bend the rules.
 
 ## Identifying Marks
 
@@ -113,6 +113,6 @@ Scribes wear a dark blue stole over their working clothes, plain for probationer
 ## Plot Hooks
 
 - **The Forged Edict.** An imperial edict has been acted on in a provincial capital and proved, weeks later, to be a forgery. The seal is authentic, so the forgery began inside the Guild. The High Hand must find the compromised member without letting the empire learn that the Guild's procedures have been breached.
-- **The Lost Original.** The original of a critical fifty-year-old treaty cannot be found in the Magnápolis archive. Both signatories' copies exist but differ on a material point, and until the original turns up (or is proved destroyed) enforcement is in limbo. Several powerful houses have a large interest in the outcome.
+- **The Lost Original.** The original of a critical fifty-year-old treaty cannot be found in the Ôrzâra archive. Both signatories' copies exist but differ on a material point, and until the original turns up (or is proved destroyed) enforcement is in limbo. Several powerful houses have a large interest in the outcome.
 - **The Reform Crisis.** A new Imperial Quaestor, frustrated by Guild delays, has authorized non-Guild scribes on his own authority to handle routine tax documentation in two provinces. The Guild treats this as an existential challenge. The Council must choose between a public confrontation that may force the Quaestor's recall and a tacit acceptance that weakens its monopoly.
-- **The Apprentice's Discovery.** A probationer at the Magnápolis chapterhouse, copying old correspondence, notices a pattern of small alterations in one Guildmaster's dispatches going back twenty years. Taken together, the alterations would change the documented history of a war.
+- **The Apprentice's Discovery.** A probationer at the Ôrzâra chapterhouse, copying old correspondence, notices a pattern of small alterations in one Guildmaster's dispatches going back twenty years. Taken together, the alterations would change the documented history of a war.

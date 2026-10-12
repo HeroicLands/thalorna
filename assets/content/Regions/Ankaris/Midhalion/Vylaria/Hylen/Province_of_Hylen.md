@@ -30,7 +30,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
@@ -108,4 +108,4 @@ The Province of Hylen uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
 - [[place-hylen|Hylen]]—the land the province holds
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—sister provinces
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Sâlkhâlon]]—sister provinces

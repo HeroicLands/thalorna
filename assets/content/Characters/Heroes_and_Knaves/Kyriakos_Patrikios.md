@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: {byzarianlg: {rank: 3}, venusia: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, olvenia: {rank: 1}}
   socialTies: {affiliation-irnwlvscmpny: nemesis}
   gender: male
   species: humanflk

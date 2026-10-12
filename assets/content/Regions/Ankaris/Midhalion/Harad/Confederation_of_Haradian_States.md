@@ -194,7 +194,7 @@ Haradian cooking is famous across Mídhalión, built on spiced meats, flatbreads
 
 ## Religion
 
-Haradian faith is syncretic. The [[affiliation-arldnpnthn|Aurèldían Pantheon]], imposed in the Vylarian period, still dominates the coastal cities, where the merchant class favors [[lore-venusiadty|Ólvenía]] for prosperity and [[lore-menervadty|Ménérva]] for knowledge, and sailors and naval officers honor [[lore-taranondty|Táranon]] of the storms. The eastern states and the hill tribes keep strong ties to the [[affiliation-ashanpnthn|Āsháian Pantheon]], a tradition older than the Vylarian conquest; [[affiliation-ahurdaen|Āhúrdáén]] (order and harmony), [[affiliation-korsadra|Khóršádrä]] (knowledge and eternal light) and [[affiliation-aravesta|Árávēštä]] (prosperity and hedonism) have large followings. In many Haradian cities the Aurèldían and Āsháian temples stand side by side, and a single family often patronizes both.
+Haradian faith is syncretic. The [[affiliation-arldnpnthn|Aurèldían Pantheon]], imposed in the Vylarian period, still dominates the coastal cities, where the merchant class favors [[lore-olveniadty|Ólvenía]] for prosperity and [[lore-menervadty|Ménérva]] for knowledge, and sailors and naval officers honor [[lore-taranondty|Táranon]] of the storms. The eastern states and the hill tribes keep strong ties to the [[affiliation-ashanpnthn|Āsháian Pantheon]], a tradition older than the Vylarian conquest; [[affiliation-ahurdaen|Āhúrdáén]] (order and harmony), [[affiliation-korsadra|Khóršádrä]] (knowledge and eternal light) and [[affiliation-aravesta|Árávēštä]] (prosperity and hedonism) have large followings. In many Haradian cities the Aurèldían and Āsháian temples stand side by side, and a single family often patronizes both.
 
 ## Magic
 

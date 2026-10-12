@@ -10,7 +10,7 @@ data: {demonym: Ólvestrian, lore: [], parents: [tarvenirgn], packFolder: tarven
 
 ## Overview
 
-Ólvestria is one of the great commercial cities of the west, named in the same breath as [[place-magnapolis|Magnápolis]] and [[place-byzariargn|Byzaría]] when merchants talk about where goods fetch the highest prices. It stands in [[place-tarvenirgn|Tarvénia]], and what a traveler meets first is its gate: **the Twin Gate of Ólvestria**, one of the most consequential thresholds in all of Aurèldía, kept by knights whose whole order exists to keep gates.
+Ólvestria is one of the great commercial cities of the west, named in the same breath as [[place-orzara|Ôrzâra]] and [[place-byzariargn|Byzaría]] when merchants talk about where goods fetch the highest prices. It stands in [[place-tarvenirgn|Tarvénia]], and what a traveler meets first is its gate: **the Twin Gate of Ólvestria**, one of the most consequential thresholds in all of Aurèldía, kept by knights whose whole order exists to keep gates.
 
 ## The City of Oaths and Gates
 

@@ -17,7 +17,7 @@
  *
  * Read past, because they are not prose: a `shortcode:` line, a
  * `# terran_analog:` comment, a wikilink's target, a markdown link's target, an
- * address and inline code. Shortcodes keep their original letters on purpose.
+ * address and inline code.
  */
 
 import assert from "node:assert/strict";
@@ -43,6 +43,14 @@ export const RETIRED = [
     {
         retired: ["Vénusia", "Venusia", "Vénusian", "Vénustria", "Vénustrian"],
         replacement: "Ólvenía",
+        scope: "corpus",
+    },
+    { retired: ["Aethería", "Aetheria"], replacement: "Zûnêlâs", scope: "corpus" },
+    { retired: ["Múrkír", "Murkir", "Múrkían"], replacement: "Pôzêrâs", scope: "corpus" },
+    { retired: ["Jánite", "Jánites"], replacement: "Árdavan", scope: "corpus" },
+    {
+        retired: ["Thánatic", "Thanatine", "Thanatines", "Thánatan"],
+        replacement: "Sélmoran",
         scope: "corpus",
     },
     { retired: ["Kael"], replacement: "the host culture's given names", scope: "corpus" },

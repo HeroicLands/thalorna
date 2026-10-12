@@ -18,7 +18,7 @@ data:
 
 Grain, wine and olive oil: the empire lives on what Hylen grows. It is the territory of the [[affiliation-provnchyln|Province of Hylen]] in the [[affiliation-vylarinmpr|Vylarian Empire]], seven million people on the fertile lowlands and terraced hillsides of [[place-vylariargn|Vylaría Region]], where a few aristocratic families hold estates as large as valleys and grow the grain, wine and olive oil that the empire lives on. Its seat is [[place-aravantia|Aravantia]].
 
-An estate steward, riding the boundary with a newly hired bailiff on his first morning, gives the whole lesson in a few sentences: "Everything between this road and that ridge belongs to the house. Everything past the ridge belongs to the neighbors, and they sit in the Senate too. Between us we send the capital its bread, and in all my years nobody in Magnápolis has asked how it gets there."
+An estate steward, riding the boundary with a newly hired bailiff on his first morning, gives the whole lesson in a few sentences: "Everything between this road and that ridge belongs to the house. Everything past the ridge belongs to the neighbors, and they sit in the Senate too. Between us we send the capital its bread, and in all my years nobody in Ôrzâra has asked how it gets there."
 
 ## Character
 
@@ -26,7 +26,7 @@ Where [[affiliation-provinclys|Alyssa]] runs on politics and intrigue, Hylen run
 
 ## Economy
 
-Agriculture dominates. Hylen's grain feeds the capital and the legions, its wine and olive oil are exported across the [[place-vylarianse|Vylarian Sea]], and its estates add wool, linen and leather. Almost nothing is manufactured here. The lords prefer to sell raw goods and buy finished ones from [[affiliation-provinclys|Alyssa]] and [[affiliation-provincvld|Vald]], so the province sends out what it grows and brings in what it wears and uses.
+Agriculture dominates. Hylen's grain feeds the capital and the legions, its wine and olive oil are exported across the [[place-vylarianse|Vylarian Sea]], and its estates add wool, linen and leather. Almost nothing is manufactured here. The lords prefer to sell raw goods and buy finished ones from [[affiliation-provinclys|Alyssa]] and [[affiliation-provincvld|Sâlkhâlon]], so the province sends out what it grows and brings in what it wears and uses.
 
 ## Notable Features
 

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [nartum]
-  affiliations: {hlykngdmnrtm: {rank: 3}, janus: {rank: 1}}
+  affiliations: {hlykngdmnrtm: {rank: 3}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 677.106

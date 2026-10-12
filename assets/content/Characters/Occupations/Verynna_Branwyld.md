@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [aureliane]
-  affiliations: {kngdmprvnz: {rank: 2}, aetheria: {rank: 3}}
+  affiliations: {kngdmprvnz: {rank: 2}, zunelas: {rank: 3}}
   gender: female
   species: humanflk
   born: 690.235

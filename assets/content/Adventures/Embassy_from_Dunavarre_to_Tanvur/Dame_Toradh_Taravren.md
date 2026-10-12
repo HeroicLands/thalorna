@@ -11,7 +11,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {rank: 2}, janus: {rank: 1}}
+  affiliations: {kingdmdnvr: {rank: 2}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   packFolder: adventures
@@ -380,4 +380,4 @@ sohl:
 
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]].
 
-**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-janus|Árdavon]]—and may act on her own conscience rather than the Order's official stance.
+**Intrigue.** Secretly despises that crusade, holding it contrary to the true principles of the Order and of [[affiliation-ardavon|Árdavon]]—and may act on her own conscience rather than the Order's official stance.

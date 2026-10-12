@@ -12,7 +12,7 @@ data:
   lore: []
   culture: bethuanclt
   homes: [ashira]
-  affiliations: {mtrrchybth: {rank: 3}, venusia: {rank: 1}}
+  affiliations: {mtrrchybth: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 686.263

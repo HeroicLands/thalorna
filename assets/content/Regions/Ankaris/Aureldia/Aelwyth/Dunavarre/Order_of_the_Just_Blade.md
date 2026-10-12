@@ -30,4 +30,4 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A militant order of the [[affiliation-janus|Faith of Árdavon]], god of order and justice. Its Knight-Captains carry his principles into the field, and one of them, [[being-toradhtaravren|Dame Toradh Taravren]], secretly holds the crusade against the Saelvri to be a betrayal of them.
+A militant order of the [[affiliation-ardavon|Faith of Árdavon]], god of order and justice. Its Knight-Captains carry his principles into the field, and one of them, [[being-toradhtaravren|Dame Toradh Taravren]], secretly holds the crusade against the Saelvri to be a betrayal of them.

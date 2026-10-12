@@ -80,7 +80,7 @@ The organization grew in Heliónis, where the Academy of the Silver Veil already
 
 ## Territory
 
-**Primary:** Vylarian cities (especially Magnápolis and Alyssa), Provenzian courts and cultural centers, Helionite city-states (Thyrenae, Pelagora, Kalydria)
+**Primary:** Vylarian cities (especially Ôrzâra and Alyssa), Provenzian courts and cultural centers, Helionite city-states (Thyrenae, Pelagora, Kalydria)
 
 **Secondary:** The Velvet Hand maintains small cells in every major city where powerful people gather. A single agent in a Haradian guild hall or a Ta.Khelâthi court can be worth more than a dozen enforcers.
 
@@ -96,7 +96,7 @@ The organization grew in Heliónis, where the Academy of the Silver Veil already
 
 ## Organization
 
-The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Magnápolis might manage six informants but knows nothing about operations in Provènzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
+The Velvet Hand operates in isolated cells, each knowing only its immediate handler. A pleasure house madam in Ôrzâra might manage six informants but knows nothing about operations in Provènzia. Handlers report to regional coordinators, who communicate through coded letters delivered via the Velvet Hand's own courier network—often traveling performers or itinerant scholars whose movements attract no suspicion.
 
 Leadership is deliberately opaque. The organization is rumored to be run by a council, possibly based in Heliónis, but no one outside the highest levels knows for certain. This ambiguity is intentional—you cannot betray what you do not know, and you cannot decapitate what you cannot find.
 

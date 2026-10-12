@@ -81,7 +81,7 @@ Example constructions:
 ### Notable Grammatical Features
 
 - **Gender system:** Three genders (masculine, feminine, neuter) marked throughout nouns, adjectives, and determiners
-- **Articles:** Definite article _ho/he/to_ (the); indefinite article _tis_ (a/an)
+- **Articles:** Definite article _ash/âsh/ath_ (the); indefinite article _fôm_ (a/an)
 - **Verb system:** Rich conjugation with active, middle, and passive voices; aspect (perfective/imperfective) is marked
 - **Participial constructions:** Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
 - **Double accusative:** Verbs of making and naming can take two accusative objects
@@ -130,7 +130,7 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 | _kôshamir_   | world, order, universe             | masc. nom.; gen. _kôshamirou_                                                            |
 | _ánthimor_   | person, human                      | masc. nom.; gen. _anthimorou_                                                            |
 | _métharin_   | measure                            | neut. nom.; gen. _métharou_                                                              |
-| _káliran_    | beauty, the beautiful              | neut. nom. (adj. used as noun); masc. _kálir_, fem. _kálîra_                             |
+| _kéliran_    | beauty, the beautiful              | neut. nom. (adj. used as noun); masc. _kélir_, fem. _kélira_                             |
 | _dôrashin_   | gift                               | neut. nom.; gen. _dôrashou_, pl. _dôrasha_                                               |
 | _lékhisir_   | word, speech                       | fem. nom.; gen. _lékhisis_                                                               |
 | _émpharin_   | merchant, trader                   | masc. nom.; gen. _émpharou_                                                              |
@@ -164,41 +164,41 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 
 ### Adjectives & Determiners
 
-| Helonic                       | Meaning                | Notes                                                                      |
-| ----------------------------- | ---------------------- | -------------------------------------------------------------------------- |
-| _ash / âsh / ath_             | the (def. article)     | masc. / fem. / neut. nom. sing.; pl. _ashîr / âshîr / athîr_               |
-| _thîs_                        | a, some (indef.)       |                                                                            |
-| _pâsh / pâsha / pân_          | all, every             | masc. / fem. / neut.; gen. _pânthir / pâshîs / pânthir_, dat. pl. _pâshai_ |
-| _ôlashin_                     | whole, entire          |                                                                            |
-| _kálir / kálîra / káliran_    | beautiful, good, noble |                                                                            |
-| _sáphir_                      | clear, evident         | indeclinable                                                               |
-| _euthálir_                    | profitable, valuable   |                                                                            |
-| _méghar / méghara / mégha_    | great, large           |                                                                            |
-| _agháthin_                    | good                   |                                                                            |
-| _thásir / thásira / thásiron_ | divine                 | derived from _thásirin_                                                    |
+| Helonic                       | Meaning                | Notes                                                                    |
+| ----------------------------- | ---------------------- | ------------------------------------------------------------------------ |
+| _ash / âsh / ath_             | the (def. article)     | masc. / fem. / neut. nom. sing.; pl. _ashîr / âshîr / athîr_             |
+| _fôm_                         | a, some (indef.)       |                                                                          |
+| _plûm / plûma / plûman_       | all, every             | masc. / fem. / neut.; gen. _plûmir / plûmîs / plûmir_, dat. pl. _plûmai_ |
+| _ôlashin_                     | whole, entire          |                                                                          |
+| _kélir / kélira / kéliran_    | beautiful, good, noble |                                                                          |
+| _lêphir_                      | clear, evident         | indeclinable                                                             |
+| _euthálir_                    | profitable, valuable   |                                                                          |
+| _méghar / méghara / mégha_    | great, large           |                                                                          |
+| _agháthin_                    | good                   |                                                                          |
+| _thásir / thásira / thásiron_ | divine                 | derived from _thásirin_                                                  |
 
 ### Particles & Prepositions
 
 | Helonic | Meaning                      | Notes        |
 | ------- | ---------------------------- | ------------ |
-| _ên_    | in                           | + dative     |
-| _dhía_  | through                      | + accusative |
-| _pára_  | by, beside                   | + dative     |
-| _shýn_  | with                         | + dative     |
-| _thî_   | (emphatic/focus particle)    |              |
-| _mâ_    | not (subjunctive/imperative) |              |
+| _ýn_    | in                           | + dative     |
+| _drês_  | through                      | + accusative |
+| _pêm_   | by, beside                   | + dative     |
+| _fûn_   | with                         | + dative     |
+| _thê_   | (emphatic/focus particle)    |              |
+| _neur_  | not (subjunctive/imperative) |              |
 
 ### Derivation in Daughter Languages
 
-Byzarian simplifies inflection: _ash/ath_ contract to enclitics; case endings reduce; eastern particles (_da, yok, mi_) supplement the inherited system. Bethuan preserves full inflection in the feminine register but reduces it in the masculine register, where _ash/âsh/ath_ may contract to _'sh/'th_ and case endings truncate.
+Byzarian simplifies inflection: _ash/ath_ contract to enclitics; case endings reduce; eastern particles (_zhe, vesh, tchaz_) supplement the inherited system. Bethuan preserves full inflection in the feminine register but reduces it in the masculine register, where _ash/âsh/ath_ may contract to _'s/'th_ and case endings truncate.
 
 ## Sample Phrases
 
-- **Sôthira ésharin arkhîdhin pânthon**—"Wisdom is the beginning of all things" (philosophical maxim)
-- **Ath káliran théradhin ésharin thásiron**—"To behold beauty is divine" (aesthetic principle)
+- **Sôthira ésharin arkhîdhin plûmôn**—"Wisdom is the beginning of all things" (philosophical maxim)
+- **Ath kéliran théradhin ésharin thásiron**—"To behold beauty is divine" (aesthetic principle)
 - **Rhéthashin, dhidákhir!**—"Speak, teach!" (rhetorical exhortation)
-- **Métharin thî pânthon ésharin ánthimor**—"Man is the measure of all things" (philosophical principle)
-- **Ôlashin kôshamir ên lékhisir**—"The entire cosmos in a single word" (poetic compression)
+- **Métharin thê plûmôn ésharin ánthimor**—"Man is the measure of all things" (philosophical principle)
+- **Ôlashin kôshamir ýn lékhisir**—"The entire cosmos in a single word" (poetic compression)
 
 ## Related Languages
 

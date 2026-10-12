@@ -31,7 +31,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
@@ -64,7 +64,7 @@ data:
       Legate: Commander of a legion, or governor of an imperial province, commissioned by the emperor.
       Proconsul: Governor of a senatorial province, appointed by lot from among the consulars.
       Pontifex Maximus: Chief priest of the state cult, an office the emperor holds in his own person.
-  seat: magnapolis
+  seat: orzara
   population: 21000000
   economy:
     - affiliation-aerarimmpr
@@ -93,9 +93,9 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 ## Overview
 
-The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of [[place-midhalnrgn|Mídhalión]], from [[place-tarvenirgn|Tarvénia]] and [[place-provenzrgn|Provènzia]] in the west to the edge of [[affiliation-cnfdrtnhrdnstts|Harad]] in the east. Today it holds [[place-vylariargn|Vylaría]], its four provinces the lands of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-vald|Vald]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
+The Vylarian Empire is a great power living on the reputation of a greater one. For hundreds of years it ruled most of [[place-midhalnrgn|Mídhalión]], from [[place-tarvenirgn|Tarvénia]] and [[place-provenzrgn|Provènzia]] in the west to the edge of [[affiliation-cnfdrtnhrdnstts|Harad]] in the east. Today it holds [[place-vylariargn|Vylaría]], its four provinces the lands of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its power has shrunk steadily for two centuries. What it gave the world still shapes it: its roads, its language, its law and its steel.
 
-The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-magnapolis|Magnápolis]], begins with the titles: "You will hear the Emperor called the **Augustar**, and you will call him that too. You will hear the Senate debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
+The freedman secretary of a senatorial house, briefing a newly accredited envoy before his first audience in [[place-orzara|Ôrzâra]], begins with the titles: "You will hear the Emperor called the **Augustar**, and you will call him that too. You will hear the Senate debate as if it governed, and you will listen as if it did. And you will hear the provinces named that have not paid a tax here in a lifetime. Do not correct anyone. Here the forms are the government, and a man who laughs at them has told the whole court which side he is on."
 
 ## History
 
@@ -161,7 +161,7 @@ Weak emperors become puppets of the Senate or the Ordo; strong ones face conspir
 
 ## Religion
 
-The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the state religion, and [[lore-janusdty|Árdavon]] (order, justice and honorable struggle) holds the highest place as patron of the empire, in name at least. Vylarian religious life is far busier and more disorderly than the official picture.
+The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the state religion, and [[lore-ardavondty|Árdavon]] (order, justice and honorable struggle) holds the highest place as patron of the empire, in name at least. Vylarian religious life is far busier and more disorderly than the official picture.
 
 Vylaria is remarkably tolerant of other faiths and remarkably fickle about them. The empire has always absorbed the religions of the peoples it conquered, and the capital is a bazaar of competing cults, temples and movements. Aurèldían temples dominate the old city. [[affiliation-ashanpnthn|Āsháian]] fire-shrines draw fashionable devotees, [[affiliation-asguardian|Asguardian]] warrior-cults draw military officers, and mystery traditions from [[place-helionis|Heliónis]] offer initiation to a curious aristocracy. New movements arrive every season, enjoy a burst of court patronage, and either take root or fade. The Senate and the great families use religious patronage as a political tool: backing a temple signals allegiance, builds a network and undercuts a rival.
 
@@ -181,22 +181,22 @@ The Ordo and the imperial government need each other and do not trust each other
 
 A census clerk of the Scribal Guild, asked how large the empire is, answers in two figures: what is under the Emperor's hand, and what is on the maps. For all its decline, the first is still large.
 
-| Province                              | People                      | Character                                          |
-| ------------------------------------- | --------------------------- | -------------------------------------------------- |
-| [[affiliation-provinclys\|Alyssa]]    | about 7,000,000             | the dense heartland, Magnápolis's million included |
-| [[affiliation-provnchyln\|Hylen]]     | about 7,000,000             | the breadbasket                                    |
-| [[affiliation-provincvld\|Vald]]      | about 5,000,000             | the maritime province                              |
-| [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys     |
-| [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | semi-autonomous city-states                        |
+| Province                              | People                      | Character                                      |
+| ------------------------------------- | --------------------------- | ---------------------------------------------- |
+| [[affiliation-provinclys\|Alyssa]]    | about 7,000,000             | the dense heartland, Ôrzâra's million included |
+| [[affiliation-provnchyln\|Hylen]]     | about 7,000,000             | the breadbasket                                |
+| [[affiliation-provincvld\|Sâlkhâlon]] | about 5,000,000             | the maritime province                          |
+| [[affiliation-provncmktr\|Moktur]]    | barely 2,000,000            | the mountain frontier, thin across its valleys |
+| [[affiliation-ctysttshlns\|Heliónis]] | another 2,000,000–3,000,000 | semi-autonomous city-states                    |
 
-Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million with Heliónis. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's million mouths are fed by Hylen's grain, Vald's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
+Some **21 million** people live under direct imperial governance in the four core provinces, and well over twenty-three million with Heliónis. These are the numbers of a great power, and a fraction of what the empire commanded at its height, when its writ ran across most of the continent and its subjects numbered many tens of millions. The capital's million mouths are fed by Hylen's grain, Sâlkhâlon's fisheries and seaborne imports, and the grain-dole machinery of the [[affiliation-curiaurbis|Curator of the Grain]], the same logistics that make so large a city possible at all.
 
 ## The Four Provinces
 
 - **[[affiliation-provinclys|Alyssa]]**—the heartland, holding the capital and the Senate; the most urban and politically sophisticated province, home to the oldest senatorial families and the seat of the Ordo Arcanis.
 - **[[affiliation-provnchyln|Hylen]]**—the breadbasket, whose fertile lowlands grow grain, wine and olive oil; its landed aristocracy is conservative, traditionalist and resistant to change.
 - **[[affiliation-provncmktr|Moktur]]**—the mountainous northern province on the [[place-vrystwald|Vrystwald]] border, charged with defending the frontier; its military governors hold wide autonomy and sometimes act as semi-independent warlords.
-- **[[affiliation-provincvld|Vald]]**—the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Harad and Heliónis, which makes it the most cosmopolitan and commercial province.
+- **[[affiliation-provincvld|Sâlkhâlon]]**—the coastal province on the [[place-vylarianse|Vylarian Sea]], home of the shipyards and naval bases; its merchants have the most dealings with Harad and Heliónis, which makes it the most cosmopolitan and commercial province.
 
 The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-speaking realm, shares the empire's culture and language but keeps its own sovereignty and a theocratic devotion to the Aurèldían faith.
 
@@ -229,7 +229,7 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and 
 
 - [[place-vylariargn|Vylaría Region]]—the land the empire holds
 - [[lore-vylarianclt|Vylarian]]—the people, their manners and their obligations
-- [[place-magnapolis|Magnápolis]]—the capital
+- [[place-orzara|Ôrzâra]]—the capital
 - [[affiliation-curiavylar|Curia Vylaria]]—the Senate
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the dominant arcane order
 - [[affiliation-vylrnmltry|Vylarian Military]]—the legions and the fleet
@@ -240,6 +240,6 @@ The empire uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and 
 - [[place-vrystwald|Vrystwald]]—the northern frontier
 - [[place-vylarianse|Vylarian Sea]]—the empire's maritime domain
 - [[skill-vylarilng|Vylari]]—the language and its naming conventions
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—the provinces
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Sâlkhâlon]]—the provinces
 - [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]]—independent Vylari-speaking realm
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the state pantheon

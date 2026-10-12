@@ -6,7 +6,7 @@ name:
 type: affiliation
 subType: order
 description: "Sworn knightly enforcers of binding oaths and contracts under Árdavon—answering when civil law fails to compel the oath-breaker who once swore the binding word."
-tags: [organization, aureldia, fighting-order, janus, oath]
+tags: [organization, aureldia, fighting-order, ardavon, oath]
 data:
   templatePriority: null
   demonym: null
@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 _Aurèldían: Ordo Verbi Signati—"The Order of the Sealed Word"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-janus|Árdavon]]—Aurèldían god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
+- **Patron:** [[affiliation-ardavon|Árdavon]]—Aurèldían god of oaths, gates, beginnings, transitions, and the dualities that separate one state from another
 - **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses in all five Aurèldían kingdoms, with the mother-house at [[place-olvestria|Ólvestria]] in [[place-tarvenirgn|Tarvénia]]
 
 ## Overview

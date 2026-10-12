@@ -46,7 +46,9 @@
  *    begins) and the suffixes the lexicon declares.
  * 5. **The register.** Every name of a note in scope stands in the register
  *    with that note's address; every register row names a note that carries
- *    the name and a tongue the register declares; a row in the tongue's own
+ *    the name, or writes it in bold in its prose as the name of someone or
+ *    something with no note of its own, and a tongue the register declares;
+ *    a row in the tongue's own
  *    name gives parts that recompute, or is counted as not yet reached.
  * 6. **Retired names.** A retired name written anywhere in the content tree
  *    is an error at the place it is written; poetry fences, literature notes
@@ -705,6 +707,17 @@ export function namesInScope(tree, scope) {
     return names;
 }
 
+/**
+ * Whether a note's prose writes a name in bold: a person or a place the note
+ * names without a note of its own. The frontmatter is not read.
+ */
+function boldIn(text, key) {
+    const body = text.replace(/^---\n[\s\S]*?\n---\n?/, "");
+    for (const match of body.matchAll(/\*\*([^*\n]+)\*\*/g))
+        if (keyOf(match[1]) === key) return true;
+    return false;
+}
+
 /** Where a literal sits in a text, or null. */
 function locate(text, literal, from = 0) {
     const at = text.indexOf(literal, from);
@@ -1079,7 +1092,7 @@ export function analyseTongue(config, input) {
                     "error",
                     `**${row.name}** names [[${address}]], which no note has`,
                 );
-            else if (!target.names.has(key))
+            else if (!target.names.has(key) && !boldIn(target.text, key))
                 lexFinding(row.at, "error", `**${row.name}** is not a name of [[${address}]]`);
         }
     }

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [myrtillos]
-  affiliations: {kostaros2: {rank: 4}, murkir: {rank: 1}}
+  affiliations: {kostaros2: {rank: 4}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 694.45

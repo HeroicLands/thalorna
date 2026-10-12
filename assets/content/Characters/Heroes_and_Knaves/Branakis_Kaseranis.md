@@ -11,7 +11,7 @@ data:
   occupation: Charcoaler
   lore: []
   culture: vylarianclt
-  homes: [solheim]
+  homes: [kurzalora]
   affiliations: {hlykngdmnrtm: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [pelagora2]
-  affiliations: {pelagora: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {pelagora: {rank: 4}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: "668.100"

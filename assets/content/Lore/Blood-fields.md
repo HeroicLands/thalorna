@@ -33,7 +33,7 @@ Each people explains the wound by the rite its dead went without:
 - **Vedyara:** no conch was sounded, no threshold lamp lit and no pyre kindled, so the way behind the souls never closed.
 - **The Nordlands:** no grave-ale was drunk for them, so the dead ride with the Jól-Ride and never leave.
 - **The Varokh:** no Shaman called the dead home to their totem.
-- **Vylaria and Aurèldía:** the dead were not judged in order before [[affiliation-thanatos|Sélmoros]].
+- **Vylaria and Aurèldía:** the dead were not judged in order before [[affiliation-selmoros|Sélmoros]].
 
 ## What Does Not
 

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: {kngdmlvndr: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 695.94

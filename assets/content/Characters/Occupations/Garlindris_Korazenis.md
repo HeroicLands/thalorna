@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, janus: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 4}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.277

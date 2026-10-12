@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}, janus: {rank: 1}}
+  affiliations: {theradon: {rank: 4}, ardavon: {rank: 1}}
   gender: female
   species: humanflk
   born: 684.276

@@ -77,10 +77,10 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-The Council of Korinthea consults the Temple of [[lore-janusdty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
+The Council of Korinthea consults the Temple of [[lore-ardavondty|Árdavon]] on matters of law and civic honor before it acts. The council is the visible government of a city-state of about 410,000 people, held by an oligarchy of its wealthy patron families, and the temple's judges sit beside the families who rule it, in the service of a god of order and justice. [[place-korinthea2|Korinthea]], with 40,000 of the people, is the seat.
 
 - **Government:** oligarchy of wealthy patron families, working through a council
-- **Patron deity:** [[lore-janusdty|Árdavon]], god of order and justice
+- **Patron deity:** [[lore-ardavondty|Árdavon]], god of order and justice
 - **High Judge of the Temple:** [[being-dumarsrfrs|Dûmàrês Râfîrôs]]
 
 ## Who Decides

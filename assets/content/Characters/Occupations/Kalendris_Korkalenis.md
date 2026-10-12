@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [velysara]
-  affiliations: {vylarinmpr: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 4}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.83

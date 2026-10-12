@@ -30,7 +30,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
@@ -83,7 +83,7 @@ In the Province of Moktur the governor is a soldier, and some governors behave a
 
 Moktur is the most martial province of the empire. Its people are proud, self-reliant and faintly contemptuous of the soft southerners of [[affiliation-provinclys|Alyssa]] and [[affiliation-provnchyln|Hylen]]. Military service here is expected as well as honored, and the province produces the empire's best soldiers: its legions are the most battle-tested in the [[affiliation-vylrnmltry|Vylarian military]].
 
-The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the senators in Magnápolis. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
+The frontier is not a clean line. Varokh communities sit within Moktur's nominal borders, and some Mokturan border lords have more in common with the chiefs across the line than with the senators in Ôrzâra. Intermarriage, trade and occasional truces make a border culture that neither side fully controls. A militia elder explains it to a new magistrate: "You will be told the Varokh are on the other side. Some of them are, and some are your neighbors, and the ones across the line have cousins on this side. Learn who is whose before you pass a judgment."
 
 ## Economy
 
@@ -98,7 +98,7 @@ Beyond the mines and timber described under [[place-moktur|Moktur]], the provinc
 
 Moktur is the wild end of the empire: mountains, forested hills, fast cold rivers and a short, hard growing season. It is the province for mines, logging, hunting and frontier soldiering, and the one place inside the empire where the wilderness, and the people who live by it, lie beyond the capital's reach.
 
-Power belongs to the military governors and the border lords, some little better than warlords, and their loyalty to [[place-magnapolis|Magnápolis]] is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
+Power belongs to the military governors and the border lords, some little better than warlords, and their loyalty to [[place-orzara|Ôrzâra]] is a matter of convenience. A settlement here is walled, watchful, and loyal first to whoever can defend it.
 
 Trouble in Moktur is frontier trouble: raids and reprisals across the Vrystwald march, feuds between border lords, contested mining claims, smuggling over the passes, monsters and Varokh war-bands in the high country, and the murky politics of a half-Vylarian, half-Varokh borderland. Where the Varokh tribes themselves are meant, rather than the communities inside the border, see [[affiliation-vrystwldtrbs|the tribes of Vrystwald]].
 
@@ -113,4 +113,4 @@ The Province of Moktur uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—parent polity
 - [[place-moktur|Moktur]]—the land the province holds
 - [[place-vrystwald|Vrystwald]]—the northern frontier
-- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Vald]]—sister provinces
+- [[affiliation-provinclys|Province of Alyssa]], [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provincvld|Province of Sâlkhâlon]]—sister provinces

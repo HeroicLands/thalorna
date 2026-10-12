@@ -18,7 +18,7 @@ data: {packFolder: adventurersguides}
 
 ## What You Meet First
 
-The House is the unit of everything. A Dómissa leads it, it owns the land, the workshops, the boats and the cargoes, and a Bethûan woman introduces herself by her House before her own name. The realm stands on two pillars: the **Sacred College** of high priestesses of [[affiliation-arldnpnthn|Lúsinía]], [[affiliation-arldnpnthn|Aethería]] and [[affiliation-arldnpnthn|Ólvenía]], and the **Council of Houses** of the matriarchs. The Mêtríssa, queen and high priestess at once, sits where they meet and wears the **Purple Veil**.
+The House is the unit of everything. A Dómissa leads it, it owns the land, the workshops, the boats and the cargoes, and a Bethûan woman introduces herself by her House before her own name. The realm stands on two pillars: the **Sacred College** of high priestesses of [[affiliation-arldnpnthn|Lúsinía]], [[affiliation-arldnpnthn|Zûnêlâs]] and [[affiliation-arldnpnthn|Ólvenía]], and the **Council of Houses** of the matriarchs. The Mêtríssa, queen and high priestess at once, sits where they meet and wears the **Purple Veil**.
 
 A foreign man who trades here is served fairly, his coin taken and his contracts honored, and he is met throughout with a cool condescension. A foreign woman trading on her own account is dealt with woman to woman and may find Bethûa the easiest market on the coast. An official of Aû'Khelâthu, man or woman, is received with marked deference, and everyone watching is meant to notice. Bethûa strikes no coin of its own; purses hold [[lore-aukhlthcrncy|Khelâthi weight-pieces]], and large sums move as letters of credit sealed by the [[affiliation-bthntrdhss|Trade-Houses]].
 

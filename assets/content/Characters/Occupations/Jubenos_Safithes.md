@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [thyrenae2]
-  affiliations: {thyrenae: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {thyrenae: {rank: 4}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 688.97

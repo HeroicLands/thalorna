@@ -23,7 +23,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [vulcandty]
+  lore: [ustarondty]
   parents: [blackflame]
   relations: {blackflame: aligned, vrystwldtrbs: nemesis}
 sohl: {system: {commonSkills: []}}

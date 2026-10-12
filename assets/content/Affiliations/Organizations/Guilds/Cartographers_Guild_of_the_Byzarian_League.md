@@ -50,7 +50,7 @@ sohl: {system: {commonSkills: []}}
 - Type: chartered professional guild
 - Region: [[place-byzariargn|Byzaría]], with chapterhouses in every League city
 - Charter: originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative—the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing
-- Magnum Collegium status: full member; the Grand Cartographer holds the Cartographers' seat on the **Curia Collegiorum** at [[place-magnapolis|Magnápolis]]
+- Magnum Collegium status: full member; the Grand Cartographer holds the Cartographers' seat on the **Curia Collegiorum** at [[place-orzara|Ôrzâra]]
 
 ## Overview
 

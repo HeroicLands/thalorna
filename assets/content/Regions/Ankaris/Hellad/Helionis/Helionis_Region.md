@@ -39,7 +39,7 @@ Women's standing varies from city to city. In some cities women are confined to 
 
 The [[affiliation-arldnpnthn|Aurèldían Pantheon]] runs through every part of Helionite life, and Heliónis regards itself as the spiritual heartland of the Aurèldían faith. Its great temples are among the most magnificent in the world. Its festivals combine solemn ritual with athletic contests, theatrical performances and public feasting, and they draw pilgrims from across the Vylarian Sea.
 
-Three of the gods stand highest here. [[lore-menervadty|Ménérva]], goddess of knowledge and wisdom, holds special prominence in a region that lives by its learning. Artists and mystics revere [[lore-theriadty|Aethería]], goddess of dreams and visions. [[lore-janusdty|Árdavon]], god of order and justice, presides over legal and civic affairs.
+Three of the gods stand highest here. [[lore-menervadty|Ménérva]], goddess of knowledge and wisdom, holds special prominence in a region that lives by its learning. Artists and mystics revere [[lore-zunelasdty|Zûnêlâs]], goddess of dreams and visions. [[lore-ardavondty|Árdavon]], god of order and justice, presides over legal and civic affairs.
 
 The mystery cults are a distinctly Helionite institution: secretive religious societies that promise their initiates deeper spiritual knowledge through revelation in stages. Some are purely spiritual. Several have real political influence.
 

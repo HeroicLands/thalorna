@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: {kngdmldrth: {rank: 5}, janus: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 5}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: "691.34"

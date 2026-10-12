@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblcndrth: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {repblcndrth: {rank: 4}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: "695.110"

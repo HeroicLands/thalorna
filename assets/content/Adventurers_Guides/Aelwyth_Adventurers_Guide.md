@@ -30,7 +30,7 @@ The island's reputation abroad is wrong about its people and right about its lan
 
 ## Ways In
 
-An Ondarethan merchant hires you to get a relic past the officers at Ravenmoor, and the Synod already knows it is aboard. A lord in Aldorath has lost his Ordo advisor, his harvest has failed, and he wants to know what he did. A Vardain family asks strangers to carry word to kin who are thralls on the [[place-stormplain|Stormplain]]. An Ondarethan fisherman who could never afford to buy a court turns to [[affiliation-thanatos|Sélmoros]], the god who cannot be bought, and needs hands for what follows.
+An Ondarethan merchant hires you to get a relic past the officers at Ravenmoor, and the Synod already knows it is aboard. A lord in Aldorath has lost his Ordo advisor, his harvest has failed, and he wants to know what he did. A Vardain family asks strangers to carry word to kin who are thralls on the [[place-stormplain|Stormplain]]. An Ondarethan fisherman who could never afford to buy a court turns to [[affiliation-selmoros|Sélmoros]], the god who cannot be bought, and needs hands for what follows.
 
 ## Where to Read Next
 

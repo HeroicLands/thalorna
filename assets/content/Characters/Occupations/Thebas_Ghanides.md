@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {rank: 4}, murkir: {rank: 1}}
+  affiliations: {korinthea: {rank: 4}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 669.52

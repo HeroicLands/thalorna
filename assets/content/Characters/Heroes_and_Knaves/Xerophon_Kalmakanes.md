@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [ashenmere]
-  affiliations: {provncmktr: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {provncmktr: {rank: 4}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: "681.140"

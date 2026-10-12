@@ -86,7 +86,7 @@ This campaign is composed of a series of adventures. Players will be members of 
 1. **Name:** [[being-toradhtaravren|Dame Toradh Taravren]]
 
 - **Role:** Captain of the _Order of the Just Blade_ and provides military counsel.
-- **Background:** A Knight-Captain of the [[affiliation-justbladeordr|Order of the Just Blade]] (a militant order of the [[affiliation-janus|Faith of Árdavon]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
+- **Background:** A Knight-Captain of the [[affiliation-justbladeordr|Order of the Just Blade]] (a militant order of the [[affiliation-ardavon|Faith of Árdavon]], god of order and justice), Dame Toradh is a decorated warrior with experience in various military campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]]. Her accolades are a source of tension with Sir Arren who feels overshadowed by her real battle experience.
 - **Intrigue:** Though she has fought in the crusade, Dame Toradh secretly despises it, considering it contrary to the true principles of the Order and the faith of Árdavon. Her disdain for the crusade could be a morally charged narrative, possibly leading her to take actions that align more with her true beliefs than the official stance of the Order.
 
 ### Sergeant-at-Arms and Spymaster
@@ -140,7 +140,7 @@ Name: [[being-geldarpanivel|Geldar Panivel, the Younger]]
 
 - **Role:** Ensures meals are prepared appropriately.
 - **Background:** Well-known for his culinary skills and ability to maintain morale through food.
-- **Intrigue:** Geldar is secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblcndrth|Ondarethan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Thanatine or to bolster his standing among the Thanatines in Ondareth. Given his covert activities, he might be planning poisonings or sabotage within the party.
+- **Intrigue:** Geldar is secretly a [[affiliation-selmoros|Sélmoran]] acolyte and spy. Three years ago, in 717, he was involved in the kidnapping and murder of [[being-balothnemirina|Baloth Nemirina]], a [[affiliation-repblcndrth|Ondarethan]] Senator. This act binds him to a criminal past that could be used against him. Geldar may exploit this information to his advantage—either as a bargaining chip to save himself if he is exposed as a Sélmoran or to bolster his standing among the Sélmorans in Ondareth. Given his covert activities, he might be planning poisonings or sabotage within the party.
 
 ### Falconer/Huntsman
 

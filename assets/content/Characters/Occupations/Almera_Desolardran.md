@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valthari]
-  affiliations: {kingdmtrvn: {rank: 2}, murkir: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 2}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 696.83

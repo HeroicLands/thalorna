@@ -24,7 +24,9 @@
             "Lore/Cultures/Sumarmal.md",
             "Lore/Cultures/Midsumar.md",
             "Lore/Cultures/Vetrnaetr.md",
-            "Lore/Asguard/Thursguard.md"
+            "Lore/Asguard/Thursguard.md",
+            "Regions/Ankaris/Midhalion/Vylaria/Salkhalon/Braldvik.md",
+            "Regions/Ankaris/Midhalion/Vylaria/Salkhalon/History/The_Winter_of_the_Banked_Fire.md"
         ],
         "homes": ["nrdlndsrgn", "vrystwald"]
     },
@@ -104,6 +106,50 @@
             {
                 "word": "Rāsikara",
                 "tongue": "Vedyari"
+            },
+            {
+                "word": "Sâlkhênôs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Mârendâtês",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Ilthêrâ",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Vârêlândis",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Hôlvêthôs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Zênôthâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Sôrimâ",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Zûnêlâs",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Sâlkhâlon",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Thôlkezôra",
+                "tongue": "Vylari"
+            },
+            {
+                "word": "Bethûan",
+                "tongue": "Bethûan"
             }
         ]
     },
@@ -13663,7 +13709,7 @@
             "oldAddress": null,
             "oldImage": null,
             "newName": "The God of Dreams",
-            "newAliases": ["Aulveira", "Luváth", "Bjartr", "Aethería"],
+            "newAliases": ["Aulveira", "Luváth", "Bjartr", "Zûnêlâs"],
             "newPath": "assets/content/Lore/The_God_of_Dreams.md",
             "newShortcode": "goddreams",
             "newAddress": "lore-goddreams",
@@ -20231,6 +20277,81 @@
             "description": "Shaman of the Eichthúl, who keeps the count of the kindred's dead under the Hrindstead posts.",
             "prose": null,
             "note": "oldName: null — given and clan from the published Varokhi lists.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": "Brennvik",
+            "oldAliases": null,
+            "oldPath": "assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Brennvik.md",
+            "oldShortcode": "brennvik",
+            "oldAddress": "place-brennvik",
+            "oldImage": null,
+            "newName": "Braldvík",
+            "newAliases": [],
+            "newPath": "assets/content/Regions/Ankaris/Midhalion/Vylaria/Salkhalon/Braldvik.md",
+            "newShortcode": "braldvik",
+            "newAddress": "place-braldvik",
+            "newImage": null,
+            "newHome": "salkhalon",
+            "newTags": null,
+            "type": "place",
+            "subType": "settlement",
+            "description": "Sâlkhâlon's largest fishing town and the one place on the Vylarian coast with a Nordmal name, given by a Malagna crew stranded there in 523 AF.",
+            "prose": null,
+            "note": "_brald-_ \"a fire banked to keep overnight\" in the hard grade + `-vík` \"an inlet\": ground held from itself, named by the crew for the fire they kept banked on the headland through the winter of 523. Replaces a borrowed form that was no Nordmal compound (`brenn-` is no element), and keeps its opening and its generic so the town's name still sounds as it did.",
+            "oldRefPaths": [
+                "815918ab0:assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Brennvik.md:3:14",
+                "815918ab0:assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Brennvik.md:19:1",
+                "815918ab0:assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Brennvik.md:21:182",
+                "815918ab0:assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Vald.md:45:20",
+                "815918ab0:assets/content/Regions/Ankaris/Midhalion/Vylaria/Vald/Saltholm.md:19:377"
+            ],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Dvilgvir",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": "One of Hvirnmýl's crew, who kept the fire banked on the headland through the winter of 523 AF, stayed in the village and married Ilthêrâ Sâlkhênôs.",
+            "prose": null,
+            "note": "oldName: null — coined for the Winter of the Banked Fire; _dvilg-_ \"sleep taken standing, on watch\" in the middle grade with the bestowal ending `-vir`, a man: the night-watch over the fire.",
+            "oldRefPaths": [],
+            "boldKind": "none"
+        },
+        {
+            "oldName": null,
+            "oldAliases": null,
+            "oldPath": null,
+            "oldShortcode": null,
+            "oldAddress": null,
+            "oldImage": null,
+            "newName": "Hvirnmýl",
+            "newAliases": null,
+            "newPath": null,
+            "newShortcode": null,
+            "newAddress": null,
+            "newImage": null,
+            "newHome": null,
+            "newTags": null,
+            "type": "being",
+            "subType": "given",
+            "description": "Malagna captain of the Southern Fleets who took a Provenzian galley through the western strait to the Sâlkhâlon coast in 523 AF, rowed seven years in the imperial fleet, and came home in 532.",
+            "prose": null,
+            "note": "oldName: null — coined for the Winter of the Banked Fire; _hvirn-_ \"water that will not freeze\" in the middle grade with the bestowal ending `-mýl`, a man: the captain who went looking for the warm sea.",
             "oldRefPaths": [],
             "boldKind": "none"
         }

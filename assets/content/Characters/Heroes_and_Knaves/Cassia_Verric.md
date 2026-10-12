@@ -15,7 +15,7 @@ data:
   occupation: Intelligence Officer
   lore: []
   culture: vylarianclt
-  homes: [magnapolis]
+  homes: [orzara]
   affiliations: {vylarinmpr: {rank: 5}}
   gender: female
   species: humanflk
@@ -402,7 +402,7 @@ Cassia Verric is an unremarkable woman, and works at it. She is of middling heig
 
 ### Origin and Service
 
-Cassia Verric is a career officer of the [[affiliation-vylarinmpr|Vylarian]] intelligence service, born to a minor administrative family of [[place-magnapolis|Magnápolis]] and raised in the empire's vast bureaucratic machine rather than its legions or its Senate. She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vylarian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethûa's]] deniable war of its deniability.
+Cassia Verric is a career officer of the [[affiliation-vylarinmpr|Vylarian]] intelligence service, born to a minor administrative family of [[place-orzara|Ôrzâra]] and raised in the empire's vast bureaucratic machine rather than its legions or its Senate. She came up through the harbor-offices and customs-houses of the western ports, where the empire watches its rivals' shipping, and learned early that a clerk with the right ledgers and the right informants is worth a cohort. For two decades she has run agents along the contested [[place-vylarianse|Vylarian Sea]], shepherding defectors, buying captains, and quietly bleeding [[affiliation-mtrrchybth|Bethûa's]] deniable war of its deniability.
 
 Her sex is one of her sharpest instruments. [[affiliation-mtrrchybth|Bethûa]] is a matriarchy that suffers a foreign _man_ in its ports only grudgingly—served, watched, and quietly reminded at every turn that he holds no standing—but deals with a foreign _woman_ trading on her own account as a normal merchant, woman to woman. Where a male Vylarian agent would meet friction at every gate and counting-house, Cassia passes through the matriarchy's harbors and trade-houses with an ease no man could buy. The empire knows the value of this, and spends her where a woman's freedom of movement is worth more than a legion.
 

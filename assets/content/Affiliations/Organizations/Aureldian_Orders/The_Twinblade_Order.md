@@ -6,7 +6,7 @@ name:
 type: affiliation
 subType: order
 description: "Knightly guardians of thresholds—city gates, treaty borders, sacred boundaries—bearing the paired blades that symbolize Árdavon's two faces, one for what was sworn and one for what comes after the breach."
-tags: [organization, aureldia, fighting-order, janus, thresholds]
+tags: [organization, aureldia, fighting-order, ardavon, thresholds]
 data:
   templatePriority: null
   demonym: null
@@ -49,7 +49,7 @@ sohl: {system: {commonSkills: []}}
 _Aurèldían: Ordo Bifrons—"The Order of Two Faces"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-janus|Árdavon]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
+- **Patron:** [[affiliation-ardavon|Árdavon]]—Aurèldían god of oaths, gates, beginnings, and the dualities that separate one state from another
 - **Region:** [[place-aureldirgn|Aurèldía]]—chapter houses at the most consequential gates, borders, and threshold-sites across the five kingdoms; mother-house at the Twin Gate of [[place-olvestria|Ólvestria]]
 
 ## Overview

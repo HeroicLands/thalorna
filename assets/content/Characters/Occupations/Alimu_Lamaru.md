@@ -12,7 +12,7 @@ data:
   lore: []
   culture: haradianclt
   homes: [kashmuret]
-  affiliations: {cnfdrtnhrdnstts: {rank: 3}, janus: {rank: 1}}
+  affiliations: {cnfdrtnhrdnstts: {rank: 3}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 667.107

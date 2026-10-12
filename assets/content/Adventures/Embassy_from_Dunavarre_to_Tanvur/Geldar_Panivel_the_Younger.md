@@ -11,7 +11,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: []
-  affiliations: {kingdmdnvr: {rank: 2}, thanatos: {rank: 2}}
+  affiliations: {kingdmdnvr: {rank: 2}, selmoros: {rank: 2}}
   gender: male
   species: humanflk
   packFolder: adventures
@@ -378,4 +378,4 @@ sohl:
 
 **Background.** Well known for his culinary skill.
 
-**Intrigue.** Secretly a [[affiliation-thanatos|Thanatine]] acolyte and spy. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Thanatines. May be planning poisonings or sabotage.
+**Intrigue.** Secretly a [[affiliation-selmoros|Sélmoran]] acolyte and spy. In 717 he took part in the kidnapping and murder of the Senator [[being-balothnemirina|Baloth Nemirina]]—a past that can be used against him, and that he may use himself, as a bargaining chip or to raise his standing among the Sélmorans. May be planning poisonings or sabotage.

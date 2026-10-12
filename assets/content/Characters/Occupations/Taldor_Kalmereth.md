@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [elanmere]
-  affiliations: {kngdmlvndr: {rank: 2}, murkir: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: "673.18"

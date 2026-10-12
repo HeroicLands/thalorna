@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: {kngdmldrth: {rank: 2}, thanatos: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, selmoros: {rank: 1}}
   gender: male
   species: humanflk
   born: "679.9"

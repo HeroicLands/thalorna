@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: {kngdmprvnz: {rank: 2}, murkir: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 2}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.255

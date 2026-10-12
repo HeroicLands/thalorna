@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}, venusia: {rank: 1}}
+  affiliations: {theradon: {rank: 4}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 690.263

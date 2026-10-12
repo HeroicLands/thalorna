@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}, thanatos: {rank: 1}}
+  affiliations: {theradon: {rank: 4}, selmoros: {rank: 1}}
   gender: female
   species: humanflk
   born: 687.339

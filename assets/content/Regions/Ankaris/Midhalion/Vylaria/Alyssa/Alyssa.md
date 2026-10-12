@@ -18,7 +18,7 @@ data:
 
 Almost nothing in Alyssa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alyssa]], the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] within [[place-vylariargn|Vylaría Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vylarian road network. Its provincial capital is [[place-alyssar|Alyssar]].
 
-A porter in one of the gate-yards outside [[place-magnapolis|Magnápolis]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means Ostenna, and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around Vennara, and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely Tibur. Everything else is grain, and you will carry it."
+A porter in one of the gate-yards outside [[place-orzara|Ôrzâra]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means Ostenna, and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around Vennara, and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely Tibur. Everything else is grain, and you will carry it."
 
 ## Character
 
@@ -26,7 +26,7 @@ The capital dominates everything around it. Its senatorial estates, bureaucratic
 
 ## Economy
 
-Alyssa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Hylen]] for grain and [[affiliation-provincvld|Vald]] for seafood and imports, which is why the gate-yards never empty. What Alyssa produces is influence, law and **Vylarian Steel**. The capital's metalworking guilds are the finest in Ankaris, and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages.
+Alyssa runs on government, trade and the crafts that serve the wealthy. It grows little surplus food of its own and depends on [[affiliation-provnchyln|Hylen]] for grain and [[affiliation-provincvld|Sâlkhâlon]] for seafood and imports, which is why the gate-yards never empty. What Alyssa produces is influence, law and **Vylarian Steel**. The capital's metalworking guilds are the finest in Ankaris, and access to the production of Vylarian Steel is one of the empire's most closely guarded advantages.
 
 ## Notable Features
 
@@ -41,7 +41,7 @@ Alyssa is the most densely settled of the provinces. A carter can leave one town
 
 **The cities.**
 
-- [[place-magnapolis|Magnápolis]] (something under 1,000,000)—the imperial capital, seat of the Augustar, the Senate and the Ordo Arcanis, so vast it is kept as its own thing rather than filed under the province. See [[place-urbsaquiln|Urbs Aquilion]] and the [[place-pnthnrldnm|Pantheon Aurèldiānum]].
+- [[place-orzara|Ôrzâra]] (something under 1,000,000)—the imperial capital, seat of the Augustar, the Senate and the Ordo Arcanis, so vast it is kept as its own thing rather than filed under the province. See [[place-urbsaquiln|Urbs Aquilion]] and [[place-pnthnrldnm|Sârkhenâ Dôrêkhis]].
 - [[place-alyssar|Alyssar]] (about 45,000)—the provincial capital and administrative seat of Alyssa proper.
 - [[place-lentora|Lentora]] (about 32,000)—the province's second city, market and governing hub of the inner farm-and-villa country.
 - [[place-belekos|Belekos]] (about 25,000)—a merchant city of the river valleys, grown rich on agricultural surplus and trade.

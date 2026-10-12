@@ -37,10 +37,10 @@ sohl: {system: {commonSkills: []}}
 
 An usher of the Curia can tell you how a day's business will go before the first speaker rises, and he does it by watching where the senators sit. "See who has taken the bench beside whom. See which of them has left a gap. By the time the speaker is on his feet, the vote is half cast, and the speech is for the record and for the galleries. If you are called to the floor and nobody sits near you, you will be heard politely and you will lose."
 
-The **Curia Vylaria** (_Vylarian: "the Vylarian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-urbsaquiln|Urbs Aquilion]], the Inner City of [[place-magnapolis|Magnápolis]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Augustar, the emperor. The senatorial order is drawn from the senior estates: the founding **Aurelii** and the established **Argentei**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
+The **Curia Vylaria** (_Vylarian: "the Vylarian Court"_) is at once a building and the body that fills it: the Palace of the Senate within [[place-urbsaquiln|Urbs Aquilion]], the Inner City of [[place-orzara|Ôrzâra]], and the patrician assembly that gathers there. Beneath its bronze doors and within its tiered, semicircular chamber, the great families of the empire convene to debate, to posture, to conspire and, in theory, to advise the Augustar, the emperor. The senatorial order is drawn from the senior estates: the founding **Aurelii** and the established **Argentei**, the houses whose names carry weight enough to claim a seat beneath the dome. The order guards its dignity jealously even in the ages when its power is least.
 
 - **Type:** Imperial deliberative assembly and high court; seat of the patrician order
-- **Seat:** The Curia Vylaria, within Urbs Aquilion, the Inner City of Magnápolis
+- **Seat:** The Curia Vylaria, within Urbs Aquilion, the Inner City of Ôrzâra
 - **Membership:** The senatorial order, the senior houses of the [[affiliation-vylrnmltry|Aurelian and Argentean estates]]
 - **Answerable to:** The reigning Augustar
 
@@ -58,7 +58,7 @@ A strong Augustar reduces the Curia to a chorus, consulted for form, flattered a
 
 ## The Senate as High Court
 
-Beyond its deliberative role, the Curia Vylaria is the **highest court for senatorial persons**. The civic [[affiliation-curiaurbis|courts of Magnápolis]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-curiaurbis|imperial tribunals]] in the **Officia Imperii** take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Curia itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Augustar's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
+Beyond its deliberative role, the Curia Vylaria is the **highest court for senatorial persons**. The civic [[affiliation-curiaurbis|courts of Ôrzâra]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-curiaurbis|imperial tribunals]] in the **Officia Imperii** take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Curia itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Augustar's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
 
 ## Relations
 
@@ -80,4 +80,4 @@ Beyond its deliberative role, the Curia Vylaria is the **highest court for senat
 - [[affiliation-curiaurbis|Curia Urbis]]—civic government and courts of the city beyond the wall
 - [[affiliation-vylrnmltry|The Vylarian Military]]—the noble estates that fill the senatorial order
 - [[affiliation-pratrgstrm|The Praetar Augustarum]]—the imperial guard, the armed factor in any succession
-- [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]
+- [[place-orzara|Ôrzâra]] · [[affiliation-vylarinmpr|Vylarian Empire]]

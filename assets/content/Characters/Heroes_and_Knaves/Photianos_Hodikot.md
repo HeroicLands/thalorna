@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [gumushisar2]
-  affiliations: {byzarianlg: {rank: 3}, janus: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 660.336

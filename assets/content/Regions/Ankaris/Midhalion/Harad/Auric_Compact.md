@@ -75,7 +75,7 @@ A letter of credit under the Auric Compact's seal is accepted as currency across
 
 ## Counting Houses and Agents
 
-The Compact works through counting houses in every major Haradian city and most of the major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Vald]] to [[place-helionis|Heliónis]] to the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]].
+The Compact works through counting houses in every major Haradian city and most of the major ports of the [[place-vylarianse|Vylarian Sea]]. Its agents—factors, assessors and debt collectors—are a familiar sight in harbors from [[affiliation-provincvld|Sâlkhâlon]] to [[place-helionis|Heliónis]] to the [[affiliation-empireakhlth|Empire of Aû'Khelâthu]].
 
 ## The Debt That Rules Harad
 

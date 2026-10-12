@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {vylarinmpr: {rank: 4}, thanatos: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 4}, selmoros: {rank: 1}}
   gender: male
   species: humanflk
   born: 668.331
@@ -402,7 +402,7 @@ Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moder
 
 Bràzenlâs Vânamyês is an embalmer of Corvinus, the garrison town in the Alyssan heartland of [[place-vylariargn|Vylaría]], a Vylarian freeman and the third of his line in the trade, who has prepared the dead of the town and its garrison for thirty years by his grandfather's methods.
 
-Bràzenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the collegium, who use the quicker preparations from Magnápolis, find him a reproach.
+Bràzenlâs holds that the rite as his grandfather taught it is what sees a soul across, and a rite hurried or altered leaves the dead where they should not be. He does it the same way for a legionary and for the head of the oldest family in the town, and the old families come to him for exactly that. The garrison sends him its dead because he does not complain of the numbers. The younger embalmers of the collegium, who use the quicker preparations from Ôrzâra, find him a reproach.
 
 He is a known figure among the embalmers of Vylaria, and an unapproachable one.
 
@@ -432,7 +432,7 @@ Bràzenlâs's patrons are the old families of Corvinus, who want the rite their 
 
 ### Enemies
 
-The younger embalmers of the collegium, who use the Magnápolis preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
+The younger embalmers of the collegium, who use the Ôrzâra preparations and would have the guild drop the old rite from its standard; their leader wants the garrison contract.
 
 ## Plot Hooks
 

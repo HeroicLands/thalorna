@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [myrtillos]
-  affiliations: {kostaros2: {rank: 4}, janus: {rank: 1}}
+  affiliations: {kostaros2: {rank: 4}, ardavon: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.111

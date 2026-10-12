@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [castamere]
-  affiliations: {kingdmtrvn: {rank: 5}, murkir: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 5}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.161

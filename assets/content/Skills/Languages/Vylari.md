@@ -19,7 +19,7 @@ sohl:
 
 Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-vald|Vald]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]].
+Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] languages. It serves as the common tongue of trade, law and administration across much of Mídhalión, spoken in the great cities of [[place-alyssa|Alyssa]], [[place-hylen|Hylen]], [[place-moktur|Moktur]] and [[place-salkhalon|Sâlkhâlon]], and its oldest form is still the tongue of every rite in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]].
 
 ## Overview
 
@@ -280,7 +280,7 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 ## Related Languages
 
-Ancient Vylari is the mother of a family, and the scholars of [[place-magnapolis|Magnápolis]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds, its dual and its wishing mood in the oaths of the Pact; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi and keeps the dual. [[skill-provnzlng|Provenzal]] lost its cases and made articles of all three pointing words. [[skill-tarvenlng|Tarvéni]] kept three cases, three genders and the dual, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[doc-vylarilexcn|Vylari Lexicon]] sets roots from all five daughters side by side.
+Ancient Vylari is the mother of a family, and the scholars of [[place-orzara|Ôrzâra]] call the family by the empire's name. [[skill-aelendlng|Áelendi]] split from it first, in the highlands, and keeps its old sounds, its dual and its wishing mood in the oaths of the Pact; the Áelendan reject the name of the family outright. [[skill-elvndrlng|Élavendri]] is the lowland daughter of Áelendi and keeps the dual. [[skill-provnzlng|Provenzal]] lost its cases and made articles of all three pointing words. [[skill-tarvenlng|Tarvéni]] kept three cases, three genders and the dual, held up by an older mountain speech beneath it. [[skill-nordmalng|Nordmal]] and [[skill-varokhlng|Varokhi]] are cousins from the eastern Pelwar, outside the family. The [[doc-vylarilexcn|Vylari Lexicon]] sets roots from all five daughters side by side.
 
 ## Naming Traditions
 

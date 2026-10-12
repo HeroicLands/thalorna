@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [caerwynd]
-  affiliations: {kngdmldrth: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.64

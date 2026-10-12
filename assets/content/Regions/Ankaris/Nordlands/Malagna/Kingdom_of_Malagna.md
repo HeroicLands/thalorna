@@ -126,7 +126,7 @@ The land shows the same range. Gnarthborg's forges run on charcoal that Braldhei
 
 ## Relations
 
-Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[affiliation-provincvld|Vald]] and the ports of the [[place-vylarianse|Vylarian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Malagna nor against it.
+Malagna trades with Élavendre, with the northern communities of Aelwyth, and occasionally with [[affiliation-provincvld|Sâlkhâlon]] and the ports of the [[place-vylarianse|Vylarian Sea]]. Its dealings with the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal and competitive at once: the two kingdoms have long vied for dominance among the Nordmen. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms. [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]] and [[affiliation-kngdmvthgrd|Vithgard]] stand neither with Malagna nor against it.
 
 ## Commerce and Currency
 

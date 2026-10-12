@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: {kingdmtrvn: {rank: 3}, murkir: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 3}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: 688.111
@@ -485,7 +485,7 @@ House Gráveth
 : Her family house, whose interests she subtly promotes through her position.
 
 The Aurèldían Pantheon
-: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
+: A devoted follower of Pôzêrâs the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
 ## Plot Hooks
 

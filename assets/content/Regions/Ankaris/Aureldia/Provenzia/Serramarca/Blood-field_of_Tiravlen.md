@@ -29,7 +29,7 @@ villages remember people who watched too often and never came back to themselves
 The lakeside villages long ago stopped treating this as a crisis and turned it into a custom. On the
 anniversary the boats are drawn up, the shutters go closed at dusk, and households sit the night out
 together with the fire lit; in the morning there is a small offering at the water and the year goes
-on. Priests of [[affiliation-thanatos|Sélmoros]] attend where they are invited and have never been
+on. Priests of [[affiliation-selmoros|Sélmoros]] attend where they are invited and have never been
 asked to perform the rite of settlement—the villages are firm that the field is not troublesome and
 that the observance is theirs.
 

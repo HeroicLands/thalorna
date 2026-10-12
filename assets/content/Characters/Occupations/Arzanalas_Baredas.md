@@ -435,6 +435,6 @@ The Varokh war-bands across the march, and Lord Halvar's eldest son, who wants y
 
 2. **The Raid**—A Varokh band has come over the march in a bad summer with the household's best men away, and the only captain in Tyrellan is Arzânalàs, with a yard of boys he has trained and no knees.
 
-3. **The Lord's Loyalty**—Lord Halvar has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalàs swore to the house, not to Magnápolis, and someone from the capital has come to ask him what he has seen.
+3. **The Lord's Loyalty**—Lord Halvar has been dealing with a Varokh chief across the line in ways the capital would call treason and Moktur calls sense. Arzânalàs swore to the house, not to Ôrzâra, and someone from the capital has come to ask him what he has seen.
 
 4. **The Pupil**—The best spearman Arzânalàs ever trained has come back to Tyrellan as captain of a rival lord's household, and the two houses are about to quarrel over a ford.

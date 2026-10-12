@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [gumushisar2]
-  affiliations: {byzarianlg: {rank: 3}, venusia: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.262

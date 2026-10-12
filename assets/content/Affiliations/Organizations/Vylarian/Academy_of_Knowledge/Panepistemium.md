@@ -103,13 +103,13 @@ The traditional colleges of the Epistemium, as they stood in the Helionite perio
 
 **The College of Law**—Also known as jurisprudence: the nature of law, legal systems and legal reasoning, and the relation between law and morality. Vylarian legal philosophy, the foundation of the imperial code, was heavily shaped by Helionite jurisprudence absorbed through this college.
 
-### The Magnápolis Campus
+### The Ôrzâra Campus
 
-The institution's spiritual home is Heliónis, and [[affiliation-thyrenae|Thyrenae]] is its birthplace, but its largest and most politically central seat is in the imperial capital, [[place-magnapolis|Magnápolis]], where the campus sits in two very different registers.
+The institution's spiritual home is Heliónis, and [[affiliation-thyrenae|Thyrenae]] is its birthplace, but its largest and most politically central seat is in the imperial capital, [[place-orzara|Ôrzâra]], where the campus sits in two very different registers.
 
 A small, rarefied compound, the [[place-aulpnpstmm|Aula Panepistemium]], stands within the [[place-urbsaquiln|Urbs Aquilion]], against the Palace precinct. It is not a school. It is the institution's seat of counsel and keeping: a standing body of senior scholars who answer directly to the throne, the [[affiliation-curiavylar|Senate]] and the great houses, together with the **Bibliotheca Reservata**, a warded library of the rarest manuscripts, conquered archives and arcane artifacts too valuable or too dangerous to hold anywhere less secure.
 
-The working university, the vast majority of the campus, lies beyond the Inner Wall in its own chartered **Scholars' District**, ranged around the **Circle of Ménérva**. Here are the colleges, the lecture halls, the great reading-library, the residence halls, and the gardens and gymnasia. It is a purely scholarly quarter: the practical trades and their training belong to the [[affiliation-magnumclgm|Magnum Collegium]]'s guild-halls, and the Epistemium keeps no trade schools of its own. Its students come from patrician and well-propertied families able to support them through the long years of study. The District neither admits nor lodges the poor, and the institution keeps no presence in the city's outskirts at all. (For the campus in its civic setting, see [[place-magnapolis|Magnápolis]].)
+The working university, the vast majority of the campus, lies beyond the Inner Wall in its own chartered **Scholars' District**, ranged around the **Circle of Ménérva**. Here are the colleges, the lecture halls, the great reading-library, the residence halls, and the gardens and gymnasia. It is a purely scholarly quarter: the practical trades and their training belong to the [[affiliation-magnumclgm|Magnum Collegium]]'s guild-halls, and the Epistemium keeps no trade schools of its own. Its students come from patrician and well-propertied families able to support them through the long years of study. The District neither admits nor lodges the poor, and the institution keeps no presence in the city's outskirts at all. (For the campus in its civic setting, see [[place-orzara|Ôrzâra]].)
 
 ## History
 
@@ -143,7 +143,7 @@ The academies resent the Ordo's dominance, and the Ordo suspects the academies o
 
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—The College of Arcane Philosophy, now the dominant institution within the Epistemium
 - [[place-helionis|Heliónis]]—Birthplace and spiritual home of the Epistemium
-- [[place-magnapolis|Magnápolis]]—Imperial capital; site of the Epistemium's largest campus (the Scholars' District and the inner Bibliotheca Reservata)
+- [[place-orzara|Ôrzâra]]—Imperial capital; site of the Epistemium's largest campus (the Scholars' District and the inner Bibliotheca Reservata)
 - [[place-aulpnpstmm|Aula Panepistemium]]—The Epistemium's seat of counsel and keeping in the Urbs Aquilion
 - [[affiliation-vylarinmpr|Vylarian Empire]]—Political patron and, through the Ordo, de facto controller
 - [[place-elavendre|Élavendre]]—Aesthetic and bardic traditions influenced by the College of Aesthetics

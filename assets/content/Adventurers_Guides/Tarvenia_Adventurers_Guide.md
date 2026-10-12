@@ -20,7 +20,7 @@ data: {packFolder: adventurersguides}
 
 Selling a sword is an honorable career, the respectable road for a second son, and a village of no importance may be surprisingly well armed. Men go abroad under contract for years, and women run the holdings, the accounts and the contracts while they are away; in the free city and the free territory women hold office outright. A household takes in cousins, fosterlings and veterans of a dead brother's company, and a man who has fought four seasons beside another is kin.
 
-Honor is transacted in public. An insult given before witnesses is answered before the same witnesses, in proportion and not to the death, and a stranger who escalates too fast has misread the grammar. Magic is distrusted. A village wise-woman is a neighbor and answerable, and she is respected; an [[affiliation-ordoarcanis|Ordo]] mage who throws his weight about tends to end up with a knife between his ribs, and the investigation is slow. The faith keeps its village shrines and its own priests, and favors [[affiliation-janus|Árdavon]] of gates and oaths. The coin is [[lore-vylrncrncy|Vylarian]]: the Aurion, the Argo and the Bit.
+Honor is transacted in public. An insult given before witnesses is answered before the same witnesses, in proportion and not to the death, and a stranger who escalates too fast has misread the grammar. Magic is distrusted. A village wise-woman is a neighbor and answerable, and she is respected; an [[affiliation-ordoarcanis|Ordo]] mage who throws his weight about tends to end up with a knife between his ribs, and the investigation is slow. The faith keeps its village shrines and its own priests, and favors [[affiliation-ardavon|Árdavon]] of gates and oaths. The coin is [[lore-vylrncrncy|Vylarian]]: the Aurion, the Argo and the Bit.
 
 ## Where to Go
 
@@ -36,7 +36,7 @@ A company signs you on for a season abroad, and the employer begins to bend the 
 
 - [[place-tarvenirgn|Tarvénia Region]] and [[affiliation-kingdmtrvn|the Kingdom of Tarvénia]] for the five regions and the High King
 - [[lore-tarvenanclt|The Tarvénans]] for courage as a trade, honor and what a person owes
-- [[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-janus|the Faith of Árdavon]] for oaths and their keepers
+- [[affiliation-ordrsldwrd|The Order of the Sealed Word]] and [[affiliation-ardavon|the Faith of Árdavon]] for oaths and their keepers
 - [[affiliation-frctyvlthr|The Free City of Valthári]] and [[affiliation-kngdmstrth|Astúrath]] for the coast and the mountains
 - [[skill-tarvenlng|Tarvéni]] for the tongue and its names
 

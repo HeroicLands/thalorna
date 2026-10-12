@@ -424,7 +424,7 @@ Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, aub
 
 ### Early Life
 
-Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Mikhâen Bárkrâtys, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Valdis, a celebrated figure in the dueling circles of Vald, the capital city of the Empire.
+Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative service, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord Mikhâen Bárkrâtys, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of Swordmaster Valdis, a celebrated figure in the dueling circles of Sâlkhâlon, the capital city of the Empire.
 
 ### Training and Ascension
 
@@ -432,7 +432,7 @@ Under Valdis's exacting instruction, Korêmdânis proved to be talented beyond t
 
 ### Current Situation
 
-Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Korêmdânis operates a prestigious fencing academy in Vald that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
+Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Korêmdânis operates a prestigious fencing academy in Sâlkhâlon that is attended by the children of the realm's most powerful families. She teaches philosophy as well as technique, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate real commitment and refusing to teach those she believes would abuse their skills.
 
 ## Psyche
 
@@ -473,7 +473,7 @@ The Imperial House of Vylaria
 : The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
 
 House Bárkrâtys
-: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Vald.
+: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Sâlkhâlon.
 
 The Wyvern-Sword Company
 : A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on matters of war.
@@ -494,7 +494,7 @@ Her own ambition, an inner enemy
 
 ### Affiliations
 
-The City Fencing Guild of Vald
+The City Fencing Guild of Sâlkhâlon
 : She is the Guild's acknowledged master and is the final arbiter in disputes over technique and conduct within the dueling circles.
 
 The Path of Breath
@@ -511,6 +511,6 @@ House Bárkrâtys
 
 3. **The Imperial Succession Crisis**: The Emperor dies without a clear heir, and several claimants to the throne emerge. A faction supporting one of the claimants approaches Korêmdânis, offering her enormous wealth and power if she will publicly endorse their candidate. Her endorsement would likely determine the succession, making her responsible for the future of the Empire. The political intrigue threatens to embroil her in conflict far beyond her control.
 
-4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Vald and challenges Korêmdânis's understanding of the path she's devoted her life to mastering. Korêmdânis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
+4. **The Betrayal of the Path**: An ancient text surfaces suggesting that the Path of Breath was originally taught by a mystical order now lost to history, and that true mastery requires spiritual practices beyond martial training. A mysterious wanderer named the Ascetic appears in Sâlkhâlon and challenges Korêmdânis's understanding of the path she's devoted her life to mastering. Korêmdânis must journey with this mysterious teacher to discover whether she's been incomplete in her pursuit of mastery.
 
 5. **The Master's Retirement**: Swordmaster Valdis, Korêmdânis's ancient teacher and the only person she truly respects, approaches his end. He summons her to his deathbed and reveals that he has identified an heir—another student with potential matching her own. Valdis requests that Korêmdânis train this heir, passing on his legacy. But the heir is trained in a rival tradition, and Korêmdânis questions whether compromising her pure approach to teaching would betray everything Valdis taught her about integrity.

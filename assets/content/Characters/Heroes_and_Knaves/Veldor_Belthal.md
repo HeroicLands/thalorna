@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [cerdwnshlw]
-  affiliations: {kngdmlvndr: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.289

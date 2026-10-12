@@ -66,7 +66,7 @@ settings importer reads, generated against import format **1.4.2**.
 **A world with no calendar of its own gets the Common Calendar.** The module
 sets it during `init`, and only when the world calendar is still Foundry's
 Simplified Gregorian default — so a calendar another package has claimed is
-left alone. Foundry then divides the year into Floralis through Janar, names
+left alone. Foundry then divides the year into Floralis through Kâlpêzândi, names
 the week Newday through Setday, and marks the four seasons, and a world at time
 zero opens on **1 Floralis of year 1**, where the calendar's own count begins.
 The setting's present is year 720, so a campaign starting there sets the world

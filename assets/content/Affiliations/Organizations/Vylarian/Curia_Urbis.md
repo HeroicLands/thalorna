@@ -1,9 +1,9 @@
 ---
 shortcode: curiaurbis
-name: {full: Curia Urbis, aliases: [Magnápolis Courts]}
+name: {full: Curia Urbis, aliases: [Ôrzâra Courts]}
 type: affiliation
 subType: governmental
-description: "The civic government and courts of Magnápolis—ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
+description: "The civic government and courts of Ôrzâra—ruled by the Curia Urbis, a council of five imperial-appointed Curators, with a tiered court system beneath it; the throne's own imperial tribunals sit apart, within the Officia Imperii of the Inner City."
 tags: []
 data:
   templatePriority: null
@@ -47,13 +47,13 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## The Courts of Magnápolis
+## The Courts of Ôrzâra
 
-Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall**—its administration, its courts, its Watch, and its daily supply—is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **Officia Imperii** compound, answerable to the Augustar, the emperor, alone.
+Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-orzara|city]] beyond the Inner Wall**—its administration, its courts, its Watch, and its daily supply—is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-pratrgstrm|Praetar Augustarum]], the imperial guard. And the **imperial tribunals**—the throne's own courts—sit apart from both, within the **Officia Imperii** compound, answerable to the Augustar, the emperor, alone.
 
 ### The Curia Urbis—the Council of the City
 
-Magnápolis is not ruled by a prefect. The Empire learned long ago that a single man set over a city of a million—commanding its courts, its granaries, and its armed Watch all at once—is a man with the means to make himself a rival to the throne. So the city is governed instead by a **council of five**, the **Curia Urbis**, whose members are appointed (and dismissed) by the Augustar, most often drawn from the senatorial order.
+Ôrzâra is not ruled by a prefect. The Empire learned long ago that a single man set over a city of a million—commanding its courts, its granaries, and its armed Watch all at once—is a man with the means to make himself a rival to the throne. So the city is governed instead by a **council of five**, the **Curia Urbis**, whose members are appointed (and dismissed) by the Augustar, most often drawn from the senatorial order.
 
 The five **Curators** sit as equals and decide the weightier matters as a body, by majority. Each holds a standing portfolio:
 
@@ -71,7 +71,7 @@ Beneath the council runs a tiered court system. The [[affiliation-vylrnmltry|Cit
 
 A ward clerk of the Aediles, asked how the tiers look from the bottom, answers for most of the city: "Most people see one magistrate in their lives, and he is the Aedile of their ward. Everything above him is something that happens to somebody else."
 
-- **The Aediles**—the magistrates of the wards, and the only court most Magnápolitans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
+- **The Aediles**—the magistrates of the wards, and the only court most Ôrzârans ever see. They keep the district law: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. They levy fines, shutter premises, and condemn buildings; the Watch supplies the muscle behind their rulings.
 - **The Iudicia**—the civil courts, where citizen sues citizen over property, contract, debt, inheritance, and standing. Cases are heard by **Iudices** drawn from the propertied orders, the weightier disputes before panels.
 - **The Criminal Tribunal**—for theft, violence, homicide, and sedition short of treason. The Watch brings the accused; the Tribunal judges; its sentences run from fines and forced labor to the arena and the executioner.
 
@@ -85,11 +85,11 @@ Their jurisdiction is everything the civic courts cannot touch. Any matter invol
 
 ### The Reach of Influence
 
-For all its tiers and titles, the law of Magnápolis runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The Aediles are famously bribable; a Curator's favor can move a case between courts or bury it in the Officia's bottomless archives; and the perpetual rivalry of the Curia Urbis means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Magnápolis—but it is also, always, a currency.
+For all its tiers and titles, the law of Ôrzâra runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse or the right patron finds the courts accommodating; one without learns how heavy they can be. The Aediles are famously bribable; a Curator's favor can move a case between courts or bury it in the Officia's bottomless archives; and the perpetual rivalry of the Curia Urbis means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers**—the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move fast for the right consideration. Justice is real in Ôrzâra—but it is also, always, a currency.
 
 ### See Also
 
-- [[place-magnapolis|Magnápolis]]—the imperial capital this council and these courts govern
+- [[place-orzara|Ôrzâra]]—the imperial capital this council and these courts govern
 - [[affiliation-vylrnmltry|The Vylarian Military]]—home of the City Watch (a branch of the legions) and the Praetar Augustarum (the imperial guard)
 - [[affiliation-aerarimmpr|The Aerarium Imperii]]—housed, like the imperial tribunals, in the Officia Imperii
 - [[affiliation-curiafscls|The Curia Fiscalis]]—the tax administration, also seated in the Officia

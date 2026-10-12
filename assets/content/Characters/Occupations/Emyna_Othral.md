@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [valdun]
-  affiliations: {kngdmlvndr: {rank: 5}, venusia: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 5}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 684.261

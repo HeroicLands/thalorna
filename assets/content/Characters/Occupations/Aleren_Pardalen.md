@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [silvain]
-  affiliations: {kngdmlvndr: {rank: 2}, aetheria: {rank: 3}}
+  affiliations: {kngdmlvndr: {rank: 2}, zunelas: {rank: 3}}
   gender: male
   species: humanflk
   born: 676.138

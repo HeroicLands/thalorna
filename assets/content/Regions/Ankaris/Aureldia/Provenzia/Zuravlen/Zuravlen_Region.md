@@ -183,7 +183,7 @@ with the Order of the Burning Brand.
 ## Faith
 
 Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
-the Twelve: [[affiliation-venusia|Ólvenía]], the Bountiful One, whose symbol is a tree hung with
+the Twelve: [[affiliation-olvenia|Ólvenía]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
 [[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
 hold that the two goddesses divide the year between them, and that Ólvenía gets the credit for what
@@ -215,4 +215,4 @@ over on a small scale, and all of them are written down somewhere that could be 
 ## See Also
 
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]] · [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-venusia|Faith of Ólvenía]] · [[affiliation-florania|Faith of Flórania]]
+- [[affiliation-olvenia|Faith of Ólvenía]] · [[affiliation-florania|Faith of Flórania]]

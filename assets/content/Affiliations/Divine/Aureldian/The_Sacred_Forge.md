@@ -49,7 +49,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [vulcandty]
+  lore: [ustarondty]
   parents: [arldnpnthn]
   relations: {arldnpnthn: aligned}
   packFolder: pantheonsaureldian
@@ -89,6 +89,6 @@ The faith also maintains several knightly orders dedicated to Ústaron's protect
 
 ## Relations
 
-The Sacred Forge maintains a close alliance with the [[affiliation-janus|Faith of Árdavon]]. Both faiths value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Jánite knights; Jánite courts protect Sacred Forge temples. This partnership is one of the most stable interfaith alliances in the Aurèldían pantheon.
+The Sacred Forge maintains a close alliance with the [[affiliation-ardavon|Faith of Árdavon]]. Both faiths value discipline, craftsmanship, and the defense of civilization. Sacred Forge smiths arm Árdavan knights; Árdavan courts protect Sacred Forge temples. This partnership is one of the most stable interfaith alliances in the Aurèldían pantheon.
 
 The Sacred Forge wages an unceasing doctrinal war against [[affiliation-blackflame|The Black Flame]], which it regards as a dangerous heresy that perverts Ústaron's divine gifts. Where the Sacred Forge sees fire as a creative force to be respected and wielded with care, the Black Flame glorifies its destructive power. The Sacred Forge and the Faith of Árdavon are united in their opposition to the Black Flame, though for different reasons: the Sacred Forge fights a war against apostasy within Ústaron's own faith, while Árdavon fights a cosmic struggle against everything the Black Flame represents.

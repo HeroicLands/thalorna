@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {rank: 4}, janus: {rank: 4}}
+  affiliations: {korinthea: {rank: 4}, ardavon: {rank: 4}}
   gender: male
   species: humanflk
   born: 684.164

@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-**Skathhreth**, the harm ford, is a broad gravel crossing of the [[place-moldunriver|Moldún]] in the central forest of [[place-vrystwald|Vrystwald]], and no village stands within a day's walk of it. In low water a man can wade it with the river at his knees. On the day in 291 AF when a Vylarian legion tried to cross it in the rain, the river was at a man's chest, and the muster that came out of the trees on both banks killed almost all of it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]). Several thousand men died there in an afternoon, far from their gods' ground and many of them in the water, and nobody judged them before [[affiliation-thanatos|Sélmoros]] or called them home to anything. The ford has been a [[lore-bloodfield|blood-field]] since, and it is the thinnest one in the forest.
+**Skathhreth**, the harm ford, is a broad gravel crossing of the [[place-moldunriver|Moldún]] in the central forest of [[place-vrystwald|Vrystwald]], and no village stands within a day's walk of it. In low water a man can wade it with the river at his knees. On the day in 291 AF when a Vylarian legion tried to cross it in the rain, the river was at a man's chest, and the muster that came out of the trees on both banks killed almost all of it ([[lore-skathhrethlss|The Loss of the Legion at Skathhreth]]). Several thousand men died there in an afternoon, far from their gods' ground and many of them in the water, and nobody judged them before [[affiliation-selmoros|Sélmoros]] or called them home to anything. The ford has been a [[lore-bloodfield|blood-field]] since, and it is the thinnest one in the forest.
 
 ## What Crosses
 

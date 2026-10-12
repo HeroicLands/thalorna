@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [denizara2]
-  affiliations: {byzarianlg: {rank: 3}, murkir: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, pozeras: {rank: 1}}
   gender: male
   species: humanflk
   born: 694.182

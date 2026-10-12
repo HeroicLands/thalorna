@@ -808,7 +808,7 @@ Every name the setting gives a Sinalë person, place, rite or thing, and every n
 | **Aulirarno**             | [[lore-goddreams\|The God of Dreams]]       | `sinale`           | `aulira` + `-rno`                    |
 | **Luváth**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:khazari`   | —                                    |
 | **Bjartr**                | [[lore-goddreams\|The God of Dreams]]       | `exonym:nordmal`   | —                                    |
-| **Aethería**              | [[lore-goddreams\|The God of Dreams]]       | `exonym`           | —                                    |
+| **Zûnêlâs**               | [[lore-goddreams\|The God of Dreams]]       | `exonym`           | —                                    |
 | **Ansorunno**             | [[lore-calathirrnk\|Ansorunno]]             | `sinale`           | `ansoru` + `-nno`                    |
 | **Long-Watcher**          | [[lore-calathirrnk\|Ansorunno]]             | `translation`      | —                                    |
 | **Ilthorinno**            | [[lore-tindesarrnk\|Ilthorinno]]            | `sinale`           | `ilthori` + `-nno`                   |

@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 On the first night of the **Festival of Deep Sleep** a Lem'Nelgir of [[lore-nehleatdty|Nehle'ât]] lays a pilgrim on a reed mat in the temple's long dim hall and says, quietly so as not to wake the rows around you, "Whatever you see tonight, do not get up to write it down. Lie still and let it finish. In the morning tell me what you remember, and I will tell you whether it was a message or only your supper."
 
-That is the whole of the god's work in one exchange. Nehle'ât is the [[lore-khelathiclt|Khelâthi]] name for [[lore-goddreams|the God of Dreams]], a deity far older than any single civilization. The [[lore-flksinale|Sinalë]] have known him since time immemorial, the **Asguardian** peoples call him [[lore-bjartrdty|Bjartr]], the **Aurèldían** peoples know him as [[lore-theriadty|Aethería]], and countless peoples across the lands of [[place-worldthlrn|Thalorna]] worship him. What the Khelâthi add is intimacy: for them he is no distant celestial force but a companion who walks the night beside each sleeper.
+That is the whole of the god's work in one exchange. Nehle'ât is the [[lore-khelathiclt|Khelâthi]] name for [[lore-goddreams|the God of Dreams]], a deity far older than any single civilization. The [[lore-flksinale|Sinalë]] have known him since time immemorial, the **Asguardian** peoples call him [[lore-bjartrdty|Bjartr]], the **Aurèldían** peoples know him as [[lore-zunelasdty|Zûnêlâs]], and countless peoples across the lands of [[place-worldthlrn|Thalorna]] worship him. What the Khelâthi add is intimacy: for them he is no distant celestial force but a companion who walks the night beside each sleeper.
 
 ## The Guardian of the Threshold
 

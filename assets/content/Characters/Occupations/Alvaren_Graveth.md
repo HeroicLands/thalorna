@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [valdes]
-  affiliations: {kingdmtrvn: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.167

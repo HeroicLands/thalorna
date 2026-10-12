@@ -199,13 +199,13 @@ the Forge asks loudly and cannot answer.
 
 ### Sélmoros
 
-The other great presence is [[affiliation-thanatos|Sélmoros]], the Silent Judge—and he is
+The other great presence is [[affiliation-selmoros|Sélmoros]], the Silent Judge—and he is
 prominent for precisely the opposite reason.
 
 In a republic where the courts work for those who can pay them to work, the god who judges everyone
 without exception and cannot be reached, bought, flattered or deferred is not an abstraction. He is the
 only judge most Ondarethan will ever face on equal terms with their betters, and they know it. The
-Thánatan clergy are correspondingly the one institution in the republic with unpurchased moral
+Sélmoran clergy are correspondingly the one institution in the republic with unpurchased moral
 authority: they take no part in elections, accept no civic office, and are the customary arbiters in
 disputes that both parties genuinely want settled rather than won.
 

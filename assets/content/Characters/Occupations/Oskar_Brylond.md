@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [fiordaure]
-  affiliations: {kngdmprvnz: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 2}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.99

@@ -30,7 +30,7 @@ data:
       - level: 4
         title: Citizen
         description: >-
-          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Magnápolis, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
+          Holding the citizenship, won by twenty years in the legions or by a rare grant, or held by the nobility by station; it carries the dole, the right of residence in Ôrzâra, appeal at law and liability to its taxes, and it does not pass to a commoner's children.
       - level: 5
         title: Equestrian
         description: >-
@@ -79,7 +79,7 @@ sohl: {system: {commonSkills: [vylarilng]}}
 
 When a Vylarian says "the empire," he means Alyssa first and everything else second. The Province of Alyssa is the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]]: the province that contains the imperial capital, the Senate and the oldest institutions of Vylarian civilization, and the most urbanized, politically sophisticated and culturally self-assured of the four. It holds the land of [[place-alyssa|Alyssa]], seven million people governed from the provincial capital, [[place-alyssar|Alyssar]], by a governor the emperor appoints.
 
-A decurion of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The governor answers to the Augustar, the emperor, and to nobody else. The procurator collects the emperor's revenue and reports past the governor, so he does not need to like him. The legate holds the soldiers. And every one of them has a cousin in [[place-magnapolis|Magnápolis]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
+A decurion of a chartered town, seated on its council and liable in his own person for the taxes the town owes, gives his nephew the same advice on the day the young man takes his place: "Learn who writes to whom. The governor answers to the Augustar, the emperor, and to nobody else. The procurator collects the emperor's revenue and reports past the governor, so he does not need to like him. The legate holds the soldiers. And every one of them has a cousin in [[place-orzara|Ôrzâra]]. Whatever you decide here, somebody in the capital will hear it before the week is out."
 
 ## Character
 
@@ -91,7 +91,7 @@ Alyssan society is intensely political. Every conversation carries subtext and e
 
 Alyssa is the empire at its most cultivated and its most political: paved roads, aqueducts, market towns and great estates, where almost nothing is more than a day's ride from a temple, a magistrate and a tax-collector. Adventure here is rarely about wilderness. It is about the press of people and power: senatorial intrigue, Ordo surveillance, religious patronage-fights, debt and inheritance suits, and the patronage networks that decide everything.
 
-What is scarce is food, which arrives from [[affiliation-provnchyln|Hylen]] and [[affiliation-provincvld|Vald]], and privacy. What is abundant is law, rumor, money and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
+What is scarce is food, which arrives from [[affiliation-provnchyln|Hylen]] and [[affiliation-provincvld|Sâlkhâlon]], and privacy. What is abundant is law, rumor, money and witnesses. A settlement seeded here can be assumed to have roads, an inn, a shrine, a resident magistrate, and at least one great family whose interests reach back to the capital.
 
 ## Commerce and Currency
 
@@ -101,5 +101,5 @@ Alyssa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion, Argentus and Octu
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the parent polity
 - [[place-alyssa|Alyssa]]—the land the province holds
-- [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Vald]]—the sister provinces
+- [[affiliation-provnchyln|Province of Hylen]], [[affiliation-provncmktr|Province of Moktur]], [[affiliation-provincvld|Province of Sâlkhâlon]]—the sister provinces
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—headquartered here

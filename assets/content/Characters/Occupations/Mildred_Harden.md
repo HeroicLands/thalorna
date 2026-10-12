@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]
-  affiliations: {kngdmldrth: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 679.142

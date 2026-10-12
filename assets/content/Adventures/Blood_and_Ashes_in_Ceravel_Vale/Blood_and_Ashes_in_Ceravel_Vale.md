@@ -32,7 +32,7 @@ What begins as a straightforward bandit-hunting job gradually reveals layers of 
 - **Khiráta Jârvel al Pélanvri nâ [[place-caerceravel|Caêr Céravel]]**—Târlas's liege lord. Installed Târlas after deposing Thárion's family on fabricated treason charges.
 - **Nâlor Kílan alrí Ilóvrel nâ [[place-ilovren|Ilóvren]]**—The true antagonist. A calculating noble and secret Black Flame sympathizer who manipulates the bandit conflict to destabilize Bélsaren and pursue the artifact.
 - **Kâldin al Lénavel nâ [[place-leravren|Léravren]]**—Lord of Léravren, member of the Zûravel clan of the Black Flame. Kílan's ally and the connection to organized Black Flame power.
-- **Darisen al Olrûn**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Thanatine with his own designs on the artifact.
+- **Darisen al Olrûn**—An erudite scholar who offers help understanding the Black Flame and tracking the shrine. Secretly a Sélmoran with his own designs on the artifact.
 
 ## The Three Parts
 

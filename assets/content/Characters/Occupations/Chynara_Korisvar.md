@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [chastelclr]
-  affiliations: {kngdmprvnz: {rank: 2}, venusia: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 2}, olvenia: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.81

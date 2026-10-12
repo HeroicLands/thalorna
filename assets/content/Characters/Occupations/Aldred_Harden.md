@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: {kngdmldrth: {rank: 3}, venusia: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 3}, olvenia: {rank: 1}}
   gender: male
   species: humanflk
   born: 682.284

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {rank: 5}, murkir: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 5}, pozeras: {rank: 1}}
   gender: female
   species: humanflk
   born: "688.4"

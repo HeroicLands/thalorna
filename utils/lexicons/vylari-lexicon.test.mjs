@@ -423,6 +423,51 @@ test("the register covers every name in scope and names real notes", () => {
     );
 });
 
+test("a register row may name a note that writes the name in bold in its prose", () => {
+    const row = "| **Sôrimâ** | [[being-gorandis\\|Gôrândis]] | `vylari` | `sôrimâ` |\n";
+    const withPerson = edited(
+        row,
+        `${row}| **Sôrimâ Gôrândis** | [[place-harbor\\|Harbor]] | \`vylari\` | \`sôrimâ\` · \`gôr\` + \`-ândis\` |\n`,
+    );
+    const treeWith = (body) => {
+        const tree = fakeTree();
+        const entry = {
+            address: "place-harbor",
+            file: "assets/content/Regions/Harbor.md",
+            rel: "Regions/Harbor.md",
+            text: `---\nname: {full: Harbor}\n---\n${body}`,
+            names: new Set(["harbor"]),
+            mine: [{ name: "Harbor", kind: "full" }],
+            type: "place",
+            given: null,
+            gender: null,
+            culture: null,
+            lore: [],
+            tags: [],
+            ownNames: ["Harbor"],
+        };
+        tree.notes.set(entry.address, entry);
+        tree.all.push(entry);
+        return tree;
+    };
+    assert.deepEqual(
+        errors(
+            withPerson,
+            FIXTURE_NOTE,
+            treeWith("The keeper, **Sôrimâ Gôrândis**, banks the fire."),
+        ),
+        [],
+    );
+    assert.match(
+        errors(
+            withPerson,
+            FIXTURE_NOTE,
+            treeWith("The keeper, Sôrimâ Gôrândis, banks the fire."),
+        ).join("\n"),
+        /\*\*Sôrimâ Gôrândis\*\* is not a name of \[\[place-harbor\]\]/,
+    );
+});
+
 test("a name list that breaks the sound rules is one counted warning per list", () => {
     const found = warnings(
         FIXTURE_LEXICON,

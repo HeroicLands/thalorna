@@ -61,7 +61,7 @@ Underneath all of it he holds that a person owes the law his obedience even wher
 
 - [[affiliation-vylarinmpr|Vylarian Empire]]—the state, its Senate and its provinces
 - [[place-vylariargn|Vylaria Region]]—the heartland
-- [[place-magnapolis|Magnápolis]]—the capital, where the forms are kept best
+- [[place-orzara|Ôrzâra]]—the capital, where the forms are kept best
 - [[doc-vylrnctznshp|Vylarian Citizenship]]—the citizen, the resident, and the bargain between them
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the gods and the imperial cult
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—the chartered arcane order
@@ -90,7 +90,7 @@ Underneath all of it he holds that a person owes the law his obedience even wher
 | Augurar                                   | A legion's diviner and chaplain, licensed jointly by the army and the Ordo                                                      |
 | Augustar                                  | The emperor                                                                                                                     |
 | Aurelian (pl. Aurelii)                    | The highest noble estate, the Gilded Houses of the empire's first century                                                       |
-| Aurion                                    | The gold coin, worth 160 Argo, minted only at Magnápolis and seldom seen outside a vault                                        |
+| Aurion                                    | The gold coin, worth 160 Argo, minted only at Ôrzâra and seldom seen outside a vault                                            |
 | Auxilarium                                | An auxiliary unit of non-citizens, of any specialty                                                                             |
 | Bit                                       | The everyday name of the Octus                                                                                                  |
 | Cadetar                                   | A noble cadet of fifteen to seventeen, the lowest purchased commission                                                          |
@@ -133,7 +133,7 @@ Underneath all of it he holds that a person owes the law his obedience even wher
 | Optar                                     | A century's second in command                                                                                                   |
 | paper-script                              | Paper notes issued by the moneylenders against the treasury's reserves                                                          |
 | passage-gift                              | The informal payment merchants give the Áelendan clans to cross the Cervaron passes                                             |
-| pomerium                                  | The sacred and legal boundary of Magnápolis, inside which citizens live by right and no legion may march                        |
+| pomerium                                  | The sacred and legal boundary of Ôrzâra, inside which citizens live by right and no legion may march                            |
 | portoria                                  | Customs duties on goods crossing imperial frontiers and provincial boundaries                                                   |
 | Praefar Aerarii                           | One of the three senior deputies of the imperial treasury                                                                       |
 | Praefar Alariae                           | A legion's prefect of cavalry and specialists, a noble commission                                                               |

@@ -16,7 +16,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: {kingdmtrvn: {rank: 3}, janus: {rank: 3}}
+  affiliations: {kingdmtrvn: {rank: 3}, ardavon: {rank: 3}}
   gender: male
   species: humanflk
   born: 694.121
@@ -83,7 +83,7 @@ sohl:
       system: {shortcode: ceremonialpriestly, weight: 1, value: 100, durability: 3}
     - name: Árdavonian holy symbol (staff-topped amulet)
       type: miscgear
-      system: {shortcode: janusianholysymbol, weight: 1, value: 100, durability: 3}
+      system: {shortcode: ardavonholysymbol, weight: 1, value: 100, durability: 3}
     - name: Holy scripture and theological texts
       type: miscgear
       system: {shortcode: holyscripture, weight: 1, value: 100, durability: 3}
