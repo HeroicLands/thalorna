@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Audrey Harding is a 35-year-old woman who stands 5'6" tall and is of moderate build. She has a heart-shaped face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a firm chin. Her narrow amber eyes sit beneath expressive brows and give her a keen gaze. She has a slightly upturned nose and thin lips. She has medium-toned skin with a weathered complexion. Her chestnut hair flows past her shoulders.
+Audrey Harding is a 31-year-old woman who stands 5'6" tall and is of moderate build. She has a heart-shaped face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a firm chin. Her narrow amber eyes sit beneath expressive brows and give her a keen gaze. She has a slightly upturned nose and thin lips. She has medium-toned skin with a weathered complexion. Her chestnut hair flows past her shoulders.
 
 Her weathered complexion speaks of years spent traveling, moving between the coastal settlements and inland trading routes of [[place-aelwyth|Aelwyth]]. There is something almost predatory about her stillness—she sits motionless during conversations, her amber eyes tracking movement with a raptor's precision. Her hands, when they move, are elegant and deliberate; she gestures rarely, but when she does, the gesture carries weight. She favors richly dyed silks and fine linen, always impeccably maintained, though her clothing is tailored for function as much as display. Her style is distinctly Aelwythan in its fusion of the mystical and the mercantile—there is something otherworldly about her presentation, as though she has traveled between states of being as well as across geography.
 

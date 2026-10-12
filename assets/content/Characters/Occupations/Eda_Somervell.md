@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Eda Somervell is a 27-year-old woman who stands 5'7" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a delicate chin. Her narrow hazel eyes sit beneath thin brows, lending her a keen gaze. A rounded nose and full lips complete her features. She has pale skin with a smooth complexion. Her brown hair is woven with small braids.
+Eda Somervell is a 25-year-old woman who stands 5'7" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a delicate chin. Her narrow hazel eyes sit beneath thin brows, lending her a keen gaze. A rounded nose and full lips complete her features. She has pale skin with a smooth complexion. Her brown hair is woven with small braids.
 
 # Dossier {#dossier}
 

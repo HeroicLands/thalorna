@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Nûbàris Jâdîrôs is a 40-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows and give her a lively gaze. She has a strong nose and curved lips. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
+Nûbàris Jâdîrôs is a 36-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows and give her a lively gaze. She has a strong nose and curved lips. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 

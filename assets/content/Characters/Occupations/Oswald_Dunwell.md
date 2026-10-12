@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows and give him an open gaze. He has a straight nose and firm lips. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
+Oswald Dunwell is a 29-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows and give him an open gaze. He has a straight nose and firm lips. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 

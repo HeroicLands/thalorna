@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dapûman Jakûdûnî is a 41-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
+Dapûman Jakûdûnî is a 37-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows and give him an open gaze. He has a prominent nose and narrow lips. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 

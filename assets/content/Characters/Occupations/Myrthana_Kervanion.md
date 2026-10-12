@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Mýrthana Kêrvanion is a 26-year-old woman who stands 5'8" tall and is slender. She has an oval face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a square chin. Her hooded green eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and expressive lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pinned in an elegant twist.
+Mýrthana Kêrvanion is a 22-year-old woman who stands 5'8" tall and is slender. She has an oval face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a square chin. Her hooded green eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and expressive lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 

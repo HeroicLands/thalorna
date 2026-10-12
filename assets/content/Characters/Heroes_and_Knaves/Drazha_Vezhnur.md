@@ -58,7 +58,7 @@ sohl:
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 20}}
     - {model: sohl-sohl-skill-guil, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-intr, system: {masteryLevelBase: 27}}
-    - {model: skill-kalihrlng, system: {masteryLevelBase: 30}}
+    - {model: skill-byzarnlng, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-sing, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-thtcs, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-anmcft, system: {masteryLevelBase: 11}}

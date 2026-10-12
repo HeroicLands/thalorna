@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tavíro Delvánor is a 26-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
+Tavíro Delvánor is a 22-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows and give him a lively gaze. He has an aquiline nose and wide lips. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 
@@ -400,7 +400,7 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Tavíro has always loved the sea, and has worked as a seaman since he was a teenager. Known for his strength and stamina, he excels at the heavy work of a ship, hoisting sails and loading cargo. He is a reliable crewman who values the fellowship of his shipmates. He dreams of one day sailing to distant lands and seeing other peoples.
 
-Now at 26 years of age, he is a known figure among the common seamen of Tarvénia.
+Now at 22 years of age, he is a known figure among the common seamen of Tarvénia.
 
 ## Psyche
 

@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
+Wystan Osgood is a 30-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows and give him a guarded gaze. He has a straight nose and narrow lips. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
 
 # Dossier {#dossier}
 

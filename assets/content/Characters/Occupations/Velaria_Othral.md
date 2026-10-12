@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vélaria Óthral is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has a long face with broad cheekbones, a prominent forehead, and a sharp jaw that leads to a delicate chin. Her deep-set hazel eyes sit beneath thin brows, lending her a watchful gaze. A delicate nose and thin lips complete her features. She has medium-toned skin with a fair complexion. Her blonde hair hangs in ringlets, usually loosely tied back and often dusted with charcoal from her drawing. She dresses in the plain linen robes common to Flórania's clergy, though hers tend to carry the evidence of her day—herb stains on the sleeves, chalk dust on the hem—and she rarely looks as composed as someone of her height and bearing could.
+Vélaria Óthral is a 25-year-old woman who stands 5'11" tall and is of moderate build. She has a long face with broad cheekbones, a prominent forehead, and a sharp jaw that leads to a delicate chin. Her deep-set hazel eyes sit beneath thin brows, lending her a watchful gaze. A delicate nose and thin lips complete her features. She has medium-toned skin with a fair complexion. Her blonde hair hangs in ringlets, usually loosely tied back and often dusted with charcoal from her drawing. She dresses in the plain linen robes common to Flórania's clergy, though hers tend to carry the evidence of her day—herb stains on the sleeves, chalk dust on the hem—and she rarely looks as composed as someone of her height and bearing could.
 
 # Dossier {#dossier}
 

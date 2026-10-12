@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vólyra Brýlond is a 34-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
+Vólyra Brýlond is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

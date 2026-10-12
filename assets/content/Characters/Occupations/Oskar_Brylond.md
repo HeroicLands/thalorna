@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Óskar Brýlond is a 46-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows and give him a watchful gaze. He has a straight nose and thin lips. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
+Óskar Brýlond is a 42-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows and give him a watchful gaze. He has a straight nose and thin lips. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

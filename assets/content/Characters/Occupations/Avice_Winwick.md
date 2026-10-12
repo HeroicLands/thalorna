@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
+Avice Winwick is a 26-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows and give her an expressive gaze. She has a narrow nose and expressive lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair flows past her shoulders.
 
 # Dossier {#dossier}
 

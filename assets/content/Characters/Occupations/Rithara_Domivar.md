@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows and give her an expressive gaze. She has a prominent nose and narrow lips. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
+Ríthara Dómivar is an 18-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows and give her an expressive gaze. She has a prominent nose and narrow lips. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
 
 # Dossier {#dossier}
 

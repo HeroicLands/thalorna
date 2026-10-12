@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Bûlêlon Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
+Bûlêlon Hâdrîkês is a 41-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows and give him a lively gaze. He has a prominent nose and wide lips. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Edith Wolford is a 29-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
+Edith Wolford is a 25-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
 
 # Dossier {#dossier}
 

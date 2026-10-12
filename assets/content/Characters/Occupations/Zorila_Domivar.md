@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Zórila Dómivar is a 29-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and firm lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is plaited in a single thick braid. She has a thin scar across her left cheek.
+Zórila Dómivar is a 25-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and firm lips. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is plaited in a single thick braid. She has a thin scar across her left cheek.
 
 # Dossier {#dossier}
 

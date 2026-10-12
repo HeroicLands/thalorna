@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender. She has a diamond face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a straight nose and curved lips. She has olive skin with a weathered complexion. Her brown hair is gathered in a practical bun. She has sun-darkened skin on the arms and face.
+Tamîtha Jâdurîon is a 24-year-old woman who stands 5'11" tall and is slender. She has a diamond face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her piercing hazel eyes sit beneath arched brows and give her a penetrating gaze. She has a straight nose and curved lips. She has olive skin with a weathered complexion. Her brown hair is gathered in a practical bun. She has sun-darkened skin on the arms and face.
 
 # Dossier {#dossier}
 

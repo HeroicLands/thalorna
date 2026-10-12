@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Pushûtan Qizîkûnî is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
+Pushûtan Qizîkûnî is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 

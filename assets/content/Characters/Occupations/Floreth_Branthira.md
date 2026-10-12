@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Floréth Bránthira is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows, lending him an open gaze. A strong nose and thin lips complete his features. He has olive skin with a weathered complexion. His black hair is short and swept back.
+Floréth Bránthira is a 41-year-old man who stands 6'4" tall and is broad and solidly built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows, lending him an open gaze. A strong nose and thin lips complete his features. He has olive skin with a weathered complexion. His black hair is short and swept back.
 
 # Dossier {#dossier}
 

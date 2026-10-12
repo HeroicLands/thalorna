@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Bibûdan Belginûm is a 30-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
+Bibûdan Belginûm is a 26-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

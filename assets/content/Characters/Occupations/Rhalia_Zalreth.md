@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Rhália Zálreth is a 36-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
+Rhália Zálreth is a 32-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
@@ -404,7 +404,7 @@ Born in the [[place-elavendre|Élavendre]] region to a noble family of Élavendr
 
 Captain Elysia is an experienced pilot known for her exceptional navigation skills and calm demeanor in the cockpit. She has piloted various types of airships and is respected in the aviation community for her expertise. Elysia is dedicated to safety and often mentors younger pilots, sharing her knowledge of flight techniques and navigation. She enjoys the thrill of flying and is always eager to explore new routes and destinations.
 
-Now at 36 years of age, Rhália Zálreth has established herself as a known figure among the pilots of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 32 years of age, Rhália Zálreth has established herself as a known figure among the pilots of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

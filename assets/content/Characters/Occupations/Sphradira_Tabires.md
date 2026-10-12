@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sphrâdira Tâbîrês is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has an aquiline nose and firm lips. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
+Sphrâdira Tâbîrês is a 25-year-old woman who stands 5'11" tall and is of moderate build. She has a square face with sharp cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has an aquiline nose and firm lips. She has tanned skin with an olive-toned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 

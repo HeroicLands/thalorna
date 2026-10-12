@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Chéagan Zêrâzêndis is a 32-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
+Chéagan Zêrâzêndis is a 28-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 
@@ -401,7 +401,7 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Chéagan inherited the Zêrâzêndis Inn from her parents and has worked hard to keep it running smoothly. She is known for her hearty meals and warm hospitality. Chéagan is passionate about creating a welcoming atmosphere, and her inn has become a beloved spot for local farmers and travelers alike. Despite her dedication, she often feels the weight of the responsibilities on her shoulders.
 
-Now at 32 years of age, Chéagan Zêrâzêndis has established herself as a known figure among the innkeepers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 28 years of age, Chéagan Zêrâzêndis has established herself as a known figure among the innkeepers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

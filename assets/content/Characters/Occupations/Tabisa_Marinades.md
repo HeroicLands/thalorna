@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tàbîsa Mârinadês is a 38-year-old woman who stands 5'9" tall and is of moderate build. She has an angular face with soft cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and wide lips complete her features. She has olive skin with a weathered complexion. Her black hair is gathered in a practical bun.
+Tàbîsa Mârinadês is a 34-year-old woman who stands 5'9" tall and is of moderate build. She has an angular face with soft cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and wide lips complete her features. She has olive skin with a weathered complexion. Her black hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 

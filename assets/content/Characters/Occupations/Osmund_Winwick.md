@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Osmund Winwick is a 37-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
+Osmund Winwick is a 33-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
 
 # Dossier {#dossier}
 

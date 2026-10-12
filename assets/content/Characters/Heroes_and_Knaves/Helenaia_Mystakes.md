@@ -421,7 +421,7 @@ sohl:
 
 Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, and angular cheeks. She has a scar running down her right leg.
 
-Her blonde hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
+Her dark brown hair, worn in an elaborate coiled bun adorned with flowers and sacred cords, is her greatest adornment, and she changes its decoration with the seasons and sacred days, making it a living calendar of her spiritual devotion. A long scar runs down her right leg from knee to ankle—the legacy of an accident in her youth—and she bears it without shame, often pointing it out to those struggling with their own wounds or imperfections as testimony to the fact that scars can become beautiful through time and acceptance.
 
 Her robes, flowing and adorned with floral motifs in celebration of fertility and growth, seem to carry the scent of the herbs she uses in her rituals—lavender, rose, cinnamon, and other essences that linger in air long after she has passed.
 

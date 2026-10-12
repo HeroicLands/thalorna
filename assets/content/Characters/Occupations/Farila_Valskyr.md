@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Fárila Válskyr is a 35-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Fárila Válskyr is a 31-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 

@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Áleren Párdalen is a 48-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows and give him a guarded gaze. He has a slightly upturned nose and thin lips. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
+Áleren Párdalen is a 44-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows and give him a guarded gaze. He has a slightly upturned nose and thin lips. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

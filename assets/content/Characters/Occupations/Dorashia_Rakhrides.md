@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dôrashîa Râkhrîdês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows and give her a candid gaze. She has a strong nose and thin lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
+Dôrashîa Râkhrîdês is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows and give her a candid gaze. She has a strong nose and thin lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
 
 # Dossier {#dossier}
 
@@ -401,7 +401,7 @@ Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite h
 
 Dôrashîa is a savvy mercantyler who specializes in the import of spices and exotic goods from distant lands. She has built a reputation for her skill in sourcing unique products and establishing fair trade agreements. She is well-connected in both local and foreign markets, which lets her handle the complexities of trade with ease.
 
-Now at 34 years of age, she is a known figure among the mercantylers of Heliónis.
+Now at 30 years of age, she is a known figure among the mercantylers of Heliónis.
 
 ## Psyche
 

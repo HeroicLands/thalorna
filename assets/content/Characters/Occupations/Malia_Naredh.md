@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Mália Náredh is a 32-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
+Mália Náredh is a 28-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
 
 # Dossier {#dossier}
 

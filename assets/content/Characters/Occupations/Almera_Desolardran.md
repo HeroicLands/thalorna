@@ -389,7 +389,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Álmera Desolárdran is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
+Álmera Desolárdran is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
 
 # Dossier {#dossier}
 
@@ -397,7 +397,7 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Álmera has worked as a caravan guard for several years, known for her agility and keen senses. She specializes in scouting ahead of the caravan to detect any potential dangers. Her quick reflexes and sharp wit make her an invaluable asset on the road. Álmera is determined to prove herself in a traditionally male-dominated field and often takes the initiative in training younger guards.
 
-Now at 28 years of age, Álmera Desolárdran has established herself as a known figure among the caravan guards of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 24 years of age, Álmera Desolárdran has established herself as a known figure among the caravan guards of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

@@ -398,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Wítharic yra Druthgar wur Waldburg is a 42-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a lined forehead, and a heavy jaw that leads to a strong chin. His piercing blue eyes sit beneath thick brows, lending him a penetrating gaze. A broad nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is matted from years of outdoor work. A notable feature is a burn scar on the right forearm.
+Wítharic yra Druthgar wur Waldburg is a 38-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a lined forehead, and a heavy jaw that leads to a strong chin. His piercing blue eyes sit beneath thick brows, lending him a penetrating gaze. A broad nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is matted from years of outdoor work. A notable feature is a burn scar on the right forearm.
 
 # Dossier {#dossier}
 
@@ -406,7 +406,7 @@ Born at [[place-waldburg|Waldburg]] to a Varokh boatbuilding family, Wítharic c
 
 Wítharic hails from a long line of shipwrights and inherited his family's business. He builds river-boats prized for carrying people and cargo through the shallow forest channels. Wítharic is a hard worker but struggles with the administrative side of the business. His temper can flare when things don't go according to plan, especially with clients who constantly change their requirements.
 
-Now at 42 years of age, Wítharic has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 38 years of age, Wítharic has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

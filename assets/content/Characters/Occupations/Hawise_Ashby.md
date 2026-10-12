@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hawise Ashby is a 48-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. Her deep-set hazel eyes sit beneath expressive brows, lending her a watchful gaze. A rounded nose and wide lips complete her features. She has pale skin with a fair complexion. Her brown hair is adorned with simple pins.
+Hawise Ashby is a 44-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. Her deep-set hazel eyes sit beneath expressive brows, lending her a watchful gaze. A rounded nose and wide lips complete her features. She has pale skin with a fair complexion. Her brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 

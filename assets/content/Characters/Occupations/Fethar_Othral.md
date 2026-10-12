@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Féthar Óthral is a 40-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
+Féthar Óthral is a 36-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
 
 # Dossier {#dossier}
 

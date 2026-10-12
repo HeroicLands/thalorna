@@ -397,7 +397,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows and give him a guarded gaze. He has a straight nose and narrow lips. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
+Aldred Harden is a 38-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows and give him a guarded gaze. He has a straight nose and narrow lips. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
+Edgar Chilton is a 41-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows and give him a watchful gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
 
 # Dossier {#dossier}
 

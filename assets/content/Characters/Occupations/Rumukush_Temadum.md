@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Rumûkûsh Temâdûm is a 35-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
+Rumûkûsh Temâdûm is a 31-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
 
 # Dossier {#dossier}
 

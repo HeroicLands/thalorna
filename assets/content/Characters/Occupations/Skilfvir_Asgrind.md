@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Skilfvir Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
+Skilfvir Ásgrind is a 30-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows and give him a watchful gaze. He has a strong nose and firm lips. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. He has a web of fine scars on his knuckles.
 
 # Dossier {#dossier}
 

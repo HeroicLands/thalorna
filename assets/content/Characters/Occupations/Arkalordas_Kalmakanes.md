@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
+Arkálòrdâs Kâlmâkanês is a 33-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows and give him a keen gaze. He has an aquiline nose and narrow lips. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
 
 # Dossier {#dossier}
 

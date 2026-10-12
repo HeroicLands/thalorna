@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [trader, courtier]
-  occupation: Locksmith
+  occupation: Merchant
   lore: []
   culture: byzarianclt
   homes: [thalassos]
@@ -425,7 +425,7 @@ Chrysántos stands 5'10" tall with a light build. He has light pale skin, black 
 
 Chrysántos was born the second son of a wealthy Byzarian merchant family with trading interests throughout the League's territories. His older brother inherited the family's primary commercial enterprises; Chrysántos received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an unfilled market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources across the known world.
 
-Over the past eighteen years, he has built a wide network spanning the [[affiliation-byzarianlg|Byzarian League]], the City-States of Vedyara, the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and beyond. He maintains direct relationships with master craftspeople, artisans of great skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
+Over the past eight years, he has built a wide network spanning the [[affiliation-byzarianlg|Byzarian League]], the City-States of Vedyara, the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], and beyond. He maintains direct relationships with master craftspeople, artisans of great skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 ### Strengths
 
 - **Mercantile Genius**: His extraordinary skill in mercantilism, combined with mathematical precision and fluent use of two languages, makes him a devastatingly effective negotiator. He understands the movement of markets, the leverage of scarcity and demand, and the hidden valuations that determine what something is truly worth.
-- **Network and Connections**: Across two decades, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
+- **Network and Connections**: Across eight years, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
 - **Discourse and Eloquence**: His eloquence and discourse skills allow him to persuade, inspire confidence, and manage difficult social situations. He can talk his way into restricted spaces, convince reluctant sellers to part with treasured items, and charm clients into purchasing things they did not intend to acquire.
 - **Perception and Reasoning**: His keen perception allows him to read people accurately, identifying what they truly desire beneath what they claim to want. His reasoning lets him analyze complex situations and identify paths to advantage.
 - **Survival and Practical Knowledge**: He possesses greater practical knowledge than many recognize, including understanding of survival skills, animal handling, and wilderness travel—useful assets when procuring items from remote or dangerous locations.

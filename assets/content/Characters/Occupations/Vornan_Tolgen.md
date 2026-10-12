@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vôrnan Tólgen is a 50-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows and give him an open gaze. He has an aquiline nose and thin lips. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
+Vôrnan Tólgen is a 46-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows and give him an open gaze. He has an aquiline nose and thin lips. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
 
 # Dossier {#dossier}
 

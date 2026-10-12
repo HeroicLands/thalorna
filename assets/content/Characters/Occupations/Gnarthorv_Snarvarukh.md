@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gnarthorv Snarvarukh is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
+Gnarthorv Snarvarukh is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and firm lips. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
 
 # Dossier {#dossier}
 

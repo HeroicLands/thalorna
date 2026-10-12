@@ -388,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Flirnynda Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows and give her a keen gaze. She has a strong nose and firm lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
+Flirnynda Stormrót is a 23-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows and give her a keen gaze. She has a strong nose and firm lips. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

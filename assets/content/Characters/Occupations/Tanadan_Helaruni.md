@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Tanâdan Helârûnî is a 40-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
+Tanâdan Helârûnî is a 36-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 

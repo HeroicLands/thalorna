@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Edrith Grayling is a 28-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
+Edrith Grayling is a 24-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

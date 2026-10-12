@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Rêvôthar Bàremzâtôr is a 38-year-old man who stands 5'8" tall and is of moderate build. He has a diamond face with sharp cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round brown eyes sit beneath arched brows and give him a candid gaze. He has a hawkish nose and firm lips. He has light skin with a sun-tanned complexion. His brown hair is kept practical and short.
+Rêvôthar Bàremzâtôr is a 34-year-old man who stands 5'8" tall and is of moderate build. He has a diamond face with sharp cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round brown eyes sit beneath arched brows and give him a candid gaze. He has a hawkish nose and firm lips. He has light skin with a sun-tanned complexion. His brown hair is kept practical and short.
 
 What strikes those who meet Rêvôthar is the quality of his attention. His hawkish nose and sharp cheekbones suggest severity, yet his eyes—round and earnest—soften this impression. There is something almost birdlike about him, as though he is always slightly perched, ready to turn toward someone in distress. The lines on his forehead speak of concentration and worry rather than age. His hands, often stained with earth or herbal powders, move with practiced gentleness when dealing with the sick or frightened. He dresses simply—robes of undyed linen, reinforced at the hems for travel—and his traveling bundle never seems to contain anything beyond what is necessary for his healing work.
 

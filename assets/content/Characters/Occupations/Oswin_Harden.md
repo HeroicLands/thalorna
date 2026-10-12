@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Oswin Harden is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
+Oswin Harden is a 46-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
 
 # Dossier {#dossier}
 

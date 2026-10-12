@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Nulthynda Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate build. She has a long face with wide-set cheekbones, a prominent forehead, and a heavy jaw that leads to a strong chin. Her wide-set green eyes sit beneath straight brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has pale skin with a weathered complexion. Her dark brown hair is braided and coiled at the nape.
+Nulthynda Eldskari is a 28-year-old woman who stands 6'0" tall and is of moderate build. She has a long face with wide-set cheekbones, a prominent forehead, and a heavy jaw that leads to a strong chin. Her wide-set green eyes sit beneath straight brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has pale skin with a weathered complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

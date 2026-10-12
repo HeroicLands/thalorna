@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Métrantha Thâmîdon is a 28-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
+Métrantha Thâmîdon is a 24-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

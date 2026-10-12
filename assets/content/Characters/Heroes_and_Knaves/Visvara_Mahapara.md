@@ -440,7 +440,7 @@ Over twenty years of service, Vishvāra rose from cabin boy to skilled rigger to
 
 ### The Transition to Independence
 
-When Captain Sorven retired at seventy, Vishvāra was offered command of The Merchant's Fortune. However, at forty-five, unwilling to remain tied to a single vessel or the demands of merchant captaincy, Vishvāra instead accepted an arrangement that has defined the past decade of his life: he offers himself as a skilled hire to various merchant captains, commanding crews, training sailors, overseeing difficult voyages, and advising on seamanship. He commands respect through demonstrated competence and carries the authority of decades of accumulated experience.
+When Captain Sorven retired at seventy, Vishvāra was offered command of The Merchant's Fortune. However, at thirty-two, unwilling to remain tied to a single vessel or the demands of merchant captaincy, Vishvāra instead accepted an arrangement that has defined the past five years of his life: he offers himself as a skilled hire to various merchant captains, commanding crews, training sailors, overseeing difficult voyages, and advising on seamanship. He commands respect through demonstrated competence and carries the authority of two decades of accumulated experience.
 
 ### The Current Moment
 

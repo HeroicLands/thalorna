@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sundwíra yra Hildvith wur Frithhaven is a 30-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
+Sundwíra yra Hildvith wur Frithhaven is a 26-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 
@@ -399,7 +399,7 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Sundwíra has worked as an ostler for many years, focusing on the health and well-being of horses. She is known for her ability to identify problems early, ensuring that horses remain in peak condition. Sundwíra often assists travelers in saddling their horses and provides advice on care and feeding. Her reputation for excellence has earned her the trust of both locals and visiting merchants.
 
-Now at 30 years of age, Sundwíra has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 26 years of age, Sundwíra has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

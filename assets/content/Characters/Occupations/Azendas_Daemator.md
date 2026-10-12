@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Azéndas Dâemâtôr is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and wide lips. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
+Azéndas Dâemâtôr is a 41-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and wide lips. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
 
 The dragon tattooed around his upper arm tells a story he rarely discusses—a coiled beast inked in deep black and rust, the kind of mark men earn in distant wars or mercenary camps. The tattoo has faded with time and sun exposure, its edges softened but unmistakable. Those familiar with such things recognize it as the mark of a soldier, though Azéndas turned toward Flórania's green blessing long ago.
 

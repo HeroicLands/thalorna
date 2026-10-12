@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Theódric yra Fródbán wur Dunkelwald is a 36-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
+Theódric yra Fródbán wur Dunkelwald is a 32-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
 
 # Dossier {#dossier}
 
@@ -400,7 +400,7 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Theódric has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Theódric is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
 
-Now at 36 years of age, Theódric has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 32 years of age, Theódric has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

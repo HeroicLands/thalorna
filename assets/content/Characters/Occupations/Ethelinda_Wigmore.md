@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a narrow nose and wide lips. She has fair skin. Her graying brown hair is woven with small braids.
+Ethelinda Wigmore is a 30-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows and give her a candid gaze. She has a narrow nose and wide lips. She has fair skin. Her graying brown hair is woven with small braids.
 
 # Dossier {#dossier}
 

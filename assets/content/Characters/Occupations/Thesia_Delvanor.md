@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and narrow lips. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. Her nose is crooked from an old break.
+Thésia Delvánor is a 25-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. She has narrow lips and a nose crooked from an old break.
 
 # Dossier {#dossier}
 

@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Edwin Garmon is a 28-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
+Edwin Garmon is a 24-year-old man who stands 6'2" tall and is of moderate build. He has a round face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. His piercing brown eyes sit beneath thin brows, lending him a penetrating gaze. A narrow nose and wide lips complete his features. He has light skin with a fair complexion. His dark brown hair is kept practical and short.
 
 # Dossier {#dossier}
 

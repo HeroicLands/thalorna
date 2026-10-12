@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Alváren Gráveth is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
+Alváren Gráveth is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows and give him a guarded gaze. He has a prominent nose and wide lips. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
@@ -401,7 +401,7 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Alváren is a seasoned salter who has spent decades perfecting his craft. He runs a large saltworks that supplies salt to several coastal towns. Known for his knowledge of the trade, he often tries different ways of evaporating the brine to produce salts of his own, including flavored varieties. He is respected in the community for his knowledge and often mentors younger salt workers.
 
-Now at 40 years of age, he is a known figure among the salters of Tarvénia.
+Now at 36 years of age, he is a known figure among the salters of Tarvénia.
 
 ## Psyche
 

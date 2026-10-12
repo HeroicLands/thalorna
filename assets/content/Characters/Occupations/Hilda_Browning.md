@@ -388,7 +388,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
+Hilda Browning is a 20-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows and give her a keen gaze. She has a rounded nose and thin lips. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
 
 # Dossier {#dossier}
 

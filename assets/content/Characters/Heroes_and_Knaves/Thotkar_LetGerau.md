@@ -424,7 +424,7 @@ Thotkar stands 5'10" tall with a heavy build. He has tawny skin, graying black h
 
 ### The Scholar's Path
 
-Born in 676 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhophis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
+Born in 672 to a merchant family with modest social standing, Thotkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant [[being-aqenhophis|Aqenhophis]], a man of famed acumen and integrity, Thotkar studied the vast and involved legal codes that governed [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]'s empire, learning the rules and the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
 ### The Rise to Prominence
 

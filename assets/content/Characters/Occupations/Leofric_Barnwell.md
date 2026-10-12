@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
+Leofric Barnwell is a 38-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows and give him an incisive gaze. He has a narrow nose and curved lips. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
 
 # Dossier {#dossier}
 

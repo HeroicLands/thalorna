@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Visîza Zupûmî is a 29-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
+Visîza Zupûmî is a 25-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
 
 # Dossier {#dossier}
 

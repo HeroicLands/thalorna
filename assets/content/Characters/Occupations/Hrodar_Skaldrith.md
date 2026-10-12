@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hródar yra Skáldrith wur Waldburg is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows and give him a keen gaze. He has a strong nose and expressive lips. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. He has a chipped front tooth.
+Hródar yra Skáldrith wur Waldburg is a 42-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows and give him a keen gaze. He has a strong nose and expressive lips. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. He has a chipped front tooth.
 
 # Dossier {#dossier}
 

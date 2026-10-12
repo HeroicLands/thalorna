@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Latârûya Qizîkûnî is a 32-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
+Latârûya Qizîkûnî is a 28-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows and give her an open gaze. She has a strong nose and narrow lips. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
 
 # Dossier {#dossier}
 

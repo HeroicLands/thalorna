@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Xâthrîon Kâserânis is a 48-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
+Xâthrîon Kâserânis is a 44-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
 
 # Dossier {#dossier}
 

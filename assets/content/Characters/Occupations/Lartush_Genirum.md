@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Lartûsh Genîrûm is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown eyes sit beneath prominent brows and give him a candid gaze. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
+Lartûsh Genîrûm is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown right eye sits beneath prominent brows and gives him a candid gaze; the left is scarred and blind. He has a prominent nose and thin lips. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
 
 # Dossier {#dossier}
 

@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Knulthvir Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate build. He has a square face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright blue eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and firm lips complete his features. He has pale skin with a lightly freckled complexion. His brown hair is pulled back in a warrior's knot.
+Knulthvir Stormrót is a 34-year-old man who stands 5'6" tall and is of moderate build. He has a square face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright blue eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and firm lips complete his features. He has pale skin with a lightly freckled complexion. His brown hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 

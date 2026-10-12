@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Nêvarina Hàbîlês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows and give her a watchful gaze. She has a strong nose and curved lips. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
+Nêvarina Hàbîlês is a 30-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows and give her a watchful gaze. She has a strong nose and curved lips. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 

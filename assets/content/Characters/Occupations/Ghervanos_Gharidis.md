@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghérvanos Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
+Ghérvanos Gharîdís is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows and give him an open gaze. He has an aquiline nose and expressive lips. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. He has crow's feet at the corners of his sharp eyes.
 
 # Dossier {#dossier}
 

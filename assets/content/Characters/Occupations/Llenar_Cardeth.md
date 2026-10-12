@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows and give him an expressive gaze. He has a straight nose and full lips. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
+Llénar Cárdeth is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows and give him an expressive gaze. He has a straight nose and full lips. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

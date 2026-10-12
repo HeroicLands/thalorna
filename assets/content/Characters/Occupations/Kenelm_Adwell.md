@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kenelm Adwell is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
+Kenelm Adwell is a 36-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
 
 # Dossier {#dossier}
 

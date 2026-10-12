@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ghârîdos Mûrâdês is a 30-year-old man who stands 6'3" tall and is broad and solidly built. He has an oval face with angular cheekbones, a lined forehead, and a square jaw that leads to a square chin. His narrow hazel eyes sit beneath prominent brows, lending him a keen gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His brown hair is falling in loose waves.
+Ghârîdos Mûrâdês is a 26-year-old man who stands 6'3" tall and is broad and solidly built. He has an oval face with angular cheekbones, a lined forehead, and a square jaw that leads to a square chin. His narrow hazel eyes sit beneath prominent brows, lending him a keen gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His brown hair is falling in loose waves.
 
 # Dossier {#dossier}
 
@@ -399,7 +399,7 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Ghârîdos has spent the last decade working on the docks, where he has become a vital part of the shipping and cargo handling operations. Known for his strength and reliability, he often takes on the heaviest loads and is responsible for ensuring that cargo is loaded and unloaded safely and efficiently. Ghârîdos enjoys the camaraderie of his fellow workers and takes pride in the essential role he plays in trade.
 
-Now at 30 years of age, Ghârîdos Mûrâdês has established himself as a known figure among the longshoremans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 26 years of age, Ghârîdos Mûrâdês has established himself as a known figure among the longshoremans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

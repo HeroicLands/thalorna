@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Fródwyn yra Dómhár wur Dunkelwald is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
+Fródwyn yra Dómhár wur Dunkelwald is a 34-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows and give her an open gaze. She has a broad nose and narrow lips. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 

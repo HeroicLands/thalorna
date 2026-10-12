@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Élsaro Castírenna is a 31-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
+Élsaro Castírenna is a 27-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 

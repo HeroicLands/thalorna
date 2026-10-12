@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kólrith Delvánor is a 29-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
+Kólrith Delvánor is a 25-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
 
 # Dossier {#dossier}
 
@@ -403,7 +403,7 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Kólrith is a daring pilot known for his adventurous spirit and quick reflexes. He often takes on challenging routes and is not afraid to push the limits of his airship. With a background in racing, he enjoys the thrill of speed and competition. While his boldness can lead to risky situations, Kólrith has a knack for finding innovative solutions in the air, making him a respected figure among his peers.
 
-Now at 29 years of age, Kólrith Delvánor has established himself as a known figure among the pilots of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 25 years of age, Kólrith Delvánor has established himself as a known figure among the pilots of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

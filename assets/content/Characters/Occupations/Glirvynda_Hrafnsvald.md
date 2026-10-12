@@ -398,7 +398,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Glirvynda Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows and give her a watchful gaze. She has a broad nose and wide lips. She has light skin with a fair complexion. Her black hair flows past her shoulders.
+Glirvynda Hrafnsvald is a 31-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows and give her a watchful gaze. She has a broad nose and wide lips. She has light skin with a fair complexion. Her black hair flows past her shoulders.
 
 # Dossier {#dossier}
 

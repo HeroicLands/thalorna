@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Véthar yra Balthhelm wur Waldburg is a 60-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
+Véthar yra Balthhelm wur Waldburg is a 56-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 
@@ -399,7 +399,7 @@ Born at [[place-waldburg|Waldburg]] to a Varokh household of hosts, Véthar came
 
 Véthar has been the innkeeper of the Old Stone Inn for over thirty years. Known for his hearty laugh and welcoming nature, he has built a loyal clientele. Véthar is a skilled cook, often sharing recipes passed down through generations. While he enjoys the camaraderie of guests, he also values the peace and tranquility of the countryside.
 
-Now at 60 years of age, Véthar has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 56 years of age, Véthar has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

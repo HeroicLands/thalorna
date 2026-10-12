@@ -369,7 +369,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gábêros stands 5'8" with a light, lean build—narrow in the shoulders and spare in the limbs, the frame of a runner rather than a brawler. His dark brown hair is thinning at the crown and kept cropped close, and his warm brown eyes are set in a bronzed, warm-skinned face that carries the permanent squint of a man who has spent decades patrolling sun-baked Helionite streets. His features are sharp and angular: a hawkish nose, prominent cheekbones, a thin-lipped mouth above a clean-shaven chin. At thirty-nine, he moves with a careful economy that suggests old injuries he does not discuss. He wears a light linen tunic over padded armor, sandals rather than boots in the Helionite fashion, and carries a short sword and wooden truncheon on a worn leather belt.
+Gábêros stands 5'9" with a light, lean build—narrow in the shoulders and spare in the limbs, the frame of a runner rather than a brawler. His dark brown hair is thinning at the crown and kept cropped close, and his warm brown eyes are set in a bronzed, warm-skinned face that carries the permanent squint of a man who has spent decades patrolling sun-baked Helionite streets. His features are sharp and angular: a hawkish nose, prominent cheekbones, a thin-lipped mouth above a clean-shaven chin. At thirty-nine, he moves with a careful economy that suggests old injuries he does not discuss. He wears a light linen tunic over padded armor, sandals rather than boots in the Helionite fashion, and carries a short sword and wooden truncheon on a worn leather belt.
 
 # Dossier {#dossier}
 
@@ -377,7 +377,7 @@ Gábêros was born into a scholarly family in [[place-helionis|Heliónis]] and s
 
 The agora patrol is different from other city guard work. It requires the ability to understand complex commercial disputes, recognize when intellectual debate is beginning to shift into incitement to violence, manage both merchants and philosophers with equal authority. Gábêros thrived in this role. He became known as the guard who would explain the law instead of merely enforcing it, who would engage in actual discussion rather than wielding authority blindly.
 
-Now at thirty-nine, he is the senior patrol commander for the agora and has become something of an institution. Merchants respect him because he understands commerce. Scholars respect him because he understands philosophy. He maintains order through persuasion rather than force. His neatly trimmed beard and careful appearance mark him as someone who takes personal presentation seriously, a Helionite cultural value.
+Now at thirty-nine, he is the senior patrol commander for the agora and has become something of an institution. Merchants respect him because he understands commerce. Scholars respect him because he understands philosophy. He maintains order through persuasion rather than force. His clean-shaven jaw and careful appearance mark him as someone who takes personal presentation seriously, a Helionite cultural value.
 
 ## Psyche
 

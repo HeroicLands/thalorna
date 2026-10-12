@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vérynna Brânwyld is a 34-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Vérynna Brânwyld is a 30-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
@@ -404,7 +404,7 @@ Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Proven
 
 Vérynna was chosen at a young age to train as a shaman, believed to possess a strong connection to the spirit world. She has served her tribe for over a decade, performing rituals, divining omens, and healing the sick. Despite her abilities, she often feels the weight of responsibility and struggles to balance her duties with her desire for a more ordinary life.
 
-Now at 34 years of age, Vérynna Brânwyld has established herself as a known figure among the shamans of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 30 years of age, Vérynna Brânwyld has established herself as a known figure among the shamans of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

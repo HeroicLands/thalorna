@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thâven Fárwèn is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows and give him an open gaze. He has a narrow nose and firm lips. He has fair skin with a fair complexion. His red hair is short and swept back.
+Thâven Fárwèn is a 41-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows and give him an open gaze. He has a narrow nose and firm lips. He has fair skin with a fair complexion. His red hair is short and swept back.
 
 # Dossier {#dossier}
 

@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Méthra Zálreth is a 26-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
+Méthra Zálreth is a 22-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Ràkhîmêa Khalîthôn is a 27-year-old woman who stands 6'1" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her piercing blue eyes sit beneath straight brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her chestnut hair is braided and coiled at the nape.
+Ràkhîmêa Khalîthôn is a 25-year-old woman who stands 6'1" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her piercing blue eyes sit beneath straight brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her chestnut hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

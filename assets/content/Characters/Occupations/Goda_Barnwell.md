@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Goda Barnwell is a 29-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
+Goda Barnwell is a 25-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
 
 # Dossier {#dossier}
 

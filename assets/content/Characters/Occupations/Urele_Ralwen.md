@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Úrelè Rálwen is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
+Úrelè Rálwen is a 24-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
 
 # Dossier {#dossier}
 

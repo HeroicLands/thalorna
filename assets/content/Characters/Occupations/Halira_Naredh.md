@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
+Hâlira Náredh is a 22-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows and give her a keen gaze. She has a narrow nose and narrow lips. She has medium-toned skin with a clear complexion. Her silver hair flows past her shoulders. She has ink-stained fingers.
 
 # Dossier {#dossier}
 

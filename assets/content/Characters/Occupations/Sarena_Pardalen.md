@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sárena Párdalen is a 27-year-old woman who stands 5'7" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath arched brows and give her a measured gaze. She has a slightly upturned nose and curved lips. She has pale skin. Her brown hair flows past her shoulders, often woven with small dried flowers or sprigs of herbs in the manner common among Flórania's clergy. She dresses simply—plain linen robes, leather sandals—and carries herself with the quiet, unhurried manner of someone accustomed to sitting at bedsides and waiting for fevers to break.
+Sárena Párdalen is a 23-year-old woman who stands 5'7" tall and is of moderate build. She has a heart-shaped face with angular cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath arched brows and give her a measured gaze. She has a slightly upturned nose and curved lips. She has pale skin. Her brown hair flows past her shoulders, often woven with small dried flowers or sprigs of herbs in the manner common among Flórania's clergy. She dresses simply—plain linen robes, leather sandals—and carries herself with the quiet, unhurried manner of someone accustomed to sitting at bedsides and waiting for fevers to break.
 
 # Dossier {#dossier}
 

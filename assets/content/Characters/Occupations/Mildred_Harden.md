@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Mildred Harden is a 45-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
+Mildred Harden is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
 
 # Dossier {#dossier}
 

@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gorâzendîs Bârês is a 27-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
+Gorâzendîs Bârês is a 23-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows and give her a penetrating gaze. She has a strong nose and wide lips. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
 # Dossier {#dossier}
 

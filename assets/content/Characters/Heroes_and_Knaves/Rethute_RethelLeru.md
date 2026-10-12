@@ -20,7 +20,7 @@ data:
     being-ahmetegazek2: patron
   gender: female
   species: humanflk
-  born: 688.38
+  born: 659.38
   height: 5' 7"
   weight: 191 lbs
   frame: light

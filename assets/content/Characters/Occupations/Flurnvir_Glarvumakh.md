@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Flurnvir Glarvumakh is a 35-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
+Flurnvir Glarvumakh is a 31-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
 
 # Dossier {#dossier}
 

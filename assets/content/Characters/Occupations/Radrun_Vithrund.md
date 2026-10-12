@@ -392,15 +392,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Rádrún yra Vithrúnd wur Grimholt is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and expressive lips. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
+Rádrún yra Vithrúnd wur Grimholt is an 18-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows and give her a measured gaze. She has a straight nose and expressive lips. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
 
 # Dossier {#dossier}
 
 Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi heritage, Rádrún is a prostitute.
 
-Rádrún works in the same brothel as Nyssa, and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
+Rádrún works in a Grimholt brothel and secretly serves the Gray Tide. While she entertains clients, she acts as a lookout and messenger for the organization. She is known for her ability to blend into the background and overhear what is worth knowing. For all her involvement with the Tide, she remains conflicted about her choices and the risks of her double life.
 
-Now at 22 years of age, she is a known figure among the prostitutes of Vrystwald.
+Now at 18 years of age, she is a known figure among the prostitutes of Vrystwald.
 
 ## Psyche
 

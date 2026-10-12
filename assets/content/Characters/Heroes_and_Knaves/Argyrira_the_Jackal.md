@@ -14,7 +14,7 @@ data:
   occupation: Raider Warlord
   lore: []
   culture: bethuanclt
-  homes: [bethuargn]
+  homes: [sthmrchsrgn]
   affiliations: {mtrrchybth: {rank: 0}, morvana: {rank: 1}}
   gender: female
   species: humanflk

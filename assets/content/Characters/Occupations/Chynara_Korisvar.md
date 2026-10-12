@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows and give her an expressive gaze. She has a narrow nose and firm lips. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
+Chýnara Kórisvar is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows and give her an expressive gaze. She has a narrow nose and firm lips. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 

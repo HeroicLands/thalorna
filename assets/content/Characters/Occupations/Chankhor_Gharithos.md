@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Chânkhor Ghârîthôs is a 42-year-old man who stands 6'3" tall and is broad and solidly built. He has a square face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. His bright gray eyes sit beneath prominent brows, lending him a lively gaze. An aquiline nose and firm lips complete his features. He has fair skin with a bronzed complexion. His black hair is falling in loose waves.
+Chânkhor Ghârîthôs is a 38-year-old man who stands 6'3" tall and is broad and solidly built. He has a square face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. His bright gray eyes sit beneath prominent brows, lending him a lively gaze. An aquiline nose and firm lips complete his features. He has fair skin with a bronzed complexion. His black hair is falling in loose waves.
 
 # Dossier {#dossier}
 

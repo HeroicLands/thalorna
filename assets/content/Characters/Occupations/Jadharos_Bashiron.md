@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Jâdhâros Bâshirôn is a 30-year-old man who stands 6'2" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath arched brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has olive skin with an olive-toned complexion. His dark brown hair is cropped short.
+Jâdhâros Bâshirôn is a 26-year-old man who stands 6'2" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath arched brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has olive skin with an olive-toned complexion. His dark brown hair is cropped short.
 
 # Dossier {#dossier}
 
@@ -402,7 +402,7 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Jâdhâros is an experienced seaman who has spent years sailing the coastal waters. Known for his reliability and work ethic, he is often called upon to handle various tasks aboard the ship. Jâdhâros is well-liked by his crewmates for his sense of humor and ability to lift spirits during long voyages. He dreams of one day becoming a captain himself.
 
-Now at 30 years of age, Jâdhâros Bâshirôn has established himself as a known figure among the common seamans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 26 years of age, Jâdhâros Bâshirôn has established himself as a known figure among the common seamans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

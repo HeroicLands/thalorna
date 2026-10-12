@@ -387,11 +387,11 @@ sohl:
 
 # Appearance {#appearance}
 
-Genîra Bibûdî is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows and give her an incisive gaze. She has a strong nose and expressive lips. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement. Her nose is crooked from an old break.
+Genîra Bibûdî is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows and give her an incisive gaze. She has expressive lips and a nose crooked from an old break. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement.
 
 # Dossier {#dossier}
 
-Born in the Tarûzel region to a freeman family of Tarûzelian heritage, Genîra Bibûdî is a gladiator.
+Born in the Tarûzel region of Tarûzelian heritage and orphaned young, Genîra Bibûdî is a gladiator.
 
 Genîra grew up as a street orphan and fought for survival every day. She was discovered by a gladiator trainer who saw her potential and offered her a chance to rise above her circumstances. Known for her speed and agility, she quickly made a name for herself in the arena, where she fights with a blend of grace and ferocity. She enjoys the thrill of combat but remains wary of the dangers it brings.
 

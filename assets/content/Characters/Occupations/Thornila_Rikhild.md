@@ -396,7 +396,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thornila yra Ríkhild wur Thornhaven is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
+Thornila yra Ríkhild wur Thornhaven is a 31-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows and give her a measured gaze. She has a strong nose and full lips. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
 
 # Dossier {#dossier}
 

@@ -399,7 +399,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
+Thóren Bélthal is a 45-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows and give him an expressive gaze. He has a narrow nose and full lips. He has pale skin with a flawless complexion. His chestnut hair falls in loose waves. His hands are rough and work-worn.
 
 # Dossier {#dossier}
 

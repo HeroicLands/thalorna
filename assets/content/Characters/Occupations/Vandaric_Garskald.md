@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Vandaric yra Gárskald wur Thornhaven is a 25-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. His deep-set brown eyes sit beneath heavy brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has medium-toned skin with a rough complexion. His blonde hair is long and gathered with a leather thong.
+Vandaric yra Gárskald wur Thornhaven is a 21-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. His deep-set brown eyes sit beneath heavy brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has medium-toned skin with a rough complexion. His blonde hair is long and gathered with a leather thong.
 
 # Dossier {#dossier}
 
@@ -401,7 +401,7 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Vandaric grew up around horses and has always had a natural affinity for caring for them. As an ostler, he manages the stables of a local inn, ensuring that the horses are well-fed, groomed, and ready for travel. Known for his gentle demeanor, Vandaric has a way of calming even the most skittish animals. He takes pride in his work and is respected by both travelers and locals for his expertise in horse care.
 
-Now at 25 years of age, Vandaric has established himself as a known figure among the ostlers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 21 years of age, Vandaric has established himself as a known figure among the ostlers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

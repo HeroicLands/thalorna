@@ -390,7 +390,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Làgôra Xêrâzêndis is a 27-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
+Làgôra Xêrâzêndis is a 23-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
 
 # Dossier {#dossier}
 

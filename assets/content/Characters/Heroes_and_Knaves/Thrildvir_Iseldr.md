@@ -437,7 +437,7 @@ Upon completing his apprenticeship at twenty-two, Thrildvir took the road as a j
 
 Returning to Vithgard at twenty-seven, Thrildvir established his own atelier in the middle of the cloth district, near his childhood home. His reputation grew rapidly through a combination of superb craftsmanship and an almost mystical ability to understand what his clients truly needed, often creating designs that exceeded their stated desires. Nobility began commissioning pieces from him, then minor royalty, until his schedule became perpetually overbooked. He trained several apprentices, though none matched his own natural gifts—a fact that troubled him deeply, as he recognized his gift might pass from the world with him.
 
-Now approaching fifty, Thrildvir has achieved considerable financial success and social standing. He maintains a thriving business, a training atelier for promising young craftspeople, and a reputation for perfectionism that sometimes alienates clients but ultimately commands deep respect. Yet this success in trade covers a growing melancholy—the awareness that it has not filled a certain hollowness in his personal life.
+Now in his mid-forties, Thrildvir has achieved considerable financial success and social standing. He maintains a thriving business, a training atelier for promising young craftspeople, and a reputation for perfectionism that sometimes alienates clients but ultimately commands deep respect. Yet this success in trade covers a growing melancholy—the awareness that it has not filled a certain hollowness in his personal life.
 
 ## Psyche
 

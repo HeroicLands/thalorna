@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Sharrûsh Khamîsûnî is a 55-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion. His gray hair is kept practical and short. A notable feature is rough, work-worn hands.
+Sharrûsh Khamîsûnî is a 51-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with sharp cheekbones, a lined forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a rough complexion. His gray hair is kept practical and short. A notable feature is rough, work-worn hands.
 
 # Dossier {#dossier}
 

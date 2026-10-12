@@ -393,7 +393,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Glarvorv Steinblót is a 35-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
+Glarvorv Steinblót is a 31-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
 
 # Dossier {#dossier}
 

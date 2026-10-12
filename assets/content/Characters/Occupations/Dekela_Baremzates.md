@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a hawkish nose and wide lips. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
+Dékêla Bàremzâtês is a 28-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows and give her a penetrating gaze. She has a hawkish nose and wide lips. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
 
 # Dossier {#dossier}
 

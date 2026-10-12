@@ -395,7 +395,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Wulfrád yra Hildvith wur Skathburg is a 40-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His hooded blue eyes sit beneath furrowed brows, lending him a guarded gaze. A prominent nose and expressive lips complete his features. He has light skin with a rugged complexion. His white hair is braided at the temples.
+Wulfrád yra Hildvith wur Skathburg is a 36-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His hooded blue eyes sit beneath furrowed brows, lending him a guarded gaze. A prominent nose and expressive lips complete his features. He has light skin with a rugged complexion. His white hair is braided at the temples.
 
 # Dossier {#dossier}
 
@@ -403,7 +403,7 @@ Born in the [[place-vrystwald|Vrystwald]] region to a freeman family of Varokhi 
 
 Wulfrád has dedicated his life to the art of siege warfare as a sapper. With years of experience, he is skilled in constructing defensive structures and demolishing enemy fortifications. Known for his practical knowledge and leadership, he often trains new recruits in the art of engineering. Wulfrád believes in the importance of teamwork and often emphasizes safety in his training.
 
-Now at 40 years of age, Wulfrád has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 36 years of age, Wulfrád has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 

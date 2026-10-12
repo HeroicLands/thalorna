@@ -395,15 +395,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Sôtharion Khalîthôn is a 48-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and full lips. He has olive skin with an olive-toned complexion. His graying black hair falls in loose waves.
+Sôtharion Khalîthôn is a 44-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows and give him a measured gaze. He has a straight nose and full lips. He has olive skin with an olive-toned complexion. His graying black hair falls in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite heritage, Sôtharion Khalîthôn is a lord who holds his lands as a tenant-in-chief.
+Born in the [[place-helionis|Heliónis]] region to a noble family of Helionite heritage, Sôtharion Khalîthôn is a lord who holds his lands as a tenant-in-chief.
 
 Lord Sôtharion is a powerful lord who oversees vast lands and is known for his military prowess. He has earned the loyalty of his vassals through his just rulership and his skill in war. He is dedicated to protecting his domain from threats and is often seen leading his men into battle. His strong sense of duty and honor has made him a respected figure among both his peers and the common folk.
 
-Now at 48 years of age, he is a known figure among the tenants-in-chief of Heliónis.
+Now at 44 years of age, he is a known figure among the tenants-in-chief of Heliónis.
 
 ## Psyche
 

@@ -391,7 +391,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
+Arzânalàs Bâredâs is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows and give him an expressive gaze. He has a straight nose and wide lips. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
 
 # Dossier {#dossier}
 

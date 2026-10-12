@@ -390,15 +390,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Gália Rálwen is a 27-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
+Gália Rálwen is a 23-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
 
 # Dossier {#dossier}
 
-Born in the [[place-provenzrgn|Provènzia]] region to a freeman family of Provenzian heritage, Gália Rálwen came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
+Born in the [[place-provenzrgn|Provènzia]] region to a minor noble family of Provenzian heritage, Gália Rálwen came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
-Lady Elowen is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Elowen often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
+Gália is a minor noble with a keen interest in the arts and local governance. She is known for her charitable contributions to the community and her ability to connect with the common folk. Gália often hosts gatherings at her estate to promote local artists and musicians, and she advocates for education and the welfare of her people. Her warm demeanor and passion for philanthropy have made her popular among her peers and the populace.
 
-Now at 27 years of age, Gália Rálwen has established herself as a known figure among the nobility (courtier)s of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
+Now at 23 years of age, Gália Rálwen has established herself as a known figure among the nobility (courtier)s of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 

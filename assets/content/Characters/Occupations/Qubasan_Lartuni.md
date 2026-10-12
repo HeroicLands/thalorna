@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Qubâsan Lartûnî is a 34-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
+Qubâsan Lartûnî is a 30-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
 
 # Dossier {#dossier}
 

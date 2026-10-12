@@ -392,7 +392,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Kadûmûya Qubâsûnî is a 30-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and curved lips. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
+Kadûmûya Qubâsûnî is a 26-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows and give her an expressive gaze. She has a prominent nose and curved lips. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
 
 # Dossier {#dossier}
 

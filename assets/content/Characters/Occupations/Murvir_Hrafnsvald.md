@@ -394,7 +394,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Murvir Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows and give him a candid gaze. He has a straight nose and curved lips. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
+Murvir Hrafnsvald is a 44-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows and give him a candid gaze. He has a straight nose and curved lips. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
 
 # Dossier {#dossier}
 
