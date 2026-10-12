@@ -236,7 +236,7 @@ sohl:
             shockValue: 2
             probWeight: 2
             protectionBase: {blunt: 2, edged: 3, piercing: 1, fire: 3}
-      weight: {base: 172, calc: "(9 * str) + 50"}
+      weight: {base: 40, calc: "40"}
       reachBase: 0
       bodyScaleBase: 0.81
       personalFatigue: "enc + 5"
@@ -254,63 +254,65 @@ sohl:
 
 ![[cvgbln|Cave Goblin]]{float=top-left}
 
-Small shapes move through the darkness, barely visible in the torchlight. Cave goblins are thin, hunched creatures with elongated features and bulging eyes that see far too well in the dark. Their gray or greenish skin clings to sharp-angled frames, and when they move, it is with liquid silence that seems unnatural in its completeness. When they watch you, there is no warmth in their regard—only hunger, cunning, and the assessment of whether you represent opportunity or threat.
+The cave runs back from the hillside, and your torch shows its walls slick and gray. Small shapes move at the edge of the light, three or four of them, three feet high and hunched, gray-green and thin, and they move without a sound. Their eyes are the biggest thing about them, huge and pale and shining in the torchlight like a cat's, and they are fixed on you without any expression you can read. One of them steps forward into the light, holding up both empty hands. It smiles, showing small sharp teeth. "Lost?" it says, in your own tongue. Behind it, a little farther back in the dark, you hear a sling being wound.
 
 # Dossier {#dossier}
 
-Cave goblins are a sapient species that dwells in subterranean regions, existing as both solitary hunters and loose communities depending on the abundance of food and territory. They are highly intelligent, and they are neither evil nor good; they are amoral—they follow their own self-interest and the customs of their kind with utter consistency. A cave goblin encountered alone is about its own business; a group of cave goblins is either a family unit or an opportunistic assembly, never a structured military formation. They view other species with either indifference or as resources, and their treatment of captives varies based on whether those captives have utility or novelty.
+The Cave Goblin is a [[lore-goblinfolk|goblin]] of the underground: a small, hunched, sapient creature, three to four feet tall, with huge pale eyes that see in near-darkness, which lives in caves and tunnels as a solitary hunter or in loose communities when food and room allow. It is highly intelligent and amoral, neither wicked nor good: it pursues its own self-interest and the customs of its kind with perfect consistency, follows a trickster god, lies as easily as it breathes, and poisons its weapons with fungal toxins. Goblins hold their own territories in the marginal lands between the settled kingdoms, and the cave goblins of the [[place-vandstein|Vandstein]], the stony southern edge of the [[place-vrystwald|Vrystwald]] facing the Vylarian Empire, are the ones the empire's frontier knows best.
 
 ## Presentation
 
-Cave goblins stand three to four feet tall on average, with elongated, hunched postures suited to underground travel. Their skin ranges from sickly gray to mottled dark green or brown, often with fungal growth or cave slime darkening patches. Their eyes are large and luminous, adapted perfectly to see in near-total darkness. Their ears are pointed and mobile, positioned to catch sounds humans miss. Their hands are long-fingered with sharp, dark nails, and their feet are splayed and callused from climbing. They typically wear cobbled-together clothing made from cave fungus leather, hide, and bone, often in tatters but surprisingly functional for their environment.
+A cave goblin stands three to four feet tall, thin and hunched, built for tunnels, with long arms and long fingers. Its skin runs from sickly gray to mottled dark green or brown, often patched darker with cave slime or a fungal bloom. Its eyes are large, pale and luminous, and its long ears turn toward every sound. Its mouth is wide and full of small sharp teeth. It dresses in scraps, hide, salvaged cloth and stolen gear, and it carries a light spear, a sling and a pouch of darts and pots of poison. It moves in perfect silence and freezes perfectly still. In daylight it squints and keeps to shade.
+
+## In the Land
+
+The Vandstein's highlands are stony and broken, crossed by a few passes that make the fur trade possible, and its limestone is riddled with caves. The cave goblins live in those caves, alone or in loose communities in the bigger systems, and they hunt underground and come out at night: cave fish, bats, beetles and blind crabs below, and above, birds, hares, the forest villages' poultry and anything a traveler leaves unguarded. Their caves reach into the overgrown Vylarian posts of the southern woods, whose cellars and drains they use, and some reach under the mountains toward [[place-moktur|Moktur]], where the empire's miners break into them from the other side.
 
 ## Key Behaviors
 
-Cave goblins are fundamentally individualistic and self-interested. They are driven by hunger, curiosity, and the desire for status within goblin hierarchies. Each cave goblin is focused on personal advancement and personal survival. When multiple goblins are present, their dealings with each other are complicated—they may cooperate when the benefit is clear, but they are equally likely to turn on each other or sacrifice each other for personal gain. They are found throughout cave systems in the region, sometimes in established communities and sometimes as solitary hunters. They are intelligent enough to teach their young, to plan ahead, and to understand the value of tools and weapons. They view other sapient species with contempt or indifference, and they see humanoid creatures primarily as either threats or resources.
+A cave goblin is driven by hunger, curiosity and its standing among its kind, and it thinks about its own advantage first, last and always. With other goblins it cooperates when the benefit is plain and turns on them when it is not. With outsiders it is the same: it trades, guides, lies, robs or kills as the moment pays, without malice and without loyalty. It values shiny things, food that is scarce underground, and good tools and weapons, and an individual goblin can usually be bargained with if the terms are interesting to it. It is territorial, but a community defends its caves together only when the community itself is threatened. It knows its tunnels in three dimensions, as a fish knows water.
+
+## What the Frontier Does
+
+The Varokh villages below the Vandstein's passes trade with the cave goblins, cautiously, for the fungi and cave-salts the goblins gather, and pay them not to raid the poultry; the arrangement works most years. Fur traders crossing the passes hire goblin guides now and then, because a goblin knows the caves that cut a day off the road, and they count their packs every night. The Vylarian miners in Moktur who break into goblin tunnels from below call it bad luck and wall the gallery up, because a goblin community that has had its tunnels broken into spends the next season stealing everything the mine owns. Everyone who deals with them learns the same rule: a cave goblin is honest when honesty pays it, and it is never honest by accident.
+
+## Signs
+
+- Small, long-toed bare footprints in the mud of a cave floor, many of them, crossing and recrossing.
+- Bones of bats, fish and poultry heaped in a side passage, cracked for the marrow.
+- Pale fungus deliberately grown in rows on rotten wood in a cave, and the smell of it drying.
+- Tools, lamps and food missing from a mine or a camp overnight, with no sign of how anyone got in.
+- Large pale eyes shining at the edge of the torchlight, gone when the torch is turned.
 
 ## Combat Strategy
 
-Cave goblins prefer ambush tactics and guerrilla approaches. They use their superior understanding of terrain, their ability to see in darkness, and their numbers to attack from positions of advantage. A cave goblin will not stand and fight if they can avoid it; instead, they will attack from darkness, from above, from unexpected angles. They are quick to flee if the fight turns against them. In groups, they coordinate basic tactics—some creating distraction while others attack from hidden positions. They favor weapons that suit their build—spears, hand-axes, bone daggers, slings, and crude bows. Many cave goblins use poison or paralytic toxins on their weapons, particularly substances derived from cave fungi.
-
-## Attack Methods
-
-### Spear Strike
-
-The goblin strikes with a crude but sharp spear, often treated with toxin. The attack is quick and designed to pierce soft spots in armor and get away before retaliation.
-
-### Sling Attack
-
-A projectile attack using stones or bone missiles. The goblin can attack from distance and is difficult to target in return due to their small size and their skill at using cover.
-
-### Poisoned Dart
-
-Some cave goblins use small, accurate darts coated in paralytic toxins derived from fungal growths. A hit delivers the poison, causing numbness and slowed movement.
-
-### Ambush Attack
-
-From hiding in darkness or from superior terrain position, the goblin strikes with all their power focused on a single target. These attacks are devastating when they land but rarely occur in open combat.
+Cave goblins fight from the dark and from advantage: from above, from side passages, from behind. They use their sight in darkness, their knowledge of the tunnels and their numbers, and they strike, poison and withdraw. A goblin does not stand and fight if it can help it; it flees the moment a fight turns, and a group scatters. They put out the lights first when they can, because in darkness they have every advantage. They talk to divide a party and lie to lead it into dead ends and drops.
 
 ## Special Abilities
 
+### Poisoned Spear and Darts
+
+The goblin fights with a light spear whose point is smeared with fungal poison, and throws small darts tipped with a paralytic poison that brings numbness and slows the victim.
+
+### Sling
+
+It slings stones and bone shot from cover, and it is a small, hard target at a distance.
+
 ### Darkvision
 
-Cave goblins can see in near-complete darkness as if it were twilight. This gives them overwhelming advantage in their native cave environment and significant advantage in dim lighting.
+It sees in near-complete darkness as if in twilight.
 
 ### Tunnel Mastery
 
-In cave environments, cave goblins move with perfect silence and understand three-dimensional positioning in ways that surface dwellers cannot match. They climb, traverse, and navigate caves with ease.
+In caves it moves in perfect silence and climbs and threads passages in three dimensions with an ease no surface-dweller can match.
 
 ### Toxin Knowledge
 
-Cave goblins instinctively understand how to identify, process, and apply toxins derived from cave fungi. Many of their weapons carry a coating of paralytic or mild poison.
+It knows how to find, prepare and use the poisons of cave fungi.
 
 ### Cunning Misdirection
 
-Cave goblins are natural liars and deceivers. They are skilled at creating confusion, misdirecting attention, and exploiting the assumptions others make about them. A cave goblin encountered in dialogue is likely to be dishonest unless obvious incentive exists to be truthful.
-
-## Additional Information
-
-Cave goblins are territorial but do not defend territory as a group unless immediate community survival is threatened. An individual goblin can usually be negotiated with if the terms are interesting to them. They value shiny objects, food that is scarce in caves, and weapons or tools. Some communities have maintained trade relationships with nearby cave goblin populations, though these are always delicate and subject to disruption based on individual goblin whim. Cave goblins have their own complex social hierarchies and reputations, and a goblin that is well-regarded can secure better treatment than one that is known as unreliable. Those venturing into deep caves should be aware that cave goblins likely know the territory far better and will exploit that advantage ruthlessly.
+It lies easily and well, confuses and misdirects, and exploits whatever outsiders assume about it. In conversation it is dishonest unless honesty pays.
 
 ## Attributes
 

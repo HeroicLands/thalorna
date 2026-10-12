@@ -3,7 +3,7 @@ shortcode: ttnbtl
 name: {full: Titan Beetle, aliases: []}
 type: being
 subType: creature
-description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
+description: "A massive armored herbivorous beetle six to eight feet long that fiercely defends its territory in dense forests, badlands, and caves."
 tags: [animal]
 data:
   packFolder: animals
@@ -182,7 +182,7 @@ sohl:
             shockValue: 4
             probWeight: 10
             protectionBase: {blunt: 10, edged: 9, piercing: 7, fire: 9}
-      weight: {base: 50, calc: "50"}
+      weight: {base: 400, calc: "400"}
       reachBase: 0
       bodyScaleBase: 1.52
       personalFatigue: "enc + 5"
@@ -201,51 +201,63 @@ sohl:
 
 ![[ttnbtl|Titan Beetle]]{float=top-left}
 
-The ground itself seems to tremble with deliberate, rhythmic footsteps. A dark, gleaming shape emerges from vegetation, and you realize you're looking at something between insect and small fortress. The chitinous shell is polished like dark metal, segmented and proportioned with alien grace. The six legs are thick and powerful, each step producing a crunching sound that carries an implicit promise of weight and strength. The head is broad and flat, dominated by massive mandibles that open and close in a slow, testing motion that suggests absolute confidence in their power to crush and cleave.
+The felling crew has stopped work, and you can hear why: a creaking, grinding sound from the far side of the great fallen trunk, like a cart with a dry axle. Over the trunk comes a beetle. It is longer than a man is tall, black as a cooking pot and shining like one, and its head carries two jaws curved down like a pair of sickles. It walks over the log on six thick hooked legs without hurrying, and its shell rings faintly when a branch scrapes it. It stops at the end of the trunk where the men were cutting, lowers its head, and opens the jaws. The foreman says, very quietly, to put down the axes and walk backward.
 
 # Dossier {#dossier}
 
-The Titan Beetle is a massive armored insect reaching 6-8 feet in body length and weighing several hundred pounds, found in dense forests, rocky badlands, and caves across tropical and temperate regions. Despite their herbivorous diet, these creatures are dangerous defenders that will aggressively protect territory or themselves when threatened. Adventurers encounter titan beetles primarily in dense vegetation or while mining/quarrying in beetle territory.
+The Titan Beetle is a giant beetle, six to eight feet long, armored in thick black chitin, with downcurved mandibles strong enough to snap a sapling or a man's leg. It eats bark, leaves and soft wood and does not hunt, and it is peaceable until something crowds it, touches it, or comes near its eggs, and then it charges and keeps charging. It lives in hot, dense forest and the broken country at its edges, and in the [[place-okharisrgn|Okháris Region]] it is the forest tribes' great nuisance and an occasional killer, because it lives in the same hardwood stands they fell for timber and charcoal.
 
 ## Presentation
 
-The titan beetle is an armor-plated insect with a body covered entirely in dark, polished chitin that resembles burnished metal. The exoskeleton is segmented into plates that allow flexibility while providing protection. The head is broad with powerful mandibles that curve downward and are capable of tremendous crushing force. The eyes are relatively small and positioned on the sides of the head. Six thick, muscular legs support the creature's weight, each leg ending in curved claws suitable for gripping and climbing. The back is marked with ridges and darker striations.
+A titan beetle is long, broad and low, with a body plated in segments of thick, polished black chitin that look like burnished iron, and that ring when they are struck. The head is broad and flat, with small eyes on the sides and a pair of heavy mandibles that curve down and inward like sickles, serrated along their inner edges. Short, thick antennae sweep the air ahead of it. Six legs, each as thick as a man's forearm, end in hooked claws that grip bark and rock. The wing-cases are fused, and it does not fly. It moves slowly and steadily, with a constant creak of plate against plate, and a beetle in a hurry is a sound like a cart going downhill.
+
+## In the Land
+
+Titan beetles live in the hot forest of western Okháris, where the rains keep the trees thick along the watercourses and the forest thickens southward toward the wall of the [[place-cntrlrnfrsts|Central Rainforests]]. They eat the bark of the great hardwoods, the leaves of the understory and the soft rotten wood of fallen trunks, and they keep to a few acres of forest round a stand of old trees for years. The females lay their eggs in the rotting heart of a fallen hardwood, and the grubs live in it for years before they come out. Beetles are found too in the broken, rocky country at the forest edge and in caves, where they shelter in the hottest weather. They do not go out onto the open grassland.
 
 ## Key Behaviors
 
-Titan beetles are herbivorous, spending much of their time feeding on vegetation, leaves, and bark. They are fundamentally peaceful creatures that will tolerate humanoid presence until threatened. When endangered, they immediately shift to defensive stance and will aggressively defend territory. Females defending eggs become nearly uncontrollable in aggression. Beetles are solitary except during mating season. They can survive for extended periods without food.
+A titan beetle spends its days feeding and its nights sheltering in a hollow, a cave mouth or under a fallen trunk. It strips bark in long ragged swathes, chews through saplings and bores into rotten logs. It is solitary and keeps other beetles off its trees, and two males that meet in the breeding season fight by locking jaws and shoving until one is turned over. It ignores people who keep their distance and go about their business. It defends itself, its feeding trees and above all a log with eggs in it, and a female guarding eggs attacks anything that comes near the log, men and cattle included. It goes a long time without food, and a beetle shut in a cave or a pit is still alive weeks later.
+
+## What the Forest Tribes Do
+
+The [[affiliation-dongarutrb|Dóngaru]], who fell the forest's hardwoods and burn charcoal in earth-covered stacks round [[place-dongaruvlg|Dóngaru Village]], meet titan beetles in every season's felling. A crew that finds a beetle on a stand it means to cut moves to another stand, and a fallen trunk with a female on it is left to rot. A beetle that will not leave a felling ground is smoked out with green wood or driven off with fire by men carrying long poles. Killing one is hard work and seldom worth it, but a dead beetle is valuable: the chitin plates are cut into shields and breast-plates that turn a spear, and the temple-cities' smiths buy the mandibles to set on the hafts of ceremonial axes. The grubs dug from a rotten log are eaten roasted, and the Dóngaru count a log full of them a good find, provided its mother is elsewhere.
+
+## Signs
+
+- Bark stripped from the trunks of big hardwoods in long, ragged swathes, as high as a man can reach.
+- Saplings cut through cleanly at knee height, as if with a sickle.
+- A fallen trunk bored through with holes as wide as a fist, with sawdust spilling out of them.
+- Broad, six-legged tracks in soft ground, with deep claw-marks, and a drag between them.
+- A creaking, grinding sound in the undergrowth, very steady, moving slowly.
 
 ## Combat Strategy
 
-The titan beetle defends itself through sheer durability and crushing power. It charges opponents with all its weight, using mandibles to deliver devastating bites. The creature is slow but relentless, simply overwhelming opposition through durability and repeated attacks. If escape is possible, the beetle will flee rather than continue a losing battle.
+A titan beetle that has been roused charges straight at whatever roused it, as fast as it can move, and closes its mandibles on the first thing it reaches. It does not dodge and barely notices blows: it simply keeps coming, biting and shoving with its weight, until the threat is gone or it is. A beetle that is hurt badly and can get away does get away, slowly, into the undergrowth. A female guarding eggs does not retreat at all. The beetle is slow and a man who keeps his distance can usually walk away from it, unless he is cornered against a trunk, a stack or a ravine.
 
 ## Attack Methods
 
 ### Mandible Crush
 
-The beetle delivers a crushing bite using its powerful mandibles, capable of breaking bone and tearing through armor.
+The beetle closes its sickle jaws on a leg, an arm or a body. The serrated edges cut through leather and flesh and the pressure breaks bone, and a beetle that has hold of a limb shakes its head and does not let go easily.
 
 ### Body Slam
 
-The creature uses its weight as a weapon, colliding with opponents and attempting to crush them under its mass.
+The beetle drives its armored weight into a man and shoves, knocking him down, pinning him against a tree or a rock, and crushing him there.
 
 ## Special Abilities
 
 ### Natural Armor
 
-The chitin shell protects it as well as heavy armor against cuts and thrusts.
+The chitin protects the beetle as well as heavy armor against cuts and thrusts. Blows that find the joints between the plates, under the head or at the legs, do far more harm.
 
 ### Immovable Mass
 
-The beetle's weight and low center of gravity make it nearly impossible to knock off balance or move against its will.
+The beetle is low and heavy for its size and grips the ground with six clawed feet, and it is nearly impossible to knock over, shove aside or move against its will.
 
 ### Relentless Strength
 
-The beetle continues fighting despite its wounds, driven by territorial instinct rather than fear or pain.
-
-### Additional Information
-
-Titan beetles are most dangerous when defending territory or eggs. Outside of protective instinct, they are relatively passive. The creature's chitin can be harvested after death and used for armor or crafting. Females defending eggs are nearly unbeatable and should be avoided entirely.
+Once it is fighting the beetle keeps on, untroubled by pain or wounds, until the threat is gone or it is dead.
 
 ## Attributes
 

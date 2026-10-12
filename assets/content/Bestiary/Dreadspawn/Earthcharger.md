@@ -200,55 +200,67 @@ sohl:
 
 ![[erthchrg|Earthcharger]]{float=top-left}
 
-The stone scrapes before you see it. A wall of chitinous armor pushes out of the cavern's mouth—a beetle the size of a wagon, its carapace gleaming black like obsidian in lamplight. Its mandibles are the length of a man's arm each, lined with serrated edges and stained dark from old kills. Antennae twitch and wave, sampling air and vibration. The creature doesn't move quickly, but every movement carries the inevitability of an oncoming cart of stone. Where it has passed, the ground is gouged by chitinous claws and the air is thick with a dry, mineral musk.
+The granary door is oak, banded with iron, and it is barred from inside. Something on the other side of the courtyard wall hits it. The whole gatehouse shakes, dust falls from the beams, and the bar cracks. A second blow, and the door comes in off its hinges, and through the gap comes a beetle the size of an ox cart, black-plated and gleaming copper and blue where the torchlight catches it, with jaws in front of it each as long as a man's arm. It does not stop for the door. It walks over it, splintering it, and turns its head toward the soldiers in the courtyard, and the jaws open.
 
 # Dossier {#dossier}
 
-Earthchargers are apex predators of caverns and underground passages—heavily armored arthropods driven by ancient hunger and territorial absolutism. They are living battering rams of the deep places, capable of breaking through brush, wooden doors, weakened stonework, and many fortified barricades with patient, unstoppable force, though intact dressed masonry will still hold them out. Adventurers encounter them in deep caverns, stone-wrought labyrinths, and the wider underground passages where their bulk can pass.
+The Earthcharger is a dreadspawn in the shape of a giant beetle: ten to twelve feet long and fifteen hundred pounds, armored in layered black chitin, with shearing jaws and a charge that breaks down timber doors, palisades and weak stone. It lives in caverns and the passages under hills and comes out to take what it wants. It is one of the dreadspawn that have appeared inside the borders of the [[affiliation-tanvurempr|Empire of Tānvür]] in recent years, more of them than anyone can account for, and the army that has to deal with them has found the earthcharger one of the hardest. Like every dreadspawn it was made, it is alive, and it does not breed. The [[lore-tanthei|Tānthëi]] have catalogued it with the rest.
 
 ## Presentation
 
-The Earthcharger is a massive beetle, ten to twelve feet in length and weighing eight hundred to fifteen hundred pounds—comparable in mass to a large draft ox, but compressed into the broader, lower silhouette of an arthropod. Its carapace is composed of multiple overlapping plates of black chitin flecked with iridescent copper and deep blue. The shell is scarred, cracked in places, repaired through heavy use. Its mandibles are enormous—each as long as a man's arm and lined with serrated cutting edges capable of shearing through limbs. It has six thick, columnar legs that support its weight on stone with no apparent strain; each foot is a complex structure of hard points and softer pads. Long antennae extend from its head, constantly twitching and sensing. The creature moves with slow, relentless determination, the scrape of chitin against stone carrying clearly through the surrounding rock and the impact of each step felt as a faint tremor underfoot.
+The earthcharger is a beetle on a vast scale, broad and low, built like a wagon turned upside down. Its carapace is layered black plates flecked with iridescent copper and deep blue, scarred and cracked from use. Its head is armored and wedge-shaped, made for ramming, and carries a pair of serrated mandibles, each as long as a man's arm. Its six legs are thick, short and powerful, and its feet are hooked. It is fast for its size over a short run and tireless over a long one. It smells of turned earth and something sour, and it makes a dry clattering as its plates move.
+
+## In the Land
+
+The earthcharger came up out of the ground in one of the northwestern basins of the [[place-tanvuregin|Tānvür Region]], in the hill country where the river valleys give way to the mountains, and it lives in the caves and old mine-galleries under those hills. From them it comes out into the terraced valleys below to feed, breaking into granaries, storehouses and walled farmsteads for the grain and the stock inside them, and going back underground. It holds a stretch of hill and valley a day's walk across, and it breaks down anything that is built across its paths. Intact dressed stone holds it out; nothing less does.
 
 ## Key Behaviors
 
-The Earthcharger is a solitary, hyperterritorial creature that claims a section of cavern or tunnel network as its exclusive domain. It dwells in deep passages where few predators challenge it, emerging periodically to hunt or expand its territory through violent assertion. The creature exhibits intelligent recognition of boundaries and threats; it remembers the locations of previous conflicts and will actively seek to eliminate rivals and threats. Despite its bulk, it is capable of long-duration pursuit when angered. It feeds infrequently—when it does hunt, it consumes large quantities. Between hunts, it remains dormant for extended periods, barely moving. It shows no sign of social behavior or family structure.
+The earthcharger is solitary and fiercely territorial. It claims its passages and its valley as its own and attacks anything that enters them, and it remembers where it has fought before and goes back to finish the fight. It eats grain, roots, stock and carrion in great quantity. When it wants into something, it charges until it is in. It is not clever, but it is persistent past any animal's patience, and it pursues for miles anything that has hurt it, so long as the chase leads away from its ground and not into it.
+
+## What the Empire Does
+
+The Tānthëi entered the earthcharger in the register as _Zāt Vōr Zhëk_ ("Sacred-Creation Life"), with its affinities, its observed capabilities, its range and its threat, and the district's [[lore-vushok|Vüshōk]] commander was given the task of removing it. He has not yet done so. The first company sent against it in open country was broken by its charge. The [[lore-venduk|Vëndük]] assigned to him has had to assess its classification before a petition would bite, and it would not wait for the assessment. The district now rebuilds its granaries in dressed stone, which the creature cannot break, at the cost of a year's revenue, and the [[lore-nokvur|Nōkvür]] who farm the valley keep their stock behind stone walls at night and leave their wooden storehouses empty. The commander has asked for fire-oil, which softens its plates, and for a second company. The provincial court has sent neither, because the soldiers are stretched thin by more dreadspawn than this one.
+
+## Signs
+
+- Wooden doors, palisades and storehouse walls broken in from outside, as if by a ram, with no other damage near them.
+- Broad, six-footed tracks with deep hooked prints, leading from a hillside cave-mouth to a farmstead and back.
+- Trenches plowed through terraced fields in straight lines, the terrace walls smashed where the line crosses them.
+- A dry clattering in the hills at night, and the smell of turned earth.
+- Stone walls with fresh scars and chips all along their base, and nothing behind them taken.
 
 ## Combat Strategy
 
-The Earthcharger employs a simple but devastating strategy: it charges. It builds momentum on its powerful legs and crashes into opposition with the force of a battering ram. Once engaged, it relies on its mandibles and the crushing weight of its body to break opponents. It does not employ tactics or positioning—it advances and crushes. If something threatens it seriously, it responds with mindless fury, attacking everything nearby. It will pursue fleeing prey if the prey is moving away from its lair; it will not pursue into confined spaces it cannot fit through or away from its claimed territory.
+The earthcharger charges. It lowers its armored head, builds speed and crashes into whatever is in front of it, a door, a shield wall or a man, and keeps going over it. Then it turns and uses its mandibles and its weight on whatever is still standing. It does not maneuver and does not retreat. When it is badly hurt it flies into a rage and attacks everything near it. It is slow to turn and can be outdistanced at a sustained run, but it does not give up, and a narrow gap in stone, too small for it, is safer than any amount of open ground.
 
 ## Attack Methods
 
-### Crushing Mandible Bite
+### Crushing Mandibles
 
-The creature's massive jaws open wide and snap shut with bone-shearing force, easily severing limbs or breaking ribs through armor. Targets caught in the bite are grievously wounded; if the creature successfully grapples, it can maintain the grip, slowly crushing the victim.
+The jaws open wide and shut with force enough to shear a limb or break ribs through armor. If it gets a good grip it holds on and crushes, slowly.
 
 ### Carapace Charge
 
-The Earthcharger lowers its armored head and charges, using its full weight and bulk as a weapon. The impact throws targets backward off their feet; the creature's momentum carries it forward, potentially trampling additional targets.
-
-### Trample Attack
-
-The creature uses its massive feet to crush opponents beneath it. After engaging with mandible attacks or charges, it can deliberately trample anything beneath its body.
+The beetle lowers its head and charges with its whole weight. The impact throws men off their feet and through doors, and its momentum carries it on over anyone it has knocked down.
 
 ## Special Abilities
 
+### Trample
+
+After a charge or in close fighting, the beetle walks over anyone under it, and its hooked feet and its weight crush and tear.
+
 ### Heavy Chitin
 
-The Earthcharger's natural armor is very tough. Cuts and thrusts against the carapace are largely deflected or absorbed; only well-placed strikes against the joints between plates land cleanly. Blunt force—heavy hammers, falling rock, siege weaponry—is more effective but still significantly resisted by the layered plates.
+Cuts and thrusts against its plates glance off or barely bite; only a well-placed strike into a joint between plates lands cleanly. Heavy hammers, falling rock and siege engines do more, and fire softens the plates and the joints between them.
 
 ### Territorial Aggression
 
-The creature's will is absolute within its claimed territory. All its attacks land harder when it fights within territory it recognizes as its own. It fights with increasing fury if its lair is threatened, becoming more aggressive and less rational.
+On its own ground it strikes harder and fights with growing fury, and an attack on its lair drives it close to frenzy.
 
 ### Hardened Mass
 
-The creature's combination of mass and chitin allows it to shoulder through wooden doors, weakened stonework, palisades, and most fortifications short of dressed-stone masonry. Against intact ashlar walls it is merely persistent rather than unstoppable, but against most lesser barriers it advances at a walking pace as if they were not there. Its weight also makes it extremely difficult to move against its will.
-
-## Additional Information
-
-Fire-based attacks are notably effective against the Earthcharger, as heat can damage and weaken its chitin, soften the joints between armor plates, and cause pain that affects its behavior. Explosive forces similarly exploit the joints between carapace segments. The Earthcharger is slow over open ground and can be outdistanced at a sustained run, but it is a tireless pursuer over distance and most parties cannot easily climb out of its path; evasion depends on finding terrain too narrow for it to pass through, vertical surfaces it cannot climb, or water deep enough to break its footing. Earthchargers leave distinctive territorial markings—gouged ground, scored walls, pheromone trails—that indicate their presence and boundaries.
+It shoulders through timber doors, palisades and poor stonework at a walking pace, as if they were not there. Dressed stone holds it, and against an intact stone wall it is persistent but not unstoppable. Its weight makes it nearly impossible to move against its will.
 
 ## Attributes
 

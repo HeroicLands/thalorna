@@ -402,8 +402,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Harpêros has served as a yeoman archer for most of his adult life. He has extensive experience in both hunting and military service, making him a valuable asset to the local militia. Harpêros prefers to stay out of the limelight, quietly doing his duty and teaching younger archers. His calm demeanor makes him a natural leader, though he rarely seeks the role.
 
-Now at 39 years of age, Harpêros Vârkrâtys has established himself as a known figure among the yeoman archers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

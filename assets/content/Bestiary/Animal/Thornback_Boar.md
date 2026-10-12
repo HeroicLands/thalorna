@@ -235,7 +235,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
-      weight: {base: 200, calc: "200"}
+      weight: {base: 1000, calc: "1000"}
       reachBase: 0
       bodyScaleBase: 1.33
       personalFatigue: "enc + 5"
@@ -254,59 +254,67 @@ sohl:
 
 ![[thrnbckb|Thornback Boar]]{float=top-left}
 
-The sound comes first: a furious snort that seems to explode from the undergrowth, followed by the savage crashing of something massive pushing through brush. The creature that emerges is pure, concentrated malevolence—a stocky form covered in coarse bristles, with jagged, bony spines protruding from its back like a warrior’s armor made of bone and fury. The tusks curve upward and forward, aged and stained dark, clearly used repeatedly to gore enemies into submission. The eyes are small, deep-set, and burning with an intensity that seems personal, as if this creature has decided you are a direct affront to its existence.
+The ride turns down into a hollow of oak and holly, and the ground there has been plowed: torn up in long furrows, the leaf litter flung aside, roots bitten through. At the far side of the hollow a boar lifts its head out of the furrow. It is black and bristled and as high at the shoulder as your horse's chest, with tusks curling up out of its jaw like two knives, and along its back from the nape to the rump runs a crest of jagged spines, each as long as your hand, that rises as it looks at you. It grunts once. Then it lowers its head and comes, and the hollow is very small.
 
 # Dossier {#dossier}
 
-The Thornback Boar is a wild, heavily built predator standing 4-5 feet at the shoulder and weighing 300-400 pounds, found in forests, scrublands, and rough terrain throughout temperate regions. These ferociously territorial creatures are dangerous to anything that ventures into claimed space, and the solitary males are the most aggressive of all. Adventurers encounter thornback boars while traveling forests, hunting game, or inadvertently entering territory claimed by the creatures.
+The Thornback Boar is a big, black, savage wild boar, four to five feet at the shoulder, with long upcurved tusks and a crest of bony spines down its back that it raises when it is angry. The sows and young live in herds; the old males live alone and defend their ground against anything that comes into it, horse, hound or man, with a charge that guts a horse. On [[place-aelwyth|Aelwyth]] it is the great beast of the royal forest above [[place-kingsholow|Kingshollow]] in the [[place-wyndmarch|Wyndmarch]], where the kings of Aldorath hunt it, and it is the reason the forest's poachers prefer deer.
 
 ## Presentation
 
-The Thornback Boar is a compact, muscular creature built for charging and goring rather than running or climbing. The body is covered in coarse, bristly hair ranging from dark brown to black, often matted and stained with mud, blood, and vegetation. The most distinctive feature is the row of jagged, bony spines running down the back from neck to tail—each spike 4-8 inches in length, sharp at the point, and plainly a defense against attacking predators. The head is massive and blocky, with small, deep-set eyes that burn with primal intensity, and a snout adapted for rooting in earth. The tusks are curved, thick, and often darkened with age and use, capable of perforating armor and inflicting terrible wounds. The legs are powerful and short, built for driving forward with all the creature’s weight.
+A thornback is built heavy in front and light behind, with a deep chest, a short thick neck, a long wedge-shaped head and short strong legs. Its hide is thick and its bristles are coarse, black or dark brown, caked with mud and often stiff with dried blood. The tusks of an old male curve up and back from the lower jaw, eight inches long and more, kept sharp against the upper tusks. The spines are its mark: a row of jagged, bony spikes, four to eight inches long, that runs down the spine from the nape to the root of the tail and lies flat when the boar is calm and stands up when it is roused. The eyes are small, dark and bad-tempered. It smells rank and musky, and an old male's smell hangs in a thicket long after it has left.
+
+## In the Land
+
+Thornbacks live in the oak, beech and holly forest of the Wyndmarch, the foothill woods that run from the approaches to the two passes down toward the [[place-hallowwood|Hallowwood]], and they are thickest in the royal forest above Kingshollow, where forest law has kept men from clearing, grazing and cutting for six centuries. They want mast, roots and wallows: acorns and beechnuts in autumn, roots and bulbs dug out of the forest floor the rest of the year, and mud to roll in. A sow herd ranges widely; an old male keeps a few square miles of thicket, water and rooting ground and stays in it. They push out into the forest-edge steadings in a bad mast year and dig up the tenants' fields overnight.
 
 ## Key Behaviors
 
-Thornback Boars are territorial and aggressively defensive of claimed ranges, which include sources of water, good rooting ground, and shelter. They are primarily solitary except during mating season, when males’ aggression peaks. They spend much of their time rooting through soil and undergrowth for food, leaving trails of disturbed earth and churned vegetation. Mothers defending young become nearly uncontrollable in aggression. The creatures are most active during dawn, dusk, and night, resting during midday heat. They are clever in defending territory and in learning, and a boar that has successfully driven off predators learns to recognize threats and reuse successful tactics.
+Thornbacks feed at dawn, dusk and through the night and lie up by day in deep thickets. They root constantly, plowing up the forest floor in long furrows, and they wallow and then rub against trees, leaving them caked with mud and bristle. The sows live in herds with their young and defend them together; a sow with piglets charges anything that comes near. The old males are solitary except in the autumn rut, when they fight each other with their tusks and are more dangerous than at any other season. A thornback that has been hunted and escaped learns the sound of horns and hounds, and waits in a thicket for them to come to it.
+
+## What the Aldorathi Do
+
+The thornback is the king's beast. The royal forest above Kingshollow is under forest law, and taking a thornback in it is reserved to the king and those he names; the forest courts punish a poacher caught with a boar's carcass far harder than one caught with a deer. When the court comes down to Kingshollow for the midwinter feast, the boar hunt is the great event of the season, run with boar-hounds, mounted huntsmen and men on foot with heavy spears, and the head of the first boar is carried into the hall. Hunting a thornback on foot with the boar-spear, which has a crossbar to keep the boar from running up the shaft, is the test a young man of the court is expected to pass. The tenants on the forest edge have their own grievance: they may not cut the timber or graze the forest, and they may not kill the boars that dig up their fields, and every year the forest courts hear the complaint and every year nothing changes.
+
+## Signs
+
+- The forest floor plowed up in long furrows, leaf litter flung aside and roots bitten through.
+- Tree trunks rubbed smooth and caked with dried mud and coarse black bristle at the height of a man's hip.
+- Deep, muddy wallows at the edge of springs and streams, with cloven tracks all round them.
+- Saplings and trunks with long gouges at knee height where a male has sharpened its tusks.
+- A field at the forest edge dug over in a night, the crop rooted up and trampled.
 
 ## Combat Strategy
 
-The thornback boar charges directly at threats with single-minded determination, attempting to gore with tusks and trample with all its weight. Once engaged, it continues attacking with complete commitment, ignoring injuries and pain. The boar uses the spines on its back as natural defense against attacks from behind or from above. A cornered boar fights to the death rather than retreating. Boars defending young or territory become absolutely unstoppable, fighting with suicidal determination.
+A thornback charges. It puts its head down and runs straight at the threat with its whole weight behind its tusks, hooks upward as it hits, and tries to rip open a belly or a thigh. If the man goes down it turns and comes back, tusking and trampling. It ignores wounds and keeps attacking, and a cornered or wounded boar does not stop until it is dead. The spines protect its back against blows from above and behind, and a man who tries to grapple it or come at it from behind is cut on them. It does not run from a single man. A boar that is not cornered and not defending its young may let a party pass, and a boar that has been hurt by hunters before may lie in wait for them.
 
 ## Attack Methods
 
 ### Goring Charge
 
-The thornback boar charges forward with all its weight concentrated behind its tusks, attempting to gore and disembowel opponents. The attack is devastatingly powerful and capable of launching even armored opponents backward.
+The boar runs at its target with its head low and drives the tusks up into the body as it hits. The charge knocks a man off his feet, and the tusks open long, deep wounds in the thigh and belly. A horse caught by the charge is often gutted.
 
 ### Trampling Stomp
 
-Once a target is knocked off balance, the boar may attempt to simply trample the victim under its weight, causing crushing injuries and hoof wounds.
-
-### Spine Damage
-
-Anyone attacking from behind or attempting to grapple the boar’s rear risks injury from the jagged spines, which can inflict lacerations and puncture wounds.
+Once a man is down, the boar runs over him, stamping with its sharp hooves and its whole weight. The stomp breaks ribs and limbs and cuts.
 
 ## Special Abilities
 
 ### Armor Spines
 
-The jagged spines along the boar’s back protect it against slashing blows and are a hazard to anything attempting to grapple or attack from behind.
+The spines along the boar's back turn blows aimed at its back and cut anyone who grapples it or strikes it from behind or above.
 
 ### Relentless Charge
 
-Once the boar commits to a charge, it is nearly unstoppable, continuing forward through most obstacles and continuing to attack even when severely injured.
+Once committed to a charge the boar does not turn aside, and it goes on through brush, shields and men, attacking even when badly wounded.
 
 ### Territorial Aggression
 
-Within claimed territory, the boar fights with enhanced aggression and strikes with greater accuracy, drawing confidence from dominance in familiar ground.
+On its own ground, the boar strikes harder and more surely, and it attacks intruders without provocation.
 
 ### Rage Frenzy
 
-As the boar becomes injured, it becomes progressively more aggressive and dangerous, not backing down or retreating regardless of its wounds.
-
-### Additional Information
-
-Thornback boars are most dangerous in forests and rough terrain where their charging capability is less restricted. In open ground, the boar’s advantage is somewhat reduced. Mothers defending young are nearly unbeatable and should be avoided entirely. A boar that has successfully fought off predators learns to recognize and be more aggressive toward future threats. The creature’s tusks and spines can be harvested after death for weapon-making or crafting. Boar hunting is a traditional activity in many cultures and carries significant cultural weight and danger.
+Wounds make it more dangerous. A hurt thornback fights faster and more savagely, and it does not retreat however badly it is hurt.
 
 ## Attributes
 

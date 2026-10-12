@@ -53,55 +53,69 @@ sohl:
 
 ![[agrnsntn|Aegiron Sentinel]]{float=top-left}
 
-The presence hits like a physical force: an eight-foot colossus of interlocking iron plates engraved with ancient runes that glow with faint, eerie light. The metallic frame gleams with cold precision, and every movement speaks of immense power held in careful check. The eyes are dark voids illuminated from within by shifting, otherworldly light that conveys watchful awareness and absolute purpose. There is no doubt whatsoever that you are facing something created for a singular purpose: to guard, to protect, and to destroy anything that threatens what it watches.
+The inner gate of the treasury court stands open, and in the middle of the gateway stands a figure of iron, eight feet tall, made of overlapping plates fitted as closely as the scales of a fish. Every plate is cut with characters, columns of them, and the cut lines glow a faint, steady gold. It does not move. Its face is a smooth iron mask with two dark holes for eyes, and as you come level with the gate's outer pillar, a light comes on deep inside the holes, and the head turns toward you with a sound like a bolt sliding home.
 
 # Dossier {#dossier}
 
-Aegiron Sentinels are ultimate guardians forged by arcane craft and might, standing 8 feet tall and composed of interlocking iron plates. These constructs are stationed to protect sacred sites, treasures, and important individuals. Adventurers encounter them only when approaching guarded locations or attempting to breach protected areas.
+The Aegiron Sentinel is a construct: an eight-foot figure of interlocking iron plates, as heavy as a laden cart, cut all over with binding characters, which a mage has worked into motion to stand guard over a door, a treasure or a person. It has no will. It does what it was ordered, in the words it was ordered, and it strikes with a crushing iron fist and with a beam of light from its eyes. The finest are the work of the [[lore-venduk|Vëndük]] artificers of [[affiliation-tanvurempr|Tānvür]], the sorcerer caste that forges the empire's enchanted arms, and they stand at the treasuries, tombs and inner gates of the great houses of the empire. A sentinel stops where its orders stop, and the first thing a party learns about one is where that line runs.
 
 ## Presentation
 
-The Aegiron Sentinel is towering, composed entirely of interlocking iron plates forming a humanoid shape. Ancient runes are cut across its frame, glowing faintly with magical power. The eyes are dark voids with shifting light within suggesting consciousness and awareness.
+The sentinel is a tall, heavy, man-shaped figure of iron plates, overlapped and interlocked so closely that no seam shows a gap. Every plate is cut with columns of characters, and the cuts glow a faint gold while the working holds. The head is a smooth iron mask with two dark eye-holes, and when it acts, a light kindles in them. It moves slowly and deliberately, with a sound of iron sliding on iron, and it does not breathe, speak or tire. Close to, it smells of oil and cold metal. Standing at its post, it is a statue, and it can stand there for a hundred years.
+
+## In the Land
+
+In Tānvür every terrace has a lineage, every lineage has a page, and every page has a seal, and the empire's treasuries and records are guarded with the same care as its borders. The Vëndük, who belong in law to the houses they serve, make the sentinels for those houses: a pair at the inner gate of a Warlord's treasury, one at the door of a ministry's archive, four round the tomb of a [[lore-zheklung|Zhëklüng]] lord. Each stands where it was set and does not leave. A sentinel's orders are written into it by its maker as exactly as a clerk writes a register, and they say whom it admits, by seal or word or face, and whom it stops.
 
 ## Key Behaviors
 
-Aegiron Sentinels follow their instructions absolutely, neither tiring nor deviating from their duty. They are relentless and unflinching in defense of their assigned post or charge.
+A sentinel carries out its orders absolutely, without tiring and without deviation. It stands at its post until something crosses its line without the seal or the word it was given, and then it stops the intruder, by force, and returns to its post. It does not pursue past the edge of its charge, because its orders end there. It cannot be bribed, frightened, persuaded or tricked into talking, because there is nothing in it to reason with. It draws on the ambient magic of its surroundings to repair itself, slowly, and a sentinel that has stood for centuries has been mended many times.
+
+## What the Great Houses Do
+
+A great house that owns a sentinel owns a Vëndük to keep it, and the keeping is a duty: the artificer renews the binding characters, oils the joints against rust, and once a generation rewrites its orders when the house's seals change. A house that has lost its Vëndük, through disgrace or debt, finds its sentinel obeying orders nobody living remembers, and some old gates in the empire are guarded by sentinels whose house has been extinct for a century, admitting no one, while the [[lore-tanthei|Tānthëi]] dispute in their registers who owns what lies behind them. Thieves in Tānvür do not try the treasuries. Those who try the tombs choose a stormy night, because lightning disrupts the working.
+
+## Signs
+
+- An iron figure standing at a gate or a door with characters cut over every plate, glowing faintly gold.
+- Scorched lines burned across a floor or a wall at eye height, as if by a narrow beam of fire.
+- A threshold or a line of inlaid stone across a courtyard that no servant of the house steps over.
+- A faint smell of oil and cold iron in a still corridor.
+- A sound like a bolt sliding home when someone approaches a door.
 
 ## Combat Strategy
 
-The sentinel attacks with devastating strength, crushing opponents through overwhelming force and magical attacks.
-
-## Attack Methods
-
-### Crushing Blow
-
-The sentinel's strike uses immense strength to crush targets.
-
-### Light Beam
-
-The sentinel projects destructive light from its eyes.
+A sentinel walks at an intruder and strikes. It does not dodge or feint, because it does not need to: blades skate off its plates. It strikes with its fists at anyone close and burns anyone keeping their distance with the light from its eyes, and it does not stop until the intruder is dead, gone back across its line, or it is destroyed. It is slow, and a party that keeps out of its reach and out of its line of sight can outmaneuver it. Lightning disrupts its working and makes it falter, rust weakens it, and the binding characters on its plates hold everything together.
 
 ## Special Abilities
 
+### Crushing Blow
+
+The sentinel swings an iron fist with immense strength. The blow crushes shields, breaks bones through armor and drives a man to the ground.
+
+### Light Beam
+
+A narrow beam of white-gold fire shoots from its eyes and burns a line across whatever it touches, through cloth and leather and skin.
+
 ### Iron Durability
 
-Nearly immune to cuts and thrusts.
+Its plates turn cuts and thrusts almost entirely. Only crushing weight, lightning or the breaking of its characters does it real harm.
 
 ### Magical Regeneration
 
-Absorbs ambient magical energy to repair itself.
+It draws ambient magic to repair itself, slowly closing dents and refitting loosened plates.
 
 ### Arcane Attacks
 
-Projects destructive light beams from its eyes.
+The light in its eyes is the working itself, turned outward; it can burn at a distance as far as it can see.
 
-### Additional Information
+### Lightning and Rust
 
-Lightning disrupts the workings within the sentinel, and it falters. Rust weakens its frame. The sentinel cannot be reasoned with or bribed.
+Lightning disrupts the working inside it and makes it falter for a time, and rust weakens its frame and slows its joints.
 
 ## Attributes
 
-- **Strength:** 28-33 (1d6+27)
+- **Strength:** 32-37 (1d6+31)
 
 - **Agility:** 4-7 (1d4+3)
 

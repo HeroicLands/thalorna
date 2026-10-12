@@ -236,59 +236,75 @@ sohl:
 
 ![[fireflit|Fireflit]]{float=top-left}
 
-A spark catches your eye, bright as a meteor. What you see is smaller than your hand—a creature of pure flame shaped vaguely like a dragonfly or fairy, with wings that beat so fast they blur into solid patterns of light. It zips through the air with startling speed, leaving a trail of sparks and heat in its wake. The sound of it is like a crackling fire and a high-pitched keening combined. If it lingers, you can feel the heat on your skin; it seems to generate warmth entirely out of proportion to its size.
+The temple clerk feeds the last of the petitions into the brazier, sheet by sheet, and the paper curls and goes up in a column of sparks. One of the sparks does not go out. It hangs over the brazier, the size of a sparrow, a little lizard of flame with wings that beat so fast they are only a blur of light, and two bright points for eyes. It turns in the air and looks at you. Then it darts across the courtyard, so fast your eyes cannot follow it, and stops an inch from your face, and you feel its heat on your eyelashes, and smell your hair begin to singe, and it is gone again into the brazier with what you could swear was a laugh.
 
 # Dossier {#dossier}
 
-Fireflits are small fire elementals, quick and clever, often acting as scouts, messengers, or servants for larger entities. They are not mindless—they play tricks, they remember faces, and they show preference for certain individuals. Some Fireflits are bound into service; others are wild and roam as they wish. A single Fireflit is rarely a serious threat but can be extraordinarily annoying. A swarm of them is dangerous. They are attracted to excitement, chaos, and sources of flame, and they seem to take delight in mischief and small acts of destruction.
+The Fireflit is a small fire elemental: a spirit of the fire-aspect that manifests as a winged lizard of flame no bigger than a sparrow, quick, clever, mischievous, and harmless alone. Fireflits are drawn to flames, to bright things and to places where fire is used with ceremony, and they serve larger fire spirits and some mages as scouts and messengers. In a swarm they are dangerous. They are commonest round the temples of [[place-tanvuregin|Tānvür]], where the burning of written petitions is the ordinary way of sending a request to heaven, and the Tānvüri have their own understanding of what the fireflits are doing there. Like every elemental, a fireflit can be put out, and it comes back.
 
 ## Presentation
 
-A Fireflit is roughly the size of a hand or a large bird, composed entirely of living fire. Its body is a slender, vaguely reptilian shape with wings like crystalline flame that beat hundreds of times per second. Its eyes are bright points of intense heat, and its movements are liquid and impossibly fast. The creature produces a constant soft crackling sound and leaves briefly-lasting trails of sparks as it moves. In darkness, its glow is blindingly bright; in bright light, it is still vivid and distinct.
+A fireflit is a slender lizard-shape of flame, about the length of a hand, with wings like flickering sheets of fire that beat hundreds of times a breath and blur into a hum. Its eyes are bright points of white. It glows orange to yellow to near white as it moves, and it sheds a trail of sparks. It moves faster than the eye can follow, darting and stopping and darting again. It makes a faint crackling hum, and when it is pleased, a sound like a laugh made of sparks. Up close, it is hot enough to singe hair and blister skin.
+
+## In the Land
+
+Fireflits gather wherever fire is plentiful and handled with care or with ceremony: round forges, kilns and great hearths, round volcanic vents and burning ground, and round places where the spirit realm lies close. In Tānvür they cluster round the temples, where braziers burn petitions day and night, and round the compounds of the [[lore-venduk|Vëndük]], whose artificers work the elemental energies into the empire's enchanted arms. They live in the fires themselves, moving from one to another through any fire that joins them, and they leave when a fire dies. A large fire draws them from a distance.
 
 ## Key Behaviors
 
-Fireflits are curious and playful, attracted to shiny objects, bright lights, and sources of flame. They are mischievous and enjoy causing small pranks and minor chaos. They show surprising intelligence and awareness of their environment. They are highly social with others of their kind and often travel in small groups or pairs. When bound to service, they take their duties seriously but never lose their playful streak. A Fireflit can merge with larger flames and will do so to hide, rest, or escape danger.
+Fireflits are curious and playful. They are drawn to shiny objects, bright lights and fires of every kind, and they play tricks: they singe a sleeve, steal a spark from a lamp and carry it into a hayloft, dart through a candle-flame and make it gutter. They remember faces and take to particular people, following them about, and take against others. They talk with each other and with larger fire spirits in ways no one can follow. A single fireflit rarely does real harm. A swarm, roused, is something else: dozens of them darting in and out, burning, setting everything alight. When one is put out, it goes up in a puff of smoke, and comes back, usually within hours, usually to the same fire.
+
+## What the Tānvüri Do
+
+The [[affiliation-tngvkvnlei|Celestial Order]] holds that burning a petition transmits it to the celestial bureaus, a category of fire, ritual-fire, kept by the Lord of Fire, [[affiliation-vorjikjek|Vōrjīk Jëk]], in close and quarrelsome coordination with the Bureau of Transformation. Many temple clerks hold that fireflits are the lowest clerk-spirits of that service, carrying the burned petitions up, and they treat a fireflit hovering over a brazier with the respect owed to a courier: they do not swat it, they do not put out its fire, and they finish their burning before they speak. The [[lore-tanthei|Tānthëi]] who keep the formal theology have never confirmed the belief and never forbidden it. Temple wardens keep water-jars by every brazier all the same, and a swarm that has got into a temple's archive is put out by the jarful, the clerks apologizing to it as they pour. Vëndük artificers summon fireflits as scouts and errand-runners, and pay them in charcoal.
+
+## Signs
+
+- A spark that hangs in the air over a fire and does not go out.
+- Small burns and singed spots on cloth, paper and hair, as if from a hundred tiny touches.
+- Candles and lamps that gutter all at once in a still room, then flare.
+- Small fires started in strange places, a hayloft, a bookshelf, a purse, with no one near.
+- A crackling hum and a sound like laughter at the edge of a fire at night.
 
 ## Combat Strategy
 
-Fireflits rarely engage in serious combat against larger foes. Instead, they harass with speed and evasion, using their incredible mobility to strike and withdraw faster than attacks can follow. They work together in groups, attacking from multiple angles and overwhelming opponents through coordinated strikes. Against single opponents with water or ice abilities, they become cautious and may flee. In areas full of potential fuel (dry grass, wooden buildings, etc.), they become more aggressive, using the environment to create additional hazards and escape routes.
+A fireflit avoids a real fight. It harasses, darting in to burn and out again before anyone can strike, and it uses its speed to stay out of reach. Fireflits fight together when they fight at all, attacking a man from every side at once, setting his clothes and hair alight, and using fires round them as cover and as roads. They retreat into any large fire when they are threatened. Water puts one out at once, and a bucket of water thrown into a swarm puts out many.
 
 ## Attack Methods
 
-### Fire Breath
-
-The Fireflit exhales a small but extremely hot cone of flame. The attack can ignite flammable materials and cause painful burns on exposed skin. Multiple Fireflits using this simultaneously create a significant hazard.
-
 ### Scorching Touch
 
-The Fireflit darts in and makes contact with exposed skin or materials, transferring its heat through direct contact. The burn is localized but intense, and flammable materials can ignite from a single touch.
+The fireflit darts in and touches bare skin or cloth. The burn is small and very hot, and cloth, paper or hair catches fire from it.
 
-### Fiery Wing Strike
+### Fire Breath
 
-The Fireflit's wings, when moved at full speed, create sharp edges of flame that can cut and burn. These strikes are less damaging than the breath or touch but rapid and difficult to defend against.
+The fireflit breathes a tiny, very hot jet of flame that burns skin and sets alight anything that will burn. Many breathing together are a real danger.
 
 ## Special Abilities
 
+### Fiery Wing Strike
+
+At full speed its wings cut like edges of flame, small slashing burns, quick and hard to defend against.
+
 ### Preternatural Speed
 
-The Fireflit moves at speeds that make it difficult to track. It can change direction instantly and position itself for attacks while opponents are still following its last movement. No normal physical attack can follow its movements.
+It changes direction in an instant, and no ordinary blow can follow it.
 
 ### Merge with Flames
 
-The Fireflit can merge with any fire larger than itself, becoming invisible and protected within the flames. It can move through connected fires instantly, using them as highways and hiding places. Extinguishing the fire forces it out.
+It slips into any fire larger than itself and is hidden and protected there, and it passes instantly through any fires that touch each other. Putting out the fire drives it out.
 
 ### Heat Aura
 
-The Fireflit generates intense localized heat. Areas it occupies grow warm, and flammable materials near it may ignite spontaneously if it remains too long. The heat is not uniform but concentrated around its body.
+The air round it is hot, and anything that will burn near it may catch fire if it stays.
 
 ### Fire Empathy
 
-The Fireflit can sense and communicate with other fire-based creatures and with living flames. It can encourage fires to spread and seems to negotiate with larger fire elementals on equal terms.
+It senses and speaks with other fire spirits and with flames themselves. It can coax a fire to spread, and it deals with larger fire spirits as an equal.
 
-## Additional Information
+### Water Weakness
 
-Water and ice are the Fireflit's primary weaknesses. A single bucket of water or a well-aimed ice spell can extinguish a Fireflit instantly. They are also vulnerable in non-flammable environments with no larger fires to merge with. Fireflits can be negotiated with or even befriended if approached respectfully, especially if offered sources of flame or shiny objects. Some organizations keep bound Fireflits as messengers or scouts. A wild Fireflit treated as an equal rather than a threat may choose to help rather than hinder. A Fireflit extinguished is simply gone; they do not reform. This makes them the only fire elementals that have a final, permanent death.
+A splash of water or a touch of ice puts it out at once.
 
 ## Attributes
 
@@ -307,3 +323,5 @@ Water and ice are the Fireflit's primary weaknesses. A single bucket of water or
 - **Reasoning:** 7-12 (1d6+6)
 
 - **Creativity:** 11-16 (1d6+10)
+
+- **Strength:** 1-4 (1d4)

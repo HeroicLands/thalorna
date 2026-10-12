@@ -401,8 +401,6 @@ Bánrik Cáriselda is a bodyguard of Solárden, in [[place-tarvenirgn|Tarvénia]
 
 Bánrik grew up without a father in the lanes below Solárden's walls, and learned there what he still trades on: how to read a room, which men to watch, and when a door is about to open. He is not strong, and in a town that breeds sellswords that ought to have kept him out of the trade. He keeps his clients safe by seeing trouble before it arrives—a hired knife in a crowd, a contract with a bad clause, a host who has seated the wrong men together—and by talking his way through what he cannot fight.
 
-He is a known figure among the bodyguards of Tarvénia.
-
 ## Psyche
 
 ### Personality

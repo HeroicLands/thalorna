@@ -3,7 +3,7 @@ shortcode: spndlfnd
 name: {full: Spindlefiend, aliases: []}
 type: being
 subType: creature
-description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
+description: "A made arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -186,59 +186,71 @@ sohl:
 
 ![[spndlfnd|Spindlefiend]]{float=top-left}
 
-You notice it too late—a shadow that moves wrong, at an angle that contradicts the light. Then you see the limb, impossibly long and spider-thin, as it withdraws from where it has been resting against the stone. The creature itself is almost invisible, its body a gossamer outline wreathed in thread-like filaments that catch no light and leave no shadow. Eight eyes snap into focus—each one a glowing coal of malevolent intelligence—and you see the mouth open, revealing fangs dripping with venom that glows faintly in the darkness. The air around it seems to vibrate with the tension of invisible webs, and you realize with creeping horror that you cannot move your foot—you have stepped directly into the creature’s domain, and it was waiting.
+The tomb door was sealed with a block, and the block has been moved, a long time ago. Inside, the chamber is low and empty and smells of dust. Your lamp shows nothing: no web, no bones, only the bare walls and a second doorway at the back. You take two steps toward it and something touches your cheek, fine as a hair, and does not break. Then your sleeve is held, and your ankle, by nothing you can see. You turn the lamp, and in its light the whole chamber is suddenly full of threads, thin and dark, from floor to roof in every direction, and in the far doorway something long and gray is unfolding, leg after jointed leg, each longer than you are tall.
 
 # Dossier {#dossier}
 
-Spindlefiends are creatures of intelligent malice born from the corruption of oversized arachnids by forces of shadow and cunning. They are ambush predators of supernatural ability, creating webs so fine and nearly invisible that entire chambers can be made into deathtraps without visible evidence of their presence. Unlike Shadowspinners, which dominate through sheer web-building mastery, Spindlefiends hunt through deception and tactical brilliance—they are far more intelligent, far more creative, and far more cruel. A Spindlefiend views its hunting ground as a canvas and its prey as pieces in an elaborate game designed to cause maximum suffering before the kill. They are found in dark urban ruins, deep caves, and abandoned structures where human architecture provides the complexity they prefer.
+The Spindlefiend is a dreadspawn in the shape of a narrow, long-legged spider, five to seven feet high on legs eight to twelve feet long, which fills rooms with webs so fine and dark they cannot be seen, and kills what walks into them. It is cunning beyond any animal, patient, and inventive; it spends years perfecting its ground. One has made its home in the [[place-firsttablets|Ground of the First Tablets]], the burial-ground of the first kings of [[place-zugernome|Zu-Ger]] on the upper river of Aû'Khelâthu, where the low tombs stand on the desert edge above the fields. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Spindlefiend stands roughly 5 to 7 feet in height, but its most distinctive feature is the incredible length of its limbs—each leg extends 8 to 12 feet when fully articulated, allowing the creature to span vast distances with single movements. Its body is narrow and light, covered in a chitinous exoskeleton of deep gray or midnight black, often wreathed in strands of nearly invisible silk that cling to and trail from its form. Its head bears eight eyes arranged in a nearly human configuration, each one a glowing coal of amber or sickly green. Its mouth is a nightmare of biology—mandibles that can open nearly at right angles, and fangs that secrete a luminescent venom that glows faintly even in complete darkness. Its limbs terminate in what could charitably be called claws, but are in reality pointed, articulated hooks designed solely for gripping, piercing, and tearing. The creature makes almost no sound when it moves—if anything, silence follows in its wake.
+The spindlefiend's body is narrow and light, plated in deep gray or mottled brown chitin, small for the length of its legs, which are long, thin and many-jointed and fold up beside it like the ribs of a closed umbrella. Its head carries a cluster of small dark eyes and a pair of short, curved fangs. The legs end in sharp, hard points and their joints are edged, and it fights with them like blades. It moves slowly and precisely when it is building and very fast when it is hunting, stepping across gaps and along walls and ceilings with each leg placed exactly. It makes no sound at all.
+
+## In the Land
+
+The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmuîri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
 
 ## Key Behaviors
 
-Spindlefiends are solitary, brilliantly cunning hunters that establish territories in complex three-dimensional spaces—places with multiple levels, alcoves, and corners where web-spinning can create mazes. A single Spindlefiend may spend months or years perfecting a hunting ground, creating layers of webs that would require a team of dedicated workers weeks to fully map. The creature is primarily nocturnal but will hunt during the day if prey is available. It is patient beyond measure, often simply hanging motionless in one location for days at a time, waiting for a potential victim to blunder into its territory. An ancient Spindlefiend may have refined its hunting ground into something approaching an art form, with redundant traps, multiple kill-zones, and escape routes designed to herd prey deeper into the maze rather than allowing escape.
+The spindlefiend builds. It lays its webs in layers through a chamber, slowly, over months, each strand placed for a reason: to catch, to trip, to pull, to sound an alarm, to steer a victim toward the place it wants him. A finished chamber looks empty. It waits in the dark at the edge of its web and feels the strands. When something walks in and is caught, it comes, bites to paralyze, and binds. It learns from every intruder and changes its webs to suit the next. It is solitary and it never leaves its ground.
+
+## What the Temple and the Farmers Do
+
+The farmers of Zu-Ger plow round the marker stones below the burial-ground and keep their rules about them, and they do not go up onto the shelf at all. The temple of Hezmuîri's guards walk the rows by day and do not go into the opened tombs. When a guard must enter one, he goes with a smoking torch, sweeping it ahead of him through the air, because smoke and powder show the threads, and fire burns them. Tomb-robbers from the river towns come up every few years, because a rumor of gold in the oldest tombs never dies, and the guards find what is left of them in a chamber that looks empty, bound in silk and dry. The temple has not removed the creature, and a priest of Hezmuîri, asked why, says that the dead of the First House have guardians enough, and leaves the visitor to count them.
+
+## Signs
+
+- A tomb chamber that looks completely empty and has no dust on its floor.
+- A strand that touches the face like a hair and does not break, in a room with no visible web.
+- Jackal and owl skeletons hanging in midair in a chamber, held by nothing a lamp can show.
+- A bundle wrapped tight in fine gray silk lying in a doorway, the size of a man.
+- Smoke from a torch that flows round invisible lines and shows them, gray and crisscrossed, filling a room.
 
 ## Combat Strategy
 
-A Spindlefiend’s primary goal is to force or trick opponents into its webbed territory, where it maintains absolute advantage. It will use its incredible agility to stay out of reach, clinging to walls and ceilings to attack from unexpected angles. It relies on speed and precision strikes rather than direct confrontation, and if a victim proves too dangerous to subdue through web and quick strikes, the creature will simply retreat deeper into its territory, content to wait until the victim becomes tired, injured, or confused. Only if directly threatened in its inner sanctum or protecting young will a Spindlefiend engage in direct combat for an extended duration.
+The spindlefiend tries to get its enemies into its web, where it has every advantage, and then keeps out of reach on the walls and ceiling, striking from angles no one expects. It bites to paralyze those already caught, slashes with its bladed legs round shields and over armor, and pulls the threads to bind and trip. It does not stand and fight in the open. Fire, smoke, powder and strong light are what defeat it: they reveal and destroy the web, and without it the spindlefiend is far less dangerous and knows it.
 
 ## Attack Methods
 
 ### Paralyzing Bite
 
-The creature strikes with terrifying speed, its fangs driving deep into exposed flesh and injecting venom that begins its work almost immediately. Victims are paralyzed by degrees, beginning at the bite wound and spreading outward, eventually immobilizing the entire body.
+The spindlefiend strikes very fast, drives its fangs into exposed flesh, and the venom goes in. The paralysis starts at the bite and spreads until the whole body is still.
 
 ### Razor Limb Slash
 
-The Spindlefiend’s elongated limbs are drawn into close proximity and used like swords, their pointed ends and articulated joints capable of slashing and piercing with precision. The creature can attack from seemingly impossible angles, striking around shields and armor.
-
-### Web Entanglement
-
-Rather than merely trapping prey with web, the Spindlefiend actively manipulates web strands, tightening them around limbs, constricting the throat, or turning the ground itself into a snare.
+It folds its long legs in close and strikes with them like swords, their points and edged joints slashing and piercing from impossible angles, round a shield or over a guard.
 
 ## Special Abilities
 
+### Web Entanglement
+
+It works its web as a weapon, tightening strands round a man's limbs and throat and turning the floor itself into a snare.
+
 ### Nearly Invisible Silk
 
-The Spindlefiend’s webs are composed of strands so fine and dark that they are nearly impossible to perceive without strong light or magical sight. Areas filled with these webs appear empty to the untrained eye, making navigation a nightmare.
+Its silk is so fine and dark that a webbed chamber looks empty. Strong light, smoke or a handful of powder thrown into the air reveals it.
 
 ### Impossible Agility
 
-The Spindlefiend’s body is so perfectly adapted for three-dimensional movement that it moves on walls, ceilings, and across the span of wide gaps with the same ease a human walks on flat ground. It moves much faster in cluttered, many-angled spaces.
+It walks on walls and ceilings and steps across wide gaps as easily as a man walks a floor, and it is fastest in cluttered, many-angled places.
 
 ### Predatory Genius
 
-The creature’s creative and reasoning abilities exceed those of nearly all living creatures. It designs its territory, anticipates prey behavior, and sets traps with malicious cleverness. It learns from encounters and adjusts its tactics accordingly.
+It designs its ground, anticipates its prey, sets traps within traps, and learns from every encounter.
 
 ### Venom Mastery
 
-The Spindlefiend’s venom is potent, fast-acting, and complex in its effects. Different toxins seem designed for different purposes—some paralyze quickly, others cause extraordinary pain, still others drain life force directly.
-
-## Additional Information
-
-Fire remains the Spindlefiend’s primary weakness, destroying its webs and damaging its body. Acid is equally effective. The creature’s nearly invisible webs can be revealed through powder, smoke, or magical light. In completely open, featureless terrain, a Spindlefiend loses much of its advantage and becomes a comparatively normal opponent. The creature’s web, if harvested carefully, is extraordinarily valuable—its ability to remain invisible makes it priceless to assassins, thieves, and warriors alike. The venom itself can be extracted, though doing so is extraordinarily dangerous. Some desperate communities have managed to contain Spindlefiends by destroying the geometry of their territory—collapsing structures, opening ceilings to the sky, or otherwise simplifying the environment until the creature’s advantage is negated.
+It has more than one venom. Some bites paralyze quickly, some cause terrible pain, and some leave the victim drained and weak for days.
 
 ## Attributes
 

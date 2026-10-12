@@ -128,59 +128,75 @@ sohl:
 
 ![[vprwsp|Vaporwisp]]{float=top-left}
 
-The fog thickens before your eyes, and within it, something moves—or perhaps the mist itself becomes aware. What you see is barely there: a vague shape, a suggestion of form, lit from within with a pale glow. The temperature drops sharply, and your breath mists in the air. When you look directly at the shape, it seems to blur and shift, refusing to resolve into anything concrete. The only certainty is that you are being observed by something that is not quite present.
+The fog came in off the sea at dusk and has filled the lane between the stone walls so thickly that you can see only the wall beside your hand. Ahead, where the lane meets the old standing stone, the fog is thicker still, and it is the wrong shape: taller than a man, roughly a man, with two faint pale lights where eyes would be. It does not walk toward you. It thins where it is and thickens where you are, and the cold comes first, a cold that is not the fog's, deeper than the sea's, that goes in through your coat and your skin and settles somewhere behind your ribs.
 
 # Dossier {#dossier}
 
-Vaporwisps are creatures of the boundary—beings that exist equally in the material and spirit realms and are at home in neither. They are drawn to places of transition: fog banks, mist-shrouded valleys, the boundaries between forests and clearings, the moments between day and night. Some seem to be lost spirits, unable to fully cross into the next realm. Others are fragments of something larger, pieces of greater entities that have been separated by magic or violence. Most Vaporwisps are not malevolent, but their hunger for substance and their phasing nature make them dangerous regardless. They are curious and often approach humans, seeking something they cannot quite articulate.
+The Vaporwisp is a spirit of the boundary, at home in neither the material world nor the spirit realm: a shape of mist and fog, roughly man-sized, with two pale lights for eyes, that comes where one thing turns into another, fog banks, dusk and dawn, the edges of woods, the thresholds of graves. It drains warmth and life by its touch and can smother a man with its mist. It is met on the fog-bound western coast of [[place-galvaren|Galváren]], where the coast is littered with stone circles, standing stones and passage graves older than the Tarvéni, and where the folk keep a body of belief about the places where the mortal world thins.
 
 ## Presentation
 
-A Vaporwisp is a shape without clear definition, a roughly humanoid form composed of mist and fog held together by some force that humans do not understand. It is roughly five to seven feet tall when fully manifested, but its exact size and boundaries are constantly shifting. Its body is semi-transparent, and light passes through it in strange ways. The only clear features are eyes—two points of pale luminescence within the mist, intelligent and aware. The creature has no mouth, no nose, no features other than those eyes, yet somehow it seems to express intention and emotion. Where it passes, fog deepens and the temperature drops precipitously. It makes no sound unless it deliberately moves matter—the air does not part before it, footsteps do not mark its passage.
+A vaporwisp is a shape without clear edges, a roughly human form of mist five to seven feet tall, held together by something no one understands. Its size and outline shift with the fog round it, and in a thick fog it is the fog. Its only steady feature is its eyes, two faint pale lights. It makes no sound, except sometimes a sound like breath let out slowly. The air round it is bitterly cold, a deep cold that seems to go into the spirit as well as the flesh, and it leaves a rime of frost on stone where it has passed.
+
+## In the Land
+
+Galváren is a country of rain, fog, deep forests and rocky shores facing the open ocean, and its fishing fleets are the largest in western Ankaris. The vaporwisps come with the sea-fog, at dusk and dawn and through foggy nights, and they haunt the thresholds of the coast: the passage graves and the stone circles, the edges of the woods where they meet the fields, the fords, and the harbor mouths of the fishing towns where the fog lies thickest. They are drawn to water, mist and cold and to places touched by recent death. When the fog lifts they go with it, and sunlight drives them into the stones.
 
 ## Key Behaviors
 
-Vaporwisps are most active during times when the boundary between realms is thin—at dawn and dusk, in heavy fog, during storms, or in places touched by recent death or magic. They are drawn to water, mist, and cold places, and seem to avoid sunlight and heat. They are curious but cautious, often observing humans for days before approaching. When they interact, their intentions are sometimes protective and sometimes harmful, and they seem unable to understand that their cold touch causes pain. They do not hunt; they seem to simply drift and observe. However, if threatened or trapped, they become desperate and dangerous.
+A vaporwisp drifts where the boundary is thin and comes on whatever living thing is in it. It does not hunt in any ordinary sense; it seems drawn to warmth and life, and it takes them by touch, leaving its victim cold, weak and slow to recover, sometimes dead of the cold in a mild night. It surrounds a man's head with its mist when it wants him dead, and he chokes. It passes through walls and stones and comes out of them. It avoids fights and slips away into fog or stone if threatened.
+
+## What the Galváreni Do
+
+The Galváreni take their ghost stories more seriously than anyone else in Tarvénia, and the vaporwisp is the reason some of their customs exist. A fisherman's family lights a lamp in the window on a foggy night and keeps it burning till the boats are home, because the wisps shun a steady light. Nobody walks between the standing stones in a fog. A man found at dawn on the shore, cold and weak, is put by the fire and made to talk, and kept awake till noon, because a man the wisp has touched who sleeps cold sometimes does not wake. The fishing crews carry a smith's hammer in the boat, because iron struck hard breaks up a wisp's shape, and the [[affiliation-arldnpnthn|Aurèldían]] priests who tolerate the old stories with varying patience bless the harbor stones at the turn of the year all the same.
+
+## Signs
+
+- A fog that is thicker and colder in one place, round a standing stone or a grave, than anywhere else.
+- Frost on stones on a mild night, in a line, as if something cold had walked there.
+- Two pale lights in the fog at the height of a man's eyes, which go out when looked at.
+- Livestock found at dawn standing with their heads down, shivering, in the middle of a field.
+- Lamps lit in every window of a fishing village on a foggy night.
 
 ## Combat Strategy
 
-Vaporwisps attempt to avoid direct confrontation when possible. If cornered or threatened, they use their phasing ability to position themselves for attacks and then attempt to escape. In combat, they focus on cold attacks and mist manipulation to create confusion and reduce visibility. They are intelligent enough to recognize when an opponent has a weapon effective against them and will focus on escape rather than fighting to the death. Against multiple opponents, they will disengage immediately.
+A vaporwisp avoids a straight fight. It comes out of a wall or a stone to touch and drain, and slips back through. It surrounds its target's head with mist to smother him, and it wraps a group in fog so thick they cannot see each other. It withdraws when it is hurt. Blunt blows, a hammer or a mace, break up its shape, fire and explosions scatter it, and blessed ground and warded doors keep it out.
 
 ## Attack Methods
 
 ### Cold Touch
 
-The Vaporwisp extends mist that solidifies enough to touch, and the contact is a deep cold that seems to penetrate beyond flesh into the spirit itself. Victims struck by this attack feel their strength and will diminishing, as though the creature is drawing warmth not just from their body but from their core essence.
-
-### Mist Suffocation
-
-The Vaporwisp surrounds an opponent's head with dense mist, filling their lungs and preventing normal breathing. The mist is not water but something closer to smoke, and victims who breathe it find themselves slowly asphyxiating as their body cannot extract oxygen from the ethereal substance.
-
-### Surprise Ambush
-
-Using its phasing ability, the Vaporwisp emerges from solid matter to strike a surprise attack, and then phases back through obstacles to escape retaliation.
+Mist solidifies enough to touch, and the touch is a cold that goes past the flesh into the spirit. The victim feels his strength and his will drain, as if the creature were taking his warmth.
 
 ## Special Abilities
 
+### Mist Suffocation
+
+The wisp wraps its mist round a man's head and fills his mouth and lungs. The mist is more like smoke than water, and he slowly chokes.
+
+### Surprise Ambush
+
+It comes out of solid stone or a wall to strike without warning, and goes back through to escape.
+
 ### Fog Form
 
-The Vaporwisp can shift into a nearly pure fog form, becoming almost invisible except for its glowing eyes. In this form, it can move through mist and fog as if they were open space, and it is nearly immune to physical weapon strikes. The transformation takes a moment and the creature must have mist or fog present to complete it.
+It becomes nearly pure fog, invisible but for its eyes, moves through mist as if through open air, and is almost immune to weapons in that form.
 
 ### Phase Shift
 
-The Vaporwisp can move partially out of synchronization with the material world, allowing it to pass through solid objects. Stone, wood, metal—all are transparent to the phasing creature. However, it cannot move through blessed ground or areas sealed by religious wards.
+It passes through stone, wood and metal. Blessed ground and warded thresholds stop it.
 
 ### Chilling Aura
 
-The creature radiates a deep cold that extends up to thirty feet in all directions. The ambient temperature drops noticeably, and prolonged exposure causes discomfort and fatigue. The harm is not immediate; it accumulates the longer the cold is endured.
+Within thirty feet the air is cold enough to tire and weaken those who stay, and the harm builds the longer they stay.
 
 ### Life Drain
 
-When the Vaporwisp makes successful contact with living flesh, it draws warmth and vitality from the victim. This goes beyond mere cold—the victim feels as though something fundamental is being pulled away, leaving them weakened and diminished.
+Its touch draws warmth and life from the living, leaving them weak and diminished.
 
-## Additional Information
+### Blunt Force and Fire
 
-Vaporwisps are highly vulnerable to blunt weapons, explosions, and fire. The concussive force of a hammer or mace disrupts their semi-corporeal form, making them more vulnerable to damage. Explosions have a similar effect, forcefully scattering their mist form. Fire and heat are effective because they evaporate the mist that comprises their body. Some few Vaporwisps can be negotiated with or communicated with, particularly if approached with compassion. They sometimes respond to appeals for peace, especially if they have manifested in an area due to tragedy that can be acknowledged or resolved. A Vaporwisp released from its compulsion to manifest may simply dissipate into normal fog and disappear permanently.
+Heavy blunt blows break up its shape and fire scatters it; it fears both.
 
 ## Attributes
 

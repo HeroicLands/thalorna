@@ -228,59 +228,75 @@ sohl:
 
 ![[voidmoth|Voidmoth]]{float=top-left}
 
-The darkness in front of you begins to move. At first you think it must be a trick of the light—a fluctuation in shadow—but the darkness coheres, solidifies, takes form. Massive wings unfold, each the size of a sail, patterned in colors that seem to exist outside the normal spectrum—ultraviolet depths and infrared fires your eyes can barely process. Where the wings fold, the air shimmers as if space itself is being creased. The creature's presence makes the world feel thin, fragile, as though you are standing very close to something that should remain hidden.
+The march road runs across the stony fan at the foot of the hills, and the barrier at its edge is closed: dusk has come. Out on the field, under the first stars, something rises from the stones. It is a moth, as big as a horse, its body made of segments that do not reflect the light at all, and when it spreads its wings, twenty feet of them, they are patterned with shapes that move, like stars seen through deep water. A fine black powder drifts down from the wings, and where it falls the light goes out. Your torch gutters. The moth turns toward the torch, and its eyes, huge and faceted, look at you from several directions at once.
 
 # Dossier {#dossier}
 
-Voidmoths are ancient, rare beings born from or touched by the spaces between worlds. They are not creatures of flesh but are composed of something closer to solidified darkness and void-energy given temporary form. Most are found near places where the barrier between realms grows thin—ancient stones, sites of old magic, locations where reality has been damaged or torn. They are not inherently aggressive but they are possessive of liminal spaces and hostile to those who attempt to exploit or cross them. A Voidmoth is as much guardian as creature, and it will protect its territory with cold intelligence.
+The Voidmoth is a spirit-being of solidified darkness, a moth the size of a horse with a twenty-foot wingspan, born of or touched by the spaces between worlds, which gathers where reality has torn and the barrier between the worlds is weak. It feeds on something that is not food, perhaps magic, perhaps the force of the tear itself. It makes darkness, suppresses magic, and breaks men's reason with its gaze. It is one of the hunters that cross onto [[place-lanthusthli|Lanthusthalī]], the thinnest blood-field in Vedyara, where the march kingdom of Marupāla died in 315 AF and nobody's rites were said for the dead. Like the other hunters that gather where the dead were never received, it takes on a half-material form on the field, and in that form it kills.
 
 ## Presentation
 
-A Voidmoth is roughly the size of a horse, with a body composed of chitinous segments that seem to absorb light rather than reflect it. Its wings are vast—when fully spread, they measure twenty feet or more from tip to tip. The wings are patterned with geometric shapes and colors that hurt to look at directly; they seem to show dimensions that human eyes were not meant to perceive. The creature's compound eyes are like clusters of black diamonds, each facet showing a different view of the world or perhaps of other worlds. Where the Voidmoth moves, the air seems to shimmer and waver, as if space bends slightly around the creature's passage.
+The voidmoth's body is a long, heavy, segmented shape, furred and plated with something that swallows light, so that it looks like a hole in the night. Its wings are vast and patterned with shapes like stars and nebulae seen through deep water, which shift as it moves. It has huge compound eyes and a pair of short, curved mandibles. A fine black powder falls from its wings, and wherever the powder settles, light dies. It flies slowly and silently, and the air round it is cold and still. Magic near it falters; lamps dim; the dread of the field is heavier where it is.
+
+## In the Land
+
+Lanthusthalī is the fan of stony ground where the foothills of the Western Descent open onto the march road, a day and a half west of [[place-ashvapada|Ashvapada]]. It is a dread: the overrun host's panic is still on the field and comes on anyone who lingers, by day as well as by night. On any night of the year, and worst in the dry season when the wind comes off the Descent, the hunters cross onto the field, and the voidmoth is one of them. It rises from the stones after dark and hunts the field and the road's edge, and it is gone before dawn. It does not leave the field, and it treats the field as its own.
 
 ## Key Behaviors
 
-Voidmoths are solitary and territorial, fiercely defensive of places they have claimed as their domain. They are nocturnal and avoid direct sunlight. They seem to feed on something that is not physical food—possibly magic itself, or energy from the spaces between worlds. They are intelligent and methodical, and they seem to understand humans well enough to anticipate their actions. Most encounters occur when humans accidentally approach a Voidmoth's territory; the creature will warn before attacking, but the warning is often subtle and easily missed. A Voidmoth provoked will not relent until the threat is dead or has fled far from its domain.
+A voidmoth is nocturnal and territorial, and it attacks anything that comes onto its ground after dark. It surrounds itself with darkness that no light enters and hunts within it. It is drawn to light and to magic, and it feeds, as far as anyone can tell, on both: it dims lamps and drains workings, and a sorcerer who casts near it finds his magic failing. It seems to sense the boundaries between worlds and to know when they are being crossed or worked on. When it has killed, it leaves the body at the edge of the field, cold and dark-stained.
+
+## What the March Companies Do
+
+The march companies of [[affiliation-bhumipala|Bhūmipāla]] call the field the banner ground in daylight and nothing after dark, and the road across it is barred at dusk. A caravan that must pass goes by day, at a trot, with its animals blindfolded against the dread, and is across before the sun touches the hills. The march companies post their dusk watch behind the barrier with bright torches and a priest of the [[affiliation-agnipantha|Agnī-panthā]], whose sect claims the fields of Vedyara and burns the ground to end them. The priests say that the voidmoth is one reason the burning has not yet worked on Lanthusthalī: it drinks the fire's working as it drinks a lamp. They burn the edges anyway.
+
+## Signs
+
+- A fine black powder on the stones at the edge of a field in the morning, which dims a lamp held over it.
+- Torches and lamps that gutter and go out at dusk at the edge of a field, with no wind.
+- A shape like a hole in the night crossing the stars, slowly, with no sound.
+- Bodies found at the edge of a field at dawn, cold and stained dark at the mouth and eyes.
+- A sorcerer's working that fails, unaccountably, within sight of a field after dark.
 
 ## Combat Strategy
 
-Voidmoths use their control over darkness and void-energy to overwhelming advantage. They manifest zones of absolute darkness around themselves, rendering normal vision useless. Within this darkness, they are nearly invisible and can move and attack with impunity. Against opponents with light-based magic or abilities, they become more cautious and will attempt to suppress those abilities first. They rarely engage in straightforward combat, preferring to use their supernatural advantages to confuse and disable opponents. Against clearly overwhelming force, they will retreat into the void itself rather than fight to exhaustion.
+A voidmoth wraps itself in absolute darkness and fights from inside it, unseen, while its enemies see nothing. It buffets them with its wings, bites, sheds its light-killing powder over them, and turns its gaze on any who still stand to break their reason. Its aura makes magic unreliable. Light is its weakness: bright light and light magic force it into a more solid form that weapons can hurt, and blessed weapons strike it fully.
 
 ## Attack Methods
 
-### Dark Powder Release
+### Wing Buffet
 
-The Voidmoth beats its wings and releases a cloud of fine, dark powder that has no source and does not behave like normal dust. Where it falls, light is absorbed rather than reflected. Those who breathe it report difficulty seeing, and their magic becomes sluggish and hard to control.
+The wings strike with force far beyond their look, knocking a man off his feet. The touch of the void-stuff is cold and disorienting and feels deeply wrong.
 
-### Wing Buffets
+### Mandible Strike
 
-The Voidmoth's wings strike with surprising force for something so delicate. A wingbeat can knock a person off their feet, and the sensation of being struck by void-touched matter is disorienting and deeply wrong.
-
-### Void Gaze
-
-The Voidmoth focuses its compound eyes on a target and the effect is overwhelming—the victim feels as though they are being viewed from multiple angles and multiple realities simultaneously. Reason fractures briefly, and victims stumble confused.
+The voidmoth bites with its curved mandibles, quick and sharp, cutting flesh and leaving a dark stain in the wound.
 
 ## Special Abilities
 
+### Dark Powder Release
+
+It beats its wings and releases a cloud of fine black powder. Where the powder falls, light dies; those who breathe it see poorly, and magic falters near it.
+
+### Void Gaze
+
+It fixes its eyes on a man, and he feels himself seen from many angles at once, as if from many worlds. His reason breaks for a moment, and he stumbles and cannot act.
+
 ### Darkness Manifestation
 
-The Voidmoth can create zones of absolute, supernatural darkness within thirty feet of itself. This darkness is not natural night but a void of light itself. Normal vision becomes impossible, but the Voidmoth can see perfectly within it. The effect is constant while the creature concentrates on it.
+It fills the space round itself with absolute darkness that no natural light enters, and sees perfectly inside it.
 
 ### Void Phasing
 
-The Voidmoth can partially slip out of synchronization with reality, becoming semi-corporeal. In this state, physical weapons pass through it with minimal effect. However, magic and light-based attacks strike it fully, forcing it to become more material.
+It slips partly out of the world, and weapons pass through it. Magic and light strike it fully and force it back into solid form.
 
 ### Void Aura
 
-The Voidmoth radiates an aura of void-energy that disrupts and suppresses magic in its immediate vicinity. Spells are difficult to cast near the creature, and magical effects become unreliable and unstable. This aura extends roughly thirty feet from the Voidmoth's body.
+Within thirty feet of it, spells are hard to cast and workings unreliable and unstable.
 
 ### Interdimensional Knowledge
 
-The Voidmoth seems to perceive and understand things beyond normal human comprehension. It can sense dimensional boundaries and know when they are being approached or manipulated. Casters attempting to use dimensional magic (teleportation, planar travel, etc.) near a Voidmoth find such magic extremely difficult or impossible to execute.
-
-## Additional Information
-
-Voidmoths are most vulnerable to light-based magic and blessed weapons. Bright light forces them to become more material and exposes them to physical attack. Physical weapons, particularly those blessed or imbued with holy magic, are effective against them. They cannot be permanently destroyed while anchored to a dimensional weak point; they will reform after several days unless the location itself is sealed or purified. Attempting to communicate with a Voidmoth is possible but difficult and dangerous—the creature's mind operates on premises that human language cannot fully express. By one account, they serve a purpose in maintaining the barriers between worlds, preventing unwanted crossings and incursions from other realms. From this perspective, destroying a Voidmoth may have consequences beyond the immediate encounter.
+It senses the boundaries between worlds and knows when they are approached, crossed or worked on.
 
 ## Attributes
 

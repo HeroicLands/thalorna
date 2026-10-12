@@ -403,8 +403,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Óvelyn is a young chandler who recently started her own business after apprenticing with a skilled candle maker. She specializes in creating decorative and scented candles for special occasions and religious ceremonies. Her unique designs have begun attracting attention, though she still struggles to gain a foothold in the market.
 
-Now at 29 years of age, Óvelyn Sálthar has established herself as a known figure among the chandlers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -400,8 +400,6 @@ Bâlden Stýlgon is a sworn skald of the Skalds' Circle living at Aurèliane, in
 
 Bâlden was taken as an apprentice young and made the Circle's way, and he spent most of his life reciting in the halls of Nordland chieftains, where a skald is the hall's record and his recitation is evidence, and came back to Aurèliane past forty with a voice that carries over a feast. Aurèliane lives on its past, and its old families found that a man who could recite their lineages exactly as received, and would not improve them, was worth keeping. He has trained a handful of Provenzian apprentices, and Bâlden does not compose to please. He holds that a story remembered wrongly is a story lost, and he has ended friendships over a line.
 
-He is a known figure among the skalds of Provènzia.
-
 ## Psyche
 
 ### Personality

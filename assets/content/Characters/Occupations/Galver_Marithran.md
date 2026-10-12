@@ -403,8 +403,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Gálver is a veteran mason with over thirty years of experience. He has worked on countless projects, from simple homes to grand cathedrals. Known for his strength and expertise, Gálver often takes on leadership roles in construction projects and is respected for his ability to train younger workers. He believes in the importance of craftsmanship and integrity in his work.
 
-Now at 50 years of age, Gálver Maríthran has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

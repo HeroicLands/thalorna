@@ -401,8 +401,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Knurvthann is a veteran longshoreman with over twenty years of experience on the docks. He has seen the industry evolve and is known for his knowledge of shipping practices and safety protocols. Knurvthann takes pride in mentoring younger workers and is often called upon to resolve disputes or oversee complex loading operations. He values hard work and camaraderie, making him a respected figure among his peers.
 
-Now at 40 years of age, Knurvthann Hafringr has established himself as a known figure among the longshoremans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

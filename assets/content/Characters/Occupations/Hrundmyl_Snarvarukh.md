@@ -399,8 +399,6 @@ Hrundmýl Snarvarukh is head gaoler of the king's prison at Knalthstead, the sea
 
 Hrundmýl came to the prison as a young guard because the Tingward was hiring and the fjord was not. The prison holds men awaiting the king's judgment, men held for ransom between clans, and men whose kin outside would kill them given an hour's opportunity. His answer to all of it is the rules. Every man inside is fed the same, locked the same and treated the same, whatever his clan or his jarl, and every guard under him keeps to the same book or leaves. It is not a popular way to run a prison in a country where a jarl expects to be obliged, and it has kept the feuds of Nordheim outside the walls.
 
-He is a known figure among the gaolers of Nordheim.
-
 ## Psyche
 
 ### Personality

@@ -267,55 +267,71 @@ sohl:
 
 ![[swmpstrd|Swampstrider]]{float=top-left}
 
-A bulge in the water ahead moves with terrible purpose—not a ripple but an intentional disturbance. Then the creature simply appears, rising from the murk as though materializing from shadow: an amphibian the size of a horse, its hide mottled green and brown, glistening with moisture and something slick that reflects light wrongly. Its enormous eyes bulge from a flattened head, and as it regards you, you see intelligence there—calculating, patient, hungry. Long, muscular legs coil beneath its body, and as you watch, you see them tense with terrifying potential. Then, faster than your mind can process, the creature's mouth opens to reveal a tongue of impossible length and elasticity, writhing with the promise of adhesive horror. The air around it smells of stagnant water and something acrid—venom, perhaps, or something worse.
+The portage trail comes down through maples to a reedy bay of the lake, where the canoes are to be put back in the water. The bay is calm and green with lily pads. One of the patches of pads is larger than the rest, and the water round it is very still. As the first canoe is pushed off, the patch rises: a frog, if a frog could be as long as the canoe, mottled green and brown and gray, its skin wet and shining, two great eyes on top of a flat head. Its throat swells. Then its mouth opens, and its tongue shoots across thirty feet of water and wraps the man in the canoe's bow, and pulls.
 
 # Dossier {#dossier}
 
-Swampstriders are apex predators of wetland environments, massive amphibians evolved or corrupted to supernatural intelligence and power. They are ambush hunters of preternatural skill, creatures that seem to anticipate their prey's movements and position themselves perfectly for devastating attacks. A Swampstrider hunts alone, claiming a stretch of swamp as its personal hunting ground, and it becomes increasingly dangerous and aggressive as it grows older and more practiced at the hunt. These creatures seem to have no fixed territory in the way that land-based predators do—instead, they move through interconnected waterways, following prey populations and seasons, though an individual Swampstrider may return to a particular region repeatedly.
+The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of [[place-xikulchaklrgn|Xik'ul Ch'akal]] in Northern K'ich'chik, the country of lakes, rivers and portage-routes that the [[affiliation-xikulchakl|Ha'ik]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Swampstrider measures roughly 12 to 18 feet in length, with a muscular, low-slung amphibian body built for explosive speed and jumping power. Its hide is mottled in shades of green, brown, and murky gray, textured to provide perfect camouflage in swamp water and vegetation. Its skin is constantly moist and glistening, covered in a thin layer of secreted slime that contains its toxins. Its head is flattened and broad, with enormous, bulging eyes set toward the top of its skull, giving it a wide field of forward and lateral vision. Its mouth is enormous and stretches wider than seems physically possible, and from within that cavernous mouth, a tongue of incredible length can be extended—a muscular, prehensile appendage that is covered in adhesive secretions and lined with barb-like protrusions. Its legs are coiled springs of muscle, capable of explosive power. The creature makes almost no sound as it moves through water, and its presence is often announced only by a sudden disturbance in water or a premonition of danger.
+The swampstrider is broad, flat and low, with a wide head, huge bulging eyes set on top, and a mouth as wide as its body. Its skin is mottled green, brown and murky gray, smooth and always wet, slick with a secretion that numbs whatever touches it. Its forelegs are short and its hind legs very long and heavily muscled, folded under it. The tongue, coiled in its mouth, is thick, sticky and strong as a rope. It sits motionless in shallow water for hours with only its eyes and back above the surface, and moves in sudden, explosive leaps. It croaks rarely, with a deep, booming note that carries for miles across the water.
+
+## In the Land
+
+Xik'ul Ch'akal is water in every form: lakes from small forest pools to inland seas, rivers broken by rapids, and the portage trails that join them, which the Ha'ik know intimately. The swampstrider holds a reedy bay at the lake end of one of those portages, where canoes must be carried up out of the water or put back into it, and the marsh and lily beds round it. It eats fish, ducks, beavers, otters, deer that come down to drink, and canoeists at the landing. It stays in the shallows and the marsh and does not go out into the open lake or up into the forest, and in the hard northern winter it lies under the mud at the bottom of the bay.
 
 ## Key Behaviors
 
-A Swampstrider is a patient, solitary hunter with a cunning understanding of the hunt. It learns prey behavior, predicts movement patterns, and sets itself in ambush positions with preternatural accuracy. The creature will wait motionlessly for hours or days for a single opportunity, and when it strikes, the velocity of the attack is almost impossible to evade. It hunts a territory roughly ten miles or more in length, following waterways and knowing every pool, every channel, and every likely location where prey will congregate. The creature seems to breed rarely, and gravid females are said to defend nesting sites with absolute ferocity.
+The swampstrider is patient and cunning. It learns its prey's habits, where the deer drink, which channel the ducks use, where a canoe grounds at a landing, and it waits there, motionless, for hours or days, for one chance. When the chance comes, it strikes with the tongue first, sticks its prey and pulls it in, and closes its jaws on it, or leaps and rams it under. Its skin and tongue numb and paralyze whatever they touch. It understands luring and herding, and it has been seen to drive ducks toward the bank with its leaps so that they would fly past its tongue.
+
+## What the Ha'ik Do
+
+The Ha'ik control their waterways with quiet, absolute authority, and K'ich'chik traders who try to use them without permission vanish; what the traders know about the swampstrider comes from the border trading sites, where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. K'ich'chik observers believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
+
+## Signs
+
+- A deep booming croak across a lake at dusk, from somewhere among the reeds.
+- Ducks and geese that will not land in one bay of a lake.
+- A patch of lily pads that is in a different place each morning, too big and too regular.
+- A deer carcass in the shallows with its fur stripped off in a long sticky stripe.
+- A canoe found floating empty in a bay with its paddles still in it.
 
 ## Combat Strategy
 
-A Swampstrider initiates combat by launching itself at tremendous speed from water or concealment, attempting to capture prey with its adhesive tongue before engaging in direct combat. Once a victim is restrained by the tongue, it attempts to drag them into deeper water or to pull them close enough for a massive bite. The creature is agile enough to adjust its attacks mid-leap, and it demonstrates tactical awareness—if a tongue-grab fails, it may use the momentum to ram or slash with its limbs instead. The creature can also create massive disruptive splashes by inflating its body, a tactic that startles and disorients prey. If severely injured or facing overwhelming force, a Swampstrider will retreat into deep water where it has overwhelming advantage.
+The swampstrider strikes from the water or the reeds: it throws its tongue to catch one victim, pulls him in, and bites or drags him under. If its victim fights free, it leaps and rams him flat, from surprising distances. It picks off whoever is nearest the water, and it pulls its prey into deeper water where it has every advantage. It is clever enough to wait for the right moment and to retreat when the fight goes badly. Heat and drying out are what it cannot stand.
 
 ## Attack Methods
 
-### Prehensile Tongue Strike
-
-The creature's tongue lashes out with adhesive power and surprising strength, attempting to capture prey or drag it closer. Victims caught by the tongue find escape nearly impossible and will be drawn toward the creature's massive jaws.
-
 ### Crushing Bite
 
-Once prey is within range, the Swampstrider's jaws snap down with power comparable to a bear trap, capable of causing catastrophic damage or severing limbs.
+Once its prey is close, the jaws snap shut like a bear trap, with force enough to break bones and take off a limb.
 
-### Powerful Leap and Ram
+### Prehensile Tongue
 
-The creature's hind legs can propel it with explosive force across or through water, allowing it to ram opponents with shoulder or head strikes of devastating power.
+The tongue shoots out up to thirty feet, sticks to its prey and wraps round it, and the swampstrider pulls him toward its jaws. Escaping its grip takes great strength or a sharp blade, and its secretion numbs what it touches.
+
+### Leap and Ram
+
+The swampstrider launches itself off its hind legs across or through the water and rams its victim with its head and body, knocking him flat or under the surface.
 
 ## Special Abilities
 
 ### Toxic Secretions
 
-The Swampstrider's skin secretes a potent neurotoxin that affects anything it touches. Victims of the sticky tongue or who are grappled begin to experience numbness and eventual paralysis as the toxin spreads.
+Its skin and tongue are coated in a secretion that numbs and then paralyzes. A man held by the tongue or grappled by the creature grows numb, then stiff, then unable to move.
 
 ### Amphibious Adaptation
 
-The Swampstrider moves with equal ease in deep water and on land, though it is somewhat slower on land than in its native element. It can hold its breath indefinitely and sees perfectly in complete darkness.
+It moves easily in deep water and on land, though more slowly on land. It holds its breath indefinitely and sees perfectly in total darkness.
 
 ### Predatory Cunning
 
-The Swampstrider demonstrates tactical intelligence, learning prey patterns and adapting its hunting strategies. It understands concepts like luring prey or herding them into kill zones.
+It learns its prey's habits, lures and herds it, and sets ambushes where its prey must pass.
 
-## Additional Information
+### Desiccation Weakness
 
-Extreme heat and desiccation are the Swampstrider's primary weaknesses—the creature cannot survive indefinitely out of water, and prolonged exposure to dry conditions will eventually kill it. Its toxins can be extracted and preserved, though doing so is extraordinarily dangerous and requires specialized knowledge. The creature's hide, if harvested carefully, can be fashioned into water-resistant armor of the finest quality. The adhesive secretions from its tongue are highly prized by craftspeople and can be used in numerous specialized applications. Hunting a Swampstrider is considered a dangerous undertaking, and those few who succeed in killing one are celebrated throughout the region. The creature's remains are valuable enough that expeditions have been mounted purely to claim them, though most such expeditions end without a successful kill.
+It cannot live long out of water. Heat and dry air weaken it, and long exposure to dry conditions kills it.
 
 ## Attributes
 

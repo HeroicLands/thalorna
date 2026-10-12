@@ -401,8 +401,6 @@ Born in the Harad region to a noble family of Haradian heritage, Rimtûra Damrû
 
 Rimtûra is a skilled litigant specializing in family law and inheritance disputes. As a respected member of the Litigant's Guild, she is known for her compassion and dedication to her clients. She understands the feelings in a case as well as the law, and handles difficult cases with care. She cares that justice is done and works tirelessly for her clients.
 
-Now at 32 years of age, she is a known figure among the litigants of Harad.
-
 ## Psyche
 
 ### Personality

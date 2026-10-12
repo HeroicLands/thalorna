@@ -400,8 +400,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Élsaro is a skilled assassin-for-hire, known for his stealth and precision. He operates in the shadows, taking on contracts from those willing to pay for his services. Élsaro has a reputation for being efficient and discreet, often using his skills to eliminate targets without a trace. He values his independence and often works alone but is also willing to collaborate when the job requires it.
 
-Now at 31 years of age, Élsaro Castírenna has established himself as a known figure among the mercenarys of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -3,7 +3,7 @@ shortcode: bldrbck
 name: {full: Boulderback, aliases: []}
 type: being
 subType: creature
-description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
+description: "A made creature of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -434,55 +434,71 @@ sohl:
 
 ![[bldrbck|Boulderback]]{float=top-left}
 
-The earth shakes. At first you think it's an avalanche descending the mountainside, but then you see it: a mass of boulders, each the size of a man's torso, fitted together in the mockery of a body. It stands fifteen feet tall, its movements grinding and ponderous. Where it places its massive feet, stone cracks. Its head is a single, misshapen boulder with two openings like eye sockets—and from within those voids, something watches you with absolute patience.
+The old working is a notch in the cliff above the quarry ramps, abandoned, its floor heaped with spoil. Among the spoil stands a pile of boulders as tall as two men, stacked roughly in the shape of a man, with a ridge of jagged blocks along its back. You have walked past it twice. This time, as your shadow falls across it, the top boulder turns with a long, grinding crack, and in it are two deep hollows like eye sockets, and under them a split like a mouth. Dust sifts off its shoulders. One arm, a column of granite as thick as a temple pillar, lifts off the ground, and the hand at the end of it is a fist of smaller stones closing.
 
 # Dossier {#dossier}
 
-Boulderbacks are earth-elementals bound in physical form, creatures of stone and will animated by something that dwells in deep places. They are neither malicious nor gentle—they simply exist as obstacles in stone passages and buried valleys. Adventurers encounter them in mountains, ancient quarries, cave systems, and places where earth-magic concentrations run high.
+The Boulderback is a dreadspawn of living stone: a fifteen-foot giant of fitted boulders and slabs, weighing as much as a loaded stone barge, made to guard a place and keep on guarding it. It does not eat, does not sleep, and does not leave the ground it was set over. One stands in the quarry cliffs of [[place-legirusiselt|Legirusi Selat]], on the upper river of Aû'Khelâthu, where the empire's fine building stone is cut, and it has stood there longer than the quarry records go back. It is alive, as every dreadspawn is, with a will of a kind and a mind that is very slow and very sure, and it cannot breed. What it was made to guard in the cliff, and by whom, nobody knows.
 
 ## Presentation
 
-A Boulderback stands roughly fifteen feet tall, constructed of layered boulders and stone slabs fitted together into a vaguely humanoid frame. Its head is a single massive boulder with two deep-set eye sockets and a horizontal crevasse serving as a mouth. Its torso is built from stacked stone roughly six feet across; its limbs are thick columns of granite and flint. Enormous hands are formed from clusters of smaller stones bound together. Its back forms a jagged ridge of protruding stone blocks—hence the name. Each movement produces grinding, cracking sounds as stone shifts against stone; each step causes the ground to tremble and small rocks to cascade. It moves with deliberate slowness but inexorable determination.
+The boulderback is built of stone: layered boulders and slabs fitted roughly together into a frame with a head, a body, two legs and two long arms. The head is one great boulder with two deep sockets and a horizontal crack for a mouth. The body is a stack of stone six feet across. The limbs are columns of granite and flint, and the hands are clusters of smaller stones that open and close. A jagged ridge of blocks stands out along its back. It is the color of the cliff it stands in and it is weathered like the cliff, with lichen in its cracks and swallows' nests under its shoulders. Every movement grinds and cracks, and dust falls from it when it walks. Standing still, it is a heap of rock.
+
+## In the Land
+
+Legirusi is the river strip with the cliffs at its back, and the boulderback's ground is a stretch of those cliffs above the quarry landings, a few hundred yards of cut faces, ledges, old workings and spoil heaps, with a sealed passage somewhere in it that the quarrymen do not know the entrance to. It walks that ground slowly, examining it, and stands still in it for months at a time. It does not come down to the river and does not go up onto the desert beyond the rim. The quarry gangs have worked round it for generations, and the faces on either side of its stretch are among the best stone in the selat; the stone of its own stretch has never been cut.
 
 ## Key Behaviors
 
-The Boulderback is driven by a singular imperative: protect its territory. It dwells in caves, mountain gorges, or quarries it has claimed, and it patrols these lands with methodical patience. The creature does not hunt; it does not eat. It simply walks, examines, and waits. When threatened, it responds with violence. When left alone, it is content to remain. It shows no sign of emotion, fear, or aggression—merely duty. Some Boulderbacks remain in the same territory for centuries, their watch never flagging.
+The boulderback walks its ground, looks at it, and waits. It does not hunt and does not eat. It feels every footstep and every blow of a pick through the rock, and it knows when something is moving in its ground, even inside the cliff. It ignores anyone who keeps out. Anyone who comes into its ground it walks toward, steadily, and anyone who stays it crushes. Anyone who strikes its cliff with a tool it attacks at once. It follows an intruder only to the edge of its ground, then turns back and resumes its round. It has stood through floods, quakes and the cutting of the faces round it, and it shows no fear, anger or interest, only purpose.
+
+## What the Quarrymen Do
+
+The quarry gangs of Legirusi, who are farmers in the dry months and quarrymen while the flood drowns their fields, mark the edge of the boulderback's ground with painted stones and teach every new hand the line before he is given a pick. Nobody cuts within it. The temple-workshops' master masons regard the creature as a fact of the cliff, like a fault in the rock, and plan around it. Once in a long while a scholar or a treasure-seeker comes up the river convinced that what it guards is worth having; the quarry overseers will take his fee to show him the line, and will not take his body down to the river afterward. The barge pilots say that in the year of a great flood the boulderback stands at the very edge of its ground looking down at the water, and they read it as a sign the flood will be high.
+
+## Signs
+
+- A heap of boulders in the shape of a man where no spoil should be, on a ledge with no ramp to it.
+- A stretch of cliff, between two worked faces, that has never been cut.
+- A trail of crushed and powdered stone along a ledge, the tread of something very heavy.
+- Swallows nesting in a rock face that shifts its position between one season and the next.
+- A low grinding inside the cliff at night, felt through the soles of the feet more than heard.
 
 ## Combat Strategy
 
-The Boulderback does not employ tactics. It moves toward threats and crushes them. When attacked, it retaliates with simple, devastating force. It will pursue fleeing prey only as far as its immediate territory; if a foe retreats beyond certain boundaries, the Boulderback ceases pursuit and returns to its patrol. It cannot be intimidated, bribed, or reasoned with—only destroyed or outmaneuvered.
+The boulderback does not plan. It walks toward a threat and hits it until it stops moving, and it charges an intruder who is running across its ground. It throws boulders, its own or the cliff's, at anything it cannot reach. It cannot be frightened, bribed, tricked into talking or turned from its purpose. It does not pursue past the edge of its ground, and the edge is the whole of a party's safety: anyone who gets across the line is let go. It is slow to climb, and it cannot follow into narrow passages or up a sheer face.
 
 ## Attack Methods
 
 ### Crushing Blow
 
-The creature swings one enormous stone fist at its target with devastating force. The impact is capable of shattering bone and armor alike.
+The boulderback swings a fist of stone down or across. The blow shatters shields, breaks bone through armor, and drives a man into the ground.
 
 ### Powerful Charge
 
-Moving with surprising speed despite its size, the Boulderback can build momentum and crash into opponents, attempting to pin them or drive them backward with its massive weight.
+It walks faster, then runs, with surprising speed for its size, and crashes into a man with its whole weight, driving him back against the cliff or pinning him beneath it.
 
 ### Stone Throw
 
-The creature can dislodge individual boulders from its body or surrounding terrain and hurl them at distant targets. These projectiles strike with crushing force and can pin whoever they land on.
+It wrenches a boulder from the cliff or from its own body and throws it. The stone strikes with crushing force at a distance and pins whoever it lands on.
 
 ## Special Abilities
 
 ### Stone-Bound Durability
 
-The Boulderback's construct nature makes it immensely difficult to harm through conventional means. Its body is distributed across many separate stone blocks; destroying one section does not kill the creature, though it may limit its mobility. It is resistant to any physical blow.
+Its body is many separate stones, and a blow that breaks one does not kill it. It shrugs off cuts and thrusts entirely, and even crushing blows only chip it; losing a limb slows it without stopping it.
 
 ### Tremor Sense
 
-The Boulderback perceives its surroundings through ground vibrations and stone resonance. It senses anything moving or disturbing the earth within its immediate territory, even through solid walls or in complete darkness. It is effectively blind and deaf, but that rarely matters.
+It feels everything that moves on or in its ground through the rock: footsteps, digging, a man hiding behind a wall or deep in a passage. It needs no eyes, and darkness and concealment do not hide anyone from it.
 
 ### Slow Regeneration
 
-Exposed to stone and earth, the Boulderback repairs itself over time. Cracks seal, separated blocks drift back together, and wounds close. This regeneration is slow—hours or days—but relentless.
+Standing in stone, it repairs itself. Cracks close, loosened blocks drift back into place, and lost stones are replaced from the cliff over hours and days.
 
-## Additional Information
+### Frost and Water
 
-Boulderbacks are vulnerable to spells and magic that target their binding properties or animate core. Water seeping into cracks and freezing can cause internal stress and damage. Most creatures cannot outrun a Boulderback at range, but vertical climbing and narrow passages where its size is a liability can be used to escape. Some legends speak of Boulderbacks becoming waypoints or holy sites, watched over by primitive peoples who learn to live alongside them.
+Water that gets into its cracks and freezes splits it from inside. On the upper river frost is rare; the quarrymen know that a winter freeze is the one time it is vulnerable.
 
 ## Attributes
 
@@ -493,3 +509,11 @@ Boulderbacks are vulnerable to spells and magic that target their binding proper
 - **Will:** 15-20 (1d6+14)
 
 - **Reasoning:** 5-10 (1d6+4)
+
+- **Strength:** 40-45 (1d6+39)
+
+- **Endurance:** 24-29 (1d6+23)
+
+- **Agility:** 5-8 (1d4+4)
+
+- **Creativity:** 3-6 (1d4+2)

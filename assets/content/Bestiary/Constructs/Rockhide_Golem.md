@@ -53,55 +53,69 @@ sohl:
 
 ![[rckhdglm|Rockhide Golem]]{float=top-left}
 
-The ground trembles as the massive stone construct rises, its form an assemblage of layered rocks and boulders fused into something approaching humanoid shape. The exterior is armored in thick stone plates, and magical runes glow faintly across the surface. The eyes are deep-set, glowing like molten lava, burning with a single fixed purpose. You are looking at something created from stone and sorcery, given movement and will through magical binding.
+The old watch-fort holds the pass the way a fist holds a stone: walls of fitted blocks, a gate-tower, a courtyard choked with fallen masonry. Among the fallen blocks, against the inner wall, is a heap of them taller than the gate. As you climb over the threshold, the heap stands up. Stone grinds on stone. Boulders fused together into the shape of a giant man, twelve feet tall, with plates of slate over its chest and arms and lines of faint red light running in the joints between them, and in its head two deep-set points of the same red, glowing like coals. It takes one step toward the gate, and the courtyard floor cracks under its foot.
 
 # Dossier {#dossier}
 
-Rockhide Golems are made for defense and brute force, standing 10-12 feet tall and composed of fused stone and rock. These relentless guardians protect valuable treasures and important locations throughout ancient ruins and fortifications. Adventurers encounter them when approaching guarded sites or attempting theft from protected locations.
+The Rockhide Golem is a construct: a ten-to-twelve-foot figure of fused stone, armored in slabs of rock and bound together with signs that glow in its joints, which a mage has worked into motion to guard a place. It has no will; it does what it was told, for as long as the working holds, and it reassembles itself from its own rubble when it is broken. The rockhide golems of [[place-helionis|Heliónis]] are the work of the Helionite mage-warlords of the war against the Vylarian Republic, who set them in the passes and fortresses they held, and some of those golems are still standing, guarding forts that have been empty for six centuries. The [[affiliation-ordoarcanis|Ordo Arcanis]], born out of the college those mage-warlords came from, would very much like to know how they were made.
 
 ## Presentation
 
-A humanoid figure constructed from massive stones and boulders fused together, with magical runes glowing across the surface. The overall form is powerful and imposing, sized to intimidate and overpower.
+A rockhide golem is a giant man-shape of stones and boulders fused together, with great slabs of slate and granite laid over its chest, shoulders and arms like armor. The signs that bind it are cut into the stones and glow a dull red along the joints. Its head is a single boulder with two deep-set red lights. It is heavy and slow and moves with a grinding of stone, and every step cracks paving. Standing still, it is a heap of masonry, and grass and lichen grow on it. It makes no other sound, and it never speaks.
+
+## In the Land
+
+Heliónis is olive-clad hills, narrow valleys and abrupt mountain ranges, and the roads through the passes connect the cities and, as often, divide them. During the war of 335 to 312 BF the mage-warlords who commanded forces their own cities could not control held forts in those passes, and they set golems in them to hold the gates. The forts were abandoned when the city-states fell. The golems were not told to stop. A few still stand in the mountain forts between the cities, in the courtyard or the gate-tower they were set in, and they let no one through the gate.
 
 ## Key Behaviors
 
-Rockhide Golems carry out their instructions absolutely, defending assigned areas with relentless commitment and no deviation.
+A rockhide golem carries out its orders exactly and without end: it guards its gate or its courtyard and destroys anything that tries to pass. It does not leave its post and does not pursue past the line its orders set. It does not tire, eat or sleep, and it feels no pain. When it is broken, its stones drift back together and it rises again, more slowly each time; a golem that has been broken many times stands a little lopsided. Its orders were given by a mage who has been dead for six centuries, in words no one now living heard, and what it was told to admit, if anything, is unknown.
+
+## What the Helionites and the Ordo Do
+
+The cities' herdsmen and travelers use the passes round the old forts and not through them, and every child in the mountain villages knows which gate-towers have a golem in them. The cities have never tried to remove the golems, because each was set by some city's mage-warlord and each city prefers not to remember which. The Ordo Arcanis, which holds a legal monopoly on arcane practice and controls the Epistemium in practice, sends scholars to the forts to study the binding signs from beyond the golem's line, and once sent a party in to take one apart. The party is not discussed. Helionite scholars of the older colleges, who argued for generations about the ethical limits of arcane power, use the golems in their lectures.
+
+## Signs
+
+- An abandoned fort in a pass whose gate is still clear of rubble, as if someone keeps it.
+- A heap of fused boulders in a courtyard with faint red lines in the cracks between them.
+- Bones of animals and men lying in a gateway, crushed flat, and nothing beyond the gate disturbed.
+- Paving cracked in a line of huge footprints from a courtyard wall to the gate and back.
+- A herders' path that goes a long way round a pass with a good road through it.
 
 ## Combat Strategy
 
-The golem relies on overwhelming brute force and crushing strength to destroy threats.
-
-## Attack Methods
-
-### Crushing Blow
-
-The golem delivers devastating impacts using immense strength.
-
-### Boulder Throw
-
-The golem tears loose stone and throws it as a projectile weapon.
+The golem walks at whatever has crossed its line and strikes with its fists until it stops moving. It throws stones at anyone it cannot reach. It does not dodge or protect itself, it does not care about its wounds, and it cannot be argued with. It is slow and cannot climb, and a party that keeps its distance and stays beyond its line is not touched. Water seeping into its joints and loud ringing sound loosen what holds it, and the signs cut into it hold the working together.
 
 ## Special Abilities
 
+### Crushing Blow
+
+The golem swings a fist of fused stone with enormous strength. The blow breaks shields and bones and throws a man across a courtyard.
+
+### Boulder Throw
+
+The golem wrenches a stone from the walls round it or from its own body and hurls it at anyone out of reach, crushing whoever it strikes.
+
 ### Stone Armor
 
-Highly resistant to blows and to fire.
+Its slabs turn cuts, thrusts and blows, and fire does it no harm at all.
 
 ### Structural Reassembly
 
-If broken into pieces, the golem can reassemble itself from the scattered stone.
+When it is broken apart, its stones drift back together and it rises again from its own rubble, slowly.
 
 ### Terrain Advantage
 
-Uses landscape tactically, moving through rocky terrain with ease.
+It moves over rubble and broken rock without slowing, and it uses the walls and fallen stone of its fort as weapons.
 
-### Additional Information
+### Water and Sound
 
-Water and loud sound disrupt the golem’s structure. The golem cannot be negotiated with or destroyed by ordinary weapons alone.
+Water working into its joints loosens the binding, and loud ringing sound shakes the signs; both weaken it.
 
 ## Attributes
 
-- **Strength:** 26-31 (1d6+25)
+- **Strength:** 34-39 (1d6+33)
 
 - **Agility:** 4-7 (1d4+3)
 

@@ -297,59 +297,75 @@ sohl:
 
 ![[smmtdrk|Summitdrake]]{float=top-left}
 
-The mountain itself seems to breathe as the creature rises from the stone—a drake of impossible size, easily forty feet from snout to tail, its scales the color of weathered granite and veined with dark streaks like the geology of the mountain made flesh. Its claws are hooks designed for climbing vertical faces, each one the length of a hand, and its teeth are like daggers of polished bone. The air around it shimmers with the heat of its breath, and you see patches of stone around its mouth melted and fused by whatever fire burns inside it. Its eyes are furnace-bright, intelligent and devoid of mercy, and they fasten on you with the certainty of a predator that knows its prey cannot possibly escape. The sound it makes is a low, rumbling growl that is felt more than heard—a vibration that runs through stone and bone alike.
+The wind on the upper shoulder of the mountain is hard enough to lean on, and the snow it carries stings. Above you the summit rocks stand black against a sky full of driven cloud. One of the rocks unfolds. It is a drake, long as a barge, gray and rust-colored and scaled in plates that look like split stone, and it stands up on the summit and spreads a pair of broad, ragged wings into the gale and does not move with it. Its head turns toward you. Its eyes are pale gold. It opens its jaws, and the sound that comes out is not a roar but a long, grinding hiss, and then it drops off the summit and comes down the wind at you.
 
 # Dossier {#dossier}
 
-Summitdrakes are the undisputed tyrants of high mountain peaks and rocky highlands, creatures of terrible power that have claimed their territories and held them against all comers for centuries or longer. A Summitdrake hunts, but it also attacks anything that might challenge its dominion. These creatures are found exclusively in harsh, high-altitude regions where weather is deadly, terrain is unforgiving, and prey is sparse but nutritious. An adult Summitdrake has no natural predators and will defend its mountain with the ferocity of a creature that has never known defeat or the possibility of retreat.
+The Summitdrake is a dreadspawn in the shape of a great winged drake, fifteen to twenty-five feet long and heavier than a war-horse, scaled in gray and rust like the rock of the high peaks. It claims a mountain and holds it, for centuries, against everything large enough to be a rival, and it hunts whatever it likes on the slopes below. It is intelligent, patient and tyrannical. One holds the summit of [[place-hydravenmnt|Mount Hýdraven]], the great peak of Provènzia's northern mountains and the source of the kingdom's water, which the [[affiliation-aelndntrbs|Áelendan Tribes]] hold sacred. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Summitdrake measures roughly 15 to 25 feet in length from snout to tail, with a considerable body mass and strength. Its hide is covered in overlapping scales of gray, brown, or rust color, arranged in patterns that echo the geological formations of its mountain home. The scales are tough enough to deflect arrows and blunt most blade strikes, and they are often scarred from territorial combat with other Summitdrakes or from weathering ages of harsh mountain conditions. Its four limbs are thick and powerful, ending in claws of terrible sharpness, and its tail is a weapon in itself—heavy, scaled, and capable of crushing with club-like force. Its head is wedge-shaped and filled with teeth of daggerlike dimensions, and its mouth glows faintly with the heat of whatever furnace burns within. Its eyes are large, intelligent, and burn with predatory calculation. The temperature rises noticeably near a Summitdrake, and the smell is of sulfur, heated stone, and ancient hunger.
+The summitdrake is long and heavy, built like a great lizard, with four powerful clawed legs, a long heavy tail and a pair of broad leathery wings folded along its back. Its scales are thick overlapping plates of gray, brown and rust, patterned like stratified rock, and they turn arrows and most blades. Its head is long and heavy-jawed, crowned with a ridge of horn, and its eyes are pale gold. It climbs rock as easily as a spider climbs a wall, flies strongly in gales that ground every bird, and stands motionless on a summit for days in the coldest weather. It hisses; it does not roar. It smells of cold stone and old blood.
+
+## In the Land
+
+Hýdraven is the highest of the northern mountains, where Provènzia's cold uplands run up toward Élavendre, and the great springs that water the kingdom rise on its shoulders. The summitdrake holds the upper mountain: the summit rocks, the high ridges, the snowfields and the cirques above the springs. It hunts the slopes below, mountain goats and ibex, the sheep of the lower pastures in summer, bears, and anything else large, and it patrols the ridges on regular rounds. It attacks anything large enough to challenge it on sight and ignores what is too small to matter. It does not come down below the high pastures, and the springs themselves it seems to leave alone.
 
 ## Key Behaviors
 
-A Summitdrake is a solitary, fiercely territorial creature that claims a mountain or a range of peaks and defends it relentlessly. It maintains regular patrol routes around its territory, and anything large enough to be considered competition is attacked on sight. Smaller creatures are generally ignored unless they blunder directly into the creature's presence. A Summitdrake hunts regularly, pursuing mountain goats, wild aurochs, or occasionally large humanoid prey if they venture high enough into its territory. It has a nest or lair in some high, inaccessible place, and a gravid female becomes doubly aggressive, attacking anything that approaches her nesting site. An ancient Summitdrake may have held the same territory for centuries, and mountains with such creatures come to be known throughout the region as places of danger to be carefully avoided.
+The summitdrake is solitary and territorial past any animal's measure. It patrols, it watches from the summit, and it drives out or kills every rival: eagles, bears, wolves and, once in a generation, a younger drake. It plans: it knows its mountain in every detail, remembers every intruder, recognizes weapons and armor and formations, and adjusts its attack to suit. It eats when it hunts and leaves the rest. It has held the mountain longer than anyone's records, and it behaves as though it expects to hold it forever.
+
+## What the Shepherds and the Tribes Do
+
+The shepherds who use Hýdraven's lower pastures by arrangements older than the kingdom keep their flocks below the line of the last juniper, and every summer they lose a few sheep anyway, and count them as part of the arrangement. Pilgrims who come the customary way are let alone by the tribes, and the pilgrims' way does not go above the springs. The Áelendan do not explain the drake to outsiders and do not, so far as anyone can tell, hunt it. Provènzia's three attempts to survey the watershed were turned back by the tribes before they got high enough to meet it. The bodies that come down with the thaw most years, carried to the nearest Provenzian village without comment, are mostly those of men who climbed too high in the wrong season, and some of them were not killed by the cold.
+
+## Signs
+
+- A great shape on a summit that is there one day and gone the next, and back again.
+- The carcasses of ibex and bears on high ridges, opened by huge claws and only partly eaten.
+- A long, grinding hiss carried down the wind from the high rocks.
+- Claw-scored rock on the lips of high ledges, where something heavy lands and takes off.
+- No eagles anywhere on the upper mountain.
 
 ## Combat Strategy
 
-A Summitdrake initiates combat by using the terrain to its advantage, attacking from high ground and using its superior climbing ability to maintain positional advantage. It uses its massive strength to overcome opponents through sheer force, relying on crushing bites, raking claws, and tail sweeps to devastate anything in its path. The creature is intelligent enough to recognize tactics and adjust accordingly, but it rarely needs to—its raw power is so overwhelming that subtlety is often unnecessary. A wounded Summitdrake becomes more aggressive, not less, its territorial instincts overriding any self-preservation. Only if facing truly overwhelming opposition will a Summitdrake consider retreat, and even then it will fight until it has reached its lair.
+A summitdrake attacks from above and from the high ground, diving out of the wind or charging down a slope. It fights with its whole strength: crushing bites, raking claws, and tail sweeps that throw men off ridges. It uses the mountain, keeping its enemies below it, on ice and loose rock, and fighting where they cannot stand together. It recognizes formations and weapons it has seen before and avoids what has hurt it. If a fight goes badly it takes to the air and comes back another day, in worse weather.
 
 ## Attack Methods
 
 ### Crushing Bite
 
-The Summitdrake's jaws snap closed with bone-breaking force, capable of crushing armor and bone alike. A successful bite can sever limbs or kill in a single strike.
+The jaws close with bone-breaking force on a limb, a shoulder or a body, crushing armor and bone, and a bite can take off an arm or kill outright.
 
 ### Raking Claws
 
-The creature's fore limbs strike with devastating power, each claw capable of piercing through armor and creating terrible wounds. Multiple strikes can be delivered in rapid succession.
+The forefeet strike in quick succession, the claws piercing armor and tearing deep wounds.
 
 ### Tail Sweep
 
-The creature's massive tail swings in wide arcs, capable of knocking several opponents off their feet or crushing a single target with world-ending force.
+The heavy tail swings in a wide arc, knocking several men off their feet at once, or crushing one, and on a ridge throwing them off it.
 
 ## Special Abilities
 
 ### Mountain Mastery
 
-The Summitdrake moves through mountainous terrain with perfect ease, climbing vertical faces as readily as a spider moves across a wall. In rocky terrain it moves faster, and steep or broken ground does not slow it.
+It climbs sheer faces as readily as a spider climbs a wall and moves over broken rock, ice and snow faster than over level ground. On its wings it rides gales that ground everything else.
 
 ### Thermal Resilience
 
-The Summitdrake is naturally resistant to extreme cold, thriving in high-altitude environments that would kill lesser creatures. It is comfortable in extremes that would freeze humans solid.
+It shrugs off cold that would freeze a man solid and thrives on the highest, coldest ground.
 
 ### Predatory Intellect
 
-The Summitdrake demonstrates intelligence comparable to that of humanoid races, capable of planning, remembering, and adapting its tactics. It recognizes weapons, armor, and tactical formations and will adjust its behavior accordingly.
+It plans, remembers and adapts, recognizes weapons, armor and formations, and changes its tactics to defeat them.
 
 ### Regeneration in Natural Habitat
 
-While in mountainous terrain where it is most comfortable, the Summitdrake regenerates slowly from wounds. Removal to other environments or sustained magical damage can overcome this regeneration.
+On its own mountain it heals slowly but surely. Away from the high rock, its wounds heal no faster than any beast's.
 
-## Additional Information
+### Fire Resistance
 
-The Summitdrake is vulnerable to cold-based magic, which seems to disrupt its internal heat and slow its movements. Water and ice can also affect it, though it resists ordinary cold. Fire and heat-based attacks are largely ineffective. The creature's scales, if harvested after death, can be crafted into armor of rare quality and durability. Its teeth can be fashioned into weapons that retain the creature's natural sharpness and durability. The bones are extraordinarily dense and valuable for tool-making or weaponcraft. A Summitdrake's corpse is so valuable a prize that expeditions have been mounted specifically to claim one, though most such expeditions end in failure or death. The few communities successful in slaying a Summitdrake often base their entire regional economy on the sale and processing of its remains for decades.
+Fire and heat barely trouble it. Water, ice and bitter cold worked by magic slow it far more than any flame.
 
 ## Attributes
 

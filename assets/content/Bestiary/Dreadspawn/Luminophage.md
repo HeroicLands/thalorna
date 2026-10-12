@@ -165,51 +165,67 @@ sohl:
 
 ![[lmnphg|Luminophage]]{float=top-left}
 
-A soft, pulsing radiance emanates from the shadows overhead—beautiful and hypnotic, yet radiating an almost nauseating wrongness. The light intensifies as a segmented, translucent shape descends from the darkness, its pale body wreathed in sickly luminescence that casts impossible shadows on the walls. The air grows cold, and you notice the smell of burned ozone and decay. Two points of pure brilliance fixate on you from within the glow, and you hear a faint, wet clicking sound as translucent appendages unfurl, lined with quivering needle-points that glisten with venom.
+The tomb-cutter's lamp gutters as you come round the bend of the passage, and then steadies, and then begins to fade as if its oil were running out, though the bowl is full. Ahead, the passage opens into a burial chamber, and the chamber is lit: a cold, pulsing, green-white glow coming from the ceiling. Something is hanging there. It is pale and translucent, like a great jellyfish made of horn, and the glow runs along channels inside it. From its body hang long jointed arms, eight of them, each ending in a cluster of fine needles, and they sway very slightly. Your lamp goes out. The glow on the ceiling brightens.
 
 # Dossier {#dossier}
 
-Luminophages are parasitic predators that haunt deep, lightless places—caverns, sunken ruins, and the abyssal depths of underground waters. They have made light itself a weapon, using bioluminescence as both lure and feeding mechanism. When they find a chamber, they settle into the ceiling or walls and wait with preternatural patience for wanderers drawn to their glow; once prey draws close enough, the creature strikes with lethal precision, paralyzing its victim with neurotoxic venom while slowly draining its life force and absorbing any light sources in the area, leaving survivors in absolute darkness.
+The Luminophage is a dreadspawn that hangs from the roofs of dark places: a translucent, segmented body like a jellyfish built on a scorpion's plan, five to eight feet from crown to the tips of its arms, which floats through the air and feeds on light and blood. It drains the light from lamps and torches, glows with what it has taken, and draws prey to its glow, then stings it helpless with needle-tipped arms. It is found in caverns, cut tombs and deep passages, and one has made the cavern-tombs of [[place-zebtrelptslt|Zebt-Relepet Selat]], on the upper river of Aû'Khelâthu, its ground. Like every dreadspawn it was made, it is alive, and it does not breed. The tomb-cutters know it as the thing that eats lamps.
 
 ## Presentation
 
-A Luminophage resembles a grotesque jellyfish merged with a scorpion, elongated and segmented, measuring 5 to 8 feet from crown to the tips of its longest appendages. Its translucent, chitinous body is a sickly pale white or wan gray, veined with channels that pulse with acidic luminescence in shades of green, blue, or phosphorescent white. Six to eight prehensile appendages hang from its body, each tipped with a cluster of needle-like proboscises. When agitated or feeding, the creature emits a rhythmic clicking or chittering sound, and the intensity of its bioluminescence increases dramatically, casting a hypnotic, strobing glow. It moves with disturbing fluidity, able to scuttle sideways or upside-down with equal ease, and can suspend itself from any surface indefinitely.
+The body is a translucent dome of pale chitin, white to wan gray, shading into a long segmented tail, and through it run channels that pulse with a cold light in green, blue or white. Six to eight jointed arms hang from the underside, each ending in a cluster of fine needles. It hangs from a ceiling by hooked feet at the crown, or floats free in the air, drifting slowly, without wings and without sound. Its glow brightens and dims in a slow rhythm that holds the eye. Near it, every other light weakens: flames shrink and go blue and die, and the luminophage brightens as they go.
+
+## In the Land
+
+Zebt-Relepet is a plain, workmanlike mortuary selat, its cliffs cut with cavern-tombs for the dead and its flats dug for the natron the embalmers need. The luminophage holds the oldest of the cavern-tombs, deep in the cliffs, where the passages run back past the sealed chambers into natural caves no one mapped. It hangs in a chamber for weeks, then drifts along the passages to another. It feeds on bats, on the cave crickets and lizards of the tombs, on the jackals and foxes that come in after the offerings, and on the tomb-cutters, priests and robbers who carry lamps into the dark. It never comes out into daylight.
 
 ## Key Behaviors
 
-Luminophages are solitary hunters that stake out territories in perpetually dark spaces where other creatures occasionally venture. They remain motionless for hours or days, their glow the only sign of their presence, radiating outward as a beacon that seems to draw weaker-willed creatures toward them compulsively. They are drawn to any source of light—torches, lanterns, magical illumination—and will attempt to drain or consume it, leaving behind only oppressive darkness. Luminophages breed slowly; a gravid female may lay a clutch of translucent eggs on high cave walls, which hatch into juvenile forms no larger than a clenched fist. These juveniles cling to dark stone until they have grown large enough to hunt.
+A luminophage waits on a ceiling, glowing, for days. Light draws it: a lamp coming down a passage brings it drifting toward it, and when it is near enough it drains the flame and grows brighter. Its glow, in a dark place, draws living things in their turn, and a creature that stares at it too long walks toward it. When prey is under it, it drops its arms, drives the needles in, and holds on while the venom takes hold. Then it feeds, slowly, drawing blood through the needles. It is solitary, cautious and intelligent, and it avoids a fight it is not sure of.
+
+## What the Tomb-Cutters Do
+
+The cutters who carve new tombs into the cliffs and the priests of [[affiliation-wethur|Wethûr]] who serve the dead there have rules for the old passages. Nobody goes into the deep tombs with only one light: a party carries a lamp for each man and a pitch torch besides, and if the lamps start to fade together, everyone turns back at once. A tomb chamber with a cold glow in it is not entered. The cutters have learned that fire hurts the creature, and they keep a pot of burning pitch at the mouth of any passage they work. The embalmers buy its venom when one of the creature's needles can be found broken off in a cutter's arm, and they use it, they say, to keep the dead still. Tomb-robbers who come for the old burials think the creature guards them. The cutters say it guards nothing; it only eats what comes.
+
+## Signs
+
+- Lamps and torches that dim, burn blue and go out in a passage where there is no draft.
+- A cold, pulsing green-white glow in a tomb chamber with no lamp in it.
+- Bats, jackals and foxes found in the tombs dead and bloodless, with clusters of fine punctures.
+- Pale, translucent flakes of shed chitin on a chamber floor, still faintly glowing.
+- A man who stood staring at a light in the dark and had to be pulled away from it.
 
 ## Combat Strategy
 
-A Luminophage begins an encounter by intensifying its glow, attempting to mesmerize or distract prey with the hypnotic pulsing of its light. If a target appears weak-willed or slow to act, it may close the distance slowly, drawing them in with the promise of illumination before striking. Once combat erupts, the creature relies on its superior dexterity to position multiple appendages for coordinated attacks. It avoids prolonged melee if possible, preferring to paralyze prey and retreat to a defensible position where it can feed at leisure. If wounded or facing overwhelming numbers, a Luminophage will douse its glow entirely and flee into the nearest crevice or down into deeper water, disappearing from sight.
+A luminophage opens by draining the party's light and brightening its own glow until someone stares and steps toward it. It strikes the one who comes closest, needling him from above with several arms at once, and holds him while the venom works. Against a party that fights back it drifts out of reach and strikes at whoever is weakest. It avoids a long fight, and fire, which burns its body and overwhelms its senses, makes it withdraw. It is slower in bright light, and it does not follow anyone into daylight.
 
 ## Attack Methods
 
 ### Needle Strike
 
-The creature's appendages lash out with surgeon-like precision, driving clusters of venomous proboscises into exposed flesh. These attacks are accurate, made more so by the precision with which the creature guides its appendages.
-
-### Paralytic Venom Injection
-
-Successful needle strikes inject a potent neurotoxin that spreads rapidly through the victim's body. Affected targets lose mobility and find themselves helpless while the Luminophage feeds.
+The arms drop and drive clusters of fine needles into exposed skin, precisely and from several directions at once. The needles bite deep, and through them the creature injects its venom and draws blood.
 
 ## Special Abilities
 
+### Paralytic Venom
+
+The venom spreads fast. A man needled several times loses the use of his limbs and is held helpless while the creature feeds.
+
 ### Bioluminescent Lure
 
-The creature's hypnotic glow can fascinate weaker-minded targets, compelling them to approach despite conscious misgivings. Those of strong will or clear mind can resist the compulsion, but others find themselves drawn inexorably forward.
+Its glow fascinates. A man who looks at it too long walks toward it in spite of himself; a strong will or a clear head can refuse the pull.
 
 ### Light Absorption
 
-Luminophages drain the luminous energy from any light source they can reach, extinguishing flames, dimming magical light, and converting the absorbed energy into their own bioluminescence. A torch can be drained in moments.
+It drains the light from any flame or lamp near it, snuffing torches in moments and dimming even magical light, and grows brighter with what it takes.
 
 ### Darkness Adaptation
 
-The creature sees perfectly in absolute darkness and moves as easily in the black as in daylight. In well-lit areas, it becomes slightly sluggish, its reflexes diminished.
+It sees perfectly in total darkness and moves through it easily. In strong light it is sluggish and slow to react.
 
-## Additional Information
+### Fire Weakness
 
-Fire poses the greatest threat to a Luminophage—flames damage its translucent body directly and overwhelm its senses, causing it to withdraw. Its venom can be extracted and preserved in ceramic vessels, and alchemists prize it for medicinal purposes or the creation of poisons. The chitin plates along its back, when harvested carefully, can be fashioned into armor or magical foci that retain faint bioluminescent properties for years. Some isolated communities have learned to trap Luminophages in light-filled chambers, where the creatures become docile and can be contained; a few mad scholars keep them as living lanterns, accepting the constant threat of paralysis as the price of endless illumination.
+Fire burns its translucent body and overwhelms its senses, and a burning torch thrust at it makes it withdraw.
 
 ## Attributes
 

@@ -244,59 +244,71 @@ sohl:
 
 ![[glssfng|Glassfang]]{float=top-left}
 
-Nothing is there, and then something is—a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat, its intent plain in eyes like crystal slivers.
+The workshop is bright: three tall windows, a bench of glass vessels, a lens on a brass arm throwing a spot of sunlight on the floor. The spot of sunlight bends. It slides sideways across the boards as if the lens had moved, and the lens has not moved. Something is crossing the floor that you cannot see, a ripple in the light the size of a cat, and where it passes the edges of things waver like heat over a road. A glass flask on the bench rings faintly, all by itself. Then there are two small dark points in the air at knee height, eyes, and under them a curve of fangs like clear ice, and the ripple comes at you very fast.
 
 # Dossier {#dossier}
 
-Glassfangs are magical predators born where light magic concentrates in the physical world, small hunters of terrible speed and lethality. These creatures hunt in places of bright light and magical radiation, moving through the world nearly invisible. Adventurers encounter them in crystalline caverns, in places of high magical concentration, near ancient magical sites, and in areas where light refracts unpredictably.
+The Glassfang is a small dreadspawn of clear, living crystal, about the size of a big cat and eighty pounds in weight, nearly invisible in bright light, with fangs that cut through leather and a venom that weakens and paralyzes. It hunts fast and alone, and it is drawn to light and to places where magic is worked. One is loose in [[place-beravel|Béravel]], in the University of the [[affiliation-ordoarcanis|Ordo Arcanis]] and the workshop quarter round it, in [[place-tirwen|Tirwen]], the heartland of Élavendre, and the Ordo has been trying to catch it for three years. Like every dreadspawn it was made, it is alive, and it does not breed. How it came to the University is the question the Ordo least wants asked.
 
 ## Presentation
 
-The Glassfang is a small predator, roughly the size of a large cat or small dog, composed almost entirely of transparent crystalline material. Its body is sleek and built for speed. Its scales are smooth yet razor-edged, capable of cutting on contact. Its most distinctive feature is its mouth—full of curved fangs made of crystal so clear they’re nearly invisible, yet capable of piercing through most materials. Its eyes are the only opaque features: small, dark points within the crystal body that burn with intelligent predatory focus. The creature produces a faint chiming sound as it moves, like wind-chimes or crystal striking crystal. In bright light, it becomes almost completely invisible, visible only as a shimmer or distortion of light. In dim light, it is somewhat more visible.
+The glassfang is sleek and low, built like a weasel or a small cat, and almost entirely transparent: a body of clear crystal that bends the light passing through it, so that what is seen through it wavers and shifts. Its skin is a sheath of tiny, hard, razor-edged scales that cut whatever brushes them. The fangs are long, curved and clear as ice. The eyes are the only opaque part of it, two small dark points that seem to hang in the air. In bright light it is a ripple and nothing more; in dim light a faint glassy outline; in the dark a shape picked out by the glints of whatever light there is. It makes a faint ringing sound when it is struck or when it brushes glass.
+
+## In the Land
+
+The glassfang hunts the University's buildings and the workshops of the glassmakers, instrument-makers and goldsmiths round it, and above all the rooms where the Ordo's scholars work their arts. It is drawn to light, to lenses, to glass and to working magic, and it returns again and again to the same few laboratories. By day it hides in sunlit attics, glasshouses and window-bays, where it cannot be seen at all. It hunts rats, pigeons, cats, dogs and, three times now, people. It has never been seen outside the city and does not seem to want to leave, and it moves along the roofs, the gutters and the warm flues from one quarter of the University to another.
 
 ## Key Behaviors
 
-The Glassfang is a solitary, highly active hunter that spends most of its time in motion, stalking prey. It prefers bright environments where its near-invisibility is most effective, but it will hunt in lower light if prey is available. It demonstrates considerable intelligence in understanding prey behavior and setting ambushes. The creature shows no territorial behavior—it simply hunts where prey exists. It feeds frequently, consuming small creatures and the life-force of magical beings. It shows no social behavior and exhibits no interest in other Glassfangs beyond territorial avoidance. When injured, it becomes erratic and aggressive rather than cautious.
+The glassfang is always moving. It stalks, waits beside a door or under a bench in strong light, strikes, and is gone, and it feeds often, on small animals, by preference. It is intelligent: it learns the hours a workshop is empty and the hours a scholar works alone, and it sets ambushes. It has no lair, only favored hiding-places, and it does not defend ground. When it is hurt, it runs, faster and farther than anything chasing it, and it does not come back to a place where it was hurt for a long time.
+
+## What the Ordo Does
+
+The Ordo Arcanis has not announced that a dreadspawn is loose in the University, and the city knows anyway. Masters who work alone after dark now work in pairs, with a hand-bell on the bench and a lead-weighted cudgel within reach, because a ringing note distresses the creature and a blunt blow breaks it where a blade skates off. Several laboratories have been fitted with wards that ring a chime when something crosses the threshold unseen, and the glassmakers' guild sells the chimes. Fine sand scattered on a workshop floor overnight shows its tracks in the morning. The Ordo pays a standing reward for its body, and the [[affiliation-bardicolgs|Bardic Colleges]] and the Grove Council, who contest the Ordo's authority over the kingdom's supernatural life, have pointed out in public, politely, that the Ordo has failed to collect it.
+
+## Signs
+
+- A ripple in bright light, like heat over a road, moving across a floor where nothing is visible.
+- Glassware ringing on a shelf when no one has touched it.
+- Rats, pigeons and cats found dead with two clean, deep punctures and fine cuts along their fur.
+- Tiny, clear, razor-sharp flakes of crystal on a windowsill or a workbench.
+- Small footprints in sand or flour that start and stop with nothing to make them.
 
 ## Combat Strategy
 
-The Glassfang relies absolutely on surprise and invisibility. It stalks prey until certain of advantage, then strikes with explosive speed and ferocity. Its opening attack is a bite from concealment, aiming for vital areas. If that initial strike does not immediately incapacitate prey, it attacks again in rapid succession, using speed and invisibility to prevent retaliation. If it takes significant damage, it attempts to break contact and flee, using its speed to escape. It does not engage in prolonged combat with anything that matches its physical durability. If pursued, it uses light refraction and terrain knowledge to break line of sight and escape.
+The glassfang depends on surprise. It stalks until it is sure, then bites from where it cannot be seen, aiming for the throat or the inside of a limb, and bites again and again as fast as it can while its victim strikes at air. It throws shards of its body at anyone who comes to help. If it is hurt it flees at once, and nothing on legs can catch it. It is most dangerous in small, bright rooms, and least in the dark or in open ground, where a man can see its outline and outrun its first rush.
 
 ## Attack Methods
 
 ### Crystalline Bite
 
-The Glassfang lunges with tremendous speed, attempting to bite the target with its razor-edged fangs. The bite is designed to cause bleeding and open severe wounds; the fang edges can penetrate armor that would stop normal teeth.
+The glassfang lunges and bites with clear, razor-edged fangs that cut through leather and many layers of cloth. The wounds are deep and bleed freely, and the fangs carry its venom.
 
-### Venomous Injection
+### Shard Release
 
-The fangs themselves secrete a magical venom that courses through the bitten victim’s bloodstream. The venom causes a weakness that deepens with each bite and may end in paralysis.
-
-### Crystalline Shard Release
-
-When threatened or injured, the Glassfang can deliberately dislodge shards of its body and propel them toward threats. These shards are razor-sharp and travel with surprising speed; the creature can release multiple shards in succession.
+When it is threatened or hurt, the glassfang throws shards of its own body, flicked off its flanks at speed, one after another. They are razor-sharp and hard to see coming.
 
 ## Special Abilities
 
+### Venomous Fangs
+
+Its fangs carry a venom that weakens the bitten man, more with each bite, until his limbs grow heavy and, after several bites, he cannot move.
+
 ### Transparency
 
-The Glassfang’s crystalline body refracts light in ways that render it nearly invisible. In bright environments, it is effectively invisible unless moving rapidly. In dim light, it is difficult to see but not impossible. It can approach prey unseen even across fairly open ground.
+Its body bends light round it. In bright light it is effectively invisible unless it moves fast; in dim light it can be seen with care. It crosses open floors unseen.
 
 ### Crystalline Fragility
 
-The Glassfang’s transparency and hardness come at the cost of brittleness. While it resists slashing and piercing damage (the edges of its scales deflecting blades), it is extremely vulnerable to blunt blows, loud sound, and vibration. A single solid hit from a hammer or blunt weapon can crack or shatter sections of its body, severely impairing function.
+Its scales turn blades, but it is brittle. A solid blow with a hammer, a cudgel or anything heavy cracks and shatters it, and loud ringing sound and vibration hurt it.
 
 ### Light Refraction
 
-The Glassfang can deliberately bend light around itself, creating distortion effects that confuse visual predators. It can create blinding flashes of refracted light to disorient pursuers or prey.
+It bends light deliberately to confuse eyes, and it can throw a sudden, dazzling flash of refracted light to blind a pursuer for a moment.
 
 ### Predatory Acceleration
 
-The creature’s physical form allows for sustained high-speed movement. It can sprint at great speed without tiring and can maintain that speed for extended periods, making pursuit nearly impossible for normal creatures.
-
-## Additional Information
-
-Glassfangs are vulnerable to sonic and vibration-based attacks, which shatter their crystalline structure. Blunt-force weapons are more effective than blades. The creature’s near-invisibility makes it most dangerous in small spaces where escape is difficult—in open ground, prey can potentially flee into areas where their higher endurance provides advantage. Some wizards and mages specifically protect their laboratories with anti-Glassfang wards, suggesting these creatures are drawn to sources of magical radiation.
+It runs very fast and keeps running, and once it has fled no one catches it.
 
 ## Attributes
 
@@ -315,3 +327,5 @@ Glassfangs are vulnerable to sonic and vibration-based attacks, which shatter th
 - **Reasoning:** 6-9 (1d4+5)
 
 - **Creativity:** 9-12 (1d4+8)
+
+- **Strength:** 7-10 (1d4+6)

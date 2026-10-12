@@ -217,55 +217,67 @@ sohl:
 
 ![[phntmwng|Phantomwing]]{float=top-left}
 
-A shape moves across the sky that shouldn't be there—too pale, too thin, too wrong. When it passes between you and the sun, the shadow it casts is not quite the shape of a bird, and sunlight seems to pass through it in odd ways. The sound of its wings reaches you only after it has already passed, a susurrus like wind through a tomb. There is sadness in its presence, the way a funeral bell carries meaning beyond mere sound.
+The well is a day behind and the next one four days ahead, and the camp in the stone desert is silent under a sky crowded with stars. Something crosses the stars. It is a bird, a hawk or an eagle, wide as two men are tall, and you can see the stars through it: it is made of pale light and nearly nothing. It circles the camp low, once, twice, and lands on the stack of saddles, and folds its wings, and looks at the sleeping men one after another, slowly, as if it were looking for one face among them. It does not find it. It opens its beak, and the sound that comes out is the loneliest sound you have ever heard.
 
 # Dossier {#dossier}
 
-Phantomwings are the spirits of creatures that died far from their birthplace—great birds that fell over foreign lands, or creatures whose connections to home were severed before death. They exist in a state of perpetual search, seeking a place they can no longer reach. They are not inherently hostile, but they are desperately lonely, and sometimes they pursue living beings in the hope of companionship or guidance. A Phantomwing may follow a caravan for weeks seeking only the sound of living voices. Alternatively, they may become violent, unable to accept that the world has moved on without them.
+The Phantomwing is the spirit of a winged creature that died far from home, a great bird, most often, that fell over a foreign land with every tie to its own country cut, and whose soul was never received anywhere. It is pale, nearly transparent, and endlessly searching, and it follows the living in the hope of a companionship it cannot have. It is not a predator, and it is dangerous only when cornered, and to those who stay near it too long. On [[lore-celestialroad|the Celestial Road]] across the Khazryn, the phantomwings haunt the last stage, the stone desert and cold high steppe of [[place-idwkrrgn|Idwakor]] before Tānvür's western passes, and the caravans know them.
 
 ## Presentation
 
-A Phantomwing has the general shape of a large raptor or eagle, with a wingspan approaching fifteen feet, but the form is composed of pale luminescence and semi-visible matter. It is almost transparent, and the landscape beyond shows through its body, though always slightly distorted as if seen through frosted glass. Its wings are tattered and worn, as though it has been flying through storms and through centuries. Its eyes are the sharpest part of its form—large and distinctly present, usually luminous pale blue or gray, and containing an overwhelming sadness. When it moves, the air seems to waver, and sometimes it cannot be seen at all, only the wake it leaves in the air.
+A phantomwing has the shape of a great raptor, with a wingspan approaching fifteen feet, but its body is pale light and semi-visible matter, and the landscape shows through it. Its eyes are the most solid part of it, dark and searching. It flies without a sound, and its shape thins and thickens as it moves. When it cries, the sound is like wind through broken glass and an animal's last cry together, and those who hear it close feel a grief that is not their own.
+
+## In the Land
+
+Idwakor is the last eight hundred miles of the Celestial Road, black rock and pale gravel climbing by long steps to a cold high steppe, with wells four to seven days apart and nights that freeze the water in the skins. Caravans on the road carry hunting hawks and eagles, traded or gifted between Byzarian and Tānvüri merchants, and birds die on the road; the cold kills them, or the wind takes them, or their masters die. The phantomwings are those birds. They haunt the high places of Idwakor, the ridges, the rock towers and the cliff-cisterns, and they come down to the caravans at night, searching. They are seen most on overcast days and moonless nights.
 
 ## Key Behaviors
 
-Phantomwings are solitary and nocturnal by preference, though they sometimes become active during overcast days when shadows are deep. They are drawn to high places—peaks, cliffs, and high towers—from which they seem to search the landscape endlessly. They do not hunt living creatures for food; they simply drift and search. If a Phantomwing becomes fixated on a person, it will follow them persistently, sometimes protectively. Some tales speak of Phantomwings guiding lost travelers to safety, while others describe them leading people into dangerous places in confusion about what they were doing. They are harmless until something triggers aggression—usually, the attempt to capture them or direct them elsewhere.
+A phantomwing searches, endlessly: for its home, its master, its kind. It roosts on high places and watches the land, and when a caravan comes by it follows, landing near the camp at night and looking at the sleepers. It is solitary and avoids fighting. Simply being near it for a long time brings on melancholy and despair, and a caravan that a phantomwing follows for days becomes quarrelsome and withdrawn, and its men start talking of home. A phantomwing that is cornered, or that loses the caravan it has fastened on, grows desperate and attacks.
+
+## What the Caravans Do
+
+The caravan-masters who sell the road a stretch at a time know that a phantomwing following a caravan costs days, because the men lose heart, and they deal with it. A caravan carrying a living hawk keeps it hooded at night, because a phantomwing comes to a living bird of its own kind and does not leave it. The masters' remedy, learned from the tribes of Idwakor, is to give the phantomwing what it searches for: a feather or a jess from a bird of its own country, burned on a fire of dung at dawn, with the country's name said over it. Some caravans swear by it. The [[lore-tanthei|Tānthëi]] registrar at the frontier way-station enters each phantomwing seen on the road in the register, with the date and the bird it seems to have been, because the empire writes everything down.
+
+## Signs
+
+- A pale bird seen against the stars that the stars show through.
+- A cry at night from a ridge, like wind through broken glass, and a grief that settles on a camp after it.
+- Hooded hawks that will not settle, and turn their heads to follow something no one can see.
+- Men on a crossing who begin to quarrel and talk of home for no reason.
+- Faint, cold marks, like claw-scratches without blood, on the arm of a man who woke in the night.
 
 ## Combat Strategy
 
-Phantomwings do not seek combat. If forced into it, they become desperate and dangerous, but they would prefer to flee. They use their intangibility to avoid strikes and retreat to open sky. If cornered, a Phantomwing becomes vicious and will attack the source of its entrapment with focused fury. It fights with less cunning than material creatures—it lashes out in desperate patterns rather than executing strategy. Against opponents who cannot harm it (those without magical or blessed weapons), it ignores them entirely and seeks only to escape.
+A phantomwing does not seek a fight. If attacked it slips away into the sky, letting blows pass through it. Cornered, it becomes desperate and vicious, raking with its talons and crying out to paralyze its attackers with grief, and then it flees again. Holy power, magic and blessed weapons strike it fully; ordinary weapons do little.
 
 ## Attack Methods
 
 ### Ethereal Talons
 
-The spirit extends its claws and rakes them across a victim. The claws pass partially through normal matter but connect with supernatural force. The wounds are not deep physically, but they leave the victim feeling as though part of their essence has been torn away.
-
-### Spectral Screech
-
-The Phantomwing emits a sound like wind through broken glass and a creature's final cry combined. Those who hear it directly experience overwhelming sadness and disorientation. Victims find themselves unable to move with purpose, frozen by the weight of the creature's grief.
+The phantomwing rakes with talons that pass partly through flesh. The wounds are shallow, but the victim feels as if part of himself had been torn away with them, and he is left cold and weak.
 
 ## Special Abilities
 
+### Spectral Screech
+
+Its cry is grief made sound. Those who hear it close are overwhelmed by sorrow and confusion and cannot act with purpose for a time.
+
 ### Phasing
 
-The Phantomwing exists partially out of synchronization with the material world. Physical weapons pass through it with minimal effect. However, magical and holy attacks strike it fully, as does the touch of blessed weapons.
+It is only partly in the material world. Ordinary weapons pass through it with little effect; magic, holy power and blessed weapons strike it fully.
 
 ### Aerial Mastery
 
-The creature is at home in the sky in a way that nothing material can match. In open air, it gains tremendous advantage in mobility and combat positioning.
+In open air nothing material can match its movement.
 
 ### Mournful Presence
 
-Simply being near a Phantomwing for extended periods causes melancholy and despair. Those in close proximity for more than an hour begin to suffer from sadness and fatigue. Companions become irritable and withdrawn. This is the natural effect of prolonged exposure to such overwhelming grief, not a supernatural compulsion.
+Long company with it brings melancholy and fatigue. Those near it for more than an hour grow sad, tired and irritable.
 
 ### Incorporeal Vision
 
-The Phantomwing can perceive the world in ways that material creatures cannot. It can see through mist and fog, detect emotional auras, and sense disturbances in the spiritual realm.
-
-## Additional Information
-
-Phantomwings are often the harbingers of strange weather or magical phenomena. Their presence sometimes indicates that the boundary between the living world and the spirit realm is thin. Clerics and good-natured magic users sometimes attempt to help Phantomwings find peace, guiding them back to their homeland or granting them release from their search. Some who have succeeded report deep gratitude, with the Phantomwing's presence lingering protectively over those who helped it. A Phantomwing killed does not remain dead—it simply manifests again later, still searching. Permanent peace requires spiritual resolution, not violence.
+It sees through mist and darkness, senses the feelings of the living, and perceives disturbances in the spirit realm.
 
 ## Attributes
 

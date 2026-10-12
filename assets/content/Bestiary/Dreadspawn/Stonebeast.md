@@ -269,55 +269,71 @@ sohl:
 
 ![[stnbst|Stonebeast]]{float=top-left}
 
-The mountainside moves. You know this is impossible, and yet the stone itself shifts and rises—plates of it sliding across each other with a sound like avalanche, like the world breaking. Then you see it whole: a creature of mountain-sized density and alien geometry, wrought from cracked stone and obsidian, its bulk barely contained by its rough, irregular shape. Obsidian eyes glow from deep recesses, burning with a light like subterranean fire, and you feel the tremor of each movement in your bones and teeth. Where it steps, the ground cracks, and you realize this thing is not simply massive—it is heavy beyond measure, as though it carries the weight of the earth itself within its petrified body.
+The cave under the col is bigger than it looked from outside, and its floor is heaped with fallen rock, and in the middle of the heap is a mound of black stone and gray crystal as long as two wagons. The garrison's quarrymen were cutting stone from the cave wall when the mound moved. Now it is rising: blocks of stone grinding apart and settling into four legs, a body like a fallen tower, a squared head that turns toward the light of the cave mouth. Two eyes of black glass are set deep in it, and something burns behind them. Dust and pebbles pour off its back. When it takes its first step the whole cave shakes, and the roof above the cave mouth begins to crack.
 
 # Dossier {#dossier}
 
-Stonebeasts are ancient guardians that predate humanoid civilization, creatures of pure earth and stone that seem to have emerged from the deep places where mountains form and the world settles. They are ordinarily dormant—passive, stationary residents of caverns and stone labyrinths—but once disturbed or provoked, they become implacable forces of destruction. A Stonebeast's intelligence is minimal but not absent; it understands territory, intruders, and the concept of threat. Most of these creatures are found in deep places: the hearts of mountains, the hearts of ancient stone structures, and in the lightless depths where caves descend beyond the reach of normal exploration. An old Stonebeast may have rested in the same location for millennia, waiting in perfect stillness until something dares to disturb its domain.
+The Stonebeast is a dreadspawn of living stone: a four-legged mass of rock and crystal twenty feet long and many tons in weight, which lies dormant in caverns, sometimes for centuries, and wakes when something disturbs it. Then it destroys whatever woke it, slowly and completely, and goes back to sleep. One sleeps in a cavern under the col of [[place-sankhadvra|Shankhadvāra]], beneath the black face of [[place-kalashkhra|Kālashikhara]] at the end of the Eastern Reach, a few hundred yards from [[place-sanghafort|the Sangha-fort]], the one standing garrison the temple-republics of Vedyara keep. It has woken twice in the fort's four centuries. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Stonebeast stands 20 feet in length, its body an irregular mass of blocky stone and crystalline formations, shaped vaguely like a quadrupedal creature but with anatomy that favors weight and stability over natural form. Its "head" is a roughly cubic protrusion, with eyes of polished black obsidian set deep within, burning with a slow, deep amber light that seems to come from the creature's interior rather than reflected from outside sources. Its limbs are pillars of stone, thick and unadorned, ending in roughly articulated digits that look less like claws than like chunks of stone that have barely achieved independent movement. Its surface is weathered and cracked, with seams showing layers of different stone types—granite, basalt, obsidian, veins of crystalline minerals. Where it moves, stone dust billows, and the smell is of deep caverns and minerals, a scent that burns the back of the throat. When it speaks—if what it does can be called speaking—the sound is of grinding stone, a low note felt more than heard.
+The stonebeast is shaped roughly like a great four-legged beast built of stone: an irregular mass of black and gray blocks, the black rock of Kālashikhara, run through with gray and clear crystal, with legs like piers and a squared, heavy head. Its eyes are polished black glass set deep in the head, with a dull glow behind them when it is awake. It has no mouth that anyone has seen. When it moves, the blocks grind and shift against each other and dust pours off it; when it is still it is a heap of rock, and grass and lichen grow on it. Its footsteps shake the ground for a mile.
+
+## In the Land
+
+Shankhadvāra is the easternmost and worst of the crossings of the wall, treacherous and lightly traveled, and the Sangha-fort on its col is a squat stone work with a cistern, a granary, a signal-tower and sixty men. The stonebeast's cavern is in the rock below the col on the Vedyari side, a deep cave that runs back into the mountain. It does not eat, drink or rest beyond stillness, and it lies there. It wakes when stone is taken from its cave or the rock round it, when there is a heavy tremor, or when intruders go deep into its cavern, and then it comes out and destroys what woke it and anything near it, and goes back. The steep, bare, broken rock of the high pass is its ground, and it moves over it slowly but without difficulty.
 
 ## Key Behaviors
 
-A Stonebeast is ordinarily dormant, content to rest in its chosen location indefinitely. It seems to require no food, no water, and no rest beyond stillness. It becomes active when disturbed—intruders in its territory, the removal of stone from its domain, or significant vibrations all wake it. Once awake, a Stonebeast will remain active until it has either eliminated the threat or is confident the threat will not return. It is intelligent enough to understand concepts like treasure, but it shows no interest in acquisition or hoarding. An ancient Stonebeast may have developed territorial behaviors spanning miles, and it will know every stone in its domain intimately.
+Dormant, the stonebeast is a heap of rock and does nothing at all, for years. Woken, it is methodical and inevitable: it walks toward whatever disturbed it at its own pace, crushes it, and does not stop until it is gone. It repeats what works. It reshapes the stone round it, slowly, opening cracks, bringing down roofs, and it heals itself out of the rock it stands on. When it has finished, it goes back to its cavern and is still again. The two times it woke in the fort's history, it came up onto the col; the first time it brought down the fort's original signal-tower.
+
+## What the Garrison Does
+
+The fort is manned in rotation by the janapadas of the Bhārava circuit, and every new commander, who serves three years, is told the rules about the cave before anything else: nobody cuts stone within a long bowshot of it, nobody goes into it, and nobody sets off the signal-fire's great drum within its hearing during the season the rock is frozen and carries sound. The fort's stone is brought up from the Vedyari side on [[affiliation-hvarnguides|Hvarn]] pack-trains, at great cost, for that reason. The shrine-ushtaka seconded from the Pass-Shrine above keeps the cave mouth swept and marks the cistern wall each spring with a line of white. The Hvarn who take caravans under the peak give its western side a wide berth for reasons they describe as weather; some of the garrison say the stonebeast is the reason no shrine was ever built on Kālashikhara, and the ushtakas do not say so.
+
+## Signs
+
+- A cave mouth on a mountain col with a broad, smooth trail worn from it, as if something very heavy had dragged itself out and back.
+- A heap of black rock and gray crystal in a cave that grass and lichen grow on, shaped a little like a lying beast.
+- Old fortifications or buildings near a cave smashed flat and never rebuilt.
+- Rock faces nearby cracked in long, fresh lines with no frost or quake to account for them.
+- A tremor that comes in regular beats, like footsteps, from inside a mountain.
 
 ## Combat Strategy
 
-A Stonebeast moves with methodical inevitability, advancing toward threats at its own deliberate pace. Its attacks are straightforward and devastating—it seeks to crush opponents through sheer weight and power rather than by tactics. The creature will adapt minimally to combat—if a tactic works, it will repeat it; if an opponent proves too quick to hit directly, it may shift to attacks that strike everything nearby rather than change its approach. A Stonebeast has never truly retreated from a confrontation; instead, it may simply become dormant again if it determines a threat cannot be eliminated. Only water, in sufficient quantity, can make it retreat—its stone body dissolves slowly in flowing water, and the creature instinctively avoids such fates.
+A woken stonebeast advances on whatever woke it at its own pace and crushes it, with stamps, blows and thrown rock. It barely changes its tactics: it repeats what works and stops doing what does not. It cannot be frightened, bargained with or turned aside. It works the stone round it to trap and bury its enemies. When it has destroyed what woke it, it goes back to sleep. Water is the one thing it shrinks from, because flowing water wears it away, and the garrison keeps the cistern full for that reason as much as for drinking.
 
 ## Attack Methods
 
 ### Crushing Stomp
 
-The creature raises one of its massive limbs and brings it down with apocalyptic force, intending to pulverize whatever lies beneath. The impact radiates outward as a shock wave, and the ground around the blow is left broken and treacherous.
+It raises a leg like a pier and brings it down, and the ground breaks in a ring round the blow, throwing men down and leaving the rock broken and treacherous.
 
 ### Shattering Punch
 
-The Stonebeast's fists are simple but devastatingly effective, capable of striking opponents from surprising distance and delivering a blow that shatters bone and armor alike. A successful hit can permanently disable or cripple a target.
+It strikes with a forelimb from a surprising distance, and the blow shatters bone and armor alike. A man hit squarely is crippled if he lives.
 
 ### Rock Throw
 
-The creature can tear loose pieces of stone from its surroundings or from its own body and hurl them as projectiles with tremendous force and accuracy, using environmental debris as weapons.
+It tears stone from the mountain or from its own body and hurls it, hard and accurately, at anything out of reach.
 
 ## Special Abilities
 
 ### Stone Resilience
 
-The Stonebeast's body is extraordinarily resistant to physical damage. Swords, arrows, and most conventional weapons are nearly useless against it, glancing off its hardened hide. Only sustained magical damage, acid, or particularly heavy impacts can cause lasting harm.
+Swords, arrows and spears barely mark it. Only very heavy blows, acid, sustained magic or water do lasting harm.
 
 ### Earthen Authority
 
-The Stonebeast can command stone within its domain, causing walls to shift, floors to become treacherous, and ceiling to rain down on opponents. The work is slow, taking time and concentration, but the effect is inexorable.
+Slowly, it commands the stone round it: walls shift, floors crack and give way, roofs come down. The work takes time, and nothing stops it.
 
 ### Regeneration Through Stone
 
-So long as the Stonebeast remains in contact with stone, it slowly regenerates from damage. Only by removing it from its stone environment or by sustained magical damage can it truly be defeated.
+In contact with stone it slowly mends itself. Cut off from stone, or worked on by sustained magic, it can be worn down.
 
-## Additional Information
+### Water Weakness
 
-Water is the Stonebeast's primary vulnerability—flowing water erodes its stone body, and prolonged immersion will eventually dissolve it entirely. Acid functions similarly but more slowly. The creature abhors water-based attacks and will retreat from them if possible. Strong magical attacks, particularly those that strike with sound or raw force, can crack its crystalline structure. Fire is only marginally effective. The remains of a slain Stonebeast are essentially building materials—valuable for construction but requiring weeks or months to move and cut into workable pieces. Some fortress-builders have deliberately slain Stonebeasts to harvest their remains for use in construction, though doing so requires bringing enormous quantities of water to the creature's domain and patience measured in months.
+Flowing water erodes it and long immersion dissolves it. It shrinks from water and will retreat from it.
 
 ## Attributes
 
@@ -334,3 +350,7 @@ Water is the Stonebeast's primary vulnerability—flowing water erodes its stone
 - **Reasoning:** 7-12 (1d6+6)
 
 - **Creativity:** 6-9 (1d4+5)
+
+- **Strength:** 48-53 (1d6+47)
+
+- **Agility:** 4-7 (1d4+3)

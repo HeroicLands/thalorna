@@ -188,59 +188,75 @@ sohl:
 
 ![[vdsrpnt|Voidserpent]]{float=top-left}
 
-Where there is nothing, something moves. The Voidserpent is an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backward night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.
+The black water is still between the cypress knees, and the canoe has stopped because the scout in the bow has stopped paddling. Ahead, something is crossing the channel. It is a serpent, longer than three canoes, and it is wrong to look at: its body is there and not there, dark as the water and somehow darker, with lights moving inside it like stars seen through a hole in the world, and its edges do not stay where your eyes put them. It is not swimming. It is moving through the water as if the water were not there. Its head turns, slowly, and you feel it look at you from very far away, and for a moment you cannot remember which way is up.
 
 # Dossier {#dossier}
 
-Voidserpents are beings from the spaces between worlds, creatures older than gods and far more alien than most mortals can comprehend. They may be fragments of something greater, or they may be whole entities in themselves—no one knows. They are extraordinarily rare, and each encounter is a singular event. A Voidserpent does not hunt in the normal sense; it seems to move through the world according to purposes and compulsions indifferent to human presence. To encounter one is to touch something cosmically vast and unconcerned with anything human.
+The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The one the K'ich'chik know of has been seen in **Ha' P'uqan**, the Black Water, the great marsh at the heart of [[place-tzumanotunrgn|Tz'uma No'tun]], the swamp country of the Ch'aqun that K'ich'chik border commanders treat as effectively impassable.
 
 ## Presentation
 
-A Voidserpent is serpentine in general shape but massive—easily thirty feet or more from head to tail. Its body is composed of something between matter and void, and looking at it directly causes disorientation and conceptual confusion. The creature is colored in deep purples, blacks, and the absence of color entirely, with patterns that seem to shift and rearrange themselves according to principles that human eyes cannot quite follow. Its eyes are perfectly spherical voids of absolute darkness, and where they focus, light seems to waver and diminish. The creature moves with sinuous grace despite its mass, and its passage disturbs reality itself—sound becomes distant, colors seem less vivid, and time feels uncertain.
+The voidserpent is serpent-shaped and massive, thick as a horse's body, and its substance is somewhere between matter and void: dark, deeper than shadow, with points of light drifting inside it as if through a window onto night. Looking at it directly makes the eyes ache and the mind slide; its outline never stays where it was a moment ago, and its length changes as it is watched. It has a head, and eyes in the head, but no one describes them the same way twice. It makes no sound. Round it, things go wrong: water lies flat when it should ripple, a dropped paddle falls slowly, a scout's sense of direction fails.
+
+## In the Land
+
+Ha' P'uqan and the black-water marshes round it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish rivers and joined by hidden waterways that the Ch'aqun move through with effortless mastery. The voidserpent passes through them on its own courses, sometimes seen in one channel and sometimes miles away the next night, and it favors the deepest, stillest water. Nothing about where it goes has ever made sense to the scouts who track it. It has been seen to pass through the trunk of a cypress as if the tree were mist, and it has been seen to pass a scouting party by without turning its head.
 
 ## Key Behaviors
 
-Voidserpents do not behave like normal creatures. They seem to follow paths and purposes that are invisible to human understanding. A Voidserpent may move through an entire region without attacking anyone, or it may destroy a settlement for no apparent reason. They do not eat in any conventional sense and do not seem to require sleep or rest. They are indifferent to temperature, weather, and most forms of harm. One school holds that Voidserpents keep reality whole, mending it or defending it against incursion from truly hostile realms. Another holds them to be anomalies, living contradictions that should not exist.
+A voidserpent does not behave like a creature. It follows paths and purposes invisible to anyone watching: it may cross a whole region without touching anything, or destroy a camp for no reason anyone can find. It does not hunt as an animal hunts, and from those it touches it takes life, will and power, and leaves the flesh. It passes through solid matter, blessed barriers included, and it cannot be trapped or cornered. It pays no attention to being attacked, and it is very hard to hurt.
+
+## What the Border Scouts Do
+
+K'ich'chik scouts and the garrisons on the swamp border have one rule for the voidserpent: get out of its way and let it pass. A canoe that sees it turns back down the channel it came by and does not stop until it has rounded a bend. The scouts have noted that the serpent imagery dominating the few artifacts recovered from the Ch'aqun, the imagery that gives the Serpent People their K'ich'chik name, includes a coiled shape drawn with stars inside it, and they argue at the border forts whether the Ch'aqun honor the voidserpent, fear it, or know how to move it. No K'ich'chik scholar has ever been let into Ch'aqun lands and come back to say. Priests of the [[affiliation-itzanpnthn|Itzáni]] faith at the border forts burn copal and hold lamps through the night when it has been seen, and say nothing about what it is.
+
+## Signs
+
+- Still water that lies flat in a wind, along a line through the marsh.
+- Cypress trunks with a band through them where the bark and wood are smooth and dark, as if something had passed through the tree.
+- Scouts who come back unable to say how long they were gone, or which way they went.
+- Birds and frogs falling silent across a whole stretch of marsh at once, and staying silent for a day.
+- A darkness in the water at night with lights in it, like the reflection of stars on a cloudy night.
 
 ## Combat Strategy
 
-A Voidserpent does not fight tactically; it simply moves according to its own imperatives. If a human blocks its path, it will attempt to remove the obstacle through the most direct means. It seems largely unconcerned whether it is attacked in return. Its natural resistance to harm and its phasing abilities make it nearly invulnerable to conventional weapons. Against bright light or light-based magic, it becomes more reactive and more attentive. A Voidserpent focused on an opponent is nearly impossible to defeat; one that is ignoring a traveler can usually be escaped by walking the other way.
+A voidserpent does not fight with tactics. It moves where it is going, and if something blocks it, it removes it by the most direct means, coiling round it or biting it, and then goes on. It warps time round its enemies so that they move and think slowly. Ordinary weapons pass through it. Bright light, holy power and magic aimed at the void itself are all that touch it, and even then it heals fast. The sensible response to a voidserpent is to step aside.
 
 ## Attack Methods
 
 ### Void Constriction
 
-The Voidserpent’s coils wrap around a victim and the experience is deeply wrong. The victim feels not physical pressure but rather a compression of reality around them, as if existence itself is being squeezed. Bones do not break normally; victims report their entire body feeling as though it is being pulled inward from all directions simultaneously. The damage is both physical and conceptual.
+The serpent's coils close round a victim, and what he feels is reality itself squeezing in round him. His bones do not break as bones should; something worse happens to them.
 
-### Energy Drain
+### Bite
 
-The Voidserpent’s bite or touch channels void energy directly into a victim’s essence. The effect is catastrophic drain of vitality, magical power, and willpower. Victims struck feel as though their very soul is being pulled away, leaving them hollow and desperate.
-
-### Void Warp
-
-The Voidserpent can create localized distortions in space and time around itself. Victims caught in these warps find themselves moving in slow motion, their attacks delayed, their thoughts sluggish. The effect lasts as long as the Voidserpent maintains focus.
+The serpent strikes and bites, and through the bite it pours its void into the victim, draining his vitality, his will and his magic and leaving him hollow and weak.
 
 ## Special Abilities
 
+### Energy Drain
+
+Its touch, as well as its bite, drains life, power and will directly.
+
+### Void Warp
+
+It twists space and time round itself: men caught in the warp move as if in slow motion, their blows come late and their thoughts drag, for as long as it holds the warp.
+
 ### Phase Mastery
 
-The Voidserpent can move between dimensions and through solid matter at will. It can pass through stone, metal, and blessed barriers equally. It is almost impossible to trap or corner, as it can always phase away.
+It passes through stone, metal, wood and blessed barriers alike, and cannot be trapped or cornered.
 
 ### Void Aura
 
-Simply being near a Voidserpent is dangerous. Reality becomes unstable, and magic behaves unpredictably. Spells fizzle or misfire, weapons seem to weigh more, and time feels subjective. The effect is proportional to proximity—the closer to the Voidserpent, the worse the distortion.
+Near it, reality is unstable: magic fizzles or misfires, weapons feel heavier, and time runs strangely. The closer to it, the worse.
 
 ### Cosmic Resilience
 
-The Voidserpent is nearly immune to harm from conventional sources. Physical weapons pass through it with minimal effect. Only light-based magic, holy power, and magic that specifically targets void energy have any real effect. Even then, damage is reduced significantly.
+Ordinary weapons pass through it with little effect. Light, holy power and magic aimed at the void harm it, and even that harm heals quickly.
 
 ### Reality Warping
 
-The Voidserpent can warp space and time in its immediate vicinity. Distances become uncertain, directions become meaningless, and time moves at irregular rates.
-
-## Additional Information
-
-A Voidserpent should not be fought unless absolutely necessary. The preferred response to encountering one is to move away from it and allow it to pass. If combat is unavoidable, the only reliable weapon against a Voidserpent is bright light and light-based magic. Blessed weapons and holy magic can harm it, and light can disrupt its phasing temporarily. However, even with these tools, defeating a Voidserpent is nearly impossible. More realistic goals are to disrupt it enough to create an escape route, or to damage it enough that it chooses to phase away entirely. One view holds that Voidserpents serve a cosmic purpose and that killing one could have catastrophic consequences; another, that they are abominations that should not exist. Few who have encountered a Voidserpent have lived to share their knowledge, and fewer still trust their own memories of the encounter.
+Round it, distances become uncertain, directions mean nothing and time moves unevenly.
 
 ## Attributes
 

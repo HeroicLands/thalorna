@@ -266,63 +266,75 @@ sohl:
 
 ![[frostjaw|Frostjaw]]{float=top-left}
 
-Your breath mists in air that should be warmer. A shape materializes from white snow and whiter fog—four-legged and deadly, composed of living ice and frosted air. Its fur, if it can be called that, is crystalline and brittle, and every step it takes cracks the frozen ground beneath it. Its breath is visible and freezing, and the space around it seems to age and become brittle with unnatural cold. When it opens its mouth, you see teeth of ice and something older, something that existed before fire ever warmed the world.
+The snow on the high fell is hard and the wind has dropped, and in the stillness you hear the ice on the tarn below crack, once, like a whip. On the far shore a wolf is standing. It is far too big for a wolf, as long as a cart, and it is made of ice: clear in places, blue-white in others, patterned all over with frost that moves across it like cloud-shadow, and its breath does not steam, because it is colder than the air. Its eyes are pale and empty. It lowers its head and starts toward you across the frozen tarn, and the ice under its feet thickens and whitens as it comes, and the cold reaches you before it does.
 
 # Dossier {#dossier}
 
-Frostjaws are predators of ice and cold, manifestations of winter itself given animal form. They hunt in frozen lands and are drawn to the deepest cold. Some are natural creatures of elemental nature; others are summoned or bound by sorcerers. A Frostjaw is driven as much by hunger as by territorial aggression, and it will pursue prey across frozen wastes with relentless determination. In the proper environment—deep winter, glacial regions, frozen peaks—a Frostjaw is nearly unstoppable.
+The Frostjaw is an ice elemental in the shape of a great wolf: a spirit of the cold that manifests as ten to twelve feet of living ice, drawn to the deepest cold and to living warmth, which it hunts. It is solitary, territorial and relentless, and where it stays, the winter deepens. One hunts the high folds of the [[place-nordfells|Nordfells]], the cold, wet, nearly empty northern mountains of Stormveld on Aelwyth, where snow lies on the tops into what passes for summer. The shepherds, turf-cutters and upland steadings of the fells know it as the winter that walks. Like every elemental it can be destroyed in the material world, and it comes back, usually to the same fell, usually in the dead of winter.
 
 ## Presentation
 
-A Frostjaw resembles a large, powerful wolf ten to twelve feet in length, but composed of living ice and magical cold rather than flesh and fur. Its body is crystalline and translucent in places, with patterns of frost that shift like clouds within clear ice. Its eyes are pale blue or frosted white, and they burn with intelligence and hunger. Its breath is visible and freezing, and it leaves trails of deepened frost and ice-patterns where it passes. Where it walks, the ground becomes more brittle, and water freezes instantly beneath its paws.
+The frostjaw is shaped like a huge wolf, heavy in the shoulder and long in the leg, and its body is ice: clear in places, cloudy blue-white in others, with patterns of frost that shift over its surface like the shadows of clouds. Its eyes are pale and have no pupils. Its teeth and claws are icicles, very sharp. Snow settles on it and does not melt. The air round it is bitterly cold, and frost spreads on the ground where it stands; water freezes at its feet. It moves silently except for the creak and crack of ice as it runs. It smells of nothing at all.
+
+## In the Land
+
+The Nordfells run along the whole northern edge of Stormveld, higher and colder than the Ironfells to the south, with narrow boggy valleys and cliffs and inlets on the northern coast. The frostjaw hunts the high folds and the snowfields above the valleys, and in hard winters it comes down into the valleys after the steadings' flocks and the warmth of their hearths. It is drawn to heat: warm-blooded animals, a lit steading, a fire on a hillside, a man. It does not go down to the coast, where the sea keeps the cold off, and in the brief summer it withdraws to the high snow or vanishes until the cold comes back.
 
 ## Key Behaviors
 
-Frostjaws are solitary hunters that claim frozen territories and defend them against all intruders. They are drawn to sources of living heat—warm-blooded animals, settlements with fires, humans. They seem to delight in the contrast between heat and cold, pursuing the prey that gives off the most warmth. They are intelligent and patient, willing to stalk prey for days if necessary. In their native cold, they are supremely confident. Away from cold, they become more aggressive and more dangerous, as though fighting against their nature.
+A frostjaw hunts alone, by day and by night, following warmth. It runs down deer, sheep and men across the snow, and it seems to delight in killing warm things and leaving them frozen. It slows its prey with its breath and its cold before it closes. It claims a stretch of high fell and stays in it for months, and the longer it stays the colder that ground becomes: the tarns freeze solid, the heather dies, and snow lies there after it has melted everywhere else. When its body is destroyed it shatters into a heap of ice that melts away, and it returns when the cold is deep enough, often with a grudge.
+
+## What the Fell People Do
+
+The shepherds, turf-cutters and steadings of the Nordfells, Nordmen, thralls and the Aelwythan uplanders who acknowledge nobody alike, count the frostjaw a hazard of the high folds and treat it as they treat a blizzard. They bring the flocks down early in a year when frost comes to the high tarns before its time, and they bank their fires and keep their doors shut on still winter nights, because the light and warmth of a steading draws it. Every steading keeps a store of seasoned wood for a great fire, because fire is what drives it off and what destroys it, and a household that has burned through its woodpile to keep the frostjaw away counts it the cheapest winter's work it ever did. The Jarldom's hunters, who range the fells, will not hunt it, and the jarl's men in the fells file its kills as Grukar raiding.
+
+## Signs
+
+- A tarn or a stretch of bog frozen solid when the ground round it is not.
+- Sheep or deer found dead in the snow, frozen hard all the way through, with great tooth-marks.
+- Wolf-prints in snow far larger than any wolf's, with frost spreading round each print.
+- A crack like a whip from frozen water on a still night.
+- A cold that falls suddenly on a fell, and frost forming on clothes and beards in a moment.
 
 ## Combat Strategy
 
-A Frostjaw attacks with a combination of speed and control, using its freezing abilities to slow and disable opponents before moving in for the kill. It uses terrain advantage—snow, ice, frozen obstacles—to control the battlefield. It will attempt to separate and isolate opponents, attacking isolated targets with overwhelming force. Against fire and heat-based magic, it becomes more cautious and evasive. In extreme heat, a Frostjaw becomes desperate and dangerous, fighting with furious intensity.
+A frostjaw slows its prey before it kills it. It breathes freezing air and ice over its enemies to stiffen and trap them, freezes the ground under them to make them fall, and then closes, biting, and shatters what it has frozen. It uses snow and ice as its ground and leads its enemies onto frozen tarns and snow-bridges. It does not give up a chase. Fire is what hurts it: torches, burning brands and a great fire drive it off, and fire magic does it great harm. In warm weather it weakens and withdraws.
 
 ## Attack Methods
 
 ### Frost Bite
 
-The Frostjaw's jaws close with crushing force, and the victim is simultaneously crushed and frozen. The bite crushes bone and introduces freezing cold into the victim's body. Victims struck feel their strength and mobility deteriorating from the intense cold.
+The jaws close and crush, and the cold goes into the wound: the bitten limb stiffens and numbs, and the victim's strength drains as the cold spreads.
 
 ### Freezing Breath
 
-The Frostjaw exhales a torrent of sub-zero air and crystalline ice that engulfs everything in its path. Victims caught in the breath become partially frozen, their movements slowing dramatically. Prolonged exposure can result in complete crystallization.
+The frostjaw breathes a torrent of bitter air and driven ice over everything in front of it. Those caught in it are half frozen, slow, stiff and clumsy, and a long exposure freezes a man where he stands.
 
 ### Shatter Strike
 
-The Frostjaw strikes a frozen opponent or frozen ground and uses the brittle nature of ice to do the worst harm it can. The strike shatters frozen enemies or creates dangerous shards of ice that spread additional cold.
+The frostjaw strikes a frozen enemy or the frozen ground with its full weight. A frozen limb cracks, frozen ground explodes into shards of ice, and the cold spreads further.
 
 ## Special Abilities
 
 ### Glacial Resilience
 
-The Frostjaw's body is composed of living ice, making it naturally resistant to cold. Fire and heat harm it, but it is nearly immune to cold-based magic. Physical weapons are less effective due to the hardness and regenerative nature of its icy form.
+Its body of living ice is hard, heals itself and shrugs off cold entirely. Fire and heat harm it.
 
 ### Frozen Territory
 
-In places of extreme cold, the Frostjaw draws strength from the environment, becoming more powerful and more dangerous. In regions of deep winter or glacial ice, it is nearly unstoppable.
+In deep winter or on glacial ice it draws strength from the cold and is very hard to stop.
 
 ### Freezing Aura
 
-The ambient temperature near a Frostjaw drops dramatically. Exposed skin begins to freeze, and movement becomes sluggish. Prolonged exposure causes frostbite and hypothermia.
+Near it, exposed skin begins to freeze and movement grows sluggish; staying close brings frostbite and then worse.
 
 ### Winter's Curse
 
-The Frostjaw can permanently lower the temperature in a region, causing accelerated freezing. Water freezes solid, vegetation dies, and the land becomes more and more like the creature's native habitat. A Frostjaw that remains in a location long enough can transform the entire region into frozen wasteland.
-
-## Additional Information
-
-Fire and heat are the Frostjaw's primary weaknesses. A large source of heat can harm it significantly, and sustained fire-based magic can reduce its power. A Frostjaw cannot survive in regions of sustained heat and will retreat to colder climates. A Frostjaw destroyed in a warm location may not reform. One destroyed in its native frozen territory will likely return after several seasons. Permanent destruction requires either keeping it away from cold sources until it weakens to death, or collapsing it into warming water or burying it in earth warmed from below.
+Where it stays, the cold deepens and stays: water freezes, plants die, and the land becomes more and more like the high ice it came from.
 
 ## Attributes
 
-- **Strength:** 11-14 (1d4+10)
+- **Strength:** 18-23 (1d6+17)
 
 - **Endurance:** 13-16 (1d4+12)
 

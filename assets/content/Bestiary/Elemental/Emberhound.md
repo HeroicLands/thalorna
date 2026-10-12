@@ -266,59 +266,75 @@ sohl:
 
 ![[embrhnd|Emberhound]]{float=top-left}
 
-The stone beneath your feet grows uncomfortably warm. A shape emerges from the heat-haze of the horizon—four-legged, wolf-like, but composed of fire and ember rather than flesh. Its eyes are steady yellow flames that fix on you with predatory intelligence. Where its paws strike the ground, the earth blackens and cracks. The heat it radiates grows stronger as it nears, and your skin begins to feel the burn of a forge drawing near.
+The forge-yard gate is open, and the heat that comes out of it is too much for a forge at rest. Lying across the threshold of the smithy, where a dog would lie, is a dog made of fire: as long as a horse, shaped like a great lean hound out of shifting orange and yellow flame over a body of glowing coal, with eyes like two white-hot rivets. The paving under it is cracked and black. It lifts its head as you come in, and the air between you wavers. Then it stands, and its tail sweeps once across the yard, leaving a line of small flames on the stones, and it walks toward you without a sound, and the sword at your hip begins to grow warm.
 
 # Dossier {#dossier}
 
-Emberhounds are elementals of pure fire given temporary animal form, most often summoned by ancient sorcerers or bound to places of power. They are not mindless—they think, they hunt, and they understand tactics. An Emberhound is as much predator as elemental, combining the cunning of a beast with the destructive force of living flame. Some are bound as guardians; others roam wild, driven by hunger for fuel. A lone Emberhound is dangerous; a pack is a force of nature.
+The Emberhound is a fire elemental in the shape of a great hound: a spirit of the fire-aspect manifested in the material world as a body of living flame and coal, eight to ten feet long, which thinks, hunts and guards. Emberhounds are drawn to fire, to forges and to places where the boundary with the spirit realm is thin, and they are often bound to a place by someone who knows how. One lies at the gate of a swordsmith's forge on one of the islands of [[place-jurthatrgn|Jürthāt]], where the Jürthāti make blades that are among the finest in Thalorna, and it has guarded that forge for generations. Like every elemental, it can be destroyed in the material world and it comes back.
 
 ## Presentation
 
-An Emberhound resembles a large, muscular hound eight to ten feet in length, but composed entirely of living flame and burning coal. Its body is a constantly shifting mass of orange, yellow, and white fire held in the rough shape of a canine. Its eyes are solid yellow flames that burn with steady intelligence. Its fur appears to be made of embers that glow and flare with its movements. Where it passes, the ground blackens and cracks from heat. It leaves no paw prints—only scorch marks and sometimes small fires that spread from the intensity of its passage.
+An emberhound has the shape of a large, lean, deep-chested hound, but its body is shifting flame, orange, yellow and white, over a core of glowing coal that shows through like ribs. Its eyes are points of white heat. Its mouth, when it opens, is a furnace. It leaves scorched prints and small fires wherever it walks, and the air round it shimmers and roars faintly, like a forge drawing. It can run on the air itself for short stretches, carried up on its own heat, and it leaps onto roofs and over walls. It smells of hot iron and burned charcoal. Close to it, the heat is painful, and metal grows too hot to hold.
+
+## In the Land
+
+The Jürthāti islands are volcanic, and fire is never far from anything there. The emberhound is bound to a single forge-yard on one of the Nine: a famous swordsmith's lineage keeps the forge, and the hound keeps the gate. It lies across the threshold by day and walks the yard and the lineage's charcoal-stores by night, and it does not leave the forge's ground. It needs fuel, and the forge feeds it: charcoal, offcuts of iron, and the slag of every heat. Wild emberhounds, unbound, are met near the islands' volcanoes and in burned-over forests, and a wild one wanders, hunting whatever it can burn.
 
 ## Key Behaviors
 
-Emberhounds are territorial and aggressive, claiming hunting grounds and defending them against all intruders. They hunt actively, pursuing prey across open ground and cornering them with cunning. They seem to require fuel to sustain themselves—they are drawn to areas of combustible material and will consume fire where they find it, growing stronger from it. They are intelligent enough to understand human commands if taught during binding or if treated as partners rather than mere beasts. Most wild Emberhounds are driven by hunger and will attack on sight, but an Emberhound that respects a human master will follow their commands with ferocious loyalty.
+An emberhound is not mindless. It thinks, hunts, remembers, and understands tactics, and a bound one understands its orders exactly. It is territorial and aggressive, and it attacks anything that enters its ground uninvited. It hunts actively, running down and cornering prey, and it burns what it kills. It must have fuel to keep its body, and a starving emberhound is restless and dangerous. When its body is destroyed, it is gone in a burst of smoke and sparks, and it comes back, after hours or days, to the same place, with a grievance against whoever drove it off.
+
+## What the Swordsmiths Do
+
+The lineage that keeps the forge says its founder bound the hound to the gate with the help of a [[lore-venduk|Vëndük]] in a great lord's service, one of the sorcerers who on the islands serve the lords as retainers; the binding is renewed by each master of the forge, with a rite and a payment the lineage does not discuss. Apprentices are introduced to the hound on their first day, by name, and are not burned. Customers wait outside the gate until a master walks out to them. The lineage's blades are quenched, they say, in water the hound has breathed on, and no one has ever stolen one. A lord's retainers who came to take the forge in a feud did not get past the gate, and the lord, a man who prized refinement, had a poem written about it instead of trying again.
+
+## Signs
+
+- Paw-prints scorched into stone or burned into earth, each the size of a dinner plate.
+- A threshold or gateway whose paving is cracked and blackened in a long oval, as if something hot lies there.
+- Small fires starting along a line, one after another, with no one to light them.
+- Air that wavers with heat at the mouth of a yard on a cold night.
+- Metal tools left in a yard found bent and discolored as if from the forge.
 
 ## Combat Strategy
 
-Emberhounds fight with aggressive directness, pursuing prey with relentless determination. They use their speed and strength to close distance quickly, then overwhelm opponents with powerful bites and burning attacks. They show no fear of fire-based magic and will actually move toward such attacks to absorb them. Against cold or water-based magic, they become more cautious and evasive. In a territory where fire has spread, they fight more effectively, growing stronger from the flames around them. They are intelligent enough to recognize a losing battle and will flee if seriously wounded, retreating to cool water or broken ground.
+An emberhound fights directly and aggressively. It closes fast, bites, breathes flame on a group, and sweeps its tail at anyone behind it, and it does not fear fire or blades. It uses fire as a weapon of ground as well as of attack, setting the area round it alight to trap its enemies. Cold and water are what hurt it: a bucket of water hisses on it and dims it, a large body of water can trap and drown its fire, and sustained cold weakens it. A bound hound does not chase anyone past the edge of its ground.
 
 ## Attack Methods
 
 ### Fiery Bite
 
-The Emberhound's jaws clamp down with crushing force, and the victim is seared by the intense heat of flames in their mouth. The bite causes both physical damage from the force of the bite and severe thermal burns from the flames, leaving the victim scorched and weakened.
+The hound's jaws close with crushing force, and the victim is seared by the fire inside its mouth as well as torn. The wound is both a bite and a deep burn.
 
 ### Flaming Breath
 
-The Emberhound exhales a cone of flames that engulfs everything in its path. The attack is devastating to multiple targets and can ignite surrounding materials, spreading fire through an area and creating additional hazards.
+The hound breathes a cone of flame that engulfs everyone in its path and sets alight whatever will burn, spreading fire across the ground.
 
 ### Tail Whip
 
-The creature swings its burning tail like a weapon, striking with surprising force and leaving trails of flame. The tail can knock a person off their feet or ignite their clothing and armor.
+The burning tail swings with surprising force, knocking a man off his feet and setting his clothes alight, and leaving a line of flame behind it.
 
 ## Special Abilities
 
 ### Fire Absorption
 
-The Emberhound can absorb fire-based magical attacks and heal from them. A fireball or flame strike that would harm another creature instead restores the Emberhound's vitality. This makes most fire-based magic tactics ineffective.
+Fire does not harm it; fire-based magic feeds it and heals it instead.
 
 ### Thermal Resistance
 
-The Emberhound is naturally resistant to physical damage, and its fiery form makes it difficult for normal weapons to strike effectively. Fire cannot harm it at all; cold and water-based magic are the primary things that can hurt it.
+Its body of flame and coal is hard to strike effectively, and ordinary weapons do little. Cold and water hurt it.
 
 ### Heat Aura
 
-Simply existing near an Emberhound is dangerous. The ambient temperature rises dramatically within thirty feet, and exposed skin burns from proximity. Flammable materials ignite if too close. Metal weapons become too hot to hold, and prolonged exposure can cause heat exhaustion.
+Within thirty feet the heat is painful, exposed skin burns, cloth and wood near it catch fire, and metal weapons grow too hot to hold for long.
 
 ### Ember Trail
 
-Where the Emberhound moves, fire follows. Its passage leaves burning marks on the ground and sets combustible materials aflame. In a dry environment, these scattered fires can combine into a significant conflagration.
+Fire follows it. It leaves burning marks and small fires wherever it goes, and in dry country they join into a blaze.
 
-## Additional Information
+### Cold Iron and Water
 
-Cold and water are the Emberhound's greatest weaknesses. A large enough body of water can immobilize one, and sustained cold-based magic can reduce its power. An Emberhound cannot cross a barrier of cold iron, and some defensive fortifications use this fact. An Emberhound that is offered respect and allowed to consume fuel may become less aggressive and more predictable. Some organizations bind Emberhounds as guardians, feeding them regularly in exchange for their protection. An Emberhound destroyed in water or extreme cold may not reform, depending on how it was created. One destroyed in its natural territory will reform after several days unless the source of its power is explicitly severed.
+A large body of water can trap and smother it, sustained cold weakens it, and it cannot cross a barrier of cold iron.
 
 ## Attributes
 

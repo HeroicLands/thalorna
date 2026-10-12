@@ -400,8 +400,6 @@ Thálrik Hálren is a woodcutter of Port Aelion, on the coast of [[place-elavend
 
 Thálrik cuts under license, as every Élavendri woodcutter does. The Crown's forest court at Liranel issues the licenses, and above the licensed belt the old forest begins, which the Wardens patrol and nobody cuts. He has spent thirty years learning exactly where that line runs and which trees on his side of it can be taken without harming the stand, and the carpenters and shipwrights of Port Aelion have learned that a Hálren load is sound timber, honestly measured. He works alone by choice.
 
-He is a known figure among the woodcutters of Élavendre.
-
 ## Psyche
 
 ### Personality

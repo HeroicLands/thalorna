@@ -261,74 +261,96 @@ sohl:
 
 ![[shdwclw|Shadowclaw]]{float=top-left}
 
-The color of the terrain seems to ripple, and reality shifts as the creature's form comes into focus. Iridescent scales shimmer with hues that match the surroundings so perfectly that you cannot tell whether you are seeing the creature itself or the forest's reflection. The emerald eyes open like gems in shadow, revealing an intelligence that seems almost predatory in its awareness. The movement is fluid and wrong—too many joints, too much flexibility—as the long feathered tail twitches with serpentine grace. Then you notice the claws: three wickedly sharp talons on each foot, and on the second claw of each hind leg, a hooked talon the length of a dagger points upward in permanent threat.
+The cedars here are so tall and so close that the light at midday is green and dim, and the ground is soft with a hundred years of fallen needles. Nothing moves. Then a fern beside the trail moves the wrong way, against the drip from the branches, and you see the eye: emerald green, at the height of your own, looking at you from a head that the forest light has painted the same green-brown as the ferns. It stands on two legs, as tall as a man, with a long feathered tail held out straight behind it, and on each hind foot one claw is lifted clear of the ground, hooked like a pruning knife. It whistles once, softly. Something on the other side of the trail whistles back.
 
 # Dossier {#dossier}
 
-The Shadowclaw is a cunning predatory reptile reaching 10-12 feet in length and standing 5-6 feet tall, found in dense forests, jungles, and rocky valleys where complex terrain provides hunting advantage. These highly intelligent pack hunters are apex predators that hunt by coordinated ambush and keep a strict social order. Adventurers encounter shadowclaws while exploring jungle ruins, traversing dense forests, or inadvertently entering established pack territories.
+The Shadowclaw is a large, two-legged, pack-hunting reptile, ten to twelve feet from snout to tail-tip, five to six feet tall, and about two hundred and fifty pounds, with scales that take on the colors of whatever it stands in and a hooked killing claw on each hind foot. It lives in the cedar rainforest and the rocky valleys of [[place-balamkiahkrgn|Ba'alam Ki'ahk]], on the western coast of Northern K'ich'chik, and hunts in family packs of three to eight. It is clever, patient and coordinated, it plans its ambushes, and it learns. It takes elk, mountain goats and anything else it can isolate and run down, men included. Nearly everything the K'ich'chik know of it comes from traders who have been allowed to the border sites, from captives, and from the few who went into the forest uninvited and came back.
 
 ## Presentation
 
-The Shadowclaw is a bipedal reptilian predator with a body covered in iridescent scales that shift hue to match surrounding environments, making the creature difficult to see even when looking directly at it. The creature stands on powerful hind legs with a long feathered tail that provides balance and communicative function. The front limbs end in three wicked talons each, suitable for climbing and grasping. The most distinctive feature is the secondary hooked claw on each hind foot—a talon that points upward and curves wickedly, clearly adapted for devastating kicking attacks. The head is proportionally large with an elongated snout filled with serrated teeth, and eyes positioned forward-facing in an emerald hue that seems to glow with intelligence. The spine is marked by bony ridges that can be raised for intimidation displays. The overall build is that of a creature made for stealth, speed, and precise killing.
+A shadowclaw stands on long, powerful hind legs with its body held level and its tail out behind it for balance. Its scales are small and iridescent, and they shift slowly to the greens, browns and grays round it, so that a still shadowclaw in forest light is very hard to see. Along the tail and the back of the neck the scales give way to short, stiff, dark feathers, and a row of bony ridges along the spine lifts when it is angry or displaying. The forelimbs are shorter, each with three curved talons for gripping and slashing. The hind feet carry the weapon it is known for: on each, the second toe holds a great hooked claw, kept lifted off the ground as it walks, long as a dagger. The head is long, the jaws lined with serrated teeth, the eyes large, forward-facing and bright green. It moves in quick, birdlike bursts with stillness in between, and a pack talks constantly in clicks, whistles and low growls.
 
-## Presentation: Behavior and Ecology
+## In the Land
 
-Shadowclaws are highly intelligent, cooperative hunters that live and hunt in family packs of 3-8 individuals led by an alpha pair. They communicate through a language of clicks, whistles, and growls that lets them coordinate a hunt even over distances. The creatures adapt quickly to low-light conditions and can see nearly as well in darkness as in daylight, though sudden bright light can temporarily blind them. While the creatures possess olfaction and hearing, their primary sense is vision—they are motion-sensitive and their eyes track movement with predatory focus.
+Shadowclaws hold the coastal rainforest and the mountain spine of Ba'alam Ki'ahk, from the dim cedar and redwood stands that run down to the fjords up into the boulder-strewn valleys and high meadows below the volcanic peaks. They want cover to hunt from and prey to hunt: the elk and deer of the forest, the mountain goats of the valleys, and in the autumn the bears and eagles that gather at the salmon rivers. Each pack holds a territory of many miles, marked with scent and with deep claw-scores on the trees, and it moves round it with the seasons. They do not go out onto open ground for long, and they are not met east of the spine where the cedar gives way to spruce and the plateau begins.
 
 ## Key Behaviors
 
-Shadowclaws are pack hunters whose ambushes take prey much larger than any one of them. Each pack maintains exclusive territory marked by pheromone deposits and claw marks, defending these areas aggressively against rival packs. The alpha pair leads hunts, orchestrates attacks, and maintains social order through displays of strength. Young shadowclaws (hatchlings) are protected by the entire pack and undergo training that integrates them into hunting coordination by the time they reach hunting age. The bonds between pack members are strong, with individuals displaying self-sacrifice to protect kin. Shadowclaws are active primarily at night but are equally effective during daylight, and they hunt opportunistically whenever prey appears.
+A pack is a family led by a mated pair. It hunts by ambush: the pack spreads out silently through the trees round its prey, using its camouflage to get close, and on a signal from the leaders it attacks from several sides at once. It isolates one animal from a herd or one man from a party and pulls it down with the hind-claw kicks. Pack members feed each other, protect the young together, and fight to the death for each other. Packs learn and remember: they learn a trail's habits, its traffic, and the faces of men who have killed one of them, and they change their hunting accordingly. A shadowclaw sees nearly as well in darkness as by day and hunts at any hour. Sudden bright light dazzles it, and alone it is far more cautious.
+
+## What the Xak'nal Do
+
+The **Xak'nal** of [[affiliation-balamkiahk|Ba'alam Ki'ahk]] do not let outsiders far into their forest, and the K'ich'chik traders who meet them at the border sites have to take their word for most of what lies inside it. What they report is that Xak'nal parties travel the forest in numbers, never alone, and carry fire; that shadowclaw hind-claws are worn on cords by Xak'nal hunters as proof of a kill; and that a shadowclaw carved into a pole marks ground the traders are not to enter. Captives who have come out of the forest say the Xak'nal treat a pack as they treat any other power of the forest, with ceremony and great care, and kill one only with full preparation. A shadowclaw hide traded south is prized by K'ich'chik nobles for a cloak, and a hind-claw set in a handle makes a knife a war leader carries.
+
+## Signs
+
+- Deep, parallel claw-scores high on cedar trunks at the edge of a territory, in threes, renewed often.
+- Three-toed prints in mud, deep and narrow, with no mark of the hooked toe, which is held off the ground.
+- Soft whistles and clicks answering each other in the trees, from several directions, and then silence.
+- An elk or goat carcass opened along the belly by long, clean cuts.
+- Small birds and squirrels falling silent in a wide circle round a trail.
 
 ## Combat Strategy
 
-The shadowclaw's primary tactic is stealth and coordinated pack assault. Individual creatures stalk prey using their extraordinary camouflage, positioning themselves for a simultaneous multi-directional ambush. Once the signal is given by the alpha, the pack attacks with explosive violence, using coordinated movement to isolate and overwhelm prey. The primary weapons are the talons and teeth, with the upward-pointing hooked talons used in devastating kicks that disembowel or sever limbs. If a target manages to escape isolation, the pack pursues relentlessly through terrain that favors their agility.
+A pack never attacks a party head on. It shadows it, sometimes for hours, learning its order of march and its weak member, and then attacks from several sides at once, usually at a halt, a stream crossing or the end of a day, when the party is tired or spread out. While some of the pack hold the party's attention, others take the chosen victim, kicking with the hooked claws to cut him open or cripple him. They retreat as fast as they come if the fight goes wrong and come again later from a new direction. A shadowclaw separated from its pack is far less dangerous and usually runs. Fire and sudden bright light break up an attack.
 
 ## Attack Methods
 
-### Coordinated Ambush
+### Slashing Claw
 
-Multiple shadowclaws attack simultaneously from different directions, making it impossible for a target to defend against all threats. The creatures use their camouflage to approach undetected before the coordinated strike.
-
-### Slashing Claw Attack
-
-The shadowclaw rakes with its front claws in rapid succession, using three-talon strikes to tear through flesh and light armor. These attacks are fast and precise, capable of creating severe bleeding wounds.
+The shadowclaw slashes with its forelimbs, three talons together, quickly and repeatedly. The cuts are long and deep, tear through light armor, and bleed heavily.
 
 ### Hooked Talon Kick
 
-Using its hind legs, the shadowclaw delivers upward kicks using the distinctive hooked talon, capable of disemboweling or severing limbs. This attack is devastating in close quarters and is used by packs to disable larger prey.
+Balancing on one leg or leaping with both, the shadowclaw kicks forward and down with the great hooked claw. The kick opens a man's belly or thigh, cuts tendons, and cripples. It is the attack the pack uses to bring large prey down.
 
-### Bite Attack
+### Bite
 
-The shadowclaw's bite is powerful and delivers serious puncture wounds, particularly when multiple creatures attack simultaneously, preventing a victim from engaging effective defense.
+The jaws close on a limb or the neck and the serrated teeth tear. A shadowclaw bites a victim the pack has already pinned or brought down.
 
 ## Special Abilities
 
 ### Chameleon Scales
 
-The shadowclaw's iridescent scales are extraordinarily effective at matching surrounding terrain and lighting. The creature becomes nearly invisible when still and difficult to track even when moving. In broken or cluttered terrain the shadowclaw is very hard to spot until it moves.
+The scales shift toward the colors round the shadowclaw. Still, it is nearly invisible in forest or broken rock; moving, it is still hard to see and hard to track.
 
 ### Enhanced Vision
 
-The shadowclaw's eyes are adapted for motion detection and low-light hunting. The creature can see in near-total darkness and is particularly effective at detecting movement. The creature is vulnerable to sudden bright light, which can temporarily blind it.
+It sees well in near-total darkness and follows the smallest movement. Sudden bright light dazzles it for a time.
 
 ### Pack Coordination
 
-Shadowclaws communicate through varied calls and body language, allowing coordinated pack attacks that are nearly impossible for individuals to defend against. Pack members instinctively support each other and can execute pincer movements and complex tactical maneuvers.
+A pack talks in calls and body signs and fights as one: it surrounds, isolates, draws attention and strikes from behind, and members protect each other at the cost of their own lives.
 
 ### Acrobatic Mastery
 
-The shadowclaw's flexible spine and powerful limbs allow it to climb nearly vertical surfaces, leap extraordinary distances, and move across complex terrain with grace and speed that ground-bound opponents cannot match.
+Shadowclaws climb steep rock and leaning trunks, leap long distances, and move through broken ground and dense forest faster than a man can follow.
 
 ### Predatory Intelligence
 
-The shadowclaw is intelligent, capable of learning, planning, and adjusting tactics based on experience. The creatures remember individual humanoid faces and adjust tactics based on previous encounters.
+Shadowclaws learn, plan and remember. They remember faces, they learn a party's habits, and a trick that worked against them once does not work twice.
 
-## Additional Information
+### Light Bones
 
-**Weaknesses**: While agile and fast, shadowclaws have relatively lightweight bones that can break under heavy impact. The creatures are vulnerable to sudden bright light and are much less effective when separated from their pack. Individual shadowclaws isolated from pack support are significantly less dangerous and more likely to retreat.
+For all their speed, shadowclaws are lightly built, and a heavy blow from a club, a mace or a falling rock breaks bones that a cut would not reach.
 
-**Territorial**: Shadowclaws defend their territories with lethal aggression. Encounters between rival packs are often brutal, though displays of aggression frequently resolve without direct combat due to the injury risk.
+## Attributes
 
-**Training and Captivity**: Young shadowclaws are highly trainable and capable of bonding with skilled handlers. Some rare civilizations have successfully integrated shadowclaws into societies as both hunters and companions, though the creatures' predatory nature means they remain inherently dangerous.
+- **Strength:** 13-18 (1d6+12)
 
-**Harvesting**: A shadowclaw's scales can be harvested after death and used to create camouflage armor or protective gear. The claws and teeth are valued for weapon-crafting.
+- **Endurance:** 11-16 (1d6+10)
+
+- **Dexterity:** 14-19 (1d6+13)
+
+- **Agility:** 15-20 (1d6+14)
+
+- **Perception:** 15-20 (1d6+14)
+
+- **Aura:** 8-11 (1d4+7)
+
+- **Will:** 10-15 (1d6+9)
+
+- **Reasoning:** 9-14 (1d6+8)
+
+- **Creativity:** 6-9 (1d4+5)

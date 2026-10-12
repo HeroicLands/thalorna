@@ -248,7 +248,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
-      weight: {base: 1000, calc: "1000"}
+      weight: {base: 120, calc: "120"}
       reachBase: 0
       bodyScaleBase: 1.17
       personalFatigue: "enc + 5"
@@ -274,47 +274,63 @@ sohl:
 
 ![[mntndrk|Mountain Drake]]{float=top-left}
 
-The drake is barely visible until it moves—a granite-gray shape pressed against stone, perfectly motionless. Then a claw flexes against rock, and suddenly its form resolves: a sinuous reptilian body built low and powerful, spines running down its spine like a ridgeline in miniature. Curved horns catch the light, and its amber eyes are neither animal nor lifeless, but something in between. When it shifts position on its perch, the movement is economical and precise, and the view of the tiny vestigial wings folded against its sides suggests a creature that perhaps remembers larger ancestors—or dreams of becoming one.
+The rain has stopped and the cloud is lifting off the crag above the path, and for a moment the rock is just rock: gray, wet, streaked with lichen. Then part of it turns its head. It is a lizard as long as a man is tall, the exact gray of the stone, with a ridge of spines down its back and two short curved horns, and it is lying along a ledge thirty feet up with its amber eyes on the sheep below you. A smell like a struck flint drifts down. As you watch it spreads a pair of short leathery wings, drops off the ledge, and comes down the face in a long slanting glide, straight at the flock.
 
 # Dossier {#dossier}
 
-The Mountain Drake is a mid-sized reptilian predator measuring 7-8 feet in length and weighing 60-100 pounds. Its body is lean and muscular, built for climbing and navigating rocky terrain. The scales are colored in shades of gray-brown and granite-gray, providing excellent camouflage against mountain stone. A series of spines runs down the back from neck to tail. The head is broader than the body, crowned with a pair of small, curved horns, and the eyes are bright amber with vertical pupils. Small, vestigial wings protrude from the sides, capable of controlled gliding but not true flight.
+The Mountain Drake is a lean, gray, spined lizard of the high crags, seven to eight feet from snout to tail-tip, with short wings that cannot lift it from flat ground but carry it a long way in a glide from a height. It hunts the goats, sheep, hares and birds of the steep country from ledges and outcrops, dropping onto them out of the cloud, and it fights anything that comes near its lair. It is an animal and not a true dragon, whatever the name. On [[place-aelwyth|Aelwyth]] its country is the [[place-ironfells|Ironfells]], wet, steep and snow-covered for a third of the year, and the shepherds and smugglers who use the high ground there count it with the weather as the dangers of the passes.
 
 ## Presentation
 
-Mountain Drakes display rough, scaly hide in cryptic stone tones—granite gray, pale brown, darker charcoal, with lighter patches providing disruptive coloration against rocky backgrounds. The limbs are heavily muscled and end in sharp claws designed for climbing and gripping stone. The tail is nearly as long as the body, muscular and used for balance and combat. The head features a strong jaw line and forward-facing eyes that give excellent binocular vision. The spines along the back are sharp and can wound anyone pressed against them. Small, useless-looking wings fold tight against the sides of the body, barely visible until the drake shifts position. A distinctive sulfur-like smell surrounds them.
+A drake is built long and low, with a narrow, heavily muscled body, four short powerful legs with hooked climbing claws, and a tail as long as the body. Its scales are rough and stone-colored, granite gray, charcoal and dun, broken with paler blotches that look like lichen. A row of sharp spines runs from the back of the skull down the spine to the tail, and two small curved horns sweep back from the brow. The head is broad and heavy-jawed, with forward-facing amber eyes and slit pupils. The wings fold flat along the flanks and are easy to miss; spread, they are short and broad, gray membrane on long finger-bones. Drakes smell of sulfur, like a spent spark, and the smell hangs round a lair. They are silent hunters, but a cornered drake hisses with a sound like steam.
+
+## In the Land
+
+Mountain drakes keep to the crags, cliffs and boulder-fields of the Ironfells above the tree line, from the [[place-sunderfells|Sunderfells]] in the north, where the range walls Stormveld off from [[place-aldorathrgn|Aldorath]], round to the eastern heights where the range meets the sea. They lair in caves and deep cracks high on cliff faces and use the same ledges as lookouts year after year. They follow the flocks: in summer they hunt the high grazing above the [[place-vardainvalleys|Vardain Valleys]] and the hill pastures on either side of the two passes, and in winter, when the snow drives the flocks down, they come lower, into the steep forest at the head of the valleys. They avoid the wet, wooded lowlands. In thick cloud, which is most days, they hunt by waiting for a gap.
 
 ## Key Behaviors
 
-Mountain Drakes are territorial predators establishing and defending large ranges across high-altitude environments. They prefer caves, high crevices, and cliff-side lairs where they can rest and store prey. They are primarily diurnal hunters, taking advantage of good visibility to hunt small mammals, birds, and young mountain goats or sheep. While they cannot achieve true flight, they are excellent climbers and can glide considerable distances from high vantage points, allowing them to approach prey from unexpected angles. They are somewhat solitary but may gather in areas of high prey abundance or during mating season.
+A drake hunts by day from a high perch. It lies motionless on a ledge or outcrop, watching the slope below, and when something it can kill moves into the open, it launches and glides down onto it, claws first. It drags small kills back up to its lair and eats larger ones where they fall. Drakes are solitary and each holds a few miles of crag, and two drakes that meet at a kill fight. They are clever on their own ground. A drake knows which slabs and boulders on its crags are loose, and it will push one down onto prey it cannot reach, or onto a man who is climbing toward its lair. It remembers a man who has hurt it and the path he came by.
+
+## What the Hill People Do
+
+The shepherds of the Vardain Valleys bring the flocks into folds with roofs of turf before the first snow, because the drakes come down with the snow. In the summer grazing a shepherd watches the crags, and a bad drake that has learned to take sheep is reported to the valley's elders, who send to the [[lore-flkkhazar|Khazári]] at [[place-vorgald|Vorgald]]; something from the hold comes down, and the drake is not seen again, and nobody in the valleys asks what. The smugglers who carry goods over the Sunderfells by pack-pony travel the high path in groups, with a man at the back watching the cliffs above, and they go under an overhang when they hear rocks falling. At [[place-caerwynd|Caerwynd]] a drake's skin, hung on the gate, is a soldier's proof that he has been up in the passes, and a drake skull with its horns fetches a price in the wool markets of [[place-brynwold|Brynwold]].
+
+## Signs
+
+- A whiff of sulfur on a wet crag, strongest under an overhang or at the mouth of a crack.
+- Sheep or goat bones heaped under a high ledge, and pellets of fur and bone dropped from above.
+- Long scratches in the lichen at the lip of a ledge, where something heavy launches and lands.
+- Fresh rockfall on a path that was clear the day before, with no frost or rain to explain it.
+- A flock that bunches and will not graze below a particular cliff.
 
 ## Combat Strategy
 
-Mountain Drakes strike swiftly using speed and agility to advantage, attacking from above whenever possible. They use their claws and teeth for direct combat, but if faced with overwhelming opposition, they use terrain knowledge to retreat to their lair. Within their chosen territory, they have the advantage of knowing every crevice and cliff edge. They use the ground itself, dislodging rocks and triggering small avalanches or rockfalls to injure opponents or force them into disadvantageous positions. If an opponent proves too strong, the drake will use its gliding ability to escape to higher ground where pursuers cannot easily follow.
+A drake attacks from above. It drops onto a man out of a glide, claws reaching for the face and shoulders, and tries to knock him down the slope. If he stays on his feet it fights close with claws and tail, keeping uphill of him, and lashes the tail to throw him off the path. It uses its crags: it lures pursuers onto loose ground, sets rocks rolling down onto them, and fights from ledges where a man must climb to reach it. When a fight goes against it, it runs to the nearest drop, spreads its wings and glides away, and nobody follows it there.
 
 ## Attack Methods
 
 ### Raking Claws
 
-The drake strikes with its sharp claws, either in a frontal assault or by pouncing from above; these attacks can tear through flesh and light armor, and the drake often aims for the face, neck, or shoulders, where a strike does the worst harm.
+The drake strikes with its forefeet, raking the hooked claws down and across, most often as it lands from a glide. The claws tear flesh and cut through leather, and the drake aims for the face, the throat and the shoulders.
 
 ### Tail Strike
 
-The drake lashes its muscular tail to knock opponents back, knock weapons from their hands, or deliver a crushing blow; the tail can also be used as a grappling weapon to entangle or throw smaller opponents.
+The long tail lashes sideways and its weight knocks a man back, sweeps his legs from under him on a narrow path, or knocks a weapon out of his hand. On a ledge, a tail strike can put a man over the edge.
 
 ## Special Abilities
 
 ### Gliding Master
 
-The Mountain Drake can leap from high ledges and glide considerable distances, allowing it to travel quickly across mountainous terrain or dive onto prey from unexpected angles; so it strikes with surprise more often than not, and it can to reach terrain that non-flying creatures cannot.
+A drake that launches from a height glides a long way on its short wings, steering well, and comes down out of the cloud onto prey that never saw it leave its perch. It reaches crags and ledges that nothing without wings can get to, and it escapes off any drop. It cannot take off from flat ground.
 
 ### Environmental Exploitation
 
-Within its chosen territory, the drake can trigger small avalanches, dislodge boulders, or cause rockfalls to injure opponents or obstruct movement; a rockfall strikes everyone beneath it and may leave opponents buried or trapped.
+On its own crags the drake knows every loose slab and boulder, and it shoves them down onto men below it. A rockfall strikes everyone in its path and can bury or trap whoever it catches.
 
 ### Mountain Camouflage
 
-The drake's coloration provides excellent concealment in rocky terrain, and it is very hard to spot when it keeps still among mountain rock.
+A drake lying still on gray rock is very hard to see, even for a man who knows to look for one, and in the wet and the cloud of the Ironfells it is nearly invisible.
 
 ## Attributes
 

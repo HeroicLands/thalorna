@@ -190,7 +190,7 @@ sohl:
             shockValue: 2
             probWeight: 10
             protectionBase: {blunt: 5, edged: 4, piercing: 3, fire: 5}
-      weight: {base: 50, calc: "50"}
+      weight: {base: 150, calc: "150"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"
@@ -209,59 +209,67 @@ sohl:
 
 ![[rdgdskmm|Ridged Skimmer]]{float=top-left}
 
-The water erupts with wrongness—a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.
+The fowler's boat is drawn up on the mud at the edge of the reeds, and the water beyond it is brown, flat and perfectly still. A pair of eyes sits on the surface twenty feet out, with a low ridge of scales behind them, and you take it for a stick until it sinks without a ripple. A moment later the water at the boat's stern bulges and a long, narrow head comes up out of it on a neck like a heron's, dark green and dripping, with a snout full of fine teeth that point backward. It sways there, level with your face. Behind it, under the surface, something long is coiling.
 
 # Dossier {#dossier}
 
-The Ridged Skimmer is a semi-aquatic predator measuring 6-8 feet in length plus an equally long tail, found in rivers, lakes, and coastal shallows across warm and temperate regions. These creatures are ambush specialists that spend most of their time submerged, using patience and predatory instinct to strike at unsuspecting prey. Adventurers might encounter skimmers while traveling along rivers, crossing bodies of water, or camping near aquatic environments where the creature hunts.
+The Ridged Skimmer is a long-necked, long-tailed river predator of the [[place-zumeleshrvr|Zumélesh]] marshes, six to eight feet in the body with a tail as long again, lean and light for its length, built to lie submerged at the edge of the reeds and strike up and out of the water. It eats fish and waterfowl mostly, and takes goats, dogs, children and fowlers when they come to the water's edge. It lies up in the marshes of the delta and the flood-basins of the upper river, and its home ground is the eastern marsh of [[place-luttjelskslt|Lut-Tjelsur]], among the reed-beds that the river-beast hunters work. It is a smaller danger than the crocodile, and a more sudden one, and it has no god to protect it.
 
 ## Presentation
 
-The Ridged Skimmer presents a sleek, streamlined form built for aquatic hunting. The body is covered in smooth, dark green scales with subtle patterning that provides camouflage in murky water. The neck is elongated and flexible, allowing the creature to reach and strike from unexpected angles. The head is proportionally large with unblinking, vertically-pupiled eyes positioned on the sides for monocular vision, a long snout filled with dozens of backward-pointing teeth designed to grip slippery prey, and flared nostrils positioned at the snout’s tip to allow breathing while mostly submerged. A thin crest runs along the neck and back, likely used for display or additional aquatic maneuvering. The tail is long, muscular, and whip-like, capable of lashing with significant force. The legs are short and positioned laterally, with webbed feet and sharp claws for gripping rocks and roots.
+A ridged skimmer is dark green above, mottled with brown, and pale yellowish beneath, covered in small smooth scales. A low crest of raised, ridged scales runs from the back of the head down the neck and the length of the back to the end of the tail. The neck is very long and very supple, and the head long and narrow, with eyes set high on the sides and nostrils at the very tip of the snout so that it can breathe with only that showing. The mouth is lined with dozens of needle-fine teeth, all raked backward, that hold anything slippery. The legs are short, set out sideways, with webbed and clawed feet. The tail is long, flattened and whip-thin at the end. In the water it moves in long, smooth curves and makes almost no wake; on land it runs fast and low for a short distance, belly scraping.
+
+## In the Land
+
+Skimmers live along the whole navigable Zumélesh wherever there is a reed margin, slow water and fish: in the backwaters and canals of the upper river, the flooded basin of [[place-gadjumuluslt|Gadju-Mûlu]], and above all the delta marshes, where the reed-beds run for miles and the channels change every flood. They are commonest in the eastern marsh round Lut-Tjelsur. Each skimmer keeps a stretch of reed-edge and channel that it hunts every day and fights other skimmers off. They follow the flood out over the fields when the river rises, and are found in irrigation canals and village ponds far from the main channel, and they go back to the reed-beds as the water drops. In the dry season they crowd into the deeper channels and are most dangerous then.
 
 ## Key Behaviors
 
-Ridged Skimmers are ambush predators par excellence, spending hours or entire days nearly motionless in water, with only their eyes above the surface, waiting for suitable prey. They are solitary and territorial, with individual skimmers maintaining specific hunting grounds and attacking rivals that intrude. The creatures are most active during dawn and dusk, when light conditions favor their hunting strategy. They are capable of producing low, bubbling vocalizations that seem to echo unnaturally through water, possibly serving as territorial warnings or hunting coordination signals. Skimmers are gluttons and will consume multiple prey items in a single feeding, often caching extra food in underwater crevices or beneath submerged logs.
+A skimmer lies in the water at the reed edge with only its eyes and nostrils above the surface, sometimes for most of a day, and waits for something to come within reach of its neck. It hunts hardest at dawn and dusk. When prey comes close it strikes up and out of the water, seizes, and pulls back down, and it drowns what it cannot swallow and wedges the body under a root or a sunken boat to eat later. Skimmers make low, bubbling calls in the water that carry a long way and are hard to place. One that has taken a person learns that people are prey, and comes back to the same landing.
+
+## What the Marsh People Do
+
+The river-beast hunters' rule for a new hand covers the skimmer as well as the crocodile: never put a foot in the water at dusk, never put it where a reed has been bent, and test the bottom with a pole. Fowlers in the reed-beds work from boats with high sides and keep their dogs aboard. Villages on the flood-basin fence their water-steps with reed hurdles in the season when the skimmers come up the canals. The temple at Lut-Tjelsur does not count the skimmer among [[affiliation-tjelsuk|Tjelsur]]'s beasts, so a village troubled by one sends for a licensed culler of [[affiliation-garnuw|Gar'Nuw]] without waiting for the Sanctioner's rite, and the culler is paid by the head. Cullers take skimmers with a baited hook on a chain and a heavy club, and sell the skins for sandals and the crests for charms against drowning.
+
+## Signs
+
+- A pair of eyes and a short ridge of scales on still water, which sink without a ripple when looked at.
+- Long, curving drag-marks through mud from the water's edge into the reeds, with small webbed prints on either side.
+- Low, bubbling calls on the water at dusk that seem to come from several places at once.
+- Fish missing from a fowler's trap, the trap torn open from below.
+- A goat or dog carcass wedged under a submerged root, half eaten.
 
 ## Combat Strategy
 
-The skimmer’s primary tactic is to remain submerged and invisible until prey approaches within striking distance, then attack with explosive force, attempting to drag the victim into water where the skimmer’s advantage becomes overwhelming. On land, if forced into combat, the skimmer becomes frenzied and aggressive, using its powerful tail to strike and its neck to lash and snap at opponents. The creature is capable of moving surprisingly quickly on land for short distances but tires rapidly if unable to return to water. The skimmer will always attempt to retreat to deeper water if the fight turns against it, knowing that in its aquatic domain it is vastly superior.
+A skimmer attacks from the water and wants to stay in it. It strikes at whatever part of a man is nearest the surface—a hand trailing over a gunwale, a leg in the shallows, the head of a man bending to drink—seizes it, and pulls him in. In the water it holds on and lets him drown. Caught on land or in shallows too low to hide it, it rears its neck and snaps from a distance, swinging its head from unexpected angles, and lashes with its tail to keep men off its flanks. It tires quickly out of the water, and as soon as the fight turns against it, it runs for the deepest channel near it and goes under.
 
 ## Attack Methods
 
-### Submerged Strike and Drag
-
-From below the water’s surface, the skimmer lunges upward and forward with all its strength, attempting to clamp its jaws around a limb, torso, or head of a prey item. Once contact is established, it immediately attempts to pull its victim back into deep water, using water resistance and the prey’s buoyancy to assist the grapple. The needle-like teeth create puncture wounds that bleed freely.
-
 ### Neck Lash and Snap
 
-The skimmer uses its flexible neck and elongated head to snap at targets with speed and precision. The bite is effective at close range and can be directed from unexpected angles due to the creature’s flexibility.
+The long neck swings the head out like a thrown hook, and the jaws close on whatever they reach. The skimmer strikes from well beyond a man's reach and from odd angles, over a shield or round a pole, and its backward teeth hold what they catch and leave deep punctures that bleed freely.
 
 ### Tail Whip
 
-The powerful tail swings in a wide arc, creating a weapon capable of hitting targets on land or in water. The tail lash can knock opponents off balance, create distance, or deliver a striking blow with considerable force.
+The tail swings in a wide, flat arc, in the water or on land, and its thin end cracks like a whip. It knocks a man off balance in the shallows, cuts bare skin, and drives back anyone trying to come at the skimmer's side.
 
 ## Special Abilities
 
 ### Aquatic Ambush
 
-The skimmer’s entire body and hunting strategy are built for submerged waiting and sudden attacks. When striking from a submerged or hidden position, the creature strikes harder and more surely.
+A skimmer striking from under the water or out of the reeds strikes harder and more surely than in an open fight, and its first strike usually comes before anyone has seen it.
 
 ### Drowning Grip
 
-Once the skimmer has established a grapple, it is very difficult to escape. The creature’s strong jaws and body control make it nearly impossible to break free without significant strength advantage or magical assistance. The skimmer can drag a grappled victim underwater and hold them there, forcing them to hold their breath.
+Once its teeth are in, the skimmer clamps down and pulls for deep water, using the water's weight against its victim. A man who is dragged under must break free by main strength or hold his breath for as long as the skimmer holds him down.
 
 ### Aquatic Mastery
 
-The skimmer moves through water with perfect grace and control, capable of achieving speeds that exceed human swimming and maneuvering in ways that defy easy prediction. In water, the skimmer is far superior to land-bound opponents.
+In the water the skimmer is much faster and more agile than any swimmer, turning in its own length and striking from below and behind.
 
 ### Predatory Patience
 
-The skimmer can remain motionless for extended periods without apparent discomfort or frustration. It will wait for hours or even days for suitable prey, never breaking concentration or seeking alternative activity.
-
-### Additional Information
-
-Skimmers are territorial and will attack boats, waders, and large animals that encroach on their hunting grounds. They prefer fish and waterfowl but will take larger prey if opportunity presents. A skimmer that has successfully hunted humanoids may become increasingly bold and dangerous to future travelers. The creatures are most dangerous during breeding season when they become even more aggressive and territorial. Skimmers can be deterred by noise and vibration but attracted by blood in the water.
+The skimmer waits motionless in the water for hours or days at a time, and does not tire of waiting.
 
 ## Attributes
 

@@ -403,8 +403,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a noble family of Vylarian h
 
 Xâthrîon is a physician with a reputation for his innovative treatments and thorough approach to patient care. He has spent years researching various medical practices and is known for his willingness to experiment with new methods. Xâthrîon is passionate about advancing medical knowledge and often shares his findings with peers. Despite his serious demeanor, he has a kind heart and is dedicated to his patients' well-being.
 
-Now at 48 years of age, Xâthrîon Kâserânis has established himself as a known figure among the physicians of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

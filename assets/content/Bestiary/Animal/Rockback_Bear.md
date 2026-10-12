@@ -227,7 +227,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
-      weight: {base: 300, calc: "300"}
+      weight: {base: 1200, calc: "1200"}
       reachBase: 0
       bodyScaleBase: 1.38
       personalFatigue: "enc + 5"
@@ -246,67 +246,79 @@ sohl:
 
 ![[rckbckbr|Rockback Bear]]{float=top-left}
 
-The massive form rises from the underbrush, and suddenly the forest itself seems too small. Shaggy dark fur ripples across a muscular frame as the creature stands, towering above you, its breath forming clouds of mist. But it is the patches of rough, stone-like protrusions along its back and shoulders that capture your attention—as if the bear itself is part-stone, part-flesh, something caught between two states of being. The small, dark eyes burn with an intensity that belies their size, and the sound that emerges is somewhere between a growl and the scraping of stone on stone. Its massive paws flex, and you see the claws—dark, curved, and long as daggers—score deep gouges in the rock beneath its feet.
+The scree slope is quiet except for the wind, and then a boulder at the top of it rolls over. It is not a boulder. It is the back of a bear, humped and gray and knobbed with lumps like rough stone, and the bear under it stands up on its hind legs and keeps standing up until its head is higher than a man on a horse. Dark, wet-matted fur, small eyes, a breath that smokes in the cold. It drops to all fours, and the stony plates on its shoulders grind against each other with a sound like a millstone. Then it starts down the scree toward you at a run, and the slope moves under it.
 
 # Dossier {#dossier}
 
-The Rockback Bear is an apex predator of high mountains and rocky slopes, standing 8-10 feet tall on hind legs and weighing over 1200 pounds, distinguished by the dense, rocky protrusions that cover its back, shoulders, and skull. These solitary, intensely territorial creatures are aggressive in defense of their domain and will actively hunt large prey. Adventurers might encounter rockback bears while traversing mountain passes, exploring alpine meadows, or disturbing a bear’s territory in search of resources.
+The Rockback Bear is a great mountain bear, eight to ten feet tall standing, solitary and fiercely territorial, whose back, shoulders and skull are armored with thick, knobbed growths of bone and horn that look and feel like stone. It lives in the high, broken country of the [[place-nrdlndsrgn|Nordlands]], and it is the master of the [[place-shtrdpks|Shattered Peaks]] and the Flarnfjall round them in [[place-norgaad|Norgaad]]. It eats roots, berries and fish when it can get them and hunts goats, caribou and anything else that will feed it when it cannot, and it attacks people who come onto its ground. A rockback that has been hunted and escaped remembers it.
 
 ## Presentation
 
-The Rockback Bear presents a form of overwhelming muscular power covered in dark, shaggy fur that appears matted and weathered from years in rough terrain. The distinctive feature is the rocky armor—rough, stone-like protrusions that grow along the back, shoulders, spine, and skull, creating a natural armoring that appears to be part of the creature itself. These growths are not dead stone but living bone covered in keratin, adapted for the bear’s mountain environment. The head is massive and bear-like, with small, deep-set dark eyes that burn with predatory intelligence, a powerful jaw capable of crushing bone, and ears that swivel to track sounds. The paws are enormous, each with five curved claws suitable for climbing, digging, and tearing. The tail is short and barely visible beneath the bear’s rear haunches.
+A rockback is heavier in the shoulder than any other bear, with a high hump, a massive head and short thick legs. Its fur is dark brown to near black, long and coarse, usually matted with mud and ice. Along the spine, across the shoulders and over the crown of the skull grow its plates: rough, gray, lumpy growths of bone sheathed in horn, overlapping like roof slates along the back and fused into a helmet on the skull. They are scarred, chipped and often split, and lichen grows on old ones. The claws are black and as long as a man's fingers, the jaws broad and heavy. A rockback smells of wet fur and carrion. It moves with a heavy rolling walk, climbs broken rock better than any man, and when it runs downhill it seems to fall with the slope.
+
+## In the Land
+
+Rockbacks hold the high country of Norgaad's interior: the scree, the cirques and the boulder-fields of the Shattered Peaks, the high shoulders of the Flarnfjall above [[place-tvarnmark|Tvarnmark]], and the valleys between the ranges up toward the mines. Each bear has a range of many miles, a den in a cave or under a rock-shelf for the winter, and a round it follows through the year: down to the rivers for the summer fish runs, up to the berry-slopes in autumn, onto the high shoulders where the caribou graze in summer. They are thinly scattered, perhaps one to a valley, and a bear's ground is known to the people who share it. In winter they sleep, and a bear woken from its winter den is the most dangerous animal in the north.
 
 ## Key Behaviors
 
-Rockback Bears are solitary, establishing and maintaining large territorial ranges across mountain terrain. They are omnivorous, consuming berries, roots, fish, and small animals when available, but they actively hunt larger prey including mountain goats, deer, and other predators that encroach on territory. Males are particularly territorial during spring mating season and become far more aggressive and likely to engage intruders. Rockbacks mark territory by clawing trees, overturning boulders, and leaving scat deposits. They are active primarily during daylight but will hunt opportunistically at any time. These bears are intelligent and capable of remembering individuals, learning patterns, and adjusting tactics based on experience.
+A rockback eats whatever it can find and catch: roots dug out of the scree, berries, fish from the rivers, carrion, goats on the spires and caribou calves on the shoulders. It is a strong hunter of large animals and kills a grown caribou with one blow. It marks its ground by tearing the bark off trees, turning over boulders and leaving its dung on the paths, and it drives off or kills other bears, wolves and anything else it finds eating there. The males fight in spring and are most dangerous then; a female with cubs attacks anything that comes near them and follows an intruder a long way. Rockbacks are clever and remember. A bear that has never met men may ignore them, and one that has been hurt by them hunts them.
+
+## What the Herders Do
+
+The plateau clans who graze caribou on the lower shoulders of the Peaks know each bear on their ground and its round, and they move their herds to stay out of its way in the season it comes up. They do not hunt rockbacks; when one starts taking the herd, the clan sends for a party of hunters from the valleys and pays them in calves. Hunting a rockback is a feat a man boasts of for the rest of his life, done with heavy boar-spears set against the charge and a pack of dogs to hold it, and men die doing it. A bear's back-plates go to the armorers at Tvarnmark, who rivet them to a shield's face, and a skull-plate makes a helm-crown a jarl's man will pay a year's wage for. Prospectors climbing into the Peaks after the rumored mithral carry fire and noise, keep to the saddle route, and do not camp in caves.
+
+## Signs
+
+- Pine and birch stripped of bark from the ground to a height well above a man's head, the wood scored with five-clawed marks.
+- Boulders the size of a sheep rolled out of their beds and turned over on a slope.
+- Huge five-toed prints in snow or mud, the hind print longer than a man's foot.
+- A caribou carcass dragged under rock and covered over with scree and moss.
+- A grinding, scraping sound, like stone on stone, from the far side of a ridge.
 
 ## Combat Strategy
 
-The rockback bear fights with overwhelming aggression and raw power, relying on its strength, armor, and ferocity to overwhelm opposition. It charges directly at threats, attempting to close distance and deliver devastating claw and bite attacks. Once engaged, it continues attacking with complete commitment, rarely retreating or showing mercy. A rockback injured but not mortally wounded becomes more aggressive, and one defending young or food source fights with suicidal determination. The bear uses terrain to advantage, charging downhill to increase impact force and positioning itself to use claws and jaws together in vicious combinations.
+A rockback that decides to fight comes straight in. It charges, downhill if it can, rears at the last moment and strikes with both forepaws, then closes and bites. It does not back off from wounds, and a hurt rockback is angrier and more dangerous. It uses its plates: it takes blows on the shoulders and the back of the skull and shoves forward into spears. It fights to the death over cubs, over a kill, or in its den. A bear that has been driven off once often comes back at night, and a bear that has been wounded and escaped may follow the men who hurt it for days.
 
 ## Attack Methods
 
 ### Massive Claw Swipe
 
-The rockback extends a foreleg and rakes claws across a target with overwhelming force. Each claw is capable of tearing through armor and flesh, creating gaping wounds that bleed freely. Multiple swipes in rapid succession create severe injuries.
+The bear rears and swings a forepaw down and across. The claws tear through leather and mail rings, open long, deep wounds, and break bones under them, and the weight of the blow throws a man off his feet. It strikes again and again, left and right.
 
 ### Crushing Bite
 
-The bear’s jaw closes with tremendous force, capable of crushing bone, tearing off limbs, or pulping flesh. The bite is used to finish defeated opponents or to seize and shake prey.
-
-### Shoulder Slam
-
-The bear collides with an opponent using its massive body weight and muscular shoulders, capable of knocking even armored opponents backward and off balance with tremendous impact force.
-
-### Grapple and Shake
-
-If the bear manages to grasp a victim, it uses its immense strength to lift and shake them violently, inflicting crushing injuries while attempting to position for a killing bite.
+The jaws close on a limb, a shoulder or a head and crush. The bear uses its bite to seize and shake, and to finish a man who is down.
 
 ## Special Abilities
 
 ### Rocky Armor
 
-The stone-like protrusions along the bear’s back, shoulders, and skull protect it like armor, reducing damage from slashing and piercing weapons. The rocky growths are nearly equivalent to scale or leather armor in protection but are an integral part of the creature’s biology.
+The plates on the back, shoulders and skull protect like a coat of scale. Cuts and thrusts glance off them, and a blow has to find the belly, the throat, the face or the legs to do real harm.
+
+### Shoulder Slam
+
+The bear drives its plated shoulder into a man with its whole weight behind it, knocking even an armored man backward and off his feet.
+
+### Grapple and Shake
+
+A bear that gets hold of a man hugs him in with the forelegs, lifts him, and shakes him, crushing ribs and limbs and pulling him into position for the bite.
 
 ### Downhill Charge
 
-When charging downhill, the rockback’s momentum and gravitational assistance increase the impact force of a charge attack, making such attacks significantly more likely to knock opponents off their feet and create openings for follow-up attacks.
+A rockback charging down a slope hits harder for every stride, and a man below it on steep ground cannot stand against the blow or get out of its way.
 
 ### Primal Ferocity
 
-Once the rockback engages in combat, it commits with absolute totality and rarely retreats, even when injured or outnumbered. The bear’s aggression and determination make it a terrifying opponent that cannot be intimidated or demoralized.
+Once a rockback is fighting it does not retreat, cannot be frightened off, and fights on through wounds that would stop another animal.
 
 ### Mountaineer Instinct
 
-The rockback is extraordinarily capable on steep, broken ground, moving with confidence and speed across steep slopes, loose rock, and unstable ground where humanoids would struggle. It fights best on mountain terrain.
+The bear moves fast and sure over scree, ice, boulder-fields and steep rock where a man must pick every step, and it fights best on that ground.
 
 ### Regenerative Nature
 
-The rockback’s body heals fast, recovering from wounds over days or weeks that would cripple other creatures. Minor wounds close within hours, and even severe injuries show recovery within days.
-
-### Additional Information
-
-Rockback bears avoid humanoid settlements and travel routes through learned experience—a bear that has never encountered humans is more likely to ignore them. However, bears that have been hunted develop deep enmity toward humanoids and will actively seek revenge. A rockback defending cubs becomes nearly unstoppable and will pursue intruders for extended distances. The bear’s rocky armor can be harvested after death by expert armorers and used to craft protective gear, making rockbacks valuable but dangerous targets for hunters.
+A rockback heals fast. Minor wounds close within hours and bad ones within days, and a bear that escaped hurt is back on its round sooner than hunters expect.
 
 ## Attributes
 

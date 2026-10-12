@@ -400,8 +400,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a guilded family of Proven
 
 Bárnek has been a bard for over twenty years, gaining a reputation for his adventurous spirit and compelling stories. He travels widely, seeking new tales and experiences to share in his performances. Bárnek often acts as a mediator or diplomat, using his skills in persuasion to resolve disputes. Though respected, he sometimes exaggerates his stories for effect.
 
-Now at 40 years of age, Bárnek Lánthrik has established himself as a known figure among the bards of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

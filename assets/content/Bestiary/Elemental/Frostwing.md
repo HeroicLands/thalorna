@@ -238,63 +238,75 @@ sohl:
 
 ![[frstwng|Frostwing]]{float=top-left}
 
-High above, a shape circles on wings that catch the light wrongly. The Frostwing is beautiful in the way that predators are beautiful—economical, purposeful, terrible. Its wings seem to be made of crystalline ice, refracting light into patterns that hurt to watch directly. As it banks and turns, frost crystals trail behind it like the wake of a ship. The air grows colder as it approaches, and you realize with creeping horror that the temperature is dropping far faster than it should, faster than wind and altitude should account for.
+The longship is hauled up for the winter, and the shipwrights are working on her under a roof of sailcloth when the light goes strange. Out over the gray sea, coming in on the north wind, are three great birds, white and glittering, flying in a line like geese. They are eagles, as wide across the wings as the longship is long, and their feathers are ice: they catch the low winter sun and throw it back in splinters of color. The wind they bring is colder than the north wind. They wheel over the yard, and the snow begins to fall out of a sky that was clear a moment ago, thick and whirling, and through it you see the first of them fold its wings and dive.
 
 # Dossier {#dossier}
 
-Frostwings are aerial hunters of ice and cold, patrolling regions of deep winter and bringing death from above. They are migratory, following the seasons to where cold is deepest. They are intelligent predators that hunt in coordinated groups, using aerial tactics to outmaneuver ground-based prey. A single Frostwing is dangerous; a pair is nearly unstoppable. They seem to view smaller creatures as simple prey and show no compunction about raiding settlements or attacking caravans.
+The Frostwing is an ice elemental in the shape of a great eagle: a spirit of the cold manifested as a bird with a wingspan of twenty to twenty-five feet and feathers of crystal ice, which hunts from the air and travels with the deepening winter toward the coldest lands. Frostwings are intelligent, they hunt in coordinated groups, and they bring their own weather. They come every winter to the northern coast of [[place-malagna|Malagna]], the Nordmen kingdom whose shipwrights build the finest longships in the north, and they hunt there until the spring. Like every elemental, a frostwing can be destroyed in the material world and comes back, and the Malagnans say they come back angrier.
 
 ## Presentation
 
-A Frostwing is a large, eagle-like creature with a wingspan of twenty to twenty-five feet. Its feathers appear to be made of crystalline ice that catches and refracts light beautifully. Its body is sleek and built for speed, and its movements in the air are fluid and graceful. Its eyes are bright sapphire blue, and they are far more intelligent than any normal bird. Its talons are sharp and frozen solid, and where they touch, frost spreads. Its breath is visible as it moves—cold air crystallizing in its wake.
+A frostwing is shaped like a huge, sleek eagle, built for speed, with a long wedge tail and broad, pointed wings. Its feathers are crystalline ice, white and blue and clear, and they catch light and break it into colors as the bird turns. Its eyes are pale. Its beak and talons are ice, hooked and very sharp. It flies fast and silently, and the air behind it is colder than the air round it. Snow falls where frostwings fly, out of a clear sky, and their cry is a high, ringing note like ice cracking on a lake.
+
+## In the Land
+
+Malagna occupies the northern Nordlands, and its own coast faces the northern ocean; everything that leaves Malagna leaves by water. Frostwings arrive on that coast with the first hard frosts, coming in off the northern sea, and stay through the winter, ranging along the coast and up the fjords and over the hill farms. They hunt seals on the ice, seabirds, reindeer in the hills, sheep, and the men of the coast. When the spring comes they go north again, toward colder places, and nobody knows where. They roost on headlands and sea-stacks, and in a bad winter on the roof-trees of empty halls.
 
 ## Key Behaviors
 
-Frostwings are nomadic, following prey herds and moving toward regions of increasing cold with the approach of winter. They hunt during the day, using their aerial advantage to locate warm-blooded prey. They are social with their own kind and often hunt in pairs or small groups, using coordinated tactics. They are intelligent enough to understand human settlements and to learn when easy prey is available. A Frostwing may repeatedly raid a settlement if not actively driven away. They seem to view all non-sapient creatures as food.
+Frostwings hunt by day, in groups of three to six, and they coordinate: one or two dive to drive prey into the open, the others strike from above, and they focus together on whatever is weakest. They slow their prey with their freezing breath and with snow, then strike with their talons. They are intelligent, they remember a place where they were hurt and a man who hurt them, and they understand fire and avoid it. They are social with their own kind and quarrel only over kills. When one is destroyed, it bursts into a cloud of snow and ice, and returns, after a time, with the next winter.
+
+## What the Malagnans Do
+
+The shipwrights of Malagna guard their craft jealously, and in winter they guard their yards: a yard has fire-pots ranged along its sheds, and a watch on the roof with a horn and a bow strung with arrows wrapped in tarred rag, because burning arrows are what drive frostwings off. A longship on the slip is roofed over with sailcloth so that the birds cannot see the men working under it. The farms of the coast keep their sheep under roofs from the first frost, and the seal-hunters go out onto the ice only in large parties, with fire. Malagnan skalds call the frostwings the north wind's hawks, and a man who has brought one down with a burning arrow has a story to tell for the rest of his life.
+
+## Signs
+
+- Snow falling from a clear sky along one stretch of coast.
+- Seals and sheep found dead and frozen hard, with deep talon wounds in the back.
+- Great feathers of clear ice, as long as a man's arm, lying on the snow and slowly melting.
+- A high, ringing cry like lake ice cracking, from the sky.
+- A line of white birds far out over the sea in the first week of hard frost.
 
 ## Combat Strategy
 
-Frostwings fight from the air, using their mobility to strike and withdraw before enemies can effectively respond. They use freezing attacks to slow and disable opponents, then move in for killing strikes. They are tactical enough to focus on isolated opponents, disabled opponents, or those furthest from threats. A Frostwing will attempt to gain altitude advantage and will avoid direct melee if possible. Against opponents with ranged attacks or fire-based magic, they become more cautious and may disengage to find other prey.
+Frostwings fight from the air. They dive, strike with their talons and climb away before anyone can answer. They breathe freezing air to stiffen and trap their prey, throw ice from the air, and call down a blizzard to blind their enemies. They focus on one target at a time and work together to drive it into the open. Fire is what they fear, above all burning arrows; a frostwing hit by fire screams and climbs and often does not return to the fight.
 
 ## Attack Methods
 
 ### Icy Talons
 
-The Frostwing dives and strikes with talons that are sharp and frozen. The talons cut deep, and the cold penetrates the wound. Victims report that wounds from Frostwing talons are difficult to heal and leave areas of persistent numbness.
+The frostwing dives and strikes with its frozen talons. The wounds are deep and the cold goes into them, and frostwing wounds heal slowly and leave patches of numbness.
 
 ### Freezing Breath
 
-The Frostwing exhales a cone of crystalline air that freezes everything it touches. The attack can immobilize a victim or partially freeze them, making them vulnerable to follow-up attacks. Against multiple opponents, the creature may use the breath to force them into difficult positions.
-
-### Ice Shard Barrage
-
-The Frostwing causes ice to form in the air around itself and hurls it at opponents. The shards are sharp enough to cut, and the cold in them does more harm than the wound itself.
+It breathes a cone of bitter, glittering air that freezes what it touches, stiffening and half freezing a victim so that its companions can strike.
 
 ## Special Abilities
 
+### Ice Shard Barrage
+
+It makes ice form in the air round it and hurls it at its enemies in a hail of shards that cut and chill.
+
 ### Aerial Mastery
 
-The Frostwing is supremely at home in the sky. In open air, its positioning and mobility are beyond anything a ground-based creature can match.
+In open air its speed and agility are beyond anything that walks.
 
 ### Freezing Aura
 
-The presence of a Frostwing lowers the ambient temperature dramatically. The cold radiates outward, making movement difficult and every physical effort slower.
+The air round it is bitterly cold, and movement near it is slow and hard.
 
 ### Cold Resistance
 
-The Frostwing is naturally resistant to cold and immune to normal ice-based attacks. Fire and heat are the only elements that can harm it.
+Cold and ice do not harm it. Fire and heat are the only things that do.
 
 ### Localized Blizzard
 
-The Frostwing can create a localized blizzard in an area, reducing visibility to near zero and creating severe wind. The effect is most pronounced in cold climates and near water where moisture can freeze.
-
-## Additional Information
-
-Fire and heat are the Frostwing's primary vulnerabilities. Fire-based magic is significantly more effective against it than against other ice creatures, possibly because of the contrast between its natural cold and the heat. Archers with flaming arrows have had some success against Frostwings. They cannot survive in regions of sustained heat and will avoid such areas. A Frostwing destroyed in warm climates may not reform. Attempts to hunt or trap Frostwings using lures have been moderately successful; the creatures' predatory instinct sometimes overrides caution. Some settlements have learned to protect themselves by maintaining large fires on rooftops, which the Frostwings avoid.
+It calls a blizzard round itself, near-blinding snow and fierce wind, strongest in cold weather and over water.
 
 ## Attributes
 
-- **Strength:** 9-12 (1d4+8)
+- **Strength:** 12-17 (1d6+11)
 
 - **Endurance:** 11-14 (1d4+10)
 

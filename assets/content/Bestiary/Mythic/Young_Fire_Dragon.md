@@ -353,87 +353,75 @@ sohl:
 
 # Appearance {#appearance}
 
-You round the outcropping of rust-colored stone and freeze. The heat hits you first—a visible shimmer rising from the canyon floor, so intense it makes your eyes water. Then you smell it: sulfur and something older, something primal. Your skin prickles with warning.
-
-The young dragon is smaller than the legends promised, but the word _smaller_ holds no comfort as it shifts on the canyon ledge. Sixteen feet of coiled muscle and fury, with a wingspan that could eclipse the sun if it stretched. Its scales catch the light like hammered copper and burnished gold, each one overlapping in a pattern that speaks of restless youth and boundless aggression. A thin column of smoke rises from its nostrils, curling into pale ribbons.
-
-It hasn't seen you yet, but it will.
-
-The creature's movements are sharp, almost twitchy—the energy of adolescence barely contained in a body designed for destruction. It paces the ledge like a caged beast, claws scoring deep grooves in stone that should be impervious. Every motion radiates hunger: hunger for territory, for gold, for glory, for the chance to prove it can burn down anything that challenges its dominance. This is no cunning ancient wyrm waiting in its lair; it is a killer still learning the full depth of its power, with everything to prove and nothing to lose.
-
-The dragon's head snaps toward a distant sound—a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and the whole canyon seems to shrink around it.
+You come round the shoulder of the mesa and stop, because the heat is wrong: a shimmer rising off the rock ahead that has nothing to do with the sun. Then the smell, sulfur and hot metal. On a ledge halfway up the cliff a dragon is pacing. It is smaller than the stories, sixteen feet of it, and that is no comfort at all. Its scales are copper and burnished gold, overlapping like a smith's best work, and smoke curls in pale ribbons from its nostrils. It moves in quick, restless jerks, scoring the rock with its claws, turning its head at every sound. Then it hears something, a falling stone or a goat, and it launches off the ledge with a roar, and the whole canyon seems to shrink round it.
 
 # Dossier {#dossier}
 
-The Young Fire Dragon represents the dragon at its most volatile and aggressive stage of development. Roughly a century old, it has only recently claimed territory and begun building its hoard. Lacking the refined cruelty of an ancient wyrm, the young dragon kills with straightforward ferocity and territorial rage. It has survived the vulnerable years when larger predators hunted it, and now it hungers to establish itself as an apex threat.
-
-Young fire dragons are known for their impetuous nature. They attack without strategy—mostly. They communicate through roars, ground tremors, and the scent of sulfur. They remember who wronged them and actively pursue revenge against intruders. A young dragon that has been wounded or had its hoard disturbed will hunt down those responsible with single-minded fury.
-
-These dragons typically inhabit volcanic highlands, volcanic canyons, and mountain regions with extensive cave systems. They are more likely to be sighted than older dragons, partly because they hunt more actively and range further from their lairs. Merchants, adventurers, and settlements in mountain valleys must contend with periodic sightings and attacks.
+The Young Fire Dragon is a fire dragon about a century old: sixteen feet from nose to rump, with a twenty-four-foot wingspan, at its most restless and most dangerous, carving out ground and a hoard of its own and killing with straightforward ferocity. Dragons are mortal creatures of the material world, born, long-lived and dying like any other, and what sets them apart is the vastness of their souls: their Aura is so great that their instinctive channeling floods the currents of magic round them, and a mage near a dragon finds his spells misfiring in his hands. Every young dragon alive was hatched long after the Vylarian Republic broke faith with dragonkind, and it has grown up knowing what the elder dragons and the dragon dead remember. One has come down in the last few years into the open desert of the [[place-dunhardsrtrgn|Dunhara]], among the mesas and volcanic plugs where the tribes ride their circuits.
 
 ## Presentation
 
-A young fire dragon is sleek and muscular, built for speed as much as raw power. Its scales form an overlapping pattern of crimson, copper, and burnished gold, with undertones of burned orange that deepen near the spine. The scales themselves are warm to the touch, radiating heat even at rest. Its eyes are molten amber, tracking motion with predatory focus.
+A young fire dragon is sleek and muscular, built for speed as much as power, leaner than its elders, with the musculature showing under its scales. The scales are crimson, copper and burnished gold, deepening to burned orange along the spine, and they are warm to the touch even when it rests. Its eyes are molten amber and follow every movement. Its wings are large for its body, made for agility, and its tail is thick, scarred and used as a weapon. Heat shimmers round it constantly; its breath steams in warm air; the ground darkens where it walks. Its movements are sharp and twitchy with energy barely held in, and it is never quite still.
 
-The creature stands roughly 16 feet from nose to rump, with a wingspan extending to nearly 24 feet when fully spread. Its body is lean compared to older dragons, with prominent musculature visible beneath the armor of scales. The wings are proportionally large, built for the agility that young dragons use to their advantage. Its tail is thick and weapon-like, scarred from territorial disputes with other large creatures.
+## In the Land
 
-Heat shimmers constantly around the young dragon. Its breath steams visibly even in warm weather. Where it walks, the ground darkens from heat stress. Its presence is announced by temperature gradients—the air grows progressively hotter as one approaches.
+The open desert of the Dunhara is sand seas, rocky mesas, lone volcanic plugs and the pale floors of dry lakes, with oases as the fixed points of everything, and no one rules it. The young dragon has taken one of the volcanic plugs for its lair, a crag of black rock with caves in it, and it is claiming the country round it: a stretch of mesas and two of the oases that the tribes' circuits pass through. It hunts the gazelle, the wild asses and the tribes' camels and goats, and it has begun to gather a hoard from the caravans it has burned: silver, brass, the painted chests of merchants, anything that shines. Young dragons range far and hunt actively, and this one is seen much more often than an older dragon would be.
 
 ## Key Behaviors
 
-**Territorial Aggression:** The young dragon will attack anything it perceives as a threat to its territory or hoard. It does not negotiate or parley; it has not yet learned that words can be more useful than fire.
+A young fire dragon is territorial, impulsive and proud. It attacks anything that seems to threaten its ground or its hoard, hunts for sport as much as food, and pursues what flees a long way. It is newly obsessed with its hoard and guards it with fury. It is curious about the world and vain about its powers, and it sometimes spares a victim for a moment to gloat over it. Any defiance or disrespect brings an instant, explosive response, and once it has taken offense there is no talking to it. It has not yet learned that words can be more useful than fire. It remembers who has wronged it, and it hunts down anyone who has wounded it or touched its hoard. It knows what humans did to its kind, and it does not distinguish one human people from another.
 
-**Impulsive Hunting:** Unlike older dragons, a young fire dragon hunts actively for food and for the sport of the kill. It will pursue prey for considerable distances if they flee.
+## What the Tribes Do
 
-**Hoard-Obsession:** The dragon has recently begun accumulating treasure and guards its hoard jealously. The hoard is often smaller than that of a mature dragon but defended with equal ferocity.
+The tribes of the Dunhara live by custom, the code of salt, feud and reputation, and by the circuits each tribe rides through the year, and the dragon has broken two of those circuits. The tribes whose oases it has claimed have taken the long way round for two seasons, and have lost herds anyway. Their sheikhs have met in council about it and have not agreed: some want to go to the dragon with gifts and buy their wells back, some want to raise the confederation and kill it, and the poets, who keep the law in verse, have already begun composing the verses for both outcomes. Caravans that cross its stretch of desert do so at night, without lamps, and pay the tribes' guides double. A Vylarian agent of the [[affiliation-ordoarcanis|Ordo Arcanis]] has been seen in the Amradi cities asking about it, and the tribes have not decided whether that is good news.
 
-**Curiosity and Pride:** Young dragons are curious about the world and proud of their capabilities. They may spare prey briefly to gloat, though this moment of vanity rarely lasts long.
+## Signs
 
-**Response to Perceived Disrespect:** Any challenge or act of defiance triggers immediate, explosive retaliation. Diplomacy is nearly impossible once offense has been taken.
+- A shimmer of heat over a crag at night, when the desert has gone cold.
+- Camel and goat carcasses burned black on one side, half eaten, far from any camp.
+- A caravan's burned chests and scattered goods on the sand, the brass and silver gone.
+- Long, deep claw-scores in the rock of a mesa's rim, and fused, glassy sand where something breathed on it.
+- A sulfur smell on the night wind, and herds that will not graze toward a particular mesa.
 
 ## Combat Strategy
 
-The young dragon relies on speed and aggression rather than tactics. Its strategy in battle is straightforward: close to melee range, burn everything, and pursue fleeing enemies. It favors high-altitude combat when possible, using the advantage of flight to strafe enemies while remaining out of reach.
-
-When cornered or facing a numerically superior foe, the young dragon will unleash a devastating fire breath and then attempt to create distance by launching into the air. It is not yet wise enough to play for position or feign retreat; when it retreats, it intends to return with greater force.
-
-The dragon will attempt to isolate individual foes and destroy them one at a time rather than spread its attention across a large group. It has minimal respect for human tactics and armor, believing its own hide to be invulnerable—a belief reinforced by its recent victories against lesser predators.
+A young fire dragon fights on speed and aggression. It closes fast, burns everything, and chases whatever runs. It prefers to fight from the air, strafing its enemies with fire and keeping out of their reach. It singles out one enemy at a time and tries to destroy each before moving on. It does not feint or play for position, and it believes its hide is invulnerable, which recent victories have taught it. When it is cornered or outnumbered, it breathes, then takes to the air to gain distance, and when it retreats it means to come back with more fury.
 
 ## Attack Methods
 
 ### Bite
 
-A young dragon's bite can sever limbs. The creature attacks with its full body weight behind the strike, often using a bite to grab and pin prey before clawing or burning them. Damage is catastrophic to any target unable to withstand the force.
+The dragon lunges with its whole weight behind its jaws and bites, often seizing and pinning its prey before it claws or burns it. The bite can take off a limb.
 
-### Claw Rake
+### Claw
 
-The dragon rakes with both front claws in a blurring combination, capable of shredding armor and flesh alike. This attack is favored as a finishing move on pinned opponents or a follow-up to successful bite attacks.
+It rakes with both forefeet in a blur, shredding armor and flesh, usually to finish a victim it has pinned or bitten.
 
-### Tail Sweep
+### Tail
 
-The dragon whips its tail in a wide arc, using it both to strike and to keep enemies at bay. This attack can knock smaller creatures down or off balance, creating opening for other attacks.
+It whips its tail in a wide arc to strike and to keep enemies off, knocking smaller creatures down and off balance.
 
-### Fire Breath
+### Breath
 
-The dragon exhales a spreading gout of roiling flame that reaches 15 feet. The fire ignites combustibles instantly and severely burns all caught in its path. The young dragon can use this ability multiple times before fatiguing, though each use drains its reserves.
+It breathes a spreading gout of roiling flame fifteen feet long that sets everything combustible alight and badly burns everyone caught in it. It can breathe three times before it must rest, and more at the cost of exhausting itself.
 
 ## Special Abilities
 
-### Fire Breath
-
-The young dragon's flame reaches 15 feet in a spreading gout. Creatures caught in it are severely burned. The dragon can use this ability three times before requiring rest, though it may push itself to use it more frequently at the cost of temporary exhaustion.
-
 ### Flight
 
-With a wingspan of nearly 24 feet, the young dragon is a powerful flier capable of sustained aerial combat. It uses flight to maintain distance from grounded opponents and to pursue fleeing prey.
+It is a strong flier, capable of sustained fighting in the air, and it uses flight to keep its distance and to chase down what runs.
 
 ### Armored Scales
 
-The dragon's scales turn most blows. Ordinary weapons struggle to penetrate deeply; magical weapons or sustained focused attacks are required to cause significant injury.
+Its scales turn most blows. Ordinary weapons rarely bite deep, and real harm takes enchanted weapons or sustained, concentrated attack.
 
 ### Heat Aura
 
-Ambient heat radiates from the dragon constantly. The temperature within 30 feet of the creature rises noticeably, causing discomfort and making the area difficult to traverse quickly. Extended exposure to this heat can cause exhaustion.
+The air within thirty feet of it is hot enough to be painful and tiring, and long exposure brings heat exhaustion.
+
+### Unraveling Presence
+
+A dragon's channeling floods the currents of magic round it. Near a dragon, a mage's working comes apart: spells misfire, wards fail, and partly channeled power discharges wildly, often on the mage.
 
 ## Attributes
 

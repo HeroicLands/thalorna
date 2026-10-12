@@ -208,55 +208,67 @@ sohl:
 
 ![[strcrwlr|Starcrawler]]{float=top-left}
 
-A constellation walks across the ground. At first you think it must be some trick of the night sky, but the stars move with purpose and direction across surfaces where stars should not be. As it approaches, you realize the lights are coming from something small and delicate—an insectoid shape no larger than a human hand, yet each segment of its body is studded with luminescent points. When it moves, it leaves behind a trail of light that lingers for a moment before fading, and the air around it smells faintly of ozone and distance.
+The ruin is a ring of fallen stones on a rise in the desert, and on the largest of them, cut deep and worn smooth, is a map of the sky. As the night deepens, the map begins to glitter. Points of light are crawling over the carved stars, matching them, and one of them detaches itself and comes down the stone: a creature the size of a cat, many-legged, its body clear as glass and full of tiny lights, some steady and some twinkling, arranged in shapes you almost recognize. It stops at the foot of the stone, lifts its head toward the sky, and holds still. Then the lights in its body rearrange themselves, slowly, into the shape of the stars directly overhead.
 
 # Dossier {#dossier}
 
-Starcrawlers are celestial beings touched by the distant stars themselves, perhaps fragments of stellar essence given flesh. They are rare and strange, appearing in places where the boundary between earth and sky grows thin. Some are guardians of ancient sites; others seem to wander with no particular purpose. They are not aggressive by nature, but their priorities and values are wholly alien. A Starcrawler may protect a human one moment and ignore a human's death the next, following logic that mortals cannot fathom.
+The Starcrawler is a rare and strange spirit-being of the night sky: a small, many-legged creature with a clear body full of points of light, that appears where earth and sky come close and watches the stars with a purpose no one has fathomed. It is harmless unless threatened, and it is wholly alien. It does not breed; each is single, and perhaps very old. The place it is met is [[place-beshakan|Beshakan]], the desert of Aû'Khelâthu whose ruins hold the star maps the empire's earliest astronomers carved in the age of the First Tablets, and whose ruins, the astrologers say, hold spirits of the desert and creatures bound to the stars.
 
 ## Presentation
 
-A Starcrawler is roughly the size of a cat or small dog, with a segmented, insectoid body. Its exoskeleton is translucent or semi-transparent, and each segment is studded with points of light—some constant, some twinkling, some pulsing in slow patterns. Its limbs are long and spindly, ending in delicate claws that seem capable of moving with precision. Its head is a rounded shape with eyes that are themselves small lights, distinct from the rest of the creature's luminescence. The creature moves with impossible grace and fluidity, and where it passes, its light trail lingers like bioluminescent water. It makes almost no sound—its footsteps are inaudible, and its only vocalizations are faint chiming or bell-like notes.
+A starcrawler is the size of a cat or a small dog, with a long segmented body on many fine legs and a small head with no visible eyes. Its body is clear or nearly so, and every segment is studded with points of light, some steady, some twinkling, some slowly pulsing, arranged in patterns that resemble constellations and change as the sky turns. It moves with a fluid, gliding motion, up walls and over carved stone as easily as across sand, and its feet barely touch the surface. It makes no sound. In daylight it is dim and sluggish and hides; at night it glows.
+
+## In the Land
+
+Beshakan is desert, and the astrologers of Aû'Khelâthu count its deep reaches among the sacred places of their craft: an astrologer who wants to see the sky as the first astronomers recorded it goes deep into Beshakan to read the stones. The starcrawlers are found at those ruins and on the high points round them, the ridges, the standing stones, the tops of ruined walls, and nowhere else that anyone knows. They come out at night and crawl over the carved star maps, matching the lights in their bodies to the carvings and to the sky, and they go into crevices in the stones at dawn. They do not eat that anyone has seen.
 
 ## Key Behaviors
 
-Starcrawlers are active almost exclusively at night and in deep shadow. In direct sunlight, they become noticeably lethargic and will seek shelter. They are drawn to high places—peaks, towers, tall trees—from which they seem to observe the sky and the landscape below. They may be watching something humans cannot perceive, tracking patterns in the stars or changes in the world. They seem to care little for normal food and survive on something that humans do not have access to—perhaps pure starlight or magical energy. They are not territorial but do not associate with their own kind; even multiple Starcrawlers in the same location ignore each other completely.
+A starcrawler watches the sky. It climbs to a high point and holds still for hours, and the lights in its body move with the stars. It compares: the carvings with the sky, the sky with the carvings, and sometimes it rearranges its own lights into patterns that are not in either. It pays almost no attention to people unless they come close or threaten it, and then it flees, upward. It is unique: no two have the same patterns, and none has ever been seen with young. The astrologers believe it is keeping a record of its own, and that it is older than the carvings.
+
+## What the Astrologers Do
+
+The astrologers who make the pilgrimage into Beshakan regard a starcrawler as an omen and a colleague. They do not harm one, and they copy its patterns onto their tablets when it rearranges its lights into a shape that is not in the sky, because some of them hold that those are skies that have been or will be. Several of the temple-schools' star-tables rest on copies of starcrawler patterns, and the schools that do not use them call those tables worthless. The desert rangers who guide pilgrims through Beshakan warn them not to touch one, because its bite numbs a hand for days. Followers of the old cults who see in the **Convergence of the Nine Moons** the chance to begin an age of chaos are said to hunt starcrawlers for their lights, and the astrologers count that among the cults' crimes.
+
+## Signs
+
+- Points of light crawling over a carved star map at night, matching the stars.
+- Faint, fine tracks of many small feet up the face of a standing stone, and none on the sand round it.
+- A cluster of steady lights on a ridge-top that moves as the stars move.
+- Small, clear, empty husks with tiny holes in them, lodged in the crevices of a ruin.
+- An astrologer's tablet with a star pattern copied on it that does not match the sky.
 
 ## Combat Strategy
 
-Starcrawlers rarely engage in direct combat. If threatened, they attempt to retreat to high ground or open sky. If cornered, they use their speed and agility to evade until an opening for escape appears. When forced into actual combat, they fight defensively, attempting to wound or disable an aggressor enough to create an escape opportunity rather than aiming to kill. Against multiple opponents or a clearly overwhelming force, they disengage and flee without hesitation.
+A starcrawler avoids fighting. Threatened, it flees to high ground or slips partly out of the world so that blows pass through it. Cornered, it flashes its lights to dazzle its attacker, bites, and runs while the bitten hand goes numb. It does not pursue.
 
 ## Attack Methods
 
 ### Sharp Mandibles
 
-The Starcrawler's mouth opens to reveal mandibles that are surprisingly strong and sharp. These strike with speed and precision, but the wounds are relatively minor—the creature is more concerned with escaping than with serious injury.
+It bites with small, strong, sharp mandibles, quickly and precisely. The wound is minor; it bites to escape.
 
 ### Paralyzing Venom
 
-When mandibles pierce flesh, the creature delivers a toxin that causes numbness and temporary weakness in the bitten area. The effect is not severe enough to be immediately incapacitating, but it slows and hampers victims, making them easier to escape from.
+Its bite carries a venom that numbs and weakens the bitten limb for a time, so that the hand drops what it holds and the starcrawler gets away.
 
 ## Special Abilities
 
 ### Celestial Luminescence
 
-The Starcrawler's body is a source of light, and it can adjust the brightness and intensity of its glow at will. By flashing with intense brightness, it can temporarily blind or disorient observers. By dimming completely, it can become nearly invisible in darkness. The light it produces is not magical in the normal sense—it is more like the bioluminescence of deep-sea creatures.
+Its body glows, and it can brighten to a dazzling flash or dim to nearly nothing at will.
 
 ### Aerial Grace
 
-The Starcrawler can climb walls and ceilings with equal ease, and it moves with such fluidity that it seems barely to touch surfaces as it passes. It can navigate vertical spaces that would be impossible for normal creatures.
+It climbs walls and overhangs as if they were level ground, and goes where nothing else can.
 
 ### Spirit Affinity
 
-The Starcrawler exists partially in the spirit realm and can become more or less corporeal at will. When fully corporeal, it is vulnerable to normal weapons. When partially incorporeal, physical attacks pass through it with minimal effect.
+It is partly in the spirit realm and can become more or less solid at will. Solid, weapons can hurt it; half there, they pass through.
 
 ### Swift Movement
 
-The creature is almost impossibly fast. It can dodge attacks that seem unavoidable and move across ground in apparent defiance of physics.
-
-## Additional Information
-
-Starcrawlers are not natural creatures and do not breed in the normal sense. They appear to be singular entities, each unique and potentially ancient. They may be fragments of dying stars given form by ancient magic. They are highly resistant to normal weapons and much more vulnerable to magic in general. Earth-based magic is most effective against them, possibly because earth magic is the antithesis of their celestial nature. There are reports that Starcrawlers can be communicated with if approached correctly, though the communication is difficult and strange—the creature seems to perceive concepts that human language cannot express. A Starcrawler has never been known to attack humans unprovoked. Those who kill one report that its light extinguishes like a snuffed candle, and the body dissipates into nothing—neither corpse remains nor any evidence of its ever having existed.
+It is astonishingly fast, and it dodges blows that should not miss.
 
 ## Attributes
 

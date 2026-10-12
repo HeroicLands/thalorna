@@ -242,7 +242,7 @@ sohl:
             shockValue: 2
             probWeight: 2
             protectionBase: {blunt: 2, edged: 3, piercing: 1, fire: 3}
-      weight: {base: 172, calc: "(9 * str) + 50"}
+      weight: {base: 120, calc: "120"}
       reachBase: 0
       bodyScaleBase: 1
       personalFatigue: "enc + 5"
@@ -260,67 +260,57 @@ sohl:
 
 ![[grukaruk|Grukar-Uk]]{float=top-left}
 
-There are a lot of them. That is the first thing you notice—not any single Grukar-Uk, but the sheer, grubby mass of them, squatting around smoky fires, bickering over scraps of meat, scratching themselves with thick, blunt fingers. Individually, a Grukar-Uk is unimpressive: about four and a half feet tall, squat and bandy-legged, with a barrel chest and arms corded with a wiry, stubborn muscle that seems almost wasted on the creature's slouching posture. Its skin is a muddy gray-green, bristling with coarse dark hair across the shoulders and back. Its face is flat and heavy, dominated by a jutting lower jaw and a pair of small, yellowed tusks. Its eyes are dull and sullen, watching the world with a kind of resentful apathy—the look of a creature that would rather be doing nothing, and usually is. But there are so very many of them. And each one is carrying something sharp.
+They come out of the tree-line at a jog, twenty or thirty of them, short and broad and gray-green, bristled across the shoulders like boars, and they do not shout. Each carries something to hit with: a hand-axe, a nail-studded club, a fire-hardened spear. Their faces are flat and heavy-browed, with small eyes and stubby tusks jutting from the lower jaw. They do not look at one another or at you; they look at the big one at the back, and when the big one barks, they all change direction at once, like a flock of birds, toward the gate of the steading, where the cattle are.
 
 # Dossier {#dossier}
 
-The Grukar-Uk are the teeming masses of Grukar civilization, comprising roughly eighty-five percent of any tribe's population. They are, by any measure, the least impressive of the three subspecies: small, stupid, and overwhelmingly lazy. Left to their own devices, a group of Grukar-Uk will eat, sleep, squabble over trivialities, and do as little productive work as possible. They possess none of the Hai's terrifying martial prowess nor the Sha's sharp intelligence. What they do possess is numbers, a stubborn muscular strength that belies their small stature, and a crude capacity for simple crafts—forging rough weapons, curing leather, gathering and preparing food, building basic fortifications. They are the laborers, the foot soldiers, and the expendable fodder of Grukar society. Individually, a Grukar-Uk is a nuisance. In a mob of fifty, driven forward by the bellowing fury of a [[being-grkrh|Grukar-Hai]] warlord and the whispered manipulations of a [[being-grkrsh|Grukar-Sha]] counselor, they are a real and terrifying threat. Their laziness is their greatest weakness: without a strong hand forcing them into action, they will simply not bother. But their fear of the Grukar-Hai is deep and all-consuming, and a sufficiently terrifying overlord can whip them into a frenzy of violent, desperate energy.
+The Grukar-Uk is the common [[lore-grukarfolk|Grukar]], the laborer and foot soldier of its tribe and roughly eighty-five percent of every tribe's number: about four and a half feet tall, stocky, strong for its size, dull, lazy, and spawned in such numbers that its death matters to no one, least of all to the [[being-grkrahk|Grukar-ahk]] that laid it. An Uk hatches knowing everything it will ever know, how to hold a spear, which fungus is safe, where the tribe's water lies, and it learns nothing afterward. One Uk is a nuisance. Fifty, driven by a [[being-grkrh|Grukar-Hai]] and aimed by a [[being-grkrsh|Grukar-Sha]], are a tide that burns farmsteads, empties folds and carries off the people it catches, to eat.
 
 ## Presentation
 
-Grukar-Uk stand roughly four and a half feet tall—the shortest of the three subspecies—but are stocky and powerfully built for their size, with broad shoulders, thick necks, and arms that hang slightly too long for their bodies. Their skin is a dull gray-green, rougher and more heavily furred than the other subspecies, with coarse dark bristles across the back, shoulders, and forearms. Their faces are broad and flat, with heavy brows, small piggish eyes, and jutting lower jaws from which stubby tusks protrude. They wear whatever they can scrounge: ill-fitting leather, scraps of stolen armor, crude iron helms. Their weapons are rough but functional—hand-axes, clubs studded with nails, spears with fire-hardened tips, the occasional salvaged sword worn like a trophy. Everything about them speaks of crude, practical brutality without finesse or artistry.
+A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a big man, with a broad chest, a thick neck, and arms that hang a little too long. Its skin is a dull gray-green, rougher and hairier than the other castes', with coarse dark bristles over the back, shoulders and forearms. The face is broad and flat, with a heavy brow, small eyes and a jutting lower jaw from which short tusks stick up. It wears whatever it has scavenged: ill-fitting leather, scraps of stolen mail, a dented helm. It carries rough, practical weapons, hand-axes, clubs, spears with fire-hardened points, and now and then a stolen sword it does not use well. Uk communicate as all Grukar do, mostly by posture and gesture, with clacks, rasps and calls from the chest and throat, some of them too low or too high for human ears.
+
+## In the Land
+
+Uk are wherever Grukar are: in the nests of [[place-grkrhlmrgn|Grukarhölm]] and the eastern [[place-vrystwald|Vrystwald]], in the forest and tundra on [[place-targud|Targud]]'s eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]], where [[lore-grukaraelwyth|the island's Grukar]] have been for seven centuries. A tribe is a place with a spawner in it, and the Uk do the tribe's work round that place: they dig the chambers and the moats, gather the food, cut the wood, carry the loot home and die holding the pass. They go where they are driven. Raiding parties that come down on [[place-skathwald|Skathwald]]'s villages, [[place-brynavar|Brynavar]]'s steadings and the forest-edge farms of the [[place-wyndmarch|Wyndmarch]] are mostly Uk.
 
 ## Key Behaviors
 
-The defining characteristics of the Grukar-Uk are laziness and fear. They are bone-idle by nature, driven to action only by hunger, greed, or—most effectively—by the terror of what the Grukar-Hai will do to them if they disobey. They are not cunning enough to scheme and not brave enough to rebel, which makes them the perfect subjects for a society built on intimidation. Among themselves, they are quarrelsome and petty, constantly bickering over food, sleeping spots, and minor status—but these squabbles rarely escalate to real violence, because even Grukar-Uk dimly understand that killing a neighbor attracts attention from above. They obey the Grukar-Hai out of abject terror. They obey the Grukar-Sha because the Sha are clever enough to make obedience seem like the Uk's own idea. A Grukar-Uk encountered alone is a pitiable, cringing thing—more likely to flee or grovel than fight, unless it is cornered or sees an easy mark. In groups, they gain a dim collective courage, egging each other on into violence they would never attempt alone.
+The Uk are idle by nature. Left to themselves they eat, sleep, squabble over food and sleeping places, and do as little as they can. What moves them is hunger, greed, and above all fear of the Hai; they obey the Sha because a Sha makes obedience feel like their own idea. They do not scheme and do not rebel, and their quarrels rarely come to killing, because killing a neighbor draws attention from above. An Uk cannot learn: shown a task a hundred times, it does it on the hundred and first exactly as on the first. It fights as it hatched knowing how, and that is all. A lone Uk is a cringing thing, more likely to run or grovel than fight. In a mob, with a Hai behind it, it does not run until the Hai falls.
+
+## What the Frontier Does
+
+Every people that borders the Grukar deals with the Uk the same way, because the Uk is the same everywhere. Steadings near the forest are built inside a ditch and a palisade, stock is penned at night, and a horn or a beacon calls the neighbors when a raiding party is seen. Nobody takes a Grukar as a slave, because an Uk cannot learn the work a captor needs, and nobody parleys with a raiding party of Uk, because an Uk cannot be told terms. The Varokh villages of Skathwald keep watches and walls and spend more labor on defense than on anything else. The hill levy at Brynavar and the frontier garrisons of Aldorath have learned the one rule every veteran teaches: kill the Hai, and the Uk scatter.
+
+## Signs
+
+- Broad, splay-toed, clawed bare footprints in mud, many of them together, in an orderly file.
+- Stock gone from a fold in the night, the hurdles broken outward, and the guard dogs dead.
+- A rank, musky smell on the edge of a wood, and fresh dung in a pile at a trail-side.
+- Felled trees and dug earth at the edge of a forest where nobody from the village has been cutting.
+- Low clacks and rasps at night from the trees, and a pressure in the chest from calls that cannot be heard.
 
 ## Combat Strategy
 
-Grukar-Uk fight as soldiers—they take orders, they form formations, they coordinate with other Grukar-Uk. They are competent but no better than that in one-on-one combat. They are dangerous in groups due to coordination and numerical superiority. They are intelligent enough to disengage from losing fights and will flee if leadership falls. They use straightforward tactics: charges supported by ranged attacks, flanking maneuvers, and shield walls. They are less aggressive than Grukar-Hai but more disciplined and coordinated than many human soldiers.
-
-## Attack Methods
-
-### Spear Thrust
-
-A solid thrust with a spear held in one hand or both, depending on the situation. The attack is straightforward and designed to keep enemies at distance.
-
-### Axe or Club Strike
-
-A swing with a hand-axe or club that combines decent strength with reasonable technique. Multiple strikes are common as the Grukar-Uk wears down opponents.
-
-### Bow Attack
-
-A ranged attack using a bow or crossbow, usually delivered from a position of support rather than front-line combat.
-
-### Coordinated Attack
-
-When fighting as part of a unit, Grukar-Uk attack simultaneously against single targets, overwhelming them through numerical superiority and coordinated strikes.
-
-### Charge
-
-Multiple Grukar-Uk charging together create tremendous impact. This tactic is used to break enemy formations or to sweep away lighter troops.
+Uk fight in a mob under a Hai's command, and the mob is their strength. They come on together, rush from several sides when a Sha has planned it, and press a target with numbers until it falls. They are strong for their size, and a blow from one is dangerous. They have no tactics of their own and no courage of their own: a mob whose Hai has been killed or has fled breaks and runs within moments, every Uk for itself. One at a time, an Uk is no match for a trained soldier. Their weapons are whatever they carry, used with the plain competence they hatched with and never improved.
 
 ## Special Abilities
 
-### Group Discipline
+### Strength of Numbers
 
-When fighting as part of a unit under clear command, Grukar-Uk gain coordination and effectiveness beyond what individual warriors possess. A well-led Grukar-Uk unit is a serious threat.
+In a mob under a Hai, Uk press harder and stand longer than any one of them would alone, and their coordinated rush can overwhelm trained soldiers by weight.
 
 ### Practical Toughness
 
-Grukar-Uk are accustomed to hardship and danger. They can continue fighting through wounds and exhaustion longer than most species.
+Uk are used to hardship and hunger, and they keep going through wounds and exhaustion that would stop many people.
 
-### Weapon Competence
+### Inherited Competence
 
-Grukar-Uk are trained in weapon use from early age and handle axes, spears, and bows with solid competence. They are not masters, but they know their trade.
+An Uk hatches knowing how to use the rough weapons and tools its tribe uses, and uses them adequately from the day it hatches. It never gets any better.
 
-### Herd Mentality
+### Broken Without Leaders
 
-A Grukar-Uk in a group fights better than alone. Multiple Grukar-Uk gain confidence and effectiveness from each other's presence.
-
-## Additional Information
-
-The Grukar-Uk are both the least and the most dangerous of the three subspecies. Individually, they are cowardly, dim, and easily cowed—a lone Uk can be bribed with food, frightened off with a show of force, or even captured and pressed into reluctant service. But the Uk should never be judged individually, because they are almost never encountered that way. In a warband, driven by fear of their Hai overlord and organized by a Sha counselor, the Uk become a swarming, relentless tide of crude weapons and desperate violence. Their strength—real, physical strength, muscle and bone and stubborn endurance—makes even a single blow from a Uk dangerous, and they fight in numbers that can overwhelm trained soldiers through sheer attrition. The key to defeating a Grukar-Uk horde is always the same: remove the leadership. Kill or rout the Grukar-Hai, and the Uk will break and scatter within minutes. Without fear to drive them, their natural laziness and cowardice reasserts itself almost instantly. They will not fight to the death for any cause, any loyalty, or any principle—they will fight to the death only when they believe that fleeing is more dangerous than staying, which is to say, only when a Grukar-Hai is standing behind them.
+When the Hai driving a mob falls or flees, the Uk lose all cohesion and scatter.
 
 ## Attributes
 

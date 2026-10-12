@@ -399,8 +399,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Syphrânôs was born into poverty and sold into slavery at a young age. He was trained as a gladiator and quickly rose to prominence in the arena, earning the name "Vârênlâs" for his ferocity in combat. He has fought countless opponents and won his freedom through his victories, but he continues to fight for glory and coin. For all the brutality of his fighting style, he is honorable, and keeps a strict code of conduct in the arena.
 
-Now at 37 years of age, he is a known figure among the gladiators of Vylaria.
-
 ## Psyche
 
 ### Personality

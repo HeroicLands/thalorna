@@ -415,67 +415,75 @@ sohl:
 
 ![[frsttrll|Forest Troll]]{float=top-left}
 
-The ancient oak in front of you shifts. Bark cracks like skin, and what you thought was gnarled wood straightens into limbs and a torso. Moss and vines slide away like falling robes, revealing skin as green as rotting wood beneath. The thing is twelve feet tall and built of nothing but raw power—limbs thick as tree trunks, hands like woven roots and bone. Its breath carries the smell of wet earth and decay. Leaves are matted in hair that might be vegetable or might be vermin. It does not make sound as it moves toward you, despite its size. It simply appears closer than it was.
+The old trackway runs between stones furred with moss, under oaks so old and so twisted that the mist hangs in them like wool. One of the oaks at the edge of the track is wider than the rest, and its bark is greener. As you pass it, it turns. It is a giant, twice your height, bark-skinned and gray-green, with roots and vines running in and out of its skin and a mass of twigs and leaves for hair, in which small birds are nesting. Its hand, when it reaches out, is the size of a cartwheel, with fingers like branches. Behind you, along the track, the ferns are moving where there is no wind, and something is drawing tight round your ankles.
 
 # Dossier {#dossier}
 
-Forest trolls are apex predators and territorial overlords of deep woodlands and ancient forests, creatures born from primal earth-magic and predatory hunger. These massive beings are supremely adapted to their woodland domains, moving through dense growth as easily as humanoids walk on open ground. Adventurers encounter them in old-growth forests, in wilderness regions reclaimed by nature, and in places where civilization has not penetrated deeply.
+The Forest Troll is a dreadspawn of the old woods: a giant twelve to fourteen feet tall and more than a ton in weight, with bark-like skin grown through with living roots and vines, and a body that regrows lost limbs. It holds a whole forest as its own, knows every tree in it, makes the forest itself grip and block its prey, and kills anything that does not belong. The [[place-pshtrwldrns|Peshtar Wilderness]], the ungoverned highland quarter of Aelwyth, has one, in the oldest of its oak and hazel woods, and the Peshtar tribes, who answer to no lowland king, have come to an arrangement with it. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-The Forest Troll stands twelve to fourteen feet tall, its body composed of dense muscle covered in skin that ranges from sickly green to brackish brown, textured like bark. Vines and roots seem partially integrated into its body rather than merely attached—they twine through its skin, sometimes moving with independent purpose. Its hair is a tangle of branches, leaves, and living growth; insects and small creatures nest within it. Its hands are enormous, more paw-like than humanoid, with fingers that taper to sharp points like thorns. Its feet are broad and splayed, resembling gnarled roots. Its eyes are deep-set and intelligent, colored an unsettling greenish-brown. Teeth fill its mouth in irregular rows, some resembling stone, some bone, some wood. The creature moves with unnatural silence despite its bulk, materializing in clearings rather than appearing to walk toward them. A faint stench of turned earth and advanced rot accompanies it.
+The forest troll is huge and long-armed, with a deep chest and a small head on heavy shoulders. Its skin is thick, ridged and fissured like bark, gray-green to brackish brown, and roots and vines run in and out of it, some of them moving on their own. Its hair is a thicket of twigs, leaves and living growth, with moss and fern in it, and birds, mice and beetles live there. Its hands are broad and paw-like, with long, branching fingers and hooked nails. Its eyes are small and dark under a heavy brow. It smells of leaf-mold and sap. In its own forest it moves through dense growth as easily as a man walks a road, without a sound, and when it stands still it is a tree.
+
+## In the Land
+
+The troll holds an old-growth wood in the Peshtar highlands: oak, pine and ancient hazel in a mist-choked valley, crossed by one of the ancient stone trackways whose builders no one remembers. Its ground runs from the moor above the valley to the river below it, and it knows every tree, path and clearing in it. It hunts deer, boar, wolves and anything else that comes in, and it does not leave the wood. Outside it, it is slower and heals more slowly, and it does not seem to want to go. The Peshtar say the wood is the troll's and the troll is the wood's, and outsiders who have tried to cut a road through it have not been seen again.
 
 ## Key Behaviors
 
-The Forest Troll claims enormous territories—sometimes entire forests—which it patrols with methodical determination. It knows every tree, every path, every clearing within its domain. The creature is absolutely territorial and will attack anything that enters its lands. It hunts actively, using its knowledge of the forest to corner prey and drive them into disadvantageous terrain. It shows intelligence in reading the habits of its prey, timing its attacks, and even wearing prey down through fear. It does not hunt for sport—only for feeding—but it will defend territory against any perceived threat regardless of hunger. When dormant between hunts, it remains in deep wilderness where it can rest undisturbed. It exhibits no social behavior toward other trolls; territorial conflicts between Forest Trolls are violent and total.
+The troll patrols its wood steadily and attacks anything that comes into it uninvited. It hunts with patience and intelligence: it learns its prey's habits, drives it with the forest's help into narrows, bogs and drops, and wears it down over days. It makes the forest work for it: roots rise from the soil and seize, branches close a path, brambles grow across a clearing. It kills more than it eats. It tolerates some smaller creatures in its wood, and it tolerates people who keep the bargain with it, and that tolerance holds only as long as they do.
+
+## What the Peshtar Do
+
+The Peshtar regard the old stones and trackways as sacred and deny any kinship with the people who built them, and they say the same of the troll: it is not theirs, but it is part of the land, and the land is not to be fought. The clan whose ground borders the wood keeps the bargain. Its hunters do not cut green wood there, do not hunt the wood's deer, and do not light fires under its oaks; they leave a portion of each autumn's slaughter at the stone where the trackway enters the wood. In return the troll lets the clan's people cross the wood by the trackway, in daylight, in silence. Lowland mercenary recruiters who come into the Peshtar country have been warned off that valley by the same clan, and the clan does not warn them twice. The older Aurèldían clergy suspect the Peshtar worship the troll. The Peshtar say they worship nothing so obvious.
+
+## Signs
+
+- Trees bent, split or uprooted along a line, as if by something walking through the wood without bothering to go round.
+- Roots grown up out of the ground and coiled round deer bones, the skulls held up off the earth.
+- A path that was open in the morning closed by bramble and fallen branches in the afternoon.
+- Birds that sing everywhere in the wood except round one great tree, which is not always in the same place.
+- A smell of crushed leaves and sap, very strong, on a still day.
 
 ## Combat Strategy
 
-The Forest Troll uses terrain as much as raw strength. It attacks prey at disadvantage, using the forest to separate individuals, force groups into narrow passages, and drive enemies toward hazards like cliffs or water. Its initial attack is usually a charge or grab attempt leveraging surprise and positioning. Once engaged, it relies on sheer strength and regeneration to outlast opponents. It will pursue fleeing prey through forest where its knowledge is absolute, but will not pursue beyond territory boundaries. When faced with clearly superior opposition, it retreats to its lair, relying on regeneration and territory knowledge to eventually overcome intruders.
+The troll fights with the forest. It separates a party with roots and closing branches, drives its members into narrow places and toward bogs and drops, and attacks the one it has isolated, usually with a grab from surprise. Once it is fighting it relies on its strength and its healing to outlast anything, tearing at whatever it holds and battering whatever it does not. It pursues relentlessly inside its wood and not a step beyond it. Fire is the one thing it fears: fire burns its living wood and stops its healing.
 
 ## Attack Methods
 
-### Crushing Grip
-
-The troll grasps prey with one massive hand, attempting to crush or compress the target. Once it has hold, the troll keeps up the pressure, crushing its victim by degrees.
-
 ### Mighty Blow
 
-The troll swings its fist or arms in devastating arcs, with impact enough to break bone and armor alike. Its reach lets it strike from a distance other close fighters cannot match.
+The troll swings a fist or an arm in a wide arc. Its reach is enormous, and the blow breaks bone through armor and knocks a man across a clearing.
 
 ### Grapple and Tear
 
-When grappling prey, the troll can deliberately tear or rend, inflicting grievous wounds. The troll sometimes picks up grappled prey and throws them against trees, walls, or other fixed objects.
-
-### Root Entanglement
-
-The vines and roots integrated into the troll's body can extend outward, attempting to grapple and entangle prey. Multiple targets can be entangled simultaneously; the entanglement persists as long as the roots maintain contact.
+The troll seizes a man in one huge hand and squeezes, and tears at him with the other, or lifts him and hurls him against a tree. Its grip crushes by degrees for as long as it holds.
 
 ## Special Abilities
 
+### Root Entanglement
+
+The roots and vines in the troll's body reach out to seize and bind, and it can hold several men at once while it deals with another.
+
 ### Woodland Camouflage
 
-The Forest Troll's appearance lets it blend into forest surroundings almost completely. In dense woodland, it is nearly impossible to distinguish from its surroundings until it moves, and in its native forest it can surprise prey even when they are looking directly at it.
+In its own forest, still, the troll is a tree, and it surprises men who are looking straight at it.
 
 ### Regeneration
 
-The troll's body heals with supernatural speed in response to injury. Within its forest domain, regeneration is rapid; outside its territory, regeneration slows significantly. Sustained fire damage prevents regeneration entirely as long as the fire is maintained. Severing the troll into pieces that cannot reattach requires total destruction of all pieces.
+The troll heals astonishingly fast in its own forest and much more slowly outside it. Sustained fire stops its healing for as long as the fire lasts.
 
 ### Limb Regrowth
 
-Lost limbs, even vital ones, regenerate over time. A severed arm may regrow within hours; a destroyed torso requires days or weeks. The troll's body has no obvious vital organs—damage is distributed and diffuse.
+A severed limb regrows in hours, and worse injuries in days or weeks. Its body has no obvious vital place, and killing it means burning it, or destroying every piece.
 
 ### Forest Manipulation
 
-The Forest Troll can command plant growth to entangle, obscure, or attack enemies. Vines ensnare, branches block, roots erupt from soil to attack. This is no spell; it is a natural extension of the troll's will, and the forest obeys its oldest predator.
-
-## Additional Information
-
-Fire is the Forest Troll's primary weakness, burning living wood and preventing regeneration. Water-based magic has limited effect. The creature is most vulnerable outside its claimed forest territory, where regeneration slows and it cannot use environmental advantage. Some Forest Trolls have been observed tolerating specific smaller creatures or even humanoid populations within their territory, so long as they do not threaten the troll or its forest. Such arrangements are uneasy truces that can shatter if the balance is disturbed.
+In its own wood, the troll makes the forest move: roots erupt from the soil, branches close round a man, brambles grow across a path. The forest answers it as a hand answers a man.
 
 ## Attributes
 
-- **Strength:** 28-33 (1d6+27)
+- **Strength:** 30-35 (1d6+29)
 
 - **Endurance:** 24-29 (1d6+23)
 

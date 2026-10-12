@@ -401,8 +401,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Thésia is a skilled fighter and mercenary who has built a reputation on her prowess in combat. With a strong moral code, she takes on jobs that fit her beliefs, often defending the downtrodden and fighting against oppression. She is known for her bravery and her willingness to put herself in harm's way to protect others. She dreams of one day forming her own mercenary company.
 
-Now at 29 years of age, she is a known figure among the mercenaries of Tarvénia.
-
 ## Psyche
 
 ### Personality

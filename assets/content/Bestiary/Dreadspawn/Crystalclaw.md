@@ -245,59 +245,75 @@ sohl:
 
 ![[crystlcl|Crystalclaw]]{float=top-left}
 
-Light fractures and scatters as something moves through the shadows—a shape of impossible geometry, faceted and radiant. Every color of the spectrum glints from its surfaces as it turns, and the air shimmers with refracted light that makes your eyes water. You hear it before you fully see it: a crystalline chiming, like bells or wind-chimes, with each movement. Then those eyes—bright, burning sapphire—find you, and you understand it has always been watching.
+The gem-diggers' gallery opens into a cave whose walls are crusted with crystal, violet and clear, and your lamp turns the whole chamber into a field of sparks. One heap of crystal at the far side is larger than the rest. As the lamp swings, the heap stands up. It is a great cat, longer than a man, built entirely of faceted stone that throws your lamplight back in a hundred colors, and its claws, when it flexes them on the cave floor, ring like a cutter's chisel. Its eyes are two points of white light. Then the whole body flares, a white blaze that fills the cave, and you are blind.
 
 # Dossier {#dossier}
 
-Crystalclaws are born where raw magic concentrates in the earth, creatures of pure mineral and living light. These apex predators of crystalline caverns are living weapons of razor edges and blinding radiance. Adventurers encounter them in gem-rich underground environments, mineral-saturated cave systems, and places where magical energies have crystallized into physical form.
+The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of the [[place-chandrmahi|Chandramahī]], in [[place-chandrapurland|Chandrapur Land]], where the stones that make Chandrapur rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
 
 ## Presentation
 
-The Crystalclaw resembles a large feline predator—roughly six to eight feet in length—but composed entirely of faceted crystal rather than flesh. Its body refracts light into overlapping spectra of color; its actual hue shifts depending on angle and ambient light, ranging from clear crystal to amethyst to aquamarine. Every surface is geometrically angular, with sharp edges and points. Its claws are elongated, razor-sharp crystal edges capable of cutting through stone and steel. Its eyes glow with inner light—sapphire-bright and intelligent. Movement produces a soft, melodic chiming as crystalline surfaces scrape past one another. A faint luminescence surrounds it in darkness.
+The crystalclaw is shaped like a lean, long-bodied cat, but every surface of it is faceted crystal: clear in some lights and violet, blue-green or smoky in others, with sharp edges at every angle. The claws on its four feet are long blades of crystal, and the teeth in its open jaw are clusters of points. The eyes are two lights. In darkness it glows from within, faintly, with a shifting color; in lamplight or sunlight it gathers the light and throws it back in moving sparks and rainbows. It moves with a cat's fluid ease, and its claws ring on stone with a high, clean note. When it is struck hard the whole body rings like a bell.
+
+## In the Land
+
+The valley above Chandrapur is a valley of workshops, and the gem-road runs up it to the cutting-villages and the diggings in the hills. The crystalclaw holds a set of caverns and old diggings in those hills that are richer in stones than any other, and that no one has worked in living memory. It patrols them, and it comes out at times into the newer diggings on either side, especially by day, when the light through the shafts gives it strength. It does not leave the hills and has never come down to the river. The diggings beside its caverns are worked, at a price.
 
 ## Key Behaviors
 
-The Crystalclaw is a solitary, territorial hunter that claims vast underground cavern systems as its domain. It patrols boundaries methodically and attacks any intrusion. Unlike beasts driven by hunger, the Crystalclaw seems to hunt for the joy of the hunt itself—for the movement, the refraction of light through violence, the song of crystal striking stone. It is intelligent enough to read prey behavior and adapt its tactics. It hunts most actively in daylight when its light-based abilities are most effective, becoming partially dormant in prolonged darkness.
+The crystalclaw patrols its caverns slowly and thoroughly, and it attacks anything that enters them. It does not seem to need to eat, and it kills more than it could ever eat: the bodies of animals and diggers it has killed lie in its caverns untouched. It hunts by preference in light, when its flashes are strongest, and it plays with its prey, blinding it, wounding it, drawing back and blinding it again. It is clever and reads what its prey will do. It is drawn to light and to raw magic, and a digger's lamp, or a sorcerer's working, brings it from the far side of its ground.
+
+## What the Diggers Do
+
+The gem-diggers of the valley work under the head of whichever of the Nine Houses holds their village, and the House sets the price for working the diggings next to the crystalclaw's caverns: higher shares for the diggers, a shrine at the gallery mouth, and a widow's portion paid in advance. Diggers in those galleries work with shaded lamps and with their eyes half closed against the flash, and each gang carries a heavy maul and a bronze gong. The gong is their best defense: they say the creature cannot bear a ringing note and backs away from it, and the mauls are for its body, which cracks under a hammer when a sword skates off it. Stones cut from its shed shards are sold up and down the coast as "claw-stones" at many times the price of any other, and most of what is sold under the name never came near it.
+
+## Signs
+
+- Diggers' lamps and torches found smashed in a gallery, and the walls scored by long, clean cuts through solid rock.
+- A high, clean ringing in the dark, like a chisel on stone, from somewhere ahead.
+- A cave or gallery that glows faintly with shifting colors when every lamp is out.
+- Bodies of animals and men lying untouched in a cavern, cut many times and not eaten.
+- Splinters of clear and violet crystal on a gallery floor where no vein runs.
 
 ## Combat Strategy
 
-The Crystalclaw attacks with fluid grace and devastating speed. Its preferred tactic is to use blinding flashes to disorient prey, then close the distance rapidly with razor claws. If the initial strike does not wound severely, it withdraws briefly to emit another disorienting flash before attacking again. It uses terrain to drive prey toward dangerous edges or into positions where visibility is compromised. It does not flee; it fights until victorious or destroyed.
+The crystalclaw opens with light: it flares, blinding everyone facing it, and closes on the nearest with its claws while they cannot see. If its first rush does not finish them, it withdraws a few paces, flares again, and comes back. It throws shards of its own body at anyone hanging back. It uses the cavern, driving prey into dead ends, toward drops and into the dark where it alone can see. It does not flee and fights until it wins or breaks. Ringing sound and heavy blows are what hurt it.
 
 ## Attack Methods
 
-### Razor Claw Strikes
+### Razor Claws
 
-The creature slashes with its four-clawed limbs in rapid, precise succession. These attacks strike hard and open severe lacerations with the razor sharpness of their crystalline edges.
+The crystalclaw slashes with its four bladed feet in quick succession. The crystal edges are sharper than steel and cut through leather and mail rings, opening long, deep wounds that bleed heavily.
 
 ### Crystal Shard Projection
 
-The Crystalclaw can detach and propel razor-edged shards of its own body at prey. These shards travel at high speed and can penetrate armor; the creature can produce multiple shards in succession.
-
-### Blinding Flash
-
-The creature channels light through its crystalline body and releases it as a blinding burst of radiance. Targets struck by this flash suffer disorientation and impaired vision for a short while. The ability is most effective in daylight or when light sources are available.
+The creature throws shards of its own body, flicking them off its flanks at speed, one after another. Each shard is a razor-edged spike that cuts and pierces and can drive through armor.
 
 ## Special Abilities
 
+### Blinding Flash
+
+The crystalclaw gathers light through its body and releases it in one white blaze. Everyone facing it is dazzled and half blind for a short while. The flash is strongest in daylight or under lamps, and it does little to a man whose eyes are shut or shaded.
+
 ### Refractive Concealment
 
-The Crystalclaw can bend light through its faceted body, rendering itself difficult to target. This ability functions as both defense and camouflage; in environments with complex light patterns or shadows, the creature becomes nearly invisible despite its obvious crystal form.
+The crystalclaw bends light through its body. Among crystal walls, shifting shadows and lamplight it is very hard to see and harder to strike, glittering crystal among glittering crystal.
 
 ### Crystal Durability
 
-The creature’s body is composed of material harder than most stone and harder than steel. It is extremely resistant to cutting and piercing blows. However, this same rigid structure makes it vulnerable to vibration, shock, and loud sound—anything that can cause the crystal lattice to resonate and fracture.
+Its body is harder than stone and steel, and cuts and thrusts skate off it. Heavy blunt blows, hammer-strikes above all, crack it, and a strong blow sets the whole body ringing.
+
+### Resonance Weakness
+
+Ringing sound hurts it. A struck gong, a high sung note or a blow that sets it vibrating makes it flinch and draw back, and steady ringing can crack it from inside.
 
 ### Luminous Emission
 
-The Crystalclaw produces its own light, allowing it to navigate and hunt in complete darkness. It can also dim this luminescence for concealment or intensify it for dramatic effect—a predator that enjoys the performance of the hunt.
-
-## Additional Information
-
-Loud sound, high-pitched notes, and anything that sets it vibrating are the Crystalclaw’s primary weakness. Coordinated heavy blows, hammer strikes in particular, or impact spells that set the crystal ringing from within, can shatter the creature’s body. Creatures with their ears stopped or their eyes shielded suffer far less from its blinding flashes. Crystalclaws seem drawn to light-based magic and sources of raw magic; they sometimes remain in areas of high magical concentration regardless of prey availability.
+It makes its own light, enough to hunt by in total darkness, and it can dim it to nothing to hide or blaze it up to dazzle.
 
 ## Attributes
 
-- **Strength:** 15-20 (1d6+14)
+- **Strength:** 22-27 (1d6+21)
 
 - **Endurance:** 11-16 (1d6+10)
 

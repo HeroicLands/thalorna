@@ -401,8 +401,6 @@ Born in the Harad region to a guilded family of Haradian heritage, Belshar Gûla
 
 Belshar is a skilled locksmith known for his meticulous craftsmanship and attention to detail. He has been in the business for over twenty years, specializing in creating high-security locks for nobles and wealthy merchants. Belshar takes pride in his work and is known for his integrity, often refusing to create locks that can be easily picked.
 
-Now at 40 years of age, Belshar Gûlamû has established himself as a known figure among the locksmiths of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

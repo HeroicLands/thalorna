@@ -266,67 +266,83 @@ sohl:
 
 ![[frostmaw|Frostmaw]]{float=top-left}
 
-The world stops being warm. What emerges from the blizzard is massive, easily thirty feet in length, a thing of solid ice that catches and refracts light in terrible ways. It is roughly bear-shaped but wrong in proportion, built for strength and destruction rather than natural grace. Its breath is visible as it moves—not mist but crystalline air that spreads cold like a plague. Where its weight settles, the earth becomes brittle and cracks. When it opens its mouth, you see not teeth but formations of ice hanging like stalactites, and the air that flows from it is the breath of a world without sun.
+The glacier's snout is a wall of blue ice above the stony beach, and the expedition has camped in its shelter for three days waiting for the wind to drop. On the fourth morning the wall is closer. A section of it as long as a ship has pulled away from the rest and stands on the beach on four legs as thick as towers, and it is shaped like a bear, and its whole surface is carved with lines and angles that move, slowly, like the facets of a turning gem. Its head lowers toward the tents. The cold that comes off it is so fierce that the canvas cracks like glass, and the breath freezes in your chest.
 
 # Dossier {#dossier}
 
-A Frostmaw is an elemental force of pure glacial destruction, more powerful than smaller ice creatures. It is drawn to deep cold and frozen wastes, and it may remain in a single region for years, slowly deepening winter and expanding the frozen territory. Some Frostmaws are bound to serve, but most roam wild, driven by hunger and the simple imperative to spread cold and ice. An encounter with a Frostmaw in the depths of winter is a mortal threat.
+The Frostmaw is a great ice elemental: a spirit of the cold manifested as a bear-shaped body of solid blue-white ice some thirty feet long and many tons in weight, which lingers in the frozen places of the world for years at a time, deepening the winter round it and spreading the ice. It is drawn to heat and life, and it hunts them. It is the elemental that the few expeditions to [[place-isrncntnnt|Iseron]], the ice continent at the southern pole, bring back word of, and most of what is said about it is said by the survivors of those expeditions, which is to say by very few people. Like every elemental it can be destroyed in the material world, and it comes back; a frostmaw destroyed far from its ice may take a very long time.
 
 ## Presentation
 
-A Frostmaw is massive, roughly thirty feet in length, and vaguely bear-like in shape. Its body is composed entirely of solid, blue-white ice, each surface carved with geometric patterns that seem to shift and realign themselves. Its musculature is visible as layers within the ice, and it moves with surprising grace for something so massive and dense. Its eyes are the only clearly animated feature—bright, cold sapphire that burns with awareness and hunger. Its mouth is a cavern lined with ice formations like teeth or stalactites. Where it moves, the temperature drops precipitously, and the ground beneath it becomes brittle and prone to cracking.
+The frostmaw is roughly bear-shaped and enormous, heavy-shouldered and massive-headed, built entirely of blue-white ice so dense it looks like stone. Its surface is cut with geometric patterns, lines and facets, which shift and realign themselves as it moves, so that it seems always to be slowly turning inside itself. Its eyes are deep blue hollows. Its jaws are a cavern of icicles. When it stands still, it is a block of glacier, and snow settles on it. When it moves, it groans and cracks like a glacier calving. The cold round it kills.
+
+## In the Land
+
+Iseron is a continent of ice, its interior a sheet broken only by mountain peaks, its coast a wall of ice cliffs above rocky shores that show only in the brief southern summer, and its approaches choked with pack ice and icebergs. The frostmaw ranges the coastal glaciers and the ice shelves, and expeditions report it near the few geothermally warm coastal places, where liquid water and bare ground let anything live, because warmth and life draw it. It stays in one region for years, and the ice spreads round it: bays freeze that were open, glaciers advance, and the summer thaw does not come. It sleeps through the summer as a block of glacier, and wakes with the winter.
 
 ## Key Behaviors
 
-Frostmaws are solitary and territorial, claiming vast glacial regions as their hunting grounds. They are driven by hunger for heat and life—they pursue warm-blooded creatures with single-minded determination. They are intelligent enough to plan hunts and understand tactics, but they are also driven by instinct and rage that overcomes thought. A Frostmaw in a region will slowly transform that region into deeper and deeper winter, expanding the area of extreme cold over seasons. They seem to take satisfaction in this transformation beyond simple necessity.
+A frostmaw is solitary and territorial, and it claims huge stretches of glacier. It is driven by a hunger for heat and life: it goes after warm-blooded creatures, seals, whales, birds, men and their fires, with single-minded determination, and kills them with cold. It is intelligent enough to use its ice, thickening it, raising walls of it, cutting off retreats, and to lie in wait as a glacier for something warm to come close. It hibernates as ice through the warm months and is nearly impossible to tell from a natural glacier. When its body is destroyed, it breaks apart into ice that melts, and its spirit gathers itself and returns, over years or decades, to the cold.
+
+## What Expeditions Do
+
+The handful of expeditions that have come back from Iseron agree on three pieces of advice, and the expedition masters who still go south repeat them to every crew: never camp at the foot of a glacier; never light a fire larger than the camp needs, because a large fire is seen from very far away by things that are not men; and carry more fuel than the voyage could ever use, because fire is the one thing that drives a frostmaw back, and an expedition that runs out of fuel has run out of time. The reclusive coastal communities rumored to live in Iseron's warm places have never been met by anyone who could ask them what they do about it. Expedition masters believe that the frostmaw is the reason some of those warm places have been abandoned.
+
+## Signs
+
+- A glacier that has advanced across a beach or a bay since the last season.
+- Seals, whales and seabirds frozen solid where they lay, in a warm season.
+- Lines and facets in a wall of ice that are not where they were an hour ago.
+- A cold that falls suddenly, out of a clear sky, so fierce that canvas cracks and iron breaks.
+- A groaning and cracking from the ice like a glacier calving, from a glacier that is not moving.
 
 ## Combat Strategy
 
-A Frostmaw fights with terrible directness, charging opponents and using its massive strength to overwhelm them. It employs its freezing breath as both weapon and environmental control, transforming battlefields into icy hazards. It is fearless and will pursue prey to exhaustion. Against fire and heat, it becomes more careful but does not flee—it adapts, using cold to counter heat and attempting to overwhelm the source of warmth. A Frostmaw rarely retreats and fights until destroyed or until enemies flee far enough away.
+A frostmaw fights with terrible directness: it charges, bites, and breathes freezing air that turns the ground round its enemies to ice and freezes them where they stand. It brings ice down on them from the air and smashes the frozen ground into shards. It uses its control of the ice to cut off retreat. It is fearless. Fire is its only serious weakness: a large, sustained fire hurts it, and fire magic does it real harm. In its own cold it heals faster than anyone can hurt it.
 
 ## Attack Methods
 
 ### Crushing Bite
 
-The Frostmaw's jaws close with devastating force, and victims are simultaneously crushed and frozen. The bite is difficult to escape because the creature's strength is enormous, and the cold makes the victim sluggish and desperate.
+The jaws close with crushing force, and the victim is crushed and frozen at once. The cold makes him sluggish and desperate, and the bite is hard to escape.
 
 ### Freezing Breath
 
-The Frostmaw exhales a torrent of sub-zero air and crystalline ice that can freeze entire areas solid. The breath is devastatingly powerful, capable of immobilizing multiple opponents and transforming liquid water into ice.
-
-### Falling Ice
-
-The Frostmaw causes the air itself to crystallize into falling shards of ice that strike like weapons. These shards spread additional cold and can cause lacerations from their edges.
+The frostmaw breathes a torrent of bitter air and ice that freezes whole stretches of ground solid, turns water to ice, and freezes men where they stand.
 
 ### Glacial Crush
 
-The Frostmaw strikes the frozen ground with its massive weight, causing the ice beneath to crack and explode outward. The attack can knock opponents off their feet and fill an area with sharp ice fragments.
+It brings its whole weight down on the frozen ground, and the ice cracks and explodes outward in shards, throwing men down and cutting them.
 
 ## Special Abilities
 
+### Falling Ice
+
+It makes the air crystallize into falling spears of ice that strike like weapons and spread their cold.
+
 ### Glacial Regeneration
 
-The Frostmaw can repair its form by drawing moisture from the air and freezing it onto its body. In cold or damp environments, it heals quickly. This makes it nearly impossible to outlast in its native habitat.
+It mends itself by freezing moisture from the air onto its body. In cold or damp it heals quickly, and in its own country it cannot be outlasted.
 
 ### Frozen Mastery
 
-The Frostmaw exerts absolute control over ice and snow in its territory. It can thicken ice, create new frozen obstacles, and use the environment as both shield and weapon.
+It commands the ice and snow of its ground: it thickens ice, raises walls and obstacles, and uses the glacier as shield and weapon.
 
 ### Extreme Cold
 
-The temperature around a Frostmaw is lethal. Within one hundred feet, exposed flesh freezes in minutes. The extreme cold makes movement difficult and slows every physical effort.
+Within a hundred feet of it, exposed flesh freezes in minutes, and every movement is slow and painful.
 
 ### Hibernation Cycle
 
-A Frostmaw can enter a kind of hibernation where it becomes dormant and nearly impossible to distinguish from a natural glacier. It will awaken with the coming of winter or if disturbed.
+In the warm months it lies dormant, indistinguishable from glacier ice, and wakes with winter or if disturbed.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Frostmaw's only serious weakness. A large, sustained source of heat can harm it significantly. Warm-based magic is effective. However, even against fire, a Frostmaw will fight with determined aggression. A Frostmaw destroyed far from cold sources or in extreme heat may not reform. One destroyed in its native glacial territory will likely return after several seasons. Permanent destruction requires either sustained exposure to extreme heat or collapsing it into warm water or underground hot springs. Some settlements in frozen lands have learned to coexist with a Frostmaw by offering it hunting territories separate from human habitation. Such arrangements are delicate and may break at any time.
+A large, sustained fire harms it, and fire magic does it real damage.
 
 ## Attributes
 
-- **Strength:** 15-18 (1d4+14)
+- **Strength:** 46-51 (1d6+45)
 
 - **Endurance:** 15-18 (1d4+14)
 

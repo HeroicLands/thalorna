@@ -3,7 +3,7 @@ shortcode: abyssdrk
 name: {full: Abyssdrake, aliases: []}
 type: being
 subType: creature
-description: "A rare, intelligent draconic ambush predator of lightless depths that guards sunken ruins, trenches, and corrupted underwater sanctuaries."
+description: "A rare, intelligent draconic ambush predator of lightless depths that guards sunken ruins, trenches, and underwater sanctuaries."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -273,55 +273,75 @@ sohl:
 
 ![[abyssdrk|Abyssdrake]]{float=top-left}
 
-The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch.
+The tide is at its lowest, and the stones of the drowned street are out of the water for the one hour in the month they show: weed-hung walls, a doorway, a stair going down into black water. Something is lying along the stair. It is longer than a fishing boat and black as wet slate, and it is so still that you see it only because the light catches a row of fins down its back, each one rimmed in a faint, sickly green. Then it turns its head, and two eyes open in it, burning a cold, hard blue. The smell of brine and rotten eggs comes up off the water, and a hiss you feel in your breastbone more than hear.
 
 # Dossier {#dossier}
 
-Abyssdrakes are draconic hunters born in crushing oceanic depths or caverns so dark that light becomes a weapon against them. These creatures are ambush predators of rare intelligence, dwelling in sunken ruins, abyssal trenches, and underwater passages between worlds. Adventurers may encounter an Abyssdrake guarding forbidden places—ruined temples, portals, or grotesquely corrupted sanctuaries—where the creature has made its lair.
+The Abyssdrake is a dreadspawn made in the shape of a sea-drake: twenty to thirty feet of black-scaled, finned, serpentine body that hunts in lightless water and comes up out of it at night, with jaws, claws and a breath of corrosive vapor. It was made, like all dreadspawn, and it does not breed; this one, at least, was made to guard. Off the fog-bound coast of [[place-galvaren|Galváren]], where the fishing towns tell stories of drowned cities and take them seriously, the abyssdrake is the reason one of those stories is told as a warning. It keeps a sunken ruin under the cliffs and kills what comes into it, and it has done so for longer than any family on the coast can remember.
 
 ## Presentation
 
-The creature resembles a slender, wingless drake roughly twenty to thirty feet in length, its body covered in obsidian-black scales that seem to absorb light rather than reflect it. Its head tapers to a pointed snout lined with backward-curving teeth; above each eye, a ridge of jagged, backward-pointing fins protrudes. A mane of similar spikes runs the length of its spine, each one rimmed in phosphorescent violet or sickly green. Its claws are elongated and wickedly sharp, resembling black iron. It moves with predatory grace, equally at home in water and on land, and produces a low, thrumming hiss that vibrates in bone and chest.
+The body is long and slender, scaled in a black that seems to swallow light, with a pointed head, a mouth of backward-curving teeth, and a ridge of jagged fins over each eye. A crest of spines runs the length of the back, each rimmed in a faint violet or green glow. Along each flank runs a broad, black fin like a ray's wing, which drives it through the water and which it spreads, out of the water, to lift itself into the air in slow, heavy, gliding flight. The claws are long and dark as iron. It smells of brine and sulfur and something rotting. It moves smoothly and without hurry in water and on land, and it makes a low, thrumming hiss when it is roused.
+
+## In the Land
+
+The abyssdrake keeps the drowned ruin off the Galváreni coast that the fishing towns call the sunken city: a few streets of fitted stone under the cliffs, uncovered at the lowest spring tides and drowned the rest of the month, with stairs that go down into flooded passages and sea-caves no one has followed to their end. Its lair is somewhere in those passages. It hunts the seal rocks and the fishing grounds round the ruin by night, and on dark nights it lifts out of the sea and glides along the cliffs, and boats coming home late have seen it against the stars. It does not go far from the ruin. Whatever the ruin held, the drake has outlived it, and it stays.
 
 ## Key Behaviors
 
-The Abyssdrake hunts in isolation, claiming vast territories as its own. It lurks in the deepest parts of its domain—lightless caverns, sunken ruins, narrow passages where its sinuous form gives it advantage. The creature is a patient hunter, willing to remain motionless for days to ambush prey. It exhibits tool-like reasoning in selecting and defending its hunting ground; it may even attempt to drive competitors from its territory without eating them, establishing dominance. When wounded or threatened with starvation, it becomes erratic and aggressive.
+The drake hunts alone, mostly at night and in deep, dark water, and lies up in the drowned passages by day. It is a patient ambusher and will wait days in one place for prey to come. It is intelligent and holds its ground the way a lord holds a manor: it drives seals, sharks and boats out of the water round the ruin without eating them, and it attacks anything that goes down into the ruin itself. A fishing boat that keeps its distance is usually let alone. A party that goes into the ruin at low tide has an hour before the sea comes back and the drake comes with it.
+
+## What the Fishing Towns Do
+
+The fishermen of the coast set their nets well wide of the ruin, sail home before dark in the dark of the moon, and do not anchor within sight of the sunken city. The harbor tellers of [[place-marendal|Maréndal]] say the drake keeps the gate of a city that the sea took for its pride, and that what lies at the bottom of the stair is the city's treasure, still waiting. Every generation some young man takes a boat out at the lowest spring tide to look, and most of them come back. The ones who do not are remembered by name at the harbor, and their names are told to the next young man. An [[affiliation-arldnpnthn|Aurèldían]] priest blesses the fleet each spring with lamps, because the drake shuns strong light.
+
+## Signs
+
+- Seals hauled out on rocks far from their usual grounds, and none on the rocks near the ruin.
+- Nets and lobster-pots near the ruin cut cleanly, as if by a blade, and dragged down.
+- A smell of brine and rotten eggs on a still evening, rising off the water.
+- Patches of water where the weed and the barnacles on the rocks are dead and bleached.
+- A long shape against the stars, gliding along the cliffs on a moonless night.
 
 ## Combat Strategy
 
-The Abyssdrake favors ambush from darkness or murky water, striking from concealment to wound prey with teeth and claws before withdrawing to assess. In prolonged combat, it uses terrain to break line of sight, regenerating its wounds from the shadows. It does not fight to the death—if an encounter turns unfavorably, it flees into deepest water, knowing pursuers cannot follow. It shows particular cunning in using confined spaces against larger or multiple foes.
+The drake fights from darkness and water. It strikes from below or out of a flooded passage, bites and claws, and pulls back into the dark to judge what it has hit. It uses its corrosive breath against a group, then closes on whoever is left standing. It drags what it seizes down into deep water. It does not fight to the death: if a fight goes against it, it goes deep and waits, and heals in the dark, and comes back. It is clever in tight places, fights in the narrow passages where a party cannot spread out, and avoids strong light.
 
 ## Attack Methods
 
 ### Serpent Bite
 
-The creature lunges with its full body behind a devastating bite attack, attempting to seize and crush prey in its jaws. The bite does terrible damage; once it has a grip, it can hold prey in its mouth and drag them toward deeper water.
+The drake lunges with its whole length behind its jaws and seizes. The backward teeth hold, and once it has a grip it pulls its victim toward deep water.
 
 ### Shadow Claws
 
-Raking attacks with its fore-claws rake and tear armor, cloth, and flesh alike. The creature uses these in combination with its bite, attempting to immobilize prey long enough to drag them to deeper, darker ground.
+The forefeet rake with long black claws that cut through cloth, leather and flesh. The drake claws to hold and tear while it bites, and to keep a victim from getting away.
 
 ### Corrosive Breath
 
-The drake exhales a stream of caustic vapor and fluid that dissolves flesh and corrodes armor. The burns it leaves go on eating into exposed skin for some time after the breath itself has passed.
+The drake breathes out a stream of hot, stinking vapor and fluid that blisters skin, eats into leather and pits iron. The burns go on eating into exposed skin for a while after the breath has passed.
 
 ## Special Abilities
 
 ### Shadow Adaptation
 
-The Abyssdrake is nearly invisible in darkness or murky water. In dim light or shadow it is very hard to spot, and in complete darkness its strikes land on creatures that cannot see in the dark before they know it is there.
+In darkness or murky water the drake is nearly invisible, and in complete darkness it strikes a man who cannot see in the dark before he knows it is there.
 
 ### Regeneration
 
-Drawn from deep places where natural law frays, the creature regenerates slowly from wounds. So long as it remains in darkness or water, it heals at an accelerated rate; sunlight and prolonged exposure to bright light halts regeneration entirely.
+In darkness or water the drake heals far faster than any natural creature. Sunlight or strong, steady light stops its healing entirely, and a drake kept in light cannot heal at all.
 
 ### Aquatic Propulsion
 
-The drake's sinuous body and powerful tail give it great speed in water, allowing it to move faster than most swimmers and to maneuver in ways land-bound creatures cannot match.
+Its long body, its tail and its winglike fins make it much faster in water than any swimmer, and it turns and dives where nothing that walks can follow.
 
-## Additional Information
+### Gliding Flight
 
-Abyssdrakes are vulnerable to sustained light exposure; creatures wielding light-generating items (enchanted torches, magical spells) can drive one from its lair or prevent it from regenerating. Abyssdrakes may be partly extraplanar in nature, which would explain their resistance to conventional weapons and their seeming indifference to depth pressure.
+Out of the water the drake spreads its fins and lifts itself into the air, slowly and heavily, and glides along cliffs and over the water on dark nights.
+
+### Light Aversion
+
+The drake shuns strong light. A bright lamp, a fire or a lit blessing held up in its face drives it back into the dark and keeps it from healing.
 
 ## Attributes
 

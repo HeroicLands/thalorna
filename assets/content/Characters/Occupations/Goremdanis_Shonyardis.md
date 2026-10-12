@@ -401,8 +401,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Goremdânis was raised in a small village where music was a large part of life. He learned to play the lyre from his father and now travels from town to town, playing wherever he is welcome. His songs are often drawn from nature, and he is known for the vivid pictures his music calls up. Though he plays mostly for rural audiences, he dreams of becoming a court musician.
 
-Now at 35 years of age, he is a known figure among the lyre players of Vylaria.
-
 ## Psyche
 
 ### Personality

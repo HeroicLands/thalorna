@@ -207,55 +207,67 @@ sohl:
 
 ![[glmsprt|Gloomsprite]]{float=top-left}
 
-A spark of sickly light flits past your eye—there, then gone. When you follow it, there are suddenly three, no five, all slightly different colors, all mocking your inability to track them. The air around them feels colder, and you realize with creeping unease that you cannot quite remember why you were walking down this path in the first place.
+The path forks at the old thorn tree, and you are sure you took the left fork an hour ago; and here is the old thorn tree again. Something laughs, very small and very close. On the thorn tree, at the height of your eyes, sits a creature no bigger than your hand, shaped somewhere between a dragonfly and a little gray woman, its body made of something halfway between light and shadow, so that your eyes slide off it. It has its head on one side. "You promised your mother you'd be home by dark," it says, in a voice like a dry leaf, "and you won't be." It is gone. Both forks of the path now lead back to the tree.
 
 # Dossier {#dossier}
 
-Gloomsprites are fey tricksters native to the shadow-touched borderlands between the spirit world and the material plane. They are neither wholly evil nor entirely benign—their sense of morality exists in a space humans cannot quite inhabit. They delight in puzzles, games, and the elaborate downfall of those who break unspoken bargains. A Gloomsprite might lead travelers astray for days simply to prove a point about the dangers of assumption, or they might defend a child lost in the woods with fierce protection. Encounters with Gloomsprites are unpredictable and often disturbing, less because of physical threat than because of the unsettling nature of their attention.
+The Gloomsprite is a small spirit of the borderlands between the spirit world and the material world, a trickster of shadow and half-light no bigger than a hand, which delights in puzzles, bargains and contradictions and leads travelers astray. It is neither wholly malicious nor at all kind. It is drawn above all to broken promises, including the ones never spoken aloud, and it punishes them the way it does everything else, by confusion. It is met in the [[place-thuravelhills|Thúravel Hills]] of southern Provènzia, the low wooded hills that are mapped with a vagueness unusual in so well-surveyed a kingdom and that the people who live near them do not go far into without a reason.
 
 ## Presentation
 
-A Gloomsprite is roughly the size of a man's hand, with an insectoid or fairy-like silhouette. Its body is translucent and composed of something between light and shadow, giving it a shimmering quality that makes it hard to focus on directly. Its wings are gossamer-thin and move faster than the eye can follow, producing a sound like wind through broken glass. Its eyes are the only solid-looking feature—violet or deep blue, perfectly round, and without a trace of warmth. The creature emits a faint glow that shifts between sickly green and pale purple, and this light leaves afterimages on the observer's vision if stared at too long.
+A gloomsprite is the size of a hand, with a slender body and four gauzy wings, shaped somewhere between an insect and a tiny person. It is made of something between light and shadow, translucent and shimmering, and the eye slides off it; it is easiest to see out of the corner of the eye. Its face is small and sharp and very expressive. It speaks, in a whispering voice, and it knows things about the people it speaks to that it should not know. It laughs a great deal. In bright light it becomes solid and dull, and plainly frightened.
+
+## In the Land
+
+The Thúravel Hills were a country of the Old Gods before the Aurèldían Twelve came west, and they were never really converted so much as left alone; every attempt to survey them has produced a chart that disagrees with the last. The gloomsprites haunt the edges of things there: the forks of paths, the margins of woods and clearings, the fords, the old stones, places where the light changes. They do not stay in one place and they are seldom seen in the same place twice. They are drawn to travelers, to anyone who is lost or uncertain, and to anyone carrying an unkept promise.
 
 ## Key Behaviors
 
-Gloomsprites are solitary creatures that haunt liminal spaces—forest edges, the boundaries between shadow and light, places where people are most likely to become lost. They are drawn to contradiction and paradox; a human following contradictory directions fascinates them for hours. Despite their malevolent reputation, they are rarely murderers—they prefer tormenting travelers with endless loops, leading them in circles, or creating situations where two choices are equally bad. This seems to amuse them. A Gloomsprite will sometimes take payment to undo its tricks, or to guide a traveler in a particular direction, but the payment requested is often bizarre and disturbing rather than valuable.
+A gloomsprite plays. It sets puzzles and contradictions: a path that leads back to where it started, directions that are true and useless, a bargain offered at a crossroads. It is solitary and capricious. It seems to judge people by whether they keep their word, including promises made carelessly or only to themselves, and those who have broken one it leads astray, sometimes for an hour and sometimes for days, sometimes into real danger. It honors an explicit bargain exactly, as if compelled to, though it reads the terms in the way that suits it best. It avoids fighting.
+
+## What the Hill People Do
+
+The villages at the edges of the hills are small, old and inward, and they keep their own customs, which the ballad-collectors have recorded and do not understand. One of them is that nobody goes into the hills with a promise unkept; a man who has one goes and keeps it first, or sends word that he will. Another is that a traveler who finds himself coming back to the same tree twice stops, says aloud what he owes and to whom, and promises to pay it, and then walks on. Shepherds carry a lantern even by day in the deep woods. The cartographers who blame the vague maps on the terrain have never asked the villagers whether the gloomsprites have anything to do with it, and the villagers have never offered.
+
+## Signs
+
+- A path that returns to the same landmark however carefully it is followed.
+- A small laugh close by with no one there, in a wood at dusk.
+- Directions given by a stranger that are true and lead nowhere.
+- Travelers who come out of the hills a day later than they should have, with no idea where the day went.
+- A shimmer at the edge of sight, at the fork of a path, that is gone when looked at.
 
 ## Combat Strategy
 
-Gloomsprites almost never engage in direct combat; they are far too fragile. Instead, they harry opponents with illusions and misdirection, darting in to make a strike before vanishing into shadow. If a Gloomsprite cannot achieve superiority through trickery, it flees immediately. They are clever enough to create situations where opponents strike each other while pursuing phantom sprites, or where a victim walks into obstacles they cannot see. Against an opponent who is immune to illusion or deception, a Gloomsprite becomes obvious and desperate, and will retreat to find better odds elsewhere.
+A gloomsprite almost never fights; it is far too fragile. It confuses, misdirects and hides, darts in to scratch and vanishes into shadow, and leaves its victims fighting images. If it cannot win by trickery, it leaves. Light is its weakness: lanterns, torches, sunlight and light magic force it into a solid form that weapons can hit, and a party with strong light can turn an encounter round.
 
 ## Attack Methods
 
-### Mental Disorientation
-
-The sprite uses magic and its shifting form to confuse a target's mind, making directions seem wrong and distances inaccurate. A victim finds themselves walking toward the creature instead of away, or striking at images instead of the real being. This is more confusing than painful.
-
 ### Tiny Claws
 
-When forced into direct physical combat, the Gloomsprite rakes with claws that seem to find gaps in armor with impossible precision. The wounds are small but weirdly deep, as though the claws exist partially in another realm.
+Forced to fight, the sprite rakes with tiny claws that find the gaps in armor with uncanny precision. The wounds are small and strangely deep.
 
 ## Special Abilities
 
+### Mental Disorientation
+
+The sprite confuses the mind: directions feel wrong, distances lie, a man walks toward it while he means to walk away and strikes at images instead of the sprite.
+
 ### Shadow Flitting
 
-The Gloomsprite can move through shadows as though they were open spaces, appearing and disappearing at will. In bright light, its movement is restricted to normal space and it becomes much more vulnerable.
+It moves through shadows as if they were open doors, vanishing from one and appearing from another. In bright light it is held to ordinary space.
 
 ### Layered Illusions
 
-The creature creates phantom forms and false images that overlay reality. A victim under the effect of this ability sees multiple versions of the sprite, multiple paths, multiple exits—all false. The actual sprite is somewhere in the confusion, but finding it requires more luck than skill.
+It lays false images over the world, many sprites, many paths and many ways out, all false, and the real sprite is somewhere among them.
 
 ### Incorporeal Nature
 
-The Gloomsprite is not fully material; physical weapons pass through it most of the time. However, light-based magic or blessed weapons bypass this protection, striking it as though it were fully corporeal.
+Ordinary weapons usually pass through it. Light magic and blessed weapons strike it as if it were solid, and bright light makes it solid enough to hit.
 
 ### Fey Bargaining
 
-The Gloomsprite seems compelled by something deeper than law to honor explicit bargains. If a traveler somehow manages to negotiate with the creature, the agreement is binding on both sides. The sprite will uphold its end, though perhaps with malicious interpretation of the terms.
-
-## Additional Information
-
-Bright light, especially natural sunlight or magical radiance, forces the Gloomsprite into a more corporeal form where it is vulnerable to normal weapons. Many travelers have found that producing bright light—lanterns, torches, light magic—can turn an encounter from overwhelming chaos to a manageable threat. Some experienced sprite-hunters carry mirrors to reflect and amplify light onto these creatures. A Gloomsprite killed in bright light dies like any creature, but one that reaches shadow first may simply dissipate, scattering into harmless wisps of shadow. Whether a dead Gloomsprite actually remains dead or simply withdraws to the spirit realm is unclear; no scholar has definitively answered this question.
+It is bound to honor an explicit bargain, and so is the one who makes it with it. It keeps its word to the letter and reads the letter in its own favor.
 
 ## Attributes
 
@@ -274,3 +286,5 @@ Bright light, especially natural sunlight or magical radiance, forces the Glooms
 - **Reasoning:** 9-12 (1d4+8)
 
 - **Creativity:** 13-16 (1d4+12)
+
+- **Strength:** 1-4 (1d4)

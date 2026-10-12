@@ -399,8 +399,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Zórila is the trusted huntswoman for Lord Varek of [[place-thornhillmnr|Thornhill Manor]]. Growing up in a hunting family, she excelled in the trade from a young age. She is known for her skill with a bow and her ability to move silently through the woods. She is often invited to hunt with the lord and his guests, and she is much relied on during the hunting season.
 
-Now at 29 years of age, she is a known figure among the hunters of Tarvénia.
-
 ## Psyche
 
 ### Personality

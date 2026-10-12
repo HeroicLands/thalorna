@@ -3,7 +3,7 @@ shortcode: vrdntcl
 name: {full: Verdantcoil, aliases: []}
 type: being
 subType: creature
-description: "A colossal, patient snake of corrupted origin that lurks motionless in ancient forests, waiting days to strike from ambush."
+description: "A colossal, patient made snake that lurks motionless in ancient forests, waiting days to strike from ambush."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -189,59 +189,75 @@ sohl:
 
 ![[vrdntcl|Verdantcoil]]{float=top-left}
 
-The branch ahead shifts though there is no wind. You might have missed it—might have thought it nothing but an old bough settling—except you see the scales now, brilliant emerald catching light that should be blocked by the canopy above. The coil tightens around the branch, and the creature raises its head with terrible, slow grace. Eyes like polished jade fixate on you with predatory calculation, and a forked tongue tastes the air, sensing your heat, your fear, your vulnerability. The creature's body is massive—easily thirty feet in length, all coiled muscle and power. Emerald scales shimmer as the creature shifts its position, seeking the best angle for its strike. You hear nothing as it moves—no scrape, no rustle, no warning beyond the sight of that beautiful, terrible head turning to face you with absolute intent.
+The old fir has a limb as thick as a man's body running out over the path, and the limb is wrapped in green, coil on coil of it, bright as new leaves. You take it for a creeper. You are under the limb when the creeper moves. It pours off the branch, coil after emerald coil, a snake as long as a boat and thicker than your thigh, and it lands across your shoulders with a weight that drives you to your knees, and before you have finished falling the coils are round your chest, and tightening, and a flat green head with gold eyes swings round in front of your face.
 
 # Dossier {#dossier}
 
-Verdantcoils are apex predators of ancient forests, massive snakes of corrupted or magical origin that have evolved supernatural strength, intelligence, and patience. They are ambush hunters of supreme skill, creatures that can remain perfectly motionless for days waiting for the perfect moment to strike. A Verdantcoil does little active hunting; it prefers to place itself where prey cannot possibly escape. These creatures are found primarily in deep, old-growth forests where the canopy is thick and the darkness is deep. A single Verdantcoil can effectively cut off travel through an entire stretch of forest as travelers learn to avoid the creature's territory and the high likelihood of death.
+The Verdantcoil is a dreadspawn in the shape of a colossal emerald constrictor, twenty-five to thirty-five feet long and three hundred pounds, which lies motionless along branches in ancient forest for weeks at a time and drops on what passes beneath. It crushes, and it has a venom that paralyzes and burns. It is patient beyond any animal and cunning. One holds a stretch of the old forest of the [[place-toravarrange|Toravar Range]], the forested mountains along Tarvénia's border with Élavendre that the [[affiliation-aelndntrbs|Áelendan]] hold as sacred country. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Verdantcoil measures roughly 25 to 35 feet in length, with a muscular frame built for constriction and power. Its scales are brilliant emerald in color, often with darker striping or patterns that provide perfect camouflage in forest foliage. The scales are smooth and gloss-like, shedding water and seeming to absorb light rather than reflect it, which makes the creature disturbingly difficult to track even when looking directly at it. Its head is large and triangular, filled with teeth of surprising sharpness, and hollow fangs that drip with venom of a luminescent green color. Its eyes are large and intelligent, positioned toward the front of its head for binocular vision. Its tongue is forked and nearly as long as a hand-span. The creature is silent as it moves, and even experienced trackers have difficulty determining whether a Verdantcoil is present until it strikes.
+The verdantcoil is long and heavy-bodied, built entirely for constriction, with scales of brilliant emerald barred with darker green and flecked with gold, glossy as wet leaves. Coiled on a branch or among ferns, it looks like a mass of creeper. Its head is broad and flat, with gold eyes and pits along the lip that sense warmth. Its fangs fold back in its mouth. It moves in perfect silence along branches, vines and the forest floor, and it can lie for weeks without moving at all. It is cool to the touch and smells faintly of crushed leaves.
+
+## In the Land
+
+The Toravar is the great forested mountain belt that marks Tarvénia's northern border, and its high reaches are Áelendan country, sacred and old. The verdantcoil holds several miles of the oldest forest on the range's middle slopes, where the firs and oaks are huge and their limbs reach over the deer trails, and it has many favored ambush branches and moves among them through the seasons. It eats deer, boar, wolves and anything else it can catch from above. It keeps to the warm, sheltered slopes and avoids the cold of the high ridges, where it would be sluggish, and the winter sends it into a deep hollow under the roots of a great tree to wait for spring.
 
 ## Key Behaviors
 
-A Verdantcoil claims a territory spanning several miles of forest and establishes multiple preferred ambush positions throughout that range. The creature is known to spend weeks or months in a single location, perfectly coiled around a branch or within dense foliage, waiting with supernatural patience for prey to pass within striking range. The creature shows evidence of learning and memory—it will avoid poison, remember humans who have escaped, and adjust its tactics accordingly. A Verdantcoil seems to breed very rarely, and breeding females become so aggressive that entire regions of forest become nearly impassable during breeding season.
+The verdantcoil waits, for weeks if need be, coiled on a branch above a trail, and when something passes beneath, it drops, coils and squeezes. It bites what fights back, and the venom finishes it. It swallows its prey whole and lies up for a long time afterward to digest. It is clever: it learns which trails are used and when, and moves to the branch above the one most used. It senses warmth with great accuracy, finds prey in total darkness, and feels a heartbeat at a distance.
+
+## What the Áelendan and the Barons Do
+
+The Áelendan clans of the Toravar know the verdantcoil's ground and walk round it, or walk it in company, with the oldest of them watching the branches overhead. The [[affiliation-alndnwrdns|Wardens]] do not hunt it. Tarvénan foresters who come up into the range with a baron's logging concession, against the clans' wishes, are told by the clans which slopes to keep off, and do not always listen. One of the frictions over logging concessions that the local Wardens settle with the local baron, without troubling the crown, ended when a felling crew went up onto the verdantcoil's slope against the Wardens' warning and three of them did not come down. The clans did not need to say anything after that, and did not.
+
+## Signs
+
+- A mass of bright green "creeper" on a high limb over a trail that is on a different limb a week later.
+- Deer and boar that will not use a trail they have used for years.
+- A sloughed skin, green-gold and as long as a boat, draped over branches.
+- Bones of deer and boar regurgitated in a pellet under a great tree.
+- A sudden silence of birds along a stretch of trail, as if something were holding its breath.
 
 ## Combat Strategy
 
-A Verdantcoil initiates combat by dropping from above or from concealment at the perfect moment, attempting to wrap around a target and crush the life from them before they have time to respond. The creature's speed at the moment of attack is nearly impossible to evade. Once a victim is constricted, the Verdantcoil will maintain relentless pressure until prey ceases to struggle, and then it will attempt to swallow the victim whole or drag them to a secure location. If the initial ambush fails and the creature fails to secure a target, it will retreat into the forest canopy or undergrowth, content to wait another few weeks for the next opportunity.
+The verdantcoil attacks once, from above and from concealment, at the moment its prey is beneath it: it drops, coils and crushes before its victim can react. It bites anything that fights back or comes to help. It holds its victim while the venom and the squeezing do their work, and it does not let go of its own accord. If it is badly hurt it releases and goes up into the trees, fast and silent, where it is very hard to follow. Cold and fire both drive it off.
 
 ## Attack Methods
 
 ### Striking Constriction
 
-The Verdantcoil hurls itself at a target from concealment, attempting to wrap multiple coils around the victim and crush them with relentless pressure. Escape from this constriction is nearly impossible without magical aid.
+The verdantcoil drops onto its victim from above and throws coil after coil round him at once, crushing his chest and pinning his arms. Breaking free without help is almost impossible.
 
 ### Venomous Bite
 
-Once prey is secured or cornered, the creature delivers a bite injecting potent neurotoxins that cause creeping paralysis and excruciating pain.
-
-### Suffocating Squeeze
-
-By maintaining constriction over time, the Verdantcoil slowly suffocates victims, preventing them from breathing or calling for aid.
+It bites what struggles, and its venom brings a creeping paralysis and a burning pain that spread from the bite.
 
 ## Special Abilities
 
+### Suffocating Squeeze
+
+Held long enough, a victim cannot breathe and cannot cry out, and he loses consciousness and dies.
+
 ### Forest Supremacy
 
-The Verdantcoil moves through forest terrain with supernatural grace, traversing branches, vines, and dense undergrowth in perfect silence. In heavy forest, the creature is nearly invisible and can move at full speed while remaining undetected.
+It moves along branches, vines and through undergrowth in perfect silence and at full speed, and in heavy forest it is nearly invisible.
 
 ### Ambush Mastery
 
-The Verdantcoil can remain perfectly motionless for extraordinary lengths of time, blending completely with its surroundings. Spotting one requires the keenest eyes or magical sight.
+It holds perfectly still for extraordinary lengths of time and is all but impossible to see while it does.
 
 ### Constriction Strength
 
-The Verdantcoil's muscular body can apply crushing pressure to anything it coils around, strong enough to rupture organs, crush armor, and suffocate even large creatures.
+Its coils crush armor, rupture organs and suffocate creatures far larger than a man.
 
 ### Thermal Perception
 
-The Verdantcoil senses heat with perfect accuracy, allowing it to track prey in complete darkness and sense heartbeats from considerable distance.
+It senses warmth precisely, tracks prey in total darkness, and feels a heartbeat from a distance.
 
-## Additional Information
+### Cold and Fire
 
-Cold is the Verdantcoil's primary weakness—extreme cold slows its metabolism dramatically, reducing its speed and strength significantly. Fire is equally effective, as the creature abhors heat and will retreat from sustained flames. Repeated exposure to either extreme temperature can eventually drive a Verdantcoil from its territory. In areas where the forest has been cleared or where the canopy is thin, the creature loses much of its advantage and becomes a comparatively normal predator, though still dangerous. The creature's scales, if harvested carefully, can be fashioned into armor that retains the creature's natural camouflage properties and grants the wearer partial invisibility in forest settings. Its fangs make deadly weapons. The venom can be extracted and preserved, though doing so requires great care and protective gear. Hunting a Verdantcoil is considered one of the most dangerous activities a human can undertake, and a successful hunter is famous for life.
+Cold slows it badly and saps its strength, and it shrinks from fire and will leave sustained flame.
 
 ## Attributes
 

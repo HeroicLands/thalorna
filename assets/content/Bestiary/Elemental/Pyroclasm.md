@@ -422,67 +422,79 @@ sohl:
 
 ![[pyrclsm|Pyroclasm]]{float=top-left}
 
-Before you stands contained catastrophe—a roughly humanoid shape twelve feet tall, composed of roiling lava and burning rock held in violent cohesion. Its movements are aggressive and jerky, as if barely contained by the effort of maintaining form. Where it stands, the ground melts and the air shimmers. Magma drips from its limbs like sweat, and its breath is literally fire. The noise it makes is the hiss of lava striking water, the roar of volcanic eruption, the crackle of a world burning. When it looks at you, you are certain you are looking at something that simply wants to incinerate everything.
+The mountain has been rumbling for three days, and this morning the shrine on its summit is gone in a cloud of ash. Down the terraced shoulder, through the rice and the burning bamboo, something is walking. It is the shape of a man twice the height of a man, and it is made of lava: orange and white where it flows, black where it crusts and cracks, dripping fire that sets the terraces alight wherever it falls. It has no face, only a glare. It walks straight through a farmhouse, and the farmhouse bursts into flame and is gone. Then it turns toward the village below, and the bells begin to ring.
 
 # Dossier {#dossier}
 
-A Pyroclasm is volcanic devastation made animate—a fire elemental of tremendous power but less intelligent and more chaotic than larger fire creatures. It is born from active volcanoes and is drawn to places of heat and burning. A Pyroclasm encountered away from volcanic regions is likely an escaped binding, and it will consume and destroy everything in its path toward cooler water. In volcanic regions, Pyroclasms are natural phenomena, as inevitable as earthquakes and as destructive.
+The Pyroclasm is a fire elemental of volcanic devastation: a spirit of the fire-aspect that manifests out of an active volcano as a twelve-foot giant of incandescent lava and burning rock, and walks out of the crater consuming everything in its path. It is powerful, chaotic, hardly intelligent and destroys everything it reaches, and it does nothing at all to save itself. It comes out of the volcanoes of [[place-jurthatrgn|Jürthāt]], the ring of nine volcanic islands east of Tānvür, when they erupt, and it walks down toward the sea. The Jürthāti read eruptions as heaven's attention to its favored land, and they read the pyroclasm the same way. Like every elemental it can be destroyed in the material world and it comes back, with the next eruption.
 
 ## Presentation
 
-A Pyroclasm is roughly humanoid in shape, standing about twelve feet tall, and composed entirely of incandescent lava and burning rock. Its body is a writhing mass of molten matter that drips and flows but somehow maintains cohesion. Its core is white-hot and glows with extreme intensity. Where it moves, the ground melts or cracks from heat. Its hands and feet are defined by the flowing nature of lava, and it leaves trails of burning material in its wake.
+The pyroclasm is roughly man-shaped, about twelve feet tall, and built entirely of lava and burning rock: a writhing, dripping mass that flows and yet holds its shape, glowing orange, yellow and white at its core and crusted black where its surface cools and cracks. It has no features, only a blinding glare where a face would be. Fire drips from it and runs from its feet. It moves with a heavy, lurching stride, and everything it touches bursts into flame. The heat round it melts lead and cracks stone, and the roar of it is like a furnace with the door open.
+
+## In the Land
+
+Each of the Nine Mountains of Jürthāt is a volcanic peak, its shoulders terraced for rice and its summit kept for shrines, and the volcanism that built them is still active: eruptions, hot springs and earthquakes are part of ordinary life. A pyroclasm rises out of a mountain in eruption, out of the vent or a lava flow, and walks downhill, toward the sea, burning everything on its way: terraces, villages, cedar and pine forests, bamboo groves, shrines. It seems drawn by heat and burning and by the water at the bottom of the slope, and when it reaches the sea it walks into it and is destroyed in a great storm of steam. Between eruptions there are none.
 
 ## Key Behaviors
 
-Pyroclasms are aggressive and destructive by nature. They are driven by hunger for fuel and by the compulsion to burn and incinerate. They show minimal intelligence and seem to have no instinct for self-preservation. They will continue attacking even when clearly losing, driven by rage and instinct. They are most active in volcanic regions and near sources of flame, and they become more aggressive and more powerful in such environments.
+A pyroclasm is driven by a compulsion to burn and consume. It walks toward the nearest heat and the nearest fuel, and it attacks everything in its way, with no regard for its own safety. It does not hunt, plan or retreat. It senses heat and follows living warmth, and sees in complete darkness. It heals by wading into lava. When it is destroyed, by water, cold or the sea, it breaks into a mass of cooling black rock and steam, and its spirit goes back into the mountain to wait for the next eruption.
+
+## What the Islanders Do
+
+The Jürthāti treat an eruption as heaven's attention and a pyroclasm as heaven's instrument, and they respond with a discipline that outsiders find more frightening than the creature. When a mountain erupts and a pyroclasm comes out of it, the great lord of the island orders the villages in its path cleared, and his retainers hold the roads while the people go. The lord's [[lore-venduk|Vëndük]] retainers and the shrine priests try to turn its path toward the sea along a stream-bed, by flooding the terraces with water from the irrigation channels and building walls of wet earth across the slope, and they sometimes succeed. Where a pyroclasm has burned a village, the village is rebuilt on the same ground, because the ground has been chosen. Mainland [[affiliation-tngvkvnlei|Celestial Order]] scholars class the pyroclasm under the Lord of Fire's wildfire, the fires sent against a region in disorder, and say the islands' eruptions are the proof that the islands are disordered; the islanders say the same of the mainland.
+
+## Signs
+
+- A mountain that has rumbled for days and is throwing ash.
+- A line of burning terraces, villages and forest running straight down a mountainside from a vent.
+- Black, still-warm rock in a long trail across fields, glassy in places, with nothing growing on it.
+- Steam rising in a great column from the sea at the foot of a burned slope.
+- Animals of every kind fleeing downhill together, ahead of the fire.
 
 ## Combat Strategy
 
-Pyroclasms fight with destructive directness, charging and striking with overwhelming force. They use fire-based attacks indiscriminately, affecting everything around them including their own allies if present. They are too enraged to employ tactics and simply attack the nearest threat until it is defeated or flees. They are nearly fearless and will pursue enemies into dangerous terrain. Against water and cold, they become more cautious and evasive but rarely flee entirely.
+A pyroclasm does not fight with any plan. It walks into whatever is in front of it and strikes, bursts into flame round itself, sprays lava, and makes the ground erupt under its enemies, and it does all of this whether or not its own kind or anything else is caught in it. It does not retreat and does not stop. Water and cold are what stop it: a flood of water hardens its surface and slows it, a large body of water destroys it, and cold magic cracks it. Away from lava and heat it grows weaker.
 
 ## Attack Methods
 
 ### Lava Punch
 
-The Pyroclasm strikes with a fist of molten matter, and the impact combines physical force with catastrophic heat. The strike can melt armor and burn flesh to ash. Victims struck are often incapacitated by the impact and the heat together.
-
-### Fire Burst
-
-The Pyroclasm explodes with flame in every direction, engulfing everything nearby in searing heat. The attack spreads to flammable materials and can ignite an entire area. Several bursts in succession can turn a location into a full conflagration.
+The pyroclasm strikes with a fist of molten rock. The blow is crushing and the heat is worse: it melts armor and burns flesh to ash, and a man struck is usually down.
 
 ### Lava Spray
 
-The Pyroclasm vomits or sprays magma and burning material in a wide arc, coating everything it touches in dripping lava that continues to burn.
-
-### Seismic Explosion
-
-The Pyroclasm can cause localized eruptions of flame and lava that burst from the ground beneath opponents, leaving the ground burning and scorching everyone within reach.
+It sprays molten rock and burning debris in a wide arc, coating everything it hits in lava that goes on burning.
 
 ## Special Abilities
 
+### Fire Burst
+
+It explodes with flame in every direction, engulfing everything near it and setting the whole area alight. Several bursts turn a place into a firestorm.
+
+### Seismic Explosion
+
+It makes the ground under its enemies burst open in fountains of flame and lava, leaving the ground burning.
+
 ### Volcanic Resilience
 
-The Pyroclasm is immune to fire and heals from fire-based magic. It is harmed primarily by cold and water, which cause it to solidify and become slower and weaker.
+Fire does not harm it, and fire magic heals it. Cold and water harden it, slow it and weaken it.
 
 ### Thermal Destruction
 
-The Pyroclasm's presence is inherently destructive. Everything nearby is subject to extreme heat. Metals melt, stone cracks, and wood ignites spontaneously.
+Everything near it is subject to terrible heat: metal melts, stone cracks, and wood bursts into flame on its own.
 
 ### Lava Immersion
 
-The Pyroclasm can immerse itself in lava or sources of extreme heat to heal and restore itself fully.
+Wading into lava or great heat heals it completely.
 
 ### Thermal Sense
 
-The Pyroclasm can sense heat sources and can pursue victims by tracking their body heat. It can see in complete darkness.
-
-## Additional Information
-
-Water is the Pyroclasm's primary weakness. Large bodies of water can immobilize or harm it, and cold-based magic is highly effective. A Pyroclasm cannot remain in frozen terrain or in intense cold. A Pyroclasm destroyed far from lava sources may not reform. One destroyed in volcanic regions will likely return after several seasons. Permanent destruction requires either collapsing it into a large body of cold water, or taking it to regions of such intense cold that its heat cannot sustain its form. A settlement threatened by a Pyroclasm can sometimes force it toward water or cold regions to eliminate the threat without direct combat.
+It senses heat, follows the warmth of living bodies, and sees in total darkness.
 
 ## Attributes
 
-- **Strength:** 13-16 (1d4+12)
+- **Strength:** 34-39 (1d6+33)
 
 - **Endurance:** 13-16 (1d4+12)
 

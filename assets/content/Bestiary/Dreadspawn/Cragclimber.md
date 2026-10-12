@@ -247,55 +247,71 @@ sohl:
 
 ![[crgclmbr|Cragclimber]]{float=top-left}
 
-The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
+You are halfway down the cliff on the rope, with the sea working at the rocks below and the gulls screaming, and the basket at your belt half full of eggs. The ledge below you is gray rock, streaked white, empty. Then a piece of the ledge turns its head. It is a lizard as long as a man, slate-gray and dun, the exact grain and color of the cliff, and it is looking up at you with eyes like polished granite. It lifts one clawed foot off the rock. Its long tail uncurls from a crack, and the tip of it, unhurried, reaches up toward your rope.
 
 # Dossier {#dossier}
 
-Cragclimbers are draconic ambush predators born in high mountain ranges and cliff kingdoms, creatures perfectly adapted to vertical hunting. These agile hunters lurk on rockfaces and cliffsides, invisible until the moment of strike. Adventurers encounter them in mountain passes, on sheer cliff faces, in high-altitude valleys, and anywhere rocky terrain dominates the landscape.
+The Cragclimber is a dreadspawn shaped like a lean, long-tailed drake, about six feet long and two hundred pounds, made to hunt on vertical rock. It clings motionless to a cliff face, colored and textured like the stone, and strikes whatever passes within reach, then lets the cliff do the rest. It can harden its scales to stone. The cliff coast of [[place-zuravlenrgn|Zûravlen]], Provènzia's western seaboard on the cold ocean, has had cragclimbers on it for as long as its egg-gatherers have gone down on ropes, and the coast reckons them among the costs of its hard living. Like every dreadspawn it was made and it cannot breed; more than one of the pattern hunts that coast, and each is known by the stretch of cliff it holds.
 
 ## Presentation
 
-The Cragclimber is a reptilian predator roughly six feet in length, lean and muscular with a sinewy build that emphasizes flexibility over bulk. Its entire body is covered in overlapping scales that range in color from gray-brown to slate to dusty tan, matching the exact shade and texture of surrounding stone. Its head is wedge-shaped with eyes that gleam like polished granite, and its mouth is filled with backward-curving teeth suited to gripping prey. Four powerful limbs end in curved claws designed for climbing and tearing; its hind legs are particularly muscular. A long, articulated tail makes up nearly half its body length, capable of independent movement and coiling around objects. The creature's movements are fluid and precise, and it can cling to vertical rock faces with absolute certainty.
+The cragclimber is long, lean and sinewy, built for flexibility, with four strong limbs ending in long, curved climbing claws and particularly heavy hind legs. Half its length is tail, which is jointed, prehensile and strong, and it can coil the tail round a spur of rock to hang by it or round a man's ankle to pull him off. Its scales are small and overlapping, gray-brown, slate and dusty tan, and they match the rock it lies on in color and in grain. The head is wedge-shaped, the mouth full of backward-curving teeth, and the eyes gray and hard as polished stone. When it hardens its scales they turn dull and rough like weathered rock, and an arrow that strikes them rings and falls away.
+
+## In the Land
+
+Zûravlen's coast is long and cliff-bound, with few harbors and the cold ocean working at its foot, and its cliffs are full of seabirds. The cragclimbers hunt the bird ledges: each one holds a few miles of cliff face, lies on it among the nesting birds, and takes gulls, auks, eggs, seals hauled out on the rocks below, and anything else that comes along the rock. They are found too on the sea-cliffs of the river gorges behind the coast and in the high rocky country inland, wherever there is steep stone. They do not go out onto level ground or into the farmed valleys, and they are never met in the settlements.
 
 ## Key Behaviors
 
-The Cragclimber is an apex predator of mountainous terrain, claiming hunting territories that extend across miles of cliff face. It spends most of its time absolutely motionless, perfectly camouflaged against stone, waiting with infinite patience for prey to pass within striking distance. Its hunting grounds are marked by the skeletal remains of previous meals, sometimes pushed from great heights. It hunts primarily in dawn and dusk hours when light is diffuse and shadows aid concealment. It exhibits no sign of territoriality toward other Cragclimbers—they simply ignore one another. When well-fed, it remains dormant for days; when hungry, it becomes more active, following movement along cliff paths.
+A cragclimber spends most of its life motionless, pressed against the rock, waiting. It hunts at dawn and dusk, when the light is flat and the shadows on the cliff are long. When prey comes within reach, it strikes in an instant, claws and tail together, and tries to knock its prey off the cliff; it then climbs down to eat what has fallen. The foot of a cragclimber's cliff is littered with bones and broken eggshell. When it has eaten it lies still for days. Cragclimbers ignore one another. They are patient, they learn the paths along a cliff that men and animals use, and they wait beside them.
+
+## What the Egg-Gatherers Do
+
+The egg-gatherers of the Zûravlen coast go down the cliffs on ropes every spring for the seabird eggs, which are a large part of the coast's food in a lean season, and every village has its stretch of cliff and its rules for it. Nobody goes down alone: a man on the rope has a partner on the clifftop holding a second rope, and a third man with a sling and a bag of stones watching the face. A stretch where a cragclimber hunts is worked only at midday, when the light is high and the creature is easiest to see, and the gatherer goes down carrying a short iron hook to beat off the tail. The salt-workers say a cragclimber hates water; a gatherer who sees one on his ledge throws a bucket of seawater over it before he throws anything else. A dead cragclimber's hide, hardened, makes a buckler that turns an arrow.
+
+## Signs
+
+- Bones, broken eggshell and the remains of seals heaped at the foot of a cliff, under one stretch of the face.
+- Long, parallel claw-scratches across the white guano of a ledge.
+- Seabirds that nest on every stretch of a cliff but one, where the ledges stand empty.
+- A rope found frayed and cut on the rock, with no edge there sharp enough to cut it.
+- A patch of rock on a cliff face that is a slightly different shape from one day to the next.
 
 ## Combat Strategy
 
-The Cragclimber attacks from absolute concealment, launching from a stationary position with explosive speed and ferocity. It aims to wound severely or disable prey in the initial strike, preferring to wound prey and watch it flee or fall rather than prolonged combat. Once a strike lands, it uses the cliff terrain against its opponent—attempting to force prey toward edges, loose rock, or fall hazards. If its prey proves more resilient than expected, it will disengage and return to camouflage, waiting for weakness to set in. It cannot be pursued effectively through vertical terrain it knows well.
+A cragclimber strikes once from perfect concealment, as hard as it can, and tries to wound its prey or knock it off the rock. Then it uses the cliff: it hooks with its tail, shoves, and drives the victim toward the edge and the loose rock. If the prey proves tougher than expected, it hardens its scales and withdraws across the face, where nothing without claws can follow, and waits for the victim to weaken or come back. It does not follow anyone onto level ground.
 
 ## Attack Methods
 
-### Raking Claw Strikes
+### Raking Claws
 
-The Cragclimber slashes with its fore-claws in rapid succession, attempting to open severe wounds. These attacks are designed to cause bleeding and mobility penalties.
+The cragclimber slashes with its forefeet in quick succession, opening deep cuts in the arms, the face and the hands that hold the rope, so that the victim bleeds and cannot climb.
 
 ### Tail Whip
 
-The creature's whip-like tail is made of flexible but hardened bone and scale. A tail strike can hook around limbs, topple standing targets, or knock targets backward toward dangerous terrain.
-
-### Diving Strike
-
-When attacking from height or a significant positional advantage, the Cragclimber launches itself at prey with claws extended, attempting to do the greatest harm through combined impact and tearing.
+The long tail lashes or coils. It hooks round a leg or an arm and pulls, topples a man standing on a ledge, or knocks him back toward the drop.
 
 ## Special Abilities
 
+### Diving Strike
+
+From above, the cragclimber launches itself off the rock onto its victim, claws first, and the weight of the leap and the tearing of the claws together strike harder than either alone.
+
 ### Stone Camouflage
 
-The Cragclimber's scales perfectly match surrounding rocky terrain, rendering it nearly invisible when stationary. On mountainsides and cliff faces it is very hard to spot, and it can hold position for extended periods without detection.
+On rock, still, it is nearly invisible, and it can hold its place for days without being seen.
 
 ### Vertical Supremacy
 
-The creature's claws and muscular frame allow it to cling to vertical rock faces and navigate vertical terrain that ground-based creatures cannot traverse. It can move freely in three dimensions across cliff faces, giving it enormous advantage in escape and pursuit.
+It climbs, runs and turns on sheer rock and overhangs as easily as a dog on a road, and a man on a rope or a ledge cannot follow or escape it there.
 
 ### Stone Hardening
 
-The creature can deliberately harden its scales to stone-like rigidity, increasing its resistance to damage and allowing it to withstand impacts that would shatter normal bone. This ability is active in combat; arrows and other missiles do little against it.
+In a fight it hardens its scales to the toughness of stone, and blows and missiles do little against it while it holds them hard.
 
-## Additional Information
+### Water Weakness
 
-Water and prolonged moisture erode the Cragclimber's protective hardening and can eventually weaken its structural integrity. Creatures that can track by scent can track the Cragclimber, unlike those relying on sight alone. Once a Cragclimber's hunting territory is identified, avoiding the high terrain it dominates is the safest approach; they do not follow prey into open ground or settlements.
+Water softens its hardened scales and makes it let go. Soaked through, it cannot harden itself, and it climbs away from the wet.
 
 ## Attributes
 

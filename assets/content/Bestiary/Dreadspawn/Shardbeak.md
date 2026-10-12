@@ -245,55 +245,67 @@ sohl:
 
 ![[shrdbk|Shardbeak]]{float=top-left}
 
-Light shatters across your vision as something brilliant and terrible takes flight—a bird of impossible beauty wrought from living crystal. Each movement throws prismatic rainbows across the surrounding stone, and the creature itself seems to sing as it moves, a high, ringing sound like glass vibrating at the edge of breaking. Its beak is a spike of impossible sharpness, and its wings—if they can be called wings—are composed of overlapping crystal shards arranged like feathers, each one perfect and lethal. As it circles, the air seems to hum with power, and you can feel the residual magic crackling off its crystalline form. There is something fundamentally wrong about its beauty—like a living weapon that has become too perfect, too honed.
+The meadow at the top of the pass is full of light, and some of it is moving. A bird is sitting on a standing stone at the meadow's edge, a bird the size of a heron with a wingspan wider than a man is tall, and it is made of crystal: violet at the breast, fading to pale aquamarine at the wingtips, every feather a separate faceted shard. When it turns its head the sunlight goes through it and scatters across the grass in rainbows. It is singing, a high ringing note like a wet finger on glass. Then it sees your companion's staff, the one with the carved stone set in its head, and the singing stops, and the shards of its wings lift and rattle.
 
 # Dossier {#dossier}
 
-Shardbeaks are creatures of pure arcane manifestation, birds that seem as much crystal as flesh, existing in the boundary between the natural and magical realms. They are born from concentrations of raw magical energy in places of power—arcane nodes, wizard's towers, and locations where the veil between worlds grows thin. A Shardbeak is drawn inexorably to sources of magical power, feeding on arcane energy the way natural birds feed on seeds. Unlike most dreadspawn, Shardbeaks show little evidence of true malice; rather, they are simply predatory by nature and indifferent to the suffering of lesser creatures. They are found most commonly in arcane deserts, high magical peaks, and the ruins of fallen wizard-holds.
+The Shardbeak is a dreadspawn in the shape of a bird of living crystal, two to three feet tall with a wingspan of eight to twelve feet and sixty pounds' weight, which feeds on magic as other birds feed on seed. It is drawn to places where arcane power runs strong and to anything that carries a working, and it defends its feeding grounds with a beak that pierces armor and wings that shed showers of razor-edged shards. It was made, as every dreadspawn was, and it cannot breed, though its pattern is one its makers have returned to and several are known. They gather where the [[lore-aralwen|arálwain]] are thickest, in the [[place-drenavrspn|Drenavar Spine]], the sacred mountain range at the heart of Élavendre, where the Áelendan hold that not every creature in the mountains is an ordinary beast.
 
 ## Presentation
 
-A Shardbeak stands roughly 2 to 3 feet in height with a wingspan of 8 to 12 feet, its body composed primarily of translucent, faceted crystal that ranges in color from deep violet to pale aquamarine or amber. Its entire form appears as though sculpted from a single piece of gemstone, with seams barely visible where segments articulate. Its wings are composed of overlapping crystal shards that refract light into dazzling displays and are sharp enough to cut through leather and cloth with minimal effort. Its head terminates in a long, needle-like beak of crystalline hardness, and its eyes are polished gems that seem to glow faintly with internal light. As it moves, the creature emits a faint, high-pitched singing sound—the harmonic resonance of crystal vibrating at the edge of its tolerances. Where it lands, the ground sometimes remains subtly warped, as though the creature's inherent magical presence has left an imprint.
+A shardbeak's body is translucent, faceted crystal, deep violet, pale aquamarine or amber, shading from one to another, as if cut from a single gemstone, with seams barely visible where it bends. Its feathers are overlapping shards, sharp enough to cut leather and cloth, that throw rainbows when it moves. Its beak is a long crystal spike. Its eyes are points of colorless light. It sings as it moves, a high ringing note like glass vibrating near the edge of breaking, and the note rises when it is roused. In strong sunlight it blazes, and it is hard to look at directly or to judge where it is.
+
+## In the Land
+
+The Drenavar Spine holds the greatest concentration of sacred sites in Ankaris, and its arálwain, the thin places where the material world and the spirit world lie close and arcane power runs strongest, are where the shardbeaks feed. They perch on standing stones, at the edges of sacred groves and by arálwen-waters in the high meadows, soaking in the power of the place, and they move from one thin place to another along the range with the seasons. They are diurnal and grow more active and more aggressive in sunlight. They do not come down into the settled valleys, where magic is thin, and a shardbeak kept away from magic long enough weakens and dies.
 
 ## Key Behaviors
 
-Shardbeaks are primarily attracted to sources of arcane power and will spend considerable time in or near magical locations, seemingly feeding on the ambient energies present. They are primarily diurnal and seem to become more active and aggressive when exposed to sunlight, as though the light feeds them. They show territorial behavior but far less aggressively than most dreadspawn—two Shardbeaks will chase each other from an area but rarely engage in combat. They are drawn to bright lights, metal, and occasionally to humanoid magic users, though whether this attraction is predatory or something else remains unclear. A Shardbeak's lifespan seems tied to its access to magical energy; in areas of deep magical saturation, they live for decades or centuries, while in areas of low magical presence, they slowly weaken and die.
+A shardbeak is drawn to magic as a moth is drawn to a lamp. It senses a working, a charm, an enchanted blade or a mage's focus from a long way off and comes to it, and it feeds, drawing the power out of the place or the thing and growing stronger and healing as it does. It is territorial, but mildly: two shardbeaks chase each other from a feeding ground and rarely fight. It is clever enough to recognize weapons that threaten it and how they are used. It is drawn to bright light and shining things as well as to magic. It attacks those who carry magic it wants and those who threaten it, and it ignores almost everyone else.
+
+## What the Wardens Do
+
+The [[affiliation-alndnwrdns|Áelendan Wardens]], who protect the arálwain and whose authority over them is older than the crown's, regard the shardbeaks as part of what the thin places are, and they do not harm them. A Warden escorting outsiders through the Drenavar asks them to leave behind, at the last village, any charm, enchanted weapon or mage's focus they carry, and outsiders who refuse learn why in the high meadows. A mage of the [[affiliation-ordoarcanis|Ordo Arcanis]] who comes into the range without leave is warned once by the Wardens, by their doctrine; the shardbeaks do not give warnings. Shed shards of shardbeak crystal, which keep a faint ringing note for years, are sold in [[place-tirwen|Tirwen]] at great prices to instrument-makers, who set them in the soundboxes of harps, and the Wardens do not ask where the sellers found them.
+
+## Signs
+
+- Rainbows thrown across a meadow with no rain and no water to make them.
+- A high ringing note in the air near a standing stone or a grove, like glass about to break.
+- Charms and enchanted objects that have gone dull and powerless after a night in the mountains.
+- Small, faceted crystal shards scattered round a standing stone, sharp as knives.
+- Thin cuts on the hands and faces of travelers who crossed a high meadow, and their packs slashed open.
 
 ## Combat Strategy
 
-A Shardbeak attacks from the air, diving and striking with incredible speed and precision. It uses its agility to stay out of reach, relying on speed and ranged attacks rather than prolonged melee. The creature is aware enough to recognize weapons and tactics that threaten it and will adjust its attacks accordingly—it will avoid heavy, blunt weapons and instead target creatures wielding them with crystalline shard attacks from distance. If wounded, a Shardbeak will attempt to flee to the nearest source of magical energy, where it can regenerate and regain strength. Only if cornered or defending a particularly rich source of magical power will it engage in combat to the point of death.
+A shardbeak fights from the air. It dives at whoever carries the magic it wants, drives its beak in, and climbs away before anyone can strike back; it flares its wings to shed a barrage of shards at anyone who comes after it, and blinds a party with a blaze of refracted light. It recognizes heavy blunt weapons as dangerous and keeps away from them, attacking their wielders with shards from a distance. If it is wounded it flees to the nearest thin place to heal. Ringing sound, cold and heavy blows shatter it.
 
 ## Attack Methods
 
 ### Crystal-Beak Strike
 
-The Shardbeak dives and drives its needle-like beak into its target with tremendous force, capable of piercing armor. The beak itself is so sharp that even glancing blows can cause serious wounds.
+The shardbeak dives and drives its needle-sharp crystal beak into its target with tremendous force. It can pierce armor, and even a glancing blow cuts deep.
 
 ### Shard Barrage
 
-The creature flares its wings, launching hundreds of razor-sharp crystal fragments in a cone pattern. These shards are small enough to pass through most armor gaps and can cause numerous deep cuts.
-
-### Prismatic Dazzle
-
-The creature's crystalline body refracts and magnifies light to blinding intensity, filling an area with overwhelming radiance that blinds and disorients all creatures unfortunate enough to be in range.
+It flares its wings and sheds a cone of razor-edged crystal fragments that find the gaps in armor and leave many deep cuts.
 
 ## Special Abilities
 
+### Prismatic Dazzle
+
+It gathers and magnifies light through its body and flings it out in a blinding blaze that dazzles and disorients everyone facing it.
+
 ### Arcane Affinity
 
-The Shardbeak is drawn to and feeds on magical energy. It can sense sources of magic at considerable distance and is strengthened by proximity to arcane power, healing faster and growing stronger in every physical respect while in areas of magical concentration.
+It senses magic at a great distance and feeds on it. Near a strong source of magic it heals fast and grows stronger in every way; kept from magic long enough, it weakens and dies.
 
 ### Crystal Armor
 
-The creature's crystalline form turns cuts and thrusts, though it is fragile against blunt force and sound, which can shatter its protective shell.
+Its crystal turns cuts and thrusts, but blunt force, ringing sound and hard cold crack and shatter it.
 
 ### Prismatic Refraction
 
-The Shardbeak's crystalline surface causes all light to refract in unpredictable ways, making it difficult to focus on or target. Attacks against it go astray unless the attacker is particularly observant or uses magical means to track it.
-
-## Additional Information
-
-Shardbeaks are extremely vulnerable to sonic attacks, which can shatter their crystalline bodies. Thunder and vibration-based magic is particularly effective. They are also weak to cold, which can cause their crystal to become brittle and prone to cracking. Blunt force is also effective—while slashing weapons glance off their smooth surfaces, heavy hammers and mauls can deal serious damage. In areas where magic is suppressed or nullified, a Shardbeak will slowly weaken and eventually die from lack of sustenance. The creature's corpse, if preserved carefully, retains value—its crystalline components can be fashioned into gems of unusual properties, used in magical foci, or ground into components for potion creation. Some alchemists prize Shardbeak crystal above diamonds for its inherent magical reactivity.
+Light bends unpredictably through its body, so that it is hard to focus on or strike, and blows go astray unless the attacker is very observant.
 
 ## Attributes
 

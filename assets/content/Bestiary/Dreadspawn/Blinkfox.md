@@ -3,7 +3,7 @@ shortcode: blinkfox
 name: {full: Blinkfox, aliases: []}
 type: being
 subType: creature
-description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
+description: "A made predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -244,55 +244,67 @@ sohl:
 
 ![[blinkfox|Blinkfox]]{float=top-left}
 
-Movement catches your eye—a flicker, a blur of color that shouldn't be there. One moment it's to your left, the next directly ahead. Its fur ripples through a spectrum of hues, never quite settling on any single color, as if it hasn't fully decided what it should look like. You catch the glint of an eye—sharp, calculating, intelligent—and then it's gone, the space where it stood empty save for a faint shimmer that hangs in the air like heat haze.
+The fox is sitting on the standing stone at the edge of the clearing, a fox the size of a hound, and its coat is the wrong color: blue, then green, then silver, as the light moves through the birches. A thread of pale smoke curls off its tail and does not drift. It is watching you with eyes too big for its face. You look away to tell your companion, and look back, and the stone is empty. A breath later something soft brushes the back of your knee, and you turn, and it is sitting in the grass behind you, close enough to touch, its head on one side, and you could swear it is smiling.
 
 # Dossier {#dossier}
 
-Blinkfoxes are creatures of fae origin or magical corruption, predators that exist partially outside normal space. They hunt in deep woods and arcane-touched lands, moving through dimensions in ways that defy natural law. Adventurers encounter them most often in enchanted forests, ancient magical sites, or wild regions where the boundaries between worlds have grown thin.
+The Blinkfox is a small dreadspawn in the shape of a fox, about the size of a big hound and fifteen pounds in weight, which can step out of the world and back into it again a few yards away, faster than a blink. It hunts by appearing beside its prey, biting, and vanishing, and it is cunning, curious and cruel. It is met in [[place-glanmor|Glanmor]], on Élavendre's western coast, where the deep forest runs down to the sea and the [[lore-aralwen|arálwain]], the thin places, lie thicker than anywhere outside the mountains. The Élavendri call it a fae creature, and some of them call it worse. The scholars who sort such things call it a dreadspawn: a made thing, alive, unable to breed, and set loose in the one country where it would look most at home.
 
 ## Presentation
 
-The Blinkfox resembles a fox roughly the size of a large hound—lean, graceful, and built for speed. Its fur is never quite solid in color, shifting through iridescent hues of blue, green, purple, and silver depending on angle and light. Fine wisps of what appears to be luminescent smoke trail from its movement, dissipating slowly. Its eyes are oversized and intelligent, gleaming with an inner light. Its paws make no sound, and its form sometimes appears slightly translucent, as if not fully present in the material world. When it blinks, it sometimes vanishes entirely for a moment before reappearing elsewhere.
+A blinkfox is lean and graceful, long-legged, with a narrow muzzle and very large, bright eyes that catch the light. Its fur is never one color for long: it shifts through blue, green, violet and silver as it moves and as the light moves, and when it is still it takes on the color of what is round it. Faint wisps like pale smoke trail from it as it runs and hang in the air for a breath after it has gone. Its paws make no sound. Seen sidelong, it is sometimes slightly transparent, as if not all of it were there. When it blinks out, there is no flash and no sound, only a small cold draft where it was.
+
+## In the Land
+
+Blinkfoxes are known from the deep forest of Glanmor, between the coastal towns and the [[lore-flksinale|Sinalë]] enclaves, in the oak and silver birch that is cut only under license and in the clearings round the standing stones and the thin places. A blinkfox keeps to a few miles of forest and rests in clearings and on high stones, where it can see. It is most often met at dawn and dusk and under the deep shade of the canopy, and it avoids full sunlight. Reports cluster round the arálwain, and the [[affiliation-alndnwrdns|Áelendan Wardens]] who patrol them say they have seen more than one blinkfox, though whether there are several or one that is very quick, nobody can tell.
 
 ## Key Behaviors
 
-The Blinkfox is a cunning, solitary hunter with intelligence approaching that of sapient creatures. It stalks prey with calculated patience, using its speed and its blinking to corner targets. The creature shows particular preference for intelligent prey—birds, smaller humanoids, clever animals—and will spend considerable time studying a potential quarry before striking. When not hunting, it rests in clearings or atop high stones, its form becoming nearly invisible as its fur matches the surroundings. It exhibits no fear of humans unless badly wounded; it is curious and playful in a way that suggests hunger rather than aggression.
+The blinkfox hunts birds, hares, small deer and, by preference, clever prey: crows, other foxes, dogs, children. It studies a quarry for a long time before it strikes, following it, appearing and disappearing round it, apparently for the pleasure of watching it react. It is curious about people and comes close to look at them. It is not afraid of a man unless it has been badly hurt, and it plays with what it hunts. It bites from nowhere and is gone, and comes back from another side, until its prey is bleeding, frightened and lost. Then it drives it, by appearing in front of it, toward a cliff edge, a river or the deep forest.
+
+## What the Coast People Do
+
+The people of Glanmor's coast keep the deep forest's rules because the Wardens enforce them, and they add their own about the blinkfox. A child is not sent into the birch woods alone at dusk, and a dog that has followed something into the trees is called back at once. A woodcutter working under license who sees a fox with a coat the wrong color sits down, puts his back to a tree, and waits, because a blinkfox gets bored with prey that will not run. The guides who take pilgrims and scholars to the edges of the thin places point out blinkfox sightings as one of the sights, and charge more for it. The Wardens do not hunt the creature and do not protect it; a blinkfox that harms someone on sacred ground is, to them, one more thing that has violated it.
+
+## Signs
+
+- A fox seen on a standing stone or a stump that is not there when looked at again.
+- Faint, pale wisps hanging in still air in a clearing, slowly fading.
+- Fox tracks that stop dead in the middle of a ride, and begin again a few yards off, facing a different way.
+- Crows and jays killed by a single bite, left uneaten.
+- A small, sharp cold on the back of the neck, and nothing there.
 
 ## Combat Strategy
 
-The Blinkfox never commits to a direct fight. Instead, it strikes from unexpected angles, landing one bite or claw rake before teleporting away to assess its target. It uses hit-and-run tactics relentlessly, wearing down prey through accumulated wounds rather than a single devastating attack. When faced with overwhelming opposition, it blinks away into the deeper wilderness. It shows tactical awareness in using terrain—circling prey to drive them toward cliffs or rivers, separating individuals from groups, always maintaining escape routes.
+The blinkfox never stands and fights. It appears beside a target, bites or rakes once, and vanishes, and appears again a moment later on another side. It goes for the hand, the face and the backs of the legs, and it picks out whoever is alone, slow or frightened. It uses the ground: it drives its victims toward drops and water and separates one from a group. It keeps a way out, and when a fight goes against it, it blinks away into the deep forest and does not come back that day.
 
 ## Attack Methods
 
 ### Blinking Bite
 
-The creature materializes in close proximity to its target and delivers a precise bite to exposed flesh or weak points in armor. The bite is accurate and cuts deep; the Blinkfox immediately blinks away afterward.
+The fox appears at a target's side, bites quickly and accurately at exposed skin or a gap in armor, and is gone. The bite is small and deep and bleeds freely.
 
-### Flickering Claw Strikes
+### Flickering Claws
 
-The fox rakes with its fore-claws in rapid succession, each strike occurring from a slightly different position as the creature briefly blinks between strikes. This creates the illusion of multiple simultaneous attacks and makes defending against it very difficult.
-
-### Disorienting Manifestation
-
-The Blinkfox can teleport directly in front of a target's eyes, causing momentary disorientation and breaking the target's concentration. Some targets panic when the creature appears and disappears repeatedly in their immediate vicinity.
+The fox rakes with its forepaws in quick succession, blinking between each stroke, so that the blows seem to come from several foxes at once. Each claw stroke is light; together they are hard to defend against.
 
 ## Special Abilities
 
 ### Short-Range Teleportation
 
-The Blinkfox can blink up to sixty feet at a time, appearing anywhere it can see or has recently occupied. It can blink once freely in the time it takes to strike a blow; blinking more often than that draws on its magical reserve. It can teleport while carrying light burdens.
+The fox steps out of the world and back into it up to sixty feet away, anywhere it can see or has just been. It does this once as easily as a man takes a step; doing it again and again tires it, its range shortens, and its body grows less steady.
+
+### Disorienting Manifestation
+
+The fox appears directly in front of a man's face and is gone again, and does it again. The shock breaks his concentration, and a man it has done it to several times may panic.
 
 ### Chromatic Concealment
 
-The creature's fur automatically adopts the dominant colors of its surroundings, rendering it nearly invisible when stationary in natural environments. When moving, the color-shifting becomes apparent, but the creature's speed makes tracking its exact location difficult.
+Its coat takes on the colors round it. Still, it is nearly invisible; moving, the color shows, but it moves too fast and too strangely to follow.
 
-### Fey Heritage
+### Half-Present
 
-The Blinkfox's partial existence in multiple planes makes it resistant to physical blows and to magic that works only on wholly material creatures. It is vulnerable to spells that reach a creature wherever it stands between the planes, and it can be harmed by materials imbued with anti-fey properties.
-
-## Additional Information
-
-Blinkfoxes are too small and swift to be practical mounts, but some fey-touched individuals claim to befriend them. The creature's teleportation is limited by exhaustion; if forced to blink repeatedly without rest, its range decreases and its form becomes less stable. Blinkfoxes avoid direct sunlight, preferring dawn and dusk hunting hours or deep forest shade.
+Part of the blinkfox is always somewhere else. Blows and magic that work only on wholly material creatures land poorly on it, and magic that reaches a creature wherever it stands harms it fully.
 
 ## Attributes
 

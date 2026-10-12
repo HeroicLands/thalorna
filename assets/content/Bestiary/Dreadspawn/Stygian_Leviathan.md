@@ -208,59 +208,75 @@ sohl:
 
 ![[stygnlvt|Stygian Leviathan]]{float=top-left}
 
-The water ahead grows darker, as though shadow itself is taking form, rising from the depths. You see something vast and terrible break the surface—scaled hide the color of a bruise, gray-black and ancient, crusted with what might be barnacles or might be something worse. Eyes like twin moons break the surface, studying you with an intelligence that is cold and indifferent to your existence. The creature's breath is an exhalation like the wind from a tomb, and the water around it seems to grow colder, more viscous, weighted with age and predatory hunger. Then, impossibly, something wraps around your leg—a tentacle as thick as a man's arm, bristling with suckers and barbs, pulling downward with inexorable strength toward depths from which no scream can escape.
+The underground river opens into a lake, and the priest's torch cannot find its far side. The water is black and perfectly still, and the cave is silent: no bats, no dripping, no blind fish rising, none of the small noises of the passages behind you. Then the water out in the dark lifts in a long, low swell that rolls to your feet and wets your sandals. Out of the swell comes an arm, gray-black and thick as a tree, studded with barnacle-like growths, and it lies along the surface, and it keeps coming, and it is longer than the boat you came in. Behind it, far out, two pale eyes open just above the water, very far apart.
 
 # Dossier {#dossier}
 
-Stygian Leviathans are elder predators of the deepest underground waters, creatures that have roamed cold subterranean seas and lightless lakes for millennia. They are the undisputed apex of their domain, and their presence is enough to render entire underground ecosystems dormant and fearful. A Stygian Leviathan is not evil in any moral sense, but it is indifferent to suffering—it hunts as it must, and those who blunder into its territory are simply prey. These creatures are found exclusively in deep, cold waters miles below the earth's surface—places where no natural light ever penetrates and the pressure would crush unprotected humans. The deepest places in the world hold Stygian Leviathans, and they are known only from legends and the scarred survivors of expeditions into the depths.
+The Stygian Leviathan is a dreadspawn of the deep waters under the earth: forty to sixty feet long and as heavy as a whale, armed with grasping tentacles and jaws that bite a man in half, which lives in cold, lightless underground seas and lies dormant on the bottom for long stretches. Where it lives, everything else falls silent. One lives in the underground waters beneath [[place-kankulrgn|K'ankul]], the limestone country of Central K'ich'chik whose ground is hollow with rivers, chambers and the sacred pools that open them to the sky, and whose priests teach that those waters are the mouths of [[place-chaltzumaq|Ch'al Tz'umaq]], the underworld. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Stygian Leviathan measures 40 to 60 feet in length from nose to tail, with a body mass comparable to a whale but somehow more compact, more muscled. Its scaled hide is a sickly gray-black like subterranean waters, studded with barnacle-like growths, crystalline formations, and scarred patches from countless battles. Its four limbs are stub-like, more for anchoring than locomotion; instead, it propels itself through water with a massive, undulating tail that can be recognized from miles away by the disturbance it creates. Its head is enormous and roughly wedge-shaped, filled with teeth of terrifying length and sharpness. Most horrifying are the tentacles: four to six immense appendages, each as thick as a tree trunk and capable of extending far beyond the creature's body, lined with suckers of surprising dexterity and set with barbs and spines. Its eyes are enormous, lidless, and glowing faintly with a sickly bioluminescence. The temperature around it drops perceptibly, and the water seems to thicken and darken in its presence.
+The leviathan's body is long and massive, more compact and more muscular than a whale's, with four short, finned limbs and a long, heavy tail. Its hide is gray-black, the color of deep water, studded with barnacle-like growths and clusters of crystal and seamed with old scars. From its shoulders spring a crown of long tentacles, thick, strong and very precise in their movements. Its head is broad and its jaws long, lined with teeth like stakes. Its eyes are pale, filmed and very far apart. It moves slowly and with enormous power, and when it rises the whole lake moves with it. Near it the water is colder than the rock round it.
+
+## In the Land
+
+K'ankul looks low and flat from above, and under it run rivers, chambers and lakes that never see the sun. The leviathan holds the deepest and coldest of those, a lake under the limestone that no priest has seen the far side of, and the flooded passages that run from it for miles. It lies dormant on the lake bottom for months, and wakes to feed on whatever has come into its waters: the blind fish and pale crayfish, the creatures that come down through the sacred pools, the offerings, and the priests. The cave life of its waters falls quiet when it stirs and stays quiet for days. It cannot leave the deep water, and the shallow streams and the sunlit pools near the surface are safe from it.
 
 ## Key Behaviors
 
-A Stygian Leviathan claims a territory spanning miles of underground water and defends it with lethal certainty from other large predators, though such encounters are rare—few creatures of comparable power exist in the deep places. The creature spends much of its time in dormancy, lying on the bottom of deep lakes, barely moving, barely breathing, waiting with preternatural patience for vibrations indicating prey. It hunts by sensing disturbances in water and sound waves traveling through liquid, and these senses are so acute that a creature moving in the water miles away can be detected and pinpointed. An ancient Stygian Leviathan may have developed a preferred hunting route that it follows regularly, and local populations of prey learn to avoid those routes or face certain death.
+The leviathan spends most of its time dormant, barely moving on the bottom of its lake. It wakes when something disturbs the water, which it feels from miles away, and rises to feed. It is not cruel; it is indifferent, and everything else in its waters behaves as though that were worse. It drives off other large predators. It seizes prey with its tentacles from a distance, drags it under and holds it there, and finishes it with its jaws. It is intelligent enough to recognize a strong enemy and withdraw from it into the deep water.
+
+## What the Priests Do
+
+The K'ankul priesthood holds that to descend into a sacred pool is to touch the boundary of the realm of [[lore-tzuqilixbaldty|Tz'uqil Ix'bal]], the death god, and the priests who go down into the deepest waters do so knowing that something lives there. They do not call the leviathan a god or a servant of a god. They do mark the passages that lead to its lake with carved stones, pour their offerings into it from the shore and never from a boat, and they go down by torchlight in numbers, because strong light pains it. Blood poured into its water draws it up. Sacrifices that are given to the deepest pools are given knowing what will take them, and the priests regard that as the god's business. Pilgrims are not told.
+
+## Signs
+
+- A cave where the bats are gone, the drip has stopped echoing, and no fish rise.
+- Long, slow swells on still underground water with no current or wind to cause them.
+- Water in a deep pool colder than it should be, with a faint mineral smell.
+- Crystal growths and barnacle-like shells lying on a lake shore far from any sea.
+- Offerings left at a sacred pool's edge that are gone in the morning, along with the stone they lay on.
 
 ## Combat Strategy
 
-A Stygian Leviathan initiates combat by attacking with tentacles from a distance, attempting to grasp and drag prey into water or toward the creature's body. Once prey is within range, it uses multiple appendages in coordinated strikes while reserving its bite for the kill. The creature is intelligent enough to recognize overwhelming force and will retreat into deep water where pursuit becomes impossible for most enemies. A cornered or injured Leviathan becomes dramatically more aggressive, its tactics becoming less patient and more brutally direct. The creature will fight to the death if cornered, and its death throes can be as deadly as its attacks.
+The leviathan attacks with its tentacles first, from a distance, seizing whatever it can reach and dragging it into the water or toward its jaws. It uses several tentacles at once against several enemies. Once its prey is in the water, it holds it under, crushing and drowning it, and bites to finish it. It recognizes overwhelming danger and sinks into the deep water to wait, healing there. Light pains it and confuses its senses, and warmth weakens it; out of deep, cold water it slows badly.
 
 ## Attack Methods
 
-### Tentacle Grasp and Drag
-
-One or more tentacles snake out toward a target, attempting to wrap around and drag the victim toward the creature's body or into water. The grip is nearly impossible to escape from without magical aid, and struggling prey simply tires faster.
-
 ### Tearing Bite
 
-The Leviathan's jaws snap shut with bone-crushing force, capable of severing limbs or crushing armor-clad warriors. A successful bite is typically the final act of a combat that the Leviathan wins.
+The jaws close with crushing force, severing limbs and crushing armored men, and the bite usually ends a fight the leviathan has won.
 
-### Drowning Embrace
+### Tentacle Grasp
 
-If a victim is successfully dragged into water, the creature uses tentacles and body to prevent surfacing, combining constriction with drowning in a terrible combination.
+A tentacle snakes out and wraps a victim and drags him toward the body or into the water. The grip is nearly impossible to break without help, and struggling only tires him faster.
 
 ## Special Abilities
 
+### Drowning Embrace
+
+A victim dragged into the water is held under by tentacles and body together, crushed and drowned at once.
+
 ### Deep-Water Supremacy
 
-The Stygian Leviathan is perfectly adapted to extreme pressure and cold that would kill lesser creatures instantly. In deep water, it moves faster and strikes more surely. In shallow water or on land, it becomes slow and sluggish.
+In deep, cold water it moves fast and strikes surely, and it shrugs off cold and pressure that would kill anything else. In shallows or on land it is slow and sluggish.
 
 ### Vibration Sense
 
-The creature detects vibrations in water with perfect accuracy, knowing the location of anything moving in its domain. It can sense prey miles away if sufficient ripples or disturbances are created.
+It feels every movement in its waters from miles away.
 
 ### Tentacle Mastery
 
-The Leviathan commands its tentacles with incredible precision and coordination, allowing multiple simultaneous attacks and the manipulation of prey with dexterity that seems impossible for appendages of such size.
+Its tentacles move with great precision and independence, so that it attacks several men at once and handles what it holds with uncanny skill.
 
 ### Regeneration in Deep Water
 
-So long as the Leviathan remains in deep, cold water, it regenerates from damage. Removing it from its native environment or into warm, shallow water weakens it dramatically.
+In deep, cold water it heals. Warm, shallow water weakens it badly.
 
-## Additional Information
+### Light Weakness
 
-Light is the Leviathan's primary weakness—bright magical light, sunlight, or even sustained illumination in its dark domain causes it pain and disrupts its sensory awareness. Heat is equally effective; exposure to warmth weakens it, and being removed from cold water causes it to weaken slowly. The creature cannot survive indefinitely out of water, and in dry conditions it becomes increasingly sluggish. The teeth and bones of a slain Leviathan are extraordinarily valuable, capable of being crafted into weapons or tools of rare power. Some civilizations have based entire economies on the occasional discovery of a Leviathan corpse, spending generations harvesting and processing its remains. The creature's hide can be rendered into leather of great quality and resilience. Hunting a living Leviathan is considered a suicidal undertaking, and those rare expeditions that attempt it do so only with armies of support and kit. The few survivors of such expeditions are forever changed by the experience.
+Bright light pains it and disrupts its senses, and a party with strong light in its domain is a party it is reluctant to face.
 
 ## Attributes
 

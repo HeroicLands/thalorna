@@ -167,7 +167,7 @@ sohl:
             shockValue: 2
             probWeight: 10
             protectionBase: {blunt: 7, edged: 6, piercing: 5, fire: 7}
-      weight: {base: 1, calc: "1"}
+      weight: {base: 800, calc: "800"}
       reachBase: 0
       bodyScaleBase: 1.28
       personalFatigue: "enc + 5"
@@ -186,59 +186,75 @@ sohl:
 
 ![[shdwspnn|Shadowspinner]]{float=top-left}
 
-You feel it before you see it—a sudden, terrible weight pressing against your chest as though the very shadows have turned solid and begun to strangle. Then you see them, or rather you see the absence—walls of something too dark to be spider silk, hung from corner to corner of the chamber, blocking light and obscuring sight. And within those walls of woven shadow, a shape moves with predatory grace—a spider the size of a horse, its body armored in gleaming black chitin, its eight eyes burning like poisonous topazes. The sound of its mandibles is the sound of bone breaking, and the silk it trails behind it seems to drink in light itself, leaving darker shadows than the surrounding darkness.
+Below the tower, under the sand, the buried street is a tunnel of brick, and the lamp shows its far end blocked by a curtain of black. It is a web. It goes from wall to wall and floor to roof and back into the dark beyond in layer after layer, built in angles as exact as a mason's, and it is black, and the lamplight goes into it and does not come out. Caught in it, hung in neat rows, are bundles wrapped in silk, and one of them is the size of a man and still moving a little. Then something on the far side of the web moves too: a spider with a body as long as a horse and legs that reach from wall to wall, plated in black, with eight eyes catching your lamp.
 
 # Dossier {#dossier}
 
-Shadowspinners are apex arachnids corrupted by some infernal magic into creatures of terrible intelligence and supernatural predation. These creatures engineer elaborate traps that capture prey and break the spirit of those who see them. A Shadowspinner weaves webs that seem to drink light and hope, webs that can hold a grown warrior immobilized for weeks. They haunt deep caves, sunken ruins, and places so dark that normal light seems to turn sick and dim. A Shadowspinner's presence is said to drive other creatures away; few things will venture into a chamber ruled by one of these monsters.
+The Shadowspinner is a dreadspawn in the shape of a colossal spider, ten to fourteen feet long in the body with a leg-span of twenty to thirty feet, which turns its territory into a fortress of webs built with geometric precision from a black silk that drinks light. It is intelligent and patient, it keeps what it catches alive in silk for weeks, and it learns from every victim that escapes. One holds the buried lower stories of [[place-ruinsarkor|the Ruins of Arkor]], the westernmost of the Tower Cities, under the sand of the [[place-hekardesert|Desert of Hek'ar]], where the Black Flame's Blazing Oath is searching for a relic. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Shadowspinner measures roughly 10 to 14 feet in length with a legspan of 20 to 30 feet or more. Its body is covered in plates of glossy black chitin that seem to swallow light, and its legs are jointed and furred with what appears to be metallic, almost fur-like hair that catches light like obsidian filaments. Its head bears eight eyes arranged in two groups of four, each eye glowing with a faint, sickly luminescence—some amber, some violet, some a sickly phosphorescent white. Its mandibles are tremendous, capable of grinding through bone, and they glisten with venom that seems to smoke faintly in warm air. Most distinctive are its spinnerets, which produce webs of impossible strength and darkness—thread so black it seems to be liquid shadow made solid. The creature moves with eerie grace on its jointed legs, and the sound is of chitinous plates scraping together, or sometimes of something more like wind whispering through a graveyard.
+The shadowspinner is a spider on a monstrous scale, its body plated in glossy black chitin that takes no shine, its long jointed legs covered in fine, stiff black hairs like obsidian threads. Eight eyes sit in two groups of four on its head, each catching light like a polished bead, and below them long chelicerae end in fangs as long as a man's forearm. Its legs end in points hard enough to pierce armor. Its web is the strangest thing about it: black, strong as rope, laid in exact angles and layers, and lamplight that falls on it is swallowed. It moves faster than anything its size should, and in perfect silence.
+
+## In the Land
+
+The desert has buried Arkor to the second story, and under the sand the city's lower streets and halls still stand, roofed with brick and full of dark. The shadowspinner has made a fortress of a quarter of them: streets walled off with web, halls hung with it, passages laid with it so that every step on a strand tells the spider where an intruder is. It hunts what comes into the buried city: foxes and jackals, the giant camel spiders of the cellars, herders' strays, and the treasure-seekers and knights who dig down from the dunes. It never comes up into the desert sun. The tribes keep clear of the tower and of the shallow, oddly cold bowl round its foot, and give no reason.
 
 ## Key Behaviors
 
-A Shadowspinner claims a territory and then systematically transforms it into a web-fortress of staggering complexity. It spends much of its time constructing and maintaining the web, building in geometric patterns that seem almost mathematical in their precision. The creature is solitary, fiercely territorial, and will attack other Shadowspinners on sight. It hunts by detecting vibrations in its web—minute tremors from struggling prey are like music to it. An ancient Shadowspinner may spend decades in a single location, its web growing ever larger and more complex until the entire chamber or cavern is a three-dimensional labyrinth of predatory silk.
+The shadowspinner builds, all the time. It extends and repairs its web in elaborate geometric patterns, laying traps within traps, false passages and dead ends, and it feels every movement on every strand. When something is caught it comes, bites, and wraps it in silk, and hangs it up alive in its larder, where it feeds on it slowly over weeks. It is solitary and kills other spiders on sight, including its own kind. It is intelligent: it remembers prey that escapes, learns the weapons and tactics of those who come against it, and builds a better trap for the next time.
+
+## What People Do
+
+The tribes of the Welqator will not drive stock within a mile of Arkor's tower at night, and say the sand took the city in its sleep. The Black Flame's **Blazing Oath**, the faction of the Servants of Sycânus sent under [[being-srdrzhsycnknghtblckflm|Sir Drazha Sycâni]] to recover the Eye of Velok, has dug down into the buried streets more than once, and lost men in the dark each time; the knights speak of ancient traps, and some of the traps are webs. The caravans that cross the Hek'ar by the old road buy silk from the margin tribes, a black rope strong enough to hang a camel from, and do not ask where it comes from. The tribes who sell it collect it from the dunes over the tower at dawn, in the one hour a day it is safe, and cut only what hangs loose.
+
+## Signs
+
+- Black silk lines strung across a buried passage, so dark that a lamp shows them only by the shadows they cast.
+- Animals and men wrapped in silk bundles hung in rows from a ceiling, some still alive.
+- A cold draft from a crack in the sand, and a faint vibration in the ground underfoot.
+- Lamplight that seems to go out a few yards ahead in a passage that is not blocked by anything visible.
+- Giant camel spiders, ordinarily fearless, fleeing up out of a hole in the dunes.
 
 ## Combat Strategy
 
-A Shadowspinner initiates combat by assuming a position in its web where it has maximum mobility and advantage. It moves with speed that seems wrong for an insect of its size, using its limbs to hang, swing, and position itself with three-dimensional combat awareness. It uses the web itself as a weapon, tightening strands around prey, creating barriers, and manipulating the environment to its advantage. The creature is intelligent enough to recognize overwhelming force and will attempt to retreat deeper into its web or sever key threads to collapse sections and slow pursuit. When cornered or protecting its nest, it attacks with venomous bites and slashing limbs in a coordinated dance of predation.
+The shadowspinner fights from its web, where it has every advantage: it takes the position that gives it most movement, swings and hangs and runs along strands in every direction, and strikes from above, below and behind. It uses the web as a weapon, tightening strands round a man's limbs, pulling him off his feet, cutting off retreat with a new line. It bites to paralyze and rakes with its legs, then wraps what it has bitten. It plans for its victims' tricks if it has seen them before. Fire is the thing it fears: flame destroys its web and panics it, and a large enough fire can drive it out of its fortress.
 
 ## Attack Methods
 
 ### Venomous Bite
 
-The Shadowspinner's mandibles snap forward with terrible force, driving long chelicerae deep into flesh and injecting a potent neurotoxin that begins working immediately. Bitten targets feel a spreading numbness and a creeping paralysis.
+The chelicerae snap forward and the fangs drive deep, injecting a venom that spreads a numbness and a creeping paralysis from the wound.
 
 ### Raking Limbs
 
-The creature's legs are weaponized, tipped with natural points that can pierce armor and rip through flesh. Multiple limbs can strike simultaneously, and the Shadowspinner uses them in coordinated patterns difficult to defend against.
-
-### Web Entanglement
-
-The creature uses its web not as a passive trap but as an active weapon, tightening strands around prey, constricting, and creating hazardous terrain that impedes movement and prevents escape.
+The pointed legs strike in quick combinations from several directions at once, piercing armor and tearing flesh.
 
 ## Special Abilities
 
+### Web Entanglement
+
+The spider tightens strands round a victim's limbs, wraps him, pulls him off his feet and bars his escape with new lines, using the whole web as a weapon.
+
 ### Web Mastery
 
-The Shadowspinner commands its web with complete perfection, capable of manipulating tension, creating new connections, or severing old ones instantly. The web can bear enormous weight, stretch to surprising distances, and move in response to the creature's will.
+It commands its web perfectly: it tightens or slackens strands, makes or cuts connections in an instant, and the web holds enormous weight.
 
 ### Vibration Sense
 
-The Shadowspinner perceives the world primarily through vibrations in its web, detecting even microscopic movements with precision. In its web, it essentially has perfect awareness of everything touching it, and attempting to hide from it is futile.
+It feels every movement on every strand of its web, and anyone touching the web cannot hide from it.
 
 ### Predatory Intellect
 
-The Shadowspinner is intelligent and plans ahead. It remembers prey that escape, learns patterns, and builds more elaborate traps each time. It has been known to alter its behavior based on the weapons or tactics of repeating opponents.
+It plans ahead, remembers prey that escaped, learns the weapons and tactics of repeat opponents, and builds better traps for them.
 
 ### Venom Resistance
 
-The Shadowspinner is immune to most poisons and venoms, allowing it to feed on creatures that would be lethal to other animals.
+Poisons and venoms barely affect it.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Shadowspinner's primary weakness—flame damages its web immediately, destroys its exoskeleton, and sends the creature into a panic. A sufficiently large fire can drive a Shadowspinner to abandon its territory entirely. The silk itself, if harvested carefully before the creature dies, is extraordinarily valuable—capable of holding tremendous weight and naturally resistant to most damage. Dark scholars and assassins prize Shadowspinner silk for creating nets, bindings, and armor. The creature's fangs can be crafted into weapons that retain venom for years. Some hunters make their living by raiding Shadowspinner territories, removing the creature, and harvesting its web and body parts—though the casualty rate for such work is terrifyingly high.
+Fire destroys its web at once, burns its body and panics it.
 
 ## Attributes
 

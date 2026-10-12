@@ -218,7 +218,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 11, edged: 10, piercing: 9, fire: 11}
-      weight: {base: 500, calc: "500"}
+      weight: {base: 2000, calc: "2000"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"
@@ -244,47 +244,63 @@ sohl:
 
 ![[mssbcktr|Mossback Turtle]]{float=top-left}
 
-At first, you think you are looking at an ancient, moss-covered boulder half-buried in leaf litter. The edges are too regular, too symmetrical, and when your eye focuses, you realize with a start that the entire surface is moving—slowly, deliberately, inexorably forward. The moss and lichen covering the enormous domed shell is so thick it looks like actual earth and growing things, not the protective carapace of a living creature. From beneath that stone-like dome, a weathered, wrinkled neck extends, and at its end, a small, intelligent eye opens and regards you with the patience of something that has existed for centuries and will continue to exist long after you are dust.
+The canoe slides between flooded trunks, and the paddler steers round a hummock of green that stands out of the water like a little island, thick with moss, ferns and a seedling tree. As you pass it, the island breathes out. A long gray neck unfolds from under the moss, wrinkled and loose-skinned, and a head the size of a water jar turns toward you, with a hooked beak like a parrot's and two small bright eyes that look older than the forest. The water round the hummock heaves as something very large settles on the bottom. The paddler lifts his blade out of the water and holds it there until you are well past.
 
 # Dossier {#dossier}
 
-The Mossback Turtle is a colossal, slow-moving reptile measuring 8-10 feet in length from nose to tail and weighing well over a ton. Its most distinctive feature is the enormous domed shell covering its back and sides, which is so heavily covered in moss, lichen, fungi, and living plants that it appears to be an actual rocky outcropping. The shell itself is dark brown or gray beneath the living growth. The creature’s limbs are thick and heavily scaled, protruding from beneath the shell only far enough to allow movement. The neck is long and wrinkled, and the head is small and somewhat flattened, with small, intelligent eyes and a parrot-like, hooked beak.
+The Mossback Turtle is a huge, slow, long-lived turtle of the flooded forests of [[place-tzikinrgn|Tz'ikin]], eight to ten feet from beak to tail and about a ton, whose domed shell grows so thick with moss, lichen, fungus and seedlings that it looks like a mound of earth or a mossy rock. It grazes water plants, fallen fruit, fungus and leaves, and does not hunt. It is dangerous only when it is disturbed, cornered or stepped on, and then its beak takes off fingers and its weight breaks bones. The river peoples count it among the presences of the forest, and a very old mossback is something they treat with care.
 
 ## Presentation
 
-The Mossback Turtle’s shell is its most prominent feature—a dome of armor so large and so heavily covered in living growth that it provides near-perfect camouflage in forest environments. The shell is ridged and ancient-looking, with visible cracks and chips from centuries of use. Beneath the moss and lichen, the shell surface is rough and heavily textured. The limbs are columnar and powerfully muscled beneath loose, wrinkled skin colored in mottled browns and grays. The tail is relatively short and thick. The head has a small brain case but a powerful jaw lined with a hard, sharp-edged beak rather than teeth. The eyes are small but bright and intelligent, positioned to allow good forward and lateral vision.
+The shell is a high dome, ridged and pitted with age, dark brown or gray where anything shows through the growth on it, and a mature turtle carries a whole small garden: cushions of moss, lichens in gray and orange crusts, shelf fungi along the rim, ferns, and sometimes a sapling rooted in a crack. The limbs are thick as posts and scaled, with heavy blunt claws, and they barely show beneath the shell when the turtle stands. The neck is long, gray and loose, and folds back under the front of the shell. The head is small for the body, flat on top, with a hard, hooked, sharp-edged beak and small, bright, watchful eyes. A mossback smells of wet earth and leaf-mold. In water it is quick and graceful; on land it moves at the pace of a tired old man.
+
+## In the Land
+
+Mossbacks live along the [[place-hanaltzuma|Ha'nal Tz'uma]] and its tributaries, where the forest floods each year and drains again. In the flood they swim among the drowned trunks, grazing the water plants and the fruit that falls into the river, and they sleep on the bottom of the quiet channels. When the water falls they walk out over the forest floor, browsing leaves, fungus and the seedlings that come up in the mud, and they spend the dry months beside the pools and backwaters left behind. They are scarcest near the city of [[place-tzikin2|Tz'ikin]] and the busy channels, and commonest in the far reaches where the canoes seldom go. A mossback lives for a very long time—nobody has outlived one to count—and some river villages know particular turtles by the shapes of the saplings on their backs.
 
 ## Key Behaviors
 
-Mossback Turtles are herbivorous grazers that spend much of their time slowly moving through forests, consuming vegetation, fungi, and plant matter. They are solitary, meeting other turtles only during mating season. They prefer forest environments near water—streams, ponds, and wetlands—where they can bathe and find aquatic vegetation. They are primarily diurnal, resting at night in burrows or beneath overhanging rocks. They live for many decades, if not centuries, and their shells show the accumulated damage of a long life. They are generally reclusive and non-aggressive, preferring to withdraw when threatened.
+A mossback spends most of its life eating and resting. It moves little, keeps to the same few channels and pools year after year, and lies still for days at a time, which is how the growth on its back takes hold. It is solitary and pays other mossbacks no attention except in the breeding season, when the males shove at each other with their shells and bite at each other's necks. The females come out in the dry season to dig nests in sandbanks above the flood line, and they bite anything that comes near the nest. Threatened, a mossback pulls in its head and limbs and waits, and a turtle that is let alone puts its head out again after a while and goes back to eating.
+
+## What the River Peoples Do
+
+The river peoples of Tz'ikin keep the forest as a living presence worthy of offering, and they count the old mossbacks among the things in it that must be treated with respect. Canoes give a mossback in the channel room and do not ram, pole or tie up to it, and a paddler who mistakes one for a mudbank and puts his foot on it is thought to have bought himself a run of bad luck as well as a bite. Nobody takes the eggs of a mossback's nest in the villages that keep the custom, and a village that does is spoken of by its neighbors. The turtles' cast shell-plates, found on the forest floor after a dry season, are carved into bowls and ladles, and a cast plate with its moss still on it hangs in some houses over the door. The priest-navigators who read the river say a mossback that walks out of the water early means an early fall in the flood.
+
+## Signs
+
+- A mound of moss and fern in a channel or pool that was not there in the morning, or is gone the next.
+- Broad, round, deeply sunk footprints in drying mud, in pairs, with a shallow drag between them.
+- Water plants grazed off in a clean line along a bank.
+- A sandbank above the flood line dug over in a wide pit, and then smoothed.
+- Fallen fruit missing from under a fruiting tree, with the ground there trodden flat.
 
 ## Combat Strategy
 
-The Mossback Turtle’s first response to threat is always withdrawal—pulling its head, limbs, and tail fully within its protective shell and waiting for danger to pass. If a threat persists or if the turtle cannot fully withdraw (due to restraint or assault), it will defend itself with its powerful jaws, delivered from within its shell, or attempt to lumber to the nearest water or dense vegetation. Only if actively attacked while unable to withdraw will a turtle employ its body weight as a weapon, using its immense mass to crush or pin an opponent.
+A mossback's first defense is the shell. It pulls everything in and lets the threat wear itself out against the dome. If it cannot withdraw—because it is held, overturned, or caught with its head out—it bites, hard and fast, with the beak, and the beak can come out of the shell farther and faster than anyone expects. On land, cornered, it shoves and rears and drops its whole weight on whatever is in front of it. In water it simply goes deep and stays there. It never pursues.
 
 ## Attack Methods
 
 ### Powerful Beak Bite
 
-While withdrawn partially into its shell or when forced to defend, the Mossback Turtle uses its powerful hooked beak to bite with considerable force, capable of crushing bone and tearing flesh; a bite can sever fingers or cause serious bleeding.
+The neck shoots out from under the shell and the beak closes. The bite crushes and shears at once: it takes off fingers, breaks a wrist, and tears a deep, ragged wound in a leg.
 
 ### Body Slam
 
-The Mossback Turtle can use its immense weight to crush opponents, toppling them to the ground or pinning them beneath its mass; this attack is typically only employed as a last resort when the turtle cannot retreat.
+The turtle heaves itself forward and drops its weight, or swings the edge of the shell into a man's legs. It knocks him down and can pin him beneath it, and the weight of the shell on a fallen man breaks ribs.
 
 ## Special Abilities
 
 ### Impenetrable Shell
 
-The Mossback Turtle’s shell provides extraordinary protection, blunting most blows; attacks from above or the sides are largely ineffective, though strikes to exposed limbs or the head bypass the protection.
+The shell turns or blunts almost every blow struck at it from above or the sides. The head, the neck and the limbs, when they are out, are what a weapon can reach.
 
 ### Natural Camouflage
 
-When still, the Mossback Turtle is nearly invisible in forest environments, appearing indistinguishable from a moss-covered rock; a stationary turtle is easily overlooked even by those searching for it.
+A still mossback is a mossy hummock or a stone, in or out of water, and a man looking straight at one does not see a turtle. Search does not help much.
 
 ### Slow but Steadfast
 
-While slow, the Mossback Turtle is difficult to move once it has taken position; it is very hard to shove aside or overturn.
+A mossback that has set itself is very hard to push, lift or overturn, and a turtle lying across a channel or a path stays there until it chooses to move.
 
 ## Attributes
 

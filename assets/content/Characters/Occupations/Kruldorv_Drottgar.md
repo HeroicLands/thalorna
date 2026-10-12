@@ -405,8 +405,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Kruldorv was born into slavery on a large estate, where he has spent his entire life working in the fields and performing hard labor. Despite his harsh circumstances, he maintains a sense of resilience and holds onto the hope of freedom. Kruldorv is known for his physical strength and endurance, but his defiance has occasionally gotten him into trouble with his overseers.
 
-Now at 31 years of age, Kruldorv Dróttgar has established himself as a known figure among the farmers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

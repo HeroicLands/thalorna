@@ -403,8 +403,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Nilthselda grew up in a small village where her mother was a healer. She learned the basics of herbal medicine at an early age and later moved to the city to expand her knowledge and practice. She works out of a modest shop, providing simple remedies and salves for common ailments. Nilthselda is passionate about treating the poor and often gives away medicines for free.
 
-Now at 34 years of age, Nilthselda Dróttgar has established herself as a known figure among the apothecarys of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

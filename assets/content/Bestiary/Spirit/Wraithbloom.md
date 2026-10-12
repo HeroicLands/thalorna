@@ -160,59 +160,71 @@ sohl:
 
 ![[wrthblm|Wraithbloom]]{float=top-left}
 
-At the edge of the clearing stands a bloom that should not exist in this season, in this place. It hovers above the ground without roots or support, its petals translucent and glowing with a light that seems to come from within rather than reflected. As you watch, the petals move with grace, as though dancing to music only it can hear. The beauty of it is almost painful—it draws the eye and stirs something deep in the chest, an ache that is part longing and part dread. When you take a step forward, you are not entirely sure why.
+The oldest bed in the shrine's garden is behind a wall of its own, and the gardener who unlocked the gate for you has not followed you in. The plants inside are old and heavy with scent, and in the middle of the bed, a few feet above the ground, a flower is hanging in the air. It is as wide as a cart-wheel, its petals pale and translucent as moonlight on water, ringed round a cluster of ghostly vines and stamens that sway without a breeze. It turns toward you as a sunflower turns. A cloud of glittering pollen drifts off it, and the scent becomes overwhelming, sweet and drowsy, and the garden begins, very gently, to tilt.
 
 # Dossier {#dossier}
 
-Wraithblooms are the spirits of ancient plants—flowers and vines from places where magic saturated the earth so completely that death became merely another form of growth. They are not creatures in the traditional sense but animated expressions of the places they inhabit. A Wraithbloom is often found in old, magical groves or sacred gardens where the barrier between the living and spirit realms has worn thin. They are neither hostile nor benign but rather indifferent to human presence. They will defend their territory if threatened, but otherwise they seem content to exist in their own form of slow meditation.
+The Wraithbloom is the spirit of an ancient plant: a flower or vine from ground so long tended and so full of power that its death became only another kind of growth, and that now haunts its garden as a spectral bloom three to five feet across. It defends its garden with spectral vines, with pollen that brings waking dreams and sleep, and by drawing the life out of those it holds. It is not vicious, and it can be dealt with. It is found in old groves and sacred gardens where the veil between living and dead has worn thin, and the best known haunts a walled bed in one of the healing-shrines of [[place-garlutselat|Gar-Lût Selat]], the small, devout selat of the upper river of Aû'Khelâthu whose herb-gardens the rest of the empire knows it for.
 
 ## Presentation
 
-A Wraithbloom is a hovering assemblage of spectral plants—translucent petals forming a corona around a central cluster of ghostly vines and stamens. The whole construction is roughly three to five feet in diameter and floats a few feet above the ground, though it sometimes descends to brush its vines across soil or flower. The petals glow softly in shades of pale blue, lavender, or sickly green, and this light shifts subtly moment to moment. The central bloom contains eyes or at least optical organs—two pale luminescent points that regard observers with what seems like curiosity or judgment. The creature smells faintly of both flowers and decay, and pollen drifts from it constantly, creating a visible haze in still air.
+A wraithbloom is a hovering assemblage of spectral plants: translucent petals, pale as moonlight, in a corona round a cluster of ghostly vines and stamens, three to five feet across, floating a few feet off the ground. It glows faintly at dusk and is hard to see at noon. Its vines trail and sway with no wind and can reach out a long way. It gives off a heavy, sweet scent that grows overwhelming when it is roused, and clouds of luminous pollen. It makes no sound, and it moves slowly, turning toward whatever interests it.
+
+## In the Land
+
+The healing-shrines of Gar-Lût belong to [[lore-uzneradty|Uznêra]], the mother goddess of fertility, renewal and healing, and their gardens keep the plants the healers use; a herb-gardener tells a novice that everything in the beds is somebody's cure. The wraithbloom haunts the oldest bed of the oldest shrine's garden, walled off from the rest, where the plants have been tended in the same ground for longer than the temple's records go back. It does not leave the bed, and if it is taken far from it, it fades. Inside its bed the plants grow larger, stronger and more potent than anywhere else, and the bed spreads, slowly, year by year, into the beds round it.
 
 ## Key Behaviors
 
-Wraithblooms are rooted to locations—not physically, but spiritually. A particular Wraithbloom will haunt the same grove or garden for years or decades, slowly expanding its presence, encouraging the growth of more plants and trees. They are drawn to areas of natural beauty and to places where humans have tended gardens with love. They are most active at night and in shade, becoming more ethereal and less visible in bright sunlight. They seem to perceive and remember individual humans, responding differently to repeat visitors. A human who tends the garden and shows respect will be largely ignored; one who damages plants or shows disrespect will be actively opposed.
+A wraithbloom is bound to its place and tends it. It encourages the plants round it to grow and spread, and it defends them: it attacks whoever damages them, roots them up or cuts them carelessly, and it is indifferent to those who come in and leave them alone. It draws its strength from the plants of its garden and heals from them. It can be approached respectfully and bargained with, through gifts to the garden and the right kind of care, and a gardener who knows how can cut from its bed and come out again. It does not like fire or bright sun.
+
+## What the Gardeners Do
+
+The gardeners of the shrine say that what grows in the walled bed is the goddess's own planting, and that the wraithbloom is the bed's keeper, and they treat it with the courtesy owed to an old and touchy colleague. Only the eldest gardener goes into the bed, at dawn, when the bloom is faint, bringing water from the shrine's own well and a cutting of something new for the bed, and she asks before she cuts. The healers pay a great deal for what she brings out, because remedies made from that bed work when others do not. Novices are not allowed past the gate. A thief who climbed the wall one night for the bed's herbs was found the next morning asleep among them, and slept for nine days, and woke much thinner, and has not been well since.
+
+## Signs
+
+- A walled garden bed whose plants are larger, greener and more fragrant than any round it.
+- A faint pale glow over a garden at dusk with no lamp in it.
+- A sweet, drowsy scent that grows stronger the closer one comes to a particular bed.
+- Glittering pollen on the paths in the morning, and birds asleep among the plants.
+- Gardeners who will not go past a gate and an old woman who goes in alone at dawn.
 
 ## Combat Strategy
 
-Wraithblooms do not seek combat but will engage if their territory is threatened. They use their mobility and spectral nature to evade attacks while employing their pollen and vines to disable or entangle opponents. They are not vicious—they seek to drive away intruders rather than to kill them. Against opponents who persist in damaging the garden or themselves, they become more aggressive. They are intelligent enough to recognize when an opponent is too dangerous and will retreat into the deepest parts of their territory or even phase partially into the spirit realm.
+A wraithbloom does not seek a fight, and it fights only to defend its garden. It releases its pollen to confuse and drowse its enemies, wraps them in its vines, and draws their life while they dream. It is hard to strike with weapons, which pass partly through it, and it heals from the plants round it. It is not vicious: it aims to drive intruders away or put them to sleep, not to kill, unless they keep coming. Fire, sunlight and light magic harm it badly.
 
 ## Attack Methods
 
 ### Spectral Vines
 
-The Wraithbloom extends thorny, spectral vines that wind around victims, constricting and drawing them toward the flower's central bloom. The vines pass through normal armor partially, and victims report feeling both physical entanglement and a draining sensation as the plant draws their life energy through the thorns.
-
-### Toxic Pollen
-
-The Wraithbloom releases clouds of luminescent pollen that induces hallucinations, drowsiness, and confusion. Those who inhale deeply find themselves lost in waking dreams, unable to distinguish reality from vision. Prolonged exposure can lead to complete incapacitation.
-
-### Life Drain
-
-When a victim is entangled by vines or thoroughly inhales the pollen, the Wraithbloom begins drawing their life force directly. The process is slow but inexorable—victims feel their strength and will diminishing over time, as if the plant is feeding on their essence.
+The wraithbloom reaches out with thorny spectral vines that wind round a victim and draw him toward the bloom. The vines pass partly through armor, and the victim feels both the grip and a drain of strength.
 
 ## Special Abilities
 
+### Toxic Pollen
+
+It releases clouds of luminous pollen that bring hallucinations, drowsiness and confusion. A man who breathes deeply is lost in waking dreams and cannot tell them from the world, and long exposure brings a sleep that is hard to wake from.
+
+### Life Drain
+
+A victim held in its vines or lost in its pollen has his life drawn out slowly and steadily, his strength and will fading as the bloom feeds.
+
 ### Spectral Nature
 
-The Wraithbloom is partially incorporeal and resistant to physical weapon strikes. Weapons pass through it with reduced effectiveness. Fire, sunlight, and light-based magic all harm it badly.
+It is partly incorporeal, and weapons pass through it with little effect. Fire, sunlight and light magic harm it badly.
 
 ### Pollen Cloud
 
-The creature can release its pollen in a controlled cloud that fills a specific area. Those within the cloud experience hallucinations drawn from their own fears and desires. The pollen also causes drowsiness and reduced mental acuity.
+It fills a space with a cloud of pollen in which everyone sees their own fears and wishes and grows drowsy and dull.
 
 ### Plant Regeneration
 
-The Wraithbloom can draw energy from plants in its vicinity to heal wounds and restore itself. In a garden or forest, this ability makes it almost impossible to outlast in combat.
+It heals by drawing on the plants round it, and in its own garden it cannot be outlasted.
 
 ### Territorial Bond
 
-The Wraithbloom is deeply connected to a specific place and gains strength when within its territory. Outside its original location, it becomes weaker and more vulnerable. It cannot truly leave—if separated too far from its location, it begins to fade.
-
-## Additional Information
-
-Fire is the most effective weapon against a Wraithbloom, as it destroys the plant matter that comprises its form. Sunlight also harms it badly, and light-based magic is effective. A Wraithbloom can sometimes be negotiated with if approached respectfully. It seems to understand human speech, though it does not speak in return. A human who tends the garden, removes invasive species, and shows respect for the space may actually gain the Wraithbloom's protection. A few rangers and druids have formed partnerships with Wraithblooms, allowing the spirit to nourish their plants in exchange for protection and care. A Wraithbloom is difficult to kill permanently because it is tied to the location it inhabits—killing it merely causes it to reform after several seasons. True destruction requires either burning the location and removing all plant life, or cleansing the land through ritual so that the magic sustaining the spirit dissipates.
+It is bound to its garden and is stronger there. Taken far from it, it weakens and fades.
 
 ## Attributes
 

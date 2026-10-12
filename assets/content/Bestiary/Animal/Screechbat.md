@@ -237,63 +237,71 @@ sohl:
 
 ![[scrchbt|Screechbat]]{float=top-left}
 
-The sound comes first—a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above—dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and spare, with fangs that catch the light like split obsidian. As they circle, the screeching continues—an unbearable chorus that seems designed to break resolve and shatter thought itself.
+The old gallery runs on past the last timber prop, and the air in it is warm and sour with droppings. Your lamp shows the roof crusted with something dark that shifts. Then the sound comes, a shriek so high and hard that it lands like a blow, and it goes through your ears into your teeth. The lamp-flame shudders. The dark roof comes loose all at once and turns into wings, wide leathery wings with thin bodies slung between them, wheeling round your head in the gallery, and the shriek comes again from every side, and you cannot hear the man beside you shouting.
 
 # Dossier {#dossier}
 
-Screechbats are small, highly coordinated aerial predators standing 2-3 feet tall with wingspans reaching 8-10 feet, found in caves, deep forests, and ruins across many regions. These nocturnal hunters hunt by sound, using echolocation and their screech to disorient prey before closing for the kill. Adventurers encounter screechbats most commonly when exploring caves, traversing forests at night, or investigating ruins where bat populations have established.
+The Screechbat is a large, lean, pack-hunting bat, two to three feet tall hanging, with a wingspan of eight to ten feet and a body that weighs about eight pounds. It roosts in colonies in caves and old mine workings, comes out at dusk to hunt birds, bats and small animals, and in a pack it attacks larger prey by screaming at it until it is deaf, dazed and helpless, and then biting. In the [[place-moktur|Moktur]] heights, where the empire's mines have been cutting galleries into the mountains for generations, the worked-out levels are full of them, and the miners know them as the thing that lives in the dark beyond the last lamp.
 
 ## Presentation
 
-Screechbats resemble heavily adapted bats scaled up to predatory size and complexity. The wings are large, membranous, and supported by elongated finger bones that extend from a relatively compact body. The body itself is skeletal and lightweight, covered in dark leathery skin that provides minimal insulation. The head is proportionally large with a broad mouth capable of opening very wide, filled with numerous small, sharp teeth designed to grip and bite but not to tear. The eyes are small and relatively weak, but the creature compensates with extraordinary aural and echolocation capabilities. The wings, when at rest, fold around the creature's body for warmth and protection. The feet and claws are sharp and designed for hanging rather than walking.
+A screechbat is mostly wing. The membranes are dark brown or black and leathery, stretched over long finger-bones, and when it hangs it wraps them round itself like a cloak. The body slung between them is thin and bony, furred short and dark, with hooked feet made for hanging and raking. The head is large for the body, with big, ridged ears, a pushed-in snout folded with skin, tiny weak eyes, and a wide mouth full of small sharp teeth. In flight it is silent except for its clicks, which a sharp-eared man can just hear, and its screech, which nobody can miss. A roost smells strongly of ammonia and old droppings, and the floor under it is deep in dung.
+
+## In the Land
+
+Screechbats roost in deep, dark, still places in steep country, and the mountains of Moktur give them caves, gorges and, most of all, the worked-out galleries of the iron, copper and silver lodes above [[place-ferrovan|Ferrovan]] and [[place-stennvold|Stennvold]]. A colony of a few dozen to a few hundred takes an abandoned level and stays for generations. At dusk the colony streams out of the adit-mouths and over the forested slopes toward the [[place-vrystwald|Vrystwald]], hunting birds, other bats, mice and lizards, and comes back before dawn. In winter the colonies sleep, packed tight in the deepest galleries where the rock keeps warm, and a miner who breaks into a sleeping colony wakes it.
 
 ## Key Behaviors
 
-Screechbats are social creatures that live in colonies and hunt cooperatively in packs. They roost during daylight hours in caves or similar dark shelters, emerging at dusk to hunt. These creatures navigate and hunt entirely through sound, using echolocation to build mental maps and locate prey with uncanny accuracy. They communicate with each other through clicks, chirps, and frequency modulations, creating a complex social structure with clear hierarchies. Screechbats hunt small mammals and birds primarily, but coordinated packs can tackle larger prey. They are relatively intelligent and capable of learning and remembering hunting locations and human-based threats. The creatures are most active during night hours and completely helpless in bright daylight.
+Screechbats hunt in packs and find everything by sound. Each one clicks constantly in flight and listens to the echoes, and a pack hunting together calls among itself in a running chatter of clicks and chirps that coordinates the hunt. They take small prey on the wing. For larger prey, a lone goat on a ledge, a deer in a gorge, a man on a night path or in a gallery, the pack surrounds it and screams, all together, until it falls or freezes, and then they drop on it. They are clever and learn the habits of the mines: they know which galleries have men in them and at what hours. They are nearly blind in strong light and will not fly in daylight or into a bright fire.
+
+## What the Miners Do
+
+The mining camps of Moktur close off a worked-out level with a timber door or a wall of dry stone, and a gallery that opens into an old level is not worked without a lamp-boy at the back keeping a second light burning. Miners go into old ground with wax or wool in their ears, and they carry bright lamps and pitch torches, which the bats will not face. The half-[[lore-varokhiclt|Varokh]] crews at Stennvold leave the colony in the old levels a share of the carcass of every goat they slaughter, set out at the adit-mouth at dusk, and they say that a fed colony does not come into the working levels; the overseers call it waste and have never stopped it. The bat-dung from the roosts is dug out and sold to the farms below as fertilizer, and the men who dig it go in at midday, in the hours the colony sleeps soundest.
+
+## Signs
+
+- A sharp reek of ammonia from an adit-mouth or a cave, and dung deep on the floor beneath a roost.
+- A stream of large dark wings pouring out of a mountainside at dusk and back in before dawn.
+- A faint clicking overhead on a still night, just at the edge of hearing.
+- Birds and bats found dead with small, many-toothed bites at the neck, and no other mark.
+- Dogs and mules that will not go past the mouth of an old working after dark.
 
 ## Combat Strategy
 
-The screechbat's primary weapon is sound—the creature uses piercing sonic screeches to disorient, deafen, and terrify targets before moving in for physical attack. A coordinated pack of screechbats creates overwhelming noise that can incapacitate unprepared opponents. Individual screechbats are relatively fragile and avoid physical engagement, preferring to remain aloft and attack from the air. The creatures will attempt to isolate prey from the group and swarm individual targets. If the pack is broken up or significant numbers are lost, the remaining screechbats retreat to darkness.
+A pack attacks only what it has surrounded or what has come into its roost. It screams first, all the bats together, from every side and above, to deafen, daze and frighten its prey, and it keeps screaming while it attacks. The bats isolate one victim, the smallest or the one who falls, and drop on him to bite and rake while the rest keep screaming at the others. They stay out of reach of weapons when they can, darting in and out. In a confined gallery the sound is far worse than in the open. Light breaks a pack faster than steel: a bright fire or a burst of flame scatters it, and when a pack has lost several bats it flees back into the dark.
 
 ## Attack Methods
 
-### Sonic Scream
+### Bite
 
-The screechbat emits a focused, high-pitched scream capable of causing pain, disorientation, and temporary deafness in targets. The scream travels in a cone forward of the creature and affects multiple targets simultaneously. The frequency can be modulated and directed somewhat, allowing coordination between screechbats in a pack.
-
-### Bite Attack
-
-Once a target is disoriented or subdued by sonic assault, the screechbat dives in to attack with fangs and claws, attempting to tear exposed flesh or eyes. The bite is used to finish already-incapacitated targets rather than to engage alert opponents.
+The bat drops onto a man who is already deafened or down and bites at the face, the eyes, the neck and the hands. Each bite is small and bleeds freely, and a pack bites many times.
 
 ### Claw Rake
 
-The screechbat's feet possess sharp claws that can rake and tear at exposed flesh if the creature lands on a target. These attacks are used when the bat needs to establish better positioning or when targets are already partially restrained.
+Landing on a man, the bat rakes with its hooked feet to hold on and tear, and it rakes as it lifts away again. The claws scratch and cut exposed skin and catch in hair and clothing.
 
 ## Special Abilities
 
 ### Sonic Scream
 
-The screechbat can emit powerful, focused sonic screeches that cause deafness, disorientation, and terror in targets. The scream is nearly impossible to defend against in an open environment without magical protection or physical sound-dampening. Multiple screechbats screaming together create overwhelming noise that can incapacitate victims.
+The screech is a narrow, piercing blast of sound aimed forward, which causes pain, deafness, dizziness and terror in whoever it strikes. One bat is painful; a pack screaming together in a gallery can drop a man to his knees, leave him deaf for hours, and keep him from hearing orders or from thinking clearly. Wax or wool in the ears helps a little.
 
 ### Echolocation Mastery
 
-The screechbat navigates and hunts entirely through sound, creating a mental map of the environment through echo analysis. This allows the creature to hunt effectively in absolute darkness and to detect movement, shape, and position of objects and creatures from distances that should be impossible. Creatures that rely on concealment or darkness are vulnerable to screechbat hunting.
+The bats see by sound. In complete darkness they know the shape of a gallery and the place and movement of everything in it, and darkness and concealment do not hide anyone from them.
 
 ### Aerial Agility
 
-The screechbat's lightweight build and adapted wings allow it to maneuver in three-dimensional space with grace and speed that ground-bound creatures cannot match. The creature is nearly impossible to hit with melee weapons and is supremely confident in aerial combat.
+They turn and dart in flight faster than a man can follow, inside a gallery as easily as in the open, and they are very hard to strike with a hand weapon.
 
 ### Pack Coordination
 
-Screechbats communicate with high-frequency vocalizations and can coordinate complex pack hunting strategies. Multiple screechbats working together can execute pincer moves, isolate prey, and create overwhelming pressure through coordinated sonic assault.
+The pack talks constantly in clicks and chirps and hunts as one, surrounding, isolating and taking turns, so that a man who turns to strike one is screamed at and bitten from behind.
 
 ### Night Adaptation
 
-The screechbat's eyes, though weak, are adapted for maximum light sensitivity in low-light conditions. The creature can navigate and hunt in near-total darkness but is nearly blinded by sudden bright light.
-
-### Additional Information
-
-Screechbats are most dangerous in large groups and in confined spaces where sonic assault has maximum effect. Individual screechbats or small groups can be handled by prepared opponents. The creatures are vulnerable to silence magic or sound-dampening materials that reduce the effectiveness of their echolocation and sonic weapons. Bright light sources can temporarily blind and disorient screechbats, making daytime or well-lit areas safer for travelers. Some humanoid cultures have learned to coexist with screechbat colonies through careful habitat management and food offerings.
+Screechbats hunt in near-total darkness but are nearly blinded by sudden bright light. A strong lamp or a fire held up in a gallery dazzles and disorders them.
 
 ## Attributes
 

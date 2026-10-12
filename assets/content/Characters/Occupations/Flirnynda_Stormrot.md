@@ -396,8 +396,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Flirnynda grew up in the city and learned rat-catching from her father. She is known for her agility and cunning, and uses traps and her own quick reflexes together to catch rodents. She takes pride in her work and is dedicated to keeping the streets free of infestations. She has a strong bond with her trained cat, Whiskers, who works alongside her.
 
-Now at 27 years of age, she is a known figure among the ratters of Nordheim.
-
 ## Psyche
 
 ### Personality

@@ -401,8 +401,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Sàfîros is a seasoned veteran who has fought in numerous skirmishes and battles. He is tough and resilient, respected for his leadership on the battlefield. Sàfîros often trains younger yeomen in the arts of melee combat and defense. Despite his gruff demeanor, he cares deeply for those who fight beside him.
 
-Now at 42 years of age, Sàfîros Râkhmônis has established himself as a known figure among the yeoman infantrys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

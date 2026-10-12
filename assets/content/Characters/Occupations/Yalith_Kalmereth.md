@@ -401,8 +401,6 @@ Yálith Kálmereth is a traveling bard of [[place-elavendre|Élavendre]], born a
 
 Yálith was given the name "Kálmereth" for the clarity of her voice, and has kept it. Her own songs are ballads of love and loss, and Liranel gave her a subject: it is the town where people hire guides into the old wood, and where some families wait for someone who does not come back. She has sung in noble halls and been well paid there, and she has never stayed; the formalities of court sit badly on her and she says so.
 
-She is a known figure among the bards of Élavendre.
-
 ## Psyche
 
 ### Personality

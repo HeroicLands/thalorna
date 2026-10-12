@@ -238,67 +238,75 @@ sohl:
 
 ![[strmsr|Stormseer]]{float=top-left}
 
-High above, the air itself becomes uncertain. What you see is a shape wreathed in clouds and lightning—vaguely bird-like, massive, composed of storm and electricity. Around it, the air crackles with potential energy, and the smell of ozone grows strong. Thunder rumbles at its approach, not in sequence but seeming to come from the creature itself. Lightning dances between its limbs and wings, and where its gaze falls, hair stands on end and static electricity tingles across skin.
+The sky over the gulf was clear at noon. Now a wall of black cloud stands out over the open ocean, and it is coming in against the wind. At its leading edge, outlined by the lightning that runs through it, is a shape: an eagle as wide as a merchant galley is long, made of cloud and storm, with lightning crawling in its feathers and two points of blue-white fire for eyes. It hangs over the harbor mouth, looking down at the ships, and the look is not hungry. It is contemptuous. Then it opens its wings, and the wind that comes off them lays the fishing boats over on their sides.
 
 # Dossier {#dossier}
 
-Stormseers are elementals of sky and electricity, born from violent storms and drawing strength from tempestuous weather. They are intelligent and arrogant, regarding ground-dwelling creatures as primitives beneath serious consideration. A Stormseer in a region typically indicates incoming severe weather, and one account holds that the creature's presence actually causes storms to develop. They are territorial about sky and weather and will attack anything that flies through their territory or attempts to control its weather. A Stormseer is a threat to settlements, capable of calling down lightning strikes and creating deadly storms.
+The Stormseer is an air elemental of storm and lightning: a spirit of the sky manifested as a great eagle of thundercloud and electricity, thirty feet or more across the wings, which rides storms and makes them, attacks with lightning, wind and thunder, and regards everything that walks or sails as beneath its notice. It is intelligent and arrogant. One haunts the [[place-batarengulf|Gulf of Batáren]], the one deep harbor on Provènzia's cold ocean coast, and the sea-roads north from it toward Élavendre and Aelwyth. The fishermen and the shipmasters of [[place-batarencity|Batáren City]] believe that the stormseer brings the storms that close the gulf, and the belief is hard to argue with. Like every elemental, it can be destroyed in the material world, and it comes back with the next great storm.
 
 ## Presentation
 
-A Stormseer is roughly eagle-shaped but massively larger—a wingspan of thirty feet or more—and composed of thunderclouds and electrical energy. Its body is visible only because of the lightning that plays through and around it, outlining a distinctly avian shape. Its eyes are bright points of electrical discharge. Where it flies, thunder follows, and the air becomes charged with static. Rain and wind seem to swirl around it without necessarily touching the creature itself.
+The stormseer is shaped like a great eagle, but its body is cloud: dark, roiling thundercloud, visible as a shape only because lightning runs through it, outlining wings, head and talons in flickering blue-white light. Its eyes are two steady points of blue fire. Rain and hail fall out of it, and the wind follows it. Thunder rolls when it moves its wings. The air near it smells sharp and burned, and hair stands on end. It flies fast and effortlessly into and against the wind, and it can hang in place over the sea in a gale.
+
+## In the Land
+
+The Gulf of Batáren is a broad, deep, sheltered bay biting inland from the cold ocean, and everything that comes there comes down from Élavendre and Aelwyth and out of the northern seas. The stormseer ranges over the gulf and the open ocean beyond it, and over the cliff coast to either side, and it comes in with the autumn and winter storms. It seems to claim the sky over the gulf and the weather in it as its own: when it is there, storms come in against the forecast and stay longer than they should, and the harbor is closed. It roosts, if it roosts at all, in the storm clouds themselves, and in calm weather it is not seen.
 
 ## Key Behaviors
 
-Stormseers are territorial about open sky and about weather patterns within their domain. They are highly intelligent and seem to understand human activity. They view ground-dwelling creatures with disdain but will attack if provoked or if humans attempt to interfere with weather in their territory. They are most active during storms and seem to draw strength and energy from severe weather. Some evidence suggests that multiple Stormseers can work together to coordinate weather patterns, creating unprecedented storms.
+A stormseer is territorial about the sky and the weather. It understands what men do and why, and treats them with disdain; it attacks ships, boats and men on the cliffs when they annoy it, when they cross its sky in a storm, or for no reason anyone can see. It does not eat. It stays in a region for weeks or months, and the longer it stays the stormier the weather there becomes. When its body is destroyed it disperses in a blast of wind and rain, and the storm breaks up, and the spirit comes back with the next great storm off the ocean.
+
+## What the Harbor Does
+
+Batáren City lives by the gulf, and its shipmasters have made the stormseer part of their calendar. When the stormseer is seen over the harbor mouth, no ship sails, whatever the cargo and whatever the merchant who chartered it says, and the harbor-master closes the boom. Ships caught at sea run for the gulf with their masts struck, because a mast in a stormseer's storm draws lightning. The great houses of the city have fitted their towers with iron rods that run down to the ground, and the harbor's warehouses have them too. The sailors leave an offering of salt on the end of the mole before every winter voyage; the [[affiliation-arldnpnthn|Aurèldían]] priests disapprove of the salt and bless the ships anyway. Nordheim raiders came into this gulf two centuries ago, and the old men of the harbor say a stormseer would have kept them out if it had been watching.
+
+## Signs
+
+- A storm that comes in against the wind out of a clear sky, and stays over the gulf for days.
+- Lightning striking the same headland, tower or mast again and again in one storm.
+- A shape of wings outlined in lightning at the leading edge of a cloud bank.
+- The smell of burned air on the quay before any storm is visible.
+- Ship's masts found split from top to deck after a storm, and boats capsized in a single gust.
 
 ## Combat Strategy
 
-A Stormseer fights from the air, using its speed and distance advantage to unleash lightning attacks while evading counterstrikes. It will use wind to buffet and knock down opponents, and it will create localized storms to increase hazards and restrict visibility. Against opponents with strong electrical resistance or earth-based magic, it becomes more cautious and may disengage. It will rarely descend to ground level to fight directly, preferring to maintain aerial advantage.
+A stormseer fights from the air and does not come within reach. It throws lightning from a distance, buffets its enemies with wind to knock them down and turn aside their arrows, and claps thunder to stun them, and it builds a storm round itself to make everything harder. It focuses on whoever it finds most insolent. It is hard to hurt with anything a man can throw. Earth and sound hurt it most: grounding rods and iron carried to the earth take the force out of its lightning, and magic of the earth or of sound can scatter it.
 
 ## Attack Methods
 
-### Lightning Strike
-
-The Stormseer calls down bolts of electricity that strike with devastating force. A direct hit can kill a human instantly, and even indirect strikes cause severe burns and muscle disruption. Multiple lightning strikes can immolate an area and ignite flammable materials.
-
 ### Gust of Wind
 
-The Stormseer generates massive wind gusts that can knock opponents off their feet, blow away unattached objects, or redirect projectiles. The wind is used both as attack and as defense or escape mechanism.
+The stormseer beats its wings and drives a blast of wind at its enemies that knocks men off their feet, blows away anything loose, throws a boat over on its side and turns arrows in the air.
 
-### Thunder Clap
+### Lightning Strike
 
-The Stormseer creates a shockwave of sound and force by clapping its wings or releasing built-up electrical energy. The effect is deafening and can cause physical damage from the force of the blast.
-
-### Storm Generation
-
-The Stormseer can cause localized storms to develop, complete with heavy rain, severe wind, lightning, and thunder. The storm is centered on the creature and follows it, creating increasingly difficult fighting conditions.
+It calls down a bolt of lightning on its target. A direct hit can kill a man outright, and a near miss burns and throws him.
 
 ## Special Abilities
 
+### Thunder Clap
+
+It claps its wings or releases its charge in a shock of sound and force that deafens and stuns everyone near and can knock them down.
+
+### Storm Generation
+
+It raises a storm round itself, with rain, wind, lightning and thunder, which follows it and grows worse the longer it stays.
+
 ### Aerial Mastery
 
-The Stormseer is supremely at home in the sky and maintains incredible speed and maneuverability in the air. Ground-based creatures cannot effectively pursue it, and it gains tremendous advantages in positioning.
+It is supremely fast and agile in the air, and nothing on the ground or the water can follow it.
 
 ### Lightning Affinity
 
-The Stormseer is immune to lightning and heals from lightning-based magic. It can sense electrical currents and navigate in complete darkness by sensing electromagnetic fields.
-
-### Storm Creation
-
-The Stormseer can cause or enhance storms in its vicinity. Over extended time in a region, it can cause a localized area to experience perpetual storm conditions.
+Lightning does not harm it, and lightning magic heals it. It feels the charge in the air and finds its way in total darkness.
 
 ### Electrical Sensitivity
 
-The Stormseer can sense atmospheric electricity and seems to predict the locations of living creatures by their bioelectrical fields. It cannot be hidden from by normal concealment.
+It senses the living by the faint charge of their bodies, and ordinary concealment does not hide anyone from it.
 
 ### Thunder's Echo
 
-When the Stormseer generates thunder, the sound carries magical force and can stun or disorient opponents even if they cannot hear it clearly.
-
-## Additional Information
-
-Earth-based magic and sonic-based magic are most effective against a Stormseer, as they disrupt its electrical form and can scatter its cohesion. Grounding rods and structures designed to conduct electricity safely can reduce the threat of its lightning. A Stormseer destroyed during calm weather may not reform, but one destroyed during a storm will likely return. A Stormseer can be drawn away from a settlement by creating atmospheric conditions that attract it to a different location. One school holds that understanding Stormseers is the key to predicting and controlling severe weather, but the study of them remains dangerous and incomplete.
+The thunder it makes carries a force that stuns and dazes, even a man who has stopped his ears.
 
 ## Attributes
 

@@ -394,59 +394,71 @@ sohl:
 
 ![[shdwstlk|Shadowstalker]]{float=top-left}
 
-You feel it a moment before you see it—a sudden chill down the spine, the prickle of being watched. Then your eyes catch motion in the corner, a shape in shadow that should not move independently of the light that creates it. It is vaguely humanoid but wrong in proportion, with angles too sharp and movements too liquid. Before your mind can quite process what you are seeing, it is no longer there—only the lingering sensation that something predatory measured you and found you wanting.
+The fire has burned down to coals and the men round it are asleep, all but the brigand on watch, who sits with his back to an oak and his spear across his knees. The shadow of the oak is longer than it should be. It reaches past him, across the clearing, and the end of it lifts off the ground: a shape like a tall, thin man, all long limbs and hunched spine, made of darkness that has thickened until it is nearly solid, its edges smoking. It leans over the man on watch. He does not look up. You see a hand of shadow with claws like long black thorns close over his mouth, and then the shadow of the oak is only a shadow again, and the man is gone.
 
 # Dossier {#dossier}
 
-Shadowstalkers are assassins of the spirit realm—born from murder, shaped by desperation, or occasionally bound into service by dark sorcerers. They are not mindless killers but tactical beings with their own codes and purposes. Some Shadowstalkers hunt specific targets across years; others are bound to a location and strike at any who enter their domain. All share an inhuman talent for moving unseen and striking with lethal precision. Most dangerous is that a Shadowstalker learns—each failed kill attempt teaches it something about its prey.
+The Shadowstalker is a spirit assassin: a soul made out of murder, the victim's or the killer's, that has become a hunter of the living, moving unseen through shadow and striking from darkness. It is not mindless. It has purposes and codes of its own, it hunts particular targets across years, and it is patient, tactical and very hard to see coming. Some are bound into service by sorcerers who mean to use them. The one known in [[place-byzariargn|Byzaría]] haunts [[place-ravenswood|Ravenswood]], the wood astride the League's eastern trade routes and home ground of the Ravenswood Brigands, and it is hunting the brigands, one at a time, as it has been for years.
 
 ## Presentation
 
-A Shadowstalker is a being of movement rather than form. When partially visible, it appears vaguely humanoid but proportioned for killing—long, thin limbs; compact torso; predatory spine. Its body is composed of darkness made semi-solid, with edges that blur and shift like smoke. Its eyes are the most distinct feature: deep red or burning amber, positioned with unsettling awareness, and clearly intelligent. Where it passes, shadows seem to deepen and cling to it like fabric. It makes almost no sound—even when moving across loose stone or broken glass, the creature seems to muffle the world around it.
+A shadowstalker is a being of movement more than of shape. Seen at all, it is vaguely man-shaped and built for killing: long, thin limbs, a compact body, a hunched, predatory spine, a head that is barely a head. Its body is darkness made nearly solid, its edges smoking and blurring into the shadows round it, and its claws are long black thorns of shadow. Two points of cold light sometimes show where its eyes would be. It makes no sound at all. Where it has passed, the air is cold, and a dead man it leaves behind is cold too, colder than the night.
+
+## In the Land
+
+Ravenswood lies along Byzaría's eastern trade routes, and the Ravenswood Brigands, a loose confederation of bandits, live off those routes and demand tribute from the caravans. The shadowstalker hunts the wood, its oaks and holly thickets, its gullies, the brigands' camps and the road through it. It moves through shadows as if they were open doors, and the deep wood is all shadow. It is seen most in the dark of the moon and on overcast nights, and least in daylight on the open road, where it does not go. It does not leave the wood.
 
 ## Key Behaviors
 
-Shadowstalkers are ambush hunters with a preference for isolated victims. They stalk prey for extended periods, learning routines, identifying weaknesses, and timing the best moment for attack. Some Shadowstalkers seem to take pleasure in the hunt itself, drawing it out unnecessarily; others kill quickly and without flourish. They are territorial and will defend their hunting grounds against humans and other Shadowstalkers alike. They seem to understand the concept of mercy—occasionally releasing a victim who appeals to them in some way—but mercy is rare and idiosyncratic.
+A shadowstalker stalks a target for a long time before it strikes, learning his routines and his weaknesses and waiting for the moment he is alone. It prefers isolated victims and never fights fairly if it can avoid it. It kills with one strike from darkness when it can, and leaves. The one in Ravenswood kills brigands, and it seems to take some pleasure in the hunt: it takes a sentry here and a straggler there, never two in a night, and it has never touched a caravan or a teamster. The teamsters say it is the spirit of a driver the brigands murdered on the road, hunting his murderers' band to the last man. The brigands say nothing about it at all.
+
+## What the Road Does
+
+The teamsters who drive the eastern roads either pay the Ravenswood Brigands or plan round them, and some of them now pay a little less, because the brigands are fewer and more nervous than they were. Brigand camps in the wood burn great fires all night and post sentries in pairs with their backs to the fire, and bands that have lost men to it have left the wood for the hills. Teamsters crossing the wood at night carry bright lanterns and keep to the road, and nothing has touched them. Whether the shadowstalker had anything to do with the shipment of Merchant House Valdris that vanished in Ravenswood without wreckage or bodies is a question the teamsters argue in the inns and nobody can answer. Priests of the [[affiliation-arldnpnthn|Aurèldían]] faith have offered, for a fee, to try to settle it; the brigands have not accepted.
+
+## Signs
+
+- A man found dead at his post at dawn with no wound but four cold, narrow punctures, and his body cold as stone.
+- Shadows in a wood that lie the wrong way, or reach farther than the light allows.
+- A sudden cold in a camp on a warm night, and the fire burning low and blue for a moment.
+- Brigands who post their sentries in pairs and light fires big enough to see from the road.
+- A watcher's feeling, for days, of being followed in the dark by something that never comes closer.
 
 ## Combat Strategy
 
-A Shadowstalker never engages in fair combat if avoidable. It attacks from darkness, deals devastating damage in the first strike, and then repositions or flees if the fight doesn't go perfectly. It uses shadows as both concealment and highways, and it targets isolated opponents whenever possible. Against multiple enemies, it attempts to separate and disable them methodically rather than engaging all at once. It is intelligent enough to recognize when an enemy poses too much threat and will withdraw to another day. Bright light infuriates and panics a Shadowstalker, forcing it to become more aggressive and reckless.
+A shadowstalker never fights fair if it can help it. It strikes from darkness, with all its precision, at the moment its target is alone and unready, and then it repositions or flees if the fight does not go perfectly. It uses shadows as cover and as roads. It does not stand and trade blows. Bright light is its great weakness: strong light forces it into a more solid form that ordinary weapons can hurt, and it avoids lit places. Holy ground and a temple's blessing keep it out.
 
 ## Attack Methods
 
 ### Shadow Claws
 
-The Shadowstalker extends claws that seem to be formed of living shadow, and they strike with supernatural force. The wounds they leave are grievous but also numbing—victims feel the cold touch of the necrotic energy, as if the wound itself is draining warmth and life. A claw strike leaves a victim weakened and struggling to act decisively.
-
-### Necrotic Dagger Strike
-
-The creature manifests a blade of shadows and bone and strikes with perfect precision at vital targets. These strikes are less about physical damage and more about spiritual harm—victims report feeling as though the blade reached into them, pulling at something fundamental. Multiple strikes can leave a person hollow, unmotivated, barely alive.
+The shadowstalker strikes with claws of living shadow. The wounds are grievous and numbing at once, and a cold spreads from them, as if the wound were draining the warmth out of the body.
 
 ## Special Abilities
 
+### Necrotic Dagger Strike
+
+It forms a blade of shadow and bone and drives it at a vital spot with perfect precision. The blow does less to the body than to the spirit, and the victim feels as if the blade had reached inside him and pulled something out.
+
 ### Shadow Mastery
 
-In any shadow or dim light, the Shadowstalker can move with invisibility-like concealment. It can see clearly in darkness and can move through shadows as though they were open space. Darkness is its natural element and its advantage there is overwhelming.
+In shadow or dim light it is nearly invisible, it sees clearly in darkness, and it passes through shadows as if they were open space.
 
 ### Stealth Excellence
 
-The creature is nearly impossible to detect when it is being deliberate. It moves without making sound, and its form blends with shadows so completely that even those watching for it often miss its presence. Only active searching or magical detection has a reasonable chance of exposing a hidden Shadowstalker.
+It moves without sound and blends with shadow so completely that even watchers looking for it miss it. Only a deliberate search with good light, or magic, finds it.
 
 ### Precision Strike
 
-When attacking from stealth or from surprise, a Shadowstalker's strike is devastatingly accurate. It aims for vulnerabilities in armor, the gaps between defenses, the places where a strike does the most harm.
+Striking from hiding or surprise, it finds the gaps in armor and the places where a blow does most harm.
 
 ### Life Drain
 
-The necrotic energy in the creature's attacks drains vitality as well as health. Victims struck by a Shadowstalker find their strength diminishing, not just from the wounds but from the unnatural cold the creature leaves behind.
+Its strikes drain strength as well as blood, and the cold it leaves behind goes on weakening its victim.
 
 ### Necrotic Resistance
 
-The Shadowstalker is resistant to necrotic energy and completely immune to normal disease. Light and holy power are the primary things that can harm it beyond normal weapons.
-
-## Additional Information
-
-Bright light is the key counter to a Shadowstalker. Bright magical light forces the creature into a more material state where normal weapons can harm it effectively. Sacred sites and temples empowered by good-natured faiths are places where Shadowstalkers cannot hide. Some Shadowstalkers can be negotiated with, especially those bound to service rather than driven by hunger. Others are implacable and will pursue a target across the world. The most dangerous Shadowstalkers are those that develop obsessions with particular prey—they become unstoppable until either the prey is dead or the Shadowstalker is destroyed.
+Disease does not touch it and necrotic magic barely does. Light and holy power hurt it beyond what weapons can.
 
 ## Attributes
 

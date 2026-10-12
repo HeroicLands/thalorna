@@ -3,7 +3,7 @@ shortcode: brmblfng
 name: {full: Bramblefang, aliases: []}
 type: being
 subType: creature
-description: "A corruption-born woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
+description: "A made woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -248,55 +248,71 @@ sohl:
 
 ![[brmblfng|Bramblefang]]{float=top-left}
 
-The undergrowth shivers before anything appears. You smell iron and vegetable rot, then it emerges—a mass of thorns and twisted wood, vaguely beast-shaped but wrong. Its body writhes with barbed vines, each spike dripping something black. Where it walks, the grass dies. You catch the glint of an eye—yellow, intelligent—buried deep within the tangle of spikes, and it has already seen you.
+The path into the coppice narrows between two banks of bramble, and then it stops: a wall of thorn across it, head-high, woven so tight you could not put a hand through. Behind you, the way you came has closed the same way. You are sure it was open a moment ago. In the bramble to your left, two yellow eyes open, low down, and the brambles around them move together, as one thing, and step out onto the path. It is the size of a big dog and shaped like a badger, and it is made of thorn: black wood and bark knotted together, every inch of it bristling with hooked thorns as long as daggers.
 
 # Dossier {#dossier}
 
-Bramblefangs are perversions of nature, creatures born when dark magic seeps into forest soil and corrupts the very growth that springs from it. They are apex predators of woodlands and wild places, hunting from within thickets they blend indistinguishably with. Adventurers encounter them in deep forests, corrupted groves, and wild lands that have been touched by shadow.
+The Bramblefang is a dreadspawn made of living wood and thorn: a low, heavy, badger-shaped hunter about a hundred pounds in weight, its whole body a mesh of thorned vine and black bark, which grows thickets round itself and hunts from inside them. It is cunning, patient and territorial, and it eats meat. The one the river villages of [[place-thornwald|Thornwald]] know lives in the eastern [[place-vrystwald|Vrystwald]] where the forest gives way to the grain country of [[place-velanthrgn|Velanthia]], and it has turned a stretch of the forest edge into a bramble maze that the villagers will not enter. It was made, as all dreadspawn are; it is alive, and it does not breed.
 
 ## Presentation
 
-The Bramblefang is a compact, muscular predator roughly the size of a large wolverine or small lion, built low to the ground for charging through underbrush. Its entire body is covered in a living mesh of thorny vines and branches, dark wood and black bark interwoven so tightly that individual vines cannot be separated—they are now one organism. The thorns along its back and sides are thick as daggers and curve backward, designed to snag and tear anything that brushes past. Its head is a tangle of thorns with two burn-bright yellow eyes visible within; its mouth, when opened, reveals teeth of blackened bone interspersed with woody growths. A sickly-sweet stench of rot and iron accompanies it. Movement is accompanied by creaking, snapping sounds and the rustle of dead leaves.
+The bramblefang is built like a badger or a wolverine, broad, low and strong, on short legs with long claws of hard dark wood. Its body is woven from thorned vines, branches and black bark so tightly that no strand can be pulled away from the rest. The thorns along its back and flanks are thick and curve backward, and they catch and tear on anything that brushes them. The head is a knot of thorn with two bright yellow eyes deep in it, and the mouth, when it opens, is lined with teeth of polished wood. It smells of crushed leaves and sap. It moves almost silently in its own thicket, and loudly, with a crackle like a fire, outside it.
+
+## In the Land
+
+Thornwald is the forest's most permeable frontier: landings and villages along the rivers where Varokh and Velanthian families have traded and married across the line for generations. The bramblefang holds a stretch of mixed woodland and coppice there, a few miles of it between two river landings, and over the years it has grown its ground into a maze of bramble thickets, with paths that open and close. It hunts deer, pigs, dogs and the stock of the forest-edge farms, and it lies up in the deepest of its thickets. It does not go out into the open grain fields of Velanthia, where it has no cover, and it does not cross the rivers.
 
 ## Key Behaviors
 
-The Bramblefang is a patient, methodical hunter that dwells in dense undergrowth of its own making. It actively cultivates thickets around its territory, entangling vines into impassable barriers and arranging them to channel prey toward its hunting ground. The creature is fiercely territorial, patrolling its boundaries and attacking anything that ventures within. It hunts by sound and movement rather than scent or sight, lying perfectly still until prey passes close enough to strike. It shows signs of cunning—setting ambushes, herding prey, even feigning injury to draw in potential meals.
+The bramblefang hunts by sound and movement. It lies still in its thicket, indistinguishable from it, until something passes close, then charges out. It shapes its ground to suit it: it grows bramble walls to channel animals down particular paths, closes paths behind them, and waits where the channel ends. It is clever and learns, and it uses tricks: it drags a carcass to the mouth of a path to draw in scavengers and hunters, and it has been seen to limp, as if injured, to draw a dog after it. It attacks anything that comes into its ground and never follows prey out of it.
+
+## What the River Villages Do
+
+The landings on either side of the bramblefang's ground have moved their paths round it, and the river traffic between them goes by water. Nobody cuts coppice or gathers firewood in the stretch where the brambles grow wrong, and children are told that a thorn hedge across a path that was open yesterday means turn round at once. The village elders on the [[lore-varokhiclt|Varokh]] side and the reeves on the Velanthian side have met over it more than once, and both sides agree on the remedy, which is fire. Twice the villages have burned the edge of the thicket in a dry autumn, and the creature has fled from the fire and come back to the burned ground the next year and grown it again. The Varokh hold that a thing like that is the sign of something worse nearby, and send their Shamans to the edge to look for it.
+
+## Signs
+
+- A bramble hedge across a path or a ride, head-high and too thick to push through, where there was none before.
+- Thorn thickets grown in long walls and channels, like a maze, with paths between them that change.
+- Deer and pig carcasses inside a thicket, torn and pierced in many places, with thorns broken off in the wounds.
+- Tufts of fur, hide and cloth caught on every thorn along a path.
+- A crackling in the bramble like a small fire moving, with no smoke.
 
 ## Combat Strategy
 
-The Bramblefang attacks only when certain of advantage. It charges from concealment or broken ground, attempting to close the distance before prey can retreat. Once engaged, it uses its thorned body as both offense and defense, causing bleeding wounds through simple contact while its tough hide resists counterattacks. If seriously injured or facing overwhelming opposition, it retreats into its thicket, where it uses tangled terrain to prevent pursuit. It never pursues prey beyond its claimed territory.
+The bramblefang attacks only when it has the advantage: from cover, at close range, with its prey hemmed in by its thickets. It charges, bites and slashes, and pushes its thorny body against its victim so that every touch tears. It uses the brambles round it to entangle and hold. If it is badly hurt or faces too many, it backs into its thicket and lets the thorns stop the pursuit, and it never chases anyone out of its ground. Fire it fears above everything, and it runs from flame.
 
 ## Attack Methods
 
-### Thorn Swipe
-
-The creature slashes with a limb covered in backward-curving thorns, attempting to tear open targets. The barbed edges lodge in the flesh they open, so the wound keeps bleeding even after the creature disengages.
-
 ### Tearing Bite
 
-The Bramblefang bites with force and malice, attempting to crush limbs or vital areas. Its bite often pulls away with strips of flesh or armor still caught on its wooden teeth.
+The bramblefang bites hard at a limb or the body and tears away. Its wooden teeth often come away with strips of flesh or armor caught in them.
 
-### Entangling Brambles
+### Thorn Swipe
 
-The creature can manipulate thorny vines around itself or nearby terrain, attempting to grapple, entangle, or restrict prey. Once grappled, prey is torn continually by the barbed thorns.
+It slashes with a thorned forelimb. The barbed thorns tear long wounds and lodge in them, and the wound keeps bleeding after the creature has pulled away.
 
 ## Special Abilities
 
+### Entangling Brambles
+
+The creature moves the brambles round it to wrap and hold a man's legs, arms or weapon, and a man held in them is torn by the thorns as he struggles.
+
 ### Thorny Body
 
-The Bramblefang’s entire form is a weapon and armor both. Any creature that grapples, is grappled by, or makes close physical contact with it is immediately wounded by thorns. Weapons used in melee combat risk becoming caught on thorns, potentially tearing from the wielder’s grip.
+Its whole body is armor and weapon. Anyone who grapples it or is grappled by it is cut at once, and a weapon swung at it can catch on the thorns and be torn out of the hand.
 
 ### Camouflage
 
-When stationary in undergrowth or dense forest, the Bramblefang is nearly impossible to distinguish from natural bramble thickets. In its own ground it is very hard to spot, and it can remain motionless for extended periods without tiring.
+Still, in undergrowth, it is a bramble thicket, and it can lie unseen for as long as it likes.
 
 ### Thicket Growth
 
-The creature causes thorny vines and vegetation to grow rapidly in its presence and under its influence. Over hours and days, it can transform a forest clearing or woodland region into a tangle of impassable brambles that benefit its hunting and movement while hindering others.
+Bramble and thorn grow fast where it lives, over hours and days, into walls and mazes that open for the bramblefang and close against everything else.
 
-## Additional Information
+### Fear of Fire
 
-Fire is highly effective against Bramblefangs; their wooden and plant-based bodies are vulnerable to burning, and the creature fears flame more than any other threat. Once its territory is discovered, the thickets can be burned to deprive it of camouflage and mobility advantage. Bramblefangs are drawn to places of natural corruption or magical blight—finding one suggests something worse dwells nearby.
+Its body burns, and it knows it. Fire drives it back faster than any weapon, and burning its thicket strips it of cover and of the paths it hunts on.
 
 ## Attributes
 

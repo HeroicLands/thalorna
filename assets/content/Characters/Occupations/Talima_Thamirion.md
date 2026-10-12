@@ -402,8 +402,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Tàlîma grew up in the city and was drawn to the art of engineering. She has trained as a sapper and quickly gained a reputation for her skills in tunnel construction and demolition. Known for her quick thinking and resourcefulness, Tàlîma often devises creative solutions to challenges. She aspires to become a master sapper and help design fortifications.
 
-Now at 26 years of age, Tàlîma Thamîrîon has established herself as a known figure among the man-at-arms (sapper)s of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

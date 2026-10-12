@@ -353,67 +353,79 @@ sohl:
 
 # Appearance {#appearance}
 
-The air crystallizes before you see it. Your breath freezes mid-exhale, turning to glittering needles that catch light that isn't there. The temperature drops so gradually, so deliberately, that by the time you realize something is wrong, your extremities have already begun to numb. Then you see it—pale silver scales catching the glacial light, almost translucent at the wing edges, a creature of perhaps twenty-four feet from snout to tail. It watches you with eyes like winter itself, patient and knowing. Where a fire dragon would announce itself with roaring fury and a cascade of flame, this one simply exists, and the world freezes around it. Your heartbeat slows. Your thoughts grow sluggish. It doesn't need to hunt you—the cold will do the work. The young ice dragon has already learned what takes its elder centuries to perfect: that patience is sharper than any blade, and the silence before the avalanche is more terrifying than the avalanche itself.
+The glacier fills the head of the valley like a frozen river, blue in its cracks, and the wind off it is bitter. Something moves on the ice. A dragon, white and pale blue, the color of the glacier itself, about the length of a longship, picking its way along a ridge of ice with slow, deliberate steps, its long neck swinging as it looks down into the valley. Frost smokes from its nostrils. It stops, and turns its head, and fixes you with eyes as pale and clear as meltwater, and holds the look for a long time, quite still. Then it opens its wings, and the cold that comes down the valley ahead of it freezes the breath in your beard.
 
 # Dossier {#dossier}
 
-Young ice dragons are apex predators of high mountains and glacial regions, possessing great strength and aerial mastery despite their comparative youth. They range from sixteen to twenty-four feet in length with wingspans of up to thirty-six feet, weighing between eight hundred and two thousand five hundred pounds. Unlike their fire-breathing kin, ice dragons are notably less aggressive and more methodical—a difference that makes them deadlier, in ways that take patience to recognize. A young ice dragon will observe a settlement for weeks before hunting, learning routes and schedules. It does not strike in rage; it strikes with precision.
-
-The cold aura that surrounds a young ice dragon is lethal within prolonged proximity. Unprotected travelers within fifty feet will find their core body temperature dropping noticeably within minutes. Frostbite begins within an hour of exposure. The dragon's lair, invariably located in a glacier or mountain ice cave, becomes an environment where only the dragon thrives—stone becomes brittle, metal becomes treacherous, and flesh hardens and fails.
+The Young Ice Dragon is an ice dragon in its first century or so: sixteen to twenty-four feet long, with wings of twenty-four feet and more, a hunter of high peaks and glaciers that is methodical and cold where a young fire dragon would be reckless. It masters the frozen air, breathes supercooled mist that freezes flesh, and radiates a cold that kills. Like every dragon it is a mortal creature with a soul of vast scale, and its channeling floods the magic round it so that a mage's workings misfire near it. It was hatched long after the Vylarian Republic broke faith with the dragons, and it carries that memory as every dragon does. One hunts the glacial valleys and high tundra behind the coast of [[place-nordheim|Nordheim]], where the caribou herds cross the high plateau and the most isolated clans of the north live far from any harbor.
 
 ## Presentation
 
-A young ice dragon's scales are predominantly pale silver-blue, with deeper glacial blue striations along the spine and wings. The edges of its scales are translucent, almost crystalline, causing light to refract in disorienting patterns. Unlike the heat-darkened scales of fire dragons, these scales remain bright and reflective, making the creature shimmer even in dim light. Its eyes are pale silver-gray, devoid of warmth, and seem to calculate rather than merely observe.
+A young ice dragon is lean, long-necked and long-tailed, built for climbing ice and riding cold winds. Its scales are white, pale blue and gray, translucent at the edges like old ice, and frost forms on them in still air. Its eyes are pale and clear. Its wings are broad and pale, and when they are spread the light through them is blue. Frost smokes from its nostrils and its breath leaves rime on rock. The air round it is bitterly cold, and frostbite comes quickly to those who stay near. It moves deliberately and silently, and it watches for a long time before it acts.
 
-The dragon's hide is supernaturally cold to the touch, radiating frost in visible waves during calm weather. Breath mists perpetually from its nostrils. Ice forms spontaneously around its claws where they touch stone. Its wings, when folded, create a faint musical chiming as the scales settle against one another. The dragon's voice, when it chooses to speak, is low and measured—never urgent, never panicked. It speaks with the confidence of something that knows it will outlast its listener.
+## In the Land
+
+Behind Nordheim's fjord coast the interior mixes boreal forest, glacial valleys and high tundra, and in the long winter the country is dark for months. The young ice dragon has claimed a glacier at the head of a valley in the high country, with a lair in the ice caves under it, and it hunts the plateau round it: caribou, elk, musk-oxen and the herds of the clans that follow the caribou. In winter it ranges widely through the dark, and in summer it keeps to the glacier and the high snow. It is still building its territory and its hoard, and it is seen more often than an older dragon would be, sitting on a ridge of ice above a valley, watching.
 
 ## Key Behaviors
 
-Young ice dragons are territorial and solitary, establishing lairs that may span an entire glacier system. They return to the same feeding grounds seasonally, hunting the region's livestock and the occasional hunting party that ventures into their domain. Unlike fire dragons, which may hoard gold and gems, ice dragons collect victims—maintaining a frozen necropolis of perfectly preserved prey, some decades old, stored in chambers maintained at perpetual deep freeze.
+A young ice dragon is patient and methodical. It studies its prey and its ground before it hunts, chooses its moment, and strikes from above out of a winter storm or the dark. It does not waste effort. It is territorial and drives off other predators, wolves, bears, other dragons, but it is slower to rage than a young fire dragon, and it can be curious about men and watch them for days. It gathers a hoard of what it takes, bright metal and carved bone from the clans' camps. It remembers what its kind remembers about humans, and it is wary of them.
 
-The young ice dragon is patient to the point of unsettling. It will circle prey for days, studying behavior patterns. It will wait in storms that would kill other creatures. It will follow a merchant caravan for a hundred miles before striking at the most isolated point. The dragon does not need to hurry. Time itself is its ally.
+## What the Clans Do
+
+The highland clans of the plateau, who follow the caribou far from any harbor and keep to the old places, have lived beside ice dragons in the high country for longer than the kingdom's skalds can count, and they treat the dragon as part of the winter. They move their herds away from the glacier when the frost comes early, leave the carcass of a caribou on the ice at the start of each winter where the dragon can see it, and do not hunt on its glacier. A clan that has lost herds to it sends its best hunters to the coast to ask the hall for help, and the hall, which is a long way off and has its own troubles, sends advice. The skalds in the coastal halls tell of heroes who went up to the ice to kill a dragon, and in the halls nearest the high country the tales end badly.
+
+## Signs
+
+- A glacier that has advanced down a valley faster than glaciers move.
+- Caribou and musk-oxen found frozen solid where they stood, with great bites taken from them.
+- Rime on the rocks of a ridge in summer, in a line, as if something cold had lain there.
+- Wing-shaped shadows on the snow under a clear sky, and a sudden fall in the cold.
+- Ice caves at the snout of a glacier that breathe out air colder than the glacier itself.
 
 ## Combat Strategy
 
-A young ice dragon prefers to engage enemies at a distance, using its flight and frost breath to separate prey from aid and create environmental hazards. It circles at altitude, making ranged attacks difficult while it pummels targets with its breath. Only when prey is sufficiently weakened—frozen, disoriented, or isolated—does the dragon descend to fight at close quarters.
-
-The dragon uses terrain ruthlessly. A single sweep of its tail near a glacier's edge can trigger avalanches. Its presence itself creates hazards; ice sheets become slick and treacherous, stone becomes brittle, and the very air becomes a weapon. The dragon is patient enough to force enemies into mistakes born of cold, fear, and desperation.
+A young ice dragon fights with patience. It strikes from the air out of storm or darkness, breathes its freezing mist to slow and trap its enemies, and closes on those the cold has caught. It keeps out of reach, uses the ice and the snow as its ground, and leads its enemies onto ice that will not hold them. It retreats from a fight that goes badly and comes back when the weather is worse. Fire and heat are what it fears.
 
 ## Attack Methods
 
 ### Bite
 
-The dragon's bite takes a single enemy within reach. The jaws crush and tear with the creature's full strength behind them, and the wound freezes as it is made, so the victim suffers the cold as well as the injury.
+The dragon bites with long, sharp teeth, and its bite freezes as well as tears: the flesh round the wound goes white and numb.
 
-### Claw Rake
+### Claw
 
-The dragon's claws extend and rake across one or more targets within reach, opening wounds that frostbite rapidly. A claw rake can catch several enemies standing close together.
+It rakes with hooked claws made for gripping ice, tearing armor and flesh and pinning what it seizes.
 
-### Tail Sweep
+### Tail
 
-The dragon's muscular tail whips in a broad arc, attempting to knock enemies down or hurl them backward. Anyone in the tail's path who cannot brace against it is thrown to the ground and battered.
+It sweeps its long tail to knock men down, onto the ice and off ledges.
 
-### Frost Breath
+### Breath
 
-The dragon exhales a spreading cloud of supercooled mist and crystalline shards that reaches fifteen feet. Those caught in it are seared by the cold, and those who cannot shake it off are slowed and left more vulnerable to the next blast. Unprotected targets can suffer frostbite.
+It breathes a spreading cloud of supercooled mist and ice crystals fifteen feet long. Those caught in it are seared by the cold, slowed and stiffened, and left open to the next attack.
 
 ## Special Abilities
 
-### Frost Breath
-
-The dragon's breath is a spreading blast of supercooled air laced with razor-sharp ice crystals. The cold is so intense it burns, and the mist obscures vision. A young ice dragon can breathe this way several times but must rest between breaths.
-
 ### Flight
 
-The dragon is a masterful flier, capable of hovering and performing acrobatic maneuvers despite its size. Its wings generate no sound despite their span.
+It flies strongly and rides the cold winds of the high country with ease, fighting in the air for as long as it likes.
 
 ### Armored Scales
 
-The dragon's scales are supernaturally hard, shedding conventional weapons and providing natural armor superior to plate mail. Magical weapons and intense heat are required to penetrate the hide.
+Its scales turn most blows; ordinary weapons rarely bite deep.
 
 ### Cold Aura
 
-The dragon's natural body temperature is so far below freezing that it radiates killing cold. Creatures within fifty feet of the dragon are harmed by the cold, and the harm grows the closer they stand and the longer they stay. The aura cannot be lifted without affecting the dragon itself.
+Within fifty feet the cold is lethal over time: a man's warmth drains in minutes and frostbite follows, the worse the closer and the longer.
+
+### Cold Immunity
+
+Cold does not harm it. Fire and heat hurt it more than anything else.
+
+### Unraveling Presence
+
+Its channeling floods the currents of magic round it. Near it, a mage's workings come apart: spells misfire, wards fail, and partly channeled power discharges wildly, often on the mage.
 
 ## Attributes
 

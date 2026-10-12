@@ -3,7 +3,7 @@ shortcode: margrush
 name: {full: Margrush, aliases: []}
 type: being
 subType: creature
-description: "A leathery-hided forest and swamp predator over 350 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
+description: "A leathery-hided forest and swamp predator about 300 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
 tags: [animal]
 data:
   packFolder: animals
@@ -246,52 +246,84 @@ sohl:
 
 ![[margrush|Margrush]]{float=top-left}
 
-The low growl reaches you before you see the creature—a sound that vibrates through bone and stone alike. From beneath the ferns and leaf litter, a broad, flattened head emerges, its eyes set high and keen, watching with predatory patience. The creature’s body is a mass of coiled muscle covered in thick, leathery skin bristling with fur, colored to match the forest floor so perfectly that you almost missed it until it moved. Its claws dig into the earth as it advances, and you realize with creeping dread that this is no ambush—it has known of your presence all along, and now it is simply deciding whether to strike.
+The black water is still, and the cypress knees stand out of it like the teeth of a comb. On the far side of the channel a low, dark shape lies along a mudbank, as long as a canoe, and you take it for a fallen log furred with moss until it breathes. Then the head comes up off the mud, broad and flat as a spade, with two small eyes on top of it, and the mouth opens just enough to show teeth. A heavy, rank, musky smell crosses the water. The animal does not get up. It watches the canoe go by, and the paddler in front of you stops talking.
 
 # Dossier {#dossier}
 
-The Margrush is a powerful terrestrial predator, measuring 7 to 8 feet in body length and weighing 350-450 pounds. Its body is covered in tough, leathery skin interspersed with patches of bristly fur colored from dark brown to nearly black, providing excellent camouflage in forest and swamp environments. The head is broad and flattened, and the powerful jaws are filled with serrated teeth designed for gripping and tearing flesh. Its eyes are positioned high on the skull, allowing it to observe surroundings while the body remains low to the ground.
+The Margrush is the great ambush predator of the swamp forests of [[place-tzumanotunrgn|Tz'uma No'tun]]: a low, heavy, short-legged hunter seven to eight feet long and about three hundred pounds, with a leathery, wrinkled hide patched with coarse dark fur, a broad flat head and jaws that crush bone. It lies up in the cypress swamps and the black-water marshes and waits by the water for deer, pigs, waterfowl, alligators and men. Nearly all that the K'ich'chik know of it comes from the scouts and border garrisons who face the Ch'aqun across the swamps, and it is one of the reasons those garrisons count the swamps as impassable.
 
 ## Presentation
 
-Margrushes display a low, ground-hugging profile with stocky, powerfully muscled legs ending in large clawed paws. The tail is long, thick, and used for balance and for turning. The fur coloration ranges from dark brown to black with occasional lighter mottling that aids camouflage. The face is somewhat flattened, with the eyes set to allow good lateral vision while remaining high. The ears are small and rounded, positioned at the sides of the head. The skin shows visible folds and wrinkles, particularly around the neck and shoulders, and is covered in scars from countless territorial disputes. The musk that surrounds them is distinctive and pungent.
+The margrush lies so low that its belly brushes the ground. Its legs are short and thick, its paws broad and clawed for gripping mud and roots, and its tail long and heavy, used as a rudder in the water. The hide is gray-brown and folded at the neck and shoulders like an old man's skin, and the coarse fur grows on it in dark, bristly patches that look like moss and dead leaves. The head is wide and flat, with small rounded ears, nostrils on top of the snout and eyes set high, so that the animal can lie in shallow water with only the top of its head showing. The teeth are serrated. Every old margrush is scarred across the face and shoulders from fights over ground. It smells strongly, and the smell carries on still air.
+
+## In the Land
+
+Margrushes live in the swamp country of southern and eastern Tz'uma No'tun, from the piedmont valleys where the first marshes appear down to the black-water expanses of **Ha' P'uqan** and the cypress and tupelo forests along the sluggish rivers. They want water to lie in, mud to bask on, and thick cover on dry ground to sleep in, and the swamps give them all three for hundreds of miles. Each margrush holds a stretch of channel and bank a few miles long, patrols it on a regular round, and fights any other margrush that comes into it. They do not go up into the hardwood hills of the north, and the salt marshes of the coast are too open for them. In the shared hunting grounds on the western border, toward [[place-hanalxilanrgn|Ha'nal Xi'lan]], they are met at the edge of every swamp.
 
 ## Key Behaviors
 
-Margrushes are highly territorial, actively and aggressively defending a large domain against intruders. They mark territory with scent markings, claw scratches on trees, and physical rearrangement of forest floor debris. They are primarily nocturnal, taking advantage of their excellent night vision to hunt during darkness and resting in burrows or dense thickets during the day. Despite their bulk, they move with surprising stealth and can remain motionless for hours, waiting for prey. They have excellent senses of smell and hearing, allowing them to detect prey from considerable distances. Their metabolism is elevated and they require frequent, substantial meals to maintain their condition.
+A margrush hunts at night and at dusk and lies up by day in a thicket or a hollow under roots. It chooses a place where prey must come—a ford, a drinking place, the end of a game trail at the water—and lies there half-submerged or flat in the mud, motionless, for hours. When something comes within a few strides it lunges, seizes the throat or the belly, and shakes. It drags what it kills into cover and eats over several days, and it does not let anything near the carcass. It marks the edges of its ground by scoring tree trunks with its claws, by spraying musk, and by scraping leaves and mud into heaps. It keeps to its patrol routes, and an animal that knows where a margrush walks can avoid it.
+
+## What the Border Garrisons Do
+
+The K'ich'chik scouts who watch the swamp edge read margrush sign before anything else, because a channel with a margrush in it is a channel the scouts do not wade, and the path a margrush patrols is a path the scouts leave to it. They cross water only by daylight, in canoes, never by wading, and they do not camp within sight of a mudbank. A margrush killed on the border is a prize: its hide makes shields and sandals that do not rot in the wet, and the garrisons hold that eating its liver gives a man the animal's strength and patience, though no physician has ever found that it does anything. The few survivors of failed expeditions into Ch'aqun country speak of finding margrush skulls set up on posts at the mouths of channels. Whether these mark Ch'aqun ground, warn off strangers or honor the animal nobody outside the swamps knows.
+
+## Signs
+
+- Deep claw-scores on cypress and tupelo trunks at about knee height, in sets of four, renewed often.
+- A heavy musky smell over still water, strongest at dusk.
+- Heaps of scraped leaves and mud at intervals along a bank, each one sprayed and rank.
+- A broad, flat-bellied slide on a mudbank, with splayed clawed prints on either side.
+- A deer or pig carcass dragged into a thicket and half eaten, with crushed bones and no other scavenger near it.
 
 ## Combat Strategy
 
-Margrushes are ambush predators par excellence. They position themselves along known animal trails or near water sources and remain motionless, using their camouflage and low profile to become nearly invisible. When prey comes within striking distance, they explode into motion with terrifying speed, attempting to close distance and deliver a devastating bite to the throat or belly. If they successfully land a bite, they shake their victim to inflict additional damage and tighten their grip. Against multiple opponents or when facing something that resists the initial attack, they rely on their strength and ferocity, using their claws and jaws to make the fight as brutal as possible.
+A margrush strikes from ambush or not at all if it can help it. It goes for the throat, the belly or a leg, clamps on, and shakes, trying to bring its victim down and drag it into the water. If the first bite does not end the fight it uses its claws, raking with the forefeet while it holds with the jaws. Against several men it fights furiously and does not give ground near its den or its kill, and a margrush defending its ground goes on fighting with wounds that would put another animal to flight. Away from its own ground and pressed, it slides into the nearest water and disappears.
 
 ## Attack Methods
 
 ### Powerful Bite
 
-The Margrush lunges with jaws agape, aiming for the throat, belly, or limbs, and clamps down with incredible force capable of crushing bone; once the bite is secured, the creature shakes violently to cause additional damage.
+The margrush lunges with its jaws wide and closes them on the throat, the belly or a limb with force enough to crack bone. Once it has hold it shakes its whole head, tearing the wound wider and pulling its victim off his feet.
 
 ### Claw Rake
 
-The Margrush uses its powerful front legs to slash with claws, creating deep lacerations and inflicting serious bleeding injuries; these attacks can also knock smaller opponents down or tear weapons from their hands.
+The margrush slashes with a forefoot, raking its claws down and across. The claws open long, deep cuts that bleed heavily, and a heavy rake can knock a man down or wrench a weapon out of his hand.
 
 ## Special Abilities
 
 ### Ambush Master
 
-The Margrush excels at remaining undetected in natural terrain, and a strike from surprise lands hard and sure; it can remain motionless for hours without detection.
+The margrush lies still for hours without being noticed, half-sunk in water or flat in leaf litter. A strike from hiding lands hard and nearly always lands.
 
 ### Powerful Jaws
 
-The Margrush’s bite delivers crushing force capable of breaking bone, shattering light armor, and pinning an opponent in place; a victim once bitten must tear free by main strength or be shaken and torn for as long as the jaws hold.
+A bitten man is held. He must tear free by main strength or be shaken and torn for as long as the jaws stay shut, and the jaws break bone and crush light armor.
 
 ### Excellent Night Vision
 
-The Margrush hunts effectively in complete darkness and sees and fights better than its prey in low light or at night, making it particularly dangerous after nightfall.
+The margrush sees well in starlight and under the swamp canopy at night, and it hunts and fights better in the dark than its prey.
 
 ### Territorial Fury
 
-When defending its territory or den, the Margrush strikes harder and more surely, and it will continue fighting even when severely wounded, using its territorial fury to overcome pain and damage.
+On its own ground, at its den or over its kill, the margrush strikes harder and more surely and keeps fighting through pain and wounds.
 
-## Additional Information
+## Attributes
 
-Margrushes are solitary creatures and establish territories measured in square miles. Once embedded in a territory, they rarely venture far beyond its boundaries, following predictable patrol routes. This can be exploited by savvy adventurers to avoid confrontation or to predict where the creature will be. The Margrush’s thick hide is prized for leather goods and provides excellent protection. The liver of a Margrush is believed by some cultures to grant strength and stamina, though these properties are likely superstition or at best a matter of belief.
+- **Strength:** 14-19 (1d6+13)
+
+- **Endurance:** 15-20 (1d6+14)
+
+- **Dexterity:** 8-11 (1d4+7)
+
+- **Agility:** 8-13 (1d6+7)
+
+- **Perception:** 12-17 (1d6+11)
+
+- **Aura:** 8-13 (1d6+7)
+
+- **Will:** 13-18 (1d6+12)
+
+- **Reasoning:** 6-9 (1d4+5)
+
+- **Creativity:** 4-7 (1d4+3)

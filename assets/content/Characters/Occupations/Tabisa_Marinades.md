@@ -400,8 +400,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Tàbîsa is a skilled huscarl who has fought alongside her comrades for years. Serving Lady Nìmaris, she is known for her bravery and determination in battle. Tàbîsa often leads scouting missions to ensure the safety of her lord's territory. While she is respected among her peers, she often faces challenges as a female warrior in a male-dominated field.
 
-Now at 38 years of age, Tàbîsa Mârinadês has established herself as a known figure among the huscarls of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

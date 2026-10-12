@@ -445,55 +445,71 @@ sohl:
 
 ![[mrlrkr|Mirelurker]]{float=top-left}
 
-The water ahead shivers without cause, and then you see it—or rather, you see the absence of a thing, a void in the shape of something vast moving just beneath the surface. The reek of stagnant water and decaying vegetation floods your senses. A curved carapace breaks the murk, crusted with algae and slime, and then the water erupts as a limb strikes out—chitinous, twisted, impossibly powerful. The sound is wet and horrible, like tearing leather mixed with the click and scrape of insect armor.
+The inlet is brown and brackish and full of reeds, and the punt-pole goes down into soft mud before it finds bottom. Twenty yards ahead a log lies half under the water across the channel, gray-brown, crusted with slime and weed. As the punt comes up to it, the log opens. Two long arms unfold from it, jointed and heavy, ending in thick, ridged pincers, and four shorter limbs spread out beside them, clawed. A head comes up out of the mud, all jaw, plated like a crab's back. The water round it begins to churn and darken, thick as porridge, and the smell of rotting weed comes up off it in a wave.
 
 # Dossier {#dossier}
 
-Mirelurkers are apex predators of the deep marshes and brackish waters, evolved from some unholy fusion of crustacean and amphibian flesh. They haunt stagnant pools, murky rivers, and swamp channels where they can remain almost invisible amid the muck and reeds. Ambush is their method and their art—a Mirelurker can wait motionless for hours, indistinguishable from a submerged log or stone, before striking with brutal suddenness when prey ventures too close. Once an attack is underway, the creature's strength and resistance to damage make it a dangerous opponent, though it abhors dryness and fire with visceral intensity.
+The Mirelurker is a dreadspawn of the brackish marshes: eight to ten feet long and three hundred pounds, armored like a crab and built like nothing natural, with six limbs, a plated head that is mostly jaw, and two great arms that seize and drag. It lies in the mud of a channel, still as a sunken log, for hours, and when something comes within reach it erupts, grabs and pulls it under, churning the water to a choking slurry round it. It holds a stretch of salt-marsh and inlet on the coast of [[place-cilfor|Cilfor]], Élavendre's cold northern shore on [[place-cilforbay|Cilfor Bay]], and the coast that already watches the sea for raiders watches its own inlets for this. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Mirelurker is roughly humanoid in basic structure but alien in every detail—measuring 8 to 10 feet in length, with a grotesquely bulky frame. Its body is encased in a chitinous exoskeleton of mottled gray-brown, spotted with patches of slime and algae that aid its camouflage. Six limbs project from its torso: four shorter ones ending in clusters of sharp claws, and two longer, more muscular appendages that are its primary striking weapons. Its head is a dome of armor with bulging, lidless eyes set wide apart, and a cavernous mouth lined with chitinous plates rather than teeth. The creature moves with an unsettling, side-to-side gait when on land but propels itself through water with serpentine grace. It emits a constant, barely audible clicking and chittering from deep within its shell.
+The mirelurker's body is a squat, heavy torso encased in mottled gray-brown chitin, patched with slime and green weed that grows on it. From it come six limbs: four shorter legs ending in clusters of sharp claws, on which it walks and swims, and two long, heavy arms ending in ridged pincers, which it uses to grab and crush. The head is low and broad and plated, with small dark eyes on short stalks and a wide jaw lined with plate-edged crushers. It breathes water and air alike. Out of water it moves slowly, heavily, with a clatter; in water and mud it is quick and silent. It smells of rotting weed and salt mud.
+
+## In the Land
+
+Cilfor's shore is shingle and low headland, with boggy, thickly wooded country behind it, and between the headlands lie brackish inlets, salt-marshes and reed-choked channels where the streams meet the sea. The mirelurker holds one of these, a long inlet and the marsh round it between two fishing villages, and it moves through the channels with the tide. It hunts fish, seals, waterfowl, the sheep that graze the salt-marsh, and anyone who wades or punts its channels. It defends its inlet against seals and other large predators, and it never goes far up the streams into fresh water or out onto the open shingle.
 
 ## Key Behaviors
 
-Mirelurkers are solitary, territorial creatures that claim a stretch of swamp or marsh as their hunting grounds and defend it fiercely from other large predators. They are primarily nocturnal, becoming more active as light fades, though they will hunt during the day if hungry. Their diet consists of fish, waterfowl, and any medium-to-large creature foolish enough to wade into their territory. They are sluggish out of water and rarely venture onto dry land except to reach adjacent bodies of water; a Mirelurker stranded in a drought becomes desperately aggressive. Breeding occurs during the spring rains; a gravid female lays hundreds of leathery eggs in a carefully constructed midden in the deepest part of her territory, tending them with fierce protectiveness until they hatch.
+A mirelurker hunts from ambush, mostly by night, lying in the mud with only the top of its head showing, motionless for hours. It knows every pool and channel in its inlet, and every hidden stone. When prey comes near, it erupts, seizes with its pincers, drags its victim into deep water and stirs up the mud to blind and choke it. It herds prey into deep water and away from the bank where it can. In dry weather and at the lowest tides it lies in the deepest pool and becomes sluggish, and a long drought or a hard freeze weakens it badly.
+
+## What the Coast People Do
+
+Cilfor's villages are already set back from the water for fear of raiders, and the two villages either side of the mirelurker's inlet have drawn their boats up out of it and launch from the open shingle instead, which is harder work. Sheep are not grazed on that marsh. Nobody wades its channels, and a fisherman who must go into the inlet goes in daylight, at high water, in a boat, with a lit brazier aboard, because fire hurts the creature and it avoids the heat. The beacon watch on the headland above the inlet, which is there for raiders, has a second duty: to call out if the log in the channel is not where it was yesterday. Varokh raiders who land in that inlet are not warned. The villages count it a good night when a raiding boat comes in there.
+
+## Signs
+
+- A sunken "log" in a channel that is not in the same place two days running.
+- Water that clouds suddenly to a thick brown slurry on a still day, with no wind or current to stir it.
+- Seal carcasses on the shingle with crushed ribs and great pincer-marks, half eaten.
+- Broad, six-limbed tracks in the salt mud at low tide, with deep claw-prints and two dragging furrows.
+- A strong smell of rotting weed over an inlet, and no birds feeding in it.
 
 ## Combat Strategy
 
-A Mirelurker initiates combat by erupting from concealment with overwhelming physical force, attempting to grapple or crush prey before the target can react or flee. Once engaged, it relies on its superior strength to dominate, using both primary limbs in coordinated strikes and snapping bites. The creature is cunning enough to exploit terrain—herding prey into deeper water where its advantage is magnified, or separating weakened targets from the group. If an opponent deals sustained fire damage or the creature finds itself dying, it will attempt to retreat into water deep enough to escape pursuit, though a truly cornered Mirelurker fights with vicious desperation.
+The mirelurker erupts from the mud and tries to seize and crush its victim before he can react, and then to drag him into deep water. Once it has hold, it fights with everything: pincers, claws and jaws together, while it churns the water so that no one can see to help. It uses the channels to separate a party and pulls the one it has seized away from the others. If a fight goes against it, it lets go and sinks into the mud and is gone along the channel. Fire and dry ground are what it fears.
 
 ## Attack Methods
 
 ### Crushing Jaws
 
-The creature lunges with its cavernous maw, attempting to bite prey in half or crush armor and bone with the mechanical force of its chitinous plates. Targets caught in these jaws are pierced and crushed at once, with force that can snap limbs or shatter ribs.
+The mirelurker lunges and bites with its plated jaws, which pierce and crush at once and can snap a limb or break ribs through armor.
 
 ### Claw Rake
 
-Multiple limbs slash and tear simultaneously, seeking to open wounds and drag prey off-balance. The creature's rapid strikes make it nearly impossible for opponents to mount an effective defense.
+Its clawed legs slash together at whatever is close, opening wounds and pulling its victim off balance, faster than a man can defend against all of them.
 
 ### Mire Grasp
 
-The Mirelurker churns mud and water into a suffocating slurry, attempting to blind and disorient prey while dragging them deeper into the murk. Those caught struggle to breathe and see, and are easy marks for anything striking at them.
+The mirelurker seizes with its great pincers and drags its victim down into the mud and water, churning them into a choking slurry. Held, the victim cannot breathe or see, and is crushed and pulled deeper.
 
 ## Special Abilities
 
 ### Amphibious Adaptation
 
-The Mirelurker breathes equally well in water and air and can remain submerged indefinitely. Its exoskeleton grants it resistance to slashing and piercing attacks—blade strikes glance off its armor with minimal effect.
+It breathes water and air equally well and can stay under indefinitely. Its shell turns blades: cuts and thrusts glance off with little effect.
 
 ### Swamp Camouflage
 
-In murky water or heavy vegetation, the creature is nearly invisible, blending so thoroughly with its environment that only careful observation or magical sensing can reveal its presence. In clear water or open terrain, this advantage diminishes sharply.
+In murky water or thick reeds it is nearly invisible. In clear water or on open ground the advantage is gone.
 
 ### Terrain Mastery
 
-The Mirelurker moves through swamp and water with perfect ease, treating such terrain as easy ground while enemies flounder and slip. Its knowledge of every pool, every current, and every submerged stone is absolute.
+It moves through mud, reeds and water as easily as a man on a road, while its enemies flounder.
 
-## Additional Information
+### Fire and Drought
 
-Fire remains the Mirelurker's greatest weakness—sustained heat can crack its exoskeleton, and flames pain it badly. Extended drought is equally devastating; removed from water, a Mirelurker weakens over days as its body dries. Its shell can be harvested after death and fashioned into durable armor or shields, though the process of preservation is foul and time-consuming. Some wilderness hunters prize Mirelurker claws for weapon hafts, as they retain a subtle sharpness even after death. The creature's internal organs contain a bitter, poisonous fluid that can be extracted and used in the creation of toxic compounds.
+Fire cracks its shell and pains it badly. Kept out of water, it weakens over days as its body dries.
 
 ## Attributes
 
@@ -508,3 +524,9 @@ Fire remains the Mirelurker's greatest weakness—sustained heat can crack its e
 - **Perception:** 7-10 (1d4+6)
 
 - **Aura:** 6-9 (1d4+5)
+
+- **Will:** 11-16 (1d6+10)
+
+- **Reasoning:** 4-7 (1d4+3)
+
+- **Creativity:** 3-6 (1d4+2)

@@ -401,8 +401,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Pália has served as a housemaid for several prominent families over her life. She now works for a rural nobleman, managing the daily upkeep of his estate. She is diligent and hardworking, and often takes on extra tasks to keep the household running smoothly. She is known for her no-nonsense attitude and practical skills, though some see her as overly stern.
 
-Now at 46 years of age, she is a known figure among the domestic servants of Élavendre.
-
 ## Psyche
 
 ### Personality

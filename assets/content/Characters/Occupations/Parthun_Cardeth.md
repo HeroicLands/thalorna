@@ -397,8 +397,6 @@ Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élaven
 
 Párthun is an actor and playwright who has spent much of his life on the stage. He is known for his powerful voice and his ability to portray complex characters. Párthun's writing often draws from his own experiences, and his plays are filled with rich dialogue and intricate plots. However, he struggles with perfectionism, often rewriting scenes endlessly before he's satisfied.
 
-Now at 41 years of age, Párthun Cárdeth has established himself as a known figure among the thespians of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -404,8 +404,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Nulthynda grew up in a family of laborers, working the fields from a young age. She is strong and capable, often taking on physically demanding tasks such as lifting and carrying heavy loads. Nulthynda is known for her reliability and work ethic, making her a valued member of any crew. Despite the hard labor, she finds satisfaction in her work and enjoys the camaraderie with her fellow workers.
 
-Now at 32 years of age, Nulthynda Eldskari has established herself as a known figure among the laborer (farm)s of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

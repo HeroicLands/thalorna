@@ -3,7 +3,7 @@ shortcode: octowolf
 name: {full: Octowolf, aliases: []}
 type: being
 subType: creature
-description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
+description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and blighted waters where land and water meet."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -252,55 +252,71 @@ sohl:
 
 ![[octowolf|Octowolf]]{float=top-left}
 
-Something vast disturbs the water ahead—a shape that might be a log or might be shadow given form. Then a massive wolf's head breaks the surface, water streaming from jaws of terrible size and purpose, its eyes burning with predatory hunger. As it rises further from the murk, the horror deepens: behind the wolf's snarling face, eight muscular tentacles unfurl like the legs of some blasphemous spider, each lined with dark, grasping suckers and moving with eerie, independent grace. The creature's black fur is slicked with an oily sheen, and the water around it seems to darken and thicken with its mere presence. You hear the sound of suckers releasing from stone—wet, popping sounds like bones breaking—as it advances.
+The wreck lies on its side on the sandbar, its ribs out of the water at low tide, black and weed-hung, the last of an imperial squadron that came into these channels and never went out. Something is lying in the shadow of the hull. It lifts its head: a wolf, huge and black, its fur slick and wet as oil, its jaws long enough to take a man's head. It stands up on two great forelegs and keeps standing, because behind the shoulders there are no hind legs, and the black fur gives way to gray-green skin and to arms, eight of them, thick and sucker-lined and curling, which carry it forward over the sand and down into the channel toward your boat, faster than a running dog.
 
 # Dossier {#dossier}
 
-The Octowolf is an unnatural fusion of apex predators from incompatible environments—a creature that defies all natural law, as though some mad sorcerer reached into the minds of both wolf and octopus and melded them into singular, abominable flesh. These creatures haunt regions where land and water meet: coastal marshes, river deltas, deep lakes, and especially places where magical corruption has warped the natural order. An Octowolf is a patient hunter that exploits its hybrid nature ruthlessly, equally comfortable pursuing prey in water or on land, and capable of rapid transitions between the two. Solitary and territorial, a single Octowolf can deplete an entire region of game animals and livestock before moving on to new hunting grounds.
+The Octowolf is a dreadspawn that joins the fore-parts of a great wolf to the hind-parts of an octopus: twelve to sixteen feet long and three hundred pounds, with a wolf's head, jaws and forelegs and eight long, sucker-lined arms behind, which carry it on land and drive it through water. It hunts where land and water meet, and it is clever, patient and cruel. One holds the [[place-tamzirshoals|Tamzîr Shoals]] in the Haradian archipelago, the maze of sandbars, rocks and hard currents where a makeshift Haradian fleet destroyed a Vylarian squadron and won Harad its independence, and it lairs in the wrecks of that squadron. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-An Octowolf measures roughly 12 to 16 feet in total length, with the wolf-portion constituting about half its frame. Its front end resembles a massive, dire wolf—muscular shoulders, powerful forelimbs ending in ripping claws, and a head of terrible size with jaws large enough to swallow a human whole. Its fur is midnight black, slick and oil-like, seeming to swallow light, and it perpetually appears wet even when dry. Its eyes are an unsettling silver-gray, ringed with what appears to be calcified predator-scar tissue. Behind and below the wolf-body, eight tentacles of extraordinary musculature erupt, each as thick as a man's torso and covered in dark suckers that can pierce armor. The creature's skin where wolf-body transitions to tentacles is a twisted, scarred mass of tissue that never fully healed. The smell it carries is of deep water, predatory musk, and the ozone-scent of deep underwater caves.
+The octowolf's front half is a wolf on a monstrous scale: heavy shoulders, two powerful forelegs with ripping claws, and a great head with jaws that can close over a man's head and shoulders. Its fur is black, slick and oily, and it does not shine even wet. Behind the shoulders the fur gives way to smooth gray-green skin that changes color, and to eight thick, muscular arms, each as long as a man, lined with suckers ringed with small hooks. On land it moves in a fast, pouring lope, pulling with the forelegs and pushing with the arms. In water it swims like an octopus, fast and jetting. Its eyes are yellow and very intelligent. It smells of salt, weed and wet dog.
+
+## In the Land
+
+The Tamzîr Shoals are full of wrecks: the imperial warships driven onto the sand in the battle still lie there, and the channels have taken many ships since. The octowolf lairs in the hulks, using them as dens and as blinds, and it hunts the shoals and their channels for miles: seals, turtles, sharks, fish, seabirds on the sandbars, and the crews of small boats. It moves from wreck to wreck with the tides and comes ashore on the sandbars and the low islands at night. It wants warm, shallow water near deep channels. It does not go out into the open sea.
 
 ## Key Behaviors
 
-Octowolves are ambush predators that haunt the water-to-land interface, using water as their primary domain but willing to pursue prey considerable distances inland if the hunting is good. They are intelligent and creative, preferring to study their prey and set tactical advantages rather than attacking immediately. A single Octowolf can claim a territory spanning many miles and will patrol it regularly, familiarizing itself with every stone, every shallow, every place a prey creature might escape. They are cannibalistic and will consume dead packmates without hesitation, and they seem to regard smaller dreadspawn as either threats or food depending on context. An Octowolf breeds slowly; a gravid female becomes impossibly aggressive and will attack anything that approaches her chosen den.
+An octowolf hunts by study and ambush. It watches its prey from a wreck or from under the water, learns its habits, and sets up its attack: it waits under a sandbar where a boat must ground, or in a hull a salvager will climb into. It attacks from the water with its arms first, seizing and dragging, then closes with its jaws. It is intelligent and inventive: it has been seen to drag a boat onto the sand and wait for its crew to wade. It pursues prey a long way inland if the hunting is good, and it returns to the water to eat. Two octowolves that meet fight.
+
+## What the Pilots Do
+
+Every pilot on the coast gives a newcomer the same first warning about the Tamzîr Shoals, and the pilots who work them add a second: do not anchor in the lee of a wreck, and do not go aboard one. Fishermen of the islands net the shoals in daylight only, in pairs of boats, and carry fire-pots. Salvagers who dive the wrecks for imperial bronze and the squadron's treasure pay the [[affiliation-corsairleg|Corsair League]] for a guard boat and still lose men. The veterans' children, who inherited the grievance with the story, say the shoals keep the battle's wages for themselves. The Haradian cities have offered a bounty on the creature, and the Corsair League has not tried hard to collect it, because the octowolf keeps strangers out of channels the League would rather nobody else used.
+
+## Signs
+
+- Seal carcasses on the sandbars with the heads crushed and the bodies marked with rings of small hooked punctures.
+- Broad, smeared tracks across the sand from the water to a wreck: two large clawed prints and a wide, wet drag.
+- A wreck that the seabirds will not perch on.
+- Nets torn from below and pulled down, with the floats sucked under.
+- A boat found drifting in the channels with its gunwales scored by claws.
 
 ## Combat Strategy
 
-An Octowolf typically initiates combat from water or dense vegetation, using ranged tentacle attacks and ambush positioning to whittle down opponents before committing to melee. Its tentacles allow it to attack multiple targets simultaneously or focus all force on a single victim. Once engaged, it uses its superior dexterity and reach to control the battle space, using tentacles to grapple and immobilize while its jaws deliver devastating bite attacks. The creature is intelligent enough to recognize overwhelming force and will retreat into water where it maintains significant tactical advantage. A cornered or protecting young Octowolf fights with terrifying ferocity.
+An octowolf opens from the water or from cover, reaching with its arms to seize and drag one or several victims at once before it shows itself. Once it has someone, it uses its arms to hold, to strike and to keep the others off, and closes its jaws on the one it wants. It controls the ground: it fights at the water's edge where it can drag victims under, and in the channels where boats ground. It retreats into deep water when it is hurt, and it comes back. Fire and cold are what it fears.
 
 ## Attack Methods
 
 ### Rending Bite
 
-The Octowolf's massive jaws snap down with bone-crushing force, capable of severing limbs or tearing through armor. A bite that lands does catastrophic damage and may leave the victim unable to act.
+The great jaws close with bone-crushing force on a limb, a shoulder or a head. A bite that lands can take off an arm or break a man's back.
 
 ### Tentacle Constriction
 
-One or more of the creature's tentacles wraps around a victim with relentless pressure, constricting their breath and crushing bones. A victim caught in a tentacle cannot move and is crushed harder with every moment.
-
-### Tentacle Rake
-
-Multiple tentacles lash out in rapid succession, each one capable of piercing or slashing with horrifying speed. Against multiple opponents, this allows the creature to strike several targets in quick succession.
+One or several arms wrap a victim and squeeze, and the hooked suckers hold. A man caught cannot move freely, cannot breathe easily, and is crushed harder the longer he is held, and the arms drag him toward the water and the jaws.
 
 ## Special Abilities
 
+### Tentacle Rake
+
+The arms lash out one after another, the hooked suckers tearing skin, so that it strikes several men in quick succession.
+
 ### Amphibious Supremacy
 
-The Octowolf moves with equal ease in water and on land. In water it is faster, can approach unseen, and has escape routes land-bound creatures cannot follow.
+It moves well on land and better in water, where it is faster, approaches unseen, and escapes where nothing that walks can follow.
 
 ### Tentacle Precision
 
-The creature's eight tentacles move with independent, highly precise coordination, allowing it to grapple multiple targets or perform complex actions simultaneously. The tentacles can extend surprising distances and handle objects with great dexterity.
+Its eight arms work independently and precisely, holding several men at once, reaching surprising distances, opening hatches, and handling objects with skill.
 
 ### Predatory Intellect
 
-The Octowolf is intelligent, learning prey patterns, setting traps, and anticipating evasive action. It can coordinate with other Octowolves if they happen to meet, though these encounters often end in combat between them.
+It learns, sets traps, and anticipates where its prey will run.
 
-## Additional Information
+### Fire and Cold
 
-Fire and extreme cold are the Octowolf's primary vulnerabilities—fire damages its flesh directly and overwhelms its sensory organs, while sustained cold immobilizes its tentacles and slows its reflexes dramatically. Deep, warm water is where the Octowolf is most dangerous; in cold waters or dry conditions, it is far less dangerous. The creature's tentacles, if severed, will eventually regenerate over weeks or months, but significant tissue damage takes years to fully heal. Harvesting an Octowolf after death is dangerous—the creature's tentacle reflexes persist for hours, and the venom glands in its suckers remain active even in death. The fur can be crafted into water-resistant clothing of fine quality, and the teeth make good weapons or trophies. Some hunters have made it their life's work to track and kill Octowolves, building elaborate traps or calling in aid from multiple communities; these hunts are often as deadly for the hunters as for the prey.
+Fire burns its skin and overwhelms its senses. Cold water stiffens its arms and slows it badly, and it keeps to warm shallows.
 
 ## Attributes
 

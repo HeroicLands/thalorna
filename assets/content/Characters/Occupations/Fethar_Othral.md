@@ -401,8 +401,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Féthar is a seasoned potter known for his expertise in creating sturdy stoneware. He has spent years perfecting his techniques and often teaches apprentices in his workshop. Féthar values the practical aspects of pottery and believes in producing items that can withstand daily use. His reputation for quality has earned him a loyal customer base, and he often collaborates with local artisans to create unique pieces.
 
-Now at 40 years of age, Féthar Óthral has established himself as a known figure among the potters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

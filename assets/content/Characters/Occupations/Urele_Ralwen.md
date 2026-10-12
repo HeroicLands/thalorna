@@ -402,8 +402,6 @@ Born in the [[place-provenzrgn|Provènzia]] region to a noble family of Provenzi
 
 Úrelè is an up-and-coming perfumer who has gained recognition for her floral and fresh scents. Working in her small but charming shop, she focuses on creating natural and eco-friendly perfumes. Úrelè is passionate about sustainability and often collaborates with local farmers to source her ingredients. Her warm personality and commitment to her craft have made her a beloved figure in the community.
 
-Now at 28 years of age, Úrelè Rálwen has established herself as a known figure among the perfumers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

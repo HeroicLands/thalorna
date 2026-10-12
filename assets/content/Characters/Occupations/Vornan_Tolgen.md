@@ -401,8 +401,6 @@ Vôrnan Tólgen is a self-taught philosopher of Valcèrise, the cherry town of t
 
 Vôrnan was a carter's son and a carter, hauling garrison supply up the road to the passes, and he taught himself to read from a book of Helionite dialogues that came up in a load and was never claimed. Twenty years of buying, borrowing and copying followed, until he knew the philosophers of Aurèliane's academies better than most of their students. He gave up the cart at forty. He lives on very little and talks for his keep, in the taverns of Valcèrise, to whoever will sit, on justice and on whether a good life can be built on a trade that needs the war to go on. Valcèrise sells the frontier its boots and carts and nobody there wants a lasting peace, and Vôrnan asks, plainly and repeatedly, what that makes them.
 
-He is a known figure among the scholars of Provènzia.
-
 ## Psyche
 
 ### Personality

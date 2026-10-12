@@ -396,8 +396,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Ánira grew up on the streets and found solace in music. She learned to play the lute from a traveling bard, and now performs in inns and taverns across the city. Her music is known for its warmth and beauty, and she has a talent for improvising melodies that suit the mood of the crowd. While popular among common folk, she aspires to perform for nobility.
 
-Now at 26 years of age, Ánira Róseneth has established herself as a known figure among the musician (lute)s of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

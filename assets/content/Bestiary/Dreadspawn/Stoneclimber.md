@@ -247,59 +247,75 @@ sohl:
 
 ![[stnclmbr|Stoneclimber]]{float=top-left}
 
-The rock face moves before you see it—a ripple in the stone that shouldn't exist. Then the creature simply peels away from the mountainside as though it was never part of it, and you see it fully: a predator wrought from saurian muscle and armor, its scales the exact color and texture of granite, studded with quartz and feldspar. Its claws are hooks designed for stone, and it moves up a near-vertical cliff face as effortlessly as a spider crawling across a wall. Its eyes burn with predatory intelligence and shine like rubies caught in candlelight. You hear nothing as it moves—no scuff of claw, no dislodged stone—just the soft scrape of scale against rock and the dry clicking of its breath. Then it is gone, vanished back into the stone, and you cannot tell if it is above you, behind you, or waiting in an overhang to strike when you pass.
+The gorge is so narrow and so deep that the sky is a strip of blue far overhead, and the walls are rust-red and gray and glittering with flecks of mica. The ore-mule in front of you stops and will not go on. Halfway up the wall above the path, a piece of the rock face has a different shape from the rest: long, low, heavy, studded with crystals that catch the sun exactly as the wall does. It is clinging upside down under an overhang. As you look at it, its head turns, slowly, and it walks down the wall headfirst toward the path, its claws hooking into cracks you cannot see, as easily as a lizard on a garden wall, and it is as long as the mule.
 
 # Dossier {#dossier}
 
-Stoneclimbers are apex predators of rocky highlands and mountain ranges, creatures evolved to hunt in three-dimensional terrain where most prey is clumsy and slow. A Stoneclimber is patient, cunning, and perfectly adapted to its environment—it reads stone like a fish reads water, understanding every surface, every crack, every angle of approach. These creatures are territorial and will defend their climbing grounds fiercely from other predators, but they show a peculiar indifference to humanoid settlements, attacking humans only when directly threatened or when humans blunder into a kill-zone. An ancient Stoneclimber may have claimed a range of a hundred miles or more of mountainous terrain, and it knows every approach, every hiding place, and every escape route.
+The Stoneclimber is a dreadspawn shaped like a great, low, thick-bodied lizard, twelve to sixteen feet long and about two hundred pounds, scaled like the rock it lives on and studded with crystal, which climbs sheer faces and overhangs as if they were level ground and hunts from above. It is patient, cunning and solitary, and it knows every crack and ledge of its ground. It holds a stretch of the [[place-slvrgorges|Silver Gorges]], the deep, narrow valleys on the Vedyari flank of the Eastern Reach, worked for lapis and silver by hereditary smithing clans, and it takes their mules and, now and then, their men. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Stoneclimber measures roughly 12 to 16 feet in length, with a low, powerful, saurian frame perfectly suited to steep, broken ground. Its body is covered in overlapping scales of gray, brown, or rust-colored hue, each one textured like natural stone and often studded with quartz crystals, mica, or feldspar that makes the creature shimmer when light catches it properly. Its four limbs are stocky and muscular, tipped with claws that are less like weapons and more like specialized climbing equipment—curved, rough, and designed to grip stone with supernatural adhesion. Its head is broad and flattened, with eyes that glow a deep amber or ruby red, and a mouth filled with teeth of surprising sharpness. Its hide is thick enough that scales are clearly visible, and it often bears the scars of territorial conflicts with its own kind. When it moves, it makes almost no sound; its passages can only be tracked by disturbed dust, displaced gravel, or occasionally a claw-mark in stone too hard for normal climbing tools.
+The stoneclimber is long and low, with a broad, flat, powerful body, short thick legs set wide, and long hooked claws that grip rock like grappling irons. Its scales are gray, brown and rust-red, each one rough and textured like stone, and many of them are set with flecks of quartz, mica and feldspar, so that it glitters in the sun exactly as the rock does. Its tail is long and heavy. The head is broad and blunt, with strong jaws and small, deep-set eyes. It moves slowly and deliberately on rock, placing each foot, and very fast when it strikes. It leaves faint scratches and a musky smear along the routes it uses.
+
+## In the Land
+
+The Silver Gorges are steep, narrow valleys carrying lapis, silver and a little tin, and the road up them is also the road to [[place-tamradvara|Tāmradvāra]], the copper-door to the Khazryn. The stoneclimber holds a few miles of one gorge above the workings, from the river up to the rim, and patrols its walls along routes it marks with scratches and scent. It hunts the wild goats and sheep of the gorge walls, the eagles and vultures on their ledges, and the mules and men on the road below, and it lies up in a crevice high on a sunlit face. It does not come out onto the open uplands above the rim, where there is nothing to climb.
 
 ## Key Behaviors
 
-A Stoneclimber is a territorial creature that claims a stretch of mountainous terrain and patrols it regularly, marking routes with subtle scratches and glandular secretions. It is primarily solitary, though occasionally two Stoneclimbers will establish neighboring territories and tolerate each other's presence if neither encroaches on the other's prime hunting grounds. The creature is active both day and night but seems to hunt more aggressively during twilight hours when prey is transitioning between activity levels. A Stoneclimber is an opportunistic hunter but also a tactical thinker—it will set ambushes at narrow passes or climbing routes where prey has limited options for escape or evasion.
+A stoneclimber spends most of its time still, clinging to a wall above a path or a ledge, waiting for something to pass beneath. It strikes from above and behind, dropping or lunging onto its prey and dragging it off its feet, and it uses the ground: it drives prey toward drops and loose rock and knocks it off ledges. It knows the location of every escape route and hiding place within miles. It is solitary, though it tolerates a neighbor that keeps to its own stretch of wall. It survives falls, cold and heat that would kill anything else, and its wounds close slowly but surely.
+
+## What the Smithing Clans Do
+
+The hereditary smithing clans who hold the workings, by a right they say is older than the kingdom's charter, run their own toll-gate on the gorge road, and the clans' gate-keepers now also tell every caravan where the stoneclimber was last seen. Ore-mules on that stretch go in strings of twenty with a man on the slope above them watching the walls. The clans have tried to kill it with crossbows and failed, and with fire, which drove it off its stretch for a season; it came back. The clans' forges, the best in the highlands, take commissions no temple would put its name to, and they have quietly made one for themselves: a long-hafted fire-lance, a pole with a pot of burning oil on the end, kept at the gate. The crown's customs-house downstream has not been told about the stoneclimber, because the clans have been careful for four generations not to tell the crown anything.
+
+## Signs
+
+- A piece of rock face that glitters in the sun and is not quite the shape of the rest of the wall.
+- Fine, parallel claw-scratches running up a sheer face and across the underside of an overhang.
+- Goat and mule bones at the foot of a wall, below a ledge nothing could climb to.
+- A musky smear on the rock at intervals along the same line across a cliff.
+- Mules that stop on a narrow stretch of road and will not go on.
 
 ## Combat Strategy
 
-A Stoneclimber initiates combat by attacking from a position of advantage—usually from above, from behind, or from an angle where its prey cannot effectively respond. It uses its superior climbing ability and three-dimensional awareness to stay above, beyond, or beside opponents rather than engaging in direct melee. The creature is fast, precisely striking and then repositioning to a new vantage point. Against multiple opponents or heavily armored foes, it will attempt to isolate targets by driving them into hazardous terrain or separating them from the group. If pressed hard or injured, a Stoneclimber will retreat up terrain where it maintains clear advantage, using climbing ability to escape pursuit.
+A stoneclimber attacks from a position of advantage: from above, from behind, or from an angle its prey cannot answer. It strikes, drags its victim toward an edge, and goes back up the wall where nothing can follow it. It wears its prey down with repeated attacks from different places. It does not stand and fight on level ground, where it is far less dangerous, and it retreats up the rock when pressed. Fire is the thing it fears: flame damages its scales and loosens its grip, and it will leave a stretch of wall where there is fire.
 
 ## Attack Methods
 
-### Rending Claw Strike
+### Rending Claw
 
-The Stoneclimber drives its hook-like claws into flesh, attempting to tear and slash. These attacks are often performed while the creature is clinging to a cliff face or ceiling, using gravity and leverage to add terrible force.
+The stoneclimber drives its hooked claws into its prey and tears, often while clinging to the rock above with its other feet, so that the pull of its weight adds to the blow.
 
 ### Snapping Bite
 
-The creature's jaws are capable of terrible damage, particularly against necks and limbs. A successful bite can sever or cripple, and the creature often uses its weight and leverage to wrestle prey off balance.
-
-### Diving Strike
-
-From a high vantage point, the Stoneclimber launches itself at a target, using gravity and momentum to deliver a devastating impact combined with claw and bite attacks.
+Its jaws close on a neck or a limb with great force, and it uses its weight and leverage to wrestle its victim off balance and off the path.
 
 ## Special Abilities
 
+### Diving Strike
+
+From a height, the stoneclimber launches itself down onto its prey and hits with its whole weight, claws and jaws together.
+
 ### Cliffhanger Supremacy
 
-The Stoneclimber traverses all terrain as though it were level ground. Vertical cliff faces, ceilings, overhangs, and unstable surfaces all provide equivalent mobility. In rocky terrain the creature moves faster and can take positions that would be impossible for other creatures.
+It moves over sheer faces, ceilings, overhangs and loose rock as if they were level ground, and takes positions no other creature could.
 
 ### Environmental Camouflage
 
-In rocky terrain, the Stoneclimber's scales blend so perfectly with stone that spotting it takes a very sharp eye. In its preferred environment, the creature is essentially invisible until it chooses to reveal itself.
+On rock its scales blend perfectly with the stone, and it is all but invisible until it chooses to move.
 
 ### Predatory Awareness
 
-The Stoneclimber is perfectly attuned to its environment, reading stone and terrain with uncanny precision. In rocky environments, it knows the location and nature of every potential escape route, hiding spot, and vantage point within a considerable radius.
+On its own ground it knows every escape route, hiding place and vantage point for miles.
 
 ### Resilient Frame
 
-The Stoneclimber's body is as tough as the stone it climbs, resistant to environmental hazards that would kill lesser creatures. It survives falls that would be fatal to humans, endures extremes of temperature, and regenerates slowly from wounds.
+It survives falls, cold and heat that would kill a man, and heals slowly from its wounds.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Stoneclimber's primary weakness—flames damage its scales, disrupt its climbing grip, and plainly cause it discomfort and pain. Sustained heat will drive a Stoneclimber away from an area. Magic is also effective, particularly spells that would prevent climbing or dull its environmental perception. In flat, open terrain without stone or complex geometry, a Stoneclimber loses much of its advantage and becomes a comparatively normal predator. The creature's scales, if harvested carefully, can be fashioned into armor of unusual quality that retains the creature's natural stone-gray coloration and grants modest resistance to physical damage. Its claws are prized by climbers and trappers as grappling tools. The creature's bones, being partially mineralized, make excellent tool hafts or construction materials.
+Fire damages its scales and loosens its grip, pains it, and drives it away from a stretch of rock.
 
 ## Attributes
 

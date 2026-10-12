@@ -402,8 +402,6 @@ Born in the [[place-elavendre|Élavendre]] region to a freeman family of Élaven
 
 Mália grew up on a small farm, learning the art of herding from her father. She specializes in caring for a large flock of sheep, guiding them to the best pastures and ensuring their health. Known for her gentle touch and patience, Mália has a knack for understanding animal behavior. While she loves her work, she dreams of one day owning her own land and expanding her flock.
 
-Now at 32 years of age, Mália Náredh has established herself as a known figure among the herders of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

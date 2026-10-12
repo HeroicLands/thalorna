@@ -1,9 +1,9 @@
 ---
-shortcode: kmdbhmth
-name: {full: Komodo Behemoth, aliases: []}
+shortcode: mngbhmth
+name: {full: Mangrove Behemoth, aliases: []}
 type: being
 subType: creature
-description: "A ton-heavy reptilian predator up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
+description: "A reptilian predator of some fifteen hundred pounds and up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
 tags: [animal]
 data:
   packFolder: animals
@@ -227,7 +227,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 6, edged: 5, piercing: 4, fire: 6}
-      weight: {base: 250, calc: "250"}
+      weight: {base: 1500, calc: "1500"}
       reachBase: 0
       bodyScaleBase: 1.22
       personalFatigue: "enc + 5"
@@ -244,45 +244,61 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kmdbhmth|Komodo Behemoth]]{float=top-left}
+![[mngbhmth|Mangrove Behemoth]]{float=top-left}
 
-A shadow moves across the rocky ground—enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes—ancient, knowing, pitiless—lock onto yours as the tail sweeps behind it like a felled tree.
+The path along the mangrove edge is packed mud and roots, and halfway along it there is a log lying across it that was not there this morning. Then the log lifts a head as broad as a shield and looks at you. It is a lizard, gray-green and warty, as long as a fishing boat, and it does not hurry. A forked yellow tongue slides out, tastes the air in your direction, and slides back. The smell reaches you a moment later, sweet and rotten, like a carcass left a week in the sun, and you notice that the mud round its jaws is stained dark.
 
 # Dossier {#dossier}
 
-The Komodo Behemoth is a titanic reptilian predator measuring 15 to 18 feet in length and weighing well over a ton. Its body is a mass of rippling muscle beneath mottled scales in shades of dark gray and green that shift in coloration depending on age and environment. Its head is broad and flattened, positioned at the end of a thick, powerful neck, with a mouth that can unhinge to an alarming degree. Its four legs are stocky and immensely powerful, ending in clawed feet that leave deep prints in soil and rock. Its tail, nearly as long as its body, is muscular and whip-like, dragging behind it as the creature moves.
+The Mangrove Behemoth is the great monitor lizard of the coastal lowlands of [[place-kaliharargn|Kalihara]], fifteen to eighteen feet from snout to tail, with a broad flat head, a mouth that opens wider than the head looks able to, and a bite that poisons whatever it does not kill outright. It lives in the mangrove and the jungle edge behind the island's eastern shore, among the gardened villages, and it is one of the creatures the island is known for and nobody abroad has seen alive. It is patient, solitary and slow until it strikes, and then it is very fast for a few strides. It eats anything it can catch or find dead, from crabs to wild pigs to a buffalo calf, and a grown behemoth can swallow a goat whole.
 
 ## Presentation
 
-Komodo Behemoths display coarse, warty scales across their entire body, with the scales along the back and tail forming rough ridges. Coloration varies from dark gray-green to nearly black, with lighter bands occasionally visible on younger specimens. Their eyes are positioned high on the head, providing excellent forward vision but limited peripheral sight. Their teeth are sharp, serrated, and constantly replaced throughout their lives—a new tooth will grow in if one is broken. The mouth opens vertically, allowing them to swallow prey nearly as large as themselves. A distinctive musky odor surrounds them at all times.
+A low, heavy body slung between four bowed, thick-clawed legs, and a tail nearly as long again, carried dragging. The hide is coarse and warty, gray-green to near black, banded paler in the young and plain in the old, and it hangs in loose folds at the throat and the shoulders. The head is long and flat with small eyes set high, and the lips close over a row of curved, serrated teeth like a saw's. The yellow tongue flickers constantly. Close to, the animal smells of carrion, because its mouth always carries the remains of the last meal, and the saliva that drips from it is thick and pinkish. It looks sluggish because it mostly is: it lies in the sun for hours and walks with a swinging, deliberate gait. Its speed in the first rush, over a dozen yards, is what kills people.
+
+## In the Land
+
+Behemoths hold the coastal lowlands of eastern Kalihara, the strip of mangrove, mudflat and jungle edge between the sea and the steep ridges that close off the interior. They are thickest round the river mouths, where the tide strands fish and the villages' pigs and goats come down to drink, and on the islets off the eastern shore, where they swim across between the tides. Each animal keeps a range of a few miles, with a burrow in a bank or under a root-mass for the cool of the night, and a few sunning places it uses every morning. They do not climb the ridges and they are not met in the terraced valleys above them. Round [[place-qasirah|Qasirah]] they come to the edge of the cleared ground and no further, but the harbor-wardens tell every foreign factor not to walk the mangrove path beyond the last warehouse at dusk, and the warning is about behemoths.
 
 ## Key Behaviors
 
-Komodo Behemoths are solitary hunters that establish and fiercely defend large territories encompassing several square miles. They spend much of their day resting in burrows or dens, conserving energy until hungry or triggered by the presence of prey. When hunting, they employ patient ambush tactics, positioning themselves along known game trails and waiting motionlessly for hours or even days. Once prey appears within striking distance, they explode into action with shocking speed. Their saliva carries venom and a foulness that festers in any wound, making a bite a death sentence even if the initial wound is not immediately fatal. They will bite prey, then retreat to allow the venom and infection to weaken the animal before returning to feed.
+A behemoth hunts by waiting. It lies beside a game trail, a wallow or a village's watering place, still as a log, sometimes for a whole day, and lunges when something passes within a few strides. It bites once, hard, and often lets go. The animal it has bitten runs off and does not get far: the bite festers and poisons, and within a day or two the victim is down, feverish and bleeding from a wound that will not close. The behemoth follows it by smell, tasting the air with its tongue, and feeds when it finds it. Several behemoths may gather at one large carcass, and the biggest eats first while the others wait their turn with a great deal of hissing. Young behemoths live in the trees for their first years to keep out of the way of the old ones, which eat them.
+
+## What the Villages Do
+
+The coastal villages live beside behemoths as they live beside the monsoon, as part of the island they are bound to keep in balance, and they do not hunt them out. They fence their gardens and pig-pens with a stake wall the height of a man's chest, keep children off the river paths at dawn and dusk, and draw water in company. A village that loses a person to a behemoth puts the matter to its council. The council decides whether that one animal has learned to take people, and if it has, the men kill it with long spears from behind a stake fence, and the village cleans and burns the body. The villages wash every behemoth bite at once with seawater and a bark poultice whose making they keep among themselves, and they do not let a bitten person sleep alone. Foreigners at Qasirah have offered good prices for the hide and the skull. The harbor-wardens do not let either leave the island.
+
+## Signs
+
+- A broad, flattened drag-mark across mud or sand, with the clawed prints of four splayed feet on either side of it.
+- A stench of carrion where nothing is visibly dead, strongest on still mornings near the water.
+- Pigs, goats or deer found dead in the brush with a single deep, ragged bite, swollen and fly-blown.
+- A burrow in a riverbank wide enough for a man to crawl into, with the earth outside it worn smooth.
+- Hissing, low and long, from a thicket where carrion birds are gathering.
 
 ## Combat Strategy
 
-The Komodo Behemoth's primary strategy is ambush and patience. It positions itself for maximum advantage and strikes with overwhelming force before its opponent can react. If forced into extended combat with a living opponent, it relies on the poisonous, festering saliva in its bite to gradually incapacitate the enemy while it harries with tail strikes and claws. A behemoth will only pursue if the prey is wounded; if prey escapes unharmed, it generally abandons the chase, reserving energy for a more promising hunt.
+A behemoth fights the way it hunts. It lets prey come to it, lunges from close range, bites once and tries to keep the bitten animal moving away so that the venom does the rest. Against a party it picks the nearest or the slowest, bites, and then backs off into cover with its tail swinging to keep the others at a distance. If it is pressed it stands and fights, and a behemoth that has stood its ground is hard to turn: it shrugs off cuts that would drive off a leopard and keeps coming. It does not chase anyone who has not been bitten. It does follow a trail of blood, sometimes for a day or more, and a party that has left a wounded companion's track behind it may find the behemoth waiting by its camp.
 
 ## Attack Methods
 
 ### Powerful Bite
 
-The behemoth lunges forward with jaw spread wide, aiming to clamp down on limbs or the throat; the bite carries venom and a foul infection in its saliva, and the wound worsens long after it is made.
+The behemoth lunges with its jaws wide and closes them on a leg, an arm or a flank, and the serrated teeth tear as it pulls back. The wound is deep and ragged and bleeds heavily, and whatever the bite does at once is only part of the harm.
 
 ### Tail Strike
 
-With the force of a felled tree, the massive tail sweeps horizontally to knock opponents off their feet, destroy obstacles, or drive back multiple assailants; the tail can disarm, break bones, or crush.
+The tail swings sideways like a felled tree rolling, low and heavy, and knocks a man off his feet or breaks his shin. The behemoth uses it to clear space round itself when it is surrounded, and to sweep away whoever is behind it.
 
 ## Special Abilities
 
 ### Infectious Bite
 
-The Komodo Behemoth's bite is laden with venom and a festering infection; the wound itself is bad, and the poison and infection go on working, growing worse over time if untreated.
+The behemoth's mouth carries venom and rot together. A bitten man feels the wound burn and swell within the hour, runs a fever by nightfall, and keeps bleeding from a wound that will not clot. Untreated, the poisoning grows worse over days, and a bite that would be nothing from a dog can kill. Cleaning the wound at once and keeping it clean is the best defense against it.
 
 ### Stealth Predator
 
-Despite its enormous size, the behemoth moves with surprising stealth and silence when hunting, and it is very hard to spot before it strikes, particularly in rocky or vegetated terrain.
+For an animal of its size the behemoth is very hard to see when it lies still. Its color matches mud, roots and shadow, it can wait without moving for hours, and in the mangrove or the jungle edge a traveler usually sees it only when it moves.
 
 ## Attributes
 

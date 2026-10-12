@@ -267,63 +267,75 @@ sohl:
 
 ![[thndrbrd|Thunderbird]]{float=top-left}
 
-The sky darkens in a way that has nothing to do with clouds, and the sound hits before sight: a shriek that seems to split reality itself, followed by the deafening crack of thunder that leaves your ears ringing. The shadow that falls across you is impossibly vast, and then you see it clearly: wings spanning scores of feet, dark as midnight with streaks of iridescent blue and silver that shimmer like lightning frozen in feathers. The eyes are burning gold fixed upon you with predatory assessment. The talons visible beneath are the size of a man's hand, curved and terrible. As it banks, the air itself seems to hum with energy, and you understand with immediate and absolute certainty that you are being evaluated as prey by something that exists at the apex of power.
+The cloud on the peak has been building all morning, gray on gray, and now the first thunder rolls down off it. In the gap between two banks of cloud something moves that is too big to be moving. It is a bird. It is so far up that it ought to be a speck, and it is not a speck: its wings span the gap, black and streaked with a sheen like wet slate, and as it banks the whole sky behind it seems to tilt. The guide beside you has stopped walking. The bird turns again, lower, and the wind of the turn reaches you a moment later, cold and smelling of rain, and the mules start to scream.
 
 # Dossier {#dossier}
 
-The Thunderbird is an enormous bird of prey standing as an apex aerial predator with a wingspan of 60-80 feet, found in mountain peaks, deep canyons, and high-altitude regions where thermal currents provide lift. These solitary, territorial creatures prefer stormy weather where wind currents enhance their supernatural agility. Adventurers encounter thunderbirds only in the most remote, dangerous locations and only when venturing into the creature's claimed territory.
+The Thunderbird is the greatest bird in the world: a storm-riding eagle with a wingspan of sixty to eighty feet and the weight of two dray horses, which nests on the highest and most broken peaks and hunts by diving out of the cloud. It takes wild yaks, horses, mules and anything else it can carry, and it fights anything that comes near its eyrie. It is rare enough that most scholars doubt it exists. The people who live under [[place-meghashkhr|Meghashikhara]], the storm-peak at the western end of [[place-sthrnwall|the Southern Wall]], do not doubt it, because it nests there, and it comes and goes with the monsoon cloud that piles against the mountain.
 
 ## Presentation
 
-The Thunderbird is a massive raptor with dark plumage ranging from deep black to charcoal, streaked with iridescent blue and silver that shifts with movement like captured lightning. The feathers are dense and structured, providing both insulation and weather resistance. The wings are proportionally enormous, with powerful flight muscles and extended feather structures designed for achieving high speeds and maneuverability despite the bird's massive size. The head is fearsome, with forward-facing golden eyes that burn with intelligence and a sharp, hooked beak capable of tearing through armor. The talons are massive curved claws designed to seize and crush large prey.
+The thunderbird is built like an eagle on a scale that makes no sense to the eye: a deep chest, a heavy hooked beak longer than a man's arm, and legs as thick as a man's waist, ending in four hooked talons each the length of a sword. Its plumage is dense and dark, black to charcoal, and the long flight-feathers are streaked with blue and silver that flash and shift like lightning as it moves. The eyes are gold, forward-set and fierce. It flies slowly and seldom flaps; it rides the storm wind and the updrafts off the mountain face with its wings set, and turns with small movements of the long primaries. On the ground it is clumsy and heavy, walks with a lurch, and needs a drop or a strong wind to take off again. When it cries the sound is a long, cracking scream that the mountain throws back.
+
+## In the Land
+
+Thunderbirds nest on the highest, most broken and most storm-beaten peaks, where nothing without wings can reach the eyrie. Meghashikhara is one: the monsoon cloud piles against its southern face every year, and the storm that feeds the Vedyari plain and shuts [[place-meghadvara|Meghadvāra]] from below is the wind the thunderbird rides. The pair that holds the peak ranges over the whole western end of the wall and down over the north-western marches, hunting wild yaks and sheep on the high grazing and the beasts of the caravans on the road. Where else they nest, nobody can say for certain; the [[affiliation-osketguides|Ösket]] say there is another pair farther east along the wall, and the tellers in the [[place-khzryndsrtrgn|Khazryn]] edge-towns say there are thunderbirds over the northern deserts as well.
 
 ## Key Behaviors
 
-Thunderbirds are solitary, territorial creatures that hunt large prey in high-altitude regions. They are most active during stormy weather when wind currents reach their maximum and the bird's agility, already great, grows greater still. They nest on inaccessible peaks and defend their territories aggressively against rival thunderbirds. These creatures are intelligent and capable of learning and remembering. They are most active during daylight but hunt opportunistically at any time.
+A thunderbird hunts in daylight, and most of all in storms, when the wind gives it lift and the cloud gives it cover. It soars high, watches the ground, and dives on what it has chosen from a great height, striking with its talons and carrying the prey off to the eyrie or to a ledge to eat. A pair holds its range against every other great bird and attacks a rival on sight. It is intelligent and remembers: it knows the caravan road and the season the caravans use it, and it knows the men who have shot at it. The eyrie is a heap of branches, bones and hides on a ledge below the summit, and it uses the same one for generations.
+
+## What the Guides Do
+
+The Ösket of the western lineages read Meghashikhara before they move a caravan, and part of what they read is the bird. A guide-mother who sees the thunderbird circling the summit at first light holds the caravan at the hearth, whatever the cloud is doing, and does not explain why. The lineages hobble the mules close and keep them under rock overhangs on the high road, and they light no fires in the open on a storm day. The [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] keepers of the shrine-tower at the summit of the pass leave the carcass of a goat on a ledge above the tower when a caravan crosses, and they say the bird takes it. Down on the plain, where [[affiliation-meghanatha|Meghanātha]] is worshipped with drums, people speak of the thunderbird as the god's bird and say its cry is his first drum of the monsoon; the priests neither teach it nor deny it.
+
+## Signs
+
+- A shadow passing over a valley with nothing visible in the sky to cast it, under heavy cloud.
+- A long, cracking scream from a peak at the start of a storm, echoed back and forth along the mountain.
+- The bones of yaks and horses scattered on high ledges where no animal could have climbed.
+- Feathers as long as a spear, black and streaked with blue, caught on the rock below a summit.
+- Pack animals that panic and break their hobbles before any storm is visible.
 
 ## Combat Strategy
 
-The thunderbird's dominance lies entirely in the air, where it uses superior speed, maneuverability, and altitude advantage to deliver devastating diving attacks. It dives from extreme altitude, building tremendous speed, and attempts to seize prey with its talons and lift it airborne. If forced to fight on the ground, the bird's advantage is significantly reduced. The creature will always attempt to return to air when engagement occurs on the ground.
+A thunderbird fights from the air. It dives out of cloud or out of the sun onto its target from far above, strikes with its talons, and tries to seize and carry. If it cannot lift its prey it crushes it on the ground and then tears at it with its beak. It does not stay on the ground to fight if it can avoid it, because on the ground it is slow and vulnerable. A thunderbird defending its eyrie is different, and attacks anything that comes up the mountain toward it, over and over, until the climbers are dead or gone. Missiles anger it more than they hurt it, and a man who has shot at it is the one it comes for.
 
 ## Attack Methods
 
 ### Diving Talon Strike
 
-The thunderbird dives with supernatural speed, using gravity and muscular power to achieve impact that shakes the ground. Talons extended, it attempts to seize and lift prey aloft.
+The thunderbird drops out of the sky with its talons forward, and the strike lands with the weight of a falling boulder. The talons cut deep, and a man hit by the dive is knocked flat, broken, or seized and lifted.
 
 ### Crushing Grip
 
-Once prey is seized, the bird's talons crush with enough force to collapse lungs and shatter ribs.
+Once it has seized something, the thunderbird closes its talons. The grip crushes ribs, collapses lungs and snaps a horse's spine, and it does not let go of its own accord.
 
 ### Beak Strike
 
-Using its powerful hooked beak, the bird strikes with force capable of shattering bone and severing limbs.
+On the ground, or standing on prey it has pinned, the thunderbird strikes down with its great hooked beak. The blow breaks bone, tears off limbs and opens a horse from shoulder to flank.
 
 ## Special Abilities
 
 ### Aerial Mastery
 
-The thunderbird is supremely powerful in flight, capable of achieving speeds far exceeding normal flight and maneuvering in three dimensions with grace that defies the bird's massive size.
+In the air the thunderbird is far faster than anything else that flies and turns with an agility its size should not allow. A man on the ground has no way to escape it except by getting under rock.
 
 ### Storm Affinity
 
-During storms, the thunderbird's power increases significantly, with wind currents enhancing flight capability and the creature's natural electrical affinity becoming more pronounced.
+In a storm it flies faster, higher and more surely, using wind and cloud that ground every other bird. It hunts best in the worst weather.
 
 ### Predatory Vision
 
-The bird's eyesight is extraordinary, allowing it to spot movement from miles away and to track prey with supernatural accuracy.
+It sees movement from miles away and follows its prey through rain and broken cloud.
 
 ### Lightning Affinity
 
-By some accounts thunderbirds possess a supernatural electrical affinity, creating visible lightning during flight and potentially using electrical attacks during combat.
+Those who have seen it close in a storm say that lightning plays round its wings and that strikes fall near it more often than chance allows. Whether the bird draws the lightning or only flies where the lightning is, nobody can say.
 
 ### Regenerative Power
 
-The thunderbird heals with unnatural speed, recovering from injuries that would cripple other creatures.
-
-### Additional Information
-
-Thunderbirds are most vulnerable when grounded or in enclosed spaces where they cannot achieve flight. The creatures are rare enough that many scholars question whether they exist or are only a story. A thunderbird that has successfully hunted humanoids may develop increasing boldness toward human-occupied lands. The creature's feathers are extraordinarily valuable and can be harvested after death for creation of magical items and powerful armor.
+A thunderbird heals wounds that would kill any other creature, and a bird shot and driven off one season is back on its peak the next.
 
 ## Attributes
 

@@ -274,55 +274,71 @@ sohl:
 
 ![[thndrhrn|Thunderhorn]]{float=top-left}
 
-The air crackles with static before you see it—the hair on your arms stands on end and the smell of ozone floods your senses. Then it appears, rising like a storm made flesh: a creature vaguely rhinoceros-like but far larger, its hide the color of weathered storm clouds, dark gray and deep blue shot through with veins of sickly phosphorescence. Spiraling horns rise from its head, each one thick as a man's arm and wreathed in constant, writhing bolts of blue-white electricity that fork and branch into the air with terrible beauty. Its eyes are those of an ancient, intelligent creature, and they burn with the pale fire of lightning trapped in flesh. Each movement it makes seems to disrupt the air itself, creating pressure waves and small arcs of electrical discharge. The sound it makes is like distant thunder, and the ground trembles beneath its hooves.
+The storm comes across the altiplano like a wall, black underneath and white where the lightning runs through it, and the herders are driving their flocks down into the gorge as fast as they can. Out on the open grass, something is not going down. It is walking toward the storm: a beast as tall as a house, built like a buffalo, slate-gray and blue-black, with a great forward-curving horn and two lesser ones. The air round it crackles. Blue light crawls along its horns and down its flanks, and the grass under its feet smokes. Lightning strikes the plain a hundred yards from it, and it lifts its head into the flash, and bellows.
 
 # Dossier {#dossier}
 
-Thunderhorns are creatures of electrical power and territorial fury, massive beasts that seem to have been infused with the lightning of storms. They roam tempestuous highlands and storm-swept plateaus where regular lightning strikes are common, seemingly feeding on the electrical energy of thunderstorms. A Thunderhorn's presence is often announced by changes in weather—sudden electric static in the air, the smell of ozone, and the sight of lightning arcing between ground and sky. These creatures are generally solitary and temperamental, becoming ferociously aggressive when threatened or when their territory is invaded. Some ancient Thunderhorns are said to be powerful enough to call down lightning strikes at will, though whether this is truth or legend remains unclear.
+The Thunderhorn is a dreadspawn of storm and bulk: a horned beast fifteen to twenty-two feet long and ten to fourteen feet high, built like a buffalo or a rhinoceros, whose body carries a charge like a thundercloud. It gores and tramples with lightning crawling on its horns, throws shocks that scorch, feeds, as far as anyone can tell, on the lightning of storms, and grows stronger in them. It claims miles of open high country. One ranges the altiplano of [[place-kuxibalamrgn|K'uxi Balam]], the high, cold grassland at the threshold of Southern K'ich'chik's forsaken wastes, where storms sweep the plateau and the herders follow their flocks. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Thunderhorn measures roughly 15 to 22 feet in length with a height of 10 to 14 feet, with a massively muscled body resembling a rhinoceros or buffalo crossed with something more primal and terrible. Its hide is thick and tough, the color of storm clouds—dark gray, deep blue, and purple-black—with veins of sickly luminescence running through it that glow faintly in darkness. Its defining features are its horns: two massive, spiraling appendages of tremendous length and sharpness, wreathed in constant, living arcs of electricity. These horns are so saturated with electrical charge that they seem to vibrate at the edge of physical reality, and they discharge bolts of lightning continuously into the surrounding air. Its eyes are pale, almost white, and they burn with contained electricity. Its hooves are heavy and black as charred coal, and where it walks, the ground is sometimes fused and cracked from the heat of its electrical discharge.
+The thunderhorn is massive and deep-chested, with a high hump over the shoulders, short powerful legs and broad hooves. Its hide is thick and tough, the colors of storm cloud, slate, charcoal and bruised blue-black, and in storms it is veined with flickers of light. It carries a great horn curving forward from the snout and two lesser horns above the eyes, and the horns are dark and glassy at the tips. Its eyes are pale. The air round it smells sharp, like the air after lightning, and its hair stands up on end. When it is roused, or in a storm, light crawls over its horns and flanks with a crackling hiss, and a man close to it feels his own hair rise.
+
+## In the Land
+
+The altiplano of K'uxi Balam is an immense high plateau of thin air and cold wind, sparse grass and hardy shrub, broken by isolated highlands and scattered with the outpost-cities of the Itzáni priesthood, and the great herds of the high grazing roam it with the pastoral peoples who tend them. The thunderhorn ranges the most exposed part of the plateau, the open grass and the bare rises where lightning strikes most often, several miles of it, and patrols that ground regularly. It grazes, and it goes out into every storm that crosses its range, and in storms it is fastest and fiercest. Between storms it is sluggish and short-tempered. It does not go down into the sheltered valleys or the gorges.
 
 ## Key Behaviors
 
-A Thunderhorn claims a territory of considerable size—usually several miles of highland or exposed plateau—and it patrols its domain regularly. The creature seems attracted to storms and high places where lightning is common, as though feeding on the electrical energy present. It is generally solitary and does not seem to breed frequently, though during breeding season multiple Thunderhorns may appear in a region, creating hazardous conditions as they compete for mates and territory. The creature is intelligent enough to understand concepts like intrusion and threat, and it has been observed to deliberately move toward weather patterns it seems to desire.
+The thunderhorn is solitary and territorial. It drives every large animal off its ground: the herds, the herders' animals, the cats that hunt them. It is drawn to storms and to high places where lightning falls, and it walks into storms and stands under them, and lightning strikes near it and into it and it is the stronger for it. It is aggressive at any time and furious in a storm. Hurt or cornered, it discharges more and more violently, and loses what judgment it has.
+
+## What the Herders Do
+
+The pastoral peoples of the plateau move their flocks with the seasons, and they move them off the thunderhorn's ground whenever a storm is coming, down into the sheltered gorges, as fast as they can. They have learned that it cannot follow them below the rim of a gorge, where the ground is wet and the rock is deep. A herder caught in the open by it lies flat in the wet grass, away from his staff and anything metal, and hopes. The priests of the Itzáni outposts, who attribute the cracked stones of the ceremonial roads to the wrath of [[lore-puqilchaqundty|P'uqil Ch'aqun]], master of storms, call the thunderhorn his beast, and they will not let it be hunted; a herder who has lost his flock to it is told that the god has taken his tithe.
+
+## Signs
+
+- A sharp smell in the air, like the air after a lightning strike, on a clear day.
+- Grass scorched in long, branching streaks across a rise where no fire has been.
+- Huge, three-toed hoofprints with the grass inside them burned black.
+- Herd animals that stampede off the open plateau before a storm, all in one direction.
+- A bellowing out on the plain when a storm breaks, and a flicker of blue light where nothing should be.
 
 ## Combat Strategy
 
-A Thunderhorn initiates combat by charging with its full mass and speed, attempting to gore opponents on its electrified horns or to ram them with shoulder and body. The creature's electrical discharge is as much a weapon as its physical form, burning even targets that avoid direct contact. It is slow and ponderous but possesses such strength that its attacks are nearly impossible to defend against through ordinary means. The creature seems immune to its own electrical discharges and resistant to external electrical attacks, relying on these advantages to dominate opponents. A wounded Thunderhorn becomes more aggressive, charging with less tactical awareness and more reckless power. Only truly overwhelming force will convince one to retreat, and even then it will attempt to take its attacker with it.
+The thunderhorn charges first, with its whole weight behind horns that crackle with lightning, to gore or trample whoever is in front of it. Then it stamps and discharges, throwing shocks round it, and charges again. It is a straightforward fighter and does not plan, but in a storm it calls the lightning down near its enemies. Hurt, it discharges wildly and charges anything that moves. Wet ground and grounding bleed its charge away, and water soaks up its shocks.
 
 ## Attack Methods
 
 ### Electrified Charge
 
-The Thunderhorn lowers its horns and charges with terrible speed and force, attempting to gore the target. The horns discharge massive amounts of electrical energy simultaneously, and the impact combines crushing physical force with a searing electrical shock.
+The thunderhorn lowers its horns and charges, and the horns discharge as they strike: a man hit is gored, crushed and burned at once, and thrown.
 
 ### Thunderous Stomp
 
-The creature raises one of its massive hooves and brings it down with devastating force, creating a shockwave that radiates outward. The impact is accompanied by a burst of electrical discharge that radiates outward in a cone.
+It rears and brings a forefoot down, and the ground jolts and a burst of lightning crackles outward from the blow, knocking men down and scorching them.
 
 ### Electrical Discharge
 
-Without charging, the Thunderhorn can channel electricity through its body and horns, creating a sphere or cone of electrical energy that scorches everything within it.
+Without charging, the thunderhorn throws a burst of lightning from its body and horns in a ring or a cone round it, scorching everything it touches.
 
 ## Special Abilities
 
 ### Electrical Embodiment
 
-The Thunderhorn is composed partially of electrical energy and is highly resistant to lightning. Lightning strikes provide it sustenance, and thunderstorms energize it, making it faster and stronger during inclement weather.
+Part of the thunderhorn is lightning. Lightning does not harm it, it feeds on lightning strikes, and storms make it faster and stronger.
 
 ### Lightning Authority
 
-The Thunderhorn can call lightning from storm clouds, though this ability seems limited and requires some moments of concentration. The creature is most likely to use this ability in open terrain during active storms.
+In an open storm, with a few moments' concentration, it calls a bolt down from the clouds onto a place it chooses.
 
 ### Primal Fury
 
-When injured or cornered, the Thunderhorn's electrical discharge increases dramatically, and it enters a state of heightened aggression where it attacks with reckless abandon, its discharges growing fiercer as its judgment fails.
+Hurt or cornered, it discharges more and more fiercely and attacks with reckless violence, and its judgment fails as its fury grows.
 
-## Additional Information
+### Grounding Weakness
 
-Earth-based magic and grounding effects are the Thunderhorn's primary weakness, as they can dissipate or redirect its electrical discharges and prevent it from building up charge. The creature is also vulnerable to water, which conducts electricity away and can quench its natural abilities if sufficient quantities are applied. The creature's horns, if somehow harvested from a slain Thunderhorn, retain electrical charge for years or even longer, making them extraordinarily valuable for crafting weapons or foci of electrical magic. The hide can be fashioned into armor that retains some electrical resistance. Hunting a Thunderhorn is considered a supremely dangerous undertaking, and most communities in Thunderhorn territory learn to simply avoid the creatures' ranges rather than attempting to oppose them.
+Wet ground, standing water, deep rock and anything that grounds its charge bleed its power away. Soaked or standing in water, it cannot build its charge.
 
 ## Attributes
 

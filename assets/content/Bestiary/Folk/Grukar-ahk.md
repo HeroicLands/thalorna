@@ -363,7 +363,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: 172, calc: "(9 * str) + 50"}
+      weight: {base: 220, calc: "220"}
       reachBase: 0
       bodyScaleBase: 1.11
       personalFatigue: "enc + 5"
@@ -379,51 +379,61 @@ sohl:
 
 # Appearance {#appearance}
 
-The chamber smells of damp earth, of resin smoke, and of something heavier and stranger beneath both—a sweet-rancid musk that catches at the back of your throat. The figure within is not what the warband outside led you to expect. It is broader through the hips and torso than any [[being-grkrh|Grukar-Hai]] you have seen, and softer, in a way that has nothing to do with weakness—the build of something that is heavy with internal architecture rather than external muscle. The skin is the universal Grukar gray-green, but smoother, less scarred, marked with a pattern of dark whorls along the belly and inner arms. The face is calm. The eyes are large, dark, and steady, and they regard you with a slow, considering intelligence that has none of the Hai's fury and none of the Sha's sliding cunning. Behind it, in a row of stone-lined depressions in the chamber floor, you see the eggs. Some are the dull gray of unhatched Uk; some are pale and ridged and clearly destined to become Sha; one or two, larger and darker than the rest, are unmistakable in their meaning. The Grukar-ahk lays a hand against the warmth of the floor and nods to your guide. The audience has begun.
+The last of the guards is down in the passage, and the chamber beyond it is warm, warmer than any cave should be, and smells of damp earth, resin smoke and something sweet and rancid underneath that catches in your throat. The figure in the middle of it does not get up. It is a Grukar, but broad through the hips and belly, bell-shaped, soft in a way that has nothing to do with weakness, its gray-green skin smooth and patterned with dark whorls along the belly and the inner arms. Round it, in stone-lined hollows in the floor, lie eggs: dull gray ones, pale ridged ones, and two or three that are larger and darker than the rest. Its eyes are large and dark and very steady, and it looks at you with a slow, considering calm, as if you were a problem it has already begun to solve.
 
 # Dossier {#dossier}
 
-The Grukar-ahk is the spawning subspecies of [[lore-grukarfolk|Grukar]]—the self-fertilizing matrix on which the entire reproductive cycle of Grukar society depends. Each tribe contains exactly one fertile Grukar-ahk plus three to six infertile reserves; the fertile spawner produces all of the tribe's offspring, and (uniquely among known creatures) it can choose the subspecies of each clutch—laying eggs that will hatch as [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], or Grukar-Hai according to the tribe's changing needs. The choice is made in the laying itself—not by any difference of blood, but by what the spawner feeds into the egg—and the clutch then hatches on the schedule of whatever it was told to become: six weeks for Uk, twelve for Hai, eighteen for Sha and for Ahk alike. The spawn-chamber is also where the tribe does its remembering. A Grukar that has come to hold knowledge the tribe cannot afford to lose is invited to dinner, and its brain and the long cord of its nerves are fed, fresh, to the Ahk, which renders down what it knew and writes it into the next laying. The infertile Grukar-ahk are physically smaller and structurally simpler than the fertile one; they cannot spawn while the fertile spawner lives, but each carries the latent capacity to become fertile if abducted from the tribe and held at sufficient distance from its mother-spawner. That suppression reaches only a very short way—a chamber or two, not miles—so the reserves can never be sent to scout, to the palisade, or out with a war party; they are bodyguards by biological necessity rather than by assignment. Their number is limited by danger rather than by the eighteen weeks a clutch costs: one or two are a prudent margin, five or six make a strong guard for a large tribe, and any more than that is simply a queue of replacements waiting at the spawner's own door. Once settled, a fertile Ahk effectively never moves again. Faced with a failing territory it rations, redirects, and lays smaller clutches rather than ordering a march, and will manage a tribe carefully all the way down to its death; a Grukar tribe does not relocate, it fractures at the last moment and leaves its spawner behind. Adventurers encounter Grukar-ahk almost exclusively in the deep interior of an established Grukar tribe, in a heavily defended spawn-chamber accessible only through layers of Hai guardians and Sha-laid traps. A Grukar-ahk encountered outside that protection is almost always either a hostage of inter-tribal politics or a recently abducted infertile being run to a new territory in the founding of a new tribe.
+The Grukar-ahk is the spawner of the [[lore-grukarfolk|Grukar]], the caste on which every tribe's existence depends. It is self-fertilizing, and every Grukar of its tribe hatched from its eggs. It chooses what each clutch will become, [[being-grukaruk|Uk]], [[being-grkrsh|Sha]] or [[being-grkrh|Hai]], by what it feeds into the eggs as it lays them, and the clutch hatches on the schedule of whatever it was told to become: six weeks for Uk, twelve for Hai, eighteen for Sha and for Ahk alike. A tribe has one fertile Ahk and three to six infertile ones, its guards and its reserves. The Ahk has no ambition of its own. The welfare and increase of its tribe is its whole purpose, and every cruelty and calculation in a Grukar tribe serves it.
 
 ## Presentation
 
-A Grukar-ahk stands roughly five to five and a half feet tall, somewhat shorter than the average Hai but considerably broader through the hips, lower abdomen, and pelvis—an overall silhouette closer to bell-shaped than the wedge of the Hai or the slab of the Uk. Body mass typically runs two hundred and fifty to three hundred and fifty pounds, almost all of which is internal: the spawning structures, an unusually deep abdominal cavity, and a layered system of glands and ducts that no human anatomist has ever dissected. The skin is the standard Grukar gray-green but smoother and less heavily scarred than the warrior castes, marked along the belly, inner arms, and inner thighs with patterns of darker whorls (the meaning of which only Grukar themselves can read). The face is heavier-jawed than a Sha but less brutal than a Hai, with broad nostrils, wide-set dark eyes, and a relatively short tusk profile. Movement is slow and ponderous in the fertile state—the active spawner is heavy with eggs much of the time and rarely chooses to move quickly. Infertile Grukar-ahk are noticeably leaner and more mobile, but still slower and softer-bodied than any of the warrior castes.
+A Grukar-ahk stands about five to five and a half feet tall, shorter than a Hai and much broader through the hips, belly and pelvis, so that its outline is bell-shaped. Its weight is in its body cavity and its glands, the spawning structures no human anatomist has ever dissected. Its skin is the Grukar gray-green, smoother and less scarred than the warrior castes', marked on the belly, inner arms and thighs with darker whorls only Grukar can read. Its face is heavier-jawed than a Sha's and less brutal than a Hai's, with broad nostrils, wide-set dark eyes and short tusks. The fertile spawner is slow and heavy, often heavy with eggs; the infertile ones are leaner and quicker, though still slower than any warrior. The spawn-chamber always smells of it.
+
+## In the Land
+
+A Grukar tribe is a place with a spawner in it, and the Ahk is the reason the tribe is where it is. It lives in the spawn-chamber at the heart of the nest, in [[place-grkrhlmrgn|Grukarhölm]], the eastern [[place-vrystwald|Vrystwald]] and [[place-skathwald|Skathwald]], the borderland of [[place-targud|Targud]], and the empty interior of [[place-aelwyth|Aelwyth]], and it almost never leaves. Its infertile reserves cannot leave either: they stay barren only while they are near enough to taste the spawner's suppressing scent, which reaches a chamber or two and no more, and one carried beyond it wakes fertile and founds a new tribe. That is how the Grukar spread. They do not migrate; they bud, a faction stealing a reserve and running with it into unclaimed land, and so the nests move outward one theft at a time.
 
 ## Key Behaviors
 
-The fertile Grukar-ahk almost never leaves the spawn-chamber. Its life is the slow, deliberate management of its tribe's demography—laying clutches, evaluating the ratios of subspecies in the existing population, listening to the reports of Hai warlords and Sha counselors about external pressures, and adjusting the next clutch accordingly. A Grukar-ahk that recognizes a tribe is short on warriors will spawn more Hai; one that recognizes it has too many Hai (and the resulting fratricide problem) will spawn more Sha and Uk. This deliberate demographic engineering is the principal reason Grukar tribes survive their own internal violence: the spawner reads the tribe and corrects the imbalance, generation by generation. The infertile Grukar-ahk are the personal guardians of the fertile spawner, never far from the spawn-chamber, and a kind of reserve—if the fertile spawner dies, one of the infertiles will eventually become fertile in turn, but the transition is slow and a tribe is vulnerable during it. Every Grukar-ahk, fertile or otherwise, is intelligent in a way the warrior castes are not: they remember individuals across generations, hold long views about tribal trajectory, and converse with Sha counselors as equals.
+The Ahk cultivates its tribe the way a farmer works a field. It reads the reports of its Hai and the counsel of its Sha and decides what the next clutches will be: Uk when the tribe needs labor or is short of food, Sha when it needs minds, Hai, rarely and at great cost, when it means war. It spawns Hai in numbers that keep them fighting each other, so that no Hai ever holds power long enough to wonder what controlling the spawner would be worth. It protects the Sha and uses them as its instruments. It is careful with its land, pacing the hunting and the raids so that game and neighbors recover, and it chooses weak targets and leaves alone those that could bring an army down on the nest. It is the tribe's memory: a Grukar that knows something the tribe cannot lose is invited to dinner, and its brain and nerve-cord are fed to the Ahk, which writes the knowledge into the next laying. It watches its own reserves more closely than any enemy. When the land fails, it does not leave; it manages the decline in good order to the end, and only a conspiracy of Sha saves any part of the tribe.
+
+## What the Frontier Peoples Do
+
+Few people outside the Grukar have seen a spawner and lived, and those who have are mostly [[lore-flkkhazar|Khazári]], who kill Grukar on sight, and veterans of the rare raids that reached a spawn-chamber. Those raids are the frontier's great ambition and its great disappointment. A tribe whose fertile Ahk dies with no reserve near to wake in its place collapses; but the reserves wake, the chamber is defended by the toughest Grukar of the tribe, and a raid that kills the spawner and leaves a reserve alive has only made a new tribe. The commanders who have studied the matter in Aldorath's [[place-wyndmarch|Wyndmarch]] and on Targud's wall say the only raid worth the cost is one that kills every Ahk in the chamber, and that it has been done perhaps twice. More often, what a frontier sees of the Ahk is its work: a nest that has been quiet for years suddenly sending out Hai, because the spawner decided on war a season ago.
+
+## Signs
+
+- A sudden increase in the number of Hai in raiding parties, a season after the nest last suffered a loss.
+- A new nest appearing far from any other, which means a reserve was stolen and has woken.
+- A sweet, rancid musk in the deepest passages of a Grukar nest, and the air growing warm.
+- Raids that stop short of strong targets and keep coming against weak ones, paced like a harvest.
+- Grukar whose skulls have been opened, laid in a chamber with honor.
 
 ## Combat Strategy
 
-The Grukar-ahk is not a combat caste. The fertile spawner fights only as a last resort, when guardians have failed and the spawn-chamber itself is breached; in that situation it fights with desperate strength, drawing on stored reserves and on the calm, pitiless authority that long practice in command grants. Infertile Grukar-ahk are more willing to engage—a tribe expects them to die before the fertile spawner does—and they are taught to fight as a coordinated guard unit, defending the chamber doorway in a tight phalanx. They are not as strong as Hai or as quick as Sha, but they are hard to put down, slow to bleed out, and unusually coordinated. A party that has fought through the Hai guards and Sha traps to reach the spawn-chamber will find the infertile Grukar-ahk arrayed in front of the fertile one, and will have to kill all of them to reach their target.
-
-## Attack Methods
-
-### Heavy Mace or Club
-
-Most Grukar-ahk who fight at all use a heavy weighted club or mace—a weapon that depends on mass rather than skill, suited to the spawner's slow but powerful frame. Strikes are deliberate, well-aimed, and meant to disable rather than to display.
-
-### Grapple and Pin
-
-Infertile Grukar-ahk in particular are trained to grapple intruders—to close, hold, and trap an enemy until other defenders can deliver a killing blow. The spawner's broader build and lower center of mass make it a surprisingly effective grappler against humanoid opponents.
+The Ahk is not a fighter and fights only when the guards have failed and the chamber itself is breached. Then the fertile spawner fights with desperate strength and a cold authority, and the infertile reserves, which the tribe expects to die before it does, fight as a tight guard at the chamber door, hard to put down and slow to bleed. They do not fight well, but they hatched knowing how to hold a door, and they hold it. A party that has fought through the Hai to reach the chamber usually finds the reserves the hardest part.
 
 ## Special Abilities
 
+### Heavy Club and Grapple
+
+An Ahk that fights uses a heavy club or mace, swung with deliberate weight to disable, and it closes, holds and pins an intruder for the other defenders to kill. Its low, broad build makes it a strong grappler.
+
 ### Demographic Spawning (fertile only)
 
-The fertile Grukar-ahk can choose, at the moment of laying, which Grukar subspecies a particular egg will hatch as. This is a slow process—clutches are laid over weeks, and the demographic effect of a single clutch only becomes visible months later as the spawn matures—but it is the single most important ability on display in any Grukar tribe. A Grukar-ahk that has been studying its tribe and has decided it needs more Hai will lay Hai; a Grukar-ahk that has lost too many Sha will lay Sha. No human-known creature has anything resembling this capability.
+The fertile Ahk chooses at the moment of laying which caste each clutch will hatch as. The effect shows only months later, when the clutch hatches and grows, but it is the most important power in any Grukar tribe.
 
 ### Latent Fertility (infertile only)
 
-An infertile Grukar-ahk that is removed from its mother-tribe—kidnapped, abducted, exiled, or otherwise carried at sufficient distance from the tribe's existing fertile spawner—undergoes a slow biological activation, becoming fertile over a period of weeks to months. This is the engine of Grukar fission: the founding of a new tribe begins with this transition, and the infertile Grukar-ahk that has just become fertile begins immediately to lay an opening clutch shaped to the new territory.
+An infertile Ahk carried beyond the reach of the spawner's scent wakes fertile over weeks to months and begins at once to lay a clutch shaped to its new ground. This is how new tribes are made.
 
 ### Tribal Awareness
 
-A fertile Grukar-ahk is in some manner aware of every Grukar in its tribe—counts, locations, status, deaths. The mechanism is unclear to outside observers (one explanation is pheromonal communication through the underground tunnels that connect Grukar settlements; another is something stranger), but the practical effect is that the spawner cannot be deceived about the state of its own tribe, and it knows immediately when a member dies or when a new spawn matures.
+A fertile Ahk knows, in some way outsiders do not understand, the state of every Grukar in its tribe: their numbers, their deaths, the maturing of each clutch. It cannot be deceived about its own tribe.
 
 ### Resilient Constitution
 
-Grukar-ahk are slow, but they are also unusually resistant to bleeding, shock, and ordinary damage. The fertile spawner in particular, with its deep internal architecture, can absorb wounds that would drop a Grukar-Hai of equivalent mass. This is a biological safeguard—a tribe whose spawner dies easily will not last—and it makes assassination of a fertile Grukar-ahk a much harder proposition than its slow movement and rare combat experience would suggest.
+An Ahk is slow but very hard to kill, resistant to bleeding, shock and ordinary wounds, which makes assassinating a spawner much harder than its slowness suggests.
 
 ## Attributes
 

@@ -272,8 +272,6 @@ The ravine floor is black rock and loose scree, and the clump of spines beside t
 
 The Bramblespine Dartel is a small, spined, armored reptile of the black-rock plateau of the [[place-dkrqrrgn|Dikraqor]] and the dry badlands round it, two to four feet at the shoulder and forty to eighty pounds, a carnivore of lizards, hares and birds that is dangerous to people chiefly because it will not get out of the way. It is solitary, it is out at dusk and dawn, and it defends a burrow and a hunting range against anything that comes near them with a lashing tail, a body of spines and a scream that stops a mule on a ledge.
 
-Nobody hunts it for meat. The tribes of the plateau kill one when it has taken up under a cistern they need, and otherwise walk round it.
-
 ## Presentation
 
 A low, barrel-bodied quadruped on short legs, covered from nose to tail-tip in ridged, overlapping scales and spines that run from quarter-inch points along the belly to three-inch spikes down the back and flanks. The tail is thick, muscular and barbed, with the heaviest spine clusters near the tip. The head is blunt and wedge-shaped, with a strong jaw, small round ears set high on the skull and eyes that glow faintly yellow-green in poor light. The coloring is mottled gray and brown with darker patches, the colors of the rock it lives on. A calm Dartel carries its spines flat; an angry one stands them up and looks a fifth larger than it is.
@@ -285,6 +283,10 @@ The Dartel belongs to the mesas, dry ravines and rock cisterns of the Dikraqor, 
 ## Key Behaviors
 
 A Dartel holds a range of a mile or two and keeps to it for years. It hunts at dusk and dawn, lies up under a rock through the heat of the day, and remembers where food was found in past seasons and returns to the place. Two Dartels meeting at a boundary posture and scream at each other and settle it with a brief, vicious exchange of tails; neither dies. Faced with a larger animal it flattens, stands its spines up and screams, and most predators of the plateau have learned to leave it alone. The scream is not under its control: it comes with fear, and a Dartel that is startled screams whether it wants to or not. It avoids people unless they walk up to its burrow or its egg-cache, and then it does not avoid them at all.
+
+## What the Tribes Do
+
+Nobody hunts it for meat. The tribes of the plateau know where each one lies and walk round it, and a herder leading mules past a Dartel's bend goes ahead on foot and taps the rock with a staff, so that the animal screams at him and not under the mules' feet. When one takes up under a cistern a tribe needs, the tribe kills it, from a distance, with slings and long spears, because nobody closes with a Dartel twice. Its spines are kept: a handful bound to a stick makes the comb the plateau women card wool with.
 
 ## Signs
 

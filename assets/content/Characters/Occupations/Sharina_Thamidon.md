@@ -402,8 +402,6 @@ Born in the [[place-helionis|Heliónis]] region to a freeman family of Helionite
 
 Shárîna has always been passionate about mining, inspired by the stories of her family who worked in the industry. She is known for her agility and precision in extracting valuable stones from the rock. Shárîna has proven herself in a male-dominated field, often leading teams of miners and advocating for better working conditions. Her determination and skills have earned her respect among her colleagues.
 
-Now at 28 years of age, Shárîna Thâmîdon has established herself as a known figure among the miners of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

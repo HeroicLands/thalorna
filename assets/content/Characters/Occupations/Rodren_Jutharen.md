@@ -407,8 +407,6 @@ Born in the [[place-tarvenirgn|Tarvénia]] region to a freeman family of Tarvén
 
 Rodrén was a free man until he was captured during a conflict and sold into slavery. He was forced to work in a mine, where he learned to endure harsh conditions. Despite his captivity, Rodrén maintains a rebellious spirit and has attempted to escape several times. His efforts have only led to harsher treatment, but he refuses to give up on the idea of freedom.
 
-Now at 38 years of age, Rodrén Jútharen has established himself as a known figure among the miners of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

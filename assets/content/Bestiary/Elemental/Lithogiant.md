@@ -436,67 +436,79 @@ sohl:
 
 ![[lthgnt|Lithogiant]]{float=top-left}
 
-The ground trembles. What rises before you is the size of a house, then larger—a humanoid figure of solid stone and living earth, perhaps twenty-five to thirty feet in height. Its body is composed of massive interlocked stone blocks and carved rock, with a silhouette of geological strata made animate. Where it moves, the earth shakes, and small stones rattle and bounce from the vibration. Its eyes are burning points deep within a stone head, and when it shifts its weight, entire hillsides seem to shift with it. It regards you with the alien patience of something that measures time in ages of stone.
+The pass is a notch in the ridge, and beyond it the next valley is full of mist. Out of the mist, on the far side, a hill is walking. It is a giant, taller than a watchtower, built of rock and earth and grown over with turf and stunted pine, and it moves with immense slowness, one step and then a long pause and then another. Every step shakes the ground under your feet a mile away. Scree pours off its shoulders. It does not look at you. It looks at nothing; it is going somewhere, along a line only it can see, and the line goes through the pass you are standing in.
 
 # Dossier {#dossier}
 
-A Lithogiant is raw elemental power—an earth elemental of titanic proportions. It is not bound to a specific location but wanders across mountain ranges and high plateaus, following paths that only it understands. Most Lithogiants are solitary and avoid human settlements, but an agitated or territorial one can be an apocalyptic threat to entire regions. A Lithogiant does not hunt; it simply moves according to its own imperatives. Anything in its path is an obstacle to be removed.
+The Lithogiant is an earth elemental of titanic size: a spirit of the earth-aspect manifested as a man-shaped mass of stone and soil twenty-five to thirty feet tall and of a weight past measuring, which wanders the high mountain ranges along paths only it understands. It is usually solitary and usually indifferent to anything as small as a man, and when it is angered or something stands in its way, it is a disaster. One walks the [[place-vylariargn#the-cervaron-spine|Cervaron Spine]], the great arc of high mountains between the Vylarian peninsula and the eastern reaches of Élavendre, which the empire lists as its territory and the Áelendan hold as sacred country. Like every elemental it can be destroyed in the material world, and it comes back, after a very long time.
 
 ## Presentation
 
-A Lithogiant stands twenty-five to thirty feet tall and is composed entirely of stone and earth held together by magic. Its body has a roughly humanoid shape—two legs, a torso, two arms, and a head—but the proportions are strange, shifted toward strength and endurance rather than human likeness. Its surface is jagged and rough, with exposed stone faces and geological patterns visible across its body. Its eyes are deep within its head, burning with a dull orange or red glow. Its hands are massive and stone, and its stride can crack the earth.
+The lithogiant has the rough shape of a man, two legs, a body, two arms and a head, but its proportions shift as it moves, and its body is stone and earth: slabs of granite, boulders, packed soil, gravel, with turf, moss and even small trees growing on its shoulders and back. Its eyes are deep hollows with a faint light far back in them. It moves so slowly that it seems to stop between steps, and every step shakes the ground for miles. When it stands still, it is a crag, and it may stand still for a season. It makes no sound but the grinding of its stone and the rattle of falling scree.
+
+## In the Land
+
+The Cervaron is snow on the peaks, forest in the deep valleys, glacier-fed rivers and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west. The lithogiant walks the length of the range, slowly, over years, from one end to the other and back. It seems drawn to places where the earth's power shows: old standing stones, sites of past earthquakes, glacier springs, places where the rock is strange. It goes over ridges and through valleys alike, and it does not go round anything. Where it has stood for a season, the ground is unstable for years afterward, and landslips and small quakes follow its track.
 
 ## Key Behaviors
 
-Lithogiants are slow-moving but inexorable. They seem to follow invisible paths across mountain ranges, and they seem drawn to places of geological interest—ancient stones, sites of past earthquakes, places where the earth's power is evident. They are not territorial in the normal sense, but they will not tolerate being blocked or redirected. They seem to have no need for food, sleep, or rest. They simply move, endure, and exist. Most encounters involve a Lithogiant passing through a region—the threat being not active aggression but simple unstoppable motion.
+The lithogiant walks its paths and stands still at its stopping places, sometimes for months. It pays no attention to men, herds or caravans that keep out of its way. It does not eat or sleep. When something attacks it or stands across its path, it destroys it, with overwhelming force and without any malice that anyone can see, and then walks on; it does not pursue, but it does flatten what is in front of it. It seems to know when the earth is about to move, and it is sometimes found at a place a few days before an earthquake strikes there. When its body is destroyed, it collapses into a heap of rock and earth, and its spirit takes years, perhaps centuries, to gather itself and rise again.
+
+## What the Clans and the Caravans Do
+
+The [[place-alndntrblnds|Áelendan]] of the Cervaron, whose religion holds the high peaks to be the dwellings of the First Gods, know the lithogiant's paths, and they watch it as they watch the weather. When it comes toward a pass, the clan that holds the pass closes it to caravans and moves its herds off the high pastures, and the passage-gift that Vylarian mule-trains pay at the first camp buys, among other things, the news of where the walker is. The clans do not fight it; one elder says that a people who live on a mountain do not quarrel with it. Vylarian chancery maps mark the range as imperial territory with boundary-stones at the principal passes, and the lithogiant has walked through two of those stones and left nothing standing. The clans regard this as a comment.
+
+## Signs
+
+- A crag or a hill where there was none, on a ridge or in a valley, with fresh scree at its foot.
+- Footprints the size of a threshing floor, pressed deep into turf and stone, at long intervals.
+- Small quakes that come in a slow, regular rhythm, felt underfoot.
+- Landslips and broken ground along a line across a valley, as if something had walked through it.
+- Herds moved off the high pastures and a pass closed to caravans in the middle of the season.
 
 ## Combat Strategy
 
-A Lithogiant does not fight tactically or with cunning. It moves toward its destination regardless of obstacles. If attacked, it defends itself with straightforward, overwhelming force. It will not pursue fleeing opponents but will systematically crush any obstacle that remains in its path. It is too slow to catch fast-moving enemies and does not attempt to do so. It is nearly impossible to injure seriously and continues moving even when partially damaged.
+The lithogiant does not fight with cunning. It walks toward where it is going, and if anything attacks it or stands in its way, it strikes with overwhelming force: crushing blows, earthquakes from its stamp, thrown boulders and ground that buckles and opens under its enemies. It does not pursue those who flee, but it will methodically destroy whatever obstacle is in front of it. Water is its great weakness: flowing water erodes it and a flood or a deep river can do it real harm, and magic of wind can scatter what holds it together.
 
 ## Attack Methods
 
-### Crushing Blows
+### Crushing Blow
 
-The Lithogiant swings an arm or strikes with a hand, and the impact is apocalyptic. The blow carries the weight and momentum of a moving mountain. Victims struck are instantly killed or catastrophically injured. Objects struck are reduced to rubble.
+The lithogiant swings an arm or brings down a fist, with the weight of a moving hillside behind it. A man struck is killed or shattered, and a building struck is rubble.
 
 ### Seismic Stomp
 
-The Lithogiant raises a foot and brings it down with world-shaking force. The impact creates localized earthquakes that ripple outward, causing buildings to collapse, ground to crack, and mounted enemies to be thrown. The effect can extend for hundreds of feet.
+It raises a foot and brings it down, and the ground quakes for a long way round: walls fall, the earth cracks, and riders are thrown.
 
 ### Rock Throw
 
-The Lithogiant picks up boulders or tears chunks from the landscape and hurls them at targets. These projectiles are massive enough to crush buildings and can strike with lethal force against even well-protected targets.
-
-### Ground Manipulation
-
-The Lithogiant can cause the ground beneath it to shift and buckle, creating obstacles, chasms, or unstable terrain that makes movement difficult for smaller creatures.
+It tears boulders and slabs from the mountainside and hurls them, crushing buildings and anything sheltering behind them.
 
 ## Special Abilities
 
+### Ground Manipulation
+
+The ground under it shifts and buckles at its will, opening cracks and chasms, raising obstacles, and turning firm ground to sliding scree under its enemies.
+
 ### Titanic Strength
 
-The Lithogiant's physical strength is beyond the scale of normal creatures. It can move boulders that weigh hundreds of tons, reshape landscapes, and destroy buildings with casual effort.
+It moves boulders weighing hundreds of tons and reshapes the landscape without effort.
 
 ### Seismic Presence
 
-Simply existing, the Lithogiant causes the earth to tremble. Structures nearby experience constant minor earthquakes, and the ground becomes increasingly unstable in areas where it spends time.
+The earth trembles round it, and the ground stays unstable where it has stood.
 
 ### Earth Elemental Resilience
 
-The Lithogiant is composed of stone and is nearly indestructible. It regenerates from earth-based magic and is only truly harmed by water-based magic, which can erode and crack it, or by air-based magic, which can scatter its components.
+Its body of stone and earth is nearly indestructible, and earth magic heals it. Water erodes and cracks it, and wind can scatter it.
 
 ### Geological Awareness
 
-The Lithogiant seems to perceive the earth on a level that humans cannot. It knows the structure of mountains and can sense where the earth is strange. It may move according to knowledge of earthquakes or upheavals about to occur.
-
-## Additional Information
-
-Water is the Lithogiant's primary vulnerability. Large bodies of flowing water can erode it, and sustained water-based magic can crack and damage its form. Settling it into a deep river or causing a flood can harm it significantly. Air-based magic that can scatter its stone components is also effective. A Lithogiant destroyed by dispersal or sinking cannot easily reform. One destroyed on solid earth may regenerate given enough time. Most encounters with Lithogiants cannot be won through combat; the goal is instead to get out of the creature's path or to redirect it toward a hazard (a chasm, a river, a flood). One school of philosophy holds that Lithogiants serve a purpose in reshaping the world according to deeper geological principles beyond human understanding, and that killing one may have consequences beyond the obvious.
+It perceives the structure of the mountains and knows where the earth is strange or about to move, and it walks accordingly.
 
 ## Attributes
 
-- **Strength:** 17-20 (1d4+16)
+- **Strength:** 53-58 (1d6+52)
 
 - **Endurance:** 17-20 (1d4+16)
 
@@ -511,3 +523,5 @@ Water is the Lithogiant's primary vulnerability. Large bodies of flowing water c
 - **Will:** 9-12 (1d4+8)
 
 - **Creativity:** 4-7 (1d4+3)
+
+- **Reasoning:** 4-7 (1d4+3)

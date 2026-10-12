@@ -402,8 +402,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Hvurnvir has spent his whole life on the water, fishing the coastal seas. He is known for his toughness and endurance, and often stays out longer than others to bring in a good catch. Though his body has grown weary with age, he remains a fixture at the docks and is respected for the wisdom of his years. He enjoys telling stories of the sea and teaching younger fishers the ways of the trade.
 
-Now at 54 years of age, he is a known figure among the fishers of Nordheim.
-
 ## Psyche
 
 ### Personality

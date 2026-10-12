@@ -400,8 +400,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a freeman family of Vylarian
 
 Gorâzendîs is a talented locksmith with secret ties to the Velvet Hand. She uses her skills to make locks that are both beautiful and functional, often with hidden mechanisms that only a few know about. While she runs a legitimate locksmith's shop, her connections to the Velvet Hand let her provide unusual services to those in the underworld. She walks the line between legality and crime, using her talents to get by.
 
-Now at 27 years of age, she is a known figure among the locksmiths of Vylaria.
-
 ## Psyche
 
 ### Personality

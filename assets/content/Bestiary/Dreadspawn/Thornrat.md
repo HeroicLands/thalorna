@@ -244,51 +244,67 @@ sohl:
 
 ![[thornrat|Thornrat]]{float=top-left}
 
-A shape no larger than a cat skitters across the underbrush, and in the shadows you catch a glimpse of something wrong—a creature bristling with needle-like spines that cover its entire body like a grotesque suit of armor. Its fur, matted and diseased, hangs in clumps between the spines, and the stench that radiates from it is nauseating—a smell of rot and poison and festering wounds. Its eyes glow with a sickly green luminescence, and as it catches your scent, it hisses, revealing fangs that seem impossibly large for such a small creature and dripping with venom that glows faintly in the darkness. Then, in a blur of motion, the creature launches itself upward, and spines shower outward like a gauntlet of needles aimed directly at you, each one leaving a trail of toxic miasma in the air.
+The caravanserai's dung-yard is a reeking slope of straw, camel dung and refuse behind the stables, and it is moving. Small gray bodies run over it, dozens of them, the size of cats, mangy and bristling. One stops on the yard wall and looks at you. It is a rat, or something like a rat crossed with a mongoose, its fur falling out in patches over gray-purple skin, and it is covered in short, barbed quills. Its eyes are red. It hunches, and the quills stand up, and with a sound like a handful of gravel thrown at a door, they fly. Behind it, the whole yard has stopped moving, and every red eye in it is turned toward you.
 
 # Dossier {#dossier}
 
-Thornrats are plague-bearers and scavengers of corruption, creatures that seem to grow in numbers wherever filth and disease congregate. They are technically small—barely larger than a normal rat—but they punch far beyond their weight through venomous spines, toxic bites, and their uncanny ability to spread sickness and infection. A Thornrat colony can bring disease and death to an entire settlement if left unchecked, and some villages live in perpetual fear of their arrival. They are drawn to rot and decay, nesting in dungheaps, graves, and plague-houses, and they seem to carry numerous diseases. One theory holds that Thornrats are manifestations of disease itself rather than natural creatures, given flesh and hunger by concentrations of corruption.
+The Thornrat is a small dreadspawn in the shape of a mangy, quilled rat, eight to twelve inches high and about twenty-five pounds, which lives in colonies in filth and decay, shoots venomous barbed spines, bites with venomous teeth, and carries disease into every wound. Alone it is a nuisance; a colony is a plague. A colony of them infests the lower quarter of [[place-tahrodan|Tahrodan]], the fortress city of the caravan road and the largest city of the Sultanate of Amradad, where every caravan from the desert interior passes on its way to the coast. Like every dreadspawn they were made, and they cannot breed. The colony came all at once and has not grown; it only spreads.
 
 ## Presentation
 
-A Thornrat stands roughly 8 to 12 inches in height, with a body resembling a rat or mongoose crossed with a porcupine—muscular and lithe beneath a covering of barbed, poisonous spines. Its fur is mangy and diseased, falling out in patches to reveal skin that is sickly gray or mottled purple-black. The spines covering it are the color of old bone or diseased ivory, arranged in overlapping rows, and they seem to continuously regenerate—removed spines quickly grow back. Its head is vaguely rat-like, with whiskers of questionable origin and eyes that glow a sickly green with faint bioluminescence. Its mouth contains fangs of surprising size and sharpness, and they drip constantly with venom that glows faintly. The creature emits a constant, nauseating odor of decay and poison, and anything it touches becomes tainted with a slick, sickly fluid that stains and burns.
+A thornrat is built like a lean, long-bodied rat or a mongoose, muscular and quick, and covered on its back, flanks and tail in short, barbed, poison-tipped spines. Its fur is mangy and falls out in patches, showing sickly gray or mottled purple-black skin with sores on it. Its eyes are small and red, its teeth yellow and long. It smells of rot and sickness. It moves in quick darts and freezes, and when it is threatened it hunches and raises its spines with a dry rattle, and then shoots them, all at once, in every direction.
+
+## In the Land
+
+Tahrodan is a city goods pass through, thirty thousand people inside walls that every caravan must pass, and its lower quarter is caravanserais, stables, tanneries and dung-yards. The thornrat colony lives there, a few hundred strong, in the dung-heaps and refuse-pits, the drains and cesspits, the burial ground outside the walls, and anywhere else that death and filth gather. They eat refuse, carrion and dung, and kill small animals, dogs and sleeping beggars. They are nocturnal. They spread through the quarter along the drains, and individual thornrats ride out of the city in caravan baggage and turn up, singly, at the caravanserais along the road, where they do great harm before anyone knows what they are.
 
 ## Key Behaviors
 
-Thornrats are communal creatures that form colonies, often ranging from a dozen to hundreds of individuals in an infested area. They are nocturnal hunters that seem drawn to filth, decay, and disease. They will nest in dungheaps, grave-earth, sewers, and anywhere that death concentrates. The creatures show a surprising level of coordination for animals of their size—they will work together to coordinate attacks or to herd prey toward better kill-zones. They breed rapidly, and a Thornrat colony can grow out of all control if left unchecked. The presence of a Thornrat colony seems to accelerate disease and decay in an area, as though their very presence poisons the environment.
+Thornrats live in colonies and act together. By night they come out of the dung-heaps and drains to feed, and they range through the lower quarter in packs. They are skittish one at a time and flee from anything large, but a colony together is bold, and it attacks a sleeper, a drunk or a lost child in an alley without hesitation. Every wound they leave festers, and sickness follows them: fevers, fluxes and rotting sores break out wherever a colony settles. They coordinate when they attack, timing their spine salvos and their rushes so that the whole colony strikes together.
+
+## What the City Does
+
+The governor of Tahrodan and the priests of the [[affiliation-ashanpnthn|Āsháian]] fire-temples, neither of whom can rule without the other, agree on the thornrats: they are filth, and fire cleanses filth. The temples send priests with fire into the lower quarter at the new moon to burn out a dung-yard or a drain-mouth, and the governor's soldiers stand guard while they do it. It has never been enough; the colony moves to another heap. The caravanserai-keepers sweep their yards and burn their dung daily, which is the best defense anyone has found. Caravan-masters leaving the city shake out their baggage on the open road a day out, and kill anything that falls out of it. Physicians in the city treat a spine wound by cutting out the barbs and cauterizing the hole, and they are busy.
+
+## Signs
+
+- A dry rattling in a dung-heap or a drain at night, like gravel shaken in a box.
+- Barbed gray spines stuck in a stable door or a sack, each as long as a finger, with a dark tip.
+- Dogs and cats found dead in the alleys with festering sores and spines in them.
+- A run of fevers and rotting wounds in one street of a quarter.
+- Small red eyes, dozens of them, in a refuse-pit at night.
 
 ## Combat Strategy
 
-A single Thornrat is a minor threat, but they are virtually never encountered alone. They attack through a combination of ranged spine projectiles and quick, darting melee strikes with their venomous fangs. The creatures are skittish and will attempt to flee if significantly threatened, but in groups they gain courage and will swarm prey. They coordinate their attacks, launching volleys of spines simultaneously to overwhelm targets, and they use cover and terrain to their advantage. They are fast enough that cornering one requires significant effort, and they will attempt to lead pursuers into areas where other colony members can ambush.
+One thornrat is a minor danger and runs. A colony attacks together: the front rank hunches and shoots spines all at once, the rest dart in to bite and slash at legs and hands, and then they all fall back and shoot again. They pick a victim who is down, asleep or alone. They are skittish and flee when they lose many of their number or when fire comes, and they come back the next night. Fire is the weapon against them: it burns their spines and their skin and scatters a colony, and burning out their heaps is the only way anyone has thinned them.
 
 ## Attack Methods
 
 ### Barbed Spine Salvo
 
-The Thornrat contracts its entire body, launching dozens of razor-sharp, poisonous spines outward in all directions. Targets caught by the barrage suffer multiple shallow wounds and are exposed to the creature's toxins.
+The thornrat contracts its whole body and shoots dozens of barbed, poison-tipped spines in every direction. Each is a shallow wound; together they are many, and every one carries venom and sickness.
 
-### Venomous Bite and Slash
+### Venomous Bite
 
-The creature darts in close, attempting to bite or rake with its fangs and tiny claws. While the damage is minor, the venom injected is potent, and the wounds tend to become infected and inflamed.
+The thornrat darts in and bites at a hand, an ankle or a face, and slashes with its small claws. The wound is small, the venom in it is strong, and it festers.
 
 ## Special Abilities
 
 ### Spine Regeneration
 
-The Thornrat can launch its spines as projectiles and quickly regenerate new ones. The creature never truly runs out of ammunition, making prolonged combat against multiple Thornrats exhausting.
+Its spines grow back fast, and a colony can shoot salvo after salvo through a long fight without running short.
 
 ### Plague Vector
 
-The Thornrat carries numerous diseases and infections. Those bitten or struck by spines are exposed to sickness, and even minor wounds from Thornrats have a tendency to become infected and fester.
+Thornrats carry sickness in their teeth, their spines and their filth. Even minor wounds from them fester, and fevers and fluxes break out where they live.
 
 ### Colony Coordination
 
-When multiple Thornrats work together, they coordinate their attacks with unsettling precision, timing salvos and charges to overwhelm defenses.
+Together they time their salvos and their rushes with uncanny precision and overwhelm a defender from every side at once.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Thornrat's primary weakness—flames damage its spines, burn away the toxic secretions, and cause it pain. A single Thornrat can be dispatched with fire relatively easily, and entire colonies can be eliminated by burning infested areas, though the process is dangerous and time-consuming. The creatures are also vulnerable to disease-neutralizing magic and to poison resistance. In areas where Thornrats infest, preventing infestation means maintaining cleanliness and immediately disposing of corpses, rotting food, and waste. Communities dealing with Thornrat colonies often hire exterminators, though the risk of contracting disease during the process is high. The creatures themselves have no inherent value—their hide is too thin and diseased to tan, and their spines contain so much toxin that harvesting them is extraordinarily hazardous.
+Fire burns their spines and skin and drives them off, and burning their heaps is the one way to thin a colony.
 
 ## Attributes
 
@@ -305,3 +321,7 @@ Fire is the Thornrat's primary weakness—flames damage its spines, burn away th
 - **Will:** 6-9 (1d4+5)
 
 - **Creativity:** 7-10 (1d4+6)
+
+- **Aura:** 3-6 (1d4+2)
+
+- **Reasoning:** 4-7 (1d4+3)

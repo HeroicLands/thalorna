@@ -413,59 +413,75 @@ sohl:
 
 ![[swmpglm|Swampgolem]]{float=top-left}
 
-The swamp itself seems to rise before you—at first you think it is simply a surge of murky water and detritus stirred by some underwater current. Then you see it move with deliberation, with purpose, and you understand: this is something shaped and animated by malevolence rather than chance. A humanoid figure, roughly twelve feet tall, rises dripping from the water, composed almost entirely of mud, rotting vegetation, moss, and things you cannot identify. Its eyes are pools of stagnant water set in a face of crude clay and stone, and as it turns toward you, you feel the weight of its gaze. The smell is overwhelming—centuries of decay concentrated in flesh, the reek of swamps and tombs and things that have rotted for longer than humans have walked upright. With each step, the ground becomes treacherous, and you can hear the squelch and slurp of mud and liquid filth moving with purpose.
+The papyrus closes over the channel so that the reed-boat moves through a green tunnel, and the fowler at the bow has stopped singing. Ahead, the channel opens into a pool, and on the far side of the pool is a bank of black mud as high as a house, studded with old reed-stems and white sticks that are not sticks. The bank leans forward. It pulls itself up out of the water, a shape like a giant man made of mud and rotten reed, bones showing through it like stones in a wall, a boat's broken prow lodged in its shoulder. Water and slime pour off it. It lifts one arm, as long as the boat, and brings it down, and the pool rises in a wave of black mud toward you.
 
 # Dossier {#dossier}
 
-Swampgolems are creatures of corrupted nature and malevolent animation, formed from the accumulated detritus of centuries of swamps—mud, rotting vegetation, bones of drowned creatures, and the accumulated spiritual poison of places where death is constant and life is desperate. A Swampgolem seems animated by the swamp itself rather than alive, as though the wetland has grown a limb to lash out at those who would drain or despoil it. These creatures are found exclusively in deep marshes and ancient swamps where the water is thick and the soil is more decay than earth. They seem boundless in number—destroy one, and another seems to rise in its place weeks or months later, as though the swamp is endlessly capable of generating them.
+The Swampgolem is a dreadspawn made of the marsh itself: a giant twelve to sixteen feet tall and many tons in weight, built of mud, clay, rotting reed and the bones of drowned things, which holds a stretch of swamp and crushes and drowns whatever threatens it. It is not quick and not clever, but it is very strong, it heals while it stands in water, and the marsh fights for it. One holds a part of the papyrus marshes of [[place-garshebztslt|Gar-Shebazet Selat]] in the delta of Aû'Khelâthu, where the fowlers work the open water and the reed-cutters cut the stems that become the empire's paper. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Swampgolem stands roughly 12 to 16 feet in height, its body a roughly humanoid mass of mud, clay, rotting plant matter, and detritus. Its form is never identical twice—composed of whatever materials lay at hand at the moment of its formation. Bones, stones, chunks of partially dissolved wood, and things less identifiable protrude from its surface. Its "skin" is slick and constantly weeping fluid, and the ground around it becomes treacherous with mud and slime. Its face is a grotesque caricature of a head, with hollows where eyes should be—filled with dark water that reflects no light. No mouth is visible, yet the creature can still somehow communicate through grinding sounds and the occasional eruption of muddy fluid. The temperature around it seems to drop, and the air becomes thick and difficult to breathe, heavy with swamp-gas and the stench of decay.
+The swampgolem is roughly man-shaped and vast, a mass of black mud, gray clay and rotting papyrus, held together by something that is not visible. Bones of fish, birds, crocodiles, cattle and men show in its surface, along with stones, broken wood, a pot, an old boat's prow. Its shape is never quite the same twice, because it sheds and gathers mud as it moves. It has a head with two hollows for eyes. It moves slowly, with a sucking, squelching sound, and pours water and slime as it goes. It smells of rot and stagnant water. Lying still in the marsh, it is a mudbank.
+
+## In the Land
+
+Gar-Shebazet's marshes are papyrus, open water and channels, and the chief temple of [[affiliation-shebazet|Shebazet]], the cobra-goddess of the marsh, holds much of them. The swampgolem holds a stretch of the inner marsh, a mile or two of reed-beds, pools and channels round a deep, still pool that is its heart, and it does not leave it. It does not eat in any ordinary way; it draws in the mud, plants and dead things of its marsh and grows on them. It reacts to threats to its ground: boats coming too often, reed-cutters cutting into its beds, fire, and men who fight in its water. Elsewhere in the marsh life goes on as usual. In its stretch, the reed grows thicker than anywhere else.
 
 ## Key Behaviors
 
-A Swampgolem is a territorial creature, though less aggressively so than living predators. It tends to remain in one location, at the heart of a particular swamp or wetland, and it reacts defensively when that territory is threatened. The creature shows some level of awareness and reaction time, but its motivations are unclear—it may be defending the swamp itself, or simply existing in a state of semi-animated stupor. The creature seems dormant most of the time, moving slowly if at all, but it can become rapidly active if provoked or if large-scale intrusion into its territory occurs.
+The swampgolem stays at the heart of its stretch most of the time, lying in its pool as a mudbank. It is territorial in a slow, defensive way: it does not hunt, but when its ground is threatened it rises and attacks whoever is threatening it, crushing them and dragging them under, and then it goes back. It is aware and it reacts, but it is not quick to understand, and it can be confused. Dry weather weakens it, and in the low-water months before the flood it lies deep in its pool and does not come out.
+
+## What the Fowlers and Cutters Do
+
+The fowlers answer a stranger who asks why the goddess is a cobra and the reeds are hers by pointing at the marsh, and they answer questions about the swampgolem the same way. The Warden of the Papyrus Harvest, who blesses and oversees the cutting, leaves the golem's reed-beds uncut, and they are the best beds in the selat, and every season some young cutter goes in after them. The Priest of the Fowling-Grounds forbids fowling in its pool. Boats pass through its stretch only by the outer channels, without stopping, and never during the high-water months, when it is strongest. The temple of Shebazet does not say what the golem is, and a fowler asked whether it is the goddess's says that if it were, it would be a cobra.
+
+## Signs
+
+- A mudbank in a pool that is in a different place on different days, studded with bones.
+- Reed-beds thicker and greener in one stretch of marsh than anywhere round it, and uncut.
+- Bones of cattle, crocodiles and men showing in the mud along a channel bank.
+- A deep, sucking sound in still water with no wind and no animal visible.
+- A reed-boat found upside down and pressed deep into the mud, as if stepped on.
 
 ## Combat Strategy
 
-A Swampgolem fights with methodical aggression, using its substantial mass and strength to deliver crushing blows rather than trying anything requiring finesse. It attempts to push opponents into deeper water or treacherous terrain where its weight is an advantage and their mobility is compromised. The creature is patient, willing to wait and attack at its own pace, seemingly unaffected by prolonged combat or the passage of time. If forced to retreat, it moves toward deeper water where it becomes increasingly powerful and less vulnerable to most forms of attack.
+The swampgolem uses its weight and strength: it brings its fists down on boats and men, and it raises the marsh against them, mud waves and grasping arms of mud from the bottom, to drag them into deep water and drown them. It pushes its enemies toward its pool and the deep channels, where they cannot stand and it can. It is slow and not cunning, and a party that stays on firm ground and keeps its distance can outpace it. Fire is the thing that hurts it: flame dries and cracks its body and stops it healing, and dry ground weakens it.
 
 ## Attack Methods
 
 ### Mud Crush
 
-The Swampgolem raises one of its massive appendages and brings it down with weight and force, attempting to pulverize anything beneath. The impact creates tremors and destabilizes ground around it.
-
-### Slime Sludge Wave
-
-The creature generates waves of liquid mud and thick, adhesive slime, washing enemies with a torrent that attempts to drag them deeper into the marsh while impairing vision and movement.
+The swampgolem raises a huge arm and brings it down, crushing whatever is beneath. The blow shakes the ground, breaks boats and bones, and leaves the mud round it churned and treacherous.
 
 ### Mire Grasp
 
-When enemies are in or near water, the Swampgolem can raise muddy appendages from the ground itself to grasp and drag targets into deeper water or pull them off-balance.
+Arms of mud rise from the bottom of the marsh and seize a man's legs and body, and drag him under and into deeper water, holding him there with crushing force.
 
 ## Special Abilities
 
+### Slime Sludge Wave
+
+The golem sends a wave of liquid mud and thick slime across the water, swamping boats, blinding and choking men, and washing them toward deeper water.
+
 ### Swamp Regeneration
 
-So long as the Swampgolem remains in contact with water and organic material, it slowly heals from damage. Removal from the swamp or extended exposure to drying conditions causes it to weaken.
+While it stands in water and touches mud and rotting plants, it heals slowly. On dry ground or in drought, it weakens.
 
 ### Swamp Camouflage
 
-In thick mud and murky water, a Swampgolem is extraordinarily difficult to perceive, blending completely with its surroundings. Spotting one requires a very sharp eye or magical sight.
+In thick mud and murky water it is a mudbank, very hard to see until it rises.
 
 ### Terrain Mastery
 
-The Swampgolem's presence makes the swamp itself treacherous—mud becomes deeper, footing becomes uncertain, and the very ground seems to work against enemies. In swamp terrain, opponents move slowly and keep their footing with difficulty.
+Round it, the mud is deeper and the footing worse, and men in its marsh move slowly and keep their feet only with difficulty.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Swampgolem's greatest weakness—flames damage its composition directly and prevent it from regenerating. Sustained heat or direct exposure to fire can destroy the creature entirely. Air-based magic is similarly effective, as are drying effects. Removing the Swampgolem to dry land causes it to weaken over time as its mud-based body slowly desiccates. The creature cannot survive indefinitely out of water and will become increasingly sluggish and weak if forced away from its swampy domain for extended periods. In communities neighboring particularly active swamp areas, preventing the formation of new Swampgolems through controlled burning or through the dumping of lime and salt to poison the water is sometimes attempted—though such efforts are typically only temporary, as the swamp always seems to regenerate what was destroyed.
+Fire dries and cracks it and stops it healing, and enough fire can destroy it entirely.
 
 ## Attributes
 
-- **Strength:** 14-17 (1d4+13)
+- **Strength:** 32-37 (1d6+31)
 
 - **Endurance:** 15-20 (1d6+14)
 
@@ -476,3 +492,7 @@ Fire is the Swampgolem's greatest weakness—flames damage its composition direc
 - **Will:** 10-13 (1d4+9)
 
 - **Creativity:** 4-7 (1d4+3)
+
+- **Agility:** 5-8 (1d4+4)
+
+- **Reasoning:** 3-6 (1d4+2)

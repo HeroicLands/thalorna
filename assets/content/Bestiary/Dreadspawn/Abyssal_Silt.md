@@ -186,51 +186,67 @@ sohl:
 
 ![[abysslsl|Abyssal Silt]]{float=top-left}
 
-The air above the ground reeks of char and copper—a caustic stench that makes your eyes water. Something writhes in the darkness, a throbbing mass of midnight blue that catches light as if the depths of the world have pooled here. Fine, thread-like appendages quiver from its surface, tasting the air, sensing. Where it rests, stone itself glistens wet and pitted, the stone dissolving as you watch.
+The pool at the bottom of the sinkhole is black and perfectly still, and the rock round its edge is stained green and rust. There are no reeds in it and no fish, and the bones on the ledge beside it are white and clean. The smell is sharp, like hot copper and burned hair. Then you see that the edge of the pool is closer to your feet than it was, and that it is not water: it is a thick, dark-blue sludge, crawling up the stone against the slope, and fine pale threads are rising out of its surface and turning toward you like the feelers of a snail.
 
 # Dossier {#dossier}
 
-The Abyssal Silt is a predatory ooze born from deep caverns and toxic marshlands, a creature fundamentally wrong—a thing that hungers and calculates. It dwells in darkness, camouflaged by its murky coloration, waiting with patient malice for prey to draw near. Adventurers encounter it lurking in caves, abandoned ruins, or stagnant pools where nothing else dares venture.
+The Abyssal Silt is a dreadspawn in the shape of a living pool: six to eight feet across when it spreads, about two hundred pounds of dark, corrosive slime that hunts by lying still in a dark place and dissolving whatever comes into it. It dwells in the flooded galleries of deep caverns and the black pools of poisoned country, and the place it is best known is [[place-kawiltzaklrgn|K'awiil Tza'kul]], the threshold of the southern wastes of K'ich'chik, where the ground is stained by seeping minerals and the sinkholes hold pools no one drinks from. Like every dreadspawn it was made, and it cannot breed. It is clever after its fashion: it learns where prey comes, and waits there.
 
 ## Presentation
 
-The creature appears as a viscous, dark-blue-to-black sludge, roughly six to eight feet in diameter when spread thin across stone. Its surface roils and shifts, covered in constantly shifting ripples. Thin, translucent tendrils protrude from its mass, each capable of extending ten feet or more. The silt emits a faint, unsettling luminescence in darkness—a ghostly phosphorescent pulse. Where it moves, it leaves a trail of caustic residue; stone pits and organic matter begins to break down. It makes no audible sound except the wet, sucking noise of its movement.
+The Abyssal Silt looks like a pool of dark water until it moves. A closer look shows the surface crawling against the wind and the edges of the pool drawing in. Its color is a deep blue going to black, and in full darkness it gives off a faint, slow, pulsing glow. Fine, translucent threads rise from its surface to taste the air, and it can throw out heavier tendrils ten feet or more. It makes no sound but a wet sucking as it moves. Where it has lain, the stone is wet, pitted and pale, and bone, wood and leather left near it soften and fall apart.
+
+## In the Land
+
+It holds the flooded galleries of the deep caverns and the black pools of the poisoned marshes, and it spreads along drains and seeps into ruins built over either. In K'awiil Tza'kul that means the sinkholes and the mineral pools of the plateau's chaotic descent, the scalding springs where the vents have cooled, and the cisterns under the fortress-temples that guard the road south. A silt keeps to one pool or gallery for years, and can lie in it, unseen and unfed, for months. When it is hungry it roams, creeping along seeps and the damp floors of passages, and comes back. Silts are found apart from each other, never two in one pool.
 
 ## Key Behaviors
 
-The Abyssal Silt is an apex ambush predator of underground ecosystems. It dwells in stagnant water, beneath loose sediment, or plastered against cave ceilings—anywhere it can remain unseen until prey enters its hunting ground. The creature hunts by sensing vibration and chemical traces in the water or soil, feeding on whatever flesh it can dissolve: fish, cave-dwelling creatures, unfortunate adventurers. It exhibits no social behavior; multiple silts in the same region tolerate one another only through spatial separation. When well-fed, it remains dormant for weeks; when hungry, it roams and actively hunts.
+It lies motionless for weeks, spreads under a victim's feet, and feeds on whatever stays still long enough. It feels the vibration of footsteps through wet stone and water and tastes what passes in the water and the air, and it waits until its prey is standing in it or bending over it. Then it closes. It feeds slowly, dissolving flesh and bone, and leaves nothing but metal and a scatter of white bone at the pool's edge. It learns the paths animals and men use to come to water, and moves to lie across them.
+
+## What the Temple Guides Do
+
+The fortress-temples of K'awiil Tza'kul sell passage south, and their guides know every water on the road. They mark the pools they have lost animals to with a ring of stakes and draw water only upstream of them, and a guide tests any still pool with a long pole before a caravan comes near it: a pole that comes out pitted and smoking means the caravan goes round. A pool marked by the stakes is never entered for any reason, and the guides charge more for a road that passes one. Alchemists who come to the plateau to study the poisons of the vents pay the temples well for a jar of silt taken alive, and the guides who fill one with a long-handled ladle of fired clay are paid more than for a season's guiding.
+
+## Signs
+
+- Animal bones, clean of flesh, in a pool with no fish in it.
+- A ring of dead reeds or bare stone around still water, the stone bleached and pitted.
+- A sharp smell of hot copper and burned hair in a cave or sinkhole with no fire in it.
+- Leather, rope or wood left at the edge of a pool found next day soft and rotten.
+- A faint blue glow under the surface of a pool at night, slowly brightening and fading.
 
 ## Combat Strategy
 
-The Abyssal Silt relies on ambush and surprise. It attempts to grapple and immobilize prey with its tendrils before enveloping targets partially or wholly. When threatened by overwhelming force, it fragments itself into smaller entities and flees through tight spaces—a retreat strategy as much as a defensive tactic. It shows no interest in prolonged tactical maneuvers; the silt fights to feed, not to conquer.
+It waits for prey to enter it, then closes over the legs and holds. Once it has a victim it pulls tendrils over him and draws the whole of its mass round him, and it does not let go while it is feeding. Against several attackers it lashes with tendrils to drag the nearest in and keeps the rest back. It cannot be frightened, but it does not fight to the death: badly hurt, it breaks itself into pieces that slide off in different directions into cracks and water, and draws itself back together in the dark days later.
 
 ## Attack Methods
 
 ### Corrosive Envelopment
 
-The creature contracts its mass around a target, attempting to dissolve them with secreted enzymes. Any flesh or organic armor touching the silt is eaten away for as long as the contact lasts, and the creature can hold on for a long while.
+The silt rises over a limb and clings, and the flesh beneath it softens. It contracts its whole mass round a victim's legs or body and eats into him, through leather and cloth, for as long as it holds on, and it can hold on a long time.
 
 ### Lashing Tendrils
 
-Long, elastic appendages whip out to grapple and drag targets closer. Each tendril strike aims to entangle limbs or drag the target toward the silt's central mass for envelopment.
-
-### Fission
-
-When severely damaged, the silt can deliberately split into smaller autonomous entities. Each fragment retains a portion of the original creature's abilities and hungers independently; this increases the number of threats, but the creature's vitality is divided among them.
+Long, elastic tendrils whip out of the mass, wrap round an arm, a leg or a neck, and drag the victim toward the silt's center. Each strike entangles and pulls.
 
 ## Special Abilities
 
-### Corrosive Secretion
+### Acid Secretion
 
-The silt's touch dissolves organic matter with unnatural speed. Wooden shields, leather armor, bone, and flesh all break down when the creature engages in sustained contact.
+Its body eats through leather, cloth and wood in a few breaths, and bone and flesh soon after. Wooden shields and leather armor in sustained contact with it break down and fall apart.
 
-### Sensory Perception Through Fluid
+### Fission
 
-The silt perceives prey through vibration and chemical detection, sensing anything moving in water or touching damp stone within a moderate range. It requires no light and cannot be surprised by visual concealment in its native environment.
+Badly hurt, the silt splits into several smaller pools that flee separately, each with a share of its strength and each hungry. The pieces draw back together into one creature when the danger has passed. A piece that cannot find the rest dries and dies.
+
+### Sensing Through Water
+
+It perceives everything moving in water or on damp stone within a fair distance, by vibration and by taste. It needs no light, and darkness and concealment do not hide anyone from it in its own pool.
 
 ### Regeneration
 
-Exposed to moisture and darkness, the silt regenerates slowly over days and weeks. Lesser wounds heal within hours if undisturbed; more severe damage requires extended rest in its native environment.
+In damp and dark, the silt heals slowly but steadily: small wounds close within hours and great ones over days and weeks. Dried out or in sunlight, it does not heal at all.
 
 ## Attributes
 

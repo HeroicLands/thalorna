@@ -237,63 +237,75 @@ sohl:
 
 ![[thrnbckr|Thornback Raptor]]{float=top-left}
 
-The tap-tap-tap of claw on stone precedes recognition—a rhythmic, eerie clicking that sends primal warning up your spine. The creature steps into view on powerful hind legs, its form undeniably reptilian: sleek, muscular, and covered in mottled green-brown scales that shift with each movement. Jagged bony ridges run the length of its spine, glinting with an ominous light. The yellow eyes are unblinking and intelligent, and as it tilts its head with unsettling fluidity, the mouth opens to emit a sound that is part hiss, part something more—a clicking, chittering vocalization that seems designed to unnerve prey. You notice the claws on each foot curve upward in deadly arcs, clearly specialized for slashing and eviscerating.
+The wall of the old enclosure is head-high and built of fitted stone without mortar, and the grass inside it is long and gold. From the far side of the wall comes a cry: a man's voice, hoarse, calling for help in no language you know. You stop. The cry comes again, from a little to the left, and then, from behind you, a soft clicking. Over the top of the wall rises a head, long-jawed and mottled green and brown, with yellow eyes and a ridge of jagged bone running back from the skull down a neck that keeps on rising. It looks at you and opens its mouth, and the cry for help comes out of it.
 
 # Dossier {#dossier}
 
-The Thornback Raptor is a bipedal reptilian predator standing 5-6 feet tall, found in forests, jungles, and ruins across warm and temperate regions. These pack hunters work together closely and use fear as much as claw and tooth to overcome prey. Adventurers encounter them primarily while exploring ruins, traveling through jungles, or camping near areas where the creatures hunt.
+The Thornback Raptor is a fast, two-legged reptile, five to six feet tall and about a hundred and fifty pounds, with a ridge of jagged bony plates down its spine and a curved slashing claw on each hind foot. It hunts in packs of four to eight, and it hunts with fear as much as with claws: a pack stalks its prey for hours, calls to it from the dark, mimics the cries of wounded animals and men, and attacks when the prey has broken and run. It lives in the green southeastern highlands of the [[place-sthrnsvnhs|Southern Savannahs]], where the grass is tall, the rivers run all year and the ruins stand, and it dens in the ruins.
 
 ## Presentation
 
-The Thornback Raptor is a sleek, muscular predator covered in mottled scales ranging from green to brown to gray, providing excellent camouflage in jungle and forest environments. The distinctive feature is the row of jagged bony ridges running along the spine from neck to tail. The head is proportionally large with forward-facing yellow eyes suited for predatory vision. The mouth contains rows of small, sharp teeth designed for precision cutting. The body is built for speed and agility over raw strength. The legs are powerful and positioned for bipedal locomotion, ending in three-toed feet with curved claws like a bird of prey's.
+A thornback raptor stands on two long, powerful hind legs with its body held level and a long stiff tail behind it for balance. Its scales are small, mottled green, brown and gray, and they blend with tall grass and broken stone. A row of jagged bony plates runs from the back of the skull along the neck, the spine and the tail, and lifts when it is roused. Each hind foot carries one large curved claw, held clear of the ground as it runs. The forelimbs are short and clawed. The head is long and narrow, with yellow, forward-facing eyes and a mouth of small, sharp teeth. It runs very fast in short bursts and turns on the spot. A pack talks constantly in clicks, hisses and low calls, and it can reproduce almost any sound it has heard.
+
+## In the Land
+
+Thornback raptors hold the highland belt of the southeastern savannah, where upland rivers keep the grass tall and the groves thick, and they den in the ruins there: the stone-walled enclosures, the raised platforms and the passageways of a civilization nobody remembers. A pack takes over a ruin, uses its walls as cover and its passages as dens, and hunts the grass and the river-groves for miles round it, following the great herds as they come through to graze. The packs keep away from the open central plains, where there is no cover to stalk from, and from the dense forest of the rainforest margin to the north. A ruin that holds a pack holds it for generations.
 
 ## Key Behaviors
 
-Thornback Raptors hunt in coordinated packs of 4-8 individuals stalking with patience and cunning. They remain just beyond prey's perception, calling to unnerve and confuse. The creatures are intelligent and capable of mimicking sounds of wounded animals or humanoids to lure prey. Packs demonstrate clear hierarchies with alpha individuals directing hunts. Young raptors are trained in pack coordination through mock hunts. The creatures are most active during twilight and night hours.
+A pack hunts at twilight and through the night under the direction of its leading pair. It singles out an animal, follows it at a distance without showing itself, and works at its nerves: calls from different directions, clicks in the dark, the bleat of a lost calf or the cry of a hurt man. When the prey panics and runs, or stops and turns at bay exhausted, the pack closes from several sides at once and the slashing claws do the rest. Raptors are clever and learn: a pack that has hunted men learns their voices and calls with them, and a pack that has been hunted from a ruin moves to another. The young are taught the hunt in mock hunts in the ruins, and the whole pack protects them.
+
+## What the Herders Do
+
+The savannah's hunter-herders know the ruins, and do not talk about them to outsiders; the [[place-cntrlrnfrsts|rainforest]] intermediaries who trade with them have learned not to ask. What the intermediaries have pieced together is that the herders keep their cattle out of the highland belt at night, pen them inside thorn fences when they must graze near a ruin, and keep fires burning and drums going until dawn, because the raptors avoid loud noise and bright light. A herder alone at night who hears a familiar voice call his name from the grass does not answer it and does not go to look. Young men are said to prove themselves by taking a raptor's hind-claw, and the claws worn on cords by savannah traders at the forest margin are the only ones the north has ever seen.
+
+## Signs
+
+- Narrow three-toed tracks in mud by a river, in groups, the prints deep and long with the stride of a running man.
+- Calls at night that sound like a wounded animal or a voice, coming from the grass and then from somewhere else.
+- A cow or antelope found opened along the belly by long clean cuts, and little eaten.
+- Bones and horns heaped inside a ruined enclosure, gnawed and scattered.
+- Clicking in the dark beyond a fire, answering itself from several directions.
 
 ## Combat Strategy
 
-Raptors use sound and fear to weaken prey, then attack with precision strikes. Individual raptors leap and slash with their curved claws, targeting vital areas, then withdraw to allow venom or bleeding to weaken victims. Packs coordinate flank attacks that prevent prey from engaging all threats simultaneously. The raptors avoid prolonged direct combat when possible, preferring to kill through accumulated damage and disorientation.
+A pack wears its prey down before it attacks. It surrounds a party at night, stays just out of the firelight, and calls: hisses, clicks, cries for help in a voice the party knows. It draws men away from the fire one at a time and kills them in the dark. When it does attack it comes from several sides at once, and each raptor slashes and withdraws, letting the bleeding do the work and going for whoever is hurt or alone. It avoids long fights and strong lights, and a raptor cut off from its pack usually runs.
 
 ## Attack Methods
 
 ### Slashing Claw Strike
 
-The raptor executes a high-speed slash with its curved hind-leg claw, designed to disembowel or sever limbs. Multiple strikes in rapid succession can create severe bleeding.
+The raptor leaps or kicks and slashes downward with the great curved claw on its hind foot. The cut is long and deep, opens bellies and thighs, and can cut a tendon and cripple a man. Repeated slashes leave him bleeding heavily.
 
 ### Biting Attack
 
-The raptor's bite is designed for precision rather than crushing, targeting exposed flesh and creating puncture wounds.
-
-### Coordinated Pack Attack
-
-Multiple raptors attack simultaneously from different directions, making comprehensive defense nearly impossible.
+The raptor bites with quick, cutting snaps aimed at exposed skin, the neck, the hands and the face, and its small sharp teeth leave deep punctures.
 
 ## Special Abilities
 
+### Coordinated Pack Attack
+
+The pack attacks from several directions at once, so that a man who faces one has two more at his back and cannot defend against all of them.
+
 ### Predatory Vocalization
 
-Raptors emit clicking, hissing sounds that can be modulated to mimic wounded creatures. These calls work on the nerves of prey.
+Raptors call in clicks and hisses and mimic what they have heard: a wounded calf, a frightened horse, a man's voice calling for help or calling a name. The calls draw prey into the open and work on the nerves of those who hear them.
 
 ### Pack Coordination
 
-Raptors communicate and coordinate their hunts through calls and body language. A coordinated pack is many times as dangerous as its members would be alone.
+A pack talks in calls and body signs and hunts as one under its leaders, and together it is many times more dangerous than its members would be alone.
 
 ### Fear Stalker
 
-Being stalked by raptors for long wears at the mind, bringing on suspicion and confusion that cloud a victim's judgment.
+A party stalked by raptors through a night grows tired, frightened and suspicious, starts at shadows and makes bad choices. That is what the stalking is for.
 
 ### Surgical Precision
 
-Raptor attacks find vital areas with great accuracy, and an exposed target is in particular danger.
+Raptors strike at the belly, the throat and the backs of the legs with great accuracy, and an exposed or unarmored man is in particular danger.
 
 ### Ambush Predator
 
-Raptors are at their most effective when attacking from cover or a hidden position, and a strike from ambush is very hard to meet.
-
-### Additional Information
-
-Raptors are much less dangerous when isolated from pack support. Individual raptors tend to retreat rather than engage determined opposition. The creatures avoid well-lit areas and respond negatively to loud noise that disrupts their vocalizations. Packs that have successfully hunted humanoids become more bold in targeting humans. The creatures' scales can be harvested after death and used for armor or crafting.
+Raptors strike best from cover, out of tall grass or from behind a wall, and an attack from ambush is very hard to meet.
 
 ## Attributes
 

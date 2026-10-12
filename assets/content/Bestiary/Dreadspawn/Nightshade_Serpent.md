@@ -3,7 +3,7 @@ shortcode: nghtshds
 name: {full: Nightshade Serpent, aliases: []}
 type: being
 subType: creature
-description: "A shadow-corrupted serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
+description: "A made serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -188,55 +188,71 @@ sohl:
 
 ![[nghtshds|Nightshade Serpent]]{float=top-left}
 
-The shadows between the stones seem wrong—deeper, more solid than they should be. You catch the glint of something like a jewel, then—movement that was never quite there, a shape that shifts at the edge of vision. The air grows cold and still, and you smell it: something like rotting nightflowers, a scent that makes your skin prickle with primal dread. Then you see the eyes—no, feel them—two points of sickly luminescence in the darkness, ancient and intelligent and empty of anything resembling mercy. A sinuous form rises from shadow itself, scales the color of midnight oil, and the whisper-sound of serpentine movement becomes deafening in your ears.
+The ferryman has stopped poling. The reed-boat drifts in the still channel between two of the shrine-islands, and the lamps of the nearer temple are reflected in water as flat as a plate. On the far bank, under the papyrus, the shadow is deeper than it should be, and it is moving. Out of it slides a serpent as long as the boat, as thick as a man's thigh, its scales midnight blue and black, and the light does not quite settle on it: the scales swim when you look at them sidelong. Its eyes are a sickly green with no pupil in them. It lowers its head to the water and comes across the channel toward you without a ripple.
 
 # Dossier {#dossier}
 
-Nightshade Serpents are apex predators of shadow and darkness, born from the corruption of natural serpents by magical forces that transform them into something far greater and terrible. They are creatures of deliberate malice, possessing an intelligence far beyond that of normal animals and a hunger that goes beyond sustenance—they seem to feed on fear and suffering as much as on flesh. These serpents haunt deep caves, sunken ruins, and places where sunlight rarely penetrates, sometimes moving into civilization to hunt in cellars, crypts, and the darkness beneath cities. A single Nightshade Serpent can bring terror to an entire region as it methodically hunts, leaving behind only drained corpses.
+The Nightshade Serpent is a dreadspawn in the shape of a great snake, twelve to eighteen feet long and as thick as a man's thigh, which hunts out of shadow, poisons with a venom that brings creeping paralysis and pain, and kills by constriction. It is clever and cruel, and it seems to feed on fear and suffering as much as on flesh: it lingers over its kills. One lives among the shrine-islands of [[place-selatleterunome|Selat-Leteru]] in the delta of Aû'Khelâthu, a quiet pilgrimage country of marsh-temples, channels and reed-beds, and the ferrymen who carry the pilgrims know it. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Nightshade Serpent measures 12 to 18 feet in length, its body thick as a man’s thigh and muscled with terrible power. Its scales are midnight blue and black, arranged in fine patterns that seem to shift and flow when observed indirectly, as though the creature exists partially in shadow regardless of lighting. Its eyes glow a sickly phosphorescent green, without pupil or iris, seeing in perfect darkness and burning with visible intelligence. Its mouth opens to reveal fangs of terrible length and sharpness, glistening with venom so potent it smokes faintly in the air. The creature moves with liquid grace, its musculature rippling beneath its scales, and it can contort and compress its body in ways that seem to mock natural anatomy. A faint, nauseating smell of nightshade flowers and grave-earth surrounds it constantly.
+A nightshade serpent is heavy-bodied and powerful, a constrictor's build with a viper's head: broad, flat and wedge-shaped, with long folding fangs. Its scales are midnight blue and black in fine patterns that flow and shift at the edge of sight, so that its outline is never quite clear even in good light. Its eyes glow a pale, sickly green, without pupil or iris. It is silent, and it moves through water and reeds without a sound or a ripple. Where it lies, the shadow is deeper than the light allows, and it steps out of shadow as if out of a doorway.
+
+## In the Land
+
+Selat-Leteru is islands and channels, the temples own much of the dry ground, and sound carries between the islands across the still water. The serpent holds the channels and reed-beds among a cluster of the smaller shrine-islands, lies up by day in the deep shade of the papyrus and in the dark undercrofts of a disused shrine, and hunts by night. It takes waterfowl, fish, cats, the temples' dogs, and pilgrims who walk the island paths after dark. It defends its channels against crocodiles. The cool of the delta winter makes it sluggish; it is most active and most dangerous in the hot months.
 
 ## Key Behaviors
 
-Nightshade Serpents are primarily nocturnal hunters, though they can remain active in deep darkness regardless of time of day. They are territorial, establishing a hunting ground and defending it fiercely from other large predators. Unlike natural serpents, they are not purely ambush predators—they will pursue prey relentlessly, driving it toward terrain disadvantages. They seem to hunt for pleasure as much as for food, often playing with prey rather than killing it immediately. A Nightshade Serpent has been known to toy with a victim for hours, inflicting pain without delivering the mercy of a killing bite. They breed rarely, and a gravid female becomes impossibly aggressive, attacking anything that approaches her nesting site with world-ending ferocity.
+The serpent hunts by night, from shadow, and it does more than wait: it follows prey, drives it toward water or a dead end, and strikes when the prey is cornered. It bites first, and then it waits, following at a distance while the venom works, until its prey is helpless and in pain, and only then does it coil and kill. It lingers over the dying. It is intelligent and remembers: it learns the paths the pilgrims use and the hours the temple lamps go out, and it remembers anyone who has hurt it. It is drawn to fear and to quarrels.
+
+## What the Ferrymen and Priests Do
+
+The ferrymen of the shrine-islands tell pilgrims to keep their hands inside the boat and their voices down, and some of them say the second rule is older than the temples' dislike of argument: that a raised voice on the water at night carries to something besides the priests. Pilgrims are not allowed on the island paths after the temple lamps are lit, and the temples keep lamps burning all night along the landings, because the serpent dislikes the light. The priests of [[affiliation-uznera|Uznêra]] treat a bite with prayer, a cold bath and a tourniquet, and keep the bitten man company through the night, because the pain is the worst of it and fear makes it worse. The disused shrine whose undercroft it lies in has been closed by the temple. The temple's own account of why it was closed does not mention the serpent.
+
+## Signs
+
+- A shadow under papyrus or under a landing that is darker than the light allows and does not move with the reeds.
+- A dog or a cat found dead on an island path at dawn, crushed, with two deep fang-marks.
+- A broad, smooth track through the reeds at the water's edge, and no ripple on the channel beside it.
+- Waterfowl that will not settle on one stretch of channel.
+- Pilgrims who swear they were followed back from a shrine by something they never saw.
 
 ## Combat Strategy
 
-A Nightshade Serpent initiates combat by striking from darkness or obscurement, attempting to land a poisonous bite that will weaken its prey over time. It uses its superior speed and agility to avoid countermeasures, positioning itself where it can strike multiple times without taking damage. Once it has injected venom, it becomes patient, pursuing its weakening opponent at a measured pace, toying with it even as paralysis spreads. The creature is cunning enough to recognize overwhelming force and will attempt to retreat into the deepest darkness if severely wounded, though a cornered Nightshade Serpent fights with suicidal ferocity rather than surrender.
+The serpent strikes from darkness, with no warning, and bites to inject its venom. Then it pulls back into shadow and follows, patiently, while the venom weakens its victim, striking again if anyone tries to carry him away. Once its victim is weak, it coils round him and crushes. It uses its speed to avoid blows and strikes from where a man is not looking. It is uncomfortable in bright light and avoids it. Cold slows it and weakens its venom.
 
 ## Attack Methods
 
 ### Venomous Fang Strike
 
-The serpent’s head strikes like a whip-crack, its elongated fangs driving deep into flesh and injecting an incredible volume of potent neurotoxin. The venom begins its work almost immediately, spreading through the victim’s body in waves of pain and creeping paralysis.
+The head strikes like a whip, the fangs drive deep, and a great dose of venom goes in. The pain begins at once and spreads in waves, and a creeping paralysis follows it.
 
 ### Constricting Coil
 
-Once prey is weakened or immobilized by venom, the serpent coils its massive length around the victim, crushing the life from them with inexorable pressure. Armor provides minimal protection against the absolute force of the creature’s muscular body.
-
-### Shadow Strike
-
-The creature’s connection to darkness allows it to strike from obscurement even in well-lit areas, seeming to flow from shadow itself before striking and retreating back into darkness that shouldn’t exist.
+The serpent throws its coils round a weakened victim and crushes, tighter with every breath he lets out. Armor does little against it.
 
 ## Special Abilities
 
+### Shadow Strike
+
+The serpent flows out of shadow, strikes and flows back into it, even in a lit room, from shadow that should not be deep enough to hide it.
+
 ### Shadow Affinity
 
-The Nightshade Serpent moves through shadows as though they were solid ground, able to disappear into darkness and emerge from any patch of shadow within line of sight. In areas of deep shadow or darkness, the creature is nearly invisible.
+In shadow and darkness it is nearly invisible, and it disappears into one patch of shadow and comes out of another within sight.
 
 ### Venom of Living Nightshade
 
-The creature’s venom is a mixture of neurotoxins that causes creeping paralysis, searing pain, and eventual death. Those bitten find their limbs growing heavy and unresponsive even as the pain intensifies unbearably.
+The venom brings searing pain, limbs that grow heavy and will not answer, and, untreated, death. The pain grows worse as the paralysis spreads.
 
 ### Intelligent Predation
 
-Unlike natural serpents, Nightshade Serpents demonstrate cunning and malice. They learn and remember, exploiting weaknesses in their prey’s defenses and predicting evasive action with unsettling accuracy.
+It learns, remembers and plans, and it anticipates where its prey will run with uncanny accuracy.
 
-## Additional Information
+### Cold and Light
 
-Cold is the Nightshade Serpent’s primary weakness—sustained cold or freezing temperatures slow its metabolism and reduce the efficacy of its venom dramatically. Bright light does not harm it but does seem to make it uncomfortable, and the creature will usually avoid areas of direct sunlight if possible. Holy water and positive magical energy can damage it as well, as though the creature is partially sustained by negative or corrupted forces. The venom, if carefully harvested, is extraordinarily valuable, and poisoners and dark sorcerers alike will pay for it; a single vial can command a fortune from the right buyer. Some legends suggest that Nightshade Serpents are the corrupted remains of ancient serpent-gods, twisted into their current form by some primordial curse. Even in death the creature’s cold smile remains.
+Cold slows it and weakens its venom. Bright light does not harm it, but it avoids it, and it will not stay in sunlight.
 
 ## Attributes
 

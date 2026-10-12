@@ -65,7 +65,7 @@ WHERE type = 'being'
 
 ## Spirit Creatures {#spirit}
 
-Physical manifestations of spirits from the astral realm
+Spirits of the spirit realm that have taken on a physical form in the world.
 
 ```sql
 SELECT address.slug                   AS _ref,

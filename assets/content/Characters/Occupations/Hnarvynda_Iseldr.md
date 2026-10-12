@@ -404,8 +404,6 @@ Born in the [[place-nordheim|Nordheim]] region to a freeman family of Nordheimn 
 
 Hnarvynda grew up in a family of woodcutters and took to the trade naturally. She is known for her quick work and for finding her way through dense forest to the best trees for cutting. She works alongside her brothers, who have come to respect her skill and knowledge of the craft. Despite the physical demands of the job, she enjoys the work and feels free in the forest.
 
-Now at 34 years of age, she is a known figure among the woodcutters of Nordheim.
-
 ## Psyche
 
 ### Personality

@@ -415,59 +415,75 @@ sohl:
 
 ![[cvtrll|Cave Troll]]{float=top-left}
 
-The darkness moves. A shape detaches itself from the shadows of the cave wall—pale, skeletal, impossibly tall. You smell something wild and foul, something ancient and wrong. Then you hear it: a wet, rhythmic breathing that echoes off stone, and the scrape of something sharp—claws, many of them—dragging across rock. Its eyes catch the faint light like mirrors, tiny and bright with hunger, and it smiles. The mouth is too wide.
+The old gallery goes down past the last of the timbering, and your lamp shows bones on the floor: a pony's skull, ribs, a miner's boot with the foot still in it. A wet, rattling breath comes out of the dark ahead, slow and enormous. Then two small lights, blue-white and pupilless, come on at a height well above your head, and under them, as the creature leans into the lamplight, a long pale face with a jaw that hangs open and does not close, full of teeth. Its skin is the color of a fish's belly and faintly shining. A hand comes out of the dark onto the gallery wall, four long fingers with claws like hay-hooks, and grips the rock.
 
 # Dossier {#dossier}
 
-Cave trolls are monstrous apex predators of deep cavern systems and underground kingdoms, powerful hunters that have never seen daylight. These creatures are slow of thought but devastating in combat, relying on senses far keener than any humanoid's to hunt in absolute darkness. Adventurers encounter them in extensive cave networks, at the boundaries between civilized cavern settlements and wild underground territories, and in mountain ranges riddled with deep passages.
+The Cave Troll is a dreadspawn made for the deep places: ten to twelve feet tall, long-limbed and narrow-bodied, pale and faintly luminous, with a jaw full of teeth and claws like hooks, and a body that heals almost any wound. It hunts in total darkness by hearing and smell, and it eats anything it catches. The [[affiliation-motefnir|Faith of Mótefnir]] names the trolls among the god's work without hedging, and the north has more of them than anywhere; the cave troll is the one [[place-norgaad|Norgaad]]'s miners meet when a gallery breaks into old dark. Like every dreadspawn it was made, it is alive, and it does not breed. A troll that has found a way into a mine stays in it until it is killed or driven out.
 
 ## Presentation
 
-The Cave Troll stands between ten and twelve feet tall, its body an exaggeration of predatory form. Its skin is pale, almost translucent in places, with a faintly luminescent sheen—blue-white and veined with darkly discolored areas suggesting corruption. The creature's limbs are long and disproportionately thin relative to its torso, ending in hands with four elongated fingers tipped in curved, razor-sharp claws. Its head is elongated and angular, with a jaw that extends unnaturally far and teeth—rows of them, serrated and wickedly pointed—that never fully close. Its eyes are small, bright, and pupilless, glowing faintly with bioluminescence. The creature produces a constant wet, rattling breathing and the sound of claws dragging against stone as it moves.
+The cave troll is tall and stooped, with a heavy chest and long, thin arms and legs out of proportion to it, so that it moves in a sprawling, spidery way, often on all fours, and fits into passages a man would call too narrow for it. Its skin is pale, almost translucent, with a cold blue-white sheen, veined and blotched darker. The head is long and angular, the jaw hangs too far and never fully closes, and the teeth are many, serrated and pointed. The eyes are small, bright and pupilless, and glow faintly. Each hand has four long fingers ending in curved claws. It breathes with a constant wet rattle that carries a long way underground, and it smells of cold mud and old meat.
+
+## In the Land
+
+Cave trolls live in the deepest cave systems of the [[place-nrdlndsrgn|Nordlands]] mountains, in passages where light has never been, and Norgaad's mining country, which drives galleries into those mountains for the richest iron and silver in the north, keeps breaking into their ground. A troll claims miles of passage, rests in a hidden chamber at the heart of them, and hunts along the routes where prey moves: cave fish and blind crayfish in the underground streams, bats, other dreadspawn, and anything that comes down from above. When a gallery opens into its ground, it comes up the gallery. Troll lairs are known by their bones, and the oldest are deep ossuaries.
 
 ## Key Behaviors
 
-The Cave Troll is a solitary stalker of cavern passages, claiming vast underground territories as hunting grounds. It dwells in the deepest parts of cave systems where light never penetrates, resting in concealed caverns and hunting along established routes where prey gathers. The creature has an almost supernatural ability to track prey by scent and sound alone; it hunts methodically, following prey through passages and waiting for opportunity. It exhibits territorial behavior, attacking any large creature that enters its domain. When successful in a hunt, it drags prey back to its lair to feed. It shows no interest in hoarding or collecting—only hunting and feeding.
+A cave troll hunts by sound and smell. It hears a pick on rock through a mountain, smells lamp-oil and sweat down a long passage, and follows them patiently, sometimes for days, until it can catch something alone. It drags what it kills back to its lair and eats there. It is not clever, and it does not plan beyond the next kill, but it learns where prey comes and how. It attacks any large creature that enters its ground. Daylight hurts and weakens it, and long exposure kills it, and it never comes out into the open by day.
+
+## What the Miners Do
+
+The mining camps of Norgaad treat a troll the way they treat bad air: as a danger of going deep, to be watched for and never argued with. A gallery that breaks into an open cavern is not worked further until a party with lamps has gone in and looked, and a camp that finds troll bones in a new working seals it with a wall of stone and earth and moves its digging. Every gallery has a fire-pot at its mouth and a bucket of pitch beside it, because fire is the one thing that stops a troll healing. When a troll does get into a working, the camp sends to the valley for men, and they go in with torches, burning pitch and long spears, in daylight, to drive it toward the surface; a troll driven into the sun is a dead troll. A troll's skull, cleaned and set over a hof door, is an offering the Mótefnir faith holds in honor.
+
+## Signs
+
+- A slow, wet, rattling breath echoing up a gallery from somewhere deep below.
+- Bones heaped in a side passage: animal, dreadspawn and human, cracked open for the marrow.
+- Long, four-fingered claw marks on the gallery walls at well above head height.
+- A smell of cold mud and rotten meat drifting up a shaft on the draft.
+- Lamps that go out in a deep working, and the men carrying them who do not come back up.
 
 ## Combat Strategy
 
-The Cave Troll attacks from darkness and concealment, using its sensory advantage to identify and target prey before they can react. It charges when close enough to strike, relying on overwhelming strength and viciousness. When struck by weapon or spell, it responds with blind fury, attacking wildly without tactical consideration. It does not flee from combat except when severely injured or facing apparent death; it will pursue fleeing prey through cavern passages where its movement advantage is greatest, but ceases pursuit if prey reaches open ground or sunlight. It sometimes uses its horrifying roar as a weapon, attempting to panic or disorient groups of foes.
+A troll attacks from darkness, after it has located its prey by sound and smell and before the prey knows it is there. It charges, claws and bites, and once it is hurt it fights in a blind fury, attacking whatever is nearest without care for itself. It roars in confined passages to panic and scatter a group. It does not flee unless it is near death, and it chases fleeing prey through the passages it knows, but it stops at open ground and at daylight. Fire and strong light are a party's best weapons: fire stops its healing and light confuses its senses.
 
 ## Attack Methods
 
 ### Raking Claws
 
-The troll slashes viciously with its fore-claws, attempting to tear through armor and flesh alike. Multiple claw strikes in rapid succession are the creature's preferred pattern of attack.
+The troll slashes with both clawed hands in quick succession, tearing through mail rings and leather and opening long, deep wounds.
 
 ### Terrible Bite
 
-The troll lunges with its oversized jaw, attempting to seize and crush prey or tear away entire limbs. This bite does devastating harm and—if the creature successfully grapples with prey—can be held while the troll shakes and worries the victim.
-
-### Shocking Roar
-
-The creature emits a deafening, inarticulate howl that reverberates through cavern passages. This roar causes disorientation and panic in those who hear it and can temporarily deafen sensitive creatures.
+The troll lunges with its huge jaw and bites a limb or the body, crushing and tearing. If it has hold it keeps hold and shakes, and it can tear away an arm.
 
 ## Special Abilities
 
-### Darkvision and Sensory Dominance
+### Shocking Roar
 
-The Cave Troll perceives its subterranean environment through a combination of acute hearing, a keen nose, and subtle bioluminescent sight. It functions perfectly in absolute darkness and holds a significant advantage in any underground environment. Light sources disorient and weaken it; in bright light it perceives poorly and its attacks go astray.
+The troll roars, a deafening, shapeless howl that fills the passages. Those who hear it close are dazed and can be panicked, and the roar leaves them half deaf for a while.
+
+### Sensory Dominance
+
+It hunts by hearing, smell and a dim sight of its own, and it fights perfectly in absolute darkness. Bright light confuses it: in strong light it perceives poorly and its blows go wide.
 
 ### Regeneration
 
-The troll's body heals with supernatural speed. Minor wounds close within minutes; more serious injuries regenerate within hours if undisturbed. Sustained damage from fire or magical effects halts regeneration temporarily. True death requires either total destruction (severing the body into pieces that cannot reattach) or exposure to sustained sunlight.
+The troll heals astonishingly fast. Small wounds close within minutes and terrible ones within hours. Fire stops its healing for as long as the fire lasts, and only burning, dismemberment past rejoining, or daylight will kill it for good.
 
 ### Tunnel Supremacy
 
-The Cave Troll's thin frame allows it to navigate tight cavern passages that would be impassable to wider creatures. It moves through vertical shafts, narrow chimneys, and complex tunnel networks with ease, giving it pursuit and escape advantages in underground terrain.
+Its narrow body and long limbs take it through tight passages, up chimneys and down shafts that would stop a man, and it moves through a cave system faster than anyone following.
 
-## Additional Information
+### Sunlight Weakness
 
-Cave trolls fear sunlight more than any other force—extended exposure to bright daylight can weaken and eventually kill them. They also show unusual vulnerability to fire, which prevents regeneration entirely as long as it's sustained. Most cave troll lairs are marked by the bones and torn armor of previous meals, creating a distinctive and disturbing sign. Some very old lairs have become cavern ossuaries of immense depth.
+Daylight weakens a cave troll at once and kills it if it stays in the light. It never comes into the sun of its own will.
 
 ## Attributes
 
-- **Strength:** 30-35 (1d6+29)
+- **Strength:** 26-31 (1d6+25)
 
 - **Endurance:** 28-33 (1d6+27)
 

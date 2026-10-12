@@ -3,7 +3,7 @@ shortcode: glmfng
 name: {full: Gloomfang, aliases: []}
 type: being
 subType: creature
-description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
+description: "A made rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -244,59 +244,71 @@ sohl:
 
 ![[glmfng|Gloomfang]]{float=top-left}
 
-Eyes catch your torchlight first—dozens of them, rings of luminescent violet that hover at shoulder height in the darkness. Then you see the creatures themselves: hunched, rat-like things the size of large dogs, covered in matted fur that might once have been brown. Teeth fill their mouths in irregular rows, and they move with skittering, jerky energy that seems neither quite natural nor entirely corrupted. They surround you in a loose circle, no sound but the rustle of movement and the constant, hungry breathing. They are waiting for something.
+The hall cut into the hillside is dry, and that is a mercy after three days of bog: dry floor, a stone bench along the wall, the remains of a fire someone else made. You are unrolling your blanket when the first eyes come on in the passage at the back of the hall, two greenish points low to the floor. Then two more beside them, and four more behind, and then the passage is full of them, pairs and pairs of glowing eyes, and a chittering starts up all together, rising and falling as if they were talking. The first one comes into the firelight on all fours: a rat as big as a wolfhound, matted and filthy, its head too large and its yellow teeth too long for its mouth.
 
 # Dossier {#dossier}
 
-Gloomfangs are pack predators of deep caverns, creatures of collective hunger and coordinated viciousness. These corrupted rodent-things hunt in organized packs under a hive-like intelligence, attempting to overwhelm prey through numbers and coordinated tactics. Adventurers encounter them in cave systems, in abandoned mines, in deep passages where they have claimed territories as their own.
+The Gloomfang is a dreadspawn made in the shape of a giant rat, the size of a big dog, that hunts in packs under a single will. A colony of them holds a cave system or an abandoned working, hunts what comes into it and what lives round it, and attacks in coordinated waves. The colony the deer-herders and seal-hunters of the [[place-gwtkrrgn|Gwatekor]] fear lives in one of the [[place-nrthnhlds|Old Holds of the Northern Taiga]], the cut-stone halls in the northern forest that nobody has surveyed. Like every dreadspawn, gloomfangs were made and cannot breed. A colony was made all at once, and it has never grown: every gloomfang killed is one fewer, for good.
 
 ## Presentation
 
-A Gloomfang is a twisted rodent roughly the size of a large dog, standing five to six feet at the shoulder when reared upright. Its fur is matted and dirty brown, streaked with darker patches of old blood or ichor. Its body is lean and muscular, built for rapid movement rather than power. Its head is disproportionately large, filled with yellow-brown fangs that never quite fit behind its jaws. Its eyes are the most distinctive feature: bioluminescent rings of violet or sickly green that glow in darkness. Its tail is long, naked, and prehensile, capable of independent movement and used for balance and communication. Its claws are curved and sharp, adapted for climbing and slashing. Gloomfangs produce a constant, unsettling chittering sound when at rest and move with rapid, jerking motions.
+A gloomfang is a lean, long-bodied rat as big as a wolfhound, five to six feet tall when it rears on its hind legs. Its fur is matted dirty brown, stiff in places with old blood. The head is too large for the body and the jaws too full of long yellow-brown teeth to close properly. The claws are long and curved and grip rock like a squirrel's grip bark. The eyes glow a faint greenish yellow, and in the dark a colony is a field of paired lights. Gloomfangs chitter constantly among themselves, in rising and falling bursts that sound like speech, and they smell of musk, wet fur and rot.
+
+## In the Land
+
+The Gwatekor is the cold forest of the northern Khazryn, dark spruce, unthawing bog and long frozen lakes, and the Old Holds in it are cut stone under moss and dry halls in hillsides, the best shelter for forty miles. The gloomfang colony holds one: its galleries and the caves behind it, which run deeper than anyone has followed. By day the pack stays deep, away from light. By night it hunts the forest for miles round, deer, wolves, seals hauled out on the coast and the deer-herders' animals, and it comes back before dawn. Herders who have lost animals near a certain hillside, where moss lies over squared stone and the deer will not graze, have stopped taking their herds there.
 
 ## Key Behaviors
 
-Gloomfangs are pack animals that operate under a distributed, hive-like intelligence. Each individual pack seems to answer to a larger alpha or queen, and packs in close proximity may coordinate across distance. They are active hunters that spend most daylight hours in deep caverns away from light, but they will hunt at surface level in darkness. They establish territories and aggressively defend them from both other packs and large predators. They are primarily scavengers that eat nearly anything, but they will hunt living prey when opportunity provides. When hunting, they use coordinated tactics—separating individuals, driving prey into traps, using their numbers to overwhelm defenses. Pack size ranges from three or four individuals to dozens in large colonies.
+A gloomfang pack moves and thinks together, as if one mind looked out through every pair of eyes, and the colony as a whole answers to one creature larger than the rest. They are tireless, they climb walls and cave roofs as easily as floors, and they hunt by wearing prey down: a pack follows a deer or a man for miles, attacking in waves, falling back, and attacking again from a new side. They defend their hold against everything. They have learned to take particular prey, the herders' young animals and the seals in the pupping season, and they have learned that a dry hall brings travelers in to sleep.
+
+## What the Northern Bands Do
+
+The small bands of the northern forest have no chiefs and no towns, and they deal with the gloomfangs the only way they can, by staying away. A hunter of the bands tells a stranger the one rule: never sleep in a dry hall, however wet the night, because a dry hall is a door, and nobody knows what is on the other side of it. Herders move their animals away from the hold's hillside before the long dark of winter, when the pack hunts farthest. The bands have learned that fire and strong light break the pack's coordination and drive it back, and anyone who must pass near the hold at night carries pitch torches and keeps them burning. The coast-hunters say the sea keeps what it is given, and they say the hold keeps what it is given too.
+
+## Signs
+
+- Pairs of greenish lights in a dark passage or among the trees at night, many of them, all moving together.
+- Chittering in bursts that rise and fall like speech, coming from underground.
+- Deer and seal carcasses stripped to the bone in a night, with the gnawing of many large teeth.
+- Claw marks on the walls and ceiling of a cave as well as on its floor.
+- A dry hall with old fires in it and gnawed bones under the bench, and no sign of who made the fires.
 
 ## Combat Strategy
 
-Gloomfangs attack in coordinated waves, using the pack's first wave to wound and distract while subsequent waves move to flank and surround prey. They are not mindlessly aggressive; they withdraw individuals if a wave proves ineffective and try different angles of attack. They are particularly dangerous in confined spaces where their coordination is an advantage and flight is impossible. If a pack member is killed, the others redouble their attacks with apparent fury. Packs will continue pursuing prey only as long as the prey remains within claimed territory; pursuit ceases at territorial boundaries.
+A gloomfang pack attacks in waves. The first wave rushes in to bite and claw and distract, while the next moves round to the flanks and the rear, until the prey is surrounded. Then they drag it down by weight of numbers and tear at it. They withdraw from a wave that is not working and come again from a different angle, and they redouble their attack on anyone who kills one of them. They are worst in confined spaces, where there is nowhere to run. Fire and bright light disrupt them, and killing the large one that leads them scatters the pack, for a time.
 
 ## Attack Methods
 
-### Coordinated Bite Strikes
+### Coordinated Bite
 
-Multiple Gloomfangs snap forward in rapid succession, attempting to bite and tear at exposed flesh. The effectiveness of these attacks increases dramatically when the victim is surrounded or grappled.
+Several gloomfangs bite in quick succession from different sides, tearing at exposed flesh, and the bites land worse and worse as the victim is surrounded or pulled down.
 
 ### Claw Slashing
 
-The creatures rake with their curved claws, attempting to open wounds and cause bleeding. Claws are capable of tearing through leather armor and soft flesh with ease.
-
-### Pack Tackle
-
-The Gloomfangs attempt to drag targets to the ground through coordinated assault, using numbers to overcome resistance. Once a target is down, the pack focuses attacks on vulnerable areas.
+They rake with long curved claws that tear through leather and open bleeding wounds, climbing onto a victim as they slash.
 
 ## Special Abilities
 
+### Pack Tackle
+
+Several gloomfangs throw themselves at one man together to drag him to the ground. Once he is down, the pack goes for his throat, his face and his belly.
+
 ### Darkvision Dominance
 
-Gloomfangs navigate and hunt effectively in absolute darkness. Their bioluminescent eyes allow them to see perfectly in darkness while also allowing them to see in normal light. They are not significantly hampered by any light condition.
+Gloomfangs see perfectly in total darkness and nearly as well in ordinary light, and no light condition hampers them much, though bright light and fire distress them.
 
 ### Pack Coordination
 
-Individual Gloomfangs are not particularly intelligent, but the pack operates under a form of distributed intelligence. A pack decides and moves together far better than any of its members could alone. The loss of a pack leader causes temporary coordination loss; the pack regains focus once a new hierarchy establishes.
+The pack thinks as one under the colony's leader. Killing the leader throws the pack into confusion until another takes its place.
 
 ### Endurance and Resilience
 
-Gloomfangs can sustain intense activity for extended periods without tiring. They resist poison and disease well, thanks to their hardy constitution. They can pursue prey relentlessly, matching or exceeding human endurance.
+They do not tire, they shrug off poison and sickness, and they follow prey for longer than a man can run.
 
 ### Climbing and Vertical Movement
 
-Gloomfangs' claws and physical form allow them to climb vertical surfaces and navigate three-dimensional terrain as easily as ground movement. This gives them advantage in pursuing or escaping across varied terrain.
-
-## Additional Information
-
-Bright light and fire-based attacks disrupt pack coordination and cause apparent distress to the creatures. Light sources can be used to drive packs away or force them to regroup. Gloomfang colonies are centered around a single queen or alpha, and destroying the leader can scatter packs that would normally maintain organization. Some colonies have been observed harvesting specific prey species rather than hunting randomly, suggesting learned behavior and possibly long-term planning.
+They climb walls and run along cave roofs as easily as along the floor, and they come at a man from above as readily as from the side.
 
 ## Attributes
 

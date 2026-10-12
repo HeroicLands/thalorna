@@ -273,71 +273,83 @@ sohl:
 
 ![[embermaw|Embermaw]]{float=top-left}
 
-Before you, the ground itself seems to become molten. A creature writhes upward from heat-shimmer and flame—vaguely reptilian, perhaps twelve feet from snout to tail, composed of roiling lava and burning rock held in a rough dragon shape. Its mouth opens to reveal an interior of pure flame and magma-drip. The heat is overwhelming, a physical force that forces you to squint and turn your face away. With each movement, cracks form in the earth beneath it, glowing orange-red from within.
+From the rim of the caldera the lake of lava below is crusted black and cracking orange, and the heat comes up in waves that make the far wall swim. Something is moving on the crust. It crawls up out of a crack in the lava as if out of water: a reptile as long as two men, built of molten rock, its body glowing red and orange through a skin of black cooling stone that splits and reforms as it moves. Its head swings up toward the rim. Its eyes are two holes into white heat. It opens its jaws, and a sound like a forge-bellows comes out, and then a gout of flame and burning rock that reaches halfway up the caldera wall.
 
 # Dossier {#dossier}
 
-Embermaws are elementals of pure molten heat and destructive fire, more powerful than their smaller cousins the Emberhounds. They are drawn to volcanic regions and places of extreme geothermal activity, where they feed on the earth's own fire. An Embermaw is driven as much by hunger as by territorial aggression. They are not mindless—they plan hunts and understand tactics—but their primary motivation is destruction and consumption. An Embermaw encountered in the wild is almost certainly a threat that will need to be fought or avoided entirely.
+The Embermaw is a great fire elemental: a spirit of the fire-aspect that manifests as a twelve-foot reptile of living lava and burning rock, drawn to volcanoes and places where the earth's own fire comes close to the surface. It feeds on that fire, it attacks almost anything that comes into its ground, and it ruins the land round it simply by being there. It is the larger and more dangerous cousin of the [[being-embrhnd|Emberhound]]. One holds a caldera among the volcanic peaks along the eastern edge of [[place-balamkulrgn|Ix'ilankul]], the highland heart of the K'ich'chik faith, whose eruptions the priests remember as moments when the gods grew angry. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 
-An Embermaw is a draconic creature roughly twelve feet long, composed entirely of living lava and burning rock. Its body is a shifting mass of orange-red molten matter held in reptilian shape by forces not entirely understood. Its scales appear to be cooled basalt on the surface but glow orange from cracks where molten interior is visible. Its eyes are pools of white-hot lava that burn with intelligence and hunger. Its mouth opens to reveal an interior filled with flame and dripping magma. Where it moves, the ground cracks and melts, and everything flammable ignites from proximity.
+The embermaw is shaped like a great heavy lizard or a wingless drake, with a broad head, short powerful legs and a long tail, and its whole body is molten rock: glowing orange-red where it flows, crusted black where it cools, splitting and reforming as it moves. Its eyes are white-hot. Smoke and sulfur fumes stream off it. It moves through lava as a crocodile moves through water and over cooled rock with a heavy, cracking crawl, and it leaves a trail of fresh rock behind it. The heat round it is enough to kill a man who stays near, and the noise of it, hissing, cracking and roaring like a furnace, can be heard a long way off.
+
+## In the Land
+
+The Ix'ilankul plateau rises in high valleys between volcanic peaks, and a north-south spine of them marks the region's eastern edge, rich with obsidian and lined with cloud forest. The embermaw holds one of the calderas in that spine, a crater with a lava lake in it, and the slopes round it, and it ranges down the slopes in times of eruption and back up as the lava cools. It feeds on the earth's fire; it does not need to eat, but it hunts anyway, and burns what it catches. Where it goes, forest becomes ash, streams boil away and rock cracks and melts, so that the slopes of its peak are bare black stone in a mountain range otherwise green.
 
 ## Key Behaviors
 
-Embermaws are solitary, territorial creatures that claim volcanic regions or places of intense heat as their own. They are extremely aggressive and will attack almost any intrusion into their territory. They hunt actively, pursuing prey across broken ground and using the landscape to their advantage. They are drawn to sources of fuel and will consume anything flammable in their path. Unlike smaller fire elementals, they seem to take satisfaction in destruction for its own sake. An Embermaw will often destroy settlements or forests for no reason other than the simple pleasure of immolation. They are intelligent enough to lay ambushes and to understand the weaknesses of their enemies.
+An embermaw is solitary and territorial, and it attacks almost any intrusion into its ground. It hunts actively when it is out of the lava, running down deer and peccary on the slopes. It grows stronger when the volcano is active and quieter when it is calm. It does not tolerate other fire elementals in its caldera and drives them out. When its body is destroyed, it collapses into a pool of cooling rock and is gone, and after a time, months or years, it rises again out of the same lava.
+
+## What the Priests Do
+
+The Ch'ul'bal, the ordained priests of Ix'ilankul, read the calderas as they read the heavens, and the embermaw's caldera is one where the gods' anger is remembered. The priests do not hunt it. They make offerings at the rim at the appointed days of the calendar, cast down into the lava, and they read the creature's movements as part of the volcano's temper: an embermaw that comes down the slope means the mountain is waking. The obsidian gatherers who work the lower slopes keep a watch on the rim, and when the creature comes out they abandon the slope at once, because obsidian can wait and the embermaw cannot be outrun once it is close. The farming villages of the valley below keep their terraces watered and their canals full, because a stream of water is the one thing that has turned it back from the fields.
+
+## Signs
+
+- A volcanic slope bare and black in a range otherwise green with forest.
+- Streams that run dry where they cross a slope, their beds steaming.
+- Fresh rock, still warm, in a long trail down a mountainside, with no lava flow above it.
+- A deep, bellows-like roar from a crater, carried on the wind.
+- Smoke and sulfur fumes far stronger than the volcano's own, rising from one place on its flank.
 
 ## Combat Strategy
 
-An Embermaw fights with relentless aggression, using its strength and size to overwhelm opponents. It attacks from protected positions in lava or among volcanic rock, using terrain as cover and advantage. It is fearless and will pursue a wounded opponent to the death. Against cold and water attacks, it becomes more cautious and may withdraw to deeper heat sources. It fights most effectively in volcanic or heated terrain where it can draw power from the environment. An Embermaw rarely retreats and fights until destroyed or until all enemies flee.
+An embermaw fights from the lava or among hot rock, where it is strongest and heals as it fights. It breathes fire and burning rock over everything in front of it, bites, and sweeps its tail through anyone close. It is fearless and pursues a wounded enemy. It is weakest away from heat, on cold wet ground, and cold water hurts it badly: a stream, a canal, a downpour, or cold worked by magic slows it, cracks its crust and drives it back toward the lava.
 
 ## Attack Methods
 
 ### Fire Breath
 
-The Embermaw exhales a torrent of flame and molten lava that devastates everything in its path. The attack is terrifyingly powerful, capable of immolating entire areas and melting armor and weapons. Multiple targets caught in the breath suffer equally, and the lava lingers, creating hazardous terrain.
+The embermaw breathes a torrent of flame and molten rock over everything in front of it, burning flesh, melting armor and weapons, and setting the ground alight.
 
 ### Ember Bite
 
-The Embermaw's jaws close with crushing force around a victim, and the victim is simultaneously crushed and immolated. The bite causes terrible physical damage and severe thermal burns, and the victim remains in contact with molten matter while held.
-
-### Magma Spray
-
-The creature rears back and sprays molten magma and burning debris in a wide arc. This attack does less harm than the breath but covers a wider area and can catch multiple opponents at once.
+Its jaws close on a victim and crush and burn at once, and molten matter clings to the wound and goes on burning.
 
 ### Tail Whip
 
-The Embermaw swings its lava-composed tail in wide arcs, striking with tremendous force. The tail leaves trails of burning lava and can ignite surrounding terrain.
+The lava tail sweeps in wide arcs with tremendous force, knocking men down and leaving a trail of burning rock.
 
 ## Special Abilities
 
+### Magma Spray
+
+It rears and sprays molten rock and burning debris in a wide arc, catching many at once, less fiercely than its breath.
+
 ### Molten Composition
 
-The Embermaw's body is composed of living lava, making it essentially immune to fire damage. It heals from fire-based magic and is harmed primarily by cold and water. Physical weapons are largely ineffective due to the flowing nature of its form.
+Fire does not harm it and fire-based magic heals it. Weapons pass into its flowing body with little effect. Cold and water are what hurt it.
 
 ### Lava Mastery
 
-The Embermaw can move through lava as easily as water, and it draws strength from volcanic activity. In regions of active volcanism, it becomes more powerful and more difficult to harm.
+It moves through lava like water, and in active volcanic country it is stronger and harder to harm.
 
 ### Heat Aura
 
-The ambient temperature near an Embermaw is extreme. Within fifty feet, the air itself is hot enough to cause pain. Exposed skin burns from proximity, and flammable materials ignite without direct contact.
+Within fifty feet the air is hot enough to cause pain, exposed skin burns, and anything that will burn catches fire without being touched.
 
 ### Environmental Destruction
 
-Everywhere the Embermaw goes, the landscape is transformed. Forests become ash, water sources are evaporated, and stone cracks and melts. The destruction is not tactical but rather an inevitable consequence of its presence.
+Forests become ash, water boils away and stone cracks and melts wherever it goes, whether it means to destroy or not.
 
 ### Thermal Regeneration
 
-The Embermaw can regenerate wounds by immersing itself in lava or standing near sources of extreme heat. An Embermaw cornered away from heat sources becomes more vulnerable, but an Embermaw with access to lava can heal injuries at a tremendous rate.
-
-## Additional Information
-
-Cold is the Embermaw's primary weakness. Large bodies of cold water can harm it significantly, and sustained cold-based magic can reduce its effectiveness. An Embermaw cannot remain in frozen terrain for extended periods—the cold causes it to become sluggish and eventually dormant. Some fortifications are built with cold-resistant materials and anti-fire barriers specifically to counter Embermaw threats. An Embermaw destroyed far from volcanic heat may not reform, depending on its origin. One destroyed near lava or in volcanic regions will likely return after several seasons. Permanent destruction requires either taking it far from all heat sources and destroying it, or collapsing its location into deeper magma where it will be carried away into the earth's depths.
+In lava or beside great heat it heals very fast. Away from heat it heals slowly, and in cold it weakens.
 
 ## Attributes
 
-- **Strength:** 11-14 (1d4+10)
+- **Strength:** 28-33 (1d6+27)
 
 - **Endurance:** 13-16 (1d4+12)
 

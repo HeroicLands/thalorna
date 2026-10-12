@@ -436,59 +436,75 @@ sohl:
 
 ![[mntntrll|Mountain Troll]]{float=top-left}
 
-The stone beneath your feet trembles before you see it—a tremor that runs through your bones and teeth. Then shadow falls across the mountainside as a mass of gray, weathered stone and twisted flesh rises against the gray sky. The creature towers fifteen feet or more, its hide the color of storm-worn granite, scarred and cracked like ancient bedrock. You hear the grinding of stone on stone as it moves, a terrible sound that echoes off cliff faces, and beneath that sound, the wet, heavy breathing of something massive and old. The air grows cold and smells of cave-depths and mineral dust.
+The pass is a notch of bare rock between two shoulders of snow, and the cairn at the top of it is the size of a house. Then the cairn stands up. It goes on standing up, rock grinding on rock, until it is three times the height of a man and blots out half the sky: a giant with skin like cracked gray leather veined with darker stone, boulders grown out of its shoulders, a head like a slab. Dark fluid weeps slowly from the cracks in its hide. It looks down at you without hurry, takes one step, and the whole pass shudders under your feet, and the snow on the shoulder above you begins to slide.
 
 # Dossier {#dossier}
 
-Mountain trolls are the eldest guardians of the high peaks, creatures of such primordial weight and power that they seem carved from the mountains themselves rather than born of flesh. They roam the alpine heights, deep caverns, and windswept ridges in solitary dominion, claiming vast territories and tolerating no other large predators within their realms. A Mountain Troll's diet is omnivorous and prodigious—it consumes whatever it can catch or kill, from mountain goats to unwary travelers, and its bulk requires constant feeding. These creatures are long-lived, possessing lifespans measured in centuries; old Mountain Trolls bear the scars of innumerable battles cut into their hides like a record of their dominion. Their strength is matched only by their stubborn, almost invulnerable endurance, making them nearly impossible to kill through conventional means.
+The Mountain Troll is the greatest of the trolls: a dreadspawn sixteen to twenty feet tall and as heavy as a cottage, with a hide half turned to stone, a body that heals almost anything, and strength enough to tear boulders from a mountainside. It holds a range of high country twenty miles across or more, sleeps for weeks in a deep cave, and eats prodigiously when it wakes. One holds a pass of the [[place-serramarca|Sèrramarca]], the cold mountain march between Provènzia and Tarvénia, and it has done what neither crown could: it has closed one of the raiding roads altogether. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Mountain Troll stands 16 to 20 feet in height, with a frame so massive and dense that it weighs as much as a small cottage. Its skin is a sickly gray-brown, resembling weathered stone or ancient, cracked leather, with veins of darker, harder material running through it like ore seams. Cracks in its hide leak a slow trickle of dark fluid, and boulders and mineral deposits seem to grow from its shoulders and limbs, as though the mountain itself claims pieces of the creature. Its limbs are as thick as tree trunks, corded with muscle and ending in fists of tremendous size and hardness. Its face is all heavy ridges and deep-set, glacial blue eyes that glow faintly with a dim intelligence; its mouth is a wide rictus filled with teeth of black stone. When it moves, the ground quakes, and the sound is of grinding stone and avalanche. Its breath comes in deep, rattling exhalations that echo across valleys.
+The mountain troll is enormous and massive, broad as a barn, with a small heavy head sunk between boulder shoulders. Its skin is gray-brown and cracked like old leather or weathered stone, run through with seams of something darker and harder, like veins of ore, and boulders and crusts of mineral grow out of its shoulders, back and forearms. The cracks in its hide weep a slow, dark fluid. Its hands are each as big as a cart. It moves slowly and deliberately, and every step shakes the ground; it can stand still for so long that snow drifts against it and lichen grows on it. It smells of wet stone and old blood.
+
+## In the Land
+
+The Sèrramarca's mountains close from the first snow to the thaw, and between thaw and snow the border families of both kingdoms raid each other over pasture, passes and precedence, a war nobody declares. The mountain troll holds the high country round one of those passes, from the summer pastures on the Provenzian side to the snowfields on the Tarvénian, with its lair in a deep cave under the pass. It eats everything: summer sheep and cattle, goats, bears, carrion, roots, lichen by the cartload. It follows the same rounds through its range year after year, and it sleeps through the worst of the winter. It tolerates no other large creature in its range, and it treats raiders from either side the same.
 
 ## Key Behaviors
 
-Mountain Trolls are territorial to obsession, claiming a range of territory that can span twenty miles or more across a mountain range. They establish primary lairs in deep caverns where they sleep for weeks at a time, emerging to hunt when hunger drives them. They follow routes through their territory habitually, and travelers who learn these patterns can sometimes avoid encounter by staying away from the creature's regular paths. A Mountain Troll is a creature of hunger and simple needs—it eats, it sleeps, it defends its territory with overwhelming violence. Social bonds are foreign to it; even other Mountain Trolls are treated as intruders to be driven away. An aging Mountain Troll may become territorial about a particular location, venturing less and less far, until it eventually settles into a final lair and rarely leaves again.
+The troll is territorial to obsession and solitary. It wakes, hunts its range on its habitual rounds, eats until it is full, and goes back to its cave to sleep, sometimes for weeks. It attacks anything large that it meets in its range, and it is in no hurry about it: it advances slowly, lets its prey understand what is coming, and then kills it. It uses the mountain as a weapon, starting rockfalls and snowslides with its stamping and throwing boulders. It is not clever, but it learns its ground and the habits of what moves in it, and it remembers the men who have hurt it.
+
+## What the Marchers Do
+
+The border families on both sides of the march have quietly dropped the troll's pass from their raiding calendar, and the pass has been empty of raiders for longer than anyone in [[place-chastelclr|Chastèlclair]] likes to say. Shepherds on both sides graze the summer pastures at the edges of its range only in the weeks it sleeps, and post a boy on a high rock to watch the cave mouth. The Winter Assize at Chastèlclair has heard several cases in which one family accused another of driving cattle onto the troll's ground to lure it toward a rival's flocks; none was proved. There is a bounty on the troll from both crowns, the only thing the two crowns have agreed on in a generation, and nobody has collected it.
+
+## Signs
+
+- Boulders the size of a cart rolled down onto a path, with fresh scars on the slope above where they were torn out.
+- Footprints in snow or mud as long as a man is tall, sunk deep.
+- Whole sheep and cattle carcasses stripped and the bones broken open, in a heap at a cave mouth.
+- A tremor in the ground, felt underfoot at regular intervals, coming nearer.
+- A pass that is clear of snow and rockfall and has no one on it in the raiding season.
 
 ## Combat Strategy
 
-A Mountain Troll opens combat by making the most of the dread its presence causes—it advances slowly, deliberately, allowing opponents to feel the weight of what they face. It uses its immense size and strength to dominate terrain, often maneuvering enemies toward cliff edges or unstable ground where a single blow will be devastating. When it strikes, it commits fully to the attack, using the full weight of its body; there is no need for restraint when one swing can kill a lesser creature. If injured, a Mountain Troll becomes more aggressive and relentless, not fleeing but pressing harder. Only serious, sustained damage—particularly fire or acid—will make one consider retreat, and even then it may simply return to its lair to rest and heal rather than abandoning the territory.
+A mountain troll opens slowly, advancing so that its enemies feel what they are facing and break. It herds them toward cliff edges, snow slopes and loose ground, where a single blow or a single stamp finishes them. When it strikes it puts its whole weight into the blow. It throws boulders at anything out of reach, and it stamps to bring down snow and rock on a party below it. It does not flee and does not care about its wounds. Fire and acid hurt it and slow its healing; nothing else seems to.
 
 ## Attack Methods
 
-### Boulder Crush
+### Fist Strike
 
-The creature raises a massive stone or sometimes tears a boulder from the mountainside itself, hurling it or bringing it down in a crushing blow. The impact is catastrophic, capable of shattering shields and armor alike and leaving deep cracks in stone beneath it.
+The troll swings its fists one after the other with the weight of its shoulders behind them. A direct blow crushes a man and breaks heavy armor.
 
 ### Earthshaker Stomp
 
-The Mountain Troll raises one of its massive feet and brings it down with world-shaking force, creating a tremor that spreads across the area. The ground convulses, fissures open, and standing enemies find their footing uncertain and their balance compromised.
+The troll raises a foot and brings it down, and the ground convulses: men are thrown off their feet, rocks crack, and snow and loose stone slide from the slopes round it.
 
-### Fist Strike
+### Boulder Crush
 
-Two massive fists swing in coordinated or successive attacks, each driven by the full strength of the creature's shoulders and body. A direct hit can crush a human form or shatter heavy armor.
+The troll tears a boulder from the mountainside and brings it down on its enemy, or hurls it at him. The impact shatters shields and armor and cracks the rock underneath.
 
 ## Special Abilities
 
 ### Stone-Touched Resilience
 
-The Mountain Troll's body is partially calcified, its hide and internal organs reinforced with mineral deposits that make it extraordinarily resistant to physical harm. Cutting, piercing, and bludgeoning attacks are all blunted by its toughened frame.
+Its hide and its flesh are partly turned to stone, and cuts, thrusts and blows are all blunted by it.
 
 ### Regeneration
 
-The Mountain Troll heals with preternatural speed, regrowing damaged tissue and bone over minutes or hours depending on the severity of the wound. Only sustained wounds of great severity—or damage from fire, acid, or magical sources—can prevent this regeneration.
+It heals with astonishing speed, regrowing flesh and bone in minutes or hours. Fire and acid stop its healing while they burn.
 
 ### Undaunted Fortitude
 
-The Mountain Troll's endurance is nearly limitless. It can march across alpine terrain for days without rest, survive extremes of cold that would kill lesser creatures, and fight without pause despite grievous wounds.
+It marches for days across the high country without rest, shrugs off cold that would kill anything else, and fights on through grievous wounds.
 
-## Additional Information
+### Heat Weakness
 
-Fire poses the greatest threat to a Mountain Troll—flames damage its regenerative capacity and cause it pain. Acid is equally effective. The creature has a notable weakness to prolonged exposure to extreme heat or drought, which dries its skin and cracks its mineral deposits. Some legends suggest that a Mountain Troll can be killed by destroying the stone heart at the center of its chest, though doing so would require cleaving through feet of hardened hide and bone. The corpse of a slain Mountain Troll is extraordinarily valuable; its hide can be fashioned into armor of superb quality, its stone-like bones into tools or weapons that never dull, and its teeth into talismans of protection. However, moving or harvesting the remains of a Mountain Troll is itself a dangerous undertaking that may take weeks and the resources of an entire company.
+Long heat and drought dry its skin and crack the stone in it, and fire pains it. A story told in Chastèlclair says that its heart is a stone in the middle of its chest and that breaking it kills the troll; no one has been close enough to try.
 
 ## Attributes
 
-- **Strength:** 30-35 (1d6+29)
+- **Strength:** 40-45 (1d6+39)
 
 - **Endurance:** 25-30 (1d6+24)
 

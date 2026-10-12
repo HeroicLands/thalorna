@@ -401,8 +401,6 @@ Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn he
 
 Glarvorv is a renowned perfumer who specializes in crafting bold and exotic scents. He is known for using unconventional ingredients, often sourcing rare plants and flowers from distant lands. Glarvorv has developed a reputation for his artistic approach to perfumery and has garnered a loyal clientele. He enjoys the challenge of creating scents that evoke powerful emotions and memories.
 
-Now at 35 years of age, Glarvorv Steinblót has established himself as a known figure among the perfumers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

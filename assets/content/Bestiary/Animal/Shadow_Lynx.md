@@ -246,63 +246,75 @@ sohl:
 
 ![[shdwlynx|Shadow Lynx]]{float=top-left}
 
-Something stirs in the darkness—barely more than a shadow among shadows, yet conscious and aware. The undergrowth doesn't part so much as accommodate the creature's passage, as if shadow itself is flowing through the ferns and leaf litter. The eyes open like green coals in the dimness, and your vision suddenly focuses on what you somehow knew was there all along: a sleek, dark form that would be nearly invisible in full daylight, let alone this gathering dusk. The ears twitch once, twice, and you realize the creature has locked onto you through sound alone. There is no haste in its movement, only certainty—the confidence of a predator that has already decided the outcome.
+Dusk comes early under the firs, and the track ahead is already a gray strip between black trunks. Something is lying along a low branch over it, so still and so nearly the color of the bark that you take it for a burl in the wood. Then two green points of light open in it. A cat, bigger than a big dog, charcoal-gray and faintly striped, with tufted black ears that turn toward you one after the other. It does not get up. It watches you come on along the track toward the branch, and its tail-tip, short and black, twitches once.
 
 # Dossier {#dossier}
 
-The Shadow Lynx is an ambush predator of deep forests and dense woodlands, standing 2-3 feet tall at the shoulder with a body length of 3-4 feet plus a short, tufted tail. These nocturnal hunters are specialized for stealth and precision, preferring to hunt alone and maintaining exclusive territories. Adventurers encounter shadow lynxes while traveling forests at night, camping in lynx territory, or exploring old ruins where populations have established.
+The Shadow Lynx is a large, dark forest lynx, two to three feet high at the shoulder, three to four feet long with a short tufted tail, and about sixty pounds, built for silence and for one sudden, killing rush. It hunts alone at dusk and by night through deep forest, taking hares, grouse, deer fawns and the dogs and goats of the forest villages, and very occasionally a man. In the [[place-vrystwald|Vrystwald]] its stronghold is [[place-skathwald|Skathwald]], the eastern reach where the Grukar nests thicken, and two of the Varokh villages there keep the [[lore-lynxttm|lynx]] as their wesk.
 
 ## Presentation
 
-The Shadow Lynx is a sleek, muscular feline with a build made for stealth rather than raw power. The fur is dark, ranging from charcoal gray to deep brown with subtle mottling and striations that provide extraordinary camouflage in forest shadows. Characteristic lynx features include pointed ears tipped with tufts of hair, a compact body with powerful hind legs, a relatively short tail with a dark tip, and large paws with retractable claws. The face is proportionally round and flat-featured, with large forward-facing eyes that glow faintly green in dim light. The whiskers are long and sensitive, capable of detecting minute air movements and vibrations. The overall build speaks of an animal designed for silent movement and explosive power across short distances.
+A shadow lynx is long-legged and short-bodied, with big, broad, furred paws that make no sound and carry it over snow. Its coat is thick and soft, charcoal gray to dark brown, mottled and faintly barred with darker marks that break up its shape among trunks and shadows. The ears are tall and pointed, tipped with long black tufts, and the face is round and flat, ringed with a ruff of longer fur and long pale whiskers. The eyes are large, forward-facing and pale green, and they shine in torchlight. It holds itself very still, moves very slowly when it is stalking, and moves very fast when it is not. Its calls carry: a yowl, a low growl, and a chirping cry in the mating season that sounds like a child.
+
+## In the Land
+
+Shadow lynxes live through the dense mixed and needleleaf forest of the Vrystwald, but they are commonest in Skathwald, where the woods are deep, the crags are many, and the deer are thick because the villages there spend their labor on watches and walls and hunt less than villages elsewhere. Each lynx holds a few miles of forest that it marks with scent and with scratches on trunks, and it keeps to the same lying-up places for years: a crag ledge, a fallen trunk, a hollow under a root. It favors broken ground with rock in it. The rocky lookouts the villages watch from are lynx country, and the village of [[place-wulfstein|Wulfstein]] on its crag is named for wolves and keeps a lynx.
 
 ## Key Behaviors
 
-Shadow Lynxes are nocturnal and most active during dusk and night hours, resting in sheltered locations during daylight. They are solitary and territorial, with each lynx maintaining exclusive hunting grounds marked by scent deposits and claw marks on trees. They communicate primarily through vocalizations—yowls, growls, and chirps—that carry across forest distances. Shadow lynxes hunt primarily small mammals and birds, occasionally taking larger prey if opportunity presents. They are intelligent and capable of learning, remembering dangerous hunters and locations where game is abundant. The creatures are patient predators willing to wait for extended periods for prey to appear.
+A lynx rests by day and hunts from dusk to dawn. It stalks its prey slowly and in perfect silence, belly to the ground, or lies on a branch or ledge above a game trail and waits, sometimes for hours, and when the prey is near enough it rushes or drops on it and kills with one bite to the throat or the back of the neck. It does not chase far. If the first rush fails it lets the prey go and stalks again later. It takes prey larger than itself when it can catch it unaware, and it drags what it cannot eat into cover and covers it with snow and leaves. A lynx remembers the places where game is easy and the places where men have hunted it. A mother with kittens is aggressive and does not give ground.
+
+## What the Varokh Do
+
+The Varokh of Skathwald share the forest with the lynx and live with it. In the lynx villages, Wulfstein and **Grimstein**, it is the clan's wesk, and nobody hunts it without the Shaman's approval: a lynx that takes the village's goats is driven off with fire and noise, and only one that has taken a child is killed, with the Shaman present. Elsewhere in the forest the lynx is hunted for its fur, which makes a cloak that is warm and nearly invisible in the forest at dusk, and a scout in such a cloak is prized on the watches. Every village keeps its goats in a fold at night and its dogs indoors in winter. Sentries on the crags watch for the lynx as well as for the Grukar, because a lynx on a ledge above a path is often the first sign that something is moving on the path below.
+
+## Signs
+
+- Round, four-toed prints as broad as a man's palm, with no claw marks, in a line so straight it looks walked on purpose.
+- Bark scratched in long vertical scores on a trunk beside a trail, at the height of a standing man's chest.
+- A deer or goat carcass dragged under a fallen tree and covered with leaves or snow.
+- Scent marks, rank and catty, on stones and stumps along a crag path.
+- A yowl at night like a woman screaming, from somewhere very close.
 
 ## Combat Strategy
 
-The shadow lynx's strategy is ambush and precision—the creature stalks prey with supernatural silence, positions itself for a killing strike, and launches a sudden explosive attack intended to kill quickly. If the initial strike fails, the lynx retreats into terrain and shadow it knows intimately, repositioning to strike again from a new angle. The creature avoids prolonged physical combat, preferring to kill through surprise and positioning rather than through sustained engagement. If cornered or defending young, the lynx becomes more aggressive but still prefers disengagement when possible.
+A lynx kills from ambush or not at all. It drops or rushes on a lone man, a child or a sentry from close range, often from above, and bites for the throat or the back of the neck while its claws hold on. If the first attack fails or the victim fights back strongly, it breaks off at once and disappears into the forest, and it may come back to try again from a new direction an hour later or the next night. It avoids open ground and daylight, and it does not attack a group or a fire. Cornered, or defending kittens, it fights hard with claws and teeth.
 
 ## Attack Methods
 
-### Explosive Pounce
-
-The shadow lynx launches from concealment with explosive speed, using its hind legs to propel its entire body at a target. The pounce is intended to knock smaller prey off balance and to position the lynx for a killing bite. The attack combines momentum with claws and jaws for maximum impact.
-
 ### Precision Bite
 
-Once engaged, the lynx attempts to bite at vital areas—the throat, the spine, or the base of the skull—using its powerful jaw and sharp teeth to inflict lethal injury. The bite is precise and delivered only after the lynx has positioned itself for maximum effect.
+The lynx bites at the throat, the back of the neck or the base of the skull. Its jaws are strong for its size and its long canines drive deep, and a bite in the right place kills an animal outright.
 
 ### Raking Claws
 
-The lynx uses its powerful forelimbs and retractable claws to rake and slash at exposed flesh, creating wounds and establishing dominance in physical engagement. The claws are capable of tearing through light leather and inflicting serious bleeding wounds.
+Holding on with the forepaws, the lynx rakes with the hind claws, or slashes with the forepaws when it is fighting at close quarters. The claws tear through light leather and open bleeding wounds.
 
 ## Special Abilities
 
+### Explosive Pounce
+
+The lynx launches from concealment or from above in one great bound and lands on its victim with all four paws, knocking a small man or an animal down and putting the lynx in place for its bite.
+
 ### Forest Camouflage
 
-The shadow lynx's coloration and fur patterning are so effective in forest environments that the creature is nearly invisible when still or moving slowly through undergrowth. In forest it is very hard to spot until it moves.
+In forest, still or moving slowly, the lynx is nearly invisible, and it is very hard to see until it moves.
 
 ### Silent Movement
 
-The shadow lynx moves almost silently, even across terrain that would normally produce significant noise. The creature's paws are padded and its muscle control is precise, allowing it to approach prey without detection. Even on the move it is seldom heard.
+It moves without sound on leaf litter, snow and fallen branches, and it is seldom heard even when it is close.
 
 ### Acute Hearing and Whisker Sensitivity
 
-The shadow lynx's hearing is extraordinarily acute, and its long whiskers detect minute vibrations and air movements. The creature can locate prey through sound and vibration even in complete darkness, making it an effective hunter in any light condition.
+Its ears catch the smallest sound, and its whiskers feel air moving. In complete darkness it locates its prey by sound alone.
 
 ### Explosive Acceleration
 
-Despite its modest size, the shadow lynx can achieve rapid acceleration over short distances, giving it advantage in catching prey that attempts to flee. The creature's initial attack is significantly more likely to succeed than sustained combat.
+Over a short distance the lynx is faster than nearly anything in the forest. Its first rush is more dangerous than anything it does afterward.
 
 ### Territorial Knowledge
 
-The shadow lynx's familiarity with its own territory provides it with advantage in combat within its established range—the lynx can use terrain tactically while opponents are unfamiliar with the landscape.
-
-### Additional Information
-
-Shadow lynxes are most dangerous at night and in forest environments, where their natural advantages are greatest. In open ground or bright daylight, the creatures become significantly less confident. A lynx that has successfully hunted humanoids becomes more likely to target humans in future encounters. Young lynxes are vulnerable and mothers defending kittens become extremely aggressive and dangerous. The creatures can be tracked by their claw marks and scent deposits, allowing careful hunters to avoid established lynx territories. A shadow lynx's fur is valuable and can be harvested after death to create camouflage cloaks and other items.
+On its own ground the lynx knows every ledge, branch and hollow, and uses them to ambush and to escape.
 
 ## Attributes
 

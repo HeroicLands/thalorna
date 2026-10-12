@@ -394,55 +394,71 @@ sohl:
 
 ![[mrrrlng|Mirrorling]]{float=top-left}
 
-Dozens of versions of you stare back from a perfectly smooth, humanoid surface before you—each reflection fractionally out of sync with the others, as though time itself has splintered. The creature's surface ripples without touching water, light bending across its body in impossible angles that make your eyes water when you try to track its movements. A low, crystalline hum emanates from it, and you realize with creeping dread that one of the reflections isn't reflecting you at all—it's watching you independently, with terrible intelligence.
+The hall of mirrors runs the length of the house, glass from floor to ceiling on both sides, so that the candles in it go on forever. Among the reflections stands a figure as tall as a door, a man-shape made of polished silver, and in its blank face you see yourself, small and pale. You look away to the mirrors, and there are three of it in them, and then six, all turning toward you, and when you look back to the room there are two of it in the room as well. The candle-flames shiver. A faint, high ringing fills the hall, like a wet finger round the rim of a glass, and one of the silver figures raises an arm that has become a long, bright blade.
 
 # Dossier {#dossier}
 
-Mirrorlings are living paradoxes born from the collision of light, memory, and malice—creatures of pure manifestation that exist as much in reflection as in flesh. They are drawn to places where light scatters and multiplies: halls of mirrors, crystal caverns, sunlit waters, and the chambers of vain nobles. A Mirrorling's true nature is to fracture and confuse, using light as a weapon and illusion as a shield. The creature is said to feed not on flesh but on the reflection of violence—the more brutally an opponent attacks and misses, the stronger it becomes. One tale makes Mirrorlings the remnants of mages who gazed too long into their own vanity, corrupted into beings of pure reflection and spite.
+The Mirrorling is a dreadspawn of living reflection: a figure six to eight feet tall, man-shaped, with a body like liquid silver, and a weight far greater than its size suggests. It lives where light is multiplied—halls of mirrors, polished stone, still water—and it fights with light, throwing out images of itself and turning blows back on whoever struck them. It does not eat. It feeds, as far as anyone can tell, on violence: on blows that strike it and rebound. One has taken up residence in a great house on [[place-monslaurine|Mons Lauríne]] in [[place-magnapolis|Magnápolis]], the hill where the rising families of the Vylarian capital build, and its owners would very much like nobody to know. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Mirrorling presents an unsettling humanoid form roughly 6 to 8 feet in height, composed entirely of a perfectly reflective, liquid-smooth surface like burnished quicksilver or polished steel. Its body has defined musculature and articulation, but the joints bend with an unnatural fluidity, as though the thing has no bone or cartilage—just frictionless motion. Its face is a blank, featureless mirror when viewed directly, yet reflections within its surface show eyes of impossible depth, sometimes countless, sometimes singular. The creature moves with liquid grace, its form occasionally seeming to blur or double, and it leaves no footprints or disturbance in its wake. The temperature drops noticeably near a Mirrorling, and the air carries a faint scent of ozone and burned silver.
+The mirrorling's whole surface is a perfect, liquid-smooth mirror, like burnished quicksilver. It has the shape of a tall, well-made man, with defined muscle and joints, but its limbs bend too smoothly, as if there were no bone in them. Its face is a blank mirror, and whoever looks into it sees himself. Its arms can draw out into long blades of bright edge. It moves without sound, except for a faint, high ringing like glass, and the light near it bends: candle-flames lean toward it, and reflections of it appear in mirrors where it is not standing. Staring into its surface too long, people report seeing things in it that are not in the room.
+
+## In the Land
+
+Magnápolis is the heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and Mons Lauríne, the greener and newer of its patrician hills, is where new money builds great houses to rival the old villas of **Mons Corónus**. The mirrorling holds one of those houses: a villa whose builder spent a fortune on a long gallery of mirrors and polished marble, and who did not live long in it. It keeps to the gallery and the rooms that open from it, and to the lit fountain court, and it is seen in the mirrors of the rest of the house at night. It does not leave the house. Its owners, a rising family, have shut the gallery, kept the servants who know, and gone on giving dinners in the other wing.
 
 ## Key Behaviors
 
-Mirrorlings are solitary and territorial, claiming reflective spaces as their domains. They are drawn to moments of violence and bloodshed, arriving unbidden to feed on the chaos of conflict. Unlike most predators, they do not hunger for food—instead, they consume the "echo" of an attack: the energy of a blow striking their surface and rebounding. A Mirrorling that has fed on many failed attacks against it grows stronger and faster. They show a perverse curiosity about mortal vanity and will sometimes linger in the chambers of vain nobles, seemingly amused by their prey's futile attempts at self-admiration. A Mirrorling rarely remains in one location indefinitely; after weeks or months, it will disappear into the nearest large body of reflective water or through a shattered mirror, not to be seen again in that place.
+A mirrorling claims a place full of reflections and stays in it. It does not hunt for food. It comes to violence: a quarrel, a fight, a duel, anything with blows in it, and it attacks whoever is fighting. Every blow struck at it that rebounds off its surface seems to strengthen it, and a mirrorling that has been fought often and long grows stronger and more confident. It is intelligent and patient and enjoys confusion. Darkness weakens it: in a room without light or reflection it slows, and in absolute darkness it grows sluggish and brittle. It avoids the dark.
+
+## What the Household Does
+
+The family keeps the mirror gallery locked and its windows shuttered, and no candle is lit in it, because a dark gallery is a quiet one. Servants are told never to quarrel in the house and never to strike anyone, a rule the steward enforces with dismissal, because a fight in any room with a mirror has brought the creature through the glass. Mirrors in the family's wing have been covered with cloth. A scholar of the [[affiliation-panepistmm|Panepistemium]], quietly consulted, advised them to break every mirror in the house and fight it in the dark, and the family, who paid for the mirrors, has not yet done so. Rivals on Mons Corónus have heard rumors, and an invitation to dine on Mons Lauríne is now accepted with care.
+
+## Signs
+
+- Reflections in a mirror of a figure that is not standing in the room.
+- Candle-flames that lean in one direction, toward a mirror, in a still room.
+- A high, faint ringing like a wet finger on glass, heard at night in a quiet house.
+- Mirrors covered with cloth throughout a fine house, and a gallery kept locked.
+- A servant who will not raise his voice, and a steward who will not let anyone else raise theirs.
 
 ## Combat Strategy
 
-A Mirrorling opens combat by using its natural reflectivity to create the illusion of multiple versions of itself, positioning these illusory forms to confuse and misdirect attacks. It moves constantly, using the terrain to maximize reflections and reinforce the illusion of greater numbers. Each strike against the creature that misses strengthens its defenses slightly, and it counts on that to outlast opponents. When facing ranged attackers, a Mirrorling may position itself to redirect projectiles back toward the archer. If cornered or facing an opponent who lands consistent hits, it attempts to break line-of-sight and escape into the nearest reflective surface—a mirror, a pool of water, or polished stone.
+The mirrorling opens by multiplying itself: it throws out images that move and seem solid, among the reflections, so that its enemies strike at the wrong one. It keeps moving, using the mirrors and polished surfaces to keep the illusion of numbers. It turns each blow that glances off it back on the striker or on someone beside him, and every blow that misses makes it stronger, so it is content to let its enemies wear themselves out. It strikes with its bladed arms when it sees an opening. In darkness, or among dull surfaces, it loses most of its advantages, and it retreats from the dark.
 
 ## Attack Methods
 
 ### Reflective Blade Strike
 
-The creature's limbs sharpen into edges of pure crystalline reflection, striking with surprising force and precision. These strikes leave wounds that seem to warp and distort, as though the flesh itself is confused about where it should be.
-
-### Mirrored Retaliation
-
-When an opponent's attack glances off the creature's reflective surface, that same force is redirected back toward the attacker with perfect geometric precision. A sword swing might be sent back as a cutting beam of refracted light; an arrow might be turned aside to strike a nearby ally.
+Its arms sharpen into long edges of bright reflection and strike hard and precisely. The wounds are deep and strange, and they bend and blur under the eye.
 
 ## Special Abilities
 
+### Mirrored Retaliation
+
+A blow that glances off its surface is sent back, with the same force, along a new line: a sword-cut returns as a flash of cutting light, an arrow is turned aside into a companion.
+
 ### Reflective Embodiment
 
-The creature's body reflects and refracts light with impossible perfection, making it extraordinarily difficult to strike. Physical attacks against it often go astray, and many strikes seem to pass through or around it without landing.
+Its body bends and returns light so perfectly that it is hard to strike. Blows go astray, pass through its image or round it, and land on nothing.
 
 ### Fractured Image
 
-The Mirrorling can create illusory duplicates of itself through careful manipulation of light and reflection. At least two of the images will move independently and seem tactilely real, forcing opponents to guess which version is the real one.
+It throws out images of itself, at least two of which move on their own and seem solid to the touch, and its enemies must guess which is real.
 
 ### Void Reflection
 
-When looking into the Mirrorling's surface, perceptive creatures can glimpse fleeting, disturbing images: scenes of violence, moments of vanity, glimpses of the creature's feeding. Those who stare too long begin to feel distant and unreal to themselves.
+A man who stares into its surface sees things there: violence, vanity, scenes of the creature feeding. Those who look too long begin to feel distant and unreal to themselves.
 
-## Additional Information
+### Darkness Weakness
 
-Darkness and non-reflective environments pose the greatest challenge to a Mirrorling, negating both its illusory and defensive advantages. Magical attacks that create obscurement or shadow leave the creature fighting on nearly even terms. If a Mirrorling is forced to remain in absolute darkness for more than a few minutes, it begins to weaken, its form becoming sluggish and brittle. The creature is vulnerable to spells that damage or cloud reflective surfaces, including rusted metals, broken glass, and muddied water. Destroying every mirror in a Mirrorling's territory may starve it, forcing it to move on or perish. The creature's remains—if it is slain—dissolve into mercury-like drops that evaporate within hours, leaving no physical trace.
+In darkness, or where nothing reflects, it fights on even terms and its tricks fail. Kept in absolute darkness for more than a few minutes, it grows sluggish and brittle.
 
 ## Attributes
 
-- **Strength:** 9-12 (1d4+8)
+- **Strength:** 22-27 (1d6+21)
 
 - **Endurance:** 9-12 (1d4+8)
 

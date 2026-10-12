@@ -353,107 +353,87 @@ sohl:
 
 # Appearance {#appearance}
 
-The mountain itself seems to hold its breath.
-
-The sky ahead is wrong—hazier than it should be, darkened at the edges as if a storm were gathering. But there are no clouds. Instead, the air grows thick with heat and the stench of sulfur, a presence so heavy it presses against your skin like a living thing.
-
-Then comes a sound—not a roar but something deeper, a rumble that travels through the stone beneath your feet and shakes loose gravel from the cliffs above. This place belongs to something, and you are trespassing.
-
-The dragon emerges from the thermal haze, twenty-four feet of it, with wings that span thirty-six feet and catch the light like molten copper. Its scales burn in shades of crimson and gold so vivid they seem almost impossible—patterns that shift in the heat distortion, making the creature seem larger than it truly is. A crown of spines runs down its spine, each one wickedly sharp. Its eyes are ancient despite its relative youth, holding the weight of centuries of prey and conquest.
-
-It has not seen you yet. The air around it shimmers and writhes with heat, intense enough to make breathing painful. When it notices you—and it will—there will be no escape.
-
-The dragon shifts, and the entire mountain trembles.
+The mesa stands alone above the salt flat, and the scouts said it was empty. It is not. On its rim, against the white glare of the flat, lies a dragon, still as a carving: twenty-four feet of crimson and black scale, its wings folded like a cloak, its head resting on its forelegs. It has watched you cross the whole flat. When it lifts its head the air above it wavers with heat, and its eyes, deep orange and patient, move from one of you to the next and settle on the one at the back, the one with the water-skins. It does not roar. It yawns, showing teeth like spearheads, and the heat of its breath reaches you across a hundred yards of salt.
 
 # Dossier {#dossier}
 
-The Mature Fire Dragon stands at the apex of dragonkind's power and knowledge. Between three and four centuries old, it has established and consolidated territory, accumulated a vast and carefully curated hoard, and learned the art of predatory strategy. A mature dragon is calculating, cruel, and absolutely certain of its supremacy.
-
-Unlike young dragons driven by impulse, a mature fire dragon selects its targets with purpose. It understands economics, geography, and the flow of trade routes. A dragon in this stage of life may control a region through calculated intimidation, burning caravans to keep trade away from its territory or allowing merchants through in exchange for tribute. It remembers favors, debts, and insults with perfect clarity across decades.
-
-Mature fire dragons are territorial but not solitary in nature—they are known to take consorts, though such relationships are fraught with danger. They lay eggs in carefully defended lairs and may actively defend nesting chambers. Some maintain informal arrangements with other creatures, using them as servants or sentries in exchange for protection.
-
-These dragons are the basis of regional legends. Kingdoms plan their policies around dragon territory. Military campaigns are rerouted to avoid confirmed sightings. Entire towns have been built with the understanding that they exist at a dragon's sufferance.
+The Mature Fire Dragon is a fire dragon of three or four centuries: twenty-four feet from snout to rump, with a thirty-six-foot wingspan, in the full of its strength and its cunning, with its ground held and its hoard gathered, and with the patience to choose its prey. Its cruelty is deliberate. Like every dragon it is a mortal creature with a soul of vast scale, whose instinctive channeling floods the magic round it and makes a mage's spells come apart in his hands. It remembers every insult and every broken bargain, and it was hatched in the centuries after the Vylarian Republic betrayed the dragons who had won its war, and has heard from its elders, and from the dragon dead, what was done. One holds the mesas and badlands of [[place-chakultzklrgn|Ch'akul Tza'kul]], the Thirsty Land, the desert barrier between the tribal north of K'ich'chik and the southern civilizations.
 
 ## Presentation
 
-A mature fire dragon is powerfully built, with musculature visible beneath the thick, overlapping armor of its scales. The coloration is more vivid than younger dragons: deep crimsons, burnished golds, and oranges so intense they seem to hold actual flame. The scales themselves are thick and beveled, creating a pattern that deflects most blows. A crown of spines runs down the spine from head to tail, each spine wickedly pointed and capable of piercing armor.
+A mature fire dragon is massive and heavily muscled, its scales thick, overlapping and dark, crimson going to black at the edges and along the spine, with a dull red glow between them when it is roused. Its wings are broad and powerful, strong enough to carry off a horse. Its tail is thick and scarred from centuries of fighting. Its head is long and heavy, crowned with backswept horns, and its eyes are deep orange and steady. The heat round it is fierce; vegetation wilts and water steams within sixty feet. It moves slowly when it chooses and very fast when it means to, and it makes no unnecessary sound.
 
-The creature is twenty-four feet in length from snout to rump, with a wingspan extending to thirty-six feet. The wings are powerful and graceful, capable of sustained flight even when carrying prey. The tail is thick, muscular, and scarred from centuries of territorial disputes. The dragon's eyes are large and intelligent, burning molten amber.
+## In the Land
 
-Heat radiates from the dragon in visible waves. The ground where it walks is scorched dark. Its breath steams even in warm weather, and a faint aura of wavering light surrounds it at all times.
+Ch'akul Tza'kul is sand seas in the north, rocky plateaus, mesas and badlands in the center and west, and salt flats in the south where ancient seas dried away, with the ruins of an older, wetter age scattered through it. The dragon holds the central badlands, a great stretch of mesas and box canyons, with lairs in several of them and its hoard in the deepest, in a ruin from that older age. It hunts the desert's herds, and it takes what crosses its ground: the caravans that carry trade between the tribal north and the south, and the travelers who come prepared with water and the knowledge of hidden oases and still do not emerge. It holds its ground against every rival large enough to matter.
 
 ## Key Behaviors
 
-**Strategic Dominance:** The dragon controls its territory through deliberate actions and calculated intimidation. It may allow certain activities in exchange for tribute or restrict passage to maintain power.
+A mature fire dragon is a strategist. It studies its prey before it strikes, chooses the weakest point, and strikes once, decisively. It holds grudges for centuries and seeks its revenge when the revenge will be complete. It keeps a careful hoard and knows every piece in it. It speaks, and it can bargain: a mature dragon has learned that words can be worth more than fire, and it will exact tribute, or trade safe passage for something it wants, and keep the bargain exactly as long as it suits it. It does not trust humans and does not forget that it has reason not to. It tolerates no rival large enough to be one.
 
-**Hoard Obsession:** The dragon's hoard is vast and carefully organized. Every piece has been selected and is accounted for. The dragon visits the hoard regularly and attacks with apocalyptic fury if anything is disturbed or missing.
+## What the Peoples of the Border Do
 
-**Excellent Memory:** The dragon remembers every transaction, every insult, every broken agreement. It holds grudges for centuries and actively seeks opportunities for revenge.
+No nation claims Ch'akul Tza'kul. The tribal peoples to the north and the K'ich'chik to the south both cross it, by the routes they know, and both pay for crossing the dragon's badlands. The traders who carry northern goods south have learned to leave a tribute at the foot of a particular mesa, metal, worked stone, things that shine, and to cross only in the season when the dragon has fed. Itzáni priests at the southern edge read the dragon as a sign of something, and do not agree on what. Travelers who come to the badlands for the ruins of the older age, scholars and treasure-hunters both, are told by the guides which mesas not to climb, and the guides keep their fees whether or not the warning is taken. The survivors of a K'ich'chik war party sent to kill it came back at the end of a season with a message, which they would not repeat.
 
-**Limited Social Engagement:** A mature dragon may communicate with intelligent creatures, particularly if there is some transactional benefit. It expects obedience and absolute honesty; deception is punished with death.
+## Signs
 
-**Culling of Competitors:** The dragon will hunt down and destroy rival predators that threaten its dominance, particularly other dragons. Territorial conflicts between mature dragons are catastrophic regional events.
-
-**Selective Mercy:** Occasionally, a mature dragon will spare a creature to serve a purpose—as a servant, messenger, or tool. Such mercy is never free; there is always a price.
+- A mesa-top in the badlands whose rocks are glazed and fused, as if from great heat.
+- Bones of large animals, horses and men among them, heaped at the foot of a cliff, and ash.
+- Tribute left at the foot of a mesa: metal, worked stone, shining things, and the tracks of the people who left it going away fast.
+- A heat-shimmer over a box canyon at dawn, before the sun is high.
+- Caravan routes that go far round a stretch of the badlands for no reason the country explains.
 
 ## Combat Strategy
 
-A mature dragon is a master of predatory tactics. It uses terrain to its advantage, positioning itself where it can rain fire on enemies while remaining difficult to reach. It understands the limitations and capabilities of humanoid foes and exploits them ruthlessly.
-
-The dragon will attempt to eliminate the most dangerous threats first, identifying spellcasters or heavily armed fighters and focusing fire breath and melee attacks on them. It uses flight to maintain favorable positioning, diving to strike and then climbing rapidly to escape retaliation.
-
-When facing a significant force, the dragon may set fire to the ground and cover to restrict movement and force enemies into vulnerable positions. It is not above retreating if badly hurt, but this retreat is tactical—the dragon will circle around and re-engage from an unexpected angle.
-
-The mature dragon understands fear and may attempt to break the will of its enemies through displays of overwhelming power, waiting for fear to do half the work before closing in for the kill.
+A mature fire dragon chooses its fights. It strikes from the air out of the sun, takes the most dangerous enemy or the most valuable prey first, and does not waste breath on the rest until it must. It burns its enemies in their formation, scatters them, and picks them off. It uses its wings to batter and its tail to sweep men off ledges. It retreats from a fight it is losing, deliberately, and comes back when the odds are better, and it remembers the faces. It knows the tricks men use against dragons and has seen most of them.
 
 ## Attack Methods
 
 ### Bite
 
-The mature dragon's bite is a devastating attack capable of severing limbs or even decapitating larger creatures. The force involved is immense, and teeth long as daggers can pierce armor plating. The dragon often uses a bite to grab and pin prey before raking with claws or following up with fire breath.
+The jaws close with crushing force, severing limbs and crushing armor, and the dragon shakes and flings what it holds.
 
-### Claw Rake
+### Claw
 
-The dragon rakes with both front claws in precise, controlled combinations. A mature dragon has learned to use these attacks to force opponents into defensive postures, creating openings for more devastating follow-ups. The claws can shred plate armor and pierce scale.
+The forefeet rake in combination, each claw piercing armor, and the dragon pins a victim under one foot while it strikes with the other.
 
-### Wing Buffet
+### Tail
 
-The dragon sweeps its wings in powerful arcs, generating enough force to knock creatures down or off balance. This attack can be used to create distance or to position enemies for fire breath attacks.
+The heavy tail sweeps in a wide arc that knocks several men down at once, or crushes one, and throws men off ledges and walls.
 
-### Tail Sweep
+### Breath
 
-The dragon whips its powerful tail in wide arcs, striking multiple targets and using the appendage as a prehensile weapon. The tail is strong enough to topple walls or flip overturned wagons, and a direct hit from a mature dragon's tail can break bones.
-
-### Fire Breath
-
-The dragon exhales a spreading gout of roiling flame that reaches 30 feet. The fire is hot enough to melt stone and ignites all combustibles instantly. The breath weapon can be used repeatedly, though the dragon will pace its use to avoid complete exhaustion.
+It breathes a spreading gout of flame thirty feet long, hot enough to melt stone, that sets every combustible alight. It paces its breath and can breathe many times before it tires.
 
 ## Special Abilities
 
-### Fire Breath
+### Wing Buffet
 
-The mature dragon's flame reaches 30 feet in a spreading gout. Creatures caught in it are severely burned. Stone and earth are scarred; structures in the path may partially collapse. The dragon can use this ability multiple times before tiring.
+It snaps its wings outward and the blast of air knocks everyone near it off their feet, scatters a formation and blows out torches.
 
 ### Flight
 
-The dragon is a powerful flier capable of carrying substantial loads and fighting on the wing with skill. It can remain aloft for extended periods and uses flight to gain tactical advantage in any engagement.
+A powerful flier, it can carry off a horse and fight in the air for as long as it chooses.
 
 ### Armored Scales
 
-The dragon's scales are thick and heavily beveled, and turn most blows. Ordinary weapons barely mark them; magical weapons or sustained siege-weapon fire is required to penetrate deeply.
+Its scales are all but proof against ordinary weapons; it takes enchanted weapons or great force to hurt it.
 
 ### Heat Aura
 
-Intense heat radiates from the dragon for 60 feet around it. Temperatures in this area rise dramatically. Creatures are uncomfortable and fatigue more quickly; prolonged exposure can cause heat exhaustion or burns on exposed skin. Vegetation wilts, water evaporates, and stone begins to crack.
+The air within sixty feet is fiercely hot. Plants wilt, water steams away, and those who stay near tire quickly and burn.
 
 ### Draconic Presence
 
-The dragon radiates an aura of predatory dominance. Intelligent creatures within 60 feet of the dragon are filled with dread and recognize the creature's overwhelming power. This presence can unsettle horses, dogs, and other animals into panic.
+Within sixty feet, intelligent creatures feel its overwhelming power as dread, and horses and dogs panic.
 
 ### Fire Immunity
 
-The dragon is completely immune to fire and heat. It can swim through lava, sleep on burning coals, and breathe in superheated environments without discomfort. Its immunity extends to its gear and possessions.
+Fire does not harm it.
+
+### Unraveling Presence
+
+Its channeling floods the currents of magic round it, and a mage near it finds his workings coming apart: spells misfire, wards fail, and partly channeled power discharges wildly, often on the mage.
 
 ## Attributes
 

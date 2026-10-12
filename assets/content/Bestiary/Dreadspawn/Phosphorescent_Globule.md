@@ -165,51 +165,67 @@ sohl:
 
 ![[phsphrsc|Phosphorescent Globule]]{float=top-left}
 
-In the deepest darkness, a luminous green glow blooms like a sickly flower. The light pulses and intensifies hypnotically, drawing your eye and making it impossible to look away—beautiful, almost, in its promise of warmth and guidance in the lightless place. Then, as the glow brightens, you realize the light is not coming from ahead but from all around you, and the source is a rolling, gelatinous mass that moves like slow water given form. Its surface writhes and undulates with nauseating grace, and where the acidic slime touches the stone, it hisses and smokes. You can taste the faint burn in the air—caustic, alien, wrong.
+The adit goes into the mountain farther than the miners said, and your torch is burning low when you see the light ahead: a soft green-blue glow, pulsing gently, filling the end of the gallery. It is beautiful, and it is warm in color, and you walk toward it. Close to, it is a ball of clear jelly as big as a cart-wheel, hanging a foot off the floor with nothing holding it up, lit from inside by a slow, beating glow. Inside it, turning slowly, are a pick-head, a lamp, a belt buckle and the white curve of a jaw. The glow brightens, and brightens again, and fills your eyes.
 
 # Dossier {#dossier}
 
-The Phosphorescent Globule is a predatory ooze of supreme cunning that hunts through deception rather than direct assault. It manifests as a near-mindless creature in its behavior yet employs tactics that suggest terrible intelligence, using its bioluminescence as both lure and weapon. These creatures are found exclusively in deep, lightless caves and underground lakes where their glow stands out as a beacon in the darkness. A Phosphorescent Globule can slowly consume an entire ecosystem by drawing creatures to it with promises of light before dissolving them in its acidic body. One theory holds that these oozes are manifestations of corrupted magic rather than natural creatures, capable of spontaneous generation wherever enough ambient arcane energy concentrates in darkness.
+The Phosphorescent Globule is a small dreadspawn of glowing jelly, four to eight feet across but weighing only ten pounds, which floats slowly through deep, dark places, lures prey with its light and dissolves whatever it engulfs. It changes shape at will, blinds with sudden flares, and splits into pieces when it is hurt. It lives in deep caves and the flooded workings of mines, and one holds an abandoned working in the mountains of [[place-ardwyn|Ardwyn]], on Élavendre's eastern border, where the ore lies under Áelendan ground and an unlicensed working does not continue. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Phosphorescent Globule typically manifests as a roughly spherical blob measuring 4 to 8 feet in diameter, though it can elongate, flatten, or reconfigure its shape with unsettling ease. Its form is entirely translucent or semi-transparent, composed of a gelatinous substance that is sickly green or pale blue in color and radiates a pulsing bioluminescence from within. Inside the mass, shapes and colors shift constantly—swirling patterns of light, sometimes resembling eyes or mouths or writhing forms, though these are likely just tricks of refracted luminescence. Where the creature moves, the ground steams and hisses as its acidic body slowly consumes stone and organic matter. The temperature drops noticeably near a Phosphorescent Globule, and the air carries a faint scent of burning acid and ozone.
+The globule is a roughly round mass of clear or semi-clear jelly, sickly green or pale blue, glowing from inside with a slow, pulsing light. It floats a little off the ground, without wings or any visible means, and drifts slowly. It can stretch, flatten, narrow to squeeze through a crack, or spread into a curtain across a gallery. Inside it, things it has eaten and not yet dissolved hang and turn: bones, metal, tools. It makes no sound and has no smell to speak of, except a faint sharpness, like vinegar, when it is close. Its surface is wet and burns skin that touches it.
+
+## In the Land
+
+Ardwyn's mountains are rich in silver, gold and gemstones, and the ore lies under ground the Áelendan do not permit to be mined; four centuries of crowns have tested that prohibition exactly far enough to know it is real. The globule drifts through one of the old unlicensed workings in the eastern mountains, a set of galleries and shafts driven into the hill by a company that the [[affiliation-alndnwrdns|Áelendan Wardens]] found, and the natural caves beyond them where the galleries broke through into an underground lake. It hunts the bats, cave-fish and blind crickets of the caves, and anything that comes in from outside: foxes, martens, men. It keeps to the dark and to the deep levels and never comes out into daylight.
 
 ## Key Behaviors
 
-A Phosphorescent Globule is a patient, nearly sedentary predator that settles in a location and waits for creatures to be drawn to it. It does not seek prey actively but instead emanates its glow constantly, trusting in the irresistible draw of light in darkness to bring food to it. When prey approaches, it may flare its luminescence to confuse and distract, or it may dim it slowly, creating a hypnotic pulsing pattern designed to enthrall weaker minds. The creature seems to understand that some creatures will resist its lure and will attempt to prevent escape, positioning itself between prey and the exit before revealing its true nature. It grows larger as it feeds, and an old Phosphorescent Globule may be two or three times the size of a younger one.
+The globule is patient and nearly sedentary. It settles in a gallery or over the lake, glows, and waits. In the dark its light draws living things toward it, and the glow is soothing and hard to look away from. When prey is near, it either flares, to dazzle it, or dims slowly, so that the prey comes closer to see; then it surges, engulfs and dissolves. It seems near-mindless in its habits and is cunning in its tactics, dimming and brightening, retreating and flowing round its prey. It digests slowly, and what it cannot digest, metal and stone, it carries inside it for a long time.
+
+## What People Do
+
+The Áelendan say the old working is closed and do not go into it. The Wardens leave the globule where it is, because a cave with that in it is a working nobody will reopen. Every few years a prospector from the kingdom hears that silver was found in the old galleries before the Wardens came, and that the company's tools and takings are still in there, and goes up to look; sometimes he comes back with a story about a light in the deep levels, and more often he does not come back. The miners of the licensed workings at the fringes of Ardwyn tell each other never to follow a light underground that is not their own, and to carry fire, not lamps, into old ground.
+
+## Signs
+
+- A soft green or blue glow deep in a gallery or over still water, pulsing slowly, where no lamp is.
+- Bats and cave-fish fewer and fewer in a cave, and no bones left behind.
+- Metal tools, buckles and lamp-bowls lying on a gallery floor, pitted and clean, with no bodies near them.
+- Walls and floors of a passage etched smooth and pale in a broad band, as if something had flowed along them.
+- A faint sharp smell, like vinegar, in a passage with no water in it.
 
 ## Combat Strategy
 
-A Phosphorescent Globule opens combat by intensifying its luminescence, attempting to disorient and mesmerize opponents with dazzling light displays. Once prey is disoriented, it moves to engulf and dissolve them in its acidic body. The creature is slow-moving but very difficult to damage—physical attacks pass partially through its gelatinous form without causing lasting harm. If severely damaged, it can voluntarily fragment into multiple smaller globs, each capable of independent action, forcing opponents to deal with multiple threats simultaneously. A Phosphorescent Globule rarely retreats from combat; instead, it simply waits with eerie patience for an opening.
+The globule opens with light: it flares to dazzle and disorient, then drifts in and engulfs the nearest victim while he cannot see. Blows pass into its jelly and do little lasting harm. When it is badly hurt, it splits into several smaller globules, which drift apart and surround its enemies, and draw back together later. It is slow, and a party that keeps its eyes shaded and keeps moving can get past it. Fire and hard cold are what hurt it.
 
 ## Attack Methods
 
 ### Acidic Engulfment
 
-The creature surges forward and attempts to envelop a target partially or wholly within its corrosive form. Those caught experience rapidly accelerating dissolution as the ooze exerts pressure and dissolves flesh, bone, and equipment alike.
-
-### Blinding Flash
-
-The creature's luminescence flares with brilliant intensity, flooding the area with overwhelming light that blinds and disorients those within range. Affected creatures struggle to track movement or coordinate attacks.
+The globule surges over a victim and folds itself round him, partly or wholly. Its acid dissolves flesh, bone and equipment, faster the longer it holds, and it grips with a steady, crushing pressure.
 
 ## Special Abilities
 
+### Blinding Flash
+
+The globule's light flares to a brilliant blaze that fills the gallery, blinding and disorienting everyone facing it. Dazzled men cannot follow its movements or fight together.
+
 ### Bioluminescent Lure
 
-The creature's constant glow is hypnotic and compelling to creatures of weak will, drawing them inexorably closer despite conscious misgivings. Those of strong will or clear mind can resist the pull, but weaker minds find themselves walking toward the light as though compelled by strings.
+Its glow draws the weak-willed toward it in spite of themselves. A strong will or a clear mind can resist the pull.
 
 ### Fragmentation
 
-When severely damaged, the Phosphorescent Globule can voluntarily split into multiple smaller globs, each with a fraction of the parent's size and strength. These fragments can act semi-independently to flank or surround opponents.
+When it is badly hurt, the globule splits into several smaller globules, each with part of its size and strength, which can flank and surround and which draw back together into one when the danger has passed.
 
 ### Acidic Body
 
-The Globule's very form is corrosive to most materials, slowly dissolving anything it touches. Weapons and armor exposed to the creature for prolonged periods suffer degradation, and flesh exposed directly to the creature is burned by the caustic slime.
+Everything that touches it is slowly dissolved. Weapons and armor left in contact with it are eaten away, and bare skin is burned.
 
-## Additional Information
+### Fire and Cold
 
-Fire is the Phosphorescent Globule's primary weakness—flames disrupt its bioluminescence and cause the acidic form to become unstable and painful. Extreme cold also damages it, hardening the gelatinous form and disrupting its movement and cohesion. The creature's luminescent organs, if harvested carefully after death, can be preserved and used as light sources or crafted into magical foci that retain dim bioluminescence for years. The creature's acidic secretions, properly neutralized and preserved, have value in alchemical processes. The greatest risk to removing a Phosphorescent Globule from an area is the certainty that if even a small fragment is left behind, it will regenerate into a full creature given enough time and food.
+Fire disrupts its light and makes its body unstable and painful. Hard cold stiffens it and breaks up its movement.
 
 ## Attributes
 

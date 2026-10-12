@@ -3,7 +3,7 @@ shortcode: acidtoad
 name: {full: Acidtoad, aliases: []}
 type: being
 subType: creature
-description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
+description: "A made amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -244,52 +244,88 @@ sohl:
 
 ![[acidtoad|Acidtoad]]{float=top-left}
 
-The water ahead begins to bubble and steam. A bloated, warty form emerges from beneath the scum—prehistoric, bulbous, its massive body swollen as if overfilled with something vile. Sickly green-yellow skin glistens where it isn't covered in mucus that hisses and pops as it drips onto stone. Its mouth yawns wide, and the stench of old rot mixed with something acrid makes your eyes stream. Where its saliva spatters, stone and wood char.
+The drain runs straight between two dikes, brown and still, scummed over with green, and the sluice-gate at its end has been eaten through: the oak boards hang in black, soft rags, and the iron straps are pitted like old bread. A bubble breaks the scum. Then a second, larger, and a shape rises from the water beside the gate, a toad as big as a calf, mottled green and sick yellow, its warty skin weeping and steaming faintly where it meets the air. Its throat swells and empties. Its eyes are yellow-green and have no lids. There is a thin, steady hiss, like fat in a pan, and the smell of it catches at the back of your throat.
 
 # Dossier {#dossier}
 
-Acidtoads are shambling amphibian predators of swamps and toxic pools, twisted by corruption into apex hunters of wetlands. These creatures dwelt once as normal toads until something—dark magic, alchemical seepage, or worse—transformed them into sluggish but lethally venomous ambush killers. Adventurers stumble upon Acidtoads in marshes, abandoned alchemical sites, or pools fed by underground rivers running through cursed lands.
+The Acidtoad is a dreadspawn made in the shape of a great toad: six to eight feet long and about eighty pounds, sluggish and patient, with skin that weeps a burning slime, a bite that weakens, and a gullet that spits acid. It lies in still water and waits for something to come close enough. It was made, as all dreadspawn are, and it does not breed, and the one that troubles the [[place-greylevels|Greylevels]] of eastern Aldorath came out of nowhere anyone can name, a generation ago, and has been there ever since. It moves from drain to drain across the reclaimed marsh, and it is the one creature on the Levels that the commissions of sewers fear more than a high tide.
 
 ## Presentation
 
-The Acidtoad is a massive, toad-like creature roughly six to eight feet in length, covered in warty bumps and weeping sores from which corrosive secretions constantly drain. Its hide is mottled sickly green and jaundiced yellow, allowing it to blend with algae-choked water and marsh vegetation. The interior of its gaping maw is pale and raw-looking, lined with backward-curving teeth; its jaw appears dislocated, capable of opening far wider than any natural toad's. Its eyes are lidless, bulging, a predatory yellowish-green that glow dimly in low light. A constant hissing emanates from it as acidic mucus burns away stone and wood in random sputters.
+The acidtoad is broad and flat, all head and body on short thick legs, with a hide of warts and open, weeping sores, mottled algae-green and jaundiced yellow, so that in a scummed ditch it looks like a mound of weed. The slime that runs from its sores hisses faintly on contact with the air and leaves a pale, pitted trail on stone. The mouth is huge and opens wider than any toad's, its inside pale and raw-looking, lined with small backward teeth. The eyes are bulging, lidless and yellow-green, and they glow dimly at night. It moves in slow, heavy hops and long crawls, and it sits for days without moving at all.
+
+## In the Land
+
+The Greylevels are low, wet, tidal country, drained by generations of work into grazing and arable and laced with dikes, drains, sluices and channels, and the acidtoad uses all of them. It lies up in the still, scummed water of the drains and the old unreclaimed marsh at the edges of the mudflats, and it moves between them by night along the channels. It favors water near a sluice or a ford, where cattle and people come. Wherever it has lain long, the water is poisoned: fish die, the weed turns yellow, and the timber of the sluices rots. It does not go into the tidal river or onto the open flats, and it does not go up into the dry ground of the Aldorvale.
 
 ## Key Behaviors
 
-The Acidtoad is a solitary, patient predator. It stations itself in shallow swamp water, at the margins of toxic pools, or in muddy riverbank hollows where its discolored hide renders it nearly invisible. There it waits—sometimes for days—until movement in the water betrays prey. It does not hunt actively except when starving; it prefers the ambush. When not hunting, it remains nearly comatose, breathing slowly, exuding its corrosive secretions at a reduced rate. Acidtoads show no interest in territories beyond their immediate hunting ground and do not congregate.
+The toad sits in the shallows with only its eyes and the top of its head above the water and waits, sometimes for days, until something comes down to drink, wades across or leans over the bank. Then it lunges, bites and spits. It eats sheep, calves, dogs, waterfowl and fish, and swallows them slowly. Between meals it lies nearly comatose, breathing slowly, its slime running thinner. It is solitary and keeps to no fixed range, moving from one drain to the next when it has fouled the last. It does not pursue far: a sheep that reaches the dike-top is safe from it. It is not stupid, and it learns which gates and fords are used at which hours.
+
+## What the Levels Do
+
+The commissions of sewers that keep the drains and sluices of the Greylevels argue about everything except the toad. A drain where the fish have died and the gate-timbers have gone soft is closed to cattle and to men at once, and the commission sends its dikemen to find the toad and drive it out: they churn the water with long poles from the dike-top and wait for it to move, and they keep well back from its spit. Killing it has been tried several times, with spears, fire and once a cask of quicklime; it has been hurt and has gone, and has come back to another drain a season later. The Levels count the rotten sluice-gates among their costs, and a commissioner's bill for new oak after a toad year is the one bill nobody contests. Cold weather makes it slow, and the dikemen go after it in a frost.
+
+## Signs
+
+- A drain or ditch where the fish float dead and the weed has gone yellow.
+- Sluice-gates and footbridges whose timber has gone black and soft, and iron fittings pitted.
+- A pale, pitted trail across a stone ford or a dike-top, as if something burning had crawled over it.
+- A thin hissing over still water on a quiet night, and the smell of something sour and sharp.
+- Sheep that will not drink at a particular ditch, and a dog that comes home with burned paws.
 
 ## Combat Strategy
 
-The Acidtoad strikes from concealment, attempting to incapacitate or severely injure prey with its initial attack before they can reach safety. If prey proves more resilient than expected, the toad deploys ranged acid attacks while maintaining distance, slowly wearing down armor and health. It does not pursue prey into deep water or up steep banks; if prey reaches defensible ground, the toad retreats to its lair to wait for a better opportunity. Injury causes it to become erratic and dangerous rather than cautious.
+The toad strikes from hiding: it lunges out of the water at whatever is nearest, bites, and holds long enough for its slime to burn. If the prey breaks away, it spits after it, again and again, while it has a clear line. It does not follow up a steep bank or onto open ground. If a fight goes badly it sinks back into the water and is gone along the drain, but a hurt acidtoad becomes erratic and dangerous and may come out of the water after whoever hurt it.
 
 ## Attack Methods
 
-### Corrosive Spit
-
-The creature projects a stream of caustic fluid from its gaping maw that burns exposed flesh and erodes armor and kit. The toad can keep spitting for as long as it has a clear line to its target.
-
 ### Venomous Bite
 
-The Acidtoad's bite crushes and injects a venom that weakens muscles and slows reflexes in the bitten limb. Prey bitten in the leg may find movement increasingly difficult; prey bitten in the arm loses grip strength and precision.
+The jaws close on a leg or an arm and crush, and the bite carries a venom that weakens the muscles of the bitten limb. A man bitten in the leg moves stiffly and slowly; bitten in the arm, he loses his grip.
 
-### Toxic Slime
+### Corrosive Spit
 
-The toad's body secretes a mildly corrosive mucus that burns on prolonged contact. Any creature grappled by or in close physical contact with the toad is burned worse the longer the contact lasts.
+The toad's throat swells and throws a stream of acid from its mouth that burns skin, eats into leather and pits iron. It keeps spitting while it has a clear line to its target.
 
 ## Special Abilities
 
+### Toxic Slime
+
+The slime that runs from its skin burns on contact and burns worse the longer the contact lasts. A man grappled with it, or who grabs it, is scalded continually.
+
 ### Camouflage in Wetlands
 
-The Acidtoad's mottled coloring renders it nearly invisible in shallow water, muddy banks, and algae-choked pools. In these places it is very hard to spot, and it can hold a motionless ambush position for extended periods without detection.
+In a scummed ditch, a muddy bank or a weedy pool the toad is a mound of weed, very hard to see, and it holds still for days without being noticed.
 
 ### Acidic Secretion
 
-The creature's body constantly weeps corrosive slime. Any creature in prolonged contact with the toad is burned continually; leather, wood, and organic armor deteriorate rapidly from exposure.
+It weeps acid all the time. Leather, wood and cloth near it rot quickly, and the water it lies in is poisoned.
 
 ### Venom Potency
 
-The venom injected through the toad's bite and saliva weakens the victim by degrees. Victims bitten or struck by acid spit grow slower and clumsier with each dose as their muscles weaken and stiffen.
+Each bite or spit weakens the victim further, and a man struck several times grows slower and clumsier as his muscles stiffen.
 
-## Additional Information
+### Cold Weakness
 
-Cold-based attacks are significantly more effective against Acidtoads, as extreme cold hardens and cracks their moist, soft exoskeletons. Disrupting the creature's ambush position by churning the water or creating vibrations can force it from hiding before it can strike. Once driven from its lair or severely wounded, an Acidtoad will not pursue prey into truly deep water or defensible terrain—it retreats to await a better opportunity.
+Cold makes the toad sluggish, and hard frost cracks its soft, wet skin. It is easiest to drive and to kill in a freeze.
+
+## Attributes
+
+- **Strength:** 10-13 (1d4+9)
+
+- **Endurance:** 15-20 (1d6+14)
+
+- **Dexterity:** 7-12 (1d6+6)
+
+- **Agility:** 5-10 (1d6+4)
+
+- **Perception:** 14-17 (1d4+13)
+
+- **Aura:** 7-12 (1d6+6)
+
+- **Will:** 10-13 (1d4+9)
+
+- **Reasoning:** 5-10 (1d6+4)
+
+- **Creativity:** 6-11 (1d6+5)

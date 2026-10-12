@@ -400,8 +400,6 @@ Born in the [[place-vylariargn|Vylaría]] region to a guilded family of Vylarian
 
 Ashârâ is a skilled duelist who made a name for herself in the city's fencing circles. After winning several prestigious tournaments, she opened her own fencing school, where she trains young nobles and skilled fighters alike. Her quick reflexes and sharp eye make her a dangerous opponent, but she can be overly competitive, sometimes letting her pride get the better of her.
 
-Now at 34 years of age, she is a known figure among the swordmasters of Vylaria.
-
 ## Psyche
 
 ### Personality

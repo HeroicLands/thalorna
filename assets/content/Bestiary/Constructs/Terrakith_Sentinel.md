@@ -65,6 +65,10 @@ Who made the Khazryn's sentinels is not known. The scholars of [[place-caldar|Ca
 
 A massive human shape of gray-brown clay, roughly modeled, thick in the limb and short in the neck, eight feet tall and a thousand pounds. The surface is always wet and glistening, whatever the air, and it gives under a fingertip as fresh clay does and then closes again. Lines of signs are cut into its chest, arms and brow; those are the binding, and while they are whole the sentinel moves. The eyes are empty hollows. It makes no sound but the grinding of its own movement, and it smells of river mud.
 
+## In the Land
+
+In the Khazryn the sentinels stand in the ruins of the dead cities, at doors the sand has buried and uncovered again, in the lowest halls and at the thresholds of sealed rooms, and they are found too in old temples, tombs and the private chambers of mages elsewhere. Each stands at the post it was given and has never left it. The tribes know which ruins hold one and call those ruins shut. Wherever the sand shifts, a sentinel that has been buried for a lifetime is uncovered standing exactly where it stood.
+
 ## Key Behaviors
 
 A sentinel stands without moving for as long as its post is undisturbed, for centuries if need be, and does not tire, eat, sleep or decay. When something crosses the line it keeps, it acts, and its orders decide what it does: some strike anything that passes, some only what touches a particular thing, some stand aside for a word or a sign that whoever set them knew and nobody remembers. It pursues as far as its orders run and not a step further, then goes back to its post. It cannot be talked to, bribed or frightened, and it does not learn.
@@ -85,7 +89,7 @@ The tribes leave a ruin with a sentinel in it alone and say so to anyone who ask
 
 The sentinel walks straight at the intruder and strikes. It does not dodge, feint or protect itself; it absorbs what is done to it and goes on hitting. It stamps to throw a group off its feet and then strikes whoever is down. It is slow until something runs, and then it moves faster than its bulk suggests over a short distance. It fights until the intruder is dead, has gone back across its line, or it is destroyed. Edged weapons and points sink in and do little. A party that wants it stopped pours water on it, burns it, batters it with heavy blows, or gets to the signs.
 
-## Attack Methods
+## Special Abilities
 
 ### Crushing Blow
 
@@ -94,8 +98,6 @@ A heavy, clubbing swing of a clay arm that breaks shields, bones and men. It str
 ### Ground Stomp
 
 The sentinel lifts a foot and brings it down, and the shock throws everyone near it off balance and knocks loose stone from the walls of a narrow chamber.
-
-## Special Abilities
 
 ### Clay Durability
 
@@ -115,7 +117,7 @@ The signs cut into it hold the working. Scoring them through with a blade stops 
 
 ## Attributes
 
-- **Strength:** 18-23 (1d6+17)
+- **Strength:** 22-27 (1d6+21)
 
 - **Agility:** 4-7 (1d4+3)
 

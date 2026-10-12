@@ -415,55 +415,67 @@ sohl:
 
 ![[lmnshd|Luminshade]]{float=top-left}
 
-Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful—precise, dangerous, and indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.
+The sun is down behind the mountains and the great lake has gone still as a mirror, half gold and half dark, and the causeway out to the island temple runs across it like a line drawn on glass. Halfway along the causeway someone is standing who was not there a moment ago. Tall, too tall, with limbs too long and too graceful, and made of light and shadow in equal parts that do not mix: one side of the figure glows like the lake's gold, the other is as dark as its depths, and the two halves shift and trade places as you watch. It turns its head and considers you, with great interest and no warmth at all.
 
 # Dossier {#dossier}
 
-Luminshades are paradox creatures born where light and shadow meet in unusual proportion. They exist in the liminal spaces between day and night, in reflective surfaces and the gaps between stars. Unlike most spirits, they are not inherently malevolent, but their nature makes them incomprehensible to humans. A Luminshade may observe humans for months with no hostile intent, studying them as a scholar might study insects. Alternatively, it may decide on a whim that a particular person must be removed. They sometimes act as agents or messengers for more powerful entities, though their loyalty is questionable and their terms often incomprehensible.
+The Luminshade is a spirit of the boundary between light and shadow, a tall, graceful, man-shaped figure made of the two in perfect balance, which dwells in reflections, at dusk and dawn, and wherever light behaves strangely. It is curious, alien and not hostile, though it is no friend either: it cares for beauty, symmetry and interesting patterns, and it judges people by whether they provide them. It is seen most often at [[place-ixkulkul|Ixkul K'ul]], the temple-city on the sacred lake of K'uxi Balam in Southern K'ich'chik, where the lake is said to be the eye through which the gods observe the mortal world and the boundary between the mortal and the divine grows thin.
 
 ## Presentation
 
-A Luminshade is roughly human-shaped but clearly not human. Its body is composed of light and shadow in perfect balance—neither predominates, and both seem to shift independently. It stands about six feet tall, with limbs that are too long and graceful, and movements that seem to flow rather than step. Its face is smooth and featureless except for two points of luminescence where eyes should be—sometimes bright, sometimes dark, sometimes shifting between colors. The creature is semi-transparent, and through its body, the background becomes visible yet distorted, as if the world were seen through warped glass. It leaves no shadow when standing in light, and casts no glow when standing in darkness.
+A luminshade stands about six feet tall, shaped roughly like a person but plainly not one: its limbs are too long, its movements too smooth, its face a blank shifting of bright and dark. Its body is light and shadow in exact balance, neither winning, and the two move independently across it, so that it seems now mostly bright and now mostly dark. Where it walks, light bends: reflections come too sharp, shadows fall the wrong way, and colors brighten or drain. It makes no sound. It appears in a reflection before it appears in the world, and it can step out of a mirror or a still pool as easily as through a door.
+
+## In the Land
+
+The great lake of Ixkul K'ul dominates the eastern reaches of K'uxi Balam, and the temple-city on its northern shore is built entirely toward the water, its primary pyramid placed to catch the first light of dawn reflected across the lake. Luminshades come there at dawn and dusk, when the lake is a mirror, and walk the causeways, the viewing platforms and the ritual bathing pools, and the surface of the lake itself. They are drawn to places of change and of strange light: twilight, the edges of the lake's reflections, the polished stone of the temples. They do not stay long, and they seem to go back into the reflections they came out of.
 
 ## Key Behaviors
 
-Luminshades are curiosity-driven beings. They are drawn to places of change—battlefields, cities growing or shrinking, the boundaries between realms. They often appear at twilight or in places where light interacts strangely with architecture (mirrors, glass, water). By one account, Luminshades are collectors of memories or moments, gathering impressions of events they find aesthetically interesting. A Luminshade may protect a location it finds beautiful, or destroy one it finds ugly, with no regard for the humans inhabiting it. They do not hunt for food and do not require sleep. Their motivations, if they exist, are alien.
+A luminshade is driven by curiosity and by an aesthetic sense no one has been able to describe. It watches people, imitates them, rearranges light and shadow round them as if trying out patterns, and sometimes speaks, in riddles or in plain words that mean something other than they seem. It is not malevolent, but its ideas of harm and help are not human, and it can blind, chill or terrify someone simply to see what happens. It can sometimes be bargained with, on grounds that appeal to its sense of beauty, and it scorns crude offers. It fights reluctantly, and it may refuse to fight an opponent it finds dull.
+
+## What the Priests Do
+
+The priesthood of Ixkul K'ul maintains absolute control over access to the lake's waters, and it treats the luminshades as part of what the lake is: a sign that the boundary is thin and the gods are watching. Priests do not speak to them, and pilgrims are told not to answer one that speaks. The city's quiet character, where loud voices and raucous behavior are unusual, suits the luminshades; the priests say a luminshade that is shown something ugly, a quarrel or a cruelty on the causeway, becomes dangerous, and a pilgrim who behaves badly at dusk may be blinded by it before the temple guards reach him. The temple's craftspeople make offerings of polished obsidian mirrors and set them along the causeways at dusk, and the luminshades are seen looking into them.
+
+## Signs
+
+- Reflections in still water that are sharper and brighter than the scene they reflect, or show something that is not there.
+- Shadows falling the wrong way from a lamp at dusk.
+- A tall figure on a causeway or a terrace at twilight that is not there in full daylight or full dark.
+- Colors that brighten or drain in one spot, round nothing.
+- Polished mirrors set out in a row at dusk, facing the water.
 
 ## Combat Strategy
 
-Luminshades fight with creative, almost playful violence if forced into combat. They use their control over light and shadow to create confusion, with the goal of making combat more interesting rather than ending it quickly. They may refuse to fight a boring opponent, or press harder against a worthy one. They are not cowardly but they are vain; disabling their light-form can frustrate them enough to make them careless. They often break off a fight out of boredom rather than injury, deciding the encounter is no longer aesthetically interesting.
+A luminshade fights playfully and creatively, to make a fight interesting more than to end it. It blinds with bursts of light, chills with lashes of shadow, steps out of one reflection and into another to strike from behind, and turns its enemies' own light against them. It may stop fighting, suddenly, when it loses interest. It is weakest when forced wholly into darkness or wholly into blinding light, where its balance fails.
 
 ## Attack Methods
 
-### Light Blast
-
-The creature focuses its luminous form into a concentrated beam or burst of painful brightness. Victims struck by this attack feel as though they've stared into the sun; their eyes water and their vision becomes temporarily unclear. Multiple strikes can cause lasting eye damage.
-
 ### Shadow Strike
 
-The creature draws the surrounding shadows toward itself and lashes out with tendrils of darkness. Unlike physical strikes, this attack leaves the victim feeling cold and diminished, as though some inner light has been drained away.
+The luminshade draws the shadows round it into tendrils and lashes out. The blow is cold and leaves the victim feeling diminished, as if some light inside him had been drained.
+
+### Light Blast
+
+It focuses its brightness into a burst or a beam. The victim feels as if he had looked into the sun: his eyes stream and his sight blurs, and repeated blasts can blind him for hours.
 
 ## Special Abilities
 
 ### Light Manipulation
 
-The Luminshade can bend, redirect, and concentrate light in its vicinity with precision. It can create blindingly bright flashes, cause reflections to become mirrors that show false images, or redirect a beam of light to strike a specific target multiple times.
+It bends, redirects and concentrates light: it makes blinding flashes, turns reflections into mirrors that show false images, and turns a beam of light on a target again and again.
 
 ### Shadow Weaving
 
-With equal finesse, the creature can manipulate darkness—deepening shadows to invisibility, creating zones of absolute darkness where light cannot penetrate, or forming solid-seeming shadows that slow or tangle those who attempt to move through them.
+It deepens shadows into invisibility, makes pockets of darkness light cannot enter, and forms shadows solid enough to slow and tangle those who move through them.
 
 ### Translocation Through Light
 
-The Luminshade can move through reflective surfaces and directly between areas of light. It can step into a mirror and emerge from another, or move from one torch's glow to another torch's glow instantly. This ability only works between light sources that the creature can see.
+It steps into one reflection or pool of light and out of another it can see, instantly.
 
 ### Paradox Nature
 
-Being composed of equal parts light and shadow makes the Luminshade resistant to both darkness and light magic. However, it becomes more vulnerable when forced into a state of extreme shadow or extreme light—if surrounded only by darkness, or only by blinding brightness, it loses mobility and becomes vulnerable to attack.
-
-## Additional Information
-
-Luminshades are not evil and not good; they are aesthetic beings that care about beauty, symmetry, and interesting patterns. A Luminshade can sometimes be bargained with or negotiated with, but only on grounds that appeal to its sense of aesthetics. Offering to preserve something beautiful, or promising an interesting experience, may sway it. Threatening or harming something beautiful in its presence will enrage it far more effectively than direct challenge. A Luminshade defeated in combat often simply withdraws to wherever it came from, bearing no lasting grudge. Some communities have learned to coexist with local Luminshades by maintaining beautiful places and offering interesting events that keep the creatures engaged elsewhere.
+Light and dark magic both slide off it. Forced into total darkness or total light, its balance fails and it becomes vulnerable.
 
 ## Attributes
 

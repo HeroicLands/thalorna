@@ -403,8 +403,6 @@ Born in the [[place-elavendre|Élavendre]] region to a guilded family of Élaven
 
 Jéthra grew up in a bustling port city, where she developed a fascination with the night sky while watching ships navigate by the stars. She became an astrologer to provide guidance to sailors and merchants. Known for her practical and down-to-earth readings, she is popular among the seafaring community. She sometimes assists in navigation for long voyages.
 
-Now at 39 years of age, Jéthra Llýdar has established herself as a known figure among the astrologers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

@@ -421,51 +421,63 @@ sohl:
 
 ![[flmwrth|Flamewraith]]{float=top-left}
 
-Before you materializes a dancer of flame—a form more burning intention than body. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.
+The hill-fort burned so long ago that grass grows over the fallen roof-beams, but the stones of the inner tower are still black, and fused like glass on one side. In the doorway of the tower, something is standing that the wind does not move. It is the shape of a man, made of fire: crimson at the edges, white at the heart, flickering and blurring and re-forming, with two darker hollows where eyes would be. The grass at its feet does not burn. It looks at you, and then it looks at the torch in your hand, and it comes out of the doorway toward the torch with a sound like a long indrawn breath.
 
 # Dossier {#dossier}
 
-Flamewraiths are the tortured remnants of pyromancers who died consumed by their own infernos—or sometimes spirits summoned into the material world and bound to burning objects by dark rituals. They are volatile by nature, drawn to sources of flame and destruction. A Flamewraith encountered in the wild may have escaped its binding, making it a threat to entire regions; one called forth by a sorcerer will obey until released or its anchor is shattered. They are not mindless—they hunt with cunning and patience, and they learn.
+The Flamewraith is a spirit of fire: most often what is left of a mage who died in his own fire, his soul unreceived and bound to the place or the thing that burned him, and now a shape of living flame that hungers for fuel and burns what it touches. It passes through walls, it bursts into flame round itself, and it cannot be ended while the object it is bound to survives. The flamewraith best known in the west haunts a burned hill-fort in the hills of [[place-helionis|Heliónis]], near [[affiliation-theradon|Therádon]]. It dates from the Helionite war against the Vylarian Republic, when the Republic's dragons made the mage-warlords' spells turn back on them, and some of those mages burned in their own sorcery.
 
 ## Presentation
 
-The Flamewraith resembles a humanoid figure roughly six feet tall, composed entirely of roiling fire. Its body is not truly solid; it flickers and shifts constantly, with edges that blur and reform. Its surface ranges in color from deep orange and crimson to white-hot intensity at its core. No two moments show the same silhouette. The creature moves with liquid grace, sometimes gliding across surfaces, sometimes climbing vertical walls as though gravity is merely one option among many. It radiates intense heat sufficient to cause burns from ten feet away, and it leaves no tracks—only scorched earth and melted stone.
+A flamewraith has the shape of a person, six feet or so tall, made entirely of fire, crimson and orange at the edges and white at the heart, constantly shifting, its outline blurring and re-forming. Where its face would be there are only darker hollows. It moves without footsteps, and it can pass through stone and timber as smoke passes through a screen. The heat round it is fierce and metal near it grows hot. It does not burn what it does not mean to burn, and it means to burn almost everything.
+
+## In the Land
+
+During the war of 335 to 312 BF the mage-warlords of Heliónis held forts in the hills, and near the Republic's dragons their sorceries misfired and detonated in their hands. The hill-fort above the road to Therádon is one of the places where that happened, and the flamewraith is bound there: to the tower where it died, and to something in the tower, a mage's focus or a ring, that the Helionites say was never found. It does not leave the fort's ruins by day. At night, when it senses fire, a shepherd's lamp, a traveler's camp, a burning field, it goes toward it, and it has burned farmsteads in the valley below.
 
 ## Key Behaviors
 
-Flamewraiths are driven by a hunger for fuel and a compulsive need to consume. Most are found in places of destruction—ruins of burned settlements, volcanic regions, or around fire-touched sites. They do not sleep; they either rage across the landscape or fall into a kind of stupor near their binding object if one anchors them. When undisturbed, a Flamewraith may remain in a single place for weeks, slowly expanding a perimeter of scorched earth. Solitary creatures by nature, they become territorial and violent when encountered by others of their kind. They seem to regard living beings with a mix of hunger and contempt—food, but unworthy food.
+A flamewraith hungers for fuel and burns compulsively. It is drawn to flame of any kind and will abandon anything else to go to a fire it senses. It does not sleep, eat or rest; it rages, or it waits. It remembers little of whoever it was, and what it remembers is the burning. When its fire is put out or scattered, it is gone for a time and re-forms, after three days, at the object it is bound to, and it cannot be ended until that object is destroyed. Some flamewraiths are made deliberately: a spirit summoned and bound to a burning object by a mage who means to use it, which is a bad bargain for the mage.
+
+## What the Valley People Do
+
+The farmers and shepherds of the valley below the hill-fort light no fires after dark in sight of the fort, keep their lamps behind shutters, and roof their barns with tile. A household that sees a light moving down from the fort at night throws water on its hearth and goes out of the house. The [[affiliation-ordoarcanis|Ordo Arcanis]], whose founding college the mage-warlords came from, has sent scholars to the fort to find the object the flamewraith is bound to, because destroying it would end the creature and studying it would tell them what the mage-warlords knew. None of the scholars has found it. Helionite teachers of the older colleges bring their students to the valley, in daylight, as a lesson in what the ethical limits of arcane power look like when they are ignored.
+
+## Signs
+
+- A ruin whose stones are blackened and fused like glass on one side, and grass growing round them unburned.
+- A light moving at night through a ruin where nobody lives, brightening and dimming like breathing.
+- Fires that start in a valley on still nights, at lamps and hearths, with no one to light them.
+- A sudden heat on the skin in the dark, and metal growing warm in the hand.
+- Shepherds who keep their fires out and their lamps shuttered in a cold season.
 
 ## Combat Strategy
 
-Flamewraiths fight without fear of pain or death, knowing they can reform from their binding object if destroyed. They abuse their mobility, circling opponents and striking from multiple vectors. When facing a foe that cannot harm them with physical weapons, they become almost casual, toying with their opponent before the killing blow. If confronted with cold or water, they retreat if possible; these are the only things that seem to cause them true distress. They rarely flee combat entirely, preferring to become more evasive and ranged-focused. In groups, Flamewraiths still fight independently, though they may coordinate to herd prey into killing positions.
+A flamewraith fights without fear, because it knows it will re-form. It circles its enemies, passing through walls and trees to strike from new directions, and touches them to burn. When they bunch, it pulls in its fire and bursts outward. Against those who cannot hurt it with their weapons, it takes its time. It breaks off any fight at once to go to a bigger fire. Cold and water weaken it badly, and a large body of water can trap it; destroying the bound object ends it.
 
 ## Attack Methods
 
 ### Incendiary Touch
 
-The creature makes contact with flesh or fabric and the temperature spikes instantly to agony. This is heat of a different order—the inverse of freezing, a burning that penetrates through armor and cloth alike, searing muscle beneath. The victim suffers severe burns and lingering damage from internal heat.
+The flamewraith touches flesh or cloth and the heat spikes at once to agony, burning through armor and clothes into the muscle beneath. The burn is deep and slow to heal.
 
 ### Fireball
 
-The Flamewraith coalesces, drawing in its scattered form, and then explodes outward in a violent burst of flame. Nearby creatures are engulfed in a wave of heat and burning debris. Multiple opponents can be targeted by a single Fireball if they cluster; the creature seems to understand geometry and positioning instinctively.
+The flamewraith draws its scattered fire together and bursts outward in a blast of flame and burning debris that engulfs everyone near it and sets alight whatever will burn.
 
 ## Special Abilities
 
 ### Incorporeal Form
 
-The Flamewraith can pass through solid matter as though it were mist. It can phase slightly out of synchronization with the material world, making it resistant to physical weapon strikes and able to retreat through stone and wood. Cold and water-touched attacks are still dangerous to it, however; even when phased, such elements harm it.
+It passes through solid matter like mist and is only partly present in the world, so that weapons do it little harm. Cold and water touch it fully.
 
 ### Binding Anchor
 
-The Flamewraith's true existence is tied to a single object—usually a cursed artifact, enchanted weapon, or focus item. While that object remains intact, the Flamewraith cannot be permanently destroyed; after three days, it reforms fully. Only destruction of the binding object kills it permanently.
+Its existence is tied to one object. While that object survives, the flamewraith cannot be ended: put out, it re-forms fully after three days. Destroying the object ends it.
 
 ### Heat Aura
 
-Simply existing near a Flamewraith is dangerous. The ambient temperature rises markedly for thirty feet around it, and exposed skin burns over prolonged exposure. Flammable materials spontaneously ignite if too close. Metal weapons become too hot to hold comfortably.
-
-## Additional Information
-
-Flamewraiths are badly weakened by cold and water. A sufficiently large body of water can immobilize one, and sustained cold-based magic may reduce its power significantly. They are drawn instinctively to sources of flame—they will abandon a hunt if they sense a large fire nearby. This can be exploited by clever opponents. Their binding objects vary; some are grotesque (a charred bone), others beautiful (a gemstone that never cools). The object must be destroyed through normal means—typically, it requires great force or the right magical technique. A Flamewraith destroyed permanently leaves behind only ash and the binding object itself, which may be worth salvaging depending on its original nature.
+The air within thirty feet of it is hot enough to burn exposed skin over time, anything that will burn near it catches fire, and metal grows too hot to hold.
 
 ## Attributes
 

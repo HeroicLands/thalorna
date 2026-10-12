@@ -238,67 +238,79 @@ sohl:
 
 ![[thndrtln|Thundertalon]]{float=top-left}
 
-The sky darkens around it. What descends is magnificent and terrifying—an eagle the size of a great horse, wreathed in storm clouds and alive with crackling lightning. Its feathers are not feathers but tongues of lightning, each one glowing blue-white. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The charge in the air makes hair stand on end and forces breath to come in shallow gasps.
+The summit of the seamount is bare rock, and the thunderheads have piled up over the sea until the light is green. The candidate standing alone on the summit has his face turned up. Then the clouds split, and out of them drops an eagle made of storm: thirty feet of wing, feathers that crackle and spit sparks, talons that blaze white like lightning held in a fist. It does not scream. It comes straight down at the man on the summit, and the air round it shrieks, and every hair on your body stands up, and the bolt that comes with it strikes the rock beside him and throws him off his feet.
 
 # Dossier {#dossier}
 
-A Thundertalon is a storm elemental of tremendous power and intelligence. Unlike smaller air elementals, a Thundertalon is a conscious predator with clear motivations and tactics. It is drawn to high peaks and open skies, and it hunts both mundane prey and any creature foolish enough to climb into its domain. A Thundertalon views creatures of the earth and sea as primitives, and it will attack them on sight, viewing them as intruders in its rightful domain. Some Thundertalons have been known to develop territories and protect them across years.
+The Thundertalon is a great air elemental of storm: a spirit of the sky manifested as an eagle of lightning and cloud with a wingspan approaching thirty feet, a conscious, intelligent predator with clear purposes of its own, which haunts high peaks and open skies and attacks anything it deems an intruder there. It strikes with lightning-charged talons, calls bolts out of the sky, and raises storms. One haunts [[place-thrumufjall|Thrumufjall]], the sheer seamount on the [[place-nordheim|Nordheim]] coast that holds the temple of [[lore-thrunvalddty|Thrúnvald]] and the mother-hall of the [[affiliation-ordrstrmspkrs|Storm-Speakers]], whose summit takes every storm that comes in off the sea. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 
-A Thundertalon resembles an enormous eagle, with a wingspan approaching thirty feet. Its body is composed of storm and lightning given form, with feathers that crackle and spark. Its talons are pure lightning, and they glow with an intense blue-white light. Its eyes are storm-gray and far more intelligent than any natural bird. Where it flies, the air prickles, and the sharp smell that follows a lightning strike grows strong. It moves with grace and power, and the weather turns where it passes.
+The thundertalon is shaped like an enormous eagle, but its body is storm: dark cloud shot through with lightning, its feathers crackling and spitting sparks, its eyes two points of white fire. Its talons are lightning held in shape and glow white-blue. When it beats its wings, thunder rolls. The air round it smells burned and sharp, and metal near it hums and sparks. It flies fast and with absolute precision, and it can stoop from the cloud-base to a single man on a summit in moments.
+
+## In the Land
+
+Thrumufjall's summit is exposed to every storm off the water, and the hof and the mother-hall share the height and keep separate promises. The thundertalon comes with the great storms, out of the sea-clouds, and haunts the summit and the sky over the Nordheim coast round it, the cliffs and the fjord-mouths and the high fells behind. It hunts seals, whales at the surface, eagles, and the men who climb into its sky, and it treats the summit of the seamount as its own. In calm weather it is not seen. It is drawn to height, to open sky and to storms, and the summit draws it more than anywhere else on the coast.
 
 ## Key Behaviors
 
-Thundertalons are territorial and intelligent. They understand human settlement patterns and will attack humans attempting to climb mountains or enter sky-regions they have claimed. They hunt regularly and seem to prefer hunting from the air, diving at prey with tremendous speed. They have long memories and will remember individuals who have threatened them. Multiple Thundertalons in a region may coordinate or may fight for territorial dominance. They seem to grow stronger during storms and may position themselves in locations where violent weather is developing.
+The thundertalon is territorial and intelligent. It understands what men do, it knows the paths up the seamount and the times men are on the summit, and it attacks men climbing into the sky it claims. It hunts from the air and seldom lands. It grows stronger in every storm and from every lightning strike near it. It has a clear disdain for creatures of the earth and the sea, and it kills them with what seems like contempt. When its body is destroyed it bursts into a crack of thunder and a gust of rain, and it comes back with a later storm.
+
+## What the Storm-Speakers Do
+
+The Order of the Storm-Speakers examines its candidates on the exposed summit as the thunderheads pile up over the sea, and asks whether each can feel the storm coming. The thundertalon is part of the examination whether the order wishes it or not: the examiners stand a candidate alone on the rock in a storm, and they watch the sky as well as the candidate. A Speaker who can read a storm closely enough to know when the thundertalon is in it is a Speaker who has passed, and the order says so. Speakers on the summit carry their hammers and a grounding staff of iron driven into a crack in the rock, which draws the creature's bolts to the earth, and in a bad storm they take the candidates down. The Hofgodi of Thrúnvald's temple, who keeps a separate promise on the same height, says the thundertalon is a test sent with the storm, and blesses the candidates before they go up. The Speakers do not dispute it.
+
+## Signs
+
+- Lightning that strikes the same summit or headland again and again in one storm.
+- Seals and seabirds found dead on the rocks after a storm, burned and torn by talons.
+- A shape of wings outlined in lightning in the cloud-base over a peak.
+- Iron on a summit, a staff, a nail, a buckle, found fused and blackened after a storm.
+- A sudden stillness and a smell of burning in the air on a high place before any lightning is seen.
 
 ## Combat Strategy
 
-A Thundertalon fights from the air with tactical precision. It uses its speed to attack and withdraw before enemies can retaliate. It combines physical talon attacks with lightning strikes, and it can create localized storms to make the ground more dangerous. It will attempt to drive opponents off cliffs or into dangerous terrain. Against opponents with earth-based magic or protection against lightning, it becomes more aggressive, viewing them as worthy threats. A Thundertalon will fight to the death if protecting territory or young.
+A thundertalon fights from the air with precision. It stoops, strikes with its talons, and climbs away before anyone can answer, and it calls lightning down on those it cannot reach. It beats out thunderclaps to knock its enemies down and scatter them, sheds feathers of lightning that fly like darts, and raises a storm round itself to make the ground and the air worse. In a storm it is very hard to stop. Earth is what hurts it: grounding, iron rods in the earth, and magic of the earth take the force out of its lightning and can scatter it.
 
 ## Attack Methods
 
 ### Lightning-Charged Talons
 
-The Thundertalon dives and strikes with talons of pure lightning. The talons tear, and the lightning burns through even armored opponents. Victims struck are seized by paralysis and left with lasting numbness.
+The thundertalon stoops and strikes with talons of lightning. They tear and burn at once, the lightning passes through armor, and a man struck is jolted rigid and left numb.
 
 ### Lightning Bolt
 
-The Thundertalon summons a bolt of lightning from the sky that strikes a target with devastating precision. The bolt can strike multiple times if the Thundertalon maintains focus, and a single target may be struck again and again.
-
-### Thunderclap
-
-The Thundertalon beats its wings and generates a shockwave of thunder and lightning. The effect is deafening and knocks opponents off their feet. It can be used both as attack and as defense to create distance.
-
-### Storm Creation
-
-The Thundertalon can cause localized storms to develop rapidly, complete with lightning, heavy rain, and severe wind. The storm is centered on the creature and can last as long as the Thundertalon maintains focus.
+It calls a bolt out of the sky onto its target, precisely, and can call more while it holds its focus, striking the same man again and again.
 
 ## Special Abilities
 
+### Thunderclap
+
+It beats its wings in a shock of thunder and lightning that deafens and knocks men off their feet, and drives them back.
+
+### Storm Creation
+
+It raises a storm round itself quickly, with lightning, heavy rain and fierce wind, which lasts as long as it holds its focus.
+
 ### Aerial Dominance
 
-The Thundertalon is supremely skilled in aerial combat and maneuvers with incredible precision and speed in open sky. In aerial combat, ground-based opponents can barely answer it.
+In the open sky it moves with precision and speed that nothing on the ground can answer.
 
 ### Electrical Form
 
-The Thundertalon is partially composed of lightning, and lightning does it little harm. It is harmed primarily by earth-based magic and by anything that draws its charge into the ground.
+Lightning does it little harm. Earth magic hurts it, and so does anything that draws its charge into the ground.
 
 ### Lightning Summoning
 
-The Thundertalon can call down lightning from storm clouds with precision. It seems to have an almost supernatural ability to direct lightning from the sky.
+It calls lightning down from storm clouds with uncanny precision.
 
 ### Feather Projectiles
 
-The Thundertalon can shed feathers of pure lightning that fly like darts, arcing through the air and striking targets with surprising accuracy.
+It sheds feathers of lightning that fly like darts, arcing through the air to strike its targets.
 
 ### Storm Attunement
 
-The Thundertalon grows stronger during storms and draws power from every lightning strike around it. In a region of active thunderstorms, it becomes nearly unstoppable.
-
-## Additional Information
-
-Earth-based magic and grounding effects are most effective against a Thundertalon. Iron rods driven into the earth and metal frameworks that carry lightning safely to the ground can reduce the threat of its bolts. A Thundertalon destroyed far from any storm may not reform. One destroyed during a storm will likely return. Settlement threats from a Thundertalon can sometimes be resolved by offering alternative territory or by avoiding areas the creature has claimed. Some rare individuals have trained to fight Thundertalons and have survived such encounters by drawing its lightning into the ground and by earth-based magic.
+It grows stronger in storms and draws power from every strike near it. In a full thunderstorm it is nearly unstoppable.
 
 ## Attributes
 

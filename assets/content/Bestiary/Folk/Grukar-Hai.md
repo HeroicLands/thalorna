@@ -363,7 +363,7 @@ sohl:
             shockValue: 2
             probWeight: 20
             protectionBase: {blunt: 0, edged: 0, piercing: 0, fire: 0}
-      weight: {base: 172, calc: "(9 * str) + 50"}
+      weight: {base: 300, calc: "300"}
       reachBase: 0
       bodyScaleBase: 1.28
       personalFatigue: "enc + 5"
@@ -381,65 +381,61 @@ sohl:
 
 ![[grkrh|Grukar-Hai]]{float=top-left}
 
-The thing that fills the doorway is not merely large—it is a statement of violence made flesh. A Grukar-Hai stands six feet tall or more, a towering slab of gray-green muscle and scarred hide, broader across the shoulders than any two men standing abreast. Its jaw juts forward beneath a pair of cracked, yellowed tusks, and its small, deep-set eyes burn with a hatred so pure it seems almost sacred. Every inch of its body tells a story of combat: old wounds healed into ridges of pale scar tissue, chunks bitten from its ears, knuckles swollen and misshapen from a lifetime of breaking things. The massive weapon it carries—a brutal cleaver of black iron, or a war-club studded with jagged bone—looks as though it was made for something even larger, yet the creature wields it with a terrible, easy strength. When a Grukar-Hai looks at you, it is not sizing you up. It has already decided you are beneath it. It is merely deciding how slowly you will die.
+The thing that fills the doorway has to stoop to come through it. It is a Grukar, but built on another scale: six feet and more of gray-green muscle over heavy bone, broader across the shoulders than two men abreast, scarred everywhere, with chunks bitten out of its ears and a pair of cracked yellow tusks jutting from its underslung jaw. It carries a cleaver of black iron that looks made for something larger still, and it carries it easily. Behind it the smaller ones crowd and wait. It looks at you with small, deep-set eyes, and there is no measuring in the look. It has already decided what you are. It is only deciding where to begin.
 
 # Dossier {#dossier}
 
-The Grukar-Hai are the apex predators of Grukar-kind—the largest, the strongest, and by far the most dangerous of the three subspecies. Standing between five and a half and six and a half feet tall, they tower over their lesser kin and would be an overwhelming military force if not for one critical flaw: they cannot abide one another. The Grukar-Hai are driven by an all-consuming need for dominance that extends to every creature they encounter, including—especially—other Grukar-Hai. When two meet, the result is almost invariably a fight to the death. This ceaseless fratricide means that only the most fearsome specimens survive, but it also keeps their numbers brutally thin, comprising perhaps five percent of any Grukar population. A single Grukar-Hai is a terrifying opponent, capable of cutting through multiple trained soldiers. Two Grukar-Hai in the same warband is a volatile situation. Three is a disaster waiting to happen. They are not stupid—they possess a brutal, animal cunning—but they lack the capacity as well as the temperament for strategy, planning, or cooperation. They rule through fear and violence alone, and they are obeyed because the alternative is death.
-
-Within their one domain, however, the Hai do learn, and they are the only Grukar besides the Sha who learn anything at all. A Hai remembers which shield-wall gave and where, what a crossbow does at forty paces and what it cannot do at ten, which neighboring warband breaks under pressure and which merely pretends to. It learns from its disasters when it survives them and from its victories always, and an old Hai is dangerous in a way a young one is not. What it cannot do is imagine. It cannot picture a situation it has never stood in, cannot trace a consequence more than one step from its cause, and cannot assemble what it knows into anything that outlasts the season. The gap between a Hai and a Sha is not one of degree but of kind: the Hai lives wholly in tactics and the Sha in strategy, and a Hai will win the battle in front of it while losing the war it never understood it was in.
+The Grukar-Hai is the warrior caste of the [[lore-grukarfolk|Grukar]]: the largest, the strongest and by far the most dangerous, five and a half to six and a half feet tall and massively built, and perhaps one Grukar in twenty. It rules the [[being-grukaruk|Grukar-Uk]] by fear and fights everything, other Hai most of all, because it cannot abide a rival; two Hai who meet fight until one is dead. That fratricide keeps the Hai few and fierce, and it is no accident: the tribe's [[being-grkrahk|Grukar-ahk]] spawns its Hai in numbers that guarantee it, because a Hai with time to think might come to understand that mastering the spawner would make it master of everything. A Hai clutch takes twelve weeks and costs the tribe more food than any other laying, and word that the spawn-chamber has laid Hai runs through a tribe like a declaration of war, which is what it is.
 
 ## Presentation
 
-Grukar-Hai stand between 5.5 and 6.5 feet tall and are built with a density that seems to defy their already imposing stature. Their bodies are slabs of corded muscle layered over heavy, thick bones, giving them a weight and solidity that makes the ground creak beneath their tread. Their skin ranges from dark gray-green to a mottled brown-black, and is invariably a patchwork of ritual scars, bite marks, and poorly healed battle wounds—each one a trophy of dominance. Their faces are heavy-browed and brutal, dominated by a pronounced underbite from which cracked tusks protrude. Their eyes are small, deep-set, and lit with a smoldering, feral intelligence. They wear armor forged from scavenged metal and bone, often hung with grisly trophies—severed fingers, teeth, scraps of enemy banners. They carry oversized weapons: greatswords, cleavers, massive axes, and war-clubs that no human could lift, let alone swing.
+A Grukar-Hai is a slab of corded muscle over thick, heavy bone, dense enough that floors creak under it. Its skin runs from dark gray-green to a mottled brown-black and is a patchwork of ritual scars, bite marks and badly healed wounds, every one a trophy of a fight it won. The face is heavy-browed and brutal, with a pronounced underbite and cracked tusks, and the eyes are small, deep-set and lit with a feral intelligence. It wears armor of scavenged metal and bone, hung with trophies, fingers, teeth, scraps of banners. Its weapons are oversized, cleavers, great axes, war-clubs and swords no man could swing, and it swings them easily. It speaks no human tongue; it signals, as Grukar do, by posture and by calls from the chest and throat.
+
+## In the Land
+
+Every Grukar tribe has its Hai, one or two at a time and seldom more, in [[place-grkrhlmrgn|Grukarhölm]], in the eastern [[place-vrystwald|Vrystwald]], on [[place-targud|Targud]]'s burned eastern border, and in the empty interior of [[place-aelwyth|Aelwyth]]. The Hai leads the raids that come out of those places, at the head of its Uk. It is the Hai, more than any other Grukar, that the frontier peoples remember. In [[lore-burningeast|the Burning of the East]], which laid waste Targud's eastern districts from 604 to 614 AF, a Sha did the planning, and a Hai led what the Sha planned.
 
 ## Key Behaviors
 
-A Grukar-Hai recognizes only one law: the strong rule, and the weak serve or die. There is no hierarchy among them beyond the immediate, visceral question of who can kill whom. When a Grukar-Hai encounters another of its subspecies, dominance must be established—through posturing if possible, through lethal combat if not. This makes them natural warlords over the lesser Grukar subspecies, but terrible peers to one another. A tribe rarely supports more than one or two Grukar-Hai at a time, and even then the arrangement is a powder keg. They do not negotiate, they do not compromise, and they do not forgive. The only Grukar they tolerate are [[being-grkrsh|Grukar-Sha]] clever enough to make themselves indispensable, and [[being-grukaruk|Grukar-Uk]] craven enough to grovel. A Grukar-Hai encountered alone is paradoxically the most dangerous and the most approachable—without rivals to provoke its territorial fury, it may deign to speak before it kills, particularly if it senses strength worth testing.
+A Hai recognizes one law, that the strong rule and the weak serve or die. With other Hai there is no hierarchy but the question of who can kill whom, settled by posturing if possible and by a fight to the death if not, and the tribe's spawner lets those fights happen. Over the Uk it rules by terror. It tolerates the Sha that make themselves useful to it, and a clever Sha at a Hai's elbow is often the real voice of the warband. A Hai is not taught; it hatches knowing how to fight. Within that one field it learns, and learns well: which shield-wall gives on the left, what a crossbow does at forty paces and cannot do at ten, which neighbor's warband breaks under pressure and which only pretends to. An old Hai is much more dangerous than a young one. But it learns tactics and nothing else. It cannot imagine a situation it has not stood in, or trace a consequence more than one step, and it wins the battle in front of it while losing the war it never understood it was in.
+
+## What the Watch Does
+
+Commanders who face Grukar learn first to find the Hai, because the Hai is the warband. The Uk do not stand once their Hai is dead, and a raiding party whose Hai has been killed is a crowd of Grukar running home. Frontier levies in [[place-brynavar|Brynavar]] and Aldorath's [[place-wyndmarch|Wyndmarch]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hai in it is a civil war waiting for an excuse, and a commander who can give the Hai that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hai, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
+
+## Signs
+
+- Huge clawed footprints, deeper than an ox's, among the smaller tracks of a raiding party.
+- Trophies left on stakes at the edge of a raided steading: hands, heads, a broken banner.
+- The body of a Grukar-Hai, killed by another Hai, left where it fell with its trophies taken.
+- A raiding party that moves with a single purpose and does not stop to plunder until its target is taken.
+- Trees and gateposts hacked through with a single stroke.
 
 ## Combat Strategy
 
-A Grukar-Hai fights with devastating directness and relentless pressure. They push opponents, wear them down through sustained assault, and seek to break their will and body simultaneously. They use their strength to control the battlefield—sweeping weapons clear paths, bodies become obstacles, wounds accumulate. They are disciplined enough to follow orders and to coordinate with other Grukar, but they fundamentally prefer direct, sustained combat over tactics of evasion or cunning. They wear heavy armor and focus on dealing tremendous damage rather than avoiding it. Multiple Grukar-Hai fighting together coordinate shield walls and overlapping coverage, making them incredibly difficult to break through.
-
-## Attack Methods
-
-### Greatsword or Axe Strike
-
-A devastating swing of a massive weapon powered by supernatural strength. A single strike can cleave through armor and bone, killing a human with one blow or catastrophically wounding them. Multiple strikes are pressed in rapid succession until the target falls.
-
-### Hammer Strike
-
-Some Grukar-Hai favor war hammers or mauls. These weapons cause impact damage that bypasses some armor protections, crushing bones and rupturing organs beneath protective plates.
-
-### Shield Bash
-
-A massive shield wielded with enough force to knock opponents off their feet or through obstacles. The shield is used both defensively and as a weapon.
-
-### Sustained Assault
-
-The Grukar-Hai presses relentless attacks, seeking not to toy with an opponent but to overwhelm them through continuous pressure, wearing down their stamina and forcing mistakes.
+A Hai fights head-on and without let-up. It wades into the enemy line, swinging its huge weapon in strokes that cut through shields and men, and keeps pressing until the line breaks or it dies. It uses its strength to control the ground, sweeping a space clear round itself. It uses the Uk as a weapon and a shield, driving them in ahead of it and over the bodies. What it has learned from earlier fights it uses: the gap in a shield-wall, the place an archer cannot reach. It does not plan beyond the fight in front of it, it does not retreat while it can stand, and it does not forgive. It does not cooperate with another Hai, and two Hai on one field fight beside each other only until the enemy breaks.
 
 ## Special Abilities
 
-### Supernatural Strength
+### Tremendous Strength
 
-The Grukar-Hai possesses strength beyond what their physical size suggests. They can wield weapons that would require two humans, and their grip is difficult to escape.
+The Hai's strength is far beyond a man's. It wields weapons two men would struggle with, and its grip is very hard to break.
 
-### Martial Discipline
+### Battle-Learned Tactics
 
-A Grukar-Hai is trained extensively in combat and follows orders with military precision. They understand tactics, formation fighting, and coordinated assault.
+A Hai remembers every fight it survived and what worked in it, and an old Hai fights with a veteran's cunning within the narrow field of the battle in front of it.
 
 ### Battle Endurance
 
-A Grukar-Hai can sustain combat far longer than a human of equivalent size. They seem to grow less tired rather than more so as a battle continues, as though combat itself energizes them.
+It fights far longer than a man without tiring and grows more dangerous, not less, as a fight goes on.
 
 ### Will to Fight
 
-The Grukar-Hai possesses supernatural willpower that allows them to continue fighting through wounds that would drop other species. Only death or complete incapacitation stops a determined Grukar-Hai.
+It keeps fighting through wounds that would drop anyone else, until it is dead or can no longer stand.
 
-## Additional Information
+### Fratricidal Rivalry
 
-The greatest weakness of the Grukar-Hai is each other. A warband led by a single Grukar-Hai is a devastating force; a warband containing two is a civil war in waiting. Wise commanders who face a Grukar horde know that the surest path to victory is patience—given time, the Grukar-Hai will turn on one another, and the lesser Grukar will scatter without their terrifying overlords. A lone Grukar-Hai is still immensely dangerous but may be the most approachable, as it lacks rivals to provoke its competitive fury. They can sometimes be engaged through demonstrations of raw strength or fearlessness—a warrior who stands their ground and refuses to show terror earns a grudging moment of consideration before the violence begins. They cannot be bribed, reasoned with through logic, or appealed to through mercy. They understand only strength, and they respect only those who can survive their attention. Multiple Grukar-Hai fighting together is vanishingly rare and represents a crisis-level threat, typically only occurring when an external enemy is so overwhelming that even their fratricidal instincts are temporarily overridden.
+A Hai cannot abide another Hai. Two in the same warband fight each other given any excuse, and that rivalry is the surest weakness of a Grukar force.
 
 ## Attributes
 

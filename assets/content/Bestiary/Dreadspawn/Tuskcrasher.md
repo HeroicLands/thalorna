@@ -3,7 +3,7 @@ shortcode: tskcrshr
 name: {full: Tuskcrasher, aliases: []}
 type: being
 subType: creature
-description: "A corrupted, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
+description: "A made, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -253,55 +253,71 @@ sohl:
 
 ![[tskcrshr|Tuskcrasher]]{float=top-left}
 
-The forest ahead explodes—trees splinter and crash as something massive tears through them without regard for the obstacles in its path. You have only a moment to see it fully before it's upon you: a creature like a boar or wild pig magnified to nightmarish proportions, easily thirty feet in length, its muscular body covered in coarse hair bristling like pike-points. Enormous tusks curve upward and outward from its lower jaw, each one as thick as a man's arm and honed to terrible sharpness, capable of splitting stone. Its small, malevolent eyes glow with incandescent fury and fixated on you with the certainty of a predator that intends your death. The smell is overwhelming—musk and animal rage and the splintered wood of the trees it has recently destroyed. Then it simply charges, and there is nowhere to run, nowhere to hide that would be fast enough.
+The drove road runs through a hanging wood of oak and holly, and the drovers have stopped the herd. Ahead, the wood is broken: trees snapped off at waist height, a swathe of them, as if a storm had come through in a line. From the end of the swathe comes a grunt you feel in your chest. Then the boar comes out of the trees. It is as tall at the shoulder as a man on a horse, black and bristled, with tusks that curl up past its eyes as long as a man's arm, and its eyes are small and red with rage. It does not snort or paw the ground. It simply lowers its head and charges, and the oaks it hits on the way go down.
 
 # Dossier {#dossier}
 
-Tuskcrashers are territorial rage given flesh, corrupted wild boars driven to impossible size and strength. They are the undisputed rulers of deep forests and woodland regions, creatures that have claimed vast territories and defend them with suicidal ferocity against all comers. A Tuskcrasher seems less interested in hunting for food and more interested in eliminating any potential threat to its dominion—the creature will attack settlements, wayfarers, and other creatures with equal viciousness. An old Tuskcrasher has left a trail of destruction across its territory measured in decades, and it becomes increasingly hostile and aggressive with age, as though its hatred of intrusion deepens with every passing year.
+The Tuskcrasher is a dreadspawn in the shape of a gigantic wild boar, seven to eight feet at the shoulder and as heavy as a team of oxen, with tusks like scythes, hide like a tanned door, and a temper that makes no difference between a wolf and a war-party. It claims ten to twenty miles of forest and defends it against everything that moves through it, with a ferocity that does not stop for wounds. One holds the wooded hills of [[place-brynavar|Brynavar]], Élavendre's eastern march, where the drove roads run west to the markets and the raiders come down from the east, and it has fought them both. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
-A Tuskcrasher stands 14 to 18 feet in height at the shoulder, with a length exceeding 30 feet from snout to rump. Its body is essentially a scaled-up version of a wild boar—massively muscled, covered in coarse hair that stands on end when the creature is agitated, and colored in dark brown, black, or muddy gray. Its hide is thick enough to deflect arrows, and it bears the scars of countless territorial conflicts with other large predators and with humans who have attempted to oppose it. Its most distinctive features are its tusks: enormous, curved appendages of terrible sharpness that extend upward and outward from the lower jaw, capable of reaching lengths of 8 to 12 feet. These tusks are used as primary weapons and as tools for tearing through obstacles. The creature's eyes are small and glowing red, burning with rage and hostile intelligence. Its sound is a constant huffing, snorting breath broken by ear-shattering squeals of fury.
+The tuskcrasher is a boar on a monstrous scale: a huge, wedge-shaped head, a massive humped neck and shoulders, short thick legs and a body like a hay wagon. Its hide is very thick, covered in coarse black bristles that stand on end when it is roused, and caked with mud and scarred all over. Its tusks curl up and back from the lower jaw, longer than a man's arm, yellowed and chipped, kept sharp on the upper tusks and on trees. Its eyes are small and red. It smells rank enough to set horses screaming at a quarter of a mile. It moves through forest by going through it, and the trees it cannot go round it knocks down.
+
+## In the Land
+
+Brynavar's rolling wooded hills are excellent for stock and are the road by which trouble arrives overland, and the tuskcrasher holds a long stretch of them east of [[place-valdun|Valdûn]], oak and holly woods with clearings and springs. It has wallows and resting places all through its ground, and it roots for mast, roots and anything else, and eats cattle when it can catch them. Its ground lies across two of the drove roads, and it treats a drove of cattle as an invasion. It treats a Grukar raiding band or a Varokh war-party the same way, and it does not seem to care which side of the march anyone is on.
 
 ## Key Behaviors
 
-A Tuskcrasher claims a territory spanning ten to twenty miles or more, depending on the creature's age and power, and it defends every inch of that territory with absolute ferocity. The creature establishes wallows and preferred resting areas throughout its territory and follows regular routes in its patrols. It seems drawn to areas of dense forest and broken terrain where its charging tactics are most effective. The creature is primarily nocturnal but will hunt during the day if provoked or if prey is available. A Tuskcrasher seems to breed rarely, and a gravid female becomes so aggressive that entire regions become nearly impassable. An ancient Tuskcrasher may have held the same territory for centuries, and the forest around it bears the permanent scars of its passage.
+The tuskcrasher patrols its ground, feeds, wallows and fights. It attacks everything large that comes into its ground, without warning and without stopping, and it does not tire: it fights for hours, and its rage grows with every wound. It is not clever, but it remembers the roads people use and the times they use them. It sharpens its tusks on oaks until they are scarred white, and it plows up whole clearings rooting. In autumn, in the mast season, it is worst.
+
+## What the March Does
+
+Brynavar is built for raiding, and the march treats the tuskcrasher as one more raider, and a useful one. The droving families, a power of their own, send their herds round its ground by the long road, which costs them two days and saves the drove. The hill levy at Valdûn, which has a better record against Varokh war-parties and Grukar bands than the court's cavalry, keeps a careful eye on which way raiders come in, because a band that comes through the tuskcrasher's ground arrives at Valdûn smaller, if it arrives at all. When the boar has come out of its ground toward the steadings, the levy has turned it back with fire and noise, and twice has tried to kill it with spears set against its charge, and has buried the spearmen. The levy's officers would not kill it now if they could, and say so over a drink.
+
+## Signs
+
+- Trees snapped off at waist height in a straight line through a wood, as if a storm had come through.
+- Clearings plowed up to the subsoil, and wallows the size of a cottage floor.
+- Oak trunks scarred white and gouged at the height of a man's chest, where it whets its tusks.
+- Huge cloven hoofprints, each as wide as a shield, sunk deep in a wallow's edge.
+- A rank smell on the wind that sets cattle bellowing and horses rearing.
 
 ## Combat Strategy
 
-A Tuskcrasher initiates combat by lowering its head and charging at maximum speed, attempting to gore opponents on its tusks or to ram them with its massive shoulder. It relies purely on direct force, using its overwhelming strength to crush and destroy obstacles and opponents alike. The creature is methodical rather than tactical—it will charge the same direction repeatedly if that strategy is working, and it shows little capacity to change tactics or adapt to new circumstances. Once engaged, it fights with relentless fury, the rage driving it forward despite injuries that would slow lesser creatures. The Tuskcrasher will fight to the death rather than retreat, and its death throes are so violent that even in dying it can cause catastrophic damage.
+The tuskcrasher charges, every time, with its head down and its whole weight behind its tusks, and it goes through whatever is in front of it. Then it slashes with the tusks, turns, and tramples what is down, and charges again. It does not plan, it does not retreat, and it does not tire, and wounds make it faster and angrier. Its weakness is that it is not clever: a party that scatters and uses trees, rocks and ravines too steep for it can avoid its charges, and fire hurts it and slows it.
 
 ## Attack Methods
 
 ### Goring Charge
 
-The Tuskcrasher lowers its head and charges at full speed, attempting to gore opponents on its tusks. The combined force of the creature's mass and speed makes this attack nearly impossible to defend against or dodge.
-
-### Tusk Strike
-
-With tusks raised, the creature uses its tusks as slashing weapons, capable of cleaving through flesh, bone, and wood alike. Multiple strikes can be delivered if prey remains in close proximity.
+The boar charges at full speed with its head down, and its tusks drive into anything in front of it with the weight of its whole body behind them. It is nearly impossible to stop or to dodge in close country, and it guts horses and throws men like sacks.
 
 ### Destructive Trampling
 
-Once an opponent is down, the Tuskcrasher will deliberately trample them, using its massive hooves to crush whatever lies beneath.
+Once a man is down, the boar runs over him and stamps on him with its huge hooves, and nothing beneath them survives long.
 
 ## Special Abilities
 
+### Tusk Strike
+
+Close in, it slashes sideways and upward with its tusks, cleaving flesh, bone and wood alike, again and again while its enemy is in reach.
+
 ### Forest Authority
 
-The Tuskcrasher moves through dense forest and broken terrain with surprising ease, and its movement speed increases in such environments. It can crash through obstacles that would stop lesser creatures, clearing paths through forest or stone with its body.
+It moves through dense forest and broken ground faster than across open country, crashing through obstacles that would stop anything else.
 
 ### Relentless Aggression
 
-The Tuskcrasher does not tire. It will fight continuously for hours or days without rest, and its rage only intensifies as combat continues. Wounds make the creature faster and stronger, not slower.
+It does not tire, it fights for hours, and wounds make it faster and stronger.
 
 ### Hide Resilience
 
-The Tuskcrasher's thick hide and massive size grant it resistance to physical damage. Most conventional weapons cause minimal damage unless the creature can be prevented from moving or unless attacks focus on vulnerable points.
+Its thick hide and great bulk shrug off most weapons. Blows that find the eyes, the throat or the joints of the legs do far more than blows to the body.
 
-## Additional Information
+### Fire Weakness
 
-Fire is the Tuskcrasher's primary vulnerability—flames damage its thick hide and cause it pain and distress. Sustained heat can eventually drive a Tuskcrasher away, though only a very hot fire will stop a determined charge. Agility-based combat tactics and ranged attacks can exploit the creature's slow reflexes and low dexterity, though this takes great skill and coordination. The creature's tusks, if harvested from a slain specimen, are extraordinarily valuable and can be crafted into weapons or building materials of rare quality and durability. The hide can be tanned into leather tough enough to stop arrows. Some cultures have built entire traditions around hunting Tuskcrashers, and successful hunters are celebrated for the rest of their lives. The corpse of a slain Tuskcrasher is valuable enough to support an expedition for months.
+Fire hurts it and frightens it, and enough fire will turn it, though only a very hot fire stops a charge already under way.
 
 ## Attributes
 

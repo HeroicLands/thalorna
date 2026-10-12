@@ -402,8 +402,6 @@ Born in the [[place-nordheim|Nordheim]] region to a noble family of Nordheimn he
 
 Knulthvir hails from a prominent family of lawyers and has made a name for himself in the Litigant's Guild. Known for his sharp intellect and eloquence, he specializes in contract disputes and property law. Knulthvir has a reputation for being a formidable opponent in the courtroom and is sought after by clients seeking to protect their interests. He believes strongly in justice and fairness.
 
-Now at 38 years of age, Knulthvir Stormrót has established himself as a known figure among the litigants of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

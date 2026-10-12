@@ -3,7 +3,7 @@ shortcode: caerwynd
 name: {full: Caerwynd, aliases: []}
 type: place
 subType: settlement
-description: "Aldorath's western fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
+description: "Aldorath's eastern fortress, watching the interior and the forest margin—a garrison town whose whole reason is the country beyond it."
 tags: [town, fortified, frontier, inland]
 data:
   demonym: null

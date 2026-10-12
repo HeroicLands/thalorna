@@ -405,8 +405,6 @@ Born in the Harad region to a freeman family of Haradian heritage, Kashnûra Ars
 
 Kashnûra has been making candles for over twenty years in her small village. She learned the craft from her mother and now runs a small shop, supplying candles to the local community and nearby towns. Kashnûra takes pride in her work, using only the best tallow and beeswax, and her candles are known for their quality and long burn times.
 
-Now at 47 years of age, Kashnûra Arshûmû has established herself as a known figure among the chandlers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
-
 ## Psyche
 
 ### Personality

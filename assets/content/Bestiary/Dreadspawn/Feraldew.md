@@ -3,7 +3,7 @@ shortcode: feraldew
 name: {full: Feraldew, aliases: []}
 type: being
 subType: creature
-description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
+description: "A made cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
 tags: [dreadspawn]
 data:
   packFolder: dreadspawn
@@ -274,59 +274,75 @@ sohl:
 
 ![[feraldew|Feraldew]]{float=top-left}
 
-A graceful deer stands in the meadow with the others—gentle eyes, soft coat, modest antlers. Then it turns its head and smiles. Fangs gleam where no fangs should be, and its eyes are wrong—cold and calculating where they should be warm. When it moves, the wrongness becomes clear: no natural deer moves with such predatory precision. You've been watching it the whole time and never realized it wasn't a deer at all.
+The deer are grazing the river meadow at the edge of the birch wood, a dozen of them, does and young and a buck with a modest spread of antler, and they lift their heads as you come along the bank and then go back to grazing. All but the buck. The buck keeps looking. It has the softest, gentlest eyes you have ever seen on an animal, and it walks toward you, slowly, through the herd, as a tame deer might come to a hand. Close to, its face is too narrow and too sharp, and when it opens its mouth to bleat, every tooth in it is a fang. Its forelegs bend at a joint where a deer's do not, and the hooves begin to unfold.
 
 # Dossier {#dossier}
 
-Feraldews are corrupted cervids, creatures of deception and hidden violence that infiltrate normal herds and hunt with the patience of ambush predators. These creatures are not natural animals—something has twisted them from within, giving them predatory intelligence wrapped in familiar flesh. Adventurers encounter them in forests and grasslands, often not realizing they're present until already surrounded. They are particularly dangerous because hunters and travelers lower their guard around what appears to be normal wildlife.
+The Feraldew is a dreadspawn made in the likeness of a deer: a buck of ordinary size and fifty pounds' weight, with soft eyes and a modest rack of antler, that runs with a herd of real deer and uses it as a blind. Inside the likeness it is a killer, with fangs, dagger-tipped antlers and hooves that unfold into hooked talons. It hunts predators and people, never the deer it runs with. It is met in the forest-steppe belt of [[place-velanthrgn|Velanthia]], where mixed forest, river meadow and farmland interleave and the deer are many. More than one of the pattern has been killed there, which makes it one of the dreadspawn shapes its makers return to; each was made, each was alive, and none ever bred.
 
 ## Presentation
 
-The Feraldew appears to be a graceful buck roughly the size of a large deer, with a modest rack of branching antlers that seem purely natural. Its coat is dappled brown and cream, soft and seemingly healthy. Its eyes are large and expressive, appearing gentle and innocent at casual glance. However, closer inspection reveals wrong details: the too-sharp geometry of its face, the way its joints bend at unnatural angles, the fact that its teeth are all razor-sharp fangs. Its hooves are thickened, calloused, and can unfold into multi-jointed appendages ending in hooked talons. Its movements are graceful until the moment they become predatory—a sudden shift in demeanor that reveals the creature's true nature. The hide is tougher than any natural deer's, capable of resisting significant damage.
+At a distance it is a fine buck, dappled brown and cream, healthy and graceful, with a rack of branching antlers that look natural. Close to, the wrongness shows: the face is too long and the angles of it too sharp, the eyes are a little too large and too steady, the antler tines are hard and pointed as daggers, and the mouth is full of fangs. Its legs bend at a joint too many. Its hooves are thick and split deep, and when it rears they open into jointed, three-hooked talons. It bleats like a deer. It moves like a deer until it attacks, and then it moves like nothing else.
+
+## In the Land
+
+The feraldew runs with the herds of the northern forest-steppe, the deer of the birch and pine woods and the river meadows between the great river-kingdoms' farmland. It stays with one herd for a season or for years, and when the herd moves, it moves. The wolves and lynxes that follow deer herds learn to stay away from a herd with a feraldew in it, and the herd itself seems unaware of it. It hunts the hunters: wolves, foxes, the bears that take fawns, and the men who come out from the villages for venison. It does not come into villages or farmsteads.
 
 ## Key Behaviors
 
-The Feraldew lurks within herds of normal deer, camouflaging itself through proximity and borrowed identity. It has no interest in consuming normal deer; instead, it hunts predators and humanoids, using the herd both as camouflage and as bait. When threats approach the herd, the Feraldew waits patiently, allowing other deer to flee or be taken, then strikes with calculated fury. It understands how others will behave and exploits that understanding. It is fiercely territorial and will attack anything that moves too aggressively within its claimed meadow or forest. When satisfied with feeding, it can remain dormant for weeks, blending invisibly with normal herds. It shows no social behavior toward other Feraldews; if multiple inhabit the same region, they maintain separate territories.
+A feraldew waits for prey to come to the herd. When a predator closes on the herd, or a hunter creeps up on it, the feraldew lets the deer scatter and stays, as if dazed or as if it were the slowest of them, until the hunter is close and committed. Then it charges, antlers down, or rears and strikes with the talons. It understands how hunters behave and uses the herd to cover its movements and to draw them in. It will lie down as if wounded to bring a hunter close. It is fiercely jealous of its herd and kills other predators that hunt it, and it eats what it kills, slowly, in cover.
+
+## What the Villagers Do
+
+The forest-steppe villages hunt deer as they always have, and their hunters learned the feraldew the hard way. A hunter who brings down a deer and walks up to it carries his spear ready, and a hunting party never sends one man alone to finish an animal off. A buck that does not run when the herd runs is left alone and watched. The river-princes' foresters, who keep the princes' hunting grounds, count dead hounds as the surest sign: a feraldew kills hounds before anything else, and a pack that comes back short by three or four from a deer hunt brings the foresters out in force, with fire, which it fears. A feraldew killed is hung up whole at the village gate for a week so that every child sees the fangs and the talons, and its antlers are kept in the shrine.
+
+## Signs
+
+- A herd that does not scatter properly: one buck that holds its ground when the rest bolt.
+- Wolves, foxes and hounds found dead near a herd's grazing, gored and torn by talons.
+- Hoofprints at the edge of a meadow that change partway along the trail into the prints of something clawed.
+- A herd's movements that are too orderly, all of it turning together, as if steered.
+- A hunter's camp found in the morning with its fire out and its hunter gone.
 
 ## Combat Strategy
 
-The Feraldew wins through surprise and positioning. It typically initiates combat only when it has the advantage—the target surrounded by deer, confused about the location of the threat, or already partially committed to attacking what appears to be normal prey. Its opening attack is a charge with antlers lowered, attempting to gore from a distance. If that succeeds, it immediately transitions to close-range bite attacks. If the opponent escapes the initial charge, the Feraldew rears up and uses its hooked talons in slashing combinations. It fights with cold intelligence, not rage, and will disengage if the fight turns against it, melting back into the herd or fleeing into forest. It shows particular cunning in using herd animals as obstacles and escape routes.
+A feraldew attacks only with the advantage. It waits until its victim is among the deer, confused about which one is the danger, or committed to taking what looks like an easy kill. Its first attack is a charge with the antlers down, from a few strides out. If that lands, it closes and bites. If its victim escapes the charge, it rears and rakes with the talons. It uses the panicking herd to break line of sight and to circle. Once it has been recognized it loses most of its advantage, and a feraldew that is identified and faced by several men usually breaks off and goes into the forest.
 
 ## Attack Methods
 
 ### Antler Gore
 
-The Feraldew lowers its head and charges with considerable force, attempting to gore the target with its dagger-like antlers. The charge adds its speed to the blow, and it can impale lightly armored targets.
+The feraldew lowers its head and charges, and the dagger-pointed tines drive in with the speed of the charge behind them. A lightly armored man can be impaled.
 
 ### Fanged Bite
 
-Once close with a target, the Feraldew bites with surprising ferocity, delivering deep puncture wounds and potentially tearing away chunks of flesh or armor. The bite is designed to wound rather than kill outright.
+Close in, it bites, and the fangs leave deep punctures and tear away flesh. It bites to wound and weaken, and keeps biting.
 
 ### Talon Rending
 
-When the Feraldew rears up on hind legs, its hooked talons extend from its hooves and rake downward in precise, devastating slashes. Multiple talon strikes in rapid succession can open severe wounds.
+Rearing on its hind legs, it unfolds the hooves of its forelegs into hooked talons and rakes down with them, quickly, again and again. The cuts are deep and bleed heavily.
 
 ## Special Abilities
 
 ### Deceptive Form
 
-The Feraldew's appearance allows it to blend into normal herds. Most observers seeing it at distance cannot distinguish it from natural deer without very careful observation. Within or near a herd it is nearly impossible to pick out.
+At any distance it is a deer, and within a herd it is nearly impossible to pick out without careful watching.
 
 ### Unfolding Talons
 
-The creature's hooves are deceptive—they unfold into multi-jointed appendages ending in curved, razor-sharp talons. These talons inflict grave wounds in combat and can be used for climbing or grappling as well as slashing attacks.
+Its forehooves unfold into jointed talons for slashing, gripping and climbing, and fold away again into hooves.
 
 ### Antler Defense
 
-The Feraldew's antlers are not purely offensive weapons. They are extremely strong and dense, and the creature uses them to block and deflect incoming attacks. The antlers also protect the head, reducing damage from overhead or frontal strikes.
+Its antlers are dense and very strong, and it catches and turns blows with them and protects its head with them.
 
 ### Herd Camouflage
 
-The creature is never fully alone if normal deer are present. It uses herds as cover, moving through them to break line of sight or to circle prey. The presence of panicked or fleeing deer provides effective concealment and distraction.
+It uses the herd as cover, moving through it to break line of sight and to circle a hunter, and a stampeding herd hides it entirely.
 
-## Additional Information
+### Fear of Fire
 
-Feraldews are vulnerable to fire, which damages their hide severely and causes pain that breaks their composure. They are less dangerous when separated from herds, as they lose both camouflage and tactical advantage. Once a Feraldew is identified, it loses much of its effectiveness—the deception is the primary weapon. Experienced hunters note that Feraldew herds behave differently from normal deer—movements are too coordinated, responses too organized—and that multiple "deer" in a herd may turn out to be corrupted infiltrators.
+Fire burns its hide badly and breaks its composure, and a feraldew faced with torches loses its patience and its cunning.
 
 ## Attributes
 

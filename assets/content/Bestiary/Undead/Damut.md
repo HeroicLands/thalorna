@@ -363,135 +363,115 @@ sohl:
 
 ![[damut|Damut]]{float=top-left}
 
-What rises before you is the obscenity of a corpse made animate—a body that has been dead long enough to decay, long enough that pieces should be missing, yet here it stands moving with a shambling gait. The smell hits you like a physical force—rot, decay, the stench of death too advanced to sustain life. Where flesh has fallen away, bone is visible beneath. Patches of mold and fungi grow across the surface. Yet the creature moves with terrible purpose, driven by something other than flesh, other than will. Its eyes, if they can be called that, are dark pits filled with necromantic shadow. This was a person once. No longer.
+What comes out of the dark is a corpse on its feet: a body dead long enough to rot, with patches of gray skin hanging loose, bone showing at the cheek and the hand, and mold furring the rags it wears. The smell reaches you before it does, thick and sweet. It walks with a jerking, uneven gait, as if strings were pulling it from several points at once, and it does not hesitate or look about. Its eyes are dark hollows. It has seen you, or smelled you, and it comes on, and behind it in the dark there are others.
 
-But not all of them have reached this state. Some are far more terrible precisely because they are still recognizable—a returned husband whose eyes are slightly wrong, a daughter brought back from the grave who speaks in broken sentences and flinches from sunlight. These are the recently returned, the ones who still remember, and they are more disturbing than any shambling corpse because they occupy the space between the living and the dead where neither category quite applies.
+Some are worse because they are not like that. A husband come home three days after his burial, standing at the door in his good coat, pale and cold, his eyes a little too still; a daughter brought back from the grave who knows her mother's name and speaks in broken sentences and will not go near the window when the sun is on it. They are recognizable, and that is the horror of them.
 
 # Dossier {#dossier}
 
-**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the unintelligent (or limited-intelligence) undead—zombies, mummies, skeletons, ghouls, and similar shambling things—from the Khelâthi root _d-m-t_, to drive, to goad: _the driven one_. A damut is produced by necromantic animation of a corpse, with the soul (or a fragment of it) bound to drive the body's motion. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is. See [[lore-undead|Undead]] for the learned terms and the folk names.
-
-## The Spectrum of Degradation
-
-Damutu exist along a continuous spectrum of degradation. Where on the spectrum any particular damut sits depends on how recently it was created, how skilled the necromancer was, what state the soul was in, and how much time has passed since animation.
-
-### The Recently Returned
-
-A soul pulled back shortly after death by a skilled necromancer may produce a damut almost indistinguishable from the living person at first glance. The body is cold to the touch, the skin slightly gray or pallid, the eyes not quite right—too still, too reflective, or carrying a faint luminescence in low light. But the person speaks. They recognize family. They remember their name, their home, fragments of their life. Some can carry on conversation, follow complex instructions, even display emotion—though whether these emotions are real or only habit is a matter of grim theological debate.
-
-These recently returned damutu are the most dangerous to encounter emotionally, because they provoke sympathy rather than revulsion. A grieving spouse sees their partner returned, diminished but _present_, and the instinct is to care for them, to hope, to believe that this is still the person they loved. It is not. The soul is damaged, the personality fragmentary, and the hunger is already there—suppressed initially by whatever remains of the person's will, but present and growing. The recently returned may go days or even weeks before the hunger becomes unmanageable. When it does, the results are catastrophic for anyone nearby.
-
-**Attributes:** Recently returned damutu retain much of their living capability. Physical attributes may be only slightly diminished (or in some cases enhanced by necromantic energy), and mental attributes can be near-normal initially. They can use weapons with skill, speak clearly, and find their way through unfamiliar ground. They are the most individually dangerous damutu because they combine near-human intelligence with the beginnings of undead resilience.
-
-### The Fading
-
-Within weeks to months of reanimation (the rate varies based on the strength of the original soul, the skill of the necromancer, and the time spent in the spirit realm before retrieval), the degradation becomes unmistakable. Speech becomes slurred, then monosyllabic, then gone. Memory fragments—the damut may recognize a place or a face but cannot say why. Coordination deteriorates: movements become stiff, then jerky, then shambling. The skin grays and begins to show signs of decay that no living body would exhibit. The eyes lose whatever warmth they had, becoming flat and dark.
-
-The hunger, previously suppressed, becomes the dominant drive. A fading damut will attack living creatures to feed, though the feeding provides no benefit—the blood and flesh consumed simply pass through or accumulate uselessly. The compulsion is spiritual, not nutritional, a broken echo of the soul's desperate need for the vitality it lost.
-
-**Attributes:** Physical attributes begin to decline, particularly dexterity and agility. Strength and endurance may remain high due to necromantic sustenance. Mental attributes deteriorate rapidly—reasoning, will, and perception all falling. The damut becomes increasingly reliant on instinct and the commands of its controller.
-
-### The Shambling Dead
-
-This is the state most people associate with the word "damut"—a corpse in advanced decay given animation and terrible purpose. The body is partially decomposed, with patches of missing flesh revealing bone or empty cavities beneath. Clothing hangs in tatters from decaying flesh. The creature moves with jerky, irregular motion, as though the animation magic is pulling at random points rather than controlling the whole smoothly. The eyes are hollow pits of darkness that reflect no light. The smell is overwhelming. No trace of the original person remains.
-
-A damut in this state has no independent behaviors. It exists to follow commands from its controller—typically a [[being-tereb|tereb]] or priest—or, if no controller is present, to pursue the only drive that remains: hunger. It will march for days without rest. It will attack enemies regardless of odds. It cannot be intimidated or bargained with because there is no person present to bargain with. Multiple shambling damutu in an area will ignore each other unless commanded otherwise, standing or moving in mechanical uniformity.
-
-**Attributes:** Physical capability is reduced to brute force—high strength and endurance from necromantic energy, but minimal dexterity, agility, and perception. Mental attributes are effectively zero. These damutu are slow, clumsy, and predictable individually, but overwhelming in numbers.
-
-### The Terminal
-
-A damut in its final stage of degradation is barely mobile—a collection of bones and leathery remnants held together by the last guttering sparks of necromantic energy. It moves in lurching, almost random patterns, no longer capable of following commands or even pursuing prey effectively. It may collapse and lie inert for hours before animation flickers back to life and drives it forward again. Eventually, the soul fragments dissipate entirely, the necromantic energy fails, and the body collapses into a heap of bone and decayed matter. What was once a person—what might once have been a loved one, pulled back from the afterlife by a grieving family—is simply gone. No afterlife. No rebirth. No continuation. The soul has been spent.
-
-## Failed-Ritual Damutu
-
-Not all damutu are created by pulling souls back from the spirit realm. Some are the products of failed tereb creation rituals. When a subject undergoes the deliberate ritual of killing and reanimation that is meant to produce a tereb, but the individual proves insufficient—lacking the spiritual strength, the devotion, or simply the raw power necessary to survive the transition with their soul intact—the result is a damut.
-
-These failed-ritual damutu are notably more powerful than those produced by spirit-realm retrieval. They begin at a higher point on the spectrum and degrade more slowly. A failed tereb who emerges from the ritual as a near-human damut may retain intelligence and capability for months before the slide begins. The end is always the same—eventually they degrade into the Shambling Dead and then the Terminal—but their ascendant phase lasts longer.
-
-This is because the tereb ritual _partly succeeded_. The candidate's soul went through significant alignment and reinforcement during the rituals; even when the final transition failed, the soul retains more coherence than a soul crudely yanked from the spirit realm by a necromancer. The result is a damaged tereb-aspirant rather than a freshly-crippled fragment.
-
-## The Hunger
-
-All damutu, regardless of where they fall on the spectrum, experience an insatiable hunger for the flesh and blood of the living. The hunger is not nutritional—consuming flesh provides no sustenance, no healing, no benefit. It is a spiritual compulsion, the broken soul's desperate and futile attempt to reclaim the vitality it lost. Blood is the strongest draw; a damut will pursue bleeding prey with particular intensity, driven by the warmth and life-force that blood represents. But flesh, breath, warmth of any kind—all provoke the hunger.
-
-The recently returned may suppress this hunger through residual willpower, sometimes for weeks. As degradation progresses, the hunger becomes uncontrollable. In their terminal state, the hunger is all that remains—the last flicker of animation in a body that has lost everything else.
+**Damut** (plural _damutu_; "damuts" at the table) is the learned name for the mindless undead, zombies, mummies, skeletons, ghouls and every other shambling thing, from the Khelâthi root _d-m-t_, to drive, to goad: _the driven one_. A damut is a corpse that a necromancer or a death god's servant has driven back into motion by binding to it the dead person's soul, or a fragment of it, pulled back out of the spirit realm. Nothing in it moves itself: it goes as it is driven, by the one who raised it or by the last hunger left in the meat. Having no will, it has no cloak, and cannot pass for anything but what it is for long. Every damut carries [[lore-theshadow|the Shadow]], the necrotic force that binds it, and every one is degrading from the moment it rises. See [[lore-undead|Undead]] for the learned terms and the folk names.
 
 ## Presentation
 
-The appearance of a damut depends entirely on its position on the degradation spectrum. The recently returned may look almost normal—pale, cold, slightly stiff in their movements, but clothed and clean and recognisable. A damut several weeks into degradation shows visible signs: graying skin, sunken features, a faint smell of decay, movements becoming increasingly mechanical. A fully degraded damut is the classic horror—rotting flesh, exposed bone, tattered remnants of clothing, hollow eyes, overwhelming stench. The progression is continuous and irreversible.
+A damut looks like what it is, at the stage it has reached. Newly risen and skillfully raised, it may pass at a glance for the living person: pale, cold to the touch, stiff in its movements, the eyes too still or too bright, carrying a faint shine in low light. Weeks into its decline the skin grays and sinks, the smell of decay begins, the movements become mechanical, and the eyes go flat and dark. At the end it is the corpse of the stories, rotting flesh over exposed bone, rags, hollow eyes and an overwhelming stench. The decline is continuous and does not reverse. A damut does not breathe unless it is speaking, and its chest is still when it stands.
+
+## In the Land
+
+Damutu are found wherever someone with the power has raised them, and the power is not rare enough. In the [[place-nrdlndsrgn|Nordlands]] the [[affiliation-nahild|Faith of Náhild]] raises its dead from the bodies of the weak, the cowardly and the dishonored and calls them [[lore-haugverdir|hrúmverdir]], servants and soldiers of the goddess's legions under the command of her favored [[lore-nagengir|nágengir]]. Elsewhere damutu are the work of necromancers: hedge practitioners who grab enough soul-stuff to drive a corpse, and skilled ones who are paid by grieving families to bring a particular person back. They are found in graveyards and burial chambers, in the cellars and hidden halls where necromancers work, at the edges of battlefields and plague pits, and on the roads behind whatever is driving them.
+
+## Key Behaviors
+
+A damut does what its creator tells it, and otherwise it hungers. Where it sits on the spectrum of decline decides almost everything else about it.
+
+### The Recently Returned
+
+A soul pulled back soon after death by a skilled necromancer makes a damut nearly indistinguishable from the living person at first. It speaks, knows its family and its name and its home, holds fragments of its life, and can follow complex instructions and fight with the skill it had in life. It provokes sympathy instead of revulsion, and the sympathy is the danger: the family sees its own returned and diminished, and hopes. It is not the person they loved. The soul is damaged and the hunger is already there, held down at first by what remains of the person's will. That may hold for days or for weeks. When it fails, the results are terrible for anyone in the house.
+
+### The Fading
+
+Within weeks or months, faster for a weaker soul, a cruder necromancer or a soul longer in the spirit realm before it was taken, the decline shows. Speech slurs, then shortens, then stops. Memory breaks into fragments: a face or a place recognized, and no idea why. Movement stiffens, then jerks, then shambles. The hunger takes over. Strength and endurance stay high, held up by the necromantic force, while dexterity, agility and every faculty of the mind fall away.
+
+### The Shambling Dead
+
+This is what most people mean by a damut: a corpse far gone in decay, moving with jerky, irregular motion, as if the animating force were pulling at random points of it. Nothing of the person remains. It does what its controller commands and nothing else, and without a controller it follows the only drive left to it, its hunger. It marches for days without rest, attacks regardless of odds, cannot be frightened or bargained with, and ignores other damutu unless commanded otherwise. One is slow, clumsy and predictable. Many are overwhelming.
+
+### The Terminal
+
+At the last a damut is a frame of bone and leathery scraps held together by the last sparks of the binding. It lurches at random, cannot follow commands or even pursue prey well, collapses and lies inert for hours, and lurches up again. Then the soul-fragments dissipate, the binding fails, and it falls into a heap. What was once a person, perhaps a loved one pulled back by a grieving family, is gone: no afterlife, no rebirth, no continuation. The soul has been spent.
+
+### Failed-Ritual Damutu
+
+Not every damut was pulled back from the spirit realm. Some are what comes of a [[being-tereb|tereb]] ritual that failed, when the candidate lacked the strength, the devotion or the power to cross with the soul intact, or fought the transition. These start higher on the spectrum and decline more slowly, because the ritual partly worked, and a failed-ritual damut may keep its intelligence and its skill for months, and be mistaken for a tereb, before the slide begins. The end is the same.
+
+### The Hunger
+
+Every damut hungers for the flesh and blood of the living. It gains nothing from feeding: the flesh brings no sustenance or healing and passes through or lies rotting in a gut that no longer works. The hunger belongs to the broken soul, a futile attempt to take back the life it has lost. Blood draws it most, and a damut follows a bleeding man with particular intensity; warmth, breath and flesh all draw it. It prefers the living flesh and blood of its own kind before all others. Dead flesh and spilled blood do not attract it.
+
+### Creators and Control
+
+Every damut has a creator, and the creator usually keeps some command of it: direct orders spoken close at hand, broad instructions carried out at a distance. A skilled necromancer has something near full command of a recently returned damut; a sloppy one with a shambling damut gives it a direction and hopes. A damut whose controller is gone does what it wants, if it still has the mind to want anything, and otherwise falls back on the hunger.
+
+## What People Do
+
+Most peoples of Thalorna hold necromancy to be evil, and the remedy for a damut is the same everywhere: destroy it, burn the body, and say over the remains the rites that should have been said in the first place, whether or not they can do anything for a soul so damaged. A damut cannot be cured, and the kindest thing that can be done for one of the recently returned is to end it quickly, before its family has to watch what it becomes. In the Nordlands, where Náhild's priests raise the hrúmverdir, the dead are burned or laid in the howe with the grave-ale drunk and the reckoning spoken, and a local godi, gydja or völva is sent for when the dead walk. The [[affiliation-ordoarcanis|Quaesitorium]], the Ordo Arcanis's enforcement arm, hunts necromancers wherever its writ runs and destroys what they have raised. Villages that have met damutu learn to barricade, because the shambling dead do not go round an obstacle intelligently, and they learn to look for the controller, because the damutu stop being coordinated when it dies.
+
+## Signs
+
+- Graves found open from the inside, the earth thrown outward, and the shroud left behind.
+- A smell of rot on the wind with no carcass to account for it, moving.
+- Livestock found partly eaten, the wounds gnawed by human teeth, the blood untouched where it was spilled.
+- A neighbor who came back from the dead and who will not sit in the sun or near the fire, and whose chest does not move.
+- Tracks of many bare or ragged feet walking in step, in a straight line, through fences and hedges.
 
 ## Combat Strategy
 
-Damutu fight according to their position on the spectrum. The recently returned retain combat skills from life and can employ tactics, use weapons with skill, and make intelligent decisions in battle. They are dangerous opponents because they combine near-human capability with the beginnings of undead resilience—they feel no pain, do not tire, and can absorb injuries that would incapacitate a living fighter. As degradation progresses, tactics give way to instinct, instinct gives way to simple aggression, and simple aggression gives way to the mindless, relentless advance of the shambling dead. In groups, degraded damutu overwhelm through numbers and endurance, pressing attacks from multiple directions without regard for self-preservation.
-
-## Attack Methods
-
-### Weapon Strike
-
-Damutu that retain skill from life fight with whatever weapons they possessed or were given. The recently returned may fight with real skill. Degraded damutu strike clumsily but with supernatural strength.
-
-### Grapple and Bite
-
-The hunger drives all damutu toward close-quarters feeding. Even those retaining weapons will sometimes drop them to grapple and bite, particularly when the hunger is strong. The bite of a damut carries infectious contamination—wounds inflicted by undead teeth often fester and cause sepsis.
-
-### Shambling Charge
-
-Multiple degraded damutu charging together create a wave of undead flesh that can overwhelm positions through sheer mass.
-
-### Overwhelming Assault
-
-A group of damutu coordinating attacks (whether directed by a controller or simply converging on prey) will press relentless assaults, wearing the target down through repeated strikes from multiple directions.
+A damut fights as its stage allows. The recently returned fight with the skill and the weapons they had in life and make intelligent choices, and they do not feel pain or tire, which makes them dangerous. As a damut declines, tactics give way to instinct and instinct to the plain, mindless advance of the shambling dead. In numbers, damutu overwhelm by pressing in from several sides without regard for themselves. They drop weapons to grapple and bite when the hunger is strong. Fire, daylight, barricades and the death of their controller are a party's best allies.
 
 ## Special Abilities
 
+### Weapon Strike
+
+A damut that keeps its skill from life fights with whatever weapons it had or was given, and the recently returned can fight well. A declining damut strikes clumsily but with unnatural strength.
+
+### Grapple and Bite
+
+The hunger drives every damut toward close quarters. It seizes, holds and bites, and the bite of the dead festers: wounds from undead teeth often go bad and poison the blood.
+
+### Shambling Charge
+
+Many degraded damutu charging together come on as a wave of dead flesh that can overrun a position by weight alone.
+
+### Overwhelming Assault
+
+Damutu converging on prey, directed or not, press on from every side at once and wear their target down with blow after blow.
+
 ### No Pain or Fatigue
 
-A damut does not tire, does not feel pain, and is unmoved by fear or despair.
+A damut does not tire, does not feel pain, and is untouched by fear or despair.
 
 ### No Need for Air or Rest
 
-A damut does not need to breathe. At first it may mimic breathing, and it must draw breath to speak, but it cannot be suffocated or drowned. A damut cannot float or swim; it sinks to the bed of the river, lake, or sea and walks until it finds its way out of the water.
+A damut does not need to breathe. At first it may mimic breathing, and it must draw breath to speak, but it cannot be suffocated or drowned. It cannot float or swim: it sinks to the bed of the river, lake or sea and walks until it finds its way out of the water.
 
 ### No Need for Food
 
-A damut has no need of sustenance. Necromantic energy animates it, and it has no interest in eating or drinking ordinary food. If it does, it eventually regurgitates the food undigested and putrid: the gut no longer works, but the food still rots.
-
-Note this is separate from the Hunger, which is a spiritual compulsion.
+Necromantic force animates it, and it has no need of food. If it eats ordinary food, it eventually brings it up undigested and putrid: the gut no longer works, but the food still rots. This is separate from the Hunger, which belongs to the soul.
 
 ### Supernatural Endurance
 
-A damut can survive destruction of internal organs that would kill a living creature. It continues functioning even when missing limbs, as long as the core animation sustains. It fights at full strength until destroyed and keeps moving until grievously damaged. It never goes into shock.
-
-In many cases, severed limbs will continue to animate, fingers dragging a severed hand across the ground, a leg continuing to bend and kick to move, a torso with one arm reaching out to grasp a victim.
-
-Only a grievous wound to a body part disables it, and only when every body part is disabled is the damut destroyed. A particularly effective way to defeat them is to use fire to burn the whole body.
+A damut survives the destruction of organs that would kill the living, keeps fighting at full strength missing limbs, and never goes into shock. Severed parts often go on moving: fingers dragging a hand across the floor, a leg still kicking, a torso with one arm reaching out to grasp. Only a grievous wound disables a body part, and only when every part is disabled is the damut destroyed. Burning the whole body is the surest way.
 
 ### Daylight Effects
 
-A damut's abilities and resilience are weakened in ordinary sunlight. Torchlight and other light have no effect; only daylight does. A serious wound inflicted in daylight does the harm of a grievous one, and a damut exposed to sunlight decays three times as fast as usual. Even highly functional damutu will avoid daylight if at all possible, hiding in a room or other shade to avoid direct sunlight.
-
-Note that the effect of sunlight on a damut is directly proportional to its ability to cast a shadow. On dark, rainy, overcast days, the damut may be unaffected by the dim daylight.
+Ordinary sunlight weakens a damut. Torchlight and other light have no effect; only daylight does. A serious wound inflicted in daylight does the harm of a grievous one, and a damut in sunlight decays three times as fast as usual. Even highly functional damutu avoid daylight if they can, hiding in a room or other shade. The effect is directly proportional to the damut's ability to cast a shadow: on dark, rainy, overcast days the dim daylight may not affect it at all.
 
 ### Hive Coordination
 
-When multiple damutu are controlled by the same entity, they move in perfect coordination without visible signals, suggesting they share some form of connection through the controller.
+Damutu controlled by the same creator move in perfect coordination, without visible signals, as if they shared a connection through their controller.
 
 ### Flesh Hunger
 
-All damutu are drawn to living flesh and blood with compulsive intensity. They always prefer the living blood and flesh of their own kind before all others. Dead flesh and spilled blood has no attraction for them.
-
-## Creators and Control
-
-All damutu have creators—either the necromancer who animated them or the priest or other agent who performed the work. The creator typically retains some degree of control over the damut: direct verbal command at close range, or broad instructions to be carried out at greater distances. The strength of control varies with the practitioner's skill and the damut's state of degradation. A skilled necromancer with a recently returned damut exercises something close to full command; a sloppy necromancer with a shambling damut can give it general directions and hope.
-
-Damutu that are not directly controlled, or whose controller dies or is incapacitated, revert to their natural state. The damut either does what it wants (if it still has the mental capacity for self-determination or self-preservation) or reverts to hunger-driven autonomy.
-
-## Additional Information
-
-A damut cannot be cured. The degradation of the soul is irreversible, and no known magic can restore what has been lost. The kindest thing that can be done for a recently returned damut—one that still remembers, still speaks, still recognizes loved ones—is to destroy it swiftly and perform proper funerary rites over the remains. Whether those rites accomplish anything for the already-damaged soul is a matter of theological debate, but the alternative—allowing the person to slowly degrade into a mindless, flesh-hungry shell while their family watches—is universally acknowledged as worse.
-
-Settlements dealing with damutu should focus on finding and eliminating the controller or the source of necromantic power. Large groups of degraded damutu can be managed with obstacles and barriers, which they will not intelligently circumvent. The presence of recently returned damutu—those that can still speak and reason—should be treated with extreme caution. They are not the people they appear to be. They are what remains of those people, fading, and they will become dangerous.
+Every damut is drawn to living flesh and blood with compulsive intensity, and prefers that of its own kind before all others. Dead flesh and spilled blood do not draw it.
 
 ## Attributes
 
@@ -511,8 +491,10 @@ The attributes below represent a fully degraded damut—the shambling dead. Rece
 
 ## See Also
 
-- [[lore-undead|Undead]]—The undead as a class, the learned terms and the folk names, and the Spirits-versus-undead distinction
+- [[lore-undead|Undead]]—the undead as a class, the learned terms and the folk names, and how the undead differ from spirits
 
-- [[being-tereb|Tereb]]—The cloaked one: the sentient undead
+- [[being-tereb|Tereb]]—the cloaked one: the sentient undead
 
-- [[lore-theshadow|The Shadow]]—The corrupting force from outside creation that every undead carries
+- [[lore-theshadow|The Shadow]]—the corrupting force from outside creation that every undead carries
+
+- [[lore-haugverdir|Hrúmverdir]]—the Faith of Náhild's raised dead, and the northern folk word's wider use

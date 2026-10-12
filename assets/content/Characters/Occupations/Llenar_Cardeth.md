@@ -403,8 +403,6 @@ Llénar Cárdeth is a ratter of Silvain, the Élavendri village inside the Silve
 
 The village lives on charcoal, honey, hazel and the gathered herbs that the physicians of Béravel pay so well for, and all of it is stored over a winter and draws rats. Llénar learned the trade from an old man of the village and has improved on it since: traps of his own pattern, ferrets, a knowledge of where a rat runs and why, and no poison, ever, because poison kills the dogs and cats that do half the work. His dog, Scout, a rough-coated terrier, has worked with him for nine years. He takes the farms of Ardwyn beyond the wood as well, and passes what he knows to any young ratter who will listen.
 
-He is a known figure among the ratters of Élavendre.
-
 ## Psyche
 
 ### Personality
