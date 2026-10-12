@@ -1,6 +1,6 @@
 ---
-shortcode: thmdspphnts
-name: {full: Theomídes Epiphaniôtês, given: Theomídes, clan: Epiphaniôtês, aliases: []}
+shortcode: thmdspfnts
+name: {full: Theomídes Epifaniôtês, given: Theomídes, clan: Epifaniôtês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -420,7 +420,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[thmdspphnts|Theomídes Epiphaniôtês]]{float=top-left}
+![[thmdspfnts|Theomídes Epifaniôtês]]{float=top-left}
 
 Theomídes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
 

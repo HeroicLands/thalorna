@@ -481,7 +481,7 @@ Young Scholar Dmitris
 The Brass Knuckles
 : A crew of street thugs led by a brutal enforcer named **Rahvárion** who run extortion rackets against beggars. They have beaten Arkhêa multiple times for "protection" money she could not pay.
 
-Stephanárzan
+Stefanárzan
 : An official who views beggars as urban blight to be removed. He has had Arkhêa arrested multiple times for vagrancy, each arrest more brutal than the last.
 
 ### Affiliations

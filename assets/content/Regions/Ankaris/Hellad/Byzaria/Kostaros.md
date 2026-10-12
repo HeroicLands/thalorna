@@ -20,7 +20,7 @@ Six thousand people live in Kostaros, one of the lesser harbors that string out 
 
 ## Who Comes from Kostaros
 
-- [[being-phylzstnkt|Phýléze Steníkot]] is a mercenary whom the Village Council of [[place-marshfeld|Marshfeld]] hires every year against bandits and raiders.
+- [[being-fylzstnkt|Fýléze Steníkot]] is a mercenary whom the Village Council of [[place-marshfeld|Marshfeld]] hires every year against bandits and raiders.
 - [[being-nmshrprklvs|Nômasáhr Paraklávos]] is a litigant in the League's commercial courts.
 - [[being-agapevrzns|Agápeia Varzánês]] is a miner.
 

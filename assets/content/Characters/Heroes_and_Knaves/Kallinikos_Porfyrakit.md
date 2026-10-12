@@ -1,6 +1,6 @@
 ---
-shortcode: klnksprphrkt
-name: {full: Kallínikos Porphyrákit, given: Kallínikos, clan: Porphyrákit, aliases: []}
+shortcode: klnksprfrkt
+name: {full: Kallínikos Porfyrákit, given: Kallínikos, clan: Porfyrákit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, tradesfolk]
@@ -420,13 +420,13 @@ sohl:
 
 # Appearance {#appearance}
 
-![[klnksprphrkt|Kallínikos Porphyrákit]]{float=top-left}
+![[klnksprfrkt|Kallínikos Porfyrákit]]{float=top-left}
 
 Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
 # Dossier {#dossier}
 
-Born into the Porphyrákit family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
+Born into the Porfyrákit family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Kyrillazûr** rather than forcing him into administrative service. Under Kyrillazûr's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
 By his early thirties, Kallínikos had established himself as the League's finest cartographer, creating detailed maps commissioned by traders and military commanders. But charts of known territories no longer satisfied him. At thirty-five, he began funding his own expeditions into unmapped regions, often at significant personal expense. Each expedition brought him closer to the edges of the known world—and closer to genuine danger. The thigh scar came during an expedition to the Shadowpeak Mountains five years ago, when he was ambushed by something that should not exist according to any of his sources.
 

@@ -160,8 +160,8 @@ export const RETIRED = [
         retired: ["Kyros"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Gregoras_Ephthymiopoulos.md",
-            "assets/content/Characters/Heroes_and_Knaves/Theomides_Epiphaniotes.md",
+            "assets/content/Characters/Heroes_and_Knaves/Gregoras_Efthymiopoulos.md",
+            "assets/content/Characters/Heroes_and_Knaves/Theomides_Epifaniotes.md",
         ],
     },
     {

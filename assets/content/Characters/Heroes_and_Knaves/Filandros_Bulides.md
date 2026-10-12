@@ -1,6 +1,6 @@
 ---
-shortcode: phlndrsbldds
-name: {full: Philándros Bûlîdês, given: Philándros, clan: Bûlîdês, aliases: []}
+shortcode: flndrsbldds
+name: {full: Filándros Bûlîdês, given: Filándros, clan: Bûlîdês, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, administration]
@@ -420,43 +420,43 @@ sohl:
 
 # Appearance {#appearance}
 
-![[phlndrsbldds|Philándros Bûlîdês]]{float=top-left}
+![[flndrsbldds|Filándros Bûlîdês]]{float=top-left}
 
-Philándros stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
+Filándros stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 
 # Dossier {#dossier}
 
 **A Born Voice**
 
-Philándros was born in the coastal city of Byzaris, major city of the Byzarian League, to a family of considerable standing. His father, **Kyros Bûlîdês**, held the position of Herald to the city governor, while his mother, **Basilkâra**, was a priestess of Flórania, goddess of fertility and abundance. From infancy, Philándros was trained in the formal arts of ceremony and public address. Where other children learned to speak, Philándros learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
+Filándros was born in the coastal city of Byzaris, major city of the Byzarian League, to a family of considerable standing. His father, **Kyros Bûlîdês**, held the position of Herald to the city governor, while his mother, **Basilkâra**, was a priestess of Flórania, goddess of fertility and abundance. From infancy, Filándros was trained in the formal arts of ceremony and public address. Where other children learned to speak, Filándros learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
 
 He became a Herald's apprentice at age twelve, a formal status that meant he was recognized as heir to one of the most prestigious positions in the city hierarchy. For thirty-three years, he has served in this role, first under his father and later as an independent Herald serving the city's current governance. In that time, he has presided over hundreds of ceremonies, announcements, and official functions. He has pronounced the succession of three different city governors, announced the outcomes of wars, declared peace treaties, and given voice to the wisdom and authority of the state.
 
 **The Tattoo's History**
 
-The lion tattoo on his thigh dates to Philándros's youth, when he served briefly as a soldier in the Byzarian League's military forces. At twenty-three years, he was called up for service during a brief conflict with neighboring territories. The tattoo was applied during that service, marking him as part of a specific regiment, and he has kept it as a reminder of that chapter of his life—a time before he became the perfectly controlled instrument of state ceremony. It is a point of pride and occasional private amusement that such a symbol of wildness and youth is hidden permanently upon his body, invisible to those who know him only through his formal role.
+The lion tattoo on his thigh dates to Filándros's youth, when he served briefly as a soldier in the Byzarian League's military forces. At twenty-three years, he was called up for service during a brief conflict with neighboring territories. The tattoo was applied during that service, marking him as part of a specific regiment, and he has kept it as a reminder of that chapter of his life—a time before he became the perfectly controlled instrument of state ceremony. It is a point of pride and occasional private amusement that such a symbol of wildness and youth is hidden permanently upon his body, invisible to those who know him only through his formal role.
 
 **Commitment to Tradition**
 
-As he has aged, Philándros has become ever more committed to the preservation of traditional ceremony and the maintenance of proper form. He views himself as a guardian of civilization's structure, the man who sees that society's most important moments are treated with appropriate solemnity and significance. This commitment has made him indispensable to the governing classes and somewhat resistant to novelty or change. When the city government proposed simplifying certain ceremonial elements a decade ago, Philándros opposed the changes so strenuously that the proposal was quietly abandoned. He has come to stand for continuity and order in a world that he perceives as increasingly chaotic.
+As he has aged, Filándros has become ever more committed to the preservation of traditional ceremony and the maintenance of proper form. He views himself as a guardian of civilization's structure, the man who sees that society's most important moments are treated with appropriate solemnity and significance. This commitment has made him indispensable to the governing classes and somewhat resistant to novelty or change. When the city government proposed simplifying certain ceremonial elements a decade ago, Filándros opposed the changes so strenuously that the proposal was quietly abandoned. He has come to stand for continuity and order in a world that he perceives as increasingly chaotic.
 
 ## Psyche
 
 ### Personality
 
-Philándros is a man of absolute conviction in the importance of proper form, decorum, and tradition. In public, he is the perfect herald: authoritative, dignified, commanding respect through bearing and voice rather than volume alone. In private, however, a different personality emerges. He is warm, even jovial, prone to laughing at remembrances of ceremonial gaffes or the amusing incidents that occur during official functions. He has a dry wit that catches people by surprise, and he is capable of real affection toward those he considers to be part of his inner circle.
+Filándros is a man of absolute conviction in the importance of proper form, decorum, and tradition. In public, he is the perfect herald: authoritative, dignified, commanding respect through bearing and voice rather than volume alone. In private, however, a different personality emerges. He is warm, even jovial, prone to laughing at remembrances of ceremonial gaffes or the amusing incidents that occur during official functions. He has a dry wit that catches people by surprise, and he is capable of real affection toward those he considers to be part of his inner circle.
 
 His relationship with change is deeply ambivalent. He intellectually recognizes that all things change over time, yet he believes that the pace of change in the present age is unprecedented and corrosive. He views younger people with a mixture of concern and judgment, seeing in their willingness to experiment with new forms of ceremony a troubling lack of respect for the accumulated wisdom of generations. Yet he is not entirely rigid—he has grudgingly accepted certain necessary changes, though always while maintaining that the fundamental principles of ceremony remain unchanged.
 
 ### Motivation
 
-Philándros is driven by a desire to preserve what he considers to be the essential structures that hold civilization together. He believes that without proper ceremony, without the maintenance of form and tradition, society will descend into chaos and barbarism. His ultimate hope is that he can train a successor worthy of inheriting his role—someone who will understand the practical side of being a herald and also the deeper spiritual and philosophical significance of the position. He has become increasingly concerned that no such successor exists among the younger generation of heralds, and this concern haunts him as he contemplates his eventual retirement.
+Filándros is driven by a desire to preserve what he considers to be the essential structures that hold civilization together. He believes that without proper ceremony, without the maintenance of form and tradition, society will descend into chaos and barbarism. His ultimate hope is that he can train a successor worthy of inheriting his role—someone who will understand the practical side of being a herald and also the deeper spiritual and philosophical significance of the position. He has become increasingly concerned that no such successor exists among the younger generation of heralds, and this concern haunts him as he contemplates his eventual retirement.
 
 ### Strengths
 
 - **Voice and Presence**: His voice is a trained instrument capable of expressing any emotion with perfect clarity, carrying across vast spaces and commanding attention without ever needing to raise his volume to an unpleasant level. His physical presence complements this—he has learned to stand, move, and gesture in ways that maximize his natural authority.
 
-- **Encyclopedic Knowledge of Ceremony**: Philándros knows the proper form, precedent, and usage for virtually any ceremonial situation. He can handle the most complex heraldic requirements with ease and can instantly identify when someone has violated established usage.
+- **Encyclopedic Knowledge of Ceremony**: Filándros knows the proper form, precedent, and usage for virtually any ceremonial situation. He can handle the most complex heraldic requirements with ease and can instantly identify when someone has violated established usage.
 
 - **Political Acumen**: Despite his focus on ceremony, he has developed a subtle understanding of political currents and where power lies. He knows which nobles are allies, which are rivals, and how to use the forms of ceremony to score subtle political points.
 
@@ -481,41 +481,41 @@ Philándros is driven by a desire to preserve what he considers to be the essent
 ### Patrons
 
 Governor Anthus Meridian
-: The current governor of Byzaris, who values Philándros's knowledge of ceremonial matters and relies heavily on his judgment regarding questions of proper form and precedent in official functions.
+: The current governor of Byzaris, who values Filándros's knowledge of ceremonial matters and relies heavily on his judgment regarding questions of proper form and precedent in official functions.
 
 The Grand Council of the Byzarian League
-: The highest governing body, which has come to rely on Philándros as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
+: The highest governing body, which has come to rely on Filándros as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
 
 High Priestess Teresia of Flórania
-: A priestess of the same order as his mother, who occasionally consults Philándros regarding the intersection of religious ceremony and civic ritual.
+: A priestess of the same order as his mother, who occasionally consults Filándros regarding the intersection of religious ceremony and civic ritual.
 
 ### Enemies
 
 Herald Markus Vex
-: A younger, reform-minded herald who has begun to introduce informal elements into ceremonial contexts and who publicly advocates changing heraldic traditions. Philándros views him as a threat to the entire order of society.
+: A younger, reform-minded herald who has begun to introduce informal elements into ceremonial contexts and who publicly advocates changing heraldic traditions. Filándros views him as a threat to the entire order of society.
 
 The Progressive Council Faction
-: A growing group of younger city councilors who advocate for less formality and more accessible government. They see Philándros as an obstacle to their vision of a plainer, more open society.
+: A growing group of younger city councilors who advocate for less formality and more accessible government. They see Filándros as an obstacle to their vision of a plainer, more open society.
 
 The Modernist Movement
-: A loose coalition of intellectuals, artists, and reformers who view traditional ceremony as archaic and oppressive. They have begun to mock Philándros publicly for his "outdated practices."
+: A loose coalition of intellectuals, artists, and reformers who view traditional ceremony as archaic and oppressive. They have begun to mock Filándros publicly for his "outdated practices."
 
 ### Affiliations
 
 The City Heralds' Guild of Byzaris
-: The official organization of heralds, of which Philándros is a senior member and de facto leader despite having no official title.
+: The official organization of heralds, of which Filándros is a senior member and de facto leader despite having no official title.
 
 The Order of Ceremony Preservationists
-: An informal but growing network of people committed to maintaining traditional forms in civic and religious contexts. Philándros is becoming increasingly involved in this organization's activities.
+: An informal but growing network of people committed to maintaining traditional forms in civic and religious contexts. Filándros is becoming increasingly involved in this organization's activities.
 
 ## Plot Hooks
 
-1. **The New Herald's Challenge**: A young herald named **Varakion** arrives in Byzaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Byzaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Philándros would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Philándros views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
+1. **The New Herald's Challenge**: A young herald named **Varakion** arrives in Byzaris from the outer territories, bearing letters that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Byzaris's formal ceremonial system. Varakion begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and novelty. Where Filándros would follow strict precedent, Varakion adapts ceremony to the specific needs and personalities of those involved. Initially, Filándros views this as disrespectful novelty, but as he watches, he begins to notice that Varakion's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. The question this puts to him is whether preserving tradition matters more than serving its purpose.
 
-2. **The Lost Ceremonial Texts**: Scholars discover that several volumes of the oldest heraldic texts—records dating back over two centuries detailing the development of ceremonial forms and their meanings—have been lost or destroyed. Philándros becomes obsessed with locating these texts, believing they may contain crucial information about the original purposes and meanings of ceremonies that have been practiced for generations without understanding their deeper significance. His search takes him to forgotten libraries, isolated temples, and even to negotiations with scholars and priests who may have fragments of these texts. As he pieces together the lost knowledge, he begins to discover that some of the ceremonies he has practiced his entire life may be based on corrupted or misunderstood versions of the original forms, and that his entire life may have been built on a partial truth.
+2. **The Lost Ceremonial Texts**: Scholars discover that several volumes of the oldest heraldic texts—records dating back over two centuries detailing the development of ceremonial forms and their meanings—have been lost or destroyed. Filándros becomes obsessed with locating these texts, believing they may contain crucial information about the original purposes and meanings of ceremonies that have been practiced for generations without understanding their deeper significance. His search takes him to forgotten libraries, isolated temples, and even to negotiations with scholars and priests who may have fragments of these texts. As he pieces together the lost knowledge, he begins to discover that some of the ceremonies he has practiced his entire life may be based on corrupted or misunderstood versions of the original forms, and that his entire life may have been built on a partial truth.
 
-3. **The Ceremony That Changed Everything**: Philándros is asked to preside over a ceremony of unprecedented importance: the formal resolution of a territorial dispute between the Byzarian League and a neighboring kingdom, to be sealed through ceremonial oath and ritual. However, he begins to suspect that some of the parties involved intend to use the ceremony itself as a means to bind one of the other parties into an agreement that violates the actual terms they negotiated. The problem is that if he exposes this plan openly, it will humiliate all involved and potentially shatter the fragile peace. Yet if he allows the ceremony to proceed, he will be complicit in a betrayal of the values that ceremony is meant to uphold. He must find a way to preserve both the form and the truth of the occasion.
+3. **The Ceremony That Changed Everything**: Filándros is asked to preside over a ceremony of unprecedented importance: the formal resolution of a territorial dispute between the Byzarian League and a neighboring kingdom, to be sealed through ceremonial oath and ritual. However, he begins to suspect that some of the parties involved intend to use the ceremony itself as a means to bind one of the other parties into an agreement that violates the actual terms they negotiated. The problem is that if he exposes this plan openly, it will humiliate all involved and potentially shatter the fragile peace. Yet if he allows the ceremony to proceed, he will be complicit in a betrayal of the values that ceremony is meant to uphold. He must find a way to preserve both the form and the truth of the occasion.
 
-4. **The Prophecy Spoken in Ceremony**: During an important state ceremony, as Philándros speaks the traditional words of blessing and acknowledgment, his voice inexplicably changes and he begins to speak words he does not consciously compose—ancient words in a language he does not know, prophecies of events yet to come. The experience is deeply disturbing to him, and he is uncertain whether it was a divine intervention, a momentary mental disturbance, or something else entirely. When portions of the prophecy begin to manifest, people begin to seek him out, believing him to be a conduit for divine will. Philándros has to bear the sudden elevation in status while trying to understand what occurred and what his new role might be.
+4. **The Prophecy Spoken in Ceremony**: During an important state ceremony, as Filándros speaks the traditional words of blessing and acknowledgment, his voice inexplicably changes and he begins to speak words he does not consciously compose—ancient words in a language he does not know, prophecies of events yet to come. The experience is deeply disturbing to him, and he is uncertain whether it was a divine intervention, a momentary mental disturbance, or something else entirely. When portions of the prophecy begin to manifest, people begin to seek him out, believing him to be a conduit for divine will. Filándros has to bear the sudden elevation in status while trying to understand what occurred and what his new role might be.
 
-5. **The Guild's Dark Secret**: As senior member of the Heralds' Guild, Philándros gains access to the deepest archives of the organization. There, he discovers historical records suggesting that heralds in previous eras have occasionally used their position to influence major political events through subtle manipulation of ceremony and the careful interpretation of precedent. More disturbing, he discovers evidence that some of his predecessors may have been complicit in hidden crimes—murders, betrayals, and political manipulations that were concealed through careful control of the official record and the ceremonial processes that documented historical events. He can expose these crimes and alter for good how his beloved institution is seen, or protect the guild's reputation by keeping the silence that has covered these secrets for centuries.
+5. **The Guild's Dark Secret**: As senior member of the Heralds' Guild, Filándros gains access to the deepest archives of the organization. There, he discovers historical records suggesting that heralds in previous eras have occasionally used their position to influence major political events through subtle manipulation of ceremony and the careful interpretation of precedent. More disturbing, he discovers evidence that some of his predecessors may have been complicit in hidden crimes—murders, betrayals, and political manipulations that were concealed through careful control of the official record and the ceremonial processes that documented historical events. He can expose these crimes and alter for good how his beloved institution is seen, or protect the guild's reputation by keeping the silence that has covered these secrets for centuries.

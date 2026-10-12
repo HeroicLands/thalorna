@@ -490,7 +490,7 @@ Master Educator Eugênios
 
 ### Enemies
 
-Rival Perfumer Makáriash Photokâr
+Rival Perfumer Makáriash Fotokâr
 : The only craftsman working at anywhere near Ángelides' level, Makáriash is driven by bitter envy and has begun spreading rumors that Ángelides' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Makáriash has also been systematically recruiting away Ángelides' few apprentices.
 
 The Merchant House of Thorne
@@ -515,6 +515,6 @@ The Byzarian League Artisans' Guild
 
 3. **The Lost Expedition**: Master Educator Eugênios reveals that a botanical expedition to the fabled Shimmer Gardens in the far south has gone missing. The gardens contain a flowering plant that blooms once every hundred years and produces a nectar with properties that, when properly processed, might create the "perfect fragrance" Ángelides has pursued his entire life. Eugênios offers to finance an expedition to locate the lost team and retrieve samples, but the journey will be dangerous, require Ángelides to leave his work for months, and likely prove fatal. Yet if the Shimmer Gardens are real, this is his last real chance to achieve the transcendence he seeks.
 
-4. **The Apprentice's Betrayal**: A talented young apprentice named **Karvánikos Pharmakákit** whom Ángelides has begun to trust with meaningful work is revealed to be a spy for Makáriash Photokâr. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Ángelides' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Ángelides has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
+4. **The Apprentice's Betrayal**: A talented young apprentice named **Karvánikos Farmakákit** whom Ángelides has begun to trust with meaningful work is revealed to be a spy for Makáriash Fotokâr. Karvánikos was planted specifically to steal formulas and learn trade secrets. When confronted, Karvánikos reveals that Ángelides' emotional coldness and impossible standards drove him to seek a master elsewhere. Whether he punishes, forgives, or tries to understand, Ángelides has to face what his own behavior has been and whether his pursuit of perfection has cost him the relationships that might have eased his isolation.
 
 5. **The Scent of Magic**: A scholar arrives claiming to represent an organization of wizards who have identified that Ángelides' fragrances produce measurable magical effects on human perception and emotion—effects that border on sorcery. They wish to study his methods and potentially commission fragrances for arcane purposes. The revelation that his work may be inadvertently magical is both thrilling and terrifying. His fragrances may be masterworks of craft, or he may unknowingly be a conduit for forces he doesn't understand. The organization's interest may be purely scholarly, or they may wish to make weapons of his creations.

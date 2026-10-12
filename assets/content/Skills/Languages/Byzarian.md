@@ -103,9 +103,9 @@ Many Helonic case functions are now expressed through **prepositions** borrowed 
 
 These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing Byzarian simplification.
 
-- **Ath pólithar ésharikê ýn Byzarion**—"The city is in Byzaría" (_pólithar_ nom. fem., _ésharin_ + locative particle _-kê_, _ýn_ + dat.)
-- **Ash émpharin parádharin khrémashîn**—"The merchant delivers goods" (_émpharin_ nom., _parádharin_ 1st sing., _khrémashîn_ acc.)
-- **Fôm phótamiroi phérantir drês athîn ghéranîn**—"Rivers are borne through the earth" (_phótamiroi_ nom. pl., _phérantir_ 3rd pl. pass. from _phéranin_, _ghéranîn_ acc. from _ghéranîs_)
+- **Ath pólitar ésharikê ýn Byzarion**—"The city is in Byzaría" (_pólitar_ nom. fem., _ésharin_ + locative particle _-kê_, _ýn_ + dat.)
+- **Ash émfarin parádarin khrémashîn**—"The merchant delivers goods" (_émfarin_ nom., _parádarin_ 1st sing., _khrémashîn_ acc.)
+- **Fôm fótamiroi férantir drês athîn ghéranîn**—"Rivers are borne through the earth" (_fótamiroi_ nom. pl., _férantir_ 3rd pl. pass. from _féranin_, _ghéranîn_ acc. from _ghéranîs_)
 
 ## Script and Literacy
 
@@ -141,11 +141,11 @@ Byzarian shows more dialectal variation than Helonic, reflecting its hybrid natu
 
 All phrases draw from the shared [[skill-helonclng|Helonic]] core vocabulary, with Byzarian simplification and eastern loanwords.
 
-- **Émphôria halîron euthálir esh**—"Eastern goods are profitable" (merchant maxim; _émphôria_ from Hel. _émphôria_, _euthálir_ from Hel. lexicon, verb-final order from eastern influence)
-- **Pêph phótamir, plûmâ rhéshir**—"By the rivers, all flows" (_pêph_ + dat. from Hel., _phótamir_ from Hel. _phótamir_, _plûmâ_ from Hel. _plûm_, _rhéshir_ from Hel. _rhésharin_)
-- **Khrýsharin máthiron esh**—"Gold is metal" (_khrýsharin_ and _máthiron_ from Hel., _esh_ simplified from Hel. _ésharin_)
-- **Zhe danîzh, kérdhanir vezh**—"Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vezh_ says there is none, _danîzh_ from Hel. _danîzharin_, _kérdhanir_ from Hel.)
-- **Phrûn émpharin, lêphir kérdhanir**—"With the merchant, profit is clear" (_phrûn_ + acc. from Hel., _lêphir_ and _kérdhanir_ from Hel.)
+- **Émfôria halîron eutálir esh**—"Eastern goods are profitable" (merchant maxim; _émfôria_ from Hel. _émphôria_, _eutálir_ from Hel. _euthálir_, verb-final order from eastern influence)
+- **Pêf fótamir, plûmâ réshir**—"By the rivers, all flows" (_pêf_ + dat. from Hel. _pêph_, _fótamir_ from Hel. _phótamir_, _plûmâ_ from Hel. _plûm_, _réshir_ from Hel. _rhésharin_)
+- **Khrýsharin mátiron esh**—"Gold is metal" (_khrýsharin_ and _mátiron_ from Hel. _máthiron_, _esh_ simplified from Hel. _ésharin_)
+- **Zhe danîzh, kérdanir vezh**—"Don't lend; there's no profit" (eastern _zhe_ softens the refusal and _vezh_ says there is none, _danîzh_ from Hel. _danîzharin_, _kérdanir_ from Hel. _kérdhanir_)
+- **Frûn émfarin, lêfir kérdanir**—"With the merchant, profit is clear" (_frûn_ + acc. from Hel. _phrûn_, _lêfir_ and _kérdanir_ from Hel. _lêphir_ and _kérdhanir_)
 
 ## Related Languages
 
@@ -182,8 +182,8 @@ Stress is read off the spelling: the acute or the circumflex carries it, and a n
 
 A house name states what the house is answerable for, and the suffix says on what footing it holds the name:
 
-- **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrysákit**, _porphyr-_ the purple dye gives **Porphyrákit**, _nomism-_ "coin" gives **Nomismákit**.
-- **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbor" gives **Limeníkot**, _gephyr-_ "bridge" gives **Gephyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
+- **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrysákit**, _porfyr-_ the purple dye gives **Porfyrákit**, _nomism-_ "coin" gives **Nomismákit**.
+- **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limên-_ "harbor" gives **Limeníkot**, _gefyr-_ "bridge" gives **Gefyríkot**, _ampel-_ "vineyard" gives **Ampelíkot**.
 - **`-ídek`**, hardened from the mixed `-idês`—**the house of a forebear**. _Theodor-_ gives **Theodorídek**, _Konstant-_ gives **Konstantídek**.
 - **`-zát`**, hardened from the eastern `-zâtvel` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _zhevrân_ "gem" gives **Zhevrânzát**, _karvash_ "caravan" gives **Karvashzát**.
 
@@ -215,9 +215,9 @@ The suffix system reflects layers of history:
 - Ghéraninos
 - Basilíon
 - Anastásios
-- Phótianos
+- Fótianos
 - Dôrashinos
-- Nikêphoros
+- Nikêforos
 - Khrýshirês
 - Lámbhinos
 - Eugênios
@@ -264,20 +264,20 @@ The suffix system reflects layers of history:
 - Maxentáhr
 - Timolkâr
 - Andrónash
-- Photianazûr
+- Fotianazûr
 - Makáriash
 - Kallinikâr
 - Doríanazh
 - Athanazûr
 - Eugenkâr
 - Kyriakáhr
-- Stephanáhr
+- Stefanáhr
 - Damaklîn
 - Ioannikáz
-- Philaretáhr
+- Filaretáhr
 - Nikándrash
 - Alexikâr
-- Sophronáhr
+- Sofronáhr
 - Eustathazûr
 - Kosmarzân
 - Damiánash
@@ -291,17 +291,17 @@ The suffix system reflects layers of history:
 - Agathkâr
 - Ambrósash
 - Charitonáz
-- Epiphanáhr
+- Epifanáhr
 - Euthymkâr
 - Klementáhr
 - Menandráz
-- Neophýtash
+- Neofýtash
 - Onesimáhr
-- Pamphilkâr
-- Philemonáz
+- Pamfilkâr
+- Filemonáz
 - Serapiónash
-- Tryphonáhr
-- Xenophonáz
+- Tryfonáhr
+- Xenofonáz
 - Zosímash
 - Dositházûr
 
@@ -315,7 +315,7 @@ The suffix system reflects layers of history:
 - Kallirôia
 - Theodorína
 - Basilía
-- Euphrasía
+- Eufrasía
 - Athanasía
 - Melissêna
 - Olympía
@@ -358,7 +358,7 @@ The suffix system reflects layers of history:
 - Basilkâra
 - Zenoníkash
 - Anastazâde
-- Philothéhran
+- Filothéhran
 - Sofroniáze
 - Glykeriásh
 - Athenázira
@@ -367,32 +367,32 @@ The suffix system reflects layers of history:
 - Olympiáze
 - Dorothéhran
 - Aristínaze
-- Photianéze
+- Fotianéze
 - Mavrouzâde
 - Sotiríza
 - Eudokíza
 - Kassandréze
-- Euphrasíza
+- Eufrasíza
 - Athanazíra
 - Melissáhre
 - Pelagéze
 - Eulaliánaz
 - Ekateríza
 - Irenáze
-- Sophiéhran
+- Sofiéhran
 - Marinázira
 - Xeniáhre
 - Theklánaz
 - Paraskevíza
 - Kharikléze
 - Eudoxiáze
-- Theophanéhran
+- Theofanéhran
 - Myrrhinéze
 - Elpidáze
-- Euphemíza
+- Eufemíza
 - Anthousáhre
 - Dositháze
-- Photeináz
+- Foteináz
 - Sosanníza
 - Thaleíza
 - Timotheáze
@@ -402,7 +402,7 @@ The suffix system reflects layers of history:
 - Zenaidéze
 - Prokopiáze
 - Serapiáhre
-- Neophytánaz
+- Neofytánaz
 - Klementíza
 - Makrináze
 
@@ -414,9 +414,9 @@ The suffix system reflects layers of history:
 - Argyrákit
 - Siderákit
 - Khalkákit
-- Porphyrákit
+- Porfyrákit
 - Keramákit
-- Amphorákit
+- Amforákit
 - Elaiákit
 - Oinákit
 - Sitákit
@@ -430,7 +430,7 @@ The suffix system reflects layers of history:
 - Xylákit
 - Pissákit
 - Thymiákit
-- Pharmakákit
+- Farmakákit
 - Margarákit
 - Lithákit
 - Olkadákit
@@ -444,7 +444,7 @@ The suffix system reflects layers of history:
 - Limeníkot
 - Pyrgíkot
 - Teikhíkot
-- Gephyríkot
+- Gefyríkot
 - Potamíkot
 - Thalassíkot
 - Oreiníkot
@@ -455,7 +455,7 @@ The suffix system reflects layers of history:
 - Steníkot
 - Kreníkot
 - Drymíkot
-- Lophíkot
+- Lofíkot
 - Petríkot
 - Ammíkot
 - Halíkot
@@ -482,7 +482,7 @@ The suffix system reflects layers of history:
 - Gavrilídek
 - Maxentídek
 - Andronídek
-- Photianídek
+- Fotianídek
 - Makarídek
 - Kallinikídek
 - Polykarídek
@@ -494,10 +494,10 @@ The suffix system reflects layers of history:
 - Eugenídek
 - Arkadídek
 - Kyriakídek
-- Nikephorídek
+- Nikeforídek
 - Anastasídek
 - Athanasídek
-- Sophronídek
+- Sofronídek
 - Prokopídek
 - Zenobídek
 
@@ -529,10 +529,10 @@ The suffix system reflects layers of history:
 - Varakazûr
 - Kallixenáhr
 - Eugenazûr
-- Photokâr
+- Fotokâr
 - Eudokáhr
 - Pelagazûr
-- Euphraskâr
+- Eufraskâr
 - Theoklazûr
 - Lysandáhr
 - Kassandazûr

@@ -37,7 +37,7 @@ The Amradi frontier to the south is a different matter—a border with a neighbo
 
 The March's strength is a chain of posts rather than a single army: the way-forts along the pass road, the watchtowers above the mule-tracks, the outer caravanserai-forts on the steppe margin, and a mounted reserve at Argýrteíkhos that can reach any of them within two days. The soldiers are League conscripts—farm boys from the plateau and the coast, serving terms that turn into careers when the aptitude is there—under commissioned captains, many of whom rose from the ranks. [[being-arshzrktkls|Árshazûr Katakálos]], a farmer's son from the Nêsthirian countryside who has held a captaincy in the March garrison for a decade, is the type: competent, respected, and never expected to go home.
 
-When the frontier turns critical the Lord Commander contracts mercenaries. [[being-lophrphlmds|Lôpháhr Philomédis]] and his company have taken the League's silver for twenty years whenever Vasilis has needed more than conscripts, and the relationship is one of mutual respect on both sides.
+When the frontier turns critical the Lord Commander contracts mercenaries. [[being-lofrflmds|Lôfáhr Filomédis]] and his company have taken the League's silver for twenty years whenever Vasilis has needed more than conscripts, and the relationship is one of mutual respect on both sides.
 
 The Lord Commander's command is distinct from the city's: Argýrteíkhos governs itself and keeps its own walls and its own garrison under its military governor, who sits on the League council. The March is everything beyond the city's charter, and the two commands are meant to check each other. In practice they cooperate closely, because they face the same country, and the monks of Argýrteíkhos's eastern-rite monasteries serve both as chroniclers, healers and go-betweens with the peoples beyond the passes.
 
@@ -57,4 +57,4 @@ The March produces silver, tolls and contracts. The mines in the ranges around A
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country it faces
 - [[affiliation-kngdmmrdd|Kingdom of Amradad]]—the neighbor on its southern forks
 - [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]—the League's other marches
-- [[being-arshzrktkls|Árshazûr Katakálos]], [[being-lophrphlmds|Lôpháhr Philomédis]]—soldiers of the March
+- [[being-arshzrktkls|Árshazûr Katakálos]], [[being-lofrflmds|Lôfáhr Filomédis]]—soldiers of the March

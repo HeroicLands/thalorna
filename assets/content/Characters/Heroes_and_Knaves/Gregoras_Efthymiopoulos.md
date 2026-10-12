@@ -1,6 +1,6 @@
 ---
-shortcode: grgrsphthympls
-name: {full: Grégoras Ephthymiópoulos, given: Grégoras, clan: Ephthymiópoulos, aliases: []}
+shortcode: grgrsfthympls
+name: {full: Grégoras Efthymiópoulos, given: Grégoras, clan: Efthymiópoulos, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -422,7 +422,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[grgrsphthympls|Grégoras Ephthymiópoulos]]{float=top-left}
+![[grgrsfthympls|Grégoras Efthymiópoulos]]{float=top-left}
 
 Grégoras stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, and dark brows.
 
