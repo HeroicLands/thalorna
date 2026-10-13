@@ -11,7 +11,7 @@ The [[affiliation-tanvurempr|Empire of Tānvür]] has outlasted every dynasty th
 
 ## War on the Frontiers
 
-- [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]]—the warlord who has united the tribes of the Hëkvōr, the Black Wilds, and whose riders are already raiding the northern provinces
+- [[being-vusgurthurtzhuk|Vüsgürt Hürtzhük]]—the warlord who has united the tribes of the Hürnhëktūr, the Black Wilds (the [[lore-hrnhktrzkclt|Hürnhëktūrzōk]]), and whose riders are already raiding the northern provinces
 - [[doc-extrnlthrts|External Threats]]—[[affiliation-jurthatempr|Jürthāt]], the archipelago the empire calls Thātvōng, and the western passes
 
 ## Enemies Within

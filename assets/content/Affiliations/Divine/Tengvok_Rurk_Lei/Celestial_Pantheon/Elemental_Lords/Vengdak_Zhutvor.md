@@ -109,7 +109,7 @@ A secondary tension involves **Zhütshüt Zhös** (Lord of Water) over groundwat
 
 Vëngdāk Zhütvōr also maintains a relationship with **Rīrnhöt Dākvëng** (Lord of Wood) over forests, which are rooted in soil but alive. The understanding is that Vëngdāk Zhütvōr claims authority over the _soil_ supporting the forest while Rīrnhöt Dākvëng claims authority over the _living wood_ itself. This distinction generally holds, but disputes arise when forestry practices (logging, replanting) modify the soil structure itself.
 
-Finally, Vëngdāk Zhütvōr maintains potential tension with the **Bureau of Persistence** (Zāt Sëi), whose authority over agricultural continuity could be interpreted to include some oversight of soil fertility. Nëizāt (the Persistence overseer) has generally conceded that soil is the Earth Lord's domain, but the relationship remains formally undefined.
+Finally, Vëngdāk Zhütvōr maintains potential tension with the **Bureau of Creation** (Zāt Sëi), whose authority over agricultural continuity could be interpreted to include some oversight of soil fertility. Nëizāt (the Creation overseer) has generally conceded that soil is the Earth Lord's domain, but the relationship remains formally undefined.
 
 ### Mortal Engagement
 

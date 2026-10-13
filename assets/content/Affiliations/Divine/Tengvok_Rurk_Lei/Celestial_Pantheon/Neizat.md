@@ -1,6 +1,6 @@
 ---
 shortcode: neizat
-name: {full: Nëizāt, aliases: [The Minister of Continuity, Zāt Sëi, The Bureau of Persistence]}
+name: {full: Nëizāt, aliases: [The Minister of Continuity, Zāt Sëi, The Bureau of Creation]}
 type: affiliation
 subType: faithtradition
 description: "Continuity."
@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Nëizāt—The Minister of Continuity
 
-- **Bureau:** Zāt Sëi, The Bureau of Persistence
+- **Bureau:** Zāt Sëi, The Bureau of Creation
 - **Domain:** Continuity
 - **Parent:** [[affiliation-tngvkrrklei|Tëngvōk Rūrk Lëi]]
 

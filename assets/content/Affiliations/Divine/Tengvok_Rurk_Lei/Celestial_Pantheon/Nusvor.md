@@ -54,7 +54,7 @@ data:
       Nüslëi: >-
         Dissolution Spirits, who break down expired classifications.
       Zhëkvōr: >-
-        Renewal Spirits, who feed recycled materials back into the Bureau of Persistence's processes.
+        Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -89,7 +89,7 @@ sohl: {system: {commonSkills: []}}
 
 Nüs Sëi is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
-[[affiliation-neizat|Bureau of Persistence]] and quarrels so persistently with the
+[[affiliation-neizat|Bureau of Creation]] and quarrels so persistently with the
 [[affiliation-fekvor|Bureau of Allocation]]—one wants resources distributed, the other wants them
 back.
 
@@ -100,7 +100,7 @@ understands what they have asked for.
 ### Lesser Spirits
 
 - **Nüslëi**—Dissolution Spirits, who break down expired classifications.
-- **Zhëkvōr**—Renewal Spirits, who feed recycled materials back into the Bureau of Persistence's processes.
+- **Zhëkvōr**—Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
 
 ### See Also
 

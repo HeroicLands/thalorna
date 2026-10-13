@@ -33,7 +33,7 @@ The wedding is a registration, and each of its five steps does a piece of admini
 
 **The contract** (_Zhāklüt Hōk_). The two clan councils sign a contract, drafted by a Tānthëi and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
-**The petition** (_Lëi Sëi Thōk_). A spirit document is burned at the temple, addressed to the Bureau of Continuity ([[affiliation-tngvkrrklei|Zāt Sëi]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
+**The petition** (_Lëi Sëi Thōk_). A spirit document is burned at the temple, addressed to the Bureau of Creation ([[affiliation-tngvkrrklei|Zāt Sëi]]), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
 **The consultation** (_Kōt Lëi Vōk_). Before the union is final, a Lëigürt speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 
@@ -61,7 +61,7 @@ The heir inherits the duty with the property. He keeps the ancestor shrine, carr
 
 A divorce is rare, because it removes a registered household from the cosmic order, and the celestial administration does not undo its filings willingly. A clan council considers it for three causes: dishonor heavy enough to threaten both families' ledgers, failure to produce an heir, or proof that the petition was false, in which case the household was never properly classified at all.
 
-The process takes a petition to the Bureau of Continuity, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tānthëi and Lëigürt who approved the match carry the blame.
+The process takes a petition to the Bureau of Creation, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tānthëi and Lëigürt who approved the match carry the blame.
 
 ## See Also
 

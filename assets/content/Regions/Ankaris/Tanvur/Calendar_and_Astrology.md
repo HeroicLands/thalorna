@@ -41,7 +41,7 @@ Ten of the twelve run thirty days. Jīkyüt, the month of the courts' heaviest c
 
 1. **Jëityüt - "Month of Festivals"**—Early Spring. The year's opening administrative period. All ledgers are settled from the previous year, new petitions are filed, and the cosmic accounts are reopened. The Emperor performs the annual audit of the empire's Lëi. Failure to properly observe Jëityüt's rituals is believed to leave the entire year's filings unprocessed.
 
-2. **Mütyüt - "Month of Wood"**—Mid-Spring. The month takes its name from the growing timber of the spring woods, and the Bureau of Continuity (Zāt Sëi) is ascendant. This is the month of planting, growth and the renewal of living things. Agricultural petitions are filed through the Bureau of Allocation, and the Nōkvür conduct planting ceremonies to register their crops with the elemental administration.
+2. **Mütyüt - "Month of Wood"**—Mid-Spring. The month takes its name from the growing timber of the spring woods, and the Bureau of Creation (Zāt Sëi) is ascendant. This is the month of planting, growth and the renewal of living things. Agricultural petitions are filed through the Bureau of Allocation, and the Nōkvür conduct planting ceremonies to register their crops with the elemental administration.
 
 3. **Hötyüt - "Month of Fire"**—Late Spring. The Bureau of Transformation (Höt Sëi) is ascendant. A month of change and purification, when old classifications are burned away to make room for new ones. Households burn the year's spent spirit paper: denied petitions, lapsed contracts and documents that no longer apply. The forges are blessed, and metalworkers file their annual production reports.
 
@@ -118,7 +118,7 @@ The spirit animals are patterns that shape how the classification handles its bu
 | -------------------------- | ---------------------- | ----------------------------------------------- |
 | Vëngzhös (Wind Dragon)     | Authority, expansion   | Imperial petitions processed first              |
 | Tëithürt (Iron Tiger)      | Enforcement, courage   | Military filings prioritized                    |
-| Zhīrzhāt (Star Bird)       | Renewal, transition    | Bureau of Continuity ascendant                  |
+| Zhīrzhāt (Star Bird)       | Renewal, transition    | Bureau of Creation ascendant                    |
 | Kōtvüt (Ancient Tortoise)  | Endurance, persistence | Long-term filings favored                       |
 | Kīrhürt (Sacred Beast)     | Prosperity, harmony    | Bureau of Allocation generous                   |
 | Bëitthëi (White Sage)      | Wisdom, discernment    | Bureau of Records most active                   |

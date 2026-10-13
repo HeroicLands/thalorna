@@ -128,7 +128,7 @@ The Tānvüri do not pray to their gods. They **petition** them. A petition is a
 
 The Great Sorting did not eliminate competition. It _classified_ it.
 
-The eleven bureaus do not cooperate seamlessly. They **compete**—for jurisdiction, for resources, for the authority to reclassify domains that sit on the boundary between their portfolios. The Bureau of Transformation (Höt Sëi) and the Bureau of Persistence (Zāt Sëi) are natural rivals: one manages change, the other resists it. The Bureau of Allocation (Fëklüt Sëi) and the Bureau of Returns (Nüs Sëi) fight over whether resources should be distributed or reclaimed. Bureau overseers lobby the Jade Sovereign for expanded jurisdiction, maneuver to place their subordinates in rival bureaus, and occasionally attempt to reclassify an entire category of cosmic business under their own authority. The Ministry of Final Account (Sīkvōk) wields disproportionate leverage because every soul must eventually pass through its offices—and it is not above using that position.
+The eleven bureaus do not cooperate seamlessly. They **compete**—for jurisdiction, for resources, for the authority to reclassify domains that sit on the boundary between their portfolios. The Bureau of Transformation (Höt Sëi) and the Bureau of Creation (Zāt Sëi) are natural rivals: one manages change, the other resists it. The Bureau of Allocation (Fëklüt Sëi) and the Bureau of Returns (Nüs Sëi) fight over whether resources should be distributed or reclaimed. Bureau overseers lobby the Jade Sovereign for expanded jurisdiction, maneuver to place their subordinates in rival bureaus, and occasionally attempt to reclassify an entire category of cosmic business under their own authority. The Ministry of Final Account (Sīkvōk) wields disproportionate leverage because every soul must eventually pass through its offices—and it is not above using that position.
 
 Even the ancestor spirits play the game. A powerful ancestor posted to a favorable position will advocate aggressively for their descendants, undermining rival families' petitions, redirecting bureau attention, and building alliances with other ancestor spirits to create spiritual voting blocs. The dead are no less ambitious than the living—they are simply operating in a different office.
 
@@ -265,7 +265,7 @@ occurs to anyone that the god declined.
 
 ---
 
-## **8. Continuity—Zāt Sëi—The Bureau of Persistence**
+## **8. Continuity—Zāt Sëi—The Bureau of Creation**
 
 - **Overseer**: **Nëizāt**, the Minister of Continuity.
 - **Role**: Governs the _perpetuation_ of classified things—birth, growth, reproduction, repair. Nëizāt did not create the world (Tānzhös classified it) and did not create humanity (humanity emerged from the classification of life-forms). What Nëizāt does is ensure that the classifications _persist_—that like produces like, that categories remain stable across generations, that the sorted world does not drift back toward the Hürnlëi. When a child is born in the correct caste, when a crop grows true to its kind, when a shattered bone heals straight—that is Nëizāt's bureau at work.
@@ -301,7 +301,7 @@ occurs to anyone that the god declined.
 - **Role**: Where the Bureau of Entropy manages _controlled unraveling_, the Bureau of Returns manages the _recycling_ of dissolved things back into the classification system. When a tree rots, when a body decomposes, when a dynasty falls—the component parts must be returned to their elemental categories for reuse. Without this bureau, the raw materials of existence would pile up in uncategorized heaps. Nüsvōr's work is unglamorous but essential.
 - **Lesser Spirits**:
   - **Nüslëi**—Dissolution Spirits who break down expired classifications.
-  - **Zhëkvōr**—Renewal Spirits who feed recycled materials back into the Bureau of Continuity's processes.
+  - **Zhëkvōr**—Renewal Spirits who feed recycled materials back into the Bureau of Creation's processes.
 
 ---
 

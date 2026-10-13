@@ -99,7 +99,7 @@ The Lord of Fire maintains the boundary between five canonical categories of com
 
 **Wildfire (Vōr Hürn)**—Uncontrolled conflagrations, volcanic fire, and lightning-kindled blazes. These are classified not as corruption but as deliberate acts of controlled dissolution—punitive measures issued by higher bureaus when a region has fallen into sufficient spiritual disorder. Vōrjīk Jëk's enforcement arm, the spirit-collective known as **Dākhöt Vōr** (Wildfire Executors), carries out such directives under seal from the Ministry of Final Account or the Supreme Administrative Court.
 
-**Transformation-Fire (Vōr Zhütshel)**—A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the Bureau of Persistence (Zāt Sëi), since what appears to be destruction from one perspective is renewal from another.
+**Transformation-Fire (Vōr Zhütshel)**—A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the Bureau of Creation (Zāt Sëi), since what appears to be destruction from one perspective is renewal from another.
 
 ### Authority and Jurisdictional Tensions
 
