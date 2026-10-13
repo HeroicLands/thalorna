@@ -214,17 +214,18 @@ Says he it a year and a year.
 Says he it when the sapling under the ash is a tree for shade.
 He stays. We stay.
 
-Go the makers down for what is serious.
-Go they down in the dark of the year to the deepest hall
-and read what the year did, name by name, measure by measure,
-and it is long, and the lamps are low, and the reading does not hurry.
+Go the makers down at the turning of their year.
+Go they down in the dark to the deepest hall
+and tally what the year gave, measure by measure:
+the grain from the gate, the ore from the dark, the cloth, the salt,
+and it is long, and the lamps are low, and the tally does not hurry.
 Is he a creature of the open sky, as we are,
 with a star over his sleeping.
 Goes he down.
-Sits he the reading through, every name, every measure,
+Sits he the tally through, every measure,
 to the last line and the last lamp,
-and his own name is in it, where the makers set it,
-against the cut of the longer bench,
+and the bread he ate at their table is in it, where the makers set it,
+beside the cut of the longer bench,
 and he hears it read, and sits as he sits at the gate,
 and comes up into the snow at morning and says nothing of it,
 and goes down the next year.
@@ -255,7 +256,7 @@ you who have not asked it and will not ask:
 we do not go from your gate in the thaw,
 nor from your table in the light,
 nor from your fields when the water fails,
-nor from your reading, though it is long.
+nor from your tally, though it is long.
 Say we it standing.
 Say we it to the stone, which keeps what is said.
 Say we it at the gate, in the thaw.

@@ -51,7 +51,7 @@ This is the lament of Haulonna, the hearth of the unfallen leaf.
 
 Other hearths sing this with other names in it.
   Every hearth that had one of its own in the valley calls its own, and the valley had many hearths in it.
-We call five. We were far from it; we are the furthest from it of all who sing this.
+We call five. We were far from it; few who sing this were further.
   We sing it because one of the five was ours, **Porvila Ilevanto**, and the other four were hers.
 
 Haulonna is a valley in the north, high, with the rock close on both sides,
@@ -208,7 +208,7 @@ A man came in by the path over the saddle, the one that nobody used, and that wa
 What he served put a hand under him. It is one of the ones we name Dark.
   He went in among the hearth-row in the dark, and he cut.
 He cut signs into the ground of Haulonna, into the earth itself, with a knife,
-  black signs, the signs he cuts in his own skin, cut into the ground now,
+  black signs, the signs he cuts in flesh, cut into the ground now,
 and he cut them well. He is good at it. We say so. It is so.
   He did not hurry. He had the whole of the night, and he used the whole of it. We have looked at the signs.
 The ground took the signs. The roots took them from the ground.
@@ -239,7 +239,7 @@ The hunters of the north go near it still, because the deer go near it and the h
   They know it now by the birds stopping, and by the air, which is cold in the middle of summer, and stale.
 A hunter who feels that on his face turns around and goes down and does not argue with his feet.
   He has it right. He does not know what he has right. The cold is them. The cold is ours.
-It goes a little further out of the valley every year, over the ridge, down the streams, into the hunters' country.
+It goes a little further out of the valley in a bad year, over the ridge, down the streams, into the hunters' country.
   The streams go bad. The lambs come wrong. The hunters have noticed. They have not been told why.
 
 The god did not come for them.
@@ -248,7 +248,7 @@ because the door the god comes by was cut over with the man's signs,
   and what is behind that door is behind it. They are there. They are not gathered.
 They are in the valley, in the roots, in the turned wards, and they are awake.
   The man draws on them as a hearth draws on a woodpile.
-Forty of us and more. We have the count. We do not sing the count.
+More than two twenties of us. We have the count. We do not sing the count.
   We call five. The five stand for the count. The count stands behind the five.
 
 The hearth of the low cloud. The hearth of white frost. The hearth of the still hour.

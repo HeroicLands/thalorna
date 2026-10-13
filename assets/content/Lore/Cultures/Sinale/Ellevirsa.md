@@ -95,10 +95,10 @@ They had names for the stars, too. We listened for those.
   They had a name for the one over the pass, and the next band had another, and the next had none.
 They put their hands on the crag, in red, and the hands are there.
   Small hands, most of them. We did not know then that most of them were children's.
-They were forty, or fifty. They did not stand still to be counted.
+They were two twenties, or a little more. They did not stand still to be counted.
   They came through the valley in the spring and went out by the ridge in the autumn,
 and they did not stay, because nothing stays that follows the deer.
-  They saw us. We saw that they saw us. Nobody said anything, for a long time.
+  They looked toward the wood, and they did not see us. Nobody said anything, for a long time.
 One of them came close, once, in the second summer. A child.
   It stood at the edge of the birch and looked, and we looked, and it went back, and nothing was said.
 
@@ -199,8 +199,8 @@ It came to him, and he did not say it, and he did not say that he would not,
 The valley stayed open. Nothing else was agreed.
 
 The bands came through in the spring, as they came.
-  They came through the valley and not around by the ridge, and we were in it, and they saw us.
-They saw us, and they did what the one who had kept the watch had said they would do.
+  They came through the valley and not around by the ridge, and we were in it, and they did not see us.
+They saw what we did. They did what the one who had kept the watch had said they would do.
   They took what they saw. They took it badly, and then they took it.
 The next winter the one who had kept the watch went up to the pass again, and kept it.
   He kept it over the bands as well, who were in the valley below him in the snow, and he said nothing of that either.
@@ -209,7 +209,7 @@ They took the shape of a fire-pit that does not smoke into the eyes.
 They took a word of ours, one, for the pale wood, and it changed in a summer, as their words do.
   By the next summer we did not know it. It is somewhere in your mouths still, and we would not know it now.
 The child who had come close came close again, grown, with a child of its own,
-  and said a word to us, and the word was the river's name that summer, and we said it back.
+  and stood at the birch and said a word into the wood, and the word was the river's name that summer, and we said it back.
 That was the first word. It is not cut here, because it changed the summer after.
 They put their dead at the foot of the crag, under the hands, and went on by the ridge.
   We did not move them. A guest does not move what is in the house.

@@ -92,7 +92,7 @@ Have you heard what the Long-Watcher said to the Seer?
 ```poetry {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Cut willow in the still hour and hazel when the sap is down.
-  Yew you do not cut. Ask me why in a hundred years.
+  Yew you do not cut. Ask me why in five twenties of years.
 
 Have you heard what the Long-Watcher said to the Seer?
   Walk the boundary of the grove on the first day of the thaw.
@@ -303,7 +303,7 @@ Have you heard what the Long-Watcher said to the Seer?
   Go back over the reasons once a year, when you walk the boundary.
 
 Have you heard what the Long-Watcher said to the Seer?
-  I kept silent toward the one across the water two hundred years over the hazel, and it was right for most of them.
+  I kept silent toward the one across the water ten twenties of years over the hazel, and it was right for most of them.
   The rest I am telling you about now.
 ```
 
