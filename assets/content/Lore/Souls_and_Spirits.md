@@ -178,7 +178,7 @@ This is the cosmological reason religion functions in Thalorna. Not the only rea
 
 Where do new souls come from? On this question, the cosmology is genuinely unclear, and different traditions hold different things—none verifiable from inside.
 
-**The reincarnation traditions** are the most certain. They hold that all souls are recycled. Every birth involves a soul that lived before, generally without retaining memory. The soul-pool is finite; what exists has always existed; nothing is lost and nothing is created. The cosmological elegance of this view is appealing, and traditions that hold it (including some Vedyaran lineages and parts of the Kalihara confederation) build sophisticated theologies around it.
+**The reincarnation traditions** are the most certain. They hold that all souls are recycled. Every birth involves a soul that lived before, generally without retaining memory. The soul-pool is finite; what exists has always existed; nothing is lost and nothing is created. The cosmological elegance of this view is appealing, and traditions that hold it (including some Vedyaran lineages and the ports of Kalihara) build sophisticated theologies around it.
 
 **The animistic and ancestor traditions** sometimes hold that new souls come from the undifferentiated ancestor stuff in the spirit realm. As old ancestors fade and merge into the regional pool, the pool's substance becomes available—partly contributing to ongoing protection of newer ancestors, partly perhaps drawn upon for new births within the lineage. This view links the fading of ancestors to the arrival of new mortal lives in a single cycle. Some animistic theologies hold this explicitly; others imply it without articulating it.
 

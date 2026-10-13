@@ -61,7 +61,7 @@ The works are failing, and what the failing has begun to do is scramble the answ
 
 ## The Turnings of the Year
 
-The island's year has four turnings of the monsoon, and each is a quiet, widely observed rhythm and not a festival. **Dry-Turn** ends the wet season. Households clean their thresholds, replace worn manuals and review the year's rainfall in the evenings, and children are given their first manual at six or seven. **Stillwater** is the mid-dry month, the occasion of the Tenth-Year Walks and the long survey days: custodians walk the full circuit of a region's works, and every Kaliharan spends the daylight in silent observation of a particular place, looking properly while the light is good. **Wet-Turn** is the return of the rains, and each Kaliharan spends the week after the first rain visiting the households whose tending borders their own, to compare observations and coordinate the season's work. The custodians visit households in rotation in the same week. **Deepwater** is the heart of the wet season and the most inward. Households keep to their own thresholds and spend the time copying worn manuals, teaching children the names of plants and reviewing the lineage's records.
+The island's year has four turnings of the monsoon, and each is a quiet, widely observed rhythm and not a festival. **Dry-Turn** ends the wet season. Households clean their thresholds, replace worn manuals and review the year's rainfall in the evenings, and children are given their first manual at six or seven. **Stillwater** is the mid-dry month, the occasion of the Tenth-Year Walks and the long survey days: custodians walk the full circuit of a region's works, and every Kaliharan spends the daylight in silent observation of a particular place, looking properly while the light is good. **Wet-Turn** is the return of the rains, and each Kaliharan spends the week after the first rain visiting the households whose tending borders their own, to compare observations and coordinate the season's work. The custodians visit households in rotation in the same week. **Deepwater** is the heart of the wet season and the most inward. Households keep to their own thresholds and spend the time copying worn manuals, teaching children the names of plants and reviewing the lineage's records. Years are counted in Tenth-Year Walks at each sanctuary, with the count since the departure kept at Veshvaan.
 
 Each is for something concrete. Dry-Turn is for beginnings, Stillwater for the looking, Wet-Turn for the neighbors and Deepwater for the record. Long spans are counted in Walks, a Walk being the decade between Tenth-Year Walks, so a Kaliharan dates a childhood or a long tending by the Walk it began in.
 
@@ -140,7 +140,7 @@ The sin is the silence. The works are failing, and the sílhari'kaan who carry t
 ## See Also
 
 - [[place-kaliharargn|Kalihara Region]]—the island's country, its interior and its coast
-- [[affiliation-kalihara|Kalihara]]—the confederation, its councils and its wardens
+- [[affiliation-kalihara|Kalihara]]—the polity, its councils and its wardens
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole and what it asks
 - [[place-ilovanu|Ilovanu]]—the great port and the world it faces
 - [[doc-kaliharilexcn|Kalihári Lexicon]]—the words of the keeping and the lineages

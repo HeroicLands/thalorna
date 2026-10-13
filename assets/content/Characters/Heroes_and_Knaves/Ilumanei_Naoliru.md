@@ -434,7 +434,7 @@ Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán
 
 ### Training Under Vaelumo
 
-Vaelumo was hard. For seven years Ilumanei copied texts, mixed inks, prepared parchment and learned the forms of contract and record, and Vaelumo tore up whole pages for a single faulty letter and made him write them again long after dark. The old man was not cruel: he was preparing his pupil for a trade in which a document binds, and one mistake can ruin a family or lose it a claim. When Ilumanei became a journeyman at nineteen, Vaelumo recommended him to the **High Registry of the Kalihara Confederation**, the register of contracts kept at the wardens' hall in [[place-ilovanu|Ilovanu]] for the dealings of all four ports.
+Vaelumo was hard. For seven years Ilumanei copied texts, mixed inks, prepared parchment and learned the forms of contract and record, and Vaelumo tore up whole pages for a single faulty letter and made him write them again long after dark. The old man was not cruel: he was preparing his pupil for a trade in which a document binds, and one mistake can ruin a family or lose it a claim. When Ilumanei became a journeyman at nineteen, Vaelumo recommended him to the **High Registry of Kalihara**, the register of contracts kept at the wardens' hall in [[place-ilovanu|Ilovanu]] for the dealings of all four ports.
 
 ### The Registry Years
 
@@ -478,7 +478,7 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 
 ### Patrons
 
-- **The Kalihara Confederation's High Registry**: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
+- **Kalihara's High Registry**: the Registry still brings him its delicate and difficult work, in private, and takes care that his good name stays clean.
 - **Merchants' and Traders' Guild**: several powerful merchants of the ports hire him for their contracts. They pay well, and he annoys them by insisting on terms fair to both sides.
 - **Village Councils and Local Magistrates**: the quarter councils of the smaller ports and the wardens' magistrates at Nalurithan and Telvári hire him to record disputes and witness agreements, and they guard his reputation in their towns.
 - **Poor Farmers and Craftspeople**: the porters, boatmen and craftsmen of the quays pay him little and love him most, and would stand between him and any threat.

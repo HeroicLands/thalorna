@@ -113,7 +113,7 @@ The Kindred are not an abstract concept. They are, in Áelendan experience, as r
 
 ## Relation to Later Pantheons
 
-Áelendan teaching holds that the gods of the settled kingdoms are not strangers to the First. The Aurèldían Twelve, the Asguardian gods of the north, the bright-and-terrible deities of [[affiliation-kalihara|Kalihara]]—all of these, the Áelendan say, are children of the First, or echoes of the Two Powers refracted through the mortal peoples who first carried their names. The Áelendan do not insist on this lineage and do not proselytize it to outsiders. It is simply how they understand what they see.
+Áelendan teaching holds that the gods of the settled kingdoms are not strangers to the First. The Aurèldían Twelve, the Asguardian gods of the north, the bright-and-terrible deities the Áelendan credit to [[affiliation-kalihara|Kalihara]], which has no gods—all of these, the Áelendan say, are children of the First, or echoes of the Two Powers refracted through the mortal peoples who first carried their names. The Áelendan do not insist on this lineage and do not proselytize it to outsiders. It is simply how they understand what they see.
 
 This view is not universally shared. The Aurèldían clergy regard the claim as primitive and theologically naïve, and the Ordo Arcanis treats it as folk-memory that conflates unrelated divine traditions. But in Élavendre, where the nobility traces lineage to Áelendan ancestors and the Aurèldían pantheon is "heavily inflected by older fae traditions," the claim is taken more seriously than elsewhere, and certain Élavendren bardic songs hint at the older cosmology beneath the newer gods.
 

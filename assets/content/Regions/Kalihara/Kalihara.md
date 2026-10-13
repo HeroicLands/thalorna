@@ -3,7 +3,7 @@ shortcode: kalihara
 name: {full: Kalihara, aliases: []}
 type: affiliation
 subType: polity
-description: "The island confederation of Kalihara in the western ocean—one civilization eighty centuries old, raised by the Ithári and tending what they left, closed to the world except through four ports on its eastern coast."
+description: "The island polity of Kalihara in the western ocean—one civilization eighty centuries old, raised by the Ithári and tending what they left, closed to the world except through four ports on its eastern coast."
 data:
   templatePriority: null
   demonym: Kaliharan
@@ -11,7 +11,8 @@ data:
   symbol: null
   governance:
     model: council
-    summary: Loose confederation of coastal port-cities and inland traditionalist clans.
+    summary: >-
+      One island under a Council seated by lineage and by charge over the structures, with a Speaker who alone answers abroad; the lineages hold the land, and the ports run under a structure of their own.
     ranks:
       - level: 0
         title: Severed
@@ -73,7 +74,7 @@ sohl: {system: {commonSkills: [kalihrlng, valtarlng]}}
 
 ## Overview
 
-Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are not admitted to the interior. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
+Kalihara is the only country in the world that has never had a war, and the only one whose people say their civilization was given to them. A Heliónite factor who has traded at [[place-ilovanu|Ilovanu]] for twenty years tells a newcomer both things on the first evening, and then admits that they are the whole of what he knows for certain. The island lies in the western ocean, four hundred and fifty to seven hundred miles west of [[place-okharisrgn|Okháris]] and [[place-provenzrgn|Provènzia]], about a week's sail in fair weather and out of sight of land the whole way, and it holds one of the oldest continuous civilizations on [[place-worldthlrn|Thalorna]], older by millennia than the arrival of the [[lore-flksinale|Sinalë]] and the [[lore-flkkhazar|Khazári]]. Three million Kaliharans live on it. Outsiders are not admitted to the interior. Trade with the world runs through four ports on the eastern coast, and even there foreign merchants keep to their own quarters under the eyes of the harbor-wardens.
 
 What the world knows of Kalihara is a land of jungle, a ring of cloud-wrapped mountains and creatures found nowhere else, from the [[being-cnpyglr|Canopy Glider]] of the high forest to the [[being-mbrydct|Ember-eyed Cat]] beneath it, beautiful, dangerous and closed to the curious. The Kaliharans say very little about their home to outsiders, and what they say is chosen with care. Scholars in [[place-helionis|Heliónis]] and [[place-byzariargn|Byzaría]] have spent centuries assembling the fragments into competing theories of Kaliharan society, and most of those theories describe Ankarian assumptions better than they describe Kalihara. The factor's advice is the island's own: watch, and do not ask twice.
 
@@ -123,11 +124,13 @@ The refusal was courteous and final, and it came from the same insularity that h
 
 ## Geography
 
-Kalihara holds [[place-kaliharargn|Kalihara Region]], the whole of the island's inhabited country, which is very nearly the whole of the island. The island note [[place-klhrcntnnt|Kalihara]] carries the land, the climate, the seas around it and the long way home.
+Kalihara holds [[place-kaliharargn|Kalihara Region]], the whole of the island's inhabited country, which is very nearly the whole of the island: some four hundred miles across and nearly as far from north to south. The island falls into three countries. The coast is jungle lowland and terraced river valley, with the four ports on its eastern shore and islets. [[place-klhrring|The Ring]] is the circle of tall volcanic mountains that closes the island on every side, crossed by three passes and broken in one place by a gap. [[place-klhrbowl|The Bowl]] inside it is the interior, mostly forest, with [[place-klhrlake|the lake]] at its center and [[place-klhrmassif|the Massif]] standing in the water, and on the Massif the oldest of the sanctuaries. The lineages hold the land of all three, each named for the feature it holds and tends, and the ports stand apart under their own structure.
+
+The island note [[place-klhrcntnnt|Kalihara]] carries the land, the climate, the seas around it and the long way home, and the region note carries the country as it is lived in.
 
 ## The Port Cities
 
-The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-ilovanu|Ilovanu]], a cosmopolitan trading port of eighteen thousand that is the seat of the confederation. [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Nalurithan the island's own coasting trade and the gem rivers behind it, Vashurán the Tarûzelian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Ilovanu's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
+The interior of Kalihara is closed, and the Kaliharans have never been disconnected from the world; they decided where it may touch them. Four port settlements on the eastern coast and its islets are the interface between Kaliharan civilization and the rest of Thalorna. The greatest is [[place-ilovanu|Ilovanu]], a cosmopolitan trading port of eighteen thousand where the Council sits. [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]] and [[place-telvari|Telvári]] are smaller and more tightly held, each serving particular goods or particular partners: Nalurithan the island's own coasting trade and the gem rivers behind it, Vashurán the Tarûzelian captains, Telvári the pilots who bring every foreign hull in. A port's Harbor-Warden keeps its anchorage and decides what a foreigner may see from it; Ilovanu's is the principal anchorage open to foreign hulls, and the only one most foreign masters ever use.
 
 The ports are in many ways a world apart from the interior. Centuries of contact with Ankarian, Tarûzelian and Vedyaran merchants have left them with mixed populations, mixed marriages and, in Ilovanu, well-kept temples of the [[affiliation-arldnpnthn|Aurèldían]] pantheon serving the foreign merchants, the long-settled immigrant families, and the Kaliharans who have chosen the port over the interior and in some cases taken up the foreigners' faith. The Ithári'kaan regard the ports with pragmatic acceptance and philosophical distance. The ports are necessary, they bring goods and information that even Kalihara sometimes requires, and they are not part of the Kaliharan world in the way the interior is.
 
@@ -148,11 +151,11 @@ Kalihara stands outside the continental monetary systems. Internal commerce runs
 ## See Also
 
 - [[place-klhrcntnnt|Kalihara]]—the island, its seas, and the long way home
-- [[place-kaliharargn|Kalihara Region]]—the inhabited country this confederation holds
+- [[place-kaliharargn|Kalihara Region]]—the inhabited country this polity holds
 - [[affiliation-tharivaan|Thári'vaan]]—the Living Whole, its observances and its custodians
 - [[lore-kaliharanclt|Kaliharan]]—the people, what they believe and what a person owes
 - [[lore-theithari|The Ithári]]—the precursors, their works across the world and their departure
-- [[place-ilovanu|Ilovanu]]—the principal port and the seat of the confederation
+- [[place-ilovanu|Ilovanu]]—the principal port and the Council's seat
 - [[place-vylarianse|Vylarian Sea]]—the inner sea whose western strait is the door to the island
 - [[skill-kalihrlng|Kalihári]]—the language of the island and its names
 - [[skill-valtarlng|Valtári]]—the harbor pidgin of the ports

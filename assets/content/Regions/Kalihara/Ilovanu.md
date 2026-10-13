@@ -3,7 +3,7 @@ shortcode: ilovanu
 name: {full: Ilovanu, aliases: []}
 type: place
 subType: settlement
-description: "The principal port of Kalihara on the island's eastern coast—spice and gem entrepôt, seat of the confederation, and the one place on the island most foreigners ever see."
+description: "The principal port of Kalihara on the island's eastern coast—spice and gem entrepôt, seat of the island's Council, and the one place on the island most foreigners ever see."
 tags: [port, settlement]
 data:
   demonym: null
@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Ilovanu is where the world is allowed to touch [[place-klhrcntnnt|Kalihara]], and the first thing a factor tells a new captain is where that permission ends: at the gate of the foreign quarter, at the harbor-warden's word, and at the last warehouse on the quay, beyond which the jungle begins and no foreigner has ever been invited. Eighteen thousand people live here, on the island's eastern coast, in a city of whitewashed warehouses and carved wooden balconies set between natural breakwaters and a wall of green ridgeline, and it is the seat of the [[affiliation-kalihara|Kalihara]] confederation as well as its principal port.
+Ilovanu is where the world is allowed to touch [[place-klhrcntnnt|Kalihara]], and the first thing a factor tells a new captain is where that permission ends: at the gate of the foreign quarter, at the harbor-warden's word, and at the last warehouse on the quay, beyond which the jungle begins and no foreigner has ever been invited. Eighteen thousand people live here, on the island's eastern coast, in a city of whitewashed warehouses and carved wooden balconies set between natural breakwaters and a wall of green ridgeline, and it is the seat of the [[affiliation-kalihara|Kalihara]] Council as well as the island's principal port.
 
-The harbor is the city's reason. Two natural breakwaters shelter it from the swell, the prevailing wind brings ships to it in a week from the mouth of the [[place-vylarianse|Vylarian Sea]]'s western strait, and the currents off the coast bring nothing to it at all without a Kaliharan pilot at the helm. Through it passes the cardamom, the cloves and the colored stones that command extraordinary prices in [[place-vedyarargn|Vedyara]], in [[affiliation-cnfdrtntrzlnstts|Tarûzel]] and in the western kingdoms. Three great merchant families hold the warehouses, and the merchant councils that run the port's affairs meet in the **House of Factors** above the quay; the harbor-wardens who answer to the island's councils decide what those merchants may see, buy and carry. The city's motto, cut above the harbor-master's office, reads "Trade, Honor, and Profit," and the order is the Kaliharan order: the trade is permitted, the honor is required, and the profit is the foreigners' concern.
+The harbor is the city's reason. Two natural breakwaters shelter it from the swell, the prevailing wind brings ships to it from the mouth of the [[place-vylarianse|Vylarian Sea]]'s western strait in about a week when the weather is fair, and the currents off the coast bring nothing to it at all without a Kaliharan pilot at the helm. Through it passes the cardamom, the cloves and the colored stones that command extraordinary prices in [[place-vedyarargn|Vedyara]], in [[affiliation-cnfdrtntrzlnstts|Tarûzel]] and in the western kingdoms. Three great merchant families hold the warehouses, and the merchant councils that run the port's affairs meet in the **House of Factors** above the quay; the harbor-wardens who answer to the island's councils decide what those merchants may see, buy and carry. The city's motto, cut above the harbor-master's office, reads "Trade, Honor, and Profit," and the order is the Kaliharan order: the trade is permitted, the honor is required, and the profit is the foreigners' concern.
 
 ## The Two Cities
 
@@ -36,7 +36,7 @@ The population of the quarter is as mixed as any port on the Vylarian Sea: nativ
 
 ## See Also
 
-- [[affiliation-kalihara|Kalihara]]—the confederation seated here, its councils and its wardens
+- [[affiliation-kalihara|Kalihara]]—the polity whose Council sits here, its councils and its wardens
 - [[place-kaliharargn|Kalihara Region]]—the island's country, of which this is the door
 - [[place-nalurithan|Nalurithan]], [[place-vashuran|Vashurán]], [[place-telvari|Telvári]]—the three smaller ports
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the faith of the foreign quarter's temple

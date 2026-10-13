@@ -20,4 +20,4 @@ The villages cut stakes from the dead prop roots for their fence walls, and the 
 
 **Kalovael**, in Kalihári "ember gleam", for its flowers, is a waist-high shrub with leathery leaves and a crown of deep red flowers that open at dawn and hold until noon. It grows on the terrace margins and the sunny lower slopes of the ridges. The root gives a red dye that does not fade.
 
-The dyers of [[place-nalurithan|Nalurithan]] and [[place-ilovanu|Ilovanu]], craftsmen under the confederation's ranks, buy the root from the terrace households that tend the margins. The dye is one of the few staples that leaves the island as cloth and not as plant. No living plant leaves. The root is lifted from each shrub only every few years.
+The dyers of [[place-nalurithan|Nalurithan]] and [[place-ilovanu|Ilovanu]], craftsmen under the island's ranks, buy the root from the terrace households that tend the margins. The dye is one of the few staples that leaves the island as cloth and not as plant. No living plant leaves. The root is lifted from each shrub only every few years.

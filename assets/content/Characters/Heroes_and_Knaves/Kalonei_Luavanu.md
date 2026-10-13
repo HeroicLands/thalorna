@@ -473,7 +473,7 @@ He also wants to show that a humble trade can hold as much mastery as any learne
 ### Patrons
 
 - **Master Smith Melovai**: a famous Ilovanu smith whose forges burn nothing but Kalonei's charcoal, and whose public praise has sent other smiths looking for the same edge.
-- **The Confederation's Arsenal**: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
+- **The Wardens' Armory**: the armory of the Wardens of the Approaches, which forges the blades and boat-fittings of the pilots and the harbor watch and buys his charcoal for the purpose, steadily if not always promptly.
 - **Merchant-Artificer Sornak**: a dealer in fine tools and materials who holds the sole right to sell Kalonei's best charcoal in the three smaller ports.
 
 ### Enemies

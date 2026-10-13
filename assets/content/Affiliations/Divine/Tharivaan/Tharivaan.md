@@ -84,7 +84,7 @@ Over eighty centuries, the original understanding of what they are maintaining h
 
 #### Ranks and Formation
 
-The Ithári'kaan are organized into four ranks, each defined less by hierarchy than by the kind of responsibility held.
+The Ithári'kaan are organized into four ranks, each defined less by hierarchy than by the kind of responsibility held, and a custodian of any of the four stands at the fifth level of the island's order, that of Ithári'kaan.
 
 A **kaan'sili**—"one who watches"—is the entry rank, taken by young Kaliharans selected for custodial formation between the ages of eight and twelve. Kaan'sili spend fifteen to twenty years in apprenticeship, living at one of the interior sanctuaries and absorbing the accumulated knowledge of ecology, agriculture, liturgical procedure, ithári'sul maintenance, and the specific patterns of their assigned region. They do not perform the great liturgies themselves; they assist, observe, and commit to memory the sequences they will one day execute.
 
@@ -124,7 +124,7 @@ Kaliharans do not celebrate ceremonies in the festive, communal sense that chara
 
 ### Seasonal Observances
 
-The island's year is marked by four turnings of the monsoon, and each is the occasion for a quiet, widely observed rhythm rather than a festival in the Ankarian sense.
+The island's year is marked by four turnings of the monsoon, and each is the occasion for a quiet, widely observed rhythm rather than a festival in the Ankarian sense, and years are counted in Tenth-Year Walks at each sanctuary, with the count since the departure kept at Veshvaan.
 
 **Dry-Turn** (the end of the wet season, roughly the fourth month of the Ankarian calendar) is the time of the first Seasonal Recitation. Households clean their thresholds, replace worn sílhari manuals, and in the evenings gather to review the rainfall records of the year just ended. Children are presented with their first manual at the age of six or seven during this turn.
 

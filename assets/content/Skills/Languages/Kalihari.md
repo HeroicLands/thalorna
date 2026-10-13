@@ -21,13 +21,13 @@ Kalihári is a tongue of the Kalihári (ancient isolate) family. Fluency measure
 
 ## Overview
 
-Kalihári is among the oldest living languages on Thalorna, predating all Ankarian human languages by millennia, and it is spoken today by the Kaliharan peoples of the Kalihara Confederation. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
+Kalihári is among the oldest living languages on Thalorna, predating all Ankarian human languages by millennia, and it is spoken today by the Kaliharan peoples of Kalihara. The language stands in complete **linguistic isolation**—no known relatives exist anywhere on Thalorna, and no philologist off the island can account for it. The likeliest explanation is also the dullest: a single people on a single landmass, out of contact with every other, speaking for eight thousand years whatever their ancestors happened to speak. Isolation of that length does not need a stranger to explain it.
 
-To the untrained ear, Kalihári sounds exotic and flowing: vowel-heavy, with liquid consonants that cascade like water. The language rarely employs harsh stops or heavy consonant clusters. Instead, it privileges open syllables, gliding transitions, and a musical quality unlike anything heard on the Ankarian mainland. This flowing character reflects both the coastal geography of the Kalihara Confederation and a philosophical worldview emphasizing harmony and interconnection.
+To the untrained ear, Kalihári sounds exotic and flowing: vowel-heavy, with liquid consonants that cascade like water. The language rarely employs harsh stops or heavy consonant clusters. Instead, it privileges open syllables, gliding transitions, and a musical quality unlike anything heard on the Ankarian mainland. This flowing character reflects both the coastal geography of Kalihara and a philosophical worldview emphasizing harmony and interconnection.
 
 Kalihári exists in two forms:
 
-- **Interior Kalihári**: The pure, classical form spoken in the Confederation interior, known to outsiders only in fragments
+- **Interior Kalihári**: The pure, classical form spoken in the island's interior, known to outsiders only in fragments
 - **Port Kalihári**: A hybrid variant used in cosmopolitan harbor cities, incorporating Valtári loanwords and simplified grammar to facilitate trade
 
 Outsiders rarely encounter true Interior Kalihári; most know only the bastardized port variant.
@@ -119,7 +119,7 @@ Key features:
 - **Diacritical marks**: Dots above or below indicate tone, emphasis, or poetic significance
 - **Decorative elements**: Sacred or formal texts employ ornate flourishes
 
-Literacy in Interior Kalihári follows the same broad pattern as elsewhere on Thalorna—the scribal tradition is ancient and revered, but true literacy is confined to the nobility, the priesthood, and professional scribes. The Confederation's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtári has no script of its own, so port Kaliharans use a simplified Kalihári notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
+Every Kaliharan writes the syllabary well enough to keep a manual, and the scribal tradition is ancient and revered, but the full flourished hand is confined to the custodians and professional scribes. The island's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtári has no script of its own, so port Kaliharans use a simplified Kalihári notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
 ## Historical Development
 
@@ -128,7 +128,7 @@ Kaliharans questioned at the ports trace their civilization to a people they cal
 The language has **changed remarkably little in core structure** over recorded history—a testament to Kaliharan cultural conservatism and reverence for ancestral knowledge. However, **vocabulary has evolved** with geography and trade:
 
 - **Ancient layer** (the stratum Kaliharans date to the teaching): Core spirituality, cosmology, natural phenomena
-- **Classical layer** (Confederation development): Administrative, architectural, philosophical terms
+- **Classical layer** (the island's own development): Administrative, architectural, philosophical terms
 - **Modern layer** (port contact): Valtári borrowings, trade vocabulary, new technologies
 
 Port Kalihári retains perhaps 70% of Interior Kalihári vocabulary; the remaining 30% is Valtári loanwords and simplified forms.
@@ -137,11 +137,11 @@ Port Kalihári retains perhaps 70% of Interior Kalihári vocabulary; the remaini
 
 Geographic and cultural separation has produced subtle but noticeable dialects:
 
-- **Interior High Speech** (central Confederation): Purest form, slowest pronunciation, most conservative grammar. Considered the prestige dialect by Kaliharans.
+- **Interior High Speech** (the interior): Purest form, slowest pronunciation, most conservative grammar. Considered the prestige dialect by Kaliharans.
 - **Coastal variants**: Faster speech, incorporation of Valtári elements, slightly simplified verb forms. Regional ports (Ilovanu, Vashurán) have their own coastal flavors.
 - **Sacred register**: Employed in rituals and formal contexts. More archaic verb forms, elevated vocabulary, exaggerated tonal patterns.
 
-A trader from Ilovanu speaking Kalihári will sound notably different from an Interior Confederation elder—one sounds practical and modern, the other ceremonial and ancient.
+A trader from Ilovanu speaking Kalihári will sound notably different from an interior elder—one sounds practical and modern, the other ceremonial and ancient.
 
 ## Sample Phrases
 
@@ -249,5 +249,5 @@ Ithavanu—"still water" Koamanei—"deep root" Theiluori—"bright canopy" Mari
 
 - Kalihári Names (lineage and personal naming conventions)
 - Thári'vaan cosmology and Ithári heritage
-- Interior Confederation records and oral traditions
+- Interior records and oral traditions
 - Port city trade documents and mixed-language records

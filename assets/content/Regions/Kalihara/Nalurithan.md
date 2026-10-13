@@ -23,5 +23,5 @@ The town's merchant houses are the rivals of Ilovanu's three great families, and
 ## See Also
 
 - [[place-ilovanu|Ilovanu]]—the principal port, a day's sail up the coast
-- [[affiliation-kalihara|Kalihara]]—the confederation and its wardens
+- [[affiliation-kalihara|Kalihara]]—the polity and its wardens
 - [[place-kaliharargn|Kalihara Region]]—the island's country

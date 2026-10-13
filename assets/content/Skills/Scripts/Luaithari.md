@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Syllabary}}
 ---
 
-The Luaithári—"the flowing marks"—is the syllabary of the [[affiliation-kalihara|Kalihara Confederation]]: one curved, interconnected glyph for each consonant-and-vowel pair, or for a vowel standing alone, written left to right and top to bottom in lines that visibly run like water. Glyphs ligature freely into compound forms, and **dots above and below the line carry tone**, emphasis, and what Kaliharan scribes call poetic weight—a distinction with no equivalent in the scripts of Ankaris, and one that a foreign reader habitually ignores and thereby misreads.
+The Luaithári—"the flowing marks"—is the syllabary of the [[affiliation-kalihara|Kalihara]]: one curved, interconnected glyph for each consonant-and-vowel pair, or for a vowel standing alone, written left to right and top to bottom in lines that visibly run like water. Glyphs ligature freely into compound forms, and **dots above and below the line carry tone**, emphasis, and what Kaliharan scribes call poetic weight—a distinction with no equivalent in the scripts of Ankaris, and one that a foreign reader habitually ignores and thereby misreads.
 
 It carries [[skill-kalihrlng|Kalihári]], a language with no known relatives anywhere on Thalorna, and nothing else. A character needs **both**.
 
@@ -27,11 +27,11 @@ Kaliharan scribal tradition holds that a text badly formed is a text partly fals
 
 ## Beneath it: what the custodians describe
 
-The Confederation's deep archive is not in Luaithári at all. No outsider has ever been inside a [[affiliation-tharivaan|Thári'vaan]] sanctuary, so what follows is what custodians have said and what reached foreign scholars at the ports from there, at several removes and unverified at every one. They describe **carved stone slabs and inscribed metal plaques**—Kaliharan work in ordinary stone and metal, the oldest writing the island has, set down by the generations who were taught and recording what they received—largely procedural, much of it now unreadable, kept where only the senior custodians may go; alongside them hang the _kaan'sari'val_, knotted and dyed palm-fiber cords recording formation lineage, which are buried with the person they describe. Whether the Luaithári descends from that older hand is not something anyone can demonstrate—the custodians say only that the slabs were cut long before the syllabary existed, and that the syllabary is a much younger thing.
+The island's deep archive is not in Luaithári at all. No outsider has ever been inside a [[affiliation-tharivaan|Thári'vaan]] sanctuary, so what follows is what custodians have said and what reached foreign scholars at the ports from there, at several removes and unverified at every one. They describe **carved stone slabs and inscribed metal plaques**—Kaliharan work in ordinary stone and metal, the oldest writing the island has, set down by the generations who were taught and recording what they received—largely procedural, much of it now unreadable, kept where only the senior custodians may go; alongside them hang the _kaan'sari'val_, knotted and dyed palm-fiber cords recording formation lineage, which are buried with the person they describe. Whether the Luaithári descends from that older hand is not something anyone can demonstrate—the custodians say only that the slabs were cut long before the syllabary existed, and that the syllabary is a much younger thing.
 
 ## Who has it
 
-Nobility, custodians, and the professional scribes, whose tradition is ancient and deep—the Confederation's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-ilovanu|Ilovanu]] and Vashurán a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtári]] using whatever foreign letters he knows.
+Every Kaliharan writes it well enough to keep a manual; the full flourished hand belongs to the custodians and the professional scribes, whose tradition is ancient and deep—the island's written archive is large and is maintained by specialists rather than consulted by the public. In the ports of [[place-ilovanu|Ilovanu]] and Vashurán a hired scribe writes a simplified notation for trade, or abandons the syllabary entirely and takes down the transaction in [[skill-valtarlng|Valtári]] using whatever foreign letters he knows.
 
 ## In play
 

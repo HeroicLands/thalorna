@@ -188,12 +188,12 @@ Lineage names are compounds of these stems, and so are the ports of Ilovanu and 
 
 The register below holds every name of every note on the island of Kalihara. A note is in the register when one of these values names it:
 
-| Kind    | Value                                                                                                                                           | What it catches                                                                                 |
-| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| folder  | `kalihara` `heroesandknaveskalihara`                                                                                                            | the island, its ports and its people                                                            |
-| culture | `kaliharanclt`                                                                                                                                  | every Kaliharan character                                                                       |
-| parent  | `klhrcntnnt` `kaliharargn`                                                                                                                      | every place set on the island                                                                   |
-| address | `affiliation-kalihara` `lore-kaliharanclt` `skill-kalihrlng` `skill-luthrscrpt` `affiliation-tharivaan` `lore-theithari` `doc-kaliharaadvguide` | the confederation, the culture, the tongue, the script, the faith, the precursors and the guide |
+| Kind    | Value                                                                                                                                           | What it catches                                                                          |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| folder  | `kalihara` `heroesandknaveskalihara`                                                                                                            | the island, its ports and its people                                                     |
+| culture | `kaliharanclt`                                                                                                                                  | every Kaliharan character                                                                |
+| parent  | `klhrcntnnt` `kaliharargn`                                                                                                                      | every place set on the island                                                            |
+| address | `affiliation-kalihara` `lore-kaliharanclt` `skill-kalihrlng` `skill-luthrscrpt` `affiliation-tharivaan` `lore-theithari` `doc-kaliharaadvguide` | the polity, the culture, the tongue, the script, the faith, the precursors and the guide |
 
 ## Attested names
 
