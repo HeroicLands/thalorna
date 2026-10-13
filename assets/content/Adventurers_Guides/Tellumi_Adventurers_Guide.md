@@ -12,7 +12,7 @@ data: {packFolder: adventurersguides, culture: khazrynclt}
 >
 > A man in a long gray coat sits under an awning near the gate with a wooden board across his knees, pressing marks into a damp clay tablet with a reed. He finishes the line before he looks up, then studies your face and your boots as if entering both. "_Lirun gaben_," he says, a free day to you, and touches his chest. "Murelul. My family's tablets were kept at Kethramír. I keep tablets for the house of this oasis." He turns the board so you can see the tablet, sets a fresh one beside it and lifts the reed. "Your name, and the city you come from." He listens with his head tilted, says both back to you in his own soft accent, and presses them into the clay as they sounded to him.
 
-The Tellumi are the oldest people of the [[place-khzryndsrtrgn|Khazryn]], and the one that writes everything down. Their country, [[place-swoasisbelt|Tellumel]], is a strip of springs, canals and gardens along the north foot of the [[place-graznmntns|Grazian Mountains]], forty to eighty miles deep where the snowmelt reaches it and about seven hundred miles long; north of it the black rock of Dikraqor begins within a day's ride. Seven walled cities stand in the strip, and the Tellumi built all seven. Ninety years ago the [[affiliation-tribestrzd|Ātárzád]], twelve tribes who had come to them as refugees and been given land under the desert's law of hospitality, turned on their hosts and took the four greatest. The Tellumi call that war Turem, the Breaking.
+The Tellumi are the oldest people of the [[place-khzryndsrtrgn|Khazryn]], and the one that writes everything down. Their country, [[place-swoasisbelt|Tellumel]], is a strip of springs, canals and gardens along the north foot of the [[place-graznmntns|Grazian Mountains]], forty to eighty miles deep where the snowmelt reaches it and about seven hundred miles long; north of it the black rock of Diqraqor begins within a day's ride. Seven walled cities stand in the strip, and the Tellumi built all seven. Ninety years ago the [[affiliation-tribestrzd|Ātárzád]], twelve tribes who had come to them as refugees and been given land under the desert's law of hospitality, turned on their hosts and took the four greatest. The Tellumi call that war Turem, the Breaking.
 
 Three oases still answer to Tellumi princes, and four princely houses hold court in exile in [[affiliation-kngdmmrdd|Amradad]]. Most of the eight hundred thousand Tellumi live as craftsmen, clerks, physicians and water-engineers inside cities their grandparents governed, paying a tax nobody else pays for water their own engineers keep running.
 
@@ -20,11 +20,11 @@ Three oases still answer to Tellumi princes, and four princely houses hold court
 
 ## Down from the Mountains
 
-The Tellumi tell a stranger early that they came down from the mountains, because it is the one fact about them that no conqueror has been able to revise. About 2300 BF the first lineages came down by the [[place-wstrndscnt|Western Descent]], the last three hundred miles of the range, where the wall breaks into brown foothills, and settled the great springs one by one. Every old house roots its genealogy in a named peak above the Descent, and most of those peaks no living member of the house has seen. Some houses hold that their ancestors came instead through [[place-vurdil|Vurdil]], a labyrinth of cut passages that climbs into the north face from a plain doorway forty feet high, and the quarrel between the two accounts is old and bitter. Both sides agree that a house whose peak is lost has lost its claim.
+The Tellumi tell a stranger early that they came down from the mountains, because it is the one fact about them that no conqueror has been able to revise. About 2300 BF the first lineages came down by the [[place-wstrndscnt|Western Descent]], the last three hundred miles of the range, where the wall breaks into brown foothills, and settled the great springs one by one. Every old house roots its genealogy in a named peak above the Descent, and most of those peaks no living member of the house has seen. Some houses hold that their ancestors came instead through [[place-vurdil|Vurdish]], a labyrinth of cut passages that climbs into the north face from a plain doorway forty feet high, and the quarrel between the two accounts is old and bitter. Both sides agree that a house whose peak is lost has lost its claim.
 
-That makes the mountains a place of business. A family with a dispute over precedence pays climbers to prove a peak, and an exile house pays a party to find its ancestral passage in Vurdil while a rival house pays to stop it. In the first mile of Vurdil crag lurkers drop from the ceiling onto whoever carries the lamp.
+That makes the mountains a place of business. A family with a dispute over precedence pays climbers to prove a peak, and an exile house pays a party to find its ancestral passage in Vurdish while a rival house pays to stop it. In the first mile of Vurdish crag lurkers drop from the ceiling onto whoever carries the lamp.
 
-Travelers reach the Tellumel by three roads. The Descent brings them from Dunhara and Amradad, the one stretch of the range that needs no guide. The southern spur of [[lore-celestialroad|the Celestial Road]] brings them down from [[place-qisomrktcmp|Qìso]] after about twenty days on the stone plateau, buying passage from each dowek along it. A Grazian pass brings them from Vedyara, under hereditary guides, in a few weeks of late summer.
+Travelers reach the Tellumel by three roads. The Descent brings them from Dunhara and Amradad, the one stretch of the range that needs no guide. The southern spur of [[lore-celestialroad|the Celestial Road]] brings them down from [[place-qisomrktcmp|Qiiso]] after about twenty days on the stone plateau, buying passage from each dovaq along it. A Grazian pass brings them from Vedyara, under hereditary guides, in a few weeks of late summer.
 
 ## Three Free Oases
 
@@ -32,7 +32,7 @@ Travelers reach the Tellumel by three roads. The Descent brings them from Dunhar
 
 [[place-ushtraber|Ushtra-bēr]], at the far eastern end under the Eastern Reach, is the last founded and the most austere. Its streets are swept every dawn, and its terraced fields climb a thousand feet up a glacier valley. Its relvan, Vāhrām, keeps court forms forgotten everywhere else. A petitioner kneels at a marked place on the floor and waits while the Keeper of the Tablets reads the petition aloud, and a stranger who presents himself as he would in Amradad is made to begin again. Learn the forms before you go, because the house has no other hospitality.
 
-[[place-vahurdash|Vahúrdash]], on the dry northern rim where the streams fail, is the poorest of the three and the proudest. Four thousand settlers live among the roofless streets of [[place-velkunar|Velkun]], the old city a drought emptied, and drink from two wells they found again by copying the city's plans from tablets in other cities' archives. Its head holds his title by the settlers' acclamation, and the tablets that would prove his house's descent lie somewhere under the old city.
+[[place-vahurdash|Vahúrdash]], on the dry northern rim where the streams fail, is the poorest of the three and the proudest. Four thousand settlers live among the roofless streets of [[place-velkunar|Veshkun]], the old city a drought emptied, and drink from two wells they found again by copying the city's plans from tablets in other cities' archives. Its head holds his title by the settlers' acclamation, and the tablets that would prove his house's descent lie somewhere under the old city.
 
 ## Four Held Cities
 
@@ -42,7 +42,7 @@ The Ātárzád hold the four greatest cities, a tribe to each.
 
 - The [[place-oasishirvn|Oasis of Shirvan]], the first and holiest, sixty thousand people under the Vurinkarvem cliff, belongs to the Tēqemōd, the strictest of the twelve tribes. Tellumi Dēlkoshekhs hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Dēlkoshekh keeps the old rite somewhere near the spring, and the Tēqemōd fire-wardens have searched for him for ninety years.
 - [[place-ashkarad|Ashkarad]], the craft city, belongs to the Tēghumōd, the merchant tribe, who buy what the workshops make and leave the craft councils alone. Each shaft of its deep water-tunnels is a family possession.
-- [[place-zargandur|Zargandûr]], once the Tellumi war-city, is the garrison of the Zhōqarōd, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined, the Tellumi quarter keeps a lamp burning at every door until dawn, and beyond the north wall lies [[place-henhulpedin|Henhulpedin]], the blood-field where the war-house died.
+- [[place-zargandur|Zargandûr]], once the Tellumi war-city, is the garrison of the Zhōqarōd, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined, the Tellumi quarter keeps a lamp burning at every door until dawn, and beyond the north wall lies [[place-henhulpedin|Henhutpedin]], the blood-field where the war-house died.
 - [[place-kethramir|Kethramír]], where the southern spur comes down to the belt, belongs to the Tōzhirōd, the scholar tribe, who rule by precedent and keep a small garrison. Its hospitality is stricter than its law: a merchant who cheats there finds that no guide will lead his caravan.
 
 [[place-caldar|Caldar]], a later city grown round a university, is Ātárzád-held too, and the seven-city record does not count it.
@@ -70,7 +70,7 @@ A Tellumi under a magistrate is courteous, exact and reserved. He keeps two cale
 
 > Behind a carpenter's shop in Kethramír, a Dēlkoshekh in a plain brown coat hears a dispute over a dead man's hours of water. Each family has brought a tablet in a cloth bag. He reads both aloud, lays them side by side and sends for a third from the quarter's archive. It comes out of a niche in the wall, wrapped in palm fiber and older than either family. He reads it twice, gives his ruling, and has his clerk press the ruling into fresh clay while everyone waits.
 
-Every Tellumi ninel (household) keeps records the way other households keep silver: genealogies, deeds, water-rights and temple registers. A tenyul (clay tablet) does not burn well, which is the only reason anything survived the fall of Shirvan, when the great temple's archive went up and the fleeing households carried out what they could. That clay is scattered across the exile courts now, and every house wants the tablets another holds. Literacy is expected of anyone above a laborer, and reading the hand written before the Breaking marks a serious person.
+Every Tellumi ninesh (household) keeps records the way other households keep silver: genealogies, deeds, water-rights and temple registers. A tenyut (clay tablet) does not burn well, which is the only reason anything survived the fall of Shirvan, when the great temple's archive went up and the fleeing households carried out what they could. That clay is scattered across the exile courts now, and every house wants the tablets another holds. Literacy is expected of anyone above a laborer, and reading the hand written before the Breaking marks a serious person.
 
 The seven princely houses are the spine of all of it. Every Tellumi knows which house his family stood to, which is to say which court kept its records, and a man who says he is from Kethramír tells another Tellumi "priest-house, theologically serious, took the worst of the killing of the clergy" without a further word. The three ruling houses govern their oases. The four balem (exile) houses keep full courts of a few hundred souls each in Amradad, where a prince can recite every ancestor back to the founding of his line. Once a year all seven meet as the Council of the Princes under the High Shēkhulsīghot of Āhúrdáén, and coordinate without governing anyone. Khávar of Zargandûr, twenty-seven, trains with the Kingdom's soldiers, and the Council has neither endorsed nor forbidden what he is preparing.
 
@@ -131,7 +131,7 @@ Campaigns start well from the record. Pārván wants an envoy to carry an offer 
 - [[lore-zargandfall|The Fall of Zargandûr]] for the morning the war-house died
 - [[lore-turemrecital|The Recitation of the Breaking]], [[lore-comingdown|The Coming Down]] and [[lore-velkunsong|The Song of the Lost Town]] for the Tellumi in their own tellings
 - [[lore-khzrnclndr|The Tellumi Calendar]] for the twelve months and the closing festival
-- [[place-vurdil|Vurdil]] and the [[place-grazruins|ruins and labyrinths of the Grazian Mountains]] for the road the old houses claim
+- [[place-vurdil|Vurdish]] and the [[place-grazruins|ruins and labyrinths of the Grazian Mountains]] for the road the old houses claim
 - [[affiliation-ahurdaen|Āhúrdáén]] and [[affiliation-zurathra|Zúráthrä]] for the faith at the water
 - [[skill-khazrilng|The Tellumi language]] and the [[doc-khazrynlex|Khazryn Lexicon]] for the tongue of the tablets
 - [[doc-khazrynadvguide|The Khazryn Desert Adventurer's Guide]] for the waste beyond the belt and the road to Tānvür
@@ -143,11 +143,11 @@ Campaigns start well from the record. Pārván wants an envoy to carry an offer 
 | balem  | Exile; a princely house that keeps its court abroad while it claims its city |
 | nartem | Law and custom, as a community's Dēlkoshekh keeps them                       |
 | neyin  | A guest, owed food and shelter without question in time of need              |
-| ninel  | A household, which keeps its own tablets                                     |
+| ninesh | A household, which keeps its own tablets                                     |
 | relvan | A prince, the hereditary head of one of the seven houses                     |
 | revun  | The return: the recovery of the lost cities that the exile houses work for   |
-| tenyul | A clay tablet; a household's or a house's written record                     |
+| tenyut | A clay tablet; a household's or a house's written record                     |
 
-Dowek is a loanword from [[lore-sowidesclt#glossary|the Sowides]]. Dēlkoshekh, Shēkhulūkhem and High Shēkhulsīghot are words of the [[affiliation-ashanpnthn|Āsháian faith]], shared with Dunhara and Amradad.
+Dovaq is a loanword from [[lore-sowidesclt#glossary|the Sovidur]]. Dēlkoshekh, Shēkhulūkhem and High Shēkhulsīghot are words of the [[affiliation-ashanpnthn|Āsháian faith]], shared with Dunhara and Amradad.
 
 The [[lore-khazrynclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

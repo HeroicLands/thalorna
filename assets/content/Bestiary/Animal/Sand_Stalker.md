@@ -260,7 +260,7 @@ A lean, long-legged cat built for a sprint and a long walk: narrow through the c
 
 ## In the Land
 
-Sand stalkers live throughout the [[place-hskrrgn|Hosikor]] and the [[place-khzryndsrtrgn|Khazryn]]'s other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Dikraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
+Sand stalkers live throughout the [[place-hskrrgn|Khoshiqor]] and the [[place-khzryndsrtrgn|Khazryn]]'s other sands and gravel reaches, in the stone uplands of the [[place-dkrqrrgn|Diqraqor]] where the ravines give them cover, and along the length of the road wherever water and broken rock lie within a few miles of each other. Each cat holds a range that takes in one or two waters, marks it with scent on the prominent rocks and claw-scores on the soft stone, and drives other stalkers out. The owners of a spring know which cat waters there and at what hour, and keep their own camps well back from the pool after dark. They are seldom seen by day. A stalker seen at noon is sick, starving or guarding young.
 
 ## Key Behaviors
 
@@ -268,7 +268,7 @@ The cat sleeps through the heat in a cave, a crevice or a hollow under an overha
 
 ## What the Tribes Do
 
-The tribes water their herds by day and pen them at night inside a thorn ring with a fire and a boy awake beside it, and they do not let a goat drift down to the pool after dark. A tribe that owns a spring keeps its own sleepers well away from the water and sends nobody down alone to fill the skins at night. A cat that has started taking goats is hunted by day at its lie-up, with dogs to find the cave and three or four men with spears, and the men say a stalker in its cave fights like two cats. The pelt is the finest of the desert's furs, soft and the color of sand, and a cloak-lining of it is worth a camel at [[place-qisomrktcmp|Qìso]]; the claws are strung as charms for children, against the dark.
+The tribes water their herds by day and pen them at night inside a thorn ring with a fire and a boy awake beside it, and they do not let a goat drift down to the pool after dark. A tribe that owns a spring keeps its own sleepers well away from the water and sends nobody down alone to fill the skins at night. A cat that has started taking goats is hunted by day at its lie-up, with dogs to find the cave and three or four men with spears, and the men say a stalker in its cave fights like two cats. The pelt is the finest of the desert's furs, soft and the color of sand, and a cloak-lining of it is worth a camel at [[place-qisomrktcmp|Qiiso]]; the claws are strung as charms for children, against the dark.
 
 ## Signs
 

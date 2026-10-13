@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [gwtkrrgn], population: 0, packFolder: 
 
 ## Overview
 
-North of the dry grass the Khazryn ends in forest. The Gwatekor, the forest range, runs unbroken to the icy coast: dark spruce, bogs that never fully thaw, and long lakes locked under ice for eight months of the year. Small unorganized bands live here, sealing and fishing on the coast and hunting deer in the interior, and not one of them has a chief or a town. It is the same belt of taiga that runs through upper Velanthia, all of Targud and much of Malagna, and at its southern edge it is the least known part of the region.
+North of the dry grass the Khazryn ends in forest. The Ghotaqor, the forest range, runs unbroken to the icy coast: dark spruce, bogs that never fully thaw, and long lakes locked under ice for eight months of the year. Small unorganized bands live here, sealing and fishing on the coast and hunting deer in the interior, and not one of them has a chief or a town. It is the same belt of taiga that runs through upper Velanthia, all of Targud and much of Malagna, and at its southern edge it is the least known part of the region.
 
 The holds are reports, not sites. A sealer, working a sea-cliff in a bad summer, describes a doorway at the height of two men with its sill below the tide line. A deer-herder tells of a hillside where moss lies in sheets over squared stone, and where his animals will not graze. A trader from Targud says he heard from a man who saw a dry hall with cut seats along its wall. Nobody has been twice to the same place, and none of these accounts agree on where.
 

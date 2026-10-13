@@ -10,9 +10,9 @@ data: {demonym: null, lore: [], parents: [wlqtrrgn], population: 0, packFolder: 
 
 ## Overview
 
-The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazryn]], in the sub-region the tribes call the Welqator, the grass range, though little of its grass is left. It lies below the passes beyond Byzaría's [[place-eastrnmrch|Eastern March]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
+The Desert of Hek'ar is a barren tract on the western margin of the [[place-khzryndsrtrgn|Khazryn]], in the sub-region the tribes call the Völketör, the grass range, though little of its grass is left. It lies below the passes beyond Byzaría's [[place-eastrnmrch|Eastern March]], and a rider coming down out of the foothills sees it in a single look: a floor of gray gravel and low dunes under a sky that is always a little too white, and nothing on it taller than a thornbush for forty miles in any direction.
 
-Nothing in it invites a traveler. The springs that make the rest of the Welqator passable are a day or two apart; here they are three, four and five, and most of them are salt. The caravans that cross it keep to the single track that was a road once, between the way-forts of the March and the first of the tribes' wells, and pay the tribes of the margin to see them across. What comes down the passes into the desert, more often than travelers, is raiders.
+Nothing in it invites a traveler. The springs that make the rest of the Völketör passable are a day or two apart; here they are three, four and five, and most of them are salt. The caravans that cross it keep to the single track that was a road once, between the way-forts of the March and the first of the tribes' wells, and pay the tribes of the margin to see them across. What comes down the passes into the desert, more often than travelers, is raiders.
 
 ## What Lies Under It
 
@@ -24,7 +24,7 @@ The **Servants of Vezhnûrikos**, a feared military order of [[affiliation-black
 
 ## Danger
 
-The desert itself is the commoner killer. Water is the first danger, then the heat, then the sandstorms of late spring that come down off the foothills without warning. Bone Scorpions and Giant Camel Spiders hunt the margins of the dunes. The tribes of the Welqator do not hunt the knights, and they sell them water.
+The desert itself is the commoner killer. Water is the first danger, then the heat, then the sandstorms of late spring that come down off the foothills without warning. Bone Scorpions and Giant Camel Spiders hunt the margins of the dunes. The tribes of the Völketör do not hunt the knights, and they sell them water.
 
 ## A Hook
 
@@ -35,4 +35,4 @@ A Byzarian caravan master with two hundred camels waiting at the foot of the Mar
 - [[place-ruinsarkor|Ruins of Arkor]]—the buried city in its sands
 - [[being-drzhvzhnr|Drazha Vezhnûr]]—the Blazewarden who raids it
 - [[place-eastrnmrch|Eastern March]]—the march above its passes
-- [[place-roqid|Roqid]]—the Vylarian fort on the same margin
+- [[place-roqid|Oroqid]]—the Vylarian fort on the same margin

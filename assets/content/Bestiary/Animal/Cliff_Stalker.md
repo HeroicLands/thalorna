@@ -260,7 +260,7 @@ A compact, deep-chested cat with the frame of a lion built smaller and lower, he
 
 ## In the Land
 
-Cliff Stalkers hold the ledges and gullies of the Grazian north face, above the [[place-dkrqrrgn|Dikraqor]] and along the approaches to the high passes, and the [[place-grazruins|ruins and labyrinths]] under the glaciers, where the cut passages open onto cliff. Each cat holds ten to thirty square miles of broken rock and marks its edges with scent; two never share a range outside the mating season. They follow the goats, and the goats follow the thin grass, so a cat's range runs from the scree below the snowline down to the ravine mouths where the plateau tribes water their flocks. They dislike deep cold and lie up in high caves through the worst of the winter, which is the one season a guide crosses the north face without watching the ledges.
+Cliff Stalkers hold the ledges and gullies of the Grazian north face, above the [[place-dkrqrrgn|Diqraqor]] and along the approaches to the high passes, and the [[place-grazruins|ruins and labyrinths]] under the glaciers, where the cut passages open onto cliff. Each cat holds ten to thirty square miles of broken rock and marks its edges with scent; two never share a range outside the mating season. They follow the goats, and the goats follow the thin grass, so a cat's range runs from the scree below the snowline down to the ravine mouths where the plateau tribes water their flocks. They dislike deep cold and lie up in high caves through the worst of the winter, which is the one season a guide crosses the north face without watching the ledges.
 
 ## Key Behaviors
 

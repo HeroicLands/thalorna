@@ -249,7 +249,7 @@ A massive running bird built on the lines of a great ratite, deep-bodied on two 
 
 ## In the Land
 
-Nüsvōrroths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Dikraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idwakor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nüsvōrroth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
+Nüsvōrroths live in the stone uplands and badlands of the Khazryn: the mesas and dry ravines of the [[place-dkrqrrgn|Diqraqor]], where the rock is black enough to hide them, and the broken ridges of the eastern stone desert of [[place-idwkrrgn|Idvaqor]]. Each holds a range of several miles of ravine and rock-shelf and walks its edges, and marks them with heaps of cleaned bones, claw-scored boulders and the stench of old kills. They are not found on open sand, where there is nothing to hide behind, nor in the mountains above. A ravine that a nüsvōrroth holds is one the plateau tribes do not graze, and a track that runs through one is a track the guides go round.
 
 ## Key Behaviors
 

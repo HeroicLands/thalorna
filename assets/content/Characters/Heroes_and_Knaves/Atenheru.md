@@ -1,10 +1,10 @@
 ---
 shortcode: atenhershr
 name:
-  full: Atenheru Sahri
-  given: Atenheru
+  full: Atazkharu Sahri
+  given: Atazkharu
   clan: Sahri
-  aliases: [The Silent Jackal, The Desert Wanderer]
+  aliases: [Chüyelqiimod, Chüel, The Silent Jackal, The Desert Wanderer]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]
@@ -423,45 +423,45 @@ sohl:
 
 # Appearance {#appearance}
 
-Atenheru stands 6'2\" tall with a medium build. He has olive-tanned skin, dark hair, and brown eyes. His features include an oval face, a long nose, a pointed chin, full lips, arched brows.
+Atazkharu stands 6'2\" tall with a medium build. He has olive-tanned skin, dark hair, and brown eyes. His features include an oval face, a long nose, a pointed chin, full lips, arched brows.
 
 # Dossier {#dossier}
 
-Atenheru, known as “The Silent Jackal,” was a desert ranger from the **[[affiliation-sahritrb|Sahri]]** nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
+Atazkharu, called Chüyelqiimod, “the Silent Jackal,” on the steppe, and Chüel by those who know him, was a desert ranger from the **[[affiliation-sahritrb|Sahri]]** nomads, a tribe living in the remote reaches of the [[place-khzryndsrtrgn|Khazryn Desert]]. Skilled in tracking and surviving in one of the harshest environments in the world, Atazkharu developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atazkharu stumbled upon [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
-Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] and brought him to a hidden oasis. It was there, as [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
+Atazkharu, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] and brought him to a hidden oasis. It was there, as [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] shared his visions of celestial upheaval, that Atazkharu realized their fates were entwined. The same stars that guided [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atazkharu pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
 ## Background
 
 ### Skills and Abilities
 
-- **Strength**: Atenheru is physically capable, though not heavily muscled.
+- **Strength**: Atazkharu is physically capable, though not heavily muscled.
 - **Endurance**: He has the stamina for long hunts and journeys in the desert.
 - **Dexterity**: His hands are skilled with weapons, especially in precise, silent movements.
 - **Agility**: He moves quietly and quickly, making him hard to catch.
-- **Perception**: Atenheru has keen senses, essential for both hunting and survival.
+- **Perception**: Atazkharu has keen senses, essential for both hunting and survival.
 - **Comeliness**: His appearance is plain but rugged, shaped by his harsh environment.
 - **Aura**: He has a quiet, watchful presence, though not overpowering.
 - **Will**: His discipline and focus keep him on task, no matter how long it takes.
-- **Reasoning**: Atenheru’s intelligence is practical, honed by years of surviving in the wild.
+- **Reasoning**: Atazkharu’s intelligence is practical, honed by years of surviving in the wild.
 - **Creativity**: While not highly creative, he’s resourceful in difficult situations.
 - **Empathy**: He tends to keep his emotions to himself, making him seem detached.
 - **Eloquence**: He prefers silence over speaking, communicating only when necessary.
-- **Morality**: Atenheru’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
-- **Voice**: Atenheru’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
-- **Desert Survivalist**: Atenheru’s mastery of the **[[place-khzryndsrtrgn|Khazryn Desert]]** allows him to navigate the harsh environment with ease, ensuring the group can find shelter, water, and food even in the most desolate areas.
-- **Silent Tracker**: As a ranger, Atenheru can move unnoticed through almost any terrain, making him invaluable as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
-- **Spiritual Connection to the Jackal Spirit**: Atenheru feels a deep bond with the **Jackal Spirit**, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
+- **Morality**: Atazkharu’s actions are driven by duty and survival in the harsh desert, but he adheres to the codes of his people when necessary, often balancing pragmatism with tradition.
+- **Voice**: Atazkharu’s voice is quiet and often soft-spoken, better suited for stealth and secrecy than for singing. He avoids singing when possible.
+- **Desert Survivalist**: Atazkharu’s mastery of the **[[place-khzryndsrtrgn|Khazryn Desert]]** allows him to navigate the harsh environment with ease, ensuring the group can find shelter, water, and food even in the most desolate areas.
+- **Silent Tracker**: As a ranger, Atazkharu can move unnoticed through almost any terrain, making him invaluable as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
+- **Spiritual Connection to the Jackal Spirit**: Atazkharu feels a deep bond with the **Jackal Spirit**, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
 
 ## Psyche
 
 ### Personality
 
-Atenheru is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atenheru believes in fate and destiny, but he tempers this with practicality, focusing on survival and ensuring [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s safety as they journey into the unknown.
+Atazkharu is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atazkharu believes in fate and destiny, but he tempers this with practicality, focusing on survival and ensuring [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s safety as they journey into the unknown.
 
 ### Motivation
 
-Atenheru believes that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels a sense of destiny in helping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] navigate the challenges of the desert and beyond.
+Atazkharu believes that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels a sense of destiny in helping [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]] navigate the challenges of the desert and beyond.
 
 ### Strengths
 
@@ -473,10 +473,10 @@ Atenheru believes that [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’aqun]]’s v
 
 ## Plot Hooks
 
-1. **The Sands of Deception**: A caravan under Atenheru’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atenheru investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
+1. **The Sands of Deception**: A caravan under Atazkharu’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atazkharu investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
 
-2. **The Oasis of Whispers**: Atenheru’s travels take him to an oasis said to grant visions of the future to those who drink from its waters. After partaking, Atenheru receives fragmented images of his companions in peril and a veiled figure offering aid. But the vision comes with a warning: the figure’s help will come at a price that could fracture their unity.
+2. **The Oasis of Whispers**: Atazkharu’s travels take him to an oasis said to grant visions of the future to those who drink from its waters. After partaking, Atazkharu receives fragmented images of his companions in peril and a veiled figure offering aid. But the vision comes with a warning: the figure’s help will come at a price that could fracture their unity.
 
-3. **The Jackal’s Shadow**: Rumors spread of a deadly ranger, clad in similar attire to Atenheru, attacking merchant routes and leaving no survivors. The local tribes accuse Atenheru of betrayal, forcing him to track down the impersonator. His hunt leads him to a former ally turned bitter enemy, who now uses the guise of the Jackal Spirit to settle old grudges.
+3. **The Jackal’s Shadow**: Rumors spread of a deadly ranger, clad in similar attire to Atazkharu, attacking merchant routes and leaving no survivors. The local tribes accuse Atazkharu of betrayal, forcing him to track down the impersonator. His hunt leads him to a former ally turned bitter enemy, who now uses the guise of the Jackal Spirit to settle old grudges.
 
-4. **The Spirit’s Trial**: The Jackal Spirit that guides Atenheru begins to withdraw its favor, and strange misfortunes befall him. Seeking answers, Atenheru undertakes a solitary journey to the Spirit’s sacred shrine, where he must face trials designed to test his loyalty to the land and his companions—and confront whether he is still worthy of the Spirit’s guidance.
+4. **The Spirit’s Trial**: The Jackal Spirit that guides Atazkharu begins to withdraw its favor, and strange misfortunes befall him. Seeking answers, Atazkharu undertakes a solitary journey to the Spirit’s sacred shrine, where he must face trials designed to test his loyalty to the land and his companions—and confront whether he is still worthy of the Spirit’s guidance.

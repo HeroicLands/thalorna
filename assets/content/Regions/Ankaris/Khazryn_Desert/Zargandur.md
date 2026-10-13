@@ -36,7 +36,7 @@ The Zhōqarōd rule by garrison. They post watchers at the gates, the weirs and 
 
 ## The Field Outside the Walls
 
-Outside the northern wall, past the last irrigated plot, lies the [[place-henhulpedin|Henhulpedin]], the blood field of the Breaking, which nobody crosses at night.
+Outside the northern wall, past the last irrigated plot, lies the [[place-henhulpedin|Henhutpedin]], the blood field of the Breaking, which nobody crosses at night.
 
 ## Hooks and Dangers
 

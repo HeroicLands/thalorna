@@ -529,7 +529,7 @@ Lem'Nelgir [[being-iqenakht2|Iqenakht]]
 ### Affiliations
 
 [[affiliation-linamqeltzlk|Lin'Amqelet-Zeleku]]
-: Legez travels with the astrologer Amqelet-Zelemu Legulu’aqun, the scholar [[being-legiretilmyz|Legiret Ilmy-Zâ]], and the ranger Atenheru. The company is small, self-sufficient, and bound together by the shared purpose of the Convergence quest. Legez functions as the group's spiritual guide, legal advisor, and—when necessary—its most capable fighter.
+: Legez travels with the astrologer Amqelet-Zelemu Legulu’aqun, the scholar [[being-legiretilmyz|Legiret Ilmy-Zâ]], and the ranger Atazkharu. The company is small, self-sufficient, and bound together by the shared purpose of the Convergence quest. Legez functions as the group's spiritual guide, legal advisor, and—when necessary—its most capable fighter.
 
 The Faithful Remnant
 : A handful of scattered priests and former Wazu throughout the empire who either knew Legez personally or who have heard enough about the circumstances of his exile to doubt the official story. They do not constitute an organized network—most do not know each other—but they represent a potential source of shelter, information, and moral support should Legez ever attempt to rebuild his case. Gulmê in Anlagh-Zetûn is the most active, but there are others: a retired Lem'Nelgir in the delta who trained alongside Legez, a Wazu scholar who independently noticed discrepancies in the Khelunu augury records before being transferred to a remote provincial temple.

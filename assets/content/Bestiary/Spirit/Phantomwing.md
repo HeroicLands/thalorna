@@ -221,7 +221,7 @@ The well is a day behind and the next one four days ahead, and the camp in the s
 
 # Dossier {#dossier}
 
-The Phantomwing is the spirit of a winged creature that died far from home, a great bird, most often, that fell over a foreign land with every tie to its own country cut, and whose soul was never received anywhere. It is pale, nearly transparent, and endlessly searching, and it follows the living in the hope of a companionship it cannot have. It is not a predator, and it is dangerous only when cornered, and to those who stay near it too long. On [[lore-celestialroad|the Celestial Road]] across the Khazryn, the phantomwings haunt the last stage, the stone desert and cold high steppe of [[place-idwkrrgn|Idwakor]] before Tānvür's western passes, and the caravans know them.
+The Phantomwing is the spirit of a winged creature that died far from home, a great bird, most often, that fell over a foreign land with every tie to its own country cut, and whose soul was never received anywhere. It is pale, nearly transparent, and endlessly searching, and it follows the living in the hope of a companionship it cannot have. It is not a predator, and it is dangerous only when cornered, and to those who stay near it too long. On [[lore-celestialroad|the Celestial Road]] across the Khazryn, the phantomwings haunt the last stage, the stone desert and cold high steppe of [[place-idwkrrgn|Idvaqor]] before Tānvür's western passes, and the caravans know them.
 
 ## Presentation
 
@@ -229,7 +229,7 @@ A phantomwing has the shape of a great raptor, with a wingspan approaching fifte
 
 ## In the Land
 
-Idwakor is the last eight hundred miles of the Celestial Road, black rock and pale gravel climbing by long steps to a cold high steppe, with wells four to seven days apart and nights that freeze the water in the skins. Caravans on the road carry hunting hawks and eagles, traded or gifted between Byzarian and Tānvüri merchants, and birds die on the road; the cold kills them, or the wind takes them, or their masters die. The phantomwings are those birds. They haunt the high places of Idwakor, the ridges, the rock towers and the cliff-cisterns, and they come down to the caravans at night, searching. They are seen most on overcast days and moonless nights.
+Idvaqor is the last eight hundred miles of the Celestial Road, black rock and pale gravel climbing by long steps to a cold high steppe, with wells four to seven days apart and nights that freeze the water in the skins. Caravans on the road carry hunting hawks and eagles, traded or gifted between Byzarian and Tānvüri merchants, and birds die on the road; the cold kills them, or the wind takes them, or their masters die. The phantomwings are those birds. They haunt the high places of Idvaqor, the ridges, the rock towers and the cliff-cisterns, and they come down to the caravans at night, searching. They are seen most on overcast days and moonless nights.
 
 ## Key Behaviors
 
@@ -237,7 +237,7 @@ A phantomwing searches, endlessly: for its home, its master, its kind. It roosts
 
 ## What the Caravans Do
 
-The caravan-masters who sell the road a stretch at a time know that a phantomwing following a caravan costs days, because the men lose heart, and they deal with it. A caravan carrying a living hawk keeps it hooded at night, because a phantomwing comes to a living bird of its own kind and does not leave it. The masters' remedy, learned from the tribes of Idwakor, is to give the phantomwing what it searches for: a feather or a jess from a bird of its own country, burned on a fire of dung at dawn, with the country's name said over it. Some caravans swear by it. The [[lore-tanthei|Tānthëi]] registrar at the frontier way-station enters each phantomwing seen on the road in the register, with the date and the bird it seems to have been, because the empire writes everything down.
+The caravan-masters who sell the road a stretch at a time know that a phantomwing following a caravan costs days, because the men lose heart, and they deal with it. A caravan carrying a living hawk keeps it hooded at night, because a phantomwing comes to a living bird of its own kind and does not leave it. The masters' remedy, learned from the tribes of Idvaqor, is to give the phantomwing what it searches for: a feather or a jess from a bird of its own country, burned on a fire of dung at dawn, with the country's name said over it. Some caravans swear by it. The [[lore-tanthei|Tānthëi]] registrar at the frontier way-station enters each phantomwing seen on the road in the register, with the date and the bird it seems to have been, because the empire writes everything down.
 
 ## Signs
 

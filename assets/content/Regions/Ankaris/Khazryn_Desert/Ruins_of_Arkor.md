@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [hekardesert], population: 0, packFolde
 
 ## Overview
 
-Bolid, the tower, is what the tribes of the Welqator call it, and it is the one word of theirs for a city they never saw standing. The [[place-hekardesert|Desert of Hek'ar]] has buried it to the second story: a mile-wide rectangle of low dunes with an even, rectilinear shape, and at its center a single tower top, thirty feet of cracked brick, standing out of the sand with a lamp-chamber's black ring around its crown. The Black Flame calls the city Arkor, and that name is the one on every map in the Eastern March.
+Bolid, the tower, is what the tribes of the Völketör call it, and it is the one word of theirs for a city they never saw standing. The [[place-hekardesert|Desert of Hek'ar]] has buried it to the second story: a mile-wide rectangle of low dunes with an even, rectilinear shape, and at its center a single tower top, thirty feet of cracked brick, standing out of the sand with a lamp-chamber's black ring around its crown. The Black Flame calls the city Arkor, and that name is the one on every map in the Eastern March.
 
 Arkor is the westernmost of the [[lore-towercities|Tower Cities]], the lamp-lit league that carried the first road across the waste from about 1000 BF until the steppe broke it about 190 BF. Its builders left no name for it and no tablet. What is known of it is that the road reached it first from the Eastern March side, that its tower was lit every night for eight centuries, and that it was buried when the desert moved over it, quietly, rather than being sacked.
 
@@ -32,7 +32,7 @@ If the Eye exists, it is the treasure the Black Flame wants, and the tribes say 
 
 ## A Hook
 
-The canon hook stands as it is: the Black Flame's factions are fighting each other for the Eye, and a party that goes into Arkor goes in among them. The tribes of the Welqator have noticed, and they sell passage to every faction at once, with riders for each; a party that buys it learns who else has.
+The canon hook stands as it is: the Black Flame's factions are fighting each other for the Eye, and a party that goes into Arkor goes in among them. The tribes of the Völketör have noticed, and they sell passage to every faction at once, with riders for each; a party that buys it learns who else has.
 
 ## See Also
 

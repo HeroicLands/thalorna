@@ -241,7 +241,7 @@ The heat-shimmer on the gravel reach has had shapes in it all morning, and for a
 
 # Dossier {#dossier}
 
-The Dune Strider is the great flightless bird of the hot deserts: eight to ten feet tall, two hundred pounds, a grazer of the sand seas and gravel reaches of the [[place-hskrrgn|Hosikor]] and the dunes of [[place-dunharargn|Dunhara]]. It goes in small herds of four to six, eats the thin desert plants, seeds and insects, and runs from everything, at a pace that nothing on the sands can match. It kills only when it cannot run, with a kick that breaks a man in half.
+The Dune Strider is the great flightless bird of the hot deserts: eight to ten feet tall, two hundred pounds, a grazer of the sand seas and gravel reaches of the [[place-hskrrgn|Khoshiqor]] and the dunes of [[place-dunharargn|Dunhara]]. It goes in small herds of four to six, eats the thin desert plants, seeds and insects, and runs from everything, at a pace that nothing on the sands can match. It kills only when it cannot run, with a kick that breaks a man in half.
 
 The tribes of both deserts eat it when they can catch it, which is seldom, and the few that have been raised from the egg and broken to ride are the fastest mounts on the desert and the least trustworthy.
 
@@ -251,7 +251,7 @@ A huge, long-necked bird on two immensely long legs, with a small head and a sho
 
 ## In the Land
 
-Dune Striders range the sand seas, the gravel reaches and the scrub margins of the Hosikor, where a herd works between the wells on a circuit of its own, and the deep dunes of Dunhara to the south, where the Dunhari tribes know them as a thing to be eaten at the end of a long hunt. They need open ground to run on and avoid the ravines and the black-rock country. They stand in the shade of a dune through the heat of the day and graze in the morning and evening, and they drink at the same wells the caravans do, before the caravans arrive.
+Dune Striders range the sand seas, the gravel reaches and the scrub margins of the Khoshiqor, where a herd works between the wells on a circuit of its own, and the deep dunes of Dunhara to the south, where the Dunhari tribes know them as a thing to be eaten at the end of a long hunt. They need open ground to run on and avoid the ravines and the black-rock country. They stand in the shade of a dune through the heat of the day and graze in the morning and evening, and they drink at the same wells the caravans do, before the caravans arrive.
 
 ## Key Behaviors
 
@@ -259,7 +259,7 @@ A herd grazes spread out, with one bird always standing with its head up. It bol
 
 ## What the Tribes Do
 
-The Sowides hunt the Strider by running it: three or four riders on fresh horses in relays, over half a day, until the bird stands. The meat feeds a camp for a week, the eggs are the size of a man's head, and the feathers trade south. A chick taken from the scrape can be raised and, in a few hands, ridden; a broken Strider crosses sand faster than a camel and farther than a horse, and it will throw and kick its rider the first day he is careless. No tribe keeps a string of them. The Dunhari hunt them the same way and value the leg sinew for bowstrings.
+The Sovidur hunt the Strider by running it: three or four riders on fresh horses in relays, over half a day, until the bird stands. The meat feeds a camp for a week, the eggs are the size of a man's head, and the feathers trade south. A chick taken from the scrape can be raised and, in a few hands, ridden; a broken Strider crosses sand faster than a camel and farther than a horse, and it will throw and kick its rider the first day he is careless. No tribe keeps a string of them. The Dunhari hunt them the same way and value the leg sinew for bowstrings.
 
 ## Signs
 

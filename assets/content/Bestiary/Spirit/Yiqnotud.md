@@ -266,7 +266,7 @@ Those who have seen one in the half-light say that the head is wrong. It has no 
 
 ## In the Land
 
-The Yiqnotud is found on the thin fields and nowhere else: on the ground at Jilaq, three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of Qìmod on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called Wemaq, bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
+The Yiqnotud is found on the thin fields and nowhere else: on the ground at Jilaq, three days off the road, where the towers of the league's chief city stand over a ring wall, and on the sacked caravan town of Qiimod on the southern spur, where no bird sings and no flame stays lit. It walks the field on any night of the year, and in the field's season and when standing water lies on the ground it walks in greater numbers. The lesser fields, such as the oasis called Vömek, bring bad dreams and nothing that can touch the living. The Yiqnotud is for the thin ones.
 
 It ranges a few miles beyond the edge of the field in the dark. A camp pitched on the field, or a caravan that has strayed onto it, meets it directly. A camp a mile off on a quiet night may see it at the edge of the light and go through the night with its dogs whining.
 
@@ -280,7 +280,7 @@ It works in the dark and it works in packs of three or four. It circles first, c
 
 The steppe's account of the thin fields is simple. The dead of those fields were not carried to a laying-out ground and not named to the four winds, and the dead that go unnamed are hunted. The tribes keep their own dead to the rite, and a camp with an old man dying moves him to the laying-out ground before the end if it can.
 
-They keep away. The road bends three days round Jilaq, and the spur skirts Qìmod at a distance that a rider reckons by the sound of the dogs. Where a camp must lie within a day's ride of a field, it lays a line of ash on the ground at the edge of the grazing and sets lamps at the four corners of the camp, and the old women sit up. A line of ash will turn a Yiqnotud for a night. A line of ash with a lamp lit by a family whose dead lie on the field will turn it for a season.
+They keep away. The road bends three days round Jilaq, and the spur skirts Qiimod at a distance that a rider reckons by the sound of the dogs. Where a camp must lie within a day's ride of a field, it lays a line of ash on the ground at the edge of the grazing and sets lamps at the four corners of the camp, and the old women sit up. A line of ash will turn a Yiqnotud for a night. A line of ash with a lamp lit by a family whose dead lie on the field will turn it for a season.
 
 Nobody speaks the name of the hunter after dark. A child who says it is hushed, and an outsider who says it is asked to leave.
 
@@ -349,4 +349,4 @@ The sight of one fills a person with terror, and a person who has met the Yiqnot
 
 ## A Hook
 
-A war captain of a western tribe lost a patrol on the southern spur in the early autumn, and four of its riders were seen going toward Qìmod after dark. Two came back, silent, in the morning, and have not spoken since. The other two were laid out nowhere, and their families cannot lay out riders who have no bodies. The captain will pay in horses for a party that goes to Qìmod by day, finds the two, and carries them to the laying-out ground before the next dusk. The tribe's old women will go as far as the line of ash and no farther.
+A war captain of a western tribe lost a patrol on the southern spur in the early autumn, and four of its riders were seen going toward Qiimod after dark. Two came back, silent, in the morning, and have not spoken since. The other two were laid out nowhere, and their families cannot lay out riders who have no bodies. The captain will pay in horses for a party that goes to Qiimod by day, finds the two, and carries them to the laying-out ground before the next dusk. The tribe's old women will go as far as the line of ash and no farther.

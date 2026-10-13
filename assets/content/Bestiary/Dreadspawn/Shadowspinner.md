@@ -206,7 +206,7 @@ The shadowspinner builds, all the time. It extends and repairs its web in elabor
 
 ## What People Do
 
-The tribes of the Welqator will not drive stock within a mile of Arkor's tower at night, and say the sand took the city in its sleep. The Black Flame's **Blazing Oath**, the faction of the Servants of Vezhnûrikos sent under [[being-drzhvzhnr|Drazha Vezhnûr]] to recover the Eye of Velok, has dug down into the buried streets more than once, and lost men in the dark each time; the knights speak of ancient traps, and some of the traps are webs. The caravans that cross the Hek'ar by the old road buy silk from the margin tribes, a black rope strong enough to hang a camel from, and do not ask where it comes from. The tribes who sell it collect it from the dunes over the tower at dawn, in the one hour a day it is safe, and cut only what hangs loose.
+The tribes of the Völketör will not drive stock within a mile of Arkor's tower at night, and say the sand took the city in its sleep. The Black Flame's **Blazing Oath**, the faction of the Servants of Vezhnûrikos sent under [[being-drzhvzhnr|Drazha Vezhnûr]] to recover the Eye of Velok, has dug down into the buried streets more than once, and lost men in the dark each time; the knights speak of ancient traps, and some of the traps are webs. The caravans that cross the Hek'ar by the old road buy silk from the margin tribes, a black rope strong enough to hang a camel from, and do not ask where it comes from. The tribes who sell it collect it from the dunes over the tower at dawn, in the one hour a day it is safe, and cut only what hangs loose.
 
 ## Signs
 

@@ -69,9 +69,9 @@ Their canals and mounds are already old by 2600 BF. That is a century before the
 
 Four things survive, and each is a place a party can walk to:
 
-- **The shoreline.** [[place-ewod|Ewod]], the dry salt lake, is the lake bed itself, with the mounds standing along its edge.
-- **The deep wells.** [[place-qelod|Qelod]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the Hosikor still draw from and refuse to explain.
-- **The highland tombs.** [[place-osikor|Osikor]] is the ravine burial ground in the stone range north of the basin, where their rulers lay.
+- **The shoreline.** [[place-ewod|Evöd]], the dry salt lake, is the lake bed itself, with the mounds standing along its edge.
+- **The deep wells.** [[place-qelod|Kelöd]] is the greatest of the stair-wells, and there are lesser ones along the old canal lines that the tribes of the Khoshiqor still draw from and refuse to explain.
+- **The highland tombs.** [[place-osikor|Oshiqor]] is the ravine burial ground in the stone range north of the basin, where their rulers lay.
 - **The sand.** Every dune field of the central waste may cover a buried street or field-wall, and the tribes treat the sand of the basin as the builders' own.
 
 ## What the Tribes Say
@@ -80,4 +80,4 @@ The tribes agree on one thing, that the lake did not dry but drained. The water 
 
 ## Where It Stands
 
-Nobody knows what the builders called the lake, how many they were, or why the dead lie so far from the water. The question the tribes and the scholars share is the plainest: the wells were cut to reach a water table that stood hundreds of feet below the lake itself, and a people with a lake to draw on had no reason to dig them. No one has explained that, and the Ruweles, who have walked the basin longer than any, give the same answer each time they are asked, which is to name a price.
+Nobody knows what the builders called the lake, how many they were, or why the dead lie so far from the water. The question the tribes and the scholars share is the plainest: the wells were cut to reach a water table that stood hundreds of feet below the lake itself, and a people with a lake to draw on had no reason to dig them. No one has explained that, and the Uruvolur, who have walked the basin longer than any, give the same answer each time they are asked, which is to name a price.

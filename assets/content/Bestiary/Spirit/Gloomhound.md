@@ -256,7 +256,7 @@ The lamp throws its light a dozen paces up the cut passage, and at the very edge
 
 # Dossier {#dossier}
 
-The Gloomhound is a spirit: a hunter shaped like a great lean hound, eight or nine feet from nose to tail, made of something between shadow and smoke, which crosses into the world in lightless places and in places where death runs deep. It hunts the living by following them at the edge of their light, patiently, and it does not attack until the light fails. In [[place-vurdil|Vurdil]], the labyrinth of cut passages that climbs into the [[place-graznmntns|Grazian]] north face, one holds the dark beyond the first mile, and the climbers who prove Tellumi peaks call it the pale hound. They come in packs of three or four in other places: the ruins and [[lore-bloodfield|blood-fields]] of the [[place-khzryndsrtrgn|Khazryn]], old catacombs and deep caves. It is clever. It learns, plans, and knows a weakened thing when it sees one.
+The Gloomhound is a spirit: a hunter shaped like a great lean hound, eight or nine feet from nose to tail, made of something between shadow and smoke, which crosses into the world in lightless places and in places where death runs deep. It hunts the living by following them at the edge of their light, patiently, and it does not attack until the light fails. In [[place-vurdil|Vurdish]], the labyrinth of cut passages that climbs into the [[place-graznmntns|Grazian]] north face, one holds the dark beyond the first mile, and the climbers who prove Tellumi peaks call it the pale hound. They come in packs of three or four in other places: the ruins and [[lore-bloodfield|blood-fields]] of the [[place-khzryndsrtrgn|Khazryn]], old catacombs and deep caves. It is clever. It learns, plans, and knows a weakened thing when it sees one.
 
 ## Presentation
 
@@ -264,7 +264,7 @@ The outline is a hound's—long-legged, deep-chested, narrow-headed—but the su
 
 ## In the Land
 
-Gloomhounds come into the world where the dark is constant or where many have died badly. In the Khazryn they are found in the deep passages of Vurdil, in the sealed halls of the dead cities, and on the blood-fields where the unreceived dead lie, beside the [[being-yiqnotud|Yiqnotud]] that the steppe tribes fear more. Elsewhere they haunt catacombs, deep caves and the old woods at night. A pack holds its ground as a wolf pack holds a range and drives off other hunters, living or not. Where one has been seen once it is likely to be seen again, and Vurdil's pale hound has held the dark of the upper passages for as long as the Tellumi have kept the record of climbers who went in.
+Gloomhounds come into the world where the dark is constant or where many have died badly. In the Khazryn they are found in the deep passages of Vurdish, in the sealed halls of the dead cities, and on the blood-fields where the unreceived dead lie, beside the [[being-yiqnotud|Yiqnotud]] that the steppe tribes fear more. Elsewhere they haunt catacombs, deep caves and the old woods at night. A pack holds its ground as a wolf pack holds a range and drives off other hunters, living or not. Where one has been seen once it is likely to be seen again, and Vurdish's pale hound has held the dark of the upper passages for as long as the Tellumi have kept the record of climbers who went in.
 
 ## Key Behaviors
 
@@ -272,7 +272,7 @@ A gloomhound hunts by wearing its prey down. It follows at the rim of the light,
 
 ## What the Climbers Do
 
-The climbers who go into Vurdil carry twice the oil they expect to need and never let the last lamp burn down. They walk in pairs with a lamp between them, keep the party together, and turn back at the second junction if a lamp has gone out. They stand with their backs to the natural rock of the mountain, not to a cut wall, because the hound comes through the dressed walls and not through the living rock. Beyond Vurdil, people who must cross a gloomhound's ground do it in daylight, with fire, with a priest if one will come; the hounds avoid sanctified ground and holy light hurts them. Weapons of natural stone, a flint or an unworked river-stone, are said to bite on them as steel does not.
+The climbers who go into Vurdish carry twice the oil they expect to need and never let the last lamp burn down. They walk in pairs with a lamp between them, keep the party together, and turn back at the second junction if a lamp has gone out. They stand with their backs to the natural rock of the mountain, not to a cut wall, because the hound comes through the dressed walls and not through the living rock. Beyond Vurdish, people who must cross a gloomhound's ground do it in daylight, with fire, with a priest if one will come; the hounds avoid sanctified ground and holy light hurts them. Weapons of natural stone, a flint or an unworked river-stone, are said to bite on them as steel does not.
 
 ## Signs
 

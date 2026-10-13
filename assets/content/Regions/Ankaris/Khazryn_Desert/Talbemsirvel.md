@@ -1,6 +1,6 @@
 ---
 shortcode: talbemsirvel
-name: {full: Talbemsirvel, aliases: [The Empty Tower]}
+name: {full: Tashbemsirvesh, aliases: [The Empty Tower]}
 type: place
 subType: site
 description: "A Tower of Silence on a bench of black stone north of Ashkarad that no priest of Ázráván will approach, where the vultures sit in rows and do not feed and the dead on the platform lie as they were laid ninety years ago."
@@ -16,13 +16,13 @@ data:
 
 ## Overview
 
-A day's ride north of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] gives out and the black rock of [[place-dkrqrrgn|Dikraqor]] begins, a bench of dark stone carries a round tower of pale limestone sixty feet high, with no door at the ground and no window in its whole height. The Tellumi call it **Talbemsirvel**, "the forbidden tower". The caravan guides call it the Empty Tower, though nobody has ever seen it empty.
+A day's ride north of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] gives out and the black rock of [[place-dkrqrrgn|Diqraqor]] begins, a bench of dark stone carries a round tower of pale limestone sixty feet high, with no door at the ground and no window in its whole height. The Tellumi call it **Tashbemsirvesh**, "the forbidden tower". The caravan guides call it the Empty Tower, though nobody has ever seen it empty.
 
 It is a Tower of Silence. The Tellumi of Ashkarad and the farms around it have given their dead to the tower for as long as the city has had craft councils: the body carried up the stair by the Expositors, laid on the stone platform under the sky, and left to the vultures and the sun, while a Dēlkoshekh of [[affiliation-azravan|Ázráván]] reads the Prayer of Passage and kindles the small fire on the ground below. The tower's rite is the same rite as the one at the great death-temples of Amradad, and its stair is older than the Ātárzád conquest of the city.
 
 ## What Is Wrong
 
-The platform is full. A hundred dead and more lie on it in rows, on their backs, hands crossed, in the clothes and shrouds they were laid in. They do not decay. Their skin is the color of a candle and does not flake in the wind, and the dust of the bench does not settle on them. By day the vultures, the big black _budeq_ of the road, perch along the parapet in rows from dawn to dusk. They watch the dead and they do not feed. A guide who has seen it describes it the same way every time: the birds look at the dead like men waiting to be asked.
+The platform is full. A hundred dead and more lie on it in rows, on their backs, hands crossed, in the clothes and shrouds they were laid in. They do not decay. Their skin is the color of a candle and does not flake in the wind, and the dust of the bench does not settle on them. By day the vultures, the big black _budaq_ of the road, perch along the parapet in rows from dawn to dusk. They watch the dead and they do not feed. A guide who has seen it describes it the same way every time: the birds look at the dead like men waiting to be asked.
 
 On some nights the platform is empty. Nobody has watched it become so. A shepherd who slept at the foot of the stair swears the dead go down by the stair in order of age. A priest of Ázráván who climbed it at the last dark of the moon found the stone swept clean and the rows' places marked in the dust, and he came down and has not spoken of it. The dead are back by dawn.
 

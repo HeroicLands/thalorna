@@ -201,7 +201,7 @@ The body is a broad, plated thorax and a segmented abdomen that curves up and ba
 
 ## In the Land
 
-Bone Scorpions live throughout the sand seas and gravel reaches of the [[place-hskrrgn|Hosikor]] and along the whole length of the camel road, wherever there is water and shade within a night's walk of each other. The deep wells of the road, the ruined walls of the dead cities and the stone rings of [[lore-ownedoasis|an owned oasis]] all shelter them. The tribes know the hours when a scorpion is out and keep their own camps well back from a pool; the owners of a spring lid a shaft that one lives in, and say so when asked.
+Bone Scorpions live throughout the sand seas and gravel reaches of the [[place-hskrrgn|Khoshiqor]] and along the whole length of the camel road, wherever there is water and shade within a night's walk of each other. The deep wells of the road, the ruined walls of the dead cities and the stone rings of [[lore-ownedoasis|an owned oasis]] all shelter them. The tribes know the hours when a scorpion is out and keep their own camps well back from a pool; the owners of a spring lid a shaft that one lives in, and say so when asked.
 
 Each adult holds a range of four to six miles and walks it at night on a regular round, so a well that had a scorpion last season has one this season, and a guide who knows the road knows which side of which wall to keep off.
 
@@ -211,9 +211,9 @@ A Bone Scorpion spends the day buried in a burrow under a rock or a drift, fifte
 
 ## What the Tribes Do
 
-The Sowides do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
+The Sovidur do not kill a scorpion that keeps to its wall. A string waters on the sunlit side of a well and nobody sits in a strip of shade he has not looked at. A camp is pitched two hundred paces from the water, and the night-herd keeps the animals from drifting back to drink.
 
-The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qìso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Caldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
+The venom sells. A full sac, taken fresh and sealed in wax, is bought at [[place-qisomrktcmp|Qiiso]] by factors who carry it south to the alchemical faculty at [[place-caldar|Caldar]], where it is a paralytic in small doses and a poison in large ones. A scorpion is taken for its venom by a hunter working alone with a long forked pole and a sack, in the last hour before dawn when the animal is slowest, and most of the men who do it have been stung once.
 
 ## Signs
 

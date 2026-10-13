@@ -1,6 +1,6 @@
 ---
 shortcode: numek
-name: {full: Numek, aliases: [The Tower-Roost Colony]}
+name: {full: Numaq, aliases: [The Tower-Roost Colony]}
 type: being
 subType: creature
 description: "A night-flying colony animal of eight-foot wingspan that roosts by the thousand in dead light-towers and pours out at dusk to hunt."
@@ -239,27 +239,27 @@ Dusk comes on the waste with the last light turning the sand to copper, and the 
 
 # Dossier {#dossier}
 
-The Numek are night-flying creatures that roost in colonies in the dead light-towers of the waste and pour out at dusk to hunt. The word is the tribes' word for night, and it names the creature and the colony alike. A single bat-like animal is a Numek, and the roost is a Numek, and a camp that says "the Numek are out" means the whole of them, in the air, at once.
+The Numaq are night-flying creatures that roost in colonies in the dead light-towers of the waste and pour out at dusk to hunt. The word is the tribes' word for night, and it names the creature and the colony alike. A single bat-like animal is a Numaq, and the roost is a Numaq, and a camp that says "the Numaq are out" means the whole of them, in the air, at once.
 
 They are neither the largest nor the deadliest creatures of the road. They are the most numerous, and the tower roosts are among the few places in the waste where an ordinary night shelter is also the lair of a colony of thousands.
 
 ## Presentation
 
-A Numek is a leather-winged flyer with a wingspan of about eight feet, a small, blunt-nosed head and large, folded ears. The body is the size of a cat and covered in short, dense fur, a mottled dark brown that is nearly black by lamplight. The eyes are small. The wings are narrow and long, with a hooked thumb-claw at the elbow that the animal uses to climb stone, and when it hangs head-down in its roost the wings fold around it like a cloak. The teeth are small, needle-sharp and numerous.
+A Numaq is a leather-winged flyer with a wingspan of about eight feet, a small, blunt-nosed head and large, folded ears. The body is the size of a cat and covered in short, dense fur, a mottled dark brown that is nearly black by lamplight. The eyes are small. The wings are narrow and long, with a hooked thumb-claw at the elbow that the animal uses to climb stone, and when it hangs head-down in its roost the wings fold around it like a cloak. The teeth are small, needle-sharp and numerous.
 
 The sound of the colony is the first warning. A roost in the daytime gives off a steady dry rustle and a sour, ammoniac smell that carries a quarter mile downwind, and at dusk the rustle swells to a roar and the smell comes down on a camp like fog.
 
 ## In the Land
 
-The Numek lives wherever the old [[lore-towercities|light-towers]] stand in numbers, which is to say along the road from the Welqator to the Idwakor, and above all in the central sands, where a hundred miles of road are lined with fallen towers. A tower is a good roost: tall, hollow, dark inside, with a stairwell that draws air and a wall too sheer for a predator to climb. The lamp-chamber at the crown, where the league's glass lenses once stood, is the heart of the roost. A tower may hold from a few hundred to several thousand animals, and the floor beneath it is a gray drift of old droppings, knee-deep and as light as ash.
+The Numaq lives wherever the old [[lore-towercities|light-towers]] stand in numbers, which is to say along the road from the Völketör to the Idvaqor, and above all in the central sands, where a hundred miles of road are lined with fallen towers. A tower is a good roost: tall, hollow, dark inside, with a stairwell that draws air and a wall too sheer for a predator to climb. The lamp-chamber at the crown, where the league's glass lenses once stood, is the heart of the roost. A tower may hold from a few hundred to several thousand animals, and the floor beneath it is a gray drift of old droppings, knee-deep and as light as ash.
 
 They feed over the open waste on moths, beetles and flying insects, on small birds that are caught asleep, and on the rodents of the sand. A colony will range twenty miles from its tower on a night. At the end of the night, before dawn, the animals stream back, and the dark mass of the colony pours into the tower from every side.
 
 ## Key Behaviors
 
-The Numek is a creature of fixed habits. It leaves the roost at the last light, hunts until the small hours, and returns before the sky grays. In the daytime it sleeps, and a roost is quiet until the heat of the afternoon, when the animals begin to stir. The outpouring at dusk is the busiest hour. It is also the only time the colony is dangerous to people.
+The Numaq is a creature of fixed habits. It leaves the roost at the last light, hunts until the small hours, and returns before the sky grays. In the daytime it sleeps, and a roost is quiet until the heat of the afternoon, when the animals begin to stir. The outpouring at dusk is the busiest hour. It is also the only time the colony is dangerous to people.
 
-They are not hunters of large game. A Numek that finds a sleeping man, or a camel with an open wound, will feed, in the same way it feeds on a roosting bird. It bites and laps, and a dozen animals on one victim is a serious loss of blood by morning. The colony also defends its roost. A party that enters a tower by day and wakes the sleepers is attacked from every wall, and a party that lights a fire in the lower chamber fills the whole of the tower with the shrieks of thousands of animals trying to leave.
+They are not hunters of large game. A Numaq that finds a sleeping man, or a camel with an open wound, will feed, in the same way it feeds on a roosting bird. It bites and laps, and a dozen animals on one victim is a serious loss of blood by morning. The colony also defends its roost. A party that enters a tower by day and wakes the sleepers is attacked from every wall, and a party that lights a fire in the lower chamber fills the whole of the tower with the shrieks of thousands of animals trying to leave.
 
 ## What the Tribes Do
 
@@ -267,7 +267,7 @@ The tribes treat a tower as a place to avoid after dark and to use by day. A car
 
 The tribes of the road leave a lamp at the foot of a tower on the night the last city fell, and they say it is for the dead of the league. Whatever the reason, the lamp has an effect: it draws insects, and the colony feeds in the air above the lamp, within sight of the tower, rather than ranging over the camps. A tribe that keeps its lamp burning has a roost that feeds quietly at its own door.
 
-The droppings are worth the labor. The tribes of the road cut them from the floors of the oldest towers in sacks and sell them at Qìso to the gardeners of the Tellumel, who pay for them by weight. A family with a roost on its range has a harvest it does not have to herd.
+The droppings are worth the labor. The tribes of the road cut them from the floors of the oldest towers in sacks and sell them at Qiiso to the gardeners of the Tellumel, who pay for them by weight. A family with a roost on its range has a harvest it does not have to herd.
 
 ## Signs
 
@@ -280,7 +280,7 @@ The droppings are worth the labor. The tribes of the road cut them from the floo
 
 ## Combat Strategy
 
-A Numek attacks in a cloud. Its first strike is aimed at the eyes and the face, and the second is aimed at any open wound. Against a prepared party with torches it is afraid and flies off. Against a sleeping or disabled victim or a party that has fouled the roost, it presses the attack with a hundred animals at a time, and any single animal caught in the hand is a cat-sized creature that dies to one blow.
+A Numaq attacks in a cloud. Its first strike is aimed at the eyes and the face, and the second is aimed at any open wound. Against a prepared party with torches it is afraid and flies off. Against a sleeping or disabled victim or a party that has fouled the roost, it presses the attack with a hundred animals at a time, and any single animal caught in the hand is a cat-sized creature that dies to one blow.
 
 It hunts by echo. A loud noise, a clap or a shout from a doorway scatters the cloud for several breaths. Fire holds it at a distance, and a lit torch carried through a flock cuts a clear path.
 
@@ -288,7 +288,7 @@ It hunts by echo. A loud noise, a clap or a shout from a doorway scatters the cl
 
 ### Bite
 
-The Numek bites with needle teeth, and the wound bleeds longer than its size suggests. The animal laps at the wound afterward.
+The Numaq bites with needle teeth, and the wound bleeds longer than its size suggests. The animal laps at the wound afterward.
 
 ### Claw Rake
 
@@ -306,7 +306,7 @@ A disturbed colony rises as one. All the animals in a tower attack the same targ
 
 ### Night Adaptation
 
-A Numek is dazzled by strong light. A bright lamp or a torch in the face turns it from its path.
+A Numaq is dazzled by strong light. A bright lamp or a torch in the face turns it from its path.
 
 ## Attributes
 
@@ -330,4 +330,4 @@ A Numek is dazzled by strong light. A bright lamp or a torch in the face turns i
 
 ## A Hook
 
-A Byzarian factor will pay for one intact lens from the crown of a light-tower, and the tower on the nearest ridge still has its glass. The lamp-chamber is the heart of the Numek roost. The tribe whose range holds the tower will let a party climb it only by day, in the two hours after noon, when the colony is deepest in sleep, and it will send a boy to watch the sky from the foot. A party that stays in the chamber past the middle of the afternoon is in a dark room with a colony of thousands, and a torch lit on the stair brings the whole roost down the stairwell.
+A Byzarian factor will pay for one intact lens from the crown of a light-tower, and the tower on the nearest ridge still has its glass. The lamp-chamber is the heart of the Numaq roost. The tribe whose range holds the tower will let a party climb it only by day, in the two hours after noon, when the colony is deepest in sleep, and it will send a boy to watch the sky from the foot. A party that stays in the chamber past the middle of the afternoon is in a dark room with a colony of thousands, and a torch lit on the stair brings the whole roost down the stairwell.

@@ -1,6 +1,6 @@
 ---
 shortcode: sowideslng
-name: {full: Sowides Language, aliases: []}
+name: {full: Sovidur Language, aliases: []}
 type: skill
 subType: language
 description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tānvür."
@@ -14,114 +14,113 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Sowides (isolate)}}
+  flags: {"thalorna": {lang_family: Sovidur (isolate)}}
 ---
 
-Sowides is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _Sowides_, "the riders", from _sowid_ "rider" and _-es_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+Sovidur is the tongue of the herding tribes of the [[place-khzryndsrtrgn|Khazryn Desert Region]], who call themselves _Sovidur_, "the riders", from _sovid_ "rider" and _-ur_ "a people". Each tribe speaks it with its own turns of phrase, and a rider of one tribe is understood in all the others. It is the tongue in which caravan passage is bargained for, so a caravan-master who crosses the Khazryn learns its numbers and its courtesies first. Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Sounds
 
-Sowides is clipped and hard-edged. Words close on _k_, _q_, _d_, _n_, _r_ or _s_; a throaty _q_ and a lip-rounded _kw_, _gw_ and _qw_ run through it; and every two-syllable stem swings between a front vowel and a back one, so that speech rocks from _e_ and _i_ to _a_, _o_ and _u_ and back. Every letter is one sound: Sowides writes no two-letter sound like _sh_ or _kh_, and it has no _f_, _v_ or _z_.
+Sovidur is a tongue of two voices. Every stem keeps to one: a back stem is made of _a_, _o_ and _u_ and the throaty _q_ and _gh_; a front stem is made of _e_, _ö_ and _ü_ and the lighter _k_ and _g_; and _i_ sits with either. Round it run the scraped _kh_, the hissing _sh_ and _z_, the affricates _ch_ and _j_, and vowels held long by doubling them. Words close on a consonant or a vowel and never open on _r_. It has no _p_, no _h_, no _f_, no _w_ and no _ts_.
 
 ### Consonants
 
-| Letter      | Sound                                                             |
-| ----------- | ----------------------------------------------------------------- |
-| `p` `t` `k` | as in "pin", "tin", "kin"                                         |
-| `q`         | a _k_ made far back, where the tongue meets the soft palate's end |
-| `b` `d` `g` | as in "bin", "din", "gift"; `g` is always hard                    |
-| `m` `n`     | as in "man", "not"                                                |
-| `r` `l`     | `r` is trilled; `l` is dark, as in "full"                         |
-| `s` `h`     | `s` as in "sun"; `h` as in "hat"                                  |
-| `w` `y` `j` | as in "wet", "yes" and "jam"                                      |
+| Letter       | Sound                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------ |
+| `b` `d` `t`  | as in "bin", "din", "tin"                                                                  |
+| `k` `g`      | as in "kin" and "gift"; `g` is always hard; they belong to front stems                     |
+| `q` `gh`     | `q` is a _k_ made far back in the throat; `gh` is a gargled _g_; they belong to back stems |
+| `kh`         | a scraped _h_ at the back of the mouth                                                     |
+| `j` `ch`     | as in "jam" and "church"                                                                   |
+| `s` `sh` `z` | as in "sun", "ship" and "zeal"                                                             |
+| `m` `n`      | as in "man", "not"                                                                         |
+| `l` `r`      | `l` is dark, as in "full"; `r` is trilled                                                  |
+| `v` `y`      | as in "vine" and "yes"                                                                     |
 
-_kw_, _gw_ and _qw_ are single sounds at the start of a syllable: the stop said with the lips already rounded, as in "queen".
+_kh_, _gh_, _ch_ and _sh_ are each one sound, never a stop followed by a breath.
 
 ### Vowels
 
-| Letter  | Sound                                       |
-| ------- | ------------------------------------------- |
-| `a` `à` | as in "father"; `à` held long               |
-| `e` `è` | as in "bet"; `è` held long, as in "they"    |
-| `i` `ì` | as in "bit"; `ì` held long, as in "machine" |
-| `o` `ò` | as in "port"; `ò` held long                 |
-| `u` `ù` | as in "put"; `ù` held long, as in "rule"    |
+| Letter      | Sound                                                                                                            |
+| ----------- | ---------------------------------------------------------------------------------------------------------------- |
+| `a` `o` `u` | as in "father", "port" and "put"; the back vowels                                                                |
+| `e` `ö` `ü` | as in "bet"; `ö` and `ü` are front-rounded, lips as for _o_ and _u_, tongue as for _e_ and _i_; the front vowels |
+| `i`         | as in "bit"; it goes with either group                                                                           |
 
-### Marks
-
-| Mark  | Letters             | Kind   | Limit |
-| ----- | ------------------- | ------ | ----- |
-| grave | `à` `è` `ì` `ò` `ù` | length | any   |
-
-The grave marks a long vowel and nothing else. Length changes meaning: _qìso_ is "price", and _qiso_ with a short vowel is no word at all.
+A vowel is held long by writing it twice: _aa_, _ee_, _ii_, _oo_, _uu_, _öö_ and _üü_. No mark is used, and length changes meaning: _qiiso_ is "price", and _qiso_ with a short vowel is no word at all.
 
 ### Syllables
 
-| Rule          | Forms                                     |
-| ------------- | ----------------------------------------- |
-| Onsets        | `kw` `gw` `qw`                            |
-| Codas         | `t` `k` `q` `d` `g` `n` `r` `l` `s`       |
-| Finals        | `k` `q` `d` `n` `r` `s`                   |
-| Doubled       | none                                      |
-| Vowel pairs   | never                                     |
-| Initial vowel | yes                                       |
-| Mixed vowels  | `e` `i` `è` `ì` / `a` `o` `u` `à` `ò` `ù` |
-| Signature     | `q` `k` `w` `j` `o` `à` `è` `ì` `ò` `ù`   |
+| Rule          | Forms                                                                           |
+| ------------- | ------------------------------------------------------------------------------- |
+| Onsets        | a single consonant                                                              |
+| Codas         | `b` `d` `t` `k` `g` `q` `gh` `kh` `j` `ch` `s` `sh` `z` `m` `n` `l` `r` `v` `y` |
+| Finals        | `d` `t` `k` `q` `kh` `ch` `s` `sh` `z` `m` `n` `l` `r` `y`                      |
+| Doubled       | none                                                                            |
+| Vowel pairs   | `aa` `ee` `ii` `oo` `uu` `öö` `üü`                                              |
+| Initial vowel | yes                                                                             |
+| Never initial | `r`                                                                             |
+| Harmony       | back `a` `o` `u` / front `e` `ö` `ü` / neutral `i`, which alone counts as front |
+| Signature     | `q` `gh` `kh` `ch` `j` `z` `o` `ö` `ü`                                          |
 
-A syllable opens on one consonant, on _kw_, _gw_ or _qw_, or on nothing at all, and closes on nothing or on one consonant. A word may begin with a vowel (_orqwen_, _atwìl_) but never sets two vowels side by side, never doubles a letter, and ends on a vowel or on _k_, _q_, _d_, _n_, _r_ or _s_.
+A syllable opens on one consonant or on nothing and closes on nothing or on one consonant. A word may begin with a vowel (_orqun_, _otviil_) but never with _r_, never sets two different vowels side by side, never doubles a consonant, and ends on a vowel or on one of the finals above.
 
-**A stem of two syllables mixes its vowels:** one from the front group _e_, _i_ and one from the back group _a_, _o_, _u_, long or short. _kwedu_ "horse", _jedor_ "road" and _hosik_ "sand" are sound; a stem like _tolu_ or _seni_ is not Sowides. The rule holds for stems, so a compound of two stems keeps it in each half.
+**Every stem takes its vowels from one group.** _ködü_ "horse", _jedör_ "road" and _kelöd_ "well" are front stems; _khoshiq_ "sand", _qodir_ "mountain" and _bolid_ "tower" are back stems. A stem of _i_ alone counts as front. A compound keeps each stem's own group, so _Kelödvootri_ holds a front half and a back half, and a suffix takes the group of the stem before it.
 
-**Every stem carries a signature sound:** a _q_, _k_, _w_ or _j_, an _o_, or a long vowel. The _q_ of _yoleq_ "salt", the _w_ of _ruwel_ "water" and the _o_ of _hilod_ "sun" mark a word as Sowides even when it is heard alone.
+**The velars follow the group.** _q_ and _gh_ belong to back stems and _k_ and _g_ to front ones: _qodir_ and _kelöd_, _savagh_ "moon" and _gören_ "storm".
+
+**Every stem carries a signature sound:** a _q_, _gh_, _kh_, _ch_, _j_ or _z_, an _o_, an _ö_ or a _ü_. The _kh_ of _khamaq_ "skull", the _j_ of _jilaq_ "lantern" and the _ö_ of _jedör_ "road" mark a word as Sovidur even when it is heard alone.
 
 ### Stress
 
-Stress falls on a long vowel where a word has one, and otherwise on the first syllable of each stem: **KWE**-du, **JE**-dor, a-**TWÌL**.
+Stress falls on a doubled vowel where a word has one, and otherwise on the last syllable of the word: **QII**-mod, kö-**DÜ**, u-ru-**VAQ**.
 
 ## Building words
 
-Every Sowides word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[doc-khazrynlex|Khazryn Lexicon]]. The thing described comes first and the word describing it second: _kwedu_ "horse" and _ruweq_ "wind" make _kweduruweq_ "horse of the wind".
+Every Sovidur word is a stem, two stems set together, or a stem with a suffix after it. The stems and their senses are in the [[doc-khazrynlex|Khazryn Lexicon]]. The thing described comes first and the word describing it second: _ködü_ "horse" and _uruvaq_ "wind" make _ködüyuruvaq_ "horse of the wind".
 
 ### Joins
 
 | Meeting | Rule     | Letters |
 | ------- | -------- | ------- |
-| `V+V`   | `insert` | `h`     |
+| `V+V`   | `insert` | `y`     |
 | `C+C`   | `merge`  |         |
 
-- **Two vowels are held apart by _h_.** _kwedu_ and _-es_ make _Kweduhes_, "the horse people".
-- **Two of the same consonant become one.** _jedor_ "road" and _roqid_ "camp" make _jedoroqid_, "road camp", where a caravan halts.
+- **Two vowels are held apart by _y_.** _ködü_ and _-ür_ make _Ködüyür_, "the horse people".
+- **Two of the same consonant become one.** _sovid_ "rider" and _diqraq_ "stone" make _sovidiqraq_, "stone escort".
 
 Every other meeting leaves both parts as they are.
 
 ### Suffixes
 
-| Suffix | Sense                |
-| ------ | -------------------- |
-| `-es`  | a people or tribe    |
-| `-oq`  | a union, a binding   |
-| `-or`  | a range or grazing   |
-| `-ud`  | one who does         |
-| `-ye`  | a woman's given name |
+Each suffix has a back form and a front form; a stem takes the form of its own group.
+
+| Back   | Front  | Sense                |
+| ------ | ------ | -------------------- |
+| `-ur`  | `-ür`  | a people or tribe    |
+| `-oq`  | `-ök`  | a union, a binding   |
+| `-or`  | `-ör`  | a range or grazing   |
+| `-ud`  | `-üd`  | one who does         |
+| `-lun` | `-lün` | a woman's given name |
 
 ### The paramount chief
 
-Each tribe has its chief, the _dowek_. The tribes stand alone. Now and then a dictator, the _orqwen_, forces several of them together by the sword, and the binding he holds over them is his _orqwenoq_. It lasts only as long as he lives: when the _orqwen_ dies, the union dies with him and every tribe goes its own way again.
+Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a dictator, the _orqun_, forces several of them together by the sword, and the binding he holds over them is his _orqunoq_. It lasts only as long as he lives: when the _orqun_ dies, the union dies with him and every tribe goes its own way again.
 
 ### Names
 
-| Name       | Built from        | Meaning                    |
-| ---------- | ----------------- | -------------------------- |
-| Sowides    | _sowid_ + _-es_   | the riders                 |
-| Kweduhes   | _kwedu_ + _-es_   | the horse people           |
-| Orqwenoq   | _orqwen_ + _-oq_  | the union an orqwen forces |
-| Dikraqor   | _dikraq_ + _-or_  | the stone range            |
-| Jadekud    | _jadek_ + _-ud_   | a raider                   |
-| Wogeltolis | _wogel_ + _tolis_ | a man's name: wolf-spear   |
-| Tijòdye    | _tijòd_ + _-ye_   | a woman's name: star       |
+| Name        | Built from         | Meaning                   |
+| ----------- | ------------------ | ------------------------- |
+| Sovidur     | _sovid_ + _-ur_    | the riders                |
+| Ködüyür     | _ködü_ + _-ür_     | the horse people          |
+| Orqunoq     | _orqun_ + _-oq_    | the union an orqun forces |
+| Diqraqor    | _diqraq_ + _-or_   | the stone range           |
+| Jadaqud     | _jadaq_ + _-ud_    | a raider                  |
+| Voghaltoliz | _voghal_ + _toliz_ | a man's name: wolf-spear  |
+| Tijoodlun   | _tijood_ + _-lun_  | a woman's name: star      |
 
-**A union** is named by the stem of its emblem or its country with _-oq_, and a tribe by the same stem with _-es_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-ye_.
+**A union** is named by the stem of its emblem or its country with _-oq_ or _-ök_, and a tribe by the same stem with _-ur_ or _-ür_. **A range** takes _-or_ or _-ör_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-lun_ or _-lün_.
 
 ## Writing
 
-The Sowides write nothing but signs. Each tribe has a mark, cut into the stone over its wells and the trunks of its oldest palms, and a rider carries his tribe's passage-token, which bears the sign of the tribe that issued it. Records, treaties and debts are kept in memory and witnessed aloud.
+The Sovidur write nothing but signs. Each tribe has a mark, cut into the stone over its wells and the trunks of its oldest palms, and a rider carries his tribe's passage-token, which bears the sign of the tribe that issued it. Records, treaties and debts are kept in memory and witnessed aloud.

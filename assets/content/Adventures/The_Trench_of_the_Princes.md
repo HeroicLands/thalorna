@@ -37,7 +37,7 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 **Situation.** At the lower end of the wash, in the lee of a bank, the raiders' camp is a ring of low fires with the tents pitched close and the animals picketed inside the ring. The wind brings it first as a smell: lamp-oil, burnt hair and the sweetish rot of something dug out of cold sand. The fire is never let down. Two men sit awake in turns with their backs to the flames and their faces to the dark, and the rest sleep in the middle of the camp wrapped head to foot, like men who have been told what happens to a sleeper at the edge. Beyond the bank the raw cut of the trench shows pale in the starlight. The men are thin, jumpy and armed, and half of them have not slept properly in a month. Horses shy at the wash and have to be hobbled hard.
 
-**NPCs and threats.** **Hosikqenod**, the band's chief, a heavy Sowides rider with a brand on his cheek, runs the camp by fear and by the promise of gold. He speaks little, spits often and counts heads at every meal. He is cunning and no fool: he knows the trench is wrong, and he wants a bigger crew to dig it faster and be gone before the season turns. His men include a Tellumi digger, **Danilul**, a stooped man with sand worked into the creases of his knuckles, who reads the old hand on the seals and is the only one who knows what the band has dug. He is terrified of Hosikqenod and more terrified of the trench, and he keeps his tablet inside his shirt. The sentries are frightened of the dark and shoot at shadows. A shout in the night brings a flight of arrows into empty gravel before anyone asks what called.
+**NPCs and threats.** **Hosikqenod**, the band's chief, a heavy Sovidur rider with a brand on his cheek, runs the camp by fear and by the promise of gold. He speaks little, spits often and counts heads at every meal. He is cunning and no fool: he knows the trench is wrong, and he wants a bigger crew to dig it faster and be gone before the season turns. His men include a Tellumi digger, **Danilul**, a stooped man with sand worked into the creases of his knuckles, who reads the old hand on the seals and is the only one who knows what the band has dug. He is terrified of Hosikqenod and more terrified of the trench, and he keeps his tablet inside his shirt. The sentries are frightened of the dark and shoot at shadows. A shout in the night brings a flight of arrows into empty gravel before anyone asks what called.
 
 **Player choices.** Force: break the camp and take the gold already dug; the band outnumbers a small party and fights with the desperation of men who have nowhere to go, but they scatter if their chief falls. Stealth: approach from the dry bank, lie in the gravel and watch the changing of the sentries; the pattern is slack at the fourth hour. Guile: pose as a buying party come for the gold, or as relief diggers sent by a backer in the city; Hosikqenod wants hands badly enough to believe the second story if it is told with a shovel in the fist. Parley: offer a share and a safe fire in return for a look at the trench, and speak to Danilul alone, since he is the one man in camp who would give a great deal to be elsewhere.
 
@@ -120,8 +120,8 @@ The adventure runs over a day and a night. The party reaches the wash in the aft
 
 ## See Also
 
-- [[place-relvanvesul|Relvanvesul]]—the grave and its gold
+- [[place-relvanvesul|Relvanvesut]]—the grave and its gold
 - [[place-zargandur|Zargandûr]]—the city whose household lies in it
-- [[place-henhulpedin|Henhulpedin]]—the field of the riders
+- [[place-henhulpedin|Henhutpedin]]—the field of the riders
 - [[being-nushirnrsf|Nushir Narsâfî]]—the chandler of the quarter
 - [[lore-theshadow|The Shadow]]—what wears the dead

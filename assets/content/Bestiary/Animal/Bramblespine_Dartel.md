@@ -270,7 +270,7 @@ The ravine floor is black rock and loose scree, and the clump of spines beside t
 
 # Dossier {#dossier}
 
-The Bramblespine Dartel is a small, spined, armored reptile of the black-rock plateau of the [[place-dkrqrrgn|Dikraqor]] and the dry badlands round it, two to four feet at the shoulder and forty to eighty pounds, a carnivore of lizards, hares and birds that is dangerous to people chiefly because it will not get out of the way. It is solitary, it is out at dusk and dawn, and it defends a burrow and a hunting range against anything that comes near them with a lashing tail, a body of spines and a scream that stops a mule on a ledge.
+The Bramblespine Dartel is a small, spined, armored reptile of the black-rock plateau of the [[place-dkrqrrgn|Diqraqor]] and the dry badlands round it, two to four feet at the shoulder and forty to eighty pounds, a carnivore of lizards, hares and birds that is dangerous to people chiefly because it will not get out of the way. It is solitary, it is out at dusk and dawn, and it defends a burrow and a hunting range against anything that comes near them with a lashing tail, a body of spines and a scream that stops a mule on a ledge.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ A low, barrel-bodied quadruped on short legs, covered from nose to tail-tip in r
 
 ## In the Land
 
-The Dartel belongs to the mesas, dry ravines and rock cisterns of the Dikraqor, between the sands of the [[place-hskrrgn|Hosikor]] and the oasis belt, and to the badlands and stone uplands on the plateau's margins. It wants broken rock to lie against, an overhang or a crack to den in, and a water source within a few miles that draws the small animals it eats. The ravine mouths below the cut tombs and the shaded sides of the mesas hold the most of them, and the hard, poor tribes who graze the plateau know where each one lies.
+The Dartel belongs to the mesas, dry ravines and rock cisterns of the Diqraqor, between the sands of the [[place-hskrrgn|Khoshiqor]] and the oasis belt, and to the badlands and stone uplands on the plateau's margins. It wants broken rock to lie against, an overhang or a crack to den in, and a water source within a few miles that draws the small animals it eats. The ravine mouths below the cut tombs and the shaded sides of the mesas hold the most of them, and the hard, poor tribes who graze the plateau know where each one lies.
 
 ## Key Behaviors
 

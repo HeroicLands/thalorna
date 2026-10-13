@@ -20,7 +20,7 @@ An oath is knocking at a cedar door in the dark, and a town of four thousand has
 
 ## Overview
 
-The settlement of [[place-vahurdash|Vahúrdash]] sits in the corner of the old city of [[place-velkunar|Velkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the **Gate-dead**, a thing the [[lore-theshadow|Shadow]] made out of an unpaid oath and the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
+The settlement of [[place-vahurdash|Vahúrdash]] sits in the corner of the old city of [[place-velkunar|Veshkun]] and bars its gate each night against a knocking that speaks the words of the champion in [[lore-velkunsong|the Song of the Lost Town]]. The knocker is the **Gate-dead**, a thing the [[lore-theshadow|Shadow]] made out of an unpaid oath and the unread dead of the record-house. It can be turned away, and it can be answered, and the only people who have answered it are gone.
 
 The adventure runs over three days and two nights. Day one is the arrival and the first night at the gate. Day two is the cellars. The second night is the reckoning at the door. The scenes are arranged as five rooms, and each can be run in any order that the party's choices make natural, with the bypass notes below to carry play on.
 
@@ -57,7 +57,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Player choices.** Force: threaten Murelul for the whole of what he knows; he gives it, and the settlement's goodwill turns. Stealth: read the copied tablets in his room while he sleeps; they carry the cellar plan. Guile: let Dulmenul believe the party is for sale and learn what the rival house wants. Parley: persuade Khoršád-Vahūr that the party can end the knocking without opening the cellars to his rivals.
 
-**Clues and rewards.** The song gives three keys: the oath-words, the boy's name on the shield, and the keepers' line, _we are the keepers, we keep_. Murelul's copied plan shows the way from the breach in the north wall to the record-house stair. The shield of Revunul, with the name cut into the rim, is said to lie where the boy fell, in the gate-court. It is under the floor of the guard-bench.
+**Clues and rewards.** The song gives three keys: the oath-words, the boy's name on the shield, and the keepers' line, _we are the keepers, we keep_. Murelul's copied plan shows the way from the breach in the north wall to the record-house stair. The shield of Revunay, with the name cut into the rim, is said to lie where the boy fell, in the gate-court. It is under the floor of the guard-bench.
 
 **Consequences.** If the party takes Dulmenul's offer, he knows their plans and tells his employer. If they betray Murelul, the settlement closes to them.
 
@@ -87,7 +87,7 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **NPCs and threats.** The Gate-dead has two shapes. In the open it is a man of great size, wrapped in the dust of five centuries, who fights with the butt of a spear and the courtesy of a champion, giving ground and taking none. In the doorway it is merely a voice. Behind it, in the gate-court, the keepers walk when they are unnamed. A rival house's agent, if the party has crossed him, waits at the back of the court with a lantern and the intention of seeing the party fail.
 
-**Player choices.** Force: fight the Gate-dead in the court; arms alone do not end it, because each blow that breaks its shape is taken up again by the oath. Stealth: slip behind it and read the keepers' names from the cellar mouth. Guile: speak the boy's words from the wall, _I keep an oath too, stand off_, and the Gate-dead stops. Parley: answer as the one who has the right, saying _Revunul, Return_ and the name on the shield, and take the oath back.
+**Player choices.** Force: fight the Gate-dead in the court; arms alone do not end it, because each blow that breaks its shape is taken up again by the oath. Stealth: slip behind it and read the keepers' names from the cellar mouth. Guile: speak the boy's words from the wall, _I keep an oath too, stand off_, and the Gate-dead stops. Parley: answer as the one who has the right, saying _Revunay, Return_ and the name on the shield, and take the oath back.
 
 **Clues and rewards.** The shield from under the bench is in the party's hands or it is not. A party that holds it and speaks the boy's name ends the knocking for good. A party that reads every keeper's name and then speaks the Gate-dead's last word, _enough_, ends it with the keepers at peace. The fire of a Dēlkoshekh, if one is present, also burns it, though the oath survives the flame and returns in a season.
 
@@ -101,11 +101,11 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 **Situation.** With the keepers received, the great archive is open. The party has an hour, or a night, with a hundred shelves. The last tablet, laid on a desk in a room without a door, is the prince's own, with a line pressed into its edge by a thumbnail. It says one word in the old hand, and the word is _Paid_.
 
-**NPCs and threats.** Murelul, Khoršád-Vahūr and Dulmenul converge on the archive within the hour. Each wants the tablets and each wants them differently. The genealogies show that the House of Vahúrdash descends from the household of Bernirul and Minele and not from the princes, a better ancestry than most and not a princely one.
+**NPCs and threats.** Murelul, Khoršád-Vahūr and Dulmenul converge on the archive within the hour. Each wants the tablets and each wants them differently. The genealogies show that the House of Vahúrdash descends from the household of Berniray and Minesha and not from the princes, a better ancestry than most and not a princely one.
 
 **Player choices.** Force: carry off what can be carried. Stealth: copy the genealogies and leave the tablets. Guile: sell the truth to Dulmenul's house, or to the House of Vahúrdash, or both. Parley: bring the tablets to the Council of the Princes openly and let the seven houses read them.
 
-**Clues and rewards.** A few tablets of debt, sound and legible, fetch a good price in the yards of Kethramír: a handful of silver by weight each. The shield of Revunul, with the name on its rim, is a relic the Tellumi will weep over. The word on the prince's tablet reads two ways. The Tellumi who have seen it read it as the prince's debt to the woman at his gate, settled by the boy's half-skin of water. The Ātárzád scholars who have heard of it read it as the city's debt to the prince, settled by the sand.
+**Clues and rewards.** A few tablets of debt, sound and legible, fetch a good price in the yards of Kethramír: a handful of silver by weight each. The shield of Revunay, with the name on its rim, is a relic the Tellumi will weep over. The word on the prince's tablet reads two ways. The Tellumi who have seen it read it as the prince's debt to the woman at his gate, settled by the boy's half-skin of water. The Ātárzád scholars who have heard of it read it as the city's debt to the prince, settled by the sand.
 
 **Consequences.** The genealogies change the quarrel over the House's title. The party's choice decides whether the House keeps it by acclamation, loses it to rivals or is publicly made the descendant of an honorable champion.
 
@@ -120,8 +120,8 @@ The adventure runs over three days and two nights. Day one is the arrival and th
 
 ## See Also
 
-- [[place-velkunvartun|Velkunvartun]]—the gate and its knocking
-- [[place-velkunar|Velkun]]—the ruin and its cellars
+- [[place-velkunvartun|Veshkunvartun]]—the gate and its knocking
+- [[place-velkunar|Veshkun]]—the ruin and its cellars
 - [[place-vahurdash|Vahúrdash]]—the settlement and its house
 - [[lore-velkunsong|The Song of the Lost Town]]—the oath, the boy and the shield
 - [[lore-theshadow|The Shadow]]—what comes in where a rite is owed

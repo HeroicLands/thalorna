@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dowek chosen by the elders, a moot of elders that settles what custom does not already answer, and a circle of shamans consulted before the tribe moves.
+      A dovaq chosen by the elders, a moot of elders that settles what custom does not already answer, and a circle of shamans consulted before the tribe moves.
     ranks:
       - level: 0
         title: Kinless
@@ -35,11 +35,11 @@ data:
         title: Elder
         description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 5
-        title: Dowek
+        title: Dovaq
         description: >-
           Chief of the tribe, chosen by the elders from the strongest line and holding the office while the herds are fat and the wells held.
     offices:
-      Dowek: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
+      Dovaq: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
       Elder: Senior of a lineage, seated at the moot, whose recollection of custom settles what the young dispute.
       Shaman: Keeper of the storm rites, the weather-reading and the laying-out ground.
       War Captain: Leader of the warband, held by whoever the riders will follow.
@@ -58,23 +58,23 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Âzardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-zrnshtrb|Zarnûsh]] to their south can count. A [[lore-sowidesclt|Sowides]] tribe with that much water does not have to raid, and the Âzardan seldom do.
+The **Âzardan** are the largest of the tribes that share the central steppe, and the one smaller tribes look to when a drought comes. They hold the northern grass of the [[place-khzryndsrtrgn|Khazryn]] and more wells than the [[affiliation-zrnshtrb|Zarnûsh]] to their south can count. A [[lore-sowidesclt|Sovidur]] tribe with that much water does not have to raid, and the Âzardan seldom do.
 
 ## How the Tribe Lives
 
 The Âzardan keep horses first and camels second. The tribe moves in a long north-south circuit, wintering at the stone wells and summering on the high grass, and its scouts ride the borders with the Zarnûsh and the other neighbors every season. The scouts probe and do not strike, and the Zarnûsh read the pressure as a reminder of who could.
 
-A circle of shamans advises the dowek on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. Razanash Mervaran, a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
+A circle of shamans advises the dovaq on the weather, the rites and the moving of the camps, and the circle can halt a migration for an omen. Razanash Mervaran, a shaman of the tribe, is its best-known healer and diviner in the south, where the oasis cities hold few of her own people.
 
 ## Taking In
 
-The Âzardan grow by receiving. Three Zarnûsh families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Âzardan are now in quiet talks with the Zarnûsh dowek about a protection that would end the Zarnûsh's independence in all but name. The Sowides write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
+The Âzardan grow by receiving. Three Zarnûsh families who left in the last bad year found land, herds and a seat in the moot waiting for them, and the Âzardan are now in quiet talks with the Zarnûsh dovaq about a protection that would end the Zarnûsh's independence in all but name. The Sovidur write nothing, so the terms are spoken before witnesses and held in their memory, and a witnessed term is harder to break than a written one.
 
-Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orqwen before he has a banner, and the tribes that remember the last orqwen watch an Âzardan dowek who counts his dependents.
+Riders on other wells watch the pattern with unease. A tribe that takes in vassals one family at a time resembles an orqun before he has a banner, and the tribes that remember the last orqun watch an Âzardan dovaq who counts his dependents.
 
 ## See Also
 
-- [[lore-sowidesclt|Sowides]]—the steppe tribes and what they hold a person owes
+- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
 - [[affiliation-zrnshtrb|Zarnûsh]]—the middling tribe to the south that the Âzardan may absorb
 - [[affiliation-shrzrtrb|Shirzâri]], [[affiliation-drmndtrb|Dûrmand]]—the other great tribes of the central steppe
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes

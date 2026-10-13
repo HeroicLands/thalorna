@@ -1,6 +1,6 @@
 ---
 shortcode: qimod
-name: {full: Qìmod, aliases: [The Silent Market]}
+name: {full: Qiimod, aliases: [The Silent Market]}
 type: place
 subType: site
 description: "A caravan town on the southern spur, sacked about 548 AF when the third great union of the steppe came through: walls whole, houses whole and nobody in them, a thin blood-field of the silence where no bird sings, no fire stays lit and hunters in half-material form take hold of anyone who sleeps within the walls."
@@ -12,17 +12,17 @@ data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: k
 
 The walls are the first thing, because they are not broken. A wall of mud-brick twenty feet high runs round a town of perhaps three hundred houses, with a gate that stands open and a gatehouse with its roof on. The lanes inside are swept by the wind and nothing else. On the market square the stalls are up: poles, awnings, a weighing-beam hanging from its hook. It looks like a town that has stepped out for the afternoon, and it has looked like that for a very long time.
 
-**Qìmod**, "the silent" in [[skill-sowideslng|Sowides]], stands on the southern spur four days out of [[place-qisomrktcmp|Qìso]], where the track to the [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
+**Qiimod**, "the silent" in [[skill-sowideslng|Sovidur]], stands on the southern spur four days out of [[place-qisomrktcmp|Qiiso]], where the track to the [[place-swoasisbelt|Tellumel]] dips through a gap in the black rock. A well-head in the square still holds sweet water, and the tribe that keeps the well will draw it for a price, by rope, from outside the gate.
 
 ## How It Was Made
 
-About 548 AF the third of the great unions was raised, and its orqwen rode south down the spur in the week of the autumn market. Qìmod was full: Tellumi horse-dealers, Vedyari spice factors, a Byzarian wine-agent, Tānvüri silk-brokers, a hundred Sowides herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
+About 548 AF the third of the great unions was raised, and its orqun rode south down the spur in the week of the autumn market. Qiimod was full: Tellumi horse-dealers, Vedyari spice factors, a Byzarian wine-agent, Tānvüri silk-brokers, a hundred Sovidur herdsmen come to sell. The gate stood open for the fair. By nightfall everyone in the walls was dead, and the host rode on at dawn with the stock and left the people where they lay in the square, because a town's dead are not the riders' dead and the riders had a road to take.
 
-Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Dēlkoshekh, the Vedyari no conch, the Tānvüri no ancestor-shrine, and the Sowides among them were not laid out and not named. A great many people died at once without any one of the ways home.
+Each of the dead belonged to a people with a rite of its own, and none of those rites was performed. The Tellumi had no Dēlkoshekh, the Vedyari no conch, the Tānvüri no ancestor-shrine, and the Sovidur among them were not laid out and not named. A great many people died at once without any one of the ways home.
 
 ## What It Is Like
 
-Qìmod is a silence, and it is thin.
+Qiimod is a silence, and it is thin.
 
 A traveler notices it at the gate. Wind goes through the lanes and makes no sound. A dropped coin falls without ringing. Voices go flat and small within ten paces, and a man shouting to a companion at the far side of the square sees his lips move and hears them as through felt. No bird nests in the walls. No insect crosses the sand within a bowshot of them, and the dung of passing camels lies unvisited by flies.
 
@@ -50,7 +50,7 @@ Everything. The counting-house on the square has a barred door and a stone vault
 ## See Also
 
 - [[lore-bloodfield|Blood-fields]]—what the silence is, and why a thin field kills
-- [[place-hskrrgn|Hosikor]]—the sand country the spur leaves
-- [[place-qisomrktcmp|Qìso]]—the market-camp the spur starts from
-- [[place-dkrqrrgn|Dikraqor]]—the stone range the spur crosses
+- [[place-hskrrgn|Khoshiqor]]—the sand country the spur leaves
+- [[place-qisomrktcmp|Qiiso]]—the market-camp the spur starts from
+- [[place-dkrqrrgn|Diqraqor]]—the stone range the spur crosses
 - [[affiliation-shrzrtrb|Shirzâri]]—the tribe that holds its well

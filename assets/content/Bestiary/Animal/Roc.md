@@ -279,7 +279,7 @@ A bird of prey built on an impossible scale. The plumage is dark brown on the ba
 
 ## In the Land
 
-Rocs nest on the highest and most inaccessible peaks of the Grazian range above the north face, where the glaciers hold year-round, and hunt the ridges, valleys and plateaus below: the high grazing of the stone rams, the passes the caravans use to come down from Vedyara, the [[place-grazruins|ruins and labyrinths]] under the glaciers, and the black rock of the [[place-dkrqrrgn|Dikraqor]] beyond. A single bird's range is hundreds of square miles. It takes wild rams, ibex, wild asses, a camel, a mule or a pony from a string, and anything else of that size that stands on open ground. Herds that live under a roc's range learn to stay near cover, and the herdsmen of the plateau keep their beasts off the ridges in the season when the bird is seen.
+Rocs nest on the highest and most inaccessible peaks of the Grazian range above the north face, where the glaciers hold year-round, and hunt the ridges, valleys and plateaus below: the high grazing of the stone rams, the passes the caravans use to come down from Vedyara, the [[place-grazruins|ruins and labyrinths]] under the glaciers, and the black rock of the [[place-dkrqrrgn|Diqraqor]] beyond. A single bird's range is hundreds of square miles. It takes wild rams, ibex, wild asses, a camel, a mule or a pony from a string, and anything else of that size that stands on open ground. Herds that live under a roc's range learn to stay near cover, and the herdsmen of the plateau keep their beasts off the ridges in the season when the bird is seen.
 
 ## Key Behaviors
 

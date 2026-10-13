@@ -38,7 +38,7 @@ In the first year the war opened over water and land. The Tellumi say our people
 
 In the second year, the Zhōqarōd host came to Zargandûr. The city's war-house rode out through the north gate to meet them on the pasture. The riders were killed, the princes with them, and the city fell by noon. That is the day both peoples remember. We gave our own dead to the flame that night. The Tellumi asked to go beyond the wall and read their names from the tablets, as their dead must be received. The gate was ours. We refused them. Three days later the dead were driven into a trench and covered with earth.
 
-You may ask whether we ought to have opened the gate. I will not hide what we did, and I will not pretend that the Tellumi can receive their dead by our rite. We held the city, and they could not read the names. The ground beyond the wall is Henhulpedin to them; the Zhōqarōd call it the north grass. At night no Zhōqarōd picket stands there. The lamps the Tellumi light for their dead were not lit that night. We know the cost of that refusal because we live beside what it left.
+You may ask whether we ought to have opened the gate. I will not hide what we did, and I will not pretend that the Tellumi can receive their dead by our rite. We held the city, and they could not read the names. The ground beyond the wall is Henhutpedin to them; the Zhōqarōd call it the north grass. At night no Zhōqarōd picket stands there. The lamps the Tellumi light for their dead were not lit that night. We know the cost of that refusal because we live beside what it left.
 
 The fifth year brought Ashkarad under the tribes. The city of workshops became an Ātárzád holding, and the Tēghumōd now keep the gates where the caravan road enters the belt. In the eighth year Kethramír fell to the tribes, and the Tōzhirōd hold it now. Tellumi priests were killed there; their account keeps the count, and we will not make it smaller by turning away from it. The cities changed hands, but the people who worked their water and their craft remained among their streets.
 
@@ -53,4 +53,4 @@ At Mount Shōfar we renew the Covenant before the Unconsuming Flame. The Tōqēl
 - [[lore-turemrecital|The Recitation of the Breaking]]—the Tellumi account of the same war
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the twelve tribes and the Promise they keep
 - [[lore-zargandfall|The Fall of Zargandûr]]—the war-house's last ride
-- [[place-henhulpedin|Henhulpedin]]—the field beyond Zargandûr's north wall
+- [[place-henhulpedin|Henhutpedin]]—the field beyond Zargandûr's north wall

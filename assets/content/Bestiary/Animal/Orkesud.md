@@ -1,6 +1,6 @@
 ---
 shortcode: orkesud
-name: {full: Orkesud, aliases: [The Mirage-Stalker]}
+name: {full: Orqazud, aliases: [The Mirage-Stalker]}
 type: being
 subType: creature
 description: "A tall, lean clay-pan ambusher whose polished scales shimmer like open water in the noon heat and draw thirsty travelers in to die."
@@ -248,35 +248,35 @@ Ahead, past the last of the dunes, the sand ends in a lake. It is small and brig
 
 # Dossier {#dossier}
 
-The Orkesud is a tall, lean ambush hunter of the open pans and the clay flats, and the heat-shimmer is its lure and its cover. Its hide is built of overlapping scales of a pale, polished gray that throw the noon light back in a trembling film, so that from a distance the animal and the haze around it are one wavering patch the color of water. A thirsty traveler walks toward the patch, and the Orkesud waits. The tribes of the sands call it by the word for heat and the suffix of a doer, "the heat-doer", and the caravan masters of the road say "the mirage" and mean the animal.
+The Orqazud is a tall, lean ambush hunter of the open pans and the clay flats, and the heat-shimmer is its lure and its cover. Its hide is built of overlapping scales of a pale, polished gray that throw the noon light back in a trembling film, so that from a distance the animal and the haze around it are one wavering patch the color of water. A thirsty traveler walks toward the patch, and the Orqazud waits. The tribes of the sands call it by the word for heat and the suffix of a doer, "the heat-doer", and the caravan masters of the road say "the mirage" and mean the animal.
 
-It is a patient animal, and one of the few in the waste that hunts by day. The sand stalkers and the camel spiders wait for the cool; the Orkesud works the dead hours between mid-morning and mid-afternoon, when the air over bare ground is moving and no eye can be sure of what it sees.
+It is a patient animal, and one of the few in the waste that hunts by day. The sand stalkers and the camel spiders wait for the cool; the Orqazud works the dead hours between mid-morning and mid-afternoon, when the air over bare ground is moving and no eye can be sure of what it sees.
 
 ## Presentation
 
-The body is that of a heavy lizard raised up on legs like a heron's: a long barrel of a trunk about seven feet from snout to tail-root, carried a yard clear of the ground, with a neck as long as the legs and a narrow, wedge-shaped head. The scales on the back and flanks are flat, broad and slightly cupped, and each one holds a thin skin of air beneath it. In the heat the animal pumps these scales open and shut, and the fluttering produces the shimmer that surrounds it. At rest in the cool, or dead, the hide is a dull gray and the effect is gone. The belly is soft and the color of old ivory. The eyes are small, amber and set on the sides of the head, so that the Orkesud views a traveler with one eye at a time, turning its head as it watches.
+The body is that of a heavy lizard raised up on legs like a heron's: a long barrel of a trunk about seven feet from snout to tail-root, carried a yard clear of the ground, with a neck as long as the legs and a narrow, wedge-shaped head. The scales on the back and flanks are flat, broad and slightly cupped, and each one holds a thin skin of air beneath it. In the heat the animal pumps these scales open and shut, and the fluttering produces the shimmer that surrounds it. At rest in the cool, or dead, the hide is a dull gray and the effect is gone. The belly is soft and the color of old ivory. The eyes are small, amber and set on the sides of the head, so that the Orqazud views a traveler with one eye at a time, turning its head as it watches.
 
 The jaws are long, shallow and set with rows of hooked teeth. The forefeet carry three heavy claws, each as long as a man's finger, and the animal strikes with them, tucked under the body like a sprung trap, rather than with its mouth.
 
 ## In the Land
 
-The Orkesud ranges the bare clay pans, the cracked salt margins and the gravel reaches of the Hosikor and the Idwakor, anywhere that heat can lie on the ground and bend the light. The [[place-ewod|Salt Basin]] is its stronghold, and the long, dry stages of the stone desert hold more of them than any caravan master likes. Its lair is a shallow scrape on the shade side of a boulder or the rim of a pan, where it spends the cool of the night and the dawn. At midmorning it walks out to its watching place, usually the edge of a real seep or a pan that holds a thumb's depth of brackish water after rain, and settles to wait.
+The Orqazud ranges the bare clay pans, the cracked salt margins and the gravel reaches of the Khoshiqor and the Idvaqor, anywhere that heat can lie on the ground and bend the light. The [[place-ewod|Salt Basin]] is its stronghold, and the long, dry stages of the stone desert hold more of them than any caravan master likes. Its lair is a shallow scrape on the shade side of a boulder or the rim of a pan, where it spends the cool of the night and the dawn. At midmorning it walks out to its watching place, usually the edge of a real seep or a pan that holds a thumb's depth of brackish water after rain, and settles to wait.
 
-It does not need the water. It stands by water because water draws prey, and it prefers a seep too small for a tribe to own, since an owned seep is watched. Tribes who water at a spring in its country put a stone marker a day's ride out and say that anything beyond the stone is the Orkesud's.
+It does not need the water. It stands by water because water draws prey, and it prefers a seep too small for a tribe to own, since an owned seep is watched. Tribes who water at a spring in its country put a stone marker a day's ride out and say that anything beyond the stone is the Orqazud's.
 
 ## Key Behaviors
 
-An Orkesud hunts by standing still. It can hold one position for an hour, with its neck bent and its head low, and the shimmer of its scales does the work of drawing prey toward it. A string that is short of water turns toward a lake. A lone rider on a thirsty horse does the same. An animal fresh from a long stage will walk to a shimmer without any urging at all, and the Orkesud lets it come within twenty feet before it moves.
+An Orqazud hunts by standing still. It can hold one position for an hour, with its neck bent and its head low, and the shimmer of its scales does the work of drawing prey toward it. A string that is short of water turns toward a lake. A lone rider on a thirsty horse does the same. An animal fresh from a long stage will walk to a shimmer without any urging at all, and the Orqazud lets it come within twenty feet before it moves.
 
 It kills one animal at a time and eats it where it falls, then rests for days. A string of camels meets it as a single dead beast and a stampede, and it has little interest in the rest.
 
-It avoids the night, and it avoids the wind. A dust storm blinds it and a hard gale breaks the shimmer, and an Orkesud caught in either goes to ground.
+It avoids the night, and it avoids the wind. A dust storm blinds it and a hard gale breaks the shimmer, and an Orqazud caught in either goes to ground.
 
 ## What the Tribes Do
 
 The first rule of the sand tribes' travel is that nobody walks toward water that moves. A rider who sees a lake on the flat throws a stone at it, and a lake the stone does not reach is left alone. A guide who knows a country knows where its real waters are and rides to them by the stars and the stones, and a caravan that trusts its own eyes pays him for the privilege of finding out what is wrong with them.
 
-The tribes also hunt the Orkesud, for the hide. A skin of Orkesud scale, dried and cut into plates and stitched to felt, makes a shield-cover that throws back a spear's glint, and the plates are worn on the cheek-guards of the raiders' helmets. A hunter walks to the watching place in the half dark, before the shimmer begins, and waits in a pit with a spear and a rope of braided hair. An Orkesud killed with its scales still wet and fluttering is a prize in the market at [[place-qisomrktcmp|Qìso]].
+The tribes also hunt the Orqazud, for the hide. A skin of Orqazud scale, dried and cut into plates and stitched to felt, makes a shield-cover that throws back a spear's glint, and the plates are worn on the cheek-guards of the raiders' helmets. A hunter walks to the watching place in the half dark, before the shimmer begins, and waits in a pit with a spear and a rope of braided hair. An Orqazud killed with its scales still wet and fluttering is a prize in the market at [[place-qisomrktcmp|Qiiso]].
 
 ## Signs
 
@@ -289,7 +289,7 @@ The tribes also hunt the Orkesud, for the hide. A skin of Orkesud scale, dried a
 
 ## Combat Strategy
 
-The Orkesud kills with a single stroke from ambush and withdraws if the stroke fails. It rises from its crouch with the speed of a trap, covers the last twenty feet in a rush and strikes with the foreclaws at the throat or the belly of its victim. If the first blow takes, it pins the prey with its weight and finishes with the jaws. If the first blow misses, it backs off, resets itself and watches. It does not press a fight against a party that stands together.
+The Orqazud kills with a single stroke from ambush and withdraws if the stroke fails. It rises from its crouch with the speed of a trap, covers the last twenty feet in a rush and strikes with the foreclaws at the throat or the belly of its victim. If the first blow takes, it pins the prey with its weight and finishes with the jaws. If the first blow misses, it backs off, resets itself and watches. It does not press a fight against a party that stands together.
 
 Its weakness is the glare itself. The shimmer works in the open, in direct sun, and a party that approaches from the shade side of a dune or fights it in the lee of a wall sees the animal as it is: a tall gray lizard, slow to turn, on legs that cannot bear sudden sideways force. Throwing water on the scales kills the effect for several minutes.
 
@@ -297,7 +297,7 @@ Its weakness is the glare itself. The shimmer works in the open, in direct sun, 
 
 ### Lunging Claws
 
-The primary attack. The Orkesud launches from its crouch and rakes with all three foreclaws. The claws open a victim from shoulder to flank, and the weight of the rush bears the victim to the ground.
+The primary attack. The Orqazud launches from its crouch and rakes with all three foreclaws. The claws open a victim from shoulder to flank, and the weight of the rush bears the victim to the ground.
 
 ### Throat Bite
 
@@ -311,7 +311,7 @@ In direct sun the scales produce a wavering light that spreads the animal's outl
 
 ### Stillness
 
-The Orkesud can hold a pose for an hour. A creature that has not already marked its location will not see it move until it strikes.
+The Orqazud can hold a pose for an hour. A creature that has not already marked its location will not see it move until it strikes.
 
 ### Heat Tolerance
 

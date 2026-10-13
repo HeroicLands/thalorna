@@ -1,6 +1,6 @@
 ---
 shortcode: velkunar
-name: {full: Velkun, aliases: [The Lost Town]}
+name: {full: Veshkun, aliases: [The Lost Town]}
 type: place
 subType: site
 description: "The old city of Vahúrdash, given to the sand by a drought five centuries ago: streets of roofless houses and open cellars under and around the settlement that has been reclaimed among them."
@@ -10,9 +10,9 @@ data: {demonym: null, lore: [], parents: [swoasisbelt], population: 0, packFolde
 
 ## Overview
 
-The people who live in [[place-vahurdash|Vahúrdash]] walk on Velkun every day. The settlement of four thousand is a small thing set down in the northern corner of a much larger plan, and what the sand has not taken of the old city surrounds it on three sides: a grid of streets forty feet wide, houses without roofs, courtyards with the stumps of palms in them, and at the dry rim, where the belt's last streams fail, a long wall of fitted stone with the sand banked to its parapet. This is the fifth city of the Tellumi, in the dry northern rim of the belt, the place where the streams ran out.
+The people who live in [[place-vahurdash|Vahúrdash]] walk on Veshkun every day. The settlement of four thousand is a small thing set down in the northern corner of a much larger plan, and what the sand has not taken of the old city surrounds it on three sides: a grid of streets forty feet wide, houses without roofs, courtyards with the stumps of palms in them, and at the dry rim, where the belt's last streams fail, a long wall of fitted stone with the sand banked to its parapet. This is the fifth city of the Tellumi, in the dry northern rim of the belt, the place where the streams ran out.
 
-The Tellumi call the ruin Velkun, the lost town, to keep it apart from the living settlement that bears the old name. The clay archive keeps its wells, its debts and its dead in the records of the houses that left it.
+The Tellumi call the ruin Veshkun, the lost town, to keep it apart from the living settlement that bears the old name. The clay archive keeps its wells, its debts and its dead in the records of the houses that left it.
 
 ## What the Tellumi Believe
 

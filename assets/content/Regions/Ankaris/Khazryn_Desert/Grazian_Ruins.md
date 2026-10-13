@@ -18,7 +18,7 @@ data:
 
 Nobody has counted the peaks of the Grazian Mountains, and the glaciers that lie between them are older than any name for them. The range is a wall of ice and rock two thousand miles long, and its north face above the Khazryn is the least traveled part of it: a few known passes, each open for a handful of weeks in late summer, and between them ridge after ridge of blue ice that no caravan has crossed and few climbers have named.
 
-Under that ice are the places this note collects. A shepherd's boy chasing a goat finds a doorway in a rock face. A glacier draws back from a valley it has held for ten centuries and lays bare a stair. A guide leads a cold, sick party into a cleft to shelter from a storm and finds the cleft is a passage, with a floor, and the floor is worn. These are the labyrinths of the Grazian: cut passages that climb and branch and join, caverns whose floors have been leveled, halls whose roofs are lost in the dark, and sealed doors. [[place-vurdil|Vurdil]], above the Tellumi belt, is the one the lowlands know.
+Under that ice are the places this note collects. A shepherd's boy chasing a goat finds a doorway in a rock face. A glacier draws back from a valley it has held for ten centuries and lays bare a stair. A guide leads a cold, sick party into a cleft to shelter from a storm and finds the cleft is a passage, with a floor, and the floor is worn. These are the labyrinths of the Grazian: cut passages that climb and branch and join, caverns whose floors have been leveled, halls whose roofs are lost in the dark, and sealed doors. [[place-vurdil|Vurdish]], above the Tellumi belt, is the one the lowlands know.
 
 Who made them is not known, and no note records a claim. The Tellumi trace their descent through one of them. The Ösket and the Hvarn, the guides of the passes, know more than that and give it only to those who travel with them.
 
@@ -40,7 +40,7 @@ A guide of the Ösket, old and dying, wants one last crossing of the Eastern Rea
 
 ## See Also
 
-- [[place-vurdil|Vurdil]]—the labyrinth above the Tellumi belt
+- [[place-vurdil|Vurdish]]—the labyrinth above the Tellumi belt
 - [[place-graznmntns|The Grazian Mountains]]—the range
 - [[being-clffstlk|Cliff Stalker]]—the ledge hunter
 - [[being-crglrkr|Crag Lurker]]—the crack hunter

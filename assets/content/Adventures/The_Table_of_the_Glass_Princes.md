@@ -20,7 +20,7 @@ A prince bargained with something under the sand for his house's survival, and i
 
 ## Overview
 
-The palace of the cadet house of Nimelun, [[place-relvanninel|Relvanninel]], is a ruin of fused glass that has not weathered in ninety years. Twelve people live in it, unaged and glass-clear, bound to a long table and a law: the house has never turned away a guest and cannot. The **Tenant** beneath the palace, a seam of black glass that is a piece of the [[lore-theshadow|Shadow]], takes years from every guest who shares the house's bread. The adventure is a banquet with a prince who wants to die and a thing that does not want him to.
+The palace of the cadet house of Nimeshun, [[place-relvanninel|Relvanninesh]], is a ruin of fused glass that has not weathered in ninety years. Twelve people live in it, unaged and glass-clear, bound to a long table and a law: the house has never turned away a guest and cannot. The **Tenant** beneath the palace, a seam of black glass that is a piece of the [[lore-theshadow|Shadow]], takes years from every guest who shares the house's bread. The adventure is a banquet with a prince who wants to die and a thing that does not want him to.
 
 The adventure runs over a day and two nights. The party arrives in the glare of one afternoon, dines that evening, sleeps in the east wing and goes down to the cistern in the small hours or the next noon. Because the Tenant draws years by the hour, time is the resource the scenes spend. The bypass notes carry play on when the party skips or shortens a scene.
 
@@ -120,7 +120,7 @@ The adventure runs over a day and two nights. The party arrives in the glare of 
 
 ## See Also
 
-- [[place-relvanninel|Relvanninel]]—the palace and the house in it
+- [[place-relvanninel|Relvanninesh]]—the palace and the house in it
 - [[place-ashkarad|Ashkarad]]—the craft city whose cadet line it is
 - [[lore-khazrynclt|The Tellumi]]—the law of the guest
 - [[lore-theshadow|The Shadow]]—what the Tenant is made of

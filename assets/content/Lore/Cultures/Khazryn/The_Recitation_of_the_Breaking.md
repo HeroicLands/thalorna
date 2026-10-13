@@ -1,6 +1,6 @@
 ---
 shortcode: turemrecital
-name: {full: The Recitation of the Breaking, aliases: [Turemsemhal]}
+name: {full: The Recitation of the Breaking, aliases: [Turemtsemhat]}
 type: lore
 subType: literature
 description: "The fixed text the Tellumi recite at every festival, every court ceremonial and every princely funeral: the Ātárzád taken in as guests, the twelve years of the war city by city, the war-house of Zargandûr riding out of the north gate, the names not read, the archive burned at Shirvan, and the case kept open, with the tablets cited as evidence and the ending left where the record ends."
@@ -8,7 +8,7 @@ tags: [draft, khazryn]
 data:
   packFolder: settinglore
   culture: khazrynclt
-  form: semhal
+  form: tsemhat
   subjects:
     - lore-zargandfall
     - place-henhulpedin
@@ -21,13 +21,13 @@ data:
   language: khazrilng
 ---
 
-**The Recitation of the Breaking**, _Turemsemhal_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of Turem, the war in which the [[affiliation-tribestrzd|Ātárzád]] took four of their seven cities. It is a _semhal_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Dēlkoshekh on the first day of the five-day festival, and at every formal ceremonial of the exile courts at Amradad, and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.
+**The Recitation of the Breaking**, _Turemtsemhat_, is the fixed text the [[lore-khazrynclt|Tellumi]] recite of Turem, the war in which the [[affiliation-tribestrzd|Ātárzád]] took four of their seven cities. It is a _tsemhat_, a recitation: couplets, but plain ones, with no cloth and no reed, spoken standing by the eldest of a house at a princely funeral, by a Dēlkoshekh on the first day of the five-day festival, and at every formal ceremonial of the exile courts at Amradad, and spoken behind closed doors in the subject quarters of the four held cities, where it names the magistrate's own people. The Tellumi insist that it is not a lament and not a grievance: it is a case being kept open, and its form is the form of a case, each claim followed by the tablet that proves it. A reciter who departs from the words is corrected from the floor.
 
-The rendering below is the text as the House of [[place-zargandur|Zargandûr]] in exile recites it, which gives the second year its full weight because the war-house died in it; the other houses lengthen their own years and shorten this one. It names seven riders of the war-house, **Kirelul**, **Budilul**, **Pedunul**, **Garvanul**, **Perimul**, **Hagelul** and **Lirunul**, as the house's tablet names them, and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. The Ātárzád tell the same twelve years as the War of the Twelve Years and the keeping of a Promise, and their account is set out in their own note; this one reports their claim in order to refuse it, which is what a case does. The field outside Zargandûr's north wall, [[place-henhulpedin|Henhulpedin]], is where the recitation ends, and what it says of the lamps in the Tellumi quarter is the recitation's own account of a custom the quarter explains to nobody.
+The rendering below is the text as the House of [[place-zargandur|Zargandûr]] in exile recites it, which gives the second year its full weight because the war-house died in it; the other houses lengthen their own years and shorten this one. It names seven riders of the war-house, **Kireshay**, **Budishay**, **Pedunay**, **Garvanay**, **Perimay**, **Hageshay** and **Lirunay**, as the house's tablet names them, and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. The Ātárzád tell the same twelve years as the War of the Twelve Years and the keeping of a Promise, and their account is set out in their own note; this one reports their claim in order to refuse it, which is what a case does. The field outside Zargandûr's north wall, [[place-henhulpedin|Henhutpedin]], is where the recitation ends, and what it says of the lamps in the Tellumi quarter is the recitation's own account of a custom the quarter explains to nobody.
 
 : The Recitation of the Breaking {#recitation}
 
-```poetry {form=semhal lang=en}
+```poetry {form=tsemhat lang=en}
 This is the case of the seven cities, and the case is open.
 Stand for it. It is not long. Nothing in it is spoken
 that is not on a tablet, and the tablet will be named,
@@ -83,16 +83,16 @@ of what the belt had in the way of horse, and it was the strongest, and it went,
 and it was killed to the last rider, and the princes with it, and the day was spent
 by noon, and the city fell by noon, and that is the whole of the battle.
 We do not sing the battle. We name the riders. They are on the tablet. Settle.
-Kirelul, who held the left of the line, and did not give the ground.
-Budilul, who carried the house's banner, and did not drop it; the staff was found
+Kireshay, who held the left of the line, and did not give the ground.
+Budishay, who carried the house's banner, and did not drop it; the staff was found
 standing in the trench with the cloth rotted off it, and he beneath.
-Pedunul, the drill-master, who taught the house its strokes, and died with his teeth
+Pedunay, the drill-master, who taught the house its strokes, and died with his teeth
 set, the tablet says, which is the only word it gives on how any of them died.
-Garvanul, who bred the gray mares the Zhōqarōd ride today, and rode one.
-Perimul, who kept the gate-fires, and was the youngest, and was somebody's son.
-Hagelul, who held the right, and was found with the princes, and had held.
-Lirunul, who was a freed man of the house, and need not have ridden, and was felled
-beside Hagelul, and the tablet says of him only: he was free, and he went.
+Garvanay, who bred the gray mares the Zhōqarōd ride today, and rode one.
+Perimay, who kept the gate-fires, and was the youngest, and was somebody's son.
+Hageshay, who held the right, and was found with the princes, and had held.
+Lirunay, who was a freed man of the house, and need not have ridden, and was felled
+beside Hageshay, and the tablet says of him only: he was free, and he went.
 And the princes, whose names the tablet holds and this recitation does not. They are lent
 to the tablet until a Dēlkoshekh stands on the north grass and reads them where they lie.
 That is the second year. It is not finished. The house stands for it. Eyes dry.
@@ -173,7 +173,7 @@ This is the case. It is open. The reciter sits. The house stands. Nothing is dis
 ## See Also
 
 - [[lore-zargandfall|The Fall of Zargandûr]]—the morning the second year names
-- [[place-henhulpedin|Henhulpedin]]—the field outside the north wall, and the signets in the trench
+- [[place-henhulpedin|Henhutpedin]]—the field outside the north wall, and the signets in the trench
 - [[place-zargandur|Zargandûr]]—the war-city, its weirs and the lamps in its quarter
 - [[place-oasishirvn|Oasis of Shirvan]]—the first city, the spring and the sunken archive
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the seven houses, the Breaking as the Tellumi tell it, and the Council that keeps the case

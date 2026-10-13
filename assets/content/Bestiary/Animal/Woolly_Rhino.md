@@ -246,7 +246,7 @@ On the tundra the wind has scoured the snow back from a ridge, and a mound the s
 
 # Dossier {#dossier}
 
-The Woolly Rhino is the great grazer of the tundra and cold steppe, six to seven feet at the shoulder and up to thirteen or fourteen feet long. It lives alone on the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idwakor]]. It is peaceful but fiercely territorial, and dangerous when defending its range or young.
+The Woolly Rhino is the great grazer of the tundra and cold steppe, six to seven feet at the shoulder and up to thirteen or fourteen feet long. It lives alone on the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idvaqor]]. It is peaceful but fiercely territorial, and dangerous when defending its range or young.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A massive, heavily built animal in a thick brownish-gray coat that hangs in clum
 
 ## In the Land
 
-Woolly rhinos graze the tundra and cold steppe of the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idwakor]]. A rhino keeps a range around good grazing and moves little, feeding on grass and sedge and clearing snow from it with its horn. It has a thick coat and a hump of fat on its shoulders. A bull is solitary, and a cow keeps her calf at her side for two years.
+Woolly rhinos graze the tundra and cold steppe of the northern plateaus of the [[place-nrdlndsrgn|Nordlands]] and the cold high steppe of [[place-idwkrrgn|Idvaqor]]. A rhino keeps a range around good grazing and moves little, feeding on grass and sedge and clearing snow from it with its horn. It has a thick coat and a hump of fat on its shoulders. A bull is solitary, and a cow keeps her calf at her side for two years.
 
 ## Key Behaviors
 

@@ -33,15 +33,20 @@
  *    the tongue allows one), ends in a listed final (or a vowel, unless the
  *    tongue forbids it), holds between two vowels at most a coda and an onset,
  *    doubles only the listed letters, and sets two vowels together only where
- *    the tongue allows it. A stem may end in any coda; where the tongue states
- *    mixed vowel groups, a stem of two or more vowels holds one of each; and
+ *    the tongue allows it. No word or stem starts with a sound the tongue
+ *    lists as never initial. A stem may end in any coda; where the tongue
+ *    states harmony, no stem holds both a back and a front vowel; and
  *    where it states signature sounds, every stem holds at least one.
  * 3. **Stems** — each has a sense, is listed once in its tongue, stands in no
  *    other tongue and keeps no other tongue's sound rules, so a stem heard
  *    alone tells whose it is; and every tongue covers every required sense.
  * 4. **Derivation** — every name tagged with a tongue, and every derived word,
  *    recomputes from the stems and suffixes its derivation lists, through the
- *    tongue's joins; a derived word carries a gloss and is listed once; every
+ *    tongue's joins. Where a suffix gives a back and a front form, the
+ *    derivation names the form it uses, and that form takes the harmony of the
+ *    stem before it; a stem of neutral vowels alone takes the harmony the
+ *    harmony row states for it. Each form holds no vowel of the other group.
+ *    A derived word carries a gloss and is listed once; every
  *    word a glossed name quotes stands among the derived words or in the
  *    register under a tongue or another non-gloss tag.
  * 5. **The register** — every name of every note in scope stands in the
@@ -149,6 +154,43 @@ function column(table, word) {
     return at;
 }
 
+/** Whether a table has a column whose header starts with a word. */
+function hasColumn(table, word) {
+    return table.header.some((cell) => plain(cell).toLowerCase().startsWith(word));
+}
+
+/**
+ * The harmony a syllable row states: each vowel's group, and the harmony a stem
+ * of neutral vowels alone takes. The row is groups divided by `/`, each opened
+ * by `back`, `front` or `neutral` and listing its vowels in code spans; the
+ * neutral group says which harmony it "alone counts as".
+ *
+ * @param {string} raw - The row's cell.
+ * @param {string[]} vowels - The tongue's vowels, each of which needs a group.
+ * @returns {{groups: Map<string, "back"|"front"|"neutral">, neutralAs: "back"|"front"|null}}
+ */
+function harmonyFrom(raw, vowels) {
+    const groups = new Map();
+    let neutralAs = null;
+    for (const part of raw.split("/")) {
+        const words = plain(part).toLowerCase();
+        const label = words.match(/^(back|front|neutral)\b/)?.[1];
+        if (!label)
+            throw new Error(
+                `the harmony row names a group that is not back, front or neutral: "${plain(part)}"`,
+            );
+        for (const v of ticked(part).map(lower)) groups.set(v, label);
+        if (label === "neutral")
+            neutralAs = words.match(/alone counts as (back|front)\b/)?.[1] ?? null;
+    }
+    for (const v of vowels)
+        if (!groups.has(v))
+            throw new Error(`the harmony row places no group for the vowel \`${v}\``);
+    if ([...groups.values()].includes("neutral") && !neutralAs)
+        throw new Error("the harmony row states no harmony for a stem of neutral vowels alone");
+    return { groups, neutralAs };
+}
+
 /** The address a wikilink cell names, or null. */
 export function linked(cell = "") {
     return cell.match(/\[\[([^\]|\\]+)/)?.[1] ?? null;
@@ -213,13 +255,8 @@ export function rulesFrom(text) {
         initialVowel: /^yes\b/.test(rule("initial vowel").words),
         finalVowel: !/^no\b/.test(syllable.get("final vowel")?.words ?? "yes"),
         signature: syllable.has("signature") ? syllable.get("signature").forms : null,
-        mixed:
-            syllable.has("mixed vowels") ?
-                syllable
-                    .get("mixed vowels")
-                    .raw.split("/")
-                    .map((part) => ticked(part).map(lower))
-            :   null,
+        neverInitial: syllable.get("never initial")?.forms ?? [],
+        harmony: syllable.has("harmony") ? harmonyFrom(syllable.get("harmony").raw, vowels) : null,
     };
 
     const joins = new Map();
@@ -238,15 +275,82 @@ export function rulesFrom(text) {
         }
     }
 
+    // A suffix row gives one form under "Suffix", or a back and a front form
+    // under "Back" and "Front"; `form` is the sole or the back form.
     const suffixTable = tableOf(text, "### Suffixes");
-    const [sForm, sSense] = ["suffix", "sense"].map((w) => column(suffixTable, w));
+    const paired = hasColumn(suffixTable, "back") && hasColumn(suffixTable, "front");
+    const sForm = column(suffixTable, paired ? "back" : "suffix");
+    const sFront = paired ? column(suffixTable, "front") : -1;
+    const sSense = column(suffixTable, "sense");
     const suffixes = suffixTable.rows.map(({ cells, offset }) => ({
         form: lower(ticked(cells[sForm])[0] ?? ""),
+        front: paired ? lower(ticked(cells[sFront] ?? "")[0] ?? "") || null : null,
         sense: plain(cells[sSense] ?? ""),
         offset,
     }));
 
     return { consonants, vowels, marks, syllables, joins, suffixes };
+}
+
+/** Every form a tongue's suffixes take, back and front alike. */
+export function suffixForms(rules) {
+    return rules.suffixes.flatMap((s) => [s.form, s.front]).filter(Boolean);
+}
+
+/**
+ * The harmony of a stem: back, front, or mixed. A stem of neutral vowels alone
+ * takes the harmony the note states for it.
+ *
+ * @param {string} stem - The stem.
+ * @param {object} rules - From `rulesFrom`, with a harmony row.
+ * @returns {"back"|"front"|"mixed"}
+ */
+export function harmonyOf(stem, rules) {
+    const { groups, neutralAs } = rules.syllables.harmony;
+    const held = new Set(
+        sounds(stem, rules)
+            .filter((x) => x.kind === "V")
+            .map((x) => groups.get(x.sound)),
+    );
+    if (held.has("back") && held.has("front")) return "mixed";
+    if (held.has("back")) return "back";
+    if (held.has("front")) return "front";
+    return neutralAs ?? "front";
+}
+
+/**
+ * Every suffix in a derivation whose form disagrees with the harmony of the
+ * stem before it.
+ *
+ * @param {string[]} pieces - Stems, then suffixes with their hyphens.
+ * @param {object} rules - From `rulesFrom`.
+ * @returns {{piece: string, stem: string, harmony: string, used: string, right: string}[]}
+ */
+export function discords(pieces, rules) {
+    if (!rules.syllables.harmony) return [];
+    const out = [];
+    let stem = null;
+    for (const raw of pieces) {
+        const p = lower(raw);
+        if (!p.startsWith("-")) {
+            stem = p;
+            continue;
+        }
+        const row = rules.suffixes.find((s) => s.front && (s.form === p || s.front === p));
+        if (!row || !stem) continue;
+        const harmony = harmonyOf(stem, rules);
+        if (harmony === "mixed") continue;
+        const right = harmony === "back" ? row.form : row.front;
+        if (p !== right)
+            out.push({
+                piece: p,
+                stem,
+                harmony,
+                used: p === row.form ? "back" : "front",
+                right,
+            });
+    }
+    return out;
 }
 
 /**
@@ -327,6 +431,8 @@ export function shape(word, rules, { bound = false } = {}) {
         problems.push("no vowel");
         return problems;
     }
+    if (syl.neverInitial.includes(s[0].sound))
+        problems.push(`\`${s[0].sound}\` cannot start a word`);
 
     for (const { run: r, initial } of runs) {
         if (initial) {
@@ -348,11 +454,8 @@ export function shape(word, rules, { bound = false } = {}) {
     if (final.length === 0 && !bound && !syl.finalVowel) problems.push("ends in a vowel");
     if (bound && syl.signature && !s.some((x) => syl.signature.includes(x.sound)))
         problems.push("carries none of the tongue's signature sounds");
-    if (bound && syl.mixed && vowelsBefore > 1) {
-        const vs = s.filter((x) => x.kind === "V").map((x) => fold(x.sound));
-        if (!syl.mixed.every((group) => vs.some((v) => group.map(fold).includes(v))))
-            problems.push("keeps to one vowel group, and a stem of two vowels mixes them");
-    }
+    if (bound && syl.harmony && harmonyOf(word, rules) === "mixed")
+        problems.push("mixes back and front vowels");
     if (final.length > 1) problems.push(`\`${final.join("")}\` cannot end a word`);
     const ends = bound ? [...syl.finals, ...syl.codas] : syl.finals;
     if (final.length === 1 && !ends.includes(final[0]))
@@ -417,18 +520,18 @@ export function derive(pieces, rules) {
 export function parse(word, rules, stems) {
     const target = unstressed(word, rules);
     const stemForms = [...new Set(stems.map((s) => lower(s.form)))];
-    const suffixForms = rules.suffixes.map((s) => s.form).filter(Boolean);
+    const suffixes = suffixForms(rules);
     const found = [];
     const walk = (acc, pieces, suffixed) => {
         if (found.length >= 3 || pieces.length >= 4) return;
         const options = [
             ...(suffixed ? [] : stemForms.map((f) => ({ f, suffix: false }))),
-            ...(pieces.length ? suffixForms.map((f) => ({ f, suffix: true })) : []),
+            ...(pieces.length ? suffixes.map((f) => ({ f, suffix: true })) : []),
         ];
         for (const { f, suffix } of options) {
             const next = join(acc, f, rules);
             if (next === target) {
-                found.push([...pieces, f]);
+                if (discords([...pieces, f], rules).length === 0) found.push([...pieces, f]);
                 continue;
             }
             const head = next.slice(0, -1);
@@ -634,15 +737,45 @@ export function check({
         if (!lex.tags.includes(t.tag))
             add(t.offset, "error", `tongue tag \`${t.tag}\` is not a declared language tag`);
         for (const s of rules.suffixes) {
-            const strange = sounds(s.form.replace(/^-/, ""), rules).filter((x) => x.kind === "?");
-            if (!s.form.startsWith("-") || strange.length)
+            for (const form of [s.form, s.front].filter(Boolean)) {
+                const strange = sounds(form.replace(/^-/, ""), rules).filter((x) => x.kind === "?");
+                if (!form.startsWith("-") || strange.length)
+                    add(
+                        s.offset,
+                        "error",
+                        `suffix \`${form}\` is not a hyphen and letters of the inventory`,
+                        note.file,
+                        note.text,
+                    );
+            }
+            if (s.front && !rules.syllables.harmony)
                 add(
                     s.offset,
                     "error",
-                    `suffix \`${s.form}\` is not a hyphen and letters of the inventory`,
+                    `suffix \`${s.form}\` gives a front form, and the note states no harmony`,
                     note.file,
                     note.text,
                 );
+            if (s.front && rules.syllables.harmony) {
+                const groupsOf = (form) =>
+                    new Set(
+                        sounds(form, rules)
+                            .filter((x) => x.kind === "V")
+                            .map((x) => rules.syllables.harmony.groups.get(x.sound)),
+                    );
+                for (const [form, kind, other] of [
+                    [s.form, "back", "front"],
+                    [s.front, "front", "back"],
+                ])
+                    if (groupsOf(form).has(other))
+                        add(
+                            s.offset,
+                            "error",
+                            `the ${kind} form of suffix \`${form}\` holds a ${other} vowel`,
+                            note.file,
+                            note.text,
+                        );
+            }
             if (!s.sense)
                 add(
                     s.offset,
@@ -743,7 +876,7 @@ export function check({
             const isSuffix = p.startsWith("-");
             const known =
                 isSuffix ?
-                    rules.suffixes.some((s) => s.form === lower(p))
+                    suffixForms(rules).includes(lower(p))
                 :   stems.some((s) => s.form === lower(p));
             if (!known)
                 add(
@@ -752,6 +885,12 @@ export function check({
                     `${r.name}: \`${p}\` is not a listed ${isSuffix ? "suffix" : "stem"} of its tongue`,
                 );
         }
+        for (const d of discords(pieces, rules))
+            add(
+                r.offset,
+                "error",
+                `${r.name}: \`${d.piece}\` is the ${d.used} form of a suffix, after the ${d.harmony} stem \`${d.stem}\`; it takes \`${d.right}\``,
+            );
         const made = derive(pieces, rules);
         if (made !== unstressed(r.name, rules))
             add(

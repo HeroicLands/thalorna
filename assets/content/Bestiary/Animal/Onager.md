@@ -246,7 +246,7 @@ A band of pale, long-legged animals stands on the salt flat a long way off, ever
 
 # Dossier {#dossier}
 
-The Onager is the wild ass of the arid steppe, eleven to twelve hands at the shoulder and five hundred to six hundred fifty pounds, grazing the gravel plains, salt flats and dry grassland of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idwakor]]. It is smaller than a wild horse and faster over open ground, tireless over distance and savage when cornered, and no attempt to tame it has succeeded. To the steppe nomads it is a quarry and a symbol of the wild desert. Hunting one on horseback tests rider and mount to the limit.
+The Onager is the wild ass of the arid steppe, eleven to twelve hands at the shoulder and five hundred to six hundred fifty pounds, grazing the gravel plains, salt flats and dry grassland of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idvaqor]]. It is smaller than a wild horse and faster over open ground, tireless over distance and savage when cornered, and no attempt to tame it has succeeded. To the steppe nomads it is a quarry and a symbol of the wild desert. Hunting one on horseback tests rider and mount to the limit.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A medium-sized equine, lean and narrow, built for speed. The coat is pale sandy-
 
 ## In the Land
 
-Onagers graze the gravel plains, salt flats and dry steppe of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idwakor]], on the cold high steppe before the western passes of Tānvür. A band of mares and foals ranges between a few water-holes under a stallion who holds the ground around one. They graze at dusk and dawn and rest in the heat. A band bunches at a distance from the observer, stares, and bolts.
+Onagers graze the gravel plains, salt flats and dry steppe of the [[place-khzryndsrtrgn|Khazryn]] and the stone desert of [[place-idwkrrgn|Idvaqor]], on the cold high steppe before the western passes of Tānvür. A band of mares and foals ranges between a few water-holes under a stallion who holds the ground around one. They graze at dusk and dawn and rest in the heat. A band bunches at a distance from the observer, stares, and bolts.
 
 ## Key Behaviors
 

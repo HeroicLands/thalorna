@@ -270,7 +270,7 @@ The thing at the head of the ravine is the shape of a wolf and the color of an o
 
 # Dossier {#dossier}
 
-The Ironjaw is a dreadspawn, a made thing: a hunting beast the size and shape of a big wolf, two hundred and fifty pounds, plated all over in scales of metal that grow out of its hide, with a jaw of iron-hard teeth that bites through mail. It hunts in packs of four to eight across the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]—the black rock of the [[place-dkrqrrgn|Dikraqor]] and the hollow ridges of [[place-idwkrrgn|Idwakor]]—and holds a territory there that it marks with scratched rock and heaps of bones and defends against everything. The tribes say it was a wolf that dark magic got into and turned to metal. The scholars who class it with the dreadspawn say it was made as it is and made as a pack, since it cannot breed and every pack has always been met at full strength; nobody has seen a young one.
+The Ironjaw is a dreadspawn, a made thing: a hunting beast the size and shape of a big wolf, two hundred and fifty pounds, plated all over in scales of metal that grow out of its hide, with a jaw of iron-hard teeth that bites through mail. It hunts in packs of four to eight across the stone uplands and badlands of the [[place-khzryndsrtrgn|Khazryn]]—the black rock of the [[place-dkrqrrgn|Diqraqor]] and the hollow ridges of [[place-idwkrrgn|Idvaqor]]—and holds a territory there that it marks with scratched rock and heaps of bones and defends against everything. The tribes say it was a wolf that dark magic got into and turned to metal. The scholars who class it with the dreadspawn say it was made as it is and made as a pack, since it cannot breed and every pack has always been met at full strength; nobody has seen a young one.
 
 ## Presentation
 
@@ -278,7 +278,7 @@ The build is a wolf's, long-legged and deep-chested, heavier through the shoulde
 
 ## In the Land
 
-Ironjaw packs hold territories of many miles in the stone uplands: ravine systems in the Dikraqor, where the cisterns and the tombs of [[place-osikor|Osikor]] lie, and the ridges of Idwakor that the road passes through on its last stretch toward the east. A pack marks its edges with deep claw-scores on prominent boulders and with heaps of cracked bones laid out at a ravine mouth, and the guides read those marks as plainly as a boundary stone. Inside its territory the pack hunts wild asses, gazelle, goats and anything else that walks; outside it, the pack turns for home. They den in caves and old workings in the rock, where the heat of their bodies keeps the cold off in the winter nights.
+Ironjaw packs hold territories of many miles in the stone uplands: ravine systems in the Diqraqor, where the cisterns and the tombs of [[place-osikor|Oshiqor]] lie, and the ridges of Idvaqor that the road passes through on its last stretch toward the east. A pack marks its edges with deep claw-scores on prominent boulders and with heaps of cracked bones laid out at a ravine mouth, and the guides read those marks as plainly as a boundary stone. Inside its territory the pack hunts wild asses, gazelle, goats and anything else that walks; outside it, the pack turns for home. They den in caves and old workings in the rock, where the heat of their bodies keeps the cold off in the winter nights.
 
 ## Key Behaviors
 

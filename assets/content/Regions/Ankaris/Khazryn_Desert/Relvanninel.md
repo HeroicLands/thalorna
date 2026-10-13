@@ -1,9 +1,9 @@
 ---
 shortcode: relvanninel
-name: {full: Relvanninel, aliases: [The Glass Princes' Palace, The Palace of Glass]}
+name: {full: Relvanninesh, aliases: [The Glass Princes' Palace, The Palace of Glass]}
 type: place
 subType: site
-description: "The palace of the cadet house of Nimelun, a line of mirror-makers and minor princes of the Ashkarad craft house, standing in a fused-glass ruin at the failed edge of the belt, where the last prince's household still sits at table exactly as the Breaking found it."
+description: "The palace of the cadet house of Nimeshun, a line of mirror-makers and minor princes of the Ashkarad craft house, standing in a fused-glass ruin at the failed edge of the belt, where the last prince's household still sits at table exactly as the Breaking found it."
 tags: [draft, haunted, ruin]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Three days north-west of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] frays into broken ground and the last springs have failed, a low hill is crowned with something that catches the sun like a lake. It is the palace of **Nimelun**, the "house of silver", a cadet line of the craft house of Ashkarad whose princes held a small oasis of their own and made their fortune in silvered glass: mirrors, lamp-chimneys and the clear lenses that the whole belt bought. The Tellumi call the palace **Relvanninel**, "the princes' house". The tribes of the edge call it the Glass Princes' Palace and give it a day's ride of empty ground on every side.
+Three days north-west of [[place-ashkarad|Ashkarad]], where the irrigated strip of [[place-swoasisbelt|Tellumel]] frays into broken ground and the last springs have failed, a low hill is crowned with something that catches the sun like a lake. It is the palace of **Nimeshun**, the "house of silver", a cadet line of the craft house of Ashkarad whose princes held a small oasis of their own and made their fortune in silvered glass: mirrors, lamp-chimneys and the clear lenses that the whole belt bought. The Tellumi call the palace **Relvanninesh**, "the princes' house". The tribes of the edge call it the Glass Princes' Palace and give it a day's ride of empty ground on every side.
 
 The palace is built of the sand it stands on. The craft of the house was to fuse dune sand into glass, and its princes raised their walls, floors, stairs and roofs in it, green and smoke-black and, in the royal rooms, clear as water. Now the oasis is a dry hollow and the garden is a field of stumps, but the palace has not weathered a hair. The walls ring when struck. The windows hold the light.
 
@@ -28,7 +28,7 @@ A traveler who enters the gate is welcomed by the steward, given water to wash a
 
 ## What the Tribes Say
 
-- **The edge-tribes.** The Sowides who graze the failed ground say the house was taken by a bargain, that the sand under it is awake and that a stranger who stays three nights does not leave with the years he came with. They bury animals that wander near.
+- **The edge-tribes.** The Sovidur who graze the failed ground say the house was taken by a bargain, that the sand under it is awake and that a stranger who stays three nights does not leave with the years he came with. They bury animals that wander near.
 - **The Tēghumōd.** The merchant tribe that took Ashkarad has a caravan road that bends three days around the hill. An old factor will say that a Tēghumōd column rode up in the fifth year and was seen to ride away again at once, burned the wells and said nothing of what it found.
 - **The craft quarter.** The families of Ashkarad whose grandfathers made glass for the house say the princes were good lords and bad at bargains. A woman in the quarter keeps a silvered mirror from the palace, and it shows nothing of the room it hangs in.
 - **The exile house.** The House of Ashkarad at Amradad is kin to the line, and does not discuss it.

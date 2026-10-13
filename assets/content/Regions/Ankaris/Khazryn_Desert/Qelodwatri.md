@@ -1,16 +1,16 @@
 ---
 shortcode: qelodwatri
-name: {full: Qelodwàtri, aliases: [The Cold Well]}
+name: {full: Kelödvootri, aliases: [The Cold Well]}
 type: place
 subType: site
-description: "An owned spring of twelve palms at the foot of a black mesa in the Hosikor, whose tribe has chained a stone over its well and will not say what lives under it."
+description: "An owned spring of twelve palms at the foot of a black mesa in the Khoshiqor, whose tribe has chained a stone over its well and will not say what lives under it."
 tags: [draft, oasis, well, dreadspawn]
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-Two days north of the road, where the gravel of the [[place-hskrrgn|Hosikor]] runs up against the foot of a black mesa, there is a ring of twelve palms around a well. The tribe that owns it, the **Kwìyohes**, "the arrow people", call it **Qelodwàtri**, "the cold well", because the water drawn from it is cold at noon in high summer. It is a [[lore-ownedoasis|bedaq]], owned water: the tribe's reserve for a dry year, visited in its season and empty the rest of it. A horse skull on a pole faces the approach, the tribe's sign is cut high on the oldest palm, and a flat stone lies over the well-mouth.
+Two days north of the road, where the gravel of the [[place-hskrrgn|Khoshiqor]] runs up against the foot of a black mesa, there is a ring of twelve palms around a well. The tribe that owns it, the **Küüyöyür**, "the arrow people", call it **Kelödvootri**, "the cold well", because the water drawn from it is cold at noon in high summer. It is a [[lore-ownedoasis|bödek]], owned water: the tribe's reserve for a dry year, visited in its season and empty the rest of it. A horse skull on a pole faces the approach, the tribe's sign is cut high on the oldest palm, and a flat stone lies over the well-mouth.
 
-The Kwìyohes are a small tribe of the sand range. They graze far to the west for most of the year and send a water-warden and two riders to the well at the end of each dry season to clean the shaft, count the palms and see that no stranger has drawn.
+The Küüyöyür are a small tribe of the sand range. They graze far to the west for most of the year and send a water-warden and two riders to the well at the end of each dry season to clean the shaft, count the palms and see that no stranger has drawn.
 
 ## What Lies Beneath
 
@@ -20,11 +20,11 @@ The builders carved the walls of the passage and the face of the ledge. The carv
 
 ## What the Owners Say
 
-Asked about the stone on the well, the Kwìyohes say what every tribe says of a lidded well: a [[being-qelodud|qelodud]] lives in it. They have said so for longer than anyone in the tribe can remember. Their grandmothers poured the first draw of every season back into the shaft before they filled a skin, and called it letting the well drink first. The habit lapsed when the stone went on, since nobody draws from a lidded shaft but the warden.
+Asked about the stone on the well, the Küüyöyür say what every tribe says of a lidded well: a [[being-qelodud|kelödüd]] lives in it. They have said so for longer than anyone in the tribe can remember. Their grandmothers poured the first draw of every season back into the shaft before they filled a skin, and called it letting the well drink first. The habit lapsed when the stone went on, since nobody draws from a lidded shaft but the warden.
 
-The thing in the cistern is not a qelodud. A qelodud has no hands, does not come up into the open where the wind blows, and does not return what it takes. What lives under Qelodwàtri is a [[lore-dreadspawncrtr|dreadspawn]], and the tribe has a word for it that it does not use in front of strangers: **Bedaqud**, "the one who owns the water".
+The thing in the cistern is not a kelödüd. A kelödüd has no hands, does not come up into the open where the wind blows, and does not return what it takes. What lives under Kelödvootri is a [[lore-dreadspawncrtr|dreadspawn]], and the tribe has a word for it that it does not use in front of strangers: **Bödeküd**, "the one who owns the water".
 
-## The Bedaqud
+## The Bödeküd
 
 Nobody has seen the whole of it. What has been seen is arms: pale, wet, jointed in more places than an arm should be, and longer than three men laid end to end, ending in hands with long smooth fingers that leave prints with no lines in the palm. It hangs beneath the ledges with its arms spread over the pool and its body somewhere under the stone.
 
@@ -38,16 +38,16 @@ Its signs are these:
 
 It keeps what it takes. Prey is weighted under the water, or tied in the air pocket beneath its ledge, and a man taken by it may live for a day or two in the cold and the dark before he drowns. It hunts in the open only at night, by the overflow channel and the palm roots, and the dry wind of noon drives it deep. A sudden heat makes it go still, and a pool fouled with its blood is bitter for a season. It does not take from one who has poured water back into the pool before drawing, for as long as he stays at the pool, and why it keeps that courtesy is not known.
 
-Whether the builders dug down to something that was already there, or whether a maker set it in the spring to keep the water for them, nobody can say. The tribes of the Hosikor say they hold the wells of the road in trust until the owners return.
+Whether the builders dug down to something that was already there, or whether a maker set it in the spring to keep the water for them, nobody can say. The tribes of the Khoshiqor say they hold the wells of the road in trust until the owners return.
 
 ## Reaching It
 
-Qelodwàtri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the Long Dry, west of [[place-qisomrktcmp|Qìso]], can reach it by the stars if its guide knows the mesa, and a guide who knows it has usually heard why the Kwìyohes keep a stone on it.
+Kelödvootri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the Long Dry, west of [[place-qisomrktcmp|Qiiso]], can reach it by the stars if its guide knows the mesa, and a guide who knows it has usually heard why the Küüyöyür keep a stone on it.
 
 ## See Also
 
-- [[place-hskrrgn|Hosikor]]—the sand range
+- [[place-hskrrgn|Khoshiqor]]—the sand range
 - [[lore-ownedoasis|The Owned Oasis]]—the custom of owned water
-- [[being-qelodud|Qelodud]]—what the owners say is in the well
+- [[being-qelodud|Kelödüd]]—what the owners say is in the well
 - [[lore-dreadspawncrtr|Dreadspawn]]—what is in it
 - [[scenario-weightwell|The Weight upon the Well]]—a scenario set here

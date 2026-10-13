@@ -191,7 +191,7 @@ The camels feel it before you do. The whole string stops and the lead beast plan
 
 # Dossier {#dossier}
 
-The Sand Wurm is the great burrowing predator of the eastern waste: fifty to a hundred feet long, ten to fifteen feet thick, scaled in beige and tan, with a round mouth eight feet across ringed with teeth that point inward, and no eyes at all. It lives under the deep dunes at the eastern end of the sands and in the caverns of the stone desert of [[place-idwkrrgn|Idwakor]], swims through loose sand as a fish swims through water, and hunts by the tremor of feet on the surface above it. It takes wild camels, dune striders and gazelle, and whatever else walks over it. It swallows a man or a pony whole.
+The Sand Wurm is the great burrowing predator of the eastern waste: fifty to a hundred feet long, ten to fifteen feet thick, scaled in beige and tan, with a round mouth eight feet across ringed with teeth that point inward, and no eyes at all. It lives under the deep dunes at the eastern end of the sands and in the caverns of the stone desert of [[place-idwkrrgn|Idvaqor]], swims through loose sand as a fish swims through water, and hunts by the tremor of feet on the surface above it. It takes wild camels, dune striders and gazelle, and whatever else walks over it. It swallows a man or a pony whole.
 
 The tribes do not fight it. A sand wurm reported on a stretch of the road makes the caravans go round that stretch for a season, and the riders who sell passage there lose a season's income and say so to anyone who will listen.
 
@@ -201,7 +201,7 @@ A long, segmented, serpentine body as thick as a hut, covered in overlapping sca
 
 ## In the Land
 
-Sand wurms live in the deeper desert of the east: the high dunes that run up to the edge of the stone desert, where riders arriving at [[place-sowidwell|Sowid Well]] after dark wait for dawn rather than cross the last dunes blind, and the caverns of the hollow ridges of [[place-ruweq|Ruweq]], where one lairs in the lower galleries below the cut cisterns. A wurm holds a territory of many miles of sand and goes the length of it over a season; two wurms do not share ground, and a fight between them churns a stretch of desert into a new shape. They need deep, loose sand or soft rock to move through and are not found on the gravel reaches, on the salt or in the stone uplands of the west. The camel road crosses their country only at its eastern end, and the tribes that sell that stretch know where a wurm was last seen.
+Sand wurms live in the deeper desert of the east: the high dunes that run up to the edge of the stone desert, where riders arriving at [[place-sowidwell|Sovid Well]] after dark wait for dawn rather than cross the last dunes blind, and the caverns of the hollow ridges of [[place-ruweq|Uruvaq]], where one lairs in the lower galleries below the cut cisterns. A wurm holds a territory of many miles of sand and goes the length of it over a season; two wurms do not share ground, and a fight between them churns a stretch of desert into a new shape. They need deep, loose sand or soft rock to move through and are not found on the gravel reaches, on the salt or in the stone uplands of the west. The camel road crosses their country only at its eastern end, and the tribes that sell that stretch know where a wurm was last seen.
 
 ## Key Behaviors
 
@@ -209,7 +209,7 @@ A wurm lies still under the sand for days or weeks, its head a few feet below th
 
 ## What the Caravans Do
 
-A wurm reported is a stretch of road closed. The riders who hold the stage send the strings round by the stone or by another line of wells, which adds days and water, and the price of passage goes up for the season. A string that must cross wurm country does it in the cold hours, slowly, at a walk, with the camels' feet muffled in sacking and nobody running whatever happens, because a wurm hunts by the tremor and a running man is the loudest thing on the sand. A string that feels the trembling stops dead and waits. In Ruweq the party that goes into the lower caverns walks, and the guides say the one who runs is the one who is eaten. Nobody has killed a wurm on the open sand that anyone at the wells can name. A dead one, found after a fight with another wurm, is stripped for its scales by the tribe that owns the ground; one scale makes a shield, and the teeth are sold at [[place-qisomrktcmp|Qìso]] as daggers.
+A wurm reported is a stretch of road closed. The riders who hold the stage send the strings round by the stone or by another line of wells, which adds days and water, and the price of passage goes up for the season. A string that must cross wurm country does it in the cold hours, slowly, at a walk, with the camels' feet muffled in sacking and nobody running whatever happens, because a wurm hunts by the tremor and a running man is the loudest thing on the sand. A string that feels the trembling stops dead and waits. In Uruvaq the party that goes into the lower caverns walks, and the guides say the one who runs is the one who is eaten. Nobody has killed a wurm on the open sand that anyone at the wells can name. A dead one, found after a fight with another wurm, is stripped for its scales by the tribe that owns the ground; one scale makes a shield, and the teeth are sold at [[place-qisomrktcmp|Qiiso]] as daggers.
 
 ## Signs
 

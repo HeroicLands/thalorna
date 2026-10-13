@@ -475,7 +475,7 @@ The culmination of his journey will lead to a dramatic confrontation with the fo
 
 ### Companions
 
-- [[being-atenhershr|Atenheru Sahri]]
+- [[being-atenhershr|Atazkharu Sahri]]
 - [[being-legiretilmyz|Legiret Ilmy-Zâ]]
 - [[being-legezaqu|Legez Aqu]]
 

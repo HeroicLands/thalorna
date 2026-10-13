@@ -250,7 +250,7 @@ The trap-line runs along the frozen stream, and the third set is sprung, the bai
 
 # Dossier {#dossier}
 
-The Dire Wolverine is the big wolverine of the far north, three feet at the shoulder, a hundred and fifty pounds and more, found in the boreal forest and the high plateaus of the [[place-nrdlndsrgn|Nordlands]], the taiga and frozen coast of [[place-gwtkrrgn|Gwatekor]], and the northern spruce belt of [[place-vrystwald|Vrystwald]]. It is a solitary animal that holds twenty or thirty square miles of cold country, eats anything it can kill or find dead, and will not be driven off what it has claimed by a bear, a wolf pack or a man with a spear. Trappers hate it more than any other animal in the forest, because it follows a trap-line and eats the catch.
+The Dire Wolverine is the big wolverine of the far north, three feet at the shoulder, a hundred and fifty pounds and more, found in the boreal forest and the high plateaus of the [[place-nrdlndsrgn|Nordlands]], the taiga and frozen coast of [[place-gwtkrrgn|Ghotaqor]], and the northern spruce belt of [[place-vrystwald|Vrystwald]]. It is a solitary animal that holds twenty or thirty square miles of cold country, eats anything it can kill or find dead, and will not be driven off what it has claimed by a bear, a wolf pack or a man with a spear. Trappers hate it more than any other animal in the forest, because it follows a trap-line and eats the catch.
 
 It kills men seldom and only when crossed, and the people who cross it are the trappers and hunters who live by the forest and meet it every winter.
 
@@ -260,7 +260,7 @@ A low, broad, heavy mustelid, wider than it is tall, on short thick legs set wid
 
 ## In the Land
 
-Dire Wolverines range the spruce and pine forests south and east of the fjords, the caribou plateaus behind them where the reclusive clans live, and the bog and taiga of Gwatekor to the east, and they are met in the northern taiga of Vrystwald where the trapper clans run their lines. They are commonest where the caribou winter and where wolves make kills to steal. A wolverine's range is a circuit it walks over a week or two, and it caches what it cannot eat under snow or rock and comes back for it.
+Dire Wolverines range the spruce and pine forests south and east of the fjords, the caribou plateaus behind them where the reclusive clans live, and the bog and taiga of Ghotaqor to the east, and they are met in the northern taiga of Vrystwald where the trapper clans run their lines. They are commonest where the caribou winter and where wolves make kills to steal. A wolverine's range is a circuit it walks over a week or two, and it caches what it cannot eat under snow or rock and comes back for it.
 
 ## Key Behaviors
 

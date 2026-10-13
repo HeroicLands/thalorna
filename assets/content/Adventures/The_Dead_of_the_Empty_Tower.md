@@ -35,13 +35,13 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 **Purpose.** Establish the wrongness of the place and force the party to decide how they will approach.
 
-**Situation.** The track from Ashkarad ends at the foot of the bench. The tower stands on it with the vultures in a row along its parapet. They do not move at the party's approach, and none of them takes to the air. A guide, **Wogelyemok** of the Sowides, a lean man in a rider's wrappings who has walked this road a hundred times, will take the party this far and no nearer. He will tell them what he knows and sit at the marker-stone with the animals.
+**Situation.** The track from Ashkarad ends at the foot of the bench. The tower stands on it with the vultures in a row along its parapet. They do not move at the party's approach, and none of them takes to the air. A guide, **Voghalyemök** of the Sovidur, a lean man in a rider's wrappings who has walked this road a hundred times, will take the party this far and no nearer. He will tell them what he knows and sit at the marker-stone with the animals.
 
 **NPCs and threats.** The vultures are the first threat. They do not hunt, but if the party climbs they turn their heads in unison and rise as one, a cloud of black wings that is not an attack and is nonetheless blinding. The stair has a **doorward**, a dead man in an Expositor's robe who sits on the seventh step with a clay fire-pot between his knees. He is not hostile. He asks for the first line of the Prayer of Passage in the old hand and will not stand aside for a wrong answer.
 
-**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Dēlkoshekh's robe and recite the prayer; the doorward recognises the form. Parley: sit with Wogelyemok and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
+**Player choices.** Force: drive the vultures off with slings and fire and fight the doorward; it is slow and silent and does not die easily. Stealth: climb by night from the east side, where the wall has handholds. Guile: bring a Dēlkoshekh's robe and recite the prayer; the doorward recognises the form. Parley: sit with Voghalyemök and learn what he can offer, which is the track on the east side and the information that the tower empties when the moon is dark.
 
-**Clues and rewards.** The first line of the prayer: _Ázráván, Lord of Horizons, accept this servant into your keeping_. Wogelyemok knows it from a priest he guided. The doorward carries a ring of keys and a seal of office, which is Yumelul's own.
+**Clues and rewards.** The first line of the prayer: _Ázráván, Lord of Horizons, accept this servant into your keeping_. Voghalyemök knows it from a priest he guided. The doorward carries a ring of keys and a seal of office, which is Yumelul's own.
 
 **Consequences.** The vultures mark the party. If the doorward is attacked, the platform notices; the dead turn their heads on the stone.
 
@@ -119,7 +119,7 @@ Hidden in the walls of the tower are the original shaft-deeds of Ashkarad's wate
 
 ## See Also
 
-- [[place-talbemsirvel|Talbemsirvel]]—the tower and what lies on it
+- [[place-talbemsirvel|Tashbemsirvesh]]—the tower and what lies on it
 - [[place-ashkarad|Ashkarad]]—the city it serves and the water it holds
 - [[affiliation-azravan|Faith of Ázráván]]—the rite the Expositor broke
 - [[lore-theshadow|The Shadow]]—what comes through a binding

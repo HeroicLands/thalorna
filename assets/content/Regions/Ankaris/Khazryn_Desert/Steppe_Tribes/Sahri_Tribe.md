@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dowek chosen by the elders from a handful of lineages, a small moot, and rangers who patrol the tribe's hidden waters.
+      A dovaq chosen by the elders from a handful of lineages, a small moot, and rangers who patrol the tribe's hidden waters.
     ranks:
       - level: 0
         title: Kinless
@@ -35,11 +35,11 @@ data:
         title: Elder
         description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 5
-        title: Dowek
+        title: Dovaq
         description: >-
           Chief of the tribe, chosen by the elders from the strongest line and holding the office while the herds are fat and the wells held.
     offices:
-      Dowek: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
+      Dovaq: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
       Elder: Senior of a lineage, seated at the moot, whose recollection of custom settles what the young dispute.
       Shaman: Keeper of the storm rites, the weather-reading and the laying-out ground.
       War Captain: Leader of the warband, held by whoever the riders will follow.
@@ -58,15 +58,15 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Sahri** are a small [[lore-sowidesclt|Sowides]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Ruweles]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Sahri camp has been led to it.
+The **Sahri** are a small [[lore-sowidesclt|Sovidur]] tribe of the remote reaches of the [[place-khzryndsrtrgn|Khazryn]], counted among the [[affiliation-rwlstrb|Uruvolur]] because they keep waters nobody else knows. Their country lies far from the road and near nothing, and a rider who finds a Sahri camp has been led to it.
 
 ## Rangers and the Jackal
 
-The Sahri are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is Atenheru, called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Sahri hold the Jackal Spirit to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
+The Sahri are known for their rangers, who patrol the tribe's waters on foot and on camel and read the desert as a hunter reads a forest. The best known is Atazkharu, called the Silent Jackal, a tracker who found a wanderer deep in the sand after the first of his visions and carried him to a hidden oasis. The Sahri hold the Jackal Spirit to be the protector of wanderers, and a ranger who finds a lost traveler acts for the spirit.
 
 ## Prophecy
 
-The Sahri keep prophecies of their own, handed down in song and tied to the movements of the stars. A stranger who brings them a vision of the sky is heard with attention, and a vision that matches their lore is treated as a summons. The dowek weighs such a summons against the tribe's safety, and more than once the Sahri have put a ranger in the visionary's service.
+The Sahri keep prophecies of their own, handed down in song and tied to the movements of the stars. A stranger who brings them a vision of the sky is heard with attention, and a vision that matches their lore is treated as a summons. The dovaq weighs such a summons against the tribe's safety, and more than once the Sahri have put a ranger in the visionary's service.
 
 ## Strangers
 
@@ -74,6 +74,6 @@ A stranger who reaches a Sahri water without the tribe's leave is held and quest
 
 ## See Also
 
-- [[lore-sowidesclt|Sowides]]—the steppe tribes and what they hold a person owes
-- [[affiliation-rwlstrb|Ruweles]]—the hidden-water bands to which the Sahri belong
+- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
+- [[affiliation-rwlstrb|Uruvolur]]—the hidden-water bands to which the Sahri belong
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe keeps

@@ -103,21 +103,21 @@ A Tellumi household keeps records the way other households keep silver: genealog
 
 The Tellumi answer to what is good is the faith's own, given a Tellumi edge. Āsha, truth and order, is kept by good thoughts, good words and good deeds, and the Tellumi add the clay: **good is what has been done and written and can be read back; evil is the lie, and the name that is never read.** The Druj the faith warns against is falsehood and disorder, and a Tellumi finds it in the unrecorded debt, the water taken out of turn, the guest (_neyin_) sent away and the dead (_nilvur_) left unnamed. The Song of the Lost Town gives the clearest instance. A prince who counted gold and not water turned a stranger from his gate in a dry year, and the tellers hold that the springs failed because the city was judged.
 
-Success is a house that can prove itself. The marks run in order: a name on a house's tablets and on a water-deed, a field or a craft the family has held for generations, a child admitted to the Shēkhulūkhem, and an exile court that recites every ancestor back to the founding of its line. Failure is lapse. A genealogy that is let go, a child who cannot name the city the family came out of, a house whose peak is lost and with it its claim, and a debt (_dulmen_) nobody pressed in clay are the things a Tellumi means by having lost. Poverty is not on the list. A quarter that keeps its tablets is a people still standing.
+Success is a house that can prove itself. The marks run in order: a name on a house's tablets and on a water-deed, a field or a craft the family has held for generations, a child admitted to the Shēkhulūkhem, and an exile court that recites every ancestor back to the founding of its line. Failure is lapse. A genealogy that is let go, a child who cannot name the city the family came out of, a house whose peak is lost and with it its claim, and a debt (_dushmen_) nobody pressed in clay are the things a Tellumi means by having lost. Poverty is not on the list. A quarter that keeps its tablets is a people still standing.
 
 A Tellumi values the record, the exact word, the guest in need, the patient case and the water kept in turn. A Tellumi values least the gold counted above the water, the claim nobody can read back, and revenge for its own sake: the people insist that what they seek is return, and that a feud is a different thing.
 
 ## The Man Admired
 
-**Bernirul**, the champion of the house of the rim, is the Tellumi picture of a man who keeps his oath. His name is built on _bernir_, oath, and so was the thing he swore: _I am the gate of the house of the rim. I stand when the water flees. I go where the house sends me. I come when the house calls._ The prince sent him seven years to the salt and the Descent with the seal, to make the house's debts plain in silver, and he came back with his beard gray. A budeq settled on the lead camel three days from the rim and would not be driven, and he read the bird as he would a tablet: _leave the silver with the string_. He rode ahead with three men, reached a dying town and went from house to house until dawn with the words of the house, _wake and walk, or stay and be sand_. He served the house at Kethramír afterward and stood a gate for thirty years.
+**Berniray**, the champion of the house of the rim, is the Tellumi picture of a man who keeps his oath. His name is built on _bernir_, oath, and so was the thing he swore: _I am the gate of the house of the rim. I stand when the water flees. I go where the house sends me. I come when the house calls._ The prince sent him seven years to the salt and the Descent with the seal, to make the house's debts plain in silver, and he came back with his beard gray. A budaq settled on the lead camel three days from the rim and would not be driven, and he read the bird as he would a tablet: _leave the silver with the string_. He rode ahead with three men, reached a dying town and went from house to house until dawn with the words of the house, _wake and walk, or stay and be sand_. He served the house at Kethramír afterward and stood a gate for thirty years.
 
 His cost is the song's reason for being. At the gate that night his own son, keeping the same oath on the prince's word, would not open to him. They fought in the dark with the same strokes, and the father killed the boy, and read the name on the shield-rim by touch. He never spoke of it, and the Dēlkoshekh who read his name at his death read the boy's too, from the household clay. What the song keeps of him is the ride back, the waking of the town and the thirty years at a gate, and not the stroke.
 
 ## The Woman Admired
 
-**Minele**, his wife, kept the household's clay: the names, the water-hours, the debts, the children born each spring, the tablets in their palm-fiber on the shelf beside the door and baked hard against the day that comes to every house. She named the child Return, so that every time she called him in she called her husband home. When the town was dying she came out of the court past the shield with the household clay in two baskets on a pole, and the keepers of the record stayed in their cellar and would not leave.
+**Minesha**, his wife, kept the household's clay: the names, the water-hours, the debts, the children born each spring, the tablets in their palm-fiber on the shelf beside the door and baked hard against the day that comes to every house. She named the child Return, so that every time she called him in she called her husband home. When the town was dying she came out of the court past the shield with the household clay in two baskets on a pole, and the keepers of the record stayed in their cellar and would not leave.
 
-A Dēlkoshekh read Bernirul's name at his death from the clay she saved, and the same reed pressed the names of the dead he owed. Hers is not a lesser form of his. He keeps the oath that holds a house together, and she keeps the record that makes it a house. The song's last turn is on her side of it: the keepers who would not leave are unread, because the tablets that hold their names are the tablets they kept.
+A Dēlkoshekh read Berniray's name at his death from the clay she saved, and the same reed pressed the names of the dead he owed. Hers is not a lesser form of his. He keeps the oath that holds a house together, and she keeps the record that makes it a house. The song's last turn is on her side of it: the keepers who would not leave are unread, because the tablets that hold their names are the tablets they kept.
 
 The living Tellumi have a second woman of the same kind. **Yázdín of Kethramír**, a Dēlkoshekh and the head of the exile house of Kethramír, is the most rigorous of the exile theologians and the author of the formal refutation of the Ātárzád Promise, _On the Ungrantable Land_. It is required reading in Tellumi religious education, and a copy moves through Kethramír in every caravan from the west, hidden in a bale of cloth.
 
@@ -183,7 +183,7 @@ Literacy is expected of anyone above a laborer, and a Tellumi's handwriting is a
 
 ## What the Houses Keep
 
-A Tellumi can point to a handful of things that hold a people together without a state. **The house tablets** are each household's genealogy, deeds, water-rights and temple registers, and they are the one thing the Breaking could not burn by force, because clay does not burn well. **The roll of the seven peaks**, a _semhal_ or recitation, names the peak each house roots its genealogy in. **The Recitation of the Breaking** is a case in the form of a case, each claim followed by the tablet that proves it. **The Council's codes** are the legal rules by which Tellumi communities inside the held cities govern their own affairs. **The water-deeds** give a household particular hours in a named channel, and the ledgers of them are the most valuable documents in Shirvan. **The Calendar** of twelve thirty-day months and a five-day festival is the Shēkhulūkhem's.
+A Tellumi can point to a handful of things that hold a people together without a state. **The house tablets** are each household's genealogy, deeds, water-rights and temple registers, and they are the one thing the Breaking could not burn by force, because clay does not burn well. **The roll of the seven peaks**, a _tsemhat_ or recitation, names the peak each house roots its genealogy in. **The Recitation of the Breaking** is a case in the form of a case, each claim followed by the tablet that proves it. **The Council's codes** are the legal rules by which Tellumi communities inside the held cities govern their own affairs. **The water-deeds** give a household particular hours in a named channel, and the ledgers of them are the most valuable documents in Shirvan. **The Calendar** of twelve thirty-day months and a five-day festival is the Shēkhulūkhem's.
 
 The heir-in-exile of Shirvan keeps a case of her own. **Mōrá-Shirván**, a scholar and theologian of about forty, has spent her life assembling the legal and historical record for the recovery of her city, and it fills a small library and is updated continuously. And there is **the shrine at every water**, the nearest thing the people have to a standard kept in a temple.
 
@@ -199,11 +199,11 @@ Hospitality remains close to absolute, and the Tellumi are bitterly aware of the
 
 A Tellumi child is presented at the shrine of Zúráthrä within forty days of birth, and says the seven cities in order before it says its own name. At seven the faith's Ceremony of Acknowledgment stands the child before a death-fire to say, _I do not fear you_, so that the years between are lived without dread. The child learns its letters and the household's tablets, and then a craft or the Shēkhulūkhem. Marriage is arranged between households and, where it can be, within the tradition. An adult keeps the tablet, takes a turn at the channels and pays the tithe and the assessed taxes. The old are the reciters and the teachers. The dying are the Dēlkoshekh's, to be read.
 
-The unit is the household, _ninel_, and beyond it the house, which is the court that kept its records and the claim to be read there. A person belongs to a household by its tablets, to a house by the court that kept them, and to the Tellumi by the tablets held anywhere.
+The unit is the household, _ninesh_, and beyond it the house, which is the court that kept its records and the claim to be read there. A person belongs to a household by its tablets, to a house by the court that kept them, and to the Tellumi by the tablets held anywhere.
 
 ## Where the Names Are Read
 
-The Tellumi add the reading to the Āsháian teaching about the Chinvat Bridge. A Tellumi dead is received by a Dēlkoshekh, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. The ground where the names were never read is a _henhulpedin_, a blood-field, and a thin one is a _sirvelpedin_, a cursed field.
+The Tellumi add the reading to the Āsháian teaching about the Chinvat Bridge. A Tellumi dead is received by a Dēlkoshekh, who reads the name from the house's tablet while the household lights its lamps, and until the name is read the dead are not counted among the received. The ground where the names were never read is a _henhutpedin_, a blood-field, and a thin one is a _sirveshpedin_, a cursed field.
 
 The Tellumi neither bury nor burn their dead. A body is carried to a Tower of Silence and exposed on its stone platform to the sky, as the [[affiliation-azravan|Faith of Ázráván]] prescribes; where no tower stands, it is laid out in the desert for the same exposure. The reading of the name accompanies either.
 
@@ -213,9 +213,9 @@ The dread that corresponds to all of this is the field outside Zargandûr's nort
 
 ## Reaching the Dead
 
-The living reach the dead through the reading of the name (_yumel_), and the reader's price is the tithe and, in Zargandûr, his life. The Festival of the Departed lights the Death-Flame in the fire-temples and the families speak their dead aloud. The Recitation of the Breaking names seven riders of the war-house as the house's tablet names them and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. A laying-out performed late for the dead of a field, with every name spoken to the winds, quiets a blood-ground for as long as the winds carry the names. The Tellumi reading is the same rite as the steppe's laying-out in a Dēlkoshekh's voice, and it needs the names; a field of strangers has none to give.
+The living reach the dead through the reading of the name (_yumesh_), and the reader's price is the tithe and, in Zargandûr, his life. The Festival of the Departed lights the Death-Flame in the fire-temples and the families speak their dead aloud. The Recitation of the Breaking names seven riders of the war-house as the house's tablet names them and leaves the princes to the tablet, because the recitation may not read a prince's name in a city where reading it is forbidden. A laying-out performed late for the dead of a field, with every name spoken to the winds, quiets a blood-ground for as long as the winds carry the names. The Tellumi reading is the same rite as the steppe's laying-out in a Dēlkoshekh's voice, and it needs the names; a field of strangers has none to give.
 
-The dead reach the living through the record. They cannot petition and are not asked. The keepers of the record of Velkun, who would not leave their cellar, are the Tellumi funeral formula: _as the keepers of the rim_. The people of the revived House of Vahúrdash walk over the cellars where the keepers lie unread, and the song's last turn is that the house that comes back reads the names first.
+The dead reach the living through the record. They cannot petition and are not asked. The keepers of the record of Veshkun, who would not leave their cellar, are the Tellumi funeral formula: _as the keepers of the rim_. The people of the revived House of Vahúrdash walk over the cellars where the keepers lie unread, and the song's last turn is that the house that comes back reads the names first.
 
 ## What the Record Earns and What Lapse Costs
 
@@ -264,7 +264,7 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 - [[lore-velkunsong|The Song of the Lost Town]]—the cloth-tellers' epic of old Vahúrdash
 - [[affiliation-azravan|Faith of Ázráván]]—the Festival of the Departed and the Prayer of Passage
 - [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the weekly observance and the Dēlkoshekhs who keep the calendar
-- [[place-henhulpedin|Henhulpedin]]—the field outside Zargandûr where the names were never read
+- [[place-henhulpedin|Henhutpedin]]—the field outside Zargandûr where the names were never read
 - [[lore-roadnights|The Nights of the Road]]—a caravan-master's tales of the crossing to Tānvür
 
 ## Glossary {#glossary}
@@ -276,9 +276,9 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 | balem                 | Exile; a princely house that keeps its court abroad while it claims its city                                                |
 | bernir                | Oath                                                                                                                        |
 | Druj                  | The force of disorder and the lie that presses against Āsha                                                                 |
-| dulmen                | Debt                                                                                                                        |
+| dushmen               | Debt                                                                                                                        |
 | gaben                 | Day; in _lirun gaben_, "a free day", a greeting                                                                             |
-| henhulpedin           | A blood-field: ground where the names of the dead were never read                                                           |
+| henhutpedin           | A blood-field: ground where the names of the dead were never read                                                           |
 | Dēlkoshekh            | Priest and judge, ordained after fifteen to twenty years' study, who keeps a fire-temple, a community's law and its records |
 | High Shēkhulsīghot    | Senior priest of Āhúrdáén at the Great Fire-Temple in Amradad, convenor of the Council of the Princes                       |
 | Keeper of the Tablets | The officer of the court of Ushtra-bēr who reads each petition aloud and records each decision in clay                      |
@@ -288,12 +288,12 @@ The sin the Tellumi tell against themselves is the lost town. A prince who count
 | nartem                | Law and custom, as a community's Dēlkoshekh keeps them                                                                      |
 | neyin                 | A guest, owed food and shelter without question in time of need                                                             |
 | nilvur                | The dead                                                                                                                    |
-| ninel                 | A household, which keeps its own tablets                                                                                    |
+| ninesh                | A household, which keeps its own tablets                                                                                    |
 | relvan                | A prince, the hereditary head of one of the seven houses                                                                    |
-| semhal                | Recitation                                                                                                                  |
+| tsemhat               | Recitation                                                                                                                  |
 | revun                 | The return: the recovery of the lost cities that the exile houses work for                                                  |
-| sirvelpedin           | A cursed field: a thin blood-field                                                                                          |
-| tenyul                | A clay tablet; a household's or a house's written record                                                                    |
-| yumel                 | Name                                                                                                                        |
+| sirveshpedin          | A cursed field: a thin blood-field                                                                                          |
+| tenyut                | A clay tablet; a household's or a house's written record                                                                    |
+| yumesh                | Name                                                                                                                        |
 
-Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]]. Dowek is a loanword from [[lore-sowidesclt#glossary|the Sowides]].
+Argo is a loanword from [[lore-vylarianclt#glossary|Vylaria]], and gezan from [[lore-khelathiclt#glossary|Aû'Khelâthu]]. Dovaq is a loanword from [[lore-sowidesclt#glossary|the Sovidur]].

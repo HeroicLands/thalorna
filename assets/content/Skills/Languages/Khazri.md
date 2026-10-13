@@ -21,18 +21,18 @@ Tellumi is the tongue of the [[lore-khazrynclt|Tellumi]], the old oasis people w
 
 ## Sounds
 
-Tellumi is soft and unhurried. Every syllable opens on a single consonant, only the four sonorants _l_, _m_, _n_ and _r_ close one, and those four double where two parts of a word meet, so the doubled _ll_ of _Tellumi_ is the tongue's signature sound. There is no _o_, no rasp of _kh_ or _sh_, and no _z_, and those are the sounds Tellumi speakers find hardest in [[skill-atarzadilng|Ātárzādi]], the tongue of the people who took four of their cities.
+Tellumi is soft and unhurried, with a hush in it. Every syllable opens on a single consonant, and it closes on a sonorant or on a quick stop or hiss, so words end in _-l_, _-m_, _-n_, _-r_, _-t_, _-d_, _-k_, _-s_ or _-sh_. Where two parts of a word meet, the consonant that opens the second doubles, so the doubled _ll_ of _Tellumi_ is the tongue's signature sound. There is no _o_, no _kh_, _gh_ or _zh_, and no _z_, and those are the sounds Tellumi speakers find hardest in [[skill-atarzadilng|Ātárzādi]], the tongue of the people who took four of their cities.
 
 ### Consonants
 
-| Letter      | Sound                                                          |
-| ----------- | -------------------------------------------------------------- |
-| `p` `t` `k` | as in "pin", "tin", "kin", lightly breathed                    |
-| `b` `d` `g` | as in "bin", "din", "gift"; `g` is always hard                 |
-| `m` `n`     | as in "man", "not"                                             |
-| `l` `r`     | `l` is clear, as in "leaf"; `r` is a single tap of the tongue  |
-| `s` `h`     | `s` is always as in "sun", never as in "rose"; `h` as in "hat" |
-| `v` `y`     | as in "vine" and "yes"                                         |
+| Letter            | Sound                                                                                                        |
+| ----------------- | ------------------------------------------------------------------------------------------------------------ |
+| `p` `t` `k`       | as in "pin", "tin", "kin", lightly breathed                                                                  |
+| `b` `d` `g`       | as in "bin", "din", "gift"; `g` is always hard                                                               |
+| `m` `n`           | as in "man", "not"                                                                                           |
+| `l` `r`           | `l` is clear, as in "leaf"; `r` is a single tap of the tongue                                                |
+| `s` `sh` `ts` `h` | `s` is always as in "sun", never as in "rose"; `sh` as in "ship"; `ts` as the end of "cats"; `h` as in "hat" |
+| `v` `y`           | as in "vine" and "yes"                                                                                       |
 
 ### Vowels
 
@@ -47,20 +47,20 @@ Tellumi writes no marks. A vowel is always pronounced the same way, so a word ca
 
 ### Syllables
 
-| Rule          | Forms               |
-| ------------- | ------------------- |
-| Onsets        | a single consonant  |
-| Codas         | `l` `m` `n` `r`     |
-| Finals        | `l` `m` `n` `r`     |
-| Doubled       | `ll` `mm` `nn` `rr` |
-| Vowel pairs   | never               |
-| Initial vowel | no                  |
+| Rule          | Forms                                                       |
+| ------------- | ----------------------------------------------------------- |
+| Onsets        | a single consonant                                          |
+| Codas         | `l` `m` `n` `r` `t` `d` `k` `s` `sh`                        |
+| Finals        | `l` `m` `n` `r` `t` `d` `k` `s` `sh` `y`                    |
+| Doubled       | `bb` `dd` `gg` `kk` `ll` `mm` `nn` `pp` `rr` `ss` `tt` `vv` |
+| Vowel pairs   | never                                                       |
+| Initial vowel | no                                                          |
 
-A syllable is a consonant and a vowel, or a consonant, a vowel and one of the four sonorants. So a word never begins with a vowel, never sets two vowels side by side, and ends either on a vowel or on _l_, _m_, _n_ or _r_. Two consonants meet only across a syllable break, and the first of them is always a sonorant: _velkun_ "lost" and _talbem_ "tower" are sound, and a word with _pt_ or _sk_ in it is not Tellumi.
+A syllable is a consonant and a vowel, or a consonant, a vowel and one closing consonant. So a word never begins with a vowel, never sets two vowels side by side, and ends either on a vowel or on one of the closings above. Two consonants meet only across a syllable break: _veshkun_ "lost" and _tashbem_ "tower" are sound.
 
 ### Stress
 
-Stress falls on the syllable that a doubled sonorant opens: te-**LLU**-mi, ten-**NE**-li-mar. A word with no doubled sonorant is stressed on its first syllable: **NE**-lim, **TAL**-bem.
+Stress falls on the syllable that a doubled consonant opens: te-**LLU**-mi, ten-**NE**-li-mash. A word with no doubled consonant is stressed on its first syllable: **NE**-lim, **TASH**-bem.
 
 ## Building words
 
@@ -68,17 +68,17 @@ Every Tellumi word is a stem, two or more stems set together, or a stem with a s
 
 ### Joins
 
-| Meeting | Rule     | Letters         | Where         |
-| ------- | -------- | --------------- | ------------- |
-| `V+V`   | `drop`   |                 | anywhere      |
-| `V+C`   | `double` | `l` `m` `n` `r` | between stems |
+| Meeting | Rule     | Letters                                         | Where         |
+| ------- | -------- | ----------------------------------------------- | ------------- |
+| `V+V`   | `drop`   |                                                 | anywhere      |
+| `V+C`   | `double` | `p` `t` `k` `b` `d` `g` `m` `n` `l` `r` `s` `v` | between stems |
 
 Two rules work where two parts of a word meet:
 
-- **A stem ending in a vowel doubles the sonorant that opens the next stem.** _te_ "high" and _lu_ "spring" make _tellu_; _te_ and _nelim_ "water" make _tennelim_ "high water". A suffix is not a stem, so _tellu_ and _-mi_ make _Tellumi_ with a single _m_.
+- **A stem ending in a vowel doubles the single consonant that opens the next stem.** _te_ "high" and _lu_ "spring" make _tellu_; _te_ and _nelim_ "water" make _tennelim_ "high water". _sh_, _ts_, _h_ and _y_ do not double. A suffix is not a stem, so _tellu_ and _-mi_ make _Tellumi_ with a single _m_.
 - **A vowel before a vowel drops.** The suffix _-el_ on _Tellumi_ makes _Tellumel_, the land of the Tellumi, with the _i_ gone.
 
-Every other meeting leaves both parts as they are: _velkun_ and _-ar_ make _velkunar_.
+Every other meeting leaves both parts as they are: _veshkun_ and _-ash_ make _veshkunash_.
 
 ### Suffixes
 
@@ -86,25 +86,25 @@ Every other meeting leaves both parts as they are: _velkun_ and _-ar_ make _velk
 | ------ | -------------------- |
 | `-mi`  | a people             |
 | `-el`  | a land or country    |
-| `-ar`  | a city or town       |
+| `-ash` | a city or town       |
 | `-un`  | a house or line      |
-| `-ul`  | a man's given name   |
-| `-e`   | a woman's given name |
+| `-ay`  | a man's given name   |
+| `-a`   | a woman's given name |
 
 ### Names
 
 A Tellumi name is built in the same few moves as any other word, and it can be read back the same way:
 
-| Name       | Built from                  | Meaning                        |
-| ---------- | --------------------------- | ------------------------------ |
-| Tellumi    | _te_ + _lu_ + _-mi_         | the people of the high springs |
-| Tellumel   | _te_ + _lu_ + _-mi_ + _-el_ | the land of the Tellumi        |
-| Tennelimar | _te_ + _nelim_ + _-ar_      | high-water town                |
-| Talbemun   | _talbem_ + _-un_            | the house of the tower         |
-| Vurinul    | _vurin_ + _-ul_             | a man's name: holy             |
-| Lisene     | _lisen_ + _-e_              | a woman's name: moon           |
+| Name        | Built from                  | Meaning                        |
+| ----------- | --------------------------- | ------------------------------ |
+| Tellumi     | _te_ + _lu_ + _-mi_         | the people of the high springs |
+| Tellumel    | _te_ + _lu_ + _-mi_ + _-el_ | the land of the Tellumi        |
+| Tennelimash | _te_ + _nelim_ + _-ash_     | high-water town                |
+| Tashbemun   | _tashbem_ + _-un_           | the house of the tower         |
+| Vurinay     | _vurin_ + _-ay_             | a man's name: holy             |
+| Lisena      | _lisen_ + _-a_              | a woman's name: moon           |
 
-**Places** take _-ar_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ul_ for a man and _-e_ for a woman, after one stem; a second stem in front of it is a mark of an old house.
+**Places** take _-ash_ for a city or town and _-el_ for a land, after one or two stems that say what the place has: its water, its height, its tower. **Houses** take _-un_ after the stem of a founder's name or the house's emblem. **Given names** take _-ay_ for a man and _-a_ for a woman, after one stem; a second stem in front of it is a mark of an old house.
 
 ## Writing
 

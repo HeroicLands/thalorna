@@ -1,6 +1,6 @@
 ---
 shortcode: budeq
-name: {full: Budeq, aliases: [The Road-Vulture]}
+name: {full: Budaq, aliases: [The Road-Vulture]}
 type: being
 subType: creature
 description: "A carrion bird of nine-foot wingspan that follows a caravan for days and settles on the weakest beast, giving the strings their omens."
@@ -246,9 +246,9 @@ On the third morning out of the last well there is a bird over the string. It is
 
 # Dossier {#dossier}
 
-The Budeq is a large carrion bird of the open road, and the one creature of the waste that follows a caravan as a matter of course. It rides the thermals above a string for days at a time, drops to the ground when the string halts and goes up again when it moves, and watches for the animal or the person that will fall behind. The tribes of the sands know it by its own name, which is also the word for the bird, and every string has a name for the particular one that follows it.
+The Budaq is a large carrion bird of the open road, and the one creature of the waste that follows a caravan as a matter of course. It rides the thermals above a string for days at a time, drops to the ground when the string halts and goes up again when it moves, and watches for the animal or the person that will fall behind. The tribes of the sands know it by its own name, which is also the word for the bird, and every string has a name for the particular one that follows it.
 
-It is not a hunter of the living in the way a camel spider is. It is something worse for a caravan master to look at: it is accurate. A Budeq settles on the weakest beast in a string, and in most strings the weakest beast dies.
+It is not a hunter of the living in the way a camel spider is. It is something worse for a caravan master to look at: it is accurate. A Budaq settles on the weakest beast in a string, and in most strings the weakest beast dies.
 
 ## Presentation
 
@@ -258,21 +258,21 @@ On the ground it is clumsy, running a few steps with wings half open before it c
 
 ## In the Land
 
-The Budeq ranges the whole length of the road, from the grass of the Welqator to the passes of the Idwakor, and follows strings rather than any one stretch of ground. It nests on cliffs, in the tops of dead light-towers and on the ledges of stone uplands, and a pair raises one chick a year. Between nesting seasons the birds roam in loose parties of a dozen, and each party works a stretch of road a hundred miles long, handing a string over to the next party at the boundary as if by arrangement. The Dikraqor and the Hosikor have the greatest numbers, since the stone and the sand are the hard stretches where beasts fall.
+The Budaq ranges the whole length of the road, from the grass of the Völketör to the passes of the Idvaqor, and follows strings rather than any one stretch of ground. It nests on cliffs, in the tops of dead light-towers and on the ledges of stone uplands, and a pair raises one chick a year. Between nesting seasons the birds roam in loose parties of a dozen, and each party works a stretch of road a hundred miles long, handing a string over to the next party at the boundary as if by arrangement. The Diqraqor and the Khoshiqor have the greatest numbers, since the stone and the sand are the hard stretches where beasts fall.
 
-It feeds on carcasses, and a road lined with the dead feeds it well. A caravan is a moving feast, and a Budeq that has picked a string stays with it for as long as the string loses animals.
+It feeds on carcasses, and a road lined with the dead feeds it well. A caravan is a moving feast, and a Budaq that has picked a string stays with it for as long as the string loses animals.
 
 ## Key Behaviors
 
-A Budeq picks its animal on the first or second day and does not change. It chooses by gait, by the set of the head, by a sore or a limp or a slow gait it reads from a thousand feet up, and its choice is right so often that the caravan masters keep a watch on the bird to learn which beast it has picked. The bird will not touch a healthy animal. It settles at a distance, waits, and moves in when the animal lies down, and a camel that lies down in the middle of a stage is dead to the Budeq the moment it does.
+A Budaq picks its animal on the first or second day and does not change. It chooses by gait, by the set of the head, by a sore or a limp or a slow gait it reads from a thousand feet up, and its choice is right so often that the caravan masters keep a watch on the bird to learn which beast it has picked. The bird will not touch a healthy animal. It settles at a distance, waits, and moves in when the animal lies down, and a camel that lies down in the middle of a stage is dead to the Budaq the moment it does.
 
 It is bolder with the dying. It has been known to take the eyes of a camel that has not yet stopped breathing, and a sleeping or wounded person is a carcass in waiting. Several together will mob a lone walker who has fallen behind, beating with their wings and stabbing at the face and hands until he stops moving, and it is the drovers' fear of this that has put the birds in so many omens.
 
 ## What the Tribes Do
 
-Every string keeps its omens, and most of them are about the Budeq. One bird in the air on the first day is the usual weather. Two is a hard stage. A bird that settles on a person's pole or tent-peg is a death in the party, and the party strikes the tent before dawn. A bird that does not settle at all, in twelve days, and wheels without pause over the whole string is the worst of the signs, and caravan masters talk about it in a low voice and pay for a guide to take the string off the road.
+Every string keeps its omens, and most of them are about the Budaq. One bird in the air on the first day is the usual weather. Two is a hard stage. A bird that settles on a person's pole or tent-peg is a death in the party, and the party strikes the tent before dawn. A bird that does not settle at all, in twelve days, and wheels without pause over the whole string is the worst of the signs, and caravan masters talk about it in a low voice and pay for a guide to take the string off the road.
 
-The riders of the Sowides do not kill a Budeq, and they leave offal at the edge of the track for the birds that follow them, so that the birds' attention is on the track rather than on the string. A tribe that has lost a rider on the road finds the body by following the bird. Raiders also read the birds: the Shirzâri and others who live by the raid look to the sky for a string that is dropping animals, and hit the string on the ninth day.
+The riders of the Sovidur do not kill a Budaq, and they leave offal at the edge of the track for the birds that follow them, so that the birds' attention is on the track rather than on the string. A tribe that has lost a rider on the road finds the body by following the bird. Raiders also read the birds: the Shirzâri and others who live by the raid look to the sky for a string that is dropping animals, and hit the string on the ninth day.
 
 A drover who sees the bird fix on a beast has three choices. He can lighten its load, he can slaughter it for meat before it falls, or he can leave it at the next well with a tribe's blessing and a coin, and a caravan with a good master does the first and the last.
 
@@ -287,9 +287,9 @@ A drover who sees the bird fix on a beast has three choices. He can lighten its 
 
 ## Combat Strategy
 
-The Budeq prefers not to fight. It goes after the helpless and flies from the strong. A lone bird will not close on a standing, armed person and will retreat if struck, and a party that fights back drives it off at once. A group is a different thing: three or four birds will attack a fallen or sleeping creature together, with one drawing off the defender's attention and the others going for the eyes.
+The Budaq prefers not to fight. It goes after the helpless and flies from the strong. A lone bird will not close on a standing, armed person and will retreat if struck, and a party that fights back drives it off at once. A group is a different thing: three or four birds will attack a fallen or sleeping creature together, with one drawing off the defender's attention and the others going for the eyes.
 
-It strikes from above, with the beak, from the blind side. The talons are weak and serve for gripping, and a bird that has fixed its claws in a victim's shoulder uses its beak to rip. A fleeing Budeq flies low and fast across open ground.
+It strikes from above, with the beak, from the blind side. The talons are weak and serve for gripping, and a bird that has fixed its claws in a victim's shoulder uses its beak to rip. A fleeing Budaq flies low and fast across open ground.
 
 ## Attack Methods
 
@@ -305,7 +305,7 @@ The feet rake downward as the bird lands or lifts, and the claws open the skin o
 
 ### Death Sight
 
-A Budeq reads the condition of an animal at a distance, from the gait, the sheen of the coat and the set of the head. It is seldom wrong about who will fall next.
+A Budaq reads the condition of an animal at a distance, from the gait, the sheen of the coat and the set of the head. It is seldom wrong about who will fall next.
 
 ### Thermal Rider
 
@@ -337,4 +337,4 @@ It finds a carcass by sight and by smell from miles away, and flocks gather with
 
 ## A Hook
 
-A Budeq has followed a string for twelve days without once settling, and a ring of bronze is fixed to one of its legs. The caravan master, who has read every omen in the road's long book, has never seen a ring on a bird. The ring carries a mark that one of the party's guides recognizes, and will not name. Someone has been feeding the bird to keep it on this string, and the animal it watches is carrying more than its load.
+A Budaq has followed a string for twelve days without once settling, and a ring of bronze is fixed to one of its legs. The caravan master, who has read every omen in the road's long book, has never seen a ring on a bird. The ring carries a mark that one of the party's guides recognizes, and will not name. Someone has been feeding the bird to keep it on this string, and the animal it watches is carrying more than its load.

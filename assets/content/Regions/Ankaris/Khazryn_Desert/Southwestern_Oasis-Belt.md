@@ -18,7 +18,7 @@ data:
 
 The **Tellumel**, "the land of the Tellumi", is the irrigated strip along the north foot of the Grazian Mountains, on the southern edge of the [[place-khzryndsrtrgn|Khazryn Desert]]. It is the country of the [[affiliation-khzrncnfdrtn|Tellumi Confederation]] and the [[affiliation-tribestrzd|Tribes of Ātárzád]]: the Tribes hold its four great cities, the Confederation the peripheral oases, and each claims the whole.
 
-The strip is forty to eighty miles deep where the snowmelt streams of the [[place-graznmntns|Grazian Mountains]] reach it and broken where they do not, and it runs perhaps seven hundred miles from the [[place-wstrndscnt|Western Descent]] eastward. Every city of the Tellumi stands in it. North of it the black rock of [[place-dkrqrrgn|Dikraqor]] begins within a day's ride, and beyond that the sand. About 1,800,000 people live in the strip, which is most of the region's population on a small fraction of its ground; the tribes of the waste regard it as a foreign country, and raid its outer gardens when they dare.
+The strip is forty to eighty miles deep where the snowmelt streams of the [[place-graznmntns|Grazian Mountains]] reach it and broken where they do not, and it runs perhaps seven hundred miles from the [[place-wstrndscnt|Western Descent]] eastward. Every city of the Tellumi stands in it. North of it the black rock of [[place-dkrqrrgn|Diqraqor]] begins within a day's ride, and beyond that the sand. About 1,800,000 people live in the strip, which is most of the region's population on a small fraction of its ground; the tribes of the waste regard it as a foreign country, and raid its outer gardens when they dare.
 
 ## Economy
 
@@ -31,7 +31,7 @@ In the still-Tellumi oases—[[place-mehrnagord|Mehrnāgord]], [[place-ushtraber
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—Hold the four great cities
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—Holds the peripheral oases and claims the whole
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—The enclosing region
-- [[place-dkrqrrgn|Dikraqor]]—The stone uplands to the north
+- [[place-dkrqrrgn|Diqraqor]]—The stone uplands to the north
 - [[lore-celestialroad|The Celestial Road]]—The southern spur reaches the strip
 - Oasis of Shirvan, [[place-ashkarad|Ashkarad]], Zargandûr, [[place-kethramir|Kethramír]]—The four great cities
 - [[place-beitshofar|Beit-Shōfár]]—Seat of the Council of the Twelve

@@ -20,7 +20,7 @@ Something at the bottom of a shaft trades secrets for blood, and the hidden prie
 
 ## Overview
 
-Under the cliff of [[place-oasishirvn|Shirvan]], the dry well of [[place-peldenderal|Peldenderal]] answers questions for blood. The thing that answers, the **Tally**, is a seam of the [[lore-theshadow|Shadow]] that rose through a hundred and forty fathoms of rock to the surface of a burned archive and learned to read. It sells what it reads. **Nurmelul**, the hidden Shēkhulsīghot, buys the quarter's safety from it. **Qēshumōr**, a fire-warden of the Tēqemōd, buys the Tellumi's secrets from it, without knowing that his supplier sells to the other side as well. Neither knows the other comes to the well.
+Under the cliff of [[place-oasishirvn|Shirvan]], the dry well of [[place-peldenderal|Peshdenderat]] answers questions for blood. The thing that answers, the **Tally**, is a seam of the [[lore-theshadow|Shadow]] that rose through a hundred and forty fathoms of rock to the surface of a burned archive and learned to read. It sells what it reads. **Nurmelul**, the hidden Shēkhulsīghot, buys the quarter's safety from it. **Qēshumōr**, a fire-warden of the Tēqemōd, buys the Tellumi's secrets from it, without knowing that his supplier sells to the other side as well. Neither knows the other comes to the well.
 
 The adventure runs over two days and a night. The first day is the quarter and the stair, the night is the descent, and the second day is the vault and the reckoning in the market. The rain in the uplands sets a clock on the lower galleries. The bypass notes carry play on when the party skips a scene or takes a shortcut.
 
@@ -120,7 +120,7 @@ The adventure runs over two days and a night. The first day is the quarter and t
 
 ## See Also
 
-- [[place-peldenderal|Peldenderal]]—the well and the voice
+- [[place-peldenderal|Peshdenderat]]—the well and the voice
 - [[place-oasishirvn|Oasis of Shirvan]]—the city above it
 - [[affiliation-zurathra|Faith of Zúráthrä]]—the Mother of the Oasis
 - [[affiliation-tribestrzd|Tribes of Ātárzád]]—the Tēqemōd who rule the city

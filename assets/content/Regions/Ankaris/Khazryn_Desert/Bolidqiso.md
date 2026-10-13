@@ -1,14 +1,14 @@
 ---
 shortcode: bolidqiso
-name: {full: Bolidqìso, aliases: [The Counting-House Tower, The Price-Tower]}
+name: {full: Bolidqiiso, aliases: [The Counting-House Tower, The Price-Tower]}
 type: place
 subType: site
-description: "A counting-house tower of the Tower League in a street of Wilud that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."
+description: "A counting-house tower of the Tower League in a street of Vülüd that the dunes have uncovered, with its balances, its strongroom and the stone watchman that still keeps its door."
 tags: [draft, ruin, tower, construct]
 data: {demonym: null, lore: [], parents: [wilud], population: 0, packFolder: khazryndesert}
 ---
 
-When a sand-front passed over the eastern edge of [[place-wilud|Wilud]] this season, it left open a street of merchants' houses that ends at a square tower of baked brick four storeys high. The [[affiliation-rwlstrb|Ruweles]] who found it call it **Bolidqìso**, "the price-tower", because its lower floors are a counting-house of the [[lore-towercities|Tower League]], with its balances still standing, and because they have already sold the news of it twice.
+When a sand-front passed over the eastern edge of [[place-wilud|Vülüd]] this season, it left open a street of merchants' houses that ends at a square tower of baked brick four storeys high. The [[affiliation-rwlstrb|Uruvolur]] who found it call it **Bolidqiiso**, "the price-tower", because its lower floors are a counting-house of the [[lore-towercities|Tower League]], with its balances still standing, and because they have already sold the news of it twice.
 
 ## What It Is
 
@@ -21,11 +21,11 @@ Inside, the floors are:
 - **The counting floor**, a long room of benches and balances, where goods were weighed and sealed.
 - **The weighing hall**, two storeys high, under a great beam-balance hung from the roof. Its counterweights, stones the size of a cart, hang on chains in shafts that run down through the floor into the vaults below, and the floor over the vaults is cracked.
 - **The strongroom**, behind the weighing hall, where the league's own silver was kept beneath the floor.
-- **The lamp-stair**, a narrow stair in the wall that climbs past the counting-house to the roof, where a small lamp-chamber once marked the tower for the yard. A [[being-numek|numek]] colony roosts in it and pours out at dusk.
+- **The lamp-stair**, a narrow stair in the wall that climbs past the counting-house to the roof, where a small lamp-chamber once marked the tower for the yard. A [[being-numek|numaq]] colony roosts in it and pours out at dusk.
 
 ## The Watchman
 
-At the foot of the inner stair stands a stone figure, man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by two thousand years of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Ruweles call it **Sowidikraq**, "the stone escort".
+At the foot of the inner stair stands a stone figure, man-high and broad, with its hands held out before it, palms up. Its face, its shoulders and the signs cut over its body are worn almost smooth by two thousand years of sand. Its hands are polished bright. It is a [[lore-golemcrtr|construct]], set by the league to keep the counting-house, and the Uruvolur call it **Sovidiqraq**, "the stone escort".
 
 The league's writing has never been read, and the signs on the watchman can be read only as pictures. The walls of the counting floor and the weighing hall carry panels of the same pictures: a merchant holding up a seal to a stone figure that lowers its hands; a figure laid in the pan of a balance while the stone figure stands by; the service door with blocks set across it and a sky full of blown sand.
 
@@ -45,13 +45,13 @@ The strongroom floor hides the league's silver in ingots beneath its flags, and 
 
 ## Reaching It
 
-The street lies on the eastern side of the city, open for a few years at most before the next sand-front closes it. Ruwelye, a guide of the Ruweles who has sold Wilud's streets before, sold this one to two buyers at [[place-qisomrktcmp|Qìso]] and guides whichever of them arrives first.
+The street lies on the eastern side of the city, open for a few years at most before the next sand-front closes it. Uruvolun, a guide of the Uruvolur who has sold Vülüd's streets before, sold this one to two buyers at [[place-qisomrktcmp|Qiiso]] and guides whichever of them arrives first.
 
 ## See Also
 
-- [[place-wilud|Wilud]]—the half-buried city
+- [[place-wilud|Vülüd]]—the half-buried city
 - [[lore-towercities|The Tower Cities]]—the league that built it
 - [[lore-golemcrtr|Constructs]]—what the watchman is
-- [[affiliation-rwlstrb|Ruweles]]—who found the street
-- [[lore-roadnights|The Nights of the Road]]—Ruwelye's tale of the street sold twice
-- [[scenario-wludwtchmn|The Watchman beneath Wilud]]—a scenario set here
+- [[affiliation-rwlstrb|Uruvolur]]—who found the street
+- [[lore-roadnights|The Nights of the Road]]—Uruvolun's tale of the street sold twice
+- [[scenario-wludwtchmn|The Watchman beneath Vülüd]]—a scenario set here

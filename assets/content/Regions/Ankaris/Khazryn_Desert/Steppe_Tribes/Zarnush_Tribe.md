@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      A dowek chosen by the elders, a moot of elders that settles what custom does not already answer, and a warband, the Tîgh'Savâran, that holds the wells and carries the tribe's quarrels.
+      A dovaq chosen by the elders, a moot of elders that settles what custom does not already answer, and a warband, the Tîgh'Savâran, that holds the wells and carries the tribe's quarrels.
     ranks:
       - level: 0
         title: Kinless
@@ -35,11 +35,11 @@ data:
         title: Elder
         description: Senior of a lineage, whose memory of custom and precedent settles what the young dispute.
       - level: 5
-        title: Dowek
+        title: Dovaq
         description: >-
           Chief of the tribe, chosen by the elders from the strongest line and holding the office while the herds are fat and the wells held.
     offices:
-      Dowek: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
+      Dovaq: Chief of the tribe, speaking last at the moot and unable to raise a raid, move a camp or sell passage without its assent.
       Elder: Senior of a lineage, seated at the moot, whose recollection of custom settles what the young dispute.
       Shaman: Keeper of the storm rites, the weather-reading and the laying-out ground.
       War Captain: Leader of the warband, held by whoever the riders will follow.
@@ -58,7 +58,7 @@ data:
 sohl: {system: {commonSkills: [sowideslng]}}
 ---
 
-The **Zarnûsh** are a [[lore-sowidesclt|Sowides]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
+The **Zarnûsh** are a [[lore-sowidesclt|Sovidur]] tribe of perhaps three hundred families, living on two hundred square miles of mixed steppe in the middle of the [[place-khzryndsrtrgn|Khazryn]]. They have three wells, and everything about them follows from that number. A tribe with three wells cannot lose one, and it cannot afford to quarrel with anyone who can reach one.
 
 ## The Wells
 
@@ -70,17 +70,17 @@ Three stronger tribes meet the Zarnûsh at the edges of their grazing: the [[aff
 
 That arrangement is failing. A drought dried the seasonal water two years ago, the Dûrmand raided the herds, three families crossed to the Âzardan, and the Shirzâri now hold eight of the tribe's people.
 
-## The Dowek and the Warband
+## The Dovaq and the Warband
 
-The dowek is Tîman Zarnûsh, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, the [[affiliation-tghsvrnzrnsh|Tîgh'Savâran]], is the other half of the tribe's strength, and its captain, Bahrazad Darûsh, holds the dowek's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Âzardan's protection with its independence. The dowek is leaning toward the second and the warband toward the first.
+The dovaq is Tîman Zarnûsh, an old man who has held the tribe together by patience and has little taste for a hard stroke. The warband, the [[affiliation-tghsvrnzrnsh|Tîgh'Savâran]], is the other half of the tribe's strength, and its captain, Bahrazad Darûsh, holds the dovaq's leave to act as he sees fit for one season. The tribe has two ways left to survive: to win the captives back by force, or to buy the Âzardan's protection with its independence. The dovaq is leaning toward the second and the warband toward the first.
 
 ## Caravans
 
-The Zarnûsh are known for honest dealing, and caravan tolls are their steadiest income. A caravan that buys passage gets a guide, water at all three wells and the tribe's token, and the Zarnûsh keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dowek has so far refused it.
+The Zarnûsh are known for honest dealing, and caravan tolls are their steadiest income. A caravan that buys passage gets a guide, water at all three wells and the tribe's token, and the Zarnûsh keep the bargain. A lightly guarded caravan of spices and silk crossing their land while the warband needs horses is a temptation some of the riders argue for, and the dovaq has so far refused it.
 
 ## See Also
 
-- [[lore-sowidesclt|Sowides]]—the steppe tribes and what they hold a person owes
+- [[lore-sowidesclt|Sovidur]]—the steppe tribes and what they hold a person owes
 - [[affiliation-tghsvrnzrnsh|Tîgh'Savâran of the Zarnûsh]]—the warband, its captain and the crisis it carries
 - [[affiliation-zrdntrb|Âzardan]], [[affiliation-drmndtrb|Dûrmand]], [[affiliation-shrzrtrb|Shirzâri]]—the three neighbors
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the country the tribe grazes

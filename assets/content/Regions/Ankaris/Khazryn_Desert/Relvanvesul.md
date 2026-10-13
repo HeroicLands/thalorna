@@ -1,6 +1,6 @@
 ---
 shortcode: relvanvesul
-name: {full: Relvanvesul, aliases: [Zargandûr's Trench, The Princes' Bones]}
+name: {full: Relvanvesut, aliases: [Zargandûr's Trench, The Princes' Bones]}
 type: place
 subType: site
 description: "The second trench of Zargandûr's fall, a long grave in a dry wash east of the walls that holds the war-house's palace household and the sacked temple gold, unconsecrated since the Breaking and dug into now by raiders who have not found out what answers."
@@ -16,9 +16,9 @@ data:
 
 ## Overview
 
-Two miles east of [[place-zargandur|Zargandûr]], where the snowmelt river's old bed runs out into the gravel and the weirs have left it dry, a dry wash cuts a long shallow scar across the plain. The Tellumi of the quarter call it **Relvanvesul**, "the princes' bones". The Zhōqarōd garrison does not call it anything. They mark it on no map and keep no picket there.
+Two miles east of [[place-zargandur|Zargandûr]], where the snowmelt river's old bed runs out into the gravel and the weirs have left it dry, a dry wash cuts a long shallow scar across the plain. The Tellumi of the quarter call it **Relvanvesut**, "the princes' bones". The Zhōqarōd garrison does not call it anything. They mark it on no map and keep no picket there.
 
-It is a second grave of the fall, distinct from the field of [[place-henhulpedin|Henhulpedin]] north of the walls, where the war-house's riders died on the pasture. The riders were the army. The bones in the wash are the household: the princes' women and children, the old officers who stayed to keep the palace, the palace guard, the clerks and the priests of the shrines, taken from the palace court on the third day after the fall and driven into a trench cut across the wash. They were not read and no lamps were lit. The grave was never consecrated.
+It is a second grave of the fall, distinct from the field of [[place-henhulpedin|Henhutpedin]] north of the walls, where the war-house's riders died on the pasture. The riders were the army. The bones in the wash are the household: the princes' women and children, the old officers who stayed to keep the palace, the palace guard, the clerks and the priests of the shrines, taken from the palace court on the third day after the fall and driven into a trench cut across the wash. They were not read and no lamps were lit. The grave was never consecrated.
 
 ## What Lies in It
 
@@ -30,7 +30,7 @@ Ninety years of wind have uncovered part of the wash and wind-blown gravel has c
 
 ## The Raiders
 
-The grave-gold has reached the tribes. A band of fifteen or twenty, Sowides riders of three small tribes and a few hired diggers, has made a camp at the lower end of the wash and has been cutting into the trench for a season. They have taken out some gold. They have lost a third of their number, two to the dead and the rest to what the dead do to the mind of a man who sleeps near them. The survivors keep a fire going at all hours and sleep in the middle of the camp.
+The grave-gold has reached the tribes. A band of fifteen or twenty, Sovidur riders of three small tribes and a few hired diggers, has made a camp at the lower end of the wash and has been cutting into the trench for a season. They have taken out some gold. They have lost a third of their number, two to the dead and the rest to what the dead do to the mind of a man who sleeps near them. The survivors keep a fire going at all hours and sleep in the middle of the camp.
 
 ## What Answers
 
@@ -55,7 +55,7 @@ The wash is a two-hour walk from the east gate over open gravel, no cover and no
 ## See Also
 
 - [[place-zargandur|Zargandûr]]—the city whose palace it holds
-- [[place-henhulpedin|Henhulpedin]]—the field of the riders, north of the walls
+- [[place-henhulpedin|Henhutpedin]]—the field of the riders, north of the walls
 - [[lore-bloodfield|Blood-fields]]—what a field is, and what working one does
 - [[lore-theshadow|The Shadow]]—what comes through where a field is cut
 - [[lore-undead|Undead]]—the dead made to walk

@@ -3,7 +3,7 @@ shortcode: zargandfall
 name: {full: The Fall of Zargandûr, aliases: [The Sortie from the North Gate]}
 type: lore
 subType: history
-description: "In the second year of the Breaking, about 620 AF, the war-house of Zargandûr rides out of the north gate to meet the Ātárzád host and dies to the last rider; the city falls by noon and the pasture becomes the blood-field of Henhulpedin."
+description: "In the second year of the Breaking, about 620 AF, the war-house of Zargandûr rides out of the north gate to meet the Ātárzád host and dies to the last rider; the city falls by noon and the pasture becomes the blood-field of Henhutpedin."
 tags: [history]
 data:
   packFolder: settinglore
@@ -45,10 +45,10 @@ In the second year of the Breaking, about 620 AF, the war-house's cavalry rode o
 
 ## What Was Left
 
-The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Dēlkoshekh beyond the wall and no names read. Three days later the Zhōqarōd drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhulpedin]], a moderate blood-field of recurrence that the Zhōqarōd keep for their own use.
+The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Dēlkoshekh beyond the wall and no names read. Three days later the Zhōqarōd drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhutpedin]], a moderate blood-field of recurrence that the Zhōqarōd keep for their own use.
 
 ## See Also
 
-- [[place-henhulpedin|Henhulpedin]]—the field it made
+- [[place-henhulpedin|Henhutpedin]]—the field it made
 - [[place-zargandur|Zargandûr]]—the city it opened the war for
 - [[lore-khazrynclt|The Tellumi]]—who call the war Turem, the Breaking

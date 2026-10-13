@@ -207,7 +207,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | Tongue        | Meaning                                                               |
 | ------------- | --------------------------------------------------------------------- |
 | `dunhari`     | a Dunhari name, [[skill-dunharlng\|Dunhari]]                          |
-| `sowides`     | a Sowides name, carried by a Khazryn wanderer living among the tribes |
+| `sovidur`     | a Sovidur name, carried by a Khazryn wanderer living among the tribes |
 | `ashaian`     | a name taken from the Āsháian faith, whose gods the tribes keep       |
 | `translation` | a name given in the language of these pages                           |
 
@@ -218,7 +218,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Afrûn**                                 | [[being-faradunfrn\|Afrûn]]                                          | `dunhari`     | —                   |
 | **Amradad**                               | [[place-amradadrgn\|Amradad]], [[affiliation-kngdmmrdd\|Amradad]]    | `dunhari`     | —                   |
 | **Amradad Region**                        | [[place-amradadrgn\|Amradad Region]]                                 | `translation` | —                   |
-| **Atenheru**                              | [[being-atenhershr\|Atenheru]]                                       | `sowides`     | —                   |
+| **Atazkharu**                             | [[being-atenhershr\|Atazkharu]]                                      | `sovidur`     | —                   |
 | **Âzardan**                               | [[being-venradzrdn\|Âzardan]]                                        | `dunhari`     | —                   |
 | **Bahârâmî-Vadukesh**                     | [[affiliation-strmcltsbhrms\|Bahârâmî-Vadukesh]]                     | `dunhari`     | —                   |
 | **Barmandan**                             | [[being-prynbrmndn\|Barmandan]], [[being-rshrnbrmndn\|Barmandan]]    | `dunhari`     | —                   |
@@ -228,6 +228,8 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Camp Practitioner**                     | [[affiliation-strmcltsbhrms\|Camp Practitioner]]                     | `translation` | —                   |
 | **Caravan-Master**                        | [[affiliation-kngdmmrdd\|Caravan-Master]]                            | `translation` | —                   |
 | **Chieftain**                             | [[affiliation-dunhartrbs\|Chieftain]]                                | `translation` | —                   |
+| **Chüel**                                 | [[being-atenhershr\|Chüel]]                                          | `sovidur`     | —                   |
+| **Chüyelqiimod**                          | [[being-atenhershr\|Chüyelqiimod]]                                   | `sovidur`     | —                   |
 | **Court Astrologer**                      | [[affiliation-kngdmmrdd\|Court Astrologer]]                          | `translation` | —                   |
 | **Court Physician**                       | [[affiliation-kngdmmrdd\|Court Physician]]                           | `translation` | —                   |
 | **Daryash**                               | [[being-daryshshvn\|Daryash]]                                        | `dunhari`     | —                   |
@@ -294,7 +296,7 @@ Every name the setting gives a person, place, polity, office or thing of the Dun
 | **Rosharan**                              | [[being-rshrnbrmndn\|Rosharan]]                                      | `dunhari`     | —                   |
 | **Rudâvah**                               | [[being-rudavahfrd\|Rudâvah]]                                        | `dunhari`     | —                   |
 | **Rûzhôr**                                | [[affiliation-strmcltsbhrms\|Rûzhôr]]                                | `dunhari`     | `rûzh-` + `-ôr`     |
-| **Sahri**                                 | [[being-atenhershr\|Sahri]]                                          | `sowides`     | —                   |
+| **Sahri**                                 | [[being-atenhershr\|Sahri]]                                          | `sovidur`     | —                   |
 | **Sehvôr**                                | [[affiliation-strmcltsbhrms\|Sehvôr]]                                | `dunhari`     | `sehv-` + `-ôr`     |
 | **Shâdezar**                              | [[being-shadzrkmrz\|Shâdezar]]                                       | `dunhari`     | —                   |
 | **Shavân**                                | [[being-daryshshvn\|Shavân]]                                         | `dunhari`     | —                   |
@@ -487,3 +489,4 @@ A retired name is one the setting does not write: a word or a name of an Earth l
 | `sultanate`         | `kingdom`           | an Earth word, the realm of Amradad                |
 | `Vizier`            | `Vashkôr`           | an Earth word, a minister of state                 |
 | `vizier`            | `vashkôr`           | an Earth word, a minister of state                 |
+| `Atenheru`          | `Atazkharu`         | respelled to keep the rules of Sovidur             |

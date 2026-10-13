@@ -191,7 +191,7 @@ The rocks on the ravine floor are still warm from the day, and one of them is wa
 
 # Dossier {#dossier}
 
-The Giant Scorpion is the big dark scorpion of the black-rock plateau of the [[place-dkrqrrgn|Dikraqor]] and the ravines and badlands round it, ten feet from pincer-tip to tail and plated in brown, rust and near-black chitin that matches the warm rock it hunts across. It is an ambush hunter that lies still for a day among the boulders and takes whatever comes within reach, and in its country it is the thing that comes to the fire at night. The tribes of the plateau rank it with floods and falls among the killers of the ravines, and the pale [[being-bnscrpn|Bone Scorpion]] of the wells is a cousin it never meets.
+The Giant Scorpion is the big dark scorpion of the black-rock plateau of the [[place-dkrqrrgn|Diqraqor]] and the ravines and badlands round it, ten feet from pincer-tip to tail and plated in brown, rust and near-black chitin that matches the warm rock it hunts across. It is an ambush hunter that lies still for a day among the boulders and takes whatever comes within reach, and in its country it is the thing that comes to the fire at night. The tribes of the plateau rank it with floods and falls among the killers of the ravines, and the pale [[being-bnscrpn|Bone Scorpion]] of the wells is a cousin it never meets.
 
 Its venom is worth a camel-load of salt to the right buyer, and the men who sell it do not grow old.
 
@@ -201,7 +201,7 @@ A heavily plated scorpion with a squat, muscular forebody and a segmented tail t
 
 ## In the Land
 
-Giant Scorpions live on the mesas and in the dry ravines of the Dikraqor between the sands and the oasis belt, where they hunt the warm rocks at dusk, and in the badlands and stone uplands around the plateau's edges, among the fallen stone of the old tomb-ravines of [[place-osikor|Osikor]] and the cisterns the plateau tribes depend on. Each holds several square miles of rock and ravine against every other and is out at dusk and in the first of the night, when the stone still holds the day's heat. They are not found on open sand or in the cold north.
+Giant Scorpions live on the mesas and in the dry ravines of the Diqraqor between the sands and the oasis belt, where they hunt the warm rocks at dusk, and in the badlands and stone uplands around the plateau's edges, among the fallen stone of the old tomb-ravines of [[place-osikor|Oshiqor]] and the cisterns the plateau tribes depend on. Each holds several square miles of rock and ravine against every other and is out at dusk and in the first of the night, when the stone still holds the day's heat. They are not found on open sand or in the cold north.
 
 ## Key Behaviors
 

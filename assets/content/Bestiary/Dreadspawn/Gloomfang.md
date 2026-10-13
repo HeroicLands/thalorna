@@ -248,7 +248,7 @@ The hall cut into the hillside is dry, and that is a mercy after three days of b
 
 # Dossier {#dossier}
 
-The Gloomfang is a dreadspawn made in the shape of a giant rat, the size of a big dog, that hunts in packs under a single will. A colony of them holds a cave system or an abandoned working, hunts what comes into it and what lives round it, and attacks in coordinated waves. The colony the deer-herders and seal-hunters of the [[place-gwtkrrgn|Gwatekor]] fear lives in one of the [[place-nrthnhlds|Old Holds of the Northern Taiga]], the cut-stone halls in the northern forest that nobody has surveyed. Like every dreadspawn, gloomfangs were made and cannot breed. A colony was made all at once, and it has never grown: every gloomfang killed is one fewer, for good.
+The Gloomfang is a dreadspawn made in the shape of a giant rat, the size of a big dog, that hunts in packs under a single will. A colony of them holds a cave system or an abandoned working, hunts what comes into it and what lives round it, and attacks in coordinated waves. The colony the deer-herders and seal-hunters of the [[place-gwtkrrgn|Ghotaqor]] fear lives in one of the [[place-nrthnhlds|Old Holds of the Northern Taiga]], the cut-stone halls in the northern forest that nobody has surveyed. Like every dreadspawn, gloomfangs were made and cannot breed. A colony was made all at once, and it has never grown: every gloomfang killed is one fewer, for good.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ A gloomfang is a lean, long-bodied rat as big as a wolfhound, five to six feet t
 
 ## In the Land
 
-The Gwatekor is the cold forest of the northern Khazryn, dark spruce, unthawing bog and long frozen lakes, and the Old Holds in it are cut stone under moss and dry halls in hillsides, the best shelter for forty miles. The gloomfang colony holds one: its galleries and the caves behind it, which run deeper than anyone has followed. By day the pack stays deep, away from light. By night it hunts the forest for miles round, deer, wolves, seals hauled out on the coast and the deer-herders' animals, and it comes back before dawn. Herders who have lost animals near a certain hillside, where moss lies over squared stone and the deer will not graze, have stopped taking their herds there.
+The Ghotaqor is the cold forest of the northern Khazryn, dark spruce, unthawing bog and long frozen lakes, and the Old Holds in it are cut stone under moss and dry halls in hillsides, the best shelter for forty miles. The gloomfang colony holds one: its galleries and the caves behind it, which run deeper than anyone has followed. By day the pack stays deep, away from light. By night it hunts the forest for miles round, deer, wolves, seals hauled out on the coast and the deer-herders' animals, and it comes back before dawn. Herders who have lost animals near a certain hillside, where moss lies over squared stone and the deer will not graze, have stopped taking their herds there.
 
 ## Key Behaviors
 

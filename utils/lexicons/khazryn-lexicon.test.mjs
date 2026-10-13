@@ -39,7 +39,9 @@ function tongueNote({
     pairs = "never",
     initial = "no",
     signature = "",
+    extra = "",
     joins,
+    suffixHeader = "| Suffix | Sense |\n| --- | --- |",
     suffixes,
 }) {
     return `---
@@ -72,7 +74,7 @@ ${marks}
 | Doubled | ${doubled} |
 | Vowel pairs | ${pairs} |
 | Initial vowel | ${initial} |
-${signature ? `| Signature | ${signature} |\n` : ""}
+${signature ? `| Signature | ${signature} |\n` : ""}${extra}
 ### Joins
 
 | Meeting | Rule | Letters |
@@ -81,8 +83,7 @@ ${joins}
 
 ### Suffixes
 
-| Suffix | Sense |
-| --- | --- |
+${suffixHeader}
 ${suffixes}
 
 ## Elsewhere
@@ -285,14 +286,10 @@ test("sound words keep the shape and broken ones are refused with a reason", () 
     assert.match(reasons("tapku"), /cannot stand between two vowels/);
     assert.match(reasons("pkatu"), /cannot start a word/);
     const strict = rulesFrom(
-        OTHER.replace(
-            "| Initial vowel | yes |",
-            "| Initial vowel | yes |\n| Final vowel | no |\n| Mixed vowels | `e` / `a` `o` |",
-        ),
+        OTHER.replace("| Initial vowel | yes |", "| Initial vowel | yes |\n| Final vowel | no |"),
     );
     assert.match(shape("bedo", strict).join(";"), /ends in a vowel/);
     assert.deepEqual(shape("bedo", strict, { bound: true }), []);
-    assert.match(shape("bado", strict, { bound: true }).join(";"), /one vowel group/);
     assert.deepEqual(shape("bado", strict, { bound: false }).length, 1);
     const signed = rulesFrom(
         OTHER.replace(
@@ -552,3 +549,178 @@ test(
         assert.deepEqual(errors(findings), []);
     },
 );
+
+/** A harmonic tongue in the shape of the steppe candidate. */
+const HARMONY_ROW =
+    "| Harmony | back `a` `o` `u` / front `e` `ö` `ü` / neutral `i`, which alone counts as front |";
+const HARMONIC = tongueNote({
+    consonants: "b d t k g q gh kh j ch s sh z m n l r v y".split(" "),
+    vowels: ["a", "o", "u", "e", "ö", "ü", "i"],
+    codas: "`b` `d` `t` `k` `g` `q` `gh` `kh` `j` `ch` `s` `sh` `z` `m` `n` `l` `r` `v` `y`",
+    finals: "`d` `t` `k` `q` `kh` `ch` `s` `sh` `z` `m` `n` `l` `r` `y`",
+    pairs: "`aa` `ee` `ii` `oo` `uu` `öö` `üü`",
+    initial: "yes",
+    signature: "`q` `gh` `kh` `ch` `j` `z` `o` `ö` `ü`",
+    extra: `| Never initial | \`r\` |\n${HARMONY_ROW}\n`,
+    joins: "| `V+V` | `insert` | `y` |\n| `C+C` | `merge` | |",
+    suffixHeader: "| Back | Front | Sense |\n| --- | --- | --- |",
+    suffixes: [
+        "| `-ur` | `-ür` | a people or tribe |",
+        "| `-oq` | `-ök` | a union, a binding |",
+        "| `-or` | `-ör` | a range or grazing |",
+    ].join("\n"),
+});
+
+/** A tongue in the shape of the oasis candidate. */
+const OASIS = tongueNote({
+    consonants: "p t k b d g m n l r s sh ts h v y".split(" "),
+    vowels: ["a", "e", "i", "u"],
+    codas: "`l` `m` `n` `r` `t` `d` `k` `s` `sh`",
+    finals: "`l` `m` `n` `r` `t` `d` `k` `s` `sh` `y`",
+    doubled: "`bb` `dd` `gg` `kk` `ll` `mm` `nn` `pp` `rr` `ss` `tt` `vv`",
+    joins: "| `V+V` | `drop` | |\n| `V+C` | `double` | `b` `d` `g` `k` `l` `m` `n` `p` `r` `s` `t` `v` |",
+    suffixes: "| `-mi` | a people |\n| `-ash` | a city or town |\n| `-a` | a woman's given name |",
+});
+
+/** Read inside each test, so a rule the guard cannot read fails that test alone. */
+const harmonic = () => rulesFrom(HARMONIC);
+const oasis = () => rulesFrom(OASIS);
+
+test("the harmony row and the suffix alternants are read off the note", () => {
+    const { harmony } = harmonic().syllables;
+    assert.equal(harmony.groups.get("a"), "back");
+    assert.equal(harmony.groups.get("ü"), "front");
+    assert.equal(harmony.groups.get("i"), "neutral");
+    assert.equal(harmony.neutralAs, "front");
+    assert.deepEqual(
+        harmonic().suffixes.map((s) => [s.form, s.front]),
+        [
+            ["-ur", "-ür"],
+            ["-oq", "-ök"],
+            ["-or", "-ör"],
+        ],
+    );
+    assert.equal(toy.syllables.harmony, null);
+    assert.equal(toy.syllables.neverInitial.length, 0);
+    assert.deepEqual(harmonic().syllables.neverInitial, ["r"]);
+    assert.throws(
+        () => rulesFrom(HARMONIC.replace(" / neutral `i`, which alone counts as front", "")),
+        /harmony row places no group for the vowel `i`/,
+    );
+    assert.throws(
+        () => rulesFrom(HARMONIC.replace(", which alone counts as front", "")),
+        /harmony row states no harmony for a stem of neutral vowels alone/,
+    );
+});
+
+test("a stem whose vowels come from both harmony groups is refused", () => {
+    assert.match(
+        shape("kedul", harmonic(), { bound: true }).join("; "),
+        /mixes back and front vowels/,
+    );
+    assert.deepEqual(shape("kedül", harmonic(), { bound: true }), []);
+    assert.deepEqual(shape("qodir", harmonic(), { bound: true }), []);
+    assert.deepEqual(shape("jiz", harmonic(), { bound: true }), []);
+    // A compound keeps each stem's own harmony, so a word is not judged whole.
+    assert.deepEqual(shape("kedülqodir", harmonic()), []);
+});
+
+test("a doubled vowel of two groups passes the pairs row folded and is refused by harmony", () => {
+    const problems = shape("qoöz", harmonic(), { bound: true });
+    assert.ok(!problems.some((p) => /two vowels together/.test(p)), problems.join("; "));
+    assert.match(problems.join("; "), /mixes back and front vowels/);
+    assert.deepEqual(shape("qöön", harmonic(), { bound: true }), []);
+});
+
+test("a never-initial sound cannot start a stem or a word", () => {
+    assert.match(shape("ruval", harmonic()).join("; "), /`r` cannot start a word/);
+    assert.deepEqual(shape("uruval", harmonic()), []);
+    assert.deepEqual(shape("ruvol", harmonic(), { bound: true }), ["`r` cannot start a word"]);
+    assert.deepEqual(shape("uruvol", harmonic(), { bound: true }), []);
+});
+
+/** The lexicon with Other replaced by the harmonic tongue. */
+const runHarmonic = (register) =>
+    run(
+        {
+            otherStems: "| `ködü` | water |\n| `qodir` | road |\n| `jiz` | salt |",
+            register,
+        },
+        {
+            notes: [],
+            tongueNotes: new Map([
+                ["skill-toy", { file: "toy.md", text: TOY }],
+                ["skill-other", { file: "other.md", text: HARMONIC }],
+            ]),
+        },
+    );
+const row = (name, pieces) =>
+    `| ${name} | [[place-x\\|${name}]] | \`other\` | ${pieces.map((p) => `\`${p}\``).join(" + ")} |`;
+
+test("a suffix takes the harmony of the stem before it", () => {
+    assert.deepEqual(
+        errors(
+            runHarmonic(
+                [
+                    row("Ködüyür", ["ködü", "-ür"]),
+                    row("Qodiror", ["qodir", "-or"]),
+                    row("Jizök", ["jiz", "-ök"]),
+                    row("Ködüqodiror", ["ködü", "qodir", "-or"]),
+                ].join("\n"),
+            ),
+        ),
+        [],
+    );
+    const refused = errors(
+        runHarmonic(
+            [
+                row("Ködüyur", ["ködü", "-ur"]),
+                row("Qodirör", ["qodir", "-ör"]),
+                row("Jizoq", ["jiz", "-oq"]),
+            ].join("\n"),
+        ),
+    );
+    assert.deepEqual(refused, [
+        "Ködüyur: `-ur` is the back form of a suffix, after the front stem `ködü`; it takes `-ür`",
+        "Qodirör: `-ör` is the front form of a suffix, after the back stem `qodir`; it takes `-or`",
+        "Jizoq: `-oq` is the back form of a suffix, after the front stem `jiz`; it takes `-ök`",
+    ]);
+});
+
+test("a suffix alternant must keep the harmony it is listed under", () => {
+    const crossed = HARMONIC.replace("| `-ur` | `-ür` |", "| `-ür` | `-ur` |");
+    const found = run(
+        { otherStems: "| `ködü` | water |\n| `qodir` | road |", register: "" },
+        {
+            notes: [],
+            tongueNotes: new Map([
+                ["skill-toy", { file: "toy.md", text: TOY }],
+                ["skill-other", { file: "other.md", text: crossed }],
+            ]),
+        },
+    );
+    assert.deepEqual(errors(found), [
+        "the back form of suffix `-ür` holds a front vowel",
+        "the front form of suffix `-ur` holds a back vowel",
+    ]);
+});
+
+test("a word is parsed with both suffix forms, and only in harmony", () => {
+    const stems = lexiconFrom(
+        lexicon({ ...GOOD, otherStems: "| `ködü` | water |\n| `qodir` | road |" }),
+    ).stems.filter((s) => s.tongue === "Other");
+    assert.deepEqual(parse("Ködüyür", harmonic(), stems), [["ködü", "-ür"]]);
+    assert.deepEqual(parse("Qodiroq", harmonic(), stems), [["qodir", "-oq"]]);
+    assert.deepEqual(parse("Ködüyur", harmonic(), stems), []);
+});
+
+test("the candidate tongues keep apart on the stems that tested closest", () => {
+    for (const w of ["bolid", "sovid"]) {
+        assert.deepEqual(shape(w, harmonic(), { bound: true }), [], w);
+        assert.notDeepEqual(shape(w, oasis(), { bound: true }), [], w);
+    }
+    for (const w of ["nelim", "lisen"]) {
+        assert.deepEqual(shape(w, oasis(), { bound: true }), [], w);
+        assert.notDeepEqual(shape(w, harmonic(), { bound: true }), [], w);
+    }
+});

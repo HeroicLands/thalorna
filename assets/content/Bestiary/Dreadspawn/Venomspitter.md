@@ -198,7 +198,7 @@ The body is long and supple like a serpent's but jointed like a spider's leg, se
 
 ## In the Land
 
-Venomspitters want shade, damp and warmth together. In the Khazryn they are found in the badlands and stone uplands where water lies in rock: the cut cisterns and seep-caves of the [[place-dkrqrrgn|Dikraqor]], the clefts under the mesas where a spring keeps the rock damp, and the cistern-chambers of the old ruins. Each holds a single water and the ground round it, and one that has taken a cistern holds it for years. They do not go out on the sand or into the dry heat of the day, and hard cold sends them into a torpor. A tribe that finds one in a cistern it depends on has lost the cistern until the creature is killed.
+Venomspitters want shade, damp and warmth together. In the Khazryn they are found in the badlands and stone uplands where water lies in rock: the cut cisterns and seep-caves of the [[place-dkrqrrgn|Diqraqor]], the clefts under the mesas where a spring keeps the rock damp, and the cistern-chambers of the old ruins. Each holds a single water and the ground round it, and one that has taken a cistern holds it for years. They do not go out on the sand or into the dry heat of the day, and hard cold sends them into a torpor. A tribe that finds one in a cistern it depends on has lost the cistern until the creature is killed.
 
 ## Key Behaviors
 

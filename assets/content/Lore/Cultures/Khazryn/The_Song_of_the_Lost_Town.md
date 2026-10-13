@@ -1,6 +1,6 @@
 ---
 shortcode: velkunsong
-name: {full: The Song of the Lost Town, aliases: [Velkunrelum]}
+name: {full: The Song of the Lost Town, aliases: [Veshkunrelum]}
 type: lore
 subType: literature
 description: "The Tellumi epic of old Vahúrdash as a cloth-teller sings it in the caravan yards of Kethramír: a prince who refused a stranger the guest-right, a champion who kept his oath past sense, the springs leaving the city one by one, a son killed at a shut gate, and the tablets still in their cellars under the sand."
@@ -20,9 +20,9 @@ data:
   language: khazrilng
 ---
 
-**The Song of the Lost Town**, _Velkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Velkun]], the old city of [[place-vahurdash|Vahúrdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsel_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
+**The Song of the Lost Town**, _Veshkunrelum_, is the song the [[lore-khazrynclt|Tellumi]] cloth-tellers sing of [[place-velkunar|Veshkun]], the old city of [[place-vahurdash|Vahúrdash]] that a drought emptied on the dry northern rim of [[place-swoasisbelt|Tellumel]]. It is a _lavun_, a telling before the cloth: the teller spreads a painted linen, a _pirsesh_, across the wall of a hired courtyard in the caravan yards of [[place-kethramir|Kethramír]], sings in couplets, and points with a reed to the scene he is singing, so that the yard sees the gate as it hears of it. He is paid by the scene, and he stops at the end of each to be paid. The song is one episode of a longer cycle on the seven cities; the tellers call the episodes before and after it by name and sing them on other nights, and a yard that has heard the whole cycle has sat through a month of evenings.
 
-The text below is the rendering of one teller's cloth as a clerk of the Tōzhirōd magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemul**, his champion **Bernirul**, the champion's wife **Minele** and their son **Revunul**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúráthrä]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahúrdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
+The text below is the rendering of one teller's cloth as a clerk of the Tōzhirōd magistracy took it down over three nights, with the teller's asides to the yard kept where the clerk kept them. It names the last prince of the old city **Sunhemay**, his champion **Berniray**, the champion's wife **Minesha** and their son **Revunay**, and it says the veiled woman the prince turned from his gate was [[affiliation-zurathra|Zúráthrä]], the Mother of the Oasis; the tellers say so, and the teller hedges it once in the singing. The Tellumi who tell the story hold that the springs failed because the city was judged; the revived House of Vahúrdash, which has built its town among the old streets and drinks from two wells found again, hears that as an insult and answers that the drought was a trial and that returning is the answer. The song gives no date and takes no side the house will accept. The clay tablets of the old record-keepers lie in their cellars under the sand, and the song ends on them.
 
 : The Song of the Lost Town {#song}
 
@@ -43,17 +43,17 @@ and where the clay is broken, I will tell you so, and say.
 This is the prince. His name was Gold. His father's name was Law,
 and when his father died the town had never seen a flaw
 in the count of what it owed and what was owed it in return.
-Sunhemul loved the second half. He let the first half burn.
+Sunhemay loved the second half. He let the first half burn.
 He kept the tablets of his debts in a room without a door
 and read them in the evening as a priest would read the law,
 and what the town could not pay, he took in land, in wells, in sons,
 and pressed a fresh tablet for each, and kept the press, and the sums.
 A fair prince counts the water. A bad prince counts the gold.
-The clay says this of Sunhemul, and the clay is very old.
+The clay says this of Sunhemay, and the clay is very old.
 
   _Here. The man in brown. The one with the spear across his knee._
 
-This is the champion of the house. Bernirul, whose name is Oath.
+This is the champion of the house. Berniray, whose name is Oath.
 He swore it to the father, and the son inherited both,
 the champion and the swearing, and the words of it were these:
 _I am the gate of the house of the rim. I stand when the water flees.
@@ -66,17 +66,17 @@ The clay has every word of it. The clay does not say he was wise.
 
   _This woman at the hearth. The red shawl. Her name is Star._
 
-Minele kept the household's clay, and that is no small thing:
+Minesha kept the household's clay, and that is no small thing:
 the names, the water-hours, the debts, the children born each spring,
 the tablets in their palm-fiber on the shelf beside the door,
 baked hard against the day that comes to every house, and more.
 And this one, at her skirt, with the wooden sword, is their son.
-They named him Return. Revunul. I will tell you why that was done.
+They named him Return. Revunay. I will tell you why that was done.
 For the prince sent the champion away in the first year of his reign,
 to the salt and the Descent, to make his debts in silver plain,
 to stand at the caravans' heads with the prince's seal in his hand
 and bring the silver home. Seven years. That was the prince's command.
-Bernirul went down to Minele with the child not yet born
+Berniray went down to Minesha with the child not yet born
 and said, _I keep the oath. I go. I come back. Do not mourn._
 And she said, _Then the child's name is your coming back, and no other,
 so that every time I call him in I call you home, his mother._
@@ -102,10 +102,10 @@ We give it to the thief. We give it to the enemy at night.
 We gave it to the Ātárzád, and we have not taken it back.
 That is a different song. The clay of that one is black.
 
-  _So. The gate. Revunul held the gate that noon. He was the watch._
+  _So. The gate. Revunay held the gate that noon. He was the watch._
 
 He sent to the prince, as the custom was, for a stranger in the drought,
-and Sunhemul came down himself to see what the noise was about,
+and Sunhemay came down himself to see what the noise was about,
 and looked at the woman at his gate, the dust on her, and the skin,
 and the nine thin channels at his back, and said, _We let no one in.
 The water is counted. The year is dry. The town is owed its own.
@@ -113,7 +113,7 @@ Go north. There are wells in the north._ And she said, _I came from the stone,
 and there is nothing in the north but what you are about to lose.
 Prince of the rim, I am asking. It is yours to refuse.
 I ask it once._ And he said, _Refused._ And she turned, and she went,
-and the clay says that Revunul watched her go, and did not know what it meant,
+and the clay says that Revunay watched her go, and did not know what it meant,
 and gave her his own skin over the wall, half full, which the prince did not see,
 and that is on his tablet to this day, and it was true of me
 if I had been that boy, and it was not enough, and it is sung.
@@ -123,14 +123,14 @@ She drank the half skin on the road. She did not look back. The gardens paled.
 
   _This bird. Here. Wide wings. The road-vulture. Watch it._
 
-Bernirul was on the road by the Descent with the silver and the seal,
+Berniray was on the road by the Descent with the silver and the seal,
 seven years done, his beard gone gray, the camels sore in the heel,
-three days from the rim, when a budeq came over the string and hung
+three days from the rim, when a budaq came over the string and hung
 and settled on the strongest beast, the lead camel, the young
 one, the one that had never faltered, and sat on its neck, and stared
 north, toward the rim, and would not be driven, and the drivers were scared,
 for the bird sits on the beast that dies, and this beast was not ill.
-And Bernirul read the bird the way you read a tablet. He was still
+And Berniray read the bird the way you read a tablet. He was still
 a long moment. Then he said, _Leave the silver with the string.
 Three of you with me, on horses, now. The bird is not the thing.
 The bird is the reading of the thing._ And he rode. And this is the roll.
@@ -157,7 +157,7 @@ The water went where it was owed. That is the whole of what it is.
 
   _A copper. I know. I know. It goes hard. Here is the night. The gate again._
 
-Bernirul came to the gate at the dark of the moon with three men behind,
+Berniray came to the gate at the dark of the moon with three men behind,
 the horses foundered, the dust in his mouth, and his eyes gone half blind
 with the salt and the riding, and he struck the gate with the butt of the spear
 and shouted the words of the house, and a voice said, _Who comes here?
@@ -165,7 +165,7 @@ No one comes in at night in the dry year. That is the prince's word._
 And he said, _I am the gate of the house. Open the gate._ And he heard
 a boy's voice with a man's weight in it say, _The gate is mine tonight,
 and the prince has given no word of a champion. Stand off till the light._
-And Bernirul said, _The town is dying. Open, in the name of the oath._
+And Berniray said, _The town is dying. Open, in the name of the oath._
 And the voice said, _I keep an oath too. Stand off._ And so they stood, both,
 one on each side of a cedar door, the oath on either hand,
 and neither one would give, for neither one could understand
@@ -190,7 +190,7 @@ he could have paid would have bought back the moment before he knelt
 and turned the shield to the one star in the court, and read, and felt
 with his thumb along the cut of the signs, the way we read in the dark,
 the name his wife had pressed in the clay and the boy had cut on the bark
-of the shield-rim at fifteen, as boys do. Revunul. Return.
+of the shield-rim at fifteen, as boys do. Revunay. Return.
 He read it twice. He read it the way you read a thing you learn
 and cannot afterward not know. He said the name aloud.
 The clay says he said it once. The tellers say it loud.
@@ -203,7 +203,7 @@ Wake and walk, or stay and be sand._ And he did it from house to house till dawn
 
   _This long gray line. This is the going-out. Count the people. You cannot. Good._
 
-Minele came out with the household clay in two baskets on a pole,
+Minesha came out with the household clay in two baskets on a pole,
 the names and the water-hours and the debts, the children, the whole
 of what a house is when its walls are gone, and she looked at the court,
 and saw what lay there, and the shield, and set down the pole. The clay says: _short._
@@ -222,7 +222,7 @@ at a funeral, and the Tellumi say it. We say: _as the keepers of the rim._
 
   _Here. Last. The prince._
 
-And Sunhemul? Some tellers sing he came out with the rest, and lived,
+And Sunhemay? Some tellers sing he came out with the rest, and lived,
 a poor man in a conquered street, and Kethramír forgave,
 or did not. Some sing he sat with the lamp till the oil was gone
 and read what he was owed until the reading was all he had, and on
@@ -235,10 +235,10 @@ That is what a prince looks like who counted the wrong thing. That is all.
 
   _And now I roll the cloth. But the song has one more line, and it is this one._
 
-Bernirul lived. He kept the oath. He served the house in Kethramír
+Berniray lived. He kept the oath. He served the house in Kethramír
 and stood a gate for thirty years and never named the year
 or the court or the boy, and when he died a Dēlkoshekh read his name
-from the household clay that Minele saved, and the lamps were lit, and the same
+from the household clay that Minesha saved, and the lamps were lit, and the same
 reed pressed beneath it, as the custom is, the names of the dead he owed,
 and the Dēlkoshekh read them, and came to one, and stopped, and the household showed
 him the shield, and he read the shield. That is how it is done.
@@ -258,7 +258,7 @@ and the copper is the price of the water, and I thank you, friend.
 
 ## See Also
 
-- [[place-velkunar|Velkun]]—the lost town, its cellars and the archive under the sand
+- [[place-velkunar|Veshkun]]—the lost town, its cellars and the archive under the sand
 - [[place-vahurdash|Vahúrdash]]—the settlement rebuilt among the old streets, and the house that holds it by acclamation
 - [[place-kethramir|Kethramír]]—the caravan city whose yards the song is sung in
 - [[lore-khazrynclt|The Tellumi]]—the people, their tablets and what they owe the record

@@ -269,7 +269,7 @@ A stocky, deep-bodied sheep on short, heavily muscled legs, in a coat of thick s
 
 ## In the Land
 
-Stone rams hold the ridges, saddles and high plateaus of the Grazian north face, from the snowline down to the head of the scree, above the [[place-dkrqrrgn|Dikraqor]] and the oasis strip of [[place-swoasisbelt|Tellumel]], and along the approaches to the high passes and the [[place-grazruins|ruins and labyrinths]] under the glaciers. A herd keeps to its own stretch of ridge for generations and moves up and down it with the seasons, high in summer and down to the sheltered south-facing ledges in winter. The herds are thickest above the Western Descent, where the range breaks into lower peaks and the grass comes higher. They avoid the deep snow and the ice of the summits, and they do not come down into the plateau.
+Stone rams hold the ridges, saddles and high plateaus of the Grazian north face, from the snowline down to the head of the scree, above the [[place-dkrqrrgn|Diqraqor]] and the oasis strip of [[place-swoasisbelt|Tellumel]], and along the approaches to the high passes and the [[place-grazruins|ruins and labyrinths]] under the glaciers. A herd keeps to its own stretch of ridge for generations and moves up and down it with the seasons, high in summer and down to the sheltered south-facing ledges in winter. The herds are thickest above the Western Descent, where the range breaks into lower peaks and the grass comes higher. They avoid the deep snow and the ice of the summits, and they do not come down into the plateau.
 
 ## Key Behaviors
 
