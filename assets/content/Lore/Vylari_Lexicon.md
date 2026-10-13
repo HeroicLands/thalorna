@@ -349,37 +349,37 @@ Every word in this table that names a god, and a handful that name other things,
 
 The vocabulary of the faith is the vocabulary of an institution. The imperial cult, _zalvon_, has a word to itself, distinct from a rite and from a prayer, because it is a department of state with revenues and a seat at public ceremonies. The Ôrzâs is its Sarnax Maldor in person, and the _hôlzathôs_, a public officer named by the Senate, is his officer who administers the cult; an oath sworn before the _hôlzathôs_ binds in the courts as well as before the gods. The oldest words in the table belong to the house: _karâlzon_, the fire that is never let go out, and _karâlzândis_, the household gods who are "those of the kept fire".
 
-| Form           | Ancient        | Class   | Gloss                                                        | Built from            | Attested                             |
-| -------------- | -------------- | ------- | ------------------------------------------------------------ | --------------------- | ------------------------------------ |
-| `ulthâthen`    | `ulthâthen`    | v â     | to hallow; to raise a name into the hallowed gender          | —                     | [[skill-vylarilng\|Vylari Language]] |
-| `ulthâs`       | `ulthâs`       | n hal   | a god; anything hallowed                                     | `ulth-` + `-âs`       | [[skill-vylarilng\|Vylari Language]] |
-| `ulthândon`    | `ulthândon`    | n II n  | a consecration; the act that hallows a name                  | `ulth-` + `-ândon`    | —                                    |
-| `ulthâlon`     | `ulthâlon`     | n II n  | the hallowed gender; the fourth gender of the ancient tongue | `ulth-` + `-âlon`     | [[skill-vylarilng\|Vylari Language]] |
-| `anulthâthen`  | `anulthâthen`  | v â     | to unhallow; to strike a name back out of the hallowed       | —                     | —                                    |
-| `sârkhenâ`     | `sârkhenâ`     | n I f   | a temple; a god's house                                      | —                     | —                                    |
-| `sârkhenândôs` | `sârkhenândôs` | n II m  | a priest; a man who keeps a god's house                      | `sârkhen-` + `-ândôs` | —                                    |
-| `sârkhenândâ`  | `sârkhenândâ`  | n I f   | a priestess                                                  | `sârkhen-` + `-ândâ`  | —                                    |
-| `hôlzathôs`    | `hôlzathôs`    | n II m  | a high priest; the first among the priests of a god          | —                     | —                                    |
-| `zalvon`       | `dhalwon`      | n II n  | the worship of the state; the imperial cult                  | —                     | —                                    |
-| `thêlzimâ`     | `thêlzimâ`     | n I f   | a rite; anything done for a god in the proper order          | —                     | —                                    |
-| `gagekâ`       | `gagekâ`       | n I f   | a sacrifice; an offering burned                              | —                     | —                                    |
-| `kûrzâlis`     | `kûrdhâlis`    | n III f | an altar                                                     | —                     | —                                    |
-| `nêkhaimon`    | `nêkhaimon`    | n II n  | a wayside shrine                                             | —                     | —                                    |
-| `zaron`        | `dharon`       | n II n  | an oath; a binding sworn before a god                        | —                     | [[skill-vylarilng\|Vylari Language]] |
-| `zarâthen`     | `dharâthen`    | v â     | to swear; to bind oneself                                    | —                     | —                                    |
-| `zarândôs`     | `dharândôs`    | n II m  | a sworn man; one under an oath                               | `zar-` + `-ândôs`     | [[skill-vylarilng\|Vylari Language]] |
-| `thôlmezâ`     | `thôlmezâ`     | n I f   | a vow; a binding laid on oneself alone                       | —                     | —                                    |
-| `khêlmâron`    | `khêlmâron`    | n II n  | a curse; the words that put a person outside the gods' care  | —                     | —                                    |
-| `khêlmârthôs`  | `khêlmârthôs`  | adj     | accursed; put outside the gods' care and the law's           | `khêlmâr-` + `-thôs`  | —                                    |
-| `ôzêthon`      | `ôdhêthon`     | n II n  | an omen; a sign read in a bird or a flame                    | —                     | —                                    |
-| `ôzêthândôs`   | `ôdhêthândôs`  | n II m  | a diviner; one licensed to read signs                        | `ôzêth-` + `-ândôs`   | —                                    |
-| `yalthêzâ`     | `yalthêzâ`     | n I f   | a prayer                                                     | —                     | —                                    |
-| `zêlmârôs`     | `dhêlmârôs`    | adj     | pure; fit to approach a god                                  | —                     | —                                    |
-| `thîrêlôs`     | `thîrêlôs`     | adj     | set apart; of ground that may not be crossed under arms      | —                     | —                                    |
-| `karâlzon`     | `k'arâlzon`    | n II n  | the kept fire; the hearth of a house, never let go out       | —                     | —                                    |
-| `karâlzândis`  | `karâlzândis`  | n III m | the household gods; those of the kept fire                   | `karâlz-` + `-ândis`  | —                                    |
-| `zîravon`      | `dhîrawon`     | n II n  | the soul; the breath that goes to the ancestors              | —                     | —                                    |
-| `zîkhon`       | `dhîkhon`      | n II n  | fate; what is spoken before a life begins                    | —                     | —                                    |
+| Form           | Ancient        | Class   | Gloss                                                        | Built from            | Attested                                |
+| -------------- | -------------- | ------- | ------------------------------------------------------------ | --------------------- | --------------------------------------- |
+| `ulthâthen`    | `ulthâthen`    | v â     | to hallow; to raise a name into the hallowed gender          | —                     | [[skill-vylarilng\|Vylari Language]]    |
+| `ulthâs`       | `ulthâs`       | n hal   | a god; anything hallowed                                     | `ulth-` + `-âs`       | [[skill-vylarilng\|Vylari Language]]    |
+| `ulthândon`    | `ulthândon`    | n II n  | a consecration; the act that hallows a name                  | `ulth-` + `-ândon`    | —                                       |
+| `ulthâlon`     | `ulthâlon`     | n II n  | the hallowed gender; the fourth gender of the ancient tongue | `ulth-` + `-âlon`     | [[skill-vylarilng\|Vylari Language]]    |
+| `anulthâthen`  | `anulthâthen`  | v â     | to unhallow; to strike a name back out of the hallowed       | —                     | —                                       |
+| `sârkhenâ`     | `sârkhenâ`     | n I f   | a temple; a god's house                                      | —                     | —                                       |
+| `sârkhenândôs` | `sârkhenândôs` | n II m  | a priest; a man who keeps a god's house                      | `sârkhen-` + `-ândôs` | —                                       |
+| `sârkhenândâ`  | `sârkhenândâ`  | n I f   | a priestess                                                  | `sârkhen-` + `-ândâ`  | —                                       |
+| `hôlzathôs`    | `hôlzathôs`    | n II m  | a high priest; the first among the priests of a god          | —                     | —                                       |
+| `zalvon`       | `dhalwon`      | n II n  | the worship of the state; the imperial cult                  | —                     | —                                       |
+| `thêlzimâ`     | `thêlzimâ`     | n I f   | a rite; anything done for a god in the proper order          | —                     | —                                       |
+| `gagekâ`       | `gagekâ`       | n I f   | a sacrifice; an offering burned                              | —                     | —                                       |
+| `kûrzâlis`     | `kûrdhâlis`    | n III f | an altar                                                     | —                     | —                                       |
+| `nêkhaimon`    | `nêkhaimon`    | n II n  | a wayside shrine                                             | —                     | —                                       |
+| `zaron`        | `dharon`       | n II n  | an oath; a binding sworn before a god                        | —                     | [[skill-vylarilng\|Vylari Language]]    |
+| `zarâthen`     | `dharâthen`    | v â     | to swear; to bind oneself                                    | —                     | —                                       |
+| `zarândôs`     | `dharândôs`    | n II m  | a sworn man; one under an oath                               | `zar-` + `-ândôs`     | [[skill-vylarilng\|Vylari Language]]    |
+| `thôlmezâ`     | `thôlmezâ`     | n I f   | a vow; a binding laid on oneself alone                       | —                     | —                                       |
+| `khêlmâron`    | `khêlmâron`    | n II n  | a curse; the words that put a person outside the gods' care  | —                     | —                                       |
+| `khêlmârthôs`  | `khêlmârthôs`  | adj     | accursed; put outside the gods' care and the law's           | `khêlmâr-` + `-thôs`  | —                                       |
+| `ôzêthon`      | `ôdhêthon`     | n II n  | an omen; a sign read in a bird or a flame                    | —                     | [[lore-secondread\|The Second Reading]] |
+| `ôzêthândôs`   | `ôdhêthândôs`  | n II m  | a diviner; one licensed to read signs                        | `ôzêth-` + `-ândôs`   | [[lore-secondread\|The Second Reading]] |
+| `yalthêzâ`     | `yalthêzâ`     | n I f   | a prayer                                                     | —                     | —                                       |
+| `zêlmârôs`     | `dhêlmârôs`    | adj     | pure; fit to approach a god                                  | —                     | —                                       |
+| `thîrêlôs`     | `thîrêlôs`     | adj     | set apart; of ground that may not be crossed under arms      | —                     | —                                       |
+| `karâlzon`     | `k'arâlzon`    | n II n  | the kept fire; the hearth of a house, never let go out       | —                     | —                                       |
+| `karâlzândis`  | `karâlzândis`  | n III m | the household gods; those of the kept fire                   | `karâlz-` + `-ândis`  | —                                       |
+| `zîravon`      | `dhîrawon`     | n II n  | the soul; the breath that goes to the ancestors              | —                     | —                                       |
+| `zîkhon`       | `dhîkhon`      | n II n  | fate; what is spoken before a life begins                    | —                     | —                                       |
 
 ### Ancestors, the house and the name
 
@@ -387,35 +387,35 @@ A Vylari house keeps its dead in the hall. Each ancestor who held office has a _
 
 The household, _zôrkhâ_, is everyone under one roof and one master: wife, children, freedmen, slaves and the clients who come to the door each morning. Its master, the _zôrkhândôs_, answers for all of them at law and holds a power over his children that ends only at his death. So the words for kin are many and exact, and so is the vocabulary of inheritance: an heir is named in a will, a son may be adopted from another house when a line runs short, and _aipsênâ_ (adoption) is as honorable a way to get an heir as any other. The worst thing that can happen to a name has a word of its own: _nêhârlon_, the unnaming, which strikes a person from every roll and forbids anyone to say the name aloud.
 
-| Form          | Ancient       | Class   | Gloss                                                                | Built from           | Attested                             |
-| ------------- | ------------- | ------- | -------------------------------------------------------------------- | -------------------- | ------------------------------------ |
-| `kalmêthar`   | `kalmêthar`   | n III m | an ancestor; one of the dead a house still counts                    | —                    | [[skill-vylarilng\|Vylari Language]] |
-| `lâvûrâ`      | `lâbûrâ`      | n I f   | an ancestor's face; the wax mask kept in the hall of a house         | —                    | —                                    |
-| `zêrthâs`     | `dhêrthâs`    | n hal   | a founder; the ancestor a house is named for                         | —                    | —                                    |
-| `dôrthênê`    | `dôrthênê`    | n V f   | a line; a lineage traced through the hall's masks                    | —                    | [[skill-vylarilng\|Vylari Language]] |
-| `thêlvarâlon` | `thêlwarâlon` | n II n  | a noble house; a line with a seat in the Senate                      | `thêlvar-` + `-âlon` | —                                    |
-| `zôrkhâ`      | `dhôrkhâ`     | n I f   | a household; everyone under one roof and one master, slaves included | —                    | —                                    |
-| `zôrkhândôs`  | `zôrkhândôs`  | n II m  | the master of a household; the man who answers for everyone in it    | `zôrkh-` + `-ândôs`  | —                                    |
-| `hêlthôs`     | `hêlthôs`     | n II m  | a father                                                             | —                    | —                                    |
-| `mêzârâ`      | `mêdhârâ`     | n I f   | a mother                                                             | —                    | —                                    |
-| `nûrêthôs`    | `nûrêthôs`    | n II m  | a son                                                                | —                    | —                                    |
-| `nûrêthâ`     | `nûrêthâ`     | n I f   | a daughter                                                           | —                    | —                                    |
-| `sêmrôthôs`   | `sêmrôthôs`   | n II m  | a brother                                                            | —                    | —                                    |
-| `sêmrôthâ`    | `sêmrôthâ`    | n I f   | a sister                                                             | —                    | —                                    |
-| `nûrizon`     | `nûrizon`     | n II n  | a child; a person not yet of age, and in law not yet a person        | —                    | —                                    |
-| `kâmbêthâ`    | `kâmbêthâ`    | n I f   | a wife; a woman married into a household                             | —                    | —                                    |
-| `kâmbêthôs`   | `kâmbêthôs`   | n II m  | a husband                                                            | —                    | —                                    |
-| `kôndâmôs`    | `kôndâmôs`    | n II m  | an heir; the one a will names                                        | —                    | —                                    |
-| `kôndâmon`    | `kôndâmon`    | n II n  | an inheritance; what passes at a death                               | —                    | —                                    |
-| `aipsênâ`     | `aipsênâ`     | n I f   | an adoption; the taking of an heir from another house                | —                    | —                                    |
-| `lêmvisâ`     | `lêmwisâ`     | n I f   | a will; the writing that names the heir                              | —                    | —                                    |
-| `gêbrinâ`     | `gêbrinâ`     | n I f   | a dowry                                                              | —                    | —                                    |
-| `hârlên`      | `hârlên`      | n III n | a name                                                               | —                    | [[skill-vylarilng\|Vylari Language]] |
-| `hârlênândis` | `hârlênândis` | n III n | the house name; a name of those of a founder                         | `hârlên` + `-ândis`  | —                                    |
-| `kirâmhârlên` | `kirâmhârlên` | n III n | an earned name; the epithet given after a deed or a death            | `kirâm-` + `hârlên`  | —                                    |
-| `nêhârlon`    | `nêhârlon`    | n II n  | an unnaming; the striking of a name from every roll                  | —                    | —                                    |
-| `kâmbezâ`     | `kâmbezâ`     | n I f   | a marriage; the handing of a woman from one household to another     | —                    | —                                    |
-| `sôrêthândis` | `sôrêthândis` | n III m | kin; those of one blood                                              | —                    | —                                    |
+| Form          | Ancient       | Class   | Gloss                                                                | Built from           | Attested                                      |
+| ------------- | ------------- | ------- | -------------------------------------------------------------------- | -------------------- | --------------------------------------------- |
+| `kalmêthar`   | `kalmêthar`   | n III m | an ancestor; one of the dead a house still counts                    | —                    | [[skill-vylarilng\|Vylari Language]]          |
+| `lâvûrâ`      | `lâbûrâ`      | n I f   | an ancestor's face; the wax mask kept in the hall of a house         | —                    | [[lore-maskspraise\|The Praise of the Masks]] |
+| `zêrthâs`     | `dhêrthâs`    | n hal   | a founder; the ancestor a house is named for                         | —                    | —                                             |
+| `dôrthênê`    | `dôrthênê`    | n V f   | a line; a lineage traced through the hall's masks                    | —                    | [[skill-vylarilng\|Vylari Language]]          |
+| `thêlvarâlon` | `thêlwarâlon` | n II n  | a noble house; a line with a seat in the Senate                      | `thêlvar-` + `-âlon` | —                                             |
+| `zôrkhâ`      | `dhôrkhâ`     | n I f   | a household; everyone under one roof and one master, slaves included | —                    | —                                             |
+| `zôrkhândôs`  | `zôrkhândôs`  | n II m  | the master of a household; the man who answers for everyone in it    | `zôrkh-` + `-ândôs`  | —                                             |
+| `hêlthôs`     | `hêlthôs`     | n II m  | a father                                                             | —                    | —                                             |
+| `mêzârâ`      | `mêdhârâ`     | n I f   | a mother                                                             | —                    | —                                             |
+| `nûrêthôs`    | `nûrêthôs`    | n II m  | a son                                                                | —                    | —                                             |
+| `nûrêthâ`     | `nûrêthâ`     | n I f   | a daughter                                                           | —                    | —                                             |
+| `sêmrôthôs`   | `sêmrôthôs`   | n II m  | a brother                                                            | —                    | —                                             |
+| `sêmrôthâ`    | `sêmrôthâ`    | n I f   | a sister                                                             | —                    | —                                             |
+| `nûrizon`     | `nûrizon`     | n II n  | a child; a person not yet of age, and in law not yet a person        | —                    | —                                             |
+| `kâmbêthâ`    | `kâmbêthâ`    | n I f   | a wife; a woman married into a household                             | —                    | —                                             |
+| `kâmbêthôs`   | `kâmbêthôs`   | n II m  | a husband                                                            | —                    | —                                             |
+| `kôndâmôs`    | `kôndâmôs`    | n II m  | an heir; the one a will names                                        | —                    | —                                             |
+| `kôndâmon`    | `kôndâmon`    | n II n  | an inheritance; what passes at a death                               | —                    | —                                             |
+| `aipsênâ`     | `aipsênâ`     | n I f   | an adoption; the taking of an heir from another house                | —                    | —                                             |
+| `lêmvisâ`     | `lêmwisâ`     | n I f   | a will; the writing that names the heir                              | —                    | —                                             |
+| `gêbrinâ`     | `gêbrinâ`     | n I f   | a dowry                                                              | —                    | —                                             |
+| `hârlên`      | `hârlên`      | n III n | a name                                                               | —                    | [[skill-vylarilng\|Vylari Language]]          |
+| `hârlênândis` | `hârlênândis` | n III n | the house name; a name of those of a founder                         | `hârlên` + `-ândis`  | —                                             |
+| `kirâmhârlên` | `kirâmhârlên` | n III n | an earned name; the epithet given after a deed or a death            | `kirâm-` + `hârlên`  | —                                             |
+| `nêhârlon`    | `nêhârlon`    | n II n  | an unnaming; the striking of a name from every roll                  | —                    | —                                             |
+| `kâmbezâ`     | `kâmbezâ`     | n I f   | a marriage; the handing of a woman from one household to another     | —                    | —                                             |
+| `sôrêthândis` | `sôrêthândis` | n III m | kin; those of one blood                                              | —                    | —                                             |
 
 ### Precedence, patronage and what is owed
 
@@ -425,35 +425,35 @@ The patron, _daimêlâ_, is a class I noun that takes masculine agreement, and t
 
 The words for persons follow the genders. A citizen, _vêrôsâ_, is a feminine noun whether the citizen is a man or a woman, because the word is old and formal. A slave, _thrâkhon_, is neuter, as a tool is. A freedman, _lîskôthôs_, has a gender because manumission gave him one, and _lîskaimâ_ (manumission) is the act that does it.
 
-| Form          | Ancient       | Class  | Gloss                                                                                                        | Built from          | Attested                             |
-| ------------- | ------------- | ------ | ------------------------------------------------------------------------------------------------------------ | ------------------- | ------------------------------------ |
-| `zîrôthôs`    | `zîrôthôs`    | n II m | a step of rank; one rung of the order                                                                        | —                   | —                                    |
-| `zîrôthâlon`  | `zîrôthâlon`  | n II n | precedence; the order of a room worked out to the step                                                       | `zîrôth-` + `-âlon` | —                                    |
-| `zîrôthâthen` | `zîrôthâthen` | v â    | to place; to settle a stranger's rank before anything else is said                                           | —                   | —                                    |
-| `anzîrôthôs`  | `anzîrôthôs`  | adj    | unplaced; of a person whose rank nobody knows                                                                | —                   | —                                    |
-| `daimêlâ`     | `daimêlâ`     | n I m  | a patron; a lord who carries clients                                                                         | —                   | [[skill-vylarilng\|Vylari Language]] |
-| `daimêlâlon`  | `daimêlâlon`  | n II n | patronage; the standing of a patron and the duty of it                                                       | `daimêl-` + `-âlon` | —                                    |
-| `thelmôs`     | `thelmôs`     | n II m | a client; one carried by a patron, who attends him in the morning                                            | —                   | [[skill-vylarilng\|Vylari Language]] |
-| `thelmâlon`   | `thelmâlon`   | n II n | clientage; the attendance and what it buys                                                                   | `thelm-` + `-âlon`  | —                                    |
-| `prâmôlzâ`    | `prâmôlzâ`    | n I f  | the morning call; the client's attendance at his patron's door                                               | —                   | —                                    |
-| `ôrphênon`    | `ôrphênon`    | n II n | a favor; a thing done that leaves a debt                                                                     | —                   | —                                    |
-| `ôrphênâthen` | `ôrphênâthen` | v â    | to owe; to stand under a favor                                                                               | —                   | [[skill-vylarilng\|Vylari Language]] |
-| `vêldâ`       | `wêldâ`       | n I f  | honor; a public thing, made of offices held and remembered                                                   | —                   | —                                    |
-| `anvêldâ`     | `anwêldâ`     | n I f  | dishonor; a name the city has stopped repeating                                                              | —                   | —                                    |
-| `sôlkimâ`     | `sôlkimâ`     | n I f  | gravity; the weight of manner proper to a man of standing                                                    | —                   | —                                    |
-| `yêrpâlon`    | `yêrpâlon`    | n II n | duty; what is owed to the gods, the ancestors, the house, the patron, the city and the empire, in that order | —                   | —                                    |
-| `dûmvarôs`    | `dûmwarôs`    | n II m | a guest; one under a host's roof and his protection                                                          | —                   | —                                    |
-| `dûmvarâlon`  | `dûmwarâlon`  | n II n | guest-right; what a host owes a guest and a guest a host                                                     | `dûmvar-` + `-âlon` | —                                    |
-| `haldêthôs`   | `haldêthôs`   | n II m | a host                                                                                                       | —                   | —                                    |
-| `vêrôsâ`      | `wêrôsâ`      | n I f  | a citizen; a person who holds a share in the city                                                            | —                   | —                                    |
-| `vêrôsâlon`   | `wêrôsâlon`   | n II n | citizenship; the share itself                                                                                | `vêrôs-` + `-âlon`  | —                                    |
-| `pâlvêthôs`   | `pâlwêthôs`   | n II m | a resident without the share; a free man of the provinces                                                    | —                   | —                                    |
-| `thrâkhon`    | `thrâkhon`    | n II n | a slave; a person owned, declined as a thing                                                                 | —                   | —                                    |
-| `lîskôthôs`   | `lîskôthôs`   | n II m | a freedman; a slave given a gender by manumission                                                            | —                   | —                                    |
-| `lîskôthâ`    | `lîskôthâ`    | n I f  | a freedwoman                                                                                                 | —                   | —                                    |
-| `lîskaimâ`    | `lîskaimâ`    | n I f  | manumission; the act that frees a slave and gives a name a gender                                            | —                   | —                                    |
-| `gûlmâlênôs`  | `ghûlmâlênôs` | n II m | a man of the horse order; one of the equestrian estate                                                       | `gûlmâl-` + `-ênôs` | —                                    |
-| `kurthândôs`  | `kurthândôs`  | n II m | a senator; one who sits in the Senate                                                                        | `kurth-` + `-ândôs` | —                                    |
+| Form          | Ancient       | Class  | Gloss                                                                                                        | Built from          | Attested                               |
+| ------------- | ------------- | ------ | ------------------------------------------------------------------------------------------------------------ | ------------------- | -------------------------------------- |
+| `zîrôthôs`    | `zîrôthôs`    | n II m | a step of rank; one rung of the order                                                                        | —                   | —                                      |
+| `zîrôthâlon`  | `zîrôthâlon`  | n II n | precedence; the order of a room worked out to the step                                                       | `zîrôth-` + `-âlon` | —                                      |
+| `zîrôthâthen` | `zîrôthâthen` | v â    | to place; to settle a stranger's rank before anything else is said                                           | —                   | —                                      |
+| `anzîrôthôs`  | `anzîrôthôs`  | adj    | unplaced; of a person whose rank nobody knows                                                                | —                   | —                                      |
+| `daimêlâ`     | `daimêlâ`     | n I m  | a patron; a lord who carries clients                                                                         | —                   | [[skill-vylarilng\|Vylari Language]]   |
+| `daimêlâlon`  | `daimêlâlon`  | n II n | patronage; the standing of a patron and the duty of it                                                       | `daimêl-` + `-âlon` | —                                      |
+| `thelmôs`     | `thelmôs`     | n II m | a client; one carried by a patron, who attends him in the morning                                            | —                   | [[skill-vylarilng\|Vylari Language]]   |
+| `thelmâlon`   | `thelmâlon`   | n II n | clientage; the attendance and what it buys                                                                   | `thelm-` + `-âlon`  | —                                      |
+| `prâmôlzâ`    | `prâmôlzâ`    | n I f  | the morning call; the client's attendance at his patron's door                                               | —                   | [[lore-morningcall\|The Morning Call]] |
+| `ôrphênon`    | `ôrphênon`    | n II n | a favor; a thing done that leaves a debt                                                                     | —                   | —                                      |
+| `ôrphênâthen` | `ôrphênâthen` | v â    | to owe; to stand under a favor                                                                               | —                   | [[skill-vylarilng\|Vylari Language]]   |
+| `vêldâ`       | `wêldâ`       | n I f  | honor; a public thing, made of offices held and remembered                                                   | —                   | —                                      |
+| `anvêldâ`     | `anwêldâ`     | n I f  | dishonor; a name the city has stopped repeating                                                              | —                   | —                                      |
+| `sôlkimâ`     | `sôlkimâ`     | n I f  | gravity; the weight of manner proper to a man of standing                                                    | —                   | —                                      |
+| `yêrpâlon`    | `yêrpâlon`    | n II n | duty; what is owed to the gods, the ancestors, the house, the patron, the city and the empire, in that order | —                   | —                                      |
+| `dûmvarôs`    | `dûmwarôs`    | n II m | a guest; one under a host's roof and his protection                                                          | —                   | —                                      |
+| `dûmvarâlon`  | `dûmwarâlon`  | n II n | guest-right; what a host owes a guest and a guest a host                                                     | `dûmvar-` + `-âlon` | —                                      |
+| `haldêthôs`   | `haldêthôs`   | n II m | a host                                                                                                       | —                   | —                                      |
+| `vêrôsâ`      | `wêrôsâ`      | n I f  | a citizen; a person who holds a share in the city                                                            | —                   | —                                      |
+| `vêrôsâlon`   | `wêrôsâlon`   | n II n | citizenship; the share itself                                                                                | `vêrôs-` + `-âlon`  | —                                      |
+| `pâlvêthôs`   | `pâlwêthôs`   | n II m | a resident without the share; a free man of the provinces                                                    | —                   | —                                      |
+| `thrâkhon`    | `thrâkhon`    | n II n | a slave; a person owned, declined as a thing                                                                 | —                   | —                                      |
+| `lîskôthôs`   | `lîskôthôs`   | n II m | a freedman; a slave given a gender by manumission                                                            | —                   | —                                      |
+| `lîskôthâ`    | `lîskôthâ`    | n I f  | a freedwoman                                                                                                 | —                   | —                                      |
+| `lîskaimâ`    | `lîskaimâ`    | n I f  | manumission; the act that frees a slave and gives a name a gender                                            | —                   | —                                      |
+| `gûlmâlênôs`  | `ghûlmâlênôs` | n II m | a man of the horse order; one of the equestrian estate                                                       | `gûlmâl-` + `-ênôs` | —                                      |
+| `kurthândôs`  | `kurthândôs`  | n II m | a senator; one who sits in the Senate                                                                        | `kurth-` + `-ândôs` | —                                      |
 
 ### Law, the court and the written act
 
@@ -594,34 +594,34 @@ A Vylari city is _vêrâmis_, the walled place of citizens, and a citizen is _v�
 
 The words for the city's works are proud and particular: the aqueduct is _ûlmêrpôzêrâ_, a road for water, and it is built like one. The words for its decay are courteous. A building nobody has repaired in two generations is _hûmelthândar_, resting, and a Vylarian walking a visitor past a roofless temple calls it resting with a straight face. The city has no plain word for a ruin inside its own walls, and a visitor who supplies one gives offense.
 
-| Form           | Ancient        | Class   | Gloss                                                           | Built from            | Attested                             |
-| -------------- | -------------- | ------- | --------------------------------------------------------------- | --------------------- | ------------------------------------ |
-| `vêrâmis`      | `wêrâmis`      | n III f | a city; a walled place of citizens                              | —                     | —                                    |
-| `thîrûthrimâ`  | `thîrûthrimâ`  | n I f   | the hallowed boundary of a city, inside which no legion marches | `thîr-` + `ûthrimâ`   | —                                    |
-| `rêmbâlis`     | `rêmbâlis`     | n III f | a square; the open place of public business                     | —                     | —                                    |
-| `kâzthôs`      | `kâzthôs`      | n II m  | a street                                                        | —                     | —                                    |
-| `dôrkimâ`      | `dôrkimâ`      | n I f   | a column                                                        | —                     | —                                    |
-| `khâmbêlon`    | `khâmbêlon`    | n II n  | an arch                                                         | —                     | —                                    |
-| `ûlmêrâ`       | `ûlmêrâ`       | n I f   | water                                                           | —                     | —                                    |
-| `ûlmêrpôzêrâ`  | `ûlmêrpôdhêrâ` | n I f   | an aqueduct; a road for water                                   | `ûlmêr-` + `pôzêrâ`   | —                                    |
-| `zûmbezon`     | `dhûmbezon`    | n II n  | a cistern                                                       | —                     | —                                    |
-| `sôzrâkis`     | `sôdhrâkis`    | n III f | a drain; a sewer under a street                                 | —                     | —                                    |
-| `zôlgon`       | `dhôlgon`      | n II n  | a tenement; a block of many stories in brick and timber         | —                     | —                                    |
-| `thêgaimôs`    | `thêgaimôs`    | n II m  | a townhouse; the house of a family of standing                  | —                     | —                                    |
-| `kômrêlâ`      | `kômrêlâ`      | n I f   | a villa; a country house                                        | —                     | —                                    |
-| `kômrêlâlon`   | `kômrêlâlon`   | n II n  | an estate; a villa with its land, slaves and tenants            | `kômrêl-` + `-âlon`   | —                                    |
-| `ôlthimâ`      | `ôlthimâ`      | n I f   | a walled garden; the garden-villa at a city's edge              | —                     | —                                    |
-| `thûvâlis`     | `thûbâlis`     | n III f | a bathhouse                                                     | —                     | —                                    |
-| `thâmlêzon`    | `thâmlêzon`    | n II n  | a theater                                                       | —                     | —                                    |
-| `râthaunâ`     | `râthaunâ`     | n I f   | a racecourse                                                    | —                     | —                                    |
-| `pâlthôkis`    | `pâlthôkis`    | n III f | a brick                                                         | —                     | —                                    |
-| `khâlmezar`    | `khâlmezar`    | n III n | marble                                                          | —                     | —                                    |
-| `grûmbâlon`    | `grûmbâlon`    | n II n  | a quarry; a cut in a hill for stone                             | —                     | —                                    |
-| `mâlkôthôs`    | `mâlkôthôs`    | n II m  | a hill; one of the hills a city sits on                         | —                     | —                                    |
-| `ithrôlâ`      | `ithrôlâ`      | n I f   | a lamp; a cold-fire lamp of the Ordo                            | —                     | —                                    |
-| `sêlkhôrâ`     | `sêlkhôrâ`     | n I f   | a granary; the state granary under seal                         | —                     | —                                    |
-| `hûmelthâthen` | `hûmelthâthen` | v â     | to rest; said of a building no one has repaired                 | —                     | —                                    |
-| `hûmelthândar` | `hûmelthândar` | adj III | resting; the courteous word for a ruin                          | `hûmelth-` + `-ândar` | [[skill-vylarilng\|Vylari Language]] |
+| Form           | Ancient        | Class   | Gloss                                                           | Built from            | Attested                                     |
+| -------------- | -------------- | ------- | --------------------------------------------------------------- | --------------------- | -------------------------------------------- |
+| `vêrâmis`      | `wêrâmis`      | n III f | a city; a walled place of citizens                              | —                     | —                                            |
+| `thîrûthrimâ`  | `thîrûthrimâ`  | n I f   | the hallowed boundary of a city, inside which no legion marches | `thîr-` + `ûthrimâ`   | [[lore-walkedline\|The Walking of the Line]] |
+| `rêmbâlis`     | `rêmbâlis`     | n III f | a square; the open place of public business                     | —                     | —                                            |
+| `kâzthôs`      | `kâzthôs`      | n II m  | a street                                                        | —                     | —                                            |
+| `dôrkimâ`      | `dôrkimâ`      | n I f   | a column                                                        | —                     | —                                            |
+| `khâmbêlon`    | `khâmbêlon`    | n II n  | an arch                                                         | —                     | —                                            |
+| `ûlmêrâ`       | `ûlmêrâ`       | n I f   | water                                                           | —                     | —                                            |
+| `ûlmêrpôzêrâ`  | `ûlmêrpôdhêrâ` | n I f   | an aqueduct; a road for water                                   | `ûlmêr-` + `pôzêrâ`   | —                                            |
+| `zûmbezon`     | `dhûmbezon`    | n II n  | a cistern                                                       | —                     | —                                            |
+| `sôzrâkis`     | `sôdhrâkis`    | n III f | a drain; a sewer under a street                                 | —                     | —                                            |
+| `zôlgon`       | `dhôlgon`      | n II n  | a tenement; a block of many stories in brick and timber         | —                     | —                                            |
+| `thêgaimôs`    | `thêgaimôs`    | n II m  | a townhouse; the house of a family of standing                  | —                     | —                                            |
+| `kômrêlâ`      | `kômrêlâ`      | n I f   | a villa; a country house                                        | —                     | —                                            |
+| `kômrêlâlon`   | `kômrêlâlon`   | n II n  | an estate; a villa with its land, slaves and tenants            | `kômrêl-` + `-âlon`   | —                                            |
+| `ôlthimâ`      | `ôlthimâ`      | n I f   | a walled garden; the garden-villa at a city's edge              | —                     | —                                            |
+| `thûvâlis`     | `thûbâlis`     | n III f | a bathhouse                                                     | —                     | —                                            |
+| `thâmlêzon`    | `thâmlêzon`    | n II n  | a theater                                                       | —                     | —                                            |
+| `râthaunâ`     | `râthaunâ`     | n I f   | a racecourse                                                    | —                     | —                                            |
+| `pâlthôkis`    | `pâlthôkis`    | n III f | a brick                                                         | —                     | —                                            |
+| `khâlmezar`    | `khâlmezar`    | n III n | marble                                                          | —                     | —                                            |
+| `grûmbâlon`    | `grûmbâlon`    | n II n  | a quarry; a cut in a hill for stone                             | —                     | —                                            |
+| `mâlkôthôs`    | `mâlkôthôs`    | n II m  | a hill; one of the hills a city sits on                         | —                     | —                                            |
+| `ithrôlâ`      | `ithrôlâ`      | n I f   | a lamp; a cold-fire lamp of the Ordo                            | —                     | —                                            |
+| `sêlkhôrâ`     | `sêlkhôrâ`     | n I f   | a granary; the state granary under seal                         | —                     | —                                            |
+| `hûmelthâthen` | `hûmelthâthen` | v â     | to rest; said of a building no one has repaired                 | —                     | —                                            |
+| `hûmelthândar` | `hûmelthândar` | adj III | resting; the courteous word for a ruin                          | `hûmelth-` + `-ândar` | [[skill-vylarilng\|Vylari Language]]         |
 
 ### Craft, guild and the kept secret
 
@@ -793,38 +793,40 @@ The words of learning were made for the Senate and the courts first and the scho
 
 The arcane order borrows the vocabulary of the guilds and the schools, and its grades read as a career: an initiate, an adept licensed to work alone, a master, and a prelate with a seat on the order's council. Magic itself is _thôrdimâ_, the art, and a mage is one who practices it.
 
-| Form             | Ancient          | Class   | Gloss                                                        | Built from             | Attested                             |
-| ---------------- | ---------------- | ------- | ------------------------------------------------------------ | ---------------------- | ------------------------------------ |
-| `sôrimâ`         | `sôrimâ`         | n I f   | a song                                                       | —                      | [[skill-vylarilng\|Vylari Language]] |
-| `sôrimâthen`     | `sôrimâthen`     | v â     | to sing                                                      | —                      | —                                    |
-| `sôrimândôs`     | `sôrimândôs`     | n II m  | a poet; a maker of songs                                     | `sôrim-` + `-ândôs`    | —                                    |
-| `dôkhâthen`      | `dôkhâthen`      | v â     | to speak; to say before others                               | —                      | —                                    |
-| `dôkhêmon`       | `dôkhêmon`       | n II n  | an oration; a speech made in the Senate or the square        | —                      | —                                    |
-| `dôkhândôs`      | `dôkhândôs`      | n II m  | an orator                                                    | `dôkh-` + `-ândôs`     | —                                    |
-| `thârlêmâ`       | `thârlêmâ`       | n I f   | a tongue; a language                                         | —                      | —                                    |
-| `lâmbizon`       | `lâmbizon`       | n II n  | a word                                                       | —                      | —                                    |
-| `sêmarzon`       | `sêmarzon`       | n II n  | a letter; one sign of the script                             | —                      | —                                    |
-| `thîlâthen`      | `thîlâthen`      | v â     | to write                                                     | —                      | —                                    |
-| `thîlândôs`      | `thîlândôs`      | n II m  | a scribe                                                     | `thîl-` + `-ândôs`     | —                                    |
-| `thîlândon`      | `thîlândon`      | n II n  | a book; a written thing                                      | `thîl-` + `-ândon`     | —                                    |
-| `thîlândâlon`    | `thîlândâlon`    | n II n  | an archive; a house of written things                        | `thîlând-` + `-âlon`   | —                                    |
-| `mârendis`       | `mârendis`       | n III f | wisdom                                                       | —                      | —                                    |
-| `mârendâlon`     | `mârendâlon`     | n II n  | a school                                                     | `mârend-` + `-âlon`    | —                                    |
-| `mârendândôs`    | `mârendândôs`    | n II m  | a master; a teacher licensed to teach                        | `mârend-` + `-ândôs`   | —                                    |
-| `zêtmârendâlon`  | `zêtmârendâlon`  | n II n  | the University; the school of every learning                 | `zêt-` + `mârendâlon`  | —                                    |
-| `gâlêthôs`       | `ghâlêthôs`      | n II m  | a student                                                    | —                      | —                                    |
-| `khezdâthen`     | `khezdâthen`     | v â     | to know                                                      | —                      | —                                    |
-| `lôrêzâthen`     | `lôrêzâthen`     | v â     | to read aloud; to lecture                                    | —                      | —                                    |
-| `lôrêzândôs`     | `lôrêzândôs`     | n II m  | a reader; a lecturer of the University                       | `lôrêz-` + `-ândôs`    | —                                    |
-| `ôlzêmon`        | `ôldhêmon`       | n II n  | a history; an account of what was done                       | —                      | —                                    |
-| `thôrdimâ`       | `thôrdimâ`       | n I f   | magic; the art                                               | —                      | —                                    |
-| `thôrdimândôs`   | `thôrdimândôs`   | n II m  | a mage                                                       | `thôrdim-` + `-ândôs`  | —                                    |
-| `phênthâlon`     | `phênthâlon`     | n II n  | an order; a body living by a rule and a charter of its own   | —                      | —                                    |
-| `khôsthêmôs`     | `khôsthêmôs`     | n II m  | an initiate; one newly taken into an order                   | —                      | —                                    |
-| `thêrmândôs`     | `thêrmândôs`     | n II m  | an adept; a practitioner licensed to work alone              | —                      | —                                    |
-| `hôlmârendândôs` | `hôlmârendândôs` | n II m  | a prelate; a senior master with a seat on an order's council | `hôl-` + `mârendândôs` | —                                    |
-| `zûlêthâlon`     | `zûlêthâlon`     | n II n  | a fellowship; one of the six schools of an order             | —                      | —                                    |
-| `kûthaurâ`       | `kûthaurâ`       | n I f   | an orrery; a machine that turns the heavens                  | —                      | —                                    |
+| Form             | Ancient          | Class   | Gloss                                                                     | Built from             | Attested                                        |
+| ---------------- | ---------------- | ------- | ------------------------------------------------------------------------- | ---------------------- | ----------------------------------------------- |
+| `sôrimâ`         | `sôrimâ`         | n I f   | a song                                                                    | —                      | [[skill-vylarilng\|Vylari Language]]            |
+| `sôrimâthen`     | `sôrimâthen`     | v â     | to sing                                                                   | —                      | —                                               |
+| `sôrimândôs`     | `sôrimândôs`     | n II m  | a poet; a maker of songs                                                  | `sôrim-` + `-ândôs`    | —                                               |
+| `pôzêrsôrimâ`    | `pôdhêrsôrimâ`   | n I f   | a road-song; the song a legion marches to, called and answered            | `pôzêr-` + `sôrimâ`    | [[lore-goldbandsng\|The Song of the Gold Band]] |
+| `hîlthêrsôrimâ`  | `hîlthêrsôrimâ`  | n I f   | an elegy; a song of the evening, for what is lost or kept from the singer | `hîlthêr-` + `sôrimâ`  | [[lore-eveningsongs\|The Evening Songs]]        |
+| `dôkhâthen`      | `dôkhâthen`      | v â     | to speak; to say before others                                            | —                      | —                                               |
+| `dôkhêmon`       | `dôkhêmon`       | n II n  | an oration; a speech made in the Senate or the square                     | —                      | —                                               |
+| `dôkhândôs`      | `dôkhândôs`      | n II m  | an orator                                                                 | `dôkh-` + `-ândôs`     | —                                               |
+| `thârlêmâ`       | `thârlêmâ`       | n I f   | a tongue; a language                                                      | —                      | —                                               |
+| `lâmbizon`       | `lâmbizon`       | n II n  | a word                                                                    | —                      | —                                               |
+| `sêmarzon`       | `sêmarzon`       | n II n  | a letter; one sign of the script                                          | —                      | —                                               |
+| `thîlâthen`      | `thîlâthen`      | v â     | to write                                                                  | —                      | —                                               |
+| `thîlândôs`      | `thîlândôs`      | n II m  | a scribe                                                                  | `thîl-` + `-ândôs`     | —                                               |
+| `thîlândon`      | `thîlândon`      | n II n  | a book; a written thing                                                   | `thîl-` + `-ândon`     | —                                               |
+| `thîlândâlon`    | `thîlândâlon`    | n II n  | an archive; a house of written things                                     | `thîlând-` + `-âlon`   | —                                               |
+| `mârendis`       | `mârendis`       | n III f | wisdom                                                                    | —                      | —                                               |
+| `mârendâlon`     | `mârendâlon`     | n II n  | a school                                                                  | `mârend-` + `-âlon`    | —                                               |
+| `mârendândôs`    | `mârendândôs`    | n II m  | a master; a teacher licensed to teach                                     | `mârend-` + `-ândôs`   | —                                               |
+| `zêtmârendâlon`  | `zêtmârendâlon`  | n II n  | the University; the school of every learning                              | `zêt-` + `mârendâlon`  | —                                               |
+| `gâlêthôs`       | `ghâlêthôs`      | n II m  | a student                                                                 | —                      | —                                               |
+| `khezdâthen`     | `khezdâthen`     | v â     | to know                                                                   | —                      | —                                               |
+| `lôrêzâthen`     | `lôrêzâthen`     | v â     | to read aloud; to lecture                                                 | —                      | —                                               |
+| `lôrêzândôs`     | `lôrêzândôs`     | n II m  | a reader; a lecturer of the University                                    | `lôrêz-` + `-ândôs`    | —                                               |
+| `ôlzêmon`        | `ôldhêmon`       | n II n  | a history; an account of what was done                                    | —                      | —                                               |
+| `thôrdimâ`       | `thôrdimâ`       | n I f   | magic; the art                                                            | —                      | —                                               |
+| `thôrdimândôs`   | `thôrdimândôs`   | n II m  | a mage                                                                    | `thôrdim-` + `-ândôs`  | —                                               |
+| `phênthâlon`     | `phênthâlon`     | n II n  | an order; a body living by a rule and a charter of its own                | —                      | —                                               |
+| `khôsthêmôs`     | `khôsthêmôs`     | n II m  | an initiate; one newly taken into an order                                | —                      | —                                               |
+| `thêrmândôs`     | `thêrmândôs`     | n II m  | an adept; a practitioner licensed to work alone                           | —                      | —                                               |
+| `hôlmârendândôs` | `hôlmârendândôs` | n II m  | a prelate; a senior master with a seat on an order's council              | `hôl-` + `mârendândôs` | —                                               |
+| `zûlêthâlon`     | `zûlêthâlon`     | n II n  | a fellowship; one of the six schools of an order                          | —                      | —                                               |
+| `kûthaurâ`       | `kûthaurâ`       | n I f   | an orrery; a machine that turns the heavens                               | —                      | —                                               |
 
 ### Qualities
 
@@ -1642,6 +1644,20 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | **the insult**                                 | [[lore-commissioncmp\|The Commission Compromise]]                                                                                                                                                                                                                                                                                                                                                                                                      | `translation`   | —                                       |
 | **the winter the mountain kept**               | [[lore-twelfthloss\|The Loss of the Twelfth]]                                                                                                                                                                                                                                                                                                                                                                                                          | `translation`   | —                                       |
 | **the recovery of the eagle**                  | [[lore-blackmarshbtl\|The Battle of the Black Marsh]]                                                                                                                                                                                                                                                                                                                                                                                                  | `translation`   | —                                       |
+| **The Walking of the Line**                    | [[lore-walkedline\|The Walking of the Line]]                                                                                                                                                                                                                                                                                                                                                                                                           | `translation`   | —                                       |
+| **The Sixth Book of the Hallowed Boundary**    | [[lore-walkedline\|The Walking of the Line]]                                                                                                                                                                                                                                                                                                                                                                                                           | `translation`   | —                                       |
+| **The Song of the Gold Band**                  | [[lore-goldbandsng\|The Song of the Gold Band]]                                                                                                                                                                                                                                                                                                                                                                                                        | `translation`   | —                                       |
+| **The Ûrzêlthôs's Road-Song**                  | [[lore-goldbandsng\|The Song of the Gold Band]]                                                                                                                                                                                                                                                                                                                                                                                                        | `translation`   | —                                       |
+| **The Praise of the Masks**                    | [[lore-maskspraise\|The Praise of the Masks]]                                                                                                                                                                                                                                                                                                                                                                                                          | `translation`   | —                                       |
+| **The Oration at Aravantia**                   | [[lore-maskspraise\|The Praise of the Masks]]                                                                                                                                                                                                                                                                                                                                                                                                          | `translation`   | —                                       |
+| **The Morning Call**                           | [[lore-morningcall\|The Morning Call]]                                                                                                                                                                                                                                                                                                                                                                                                                 | `translation`   | —                                       |
+| **The Ninety Stairs**                          | [[lore-morningcall\|The Morning Call]]                                                                                                                                                                                                                                                                                                                                                                                                                 | `translation`   | —                                       |
+| **The Words Kept from the Fire**               | [[lore-firewords\|The Words Kept from the Fire]]                                                                                                                                                                                                                                                                                                                                                                                                       | `translation`   | —                                       |
+| **The Jurist's Rules**                         | [[lore-firewords\|The Words Kept from the Fire]]                                                                                                                                                                                                                                                                                                                                                                                                       | `translation`   | —                                       |
+| **The Second Reading**                         | [[lore-secondread\|The Second Reading]]                                                                                                                                                                                                                                                                                                                                                                                                                | `translation`   | —                                       |
+| **The Ôzêthândôs of the Twelfth**              | [[lore-secondread\|The Second Reading]]                                                                                                                                                                                                                                                                                                                                                                                                                | `translation`   | —                                       |
+| **The Evening Songs**                          | [[lore-eveningsongs\|The Evening Songs]]                                                                                                                                                                                                                                                                                                                                                                                                               | `translation`   | —                                       |
+| **The Songs from the Smoke Tower**             | [[lore-eveningsongs\|The Evening Songs]]                                                                                                                                                                                                                                                                                                                                                                                                               | `translation`   | —                                       |
 | **The Guardsmen**                              | [[affiliation-sorvan\|The Sorvan]]                                                                                                                                                                                                                                                                                                                                                                                                                     | `translation`   | —                                       |
 | **Torvel**                                     | [[place-sixhillsvyl\|Six Hills]], [[place-orzara\|Ôrzâra City]]                                                                                                                                                                                                                                                                                                                                                                                        | `vylari`        | —                                       |
 | **Mernel**                                     | [[place-sixhillsvyl\|Six Hills]], [[place-orzara\|Ôrzâra City]]                                                                                                                                                                                                                                                                                                                                                                                        | `vylari`        | —                                       |
