@@ -210,6 +210,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 
 | Name                            | Notes                                                              | Tongue        | Built from                |
 | ------------------------------- | ------------------------------------------------------------------ | ------------- | ------------------------- |
+| **Avoluthei**                   | [[place-avoluthei\|Avoluthei]]                                     | `kalihari`    | —                         |
 | **Avothani**                    | [[place-klhrsthstr\|Avothani]]                                     | `kalihari`    | —                         |
 | **Bearer of the Crisis**        | [[affiliation-tharivaan\|Bearer of the Crisis]]                    | `translation` | —                         |
 | **Bondservant**                 | [[affiliation-kalihara\|Bondservant]]                              | `translation` | —                         |
@@ -233,6 +234,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Islander**                    | [[affiliation-kalihara\|Islander]]                                 | `translation` | —                         |
 | **Ithaluori**                   | [[being-olvlthlr\|Ithaluori]]                                      | `kalihari`    | `itha-` + `luori-`        |
 | **Ithári'kaan**                 | [[affiliation-kalihara\|Ithári'kaan]]                              | `kalihari`    | `ithári` + `kaan-`        |
+| **Ithorianu**                   | [[place-ithorianu\|Ithorianu]]                                     | `kalihari`    | —                         |
 | **kaan'sili**                   | [[affiliation-tharivaan\|kaan'sili]]                               | `kalihari`    | `kaan-` + `sili-`         |
 | **kaan'thári**                  | [[affiliation-tharivaan\|kaan'thári]]                              | `kalihari`    | `kaan-` + `thári-`        |
 | **kaan'vaar**                   | [[affiliation-tharivaan\|kaan'vaar]]                               | `kalihari`    | `kaan-` + `vaar-`         |
@@ -248,8 +250,11 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Kalonei**                     | [[being-klnlvn\|Kalonei]]                                          | `kalihari`    | `kalo-` + `-nei`          |
 | **Kalovael**                    | [[lore-klhrflora\|Kalovael]]                                       | `kalihari`    | `kalo-` + `vael-`         |
 | **Keeper of the Failing Works** | [[affiliation-kalihara\|Keeper of the Failing Works]]              | `translation` | —                         |
+| **Koathevoi**                   | [[place-koathevoi\|Koathevoi]]                                     | `kalihari`    | —                         |
 | **Koavanu**                     | [[being-dpwtrfsh\|Koavanu]]                                        | `kalihari`    | `koa-` + `vanu-`          |
 | **Kuathivoel**                  | [[place-klhrdpfrst\|Kuathivoel]]                                   | `kalihari`    | —                         |
+| **Kuethori**                    | [[place-kuethori\|Kuethori]]                                       | `kalihari`    | —                         |
+| **Kuomethei**                   | [[place-kuomethei\|Kuomethei]]                                     | `kalihari`    | —                         |
 | **Lay Kaliharan**               | [[affiliation-tharivaan\|Lay Kaliharan]]                           | `translation` | —                         |
 | **Lirunei**                     | [[being-rdhrn\|Lirunei]]                                           | `kalihari`    | `liru-` + `-nei`          |
 | **Luaithári**                   | [[skill-luthrscrpt\|Luaithári]]                                    | `kalihari`    | —                         |
@@ -264,11 +269,13 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Nalurithan**                  | [[place-nalurithan\|Nalurithan]]                                   | `kalihari`    | `nalu-` + `rith-` + `-an` |
 | **Naokalo**                     | [[being-mbrydct\|Naokalo]]                                         | `kalihari`    | `nao-` + `kalo-`          |
 | **Naoliru**                     | [[being-ilmnnlr\|Naoliru]]                                         | `kalihari`    | `nao-` + `liru-`          |
+| **Narivothei**                  | [[place-narivothei\|Narivothei]]                                   | `kalihari`    | —                         |
 | **Olithuri**                    | [[being-dsksft\|Olithuri]]                                         | `kalihari`    | `oli-` + `thuri-`         |
 | **Olivael**                     | [[being-olvlthlr\|Olivael]]                                        | `kalihari`    | `oli-` + `vael-`          |
 | **Reed Heron**                  | [[being-rdhrn\|Reed Heron]]                                        | `translation` | —                         |
 | **Reef Lantern**                | [[being-rflntrn\|Reef Lantern]]                                    | `translation` | —                         |
 | **Reikula**                     | [[being-slndtrtl\|Reikula]]                                        | `kalihari`    | `rei-` + `kula-`          |
+| **Reithovani**                  | [[place-reithovani\|Reithovani]]                                   | `kalihari`    | —                         |
 | **Reithuri**                    | [[being-tvnrthr\|Reithuri]]                                        | `kalihari`    | `rei-` + `thuri-`         |
 | **Severed**                     | [[affiliation-kalihara\|Severed]]                                  | `translation` | —                         |
 | **sílhari'kaan**                | [[affiliation-tharivaan\|sílhari'kaan]]                            | `kalihari`    | `sílhari` + `kaan-`       |
@@ -306,6 +313,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Those Who Came Before**       | [[lore-theithari\|Those Who Came Before]]                          | `translation` | —                         |
 | **Unkept**                      | [[affiliation-tharivaan\|Unkept]]                                  | `translation` | —                         |
 | **Vaarvanu**                    | [[being-mngbhmth\|Vaarvanu]]                                       | `kalihari`    | `vaar-` + `vanu-`         |
+| **Vaelukoa**                    | [[place-vaelukoa\|Vaelukoa]]                                       | `kalihari`    | —                         |
 | **Vaelvanu**                    | [[being-rflntrn\|Vaelvanu]]                                        | `kalihari`    | `vael-` + `vanu-`         |
 | **Vashurán**                    | [[place-vashuran\|Vashurán]]                                       | `kalihari`    | —                         |
 | **Veshvaan**                    | [[place-veshvaan\|Veshvaan]]                                       | `kalihari`    | —                         |
