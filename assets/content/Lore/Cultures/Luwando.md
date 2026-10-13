@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The river-keepers of the central Xerathian forest: fishers, foragers and hosts along the great rivers, and the forest's door for northern trade."
 tags: [draft]
+data:
+  language: skill-ekpelulng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 6, brown: 3, black: 1}
+    hair_color: {black: 8, dark_brown: 2}
+    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2}
+    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
 # terran_analog: "The riverine fishing peoples of the Congo basin, who traded fish and foreign goods with the foraging bands of the interior. Carries over: villages on the high bank, dugouts, weirs and traps, small plantain gardens, matrilineal reckoning and hereditary trade partners. Departs: no chiefs, no farming villages of any size, and the river itself treated as the host of every guest."
 ---

@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Ösket—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-osketlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 4, brown: 4, amber: 1, hazel: 1}
+    hair_color: {black: 6, dark_brown: 4}
+    skin_color: {tawny: 3, golden: 3, tanned: 2, brown: 2, medium: 1}
+    complexion: {weathered: 4, chapped: 2, ruddy: 2, leathery: 1}
+    height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 4", max: 6' 1"}}
 
 # terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): hereditary holders of mountain crossings. Carries over: yak and horse herding, tolls on caravans at the cols, the hearth as the only unit of authority. Departs: a crossing is held by descent and standing comes from the road, selling a road is the one capital offense, and a personal name is one word taken from weather, ground, beast or condition."
 ---

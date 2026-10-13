@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Kaliharans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-kalihrlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 5, brown: 3, amber: 2}
+    hair_color: {black: 7, dark_brown: 3}
+    skin_color: {dark_brown: 4, brown: 4, tawny: 1}
+    complexion: {smooth: 4, clear: 3, sun_kissed: 1, weathered: 1}
+    height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 5", max: 6' 1"}}
 
 # terran_analog: "Atlantis as Plato describes it in the Timaeus and Critias, not the modern legend."
 ---

@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The court-keepers of the central Xerathian forest: foraging tribes each bound to one spirit-place, whose manners an elder keeps."
 tags: [draft]
+data:
+  language: skill-ekpelulng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 6, brown: 3, black: 1}
+    hair_color: {black: 8, dark_brown: 2}
+    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2}
+    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
 # terran_analog: "The sacred groves and shrine-keeping lineages of forest and savanna peoples in central Africa, set among foragers. Carries over: one place-bound spirit per community, an elder who keeps its rules, burial at the shrine, and healing sought there. Departs: no priesthood and no shrine-building, a leader chosen by a night spent at the spirit-place, and a rule that the keeper may never lead."
 ---

@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Provenzians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-provnzlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 3}
+    eye_color: {brown: 4, hazel: 3, dark_brown: 2, grey: 2, blue: 2, green: 1, amber: 1}
+    hair_color: {dark_brown: 4, black: 4, chestnut: 3, brown: 2, red: 1, auburn: 1}
+    skin_color: {olive: 4, fair: 3, medium: 3, tawny: 1, light: 1}
+    complexion: {sun_kissed: 3, clear: 3, weathered: 2, smooth: 2}
+    height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Southwestern France, the Atlantic coast of Spain and Portugal (vineyards, river-mouth ports, illuminated-manuscript scriptoria and glass work), with cities of marble and aqueduct inherited from the Roman-analog empire. Carries over: city-first loyalty, independent city governments (noble, council or guild), dress and table as the public record of a family's standing. Departs: regional feeling arises only against a Vylarian or a Nordman."
 ---

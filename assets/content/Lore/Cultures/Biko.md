@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The forest peoples of central Xerathia: many small tribes in four loose traditions, one tongue, four standings and nothing above the tribe."
 tags: [draft]
+data:
+  language: skill-ekpelulng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 6, brown: 3, black: 1}
+    hair_color: {black: 8, dark_brown: 2}
+    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2}
+    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
 # terran_analog: "The forest peoples of the Congo basin: Mbuti and BaAka foraging bands, riverine fishing villages, and the long exchange between forest foragers and their farming and trading neighbours. Carries over: mobile net-hunting bands, honey and the night song, hereditary trade partnerships, bark cloth and the forest as a parent. Departs: one shared tongue, four loose traditions instead of many languages, and no chiefdom or kingdom anywhere in the forest."
 ---

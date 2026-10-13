@@ -5,7 +5,64 @@ type: skill
 subType: language
 description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: ["{given}", "{hearth}, {given}"]
+    given:
+      female:
+        - "Tsüm"
+        - "Örghat"
+        - "Nushang"
+        - "Nashken"
+        - "Ürtal"
+        - "Ghömse"
+        - "Belkhat"
+        - "Yulmüm"
+        - "Üchöm"
+        - "Rhankel"
+        - "Ghuqöm"
+        - "Shögme"
+        - "Ubren"
+        - "Kharsel"
+        - "Yölte"
+        - "Sünash"
+        - "Ömker"
+        - "Tselbat"
+        - "Nüreg"
+        - "Gölkash"
+      male:
+        - "Tsüm"
+        - "Örghat"
+        - "Nushang"
+        - "Nashken"
+        - "Ürtal"
+        - "Ghömse"
+        - "Belkhat"
+        - "Yulmüm"
+        - "Üchöm"
+        - "Rhankel"
+        - "Ghuqöm"
+        - "Shögme"
+        - "Ubren"
+        - "Kharsel"
+        - "Yölte"
+        - "Sünash"
+        - "Ömker"
+        - "Tselbat"
+        - "Nüreg"
+        - "Gölkash"
+    hearth:
+      - "Tsökhar"
+      - "Öskhelt"
+      - "Ghelmün"
+      - "Bürnakh"
+      - "Qarsölt"
+      - "Ütenkhar"
+      - "Shömber"
+      - "Rhandüg"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

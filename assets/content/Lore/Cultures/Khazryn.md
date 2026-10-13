@@ -6,6 +6,14 @@ subType: culture
 description: "The Tellumi—their beliefs, their mores, and what they hold a person owes."
 tags: []
 data:
+  language: skill-khazrilng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 1}
+    eye_color: {brown: 3, amber: 3, green: 2, dark_brown: 2}
+    hair_color: {black: 6, dark_brown: 3, grey: 1}
+    skin_color: {olive: 3, tawny: 3, golden: 2, light: 2, tanned: 2}
+    complexion: {weathered: 3, smooth: 3, sun_kissed: 2, clear: 1}
+    height: {female: {min: 5' 4", max: 6' 0"}, male: {min: 5' 6", max: 6' 3"}}
   events:
     - id: migration
       when: ~-2300

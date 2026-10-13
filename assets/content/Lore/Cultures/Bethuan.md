@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Bethûan—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-bethunlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 5, brown: 4, hazel: 1}
+    hair_color: {black: 7, dark_brown: 3}
+    skin_color: {dark_brown: 4, brown: 3, golden: 2, tawny: 1}
+    complexion: {smooth: 3, clear: 3, sun_kissed: 2, weathered: 1}
+    height: {female: {min: 5' 3", max: 5' 11"}, male: {min: 5' 7", max: 6' 2"}}
 
 # terran_analog: "Maghreb and Carthage (Mediterranean coast shading into the Saharan interior): a naval, mercantile coast state. Carries over: seafaring, fleets and privateering, a patron relationship with the Nile-valley empire. Departs: a matriarchy in which men are property, with sworn eunuch-warriors (Spádai) as the one armed exception and a women's open-hand martial art; no real-world counterpart for that order."
 ---

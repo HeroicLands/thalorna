@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The edge-people of the central Xerathian forest: tribes of the margins, north and south, who hold the line between the forest and the world outside it."
 tags: [draft]
+data:
+  language: skill-ekpelulng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 6, brown: 3, black: 1}
+    hair_color: {black: 8, dark_brown: 2}
+    skin_color: {dark_brown: 4, ebony: 4, brown: 2, dark: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2}
+    height: {female: {min: 4' 10", max: 5' 6"}, male: {min: 5' 2", max: 5' 11"}}
 
 # terran_analog: "The forest-margin peoples of the Congo basin, foragers and small gardeners who traded and married with the herders and farmers of the savanna. Carries over: small thorn-fenced gardens, borrowed metal and words, marriage across the margin, and a fierce sense of the forest as their own ground. Departs: no chiefs, a leader made by bringing gifts home from outside, and the dead set at the edge to guard it."
 ---

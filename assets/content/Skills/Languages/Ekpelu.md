@@ -5,7 +5,46 @@ type: skill
 subType: language
 description: "The common tongue of the forest peoples of central Xerathia: small, open and unwritten, spoken with a different accent and a different word for the sacred by each of the four traditions."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: ["{given}", "{given} {band}"]
+    given:
+      female:
+        - "Sepo"
+        - "Dano"
+        - "Wene"
+        - "Rano"
+        - "Biko"
+        - "Sogo"
+        - "Dipo"
+        - "Liho"
+        - "Moro"
+        - "Kiro"
+        - "Gbulu"
+        - "Hira"
+        - "Dibo"
+        - "Kele"
+        - "Sini"
+      male:
+        - "Sepo"
+        - "Dano"
+        - "Wene"
+        - "Rano"
+        - "Biko"
+        - "Sogo"
+        - "Dipo"
+        - "Liho"
+        - "Moro"
+        - "Kiro"
+        - "Gbulu"
+        - "Hira"
+        - "Dibo"
+        - "Kele"
+        - "Sini"
+    band: ["Luwala", "Ngotola", "Kpalula", "Sewila", "Gbelela"]
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

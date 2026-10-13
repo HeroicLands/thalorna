@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Hvarn—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-hvarnlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 4, brown: 4, amber: 1, hazel: 1}
+    hair_color: {black: 6, dark_brown: 4}
+    skin_color: {tawny: 3, golden: 3, tanned: 2, brown: 2, medium: 1}
+    complexion: {weathered: 4, chapped: 2, ruddy: 2, leathery: 1}
+    height: {female: {min: 5' 0", max: 5' 8"}, male: {min: 5' 4", max: 6' 1"}}
 
 # terran_analog: "The Himalaya, Karakoram, Pamir and Tian Shan wall (the Grazian Mountains analogue): drover peoples who guide caravans over the cols. Carries over: pack-beast herding, high summer pastures, a winter spent indoors together. Departs: crossings are assigned by yearly rotation among hearth-heads, the whole people shares one turf long-house, and no authority stands above the hearth."
 ---

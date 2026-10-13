@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Aelwythans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-aelwthlng
+  appearanceProfile:
+    frame: {light: 2, medium: 5, heavy: 2, massive: 1}
+    eye_color: {green: 5, grey: 3, blue: 3, hazel: 2, brown: 2}
+    hair_color: {red: 3, auburn: 3, blonde: 3, dark_blonde: 2, brown: 3, dark_brown: 2, black: 1}
+    skin_color: {fair: 5, pale: 3, light: 3, medium: 1}
+    complexion: {freckled: 3, weathered: 3, ruddy: 2, clear: 2, smooth: 1}
+    height: {female: {min: 5' 1", max: 5' 11"}, male: {min: 5' 6", max: 6' 5"}}
 
 # terran_analog: "The British Isles joined into one inverted-V island (England-analog kingdoms in the south and east, Ireland-analog Peshtar country in the west, a Norse-settled Scottish-analog northeast). Carries over: rival petty kingdoms, insular parochialism, folk observance of stones, lakes and crossroads beneath the temple faith, a Norse-held conquered plain, and Peshtar tribes holding the highland-and-lake interior against every outside ambition. Departs: a single landmass of roughly seven hundred thousand people, strong fae places, Grukar in the empty third, a western republic imitating the Vylarian constitution from hearsay, and a Synod of mages governing Dúnavarre."
 ---

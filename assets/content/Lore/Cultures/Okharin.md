@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Okhárins—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-okharclng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 5, brown: 4, hazel: 1}
+    hair_color: {black: 5, dark_brown: 5}
+    skin_color: {dark_brown: 4, brown: 3, ebony: 2, tawny: 1}
+    complexion: {smooth: 3, clear: 3, weathered: 3}
+    height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 6", max: 6' 2"}}
 
 # terran_analog: "A rain-fed North Africa in the west and the Sahel in the east (pastoral savanna with temple-city trading centers). Carries over: nomadic grazing clans and fixed temple-cities that depend on each other, metal-craft and entrepôt trade, arranged marriage as an alliance of grazing rights. Departs: a three-flame faith served from three temple-cities, with a pyramid and pilgrimage tradition."
 ---

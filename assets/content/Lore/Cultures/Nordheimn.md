@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Nordheimn—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-nordmalng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 4, massive: 1}
+    eye_color: {blue: 5, grey: 4, green: 3, hazel: 2, brown: 2}
+    hair_color: {brown: 3, blonde: 3, dark_blonde: 3, dark_brown: 3, red: 2, auburn: 2, black: 2}
+    skin_color: {light: 4, fair: 3, pale: 3, tanned: 2, medium: 1}
+    complexion: {weathered: 4, ruddy: 3, freckled: 1, smooth: 1, scarred: 1}
+    height: {female: {min: 5' 1", max: 5' 11"}, male: {min: 5' 4", max: 6' 6"}}
 
 # terran_analog: "The Norse and Germanic world together with the Baltic and Scandinavian forest peoples (Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden and Finland). Carries over: longships that trade and raid, assemblies (ting) and a Lawspeaker, skalds, runes, blót offerings, oaths, wergild and outlawry, halls and kin. Departs: five kingdoms meeting every seventh year in a King of All Clans assembly, and the Asguardian faiths of near gods. Norse settlement on Aelwyth (Stormveld, Northeastern Scotland analog) stays culturally tied to its kindred kingdom across the sea."
 ---

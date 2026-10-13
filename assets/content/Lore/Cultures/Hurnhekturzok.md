@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Hürnhëktūrzōk—the steppe tribes of the Black Wilds north of the Empire of Tānvür."
 tags: [draft]
+data:
+  language: skill-tanvurlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {brown: 4, dark_brown: 3, amber: 2, green: 1}
+    hair_color: {black: 6, dark_brown: 4}
+    skin_color: {tawny: 4, olive: 2, tanned: 2, brown: 2}
+    complexion: {weathered: 4, chapped: 2, sun_kissed: 2, ruddy: 1}
+    height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 ---
 
 The Hürnhëktūrzōk are the tribes of Hürnhëktūr, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tanvurempr|Empire of Tānvür]], beyond the [[place-grkrhlmrgn|Grukari]] marches. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.

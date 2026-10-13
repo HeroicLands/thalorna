@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Khazári—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-khazarlng
+  appearanceProfile:
+    frame: {medium: 3, heavy: 5, massive: 2}
+    eye_color: {grey: 3, dark_brown: 3, brown: 2, black: 1}
+    hair_color: {black: 4, dark_brown: 4, grey: 2, brown: 1}
+    skin_color: {light: 3, medium: 3, pale: 2, olive: 1}
+    complexion: {rough: 3, weathered: 2, clear: 2, scarred: 1}
+    height: {female: {min: 4' 4", max: 5' 0"}, male: {min: 4' 8", max: 5' 4"}}
 
 # terran_analog: "No human people. The governing attitude is the Sakuteiki's (11th-century Japanese garden manual): set each stone as the stone asks. The Khazári extend it to architecture, mining, craft and ethics."
 ---

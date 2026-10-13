@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Sinalë—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-sinalelng
+  appearanceProfile:
+    frame: {scant: 1, light: 7, medium: 2}
+    eye_color: {grey: 4, green: 3, blue: 3, violet: 1}
+    hair_color: {silver: 3, white: 2, blonde: 2, black: 2, dark_brown: 1}
+    skin_color: {pale: 4, fair: 3, light: 3}
+    complexion: {clear: 5, smooth: 5}
+    height: {female: {min: 5' 9", max: 6' 6"}, male: {min: 6' 0", max: 6' 9"}}
 ---
 
 The Sinalë are the Firstborn, the eldest of the speaking peoples, and they carry themselves as a people who were old before there was anyone to be old beside. They came to Thalorna from a prior realm roughly eight thousand years ago, and of that realm they tell outsiders nothing. Fewer than one in ten thousand of the world's people is a Sinalo, so for nearly everyone the Sinalë are a rumor: a grandmother's story of a figure at the edge of a forest at twilight. They are real, and they have no interest in being found.

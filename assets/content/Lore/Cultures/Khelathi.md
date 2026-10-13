@@ -5,7 +5,16 @@ type: lore
 subType: culture
 description: "The Khelâthi—their beliefs, their mores, and what they hold a person owes."
 tags: []
-data: {packFolder: regkhcult}
+data:
+  packFolder: regkhcult
+  language: skill-khelathlng
+  appearanceProfile:
+    frame: {light: 4, medium: 5, heavy: 3, scant: 1}
+    eye_color: {dark_brown: 5, brown: 4, hazel: 1, amber: 1}
+    hair_color: {black: 5, dark_brown: 5}
+    skin_color: {dark_brown: 5, brown: 3, ebony: 2, tawny: 2, golden: 1}
+    complexion: {weathered: 3, smooth: 3, clear: 3}
+    height: {female: {min: 5' 2", max: 5' 10"}, male: {min: 5' 6", max: 6' 3"}}
 
 # terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."
 ---

@@ -5,6 +5,23 @@ type: lore
 subType: culture
 description: "The Élavendri—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-elvndrlng
+  appearanceProfile:
+    frame: {light: 4, medium: 5, heavy: 2}
+    eye_color: {green: 4, blue: 3, brown: 3, grey: 2, hazel: 2, amber: 1}
+    hair_color:
+      dark_brown: 3
+      brown: 3
+      black: 2
+      blonde: 3
+      auburn: 2
+      dark_blonde: 1
+      chestnut: 1
+      red: 1
+    skin_color: {fair: 4, pale: 3, light: 4, medium: 2, tanned: 1}
+    complexion: {smooth: 4, clear: 3, freckled: 1, weathered: 1}
+    height: {female: {min: 5' 3", max: 6' 0"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Northern France and Switzerland (the Pelwar courtly sphere with its bardic colleges and an Alpine highland interior). Carries over: courtly aristocratic houses, bards, mountain monasteries and highland kin peoples. Departs: the Élavendri live openly beside the Elder Races, and the ancestor tribes (Áelendan) hold the ranges as pact-bound keepers of the old ways."
 ---

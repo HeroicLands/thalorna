@@ -5,6 +5,23 @@ type: lore
 subType: culture
 description: "The Aureldian culture—the pantheon, the faiths and the sworn orders that several Aureldian peoples share."
 tags: []
+data:
+  language: skill-vylarilng
+  appearanceProfile:
+    frame: {medium: 50, light: 26, heavy: 22, massive: 2}
+    eye_color: {brown: 22, green: 20, hazel: 16, blue: 12, grey: 12, dark_brown: 10, amber: 7}
+    hair_color:
+      dark_brown: 26
+      black: 20
+      brown: 18
+      auburn: 10
+      chestnut: 7
+      blonde: 7
+      red: 6
+      dark_blonde: 5
+    skin_color: {fair: 22, medium: 19, olive: 19, light: 18, pale: 11, tanned: 10, tawny: 2}
+    complexion: {weathered: 29, sun_kissed: 21, smooth: 19, clear: 16, ruddy: 8, freckled: 8}
+    height: {female: {min: 5' 1", max: 6' 1"}, male: {min: 5' 5", max: 6' 5"}}
 ---
 
 The Aureldian culture is a civilization several peoples hold in common, not a people of its own. The Vylarians, Élavendri, Calypsans, Aelwythans, Tarvénans and Provenzians each keep their own culture, language, practices and books; what they share is a pantheon of twelve gods, the faiths that serve those gods, and the sworn orders that grew out of two of them. This note is about that common ground. Everything particular to one people belongs to that people's own culture.

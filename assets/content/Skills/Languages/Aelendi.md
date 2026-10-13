@@ -5,7 +5,50 @@ type: skill
 subType: language
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: ["{given}", "{given} {clan}"]
+    given:
+      female:
+        - "Sálenda"
+        - "Óssenda"
+        - "T'éna"
+        - "Néla"
+        - "Tála"
+        - "Môgha"
+        - "Kírtala"
+        - "Sírtala"
+        - "Tháurmira"
+      male:
+        - "Úrnel"
+        - "Gílpand"
+        - "Pórsand"
+        - "Tîpel"
+        - "Kíltas"
+        - "Dhárgan"
+        - "Sîlor"
+        - "Ánsel"
+        - "Dránketh"
+        - "Ghálmir"
+        - "Dûlthân"
+        - "Nélgan"
+        - "Rônken"
+    clan:
+      - "Dhárgandi"
+      - "Kháldendi"
+      - "Kírindi"
+      - "Ghôrondi"
+      - "Dûlundi"
+      - "Dhândi"
+      - "Tírindi"
+      - "Rônondi"
+      - "Thânandi"
+      - "Mîrindi"
+      - "Sáthandi"
+      - "T'énendi"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Byzarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-byzarnlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 3, massive: 1}
+    eye_color: {brown: 5, green: 4, hazel: 3, dark_brown: 2, amber: 1}
+    hair_color: {dark_brown: 5, black: 4, brown: 3, auburn: 1, dark_blonde: 1}
+    skin_color: {light: 4, tanned: 4, olive: 2, golden: 1, fair: 1}
+    complexion: {weathered: 4, sun_kissed: 3, smooth: 2, ruddy: 1}
+    height: {female: {min: 5' 4", max: 6' 1"}, male: {min: 5' 6", max: 6' 5"}}
 
 # terran_analog: "Classical and Byzantine-era Anatolia (philosophical city-states, caravan crossroads, an upland plateau behind the coast, frontier marches facing the Persian and Pontic worlds). Carries over: crossroads cities of mixed Helonic, Levantine and Persian-world families, guild-chartered trade, monasteries serving an eastern-rite civic faith. Departs: five cities held together by a reputation for keeping terms, with professional arbitrators and guild enforcement in place of feud."
 ---

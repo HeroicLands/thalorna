@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Tarvénans—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-tarvenlng
+  appearanceProfile:
+    frame: {light: 2, medium: 6, heavy: 3}
+    eye_color: {dark_brown: 3, brown: 3, green: 2, amber: 2, hazel: 2, grey: 1}
+    hair_color: {dark_brown: 5, black: 4, brown: 2, dark_blonde: 1}
+    skin_color: {olive: 5, tanned: 3, medium: 3, light: 1}
+    complexion: {weathered: 4, sun_kissed: 4, ruddy: 1, smooth: 1}
+    height: {female: {min: 5' 5", max: 6' 1"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "Central Spain, Andorra and southeastern France up to the southern Alps (a patchwork of feudal kingdoms, free cities and contested mountain marches). Carries over: independent feudal kingdoms and free cities, mercenary swordsmen and crossbowmen, women running holdings while men are under contract. Departs: a deep skepticism of institutional magic and of the Ordo Arcanis."
 ---

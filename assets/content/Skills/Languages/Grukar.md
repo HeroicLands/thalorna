@@ -5,7 +5,55 @@ type: skill
 subType: language
 description: "The guttural, sparse speech of the Grukar tribes—stingy with abstractions but lavish with words for weather, prey, and warfare."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: "{given}"
+    given:
+      female:
+        - "Zrukak"
+        - "Vrulkath"
+        - "Brugarnak"
+        - "Brugarnok"
+        - "Zorgak"
+        - "Grakok"
+        - "Skargak"
+        - "Drulkak"
+        - "Drulkok"
+        - "Vrulkak"
+        - "Grokunak"
+        - "Grushkak"
+        - "Gazrunak"
+        - "Ruzgak"
+        - "Uzgarnak"
+        - "Thrargak"
+        - "Throkunak"
+        - "Skargok"
+        - "Krazunak"
+        - "Vurkok"
+      male:
+        - "Zrukak"
+        - "Vrulkath"
+        - "Brugarnak"
+        - "Brugarnok"
+        - "Zorgak"
+        - "Grakok"
+        - "Skargak"
+        - "Drulkak"
+        - "Drulkok"
+        - "Vrulkak"
+        - "Grokunak"
+        - "Grushkak"
+        - "Gazrunak"
+        - "Ruzgak"
+        - "Uzgarnak"
+        - "Thrargak"
+        - "Throkunak"
+        - "Skargok"
+        - "Krazunak"
+        - "Vurkok"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

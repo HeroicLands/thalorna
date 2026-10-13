@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Vylarians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-vylarilng
+  appearanceProfile:
+    frame: {light: 3, medium: 6, heavy: 2}
+    eye_color: {brown: 4, green: 3, hazel: 3, dark_brown: 2, blue: 1, grey: 1, amber: 1}
+    hair_color: {dark_brown: 4, black: 3, brown: 3, auburn: 2, chestnut: 1}
+    skin_color: {light: 3, medium: 3, olive: 3, tanned: 3, fair: 2, pale: 1}
+    complexion: {weathered: 4, sun_kissed: 3, ruddy: 1, smooth: 1}
+    height: {female: {min: 5' 3", max: 6' 0"}, male: {min: 5' 5", max: 6' 4"}}
 
 # terran_analog: "The Roman empire (Italy, Croatia, Bosnia, Serbia, Hungary and Austria): a Senate, senatorial and equestrian orders, citizens, slaves, patron and client, codified appealable law, aqueducts and forums. Carries over: precedence-worked manners, patronage, legal remedy as the civilized reflex. Departs: the Ordo Arcanis operates as a licensed arm of the administration, the Aurèldían pantheon is the imperial cult, and Vylarian Steel is a guild-guarded alloy."
 ---

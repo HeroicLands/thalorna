@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Tānvüri—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-tanvurlng
+  appearanceProfile:
+    frame: {light: 4, medium: 5, heavy: 1}
+    eye_color: {dark_brown: 7, brown: 2, black: 1}
+    hair_color: {black: 9, dark_brown: 1}
+    skin_color: {golden: 4, light: 4, medium: 2, tawny: 1}
+    complexion: {smooth: 5, clear: 4, weathered: 1}
+    height: {female: {min: 4' 11", max: 5' 7"}, male: {min: 5' 3", max: 6' 0"}}
 
 # terran_analog: "Imperial China (celestial bureaucracy, caste, mandate of heaven) and the mainland eastern sphere of river civilizations and tributary kingdoms. Carries over: formal, indirect manner, omen-reading, a written bureaucratic record of persons. Departs: an eight-caste order in which a name is a privilege attached to classification and states caste, lineage and generation."
 ---

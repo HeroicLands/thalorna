@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Tarûzelians—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-taruzelilng
+  appearanceProfile:
+    frame: {light: 2, medium: 7, heavy: 2}
+    eye_color: {brown: 4, dark_brown: 3, hazel: 3, green: 1, amber: 1}
+    hair_color: {dark_brown: 4, black: 3, brown: 2}
+    skin_color: {medium: 3, olive: 3, tawny: 2, golden: 2, tanned: 1}
+    complexion: {sun_kissed: 4, weathered: 3, smooth: 1, clear: 1}
+    height: {female: {min: 5' 5", max: 6' 2"}, male: {min: 5' 6", max: 6' 3"}}
 
 # terran_analog: "Israel and Lebanon with their island coasts (a Phoenician-and-Levantine maritime confederation: trader city-states, naval power, merchant oligarchs), with archaic-speaking inland tribes. Carries over: trading houses as family firms, independent ship captains, banking and shipping combined. Departs: the confederation won independence from the Vylarian Empire by force of arms, women captain ships and hold partnerships, and the Auric Compact banking cartel holds its treasury."
 ---

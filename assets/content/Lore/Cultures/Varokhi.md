@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Varokh—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-varokhlng
+  appearanceProfile:
+    frame: {light: 2, medium: 4, heavy: 4, massive: 1}
+    eye_color: {blue: 3, grey: 3, green: 3, brown: 3, hazel: 2}
+    hair_color: {brown: 3, dark_brown: 3, dark_blonde: 2, red: 2, blonde: 1, black: 2, auburn: 1}
+    skin_color: {light: 4, fair: 3, pale: 3, medium: 2}
+    complexion: {rough: 3, weathered: 3, ruddy: 3, freckled: 1}
+    height: {female: {min: 5' 2", max: 5' 11"}, male: {min: 5' 7", max: 6' 6"}}
 
 # terran_analog: "The Visigoths."
 ---

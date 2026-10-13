@@ -5,6 +5,15 @@ type: lore
 subType: culture
 description: "The Vedyari—their beliefs, their mores, and what they hold a person owes."
 tags: []
+data:
+  language: skill-vedyarlng
+  appearanceProfile:
+    frame: {light: 3, medium: 5, heavy: 2}
+    eye_color: {dark_brown: 4, brown: 4, amber: 2, hazel: 1}
+    hair_color: {black: 7, dark_brown: 3}
+    skin_color: {golden: 3, tawny: 2, brown: 3, dark_brown: 2, medium: 1}
+    complexion: {smooth: 4, clear: 3, weathered: 2}
+    height: {female: {min: 5' 2", max: 5' 10"}, male: {min: 5' 6", max: 6' 4"}}
 
 # terran_analog: "The Indian subcontinent, especially medieval South Indian temple-republics (Chola-era sabha and ur village federations governed by temple-anchored assemblies). Carries over: appearance, dress and naming follow an Indian palette, a hereditary system of orders and lineages that settles profession, marriage and standing, pilgrimage networks. Departs: order and lineage are cut as two signs inside the left wrist at naming, and a wrapped wrist hides a station."
 ---

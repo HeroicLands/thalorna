@@ -5,7 +5,64 @@ type: skill
 subType: language
 description: "The tongue of the guide-people of the Eastern Reach—unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: language
+  names:
+    pattern: "{given} {hearth}"
+    given:
+      female:
+        - "Hvrel"
+        - "Tsevrel"
+        - "Rhanvi"
+        - "Delzh"
+        - "Vurn"
+        - "Shemli"
+        - "Brdnu"
+        - "Zhavel"
+        - "Ourn"
+        - "Klemsi"
+        - "Rhevzhn"
+        - "Tudzelv"
+        - "Vnesh"
+        - "Melrhu"
+        - "Dzorin"
+        - "Habvrn"
+        - "Sulzhe"
+        - "Trmen"
+        - "Ovru"
+        - "Rhistne"
+      male:
+        - "Hvrel"
+        - "Tsevrel"
+        - "Rhanvi"
+        - "Delzh"
+        - "Vurn"
+        - "Shemli"
+        - "Brdnu"
+        - "Zhavel"
+        - "Ourn"
+        - "Klemsi"
+        - "Rhevzhn"
+        - "Tudzelv"
+        - "Vnesh"
+        - "Melrhu"
+        - "Dzorin"
+        - "Habvrn"
+        - "Sulzhe"
+        - "Trmen"
+        - "Ovru"
+        - "Rhistne"
+    hearth:
+      - "Nürvhrn"
+      - "Tsedvrn"
+      - "Rhonzhel"
+      - "Klemvrd"
+      - "Hvurnash"
+      - "Dzelbrn"
+      - "Vrestun"
+      - "Shulnrh"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
