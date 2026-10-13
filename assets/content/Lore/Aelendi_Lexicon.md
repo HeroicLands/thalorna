@@ -742,6 +742,10 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 | **Môgha**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
 | **Dûlthân**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
 | **Nélgan**                                 | [[lore-theasking\|The Asking]], [[place-nelgan\|Nélgan]]    | `aelendi`     | —          |
+| **Kírtala**                                | [[lore-treelinelay\|The Lay of the Tree Line]]              | `aelendi`     | —          |
+| **Sírtala**                                | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
+| **Rônken**                                 | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
+| **Tháurmira**                              | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
 
 ### Retired names
 

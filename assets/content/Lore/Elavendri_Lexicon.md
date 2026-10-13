@@ -203,34 +203,34 @@ Poetry is how a house's history is held, how a prophecy is passed on and how a j
 
 The letters came twice. The rune-row is still cut for magic and old poetry, and its staves are _shéimarson_. Everything else is written in the empire's [[skill-semrnscrpt|Sêmarion]], whose letter is _sémarzon_, the same word borrowed back from the coast.
 
-| Form          | Source                 | Class | Gloss                                                                    | Built from | Attested |
-| ------------- | ---------------------- | ----- | ------------------------------------------------------------------------ | ---------- | -------- |
-| `sóurimathen` | aelendi:`sôrimathen`   | v     | to sing                                                                  | —          | —        |
-| `sóurimand`   | aelendi:`sôrimand`     | n an  | a singer; a bard of a court                                              | —          | —        |
-| `dóuhathen`   | aelendi:`dôkhathen`    | v     | to speak; to say before the council                                      | —          | —        |
-| `thárlema`    | aelendi:`thârlema`     | n an  | a tongue; a language                                                     | —          | —        |
-| `láemison`    | aelendi:`lâmison`      | n in  | a word                                                                   | —          | —        |
-| `lóuresathen` | aelendi:`lôresathen`   | v     | to recite; to say the old words exactly as they were said                | —          | —        |
-| `lóuresand`   | aelendi:`lôresand`     | n an  | a reciter; one who keeps a house's records in his head                   | —          | —        |
-| `óldhemon`    | aelendi:`ôldhemon`     | n in  | a recitation; an account of what was done, never written                 | —          | —        |
-| `máerendis`   | aelendi:`mârendis`     | n an  | wisdom                                                                   | —          | —        |
-| `hésdathen`   | aelendi:`khésdathen`   | v     | to know                                                                  | —          | —        |
-| `shéimarson`  | aelendi:`sêmarson`     | n in  | a stave; one sign of the rune-row, cut for magic and old poetry          | —          | —        |
-| `thíelandon`  | aelendi:`thîlandon`    | n in  | a cutting; a thing graven in stone                                       | —          | —        |
-| `dóuhemon`    | aelendi:`dôkhemon`     | n in  | a speech before the council                                              | —          | —        |
-| `máerendalon` | aelendi:`mârendalon`   | n in  | the Keepers' teaching; the years a child spends learning the genealogies | —          | —        |
-| `máerendand`  | aelendi:`mârendand`    | n an  | a teacher; a Keeper who teaches the genealogies                          | —          | —        |
-| `ólnarë`      | aelendi:`ólnaro`       | n in  | a song, as the Sinalë sing                                               | —          | —        |
-| `sérdalë`     | aelendi:`sérdalo`      | n in  | memory                                                                   | —          | —        |
-| `sérdalornë`  | aelendi:`sérdalorno`   | n in  | lore; what memory holds together                                         | —          | —        |
-| `példirnë`    | aelendi:`példirno`     | n in  | the Veldirno; the Sinalë hand, and anything written in it                | —          | —        |
-| `sírnernë`    | aelendi:`sírnerno`     | n in  | a roll of names                                                          | —          | —        |
-| `háltheveldë` | aelendi:`khálthepeldi` | n in  | an inscription                                                           | —          | —        |
-| `thénnairsa`  | aelendi:`thénnairsa`   | n an  | truth                                                                    | —          | —        |
-| `évesirnë`    | aelendi:`épesirno`     | n in  | a speech; a hoard of words                                               | —          | —        |
-| `sáunarinë`   | aelendi:`sáunarinu`    | n in  | a saying                                                                 | —          | —        |
-| `áurenthë`    | aelendi:`áurenthe`     | n in  | a turning; one part of a long song                                       | —          | —        |
-| `órrisannë`   | aelendi:`órrisanno`    | n in  | one who foretells                                                        | —          | —        |
+| Form          | Source                 | Class | Gloss                                                                    | Built from | Attested                                                |
+| ------------- | ---------------------- | ----- | ------------------------------------------------------------------------ | ---------- | ------------------------------------------------------- |
+| `sóurimathen` | aelendi:`sôrimathen`   | v     | to sing                                                                  | —          | —                                                       |
+| `sóurimand`   | aelendi:`sôrimand`     | n an  | a singer; a bard of a court                                              | —          | —                                                       |
+| `dóuhathen`   | aelendi:`dôkhathen`    | v     | to speak; to say before the council                                      | —          | —                                                       |
+| `thárlema`    | aelendi:`thârlema`     | n an  | a tongue; a language                                                     | —          | —                                                       |
+| `láemison`    | aelendi:`lâmison`      | n in  | a word                                                                   | —          | —                                                       |
+| `lóuresathen` | aelendi:`lôresathen`   | v     | to recite; to say the old words exactly as they were said                | —          | —                                                       |
+| `lóuresand`   | aelendi:`lôresand`     | n an  | a reciter; one who keeps a house's records in his head                   | —          | —                                                       |
+| `óldhemon`    | aelendi:`ôldhemon`     | n in  | a recitation; an account of what was done, never written                 | —          | —                                                       |
+| `máerendis`   | aelendi:`mârendis`     | n an  | wisdom                                                                   | —          | —                                                       |
+| `hésdathen`   | aelendi:`khésdathen`   | v     | to know                                                                  | —          | —                                                       |
+| `shéimarson`  | aelendi:`sêmarson`     | n in  | a stave; one sign of the rune-row, cut for magic and old poetry          | —          | —                                                       |
+| `thíelandon`  | aelendi:`thîlandon`    | n in  | a cutting; a thing graven in stone                                       | —          | —                                                       |
+| `dóuhemon`    | aelendi:`dôkhemon`     | n in  | a speech before the council                                              | —          | —                                                       |
+| `máerendalon` | aelendi:`mârendalon`   | n in  | the Keepers' teaching; the years a child spends learning the genealogies | —          | —                                                       |
+| `máerendand`  | aelendi:`mârendand`    | n an  | a teacher; a Keeper who teaches the genealogies                          | —          | —                                                       |
+| `ólnarë`      | aelendi:`ólnaro`       | n in  | a song, as the Sinalë sing                                               | —          | —                                                       |
+| `sérdalë`     | aelendi:`sérdalo`      | n in  | memory                                                                   | —          | —                                                       |
+| `sérdalornë`  | aelendi:`sérdalorno`   | n in  | lore; what memory holds together                                         | —          | —                                                       |
+| `példirnë`    | aelendi:`példirno`     | n in  | the Veldirno; the Sinalë hand, and anything written in it                | —          | —                                                       |
+| `sírnernë`    | aelendi:`sírnerno`     | n in  | a roll of names                                                          | —          | [[lore-hlvrthline\|The Line of the House of Hálvireth]] |
+| `háltheveldë` | aelendi:`khálthepeldi` | n in  | an inscription                                                           | —          | —                                                       |
+| `thénnairsa`  | aelendi:`thénnairsa`   | n an  | truth                                                                    | —          | —                                                       |
+| `évesirnë`    | aelendi:`épesirno`     | n in  | a speech; a hoard of words                                               | —          | —                                                       |
+| `sáunarinë`   | aelendi:`sáunarinu`    | n in  | a saying                                                                 | —          | [[lore-harproomqs\|The Questions of the Harp-Room]]     |
+| `áurenthë`    | aelendi:`áurenthe`     | n in  | a turning; one part of a long song                                       | —          | —                                                       |
+| `órrisannë`   | aelendi:`órrisanno`    | n in  | one who foretells                                                        | —          | —                                                       |
 
 ### The art and the thin places
 
@@ -307,30 +307,30 @@ The Pact is the last thing an Élavendri owes, and he does not explain it to a f
 
 The lodge of the highlands is the lowland hall, and the courtesy of the hall is the highlands' own, refined. The kept fire is _káralson_; the order of the seats, _shíerothalon_, is worked out for every feast; and the welcome, _éllevirsa_, is the Sinalë word the highlands took and the lowlands kept.
 
-| Form            | Source                | Class | Gloss                                                                        | Built from | Attested |
-| --------------- | --------------------- | ----- | ---------------------------------------------------------------------------- | ---------- | -------- |
-| `káralson`      | aelendi:`k'áralson`   | n in  | the kept fire; the hearth of a hall                                          | —          | —        |
-| `shíerothathen` | aelendi:`sîrothathen` | v     | to seat; to give a guest his place at the fire                               | —          | —        |
-| `shíerothalon`  | aelendi:`sîrothalon`  | n in  | the order of the seats; worked out again at every gathering                  | —          | —        |
-| `dáimela`       | aelendi:`dáimela`     | n an  | a giver; the one who sets a feast and sits at its head                       | —          | —        |
-| `dáimathen`     | aelendi:`dáimathen`   | v     | to give; to set food before a guest                                          | —          | —        |
-| `dýemaralon`    | aelendi:`dûmaralon`   | n in  | guest-right; what the hall owes the one under its roof                       | —          | —        |
-| `lórdemon`      | aelendi:`lôrdemon`    | n in  | a feast; a gathering with food, at which the genealogies are sung            | —          | —        |
-| `kómrela`       | aelendi:`kômrela`     | n an  | a manor in the hills                                                         | —          | —        |
-| `ánsiroth`      | aelendi:`ánsiroth`    | adj   | unseated; of a guest whose place at the fire nobody has settled              | —          | —        |
-| `dáimelalon`    | aelendi:`dáimelalon`  | n in  | the giving of a feast                                                        | —          | —        |
-| `thélmalon`     | aelendi:`thélmalon`   | n in  | a following; the young men who sit below a leader at the fire                | —          | —        |
-| `ráemolsa`      | aelendi:`râmolsa`     | n an  | the greeting at a lodge door at first light                                  | —          | —        |
-| `réimalis`      | aelendi:`rêmalis`     | n an  | the gathering ground before a lodge                                          | —          | —        |
-| `íthrola`       | aelendi:`íthrola`     | n an  | a lamp                                                                       | —          | —        |
-| `énthison`      | aelendi:`ênthison`    | n in  | mead; the old word for wine, kept for the drink the highlands make           | —          | —        |
-| `éllevirsa`     | aelendi:`éllepirsa`   | n an  | guest-right, as the Sinalë give it; the welcome between the kin and the wood | —          | —        |
-| `tárnevë`       | aelendi:`tárnepi`     | n in  | bread; the loaf of the offering                                              | —          | —        |
-| `tárnevinë`     | aelendi:`tárnepinu`   | n in  | a loaf                                                                       | —          | —        |
-| `ánsevë`        | aelendi:`ánsepi`      | n in  | a friend; one outside the kin who is owed as kin                             | —          | —        |
-| `ánsevirsa`     | aelendi:`ánsepirsa`   | n an  | friendship                                                                   | —          | —        |
-| `shéimara`      | aelendi:`séimara`     | n an  | accord; what a council reaches when nobody is left speaking against          | —          | —        |
-| `náuvessë`      | aelendi:`náupessi`    | n in  | a usage; the way a thing is done among the Sinalë, which the kin copies      | —          | —        |
+| Form            | Source                | Class | Gloss                                                                        | Built from | Attested                                                |
+| --------------- | --------------------- | ----- | ---------------------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| `káralson`      | aelendi:`k'áralson`   | n in  | the kept fire; the hearth of a hall                                          | —          | —                                                       |
+| `shíerothathen` | aelendi:`sîrothathen` | v     | to seat; to give a guest his place at the fire                               | —          | —                                                       |
+| `shíerothalon`  | aelendi:`sîrothalon`  | n in  | the order of the seats; worked out again at every gathering                  | —          | —                                                       |
+| `dáimela`       | aelendi:`dáimela`     | n an  | a giver; the one who sets a feast and sits at its head                       | —          | —                                                       |
+| `dáimathen`     | aelendi:`dáimathen`   | v     | to give; to set food before a guest                                          | —          | —                                                       |
+| `dýemaralon`    | aelendi:`dûmaralon`   | n in  | guest-right; what the hall owes the one under its roof                       | —          | —                                                       |
+| `lórdemon`      | aelendi:`lôrdemon`    | n in  | a feast; a gathering with food, at which the genealogies are sung            | —          | [[lore-hlvrthline\|The Line of the House of Hálvireth]] |
+| `kómrela`       | aelendi:`kômrela`     | n an  | a manor in the hills                                                         | —          | —                                                       |
+| `ánsiroth`      | aelendi:`ánsiroth`    | adj   | unseated; of a guest whose place at the fire nobody has settled              | —          | —                                                       |
+| `dáimelalon`    | aelendi:`dáimelalon`  | n in  | the giving of a feast                                                        | —          | —                                                       |
+| `thélmalon`     | aelendi:`thélmalon`   | n in  | a following; the young men who sit below a leader at the fire                | —          | —                                                       |
+| `ráemolsa`      | aelendi:`râmolsa`     | n an  | the greeting at a lodge door at first light                                  | —          | —                                                       |
+| `réimalis`      | aelendi:`rêmalis`     | n an  | the gathering ground before a lodge                                          | —          | —                                                       |
+| `íthrola`       | aelendi:`íthrola`     | n an  | a lamp                                                                       | —          | —                                                       |
+| `énthison`      | aelendi:`ênthison`    | n in  | mead; the old word for wine, kept for the drink the highlands make           | —          | —                                                       |
+| `éllevirsa`     | aelendi:`éllepirsa`   | n an  | guest-right, as the Sinalë give it; the welcome between the kin and the wood | —          | —                                                       |
+| `tárnevë`       | aelendi:`tárnepi`     | n in  | bread; the loaf of the offering                                              | —          | —                                                       |
+| `tárnevinë`     | aelendi:`tárnepinu`   | n in  | a loaf                                                                       | —          | —                                                       |
+| `ánsevë`        | aelendi:`ánsepi`      | n in  | a friend; one outside the kin who is owed as kin                             | —          | —                                                       |
+| `ánsevirsa`     | aelendi:`ánsepirsa`   | n an  | friendship                                                                   | —          | —                                                       |
+| `shéimara`      | aelendi:`séimara`     | n an  | accord; what a council reaches when nobody is left speaking against          | —          | —                                                       |
+| `náuvessë`      | aelendi:`náupessi`    | n in  | a usage; the way a thing is done among the Sinalë, which the kin copies      | —          | —                                                       |
 
 ### Light, sky and the turning year
 
@@ -426,26 +426,26 @@ The kingdom's interior is the Áelendan's mountains, and the lowland words for i
 
 The dead are part of the house, and the words for them are many. The highland cairn, _dhémrolon_, is a lowland tomb, and the Sinalë words for death and grief, _sélvorë_ and _nélthava_, are the bards' words for them.
 
-| Form           | Source                 | Class | Gloss                                      | Built from | Attested |
-| -------------- | ---------------------- | ----- | ------------------------------------------ | ---------- | -------- |
-| `rýedhamis`    | aelendi:`rûdhamis`     | n an  | blood                                      | —          | —        |
-| `ríetheson`    | aelendi:`rîtheson`     | n in  | a wound                                    | —          | —        |
-| `ríethesand`   | aelendi:`rîthesand`    | n an  | a healer; one who closes wounds            | —          | —        |
-| `thérnathen`   | aelendi:`thêrnathen`   | v     | to live                                    | —          | —        |
-| `néimethen`    | aelendi:`nêmethen`     | v     | to fall                                    | —          | —        |
-| `dhémrolon`    | aelendi:`dhêmrolon`    | n in  | a cairn; a grave under stones              | —          | —        |
-| `dhémrolara`   | aelendi:`dhêmrolara`   | n an  | a field of cairns at the edge of a valley  | —          | —        |
-| `sélvorë`      | aelendi:`sélporo`      | n in  | death                                      | —          | —        |
-| `sélvorosa`    | aelendi:`sélporosa`    | adj   | dead                                       | —          | —        |
-| `nélthava`     | aelendi:`nélthapa`     | n an  | a lament; the song at the cairn            | —          | —        |
-| `óllevinë`     | aelendi:`óllepinu`     | n in  | one of the dead                            | —          | —        |
-| `náuldinnë`    | aelendi:`náuldinno`    | n in  | a binder of the dead                       | —          | —        |
-| `náuldistë`    | aelendi:`náuldisto`    | n in  | a place of binding                         | —          | —        |
-| `sáuldistë`    | aelendi:`sáuldisto`    | n in  | a burial ground                            | —          | —        |
-| `sáuldilonthë` | aelendi:`sáuldilonthe` | n in  | a burial rite                              | —          | —        |
-| `sélvorosalvë` | aelendi:`sélporosalpu` | n in  | a tree planted for one of the dead         | —          | —        |
-| `lónthestë`    | aelendi:`lónthesto`    | n in  | a place of rites                           | —          | —        |
-| `ólvairsa`     | aelendi:`ólpairsa`     | n an  | a walking away; the desertion of one's kin | —          | —        |
+| Form           | Source                 | Class | Gloss                                      | Built from | Attested                                            |
+| -------------- | ---------------------- | ----- | ------------------------------------------ | ---------- | --------------------------------------------------- |
+| `rýedhamis`    | aelendi:`rûdhamis`     | n an  | blood                                      | —          | —                                                   |
+| `ríetheson`    | aelendi:`rîtheson`     | n in  | a wound                                    | —          | —                                                   |
+| `ríethesand`   | aelendi:`rîthesand`    | n an  | a healer; one who closes wounds            | —          | —                                                   |
+| `thérnathen`   | aelendi:`thêrnathen`   | v     | to live                                    | —          | —                                                   |
+| `néimethen`    | aelendi:`nêmethen`     | v     | to fall                                    | —          | —                                                   |
+| `dhémrolon`    | aelendi:`dhêmrolon`    | n in  | a cairn; a grave under stones              | —          | —                                                   |
+| `dhémrolara`   | aelendi:`dhêmrolara`   | n an  | a field of cairns at the edge of a valley  | —          | —                                                   |
+| `sélvorë`      | aelendi:`sélporo`      | n in  | death                                      | —          | —                                                   |
+| `sélvorosa`    | aelendi:`sélporosa`    | adj   | dead                                       | —          | —                                                   |
+| `nélthava`     | aelendi:`nélthapa`     | n an  | a lament; the song at the cairn            | —          | [[lore-roadsendlmnt\|The Lament at the Road's End]] |
+| `óllevinë`     | aelendi:`óllepinu`     | n in  | one of the dead                            | —          | —                                                   |
+| `náuldinnë`    | aelendi:`náuldinno`    | n in  | a binder of the dead                       | —          | —                                                   |
+| `náuldistë`    | aelendi:`náuldisto`    | n in  | a place of binding                         | —          | —                                                   |
+| `sáuldistë`    | aelendi:`sáuldisto`    | n in  | a burial ground                            | —          | —                                                   |
+| `sáuldilonthë` | aelendi:`sáuldilonthe` | n in  | a burial rite                              | —          | —                                                   |
+| `sélvorosalvë` | aelendi:`sélporosalpu` | n in  | a tree planted for one of the dead         | —          | —                                                   |
+| `lónthestë`    | aelendi:`lónthesto`    | n in  | a place of rites                           | —          | —                                                   |
+| `ólvairsa`     | aelendi:`ólpairsa`     | n an  | a walking away; the desertion of one's kin | —          | —                                                   |
 
 ### Arms and the border
 
@@ -767,14 +767,14 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **The First Crowning of Élavendre**          | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `translation`   | —          |
 | **The First Crowning**                       | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `translation`   | —          |
 | **The Tree-Line Oath**                       | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `translation`   | —          |
-| **Táldoren**                                 | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `elavendri`     | —          |
+| **Táldoren**                                 | [[lore-firstcrown\|The First Crowning of Élavendre]], [[lore-treelinelay\|The Lay of the Tree Line]]                                               | `elavendri`     | —          |
 | **Oréthan**                                  | [[lore-firstcrown\|The First Crowning of Élavendre]]                                                                                               | `elavendri`     | —          |
 | **The Tribute of Élavendre**                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
 | **The Treaty of Valdûn**                     | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
 | **Réidhanë**                                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `elavendri`     | —          |
 | **The Ardwyn Closing**                       | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `translation`   | —          |
 | **The King's Cut**                           | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `translation`   | —          |
-| **Hóuradhel**                                | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `elavendri`     | —          |
+| **Hóuradhel**                                | [[lore-ardwynclose\|The Ardwyn Closing]], [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                      | `elavendri`     | —          |
 | **Kírethel**                                 | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `elavendri`     | —          |
 | **Thélmoren**                                | [[place-elavendre\|Élavendre]]                                                                                                                     | `elavendri`     | —          |
 | **Nélgan**                                   | [[place-nelgan\|Nélgan]]                                                                                                                           | `other:aelendi` | —          |
@@ -824,6 +824,51 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Lieutenant**                               | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
 | **Captain**                                  | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
 | **Prince or Princess of the Blood**          | [[affiliation-kngdmlvndr\|Kingdom of Élavendre]]                                                                                                   | `translation`   | —          |
+| **The Lay of the Tree Line**                 | [[lore-treelinelay\|The Lay of the Tree Line]]                                                                                                     | `translation`   | —          |
+| **The Crowning Lay**                         | [[lore-treelinelay\|The Lay of the Tree Line]]                                                                                                     | `translation`   | —          |
+| **The Lament at the Road's End**             | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `translation`   | —          |
+| **The Diggers' Lament**                      | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `translation`   | —          |
+| **The Questions of the Harp-Room**           | [[lore-harproomqs\|The Questions of the Harp-Room]]                                                                                                | `translation`   | —          |
+| **The Questions of the Degree**              | [[lore-harproomqs\|The Questions of the Harp-Room]]                                                                                                | `translation`   | —          |
+| **The Path the Cohort Took**                 | [[lore-cohortpath\|The Path the Cohort Took]]                                                                                                      | `translation`   | —          |
+| **Dhérva Who Walks in Front**                | [[lore-cohortpath\|The Path the Cohort Took]]                                                                                                      | `translation`   | —          |
+| **The Line of the House of Hálvireth**       | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `translation`   | —          |
+| **Hálvireth's Line**                         | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `translation`   | —          |
+| **The Long Thread**                          | [[lore-longthread\|The Long Thread]]                                                                                                               | `translation`   | —          |
+| **Áuvenna's Thread**                         | [[lore-longthread\|The Long Thread]]                                                                                                               | `translation`   | —          |
+| **Dálren**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Móren**                                    | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Náldor**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Ténral**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Órlen**                                    | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Dénrik**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Sálten**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Hálden**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Kélda**                                    | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Árvend**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Jéldor**                                   | [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                                                                | `elavendri`     | —          |
+| **Dhérva**                                   | [[lore-cohortpath\|The Path the Cohort Took]]                                                                                                      | `elavendri`     | —          |
+| **Sévrel**                                   | [[lore-cohortpath\|The Path the Cohort Took]]                                                                                                      | `elavendri`     | —          |
+| **Hálvireth**                                | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Sílvera**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Táeren**                                   | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Méldoreth**                                | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Óuravel**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Dhéneth**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Kálvorin**                                 | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Thérseth**                                 | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Ráenor**                                   | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Ílthera**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | `ílthera`  |
+| **Gálveren**                                 | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Vélthar**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Sárhel**                                   | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Nérrin**                                   | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Árnolen**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Lóthel**                                   | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Méreval**                                  | [[lore-hlvrthline\|The Line of the House of Hálvireth]]                                                                                            | `elavendri`     | —          |
+| **Áuvenna**                                  | [[lore-longthread\|The Long Thread]]                                                                                                               | `elavendri`     | —          |
+| **Thélvara**                                 | [[lore-longthread\|The Long Thread]]                                                                                                               | `elavendri`     | —          |
+| **Kélthar**                                  | [[lore-longthread\|The Long Thread]]                                                                                                               | `elavendri`     | —          |
 | **The Ring of Turned Paths**                 | [[place-rngtrndpths\|The Ring of Turned Paths]]                                                                                                    | `translation`   | —          |
 | **Khálpilonpu**                              | [[place-rngtrndpths\|The Ring of Turned Paths]]                                                                                                    | `other:aelendi` | —          |
 | **The Kept Fire**                            | [[place-kptfr\|The Kept Fire]]                                                                                                                     | `translation`   | —          |
