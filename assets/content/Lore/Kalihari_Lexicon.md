@@ -102,7 +102,7 @@ Two moves make every built word on this page. **Stems set side by side** make a 
 
 ### The keeping
 
-The custodians' words are compounds of a few old stems, and every rank of the [[affiliation-tharivaan|Ithári'kaan]] is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithári_, those who came before, and the substance of their works is _ithári'sul_.
+The custodians' words are compounds of a few old stems, and every rank of the [[affiliation-tharivaan|Ithári'kaan]] is a kind of keeping: by watching, by holding, by remembering what came before. The precursors themselves are _ithári_, those who came before, and the substance of their works is _ithári'sul_. The work of a lineage village is _sari'sul_, a tending-stone, and a piece of the substance small enough to carry is _kaan'sul_, a held stone.
 
 | Form            | Class  | Gloss                                                           | Built from                 | Attested                              |
 | --------------- | ------ | --------------------------------------------------------------- | -------------------------- | ------------------------------------- |
@@ -126,6 +126,8 @@ The custodians' words are compounds of a few old stems, and every rank of the [[
 | `sílhari`       | `n`    | clear looking, the daily habit of attentive watching            | —                          | [[lore-kaliharanclt\|Kaliharan]]      |
 | `sílhari'kaan`  | `n`    | a clear-seer of the keepers, who coordinates custodial practice | `sílhari` + `kaan-`        | [[affiliation-tharivaan\|Thári'vaan]] |
 | `vaan'ari`      | `n`    | right tending, the care of one's own part of the whole          | `vaan-` + `ari-`           | [[lore-kaliharanclt\|Kaliharan]]      |
+| `sari'sul`      | `n`    | a tending-stone, the work of a lineage village                  | `sari-` + `sul-`           | [[lore-sarisul\|The Tending-Stones]]  |
+| `kaan'sul`      | `n`    | a held stone, a piece of the substance small enough to carry    | `kaan-` + `sul-`           | [[lore-itharisul\|Ithári'sul]]        |
 
 ### Water, stone and growing things
 
@@ -234,8 +236,11 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Islander**                    | [[affiliation-kalihara\|Islander]]                                 | `translation` | —                         |
 | **Ithaluori**                   | [[being-olvlthlr\|Ithaluori]]                                      | `kalihari`    | `itha-` + `luori-`        |
 | **Ithári'kaan**                 | [[affiliation-kalihara\|Ithári'kaan]]                              | `kalihari`    | `ithári` + `kaan-`        |
+| **Ithári'sul**                  | [[lore-itharisul\|Ithári'sul]]                                     | `kalihari`    | `ithári` + `sul-`         |
+| **Ithavanu'sul**                | [[place-stillwatersill\|Ithavanu'sul]]                             | `kalihari`    | `ithavanu` + `sul-`       |
 | **Ithorianu**                   | [[place-ithorianu\|Ithorianu]]                                     | `kalihari`    | —                         |
 | **kaan'sili**                   | [[affiliation-tharivaan\|kaan'sili]]                               | `kalihari`    | `kaan-` + `sili-`         |
+| **kaan'sul**                    | [[lore-itharisul\|kaan'sul]]                                       | `kalihari`    | `kaan-` + `sul-`          |
 | **kaan'thári**                  | [[affiliation-tharivaan\|kaan'thári]]                              | `kalihari`    | `kaan-` + `thári-`        |
 | **kaan'vaar**                   | [[affiliation-tharivaan\|kaan'vaar]]                               | `kalihari`    | `kaan-` + `vaar-`         |
 | **Kalihara**                    | [[affiliation-kalihara\|Kalihara]], [[place-klhrcntnnt\|Kalihara]] | `kalihari`    | —                         |
@@ -269,18 +274,22 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Nalurithan**                  | [[place-nalurithan\|Nalurithan]]                                   | `kalihari`    | `nalu-` + `rith-` + `-an` |
 | **Naokalo**                     | [[being-mbrydct\|Naokalo]]                                         | `kalihari`    | `nao-` + `kalo-`          |
 | **Naoliru**                     | [[being-ilmnnlr\|Naoliru]]                                         | `kalihari`    | `nao-` + `liru-`          |
+| **Naothuri'sul**                | [[place-windstones\|Naothuri'sul]]                                 | `kalihari`    | `naothuri` + `sul-`       |
 | **Narivothei**                  | [[place-narivothei\|Narivothei]]                                   | `kalihari`    | —                         |
 | **Olithuri**                    | [[being-dsksft\|Olithuri]]                                         | `kalihari`    | `oli-` + `thuri-`         |
 | **Olivael**                     | [[being-olvlthlr\|Olivael]]                                        | `kalihari`    | `oli-` + `vael-`          |
+| **Precursor Stone**             | [[lore-itharisul\|Precursor Stone]]                                | `translation` | —                         |
 | **Reed Heron**                  | [[being-rdhrn\|Reed Heron]]                                        | `translation` | —                         |
 | **Reef Lantern**                | [[being-rflntrn\|Reef Lantern]]                                    | `translation` | —                         |
 | **Reikula**                     | [[being-slndtrtl\|Reikula]]                                        | `kalihari`    | `rei-` + `kula-`          |
 | **Reithovani**                  | [[place-reithovani\|Reithovani]]                                   | `kalihari`    | —                         |
 | **Reithuri**                    | [[being-tvnrthr\|Reithuri]]                                        | `kalihari`    | `rei-` + `thuri-`         |
+| **sari'sul**                    | [[lore-sarisul\|sari'sul]]                                         | `kalihari`    | `sari-` + `sul-`          |
 | **Severed**                     | [[affiliation-kalihara\|Severed]]                                  | `translation` | —                         |
 | **sílhari'kaan**                | [[affiliation-tharivaan\|sílhari'kaan]]                            | `kalihari`    | `sílhari` + `kaan-`       |
 | **Speaker for the Island**      | [[affiliation-kalihara\|Speaker for the Island]]                   | `translation` | —                         |
 | **Stilt Tree**                  | [[lore-klhrflora\|Stilt Tree]]                                     | `translation` | —                         |
+| **Sul'vaan**                    | [[place-sulvaan\|Sul'vaan]]                                        | `kalihari`    | `sul-` + `vaan-`          |
 | **Sulkula**                     | [[being-cldgt\|Sulkula]]                                           | `kalihari`    | `sul-` + `kula-`          |
 | **Tavonei**                     | [[being-tvnrthr\|Tavonei]]                                         | `kalihari`    | `tavo-` + `-nei`          |
 | **Teacher of the kaan'sili**    | [[affiliation-tharivaan\|Teacher of the kaan'sili]]                | `translation` | —                         |
@@ -295,6 +304,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **The Doldrum Sea**             | [[place-dldrmsea\|The Doldrum Sea]]                                | `translation` | —                         |
 | **The Eastern Terraces**        | [[place-klhrestrrc\|The Eastern Terraces]]                         | `translation` | —                         |
 | **The Great Bowl**              | [[place-klhrbowl\|The Great Bowl]]                                 | `translation` | —                         |
+| **The Held Stones**             | [[lore-itharisul\|The Held Stones]]                                | `translation` | —                         |
 | **The Ithári**                  | [[lore-theithari\|The Ithári]]                                     | `translation` | —                         |
 | **The Kuethori Gap**            | [[place-klhrkthrgap\|The Kuethori Gap]]                            | `translation` | —                         |
 | **The Lake**                    | [[place-klhrlake\|The Lake]]                                       | `translation` | —                         |
@@ -304,11 +314,17 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **The Ring**                    | [[place-klhrring\|The Ring]]                                       | `translation` | —                         |
 | **The Ring Mountains**          | [[place-klhrring\|The Ring Mountains]]                             | `translation` | —                         |
 | **The Ring of Kalihara**        | [[place-klhrring\|The Ring of Kalihara]]                           | `translation` | —                         |
+| **The Sanctuaries of Kalihara** | [[lore-klhrsnctrs\|The Sanctuaries of Kalihara]]                   | `translation` | —                         |
 | **The Sanctuary of Mirthaan**   | [[place-mirthaan\|The Sanctuary of Mirthaan]]                      | `translation` | —                         |
 | **The Sanctuary of Thal'ari**   | [[place-thalari\|The Sanctuary of Thal'ari]]                       | `translation` | —                         |
 | **The Sanctuary of Veshvaan**   | [[place-veshvaan\|The Sanctuary of Veshvaan]]                      | `translation` | —                         |
 | **The Southern Stair**          | [[place-klhrsthstr\|The Southern Stair]]                           | `translation` | —                         |
+| **The Still-Water Sill**        | [[place-stillwatersill\|The Still-Water Sill]]                     | `translation` | —                         |
+| **The Telvári Stone**           | [[place-telvaristone\|The Telvári Stone]]                          | `translation` | —                         |
+| **The Tending-Stones**          | [[lore-sarisul\|The Tending-Stones]]                               | `translation` | —                         |
+| **The Warm**                    | [[place-sulvaan\|The Warm]]                                        | `translation` | —                         |
 | **The Western Saddle**          | [[place-klhrwstsddl\|The Western Saddle]]                          | `translation` | —                         |
+| **The Wind-Stones**             | [[place-windstones\|The Wind-Stones]]                              | `translation` | —                         |
 | **Theinuvael**                  | [[place-klhrwstsddl\|Theinuvael]]                                  | `kalihari`    | —                         |
 | **Those Who Came Before**       | [[lore-theithari\|Those Who Came Before]]                          | `translation` | —                         |
 | **Unkept**                      | [[affiliation-tharivaan\|Unkept]]                                  | `translation` | —                         |
@@ -319,6 +335,7 @@ Every name the setting gives a person, place, polity, rank or thing of Kalihara,
 | **Veshvaan**                    | [[place-veshvaan\|Veshvaan]]                                       | `kalihari`    | —                         |
 | **Warden of a Sanctuary**       | [[affiliation-tharivaan\|Warden of a Sanctuary]]                   | `translation` | —                         |
 | **Warden of the Approaches**    | [[affiliation-kalihara\|Warden of the Approaches]]                 | `translation` | —                         |
+| **What the Sinalë Recognized**  | [[lore-sinalercgnzd\|What the Sinalë Recognized]]                  | `translation` | —                         |
 
 ## Retired names
 

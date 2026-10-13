@@ -133,7 +133,7 @@ unaccountable stone, not the work of a people.
 every people that has ever met a work has tried. No tool, no weapon, no fire, no acid, no cold, no
 flood, no fall, no siege engine and no working of any tradition—arcane, divine or spirit—has
 marked, scratched, dented, burned, stained, cracked or chipped a work of the Ithári. It cannot be cut,
-drilled, prised, ground or split. Nothing can be joined to it and nothing taken from it.
+drilled, pried, ground or split. Nothing can be joined to it and nothing taken from it.
 
 Time does not touch it either. It does not weather, dull, discolor, erode, or gather any mark of age
 at all, and a work looks today exactly as it looked on the day the Ithári walked away from it eighty
@@ -212,11 +212,12 @@ a thousand years. There is nothing to inspect. There is only the office, done we
 So the whole of it comes from the works themselves. Nothing can harm a work, and a work's ending is
 entirely its own.
 
-That also says exactly what a **held stone** is: the piece a dead, whitened, cracked work gives up.
-A held stone is bone-white and hard, never gray and never giving, which is why a custodian knows one
+That also says exactly what a **dead held stone** is: the piece a dead, whitened, cracked work gives up.
+A dead held stone is bone-white and hard, never gray and never giving, which is why a custodian knows one
 by feel the instant it is in the hand and why the sanctuaries' reference pieces are all of that kind.
 No living work has ever yielded one. Even a cracked work yields only what it yields, and not what
-anybody takes.
+anybody takes. The lineages also keep living held stones, each belonging to a working work, gray and giving
+while it lives; they are described in [[lore-itharisul|Ithári'sul]].
 
 The [[affiliation-tharivaan|Ithári'kaan]], who tend them, have no repair to attempt.
 They know the procedures and not the principles, and a procedure that has kept a structure working
