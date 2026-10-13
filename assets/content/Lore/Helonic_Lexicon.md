@@ -267,61 +267,64 @@ Bethuan softened every hushing sound to a plain _s_ and kept every breathed one,
 
 A Helonic speaker has one word for wisdom and a dozen for ways of being wrong, because the academies spend their days naming errors. The stock the schools built is the stock the daughters inherited whole: a Byzarian factor who has never read a line of philosophy still calls a fair bargain _métharin_, a measure, and a Bethûan priestess who despises the counting-house still begins her judgments with _arkhîdhin_, the first principle.
 
-| Form        | Class  | Gloss                                                                           | Built from         | Attested                         |
-| ----------- | ------ | ------------------------------------------------------------------------------- | ------------------ | -------------------------------- |
-| `sôth-`     | `stem` | wise, holding together                                                          | —                  | —                                |
-| `sôthira`   | `n`    | wisdom                                                                          | `sôth-` + `-ira`   | [[skill-helonclng\|Helonic]]     |
-| `sôthir`    | `n`    | a wise one, a philosopher                                                       | `sôth-` + `-ir`    | —                                |
-| `arkhîdhin` | `n`    | beginning, origin, first principle                                              | —                  | [[skill-helonclng\|Helonic]]     |
-| `kôshamir`  | `n`    | world, order, the universe as an ordered whole                                  | —                  | [[skill-helonclng\|Helonic]]     |
-| `métharin`  | `n`    | measure, and a fair proportion                                                  | —                  | [[skill-helonclng\|Helonic]]     |
-| `métrir`    | `n`    | a measurer; a surveyor, an assayer                                              | `métr-` + `-ir`    | —                                |
-| `métr-`     | `stem` | to measure                                                                      | —                  | —                                |
-| `harmôdhin` | `n`    | harmony, balance                                                                | —                  | [[skill-helonclng\|Helonic]]     |
-| `lékhisir`  | `n`    | word, speech, an argument stated                                                | —                  | [[skill-helonclng\|Helonic]]     |
-| `lékhisira` | `n`    | rhetoric, the art of speech                                                     | `lékhis-` + `-ira` | —                                |
-| `lékhis-`   | `stem` | to speak in order                                                               | —                  | —                                |
-| `kéliran`   | `n`    | beauty, the beautiful                                                           | —                  | [[skill-helonclng\|Helonic]]     |
-| `dókhin`    | `n`    | a judgment, an opinion reached                                                  | `dókh-` + `-in`    | —                                |
-| `dókh-`     | `stem` | to think, to weigh in the mind                                                  | —                  | —                                |
-| `thérin`    | `n`    | contemplation, the beholding of a truth                                         | `thér-` + `-in`    | —                                |
-| `thér-`     | `stem` | to behold                                                                       | —                  | —                                |
-| `synthásin` | `n`    | the bringing together of all inquiry; the idea the Panepistēmion was founded on | —                  | [[lore-helioniteclt\|Helionite]] |
-| `plánthir`  | `n`    | an error of reasoning, a false step                                             | —                  | —                                |
-| `plánthis`  | `n`    | a wanderer; one who argues without a first principle                            | —                  | —                                |
-| `plánth-`   | `stem` | to stray                                                                        | —                  | —                                |
-| `ghymârin`  | `n`    | the exercise ground, where the body and the argument are trained                | —                  | —                                |
-| `ghymârir`  | `n`    | the patron who keeps an exercise ground at his own cost                         | `ghymâr-` + `-ir`  | —                                |
-| `ghymâr-`   | `stem` | to train                                                                        | —                  | —                                |
-| `epistémin` | `n`    | knowledge that can be taught                                                    | —                  | —                                |
-| `sképhir`   | `n`    | a doubter; the school that holds nothing proven                                 | —                  | —                                |
-| `arithmâs`  | `n`    | number, the count of a thing                                                    | —                  | —                                |
+| Form        | Class  | Gloss                                                                                  | Built from         | Attested                                         | Tongue     |
+| ----------- | ------ | -------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------ | ---------- |
+| `sôth-`     | `stem` | wise, holding together                                                                 | —                  | —                                                | `helonic`  |
+| `sôthira`   | `n`    | wisdom                                                                                 | `sôth-` + `-ira`   | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `sôthir`    | `n`    | a wise one, a philosopher                                                              | `sôth-` + `-ir`    | —                                                | `helonic`  |
+| `arkhîdhin` | `n`    | beginning, origin, first principle                                                     | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `kôshamir`  | `n`    | world, order, the universe as an ordered whole                                         | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `métharin`  | `n`    | measure, and a fair proportion                                                         | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `métrir`    | `n`    | a measurer; a surveyor, an assayer                                                     | `métr-` + `-ir`    | —                                                | `helonic`  |
+| `métr-`     | `stem` | to measure                                                                             | —                  | —                                                | `helonic`  |
+| `harmôdhin` | `n`    | harmony, balance                                                                       | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `lékhisir`  | `n`    | word, speech, an argument stated                                                       | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `lékhisira` | `n`    | rhetoric, the art of speech                                                            | `lékhis-` + `-ira` | —                                                | `helonic`  |
+| `lékhis-`   | `stem` | to speak in order                                                                      | —                  | —                                                | `helonic`  |
+| `kéliran`   | `n`    | beauty, the beautiful                                                                  | —                  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `dókhin`    | `n`    | a judgment, an opinion reached                                                         | `dókh-` + `-in`    | —                                                | `helonic`  |
+| `dókh-`     | `stem` | to think, to weigh in the mind                                                         | —                  | —                                                | `helonic`  |
+| `thérin`    | `n`    | contemplation, the beholding of a truth                                                | `thér-` + `-in`    | —                                                | `helonic`  |
+| `thér-`     | `stem` | to behold                                                                              | —                  | —                                                | `helonic`  |
+| `synthásin` | `n`    | the bringing together of all inquiry; the idea the Panepistēmion was founded on        | —                  | [[lore-helioniteclt\|Helionite]]                 | `helonic`  |
+| `plánthir`  | `n`    | an error of reasoning, a false step                                                    | —                  | —                                                | `helonic`  |
+| `plánthis`  | `n`    | a wanderer; one who argues without a first principle                                   | —                  | —                                                | `helonic`  |
+| `plánth-`   | `stem` | to stray                                                                               | —                  | —                                                | `helonic`  |
+| `ghymârin`  | `n`    | the exercise ground, where the body and the argument are trained                       | —                  | —                                                | `helonic`  |
+| `ghymârir`  | `n`    | the patron who keeps an exercise ground at his own cost                                | `ghymâr-` + `-ir`  | —                                                | `helonic`  |
+| `ghymâr-`   | `stem` | to train                                                                               | —                  | —                                                | `helonic`  |
+| `epistémin` | `n`    | knowledge that can be taught                                                           | —                  | —                                                | `helonic`  |
+| `sképhir`   | `n`    | a doubter; the school that holds nothing proven                                        | —                  | —                                                | `helonic`  |
+| `arithmâs`  | `n`    | number, the count of a thing                                                           | —                  | —                                                | `helonic`  |
+| `arkhîdin`  | `n`    | beginning, origin; the Byzarian form of _arkhîdhin_, in the titles of the eastern rite | —                  | [[lore-firstterms\|The Hymn of the First Terms]] | `byzarian` |
 
 ### The gods, the stage and the assembly
 
 Honor in Heliónis is paid in blood and glory, and the words show it: _dôkharin_, glory, is the thing a citizen owns, and a citizen stripped of it is not called wicked but _átimor_, un-honored, a man with nothing left to be judged by. The stage and the assembly share their vocabulary, because the Helonic peoples hold that a city argues as a chorus sings, many voices to one line.
 
-| Form       | Class  | Gloss                                                                 | Built from       | Attested                     |
-| ---------- | ------ | --------------------------------------------------------------------- | ---------------- | ---------------------------- |
-| `thás-`    | `stem` | divine                                                                | —                | —                            |
-| `thásirin` | `n`    | god                                                                   | —                | [[skill-helonclng\|Helonic]] |
-| `thásira`  | `n`    | goddess                                                               | `thás-` + `-ira` | [[lore-bethuanclt\|Bethûan]] |
-| `thásir`   | `adj`  | divine                                                                | `thás-` + `-ir`  | [[skill-helonclng\|Helonic]] |
-| `dôkharin` | `n`    | glory, reputation, the honor a citizen owns                           | —                | [[skill-helonclng\|Helonic]] |
-| `átimor`   | `n`    | one stripped of civic honor, barred from the assembly and the temples | —                | —                            |
-| `tim-`     | `stem` | honor held in the sight of others                                     | —                | —                            |
-| `timîn`    | `n`    | a trial of honor, judged at a temple                                  | —                | —                            |
-| `kûmêthos` | `n`    | the chorus; the company of a play, and the citizens as one voice      | —                | —                            |
-| `kûmêth-`  | `stem` | of the chorus; of many voices as one                                  | —                | —                            |
-| `drâmin`   | `n`    | a play, a thing done on the stage                                     | —                | —                            |
-| `skênir`   | `n`    | the stage, and the painted house behind it                            | —                | —                            |
-| `thrêsos`  | `n`    | a vote, the stone cast into the urn                                   | —                | —                            |
-| `agélon`   | `n`    | the assembly of the citizens                                          | —                | —                            |
-| `agél-`    | `stem` | of the assembly                                                       | —                | —                            |
-| `kléandir` | `n`    | a hero; one the stories keep                                          | —                | —                            |
-| `théldir`  | `n`    | a festival of the gods, with games                                    | —                | —                            |
-| `théld-`   | `stem` | of the festival                                                       | —                | —                            |
-| `ieréshin` | `n`    | a rite, a thing done for a god                                        | —                | —                            |
+| Form       | Class  | Gloss                                                                                        | Built from       | Attested                                         | Tongue     |
+| ---------- | ------ | -------------------------------------------------------------------------------------------- | ---------------- | ------------------------------------------------ | ---------- |
+| `thás-`    | `stem` | divine                                                                                       | —                | —                                                | `helonic`  |
+| `thásirin` | `n`    | god                                                                                          | —                | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `thásira`  | `n`    | goddess                                                                                      | `thás-` + `-ira` | [[lore-bethuanclt\|Bethûan]]                     | `helonic`  |
+| `thásir`   | `adj`  | divine                                                                                       | `thás-` + `-ir`  | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `dôkharin` | `n`    | glory, reputation, the honor a citizen owns                                                  | —                | [[skill-helonclng\|Helonic]]                     | `helonic`  |
+| `átimor`   | `n`    | one stripped of civic honor, barred from the assembly and the temples                        | —                | —                                                | `helonic`  |
+| `tim-`     | `stem` | honor held in the sight of others                                                            | —                | —                                                | `helonic`  |
+| `timîn`    | `n`    | a trial of honor, judged at a temple                                                         | —                | —                                                | `helonic`  |
+| `kûmêthos` | `n`    | the chorus; the company of a play, and the citizens as one voice                             | —                | —                                                | `helonic`  |
+| `kûmêth-`  | `stem` | of the chorus; of many voices as one                                                         | —                | —                                                | `helonic`  |
+| `drâmin`   | `n`    | a play, a thing done on the stage                                                            | —                | —                                                | `helonic`  |
+| `skênir`   | `n`    | the stage, and the painted house behind it                                                   | —                | —                                                | `helonic`  |
+| `thrêsos`  | `n`    | a vote, the stone cast into the urn                                                          | —                | —                                                | `helonic`  |
+| `agélon`   | `n`    | the assembly of the citizens                                                                 | —                | —                                                | `helonic`  |
+| `agél-`    | `stem` | of the assembly                                                                              | —                | —                                                | `helonic`  |
+| `kléandir` | `n`    | a hero; one the stories keep                                                                 | —                | —                                                | `helonic`  |
+| `théldir`  | `n`    | a festival of the gods, with games                                                           | —                | —                                                | `helonic`  |
+| `théld-`   | `stem` | of the festival                                                                              | —                | —                                                | `helonic`  |
+| `ieréshin` | `n`    | a rite, a thing done for a god                                                               | —                | —                                                | `helonic`  |
+| `kûmêt-`   | `stem` | of the chorus; the Byzarian form of _kûmêth-_                                                | —                | —                                                | `byzarian` |
+| `kûmêtin`  | `n`    | a hymn of the eastern rite, its stanzas sung by a cantor and its refrain by the whole church | `kûmêt-` + `-in` | [[lore-firstterms\|The Hymn of the First Terms]] | `byzarian` |
 
 ### Sea, river, land and sky
 
@@ -393,64 +396,65 @@ Every Helonic city of note has its academies, its gymnasia and its theaters, and
 
 Byzaris was named for its workshops, and the Byzarian tongue is the family's counting-house: it has a word for a debt that is owed, a debt that is forgiven and a debt that is sold on, and a factor can state the grade of a bale of wool in one word where a Helonic merchant needs a sentence. The eastern words came up the caravan road with the goods and took Byzarian endings at the gate.
 
-| Form           | Class  | Gloss                                              | Built from           | Attested                       | Tongue     |
-| -------------- | ------ | -------------------------------------------------- | -------------------- | ------------------------------ | ---------- |
-| `émpharin`     | `n`    | merchant, trader                                   | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `émphôria`     | `n`    | trade goods, commerce                              | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `khrémashîn`   | `n`    | goods, wealth                                      | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `khrýsharin`   | `n`    | gold                                               | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `khrýsh-`      | `stem` | gold, golden                                       | —                    | —                              | `helonic`  |
-| `máthiron`     | `n`    | metal                                              | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `kérdhanir`    | `n`    | profit, gain                                       | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `argýrin`      | `n`    | silver                                             | —                    | —                              | `helonic`  |
-| `argýr-`       | `stem` | silver, of silver                                  | —                    | —                              | `helonic`  |
-| `nômishin`     | `n`    | coin, struck money                                 | —                    | —                              | `helonic`  |
-| `zýghir`       | `n`    | a balance, a pair of scales                        | —                    | —                              | `helonic`  |
-| `zýgh-`        | `stem` | to weigh in the balance                            | —                    | —                              | `helonic`  |
-| `tálanin`      | `n`    | a talent, the great weight of silver               | —                    | —                              | `helonic`  |
-| `tálan-`       | `stem` | weighty, of the great weight                       | —                    | —                              | `helonic`  |
-| `euthálir`     | `adj`  | profitable, valuable                               | —                    | [[skill-helonclng\|Helonic]]   | `helonic`  |
-| `euthál-`      | `stem` | to prosper                                         | —                    | —                              | `helonic`  |
-| `byzar`        | `n`    | a workshop, the place of making                    | —                    | [[lore-byzarianclt\|Byzarian]] | `byzarian` |
-| `esh`          | `v`    | is; the bazaar's clipping of _ésharin_             | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
-| `danîzh`       | `v`    | lend; the bazaar's clipping of _danîzharin_        | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
-| `khrýshandáhr` | `adj`  | gold-rich, prosperous                              | `khrýsh-` + `andáhr` | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
-| `tchelkâr`     | `n`    | a factor, the agent who buys and sells for a house | —                    | —                              | `byzarian` |
-| `vardesh`      | `n`    | a debt owed                                        | —                    | —                              | `byzarian` |
-| `vardeshîn`    | `n`    | a debt sold on to a third party                    | —                    | —                              | `byzarian` |
-| `sepûz`        | `n`    | a debt forgiven, written off before witnesses      | —                    | —                              | `byzarian` |
-| `kîtvâr`       | `n`    | the ledger                                         | —                    | —                              | `byzarian` |
-| `morzâl`       | `n`    | the first grade of a good; the best bale           | —                    | —                              | `byzarian` |
-| `morzân`       | `n`    | the second grade, sound and ordinary               | —                    | —                              | `byzarian` |
-| `morzâsh`      | `n`    | the third grade, sold by the heap                  | —                    | —                              | `byzarian` |
-| `morz-`        | `stem` | to grade goods                                     | —                    | —                              | `byzarian` |
-| `karvash`      | `n`    | a caravan                                          | —                    | —                              | `byzarian` |
-| `karvashkâr`   | `n`    | a caravan-master                                   | `karvash` + `-kâr`   | —                              | `byzarian` |
-| `tolzát`       | `n`    | a toll, the gate's share                           | —                    | —                              | `byzarian` |
-| `nêshâr`       | `n`    | a trade-mark, a house's sign burned into a bale    | —                    | —                              | `byzarian` |
-| `hodîs`        | `n`    | a road                                             | —                    | —                              | `byzarian` |
-| `limenîs`      | `n`    | a quay, the harbor-front                           | —                    | —                              | `byzarian` |
-| `ambârim`      | `n`    | a warehouse                                        | —                    | —                              | `byzarian` |
-| `zhevrân`      | `n`    | a gem, a cut stone                                 | —                    | —                              | `byzarian` |
-| `pazhûr`       | `n`    | a pearl                                            | —                    | —                              | `byzarian` |
-| `tchelvâz`     | `n`    | turquoise                                          | —                    | —                              | `byzarian` |
-| `mâzhrel`      | `n`    | amber                                              | —                    | —                              | `byzarian` |
-| `tchârzil`     | `n`    | silk                                               | —                    | —                              | `byzarian` |
-| `zhâmbel`      | `n`    | indigo, the blue dye                               | —                    | —                              | `byzarian` |
-| `dâlvesh`      | `n`    | saffron                                            | —                    | —                              | `byzarian` |
-| `belzûr`       | `n`    | pepper, and any hot spice                          | —                    | —                              | `byzarian` |
-| `sêvrûn`       | `n`    | musk                                               | —                    | —                              | `byzarian` |
-| `rûzhvel`      | `n`    | a rose, and the rosewater pressed from it          | —                    | —                              | `byzarian` |
-| `selvâzh`      | `n`    | felt, and a tent made of it                        | —                    | —                              | `byzarian` |
-| `kezhvâl`      | `n`    | a camel                                            | —                    | —                              | `byzarian` |
-| `tûlvâz`       | `n`    | a horse                                            | —                    | —                              | `byzarian` |
-| `kezvûn`       | `n`    | a hawk, the hunting bird sold in the bazaar        | —                    | —                              | `byzarian` |
-| `tchîrnâl`     | `n`    | a caravan's bell                                   | —                    | —                              | `byzarian` |
-| `dezhbâl`      | `n`    | a well on the road, a water-stop                   | —                    | —                              | `byzarian` |
-| `pârzhel`      | `n`    | a road-fort, a walled stopping-place               | —                    | —                              | `byzarian` |
-| `vezhnûr`      | `n`    | the heights; the high passes                       | —                    | —                              | `byzarian` |
-| `seketar`      | `n`    | a secretary, a hired scribe                        | —                    | [[skill-byzarnlng\|Byzarian]]  | `byzarian` |
-| `papýrin`      | `n`    | paper-script, the Vylarian writing-sheet           | —                    | —                              | `byzarian` |
+| Form           | Class  | Gloss                                                   | Built from           | Attested                                       | Tongue     |
+| -------------- | ------ | ------------------------------------------------------- | -------------------- | ---------------------------------------------- | ---------- |
+| `émpharin`     | `n`    | merchant, trader                                        | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `émphôria`     | `n`    | trade goods, commerce                                   | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `khrémashîn`   | `n`    | goods, wealth                                           | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `khrýsharin`   | `n`    | gold                                                    | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `khrýsh-`      | `stem` | gold, golden                                            | —                    | —                                              | `helonic`  |
+| `máthiron`     | `n`    | metal                                                   | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `kérdhanir`    | `n`    | profit, gain                                            | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `argýrin`      | `n`    | silver                                                  | —                    | —                                              | `helonic`  |
+| `argýr-`       | `stem` | silver, of silver                                       | —                    | —                                              | `helonic`  |
+| `nômishin`     | `n`    | coin, struck money                                      | —                    | —                                              | `helonic`  |
+| `zýghir`       | `n`    | a balance, a pair of scales                             | —                    | —                                              | `helonic`  |
+| `zýgh-`        | `stem` | to weigh in the balance                                 | —                    | —                                              | `helonic`  |
+| `tálanin`      | `n`    | a talent, the great weight of silver                    | —                    | —                                              | `helonic`  |
+| `tálan-`       | `stem` | weighty, of the great weight                            | —                    | —                                              | `helonic`  |
+| `euthálir`     | `adj`  | profitable, valuable                                    | —                    | [[skill-helonclng\|Helonic]]                   | `helonic`  |
+| `euthál-`      | `stem` | to prosper                                              | —                    | —                                              | `helonic`  |
+| `byzar`        | `n`    | a workshop, the place of making                         | —                    | [[lore-byzarianclt\|Byzarian]]                 | `byzarian` |
+| `esh`          | `v`    | is; the bazaar's clipping of _ésharin_                  | —                    | [[skill-byzarnlng\|Byzarian]]                  | `byzarian` |
+| `danîzh`       | `v`    | lend; the bazaar's clipping of _danîzharin_             | —                    | [[skill-byzarnlng\|Byzarian]]                  | `byzarian` |
+| `khrýshandáhr` | `adj`  | gold-rich, prosperous                                   | `khrýsh-` + `andáhr` | [[skill-byzarnlng\|Byzarian]]                  | `byzarian` |
+| `tchelkâr`     | `n`    | a factor, the agent who buys and sells for a house      | —                    | —                                              | `byzarian` |
+| `vardesh`      | `n`    | a debt owed                                             | —                    | —                                              | `byzarian` |
+| `vardeshîn`    | `n`    | a debt sold on to a third party                         | —                    | —                                              | `byzarian` |
+| `sepûz`        | `n`    | a debt forgiven, written off before witnesses           | —                    | —                                              | `byzarian` |
+| `kîtvâr`       | `n`    | the ledger                                              | —                    | —                                              | `byzarian` |
+| `morzâl`       | `n`    | the first grade of a good; the best bale                | —                    | —                                              | `byzarian` |
+| `morzân`       | `n`    | the second grade, sound and ordinary                    | —                    | —                                              | `byzarian` |
+| `morzâsh`      | `n`    | the third grade, sold by the heap                       | —                    | —                                              | `byzarian` |
+| `morz-`        | `stem` | to grade goods                                          | —                    | —                                              | `byzarian` |
+| `karvash`      | `n`    | a caravan                                               | —                    | —                                              | `byzarian` |
+| `karvashkâr`   | `n`    | a caravan-master                                        | `karvash` + `-kâr`   | —                                              | `byzarian` |
+| `tolzát`       | `n`    | a toll, the gate's share                                | —                    | —                                              | `byzarian` |
+| `nêshâr`       | `n`    | a trade-mark, a house's sign burned into a bale         | —                    | —                                              | `byzarian` |
+| `hodîs`        | `n`    | a road                                                  | —                    | —                                              | `byzarian` |
+| `limenîs`      | `n`    | a quay, the harbor-front                                | —                    | —                                              | `byzarian` |
+| `ambârim`      | `n`    | a warehouse                                             | —                    | —                                              | `byzarian` |
+| `zhevrân`      | `n`    | a gem, a cut stone                                      | —                    | —                                              | `byzarian` |
+| `pazhûr`       | `n`    | a pearl                                                 | —                    | —                                              | `byzarian` |
+| `tchelvâz`     | `n`    | turquoise                                               | —                    | —                                              | `byzarian` |
+| `mâzhrel`      | `n`    | amber                                                   | —                    | —                                              | `byzarian` |
+| `tchârzil`     | `n`    | silk                                                    | —                    | —                                              | `byzarian` |
+| `zhâmbel`      | `n`    | indigo, the blue dye                                    | —                    | —                                              | `byzarian` |
+| `dâlvesh`      | `n`    | saffron                                                 | —                    | —                                              | `byzarian` |
+| `belzûr`       | `n`    | pepper, and any hot spice                               | —                    | —                                              | `byzarian` |
+| `sêvrûn`       | `n`    | musk                                                    | —                    | —                                              | `byzarian` |
+| `rûzhvel`      | `n`    | a rose, and the rosewater pressed from it               | —                    | —                                              | `byzarian` |
+| `selvâzh`      | `n`    | felt, and a tent made of it                             | —                    | —                                              | `byzarian` |
+| `kezhvâl`      | `n`    | a camel                                                 | —                    | —                                              | `byzarian` |
+| `tûlvâz`       | `n`    | a horse                                                 | —                    | —                                              | `byzarian` |
+| `kezvûn`       | `n`    | a hawk, the hunting bird sold in the bazaar             | —                    | —                                              | `byzarian` |
+| `tchîrnâl`     | `n`    | a caravan's bell                                        | —                    | —                                              | `byzarian` |
+| `dezhbâl`      | `n`    | a well on the road, a water-stop                        | —                    | —                                              | `byzarian` |
+| `pârzhel`      | `n`    | a road-fort, a walled stopping-place                    | —                    | —                                              | `byzarian` |
+| `pârzhelir`    | `n`    | a borderer, a soldier of the road-forts and the marches | `pârzhel` + `-ir`    | [[lore-twosealed\|The Song of the Two-Sealed]] | `byzarian` |
+| `vezhnûr`      | `n`    | the heights; the high passes                            | —                    | —                                              | `byzarian` |
+| `seketar`      | `n`    | a secretary, a hired scribe                             | —                    | [[skill-byzarnlng\|Byzarian]]                  | `byzarian` |
+| `papýrin`      | `n`    | paper-script, the Vylarian writing-sheet                | —                    | —                                              | `byzarian` |
 
 ### Kin, the person and the body
 
@@ -890,6 +894,18 @@ Every name the setting gives a person, place, polity, house or thing of the thre
 | **Porfyrákit**                                      | [[being-klnksprfrkt\|Kallínikos Porfyrákit]]                                                               | `byzarian`    | `porfyr-` + `-ákit`                         |
 | **Steníkot**                                        | [[being-fylzstnkt\|Fýléze Steníkot]]                                                                       | `byzarian`    | `sten-` + `-íkot`                           |
 | **Theomídes**                                       | [[being-thmdspfnts\|Theomídes Epifaniôtês]]                                                                | `byzarian`    | —                                           |
+| **The Hymn of the First Terms**                     | [[lore-firstterms\|The Hymn of the First Terms]]                                                           | `translation` | —                                           |
+| **Kûmêtin Arkhîdin**                                | [[lore-firstterms\|The Hymn of the First Terms]]                                                           | `byzarian`    | `kûmêt-` + `-in` + `arkhîdin`               |
+| **The Life of Kîtvârion of the Gate**               | [[lore-lifekitvarn\|The Life of Kîtvârion of the Gate]]                                                    | `translation` | —                                           |
+| **Kîtvârion**                                       | [[lore-lifekitvarn\|The Life of Kîtvârion of the Gate]]                                                    | `byzarian`    | `kîtvâr` + `-ion`                           |
+| **The Song of the Two-Sealed**                      | [[lore-twosealed\|The Song of the Two-Sealed]]                                                             | `translation` | —                                           |
+| **The Wrestling at the Third Spring**               | [[lore-twosealed\|The Song of the Two-Sealed]]                                                             | `translation` | —                                           |
+| **The Five Defects**                                | [[lore-fivedefects\|The Five Defects]]                                                                     | `translation` | —                                           |
+| **The Telling at the Road's Edge**                  | [[lore-fivedefects\|The Five Defects]]                                                                     | `translation` | —                                           |
+| **The Keeping of the Silk House**                   | [[lore-silkkeeping\|The Keeping of the Silk House]]                                                        | `translation` | —                                           |
+| **The Lament of Rûzhveléze**                        | [[lore-silkkeeping\|The Keeping of the Silk House]]                                                        | `translation` | —                                           |
+| **The Sayings of the First Warden**                 | [[lore-wardensayings\|The Sayings of the First Warden]]                                                    | `translation` | —                                           |
+| **The Warden's Instruction**                        | [[lore-wardensayings\|The Sayings of the First Warden]]                                                    | `translation` | —                                           |
 
 ## Retired names
 
