@@ -20,7 +20,7 @@ This is one entrance to [[place-vedyarargn|Vedyara]]. Follow the rivers south an
 
 The [[place-graznmntns|Grazian Mountains]] wall off the north. In [[place-vindhyalayaland|Shikharālaya]], a caravan needs a pass guide and must answer to the fortress that collects the toll; beyond the crossings lie the [[place-khzryndsrtrgn|Khazryn]] and [[place-tanvuregin|Tānvür]]. Around the wall's western end, the [[place-marchroad|march road]] reaches [[place-bhumipalaland|Bhūmipāla]] and [[place-dunharargn|Dunhara]] without a mountain pass. Its wells and armed companies make the question of who may travel together as important as the price of a load.
 
-Follow the rivers into [[place-rajapurjnpd|the central plains]] and a village's water channel can bring several households before a temple assembly. [[place-rajapur|Rājapur]] is a good place to hear how such an assembly can govern without a king. Downriver, [[place-chandrapurland|Chandrapur's country]] turns stone into gems and timber into ships; [[place-vyalendraland|Vyālendra's]] guild houses turn cotton into cloth. A commission, a disputed shipment, or a place in a workshop can carry a party between the two coasts.
+Follow the rivers into [[place-rajapurjnpd|the central plains]] and a village's water channel can bring several households before a temple assembly. [[place-rajapur|Rājapur]] is a good place to hear how such an assembly can govern without a king. Downriver, [[place-chandrapurland|Chandrapur's country]] turns stone into gems and timber into ships; [[place-vyalendraland|Vyālendra's]] shrenī houses turn cotton into cloth. A commission, a disputed shipment, or a place in a workshop can carry a party between the two coasts.
 
 Away from the rivers, [[place-vandhyabhumi|Vandhyabhūmi]] follows herds and watering rights across a dry plateau. Its ruined capital still stands beside the routes drovers use. Along [[place-bharavavana|the lower Bhārava]], the pilgrim road enters forest held by temple estates, with no village assembly to speak for those who gather its products. Both places reward travelers who ask whose ground they cross and whose account of it they have heard.
 
@@ -28,7 +28,7 @@ The monsoon changes the journey as much as a border does. It sets planting and p
 
 ## Who Holds Power
 
-When a canal breaks or two families claim the same field, a Vedyari village takes the matter to its **sabhā**. Most Vedyari live in a **janapada**: several villages joined around one central temple, governing themselves as a small republic. The land belongs collectively to the janapada through that temple; families hold rights to work particular fields. Household representatives, guild heads, and lineage elders sit in the sabhā, usually convened by a senior priest. The temple keeps the land records, irrigation works, granary, school, and court. A janapada is a place to live, a government, and a religious community at once.
+When a canal breaks or two families claim the same field, a Vedyari village takes the matter to its **sabhā**. Most Vedyari live in a **janapada**: several villages joined around one central temple, governing themselves as a small republic. The land belongs collectively to the janapada through that temple; families hold rights to work particular fields. Household representatives, shrenī heads, and lineage elders sit in the sabhā, usually convened by a senior priest. The temple keeps the land records, irrigation works, granary, school, and court. A janapada is a place to live, a government, and a religious community at once.
 
 > Farther south, you ask who can mend a broken water channel. A farmer points you toward the temple hall, where household representatives argue their claims before the sabhā. At the pass, the clerk held a token and a ledger; here, you have to learn whose field needs water first.
 
@@ -55,7 +55,7 @@ The merchant houses provide another sort of power. The [[affiliation-mrchntclctv
 
 ## Cities, Towns, and Roads
 
-If you want a harbor campaign, begin in [[place-chandrapur2|Chandrapur]], where the Chandramahī delivers gems to workshops and finished work to seagoing ships. For guild rivalries and the cloth trade, go to [[place-vyalendra3|Vyālendra]], the southern city of looms. [[place-suryagarha|Sūryagarha]] puts a party at a northern pass beneath a fortress's eye; [[place-sandhyapur|Sandhyāpur]] puts it on the dry road to Dunhara. Inland, [[place-rajapur|Rājapur]], [[place-dhanurkota|Dhanurkota]], and [[place-suvarnagiri|Suvarnagiri]] offer temple halls where a decision can matter farther than a city's walls.
+If you want a harbor campaign, begin in [[place-chandrapur2|Chandrapur]], where the Chandramahī delivers gems to workshops and finished work to seagoing ships. For shrenī rivalries and the cloth trade, go to [[place-vyalendra3|Vyālendra]], the southern city of looms. [[place-suryagarha|Sūryagarha]] puts a party at a northern pass beneath a fortress's eye; [[place-sandhyapur|Sandhyāpur]] puts it on the dry road to Dunhara. Inland, [[place-rajapur|Rājapur]], [[place-dhanurkota|Dhanurkota]], and [[place-suvarnagiri|Suvarnagiri]] offer temple halls where a decision can matter farther than a city's walls.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -128,7 +128,7 @@ The Vedyari keep the same ground in their own literature, and a party that hears
 
 ## Beginning an Adventure
 
-A party can arrive by ship, over the northern passes, or by the dry road from Dunhara. One character might be a temple student carrying a disputed calendar, another a guide owed payment by a caravan, and another a weaver sent to find out why a shipment never reached port. A local character might belong to a farming household, a merchant house, a craft guild, or an ascetic's following. Each tie offers help and asks something in return.
+A party can arrive by ship, over the northern passes, or by the dry road from Dunhara. One character might be a temple student carrying a disputed calendar, another a guide owed payment by a caravan, and another a weaver sent to find out why a shipment never reached port. A local character might belong to a farming household, a merchant house, a craft shrenī, or an ascetic's following. Each tie offers help and asks something in return.
 
 Start with a place and a claim on the party: a household wants its water restored; a patron needs a road kept open; a pilgrim cannot find the person meant to meet them. At the first temple, market, or toll post, ask three questions: **Who holds this place? Which household or institution speaks for you? Which road or rite brought you here?** The answers give the party allies, obligations, and somewhere to go next.
 

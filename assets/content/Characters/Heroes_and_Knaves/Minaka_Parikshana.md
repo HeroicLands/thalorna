@@ -460,7 +460,7 @@ Mināka is driven by the pursuit of perfection in her craft and by a deep belief
 ### Patrons
 
 The Devakara Merchant Family
-: Her primary employers and supporters. The patriarch, **Merchant Lord Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
+: Her primary employers and supporters. The patriarch, **Shreshthin Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
 
 The Council of Merchants
 : Several members of the city council regularly request private meals prepared by Mināka for diplomatic functions.
@@ -478,7 +478,7 @@ The Spice Merchant Syndicate
 
 ### Affiliations
 
-The City Cooks' Guild of Vedyara
+The City Cooks' Shrenī of Vedyara
 : A prestigious organization of master chefs and culinary craftspeople. Mināka holds rank among the highest members.
 
 The Devakara Household
@@ -497,4 +497,4 @@ The Temple of Mahājaya
 
 4. **The Feast of Seven Nights**: The Devakara family contracts Mināka to create a legendary feast spanning seven nights—one night for each element of the cosmos according to Vedyaran philosophy. Each night's meal must embody the qualities of that element and build toward a climactic final feast that somehow synthesizes all seven. The scope is enormous and the stakes are high—if successful, it will establish the Devakara family's social dominance for a generation. But as Mināka plans, she realizes that the timing of this request is suspicious. The ingredients required for the seventh-night meal, the element of void and completion, include substances that are expensive, rare, and potentially illegal. Is she being set up to execute the feast, or to fail in a way that will compromise her integrity and the family's honor?
 
-5. **The Memory in Flavor**: An elderly nobleman arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The nobleman requests that Mināka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Mināka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has genuinely lost their memory and is using Mināka as a guide through the landscape of forgotten tastes?
+5. **The Memory in Flavor**: An elderly Kulina arrives at the Devakara household claiming to be a long-lost relative. He has no memory of his past and no documentation of his identity, but the family's matriarch believes him based on fragments of recognition. The Kulina requests that Mināka prepare meals according to recipes he vaguely remembers from childhood, hoping that the flavors might trigger his memory. As Mināka works to reconstruct these dishes from minimal description, she begins to suspect that the man's memory loss is false. His descriptions are too specific, too organized—almost as if he is testing her knowledge. Is he an imposter seeking to infiltrate the family? A spy gathering intelligence? Or something stranger still—someone who has genuinely lost their memory and is using Mināka as a guide through the landscape of forgotten tastes?

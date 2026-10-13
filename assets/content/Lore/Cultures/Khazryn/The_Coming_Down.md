@@ -3,7 +3,7 @@ shortcode: comingdown
 name: {full: The Coming Down, aliases: [Genbunsemhal]}
 type: lore
 subType: literature
-description: "The Tellumi foundation legend as a Shēkhulsīghot tells it to a child at the water: the first lineages coming down from seven named peaks to seven springs, by the labyrinth of Vurdil or by the Western Descent, with the roll of the peaks recited at every princely funeral set at its heart, and the quarrel of the two accounts left where the Council leaves it."
+description: "The Tellumi foundation legend as a Dēlkoshekh tells it to a child at the water: the first lineages coming down from seven named peaks to seven springs, by the labyrinth of Vurdil or by the Western Descent, with the roll of the peaks recited at every princely funeral set at its heart, and the quarrel of the two accounts left where the Council leaves it."
 tags: [draft, khazryn]
 data:
   packFolder: settinglore
@@ -21,9 +21,9 @@ data:
   language: khazrilng
 ---
 
-**The Coming Down**, _Genbunsemhal_, is the [[lore-khazrynclt|Tellumi]] account of their own beginning: the first lineages coming down out of the [[place-graznmntns|Grazian Mountains]] to the great springs at the foot of the range and building the seven cities on them. Its heart is the **roll of the seven peaks**, a _semhal_ recited standing at every princely funeral and on the first day of the five-day festival, which names the peak each house roots its genealogy in and the spring each house settled, in founding order, and names no ancestor, because the founders' names are on the tablets of the houses and the roll leaves them there. Around the roll a Shēkhulsīghot tells the rest, in prose, to a child presented at the shrine of [[affiliation-zurathra|Zúráthrä]] within forty days of birth, or to a stranger who has asked which house the Shēkhulsīghot's family stood to and has been answered with the whole story. The telling below is one Shēkhulsīghot's, of the exile court of Shirvan at Amradad, and it gives the roll as that court gives it.
+**The Coming Down**, _Genbunsemhal_, is the [[lore-khazrynclt|Tellumi]] account of their own beginning: the first lineages coming down out of the [[place-graznmntns|Grazian Mountains]] to the great springs at the foot of the range and building the seven cities on them. Its heart is the **roll of the seven peaks**, a _semhal_ recited standing at every princely funeral and on the first day of the five-day festival, which names the peak each house roots its genealogy in and the spring each house settled, in founding order, and names no ancestor, because the founders' names are on the tablets of the houses and the roll leaves them there. Around the roll a Dēlkoshekh tells the rest, in prose, to a child presented at the shrine of [[affiliation-zurathra|Zúráthrä]] within forty days of birth, or to a stranger who has asked which house the Dēlkoshekh's family stood to and has been answered with the whole story. The telling below is one Dēlkoshekh's, of the exile court of Shirvan at Amradad, and it gives the roll as that court gives it.
 
-Two accounts of the coming down stand among the Tellumi, and the Shēkhulsīghot gives both in one voice. The old houses hold that the ancestors came down through [[place-vurdil|Vurdil]], the labyrinth that climbs into the north face from a plain doorway forty feet high above the belt; the houses that trace their descent to the [[place-wstrndscnt|Western Descent]], where the wall breaks into brown foothills, call that a lie told to flatter. The Council of the Princes has never settled it, and both accounts agree on the one rule that matters at law: a house whose peak is lost has lost its claim. The peaks are named here as the roll names them, **Gilsumtenhur**, **Viluntenhur**, **Kulsamtenhur**, **Talhiltenhur**, **Darhertenhur**, **Vursetenhur** and **Yermimtenhur**, and the ground under them is what the exile houses pay climbers and parties to reach. Nothing in the telling says who cut the passage, and the Shēkhulsīghot says so.
+Two accounts of the coming down stand among the Tellumi, and the Dēlkoshekh gives both in one voice. The old houses hold that the ancestors came down through [[place-vurdil|Vurdil]], the labyrinth that climbs into the north face from a plain doorway forty feet high above the belt; the houses that trace their descent to the [[place-wstrndscnt|Western Descent]], where the wall breaks into brown foothills, call that a lie told to flatter. The Council of the Princes has never settled it, and both accounts agree on the one rule that matters at law: a house whose peak is lost has lost its claim. The peaks are named here as the roll names them, **Gilsumtenhur**, **Viluntenhur**, **Kulsamtenhur**, **Talhiltenhur**, **Darhertenhur**, **Vursetenhur** and **Yermimtenhur**, and the ground under them is what the exile houses pay climbers and parties to reach. Nothing in the telling says who cut the passage, and the Dēlkoshekh says so.
 
 ## The Telling
 
@@ -35,7 +35,7 @@ Now the peaks. Every old house roots itself in a peak above the belt, and the ro
 
 ### What the old houses tell
 
-The old houses, and Shirvan is the oldest, tell it this way, and I tell it this way, and I will tell you the other way after, because the Council keeps both and a Shēkhulsīghot keeps what the Council keeps.
+The old houses, and Shirvan is the oldest, tell it this way, and I tell it this way, and I will tell you the other way after, because the Council keeps both and a Dēlkoshekh keeps what the Council keeps.
 
 In the first age, before the first tablet, the lineages lived in the high country, on the peaks and under them, and the song does not say how they lived, because the song begins with the leaving. There came a year, or a generation, when the high country would not hold them. The old houses say the snow came and did not go, and the water froze in the passages, and the children were born blue. The lineages went down. They did not go down the face, because the face is ice and no one goes down it. They went down through the mountain.
 
@@ -49,7 +49,7 @@ And the signs. As each lineage came down its own branch of the passage it cut it
 
 ### The roll of the peaks
 
-Now stand, because the roll is said standing, and this is how the eldest of a house says it at a prince's funeral, and how a Shēkhulsīghot says it on the first day of the festival, and the house answers each peak with the name of its city.
+Now stand, because the roll is said standing, and this is how the eldest of a house says it at a prince's funeral, and how a Dēlkoshekh says it on the first day of the festival, and the house answers each peak with the name of its city.
 
 : The Roll of the Seven Peaks {#roll}
 

@@ -25,7 +25,7 @@ The town is small for what passes through it. A deep-water hull cannot cross the
 
 ## The Bar and the Roadstead
 
-The bar is the reason for the place. It shifts with every flood season, and the channel through it is surveyed after every monsoon by the pilots' guild, whose charts are the town's most closely held property and are not sold. A master who comes in without a pilot pays the same fee and takes the same risk, and most of them take the pilot.
+The bar is the reason for the place. It shifts with every flood season, and the channel through it is surveyed after every monsoon by the pilots' shrenī, whose charts are the town's most closely held property and are not sold. A master who comes in without a pilot pays the same fee and takes the same risk, and most of them take the pilot.
 
 Outside the bar is the roadstead, open water on a shelving bottom with no shelter in it at all. Deep-water hulls lie there through the working season and load from lighters. When the rains come the roadstead is untenable and every hull that can leave has left, which is why the sailing calendar and the trading calendar in [[affiliation-chandrapur|Chandrapur]] are the same calendar.
 
@@ -33,7 +33,7 @@ Outside the bar is the roadstead, open water on a shelving bottom with no shelte
 
 Chandrapur's war-galleys are built here and laid up here. The yards stand on the firm ground above the marsh on the east side of the channel, and they belong to the crown and not to any of the **Nine Houses**—the one considerable thing in the land that does. A galley is built over about two years, is worked for twenty, and is broken up in the yard that built it.
 
-The merchant houses build their coasting hulls on the west side, in yards they own outright, and the two sides of the channel keep separate guilds, separate feasts and separate opinions about who is the more skilled. The crown has never had cause to settle it.
+The merchant houses build their coasting hulls on the west side, in yards they own outright, and the two sides of the channel keep separate shrenīs, separate feasts and separate opinions about who is the more skilled. The crown has never had cause to settle it.
 
 ## Who Comes Here
 

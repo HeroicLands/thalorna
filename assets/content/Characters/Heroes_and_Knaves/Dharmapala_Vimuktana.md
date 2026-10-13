@@ -417,11 +417,11 @@ Dharmapāla stands 6'1" tall with a medium build. He has warm golden brown skin,
 
 # Dossier {#dossier}
 
-Dharmapāla emerged from the lower castes of [[place-vedyarargn|Vedyara]]'s allied city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a merchant-prince known for employing street-born fighters. By his early twenties, Dharmapāla had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
+Dharmapāla emerged from the lower stations of [[place-vedyarargn|Vedyara]]'s allied city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a Shreshthin known for employing street-born fighters. By his early twenties, Dharmapāla had distinguished himself as a bodyguard, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
 
-The flower tattoo appeared around the time he entered the Mercenaries Guild proper, marking either a binding oath or a commemoration of personal loss—Dharmapāla offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
+The flower tattoo appeared around the time he entered the Mercenaries Shrenī proper, marking either a binding oath or a commemoration of personal loss—Dharmapāla offers no explanation. Over the next decade, he refined himself from street-fighter to bodyguard of the first rank, developing the foresight and eye for threats that set him apart from merely competent soldiers. He studied the ways of multiple city-states, learning their hierarchies and vulnerabilities, and began taking commissions that demanded not brute force but insight into people and inventive thinking.
 
-Now he operates from the margins of Vedyaran society, available to those wealthy and discrete enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Guild, Dharmapāla maintains fierce independence and careful separation from entanglements with other guild members or formal power structures.
+Now he operates from the margins of Vedyaran society, available to those wealthy and discrete enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Shrenī, Dharmapāla maintains fierce independence and careful separation from entanglements with other shrenī members or formal power structures.
 
 ## Psyche
 
@@ -455,10 +455,10 @@ Dharmapāla is motivated by the pursuit of mastery—the relentless refinement o
 
 ### Patrons
 
-Merchant-Princess Ashera of eastern Vedyara
+Shreshthin Ashera of eastern Vedyara
 : A widow and trader in luxury goods who regularly contracts Dharmapāla's services and has developed a real (though carefully unspoken) affection for him.
 
-Lord Kavindra the Banker
+Shreshthin Kavindra the Banker
 : An elderly financier who values Dharmapāla's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
 
 Master Surgeon Devak
@@ -473,18 +473,18 @@ Captain Nāgarītha of the City Guard
 : A criminal organization that attempted to hire Dharmapāla for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
 
 Kāndhara the Knife
-: A rival bodyguard and occasional guild-mate who views Dharmapāla as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmapāla succeeded.
+: A rival bodyguard and occasional shrenī-mate who views Dharmapāla as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmapāla succeeded.
 
 ### Affiliations
 
-The Mercenaries Guild of Vedyara
+The Mercenaries Shrenī of Vedyara
 : Formally affiliated but deliberately maintaining distance from organizational involvement and factional disputes.
 
 ## Plot Hooks
 
 1. **The Poisoned Patron**: A wealthy merchant-family that has retained Dharmapāla for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are subtle and leave no obvious trace, and the family's own paranoid response is making Dharmapāla's job of protection almost impossible. Worse, someone has begun spreading rumors that Dharmapāla himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
 
-2. **The Lost Child**: A minor noble approaches Dharmapāla with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a city-state faction war, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Dharmapāla must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the noble-family itself, motivated by greed rather than any belief in their claim.
+2. **The Lost Child**: A member of a lesser great house approaches Dharmapāla with a desperate and dangerous commission—her young daughter, kidnapped by rivals in a city-state faction war, is being held in a fortress across the border. The family cannot involve official authorities without putting the child at risk. Dharmapāla must assemble a team, penetrate a well-defended position, extract a terrified young girl who has bonded with her captors, and escape to safety. The complication arrives when he discovers the girl's captors are the true family of a child switched at birth, not the brutal kidnappers described—and the real hostage-taker is the great house itself, motivated by greed rather than any belief in their claim.
 
 3. **The Flower's Secret**: The flower tattoo on Dharmapāla's ankle is recognized by an unexpected visitor—a woman who bears an identical mark and claims to be connected to a vow he made years ago, a vow he has never openly acknowledged. She arrives with news that someone is hunting everyone bearing the flower mark, systematically eliminating them. She believes Dharmapāla can help her uncover why, and what oath was sworn so many years ago. Accepting her help would mean confronting the past he has spent years suppressing and potentially compromising the emotional distance that allows him to function.
 

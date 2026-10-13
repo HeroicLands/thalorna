@@ -469,7 +469,7 @@ Anurāja is also driven by a need to understand the limits of his capability. He
 ### Patrons
 
 The House of Vedyan Merchants
-: A noble merchant family that has contracted Anurāja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
+: A great merchant house that has contracted Anurāja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
 
 The Shadow-Brotherhoods of Vedyara
 : While Anurāja operates independently, he maintains loose affiliation with the organizations that trained him. They occasionally provide contracts, intelligence, or assistance when his own projects require additional capability.
@@ -482,7 +482,7 @@ The Righteous Order of Preservation
 Vex the Undying
 : Anurāja's former mentor, Grandmother Vex, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anurāja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
 
-The Guild of Ironhands
+The Shrenī of Ironhands
 : A mercenary organization that views Anurāja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
 
 ### Affiliations

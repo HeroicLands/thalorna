@@ -3,7 +3,7 @@ shortcode: vyalendra2
 name: {full: Vyālendra City-State, aliases: []}
 type: affiliation
 subType: polity
-description: "Textile city-state of southern Vedyara—“the City of Ten Thousand Looms,” whose master-weaver guilds produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms."
+description: "Textile city-state of southern Vedyara—“the City of Ten Thousand Looms,” whose master-weaver shrenīs produce silks and cottons of patterns and dyes found nowhere else, traded to the courts of emperors and high priests across the known realms."
 data:
   templatePriority: null
   demonym: Vyālendri
@@ -12,7 +12,7 @@ data:
   governance:
     model: council
     summary: >-
-      The Loom-Council of the master weavers, which keeps no king. The chartered weaving guilds hold its seats by craft-line, raise a Speaker from among themselves for a term, and govern production, trade and the city's civic life together.
+      The Loom-Council of the master weavers, which keeps no king. The chartered weaving shrenīs hold its seats by craft-line, raise a Speaker from among themselves for a term, and govern production, trade and the city's civic life together.
     ranks:
       - level: 1
         title: Bonded Servant
@@ -37,7 +37,7 @@ data:
       - level: 6
         title: Loom-Master
         description: >-
-          A master of one of the chartered weaving guilds, holding his craft-line's seat on the Loom-Council and the right to take apprentices in his own name.
+          A master of one of the chartered weaving shrenīs, holding his craft-line's seat on the Loom-Council and the right to take apprentices in his own name.
       - level: 7
         title: Speaker of the Loom-Council
         description: >-
@@ -46,7 +46,7 @@ data:
       Speaker of the Loom-Council: >-
         The master who puts the Council's questions and declares what it has agreed, for a term and never for life.
       Loom-Master: >-
-        A master of one of the chartered weaving guilds, holding his craft-line's seat on the Council and the dye-books and pattern-books of his line.
+        A master of one of the chartered weaving shrenīs, holding his craft-line's seat on the Council and the dye-books and pattern-books of his line.
       Triyāchārya: >-
         Senior priest of the city's Triyanga temple, who keeps the rites of all three forms and whose sanction the Council's acts require.
       Koshādhyaksha: >-
@@ -74,15 +74,15 @@ sohl: {system: {commonSkills: [vedyarlng]}}
 
 A **Loom-Master** taking on an apprentice begins with the pattern-book, and with a warning. "What is drawn for this hall is not drawn anywhere else while I live. Learn it here, weave it here, and keep it here. That rule is older than the Council, and it is the reason a bolt from this hall is worth what it is." It is older than [[lore-vylndrcrwn|the kings]] too, whose hall the Council sits in.
 
-## The Guilds
+## The Shrenīs
 
-The weavers of Vyālendra work within an intricate order of craft-lines that the chartered guilds maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as [[place-taruzelrgn|Tarûzel]] and [[place-helionis|Heliónis]]. The city guards its standing jealously.
+The weavers of Vyālendra work within an intricate order of craft-lines that the chartered shrenīs maintain. Master weavers hold the highest places and control both the production and the trade networks that carry the cloth as far as [[place-taruzelrgn|Tarûzel]] and [[place-helionis|Heliónis]]. The city guards its standing jealously.
 
-The difficult patterns are woven in the great halls inside the walls and the plain goods in the villages of the valleys, and each village's carding, spinning, dyeing or weaving is counted with the guild whose craft-line holds it. A Vyālendri village has no turn in any sabhā; what it has is a master, and what the master has is a seat. The dyers work upstream of the city, where the indigo compounds stain the air, and no dye-house may stand above another's intake.
+The difficult patterns are woven in the great halls inside the walls and the plain goods in the villages of the valleys, and each village's carding, spinning, dyeing or weaving is counted with the shrenī whose craft-line holds it. A Vyālendri village has no turn in any sabhā; what it has is a master, and what the master has is a seat. The dyers work upstream of the city, where the indigo compounds stain the air, and no dye-house may stand above another's intake.
 
 ## The Loom-Council
 
-The **Loom-Council** governs, and every chartered weaving guild holds a seat on it through its Loom-Master, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the guilds, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
+The **Loom-Council** governs, and every chartered weaving shrenī holds a seat on it through its Loom-Master, who keeps the dye-books and pattern-books of his line. The Council raises one of its masters as **Speaker** for a term and sends him back to his loom at the end of it. It licenses the shrenīs, sets the cloth-tax and the warehouse dues, judges between craft-lines, and keeps the watch. It sits in the old audience hall of the kings, and the Speaker addresses it from beside the step where the throne once stood, never on it.
 
 Above the city's own affairs stand the temples. The senior priest of the Triyanga temple, the city's **Triyāchārya**, sanctions the Council's acts as a priest sanctions a sabhā's inland, and a Council decision the temples will not sanction does not take effect. The Council has learned to ask beforehand.
 

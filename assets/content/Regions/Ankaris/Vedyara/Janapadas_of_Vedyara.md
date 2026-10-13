@@ -41,7 +41,7 @@ data:
       - level: 6
         title: Sabhāsadaka
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a shrenī holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         description: >-
@@ -75,7 +75,7 @@ A janapada's **Dūta** (envoy), the man its sabhā sends to a neighbor's hall, t
 
 A janapada is a federated cluster of villages governed through a sabhā (assembly) that meets in the great hall of the central temple. The word means roughly "the footprint of a people." The temple is the political center, the legal record office, the school, the granary insurance pool and, in the larger janapadas, the bank.
 
-The senior priest of the central temple usually convenes the sabhā. Its members are the householder representatives of each constituent village, the heads of the principal artisan and merchant guilds, and certain hereditary lineage-elders whose families have long been attached to the temple's foundation.
+The senior priest of the central temple usually convenes the sabhā. Its members are the householder representatives of each constituent village, the heads of the principal artisan and merchant shrenīs, and certain hereditary lineage-elders whose families have long been attached to the temple's foundation.
 
 Janapadas vary enormously in size. The smallest hold two or three thousand people. The largest govern forty thousand, and their central temples have grown into pilgrimage destinations of regional importance. Most hold ten to fifteen thousand people, governed by a sabhā of thirty to fifty members.
 

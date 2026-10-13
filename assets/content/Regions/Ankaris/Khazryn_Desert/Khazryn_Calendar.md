@@ -43,7 +43,7 @@ The new year opens with the spring equinox, the same day the [[lore-commoncal|Vy
 
 Years count from the Āhúrdáén Awakening (AA), and years before it run as Before the Āhúrdáén Awakening (BAA). The Breaking opens no era of its own: the Tellumi date it in the Awakening count, as an event inside an age they hold has not ended.
 
-The calendar follows the model of the [[affiliation-ahurdaen|Faith of Āhúrdáén]]'s own tradition. Shēkhulsīghots trained for fifteen to twenty years in astronomy and mathematics before ordination, and the priesthood that produces such scholars has kept a calendar this exact since before the Breaking.
+The calendar follows the model of the [[affiliation-ahurdaen|Faith of Āhúrdáén]]'s own tradition. Dēlkoshekhs trained for fifteen to twenty years in astronomy and mathematics before ordination, and the priesthood that produces such scholars has kept a calendar this exact since before the Breaking.
 
 ## Two Calendars in the Same Cities
 
@@ -52,6 +52,6 @@ The [[affiliation-tribestrzd|Ātárzád]] keep a different ritual reckoning, cyc
 ## See Also
 
 - [[affiliation-khzrncnfdrtn|Tellumi Confederation]]—the people whose calendar this is
-- [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the Shēkhulsīghots who maintain it
+- [[affiliation-ahurdaen|Faith of Āhúrdáén]]—the Dēlkoshekhs who maintain it
 - [[place-worldthlrn|The World of Thalorna]]—the fixed vernal equinox the year opens on
 - [[place-vaelith|Vaelith]]—the moon, whose thirty-day cycle leaves the same five days over

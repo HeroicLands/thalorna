@@ -40,7 +40,7 @@ Travelers reach the Tellumel by three roads. The Descent brings them from Dunhar
 
 The Ātárzád hold the four greatest cities, a tribe to each.
 
-- The [[place-oasishirvn|Oasis of Shirvan]], the first and holiest, sixty thousand people under the Vurinkarvem cliff, belongs to the Tēqemōd, the strictest of the twelve tribes. Tellumi Shēkhulsīghots hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Shēkhulsīghot keeps the old rite somewhere near the spring, and the Tēqemōd fire-wardens have searched for him for ninety years.
+- The [[place-oasishirvn|Oasis of Shirvan]], the first and holiest, sixty thousand people under the Vurinkarvem cliff, belongs to the Tēqemōd, the strictest of the twelve tribes. Tellumi Dēlkoshekhs hold no temple there and hear cases in back rooms. The quarter swears that a Hidden Dēlkoshekh keeps the old rite somewhere near the spring, and the Tēqemōd fire-wardens have searched for him for ninety years.
 - [[place-ashkarad|Ashkarad]], the craft city, belongs to the Tēghumōd, the merchant tribe, who buy what the workshops make and leave the craft councils alone. Each shaft of its deep water-tunnels is a family possession.
 - [[place-zargandur|Zargandûr]], once the Tellumi war-city, is the garrison of the Zhōqarōd, with the highest walls in the belt and a picket at every weir. A Tellumi caught with a blade after dark is beaten and fined, the Tellumi quarter keeps a lamp burning at every door until dawn, and beyond the north wall lies [[place-henhulpedin|Henhulpedin]], the blood-field where the war-house died.
 - [[place-kethramir|Kethramír]], where the southern spur comes down to the belt, belongs to the Tōzhirōd, the scholar tribe, who rule by precedent and keep a small garrison. Its hospitality is stricter than its law: a merchant who cheats there finds that no guide will lead his caravan.
@@ -68,13 +68,13 @@ A Tellumi under a magistrate is courteous, exact and reserved. He keeps two cale
 
 ## The House Records
 
-> Behind a carpenter's shop in Kethramír, a Shēkhulsīghot in a plain brown coat hears a dispute over a dead man's hours of water. Each family has brought a tablet in a cloth bag. He reads both aloud, lays them side by side and sends for a third from the quarter's archive. It comes out of a niche in the wall, wrapped in palm fiber and older than either family. He reads it twice, gives his ruling, and has his clerk press the ruling into fresh clay while everyone waits.
+> Behind a carpenter's shop in Kethramír, a Dēlkoshekh in a plain brown coat hears a dispute over a dead man's hours of water. Each family has brought a tablet in a cloth bag. He reads both aloud, lays them side by side and sends for a third from the quarter's archive. It comes out of a niche in the wall, wrapped in palm fiber and older than either family. He reads it twice, gives his ruling, and has his clerk press the ruling into fresh clay while everyone waits.
 
 Every Tellumi ninel (household) keeps records the way other households keep silver: genealogies, deeds, water-rights and temple registers. A tenyul (clay tablet) does not burn well, which is the only reason anything survived the fall of Shirvan, when the great temple's archive went up and the fleeing households carried out what they could. That clay is scattered across the exile courts now, and every house wants the tablets another holds. Literacy is expected of anyone above a laborer, and reading the hand written before the Breaking marks a serious person.
 
 The seven princely houses are the spine of all of it. Every Tellumi knows which house his family stood to, which is to say which court kept its records, and a man who says he is from Kethramír tells another Tellumi "priest-house, theologically serious, took the worst of the killing of the clergy" without a further word. The three ruling houses govern their oases. The four balem (exile) houses keep full courts of a few hundred souls each in Amradad, where a prince can recite every ancestor back to the founding of his line. Once a year all seven meet as the Council of the Princes under the High Shēkhulsīghot of Āhúrdáén, and coordinate without governing anyone. Khávar of Zargandûr, twenty-seven, trains with the Kingdom's soldiers, and the Council has neither endorsed nor forbidden what he is preparing.
 
-Where there is no Tellumi court, the Shēkhulsīghot is the government. He studies fifteen to twenty years before ordination, in astronomy, mathematics, theology, law and at least three tongues, and he registers marriages, judges inheritance and keeps the nartem (law and custom) of his community under a foreign magistrate who cares only that the taxes arrive. A family sends its ablest child to the Shēkhulūkhem ahead of any trade.
+Where there is no Tellumi court, the Dēlkoshekh is the government. He studies fifteen to twenty years before ordination, in astronomy, mathematics, theology, law and at least three tongues, and he registers marriages, judges inheritance and keeps the nartem (law and custom) of his community under a foreign magistrate who cares only that the taxes arrive. A family sends its ablest child to the Shēkhulūkhem ahead of any trade.
 
 ## Water, Faith and Trade
 
@@ -86,7 +86,7 @@ An oasis lives on dates, palm-sugar, grain, wool and hides, and Mehrnāgord on s
 
 ## People to Meet
 
-The clerk who writes your name by ear, the Shēkhulsīghot who rules in a back room and the chandler who keeps a lamp lit all night in Zargandûr all have lives beyond a party's errand:
+The clerk who writes your name by ear, the Dēlkoshekh who rules in a back room and the chandler who keeps a lamp lit all night in Zargandûr all have lives beyond a party's errand:
 
 ```sql
 SELECT address.slug AS _ref,
@@ -112,14 +112,14 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can come down the spur with a caravan to Kethramír, over the Descent to Mehrnāgord, or up from Amradad in an exile house's service. A Tellumi character might be a water-engineer's apprentice in Zargandûr's quarter, a Shēkhulsīghot's clerk who reads the old hand, a younger child of an exile court who has never seen the city the house claims, or a settler's child from Vahúrdash who knows every stretch of the channel.
+A party can come down the spur with a caravan to Kethramír, over the Descent to Mehrnāgord, or up from Amradad in an exile house's service. A Tellumi character might be a water-engineer's apprentice in Zargandûr's quarter, a Dēlkoshekh's clerk who reads the old hand, a younger child of an exile court who has never seen the city the house claims, or a settler's child from Vahúrdash who knows every stretch of the channel.
 
 At the first gate, three questions place a character among the Tellumi: **Which house did your family stand to? Where are its tablets? What do you owe the magistrate, and what do you keep from him?**
 
-Campaigns start well from the record. Pārván wants an envoy to carry an offer to Amradad, and the exile houses want to be sure it never arrives. The house of Vahúrdash needs the old archive found, and a rival needs it lost. A Tōzhirōd scholar wants a copy of the banned commentary so he can answer it, and a Shēkhulsīghot in the quarter wants the scholar's answer so she can answer back.
+Campaigns start well from the record. Pārván wants an envoy to carry an offer to Amradad, and the exile houses want to be sure it never arrives. The house of Vahúrdash needs the old archive found, and a rival needs it lost. A Tōzhirōd scholar wants a copy of the banned commentary so he can answer it, and a Dēlkoshekh in the quarter wants the scholar's answer so she can answer back.
 
 :::secret
-**For the GM:** The four held cities run on Tellumi hands, and both peoples know it. A party that learns which water-master keeps which unrecorded deed in Shirvan holds the quarter's real wealth; a party that learns who in the quarter reports to the Tēqemōd holds its life. The Hidden Shēkhulsīghot may be a person or a useful story, and the quarter's faith in him works either way.
+**For the GM:** The four held cities run on Tellumi hands, and both peoples know it. A party that learns which water-master keeps which unrecorded deed in Shirvan holds the quarter's real wealth; a party that learns who in the quarter reports to the Tēqemōd holds its life. The Hidden Dēlkoshekh may be a person or a useful story, and the quarter's faith in him works either way.
 :::
 
 ## Where to Read Next
@@ -141,13 +141,13 @@ Campaigns start well from the record. Pārván wants an envoy to carry an offer 
 | Word   | Meaning                                                                      |
 | ------ | ---------------------------------------------------------------------------- |
 | balem  | Exile; a princely house that keeps its court abroad while it claims its city |
-| nartem | Law and custom, as a community's Shēkhulsīghot keeps them                    |
+| nartem | Law and custom, as a community's Dēlkoshekh keeps them                       |
 | neyin  | A guest, owed food and shelter without question in time of need              |
 | ninel  | A household, which keeps its own tablets                                     |
 | relvan | A prince, the hereditary head of one of the seven houses                     |
 | revun  | The return: the recovery of the lost cities that the exile houses work for   |
 | tenyul | A clay tablet; a household's or a house's written record                     |
 
-Dowek is a loanword from [[lore-sowidesclt#glossary|the Sowides]]. Shēkhulsīghot, Shēkhulūkhem and High Shēkhulsīghot are words of the [[affiliation-ashanpnthn|Āsháian faith]], shared with Dunhara and Amradad.
+Dowek is a loanword from [[lore-sowidesclt#glossary|the Sowides]]. Dēlkoshekh, Shēkhulūkhem and High Shēkhulsīghot are words of the [[affiliation-ashanpnthn|Āsháian faith]], shared with Dunhara and Amradad.
 
 The [[lore-khazrynclt#glossary|full glossary]] at the end of the culture note lists every term these pages use.

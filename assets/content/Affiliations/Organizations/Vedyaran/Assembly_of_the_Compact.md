@@ -56,7 +56,7 @@ _Vedyaran: Sangha-Sabhā—"the Assembly of the [[lore-thirdcmpct|Compact]]"_
 
 ## Overview
 
-The Compact is a body of standing trade law: arbitration procedure, weights and measures, currency standards, and the roads, caravanserai and watch posts that carry Vedyaran commerce between one polity and the next. The merchant princes who wrote it could not unify the subcontinent and did not try. What they could do was make the terms of trade the same on both sides of every border, and then invite each polity to sign or to watch its neighbors grow richer than it. Each signed. They have signed every renewal since.
+The Compact is a body of standing trade law: arbitration procedure, weights and measures, currency standards, and the roads, caravanserai and watch posts that carry Vedyaran commerce between one polity and the next. The Shreshthins who wrote it could not unify the subcontinent and did not try. What they could do was make the terms of trade the same on both sides of every border, and then invite each polity to sign or to watch its neighbors grow richer than it. Each signed. They have signed every renewal since.
 
 The **Assembly of the Compact** is the body those signatures constitute. It convenes twice a year—in the spring at Chandrapur, in the autumn at Vyālendra—to renew the Compact, amend it, hear petitions against it, and settle what the standing committees could not. It is also, and by the same instrument, the governing body of the [[affiliation-mrchntclctvvdyr|Merchant Collective]]: the Collective operates the law the Assembly writes, and answers to the Assembly for how it operates it. That double character is the Compact's whole design. A merchant federation answerable to no polity would be a power over all of them; a federation answerable to one would be its instrument. Answerable to five at once, it is neither, and no seat can bend it without four others noticing.
 
@@ -69,12 +69,12 @@ _The Assembly holds no land._ It has no domain, no capital and no seat of its ow
 | Seat                                     | What it is             | How its land is held                      |
 | ---------------------------------------- | ---------------------- | ----------------------------------------- |
 | [[affiliation-chandrapur\|Chandrapur]]   | Gem-working city-state | Held—the Mahārāja and the **Nine Houses** |
-| [[affiliation-vyalendra2\|Vyālendra]]    | Weaving city-state     | Held—the city and its guild council       |
+| [[affiliation-vyalendra2\|Vyālendra]]    | Weaving city-state     | Held—the city and its shrenī council      |
 | [[affiliation-vindhyalay\|Shikharālaya]] | Highland pass-kingdom  | Held—the Mahārāja and his clan-chieftains |
 | [[affiliation-rajaprjnpd\|Rājapur]]      | Temple-republic        | Endowed—the temple and its sabhā          |
 | [[affiliation-dhnrktjnpd\|Dhanurkota]]   | Temple-republic        | Endowed—the temple and its sabhā          |
 
-The landlessness is deliberate. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two of them are held under a man, the Mahārāja of Chandrapur with his Nine Houses and the Mahārāja of Shikharālaya with his clan-chieftains; one is held by a guild council; two are temple-republics whose land answers to a rite. No seat would accept the way another holds its ground. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
+The landlessness is deliberate. A body that held ground would be a polity, and a polity is what the five seats will not constitute between them. Two of them are held under a man, the Mahārāja of Chandrapur with his Nine Houses and the Mahārāja of Shikharālaya with his clan-chieftains; one is held by a shrenī council; two are temple-republics whose land answers to a rite. No seat would accept the way another holds its ground. The Assembly governs an agreement and not a territory, and the agreement survives quarrels that would break a state.
 
 ## The Standing Committees
 

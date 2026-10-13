@@ -45,7 +45,7 @@ In the second year of the Breaking, about 620 AF, the war-house's cavalry rode o
 
 ## What Was Left
 
-The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Shēkhulsīghot beyond the wall and no names read. Three days later the Zhōqarōd drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhulpedin]], a moderate blood-field of recurrence that the Zhōqarōd keep for their own use.
+The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left, with no Dēlkoshekh beyond the wall and no names read. Three days later the Zhōqarōd drove the bodies into a trench and filled it. The ground is [[place-henhulpedin|Henhulpedin]], a moderate blood-field of recurrence that the Zhōqarōd keep for their own use.
 
 ## See Also
 

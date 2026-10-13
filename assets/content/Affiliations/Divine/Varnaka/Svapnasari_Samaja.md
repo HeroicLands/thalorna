@@ -107,6 +107,6 @@ The **Order of the Crescent** is an itinerant order of Darshakas who travel the 
 
 ### Geographic Presence
 
-Established Samāja monasteries sit in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and at one Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darshaka in civic residence, often attached to a royal or noble household.
+Established Samāja monasteries sit in the northwest of [[place-vedyarargn|Vedyara Region]], where the [[place-graznmntns|Grazian]] wall runs down into the desert margin of the [[place-dunharargn|Dunhara]]: in the broken uplands there, at a handful of edge-towns along the march road, and at one Pass-Shrine on the westernmost of the crossings. The rest stand in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darshaka in civic residence, often attached to a royal or great-house household.
 
 The march suits the sect. It is the one part of the subcontinent where the orthodox hierarchy's public religion sits lightly and the traffic is caravan traffic that comes and goes, so a monastery can keep its own hours without anyone in a capital taking an interest.

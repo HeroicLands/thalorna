@@ -17,7 +17,7 @@ data:
 
 **Nīlatīra** (12,000) stands where the **Nilacharī** reaches the eastern sea, three days below the last of [[affiliation-vyalendra2|Vyālendra]]'s valleys. It exists to put cloth on ships. Nothing is woven here and nothing is grown here worth the naming. The bolts come down the river road in covered boats, lie in the yards for a season, and leave in a hull.
 
-The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [[affiliation-vyalendra2|Loom-Council]] holds the place through the guilds whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
+The town is one street a mile long with the bale-yards on the seaward side of it and the boat-quays on the landward. Behind the street are the lodging houses, the rope-walk, the chandlers and four temples. The [[affiliation-vyalendra2|Loom-Council]] holds the place through the shrenīs whose warehouses stand in it, and the master of the yards is a Loom-Master's factor and not a man of the town.
 
 ## The Season
 
@@ -25,7 +25,7 @@ The cloth year is the monsoon's. Boats come down through the rains, when the riv
 
 ## The Seal
 
-A bolt leaves a weaving hall in the city under the lead seal of the guild that wove it, and the seal is the guild's warranty of the dye. The **Koshādhyaksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both go back up the river to the Council.
+A bolt leaves a weaving hall in the city under the lead seal of the shrenī that wove it, and the seal is the shrenī's warranty of the dye. The **Koshādhyaksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both go back up the river to the Council.
 
 ## The Galleys
 

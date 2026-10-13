@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahājaya temples of Upper, Middle, and Lower Suvarnagiri. Each constituent village sends two representatives; the artisan-and-merchant guilds collectively send twelve; the three temples send two each. Decisions on gold-related questions—extraction, taxation, allocation of the temple-share—require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
+      Sabhā of forty-eight members convened jointly (and rotationally, year by year) by the senior priests of the three great Mahājaya temples of Upper, Middle, and Lower Suvarnagiri. Each constituent village sends two representatives; the artisan-and-merchant shrenīs collectively send twelve; the three temples send two each. Decisions on gold-related questions—extraction, taxation, allocation of the temple-share—require a three-quarters majority, a deliberate constitutional brake against the concentration of mineral wealth.
     ranks:
       - level: 1
         title: Bonded Servant
@@ -38,7 +38,7 @@ data:
       - level: 6
         title: Sabhāsadaka
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a shrenī holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         description: >-
@@ -100,7 +100,7 @@ Three senior priests hold the temples:
 
 ## The Sabhā
 
-The sabhā has forty-eight members. Each constituent village sends two representatives, the artisan and merchant guilds together send twelve, and each of the three temples sends two. Decisions on gold (its extraction, its taxation and the allocation of the temple share) require a three-quarters majority, a deliberate brake against the concentration of mineral wealth.
+The sabhā has forty-eight members. Each constituent village sends two representatives, the artisan and merchant shrenīs together send twelve, and each of the three temples sends two. Decisions on gold (its extraction, its taxation and the allocation of the temple share) require a three-quarters majority, a deliberate brake against the concentration of mineral wealth.
 
 ## The Gold Constitution
 

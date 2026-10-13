@@ -81,7 +81,7 @@ No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-
 | [[affiliation-janpdsvdyr\|Janapadas of Vedyara]] | Confederation of temple-republics | 84,250,000 | Most of the river valleys, uplands and inland forest |
 | [[affiliation-vindhyalay\|Shikharālaya]]         | Kingdom                           | 8,000,000  | The northern highlands and the great passes          |
 | [[affiliation-chandrapur\|Chandrapur]]           | City-state under a Mahārāja       | 6,000,000  | The lower Chandramahī and its delta                  |
-| [[affiliation-vyalendra2\|Vyālendra]]            | City-state under a guild council  | 6,000,000  | The cotton and indigo valleys of the south           |
+| [[affiliation-vyalendra2\|Vyālendra]]            | City-state under a shrenī council | 6,000,000  | The cotton and indigo valleys of the south           |
 | [[affiliation-bhrvdvbhog\|Bhārava-Devabhoga]]    | Temple estates                    | 2,400,000  | The forest of the lower Bhārava                      |
 | [[affiliation-bhumipala\|Bhūmipāla]]             | Kingdom                           | 2,000,000  | The northwestern march and the western coast         |
 | [[affiliation-gomarga\|Gomārga]]                 | Kingdom                           | 1,200,000  | The wells and droveways of the central plateau       |

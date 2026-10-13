@@ -82,7 +82,7 @@ The Vyālendravāda is a monistic sect and one of the oldest philosophical schoo
 
 ### The Sect and Its Neighbors
 
-The sect is strongest among the building trades, the great guilds of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]'s, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
+The sect is strongest among the building trades, the great shrenīs of masons and architects, and the philosophical academies of [[place-vedyarargn|Vedyara Region]]. Its temples are fewer than the [[affiliation-trimurtisampradaya|Triyanga-sampradāya]]'s, and they are magnificent buildings. A well-proportioned temple, the sect holds, is the fullest argument the doctrine has. Its priests are often trained as deeply in geometry and engineering as in theology, and several of the great public works of the Vedyaran cities are the sect's.
 
 Relations with the orthodox [[affiliation-trimurtisampradaya|Triyanga-sampradāya]] are cordial and not without friction. Orthodox priests call the Vyālendravāda's reading of the lesser gods reductive. Its scholars call the orthodox triad a teaching convenience mistaken for the deepest truth. Most Vedyarans move freely between the temples of both.
 
@@ -107,8 +107,8 @@ The **Founder's Day** falls at the spring equinox and commemorates the semi-lege
 
 ### Orders
 
-The **Academy of the Shining Pattern** is the philosophical arm of the sect, the premier school of architecture and theology in [[place-vedyarargn|Vedyara Region]], with branches in every major city. The **Guild of the Scholar-Builders** is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
+The **Academy of the Shining Pattern** is the philosophical arm of the sect, the premier school of architecture and theology in [[place-vedyarargn|Vedyara Region]], with branches in every major city. The **Shrenī of the Scholar-Builders** is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
 
 ### Geographic Presence
 
-Vyālendravāda is strongest in the old scholarly capitals of Vedyara and in cities where the building guilds hold particular political weight. It has little presence in the villages, and its priests are rarely found traveling rural circuits.
+Vyālendravāda is strongest in the old scholarly capitals of Vedyara and in cities where the building shrenīs hold particular political weight. It has little presence in the villages, and its priests are rarely found traveling rural circuits.

@@ -114,7 +114,7 @@ The **Night of the Kindled Road** falls at the autumn equinox. Priests gather at
 
 ### Orders
 
-The **Order of the Broken Ring** is the most storied of the sect's orders: ascetic priest-warriors who undertake to confront and break entrenched corruption wherever their seniors judge it to have taken root. Their numbers are small, their methods severe, and their reputation is mixed. The **Sisterhood of the Gentle Ash** is a Vyāhrati-tinged order whose members specialize in the quieter purgations: the end of a marriage, the dissolution of a guild, the release of an inheritance.
+The **Order of the Broken Ring** is the most storied of the sect's orders: ascetic priest-warriors who undertake to confront and break entrenched corruption wherever their seniors judge it to have taken root. Their numbers are small, their methods severe, and their reputation is mixed. The **Sisterhood of the Gentle Ash** is a Vyāhrati-tinged order whose members specialize in the quieter purgations: the end of a marriage, the dissolution of a shrenī, the release of an inheritance.
 
 ### Where They Are Found
 

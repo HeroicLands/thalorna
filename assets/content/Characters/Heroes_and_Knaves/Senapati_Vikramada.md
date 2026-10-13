@@ -490,8 +490,8 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 Captain-Merchant Taramandal
 : A successful merchant captain who employs Senāpati regularly and considers him the foundation of his trading success. Taramandal has offered Senāpati a permanent position with significant authority, which Senāpati has declined.
 
-The Shipwrights' Guild of Vedyara
-: Maintains good relationships with the guild, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
+The Shipwrights' Shrenī of Vedyara
+: Maintains good relationships with the shrenī, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.
 
 Temple of Rāsikara
 : Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.

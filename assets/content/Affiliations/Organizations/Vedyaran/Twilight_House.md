@@ -3,7 +3,7 @@ shortcode: twilighths
 name: {full: The Twilight House, aliases: [The House of the Long Evening, Sandhyāgriha]}
 type: affiliation
 subType: guild
-description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Guild of Taking alike."
+description: "Prestigious Vedyaran courtesan establishment doubling as the subcontinent's premier intelligence network—gathering secrets from wealthy clients and selling them on to loom-masters, merchant houses, courts and the Shrenī of Taking alike."
 tags: [organization, vedyara, intelligence, courtesan, underworld]
 data:
   culture: vedyariclt
@@ -14,12 +14,12 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A hierarchical guild of women under the Mistress of the Long Evening, an elder courtesan retired from clients, with handlers forming a parallel structure beside the Companions.
+      A hierarchical shrenī of women under the Mistress of the Long Evening, an elder courtesan retired from clients, with handlers forming a parallel structure beside the Companions.
     ranks:
       - level: 0
         title: Cast Out
         description: >-
-          Put out of the House, her training disowned and her name given to every satellite house and to the Guild—no door in Vedyara opens to her again.
+          Put out of the House, her training disowned and her name given to every satellite house and to the Shrenī—no door in Vedyara opens to her again.
       - level: 1
         title: Apprentice
         description: >-
@@ -50,7 +50,7 @@ data:
       Mistress of Instruction: >-
         Keeper of the curriculum—the poetry, the instruments, the reckoning, the reading of a room.
       Keeper of the Ledger: Custodian of the product and its three tiers, and of who has bought which of them.
-      Factor to the Guild: >-
+      Factor to the Shrenī: >-
         The House's channel to the Ādānashrenī, through whom recruitment and shared operations pass.
       Doorkeeper: Warden of the threshold, who knows every client's face and admits no servant behind him.
       House Physician: Keeper of the Companions' health, and of a great deal that is never written down.
@@ -81,7 +81,7 @@ The House does not advertise this. It does not need to, because every powerful f
 
 ## Structure
 
-The House is a hierarchical guild of women under the **Mistress of the Long Evening** (the _Sandhyā-mātā_), an elder courtesan who has retired from clients and manages the establishment. Below her are three ranks:
+The House is a hierarchical shrenī of women under the **Mistress of the Long Evening** (the _Sandhyā-mātā_), an elder courtesan who has retired from clients and manages the establishment. Below her are three ranks:
 
 - **Senior Companions** are long-tenured women who command the highest fees, vet new clients and train the younger ranks.
 - **Companions** are the working body, typically aged eighteen to thirty, each assigned to a stable of regular patrons.
@@ -95,7 +95,7 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 
 ## Notable Affiliates
 
-- [[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]: a Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Guild.
+- [[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]: a Companion of growing prominence, recruited into the [[affiliation-adanasreni|Ādānashrenī]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrenī.
 - The Mistress of the Long Evening: the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
 
 ## Intelligence Operations
@@ -106,11 +106,11 @@ The steward's advice to a newcomer is to learn the three tiers by what they cost
 - **Tier two** is specific intelligence on a named target, gathered to commission and sold to the commissioning party. Pricing varies by target and difficulty, and some targets are refused.
 - **Tier three** is direct action: using a Companion's access to plant a document, switch a vial or deliver a message that cannot be traced. It is rare, expensive and politically dangerous, and the Mistress will deny it exists.
 
-A standing arrangement joins the House to the Ādānashrenī. The Guild recruits selected Companions into a dual role and uses House access to coordinate operations it could not otherwise reach. Both sides profit from it and both fear it, since either could destroy the other.
+A standing arrangement joins the House to the Ādānashrenī. The Shrenī recruits selected Companions into a dual role and uses House access to coordinate operations it could not otherwise reach. Both sides profit from it and both fear it, since either could destroy the other.
 
 ## Relations
 
-- Ādānashrenī: formal partnership for intelligence sharing and recruitment. Tension arises when the Guild's interests conflict with a high-paying client's.
+- Ādānashrenī: formal partnership for intelligence sharing and recruitment. Tension arises when the Shrenī's interests conflict with a high-paying client's.
 - The [[affiliation-vyalendra2|Loom-Council]] and the [[affiliation-mrchntclctvvdyr|Merchant Collective]]: clients and unwilling tributaries. Both buy from the House, and both have learned not to discuss matters of consequence in its rooms, a discipline that in practice breaks down across enough evenings and enough wine.
 - The [[affiliation-velvethand|Velvet Hand]]: the counterpart in the west. The two organizations keep an uneasy mutual respect and a non-aggression arrangement formalized through intermediaries, and each has standing orders to refuse contracts that target the other directly.
 - The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]] more broadly: clients on tier two. The House sells to them, they pay handsomely, and the House refuses to be controlled by any one of them.
@@ -130,5 +130,5 @@ Working Companions wear no fixed uniform, but each wears a silver chain at the t
 
 - [[place-sandhyagrha|Sandhyāgriha]]—the principal house, four streets from the Loom-Council's hall
 - [[place-vyalendra3|Vyālendra]]—the city the House keeps its seat in
-- [[affiliation-adanasreni|The Ādānashrenī]]—the Guild of Taking, the House's partner and its danger
+- [[affiliation-adanasreni|The Ādānashrenī]]—the Shrenī of Taking, the House's partner and its danger
 - [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]—the Collective that buys its product and denies it below

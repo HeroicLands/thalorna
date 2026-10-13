@@ -3,7 +3,7 @@ shortcode: karpasagrama
 name: {full: Kārpāsagrāma, aliases: []}
 type: place
 subType: settlement
-description: "Cotton village of the lower curve, whose weaver-caste workshops clothe most of the janapada."
+description: "Cotton village of the lower curve, whose Karmāja weaver workshops clothe most of the janapada."
 tags: [village, river, inland, draft]
 data:
   demonym: null

@@ -27,7 +27,7 @@ The river has come at the mounds twice within written record and taken neither. 
 
 ## What the Town Does
 
-Pilgrims are the trade. There are lodging-houses along both causeways, garland-makers, sellers of lamp-oil and of the coarse red cloth the Mahājaya observance uses, and a guild of boatmen who bring worshippers down from the upstream reaches and take them back. Most of the town's households live off some part of that traffic.
+Pilgrims are the trade. There are lodging-houses along both causeways, garland-makers, sellers of lamp-oil and of the coarse red cloth the Mahājaya observance uses, and a shrenī of boatmen who bring worshippers down from the upstream reaches and take them back. Most of the town's households live off some part of that traffic.
 
 The rest is river work: grain out of the reach behind the town, the ferry across, and the yards that build the flat-bottomed craft the lower river uses. The temple owns the ferry and lets it by the year.
 

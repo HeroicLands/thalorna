@@ -51,7 +51,7 @@ data:
       Dandanāyaka: Magistrate and keeper of the king's justice within a district.
       Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the mint.
       Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source of both strength and rebellion.
+        A chieftain holding land of the king in return for service, and the kingdom's chief source of both strength and rebellion.
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of the passes.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: suryagarha
@@ -115,7 +115,7 @@ The shrines keep their own crossing-register at the summit, and it does not alwa
 
 ## Economy
 
-Shikharālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the peasantry unsqueezed, and the southern kingdoms regard that stability with envy and with suspicion.
+Shikharālaya taxes every bale on entry and again on exit. The customs revenue keeps the royal coffers full and the farming households unsqueezed, and the southern kingdoms regard that stability with envy and with suspicion.
 
 What the customs-house at Sūryagarha actually sells is the season. The pass is open for weeks and shut for months, everything that crosses in a year crosses in the same few weeks, and the token a caravan needs is cheap while the date written on it is at the crown's discretion. Early in the season is a profit and late in the season is a year's wait, and the kingdom's revenue is smaller than the value of that decision.
 

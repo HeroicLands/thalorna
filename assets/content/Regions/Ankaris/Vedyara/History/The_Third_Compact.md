@@ -3,7 +3,7 @@ shortcode: thirdcmpct
 name: {full: The Third Compact, aliases: [The Third Janapada Compact]}
 type: lore
 subType: history
-description: "The body of standing trade law the merchant princes of Vedyara put to the polities at the Mahā-Mela of 320 AF, at the end of the crisis generation, which founded the Assembly of the Compact and the Merchant Collective."
+description: "The body of standing trade law the Shreshthins of Vedyara put to the polities at the Mahā-Mela of 320 AF, at the end of the crisis generation, which founded the Assembly of the Compact and the Merchant Collective."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -18,7 +18,7 @@ data:
         - lore-vdyrnbnkng
         - affiliation-janpdsvdyr
       summary: >-
-        At the Mahā-Mela of 320 AF the polities of Vedyara swear the Third Compact: a body of standing trade law, with arbitration procedure, weights and measures, currency standards, and the roads, caravanserai and watch posts that carry commerce from one polity to the next, written over three generations by merchant princes working across polities then at war. Each signatory constitutes, by the same instrument, the Assembly that renews and amends the law and the Merchant Collective that operates it.
+        At the Mahā-Mela of 320 AF the polities of Vedyara swear the Third Compact: a body of standing trade law, with arbitration procedure, weights and measures, currency standards, and the roads, caravanserai and watch posts that carry commerce from one polity to the next, written over three generations by Shreshthins working across polities then at war. Each signatory constitutes, by the same instrument, the Assembly that renews and amends the law and the Merchant Collective that operates it.
       standing: attested
       names:
         - name: the Third Janapada Compact
@@ -66,7 +66,7 @@ data:
             Each polity was invited to sign or to watch its neighbors grow richer, and each signed. They have signed every renewal since.
           agrees: full
       unresolved:
-        - the names of the merchant princes who wrote it
+        - the names of the Shreshthins who wrote it
         - when the First and Second Compacts were sworn
 ---
 
@@ -78,7 +78,7 @@ The formal name is the **Third Janapada Compact**, and it comes from the Mela. T
 
 ## The Generation Before It
 
-The Compact was three generations in the writing. Its authors were merchant princes working across polities that were then at war with one another, and they could not unify the subcontinent and did not try. In the third, [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came round the western end of the wall and overran the northwestern march, and in the east [[lore-conchdoor|an adventurer came through the conch-door]] and took janapadas one by one until the [[affiliation-janpdsvdyr|Mahā-Sangha]] raised an army to put him out. The third of them counted from [[lore-fieldelephnt|the Field of Elephants]], about 270, a battle no kingdom won.
+The Compact was three generations in the writing. Its authors were Shreshthins working across polities that were then at war with one another, and they could not unify the subcontinent and did not try. In the third, [[lore-hndrdbnnrs|The Storm of the Hundred Banners]] came round the western end of the wall and overran the northwestern march, and in the east [[lore-conchdoor|an adventurer came through the conch-door]] and took janapadas one by one until the [[affiliation-janpdsvdyr|Mahā-Sangha]] raised an army to put him out. The third of them counted from [[lore-fieldelephnt|the Field of Elephants]], about 270, a battle no kingdom won.
 
 The Mela that next sat, in 320 AF on the twelve-yearly cycle that put a Mela in 716, heard the merchants' law, and the polities signed it. The Compact holds in common the roads, the caravanserai and the watch posts, along with the arbitration procedure, the weights and measures and the currency standards. The merchants' terms were simple: the rules of trade made the same on both sides of every border, and each polity free to sign or to watch its neighbors grow richer than it. Each signed.
 

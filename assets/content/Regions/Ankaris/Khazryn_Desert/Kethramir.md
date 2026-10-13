@@ -20,7 +20,7 @@ data:
 
 ## Water
 
-Three deep wells give the city its standing on the road: they have never failed, in a belt where springs do. Two stand in the central yard, a stone-lipped pair sunk through the rock to an aquifer that the first Tellumi tapped, and the third is in the Tellumi quarter, where the Shēkhulsīghots bless it on the first day of each month. Around them the city has grown in courtyards of thick-walled adobe with narrow windows, built to hold cool air through the afternoon. A fourth source, a seep at the foot of the foothills outside the walls, feeds a small shrine to Zúráthrä and the garden of the shrine's keeper, [[being-zevaradthvrn|Zevârad Dathvarûn]].
+Three deep wells give the city its standing on the road: they have never failed, in a belt where springs do. Two stand in the central yard, a stone-lipped pair sunk through the rock to an aquifer that the first Tellumi tapped, and the third is in the Tellumi quarter, where the Dēlkoshekhs bless it on the first day of each month. Around them the city has grown in courtyards of thick-walled adobe with narrow windows, built to hold cool air through the afternoon. A fourth source, a seep at the foot of the foothills outside the walls, feeds a small shrine to Zúráthrä and the garden of the shrine's keeper, [[being-zevaradthvrn|Zevârad Dathvarûn]].
 
 ## Trade and Life
 
@@ -30,13 +30,13 @@ The city's rule of hospitality is stricter than the law. A merchant who cheats o
 
 ## Under the Ātárzád
 
-The Tōzhirōd keep the scriptural archive and the law-codes of the Ātárzád, and they rule Kethramír like scholars: by precedent, patiently, and with a preference for rulings over soldiers. The garrison is small. The Tellumi quarter around the third well has its own Shēkhulsīghot and its own courts, under the eye of a Tōzhirōd magistrate who reads the Tellumi tablets and sometimes agrees with them.
+The Tōzhirōd keep the scriptural archive and the law-codes of the Ātárzád, and they rule Kethramír like scholars: by precedent, patiently, and with a preference for rulings over soldiers. The garrison is small. The Tellumi quarter around the third well has its own Dēlkoshekh and its own courts, under the eye of a Tōzhirōd magistrate who reads the Tellumi tablets and sometimes agrees with them.
 
 The old **House of Kethramír**, the Tellumi priest-house, lives in exile in Amradad, led by Yázdín, the author of the commentary the Ātárzád have banned. A copy of her work passes through Kethramír in every caravan from the west, hidden in a bale of cloth, and a Tōzhirōd clerk who finds one has to decide whether it is a crime or a book. Families from the old quarter, such as the merchant house of the Parnâzar, still trade in the minerals and stones that come down from the uplands, and the best of them have learned to deal with both peoples.
 
 ## Hooks and Dangers
 
-- **The book.** A Tōzhirōd scholar wants a copy of the banned commentary, to answer it. A Shēkhulsīghot in the Tellumi quarter wants the scholar's answer, to answer back. The party can carry both, and be paid by each for not telling the other.
+- **The book.** A Tōzhirōd scholar wants a copy of the banned commentary, to answer it. A Dēlkoshekh in the Tellumi quarter wants the scholar's answer, to answer back. The party can carry both, and be paid by each for not telling the other.
 - **The cheat.** A caravan master accused of fraud is held in the yards until the guides' company decides his case. Whoever he cheated is dead, and the other guides do not agree on who. A party hired to find the truth discovers that the company's ruling will bind the road for a season.
 - **The spur.** The interior road beyond the city is the least safe stretch of the trade. A string leaving Kethramír with spices has to pay a toll to every tribe it passes, and the tribes know when the strings leave. The riders who sell guides and escorts here will tell a party which tribe is not honoring its own passage this year, for a price.
 - **The wells.** If the third well turns brackish in a dry year, the Tellumi quarter has no other source, and the Tōzhirōd magistrate has the power to share the other two or to keep them.

@@ -51,7 +51,7 @@ data:
       Dandanāyaka: Magistrate and keeper of the king's justice within a district.
       Koshādhyaksha: Superintendent of the treasury, answerable for revenue, stores and the mint.
       Sāmanta: >-
-        A vassal chieftain holding land in return for service, and the kingdom's chief source of both strength and rebellion.
+        A chieftain holding land of the king in return for service, and the kingdom's chief source of both strength and rebellion.
       Dūta: Envoy to a foreign court, whose person is protected by custom on both sides of the frontier.
       Ganaka: Court astrologer, fixing the auspicious hour for campaigns, marriages and coronations.
   seat: sandhyapur

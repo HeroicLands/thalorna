@@ -12,7 +12,7 @@ If the **Age of Copyists** has a sound, it is a stylus on a palm leaf. For four 
 
 ## What Happened
 
-The age was quiet and was not peaceful. About 125 BF a lord of the indigo valleys took the cloth city and was crowned in it ([[lore-vylndrcrwn|the Raising of the Vyālendri Crown]]). About 80 BF raiders from a neighboring hill kingdom took a month's gold off Suvarnagiri's weighing-station, and the king of Bharyastān brought it back by weight ([[lore-lastgldrd|the Last Gold Raid]]), which is the last time the gold mountain has lost gold to anyone. About 200 BF the [[affiliation-agnipantha|Agnī-panthā]] was put out of the city temples for the first time ([[lore-agnipartng|the Three Partings]]).
+The age was quiet and was not peaceful. About 125 BF a master of the indigo valleys took the cloth city and was crowned in it ([[lore-vylndrcrwn|the Raising of the Vyālendri Crown]]). About 80 BF raiders from a neighboring hill kingdom took a month's gold off Suvarnagiri's weighing-station, and the king of Bharyastān brought it back by weight ([[lore-lastgldrd|the Last Gold Raid]]), which is the last time the gold mountain has lost gold to anyone. About 200 BF the [[affiliation-agnipantha|Agnī-panthā]] was put out of the city temples for the first time ([[lore-agnipartng|the Three Partings]]).
 
 About 60 AF the clans of the northern highlands chartered a king to hold the road through Sūryadvāra ([[lore-passcharter|the Charter of the Pass-Road]]). About 120 AF the Mahānadī moved and [[lore-drwnngseat|drowned a royal seat]].
 

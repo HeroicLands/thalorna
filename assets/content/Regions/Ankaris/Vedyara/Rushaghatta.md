@@ -3,7 +3,7 @@ shortcode: rushaghatta
 name: {full: Rūshaghatta, aliases: [The Dust Landing]}
 type: place
 subType: settlement
-description: "An oxbow town of the Rājapur Janapada that the Mahānadī left on dry ground: a river-town of six hundred whose ghat-steps lead down to a field, whose landings are threshing floors, and which still keeps a boat-guild with no boats."
+description: "An oxbow town of the Rājapur Janapada that the Mahānadī left on dry ground: a river-town of six hundred whose ghat-steps lead down to a field, whose landings are threshing floors, and which still keeps a boat-shrenī with no boats."
 tags: [village, river, inland]
 data:
   demonym: null
@@ -26,7 +26,7 @@ Below the stairs the old channel runs off in both directions as a long crescent 
 
 ## What the Town Keeps From the River
 
-- **The boat-guild.** Rūshaghatta still has a guild of boatmen, nineteen households strong, and no boats. The guild keeps its hall, its register and its seat in the village assembly, and it sends its sons to the river at Rājapur to work the boats there. Once a year it carries a boat it keeps in its hall down the ghat-steps and sets it on the field, and the priest blesses it as though it floated.
+- **The boat-shrenī.** Rūshaghatta still has a shrenī of boatmen, nineteen households strong, and no boats. The shrenī keeps its hall, its register and its seat in the village assembly, and it sends its sons to the river at Rājapur to work the boats there. Once a year it carries a boat it keeps in its hall down the ghat-steps and sets it on the field, and the priest blesses it as though it floated.
 - **The river-stair rites.** Funerals still go down to the lowest step. The dead are carried to the water's place, and a pot of water fetched from the Mahānadī that morning is poured on the stone before the procession turns back up the steps to the pyre.
 - **The flood mark.** A line cut in the temple wall marks the highest water the town ever saw. Every year in the rains the dead channel fills a hand's depth or two, and every year somebody walks down to see whether the river is coming back.
 
@@ -36,9 +36,9 @@ The village is quiet, prosperous and welcoming, and it asks visitors the same qu
 
 ## Hooks
 
-- **The channel fills.** This year the dead channel has filled to the third step and is still rising, and the river has not done that in living memory. If the Mahānadī is moving back, Rūshaghatta becomes a river-town again and the village downstream of it loses its water. The boat-guild wants someone to go upriver and find where the bank is failing before the sabhā hears of it from the downstream village.
+- **The channel fills.** This year the dead channel has filled to the third step and is still rising, and the river has not done that in living memory. If the Mahānadī is moving back, Rūshaghatta becomes a river-town again and the village downstream of it loses its water. The boat-shrenī wants someone to go upriver and find where the bank is failing before the sabhā hears of it from the downstream village.
 - **The ring that holds.** A cultivator plowing the old riverbed has turned up a mooring post with a bronze plate on it, cut with the seal of a Mahānadī king and a date in the old count. The [[place-rajavalilib|Rājavalī Library]]'s copyists want it, because it could date the move the record never dated.
-- **The guild's boat.** The boat the guild carries down the steps each year is older than the move and has never touched water since. A buyer from the coast has offered the guild more than the village's harvest for it, and the guild's eldest refuses to say why it will not sell.
+- **The shrenī's boat.** The boat the shrenī carries down the steps each year is older than the move and has never touched water since. A buyer from the coast has offered the shrenī more than the village's harvest for it, and the shrenī's eldest refuses to say why it will not sell.
 
 ## See Also
 

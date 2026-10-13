@@ -237,10 +237,10 @@ That is what a prince looks like who counted the wrong thing. That is all.
 
 Bernirul lived. He kept the oath. He served the house in Kethramír
 and stood a gate for thirty years and never named the year
-or the court or the boy, and when he died a Shēkhulsīghot read his name
+or the court or the boy, and when he died a Dēlkoshekh read his name
 from the household clay that Minele saved, and the lamps were lit, and the same
 reed pressed beneath it, as the custom is, the names of the dead he owed,
-and the Shēkhulsīghot read them, and came to one, and stopped, and the household showed
+and the Dēlkoshekh read them, and came to one, and stopped, and the household showed
 him the shield, and he read the shield. That is how it is done.
 And this is what the song is for. The town is a sand-filled plan.
 The streets are forty feet wide and the houses have no roofs, and a man

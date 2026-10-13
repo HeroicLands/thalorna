@@ -14,7 +14,7 @@ Ascetic traditions are respected across Vedyara and the devout keep those who fo
 
 ## Who Comes
 
-Few know where she is, and those who do are not in the habit of saying. Some of them have come a long way, and at least one of them is a woman holding a house against an orthodoxy that has excommunicated her supporters.
+Few know where she is, and those who do are not in the habit of saying. Some of them have come a long way, and at least one of them is a woman holding a house against an orthodoxy that has barred her supporters from the temple's well and court.
 
 What a visitor gets is counsel on a matter of conscience, given in terms that are cryptic at the time and are generally found to have been right afterward. She does not adjudicate, she does not intercede, and she has never been heard to comment on the Gold Constitution.
 

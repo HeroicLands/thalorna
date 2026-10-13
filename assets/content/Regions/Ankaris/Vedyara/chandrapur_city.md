@@ -16,7 +16,7 @@ data:
   government: chandrapur
 ---
 
-**Chandrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chandrapur|Chandrapur]], and it stands at the head of the [[place-chandrmahi|Chandramahī]] delta where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the **Moon City** comes from, and the temples and the guildhalls are kept washed so that the name stays true.
+**Chandrapur** (90,000, market 6) is the capital and principal settlement of [[affiliation-chandrapur|Chandrapur]], and it stands at the head of the [[place-chandrmahi|Chandramahī]] delta where the river divides and the tide stops. It is built of a pale limestone that weathers whiter rather than grayer, which is where the **Moon City** comes from, and the temples and the shrenī halls are kept washed so that the name stays true.
 
 The city is the last place on the river a hull of any size can reach and the first place above it where a cargo is safe from the sea. That is the whole reason it is here. Everything else about it—the gemcraft, the court, the reckoners, the wealth—stands on that one fact of the ground.
 

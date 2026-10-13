@@ -12,7 +12,7 @@ data: {packFolder: vedyara, culture: vedyariclt}
 
 ## What Happened
 
-Three generations of merchant princes worked across the borders while the wars went on, toward a law under which the polities could trade without needing to be one state. The [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s own history begins among the polities "that were then at war with each other," and the third generation of those princes dated its work from the year after the age's great battle.
+Three generations of Shreshthins worked across the borders while the wars went on, toward a law under which the polities could trade without needing to be one state. The [[affiliation-mrchntclctvvdyr|Merchant Collective]]'s own history begins among the polities "that were then at war with each other," and the third generation of those princes dated its work from the year after the age's great battle.
 
 That battle was the [[lore-fieldelephnt|Field of Elephants]]. About 265 AF the king of [[affiliation-gomarga|Gomārga]] took three lineages' wells into the crown's hand to pay for a war on the river ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). About 270 AF his coalition came down off the plateau against the river kingdom of **Purnatīra**, both lines broke among the war-elephants, and the dead were left to the rains on ground that became the second _shorukshetra_. About 280 the kings forbade the [[affiliation-agnipantha|Agnī-panthā]] to burn that field, and the sect went anyway ([[lore-agnipartng|the Three Partings]]). About 260 the Priestly Court of Shikharālaya won its own hall at Sūryagarha ([[lore-passcharter|the Charter of the Pass-Road]]).
 

@@ -8,7 +8,7 @@ data:
   icon: icon-person
   templatePriority: null
   archetypes: [courtier, scholar]
-  occupation: Nobility (Manor Lord)
+  occupation: Kulina (Head of a Landholding House)
   lore: []
   culture: vedyariclt
   homes: [suvarnagiri]
@@ -426,13 +426,13 @@ Pritārika stands 5'6" tall with a medium build. She has rich brown skin, very d
 
 # Dossier {#dossier}
 
-Pritārika was born into the great house of Padmadīksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Lord Jayendra, believed that women of noble blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Lady Amrita, was herself a scholar of considerable renown and passed to Pritārika a love of knowledge and an unusually compassionate worldview.
+Pritārika was born into the great house of Padmadīksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulina Jayendra, believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Amrita, was herself a scholar of considerable renown and passed to Pritārika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional nobility resisted this broad education, but Lord Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Lord Devānūra of a neighboring manor, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devānūra respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
+The realm's traditional great houses resisted this broad education, but Kulina Jayendra was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulina Devānūra of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Devānūra respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
 
 When Devānūra was killed in a hunting accident at age fifty-five—an incident Pritārika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 
-For the past fifteen years, she has carried out new agricultural reforms, established fair legal codes that protect commoners alongside noble interests, invested in education for promising youth regardless of birth status, and handled the treacherous politics between the noble houses with care to strengthen her position and that of her people.
+For the past fifteen years, she has carried out new agricultural reforms, established fair legal codes that protect the Karmāja alongside the interests of the great kulas, invested in education for promising youth regardless of birth status, and handled the treacherous politics between the great houses with care to strengthen her position and that of her people.
 
 ## Psyche
 
@@ -442,7 +442,7 @@ Pritārika is a woman of great intelligence housed in a frame and manner that ma
 
 She is driven by care for those under her protection, which makes the harder decisions—sacrificing some for the greater good—torment her in ways pure pragmatists never experience. She lies awake at night troubled by problems she cannot fully solve, and this awareness of her own limitations actually makes her a better leader than she would be if more confident in her own judgment.
 
-She is often lonely in her position. Her authority prevents friendship with those of lesser rank, while traditionalist nobles view her with deep suspicion. She maintains personal correspondence with a network of like-minded female leaders across multiple realms, a secret friendship that sustains her when isolation threatens her resolve.
+She is often lonely in her position. Her authority prevents friendship with those of lesser rank, while traditionalist great houses view her with deep suspicion. She maintains personal correspondence with a network of like-minded female leaders across multiple realms, a secret friendship that sustains her when isolation threatens her resolve.
 
 ### Motivation
 
@@ -454,11 +454,11 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 
 - **Master Negotiator and Rhetorician**: Pritārika can find common ground between seemingly irreconcilable positions and possesses the eloquence to articulate solutions that allow all parties to save face. Her command of legal language, political tradition, and human nature makes her nearly unstoppable in formal discourse.
 
-- **Incisive Strategic Mind**: Her reasoning is superb—she sees multiple moves ahead in the complex game of inter-noble politics, maintains detailed knowledge of the genealogies, debts, and alliances that bind the realm, and can construct long-term plans that account for countless variables.
+- **Incisive Strategic Mind**: Her reasoning is superb—she sees multiple moves ahead in the complex game of politics among the great houses, maintains detailed knowledge of the genealogies, debts, and alliances that bind the realm, and can construct long-term plans that account for countless variables.
 
-- **Legitimate Authority and Resources**: As lord of two significant estates with substantial populations, Pritārika commands real power. She controls military forces, economic resources, and vast lands, and her decisions directly affect thousands of lives.
+- **Legitimate Authority and Resources**: As Kulina of two significant estates with substantial populations, Pritārika commands real power. She controls military forces, economic resources, and vast lands, and her decisions directly affect thousands of lives.
 
-- **Natural Philosopher and Scholar**: Her education in natural philosophy and mathematics is superior to most nobles of any gender. She understands agriculture, basic medicine, and engineering principles, allowing her to bring practical improvements to her estates.
+- **Natural Philosopher and Scholar**: Her education in natural philosophy and mathematics is superior to most Kulinas of any gender. She understands agriculture, basic medicine, and engineering principles, allowing her to bring practical improvements to her estates.
 
 - **Skilled at Arms**: While not a warrior by trade, Pritārika trained extensively in traditional martial disciplines. She can handle a rapier competently and rides with considerable skill, allowing her to maintain a physical presence of capability and confidence.
 
@@ -481,9 +481,9 @@ Privately, she also seeks to honor the memory of her late husband by seeing that
 ### Patrons
 
 The Scholarly Circle of Vedyara
-: A network of educated women from various noble houses who share Pritārika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Lord Shashvati, the circle functions as both salon and secret society.
+: A network of educated women from various great houses who share Pritārika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Shashvati, the circle functions as both salon and secret society.
 
-The Merchant Guilds of Three Cities
+The Merchant Shrenīs of Three Cities
 : Prosperous merchant families appreciate Pritārika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
 
 Arāti the Wise
@@ -494,11 +494,11 @@ The Common People of Her Estates
 
 ### Enemies
 
-Lord Mantra Deshpande
-: The leader of the traditionalist faction within the nobility. He views Pritārika's reforms as a mortal threat to the noble order and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
+Kulina Mantra Deshpande
+: The leader of the traditionalist faction within the great houses. He views Pritārika's reforms as a mortal threat to the order of the great houses and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
 
 The Orthodox Temple Authority
-: Certain powerful religious figures view Pritārika's support for lower-class education and her questioning of traditional gender roles as heretical. They preach against her from their pulpits and have excommunicated followers who support her reforms.
+: Certain powerful religious figures view Pritārika's support for lower-class education and her questioning of traditional gender roles as a breach of station. They denounce her from the temple dais and have barred followers who support her reforms from the temple's well and court.
 
 Unknown Assassins
 : Someone has made at least three attempts on Pritārika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
@@ -508,7 +508,7 @@ Kalindi Padmadīksha
 
 ### Affiliations
 
-The Grand Council of Nobility of Vedyara
+The Sabhā of the Great Kulas of Vedyara
 : Pritārika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
 
 The Padmadīksha House and its Territories
@@ -526,8 +526,8 @@ The Learned Society of Vedyara
 
 2. **The Heir Problem**: Pritārika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. Her options are to adopt an heir, to marry despite her resistance to that institution, to restore power to the Padmadīksha line through a younger family member, or to make reforms in the law that will protect her legacy even without an heir of her body. Each option creates political complications and personal heartache.
 
-3. **The Reformer's Dilemma**: A peasant uprising occurs on neighboring estates—commoners demanding rights and freedoms similar to what Pritārika has granted her own territories. The uprising is brutal and destabilizing. Lord Deshpande and traditionalists blame Pritārika for having "planted the seeds of rebellion" through her reforming policies, and they demand military action to suppress the uprising. If Pritārika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own peasantry rising in coordinated rebellion. The situation requires nuance and cleverness to get through without catastrophic loss of life or principle.
+3. **The Reformer's Dilemma**: A rising occurs among the Karmāja households of neighboring estates, which demand rights and freedoms similar to what Pritārika has granted her own territories. The uprising is brutal and destabilizing. Kulina Deshpande and traditionalists blame Pritārika for having "planted the seeds of rebellion" through her reforming policies, and they demand military action to suppress the uprising. If Pritārika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own Karmāja households rising in coordinated rebellion. The situation requires nuance and cleverness to get through without catastrophic loss of life or principle.
 
 4. **The Courtier's Confession**: A high-ranking official in her administration confesses to crimes—misuse of funds, betrayal of confidences, sleeping with the governor's wife—crimes that seem designed specifically to humiliate and undermine Pritārika's authority. The official claims this confession is voluntary and seeks punishment. Pritārika suspects this is a setup by Deshpande's faction to either force her into harsh punishment that makes her appear tyrannical or lenient treatment that makes her appear weak and unserious about governance. Unraveling the truth requires careful investigation while maintaining her position's credibility.
 
-5. **The Ritual of Succession**: An ancient and powerful ritual known as the Ceremony of the Eternal Lord is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling noble family confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritārika's participation is expected, and her refusal would be interpreted as rejection of the entire noble order. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the nobility whose support she needs. She can take part in a ceremony she now finds morally compromised, or risk everything to transform it.
+5. **The Ritual of Succession**: An ancient and powerful ritual known as the Ceremony of the Eternal Lord is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling great house confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritārika's participation is expected, and her refusal would be interpreted as rejection of the entire order of the great houses. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the great houses whose support she needs. She can take part in a ceremony she now finds morally compromised, or risk everything to transform it.

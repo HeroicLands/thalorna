@@ -38,7 +38,7 @@ data:
       - level: 6
         title: Sabhāsadaka
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a shrenī holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         description: >-

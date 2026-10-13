@@ -16,7 +16,7 @@ data:
   governance:
     model: council
     summary: >-
-      A mercantile federation of hereditary houses, sponsored entrants and guild-affiliated suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
+      A mercantile federation of hereditary houses, sponsored entrants and shrenī-affiliated suppliers, governed by the biannual Assembly of the Compact under an elected High Speaker.
     ranks:
       - level: 0
         title: Expelled
@@ -25,7 +25,7 @@ data:
       - level: 1
         title: Karmakara
         description: >-
-          An artisan supplier admitted by craft-guild affiliation, taking part in the Assembly through the guild's elected representative.
+          An artisan supplier admitted by craft-shrenī affiliation, taking part in the Assembly through the shrenī's elected representative.
       - level: 2
         title: Pratistha
         description: >-
@@ -58,7 +58,7 @@ The five seats keep separate councils, separate watches and separate courts. The
 
 Your own dealings with it will be small and constant. A seat that wants the silver price at the [[place-slvrgorges|Gorges]] asks the Collective. A seat that wants grain shipped to Rājapur hires a Collective caravan. A seat that wants to fortify a frontier negotiates with the Collective for the steel, and for the loan.
 
-The councils and courts are not weak. The Collective has made itself the connective tissue of Vedyaran life across four centuries, and nothing moves without it. Its founders were three generations of merchant princes working across polities that were then at war with each other, and the polities signed in the generation of [[lore-hndrdbnnrs|the steppe host]] in the west and [[lore-conchdoor|the conch-door incursion]] in the east. The Collective's own telling of its founding ends where such tellings end, with the claim that no court or council would unify the subcontinent and the merchants could. [[place-vedyarargn|Vedyara]] has no tradition of unification and the Collective supplied none. What it supplied was a body of standing law that made the question unnecessary, which is the smaller claim and the true one. The third generation dated its work from the year after [[lore-fieldelephnt|the Field of Elephants]], which broke both armies that fought it.
+The councils and courts are not weak. The Collective has made itself the connective tissue of Vedyaran life across four centuries, and nothing moves without it. Its founders were three generations of Shreshthins working across polities that were then at war with each other, and the polities signed in the generation of [[lore-hndrdbnnrs|the steppe host]] in the west and [[lore-conchdoor|the conch-door incursion]] in the east. The Collective's own telling of its founding ends where such tellings end, with the claim that no court or council would unify the subcontinent and the merchants could. [[place-vedyarargn|Vedyara]] has no tradition of unification and the Collective supplied none. What it supplied was a body of standing law that made the question unnecessary, which is the smaller claim and the true one. The third generation dated its work from the year after [[lore-fieldelephnt|the Field of Elephants]], which broke both armies that fought it.
 
 That law is the Compact: standing trade law, arbitration procedure and shared infrastructure that the merchants keep in common, meaning the roads, the caravanserai, the watch posts and the currency standards. The founders also wrote an Assembly of the signatories to renew and amend it. Each signatory faced a choice between refusing and watching its territory grow poorer than its neighbors', and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
 
@@ -74,7 +74,7 @@ There are three ways in, and each carries different rights.
 
 - **Kulina houses.** The great mercantile houses (_kulinas_) belong by inheritance. A kulina's vote in the Collective's assemblies carries weight in proportion to his house's contribution to the common fund.
 - **Pratisthas.** A new entrant comes in by sponsorship and probation, and votes only on matters concerning his probationary terms. This is where you start.
-- **Karmakaras.** The artisan suppliers belong by craft-guild affiliation and take part through their guild's elected representative.
+- **Karmakaras.** The artisan suppliers belong by craft-shrenī affiliation and take part through their shrenī's elected representative.
 
 The Collective is governed by the Assembly of the Compact (_Sangha-Sabhā_), which meets twice a year, in the spring at Chandrapur and in the autumn at Vyālendra. Its standing committees sit through the year and carry the administration:
 
@@ -107,7 +107,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 ## Identifying Marks
 
-Kulina-rank members wear a gold pin at the collar in the shape of a balance-scale resting on a coiled rope, the rope for the caravan and the scale for the standards. Pratistha members wear the same pin in silver. Karmakaras wear no Collective mark beyond their guild's. Senior officers wear additional rank bars below the pin.
+Kulina-rank members wear a gold pin at the collar in the shape of a balance-scale resting on a coiled rope, the rope for the caravan and the scale for the standards. Pratistha members wear the same pin in silver. Karmakaras wear no Collective mark beyond their shrenī's. Senior officers wear additional rank bars below the pin.
 
 ## Plot Hooks
 

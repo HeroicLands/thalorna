@@ -18,7 +18,7 @@ Past the last irrigated plot north of [[place-zargandur|Zargandûr]], the green 
 
 In the second year of the Breaking, [[affiliation-tribestrzd|the Ātárzád]] took Zargandûr. The war-house's cavalry, the strongest in the belt, rode out of the north gate on the last morning to meet the Zhōqarōd host on the pasture, and it was killed there to the last rider, the house's princes among them. The city fell by noon.
 
-The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left. No Shēkhulsīghot was allowed beyond the wall, because the worship of Āhúrdáén was already forbidden in the city, and the names of the riders were not read from the tablets, nor the lamps lit that the Tellumi light for their dead. Three days later the Zhōqarōd drove the bodies into a trench and filled it, and the grass on the trench has grown shorter than the grass either side of it ever since.
+The Ātárzád gave their own dead to the flame that night. The Tellumi dead were left. No Dēlkoshekh was allowed beyond the wall, because the worship of Āhúrdáén was already forbidden in the city, and the names of the riders were not read from the tablets, nor the lamps lit that the Tellumi light for their dead. Three days later the Zhōqarōd drove the bodies into a trench and filled it, and the grass on the trench has grown shorter than the grass either side of it ever since.
 
 ## What Comes Back
 
@@ -43,7 +43,7 @@ Under the filled trench lie the war-house's weapons, its horse-furniture and the
 
 ## Hooks
 
-- **The reading.** The Tellumi of the quarter want a Shēkhulsīghot to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandûr on pain of hanging, and the Shēkhulsīghot who could do it is a stranger who must be got into the city and out again.
+- **The reading.** The Tellumi of the quarter want a Dēlkoshekh to read the war-house's names over the field, which would very likely quiet it. The reading is forbidden in Zargandûr on pain of hanging, and the Dēlkoshekh who could do it is a stranger who must be got into the city and out again.
 - **The captain.** A Zhōqarōd captain relieved from the north gate this season is not sleeping, and her tribe is losing patience with her. She has quietly asked a Tellumi chandler whether anything can be done, and the chandler needs someone she can trust to carry her answer.
 - **The signet.** Khávar of Zargandûr needs one signet from the trench. The stakes are unwatched at night, and the field is not.
 

@@ -13,7 +13,7 @@ data:
   governance:
     model: council
     summary: >-
-      Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each constituent village and from the principal artisan, merchant, and scholar guilds of the central town. By long tradition the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
+      Sabhā of thirty-six members convened by the senior priest of the great Vyālendra temple, with representation drawn from each constituent village and from the principal artisan, merchant, and scholar shrenīs of the central town. By long tradition the sabhā includes one Memory-Keeper—a hereditary office whose holder maintains the genealogies of the displaced royal line and recites them at the opening of every formal session, as a continuing acknowledgment of what Rājapur was before it became a janapada.
     ranks:
       - level: 1
         title: Bonded Servant
@@ -38,7 +38,7 @@ data:
       - level: 6
         title: Sabhāsadaka
         description: >-
-          A seated member of the sabhā, sent by a constituent village at its turn or by a guild holding a reserved seat, and answerable to those who sent him.
+          A seated member of the sabhā, sent by a constituent village at its turn or by a shrenī holding a reserved seat, and answerable to those who sent him.
       - level: 7
         title: Sabhāpati
         description: >-
@@ -125,7 +125,7 @@ Visiting scholars ask why a dynasty that cannot return is kept in memory at all.
 
 ## The Sabhā and the Temple
 
-The sabhā has thirty-six members, convened by the senior priest of the great Vyālendra temple. Each constituent village sends its representatives, and the principal artisan, merchant and scholar guilds of the central town hold seats. The Memory-Keeper sits with it by long tradition and opens every formal session.
+The sabhā has thirty-six members, convened by the senior priest of the great Vyālendra temple. Each constituent village sends its representatives, and the principal artisan, merchant and scholar shrenīs of the central town hold seats. The Memory-Keeper sits with it by long tradition and opens every formal session.
 
 The great **Vyālendra temple** at [[place-rajapur|Rājapur]] is the religious and political heart of the janapada. Vyālendra is the creator of the [[affiliation-varakpnthn|Varnaka pantheon]], the world's first light, the shaper from whom all forms emerge. The temple's main hall holds [[place-sandstonealtr|the original altar of Vyālendra]], a sandstone block cut at the founding of the dynastic capital twelve centuries ago, and the great hall in which the sabhā meets. The outer courts hold the four-story granary, still the community store; the Rājavalī Library; the school open to the children of every constituent village; and the great hostel that lodges the pilgrims who come from across central Vedyara at the spring festival.
 

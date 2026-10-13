@@ -475,8 +475,8 @@ As she approaches forty, she is increasingly aware that her vision could die wit
 
 ### Patrons
 
-Lady Arghika Ghotranyāsa
-: A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other noble families and occasionally commissioning custom pieces.
+Arghika Ghotranyāsa of a great house
+: A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other great houses and occasionally commissioning custom pieces.
 
 The House of Childhood Wisdom
 : A scholarly institution dedicated to understanding child development and education that has acquired several of Suvaratika's toys for study, viewing them as both functional objects and philosophical texts about learning and play.
@@ -491,15 +491,15 @@ Dhārīka Vyāvahārika
 
 ### Affiliations
 
-The City Artisans' Guild of Vedyara
-: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to guild efforts toward collective marketing and efficiency gains sometimes creates friction.
+The City Artisans' Shrenī of Vedyara
+: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to shrenī efforts toward collective marketing and efficiency gains sometimes creates friction.
 
 The Order of Meghanātha's Children
 : A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
 
 ## Plot Hooks
 
-1. **The Impossible Commission**: A foreign nobleman of legendary wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes genuine craft and working on a scale she has always resisted.
+1. **The Impossible Commission**: A foreign man of high rank, of legendary wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes genuine craft and working on a scale she has always resisted.
 
 2. **The Inheritance of Legacy**: A gifted young orphan, **Kavi**, arrives at Suvaratika's workshop seeking apprenticeship with a desperation born of genuine need. Kavi is talented, dedicated, and seems to understand Suvaratika's philosophy instinctively—everything Suvaratika has always wanted in an apprentice. Yet accepting Kavi as an apprentice would require Suvaratika to overcome her fear of mentorship and face the vulnerability of truly teaching someone else. The relationship becomes transformative for both.
 
@@ -507,4 +507,4 @@ The Order of Meghanātha's Children
 
 4. **The Accident and Aftermath**: A child is injured while playing with one of Suvaratika's toys—not through any fault of design or craftsmanship, but through a genuinely unforeseen circumstance. The child's family sues for damages, and the city-states' legal system becomes involved. Suvaratika must defend both her work and her philosophy while confronting the reality that even the most carefully crafted object cannot prevent all harm. The trial becomes a referendum on the value of artisanship itself.
 
-5. **The Expansion Dilemma**: Lady Arghika Ghotranyāsa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.
+5. **The Expansion Dilemma**: Arghika Ghotranyāsa proposes that Suvaratika license her designs to mass producers, allowing her vision to reach thousands of children while generating passive income that would allow her to focus entirely on her most ambitious creative work. This offers everything Suvaratika has claimed to want—broader impact and financial security—yet accepting would mean surrendering control of her designs to commercial interests, seeing them manufactured cheaply, and fundamentally compromising her principles. Her decision forces her to confront what she actually values most: purity of craft or authentic impact.

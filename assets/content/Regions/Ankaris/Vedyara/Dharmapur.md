@@ -3,7 +3,7 @@ shortcode: dharmapur
 name: {full: Dharmapur, aliases: []}
 type: place
 subType: settlement
-description: "The largest of the copying towns of the middle Sarvada, whose Scribes' Guild sets the rate for a finished page across the subcontinent."
+description: "The largest of the copying towns of the middle Sarvada, whose Scribes' Shrenī sets the rate for a finished page across the subcontinent."
 tags: [town, river, market]
 data:
   demonym: null
@@ -14,13 +14,13 @@ data:
   packFolder: vedyara
 ---
 
-Bring a commission to a **Dharmapur** copyist and the first figure you hear is the guild's rate for a finished page; she has no other to quote. Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read, and no other place in [[place-vedyarargn|Vedyara]] outside a city comes near it.
+Bring a commission to a **Dharmapur** copyist and the first figure you hear is the shrenī's rate for a finished page; she has no other to quote. Dharmapur (4,200) stands on the middle [[place-sarvadarivr|Sarvada]], ninety miles below the bow-country, and is the largest of the copying towns of that reach. About one adult in five here can read, and no other place in [[place-vedyarargn|Vedyara]] outside a city comes near it.
 
 The town belongs to a janapada of the Sarvada circuit and holds no seat of its own at the **Mela**. Its temple is [[affiliation-vyalendra|Vyālendra]]'s, and the endowment that pays the copyists is nine hundred years old.
 
-## The Scribes' Guild
+## The Scribes' Shrenī
 
-The guild takes commissions from temples, courts and academies the length of the subcontinent, and sets the rate for a finished palm-leaf page in four hands and two scripts. It examines its own masters and licenses nobody else to teach. A copyist who works outside it is not stopped and is not paid the guild rate either.
+The shrenī takes commissions from temples, courts and academies the length of the subcontinent, and sets the rate for a finished palm-leaf page in four hands and two scripts. It examines its own masters and licenses nobody else to teach. A copyist who works outside it is not stopped and is not paid the shrenī rate either.
 
 Its standing quarrel is over illumination. The older masters hold that a commissioned text is a text, and that a hand drawing attention to itself has failed at the work. The younger masters take the illuminated commissions anyway, because a court pays four times the plain rate for one and will wait two years to get it.
 

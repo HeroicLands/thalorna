@@ -507,8 +507,8 @@ Worked names and words, each built from the stems above.
 | Ghīshamekh    | `atarzadi` | fear-bringer: the warrior society of the Tēqemōd; `Zhárván` is retired                       | `ghīsham` + `-ekh`          |
 | Rōqeshekh     | `atarzadi` | ash-keeper: the Fire-Keeper, the first rung of the Āsháian priesthood; `Āthravān` is retired | `rōqesh` + `-ekh`           |
 | Dēlkoshekh    | `atarzadi` | word-bearer: the teacher-priest, the working Āsháian priesthood; `Hērbad` is retired         | `dēlkosh` + `-ekh`          |
-| Shēkhulsīghot | `atarzadi` | elder of the flame: the senior priest of a fire-temple; `Mōbad` is retired                   | `shēkhul` + `sīghot`        |
-| Shēkhulūkhem  | `atarzadi` | council of the flame: the body of the Shēkhulsīghots; `Mōbadate` is retired                  | `shēkhul` + `lūkhem`        |
+| Shēkhulsīghot | `atarzadi` | elder of the flame: the senior priest of a major fire-temple; `Mōbad` is retired             | `shēkhul` + `sīghot`        |
+| Shēkhulūkhem  | `atarzadi` | council of the flame: the body of the priesthood; `Mōbadate` is retired                      | `shēkhul` + `lūkhem`        |
 | Vurinkarvem   | `tellumi`  | holy stone: the cliff over the great spring of Shirvan; `Mōrávar` is retired                 | `vurin` + `karvem`          |
 
 ## Names older than the rules

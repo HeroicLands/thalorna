@@ -424,7 +424,7 @@ Tamūra stands 6'0" tall with a medium build. He has golden brown skin, graying 
 
 # Dossier {#dossier}
 
-Tamūra was born into the woodcrafter's caste of the City-States of [[affiliation-janpdsvdyr|Vedyara]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamūra's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamūra found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
+Tamūra was born into the Karmāja station, in a kula of woodcrafters, in the City-States of [[affiliation-janpdsvdyr|Vedyara]], the second son of a master carpenter who had built his reputation on the creation of lasting structures and functional beauty. From childhood, Tamūra's relationship with wood was almost spiritual—he claimed he could hear what each piece wished to become, could sense the grain's direction before ever touching chisel to surface. Where his older brother pursued elaborate decorative work, Tamūra found his calling in structures that would last centuries: barn frames, ship keels, the massive gate timbers that stood against storm and siege.
 
 In his youth, Tamūra apprenticed under the celebrated craftsman Maharaj Thavin Woodhearth, a figure of near-mythical status in Vedyaran woodcraft traditions. For thirteen years, he learned technique and philosophy—the belief that every wooden creation was a covenant with future generations, a promise that it would bear its intended weight without failure. This philosophy shaped him entirely. While his contemporaries chased profitable commissions from wealthy merchants seeking ornate furniture, Tamūra established himself as the craftsman one employed when one's survival depended on quality.
 
@@ -470,10 +470,10 @@ Tamūra is motivated primarily by the desire to create things that will outlast 
 
 ### Patrons
 
-Farmer Lord Kestin Haroway
+Landholder Kestin Haroway
 : A wealthy landowner who employs Tamūra exclusively for all structural work on his sprawling estates. Kestin considers Tamūra's work to be an investment in the permanence of his properties and pays handsomely for first call on his time.
 
-the Vedyaran Guildhall Commission
+the Vedyaran Shrenī Hall Commission
 : The official body overseeing craftsman standards frequently contracts with Tamūra to evaluate the work of other craftsmen or to handle the most important public works. His reputation lends legitimacy to their assessments.
 
 Shipbuilder Master Alden Coursewright
@@ -489,7 +489,7 @@ Rival Craftsman Marden the Swift
 
 ### Affiliations
 
-The Rural Craftsmen's Guild of Vedyara
+The Rural Craftsmen's Shrenī of Vedyara
 : The primary organization governing craftsmen standards in the agricultural regions. Tamūra serves on their council and acts as one of their primary arbiters of quality and technique standards.
 
 The Woodhearth Lineage
@@ -497,7 +497,7 @@ The Woodhearth Lineage
 
 ## Plot Hooks
 
-1. **The Haunted Commission**: A mysterious noble from the far borders approaches Tamūra with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamūra has never shared with anyone. The noble seems to know precisely what Tamūra builds in secret, in his own time, projects he has never shown to clients. When Tamūra refuses, the noble produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamūra must determine how this stranger knows his private work and what they intend to do with such knowledge.
+1. **The Haunted Commission**: A mysterious man of rank from the far borders approaches Tamūra with a commission to craft a specific type of wooden structure—one that matches descriptions from ancient texts that Tamūra has never shared with anyone. The stranger seems to know precisely what Tamūra builds in secret, in his own time, projects he has never shown to clients. When Tamūra refuses, the stranger produces a document suggesting that these same structures appear in sealed architectural records from the imperial archives. Tamūra must determine how this stranger knows his private work and what they intend to do with such knowledge.
 
 2. **The Apprentice's Betrayal**: A young apprentice of rare talent whom Tamūra took under his wing as a potential heir to the Woodhearth lineage disappears after three years of study. Months later, Tamūra discovers that the apprentice has been producing cheap imitations of his signature techniques, flooding the market and damaging Tamūra's reputation. When Tamūra confronts the apprentice, he discovers the young craftsman was coerced into this by the merchant Grayson Thrift, but the apprentice is now too frightened to break free. Tamūra can help his former student risk Grayson's wrath or allow his own reputation to go on deteriorating.
 

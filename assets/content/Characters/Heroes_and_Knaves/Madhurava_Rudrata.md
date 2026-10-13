@@ -427,15 +427,15 @@ Madhurava stands 5'10" tall with a medium build. He has medium brown skin, grayi
 
 ### The Scholar's Calling
 
-Madhurava was born into **House Sūtrapāla**, a minor but respected family in the City-States of Vedyara known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madhurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing noble factions. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
+Madhurava was born into **House Sūtrapāla**, a minor but respected family in the City-States of Vedyara known for their mastery of written records and genealogical study. His father, a scribe of some renown, taught young Madhurava the sacred discipline of heraldry—as the art of rendering arms and blazonry, and as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Madhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial forms that governed the complex relationships between the city's competing factions of the great houses. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
 
 ### The Rise to Authority
 
-His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madhurava determined the legitimate heir to a disputed merchant-lord title. The case established his reputation as both scholar and diplomat, and the City Heralds' Guild recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful nobles, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
+His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through painstaking genealogical research and masterful interpretation of obscure heraldic precedent, Madhurava determined the legitimate heir to a disputed Shreshthin title. The case established his reputation as both scholar and diplomat, and the City Heralds' Shrenī recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful Kulinas, his interpretations of ceremony became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
 
 ### The Keeper of Tradition
 
-Now, at fifty, Madhurava has become something of a living institution. He has served under four different Lord Mayors, advised the appointments of countless noble heirs, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the Herald's Archive contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of noble governance. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
+Now, at fifty, Madhurava has become something of a living institution. He has served under four different Sāmantas, advised the appointments of countless heirs of the great houses, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the Herald's Archive contain records dating back two centuries, all carefully maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of governance by the great houses. He has trained fewer than a dozen successors in his long service, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
 
 ## Psyche
 
@@ -460,17 +460,17 @@ Madhurava is driven by a conviction that the careful maintenance of heraldic tra
 - **Rigidity in Crisis**: When situations demand flexibility or improvisation outside the formal observances, Madhurava becomes uncertain and potentially paralyzed by concern for precedent.
 - **Dismissiveness of Innovation**: He regards new methods of record-keeping, new interpretations of law, or departures from traditional ceremony as threats rather than potential improvements.
 - **Emotional Distance**: His devotion to order has made him distant from ordinary human emotion; he struggles to empathize with personal crises that do not fit neatly into his conceptual frameworks.
-- **Isolation and Insularity**: He has limited experience of the common people or the realities of life outside formal noble circles, making his judgments sometimes naive regarding practical human concerns.
+- **Isolation and Insularity**: He has limited experience of the common people or the realities of life outside formal circles of the great houses, making his judgments sometimes naive regarding practical human concerns.
 - **Physical Vulnerability**: Despite his authority, he is physically unimposing and has never trained in combat; any direct physical confrontation would overwhelm him.
 
 ## Social
 
 ### Patrons
 
-Lady Maharani Sāvia of the Central House
-: The most powerful noble in the city-states, who has relied on Madhurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
+Maharani Sāvia of the Central House
+: The most powerful figure of the great houses in the city-states, who has relied on Madhurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
 
-The Council of Lord Mayors
+The Council of Sāmantas
 : The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
 
 ### Enemies
@@ -483,8 +483,8 @@ House Vākhara
 
 ### Affiliations
 
-The City Heralds' Guild
-: Senior member and de facto keeper of the archive; wields enormous influence over the guild's direction and standards.
+The City Heralds' Shrenī
+: Senior member and de facto keeper of the archive; wields enormous influence over the shrenī's direction and standards.
 
 The Council of Historical Scholars
 : Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
@@ -494,12 +494,12 @@ House Sūtrapāla
 
 ## Plot Hooks
 
-1. **The Forged Heir**: A scandal erupts when evidence appears suggesting that a document in Madhurava's own archive—one establishing the legitimacy of the current Lord Mayor's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madhurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madhurava manage the political aftermath while preserving what remains of the legal order he has maintained.
+1. **The Forged Heir**: A scandal erupts when evidence appears suggesting that a document in Madhurava's own archive—one establishing the legitimacy of the current Sāmanta's line—is a forgery dating back forty years. The discovery threatens one political figure and, beyond him, the stability of the entire city governance structure. Madhurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Madhurava manage the political aftermath while preserving what remains of the legal order he has maintained.
 
 2. **The Herald's Succession**: Madhurava finally selects an heir: a brilliant but headstrong younger herald named Sarita who possesses the knowledge but lacks the reverence for tradition that Madhurava considers essential. When Sarita begins immediately implementing reforms and reinterpreting precedents, Madhurava finds himself facing opposition from his own chosen successor. The party becomes caught between the old herald's attempt to reassert authority and the new generation's desire to reshape the office for a changing age. The resolution will determine whether heraldic tradition survives in recognizable form.
 
-3. **The Secret Archives**: Madhurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the noble families currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
+3. **The Secret Archives**: Madhurava discovers that his predecessor maintained a hidden archive—records of genealogical secrets, illegitimate children, falsified claims, and scandals deliberately omitted from the official record. The knowledge contained within could dismantle half the great houses currently in power. He can preserve secrecy and tradition, or expose truths that demand justice. The party may become his agents in either covering up the scandal or carefully releasing information to destabilize the corrupt power structures the false records have protected.
 
 4. **A Matter of Legitimacy**: A mysterious woman appears in the city claiming to be the true heir to the High Seat through a genealogical line that Madhurava had presumed extinct. Her documentation is impeccable; her claim appears legitimate. Yet he suspects that she may be an impostor—and her revelation would overturn the current ruling structure. The party is hired to investigate her genealogy, travel to distant lands to verify family records, and determine whether she is who she claims or an elaborate deception. In the process, they discover far deeper conspiracies involving forged documents, hidden marriages, and political assassination.
 
-5. **The Ritual of Succession**: A great noble of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madhurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the power balance within the city-states for the next generation.
+5. **The Ritual of Succession**: A great Kulina of ancient family approaches death, and an elaborate ceremonial succession must be conducted according to traditions so archaic that only Madhurava fully understands them. The ceremony requires the participation of various warring factions within the city, and maintaining order and propriety while honoring the dead becomes a complex diplomatic challenge. The party acts as ceremonial guards or investigators as various factions move to manipulate the succession through ritual interruption, revelation of damaging genealogical truths, or outright assassination. The success or failure of the ceremony will determine the power balance within the city-states for the next generation.

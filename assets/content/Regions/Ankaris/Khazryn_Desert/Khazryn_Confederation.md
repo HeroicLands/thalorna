@@ -32,7 +32,7 @@ data:
         description: >-
           Holding a charge in a house's service—its caravans, its guards, its correspondence, its exile courts.
       - level: 5
-        title: Shēkhulsīghot
+        title: Dēlkoshekh
         description: Ordained to the fire and the law, keeping the rites the Breaking did not extinguish.
       - level: 6
         title: Elder of a House
@@ -49,7 +49,7 @@ data:
       Prince of a House: Head of one of the seven princely houses, ruling an oasis or maintaining a court in exile.
       First of the Seven: The senior prince, entitled by custom to speak first at the Council of the Princes.
       Elder of a House: Senior kinsman whose counsel a prince disregards at his cost.
-      Shēkhulsīghot: >-
+      Dēlkoshekh: >-
         Ordained keeper of the fire, the law and the commentaries—the confederation's continuity through its catastrophe.
       Steward of the Exile Court: >-
         Administrator of a dispossessed house's affairs in Amradad—its revenues, its clients, its claims.
@@ -94,7 +94,7 @@ The Ātárzád call the events the Conquest and the War of the Twelve Years. The
 
 - The Ātárzád arrived as refugees. The Tellumi cities received them with the hospitality the desert extends to every wanderer in extremity, and settled them on marginal land at the edge of the belt under princely patronage.
 - The newcomers waited until they were strong enough, then turned on their hosts in a religious war they had been planning from the start. It ended about ninety years ago, three generations back.
-- The conquest was brutal: Tellumi temples demolished and their stones reused for Ātárzád fire-temples, public worship of Āhúrdáén proscribed, the Shēkhulsīghots who refused to flee slaughtered, and sacrificial fires built directly over the holy water at Shirvan.
+- The conquest was brutal: Tellumi temples demolished and their stones reused for Ātárzád fire-temples, public worship of Āhúrdáén proscribed, the Dēlkoshekhs who refused to flee slaughtered, and sacrificial fires built directly over the holy water at Shirvan.
 - The war was lost as much by decline as by Ātárzád skill. The seven-city confederation had weakened for generations, the princely houses were deep in faction, and the Kingdom of Amradad, which should have intervened, was absorbed in its own succession crisis at the decisive moment.
 - The Promise the Ātárzád cite is a legal fiction. Even Āhúrdáén, supreme in the pantheon, would not violate ancestral right. The Sacred Flame is a real god and the keeper of fire, honored in his place, but he is not a sovereign who can grant kingdoms.
 
@@ -102,14 +102,14 @@ The Breaking is recited at every Tellumi festival, at every formal court ceremon
 
 ## Government
 
-The Confederation is governed by the **Council of the Princes**, which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Shēkhulsīghot attached to its court. The High Shēkhulsīghot of Āhúrdáén at the Great Fire-Temple in Amradad presides as neutral convenor, a role the Kingdom's then-Shēkhulsīghot took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
+The Confederation is governed by the **Council of the Princes**, which meets annually at Amradad on neutral ground, hosted by the Kingdom as a courtesy to the exile community. Each of the seven princely houses sends its head (or, for the four in exile, the man or woman who would rule if the house were restored), the senior elders of the house, and the senior Dēlkoshekh attached to its court. The High Shēkhulsīghot of Āhúrdáén at the Great Fire-Temple in Amradad presides as neutral convenor, a role the Kingdom's then-Shēkhulsīghot took up about sixty years ago, when he agreed to underwrite the Council in perpetuity.
 
 The seven princely houses are:
 
 - **House of Shirvan** (in exile in Amradad). The senior house, first among the seven; by long custom the eldest Shirvan prince speaks first at every Council. The heir-in-exile is **Mōrá-Shirván**, a woman of perhaps forty, scholar and theologian, who has spent her life building a legal and historical case for the recovery of Shirvan. The case fills a small library and is updated continuously.
 - **House of Ashkarad** (in exile in Amradad). The traditional craft-house, with the most cosmopolitan court before the Breaking. Its head, **Sāmīm of Ashkarad**, grew wealthy selling the city's wares across Vylarian Sea trade and quietly funds Tellumi agitation in the Ātárzád cities.
 - **House of Zargandûr** (in exile in Amradad). The traditional war-house, which held the strongest military before the Breaking and lost the most leaders in it. Its heir, **Khávar of Zargandûr**, is twenty-seven, trains as a soldier in the Kingdom's forces and is widely understood to be preparing for a reclamation campaign.
-- **House of Kethramír** (in exile in Amradad). The traditional scholar-house, closest to the Shēkhulūkhem and the most theologically serious of the exile houses. Its head, **Yázdín of Kethramír**, is herself a Shēkhulsīghot of considerable reputation and has written major commentaries on the Breaking.
+- **House of Kethramír** (in exile in Amradad). The traditional scholar-house, closest to the Shēkhulūkhem and the most theologically serious of the exile houses. Its head, **Yázdín of Kethramír**, is herself a Dēlkoshekh of considerable reputation and has written major commentaries on the Breaking.
 - **House of Mehrnāgord** (still ruling). Holds Mehrnāgord at the western end of the belt, a city of thirty thousand in an oasis country of about one hundred and forty thousand. The ruling prince, **Pārván of Mehrnāgord**, is in his sixties, cautious, and inclined to accommodation with the Kingdom and, warily, with the Ātárzád. The exile houses consider him insufficiently militant.
 - **House of Ushtra-bēr** (still ruling). Holds Ushtra-bēr at the eastern end of the belt, a city of twenty thousand under the Eastern Reach. Remote, austere and deeply traditional, it is ruled by **Vāhrām of Ushtra-bēr**, a hard man of fifty whose court ceremonial is said to preserve forms forgotten elsewhere.
 - **House of Vahúrdash** (revived, partially ruling). The Vahúrdash settlement numbers about four thousand in the town and was reclaimed within the last generation. Its head, **Khoršád-Vahūr**, holds the title by recent acclamation rather than ancient right and sits at the Council as a kind of seventh among equals.
@@ -128,13 +128,13 @@ That dependence is the structural fact of the relationship. It is the reason Āt
 
 ## Religion
 
-The Tellumi practice the **full [[affiliation-ashanpnthn|Āsháian pantheon]]**, all twelve deities honored in their places: Āhúrdáén supreme; Ātáröš the Sacred Flame as one of the twelve and the means by which Āhúrdáén is made manifest; and Mítharä, Khóršádrä, Zúráthrä, Báhrámiš, Ázráván, Zárványä, Árávēštä and the rest honored at their seasons and in their domains. This is the original form of the faith as the Tellumi Shēkhulsīghots systematized it, and the High Shēkhulsīghot of Āhúrdáén at the Great Fire-Temple in Amradad and the Tellumi Shēkhulūkhem generally still maintain it.
+The Tellumi practice the **full [[affiliation-ashanpnthn|Āsháian pantheon]]**, all twelve deities honored in their places: Āhúrdáén supreme; Ātáröš the Sacred Flame as one of the twelve and the means by which Āhúrdáén is made manifest; and Mítharä, Khóršádrä, Zúráthrä, Báhrámiš, Ázráván, Zárványä, Árávēštä and the rest honored at their seasons and in their domains. This is the original form of the faith as the Tellumi Dēlkoshekhs systematized it, and the High Shēkhulsīghot of Āhúrdáén at the Great Fire-Temple in Amradad and the Tellumi Shēkhulūkhem generally still maintain it.
 
 The devotional emphases are three:
 
 - **Āhúrdáén** receives the formal weekly observance, and the Tellumi insist that no other god, Ātáröš included, may rightly receive it. That is the central theological dispute with the Ātárzád, who raise Ātáröš to exclusive worship; the Tellumi answer that doing so violates the order Āhúrdáén established.
 - **Zúráthrä**, the Mother of the Oasis, receives the deepest popular devotion. Every Tellumi oasis, and every Tellumi quarter inside an Ātárzád city, keeps a shrine to her at its principal water-source. Every wedding involves her blessing, and every child is presented at her shrine within forty days of birth. The destruction of her great shrine at Shirvan is among the bitterest wounds of the Breaking.
-- **The Shēkhulūkhem** is the institutional authority. A Shēkhulsīghot studies fifteen to twenty years before ordination, masters astronomy, mathematics, theology, law and at least three languages, and serves as something between a priest and a judge. The High Shēkhulūkhem at Amradad, held by **Aravdán the Stargazer**, is the senior religious authority for the whole Confederation, and in its own view for all Āsháian peoples, though the Ātárzád deny it.
+- **The Shēkhulūkhem** is the institutional authority. A Dēlkoshekh studies fifteen to twenty years before ordination, masters astronomy, mathematics, theology, law and at least three languages, and serves as something between a priest and a judge. The High Shēkhulsīghot at Amradad, held by **Aravdán the Stargazer**, is the senior religious authority for the whole Confederation, and in its own view for all Āsháian peoples, though the Ātárzád deny it.
 
 The [[lore-khzrnclndr|Tellumi Calendar]] is twelve thirty-day months and a five-day intercalary festival at the spring equinox. It differs from the [[lore-commoncal|Vylarian Calendar]] and from the Ātárzád ritual count. Tellumi under Ātárzád rule keep their own and the city's side by side, while those in the free oases keep their own alone.
 
@@ -168,11 +168,11 @@ Whether that restraint would survive an actual reconquest is doubtful. The gener
 
 **Khávar of Zargandûr**, the young heir training in Kingdom military service. Ambitious, twenty-seven, and the figure round whom the militant exile faction increasingly organizes. The Council has neither endorsed nor forbidden his preparations.
 
-**Yázdín of Kethramír**, Shēkhulsīghot and head of the Kethramír exile house. The most rigorous of the exile theologians and author of the formal refutation of the Ātárzád Promise, _On the Ungrantable Land_, which is required reading in Tellumi religious education and contraband in Ātárzád territory.
+**Yázdín of Kethramír**, Dēlkoshekh and head of the Kethramír exile house. The most rigorous of the exile theologians and author of the formal refutation of the Ātárzád Promise, _On the Ungrantable Land_, which is required reading in Tellumi religious education and contraband in Ātárzád territory.
 
 **Pārván of Mehrnāgord**, ruling prince of the largest free oasis. He is the voice of accommodation on the Council. Ātárzád merchant interests have sounded him out about limited normalization, and he has answered neither way.
 
-**The Hidden Shēkhulsīghot of Shirvan**, an unnamed and possibly mythical figure said to keep the original ritual office at a secret place near the Shirvan spring, conducting the proper observances for Āhúrdáén in defiance of the Ātárzád prohibition. The Tellumi of the Shirvan quarter believe the office exists and that its succession has run unbroken since the Breaking. The Ātárzád launch periodic searches and have never found anyone. Whether the Hidden Shēkhulsīghot is a person or a useful story, the belief shapes religious life in the quarter.
+**The Hidden Dēlkoshekh of Shirvan**, an unnamed and possibly mythical figure said to keep the original ritual office at a secret place near the Shirvan spring, conducting the proper observances for Āhúrdáén in defiance of the Ātárzád prohibition. The Tellumi of the Shirvan quarter believe the office exists and that its succession has run unbroken since the Breaking. The Ātárzád launch periodic searches and have never found anyone. Whether the Hidden Dēlkoshekh is a person or a useful story, the belief shapes religious life in the quarter.
 
 ## Commerce and Currency
 

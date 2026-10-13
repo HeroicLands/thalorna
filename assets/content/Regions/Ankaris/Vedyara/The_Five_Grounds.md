@@ -39,7 +39,7 @@ The spit at Sandhyāpur is a mile of sand
 and nothing on it that a wind cannot move.
 Behind it, that night, the boats.
 
-In the boats, a family: the old lord of the salt,
+In the boats, a family: the old master of the salt,
 his sons, his daughters, the pan-hands, the grooms,
 and a hundred horses with their heads tied down to the thwarts.
 A horse does not stand well in a boat.

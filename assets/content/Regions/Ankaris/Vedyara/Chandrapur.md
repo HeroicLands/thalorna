@@ -12,7 +12,7 @@ data:
   governance:
     model: monarchy
     summary: >-
-      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the nine merchant-prince houses fill and the temple patrons moderate. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
+      A hereditary Mahārāja of the Moon House, confirmed by the temples of the Varnaka, seated at the head of a court the Nine houses fill and the temple patrons moderate. The Mahārāja's kinsmen hold no station of their own: each keeps the tharana and kula marked on his wrist at birth, and the places the royal house fills, Rājñī and Yuvarāja, are offices.
     ranks:
       - level: 1
         title: Bonded Servant
@@ -82,7 +82,7 @@ A newcomer with stone to sell learns this first from the crown's assayers at the
 
 ## The City of the Craft
 
-The guildhalls keep a strict rule. An artisan apprentices for years before he earns the right to a workshop of his own, and Chandrapur's name for excellence has never been spoiled. The trade runs as a sequence of stages: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds a stage has held it for generations.
+The shrenī halls keep a strict rule. An artisan apprentices for years before he earns the right to a workshop of his own, and Chandrapur's name for excellence has never been spoiled. The trade runs as a sequence of stages: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth, and a house that holds a stage has held it for generations.
 
 Wealth has made Chandrapur cosmopolitan. Traders and craftspeople from across the realms have settled here, and the markets speak a dozen languages. A foreign factor with no house and no charter may buy on the Bazaar floor exactly as a **Kulina** may, which is unusual in Vedyara and is the largest single reason the foreign trade comes here.
 

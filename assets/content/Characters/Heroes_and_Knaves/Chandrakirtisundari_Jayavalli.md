@@ -91,7 +91,7 @@ sohl:
     - name: Herbal scents and oils
       type: miscgear
       system: {shortcode: herbalscentsandoils, weight: 1, value: 100, durability: 3}
-    - name: Guild communication tokens
+    - name: Shrenī communication tokens
       type: miscgear
       system: {shortcode: guildcommunication, quantity: 3, weight: 1, value: 100, durability: 3}
     - name: Encrypted notes from the Ādānashrenī
@@ -426,7 +426,7 @@ Chandrakīrtisundarī stands 5'6" tall with a medium build. She has dark brown s
 
 Chandrakīrtisundarī was born into modest circumstances in the Port District of [[place-vedyarargn|Vedyara]], the daughter of a Vedyaran courtesan named **Pushti Jayavalli** and an unnamed Byzarian merchant who visited her mother's quarters only once. The merchant left behind little but the prominent nose and narrow chin of his people—distinctive enough that Chandrakīrtisundarī has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter, where she was Chandri, and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
 
-At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for nobility and merchant lords, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the [[affiliation-adanasreni|Ādānashrenī]] through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the guild's interests.
+At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for great houses and Shreshthins, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the [[affiliation-adanasreni|Ādānashrenī]] through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the shrenī's interests.
 
 For the past six years, she has walked an increasingly precarious line: serving her clients at the Twilight House, gathering intelligence for the Ādānashrenī, and attempting to maintain enough independent agency to survive if either organization turns against her. She has become highly skilled at reading people, at understanding motivation and hidden purpose, at extracting information without raising suspicion. Yet with each passing year, she feels the walls closing in—the demands becoming more dangerous, the moral compromises more severe, the likelihood of eventual betrayal or exposure increasing.
 
@@ -434,7 +434,7 @@ For the past six years, she has walked an increasingly precarious line: serving 
 
 ### Personality
 
-Chandrakīrtisundarī has cultivated multiple personas so carefully that she sometimes struggles to identify which—if any—represents her authentic self. To clients, she is attentive and eager, warm and responsive, performing desire and affection with perfect credibility. To her guild contacts, she is cool and businesslike, emotionally distant, focused entirely on the task at hand. In her rare private moments, a third personality emerges: intelligent, haunted, deeply introspective, burdened by the weight of her choices and the gap between who she wished to become and who circumstances forced her to be.
+Chandrakīrtisundarī has cultivated multiple personas so carefully that she sometimes struggles to identify which—if any—represents her authentic self. To clients, she is attentive and eager, warm and responsive, performing desire and affection with perfect credibility. To her shrenī contacts, she is cool and businesslike, emotionally distant, focused entirely on the task at hand. In her rare private moments, a third personality emerges: intelligent, haunted, deeply introspective, burdened by the weight of her choices and the gap between who she wished to become and who circumstances forced her to be.
 
 Her default state is hypervigilance: she reads people with extraordinary skill, noting flickers of expression, tone shifts, inconsistencies in narrative that reveal when someone is lying or concealing something. This gift for perception makes her prized but also perpetually anxious—she sees the treachery in everyone because she experiences her own duplicity constantly. She is fundamentally kind and capable of real connection, but afraid to allow anyone close enough to discover her weakness or vulnerability. Humor—dark, quick, often self-deprecating—is her shield against emotional intimacy.
 
@@ -456,7 +456,7 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 - **Emotional Fragility**: Her carefully maintained personas cover emotional vulnerability. Real kindness or concern from others can destabilize her carefully constructed defenses, leading to inappropriate emotional response or impulsive decisions.
 - **Weak Will and Limited Endurance**: Her weak will and limited endurance mean she struggles with sustained resistance to manipulation, pain, or extended physical exertion. She is easily broken under torture or extreme pressure.
 - **Inability to Trust**: Her lifetime of deception makes authentic connection nearly impossible. She assumes everyone is manipulating her as thoroughly as she manipulates them, leaving her isolated and paranoid.
-- **Limited Legitimate Options**: Her history of work makes her unemployable in respectable occupations. If either the guild or the Twilight House turns against her, she will have few legitimate options for survival.
+- **Limited Legitimate Options**: Her history of work makes her unemployable in respectable occupations. If either the shrenī or the Twilight House turns against her, she will have few legitimate options for survival.
 
 ## Social
 
@@ -465,16 +465,16 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 The Twilight House Administration
 : Led by the mysterious **Madame Sīralina**, the house provides Chandrakīrtisundarī with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
 
-Nobles of Vedyara (Various)
-: Several wealthy merchants, minor nobles, and powerful guild members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
+Great Houses of Vedyara (Various)
+: Several wealthy merchants, members of lesser great houses, and powerful shrenī members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
 
 The Ādānashrenī (Covertly)
-: Though not a formal patron, the guild has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
+: Though not a formal patron, the shrenī has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
 
 ### Enemies
 
-The Guild of Rivals
-: Several members of the Ādānashrenī view her divided loyalty as a threat. **Master Thief Gorrān** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
+The Shrenī of Rivals
+: Several members of the Ādānashrenī view her divided loyalty as a threat. **Master Thief Gorrān** in particular has marked her as someone who serves too many masters and may eventually betray shrenī secrets to one of her other patrons.
 
 Discarded Lovers
 : Several former clients have become obsessed with her, believing that her paid warmth was real love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
@@ -485,7 +485,7 @@ Apothecary [[being-cndrthrchrymkhysvr|Chandrathar Āchāryamukhyeshvara]]
 ### Affiliations
 
 Ādānashrenī
-: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the guild's second, and her clients' third.
+: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the shrenī's second, and her clients' third.
 
 Twilight House
 : Her workplace and residence, providing both protection and constraint. She is simultaneously valued asset and trapped commodity.
@@ -495,12 +495,12 @@ Vyālendra's Temple
 
 ## Plot Hooks
 
-1. **The Blackmailer's Gambit**: A mysterious figure contacts Chandrakīrtisundarī with comprehensive documentation of her work for both the Ādānashrenī and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the guild and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorrān** and **Madame Sīralina**, which would mean her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
+1. **The Blackmailer's Gambit**: A mysterious figure contacts Chandrakīrtisundarī with comprehensive documentation of her work for both the Ādānashrenī and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the shrenī and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorrān** and **Madame Sīralina**, which would mean her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
 
-2. **The Patricide Commission**: The Ādānashrenī assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the guild's leadership. The target is her own biological father—the Byzarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the guild conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by making her too compromised to remain useful. Her choices are to betray the guild, to commit patricide, or to find a third path that allows her to escape both organizations.
+2. **The Patricide Commission**: The Ādānashrenī assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the shrenī's leadership. The target is her own biological father—the Byzarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the shrenī conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by making her too compromised to remain useful. Her choices are to betray the shrenī, to commit patricide, or to find a third path that allows her to escape both organizations.
 
-3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandrathar]]** is suspected of involvement, and the city guard begins investigating. Chandrakīrtisundarī realizes that [[being-cndrthrchrymkhysvr|Chandrathar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the guild and the Twilight House. She can approach [[being-cndrthrchrymkhysvr|Chandrathar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
+3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Chandrathar]]** is suspected of involvement, and the city guard begins investigating. Chandrakīrtisundarī realizes that [[being-cndrthrchrymkhysvr|Chandrathar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the shrenī and the Twilight House. She can approach [[being-cndrthrchrymkhysvr|Chandrathar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
 
 4. **The Twilight House's Fall**: **Madame Sīralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakīrtisundarī discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.
 
-5. **The Guild's Final Test**: The Ādānashrenī decides Chandrakīrtisundarī's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a merchant lord's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the guild's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the guild's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the guild's most dangerous secrets and cannot escape without becoming a threat they must eliminate.
+5. **The Shrenī's Final Test**: The Ādānashrenī decides Chandrakīrtisundarī's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a Shreshthin's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the shrenī's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the shrenī's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the shrenī's most dangerous secrets and cannot escape without becoming a threat they must eliminate.
