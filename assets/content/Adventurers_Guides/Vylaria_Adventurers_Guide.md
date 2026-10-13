@@ -42,7 +42,7 @@ A resident who wants to sleep inside the capital needs a waiver from the courts,
 
 ## The Legions
 
-Every Vylarian schoolchild learns the four words that open the military manual: _Sub Aquila stant fines_, "beneath the eagle stand the borders." Each legion carries an Aquila, a gilt eagle on a pole, and a legion that loses it is disbanded.
+Every Vylarian schoolchild learns the four words that open the military manual: _Zêl ôrkhaima thâlentôr ûthrimê_, "beneath the eagle stand the borders." Each legion carries an _ôrkhaimâ_, a gilt eagle on a pole, and a legion that loses it is disbanded.
 
 What a newcomer has to grasp about the [[affiliation-vylrnmltry|legions]] is that each one holds two armies in one mess hall. The noble track buys its commissions, from _Cadetar_ at fifteen to _Legar_ in command, at prices set by the family's estate: Aurelian, Argentean, Aerean, or Adlect. The commoner track earns every rank from _Tironar_ to _Primar_, and no coin changes hands at any promotion. The two meet at a single rank, the _Praefar Castorum_, a commoner raised to officer for distinguished service perhaps twice in a decade. An eighteen-year-old _Subtribunar_ outranks a fifty-year-old _Primar_ on paper, and every unwritten rule of the army says he takes the _Primar_'s counsel. A _Subtribunar_ who ignores it and gets his men cut up is quietly sent home.
 
@@ -148,12 +148,12 @@ Begin with a landing, a patron, and a waiver with a date on it, and follow the q
 
 | Word         | Meaning                                                                                |
 | ------------ | -------------------------------------------------------------------------------------- |
-| Aquila       | A legion's consecrated eagle standard; a legion that loses it is disbanded             |
 | Argentus     | The silver coin of account, 160 to the Aurion                                          |
 | Argo         | The everyday name of the Argentus                                                      |
 | Augustar     | The emperor                                                                            |
 | Aurion       | The gold coin, minted only at Ôrzâra and seldom seen outside a vault                   |
 | Octus        | A silver wedge worth one-eighth of an Argentus; called the Bit                         |
+| Ôrkhaimâ     | A legion's consecrated eagle standard; a legion that loses it is disbanded             |
 | paper-script | Bankers' paper of the Collegium Argentariorum that carries large sums in place of coin |
 | Quaesitor    | An investigator and hunter of the Ordo's enforcement arm, the Quaesitorium             |
 

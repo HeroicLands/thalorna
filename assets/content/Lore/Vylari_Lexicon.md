@@ -539,53 +539,54 @@ The army's words are hard, short and numerous, and every one of them names a thi
 
 The frontier, _ûthrimâ_, shares its root with _thîrûthrimâ_, the hallowed boundary of a city, and the two words are the empire's whole theory of itself: a line inside which the law runs, held by men sworn to hold it. Outside it lives the _althêrôs_, the outsider, a word that means "one who lives without the law" and is never quite polite.
 
-| Form           | Ancient        | Class   | Gloss                                                                       | Built from            | Attested                             |
-| -------------- | -------------- | ------- | --------------------------------------------------------------------------- | --------------------- | ------------------------------------ |
-| `kôrdû`        | `kôrdû`        | n IV m  | a battle                                                                    | —                     | [[skill-vylarilng\|Vylari Language]] |
-| `kôrdâthen`    | `kôrdâthen`    | v â     | to fight; in the passive, there is fighting                                 | —                     | [[skill-vylarilng\|Vylari Language]] |
-| `thrâmezôs`    | `thrâmezôs`    | n II m  | a legion; five thousand sworn                                               | —                     | —                                    |
-| `thrâmezândôs` | `thrâmezândôs` | n II m  | a legionary; a sworn common soldier                                         | `thrâmez-` + `-ândôs` | —                                    |
-| `thrâmezon`    | `thrâmezon`    | n II n  | the soldier's oath; the oath that makes a legionary                         | —                     | —                                    |
-| `khêlêzâ`      | `khêlêzâ`      | n I f   | a cohort; about four hundred and eighty men                                 | —                     | —                                    |
-| `tâkhêzâ`      | `tâkhêzâ`      | n I f   | a century; eighty men and their officer                                     | —                     | —                                    |
-| `tâkhêzândôs`  | `tâkhêzândôs`  | n II m  | a centurion; the career soldier who commands a century                      | `tâkhêz-` + `-ândôs`  | —                                    |
-| `khâmezon`     | `khâmezon`     | n II n  | a tent; the squad of eight that shares one                                  | —                     | —                                    |
-| `phôrkhêzâ`    | `phôrkhêzâ`    | n I f   | a fire team of four                                                         | —                     | —                                    |
-| `ôrkhaimâ`     | `ôrkhaimâ`     | n I f   | an eagle; a legion's consecrated standard                                   | —                     | —                                    |
-| `thûlêmon`     | `thûlêmon`     | n II n  | a banner; a cohort's standard                                               | —                     | —                                    |
-| `zûrgalis`     | `dhûrgalis`    | n III f | a camp; a fortified camp, and the fort that grows from one                  | —                     | —                                    |
-| `khêmbôthôs`   | `khêmbôthôs`   | n II m  | a wall; a city's wall or a fort's                                           | —                     | —                                    |
-| `kâlpêzâ`      | `kâlpêzâ`      | n I f   | a gate                                                                      | —                     | —                                    |
-| `thôrgilâ`     | `thôrgilâ`     | n I f   | a tower                                                                     | —                     | —                                    |
-| `pôzêrâ`       | `pôdhêrâ`      | n I f   | a road; a paved road the empire built                                       | —                     | —                                    |
-| `brûthekâ`     | `brûthekâ`     | n I f   | a bridge                                                                    | —                     | —                                    |
-| `khâdzimon`    | `khâdzimon`    | n II n  | a sword; the short sword of the line                                        | —                     | —                                    |
-| `grêtalâ`      | `ghrêtalâ`     | n I f   | a spear                                                                     | —                     | —                                    |
-| `tharkêlon`    | `tharkêlon`    | n II n  | a shield                                                                    | —                     | —                                    |
-| `sêlbôrâ`      | `sêlbôrâ`      | n I f   | a cuirass; body armor                                                       | —                     | —                                    |
-| `gûlmôs`       | `ghûlmôs`      | n II m  | a horse                                                                     | —                     | —                                    |
-| `gûlmândôs`    | `ghûlmândôs`   | n II m  | a horseman; a cavalry trooper                                               | `gûlm-` + `-ândôs`    | —                                    |
-| `gûlmâlon`     | `ghûlmâlon`    | n II n  | the horse order; the cavalry, and the equestrian estate that once filled it | `gûlm-` + `-âlon`     | —                                    |
-| `thrûmâthen`   | `thrûmâthen`   | v â     | to lead                                                                     | —                     | —                                    |
-| `thrûmar`      | `thrûmar`      | n III m | a general; a war-leader                                                     | —                     | —                                    |
-| `vêlzôrâ`      | `wêlzôrâ`      | n I f   | a triumph; the procession granted a victor                                  | —                     | —                                    |
-| `ûthrimâ`      | `ûthrimâ`      | n I f   | the frontier; the line the legions hold                                     | —                     | —                                    |
-| `althêrôs`     | `althêrôs`     | n II m  | an outsider; one who lives outside the law                                  | —                     | —                                    |
-| `prêzâ`        | `prêdhâ`       | n I f   | peace; the quiet between neighbors                                          | —                     | —                                    |
-| `thûrgezon`    | `thûrgezon`    | n II n  | a siege                                                                     | —                     | —                                    |
-| `kraunêlâ`     | `kraunêlâ`     | n I f   | an engine; a siege engine                                                   | —                     | —                                    |
-| `ânkhârôs`     | `ânkhârôs`     | n II m  | a veteran; a soldier past his sixteen years                                 | —                     | —                                    |
-| `yûnâkhôs`     | `yûnâkhôs`     | n II m  | a recruit; a soldier not yet sworn                                          | —                     | —                                    |
-| `grûmezâ`      | `grûmezâ`      | n I f   | war                                                                         | —                     | —                                    |
-| `gûlmezâ`      | `gûlmezâ`      | n I f   | a troop of horse; about thirty riders                                       | —                     | —                                    |
-| `thûlêmâlon`   | `thûlêmâlon`   | n II n  | a field army; the banners raised for one campaign                           | `thûlêm-` + `-âlon`   | —                                    |
-| `êthôrôs`      | `êthôrôs`      | adj     | second; next in rank                                                        | —                     | —                                    |
-| `yâlmêzâ`      | `yâlmêzâ`      | n I f   | a horn; the signal horn of a century                                        | —                     | —                                    |
-| `phaukhêlâ`    | `phaukhêlâ`    | n I f   | a trumpet                                                                   | —                     | —                                    |
-| `gaimelâ`      | `gaimelâ`      | n I f   | a bow                                                                       | —                     | —                                    |
-| `lîrkhezâ`     | `lîrkhezâ`     | n I f   | a sling                                                                     | —                     | —                                    |
-| `hôlvêthôs`    | `hôlwêthôs`    | n II m  | a companion; one who rides beside a commander                               | —                     | —                                    |
-| `zûmbrôs`      | `zûmbrôs`      | n II m  | a helper; an auxiliary soldier, not a citizen                               | —                     | —                                    |
+| Form           | Ancient        | Class   | Gloss                                                                       | Built from            | Attested                                      |
+| -------------- | -------------- | ------- | --------------------------------------------------------------------------- | --------------------- | --------------------------------------------- |
+| `kôrdû`        | `kôrdû`        | n IV m  | a battle                                                                    | —                     | [[skill-vylarilng\|Vylari Language]]          |
+| `kôrdâthen`    | `kôrdâthen`    | v â     | to fight; in the passive, there is fighting                                 | —                     | [[skill-vylarilng\|Vylari Language]]          |
+| `thrâmezôs`    | `thrâmezôs`    | n II m  | a legion; five thousand sworn                                               | —                     | —                                             |
+| `thrâmezândôs` | `thrâmezândôs` | n II m  | a legionary; a sworn common soldier                                         | `thrâmez-` + `-ândôs` | —                                             |
+| `thrâmezon`    | `thrâmezon`    | n II n  | the soldier's oath; the oath that makes a legionary                         | —                     | —                                             |
+| `khêlêzâ`      | `khêlêzâ`      | n I f   | a cohort; about four hundred and eighty men                                 | —                     | —                                             |
+| `tâkhêzâ`      | `tâkhêzâ`      | n I f   | a century; eighty men and their officer                                     | —                     | —                                             |
+| `tâkhêzândôs`  | `tâkhêzândôs`  | n II m  | a centurion; the career soldier who commands a century                      | `tâkhêz-` + `-ândôs`  | —                                             |
+| `khâmezon`     | `khâmezon`     | n II n  | a tent; the squad of eight that shares one                                  | —                     | —                                             |
+| `phôrkhêzâ`    | `phôrkhêzâ`    | n I f   | a fire team of four                                                         | —                     | —                                             |
+| `ôrkhaimâ`     | `ôrkhaimâ`     | n I f   | an eagle; a legion's consecrated standard                                   | —                     | —                                             |
+| `ôrkhaimândôs` | `ôrkhaimândôs` | n II m  | an eagle-bearer; the soldier who carries a legion's eagle                   | `ôrkhaim-` + `-ândôs` | [[affiliation-vylrnmltry\|Vylarian Military]] |
+| `thûlêmon`     | `thûlêmon`     | n II n  | a banner; a cohort's standard                                               | —                     | —                                             |
+| `zûrgalis`     | `dhûrgalis`    | n III f | a camp; a fortified camp, and the fort that grows from one                  | —                     | —                                             |
+| `khêmbôthôs`   | `khêmbôthôs`   | n II m  | a wall; a city's wall or a fort's                                           | —                     | —                                             |
+| `kâlpêzâ`      | `kâlpêzâ`      | n I f   | a gate                                                                      | —                     | —                                             |
+| `thôrgilâ`     | `thôrgilâ`     | n I f   | a tower                                                                     | —                     | —                                             |
+| `pôzêrâ`       | `pôdhêrâ`      | n I f   | a road; a paved road the empire built                                       | —                     | —                                             |
+| `brûthekâ`     | `brûthekâ`     | n I f   | a bridge                                                                    | —                     | —                                             |
+| `khâdzimon`    | `khâdzimon`    | n II n  | a sword; the short sword of the line                                        | —                     | —                                             |
+| `grêtalâ`      | `ghrêtalâ`     | n I f   | a spear                                                                     | —                     | —                                             |
+| `tharkêlon`    | `tharkêlon`    | n II n  | a shield                                                                    | —                     | —                                             |
+| `sêlbôrâ`      | `sêlbôrâ`      | n I f   | a cuirass; body armor                                                       | —                     | —                                             |
+| `gûlmôs`       | `ghûlmôs`      | n II m  | a horse                                                                     | —                     | —                                             |
+| `gûlmândôs`    | `ghûlmândôs`   | n II m  | a horseman; a cavalry trooper                                               | `gûlm-` + `-ândôs`    | —                                             |
+| `gûlmâlon`     | `ghûlmâlon`    | n II n  | the horse order; the cavalry, and the equestrian estate that once filled it | `gûlm-` + `-âlon`     | —                                             |
+| `thrûmâthen`   | `thrûmâthen`   | v â     | to lead                                                                     | —                     | —                                             |
+| `thrûmar`      | `thrûmar`      | n III m | a general; a war-leader                                                     | —                     | —                                             |
+| `vêlzôrâ`      | `wêlzôrâ`      | n I f   | a triumph; the procession granted a victor                                  | —                     | —                                             |
+| `ûthrimâ`      | `ûthrimâ`      | n I f   | the frontier; the line the legions hold                                     | —                     | —                                             |
+| `althêrôs`     | `althêrôs`     | n II m  | an outsider; one who lives outside the law                                  | —                     | —                                             |
+| `prêzâ`        | `prêdhâ`       | n I f   | peace; the quiet between neighbors                                          | —                     | —                                             |
+| `thûrgezon`    | `thûrgezon`    | n II n  | a siege                                                                     | —                     | —                                             |
+| `kraunêlâ`     | `kraunêlâ`     | n I f   | an engine; a siege engine                                                   | —                     | —                                             |
+| `ânkhârôs`     | `ânkhârôs`     | n II m  | a veteran; a soldier past his sixteen years                                 | —                     | —                                             |
+| `yûnâkhôs`     | `yûnâkhôs`     | n II m  | a recruit; a soldier not yet sworn                                          | —                     | —                                             |
+| `grûmezâ`      | `grûmezâ`      | n I f   | war                                                                         | —                     | —                                             |
+| `gûlmezâ`      | `gûlmezâ`      | n I f   | a troop of horse; about thirty riders                                       | —                     | —                                             |
+| `thûlêmâlon`   | `thûlêmâlon`   | n II n  | a field army; the banners raised for one campaign                           | `thûlêm-` + `-âlon`   | —                                             |
+| `êthôrôs`      | `êthôrôs`      | adj     | second; next in rank                                                        | —                     | —                                             |
+| `yâlmêzâ`      | `yâlmêzâ`      | n I f   | a horn; the signal horn of a century                                        | —                     | —                                             |
+| `phaukhêlâ`    | `phaukhêlâ`    | n I f   | a trumpet                                                                   | —                     | —                                             |
+| `gaimelâ`      | `gaimelâ`      | n I f   | a bow                                                                       | —                     | —                                             |
+| `lîrkhezâ`     | `lîrkhezâ`     | n I f   | a sling                                                                     | —                     | —                                             |
+| `hôlvêthôs`    | `hôlwêthôs`    | n II m  | a companion; one who rides beside a commander                               | —                     | —                                             |
+| `zûmbrôs`      | `zûmbrôs`      | n II m  | a helper; an auxiliary soldier, not a citizen                               | —                     | —                                             |
 
 ### The city: stone, water and the street
 
@@ -891,39 +892,40 @@ A verb is cited here by its infinitive, the form a grammar master writes on the 
 
 The numbers count in tens, and twelve has a word of its own, _dôrêkhis_, because it is the number of the gods. The pronouns are short and seldom said, since a verb's ending already carries its subject: _ên_ (I) spoken aloud is a raised voice.
 
-| Form        | Ancient     | Class | Gloss                                                                  | Built from | Attested                             |
-| ----------- | ----------- | ----- | ---------------------------------------------------------------------- | ---------- | ------------------------------------ |
-| `ûrkhis`    | `ûrkhis`    | num   | one                                                                    | —          | —                                    |
-| `tâvemêr`   | `tâwemêr`   | num   | two                                                                    | —          | —                                    |
-| `khârzis`   | `khârzis`   | num   | three                                                                  | —          | —                                    |
-| `phêlzûr`   | `phêlzûr`   | num   | four                                                                   | —          | —                                    |
-| `yôlemix`   | `yôlemix`   | num   | five                                                                   | —          | —                                    |
-| `sêlthûr`   | `sêlthûr`   | num   | six                                                                    | —          | —                                    |
-| `ranêthûr`  | `ranêthûr`  | num   | seven                                                                  | —          | —                                    |
-| `zôrimax`   | `zôrimax`   | num   | eight                                                                  | —          | —                                    |
-| `lûkhemar`  | `lûkhemar`  | num   | nine                                                                   | —          | —                                    |
-| `ûmbaris`   | `ûmbaris`   | num   | ten                                                                    | —          | —                                    |
-| `dôrêkhis`  | `dôrêkhis`  | num   | twelve                                                                 | —          | —                                    |
-| `khârvelon` | `khârwelon` | num   | a hundred                                                              | —          | —                                    |
-| `thâmbezûr` | `thâmbezûr` | num   | a thousand                                                             | —          | —                                    |
-| `ên`        | `ên`        | pron  | I; said aloud, a raised voice                                          | —          | [[skill-vylarilng\|Vylari Language]] |
-| `khô`       | `khô`       | pron  | you, one person; emphatic                                              | —          | [[skill-vylarilng\|Vylari Language]] |
-| `ênthôr`    | `ênthôr`    | pron  | we two; the ancient dual                                               | —          | [[skill-vylarilng\|Vylari Language]] |
-| `ênoi`      | `ênoi`      | pron  | we                                                                     | —          | [[skill-vylarilng\|Vylari Language]] |
-| `khôthôr`   | `khôthôr`   | pron  | you two; the ancient dual                                              | —          | [[skill-vylarilng\|Vylari Language]] |
-| `khôroi`    | `khôroi`    | pron  | you, many; and to one person, the formal you                           | —          | [[skill-vylarilng\|Vylari Language]] |
-| `vêthis`    | `wêthis`    | pron  | oneself; the reflexive, in the genitive                                | —          | [[skill-vylarilng\|Vylari Language]] |
-| `dênôs`     | `dênôs`     | pron  | this, here by me                                                       | —          | [[skill-vylarilng\|Vylari Language]] |
-| `thêsôs`    | `thêsôs`    | pron  | that of yours; said of a person, contemptuous                          | —          | [[skill-vylarilng\|Vylari Language]] |
-| `alâthôs`   | `alâthôs`   | pron  | that, yonder; said of a person, grand                                  | —          | [[skill-vylarilng\|Vylari Language]] |
-| `kêdis`     | `kêdis`     | pron  | who                                                                    | —          | —                                    |
-| `ul`        | `ul`        | part  | and                                                                    | —          | [[skill-vylarilng\|Vylari Language]] |
-| `ar`        | `ar`        | part  | not                                                                    | —          | —                                    |
-| `hôlêthi`   | `hôlêthi`   | part  | because; with the indicative vouched for, with the subjunctive alleged | —          | [[skill-vylarilng\|Vylari Language]] |
-| `thâ`       | `thâ`       | part  | that, so that                                                          | —          | —                                    |
-| `îr`        | `îr`        | part  | in, into                                                               | —          | —                                    |
-| `ûs`        | `ûs`        | part  | over; set over                                                         | —          | —                                    |
-| `phâ`       | `phâ`       | part  | for, on behalf of                                                      | —          | —                                    |
+| Form        | Ancient     | Class | Gloss                                                                  | Built from | Attested                                      |
+| ----------- | ----------- | ----- | ---------------------------------------------------------------------- | ---------- | --------------------------------------------- |
+| `ûrkhis`    | `ûrkhis`    | num   | one                                                                    | —          | —                                             |
+| `tâvemêr`   | `tâwemêr`   | num   | two                                                                    | —          | —                                             |
+| `khârzis`   | `khârzis`   | num   | three                                                                  | —          | —                                             |
+| `phêlzûr`   | `phêlzûr`   | num   | four                                                                   | —          | —                                             |
+| `yôlemix`   | `yôlemix`   | num   | five                                                                   | —          | —                                             |
+| `sêlthûr`   | `sêlthûr`   | num   | six                                                                    | —          | —                                             |
+| `ranêthûr`  | `ranêthûr`  | num   | seven                                                                  | —          | —                                             |
+| `zôrimax`   | `zôrimax`   | num   | eight                                                                  | —          | —                                             |
+| `lûkhemar`  | `lûkhemar`  | num   | nine                                                                   | —          | —                                             |
+| `ûmbaris`   | `ûmbaris`   | num   | ten                                                                    | —          | —                                             |
+| `dôrêkhis`  | `dôrêkhis`  | num   | twelve                                                                 | —          | —                                             |
+| `khârvelon` | `khârwelon` | num   | a hundred                                                              | —          | —                                             |
+| `thâmbezûr` | `thâmbezûr` | num   | a thousand                                                             | —          | —                                             |
+| `ên`        | `ên`        | pron  | I; said aloud, a raised voice                                          | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `khô`       | `khô`       | pron  | you, one person; emphatic                                              | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `ênthôr`    | `ênthôr`    | pron  | we two; the ancient dual                                               | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `ênoi`      | `ênoi`      | pron  | we                                                                     | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `khôthôr`   | `khôthôr`   | pron  | you two; the ancient dual                                              | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `khôroi`    | `khôroi`    | pron  | you, many; and to one person, the formal you                           | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `vêthis`    | `wêthis`    | pron  | oneself; the reflexive, in the genitive                                | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `dênôs`     | `dênôs`     | pron  | this, here by me                                                       | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `thêsôs`    | `thêsôs`    | pron  | that of yours; said of a person, contemptuous                          | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `alâthôs`   | `alâthôs`   | pron  | that, yonder; said of a person, grand                                  | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `kêdis`     | `kêdis`     | pron  | who                                                                    | —          | —                                             |
+| `ul`        | `ul`        | part  | and                                                                    | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `ar`        | `ar`        | part  | not                                                                    | —          | —                                             |
+| `hôlêthi`   | `hôlêthi`   | part  | because; with the indicative vouched for, with the subjunctive alleged | —          | [[skill-vylarilng\|Vylari Language]]          |
+| `thâ`       | `thâ`       | part  | that, so that                                                          | —          | —                                             |
+| `îr`        | `îr`        | part  | in, into                                                               | —          | —                                             |
+| `ûs`        | `ûs`        | part  | over; set over                                                         | —          | —                                             |
+| `phâ`       | `phâ`       | part  | for, on behalf of                                                      | —          | —                                             |
+| `zêl`       | `dhêl`      | part  | under, beneath; takes the ablative                                     | —          | [[affiliation-vylrnmltry\|Vylarian Military]] |
 
 ## Shared roots
 

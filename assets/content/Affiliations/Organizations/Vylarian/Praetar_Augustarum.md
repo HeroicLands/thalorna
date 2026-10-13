@@ -87,7 +87,7 @@ That closeness to power is also the institution's hazard. The elite standing tha
 
 ## Identifying Marks
 
-A praetorian in full harness is unmistakable, and meant to be. The guard wears armor far richer than any line legion's, burnished and gilded and worked with the imperial Aquila, and it is meant to be seen on the walls and at the palace gates as a standing display of the throne's wealth and reach. Their standards and liveries set them visibly apart from the field army.
+A praetorian in full harness is unmistakable, and meant to be. The guard wears armor far richer than any line legion's, burnished and gilded and worked with the imperial _ôrkhaimâ_, and it is meant to be seen on the walls and at the palace gates as a standing display of the throne's wealth and reach. Their standards and liveries set them visibly apart from the field army.
 
 The captaincy of the permanent palace detail is among the most trusted postings in the empire. Its holder shares with the Quaestor Imperii and the Censor Maximus of the [[affiliation-aerarimmpr|Aerarium]] the securing of the imperial strongroom.
 

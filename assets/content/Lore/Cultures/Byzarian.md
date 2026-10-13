@@ -97,7 +97,7 @@ The effect is that Byzaría has very little feud for a region bordering three pe
 
 ## Where the Kept Go
 
-The dead of a Byzarian house are kept, and the word is meant in its commercial sense. The faith teaches that a soul passes first to the spirit realm and that the rites of the god and the ancestors receive it. The tomb-keepers of Nýkhtion say the same in their own terms: "We do not sell graves. We keep them, and the keeping is what you pay for." A family that wants its dead received and tended does not leave it to piety. It buys the keeping, as a perpetual endowment its heirs establish, which pays the temples of Aurèl and the ancestral spirits to maintain the chambers and say the rites for as long as the endowment runs.
+The dead of a Byzarian house are kept, and the word is meant in its commercial sense. The faith teaches that a soul passes first to the spirit realm and that the rites of the god and the ancestors receive it. The tomb-keepers of Nýkhtion say the same in their own terms: "We do not sell graves. We keep them, and the keeping is what you pay for." A family that wants its dead received and tended does not leave it to piety. It buys the keeping, as a perpetual endowment its heirs establish, which pays the temples of [[affiliation-selmoros|Sélmoros]] and the ancestral spirits to maintain the chambers and say the rites for as long as the endowment runs.
 
 This changes an ordinary Tuesday. A Byzarian of any means has a tomb in the necropolis and a contract for its keeping, and he checks that the endowment is current the way he checks the lease on a warehouse. He names the endowment, the tomb and its keepers in his will, because an heir who inherits an open obligation to the dead has inherited a quarrel. A dying man settles his accounts aloud before witnesses, calling in what is owed to him and acknowledging what he owes, so that his heirs inherit closed terms. A prosperous house treats its tomb as a standing charge, and the necropolis has districts that run from the columned mausolea of merchant families to the plain stone markers of common ones. A poor family pays for what it can. The priests of Sélmoros bury paupers and the unclaimed without fee.
 
@@ -105,7 +105,7 @@ The dread that corresponds to all this is the account that nobody keeps. A tomb 
 
 ## Reaching the Dead
 
-The living reach the dead through the temples of Aurèl and the ancestral spirits at Nýkhtion, through the endowment that pays for the rite, and through the festivals of the dead. The pilgrims and mourning families who come from across the League and beyond are the city's custom, and the keepers sell keeping, not conversation. Sélmoros opposes anyone who raises the dead or violates a grave, so the faith gives the living no way to question them. The dead do for the living what an ancestor does for a house: they are the reason to keep the account open and the name sound.
+The living reach the dead through the temples of [[affiliation-selmoros|Sélmoros]] and the ancestral spirits at Nýkhtion, through the endowment that pays for the rite, and through the festivals of the dead. The pilgrims and mourning families who come from across the League and beyond are the city's custom, and the keepers sell keeping, not conversation. Sélmoros opposes anyone who raises the dead or violates a grave, so the faith gives the living no way to question them. The dead do for the living what an ancestor does for a house: they are the reason to keep the account open and the name sound.
 
 ## What Is Owed
 

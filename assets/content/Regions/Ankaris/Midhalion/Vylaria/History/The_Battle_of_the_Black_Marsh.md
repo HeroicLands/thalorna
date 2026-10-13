@@ -52,7 +52,7 @@ data:
       accounts:
         - by: affiliation-vylrnmltry
           says: >-
-            The Tertia Aurelia Coronata recovered the Fourth Vesperine's eagle at the Black Marsh, and the Aquila is the most sacred object the army owns.
+            The Tertia Aurelia Coronata recovered the Fourth Vesperine's eagle at the Black Marsh, and the _ôrkhaimâ_ is the most sacred object the army owns.
           agrees: full
         - by: lore-varokhiclt
           says: >-
@@ -67,7 +67,7 @@ A sergeant of the watch at Castrovar, teaching a recruit to count smoke from the
 
 ## The Eagle in the Forest
 
-In 518 a Varokh war-band burned the camp of the Fourth Vesperine in a Mokturan valley and carried the legion's eagle north over the passes ([[lore-hungerraids|The Hunger Raids]]). No legion had lost its Aquila to barbarians before, and the army's manual disbands a legion that loses one. The chancery held the Fourth's name on the roll for two years, because the eagle was known to hang in the forest and the legion meant to have it back.
+In 518 a Varokh war-band burned the camp of the Fourth Vesperine in a Mokturan valley and carried the legion's eagle north over the passes ([[lore-hungerraids|The Hunger Raids]]). No legion had lost its _ôrkhaimâ_ to barbarians before, and the army's manual disbands a legion that loses one. The chancery held the Fourth's name on the roll for two years, because the eagle was known to hang in the forest and the legion meant to have it back.
 
 In the spring of 520 the eagle came south again. The hunger that followed the Three Winters ([[lore-threewinters|The Three Winters]]) had gathered war-bands from a dozen villages into one host, the largest the passes had seen, and it carried the eagle at its head.
 

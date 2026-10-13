@@ -82,7 +82,7 @@ About 680, under a regency, the regent's council wanted a victory it could show 
 
 The Áelendan had met such columns before. They let the Twelfth climb deep into the range, as they had let the columns of the western wars, and they closed the passes behind it. They did not give battle. The legion left its rear cohorts in a fort it built at the foot of the passes and took the rest up through the summer, and it ran out of road when the snow came.
 
-The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its Aquila, and the families whose sons were cashiered in the disbanding have not forgotten it.
+The record the army keeps says the Twelfth was destroyed. The cohorts in the fort wintered there, and what became of them is not in any report ([[place-twelfthcamp|The Twelfth's Last Camp]]). The eagle never came back. The army struck the legion from the rolls, as the manual requires of a legion that loses its _ôrkhaimâ_, and the families whose sons were cashiered in the disbanding have not forgotten it.
 
 ## What It Left
 

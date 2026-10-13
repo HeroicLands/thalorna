@@ -3,7 +3,7 @@ shortcode: kngdmprvnz
 name: {full: Kingdom of Provènzia, aliases: []}
 type: affiliation
 subType: polity
-description: "Merchant-prince kingdom on the eastern coast of Aurèldía—wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
+description: "Merchant-prince kingdom on the southern coast of Aurèldía—wealthy, sophisticated, and deeply engaged in continental trade and diplomacy."
 data:
   templatePriority: null
   demonym: Provenzian

@@ -13,7 +13,7 @@ Nýkhtion is a city of the dead, a sprawling necropolis complex in the arid high
 
 ## The Districts
 
-The complex is organized into districts that correspond to different eras, classes and religious traditions. The oldest quarter holds monumental tombs built in styles now lost to living memory: stepped pyramids and underground chambers carved from limestone bedrock. They were standing when the first Helonic settlers reached the plateau ([[lore-heladlandngs|the Landings]]), who buried their own dead beside them, and no record names the people who raised them. Later sections hold the columned mausolea typical of Byzarian merchants, and the newest sprawl across the plateau with the simpler stone markers favored by common families. Temples dedicated to Aurèl and the ancestral spirits stand throughout, maintained by the priesthood and funded by perpetual endowments that the dead's heirs establish.
+The complex is organized into districts that correspond to different eras, classes and religious traditions. The oldest quarter holds monumental tombs built in styles now lost to living memory: stepped pyramids and underground chambers carved from limestone bedrock. They were standing when the first Helonic settlers reached the plateau ([[lore-heladlandngs|the Landings]]), who buried their own dead beside them, and no record names the people who raised them. Later sections hold the columned mausolea typical of Byzarian merchants, and the newest sprawl across the plateau with the simpler stone markers favored by common families. Temples dedicated to [[affiliation-selmoros|Sélmoros]] and the ancestral spirits stand throughout, maintained by the priesthood and funded by perpetual endowments that the dead's heirs establish.
 
 ## Who Keeps It
 

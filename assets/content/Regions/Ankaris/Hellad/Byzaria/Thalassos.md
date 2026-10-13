@@ -24,7 +24,7 @@ The town's character is rough and maritime. Dockworkers, sailors, merchant facto
 
 ## The Shrine
 
-The town keeps a shrine to Tethara, the Aurèldían goddess of the sea and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
+The town keeps a shrine to [[affiliation-pozeras|Pôzêrâs]], the Aurèldían god of voyages and safe passage. Pilgrims making maritime vows stop in Thálassos to leave offerings, and the priests have a reputation for giving real sanctuary to those fleeing pursuit, a tradition they guard jealously whatever the League's politics.
 
 ## See Also
 
