@@ -18,7 +18,7 @@ data:
 
 ## The Roll Beneath the Hill
 
-A cohort of the old Vylarian legion went into a Brynavar hill in the war at Valdûn and never came out. Its tribune demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
+A cohort of the old Vylarian legion went into a Áuldalon hill in the war at Valdûn and never came out. Its tribune demanded shelter of the thing that kept the hall, and the thing gave exactly what was demanded. The cohort holds the door against all comers, and the roll of those who hold it grows by anyone who eats the bread.
 
 ### Hook
 

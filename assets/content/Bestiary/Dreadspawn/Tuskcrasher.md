@@ -257,7 +257,7 @@ The drove road runs through a hanging wood of oak and holly, and the drovers hav
 
 # Dossier {#dossier}
 
-The Tuskcrasher is a dreadspawn in the shape of a gigantic wild boar, seven to eight feet at the shoulder and as heavy as a team of oxen, with tusks like scythes, hide like a tanned door, and a temper that makes no difference between a wolf and a war-party. It claims ten to twenty miles of forest and defends it against everything that moves through it, with a ferocity that does not stop for wounds. One holds the wooded hills of [[place-brynavar|Brynavar]], Élavendre's eastern march, where the drove roads run west to the markets and the raiders come down from the east, and it has fought them both. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Tuskcrasher is a dreadspawn in the shape of a gigantic wild boar, seven to eight feet at the shoulder and as heavy as a team of oxen, with tusks like scythes, hide like a tanned door, and a temper that makes no difference between a wolf and a war-party. It claims ten to twenty miles of forest and defends it against everything that moves through it, with a ferocity that does not stop for wounds. One holds the wooded hills of [[place-auldalon|Áuldalon]], Élavendre's eastern march, where the drove roads run west to the markets and the raiders come down from the east, and it has fought them both. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -265,7 +265,7 @@ The tuskcrasher is a boar on a monstrous scale: a huge, wedge-shaped head, a mas
 
 ## In the Land
 
-Brynavar's rolling wooded hills are excellent for stock and are the road by which trouble arrives overland, and the tuskcrasher holds a long stretch of them east of [[place-valdun|Valdûn]], oak and holly woods with clearings and springs. It has wallows and resting places all through its ground, and it roots for mast, roots and anything else, and eats cattle when it can catch them. Its ground lies across two of the drove roads, and it treats a drove of cattle as an invasion. It treats a Grukar raiding band or a Varokh war-party the same way, and it does not seem to care which side of the march anyone is on.
+Áuldalon's rolling wooded hills are excellent for stock and are the road by which trouble arrives overland, and the tuskcrasher holds a long stretch of them east of [[place-valdun|Valdûn]], oak and holly woods with clearings and springs. It has wallows and resting places all through its ground, and it roots for mast, roots and anything else, and eats cattle when it can catch them. Its ground lies across two of the drove roads, and it treats a drove of cattle as an invasion. It treats a Grukar raiding band or a Varokh war-party the same way, and it does not seem to care which side of the march anyone is on.
 
 ## Key Behaviors
 
@@ -273,7 +273,7 @@ The tuskcrasher patrols its ground, feeds, wallows and fights. It attacks everyt
 
 ## What the March Does
 
-Brynavar is built for raiding, and the march treats the tuskcrasher as one more raider, and a useful one. The droving families, a power of their own, send their herds round its ground by the long road, which costs them two days and saves the drove. The hill levy at Valdûn, which has a better record against Varokh war-parties and Grukar bands than the court's cavalry, keeps a careful eye on which way raiders come in, because a band that comes through the tuskcrasher's ground arrives at Valdûn smaller, if it arrives at all. When the boar has come out of its ground toward the steadings, the levy has turned it back with fire and noise, and twice has tried to kill it with spears set against its charge, and has buried the spearmen. The levy's officers would not kill it now if they could, and say so over a drink.
+Áuldalon is built for raiding, and the march treats the tuskcrasher as one more raider, and a useful one. The droving families, a power of their own, send their herds round its ground by the long road, which costs them two days and saves the drove. The hill levy at Valdûn, which has a better record against Varokh war-parties and Grukar bands than the court's cavalry, keeps a careful eye on which way raiders come in, because a band that comes through the tuskcrasher's ground arrives at Valdûn smaller, if it arrives at all. When the boar has come out of its ground toward the steadings, the levy has turned it back with fire and noise, and twice has tried to kill it with spears set against its charge, and has buried the spearmen. The levy's officers would not kill it now if they could, and say so over a drink.
 
 ## Signs
 

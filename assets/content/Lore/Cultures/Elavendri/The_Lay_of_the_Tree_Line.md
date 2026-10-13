@@ -3,7 +3,7 @@ shortcode: treelinelay
 name: {full: The Lay of the Tree Line, aliases: [The Crowning Lay]}
 type: lore
 subType: literature
-description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Eshálosha, the white hart in the wood, the page with its foot left blank, and the oath said at Tanwen's fire."
+description: "The Bardic Circle's lay of Táldoren, the First Crowned, sung to the harp at every crowning before the monarch swears: the bread sent down from Eshálosha, the white hart in the wood, the page with its foot left blank, and the oath said at T'éna's fire."
 tags: [draft, elavendri]
 data:
   culture: elavendriclt
@@ -14,7 +14,7 @@ data:
     - affiliation-kngdmlvndr
     - affiliation-bardicolgs
     - place-eshalshldg
-    - lore-tanwenspr
+    - lore-tenaspr
     - affiliation-alndnwrdns
   language: elvndrlng
 
@@ -206,7 +206,7 @@ of the high valley, long and old,
 oak, stone and moss. And in its hall
 the first fire burns, that's not at all
 gone out since it was lit. They name
-it Tanwen, and the Hearth. The same
+it T'éna, and the Hearth. The same
 fire keeps what's sworn there, and keeps hold
 of oaths that break. And it is told
 that no blade passes it. None passed.
@@ -303,5 +303,5 @@ It stops where the first king came down.
 ## See Also
 
 - [[lore-firstcrown|The First Crowning of Élavendre]] · [[affiliation-kngdmlvndr|Kingdom of Élavendre]] · [[place-beravel|Béravel]]
-- [[place-eshalshldg|Eshálosha Lodge]] · [[lore-tanwenspr|Tanwen, the Hearth of Eshálosha]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
+- [[place-eshalshldg|Eshálosha Lodge]] · [[lore-tenaspr|T'éna, the Hearth of Eshálosha]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-elavendriclt|Élavendri]] · [[lore-theasking|The Asking]]

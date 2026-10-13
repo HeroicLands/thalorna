@@ -248,7 +248,7 @@ The fox is sitting on the standing stone at the edge of the clearing, a fox the 
 
 # Dossier {#dossier}
 
-The Blinkfox is a small dreadspawn in the shape of a fox, about the size of a big hound and fifteen pounds in weight, which can step out of the world and back into it again a few yards away, faster than a blink. It hunts by appearing beside its prey, biting, and vanishing, and it is cunning, curious and cruel. It is met in [[place-glanmor|Glanmor]], on Élavendre's western coast, where the deep forest runs down to the sea and the [[lore-aralwen|arálwain]], the thin places, lie thicker than anywhere outside the mountains. The Élavendri call it a fae creature, and some of them call it worse. The scholars who sort such things call it a dreadspawn: a made thing, alive, unable to breed, and set loose in the one country where it would look most at home.
+The Blinkfox is a small dreadspawn in the shape of a fox, about the size of a big hound and fifteen pounds in weight, which can step out of the world and back into it again a few yards away, faster than a blink. It hunts by appearing beside its prey, biting, and vanishing, and it is cunning, curious and cruel. It is met in [[place-lirve|Lírvë]], on Élavendre's western coast, where the deep forest runs down to the sea and the [[lore-aralwen|arálwain]], the thin places, lie thicker than anywhere outside the mountains. The Élavendri call it a fae creature, and some of them call it worse. The scholars who sort such things call it a dreadspawn: a made thing, alive, unable to breed, and set loose in the one country where it would look most at home.
 
 ## Presentation
 
@@ -256,7 +256,7 @@ A blinkfox is lean and graceful, long-legged, with a narrow muzzle and very larg
 
 ## In the Land
 
-Blinkfoxes are known from the deep forest of Glanmor, between the coastal towns and the [[lore-flksinale|Sinalë]] enclaves, in the oak and silver birch that is cut only under license and in the clearings round the standing stones and the thin places. A blinkfox keeps to a few miles of forest and rests in clearings and on high stones, where it can see. It is most often met at dawn and dusk and under the deep shade of the canopy, and it avoids full sunlight. Reports cluster round the arálwain, and the [[affiliation-alndnwrdns|Áelendan Wardens]] who patrol them say they have seen more than one blinkfox, though whether there are several or one that is very quick, nobody can tell.
+Blinkfoxes are known from the deep forest of Lírvë, between the coastal towns and the [[lore-flksinale|Sinalë]] enclaves, in the oak and silver birch that is cut only under license and in the clearings round the standing stones and the thin places. A blinkfox keeps to a few miles of forest and rests in clearings and on high stones, where it can see. It is most often met at dawn and dusk and under the deep shade of the canopy, and it avoids full sunlight. Reports cluster round the arálwain, and the [[affiliation-alndnwrdns|Áelendan Wardens]] who patrol them say they have seen more than one blinkfox, though whether there are several or one that is very quick, nobody can tell.
 
 ## Key Behaviors
 
@@ -264,7 +264,7 @@ The blinkfox hunts birds, hares, small deer and, by preference, clever prey: cro
 
 ## What the Coast People Do
 
-The people of Glanmor's coast keep the deep forest's rules because the Wardens enforce them, and they add their own about the blinkfox. A child is not sent into the birch woods alone at dusk, and a dog that has followed something into the trees is called back at once. A woodcutter working under license who sees a fox with a coat the wrong color sits down, puts his back to a tree, and waits, because a blinkfox gets bored with prey that will not run. The guides who take pilgrims and scholars to the edges of the thin places point out blinkfox sightings as one of the sights, and charge more for it. The Wardens do not hunt the creature and do not protect it; a blinkfox that harms someone on sacred ground is, to them, one more thing that has violated it.
+The people of Lírvë's coast keep the deep forest's rules because the Wardens enforce them, and they add their own about the blinkfox. A child is not sent into the birch woods alone at dusk, and a dog that has followed something into the trees is called back at once. A woodcutter working under license who sees a fox with a coat the wrong color sits down, puts his back to a tree, and waits, because a blinkfox gets bored with prey that will not run. The guides who take pilgrims and scholars to the edges of the thin places point out blinkfox sightings as one of the sights, and charge more for it. The Wardens do not hunt the creature and do not protect it; a blinkfox that harms someone on sacred ground is, to them, one more thing that has violated it.
 
 ## Signs
 

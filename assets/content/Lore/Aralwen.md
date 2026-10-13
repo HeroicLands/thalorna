@@ -45,14 +45,14 @@ tallies its losses privately, and sends more agents.
 - **Úqua-Arálwen**—a _slow_ arálwen of deep Terrae resonance, all ancient trees and dryads, whose
   time runs at its own rate: a day inside can be a month outside. Few who enter come out. Its flora
   is not merely large but occasionally mobile and hostile.
-- [[place-ataanwyrd|The At'aan Wyrd]]—not an arálwen itself but a Kindred that holds one: the
+- [[place-urontekhi|The Ûron Tékhi]]—not an arálwen itself but a Kindred that holds one: the
   oldest the Áelendan deal with, counted fae-adjacent, and understood to have crossed the boundary
   long ago or to have been fae-kin from before the tribes came.
 
 ## The Name
 
-_Arálwen_ is the [[affiliation-theoldway|Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in Tanwen and
-Gwalchen, and the stress settled where the acute now marks it. Áelendan shamen use the plural
+_Arálwen_ is the [[affiliation-theoldway|Old Way]]'s word, worn down from an older **arallwyn**—"the other place." The doubled consonant simplified, the ending fronted as it does in T'éna and
+Tîpel, and the stress settled where the acute now marks it. Áelendan shamen use the plural
 **arálwain**; the Élavendren court, which prefers not to name such things precisely, says _the thin
 places_.
 

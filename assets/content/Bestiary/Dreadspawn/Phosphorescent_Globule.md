@@ -169,7 +169,7 @@ The adit goes into the mountain farther than the miners said, and your torch is 
 
 # Dossier {#dossier}
 
-The Phosphorescent Globule is a small dreadspawn of glowing jelly, four to eight feet across but weighing only ten pounds, which floats slowly through deep, dark places, lures prey with its light and dissolves whatever it engulfs. It changes shape at will, blinds with sudden flares, and splits into pieces when it is hurt. It lives in deep caves and the flooded workings of mines, and one holds an abandoned working in the mountains of [[place-ardwyn|Ardwyn]], on Élavendre's eastern border, where the ore lies under Áelendan ground and an unlicensed working does not continue. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Phosphorescent Globule is a small dreadspawn of glowing jelly, four to eight feet across but weighing only ten pounds, which floats slowly through deep, dark places, lures prey with its light and dissolves whatever it engulfs. It changes shape at will, blinds with sudden flares, and splits into pieces when it is hurt. It lives in deep caves and the flooded workings of mines, and one holds an abandoned working in the mountains of [[place-sorvanda|Sórvanda]], on Élavendre's eastern border, where the ore lies under Áelendan ground and an unlicensed working does not continue. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -177,7 +177,7 @@ The globule is a roughly round mass of clear or semi-clear jelly, sickly green o
 
 ## In the Land
 
-Ardwyn's mountains are rich in silver, gold and gemstones, and the ore lies under ground the Áelendan do not permit to be mined; four centuries of crowns have tested that prohibition exactly far enough to know it is real. The globule drifts through one of the old unlicensed workings in the eastern mountains, a set of galleries and shafts driven into the hill by a company that the [[affiliation-alndnwrdns|Áelendan Wardens]] found, and the natural caves beyond them where the galleries broke through into an underground lake. It hunts the bats, cave-fish and blind crickets of the caves, and anything that comes in from outside: foxes, martens, men. It keeps to the dark and to the deep levels and never comes out into daylight.
+Sórvanda's mountains are rich in silver, gold and gemstones, and the ore lies under ground the Áelendan do not permit to be mined; four centuries of crowns have tested that prohibition exactly far enough to know it is real. The globule drifts through one of the old unlicensed workings in the eastern mountains, a set of galleries and shafts driven into the hill by a company that the [[affiliation-alndnwrdns|Áelendan Wardens]] found, and the natural caves beyond them where the galleries broke through into an underground lake. It hunts the bats, cave-fish and blind crickets of the caves, and anything that comes in from outside: foxes, martens, men. It keeps to the dark and to the deep levels and never comes out into daylight.
 
 ## Key Behaviors
 
@@ -185,7 +185,7 @@ The globule is patient and nearly sedentary. It settles in a gallery or over the
 
 ## What People Do
 
-The Áelendan say the old working is closed and do not go into it. The Wardens leave the globule where it is, because a cave with that in it is a working nobody will reopen. Every few years a prospector from the kingdom hears that silver was found in the old galleries before the Wardens came, and that the company's tools and takings are still in there, and goes up to look; sometimes he comes back with a story about a light in the deep levels, and more often he does not come back. The miners of the licensed workings at the fringes of Ardwyn tell each other never to follow a light underground that is not their own, and to carry fire, not lamps, into old ground.
+The Áelendan say the old working is closed and do not go into it. The Wardens leave the globule where it is, because a cave with that in it is a working nobody will reopen. Every few years a prospector from the kingdom hears that silver was found in the old galleries before the Wardens came, and that the company's tools and takings are still in there, and goes up to look; sometimes he comes back with a story about a light in the deep levels, and more often he does not come back. The miners of the licensed workings at the fringes of Sórvanda tell each other never to follow a light underground that is not their own, and to carry fire, not lamps, into old ground.
 
 ## Signs
 

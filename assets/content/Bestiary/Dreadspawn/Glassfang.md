@@ -248,7 +248,7 @@ The workshop is bright: three tall windows, a bench of glass vessels, a lens on 
 
 # Dossier {#dossier}
 
-The Glassfang is a small dreadspawn of clear, living crystal, about the size of a big cat and eighty pounds in weight, nearly invisible in bright light, with fangs that cut through leather and a venom that weakens and paralyzes. It hunts fast and alone, and it is drawn to light and to places where magic is worked. One is loose in [[place-beravel|Béravel]], in the University of the [[affiliation-ordoarcanis|Ordo Arcanis]] and the workshop quarter round it, in [[place-tirwen|Tirwen]], the heartland of Élavendre, and the Ordo has been trying to catch it for three years. Like every dreadspawn it was made, it is alive, and it does not breed. How it came to the University is the question the Ordo least wants asked.
+The Glassfang is a small dreadspawn of clear, living crystal, about the size of a big cat and eighty pounds in weight, nearly invisible in bright light, with fangs that cut through leather and a venom that weakens and paralyzes. It hunts fast and alone, and it is drawn to light and to places where magic is worked. One is loose in [[place-beravel|Béravel]], in the University of the [[affiliation-ordoarcanis|Ordo Arcanis]] and the workshop quarter round it, in [[place-ellive|Éllivë]], the heartland of Élavendre, and the Ordo has been trying to catch it for three years. Like every dreadspawn it was made, it is alive, and it does not breed. How it came to the University is the question the Ordo least wants asked.
 
 ## Presentation
 

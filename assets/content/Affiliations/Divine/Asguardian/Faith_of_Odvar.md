@@ -50,7 +50,7 @@ data:
       Hofsgodi: >-
         Keeper of a named rune-hall, its stores and its blót.
       Rune-caster: >-
-        Reads the carved rune-staves to discern the currents of wyrd, a practice properly this clergy's own.
+        Reads the carved rune-staves to discern the currents of nelth, a practice properly this clergy's own.
   seat: null
   population: null
   economy: []

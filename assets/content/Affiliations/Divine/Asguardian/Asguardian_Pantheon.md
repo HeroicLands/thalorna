@@ -366,7 +366,7 @@ is the fruit of their making.
 So runs the telling;
 the skald has sung.
 Rune-priests hear branches
-in the growth of wyrd.
+in the growth of nelth.
 Choices still live
 in lives of the living.
 Some doom might shift
@@ -391,7 +391,7 @@ The central ritual act in Asguardian religion is the _blót_—the shared offeri
 
 The second great ritual act is the _oath_. Where the Aurèldían tradition treats an oath as a private promise, an Asguardian oath is a public binding, spoken before witnesses, ideally before a hof-priest and under the god's attention, and sometimes sealed by a cut or a ring or an exchange of weapons. Oaths bind both parties and the gods who witness them. Breaking an oath is the single gravest offense in Asguardian religious ethics—graver than murder, graver than theft—because it corrodes the currency by which the entire society maintains its trust. A broken oath must be answered, either in restitution or in blood, and an oath-breaker unwilling to face the answer is regarded as already on the road to Náhild's gate.
 
-The third is the _rune-casting_—the reading of the carved rune-staves to discern the currents of fate. This is properly the province of the Ódvar clergy, but the practice is widespread across the pantheon in diluted forms, and many households keep a set of domestic runes for small decisions. The theological underpinning is that fate (_wyrd_) is real, is layered, and is partially knowable; the runes do not predict the future but describe the shape of the currents in which a given choice will be made.
+The third is the _rune-casting_—the reading of the carved rune-staves to discern the currents of fate. This is properly the province of the Ódvar clergy, but the practice is widespread across the pantheon in diluted forms, and many households keep a set of domestic runes for small decisions. The theological underpinning is that fate (_nelth_) is real, is layered, and is partially knowable; the runes do not predict the future but describe the shape of the currents in which a given choice will be made.
 
 ## Ceremonies and the Asguardian Year
 
@@ -413,7 +413,7 @@ The defining eschatological claim of the Asguardian faith is that the present ag
 
 In the standard telling, the defending gods and the [[lore-valdrengir|Valdrengir]] will muster on the plain of [[place-vigvoll|Vígvöll]]. Ódvar will fall to the wolf, and the wolf will fall to his son. Thrúnvald will strike [[lore-heimsormr|Heimsormr]] the World-Wyrm and take nine steps and die of its venom. Eidgar will meet his long-chained adversary, the hound [[lore-dulmvargr|Dulmvargr]], and both will be destroyed together. Fródvin will fight Svartbrandr himself and be cut down, and Svartbrandr will then burn the world and everything in it, and the tree itself will fall. Out of the ashes a remnant will rise and a remade world will be kindled from the coals, but the pantheon that now stands will not stand to see it—what stands in the new age will be their heirs, the [[lore-tvelgaett|Tvelgaett]], not themselves.
 
-This is not held to be certain in every detail. The rune-priests speak of _branchings_ in the great wyrd, of choices not yet made, of the possibility—however slim—that some part of the outcome may be shifted by the conduct of those alive in the final age. But the general shape is fixed. The gods know they will die; the [[lore-valdrengir|Valdrengir]] are being trained for a war they will lose; the honorable dead are being gathered for a battle that will end in fire. The theological response is not despair but defiance: to fight well in a losing cause is, in the Asguardian understanding, the highest form of virtue. It is what makes the gods worthy of worship, and it is what makes a mortal worthy of the gods' hall.
+This is not held to be certain in every detail. The rune-priests speak of _branchings_ in the great nelth, of choices not yet made, of the possibility—however slim—that some part of the outcome may be shifted by the conduct of those alive in the final age. But the general shape is fixed. The gods know they will die; the [[lore-valdrengir|Valdrengir]] are being trained for a war they will lose; the honorable dead are being gathered for a battle that will end in fire. The theological response is not despair but defiance: to fight well in a losing cause is, in the Asguardian understanding, the highest form of virtue. It is what makes the gods worthy of worship, and it is what makes a mortal worthy of the gods' hall.
 
 The expected end gives the faith its moral weight. A people who expect the world to end are not cynical; they are grave. The feast is sweeter for being temporary; the oath is heavier for being sworn under the shadow of the last fire; the hero is admired for going out to meet a fate he cannot escape. The wickedness of Náhild, the corruption of Svartbrandr's extreme adherents, and the slow rot of broken oaths are understood as sins and as accelerations—things that hasten the coming of Aldarlok, things that cut away at the time the defending gods still have.
 

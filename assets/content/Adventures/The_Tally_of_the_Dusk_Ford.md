@@ -18,7 +18,7 @@ data:
 
 ## The Toll You Will Not Miss
 
-A ford behind the Cilfor shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named Wárlan Gáranth has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
+A ford behind the Líserë shore stands for the length of a dusk, and its keeper asks what a traveler will give that he will not miss until he is across. On the far bank lie the ships of crews who gave their names, a house of forfeits, and a hoard of raiders' silver. A man named Wárlan Gáranth has found out that forfeits can be sold. The party can bring something out, give something up, or be asked the toll twice.
 
 ### Hook
 
@@ -150,7 +150,7 @@ A beacon-keeper of the shore asked the thing of the reeds to hold the raiders ba
 ### See Also
 
 - [[place-dskfrd|The Dusk Ford]]
-- [[place-cilfor|Cilfor]]
+- [[place-lisere|Líserë]]
 - [[lore-theasking|The Asking]]
 - [[affiliation-bardicolgs|The Bardic Colleges]] · [[affiliation-groveconcl|The Grove Council]]
 - [[lore-vylrncrncy|Vylarian Currency]]

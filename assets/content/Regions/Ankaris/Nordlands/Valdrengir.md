@@ -268,7 +268,7 @@ raised high against burning?
 What bargain of honor
 is binding on ash?
 Rune-priests hear branches
-in the growth of wyrd.
+in the growth of nelth.
 Choices still live
 in the last age's shadow.
 No price is promised

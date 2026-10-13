@@ -86,10 +86,10 @@ test("a name element naming a word it does not begin is an error", () => {
 test("a name in scope missing from the register is an error", () => {
     const broken = lexicon
         .split("\n")
-        .filter((line) => !line.startsWith("| **The At'aan Wyrd**"))
+        .filter((line) => !line.startsWith("| **The Ûron Tékhi**"))
         .join("\n");
     assert.match(
         errors(broken).join("\n"),
-        /"The At'aan Wyrd" is a Áelendi name the register does not register/,
+        /"The Ûron Tékhi" is a Áelendi name the register does not register/,
     );
 });

@@ -431,7 +431,7 @@ The court bards of Élavendre, who call her a simple minstrel because she sings 
 
 ## Plot Hooks
 
-1. **A Hall for Good**—A lord of the Glanmor country has offered Yálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
+1. **A Hall for Good**—A lord of the Lírvë country has offered Yálith a permanent place in his household, on condition that she stops traveling. She has said no twice and he has begun asking why.
 
 2. **The Stolen Lament**—A court bard has performed one of Yálith's laments as his own before the Crown, and it has made his name. The guild will hear a complaint only if she can prove authorship of a song she never wrote down.
 

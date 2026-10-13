@@ -350,6 +350,7 @@ The light words are the most Sinalë of all, and the bards' favorites: _áulira_
 | `náldursa`   | aelendi:`náldursa`   | n an  | darkness; the quality of the dark                                                    | —          | —        |
 | `áulira`     | aelendi:`áulira`     | n an  | light                                                                                | —          | —        |
 | `áuliranë`   | aelendi:`áuliranu`   | n in  | a ray of light                                                                       | —          | —        |
+| `éllivë`     | aelendi:`éllipe`     | adj   | bright                                                                               | —          | —        |
 | `nýevastë`   | aelendi:`nûpasto`    | n in  | a place of starlight; a high clearing where the stars are watched                    | —          | —        |
 | `nýevasa`    | aelendi:`nûpasa`     | adj   | starlit                                                                              | —          | —        |
 | `írvalë`     | aelendi:`írpalo`     | n in  | dawn                                                                                 | —          | —        |
@@ -420,6 +421,11 @@ The kingdom's interior is the Áelendan's mountains, and the lowland words for i
 | `káldrema`     | aelendi:`kâldrema`    | n an  | the wood below the snow line                                      | —          | —        |
 | `thérsolis`    | aelendi:`thêrsolis`   | n an  | an island in a tarn                                               | —          | —        |
 | `órhaima`      | aelendi:`ôrkhaima`    | n an  | an eagle                                                          | —          | —        |
+| `lírvë`        | aelendi:`lírpi`       | n in  | a shore                                                           | —          | —        |
+| `líserë`       | aelendi:`líseri`      | n in  | still water                                                       | —          | —        |
+| `áuldë`        | aelendi:`áuldi`       | n in  | a hill                                                            | —          | —        |
+| `áuldalon`     | aelendi:`áuldalon`    | n in  | the hill country; the whole of the hills                          | —          | —        |
+| `sórvanda`     | aelendi:`sórpanda`    | n an  | a mountain                                                        | —          | —        |
 | `ýemelthathen` | aelendi:`ûmelthathen` | v     | to stand empty; said of a lodge whose kin are gone                | —          | —        |
 
 ### The body and the dead
@@ -677,7 +683,7 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Tribal Lands**                             | [[place-alndntrblnds\|Áelendan Tribal Lands]]                                                                                                      | `translation`   | —          |
 | **The Interior**                             | [[place-alndntrblnds\|Áelendan Tribal Lands]]                                                                                                      | `translation`   | —          |
 | **Aelirossë**                                | [[place-aelirosse\|Aelirossë]]                                                                                                                     | `other:sinale`  | —          |
-| **Ardwyn**                                   | [[place-ardwyn\|Ardwyn]]                                                                                                                           | `elavendri`     | —          |
+| **Sórvanda**                                 | [[place-sorvanda\|Sórvanda]]                                                                                                                       | `elavendri`     | —          |
 | **The Drenavar Spine**                       | [[place-drenavrspn\|The Drenavar Spine]]                                                                                                           | `translation`   | —          |
 | **The Drenavar**                             | [[place-drenavrspn\|The Drenavar Spine]]                                                                                                           | `translation`   | —          |
 | **Drenavar Mountains**                       | [[place-drenavrspn\|The Drenavar Spine]]                                                                                                           | `translation`   | —          |
@@ -687,26 +693,26 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **Ethalossë**                                | [[place-ethalosse\|Ethalossë]]                                                                                                                     | `other:sinale`  | —          |
 | **Sóurimael**                                | [[place-sourimael\|Sóurimael]]                                                                                                                     | `elavendri`     | —          |
 | **The Silver Forests**                       | [[place-silvrfrsts\|The Silver Forests]]                                                                                                           | `translation`   | —          |
-| **The At'aan Wyrd**                          | [[place-ataanwyrd\|The At'aan Wyrd]], [[lore-ataanspr\|The At'aan Wyrd]]                                                                           | `translation`   | —          |
-| **The Wyrd**                                 | [[place-ataanwyrd\|The At'aan Wyrd]]                                                                                                               | `translation`   | —          |
+| **The Ûron Tékhi**                           | [[place-urontekhi\|The Ûron Tékhi]], [[lore-uronspr\|The Ûron Tékhi]]                                                                              | `translation`   | —          |
+| **The Tékhi**                                | [[place-urontekhi\|The Ûron Tékhi]]                                                                                                                | `translation`   | —          |
 | **The Long Stair**                           | [[place-longstair\|The Long Stair]]                                                                                                                | `translation`   | —          |
-| **Aranwy's Stair**                           | [[place-longstair\|The Long Stair]]                                                                                                                | `translation`   | —          |
+| **Sálenda's Stair**                          | [[place-longstair\|The Long Stair]]                                                                                                                | `translation`   | —          |
 | **The Owl Hollow**                           | [[place-owlhollow\|The Owl Hollow]]                                                                                                                | `translation`   | —          |
-| **Nyfain's Hollow**                          | [[place-owlhollow\|The Owl Hollow]]                                                                                                                | `translation`   | —          |
+| **Óssenda's Hollow**                         | [[place-owlhollow\|The Owl Hollow]]                                                                                                                | `translation`   | —          |
 | **The Bardic Colleges**                      | [[affiliation-bardicolgs\|The Bardic Colleges]]                                                                                                    | `translation`   | —          |
 | **The Bardic Circle**                        | [[affiliation-bardicolgs\|The Bardic Colleges]]                                                                                                    | `translation`   | —          |
-| **Brynavar**                                 | [[place-brynavar\|Brynavar]]                                                                                                                       | `elavendri`     | —          |
-| **Ceridwen's Hollow**                        | [[place-cerdwnshlw\|Ceridwen's Hollow]]                                                                                                            | `translation`   | —          |
+| **Áuldalon**                                 | [[place-auldalon\|Áuldalon]]                                                                                                                       | `elavendri`     | —          |
+| **Kélpasi**                                  | [[place-kelpasi\|Kélpasi]]                                                                                                                         | `other:aelendi` | —          |
 | **Valdûn**                                   | [[place-valdun\|Valdûn]]                                                                                                                           | `elavendri`     | —          |
-| **Cilfor**                                   | [[place-cilfor\|Cilfor]]                                                                                                                           | `elavendri`     | —          |
-| **Cilfor Bay**                               | [[place-cilforbay\|Cilfor Bay]]                                                                                                                    | `translation`   | —          |
+| **Líserë**                                   | [[place-lisere\|Líserë]]                                                                                                                           | `elavendri`     | —          |
+| **Líserë Bay**                               | [[place-liserebay\|Líserë Bay]]                                                                                                                    | `translation`   | —          |
 | **Élavendre**                                | [[place-elavendre\|Élavendre]]                                                                                                                     | `elavendri`     | —          |
 | **Élavendre Region**                         | [[place-elavendre\|Élavendre]]                                                                                                                     | `translation`   | —          |
 | **Élavendren People**                        | [[lore-elavendrnppl\|Élavendren People]]                                                                                                           | `translation`   | —          |
 | **Élavendren**                               | [[lore-elavendrnppl\|Élavendren People]]                                                                                                           | `elavendri`     | —          |
 | **The Fae Courts**                           | [[lore-faecourts\|The Fae Courts]]                                                                                                                 | `translation`   | —          |
 | **Cárdeth**                                  | [[place-cardeth\|Cárdeth]]                                                                                                                         | `elavendri`     | —          |
-| **Glanmor**                                  | [[place-glanmor\|Glanmor]]                                                                                                                         | `elavendri`     | —          |
+| **Lírvë**                                    | [[place-lirve\|Lírvë]]                                                                                                                             | `elavendri`     | —          |
 | **Héligstrom**                               | [[place-heligstrom\|Héligstrom]]                                                                                                                   | `elavendri`     | —          |
 | **Liranel**                                  | [[place-liranel\|Liranel]]                                                                                                                         | `elavendri`     | —          |
 | **Port Aelion**                              | [[place-portaelion\|Port Aelion]]                                                                                                                  | `translation`   | —          |
@@ -772,38 +778,38 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **The Tribute of Élavendre**                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
 | **The Treaty of Valdûn**                     | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `translation`   | —          |
 | **Réidhanë**                                 | [[lore-elvtribute\|The Tribute of Élavendre]]                                                                                                      | `elavendri`     | —          |
-| **The Ardwyn Closing**                       | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `translation`   | —          |
-| **The King's Cut**                           | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `translation`   | —          |
-| **Hóuradhel**                                | [[lore-ardwynclose\|The Ardwyn Closing]], [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                      | `elavendri`     | —          |
-| **Kírethel**                                 | [[lore-ardwynclose\|The Ardwyn Closing]]                                                                                                           | `elavendri`     | —          |
+| **The Sórvanda Closing**                     | [[lore-sorvandaclose\|The Sórvanda Closing]]                                                                                                       | `translation`   | —          |
+| **The King's Cut**                           | [[lore-sorvandaclose\|The Sórvanda Closing]]                                                                                                       | `translation`   | —          |
+| **Kírethel**                                 | [[lore-sorvandaclose\|The Sórvanda Closing]]                                                                                                       | `elavendri`     | —          |
+| **Hóuradhel**                                | [[lore-sorvandaclose\|The Sórvanda Closing]], [[lore-roadsendlmnt\|The Lament at the Road's End]]                                                  | `elavendri`     | —          |
 | **Thélmoren**                                | [[place-elavendre\|Élavendre]]                                                                                                                     | `elavendri`     | —          |
 | **Nélgan**                                   | [[place-nelgan\|Nélgan]]                                                                                                                           | `other:aelendi` | —          |
 | **The Snow-Gate**                            | [[place-nelgan\|Nélgan]]                                                                                                                           | `translation`   | —          |
 | **Béravel**                                  | [[place-beravel\|Béravel]]                                                                                                                         | `elavendri`     | —          |
 | **The Bérav**                                | [[place-beravriver\|The Bérav]]                                                                                                                    | `translation`   | —          |
-| **Tirwen**                                   | [[place-tirwen\|Tirwen]]                                                                                                                           | `elavendri`     | —          |
+| **Éllivë**                                   | [[place-ellive\|Éllivë]]                                                                                                                           | `elavendri`     | —          |
 | **Élavendri Language**                       | [[skill-elvndrlng\|Élavendri Language]]                                                                                                            | `translation`   | —          |
 | **Apprentice**                               | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Aranwy of the Long Stair**                 | [[lore-aranwyspr\|Aranwy of the Long Stair]]                                                                                                       | `translation`   | —          |
-| **Arthgen, the Bear of the High Corries**    | [[lore-arthgenspr\|Arthgen, the Bear of the High Corries]]                                                                                         | `translation`   | —          |
-| **Awelon, the West Wind**                    | [[lore-awelonspr\|Awelon, the West Wind]]                                                                                                          | `translation`   | —          |
+| **Sálenda of the Long Stair**                | [[lore-salendaspr\|Sálenda of the Long Stair]]                                                                                                     | `translation`   | —          |
+| **Úrnel, the Bear of the High Corries**      | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]                                                                                             | `translation`   | —          |
+| **Gílpand, the West Wind**                   | [[lore-gilpandspr\|Gílpand, the West Wind]]                                                                                                        | `translation`   | —          |
 | **Beast-Speaker**                            | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Cadwyr, the Grey Wolf of the Ridge**       | [[lore-cadwyrspr\|Cadwyr, the Grey Wolf of the Ridge]]                                                                                             | `translation`   | —          |
+| **Pórsand, the Grey Wolf of the Ridge**      | [[lore-porsandspr\|Pórsand, the Grey Wolf of the Ridge]]                                                                                           | `translation`   | —          |
 | **Death-Speaker**                            | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Elder Shaman**                             | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Exiled**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Fire-Tender**                              | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Gwalchen, the Hawk of the Spine**          | [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]                                                                                              | `translation`   | —          |
+| **Tîpel, the Hawk of the Spine**             | [[lore-tipelspr\|Tîpel, the Hawk of the Spine]]                                                                                                    | `translation`   | —          |
 | **Marked**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Nyfain, the White Owl of the Hollow**      | [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]                                                                                            | `translation`   | —          |
-| **Rhysgen, the Red Fox of the Lower Wood**   | [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]]                                                                                        | `translation`   | —          |
+| **Óssenda, the White Owl of the Hollow**     | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]]                                                                                          | `translation`   | —          |
+| **Kíltas, the Red Fox of the Lower Wood**    | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]]                                                                                          | `translation`   | —          |
 | **Shaman**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Song-Keeper**                              | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
-| **Tanwen**                                   | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]                                                                                                | `other:aelendi` | —          |
-| **Tanwen, the Hearth of Eshálosha**          | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]                                                                                                | `translation`   | —          |
+| **T'éna**                                    | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `other:aelendi` | —          |
+| **T'éna, the Hearth of Eshálosha**           | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `translation`   | —          |
 | **The First Gods**                           | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **The First Gods (the Bright and the Dark)** | [[lore-thfrstgdsthdty\|The First Gods (the Bright and the Dark)]]                                                                                  | `translation`   | —          |
-| **The Hearth**                               | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]                                                                                                | `translation`   | —          |
+| **The Hearth**                               | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]                                                                                                   | `translation`   | —          |
 | **The Old Gods**                             | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Untaught**                                 | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
 | **Warder**                                   | [[affiliation-firstgods\|The First Gods]]                                                                                                          | `translation`   | —          |
@@ -881,5 +887,10 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 
 A retired name is one the setting does not write. Each stands below with the name written in its place, and no page writes it.
 
-| Retired | Written instead | Why |
-| ------- | --------------- | --- |
+| Retired    | Written instead | Why                                  |
+| ---------- | --------------- | ------------------------------------ |
+| `Tirwen`   | `Éllivë`        | a name borrowed from an Earth tongue |
+| `Glanmor`  | `Lírvë`         | a name borrowed from an Earth tongue |
+| `Brynavar` | `Áuldalon`      | a name borrowed from an Earth tongue |
+| `Cilfor`   | `Líserë`        | a name borrowed from an Earth tongue |
+| `Ardwyn`   | `Sórvanda`      | a name borrowed from an Earth tongue |

@@ -65,7 +65,7 @@ The result is that Élavendre's relationship with the Sinalë has two layers. Th
 
 - [[place-ethalosse|Ethalossë]], about seventy Sinalë on the eastern edge of the Áelendan tribal lands, is placed for access. It is where the Sinalë conduct business with the world, and the one enclave a human has a realistic hope of being invited to. It is spare: a court of worked stone older than the forest around it, one of the rare stone works of a people who prefer to grow what they build, a few dwellings, and a long open way down which visitors are watched for a considerable time before they arrive.
 - [[place-aelirosse|Aelirossë]], about a hundred and twenty Sinalë in the Silver Forests, is the closest to the Áelendan of any Sinalëan community in the world. Its dwellings are worked into living silver birch, and its Áelendan neighbors come and go without ceremony.
-- [[place-serenthale|Serenthalë]], about ninety Sinalë facing the western sea in Glanmor, is the oldest of the three and by far the most withdrawn. It keeps to itself even from the Áelendan. Contact is real, respectful and rare, and it happens at the enclave's initiative and nobody else's. No Áelendan guides anyone to it.
+- [[place-serenthale|Serenthalë]], about ninety Sinalë facing the western sea in Lírvë, is the oldest of the three and by far the most withdrawn. It keeps to itself even from the Áelendan. Contact is real, respectful and rare, and it happens at the enclave's initiative and nobody else's. No Áelendan guides anyone to it.
 
 The Áelendan Wardens patrol the approaches and turn the Ordo back at the tree line. The Áelendan regard the Ordo as intruders who study what the tribes exist to keep.
 

@@ -232,7 +232,7 @@ Reading the river
 is never commanding it.
 Let not knowing
 take hold of your wrists.
-Branchings of wyrd
+Branchings of nelth
 bear choices unmade.
 No voice can promise
 what virtue will purchase.

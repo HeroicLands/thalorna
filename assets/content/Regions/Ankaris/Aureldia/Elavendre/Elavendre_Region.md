@@ -68,7 +68,7 @@ simply have their way.
 
 **The Ordo wants a great deal from Élavendre**, and makes no secret of it. There is nowhere else in the
 known world where the veil is this thin over this much ground: arálwain by the score, seated spirits,
-living fae sites, a documented relationship with the [[lore-flksinale|Sinalë]], and arcane materials—the gemstone of [[place-ardwyn|Ardwyn]] above all—in quantities that exist nowhere the Ordo can
+living fae sites, a documented relationship with the [[lore-flksinale|Sinalë]], and arcane materials—the gemstone of [[place-sorvanda|Sórvanda]] above all—in quantities that exist nowhere the Ordo can
 reach. Everything the Ordo most wishes to study is here, and most of it is behind a line it is not
 allowed to cross.
 
@@ -138,7 +138,7 @@ Why the Sinalë have opened themselves to the Áelendan is a question that has p
 
 Élavendre has close cultural ties with [[place-provenzrgn|Provènzia Region]] to the east, sharing the Pelwar heritage and a love of the arts. Its relationship with [[affiliation-vylarinmpr|Vylarian Empire]] is more complicated—while never fully conquered by the Vylarian Empire, Élavendre was long a vassal state ([[lore-elvtribute|The Tribute of Élavendre]]) and retains some Vylarian cultural influence. The island of [[place-aelwyth|Aelwyth]] lies to the **north-west**, some two hundred and thirty sea-miles off the Élavendren coast—almost due west of [[place-vrystwald|Vrystwald]] and south-west of the [[place-nrdlndsrgn|Nordlands]]—and the two have deep historical and cultural connections. [[affiliation-kingdmdnvr|Dúnavarre]] occupies the island's south-eastern shore, the side that faces Élavendre, and relations are **very cordial**: the mage **Synod** that governs Dúnavarre has kept close relations with the Élavendren royal house for generations—a striking thing in a kingdom that permits the Ordo only on a short leash.
 
-Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving. King **Thélmoren** swore, when [[lore-southrnfleets|the Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-cilforbay|Cilfor Bay]] lie the Varokh tribes of [[place-vrystwald|Vrystwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of [[place-grkrhlmrgn|Grukarholm]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
+Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendre's general diplomacy, and a long-standing one. **Nordmen** raiders have struck the northern coast for centuries, and the kingdom's memory of them is unforgiving. King **Thélmoren** swore, when [[lore-southrnfleets|the Southern Fleets]] burned the north shore, that the crown would make no treaty with the Nordmen, and there has been no treaty, no embassy and no appetite for either since. To the north across [[place-liserebay|Líserë Bay]] lie the Varokh tribes of [[place-vrystwald|Vrystwald]] and the [[lore-grukarfolk|Grukar]] bands ranging out of [[place-grkrhlmrgn|Grukarholm]], whose raiding on the northern shore and the eastern hills is a fact of every generation rather than a crisis of any one of them.
 
 ## Regions
 
@@ -146,14 +146,14 @@ Relations with the [[place-nrdlndsrgn|Nordlands]] are the exception to Élavendr
 
 | Region                       | People  | What it is                                                                                       |
 | ---------------------------- | ------- | ------------------------------------------------------------------------------------------------ |
-| [[place-tirwen\|Tirwen]]     | 900,000 | the heartland basin of the Bérav—the capital, the University, and where everything is made       |
-| [[place-glanmor\|Glanmor]]   | 420,000 | the western seaboard: cliffs, Sinalë forest, and the thickest fae country outside the mountains  |
-| [[place-brynavar\|Brynavar]] | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
-| [[place-cilfor\|Cilfor]]     | 260,000 | the northern coast on Cilfor Bay, thirty miles from Vrystwald across the water                   |
-| [[place-ardwyn\|Ardwyn]]     | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
+| [[place-ellive\|Éllivë]]     | 900,000 | the heartland basin of the Bérav—the capital, the University, and where everything is made       |
+| [[place-lirve\|Lírvë]]       | 420,000 | the western seaboard: cliffs, Sinalë forest, and the thickest fae country outside the mountains  |
+| [[place-auldalon\|Áuldalon]] | 240,000 | the eastern hills—wool, iron and the land march that takes the raiding                           |
+| [[place-lisere\|Líserë]]     | 260,000 | the northern coast on Líserë Bay, thirty miles from Vrystwald across the water                   |
+| [[place-sorvanda\|Sórvanda]] | 180,000 | the eastern and southern mountains—Áelendan country, and mineral wealth the kingdom may not take |
 
 The kingdom's economy runs inward and then out again: raw material from the four margins, worked in
-Tirwen, exported through Béravel and the coastal ports.
+Éllivë, exported through Béravel and the coastal ports.
 
 ## Notable Features
 

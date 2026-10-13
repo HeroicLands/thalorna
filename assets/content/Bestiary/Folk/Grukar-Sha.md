@@ -272,7 +272,7 @@ A Sha is lean to gauntness, with narrow shoulders, long limbs and long, dextrous
 
 ## In the Land
 
-Every Grukar tribe keeps its Sha, in [[place-grkrhlmrgn|Grukarhölm]], the eastern [[place-vrystwald|Vrystwald]] and the empty interior of [[place-aelwyth|Aelwyth]], and the Sha go farther from the nest than any other Grukar. They spend seasons watching human roads, walls and rivalries from the forest edge, and the Varokh villages of [[place-skathwald|Skathwald]], the steadings of [[place-brynavar|Brynavar]] and the frontier forts of [[place-targud|Targud]] all have stories of a thin gray figure seen at dusk watching a gate. What a Sha learns it carries home, because it is the only Grukar that can carry an idea home at all. A Sha clutch takes eighteen weeks to hatch, the longest of any, and a tribe that loses a Sha feels it for a season and more.
+Every Grukar tribe keeps its Sha, in [[place-grkrhlmrgn|Grukarhölm]], the eastern [[place-vrystwald|Vrystwald]] and the empty interior of [[place-aelwyth|Aelwyth]], and the Sha go farther from the nest than any other Grukar. They spend seasons watching human roads, walls and rivalries from the forest edge, and the Varokh villages of [[place-skathwald|Skathwald]], the steadings of [[place-auldalon|Áuldalon]] and the frontier forts of [[place-targud|Targud]] all have stories of a thin gray figure seen at dusk watching a gate. What a Sha learns it carries home, because it is the only Grukar that can carry an idea home at all. A Sha clutch takes eighteen weeks to hatch, the longest of any, and a tribe that loses a Sha feels it for a season and more.
 
 ## Key Behaviors
 

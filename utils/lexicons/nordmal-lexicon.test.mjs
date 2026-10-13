@@ -120,7 +120,7 @@ test("the vocabulary check refuses a foreign letter, a bad opening, a bare stem 
         "",
         "| word | sense |",
         "| ---- | ----- |",
-        "| `wyrd` | fate |",
+        "| `xarn` | fate |",
         "| `zvork` | nothing |",
         "| `hlarth` | a slope |",
         "| `thongar` | nothing |",
@@ -128,7 +128,7 @@ test("the vocabulary check refuses a foreign letter, a bad opening, a bare stem 
         "",
     ].join("\n");
     const found = checkVocabulary(text, rule);
-    for (const word of ["wyrd", "zvork", "hlarth", "thongar"])
+    for (const word of ["xarn", "zvork", "hlarth", "thongar"])
         assert(
             found.some((line) => line.includes(`"${word}"`)),
             `"${word}" is reported`,

@@ -62,30 +62,30 @@ data:
   lore:
     - thfrstgdsthdty
     - thekindred
-    - aranwyspr
-    - awelonspr
-    - ataanspr
-    - cadwyrspr
-    - nyfainspr
-    - rhysgenspr
-    - gwalchenspr
-    - arthgenspr
-    - tanwenspr
+    - salendaspr
+    - gilpandspr
+    - uronspr
+    - porsandspr
+    - ossendaspr
+    - kiltasspr
+    - tipelspr
+    - urnelspr
+    - tenaspr
   parents: [firstgods]
   relations: {firstgods: aligned}
   packFolder: pantheonsfirstgods
 sohl:
   system:
     commonSkills:
-      - aranwysprt
-      - awelonsprt
-      - ataansprt
-      - cadwyrsprt
-      - nyfainsprt
-      - rhysgensprt
-      - gwalchensprt
-      - arthgensprt
-      - tanwensprt
+      - salendasprt
+      - gilpandsprt
+      - uronsprt
+      - porsandsprt
+      - ossendasprt
+      - kiltassprt
+      - tipelsprt
+      - urnelsprt
+      - tenasprt
 ---
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]

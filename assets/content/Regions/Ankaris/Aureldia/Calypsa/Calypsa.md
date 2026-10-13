@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [nordmalng, valtarlng]}}
 
 ## Overview
 
-Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some seventy-five miles north of the mainland, just outside the mouth of [[place-cilforbay|Cilfor Bay]] and roughly fifteen miles across at its widest—barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbor is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
+Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some seventy-five miles north of the mainland, just outside the mouth of [[place-liserebay|Líserë Bay]] and roughly fifteen miles across at its widest—barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbor is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
 
 The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Ordo]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
 
@@ -109,7 +109,7 @@ raiding Calypsa, or the sea-lanes Calypsa's trade uses, cost more than it return
 Against the **Nordmen** and the raiders of the northern lands this has worked for a very long time. The
 city pays no tribute to any northern kingdom and is emphatic about the difference between not paying
 tribute and not being asked. The wider consequence matters to its neighbors: Calypsa's squadrons sit
-across the approaches to [[place-cilforbay|Cilfor Bay]], and northern [[place-elavendre|Élavendre]]
+across the approaches to [[place-liserebay|Líserë Bay]], and northern [[place-elavendre|Élavendre]]
 enjoys a degree of protection that it neither pays for nor formally acknowledges, and would miss
 immediately.
 

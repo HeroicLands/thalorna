@@ -397,7 +397,7 @@ Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate 
 
 # Dossier {#dossier}
 
-Táldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Ardwyn mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
+Táldor Kálmereth is a fisher of Elanmere, the lake town at the foot of the Sórvanda mountains in [[place-elavendre|Élavendre]], an Élavendri freeman who has worked the lake from his own boat for thirty years and keeps its observances.
 
 Táldor learned the lake from his father and works it alone from the small boat that was his: where the fish lie in each month, how the wind comes down off the snowfields, and where a net is put down and where it is not. The lake is deep, cold and clear, and the boatmen hold it to be inhabited; Táldor keeps the observances his father kept without ever having said why, and he has seen enough in thirty years on the water to go on keeping them. He sells his catch at the Elanmere market and, in autumn, to the Béravel factors who come up for the fair, and he gives away more than he sells. A family with a sick father or a dead one eats Kálmereth fish through the winter and is not asked for thanks.
 

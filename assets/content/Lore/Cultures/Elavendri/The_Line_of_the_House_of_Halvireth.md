@@ -11,7 +11,7 @@ data:
   form: sirnerne
   subjects:
     - affiliation-bardicolgs
-    - lore-ardwynclose
+    - lore-sorvandaclose
     - lore-aelendnppl
     - place-elanmere
     - lore-theasking
@@ -24,7 +24,7 @@ data:
 
 The recital is in two forms. The bard's frame, which opens and closes it, is in rhymed couplets to the harp. The line itself is not composed and is not rhymed: it is said, each head in a set form, each line closing on the name that opens the next, exactly as the [[affiliation-bardicolgs|Colleges]] proved it, and a bard who changes a word of a proof has changed the proof. Each head is given one deed, the deed the house has chosen to keep, and the dead for whom trees stand are named with their trees. A debt of honor the line has never paid is sung at every feast until it is paid, and this line carries one, to a house whose line has ended.
 
-The line was proved before the Colleges by **Árnolen** in the year the mountains closed ([[lore-ardwynclose|The Ardwyn Closing]]), when every house set the Colleges to prove its descent, and the proof joins the house to the [[lore-aelendnppl|Áelendan]] through **Sírtala**, a woman of the Dhárgandi who came down to the basin and married a river trader. Above her the names are in the high tongue, and the house sings no further up the Dhárgandi line than three names, and hands the rest to the Tradition Keepers, whose it is. The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of **Rônken** who went down to the basin. The house has sung her at the fair every autumn since **Vélthar** went up and sang the line there, and nobody at the fair has stood up.
+The line was proved before the Colleges by **Árnolen** in the year the mountains closed ([[lore-sorvandaclose|The Sórvanda Closing]]), when every house set the Colleges to prove its descent, and the proof joins the house to the [[lore-aelendnppl|Áelendan]] through **Sírtala**, a woman of the Dhárgandi who came down to the basin and married a river trader. Above her the names are in the high tongue, and the house sings no further up the Dhárgandi line than three names, and hands the rest to the Tradition Keepers, whose it is. The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of **Rônken** who went down to the basin. The house has sung her at the fair every autumn since **Vélthar** went up and sang the line there, and nobody at the fair has stood up.
 
 : The Line of the House of Hálvireth {#line}
 
@@ -109,7 +109,7 @@ The house sings the heads of its line by their sun names. The highland names abo
 | **Vélthar**   | Who first sang the line at the Elanmere fair                                                     |
 | **Sárhel**    | Who rebuilt the harp-hall in stone                                                               |
 | **Nérrin**    | A harper of the Circle                                                                           |
-| **Árnolen**   | Who had the line proved in the year of the Ardwyn Closing                                        |
+| **Árnolen**   | Who had the line proved in the year of the Sórvanda Closing                                      |
 | **Lóthel**    | Fostered in the house of Oréthan, and owing it a fosterling                                      |
 | **Méreval**   | A river trader, husband of Sírtala                                                               |
 | **Sírtala**   | A woman of the Dhárgandi who came down to the basin, through whom the house claims the old blood |
@@ -118,6 +118,6 @@ The house sings the heads of its line by their sun names. The highland names abo
 
 ## See Also
 
-- [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-ardwynclose|The Ardwyn Closing]] · [[lore-elavendriclt|Élavendri]]
+- [[affiliation-bardicolgs|The Bardic Colleges]] · [[lore-sorvandaclose|The Sórvanda Closing]] · [[lore-elavendriclt|Élavendri]]
 - [[lore-aelendnppl|The Áelendan]] · [[lore-theasking|The Asking]] · [[place-elanmere|Elanmere]]
-- [[lore-tanwenspr|Tanwen, the Hearth of Eshálosha]] · [[lore-firstcrown|The First Crowning of Élavendre]]
+- [[lore-tenaspr|T'éna, the Hearth of Eshálosha]] · [[lore-firstcrown|The First Crowning of Élavendre]]

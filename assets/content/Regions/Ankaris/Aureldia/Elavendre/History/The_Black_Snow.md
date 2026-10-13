@@ -15,7 +15,7 @@ data:
       sources:
         - lore-theasking
         - lore-aelendnppl
-        - lore-tanwenspr
+        - lore-tenaspr
         - affiliation-alndnwrdns
         - place-silvrfrsts
         - place-eshalshldg
@@ -39,7 +39,7 @@ data:
             knowledge: named
       who:
         - {ref: lore-aelendnppl, role: actor}
-        - {ref: lore-tanwenspr, role: witness}
+        - {ref: lore-tenaspr, role: witness}
         - {ref: lore-flksinale, role: witness}
       follows:
         - event: lore-lowestpoolpct
@@ -76,7 +76,7 @@ The right song was in the lore, and it was held whole by the chief's sister, **M
 
 ## Kinless
 
-The hall did not wait for the Sinalë. It met at the hearth of [[lore-tanwenspr|Tanwen]] and made Ghálmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Sinalë did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Sinalë say, and they keep what it was.
+The hall did not wait for the Sinalë. It met at the hearth of [[lore-tenaspr|T'éna]] and made Ghálmir Kinless: no hearth, no shade, no water, no name and no friend. He walked into the wood alone. The Sinalë did not turn the paths against him; they turned of themselves. What he met in there he had earned, the Sinalë say, and they keep what it was.
 
 ## The Return
 

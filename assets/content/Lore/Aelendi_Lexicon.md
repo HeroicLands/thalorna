@@ -368,23 +368,26 @@ The Áelendan live where the snow lies half the year, and the snow word is one t
 
 Stone is cut for two purposes, to raise as a boundary and to cover the dead. _Dôrkima_ is a pillar, _âlthokis_ a dressed block, and _grûmalon_ the cut in a hillside where the stones for a ring were taken, which is left open and never quarried again.
 
-| Form          | Source          | Class | Gloss                                                             | Built from | Attested |
-| ------------- | --------------- | ----- | ----------------------------------------------------------------- | ---------- | -------- |
-| `nélamis`     | `*nelâmis`      | n f   | snow                                                              | —          | —        |
-| `nélamesa`    | `*nelâmezâ`     | n f   | winter; the snow-time                                             | —          | —        |
-| `nêralis`     | `*nêbrâlis`     | n f   | a valley; a clan's ground between two ridges                      | —          | —        |
-| `thôlmara`    | `*thôlmârâ`     | n f   | a tarn; a lake held in a corrie                                   | —          | —        |
-| `îlaras`      | `*wîlarâs`      | n n   | a torrent; a river in spate off the snowfields                    | —          | —        |
-| `ûlmera`      | `*ûlmêrâ`       | n f   | water                                                             | —          | —        |
-| `dhûmeson`    | `*dhûmbezon`    | n n   | a rock basin; a spring caught in cut stone                        | —          | —        |
-| `khâlmesar`   | `*khâlmezar`    | n n   | white stone; the pale marble of the Spine                         | —          | —        |
-| `grûmalon`    | `*grûmbâlon`    | n n   | a stone cut; the place a ring's stones were taken from, left open | —          | —        |
-| `âlthokis`    | `*pâlthôkis`    | n f   | a dressed stone                                                   | —          | —        |
-| `dôrkima`     | `*dôrkimâ`      | n f   | a pillar of stone                                                 | —          | —        |
-| `kâldrema`    | `*kâldrêmâ`     | n f   | the wood below the snow line                                      | —          | —        |
-| `thêrsolis`   | `*thêrsôlis`    | n f   | an island in a tarn                                               | —          | —        |
-| `ôrkhaima`    | `*ôrkhaimâ`     | n f   | an eagle                                                          | —          | —        |
-| `ûmelthathen` | `*hûmelthâthen` | v     | to stand empty; said of a lodge whose kin are gone                | —          | —        |
+| Form          | Source            | Class | Gloss                                                             | Built from        | Attested |
+| ------------- | ----------------- | ----- | ----------------------------------------------------------------- | ----------------- | -------- |
+| `nélamis`     | `*nelâmis`        | n f   | snow                                                              | —                 | —        |
+| `nélamesa`    | `*nelâmezâ`       | n f   | winter; the snow-time                                             | —                 | —        |
+| `nêralis`     | `*nêbrâlis`       | n f   | a valley; a clan's ground between two ridges                      | —                 | —        |
+| `thôlmara`    | `*thôlmârâ`       | n f   | a tarn; a lake held in a corrie                                   | —                 | —        |
+| `îlaras`      | `*wîlarâs`        | n n   | a torrent; a river in spate off the snowfields                    | —                 | —        |
+| `ûlmera`      | `*ûlmêrâ`         | n f   | water                                                             | —                 | —        |
+| `dhûmeson`    | `*dhûmbezon`      | n n   | a rock basin; a spring caught in cut stone                        | —                 | —        |
+| `khâlmesar`   | `*khâlmezar`      | n n   | white stone; the pale marble of the Spine                         | —                 | —        |
+| `grûmalon`    | `*grûmbâlon`      | n n   | a stone cut; the place a ring's stones were taken from, left open | —                 | —        |
+| `âlthokis`    | `*pâlthôkis`      | n f   | a dressed stone                                                   | —                 | —        |
+| `dôrkima`     | `*dôrkimâ`        | n f   | a pillar of stone                                                 | —                 | —        |
+| `kâldrema`    | `*kâldrêmâ`       | n f   | the wood below the snow line                                      | —                 | —        |
+| `thêrsolis`   | `*thêrsôlis`      | n f   | an island in a tarn                                               | —                 | —        |
+| `ôrkhaima`    | `*ôrkhaimâ`       | n f   | an eagle                                                          | —                 | —        |
+| `áuldi`       | sinale:`auldi`    | n n   | a hill                                                            | —                 | —        |
+| `áuldalon`    | built             | n n   | the hill country; the whole of the hills                          | `áuld-` + `-alon` | —        |
+| `sórpanda`    | sinale:`sorvanda` | n f   | a mountain                                                        | —                 | —        |
+| `ûmelthathen` | `*hûmelthâthen`   | v     | to stand empty; said of a lodge whose kin are gone                | —                 | —        |
 
 ### The body, life and death
 
@@ -421,6 +424,7 @@ The year is counted from the crossing, _sêrthasis_, the word the empire uses fo
 | `náldursa`   | sinale:`naldursa`   | n f   | darkness; the quality of the dark                                                    | —          | —        |
 | `áulira`     | sinale:`aulira`     | n f   | light                                                                                | —          | —        |
 | `áuliranu`   | sinale:`auliranu`   | n n   | a ray of light                                                                       | —          | —        |
+| `éllipe`     | sinale:`ëllyvë`     | adj   | bright                                                                               | —          | —        |
 | `nûpa`       | sinale:`nuuva`      | n f   | starlight                                                                            | —          | —        |
 | `nûpasto`    | sinale:`nuuvasto`   | n n   | a place of starlight; a high clearing where the stars are watched                    | —          | —        |
 | `nûpasa`     | sinale:`nuuvasa`    | adj   | starlit                                                                              | —          | —        |
@@ -449,6 +453,9 @@ Above the tree line the water is inherited and the weather is the mountain's: sn
 | `lánthepilu` | sinale:`lanthevilu` | n n   | a stream                    | —          | —        |
 | `kélpasi`    | sinale:`kelvasi`    | n n   | the cold spring             | —          | —        |
 | `gáinessa`   | sinale:`wainessa`   | n f   | a lake in the wood          | —          | —        |
+| `sálenda`    | sinale:`salenda`    | n f   | a waterfall                 | —          | —        |
+| `líseri`     | sinale:`liseri`     | n n   | still water                 | —          | —        |
+| `lírpi`      | sinale:`lirvy`      | n n   | a shore                     | —          | —        |
 | `sólmeri`    | sinale:`solmeri`    | n n   | the smell of rain coming    | —          | —        |
 | `ílpi`       | sinale:`ilvy`       | n n   | thin ice                    | —          | —        |
 | `nélipe`     | sinale:`nelyvë`     | n n   | the first frost             | —          | —        |
@@ -489,6 +496,12 @@ The grassland people had a word for a wood and not much more, and the Áelendan 
 | `ílsepilu`    | sinale:`ilsevilu`   | n n   | a fawn                                                           | —                 | —        |
 | `pórsarno`    | sinale:`vorsarno`   | n n   | a wolf pack                                                      | —                 | —        |
 | `úrthapen`    | sinale:`urthaven`   | n m   | a wild beast of the wood                                         | —                 | —        |
+| `pórsa`       | sinale:`vorsa`      | n f   | a wolf                                                           | —                 | —        |
+| `úrnel`       | sinale:`urnel`      | n m   | a bear                                                           | —                 | —        |
+| `tîpel`       | sinale:`tihvel`     | n m   | a hawk                                                           | —                 | —        |
+| `óssenda`     | sinale:`ossenda`    | n f   | night                                                            | —                 | —        |
+| `kíltas`      | sinale:`kiltas`     | adj   | quick                                                            | —                 | —        |
+| `tékhi`       | sinale:`tehy`       | n n   | the clearing round a single tree                                 | —                 | —        |
 | `súldinno`    | sinale:`suldinno`   | n n   | a hunter in the wood                                             | —                 | —        |
 | `ílsepand`    | built               | n m   | a deer stalker; one who hunts the deer of the wood for the lodge | `ílsep-` + `-and` | —        |
 | `tírpali`     | sinale:`tirvali`    | n n   | the long road; a path through the deep wood                      | —                 | —        |
@@ -695,61 +708,74 @@ Every name in the scope of the Áelendi tongue—the Áelendan, their spirits an
 
 ### Names
 
-| Name                                       | Notes                                                       | Tongue        | Built from |
-| ------------------------------------------ | ----------------------------------------------------------- | ------------- | ---------- |
-| **Áelendan Wardens**                       | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **The Wardens**                            | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **Guardians of the Pact**                  | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **Warden**                                 | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **Elder Warden**                           | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **Runner**                                 | [[affiliation-alndnwrdns\|Áelendan Wardens]]                | `translation` | —          |
-| **Aranwy of the Long Stair**               | [[lore-aranwyspr\|Aranwy of the Long Stair]]                | `aelendi`     | —          |
-| **Arthgen, the Bear of the High Corries**  | [[lore-arthgenspr\|Arthgen, the Bear of the High Corries]]  | `aelendi`     | —          |
-| **Awelon, the West Wind**                  | [[lore-awelonspr\|Awelon, the West Wind]]                   | `aelendi`     | —          |
-| **Cadwyr, the Grey Wolf of the Ridge**     | [[lore-cadwyrspr\|Cadwyr, the Grey Wolf of the Ridge]]      | `aelendi`     | —          |
-| **Gwalchen, the Hawk of the Spine**        | [[lore-gwalchenspr\|Gwalchen, the Hawk of the Spine]]       | `aelendi`     | —          |
-| **Nyfain, the White Owl of the Hollow**    | [[lore-nyfainspr\|Nyfain, the White Owl of the Hollow]]     | `aelendi`     | —          |
-| **Rhysgen, the Red Fox of the Lower Wood** | [[lore-rhysgenspr\|Rhysgen, the Red Fox of the Lower Wood]] | `aelendi`     | —          |
-| **Tanwen, the Hearth of Eshálosha**        | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | `aelendi`     | —          |
-| **The Hearth**                             | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | `translation` | —          |
-| **Tanwen**                                 | [[lore-tanwenspr\|Tanwen, the Hearth of Eshálosha]]         | `aelendi`     | —          |
-| **The At'aan Wyrd**                        | [[lore-ataanspr\|The At'aan Wyrd]]                          | `aelendi`     | —          |
-| **Áelendan People**                        | [[lore-aelendnppl\|Áelendan People]]                        | `translation` | —          |
-| **People of the Pact**                     | [[lore-aelendnppl\|Áelendan People]]                        | `translation` | —          |
-| **Áelendan Tribal Lands**                  | [[place-alndntrblnds\|Áelendan Tribal Lands]]               | `translation` | —          |
-| **Tribal Lands**                           | [[place-alndntrblnds\|Áelendan Tribal Lands]]               | `translation` | —          |
-| **The Interior**                           | [[place-alndntrblnds\|Áelendan Tribal Lands]]               | `translation` | —          |
-| **The Drenavar Spine**                     | [[place-drenavrspn\|The Drenavar Spine]]                    | `translation` | —          |
-| **The Drenavar**                           | [[place-drenavrspn\|The Drenavar Spine]]                    | `aelendi`     | —          |
-| **Drenavar Mountains**                     | [[place-drenavrspn\|The Drenavar Spine]]                    | `translation` | —          |
-| **Eshálosha Lodge**                        | [[place-eshalshldg\|Eshálosha Lodge]]                       | `translation` | —          |
-| **Eshálosha**                              | [[place-eshalshldg\|Eshálosha Lodge]]                       | `aelendi`     | —          |
-| **The Long Stair**                         | [[place-longstair\|The Long Stair]]                         | `translation` | —          |
-| **Aranwy's Stair**                         | [[place-longstair\|The Long Stair]]                         | `translation` | —          |
-| **The Owl Hollow**                         | [[place-owlhollow\|The Owl Hollow]]                         | `translation` | —          |
-| **Nyfain's Hollow**                        | [[place-owlhollow\|The Owl Hollow]]                         | `translation` | —          |
-| **Áelendi Language**                       | [[skill-aelendlng\|Áelendi Language]]                       | `translation` | —          |
-| **Áelendi**                                | [[skill-aelendlng\|Áelendi Language]]                       | `aelendi`     | —          |
-| **Thúravardh Script**                      | [[skill-thrvrdhscrpt\|Thúravardh Script]]                   | `translation` | —          |
-| **Thúravardh**                             | [[skill-thrvrdhscrpt\|Thúravardh Script]]                   | `aelendi`     | —          |
-| **Dhárgan**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Néla**                                   | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Sîlor**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Ánsel**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Dránketh**                               | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Tála**                                   | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Ghálmir**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Môgha**                                  | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Dûlthân**                                | [[lore-theasking\|The Asking]]                              | `aelendi`     | —          |
-| **Nélgan**                                 | [[lore-theasking\|The Asking]], [[place-nelgan\|Nélgan]]    | `aelendi`     | —          |
-| **Kírtala**                                | [[lore-treelinelay\|The Lay of the Tree Line]]              | `aelendi`     | —          |
-| **Sírtala**                                | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
-| **Rônken**                                 | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
-| **Tháurmira**                              | [[lore-hlvrthline\|The Line of the House of Hálvireth]]     | `aelendi`     | —          |
+| Name                                      | Notes                                                     | Tongue        | Built from |
+| ----------------------------------------- | --------------------------------------------------------- | ------------- | ---------- |
+| **Áelendan Wardens**                      | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **The Wardens**                           | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Guardians of the Pact**                 | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Warden**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Elder Warden**                          | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Runner**                                | [[affiliation-alndnwrdns\|Áelendan Wardens]]              | `translation` | —          |
+| **Sálenda of the Long Stair**             | [[lore-salendaspr\|Sálenda of the Long Stair]]            | `aelendi`     | —          |
+| **Úrnel, the Bear of the High Corries**   | [[lore-urnelspr\|Úrnel, the Bear of the High Corries]]    | `aelendi`     | —          |
+| **Gílpand, the West Wind**                | [[lore-gilpandspr\|Gílpand, the West Wind]]               | `aelendi`     | —          |
+| **Pórsand, the Grey Wolf of the Ridge**   | [[lore-porsandspr\|Pórsand, the Grey Wolf of the Ridge]]  | `aelendi`     | —          |
+| **Tîpel, the Hawk of the Spine**          | [[lore-tipelspr\|Tîpel, the Hawk of the Spine]]           | `aelendi`     | —          |
+| **Óssenda, the White Owl of the Hollow**  | [[lore-ossendaspr\|Óssenda, the White Owl of the Hollow]] | `aelendi`     | —          |
+| **Kíltas, the Red Fox of the Lower Wood** | [[lore-kiltasspr\|Kíltas, the Red Fox of the Lower Wood]] | `aelendi`     | —          |
+| **T'éna, the Hearth of Eshálosha**        | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `aelendi`     | —          |
+| **The Hearth**                            | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `translation` | —          |
+| **T'éna**                                 | [[lore-tenaspr\|T'éna, the Hearth of Eshálosha]]          | `aelendi`     | —          |
+| **The Ûron Tékhi**                        | [[lore-uronspr\|The Ûron Tékhi]]                          | `aelendi`     | —          |
+| **Áelendan People**                       | [[lore-aelendnppl\|Áelendan People]]                      | `translation` | —          |
+| **People of the Pact**                    | [[lore-aelendnppl\|Áelendan People]]                      | `translation` | —          |
+| **Áelendan Tribal Lands**                 | [[place-alndntrblnds\|Áelendan Tribal Lands]]             | `translation` | —          |
+| **Tribal Lands**                          | [[place-alndntrblnds\|Áelendan Tribal Lands]]             | `translation` | —          |
+| **The Interior**                          | [[place-alndntrblnds\|Áelendan Tribal Lands]]             | `translation` | —          |
+| **The Drenavar Spine**                    | [[place-drenavrspn\|The Drenavar Spine]]                  | `translation` | —          |
+| **The Drenavar**                          | [[place-drenavrspn\|The Drenavar Spine]]                  | `aelendi`     | —          |
+| **Drenavar Mountains**                    | [[place-drenavrspn\|The Drenavar Spine]]                  | `translation` | —          |
+| **Eshálosha Lodge**                       | [[place-eshalshldg\|Eshálosha Lodge]]                     | `translation` | —          |
+| **Eshálosha**                             | [[place-eshalshldg\|Eshálosha Lodge]]                     | `aelendi`     | —          |
+| **The Long Stair**                        | [[place-longstair\|The Long Stair]]                       | `translation` | —          |
+| **Sálenda's Stair**                       | [[place-longstair\|The Long Stair]]                       | `translation` | —          |
+| **The Owl Hollow**                        | [[place-owlhollow\|The Owl Hollow]]                       | `translation` | —          |
+| **Óssenda's Hollow**                      | [[place-owlhollow\|The Owl Hollow]]                       | `translation` | —          |
+| **Áelendi Language**                      | [[skill-aelendlng\|Áelendi Language]]                     | `translation` | —          |
+| **Áelendi**                               | [[skill-aelendlng\|Áelendi Language]]                     | `aelendi`     | —          |
+| **Thúravardh Script**                     | [[skill-thrvrdhscrpt\|Thúravardh Script]]                 | `translation` | —          |
+| **Thúravardh**                            | [[skill-thrvrdhscrpt\|Thúravardh Script]]                 | `aelendi`     | —          |
+| **Dhárgan**                               | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Néla**                                  | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Sîlor**                                 | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Ánsel**                                 | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Dránketh**                              | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Tála**                                  | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Ghálmir**                               | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Môgha**                                 | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Dûlthân**                               | [[lore-theasking\|The Asking]]                            | `aelendi`     | —          |
+| **Nélgan**                                | [[lore-theasking\|The Asking]], [[place-nelgan\|Nélgan]]  | `aelendi`     | —          |
+| **Kírtala**                               | [[lore-treelinelay\|The Lay of the Tree Line]]            | `aelendi`     | —          |
+| **Sírtala**                               | [[lore-hlvrthline\|The Line of the House of Hálvireth]]   | `aelendi`     | —          |
+| **Rônken**                                | [[lore-hlvrthline\|The Line of the House of Hálvireth]]   | `aelendi`     | —          |
+| **Tháurmira**                             | [[lore-hlvrthline\|The Line of the House of Hálvireth]]   | `aelendi`     | —          |
 
 ### Retired names
 
 A retired name is one the setting does not write. Each stands below with the name written in its place, and no page writes it.
 
-| Retired | Written instead | Why |
-| ------- | --------------- | --- |
+| Retired             | Written instead | Why                                                |
+| ------------------- | --------------- | -------------------------------------------------- |
+| `Aranwy`            | `Sálenda`       | a name borrowed from an Earth tongue               |
+| `Arthgen`           | `Úrnel`         | a name borrowed from an Earth tongue               |
+| `Awelon`            | `Gílpand`       | a name borrowed from an Earth tongue               |
+| `Cadwyr`            | `Pórsand`       | a name borrowed from an Earth tongue               |
+| `Gwalchen`          | `Tîpel`         | a name borrowed from an Earth tongue               |
+| `Nyfain`            | `Óssenda`       | a name borrowed from an Earth tongue               |
+| `Rhysgen`           | `Kíltas`        | a name borrowed from an Earth tongue               |
+| `Tanwen`            | `T'éna`         | a name borrowed from an Earth tongue               |
+| `At'aan Wyrd`       | `Ûron Tékhi`    | a name borrowed from an Earth tongue               |
+| `At'aan`            | `Ûron`          | a name borrowed from an Earth tongue               |
+| `Wyrd`              | `Tékhi`         | a name borrowed from an Earth tongue               |
+| `wyrd`              | `nelth`         | an Earth word; the Nordmal word is written instead |
+| `Ceridwen's Hollow` | `Kélpasi`       | a name borrowed from an Earth tongue               |

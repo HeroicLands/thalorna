@@ -24,8 +24,8 @@ A Magister of the Ordo forced the paths of the [[place-silvrfrsts|Silver Forests
 
 Pick the entry that suits the hero. Each leads to [[place-rngtrndpths|The Ring of Turned Paths]].
 
-- **The thief.** A Cilfor carter drinks too much in Liranel and talks about a cargo of raw Ardwyn silver he sold to a man with an Ordo seal and no questions. The silver went east into the Silver Forests, and the carter wants a cut of what it became.
-- **The mercenary or common soldier.** A Brynavar sergeant's company was hired by a Béravel Magister, marched into the Silver Forests and not marched out. The sergeant's widow pays a tenth of what the company's pay-chest holds to whoever finds it.
+- **The thief.** A Líserë carter drinks too much in Liranel and talks about a cargo of raw Sórvanda silver he sold to a man with an Ordo seal and no questions. The silver went east into the Silver Forests, and the carter wants a cut of what it became.
+- **The mercenary or common soldier.** A Áuldalon sergeant's company was hired by a Béravel Magister, marched into the Silver Forests and not marched out. The sergeant's widow pays a tenth of what the company's pay-chest holds to whoever finds it.
 - **The leader.** A Sóurimael headwoman has lost a daughter, Aléna Alveryn, who guided lowland strangers into the wood. The Wardens will not escort a search into sacred ground, and the village will pay in honey, hazel and the standing of those who go.
 - **The lone wanderer.** A Warden of the Silver Forests, **Sílken**, grey and tired, finds a stranger at the wood's edge and says the paths have turned him from one hollow three seasons running. He cannot ask a lowlander in. He can fail to notice one walking past.
 
@@ -43,7 +43,7 @@ The Sinalë do nothing. They do not fight, and the paths around the ring now tur
 
 **Situation.** The silver wire runs knee-high from tree to tree, glinting at dusk. A party that follows it keeps its footing as the paths bend away on either side. Along the wire, at intervals, stand marker-cairns of pegs set by someone who counted. The last stretch drops into a hollow ringed by eight pale birch, and in the hollow the Pegged are walking.
 
-**NPCs and threats.** The **Pegged** pace the outer circuit between the pegs: Brynavar sell-swords, a clerk with an ink-stained cuff, a charcoal-burner's cap. They are pale, silent, and walk as men walk who have walked for a season. They do not strike. A stranger in their path is carried along by the press of the circuit, and one who keeps step for a hundred paces cannot stop. Their sergeant, a heavy man named **Bárcel**, walks at the head and still carries a short spear, and if the party stands against the circuit he lowers it as a rail, not a weapon.
+**NPCs and threats.** The **Pegged** pace the outer circuit between the pegs: Áuldalon sell-swords, a clerk with an ink-stained cuff, a charcoal-burner's cap. They are pale, silent, and walk as men walk who have walked for a season. They do not strike. A stranger in their path is carried along by the press of the circuit, and one who keeps step for a hundred paces cannot stop. Their sergeant, a heavy man named **Bárcel**, walks at the head and still carries a short spear, and if the party stands against the circuit he lowers it as a rail, not a weapon.
 
 **Player choices.**
 
@@ -52,7 +52,7 @@ The Sinalë do nothing. They do not fight, and the paths around the ring now tur
 - _Guile:_ a drum, a rope, or a song out of step with the walkers breaks the press. A bard of the Colleges steps out with half a verse.
 - _Parley:_ the clerk's lips move. He cannot speak, but he can write in the dirt with a finger while walking, and what he writes is the count of the pegs and the word _ask_.
 
-**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Sílken's, left on a day he could not enter). A Brynavar sell-sword carries a purse of honest Vylarian silver, a few Argo.
+**Clues and rewards.** Cairns of pegs, the count of the pegs on the circuit (thirty-one), a clerk's scrawl, a Warden's cord tied on a birch (Sílken's, left on a day he could not enter). A Áuldalon sell-sword carries a purse of honest Vylarian silver, a few Argo.
 
 **Consequences.** A character who falls into step must be carried off the circuit by the others, and loses a night. A death at the circuit adds to the tally the working keeps, and the Magister feels it.
 
@@ -146,7 +146,7 @@ The Sinalë do nothing. They do not fight, and the paths around the ring now tur
 
 - **If the party asked and the paths turned,** the ring stays closed to everyone, and the birch keep their starlight. The Wardens treat the party as friends of the wood. The wood keeps its price and does not name it: a face comes to the wood's edge, sits bare-handed, and asks again.
 - **If the party broke the working by force,** the walkers are freed and the Magister is dead. The wood does not reward the breaking, and the Sinalë do not turn a path for the killer afterward.
-- **If the party took the silver,** Cilfor's smuggling trade learns of it and sends buyers. Sóurimael does not forget who left a daughter in the wood.
+- **If the party took the silver,** Líserë's smuggling trade learns of it and sends buyers. Sóurimael does not forget who left a daughter in the wood.
 - **If the party left,** the working holds, a dusk takes another, and a rumor of a lamp walking straight in the Silver Forests spreads as far as Liranel.
 - **The letter** is the lasting trouble. Whoever holds it holds the crown's cordiality toward the Ordo by the throat.
 

@@ -3,7 +3,7 @@ shortcode: elvtribute
 name: {full: The Tribute of Élavendre, aliases: [The Treaty of Valdûn]}
 type: lore
 subType: history
-description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Brynavar and was harried into the forest margin, a cohort was lost, and Queen Réidhanë treated at Valdûn: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian legate took a house at Béravel."
+description: "From about 166 to 171 AF a Vylarian legion struck into the hills of Áuldalon and was harried into the forest margin, a cohort was lost, and Queen Réidhanë treated at Valdûn: Élavendre kept its laws and its line and paid a yearly tribute in silver, and a Vylarian legate took a house at Béravel."
 tags: [history]
 data:
   culture: elavendriclt
@@ -18,17 +18,17 @@ data:
         - affiliation-vylrnmltry
         - affiliation-vylarinmpr
         - affiliation-ordoarcanis
-        - place-brynavar
+        - place-auldalon
         - place-valdun
         - place-beravel
       summary: >-
-        From the lowlands the legions have taken, a legion strikes north-west into the hills of Brynavar. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidhanë of the house of Oréthan treats at Valdûn. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vylarian legate takes a house at Béravel. The Ordo Arcanis comes in by the legate's door, and the University of Béravel is chartered about 230.
+        From the lowlands the legions have taken, a legion strikes north-west into the hills of Áuldalon. The hill levy and the Áelendan war-bands give it no battle; they harry it toward the forest margin, where a cohort that follows a path is not seen again. Queen Réidhanë of the house of Oréthan treats at Valdûn. Élavendre keeps its laws, its customs and its line, and pays a yearly tribute in silver, and a Vylarian legate takes a house at Béravel. The Ordo Arcanis comes in by the legate's door, and the University of Béravel is chartered about 230.
       standing: attested
       names:
         - {name: the Tribute of Élavendre, by: affiliation-vylarinmpr}
         - {name: the Treaty of Valdûn, by: affiliation-kngdmlvndr}
       where:
-        locus: [place-brynavar, place-valdun]
+        locus: [place-auldalon, place-valdun]
         reach:
           - place: place-beravel
             how: the legate's house becomes the oldest court of the University, and the Ordo's presence in the capital begins at its door
@@ -63,7 +63,7 @@ data:
           says: >-
             Élavendre was entered at its edges and came to terms as a tributary.
           agrees: partly
-          withholds: that a cohort was lost in the Brynavar woods and the legion was not given a battle
+          withholds: that a cohort was lost in the Áuldalon woods and the legion was not given a battle
         - by: affiliation-kngdmlvndr
           says: >-
             The queen kept the kingdom whole, and the silver was the price of its law.
@@ -78,11 +78,11 @@ data:
         - whether the Áelendan were consulted before the queen treated at Valdûn
 ---
 
-The imperial milestones on the road out of Brynavar stop at Valdûn. The road beyond is the kingdom's own.
+The imperial milestones on the road out of Áuldalon stop at Valdûn. The road beyond is the kingdom's own.
 
 ## The March
 
-The legions had taken the lowlands of Tarvénia and held Léonrik as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of [[place-brynavar|Brynavar]], on the road a column would take to the [[place-tirwen|Tirwen]] basin. It was a march of some three hundred miles.
+The legions had taken the lowlands of Tarvénia and held Léonrik as an occupied march by the middle of the second century ([[lore-lowlandstaken|The Lowlands Taken]]). From there a legion struck north-west into the eastern hills of [[place-auldalon|Áuldalon]], on the road a column would take to the [[place-ellive|Éllivë]] basin. It was a march of some three hundred miles.
 
 The hill levy and the Áelendan war-bands gave the legion no battle. The legion found a country of ditched steadings and empty ground, and the levy took a wagon here and a picket there and fell back. The war-bands came down out of the mountains behind it and out of the forest ahead of it, and drew the column into the forest margin. A cohort that followed a path into the woods was not seen again.
 
@@ -104,7 +104,7 @@ The Áelendan have never forgiven the door. Ordo expeditions have taken artifact
 
 - **The legate's house,** now the University's oldest court, and the Ordo's foothold in the capital ([[place-beravel|Béravel]]).
 - **The Tribute Road.** Imperial milestones that run from the east and stop at Valdûn ([[place-valdun|Valdûn]]).
-- **The Lost Cohort's camp,** a ditched camp in the Brynavar woods that hunters find and cannot find again ([[place-brynavar|Brynavar]]).
+- **The Lost Cohort's camp,** a ditched camp in the Áuldalon woods that hunters find and cannot find again ([[place-auldalon|Áuldalon]]).
 - **The kingdom's standing.** Élavendre paid as a tributary of the Empire and was never a province of it; the Empire kept a legate at Béravel and no governor, and the tribute lapsed with [[lore-crownssettle|the Settlement of the Crowns]].
 - **The oldest grievance.** The Áelendan hold the Ordo's welcome against the crown that gave it.
 
@@ -113,5 +113,5 @@ The Áelendan have never forgiven the door. Ordo expeditions have taken artifact
 - [[lore-westernwars|The Western Wars]]—the Vylarian account of the campaigns
 - [[lore-lowlandstaken|The Lowlands Taken]]—the conquest the march began from
 - [[lore-firstcrown|The First Crowning of Élavendre]]—the oath the queen kept
-- [[lore-ardwynclose|The Ardwyn Closing]]—what the tribute cost a later king
-- [[place-valdun|Valdûn]] · [[place-brynavar|Brynavar]] · [[place-beravel|Béravel]]
+- [[lore-sorvandaclose|The Sórvanda Closing]]—what the tribute cost a later king
+- [[place-valdun|Valdûn]] · [[place-auldalon|Áuldalon]] · [[place-beravel|Béravel]]

@@ -249,11 +249,12 @@ The tongue speaks of the dead plainly and of death slant. A grave is a grave, an
 
 The giant is _thurs_, the void beyond creation is _ginn_ and an age is _ald_, and all three stand in the element lexicon. The words below are the ones a völva needs when she speaks of how an age ends and what is left for the next.
 
-| word        | what it names                                         | how it is built                                    |
-| ----------- | ----------------------------------------------------- | -------------------------------------------------- |
-| `heimsaldr` | a world-age, the world from its kindling to its end   | `heims-`, the world's, and `-aldr`, an age         |
-| `fösk`      | ash, what a fire leaves                               | a root of its own                                  |
-| `tvelg`     | a remnant, what is left when the greater part is gone | _tvalg_, the lesser of a pair, in the fourth grade |
+| word        | what it names                                         | how it is built                                        |
+| ----------- | ----------------------------------------------------- | ------------------------------------------------------ |
+| `heimsaldr` | a world-age, the world from its kindling to its end   | `heims-`, the world's, and `-aldr`, an age             |
+| `fösk`      | ash, what a fire leaves                               | a root of its own                                      |
+| `tvelg`     | a remnant, what is left when the greater part is gone | _tvalg_, the lesser of a pair, in the fourth grade     |
+| `nelth`     | fate, the hour set for a life or an age               | _nalth_, the last hour of a watch, in the fourth grade |
 
 ## Related Languages
 
@@ -444,6 +445,7 @@ the closing row carries whatever the strong `-r` or the doubled letter adds.
 | `mun-`                    | memory recited                            |
 | `ná-`                     | a corpse                                  |
 | `njör-`                   | the open sea's deep                       |
+| `nelth-`                  | fate                                      |
 | `nótt-`                   | night                                     |
 | `ód-`                     | fury, and the seer's fit                  |
 | `ódal-`, `odal-`          | land held by inheritance and not by grant |

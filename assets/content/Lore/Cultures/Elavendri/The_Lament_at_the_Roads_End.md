@@ -10,17 +10,17 @@ data:
   packFolder: settinglore
   form: nelthava
   subjects:
-    - lore-ardwynclose
+    - lore-sorvandaclose
     - lore-elvtribute
     - place-elanmere
-    - place-ardwyn
+    - place-sorvanda
     - affiliation-alndnwrdns
   language: elvndrlng
 
 # terran_analog: "The broadside and street ballad in common metre, sung for pay at fairs, for the form; the mining-disaster ballads of the coalfields and the lead dales, which list the dead by name and trade, for the catalogue; the Scots and Irish keening that calls the dead by name, for the frame; the satirical ballad set beside a ruler's own account, for the edge."
 ---
 
-**The Lament at the Road's End** is a _nélthava_, a lament, that the market singers of [[place-elavendre|Élavendre]] sing for the diggers who went up to the King's Cut in the reign of **Hóuradhel** and did not come down ([[lore-ardwynclose|The Ardwyn Closing]]). A _nélthava_ belongs at the cairn, and these dead have none that anyone below the mountains knows of; so it is sung where the broken ore-road comes down to [[place-elanmere|Elanmere]], on the first night of the autumn fair, by a singer who stands with his back to the lake and faces up the road. It is a song of the Minstrels' Guild and not of the Colleges. It is sung in ballad measure, four lines to the verse with the second and fourth rhyming, and the fair sings the names back with the singer at the end.
+**The Lament at the Road's End** is a _nélthava_, a lament, that the market singers of [[place-elavendre|Élavendre]] sing for the diggers who went up to the King's Cut in the reign of **Hóuradhel** and did not come down ([[lore-sorvandaclose|The Sórvanda Closing]]). A _nélthava_ belongs at the cairn, and these dead have none that anyone below the mountains knows of; so it is sung where the broken ore-road comes down to [[place-elanmere|Elanmere]], on the first night of the autumn fair, by a singer who stands with his back to the lake and faces up the road. It is a song of the Minstrels' Guild and not of the Colleges. It is sung in ballad measure, four lines to the verse with the second and fourth rhyming, and the fair sings the names back with the singer at the end.
 
 It names eleven: **Dálren** the drover's son, **Móren** the smith of [[place-valdun|Valdûn]], the charcoal-burning brothers **Náldor** and **Ténral**, **Órlen** the carter, **Dénrik** who owed money, **Sálten** off the river barges, **Hálden** who left a wife, **Kélda** who baked for them, her son **Árvend**, who was fourteen, and **Jéldor**, the king's engineer, who gave the orders and died with the rest. Singers on the coast name thirteen, and some at Elanmere leave the engineer out, so the count is not agreed, and the song asks for any name it lacks. Eleven rowans stand at the foot of the ore-road, set there by the diggers' mothers and wives, and a loaf is left on the stone among them on the first night of the fair by someone nobody sees.
 
@@ -212,6 +212,6 @@ and sing them when you wake.
 
 ## See Also
 
-- [[lore-ardwynclose|The Ardwyn Closing]] · [[lore-elvtribute|The Tribute of Élavendre]] · [[place-ardwyn|Ardwyn]]
+- [[lore-sorvandaclose|The Sórvanda Closing]] · [[lore-elvtribute|The Tribute of Élavendre]] · [[place-sorvanda|Sórvanda]]
 - [[place-elanmere|Elanmere]] · [[place-valdun|Valdûn]] · [[affiliation-alndnwrdns|The Áelendan Wardens]]
 - [[lore-elavendriclt|Élavendri]] · [[affiliation-bardicolgs|The Bardic Colleges]]

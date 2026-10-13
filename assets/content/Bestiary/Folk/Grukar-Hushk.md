@@ -401,7 +401,7 @@ A Hushk recognizes one law, that the strong rule and the weak serve or die. With
 
 ## What the Watch Does
 
-Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-brynavar|Brynavar]] and Aldorath's [[place-wyndmarch|Wyndmarch]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
+Commanders who face Grukar learn first to find the Hushk, because the Hushk is the warband. The Uk do not stand once their Hushk is dead, and a raiding party whose Hushk has been killed is a crowd of Grukar running home. Frontier levies in [[place-auldalon|Áuldalon]] and Aldorath's [[place-wyndmarch|Wyndmarch]] keep their best spearmen and their crossbows for the big one. They learn the second lesson too: a warband with two Hushk in it is a civil war waiting for an excuse, and a commander who can give the Hushk that excuse, a wound, a retreat that looks like cowardice, a captured standard, may see them settle it themselves. A lone Hushk, with no rival to provoke, will sometimes stop to look at a warrior who stands his ground without fear, before it kills him.
 
 ## Signs
 

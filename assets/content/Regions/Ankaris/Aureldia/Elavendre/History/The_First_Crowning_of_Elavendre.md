@@ -35,7 +35,7 @@ data:
           - place: place-alndntrblnds
             how: royal magistrates, troops and taxes stop at the tree line, and the Wardens hold the ground above it
             knowledge: named
-          - place: place-tirwen
+          - place: place-ellive
             how: the houses of the basin make their court at the crossing of the Bérav where the capital grows
             knowledge: named
       who:

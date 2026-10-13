@@ -3,19 +3,19 @@ shortcode: cohortpath
 name: {full: The Path the Cohort Took, aliases: [Dhérva Who Walks in Front]}
 type: lore
 subType: literature
-description: "The Brynavar hill-tellers' tale of the war of the tribute: the pony-herd's daughter who took the legion's silver, struck a bargain at the wood's edge with one of the deeper places, carried her brother on her back down a path that was never the same path twice, and walked in front of everyone she went with for the rest of her life."
+description: "The Áuldalon hill-tellers' tale of the war of the tribute: the pony-herd's daughter who took the legion's silver, struck a bargain at the wood's edge with one of the deeper places, carried her brother on her back down a path that was never the same path twice, and walked in front of everyone she went with for the rest of her life."
 tags: [draft, elavendri]
 data:
   culture: elavendriclt
   packFolder: settinglore
   form: tale
-  subjects: [lore-elvtribute, place-brynavar, place-valdun, lore-faecourts, affiliation-vylrnmltry]
+  subjects: [lore-elvtribute, place-auldalon, place-valdun, lore-faecourts, affiliation-vylrnmltry]
   language: elvndrlng
 
 # terran_analog: "The Breton and Gaulish wonder tale told at the edge of the forest country, for the voice; the bargain with an otherworld being kept to its exact words, and the condition that binds the bargainer for life, from the fairy-bride and changeling tales; the folk etiology that explains a law or a tax by a story about one person; the legions lost in the forest, as the frontier peoples told it."
 ---
 
-**The Path the Cohort Took** is told in the hills of [[place-brynavar|Brynavar]] by the tellers who sit at the drove fairs in [[place-valdun|Valdûn]], under the last of the imperial milestones, which stands at the town gate. It is the hills' account of the war of the tribute ([[lore-elvtribute|The Tribute of Élavendre]]) and of the cohort that followed a path into the woods and was not seen again, and it gives an answer to what the histories leave open: which path it was, and who showed the legion that there was one. The hills say it was **Dhérva**, a pony-herd's daughter of a steading on the forest margin, and that she showed it for silver and for her brother **Sévrel**, whom the legion had taken.
+**The Path the Cohort Took** is told in the hills of [[place-auldalon|Áuldalon]] by the tellers who sit at the drove fairs in [[place-valdun|Valdûn]], under the last of the imperial milestones, which stands at the town gate. It is the hills' account of the war of the tribute ([[lore-elvtribute|The Tribute of Élavendre]]) and of the cohort that followed a path into the woods and was not seen again, and it gives an answer to what the histories leave open: which path it was, and who showed the legion that there was one. The hills say it was **Dhérva**, a pony-herd's daughter of a steading on the forest margin, and that she showed it for silver and for her brother **Sévrel**, whom the legion had taken.
 
 The tale is told in prose, in the tellers' own hill speech, and the bargain at its center is in verse and said the same way by every teller, so that a child who has heard it twice says it with the teller. The one Dhérva bargains with at the wood's edge is never named, and the tellers are careful to say that it was not one of the [[lore-flksinale|Sinalë]] but one of the deeper places ([[lore-faecourts|The Fae Courts]]), and that it came to her and she did not go looking for it. The tellers hold with the [[lore-aelendnppl|Áelendan]] that the war-bands drew the legion to the forest margin and gave it no battle, and they put Dhérva at the end of that walk. They end on a question they do not settle, and the drovers' children at Valdûn are sent to bed on it.
 
@@ -166,6 +166,6 @@ That's the path the cohort took. Don't go looking for it. And when you go in thr
 
 ## See Also
 
-- [[lore-elvtribute|The Tribute of Élavendre]] · [[place-brynavar|Brynavar]] · [[place-valdun|Valdûn]]
+- [[lore-elvtribute|The Tribute of Élavendre]] · [[place-auldalon|Áuldalon]] · [[place-valdun|Valdûn]]
 - [[lore-faecourts|The Fae Courts]] · [[affiliation-vylrnmltry|The Vylarian Military]] · [[lore-aelendnppl|The Áelendan]]
 - [[lore-elavendriclt|Élavendri]] · [[lore-treelinelay|The Lay of the Tree Line]]

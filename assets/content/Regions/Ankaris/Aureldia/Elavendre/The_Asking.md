@@ -21,7 +21,7 @@ and carried out of the [[place-silvrfrsts|Silver Forests]] by people to whom it 
 stands out in it. The song is the Sinalë's own account of the [[lore-pelwarpepl|Pelwar]] band that came
 over the eastern pass into the interior, of the herdsman Dhárgan who sat four days at the wood's edge and
 asked, and of the generations after him: the Pact sung at the lowest pool of [[place-longstair|the Long
-Stair]], the watch set at the fog-hollow, the chief made Kinless at [[lore-tanwenspr|Tanwen]]'s fire in the
+Stair]], the watch set at the fog-hollow, the chief made Kinless at [[lore-tenaspr|T'éna]]'s fire in the
 Black Snow year, the fires on the pass, and the giving-over at the stone court of
 [[place-ethalosse|Ethalossë]].
 
@@ -674,7 +674,7 @@ The song for it was in the lore.
 it came in by. Not fog. A door.
 
 You did not wait for us. The hall
-  met. Tanwen's fire was lit. You made
+  met. T'éna's fire was lit. You made
   Ghálmir Kinless: no hearth, no shade,
 no water, name, nor friend. That's all.
 

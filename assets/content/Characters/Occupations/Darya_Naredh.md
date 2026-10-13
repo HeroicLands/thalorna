@@ -11,7 +11,7 @@ data:
   occupation: Bard
   lore: []
   culture: elavendriclt
-  homes: [cerdwnshlw]
+  homes: [kelpasi]
   affiliations: {kngdmlvndr: {rank: 2}, lusinia: {rank: 1}}
   gender: female
   species: humanflk

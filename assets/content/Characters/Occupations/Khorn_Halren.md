@@ -398,9 +398,9 @@ Khôrn Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidl
 
 # Dossier {#dossier}
 
-Khôrn Hálren is a yeoman infantryman of Liranel, the forest town of the Glanmor coast of [[place-elavendre|Élavendre]], an Élavendri freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
+Khôrn Hálren is a yeoman infantryman of Liranel, the forest town of the Lírvë coast of [[place-elavendre|Élavendre]], an Élavendri freeman who took the crown's coin in the coastal levy at eighteen and holds the crown's serjeanty at Liranel now.
 
-Khôrn was a haulier's son in a town that lives by timber, and he went to the Glanmor levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the Cilfor shore when the Varokh and the Grukar came over the bay, and in the Brynavar hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
+Khôrn was a haulier's son in a town that lives by timber, and he went to the Lírvë levy because a levy man is paid and a haulier's second son is not. He served for most of two decades wherever the kingdom's fighting was: on the Líserë shore when the Varokh and the Grukar came over the bay, and in the Áuldalon hills when the war-parties came overland. Four years ago the crown gave him the serjeanty at Liranel: he keeps the peace of the forest court and musters the town's yeomen when the Forester needs them. It is what he wanted, a post at home with a wife and a roof, and the peace of a forest town has turned out to be a different kind of fighting.
 
 ## Psyche
 
@@ -418,7 +418,7 @@ Strong, experienced in close fighting, disciplined.
 
 ## Social
 
-Khôrn holds the crown's serjeanty at Liranel, and his name stays on the roll of the Glanmor levy, which can call him back to the shore.
+Khôrn holds the crown's serjeanty at Liranel, and his name stays on the roll of the Lírvë levy, which can call him back to the shore.
 
 ## Companions
 
@@ -434,8 +434,8 @@ The guides who take paying visitors past the edge the Wardens allow, and the tim
 
 1. **The Seizure**—The forest court has condemned a haulier's whole season of timber as cut over license, and Khôrn is to seize it. The haulier is his father's oldest friend.
 
-2. **The Beacon**—A beacon has been lit on the Cilfor headlands and the Glanmor levy is called. Khôrn's name is on the roll, and the Forester has said the town cannot spare him.
+2. **The Beacon**—A beacon has been lit on the Líserë headlands and the Lírvë levy is called. Khôrn's name is on the roll, and the Forester has said the town cannot spare him.
 
 3. **The Guide**—A guide's party went into the deep wood a fortnight ago and has not come out, and the family wants Khôrn to go in after them. The Wardens have said nobody is to.
 
-4. **The Old Comrade**—A man Khôrn stood beside on the Cilfor shore is now cutting unlicensed oak above Liranel, and he has asked Khôrn, as a comrade, to look the other way once.
+4. **The Old Comrade**—A man Khôrn stood beside on the Líserë shore is now cutting unlicensed oak above Liranel, and he has asked Khôrn, as a comrade, to look the other way once.

@@ -16,7 +16,7 @@ The standard telling is fixed in its order and is sung whole at [[lore-jol|Jól]
 
 The telling does not stop at the fire. Out of the ashes a remnant rises, and a remade world is kindled from the coals—a world with ground, weather, people and gods in it, and the tellings are unhurried and domestic about the first morning of it. The remnant does not include the Ten. What inherits the new age is the gods' heirs, the [[lore-tvelgaett|Tvelgaett]], which is the whole of the comfort the doctrine offers and is not offered as comfort at all: the pantheon that now stands ends, and something of its making does not.
 
-The rune-priests hold that the great wyrd is not a script. Fate is layered rather than written, several of its branchings are choices nobody has yet made, and some part of the outcome may still be shifted by the conduct of those alive in the final age. What may be shifted is never stated—whether a god is spared, whether the fire stops short of some corner of the world, whether the remnant is larger—and the priesthood declines to narrow it, holding that a promised reward would corrupt the conduct the doctrine is asking for. The practical effect is that the north treats the end as a thing worth behaving well in front of, and the doctrine is a call to action rather than a schedule to wait out.
+The rune-priests hold that the great nelth is not a script. Fate is layered rather than written, several of its branchings are choices nobody has yet made, and some part of the outcome may still be shifted by the conduct of those alive in the final age. What may be shifted is never stated—whether a god is spared, whether the fire stops short of some corner of the world, whether the remnant is larger—and the priesthood declines to narrow it, holding that a promised reward would corrupt the conduct the doctrine is asking for. The practical effect is that the north treats the end as a thing worth behaving well in front of, and the doctrine is a call to action rather than a schedule to wait out.
 
 The whole of it gives the faith its gravity and its particular cheerfulness. A people expecting the world to end are grave rather than cynical, the feast is sweeter for being temporary, and the oath is heavier for being sworn under the last fire. It also decides what the north counts as wickedness. The corruption of Svartbrandr's extreme adherents, the appetites [[affiliation-nahild|Náhild]] feeds on, and the slow rot of broken oaths count in this reckoning as sins and as accelerations, and what they cut away at is the time the defending gods have left.
 
@@ -241,7 +241,7 @@ to make sorrow easy.
 Morning is morning;
 the loss remains loss.
 Rune-priests listen
-for branches of wyrd.
+for branches of nelth.
 Unmade choices
 still move in its currents.
 Some doom may shift

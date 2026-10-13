@@ -11,7 +11,7 @@ data:
   occupation: Astrologer
   lore: []
   culture: elavendriclt
-  homes: [cerdwnshlw]
+  homes: [kelpasi]
   affiliations: {kngdmlvndr: {rank: 2}, menerva: {rank: 1}}
   gender: female
   species: humanflk

@@ -11,7 +11,7 @@ data:
   occupation: Shipwright
   lore: []
   culture: elavendriclt
-  homes: [cerdwnshlw]
+  homes: [kelpasi]
   affiliations: {kngdmlvndr: {rank: 2}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk

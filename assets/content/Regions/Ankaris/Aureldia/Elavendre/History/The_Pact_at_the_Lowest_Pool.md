@@ -3,7 +3,7 @@ shortcode: lowestpoolpct
 name: {full: The Pact at the Lowest Pool, aliases: []}
 type: lore
 subType: history
-description: "About 1350 BF the Áelendan, after Dhárgan had sat four days at the wood's edge and asked, were taught the Long Stair's rules, made their first pact with the river-mother Aranwy at the lowest pool, and set the watch on the fog-hollow that became the Wardens."
+description: "About 1350 BF the Áelendan, after Dhárgan had sat four days at the wood's edge and asked, were taught the Long Stair's rules, made their first pact with the river-mother Sálenda at the lowest pool, and set the watch on the fog-hollow that became the Wardens."
 tags: [history]
 data:
   culture: elavendriclt
@@ -15,12 +15,12 @@ data:
       sources:
         - lore-theasking
         - lore-aelendnppl
-        - lore-aranwyspr
+        - lore-salendaspr
         - affiliation-alndnwrdns
         - place-longstair
         - place-eshalshldg
       summary: >-
-        After Dhárgan has sat four days at the wood's edge and been taught the work of keeping it, the band settles in a high valley and builds Eshálosha. When the seven falls of the Long Stair take a boy who climbed them by day, Dhárgan's daughter Néla sits by the water and asks, and a Sinalë gives the rules: the lowest pool, first light, silence, and a thing made by the giver's own hands. The shaman Sîlor sings the first pact there with the river-mother Aranwy, in the band's own forms with the Sinalë names set in them. Dhárgan sets the watch on the fog-hollow in the same spring, and the Wardens begin as the people who keep it.
+        After Dhárgan has sat four days at the wood's edge and been taught the work of keeping it, the band settles in a high valley and builds Eshálosha. When the seven falls of the Long Stair take a boy who climbed them by day, Dhárgan's daughter Néla sits by the water and asks, and a Sinalë gives the rules: the lowest pool, first light, silence, and a thing made by the giver's own hands. The shaman Sîlor sings the first pact there with the river-mother Sálenda, in the band's own forms with the Sinalë names set in them. Dhárgan sets the watch on the fog-hollow in the same spring, and the Wardens begin as the people who keep it.
       standing: attested
       names: [{name: the Kindred Pact, by: lore-aelendnppl}]
       where:
@@ -37,7 +37,7 @@ data:
             knowledge: named
       who:
         - {ref: lore-aelendnppl, role: actor}
-        - {ref: lore-aranwyspr, role: signatory}
+        - {ref: lore-salendaspr, role: signatory}
         - {ref: affiliation-alndnwrdns, role: founder}
         - {ref: lore-flksinale, role: witness}
       follows:
@@ -56,7 +56,7 @@ data:
           withholds: that the rules at the Stair were given by a Sinalë and the pact itself was not
       unresolved:
         - why the Stair may not be climbed by daylight
-        - whether Aranwy was asked or only sung to
+        - whether Sálenda was asked or only sung to
 ---
 
 An Áelendan child learns the rules of the [[place-longstair|Long Stair]] in order, the first being that nobody climbs it by daylight. The rules are older than any lowland kingdom, and the people who teach them can say who gave them and on what morning.
@@ -75,7 +75,7 @@ The people did not move on. They buried their dead under a cairn by the road, fo
 
 Néla went up and sat and asked. Haulera told her what the Stair is: seven falls and one water, loudest in spring. The offering is made at the lowest pool at first light, in silence, and it is a thing the giver made and would miss. Nobody fishes above the third fall, nobody swims, and nobody climbs by day. Haulera said no more then and has said no more since, and the answer to the question of why is the one she gave, which is _not in the sun_.
 
-That spring the shaman Sîlor went down to the lowest pool before light and left a horn he had carved, which he chose because he would miss it. Then he sang the pact. The song was the band's own, in the old forms and the people's own tongue, with the Sinalë names set in it and said half wrong. The Sinalë stood apart from it, since it was not theirs to make or hear. The river-mother [[lore-aranwyspr|Aranwy]] answered Sîlor, and what the land said back he took in his head.
+That spring the shaman Sîlor went down to the lowest pool before light and left a horn he had carved, which he chose because he would miss it. Then he sang the pact. The song was the band's own, in the old forms and the people's own tongue, with the Sinalë names set in it and said half wrong. The Sinalë stood apart from it, since it was not theirs to make or hear. The river-mother [[lore-salendaspr|Sálenda]] answered Sîlor, and what the land said back he took in his head.
 
 ## The Watch
 
@@ -94,7 +94,7 @@ Each spring thereafter he came to the wood's edge and sat, and Haulera went out 
 ## See Also
 
 - [[lore-theasking|The Asking]]—the lay that tells the pact
-- [[place-longstair|The Long Stair]] · [[lore-aranwyspr|Aranwy of the Long Stair]]
+- [[place-longstair|The Long Stair]] · [[lore-salendaspr|Sálenda of the Long Stair]]
 - [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[lore-aelendnppl|The Áelendan People]]
 - [[lore-nelgancross|The Crossing of Nélgan]]—how the band came to the wood's edge
 - [[lore-blacksnow|The Black Snow]]—the pact tested
