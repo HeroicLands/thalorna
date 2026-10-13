@@ -283,7 +283,6 @@ data:
     eye_color: ""
     hair_color: ""
     skin_color: ""
-    complexion: ""
     extra_features: [] # free text: scars, tattoos, bearing, anything else a stranger notices
   packFolder: "" # The compendium folder shortcode where the being should be placed. Usually under the "<culture>/Characters/Folk" for NPCs, "<culture>/Characters/Heroes and Knaves" for characters, and Beastiary for creatures.
 ---
@@ -416,7 +415,7 @@ data:
 | `blue`       | Blue       | Unmixed blue, from pale ice to deep sea.                                                       |
 | `brown`      | Brown      | Mid-brown, the iris pattern still legible in ordinary light.                                   |
 | `dark_brown` | Dark Brown | Brown so deep the iris barely separates from the pupil. Ordinary description calls this black. |
-| `gray`       | Gray       | Gray or gray-blue, cool and without green.                                                     |
+| `grey`       | Grey       | Grey or grey-blue, cool and without green.                                                     |
 | `green`      | Green      | Green dominant, with no brown ring worth naming.                                               |
 | `hazel`      | Hazel      | Brown and green together, often shifting with the light; the commonest mixed eye.              |
 | `violet`     | Violet     | The pink-violet of an iris carrying no pigment.                                                |
@@ -432,9 +431,9 @@ data:
 | `chestnut`      | Chestnut      | Mid-brown with a red cast, the brown dominant—between brown and auburn. |
 | `dark_blonde`   | Dark Blonde   | Blonde darkened toward light brown.                                     |
 | `dark_brown`    | Dark Brown    | Brown approaching black, still brown in sunlight.                       |
-| `gray`          | Gray          | Gray throughout, the original color no longer legible.                  |
-| `graying_black` | Graying Black | Black still dominant, gray coming in.                                   |
-| `graying_brown` | Graying Brown | Brown still dominant, gray coming in.                                   |
+| `grey`          | Grey          | Grey throughout, with nothing of the original colour left to read.      |
+| `greying_black` | Greying Black | Black still dominant, grey coming in.                                   |
+| `greying_brown` | Greying Brown | Brown still dominant, grey coming in.                                   |
 | `red`           | Red           | Ginger or copper, the red unmixed with brown.                           |
 | `silver`        | Silver        | Gray with a bright metallic sheen rather than a dull cast.              |
 | `white`         | White         | Wholly white, whether from age or from carrying no pigment.             |

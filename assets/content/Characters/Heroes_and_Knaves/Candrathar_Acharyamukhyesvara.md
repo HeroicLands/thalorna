@@ -25,7 +25,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: tawny
     complexion: null
     extra_features: []
@@ -425,7 +425,7 @@ sohl:
 
 ![[cndrthrchrymkhysvr|Chandrathar Āchāryamukhyeshvara]]{float=top-left}
 
-Chandrathar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
+Chandrathar stands 5'7" tall with a medium build. He has tawny brown skin, greying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, and high cheeks.
 
 # Dossier {#dossier}
 

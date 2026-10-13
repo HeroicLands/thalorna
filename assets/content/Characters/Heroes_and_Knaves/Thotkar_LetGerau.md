@@ -22,7 +22,7 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: tawny
     complexion: null
     extra_features: [a tattoo of a leaf on the wrist]
@@ -416,7 +416,7 @@ sohl:
 
 ![[thotkarletgr|Thotkar Let'Gerau]]{float=top-left}
 
-Thotkar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
+Thotkar stands 5'10" tall with a heavy build. He has tawny skin, greying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, and angular cheeks. He has a tattoo of a leaf on his wrist.
 
 # Dossier {#dossier}
 

@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: ruddy
     extra_features: [a scar on the right elbow]

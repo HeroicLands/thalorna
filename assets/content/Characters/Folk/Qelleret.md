@@ -21,18 +21,13 @@ data:
   height: 6' 2"
   weight: 190 lbs
   frame: heavy
-  appearance:
-    eye_color: brown
-    hair_color: graying_black
-    skin_color: ebony
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: greying_black, skin_color: ebony, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Qelleret is a 51-year-old woman who stands 6'2" tall with a heavy build. She has ebony skin, graying black hair, and brown eyes.
+Qelleret is a 51-year-old woman who stands 6'2" tall with a heavy build. She has ebony skin, greying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

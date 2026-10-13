@@ -21,18 +21,13 @@ data:
   height: 6' 1"
   weight: 198 lbs
   frame: heavy
-  appearance:
-    eye_color: brown
-    hair_color: graying_black
-    skin_color: tawny
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: greying_black, skin_color: tawny, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Lenti is a 49-year-old man who stands 6'1" tall with a heavy build. He has tawny skin, graying black hair, and brown eyes.
+Lenti is a 49-year-old man who stands 6'1" tall with a heavy build. He has tawny skin, greying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

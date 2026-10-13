@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: medium
     complexion: wrinkled
     extra_features: [a scar on the left eye]

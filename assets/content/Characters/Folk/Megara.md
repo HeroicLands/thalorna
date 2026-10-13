@@ -21,18 +21,13 @@ data:
   height: 5' 11"
   weight: 176 lbs
   frame: heavy
-  appearance:
-    eye_color: hazel
-    hair_color: gray
-    skin_color: tawny
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: hazel, hair_color: grey, skin_color: tawny, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Megara is a 52-year-old woman who stands 5'11" tall with a heavy build. She has tawny skin, gray hair, and hazel eyes.
+Megara is a 52-year-old woman who stands 5'11" tall with a heavy build. She has tawny skin, grey hair, and hazel eyes.
 
 # Dossier {#dossier}
 

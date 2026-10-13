@@ -22,7 +22,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: light
     complexion: weathered
     extra_features: []
@@ -431,7 +431,7 @@ sohl:
 
 ![[anthrvasgrnd|Anthorv Ásgrind]]{float=top-left}
 
-Anthorv stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
+Anthorv stands 6'0" tall with a medium build. He has light weathered skin, greying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, and straight brows.
 
 # Dossier {#dossier}
 

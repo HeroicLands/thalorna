@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: tawny
     complexion: null
     extra_features: [a tattoo of a fish on the lower back]

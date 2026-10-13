@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: gray
+    hair_color: grey
     skin_color: medium
     complexion: null
     extra_features: [a tattoo of a heart on the chest]

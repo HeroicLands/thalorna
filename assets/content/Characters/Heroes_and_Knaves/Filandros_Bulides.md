@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: tanned
     complexion: null
     extra_features: [a tattoo of a lion on the thigh]
@@ -422,7 +422,7 @@ sohl:
 
 ![[flndrsbldds|Sakozês Bûlîdês]]{float=top-left}
 
-Sakozês stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
+Sakozês stands 5'9" tall with a medium build. He has sun-tanned skin, greying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, greying brows, and sculpted cheeks. He has a tattoo of a lion on his thigh.
 
 # Dossier {#dossier}
 

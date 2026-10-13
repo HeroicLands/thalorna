@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: gray
+    hair_color: grey
     skin_color: medium
     complexion: weathered
     extra_features: [a scar on the chin]

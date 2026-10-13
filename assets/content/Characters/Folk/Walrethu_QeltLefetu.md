@@ -25,7 +25,6 @@ data:
     eye_color: amber
     hair_color: dark_brown
     skin_color: dark_brown
-    complexion: ""
     extra_features: []
   packFolder: regkhfolk
 ---

@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: medium
     complexion: sun_kissed
     extra_features: [a tattoo of a horse on the thigh]

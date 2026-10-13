@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: tanned
     complexion: weathered
     extra_features: [missing two fingers on left hand, thick neck, nose broken multiple times]

@@ -23,7 +23,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: tawny
     complexion: weathered
     extra_features: []
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Khelâfra Zebenmeryu is a 45-year-old man who stands 5'9" tall with a medium build. He has tawny skin, weathered complexion, gray hair, and brown eyes.
+Khelâfra Zebenmeryu is a 45-year-old man who stands 5'9" tall with a medium build. He has tawny skin, weathered complexion, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 

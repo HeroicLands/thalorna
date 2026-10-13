@@ -23,7 +23,7 @@ data:
   frame: light
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: dark_brown
     complexion: weathered
     extra_features: []
@@ -32,7 +32,7 @@ data:
 
 # Appearance {#appearance}
 
-Akhrethu Azâri is a 50-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, gray hair, and brown eyes.
+Akhrethu Azâri is a 50-year-old man who stands 5'5" tall with a light build. He has dark brown skin, weathered complexion, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 

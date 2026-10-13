@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: olive
     complexion: null
     extra_features: []

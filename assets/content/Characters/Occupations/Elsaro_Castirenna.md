@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: dark_brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: tanned
     complexion: weathered
     extra_features: [a tattoo of a tiger on the forearm]

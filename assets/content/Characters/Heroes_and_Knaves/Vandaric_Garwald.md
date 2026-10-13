@@ -24,7 +24,7 @@ data:
   weight: 165 lbs
   frame: medium
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: dark_brown
     skin_color: light
     complexion: sallow

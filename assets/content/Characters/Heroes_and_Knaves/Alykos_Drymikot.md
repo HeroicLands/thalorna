@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: light
     complexion: weathered
     extra_features: []
@@ -423,7 +423,7 @@ sohl:
 
 ![[alyksdrymkt|Alýkos Drymíkot]]{float=top-left}
 
-Alýkos stands 6'0" tall with a medium build. He has light weathered skin, graying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and graying brows.
+Alýkos stands 6'0" tall with a medium build. He has light weathered skin, greying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, and greying brows.
 
 # Dossier {#dossier}
 

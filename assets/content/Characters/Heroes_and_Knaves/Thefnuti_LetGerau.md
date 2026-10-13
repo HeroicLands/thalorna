@@ -23,7 +23,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: golden
     complexion: null
     extra_features: []
@@ -426,7 +426,7 @@ sohl:
 
 ![[thefnutiltgr|Thefnutî Let'Gerau]]{float=top-left}
 
-Thefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
+Thefnutî stands 5'10" tall with a medium build. He has warm amber skin, grey hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, and angular cheeks.
 
 # Dossier {#dossier}
 

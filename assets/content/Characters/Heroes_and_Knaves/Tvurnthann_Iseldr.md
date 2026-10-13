@@ -20,7 +20,7 @@ data:
   weight: 123 lbs
   frame: medium
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: silver
     skin_color: light
     complexion: null
@@ -429,7 +429,7 @@ sohl:
 
 ![[tvrnthnisldr|Tvurnthann Íseldr]]{float=top-left}
 
-Tvurnthann stands 5'4" tall with a medium build. He has light pale skin, silver hair, and gray eyes. His features include an oblong face, a prominent nose, a heavy jawline, a firm-set mouth, thick brows, flat cheeks. A distinguishing mark is a tattoo of a dolphin on the left wrist.
+Tvurnthann stands 5'4" tall with a medium build. He has light pale skin, silver hair, and grey eyes. His features include an oblong face, a prominent nose, a heavy jawline, a firm-set mouth, thick brows, flat cheeks. A distinguishing mark is a tattoo of a dolphin on the left wrist.
 
 # Dossier {#dossier}
 

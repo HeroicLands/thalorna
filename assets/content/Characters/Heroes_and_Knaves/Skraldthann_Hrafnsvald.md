@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: ruddy
     extra_features: [a scar on the abdomen]
@@ -422,7 +422,7 @@ sohl:
 
 ![[skrldthnhrfnsvld|Skraldthann Hrafnsvald]]{float=top-left}
 
-Skraldthann stands 5'9" tall with a medium build. He has light ruddy skin, gray hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.
+Skraldthann stands 5'9" tall with a medium build. He has light ruddy skin, grey hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.
 
 # Dossier {#dossier}
 

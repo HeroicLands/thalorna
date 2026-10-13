@@ -21,7 +21,7 @@ data:
   frame: light
   appearance:
     eye_color: amber
-    hair_color: gray
+    hair_color: grey
     skin_color: olive
     complexion: scarred
     extra_features: []

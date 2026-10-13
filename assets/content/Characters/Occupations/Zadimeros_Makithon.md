@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: fair
     complexion: weathered
     extra_features: [a tattoo of a crescent moon on the neck]

@@ -20,7 +20,7 @@ data:
   weight: 185 lbs
   frame: medium
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: chestnut
     skin_color: olive
     complexion: null

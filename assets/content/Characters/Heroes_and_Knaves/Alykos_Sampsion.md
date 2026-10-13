@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: sun_kissed
     extra_features: []
@@ -418,7 +418,7 @@ sohl:
 
 ![[alykosmpsn|Alýkos Bridutis]]{float=top-left}
 
-Alýkos stands 5'7" tall with a medium build. He has light tanned skin, gray hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
+Alýkos stands 5'7" tall with a medium build. He has light tanned skin, grey hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, and expressive brows.
 
 # Dossier {#dossier}
 

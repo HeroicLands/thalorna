@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: amber
-    hair_color: gray
+    hair_color: grey
     skin_color: tawny
     complexion: null
     extra_features: []

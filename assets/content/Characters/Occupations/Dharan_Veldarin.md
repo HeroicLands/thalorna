@@ -20,7 +20,7 @@ data:
   weight: 194 lbs
   frame: heavy
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: auburn
     skin_color: pale
     complexion: smooth

@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: fair
     complexion: clear
     extra_features: []

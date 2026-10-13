@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: green
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: weathered
     extra_features: [a scar on the right hand]
@@ -413,7 +413,7 @@ sohl:
 
 ![[ftnshdkt|Stemios Hodíkot]]{float=top-left}
 
-Stemios stands 5'8" tall with a heavy build. He has light weathered skin, gray hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
+Stemios stands 5'8" tall with a heavy build. He has light weathered skin, grey hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, and prominent brows. He has a scar on his right hand.
 
 # Dossier {#dossier}
 

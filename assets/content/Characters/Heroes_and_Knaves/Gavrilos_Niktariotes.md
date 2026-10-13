@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: light
     complexion: sun_kissed
     extra_features: []
@@ -419,7 +419,7 @@ sohl:
 
 ![[gvrlsnktrts|Sedikôn Manedês]]{float=top-left}
 
-Sedikôn stands 6'1" tall with a medium build. He has light tanned skin, graying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
+Sedikôn stands 6'1" tall with a medium build. He has light tanned skin, greying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, and hollow cheeks.
 
 # Dossier {#dossier}
 

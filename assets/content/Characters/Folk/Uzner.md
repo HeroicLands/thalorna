@@ -21,18 +21,13 @@ data:
   height: 5' 7"
   weight: 168 lbs
   frame: medium
-  appearance:
-    eye_color: amber
-    hair_color: gray
-    skin_color: tawny
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: amber, hair_color: grey, skin_color: tawny, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, gray hair, and amber eyes.
+Lemani is a 50-year-old woman who stands 5'7" tall with a medium build. She has tawny skin, grey hair, and amber eyes.
 
 # Dossier {#dossier}
 

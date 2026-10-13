@@ -21,12 +21,7 @@ data:
   height: 6' 2"
   weight: 185 lbs
   frame: heavy
-  appearance:
-    eye_color: amber
-    hair_color: black
-    skin_color: brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: amber, hair_color: black, skin_color: brown, extra_features: []}
   packFolder: regkhfolk
 ---
 

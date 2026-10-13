@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: weathered
     extra_features: []
@@ -413,7 +413,7 @@ sohl:
 
 ![[nmshrprklvs|Nômasáhr Paraklávos]]{float=top-left}
 
-Nômasáhr stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
+Nômasáhr stands 5'7" tall with a medium build. He has light weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, and prominent cheeks.
 
 # Dossier {#dossier}
 

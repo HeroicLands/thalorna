@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: golden
     complexion: null
     extra_features: [a tattoo of a horse on the thigh]
@@ -417,7 +417,7 @@ sohl:
 
 ![[minakprkhn|Mināka Parikshana]]{float=top-left}
 
-Mināka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
+Mināka stands 5'9" tall with a heavy build. She has warm honey skin, greying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, greying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
 # Dossier {#dossier}
 

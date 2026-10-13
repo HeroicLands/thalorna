@@ -21,18 +21,13 @@ data:
   height: 6'
   weight: 154 lbs
   frame: medium
-  appearance:
-    eye_color: brown
-    hair_color: gray
-    skin_color: dark_brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: grey, skin_color: dark_brown, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Gerra Anlaghe'Rêlu is a 42-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, gray hair, and brown eyes.
+Gerra Anlaghe'Rêlu is a 42-year-old man who stands 6'0" tall with a medium build. He has dark brown skin, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 

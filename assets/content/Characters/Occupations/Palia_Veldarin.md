@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: clear
     extra_features: [a tattoo of a bird in flight on the left shoulder]

@@ -20,7 +20,7 @@ data:
   weight: 168 lbs
   frame: light
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: red
     skin_color: pale
     complexion: ruddy

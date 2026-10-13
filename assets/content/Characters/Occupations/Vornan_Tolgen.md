@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: smooth
     extra_features: [a tattoo of a crescent moon on the neck]

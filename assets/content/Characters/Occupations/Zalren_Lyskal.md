@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: gray
+    hair_color: grey
     skin_color: medium
     complexion: null
     extra_features: [a tattoo of a butterfly on the neck]

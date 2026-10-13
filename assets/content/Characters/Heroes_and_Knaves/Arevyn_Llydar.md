@@ -20,7 +20,7 @@ data:
   weight: 183 lbs
   frame: heavy
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: black
     skin_color: tanned
     complexion: weathered
@@ -420,7 +420,7 @@ sohl:
 
 ![[arevynlydr|Arévyn Llýdar]]{float=top-left}
 
-Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
+Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and grey eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
 # Dossier {#dossier}
 

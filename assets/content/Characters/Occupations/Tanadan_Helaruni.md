@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: tawny
     complexion: sun_kissed
     extra_features: [a tattoo of a knight's helmet on the shoulder]

@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: medium
     complexion: null
     extra_features: [a tattoo of a crescent moon on the neck]
@@ -439,7 +439,7 @@ sohl:
 
 ![[senptvkrmd|Senāpati Vikramada]]{float=top-left}
 
-Senāpati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
+Senāpati stands 6'0" tall with a heavy build. He has medium brown skin, greying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, and medium brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 

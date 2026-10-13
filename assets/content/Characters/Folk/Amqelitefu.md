@@ -21,18 +21,13 @@ data:
   height: 5' 5"
   weight: 119 lbs
   frame: light
-  appearance:
-    eye_color: dark_brown
-    hair_color: gray
-    skin_color: brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: dark_brown, hair_color: grey, skin_color: brown, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Amqelitefu is a 41-year-old woman who stands 5'5" tall with a light build. She has brown skin, gray hair, and dark brown eyes.
+Amqelitefu is a 41-year-old woman who stands 5'5" tall with a light build. She has brown skin, grey hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

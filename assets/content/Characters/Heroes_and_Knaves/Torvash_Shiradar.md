@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: weathered
     extra_features: [a scar from forehead to cheek across the left eye]
@@ -410,7 +410,7 @@ sohl:
 
 ![[trvshshrdr|Torvâsh Shiradar]]{float=top-left}
 
-Torvâsh stands 6'2" tall with a heavy build. He has tanned weathered skin, gray hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
+Torvâsh stands 6'2" tall with a heavy build. He has tanned weathered skin, grey hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, and dark brows. He has a scar from forehead to cheek across his left eye.
 
 # Dossier {#dossier}
 

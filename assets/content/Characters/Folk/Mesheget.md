@@ -21,18 +21,13 @@ data:
   height: 6' 3"
   weight: 220 lbs
   frame: massive
-  appearance:
-    eye_color: dark_brown
-    hair_color: gray
-    skin_color: dark_brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: dark_brown, hair_color: grey, skin_color: dark_brown, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Mesheget is a 55-year-old woman who stands 6'3" tall with a massive build. She has dark brown skin, gray hair, and dark brown eyes.
+Mesheget is a 55-year-old woman who stands 6'3" tall with a massive build. She has dark brown skin, grey hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

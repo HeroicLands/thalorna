@@ -20,7 +20,7 @@ data:
   weight: 216 lbs
   frame: heavy
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: black
     skin_color: olive
     complexion: scarred

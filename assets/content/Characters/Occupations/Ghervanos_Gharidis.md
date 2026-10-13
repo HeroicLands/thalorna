@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: dark_brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: medium
     complexion: smooth
     extra_features: []

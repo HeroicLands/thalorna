@@ -20,7 +20,7 @@ data:
   weight: 198 lbs
   frame: heavy
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: blonde
     skin_color: fair
     complexion: rough

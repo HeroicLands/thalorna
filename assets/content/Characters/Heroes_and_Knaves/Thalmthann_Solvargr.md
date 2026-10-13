@@ -20,8 +20,8 @@ data:
   weight: 175 lbs
   frame: medium
   appearance:
-    eye_color: gray
-    hair_color: gray
+    eye_color: grey
+    hair_color: grey
     skin_color: light
     complexion: weathered
     extra_features: [a scar on the chin]
@@ -418,7 +418,7 @@ sohl:
 
 ![[thlmthnslvrgr|Thalmthann Sólvargr]]{float=top-left}
 
-Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
+Thalmthann stands 6'1" tall with a medium build. He has light weathered skin, grey hair, and grey eyes. His features include an angular face, a straight nose, a slightly downturned mouth, and thick brows. He has a scar on his chin.
 
 # Dossier {#dossier}
 

@@ -21,18 +21,13 @@ data:
   height: 5' 3"
   weight: 99 lbs
   frame: scant
-  appearance:
-    eye_color: brown
-    hair_color: gray
-    skin_color: tawny
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: grey, skin_color: tawny, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Gezebari is a 42-year-old woman who stands 5'3" tall with a scant build. She has tawny skin, gray hair, and brown eyes.
+Gezebari is a 42-year-old woman who stands 5'3" tall with a scant build. She has tawny skin, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 

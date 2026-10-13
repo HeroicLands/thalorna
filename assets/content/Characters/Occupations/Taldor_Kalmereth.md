@@ -20,7 +20,7 @@ data:
   weight: 181 lbs
   frame: medium
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: red
     skin_color: fair
     complexion: weathered

@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: ruddy
     extra_features: []
@@ -417,7 +417,7 @@ sohl:
 
 ![[orshkrnlkt|Órashkâr Naulákit]]{float=top-left}
 
-Órashkâr stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
+Órashkâr stands 5'11" tall with a medium build. He has light ruddy skin, grey hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, and strong brows.
 
 # Dossier {#dossier}
 

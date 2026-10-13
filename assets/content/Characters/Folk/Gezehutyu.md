@@ -21,18 +21,13 @@ data:
   height: 5' 11"
   weight: 192 lbs
   frame: heavy
-  appearance:
-    eye_color: brown
-    hair_color: graying_black
-    skin_color: golden
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: greying_black, skin_color: golden, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Balinta is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, graying black hair, and brown eyes.
+Balinta is a 46-year-old woman who stands 5'11" tall with a heavy build. She has golden skin, greying black hair, and brown eyes.
 
 # Dossier {#dossier}
 

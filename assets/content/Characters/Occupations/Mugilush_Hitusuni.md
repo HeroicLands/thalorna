@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: dark_brown
-    hair_color: gray
+    hair_color: grey
     skin_color: golden
     complexion: null
     extra_features: []

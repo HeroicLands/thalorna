@@ -25,7 +25,6 @@ data:
     eye_color: dark_brown
     hair_color: dark_brown
     skin_color: ebony
-    complexion: ""
     extra_features: []
   packFolder: regkhhk
 ---

@@ -20,8 +20,8 @@ data:
   weight: 192 lbs
   frame: heavy
   appearance:
-    eye_color: gray
-    hair_color: gray
+    eye_color: grey
+    hair_color: grey
     skin_color: medium
     complexion: sun_kissed
     extra_features: [a tattoo of a compass on the chest]

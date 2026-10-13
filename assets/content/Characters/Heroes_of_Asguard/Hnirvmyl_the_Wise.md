@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: green
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: freckled
     extra_features: []

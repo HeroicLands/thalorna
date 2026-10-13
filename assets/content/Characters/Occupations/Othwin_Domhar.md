@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: weathered
     extra_features: []

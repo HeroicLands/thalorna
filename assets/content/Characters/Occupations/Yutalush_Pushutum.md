@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: gray
+    hair_color: grey
     skin_color: olive
     complexion: null
     extra_features: []

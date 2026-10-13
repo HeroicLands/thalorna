@@ -20,8 +20,8 @@ data:
   weight: 169 lbs
   frame: medium
   appearance:
-    eye_color: gray
-    hair_color: gray
+    eye_color: grey
+    hair_color: grey
     skin_color: light
     complexion: ruddy
     extra_features: [a tattoo of a falcon on the right arm]
@@ -418,7 +418,7 @@ sohl:
 
 ![[brldthnvtrdmr|Braldthann Vetrdómr]]{float=top-left}
 
-Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
+Braldthann stands 6'0" tall with a medium build. He has light ruddy skin, grey hair, and grey eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 
 # Dossier {#dossier}
 

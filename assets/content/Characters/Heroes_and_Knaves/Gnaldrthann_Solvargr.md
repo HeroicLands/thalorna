@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: blue
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: weathered
     extra_features: [a tattoo of a lion's mane on the chest]
@@ -415,7 +415,7 @@ sohl:
 
 ![[gnldrthnslvrgr|Gnaldrthann Sólvargr]]{float=top-left}
 
-Gnaldrthann stands 6'3" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
+Gnaldrthann stands 6'3" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, and gently curved brows. He has a tattoo of a lion's mane on his chest.
 
 # Dossier {#dossier}
 

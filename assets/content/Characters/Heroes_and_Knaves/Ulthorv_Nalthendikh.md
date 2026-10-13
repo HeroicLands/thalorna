@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: blue
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: ruddy
     extra_features: [a tattoo of a tiger on the forearm]
@@ -426,7 +426,7 @@ sohl:
 
 ![[ulthrvnlthndkh|Ulthorv Nalthendikh]]{float=top-left}
 
-Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
+Ulthorv stands 6'1" tall with a medium build. He has tanned ruddy skin, grey hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, and hollow cheeks. He has a tattoo of a tiger on his forearm.
 
 # Dossier {#dossier}
 

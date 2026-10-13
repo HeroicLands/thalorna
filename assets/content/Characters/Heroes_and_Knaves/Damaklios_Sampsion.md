@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: hazel
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: light
     complexion: sun_kissed
     extra_features: [a tattoo of a crescent moon on the neck]
@@ -423,7 +423,7 @@ sohl:
 
 ![[damklsmpsn|Damáklios Bridutis]]{float=top-left}
 
-Damáklios stands 5'6" tall with a medium build. He has light tanned skin, graying brown hair, and hazel eyes. His features include an angular face, a hawkish nose, a pronounced chin, slightly pursed lips, and graying brows. He has a tattoo of a crescent moon on his neck.
+Damáklios stands 5'6" tall with a medium build. He has light tanned skin, greying brown hair, and hazel eyes. His features include an angular face, a hawkish nose, a pronounced chin, slightly pursed lips, and greying brows. He has a tattoo of a crescent moon on his neck.
 
 # Dossier {#dossier}
 

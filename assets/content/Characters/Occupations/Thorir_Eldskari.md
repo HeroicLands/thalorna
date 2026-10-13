@@ -21,7 +21,7 @@ data:
   frame: massive
   appearance:
     eye_color: amber
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: golden
     complexion: sun_kissed
     extra_features: [scar across forehead]

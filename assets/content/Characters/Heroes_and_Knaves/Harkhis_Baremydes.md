@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: gray
+    hair_color: grey
     skin_color: light
     complexion: ruddy
     extra_features: [a scar on the left calf]
@@ -423,7 +423,7 @@ sohl:
 
 ![[hrkhsbrmyds|Harkhîs Bàremydês]]{float=top-left}
 
-Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
+Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, grey hair, and green eyes. His features include an oblong face, an aquiline nose, a pointed chin, full lips, and heavy brows. He has a scar on his left calf.
 
 # Dossier {#dossier}
 

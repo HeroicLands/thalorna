@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: amber
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: medium
     complexion: null
     extra_features: [a scar on the left foot]
@@ -419,7 +419,7 @@ sohl:
 
 ![[madhurvrdr|Madhurava Sūtrapāla]]{float=top-left}
 
-Madhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
+Madhurava stands 5'10" tall with a medium build. He has medium brown skin, greying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, and soft cheeks. He has a scar on his left foot.
 
 # Dossier {#dossier}
 

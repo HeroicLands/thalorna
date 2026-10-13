@@ -21,18 +21,13 @@ data:
   height: 6' 1"
   weight: 176 lbs
   frame: heavy
-  appearance:
-    eye_color: hazel
-    hair_color: graying_black
-    skin_color: brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: hazel, hair_color: greying_black, skin_color: brown, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Lintayet is a 50-year-old woman who stands 6'1" tall with a heavy build. She has brown skin, graying black hair, and hazel eyes.
+Lintayet is a 50-year-old woman who stands 6'1" tall with a heavy build. She has brown skin, greying black hair, and hazel eyes.
 
 # Dossier {#dossier}
 

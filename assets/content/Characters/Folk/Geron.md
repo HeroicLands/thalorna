@@ -21,18 +21,13 @@ data:
   height: 5' 7"
   weight: 134 lbs
   frame: light
-  appearance:
-    eye_color: hazel
-    hair_color: gray
-    skin_color: dark_brown
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: hazel, hair_color: grey, skin_color: dark_brown, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Geron is a 43-year-old man who stands 5'7" tall with a light build. He has dark brown skin, gray hair, and hazel eyes.
+Geron is a 43-year-old man who stands 5'7" tall with a light build. He has dark brown skin, grey hair, and hazel eyes.
 
 # Dossier {#dossier}
 

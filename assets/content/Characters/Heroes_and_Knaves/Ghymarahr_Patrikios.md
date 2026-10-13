@@ -22,7 +22,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: weathered
     extra_features: [a scar running down the back]
@@ -419,7 +419,7 @@ sohl:
 
 ![[ghymrhrptrks|Ghymâráhr Rorês]]{float=top-left}
 
-Ghymâráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
+Ghymâráhr stands 6'0" tall with a heavy build. He has tanned weathered skin, grey hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, and expressive brows. He has a scar running down his back.
 
 # Dossier {#dossier}
 

@@ -20,8 +20,8 @@ data:
   weight: 174 lbs
   frame: medium
   appearance:
-    eye_color: gray
-    hair_color: graying_brown
+    eye_color: grey
+    hair_color: greying_brown
     skin_color: olive
     complexion: sun_kissed
     extra_features: [a tattoo of a flower on the ankle]

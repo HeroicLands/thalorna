@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: green
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: pale
     complexion: null
     extra_features: []
@@ -416,7 +416,7 @@ sohl:
 
 ![[dmrthsvshrds|Dómrithâs Vîshârdâs]]{float=top-left}
 
-Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, graying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, graying brows, and full cheeks.
+Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, greying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, greying brows, and full cheeks.
 
 # Dossier {#dossier}
 

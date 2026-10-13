@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: tanned
     complexion: weathered
     extra_features: [a tattoo of a snake on the chest]
@@ -424,7 +424,7 @@ sohl:
 
 ![[domthgrvth|Dómeth Gráveth]]{float=top-left}
 
-Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
+Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, greying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, and prominent brows. He has a tattoo of a snake on his chest.
 
 # Dossier {#dossier}
 

@@ -21,7 +21,7 @@ data:
   frame: heavy
   appearance:
     eye_color: blue
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: weathered
     extra_features: [a scar running down the back]
@@ -417,7 +417,7 @@ sohl:
 
 ![[hlskrvblthl|Hlaskorv Blóthöll]]{float=top-left}
 
-Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
+Hlaskorv stands 5'11" tall with a heavy build. He has tanned weathered skin, grey hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, and angular cheeks. He has a scar running down his back.
 
 # Dossier {#dossier}
 

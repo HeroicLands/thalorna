@@ -23,7 +23,7 @@ data:
   frame: heavy
   appearance:
     eye_color: brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: ebony
     complexion: null
     extra_features: []
@@ -415,7 +415,7 @@ sohl:
 
 ![[raiaquuznera|Raiaqu Uzner'Âu]]{float=top-left}
 
-Raiaqu stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
+Raiaqu stands 6'0" tall with a heavy build. He has ebony skin, greying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, and arched brows.
 
 # Dossier {#dossier}
 

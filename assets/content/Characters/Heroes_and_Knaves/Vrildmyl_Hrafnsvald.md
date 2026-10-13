@@ -20,7 +20,7 @@ data:
   weight: 166 lbs
   frame: medium
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: brown
     skin_color: light
     complexion: null
@@ -415,7 +415,7 @@ sohl:
 
 ![[vrldmylhrfnsvld|Vrildmýl Hrafnsvald]]{float=top-left}
 
-Vrildmýl stands 6'0" tall with a medium build. He has light fair skin, brown hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
+Vrildmýl stands 6'0" tall with a medium build. He has light fair skin, brown hair, and grey eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, and hollow cheeks.
 
 # Dossier {#dossier}
 

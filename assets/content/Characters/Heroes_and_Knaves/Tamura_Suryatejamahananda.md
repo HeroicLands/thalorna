@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: amber
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: golden
     complexion: null
     extra_features: [a tattoo of a butterfly on the neck]
@@ -420,7 +420,7 @@ sohl:
 
 ![[tmrsrytjmhnnd|Tamūra Sūryatejamahānanda]]{float=top-left}
 
-Tamūra stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
+Tamūra stands 6'0" tall with a medium build. He has golden brown skin, greying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, and full cheeks. He has a tattoo of a butterfly on his neck.
 
 # Dossier {#dossier}
 

@@ -21,7 +21,7 @@ data:
   frame: light
   appearance:
     eye_color: dark_brown
-    hair_color: gray
+    hair_color: grey
     skin_color: tanned
     complexion: sun_kissed
     extra_features: [a tattoo of a tree on the back]

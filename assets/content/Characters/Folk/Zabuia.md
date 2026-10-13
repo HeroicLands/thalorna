@@ -21,12 +21,7 @@ data:
   height: 5' 3"
   weight: 130 lbs
   frame: light
-  appearance:
-    eye_color: brown
-    hair_color: black
-    skin_color: tawny
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: black, skin_color: tawny, extra_features: []}
   packFolder: regkhfolk
 ---
 

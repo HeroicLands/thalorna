@@ -21,7 +21,7 @@ data:
   frame: scant
   appearance:
     eye_color: amber
-    hair_color: gray
+    hair_color: grey
     skin_color: golden
     complexion: clear
     extra_features: [crooked nose]

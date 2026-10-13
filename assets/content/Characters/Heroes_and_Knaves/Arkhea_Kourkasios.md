@@ -21,7 +21,7 @@ data:
   frame: scant
   appearance:
     eye_color: brown
-    hair_color: gray
+    hair_color: grey
     skin_color: pale
     complexion: wrinkled
     extra_features: [a limp]
@@ -417,7 +417,7 @@ sohl:
 
 ![[arkhekrkss|Arkhêa Kourkásios]]{float=top-left}
 
-Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, gray hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
+Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, grey hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 
 # Dossier {#dossier}
 

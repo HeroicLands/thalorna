@@ -20,7 +20,7 @@ data:
   weight: 190 lbs
   frame: heavy
   appearance:
-    eye_color: gray
+    eye_color: grey
     hair_color: black
     skin_color: fair
     complexion: sun_kissed

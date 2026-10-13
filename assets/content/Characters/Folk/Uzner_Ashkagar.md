@@ -23,16 +23,15 @@ data:
   frame: scant
   appearance:
     eye_color: dark_brown
-    hair_color: graying_black
+    hair_color: greying_black
     skin_color: dark_brown
-    complexion: ""
     extra_features: []
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Uzner Ashkagar is a 46-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, graying black hair, and dark brown eyes.
+Uzner Ashkagar is a 46-year-old woman who stands 5'1" tall with a scant build. She has dark brown skin, greying black hair, and dark brown eyes.
 
 # Dossier {#dossier}
 

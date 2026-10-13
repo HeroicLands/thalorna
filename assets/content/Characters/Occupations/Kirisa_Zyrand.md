@@ -21,7 +21,7 @@ data:
   frame: medium
   appearance:
     eye_color: brown
-    hair_color: graying_brown
+    hair_color: greying_brown
     skin_color: olive
     complexion: sun_kissed
     extra_features: []

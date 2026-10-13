@@ -21,18 +21,13 @@ data:
   height: 5' 7"
   weight: 143 lbs
   frame: light
-  appearance:
-    eye_color: brown
-    hair_color: gray
-    skin_color: ebony
-    complexion: ""
-    extra_features: []
+  appearance: {eye_color: brown, hair_color: grey, skin_color: ebony, extra_features: []}
   packFolder: regkhfolk
 ---
 
 # Appearance {#appearance}
 
-Amqelenset is a 49-year-old man who stands 5'7" tall with a light build. He has ebony skin, gray hair, and brown eyes.
+Amqelenset is a 49-year-old man who stands 5'7" tall with a light build. He has ebony skin, grey hair, and brown eyes.
 
 # Dossier {#dossier}
 
