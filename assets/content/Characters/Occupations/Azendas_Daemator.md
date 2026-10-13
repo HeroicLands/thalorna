@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 4}, florania: {rank: 3}}
+  affiliations: {vylarinmpr: {rank: 4}, lizelas: {rank: 3}}
   gender: male
   species: humanflk
   born: 679.83
@@ -397,15 +397,15 @@ sohl:
 
 Azéndas Dâemâtôr is a 41-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows and give him a measured gaze. He has a straight nose and wide lips. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
 
-The dragon tattooed around his upper arm tells a story he rarely discusses—a coiled beast inked in deep black and rust, the kind of mark men earn in distant wars or mercenary camps. The tattoo has faded with time and sun exposure, its edges softened but unmistakable. Those familiar with such things recognize it as the mark of a soldier, though Azéndas turned toward Flórania's green blessing long ago.
+The dragon tattooed around his upper arm tells a story he rarely discusses—a coiled beast inked in deep black and rust, the kind of mark men earn in distant wars or mercenary camps. The tattoo has faded with time and sun exposure, its edges softened but unmistakable. Those familiar with such things recognize it as the mark of a soldier, though Azéndas turned toward Lîzêlâs's green blessing long ago.
 
 # Dossier {#dossier}
 
 Azéndas did not come to the priesthood by the expected path. Born into a freeman family in rural [[place-vylariargn|Vylaria]], he spent his younger years as what soldiers call a "contract man"—hired out to provincial warlords and trading companies, riding with militia bands across the declining empire's borderlands. The work was brutal, the pay inconsistent, and the cause always uncertain. Somewhere in those blood-soaked years, he learned horsemanship, endurance, and the hard mathematics of survival. The dragon on his arm marked him as a survivor of the Tarûzel campaign, though he was among the fortunate few who escaped before the independence forces overran the eastern province twelve years ago.
 
-As the mercenary roads began to close—as they always do—Azéndas found himself in Tyrellan with few skills but considerable experience and a deep weariness. He took work as a farmhand, then as a steward for a modest estate, learning the cycles of planting and harvest with the intensity he'd once applied to warfare. It was an old priestess of Flórania, seeing the warrior's hands trying to coax life from the soil, who first suggested he had the makings of a healer. That suggestion took root in him like seed in good earth.
+As the mercenary roads began to close—as they always do—Azéndas found himself in Tyrellan with few skills but considerable experience and a deep weariness. He took work as a farmhand, then as a steward for a modest estate, learning the cycles of planting and harvest with the intensity he'd once applied to warfare. It was an old priestess of Lîzêlâs, seeing the warrior's hands trying to coax life from the soil, who first suggested he had the makings of a healer. That suggestion took root in him like seed in good earth.
 
-Now, at forty-five, Azéndas serves the farming communities and villages throughout Tyrellan with the same disciplined commitment he once gave to combat. He oversees the Temple of Flórania's seasonal festivals—the blessing of the fields at spring plowing, the harvest thanksgiving festivals that draw entire villages. His reputation grows not from eloquence—he speaks plainly, sometimes harshly—but from results. Cattle blessed under his rituals rarely sicken. Herbal remedies he compounds ease childbirth complications. Crops tended with Flórania's wisdom flourish even as the imperial roads and works crumble elsewhere. In a realm gradually strangled by economic decline, Azéndas has become essential.
+Now, at forty-five, Azéndas serves the farming communities and villages throughout Tyrellan with the same disciplined commitment he once gave to combat. He oversees the Temple of Lîzêlâs's seasonal festivals—the blessing of the fields at spring plowing, the harvest thanksgiving festivals that draw entire villages. His reputation grows not from eloquence—he speaks plainly, sometimes harshly—but from results. Cattle blessed under his rituals rarely sicken. Herbal remedies he compounds ease childbirth complications. Crops tended with Lîzêlâs's wisdom flourish even as the imperial roads and works crumble elsewhere. In a realm gradually strangled by economic decline, Azéndas has become essential.
 
 Yet the decline troubles him deeply. He watches the imperial roads fall into disrepair, sees fewer merchant caravans arriving in Tyrellan, witnesses the slow starvation of the towns that depended on imperial trade. The farming communities he serves grow more desperate, more vulnerable. He knows that in a dying empire, the priesthood becomes either the last holdfast of civilized order or merely another hungry mouth competing for scraps. He works as a healer and as a bulwark, trying to hold back chaos through old knowledge and care.
 
@@ -421,13 +421,13 @@ What drives Azéndas is the need to make a tangible difference in a collapsing w
 
 ## Social
 
-Azéndas holds the formal rank of Senior Priest of Flórania in the Tyrellan region, answerable nominally to the Temple hierarchy in Vylaria's capital but exercising near-total autonomy in his rural circuits. The Temple trusts him precisely because he asks for so little and delivers consistent results—harvests blessed under his watch feed the temple's institutional charity, and his medical knowledge has become indispensable as Vylaria's formal physicians grow scarce.
+Azéndas holds the formal rank of Senior Priest of Lîzêlâs in the Tyrellan region, answerable nominally to the Temple hierarchy in Vylaria's capital but exercising near-total autonomy in his rural circuits. The Temple trusts him precisely because he asks for so little and delivers consistent results—harvests blessed under his watch feed the temple's institutional charity, and his medical knowledge has become indispensable as Vylaria's formal physicians grow scarce.
 
 Among the farming classes, his standing is unassailable. He is known as a man who keeps his word, who can be trusted with the temple's secrets and a dying person's final wishes. Farmers leave portions of their harvest at the temple not out of blind tradition but because they have seen Azéndas's blessing translate into tangible survival. His status among the free commons is almost aristocratic in its stability.
 
 Yet among the Temple's upper clergy and certainly among Vylaria's senatorial class, he is regarded with a complex mixture of respect and faint dismissal. He is "useful"—a priest who keeps the rural populations fed, calm, and devotional without requiring expensive imperial support. But he carries the stain of his mercenary past (whispered about even now), speaks without courtly refinement, and shows little interest in the intramural politics that consume the capital's priesthood. Some reform-minded priests see his traditional methods and resistance to changing temple practice as reactionary; some of the traditional faction appreciate his steadfastness but find his lack of ambition peculiar.
 
-He is not part of any faction, by design. His alliance is with Flórania and with the farming communities, in that order.
+He is not part of any faction, by design. His alliance is with Lîzêlâs and with the farming communities, in that order.
 
 ## Companions
 
@@ -437,7 +437,7 @@ He is not part of any faction, by design. His alliance is with Flórania and wit
 
 ## Plot Hooks
 
-1. **The Failing Harvest**—A blight spreads through the Tyrellan grain fields despite Azéndas's blessings and remedies, and superstitious farmers begin to whisper that he has lost Flórania's favor. In truth, the blight is something new, perhaps carried on merchant caravans from the dying eastern provinces, and requires him to venture beyond his known methods. He must travel to the capital's great libraries to consult with the Temple's scholars before the community loses faith entirely.
+1. **The Failing Harvest**—A blight spreads through the Tyrellan grain fields despite Azéndas's blessings and remedies, and superstitious farmers begin to whisper that he has lost Lîzêlâs's favor. In truth, the blight is something new, perhaps carried on merchant caravans from the dying eastern provinces, and requires him to venture beyond his known methods. He must travel to the capital's great libraries to consult with the Temple's scholars before the community loses faith entirely.
 
 2. **A Mercenary's Shadow**—A woman arrives in Tyrellan claiming to be the widow of a man Azéndas once fought beside in Tarûzel, and she carries a debt that only he can pay. She needs information about a missing shipment of weapons that may still be cached in the region, and she's willing to destroy his reputation as a man of peace to get it. The life he has built and a blood-debt from his violent past cannot both be honored.
 

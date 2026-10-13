@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [brynhallow]
-  affiliations: {kngdmldrth: {rank: 2}, florania: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.83

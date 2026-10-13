@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [dunmere]
-  affiliations: {kngdmldrth: {rank: 2}, menerva: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, marendas: {rank: 1}}
   gender: female
   species: humanflk
   born: 689.171

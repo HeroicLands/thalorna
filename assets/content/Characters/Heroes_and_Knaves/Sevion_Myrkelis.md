@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {rank: 2}, florania: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.264

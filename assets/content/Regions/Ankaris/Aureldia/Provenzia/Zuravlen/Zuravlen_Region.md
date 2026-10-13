@@ -176,7 +176,7 @@ Portvent are not called to it and do not come. The valley has never entirely for
 distinction neither side chose.
 
 The vigil is a religious occasion as much as an agricultural one. Priests of
-[[affiliation-florania|Flórania]] walk the rows through the night, and it is bad luck and worse manners
+[[affiliation-lizelas|Lîzêlâs]] walk the rows through the night, and it is bad luck and worse manners
 to refuse a call. Baron Álegar's people note, without ever quite saying it, how well the practice sits
 with the Order of the Burning Brand.
 
@@ -185,9 +185,9 @@ with the Order of the Burning Brand.
 Provènzia is [[affiliation-arldnpnthn|Aurèldían]], and Zûravlen's devotion falls naturally to two of
 the Twelve: [[affiliation-olvenia|Ólvenía]], the Bountiful One, whose symbol is a tree hung with
 golden fruit and who is honored at harvest with the first-picked basket of every orchard; and
-[[affiliation-florania|Flórania]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
+[[affiliation-lizelas|Lîzêlâs]], the Nurturer, who owns the blossom and the vigil. The Zûravlen
 hold that the two goddesses divide the year between them, and that Ólvenía gets the credit for what
-Flórania saved.
+Lîzêlâs saved.
 
 Portvent keeps its own observances, which are for the weather and the sea and are not much discussed
 inland.
@@ -215,4 +215,4 @@ over on a small scale, and all of them are written down somewhere that could be 
 ## See Also
 
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]] · [[place-provenzrgn|Provènzia Region]]
-- [[affiliation-olvenia|Faith of Ólvenía]] · [[affiliation-florania|Faith of Flórania]]
+- [[affiliation-olvenia|Faith of Ólvenía]] · [[affiliation-lizelas|Faith of Lîzêlâs]]

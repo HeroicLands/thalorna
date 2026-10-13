@@ -12,7 +12,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [vashuran]
-  affiliations: {kalihara: {rank: 3}, florania: {rank: 1}}
+  affiliations: {kalihara: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 686.76
@@ -491,7 +491,7 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 ### Affiliations
 
 - [[affiliation-kalihara|Kalihara]]: a craftsman's standing among the port Kaliharans. He is a member of the port's Scribes' Guild, upholding its standards and resisting its slide toward serving only those who can pay.
-- [[affiliation-florania|Faith of Flórania]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
+- [[affiliation-lizelas|Faith of Lîzêlâs]]: he keeps the faith of the Nurturer that he learned in the temple school, and his office stands in the old archive of her temple, among the Temple Archive Cooperative of scholars who keep its records.
 - **Free Scribes' Alliance**: a loose fellowship of scribes who have left the guild or the Registry to work for themselves, who share methods and help each other with hard commissions.
 
 ## Plot Hooks

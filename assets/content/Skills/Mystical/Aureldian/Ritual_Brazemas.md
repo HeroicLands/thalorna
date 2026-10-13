@@ -1,10 +1,10 @@
 ---
-shortcode: menerva
-name: {full: "Ritual: Menerva", aliases: [Ménérva, Keeper of Sacred Wisdom]}
+shortcode: brazemas
+name: {full: "Ritual: Brâzêmâs", aliases: [Brâzêmâs, The Thunderer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
-data: {icon: menerva, templatePriority: null, packFolder: aureldian}
+data: {icon: brazemas, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-menerva|Faith of Menerva]]
+See [[affiliation-brazemas|Faith of Brâzêmâs]]

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 3}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 3}}
   gender: male
   species: humanflk
   born: 675.108
@@ -84,7 +84,7 @@ sohl:
     - name: Leather satchel for ritual items
       type: miscgear
       system: {shortcode: leathersatchel, weight: 1.5, value: 100, durability: 3}
-    - name: Sacred texts of Flórania (fire aspect)
+    - name: Sacred texts of Lîzêlâs (fire aspect)
       type: miscgear
       system: {shortcode: sacredtexts, weight: 1.5, value: 200, durability: 3}
     - name: Incense and ritual offerings (various)
@@ -433,11 +433,11 @@ Bokhenôn was born to a merchant family in the bustling ports of the Byzarian Le
 
 ### The Calling
 
-Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenôn experienced a revelation. The priests of Flórania emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenôn underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
+Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Bokhenôn experienced a revelation. The priests of Lîzêlâs emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Bokhenôn underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
 ### Present Standing
 
-As a high-ranking priest of Flórania's fire aspect, Bokhenôn serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
+As a high-ranking priest of Lîzêlâs's fire aspect, Bokhenôn serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
 
 ## Psyche
 
@@ -447,7 +447,7 @@ Bokhenôn is a man of paradox: brutal honesty wed to calculated charm, the ferve
 
 ### Motivation
 
-Bokhenôn seeks redemption through unwavering service to Flórania, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
+Bokhenôn seeks redemption through unwavering service to Lîzêlâs, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
 
 ### Strengths
 
@@ -488,7 +488,7 @@ The Apostate Priests of Darkness
 
 ### Affiliations
 
-Church of Flórania (Fire Aspect)
+Church of Lîzêlâs (Fire Aspect)
 : High-ranking priest and architect of military-religious cooperation
 
 Byzarian Military Council

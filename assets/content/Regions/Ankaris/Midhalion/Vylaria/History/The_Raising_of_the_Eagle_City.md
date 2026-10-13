@@ -18,7 +18,7 @@ data:
       depth: region
       sources: [place-urbsaquiln, place-monsaquila, place-sixhillsvyl, place-orzara]
       summary: >-
-        The first Augustar walls the crown of Mons Aquila above the galleries sealed in 45 BF, builds the Curia and the Castra inside the new wall, and moves the Senate up from its old hall on Mons Vétus. He walks and consecrates the pomerium around the whole of the Six Hills and gives the city the name Ôrzâra. The Republic's capital becomes the Old Hill, and the hill above it becomes the seat of the throne. A colossal statue of the Founder is raised in the Circle before the new gate to preside over accessions and triumphs.
+        The first Augustar walls the crown of Mons Aquila above the galleries sealed in 45 BF, builds the Curia and the Guard Camp inside the new wall, and moves the Senate up from its old hall on Mons Vétus. He walks and consecrates the pomerium around the whole of the Six Hills and gives the city the name Ôrzâra. The Republic's capital becomes the Old Hill, and the hill above it becomes the seat of the throne. A colossal statue of the Founder is raised in the Circle before the new gate to preside over accessions and triumphs.
       standing: reconstructed
       names:
         - name: the Eagle City
@@ -68,7 +68,7 @@ Before the Empire, the city of the Republic stood on [[place-sixhillsvyl|Mons V�
 
 ## The Walling
 
-The first Augustar ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Mons Aquila in the ring that stands there now, and built the Curia and the Castra inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a senator reading the Curia's rules of debate is reading the Republic's, set down in the same words and carried uphill.
+The first Augustar ([[lore-thefounding|The Founding]]) took the opposite view. Within the first dozen years of his reign his engineers walled the crown of Mons Aquila in the ring that stands there now, and built the Curia and the Guard Camp inside it. The galleries beneath were left sealed, and the palace was founded over them. When the wall closed, the Senate walked up from the Old Hill in procession, carrying its forms and its records with it. It has sat on the Eagle Hill since, and a senator reading the Curia's rules of debate is reading the Republic's, set down in the same words and carried uphill.
 
 He then had the pomerium walked and consecrated, the sacred line that bounds the city in law, so that it ran around all six hills, and he gave the whole the name **Ôrzâra**. From this point the name covers everything the line encloses.
 

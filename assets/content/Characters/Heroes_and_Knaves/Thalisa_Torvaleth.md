@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 2}, taranon: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 2}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: "693.110"

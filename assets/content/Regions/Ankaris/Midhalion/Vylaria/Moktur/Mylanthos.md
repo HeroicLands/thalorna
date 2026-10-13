@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [moktur], government: provncmktr, packF
 
 ## Overview
 
-Mylânthos is a farming village on the rural circuit of [[place-tyrellan|Tyrellan]] in [[place-moktur|Moktur]], and one of the places [[being-azendsdmtr|Azéndas Dâemâtôr]], Senior Priest of [[affiliation-florania|Flórania]] in the Tyrellan region, visits on his rounds. Its farmers leave part of their harvest at the temple, and they do it because they have seen the priest's blessing turn into a harvest that keeps them alive.
+Mylânthos is a farming village on the rural circuit of [[place-tyrellan|Tyrellan]] in [[place-moktur|Moktur]], and one of the places [[being-azendsdmtr|Azéndas Dâemâtôr]], Senior Priest of [[affiliation-lizelas|Lîzêlâs]] in the Tyrellan region, visits on his rounds. Its farmers leave part of their harvest at the temple, and they do it because they have seen the priest's blessing turn into a harvest that keeps them alive.
 
 ## The Elder
 

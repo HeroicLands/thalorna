@@ -11,7 +11,7 @@ data:
   occupation: Herald
   lore: []
   culture: vylarianclt
-  homes: [valdosta]
+  homes: [polthara]
   affiliations: {vylarinmpr: {rank: 6}}
   gender: male
   species: humanflk

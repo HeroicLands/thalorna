@@ -20,7 +20,7 @@ data: {packFolder: adventurersguides, culture: provenzianclt}
 
 Manners here are ornate, indirect and fast. A compliment is a coin of exchange, a direct refusal is a discourtesy, and an exact and cutting thing can be said inside the ornament where another Provenzian hears it perfectly. The code of courtly love governs far more than romance: it is how patronage is negotiated without either side saying the ugly part aloud. Dress, table and house are the public record of a family's standing, and a family that lets them slip is known to be in trouble before anyone has seen its books.
 
-Learning is prized, and rhetoric above all. The academies of the great cities teach natural philosophy, law and the magical arts, and the [[affiliation-ordoarcanis|Ordo Arcanis]] works openly here under royal oversight. Temples to [[affiliation-arldnpnthn|Ménérva]] and [[affiliation-arldnpnthn|Ólvenía]] double as galleries and concert halls. The coin is [[lore-vylrncrncy|Vylarian]]: the Aurion, the Argo and the Bit.
+Learning is prized, and rhetoric above all. The academies of the great cities teach natural philosophy, law and the magical arts, and the [[affiliation-ordoarcanis|Ordo Arcanis]] works openly here under royal oversight. Temples to [[affiliation-arldnpnthn|Mârendâs]] and [[affiliation-arldnpnthn|Ólvenía]] double as galleries and concert halls. The coin is [[lore-vylrncrncy|Vylarian]]: the Aurion, the Argo and the Bit.
 
 ## Where to Go
 

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [sazumun2]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, taranon: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 694.67

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karvashion2]
-  affiliations: {byzarianlg: {rank: 3}, menerva: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: "668.32"
@@ -466,7 +466,7 @@ Lord Harren of the frontier
 The Kozna Collective of Woodsmen
 : A loose association of trappers and hunters who, while maintaining distance from Mivios, regularly defer difficult contracts to him and pay extraordinary rates for his skill.
 
-Brother Selvak of Ménérva's Monastery
+Brother Selvak of Mârendâs's Monastery
 : A monk keeper who acknowledges that Mivios's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
 ### Enemies

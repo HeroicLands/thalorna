@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [pelagora2]
-  affiliations: {pelagora: {rank: 4}, menerva: {rank: 1}}
+  affiliations: {pelagora: {rank: 4}, marendas: {rank: 1}}
   gender: female
   species: humanflk
   born: 695.102

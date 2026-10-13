@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karvashion2]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 658.162
@@ -467,7 +467,7 @@ Arkhêa no longer operates from personal ambition; that luxury departed decades 
 
 ### Patrons
 
-Mother Superior Thessala of the House of Flórania
+Mother Superior Thessala of the House of Lîzêlâs
 : The abbess of a local convent dedicated to fertility, growth, and mercy periodically provides shelter and food to Arkhêa. They share a spiritual understanding despite their vastly different circumstances.
 
 Merchant's Widow Kraria Margikos
@@ -489,7 +489,7 @@ Zerárzan
 The Unseen Community
 : Arkhêa is an elder figure among the city's street-dwellers, respected for her longevity and wisdom.
 
-The Order of Flórania (Fertility Aspect)
+The Order of Lîzêlâs (Fertility Aspect)
 : Despite her poverty, she maintains spiritual practice and occasional participation in informal worship gatherings.
 
 ## Plot Hooks

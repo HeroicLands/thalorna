@@ -16,7 +16,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [tarvenirgn]
-  affiliations: {kingdmtrvn: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 4}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.282
@@ -101,7 +101,7 @@ sohl:
     - name: Whetstone for blade maintenance
       type: miscgear
       system: {shortcode: whetstoneforblade, weight: 1, value: 100, durability: 3}
-    - name: Small holy icon (Táranon)
+    - name: Small holy icon (Brâzêmâs)
       type: miscgear
       system: {shortcode: smallholyicon, weight: 1, value: 100, durability: 3}
     - {model: sohl-sohl-containergear-wtrskin}

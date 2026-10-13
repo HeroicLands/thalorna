@@ -11,8 +11,8 @@ data:
   occupation: Cartographer/Artist
   lore: []
   culture: vylarianclt
-  homes: [valdosta]
-  affiliations: {vylarinmpr: {rank: 5}, menerva: {rank: 1}}
+  homes: [polthara]
+  affiliations: {vylarinmpr: {rank: 5}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: 681.88

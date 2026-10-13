@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [thornbury]
-  affiliations: {repblcndrth: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {repblcndrth: {rank: 4}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: "676.28"

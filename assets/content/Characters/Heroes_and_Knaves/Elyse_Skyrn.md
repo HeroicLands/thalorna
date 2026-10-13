@@ -16,7 +16,7 @@ data:
     slntlncmpny: {rank: 3}
     ordoarcanis: {rank: 3}
     kngdmlvndr: {rank: 2}
-    menerva: {rank: 1}
+    marendas: {rank: 1}
   gender: female
   species: humanflk
   born: 693.329

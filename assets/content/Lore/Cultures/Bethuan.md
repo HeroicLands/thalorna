@@ -63,11 +63,11 @@ A Bethûan can point to the things that make the order work. **The Purple Veil**
 
 ## The Goddesses on the Bench
 
-Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Árdavon, a smith to the Sacred Forge, a sailor to Táranon. What is distinctively Bethûan is the state cult.
+Bethûans keep the Aurèldían pantheon, the same gods venerated across much of the world, and they venerate both sexes freely—a warrior prays to Árdavon, a smith to the Sacred Forge, a sailor to Brâzêmâs. What is distinctively Bethûan is the state cult.
 
 Sacred authority descends through goddesses: Lúsinía of creation and beauty, who is the sovereign's own patron; Zûnêlâs of dreams and the unseen; Ólvenía of prosperity and pleasure. Those three orders anchor the realm's sacred government, and the Mêtríssa rules as a high priestess of a goddess. The gods men favor are honored in their temples and have no place on that bench, and no Bethûan finds this any stranger than that a fisherman does not sit in the Council of Houses.
 
-An ordinary Bethûan's observance is the practical kind. A merchant spends the night before a contract at an Ólvenía shrine and brings a portion of a good profit back to the altar. A sailor keeps a small shrine to Táranon aboard and offers the first portion of a meal. A woman heavy with child goes to the temples of Lúsinía, where the priestesses tend gardens, herbs and midwifery. A House asks the oracle of Zûnêlâs when a decision turns on what cannot be seen. The Sélmoran priesthood buries the House's dead.
+An ordinary Bethûan's observance is the practical kind. A merchant spends the night before a contract at an Ólvenía shrine and brings a portion of a good profit back to the altar. A sailor keeps a small shrine to Brâzêmâs aboard and offers the first portion of a meal. A woman heavy with child goes to the temples of Lúsinía, where the priestesses tend gardens, herbs and midwifery. A House asks the oracle of Zûnêlâs when a decision turns on what cannot be seen. The Sélmoran priesthood buries the House's dead.
 
 ## The Year at Sea and Ashore
 

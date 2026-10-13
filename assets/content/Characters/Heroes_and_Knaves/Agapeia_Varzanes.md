@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [kostaros]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 692.39
@@ -426,7 +426,7 @@ Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark h
 
 ### The Mines of Byzar
 
-Agápeia was born in the mining towns of the [[affiliation-byzarianlg|Byzarian League]], where her clan—the Varzánês—had worked the mineral-rich depths for generations. Her parents, both experienced miners themselves, taught her the fundamental truths of their world: respect the earth, read the stone, listen to the mountain. Unlike many miners who view their work as mere labor, the Varzánês held to the old ways of reverence for Flórania in her aspect as the fertile generator of all material abundance. Agápeia's mother, Istâ Varzánês, was herself known for her ability to sense mineral deposits and to extract precious stones with minimal waste—a gift that seemed almost intuitive. Her father, Korlâ, brought a more methodical approach, understanding the engineering principles that prevented cave-ins and got more stone out for less labor.
+Agápeia was born in the mining towns of the [[affiliation-byzarianlg|Byzarian League]], where her clan—the Varzánês—had worked the mineral-rich depths for generations. Her parents, both experienced miners themselves, taught her the fundamental truths of their world: respect the earth, read the stone, listen to the mountain. Unlike many miners who view their work as mere labor, the Varzánês held to the old ways of reverence for Lîzêlâs in her aspect as the fertile generator of all material abundance. Agápeia's mother, Istâ Varzánês, was herself known for her ability to sense mineral deposits and to extract precious stones with minimal waste—a gift that seemed almost intuitive. Her father, Korlâ, brought a more methodical approach, understanding the engineering principles that prevented cave-ins and got more stone out for less labor.
 
 ### Coming of Age in Darkness
 
@@ -434,11 +434,11 @@ From early childhood, Agápeia worked the mines alongside her parents. By her te
 
 ### Independent Prospector
 
-At twenty-two, Agápeia claimed her independence and began working as a self-employed prospector, moving between the various mining operations of the Byzarian League. Her reputation for both skill and fairness grew steadily. She became known for finding deposits that others had missed, for working safety-conscious operations that experienced fewer accidents than average, and for treating her small crews with a fairness unusual in the harsh mining trade. Her devotion to Flórania—seeing in the fertility goddess the generative power of the earth itself—shaped her approach: she took what was needed but refused to waste, gave thanks for the earth's abundance, and invested back into her community. By twenty-eight, she had amassed modest wealth and had been offered—but declined—several positions as a manager or coordinator for larger mining operations. She preferred the freedom and direct connection to her work that independence provided.
+At twenty-two, Agápeia claimed her independence and began working as a self-employed prospector, moving between the various mining operations of the Byzarian League. Her reputation for both skill and fairness grew steadily. She became known for finding deposits that others had missed, for working safety-conscious operations that experienced fewer accidents than average, and for treating her small crews with a fairness unusual in the harsh mining trade. Her devotion to Lîzêlâs—seeing in the fertility goddess the generative power of the earth itself—shaped her approach: she took what was needed but refused to waste, gave thanks for the earth's abundance, and invested back into her community. By twenty-eight, she had amassed modest wealth and had been offered—but declined—several positions as a manager or coordinator for larger mining operations. She preferred the freedom and direct connection to her work that independence provided.
 
 ### Present Circumstances
 
-Agápeia currently operates between the larger mining settlements of the Byzarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of Flórania, put her at odds with the present direction of Byzarian mining, and she is quietly considering what action—if any—she should take in response.
+Agápeia currently operates between the larger mining settlements of the Byzarian League, often taking on difficult prospecting jobs that others consider too dangerous or speculative. She maintains good relationships with local mining companies and jewelers who prize her ability to source high-quality stones reliably. However, she has grown increasingly troubled by developments in her trade: the great mining houses are pushing out independent miners, the newer mining magnates show no reverence for the earth and instead pursue reckless extraction that causes collapses and environmental devastation, and she has begun to suspect that some of the major mining operations are engaged in dangerous practices to extract rare magical materials. Her moral convictions, rooted in the teachings of Lîzêlâs, put her at odds with the present direction of Byzarian mining, and she is quietly considering what action—if any—she should take in response.
 
 ## Psyche
 
@@ -450,7 +450,7 @@ She carries herself like someone who is skilled at her work and does not feel th
 
 ### Motivation
 
-Agápeia is driven by a desire for autonomy and meaningful work that connects her directly to the world around her. She does not seek wealth for its own sake, but she values the security that honest work and fair compensation provide. More fundamentally, she is motivated by her faith in Flórania and what she perceives as a sacred responsibility to be a good steward of the earth's riches. She is increasingly troubled by the direction of her trade and by the complicity she shares—simply by continuing to participate in conventional mining—with practices she finds morally objectionable. She seeks a way to remain true to her vocation while honoring the deeper principles she holds, and this internal conflict is beginning to push her toward a more active response to the crises she sees mounting in the Byzarian League.
+Agápeia is driven by a desire for autonomy and meaningful work that connects her directly to the world around her. She does not seek wealth for its own sake, but she values the security that honest work and fair compensation provide. More fundamentally, she is motivated by her faith in Lîzêlâs and what she perceives as a sacred responsibility to be a good steward of the earth's riches. She is increasingly troubled by the direction of her trade and by the complicity she shares—simply by continuing to participate in conventional mining—with practices she finds morally objectionable. She seeks a way to remain true to her vocation while honoring the deeper principles she holds, and this internal conflict is beginning to push her toward a more active response to the crises she sees mounting in the Byzarian League.
 
 ### Strengths
 
@@ -486,7 +486,7 @@ Master Jeweler Sâvâlî
 Overseer Dûrûm
 : Her former mentor, still active in the major mining operations, who refers her specialized prospecting jobs and occasionally provides her with information about emerging deposits and developments in the trade.
 
-The Clergy of Flórania
+The Clergy of Lîzêlâs
 : The local temple of the fertility goddess, which employs Agápeia informally to source materials for ritual work and maintains a small stipend in support of her mission to practice mining with spiritual reverence.
 
 ### Enemies
@@ -502,7 +502,7 @@ The Órashion Consortium
 The Byzarian Miners' Free Union
 : Agápeia maintains membership in the independent miners' collective, which provides mutual support and advocacy for prospectors working outside the major operations. She contributes to their fund and occasionally participates in union activities, though she is not a leader within the organization.
 
-The Temple of Flórania
+The Temple of Lîzêlâs
 : She maintains active spiritual affiliation and participates in seasonal celebrations and rituals, and occasionally guides temple-sanctioned expeditions into the sacred mineral sites.
 
 ## Plot Hooks
@@ -511,7 +511,7 @@ The Temple of Flórania
 
 2. **The Escaped Crew**: One of Agápeia's former crews—miners she trained and sent out to work for one of the larger operations—sends word that they are fleeing their current employment. They have discovered that their operation is engaged in the extraction of something dangerous and unnatural, something that they believe is literally damaging the earth in ways that cause tremors and subsidence. They need Agápeia's help to escape with evidence of what is happening and to find refuge away from the Consortium's reach. Helping them would mean taking direct action against powerful interests.
 
-3. **The Cavern Below**: Agápeia is hired by the Temple of Flórania to conduct a survey of the deepest sacred caverns, areas that have not been thoroughly explored in generations. The temple fears that secular mining operations may have broken through into these spaces, and they want an assessment of the damage and current conditions. What Agápeia discovers is that the deepest caverns are not empty—they contain evidence of previous habitation, possibly by an ancient civilization, and they contain unusual geological formations that seem to defy natural explanation. Some of these formations pulse with residual magical energy. She can report her discoveries to the temple or to secular authorities, or keep the information to herself.
+3. **The Cavern Below**: Agápeia is hired by the Temple of Lîzêlâs to conduct a survey of the deepest sacred caverns, areas that have not been thoroughly explored in generations. The temple fears that secular mining operations may have broken through into these spaces, and they want an assessment of the damage and current conditions. What Agápeia discovers is that the deepest caverns are not empty—they contain evidence of previous habitation, possibly by an ancient civilization, and they contain unusual geological formations that seem to defy natural explanation. Some of these formations pulse with residual magical energy. She can report her discoveries to the temple or to secular authorities, or keep the information to herself.
 
 4. **The Merchant's Gamble**: A wealthy merchant named Korvûm Silvertongue approaches Agápeia with a proposition. He wants to finance a major expedition into unexplored territory to the north, where ancient geological surveys suggest enormous deposits of emerald and other precious gems might exist. He needs her skill in prospecting and her reputation for reliable and safe operations. The pay is substantial—enough to fund her own independent operation for years. However, Korvûm is vague about his financing sources, and Agápeia's instincts suggest that at least some of his backing comes from interests aligned with the Órashion Consortium. The expedition would take her away from the Byzarian League for months, potentially making her unavailable to her existing clients and allies. It also risks her reputation if the expedition is associated with the Consortium's activities.
 

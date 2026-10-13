@@ -9,12 +9,12 @@ data:
   culture: vylarianclt
   epoch: "1.1"
   months:
-    - {name: Floralis, abbreviation: Flor, days: 30}
+    - {name: Lîzêlândi, abbreviation: Lize, days: 30}
     - {name: Lusenar, abbreviation: Luse, days: 31}
     - {name: Pôzêrândi, abbreviation: Poze, days: 30}
-    - {name: Taranis, abbreviation: Tara, days: 31}
+    - {name: Brâzêmândi, abbreviation: Braz, days: 31}
     - {name: Thûmbândi, abbreviation: Thum, days: 30}
-    - {name: Menaris, abbreviation: Mena, days: 31}
+    - {name: Mârendândi, abbreviation: Mare, days: 31}
     - {name: Elthêzândi, abbreviation: Elth, days: 30}
     - {name: Karnavar, abbreviation: Karn, days: 30}
     - {name: Morveth, abbreviation: Morv, days: 31}
@@ -53,11 +53,11 @@ data:
 
 A temple calendar-keeper teaches a novice the Vylarian Calendar in one afternoon, and starts with what never moves: "Learn the four days that stand still, child. The year can slip anywhere else, but the sky does not. Everything else is arithmetic."
 
-The **Vylarian Calendar** counts twelve months from Floralis to Kâlpêzândi, running thirty and thirty-one days by turns and breaking that turn once, where Elthêzândi and Karnavar both run thirty. The twelve sum to a full solar year. Floralis opens on the vernal equinox, and the calendar's own name for that day is **1 Floralis**.
+The **Vylarian Calendar** counts twelve months from Lîzêlândi to Kâlpêzândi, running thirty and thirty-one days by turns and breaking that turn once, where Elthêzândi and Karnavar both run thirty. The twelve sum to a full solar year. Lîzêlândi opens on the vernal equinox, and the calendar's own name for that day is **1 Lîzêlândi**.
 
-Four days in the year are fixed and never move: the vernal equinox on **1 Floralis**, the summer solstice on **1 Thûmbândi**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 Kalmêthândi**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
+Four days in the year are fixed and never move: the vernal equinox on **1 Lîzêlândi**, the summer solstice on **1 Thûmbândi**, the autumnal equinox on **1 Karnavar**, and the winter solstice on **1 Kalmêthândi**. Each quarter opens a month rather than falling inside one, and nothing in the calendar drifts, so the same four dates carry the same four events in every year.
 
-The seasons are a different division from the quarter days, and confusing the two is the commonest error in reading a Vylarian date. A season is a plain quarter of the year's days, counted off from **1 Floralis**: spring takes the first ninety-one, summer the next ninety-one, fall the ninety-one after that, winter the rest. A quarter day is an event of the sky, and it lands where the sky puts it—**1 Thûmbândi** three weeks into summer, **1 Karnavar** three weeks into fall. The tax year runs on the seasons, the temple year on the quarter days. "Midsummer" therefore names two different weeks depending on which office says it.
+The seasons are a different division from the quarter days, and confusing the two is the commonest error in reading a Vylarian date. A season is a plain quarter of the year's days, counted off from **1 Lîzêlândi**: spring takes the first ninety-one, summer the next ninety-one, fall the ninety-one after that, winter the rest. A quarter day is an event of the sky, and it lands where the sky puts it—**1 Thûmbândi** three weeks into summer, **1 Karnavar** three weeks into fall. The tax year runs on the seasons, the temple year on the quarter days. "Midsummer" therefore names two different weeks depending on which office says it.
 
 Years are reckoned **After the Founding (AF)**, from the year [[affiliation-vylarinmpr|Vylaria]]'s Senate gave way to its first Emperor. That year is **1 AF**; the present year is **720 AF**. An event before it is dated **Before the Founding (BF)**.
 
@@ -69,14 +69,14 @@ Beyond that sphere, other peoples keep their own count and do not translate into
 
 ## The Months
 
-Each month belongs to one of the Twelve. Six carry an old form of the god's name, and six are named in [[skill-vylarilng|Vylari]] with the hallowed locative _-ândi_, "in the keeping of": two for their gods, and four for the god's gift.
+Each month belongs to one of the Twelve. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vylari]] with the hallowed locative _-ândi_, "in the keeping of": five for their gods, and four for the god's gift.
 
-1. **Floralis** (30 days)—the year opens here, on the vernal equinox.
+1. **Lîzêlândi** (30 days)—in the keeping of Lîzêlâs, the Nurturer; the year opens here, on the vernal equinox.
 2. **Lusenar** (31 days)
 3. **Pôzêrândi** (30 days)—in the keeping of Pôzêrâs, the Wayfarer.
-4. **Taranis** (31 days)
+4. **Brâzêmândi** (31 days)—in the keeping of Brâzêmâs, the Thunderer.
 5. **Thûmbândi** (30 days)—the forge's month, for Ústaron; the summer solstice falls on its first day.
-6. **Menaris** (31 days)
+6. **Mârendândi** (31 days)—in the keeping of Mârendâs, Keeper of Sacred Wisdom.
 7. **Elthêzândi** (30 days)—the gold's month, for Ólvenía.
 8. **Karnavar** (30 days)—the autumnal equinox falls on its first day.
 9. **Morveth** (31 days)

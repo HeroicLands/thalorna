@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [theradon2]
-  affiliations: {theradon: {rank: 4}, menerva: {rank: 1}}
+  affiliations: {theradon: {rank: 4}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: 679.81

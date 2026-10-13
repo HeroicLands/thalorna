@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [corvinus]
-  affiliations: {provinclys: {rank: 4}, florania: {rank: 1}}
+  affiliations: {provinclys: {rank: 4}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 691.102
@@ -440,7 +440,7 @@ Her apprenticeship culminated in an extraordinary achievement: at age twenty, sh
 
 Now twenty-nine, Ailêmâ operates a well-established scribal practice in Alyssa. She maintains a small workshop where she takes on commissions ranging from legal documents and historical transcriptions to artistic illuminated texts and personal correspondence for the nobility. Her reputation for quality and reliability is such that clients know that when they commission work from Ailêmâ Kêrîamyês, it will be completed on schedule, to exacting standards, and with the kind of attention to detail that justifies the premium prices she commands. Her income is substantial, though much of it is reinvested in maintaining her workshop and acquiring the finest materials.
 
-However, Ailêmâ has begun to feel a growing dissatisfaction. Her perfectionism, once a strength, has begun to feel like a cage. She finds herself endlessly revising and perfecting commissions, unable to declare them truly "finished" even when objectively they surpass client expectations. She has begun to wonder whether her devotion to Flórania—the fertility goddess whose aspect encompasses growth, change, and the cycles of life—has been eclipsed by her fixation on creating permanent, unchanging perfection. She is increasingly aware that her personal life has atrophied: she has few close relationships, no romantic attachments, and her world has shrunk to encompass primarily her workshop and her clients.
+However, Ailêmâ has begun to feel a growing dissatisfaction. Her perfectionism, once a strength, has begun to feel like a cage. She finds herself endlessly revising and perfecting commissions, unable to declare them truly "finished" even when objectively they surpass client expectations. She has begun to wonder whether her devotion to Lîzêlâs—the fertility goddess whose aspect encompasses growth, change, and the cycles of life—has been eclipsed by her fixation on creating permanent, unchanging perfection. She is increasingly aware that her personal life has atrophied: she has few close relationships, no romantic attachments, and her world has shrunk to encompass primarily her workshop and her clients.
 
 ## Psyche
 
@@ -506,7 +506,7 @@ The Merchant-Bureaucrats of Trade
 [[affiliation-imprlscrblgld|The Imperial Scribal Guild]]
 : Ailêmâ maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
 
-The Temple of Flórania
+The Temple of Lîzêlâs
 : She participates sporadically in temple activities and maintains a nominal spiritual affiliation with the fertility goddess. However, her engagement with the temple has been minimal compared to her earlier years, a fact that occasionally troubles her conscience.
 
 ## Plot Hooks
@@ -515,7 +515,7 @@ The Temple of Flórania
 
 2. **The Cipher Protocol**: A mysterious stranger—who may be an Imperial agent, a criminal, or something else entirely—approaches Ailêmâ with a request. He requires her to transcribe a series of documents that are written in code. The content of the actual text is hidden, but from the patterns and structure, Ailêmâ suspects these are military or political communications of considerable sensitivity. He offers payment that would allow her to fund her workshop for five years with no commissions, but he makes clear that if she discusses this work with anyone, there will be consequences. Her pride in her abilities and her intellectual curiosity war against her moral discomfort with whatever she is helping facilitate. What she gradually uncovers is that the cipher work involves identifying and tracking dissidents within the Empire—people whose only crime is philosophical disagreement with imperial doctrine.
 
-3. **The Restoration of the Forgotten Archive**: The Temple of Flórania hires Ailêmâ to restore and catalog an ancient archive of temple documents that have been stored in poor conditions for generations. The texts include religious writings, spiritual practices, and historical records of the temple's activities across centuries. As she works through the documents, she discovers something troubling: there is clear evidence that the modern practice and theology of the temple differs significantly from the original teachings of Flórania as understood in earlier centuries. She also finds hints that the temple deliberately suppressed certain texts and altered others. She discovers that her own mentor, the now-elderly Vexillus, may have been directly involved in this suppression decades ago. She can suppress what she has discovered, expose it and devastate the temple and her mentor, or find some middle path.
+3. **The Restoration of the Forgotten Archive**: The Temple of Lîzêlâs hires Ailêmâ to restore and catalog an ancient archive of temple documents that have been stored in poor conditions for generations. The texts include religious writings, spiritual practices, and historical records of the temple's activities across centuries. As she works through the documents, she discovers something troubling: there is clear evidence that the modern practice and theology of the temple differs significantly from the original teachings of Lîzêlâs as understood in earlier centuries. She also finds hints that the temple deliberately suppressed certain texts and altered others. She discovers that her own mentor, the now-elderly Vexillus, may have been directly involved in this suppression decades ago. She can suppress what she has discovered, expose it and devastate the temple and her mentor, or find some middle path.
 
 4. **The Duchess's Secret**: A high noblewoman, Duchess Minerva d'Alyss, commissions Ailêmâ for a delicate task: she wants certain personal correspondence transcribed into a specialized cipher, hidden within illuminated texts that appear to be innocent religious documents. The duchess hints that this work is necessary to protect herself from political enemies and that failure to complete it would leave her vulnerable. The implicit threat is clear, though never directly stated. Ailêmâ's work would effectively create documents that could be used to deceive or manipulate others. However, the duchess is sympathetic in some ways—she has little standing against the men who hold power around her, and her enemies are dangerous. Ailêmâ finds herself drawn into the dangerous world of imperial politics, where her skills with documents and ciphers become valuable to several factions willing to go to great lengths to secure her loyalty.
 

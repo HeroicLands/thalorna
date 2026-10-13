@@ -11,8 +11,8 @@ data:
   occupation: Physician
   lore: []
   culture: vylarianclt
-  homes: [valdosta]
-  affiliations: {vylarinmpr: {rank: 5}, florania: {rank: 1}}
+  homes: [polthara]
+  affiliations: {vylarinmpr: {rank: 5}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 676.162

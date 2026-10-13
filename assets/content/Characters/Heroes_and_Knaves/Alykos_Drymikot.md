@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [chrysamar]
-  affiliations: {byzarianlg: {rank: 3}, menerva: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: "667.130"

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [karvashion2]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 681.88

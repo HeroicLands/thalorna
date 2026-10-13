@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {rank: 4}, florania: {rank: 1}}
+  affiliations: {korinthea: {rank: 4}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 674.41

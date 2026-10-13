@@ -12,7 +12,7 @@ data:
   lore: []
   culture: aelwythanclt
   homes: [kingsholow]
-  affiliations: {kngdmldrth: {rank: 2}, taranon: {rank: 1}}
+  affiliations: {kngdmldrth: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: "696.12"

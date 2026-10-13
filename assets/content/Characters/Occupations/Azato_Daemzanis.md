@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [tyrellan]
-  affiliations: {vylarinmpr: {rank: 5}, menerva: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 5}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: 670.147
@@ -430,7 +430,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 **Senator Marcus Valerion**—The most influential of the three senior senators who govern Tyrellan, Valerion has become Azatô's primary patron over the past twelve years. Their relationship is transactional and carefully maintained: Valerion funds Azatô's mineral research with the expectation of first access to any compounds of use in war or manufacture. Azatô has learned to deliver results that satisfy this arrangement while keeping his most proprietary discoveries sequestered.
 
-**Brother Aurelius**—A Ménérvan priest of the Temple of Wisdom in Tyrellan, Aurelius is confessor to several Epistemium scholars and has become one of the few people Azatô engages with something approaching candor. Their conversations occur monthly and ostensibly concern theological matters, but both understand that Aurelius is a necessary anchor, keeping Azatô's detachment from slipping into something worse. Brother Aurelius harbors no illusions about his colleague's capacity for warmth; he simply views the work as maintaining a brilliant mind in sufficient equilibrium to continue contributing to human knowledge.
+**Brother Aurelius**—A Mârendâsan priest of the Temple of Wisdom in Tyrellan, Aurelius is confessor to several Epistemium scholars and has become one of the few people Azatô engages with something approaching candor. Their conversations occur monthly and ostensibly concern theological matters, but both understand that Aurelius is a necessary anchor, keeping Azatô's detachment from slipping into something worse. Brother Aurelius harbors no illusions about his colleague's capacity for warmth; he simply views the work as maintaining a brilliant mind in sufficient equilibrium to continue contributing to human knowledge.
 
 **Azène Armendánis**—A merchant's widow of lower equestrian standing, Azène manages her late husband's trading concerns and has contracted with Azatô for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Oswin Crey and believes him to be a scholar-merchant of independent means. Their dealings have remained stable precisely because no personal connection threatens it.
 

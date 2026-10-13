@@ -11,7 +11,7 @@ data:
   occupation: Thespian
   lore: []
   culture: vylarianclt
-  homes: [valdosta]
+  homes: [polthara]
   affiliations: {provnchyln: {rank: 3}, sacredforge: {rank: 1}}
   gender: male
   species: humanflk

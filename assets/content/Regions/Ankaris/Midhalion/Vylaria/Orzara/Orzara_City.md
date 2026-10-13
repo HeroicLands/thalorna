@@ -37,11 +37,11 @@ The idealized maps show a neat ringed city, and Ôrzâra is nothing of the kind.
 Highest and chief is [[place-monsaquila|Mons Aquila]], the Eagle Hill, crowned by the walled [[place-urbsaquiln|Inner City]] and the [[place-palatimgnm|Grand Palace]]—the literal and figurative summit of the Empire, looking down on all the rest. Around it stand five lesser hills, each with its own character:
 
 - **Mons Corónus** ("the Coronal") and [[place-monslaurine|Mons Lauríne]] ("the Laurel")—the twin patrician hills that together make _the Heights_. Corónus is the older and prouder, ringed with the ancestral villas of the senatorial houses and facing the palace across the central saddle; Lauríne is greener and newer, its gardens and great houses the address of the risen and the rich, with the **Gilded Quarter** climbing its lower slopes toward them.
-- **Mons Sápiens** ("the Scholars' Hill")—bearing the [[affiliation-panepistmm|Scholars' District]] and the Circle of Ménérva.
+- **Mons Sápiens** ("the Scholars' Hill")—bearing the [[affiliation-panepistmm|Scholars' District]] and the Circle of Mârendâs.
 - [[place-monsvetus|Mons Vétus]] ("the Old Hill")—the Republic's city before the Founder walled Aquila, once second only to it, and now the plainest face of the city's long decline: its grand early monuments weather unrepaired, its great families have drifted off to Lauríne, and its once-proud Circle has gone shabby. Dignified still, but visibly fading.
 - **Mons Rípae** ("the River Hill")—the crowded working height above the wharves, its slopes packed with the densest of the Warrens.
 
-Between and below the hills run the saddles, the valleys, and the riverside flats, and it is _there_, on the level ground, that the city does its daily business: the Grand Market on the central flats, the Wharves along the river beneath Mons Rípae, the great Circus laid out the length of the valley between Vétus and Rípae, and the Warrens flooding every hollow the grander quarters leave them. As a rule the high ground is the prized ground—for its air, its views, and its distance from the crush—and the low ground is the dense, busy, poorer ground, save where the river makes the wharves rich.
+Between and below the hills run the saddles, the valleys, and the riverside flats, and it is _there_, on the level ground, that the city does its daily business: the Grand Market on the central flats, the Wharves along the river beneath Mons Rípae, the great Racecourse laid out the length of the valley between Vétus and Rípae, and the Warrens flooding every hollow the grander quarters leave them. As a rule the high ground is the prized ground—for its air, its views, and its distance from the crush—and the low ground is the dense, busy, poorer ground, save where the river makes the wharves rich.
 
 The hills also explain the **uneven scatter of the Circles**. A Circle is three hundred yards of _level_ pavement, and level ground is precisely what a hilly city is short of; so the Circles are set where the ground allows—on the broader hilltops, in the saddles, and on the river-flats—and never on the grades. They fall, in consequence, wherever the terrain permits rather than in any even ring, and the avenues that string them together run irregular lengths and bearings as they climb and descend between them.
 
@@ -81,15 +81,15 @@ By ancient tradition the city holds exactly **twelve** of them—the **Twelve Ci
 - **The Augustar's Circle**—greatest of all, before the Inner City gate; a colossal statue of the first Augustar presides over accessions, triumphs, and proclamations. The crowned rune on its plinth, which by the script's rule should enclose a name, encloses a smoothed patch of stone ([[lore-eaglecityrse|The Raising of the Eagle City]]).
 - **The Circle of Triumph**—its great arches the muster-point of victory processions.
 - **The Circle of the Twelve**—fronting the Temple District, crowned by a towering obelisk; the stage for the city's religious festivals.
-- **The Circle of Ménérva**—heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
+- **The Circle of Mârendâs**—heart of the [[affiliation-panepistmm|Scholars' District]], beneath the statue of the goddess of wisdom.
 - **The Grand Market Circle**—the largest licensed market in the Empire.
 - **The Circle of Árdavon**—Árdavon of the Gates, lord of order and justice; the forum of the law-courts.
-- **The Legions' Circle**—on the approach to the [[place-castraprtr|Castra Praetoria]]; a war-monument to Táranon; the ground of musters and military reviews.
+- **The Legions' Circle**—on the approach to the [[place-thaurzurgalis|Thaurzûrgalis]]; a war-monument to Brâzêmâs; the ground of musters and military reviews.
 - **The River Circle**—by the river gate and the docks, around a great aqueduct-fountain; the haunt of watermen and mariners.
 - **The Spire Circle**—built about a soaring spire hauled from a conquered province.
 - **The Circle of Heroes**—ranked with the statues of the Empire's great figures.
 - **The Circle of Waters**—the grandest of the fountain-displays, run for spectacle on feast days.
-- **The Circus Circle**—fronting the Circus Maximus, where the race-crowds and the racing factions gather—and, often enough, brawl.
+- **The Racecourse Circle**—fronting the Râthaunâ Mêlvar, where the race-crowds and the racing factions gather—and, often enough, brawl.
 
 Not every Circle wears its honors equally. The grandest—the Augustar's Circle, the Circle of Triumph, the ones the processions cross and the ambassadors are shown—are kept gleaming, fountains playing and bronzes bright. But the lesser Circles show their age: a fountain dry in living memory, its basin green-stained; an obelisk whose conquest-inscription has weathered past reading; a market Circle rutted and sunken where ten generations of stalls and feet have worn the paving hollow. The monuments still stand and still impress—but a few of them now impress chiefly as relics.
 
@@ -120,16 +120,16 @@ Because the foul and heavy trades are banished and the draft animals stabled out
 - **The Forum District**—the civic heart, in the central saddle below Mons Aquila around the **Circle of Árdavon**: the basilicas of the civic courts, the chambers of the [[affiliation-curiaurbis|Curia Urbis]], the grandest public baths and libraries, and the platforms from which the city is governed and addressed.
 - **The Grand Market**—the commercial heart, on the central flats around the **Grand Market Circle**: the great licensed markets and the chandlers who retail what the city does not make, the banking houses of the [[affiliation-clgmrgntrrm|Collegium Argentariorum]], and the administrative guild-halls of the [[affiliation-magnumclgm|Magnum Collegium]]'s trades (their workshops, like everything else, kept outside).
 - **The Wharves**—the river port beneath **Mons Rípae** on the **River Circle**, where the barges land: the bulk granaries and warehouses, the fish-market, the watermen and porters, and the registered **foreigners' quarter** of resident Tarûzelian, Nordling, and Khelâthi traders.
-- **The Scholars' District**—the [[affiliation-panepistmm|Panepistemium]], on **Mons Sápiens** around the Circle of Ménérva (detailed below).
+- **The Scholars' District**—the [[affiliation-panepistmm|Panepistemium]], on **Mons Sápiens** around the Circle of Mârendâs (detailed below).
 - **The Gilded Quarter**—the clean, costly trades and the moneyed services, climbing the lower slopes of **Mons Lauríne** toward the Heights: the goldsmiths, jewelers, perfumers, fine tailors, apothecaries, and instrument-makers who both make and sell to a wealthy clientele, alongside the physicians, scriveners, and the better baths and inns. The one ward where craft and luxury still keep house together inside the city.
 - **The Heights**—the twin patrician hills, **Mons Corónus** and **Mons Lauríne**: walled villas, terraced gardens, and the city-houses of senators and great families who do not lodge in the Inner City, prized for their air and their views and reached only on foot.
 - **The Warrens**—the dense tenement wards that fill the valleys and lower slopes, packed thickest on **Mons Rípae** above the Wharves: many-storied _insulae_ of brick and timber, crowded and fire-prone, home to the citizen-veterans and the sponsored working folk whose livelihoods keep them within the city (see _Citizens and Residents_).
 
-The city's pleasures keep their own quarters too—the Theatre District and the Circus quarter about the **Circus Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
+The city's pleasures keep their own quarters too—the Theatre District and the Racecourse quarter about the **Racecourse Circle**—but those belong to its public life (see _Spectacle and the Public Life_).
 
 ### The Scholars' District
 
-On **Mons Sápiens**, around the **Circle of Ménérva** and its statue of the goddess of wisdom, lies the **Scholars' District**—the main campus of the [[affiliation-panepistmm|Panepistemium]] and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one—ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Panepistemium's small inner [[place-urbsaquiln|Compound]] and its Bibliotheca Reservata are kept up on Mons Aquila within the citadel. (For the institution itself, see [[affiliation-panepistmm|Panepistemium]].)
+On **Mons Sápiens**, around the **Circle of Mârendâs** and its statue of the goddess of wisdom, lies the **Scholars' District**—the main campus of the [[affiliation-panepistmm|Panepistemium]] and the greatest seat of that institution anywhere in the Empire: its colleges, lecture halls, the great reading-library, and the walled residence halls of a student body drawn from the patrician and well-propertied houses. It is a _scholarly_ quarter, not a working one—ordered, expensive, and quietly proud, with no trade or workshop within it. This is the _living_ university; the Panepistemium's small inner [[place-urbsaquiln|Compound]] and its Bibliotheca Reservata are kept up on Mons Aquila within the citadel. (For the institution itself, see [[affiliation-panepistmm|Panepistemium]].)
 
 ### The Viridarium
 
@@ -144,7 +144,7 @@ Crowning **Mons Aquila** behind its own ancient ring of walls stands [[place-urb
 - the **Temple District**, seat of the [[affiliation-arldnpnthn|Aurèldían]] _Twelve_ and, by ancient toleration-edict, a house for nearly every faith of the known world;
 - the **Palace District** of foreign embassies, among them the ceremonial palace of the [[affiliation-magnumclgm|Magnum Collegium]];
 - the [[affiliation-curiavylar|Curia Vylaria]], where the Senate sits;
-- the [[place-castraprtr|Castra Praetoria]], barracks of the [[affiliation-pratrgstrm|Praetar Augustarum]] imperial guard;
+- the [[place-thaurzurgalis|Thaurzûrgalis]], barracks of the [[affiliation-pratrgstrm|Praetar Augustarum]] imperial guard;
 - the **Officia Imperii**, the walled compound of the imperial bureaucracy—the [[affiliation-aerarimmpr|treasury]], the [[affiliation-curiafscls|fiscal administration]], the imperial tribunals, and the archives;
 - the inner **[[affiliation-panepistmm|Panepistemium]] Compound** with its warded Bibliotheca Reservata;
 - and, above all, the [[place-palatimgnm|Grand Palace]], where the [[affiliation-ordoarcanis|Ordo Arcanis]] works its wonders openly.
@@ -214,15 +214,15 @@ It tells the hour, and it tells a _story_ as well: the inevitability of Vylarian
 
 For all the gravity of the Inner City, the great mass of Ôrzâra lives for its **spectacles**, and the Empire spends lavishly to provide them. Bread and games hold a populace of nearly a million, and the city is built to deliver both on an overwhelming scale.
 
-### The Circus Maximus
+### The Râthaunâ Mêlvar
 
-The [[place-circusmaximusmagnapls|Circus Maximus]] is a colossal oblong arena, the largest in the world, its tiers of seating rising in a vast U around a central spine. Here the great events of the people are staged:
+The [[place-rathaunamelvar|Râthaunâ Mêlvar]] is a colossal oblong arena, the largest in the world, its tiers of seating rising in a vast U around a central spine. Here the great events of the people are staged:
 
 - **Chariot races**, the obsession of the city, run in the colors of the racing factions whose rivalries spill from the track into bloody street brawls;
 - **Gladiatorial combats**, beast-hunts, and public executions;
 - and, on the grandest occasions, the engineers **flood the arena floor** from the aqueducts to stage **mock sea-battles**—_naumachiae_—with real ships and real, dying men, to the roar of a quarter-million spectators.
 
-The roar of the Circus on a race day can be heard across half the city, and an augustar ignores the mood of those crowds at his peril.
+The roar of the Racecourse on a race day can be heard across half the city, and an augustar ignores the mood of those crowds at his peril.
 
 ### The Theatre District
 
@@ -266,7 +266,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 | **Seat of power**     | The [[place-palatimgnm\|Grand Palace]], in the walled Inner City, [[place-urbsaquiln\|Urbs Aquilion]], atop Mons Aquila                                                                                               |
 | **Governing bodies**  | The **Augustar** (emperor) and the imperial bureaucracy (the Officia Imperii); the [[affiliation-curiavylar\|Vylarian Senate]]; the civic [[affiliation-curiaurbis\|Curia Urbis]] and the courts beneath it           |
 | **Defenses**          | The citadel's Inner Wall; the **pomerium** and its hundred-foot **Clearance** (no outer wall); the [[affiliation-vylrnmltry\|City Watch]]; the [[affiliation-pratrgstrm\|Praetar Augustarum]] guarding the Inner City |
-| **Signature marvels** | The [[place-magngndorery\|Grand Orrery]], the [[place-pnthnrldnm\|Temple of the Twelve]], the [[place-circusmaximusmagnapls\|Circus Maximus]], the Twelve Circles                                                     |
+| **Signature marvels** | The [[place-magngndorery\|Grand Orrery]], the [[place-pnthnrldnm\|Temple of the Twelve]], the [[place-rathaunamelvar\|Râthaunâ Mêlvar]], the Twelve Circles                                                           |
 | **Dominant faith**    | [[affiliation-arldnpnthn\|Aurèldían Pantheon]] (state religion); all major pantheons represented                                                                                                                      |
 | **Arcane presence**   | The [[affiliation-ordoarcanis\|Ordo Arcanis]], openly displayed here as nowhere else                                                                                                                                  |
 
@@ -277,7 +277,7 @@ It is tended jointly by two priesthoods that, anywhere else, would have little t
 - [[place-palatimgnm|Grand Palace]]—the Palatium Magnum, seat of the throne
 - [[place-sixhillsvyl|Six Hills]]—the hills the city stands on
 - [[place-magngndorery|Grand Orrery]]—the Mechanical Court
-- [[place-circusmaximusmagnapls|Circus Maximus]]—the great arena
+- [[place-rathaunamelvar|Râthaunâ Mêlvar]]—the great arena
 - [[place-magntheatredstr|Theatre District]]—the quieter quarter of pleasure
 - [[place-necropolisorzara|Necropolis of Ôrzâra]]—the city of the dead
 - [[affiliation-curiaurbis|Curia Urbis]]—the council and courts of the city

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [portaelion]
-  affiliations: {kngdmlvndr: {rank: 2}, florania: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 681.125

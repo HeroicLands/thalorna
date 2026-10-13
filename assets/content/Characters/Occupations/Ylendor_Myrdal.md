@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [lunacorte]
-  affiliations: {kngdmprvnz: {rank: 2}, menerva: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 2}, marendas: {rank: 1}}
   gender: male
   species: humanflk
   born: 662.303

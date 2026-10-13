@@ -79,10 +79,10 @@ A distinctive feature of Lúsinía's temples is the **Collegium of Growing Thing
 
 ## Relations
 
-Lúsinía stands in complementary partnership with [[affiliation-florania|Flórania]], together embodying the full cycle of growth and fertility. Where Flórania represents the joy of sexual fertility and the explosion of spring blooms, Lúsinía offers the patient, methodical creation and nurturing that sustains life across generations. The two goddesses are often invoked together in harvest blessings and pregnancy rites, their domains harmonious and mutually supportive.
+Lúsinía stands in complementary partnership with [[affiliation-lizelas|Lîzêlâs]], together embodying the full cycle of growth and fertility. Where Lîzêlâs represents the joy of sexual fertility and the explosion of spring blooms, Lúsinía offers the patient, methodical creation and nurturing that sustains life across generations. The two goddesses are often invoked together in harvest blessings and pregnancy rites, their domains harmonious and mutually supportive.
 
 The relationship with [[affiliation-morvana|Mórváná]] is acknowledged with respect rather than conflict. Lúsinía teaches that creation and decay are inseparable—a plant must fall and rot to nourish the soil that feeds new growth; a forest must have wildfire and renewal. The priesthoods recognize this cycle, though Lúsinía's faithful emphasize growth while Mórváná's emphasize endings. Together they represent the eternal wheel.
 
-Lúsinía maintains cordial relations with [[affiliation-menerva|Ménérva]], recognizing that the goddess of knowledge helps unlock the secrets of growing things. Temple libraries of the two faiths often share information about agriculture, medicine, and natural philosophy.
+Lúsinía maintains cordial relations with [[affiliation-marendas|Mârendâs]], recognizing that the goddess of knowledge helps unlock the secrets of growing things. Temple libraries of the two faiths often share information about agriculture, medicine, and natural philosophy.
 
 The attitude toward [[affiliation-karnavos|Karnavos]] is wary but not hostile. Lúsinía understands that wild chaos and unexpected disruption are forces of nature—storms bring rain, forest fires clear deadwood and release seeds—but the priesthood teaches that such chaos must be balanced with cultivation and order. Where Karnavos represents untamed nature, Lúsinía represents nature brought into harmony with civilization.

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [nartum]
-  affiliations: {hlykngdmnrtm: {rank: 2}, florania: {rank: 1}}
+  affiliations: {hlykngdmnrtm: {rank: 2}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: "688.250"
@@ -422,9 +422,9 @@ sohl:
 
 # Dossier {#dossier}
 
-Érython was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], in the transitional lands where forest gives way to settled agriculture and the devotion to Flórania runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aurèldían faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Keldarion**, the aging noble who oversaw these lands.
+Érython was born in the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], in the transitional lands where forest gives way to settled agriculture and the devotion to Lîzêlâs runs deep in the soil itself. His childhood was spent in a small yeoman's holding, where his father taught him to hunt to put food on the table and his mother instilled in him the spiritual disciplines of the Aurèldían faith. At fifteen, he underwent the trials of the local militia, and his extraordinary natural gift for archery was immediately apparent. By his twenty-second year, he had risen to become the militia's foremost marksman and the personal archer-guard to **Lord Keldarion**, the aging noble who oversaw these lands.
 
-For a decade, Érython has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the Verdant Sanctum, seeking wisdom and blessing from Flórania for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
+For a decade, Érython has served in this capacity—maintaining peace, hunting threats, and honing his craft to near-perfection. The serpent tattoo on his back was earned five years ago when he undertook a sacred pilgrimage to the heart of the Verdant Sanctum, seeking wisdom and blessing from Lîzêlâs for a failed hunt that cost a family their livelihood. The serpent, he was taught, represents regeneration and the cyclical nature of life—a reminder that even failure contains the seeds of renewal.
 
 ## Psyche
 
@@ -434,7 +434,7 @@ For a decade, Érython has served in this capacity—maintaining peace, hunting 
 
 ### Motivation
 
-Érython's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Flórania and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to transcend the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
+Érython's primary motivation is to perfect his craft and to use that mastery in service to his community and faith. He believes that his extraordinary skill is a gift from Lîzêlâs and carries with it a responsibility to protect those who cannot protect themselves. He seeks to prove himself worthy of the gift through constant improvement and through the ethical application of his abilities. Beyond this, he harbors a quiet ambition to transcend the limits of his current position—to perhaps establish a school for archers, or to undertake a greater pilgrimage that would deepen his spiritual understanding.
 
 ### Strengths
 
@@ -484,12 +484,12 @@ The Holy Militia of Nartum
 The Archers' Circle of Nartum
 : A prestigious guild and social organization for skilled bowmen throughout the kingdom.
 
-The Devotees of Flórania
+The Devotees of Lîzêlâs
 : Though not a formal organization, Érython maintains a strong spiritual commitment to the faith and participates in seasonal rituals and celebrations.
 
 ## Plot Hooks
 
-1. **The Sacred Stag**: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Flórania herself. When Érython encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Érython understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
+1. **The Sacred Stag**: Hunters report sightings of a magnificent stag—enormous, ancient, and bearing strange markings—in the deep forest. Local legend claims it is a divine manifestation of Lîzêlâs herself. When Érython encounters it during a hunt, he finds himself unable to kill it, despite the easy shot. This begins a strange spiritual journey in which the stag appears again and again, as if trying to communicate something. The party must help Érython understand the meaning behind the encounters, leading them into contact with druidic powers and ancient magics.
 
 2. **The Poisoned Arrow**: Érython is framed for an assassination attempt when his distinctive arrows are found at the scene of a crime—yet he did not fire them. Investigation reveals someone is craftily duplicating his arrows and implicating him in murders and attacks. The conspiracy leads deeper into the kingdom's politics than Érython could have imagined, and he must prove his innocence while uncovering who has gone to such lengths to destroy his reputation.
 

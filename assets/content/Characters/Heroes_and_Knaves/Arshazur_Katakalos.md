@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [nesthiros2]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.166
@@ -425,7 +425,7 @@ sohl:
 
 ### The Farmer's Son Drafted
 
-Árshazûr was born in a rural agricultural district of the Byzarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Flórania. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazûr found himself conscripted without alternative.
+Árshazûr was born in a rural agricultural district of the Byzarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Lîzêlâs. This peaceful existence ended abruptly at eighteen when the levy officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Árshazûr found himself conscripted without alternative.
 
 ### The Long War
 
@@ -491,7 +491,7 @@ The Bandit Lord Thessarios
 The Byzarian League Military
 : Serving as a commissioned captain in the League's Eastern March garrison.
 
-The Order of Flórania (Fertility Aspect)
+The Order of Lîzêlâs (Fertility Aspect)
 : A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
 
 The Veterans' Society

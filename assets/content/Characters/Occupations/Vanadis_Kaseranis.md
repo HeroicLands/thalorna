@@ -11,7 +11,7 @@ data:
   occupation: Courtesan
   lore: []
   culture: vylarianclt
-  homes: [valdosta]
+  homes: [polthara]
   affiliations: {vylarinmpr: {rank: 4}, olvenia: {rank: 1}}
   gender: female
   species: humanflk

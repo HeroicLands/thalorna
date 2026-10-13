@@ -84,7 +84,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 Thyrenae is the city-state whose name on a credential settles the question of where a scholar was taught. It is the oldest of the seven and the most prestigious, one of the three that lead them, and the birthplace of the [[affiliation-panepistmm|Panepistemium]], the scholarly federation from which the [[affiliation-ordoarcanis|Ordo Arcanis]] grew. Its academies are the most respected centers of learning in western [[place-ankrscntnnt|Ankaris]], and students cross [[place-midhalnrgn|Mídhalión]] to attend them. About 610,000 people live under its council, and 60,000 of them live in the city of [[place-thyrenae2|Thyrenae]], its seat.
 
-- **Patron deity:** [[lore-menervadty|Ménérva]], goddess of knowledge and wisdom
+- **Patron deity:** [[lore-marendasdty|Mârendâs]], goddess of knowledge and wisdom
 - **Government:** philosophical council of senior scholars and patrician families
 
 ## Who Decides

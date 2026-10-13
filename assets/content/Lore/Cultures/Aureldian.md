@@ -17,18 +17,18 @@ The [[affiliation-arldnpnthn|Aurèldían Pantheon]] is the dominant religious tr
 | ---------- | ------------ | --------------------------- |
 | Dreams     | **Zûnêlâs**  | The Veiled Dreamer          |
 | Death      | **Sélmoros** | The Silent Judge            |
-| Storms     | **Táranon**  | The Thunderer               |
+| Storms     | **Brâzêmâs** | The Thunderer               |
 | Order      | **Árdavon**  | The Keeper of the Gates     |
-| Knowledge  | **Ménérva**  | Keeper of Sacred Wisdom     |
+| Knowledge  | **Mârendâs** | Keeper of Sacred Wisdom     |
 | Prosperity | **Ólvenía**  | The Bountiful One           |
 | Fire       | **Ústaron**  | The Forge-Lord              |
 | Creation   | **Lúsinía**  | The World-Weaver            |
 | Chaos      | **Karnavos** | The Wild Beast              |
 | Voyages    | **Pôzêrâs**  | The Wayfarer                |
 | Decay      | **Mórváná**  | Mistress of the Waning Moon |
-| Fertility  | **Flórania** | The Nurturer                |
+| Fertility  | **Lîzêlâs**  | The Nurturer                |
 
-Each god has a lore note of its own: [[lore-zunelasdty|Zûnêlâs]], [[lore-selmorosdty|Sélmoros]], [[lore-taranondty|Táranon]], [[lore-ardavondty|Árdavon]], [[lore-menervadty|Ménérva]], [[lore-olveniadty|Ólvenía]], [[lore-ustarondty|Ústaron]], [[lore-lusiniadty|Lúsinía]], [[lore-karnavosdty|Karnavos]], [[lore-pozerasdty|Pôzêrâs]], [[lore-morvanadty|Mórváná]] and [[lore-floraniadty|Flórania]].
+Each god has a lore note of its own: [[lore-zunelasdty|Zûnêlâs]], [[lore-selmorosdty|Sélmoros]], [[lore-brazemasdty|Brâzêmâs]], [[lore-ardavondty|Árdavon]], [[lore-marendasdty|Mârendâs]], [[lore-olveniadty|Ólvenía]], [[lore-ustarondty|Ústaron]], [[lore-lusiniadty|Lúsinía]], [[lore-karnavosdty|Karnavos]], [[lore-pozerasdty|Pôzêrâs]], [[lore-morvanadty|Mórváná]] and [[lore-lizelasdty|Lîzêlâs]].
 
 ## One Priesthood per God
 
@@ -51,7 +51,7 @@ The year turns on the Feast of Thresholds, four days of oath-taking and covenant
 
 ### The Other Faiths
 
-The remaining faiths each serve one god and keep the same pattern of acolytes, clergy and a high priest: the [[affiliation-zunelas|Faith of Zûnêlâs]], the [[affiliation-selmoros|Faith of Sélmoros]], the [[affiliation-taranon|Faith of Táranon]], the [[affiliation-menerva|Faith of Ménérva]], the [[affiliation-olvenia|Faith of Ólvenía]], the [[affiliation-lusinia|Faith of Lúsinía]], the [[affiliation-karnavos|Faith of Karnavos]], the [[affiliation-pozeras|Faith of Pôzêrâs]], the [[affiliation-morvana|Faith of Mórváná]] and the [[affiliation-florania|Faith of Flórania]].
+The remaining faiths each serve one god and keep the same pattern of acolytes, clergy and a high priest: the [[affiliation-zunelas|Faith of Zûnêlâs]], the [[affiliation-selmoros|Faith of Sélmoros]], the [[affiliation-brazemas|Faith of Brâzêmâs]], the [[affiliation-marendas|Faith of Mârendâs]], the [[affiliation-olvenia|Faith of Ólvenía]], the [[affiliation-lusinia|Faith of Lúsinía]], the [[affiliation-karnavos|Faith of Karnavos]], the [[affiliation-pozeras|Faith of Pôzêrâs]], the [[affiliation-morvana|Faith of Mórváná]] and the [[affiliation-lizelas|Faith of Lîzêlâs]].
 
 ## The Sworn Orders
 

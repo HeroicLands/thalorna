@@ -82,7 +82,7 @@ Honor is paid in the open. A Helionite takes risks for a reputation that a forei
 
 ## Gods, Games and Mysteries
 
-The [[affiliation-arldnpnthn|Aurèldían Pantheon]] runs through every part of Helionite life, and Heliónis regards itself as the faith's spiritual heartland; the interpretations the western kingdoms treat as authoritative were written by Helionite scholars. Three gods stand highest here. [[lore-menervadty|Ménérva]], keeper of wisdom, is Thyrenae's patron. [[lore-zunelasdty|Zûnêlâs]], the Veiled Dreamer, belongs to artists and mystics and to Kalydria. [[lore-ardavondty|Árdavon]], god of order and justice, presides over law and civic life and is patron of Pelagora and Korinthea.
+The [[affiliation-arldnpnthn|Aurèldían Pantheon]] runs through every part of Helionite life, and Heliónis regards itself as the faith's spiritual heartland; the interpretations the western kingdoms treat as authoritative were written by Helionite scholars. Three gods stand highest here. [[lore-marendasdty|Mârendâs]], keeper of wisdom, is Thyrenae's patron. [[lore-zunelasdty|Zûnêlâs]], the Veiled Dreamer, belongs to artists and mystics and to Kalydria. [[lore-ardavondty|Árdavon]], god of order and justice, presides over law and civic life and is patron of Pelagora and Korinthea.
 
 Temples are civic property, and priesthoods are civic offices often held by men who also hold magistracies. A Helionite addresses the gods as directly as he addresses his neighbors: he petitions them, bargains with them, and reproaches them when they fail to deliver. In Korinthea the priest-judges of Árdavon sit as the city's court. "The council writes the rules," one of them tells petitioners, "and the temple says what they mean when two men disagree about them."
 

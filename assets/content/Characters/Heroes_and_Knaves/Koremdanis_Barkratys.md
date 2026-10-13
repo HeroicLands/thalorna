@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {provincvld: {rank: 5}, florania: {rank: 1}}
+  affiliations: {provincvld: {rank: 5}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 686.99
@@ -440,7 +440,7 @@ Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Ko
 
 Korêmdânis is a woman of few words and absolute principle. She communicates primarily through action and demonstration, believing that excessive speech clouds understanding. In teaching, she is demanding but fair, pushing her students to their limits because she believes that true growth comes only through challenging oneself. She possesses an intense competitive drive that borders on obsession—every duel, every sparring session, every test is an opportunity to refine her craft further and to prove her mastery. This competitive nature sometimes leads her to take unnecessary risks or to pursue victory with fierce intensity that others find intimidating.
 
-She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves Flórania, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
+She is a person of principle and honor, bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves Lîzêlâs, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
 
 ### Motivation
 

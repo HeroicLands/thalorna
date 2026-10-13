@@ -11,7 +11,7 @@ data:
   form: didactic-verse
   subjects:
     - lore-lusiniadty
-    - lore-menervadty
+    - lore-marendasdty
     - lore-ardavondty
     - lore-karnavosdty
     - lore-selmorosdty
@@ -238,7 +238,7 @@ I am going up to the wall, my brother. Come, if you are coming. Bring the basket
 ## See Also
 
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]]—the Twelve, named here by their epithets
-- [[lore-lusiniadty|Lúsinía]], [[lore-menervadty|Ménérva]] and [[lore-ardavondty|Árdavon]]—the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
+- [[lore-lusiniadty|Lúsinía]], [[lore-marendasdty|Mârendâs]] and [[lore-ardavondty|Árdavon]]—the Weaver, the Keeper of Sacred Wisdom and the Keeper of the Gates
 - [[lore-karnavosdty|Karnavos]]—the Wild Beast, and the stone that is falling still
 - [[lore-selmorosdty|Sélmoros]]—the Silent Judge at the last door
 - [[lore-firstterms|The Hymn of the First Terms]]—the eastern rite's account of the same beginning

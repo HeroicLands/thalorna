@@ -18,7 +18,7 @@ data:
 
 Almost nothing in Alyssa is more than a day's ride from a temple, a magistrate and a tax-collector. This is the land of the [[affiliation-provinclys|Province of Alyssa]], the heartland of the [[affiliation-vylarinmpr|Vylarian Empire]] within [[place-vylariargn|Vylaría Region]]: seven million people in a near-continuous quilt of towns, villas and senatorial estates around the imperial capital, knit together by the oldest and best-kept stretch of the Vylarian road network. Its provincial capital is [[place-alyssar|Alyssar]].
 
-A porter in one of the gate-yards outside [[place-orzara|Ôrzâra]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means Ostenna, and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around Vennara, and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely Tibur. Everything else is grain, and you will carry it."
+A porter in one of the gate-yards outside [[place-orzara|Ôrzâra]], where the teams are unhitched and the cargo is broken down onto handcarts, teaches a new hand to read the carts by their roads. "Barge-rope on the axles means Ostenna, and the grain is in sacks. A cart of fruit and wine with a steward walking beside it comes down from a villa in the hills around Vennara, and you carry that one carefully. Straw in the bed and a driver asleep on the load means a night on one of the great roads, and most likely Dêlâra. Everything else is grain, and you will carry it."
 
 ## Character
 
@@ -49,7 +49,7 @@ Alyssa is the most densely settled of the provinces. A carter can leave one town
 
 **Towns.**
 
-- [[place-tibur|Tibur]] (about 12,000)—a market town on a great road into the capital.
+- [[place-delara|Dêlâra]] (about 12,000)—a market town on a great road into the capital.
 - [[place-corvinus|Corvinus]] (about 9,000)—a garrison town anchoring the province's interior.
 - [[place-calvaris|Calvaris]] (about 9,000)—a temple-and-market town around an ancient hilltop precinct.
 - [[place-ostenna|Ostenna]] (about 7,000)—a river-port town transshipping grain by barge.

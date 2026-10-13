@@ -12,7 +12,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [sazumun2]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, menerva: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, marendas: {rank: 1}}
   gender: female
   species: humanflk
   born: "692.90"

@@ -34,7 +34,7 @@ data:
             how: >-
               the Palatium houses the Restoration house's rule, and the monuments of the rebuilding carry its name
             knowledge: named
-          - place: place-castraprtr
+          - place: place-thaurzurgalis
             how: >-
               the guard pays for its candidate's fall and is paid back in donatives at every accession since
             knowledge: named
@@ -58,7 +58,7 @@ data:
           withholds: that the Senate acclaimed the army at its gates
         - by: affiliation-pratrgstrm
           says: >-
-            The guard opened the Castra to the Augustar who could pay it.
+            The guard opened the Guard Camp to the Augustar who could pay it.
           agrees: partly
           withholds: that the guard handed over its own candidate first
       unresolved: [how Sylârion died in the Officia]

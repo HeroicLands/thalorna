@@ -1347,17 +1347,17 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | **Duumvir**                                    | [[affiliation-provinclys\|Province of Alyssa]], [[affiliation-provnchyln\|Province of Hylen]], [[affiliation-provncmktr\|Province of Moktur]], [[affiliation-provincvld\|Province of Sâlkhâlon]]                                                                                                | `vylari`        | —                                       |
 | **Decurion**                                   | [[affiliation-provinclys\|Province of Alyssa]], [[affiliation-provnchyln\|Province of Hylen]], [[affiliation-provncmktr\|Province of Moktur]], [[affiliation-provincvld\|Province of Sâlkhâlon]]                                                                                                | `vylari`        | —                                       |
 | **Flamen**                                     | [[affiliation-provinclys\|Province of Alyssa]], [[affiliation-provnchyln\|Province of Hylen]], [[affiliation-provncmktr\|Province of Moktur]], [[affiliation-provincvld\|Province of Sâlkhâlon]]                                                                                                | `vylari`        | —                                       |
-| **Tibur**                                      | [[place-tibur\|Tibur]]                                                                                                                                                                                                                                                                          | `vylari`        | —                                       |
+| **Dêlâra**                                     | [[place-delara\|Dêlâra]]                                                                                                                                                                                                                                                                        | `vylari`        | `dêl-` + `-âra`                         |
 | **Velysâra**                                   | [[place-velysara\|Velysâra]]                                                                                                                                                                                                                                                                    | `vylari`        | —                                       |
 | **Vennara**                                    | [[place-vennara\|Vennara]]                                                                                                                                                                                                                                                                      | `vylari`        | —                                       |
 | **The Vylarian Calendar**                      | [[lore-commoncal\|The Vylarian Calendar]]                                                                                                                                                                                                                                                       | `translation`   | —                                       |
 | **Vylarian Reckoning**                         | [[lore-commoncal\|The Vylarian Calendar]]                                                                                                                                                                                                                                                       | `translation`   | —                                       |
-| **Floralis**                                   | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
+| **Lîzêlândi**                                  | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `lîzêl-` + `-ândi`                      |
 | **Lusenar**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
 | **Pôzêrândi**                                  | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `pôzêr-` + `-ândi`                      |
-| **Taranis**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
+| **Brâzêmândi**                                 | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `brâzêm-` + `-ândi`                     |
 | **Thûmbândi**                                  | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `thûmb-` + `-ândi`                      |
-| **Menaris**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
+| **Mârendândi**                                 | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `mârend-` + `-ândi`                     |
 | **Elthêzândi**                                 | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `elthêz-` + `-ândi`                     |
 | **Karnavar**                                   | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
 | **Morveth**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | —                                       |
@@ -1366,6 +1366,9 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | **Kâlpêzândi**                                 | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `vylari`        | `kâlpêz-` + `-ândi`                     |
 | **Zûnêlâs**                                    | [[lore-zunelasdty\|Zûnêlâs]], [[affiliation-zunelas\|Faith of Zûnêlâs]], [[skill-zunelas\|Ritual: Zûnêlâs]]                                                                                                                                                                                     | `vylari`        | `zûnêl-` + `-âs`                        |
 | **Pôzêrâs**                                    | [[lore-pozerasdty\|Pôzêrâs]], [[affiliation-pozeras\|Faith of Pôzêrâs]], [[skill-pozeras\|Ritual: Pôzêrâs]]                                                                                                                                                                                     | `vylari`        | `pôzêr-` + `-âs`                        |
+| **Mârendâs**                                   | [[lore-marendasdty\|Mârendâs]], [[affiliation-marendas\|Faith of Mârendâs]], [[skill-marendas\|Ritual: Mârendâs]]                                                                                                                                                                               | `vylari`        | `mârend-` + `-âs`                       |
+| **Brâzêmâs**                                   | [[lore-brazemasdty\|Brâzêmâs]], [[affiliation-brazemas\|Faith of Brâzêmâs]], [[skill-brazemas\|Ritual: Brâzêmâs]]                                                                                                                                                                               | `vylari`        | `brâzêm-` + `-âs`                       |
+| **Lîzêlâs**                                    | [[lore-lizelasdty\|Lîzêlâs]], [[affiliation-lizelas\|Faith of Lîzêlâs]], [[skill-lizelas\|Ritual: Lîzêlâs]]                                                                                                                                                                                     | `vylari`        | `lîzêl-` + `-âs`                        |
 | **Newday**                                     | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `translation`   | —                                       |
 | **Tillday**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `translation`   | —                                       |
 | **Growday**                                    | [[lore-commoncal\|The Vylarian Calendar]], [[lore-vylariages\|The Vylarian Ages]]                                                                                                                                                                                                               | `translation`   | —                                       |
@@ -1433,14 +1436,15 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 | **Messora**                                    | [[place-messora\|Messora]]                                                                                                                                                                                                                                                                      | `vylari`        | —                                       |
 | **Olivenna**                                   | [[place-olivenna\|Olivenna]]                                                                                                                                                                                                                                                                    | `vylari`        | —                                       |
 | **Province of Hylen**                          | [[affiliation-provnchyln\|Province of Hylen]]                                                                                                                                                                                                                                                   | `translation`   | —                                       |
-| **Valdosta**                                   | [[place-valdosta\|Valdosta]]                                                                                                                                                                                                                                                                    | `vylari`        | —                                       |
+| **Pôlthâra**                                   | [[place-polthara\|Pôlthâra]]                                                                                                                                                                                                                                                                    | `vylari`        | `pôlth-` + `-âra`                       |
 | **Vindara**                                    | [[place-vindara\|Vindara]]                                                                                                                                                                                                                                                                      | `vylari`        | —                                       |
 | **Aula Panepistemium**                         | [[place-aulpnpstmm\|Aula Panepistemium]]                                                                                                                                                                                                                                                        | `vylari`        | —                                       |
 | **The Aula**                                   | [[place-aulpnpstmm\|Aula Panepistemium]]                                                                                                                                                                                                                                                        | `translation`   | —                                       |
 | **Court of the Academy**                       | [[place-aulpnpstmm\|Aula Panepistemium]]                                                                                                                                                                                                                                                        | `translation`   | —                                       |
-| **Castra Praetoria**                           | [[place-castraprtr\|Castra Praetoria]]                                                                                                                                                                                                                                                          | `vylari`        | —                                       |
-| **The Castra**                                 | [[place-castraprtr\|Castra Praetoria]]                                                                                                                                                                                                                                                          | `translation`   | —                                       |
-| **Circus Maximus**                             | [[place-circusmaximusmagnapls\|Circus Maximus]]                                                                                                                                                                                                                                                 | `vylari`        | —                                       |
+| **Thaurzûrgalis**                              | [[place-thaurzurgalis\|Thaurzûrgalis]]                                                                                                                                                                                                                                                          | `vylari`        | `thaur-` + `zûrgalis`                   |
+| **The Guard Camp**                             | [[place-thaurzurgalis\|Thaurzûrgalis]]                                                                                                                                                                                                                                                          | `translation`   | —                                       |
+| **Râthaunâ Mêlvar**                            | [[place-rathaunamelvar\|Râthaunâ Mêlvar]]                                                                                                                                                                                                                                                       | `vylari`        | —                                       |
+| **The Racecourse**                             | [[place-rathaunamelvar\|Râthaunâ Mêlvar]]                                                                                                                                                                                                                                                       | `translation`   | —                                       |
 | **Ôrzâra City**                                | [[place-orzara\|Ôrzâra City]]                                                                                                                                                                                                                                                                   | `translation`   | —                                       |
 | **Ôrzâra**                                     | [[place-orzara\|Ôrzâra City]]                                                                                                                                                                                                                                                                   | `vylari`        | `ôrz-` + `-âra`                         |
 | **The Great City**                             | [[place-orzara\|Ôrzâra City]]                                                                                                                                                                                                                                                                   | `translation`   | —                                       |
@@ -1647,50 +1651,64 @@ Every name in the scope of the Vylari tongue—every person of the Vylarian cult
 
 A retired name is one the setting does not write: a name from Earth, or a form the rules refuse. Each stands below with the name written in its place, and no page writes it, however accented. A literature note quotes its work in the work's own words and a poem keeps its own, so a retired name may stand in either, and a `terran_analog` comment names the Earth source on purpose.
 
-| Retired                | Written instead     | Why                                                       |
-| ---------------------- | ------------------- | --------------------------------------------------------- |
-| `Murkas`               | `Pôzêrândi`         | a month named with an echo of an Earth god                |
-| `Vulcar`               | `Thûmbândi`         | a month named with an echo of an Earth god                |
-| `Venuris`              | `Elthêzândi`        | a month named with an echo of an Earth god                |
-| `Thanaris`             | `Kalmêthândi`       | a month named with an echo of an Earth god                |
-| `Aetheris`             | `Zûnêlândi`         | a month named with an echo of an Earth god                |
-| `Janar`                | `Kâlpêzândi`        | a month named with an echo of an Earth god                |
-| `Pantheon Aurèldiānum` | `Sârkhenâ Dôrêkhis` | the name of an Earth temple                               |
-| `Magnápolis`           | `Ôrzâra`            | a Greek-shaped name for a great city                      |
-| `Magnápolitan`         | `Ôrzâran`           | a Greek-shaped demonym                                    |
-| `Magnápolitans`        | `Ôrzârans`          | a Greek-shaped demonym                                    |
-| `Vald`                 | `Sâlkhâlon`         | a Norse-shaped name for an imperial province              |
-| `Valdian`              | —                   | a Norse-shaped demonym                                    |
-| `Saltholm`             | `Thrêmûzâra`        | a place of Earth                                          |
-| `Solheim`              | `Kûrzâlôra`         | a place of Earth                                          |
-| `Korsvik`              | `Thôlkezôra`        | a Norse-shaped name for an imperial town                  |
-| `Ostvar`               | `Vôlkhêmâra`        | a Norse-shaped name for an imperial town                  |
-| `Zârâ`                 | `Elthêzâ`           | an Earth personal name, in the name lists                 |
-| `Nîkôlaos`             | `Kirâmar`           | an Earth personal name, in the name lists                 |
-| `Émmanîôs`             | `Rêvôthar`          | an Earth personal name, in the name lists and a character |
-| `Makârîos`             | `Hôlimar`           | an Earth personal name, in the name lists                 |
-| `Martýnos`             | `Mêlvaren`          | an Earth personal name, in the name lists                 |
-| `Patríkês`             | `Têrêmis`           | an Earth personal name, in the name lists                 |
-| `Nestôres`             | `Ânkhêlis`          | an Earth personal name, in the name lists                 |
-| `Básilarôs`            | `Ilthêrôs`          | an Earth personal name, in the name lists                 |
-| `Záchârês`             | `Zêtimar`           | an Earth personal name, in the name lists                 |
-| `Pàrthênios`           | `Pêlêrar`           | an Earth personal name, in the name lists                 |
-| `Xántheiôs`            | `Elthêzen`          | an Earth personal name, in the name lists                 |
-| `Élektòrís`            | `Dôrânden`          | an Earth personal name, in the name lists                 |
-| `Kaprôs`               | `Nîzêlar`           | an Earth word, in the name lists                          |
-| `Màrkîs`               | `Sôltêris`          | an Earth personal name, in the name lists                 |
-| `Armánês`              | `Ôrthêmar`          | an Earth personal name, in the name lists                 |
-| `Fûria`                | `Kirâmis`           | an Earth word, in the name lists                          |
-| `Lànâ`                 | `Mêlvarê`           | an Earth personal name, in the name lists                 |
-| `Nàdîma`               | `Sôltêrâ`           | an Earth personal name, in the name lists                 |
-| `Carâ`                 | `Pêlêren`           | an Earth personal name, in the name lists                 |
-| `Chârâ`                | `Ânkhêlen`          | an Earth personal name, in the name lists                 |
-| `Lôrâ`                 | `Têrêmen`           | an Earth personal name, in the name lists                 |
-| `Shânâ`                | `Sôlkimen`          | an Earth personal name, in the name lists                 |
-| `Tôrâ`                 | `Rêvôthis`          | an Earth personal name, in the name lists                 |
-| `Vêdâ`                 | `Hôlimis`           | an Earth personal name, in the name lists                 |
-| `Yânâ`                 | `Ôrthêmê`           | an Earth personal name, in the name lists                 |
-| `Kôrâ`                 | `Nîzêlis`           | an Earth personal name, in the name lists                 |
-| `Hârâ`                 | `Zêtimis`           | an Earth personal name, in the name lists                 |
-| `Haremâ`               | `Ôrthêmis`          | an Earth word, in the name lists                          |
-| `Silvain`              | `Sóurimael`         | an Earth word, an Élavendri village                       |
+| Retired                | Written instead     | Why                                                        |
+| ---------------------- | ------------------- | ---------------------------------------------------------- |
+| `Murkas`               | `Pôzêrândi`         | a month named with an echo of an Earth god                 |
+| `Vulcar`               | `Thûmbândi`         | a month named with an echo of an Earth god                 |
+| `Venuris`              | `Elthêzândi`        | a month named with an echo of an Earth god                 |
+| `Thanaris`             | `Kalmêthândi`       | a month named with an echo of an Earth god                 |
+| `Aetheris`             | `Zûnêlândi`         | a month named with an echo of an Earth god                 |
+| `Janar`                | `Kâlpêzândi`        | a month named with an echo of an Earth god                 |
+| `Pantheon Aurèldiānum` | `Sârkhenâ Dôrêkhis` | the name of an Earth temple                                |
+| `Magnápolis`           | `Ôrzâra`            | a Greek-shaped name for a great city                       |
+| `Magnápolitan`         | `Ôrzâran`           | a Greek-shaped demonym                                     |
+| `Magnápolitans`        | `Ôrzârans`          | a Greek-shaped demonym                                     |
+| `Vald`                 | `Sâlkhâlon`         | a Norse-shaped name for an imperial province               |
+| `Valdian`              | —                   | a Norse-shaped demonym                                     |
+| `Saltholm`             | `Thrêmûzâra`        | a place of Earth                                           |
+| `Solheim`              | `Kûrzâlôra`         | a place of Earth                                           |
+| `Korsvik`              | `Thôlkezôra`        | a Norse-shaped name for an imperial town                   |
+| `Ostvar`               | `Vôlkhêmâra`        | a Norse-shaped name for an imperial town                   |
+| `Zârâ`                 | `Elthêzâ`           | an Earth personal name, in the name lists                  |
+| `Nîkôlaos`             | `Kirâmar`           | an Earth personal name, in the name lists                  |
+| `Émmanîôs`             | `Rêvôthar`          | an Earth personal name, in the name lists and a character  |
+| `Makârîos`             | `Hôlimar`           | an Earth personal name, in the name lists                  |
+| `Martýnos`             | `Mêlvaren`          | an Earth personal name, in the name lists                  |
+| `Patríkês`             | `Têrêmis`           | an Earth personal name, in the name lists                  |
+| `Nestôres`             | `Ânkhêlis`          | an Earth personal name, in the name lists                  |
+| `Básilarôs`            | `Ilthêrôs`          | an Earth personal name, in the name lists                  |
+| `Záchârês`             | `Zêtimar`           | an Earth personal name, in the name lists                  |
+| `Pàrthênios`           | `Pêlêrar`           | an Earth personal name, in the name lists                  |
+| `Xántheiôs`            | `Elthêzen`          | an Earth personal name, in the name lists                  |
+| `Élektòrís`            | `Dôrânden`          | an Earth personal name, in the name lists                  |
+| `Kaprôs`               | `Nîzêlar`           | an Earth word, in the name lists                           |
+| `Màrkîs`               | `Sôltêris`          | an Earth personal name, in the name lists                  |
+| `Armánês`              | `Ôrthêmar`          | an Earth personal name, in the name lists                  |
+| `Fûria`                | `Kirâmis`           | an Earth word, in the name lists                           |
+| `Lànâ`                 | `Mêlvarê`           | an Earth personal name, in the name lists                  |
+| `Nàdîma`               | `Sôltêrâ`           | an Earth personal name, in the name lists                  |
+| `Carâ`                 | `Pêlêren`           | an Earth personal name, in the name lists                  |
+| `Chârâ`                | `Ânkhêlen`          | an Earth personal name, in the name lists                  |
+| `Lôrâ`                 | `Têrêmen`           | an Earth personal name, in the name lists                  |
+| `Shânâ`                | `Sôlkimen`          | an Earth personal name, in the name lists                  |
+| `Tôrâ`                 | `Rêvôthis`          | an Earth personal name, in the name lists                  |
+| `Vêdâ`                 | `Hôlimis`           | an Earth personal name, in the name lists                  |
+| `Yânâ`                 | `Ôrthêmê`           | an Earth personal name, in the name lists                  |
+| `Kôrâ`                 | `Nîzêlis`           | an Earth personal name, in the name lists                  |
+| `Hârâ`                 | `Zêtimis`           | an Earth personal name, in the name lists                  |
+| `Haremâ`               | `Ôrthêmis`          | an Earth word, in the name lists                           |
+| `Silvain`              | `Sóurimael`         | an Earth word, an Élavendri village                        |
+| `Ménérva`              | `Mârendâs`          | an Earth goddess                                           |
+| `Ménérvan`             | `Mârendâsan`        | a demonym built on an Earth goddess                        |
+| `Táranon`              | `Brâzêmâs`          | an Earth god                                               |
+| `Táranonic`            | `Brâzêmâsan`        | a demonym built on an Earth god                            |
+| `Flórania`             | `Lîzêlâs`           | an Earth goddess                                           |
+| `Flóranian`            | `Lîzêlâsan`         | a demonym built on an Earth goddess                        |
+| `Floralis`             | `Lîzêlândi`         | a month named with an echo of an Earth goddess             |
+| `Taranis`              | `Brâzêmândi`        | a month named with an echo of an Earth god                 |
+| `Menaris`              | `Mârendândi`        | a month named with an echo of an Earth goddess             |
+| `Tibur`                | `Dêlâra`            | a place of Earth                                           |
+| `Valdosta`             | `Pôlthâra`          | a place of Earth                                           |
+| `Circus Maximus`       | `Râthaunâ Mêlvar`   | a place of Earth                                           |
+| `Castra Praetoria`     | `Thaurzûrgalis`     | a place of Earth                                           |
+| `Castra`               | `Thaurzûrgalis`     | a word of an Earth language, used for the guard's fortress |

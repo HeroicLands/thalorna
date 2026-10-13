@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [athenikos2]
-  affiliations: {athenikos: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {athenikos: {rank: 4}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 695.157

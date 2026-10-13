@@ -55,7 +55,7 @@ Much of what passes is theater, and the senators know it. Theater in the Curia i
 
 The Curia's authority is real but conditional, and its history is a long oscillation. In principle the Senate advises the Augustar, lends its weight to imperial acts, and speaks for the great houses. In practice its power waxes and wanes with the strength of whoever wears the imperial diadem.
 
-A strong Augustar reduces the Curia to a chorus, consulted for form, flattered and overruled at will. A weak or contested one finds it suddenly formidable, because without a commanding throne the assembled great families are the empire's center of gravity, and a succession dispute is decided as much in the Curia's lobbies as on the walls of the [[place-castraprtr|Castra Praetoria]]. The throne and the Senate are locked in a permanent, shifting negotiation, and reading which way it currently tilts is among the first things any player at court must learn.
+A strong Augustar reduces the Curia to a chorus, consulted for form, flattered and overruled at will. A weak or contested one finds it suddenly formidable, because without a commanding throne the assembled great families are the empire's center of gravity, and a succession dispute is decided as much in the Curia's lobbies as on the walls of the [[place-thaurzurgalis|Thaurzûrgalis]]. The throne and the Senate are locked in a permanent, shifting negotiation, and reading which way it currently tilts is among the first things any player at court must learn.
 
 ## The Senate as High Court
 

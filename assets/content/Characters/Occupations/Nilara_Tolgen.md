@@ -12,7 +12,7 @@ data:
   lore: []
   culture: provenzianclt
   homes: [lunacorte]
-  affiliations: {kngdmprvnz: {rank: 2}, taranon: {rank: 1}}
+  affiliations: {kngdmprvnz: {rank: 2}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.83

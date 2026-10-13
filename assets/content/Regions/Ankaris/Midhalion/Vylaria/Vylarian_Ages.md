@@ -9,12 +9,12 @@ data:
   culture: vylarianclt
   epoch: "1.1"
   months:
-    - {name: Floralis, abbreviation: Flor, days: 30}
+    - {name: Lîzêlândi, abbreviation: Lize, days: 30}
     - {name: Lusenar, abbreviation: Luse, days: 31}
     - {name: Pôzêrândi, abbreviation: Poze, days: 30}
-    - {name: Taranis, abbreviation: Tara, days: 31}
+    - {name: Brâzêmândi, abbreviation: Braz, days: 31}
     - {name: Thûmbândi, abbreviation: Thum, days: 30}
-    - {name: Menaris, abbreviation: Mena, days: 31}
+    - {name: Mârendândi, abbreviation: Mare, days: 31}
     - {name: Elthêzândi, abbreviation: Elth, days: 30}
     - {name: Karnavar, abbreviation: Karn, days: 30}
     - {name: Morveth, abbreviation: Morv, days: 31}
@@ -62,7 +62,7 @@ The **Vylarian Ages** are that division. They add no second count of years: the 
 
 ## How a Date Is Written
 
-A date gives the day and month of the Vylarian Calendar, the year, and the mark of the age: 1 Floralis 389 TE is the first morning of the first year of the Years of Three Eagles, which is also 1 Floralis 389 AF. The age marks are the abbreviations in the table. A year before the Founding is counted back from 1 BF and takes the mark KR, the Kings and the Republic.
+A date gives the day and month of the Vylarian Calendar, the year, and the mark of the age: 1 Lîzêlândi 389 TE is the first morning of the first year of the Years of Three Eagles, which is also 1 Lîzêlândi 389 AF. The age marks are the abbreviations in the table. A year before the Founding is counted back from 1 BF and takes the mark KR, the Kings and the Republic.
 
 ## The Eight Ages
 

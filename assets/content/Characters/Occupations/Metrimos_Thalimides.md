@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [kalydria2]
-  affiliations: {kalydria: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {kalydria: {rank: 4}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 678.58

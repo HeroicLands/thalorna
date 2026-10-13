@@ -52,7 +52,7 @@ The three do not always agree, and the reciters do not pretend they do. A named 
 
 ## The Year
 
-The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Floralis, and runs the world's three hundred and sixty-five days.
+The year turns four times, and each turn is also the season that follows it. The Varokh reckon no months finer than that, because the forest's work does not divide finer: the rivers decide where people can go, and the rivers change four times a year. The year opens at the thaw, on the morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Lîzêlândi, and runs the world's three hundred and sixty-five days.
 
 | Season | Days | What it holds                                                                                                           |
 | ------ | ---: | ----------------------------------------------------------------------------------------------------------------------- |

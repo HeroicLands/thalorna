@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [helionis], population: 60000, governme
 
 ## Overview
 
-A scholar's first lesson in **Thyrenae** is where the credential comes from: a Thyrenean education is the most prestigious a scholar can claim. The city is the oldest of the three that lead the seven, home to 60,000 people and the birthplace of the [[affiliation-panepistmm|Panepistemium]], the scholarly federation that gave rise to the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its academies remain the most respected centers of learning in western Ankaris, and students travel from across [[place-midhalnrgn|Mídhalión]] to attend them. Its patron is [[lore-menervadty|Ménérva]], goddess of knowledge and wisdom.
+A scholar's first lesson in **Thyrenae** is where the credential comes from: a Thyrenean education is the most prestigious a scholar can claim. The city is the oldest of the three that lead the seven, home to 60,000 people and the birthplace of the [[affiliation-panepistmm|Panepistemium]], the scholarly federation that gave rise to the [[affiliation-ordoarcanis|Ordo Arcanis]]. Its academies remain the most respected centers of learning in western Ankaris, and students travel from across [[place-midhalnrgn|Mídhalión]] to attend them. Its patron is [[lore-marendasdty|Mârendâs]], goddess of knowledge and wisdom.
 
 ## Character
 

@@ -27,7 +27,7 @@ The kingdom’s strategic position as a crossroads of trade and its mineral weal
 
 Provènzia's cultural landscape is marked by tension between the **Thânevar**, the old people of the Provenzal country, who emphasize traditional local governance and remember their petty kings, and the **Provenzians**, the city-dwelling heirs of the old Vylarian province. These groups clash over land, governance, and cultural identity. A centralized monarchy governs from the cities, but local traditions persist in rural areas, fueling resentment and periodic rebellions.
 
-The kingdom's religious tolerance is another area of cultural complexity. While the Church of the Sacred Forge is officially favored and politically powerful, other faiths, including Táranon and Black Flame traditions, coexist uneasily. This pluralism stems from policies established by the first king, Ylârven Lédravren, to unify the estates that chose him. However, the growing dominance of the Forge faithful has caused friction, particularly in regions where traditional or minority religions hold sway.
+The kingdom's religious tolerance is another area of cultural complexity. While the Church of the Sacred Forge is officially favored and politically powerful, other faiths, including Brâzêmâs and Black Flame traditions, coexist uneasily. This pluralism stems from policies established by the first king, Ylârven Lédravren, to unify the estates that chose him. However, the growing dominance of the Forge faithful has caused friction, particularly in regions where traditional or minority religions hold sway.
 
 #### Major Personalities
 

@@ -28,7 +28,7 @@ No tribe keeps a count of its own. Each [[skill-sowideslng|Sowides]] tribe is in
 
 ## The Year
 
-The year is four seasons, and each season is also a month. The tribes divide the year no finer, because the work of the steppe does not: grass, heat, wind and cold decide where the herds are and which wells are open, and a day is named by how far into the season it falls. "The forty-fifth of Orkes" is the forty-fifth day of the heat. The year opens with the spring grass, on the same morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Floralis, and its length is the world's three hundred and sixty-five days.
+The year is four seasons, and each season is also a month. The tribes divide the year no finer, because the work of the steppe does not: grass, heat, wind and cold decide where the herds are and which wells are open, and a day is named by how far into the season it falls. "The forty-fifth of Orkes" is the forty-fifth day of the heat. The year opens with the spring grass, on the same morning the [[lore-commoncal|Vylarian Calendar]] calls 1 Lîzêlândi, and its length is the world's three hundred and sixty-five days.
 
 - **Welqat**, the grass, ninety-one days. The spring rain falls on the north and the western margin, the herds fatten and the tribes move onto the high grazing. The late storms that bury a camp in an hour come before it ends.
 - **Orkes**, the heat, ninety-one days. The wells drop, the tribes draw in to the water they own, and the caravans that dare the crossing march by night.

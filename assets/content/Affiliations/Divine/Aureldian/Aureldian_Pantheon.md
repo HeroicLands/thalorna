@@ -51,16 +51,16 @@ The Aurèldían pantheon is the dominant religious tradition of western [[place-
 | ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------------------------- |
 | Dreams     | **Zûnêlâs**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-zunelas\|Faith of Zûnêlâs]]   |
 | Death      | **Sélmoros** | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-selmoros\|Faith of Sélmoros]] |
-| Storms     | **Táranon**  | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-taranon\|Faith of Táranon]]   |
+| Storms     | **Brâzêmâs** | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-brazemas\|Faith of Brâzêmâs]] |
 | Order      | **Árdavon**  | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-ardavon\|Faith of Árdavon]]   |
-| Knowledge  | **Ménérva**  | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-menerva\|Faith of Ménérva]]   |
+| Knowledge  | **Mârendâs** | Keeper of Sacred Wisdom     | Open book surrounded by glowing stars              | [[affiliation-marendas\|Faith of Mârendâs]] |
 | Prosperity | **Ólvenía**  | The Bountiful One           | Tree with golden fruits in a wreath                | [[affiliation-olvenia\|Faith of Ólvenía]]   |
 | Fire       | **Ústaron**  | The Forge-Lord              | Hammer over a flame-ringed anvil                   | _See below_                                 |
 | Creation   | **Lúsinía**  | The World-Weaver            | Spinning wheel encircled by vines                  | [[affiliation-lusinia\|Faith of Lúsinía]]   |
 | Chaos      | **Karnavos** | The Wild Beast              | Antlers framing a swirling spiral                  | [[affiliation-karnavos\|Faith of Karnavos]] |
 | Voyages    | **Pôzêrâs**  | The Wayfarer                | Staff entwined with serpents, crowned by a compass | [[affiliation-pozeras\|Faith of Pôzêrâs]]   |
 | Decay      | **Mórváná**  | Mistress of the Waning Moon | Wilting flower surrounded by mist                  | [[affiliation-morvana\|Faith of Mórváná]]   |
-| Fertility  | **Flórania** | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-florania\|Faith of Flórania]] |
+| Fertility  | **Lîzêlâs**  | The Nurturer                | Blooming flower encircled by a crescent            | [[affiliation-lizelas\|Faith of Lîzêlâs]]   |
 
 ## The Ústaran Schism
 

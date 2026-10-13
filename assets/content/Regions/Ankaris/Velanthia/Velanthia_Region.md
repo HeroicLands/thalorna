@@ -58,7 +58,7 @@ The **eastern oasis-and-river communities** along the inland-sea shore have abso
 
 ## Religion
 
-The Aurèldían Pantheon is the formal religion across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[affiliation-florania|Flórania]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aurèldían iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves—that the priesthood has long since stopped trying to suppress.
+The Aurèldían Pantheon is the formal religion across all Velanthian populations, though with a heavy local emphasis on the harvest-and-fertility deities (especially [[affiliation-lizelas|Lîzêlâs]]) and on the storm-and-protection aspects of the warrior gods. Velanthian shrines often layer Aurèldían iconography over older indigenous symbols—sun-wheels, river-horses, sacred groves—that the priesthood has long since stopped trying to suppress.
 
 The frontier Hosts maintain a more austere religious culture, with portable battle-shrines and traveling priests rather than fixed temples. Their religious practice has absorbed elements from the steppe peoples to the east—particularly an emphasis on sky-and-storm deities, oath-taking under the open sky, and the great seasonal gatherings where multiple Hosts assemble for joint religious observance and political consultation.
 

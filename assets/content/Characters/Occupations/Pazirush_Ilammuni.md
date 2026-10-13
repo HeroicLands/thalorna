@@ -12,7 +12,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [pashinar]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, florania: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 691.261

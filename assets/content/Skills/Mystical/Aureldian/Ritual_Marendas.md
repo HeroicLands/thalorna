@@ -1,10 +1,10 @@
 ---
-shortcode: taranon
-name: {full: "Ritual: Taranon", aliases: [Táranon, The Thunderer]}
+shortcode: marendas
+name: {full: "Ritual: Mârendâs", aliases: [Mârendâs, Keeper of Sacred Wisdom]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
-data: {icon: taranon, templatePriority: null, packFolder: aureldian}
+data: {icon: marendas, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-taranon|Faith of Taranon]]
+See [[affiliation-marendas|Faith of Mârendâs]]

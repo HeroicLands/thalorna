@@ -12,7 +12,7 @@ data:
   lore: []
   culture: kaliharanclt
   homes: [ilovanu]
-  affiliations: {kalihara: {rank: 3}, taranon: {rank: 1}}
+  affiliations: {kalihara: {rank: 3}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 662.303
@@ -485,7 +485,7 @@ Lately a darker motive has grown beside that one: the fear that something has go
 - **The House of Varendi**: an Ilovanu merchant house that has consulted Olivael before every great venture for thirty years and paid her well. Its present head, whom the port calls **Lord Maruvei**, counts her essential to his plans, and she thinks most of his plans foolish.
 - **The Council of the Panepistemium**: Olivael's relations with the federation's leadership are uneasy, but several senior scholars are devoted to her work and send her money, rare texts and instruments across the water.
 - **The Telvári observatory**: the pilots keep a chamber for her in the observatory where she studied, with the best instruments on the island and the quiet her work needs.
-- [[affiliation-taranon|Faith of Taranon]]: the priests of the storm god's temple in Ilovanu's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
+- [[affiliation-brazemas|Faith of Brâzêmâs]]: the priests of the storm god's temple in Ilovanu's foreign quarter, who count her readings of the sky a help to their own and support her with money and counsel.
 
 ### Enemies
 
@@ -496,7 +496,7 @@ Lately a darker motive has grown beside that one: the fear that something has go
 ### Affiliations
 
 - [[affiliation-kalihara|Kalihara]]: she holds a craftsman's standing among the port Kaliharans, as a master of the reckoning the pilots depend on.
-- [[affiliation-taranon|Faith of Taranon]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
+- [[affiliation-brazemas|Faith of Brâzêmâs]]: not ordained, she serves the storm god's priests as an advisor on the heavens, and keeps the faith herself.
 - [[affiliation-panepistmm|Panepistemium]]: a senior member by correspondence, at odds with some of its factions.
 
 ## Plot Hooks

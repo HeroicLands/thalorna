@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [byzaris]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.277
@@ -428,7 +428,7 @@ Sakozês stands 5'9" tall with a medium build. He has sun-tanned skin, graying b
 
 **A Born Voice**
 
-Sakozês was born in the coastal city of Byzaris, major city of the Byzarian League, to a family of considerable standing. His father, **Dafos Bûlîdês**, held the position of Herald to the city governor, while his mother, **Yorodkâra**, was a priestess of Flórania, goddess of fertility and abundance. From infancy, Sakozês was trained in the formal arts of ceremony and public address. Where other children learned to speak, Sakozês learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
+Sakozês was born in the coastal city of Byzaris, major city of the Byzarian League, to a family of considerable standing. His father, **Dafos Bûlîdês**, held the position of Herald to the city governor, while his mother, **Yorodkâra**, was a priestess of Lîzêlâs, goddess of fertility and abundance. From infancy, Sakozês was trained in the formal arts of ceremony and public address. Where other children learned to speak, Sakozês learned to project, to modulate, to command through the sheer power of his voice. His mother's priesthood taught him the sacred significance of ritual and symbol, while his father's work demonstrated how these elements could be wielded as instruments of governance and public order.
 
 He became a Herald's apprentice at age twelve, a formal status that meant he was recognized as heir to one of the most prestigious positions in the city hierarchy. For thirty-three years, he has served in this role, first under his father and later as an independent Herald serving the city's current governance. In that time, he has presided over hundreds of ceremonies, announcements, and official functions. He has pronounced the succession of three different city governors, announced the outcomes of wars, declared peace treaties, and given voice to the wisdom and authority of the state.
 
@@ -486,7 +486,7 @@ Governor Anthus Meridian
 The Grand Council of the Byzarian League
 : The highest governing body, which has come to rely on Sakozês as an advisor regarding proper ceremonial acknowledgment of important events, treaties, and transitions.
 
-High Priestess Teresia of Flórania
+High Priestess Teresia of Lîzêlâs
 : A priestess of the same order as his mother, who occasionally consults Sakozês regarding the intersection of religious ceremony and civic ritual.
 
 ### Enemies

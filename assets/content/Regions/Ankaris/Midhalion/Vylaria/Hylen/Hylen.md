@@ -44,7 +44,7 @@ Hylen is a country of estates and market-towns: great aristocratic domains, each
 - [[place-granaria|Granaria]] (~7,000)—the chief grain-market of the central province, all granaries and weighing-yards.
 - [[place-vindara|Vindara]] (~6,000)—a prosperous town of the terraced wine country.
 - [[place-olivenna|Olivenna]] (~5,000)—a town of presses and oil-merchants in the olive country.
-- [[place-valdosta|Valdosta]] (~5,000)—a market town of the estate country.
+- [[place-polthara|Pôlthâra]] (~5,000)—a market town of the estate country.
 - [[place-messora|Messora]] (~4,000)—a harvest-market town of the southern estates.
 - [[place-ashenmere|Ashenmere]] (~4,000)—a border town on the province's march.
 - [[place-cervalia|Cervalia]] (~2,500)—the forest town at the edge of the imperial game-reserve.

@@ -12,7 +12,7 @@ data:
   lore: []
   culture: elavendriclt
   homes: [liranel]
-  affiliations: {kngdmlvndr: {rank: 2}, taranon: {rank: 1}}
+  affiliations: {kngdmlvndr: {rank: 2}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.166

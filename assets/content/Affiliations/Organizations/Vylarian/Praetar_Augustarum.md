@@ -31,7 +31,7 @@ data:
       - level: 3
         title: Officer of the Guard
         description: >-
-          A junior officer of the guard, standing night watches at the Castra and the palace.
+          A junior officer of the guard, standing night watches at the Guard Camp and the palace.
       - level: 4
         title: Watch-Captain
         description: >-
@@ -54,13 +54,13 @@ sohl: {system: {commonSkills: []}}
 
 ## Overview
 
-A junior of the Praetar Augustarum, put on the Castra's wall for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
+A junior of the Praetar Augustarum, put on the Guard Camp's wall for his first night watch, is told the one thing the guard never says aloud: "Look at the palace. You are guarding it. Now look at us. Everyone in that palace knows which of those two things could end the other. Stand straight, and remember who feeds you."
 
-The **Praetar Augustarum** (_Vylarian: "the Guard of the Augustars"_) are the imperial guard: the personal bodyguard of the Augustar, the emperor, and the keepers of order and justice within the Inner City of [[place-orzara|Ôrzâra]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. They recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier castra but in the [[place-castraprtr|Castra Praetoria]] on the palace hill, the one fortress inside the **Inner Wall**. They are elite, lavishly equipped and intensely political: the praetorian muscle of the court, and the instrument through which the Augustar makes his grip on his own capital physical.
+The **Praetar Augustarum** (_Vylarian: "the Guard of the Augustars"_) are the imperial guard: the personal bodyguard of the Augustar, the emperor, and the keepers of order and justice within the Inner City of [[place-orzara|Ôrzâra]] itself. They stand apart from the [[affiliation-vylrnmltry|line legions]] in every way that matters. They recruit on their own authority, promote through their own ranks, answer to no Dux Bellorum or Magnar but to the throne directly, and are quartered not in a frontier camp but in the [[place-thaurzurgalis|Thaurzûrgalis]] on the palace hill, the one fortress inside the **Inner Wall**. They are elite, lavishly equipped and intensely political: the praetorian muscle of the court, and the instrument through which the Augustar makes his grip on his own capital physical.
 
 - **Type:** Imperial military institution; household guard and Inner City garrison
 - **Region of operation:** [[place-urbsaquiln|Urbs Aquilion]], the Inner City of Ôrzâra, and the imperial person wherever he travels
-- **Seat:** The Castra Praetoria, on the palace hill within the Inner Wall
+- **Seat:** The Thaurzûrgalis, on the palace hill within the Inner Wall
 - **Answerable to:** The reigning Augustar alone
 
 Their charge is twofold: the imperial person, and the peace of the Inner City. Within Urbs Aquilion they are guard, garrison and magistrate's arm together. They ward the [[place-palatimgnm|Palatium Magnum]], stand the gates and walls of the citadel, and keep order among the senators, priests, magistrates and great families who dwell or do business there. Their writ stops, sharply, at the Inner Wall. The vast city beyond is not theirs to police. That work belongs to the [[affiliation-vylrnmltry|City Watch]], and the division is deliberate.
@@ -93,13 +93,13 @@ The captaincy of the permanent palace detail is among the most trusted postings 
 
 ## Plot Hooks
 
-- **The Donative Withheld.** A new Augustar, pressed for funds, has delayed the customary accession donative. The Castra reads the delay as either weakness or insult, and more than one party is quietly sounding out the officers who command the watches.
-- **The Wrong Gate.** On a night of crisis, the question of which way the gates of the Castra open will decide a succession. A handful of watch-captains hold the answer, and rival claimants and their agents are courting, threatening and bribing each of them.
+- **The Donative Withheld.** A new Augustar, pressed for funds, has delayed the customary accession donative. The Guard Camp reads the delay as either weakness or insult, and more than one party is quietly sounding out the officers who command the watches.
+- **The Wrong Gate.** On a night of crisis, the question of which way the gates of the Guard Camp open will decide a succession. A handful of watch-captains hold the answer, and rival claimants and their agents are courting, threatening and bribing each of them.
 - **The Praetorian's Reach.** A senior guard officer has begun extending the guard's keeping of order within the Inner City into matters that properly belong to the imperial tribunals: arrests, detentions, quiet disappearances, all under color of protecting the throne. The civic courts and the affected great houses are alarmed. The Augustar finds the overreach useful and is in no hurry to curb it.
 
 ## See Also
 
-- [[place-castraprtr|Castra Praetoria]]—the guard's fortress on the palace hill
+- [[place-thaurzurgalis|Thaurzûrgalis]]—the guard's fortress on the palace hill
 - [[place-palatimgnm|Palatium Magnum]]—the palace they protect
 - [[place-urbsaquiln|Urbs Aquilion]]—the Inner City they garrison
 - [[affiliation-vylrnmltry|The Vylarian Military]]—the line legions and the City Watch, kept separate from the guard

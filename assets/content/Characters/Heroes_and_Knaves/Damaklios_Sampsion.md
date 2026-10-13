@@ -12,7 +12,7 @@ data:
   lore: []
   culture: byzarianclt
   homes: [orashion2]
-  affiliations: {byzarianlg: {rank: 3}, florania: {rank: 1}}
+  affiliations: {byzarianlg: {rank: 3}, lizelas: {rank: 1}}
   gender: male
   species: humanflk
   born: 675.281
@@ -97,7 +97,7 @@ sohl:
     - name: Inkwell and quills
       type: miscgear
       system: {shortcode: inkwellandquills, weight: 1, value: 100, durability: 3}
-    - name: Silver crescent-moon amulet (Flórania cult token)
+    - name: Silver crescent-moon amulet (Lîzêlâs cult token)
       type: miscgear
       system: {shortcode: silvercrescentmoon, weight: 1, value: 100, durability: 3}
     - {model: sohl-sohl-containergear-backpk}
@@ -492,7 +492,7 @@ The Theft Syndicate of the Eastern Docks
 Cartographers' Guild of the Byzarian League
 : His official affiliation, though increasingly tenuous. The guild knows of suspicions against him but maintains his membership pending formal charges.
 
-Flórania's Mystery Cults
+Lîzêlâs's Mystery Cults
 : His crescent moon tattoo marks him as formally initiated into one of the fertility mystery cults. The cult provides some spiritual comfort and occult understanding, though his involvement has become more distant over the years.
 
 The Black Ledger (Underground Cartography Network)

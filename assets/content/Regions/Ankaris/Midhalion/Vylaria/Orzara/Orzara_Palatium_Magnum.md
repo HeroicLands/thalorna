@@ -32,5 +32,5 @@ For all that it is the Augustar's residence, the Palatium is also an instrument 
 - [[place-orzara|Ôrzâra]]—and the Hand of the Ordo
 - [[place-magngndorery|Grand Orrery]]—the Mechanical Court
 - [[affiliation-ordoarcanis|Ordo Arcanis]]—permitted to display its marvels here
-- [[affiliation-pratrgstrm|The Praetar Augustarum]]—the imperial guard who keep the palace · [[place-castraprtr|Castra Praetoria]]
+- [[affiliation-pratrgstrm|The Praetar Augustarum]]—the imperial guard who keep the palace · [[place-thaurzurgalis|Thaurzûrgalis]]
 - [[place-aulpnpstmm|Aula Panepistemium]]—the Panepistemium's inner seat, sharing the hill

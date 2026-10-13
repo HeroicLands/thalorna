@@ -12,7 +12,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [shamular]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, florania: {rank: 1}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 1}}
   gender: female
   species: humanflk
   born: 694.79

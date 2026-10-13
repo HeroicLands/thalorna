@@ -12,7 +12,7 @@ data:
   lore: []
   culture: tarvenanclt
   homes: [torreviga]
-  affiliations: {kingdmtrvn: {rank: 3}, taranon: {rank: 1}}
+  affiliations: {kingdmtrvn: {rank: 3}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 667.107
@@ -508,8 +508,8 @@ The Guild of Scribes
 The Archives of Tarvénia
 : He has effectively become the guardian of the city's historical records and legal documents.
 
-The Order of Táranon
-: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
+The Order of Brâzêmâs
+: Hálrikos is a pious if unemotional follower of Brâzêmâs, god of storms and order, attending temple services regularly.
 
 ## Plot Hooks
 

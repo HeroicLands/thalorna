@@ -12,7 +12,7 @@ data:
   lore: []
   culture: vylarianclt
   homes: [belekos]
-  affiliations: {vylarinmpr: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {vylarinmpr: {rank: 4}, brazemas: {rank: 1}}
   gender: male
   species: humanflk
   born: 683.299

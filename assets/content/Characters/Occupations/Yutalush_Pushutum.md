@@ -12,7 +12,7 @@ data:
   lore: []
   culture: taruzelianclt
   homes: [bazunel2]
-  affiliations: {cnfdrtntrzlnstts: {rank: 3}, florania: {rank: 3}}
+  affiliations: {cnfdrtntrzlnstts: {rank: 3}, lizelas: {rank: 3}}
   gender: male
   species: humanflk
   born: "685.27"
@@ -402,7 +402,7 @@ Yutâlûsh was born twenty years after [[affiliation-cnfdrtntrzlnstts|Tarûzel]]
 
 The last fifteen years have been grinding. [[affiliation-auricompct|The Auric Compact]]'s consolidation of power meant that wealth concentrated upward while common people discovered that independence meant only that their oppressors were local rather than distant. [[affiliation-corsairleg|The Corsair League]]'s rise created periodic violence. [[affiliation-mrchntryvl|The Merchantry of the Veil]] operated in shadows. Yutâlûsh treated the consequences: wound infections, poverty-related illness, malnutrition, complications from unsafe births. He also treated soldiers—sometimes soldiers of the oligarchy's forces, sometimes wounded corsairs or resistance fighters. Over years, his clinic became a de facto neutral ground, and through his work, he accumulated knowledge that no one person should carry alone.
 
-He came to the priesthood of Flórania almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Bazûnel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
+He came to the priesthood of Lîzêlâs almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Bazûnel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
 
 ## Psyche
 
@@ -416,7 +416,7 @@ His great strength is his absolute trustworthiness and his skilled hands. His gr
 
 ## Social
 
-Yutâlûsh's formal affiliation is with the Temple of Flórania in Bazûnel, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Bazûnel's tangled politics. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
+Yutâlûsh's formal affiliation is with the Temple of Lîzêlâs in Bazûnel, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Bazûnel's tangled politics. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
 
 This positions him as uniquely isolated. He has no peers in Bazûnel's priesthood—the other temple clergy view him with a mixture of reverence and resentment. He cannot socialize openly with either oligarchs or resistance figures without raising questions about his loyalties. His personal relationships are minimal; people approach him as a healer, not as a friend. The emotional cost of this role, however necessary it is, accumulates daily.
 

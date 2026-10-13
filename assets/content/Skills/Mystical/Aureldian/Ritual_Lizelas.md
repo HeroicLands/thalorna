@@ -1,10 +1,10 @@
 ---
-shortcode: florania
-name: {full: "Ritual: Flórania", aliases: [Flórania, The Nurturer]}
+shortcode: lizelas
+name: {full: "Ritual: Lîzêlâs", aliases: [Lîzêlâs, The Nurturer]}
 type: skill
 subType: mystical
 tags: [aureldian, faith-skill, draft]
-data: {icon: florania, templatePriority: null, packFolder: aureldian}
+data: {icon: lizelas, templatePriority: null, packFolder: aureldian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-florania|Faith of Flórania]]
+See [[affiliation-lizelas|Faith of Lîzêlâs]]

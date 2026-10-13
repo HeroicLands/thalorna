@@ -12,7 +12,7 @@ data:
   lore: []
   culture: helioniteclt
   homes: [korinthea2]
-  affiliations: {korinthea: {rank: 4}, taranon: {rank: 1}}
+  affiliations: {korinthea: {rank: 4}, brazemas: {rank: 1}}
   gender: female
   species: humanflk
   born: 698.94
