@@ -216,7 +216,7 @@ sohl:
             shockValue: 1
             probWeight: 10
             protectionBase: {blunt: 3, edged: 2, piercing: 1, fire: 3}
-      weight: {base: 130, calc: "130"}
+      weight: {base: 400, calc: "400"}
       reachBase: 0
       bodyScaleBase: 1.06
       personalFatigue: enc + 5
