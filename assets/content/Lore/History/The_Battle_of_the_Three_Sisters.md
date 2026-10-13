@@ -81,7 +81,4 @@ What was lost there is more than a king and more than a war. It ended in the way
 make it irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a
 crisis, for the second time, having spent six hundred years persuading them it would not happen again.
 
-Nearly every human on Aelwyth today descends from those refugees; the Vardain and the oldest Peshtar
-lines descend from the farmers the Khazári brought across before them, and the lines have long since
-mixed. None of them know it, and neither Elder
-Race has ever seen a reason to tell them.
+Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is the Vardain, who descend from the humans the Khazári brought across before them, a much older line that is not Pelwar.

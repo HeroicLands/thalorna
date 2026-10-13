@@ -122,9 +122,7 @@ king was killed at the [[place-threesisters|Three Sisters]] in what is now the
 the Khazári finished the war alone and have not spoken to them since. How the war ended, and what it left
 to the humans who stayed, is told in [[lore-endgreatwar|the Ending of the Great War]].
 
-Nearly every human on Aelwyth today descends from those refugees; the Vardain and the oldest Peshtar
-lines descend from the farmers the Khazári brought across before them, and the lines have long since
-mixed. None of them know it, and neither elder race has ever seen a reason to tell them.
+Nearly every human on Aelwyth today descends from those refugees, the Peshtar among them. The exception is the Vardain, who descend from the humans the Khazári brought across before them, a much older line that is not Pelwar.
 
 ## The Crown Roads
 

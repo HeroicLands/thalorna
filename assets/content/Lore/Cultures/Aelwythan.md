@@ -11,7 +11,7 @@ tags: []
 
 Seven hundred thousand people on one island conduct their affairs with the seriousness of continental powers. The great kingdoms' rivalries are followed as great politics; a family's place in the order of its realm is weighed, argued and remembered. A single Vylarian province holds many times the island's people, but most Aelwythans have no functional idea of that scale. Those told tend to take it for a traveler's exaggeration.
 
-The manorial households of Aldorath, the mage-ruled courts of Dúnavarre and the citizen soldiery of Ondareth make different demands. Stormveld is ruled by Nordmen, and its Vardain thralls are not simply another Aelwythan estate. The western Peshtar clans keep their own law and account of their ancestry; whether they stand within the wider Aelwythan name remains unsettled.
+The manorial households of Aldorath, the mage-ruled courts of Dúnavarre and the citizen soldiery of Ondareth make different demands. Stormveld is ruled by Nordmen, and its Vardain thralls are not simply another Aelwythan estate. The western Peshtar clans are Pelwar-descended like nearly every human on the island, and so Aelwythans by descent, but they live by clan law and herd rather than by realm, and stand apart from the realms' common life by that way of living.
 
 ## Good Name, Bad Name
 
