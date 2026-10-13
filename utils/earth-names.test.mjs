@@ -21,6 +21,13 @@ test("an Earth name is found, with its column", () => {
     assert.equal(findEarthNames("a.md", "speaking Norwegian").length, 1);
 });
 
+test("the founder of an Earth faith is found under each of his names", () => {
+    assert.deepEqual(findEarthNames("a.md", "the month of Zarathustra"), [
+        'a.md:1:14: error: "Zarathustra" is an Earth proper name',
+    ]);
+    assert.equal(findEarthNames("a.md", "Zoroaster and Zarathushtra").length, 2);
+});
+
 test("whole words and in-world vocabulary pass", () => {
     assert.equal(findEarthNames("a.md", "englishman").length, 0);
     assert.equal(findEarthNames("a.md", "the common tongue of an empire").length, 0);

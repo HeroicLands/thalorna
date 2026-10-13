@@ -509,6 +509,7 @@ Worked names and words, each built from the stems above.
 | Dēlkoshekh    | `atarzadi` | word-bearer: the teacher-priest, the working Āsháian priesthood; `Hērbad` is retired         | `dēlkosh` + `-ekh`          |
 | Shēkhulsīghot | `atarzadi` | elder of the flame: the senior priest of a major fire-temple; `Mōbad` is retired             | `shēkhul` + `sīghot`        |
 | Shēkhulūkhem  | `atarzadi` | council of the flame: the body of the priesthood; `Mōbadate` is retired                      | `shēkhul` + `lūkhem`        |
+| Lēqoshzūqel   | `atarzadi` | the garden moon: the priesthood's name for the Tellumi Fourth month                          | `lēqosh` + `zūqel`          |
 | Vurinkarvem   | `tellumi`  | holy stone: the cliff over the great spring of Shirvan; `Mōrávar` is retired                 | `vurin` + `karvem`          |
 | Velkunvartun  | `tellumi`  | the gate of the lost one: the night gate of the settlement among the ruins of old Vahúrdash  | `velkun` + `vartun`         |
 | Talbemsirvel  | `tellumi`  | the forbidden tower: the Tower of Silence north of Ashkarad that no priest approaches        | `talbem` + `sirvel`         |
