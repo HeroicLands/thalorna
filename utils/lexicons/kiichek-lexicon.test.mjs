@@ -68,6 +68,14 @@ test("a Built from cell its parts do not give is an error", () => {
     assert(errorsOf(broken).some((f) => f.message.includes("does not recompute")));
 });
 
+test("a name of two words carrying glottal stops recomputes from its words", () => {
+    const row = lexicon.split("\n").find((line) => line.startsWith("| **Kul'qat Tz'umul**"));
+    assert(row, "the register holds Kul'qat Tz'umul");
+    assert(!run().some((f) => f.message.includes("Kul'qat Tz'umul does not recompute")));
+    const broken = cellEdited("| **Kul'qat Tz'umul**", 3, "`kul'qat` + `tz'omal`");
+    assert(errorsOf(broken).some((f) => f.message.includes("Kul'qat Tz'umul does not recompute")));
+});
+
 test("a word closing on a consonant the page does not allow is an error", () => {
     const broken = rowEdited("| `tz'omal`", (line) => line.replace("`tz'omal`", "`tz'omay`"));
     assert(errorsOf(broken).some((f) => f.message.includes("tz'omay")));

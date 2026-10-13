@@ -55,5 +55,6 @@ The region is the heartland of the [[affiliation-empireakhlth|Empire of Aû'Khel
 - [[affiliation-empireakhlth|Empire of Aû'Khelâthu]]—the realm that holds this region
 - [[lore-khelathiclt|Khelâthi]]—the people and their ways
 - [[place-khuqetmiglet|Khuqet-Miglet]]—the northeastern desert-march toward [[place-dunharargn|Dunhara]]
+- [[place-lutithnet|Lut-Ithnet]]—a funerary estate under the western cliffs, at the end of a canal that has run dry
 - [[place-bethuargn|Bethûa Region]]—neighbor to the west
 - [[place-okharisrgn|Okháris Region]]—the irrigated and pastoral country beyond Bethûa

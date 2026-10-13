@@ -61,3 +61,4 @@ The same spring can open a session three different ways.
 - [[place-khzryndsrtrgn|Khazryn Desert Region]]—the land and its tribes
 - [[lore-celestialroad|The Celestial Road]]—the road, its named wells and the passage that is sold
 - [[skill-sowideslng|Sowides Language]]—the tongue in which the price is named
+- [[place-qelodwatri|Qelodwàtri]]—an owned spring whose lid holds something worse than a qelodud

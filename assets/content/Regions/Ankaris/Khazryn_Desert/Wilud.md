@@ -36,3 +36,5 @@ The Ruweles, the hidden-water bands who guide the Hosikor, are the first to lear
 
 - [[lore-towercities|The Tower Cities]]—the league that built it
 - [[place-ruinsarkor|Ruins of Arkor]]—the same league's westernmost city
+- [[place-bolidqiso|Bolidqìso]]—a counting-house tower in a street the dunes have opened
+- [[scenario-wludwtchmn|The Watchman beneath Wilud]]—a scenario set here

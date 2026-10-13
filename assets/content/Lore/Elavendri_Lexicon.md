@@ -882,6 +882,8 @@ Every name in the scope of the Élavendri tongue—the people of the kingdom, it
 | **The Hall Under the Hill**                  | [[place-kptfr\|The Kept Fire]]                                                                                                                     | `translation`   | —          |
 | **The Dusk Ford**                            | [[place-dskfrd\|The Dusk Ford]]                                                                                                                    | `translation`   | —          |
 | **Ólvarnë**                                  | [[place-dskfrd\|The Dusk Ford]]                                                                                                                    | `elavendri`     | —          |
+| **The Hunter's Ring**                        | [[place-hntrsrng\|The Hunter's Ring]]                                                                                                              | `translation`   | —          |
+| **Pálmirno**                                 | [[place-hntrsrng\|The Hunter's Ring]]                                                                                                              | `other:aelendi` | —          |
 
 ### Retired names
 

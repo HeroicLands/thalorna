@@ -1244,7 +1244,7 @@ export function analyse({
                     `${r.name} is a ${r.tongue} name the lexicon does not reach`,
                 );
             else if (
-                fold(built.made) !== fold(r.name).replace(/[\s'’]/g, "") &&
+                fold(built.made).replace(/['’]/g, "") !== fold(r.name).replace(/[\s'’]/g, "") &&
                 lower(built.made) !== lower(r.name)
             ) {
                 add(

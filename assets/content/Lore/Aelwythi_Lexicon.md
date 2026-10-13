@@ -251,9 +251,11 @@ A byname draws on these and on the place-name elements above.
 | **Stormveil**   | [[place-stormveil\|Stormveil]]                                                                 | `place`  | `storm` + `veil`        |
 | **Storton**     | [[being-rowenstrtn\|Storton]]                                                                  | `byname` | `stor` + `ton`          |
 | **Sunderfells** | [[place-sunderfells\|Sunderfells]]                                                             | `place`  | `sunder` + `fells`      |
+| **Sunderwynd**  | [[place-sunderwynd\|Sunderwynd]]                                                               | `place`  | `sunder` + `wynd`       |
 | **Sunnerslade** | [[place-sunnerslade\|Sunnerslade]]                                                             | `place`  | `sunner` + `slade`      |
 | **Thornbury**   | [[place-thornbury\|Thornbury]]                                                                 | `place`  | `thorn` + `bury`        |
 | **Threndale**   | [[place-threndale\|Threndale]]                                                                 | `place`  | `thren` + `dale`        |
+| **Threnhallow** | [[place-threnhallow\|Threnhallow]]                                                             | `place`  | `thren` + `hallow`      |
 | **Vargate**     | [[place-vargate\|Vargate]]                                                                     | `place`  | `var` + `gate`          |
 | **Wigmore**     | [[being-ethlndwgmr\|Wigmore]]                                                                  | `byname` | `wig` + `more`          |
 | **Wilfred**     | [[being-wilfrednwl\|Wilfred]]                                                                  | `given`  | `wil` + `fred`          |

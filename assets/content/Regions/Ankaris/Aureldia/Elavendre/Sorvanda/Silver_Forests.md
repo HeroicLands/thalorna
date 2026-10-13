@@ -49,3 +49,5 @@ In rare cases, the Áelendan have escorted specific individuals into outer porti
 - [[lore-faecourts|The Fae Courts]]—Related fae phenomena
 - [[lore-flksinale|Sinalë]]—The elder race associated with the forests
 - [[lore-blacksnow|The Black Snow]]—The felling that gave the Áelendan their birch law
+- [[place-hntrsrng|The Hunter's Ring]]—The ring of boundary stones on the forests' outer margin, and the hunter whose ground it holds
+- [[scenario-lodgesilvbgh|The Lodge beneath the Silver Boughs]]—A scenario set at the Hunter's Ring

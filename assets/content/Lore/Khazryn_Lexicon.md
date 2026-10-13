@@ -484,6 +484,16 @@ Worked names and words, each built from the stems above.
 | Hilodye       | `sowides`  | a woman's name: sun; the chief of the Âzardan                                                | `hilod` + `-ye`             |
 | Kesuqyemok    | `sowides`  | a man's name: eagle-oath; a shaman of the Âzardan; `Darius` is retired                       | `kesuq` + `yemok`           |
 | Huwenqenod    | `sowides`  | a man's name: deer-sword; a desert lord who races camels                                     | `huwen` + `qenod`           |
+| Qelodwàtri    | `sowides`  | the cold well: an owned spring of the Kwìyohes                                               | `qelod` + `wàtri`           |
+| Kwìyohes      | `sowides`  | the arrow people: the tribe that owns the cold well                                          | `kwìyo` + `-es`             |
+| Bedaqud       | `sowides`  | the one who owns the water: the thing in the cistern of the cold well                        | `bedaq` + `-ud`             |
+| Gwerangahik   | `sowides`  | a man's name: storm-bow; a caravan guide of the grass                                        | `gweran` + `gahik`          |
+| Numekye       | `sowides`  | a woman's name: night; the wife of the warden of the cold well                               | `numek` + `-ye`             |
+| Budeqtolis    | `sowides`  | a man's name: vulture-spear; a rider of the Kwìyohes                                         | `budeq` + `tolis`           |
+| Wogelyemok    | `sowides`  | a man's name: wolf-oath; the water-warden of the cold well                                   | `wogel` + `yemok`           |
+| Bolidqìso     | `sowides`  | the price-tower: a counting-house tower of Wilud                                             | `bolid` + `qìso`            |
+| Sowidikraq    | `sowides`  | the stone escort: the watchman of the price-tower                                            | `sowid` + `dikraq`          |
+| Kesuqenod     | `sowides`  | a man's name: eagle-sword; a hired hand at the price-tower                                   | `kesuq` + `qenod`           |
 | Tēghumōd      | `atarzadi` | a tribe: the sons of trade; the merchant-tribe of Ashkarad; `Ardashír` is retired            | `tēghum` + `-ōd`            |
 | Būrqālōd      | `atarzadi` | a tribe: the sons of the mountain; the keeper-tribe of Mount Shōfar; `Khorshad` is retired   | `būrqāl` + `-ōd`            |
 | Tōzhirōd      | `atarzadi` | a tribe: the sons of the law; the scholar-tribe of Kethramír; `Zarvān` is retired            | `tōzhir` + `-ōd`            |
@@ -620,6 +630,11 @@ Every name of every note in the region stands here with the note it names and it
 | Zevârad Dathvarûn                             | [[being-zevaradthvrn\|Zevârad Dathvarûn]]                          | `older`   | a name older than the rules                               |
 | Wilud                                         | [[place-wilud\|Wilud]]                                             | `sowides` | `wilud`                                                   |
 | The Half-Buried Towers                        | [[place-wilud\|Wilud]]                                             | `gloss`   | a glossed name on `Wilud`                                 |
+| Qelodwàtri                                    | [[place-qelodwatri\|Qelodwàtri]]                                   | `sowides` | `qelod` + `wàtri`                                         |
+| The Cold Well                                 | [[place-qelodwatri\|Qelodwàtri]]                                   | `gloss`   | a glossed name on `Qelodwàtri`                            |
+| Bolidqìso                                     | [[place-bolidqiso\|Bolidqìso]]                                     | `sowides` | `bolid` + `qìso`                                          |
+| The Counting-House Tower                      | [[place-bolidqiso\|Bolidqìso]]                                     | `gloss`   | a glossed name on `Bolidqìso`                             |
+| The Price-Tower                               | [[place-bolidqiso\|Bolidqìso]]                                     | `gloss`   | a glossed name on `Bolidqìso`                             |
 | Jilaq                                         | [[place-jilaq\|Jilaq]]                                             | `sowides` | `jilaq`                                                   |
 | The Lantern City                              | [[place-jilaq\|Jilaq]]                                             | `gloss`   | a glossed name on `Jilaq`                                 |
 | Wemaq                                         | [[place-wemaq\|Wemaq]]                                             | `sowides` | `wemaq`                                                   |

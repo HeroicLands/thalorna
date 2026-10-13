@@ -65,3 +65,5 @@ others of their kind have ever tried.
 ## See Also
 
 - [[place-aelwyth|Aelwyth]] · [[place-vorgald|Vorgald]] · [[place-sunderfells|The Sunderfells]]
+- [[place-sunderwynd|Sunderwynd]]—the watch-post above the gorge on the southern approach to the eastern pass
+- [[scenario-hangingdead|The Hanging Dead of the Ironfells]]—a scenario set at Sunderwynd

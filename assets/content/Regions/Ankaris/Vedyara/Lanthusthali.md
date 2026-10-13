@@ -42,6 +42,8 @@ New men in the companies are told the names of riders who went past the stones a
 - **The orqwenoq's dead.** A Khazryn noble house asks leave to bring its own rites to the field for the steppe dead. Settling half the field might quiet it or might wake it. The Bhūmipāla court must decide whether ending the curse is worth losing its most useful weapon against raiders, and the companies have made their view plain.
 - **The rider who came back.** A company rider missing past the stones for three nights walks into the post at dawn and will not say where he has been. The dream-readers at Ashvapada want him brought to them before he sleeps.
 
+[[scenario-lastwagonadv|The Last Wagon on the Banner Ground]] gives the first of these as a five-scene adventure.
+
 ## See Also
 
 - [[lore-marupalafl|The Fall of Marupāla]]—the battle that made it
