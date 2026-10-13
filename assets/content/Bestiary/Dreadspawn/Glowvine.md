@@ -72,7 +72,7 @@ sohl:
           defense:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true, constrict: true}
+          traits: {noBlock: true, constrict: true, impTA: 4}
     - name: Thorned Whipping
       type: skill
       system:

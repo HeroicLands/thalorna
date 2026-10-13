@@ -74,27 +74,6 @@ sohl:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
           traits: {noBlock: true, poison: true}
-    - name: Pouncing Tackle
-      type: skill
-      system:
-        shortcode: grab
-        subType: combattechnique
-        masteryLevelBase: 71
-        combatCategory: melee
-        impairedByRoles: [manipulator]
-        strikeMode:
-          type: melee
-          shortcode: grab
-          name: Pouncing Tackle
-          minParts: 1
-          assocSkillCode: null
-          attack: {disabled: false, spread: 2, modifier: 0}
-          impactBase: {numDice: 1, die: 6, modifier: 13, aspect: blunt}
-          lengthBase: 0
-          defense:
-            block: {disabled: true, modifier: 0, successLevelMod: 0}
-            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true}
   system:
     body:
       structure:
@@ -228,10 +207,6 @@ The spider waits for a back to be turned and leaps. It lands on the shoulders or
 ### Venomous Fangs
 
 The fangs go into the neck or the shoulder and the venom follows. The bite numbs first and paralyzes after; it kills a man only when he has taken several bites and no help.
-
-### Pouncing Tackle
-
-Twenty feet of leap ending on the prey's back, with the weight of the spider and the grip of eight legs holding it there while the fangs work.
 
 ## Special Abilities
 

@@ -71,27 +71,6 @@ sohl:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
           traits: {noBlock: true}
-    - name: Mire Grasp
-      type: skill
-      system:
-        shortcode: grab
-        subType: combattechnique
-        masteryLevelBase: 57
-        combatCategory: melee
-        impairedByRoles: [manipulator]
-        strikeMode:
-          type: melee
-          shortcode: grab
-          name: Mire Grasp
-          minParts: 1
-          assocSkillCode: null
-          attack: {disabled: false, spread: 12, modifier: 0}
-          impactBase: {numDice: 1, die: 6, modifier: 34, aspect: blunt}
-          lengthBase: 2
-          defense:
-            block: {disabled: true, modifier: 0, successLevelMod: 0}
-            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true}
   system:
     body:
       structure:
@@ -452,10 +431,6 @@ The swampgolem uses its weight and strength: it brings its fists down on boats a
 ### Mud Crush
 
 The swampgolem raises a huge arm and brings it down, crushing whatever is beneath. The blow shakes the ground, breaks boats and bones, and leaves the mud round it churned and treacherous.
-
-### Mire Grasp
-
-Arms of mud rise from the bottom of the marsh and seize a man's legs and body, and drag him under and into deeper water, holding him there with crushing force.
 
 ## Special Abilities
 

@@ -114,7 +114,7 @@ sohl:
           defense:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true}
+          traits: {noBlock: true, impTA: 4}
   system:
     body:
       structure:

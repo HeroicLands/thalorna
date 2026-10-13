@@ -74,27 +74,6 @@ sohl:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
           traits: {noBlock: true}
-    - name: Leg Grasp
-      type: skill
-      system:
-        shortcode: grab
-        subType: combattechnique
-        masteryLevelBase: 73
-        combatCategory: melee
-        impairedByRoles: [manipulator]
-        strikeMode:
-          type: melee
-          shortcode: grab
-          name: Leg Grasp
-          minParts: 1
-          assocSkillCode: null
-          attack: {disabled: false, spread: 2, modifier: 0}
-          impactBase: {numDice: 1, die: 6, modifier: 12, aspect: blunt}
-          lengthBase: 0
-          defense:
-            block: {disabled: true, modifier: 0, successLevelMod: 0}
-            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true}
   system:
     body:
       structure:
@@ -270,10 +249,6 @@ The hawk stoops and climbs. It comes in low and fast, strikes once with the mand
 ### Shearing Mandible
 
 The hawk dives and bites as it passes. The mandibles shear through flesh and light leather and take a piece out of whatever they close on. The pass is too fast to parry.
-
-### Leg Grasp
-
-The six legs close on a small animal, a child or a dog and lift it. A thing too heavy to carry far is dropped from a height.
 
 ## Special Abilities
 

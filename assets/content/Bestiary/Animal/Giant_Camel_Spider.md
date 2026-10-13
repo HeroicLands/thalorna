@@ -74,27 +74,6 @@ sohl:
             block: {disabled: true, modifier: 0, successLevelMod: 0}
             counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
           traits: {noBlock: true}
-    - name: Grasping Rush
-      type: skill
-      system:
-        shortcode: grab
-        subType: combattechnique
-        masteryLevelBase: 71
-        combatCategory: melee
-        impairedByRoles: [manipulator]
-        strikeMode:
-          type: melee
-          shortcode: grab
-          name: Grasping Rush
-          minParts: 1
-          assocSkillCode: null
-          attack: {disabled: false, spread: 2, modifier: 0}
-          impactBase: {numDice: 1, die: 6, modifier: 9, aspect: blunt}
-          lengthBase: 0
-          defense:
-            block: {disabled: true, modifier: 0, successLevelMod: 0}
-            counterstrike: {disabled: false, modifier: 0, successLevelMod: 0}
-          traits: {noBlock: true}
   system:
     body:
       structure:
@@ -228,10 +207,6 @@ The spider rushes. It closes in a flat sprint faster than a man can run, grips w
 ### Shearing Jaws
 
 The jaws close on flesh and work, one shear holding while the other saws, crushing and tearing at once. They carry no venom. The wound is ragged and bleeds freely, and a finger is gone in a few strokes.
-
-### Grasping Rush
-
-The spider hits at the end of its sprint and the feelers lock round the target and hold it, with a grip far stronger than its size suggests, while the jaws find bare skin. It is a collision followed by a hold, and a man who has one on his leg has to tear it off.
 
 ## Special Abilities
 
